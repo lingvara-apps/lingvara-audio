@@ -1,0 +1,26 @@
+name: tts-en
+on:
+  push:
+    branches: [tts-en-sample, tts-en-full]
+permissions:
+  contents: write
+jobs:
+  gen:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kur
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng >/dev/null
+          pip install -q kokoro-onnx soundfile
+          curl -sSL -o kokoro.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          curl -sSL -o voices.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+      - name: Üret
+        run: python3 tts/gen.py 2>&1 | tail -40
+      - name: Kaydet
+        if: always()
+        run: |
+          mkdir -p /tmp/o && cp -r out/. /tmp/o/ 2>/dev/null || true
+          cd /tmp/o && git init -q && git config user.name ci && git config user.email ci@x
+          git add -A && git commit -qm out && git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${GITHUB_REF_NAME}-out
