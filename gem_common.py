@@ -2,7 +2,7 @@ import os, time
 import requests
 
 KEYS = [k.strip() for k in os.environ.get("GKEYS", "").split(",") if k.strip()]
-MODELS = os.environ.get("GMODELS", "gemini-3.8-flash").split(",")
+MODELS = os.environ.get("GMODELS", "gemini-3.8-flash,gemini-3.8-flash-lite,gemini-flash-latest,gemini-flash-lite-latest").split(",")
 URL = "https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
 DEADLINE = float(os.environ.get("DEADLINE", time.time() + 320 * 60))
 dead = set()
