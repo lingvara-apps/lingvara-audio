@@ -6,7 +6,7 @@ import json, os, re, sys, time, glob
 import requests
 
 KEYS = [k.strip() for k in os.environ.get("GKEYS", "").split(",") if k.strip()]
-MODELS = os.environ.get("GMODELS", "gemini-2.5-flash").split(",")
+MODELS = os.environ.get("GMODELS", "gemini-3.8-flash").split(",")
 URL = "https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
 DEADLINE = time.time() + float(os.environ.get("MAXMIN", "330")) * 60
 ORDER = ["de", "es", "fr", "pt", "ru", "zh", "id", "az", "ar", "hi", "uz", "kk", "ky"]
@@ -77,8 +77,7 @@ def call(prompt):
                 try:
                     r = requests.post(URL.format(m=m), headers={"x-goog-api-key": k, "Content-Type": "application/json"},
                                       json={"contents": [{"parts": [{"text": prompt}]}],
-                                            "generationConfig": {"temperature": 0.3, "maxOutputTokens": 32768,
-                                                                 "thinkingConfig": {"thinkingBudget": 2048}}},
+                                            "generationConfig": {"temperature": 0.3, "maxOutputTokens": 32768}},
                                       timeout=300)
                 except Exception as e:  # noqa: BLE001
                     print("ağ hatası", type(e).__name__, flush=True)
@@ -96,7 +95,7 @@ def call(prompt):
                         dead.add((k, m))
                     continue
                 print(f"HTTP {r.status_code} anahtar #{KEYS.index(k)+1}: {r.text[:200]}", flush=True)
-                if r.status_code in (400, 401, 403):
+                if r.status_code in (400, 401, 403, 404):
                     dead.add((k, m))
         if len(dead) >= len(KEYS) * len(MODELS):
             return None
