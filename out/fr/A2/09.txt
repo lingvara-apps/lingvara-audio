@@ -1,0 +1,111 @@
+# UNIT: Services et achats | Banque, colis, coiffeur, vêtements
+## À la banque
+bank account | compte bancaire | Je veux ouvrir un compte bancaire.
+cash machine | distributeur automatique, DAB | Un distributeur automatique est-il près d'ici ?
+withdraw (withdrew, withdrawn) | retirer (de l'argent) | J'ai besoin de retirer un peu d'argent.
+coin | pièce de monnaie | J'ai besoin de pièces pour le horodateur.
+loan | prêt, emprunt | Ils ont fait un emprunt pour acheter une maison.
+balance | solde | Tu peux consulter ton solde en ligne.
+exchange rate | taux de change | Quel est le taux de change aujourd'hui ?
+banknote | billet de banque | Le distributeur ne donne que des billets de vingt euros.
+transfer | virement, transférer | Peux-tu faire le virement aujourd'hui ?
+savings | épargne, économies | Elle garde ses économies à la banque.
+## Colis et poste
+parcel | colis | Un colis est arrivé pour toi ce matin.
+postcode | code postal | Quel est ton code postal ?
+envelope | enveloppe | Mets la lettre dans une enveloppe.
+stamp | timbre | J'ai besoin de deux timbres pour ces lettres.
+deliver | livrer | Ils livrent des pizzas jusqu'à minuit.
+delivery | livraison | La livraison est gratuite pour les commandes de plus de trente livres.
+courier | courrier, livreur | Le livreur attend à la porte.
+sender | expéditeur | Le nom de l'expéditeur n'est pas sur la boîte.
+receive | recevoir | As-tu reçu ma lettre ?
+track | suivre (un colis) | Tu peux suivre ton colis en ligne.
+## Chez le coiffeur
+hairdresser | coiffeur | Mon coiffeur est très fort pour les cheveux bouclés.
+barber | barber, coiffeur pour hommes | Omar va chez le coiffeur toutes les deux semaines.
+haircut | coupe de cheveux | J'ai besoin d'une coupe.
+fringe | frange | Je voudrais une frange plus courte, s'il vous plaît.
+dye | teindre (les cheveux) | Sofia s'est teint les cheveux en rouge.
+shave | se raser, raser | Il se rase tous les matins.
+hairbrush | brosse à cheveux | Maria a acheté une nouvelle brosse à cheveux.
+trim | rafraîchir, couper les pointes | Coupez seulement les pointes, s'il vous plaît.
+blow-dry | faire un brushing | Pouvez-vous me faire un brushing ?
+hairstyle | coiffure | Tu aimes ma nouvelle coiffure ?
+## Services
+dry cleaner's | pressing | Je vais apporter mon costume au pressing.
+launderette | laverie automatique | Il y a une laverie automatique au coin de la rue.
+locksmith | serrurier | J'ai perdu mes clés, alors j'ai appelé un serrurier.
+tailor | tailleur | Le tailleur a raccourci mon pantalon.
+customer | client | Le magasin a beaucoup de clients fidèles.
+opening hours | horaires d'ouverture | Quels sont les horaires d'ouverture le samedi ?
+optician | opticien | J'ai besoin de nouvelles lunettes, je vais chez l'opticien.
+photocopy | photocopie | Puis-je avoir une photocopie de cette page ?
+florist | fleuriste | Emre a acheté des roses chez le fleuriste.
+staff | personnel | Le personnel ici est très serviable.
+## Ligne téléphonique
+voicemail | messagerie vocale | Je t'ai laissé un message vocal ce matin.
+top up | recharger | J'ai besoin de recharger mon téléphone.
+signal | réseau, signal | Il n'y a pas de réseau dans les montagnes.
+data | données mobiles | Je n'ai plus de données mobiles ce mois-ci.
+bill | facture | La facture de téléphone est trop élevée ce mois-ci.
+monthly | mensuel | Le prix mensuel est de quinze dollars.
+unlimited | illimité | J'ai des appels et des SMS illimités.
+roaming | itinérance | Désactive l'itinérance quand tu voyages.
+tariff | forfait, tarif | Ce forfait est moins cher pour les étudiants.
+text | envoyer un SMS | Envoie-moi un SMS quand tu arrives à la maison.
+## Au centre commercial
+shopping centre | centre commercial | Le nouveau centre commercial ouvre lundi.
+escalator | escalator, monte-charge | Prends l'escalator pour aller au deuxième étage.
+department store | grand magasin | Tu peux tout trouver dans ce grand magasin.
+changing room | cabine d'essayage | Où sont les cabines d'essayage ?
+food court | aire de restauration | Retrouvons-nous dans l'aire de restauration.
+bargain | bonne affaire | Cette veste était une vraie bonne affaire.
+shopping bag | sac de courses | Omar porte trois sacs de courses lourds.
+car park | parking | Le parking est encore plein.
+window shopping | lèche-vitrine | Nous avons fait du lèche-vitrine samedi.
+trolley | caddie, chariot | Peux-tu prendre un caddie, s'il te plaît ?
+## Paiements
+receipt | ticket de caisse, reçu | Gardez le ticket de caisse, s'il vous plaît.
+change | monnaie | Voici votre monnaie.
+contactless | sans contact | Puis-je payer sans contact ?
+refund | remboursement | Je voudrais un remboursement pour ces chaussures.
+instalment | mensualité, versement | Nous avons payé le canapé en six mensualités.
+afford | avoir les moyens (de) | Je n'ai pas les moyens d'acheter une nouvelle voiture.
+owe | devoir (de l'argent) | Je te dois dix dollars.
+tip | pourboire | Nous avons laissé un pourboire au garcon.
+price tag | étiquette de prix | Il n'y a pas d'étiquette de prix sur ce sac.
+total | total | Le total est de quarante-cinq livres.
+## Vêtements 2
+blouse | chemisier, blouse | Maria porte un chemisier blanc.
+cardigan | gilet, cardigan | Prends un gilet, il fait froid le soir.
+waistcoat | gilet (de costume) | Il a porté un gilet au mariage.
+tracksuit | survêtement | Je porte un survêtement à la maison.
+pyjamas | pyjama | Les enfants sont déjà en pyjama.
+swimsuit | maillot de bain | N'oublie pas ton maillot de bain !
+tights | collants | Elle a acheté des collants noirs pour l'hiver.
+trainers | baskets | Ces baskets sont très confortables.
+sandals | sandales | En été, je ne porte que des sandales.
+slippers | pantoufles | Mets tes pantoufles, le sol est froid.
+## Tissus et motifs
+cotton | coton | Cette chemise est en coton.
+wool | laine | Un pull en laine tient chaud.
+silk | soie | Elle a reçu un foulard en soie comme cadeau.
+leather | cuir | Je veux une veste en cuir.
+denim | jean, denim | Les vestes en jean ne se démodent jamais.
+striped | à rayures | Il porte une chemise bleue à rayures.
+checked | à carreaux | J'adore ta jupe à carreaux.
+spotted | à pois | Le bébé a un bonnet à pois.
+plain | uni | Je préfère les t-shirts unis.
+pattern | motif | Le motif de cette robe est magnifique.
+## En magasin
+try on | essayer | Puis-je essayer cette robe ?
+baggy | ample, baggy | Il aime porter des pantalons amples.
+suit | aller bien à | Cette couleur te va vraiment bien.
+go with (went, gone) | aller avec | Cette ceinture va-t-elle avec mes chaussures ?
+in stock | en stock | Ce modèle est-il en stock ?
+out of stock | en rupture de stock | Désolé, cette taille est en rupture de stock.
+just looking | je regarde simplement | Non merci, je regarde simplement.
+exchange | échanger | Puis-je échanger cette chemise contre une plus grande ?
+loose | large, ample | Ce pantalon est trop large.
+tight | serré | Les chaussures sont un peu serrées.

@@ -1,0 +1,111 @@
+# UNIT: Technologie | Appareils, Internet, réseaux sociaux, problèmes
+## Appareils
+device | appareil | Cet appareil fonctionne sans câbles.
+desktop | ordinateur de bureau | J'utilise un ordinateur de bureau à la maison.
+smartphone | smartphone | Presque tout le monde a un smartphone maintenant.
+charger | chargeur | Je peux t'emprunter ton chargeur de téléphone ?
+battery | batterie | La batterie tient toute la journée.
+headphones | casque (audio) | Yuki écoute de la musique avec un casque.
+keyboard | clavier | Ce clavier est très silencieux.
+webcam | webcam | Ma webcam ne fonctionne pas.
+speaker | haut-parleur | Connecte ton téléphone au haut-parleur.
+cable | câble | Ce câble est trop court.
+## Utilisation de l'ordinateur
+log in | se connecter | Connecte-toi avec ton adresse e-mail.
+log out | se déconnecter | N'oublie pas de te déconnecter.
+password | mot de passe | Ne partage jamais ton mot de passe.
+username | nom d'utilisateur | Mon nom d'utilisateur est trop long.
+click | cliquer | Clique sur le bouton bleu.
+type | taper (au clavier) | Emre tape très vite sur le clavier.
+save | enregistrer | Enregistre le document avant de le fermer.
+delete | supprimer | J'ai supprimé la photo par erreur.
+double-click | double-cliquer | Double-clique sur l'icône pour ouvrir le programme.
+paste | coller | Copie le texte et colle-le ici.
+## Internet
+website | site web | Le musée a un super site web.
+online | en ligne | J'achète la plupart des choses en ligne.
+offline | hors ligne | L'application fonctionne aussi hors ligne.
+download | télécharger | Tu peux télécharger la carte gratuitement.
+upload | mettre en ligne | Maria a téléchargé ses photos de vacances.
+homepage | page d'accueil | Retourne à la page d'accueil.
+link | lien | Clique sur le lien dans l'e-mail.
+web page | page web | Cette page web a beaucoup de publicités.
+Wi-Fi | Wi-Fi | Quel est le mot de passe du Wi-Fi ici ?
+connection | connexion Internet | La connexion Internet est très lente.
+## E-mails et messages
+unsubscribe | se désabonner | Je me suis désabonné de leurs e-mails.
+inbox | boîte de réception | Ma boîte de réception est pleine d'e-mails.
+email address | adresse e-mail | Quelle est ton adresse e-mail ?
+group chat | chat de groupe | Notre famille a un chat de groupe.
+video chat | chat vidéo | Nous avons fait un chat vidéo avec grand-maman.
+message | message | J'ai reçu un message d'Anna.
+voice message | message vocal | Omar m'a envoyé un long message vocal.
+subscribe | s'abonner | Abonne-toi à notre bulletin d'information.
+notification | notification | J'ai désactivé toutes les notifications.
+contacts | contacts | Ton numéro n'est pas dans mes contacts.
+## Réseaux sociaux
+social media | réseaux sociaux | Les adolescents passent des heures sur les réseaux sociaux.
+post | publier | Anna a publié une photo de son gâteau.
+emoji | émoji | Elle a répondu avec un émoji cœur.
+block | bloquer | Tu peux bloquer les personnes qui t'ennuient.
+follow | suivre | Je suis quelques pages de cuisine.
+comment | commentaire | Merci pour tous vos aimables commentaires !
+profile | profil | Mets à jour ta photo de profil.
+story | story (réseaux sociaux) | Elle publie une nouvelle story chaque jour.
+avatar | avatar | Choisis un avatar pour ton compte.
+tag | identifier | Identifie-moi sur la photo !
+## Smartphone
+app | application | Cette application m'aide à apprendre l'anglais.
+run out of battery (ran, run) | n'avoir plus de batterie | Mon téléphone n'avait plus de batterie dans le train.
+SIM card | carte SIM | J'ai acheté une carte SIM locale à l'aéroport.
+ringtone | sonnerie | Je n'aime pas ta nouvelle sonnerie.
+selfie | selfie | Prenons un selfie au bord de la rivière.
+swipe | balayer (l'écran) | Balaye vers la gauche pour voir plus de photos.
+screenshot | capture d'écran | Fais une capture d'écran de l'erreur.
+silent mode | mode silencieux | S'il te plaît, mets ton téléphone en mode silencieux.
+flat | déchargé | Désolé, ma batterie était déchargée.
+missed call | appel manqué | J'ai trois appels manqués de maman.
+## Problèmes techniques
+slow down | ralentir | Mon ordinateur ralentit quand j'ouvre beaucoup de programmes.
+freeze (froze, frozen) | se figer | L'écran s'est figé pendant l'appel.
+infected | infecté | Mon ordinateur portable est infecté, ne l'utilise pas.
+error | erreur | Un message d'erreur est apparu sur l'écran.
+restart | redémarrer | Essaie de redémarrer ton ordinateur portable.
+not working | ne fonctionnant pas | L'imprimante ne fonctionne plus.
+broken | cassé | L'écran de mon téléphone est cassé.
+technical support | support technique | Appelle le support technique pour obtenir de l'aide.
+loading | chargement | La page est encore en train de charger.
+go down (went, gone) | tomber en panne | Le site web est tombé en panne pendant une heure.
+## Sécurité et confidentialité
+account | compte | J'ai ouvert un nouveau compte hier.
+settings | paramètres | Vérifie tes paramètres de confidentialité.
+steal (stole, stolen) | voler | Quelqu'un a volé mes coordonnées bancaires en ligne.
+hack | pirater | Quelqu'un a piraté mon compte e-mail.
+back up | sauvegarder | Sauvegarde toujours tes photos.
+personal data | données personnelles | Protège tes données personnelles en ligne.
+scam | arnaque | Ce message est une arnaque, n'y réponds pas.
+fake | faux | Fais attention aux faux sites web.
+antivirus | antivirus | Installe un bon logiciel antivirus.
+secure | sécurisé | Cette page de paiement est-elle sécurisée ?
+## Jeux et divertissement
+computer game | jeu vidéo | Yuki conçoit des jeux vidéo.
+high score | record (de points) | Mon fils a battu mon record.
+game over | partie terminée | Oh non, la partie est encore terminée !
+controller | manette | Passe-moi la manette, c'est mon tour.
+console | console de jeux | Ali joue sur sa console le week-end.
+gamer | joueur (de jeux vidéo) | Mon frère est un joueur passionné.
+level | niveau | Je n'arrive pas à finir ce niveau.
+playlist | liste de lecture | J'ai créé une liste de lecture pour notre voyage en voiture.
+subscription | abonnement | J'ai annulé mon abonnement musical.
+user | utilisateur | L'application a des millions d'utilisateurs.
+## Technologie et vie quotidienne
+go online | aller sur Internet | Je vais sur Internet tous les matins.
+surf the internet | surfer sur Internet | Il surfe sur Internet pendant des heures.
+e-book | livre électronique | Je lis des livres électroniques dans le train.
+QR code | code QR | Scanne le code QR pour voir le menu.
+modern | moderne | Notre école a des ordinateurs très modernes.
+electric | électrique | Lukas conduit une voiture électrique.
+adapter | adaptateur | Tu as besoin d'un adaptateur pour cette prise.
+unplug | débrancher | Débranche la TV avant de partir en vacances.
+technology | technologie | La technologie change très rapidement.
+Bluetooth | Bluetooth | Allume le Bluetooth pour connecter le haut-parleur.

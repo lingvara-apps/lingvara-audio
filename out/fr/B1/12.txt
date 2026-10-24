@@ -1,0 +1,111 @@
+# UNIT: Droit et société | Lois, tribunal, État, droits
+## Lois et règles
+rule | règle | Veuillez lire les règles avant de commencer le jeu.
+legal | légal | Est-il légal de faire voler un drone au-dessus du centre-ville ?
+illegal | illégal | Il est illégal de garer sa voiture devant une caserne de pompiers.
+lawful | conforme à la loi, légitime | Le tribunal a jugé que les actions de l'entreprise étaient légales.
+against the law | contre la loi, illégal | Conduire sans assurance est contraire à la loi.
+prohibited | interdit (officiel) | Il est interdit de prendre des photos à l'intérieur de la salle d'audience.
+allowed | autorisé, permis | Les chiens ne sont pas admis sur la plage en été.
+obey | obéir à | Tout le monde doit obéir à la loi, même les plus riches.
+break the law | enfreindre la loi | Il ignorait qu'en campant là-bas, il enfreignait la loi.
+forbidden | interdit | Il est strictement interdit de fumer à l'intérieur de l'hôpital.
+## Crime
+crime | crime, délit | La criminalité est un problème grave dans certains quartiers de la ville.
+criminal | criminel | La police a arrêté le criminel à l'aéroport.
+theft | vol | Elle a signalé le vol de son vélo à la police.
+thief (thieves) | voleur | Un voleur m'a volé mon portefeuille alors que j'étais dans le bus bondé.
+robbery | braquage, vol à main armée | Il y a eu un braquage à main armée dans la banque de Main Street.
+burglar | cambrioleur | Le cambrioleur est entré par une fenêtre de cuisine ouverte.
+shoplifting | vol à l'étalage | L'adolescent a été pris en train de voler à l'étalage dans un magasin de vêtements.
+offender | délinquant, contrevenant | Les jeunes délinquants ont souvent une seconde chance de la part du tribunal.
+smuggle | faire passer en contrebande, introduire en fraude | Ils ont essayé de faire passer des cigarettes en contrebande à travers la frontière.
+commit | commettre (un crime) | La plupart des jeunes qui commettent un crime ne le refont jamais.
+## Police et enquête
+patrol | patrouiller | Des policiers patrouillent dans le parc chaque nuit après dix heures.
+investigate | enquêter sur | La police enquête sur l'incendie de l'entrepôt.
+investigation | enquête | L'enquête pourrait prendre plusieurs mois pour être finalisée.
+fingerprint | empreinte digitale | La police a trouvé ses empreintes digitales sur la fenêtre cassée.
+witness | témoin | Un témoin a vu l'homme s'enfuir du magasin.
+suspicious | suspect | Appelez la police si vous voyez quelque chose de suspect près de la gare.
+arrest | arrêter, interpeller | Deux hommes ont été arrêtés près de la gare la nuit dernière.
+clue | indice | Le détecteur a trouvé un indice important sous le tapis.
+detective | détective | Le détective a passé des heures à parler avec les voisins.
+crime scene | scène de crime | Personne n'a été autorisé à s'approcher de la scène de crime pendant deux jours.
+## Tribunal
+court | tribunal, cour | L'affaire ira en justice à la fin du mois prochain.
+judge | juge | Le juge a écouté attentivement les deux versions de l'histoire.
+testify | témoigner | Ali a accepté de témoigner sur ce qu'il a vu cette nuit-là.
+trial | procès | Le procès devrait durer environ trois semaines.
+defend | défendre | Un jeune avocat la défendra devant le tribunal.
+case | affaire, dossier | L'avocat a dit que nous avons un dossier très solide.
+accuse | accuser | Elle a été accusée d'avoir pris de l'argent à l'entreprise.
+guilty | coupable | Le jury l'a déclaré coupable des trois chefs d'accusation.
+innocent | innocent | Tout le monde est innocent jusqu'à ce que le tribunal prouve le contraire.
+on trial | en procès, jugé | Deux hommes sont jugés pour avoir volé des tableaux au musée.
+## Peine
+jail | prison, violon | Il a passé une nuit en prison après la bagarre.
+prison | prison, établissement pénitentiaire | Elle a passé deux ans en prison pour fraude.
+prisoner | prisonnier, détenu | Les prisonniers sont autorisés à étudier pour obtenir un diplôme.
+punishment | punition, sanction | Beaucoup de gens pensent que la punition était beaucoup trop légère.
+punish | punir | Les parents doivent-ils punir les enfants pour la moindre petite erreur ?
+penalty | amende, sanction | L'amende pour non-paiement de vos impôts peut être très élevée.
+release | libérer, relâcher | Il a été libéré de prison après avoir purgé trois ans.
+behind bars | derrière les barreaux | Le chef du gang sera derrière les barreaux pendant de nombreuses années.
+escape | s'échapper, s'évader | Deux prisonniers se sont évadés en escaladant le mur.
+parking ticket | contravention de stationnement | J'ai eu une amende de stationnement parce que je suis resté trop longtemps.
+## État et gouvernement
+politician | homme politique, femme politique | Le politicien a promis de construire plus d'hôpitaux l'année prochaine.
+senate | sénat | La nouvelle loi doit d'abord être approuvée par le sénat.
+civil servant | fonctionnaire | Ma tante travaille comme fonctionnaire depuis vingt ans.
+president | président | Le président a prononcé un discours à la télévision nationale.
+political | politique | Ils ne parlent jamais de sujets politiques lors des dîners de famille.
+stand for election | se présenter à une élection | Notre voisin prévoit de se présenter aux élections du conseil municipal.
+mayor | maire | Le maire a promis de nettoyer les parcs de la ville.
+local council | conseil municipal | Le conseil municipal veut ouvrir une nouvelle bibliothèque dans notre quartier.
+democratic | démocratique | Dans un pays démocratique, les gens choisissent leurs dirigeants.
+state | État | Dans de nombreux pays, l'État paie pour l'éducation de base.
+## Droits et libertés
+freedom of speech | liberté d'expression | La liberté d'expression est importante dans une société saine.
+equal rights | droits égaux, égalité des droits | Les femmes de nombreux pays se sont battues pour l'égalité des droits au travail.
+freedom | liberté | Pour beaucoup de jeunes, une première voiture signifie la liberté.
+free press | presse libre | Une presse libre aide les gens à connaître la vérité sur ceux qui détiennent le pouvoir.
+equal | égal | Tous les citoyens doivent être égaux devant la loi.
+discrimination | discrimination | La discrimination fondée sur l'âge est illégale ici.
+racist | raciste | Le club a banni le supporter pour avoir crié des commentaires racistes.
+peaceful | pacifique | des centaines d'étudiants ont rejoint une marche pacifique contre la hausse des frais de scolarité.
+demonstrator | manifestant | Les manifestants portaient des pancartes et chantaient des chansons sur la place.
+fairness | équité, justice | Les enfants ont un sens aigu de la justice dès le plus jeune âge.
+## Société et citoyenneté
+social | social | La ville essaie de résoudre ses problèmes sociaux, comme la solitude.
+good citizen | bon citoyen | Payer ses impôts à temps fait partie d'un bon citoyen.
+public service | service public | Les bus et les bibliothèques sont des services publics importants.
+social services | services sociaux | Les services sociaux aident les familles qui ont de graves problèmes à la maison.
+public | public | La bibliothèque est un bâtiment public, l'entrée est donc gratuite.
+unemployment benefit | allocation de chômage | Il a touché des allocations de chômage pendant six mois après avoir perdu son emploi.
+donation | don | L'hôpital a reçu un don important d'une famille locale.
+responsibility | responsabilité | Garder les rues propres est la responsabilité de tout le monde.
+duty | devoir | C'est ton devoir de dire à la police ce que tu as vu.
+donate | faire un don | Nous avons fait don de nos vieux vêtements aux personnes qui ont perdu leur maison.
+## Démarches administratives
+official letter | lettre officielle, courrier officiel | J'ai reçu un courrier officiel du bureau des impôts ce matin.
+bureaucracy | bureaucratie | Commencer une petite entreprise ici implique de faire face à beaucoup de bureaucratie.
+red tape | සහ [or similar: paperasserie, lourdeur administrative] | Les nouvelles règles devraient réduire la paperasserie pour les petites entreprises.
+notary | notaire | Vous devez signer les documents devant un notaire.
+application | candidature, demande | Veuillez envoyer votre candidature avant la fin du mois.
+queue up | faire la queue | Nous avons dû faire la queue pendant deux heures pour renouveler nos documents.
+licence | permis, licence | Elle a enfin obtenu son permis de conduire à l'âge de trente ans.
+identity card | carte d'identité | Veuillez présenter votre carte d'identité à l'entrée.
+passport office | bureau des passeports | La queue au bureau des passeports durait plus d'une heure.
+fill out | remplir | Veuillez remplir ce formulaire et le rapporter demain.
+## Litiges et justice
+disagreement | désaccord | Les deux voisins ont eu un long désaccord au sujet de la clôture du jardin.
+make a complaint | porter plainte, faire une réclamation | Camille a déposé une plainte concernant le bruit venant du bar.
+take to court | traîner en justice, emmener au tribunal | Les locataires ont décidé de traîner leur propriétaire en justice.
+settle | régler, résoudre | Ils ont réglé l'affaire sans aller au tribunal.
+fair trial | procès équitable | Tout le monde mérite un procès équitable, quoi qu'il ait fait.
+unfair | injuste | De nombreux travailleurs pensent que les nouvelles règles sont totalement injustes.
+injustice | injustice | Le film montre l'injustice subie par les familles pauvres.
+reach an agreement | trouver un accord, parvenir à un accord | Après de longues discussions, les deux parties sont enfin parvenues à un accord.
+legal advice | conseil juridique | Vous pouvez obtenir des conseils juridiques gratuits à la mairie le lundi.
+rights and duties | droits et devoirs | Les locataires doivent connaître leurs droits et devoirs avant de signer.
