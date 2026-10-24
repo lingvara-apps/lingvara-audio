@@ -1,0 +1,111 @@
+# UNIT: Stadt und Verkehr | Orte, Richtung, öffentliche Verkehrsmittel, Reise, Natur
+## Orte in der Stadt
+la ciudad | Stadt | Madrid ist eine große Stadt.
+la calle | Straße | Ich wohne in dieser Straße.
+la plaza | Platz | Wir treffen uns auf dem Platz.
+el parque | Park | Die Kinder spielen im Park.
+el barrio | Viertel, Stadtteil | Mein Viertel ist sehr ruhig.
+el centro | Zentrum | Ich arbeite im Zentrum.
+el puente | Brücke | Wir überqueren die Brücke zu Fuß.
+el edificio | Gebäude | Jenes Gebäude ist sehr hoch.
+el museo | Museum | Das Museum öffnet um zehn Uhr.
+la iglesia | Kirche | Die Kirche ist sehr alt.
+## Dienstleistungsorte
+el hospital | Krankenhaus, Hospital | Das Krankenhaus ist weit weg.
+la farmacia | Apotheke | Gibt es hier in der Nähe eine Apotheke?
+el hotel | Hotel | Das Hotel hat einen Pool.
+la estación | Bahnhof, Station | Ich warte am Bahnhof auf dich.
+el aeropuerto | Flughafen | Wir fahren mit dem Taxi zum Flughafen.
+la biblioteca | Bibliothek | Ich lerne in der Bibliothek.
+el cine | Kino | Gehen wir heute Abend ins Kino?
+el banco | Bank [Geldinstitut] | Die Bank schließt um zwei Uhr.
+la comisaría | Polizeistation, Revier | Die Polizeistation ist auf dem Platz.
+el ayuntamiento | Rathaus | Das Rathaus ist sehr schön.
+## Wegbeschreibung
+a la derecha | nach rechts, rechts | Biege rechts ab.
+a la izquierda | nach links, links | Die Bank ist links.
+todo recto | geradeaus | Gehen Sie immer geradeaus.
+cerca | in der Nähe, nah | Mein Haus ist in der Nähe.
+lejos | weit weg, fern | Der Flughafen ist weit weg.
+al lado de | neben | Das Café ist neben dem Kino.
+enfrente de | gegenüber von | Ich wohne gegenüber dem Park.
+la esquina | Ecke | Die Apotheke ist an der Ecke.
+girar | abbiegen, drehen | Biege in der nächsten Straße ab.
+cruzar | überqueren | Wir überqueren vorsichtig die Straße.
+## Öffentliche Verkehrsmittel
+el autobús | Bus | Ich fahre mit dem Bus zur Arbeit.
+el metro | U-Bahn | Die Madrider U-Bahn ist schnell.
+el tren | Zug | Der Zug fährt um acht Uhr ab.
+el taxi | Taxi | Wir rufen ein Taxi.
+la parada | Haltestelle | Die Haltestelle ist ganz nah.
+el billete | Fahrkarte, Ticket | Ich kaufe eine Fahrkarte für den Zug.
+el andén | Bahnsteig, Gleis | Der Zug kommt auf Gleis zwei an.
+la línea | Linie | Nimm die Linie drei.
+coger (cojo) | nehmen [Verkehrsmittel] | Ich nehme jeden Tag die U-Bahn.
+el pasajero | Fahrgast, Passagier | Der Bus transportiert vierzig Fahrgäste.
+## Fahrzeuge und Straße
+el coche | Auto | Mein Auto ist klein.
+la bicicleta | Fahrrad | Lukas fährt mit dem Fahrrad.
+la moto | Motorrad, Moped | Mein Bruder hat ein Motorrad.
+el avión | Flugzeug | Wir reisen mit dem Flugzeug nach Sevilla.
+el barco | Schiff, Boot | Das Schiff fährt nach Mallorca.
+la carretera | Landstraße, Autobahn | Die Straße ist sehr lang.
+el tráfico | Verkehr | Heute ist viel Verkehr.
+conducir (conduzco) | Autofahren, lenken | Ich fahre nachts nicht Auto.
+aparcar | parken | Es ist schwer, hier zu parken.
+a pie | zu Fuß | Ich gehe zu Fuß zum Unterricht.
+## Reise
+el viaje | Reise, Fahrt | Gute Reise!
+la maleta | Koffer | Mein Koffer ist blau.
+el pasaporte | Reisepass | Ich brauche meinen Reisepass.
+el turista | Tourist | Es gibt viele Touristen in Barcelona.
+las vacaciones | Urlaub, Ferien | Ich bin im Urlaub.
+el mapa | Landkarte, Stadtplan | Wir schauen uns den Stadtplan an.
+viajar | reisen | Ich reise gerne mit dem Zug.
+visitar | besuchen, besichtigen | Wir wollen Granada besuchen.
+la excursión | Ausflug, Wanderung | Morgen machen wir einen Ausflug.
+el hostal | Pension, Hostel | Wir schlafen in einer günstigen Pension.
+## Ankunft und Abfahrt
+llegar | ankommen | Der Zug kommt um zehn Uhr an.
+salir (salgo) | weggehen, abfahren | Ich gehe um acht Uhr aus dem Haus.
+el horario | Fahrplan, Stundenplan | Hast du den Zugfahrplan?
+la llegada | Ankunft | Die Ankunft ist um drei Uhr.
+la salida | Abfahrt, Ausgang | Wo ist der Ausgang?
+el retraso | Verspätung | Das Flugzeug hat Verspätung.
+de ida y vuelta | Hin- und Rückfahrt | Eine Fahrkarte für Hin- und Rückfahrt.
+la oficina de turismo | Fremdenverkehrsamt, Tourismusbüro | Frag im Tourismusbüro nach.
+el equipaje | Gepäck | Mein Gepäck ist nicht angekommen.
+perderse (me pierdo) | sich verlaufen, sich verirren | In Madrid verirre ich mich immer.
+## Natur
+el mar | Meer | Das Meer ist heute ruhig.
+la playa | Strand | Im August gehen wir an den Strand.
+la montaña | Berg | Ich wandere gerne in den Bergen.
+el río | Fluss | Der Fluss fließt durch die Stadt.
+el lago | See | Der See ist sehr schön.
+el bosque | Wald | Wir spazieren durch den Wald.
+la isla | Insel | Ibiza ist eine Insel.
+el campo | Land, Feld | Meine Großeltern leben auf dem Land.
+el sol | Sonne | Heute ist es sehr sonnig.
+el cielo | Himmel | Der Himmel ist klar.
+## Wetter und Umwelt
+la lluvia | Regen | Ich mag keinen Regen.
+llover (llueve) | regnen | Heute regnet es viel.
+la nieve | Schnee | Es liegt Schnee in den Bergen.
+el viento | Wind | Es ist sehr windig.
+la nube | Wolke | Heute gibt es viele Wolken.
+hace calor | es ist heiß | In Sevilla ist es sehr heiß.
+la flor | Blume | Diese Blumen sind für dich.
+la arena | Sand | Der Sand ist heiß.
+la hierba | Gras, Wiese | Wir setzen uns ins Gras.
+la estrella | Stern | Heute Nacht gibt es viele Sterne.
+## Land und Welt
+el país | Land | Spanien ist ein schönes Land.
+el pueblo | Dorf, Ortschaft | Mein Dorf ist sehr klein.
+la capital | Hauptstadt | Madrid ist die Hauptstadt.
+la costa | Küste | Wir leben an der Küste.
+el norte | Norden | Bilbao liegt im Norden.
+el sur | Süden | Málaga liegt im Süden.
+el este | Osten | Valencia liegt im Osten.
+el oeste | Westen | Die Sonne geht im Westen unter.
+el mundo | Welt | Ich möchte um die Welt reisen.
+extranjero | ausländisch, fremd | Ana studiert in einem ausländischen Land.

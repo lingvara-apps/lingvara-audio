@@ -1,0 +1,111 @@
+# UNIT: Essen und Trinken | Frühstück, Supermarkt, Restaurant, Geschmäcker
+## Frühstück
+el desayuno | das Frühstück | Das Frühstück steht auf dem Tisch.
+el pan | das Brot | Ich kaufe jeden Tag Brot.
+la mantequilla | die Butter | Ich möchte Brot mit Butter.
+la mermelada | die Marmelade | Diese Marmelade ist aus Erdbeeren.
+el huevo | das Ei | Ich esse jeden Morgen ein Ei.
+el queso | der Käse | Der Manchego-Käse ist sehr lecker.
+la leche | die Milch | Die Kinder trinken Milch.
+el café | der Kaffee | Einen Milchkaffee, bitte.
+el zumo | der Fruchtsaft | Ich mag Orangensaft.
+la tostada | das Toastbrot | Ich bestelle ein Toastbrot mit Tomate.
+## Getränke
+el agua | das Wasser | Hast du kaltes Wasser?
+el té | der Tee | Ali trinkt am Nachmittag Tee.
+la cerveza | das Bier | Ein Bier, bitte.
+el vino | der Wein | Spanien hat sehr guten Wein.
+el refresco | das Erfrischungsgetränk | Erfrischungsgetränke haben viel Zucker.
+el hielo | das Eis (im Getränk) | Wasser ohne Eis, bitte.
+la botella | die Flasche | Ich kaufe eine Flasche Wasser.
+la horchata | das Erdmandelmilchgetränk | In Valencia trinken wir Horchata.
+la sangría | die Sangria | Die Sangria enthält Wein und Obst.
+el batido | der Milchshake | Ich möchte einen Schokoladenmilchshake.
+## Früchte
+la fruta | das Obst | Ich esse nach dem Essen Obst.
+la manzana | der Apfel | Dieser Apfel ist sehr süß.
+el plátano | die Banane | Yuki isst eine Banane.
+la naranja | die Orange | Die Orangen aus Valencia sind berühmt.
+la fresa | die Erdbeere | Ich liebe Erdbeeren.
+la uva | die Traube | Wir essen zu Silvester zwölf Trauben.
+el limón | die Zitrone | Die Zitrone ist sehr sauer.
+la pera | die Birne | Ich möchte eine reife Birne.
+el melocotón | der Pfirsich | Der Pfirsich duftet sehr gut.
+la sandía | die Wassermelone | Im Sommer essen wir Wassermelone.
+## Gemüse
+la verdura | das Gemüse | Man muss mehr Gemüse essen.
+la patata | die Kartoffel | Ich mag Pommes frites.
+el tomate | die Tomate | Diese Tomate ist sehr rot.
+la cebolla | die Zwiebel | Ich schneide eine Zwiebel.
+el ajo | der Knoblauch | Die Suppe enthält Knoblauch.
+la zanahoria | die Karotte | Das Kaninchen mag Karotten.
+la lechuga | der Salat (Kopfsalat) | Ich kaufe Kopfsalat für den Salat.
+el pimiento | die Paprikaschote | Die Padrón-Paprikaschoten sind manchmal scharf.
+el pepino | die Gurke | Die Gazpacho enthält Gurke.
+la berenjena | die Aubergine | Omar kocht Auberginen im Ofen.
+## Fleisch, Fisch und Grundnahrungsmittel
+la carne | das Fleisch | Sofia isst kein Fleisch.
+el pollo | das Hähnchen | Heute Abend essen wir Hähnchen mit Reis.
+el cerdo | das Schweinefleisch | Emre isst kein Schweinefleisch.
+el jamón | der Schinken | Serranoschinken ist typisch.
+el pescado | der Fisch (als Nahrungsmittel) | Freitags essen wir Fisch.
+el arroz | der Reis | Die Paella enthält Reis.
+la pasta | die Nudeln | Die Kinder wollen Nudeln.
+la sal | das Salz | Gibst du mir das Salz?
+el aceite | das Öl | Wir verwenden Olivenöl.
+el azúcar | der Zucker | Ich trinke den Kaffee ohne Zucker.
+## Markette
+el supermercado | der Supermarkt | Ich gehe in den Supermarkt.
+el mercado | der Markt | Der Markt öffnet um acht Uhr.
+la panadería | die Bäckerei | Die Bäckerei ist in der Nähe.
+la frutería | das Obstgeschäft | Ich kaufe Orangen im Obstgeschäft.
+la carnicería | die Metzgerei | Die Metzgerei schließt um zwei Uhr.
+la bolsa | die Tüte | Brauchen Sie eine Tüte?
+el kilo | das Kilo | Ein Kilo Tomaten, bitte.
+el paquete | die Packung | Ich kaufe eine Packung Reis.
+la lata | die Dose | Ich öffne eine Dose Thunfisch.
+la docena | das Dutzend | Ein Dutzend Eier, bitte.
+## Restoranda
+el restaurante | das Restaurant | Dieses Restaurant ist sehr gut.
+el camarero | der Kellner | Der Kellner bringt das Essen.
+la carta | die Speisekarte | Bringen Sie uns bitte die Speisekarte?
+el menú del día | das Tagesmenü | Das Tagesmenü kostet zwölf Euro.
+el primer plato | der erste Gang | Als ersten Gang möchte ich Suppe.
+el postre | das Dessert | Was gibt es zum Nachtisch?
+la cuenta | die Rechnung | Die Rechnung, bitte.
+la propina | das Trinkgeld | Wir hinterlassen ein kleines Trinkgeld.
+la reserva | die Reservierung | Ich habe eine Reservierung für zwei Personen.
+pedir (pido) | bestellen | Diego bestellt einen Salat.
+## İspanyol yemekleri
+la paella | die Paella | Sonntags machen wir Paella.
+la tortilla de patatas | das spanische Kartoffelomelett | Ich liebe das Kartoffelomelett.
+el gazpacho | die kalte Gemüsesuppe | Die Gazpacho wird kalt getrunken.
+la tapa | die Tapas (kleine Vorspeise) | Wir bestellen ein paar Tapas zum Teilen.
+el churro | das Schmalzgebäck | Wir essen Churros mit Schokolade.
+el bocadillo | das belegte Baguette | Ich nehme ein belegtes Baguette mit zur Arbeit.
+el chorizo | die Paprikawurst | Die Chorizo ist ein bisschen scharf.
+la aceituna | die Olive | Spanien produziert viele Oliven.
+la croqueta | die Krokette | Meine Oma macht Schinken-Kroketten.
+la ensalada | der Gemüsesalat | Der Salat enthält Tomate und Kopfsalat.
+## Tatlar
+rico | lecker | Wie lecker die Suppe ist!
+dulce | süß | Dieser Kuchen ist sehr süß.
+salado | salzig | Das Essen ist ein bisschen salzig.
+picante | scharf | Ich mag kein scharfes Essen.
+amargo | bitter | Der schwarze Kaffee ist bitter.
+ácido | sauer | Diese Trauben sind sauer.
+caliente | heiß | Die Suppe ist sehr heiß.
+frío | kalt | Ich möchte ein kaltes Bier.
+fresco | frisch | Der Fisch ist frisch.
+delicioso | köstlich | Die Paella ist köstlich.
+## Yemek fiilleri ve ifadeler
+comer | zu Mittag essen | In Spanien essen wir um zwei Uhr zu Mittag.
+beber | trinken | Ich trinke viel Wasser.
+cocinar | kochen | Maria kocht sehr gut.
+desayunar | frühstücken | Ich frücke um sieben Uhr.
+cenar | zu Abend essen | Wir essen um neun Uhr zu Abend.
+la comida | das Mittagessen | Das Essen ist fertig.
+la cena | das Abendessen | Das Abendessen ist um zehn Uhr.
+tener hambre | Hunger haben | Ich habe großen Hunger.
+tener sed | Durst haben | Hast du Durst?
+¡Que aproveche! | Guten Appetit! | Guten Appetit, Kinder!
