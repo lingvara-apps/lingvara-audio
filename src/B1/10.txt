@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım ve donanım
+hardware | donanım | isim | The program works fine, but there is a problem with the hardware. | Program sorunsuz çalışıyor ama donanımda bir sorun var.
+operating system | işletim sistemi | isim | My old laptop can't run the latest operating system. | Eski dizüstü bilgisayarım en son işletim sistemini çalıştıramıyor.
+plug-in | eklenti | isim | You need to add a free plug-in to play videos on this page. | Bu sayfada video oynatmak için ücretsiz bir eklenti yüklemen gerekiyor.
+patch | yama, düzeltme güncellemesi | isim | The company released a security patch for the game last night. | Şirket dün gece oyun için bir güvenlik yaması yayımladı.
+user-friendly | kullanıcı dostu | sıfat | The new booking system is much more user-friendly than the old one. | Yeni rezervasyon sistemi eskisinden çok daha kullanıcı dostu.
+interface | arayüz | isim | My grandmother likes the simple interface of her new phone. | Büyükannem yeni telefonunun sade arayüzünü seviyor.
+open-source | açık kaynak kodlu | sıfat | Many universities use open-source programs because they are free. | Birçok üniversite ücretsiz oldukları için açık kaynak kodlu programlar kullanır.
+source code | kaynak kodu | isim | The developers shared the source code so anyone can improve it. | Geliştiriciler herkes geliştirebilsin diye kaynak kodunu paylaştı.
+app store | uygulama mağazası | isim | You can find thousands of language apps in the app store. | Uygulama mağazasında binlerce dil uygulaması bulabilirsin.
+beta | beta sürümü, deneme sürümü | isim | Only a few hundred users can try the beta before the official launch. | Resmî çıkıştan önce beta sürümünü yalnızca birkaç yüz kullanıcı deneyebiliyor.
+## Programlama
+code | kod | isim | Omar wrote the code for the whole online shop in one month. | Omar bütün çevrim içi mağazanın kodunu bir ayda yazdı.
+developer | geliştirici | isim | Anna works as a mobile app developer for a small company. | Anna küçük bir şirkette mobil uygulama geliştiricisi olarak çalışıyor.
+coder | kod yazan kişi, yazılımcı | isim | Diego taught himself to be a coder by watching free videos. | Diego ücretsiz videolar izleyerek kendi kendine yazılımcı olmayı öğrendi.
+programming language | programlama dili | isim | Which programming language should a beginner learn first? | Yeni başlayan biri önce hangi programlama dilini öğrenmeli?
+debug | (yazılımdaki) hataları ayıklamak | fiil | It took Lukas the whole afternoon to debug his program. | Lukas'ın programındaki hataları ayıklaması bütün öğleden sonrasını aldı.
+syntax | sözdizimi | isim | One missing bracket is enough to cause a syntax error. | Eksik tek bir parantez sözdizimi hatasına yol açmaya yeter.
+loop | döngü | isim | The program got stuck in a loop and never stopped. | Program bir döngüye takıldı ve hiç durmadı.
+database | veritabanı | isim | All customer orders are stored in a secure database. | Tüm müşteri siparişleri güvenli bir veritabanında saklanır.
+server | sunucu | isim | The site was down for hours because the server stopped working. | Sunucu çalışmayı durdurduğu için site saatlerce erişilemez durumdaydı.
+cloud storage | bulut depolama | isim | I keep all my photos in cloud storage in case I lose my phone. | Telefonumu kaybedersem diye bütün fotoğraflarımı bulut depolamada tutuyorum.
+## Siber güvenlik
+cybersecurity | siber güvenlik | isim | Banks spend millions on cybersecurity every year. | Bankalar her yıl siber güvenliğe milyonlar harcıyor.
+malware | kötü amaçlı yazılım | isim | Don't open that attachment; it might contain malware. | O eki açma; kötü amaçlı yazılım içerebilir.
+ransomware | fidye yazılımı | isim | Ransomware locked all the files, and the criminals demanded money. | Fidye yazılımı tüm dosyaları kilitledi ve suçlular para istedi.
+firewall | güvenlik duvarı | isim | The company's firewall blocks most suspicious websites. | Şirketin güvenlik duvarı şüpheli web sitelerinin çoğunu engelliyor.
+encrypt | şifrelemek | fiil | The app encrypts your messages so nobody else can read them. | Uygulama mesajlarını şifreler, böylece başka kimse onları okuyamaz.
+phishing | oltalama, kimlik avı | isim | That message asking for your bank details is a phishing attempt. | Banka bilgilerini isteyen o mesaj bir oltalama girişimi.
+two-factor authentication | iki aşamalı doğrulama | isim | Turn on two-factor authentication to make your account much safer. | Hesabını çok daha güvenli kılmak için iki aşamalı doğrulamayı aç.
+cyberattack | siber saldırı | isim | A cyberattack shut down the hospital's computer system for two days. | Bir siber saldırı hastanenin bilgisayar sistemini iki gün boyunca çökertti.
+hack into | (bir sisteme) sızmak | phrasal verb | Someone tried to hack into my email account last night. | Dün gece biri e-posta hesabıma sızmaya çalıştı.
+data breach | veri ihlali, veri sızıntısı | isim | After the data breach, all users were asked to change their passwords. | Veri ihlalinden sonra tüm kullanıcılardan şifrelerini değiştirmeleri istendi.
+## Yapay zekâ
+artificial intelligence | yapay zekâ | isim | Artificial intelligence is changing the way doctors diagnose diseases. | Yapay zekâ doktorların hastalık teşhis etme biçimini değiştiriyor.
+robot | robot | isim | In this factory, robots do most of the heavy lifting. | Bu fabrikada ağır kaldırma işlerinin çoğunu robotlar yapıyor.
+machine learning | makine öğrenmesi | isim | Machine learning helps the app recognise your handwriting. | Makine öğrenmesi uygulamanın el yazını tanımasına yardım ediyor.
+automate | otomatikleştirmek | fiil | We automated the billing process, and it saves us hours every week. | Faturalama sürecini otomatikleştirdik ve bu bize her hafta saatler kazandırıyor.
+chatbot | sohbet botu | isim | The bank's chatbot answered my question in a few seconds. | Bankanın sohbet botu sorumu birkaç saniyede yanıtladı.
+voice assistant | sesli asistan | isim | I ask my voice assistant to set a timer when I'm cooking. | Yemek yaparken sesli asistanımdan zamanlayıcı kurmasını isterim.
+predict | tahmin etmek, öngörmek | fiil | The program can predict which products customers will buy next. | Program müşterilerin bir sonra hangi ürünleri alacağını tahmin edebiliyor.
+facial recognition | yüz tanıma | isim | Some airports use facial recognition instead of checking passports by hand. | Bazı havalimanları pasaportları elle kontrol etmek yerine yüz tanıma kullanıyor.
+neural network | yapay sinir ağı | isim | A neural network learns by looking at millions of examples. | Yapay sinir ağı milyonlarca örneğe bakarak öğrenir.
+generate | üretmek, oluşturmak | fiil | This tool can generate a short summary of any long article. | Bu araç herhangi bir uzun makalenin kısa bir özetini oluşturabilir.
+## İnternet ve ağ
+network | ağ | isim | All the computers in the office are connected to one network. | Ofisteki tüm bilgisayarlar tek bir ağa bağlı.
+router | modem, yönlendirici | isim | If the internet stops working, try turning the router off and on. | İnternet çalışmayı bırakırsa modemi kapatıp açmayı dene.
+hotspot | erişim noktası, hotspot | isim | I used my phone as a hotspot to work on the train. | Trende çalışmak için telefonumu erişim noktası olarak kullandım.
+bandwidth | bant genişliği | isim | Video calls use a lot of bandwidth, so the connection gets slow. | Görüntülü aramalar çok fazla bant genişliği kullanır, bu yüzden bağlantı yavaşlar.
+broadband | geniş bant internet | isim | Fast broadband is still not available in some rural areas. | Bazı kırsal bölgelerde hızlı geniş bant internet hâlâ yok.
+cache | önbellek | isim | Clear the cache if the page still shows the old information. | Sayfa hâlâ eski bilgileri gösteriyorsa önbelleği temizle.
+pop-up | açılır pencere | isim | Annoying pop-ups keep appearing every time I visit this page. | Bu sayfayı her ziyaret ettiğimde can sıkıcı açılır pencereler beliriyor.
+hyperlink | bağlantı, köprü | isim | Click on the hyperlink at the bottom of the email to confirm. | Onaylamak için e-postanın altındaki bağlantıya tıkla.
+buffer | (video) takılmak, yüklenmek | fiil | The film kept buffering because the connection was so slow. | Bağlantı çok yavaş olduğu için film sürekli takıldı.
+backup | yedek, yedekleme | isim | Always make a backup of your work before you change the settings. | Ayarları değiştirmeden önce her zaman çalışmanın yedeğini al.
+## Cihazlar
+battery life | pil ömrü | isim | The battery life of this phone is about two days. | Bu telefonun pil ömrü yaklaşık iki gün.
+wearable | giyilebilir | sıfat | Wearable devices can track your heart rate while you sleep. | Giyilebilir cihazlar uyurken kalp atış hızını takip edebilir.
+headset | kulaklıklı mikrofon | isim | Please use a headset during online lessons to reduce the noise. | Gürültüyü azaltmak için çevrim içi derslerde lütfen kulaklıklı mikrofon kullan.
+sensor | sensör, algılayıcı | isim | A sensor turns the lights on when someone enters the room. | Biri odaya girdiğinde bir sensör ışıkları açıyor.
+processor | işlemci | isim | The new model has a faster processor and a better camera. | Yeni modelin daha hızlı bir işlemcisi ve daha iyi bir kamerası var.
+memory card | hafıza kartı | isim | My camera's memory card is full of holiday photos. | Fotoğraf makinemin hafıza kartı tatil fotoğraflarıyla dolu.
+smart speaker | akıllı hoparlör | isim | We ask the smart speaker in the kitchen to play the news. | Mutfaktaki akıllı hoparlörden haberleri açmasını istiyoruz.
+earbuds | kablosuz kulaklık, kulak içi kulaklık | isim (çoğul) | Yuki always listens to podcasts through her earbuds on the bus. | Yuki otobüste podcast'leri hep kulak içi kulaklığıyla dinler.
+stylus | dokunmatik kalem | isim | Artists often draw on tablets with a special stylus. | Sanatçılar tabletlerde genellikle özel bir dokunmatik kalemle çizer.
+trackpad | dokunmatik yüzey | isim | I prefer using a mouse because the trackpad is too sensitive. | Dokunmatik yüzey çok hassas olduğu için fare kullanmayı tercih ederim.
+## Uzay
+astronaut | astronot | isim | The astronaut spent six months living on the space station. | Astronot uzay istasyonunda altı ay yaşadı.
+spacecraft | uzay aracı | isim | The spacecraft will reach Mars in about seven months. | Uzay aracı yaklaşık yedi ayda Mars'a ulaşacak.
+rocket | roket | isim | Thousands of people watched the rocket rise into the sky from the coast. | Binlerce kişi roketin kıyıdan gökyüzüne yükselişini izledi.
+satellite | uydu | isim | Weather satellites send us new pictures of the clouds every hour. | Hava durumu uyduları bize her saat bulutların yeni görüntülerini gönderir.
+planet | gezegen | isim | Jupiter is the largest planet in our solar system. | Jüpiter güneş sistemimizdeki en büyük gezegendir.
+space station | uzay istasyonu | isim | You can sometimes see the space station from Earth with your own eyes. | Uzay istasyonunu bazen Dünya'dan çıplak gözle görebilirsin.
+lift-off | kalkış, havalanma | isim | Lift-off was delayed by two hours because of strong winds. | Kalkış kuvvetli rüzgâr nedeniyle iki saat ertelendi.
+countdown | geri sayım | isim | The whole crowd joined in the countdown before the launch. | Fırlatmadan önce bütün kalabalık geri sayıma katıldı.
+launch pad | fırlatma rampası | isim | The rocket stood on the launch pad for three days before take-off. | Roket kalkıştan önce üç gün boyunca fırlatma rampasında durdu.
+mission control | görev kontrol merkezi | isim | Mission control lost contact with the spacecraft for several minutes. | Görev kontrol merkezi birkaç dakika boyunca uzay aracıyla bağlantıyı kaybetti.
+## Uzay keşfi
+universe | evren | isim | Scientists believe the universe is about fourteen billion years old. | Bilim insanları evrenin yaklaşık on dört milyar yaşında olduğuna inanıyor.
+solar system | güneş sistemi | isim | There are eight planets in our solar system. | Güneş sistemimizde sekiz gezegen var.
+mission | görev | isim | The mission to collect rocks from the asteroid was a great success. | Asteroitten kaya toplama görevi büyük bir başarıydı.
+asteroid | asteroit | isim | A small asteroid passed safely between the Earth and the Moon. | Küçük bir asteroit Dünya ile Ay arasından güvenle geçti.
+black hole | kara delik | isim | Not even light can escape from a black hole. | Kara delikten ışık bile kaçamaz.
+spacewalk | uzay yürüyüşü | isim | The two astronauts repaired the solar panel during a six-hour spacewalk. | İki astronot altı saatlik bir uzay yürüyüşü sırasında güneş panelini onardı.
+lunar | Ay ile ilgili | sıfat | The lunar surface is covered in fine grey dust. | Ay yüzeyi ince gri bir tozla kaplıdır.
+crater | krater | isim | The huge crater was made by a falling rock millions of years ago. | Dev krater milyonlarca yıl önce düşen bir kaya tarafından oluşturuldu.
+rover | keşif aracı, gezgin robot | isim | The rover has been sending photos from Mars for years. | Keşif aracı yıllardır Mars'tan fotoğraf gönderiyor.
+exoplanet | ötegezegen | isim | Astronomers have discovered an exoplanet that might have water. | Gökbilimciler su barındırıyor olabilecek bir ötegezegen keşfetti.
+## Teknoloji fiilleri
+innovate | yenilik yapmak | fiil | Small companies often innovate faster than big ones. | Küçük şirketler çoğu zaman büyüklerden daha hızlı yenilik yapar.
+revolutionise | kökten değiştirmek, devrim yaratmak | fiil | Smartphones revolutionised the way we take and share photos. | Akıllı telefonlar fotoğraf çekme ve paylaşma biçimimizde devrim yarattı.
+troubleshoot | sorunu bulup gidermek | fiil | The engineer spent the whole morning troubleshooting the network. | Mühendis bütün sabahı ağdaki sorunu bulup gidermekle geçirdi.
+configure | yapılandırmak, ayarlamak | fiil | You have to configure the printer before you can use it. | Yazıcıyı kullanabilmek için önce yapılandırman gerekiyor.
+access | erişmek | fiil | You can access your files from any computer with internet. | Dosyalarına internet bağlantısı olan her bilgisayardan erişebilirsin.
+sync | eşitlemek, senkronize etmek | fiil | My phone syncs my calendar with my laptop automatically. | Telefonum takvimimi dizüstü bilgisayarımla otomatik olarak eşitliyor.
+reboot | yeniden başlatmak | fiil | If the computer freezes again, just reboot it. | Bilgisayar yine donarsa onu yeniden başlat.
+customise | kişiselleştirmek | fiil | You can customise the app with your own colours and sounds. | Uygulamayı kendi renklerin ve seslerinle kişiselleştirebilirsin.
+digitise | dijitalleştirmek | fiil | The library is digitising all its old maps and letters. | Kütüphane tüm eski haritalarını ve mektuplarını dijitalleştiriyor.
+malfunction | arıza yapmak | fiil | The alarm malfunctioned and went off in the middle of the night. | Alarm arıza yaptı ve gecenin ortasında çalmaya başladı.
+## Teknoloji ve toplum
+state-of-the-art | en son teknolojiye sahip | sıfat | The new hospital is full of state-of-the-art medical equipment. | Yeni hastane en son teknolojiye sahip tıbbi ekipmanla dolu.
+obsolete | eskimiş, kullanım dışı | sıfat | Fax machines became obsolete in most offices years ago. | Faks makineleri çoğu ofiste yıllar önce kullanım dışı kaldı.
+virtual reality | sanal gerçeklik | isim | With virtual reality, students can walk through ancient cities. | Sanal gerçeklikle öğrenciler antik şehirlerde dolaşabiliyor.
+augmented reality | artırılmış gerçeklik | isim | This app uses augmented reality to show furniture in your room. | Bu uygulama mobilyaları odanda göstermek için artırılmış gerçeklik kullanıyor.
+tech-savvy | teknolojiden anlayan | sıfat | My tech-savvy niece set up my new phone in five minutes. | Teknolojiden anlayan yeğenim yeni telefonumu beş dakikada kurdu.
+surveillance | gözetim, izleme | isim | There are surveillance cameras on almost every corner of the city. | Şehrin neredeyse her köşesinde güvenlik kameraları var.
+internet of things | nesnelerin interneti | isim | Thanks to the internet of things, my fridge can order milk by itself. | Nesnelerin interneti sayesinde buzdolabım kendi kendine süt sipariş edebiliyor.
+smart home | akıllı ev | isim | In a smart home, you can control the heating with your phone. | Akıllı bir evde ısıtmayı telefonunla kontrol edebilirsin.
+digital detox | dijital detoks | isim | Camille went on a week-long digital detox in the mountains. | Camille dağlarda bir haftalık dijital detoks yaptı.
+deepfake | sahte yapay zekâ videosu, deepfake | isim | The deepfake looked so real that many people believed it. | Sahte video o kadar gerçekçi görünüyordu ki birçok kişi ona inandı.

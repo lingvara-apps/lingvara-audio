@@ -1,0 +1,111 @@
+# UNIT: Achats et vêtements | Argent, couleurs, vêtements, corps, santé
+## Au magasin
+shop | boutique, magasin | La boutique ouvre à neuf heures.
+cashier | caissier, caissière | La caissière est très aimable.
+sell (sold, sold) | vendre | Ici, on vend du pain frais.
+store | grand magasin, magasin | Le magasin est très grand.
+shopping | courses, shopping | Je fais les courses le samedi.
+open | ouvert ; ouvrir | Le magasin est ouvert aujourd'hui ?
+closed | fermé | Désolé, nous sommes fermés.
+sold out | épuisé, en rupture de stock | Désolé, les rouges sont épuisés.
+show (showed, shown) | montrer | Tu peux me montrer ce sac ?
+need | avoir besoin de | J'ai besoin de nouvelles chaussures.
+## Argent et paiement
+money | argent | Je n'ai pas beaucoup d'argent.
+price | prix | Quel est le prix de ceci ?
+pay (paid, paid) | payer | Je peux payer par carte ?
+cost (cost, cost) | coûter | Combien ça coûte ?
+cash | espèces, liquide | J'ai seulement du liquide.
+card | carte | Voici ma carte.
+cent | cent, centime | Ça coûte quatre-vingt-dix centimes.
+pound | livre (sterling) ; livre (poids) | Ça coûte cinq livres.
+dollar | dollar | Cette chemise coûte vingt dollars.
+purse | porte-monnaie | Son porte-monnaie est dans son sac.
+## Bon marché et cher
+cheap | bon marché, pas cher | Ces chaussettes ne sont vraiment pas chères.
+expensive | cher | Londres, c'est cher.
+sale | soldes ; vente | Les chaussures sont en solde.
+free | gratuit ; libre | L'eau est gratuite.
+too much | trop, beaucoup trop | C'est beaucoup trop d'argent.
+count | compter | Compte ta monnaie, s'il te plaît.
+want | vouloir | Tu veux cette robe ?
+choose (chose, chosen) | choisir | Choisis une couleur, s'il te plaît.
+enough | assez ; suffisant | Je n'ai pas assez d'argent.
+euro | euro | Le sac coûte cinquante euros.
+## Couleurs et nuances
+colour | couleur | De quelle couleur est ton manteau ?
+grey | gris | Il a un costume gris.
+gold | or ; doré | Elle porte une bague en or.
+silver | argent (métal) ; argenté | J'aime cette montre argentée.
+navy | bleu marine | L'uniforme scolaire est bleu marine.
+light blue | bleu clair | Je veux la chemise bleu clair.
+dark green | vert foncé | Son sac est vert foncé.
+colourful | coloré, multicolore | Diego aime les chaussettes colorées.
+beige | beige | J'ai un manteau beige.
+turquoise | turquoise | Ici, la mer est turquoise.
+## Vêtements
+clothes | vêtements, habits | J'ai besoin de nouveaux vêtements.
+shirt | chemise | Sa chemise est blanche.
+T-shirt | T-shirt, tee-shirt | Prends un T-shirt pour la plage.
+trousers | pantalon | Ce pantalon est trop long.
+jeans | jean | Je porte un jean tous les jours.
+dress | robe | Quelle jolie robe !
+skirt | jupe | Anna a une jupe courte.
+jacket | veste | Mets ta veste, il fait froid.
+coat | manteau | Mon manteau d'hiver est chaud.
+sweater | pull | Je porte un pull en hiver.
+## Chaussures et accessoires
+shoe | chaussure | Où est mon autre chaussure ?
+sandal | sandale | En été, je porte des sandales.
+sock | chaussette | Je ne trouve pas mes chaussettes.
+hat | chapeau | Mets ton chapeau.
+scarf (scarves) | écharpe ; foulard | Cette écharpe est très douce.
+glove | gant | Yuki oublie toujours ses gants.
+belt | ceinture | Cette ceinture est trop courte.
+watch | montre | Ma montre retarde.
+umbrella | parapluie | Prends un parapluie avec toi.
+wallet | portefeuille | Mon portefeuille est dans mon sac.
+## Tailles et s'habiller
+size | taille ; dimension | Tu fais quelle taille ?
+large | grand (taille L) | Vous l'avez en L ?
+shorts | short | Il fait chaud, mets ton short.
+underwear | sous-vêtements | Prends des sous-vêtements propres.
+wear (wore, worn) | porter (un vêtement, un accessoire) | Elle porte toujours du noir.
+glasses | lunettes | Je ne peux pas lire sans mes lunettes.
+tie | cravate | Il porte une cravate au travail.
+pocket | poche | Mon téléphone est dans ma poche.
+button | bouton | Il manque un bouton.
+medium | moyen (taille M) | Il me faut un M, s'il vous plaît.
+## Le corps : la tête et le visage
+body | corps | Le sport, c'est bon pour le corps.
+head | tête | Tourne la tête, s'il te plaît.
+face | visage | Lave-toi le visage.
+hair | cheveux | Sofia a les cheveux longs.
+eye | œil | Il a les yeux bleus.
+ear | oreille | J'ai froid à l'oreille.
+nose | nez | Le bébé a un petit nez.
+mouth | bouche | Ouvre la bouche, s'il te plaît.
+tooth (teeth) | dent | Le bébé a deux dents.
+neck | cou | Elle a un long cou.
+## Le corps : bras et jambes
+arm | bras | Elle tient un chat dans ses bras.
+hand | main | Lave-toi les mains avant le dîner.
+finger | doigt | Je me suis coupé le doigt.
+leg | jambe | J'ai les jambes fatiguées.
+foot (feet) | pied | J'ai froid aux pieds.
+back | dos ; bas du dos | J'ai mal au dos.
+shoulder | épaule | Mets ton sac sur l'épaule.
+knee | genou | Lukas a mal au genou.
+stomach | estomac ; ventre | J'ai le ventre plein.
+heart | cœur | Ton cœur est solide.
+## Santé
+health | santé | La santé, c'est très important.
+healthy | sain, en bonne santé | Les fruits, c'est bon pour la santé.
+ill | malade, souffrant | Emre est malade aujourd'hui.
+sore | douloureux, irrité | J'ai les yeux irrités.
+hurt (hurt, hurt) | faire mal ; blesser | Ça fait mal ?
+headache | mal de tête | J'ai mal à la tête.
+sick | malade ; nauséeux | Je ne me sens pas bien aujourd'hui.
+chemist | pharmacie ; pharmacien | La pharmacie est à côté de la banque.
+medicine | médicament | Prends ce médicament deux fois par jour.
+feel (felt, felt) | sentir, se sentir | Je me sens mieux maintenant.

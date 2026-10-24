@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+## Kahvaltı
+breakfast | kahvaltı | isim | I have breakfast at seven. | Saat yedide kahvaltı yaparım.
+bread | ekmek | isim | This bread is still warm. | Bu ekmek hâlâ sıcak.
+butter | tereyağı | isim | Can you pass the butter? | Tereyağını uzatır mısın?
+cheese | peynir | isim | I like white cheese. | Beyaz peyniri severim.
+egg | yumurta | isim | Anna eats two eggs every morning. | Anna her sabah iki yumurta yer.
+honey | bal | isim | I put honey in my tea. | Çayıma bal koyarım.
+jam | reçel | isim | Strawberry jam is my favourite. | En sevdiğim reçel çilek reçelidir.
+yoghurt | yoğurt | isim | I eat yoghurt with honey. | Yoğurdu balla yerim.
+cereal | kahvaltılık gevrek | isim | The kids eat cereal with milk. | Çocuklar sütle gevrek yer.
+milk | süt | isim | We need more milk. | Daha fazla süte ihtiyacımız var.
+## İçecekler
+water | su | isim | A glass of water, please. | Bir bardak su, lütfen.
+tea | çay | isim | Emre drinks black tea. | Emre siyah çay içer.
+coffee | kahve | isim | I need a coffee now. | Şimdi bir kahveye ihtiyacım var.
+juice | meyve suyu | isim | This orange juice is fresh. | Bu portakal suyu taze.
+lemonade | limonata | isim | Kids love cold lemonade. | Çocuklar soğuk limonatayı sever.
+beer | bira | isim | He orders a small beer. | Küçük bir bira sipariş ediyor.
+wine | şarap | isim | Do you prefer red wine? | Kırmızı şarabı mı tercih edersin?
+sugar | şeker | isim | No sugar for me, thanks. | Bana şeker yok, teşekkürler.
+soft drink | alkolsüz içecek | isim | They only sell soft drinks. | Sadece alkolsüz içecek satıyorlar.
+drink (drank, drunk) | içmek; içecek | fiil · düzensiz | What do you want to drink? | Ne içmek istersin?
+## Meyveler
+fruit | meyve | isim | Eat more fruit every day. | Her gün daha çok meyve ye.
+apple | elma | isim | An apple a day is healthy. | Günde bir elma sağlıklıdır.
+banana | muz | isim | The baby likes bananas. | Bebek muzu sever.
+lemon | limon | isim | Add some lemon to the fish. | Balığa biraz limon ekle.
+melon | kavun | isim | This melon smells so sweet. | Bu kavun çok tatlı kokuyor.
+mango | mango | isim | Mangoes come from hot countries. | Mangolar sıcak ülkelerden gelir.
+apricot | kayısı | isim | Malatya is famous for apricots. | Malatya kayısısıyla ünlüdür.
+fig | incir | isim | I love fresh figs. | Taze inciri çok severim.
+kiwi | kivi | isim | A kiwi is green inside. | Kivinin içi yeşildir.
+coconut | hindistancevizi | isim | Coconut water is very refreshing. | Hindistancevizi suyu çok ferahlatıcı.
+## Sebzeler
+vegetable | sebze | isim | I buy vegetables at the market. | Sebzeleri pazardan alırım.
+potato (potatoes) | patates | isim | Peel the potatoes, please. | Patatesleri soy, lütfen.
+tomato (tomatoes) | domates | isim | These tomatoes are very red. | Bu domatesler çok kırmızı.
+onion | soğan | isim | Cut the onion into small pieces. | Soğanı küçük parçalara doğra.
+carrot | havuç | isim | Rabbits love carrots. | Tavşanlar havucu sever.
+salad | salata | isim | I'll have a green salad. | Yeşil salata alacağım.
+peas | bezelye | isim (çoğul) | The kids don't like peas. | Çocuklar bezelyeyi sevmiyor.
+corn | mısır | isim | We eat corn on the beach. | Sahilde mısır yeriz.
+lentils | mercimek | isim (çoğul) | Lentil soup needs red lentils. | Mercimek çorbasına kırmızı mercimek gerekir.
+beans | fasulye | isim (çoğul) | Omar cooks beans with rice. | Omar fasulyeyi pirinçle pişirir.
+## Et ve ana yemekler
+meat | et | isim | Sofia doesn't eat meat. | Sofia et yemez.
+chicken | tavuk | isim | We have chicken for dinner. | Akşam yemeğinde tavuk var.
+beef | dana eti, sığır eti | isim | Is this burger beef? | Bu burger dana eti mi?
+rice | pirinç; pilav | isim | I cook rice every day. | Her gün pilav pişiririm.
+pasta | makarna | isim | The kids want pasta again. | Çocuklar yine makarna istiyor.
+soup | çorba | isim | This soup is too hot. | Bu çorba çok sıcak.
+sandwich | sandviç | isim | I eat a sandwich at work. | İşte sandviç yerim.
+pizza | pizza | isim | Let's order a pizza tonight. | Bu akşam pizza sipariş edelim.
+chips | patates kızartması | isim (çoğul) | Fish and chips, please. | Balık ve patates kızartması, lütfen.
+steak | biftek | isim | I'd like my steak well done. | Bifteğim iyi pişmiş olsun.
+## Öğünler
+food | yemek; yiyecek | isim | The food here is great. | Buradaki yemekler harika.
+meal | öğün; yemek | isim | We eat three meals a day. | Günde üç öğün yeriz.
+lunch | öğle yemeği | isim | Let's have lunch together. | Birlikte öğle yemeği yiyelim.
+dinner | akşam yemeği | isim | Dinner is ready! | Akşam yemeği hazır!
+brunch | geç kahvaltı, brunch | isim | We have brunch on Sundays. | Pazar günleri brunch yaparız.
+dessert | tatlı (yemek sonu) | isim | What's for dessert? | Tatlı olarak ne var?
+eat (ate, eaten) | yemek yemek | fiil · düzensiz | We eat at eight o'clock. | Saat sekizde yemek yeriz.
+hungry | aç | sıfat | I am very hungry. | Çok açım.
+thirsty | susamış | sıfat | Are you thirsty? | Susadın mı?
+yummy | nefis (samimi) | sıfat | Mmm, this pie is yummy! | Mmm, bu turta nefis!
+## Markette
+supermarket | süpermarket | isim | The supermarket opens at nine. | Süpermarket dokuzda açılır.
+greengrocer | manav | isim | I buy tomatoes at the greengrocer's. | Domatesleri manavdan alırım.
+bakery | fırın, ekmek fırını | isim | The bakery is on the corner. | Fırın köşede.
+jar | kavanoz | isim | Open this jar of jam, please. | Şu reçel kavanozunu aç, lütfen.
+carton | karton kutu | isim | Get a carton of milk. | Bir kutu süt al.
+butcher | kasap | isim | The butcher sells fresh meat. | Kasap taze et satar.
+kilo | kilo | isim | Two kilos of apples, please. | İki kilo elma, lütfen.
+packet | paket | isim | I need a packet of rice. | Bir paket pirince ihtiyacım var.
+tin | konserve kutusu | isim | Buy a tin of tomatoes. | Bir kutu domates konservesi al.
+nuts | kuruyemiş, fındık fıstık | isim (çoğul) | Diego buys a bag of nuts. | Diego bir paket kuruyemiş alıyor.
+## Restoranda
+restaurant | restoran, lokanta | isim | This restaurant is very popular. | Bu restoran çok sevilen bir yer.
+café | kafe | isim | Let's meet at the café. | Kafede buluşalım.
+menu | menü | isim | Can I see the menu? | Menüyü görebilir miyim?
+order | sipariş vermek; sipariş | fiil | Are you ready to order? | Sipariş vermeye hazır mısınız?
+starter | başlangıç yemeği | isim | Soup is a good starter. | Çorba iyi bir başlangıç yemeği.
+main course | ana yemek | isim | Chicken for the main course, please. | Ana yemek olarak tavuk, lütfen.
+waitress | kadın garson | isim | The waitress is very friendly. | Garson kadın çok güler yüzlü.
+I'd like | ...istiyorum (kibar) | ifade | I'd like a coffee, please. | Bir kahve istiyorum, lütfen.
+can I have | ...alabilir miyim | ifade | Can I have some water? | Biraz su alabilir miyim?
+takeaway | paket yemek, eve sipariş | isim | Let's get a takeaway tonight. | Bu akşam paket yemek alalım.
+## Tatlar
+flavour | tat, aroma | isim | Which ice cream flavour do you want? | Dondurman hangi tat olsun?
+sweet | tatlı | sıfat | This tea is too sweet. | Bu çay fazla tatlı.
+salty | tuzlu | sıfat | The soup is a bit salty. | Çorba biraz tuzlu.
+sour | ekşi | sıfat | Lemons are very sour. | Limonlar çok ekşidir.
+bitter | acı (tat), buruk | sıfat | Black coffee is bitter. | Sade kahve acıdır.
+fried | kızarmış, kızartma | sıfat | I don't eat fried food. | Kızartma yemem.
+hot | sıcak; acı | sıfat | Be careful, the plate is hot. | Dikkat, tabak sıcak.
+fresh | taze | sıfat | The fish is very fresh. | Balık çok taze.
+salt | tuz | isim | Can you pass the salt? | Tuzu uzatır mısın?
+oil | yağ | isim | Fry the eggs in olive oil. | Yumurtaları zeytinyağında kızart.
+## Tatlılar ve mutfakta
+cake | pasta, kek | isim | Yuki makes a chocolate cake. | Yuki çikolatalı pasta yapıyor.
+chocolate | çikolata | isim | Children love chocolate. | Çocuklar çikolatayı sever.
+ice cream | dondurma | isim | Two ice creams, please. | İki dondurma, lütfen.
+biscuit | bisküvi | isim | Have a biscuit with your tea. | Çayının yanında bir bisküvi al.
+pudding | puding; tatlı | isim | Chocolate pudding is my favourite. | En sevdiğim tatlı çikolatalı puding.
+cookie | kurabiye | isim | Grandma bakes cookies for us. | Büyükannem bize kurabiye yapar.
+sauce | sos | isim | Pasta with tomato sauce, please. | Domates soslu makarna, lütfen.
+heat | ısıtmak | fiil | Heat the milk slowly. | Sütü yavaşça ısıt.
+mix | karıştırmak | fiil | Mix the eggs and sugar. | Yumurtaları ve şekeri karıştır.
+cut (cut, cut) | kesmek | fiil · düzensiz | Cut the cake into eight pieces. | Pastayı sekiz parçaya kes.

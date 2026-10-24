@@ -1,0 +1,111 @@
+# UNIT: Taom va ichimliklar | Nonushta, doʻkon, restoran, taʼmlar
+## Nonushta
+breakfast | nonushta | Soat yettida nonushta qilaman.
+bread | non | Bu non hali ham iliq.
+butter | sariyogʻ | Sariyogʻni uzatib yuborasanmi?
+cheese | pishloq | Oq pishloqni yaxshi koʻraman.
+egg | tuxum | Anna har kuni ertalab ikkita tuxum yeydi.
+honey | asal | Choyimga asal solaman.
+jam | murabbo | Qulupnay murabbosi eng sevimlim.
+yoghurt | yogurt, qatiq | Yogurtni asal bilan yeyman.
+cereal | nonushta yormasi (gʻallali boʻtqa) | Bolalar yormani sut bilan yeyishadi.
+milk | sut | Bizga yana sut kerak.
+## Ichimliklar
+water | suv | Bir stakan suv, iltimos.
+tea | choy | Emre qora choy ichadi.
+coffee | qahva, kofe | Hozir menga bir qahva kerak.
+juice | sharbat | Bu apelsin sharbati yangi siqilgan.
+lemonade | limonad | Bolalar sovuq limonadni yaxshi koʻradi.
+beer | pivo | U kichik pivo buyurtma qiladi.
+wine | vino, sharob | Qizil vinoni afzal koʻrasizmi?
+sugar | shakar | Menga shakar kerak emas, rahmat.
+soft drink | alkogolsiz ichimlik | Ular faqat alkogolsiz ichimliklar sotadi.
+drink (drank, drunk) | ichmoq; ichimlik | Nima ichishni xohlaysan?
+## Mevalar
+fruit | meva | Har kuni koʻproq meva ye.
+apple | olma | Kuniga bitta olma – sogʻliq garovi.
+banana | banan | Chaqaloq bananni yaxshi koʻradi.
+lemon | limon | Baliqqa biroz limon qoʻsh.
+melon | qovun | Bu qovunning hidi juda shirin.
+mango | mango | Mango issiq mamlakatlardan keladi.
+apricot | oʻrik | Malatya oʻrigi bilan mashhur.
+fig | anjir | Yangi anjirni juda yaxshi koʻraman.
+kiwi | kivi | Kivining ichi yashil.
+coconut | kokos yongʻogʻi | Kokos suvi juda tetiklashtiradi.
+## Sabzavotlar
+vegetable | sabzavot | Sabzavotlarni bozordan olaman.
+potato (potatoes) | kartoshka | Iltimos, kartoshkani archib qoʻy.
+tomato (tomatoes) | pomidor | Bu pomidorlar juda qizil.
+onion | piyoz | Piyozni mayda qilib toʻgʻra.
+carrot | sabzi | Quyonlar sabzini yaxshi koʻradi.
+salad | salat | Menga koʻk salat bering.
+peas | koʻk noʻxat | Bolalar koʻk noʻxatni yoqtirmaydi.
+corn | makkajoʻxori | Sohilda makkajoʻxori yeymiz.
+lentils | yasmiq | Yasmiq shoʻrvasiga qizil yasmiq kerak.
+beans | loviya | Umar loviyani guruch bilan pishiradi.
+## Goʻsht va asosiy taomlar
+meat | goʻsht | Sofiya goʻsht yemaydi.
+chicken | tovuq goʻshti | Kechki ovqatga tovuq goʻshti bor.
+beef | mol goʻshti | Bu burger mol goʻshtidanmi?
+rice | guruch; palov | Har kuni guruch pishiraman.
+pasta | makaron | Bolalar yana makaron xohlashyapti.
+soup | shoʻrva | Bu shoʻrva juda issiq.
+sandwich | sendvich, buterbrod | Ishda sendvich yeyman.
+pizza | pitsa | Bugun kechqurun pitsa buyurtma qilaylik.
+chips | kartoshka fri | Baliq va kartoshka fri, iltimos.
+steak | bifshteks, steyk | Steykim yaxshi qovurilgan boʻlsin.
+## Ovqatlanish vaqtlari
+food | ovqat; oziq-ovqat | Bu yerning ovqati juda zoʻr.
+meal | ovqatlanish, taom | Kuniga uch mahal ovqatlanamiz.
+lunch | tushlik | Birga tushlik qilaylik.
+dinner | kechki ovqat | Kechki ovqat tayyor!
+brunch | kech nonushta, branch | Yakshanba kunlari kech nonushta qilamiz.
+dessert | desert, shirinlik (ovqatdan keyin) | Desertga nima bor?
+eat (ate, eaten) | ovqat yemoq | Soat sakkizda ovqatlanamiz.
+hungry | och (qorni och) | Qornim juda och.
+thirsty | chanqagan | Chanqadingmi?
+yummy | mazali, shirin (samimiy) | Mmm, bu pirog juda mazali ekan!
+## Doʻkonda
+supermarket | supermarket | Supermarket soat toʻqqizda ochiladi.
+greengrocer | meva-sabzavot doʻkoni | Pomidorni meva-sabzavot doʻkonidan olaman.
+bakery | novvoyxona, non doʻkoni | Novvoyxona burchakda.
+jar | banka, shisha idish | Iltimos, mana bu murabbo bankasini och.
+carton | karton quti | Bir quti sut ol.
+butcher | qassob | Qassob yangi goʻsht sotadi.
+kilo | kilo | Ikki kilo olma, iltimos.
+packet | paket, qadoq | Menga bir paket guruch kerak.
+tin | konserva bankasi | Bir banka konserva pomidor ol.
+nuts | yongʻoqlar, quruq mevalar | Diego bir xalta yongʻoq oladi.
+## Restoranda
+restaurant | restoran | Bu restoran juda mashhur.
+café | kafe | Kafeda uchrashaylik.
+menu | menyu | Menyuni koʻrsam boʻladimi?
+order | buyurtma bermoq; buyurtma | Buyurtma berishga tayyormisiz?
+starter | boshlangʻich taom, zakuska | Shoʻrva – yaxshi boshlangʻich taom.
+main course | asosiy taom | Asosiy taomga tovuq, iltimos.
+waitress | ofitsiant (ayol) | Ofitsiant qiz juda xushmuomala.
+I'd like | …xohlardim (xushmuomala) | Bir qahva xohlardim, iltimos.
+can I have | …olsam boʻladimi | Ozgina suv olsam boʻladimi?
+takeaway | olib ketiladigan ovqat | Bugun kechqurun olib ketiladigan ovqat olaylik.
+## Taʼmlar
+flavour | taʼm, xushboʻylik | Qaysi taʼmli muzqaymoq xohlaysan?
+sweet | shirin | Bu choy juda shirin.
+salty | shoʻr | Shoʻrva biroz shoʻr.
+sour | nordon | Limon juda nordon.
+bitter | taxir, achchiq taʼmli | Qora qahva taxir boʻladi.
+fried | qovurilgan, qovurma | Qovurilgan ovqat yemayman.
+hot | issiq; qalampirli, achchiq | Ehtiyot boʻl, tarelka issiq.
+fresh | yangi, toza (uzilgan/tutilgan) | Baliq juda yangi.
+salt | tuz | Tuzni uzatib yuborasanmi?
+oil | yogʻ, moy | Tuxumni zaytun moyida qovur.
+## Shirinliklar va oshxonada
+cake | tort, keks | Yuki shokoladli tort pishiradi.
+chocolate | shokolad | Bolalar shokoladni yaxshi koʻradi.
+ice cream | muzqaymoq | Ikkita muzqaymoq, iltimos.
+biscuit | pechenye | Choyingga pechenye ol.
+pudding | puding; desert | Shokoladli puding mening sevimlim.
+cookie | pishiriq, kuki | Buvim bizga pishiriq pishiradi.
+sauce | sous | Pomidor sousli makaron, iltimos.
+heat | isitmoq | Sutni sekin isit.
+mix | aralashtirmoq | Tuxum va shakarni aralashtir.
+cut (cut, cut) | kesmoq, toʻgʻramoq | Tortni sakkiz boʻlakka kes.

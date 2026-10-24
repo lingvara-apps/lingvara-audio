@@ -1,0 +1,111 @@
+# UNIT: 健康 | 看医生、症状、药店、紧急情况
+## 看医生
+appointment | 预约 | 我十点有个预约。
+patient | 病人，患者 | 病人在外面等着。
+examine | 检查（身体） | 医生检查了我的喉咙。
+prescription | 处方 | 这种药需要处方。
+treatment | 治疗 | 治疗需要两周。
+check-up | 体检 | 我每年做一次体检。
+clinic | 诊所 | 诊所八点开门。
+waiting room | 候诊室 | 今天候诊室坐满了人。
+blood test | 验血 | 护士给我验了血。
+family doctor | 家庭医生 | 我的家庭医生很了解我。
+## 症状
+symptom | 症状 | 你有什么症状？
+fever | 发烧 | 孩子发高烧了。
+cough | 咳嗽 | 他咳了一整夜。
+sore throat | 喉咙痛 | 我喉咙痛。
+runny nose | 流鼻涕 | 安娜今天流鼻涕。
+sneeze | 打喷嚏 | 灰尘让我打喷嚏。
+dizzy | 头晕的 | 我一站起来就头晕。
+toothache | 牙痛 | 奥马尔牙痛，去看了牙医。
+earache | 耳朵痛 | 我儿子耳朵痛。
+stomachache | 胃痛，肚子痛 | 我吃得太多，肚子痛了。
+## 疾病
+flu | 流感 | 班上一半的人得了流感。
+catch a cold | 着凉，感冒 | 我淋雨着凉了。
+infection | 感染 | 医生说是耳朵感染。
+allergy | 过敏 | 你对什么过敏吗？
+allergic | 过敏的 | 索菲亚对坚果过敏。
+virus | 病毒 | 只是病毒感染，别太担心。
+disease | 疾病（医学） | 心脏病非常常见。
+illness | 生病，患病状态 | 她因病没去上班。
+asthma | 哮喘 | 卢卡斯总是随身带着哮喘吸入器。
+food poisoning | 食物中毒 | 他吃了变质的鱼，食物中毒了。
+## 在药店
+pharmacy | 药店 | 这附近有药店吗？
+pharmacist | 药剂师 | 向药剂师咨询一下吧。
+pill | 药丸 | 每顿饭后吃一粒药。
+tablet | 药片 | 这些药片能缓解疼痛。
+painkiller | 止痛药 | 我背痛，吃了一片止痛药。
+syrup | 糖浆 | 这种止咳糖浆味道很难喝。
+cream | 药膏，乳霜 | 这种药膏每天在皮肤上涂两次。
+plaster | 创可贴 | 我手指需要一张创可贴。
+bandage | 绷带 | 护士在他膝盖上缠了绷带。
+side effect | 副作用 | 这种药没有严重的副作用。
+## 受伤
+injury | 伤，损伤 | 只是一点小伤。
+injure | 使受伤 | 车祸中有两人受伤。
+wound | 伤口 | 用清水清洗伤口。
+bleed (bled, bled) | 流血 | 你流鼻血了！
+bruise | 淤青，瘀伤 | 我腿上有一大块淤青。
+burn (burnt, burnt) | 烧伤，烫伤；烫伤处 | 我的手被烤箱烫伤了。
+swollen | 肿起来的 | 比赛后我的脚踝肿了。
+fall over | 摔倒，跌倒 | 埃姆雷在冰上摔倒了。
+sprain | 扭伤 | 她打网球时扭伤了手腕。
+scar | 伤疤 | 他下巴上有一道伤疤。
+## 紧急情况
+emergency | 紧急情况 | 遇到紧急情况，请拨打999。
+ambulance | 救护车 | 救护车五分钟就到了。
+accident | 事故 | 高速公路上发生了一起事故。
+first aid | 急救 | 玛丽亚会急救。
+paramedic | 急救员（救护车） | 急救员帮助了那位老人。
+unconscious | 失去知觉的，昏迷的 | 司机昏迷不醒。
+breathe | 呼吸 | 慢慢呼吸，保持冷静。
+faint | 晕倒，昏厥 | 她因为太热晕倒了。
+rescue | 营救，救援 | 消防员救出了那一家人。
+stretcher | 担架 | 他们用担架把他抬了出去。
+## 在医院
+ward | 病房 | 我奶奶在六号病房。
+operation | 手术 | 手术非常成功。
+surgeon | 外科医生 | 外科医生和家属谈了话。
+injection | 注射，打针 | 我怕打针。
+x-ray | X光 | X光片显示骨头断了。
+stitches | （伤口的）缝针 | 他缝了五针。
+wheelchair | 轮椅 | 医院给了他一把轮椅。
+crutches | 拐杖 | 迭戈现在拄着拐杖走路。
+recover | 康复，痊愈 | 手术后她恢复得很快。
+visiting hours | 探视时间 | 探视时间八点结束。
+## 健康生活
+diet | 饮食；节食 | 健康的饮食包括大量蔬菜。
+work out | 健身，锻炼 | 我每周健身三次。
+vitamin | 维生素 | 橙子富含维生素C。
+fit | 健康的，身材好的 | 由纪通过游泳保持健康。
+lose weight | 减肥，减重 | 他想在夏天之前减肥。
+put on weight | 长胖，增重 | 假期里我长胖了。
+smoke | 吸烟 | 我父亲去年戒烟了。
+stress | 压力 | 压力太大对健康有害。
+balanced | 均衡的 | 尽量吃一顿均衡的早餐。
+fresh air | 新鲜空气 | 我们出去呼吸点新鲜空气吧。
+## 身体内部
+lung | 肺 | 吸烟会损害你的肺。
+brain | 大脑 | 睡眠对大脑很重要。
+bone | 骨头 | 牛奶对骨骼有益。
+skin | 皮肤 | 保护你的皮肤免受阳光伤害。
+blood | 血 | 他的衬衫上有血。
+muscle | 肌肉 | 健身后我的肌肉很酸痛。
+chest | 胸部，胸口 | 我胸口疼。
+ankle | 脚踝 | 阿里扭伤了脚踝。
+wrist | 手腕 | 她把手表戴在左手腕上。
+elbow | 手肘 | 我的手肘撞到了门上。
+## 和医生交谈
+what's the matter? | 怎么了？ | 怎么了？你脸色很苍白。
+I don't feel well | 我觉得不舒服 | 我觉得不舒服，我要回家了。
+it hurts | 很疼 | 我走路的时候很疼。
+get better | 好起来，康复 | 希望你早日好起来。
+get well soon | 早日康复 | 早日康复，卡米耶！
+lie down (lay, lain) | 躺下 | 请在这里躺下。
+take your temperature | 量体温 | 护士会给你量体温。
+be off sick | 请病假在家 | 汤姆今天请病假了。
+sick note | 病假条 | 我的老板要我交病假条。
+bless you | 长命百岁（对打喷嚏的人说） | 阿嚏！长命百岁！

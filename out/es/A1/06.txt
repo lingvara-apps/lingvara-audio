@@ -1,0 +1,111 @@
+# UNIT: La ciudad y el transporte | Lugares, direcciones, transporte público, viajes, naturaleza
+## En la ciudad
+city | ciudad | Londres es una ciudad grande.
+town | pueblo, ciudad pequeña | Vivo en un pueblo pequeño.
+village | aldea, pueblito | Mis abuelos viven en una aldea.
+street | calle | ¿Cómo se llama esta calle?
+road | carretera, camino | Esta carretera va al mar.
+square | plaza | La cafetería está en la plaza principal.
+park | parque | Vamos a pasear por el parque.
+bridge | puente | Cruza el puente y gira a la izquierda.
+centre | centro | El hotel está en el centro de la ciudad.
+building | edificio | Ese edificio es muy antiguo.
+## Lugares importantes
+bank | banco | El banco cierra a las cinco.
+post office | oficina de correos | ¿Dónde está la oficina de correos?
+hospital | hospital | Mi madre trabaja en el hospital.
+school | escuela, colegio | La escuela está cerca de mi casa.
+library | biblioteca | Estudio en la biblioteca.
+museum | museo | Hoy el museo es gratis.
+church | iglesia | Aquí hay una iglesia antigua.
+mosque | mezquita | La mezquita está al lado del mercado.
+railway station | estación de tren | La estación de tren está muy concurrida.
+hotel | hotel | Nuestro hotel tiene una vista bonita.
+## Más lugares
+cinema | cine | Vamos al cine esta noche.
+theatre | teatro | El teatro está en el casco antiguo.
+airport | aeropuerto | El aeropuerto está lejos de aquí.
+bus stop | parada de autobús | Espero en la parada de autobús.
+palace | palacio | El palacio está abierto a los turistas.
+sports centre | centro deportivo, polideportivo | Nado en el centro deportivo.
+zoo | zoológico, zoo | Los niños quieren ir al zoológico.
+mall | centro comercial | El nuevo centro comercial es enorme.
+swimming pool | piscina, alberca | El hotel tiene piscina.
+fountain | fuente | Quedemos en la fuente.
+## Indicar el camino
+left | izquierda; a la izquierda | Gira a la izquierda en el banco.
+on the right | a la derecha | El museo está a la derecha.
+straight on | todo recto, derecho | Sigue todo recto cinco minutos.
+turn | girar, doblar | Gira a la derecha después del puente.
+cross | cruzar | Cruza la calle con cuidado.
+map | mapa | ¿Me lo puedes mostrar en el mapa?
+north | norte | Mánchester está en el norte de Inglaterra.
+south | sur | Cada verano vamos en auto hacia el sur.
+east | este | El sol sale por el este.
+west | oeste | El pueblo está al oeste de la ciudad.
+## ¿Dónde?
+far | lejos | ¿Está lejos la estación?
+opposite | enfrente de | El banco está enfrente de la escuela.
+outside | fuera, afuera | Te espero afuera.
+inside | dentro, adentro | Entremos, hace frío.
+across | al otro lado, a través de | Cruza la plaza.
+along | a lo largo de, por | Camina por esta calle.
+at the end of | al final de | Está al final de la calle.
+get to (got, got) | llegar a | ¿Cómo llego al museo?
+how far | a qué distancia | ¿A qué distancia está el aeropuerto?
+route | ruta, recorrido | Esta ruta de autobús es muy larga.
+## Transporte público
+bus | autobús | Voy al trabajo en autobús.
+tram | tranvía | El tranvía es lento, pero barato.
+metro | metro | Toma el metro hasta el centro.
+minibus | microbús, combi | El microbús para aquí.
+taxi | taxi | Volvamos a casa en taxi.
+plane | avión | El avión aterriza al mediodía.
+boat | barca, bote | Cruzamos el lago en barca.
+ship | barco | El barco sale a las seis.
+ticket | boleto, billete | Dos boletos para Oxford, por favor.
+passenger | pasajero | El autobús lleva diez pasajeros.
+## En el camino
+car | coche, auto, carro | Su auto es nuevo.
+bike | bici, bicicleta | Yuki va a la escuela en bici.
+motorbike | moto, motocicleta | Su moto hace mucho ruido.
+on foot | a pie, caminando | Voy a la escuela a pie.
+drive (drove, driven) | manejar, conducir | ¿Sabes manejar?
+ride (rode, ridden) | montar, andar en (bici, caballo) | Los niños andan en bici en el parque.
+traffic | tráfico | Hoy el tráfico es terrible.
+traffic lights | semáforo | Para en el semáforo.
+fast | rápido; rápidamente | Este tren es muy rápido.
+slow | lento | El autobús viejo es lento.
+## Viajes
+travel | viajar | Me encanta viajar.
+trip | viaje, excursión | ¡Buen viaje!
+holiday | vacaciones | Necesitamos unas vacaciones.
+suitcase | maleta | Mi maleta pesa mucho.
+tour | recorrido, tour | Hacemos un recorrido en autobús por Londres.
+arrive | llegar | El autobús llega a las diez.
+stay | quedarse, alojarse | Nos alojamos en un hotel pequeño.
+harbour | puerto | Los barcos están en el puerto.
+photo | foto | ¿Nos puedes tomar una foto?
+postcard | postal | ¡Mándame una postal!
+## La naturaleza
+nature | naturaleza | Me encanta caminar por la naturaleza.
+lake | lago | El lago está muy frío.
+forest | bosque | En el bosque hay lobos.
+beach | playa | En agosto vamos a la playa.
+sand | arena | Hoy la arena está caliente.
+rock | roca, piedra grande | Siéntate en esa roca grande.
+animal | animal | ¿Cuál es tu animal favorito?
+wave | ola | Hoy las olas son grandes.
+ice | hielo | El lago está cubierto de hielo.
+world | mundo | Quiero ver el mundo.
+## El tiempo
+weather | tiempo (meteorológico), clima | ¿Qué tiempo hace hoy?
+rain | lluvia; llover | Me encanta el sonido de la lluvia.
+snow | nieve; nevar | Hay nieve en las carreteras.
+wind | viento | El viento es muy fuerte.
+sunny | soleado | Hace sol y calor.
+rainy | lluvioso | En Londres llueve a menudo.
+windy | ventoso | Junto al mar hace viento.
+warm | templado, cálido | Llévate una chaqueta abrigada.
+cool | fresco | En otoño las tardes son frescas.
+storm | tormenta | Esta noche viene una gran tormenta.

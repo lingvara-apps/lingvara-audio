@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## Borsa ve yatırım
+equities | hisse senetleri | isim (çoğul) | The fund moved most of its money out of equities and into bonds. | Fon parasının çoğunu hisse senetlerinden tahvillere kaydırdı.
+arbitrage | arbitraj | isim | The bank made a quick profit through arbitrage between the London and Tokyo markets. | Banka Londra ve Tokyo piyasaları arasındaki arbitrajla hızlı bir kâr elde etti.
+margin call | teminat tamamlama çağrısı | isim | When prices crashed, Ali received a margin call from his broker. | Fiyatlar çökünce Ali aracı kurumundan teminat tamamlama çağrısı aldı.
+volatility | oynaklık, dalgalanma | isim | Volatility rose sharply after the central bank's surprise announcement. | Merkez bankasının sürpriz açıklamasından sonra oynaklık keskin biçimde arttı.
+bellwether | öncü gösterge, piyasanın nabzı | isim | The bank's shares are seen as a bellwether for the whole economy. | Bankanın hisseleri bütün ekonominin öncü göstergesi olarak görülür.
+short-sell | açığa satmak | fiil | Some traders short-sold the shares, betting the price would fall. | Bazı yatırımcılar fiyatın düşeceğine bahse girerek hisseleri açığa sattı.
+hedge | riskten korunmak | fiil | Exporters often hedge against sudden changes in the exchange rate. | İhracatçılar döviz kurundaki ani değişikliklere karşı sık sık riskten korunur.
+sell-off | toplu satış, satış dalgası | isim | Fears of war triggered a global sell-off in technology shares. | Savaş korkusu teknoloji hisselerinde küresel bir satış dalgasını tetikledi.
+yield | getiri, getiri oranı | isim | Government bonds currently offer a modest yield of three per cent. | Devlet tahvilleri şu anda yüzde üçlük mütevazı bir getiri sunuyor.
+speculator | spekülatör, vurguncu | isim | Speculators drove the price of rice to record levels. | Spekülatörler pirincin fiyatını rekor seviyelere çıkardı.
+## Kredi ve borç
+usury | tefecilik, aşırı faiz | isim | In many old societies, usury was considered a serious sin. | Pek çok eski toplumda tefecilik ağır bir günah sayılırdı.
+amortisation | itfa, borcun taksitle ödenmesi | isim | The amortisation schedule shows how much of each payment reduces the debt. | İtfa tablosu her ödemenin ne kadarının borcu azalttığını gösterir.
+foreclose | ipoteği paraya çevirmek, haciz yoluyla el koymak | fiil | The bank threatened to foreclose on the farm after six missed payments. | Altı taksit ödenmeyince banka çiftliğe el koymakla tehdit etti.
+solvency | ödeme gücü | isim | Investors began to doubt the solvency of the insurance company. | Yatırımcılar sigorta şirketinin ödeme gücünden şüphe etmeye başladı.
+receivership | kayyum yönetimi | isim | The football club went into receivership with huge debts. | Futbol kulübü büyük borçlarla kayyum yönetimine girdi.
+remortgage | yeniden ipotekli kredi çekmek | fiil | Anna remortgaged her flat to pay for her daughter's studies. | Anna kızının eğitimini karşılamak için dairesi üzerine yeniden ipotekli kredi çekti.
+forbearance | borç erteleme, hoşgörü süresi | isim | The lender agreed to a period of forbearance while Camille recovered from illness. | Borç veren, Camille hastalıktan iyileşirken bir erteleme süresine razı oldu.
+underwrite (underwrote, underwritten) | güvence altına almak, sigortalamak | fiil · düzensiz | Several banks agreed to underwrite the new bond issue. | Birkaç banka yeni tahvil ihracını güvence altına almayı kabul etti.
+debenture | teminatsız tahvil | isim | The company raised funds by issuing ten-year debentures. | Şirket on yıllık teminatsız tahviller çıkararak fon topladı.
+promissory note | emre muharrer senet, borç senedi | isim | He signed a promissory note to repay the money within a year. | Parayı bir yıl içinde geri ödemek için bir borç senedi imzaladı.
+## Vergi ve muhasebe
+levy | vergi, harç | isim | The city introduced a small tourist levy on hotel stays. | Şehir otel konaklamalarına küçük bir turist vergisi getirdi.
+deductible | vergiden düşülebilir | sıfat | Work-related travel costs are often tax-deductible. | İşle ilgili seyahat masrafları çoğu zaman vergiden düşülebilir.
+excise | tüketim vergisi, ÖTV | isim | The excise on tobacco and alcohol rises every January. | Tütün ve alkoldeki tüketim vergisi her ocak ayında artar.
+stamp duty | damga vergisi; tapu harcı | isim | First-time buyers pay lower stamp duty on cheaper homes. | İlk kez ev alanlar ucuz evlerde daha düşük tapu harcı öder.
+tax avoidance | yasal yollarla vergiden kaçınma | isim | Tax avoidance is legal, but many people consider it unfair. | Vergiden kaçınma yasaldır ama birçok kişi bunu haksız bulur.
+withholding tax | stopaj vergisi | isim | A withholding tax is deducted from dividends before they reach investors. | Kâr payları yatırımcılara ulaşmadan önce stopaj vergisi kesilir.
+embezzle | zimmetine geçirmek | fiil | The treasurer embezzled funds from the club for years. | Sayman yıllarca kulübün parasını zimmetine geçirdi.
+fiduciary | emanete dayalı, güvene dayalı | sıfat | Trustees have a fiduciary duty to act in the best interest of the family. | Mütevellilerin ailenin yararına hareket etme yönünde güvene dayalı bir yükümlülüğü vardır.
+rebate | geri ödeme, iade | isim | Sofia received a tax rebate after installing solar panels. | Sofia güneş panelleri taktırdıktan sonra vergi iadesi aldı.
+accrue | birikmek, tahakkuk etmek | fiil | Interest accrues daily on the unpaid balance. | Ödenmemiş bakiyeye her gün faiz tahakkuk eder.
+## Ekonomi kavramları
+mercantilism | merkantilizm | isim | Mercantilism held that a nation grew rich by exporting more than it imported. | Merkantilizm bir ulusun ithal ettiğinden fazlasını ihraç ederek zenginleştiğini savunuyordu.
+autarky | otarşi, kendi kendine yeterlik | isim | During the war, the country tried to achieve autarky in food production. | Savaş sırasında ülke gıda üretiminde kendi kendine yeterliği sağlamaya çalıştı.
+quantitative easing | parasal genişleme | isim | The central bank used quantitative easing to keep interest rates low. | Merkez bankası faiz oranlarını düşük tutmak için parasal genişleme uyguladı.
+plutocracy | plütokrasi, zenginler yönetimi | isim | Critics warn that the country is slowly becoming a plutocracy. | Eleştirmenler ülkenin yavaş yavaş bir zenginler yönetimine dönüştüğü konusunda uyarıyor.
+laissez-faire | bırakınız yapsınlar, müdahalesiz | sıfat | The minister defended a laissez-faire approach to the housing market. | Bakan konut piyasasına müdahalesiz bir yaklaşımı savundu.
+fiat money | itibari para | isim | Modern currencies are fiat money, not backed by gold. | Modern para birimleri altınla desteklenmeyen itibari paralardır.
+gold standard | altın standardı; en iyi ölçüt | isim | Most countries abandoned the gold standard in the twentieth century. | Çoğu ülke yirminci yüzyılda altın standardını terk etti.
+emolument | maaş, ücret, ödenek (resmî) | isim | The director's annual emoluments were published in the report. | Müdürün yıllık ödenekleri raporda yayımlandı.
+disburse | ödemek, dağıtmak (fon) | fiil | The charity disbursed emergency funds to families hit by the flood. | Yardım kuruluşu selden etkilenen ailelere acil fon dağıttı.
+pecuniary | parasal, maddi | sıfat | He denied receiving any pecuniary benefit from the deal. | Anlaşmadan herhangi bir maddi çıkar elde ettiğini reddetti.
+## Soyut fiiller I
+adduce | delil olarak göstermek | fiil | The lawyer adduced several letters as evidence of the agreement. | Avukat anlaşmanın kanıtı olarak birkaç mektup gösterdi.
+educe | çıkarmak, sonuç çıkarmak | fiil | From these scattered facts, the historian educed a clear pattern. | Tarihçi bu dağınık olgulardan açık bir örüntü çıkardı.
+conflate | birbirine karıştırmak | fiil | Many people conflate correlation with causation. | Pek çok kişi korelasyonu nedensellikle karıştırır.
+impugn | kuşku düşürmek, itibarını sorgulamak | fiil | The article impugned the honesty of the entire committee. | Makale bütün komitenin dürüstlüğüne kuşku düşürdü.
+propound | öne sürmek, ortaya atmak | fiil | The philosopher propounded a new theory of justice. | Filozof yeni bir adalet kuramı ortaya attı.
+adumbrate | ana hatlarıyla belirtmek | fiil | The opening chapter adumbrates the themes of the whole novel. | İlk bölüm bütün romanın temalarını ana hatlarıyla belirtiyor.
+promulgate | yaymak, ilan etmek | fiil | The new rules were promulgated in the official gazette. | Yeni kurallar resmî gazetede ilan edildi.
+aver | kesinlikle iddia etmek | fiil | The witness averred that she had seen the man leave at midnight. | Tanık adamın gece yarısı çıktığını gördüğünü kesinlikle iddia etti.
+reify | somutlaştırmak, şeyleştirmek | fiil | Critics argue that the model reifies vague social categories. | Eleştirmenler modelin belirsiz toplumsal kategorileri şeyleştirdiğini öne sürüyor.
+arrogate | haksızca sahiplenmek | fiil | The committee arrogated to itself powers it had never been given. | Komite kendisine hiç verilmemiş yetkileri haksızca sahiplendi.
+## Soyut fiiller II
+obviate | gereksiz kılmak, önlemek | fiil | The new software obviates the need for manual checks. | Yeni yazılım elle kontrol ihtiyacını ortadan kaldırıyor.
+vitiate | bozmak, geçersiz kılmak | fiil | One false assumption can vitiate an entire argument. | Tek bir yanlış varsayım bütün bir argümanı geçersiz kılabilir.
+militate | aleyhine işlemek, engel olmak | fiil | Several factors militate against an early election. | Birkaç etken erken seçimin aleyhine işliyor.
+abrogate | yürürlükten kaldırmak | fiil | The new government abrogated the old trade agreement. | Yeni hükümet eski ticaret anlaşmasını yürürlükten kaldırdı.
+abjure | yeminle vazgeçmek, tövbe etmek | fiil | Late in life, the writer abjured the extreme views of his youth. | Yazar hayatının sonlarında gençliğindeki aşırı görüşlerden tamamen vazgeçti.
+transmute | dönüştürmek, başkalaştırmak | fiil | The artist transmuted her grief into powerful paintings. | Sanatçı kederini güçlü tablolara dönüştürdü.
+subsume | kapsamak, bünyesine katmak | fiil | All these small charities were subsumed into one large foundation. | Bütün bu küçük yardım kuruluşları tek büyük bir vakfın bünyesine katıldı.
+exculpate | aklamak, suçsuzluğunu kanıtlamak | fiil | New DNA evidence exculpated the man after ten years in prison. | Yeni DNA kanıtı adamı on yıl hapisten sonra akladı.
+evince | göstermek, açığa vurmak | fiil | The young scientist evinced a remarkable talent for mathematics. | Genç bilim insanı matematiğe olağanüstü bir yetenek gösterdi.
+disabuse | yanılgıdan kurtarmak | fiil | Let me disabuse you of the idea that this job is easy. | Bu işin kolay olduğu düşüncesinden seni kurtarayım.
+## Entelektüel sıfatlar
+recondite | anlaşılması güç, derin | sıfat | The lecture was full of recondite references to medieval philosophy. | Ders Orta Çağ felsefesine yapılan anlaşılması güç göndermelerle doluydu.
+abstruse | girift, kapalı | sıfat | Few readers can follow his abstruse theories about time. | Pek az okur onun zaman hakkındaki girift kuramlarını takip edebilir.
+esoteric | yalnızca uzmanlarca anlaşılan, ezoterik | sıfat | The conference discussed some rather esoteric questions of grammar. | Konferans dilbilgisinin oldukça ezoterik bazı sorularını tartıştı.
+pellucid | berrak, açık seçik | sıfat | Her pellucid prose makes even difficult ideas easy to follow. | Berrak düzyazısı zor fikirleri bile kolayca anlaşılır kılıyor.
+jejune | sığ, çocukça; kuru | sıfat | His early essays now seem jejune and full of borrowed ideas. | İlk denemeleri artık sığ ve ödünç fikirlerle dolu görünüyor.
+otiose | gereksiz, işlevsiz | sıfat | Half the footnotes in the book are otiose and could be removed. | Kitaptaki dipnotların yarısı gereksiz ve çıkarılabilir.
+heuristic | buluşsal, keşfe yönelik | sıfat | The method is heuristic and gives good answers rather than perfect ones. | Yöntem buluşsaldır; kusursuz değil, yeterince iyi cevaplar verir.
+tendentious | taraflı, yanlı | sıfat | Critics called the documentary tendentious and one-sided. | Eleştirmenler belgeseli taraflı ve tek yanlı buldu.
+axiomatic | apaçık, aksiyomatik | sıfat | It is almost axiomatic that good health depends on good sleep. | İyi sağlığın iyi uykuya bağlı olduğu neredeyse apaçıktır.
+sui generis | kendine özgü, türünün tek örneği | sıfat | Her style of writing is sui generis and impossible to imitate. | Yazı üslubu kendine özgüdür ve taklit edilemez.
+## Soyut kavramlar
+episteme | episteme, bir çağın bilgi düzeni | isim | Each historical period, the author argues, has its own episteme. | Yazara göre her tarihsel dönemin kendine ait bir bilgi düzeni vardır.
+ontology | ontoloji, varlık bilimi | isim | The seminar on ontology explored what it means for something to exist. | Ontoloji semineri bir şeyin var olmasının ne anlama geldiğini inceledi.
+antinomy | antinomi, iki doğru arasındaki çelişki | isim | The antinomy between freedom and determinism has troubled philosophers for centuries. | Özgürlük ile determinizm arasındaki antinomi yüzyıllardır filozofları uğraştırıyor.
+praxis | pratik, kuramın uygulanması | isim | The course connects educational theory with classroom praxis. | Ders eğitim kuramını sınıf içi pratikle buluşturuyor.
+aporia | apori, çözümsüz çelişki | isim | The dialogue ends in aporia, with no clear answer to the question. | Diyalog soruya açık bir yanıt vermeden çözümsüz bir çelişkiyle sona erer.
+teleology | erekbilim, teleoloji | isim | The theory of evolution offered an alternative to teleology in nature. | Evrim kuramı doğada erekbilime bir alternatif sundu.
+zeitgeist | çağın ruhu | isim | Her songs perfectly captured the zeitgeist of the nineties. | Şarkıları doksanların çağ ruhunu kusursuzca yakaladı.
+weltanschauung | dünya görüşü | isim | The novel reveals the weltanschauung of a lost generation. | Roman kayıp bir kuşağın dünya görüşünü gözler önüne seriyor.
+solipsism | tekbencilik | isim | His solipsism made it hard for him to understand other people's needs. | Tekbenciliği başkalarının ihtiyaçlarını anlamasını zorlaştırıyordu.
+qualia | kualia, öznel deneyim nitelikleri | isim (çoğul) | Philosophers still argue about whether qualia can be explained by brain science. | Filozoflar kualianın beyin bilimiyle açıklanıp açıklanamayacağını hâlâ tartışıyor.
+## İnsan tipleri
+polymath | çok yönlü bilgin | isim | A true polymath, she worked as a doctor, composer and architect. | Gerçek bir çok yönlü bilgin olan bu kadın doktorluk, bestecilik ve mimarlık yaptı.
+dilettante | amatör, heveskâr | isim | Critics dismissed him as a dilettante who dabbled in every art. | Eleştirmenler onu her sanatla yüzeysel uğraşan bir heveskâr olarak küçümsedi.
+pedant | ukala, bilgiçlik taslayan | isim | Only a pedant would correct a typo in a birthday card. | Doğum günü kartındaki yazım hatasını ancak bir ukala düzeltirdi.
+bluestocking | okumuş kadın, bilgiç kadın (eski) | isim | In the eighteenth century, women who discussed books were mocked as bluestockings. | On sekizinci yüzyılda kitap tartışan kadınlarla bilgiç kadın diye alay edilirdi.
+iconoclast | putkırıcı, geleneklere karşı çıkan | isim | The young architect was an iconoclast who rejected classical forms. | Genç mimar klasik biçimleri reddeden bir putkırıcıydı.
+sophist | safsatacı, laf ebesi | isim | The debate was won by a clever sophist rather than by the truth. | Tartışmayı gerçek değil zeki bir safsatacı kazandı.
+savant | âlim; dâhi | isim | The old savant spent his life cataloguing ancient manuscripts. | Yaşlı âlim hayatını eski elyazmalarını kataloglamakla geçirdi.
+contrarian | aykırı görüşlü, ters yatırımcı | isim | As a contrarian, he bought shares when everyone else was selling. | Aykırı görüşlü biri olarak herkes satarken o hisse aldı.
+philistine | kültürsüz, sanattan anlamayan | isim | Only a philistine would call this beautiful old building ugly. | Bu güzel eski binaya ancak sanattan anlamayan biri çirkin derdi.
+mandarin | kıdemli bürokrat, üst düzey memur | isim | Treasury mandarins drafted the budget behind closed doors. | Maliye Bakanlığı'nın kıdemli bürokratları bütçeyi kapalı kapılar ardında hazırladı.
+## Para ve servet (edebî dil)
+impecunious | parasız, meteliksiz | sıfat | As an impecunious student, Emre lived on bread and cheap tea. | Meteliksiz bir öğrenci olarak Emre ekmek ve ucuz çayla geçiniyordu.
+penurious | yoksul; aşırı cimri | sıfat | The family lived in penurious conditions after the factory closed. | Fabrika kapandıktan sonra aile yoksul koşullarda yaşadı.
+parsimonious | eli sıkı, pinti | sıfat | The parsimonious landlord refused to fix the broken heating. | Eli sıkı ev sahibi bozuk kaloriferi tamir ettirmeyi reddetti.
+opulence | şatafat, bolluk | isim | The guests were stunned by the opulence of the marble ballroom. | Konuklar mermer balo salonunun şatafatı karşısında şaşkına döndü.
+lucre | kirli para, kazanç (aşağılayıcı) | isim | He sold his family's land for the sake of filthy lucre. | Kirli para uğruna ailesinin toprağını sattı.
+pelf | haram mal, servet (aşağılayıcı) | isim | The old miser cared for nothing but his pelf. | Yaşlı cimri servetinden başka hiçbir şeyi umursamıyordu.
+largesse | cömertlik, bağış | isim | The new hospital wing was built thanks to the largesse of a local family. | Hastanenin yeni kanadı yerel bir ailenin cömertliği sayesinde inşa edildi.
+munificent | eli açık, çok cömert | sıfat | A munificent donor paid for every child in the village to attend school. | Çok cömert bir bağışçı köydeki her çocuğun okula gitmesini karşıladı.
+profligate | savurgan, müsrif | sıfat | The council was criticised for its profligate spending on new offices. | Belediye yeni ofislere yaptığı savurgan harcamalar nedeniyle eleştirildi.
+sinecure | yatar maaşlı iş, kolay makam | isim | His uncle found him a sinecure with a large salary and no real duties. | Amcası ona yüksek maaşlı ve gerçek görevi olmayan kolay bir makam buldu.

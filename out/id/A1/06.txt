@@ -1,0 +1,111 @@
+# UNIT: Kota dan transportasi | Tempat, arah, transportasi umum, perjalanan, alam
+## Di kota
+city | kota (besar) | London kota yang besar.
+town | kota kecil | Aku tinggal di kota kecil.
+village | desa | Kakek dan nenekku tinggal di desa.
+street | jalan, jalan kecil | Apa nama jalan ini?
+road | jalan raya | Jalan ini menuju ke laut.
+square | alun-alun | Kafenya di alun-alun utama.
+park | taman | Ayo jalan-jalan di taman.
+bridge | jembatan | Seberangi jembatan lalu belok kiri.
+centre | pusat | Hotelnya di pusat kota.
+building | gedung, bangunan | Gedung itu tua sekali.
+## Tempat penting
+bank | bank | Banknya tutup jam lima.
+post office | kantor pos | Kantor posnya di mana?
+hospital | rumah sakit | Ibuku bekerja di rumah sakit.
+school | sekolah | Sekolahnya dekat rumahku.
+library | perpustakaan | Aku belajar di perpustakaan.
+museum | museum | Museumnya gratis hari ini.
+church | gereja | Di sini ada gereja tua.
+mosque | masjid | Masjidnya di sebelah pasar.
+railway station | stasiun kereta api | Stasiun kereta apinya ramai sekali.
+hotel | hotel | Hotel kami pemandangannya bagus.
+## Tempat lainnya
+cinema | bioskop | Ayo ke bioskop malam ini.
+theatre | teater, gedung teater | Teaternya di kota tua.
+airport | bandara, bandar udara | Bandaranya jauh dari sini.
+bus stop | halte bus | Aku menunggu di halte bus.
+palace | istana | Istananya terbuka untuk turis.
+sports centre | pusat olahraga | Aku berenang di pusat olahraga.
+zoo | kebun binatang | Anak-anak mau ke kebun binatang.
+mall | mal, pusat perbelanjaan | Mal barunya besar sekali.
+swimming pool | kolam renang | Hotelnya punya kolam renang.
+fountain | air mancur | Ayo bertemu di air mancur.
+## Petunjuk arah
+left | kiri; ke kiri | Belok kiri di bank.
+on the right | di kanan, di sebelah kanan | Museumnya di sebelah kanan.
+straight on | lurus terus | Jalan lurus terus selama lima menit.
+turn | belok, berbelok | Belok kanan setelah jembatan.
+cross | menyeberang, menyeberangi | Seberangi jalan dengan hati-hati.
+map | peta | Bisa tunjukkan di peta?
+north | utara | Manchester ada di utara Inggris.
+south | selatan | Kami berkendara ke selatan setiap musim panas.
+east | timur | Matahari terbit di timur.
+west | barat | Desa itu di sebelah barat kota.
+## Di mana?
+far | jauh | Stasiunnya jauh?
+opposite | di seberang, berhadapan dengan | Banknya di seberang sekolah.
+outside | di luar | Aku tunggu di luar.
+inside | di dalam; ke dalam | Ayo masuk ke dalam, dingin.
+across | ke seberang, melintasi | Jalan melintasi alun-alun.
+along | sepanjang, menyusuri | Jalan menyusuri jalan ini.
+at the end of | di ujung | Letaknya di ujung jalan.
+get to (got, got) | sampai ke, pergi ke (suatu tempat) | Bagaimana caranya ke museum?
+how far | seberapa jauh | Seberapa jauh bandaranya?
+route | rute | Rute bus ini panjang sekali.
+## Transportasi umum
+bus | bus | Aku ke kantor naik bus.
+tram | trem | Tremnya lambat tapi murah.
+metro | metro, kereta bawah tanah | Naik metro ke pusat kota.
+minibus | minibus, angkot | Minibusnya berhenti di sini.
+taxi | taksi | Ayo naik taksi pulang.
+plane | pesawat | Pesawatnya mendarat tengah hari.
+boat | perahu | Kami menyeberangi danau dengan perahu.
+ship | kapal | Kapalnya berangkat jam enam.
+ticket | tiket, karcis | Dua tiket ke Oxford, ya.
+passenger | penumpang | Busnya ada sepuluh penumpang.
+## Di jalan
+car | mobil | Mobilnya baru.
+bike | sepeda | Yuki naik sepeda ke sekolah.
+motorbike | sepeda motor | Sepeda motornya berisik sekali.
+on foot | jalan kaki | Aku ke sekolah jalan kaki.
+drive (drove, driven) | menyetir, mengemudi | Kamu bisa menyetir mobil?
+ride (rode, ridden) | naik, mengendarai (sepeda, kuda) | Anak-anak naik sepeda di taman.
+traffic | lalu lintas | Lalu lintasnya parah hari ini.
+traffic lights | lampu lalu lintas | Berhenti di lampu lalu lintas.
+fast | cepat | Kereta ini cepat sekali.
+slow | lambat, pelan | Bus tua itu lambat.
+## Perjalanan
+travel | bepergian, berwisata | Aku suka sekali bepergian.
+trip | perjalanan, trip | Selamat jalan!
+holiday | liburan | Kita perlu liburan.
+suitcase | koper | Koperku berat sekali.
+tour | tur | Kami ikut tur bus keliling London.
+arrive | tiba, sampai | Busnya tiba jam sepuluh.
+stay | menginap, tinggal | Kami menginap di hotel kecil.
+harbour | pelabuhan | Perahu-perahu ada di pelabuhan.
+photo | foto | Bisa tolong fotokan kami?
+postcard | kartu pos | Kirimi aku kartu pos!
+## Alam
+nature | alam | Aku suka berjalan-jalan di alam.
+lake | danau | Danaunya dingin sekali.
+forest | hutan | Ada serigala di hutan.
+beach | pantai | Kami ke pantai bulan Agustus.
+sand | pasir | Pasirnya panas hari ini.
+rock | batu, batu karang | Duduklah di batu besar itu.
+animal | hewan, binatang | Apa hewan favoritmu?
+wave | ombak, gelombang | Ombaknya besar hari ini.
+ice | es | Danaunya tertutup es.
+world | dunia | Aku ingin melihat dunia.
+## Cuaca
+weather | cuaca | Bagaimana cuaca hari ini?
+rain | hujan; turun hujan | Aku suka sekali suara hujan.
+snow | salju; turun salju | Ada salju di jalan-jalan.
+wind | angin | Anginnya kencang sekali.
+sunny | cerah, bermatahari | Cuacanya cerah dan hangat.
+rainy | berhujan, sering hujan | London sering hujan.
+windy | berangin | Di tepi laut berangin.
+warm | hangat | Bawa jaket yang hangat.
+cool | sejuk | Malam hari sejuk di musim gugur.
+storm | badai | Badai besar akan datang malam ini.

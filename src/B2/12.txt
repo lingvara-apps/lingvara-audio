@@ -1,0 +1,111 @@
+# UNIT: Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
+## Dil bilgisi terimleri
+grammar | dil bilgisi | isim | English grammar seems simple at first, but it has many exceptions. | İngilizce dil bilgisi ilk başta basit görünür ama birçok istisnası vardır.
+auxiliary verb | yardımcı fiil | isim | In questions, the auxiliary verb usually comes before the subject. | Soru cümlelerinde yardımcı fiil genellikle özneden önce gelir.
+modal verb | kip fiili | isim | "Must" is a modal verb that expresses strong obligation. | "Must" güçlü bir zorunluluk ifade eden kip fiilidir.
+gerund | isim-fiil (-ing) | isim | In "Swimming is fun", the word "swimming" is a gerund. | "Swimming is fun" cümlesinde "swimming" kelimesi bir isim-fiildir.
+participle | ortaç, sıfat-fiil | isim | "Gone" is the past participle of the verb "go". | "Gone", "go" fiilinin geçmiş ortacıdır.
+conjugate | fiil çekimi yapmak | fiil | Students had to conjugate twenty irregular verbs for homework. | Öğrenciler ödev olarak yirmi düzensiz fiili çekimlemek zorundaydı.
+infinitive | mastar | isim | After "want" we usually use the infinitive with "to". | "Want" fiilinden sonra genellikle "to" ile mastar kullanırız.
+passive | edilgen | sıfat | Scientific articles often use passive sentences to sound objective. | Bilimsel makaleler nesnel görünmek için sık sık edilgen cümleler kullanır.
+singular | tekil | sıfat | "Child" is singular, while "children" is its plural form. | "Child" tekildir, "children" ise onun çoğul biçimidir.
+plural | çoğul | isim | Some nouns, like "sheep", have the same form in the plural. | "Sheep" gibi bazı isimlerin çoğulu da aynı biçimdedir.
+## Kelime türleri ve yapı
+noun | isim (kelime türü) | isim | A noun can be the name of a person, place or thing. | İsim bir kişinin, yerin ya da nesnenin adı olabilir.
+verb | fiil | isim | Every complete sentence in English needs at least one verb. | İngilizcede her tam cümle en az bir fiile ihtiyaç duyar.
+adjective | sıfat | isim | Try to use a more precise adjective than "nice". | "Nice"tan daha kesin bir sıfat kullanmaya çalış.
+adverb | zarf | isim | Many adverbs in English end in "-ly", such as "quickly". | İngilizcedeki birçok zarf "quickly" gibi "-ly" ile biter.
+preposition | edat, ilgeç | isim | Choosing the right preposition is difficult for many learners. | Doğru edatı seçmek birçok öğrenci için zordur.
+pronoun | zamir | isim | Use a pronoun so that you don't repeat the same name. | Aynı ismi tekrarlamamak için bir zamir kullan.
+prefix | ön ek | isim | The prefix "un-" changes "happy" into its opposite. | "Un-" ön eki "happy" kelimesini zıt anlamına çevirir.
+suffix | son ek | isim | Adding the suffix "-ness" turns an adjective into a noun. | "-ness" son ekini eklemek bir sıfatı isme dönüştürür.
+syllable | hece | isim | The word "banana" has three syllables. | "Banana" kelimesinin üç hecesi vardır.
+stem | gövde (kelime gövdesi) | isim | The stem of "teaching" and "teacher" is "teach". | "Teaching" ve "teacher" kelimelerinin gövdesi "teach"tir.
+## Sesler ve telaffuz
+pronunciation | telaffuz, söyleniş | isim | Yuki practises her pronunciation by repeating short podcasts. | Yuki kısa podcast'leri tekrarlayarak telaffuzunu çalışıyor.
+pronounce | telaffuz etmek | fiil | How do you pronounce the name of this small Welsh town? | Bu küçük Galler kasabasının adını nasıl telaffuz ediyorsun?
+vowel | ünlü, sesli harf | isim | English has more vowel sounds than letters to write them. | İngilizcede onları yazacak harflerden daha fazla ünlü ses vardır.
+consonant | ünsüz, sessiz harf | isim | Some learners add a vowel between two consonants by mistake. | Bazı öğrenciler iki ünsüz arasına yanlışlıkla bir ünlü ekler.
+emphasis | vurgu | isim | Put emphasis on the word you want to highlight in the sentence. | Cümlede öne çıkarmak istediğin kelimeye vurgu yap.
+intonation | tonlama | isim | A rising intonation often shows that you are asking a question. | Yükselen bir tonlama genellikle soru sorduğunuzu gösterir.
+accent | aksan, şive | isim | Emre speaks English with a slight Scottish accent after living in Glasgow. | Emre Glasgow'da yaşadıktan sonra hafif bir İskoç aksanıyla İngilizce konuşuyor.
+silent | okunmayan, sessiz | sıfat | The "k" in "knife" is silent. | "Knife" kelimesindeki "k" okunmaz.
+rhyme | kafiye, uyak | isim | Children's songs are full of simple rhymes that are easy to remember. | Çocuk şarkıları hatırlaması kolay basit kafiyelerle doludur.
+mispronounce | yanlış telaffuz etmek | fiil | Diego was embarrassed when he mispronounced his host's name. | Diego ev sahibinin adını yanlış telaffuz edince utandı.
+## Yazım ve noktalama
+spelling | yazım, imla | isim | British and American spelling differ in words like "colour" and "color". | İngiliz ve Amerikan yazımı "colour" ve "color" gibi kelimelerde farklılık gösterir.
+punctuation | noktalama | isim | Good punctuation makes a long text much easier to read. | İyi noktalama uzun bir metni okumayı çok daha kolay hâle getirir.
+comma | virgül | isim | Put a comma before "but" when it joins two full sentences. | "But" iki tam cümleyi bağladığında ondan önce virgül koy.
+full stop | nokta | isim | Every sentence should end with a full stop, a question mark or an exclamation mark. | Her cümle nokta, soru işareti ya da ünlem işaretiyle bitmelidir.
+apostrophe | kesme işareti | isim | The apostrophe in "it's" shows that a letter is missing. | "It's" kelimesindeki kesme işareti bir harfin eksik olduğunu gösterir.
+hyphen | kısa çizgi, tire | isim | Use a hyphen in compound adjectives like "well-known". | "Well-known" gibi birleşik sıfatlarda kısa çizgi kullan.
+quotation marks | tırnak işareti | isim (çoğul) | Put the speaker's exact words inside quotation marks. | Konuşmacının tam sözlerini tırnak işaretleri içine koy.
+capital letter | büyük harf | isim | In English, the names of days and months begin with a capital letter. | İngilizcede gün ve ay adları büyük harfle başlar.
+abbreviation | kısaltma | isim | "Dr" is a common abbreviation for "doctor". | "Dr", "doctor" kelimesinin yaygın bir kısaltmasıdır.
+handwriting | el yazısı | isim | Her handwriting is so neat that it looks printed. | El yazısı o kadar düzgün ki basılmış gibi görünüyor.
+## Kelime bilgisi ve anlam
+vocabulary | kelime hazinesi | isim | Reading novels is a great way to expand your vocabulary. | Roman okumak kelime hazineni genişletmenin harika bir yoludur.
+synonym | eş anlamlı kelime | isim | "Big" and "large" are synonyms, but they are not always interchangeable. | "Big" ve "large" eş anlamlıdır ama her zaman birbirinin yerine kullanılamaz.
+antonym | zıt anlamlı kelime | isim | Can you think of an antonym for "generous"? | "Generous" kelimesinin zıt anlamlısını bulabilir misin?
+idiom | deyim | isim | The idiom "break the ice" means to make people feel more relaxed. | "Break the ice" deyimi insanları daha rahat hissettirmek anlamına gelir.
+collocation | eşdizim, birlikte kullanılan kelimeler | isim | "Make a decision" is a common collocation in English. | "Make a decision" İngilizcede yaygın bir eşdizimdir.
+literal | gerçek, düz (anlam) | sıfat | The literal meaning of the phrase is very different from its real use. | İfadenin düz anlamı gerçek kullanımından çok farklıdır.
+figurative | mecazi | sıfat | When he said he was drowning in work, he was speaking in a figurative sense. | İşte boğulduğunu söylediğinde mecazi anlamda konuşuyordu.
+ambiguous | belirsiz, iki anlamlı | sıfat | The instructions were ambiguous, so everyone did something different. | Talimatlar belirsizdi, bu yüzden herkes farklı bir şey yaptı.
+connotation | yan anlam, çağrışım | isim | The word "cheap" can have a negative connotation. | "Cheap" kelimesinin olumsuz bir yan anlamı olabilir.
+definition | tanım | isim | Look up the definition of the word in a good dictionary. | Kelimenin tanımına iyi bir sözlükten bak.
+## Çeviri
+translation | çeviri | isim | The translation of the poem lost some of its original music. | Şiirin çevirisi orijinal ahenginin bir kısmını yitirdi.
+mistranslation | hatalı çeviri | isim | A single mistranslation in the contract caused months of problems. | Sözleşmedeki tek bir hatalı çeviri aylarca soruna yol açtı.
+interpreter | tercüman (sözlü) | isim | An interpreter helped the two delegations understand each other. | Bir tercüman iki heyetin birbirini anlamasına yardım etti.
+interpret | sözlü tercüme etmek; yorumlamak | fiil | Omar interpreted for his grandmother at the hospital. | Omar hastanede büyükannesi için tercümanlık yaptı.
+transcribe | yazıya dökmek | fiil | The students transcribed the interview word for word. | Öğrenciler röportajı kelimesi kelimesine yazıya döktü.
+dub | dublaj yapmak | fiil | In some countries, foreign cartoons are always dubbed for children. | Bazı ülkelerde yabancı çizgi filmler çocuklar için her zaman dublajlanır.
+idiomatic | deyimsel, dile doğal gelen | sıfat | A good translation should sound idiomatic, not word for word. | İyi bir çeviri kelimesi kelimesine değil, doğal gelmelidir.
+untranslatable | çevrilemez | sıfat | Every language has a few words that seem untranslatable. | Her dilde çevrilemez görünen birkaç kelime vardır.
+rephrase | başka şekilde ifade etmek | fiil | Could you rephrase the question? I didn't quite understand it. | Soruyu başka bir şekilde ifade edebilir misin? Tam anlamadım.
+bilingual | iki dilli | sıfat | Sofia grew up bilingual, speaking Spanish at home and English at school. | Sofia evde İspanyolca, okulda İngilizce konuşarak iki dilli büyüdü.
+## Dil öğrenme
+fluent | akıcı | sıfat | After two years in London, Lukas became fluent in English. | Londra'da iki yıl geçirdikten sonra Lukas İngilizcede akıcı hâle geldi.
+fluency | akıcılık | isim | Speaking every day is the fastest way to build fluency. | Her gün konuşmak akıcılık kazanmanın en hızlı yoludur.
+proficiency | yeterlilik, ustalık | isim | You need a certificate of proficiency to study at that university. | O üniversitede okumak için dil yeterlilik belgesine ihtiyacın var.
+native speaker | anadili konuşan kişi | isim | Practising with a native speaker helped Ali lose his fear of speaking. | Anadili İngilizce olan biriyle pratik yapmak Ali'nin konuşma korkusunu yenmesine yardım etti.
+mother tongue | ana dil | isim | Camille's mother tongue is French, but she dreams in English now. | Camille'in ana dili Fransızca ama artık İngilizce rüya görüyor.
+immersion | dile tamamen maruz kalma | isim | A summer of immersion in Ireland improved her English enormously. | İrlanda'da dile tamamen maruz kaldığı bir yaz İngilizcesini muazzam ölçüde geliştirdi.
+mnemonic | hafıza tekniği | isim | A funny mnemonic helped Ali remember the order of the planets. | Komik bir hafıza tekniği Ali'nin gezegenlerin sırasını hatırlamasına yardım etti.
+flashcard | kelime kartı | isim | Anna goes through her flashcards on the bus every morning. | Anna her sabah otobüste kelime kartlarının üzerinden geçiyor.
+self-taught | kendi kendine öğrenmiş | sıfat | Diego is a self-taught learner who studies with apps and podcasts. | Diego uygulamalar ve podcast'lerle çalışan, kendi kendine öğrenen biridir.
+rusty | paslanmış, unutulmaya yüz tutmuş | sıfat | My German is a bit rusty because I haven't used it for years. | Almancam biraz paslandı çünkü yıllardır kullanmadım.
+## Diller ve lehçeler
+dialect | lehçe, ağız | isim | The village has its own dialect that outsiders find hard to follow. | Köyün dışarıdan gelenlerin anlamakta zorlandığı kendine özgü bir ağzı var.
+slang | argo | isim | Teenagers invent new slang faster than dictionaries can record it. | Gençler yeni argoyu sözlüklerin kaydedebileceğinden daha hızlı icat ediyor.
+jargon | jargon, meslek dili | isim | The doctor avoided medical jargon so that we could understand her. | Doktor onu anlayabilelim diye tıbbi jargondan kaçındı.
+etymology | etimoloji, köken bilgisi | isim | Yuki loves reading about the etymology of everyday words. | Yuki gündelik kelimelerin kökeni hakkında okumayı çok sever.
+linguist | dilbilimci | isim | The linguist recorded the stories of the last speakers of the language. | Dilbilimci o dilin son konuşurlarının hikâyelerini kaydetti.
+loanword | alıntı kelime | isim | "Yoghurt" is a loanword that came into English from Turkish. | "Yoghurt", İngilizceye Türkçeden geçmiş bir alıntı kelimedir.
+creole | kreol dil | isim | A creole often develops when speakers of different languages live together for generations. | Kreol dil genellikle farklı dilleri konuşanlar nesiller boyu birlikte yaşadığında gelişir.
+vernacular | halk dili, yerel dil | isim | The poet chose to write in the vernacular rather than in Latin. | Şair Latince yerine halk dilinde yazmayı seçti.
+lingua franca | ortak dil | isim | English has become the lingua franca of international science. | İngilizce uluslararası bilimin ortak dili hâline geldi.
+regional | bölgesel | sıfat | Regional differences in vocabulary can confuse visitors to Britain. | Kelime dağarcığındaki bölgesel farklar Britanya'ya gelen ziyaretçilerin kafasını karıştırabilir.
+## İletişim ve üslup
+formal | resmî | sıfat | Use formal language when you write to the university. | Üniversiteye yazarken resmî bir dil kullan.
+informal | gayriresmî, samimi | sıfat | Text messages between friends are usually informal and short. | Arkadaşlar arasındaki mesajlar genellikle samimi ve kısadır.
+colloquial | konuşma diline ait, gündelik | sıfat | "Gonna" is colloquial and shouldn't appear in an academic essay. | "Gonna" konuşma diline aittir ve akademik bir denemede yer almamalıdır.
+tone | ton, üslup | isim | I didn't like the tone of his email; it sounded rather rude. | E-postasının üslubunu beğenmedim; oldukça kaba geliyordu.
+slip of the tongue | dil sürçmesi | deyim | Calling my teacher "Mum" was just a slip of the tongue. | Öğretmenime "anne" demem sadece bir dil sürçmesiydi.
+verbose | lafı uzatan, gereksiz uzun | sıfat | His report was so verbose that nobody read it to the end. | Raporu o kadar laf kalabalığıydı ki kimse sonuna kadar okumadı.
+euphemism | örtmece, hüsnütabir | isim | "Passed away" is a gentle euphemism for "died". | "Passed away", "öldü" yerine kullanılan nazik bir örtmecedir.
+convey | iletmek, aktarmak | fiil | Body language can convey more than words. | Beden dili kelimelerden daha fazlasını iletebilir.
+language barrier | dil engeli | isim | Thanks to a few basic phrases, the language barrier was not a big problem. | Birkaç temel ifade sayesinde dil engeli büyük bir sorun olmadı.
+sign language | işaret dili | isim | Maria learned sign language to talk with her deaf cousin. | Maria işitme engelli kuzeniyle konuşmak için işaret dili öğrendi.
+## Okuma ve yazma becerileri
+misspell (misspelt, misspelt) | yanlış yazmak (imla) | fiil · düzensiz | Many people misspell "necessary" because of its double "s". | Birçok kişi çift "s" yüzünden "necessary" kelimesini yanlış yazar.
+typo | yazım hatası | isim | There was a small typo in the title of her presentation. | Sunumunun başlığında küçük bir yazım hatası vardı.
+gist | ana fikir, öz | isim | You don't need every word; just get the gist of the article. | Her kelimeye ihtiyacın yok; sadece makalenin ana fikrini anla.
+annotate | not düşmek, açıklama eklemek | fiil | Camille annotates every book she reads with a pencil. | Camille okuduğu her kitaba kurşun kalemle notlar düşer.
+paragraph | paragraf | isim | Each paragraph should develop one main idea. | Her paragraf tek bir ana fikri geliştirmelidir.
+redraft | yeniden yazmak | fiil | Emre redrafted his essay three times before he was happy with it. | Emre denemesinden memnun kalana kadar onu üç kez yeniden yazdı.
+proofread | son okuma yapmak, düzelti yapmak | fiil | Always proofread your CV before you send it. | Özgeçmişini göndermeden önce mutlaka son okumasını yap.
+jot down | not almak, karalamak | phrasal verb | Jot down any new words you hear during the lesson. | Ders sırasında duyduğun yeni kelimeleri not al.
+succinct | özlü, kısa ve net | sıfat | Keep your answers succinct; the examiners have little time. | Cevaplarını kısa ve net tut; sınav görevlilerinin az zamanı var.
+legible | okunaklı | sıfat | Please write in legible handwriting on the exam paper. | Lütfen sınav kâğıdına okunaklı bir el yazısıyla yazın.

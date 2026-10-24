@@ -1,0 +1,111 @@
+# UNIT: Stadt und Verkehr | Orte, Wegbeschreibung, öffentliche Verkehrsmittel, Reisen, Natur
+## In der Stadt
+city | Großstadt, Stadt | London ist eine große Stadt.
+town | Kleinstadt | Ich wohne in einer kleinen Stadt.
+village | Dorf | Meine Großeltern wohnen in einem Dorf.
+street | Straße (in der Stadt) | Wie heißt diese Straße?
+road | Landstraße, Weg | Diese Straße führt zum Meer.
+square | Platz | Das Café ist am Hauptplatz.
+park | Park | Lass uns im Park spazieren gehen.
+bridge | Brücke | Geh über die Brücke und dann links.
+centre | Zentrum, Mitte | Das Hotel ist im Stadtzentrum.
+building | Gebäude | Das Gebäude dort ist sehr alt.
+## Wichtige Orte
+bank | Bank | Die Bank schließt um fünf.
+post office | Post, Postamt | Wo ist die Post?
+hospital | Krankenhaus | Meine Mutter arbeitet im Krankenhaus.
+school | Schule | Die Schule ist in der Nähe meines Hauses.
+library | Bibliothek | Ich lerne in der Bibliothek.
+museum | Museum | Das Museum ist heute kostenlos.
+church | Kirche | Hier gibt es eine alte Kirche.
+mosque | Moschee | Die Moschee ist neben dem Markt.
+railway station | Bahnhof | Am Bahnhof ist viel los.
+hotel | Hotel | Unser Hotel hat eine schöne Aussicht.
+## Noch mehr Orte
+cinema | Kino | Lass uns heute Abend ins Kino gehen.
+theatre | Theater | Das Theater ist in der Altstadt.
+airport | Flughafen | Der Flughafen ist weit von hier.
+bus stop | Bushaltestelle | Ich warte an der Bushaltestelle.
+palace | Palast, Schloss | Der Palast ist für Touristen geöffnet.
+sports centre | Sportzentrum | Ich schwimme im Sportzentrum.
+zoo | Zoo | Die Kinder wollen in den Zoo.
+mall | Einkaufszentrum | Das neue Einkaufszentrum ist riesig.
+swimming pool | Schwimmbad | Das Hotel hat ein Schwimmbad.
+fountain | Brunnen, Springbrunnen | Treffen wir uns am Brunnen.
+## Den Weg beschreiben
+left | links; nach links | Bieg an der Bank links ab.
+on the right | rechts, auf der rechten Seite | Das Museum ist auf der rechten Seite.
+straight on | geradeaus | Geh fünf Minuten geradeaus.
+turn | abbiegen | Bieg nach der Brücke rechts ab.
+cross | überqueren | Überquer die Straße vorsichtig.
+map | Karte, Stadtplan | Kannst du es mir auf der Karte zeigen?
+north | Norden | Manchester liegt im Norden Englands.
+south | Süden | Wir fahren jeden Sommer in den Süden.
+east | Osten | Die Sonne geht im Osten auf.
+west | Westen | Das Dorf liegt westlich der Stadt.
+## Wo?
+far | weit, weit entfernt | Ist der Bahnhof weit?
+opposite | gegenüber | Die Bank ist gegenüber der Schule.
+outside | draußen; außerhalb | Ich warte draußen.
+inside | drinnen; innerhalb | Lass uns reingehen, es ist kalt.
+across | über, hinüber (auf die andere Seite) | Geh über den Platz.
+along | entlang | Geh diese Straße entlang.
+at the end of | am Ende von | Es ist am Ende der Straße.
+get to (got, got) | hinkommen, gelangen | Wie komme ich zum Museum?
+how far | wie weit | Wie weit ist es zum Flughafen?
+route | Route, Strecke | Diese Buslinie ist sehr lang.
+## Öffentliche Verkehrsmittel
+bus | Bus | Ich fahre mit dem Bus zur Arbeit.
+tram | Straßenbahn | Die Straßenbahn ist langsam, aber billig.
+metro | U-Bahn, Metro | Nimm die U-Bahn ins Zentrum.
+minibus | Kleinbus, Minibus | Der Kleinbus hält hier.
+taxi | Taxi | Lass uns ein Taxi nach Hause nehmen.
+plane | Flugzeug | Das Flugzeug landet um zwölf Uhr mittags.
+boat | Boot | Wir fahren mit dem Boot über den See.
+ship | Schiff | Das Schiff legt um sechs ab.
+ticket | Fahrkarte, Ticket | Zwei Fahrkarten nach Oxford, bitte.
+passenger | Fahrgast, Passagier | Im Bus sind zehn Fahrgäste.
+## Unterwegs
+car | Auto | Ihr Auto ist neu.
+bike | Fahrrad | Yuki fährt mit dem Fahrrad zur Schule.
+motorbike | Motorrad | Sein Motorrad ist sehr laut.
+on foot | zu Fuß | Ich gehe zu Fuß zur Schule.
+drive (drove, driven) | Auto fahren, lenken | Kannst du Auto fahren?
+ride (rode, ridden) | Rad fahren, reiten | Kinder fahren im Park Fahrrad.
+traffic | Verkehr | Der Verkehr ist heute furchtbar.
+traffic lights | Ampel | Halte an der Ampel.
+fast | schnell | Dieser Zug ist sehr schnell.
+slow | langsam | Der alte Bus ist langsam.
+## Reisen
+travel | reisen | Ich reise sehr gern.
+trip | Ausflug, Reise | Gute Reise!
+holiday | Urlaub, Ferien | Wir brauchen Urlaub.
+suitcase | Koffer | Mein Koffer ist sehr schwer.
+tour | Rundfahrt, Tour | Wir machen eine Busrundfahrt durch London.
+arrive | ankommen | Der Bus kommt um zehn an.
+stay | bleiben, übernachten | Wir übernachten in einem kleinen Hotel.
+harbour | Hafen | Die Boote liegen im Hafen.
+photo | Foto | Kannst du ein Foto von uns machen?
+postcard | Postkarte | Schick mir eine Postkarte!
+## Natur
+nature | Natur | Ich gehe gern in der Natur spazieren.
+lake | See | Der See ist sehr kalt.
+forest | Wald | Im Wald gibt es Wölfe.
+beach | Strand | Im August fahren wir an den Strand.
+sand | Sand | Der Sand ist heute heiß.
+rock | Fels, Felsen | Setz dich auf den großen Felsen dort.
+animal | Tier | Was ist dein Lieblingstier?
+wave | Welle | Die Wellen sind heute hoch.
+ice | Eis (gefrorenes Wasser) | Der See ist mit Eis bedeckt.
+world | Welt | Ich will die Welt sehen.
+## Das Wetter
+weather | Wetter | Wie ist das Wetter heute?
+rain | Regen; regnen | Ich liebe das Geräusch von Regen.
+snow | Schnee; schneien | Auf den Straßen liegt Schnee.
+wind | Wind | Der Wind ist sehr stark.
+sunny | sonnig | Es ist sonnig und warm.
+rainy | regnerisch | In London ist es oft regnerisch.
+windy | windig | Am Meer ist es windig.
+warm | warm | Nimm eine warme Jacke mit.
+cool | kühl | Im Herbst sind die Abende kühl.
+storm | Sturm, Unwetter | Heute Nacht kommt ein großer Sturm.

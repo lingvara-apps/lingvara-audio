@@ -1,0 +1,111 @@
+# UNIT: Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+## Kurumsal yapı
+subsidiary | yan kuruluş; bağlı şirket | isim | The firm sold its Brazilian subsidiary to a local competitor. | Şirket Brezilya'daki yan kuruluşunu yerel bir rakibe sattı.
+parent company | ana şirket | isim | All major decisions still have to be approved by the parent company. | Bütün önemli kararların hâlâ ana şirket tarafından onaylanması gerekiyor.
+conglomerate | şirketler topluluğu; konglomera | isim | The conglomerate owns hotels, shipping lines and a chain of bakeries. | Şirketler topluluğunun otelleri, denizcilik hatları ve bir fırın zinciri var.
+holding company | holding şirketi | isim | The holding company owns shares in more than twenty smaller firms. | Holding şirketi yirmiden fazla küçük firmada hisseye sahip.
+division | bölüm; birim | isim | Sofia runs the European division of a large logistics group. | Sofia büyük bir lojistik grubunun Avrupa bölümünü yönetiyor.
+joint venture | ortak girişim | isim | The two companies formed a joint venture to build wind farms. | İki şirket rüzgâr çiftlikleri kurmak için ortak girişim oluşturdu.
+consortium (consortia) | konsorsiyum | isim | A consortium of five banks agreed to finance the new bridge. | Beş bankadan oluşan bir konsorsiyum yeni köprüyü finanse etmeyi kabul etti.
+affiliate | iştirak; bağlı kuruluş | isim | The company opened an affiliate in Lisbon to serve southern Europe. | Şirket Güney Avrupa'ya hizmet vermek için Lizbon'da bir iştirak açtı.
+spin-off | ayrılan şirket; yan ürün | isim | The research unit became a successful spin-off within three years. | Araştırma birimi üç yıl içinde ayrı ve başarılı bir şirkete dönüştü.
+sole trader | şahıs işletmesi | isim | As a sole trader, Emre is personally responsible for all his business debts. | Şahıs işletmesi sahibi olarak Emre bütün iş borçlarından kişisel olarak sorumlu.
+## Yönetişim
+board of directors | yönetim kurulu | isim | The board of directors meets four times a year. | Yönetim kurulu yılda dört kez toplanır.
+chairperson | yönetim kurulu başkanı | isim | The chairperson opened the annual meeting with a short speech. | Yönetim kurulu başkanı yıllık toplantıyı kısa bir konuşmayla açtı.
+chief executive | genel müdür; CEO | isim | The new chief executive promised to cut costs without closing any branches. | Yeni genel müdür hiçbir şubeyi kapatmadan maliyetleri düşürme sözü verdi.
+non-executive director | bağımsız yönetim kurulu üyesi | isim | She sits on two boards as a non-executive director. | İki yönetim kurulunda bağımsız üye olarak görev yapıyor.
+governance | yönetişim | isim | Investors demanded better governance after the accounting scandal. | Yatırımcılar muhasebe skandalından sonra daha iyi yönetişim talep etti.
+fiduciary duty | güven yükümlülüğü; özen borcu | isim | Directors have a fiduciary duty to act in the best interests of the company. | Yöneticilerin şirketin çıkarına en uygun şekilde davranma yükümlülüğü vardır.
+oversight | denetim; gözetim | isim | The scandal revealed a serious lack of oversight in the finance department. | Skandal finans bölümünde ciddi bir denetim eksikliğini ortaya çıkardı.
+compliance | mevzuata uyum | isim | Our compliance team checks every new product against the regulations. | Uyum ekibimiz her yeni ürünü yönetmeliklere göre kontrol eder.
+audit committee | denetim komitesi | isim | The audit committee raised concerns about the way expenses were reported. | Denetim komitesi harcamaların raporlanma biçimiyle ilgili endişelerini dile getirdi.
+whistle-blower | ihbarcı (usulsüzlük) | isim | A whistle-blower revealed that safety tests had been skipped. | Bir ihbarcı güvenlik testlerinin atlandığını ortaya çıkardı.
+## Strateji
+consolidate | birleştirmek; pekiştirmek | fiil | The firm plans to consolidate its three regional offices into one. | Firma üç bölge ofisini tek bir ofiste birleştirmeyi planlıyor.
+divest | elden çıkarmak (yatırım, birim) | fiil | The group decided to divest its loss-making retail division. | Grup zarar eden perakende birimini elden çıkarmaya karar verdi.
+restructure | yeniden yapılandırmak | fiil | The airline had to restructure its debt to avoid bankruptcy. | Havayolu iflastan kaçınmak için borcunu yeniden yapılandırmak zorunda kaldı.
+downsize | küçülmek; kadro azaltmak | fiil | When orders fell, the factory was forced to downsize. | Siparişler düşünce fabrika küçülmek zorunda kaldı.
+offshore | (üretimi) yurt dışına taşımak | fiil | Many manufacturers chose to offshore production to cut labour costs. | Birçok üretici işçilik maliyetlerini düşürmek için üretimi yurt dışına taşımayı seçti.
+rebrand | yeniden markalaşmak | fiil | After the scandal, the airline decided to rebrand with a new name and logo. | Skandalın ardından havayolu yeni bir ad ve logoyla yeniden markalaşmaya karar verdi.
+competitive edge | rekabet üstünlüğü | isim | Fast delivery gives the start-up a clear competitive edge over its rivals. | Hızlı teslimat girişime rakiplerine karşı belirgin bir rekabet üstünlüğü sağlıyor.
+economies of scale | ölçek ekonomisi | isim | Larger factories benefit from economies of scale and lower unit costs. | Büyük fabrikalar ölçek ekonomisinden ve daha düşük birim maliyetlerden yararlanır.
+core business | ana faaliyet alanı | isim | After years of expansion, they decided to focus on their core business. | Yıllarca büyüdükten sonra ana faaliyet alanlarına odaklanmaya karar verdiler.
+roadmap | yol haritası | isim | The management presented a five-year roadmap for digital growth. | Yönetim dijital büyüme için beş yıllık bir yol haritası sundu.
+## Finansal tablolar
+balance sheet | bilanço | isim | The balance sheet shows that the company has very little debt. | Bilanço şirketin çok az borcu olduğunu gösteriyor.
+income statement | gelir tablosu | isim | Analysts went through the income statement line by line. | Analistler gelir tablosunu satır satır incelediler.
+cash flow | nakit akışı | isim | Despite high sales, the shop had serious cash flow problems. | Yüksek satışlara rağmen dükkânın ciddi nakit akışı sorunları vardı.
+turnover | ciro | isim | The bakery's annual turnover has doubled in five years. | Fırının yıllık cirosu beş yılda iki katına çıktı.
+gross margin | brüt kâr marjı | isim | Rising energy prices have squeezed our gross margin. | Artan enerji fiyatları brüt kâr marjımızı daralttı.
+net profit | net kâr | isim | Net profit fell by twelve percent compared to last year. | Net kâr geçen yıla göre yüzde on iki düştü.
+fiscal year | mali yıl | isim | The company's fiscal year ends on the thirty-first of March. | Şirketin mali yılı 31 Mart'ta sona eriyor.
+quarterly | üç aylık | sıfat | The quarterly results were better than most analysts expected. | Üç aylık sonuçlar analistlerin çoğunun beklediğinden iyiydi.
+annual report | faaliyet raporu | isim | The annual report includes a section on environmental impact. | Faaliyet raporunda çevresel etkiyle ilgili bir bölüm var.
+outlook | görünüm; beklenti | isim | The board described the financial outlook for next year as cautiously positive. | Yönetim kurulu gelecek yılın mali görünümünü temkinli biçimde olumlu olarak nitelendirdi.
+## Muhasebe
+asset | varlık | isim | The building is the company's most valuable asset. | Bina şirketin en değerli varlığı.
+liability | yükümlülük; borç | isim | Unpaid salaries appear as a liability on the balance sheet. | Ödenmemiş maaşlar bilançoda yükümlülük olarak görünür.
+depreciation | amortisman | isim | The cost of the machines is spread over ten years through depreciation. | Makinelerin maliyeti amortismanla on yıla yayılıyor.
+write off | zarar yazmak; silmek | phrasal verb | The bank had to write off millions in unpaid loans. | Banka ödenmemiş kredilerden milyonlarca tutarı zarar olarak silmek zorunda kaldı.
+overheads | genel giderler | isim (çoğul) | Moving to a smaller office will reduce our overheads. | Daha küçük bir ofise taşınmak genel giderlerimizi azaltacak.
+accrual | tahakkuk | isim | Accountants record an accrual for expenses that have not yet been paid. | Muhasebeciler henüz ödenmemiş giderler için tahakkuk kaydı yapar.
+ledger | büyük defter; muhasebe defteri | isim | Every transaction is recorded in the general ledger. | Her işlem büyük deftere kaydedilir.
+accounts receivable | alacak hesapları | isim | Our accounts receivable have grown because several clients are paying late. | Birkaç müşteri geç ödediği için alacak hesaplarımız arttı.
+discrepancy | tutarsızlık | isim | The auditors found a small discrepancy between the two sets of figures. | Denetçiler iki rakam grubu arasında küçük bir tutarsızlık buldu.
+audit | denetim | isim | An external audit is carried out at the end of every financial year. | Her mali yılın sonunda bağımsız bir denetim yapılır.
+## Yatırım ve sermaye
+equity | özsermaye; hisse | isim | The founders still hold most of the equity in the company. | Kurucular şirketteki hisselerin çoğunu hâlâ elinde tutuyor.
+stock option | hisse senedi opsiyonu | isim | Senior staff receive stock options as part of their annual package. | Kıdemli çalışanlar yıllık paketlerinin bir parçası olarak hisse senedi opsiyonu alıyor.
+dividend | temettü; kâr payı | isim | The company has paid a dividend every year since 1990. | Şirket 1990'dan beri her yıl kâr payı dağıtıyor.
+private equity | özel sermaye | isim | A private equity firm bought the struggling hotel chain last spring. | Bir özel sermaye şirketi geçen bahar zor durumdaki otel zincirini satın aldı.
+flotation | halka arz | isim | The flotation of the company raised more money than expected. | Şirketin halka arzı beklenenden fazla para topladı.
+share price | hisse fiyatı | isim | The share price fell sharply after the disappointing results were announced. | Hayal kırıklığı yaratan sonuçlar açıklandıktan sonra hisse fiyatı sert düştü.
+return on investment | yatırım getirisi | isim | The board expects a return on investment within three years. | Yönetim kurulu üç yıl içinde yatırım getirisi bekliyor.
+portfolio | portföy | isim | Maria keeps a balanced portfolio of shares and bonds. | Maria dengeli bir hisse ve tahvil portföyü tutuyor.
+liquidity | likidite; nakde çevrilebilirlik | isim | The bank needed emergency support to restore liquidity. | Bankanın likiditeyi yeniden sağlamak için acil desteğe ihtiyacı vardı.
+insolvent | ödeme aczinde; borçlarını ödeyemez durumda | sıfat | By the end of the year the company was effectively insolvent. | Yıl sonunda şirket fiilen ödeme aczine düşmüştü.
+## Sözleşmeler
+addendum (addenda) | ek protokol; zeyilname | isim | Both parties signed an addendum extending the delivery deadline. | Her iki taraf teslim süresini uzatan bir ek protokol imzaladı.
+terms and conditions | şartlar ve koşullar | ifade | Please read the terms and conditions carefully before signing. | Lütfen imzalamadan önce şartları ve koşulları dikkatle okuyun.
+binding | bağlayıcı | sıfat | Once both parties sign, the agreement becomes legally binding. | İki taraf da imzaladığında anlaşma hukuken bağlayıcı hâle gelir.
+breach | ihlal | isim | Delivering the goods late was a clear breach of contract. | Malları geç teslim etmek açık bir sözleşme ihlaliydi.
+termination | fesih; sona erdirme | isim | The termination of the agreement takes effect after thirty days. | Anlaşmanın feshi otuz gün sonra yürürlüğe girer.
+indemnity | tazminat güvencesi | isim | The supplier provides an indemnity against any damage caused by its products. | Tedarikçi ürünlerinin yol açtığı her türlü zarara karşı tazminat güvencesi veriyor.
+non-disclosure agreement | gizlilik sözleşmesi | isim | All new employees must sign a non-disclosure agreement. | Bütün yeni çalışanlar bir gizlilik sözleşmesi imzalamalı.
+renewal | yenileme | isim | The lease comes up for renewal next spring. | Kira sözleşmesinin yenileme zamanı gelecek bahar.
+penalty clause | cezai şart | isim | A penalty clause charges the builder for every day of delay. | Cezai şarta göre müteahhit her gecikme günü için ceza ödüyor.
+force majeure | mücbir sebep | isim | The flood was treated as force majeure, so nobody had to pay compensation. | Sel mücbir sebep sayıldı, bu yüzden kimse tazminat ödemek zorunda kalmadı.
+## Müzakere ve anlaşma
+bargaining chip | pazarlık kozu | isim | The union used the threat of a strike as a bargaining chip. | Sendika grev tehdidini bir pazarlık kozu olarak kullandı.
+sticking point | anlaşmazlık noktası | isim | The length of the contract remained the main sticking point in the talks. | Sözleşmenin süresi görüşmelerdeki başlıca anlaşmazlık noktası olarak kaldı.
+opening bid | ilk teklif | isim | Their opening bid was far lower than we had anticipated. | İlk teklifleri beklediğimizden çok daha düşüktü.
+standoff | kilitlenme; karşılıklı direnme | isim | After a week-long standoff, both sides finally returned to the table. | Bir hafta süren kilitlenmenin ardından iki taraf nihayet masaya döndü.
+red line | kırmızı çizgi | deyim | Job security for existing staff is a red line for the union. | Mevcut çalışanların iş güvencesi sendika için kırmızı çizgi.
+split the difference | farkı ortadan bölmek; orta yolda buluşmak | deyim | They asked for ten percent, we offered six, so we agreed to split the difference. | Onlar yüzde on istedi, biz altı önerdik, sonunda farkı ortadan bölmeye karar verdik.
+memorandum of understanding | mutabakat zaptı | isim | The two universities signed a memorandum of understanding on student exchange. | İki üniversite öğrenci değişimi konusunda bir mutabakat zaptı imzaladı.
+due diligence | detaylı inceleme; durum tespiti | isim | Before the purchase, lawyers carried out extensive due diligence. | Satın almadan önce avukatlar kapsamlı bir durum tespiti yaptı.
+initial | parafe etmek | fiil | Please initial each page of the agreement before signing the last one. | Lütfen son sayfayı imzalamadan önce sözleşmenin her sayfasını parafe edin.
+stipulate | şart koşmak | fiil | The contract stipulates that payment must be made within thirty days. | Sözleşme ödemenin otuz gün içinde yapılmasını şart koşuyor.
+## İnsan kaynakları
+recruitment | işe alım | isim | The recruitment process includes two interviews and a written test. | İşe alım süreci iki mülakat ve bir yazılı sınav içeriyor.
+talent pool | yetenek havuzu | isim | The company opened an office in Krakow to tap into a wider talent pool. | Şirket daha geniş bir yetenek havuzuna ulaşmak için Krakov'da bir ofis açtı.
+succession planning | halef planlaması | isim | Good succession planning ensures that key roles never stay empty for long. | İyi bir halef planlaması kilit görevlerin uzun süre boş kalmamasını sağlar.
+exit interview | ayrılış görüşmesi | isim | During her exit interview, Sofia mentioned the lack of flexible hours. | Sofia ayrılış görüşmesinde esnek çalışma saatlerinin eksikliğinden bahsetti.
+remuneration | ücret; maaş ve ödenekler | isim | The report criticised the high remuneration of senior managers. | Rapor üst düzey yöneticilerin yüksek ücretlerini eleştirdi.
+fringe benefits | yan haklar | isim (çoğul) | Fringe benefits include private health insurance and a company car. | Yan haklar arasında özel sağlık sigortası ve şirket aracı var.
+severance pay | kıdem tazminatı | isim | Employees who lose their jobs will receive six months of severance pay. | İşini kaybeden çalışanlar altı aylık kıdem tazminatı alacak.
+attrition | personel kaybı | isim | High attrition among young staff is costing the company a lot of money. | Genç çalışanlar arasındaki yüksek personel kaybı şirkete çok pahalıya mal oluyor.
+secondment | geçici görevlendirme | isim | He is on a six-month secondment to the Singapore office. | Singapur ofisinde altı aylık geçici görevlendirmede.
+probation period | deneme süresi | isim | New employees are on a three-month probation period. | Yeni çalışanlar üç aylık deneme süresinde.
+## Kurumsal kalıplar
+going forward | bundan sonra | ifade | Going forward, all reports must be submitted by Friday. | Bundan sonra bütün raporlar cuma gününe kadar teslim edilmeli.
+flag up | (sorunu) dikkate sunmak; belirtmek | phrasal verb | Please flag up any delays in the schedule as soon as you notice them. | Takvimdeki gecikmeleri fark eder etmez lütfen bildirin.
+action item | yapılacak iş | isim | Each action item from the meeting now has a clear owner. | Toplantıda belirlenen her işin artık belli bir sorumlusu var.
+on the agenda | gündemde | ifade | Salary reviews are not on the agenda for today's meeting. | Maaş değerlendirmeleri bugünkü toplantının gündeminde değil.
+as per | -e göre; uyarınca | edat | As per our agreement, the second payment is due in May. | Anlaşmamız uyarınca ikinci ödeme mayısta yapılacak.
+for your perusal | incelemeniz için | ifade | I have attached the draft budget for your perusal. | Taslak bütçeyi incelemeniz için ekledim.
+at your earliest convenience | en kısa zamanda; size uygun ilk fırsatta | ifade | Please return the signed copy at your earliest convenience. | Lütfen imzalı nüshayı size uygun ilk fırsatta geri gönderin.
+key performance indicator | temel performans göstergesi | isim | Customer satisfaction is our most important key performance indicator. | Müşteri memnuniyeti en önemli temel performans göstergemiz.
+best practice | en iyi uygulama | isim | The guide summarises best practice for handling customer complaints. | Rehber müşteri şikâyetlerini ele almadaki en iyi uygulamaları özetliyor.
+value proposition | değer önerisi | isim | Our value proposition is fast delivery at a fair price. | Değer önerimiz makul fiyata hızlı teslimat.

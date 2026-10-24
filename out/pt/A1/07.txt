@@ -1,0 +1,111 @@
+# UNIT: Compras e roupas | Dinheiro, cores, roupas, corpo, saúde
+## Na loja
+shop | loja, lojinha | A loja abre às nove.
+cashier | caixa (pessoa) | A moça do caixa é muito simpática.
+sell (sold, sold) | vender | Aqui eles vendem pão fresco.
+store | loja, estabelecimento comercial | A loja é muito grande.
+shopping | compras | Eu faço compras aos sábados.
+open | aberto; abrir | A loja está aberta hoje?
+closed | fechado | Desculpe, estamos fechados.
+sold out | esgotado | Desculpe, os vermelhos estão esgotados.
+show (showed, shown) | mostrar | Você pode me mostrar aquela bolsa?
+need | precisar | Eu preciso de sapatos novos.
+## Dinheiro e pagamento
+money | dinheiro | Eu não tenho muito dinheiro.
+price | preço | Qual é o preço disto?
+pay (paid, paid) | pagar | Posso pagar com cartão?
+cost (cost, cost) | custar | Quanto custa?
+cash | dinheiro vivo, em espécie | Eu só tenho dinheiro vivo.
+card | cartão | Aqui está o meu cartão.
+cent | centavo | Custa noventa centavos.
+pound | libra (moeda; peso) | Custa cinco libras.
+dollar | dólar | Esta camisa custa vinte dólares.
+purse | porta-moedas, carteira (feminina) | A carteira dela está na bolsa.
+## Barato e caro
+cheap | barato | Estas meias são muito baratas.
+expensive | caro | Londres é cara.
+sale | liquidação; venda | Os sapatos estão em liquidação.
+free | grátis; livre | A água é grátis.
+too much | demais, muito | Isso é dinheiro demais.
+count | contar | Confira o seu troco, por favor.
+want | querer | Você quer este vestido?
+choose (chose, chosen) | escolher | Escolha uma cor, por favor.
+enough | suficiente; o bastante | Não tenho dinheiro suficiente.
+euro | euro | A bolsa custa cinquenta euros.
+## Cores e tons
+colour | cor | De que cor é o seu casaco?
+grey | cinza | Ele tem um terno cinza.
+gold | ouro; dourado | Ela usa um anel de ouro.
+silver | prata; prateado | Eu gosto deste relógio prateado.
+navy | azul-marinho | O uniforme da escola é azul-marinho.
+light blue | azul-claro | Eu quero a camisa azul-clara.
+dark green | verde-escuro | A bolsa dela é verde-escura.
+colourful | colorido | Diego gosta de meias coloridas.
+beige | bege | Eu tenho um casaco bege.
+turquoise | turquesa | Aqui o mar é turquesa.
+## Roupas
+clothes | roupas | Eu preciso de roupas novas.
+shirt | camisa | A camisa dele é branca.
+T-shirt | camiseta | Leve uma camiseta para a praia.
+trousers | calça | Esta calça está comprida demais.
+jeans | calça jeans | Eu uso jeans todos os dias.
+dress | vestido | Que vestido bonito!
+skirt | saia | Anna tem uma saia curta.
+jacket | jaqueta, paletó | Vista a jaqueta, está frio.
+coat | casaco, sobretudo | Meu casaco de inverno é quente.
+sweater | suéter, blusa de lã | No inverno eu uso suéter.
+## Sapatos e acessórios
+shoe | sapato | Cadê o meu outro sapato?
+sandal | sandália | No verão eu uso sandálias.
+sock | meia | Não consigo achar minhas meias.
+hat | chapéu | Coloque o chapéu.
+scarf (scarves) | cachecol; lenço | Este cachecol é muito macio.
+glove | luva | Yuki sempre esquece as luvas.
+belt | cinto | Este cinto é curto demais.
+watch | relógio de pulso | Meu relógio está atrasado.
+umbrella | guarda-chuva | Leve um guarda-chuva.
+wallet | carteira | Minha carteira está na bolsa.
+## Tamanho e vestir
+size | tamanho | Qual é o seu tamanho?
+large | grande (tamanho G) | Tem este no tamanho G?
+shorts | short, bermuda | Está quente, vista o short.
+underwear | roupa íntima | Leve roupa íntima limpa.
+wear (wore, worn) | vestir, usar | Ela sempre usa preto.
+glasses | óculos | Não consigo ler sem óculos.
+tie | gravata | Ele usa gravata no trabalho.
+pocket | bolso | Meu celular está no bolso.
+button | botão | Está faltando um botão.
+medium | médio (tamanho M) | Eu preciso de um M, por favor.
+## Corpo: cabeça e rosto
+body | corpo | Esporte faz bem para o corpo.
+head | cabeça | Vire a cabeça, por favor.
+face | rosto | Lave o rosto.
+hair | cabelo | Sofia tem cabelo comprido.
+eye | olho | Ele tem olhos azuis.
+ear | orelha, ouvido | Minha orelha está fria.
+nose | nariz | O bebê tem um nariz pequeno.
+mouth | boca | Abra a boca, por favor.
+tooth (teeth) | dente | O bebê tem dois dentes.
+neck | pescoço | Ela tem o pescoço comprido.
+## Corpo: braços e pernas
+arm | braço | Ela está segurando um gato nos braços.
+hand | mão | Lave as mãos antes do jantar.
+finger | dedo | Cortei o dedo.
+leg | perna | Minhas pernas estão cansadas.
+foot (feet) | pé | Meus pés estão frios.
+back | costas | Minhas costas doem.
+shoulder | ombro | Coloque a bolsa no ombro.
+knee | joelho | O joelho do Lukas está doendo.
+stomach | estômago; barriga | Estou de barriga cheia.
+heart | coração | Seu coração é forte.
+## Saúde
+health | saúde | A saúde é muito importante.
+healthy | saudável | Fruta é saudável.
+ill | doente | Emre está doente hoje.
+sore | dolorido, irritado | Meus olhos estão irritados.
+hurt (hurt, hurt) | doer; machucar | Está doendo?
+headache | dor de cabeça | Estou com dor de cabeça.
+sick | enjoado, passando mal | Estou enjoado hoje.
+chemist | farmácia; farmacêutico | A farmácia fica ao lado do banco.
+medicine | remédio | Tome este remédio duas vezes por dia.
+feel (felt, felt) | sentir(-se) | Agora eu me sinto melhor.

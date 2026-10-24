@@ -1,0 +1,111 @@
+# UNIT: Tanishuv va asosiy iboralar | Salomlashish, olmoshlar, soʻroq soʻzlar
+## Salomlashish
+hello | salom | Salom, mening ismim Anna.
+hi | salom (samimiy) | Salom, Emre! Qalaysan?
+good morning | xayrli tong | Xayrli tong, onajon!
+good afternoon | xayrli kun (tushdan keyin) | Xayrli kun, sizga yordam bera olamanmi?
+good evening | xayrli kech | Xayrli kech, marhamat, kiring.
+good night | xayrli tun | Xayrli tun, ertaga koʻrishamiz.
+goodbye | xayr, sogʻ boʻling | Xayr, rahmat!
+bye | koʻrishguncha (samimiy) | Koʻrishguncha! Keyinroq qoʻngʻiroq qil.
+see you later | keyinroq koʻrishamiz | Keyinroq koʻrishamiz, Ali!
+welcome | xush kelibsiz | Londonga xush kelibsiz!
+## Xushmuomalalik
+please | iltimos | Bitta choy, iltimos.
+thank you | rahmat | Yordamingiz uchun rahmat!
+you're welcome | arzimaydi | Arzimaydi, Omar!
+sorry | kechirasiz, uzr | Uzr, kechikdim.
+excuse me | kechirasiz (murojaat) | Kechirasiz, vokzal qayerda?
+yes | ha | Ha, tushunaman.
+no | yoʻq | Yoʻq, rahmat.
+okay | mayli, xoʻp | Xoʻp, ketdik!
+of course | albatta | Albatta, oʻtiring.
+no problem | muammo yoʻq | Muammo yoʻq, kuta olaman.
+## Tanishuv
+name | ism, nom | Ismingiz nima?
+surname | familiya | Mening familiyam Tanaka.
+my name is | mening ismim | Mening ismim Lukas.
+nice to meet you | tanishganimdan xursandman | Tanishganimdan xursandman, Mariya.
+how are you | qalaysan; qalaysiz | Bugun qalaysiz?
+fine | yaxshi | Yaxshiman, rahmat.
+not bad | yomon emas | Yomon emas, oʻzingiz-chi?
+and you | oʻzing-chi; oʻzingiz-chi | Yaxshiman. Oʻzing-chi?
+this is | bu ... (tanishtirganda) | Bu mening doʻstim Yuki.
+introduce | tanishtirmoq | Singlim bilan tanishtiray.
+## Kishilik olmoshlari
+I | men | Men talabaman.
+you | sen; siz | Siz juda mehribonsiz.
+he | u (erkak) | U Ispaniyadan.
+she | u (ayol) | U mening oʻqituvchim.
+it | u (jonsiz narsa, hayvon) | Bu katta uy.
+we | biz | Biz doʻstmiz.
+they | ular | Ular Parijda yashaydi.
+me | meni; menga | Menga yordam bera olasizmi?
+him | uni; unga (erkak) | Men uni taniyman.
+us | bizni; bizga | Biz bilan yur!
+## Obyekt va egalik olmoshlari
+them | ularni; ularga | Men ularni har kuni koʻraman.
+my | mening | Bu mening sumkam.
+your | sening; sizning | Bu sening telefoningmi?
+his | uning (erkak) | Uning ismi Omar.
+her | uning (ayol); uni (ayol) | Uning opasi shifokor.
+its | uning (narsa, hayvon) | It oʻz oʻyinchogʻini yaxshi koʻradi.
+our | bizning | Bizning uyimiz kichkina.
+their | ularning | Ularning mashinasi qizil.
+mine | meniki | Bu kofe meniki.
+yours | seniki; sizniki | Bu ruchka senikimi?
+## Soʻroq soʻzlar
+what | nima | Bu nima?
+who | kim | Anavi odam kim?
+where | qayerda; qayerga | Qayerda yashaysan?
+when | qachon | Dars qachon?
+why | nega, nima uchun | Nega xafasan?
+how | qanday | Bu qanday aytiladi?
+which | qaysi; qaysi biri | Qaysi sumka seniki?
+whose | kimning | Bu kimning kitobi?
+how much | qancha (sanalmaydigan) | Bu qancha turadi?
+how many | nechta | Nechta farzandingiz bor?
+## Mamlakatlar va tillar
+country | mamlakat, davlat | Qaysi davlatdansiz?
+nationality | millat, fuqarolik | Millatingiz nima?
+language | til | Men ikki tilda gaplashaman.
+Türkiye | Turkiya | Emre Turkiyada yashaydi.
+Turkish | turk; turk tili | Men turkman.
+England | Angliya | London Angliyada joylashgan.
+English | ingliz; ingliz tili | Inglizcha gaplashasizmi?
+the United States | Amerika Qoʻshma Shtatlari | Diego Amerika Qoʻshma Shtatlarida ishlaydi.
+American | amerikalik | Uning eri amerikalik.
+be from | -dan boʻlmoq, -lik boʻlmoq | Men Istanbuldanman.
+## Shaxsiy maʼlumotlar
+address | manzil | Manzilingiz qanday?
+phone number | telefon raqami | Telefon raqamingizni bera olasizmi?
+email | elektron pochta, email | Menga email yuboring.
+age | yosh | Ismingiz va yoshingizni yozing.
+years old | yoshda | Men yigirma yoshdaman.
+married | uylangan; turmushga chiqqan | Oilalimisiz?
+single | boʻydoq; turmush qurmagan | Yoʻq, oila qurmaganman.
+student | talaba, oʻquvchi | Sofiya talaba.
+hometown | tugʻilgan shahar, ona yurt | Mening tugʻilgan shahrim Izmir.
+form | anketa, blanka | Iltimos, ushbu anketani toʻldiring.
+## Sinfda
+understand (understood, understood) | tushunmoq | Men tushunmayapman.
+repeat | takrorlamoq | Iltimos, buni takrorlay olasizmi?
+speak (spoke, spoken) | gapirmoq, soʻzlamoq | Iltimos, sekin gapiring.
+slowly | sekin | U juda sekin gapiradi.
+again | yana, qayta | Iltimos, yana bir bor ayting.
+mean (meant, meant) | anglatmoq; nazarda tutmoq | Bu soʻz nimani anglatadi?
+word | soʻz | Men kuniga oʻnta soʻz oʻrganaman.
+question | savol | Savol bersam maylimi?
+answer | javob; javob bermoq | Men javobni bilaman!
+spell | harflab aytmoq | Ismingizni harflab ayta olasizmi?
+## Kichik, ammo muhim soʻzlar
+this | bu | Bu mening akam.
+that | u, anavi | Anavi sening mashinangmi?
+these | bular | Bular mening kalitlarim.
+those | ular, anavilar | Anavi tuflilar chiroyli.
+here | bu yerda; bu yerga | Iltimos, bu yerga kel.
+there | u yerda; u yerga | Mening maktabim u yerda.
+very | juda | Havo juda sovuq.
+maybe | balki | Balki ertaga kela olarman.
+too | ham; haddan tashqari | Men ham choyni yaxshi koʻraman.
+together | birga | Keling, birga ovqatlanamiz.

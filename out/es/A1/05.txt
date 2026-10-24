@@ -1,0 +1,111 @@
+# UNIT: Comida y bebida | Desayuno, supermercado, restaurante, sabores
+## El desayuno
+breakfast | desayuno | Desayuno a las siete.
+bread | pan | Este pan todavía está caliente.
+butter | mantequilla | ¿Me pasas la mantequilla?
+cheese | queso | Me gusta el queso blanco.
+egg | huevo | Anna come dos huevos todas las mañanas.
+honey | miel | Le pongo miel al té.
+jam | mermelada | La mermelada de fresa es mi favorita.
+yoghurt | yogur | Como yogur con miel.
+cereal | cereales | Los niños comen cereales con leche.
+milk | leche | Necesitamos más leche.
+## Bebidas
+water | agua | Un vaso de agua, por favor.
+tea | té | Emre toma té negro.
+coffee | café | Ahora necesito un café.
+juice | jugo, zumo | Este jugo de naranja es natural.
+lemonade | limonada | A los niños les encanta la limonada fría.
+beer | cerveza | Pide una cerveza pequeña.
+wine | vino | ¿Prefieres el vino tinto?
+sugar | azúcar | Sin azúcar para mí, gracias.
+soft drink | refresco | Solo venden refrescos.
+drink (drank, drunk) | beber, tomar; bebida | ¿Qué quieres tomar?
+## Frutas
+fruit | fruta | Come más fruta cada día.
+apple | manzana | Una manzana al día es saludable.
+banana | plátano, banana | Al bebé le gustan los plátanos.
+lemon | limón | Échale un poco de limón al pescado.
+melon | melón | Este melón huele muy dulce.
+mango | mango | Los mangos vienen de países cálidos.
+apricot | albaricoque, damasco | Malatya es famosa por sus albaricoques.
+fig | higo | Me encantan los higos frescos.
+kiwi | kiwi | El kiwi es verde por dentro.
+coconut | coco | El agua de coco es muy refrescante.
+## Verduras
+vegetable | verdura, hortaliza | Compro verduras en el mercado.
+potato (potatoes) | papa, patata | Pela las papas, por favor.
+tomato (tomatoes) | tomate | Estos tomates están muy rojos.
+onion | cebolla | Corta la cebolla en trozos pequeños.
+carrot | zanahoria | A los conejos les encantan las zanahorias.
+salad | ensalada | Yo quiero una ensalada verde.
+peas | guisantes, arvejas | A los niños no les gustan los guisantes.
+corn | maíz, elote | Comemos maíz en la playa.
+lentils | lentejas | Para la sopa de lentejas hacen falta lentejas rojas.
+beans | frijoles, judías | Omar cocina frijoles con arroz.
+## Carne y platos principales
+meat | carne | Sofia no come carne.
+chicken | pollo | Hay pollo para cenar.
+beef | carne de res, ternera | ¿Esta hamburguesa es de res?
+rice | arroz | Cocino arroz todos los días.
+pasta | pasta | Los niños quieren pasta otra vez.
+soup | sopa | Esta sopa está demasiado caliente.
+sandwich | sándwich, bocadillo | Como un sándwich en el trabajo.
+pizza | pizza | Pidamos una pizza esta noche.
+chips | papas fritas | Pescado con papas fritas, por favor.
+steak | bistec, filete | Quiero el bistec bien cocido.
+## Las comidas del día
+food | alimentos, comida | Aquí la comida es buenísima.
+meal | comida del día (desayuno, almuerzo…) | Hacemos tres comidas al día.
+lunch | almuerzo, comida del mediodía | Almorcemos juntos.
+dinner | cena | ¡La cena está lista!
+brunch | brunch, desayuno tardío | Los domingos tomamos un brunch.
+dessert | postre | ¿Qué hay de postre?
+eat (ate, eaten) | comer | Comemos a las ocho.
+hungry | hambriento, con hambre | Tengo mucha hambre.
+thirsty | sediento, con sed | ¿Tienes sed?
+yummy | rico, delicioso (coloquial) | ¡Mmm, este pastel está riquísimo!
+## En el supermercado
+supermarket | supermercado | El supermercado abre a las nueve.
+greengrocer | frutería, verdulería | Compro tomates en la frutería.
+bakery | panadería | La panadería está en la esquina.
+jar | frasco, tarro | Abre este frasco de mermelada, por favor.
+carton | cartón, envase | Trae un cartón de leche.
+butcher | carnicero, carnicería | El carnicero vende carne fresca.
+kilo | kilo | Dos kilos de manzanas, por favor.
+packet | paquete | Necesito un paquete de arroz.
+tin | lata | Compra una lata de tomates.
+nuts | frutos secos | Diego compra una bolsa de frutos secos.
+## En el restaurante
+restaurant | restaurante | Este restaurante es muy popular.
+café | cafetería, café | Quedemos en la cafetería.
+menu | menú, carta | ¿Me trae la carta, por favor?
+order | pedir; pedido | ¿Ya saben qué van a pedir?
+starter | entrante, entrada | La sopa es una buena entrada.
+main course | plato principal | De plato principal, pollo, por favor.
+waitress | camarera, mesera | La camarera es muy amable.
+I'd like | quisiera, me gustaría | Quisiera un café, por favor.
+can I have | ¿me da...?, ¿puedo tomar...? | ¿Me da un poco de agua?
+takeaway | comida para llevar | Pidamos comida para llevar esta noche.
+## Sabores
+flavour | sabor | ¿De qué sabor quieres el helado?
+sweet | dulce | Este té está demasiado dulce.
+salty | salado | La sopa está un poco salada.
+sour | ácido, agrio | Los limones son muy ácidos.
+bitter | amargo | El café solo es amargo.
+fried | frito | No como frituras.
+hot | caliente; picante | Cuidado, el plato está caliente.
+fresh | fresco | El pescado está muy fresco.
+salt | sal | ¿Me pasas la sal?
+oil | aceite | Fríe los huevos en aceite de oliva.
+## Dulces y en la cocina
+cake | pastel, tarta, bizcocho | Yuki hace un pastel de chocolate.
+chocolate | chocolate | A los niños les encanta el chocolate.
+ice cream | helado | Dos helados, por favor.
+biscuit | galleta | Toma una galleta con el té.
+pudding | pudín; postre | El pudín de chocolate es mi favorito.
+cookie | galleta casera, cookie | La abuela nos hace galletas.
+sauce | salsa | Pasta con salsa de tomate, por favor.
+heat | calentar | Calienta la leche despacio.
+mix | mezclar | Mezcla los huevos y el azúcar.
+cut (cut, cut) | cortar | Corta el pastel en ocho trozos.

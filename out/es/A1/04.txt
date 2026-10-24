@@ -1,0 +1,111 @@
+# UNIT: La casa y sus cosas | Habitaciones, muebles, cocina, tareas domésticas
+## La casa y las habitaciones
+house | casa (edificio) | Su casa es muy grande.
+home | hogar, casa | Ahora estoy en casa.
+apartment | apartamento, piso | Vivimos en un apartamento pequeño.
+room | habitación, cuarto | Mi cuarto está arriba.
+kitchen | cocina | Mamá está en la cocina.
+bathroom | baño | ¿Dónde está el baño?
+bedroom | dormitorio, recámara | El apartamento tiene dos dormitorios.
+living room | sala de estar, salón | Vemos la tele en la sala.
+garden | jardín | Los niños juegan en el jardín.
+balcony | balcón | Tomo té en el balcón.
+## Partes de la casa
+door | puerta | Cierra la puerta, por favor.
+window | ventana | Abre la ventana, por favor.
+wall | pared | Las paredes son blancas.
+floor | suelo, piso | El suelo está mojado.
+roof | techo, tejado | Hay un gato en el tejado.
+stairs | escaleras | Sube por las escaleras, no en el ascensor.
+garage | garaje | El auto está en el garaje.
+toilet | inodoro, baño | El baño está al lado de la cocina.
+gate | portón, verja | El portón está abierto.
+corner | esquina, rincón | La planta está en el rincón.
+## Muebles
+table | mesa | Las llaves están en la mesa.
+chair | silla | Toma una silla y siéntate.
+sofa | sofá | El gato duerme en el sofá.
+bed | cama | Mi cama es muy blanda.
+armchair | sillón | El abuelo se sienta en su sillón.
+wardrobe | armario, ropero | Mi ropa está en el armario.
+shelf (shelves) | estante, repisa | Pon los libros en el estante.
+desk | escritorio | Trabajo en mi escritorio.
+carpet | alfombra | Esta alfombra es de Turquía.
+mirror | espejo | Mírate en el espejo.
+## Objetos de la casa
+lamp | lámpara | Enciende la lámpara, por favor.
+light | luz | La luz es demasiado fuerte.
+curtain | cortina | Las cortinas son azules.
+picture | cuadro, foto | Me encanta este cuadro.
+pillow | almohada | Necesito otra almohada.
+blanket | manta, cobija | Hace frío, toma una manta.
+towel | toalla | Aquí tienes una toalla limpia.
+plant | planta | Riega las plantas, por favor.
+television | televisión | La televisión está en la sala.
+radio | radio | Papá escucha la radio.
+## La cocina
+fridge | refrigerador, nevera | La leche está en el refrigerador.
+oven | horno | El pastel está en el horno.
+stove | estufa, fogón | La sopa está en la estufa.
+sink | fregadero | Los platos están en el fregadero.
+microwave | microondas | Caliéntalo en el microondas.
+kettle | hervidor (de agua) | Pon a hervir el agua, por favor.
+cupboard | alacena, armario de cocina | Las tazas están en la alacena.
+tap | grifo, llave del agua | ¡Cierra el grifo!
+dishwasher | lavavajillas, lavaplatos | Nuestro lavavajillas es nuevo.
+trash can | basurero, cubo de basura | Tíralo al basurero.
+## Utensilios de cocina
+plate | plato | Pon los platos en la mesa.
+glass | vaso; vidrio | ¿Me das un vaso de agua?
+bowl | tazón, bol | Un tazón de sopa, por favor.
+fork | tenedor | Necesito un tenedor.
+knife (knives) | cuchillo | Ten cuidado con el cuchillo.
+spoon | cuchara | Tómate la sopa con una cuchara.
+pan | sartén | Calienta el aceite en una sartén.
+pot | olla, cacerola | La olla está en la estufa.
+bottle | botella | Toma una botella de agua.
+napkin | servilleta | Aquí tienes una servilleta.
+## El baño
+shower | ducha, regadera | Me ducho todas las mañanas.
+bath | bañera, tina; baño | A la bebé le encanta su baño.
+soap | jabón | Lávate las manos con jabón.
+toothbrush | cepillo de dientes | Este es mi cepillo de dientes nuevo.
+toothpaste | pasta de dientes | Necesitamos pasta de dientes.
+shampoo | champú | Este champú huele muy bien.
+comb | peine | ¿Dónde está mi peine?
+hairdryer | secador de pelo | ¿Puedo usar tu secador de pelo?
+toilet paper | papel higiénico | ¡No hay papel higiénico!
+washing machine | lavadora | La lavadora está rota.
+## Tareas domésticas
+clean | limpiar | Limpio mi cuarto los sábados.
+wash | lavar | Lávate las manos, por favor.
+cook | cocinar | Mi padre cocina todos los días.
+tidy | ordenar, recoger | ¡Ordena tu cuarto ahora mismo!
+sweep (swept, swept) | barrer | ¿Puedes barrer el suelo?
+iron | planchar; plancha | Plancho mis camisas los domingos.
+vacuum | pasar la aspiradora | Ali pasa la aspiradora por la alfombra.
+do the dishes | lavar los platos | Yo cocino y tú lavas los platos.
+do the laundry | lavar la ropa | Lavamos la ropa los lunes.
+make the bed | hacer la cama | Haz tu cama todas las mañanas.
+## Describir la casa
+big | grande | Necesitamos una mesa grande.
+small | pequeño | La cocina es pequeña.
+new | nuevo | Tenemos un sofá nuevo.
+comfortable | cómodo | Esta cama es muy cómoda.
+dark | oscuro | La habitación está oscura.
+bright | luminoso, brillante | Nuestra cocina es luminosa.
+cold | frío | En invierno el baño está frío.
+empty | vacío | El refrigerador está vacío.
+full | lleno | El fregadero está lleno de platos.
+dirty | sucio | El suelo está sucio.
+## ¿Dónde está? Preposiciones de lugar
+in | en, dentro de | Las llaves están en mi bolso.
+on | sobre, encima de | El libro está sobre el escritorio.
+under | debajo de | El gato está debajo de la cama.
+next to | al lado de | La lámpara está al lado del sofá.
+behind | detrás de | El jardín está detrás de la casa.
+in front of | delante de, enfrente de | El auto está delante del garaje.
+between | entre | La mesa está entre las sillas.
+near | cerca de | Nuestro apartamento está cerca del parque.
+upstairs | arriba, en el piso de arriba | Los dormitorios están arriba.
+downstairs | abajo, en el piso de abajo | ¡Baja, la cena está lista!

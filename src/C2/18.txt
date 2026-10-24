@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+## Mahkeme salonu
+contempt of court | mahkemeye saygısızlık | isim | The journalist was fined for contempt of court after ignoring the judge's order. | Gazeteci hâkimin emrini dinlemediği için mahkemeye saygısızlıktan para cezasına çarptırıldı.
+bailiff | mübaşir; icra memuru | isim | The bailiff called the next witness into the crowded courtroom. | Mübaşir bir sonraki tanığı kalabalık mahkeme salonuna çağırdı.
+dock | sanık kürsüsü | isim | The accused stood silently in the dock while the charges were read. | Suçlamalar okunurken sanık, sanık kürsüsünde sessizce durdu.
+subpoena | celpname, mahkemeye çağrı belgesi | isim | Omar received a subpoena ordering him to testify next week. | Omar gelecek hafta ifade vermesini emreden bir celpname aldı.
+mistrial | usulsüz yargılama, geçersiz duruşma | isim | The judge declared a mistrial when a juror was seen talking to a reporter. | Bir jüri üyesi muhabirle konuşurken görülünce hâkim duruşmanın geçersiz olduğunu ilan etti.
+hung jury | karara varamayan jüri | isim | After four days of debate, the trial ended with a hung jury. | Dört günlük tartışmanın ardından dava karara varamayan bir jüriyle sonuçlandı.
+sequester | (jüriyi) dış dünyadan ayırmak; el koymak | fiil | The jury was sequestered in a hotel to avoid any media influence. | Jüri, medya etkisinden korunmak için bir otelde dış dünyadan ayrı tutuldu.
+recuse | (hâkim) davadan çekilmek | fiil | The judge recused herself because she knew one of the parties personally. | Hâkim taraflardan birini şahsen tanıdığı için davadan çekildi.
+gavel | hâkim tokmağı | isim | With a sharp tap of the gavel, the judge restored order in the room. | Hâkim tokmağı sertçe vurarak salonda düzeni yeniden sağladı.
+voir dire | jüri üyesi seçme sorgusu | isim | During voir dire, both lawyers questioned potential jurors about their backgrounds. | Jüri seçme sorgusu sırasında iki avukat da aday jüri üyelerine geçmişlerini sordu.
+## Dava ve usul
+amicus curiae | mahkemeye görüş sunan üçüncü taraf | ifade | A medical association filed an amicus curiae brief supporting the hospital. | Bir tabip birliği hastaneyi destekleyen bir amicus curiae (üçüncü taraf) görüşü sundu.
+sub judice | yargı sürecinde olan (yorum yapılamaz) | sıfat | The minister refused to comment because the matter was still sub judice. | Konu hâlâ yargı sürecinde olduğu için bakan yorum yapmayı reddetti.
+docket | dava listesi, duruşma takvimi | isim | The court's docket is so full that new cases wait for months. | Mahkemenin dava listesi o kadar dolu ki yeni davalar aylarca bekliyor.
+stay of execution | infazın ertelenmesi | isim | The lawyers filed a last-minute request for a stay of execution. | Avukatlar son dakikada infazın ertelenmesi için başvuru yaptı.
+writ | mahkeme emri, yazılı emir | isim | The company served a writ on the newspaper over the false report. | Şirket yanlış haber nedeniyle gazeteye bir mahkeme emri tebliğ ettirdi.
+deposition | yeminli ifade (mahkeme dışında) | isim | Her deposition lasted six hours and filled more than two hundred pages. | Yeminli ifadesi altı saat sürdü ve iki yüz sayfadan fazla tuttu.
+pro bono | ücretsiz (avukatlık hizmeti) | sıfat | Diego does pro bono work for families who cannot afford a lawyer. | Diego avukat tutamayan aileler için ücretsiz hukuki hizmet veriyor.
+arraign | (sanığı) mahkemeye çıkarıp suçlamayı okumak | fiil | The suspect will be arraigned tomorrow morning on three charges. | Şüpheli yarın sabah üç suçlamayla mahkeme önüne çıkarılacak.
+remand | tutuklu tutmak; (davayı) alt mahkemeye geri göndermek | fiil | The appeals court remanded the case to the lower court for a new trial. | İstinaf mahkemesi davayı yeniden yargılama için alt mahkemeye geri gönderdi.
+acquittal | beraat | isim | The acquittal came as a shock to many people following the trial. | Beraat kararı davayı takip eden birçok kişi için şok oldu.
+## Suç ve ceza hukuku
+larceny | hırsızlık (hukuki terim) | isim | He was charged with petty larceny for stealing a bicycle. | Bir bisiklet çaldığı için basit hırsızlıkla suçlandı.
+racketeering | organize dolandırıcılık, haraççılık | isim | The investigation uncovered years of racketeering in the port. | Soruşturma limanda yıllardır süren organize haraççılığı ortaya çıkardı.
+aid and abet | suça yardım ve yataklık etmek | deyim | Her brother was accused of aiding and abetting the escape. | Erkek kardeşi kaçışa yardım ve yataklık etmekle suçlandı.
+exculpatory | aklayıcı, suçsuzluğu gösteren | sıfat | The defence found exculpatory evidence that the police had overlooked. | Savunma, polisin gözden kaçırdığı aklayıcı bir delil buldu.
+exonerate | aklamak, temize çıkarmak | fiil | New DNA tests exonerated a man who had spent twenty years in prison. | Yeni DNA testleri yirmi yıl hapis yatmış bir adamı akladı.
+plea bargain | itiraf karşılığı ceza indirimi anlaşması | isim | He accepted a plea bargain and received a shorter sentence. | İtiraf karşılığı indirim anlaşmasını kabul etti ve daha kısa bir ceza aldı.
+mitigating | hafifletici | sıfat | The court took his young age into account as a mitigating factor. | Mahkeme genç yaşını hafifletici bir neden olarak dikkate aldı.
+clemency | af, cezada merhamet | isim | Her family wrote to the governor asking for clemency. | Ailesi valiye yazıp af talep etti.
+recidivism | suçta tekerrür | isim | Education programmes in prisons are known to reduce recidivism. | Cezaevlerindeki eğitim programlarının suçta tekerrürü azalttığı bilinir.
+summons | celp, mahkemeye davet | isim | Ali received a summons to appear in court as a witness. | Ali tanık olarak mahkemeye çıkması için bir celp aldı.
+## Sözleşme ve mülk hukuku
+leasehold | uzun süreli kira mülkiyeti | isim | They bought the flat on a ninety-nine-year leasehold. | Daireyi doksan dokuz yıllık uzun süreli kira mülkiyetiyle satın aldılar.
+conveyancing | tapu devri işlemleri | isim | A solicitor handled all the conveyancing when they sold the house. | Evi sattıklarında tüm tapu devri işlemlerini bir avukat yürüttü.
+escrow | emanet hesabı | isim | The deposit is held in escrow until both parties sign. | Kapora iki taraf da imzalayana kadar emanet hesabında tutulur.
+codicil | vasiyetname eki | isim | Shortly before she died, she added a codicil leaving her books to the library. | Ölümünden kısa süre önce vasiyetnamesine, kitaplarını kütüphaneye bırakan bir ek yaptı.
+lien | haciz hakkı, rehin hakkı | isim | The bank placed a lien on the property until the loan was repaid. | Banka kredi ödenene kadar mülk üzerine rehin hakkı koydu.
+intestate | vasiyetsiz (ölmüş) | sıfat | Because he died intestate, the court had to divide his property. | Vasiyet bırakmadan öldüğü için mal varlığını mahkeme paylaştırmak zorunda kaldı.
+rescind | feshetmek, iptal etmek | fiil | The council voted to rescind the decision after public complaints. | Meclis halkın şikâyetlerinin ardından kararı iptal etmek için oy kullandı.
+covenant | taahhüt, akit | isim | The deed contains a covenant forbidding any commercial use of the building. | Tapu, binanın ticari amaçla kullanılmasını yasaklayan bir taahhüt içeriyor.
+caveat emptor | alıcı dikkatli olmalı (ilkesi) | deyim | At that market, caveat emptor applies, so always check the goods. | O pazarda alıcı dikkatli olmalı ilkesi geçerli, o yüzden malları hep kontrol edin.
+waive | (haktan) feragat etmek | fiil | The landlord agreed to waive the late fee this one time. | Ev sahibi bu seferlik gecikme ücretinden feragat etmeyi kabul etti.
+## Diplomasi
+plenipotentiary | tam yetkili elçi | isim | Each government sent a plenipotentiary with full power to sign. | Her hükümet imza için tam yetkiye sahip bir elçi gönderdi.
+attaché | ataşe | isim | Yuki worked as a cultural attaché at the embassy for three years. | Yuki üç yıl boyunca büyükelçilikte kültür ataşesi olarak çalıştı.
+chargé d'affaires | maslahatgüzar | isim | In the ambassador's absence, the chargé d'affaires led the delegation. | Büyükelçinin yokluğunda heyete maslahatgüzar başkanlık etti.
+démarche | diplomatik girişim, resmî itiraz | isim | The ministry delivered a formal démarche expressing its concern. | Bakanlık endişesini dile getiren resmî bir diplomatik girişimde bulundu.
+persona non grata | istenmeyen kişi | ifade | The diplomat was declared persona non grata and given two days to leave. | Diplomat istenmeyen kişi ilan edildi ve ayrılması için iki gün verildi.
+rapprochement | yakınlaşma, ilişkilerin düzelmesi | isim | The trade deal marked a cautious rapprochement between the two countries. | Ticaret anlaşması iki ülke arasında temkinli bir yakınlaşmaya işaret etti.
+détente | gerginliğin azalması, yumuşama | isim | The period of détente allowed both sides to reduce their military spending. | Yumuşama dönemi iki tarafın da askerî harcamalarını azaltmasına imkân verdi.
+communiqué | resmî bildiri | isim | The leaders issued a joint communiqué at the end of the summit. | Liderler zirvenin sonunda ortak bir resmî bildiri yayımladı.
+accreditation | itimatname; akreditasyon | isim | The new ambassador presented his letters of accreditation to the head of state. | Yeni büyükelçi itimatnamesini devlet başkanına sundu.
+back channel | gayriresmî iletişim kanalı | isim | The talks were arranged through a secret back channel. | Görüşmeler gizli, gayriresmî bir kanal aracılığıyla ayarlandı.
+## Uluslararası hukuk ve antlaşmalar
+entente | dostane anlaşma, uzlaşı | isim | The two old rivals reached a friendly entente over trade. | İki eski rakip ticaret konusunda dostane bir uzlaşıya vardı.
+ultimatum | ültimatom | isim | The ultimatum gave the other side forty-eight hours to respond. | Ültimatom karşı tarafa yanıt vermesi için kırk sekiz saat tanıyordu.
+casus belli | savaş sebebi | ifade | Historians disagree about what the real casus belli was. | Tarihçiler gerçek savaş sebebinin ne olduğu konusunda anlaşamıyor.
+status quo ante | önceki durum | ifade | The agreement restored the status quo ante along the border. | Anlaşma sınır boyunca önceki durumu yeniden tesis etti.
+extradition | suçluların iadesi | isim | The two countries have signed an extradition agreement. | İki ülke suçluların iadesine ilişkin bir anlaşma imzaladı.
+buffer zone | tampon bölge | isim | Peacekeepers patrol the buffer zone between the two armies. | Barış güçleri iki ordu arasındaki tampon bölgede devriye geziyor.
+diplomatic immunity | diplomatik dokunulmazlık | isim | Thanks to diplomatic immunity, the official could not be prosecuted. | Diplomatik dokunulmazlık sayesinde yetkili yargılanamadı.
+accede | katılmak (antlaşmaya); kabul etmek | fiil | Three more countries are expected to accede to the convention next year. | Gelecek yıl üç ülkenin daha sözleşmeye katılması bekleniyor.
+repatriation | ülkesine geri gönderme, iade | isim | The repatriation of the ancient statues took nearly ten years. | Antik heykellerin ülkesine iadesi neredeyse on yıl sürdü.
+moratorium | geçici durdurma, moratoryum | isim | The countries agreed on a moratorium on commercial whaling. | Ülkeler ticari balina avcılığına geçici bir yasak getirmeyi kabul etti.
+## Teşhis
+aetiology | hastalığın nedenleri, etiyoloji | isim | The aetiology of the disease is still not fully understood. | Hastalığın nedenleri hâlâ tam olarak anlaşılmış değil.
+benign | iyi huylu | sıfat | Luckily, the tests showed that the tumour was benign. | Neyse ki testler tümörün iyi huylu olduğunu gösterdi.
+metastasis | metastaz, yayılım | isim | Early surgery reduced the risk of metastasis. | Erken ameliyat yayılım riskini azalttı.
+lesion | lezyon, doku hasarı | isim | The scan revealed a small lesion on the left lung. | Tarama sol akciğerde küçük bir lezyon ortaya çıkardı.
+auscultation | dinleme muayenesi, oskültasyon | isim | Auscultation of the chest revealed a faint murmur. | Göğüs oskültasyonunda hafif bir üfürüm duyuldu.
+comorbidity | eşlik eden hastalık | isim | Diabetes is a common comorbidity in patients with heart disease. | Diyabet, kalp hastalarında sık görülen eşlik eden bir hastalıktır.
+differential diagnosis | ayırıcı tanı | isim | The resident listed five conditions in her differential diagnosis. | Asistan hekim ayırıcı tanısında beş hastalık sıraladı.
+idiopathic | nedeni bilinmeyen, idiyopatik | sıfat | After many tests, his condition was labelled idiopathic. | Pek çok testten sonra rahatsızlığı idiyopatik, yani nedeni bilinmeyen olarak tanımlandı.
+congenital | doğuştan | sıfat | She was born with a congenital heart defect that was repaired in infancy. | Bebeklikte onarılan doğuştan bir kalp kusuruyla dünyaya geldi.
+palpitations | çarpıntı | isim (çoğul) | Too much coffee gives Lukas palpitations late at night. | Fazla kahve Lukas'ın gece geç saatlerde çarpıntı yaşamasına yol açıyor.
+## Tedavi
+palliative | hafifletici, palyatif | sıfat | Palliative care focuses on comfort rather than cure. | Palyatif bakım tedaviden çok rahatlatmaya odaklanır.
+regimen | tedavi rejimi | isim | The new regimen combines daily tablets with weekly injections. | Yeni tedavi rejimi günlük tabletleri haftalık iğnelerle birleştiriyor.
+prophylaxis | koruyucu tedavi, profilaksi | isim | Travellers to the region are advised to take malaria prophylaxis. | Bölgeye gidenlere sıtmaya karşı koruyucu ilaç almaları öneriliyor.
+contraindication | kontrendikasyon, sakınca | isim | Pregnancy is a contraindication for this type of medication. | Hamilelik bu tür bir ilaç için kontrendikasyondur.
+anaesthetic | anestezik; uyuşturan ilaç | isim | The dentist gave her a local anaesthetic before removing the tooth. | Diş hekimi dişi çekmeden önce ona lokal anestezi yaptı.
+transfusion | kan nakli | isim | He lost so much blood that he needed an urgent transfusion. | O kadar çok kan kaybetti ki acil kan nakline ihtiyaç duydu.
+analgesic | ağrı kesici | isim | The nurse gave him a mild analgesic for the headache. | Hemşire baş ağrısı için ona hafif bir ağrı kesici verdi.
+inoculate | aşılamak | fiil | Health workers travelled from village to village to inoculate children. | Sağlık çalışanları çocukları aşılamak için köy köy dolaştı.
+sedate | yatıştırıcı vermek, sakinleştirmek | fiil | The patient was so agitated that the nurses had to sedate him. | Hasta öyle huzursuzdu ki hemşireler ona yatıştırıcı vermek zorunda kaldı.
+dialysis | diyaliz | isim | While waiting for a kidney, she had dialysis three times a week. | Böbrek beklerken haftada üç kez diyalize girdi.
+## Tıbbi araçlar
+scalpel | neşter | isim | The surgeon held out her hand for the scalpel. | Cerrah neşter için elini uzattı.
+stethoscope | stetoskop | isim | The doctor warmed the stethoscope before placing it on the child's chest. | Doktor stetoskopu çocuğun göğsüne koymadan önce ısıttı.
+catheter | kateter, sonda | isim | A thin catheter was inserted into the vein to deliver the medicine. | İlacı vermek için damara ince bir kateter yerleştirildi.
+defibrillator | defibrilatör, şok cihazı | isim | Every train station now has a defibrillator near the entrance. | Artık her tren istasyonunun girişinde bir defibrilatör var.
+ventilator | solunum cihazı | isim | He spent two weeks on a ventilator in intensive care. | Yoğun bakımda iki hafta solunum cihazına bağlı kaldı.
+forceps | pens, forseps | isim (çoğul) | The surgeon removed the splinter with a pair of fine forceps. | Cerrah kıymığı ince bir pensle çıkardı.
+cannula | kanül | isim | The nurse inserted a cannula into the back of his hand. | Hemşire el sırtına bir kanül yerleştirdi.
+otoscope | otoskop (kulak muayene aleti) | isim | The doctor looked into Yuki's ear with an otoscope. | Doktor otoskopla Yuki'nin kulağına baktı.
+suture | dikiş (cerrahi) | isim | The wound needed six sutures and healed in two weeks. | Yaraya altı dikiş gerekti ve iki haftada iyileşti.
+gurney | sedye (tekerlekli) | isim | Paramedics rushed the gurney through the emergency doors. | Sağlık görevlileri tekerlekli sedyeyi acil kapılarından hızla geçirdi.
+## Hastane ve klinik jargonu
+crash cart | acil müdahale arabası | isim | A nurse wheeled the crash cart into the room within seconds. | Bir hemşire acil müdahale arabasını saniyeler içinde odaya getirdi.
+outpatient | ayakta tedavi gören hasta | isim | The procedure is done on an outpatient basis, so you go home the same day. | İşlem ayakta tedavi şeklinde yapılıyor, yani aynı gün eve gidiyorsunuz.
+code blue | mavi kod (kalp durması alarmı) | isim | When the code blue was announced, every available doctor ran upstairs. | Mavi kod anons edilince müsait olan tüm doktorlar yukarı koştu.
+discharge | taburcu etmek | fiil | The hospital discharged Emre three days after the operation. | Hastane Emre'yi ameliyattan üç gün sonra taburcu etti.
+locum | vekil hekim | isim | While Dr Omar is on holiday, a locum is seeing his patients. | Dr. Omar tatildeyken hastalarına vekil bir hekim bakıyor.
+bedside manner | hastaya karşı tutum | isim | Patients love Dr Ali for his calm and gentle bedside manner. | Hastalar Dr. Ali'yi hastalarına karşı sakin ve nazik tavrı yüzünden çok seviyor.
+stat | hemen, derhal (tıp argosu) | zarf | The consultant ordered a blood test stat. | Uzman doktor derhal kan tahlili istedi.
+post-op | ameliyat sonrası | sıfat | Post-op patients must be checked every hour during the first night. | Ameliyat sonrası hastalar ilk gece her saat kontrol edilmelidir.
+bed blocker | taburcu edilemeyen hasta (yatak işgali) | isim | Elderly patients with no care at home often become bed blockers. | Evde bakımı olmayan yaşlı hastalar çoğu zaman taburcu edilemeyip yatak işgal eder.
+intubate | entübe etmek | fiil | The team had to intubate the patient when his breathing failed. | Solunumu durunca ekip hastayı entübe etmek zorunda kaldı.

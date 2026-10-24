@@ -1,0 +1,111 @@
+# UNIT: Kesehatan | Dokter, gejala, apotek, keadaan darurat
+## Di dokter
+appointment | janji temu | Aku ada janji temu jam sepuluh.
+patient | pasien | Pasiennya sedang menunggu di luar.
+examine | memeriksa (pasien) | Dokter memeriksa tenggorokanku.
+prescription | resep dokter | Obat ini harus pakai resep dokter.
+treatment | pengobatan, perawatan | Pengobatannya makan waktu dua minggu.
+check-up | pemeriksaan rutin, cek kesehatan | Setiap tahun aku cek kesehatan.
+clinic | klinik | Kliniknya buka jam delapan.
+waiting room | ruang tunggu | Hari ini ruang tunggunya penuh.
+blood test | tes darah | Perawat melakukan tes darah.
+family doctor | dokter keluarga | Dokter keluargaku sangat mengenalku.
+## Gejala
+symptom | gejala | Apa saja gejala Anda?
+fever | demam | Anak itu demam tinggi.
+cough | batuk | Dia batuk sepanjang malam.
+sore throat | sakit tenggorokan | Tenggorokanku sakit.
+runny nose | pilek, hidung meler | Hari ini Anna pilek.
+sneeze | bersin | Debu membuatku bersin.
+dizzy | pusing, pening | Aku pusing kalau berdiri.
+toothache | sakit gigi | Omar pergi ke dokter gigi karena sakit gigi.
+earache | sakit telinga | Anakku sakit telinga.
+stomachache | sakit perut | Aku makan terlalu banyak dan jadi sakit perut.
+## Penyakit
+flu | flu | Separuh kelas kena flu.
+catch a cold | masuk angin, pilek | Aku masuk angin karena kehujanan.
+infection | infeksi | Kata dokter, itu infeksi telinga.
+allergy | alergi | Anda punya alergi?
+allergic | alergi terhadap (sifat) | Sofia alergi kacang.
+virus | virus | Itu cuma virus, jangan terlalu khawatir.
+disease | penyakit (medis) | Penyakit jantung sangat umum.
+illness | sakit, keadaan sakit | Dia tidak masuk kerja karena sakit.
+asthma | asma | Lukas selalu membawa inhaler asmanya.
+food poisoning | keracunan makanan | Dia keracunan makanan karena ikan basi.
+## Di apotek
+pharmacy | apotek | Apa ada apotek di dekat sini?
+pharmacist | apoteker | Tanyakan saran kepada apoteker.
+pill | pil | Minum satu pil setiap habis makan.
+tablet | tablet (obat) | Tablet ini membantu meredakan nyeri.
+painkiller | obat pereda nyeri | Aku minum obat pereda nyeri untuk punggungku.
+syrup | sirup (obat) | Sirup obat batuk ini rasanya tidak enak sekali.
+cream | krim, salep | Oleskan krim ini ke kulitmu dua kali sehari.
+plaster | plester luka (BrE) | Aku butuh plester untuk jariku.
+bandage | perban | Perawat membalut lututnya dengan perban.
+side effect | efek samping | Obat ini tidak punya efek samping yang serius.
+## Cedera
+injury | cedera | Itu cuma cedera kecil.
+injure | melukai, mencederai | Dua orang terluka dalam tabrakan itu.
+wound | luka | Bersihkan lukanya dengan air.
+bleed (bled, bled) | berdarah | Hidungmu berdarah!
+bruise | memar | Ada memar besar di kakiku.
+burn (burnt, burnt) | membakar; luka bakar | Tanganku terbakar kena oven.
+swollen | bengkak | Pergelangan kakiku bengkak setelah pertandingan.
+fall over | jatuh, terjatuh | Emre jatuh di atas es.
+sprain | terkilir, keseleo | Pergelangan tangannya keseleo waktu main tenis.
+scar | bekas luka | Ada bekas luka di dagunya.
+## Keadaan darurat
+emergency | keadaan darurat | Dalam keadaan darurat, telepon 999.
+ambulance | ambulans | Ambulans datang dalam lima menit.
+accident | kecelakaan | Ada kecelakaan di jalan tol.
+first aid | pertolongan pertama | Maria bisa memberi pertolongan pertama.
+paramedic | paramedis | Para paramedis menolong kakek itu.
+unconscious | tidak sadarkan diri | Sopirnya tidak sadarkan diri.
+breathe | bernapas | Bernapaslah pelan-pelan dan tetap tenang.
+faint | pingsan, jatuh pingsan | Dia pingsan karena kepanasan.
+rescue | menyelamatkan | Petugas pemadam kebakaran menyelamatkan keluarga itu.
+stretcher | tandu | Mereka mengangkatnya keluar dengan tandu.
+## Di rumah sakit
+ward | bangsal (rumah sakit) | Nenekku dirawat di bangsal enam.
+operation | operasi | Operasinya berjalan sangat lancar.
+surgeon | dokter bedah | Dokter bedah berbicara dengan keluarga.
+injection | suntikan | Aku takut disuntik.
+x-ray | rontgen | Rontgennya menunjukkan ada tulang yang patah.
+stitches | jahitan (luka) | Lukanya perlu dijahit lima jahitan.
+wheelchair | kursi roda | Rumah sakit memberinya kursi roda.
+crutches | kruk, tongkat penyangga | Sekarang Diego berjalan dengan kruk.
+recover | pulih, sembuh | Dia cepat pulih setelah operasi.
+visiting hours | jam besuk | Jam besuk berakhir jam delapan.
+## Hidup sehat
+diet | pola makan; diet | Pola makan sehat mencakup banyak sayur.
+work out | berolahraga, latihan fisik | Aku berolahraga tiga kali seminggu.
+vitamin | vitamin | Jeruk kaya vitamin C.
+fit | bugar | Yuki menjaga kebugarannya dengan berenang.
+lose weight | menurunkan berat badan | Dia ingin menurunkan berat badan sebelum musim panas.
+put on weight | bertambah berat badan | Berat badanku naik selama liburan.
+smoke | merokok | Ayahku berhenti merokok tahun lalu.
+stress | stres | Terlalu banyak stres buruk untuk kesehatan.
+balanced | seimbang | Usahakan sarapan yang seimbang.
+fresh air | udara segar | Ayo keluar cari udara segar.
+## Bagian dalam tubuh
+lung | paru-paru | Merokok merusak paru-paru.
+brain | otak | Tidur itu penting untuk otak.
+bone | tulang | Susu baik untuk tulang.
+skin | kulit | Lindungi kulitmu dari sinar matahari.
+blood | darah | Ada darah di kemejanya.
+muscle | otot | Otot-ototku pegal setelah ke gym.
+chest | dada | Dadaku terasa sakit.
+ankle | pergelangan kaki | Pergelangan kaki Ali terkilir.
+wrist | pergelangan tangan | Dia memakai jam di pergelangan tangan kirinya.
+elbow | siku | Sikuku terbentur pintu.
+## Berbicara dengan dokter
+what's the matter? | kenapa?; ada apa? | Kenapa? Kamu kelihatan pucat.
+I don't feel well | aku merasa tidak enak badan | Aku merasa tidak enak badan, aku pulang saja.
+it hurts | sakit, terasa sakit | Kalau jalan, rasanya sakit.
+get better | sembuh, membaik | Semoga cepat membaik.
+get well soon | semoga cepat sembuh | Semoga cepat sembuh, Camille!
+lie down (lay, lain) | berbaring | Silakan berbaring di sini.
+take your temperature | mengukur suhu badan | Perawat akan mengukur suhu badan Anda.
+be off sick | sedang izin sakit | Hari ini Tom izin sakit.
+sick note | surat keterangan sakit | Bosku minta surat keterangan sakit.
+bless you | semoga sehat (saat orang bersin) | Hacih! Semoga sehat!

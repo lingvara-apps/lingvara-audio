@@ -1,0 +1,111 @@
+# UNIT: Seyahat ve kültür | Yolculuk, turizm, kültür farkları
+## Yolculuk planlama
+itinerary | seyahat programı, güzergâh | isim | Our itinerary includes three days in Edinburgh and two in York. | Seyahat programımızda Edinburgh'da üç gün ve York'ta iki gün var.
+getaway | kısa tatil, kaçamak | isim | We booked a weekend getaway in a small cottage by the lake. | Göl kenarındaki küçük bir kulübede hafta sonu kaçamağı için yer ayırttık.
+off-season | sezon dışı | isim | Prices are much lower if you travel in the off-season. | Sezon dışında seyahat edersen fiyatlar çok daha düşük olur.
+budget airline | ucuz havayolu | isim | We flew with a budget airline, so we paid extra for our bags. | Ucuz bir havayoluyla uçtuk, bu yüzden bagajlarımız için ekstra ücret ödedik.
+package holiday | paket tatil, paket tur | isim | A package holiday includes flights, the hotel and sometimes meals. | Paket tatil uçuşları, oteli ve bazen yemekleri kapsar.
+travel agent | seyahat acentesi (kişi) | isim | The travel agent found us a cheaper flight with fewer stops. | Seyahat acentesi bize daha az aktarmalı, daha ucuz bir uçuş buldu.
+day trip | günübirlik gezi | isim | From London, Oxford is an easy day trip by train. | Londra'dan Oxford trenle kolay bir günübirlik gezidir.
+one-way | tek yön | sıfat | Ali bought a one-way ticket because he had no plans to return soon. | Ali yakında dönmeyi planlamadığı için tek yön bilet aldı.
+layover | aktarma molası | isim | We had a six-hour layover in Frankfurt on the way to Tokyo. | Tokyo yolunda Frankfurt'ta altı saatlik bir aktarma molamız vardı.
+peak season | yoğun sezon | isim | Hotels by the sea are often fully booked during peak season. | Deniz kenarındaki oteller yoğun sezonda genellikle tamamen dolu olur.
+## Konaklama
+accommodation | konaklama yeri | isim | Finding cheap accommodation in London can be really difficult. | Londra'da ucuz konaklama yeri bulmak gerçekten zor olabilir.
+homestay | yerel bir ailenin yanında konaklama | isim | During her language course, Sofia stayed in a homestay with a Scottish family. | Dil kursu sırasında Sofia İskoç bir ailenin yanında konakladı.
+holiday let | kiralık tatil evi | isim | We rented a holiday let near the beach for two weeks. | İki haftalığına sahile yakın kiralık bir tatil evi tuttuk.
+resort | tatil köyü, tatil beldesi | isim | The ski resort was full of families during the winter break. | Kayak merkezi kış tatili boyunca ailelerle doluydu.
+check-in | giriş işlemi, check-in | isim | Check-in starts at two o'clock, but you can leave your bags earlier. | Giriş işlemi saat ikide başlıyor ama bavullarını daha önce bırakabilirsin.
+amenities | olanaklar, tesisler | isim (çoğul) | The resort has excellent amenities, including a spa and two pools. | Tatil köyünün spa ve iki havuz dahil mükemmel olanakları var.
+complimentary | ücretsiz, ikram | sıfat | Every room comes with complimentary tea, coffee and biscuits. | Her odada ücretsiz çay, kahve ve bisküvi bulunuyor.
+en suite | banyolu (oda) | sıfat | All the bedrooms in the cottage are en suite and very spacious. | Kulübedeki tüm yatak odaları banyolu ve çok ferah.
+self-catering | kendi yemeğini yaptığın, mutfaklı | sıfat | A self-catering apartment is cheaper for a large family. | Kalabalık bir aile için mutfaklı bir daire daha ucuzdur.
+host | ev sahibi | isim | Our host gave us a map and recommended a great local restaurant. | Ev sahibimiz bize bir harita verdi ve harika bir yerel restoran önerdi.
+## Havalimanı ve sınır
+passport control | pasaport kontrolü | isim | Have your documents ready before you reach passport control. | Pasaport kontrolüne varmadan önce belgelerini hazır tut.
+declare | beyan etmek | fiil | You must declare any large amounts of cash when you arrive. | Varışta büyük miktardaki nakit parayı beyan etmelisin.
+departure lounge | giden yolcu salonu | isim | We had a coffee in the departure lounge while we waited for our flight. | Uçuşumuzu beklerken giden yolcu salonunda bir kahve içtik.
+security check | güvenlik kontrolü | isim | Liquids must be in a clear bag for the security check. | Sıvılar güvenlik kontrolü için şeffaf bir poşette olmalı.
+carry-on | kabin bagajı | isim | My carry-on was too heavy, so I had to pay a fee. | Kabin bagajım çok ağırdı, bu yüzden bir ücret ödemek zorunda kaldım.
+arrivals hall | gelen yolcu salonu | isim | Maria's brother was waiting for her in the arrivals hall with flowers. | Maria'nın kardeşi onu gelen yolcu salonunda çiçeklerle bekliyordu.
+duty-free | gümrüksüz, vergisiz | sıfat | Sofia bought some perfume at the duty-free shop before her flight. | Sofia uçuşundan önce gümrüksüz satış mağazasından biraz parfüm aldı.
+immigration | giriş kontrolü; göç | isim | The queue at immigration was long because three flights landed together. | Üç uçak aynı anda indiği için giriş kontrolündeki kuyruk uzundu.
+long-haul | uzun mesafeli (uçuş) | sıfat | After a long-haul flight, I always need a day to recover. | Uzun mesafeli bir uçuştan sonra kendime gelmek için hep bir güne ihtiyacım olur.
+excess baggage | fazla bagaj | isim | Diego paid sixty euros for excess baggage on the way home. | Diego dönüş yolunda fazla bagaj için altmış avro ödedi.
+## Turistik geziler
+heritage site | tarihî miras alanı | isim | Bath is a World Heritage Site famous for its Roman baths. | Bath, Roma hamamlarıyla ünlü bir Dünya Mirası alanıdır.
+must-see | mutlaka görülmesi gereken yer | isim | The old harbour is a must-see if you visit Bristol. | Bristol'ü ziyaret edersen eski liman mutlaka görülmesi gereken bir yer.
+audio guide | sesli rehber | isim | The audio guide in the museum is available in twelve languages. | Müzedeki sesli rehber on iki dilde mevcut.
+tour guide | tur rehberi | isim | Our tour guide told funny stories about the history of each building. | Tur rehberimiz her binanın tarihi hakkında komik hikâyeler anlattı.
+memento | hatıra, andaç | isim | Diego kept the old train ticket as a memento of his trip. | Diego eski tren biletini gezisinin hatırası olarak sakladı.
+picturesque | resim gibi, pitoresk | sıfat | We stopped in a picturesque village with stone cottages and a tiny church. | Taş evleri ve minicik bir kilisesi olan resim gibi bir köyde durduk.
+breathtaking | nefes kesici | sıfat | The view from the top of the cliff was absolutely breathtaking. | Uçurumun tepesinden manzara kesinlikle nefes kesiciydi.
+panoramic | panoramik | sıfat | The tower offers a panoramic view of the whole city. | Kule tüm şehrin panoramik manzarasını sunuyor.
+tourist trap | turist tuzağı | isim | That restaurant is a tourist trap with high prices and average food. | O restoran yüksek fiyatlı ve sıradan yemekli bir turist tuzağı.
+excursion | gezi, kısa tur | isim | The hotel organised an excursion to a nearby island for the guests. | Otel misafirler için yakındaki bir adaya gezi düzenledi.
+## Yolda sorunlar
+divert | (başka yere) yönlendirmek | fiil | Because of the fog, our plane was diverted to Manchester. | Sis yüzünden uçağımız Manchester'a yönlendirildi.
+rebook | yeniden rezervasyon yapmak | fiil | The airline rebooked us on the next flight at no extra cost. | Havayolu bizi ek ücret almadan bir sonraki uçuşa aktardı.
+overbooked | fazla rezervasyon yapılmış | sıfat | The flight was overbooked, so they offered us a free hotel night. | Uçuşa fazla rezervasyon yapılmıştı, bu yüzden bize ücretsiz bir otel gecesi teklif ettiler.
+connecting flight | aktarma uçuşu, bağlantılı uçuş | isim | Because of the delay, Lukas missed his connecting flight to Rome. | Gecikme yüzünden Lukas Roma'ya aktarma uçuşunu kaçırdı.
+strand | mahsur bırakmak | fiil | The strike left thousands of travellers stranded at the airport. | Grev binlerce yolcuyu havalimanında mahsur bıraktı.
+pickpocket | yankesici | isim | Watch your bag on the metro because pickpockets often work there. | Metroda çantana dikkat et çünkü orada sık sık yankesiciler olur.
+lost luggage | kayıp bagaj | isim | Report lost luggage at the airline desk before you leave the airport. | Kayıp bagajı havalimanından ayrılmadan önce havayolu masasına bildir.
+overcharge | fazla ücret almak | fiil | The taxi driver tried to overcharge us because we were tourists. | Taksi şoförü turist olduğumuz için bizden fazla ücret almaya çalıştı.
+compensation | tazminat | isim | Passengers received compensation for the long delay. | Yolcular uzun gecikme için tazminat aldı.
+travel advisory | seyahat uyarısı | isim | Check the official travel advisory before you visit the region. | Bölgeyi ziyaret etmeden önce resmî seyahat uyarısını kontrol et.
+## Kültür farkları
+custom | gelenek, örf | isim | It is a custom in many countries to remove your shoes at home. | Birçok ülkede evde ayakkabıları çıkarmak bir gelenektir.
+etiquette | görgü kuralları | isim | Table etiquette can be very different from one country to another. | Sofra görgü kuralları bir ülkeden diğerine çok farklı olabilir.
+culture shock | kültür şoku | isim | Emre experienced culture shock during his first month in Canada. | Emre Kanada'daki ilk ayında kültür şoku yaşadı.
+stereotype | kalıp yargı, klişe | isim | Not every British person drinks tea all day; that is just a stereotype. | Her İngiliz bütün gün çay içmez; bu sadece bir kalıp yargı.
+diversity | çeşitlilik | isim | London is famous for its cultural diversity and many languages. | Londra kültürel çeşitliliği ve birçok diliyle ünlüdür.
+taboo | tabu | isim | In some cultures, talking about salary is still a taboo. | Bazı kültürlerde maaş hakkında konuşmak hâlâ bir tabudur.
+offend | gücendirmek, kırmak | fiil | I didn't want to offend our hosts, so I tried every dish. | Ev sahiplerimizi kırmak istemedim, bu yüzden her yemeği denedim.
+appropriate | uygun, yerinde | sıfat | Shorts are not appropriate clothing when you visit a temple. | Bir tapınağı ziyaret ederken şort uygun bir kıyafet değildir.
+gesture | jest, el hareketi | isim | A thumbs-up is a friendly gesture in some countries but rude in others. | Başparmak yukarı bazı ülkelerde dostça bir jest, bazılarında ise kaba kabul edilir.
+adapt | uyum sağlamak | fiil | Children usually adapt to a new culture faster than adults. | Çocuklar genellikle yeni bir kültüre yetişkinlerden daha hızlı uyum sağlar.
+## Gelenekler ve görgü
+eye contact | göz teması | isim | In some cultures, direct eye contact with older people is considered rude. | Bazı kültürlerde yaşlılarla doğrudan göz teması kurmak kaba kabul edilir.
+jump the queue | sırayı kaynatmak, araya kaynamak | deyim | In Britain, it is considered very rude to jump the queue. | Britanya'da sırayı kaynatmak çok kaba kabul edilir.
+handshake | tokalaşma | isim | A firm handshake is a common greeting in business meetings. | Sıkı bir tokalaşma iş toplantılarında yaygın bir selamlaşmadır.
+bow | eğilerek selam vermek | fiil | In Japan, people often bow when they greet each other. | Japonya'da insanlar birbirini selamlarken sık sık eğilir.
+punctual | dakik | sıfat | Please be punctual because the tour bus leaves at exactly eight. | Lütfen dakik ol çünkü tur otobüsü tam sekizde kalkıyor.
+body language | beden dili | isim | Body language can mean different things in different cultures. | Beden dili farklı kültürlerde farklı anlamlar taşıyabilir.
+toast | kadeh kaldırma | isim | At the wedding dinner, the bride's father made a touching toast. | Düğün yemeğinde gelinin babası dokunaklı bir kadeh kaldırma konuşması yaptı.
+hospitality | misafirperverlik | isim | We were amazed by the warm hospitality of the local people. | Yerel halkın sıcak misafirperverliğine hayran kaldık.
+modest | mütevazı; edepli, kapalı | sıfat | Visitors should wear modest clothes inside religious buildings. | Ziyaretçiler dinî binaların içinde kapalı kıyafetler giymelidir.
+greet | selamlamak, karşılamak | fiil | In France, friends often greet each other with a kiss on each cheek. | Fransa'da arkadaşlar birbirini genellikle her yanaktan bir öpücükle selamlar.
+## Yurt dışında yaşamak
+overseas | yurt dışında, denizaşırı | zarf | Camille has lived overseas for six years and speaks four languages. | Camille altı yıldır yurt dışında yaşıyor ve dört dil konuşuyor.
+expat | gurbetçi, yurt dışında yaşayan | isim | There is a large community of expats in this part of the city. | Şehrin bu kısmında büyük bir gurbetçi topluluğu var.
+homesick | sıla hasreti çeken | sıfat | During his first winter in Moscow, Ali felt very homesick. | Moskova'daki ilk kışında Ali büyük bir memleket özlemi çekti.
+residence permit | oturma izni | isim | You need a residence permit if you want to stay longer than a year. | Bir yıldan uzun kalmak istiyorsan oturma iznine ihtiyacın var.
+work permit | çalışma izni | isim | Anna needed a work permit before she could start her job in Australia. | Anna Avustralya'daki işine başlamadan önce çalışma iznine ihtiyaç duydu.
+foreigner | yabancı | isim | As a foreigner, I found the local bureaucracy quite confusing. | Bir yabancı olarak yerel bürokrasiyi oldukça kafa karıştırıcı buldum.
+native | yerli; anadili olan | sıfat | It is easier to learn the local slang if you live with native speakers. | O dili anadili olarak konuşanlarla yaşarsan yerel argoyu öğrenmek daha kolaydır.
+fit in | ortama ayak uydurmak | phrasal verb | Yuki was worried that she wouldn't fit in at her new office in Toronto. | Yuki Toronto'daki yeni ofisinde ortama ayak uyduramayacağından endişeleniyordu.
+emigrate | göç etmek (başka ülkeye) | fiil | His grandparents emigrated to New Zealand in the 1960s. | Büyükanne ve büyükbabası 1960'larda Yeni Zelanda'ya göç etti.
+integrate | uyum sağlamak, kaynaşmak | fiil | Learning the language helps newcomers integrate into society. | Dili öğrenmek yeni gelenlerin topluma kaynaşmasına yardımcı olur.
+## Seyahat deneyimleri
+backpacker | sırt çantalı gezgin | isim | Thousands of backpackers travel around Southeast Asia every year. | Her yıl binlerce sırt çantalı gezgin Güneydoğu Asya'yı dolaşıyor.
+gap year | ara yıl (okuldan sonra) | isim | Lukas spent his gap year travelling around South America. | Lukas ara yılını Güney Amerika'yı gezerek geçirdi.
+cruise | gemi turu, kruvaziyer | isim | My parents went on a cruise around the Mediterranean for their anniversary. | Annemle babam evlilik yıl dönümleri için Akdeniz'de bir gemi turuna çıktı.
+trek | uzun ve zorlu yürüyüş | isim | The trek to the mountain village took us almost two days. | Dağ köyüne yürüyüş neredeyse iki günümüzü aldı.
+safari | safari | isim | On our safari in Tanzania, we saw lions, elephants and giraffes. | Tanzanya'daki safarimizde aslanlar, filler ve zürafalar gördük.
+remote | uzak, ıssız | sıfat | We stayed in a remote village with no internet connection. | İnternet bağlantısı olmayan ıssız bir köyde kaldık.
+unforgettable | unutulmaz | sıfat | Watching the northern lights in Iceland was an unforgettable experience. | İzlanda'da kuzey ışıklarını izlemek unutulmaz bir deneyimdi.
+adventure | macera | isim | Climbing the volcano was the biggest adventure of our holiday. | Yanardağa tırmanmak tatilimizin en büyük macerasıydı.
+explore | keşfetmek, gezmek | fiil | We rented bikes to explore the countryside around Oxford. | Oxford'un çevresindeki kırsal bölgeyi keşfetmek için bisiklet kiraladık.
+wanderlust | gezme tutkusu | isim | Her wanderlust has taken her to more than forty countries. | Gezme tutkusu onu kırktan fazla ülkeye götürdü.
+## Seyahat fiilleri ve ifadeleri
+head for | -e doğru yola koyulmak | phrasal verb | After breakfast, we headed for the coast in our rented car. | Kahvaltıdan sonra kiralık arabamızla kıyıya doğru yola koyulduk.
+touch down | (uçak) yere inmek, iniş yapmak | phrasal verb | Our plane finally touched down in Lisbon just after midnight. | Uçağımız sonunda gece yarısından hemen sonra Lizbon'a indi.
+see off | yolcu etmek, uğurlamak | phrasal verb | The whole family came to the station to see us off. | Bütün aile bizi uğurlamak için istasyona geldi.
+pick up | (birini) almak | phrasal verb | Can you pick me up from the airport at nine tonight? | Bu gece saat dokuzda beni havalimanından alabilir misin?
+drop off | (birini bir yere) bırakmak | phrasal verb | The taxi dropped us off right in front of the hotel. | Taksi bizi otelin tam önüne bıraktı.
+get away | kaçamak yapmak, tatile gitmek | phrasal verb | We need to get away from the city for a few days. | Birkaç günlüğüne şehirden kaçamak yapmamız gerek.
+stop over | (yolda) birkaç gün mola vermek | phrasal verb | On the way to Australia, we stopped over in Singapore for two nights. | Avustralya yolunda iki gece Singapur'da mola verdik.
+catch a flight | uçağa yetişmek | ifade | We have to leave now if we want to catch our flight. | Uçağımıza yetişmek istiyorsak şimdi çıkmalıyız.
+off the beaten track | turistik olmayan, kuytu yerlerde | deyim | We prefer places off the beaten track, away from the big crowds. | Büyük kalabalıklardan uzak, turistik olmayan yerleri tercih ediyoruz.
+travel light | az eşyayla seyahat etmek | ifade | I always travel light and take only one small backpack. | Ben her zaman az eşyayla seyahat ederim ve yalnızca küçük bir sırt çantası alırım.

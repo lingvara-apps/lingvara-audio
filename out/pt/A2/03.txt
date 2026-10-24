@@ -1,0 +1,111 @@
+# UNIT: Saúde | Médico, sintomas, farmácia, emergência
+## No médico
+appointment | consulta (marcada), hora marcada | Tenho consulta às dez horas.
+patient | paciente | O paciente está esperando lá fora.
+examine | examinar | O médico examinou minha garganta.
+prescription | receita (médica) | Você precisa de receita para este remédio.
+treatment | tratamento | O tratamento dura duas semanas.
+check-up | check-up, exame de rotina | Faço check-up todo ano.
+clinic | clínica | A clínica abre às oito.
+waiting room | sala de espera | A sala de espera estava lotada hoje.
+blood test | exame de sangue | A enfermeira fez um exame de sangue.
+family doctor | médico de família, clínico geral | Meu médico de família me conhece bem.
+## Sintomas
+symptom | sintoma | Quais são os seus sintomas?
+fever | febre | A criança está com febre alta.
+cough | tossir; tosse | Ele tossiu a noite toda.
+sore throat | dor de garganta | Estou com dor de garganta.
+runny nose | nariz escorrendo, coriza | A Anna está com o nariz escorrendo hoje.
+sneeze | espirrar | A poeira me faz espirrar.
+dizzy | tonto | Fico tonto quando me levanto.
+toothache | dor de dente | O Omar foi ao dentista com dor de dente.
+earache | dor de ouvido | Meu filho está com dor de ouvido.
+stomachache | dor de estômago, dor de barriga | Comi demais e fiquei com dor de barriga.
+## Doenças
+flu | gripe | Metade da turma está gripada.
+catch a cold | pegar um resfriado, resfriar-se | Peguei um resfriado na chuva.
+infection | infecção | O médico disse que é uma infecção no ouvido.
+allergy | alergia | Você tem alguma alergia?
+allergic | alérgico | A Sofia é alérgica a castanhas.
+virus | vírus | É só um vírus, não se preocupe tanto.
+disease | doença (médica) | Doenças do coração são muito comuns.
+illness | enfermidade, problema de saúde | Ela faltou ao trabalho por motivo de saúde.
+asthma | asma | O Lukas sempre leva consigo a bombinha de asma.
+food poisoning | intoxicação alimentar | Ele teve intoxicação alimentar por causa de peixe estragado.
+## Na farmácia
+pharmacy | farmácia | Tem alguma farmácia aqui perto?
+pharmacist | farmacêutico | Peça orientação ao farmacêutico.
+pill | pílula | Tome uma pílula depois de cada refeição.
+tablet | comprimido | Estes comprimidos ajudam com a dor.
+painkiller | analgésico, remédio para dor | Tomei um analgésico para as costas.
+syrup | xarope | Este xarope para tosse tem um gosto horrível.
+cream | creme, pomada | Passe este creme na pele duas vezes por dia.
+plaster | curativo adesivo, band-aid | Preciso de um band-aid para o dedo.
+bandage | atadura, faixa | A enfermeira pôs uma atadura no joelho dele.
+side effect | efeito colateral | Este remédio não tem efeitos colaterais graves.
+## Ferimentos
+injury | lesão, ferimento | É só uma lesão pequena.
+injure | ferir, machucar | Duas pessoas ficaram feridas no acidente.
+wound | ferida (aberta) | Limpe a ferida com água.
+bleed (bled, bled) | sangrar | Seu nariz está sangrando!
+bruise | hematoma, roxo | Estou com um roxo enorme na perna.
+burn (burnt, burnt) | queimar; queimadura | Queimei a mão no forno.
+swollen | inchado | Meu tornozelo inchou depois do jogo.
+fall over | cair, levar um tombo | O Emre levou um tombo no gelo.
+sprain | torcer (uma articulação) | Ela torceu o pulso jogando tênis.
+scar | cicatriz | Ele tem uma cicatriz no queixo.
+## Emergência
+emergency | emergência | Em caso de emergência, ligue para o 999.
+ambulance | ambulância | A ambulância chegou em cinco minutos.
+accident | acidente | Houve um acidente na rodovia.
+first aid | primeiros socorros | A Maria sabe primeiros socorros.
+paramedic | paramédico, socorrista | Os socorristas ajudaram o senhor idoso.
+unconscious | inconsciente, desacordado | O motorista estava inconsciente.
+breathe | respirar | Respire devagar e fique calmo.
+faint | desmaiar | Ela desmaiou por causa do calor.
+rescue | resgatar, salvar | Os bombeiros resgataram a família.
+stretcher | maca | Eles o levaram para fora numa maca.
+## No hospital
+ward | enfermaria, ala (de hospital) | Minha avó está na enfermaria seis.
+operation | cirurgia, operação | A cirurgia correu muito bem.
+surgeon | cirurgião | O cirurgião conversou com a família.
+injection | injeção | Tenho medo de injeção.
+x-ray | raio-x, radiografia | O raio-x mostra um osso quebrado.
+stitches | pontos (de sutura) | Ele precisou levar cinco pontos.
+wheelchair | cadeira de rodas | O hospital deu a ele uma cadeira de rodas.
+crutches | muletas | O Diego agora anda de muletas.
+recover | recuperar-se, sarar | Ela se recuperou rápido depois da cirurgia.
+visiting hours | horário de visita | O horário de visita termina às oito.
+## Vida saudável
+diet | alimentação; dieta | Uma alimentação saudável inclui muitos legumes e verduras.
+work out | malhar, treinar | Malho três vezes por semana.
+vitamin | vitamina | A laranja é cheia de vitamina C.
+fit | em forma | A Yuki se mantém em forma nadando.
+lose weight | perder peso, emagrecer | Ele quer emagrecer antes do verão.
+put on weight | ganhar peso, engordar | Engordei nas férias.
+smoke | fumar | Meu pai parou de fumar no ano passado.
+stress | estresse | Estresse demais faz mal à saúde.
+balanced | equilibrado | Tente tomar um café da manhã equilibrado.
+fresh air | ar fresco, ar puro | Vamos sair e tomar um ar fresco.
+## Por dentro do corpo
+lung | pulmão | Fumar prejudica os pulmões.
+brain | cérebro | O sono é importante para o cérebro.
+bone | osso | Leite faz bem para os ossos.
+skin | pele | Proteja sua pele do sol.
+blood | sangue | Tinha sangue na camisa dele.
+muscle | músculo | Meus músculos doem depois da academia.
+chest | peito | Estou com uma dor no peito.
+ankle | tornozelo | O Ali torceu o tornozelo.
+wrist | pulso | Ela usa relógio no pulso esquerdo.
+elbow | cotovelo | Bati o cotovelo na porta.
+## Conversando com o médico
+what's the matter? | o que você tem?; qual é o problema? | O que você tem? Você está pálido.
+I don't feel well | não estou me sentindo bem | Não estou me sentindo bem, vou para casa.
+it hurts | dói, está doendo | Dói quando eu ando.
+get better | melhorar, ficar bom | Espero que você melhore logo.
+get well soon | melhoras! | Melhoras, Camille!
+lie down (lay, lain) | deitar-se | Deite-se aqui, por favor.
+take your temperature | medir a temperatura | A enfermeira vai medir sua temperatura.
+be off sick | estar afastado por doença | O Tom está afastado por doença hoje.
+sick note | atestado médico | Meu chefe pediu um atestado médico.
+bless you | saúde! (quando alguém espirra) | Atchim! Saúde!

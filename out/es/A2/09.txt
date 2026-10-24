@@ -1,0 +1,111 @@
+# UNIT: Servicios y compras | Banco, envíos, peluquería, ropa
+## En el banco
+bank account | cuenta bancaria | Quiero abrir una cuenta bancaria.
+cash machine | cajero automático | ¿Hay un cajero automático por aquí?
+withdraw (withdrew, withdrawn) | retirar, sacar (dinero) | Necesito sacar algo de dinero.
+coin | moneda | Necesito unas monedas para el parquímetro.
+loan | préstamo, crédito | Pidieron un préstamo para comprar una casa.
+balance | saldo | Puedes consultar tu saldo por internet.
+exchange rate | tipo de cambio | ¿Cuál es el tipo de cambio de hoy?
+banknote | billete | El cajero solo da billetes de veinte euros.
+transfer | transferir | ¿Puedes transferir el dinero hoy?
+savings | ahorros | Guarda sus ahorros en el banco.
+## Envíos y correo
+parcel | paquete | Esta mañana llegó un paquete para ti.
+postcode | código postal | ¿Cuál es tu código postal?
+envelope | sobre | Mete la carta en un sobre.
+stamp | sello, estampilla | Necesito dos sellos para estas cartas.
+deliver | entregar, llevar a domicilio | Llevan pizza a domicilio hasta medianoche.
+delivery | entrega, envío | El envío es gratis en pedidos de más de treinta libras.
+courier | mensajero, repartidor | El mensajero está esperando en la puerta.
+sender | remitente | El nombre del remitente no está en la caja.
+receive | recibir | ¿Recibiste mi carta?
+track | rastrear, seguir (un envío) | Puedes rastrear tu paquete por internet.
+## En la peluquería
+hairdresser | peluquero | Mi peluquera es muy buena con el pelo rizado.
+barber | barbero | Omar va al barbero cada dos semanas.
+haircut | corte de pelo | Necesito cortarme el pelo.
+fringe | flequillo | Quisiera el flequillo más corto, por favor.
+dye | teñir (el pelo) | Sofia se tiñó el pelo de rojo.
+shave | afeitarse; afeitar | Se afeita todas las mañanas.
+hairbrush | cepillo para el pelo | Maria se compró un cepillo para el pelo nuevo.
+trim | recortar, cortar las puntas | Solo córteme las puntas, por favor.
+blow-dry | secar con secador, marcar | ¿Me puede secar el pelo con el secador?
+hairstyle | peinado | ¿Te gusta mi nuevo peinado?
+## Servicios
+dry cleaner's | tintorería | Llevaré mi traje a la tintorería.
+launderette | lavandería (de autoservicio) | Hay una lavandería en la esquina.
+locksmith | cerrajero | Perdí las llaves, así que llamé a un cerrajero.
+tailor | sastre | El sastre me acortó los pantalones.
+customer | cliente | La tienda tiene muchos clientes habituales.
+opening hours | horario de apertura | ¿Cuál es el horario de apertura del sábado?
+optician | óptico, óptica | Necesito gafas nuevas, así que voy a la óptica.
+photocopy | fotocopia | ¿Me puede hacer una fotocopia de esta página?
+florist | florista, floristería | Emre compró rosas en la floristería.
+staff | personal, empleados | El personal de aquí es muy atento.
+## La línea de teléfono
+voicemail | buzón de voz | Esta mañana te dejé un mensaje en el buzón de voz.
+top up | recargar (saldo) | Tengo que recargar el saldo del móvil.
+signal | señal, cobertura | En las montañas no hay cobertura.
+data | datos móviles | Este mes ya no me quedan datos.
+bill | factura | La factura del teléfono es demasiado alta este mes.
+monthly | mensual | El precio mensual es de quince dólares.
+unlimited | ilimitado | Tengo llamadas y mensajes ilimitados.
+roaming | roaming, itinerancia | Desactiva el roaming cuando viajes.
+tariff | tarifa, plan | Esta tarifa es más barata para estudiantes.
+text | enviar un mensaje | Mándame un mensaje cuando llegues a casa.
+## En el centro comercial
+shopping centre | centro comercial | El nuevo centro comercial abre el lunes.
+escalator | escalera mecánica | Sube por la escalera mecánica a la segunda planta.
+department store | grandes almacenes, tienda departamental | En estos grandes almacenes encuentras de todo.
+changing room | probador | ¿Dónde están los probadores?
+food court | zona de restaurantes, patio de comidas | Quedemos en la zona de restaurantes.
+bargain | ganga, chollo | Esta chaqueta fue una auténtica ganga.
+shopping bag | bolsa de la compra | Omar lleva tres bolsas de la compra pesadas.
+car park | aparcamiento, estacionamiento | El aparcamiento está lleno otra vez.
+window shopping | mirar escaparates, ver vitrinas | El sábado fuimos a mirar escaparates.
+trolley | carrito de la compra | ¿Puedes coger un carrito, por favor?
+## Pagos
+receipt | recibo, tique | Guarde el recibo, por favor.
+change | cambio, vuelto | Aquí tiene su cambio.
+contactless | sin contacto | ¿Puedo pagar sin contacto?
+refund | reembolso, devolución del dinero | Quisiera un reembolso por estos zapatos.
+instalment | plazo, cuota | Pagamos el sofá en seis plazos.
+afford | poder permitirse | No puedo permitirme un coche nuevo.
+owe | deber (dinero) | Te debo diez dólares.
+tip | propina | Le dejamos propina al camarero.
+price tag | etiqueta del precio | Este bolso no tiene etiqueta del precio.
+total | total, importe total | El total son cuarenta y cinco libras.
+## Ropa 2
+blouse | blusa | Maria lleva una blusa blanca.
+cardigan | chaqueta de punto, cárdigan | Llévate una chaqueta de punto, por la noche hace frío.
+waistcoat | chaleco | Llevó chaleco a la boda.
+tracksuit | chándal, conjunto deportivo | En casa llevo chándal.
+pyjamas | pijama | Los niños ya tienen puesto el pijama.
+swimsuit | traje de baño, bañador | ¡No olvides el traje de baño!
+tights | medias, pantis | Se compró unas medias negras para el invierno.
+trainers | zapatillas deportivas, tenis | Estas zapatillas deportivas son muy cómodas.
+sandals | sandalias | En verano solo llevo sandalias.
+slippers | pantuflas | Ponte las pantuflas, el suelo está frío.
+## Telas y estampados
+cotton | algodón | Esta camisa es de algodón.
+wool | lana | Un jersey de lana te mantiene caliente.
+silk | seda | Le regalaron un pañuelo de seda.
+leather | cuero, piel | Quiero una chaqueta de cuero.
+denim | tela vaquera, mezclilla | Las chaquetas vaqueras nunca pasan de moda.
+striped | de rayas | Lleva una camisa azul de rayas.
+checked | de cuadros | Me encanta tu falda de cuadros.
+spotted | de lunares | El bebé tiene un gorro de lunares.
+plain | liso, sin estampado | Prefiero las camisetas lisas.
+pattern | estampado, diseño | El estampado de este vestido es precioso.
+## Frases en la tienda
+try on | probarse (ropa) | ¿Puedo probarme este vestido?
+baggy | holgado, ancho | Le gusta llevar pantalones anchos.
+suit | quedar bien, sentar bien | Ese color te queda muy bien.
+go with (went, gone) | combinar con, ir con | ¿Este cinturón combina con mis zapatos?
+in stock | disponible, en existencia | ¿Tienen este modelo disponible?
+out of stock | agotado | Lo siento, esa talla está agotada.
+just looking | solo estoy mirando | No, gracias, solo estoy mirando.
+exchange | cambiar (un producto) | ¿Puedo cambiar esta camisa por una más grande?
+loose | suelto, flojo | Estos pantalones me quedan demasiado sueltos.
+tight | ajustado, apretado | Los zapatos me aprietan un poco.

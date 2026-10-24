@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Yollar
+motorway | otoyol | isim | The motorway was closed after a lorry lost its load. | Bir tır yükünü düşürünce otoyol kapatıldı.
+dual carriageway | bölünmüş yol | isim | The speed limit on this dual carriageway is seventy miles per hour. | Bu bölünmüş yolda hız sınırı saatte yetmiş mil.
+junction | kavşak | isim | Turn left at the next junction and park near the bakery. | Bir sonraki kavşaktan sola dön ve fırının yakınına park et.
+roundabout | göbekli kavşak; döner kavşak | isim | Take the second exit at the roundabout. | Döner kavşaktan ikinci çıkışa gir.
+lane | şerit; dar yol | isim | Stay in the left lane unless you are overtaking. | Sollamıyorsan sol şeritte kal.
+hard shoulder | emniyet şeridi | isim | Only stop on the hard shoulder in an emergency. | Emniyet şeridinde sadece acil durumda dur.
+bypass | çevre yolu | isim | The new bypass takes heavy traffic away from the town centre. | Yeni çevre yolu ağır trafiği şehir merkezinden uzaklaştırıyor.
+slip road | bağlantı yolu (otoyol giriş ve çıkışı) | isim | Speed up on the slip road before you join the motorway. | Otoyola girmeden önce bağlantı yolunda hızlan.
+flyover | üst geçit; köprülü kavşak | isim | A new flyover was built to reduce queues at the junction. | Kavşaktaki kuyrukları azaltmak için yeni bir köprülü kavşak yapıldı.
+toll | geçiş ücreti | isim | We paid a small toll to cross the bridge. | Köprüden geçmek için küçük bir geçiş ücreti ödedik.
+## Sürüş
+overtake (overtook, overtaken) | sollamak | fiil · düzensiz | Never overtake on a bend where you can't see ahead. | Önünü göremediğin bir virajda asla sollama.
+accelerate | hızlanmak | fiil | The car accelerated quickly as soon as the light turned green. | Işık yeşile döner dönmez araba hemen hızlandı.
+brake | fren yapmak | fiil | I had to brake hard when a cat ran into the road. | Yola bir kedi fırlayınca sert fren yapmak zorunda kaldım.
+reverse | geri geri gitmek | fiil | She reversed slowly out of the narrow garage. | Dar garajdan yavaşça geri geri çıktı.
+indicate | sinyal vermek | fiil | Always indicate before you change lanes. | Şerit değiştirmeden önce her zaman sinyal ver.
+swerve | direksiyon kırmak; aniden yön değiştirmek | fiil | The driver swerved to avoid a fox on the road. | Sürücü yoldaki bir tilkiye çarpmamak için direksiyon kırdı.
+skid | kaymak (araç) | fiil | The van skidded on the icy road and hit a fence. | Kamyonet buzlu yolda kayıp bir çite çarptı.
+merge | (trafiğe) katılmak; birleşmek | fiil | Two lanes merge into one just after the tunnel. | Tünelin hemen ardından iki şerit bire iniyor.
+tailgate | (öndeki araca) çok yakın sürmek | fiil | It's dangerous to tailgate, especially in wet weather. | Özellikle yağışlı havada öndeki araca yapışarak sürmek tehlikelidir.
+give way | yol vermek | ifade | You must give way to traffic coming from the right. | Sağdan gelen trafiğe yol vermelisin.
+## Araç parçaları
+windscreen | ön cam | isim | A small stone cracked the windscreen on the motorway. | Otoyolda küçük bir taş ön camı çatlattı.
+bonnet | kaput | isim | The mechanic lifted the bonnet and checked the engine. | Tamirci kaputu kaldırıp motoru kontrol etti.
+boot | bagaj | isim | Put the suitcases in the boot, please. | Bavulları bagaja koy, lütfen.
+steering wheel | direksiyon | isim | Keep both hands on the steering wheel while you drive. | Araba sürerken iki elini de direksiyonda tut.
+dashboard | gösterge paneli | isim | Suddenly, a red warning light on the dashboard came on. | Gösterge panelindeki kırmızı bir uyarı ışığı aniden yandı.
+bumper | tampon | isim | Someone scratched the back bumper in the car park. | Otoparkta biri arka tamponu çizmiş.
+exhaust | egzoz | isim | Black smoke was coming out of the old bus's exhaust. | Eski otobüsün egzozundan siyah duman çıkıyordu.
+tyre | lastik (araç) | isim | Check your tyres before a long journey. | Uzun bir yolculuktan önce lastiklerini kontrol et.
+headlight | far | isim | One of my headlights isn't working. | Farlarımdan biri çalışmıyor.
+gearbox | vites kutusu; şanzıman | isim | Repairing the gearbox will cost more than the car is worth. | Vites kutusunu tamir etmek arabanın değerinden fazlaya mal olacak.
+## Trafik kuralları
+speed limit | hız sınırı | isim | The speed limit near schools is twenty miles per hour. | Okulların yakınında hız sınırı saatte yirmi mildir.
+learner driver | acemi sürücü; ehliyet adayı | isim | Learner drivers must be accompanied by an experienced driver. | Ehliyet adaylarına deneyimli bir sürücünün eşlik etmesi gerekir.
+speeding ticket | hız cezası | isim | Emre got a speeding ticket on his way to the airport. | Emre havalimanına giderken hız cezası yedi.
+drink-driving | alkollü araç kullanma | isim | Drink-driving is one of the main causes of serious accidents. | Alkollü araç kullanmak ciddi kazaların başlıca nedenlerinden biridir.
+traffic warden | trafik görevlisi (park denetçisi) | isim | A traffic warden was checking cars in the high street. | Ana caddede bir trafik görevlisi arabaları kontrol ediyordu.
+number plate | plaka | isim | The camera recorded the car's number plate. | Kamera arabanın plakasını kaydetti.
+right of way | geçiş üstünlüğü | isim | Buses have right of way when leaving a bus stop here. | Burada otobüsler duraktan çıkarken geçiş üstünlüğüne sahiptir.
+pedestrian crossing | yaya geçidi | isim | Slow down when you see a pedestrian crossing ahead. | Önünde bir yaya geçidi gördüğünde yavaşla.
+penalty points | ceza puanı | isim (çoğul) | If you get twelve penalty points, you lose your licence. | On iki ceza puanı alırsan ehliyetini kaybedersin.
+driving test | sürücü sınavı | isim | Maria passed her driving test on the third attempt. | Maria sürücü sınavını üçüncü denemede geçti.
+## Trafik sorunları
+congestion | trafik sıkışıklığı | isim | Congestion in the city centre gets worse every year. | Şehir merkezindeki trafik sıkışıklığı her yıl kötüleşiyor.
+gridlock | kilitlenme (trafik) | isim | The storm caused total gridlock on the roads out of town. | Fırtına şehirden çıkan yollarda tam bir kilitlenmeye yol açtı.
+tailback | araç kuyruğu | isim | There is a five-mile tailback after the accident. | Kazanın ardından beş millik bir araç kuyruğu var.
+roadworks | yol çalışması | isim (çoğul) | Roadworks on the main road will continue until March. | Ana yoldaki yol çalışmaları marta kadar sürecek.
+diversion | alternatif güzergâh; yön değişikliği | isim | Follow the yellow signs for the diversion. | Alternatif güzergâh için sarı tabelaları takip edin.
+bottleneck | darboğaz | isim | The old bridge is a bottleneck for traffic every morning. | Eski köprü her sabah trafik için bir darboğaz oluyor.
+collision | çarpışma | isim | Two cyclists were injured in a collision with a van. | İki bisikletli, bir kamyonetle çarpışarak yaralandı.
+pile-up | zincirleme kaza | isim | Fog led to a huge pile-up involving twenty cars. | Sis, yirmi aracın karıştığı büyük bir zincirleme kazaya yol açtı.
+standstill | durma noktası | isim | Traffic came to a complete standstill near the stadium. | Stadyumun yakınında trafik tamamen durma noktasına geldi.
+road rage | trafik öfkesi; trafik kavgası | isim | Road rage often starts with a small mistake by another driver. | Trafik öfkesi çoğu zaman başka bir sürücünün küçük bir hatasıyla başlar.
+## Toplu taşıma
+commuter | işe gidip gelen kişi | isim | The early train is always full of tired commuters. | Sabahın ilk treni her zaman işe giden yorgun insanlarla dolu.
+fare | bilet ücreti | isim | Bus fares will rise by ten percent next year. | Otobüs bilet ücretleri gelecek yıl yüzde on artacak.
+season ticket | abonman kartı; sezonluk bilet | isim | A season ticket is much cheaper if you travel every day. | Her gün yolculuk ediyorsan abonman çok daha ucuza gelir.
+ticket barrier | bilet turnikesi | isim | Insert your ticket at the ticket barrier to get onto the platform. | Perona girmek için biletini turnikeye sok.
+terminus | son durak | isim | This bus doesn't stop until it reaches the terminus. | Bu otobüs son durağa varana kadar durmuyor.
+interchange | aktarma noktası | isim | The station is a major interchange for buses and trains. | İstasyon otobüsler ve trenler için önemli bir aktarma noktası.
+shuttle | servis aracı; ring | isim | A free shuttle runs between the hotel and the airport. | Otelle havalimanı arasında ücretsiz bir servis çalışıyor.
+off-peak | yoğun saat dışı | sıfat | Off-peak tickets are only valid after half past nine. | Yoğun saat dışı biletler yalnızca dokuz buçuktan sonra geçerlidir.
+overcrowded | aşırı kalabalık | sıfat | The trains are overcrowded during the summer festival. | Yaz festivali boyunca trenler aşırı kalabalık oluyor.
+fare dodger | kaçak yolcu; bilet almayan yolcu | isim | The inspector caught three fare dodgers on the evening train. | Kontrolör akşam treninde üç kaçak yolcu yakaladı.
+## Araç türleri
+lorry | kamyon; tır | isim | A lorry was blocking the narrow street for an hour. | Bir kamyon dar sokağı bir saat boyunca kapattı.
+moped | moped; mobilet | isim | Camille rides a moped to work because it is cheap to run. | Camille masrafı az olduğu için işe mopedle gidiyor.
+hatchback | hatchback araba | isim | A small hatchback is ideal for driving in the city. | Şehirde sürmek için küçük bir hatchback ideal.
+convertible | üstü açılır araba | isim | They drove along the coast in a red convertible. | Kırmızı üstü açılır bir arabayla sahil boyunca gittiler.
+scooter | skuter; scooter | isim | Many students get around the city on electric scooters. | Birçok öğrenci şehirde elektrikli scooterlarla dolaşıyor.
+estate car | station wagon araba | isim | We need an estate car for the dog and the camping gear. | Köpek ve kamp malzemeleri için station wagon bir arabaya ihtiyacımız var.
+motorhome | karavan (motorlu) | isim | Lukas and Anna travelled around Scotland in a motorhome. | Lukas ile Anna İskoçya'yı bir karavanla gezdi.
+tow truck | çekici | isim | The tow truck took two hours to arrive. | Çekicinin gelmesi iki saat sürdü.
+hybrid | hibrit araç | isim | Our new car is a hybrid, so it uses much less fuel. | Yeni arabamız hibrit, bu yüzden çok daha az yakıt harcıyor.
+minicab | çağrı taksi | isim | It was late, so we ordered a minicab to get home. | Geç olmuştu, bu yüzden eve gitmek için bir çağrı taksi istedik.
+## Yakıt ve arızalar
+petrol station | benzin istasyonu | isim | Let's stop at the next petrol station for a coffee. | Bir kahve için bir sonraki benzin istasyonunda duralım.
+fill up | depoyu doldurmak | phrasal verb | Remember to fill up before we leave the city. | Şehirden çıkmadan önce depoyu doldurmayı unutma.
+unleaded | kurşunsuz | sıfat | This car only takes unleaded petrol. | Bu araba sadece kurşunsuz benzin alıyor.
+diesel | dizel; mazot | isim | Diesel used to be cheaper than petrol in this country. | Bu ülkede mazot eskiden benzinden ucuzdu.
+breakdown | arıza; yolda kalma | isim | We had a breakdown in the middle of nowhere. | Issız bir yerde arabamız arıza yaptı.
+puncture | lastik patlaması; delik | isim | I got a puncture on the way to work this morning. | Bu sabah işe giderken lastiğim patladı.
+jump-start | akü takviyesiyle çalıştırmak | fiil | A kind neighbour helped us jump-start the car. | Nazik bir komşu arabayı akü takviyesiyle çalıştırmamıza yardım etti.
+spare tyre | stepne; yedek lastik | isim | Make sure there's a spare tyre in the boot before you go. | Yola çıkmadan önce bagajda stepne olduğundan emin ol.
+oil change | yağ değişimi | isim | The car needs an oil change every ten thousand miles. | Arabanın her on bin milde bir yağ değişimine ihtiyacı var.
+mileage | kilometre; kat edilen mesafe | isim | The second-hand car had low mileage and a good price. | İkinci el arabanın kilometresi düşük, fiyatı iyiydi.
+## Park ve şehir içi
+loading bay | yükleme alanı | isim | Delivery vans can stop in the loading bay for twenty minutes. | Teslimat kamyonetleri yükleme alanında yirmi dakika durabilir.
+parking meter | park sayacı | isim | The parking meter only accepts coins. | Park sayacı sadece bozuk para kabul ediyor.
+clamp | (araca) kilit takmak | fiil | My car was clamped because I parked in the wrong place. | Yanlış yere park ettiğim için arabama kilit takıldı.
+tow away | (aracı) çekmek | phrasal verb | Cars parked here will be towed away at your expense. | Buraya park edilen araçlar masrafı size ait olmak üzere çekilecektir.
+kerb | kaldırım kenarı; bordür | isim | Don't park too close to the kerb or you'll scratch the wheels. | Bordüre çok yakın park etme, yoksa jantları çizersin.
+cycle lane | bisiklet yolu | isim | The city painted new cycle lanes on every main road. | Belediye her ana yola yeni bisiklet yolları çizdi.
+speed bump | hız kesici; kasis | isim | There are speed bumps all along the school road. | Okul yolu boyunca hız kesiciler var.
+multi-storey | çok katlı (otopark) | sıfat | We left the car on the fifth floor of the multi-storey car park. | Arabayı çok katlı otoparkın beşinci katına bıraktık.
+double yellow lines | park yasağı çizgisi (çift sarı çizgi) | isim (çoğul) | You can't park on double yellow lines at any time. | Çift sarı çizgiye hiçbir zaman park edemezsin.
+pedestrianized | yayalaştırılmış | sıfat | The old town centre has been pedestrianized for ten years. | Eski şehir merkezi on yıldır yayalaştırılmış durumda.
+## Ulaşım ve gelecek
+infrastructure | altyapı | isim | The country is investing heavily in rail infrastructure. | Ülke demiryolu altyapısına büyük yatırım yapıyor.
+car-sharing | araç paylaşımı | isim | Car-sharing helps colleagues save money on long commutes. | Araç paylaşımı, iş arkadaşlarının uzun iş yolculuklarında tasarruf etmesine yardımcı olur.
+congestion charge | trafik sıkışıklığı ücreti; şehir merkezi geçiş ücreti | isim | Drivers pay a congestion charge to enter the centre on weekdays. | Sürücüler hafta içi merkeze girmek için şehir merkezi geçiş ücreti ödüyor.
+emissions | emisyon; salım | isim (çoğul) | Electric buses have helped cut emissions in the city. | Elektrikli otobüsler şehirde emisyonları azaltmaya yardımcı oldu.
+low-emission zone | düşük emisyon bölgesi | isim | Older diesel cars must pay to enter the low-emission zone. | Eski dizel arabalar düşük emisyon bölgesine girmek için ücret ödemeli.
+hitchhike | otostop çekmek | fiil | When he was a student, Omar hitchhiked across Ireland. | Omar öğrenciyken İrlanda'yı otostopla dolaştı.
+satnav | navigasyon cihazı | isim | The satnav sent us down a road that didn't exist. | Navigasyon bizi var olmayan bir yola yönlendirdi.
+road safety | trafik güvenliği | isim | The school organises a road safety lesson every autumn. | Okul her sonbahar bir trafik güvenliği dersi düzenliyor.
+driverless | sürücüsüz | sıfat | Will driverless cars really make our roads safer? | Sürücüsüz arabalar gerçekten yollarımızı daha güvenli hale getirecek mi?
+commute | işe gidip gelmek | fiil | Yuki commutes two hours a day by train and bus. | Yuki trenle ve otobüsle günde iki saat işe gidip geliyor.

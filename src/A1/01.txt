@@ -1,0 +1,111 @@
+# UNIT: Tanışma ve temel ifadeler | Selamlaşma, zamirler, soru kelimeleri
+## Selamlaşma
+hello | merhaba | ünlem | Hello, my name is Anna. | Merhaba, benim adım Anna.
+hi | selam (samimi) | ünlem | Hi, Emre! How are you? | Selam Emre! Nasılsın?
+good morning | günaydın | ifade | Good morning, Mum! | Günaydın anne!
+good afternoon | tünaydın; iyi günler | ifade | Good afternoon, can I help you? | İyi günler, yardımcı olabilir miyim?
+good evening | iyi akşamlar | ifade | Good evening, come in, please. | İyi akşamlar, buyurun girin.
+good night | iyi geceler | ifade | Good night, see you tomorrow. | İyi geceler, yarın görüşürüz.
+goodbye | hoşça kal; güle güle | ünlem | Goodbye, and thank you! | Hoşça kal, teşekkürler!
+bye | görüşürüz (samimi) | ünlem | Bye! Call me later. | Görüşürüz! Sonra beni ara.
+see you later | sonra görüşürüz | ifade | See you later, Ali! | Sonra görüşürüz Ali!
+welcome | hoş geldin; hoş geldiniz | ünlem | Welcome to London! | Londra'ya hoş geldiniz!
+## Nezaket
+please | lütfen | zarf | A tea, please. | Bir çay, lütfen.
+thank you | teşekkür ederim | ifade | Thank you for your help! | Yardımın için teşekkür ederim!
+you're welcome | rica ederim | ifade | You're welcome, Omar! | Rica ederim Omar!
+sorry | özür dilerim; pardon | ünlem | Sorry, I'm late. | Özür dilerim, geç kaldım.
+excuse me | affedersiniz | ifade | Excuse me, where is the station? | Affedersiniz, istasyon nerede?
+yes | evet | zarf | Yes, I understand. | Evet, anlıyorum.
+no | hayır | zarf | No, thank you. | Hayır, teşekkür ederim.
+okay | tamam | ünlem | Okay, let's go! | Tamam, hadi gidelim!
+of course | elbette, tabii ki | ifade | Of course, sit down. | Tabii ki, otur.
+no problem | sorun değil | ifade | No problem, I can wait. | Sorun değil, bekleyebilirim.
+## Tanışma
+name | ad, isim | isim | What is your name? | Adın ne?
+surname | soyadı | isim | My surname is Tanaka. | Soyadım Tanaka.
+my name is | benim adım | ifade | My name is Lukas. | Benim adım Lukas.
+nice to meet you | tanıştığımıza memnun oldum | ifade | Nice to meet you, Maria. | Tanıştığımıza memnun oldum Maria.
+how are you | nasılsın; nasılsınız | ifade | How are you today? | Bugün nasılsın?
+fine | iyi | sıfat | I am fine, thanks. | İyiyim, teşekkürler.
+not bad | fena değil | ifade | Not bad, and you? | Fena değil, ya sen?
+and you | ya sen; ya siz | ifade | I'm fine. And you? | İyiyim. Ya sen?
+this is | bu ... (tanıştırırken) | ifade | This is my friend Yuki. | Bu arkadaşım Yuki.
+introduce | tanıştırmak | fiil | Let me introduce my sister. | Kız kardeşimi tanıştırayım.
+## Kişi zamirleri
+I | ben | zamir | I am a student. | Ben öğrenciyim.
+you | sen; siz | zamir | You are very kind. | Sen çok naziksin.
+he | o (erkek) | zamir | He is from Spain. | O İspanyalı.
+she | o (kadın) | zamir | She is my teacher. | O benim öğretmenim.
+it | o (cansız, hayvan) | zamir | It is a big house. | Bu büyük bir ev.
+we | biz | zamir | We are friends. | Biz arkadaşız.
+they | onlar | zamir | They live in Paris. | Onlar Paris'te yaşıyor.
+me | beni; bana | zamir | Can you help me? | Bana yardım edebilir misin?
+him | onu; ona (erkek) | zamir | I know him. | Onu tanıyorum.
+us | bizi; bize | zamir | Come with us! | Bizimle gel!
+## Nesne ve iyelik zamirleri
+them | onları; onlara | zamir | I see them every day. | Onları her gün görüyorum.
+my | benim | zamir | This is my bag. | Bu benim çantam.
+your | senin; sizin | zamir | Is this your phone? | Bu senin telefonun mu?
+his | onun (erkek) | zamir | His name is Omar. | Onun adı Omar.
+her | onun (kadın); onu (kadın) | zamir | Her sister is a doctor. | Onun kız kardeşi doktor.
+its | onun (cansız, hayvan) | zamir | The dog likes its toy. | Köpek oyuncağını seviyor.
+our | bizim | zamir | Our house is small. | Bizim evimiz küçük.
+their | onların | zamir | Their car is red. | Onların arabası kırmızı.
+mine | benimki | zamir | This coffee is mine. | Bu kahve benimki.
+yours | seninki; sizinki | zamir | Is this pen yours? | Bu kalem seninki mi?
+## Soru kelimeleri
+what | ne | zamir | What is this? | Bu ne?
+who | kim | zamir | Who is that man? | O adam kim?
+where | nerede; nereye | zarf | Where do you live? | Nerede yaşıyorsun?
+when | ne zaman | zarf | When is the lesson? | Ders ne zaman?
+why | neden, niçin | zarf | Why are you sad? | Neden üzgünsün?
+how | nasıl | zarf | How do you say this? | Bu nasıl söylenir?
+which | hangi; hangisi | zamir | Which bag is yours? | Hangi çanta seninki?
+whose | kimin | zamir | Whose book is this? | Bu kimin kitabı?
+how much | ne kadar (sayılamayan) | ifade | How much is this? | Bu ne kadar?
+how many | kaç tane | ifade | How many children do you have? | Kaç çocuğun var?
+## Ülkeler ve diller
+country | ülke | isim | Which country are you from? | Hangi ülkedensin?
+nationality | milliyet, uyruk | isim | What is your nationality? | Uyruğun ne?
+language | dil | isim | I speak two languages. | İki dil konuşuyorum.
+Türkiye | Türkiye | isim | Emre lives in Türkiye. | Emre Türkiye'de yaşıyor.
+Turkish | Türk; Türkçe | sıfat | I am Turkish. | Ben Türk'üm.
+England | İngiltere | isim | London is in England. | Londra İngiltere'de.
+English | İngiliz; İngilizce | sıfat | Do you speak English? | İngilizce konuşuyor musun?
+the United States | Amerika Birleşik Devletleri | isim | Diego works in the United States. | Diego ABD'de çalışıyor.
+American | Amerikalı | sıfat | Her husband is American. | Kocası Amerikalı.
+be from | -li olmak; -den gelmek | ifade | I am from Istanbul. | Ben İstanbulluyum.
+## Kişisel bilgiler
+address | adres | isim | What is your address? | Adresin ne?
+phone number | telefon numarası | isim | Can I have your phone number? | Telefon numaranı alabilir miyim?
+email | e-posta | isim | Send me an email. | Bana bir e-posta gönder.
+age | yaş | isim | Write your name and age. | Adını ve yaşını yaz.
+years old | yaşında | ifade | I am twenty years old. | Yirmi yaşındayım.
+married | evli | sıfat | Are you married? | Evli misin?
+single | bekâr | sıfat | No, I am single. | Hayır, bekârım.
+student | öğrenci | isim | Sofia is a student. | Sofia bir öğrenci.
+hometown | memleket | isim | My hometown is Izmir. | Memleketim İzmir.
+form | form | isim | Please fill in this form. | Lütfen bu formu doldurun.
+## Sınıfta
+understand (understood, understood) | anlamak | fiil · düzensiz | I don't understand. | Anlamıyorum.
+repeat | tekrar etmek | fiil | Can you repeat that, please? | Tekrar eder misiniz lütfen?
+speak (spoke, spoken) | konuşmak | fiil · düzensiz | Please speak slowly. | Lütfen yavaş konuşun.
+slowly | yavaşça | zarf | She talks very slowly. | Çok yavaş konuşuyor.
+again | tekrar, yine | zarf | Say it again, please. | Lütfen tekrar söyle.
+mean (meant, meant) | anlamına gelmek; kastetmek | fiil · düzensiz | What does this word mean? | Bu kelime ne anlama geliyor?
+word | kelime | isim | I learn ten words a day. | Günde on kelime öğreniyorum.
+question | soru | isim | Can I ask a question? | Bir soru sorabilir miyim?
+answer | cevap; cevaplamak | isim | I know the answer! | Cevabı biliyorum!
+spell | harf harf söylemek, hecelemek | fiil | How do you spell your name? | Adın nasıl yazılıyor?
+## Küçük ama önemli kelimeler
+this | bu | zamir | This is my brother. | Bu benim erkek kardeşim.
+that | şu, o | zamir | Is that your car? | Şu senin araban mı?
+these | bunlar | zamir | These are my keys. | Bunlar benim anahtarlarım.
+those | şunlar, onlar | zamir | Those shoes are nice. | Şu ayakkabılar güzel.
+here | burada; buraya | zarf | Come here, please. | Buraya gel lütfen.
+there | orada; oraya | zarf | My school is there. | Okulum orada.
+very | çok | zarf | It is very cold. | Hava çok soğuk.
+maybe | belki | zarf | Maybe I can come tomorrow. | Belki yarın gelebilirim.
+too | de, da; fazla | zarf | I like tea too. | Ben de çay severim.
+together | birlikte | zarf | Let's eat together. | Hadi birlikte yiyelim.

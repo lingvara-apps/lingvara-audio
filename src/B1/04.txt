@@ -1,0 +1,111 @@
+# UNIT: Medya ve haberler | Basın, TV, sosyal medya, bilgi
+## Gazete ve basın
+the press | basın | isim | The press waited outside the hotel all afternoon. | Basın bütün öğleden sonra otelin önünde bekledi.
+readership | okur kitlesi | isim | The magazine has a young readership, mostly students. | Derginin genç bir okur kitlesi var, çoğu öğrenci.
+reporter | muhabir | isim | A young reporter asked the mayor a difficult question. | Genç bir muhabir belediye başkanına zor bir soru sordu.
+editor | editör, yazı işleri müdürü | isim | The editor decided to cut the story to three hundred words. | Editör haberi üç yüz kelimeye kısaltmaya karar verdi.
+headline | manşet, başlık | isim | The headline on today's paper is about the floods. | Bugünkü gazetenin manşeti sellerle ilgili.
+article | makale, yazı | isim | I read an interesting article about sleep on the train. | Trende uyku hakkında ilginç bir yazı okudum.
+columnist | köşe yazarı | isim | My favourite columnist writes every Sunday about family life. | En sevdiğim köşe yazarı her pazar aile hayatı üzerine yazıyor.
+front page | ön sayfa, birinci sayfa | isim | Their wedding photo appeared on the front page of the local paper. | Düğün fotoğrafları yerel gazetenin ön sayfasında çıktı.
+tabloid | magazin gazetesi | isim | Tabloids often print gossip about famous people. | Magazin gazeteleri genellikle ünlüler hakkında dedikodu yayımlar.
+circulation | tiraj, dağıtım | isim | The newspaper's circulation has fallen sharply in recent years. | Gazetenin tirajı son yıllarda keskin biçimde düştü.
+## Haber türleri
+breaking news | son dakika haberi | isim | We interrupt this programme for some breaking news. | Bu programa bir son dakika haberi için ara veriyoruz.
+news story | haber | isim | The news story about the lost dog had a happy ending. | Kayıp köpekle ilgili haberin mutlu bir sonu vardı.
+current affairs | güncel olaylar | isim (çoğul) | Emre reads about current affairs every morning before work. | Emre her sabah işten önce güncel olaylar hakkında okur.
+feature article | inceleme yazısı, dosya haber | isim | The magazine ran a long feature article on young farmers. | Dergi genç çiftçiler hakkında uzun bir inceleme yazısı yayımladı.
+opinion piece | görüş yazısı | isim | Her opinion piece about school lunches got hundreds of comments. | Okul yemekleri hakkındaki görüş yazısı yüzlerce yorum aldı.
+exclusive | özel haber, özel röportaj | isim | The channel got an exclusive with the winning team. | Kanal kazanan takımla özel bir röportaj yaptı.
+scoop | atlatma haber | isim | The young journalist got the biggest scoop of the year. | Genç gazeteci yılın en büyük atlatma haberini yaptı.
+bulletin | haber bülteni | isim | There is a short news bulletin every hour on this station. | Bu istasyonda her saat kısa bir haber bülteni var.
+newsflash | flaş haber | isim | A newsflash interrupted the film to report the fire. | Bir flaş haber yangını bildirmek için filmi kesti.
+correspondent | bölge muhabiri, yabancı ülke muhabiri | isim | Our correspondent in Tokyo sent this report this morning. | Tokyo muhabirimiz bu raporu bu sabah gönderdi.
+## Televizyon
+broadcast (broadcast, broadcast) | yayınlamak | fiil · düzensiz | The final will be broadcast live on several channels. | Final birkaç kanalda canlı olarak yayınlanacak.
+presenter | sunucu | isim | The presenter smiled and welcomed the guests to the show. | Sunucu gülümsedi ve konuklara programa hoş geldiniz dedi.
+viewer | izleyici | isim | Millions of viewers watched the ceremony last night. | Milyonlarca izleyici dün geceki töreni izledi.
+news anchor | haber spikeri | isim | The news anchor read the bad news in a calm voice. | Haber spikeri kötü haberi sakin bir sesle okudu.
+commercial | reklam filmi | isim | There are too many commercials during this film. | Bu filmin arasında çok fazla reklam var.
+chat show | sohbet programı, talk şov | isim | She was a guest on a popular chat show last week. | Geçen hafta popüler bir talk şovuna konuk oldu.
+prime time | en çok izlenen saatler | isim | The new series will be shown at prime time on Saturdays. | Yeni dizi cumartesileri en çok izlenen saatlerde gösterilecek.
+ratings | izlenme oranı, reyting | isim (çoğul) | The show was cancelled because its ratings were so low. | Program izlenme oranları çok düşük olduğu için iptal edildi.
+remote control | uzaktan kumanda | isim | Has anyone seen the remote control? It's not on the sofa. | Kumandayı gören var mı? Kanepede değil.
+soap opera | pembe dizi | isim | My aunt has watched the same soap opera for twenty years. | Teyzem aynı pembe diziyi yirmi yıldır izliyor.
+## Radyo ve podcast
+radio station | radyo istasyonu | isim | My dad listens to the same radio station every morning. | Babam her sabah aynı radyo istasyonunu dinler.
+listener | dinleyici | isim | Many listeners called in to share their own stories. | Pek çok dinleyici kendi hikâyelerini paylaşmak için aradı.
+microphone | mikrofon | isim | Please speak a little closer to the microphone. | Lütfen mikrofona biraz daha yakın konuşun.
+podcast | podcast, sesli yayın | isim | I listen to a history podcast on my way to work. | İşe giderken bir tarih podcasti dinliyorum.
+phone-in | dinleyicilerin telefonla katıldığı program | isim | Diego called a phone-in to complain about the buses. | Diego otobüslerden şikâyet etmek için dinleyicilerin telefonla katıldığı bir programı aradı.
+jingle | reklam müziği, cıngıl | isim | I can't get that annoying jingle out of my head. | O sinir bozucu reklam müziğini kafamdan atamıyorum.
+on air | yayında | ifade | Please be quiet; we are on air in two minutes. | Lütfen sessiz olun; iki dakika sonra yayındayız.
+tune in | (radyo/TV) açıp dinlemek, izlemek | phrasal verb | Tune in next week to hear the rest of the story. | Hikâyenin devamını duymak için gelecek hafta bizi dinleyin.
+studio | stüdyo | isim | The band played two songs live in the radio studio. | Grup radyo stüdyosunda canlı olarak iki şarkı çaldı.
+episode | bölüm | isim | In the latest episode, the hosts talk about healthy sleep. | Son bölümde sunucular sağlıklı uyku hakkında konuşuyor.
+## Sosyal medya
+content creator | içerik üreticisi | isim | Yuki left her office job to become a full-time content creator. | Yuki tam zamanlı içerik üreticisi olmak için ofis işini bıraktı.
+blogger | blog yazarı | isim | A travel blogger wrote about our small hotel last summer. | Geçen yaz bir gezi blog yazarı küçük otelimiz hakkında yazdı.
+meme | caps, internet şakası | isim | My brother sends me at least ten funny memes every day. | Kardeşim bana her gün en az on komik caps gönderiyor.
+vlogger | vlogcu, video blog çeken kişi | isim | The vlogger films her daily life in a small Irish village. | Vlogcu küçük bir İrlanda köyündeki günlük hayatını çekiyor.
+clickbait | tık tuzağı, ilgi çekici yanıltıcı başlık | isim | That headline is just clickbait; the article says almost nothing. | O başlık sadece tık tuzağı; makale neredeyse hiçbir şey söylemiyor.
+trending | gündemde olan, trend | sıfat | That song has been trending all week. | O şarkı bütün hafta gündemdeydi.
+troll | trol, kışkırtıcı kullanıcı | isim | Just ignore the trolls who leave nasty comments under your videos. | Videolarının altına çirkin yorumlar bırakan trolleri görmezden gel.
+repost | yeniden paylaşmak | fiil | Please don't repost my photos without asking me first. | Lütfen önce bana sormadan fotoğraflarımı yeniden paylaşma.
+caption | fotoğraf altı yazısı | isim | Write a funny caption under the picture of the cat. | Kedi fotoğrafının altına komik bir açıklama yaz.
+mute | sessize almak | fiil | I muted the group chat because it never stopped buzzing. | Grup sohbetini sessize aldım çünkü titreşimi hiç durmuyordu.
+## Bilgi ve güvenilirlik
+source | kaynak | isim | Always check the source before you believe a story. | Bir habere inanmadan önce her zaman kaynağını kontrol et.
+trustworthy | güvenilir | sıfat | Local newspapers are often more trustworthy than random websites. | Yerel gazeteler çoğu zaman rastgele web sitelerinden daha güvenilirdir.
+rumour | söylenti, dedikodu | isim | There is a rumour that the factory will close soon. | Fabrikanın yakında kapanacağına dair bir söylenti var.
+hoax | asılsız haber, uydurma | isim | The story about the shark in the river turned out to be a hoax. | Nehirdeki köpekbalığı hikâyesinin uydurma olduğu ortaya çıktı.
+media literacy | medya okuryazarlığı | isim | Schools should teach media literacy from an early age. | Okullar medya okuryazarlığını erken yaşta öğretmeli.
+allegation | iddia, suçlama | isim | The singer said the allegations were completely untrue. | Şarkıcı iddiaların tamamen asılsız olduğunu söyledi.
+misinformation | yanlış bilgi | isim | Misinformation spreads quickly during a crisis. | Kriz sırasında yanlış bilgi hızla yayılır.
+fake news | sahte haber | isim | Teachers are helping students learn to recognise fake news. | Öğretmenler öğrencilerin sahte haberleri tanımayı öğrenmesine yardım ediyor.
+biased | taraflı, önyargılı | sıfat | Some viewers think the programme is biased against farmers. | Bazı izleyiciler programın çiftçilere karşı taraflı olduğunu düşünüyor.
+credible | inandırıcı, akla yatkın | sıfat | The police found the witness completely credible. | Polis tanığı tamamen inandırıcı buldu.
+## Gazetecilik
+uncover | gün ışığına çıkarmak, (araştırarak) bulmak | fiil | Two reporters uncovered a serious problem at the hospital. | İki muhabir hastanedeki ciddi bir sorunu gün ışığına çıkardı.
+anonymous | isimsiz, kimliği gizli | sıfat | The information came from an anonymous source inside the hospital. | Bilgi hastanedeki kimliği gizli bir kaynaktan geldi.
+press conference | basın toplantısı | isim | The coach answered questions at a press conference after the match. | Antrenör maçtan sonra bir basın toplantısında soruları yanıtladı.
+spokesperson | sözcü | isim | A spokesperson for the airline apologised for the delays. | Havayolu sözcüsü rötarlar için özür diledi.
+press release | basın bülteni | isim | The museum sent out a press release about the new exhibition. | Müze yeni sergi hakkında bir basın bülteni yayımladı.
+scandal | skandal | isim | The scandal was on every front page for a week. | Skandal bir hafta boyunca bütün gazetelerin ön sayfasındaydı.
+newsroom | haber merkezi | isim | The newsroom was busy and noisy on election night. | Seçim gecesi haber merkezi kalabalık ve gürültülüydü.
+freedom of the press | basın özgürlüğü | isim | Freedom of the press is protected by law in many countries. | Basın özgürlüğü birçok ülkede yasayla korunur.
+eyewitness | görgü tanığı | isim | An eyewitness described the accident to reporters. | Bir görgü tanığı kazayı muhabirlere anlattı.
+interviewee | röportaj yapılan kişi | isim | The interviewee seemed nervous at the start of the conversation. | Röportaj yapılan kişi sohbetin başında gergin görünüyordu.
+## Reklam
+advertising | reklamcılık | isim | Advertising aimed at children is strictly controlled in some countries. | Bazı ülkelerde çocuklara yönelik reklamcılık sıkı biçimde denetlenir.
+advertise | reklam vermek | fiil | The café advertises on local radio every weekend. | Kafe her hafta sonu yerel radyoda reklam veriyor.
+publicity | tanıtım, medya ilgisi | isim | The film got a lot of publicity before it came out. | Film vizyona girmeden önce çok fazla tanıtım aldı.
+slogan | slogan | isim | Everyone remembers the slogan, but nobody remembers the product. | Herkes sloganı hatırlıyor ama kimse ürünü hatırlamıyor.
+commercial break | reklam arası | isim | I'll make some tea during the commercial break. | Reklam arasında biraz çay yapacağım.
+marketing | pazarlama | isim | Lukas works in marketing for a small travel company. | Lukas küçük bir turizm şirketinde pazarlama alanında çalışıyor.
+billboard | reklam panosu, ilan tahtası | isim | A huge billboard went up next to the motorway. | Otoyolun yanına devasa bir reklam panosu dikildi.
+promote | tanıtmak (ürün, albüm) | fiil | The singer is travelling around Europe to promote her new album. | Şarkıcı yeni albümünü tanıtmak için Avrupa'yı dolaşıyor.
+leaflet | broşür, el ilanı | isim | Someone put a leaflet about a new pizza place in our letterbox. | Biri posta kutumuza yeni bir pizzacı hakkında el ilanı bırakmış.
+catchy | akılda kalıcı | sıfat | The advert had a catchy tune that everybody was humming. | Reklamın herkesin mırıldandığı akılda kalıcı bir melodisi vardı.
+## Medya fiilleri
+announce | duyurmak, ilan etmek | fiil | The government announced the new holiday dates this morning. | Hükümet yeni tatil tarihlerini bu sabah duyurdu.
+reveal | ortaya çıkarmak, açıklamak | fiil | The interview revealed a lot about her childhood. | Röportaj onun çocukluğu hakkında çok şey ortaya çıkardı.
+inform | bilgilendirmek | fiil | Please inform us if your address changes. | Adresiniz değişirse lütfen bizi bilgilendirin.
+expose | ifşa etmek, açığa çıkarmak | fiil | The programme exposed the poor conditions in some factories. | Program bazı fabrikalardaki kötü koşulları ifşa etti.
+exaggerate | abartmak | fiil | The newspapers exaggerated the danger of the storm. | Gazeteler fırtınanın tehlikesini abarttı.
+mislead (misled, misled) | yanıltmak | fiil · düzensiz | The advert misled customers about the real price. | Reklam müşterileri gerçek fiyat konusunda yanılttı.
+cover | haberini yapmak, ele almak | fiil | She has covered sports news for the radio for many years. | Yıllardır radyo için spor haberleri yapıyor.
+confirm | doğrulamak, teyit etmek | fiil | The club confirmed that the player will leave in summer. | Kulüp oyuncunun yazın ayrılacağını doğruladı.
+react | tepki vermek | fiil | How did people react to the news on social media? | İnsanlar sosyal medyada habere nasıl tepki verdi?
+air | yayınlanmak; yayınlamak | fiil | The last part of the series will air next Friday. | Dizinin son bölümü gelecek cuma yayınlanacak.
+## Medya ifadeleri
+hit the headlines | manşetlere çıkmak | deyim | The small village hit the headlines after the discovery. | Küçük köy keşiften sonra manşetlere çıktı.
+make the news | haberlere çıkmak | deyim | Ali's brave rescue of a dog made the news. | Ali'nin bir köpeği cesurca kurtarması haberlere çıktı.
+in the public eye | göz önünde, kamuoyunun ilgi odağında | deyim | Living in the public eye can be very stressful. | Sürekli göz önünde yaşamak çok stresli olabilir.
+off the record | kayıt dışı, resmî olmayarak | deyim | The minister told us off the record that he was unhappy. | Bakan bize kayıt dışı olarak mutsuz olduğunu söyledi.
+behind the scenes | perde arkasında | deyim | The film shows what happens behind the scenes of a TV studio. | Film bir televizyon stüdyosunun perde arkasında neler olduğunu gösteriyor.
+public opinion | kamuoyu | isim | Public opinion has changed a lot over the past few years. | Kamuoyu son birkaç yılda çok değişti.
+mass media | kitle iletişim araçları | isim | The mass media has a strong influence on young people. | Kitle iletişim araçlarının gençler üzerinde güçlü bir etkisi var.
+news agency | haber ajansı | isim | Most local papers buy their foreign stories from a news agency. | Yerel gazetelerin çoğu yabancı haberlerini bir haber ajansından satın alır.
+a slow news day | haberin az olduğu gün | deyim | It must be a slow news day if they're reporting on a lost cat. | Kayıp bir kediyi haber yapıyorlarsa bugün haber az olmalı.
+read between the lines | satır aralarını okumak | deyim | If you read between the lines, the report is quite critical. | Satır aralarını okursan rapor oldukça eleştirel.

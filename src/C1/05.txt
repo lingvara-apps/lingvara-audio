@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+generative | üretken | sıfat | Generative tools can now create realistic images from a short description. | Üretken araçlar artık kısa bir tariften gerçekçi görüntüler oluşturabiliyor.
+reinforcement learning | pekiştirmeli öğrenme | isim | Through reinforcement learning, the program taught itself to play chess. | Program pekiştirmeli öğrenme yoluyla kendi kendine satranç oynamayı öğrendi.
+deep learning | derin öğrenme | isim | Deep learning has transformed speech recognition over the past decade. | Derin öğrenme son on yılda konuşma tanımayı kökten değiştirdi.
+training data | eğitim verisi | isim | If the training data is biased, the model's decisions will be biased too. | Eğitim verisi taraflıysa modelin kararları da taraflı olur.
+language model | dil modeli | isim | The language model can summarise a long report in a few seconds. | Dil modeli uzun bir raporu birkaç saniyede özetleyebiliyor.
+hallucination | halüsinasyon (yapay zekâ uydurması) | isim | Always check the sources, because a hallucination can look very convincing. | Kaynakları her zaman kontrol et, çünkü bir yapay zekâ uydurması çok ikna edici görünebilir.
+virtual assistant | sanal asistan | isim | The virtual assistant answers most questions about lost luggage. | Sanal asistan kayıp bagajla ilgili soruların çoğunu yanıtlıyor.
+robotics | robotik | isim | Lukas is doing a master's degree in robotics and control systems. | Lukas robotik ve kontrol sistemleri alanında yüksek lisans yapıyor.
+computer vision | bilgisayarlı görü | isim | Computer vision allows the car to identify pedestrians at night. | Bilgisayarlı görü aracın gece yayaları tanımasını sağlıyor.
+fine-tune | ince ayar yapmak | fiil | The team fine-tuned the model on thousands of medical reports. | Ekip modele binlerce tıbbi rapor üzerinde ince ayar yaptı.
+## Veri ve hesaplama
+big data | büyük veri | isim | Retailers use big data to predict what customers will buy next. | Perakendeciler müşterilerin bir sonraki alışverişini tahmin etmek için büyük veri kullanıyor.
+cloud computing | bulut bilişim | isim | Cloud computing lets small firms rent processing power instead of buying servers. | Bulut bilişim küçük firmaların sunucu satın almak yerine işlem gücü kiralamasını sağlıyor.
+processing power | işlem gücü | isim | Training such a model requires enormous amounts of processing power. | Böyle bir modeli eğitmek muazzam miktarda işlem gücü gerektirir.
+quantum computing | kuantum bilişim | isim | Quantum computing could one day break today's encryption methods. | Kuantum bilişim bir gün günümüzün şifreleme yöntemlerini kırabilir.
+encryption | şifreleme | isim | End-to-end encryption means that only the sender and receiver can read messages. | Uçtan uca şifreleme mesajları yalnızca gönderenle alıcının okuyabileceği anlamına gelir.
+throughput | veri işleme hızı | isim | The new chips doubled the throughput of the company's servers. | Yeni çipler şirket sunucularının veri işleme hızını ikiye katladı.
+latency | gecikme süresi | isim | Low latency is crucial for online games and remote surgery. | Düşük gecikme süresi çevrim içi oyunlar ve uzaktan cerrahi için hayati önemdedir.
+semiconductor | yarı iletken | isim | A global shortage of semiconductors delayed car production for months. | Küresel yarı iletken kıtlığı otomobil üretimini aylarca geciktirdi.
+data centre | veri merkezi | isim | The new data centre uses seawater to cool its servers. | Yeni veri merkezi sunucularını soğutmak için deniz suyu kullanıyor.
+computational | hesaplamalı | sıfat | Computational models helped the scientists predict how the virus would spread. | Hesaplamalı modeller bilim insanlarının virüsün nasıl yayılacağını tahmin etmesine yardımcı oldu.
+## Biyoteknoloji
+biotechnology | biyoteknoloji | isim | Biotechnology is now one of the fastest-growing sectors in the region. | Biyoteknoloji artık bölgenin en hızlı büyüyen sektörlerinden biri.
+genome | genom | isim | Scientists have mapped the entire genome of the wheat plant. | Bilim insanları buğday bitkisinin bütün genomunu haritaladı.
+gene editing | gen düzenleme | isim | Gene editing raises difficult questions about what is natural. | Gen düzenleme neyin doğal olduğu konusunda zor sorular doğuruyor.
+stem cell | kök hücre | isim | Stem cell research offers hope to patients with spinal injuries. | Kök hücre araştırmaları omurilik yaralanması olan hastalara umut veriyor.
+cloning | klonlama | isim | Many countries have banned the cloning of human beings. | Birçok ülke insan klonlamasını yasakladı.
+transgenic | transgenik | sıfat | Transgenic crops remain controversial in parts of Europe. | Transgenik ürünler Avrupa'nın bazı bölgelerinde tartışmalı olmaya devam ediyor.
+sequencing | dizileme | isim | The cost of DNA sequencing has fallen dramatically in twenty years. | DNA dizilemesinin maliyeti yirmi yılda çarpıcı biçimde düştü.
+enzyme | enzim | isim | This enzyme breaks down plastic much faster than scientists expected. | Bu enzim plastiği bilim insanlarının beklediğinden çok daha hızlı parçalıyor.
+synthetic biology | sentetik biyoloji | isim | Synthetic biology aims to design organisms that can produce fuel. | Sentetik biyoloji yakıt üretebilen organizmalar tasarlamayı amaçlıyor.
+gene therapy | gen tedavisi | isim | Gene therapy restored partial sight to several patients in the trial. | Gen tedavisi deneydeki birkaç hastanın görme yetisini kısmen geri kazandırdı.
+## Tıp teknolojisi
+biomarker | biyobelirteç | isim | Researchers found a biomarker that may signal the disease years earlier. | Araştırmacılar hastalığı yıllar önceden haber verebilecek bir biyobelirteç buldu.
+diagnostics | tanı yöntemleri | isim | Faster diagnostics could save thousands of lives every year. | Daha hızlı tanı yöntemleri her yıl binlerce hayat kurtarabilir.
+bionic | biyonik | sıfat | The athlete runs with a bionic leg that adjusts to every step. | Sporcu her adıma uyum sağlayan biyonik bir bacakla koşuyor.
+prosthesis (prostheses) | protez | isim | The new prosthesis responds directly to signals from the muscles. | Yeni protez doğrudan kaslardan gelen sinyallere yanıt veriyor.
+implant | implant | isim | A tiny implant helps the patient control tremors in his hands. | Küçük bir implant hastanın ellerindeki titremeyi kontrol etmesine yardım ediyor.
+telemedicine | tele-tıp; uzaktan sağlık hizmeti | isim | Telemedicine allows villagers to consult specialists without travelling. | Tele-tıp köylülerin yolculuk yapmadan uzmanlara danışmasını sağlıyor.
+nanotechnology | nanoteknoloji | isim | Nanotechnology may allow drugs to reach cancer cells directly. | Nanoteknoloji ilaçların doğrudan kanser hücrelerine ulaşmasını sağlayabilir.
+medical imaging | tıbbi görüntüleme | isim | Advances in medical imaging have made many operations far less invasive. | Tıbbi görüntülemedeki ilerlemeler birçok ameliyatı çok daha az müdahaleci hâle getirdi.
+precision medicine | kişiselleştirilmiş tıp | isim | Precision medicine tailors treatment to each patient's genetic profile. | Kişiselleştirilmiş tıp tedaviyi her hastanın genetik profiline göre uyarlar.
+clinical trial | klinik araştırma; klinik deney | isim | The vaccine is now entering the final stage of its clinical trial. | Aşı şimdi klinik araştırmasının son aşamasına giriyor.
+## Enerji kaynakları
+photovoltaic | fotovoltaik | sıfat | Photovoltaic panels now cover the roof of the entire factory. | Fotovoltaik paneller artık fabrikanın bütün çatısını kaplıyor.
+solar farm | güneş enerjisi santrali | isim | A huge solar farm now stands where the old coal mine used to be. | Eski kömür madeninin yerinde artık devasa bir güneş enerjisi santrali duruyor.
+power grid | elektrik şebekesi | isim | The power grid struggled to cope with the sudden heatwave. | Elektrik şebekesi ani sıcak hava dalgasıyla başa çıkmakta zorlandı.
+fission | fisyon; çekirdek bölünmesi | isim | Today's nuclear plants produce energy through fission. | Günümüzün nükleer santralleri fisyon yoluyla enerji üretir.
+fusion | füzyon; çekirdek kaynaşması | isim | Fusion promises almost limitless energy, but it remains decades away. | Füzyon neredeyse sınırsız enerji vaat ediyor ama hâlâ onlarca yıl uzakta.
+hydrogen | hidrojen | isim | Some trains in northern Europe already run on hydrogen. | Kuzey Avrupa'daki bazı trenler şimdiden hidrojenle çalışıyor.
+fuel cell | yakıt hücresi | isim | The bus is powered by a fuel cell that emits only water. | Otobüs yalnızca su salan bir yakıt hücresiyle çalışıyor.
+energy storage | enerji depolama | isim | Cheap energy storage is the missing piece in the renewable puzzle. | Ucuz enerji depolama yenilenebilir enerji bulmacasının eksik parçasıdır.
+geothermal | jeotermal | sıfat | Iceland heats most of its homes with geothermal energy. | İzlanda evlerinin çoğunu jeotermal enerjiyle ısıtıyor.
+tidal power | gelgit enerjisi | isim | The narrow bay is an ideal location for generating tidal power. | Dar körfez gelgit enerjisi üretmek için ideal bir yer.
+## Karbon ve verimlilik
+emissions trading | emisyon ticareti | isim | Emissions trading lets companies buy and sell permits to pollute. | Emisyon ticareti şirketlerin kirletme izinlerini alıp satmasına olanak tanır.
+decarbonise | karbondan arındırmak | fiil | Heavy industry is the hardest sector to decarbonise. | Ağır sanayi karbondan arındırılması en zor sektördür.
+carbon capture | karbon yakalama | isim | Carbon capture technology is still too expensive for most power plants. | Karbon yakalama teknolojisi çoğu santral için hâlâ çok pahalı.
+carbon offset | karbon dengeleme (kredisi) | isim | Diego buys a carbon offset every time he takes a long-haul flight. | Diego her uzun mesafeli uçuşunda bir karbon dengeleme kredisi satın alıyor.
+smart meter | akıllı sayaç | isim | The smart meter shows exactly how much electricity we use each hour. | Akıllı sayaç her saat tam olarak ne kadar elektrik kullandığımızı gösteriyor.
+retrofit | (binayı, sistemi) sonradan iyileştirmek; modernize etmek | fiil | The council plans to retrofit old flats with better insulation. | Belediye eski daireleri daha iyi yalıtımla donatmayı planlıyor.
+electric vehicle | elektrikli araç | isim | Sales of electric vehicles doubled in the country last year. | Ülkede elektrikli araç satışları geçen yıl ikiye katlandı.
+charging station | şarj istasyonu | isim | There is still no charging station on the motorway between the two cities. | İki şehir arasındaki otoyolda hâlâ bir şarj istasyonu yok.
+biofuel | biyoyakıt | isim | Critics argue that growing crops for biofuel raises food prices. | Eleştirmenler biyoyakıt için ürün yetiştirmenin gıda fiyatlarını artırdığını savunuyor.
+energy-efficient | enerji tasarruflu; enerji verimli | sıfat | Energy-efficient appliances cost more but save money in the long run. | Enerji tasarruflu cihazlar daha pahalı ama uzun vadede para kazandırıyor.
+## Dijital toplum
+smart city | akıllı şehir | isim | In a smart city, sensors adjust traffic lights according to real-time traffic. | Akıllı bir şehirde sensörler trafik ışıklarını anlık trafiğe göre ayarlar.
+connectivity | bağlanabilirlik; bağlantı | isim | Poor connectivity in rural areas makes remote work almost impossible. | Kırsal bölgelerdeki zayıf bağlantı uzaktan çalışmayı neredeyse imkânsız kılıyor.
+e-government | e-devlet | isim | Thanks to e-government services, Emre renewed his licence in ten minutes. | E-devlet hizmetleri sayesinde Emre ehliyetini on dakikada yeniledi.
+gig economy | serbest çalışma ekonomisi | isim | Many delivery riders in the gig economy have no paid holidays. | Serbest çalışma ekonomisindeki birçok kuryenin ücretli izni yok.
+digital literacy | dijital okuryazarlık | isim | Schools should teach digital literacy alongside reading and maths. | Okullar okuma ve matematiğin yanında dijital okuryazarlığı da öğretmeli.
+attention economy | dikkat ekonomisi | isim | In the attention economy, apps compete for every minute of our day. | Dikkat ekonomisinde uygulamalar günümüzün her dakikası için yarışıyor.
+soundbite | çarpıcı kısa alıntı | isim | Complex scientific findings are often reduced to a single soundbite on the news. | Karmaşık bilimsel bulgular haberlerde çoğu zaman tek bir çarpıcı alıntıya indirgeniyor.
+content moderation | içerik denetimi | isim | Content moderation on large platforms is often done by underpaid workers. | Büyük platformlardaki içerik denetimi çoğu zaman düşük ücretli çalışanlarca yapılıyor.
+screen time | ekran süresi | isim | Doctors recommend limiting screen time for young children. | Doktorlar küçük çocuklar için ekran süresinin sınırlanmasını öneriyor.
+digital footprint | dijital ayak izi | isim | Everything you post online adds to your permanent digital footprint. | İnternette paylaştığın her şey kalıcı dijital ayak izine eklenir.
+## Siber güvenlik
+spyware | casus yazılım | isim | Investigators found spyware hidden on the journalist's phone. | Soruşturmacılar gazetecinin telefonunda gizlenmiş bir casus yazılım buldu.
+botnet | bot ağı | isim | Criminals used a botnet of infected home routers to send spam. | Suçlular istenmeyen e-posta göndermek için virüslü ev modemlerinden oluşan bir bot ağı kullandı.
+denial-of-service attack | hizmet engelleme saldırısı | isim | A denial-of-service attack took the ministry's website offline for hours. | Bir hizmet engelleme saldırısı bakanlığın web sitesini saatlerce erişilemez hâle getirdi.
+penetration testing | sızma testi | isim | The bank hires ethical hackers to carry out penetration testing every year. | Banka her yıl sızma testi yapmaları için etik hackerlar tutuyor.
+zero-day | sıfırıncı gün (açığı) | sıfat | Attackers exploited a zero-day flaw before the developers even knew it existed. | Saldırganlar geliştiriciler varlığından haberdar olmadan bir sıfırıncı gün açığını kullandı.
+biometric | biyometrik | sıfat | Biometric checks such as fingerprints are now common at border control. | Parmak izi gibi biyometrik kontroller artık sınır kapılarında yaygın.
+hacktivist | hacktivist (siyasi amaçlı korsan) | isim | A group of hacktivists defaced the company's website in protest. | Bir grup hacktivist protesto amacıyla şirketin web sitesini tahrip etti.
+end-to-end | uçtan uca | sıfat | End-to-end protection means no one in between can read your files. | Uçtan uca koruma, aradaki hiç kimsenin dosyalarını okuyamayacağı anlamına gelir.
+vulnerability | güvenlik açığı | isim | Engineers released an update to fix a serious vulnerability in the app. | Mühendisler uygulamadaki ciddi bir güvenlik açığını kapatmak için güncelleme yayımladı.
+backdoor | arka kapı (gizli erişim) | isim | Experts warned that a backdoor for the police could also be used by criminals. | Uzmanlar polis için açılan bir arka kapının suçlular tarafından da kullanılabileceği konusunda uyardı.
+## Uzay teknolojisi
+launch vehicle | fırlatma aracı | isim | The launch vehicle carried three weather satellites into space at once. | Fırlatma aracı üç hava durumu uydusunu aynı anda uzaya taşıdı.
+reusable | yeniden kullanılabilir | sıfat | Reusable rockets have cut the cost of reaching space dramatically. | Yeniden kullanılabilir roketler uzaya ulaşmanın maliyetini büyük ölçüde düşürdü.
+payload | faydalı yük | isim | The rocket's payload included a small telescope built by students. | Roketin faydalı yükü arasında öğrencilerin yaptığı küçük bir teleskop vardı.
+low Earth orbit | alçak Dünya yörüngesi | isim | Thousands of small satellites now circle the planet in low Earth orbit. | Binlerce küçük uydu artık alçak Dünya yörüngesinde gezegenin çevresinde dönüyor.
+space debris | uzay çöpü | isim | Even a tiny piece of space debris can seriously damage a satellite. | Küçücük bir uzay çöpü parçası bile bir uyduya ciddi zarar verebilir.
+propulsion | itki sistemi | isim | Engineers are testing a new form of electric propulsion for deep-space missions. | Mühendisler derin uzay görevleri için yeni bir elektrikli itki sistemini test ediyor.
+geostationary | yerdurağan (yörünge) | sıfat | A geostationary satellite stays above the same point on the equator. | Yerdurağan bir uydu ekvatordaki aynı noktanın üzerinde kalır.
+space probe | uzay sondası | isim | The space probe sent back detailed images of Saturn's rings. | Uzay sondası Satürn'ün halkalarının ayrıntılı görüntülerini gönderdi.
+re-entry | atmosfere yeniden giriş | isim | The capsule's heat shield must survive the extreme heat of re-entry. | Kapsülün ısı kalkanı atmosfere yeniden girişin aşırı sıcaklığına dayanmalı.
+microgravity | mikro yerçekimi | isim | Plants grown in microgravity develop roots in unexpected directions. | Mikro yerçekiminde yetiştirilen bitkiler beklenmedik yönlerde kök salıyor.
+## İnovasyon ve etik
+proof of concept | kavram kanıtı | isim | The small trial served as a proof of concept for the new battery design. | Küçük deneme yeni batarya tasarımı için bir kavram kanıtı işlevi gördü.
+prototype | prototip | isim | The engineers tested the first prototype in a wind tunnel. | Mühendisler ilk prototipi bir rüzgâr tünelinde test etti.
+game-changer | çığır açan gelişme; oyunun kurallarını değiştiren şey | isim | Cheap batteries could be a game-changer for remote villages. | Ucuz bataryalar uzak köyler için çığır açan bir gelişme olabilir.
+cutting-edge | en ileri; son teknoloji | sıfat | The lab is equipped with cutting-edge microscopes from several countries. | Laboratuvar birçok ülkeden gelen son teknoloji mikroskoplarla donatılmış.
+legacy system | eski (miras) sistem | isim | The bank still runs its payments on a legacy system from the eighties. | Banka ödemelerini hâlâ seksenlerden kalma eski bir sistemle yürütüyor.
+early adopter | erken benimseyen | isim | As an early adopter, Yuki bought the headset on the first day of sales. | Yeniliği erken benimseyen biri olarak Yuki başlığı satışın ilk günü aldı.
+research and development | araştırma ve geliştirme (Ar-Ge) | isim | The firm spends a fifth of its income on research and development. | Firma gelirinin beşte birini araştırma ve geliştirmeye harcıyor.
+dual-use | çift kullanımlı (sivil ve askerî) | sıfat | Export controls apply to dual-use technologies such as advanced drones. | İhracat denetimleri gelişmiş insansız hava araçları gibi çift kullanımlı teknolojilere uygulanır.
+algorithmic bias | algoritmik önyargı | isim | Experts warn that algorithmic bias can lead to unfair hiring decisions. | Uzmanlar algoritmik önyargının adaletsiz işe alım kararlarına yol açabileceği konusunda uyarıyor.
+precautionary principle | ihtiyat ilkesi | isim | Under the precautionary principle, new chemicals must be proven safe first. | İhtiyat ilkesine göre yeni kimyasalların önce güvenli olduğu kanıtlanmalıdır.

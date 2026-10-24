@@ -1,0 +1,111 @@
+# UNIT: Sayohat | Samolyot, poyezd, mehmonxona, sayr, hujjatlar
+## Aeroportda
+check in | roʻyxatdan oʻtmoq (reys yoki mehmonxonada) | Biz ikki soat oldin roʻyxatdan oʻtdik.
+boarding pass | chiqish taloni (bording-pass) | Iltimos, chiqish taloningizni koʻrsating.
+cabin crew | salon ekipaji | Uchib ketgandan keyin salon ekipaji ichimlik tarqatdi.
+departure | uchib ketish, joʻnash | Joʻnash vaqtini ekrandan tekshir.
+arrival | yetib kelish, qoʻnish vaqti | Yetib kelish vaqtimiz kechki soat 6 da.
+terminal | terminal | Xalqaro reyslar 2-terminaldan uchadi.
+security | xavfsizlik nazorati | Xavfsizlik nazoratidagi navbat juda uzun edi.
+delay | kechikish | Reys ikki soatga kechikmoqda.
+flight | parvoz, reys | Londonga parvoz qancha davom etadi?
+baggage claim | bagaj olish joyi | Bagaj olish joyida juda uzoq kutdik.
+## Samolyotda
+take off (took, taken) | havoga koʻtarilmoq, uchib ketmoq | Samolyot oʻz vaqtida havoga koʻtarildi.
+land | qoʻnmoq (samolyot) | Biz Dublinga tushda qoʻndik.
+seat belt | xavfsizlik kamari | Iltimos, xavfsizlik kamaringizni taqing.
+aisle seat | yoʻlak tomondagi oʻrindiq | Menga yoʻlak tomondagi oʻrindiq kerak, iltimos.
+window seat | deraza yonidagi oʻrindiq | Yuki doim deraza yonidagi oʻrindiqni soʻraydi.
+flight attendant | styuardessa, bortkuzatuvchi | Styuardessa bizga suv olib keldi.
+turbulence | turbulentlik, chayqalish | Dengiz ustida biroz chayqalish boʻldi.
+hand luggage | qoʻl yuki | Bitta qoʻl yuki olishing mumkin.
+jet lag | vaqt farqidan charchoq (jet lag) | Nyu-Yorkdan keyin vaqt farqi meni qattiq charchatdi.
+overhead locker | yuqoridagi yuk javoni | Sumkangni yuqoridagi yuk javoniga qoʻy.
+## Poyezdda sayohat
+platform | platforma, perron | Poyezd toʻrtinchi platformadan joʻnaydi.
+carriage | vagon | Oʻrindiqlarimiz C vagonida.
+return ticket | borish-qaytish chiptasi | Oksfordga borish-qaytish chiptasi, iltimos.
+one-way ticket | bir tomonlama chipta | Bir tomonlama chipta deyarli shu narxda.
+timetable | qatnov jadvali | Poyezdlar jadvalini internetdan tekshiraylik.
+change trains | poyezd almashtirmoq | Yorkda poyezd almashtirishing kerak.
+sleeper train | yotoqli poyezd | Shotlandiyaga yotoqli poyezdda bordik.
+conductor | konduktor | Konduktor chiptalarimizni tekshirdi.
+ticket office | chipta kassasi | Chipta kassasi soat oltida ochiladi.
+catch the train | poyezdga ulgurmoq | Shoshil, aks holda poyezdga ulgurmaymiz!
+## Mehmonxonada
+reservation | bron, oldindan buyurtma | Menda uch kechaga bron bor.
+book a room | xona band qilmoq | Plyaj yaqinidan xona band qildim.
+single room | bir kishilik xona | Bir kishilik xona sakson funt turadi.
+double room | ikki kishilik xona | Bugun kechaga ikki kishilik xonangiz bormi?
+reception | qabulxona, resepshn | Kalitingni qabulxonada qoldir.
+key card | kalit-karta | Kalit-kartam ishlamayapti.
+check out | mehmonxonadan chiqib ketmoq (hisob-kitob qilib) | Soat oʻn birgacha mehmonxonadan chiqishimiz kerak.
+room service | xonaga xizmat | Bugun kechqurun xonaga ovqat buyurtma qilaylik.
+fully booked | toʻliq band | Kechirasiz, mehmonxonada boʻsh joy yoʻq.
+wake-up call | uygʻotish qoʻngʻirogʻi | Meni soat yettida qoʻngʻiroq qilib uygʻotishingiz mumkinmi?
+## Turar joy turlari
+hostel | xostel, arzon yotoqxona | Talabalar koʻpincha xostellarda turishadi.
+campsite | lager joyi, kemping | Kemping koʻl yonida joylashgan.
+guesthouse | mehmon uyi | Dengiz boʻyidagi kichkina mehmon uyida turdik.
+bed and breakfast | tunash va nonushta (mehmon uyi) | Nonushtali mehmon uyi arzon va toza edi.
+tent | chodir | Chodirni tikishga bir soat ketdi.
+sleeping bag | uxlash qopi | Uxlash qopingni unutma.
+half board | yarim pansion (nonushta va kechki ovqat) | Narxga yarim pansion kiradi.
+all-inclusive | hammasi kiritilgan | Hammasi kiritilgan dam olishni band qildik.
+facilities | qulayliklar, imkoniyatlar | Mehmonxonada ajoyib qulayliklar bor.
+view | manzara, koʻrinish | Xonamizdan dengiz manzarasi koʻrinadi.
+## Diqqatga sazovor joylarni koʻrish
+sightseeing | diqqatga sazovor joylarni aylanish | Edinburgda diqqatga sazovor joylarni aylandik.
+tourist | sayyoh, turist | Eski shahar sayyohlarga toʻla.
+guidebook | yoʻlboshlovchi kitob | Yoʻlboshlovchi kitobimda muzey bepul deyilgan.
+guided tour | gid hamrohligidagi sayohat | Qalʼaga gid bilan ekskursiyaga qoʻshildik.
+souvenir | esdalik sovgʻa, suvenir | Singlim uchun esdalik sovgʻa sotib oldim.
+attraction | diqqatga sazovor joy | London Eye mashhur diqqatga sazovor joy.
+monument | yodgorlik, monument | Maydonda mashhur yodgorlik bor.
+castle | qalʼa, qasr | Uelsda yuzlab qalʼalar bor.
+landmark | ramziy bino, shahar ramzi | Big Ben mashhur ramziy bino.
+brochure | buklet, risola | Stoldan bitta buklet ol.
+## Hujjatlar
+passport | pasport | Pasportim sumkamda.
+visa | viza | Kanada uchun viza kerakmi?
+ID card | shaxsiy guvohnoma, ID-karta | Iltimos, ID-kartangizni olib keling.
+driving licence | haydovchilik guvohnomasi | Mashina ijaraga olish uchun haydovchilik guvohnomasi kerak.
+travel insurance | sayohat sugʻurtasi | Har doim sayohat sugʻurtasini ol.
+customs | bojxona | Bojxonadan tez oʻtdik.
+border | chegara | Chegarani kechasi kesib oʻtdik.
+valid | amaldagi, yaroqli | Pasportingiz olti oy davomida amalda boʻlishi kerak.
+expire | muddati tugamoq | Vizamning muddati kelasi oy tugaydi.
+apply for | ariza bermoq, murojaat qilmoq | Ali oʻtgan hafta vizaga ariza berdi.
+## Yuk yigʻish
+luggage | yuk, bagaj | Sizda qancha yuk bor?
+pack | yuk yigʻmoq, chamadon tayyorlamoq | Men doim chamadonni bir kun oldin yigʻaman.
+unpack | chamadonni boʻshatmoq | Narsalarni chiqarib, keyin tashqariga chiqaylik.
+backpack | ryukzak, orqa sumka | Diego Yevropani ryukzak bilan aylandi.
+label | yorliq, etiketka | Yorliqqa ismingni yoz.
+lost property | yoʻqolgan buyumlar byurosi | Soyabon uchun yoʻqolgan buyumlar byurosidan soʻra.
+weigh | tortmoq; ogʻirligi ... boʻlmoq | Chamadonim yigirma kilo keladi.
+overweight | ruxsat etilganidan ogʻir (yuk) | Sumkangiz ruxsat etilgan ogʻirlikdan oshib ketgan, janob.
+toiletries | gigiyena vositalari | Gigiyena vositalarimni kichik sumkada saqlayman.
+sunscreen | quyoshdan himoya kremi | Plyajdan oldin quyoshdan himoya kremi surt.
+## Yoʻlda
+journey | safar, yoʻl | Yoʻl toʻrt soat davom etadi.
+destination | borish manzili, yoʻnalish | Rim mashhur sayohat manzili.
+abroad | chet elda, chet elga | Hech chet elda yashaganmisan?
+foreign | chet, xorijiy | U uchta chet tilini biladi.
+local | mahalliy | Mahalliy taomlarni tatib koʻr.
+crowded | gavjum, odam koʻp | Plyaj juda gavjum edi.
+road trip | mashinada uzoq sayohat | Amerika boʻylab mashinada sayohat qildik.
+get lost | adashib qolmoq | Eski shaharda adashib qoldik.
+rent a car | mashina ijaraga olmoq | Irlandiyada mashina ijaraga olish qulayroq.
+ferry | parom | Orolga paromda bordik.
+## Sayohat iboralari
+on holiday | taʼtilda, dam olishda | Biz Kornuollda taʼtildamiz.
+set off (set, set) | yoʻlga chiqmoq | Erta tongda yoʻlga chiqdik.
+get back | qaytib kelmoq | Ispaniyadan qachon qaytding?
+look around | aylanib koʻrmoq | Bozorni aylanib koʻraylik.
+cancel | bekor qilmoq | Reysimizni bekor qilishdi.
+currency | valyuta, pul birligi | Shotlandiyada qaysi valyuta ishlatiladi?
+exchange money | pul almashtirmoq | Qayerda pul almashtirsam boʻladi?
+tourist information | turistlar uchun maʼlumot markazi | Turistlar uchun maʼlumot markazidan soʻra.
+have a good trip | oq yoʻl, yaxshi sayohat qil | Oq yoʻl, menga qoʻngʻiroq qil!
+round trip | borib-qaytish safari | Borib-qaytish ikki kun davom etadi.

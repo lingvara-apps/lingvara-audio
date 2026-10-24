@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
+## Bankada
+bank account | banka hesabı | isim | I want to open a bank account. | Banka hesabı açmak istiyorum.
+cash machine | bankamatik; ATM | isim | Is there a cash machine near here? | Buralarda bankamatik var mı?
+withdraw (withdrew, withdrawn) | (para) çekmek | fiil · düzensiz | I need to withdraw some money. | Biraz para çekmem lazım.
+coin | madeni para | isim | I need some coins for the parking meter. | Parkmetre için biraz bozuk paraya ihtiyacım var.
+loan | kredi; borç | isim | They took out a loan to buy a house. | Ev almak için kredi çektiler.
+balance | bakiye | isim | You can check your balance online. | Bakiyeni internetten kontrol edebilirsin.
+exchange rate | döviz kuru | isim | What is today's exchange rate? | Bugünkü döviz kuru ne?
+banknote | kâğıt para; banknot | isim | The cash machine only gives twenty-euro banknotes. | Bankamatik yalnızca yirmi avroluk banknot veriyor.
+transfer | havale etmek; aktarmak | fiil | Can you transfer the money today? | Parayı bugün havale edebilir misin?
+savings | birikim | isim (çoğul) | She keeps her savings in the bank. | Birikimlerini bankada tutuyor.
+## Kargo ve posta
+parcel | koli; paket | isim | A parcel arrived for you this morning. | Bu sabah sana bir koli geldi.
+postcode | posta kodu | isim | What is your postcode? | Posta kodun ne?
+envelope | zarf | isim | Put the letter in an envelope. | Mektubu bir zarfa koy.
+stamp | pul | isim | I need two stamps for these letters. | Bu mektuplar için iki pul lazım.
+deliver | teslim etmek; getirmek | fiil | They deliver pizza until midnight. | Gece yarısına kadar pizza getiriyorlar.
+delivery | teslimat | isim | Delivery is free on orders over thirty pounds. | Otuz sterlin üzeri siparişlerde teslimat ücretsiz.
+courier | kurye | isim | The courier is waiting at the door. | Kurye kapıda bekliyor.
+sender | gönderen | isim | The sender's name is not on the box. | Kutunun üstünde gönderenin adı yok.
+receive | almak; teslim almak | fiil | Did you receive my letter? | Mektubumu aldın mı?
+track | takip etmek | fiil | You can track your parcel online. | Kolini internetten takip edebilirsin.
+## Kuaförde
+hairdresser | kuaför | isim | My hairdresser is very good with curly hair. | Kuaförüm kıvırcık saçta çok iyidir.
+barber | berber | isim | Omar goes to the barber every two weeks. | Omar iki haftada bir berbere gider.
+haircut | saç kesimi; tıraş | isim | I need a haircut. | Saçımı kestirmem lazım.
+fringe | kâkül; perçem | isim | I'd like a shorter fringe, please. | Kâkülümü daha kısa istiyorum lütfen.
+dye | (saç) boyamak | fiil | Sofia dyed her hair red. | Sofia saçını kırmızıya boyadı.
+shave | tıraş olmak; tıraş etmek | fiil | He shaves every morning. | Her sabah tıraş olur.
+hairbrush | saç fırçası | isim | Maria bought a new hairbrush. | Maria yeni bir saç fırçası aldı.
+trim | uçlarını almak; düzeltmek | fiil | Just trim the ends, please. | Sadece uçlarını alın lütfen.
+blow-dry | fön çekmek | fiil | Can you blow-dry my hair? | Saçıma fön çeker misiniz?
+hairstyle | saç modeli | isim | Do you like my new hairstyle? | Yeni saç modelimi beğendin mi?
+## Hizmetler
+dry cleaner's | kuru temizlemeci | isim | I'll take my suit to the dry cleaner's. | Takımımı kuru temizlemeciye götüreceğim.
+launderette | çamaşırhane | isim | There is a launderette on the corner. | Köşede bir çamaşırhane var.
+locksmith | çilingir | isim | I lost my keys, so I called a locksmith. | Anahtarlarımı kaybettim, bu yüzden çilingir çağırdım.
+tailor | terzi | isim | The tailor made my trousers shorter. | Terzi pantolonumu kısalttı.
+customer | müşteri | isim | The shop has many regular customers. | Dükkânın çok sayıda daimi müşterisi var.
+opening hours | çalışma saatleri | isim (çoğul) | What are the opening hours on Saturday? | Cumartesi çalışma saatleri ne?
+optician | gözlükçü | isim | I need new glasses, so I'm going to the optician. | Yeni gözlüğe ihtiyacım var, gözlükçüye gidiyorum.
+photocopy | fotokopi | isim | Can I have a photocopy of this page? | Bu sayfanın fotokopisini alabilir miyim?
+florist | çiçekçi | isim | Emre bought roses at the florist. | Emre çiçekçiden gül aldı.
+staff | personel; çalışanlar | isim | The staff here are very helpful. | Buradaki personel çok yardımsever.
+## Telefon hattı
+voicemail | telesekreter; sesli mesaj kutusu | isim | I left you a voicemail this morning. | Bu sabah telesekreterine mesaj bıraktım.
+top up | (bakiye) yüklemek | phrasal verb | I need to top up my phone. | Telefonuma bakiye yüklemem lazım.
+signal | sinyal; çekim | isim | There's no signal in the mountains. | Dağlarda telefon çekmiyor.
+data | mobil veri | isim | I have no data left this month. | Bu ay hiç mobil verim kalmadı.
+bill | fatura | isim | The phone bill is too high this month. | Bu ay telefon faturası çok yüksek.
+monthly | aylık | sıfat | The monthly price is fifteen dollars. | Aylık ücret on beş dolar.
+unlimited | sınırsız | sıfat | I have unlimited calls and texts. | Sınırsız arama ve mesajım var.
+roaming | yurt dışı dolaşım | isim | Turn off roaming when you travel. | Seyahat ederken dolaşımı kapat.
+tariff | tarife | isim | This tariff is cheaper for students. | Bu tarife öğrenciler için daha ucuz.
+text | mesaj atmak | fiil | Text me when you get home. | Eve varınca bana mesaj at.
+## AVM'de
+shopping centre | alışveriş merkezi | isim | The new shopping centre opens on Monday. | Yeni alışveriş merkezi pazartesi açılıyor.
+escalator | yürüyen merdiven | isim | Take the escalator to the second floor. | İkinci kata yürüyen merdivenle çık.
+department store | büyük mağaza | isim | You can find everything in this department store. | Bu büyük mağazada her şeyi bulabilirsin.
+changing room | deneme kabini | isim | Where are the changing rooms? | Deneme kabinleri nerede?
+food court | yemek katı | isim | Let's meet at the food court. | Yemek katında buluşalım.
+bargain | kelepir; fırsat | isim | This jacket was a real bargain. | Bu ceket tam bir kelepirdi.
+shopping bag | alışveriş poşeti | isim | Omar is carrying three heavy shopping bags. | Omar üç ağır alışveriş poşeti taşıyor.
+car park | otopark | isim | The car park is full again. | Otopark yine dolu.
+window shopping | vitrin gezme | isim | We went window shopping on Saturday. | Cumartesi vitrin gezmeye gittik.
+trolley | alışveriş arabası | isim | Can you get a trolley, please? | Bir alışveriş arabası alır mısın lütfen?
+## Ödemeler
+receipt | fiş; makbuz | isim | Keep the receipt, please. | Fişi saklayın lütfen.
+change | para üstü | isim | Here is your change. | Buyurun, para üstünüz.
+contactless | temassız | sıfat | Can I pay contactless? | Temassız ödeyebilir miyim?
+refund | para iadesi | isim | I'd like a refund for these shoes. | Bu ayakkabılar için para iadesi istiyorum.
+instalment | taksit | isim | We paid for the sofa in six instalments. | Kanepeyi altı taksitte ödedik.
+afford | (parası) yetmek | fiil | I can't afford a new car. | Yeni bir arabaya param yetmez.
+owe | borçlu olmak | fiil | I owe you ten dollars. | Sana on dolar borçluyum.
+tip | bahşiş | isim | We left a tip for the waiter. | Garsona bahşiş bıraktık.
+price tag | fiyat etiketi | isim | There's no price tag on this bag. | Bu çantanın üstünde fiyat etiketi yok.
+total | toplam | isim | The total is forty-five pounds. | Toplam kırk beş sterlin.
+## Giysiler 2
+blouse | bluz | isim | Maria is wearing a white blouse. | Maria beyaz bir bluz giyiyor.
+cardigan | hırka | isim | Take a cardigan, it's cold in the evening. | Bir hırka al, akşamları soğuk oluyor.
+waistcoat | yelek | isim | He wore a waistcoat to the wedding. | Düğüne yelek giydi.
+tracksuit | eşofman | isim | I wear a tracksuit at home. | Evde eşofman giyerim.
+pyjamas | pijama | isim (çoğul) | The kids are already in their pyjamas. | Çocuklar çoktan pijamalarını giydi.
+swimsuit | mayo | isim | Don't forget your swimsuit! | Mayonu unutma!
+tights | külotlu çorap | isim (çoğul) | She bought black tights for winter. | Kış için siyah külotlu çorap aldı.
+trainers | spor ayakkabı | isim (çoğul) | These trainers are very comfortable. | Bu spor ayakkabılar çok rahat.
+sandals | sandalet | isim (çoğul) | In summer I only wear sandals. | Yazın sadece sandalet giyerim.
+slippers | terlik | isim (çoğul) | Put your slippers on, the floor is cold. | Terliklerini giy, yer soğuk.
+## Kumaşlar ve desenler
+cotton | pamuk | isim | This shirt is made of cotton. | Bu gömlek pamuktan yapılmış.
+wool | yün | isim | A wool jumper keeps you warm. | Yün kazak insanı sıcak tutar.
+silk | ipek | isim | She got a silk scarf as a present. | Hediye olarak ipek bir eşarp aldı.
+leather | deri | isim | I want a leather jacket. | Deri bir ceket istiyorum.
+denim | kot kumaşı | isim | Denim jackets never go out of fashion. | Kot ceketlerin modası hiç geçmez.
+striped | çizgili | sıfat | He's wearing a blue striped shirt. | Mavi çizgili bir gömlek giyiyor.
+checked | kareli | sıfat | I love your checked skirt. | Kareli eteğine bayıldım.
+spotted | puantiyeli | sıfat | The baby has a spotted hat. | Bebeğin puantiyeli bir şapkası var.
+plain | düz; desensiz | sıfat | I prefer plain T-shirts. | Desensiz tişörtleri tercih ederim.
+pattern | desen | isim | The pattern on this dress is beautiful. | Bu elbisenin deseni çok güzel.
+## Mağaza kalıpları
+try on | (giysi) denemek | phrasal verb | Can I try on this dress? | Bu elbiseyi deneyebilir miyim?
+baggy | salaş; bol kesim | sıfat | He likes wearing baggy trousers. | Salaş pantolon giymeyi seviyor.
+suit | yakışmak | fiil | That colour really suits you. | O renk sana gerçekten yakışıyor.
+go with (went, gone) | uymak; gitmek | phrasal verb | Does this belt go with my shoes? | Bu kemer ayakkabılarıma uyuyor mu?
+in stock | stokta | ifade | Is this model in stock? | Bu model stokta var mı?
+out of stock | tükendi; stokta yok | ifade | Sorry, that size is out of stock. | Üzgünüz, o beden tükendi.
+just looking | sadece bakıyorum | ifade | No, thanks, I'm just looking. | Hayır teşekkürler, sadece bakıyorum.
+exchange | (ürün) değiştirmek | fiil | Can I exchange this shirt for a bigger one? | Bu gömleği daha büyüğüyle değiştirebilir miyim?
+loose | bol; gevşek | sıfat | These trousers are too loose. | Bu pantolon fazla bol.
+tight | dar | sıfat | The shoes are a bit tight. | Ayakkabılar biraz dar.

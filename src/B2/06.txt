@@ -1,0 +1,100 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Tıp uzmanları
+cardiologist | kardiyolog, kalp uzmanı | isim | After the chest pains, Omar was referred to a cardiologist. | Göğüs ağrılarından sonra Omar bir kardiyoloğa sevk edildi.
+paediatrician | çocuk doktoru | isim | Our paediatrician always makes the children laugh during check-ups. | Çocuk doktorumuz kontroller sırasında çocukları hep güldürür.
+dermatologist | cilt doktoru, dermatolog | isim | You should show that strange mole to a dermatologist. | Şu garip benini bir cilt doktoruna göstermelisin.
+neurologist | nörolog | isim | The neurologist ordered a scan to check for any damage. | Nörolog herhangi bir hasarı kontrol etmek için tarama istedi.
+anaesthetist | anestezi uzmanı | isim | The anaesthetist asked whether I had eaten anything that morning. | Anestezi uzmanı o sabah bir şey yiyip yemediğimi sordu.
+radiologist | radyolog | isim | A radiologist will examine the images this afternoon. | Bir radyolog görüntüleri bu öğleden sonra inceleyecek.
+general practitioner | aile hekimi, pratisyen hekim | isim | In Britain, you usually see a general practitioner first. | İngiltere'de genellikle önce aile hekimine gidilir.
+midwife (midwives) | ebe | isim | The midwife stayed with Yuki throughout the long night. | Ebe uzun gece boyunca Yuki'nin yanında kaldı.
+oncologist | onkolog, kanser uzmanı | isim | The oncologist explained the treatment options very patiently. | Onkolog tedavi seçeneklerini çok sabırla açıkladı.
+ophthalmologist | göz doktoru | isim | The ophthalmologist said Diego needs glasses for reading. | Göz doktoru Diego'nun okumak için gözlüğe ihtiyacı olduğunu söyledi.
+## Hastanede
+inpatient | yatan hasta | isim | The hospital can take up to five hundred inpatients at a time. | Hastane aynı anda beş yüze kadar yatan hasta kabul edebilir.
+isolation ward | tecrit servisi | isim | Patients with the virus were moved to the isolation ward. | Virüslü hastalar tecrit servisine taşındı.
+bedside | hasta başı, yatak başı | isim | His daughter sat at his bedside all night. | Kızı bütün gece yatağının başında oturdu.
+hospice | palyatif bakımevi | isim | She spent her final weeks in a quiet hospice by the sea. | Son haftalarını deniz kenarındaki sakin bir palyatif bakımevinde geçirdi.
+triage | önceliklendirme, triyaj | isim | At triage, the nurses decide who needs help first. | Triyajda hemşireler kimin önce yardıma ihtiyacı olduğuna karar verir.
+ward round | vizite | isim | The doctors discuss each patient during the morning ward round. | Doktorlar sabah vizitesinde her hastayı tartışır.
+referral | sevk | isim | You need a referral from your doctor to see a specialist. | Bir uzmana görünmek için doktorundan sevk alman gerekiyor.
+life support | yaşam desteği | isim | After the accident, he was kept on life support for a week. | Kazadan sonra bir hafta boyunca yaşam desteğine bağlı tutuldu.
+on call | nöbetçi, çağrıya hazır | ifade | Dr Sofia is on call this weekend, so she can't go away. | Doktor Sofia bu hafta sonu nöbetçi, bu yüzden bir yere gidemiyor.
+critical condition | ağır durum, kritik durum | isim | The driver is still in a critical condition in hospital. | Sürücü hâlâ hastanede ağır durumda.
+## Ciddi hastalıklar
+tumour | tümör | isim | Luckily, the tumour turned out to be harmless. | Neyse ki tümörün zararsız olduğu ortaya çıktı.
+stroke | felç, inme | isim | After his stroke, Diego's father had to learn to walk again. | İnmeden sonra Diego'nun babası yeniden yürümeyi öğrenmek zorunda kaldı.
+dementia | bunama, demans | isim | Her grandfather has dementia and often forgets her name. | Büyükbabasında demans var ve sık sık onun adını unutuyor.
+malignant | kötü huylu | sıfat | Tests showed that the growth was not malignant. | Testler oluşumun kötü huylu olmadığını gösterdi.
+leukaemia | lösemi, kan kanseri | isim | Many children with leukaemia now make a full recovery. | Lösemili çocukların birçoğu artık tamamen iyileşiyor.
+epilepsy | sara, epilepsi | isim | People with epilepsy can usually live a normal life with medication. | Epilepsi hastaları genellikle ilaçla normal bir hayat sürebilir.
+arthritis | eklem iltihabı, artrit | isim | My grandmother's arthritis gets worse in cold, wet weather. | Büyükannemin eklem iltihabı soğuk ve yağışlı havada kötüleşiyor.
+tuberculosis | verem, tüberküloz | isim | Tuberculosis was once one of the most common causes of death. | Verem bir zamanlar en yaygın ölüm nedenlerinden biriydi.
+pneumonia | zatürre | isim | What started as a cold soon turned into pneumonia. | Soğuk algınlığı olarak başlayan şey kısa sürede zatürreye dönüştü.
+kidney failure | böbrek yetmezliği | isim | Patients with kidney failure often need regular dialysis. | Böbrek yetmezliği olan hastalar çoğunlukla düzenli diyalize ihtiyaç duyar.
+## Belirtiler ve teşhis
+biopsy (biopsies) | biyopsi | isim | The doctor took a biopsy to rule out anything serious. | Doktor ciddi bir şeyi dışlamak için biyopsi aldı.
+blood pressure | tansiyon, kan basıncı | isim | Too much salt can raise your blood pressure. | Fazla tuz tansiyonunu yükseltebilir.
+prognosis (prognoses) | hastalığın seyri, prognoz | isim | Thanks to the new drug, the prognosis is now much better. | Yeni ilaç sayesinde hastalığın seyri artık çok daha iyi.
+misdiagnosis (misdiagnoses) | yanlış teşhis | isim | A misdiagnosis delayed her treatment by several months. | Yanlış bir teşhis tedavisini birkaç ay geciktirdi.
+ultrasound | ultrason | isim | The ultrasound showed that the baby was growing normally. | Ultrason bebeğin normal şekilde büyüdüğünü gösterdi.
+blood sample | kan örneği | isim | The nurse took a blood sample from Anna's arm. | Hemşire Anna'nın kolundan kan örneği aldı.
+heart rate | kalp atış hızı | isim | His heart rate went up quickly during the stress test. | Efor testi sırasında kalp atış hızı hızla yükseldi.
+cholesterol | kolesterol | isim | Eating less fried food can help to lower your cholesterol. | Daha az kızartma yemek kolesterolünü düşürmeye yardımcı olabilir.
+asymptomatic | belirti göstermeyen | sıfat | Many people with the virus are completely asymptomatic. | Virüsü taşıyan birçok kişi hiçbir belirti göstermez.
+blood count | kan sayımı, hemogram | isim | A low blood count can explain why you feel so tired. | Kan değerlerinin düşük olması neden bu kadar yorgun hissettiğini açıklayabilir.
+## Tedavi ve ameliyat
+surgery (surgeries) | ameliyat, cerrahi | isim | He needs surgery on his knee after the skiing accident. | Kayak kazasından sonra dizinden ameliyat olması gerekiyor.
+keyhole surgery | kapalı ameliyat, laparoskopi | isim | Keyhole surgery leaves only a few tiny scars. | Kapalı ameliyat yalnızca birkaç küçük iz bırakır.
+chemotherapy | kemoterapi | isim | She lost her hair during chemotherapy but stayed positive. | Kemoterapi sırasında saçlarını kaybetti ama olumlu kalmaya devam etti.
+radiotherapy | ışın tedavisi, radyoterapi | isim | After the operation, he had six weeks of radiotherapy. | Ameliyattan sonra altı hafta ışın tedavisi gördü.
+physiotherapy | fizik tedavi, fizyoterapi | isim | Weeks of physiotherapy helped him use his arm again. | Haftalar süren fizik tedavi kolunu yeniden kullanmasına yardımcı oldu.
+transplant | organ nakli | isim | After years on dialysis, Omar finally had a kidney transplant. | Yıllarca diyalize girdikten sonra Omar sonunda böbrek nakli oldu.
+incision | kesi, cerrahi kesik | isim | Modern techniques allow surgeons to make a much smaller incision. | Modern teknikler cerrahların çok daha küçük bir kesi yapmasına olanak tanıyor.
+amputate | kesmek, ampute etmek | fiil | Thanks to quick treatment, the doctors did not have to amputate his leg. | Hızlı tedavi sayesinde doktorlar bacağını kesmek zorunda kalmadı.
+convalesce | nekahet dönemi geçirmek, toparlanmak | fiil | After the operation, she went to the countryside to convalesce. | Ameliyattan sonra toparlanmak için kırsala gitti.
+remission | hastalığın gerilemesi, remisyon | isim | After two years of treatment, her cancer is in remission. | İki yıllık tedavinin ardından kanseri geriledi.
+## İlaçlar
+prescribe | reçete yazmak | fiil | The doctor prescribed a stronger cream for the rash. | Doktor kızarıklık için daha güçlü bir krem yazdı.
+dosage | dozaj, kullanım miktarı | isim | Check the dosage carefully before giving medicine to children. | Çocuklara ilaç vermeden önce dozajı dikkatlice kontrol et.
+capsule | kapsül | isim | Swallow one capsule with water after each meal. | Her yemekten sonra bir kapsülü suyla yut.
+antihistamine | alerji ilacı, antihistaminik | isim | Maria takes an antihistamine every spring because of her hay fever. | Maria saman nezlesi yüzünden her ilkbahar alerji ilacı alır.
+syringe | şırınga | isim | The nurse filled the syringe and checked it against the light. | Hemşire şırıngayı doldurdu ve ışığa tutarak kontrol etti.
+insulin | insülin | isim | Ali injects insulin before every meal to control his blood sugar. | Ali kan şekerini kontrol etmek için her yemekten önce insülin enjekte eder.
+sedative | yatıştırıcı, sakinleştirici | isim | The patient was given a mild sedative before the procedure. | Hastaya işlemden önce hafif bir sakinleştirici verildi.
+overdose | aşırı doz | isim | An accidental overdose can be extremely dangerous. | Kazara alınan aşırı doz son derece tehlikeli olabilir.
+allergic reaction | alerjik reaksiyon | isim | She had a serious allergic reaction to the new medicine. | Yeni ilaca karşı ciddi bir alerjik reaksiyon gösterdi.
+over-the-counter | reçetesiz satılan | sıfat | Most over-the-counter cold remedies only treat the symptoms. | Reçetesiz satılan soğuk algınlığı ilaçlarının çoğu yalnızca belirtileri tedavi eder.
+## Bulaşıcı hastalıklar
+airborne | hava yoluyla bulaşan | sıfat | The virus is airborne, so wearing a mask can help. | Virüs hava yoluyla bulaşıyor, bu yüzden maske takmak işe yarayabilir.
+epidemic | salgın hastalık, epidemi | isim | The town faced a serious flu epidemic that winter. | Kasaba o kış ciddi bir grip salgınıyla karşı karşıya kaldı.
+pandemic | pandemi, küresel salgın | isim | The pandemic changed the way millions of people work. | Pandemi milyonlarca insanın çalışma biçimini değiştirdi.
+outbreak | (hastalığın) baş göstermesi, patlak verme | isim | Health officials are investigating an outbreak of food poisoning. | Sağlık yetkilileri baş gösteren toplu gıda zehirlenmesini araştırıyor.
+immune system | bağışıklık sistemi | isim | Good sleep helps to keep your immune system strong. | İyi uyku bağışıklık sistemini güçlü tutmaya yardımcı olur.
+quarantine | karantina | isim | The passengers were kept in quarantine for two weeks. | Yolcular iki hafta boyunca karantinada tutuldu.
+vaccinate | aşılamak | fiil | Most children are vaccinated against measles at an early age. | Çoğu çocuk erken yaşta kızamığa karşı aşılanır.
+transmit | bulaştırmak, iletmek | fiil | The disease is transmitted through contaminated water. | Hastalık kirli su yoluyla bulaşır.
+bacteria (bacterium) | bakteriler | isim (çoğul) | Wash your hands to get rid of harmful bacteria. | Zararlı bakterilerden kurtulmak için ellerini yıka.
+incubation period | kuluçka dönemi | isim | The incubation period of the illness is about ten days. | Hastalığın kuluçka dönemi yaklaşık on gündür.
+## Yaralanmalar ve acil durum
+fracture | kırık | isim | The scan revealed a fracture in her wrist. | Tarama bileğinde bir kırık olduğunu ortaya çıkardı.
+dislocate | (eklemi) yerinden çıkarmak | fiil | Emre dislocated his shoulder while playing rugby. | Emre ragbi oynarken omzunu çıkardı.
+swelling | şişlik | isim | Put some ice on your ankle to reduce the swelling. | Şişliği azaltmak için ayak bileğine biraz buz koy.
+splint | atel | isim | The paramedic put a splint on the boy's broken finger. | Sağlık görevlisi çocuğun kırık parmağına atel taktı.
+plaster cast | alçı | isim | Camille had to wear a plaster cast for six weeks. | Camille altı hafta boyunca alçıyla dolaşmak zorunda kaldı.
+concussion | beyin sarsıntısı | isim | After hitting his head, the player was tested for concussion. | Kafasını çarptıktan sonra oyuncu beyin sarsıntısı geçirip geçirmediğini anlamak için muayene edildi.
+tourniquet | turnike, kan durdurma bağı | isim | He used his belt as a tourniquet to stop the bleeding. | Kanamayı durdurmak için kemerini turnike olarak kullandı.
+resuscitate | hayata döndürmek, canlandırmak | fiil | The paramedics managed to resuscitate the swimmer on the beach. | Sağlık görevlileri yüzücüyü sahilde hayata döndürmeyi başardı.
+life-saving | hayat kurtaran | sıfat | Every school should have life-saving equipment such as a defibrillator. | Her okulda defibrilatör gibi hayat kurtaran ekipman olmalı.
+emergency room | acil servis | isim | We spent four hours waiting in the emergency room. | Acil serviste dört saat bekledik.
+## Halk sağlığı
+public health | halk sağlığı | isim | Clean drinking water is essential for public health. | Temiz içme suyu halk sağlığı için hayati öneme sahiptir.
+epidemiology | epidemiyoloji, salgın bilimi | isim | Epidemiology studies how diseases spread through a population. | Epidemiyoloji hastalıkların bir nüfus içinde nasıl yayıldığını inceler.
+mortality | ölüm oranı | isim | Infant mortality has fallen sharply in many countries. | Bebek ölüm oranı birçok ülkede keskin biçimde düştü.
+sedentary | hareketsiz, oturarak geçen | sıfat | A sedentary lifestyle increases the risk of many illnesses. | Hareketsiz bir yaşam tarzı birçok hastalığın riskini artırır.
+screening | tarama, erken tanı testi | isim | Free cancer screening is offered to everyone over fifty. | Elli yaşın üstündeki herkese ücretsiz kanser taraması sunuluyor.
+hygiene | hijyen, temizlik | isim | Poor hygiene in the kitchen can make people ill. | Mutfaktaki kötü hijyen insanları hasta edebilir.
+sanitation | sağlık altyapısı (temiz su, kanalizasyon) | isim | Better sanitation has saved more lives than any medicine. | Daha iyi sağlık altyapısı herhangi bir ilaçtan daha fazla hayat kurtardı.
+preventive | önleyici, koruyucu | sıfat | Preventive medicine is often cheaper than treating a disease. | Koruyucu hekimlik genellikle bir hastalığı tedavi etmekten daha ucuzdur.
+healthcare | sağlık hizmetleri | isim | Everyone should have access to affordable healthcare. | Herkesin uygun fiyatlı sağlık hizmetlerine erişimi olmalı.
+well-being | iyi oluş, esenlik | isim | Regular walks are good for both physical and mental well-being. | Düzenli yürüyüşler hem fiziksel hem zihinsel iyi oluş için faydalıdır.

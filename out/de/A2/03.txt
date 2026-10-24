@@ -1,0 +1,111 @@
+# UNIT: Gesundheit | Arzt, Symptome, Apotheke, Notfall
+## Beim Arzt
+appointment | Termin | Ich habe um zehn Uhr einen Termin.
+patient | Patient, Patientin | Der Patient wartet draußen.
+examine | untersuchen | Der Arzt hat meinen Hals untersucht.
+prescription | Rezept | Für dieses Medikament brauchst du ein Rezept.
+treatment | Behandlung | Die Behandlung dauert zwei Wochen.
+check-up | Vorsorgeuntersuchung, Check-up | Ich gehe jedes Jahr zur Vorsorgeuntersuchung.
+clinic | Klinik, Praxis | Die Klinik öffnet um acht.
+waiting room | Wartezimmer | Das Wartezimmer war heute voll.
+blood test | Bluttest, Blutuntersuchung | Die Krankenschwester hat einen Bluttest gemacht.
+family doctor | Hausarzt | Mein Hausarzt kennt mich gut.
+## Symptome
+symptom | Symptom, Anzeichen | Welche Symptome haben Sie?
+fever | Fieber | Das Kind hat hohes Fieber.
+cough | husten; Husten | Er hat die ganze Nacht gehustet.
+sore throat | Halsschmerzen | Ich habe Halsschmerzen.
+runny nose | laufende Nase, Schnupfen | Anna hat heute Schnupfen.
+sneeze | niesen | Vom Staub muss ich niesen.
+dizzy | schwindlig | Mir wird schwindlig, wenn ich aufstehe.
+toothache | Zahnschmerzen | Omar ist mit Zahnschmerzen zum Zahnarzt gegangen.
+earache | Ohrenschmerzen | Mein Sohn hat Ohrenschmerzen.
+stomachache | Bauchschmerzen, Magenschmerzen | Ich habe zu viel gegessen und Bauchschmerzen bekommen.
+## Krankheiten
+flu | Grippe | Die halbe Klasse hat die Grippe.
+catch a cold | sich erkälten | Ich habe mich im Regen erkältet.
+infection | Infektion, Entzündung | Der Arzt sagt, es ist eine Ohrenentzündung.
+allergy | Allergie | Haben Sie Allergien?
+allergic | allergisch | Sofia ist allergisch gegen Nüsse.
+virus | Virus | Es ist nur ein Virus, mach dir nicht zu viele Sorgen.
+disease | Krankheit (medizinisch) | Herzkrankheiten sind sehr häufig.
+illness | Kranksein, Erkrankung | Sie hat wegen Krankheit bei der Arbeit gefehlt.
+asthma | Asthma | Lukas hat immer sein Asthmaspray dabei.
+food poisoning | Lebensmittelvergiftung | Er hat sich durch schlechten Fisch eine Lebensmittelvergiftung geholt.
+## In der Apotheke
+pharmacy | Apotheke | Gibt es hier in der Nähe eine Apotheke?
+pharmacist | Apotheker, Apothekerin | Frag den Apotheker um Rat.
+pill | Pille, Kapsel | Nimm nach jeder Mahlzeit eine Pille.
+tablet | Tablette | Diese Tabletten helfen gegen die Schmerzen.
+painkiller | Schmerzmittel | Ich habe ein Schmerzmittel gegen meine Rückenschmerzen genommen.
+syrup | Sirup, Saft | Dieser Hustensaft schmeckt furchtbar.
+cream | Creme, Salbe | Trag diese Creme zweimal am Tag auf die Haut auf.
+plaster | Pflaster | Ich brauche ein Pflaster für meinen Finger.
+bandage | Verband, Binde | Die Krankenschwester hat ihm einen Verband ums Knie gemacht.
+side effect | Nebenwirkung | Dieses Medikament hat keine ernsten Nebenwirkungen.
+## Verletzungen
+injury | Verletzung | Es ist nur eine kleine Verletzung.
+injure | verletzen | Bei dem Unfall wurden zwei Menschen verletzt.
+wound | Wunde | Reinige die Wunde mit Wasser.
+bleed (bled, bled) | bluten | Deine Nase blutet!
+bruise | blauer Fleck, Prellung | Ich habe einen großen blauen Fleck am Bein.
+burn (burnt, burnt) | verbrennen; Verbrennung | Ich habe mir die Hand am Backofen verbrannt.
+swollen | geschwollen | Mein Knöchel ist nach dem Spiel geschwollen.
+fall over | hinfallen, stürzen | Emre ist auf dem Eis hingefallen.
+sprain | verstauchen | Sie hat sich beim Tennis das Handgelenk verstaucht.
+scar | Narbe | Er hat eine Narbe am Kinn.
+## Notfall
+emergency | Notfall | Im Notfall ruf die 999 an.
+ambulance | Krankenwagen | Der Krankenwagen kam nach fünf Minuten.
+accident | Unfall | Auf der Autobahn gab es einen Unfall.
+first aid | Erste Hilfe | Maria kann Erste Hilfe leisten.
+paramedic | Sanitäter, Rettungssanitäter | Die Sanitäter haben dem alten Mann geholfen.
+unconscious | bewusstlos | Der Fahrer war bewusstlos.
+breathe | atmen | Atme langsam und bleib ruhig.
+faint | ohnmächtig werden | Sie ist wegen der Hitze ohnmächtig geworden.
+rescue | retten | Die Feuerwehr hat die Familie gerettet.
+stretcher | Trage | Sie haben ihn auf einer Trage hinausgetragen.
+## Im Krankenhaus
+ward | Station | Meine Oma liegt auf Station sechs.
+operation | Operation | Die Operation ist sehr gut verlaufen.
+surgeon | Chirurg, Chirurgin | Der Chirurg hat mit der Familie gesprochen.
+injection | Spritze, Injektion | Ich habe Angst vor Spritzen.
+x-ray | Röntgenbild, Röntgen | Das Röntgenbild zeigt einen gebrochenen Knochen.
+stitches | Stiche, Naht (Wunde) | Er musste mit fünf Stichen genäht werden.
+wheelchair | Rollstuhl | Das Krankenhaus hat ihm einen Rollstuhl gegeben.
+crutches | Krücken | Diego geht jetzt an Krücken.
+recover | sich erholen, genesen | Sie hat sich nach der Operation schnell erholt.
+visiting hours | Besuchszeiten | Die Besuchszeiten enden um acht.
+## Gesund leben
+diet | Ernährung; Diät | Zu einer gesunden Ernährung gehört viel Gemüse.
+work out | trainieren, Sport machen | Ich trainiere dreimal pro Woche.
+vitamin | Vitamin | Orangen sind voller Vitamin C.
+fit | fit, in Form | Yuki hält sich mit Schwimmen fit.
+lose weight | abnehmen | Er will vor dem Sommer abnehmen.
+put on weight | zunehmen | In den Ferien habe ich zugenommen.
+smoke | rauchen | Mein Vater hat letztes Jahr mit dem Rauchen aufgehört.
+stress | Stress | Zu viel Stress ist schlecht für die Gesundheit.
+balanced | ausgewogen | Versuch, ein ausgewogenes Frühstück zu essen.
+fresh air | frische Luft | Lass uns rausgehen und frische Luft schnappen.
+## Das Innere des Körpers
+lung | Lunge | Rauchen schadet der Lunge.
+brain | Gehirn | Schlaf ist wichtig fürs Gehirn.
+bone | Knochen | Milch ist gut für die Knochen.
+skin | Haut | Schütze deine Haut vor der Sonne.
+blood | Blut | Auf seinem Hemd war Blut.
+muscle | Muskel | Nach dem Fitnessstudio tun mir die Muskeln weh.
+chest | Brust, Brustkorb | Ich habe Schmerzen in der Brust.
+ankle | Knöchel, Fußgelenk | Ali hat sich den Knöchel verdreht.
+wrist | Handgelenk | Sie trägt eine Uhr am linken Handgelenk.
+elbow | Ellbogen | Ich habe mir den Ellbogen an der Tür gestoßen.
+## Mit dem Arzt sprechen
+what's the matter? | was ist los?, was fehlt dir? | Was ist los? Du siehst blass aus.
+I don't feel well | ich fühle mich nicht gut | Ich fühle mich nicht gut, ich gehe nach Hause.
+it hurts | es tut weh | Es tut weh, wenn ich gehe.
+get better | gesund werden, sich bessern | Ich hoffe, du wirst bald wieder gesund.
+get well soon | gute Besserung | Gute Besserung, Camille!
+lie down (lay, lain) | sich hinlegen | Legen Sie sich bitte hier hin.
+take your temperature | Fieber messen | Die Krankenschwester misst gleich Ihr Fieber.
+be off sick | krankgeschrieben sein | Tom ist heute krankgeschrieben.
+sick note | Krankschreibung, Attest | Mein Chef wollte eine Krankschreibung sehen.
+bless you | Gesundheit! (beim Niesen) | Hatschi! Gesundheit!

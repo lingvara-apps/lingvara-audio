@@ -1,0 +1,111 @@
+# UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
+## Çekirdek aile
+family | aile | isim | I have a big family. | Kalabalık bir ailem var.
+mother | anne | isim | My mother is a teacher. | Annem öğretmen.
+father | baba | isim | His father works in a bank. | Babası bir bankada çalışıyor.
+parents | anne baba, ebeveyn | isim (çoğul) | My parents live in Ankara. | Annemle babam Ankara'da yaşıyor.
+brother | erkek kardeş; ağabey | isim | My brother is older than me. | Ağabeyim benden büyük.
+sister | kız kardeş; abla | isim | Anna has two sisters. | Anna'nın iki kız kardeşi var.
+son | oğul | isim | Their son is five. | Oğulları beş yaşında.
+daughter | kız (evlat) | isim | Her daughter is a nurse. | Kızı hemşire.
+child (children) | çocuk | isim | They have three children. | Üç çocukları var.
+baby | bebek | isim | The baby is sleeping. | Bebek uyuyor.
+## Geniş aile
+grandmother | büyükanne, nine | isim | My grandmother makes great cakes. | Büyükannem harika kek yapar.
+grandfather | büyükbaba, dede | isim | My grandfather is eighty. | Dedem seksen yaşında.
+grandparents | büyükanne ve büyükbaba | isim (çoğul) | We visit our grandparents on Sundays. | Pazarları büyükannemle dedemi ziyaret ederiz.
+grandchild (grandchildren) | torun | isim | She has four grandchildren. | Onun dört torunu var.
+uncle | amca; dayı | isim | My uncle lives in London. | Amcam Londra'da yaşıyor.
+aunt | hala; teyze | isim | Aunt Maria is very funny. | Maria teyze çok komik.
+cousin | kuzen | isim | My cousin lives in Canada. | Kuzenim Kanada'da yaşıyor.
+husband | koca; eş (erkek) | isim | Her husband is a pilot. | Kocası pilot.
+wife (wives) | karı; eş (kadın) | isim | This is my wife, Sofia. | Bu eşim Sofia.
+twin | ikiz | isim | Ali and Omar are twins. | Ali ve Omar ikiz.
+## İnsanlar
+person (people) | kişi, insan | isim | She is a nice person. | O iyi bir insan.
+man (men) | adam, erkek | isim | That man is very tall. | O adam çok uzun boylu.
+woman (women) | kadın | isim | The woman in red is my aunt. | Kırmızılı kadın teyzem.
+girl | kız | isim | The girl is reading a book. | Kız kitap okuyor.
+friend | arkadaş | isim | Yuki is my friend. | Yuki benim arkadaşım.
+neighbor | komşu (İngiliz yazımı: neighbour) | isim | Our neighbor has a dog. | Komşumuzun bir köpeği var.
+guest | misafir | isim | We have guests tonight. | Bu akşam misafirlerimiz var.
+adult | yetişkin | isim | The ticket is for adults. | Bilet yetişkinler için.
+kid | çocuk (samimi) | isim | The kids are in the garden. | Çocuklar bahçede.
+teenager | genç, ergen | isim | My son is a teenager now. | Oğlum artık bir ergen.
+## Meslekler I
+job | iş, meslek | isim | What is your job? | Mesleğin ne?
+teacher | öğretmen | isim | Camille is an English teacher. | Camille İngilizce öğretmeni.
+doctor | doktor | isim | I need a doctor. | Bir doktora ihtiyacım var.
+nurse | hemşire | isim | The nurse is very kind. | Hemşire çok nazik.
+engineer | mühendis | isim | Emre is a civil engineer. | Emre inşaat mühendisi.
+driver | şoför, sürücü | isim | The bus driver is friendly. | Otobüs şoförü güler yüzlü.
+chef | aşçı, şef | isim | Diego is a chef. | Diego bir aşçı.
+waiter | garson | isim | The waiter brings the menu. | Garson menüyü getiriyor.
+police officer | polis memuru | isim | Ask the police officer. | Polis memuruna sor.
+farmer | çiftçi | isim | The farmer has many cows. | Çiftçinin çok ineği var.
+## Meslekler II
+worker | işçi, çalışan | isim | The workers start at eight. | İşçiler sekizde işe başlıyor.
+boss | patron | isim | My boss is very busy. | Patronum çok meşgul.
+office | ofis, büro | isim | I work in an office. | Bir ofiste çalışıyorum.
+lawyer | avukat | isim | Her mother is a lawyer. | Annesi avukat.
+dentist | diş hekimi | isim | I am going to the dentist today. | Bugün dişçiye gidiyorum.
+artist | sanatçı, ressam | isim | Lukas is a young artist. | Lukas genç bir ressam.
+singer | şarkıcı | isim | She wants to be a singer. | Şarkıcı olmak istiyor.
+writer | yazar | isim | My uncle is a writer. | Amcam yazar.
+shop assistant | tezgâhtar | isim | The shop assistant helps me. | Tezgâhtar bana yardım ediyor.
+pilot | pilot | isim | The pilot speaks English. | Pilot İngilizce konuşuyor.
+## Dış görünüş
+tall | uzun boylu | sıfat | My brother is very tall. | Kardeşim çok uzun boylu.
+short | kısa; kısa boylu | sıfat | She has short hair. | Saçları kısa.
+young | genç | sıfat | Our teacher is young. | Öğretmenimiz genç.
+old | yaşlı; eski | sıfat | The old man is my grandfather. | Yaşlı adam benim dedem.
+beautiful | güzel | sıfat | What a beautiful baby! | Ne güzel bir bebek!
+handsome | yakışıklı | sıfat | Her husband is handsome. | Kocası yakışıklı.
+pretty | hoş, sevimli | sıfat | Your daughter is very pretty. | Kızın çok sevimli.
+slim | ince (vücut) | sıfat | Maria is tall and slim. | Maria uzun boylu ve ince.
+strong | güçlü | sıfat | My father is very strong. | Babam çok güçlü.
+weak | zayıf, güçsüz | sıfat | I feel weak today. | Bugün kendimi güçsüz hissediyorum.
+## Karakter
+kind | nazik, iyi kalpli | sıfat | Your mother is very kind. | Annen çok iyi kalpli.
+friendly | cana yakın | sıfat | Our neighbors are friendly. | Komşularımız cana yakın.
+funny | komik | sıfat | Omar is really funny. | Omar gerçekten komik.
+nice | iyi, hoş | sıfat | She is a nice girl. | O hoş bir kız.
+shy | utangaç | sıfat | The new student is shy. | Yeni öğrenci utangaç.
+lazy | tembel | sıfat | My cat is very lazy. | Kedim çok tembel.
+clever | zeki, akıllı | sıfat | Yuki is a clever student. | Yuki zeki bir öğrenci.
+polite | kibar | sıfat | Please be polite. | Lütfen kibar ol.
+quiet | sessiz, sakin | sıfat | He is a quiet boy. | O sessiz bir çocuk.
+honest | dürüst | sıfat | I like honest people. | Dürüst insanları severim.
+## Duygular
+happy | mutlu | sıfat | I am happy today. | Bugün mutluyum.
+sad | üzgün | sıfat | Why is she sad? | O neden üzgün?
+angry | kızgın | sıfat | Dad is angry with me. | Babam bana kızgın.
+tired | yorgun | sıfat | I am very tired. | Çok yorgunum.
+bored | sıkılmış | sıfat | The kids are bored. | Çocuklar sıkıldı.
+worried | endişeli | sıfat | Mum is worried about you. | Annem senin için endişeli.
+afraid | korkmuş | sıfat | I am afraid of dogs. | Köpeklerden korkarım.
+surprised | şaşırmış | sıfat | She looks surprised. | Şaşırmış görünüyor.
+excited | heyecanlı | sıfat | We are excited about the trip. | Gezi için heyecanlıyız.
+calm | sakin | sıfat | Stay calm, please. | Lütfen sakin ol.
+## Hayatın evreleri
+be born | doğmak | ifade | I was born in Bursa. | Bursa'da doğdum.
+birthday | doğum günü | isim | Happy birthday, Anna! | Doğum günün kutlu olsun Anna!
+childhood | çocukluk | isim | I had a happy childhood. | Mutlu bir çocukluğum oldu.
+grow up (grew, grown) | büyümek | phrasal verb | I grew up in a village. | Bir köyde büyüdüm.
+get married | evlenmek | ifade | They are getting married in June. | Haziranda evleniyorlar.
+wedding | düğün | isim | The wedding is on Saturday. | Düğün cumartesi.
+divorced | boşanmış | sıfat | His parents are divorced. | Annesiyle babası boşanmış.
+love | sevgi, aşk; sevmek | isim | Love is important. | Sevgi önemlidir.
+die | ölmek | fiil | My old dog died last year. | Yaşlı köpeğim geçen yıl öldü.
+life | hayat | isim | Life is beautiful. | Hayat güzel.
+## İlişkiler
+boyfriend | erkek arkadaş, sevgili | isim | Her boyfriend is from Italy. | Erkek arkadaşı İtalyan.
+girlfriend | kız arkadaş, sevgili | isim | His girlfriend is a doctor. | Kız arkadaşı doktor.
+couple | çift | isim | They are a happy couple. | Onlar mutlu bir çift.
+best friend | en iyi arkadaş | isim | Ali is my best friend. | Ali benim en iyi arkadaşım.
+relative | akraba | isim | All our relatives are here. | Bütün akrabalarımız burada.
+only child | tek çocuk | isim | I am an only child. | Ben tek çocuğum.
+look like | benzemek | phrasal verb | You look like your mother. | Annene benziyorsun.
+older | daha büyük | sıfat | My older sister is a lawyer. | Ablam avukat.
+younger | daha küçük | sıfat | I have a younger brother. | Benden küçük bir erkek kardeşim var.
+each other | birbirini, birbirine | zamir | We love each other. | Birbirimizi seviyoruz.

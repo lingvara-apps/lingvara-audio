@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve toplum | Kanunlar, mahkeme, devlet, haklar
+## Kanunlar ve kurallar
+rule | kural | isim | Please read the rules before you start the game. | Lütfen oyuna başlamadan önce kuralları okuyun.
+legal | yasal, hukuki | sıfat | Is it legal to fly a drone over the city centre? | Şehir merkezinin üzerinde drone uçurmak yasal mı?
+illegal | yasa dışı | sıfat | It is illegal to park your car in front of a fire station. | Arabanızı itfaiye istasyonunun önüne park etmek yasa dışıdır.
+lawful | kanuna uygun, meşru | sıfat | The court decided that the company's actions were lawful. | Mahkeme şirketin eylemlerinin kanuna uygun olduğuna karar verdi.
+against the law | kanuna aykırı | ifade | Driving without insurance is against the law. | Sigortasız araç kullanmak kanuna aykırıdır.
+prohibited | yasaklanmış (resmî) | sıfat | Photography is prohibited inside the courtroom. | Mahkeme salonunda fotoğraf çekmek yasaktır.
+allowed | izin verilen, serbest | sıfat | Dogs are not allowed on the beach in summer. | Yazın plajda köpeklere izin verilmiyor.
+obey | uymak, itaat etmek | fiil | Everyone has to obey the law, even the richest people. | En zenginler dahil herkes kanuna uymak zorunda.
+break the law | yasayı çiğnemek | ifade | He didn't know he was breaking the law by camping there. | Orada kamp yaparak yasayı çiğnediğini bilmiyordu.
+forbidden | yasak | sıfat | Smoking is strictly forbidden inside the hospital building. | Hastane binasının içinde sigara içmek kesinlikle yasaktır.
+## Suç
+crime | suç | isim | Crime is a serious problem in some parts of the city. | Suç, şehrin bazı bölgelerinde ciddi bir sorun.
+criminal | suçlu; suçla ilgili | isim | The police caught the criminal at the airport. | Polis suçluyu havalimanında yakaladı.
+theft | hırsızlık | isim | She reported the theft of her bicycle to the police. | Bisikletinin çalınmasını polise bildirdi.
+thief (thieves) | hırsız | isim | A thief took my wallet while I was on the crowded bus. | Kalabalık otobüsteyken bir hırsız cüzdanımı aldı.
+robbery | soygun | isim | There was an armed robbery at the bank on Main Street. | Ana Cadde'deki bankada silahlı bir soygun oldu.
+burglar | ev hırsızı | isim | The burglar got in through an open kitchen window. | Ev hırsızı açık bir mutfak penceresinden girdi.
+shoplifting | mağazadan hırsızlık | isim | The teenager was caught shoplifting in a clothes shop. | Genç, bir giyim mağazasında hırsızlık yaparken yakalandı.
+offender | suç işleyen kişi, fail | isim | Young offenders often get a second chance from the court. | Genç suçlular mahkemeden sık sık ikinci bir şans alır.
+smuggle | kaçakçılık yapmak, kaçırmak | fiil | They tried to smuggle cigarettes across the border. | Sınırdan sigara kaçırmaya çalıştılar.
+commit | (suç) işlemek | fiil | Most young people who commit a crime never do it again. | Suç işleyen gençlerin çoğu bunu bir daha asla yapmaz.
+## Polis ve soruşturma
+patrol | devriye gezmek; devriye | fiil | Police officers patrol the park every night after ten. | Polisler her gece saat ondan sonra parkta devriye geziyor.
+investigate | soruşturmak, araştırmak | fiil | The police are investigating the fire at the warehouse. | Polis depodaki yangını soruşturuyor.
+investigation | soruşturma | isim | The investigation could take several months to complete. | Soruşturmanın tamamlanması birkaç ay sürebilir.
+fingerprint | parmak izi | isim | The police found his fingerprints on the broken window. | Polis kırık pencerede onun parmak izlerini buldu.
+witness | tanık | isim | A witness saw the man running away from the shop. | Bir tanık adamın dükkândan kaçtığını gördü.
+suspicious | şüpheli, kuşku uyandıran | sıfat | Call the police if you see anything suspicious near the station. | İstasyonun yakınında şüpheli bir şey görürseniz polisi arayın.
+arrest | tutuklamak, gözaltına almak | fiil | Two men were arrested near the station last night. | Dün gece istasyonun yakınında iki adam gözaltına alındı.
+clue | ipucu | isim | The detective found an important clue under the carpet. | Dedektif halının altında önemli bir ipucu buldu.
+detective | dedektif | isim | The detective spent hours talking to the neighbours. | Dedektif komşularla saatlerce konuştu.
+crime scene | olay yeri | isim | Nobody was allowed near the crime scene for two days. | İki gün boyunca kimsenin olay yerine yaklaşmasına izin verilmedi.
+## Mahkeme
+court | mahkeme | isim | The case will go to court at the end of next month. | Dava gelecek ayın sonunda mahkemeye gidecek.
+judge | hâkim, yargıç | isim | The judge listened carefully to both sides of the story. | Hâkim iki tarafı da dikkatle dinledi.
+testify | tanıklık etmek | fiil | Ali agreed to testify about what he saw that night. | Ali o gece gördükleri hakkında tanıklık etmeyi kabul etti.
+trial | yargılama, duruşma | isim | The trial is expected to last about three weeks. | Duruşmanın yaklaşık üç hafta sürmesi bekleniyor.
+defend | savunmak | fiil | A young lawyer will defend her in court. | Onu mahkemede genç bir avukat savunacak.
+case | dava | isim | The lawyer said we have a very strong case. | Avukat çok güçlü bir davamız olduğunu söyledi.
+accuse | suçlamak | fiil | She was accused of taking money from the company. | Şirketten para almakla suçlandı.
+guilty | suçlu | sıfat | The jury found him guilty of all three charges. | Jüri onu üç suçlamanın hepsinden suçlu buldu.
+innocent | masum, suçsuz | sıfat | Everyone is innocent until the court proves otherwise. | Mahkeme aksini kanıtlayana kadar herkes masumdur.
+on trial | yargılanıyor | ifade | Two men are on trial for stealing paintings from the museum. | İki adam müzeden tablo çalmaktan yargılanıyor.
+## Ceza
+jail | hapis, kodes | isim | He spent a night in jail after the fight. | Kavgadan sonra bir geceyi hapiste geçirdi.
+prison | hapishane, cezaevi | isim | She spent two years in prison for fraud. | Dolandırıcılıktan iki yıl cezaevinde kaldı.
+prisoner | mahkûm | isim | The prisoners are allowed to study for a degree. | Mahkûmların üniversite okumasına izin veriliyor.
+punishment | ceza | isim | Many people think the punishment was far too light. | Pek çok kişi cezanın fazlasıyla hafif olduğunu düşünüyor.
+punish | cezalandırmak | fiil | Should parents punish children for every small mistake? | Ebeveynler çocukları her küçük hata için cezalandırmalı mı?
+penalty | (para) cezası, yaptırım | isim | The penalty for not paying your taxes can be very high. | Vergilerinizi ödememenin cezası çok yüksek olabilir.
+release | serbest bırakmak, tahliye etmek | fiil | He was released from prison after serving three years. | Üç yıl yattıktan sonra cezaevinden tahliye edildi.
+behind bars | parmaklıklar ardında | deyim | The gang leader will be behind bars for many years. | Çete lideri uzun yıllar parmaklıklar ardında olacak.
+escape | kaçmak, firar etmek | fiil | Two prisoners escaped by climbing over the wall. | İki mahkûm duvarın üzerinden tırmanarak kaçtı.
+parking ticket | park cezası | isim | I got a parking ticket because I stayed too long. | Çok uzun kaldığım için park cezası yedim.
+## Devlet ve yönetim
+politician | politikacı | isim | The politician promised to build more hospitals next year. | Politikacı gelecek yıl daha fazla hastane yapma sözü verdi.
+senate | senato | isim | The new law must first be approved by the senate. | Yeni kanunun önce senato tarafından onaylanması gerekiyor.
+civil servant | devlet memuru | isim | My aunt has worked as a civil servant for twenty years. | Teyzem yirmi yıldır devlet memuru olarak çalışıyor.
+president | cumhurbaşkanı, başkan | isim | The president gave a speech on national television. | Cumhurbaşkanı ulusal televizyonda bir konuşma yaptı.
+political | siyasi, politik | sıfat | They never discuss political topics at family dinners. | Aile yemeklerinde asla siyasi konuları konuşmazlar.
+stand for election | seçimde aday olmak | ifade | Our neighbour plans to stand for election to the local council. | Komşumuz belediye meclisi seçiminde aday olmayı planlıyor.
+mayor | belediye başkanı | isim | The mayor promised to clean up the city's parks. | Belediye başkanı şehrin parklarını temizleme sözü verdi.
+local council | belediye meclisi, yerel yönetim | isim | The local council wants to open a new library in our area. | Belediye meclisi bölgemizde yeni bir kütüphane açmak istiyor.
+democratic | demokratik | sıfat | In a democratic country, people choose their leaders. | Demokratik bir ülkede insanlar liderlerini seçer.
+state | devlet | isim | In many countries, the state pays for basic education. | Birçok ülkede temel eğitimin parasını devlet öder.
+## Haklar ve özgürlükler
+freedom of speech | ifade özgürlüğü | ifade | Freedom of speech is important in a healthy society. | İfade özgürlüğü sağlıklı bir toplumda önemlidir.
+equal rights | eşit haklar | isim (çoğul) | Women in many countries fought for equal rights at work. | Pek çok ülkede kadınlar iş yerinde eşit haklar için mücadele etti.
+freedom | özgürlük | isim | For many young people, a first car means freedom. | Pek çok genç için ilk araba özgürlük anlamına gelir.
+free press | özgür basın | isim | A free press helps people learn the truth about those in power. | Özgür basın insanların iktidardakiler hakkındaki gerçeği öğrenmesine yardım eder.
+equal | eşit | sıfat | All citizens should be equal in the eyes of the law. | Bütün vatandaşlar kanun önünde eşit olmalıdır.
+discrimination | ayrımcılık | isim | Discrimination because of age is against the law here. | Burada yaş nedeniyle ayrımcılık kanuna aykırıdır.
+racist | ırkçı | sıfat | The club banned the fan for shouting racist comments. | Kulüp ırkçı sözler bağıran taraftarı yasakladı.
+peaceful | barışçıl | sıfat | Hundreds of students joined a peaceful march against higher fees. | Yüzlerce öğrenci yüksek harçlara karşı barışçıl bir yürüyüşe katıldı.
+demonstrator | eylemci, gösterici | isim | The demonstrators carried signs and sang songs in the square. | Eylemciler meydanda pankart taşıyıp şarkı söyledi.
+fairness | adalet, hakkaniyet | isim | Children have a strong sense of fairness from an early age. | Çocuklarda erken yaştan itibaren güçlü bir adalet duygusu vardır.
+## Toplum ve vatandaşlık
+social | sosyal, toplumsal | sıfat | The city is trying to solve its social problems, like loneliness. | Şehir yalnızlık gibi toplumsal sorunlarını çözmeye çalışıyor.
+good citizen | iyi vatandaş | ifade | Paying your taxes on time is part of being a good citizen. | Vergilerini zamanında ödemek iyi bir vatandaş olmanın parçasıdır.
+public service | kamu hizmeti | isim | Buses and libraries are important public services. | Otobüsler ve kütüphaneler önemli kamu hizmetleridir.
+social services | sosyal hizmetler | isim (çoğul) | Social services help families who have serious problems at home. | Sosyal hizmetler evde ciddi sorunları olan ailelere yardım eder.
+public | kamu; halka açık | sıfat | The library is a public building, so entry is free. | Kütüphane kamuya ait bir bina, bu yüzden giriş ücretsiz.
+unemployment benefit | işsizlik maaşı | isim | He received unemployment benefit for six months after losing his job. | İşini kaybettikten sonra altı ay işsizlik maaşı aldı.
+donation | bağış | isim | The hospital received a large donation from a local family. | Hastane yerel bir aileden büyük bir bağış aldı.
+responsibility | sorumluluk | isim | Keeping the streets clean is everyone's responsibility. | Sokakları temiz tutmak herkesin sorumluluğudur.
+duty | görev, yükümlülük | isim | It is your duty to tell the police what you saw. | Gördüklerini polise anlatmak senin görevin.
+donate | bağışlamak | fiil | We donated our old clothes to people who lost their homes. | Eski kıyafetlerimizi evini kaybeden insanlara bağışladık.
+## Resmî işlemler
+official letter | resmî yazı | isim | I received an official letter from the tax office this morning. | Bu sabah vergi dairesinden resmî bir yazı aldım.
+bureaucracy | bürokrasi | isim | Starting a small business here means dealing with a lot of bureaucracy. | Burada küçük bir işletme kurmak çok fazla bürokrasiyle uğraşmak demek.
+red tape | kırtasiyecilik, bürokratik engel | deyim | The new rules should cut the red tape for small companies. | Yeni kurallar küçük şirketler için bürokratik engelleri azaltmalı.
+notary | noter | isim | You need to sign the documents in front of a notary. | Belgeleri bir noterin önünde imzalamanız gerekiyor.
+application | başvuru | isim | Please send your application before the end of the month. | Lütfen başvurunuzu ay sonundan önce gönderin.
+queue up | sıraya girmek, kuyruğa girmek | phrasal verb | We had to queue up for two hours to renew our documents. | Belgelerimizi yenilemek için iki saat kuyrukta beklemek zorunda kaldık.
+licence | ehliyet, lisans, ruhsat | isim | She finally got her driving licence at the age of thirty. | Sonunda otuz yaşında ehliyetini aldı.
+identity card | kimlik kartı | isim | Please show your identity card at the entrance. | Lütfen girişte kimlik kartınızı gösterin.
+passport office | pasaport bürosu | isim | The queue at the passport office was over an hour long. | Pasaport bürosundaki kuyruk bir saatten uzundu.
+fill out | (form) doldurmak | phrasal verb | Please fill out this form and bring it back tomorrow. | Lütfen bu formu doldurun ve yarın geri getirin.
+## Anlaşmazlıklar ve adalet
+disagreement | anlaşmazlık | isim | The two neighbours had a long disagreement about the garden fence. | İki komşu bahçe çiti konusunda uzun bir anlaşmazlık yaşadı.
+make a complaint | şikâyette bulunmak | ifade | Camille made a complaint about the noise from the bar. | Camille bardan gelen gürültü hakkında şikâyette bulundu.
+take to court | mahkemeye vermek | ifade | The tenants decided to take their landlord to court. | Kiracılar ev sahiplerini mahkemeye vermeye karar verdi.
+settle | (anlaşmazlığı) çözmek, uzlaşmak | fiil | They settled the matter without going to court. | Meseleyi mahkemeye gitmeden çözdüler.
+fair trial | adil yargılama | ifade | Everyone deserves a fair trial, whatever they have done. | Ne yapmış olursa olsun herkes adil yargılanmayı hak eder.
+unfair | adaletsiz, haksız | sıfat | Many workers think the new rules are completely unfair. | Birçok çalışan yeni kuralların tamamen haksız olduğunu düşünüyor.
+injustice | adaletsizlik, haksızlık | isim | The film shows the injustice suffered by poor families. | Film yoksul ailelerin maruz kaldığı adaletsizliği gösteriyor.
+reach an agreement | anlaşmaya varmak | ifade | After long talks, the two sides finally reached an agreement. | Uzun görüşmelerden sonra iki taraf sonunda anlaşmaya vardı.
+legal advice | hukuki danışmanlık | isim | You can get free legal advice at the town hall on Mondays. | Pazartesi günleri belediyede ücretsiz hukuki danışmanlık alabilirsiniz.
+rights and duties | haklar ve görevler | ifade | Tenants should know their rights and duties before signing. | Kiracılar imzalamadan önce haklarını ve görevlerini bilmelidir.

@@ -1,0 +1,111 @@
+# UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+## Akademik süreç
+monograph | monografi | isim | She published a monograph on medieval trade routes across the North Sea. | Kuzey Denizi üzerinden geçen Orta Çağ ticaret yolları üzerine bir monografi yayımladı.
+dissertation | doktora tezi | isim | Omar spent four years writing his dissertation on coastal erosion. | Omar kıyı erozyonu üzerine doktora tezini yazmak için dört yıl harcadı.
+peer review | hakem değerlendirmesi | isim | The article finally passed peer review after two rounds of revisions. | Makale iki tur düzeltmeden sonra nihayet hakem değerlendirmesinden geçti.
+viva | tez savunması | isim | Her viva is scheduled for the second week of June. | Tez savunması haziranın ikinci haftasına planlandı.
+tenure | akademik kadro | isim | After ten years of teaching, he was finally granted tenure. | On yıl ders verdikten sonra nihayet kadroya alındı.
+citation | atıf | isim | Every citation must follow the style required by the journal. | Her atıf derginin istediği biçime uymalı.
+bibliography | kaynakça | isim | The bibliography runs to more than forty pages. | Kaynakça kırk sayfayı aşıyor.
+footnote | dipnot | isim | The author explains the term in a short footnote on page twelve. | Yazar terimi on ikinci sayfadaki kısa bir dipnotta açıklıyor.
+appendix (appendices) | ek (metin sonu) | isim | The full questionnaire is included in the appendix at the end. | Anketin tamamı sondaki ekte yer alıyor.
+symposium (symposia) | sempozyum | isim | Yuki presented her early findings at an international symposium in Lisbon. | Yuki ilk bulgularını Lizbon'daki uluslararası bir sempozyumda sundu.
+## Mantık ve argüman
+line of reasoning | akıl yürütme biçimi; düşünce silsilesi | ifade | I find it hard to follow her line of reasoning in the second chapter. | İkinci bölümdeki akıl yürütmesini takip etmekte zorlanıyorum.
+inference | çıkarım | isim | The inference he draws from such limited data seems rather bold. | Bu kadar sınırlı veriden çıkardığı sonuç oldukça cüretkâr görünüyor.
+logical leap | mantıksal sıçrama | ifade | Moving from one survey to a universal law is a huge logical leap. | Tek bir anketten evrensel bir yasaya geçmek büyük bir mantıksal sıçrama.
+induction | tümevarım | isim | Most scientific laws are reached through induction from repeated observations. | Bilimsel yasaların çoğuna tekrarlanan gözlemlerden tümevarımla ulaşılır.
+syllogism | kıyas (mantık) | isim | The lecturer opened the class with a classic syllogism about mortality. | Öğretim görevlisi derse ölümlülükle ilgili klasik bir kıyasla başladı.
+fallacy | safsata; mantık hatası | isim | Blaming the speaker instead of the idea is a common fallacy. | Fikir yerine konuşanı suçlamak yaygın bir mantık hatasıdır.
+sweeping generalisation | aşırı genelleme | ifade | Saying that all students dislike statistics is a sweeping generalisation. | Bütün öğrencilerin istatistikten hoşlanmadığını söylemek aşırı bir genellemedir.
+red herring | dikkat dağıtan konu; yanıltıcı ipucu | deyim | The question about funding was a red herring that distracted from the real issue. | Finansman sorusu asıl meseleden dikkati dağıtan yanıltıcı bir konuydu.
+corollary | doğal sonuç | isim | Rising prices are a natural corollary of the shortage. | Fiyatların yükselmesi kıtlığın doğal bir sonucudur.
+tautology | totoloji; gereksiz tekrar | isim | Saying that free gifts cost nothing is a tautology. | Bedava hediyelerin hiçbir şeye mal olmadığını söylemek bir totolojidir.
+## Araştırma yöntemi
+methodology | yöntem bilim; metodoloji | isim | The reviewers questioned the methodology rather than the results. | Hakemler sonuçlardan çok metodolojiyi sorguladı.
+hypothesis (hypotheses) | hipotez | isim | The data did not support our original hypothesis. | Veriler ilk hipotezimizi desteklemedi.
+variable | değişken | isim | We controlled for age, income and education as separate variables. | Yaş, gelir ve eğitimi ayrı değişkenler olarak kontrol ettik.
+sample size | örneklem büyüklüğü | isim | With such a small sample size, the results cannot be generalised. | Bu kadar küçük bir örneklemle sonuçlar genellenemez.
+control group | kontrol grubu | isim | Participants in the control group received no treatment at all. | Kontrol grubundaki katılımcılar hiç tedavi almadı.
+longitudinal | boylamsal | sıfat | A longitudinal study followed the same families for twenty years. | Boylamsal bir çalışma aynı aileleri yirmi yıl boyunca izledi.
+qualitative | nitel | sıfat | The project combines qualitative interviews with a large online survey. | Proje nitel görüşmeleri geniş bir çevrim içi anketle birleştiriyor.
+quantitative | nicel | sıfat | Quantitative methods alone could not explain why people changed their habits. | Nicel yöntemler tek başına insanların neden alışkanlıklarını değiştirdiğini açıklayamadı.
+replicate | (deneyi) tekrarlamak | fiil | Other labs have so far failed to replicate the experiment. | Diğer laboratuvarlar şimdiye kadar deneyi tekrarlayamadı.
+fieldwork | saha çalışması | isim | Diego did his fieldwork in small fishing villages along the coast. | Diego saha çalışmasını kıyı boyunca küçük balıkçı köylerinde yaptı.
+## Veri ve analiz
+dataset | veri seti | isim | The researchers made their entire dataset publicly available. | Araştırmacılar veri setinin tamamını kamuya açtı.
+variance | varyans; değişkenlik | isim | The variance between the two groups was larger than the team had expected. | İki grup arasındaki varyans ekibin beklediğinden daha büyüktü.
+causation | nedensellik | isim | The authors are careful not to confuse correlation with causation. | Yazarlar korelasyonu nedensellikle karıştırmamaya özen gösteriyor.
+outlier | aykırı değer | isim | One outlier distorted the average, so we removed it from the analysis. | Bir aykırı değer ortalamayı bozdu, bu yüzden onu analizden çıkardık.
+statistically significant | istatistiksel olarak anlamlı | ifade | The difference between the two groups was not statistically significant. | İki grup arasındaki fark istatistiksel olarak anlamlı değildi.
+margin of error | hata payı | isim | The poll has a margin of error of three percentage points. | Anketin hata payı üç puandır.
+standard deviation | standart sapma | isim | A small standard deviation means that most results lie close to the average. | Küçük bir standart sapma, sonuçların çoğunun ortalamaya yakın olduğu anlamına gelir.
+skew | çarpıtmak; dengesini bozmak | fiil | A few extremely rich households can skew the income figures. | Birkaç aşırı zengin hane gelir rakamlarını çarpıtabilir.
+extrapolate | ekstrapolasyon yapmak; genellemek | fiil | It is risky to extrapolate from one season's data to the next decade. | Tek mevsimin verilerinden önümüzdeki on yıla genelleme yapmak risklidir.
+anomaly | anormallik; sapma | isim | At first, the team dismissed the strange reading as a minor anomaly. | Ekip ilk başta tuhaf ölçümü küçük bir sapma diye geçiştirdi.
+## İddia ve kanıt fiilleri
+posit | ileri sürmek; varsaymak | fiil | The theory posits that language shapes the way we perceive colour. | Kuram, dilin rengi algılama biçimimizi şekillendirdiğini ileri sürer.
+purport | iddia etmek; -miş gibi görünmek | fiil | The study purports to show a link between sleep and memory. | Çalışma uyku ile bellek arasında bir bağlantı gösterdiğini iddia ediyor.
+bear out (bore, borne) | doğrulamak; desteklemek | phrasal verb | The latest findings bear out what Yuki suspected years ago. | Son bulgular Yuki'nin yıllar önce şüphelendiği şeyi doğruluyor.
+corroborate | teyit etmek | fiil | Two independent witnesses corroborate her version of events. | İki bağımsız tanık onun olaylara dair anlatımını teyit ediyor.
+invalidate | geçersiz kılmak | fiil | A single error in the sampling could invalidate the entire experiment. | Örneklemedeki tek bir hata bütün deneyi geçersiz kılabilir.
+bolster | desteklemek; güçlendirmek | fiil | Diego added three new case studies to bolster his argument. | Diego argümanını güçlendirmek için üç yeni vaka çalışması ekledi.
+attest | kanıtlamak; tanıklık etmek | fiil | Hundreds of surviving letters attest to their long friendship. | Günümüze ulaşan yüzlerce mektup uzun dostluklarına tanıklık ediyor.
+allege | iddia etmek (kanıtsız) | fiil | Critics allege that the figures were adjusted to look more favourable. | Eleştirmenler rakamların daha olumlu görünmesi için değiştirildiğini iddia ediyor.
+vindicate | haklı çıkarmak | fiil | The latest findings seem to vindicate her controversial theory. | Son bulgular onun tartışmalı kuramını haklı çıkarıyor gibi görünüyor.
+debunk | çürütmek; asılsızlığını göstermek | fiil | The documentary sets out to debunk several popular myths about diet. | Belgesel beslenmeyle ilgili birçok yaygın efsanenin asılsızlığını göstermeyi amaçlıyor.
+## İnceleme ve yorum fiilleri
+scrutinise | titizlikle incelemek | fiil | The committee will scrutinise every page of the final report. | Komite nihai raporun her sayfasını titizlikle inceleyecek.
+elucidate | aydınlatmak; açıklığa kavuşturmak | fiil | The second chapter elucidates the link between climate and migration. | İkinci bölüm iklim ile göç arasındaki bağı açıklığa kavuşturuyor.
+delineate | ana hatlarını çizmek | fiil | The introduction clearly delineates the scope of the study. | Giriş bölümü çalışmanın kapsamını açıkça çiziyor.
+juxtapose | yan yana koymak (karşılaştırmak için) | fiil | The author juxtaposes urban and rural attitudes towards family. | Yazar kentsel ve kırsal kesimin aileye bakışını yan yana koyuyor.
+synthesise | sentezlemek | fiil | A good review should synthesise decades of research into a clear picture. | İyi bir derleme, onlarca yıllık araştırmayı sentezleyerek net bir tablo ortaya koymalı.
+conceptualise | kavramsallaştırmak | fiil | The author conceptualises memory as a social rather than an individual process. | Yazar belleği bireysel değil toplumsal bir süreç olarak kavramsallaştırıyor.
+construe | yorumlamak | fiil | Her silence was construed as agreement by the rest of the committee. | Sessizliği komitenin geri kalanı tarafından onay olarak yorumlandı.
+expound | ayrıntılı açıklamak | fiil | In his final lecture, he expounded his views on moral responsibility. | Son dersinde ahlaki sorumluluk hakkındaki görüşlerini ayrıntılı biçimde açıkladı.
+problematise | sorunsallaştırmak | fiil | Recent studies problematise the simple division between nature and culture. | Son çalışmalar doğa ve kültür arasındaki basit ayrımı sorunsallaştırıyor.
+contextualise | bağlamına oturtmak | fiil | It is important to contextualise these letters within the politics of the time. | Bu mektupları dönemin siyasi ortamı içinde bağlamına oturtmak önemli.
+## Kuram ve kavram
+paradigm | paradigma | isim | Quantum theory marked a profound shift in the scientific paradigm. | Kuantum kuramı bilimsel paradigmada derin bir değişime işaret etti.
+framework | çerçeve | isim | The study uses a theoretical framework borrowed from economics. | Çalışma ekonomiden ödünç alınmış kuramsal bir çerçeve kullanıyor.
+construct | kurgu; yapı (kavramsal) | isim | Many sociologists see childhood as a social construct. | Birçok sosyolog çocukluğu toplumsal bir kurgu olarak görür.
+axiom | aksiyom; belit | isim | The whole system rests on a handful of simple axioms. | Bütün sistem birkaç basit aksiyoma dayanıyor.
+postulate | varsayım; postulat | isim | The second postulate of the theory remains highly controversial. | Kuramın ikinci varsayımı hâlâ son derece tartışmalı.
+dichotomy | ikilik; ikiye bölünme | isim | The book challenges the false dichotomy between reason and emotion. | Kitap akıl ile duygu arasındaki yanlış ikiliğe meydan okuyor.
+nuance | nüans; ince ayrım | isim | The translation loses much of the nuance of the original poem. | Çeviri asıl şiirin inceliklerinin çoğunu kaybediyor.
+discourse | söylem | isim | Environmental issues now dominate public discourse in many countries. | Çevre sorunları artık birçok ülkede kamusal söyleme hâkim.
+epistemology | bilgi kuramı; epistemoloji | isim | Her course on epistemology asks how we can know anything for certain. | Epistemoloji dersinde, herhangi bir şeyi nasıl kesin olarak bilebileceğimizi sorguluyor.
+taxonomy | sınıflandırma; taksonomi | isim | The researchers proposed a new taxonomy of learning difficulties. | Araştırmacılar öğrenme güçlükleri için yeni bir sınıflandırma önerdi.
+## Temkinli dil
+arguably | tartışmaya açık olsa da; muhtemelen | zarf | This is arguably the most important discovery of the century. | Bu, belki de yüzyılın en önemli keşfi.
+ostensibly | görünüşte | zarf | The meeting was ostensibly about funding, but nobody mentioned money. | Toplantı görünüşte finansmanla ilgiliydi ama kimse paradan bahsetmedi.
+presumably | tahminen; herhalde | zarf | The manuscript was presumably written in the early eighteenth century. | El yazması tahminen on sekizinci yüzyılın başlarında yazılmış.
+tentative | geçici; temkinli | sıfat | These are only tentative conclusions based on the first year of data. | Bunlar yalnızca ilk yılın verilerine dayanan geçici sonuçlar.
+speculative | spekülatif; varsayıma dayalı | sıfat | At this stage, any explanation for the pattern remains largely speculative. | Bu aşamada örüntüye dair her açıklama büyük ölçüde varsayıma dayalı kalıyor.
+conceivably | düşünülebilir ki; belki | zarf | The effect could conceivably be stronger in younger children. | Etki küçük çocuklarda belki daha güçlü olabilir.
+to some extent | bir ölçüde | ifade | To some extent, the results confirm what teachers had long suspected. | Sonuçlar bir ölçüde öğretmenlerin uzun zamandır şüphelendiği şeyi doğruluyor.
+it would appear that | öyle görünüyor ki | ifade | It would appear that the virus spreads more slowly in dry weather. | Öyle görünüyor ki virüs kuru havada daha yavaş yayılıyor.
+by and large | genel olarak | ifade | By and large, the students responded positively to the new course. | Öğrenciler genel olarak yeni derse olumlu tepki verdi.
+caveat | çekince; uyarı | isim | One important caveat is that all participants were university students. | Önemli bir çekince, bütün katılımcıların üniversite öğrencisi olmasıdır.
+## Akademik sıfatlar
+empirical | deneysel; görgül | sıfat | There is little empirical evidence to support this popular claim. | Bu yaygın iddiayı destekleyen pek az deneysel kanıt var.
+rigorous | titiz; sıkı | sıfat | The new drug went through rigorous testing before it was approved. | Yeni ilaç onaylanmadan önce titiz testlerden geçti.
+salient | göze çarpan; belirgin | sıfat | The most salient feature of the data is the sharp drop in 2009. | Verilerin en göze çarpan özelliği 2009'daki keskin düşüş.
+cogent | ikna edici; sağlam | sıfat | She made a cogent case for changing the way we measure poverty. | Yoksulluğu ölçme biçimimizi değiştirmek için ikna edici bir gerekçe sundu.
+seminal | çığır açan; ufuk açıcı | sıfat | His seminal paper on memory is still cited by thousands of researchers. | Bellek üzerine çığır açan makalesi hâlâ binlerce araştırmacıdan atıf alıyor.
+inconclusive | sonuçsuz; kesin olmayan | sıfat | The results of the trial were inconclusive, so a larger study is planned. | Denemenin sonuçları kesin değildi, bu yüzden daha büyük bir çalışma planlanıyor.
+interdisciplinary | disiplinlerarası | sıfat | The centre encourages interdisciplinary research between biology and computing. | Merkez biyoloji ile bilgisayar bilimi arasında disiplinlerarası araştırmayı teşvik ediyor.
+peripheral | ikincil; çevresel | sıfat | These questions are peripheral to the main argument of the book. | Bu sorular kitabın ana argümanına göre ikincil kalıyor.
+robust | sağlam; güvenilir | sıfat | The findings proved robust across several different countries. | Bulgular birkaç farklı ülkede de sağlam çıktı.
+spurious | sahte; yanıltıcı | sıfat | The apparent link between the two trends turned out to be spurious. | İki eğilim arasındaki görünen bağın yanıltıcı olduğu ortaya çıktı.
+## Akademik kalıplar
+in light of | ışığında | ifade | In light of these findings, the policy should be reconsidered. | Bu bulgular ışığında politika yeniden değerlendirilmeli.
+with regard to | ile ilgili olarak | ifade | With regard to funding, the university has promised further support. | Finansmanla ilgili olarak üniversite ek destek sözü verdi.
+notwithstanding | -e rağmen | edat | Notwithstanding its limitations, the study offers valuable insights. | Sınırlılıklarına rağmen çalışma değerli bilgiler sunuyor.
+vis-a-vis | -e göre; karşısında | edat | The paper examines the position of small states vis-a-vis their larger neighbours. | Makale küçük devletlerin büyük komşuları karşısındaki konumunu inceliyor.
+inter alia | diğerlerinin yanı sıra | ifade | The report covers, inter alia, housing, transport and public health. | Rapor diğerlerinin yanı sıra konut, ulaşım ve halk sağlığını kapsıyor.
+it is worth noting that | belirtmekte fayda var ki | ifade | It is worth noting that the survey was carried out before the crisis. | Belirtmekte fayda var ki anket krizden önce yapıldı.
+to put it another way | başka bir deyişle | ifade | To put it another way, the cheaper option may cost more in the long run. | Başka bir deyişle, ucuz seçenek uzun vadede daha pahalıya mal olabilir.
+as outlined above | yukarıda özetlendiği gibi | ifade | As outlined above, the method has three main stages. | Yukarıda özetlendiği gibi yöntemin üç ana aşaması var.
+this paper argues that | bu makale şunu savunuyor | ifade | This paper argues that early bilingualism improves concentration. | Bu makale erken iki dilliliğin dikkati geliştirdiğini savunuyor.
+further research is needed | daha fazla araştırma gerekiyor | ifade | Further research is needed to confirm these results in older adults. | Bu sonuçları yaşlı yetişkinlerde doğrulamak için daha fazla araştırma gerekiyor.

@@ -1,0 +1,111 @@
+# UNIT: Salomatlik | Shifokor, alomatlar, dorixona, favqulodda holat
+## Shifokor qabulida
+appointment | qabul (vaqti), uchrashuv | Soat oʻnda shifokor qabuliga yozilganman.
+patient | bemor | Bemor tashqarida kutyapti.
+examine | koʻrikdan oʻtkazmoq, tekshirmoq | Shifokor tomogʻimni tekshirdi.
+prescription | retsept | Bu doriga retsept kerak.
+treatment | davolash, muolaja | Davolash ikki hafta davom etadi.
+check-up | profilaktik koʻrik, tibbiy koʻrik | Har yili tibbiy koʻrikdan oʻtaman.
+clinic | klinika, poliklinika | Klinika soat sakkizda ochiladi.
+waiting room | kutish zali | Bugun kutish zali odamga toʻla edi.
+blood test | qon tahlili | Hamshira qon tahlili oldi.
+family doctor | oilaviy shifokor | Oilaviy shifokorim meni yaxshi biladi.
+## Alomatlar
+symptom | alomat, belgi | Qanday alomatlaringiz bor?
+fever | isitma, harorat | Bolaning harorati baland.
+cough | yoʻtalmoq; yoʻtal | U tun boʻyi yoʻtaldi.
+sore throat | tomoq ogʻrigʻi | Tomogʻim ogʻriyapti.
+runny nose | tumov, burun oqishi | Bugun Annaning burni oqyapti.
+sneeze | aksirmoq | Chang meni aksirtiradi.
+dizzy | boshi aylanayotgan | Oʻrnimdan turganimda boshim aylanadi.
+toothache | tish ogʻrigʻi | Omar tishi ogʻrib, tish shifokoriga bordi.
+earache | quloq ogʻrigʻi | Oʻgʻlimning qulogʻi ogʻriyapti.
+stomachache | qorin ogʻrigʻi | Koʻp yeb qoʻyib, qornim ogʻridi.
+## Kasalliklar
+flu | gripp | Sinfning yarmi gripp boʻlgan.
+catch a cold | shamollamoq | Yomgʻirda shamollab qoldim.
+infection | infeksiya, yalligʻlanish | Shifokor buni quloq infeksiyasi dedi.
+allergy | allergiya | Biror narsaga allergiyangiz bormi?
+allergic | allergiyasi bor | Sofiyaning yongʻoqqa allergiyasi bor.
+virus | virus | Bu shunchaki virus, koʻp xavotir olma.
+disease | kasallik (tibbiy) | Yurak kasalligi juda keng tarqalgan.
+illness | betoblik, xastalik | U betobligi sababli ishga chiqmadi.
+asthma | astma, nafas qisishi | Lukas astma ingalyatorini doim yonida olib yuradi.
+food poisoning | ovqatdan zaharlanish | U buzilgan baliqdan zaharlandi.
+## Dorixonada
+pharmacy | dorixona | Yaqin atrofda dorixona bormi?
+pharmacist | farmatsevt, dorixonachi | Farmatsevtdan maslahat soʻra.
+pill | hap, dori | Har ovqatdan keyin bitta hap ich.
+tablet | tabletka | Bu tabletkalar ogʻriqqa yordam beradi.
+painkiller | ogʻriq qoldiruvchi dori | Belim uchun ogʻriq qoldiruvchi ichdim.
+syrup | sirop, sharbat dori | Bu yoʻtal siropining taʼmi dahshatli.
+cream | krem, malham | Bu kremni teringa kuniga ikki marta surt.
+plaster | leykoplastir | Barmogʻim uchun leykoplastir kerak.
+bandage | bint, boylam | Hamshira uning tizzasini bintladi.
+side effect | nojoʻya taʼsir | Bu dorining jiddiy nojoʻya taʼsiri yoʻq.
+## Jarohatlar
+injury | jarohat, shikast | Bu shunchaki kichik jarohat.
+injure | jarohatlamoq, shikastlamoq | Avariyada ikki kishi jarohatlandi.
+wound | yara | Yarani suv bilan yuv.
+bleed (bled, bled) | qon ketmoq | Burningdan qon ketyapti!
+bruise | koʻkarish, momataloq | Oyogʻimda katta koʻkarish bor.
+burn (burnt, burnt) | kuydirmoq; kuyish | Qoʻlimni pechda kuydirib oldim.
+swollen | shishgan | Oʻyindan keyin toʻpigʻim shishib ketdi.
+fall over | yiqilmoq | Emre muzda yiqildi.
+sprain | lat yedirmoq, payini choʻzib olmoq | U tennis oʻynayotib bilagini lat yedirdi.
+scar | chandiq | Uning iyagida chandiq bor.
+## Favqulodda holat
+emergency | favqulodda holat | Favqulodda holatda 999 ga qoʻngʻiroq qiling.
+ambulance | tez yordam mashinasi | Tez yordam besh daqiqada yetib keldi.
+accident | baxtsiz hodisa, avariya | Avtomagistralda avariya boʻldi.
+first aid | birinchi yordam | Mariya birinchi yordam koʻrsatishni biladi.
+paramedic | tez yordam xodimi, feldsher | Tez yordam xodimlari keksa odamga yordam berishdi.
+unconscious | hushsiz | Haydovchi hushsiz edi.
+breathe | nafas olmoq | Sekin nafas ol va xotirjam boʻl.
+faint | hushidan ketmoq | U issiqdan hushidan ketdi.
+rescue | qutqarmoq | Oʻt oʻchiruvchilar oilani qutqarishdi.
+stretcher | zambil | Uni zambilda olib chiqishdi.
+## Kasalxonada
+ward | palata | Buvim oltinchi palatada yotibdi.
+operation | operatsiya, jarrohlik amaliyoti | Operatsiya juda yaxshi oʻtdi.
+surgeon | jarroh | Jarroh oila bilan gaplashdi.
+injection | ukol, inʼeksiya | Men ukoldan qoʻrqaman.
+x-ray | rentgen | Rentgen suyak singanini koʻrsatyapti.
+stitches | choklar (yarada) | Unga beshta chok qoʻyish kerak boʻldi.
+wheelchair | nogironlar aravachasi | Kasalxona unga nogironlar aravachasi berdi.
+crutches | qoʻltiqtayoq | Diego hozir qoʻltiqtayoqda yuradi.
+recover | tuzalmoq, sogʻaymoq | U operatsiyadan keyin tez tuzaldi.
+visiting hours | koʻrish vaqti (bemorlarni) | Bemorlarni koʻrish vaqti soat sakkizda tugaydi.
+## Sogʻlom turmush
+diet | ovqatlanish tartibi; parhez | Sogʻlom ovqatlanish tartibida sabzavot koʻp boʻladi.
+work out | mashq qilmoq, sport bilan shugʻullanmoq | Haftasiga uch marta sport bilan shugʻullanaman.
+vitamin | vitamin | Apelsinda C vitamini koʻp.
+fit | baquvvat, sport formasida | Yuki suzish orqali formasini saqlaydi.
+lose weight | ozmoq, vazn tashlamoq | U yozgacha ozmoqchi.
+put on weight | semirmoq, vazn olmoq | Taʼtil paytida semirib qoldim.
+smoke | chekmoq | Dadam oʻtgan yili chekishni tashladi.
+stress | stress, zoʻriqish | Ortiqcha stress sogʻliq uchun zararli.
+balanced | muvozanatli | Muvozanatli nonushta qilishga harakat qil.
+fresh air | toza havo | Keling, tashqariga chiqib, toza havo olaylik.
+## Tananing ichki aʼzolari
+lung | oʻpka | Chekish oʻpkaga zarar yetkazadi.
+brain | miya | Uyqu miya uchun muhim.
+bone | suyak | Sut suyaklar uchun foydali.
+skin | teri | Terini quyoshdan asra.
+blood | qon | Uning koʻylagida qon bor edi.
+muscle | muskul, mushak | Sport zalidan keyin muskullarim ogʻriyapti.
+chest | koʻkrak | Koʻkragimda ogʻriq bor.
+ankle | toʻpiq | Ali toʻpigʻini qayirib oldi.
+wrist | bilak | U chap bilagiga soat taqadi.
+elbow | tirsak | Tirsagimni eshikka urib oldim.
+## Shifokor bilan suhbat
+what's the matter? | nima boʻldi? | Nima boʻldi? Rangingiz oqarib ketibdi.
+I don't feel well | oʻzimni yaxshi his qilmayapman | Oʻzimni yaxshi his qilmayapman, uyga ketyapman.
+it hurts | ogʻriyapti | Yurganimda ogʻriydi.
+get better | tuzalmoq, yaxshi boʻlib qolmoq | Tezroq tuzalib ketishingga umid qilaman.
+get well soon | tezroq sogʻayib ket | Tezroq sogʻayib ket, Camille!
+lie down (lay, lain) | yotmoq, choʻzilmoq | Iltimos, shu yerga yoting.
+take your temperature | haroratini oʻlchamoq | Hamshira haroratingizni oʻlchaydi.
+be off sick | kasallik taʼtilida boʻlmoq | Tom bugun kasallik taʼtilida.
+sick note | kasallik varaqasi, shifokor maʼlumotnomasi | Xoʻjayinim kasallik varaqasini soʻradi.
+bless you | sogʻ boʻl (aksirganda) | Apchxi! Sogʻ boʻl!

@@ -1,0 +1,111 @@
+# UNIT: Alışveriş ve giyim | Para, renkler, kıyafetler, vücut, sağlık
+## Mağazada
+shop | dükkân | isim | The shop opens at nine. | Dükkân dokuzda açılıyor.
+cashier | kasiyer | isim | The cashier is very friendly. | Kasiyer çok güler yüzlü.
+sell (sold, sold) | satmak | fiil · düzensiz | They sell fresh bread here. | Burada taze ekmek satıyorlar.
+store | mağaza | isim | The store is very big. | Mağaza çok büyük.
+shopping | alışveriş | isim | I go shopping on Saturdays. | Cumartesileri alışverişe giderim.
+open | açık; açmak | sıfat | Is the shop open today? | Dükkân bugün açık mı?
+closed | kapalı | sıfat | Sorry, we are closed. | Üzgünüz, kapalıyız.
+sold out | tükendi, kalmadı | ifade | Sorry, the red ones are sold out. | Üzgünüz, kırmızılar tükendi.
+show (showed, shown) | göstermek | fiil · düzensiz | Can you show me that bag? | Bana şu çantayı gösterebilir misiniz?
+need | ihtiyacı olmak | fiil | I need new shoes. | Yeni ayakkabılara ihtiyacım var.
+## Para ve ödeme
+money | para | isim | I don't have much money. | Fazla param yok.
+price | fiyat | isim | What is the price of this? | Bunun fiyatı ne?
+pay (paid, paid) | ödemek | fiil · düzensiz | Can I pay by card? | Kartla ödeyebilir miyim?
+cost (cost, cost) | tutmak, mal olmak | fiil · düzensiz | How much does it cost? | Ne kadar tutuyor?
+cash | nakit | isim | I only have cash. | Sadece nakit param var.
+card | kart | isim | Here is my card. | İşte kartım.
+cent | sent | isim | It costs ninety cents. | Doksan sent tutuyor.
+pound | sterlin; libre | isim | It costs five pounds. | Beş sterlin tutuyor.
+dollar | dolar | isim | This shirt is twenty dollars. | Bu gömlek yirmi dolar.
+purse | para cüzdanı (kadın) | isim | Her purse is in her bag. | Para cüzdanı çantasında.
+## Ucuz ve pahalı
+cheap | ucuz | sıfat | These socks are very cheap. | Bu çoraplar çok ucuz.
+expensive | pahalı | sıfat | London is expensive. | Londra pahalı.
+sale | indirim; satış | isim | The shoes are on sale. | Ayakkabılar indirimde.
+free | bedava; boş | sıfat | The water is free. | Su bedava.
+too much | çok fazla | ifade | That is too much money. | Bu çok fazla para.
+count | saymak | fiil | Count your change, please. | Lütfen para üstünü say.
+want | istemek | fiil | Do you want this dress? | Bu elbiseyi istiyor musun?
+choose (chose, chosen) | seçmek | fiil · düzensiz | Choose one colour, please. | Lütfen bir renk seç.
+enough | yeterli; yeterince | sıfat | I don't have enough money. | Yeterince param yok.
+euro | avro | isim | The bag costs fifty euros. | Çanta elli avro tutuyor.
+## Renkler ve tonlar
+colour | renk | isim | What colour is your coat? | Montunun rengi ne?
+grey | gri | sıfat | He has a grey suit. | Gri bir takımı var.
+gold | altın; altın rengi | sıfat | She wears a gold ring. | Altın bir yüzük takıyor.
+silver | gümüş; gümüş rengi | sıfat | I like this silver watch. | Bu gümüş saati beğeniyorum.
+navy | lacivert | sıfat | The school uniform is navy. | Okul forması lacivert.
+light blue | açık mavi | sıfat | I want the light blue shirt. | Açık mavi gömleği istiyorum.
+dark green | koyu yeşil | sıfat | Her bag is dark green. | Çantası koyu yeşil.
+colourful | renkli, rengârenk | sıfat | Diego likes colourful socks. | Diego renkli çorapları sever.
+beige | bej | sıfat | I have a beige coat. | Bej bir montum var.
+turquoise | turkuaz | sıfat | The sea is turquoise here. | Burada deniz turkuaz.
+## Kıyafetler
+clothes | kıyafetler, giysiler | isim (çoğul) | I need new clothes. | Yeni kıyafetlere ihtiyacım var.
+shirt | gömlek | isim | His shirt is white. | Gömleği beyaz.
+T-shirt | tişört | isim | Take a T-shirt for the beach. | Plaj için bir tişört al.
+trousers | pantolon | isim (çoğul) | These trousers are too long. | Bu pantolon çok uzun.
+jeans | kot pantolon | isim (çoğul) | I wear jeans every day. | Her gün kot giyiyorum.
+dress | elbise | isim | What a nice dress! | Ne güzel bir elbise!
+skirt | etek | isim | Anna has a short skirt. | Anna'nın kısa bir eteği var.
+jacket | ceket | isim | Wear your jacket, it's cold. | Ceketini giy, hava soğuk.
+coat | palto, mont | isim | My winter coat is warm. | Kış montum sıcak.
+sweater | kazak | isim | I wear a sweater in winter. | Kışın kazak giyerim.
+## Ayakkabı ve aksesuar
+shoe | ayakkabı | isim | Where is my other shoe? | Diğer ayakkabım nerede?
+sandal | sandalet | isim | I wear sandals in summer. | Yazın sandalet giyerim.
+sock | çorap | isim | I can't find my socks. | Çoraplarımı bulamıyorum.
+hat | şapka | isim | Put on your hat. | Şapkanı tak.
+scarf (scarves) | atkı; eşarp | isim | This scarf is very soft. | Bu atkı çok yumuşak.
+glove | eldiven | isim | Yuki always forgets her gloves. | Yuki eldivenlerini hep unutur.
+belt | kemer | isim | This belt is too short. | Bu kemer çok kısa.
+watch | kol saati | isim | My watch is slow. | Saatim geri kalıyor.
+umbrella | şemsiye | isim | Take an umbrella with you. | Yanına bir şemsiye al.
+wallet | cüzdan | isim | My wallet is in my bag. | Cüzdanım çantamda.
+## Beden ve giyinmek
+size | beden; boyut | isim | What size are you? | Kaç beden giyiyorsunuz?
+large | büyük (beden) | sıfat | Do you have this in large? | Bunun büyük bedeni var mı?
+shorts | şort | isim (çoğul) | It's hot, wear your shorts. | Hava sıcak, şortunu giy.
+underwear | iç çamaşırı | isim | Pack some clean underwear. | Çantaya temiz iç çamaşırı koy.
+wear (wore, worn) | giymek; takmak | fiil · düzensiz | She always wears black. | Hep siyah giyer.
+glasses | gözlük | isim (çoğul) | I can't read without my glasses. | Gözlüğüm olmadan okuyamıyorum.
+tie | kravat | isim | He wears a tie to work. | İşe kravat takıyor.
+pocket | cep | isim | My phone is in my pocket. | Telefonum cebimde.
+button | düğme | isim | A button is missing. | Bir düğme eksik.
+medium | orta (beden) | sıfat | I need a medium, please. | Orta beden lazım, lütfen.
+## Vücut: baş ve yüz
+body | vücut | isim | Sport is good for the body. | Spor vücuda iyi gelir.
+head | baş, kafa | isim | Turn your head, please. | Lütfen başını çevir.
+face | yüz | isim | Wash your face. | Yüzünü yıka.
+hair | saç | isim | Sofia has long hair. | Sofia'nın uzun saçları var.
+eye | göz | isim | He has blue eyes. | Mavi gözleri var.
+ear | kulak | isim | My ear is cold. | Kulağım üşüyor.
+nose | burun | isim | The baby has a small nose. | Bebeğin küçük bir burnu var.
+mouth | ağız | isim | Open your mouth, please. | Lütfen ağzınızı açın.
+tooth (teeth) | diş | isim | The baby has two teeth. | Bebeğin iki dişi var.
+neck | boyun | isim | She has a long neck. | Uzun bir boynu var.
+## Vücut: kollar ve bacaklar
+arm | kol | isim | She is holding a cat in her arms. | Kollarında bir kedi tutuyor.
+hand | el | isim | Wash your hands before dinner. | Akşam yemeğinden önce ellerini yıka.
+finger | parmak | isim | I cut my finger. | Parmağımı kestim.
+leg | bacak | isim | My legs are tired. | Bacaklarım yorgun.
+foot (feet) | ayak | isim | My feet are cold. | Ayaklarım üşüyor.
+back | sırt; bel | isim | My back hurts. | Sırtım ağrıyor.
+shoulder | omuz | isim | Put your bag on your shoulder. | Çantanı omzuna as.
+knee | diz | isim | Lukas's knee hurts. | Lukas'ın dizi ağrıyor.
+stomach | mide; karın | isim | My stomach is full. | Midem dolu.
+heart | kalp | isim | Your heart is strong. | Kalbin güçlü.
+## Sağlık
+health | sağlık | isim | Health is very important. | Sağlık çok önemlidir.
+healthy | sağlıklı | sıfat | Fruit is healthy. | Meyve sağlıklıdır.
+ill | hasta, rahatsız | sıfat | Emre is ill today. | Emre bugün hasta.
+sore | ağrıyan, acıyan | sıfat | My eyes are sore. | Gözlerim acıyor.
+hurt (hurt, hurt) | acımak; incitmek | fiil · düzensiz | Does it hurt? | Acıyor mu?
+headache | baş ağrısı | isim | I have a headache. | Başım ağrıyor.
+sick | hasta; midesi bulanan | sıfat | I feel sick today. | Bugün kendimi hasta hissediyorum.
+chemist | eczane; eczacı | isim | The chemist is next to the bank. | Eczane bankanın yanında.
+medicine | ilaç | isim | Take this medicine twice a day. | Bu ilacı günde iki kez al.
+feel (felt, felt) | hissetmek | fiil · düzensiz | I feel better now. | Şimdi daha iyi hissediyorum.

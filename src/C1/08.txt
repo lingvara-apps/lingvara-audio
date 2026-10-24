@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Mimari tasarım
+façade | cephe | isim | The original stone façade was preserved while the interior was completely rebuilt. | Orijinal taş cephe korundu, iç kısım ise tamamen yeniden inşa edildi.
+elevation | görünüş (çizim) | isim | The north elevation shows how the windows line up with the floors behind them. | Kuzey görünüşü pencerelerin arkadaki katlarla nasıl hizalandığını gösteriyor.
+cross-section | kesit | isim | A cross-section through the building reveals the hidden service floor above the lobby. | Binadan alınan bir kesit lobinin üstündeki gizli tesisat katını ortaya çıkarıyor.
+site plan | vaziyet planı | isim | The site plan marks every tree that must be protected during the works. | Vaziyet planı çalışmalar sırasında korunması gereken her ağacı gösteriyor.
+atrium (atria) | atriyum; iç avlu | isim | Natural light pours into the offices through a glass-roofed atrium. | Gün ışığı cam çatılı bir atriyumdan ofislere doluyor.
+mezzanine | asma kat | isim | The architect added a mezzanine to make use of the high ceilings. | Mimar yüksek tavanlardan yararlanmak için bir asma kat ekledi.
+courtyard | avlu | isim | The flats are arranged around a quiet courtyard planted with olive trees. | Daireler zeytin ağaçları dikilmiş sessiz bir avlunun etrafına yerleştirilmiş.
+cornice | korniş; saçak silmesi | isim | A section of the crumbling cornice fell onto the pavement last winter. | Ufalanan saçak silmesinin bir parçası geçen kış kaldırıma düştü.
+parapet | korkuluk duvarı; parapet | isim | The roof terrace is surrounded by a low brick parapet. | Çatı terası alçak bir tuğla parapetle çevrili.
+colonnade | sütun dizisi; revak | isim | Visitors enter the museum through a long colonnade facing the river. | Ziyaretçiler müzeye nehre bakan uzun bir revaktan giriyor.
+## Mimari üsluplar ve öğeler
+buttress | payanda | isim | Massive stone buttresses keep the cathedral walls from leaning outwards. | Devasa taş payandalar katedral duvarlarının dışa doğru yatmasını engelliyor.
+vault | tonoz | isim | The ceiling of the old cellar is a low brick vault. | Eski mahzenin tavanı alçak bir tuğla tonoz.
+spire | sivri kule | isim | The church spire can be seen from almost every corner of the village. | Kilisenin sivri kulesi köyün neredeyse her köşesinden görülebiliyor.
+keystone | kilit taşı | isim | Without the keystone at the top, the whole arch would collapse. | Tepedeki kilit taşı olmasa bütün kemer çökerdi.
+gable | kalkan duvar; beşik çatı ucu | isim | Each house on the street has a steep gable facing the canal. | Sokaktaki her evin kanala bakan dik bir kalkan duvarı var.
+pediment | alınlık (klasik) | isim | The bank's entrance is crowned by a triangular pediment with carved figures. | Bankanın girişinin üzerinde oyma figürlü üçgen bir alınlık yükseliyor.
+cupola | küçük kubbe; fener kubbe | isim | A small cupola on the roof lets light into the central staircase. | Çatıdaki küçük bir fener kubbe orta merdivene ışık veriyor.
+minimalist | minimalist; yalın | sıfat | Camille prefers minimalist interiors with bare walls and very little furniture. | Camille çıplak duvarlı ve çok az mobilyalı yalın iç mekânları tercih ediyor.
+ornate | süslü; bezemeli | sıfat | The theatre's ornate balconies were restored using the original drawings. | Tiyatronun süslü balkonları özgün çizimler kullanılarak restore edildi.
+brutalist | brütalist | sıfat | Some residents love the brutalist library, while others find its raw concrete depressing. | Bazı sakinler brütalist kütüphaneyi seviyor, bazıları ise çıplak betonunu iç karartıcı buluyor.
+## Proje ve ihale
+invitation to tender | ihale çağrısı | isim | Five firms responded to the invitation to tender for the new hospital wing. | Yeni hastane kanadı için yapılan ihale çağrısına beş firma yanıt verdi.
+bill of quantities | metraj cetveli; keşif özeti | isim | Every item in the bill of quantities must be priced before the deadline. | Metraj cetvelindeki her kalem son tarihten önce fiyatlandırılmalı.
+specification | teknik şartname | isim | The specification requires fire-resistant panels on every corridor wall. | Teknik şartname her koridor duvarında yangına dayanıklı paneller istiyor.
+feasibility study | fizibilite etüdü | isim | The feasibility study concluded that the old warehouse could be converted into flats. | Fizibilite etüdü eski deponun daireye dönüştürülebileceği sonucuna vardı.
+as-built drawing | uygulama sonrası çizim; as-built | isim | The client asked for as-built drawings showing exactly where every pipe was laid. | İşveren her borunun tam olarak nereye döşendiğini gösteren as-built çizimleri istedi.
+variation order | değişiklik emri; ek iş talimatı | isim | No extra work should start until the variation order has been signed. | Değişiklik emri imzalanmadan hiçbir ek işe başlanmamalı.
+subcontractor | taşeron; alt yüklenici | isim | The electrical work was handed over to a specialist subcontractor. | Elektrik işleri uzman bir taşerona devredildi.
+cost overrun | maliyet aşımı | isim | Delays in steel deliveries led to a serious cost overrun. | Çelik teslimatlarındaki gecikmeler ciddi bir maliyet aşımına yol açtı.
+progress payment | hakediş | isim | The site team prepares the monthly progress payment on the last Friday of each month. | Şantiye ekibi aylık hakedişi her ayın son cuma günü hazırlıyor.
+liquidated damages | gecikme cezası (sözleşme) | isim (çoğul) | If the handover is late, the contractor must pay liquidated damages for each day. | Teslim gecikirse yüklenici her gün için gecikme cezası ödemek zorunda.
+## Taşıyıcı sistem
+load-bearing wall | taşıyıcı duvar | isim | You cannot simply knock through a load-bearing wall without adding a steel beam. | Çelik bir kiriş eklemeden taşıyıcı bir duvarı öylece yıkamazsınız.
+beam | kiriş | isim | Cracks appeared along the main beam after the extra floor was added. | Ek kat yapıldıktan sonra ana kiriş boyunca çatlaklar belirdi.
+slab | döşeme; plak | isim | The engineers checked the slab thickness before approving the heavy machinery. | Mühendisler ağır makineleri onaylamadan önce döşeme kalınlığını kontrol etti.
+footing | temel pabucu; tekil temel | isim | Each column rests on a reinforced footing about two metres wide. | Her kolon yaklaşık iki metre genişliğinde betonarme bir tekil temele oturuyor.
+cantilever | konsol; kantilever | isim | The balcony is a cantilever that projects three metres beyond the wall. | Balkon duvardan üç metre dışarı taşan bir konsol.
+lintel | lento | isim | A concrete lintel spans the top of the new doorway. | Yeni kapı boşluğunun üstünde beton bir lento uzanıyor.
+truss | makas; kafes kiriş | isim | Timber trusses support the roof of the sports hall without any internal columns. | Ahşap makaslar spor salonunun çatısını hiçbir iç kolon olmadan taşıyor.
+shear wall | perde duvar | isim | Shear walls help the tower resist strong winds and earthquakes. | Perde duvarlar kulenin güçlü rüzgârlara ve depremlere dayanmasına yardım ediyor.
+deflection | sehim; eğilme | isim | The deflection of the floor under full load stayed within acceptable limits. | Tam yük altında döşemenin sehimi kabul edilebilir sınırlar içinde kaldı.
+load-bearing capacity | taşıma kapasitesi | isim | Engineers tested the load-bearing capacity of the old bridge before reopening it. | Mühendisler eski köprüyü yeniden açmadan önce taşıma kapasitesini test etti.
+## Yapı malzemeleri
+rebar | inşaat demiri; donatı | isim | Workers tied the rebar together with wire before the concrete was poured. | İşçiler beton dökülmeden önce donatıyı telle birbirine bağladı.
+formwork | kalıp | isim | The formwork can be removed once the concrete has gained enough strength. | Beton yeterli dayanıma ulaşınca kalıp sökülebilir.
+ready-mixed concrete | hazır beton | isim | The quality of the ready-mixed concrete has a direct effect on the strength of the structure. | Hazır betonun kalitesi yapının dayanımını doğrudan etkiliyor.
+mortar | harç | isim | The old mortar between the stones had to be raked out and replaced. | Taşlar arasındaki eski harç kazınıp yenilenmek zorundaydı.
+stucco | dış sıva; stuko | isim | The outer walls need two coats of stucco before they can be painted. | Dış duvarların boyanmadan önce iki kat dış sıvaya ihtiyacı var.
+screed | şap | isim | Nobody may walk on the fresh screed for at least two days. | Taze şapın üzerinde en az iki gün kimse yürümemeli.
+precast | prefabrik; öndöküm | sıfat | Precast concrete panels allowed the school to be finished in a single summer. | Prefabrik beton paneller okulun tek bir yaz içinde bitirilmesini sağladı.
+timber frame | ahşap karkas | isim | Timber frame houses are quick to build and keep heat well. | Ahşap karkas evler çabuk inşa ediliyor ve ısıyı iyi tutuyor.
+girder | çelik kiriş; putrel | isim | A huge girder was lifted into place above the shopping centre entrance. | Alışveriş merkezinin girişinin üstüne dev bir çelik kiriş yerleştirildi.
+waterproofing | su yalıtımı | isim | Poor waterproofing in the basement led to damp patches on every wall. | Bodrumdaki kötü su yalıtımı her duvarda nem lekelerine yol açtı.
+## Zemin ve hafriyat
+earthworks | hafriyat işleri | isim (çoğul) | The earthworks for the underground car park took almost three months. | Yeraltı otoparkının hafriyat işleri neredeyse üç ay sürdü.
+backfill | geri dolgu | isim | The trench was closed with compacted backfill once the pipes were tested. | Borular test edildikten sonra hendek sıkıştırılmış geri dolguyla kapatıldı.
+pile | kazık | isim | Because the ground is soft, the tower stands on piles driven forty metres deep. | Zemin yumuşak olduğu için kule kırk metre derine çakılmış kazıklar üzerinde duruyor.
+retaining wall | istinat duvarı | isim | A retaining wall stops the hillside from sliding onto the road. | Bir istinat duvarı yamacın yola kaymasını engelliyor.
+groundwater | yeraltı suyu | isim | Pumps ran day and night because groundwater kept flooding the pit. | Yeraltı suyu çukuru sürekli bastığı için pompalar gece gündüz çalıştı.
+soil investigation | zemin etüdü | isim | The soil investigation revealed a layer of clay just below the surface. | Zemin etüdü yüzeyin hemen altında bir kil tabakası olduğunu ortaya çıkardı.
+compaction | sıkıştırma | isim | Proper compaction of each layer prevents the road from sinking later. | Her tabakanın düzgün sıkıştırılması yolun sonradan çökmesini önler.
+trench | hendek; kanal kazısı | isim | Ali's team dug a narrow trench for the new water main. | Ali'nin ekibi yeni ana su hattı için dar bir hendek kazdı.
+dewatering | su indirme; yeraltı suyunu düşürme | isim | Dewatering had to continue until the foundations were completely sealed. | Su indirme işlemi temeller tamamen yalıtılana kadar sürmek zorundaydı.
+differential settlement | farklı oturma (zemin) | isim | Differential settlement caused cracks to appear in the walls of the old house. | Farklı oturma eski evin duvarlarında çatlakların belirmesine neden oldu.
+## Şantiye hayatı
+site manager | şantiye şefi | isim | The site manager walks around the whole project every morning before eight. | Şantiye şefi her sabah sekizden önce bütün projeyi dolaşıyor.
+hard hat | baret | isim | Visitors are not allowed past the gate without a hard hat. | Ziyaretçilerin baret olmadan kapıdan geçmesine izin verilmiyor.
+high-visibility vest | reflektörlü yelek | isim | Everyone on site must wear a high-visibility vest near moving vehicles. | Şantiyedeki herkes hareket eden araçların yakınında reflektörlü yelek giymeli.
+toolbox talk | iş güvenliği brifingi | isim | Today's toolbox talk focused on working safely at height. | Bugünkü iş güvenliği brifingi yüksekte güvenli çalışmaya odaklandı.
+site office | şantiye ofisi | isim | The weekly coordination meeting is held in the site office on Mondays. | Haftalık koordinasyon toplantısı pazartesileri şantiye ofisinde yapılıyor.
+hoist | yük asansörü; vinç (küçük) | isim | Materials are carried to the upper floors by a temporary hoist. | Malzemeler üst katlara geçici bir yük asansörüyle taşınıyor.
+pour | beton dökümü | isim | The pour for the third-floor slab started at dawn and finished after dark. | Üçüncü kat döşemesinin beton dökümü şafakta başladı, hava karardıktan sonra bitti.
+curing | kür (beton bakımı) | isim | In hot weather, careful curing stops the concrete from cracking. | Sıcak havada dikkatli kür betonun çatlamasını önler.
+snag list | eksik-kusur listesi | isim | The snag list still includes loose tiles and a door that will not close. | Eksik-kusur listesinde hâlâ gevşek fayanslar ve kapanmayan bir kapı var.
+handover | teslim | isim | The handover of the building to the client is planned for the end of April. | Binanın işverene teslimi nisan sonuna planlanıyor.
+## Mekanik tesisat
+ductwork | havalandırma kanalları | isim | The ductwork is hidden above a suspended ceiling in every office. | Havalandırma kanalları her ofiste asma tavanın üstüne gizlenmiş.
+riser | tesisat şaftı; kolon hattı | isim | All the water and gas pipes run through a vertical riser next to the lift. | Bütün su ve gaz boruları asansörün yanındaki dikey bir tesisat şaftından geçiyor.
+HVAC | ısıtma, havalandırma ve iklimlendirme | isim | The HVAC system accounts for almost half of the building's energy use. | Isıtma-havalandırma-iklimlendirme sistemi binanın enerji tüketiminin neredeyse yarısını oluşturuyor.
+sprinkler system | yağmurlama (yangın söndürme) sistemi | isim | A sprinkler system put out the fire before it reached the warehouse. | Yağmurlama sistemi yangını depoya ulaşmadan söndürdü.
+drainage | drenaj; atık su tesisatı | isim | Poor drainage around the foundations caused water to collect after every storm. | Temellerin etrafındaki kötü drenaj her fırtınadan sonra su birikmesine neden oldu.
+manhole | rögar; menhol | isim | A worker climbed down the manhole to inspect the blocked sewer. | Bir işçi tıkanmış kanalizasyonu incelemek için rögara indi.
+stopcock | kesme vanası; ana su vanası | isim | Before changing the tap, Lukas turned off the stopcock under the sink. | Lukas musluğu değiştirmeden önce lavabonun altındaki kesme vanasını kapattı.
+underfloor heating | yerden ısıtma | isim | Underfloor heating keeps the stone floors warm even in January. | Yerden ısıtma taş zeminleri ocakta bile sıcak tutuyor.
+air handling unit | klima santrali | isim | The air handling unit on the roof supplies fresh air to all six floors. | Çatıdaki klima santrali altı katın hepsine temiz hava veriyor.
+plumbing | sıhhi tesisat | isim | The plumbing in the old building had to be replaced from top to bottom. | Eski binadaki sıhhi tesisatın baştan aşağı değiştirilmesi gerekti.
+## Elektrik ve yangın güvenliği
+wiring | elektrik tesisatı; kablolama | isim | The inspector found that much of the wiring was over forty years old. | Denetçi kablolamanın büyük kısmının kırk yaşını aştığını tespit etti.
+switchboard | elektrik panosu | isim | Every circuit in the building is labelled on the main switchboard. | Binadaki her devre ana elektrik panosunda etiketli.
+circuit breaker | sigorta; devre kesici | isim | The circuit breaker tripped as soon as the new oven was switched on. | Yeni fırın açılır açılmaz sigorta attı.
+earthing | topraklama | isim | Faulty earthing can turn a metal sink into a serious hazard. | Arızalı topraklama metal bir lavaboyu ciddi bir tehlikeye dönüştürebilir.
+conduit | kablo borusu; spiral | isim | The cables run through plastic conduit buried in the walls. | Kablolar duvarlara gömülü plastik kablo borularından geçiyor.
+cable tray | kablo tavası | isim | Heavy power lines are laid on cable trays along the basement ceiling. | Kalın güç hatları bodrum tavanı boyunca kablo tavalarına döşeniyor.
+fire door | yangın kapısı | isim | A fire door must never be propped open with a chair. | Bir yangın kapısı asla sandalyeyle açık tutulmamalı.
+fire escape | yangın merdiveni | isim | The old hotel was ordered to install an external fire escape. | Eski otele dış yangın merdiveni yaptırması emredildi.
+smoke detector | duman dedektörü | isim | A smoke detector is fitted in every room and corridor. | Her odaya ve koridora bir duman dedektörü takılı.
+emergency lighting | acil aydınlatma | isim | The emergency lighting is tested once a month by the facilities team. | Acil aydınlatma tesis ekibi tarafından ayda bir test ediliyor.
+## İnce işler ve teslim süreci
+finishing works | ince işler | isim (çoğul) | The structure is complete, but the finishing works will take another six months. | Kaba yapı tamam, ama ince işler altı ay daha sürecek.
+drywall | alçıpan; kuru duvar | isim | The offices are divided by drywall partitions that can be moved later. | Ofisler sonradan taşınabilen alçıpan bölmelerle ayrılmış.
+cladding | dış cephe kaplaması | isim | After the fire, all flammable cladding was removed from the tower. | Yangından sonra yanıcı tüm dış cephe kaplaması kuleden söküldü.
+joinery | doğrama; ahşap işleri | isim | The bespoke joinery in the library was made by a local workshop. | Kütüphanedeki özel ahşap işleri yerel bir atölye tarafından yapıldı.
+grout | derz dolgusu | isim | Sofia chose a dark grey grout so the bathroom tiles would stay clean longer. | Sofia banyo fayansları daha uzun temiz kalsın diye koyu gri bir derz dolgusu seçti.
+skirting board | süpürgelik | isim | The painters protected the skirting boards with tape before starting on the walls. | Boyacılar duvarlara başlamadan önce süpürgelikleri bantla korudu.
+sealant | mastik; sızdırmazlık macunu | isim | A line of silicone sealant keeps water out of the gap around the window. | Bir sıra silikon mastik pencerenin çevresindeki boşluktan su girmesini engelliyor.
+occupancy permit | iskân belgesi; yapı kullanma izni | isim | Residents cannot move in until the occupancy permit has been issued. | Yapı kullanma izni verilene kadar sakinler taşınamaz.
+defects liability period | kusur sorumluluk süresi | isim | Any leaks found during the defects liability period must be repaired at the contractor's cost. | Kusur sorumluluk süresi içinde bulunan her sızıntı yüklenicinin masrafıyla onarılmalı.
+commissioning | devreye alma | isim | Commissioning of the heating system revealed two faulty pumps. | Isıtma sisteminin devreye alınması iki arızalı pompayı ortaya çıkardı.

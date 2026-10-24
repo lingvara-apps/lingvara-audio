@@ -1,0 +1,111 @@
+# UNIT: Einkaufen und Kleidung | Geld, Farben, Kleidung, Körper, Gesundheit
+## Im Geschäft
+shop | Laden, Geschäft | Der Laden öffnet um neun.
+cashier | Kassierer, Kassiererin | Die Kassiererin ist sehr freundlich.
+sell (sold, sold) | verkaufen | Hier verkaufen sie frisches Brot.
+store | großes Geschäft, Kaufhaus | Das Geschäft ist sehr groß.
+shopping | Einkaufen, Shopping | Samstags gehe ich einkaufen.
+open | geöffnet, offen; öffnen | Hat der Laden heute geöffnet?
+closed | geschlossen | Tut mir leid, wir haben geschlossen.
+sold out | ausverkauft | Tut mir leid, die roten sind ausverkauft.
+show (showed, shown) | zeigen | Kannst du mir die Tasche da zeigen?
+need | brauchen | Ich brauche neue Schuhe.
+## Geld und Bezahlen
+money | Geld | Ich habe nicht viel Geld.
+price | Preis | Was ist der Preis dafür?
+pay (paid, paid) | bezahlen, zahlen | Kann ich mit Karte zahlen?
+cost (cost, cost) | kosten | Wie viel kostet das?
+cash | Bargeld | Ich habe nur Bargeld.
+card | Karte | Hier ist meine Karte.
+cent | Cent | Es kostet neunzig Cent.
+pound | Pfund | Es kostet fünf Pfund.
+dollar | Dollar | Dieses Hemd kostet zwanzig Dollar.
+purse | Portemonnaie (für Damen) | Ihr Portemonnaie ist in ihrer Tasche.
+## Billig und teuer
+cheap | billig, günstig | Diese Socken sind sehr billig.
+expensive | teuer | London ist teuer.
+sale | Sonderangebot, Schlussverkauf | Die Schuhe sind im Angebot.
+free | kostenlos, gratis; frei | Das Wasser ist kostenlos.
+too much | zu viel | Das ist zu viel Geld.
+count | zählen | Zähl bitte dein Wechselgeld.
+want | wollen, möchten | Willst du dieses Kleid?
+choose (chose, chosen) | auswählen, wählen | Wähl bitte eine Farbe aus.
+enough | genug, ausreichend | Ich habe nicht genug Geld.
+euro | Euro | Die Tasche kostet fünfzig Euro.
+## Farben und Farbtöne
+colour | Farbe | Welche Farbe hat dein Mantel?
+grey | grau | Er hat einen grauen Anzug.
+gold | golden; Gold | Sie trägt einen goldenen Ring.
+silver | silbern; Silber | Mir gefällt diese silberne Uhr.
+navy | marineblau, dunkelblau | Die Schuluniform ist marineblau.
+light blue | hellblau | Ich möchte das hellblaue Hemd.
+dark green | dunkelgrün | Ihre Tasche ist dunkelgrün.
+colourful | bunt, farbenfroh | Diego mag bunte Socken.
+beige | beige | Ich habe einen beigen Mantel.
+turquoise | türkis | Das Meer ist hier türkis.
+## Kleidung
+clothes | Kleidung, Klamotten | Ich brauche neue Klamotten.
+shirt | Hemd | Sein Hemd ist weiß.
+T-shirt | T-Shirt | Nimm ein T-Shirt für den Strand mit.
+trousers | Hose | Diese Hose ist zu lang.
+jeans | Jeans | Ich trage jeden Tag Jeans.
+dress | Kleid | Was für ein schönes Kleid!
+skirt | Rock | Anna hat einen kurzen Rock.
+jacket | Jacke, Sakko | Zieh deine Jacke an, es ist kalt.
+coat | Mantel | Mein Wintermantel ist warm.
+sweater | Pullover | Im Winter trage ich einen Pullover.
+## Schuhe und Accessoires
+shoe | Schuh | Wo ist mein anderer Schuh?
+sandal | Sandale | Im Sommer trage ich Sandalen.
+sock | Socke | Ich finde meine Socken nicht.
+hat | Hut, Mütze | Setz deinen Hut auf.
+scarf (scarves) | Schal; Halstuch | Dieser Schal ist sehr weich.
+glove | Handschuh | Yuki vergisst immer ihre Handschuhe.
+belt | Gürtel | Dieser Gürtel ist zu kurz.
+watch | Armbanduhr | Meine Uhr geht nach.
+umbrella | Regenschirm | Nimm einen Regenschirm mit.
+wallet | Brieftasche, Geldbörse | Meine Geldbörse ist in meiner Tasche.
+## Größe und Anziehen
+size | Größe | Welche Größe hast du?
+large | groß, L (Größe) | Haben Sie das in L?
+shorts | kurze Hose, Shorts | Es ist heiß, zieh deine Shorts an.
+underwear | Unterwäsche | Pack saubere Unterwäsche ein.
+wear (wore, worn) | tragen, anhaben | Sie trägt immer Schwarz.
+glasses | Brille | Ohne Brille kann ich nicht lesen.
+tie | Krawatte | Er trägt zur Arbeit eine Krawatte.
+pocket | Tasche (an Kleidung) | Mein Handy ist in meiner Hosentasche.
+button | Knopf | Ein Knopf fehlt.
+medium | mittel, M (Größe) | Ich brauche bitte M.
+## Körper: Kopf und Gesicht
+body | Körper | Sport ist gut für den Körper.
+head | Kopf | Dreh bitte den Kopf.
+face | Gesicht | Wasch dir das Gesicht.
+hair | Haar, Haare | Sofia hat lange Haare.
+eye | Auge | Er hat blaue Augen.
+ear | Ohr | Mein Ohr ist kalt.
+nose | Nase | Das Baby hat eine kleine Nase.
+mouth | Mund | Mach bitte den Mund auf.
+tooth (teeth) | Zahn | Das Baby hat zwei Zähne.
+neck | Hals, Nacken | Sie hat einen langen Hals.
+## Körper: Arme und Beine
+arm | Arm | Sie hält eine Katze im Arm.
+hand | Hand | Wasch dir vor dem Essen die Hände.
+finger | Finger | Ich habe mir in den Finger geschnitten.
+leg | Bein | Meine Beine sind müde.
+foot (feet) | Fuß | Meine Füße sind kalt.
+back | Rücken | Mir tut der Rücken weh.
+shoulder | Schulter | Häng dir die Tasche über die Schulter.
+knee | Knie | Lukas tut das Knie weh.
+stomach | Magen; Bauch | Mein Bauch ist voll.
+heart | Herz | Dein Herz ist stark.
+## Gesundheit
+health | Gesundheit | Gesundheit ist sehr wichtig.
+healthy | gesund | Obst ist gesund.
+ill | krank, erkrankt | Emre ist heute krank.
+sore | wund, schmerzend | Meine Augen tun weh.
+hurt (hurt, hurt) | wehtun; verletzen | Tut es weh?
+headache | Kopfschmerzen | Ich habe Kopfschmerzen.
+sick | übel (Übelkeit); krank | Mir ist heute übel.
+chemist | Apotheke; Apotheker | Die Apotheke ist neben der Bank.
+medicine | Medikament, Arznei | Nimm dieses Medikament zweimal am Tag.
+feel (felt, felt) | sich fühlen | Jetzt fühle ich mich besser.

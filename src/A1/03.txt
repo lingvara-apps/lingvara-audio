@@ -1,0 +1,111 @@
+# UNIT: Sayılar ve zaman | Rakamlar, saat, günler, aylar
+## Sayılar 11–20
+eleven | on bir | sayı | The film starts at eleven. | Film on birde başlıyor.
+twelve | on iki | sayı | A year has twelve months. | Bir yılda on iki ay var.
+thirteen | on üç | sayı | My sister is thirteen. | Kız kardeşim on üç yaşında.
+fourteen | on dört | sayı | Bus fourteen goes to the centre. | On dört numaralı otobüs merkeze gidiyor.
+fifteen | on beş | sayı | Wait fifteen minutes, please. | Lütfen on beş dakika bekle.
+sixteen | on altı | sayı | There are sixteen students here. | Burada on altı öğrenci var.
+seventeen | on yedi | sayı | Lukas is seventeen years old. | Lukas on yedi yaşında.
+eighteen | on sekiz | sayı | You must be eighteen. | On sekiz yaşında olmalısın.
+nineteen | on dokuz | sayı | Room nineteen is on the left. | On dokuz numaralı oda solda.
+twenty | yirmi | sayı | It costs twenty pounds. | Fiyatı yirmi sterlin.
+## Onlar, yüzler, binler
+zero | sıfır | sayı | My number starts with zero. | Numaram sıfırla başlıyor.
+thirty | otuz | sayı | It is thirty degrees today. | Bugün hava otuz derece.
+forty | kırk | sayı | My father is forty. | Babam kırk yaşında.
+fifty | elli | sayı | I have fifty dollars. | Elli dolarım var.
+sixty | altmış | sayı | An hour has sixty minutes. | Bir saatte altmış dakika var.
+seventy | yetmiş | sayı | My grandmother is seventy. | Büyükannem yetmiş yaşında.
+eighty | seksen | sayı | The book has eighty pages. | Kitabın seksen sayfası var.
+ninety | doksan | sayı | The test has ninety questions. | Sınavda doksan soru var.
+hundred | yüz (sayı) | sayı | A hundred people came. | Yüz kişi geldi.
+thousand | bin | sayı | The city is a thousand years old. | Şehir bin yıllık.
+## Sıra sayıları
+first | birinci; ilk | sayı | This is my first day. | Bu benim ilk günüm.
+second | ikinci; saniye | sayı | Take the second street. | İkinci sokağa gir.
+third | üçüncü | sayı | We live on the third floor. | Üçüncü katta oturuyoruz.
+fourth | dördüncü | sayı | It is her fourth birthday. | Bu onun dördüncü doğum günü.
+fifth | beşinci | sayı | Sofia finished fifth. | Sofia beşinci oldu.
+tenth | onuncu | sayı | Today is the tenth of May. | Bugün 10 Mayıs.
+last | son; geçen | sıfat | This is the last bus. | Bu son otobüs.
+next | sonraki; gelecek | sıfat | See you next week! | Gelecek hafta görüşürüz!
+number | sayı; numara | isim | Pick a number. | Bir sayı seç.
+half | yarım; yarı | isim | I want half a cake. | Yarım kek istiyorum.
+## Saat
+time | zaman; saat | isim | What time is it? | Saat kaç?
+hour | saat (süre) | isim | The lesson is one hour long. | Ders bir saat sürüyor.
+minute | dakika | isim | Wait a minute! | Bir dakika bekle!
+o'clock | saat ... (tam) | zarf | It is three o'clock. | Saat üç.
+half past | buçuk | ifade | We meet at half past six. | Altı buçukta buluşuyoruz.
+quarter | çeyrek | isim | It is a quarter to five. | Saat beşe çeyrek var.
+clock | saat (duvar, masa) | isim | The clock is on the wall. | Saat duvarda.
+early | erken | zarf | I get up early. | Erken kalkarım.
+late | geç | zarf | We arrived late. | Geç vardık.
+on time | zamanında | ifade | Please be on time. | Lütfen zamanında gel.
+## Günün bölümleri
+morning | sabah | isim | I drink coffee every morning. | Her sabah kahve içerim.
+afternoon | öğleden sonra | isim | I work in the afternoon. | Öğleden sonra çalışırım.
+evening | akşam | isim | We watch TV in the evening. | Akşam televizyon izleriz.
+night | gece | isim | The baby cries at night. | Bebek geceleri ağlıyor.
+day | gün | isim | Have a nice day! | İyi günler!
+today | bugün | zarf | Today is Monday. | Bugün pazartesi.
+tomorrow | yarın | zarf | Call me tomorrow. | Yarın beni ara.
+yesterday | dün | zarf | I was at home yesterday. | Dün evdeydim.
+noon | öğle vakti | isim | Let's meet at noon. | Öğlen buluşalım.
+midnight | gece yarısı | isim | The shop closes at midnight. | Dükkân gece yarısı kapanıyor.
+## Haftanın günleri
+Monday | pazartesi | isim | I start work on Monday. | Pazartesi işe başlıyorum.
+Tuesday | salı | isim | Our lesson is on Tuesday. | Dersimiz salı günü.
+Wednesday | çarşamba | isim | See you on Wednesday! | Çarşamba görüşürüz!
+Thursday | perşembe | isim | Thursday is a busy day. | Perşembe yoğun bir gün.
+Friday | cuma | isim | We go out on Friday. | Cuma günü dışarı çıkıyoruz.
+Saturday | cumartesi | isim | I sleep late on Saturday. | Cumartesi geç saate kadar uyurum.
+Sunday | pazar | isim | The shop is closed on Sunday. | Dükkân pazar günü kapalı.
+week | hafta | isim | I go to the gym twice a week. | Haftada iki kez spora giderim.
+weekend | hafta sonu | isim | Have a good weekend! | İyi hafta sonları!
+weekday | hafta içi günü | isim | The museum is open on weekdays. | Müze hafta içi açık.
+## Aylar I
+January | ocak | isim | It snows in January. | Ocakta kar yağar.
+February | şubat | isim | February is a short month. | Şubat kısa bir ay.
+March | mart | isim | Spring starts in March. | İlkbahar martta başlar.
+April | nisan | isim | My birthday is in April. | Doğum günüm nisanda.
+May | mayıs | isim | The weather is nice in May. | Mayısta hava güzel.
+June | haziran | isim | School ends in June. | Okul haziranda bitiyor.
+month | ay (takvim) | isim | I pay every month. | Her ay ödüyorum.
+year | yıl, sene | isim | Happy New Year! | Mutlu yıllar!
+date | tarih | isim | What is the date today? | Bugün ayın kaçı?
+season | mevsim | isim | Which season do you like? | Hangi mevsimi seversin?
+## Aylar II ve mevsimler
+July | temmuz | isim | July is very hot here. | Burada temmuz çok sıcak.
+August | ağustos | isim | We go on holiday in August. | Ağustosta tatile gideriz.
+September | eylül | isim | School starts in September. | Okul eylülde başlıyor.
+October | ekim | isim | Her wedding is in October. | Onun düğünü ekimde.
+November | kasım | isim | November is often rainy. | Kasım genelde yağmurludur.
+December | aralık | isim | December is a cold month. | Aralık soğuk bir ay.
+spring | ilkbahar | isim | Flowers open in spring. | Çiçekler ilkbaharda açar.
+summer | yaz | isim | We swim in summer. | Yazın yüzeriz.
+autumn | sonbahar (ABD: fall) | isim | Leaves fall in autumn. | Sonbaharda yapraklar dökülür.
+winter | kış | isim | Winter in Scotland is long. | İskoçya'da kış uzundur.
+## Zaman ifadeleri
+now | şimdi | zarf | I am busy now. | Şu an meşgulüm.
+then | sonra; o zaman | zarf | Eat first, then play. | Önce ye, sonra oyna.
+soon | yakında | zarf | See you soon! | Yakında görüşürüz!
+later | sonra, daha sonra | zarf | I can do it later. | Bunu sonra yapabilirim.
+ago | önce (geçmişte) | zarf | I came two days ago. | İki gün önce geldim.
+already | zaten; çoktan | zarf | I have already eaten. | Ben zaten yemek yedim.
+still | hâlâ | zarf | She is still at work. | O hâlâ işte.
+tonight | bu gece, bu akşam | zarf | What are you doing tonight? | Bu akşam ne yapıyorsun?
+calendar | takvim | isim | Check the calendar, please. | Lütfen takvime bak.
+moment | an | isim | One moment, please. | Bir dakika, lütfen.
+## Sıklık ve süre
+always | her zaman | zarf | I always drink tea. | Her zaman çay içerim.
+usually | genellikle | zarf | I usually walk to work. | Genellikle işe yürüyerek giderim.
+often | sık sık | zarf | We often eat out. | Sık sık dışarıda yeriz.
+sometimes | bazen | zarf | Sometimes I cook dinner. | Bazen akşam yemeğini ben pişiririm.
+never | asla, hiç | zarf | He never drinks coffee. | O hiç kahve içmez.
+once | bir kez | zarf | I go there once a month. | Oraya ayda bir kez giderim.
+twice | iki kez | zarf | She calls me twice a day. | Beni günde iki kez arar.
+how long | ne kadar süre | ifade | How long is the film? | Film ne kadar sürüyor?
+during | sırasında, boyunca | edat | Don't talk during the lesson. | Ders sırasında konuşma.
+until | -e kadar | edat | I work until six. | Altıya kadar çalışırım.

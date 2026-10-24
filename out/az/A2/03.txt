@@ -1,0 +1,111 @@
+# UNIT: Sağlamlıq | Həkim, əlamətlər, aptek, təcili hal
+## Həkimdə
+appointment | qəbul, görüş vaxtı | Saat onda həkim qəbulum var.
+patient | xəstə (həkimin) | Xəstə bayırda gözləyir.
+examine | müayinə etmək | Həkim boğazımı müayinə etdi.
+prescription | resept | Bu dərman üçün resept lazımdır.
+treatment | müalicə | Müalicə iki həftə çəkir.
+check-up | profilaktik müayinə, yoxlanış | Hər il profilaktik müayinədən keçirəm.
+clinic | klinika | Klinika səkkizdə açılır.
+waiting room | gözləmə zalı | Bu gün gözləmə zalı dolu idi.
+blood test | qan analizi | Tibb bacısı qan analizi götürdü.
+family doctor | ailə həkimi | Ailə həkimim məni yaxşı tanıyır.
+## Əlamətlər
+symptom | əlamət, simptom | Hansı əlamətlərin var?
+fever | qızdırma, hərarət | Uşağın yüksək qızdırması var.
+cough | öskürmək; öskürək | O, bütün gecəni öskürdü.
+sore throat | boğaz ağrısı | Boğazım ağrıyır.
+runny nose | burun axması, zökəm | Bu gün Annanın burnu axır.
+sneeze | asqırmaq | Toz məni asqırdır.
+dizzy | başı gicəllənən | Ayağa duranda başım gicəllənir.
+toothache | diş ağrısı | Ömər diş ağrısı ilə diş həkiminə getdi.
+earache | qulaq ağrısı | Oğlumun qulağı ağrıyır.
+stomachache | mədə ağrısı, qarın ağrısı | Çox yedim və mədəm ağrıdı.
+## Xəstəliklər
+flu | qrip | Sinfin yarısı qripdir.
+catch a cold | soyuqlamaq | Yağışda soyuqladım.
+infection | infeksiya | Həkim dedi ki, qulaq infeksiyasıdır.
+allergy | allergiya | Allergiyan var?
+allergic | allergik | Sofiyanın qoz-fındığa allergiyası var.
+virus | virus | Sadəcə virusdur, çox narahat olma.
+disease | xəstəlik (tibbi), azar | Ürək xəstəlikləri çox yayılıb.
+illness | naxoşluq, xəstəlik halı | O, xəstəliyə görə işə gəlmədi.
+asthma | astma | Lukas astma inhalyatorunu həmişə yanında gəzdirir.
+food poisoning | qida zəhərlənməsi | O, xarab balıqdan zəhərləndi.
+## Aptekdə
+pharmacy | aptek | Yaxınlıqda aptek var?
+pharmacist | əczaçı | Əczaçıdan məsləhət al.
+pill | həb | Hər yeməkdən sonra bir həb iç.
+tablet | tablet (dərman) | Bu tabletlər ağrıya kömək edir.
+painkiller | ağrıkəsici | Belim üçün ağrıkəsici içdim.
+syrup | şərbət, sirop | Bu öskürək şərbətinin dadı dəhşətdir.
+cream | krem, məlhəm | Bu kremi gündə iki dəfə dərinə sür.
+plaster | yara plastırı | Barmağım üçün plastır lazımdır.
+bandage | sarğı, bint | Tibb bacısı onun dizini sarıdı.
+side effect | yan təsir | Bu dərmanın ciddi yan təsiri yoxdur.
+## Zədələr
+injury | zədə, yaralanma | Sadəcə kiçik zədədir.
+injure | yaralamaq, zədələmək | Qəzada iki nəfər yaralandı.
+wound | yara | Yaranı su ilə təmizlə.
+bleed (bled, bled) | qanamaq | Burnun qanayır!
+bruise | göyərti, qançır | Ayağımda böyük göyərti var.
+burn (burnt, burnt) | yandırmaq; yanıq | Əlimi sobada yandırdım.
+swollen | şişmiş | Oyundan sonra topuğum şişib.
+fall over | yıxılmaq | Emre buzun üstündə yıxıldı.
+sprain | burxutmaq | O, tennis oynayarkən biləyini burxutdu.
+scar | çapıq, yara izi | Onun çənəsində çapıq var.
+## Təcili hal
+emergency | təcili hal, fövqəladə hal | Təcili halda 999-a zəng et.
+ambulance | təcili yardım maşını | Təcili yardım beş dəqiqəyə gəldi.
+accident | qəza | Avtomagistralda qəza oldu.
+first aid | ilk yardım | Mariya ilk yardım göstərməyi bilir.
+paramedic | feldşer, təcili yardım işçisi | Feldşerlər yaşlı kişiyə kömək etdilər.
+unconscious | huşsuz, özündə olmayan | Sürücü huşsuz idi.
+breathe | nəfəs almaq | Yavaş-yavaş nəfəs al və sakit ol.
+faint | huşunu itirmək, bayılmaq | O, istidən huşunu itirdi.
+rescue | xilas etmək | Yanğınsöndürənlər ailəni xilas etdilər.
+stretcher | xərək | Onu xərəkdə çıxardılar.
+## Xəstəxanada
+ward | palata | Nənəm altıncı palatadadır.
+operation | əməliyyat | Əməliyyat çox yaxşı keçdi.
+surgeon | cərrah | Cərrah ailə ilə danışdı.
+injection | iynə, inyeksiya | İynədən qorxuram.
+x-ray | rentgen | Rentgen sınıq sümüyü göstərir.
+stitches | tikiş (yarada) | Ona beş tikiş lazım oldu.
+wheelchair | əlil arabası | Xəstəxana ona əlil arabası verdi.
+crutches | qoltuqağağaclar | Dieqo indi qoltuqağağaclarla gəzir.
+recover | sağalmaq, özünə gəlmək | O, əməliyyatdan sonra tez sağaldı.
+visiting hours | ziyarət saatları | Ziyarət saatları səkkizdə bitir.
+## Sağlam həyat
+diet | qidalanma rejimi; pəhriz | Sağlam qidalanmaya çoxlu tərəvəz daxildir.
+work out | idman etmək, məşq etmək | Həftədə üç dəfə məşq edirəm.
+vitamin | vitamin | Portağal C vitamini ilə zəngindir.
+fit | formada, idmanlı | Yuki üzgüçülüklə formasını qoruyur.
+lose weight | arıqlamaq, çəki atmaq | O, yaydan əvvəl arıqlamaq istəyir.
+put on weight | kökəlmək, çəki almaq | Bayramlarda kökəldim.
+smoke | siqaret çəkmək | Atam keçən il siqareti tərgitdi.
+stress | stress | Həddindən artıq stress sağlamlığa zərərdir.
+balanced | balanslı, tarazlı | Balanslı səhər yeməyi yeməyə çalış.
+fresh air | təmiz hava | Gəl bayıra çıxıb təmiz hava alaq.
+## Bədənin içi
+lung | ağciyər | Siqaret ağciyərlərə zərər verir.
+brain | beyin | Yuxu beyin üçün vacibdir.
+bone | sümük | Süd sümüklər üçün faydalıdır.
+skin | dəri | Dərini günəşdən qoru.
+blood | qan | Onun köynəyində qan var idi.
+muscle | əzələ | İdman zalından sonra əzələlərim ağrıyır.
+chest | sinə, döş qəfəsi | Sinəmdə ağrı var.
+ankle | topuq, ayaq biləyi | Əli topuğunu burxutdu.
+wrist | bilək | O, sol biləyinə saat taxır.
+elbow | dirsək | Dirsəyimi qapıya vurdum.
+## Həkimlə danışmaq
+what's the matter? | nə olub?; problem nədir? | Nə olub? Rəngin qaçıb.
+I don't feel well | özümü yaxşı hiss etmirəm | Özümü yaxşı hiss etmirəm, evə gedirəm.
+it hurts | ağrıyır | Yeriyəndə ağrıyır.
+get better | yaxşılaşmaq, sağalmaq | Ümid edirəm, tezliklə sağalarsan.
+get well soon | tez sağal, keçmiş olsun | Tez sağal, Kamilla!
+lie down (lay, lain) | uzanmaq | Zəhmət olmasa, bura uzanın.
+take your temperature | hərarətini ölçmək | Tibb bacısı hərarətini ölçəcək.
+be off sick | xəstəlik məzuniyyətində olmaq | Tom bu gün xəstəlik məzuniyyətindədir.
+sick note | xəstəlik vərəqəsi, həkim arayışı | Müdirim xəstəlik vərəqəsi istədi.
+bless you | sağlam ol (asqıranda) | Apçxı! Sağlam ol!

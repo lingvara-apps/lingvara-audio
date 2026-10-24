@@ -1,0 +1,111 @@
+# UNIT: Doğa ve hayvanlar | Hayvanlar, bitkiler, hava, çevre
+## Çiftlik hayvanları
+rooster | horoz | isim | The rooster wakes us up at five. | Horoz bizi saat beşte uyandırıyor.
+goat | keçi | isim | The goat ate my hat! | Keçi şapkamı yedi!
+pony | midilli | isim | The children rode a pony at the farm. | Çocuklar çiftlikte midilliye bindi.
+hen | tavuk (dişi) | isim | Our hens lay eggs every morning. | Tavuklarımız her sabah yumurtlar.
+duck | ördek | isim | The children are feeding the ducks. | Çocuklar ördekleri besliyor.
+donkey | eşek | isim | We rode a donkey on the beach. | Plajda eşeğe bindik.
+lamb | kuzu | isim | Lambs are born in spring. | Kuzular ilkbaharda doğar.
+calf (calves) | buzağı | isim | The calf stays close to its mother. | Buzağı annesinin yanından ayrılmıyor.
+goose (geese) | kaz | isim | The geese are very noisy. | Kazlar çok gürültülü.
+bull | boğa | isim | Don't go into the field with the bull. | Boğanın olduğu tarlaya girme.
+## Vahşi hayvanlar
+lion | aslan | isim | The lion is sleeping under a tree. | Aslan bir ağacın altında uyuyor.
+tiger | kaplan | isim | Tigers are good swimmers. | Kaplanlar iyi yüzücüdür.
+elephant | fil | isim | Elephants never forget. | Filler asla unutmaz.
+bear | ayı | isim | There are bears in this forest. | Bu ormanda ayılar var.
+wolf (wolves) | kurt | isim | We heard wolves at night. | Gece kurtları duyduk.
+fox | tilki | isim | A fox ran across the road. | Bir tilki koşarak yolun karşısına geçti.
+monkey | maymun | isim | The monkey took my banana! | Maymun muzumu aldı!
+deer (deer) | geyik | isim | We saw two deer in the park. | Parkta iki geyik gördük.
+giraffe | zürafa | isim | Giraffes have very long necks. | Zürafaların boyunları çok uzundur.
+squirrel | sincap | isim | A squirrel is hiding nuts. | Bir sincap fındık saklıyor.
+## Küçük canlılar ve deniz canlıları
+insect | böcek | isim | There are lots of insects in summer. | Yazın çok böcek olur.
+bee | arı | isim | A bee stung me on the arm. | Bir arı beni kolumdan soktu.
+butterfly | kelebek | isim | What a beautiful butterfly! | Ne güzel bir kelebek!
+spider | örümcek | isim | Emre is afraid of spiders. | Emre örümceklerden korkar.
+ant | karınca | isim | Ants are very strong. | Karıncalar çok güçlüdür.
+mosquito | sivrisinek | isim | The mosquitoes kept me awake. | Sivrisinekler beni uyutmadı.
+snake | yılan | isim | Is that snake dangerous? | O yılan tehlikeli mi?
+frog | kurbağa | isim | Frogs live near water. | Kurbağalar suya yakın yaşar.
+whale | balina | isim | We saw a whale from the boat. | Tekneden bir balina gördük.
+dolphin | yunus | isim | Dolphins are very clever animals. | Yunuslar çok zeki hayvanlardır.
+## Hayvanların dünyası
+wing | kanat | isim | The bird hurt its wing. | Kuş kanadını incitti.
+tail | kuyruk | isim | The dog is wagging its tail. | Köpek kuyruğunu sallıyor.
+fur | kürk; hayvan tüyü | isim | The cat has soft white fur. | Kedinin yumuşak beyaz tüyleri var.
+feather | tüy (kuş) | isim | I found a blue feather in the garden. | Bahçede mavi bir kuş tüyü buldum.
+nest | yuva (kuş) | isim | There is a nest in that tree. | O ağaçta bir kuş yuvası var.
+wild | vahşi, yabani | sıfat | Wild animals should stay in nature. | Vahşi hayvanlar doğada kalmalı.
+pet | evcil hayvan | isim | Do you have any pets? | Evcil hayvanın var mı?
+feed (fed, fed) | beslemek, yem vermek | fiil · düzensiz | Can you feed the cat tomorrow? | Yarın kediyi besleyebilir misin?
+bark | havlamak | fiil | The dog next door barks all day. | Yan evin köpeği bütün gün havlıyor.
+hunt | avlanmak | fiil | Owls hunt at night. | Baykuşlar geceleri avlanır.
+## Bitkiler
+sunflower | ayçiçeği | isim | Sunflowers always turn towards the sun. | Ayçiçekleri her zaman güneşe döner.
+grass | çimen, ot | isim | Please keep off the grass. | Lütfen çimenlere basmayın.
+leaf (leaves) | yaprak | isim | The leaves turn red in autumn. | Sonbaharda yapraklar kızarır.
+root | kök | isim | This tree has very deep roots. | Bu ağacın çok derin kökleri var.
+seed | tohum | isim | We planted the seeds in April. | Tohumları nisanda ektik.
+branch | dal | isim | A bird is sitting on the branch. | Dalda bir kuş oturuyor.
+bush | çalı | isim | The ball is under the bush. | Top çalının altında.
+oak | meşe | isim | That oak is three hundred years old. | O meşe ağacı üç yüz yaşında.
+rose | gül | isim | English gardens are famous for roses. | İngiliz bahçeleri gülleriyle ünlüdür.
+water the plants | bitkileri sulamak | ifade | Don't forget to water the plants. | Bitkileri sulamayı unutma.
+## Doğal yerler
+hill | tepe | isim | We walked up the hill. | Tepeye yürüdük.
+valley | vadi | isim | The village is in a green valley. | Köy yeşil bir vadide.
+waterfall | şelale | isim | The waterfall is fifty metres high. | Şelale elli metre yüksekliğinde.
+cave | mağara | isim | It's dark and cold in the cave. | Mağarada karanlık ve soğuk.
+desert | çöl | isim | It rarely rains in the desert. | Çölde nadiren yağmur yağar.
+field | tarla; çayır | isim | The cows are eating grass in the field. | İnekler tarlada ot yiyor.
+coast | sahil, kıyı | isim | We drove along the coast. | Sahil boyunca arabayla gittik.
+island | ada | isim | Ireland is a green island. | İrlanda yeşil bir ada.
+stream | dere | isim | The children played in the stream. | Çocuklar derede oynadı.
+cliff | uçurum; sarp kayalık | isim | The cliffs at Dover are white. | Dover'daki kayalıklar bembeyazdır.
+## Hava durumu
+forecast | hava tahmini | isim | The forecast says it will rain. | Hava tahminine göre yağmur yağacak.
+cloudy | bulutlu | sıfat | It's cloudy but warm today. | Bugün hava bulutlu ama ılık.
+foggy | sisli | sıfat | London was foggy this morning. | Londra bu sabah sisliydi.
+stormy | fırtınalı | sıfat | It was a dark and stormy night. | Karanlık ve fırtınalı bir geceydi.
+thunder | gök gürültüsü | isim | The thunder woke the baby. | Gök gürültüsü bebeği uyandırdı.
+lightning | şimşek, yıldırım | isim | Lightning hit the old tree. | Yaşlı ağaca yıldırım düştü.
+fog | sis | isim | The fog was so thick we couldn't see the road. | Sis o kadar yoğundu ki yolu göremedik.
+degree | derece | isim | It's thirty degrees today! | Bugün otuz derece!
+humid | nemli (hava) | sıfat | Summer in Florida is very humid. | Florida'da yaz çok nemli olur.
+freezing | dondurucu, buz gibi | sıfat | It's freezing outside! | Dışarısı buz gibi!
+## İklim ve mevsimler
+climate | iklim | isim | Britain has a mild climate. | Britanya'nın ılıman bir iklimi var.
+heatwave | sıcak hava dalgası | isim | Europe had a heatwave last July. | Avrupa geçen temmuzda sıcak hava dalgası yaşadı.
+drought | kuraklık | isim | The drought killed the crops. | Kuraklık ekinleri kuruttu.
+flood | sel | isim | The flood damaged many houses. | Sel birçok eve zarar verdi.
+frost | kırağı, don | isim | There was frost on the car this morning. | Bu sabah arabanın üstünde kırağı vardı.
+rainbow | gökkuşağı | isim | Look, a rainbow over the hills! | Bak, tepelerin üstünde gökkuşağı!
+breeze | esinti, meltem | isim | A cool breeze came from the sea. | Denizden serin bir meltem esti.
+mild | ılıman, ılık | sıfat | The winter was quite mild this year. | Bu yıl kış oldukça ılık geçti.
+damp | rutubetli, nemli | sıfat | The weather is grey and damp. | Hava gri ve rutubetli.
+hail | dolu | isim | The hail broke our windows. | Dolu camlarımızı kırdı.
+## Çevre
+environment | çevre | isim | We must protect the environment. | Çevreyi korumalıyız.
+pollution | kirlilik | isim | Air pollution is a big problem in cities. | Hava kirliliği şehirlerde büyük bir sorun.
+pollute | kirletmek | fiil | Factories pollute the river. | Fabrikalar nehri kirletiyor.
+recycle | geri dönüştürmek | fiil | We recycle glass and paper. | Cam ve kâğıdı geri dönüştürüyoruz.
+rubbish | çöp | isim | Please take the rubbish out. | Lütfen çöpü dışarı çıkar.
+waste | atık; israf | isim | We produce too much plastic waste. | Çok fazla plastik atık üretiyoruz.
+protect | korumak | fiil | This law protects wild birds. | Bu yasa yabani kuşları koruyor.
+global warming | küresel ısınma | isim | Global warming is melting the ice. | Küresel ısınma buzları eritiyor.
+endangered | nesli tükenmekte olan | sıfat | Pandas are an endangered species. | Pandalar nesli tükenmekte olan bir tür.
+litter | yere çöp atmak | fiil | Please don't litter in the park. | Lütfen parkta yere çöp atmayın.
+## Doğada vakit geçirmek
+countryside | kırsal bölge | isim | I love walking in the English countryside. | İngiliz kırsalında yürümeyi severim.
+path | patika | isim | Follow the path to the lake. | Göle giden patikayı izle.
+picnic | piknik | isim | Let's have a picnic by the river. | Nehir kenarında piknik yapalım.
+sunrise | gün doğumu | isim | We got up early to watch the sunrise. | Gün doğumunu izlemek için erken kalktık.
+sunset | gün batımı | isim | The sunset was amazing. | Gün batımı muhteşemdi.
+campfire | kamp ateşi | isim | We sang songs around the campfire. | Kamp ateşinin etrafında şarkı söyledik.
+birdwatching | kuş gözlemciliği | isim | My uncle loves birdwatching. | Amcam kuş gözlemeye bayılır.
+wildlife | yaban hayatı | isim | The island is rich in wildlife. | Ada yaban hayatı açısından zengin.
+national park | milli park | isim | Yellowstone is a famous national park. | Yellowstone ünlü bir milli park.
+scenery | manzara, doğa görüntüsü | isim | The scenery in Scotland is beautiful. | İskoçya'nın manzarası çok güzel.

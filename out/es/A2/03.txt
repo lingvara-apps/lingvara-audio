@@ -1,0 +1,111 @@
+# UNIT: La salud | El médico, los síntomas, la farmacia, las emergencias
+## En el médico
+appointment | cita | Tengo cita a las diez.
+patient | paciente | El paciente está esperando fuera.
+examine | examinar, revisar | El médico me examinó la garganta.
+prescription | receta médica | Para este medicamento necesitas receta.
+treatment | tratamiento | El tratamiento dura dos semanas.
+check-up | revisión, chequeo | Me hago un chequeo cada año.
+clinic | clínica, consultorio | La clínica abre a las ocho.
+waiting room | sala de espera | Hoy la sala de espera estaba llena.
+blood test | análisis de sangre | La enfermera me hizo un análisis de sangre.
+family doctor | médico de cabecera, médico de familia | Mi médico de cabecera me conoce bien.
+## Síntomas
+symptom | síntoma | ¿Qué síntomas tienes?
+fever | fiebre | El niño tiene fiebre alta.
+cough | toser; tos | Estuvo tosiendo toda la noche.
+sore throat | dolor de garganta | Me duele la garganta.
+runny nose | mocos, nariz que gotea | Anna tiene mocos hoy.
+sneeze | estornudar | El polvo me hace estornudar.
+dizzy | mareado | Me mareo cuando me levanto.
+toothache | dolor de muelas | Omar fue al dentista con dolor de muelas.
+earache | dolor de oído | Mi hijo tiene dolor de oído.
+stomachache | dolor de estómago | Comí demasiado y me dolió el estómago.
+## Enfermedades
+flu | gripe | La mitad de la clase tiene gripe.
+catch a cold | resfriarse | Me resfrié bajo la lluvia.
+infection | infección | El médico dijo que es una infección de oído.
+allergy | alergia | ¿Tienes alguna alergia?
+allergic | alérgico | Sofia es alérgica a los frutos secos.
+virus | virus | Es solo un virus, no te preocupes demasiado.
+disease | enfermedad (médica) | Las enfermedades del corazón son muy comunes.
+illness | malestar, estado de enfermedad | Faltó al trabajo por enfermedad.
+asthma | asma | Lukas siempre lleva su inhalador para el asma.
+food poisoning | intoxicación alimentaria | Sufrió una intoxicación alimentaria por un pescado en mal estado.
+## En la farmacia
+pharmacy | farmacia | ¿Hay alguna farmacia por aquí cerca?
+pharmacist | farmacéutico | Pídele consejo al farmacéutico.
+pill | pastilla, píldora | Toma una pastilla después de cada comida.
+tablet | comprimido | Estos comprimidos alivian el dolor.
+painkiller | analgésico | Me tomé un analgésico para la espalda.
+syrup | jarabe | Este jarabe para la tos sabe horrible.
+cream | crema | Ponte esta crema en la piel dos veces al día.
+plaster | tirita, curita | Necesito una tirita para el dedo.
+bandage | venda | La enfermera le puso una venda en la rodilla.
+side effect | efecto secundario | Este medicamento no tiene efectos secundarios graves.
+## Lesiones
+injury | lesión | Es solo una lesión leve.
+injure | herir, lesionar | Dos personas resultaron heridas en el choque.
+wound | herida | Limpia la herida con agua.
+bleed (bled, bled) | sangrar | ¡Te está sangrando la nariz!
+bruise | moretón, cardenal | Tengo un moretón grande en la pierna.
+burn (burnt, burnt) | quemar; quemadura | Me quemé la mano con el horno.
+swollen | hinchado | Tengo el tobillo hinchado después del partido.
+fall over | caerse | Emre se cayó en el hielo.
+sprain | torcerse, hacerse un esguince | Se torció la muñeca jugando al tenis.
+scar | cicatriz | Tiene una cicatriz en la barbilla.
+## Emergencias
+emergency | emergencia | En caso de emergencia, llama al 999.
+ambulance | ambulancia | La ambulancia llegó en cinco minutos.
+accident | accidente | Hubo un accidente en la autopista.
+first aid | primeros auxilios | María sabe primeros auxilios.
+paramedic | paramédico, técnico de emergencias | Los paramédicos atendieron al anciano.
+unconscious | inconsciente | El conductor estaba inconsciente.
+breathe | respirar | Respira despacio y mantén la calma.
+faint | desmayarse | Se desmayó por el calor.
+rescue | rescatar | Los bomberos rescataron a la familia.
+stretcher | camilla | Lo sacaron en camilla.
+## En el hospital
+ward | sala (de hospital), planta | Mi abuela está en la sala seis.
+operation | operación | La operación salió muy bien.
+surgeon | cirujano | El cirujano habló con la familia.
+injection | inyección | Me dan miedo las inyecciones.
+x-ray | radiografía | La radiografía muestra un hueso roto.
+stitches | puntos (de sutura) | Le tuvieron que dar cinco puntos.
+wheelchair | silla de ruedas | En el hospital le dieron una silla de ruedas.
+crutches | muletas | Ahora Diego camina con muletas.
+recover | recuperarse | Se recuperó rápido después de la operación.
+visiting hours | horario de visitas | El horario de visitas termina a las ocho.
+## Vida sana
+diet | dieta, alimentación | Una alimentación sana incluye muchas verduras.
+work out | hacer ejercicio, entrenar | Hago ejercicio tres veces por semana.
+vitamin | vitamina | Las naranjas están llenas de vitamina C.
+fit | en forma | Yuki se mantiene en forma nadando.
+lose weight | adelgazar, perder peso | Quiere perder peso antes del verano.
+put on weight | engordar, ganar peso | Engordé durante las vacaciones.
+smoke | fumar | Mi padre dejó de fumar el año pasado.
+stress | estrés | Demasiado estrés es malo para la salud.
+balanced | equilibrado | Intenta tomar un desayuno equilibrado.
+fresh air | aire fresco | Salgamos a tomar un poco de aire fresco.
+## El interior del cuerpo
+lung | pulmón | Fumar daña los pulmones.
+brain | cerebro | Dormir es importante para el cerebro.
+bone | hueso | La leche es buena para los huesos.
+skin | piel | Protege tu piel del sol.
+blood | sangre | Tenía sangre en la camisa.
+muscle | músculo | Me duelen los músculos después del gimnasio.
+chest | pecho | Tengo un dolor en el pecho.
+ankle | tobillo | Ali se torció el tobillo.
+wrist | muñeca (del brazo) | Lleva el reloj en la muñeca izquierda.
+elbow | codo | Me di con el codo en la puerta.
+## Hablar con el médico
+what's the matter? | ¿qué te pasa? | ¿Qué te pasa? Estás pálido.
+I don't feel well | no me encuentro bien | No me encuentro bien, me voy a casa.
+it hurts | me duele | Me duele cuando camino.
+get better | mejorar(se) | Espero que te mejores pronto.
+get well soon | ¡que te mejores! | ¡Que te mejores, Camille!
+lie down (lay, lain) | tumbarse, acostarse | Túmbese aquí, por favor.
+take your temperature | tomar la temperatura | La enfermera te va a tomar la temperatura.
+be off sick | estar de baja | Tom está de baja hoy.
+sick note | parte de baja, certificado médico | Mi jefe me pidió un certificado médico.
+bless you | ¡salud! (al estornudar), ¡Jesús! | ¡Achís! ¡Salud!

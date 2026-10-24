@@ -1,0 +1,111 @@
+# UNIT: Bilim ve araştırma | Bilimsel yöntem, akademik dil, keşifler
+## Bilimsel yöntem
+observation | gözlem | isim | Careful observation is the first step of any good study. | Dikkatli gözlem her iyi çalışmanın ilk adımıdır.
+testable | test edilebilir, sınanabilir | sıfat | A scientific idea must be testable, or it is only an opinion. | Bilimsel bir fikir sınanabilir olmalıdır, yoksa sadece bir görüştür.
+falsify | yanlışlamak, çürütmek | fiil | A good theory makes predictions that could, in principle, be falsified. | İyi bir kuram, ilke olarak yanlışlanabilecek öngörülerde bulunur.
+conjecture | tahmin, kanıtlanmamış sav | isim | For now, the link between the two events is pure conjecture. | Şimdilik iki olay arasındaki bağlantı tamamen bir tahmin.
+reproducible | tekrarlanabilir | sıfat | Results are only trusted when they are reproducible in other labs. | Sonuçlara ancak başka laboratuvarlarda tekrarlanabildiğinde güvenilir.
+measurement | ölçüm | isim | We took three measurements and used the average. | Üç ölçüm aldık ve ortalamasını kullandık.
+precision | kesinlik, hassasiyet | isim | This instrument measures temperature with remarkable precision. | Bu alet sıcaklığı dikkate değer bir hassasiyetle ölçer.
+accuracy | doğruluk | isim | Nobody questioned the accuracy of her calculations. | Kimse onun hesaplamalarının doğruluğunu sorgulamadı.
+double-blind | çift kör | sıfat | In a double-blind study, neither doctors nor patients know who gets the real drug. | Çift kör bir çalışmada ne doktorlar ne de hastalar gerçek ilacı kimin aldığını bilir.
+placebo | plasebo, etkisiz ilaç | isim | Half of the volunteers were given a placebo instead of the medicine. | Gönüllülerin yarısına ilaç yerine plasebo verildi.
+## Laboratuvarda
+specimen | numune, örnek | isim | Each specimen was labelled and stored in the freezer. | Her numune etiketlendi ve dondurucuda saklandı.
+beaker | beher, laboratuvar kabı | isim | Sofia carefully poured the blue liquid into a glass beaker. | Sofia mavi sıvıyı dikkatlice cam bir behere döktü.
+pipette | pipet | isim | Use a pipette to add exactly three drops of the solution. | Çözeltiden tam üç damla eklemek için pipet kullan.
+apparatus | düzenek, alet takımı | isim | The apparatus has to be cleaned after every single use. | Düzenek her kullanımdan sonra temizlenmelidir.
+sterile | steril, mikropsuz | sıfat | All the instruments must be kept completely sterile. | Bütün aletler tamamen steril tutulmalıdır.
+contaminate | kirletmek, bulaştırmak | fiil | A single hair can contaminate the whole sample. | Tek bir saç teli bütün örneği kirletebilir.
+dissolve | çözünmek, eritmek | fiil | Stir the water until the salt dissolves completely. | Tuz tamamen çözünene kadar suyu karıştır.
+residue | kalıntı, tortu | isim | A thin white residue remained at the bottom of the glass. | Bardağın dibinde ince beyaz bir tortu kaldı.
+protective goggles | koruyucu gözlük | isim (çoğul) | Never mix chemicals without wearing protective goggles. | Koruyucu gözlük takmadan asla kimyasal karıştırma.
+calibrate | ayarlamak, kalibre etmek | fiil | We calibrate the scales every morning before we start work. | İşe başlamadan önce her sabah teraziyi kalibre ederiz.
+## Veri ve istatistik
+statistically | istatistiksel olarak | zarf | The difference between the two groups was not statistically significant. | İki grup arasındaki fark istatistiksel olarak anlamlı değildi.
+average | ortalama | isim | On average, the participants slept six hours a night. | Katılımcılar ortalama olarak gecede altı saat uyudu.
+median | medyan, ortanca değer | isim | The median age of the volunteers was thirty-four. | Gönüllülerin ortanca yaşı otuz dörttü.
+percentage | yüzde | isim | A small percentage of patients reported mild headaches. | Hastaların küçük bir yüzdesi hafif baş ağrısı bildirdi.
+ratio | oran | isim | The ratio of men to women in the study was roughly equal. | Çalışmadaki erkek-kadın oranı aşağı yukarı eşitti.
+respondent | ankete katılan kişi | isim | Most respondents said they exercise less than once a week. | Ankete katılanların çoğu haftada bir kereden az spor yaptığını söyledi.
+questionnaire | anket formu | isim | Please fill in the questionnaire and return it by Friday. | Lütfen anket formunu doldurup cumaya kadar geri gönderin.
+deviation | sapma | isim | Even a small deviation from the plan can change the results. | Plandan küçük bir sapma bile sonuçları değiştirebilir.
+random | rastgele | sıfat | The computer picks a random sample of a thousand households. | Bilgisayar bin haneden oluşan rastgele bir örneklem seçiyor.
+trend | eğilim, trend | isim | The graph shows a clear upward trend over the last decade. | Grafik son on yılda açık bir yükseliş eğilimi gösteriyor.
+## Akademik yazım
+paraphrase | başka sözlerle ifade etmek | fiil | Try to paraphrase the quotation instead of copying it word for word. | Alıntıyı kelimesi kelimesine kopyalamak yerine kendi sözlerinle ifade etmeye çalış.
+quote | alıntı yapmak | fiil | If you quote another writer, always give the page number. | Başka bir yazardan alıntı yaparsan her zaman sayfa numarasını ver.
+summary (summaries) | özet | isim | Write a short summary of the article in your own words. | Makalenin kısa bir özetini kendi sözlerinle yaz.
+heading | başlık | isim | Each section of the report should have a clear heading. | Raporun her bölümünün açık bir başlığı olmalıdır.
+literature review | literatür taraması | isim | Her literature review covers more than fifty earlier studies. | Onun literatür taraması elliden fazla önceki çalışmayı kapsıyor.
+acknowledgements | teşekkür bölümü | isim (çoğul) | In the acknowledgements, Ali thanked his parents and his supervisor. | Ali teşekkür bölümünde ailesine ve danışmanına teşekkür etti.
+thesis statement | ana fikir cümlesi, tez cümlesi | isim | Your thesis statement should appear at the end of the introduction. | Tez cümlen girişin sonunda yer almalı.
+word count | kelime sayısı | isim | Check the word count before you hand in your essay. | Ödevini teslim etmeden önce kelime sayısını kontrol et.
+glossary (glossaries) | terimler sözlüğü | isim | Technical terms are explained in the glossary at the back. | Teknik terimler arkadaki terimler sözlüğünde açıklanıyor.
+publication | yayın | isim | The paper is not yet ready for publication. | Makale henüz yayına hazır değil.
+## Akademik fiiller
+hypothesise | varsaymak, hipotez kurmak | fiil | We hypothesise that the effect will be stronger in children. | Etkinin çocuklarda daha güçlü olacağını varsayıyoruz.
+demonstrate | göstermek, ortaya koymak | fiil | The study demonstrates a clear link between diet and mood. | Çalışma, beslenme ile ruh hâli arasında açık bir bağ olduğunu ortaya koyuyor.
+imply | ima etmek, akla getirmek | fiil | These results imply that the old model was too simple. | Bu sonuçlar eski modelin fazla basit olduğunu ima ediyor.
+infer | çıkarım yapmak, sonuç çıkarmak | fiil | From these figures, we can infer that prices will rise. | Bu rakamlardan fiyatların artacağı sonucunu çıkarabiliriz.
+assess | değerlendirmek | fiil | It is too early to assess the long-term impact of the policy. | Politikanın uzun vadeli etkisini değerlendirmek için henüz çok erken.
+derive | türetmek, elde etmek | fiil | The formula is derived from a few simple observations. | Formül birkaç basit gözlemden türetilmiştir.
+validate | geçerliliğini kanıtlamak | fiil | The model was validated using data from five countries. | Modelin geçerliliği beş ülkeden alınan verilerle kanıtlandı.
+undermine | baltalamak, zayıflatmak | fiil | One mistake in the data could undermine the whole argument. | Verideki tek bir hata bütün argümanı zayıflatabilir.
+establish | saptamak, kesin olarak belirlemek | fiil | Scientists have not yet established what causes the disease. | Bilim insanları hastalığa neyin yol açtığını henüz saptamadı.
+illustrate | örneklerle açıklamak, resimlemek | fiil | The diagram illustrates how the heart pumps blood. | Şema kalbin kanı nasıl pompaladığını gösteriyor.
+## Fizik ve kimya
+inertia | eylemsizlik | isim | Because of inertia, passengers move forward when a bus stops suddenly. | Eylemsizlik yüzünden otobüs aniden durduğunda yolcular öne doğru savrulur.
+friction | sürtünme | isim | Friction between the tyres and the road slows the car down. | Lastiklerle yol arasındaki sürtünme arabayı yavaşlatır.
+velocity (velocities) | hız, sürat | isim | The velocity of the rocket increased every second. | Roketin hızı her saniye arttı.
+particle | parçacık, tanecik | isim | Dust particles were floating in the beam of sunlight. | Toz parçacıkları güneş ışığının huzmesinde süzülüyordu.
+molecule | molekül | isim | A water molecule consists of two hydrogen atoms and one oxygen atom. | Bir su molekülü iki hidrojen ve bir oksijen atomundan oluşur.
+compound | bileşik | isim | Salt is a compound of sodium and chlorine. | Tuz, sodyum ve klorun bir bileşiğidir.
+element | element | isim | Gold is one of the least reactive elements. | Altın en az tepkime veren elementlerden biridir.
+radiation | radyasyon, ışınım | isim | Workers wear special badges to measure their exposure to radiation. | Çalışanlar maruz kaldıkları radyasyonu ölçmek için özel yaka kartları takar.
+magnetic | manyetik | sıfat | The Earth has a magnetic field that protects us from the sun. | Dünya'nın bizi güneşten koruyan manyetik bir alanı vardır.
+momentum | momentum, devinirlik | isim | The heavy ball kept rolling because of its momentum. | Ağır top momentumu yüzünden yuvarlanmaya devam etti.
+## Biyoloji ve genetik
+cell | hücre | isim | Every living thing is made up of at least one cell. | Her canlı en az bir hücreden oluşur.
+gene | gen | isim | Scientists have found a gene linked to eye colour. | Bilim insanları göz rengiyle bağlantılı bir gen buldu.
+chromosome | kromozom | isim | Humans normally have forty-six chromosomes in each cell. | İnsanların her hücresinde normalde kırk altı kromozom bulunur.
+mutation | mutasyon | isim | A tiny mutation can change how a protein works. | Küçük bir mutasyon bir proteinin nasıl çalıştığını değiştirebilir.
+organism | organizma | isim | Bacteria are among the simplest organisms on the planet. | Bakteriler gezegendeki en basit organizmalar arasındadır.
+natural selection | doğal seçilim | isim | Natural selection explains why some animals survive and others do not. | Doğal seçilim bazı hayvanların neden hayatta kalıp diğerlerinin kalmadığını açıklar.
+tissue | doku | isim | The scientists grew new skin tissue in the laboratory. | Bilim insanları laboratuvarda yeni deri dokusu üretti.
+photosynthesis | fotosentez | isim | Plants use sunlight to make food through photosynthesis. | Bitkiler fotosentez yoluyla besin üretmek için güneş ışığını kullanır.
+reproduce | üremek | fiil | Some plants can reproduce without any help from insects. | Bazı bitkiler böceklerin yardımı olmadan üreyebilir.
+microorganism | mikroorganizma | isim | A single spoonful of soil contains millions of microorganisms. | Tek bir kaşık toprak milyonlarca mikroorganizma içerir.
+## Astronomi ve yer bilimleri
+meteorite | göktaşı | isim | The meteorite that fell in the field was smaller than a tennis ball. | Tarlaya düşen göktaşı bir tenis topundan daha küçüktü.
+constellation | takımyıldız | isim | Yuki showed me how to find the constellation Orion. | Yuki bana Orion takımyıldızını nasıl bulacağımı gösterdi.
+tectonic plate | tektonik levha | isim | Earthquakes happen where two tectonic plates meet. | Depremler iki tektonik levhanın birleştiği yerlerde olur.
+magma | magma | isim | Hot magma rises slowly towards the surface of the earth. | Sıcak magma yavaşça yer yüzeyine doğru yükselir.
+eclipse | tutulma | isim | Thousands of people travelled north to watch the solar eclipse. | Binlerce kişi güneş tutulmasını izlemek için kuzeye gitti.
+atmosphere | atmosfer | isim | Mars has a very thin atmosphere compared to Earth. | Mars'ın atmosferi Dünya'nınkine kıyasla çok incedir.
+fossil | fosil | isim | The children found a small fossil of a shell on the beach. | Çocuklar sahilde küçük bir deniz kabuğu fosili buldu.
+sediment | çökelti, tortu | isim | Layers of sediment slowly built up at the bottom of the lake. | Gölün dibinde yavaş yavaş çökelti katmanları birikti.
+seismic | sismik, depremle ilgili | sıfat | Seismic activity in the region has increased over the past month. | Bölgedeki sismik hareketlilik geçen ay boyunca arttı.
+light year | ışık yılı | isim | The nearest star is more than four light years away from us. | En yakın yıldız bizden dört ışık yılından daha uzakta.
+## Keşifler ve icatlar
+inventor | mucit | isim | The young inventor showed her machine at the science fair. | Genç mucit makinesini bilim fuarında sergiledi.
+trailblazer | yol açıcı, öncü kişi | isim | She was a trailblazer for women in engineering. | Mühendislikte kadınlar için yol açan bir öncüydü.
+milestone | dönüm noktası, kilometre taşı | isim | Landing on the moon was a milestone in human history. | Ay'a iniş insanlık tarihinde bir dönüm noktasıydı.
+visionary (visionaries) | ileri görüşlü kişi, vizyoner | isim | He was a visionary who imagined electric cars a century ago. | Bir asır önce elektrikli arabaları hayal eden vizyoner biriydi.
+unravel | (gizemi) çözmek, çözümlemek | fiil | Researchers are still trying to unravel the mystery of sleep. | Araştırmacılar hâlâ uykunun gizemini çözmeye çalışıyor.
+shed light on | aydınlatmak, ışık tutmak | deyim | The new fossils shed light on how birds learned to fly. | Yeni fosiller kuşların uçmayı nasıl öğrendiğine ışık tutuyor.
+ingenious | dâhiyane, çok zekice | sıfat | It was an ingenious solution to a very old problem. | Çok eski bir soruna dâhiyane bir çözümdü.
+groundbreaking | çığır açan | sıfat | His groundbreaking work changed the way we understand the brain. | Onun çığır açan çalışması beyni anlama biçimimizi değiştirdi.
+serendipity | mutlu tesadüf | isim | Many great discoveries were made thanks to pure serendipity. | Pek çok büyük keşif tamamen mutlu bir tesadüf sayesinde yapıldı.
+devise | tasarlamak, geliştirmek | fiil | They devised a simple way to measure air pollution at home. | Evde hava kirliliğini ölçmek için basit bir yöntem geliştirdiler.
+## Bilim dünyası
+journal | bilimsel dergi | isim | Their findings were published in a respected medical journal. | Bulguları saygın bir tıp dergisinde yayımlandı.
+grant | hibe, ödenek | isim | The team received a large grant to study coral reefs. | Ekip mercan resiflerini incelemek için büyük bir hibe aldı.
+funding | fon, mali destek | isim | Without new funding, the project will have to stop next year. | Yeni fon bulunmazsa proje gelecek yıl durmak zorunda kalacak.
+fellowship | araştırma bursu | isim | Lukas was awarded a two-year research fellowship in Canada. | Lukas'a Kanada'da iki yıllık bir araştırma bursu verildi.
+scholar | akademisyen, âlim | isim | She is a respected scholar of medieval English literature. | Orta Çağ İngiliz edebiyatı alanında saygın bir akademisyendir.
+discipline | bilim dalı, disiplin | isim | Biology and chemistry are closely related disciplines. | Biyoloji ve kimya birbirine yakın bilim dallarıdır.
+academia | akademi dünyası | isim | After ten years in academia, Maria moved to a private company. | Akademi dünyasında geçen on yılın ardından Maria özel bir şirkete geçti.
+conference | konferans, kongre | isim | Emre presented his research at a conference in Dublin. | Emre araştırmasını Dublin'deki bir konferansta sundu.
+expertise | uzmanlık | isim | We need someone with expertise in marine biology. | Deniz biyolojisi alanında uzmanlığı olan birine ihtiyacımız var.
+research assistant | araştırma asistanı | isim | As a research assistant, Omar spends most days collecting samples. | Omar araştırma asistanı olarak çoğu gününü numune toplayarak geçiriyor.

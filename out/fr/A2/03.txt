@@ -1,0 +1,111 @@
+# UNIT: La santé | Médecin, symptômes, pharmacie, urgences
+## Chez le médecin
+appointment | rendez-vous | J'ai rendez-vous à dix heures.
+patient | patient | Le patient attend dehors.
+examine | examiner, ausculter | Le médecin m'a examiné la gorge.
+prescription | ordonnance | Il te faut une ordonnance pour ce médicament.
+treatment | traitement | Le traitement dure deux semaines.
+check-up | bilan de santé, contrôle médical | Je fais un bilan de santé chaque année.
+clinic | clinique, centre médical | La clinique ouvre à huit heures.
+waiting room | salle d'attente | La salle d'attente était pleine aujourd'hui.
+blood test | prise de sang, analyse de sang | L'infirmière a fait une prise de sang.
+family doctor | médecin de famille, médecin traitant | Mon médecin traitant me connaît bien.
+## Les symptômes
+symptom | symptôme | Quels sont tes symptômes ?
+fever | fièvre | L'enfant a beaucoup de fièvre.
+cough | tousser ; toux | Il a toussé toute la nuit.
+sore throat | mal de gorge | J'ai mal à la gorge.
+runny nose | nez qui coule | Anna a le nez qui coule aujourd'hui.
+sneeze | éternuer | La poussière me fait éternuer.
+dizzy | pris de vertiges, étourdi | J'ai la tête qui tourne quand je me lève.
+toothache | mal de dents, rage de dents | Omar est allé chez le dentiste avec une rage de dents.
+earache | mal d'oreille | Mon fils a mal à l'oreille.
+stomachache | mal de ventre, mal à l'estomac | J'ai trop mangé et j'ai eu mal au ventre.
+## Les maladies
+flu | grippe | La moitié de la classe a la grippe.
+catch a cold | attraper un rhume, s'enrhumer | J'ai attrapé un rhume sous la pluie.
+infection | infection | Le médecin a dit que c'est une infection de l'oreille.
+allergy | allergie | Tu as des allergies ?
+allergic | allergique | Sofia est allergique aux fruits à coque.
+virus | virus | Ce n'est qu'un virus, ne t'inquiète pas trop.
+disease | maladie (au sens médical) | Les maladies cardiaques sont très courantes.
+illness | le fait d'être malade, état de santé | Elle a manqué le travail pour cause de maladie.
+asthma | asthme | Lukas a toujours son inhalateur contre l'asthme sur lui.
+food poisoning | intoxication alimentaire | Il a eu une intoxication alimentaire à cause d'un poisson avarié.
+## À la pharmacie
+pharmacy | pharmacie | Il y a une pharmacie près d'ici ?
+pharmacist | pharmacien | Demande conseil au pharmacien.
+pill | pilule, cachet | Prends un cachet après chaque repas.
+tablet | comprimé | Ces comprimés soulagent la douleur.
+painkiller | antidouleur, analgésique | J'ai pris un antidouleur pour mon dos.
+syrup | sirop | Ce sirop contre la toux a un goût horrible.
+cream | crème, pommade | Mets cette crème sur ta peau deux fois par jour.
+plaster | pansement (adhésif) | Il me faut un pansement pour mon doigt.
+bandage | bande, bandage | L'infirmière lui a mis un bandage au genou.
+side effect | effet secondaire | Ce médicament n'a pas d'effets secondaires graves.
+## Les blessures
+injury | blessure | Ce n'est qu'une petite blessure.
+injure | blesser | Deux personnes ont été blessées dans l'accident.
+wound | plaie | Nettoie la plaie avec de l'eau.
+bleed (bled, bled) | saigner | Tu saignes du nez !
+bruise | bleu, ecchymose | J'ai un gros bleu sur la jambe.
+burn (burnt, burnt) | brûler ; brûlure | Je me suis brûlé la main sur le four.
+swollen | enflé, gonflé | Ma cheville est enflée après le match.
+fall over | tomber, faire une chute | Emre est tombé sur la glace.
+sprain | se fouler, se faire une entorse | Elle s'est foulé le poignet en jouant au tennis.
+scar | cicatrice | Il a une cicatrice au menton.
+## Les urgences
+emergency | urgence | En cas d'urgence, appelle le 999.
+ambulance | ambulance | L'ambulance est arrivée en cinq minutes.
+accident | accident | Il y a eu un accident sur l'autoroute.
+first aid | premiers secours | Maria connaît les gestes de premiers secours.
+paramedic | secouriste, ambulancier | Les secouristes ont aidé le vieil homme.
+unconscious | inconscient, évanoui | Le conducteur était inconscient.
+breathe | respirer | Respire lentement et reste calme.
+faint | s'évanouir, perdre connaissance | Elle s'est évanouie à cause de la chaleur.
+rescue | secourir, sauver | Les pompiers ont sauvé la famille.
+stretcher | brancard, civière | Ils l'ont sorti sur un brancard.
+## À l'hôpital
+ward | service hospitalier, salle (d'hôpital) | Ma grand-mère est dans le service six.
+operation | opération, intervention chirurgicale | L'opération s'est très bien passée.
+surgeon | chirurgien | Le chirurgien a parlé à la famille.
+injection | piqûre, injection | J'ai peur des piqûres.
+x-ray | radio, radiographie | La radio montre un os cassé.
+stitches | points de suture | Il a eu besoin de cinq points de suture.
+wheelchair | fauteuil roulant | L'hôpital lui a donné un fauteuil roulant.
+crutches | béquilles | Diego marche avec des béquilles maintenant.
+recover | se rétablir, guérir | Elle s'est vite rétablie après l'opération.
+visiting hours | heures de visite | Les heures de visite se terminent à vingt heures.
+## Une vie saine
+diet | alimentation ; régime | Une alimentation saine comprend beaucoup de légumes.
+work out | faire du sport, s'entraîner | Je m'entraîne trois fois par semaine.
+vitamin | vitamine | Les oranges sont pleines de vitamine C.
+fit | en forme | Yuki garde la forme en nageant.
+lose weight | perdre du poids, maigrir | Il veut perdre du poids avant l'été.
+put on weight | prendre du poids, grossir | J'ai pris du poids pendant les vacances.
+smoke | fumer | Mon père a arrêté de fumer l'année dernière.
+stress | stress | Trop de stress, c'est mauvais pour la santé.
+balanced | équilibré | Essaie de prendre un petit-déjeuner équilibré.
+fresh air | air frais, grand air | Sortons prendre l'air.
+## L'intérieur du corps
+lung | poumon | Fumer abîme les poumons.
+brain | cerveau | Le sommeil est important pour le cerveau.
+bone | os | Le lait est bon pour les os.
+skin | peau | Protège ta peau du soleil.
+blood | sang | Il y avait du sang sur sa chemise.
+muscle | muscle | J'ai mal aux muscles après la salle de sport.
+chest | poitrine, thorax | J'ai une douleur dans la poitrine.
+ankle | cheville | Ali s'est tordu la cheville.
+wrist | poignet | Elle porte une montre au poignet gauche.
+elbow | coude | Je me suis cogné le coude contre la porte.
+## Parler avec le médecin
+what's the matter? | qu'est-ce qui ne va pas ? ; qu'est-ce que tu as ? | Qu'est-ce qui ne va pas ? Tu es tout pâle.
+I don't feel well | je ne me sens pas bien | Je ne me sens pas bien, je rentre à la maison.
+it hurts | ça fait mal | Ça fait mal quand je marche.
+get better | aller mieux, guérir | J'espère que tu iras vite mieux.
+get well soon | bon rétablissement, prompt rétablissement | Bon rétablissement, Camille !
+lie down (lay, lain) | s'allonger | Allonge-toi ici, s'il te plaît.
+take your temperature | prendre la température (de quelqu'un) | L'infirmière va prendre ta température.
+be off sick | être en arrêt maladie | Tom est en arrêt maladie aujourd'hui.
+sick note | arrêt de travail, certificat médical | Mon chef m'a demandé un certificat médical.
+bless you | à tes souhaits | Atchoum ! À tes souhaits !

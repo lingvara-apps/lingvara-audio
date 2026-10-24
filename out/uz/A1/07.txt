@@ -1,0 +1,111 @@
+# UNIT: Xarid va kiyim | Pul, ranglar, kiyimlar, tana, sogʻliq
+## Doʻkonda
+shop | doʻkon | Doʻkon soat toʻqqizda ochiladi.
+cashier | kassir | Kassir juda xushmuomala.
+sell (sold, sold) | sotmoq | Bu yerda yangi non sotishadi.
+store | magazin, katta doʻkon | Magazin juda katta.
+shopping | xarid, bozorlik | Shanba kunlari xarid qilgani boraman.
+open | ochiq; ochmoq | Doʻkon bugun ochiqmi?
+closed | yopiq | Kechirasiz, biz yopiqmiz.
+sold out | sotilib ketgan, qolmagan | Kechirasiz, qizillari sotilib ketdi.
+show (showed, shown) | koʻrsatmoq | Menga anavi sumkani koʻrsata olasizmi?
+need | muhtoj boʻlmoq, kerak boʻlmoq | Menga yangi poyabzal kerak.
+## Pul va toʻlov
+money | pul | Pulim koʻp emas.
+price | narx | Buning narxi qancha?
+pay (paid, paid) | toʻlamoq | Karta bilan toʻlasam boʻladimi?
+cost (cost, cost) | turmoq (narxi), arzimoq | Bu qancha turadi?
+cash | naqd pul | Menda faqat naqd pul bor.
+card | karta | Mana kartam.
+cent | sent | Bu toʻqson sent turadi.
+pound | funt sterling; funt (ogʻirlik) | Bu besh funt turadi.
+dollar | dollar | Bu koʻylak yigirma dollar.
+purse | hamyon (ayollar) | Uning hamyoni sumkasida.
+## Arzon va qimmat
+cheap | arzon | Bu paypoqlar juda arzon.
+expensive | qimmat | London qimmat shahar.
+sale | chegirma; sotuv | Poyabzallar chegirmada.
+free | tekin, bepul; boʻsh | Suv bepul.
+too much | juda koʻp, haddan ortiq | Bu juda koʻp pul.
+count | sanamoq | Qaytimingni sanab ol, iltimos.
+want | xohlamoq | Bu koʻylakni xohlaysanmi?
+choose (chose, chosen) | tanlamoq | Bitta rang tanla, iltimos.
+enough | yetarli; yetarlicha | Pulim yetarli emas.
+euro | yevro | Sumka ellik yevro turadi.
+## Ranglar va tuslar
+colour | rang | Paltoying qanday rangda?
+grey | kulrang | Uning kulrang kostyumi bor.
+gold | oltin; tilla rang | U oltin uzuk taqib yuradi.
+silver | kumush; kumush rang | Menga bu kumush soat yoqadi.
+navy | toʻq koʻk | Maktab formasi toʻq koʻk rangda.
+light blue | och koʻk, havorang | Men havorang koʻylakni xohlayman.
+dark green | toʻq yashil | Uning sumkasi toʻq yashil.
+colourful | rang-barang, rangli | Diego rang-barang paypoqlarni yaxshi koʻradi.
+beige | bej, och jigarrang | Mening bej paltom bor.
+turquoise | feruza rang | Bu yerda dengiz feruza rangda.
+## Kiyimlar
+clothes | kiyim-kechak, kiyimlar | Menga yangi kiyimlar kerak.
+shirt | koʻylak (erkaklar) | Uning koʻylagi oq.
+T-shirt | futbolka | Plyajga futbolka olib ol.
+trousers | shim | Bu shim juda uzun.
+jeans | jinsi shim | Har kuni jinsi kiyaman.
+dress | koʻylak (ayollar), libos | Qanday chiroyli koʻylak!
+skirt | yubka | Annaning kalta yubkasi bor.
+jacket | kurtka, pidjak | Kurtkangni kiy, havo sovuq.
+coat | palto | Qishki paltom issiq.
+sweater | sviter, jemper | Qishda sviter kiyaman.
+## Poyabzal va aksessuarlar
+shoe | poyabzal, tufli | Ikkinchi tuflim qayerda?
+sandal | sandal | Yozda sandal kiyaman.
+sock | paypoq | Paypoqlarimni topa olmayapman.
+hat | shlyapa, bosh kiyim | Shlyapangni kiy.
+scarf (scarves) | sharf; roʻmol | Bu sharf juda yumshoq.
+glove | qoʻlqop | Yuki doim qoʻlqoplarini unutib qoʻyadi.
+belt | kamar | Bu kamar juda kalta.
+watch | qoʻl soati | Soatim orqada qolyapti.
+umbrella | soyabon | Oʻzing bilan soyabon ol.
+wallet | hamyon, bumajnik | Hamyonim sumkamda.
+## Oʻlcham va kiyinish
+size | oʻlcham, razmer | Siz qaysi oʻlchamni kiyasiz?
+large | katta (oʻlcham) | Buning katta oʻlchami bormi?
+shorts | shorti | Havo issiq, shortingni kiy.
+underwear | ichki kiyim | Sumkaga toza ichki kiyim sol.
+wear (wore, worn) | kiymoq; taqmoq | U doim qora kiyadi.
+glasses | koʻzoynak | Koʻzoynaksiz oʻqiy olmayman.
+tie | galstuk | U ishga galstuk taqib boradi.
+pocket | choʻntak | Telefonim choʻntagimda.
+button | tugma | Bitta tugma yoʻq.
+medium | oʻrta (oʻlcham) | Menga oʻrta oʻlcham kerak, iltimos.
+## Tana: bosh va yuz
+body | tana, badan | Sport tana uchun foydali.
+head | bosh | Boshingni bur, iltimos.
+face | yuz | Yuzingni yuv.
+hair | soch | Sofiyaning sochlari uzun.
+eye | koʻz | Uning koʻzlari moviy.
+ear | quloq | Qulogʻim sovqotyapti.
+nose | burun | Chaqaloqning burni kichkina.
+mouth | ogʻiz | Ogʻzingizni oching, iltimos.
+tooth (teeth) | tish | Chaqaloqning ikkita tishi bor.
+neck | boʻyin | Uning boʻyni uzun.
+## Tana: qoʻl va oyoqlar
+arm | qoʻl (butun qoʻl) | U quchogʻida mushuk ushlab turibdi.
+hand | qoʻl panjasi, kaft | Kechki ovqatdan oldin qoʻlingni yuv.
+finger | barmoq | Barmogʻimni kesib oldim.
+leg | oyoq (butun oyoq) | Oyoqlarim charchadi.
+foot (feet) | oyoq panjasi, tovon | Oyoqlarim sovqotyapti.
+back | orqa, bel | Belim ogʻriyapti.
+shoulder | yelka | Sumkangni yelkangga os.
+knee | tizza | Lukasning tizzasi ogʻriyapti.
+stomach | oshqozon; qorin | Qornim toʻq.
+heart | yurak | Yuraging kuchli.
+## Sogʻliq
+health | sogʻliq, salomatlik | Sogʻliq juda muhim.
+healthy | sogʻlom, foydali | Meva foydali.
+ill | kasal, betob | Emre bugun kasal.
+sore | ogʻriyotgan, achishayotgan | Koʻzlarim achishyapti.
+hurt (hurt, hurt) | ogʻrimoq; jarohatlamoq | Ogʻriyaptimi?
+headache | bosh ogʻrigʻi | Boshim ogʻriyapti.
+sick | kasal; koʻngli aynigan | Bugun oʻzimni kasal his qilyapman.
+chemist | dorixona; dorixonachi | Dorixona bankning yonida.
+medicine | dori | Bu dorini kuniga ikki marta ich.
+feel (felt, felt) | his qilmoq, sezmoq | Hozir oʻzimni yaxshiroq his qilyapman.

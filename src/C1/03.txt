@@ -1,0 +1,111 @@
+# UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+## Mahkeme ve taraflar
+plaintiff | davacı | isim | The plaintiff claims that the company ignored repeated safety warnings. | Davacı şirketin tekrarlanan güvenlik uyarılarını görmezden geldiğini iddia ediyor.
+defendant | sanık; davalı | isim | The defendant sat silently while the verdict was read out. | Karar okunurken sanık sessizce oturdu.
+prosecutor | savcı | isim | The prosecutor asked for a sentence of five years. | Savcı beş yıl hapis cezası istedi.
+counsel | avukat; hukuk müşaviri | isim | Counsel for the defence requested a short adjournment. | Savunma avukatı kısa bir erteleme talep etti.
+barrister | duruşma avukatı (İngiltere) | isim | Her barrister argued that the evidence had been obtained illegally. | Avukatı delillerin yasa dışı yollarla elde edildiğini savundu.
+solicitor | avukat (danışman, İngiltere) | isim | You should ask a solicitor to check the contract before you sign it. | İmzalamadan önce sözleşmeyi bir avukata kontrol ettirmelisin.
+jury | jüri | isim | The jury took two days to reach a unanimous decision. | Jürinin oy birliğiyle karara varması iki gün sürdü.
+bench | hâkimler kurulu; hâkim kürsüsü | isim | The case was heard by a bench of three judges. | Dava üç hâkimden oluşan bir heyet tarafından görüldü.
+litigant | dava tarafı | isim | Many litigants now represent themselves because lawyers are so expensive. | Avukatlar çok pahalı olduğu için birçok dava tarafı artık kendini temsil ediyor.
+tribunal | mahkeme; özel yargı kurulu | isim | She took her former employer to an employment tribunal. | Eski işvereni aleyhine iş mahkemesine başvurdu.
+## Yargılama süreci
+indictment | iddianame | isim | The indictment lists twelve separate charges of fraud. | İddianamede on iki ayrı dolandırıcılık suçlaması yer alıyor.
+arraignment | suçlamaların okunduğu ilk duruşma | isim | At the arraignment, he pleaded not guilty to all charges. | İlk duruşmada tüm suçlamaları reddetti.
+plead | suçlu ya da suçsuz olduğunu beyan etmek; yalvarmak | fiil | She pleaded guilty to driving without insurance. | Sigortasız araç kullanma suçlamasını kabul etti.
+hearing | duruşma | isim | The next hearing has been set for the fifteenth of March. | Bir sonraki duruşmanın tarihi 15 Mart olarak belirlendi.
+adjourn | ertelemek (oturumu) | fiil | The judge adjourned the trial until a new witness could be found. | Hâkim yeni bir tanık bulunana kadar duruşmayı erteledi.
+cross-examine | çapraz sorgulamak | fiil | The lawyer cross-examined the witness for over an hour. | Avukat tanığı bir saatten fazla çapraz sorguya çekti.
+verdict | jüri kararı; hüküm | isim | The verdict surprised almost everyone in the courtroom. | Karar mahkeme salonundaki neredeyse herkesi şaşırttı.
+acquit | beraat ettirmek | fiil | After a long trial, the jury acquitted both men. | Uzun bir yargılamadan sonra jüri iki adamı da beraat ettirdi.
+retrial | yeniden yargılama | isim | New evidence persuaded the court to order a retrial. | Yeni deliller mahkemeyi yeniden yargılama kararı vermeye ikna etti.
+precedent | emsal (karar) | isim | The ruling set an important precedent for future privacy cases. | Karar gelecekteki gizlilik davaları için önemli bir emsal oluşturdu.
+## Delil ve tanıklık
+testimony | tanıklık; ifade | isim | His testimony contradicted the statement he gave to the police. | Tanıklığı polise verdiği ifadeyle çelişiyordu.
+affidavit | yeminli beyan | isim | The neighbour signed an affidavit describing what she had seen. | Komşu gördüklerini anlatan yeminli bir beyan imzaladı.
+under oath | yemin altında | ifade | Witnesses who lie under oath can be charged with perjury. | Yemin altında yalan söyleyen tanıklar yalan tanıklıkla suçlanabilir.
+perjury | yalan tanıklık | isim | He was later convicted of perjury for lying to the court. | Daha sonra mahkemeye yalan söylediği için yalan tanıklıktan mahkûm edildi.
+exhibit | delil (mahkemede sunulan) | isim | The knife was shown to the jury as exhibit number four. | Bıçak jüriye dört numaralı delil olarak gösterildi.
+circumstantial evidence | dolaylı delil | isim | The case against him rests entirely on circumstantial evidence. | Ona karşı açılan dava tamamen dolaylı delillere dayanıyor.
+admissible | kabul edilebilir (delil) | sıfat | The judge ruled that the recording was not admissible in court. | Hâkim kaydın mahkemede delil olarak kabul edilemeyeceğine karar verdi.
+alibi | suç sırasında başka yerde bulunduğuna dair kanıt; mazeret | isim | His alibi was confirmed by three colleagues who were with him that night. | Mazereti o gece yanında olan üç meslektaşı tarafından doğrulandı.
+forensic | adli | sıfat | Forensic experts found traces of paint on the victim's coat. | Adli uzmanlar kurbanın paltosunda boya izleri buldu.
+burden of proof | ispat yükü | isim | In a criminal trial, the burden of proof lies with the prosecution. | Ceza davasında ispat yükü iddia makamındadır.
+## Ceza hukuku
+offence | suç | isim | Driving without a licence is a serious offence in most countries. | Ehliyetsiz araç kullanmak çoğu ülkede ciddi bir suçtur.
+felony | ağır suç | isim | In the United States, burglary is usually classed as a felony. | ABD'de hırsızlık genellikle ağır suç olarak sınıflandırılır.
+misdemeanour | hafif suç; kabahat | isim | Shoplifting small items is often treated as a misdemeanour. | Küçük eşyaları dükkândan çalmak çoğu zaman hafif suç sayılır.
+accomplice | suç ortağı | isim | Police are still searching for his accomplice. | Polis hâlâ suç ortağını arıyor.
+premeditated | önceden tasarlanmış | sıfat | The court found that the attack was premeditated. | Mahkeme saldırının önceden tasarlandığına karar verdi.
+mitigating circumstances | hafifletici sebepler | isim (çoğul) | The judge took mitigating circumstances into account and reduced the sentence. | Hâkim hafifletici sebepleri dikkate alıp cezayı indirdi.
+culpable | kusurlu; suçlu | sıfat | The inquiry found the managers culpable for the accident. | Soruşturma, kazada yöneticileri kusurlu buldu.
+criminal record | sabıka kaydı | isim | Applicants with a criminal record may find it hard to get certain jobs. | Sabıka kaydı olan adaylar bazı işleri bulmakta zorlanabilir.
+statute of limitations | zamanaşımı | isim | The statute of limitations for this type of fraud is ten years. | Bu tür dolandırıcılık için zamanaşımı on yıldır.
+extradite | iade etmek (suçluyu) | fiil | The suspect was extradited from Spain to face trial in Germany. | Şüpheli Almanya'da yargılanmak üzere İspanya'dan iade edildi.
+## Suç türleri
+fraud | dolandırıcılık | isim | The accountant was arrested for a large-scale tax fraud. | Muhasebeci büyük çaplı bir vergi dolandırıcılığından tutuklandı.
+embezzlement | zimmete para geçirme | isim | The treasurer was charged with embezzlement of club funds. | Sayman kulüp fonlarını zimmetine geçirmekle suçlandı.
+bribery | rüşvet | isim | Two officials were jailed for bribery in connection with the contract. | İki yetkili sözleşmeyle bağlantılı rüşvetten hapse atıldı.
+forgery | sahtecilik | isim | The painting turned out to be a clever forgery. | Tablonun ustaca yapılmış bir sahtesi olduğu ortaya çıktı.
+extortion | zorla para sızdırma; haraç | isim | The gang made money through extortion of local shop owners. | Çete yerel dükkân sahiplerinden haraç toplayarak para kazanıyordu.
+manslaughter | kasıtsız adam öldürme | isim | The driver was convicted of manslaughter, not murder. | Sürücü cinayetten değil kasıtsız adam öldürmekten mahkûm edildi.
+arson | kundakçılık | isim | Investigators believe the warehouse fire was an act of arson. | Müfettişler depo yangınının bir kundaklama olduğuna inanıyor.
+burglary | ev soygunu; hırsızlık | isim | There has been a rise in burglary in the area this winter. | Bu kış bölgede ev soygunlarında artış oldu.
+identity theft | kimlik hırsızlığı | isim | Identity theft is one of the fastest-growing crimes online. | Kimlik hırsızlığı internette en hızlı artan suçlardan biri.
+money laundering | kara para aklama | isim | The bank was fined for failing to prevent money laundering. | Banka kara para aklamayı önleyemediği için para cezasına çarptırıldı.
+## Cezalar ve infaz
+sentence | (cezaya) çarptırmak; mahkûm etmek | fiil | He was sentenced to three years in prison. | Üç yıl hapis cezasına çarptırıldı.
+custodial sentence | hapis cezası | isim | For a first offence, a custodial sentence is unlikely. | İlk suç için hapis cezası verilmesi pek olası değil.
+suspended sentence | ertelenmiş ceza | isim | She received a suspended sentence and two hundred hours of community service. | Ertelenmiş ceza ve iki yüz saat kamu hizmeti cezası aldı.
+community service | kamu hizmeti cezası | isim | The teenagers were ordered to do community service in the local park. | Gençlerin yerel parkta kamu hizmeti yapmasına hükmedildi.
+parole | şartlı tahliye | isim | He was released on parole after serving half of his sentence. | Cezasının yarısını çektikten sonra şartlı tahliye edildi.
+house arrest | ev hapsi | isim | The judge placed him under house arrest until the hearing. | Hâkim duruşmaya kadar onu ev hapsine aldı.
+restitution | tazmin; zararın giderilmesi | isim | The court ordered the company to pay restitution to every customer it had misled. | Mahkeme şirkete yanılttığı her müşterinin zararını tazmin etmesini emretti.
+life imprisonment | ömür boyu hapis | isim | In many countries, life imprisonment is the most severe punishment. | Birçok ülkede ömür boyu hapis en ağır cezadır.
+pardon | af | isim | After years of campaigning, his family finally secured a pardon. | Yıllarca süren kampanyanın ardından ailesi sonunda onun affedilmesini sağladı.
+miscarriage of justice | adli hata | isim | The case is now seen as a shocking miscarriage of justice. | Dava artık şok edici bir adli hata olarak görülüyor.
+## Medeni hukuk
+lawsuit | dava | isim | The residents filed a lawsuit against the chemical plant. | Sakinler kimya fabrikasına karşı dava açtı.
+sue | dava etmek | fiil | She is suing her landlord for the return of her deposit. | Depozitosunun iadesi için ev sahibine dava açıyor.
+damages | tazminat | isim (çoğul) | The court awarded him damages for the injuries he suffered. | Mahkeme uğradığı yaralanmalar için ona tazminat ödenmesine hükmetti.
+negligence | ihmal | isim | The hospital was found guilty of negligence. | Hastane ihmalden suçlu bulundu.
+settlement | sulh; uzlaşma | isim | The two sides reached a settlement before the case went to trial. | İki taraf dava mahkemeye gitmeden önce uzlaşmaya vardı.
+injunction | ihtiyati tedbir kararı | isim | The court granted an injunction to stop the demolition. | Mahkeme yıkımı durdurmak için ihtiyati tedbir kararı verdi.
+liable | sorumlu (hukuken) | sıfat | Parents can be held liable for damage caused by their children. | Ebeveynler çocuklarının verdiği zarardan sorumlu tutulabilir.
+tort | haksız fiil | isim | Defamation is a tort rather than a crime in many countries. | Hakaret birçok ülkede suçtan çok haksız fiil sayılır.
+defamation | iftira; hakaret | isim | The actor won his defamation case against the newspaper. | Oyuncu gazeteye karşı açtığı hakaret davasını kazandı.
+child support | nafaka (çocuk için) | isim | After the divorce, Lukas agreed to pay child support every month. | Boşanmadan sonra Lukas her ay çocuk nafakası ödemeyi kabul etti.
+## Mülkiyet ve miras
+deed | tapu senedi | isim | Keep the deed to the house in a safe place. | Evin tapu senedini güvenli bir yerde sakla.
+title | mülkiyet hakkı | isim | The seller must prove that he has clear title to the land. | Satıcı arazinin tartışmasız mülkiyetine sahip olduğunu kanıtlamalı.
+freehold | mülk (süresiz mülkiyet) | isim | They own the freehold of the building, not just a lease. | Binanın yalnızca kira hakkına değil süresiz mülkiyetine sahipler.
+easement | irtifak hakkı | isim | An easement allows the neighbours to use the path across our garden. | İrtifak hakkı komşuların bahçemizdeki patikayı kullanmasına izin veriyor.
+will | vasiyetname | isim | She changed her will shortly before she died. | Ölmeden kısa süre önce vasiyetnamesini değiştirdi.
+testator | vasiyet eden | isim | The testator left most of his estate to a children's charity. | Vasiyet eden kişi mal varlığının çoğunu bir çocuk yardım kuruluşuna bıraktı.
+beneficiary | lehtar; mirasçı | isim | Anna is the sole beneficiary of her aunt's life insurance. | Anna teyzesinin hayat sigortasının tek lehtarı.
+estate | tereke; mal varlığı | isim | It took two years to settle his estate. | Terekesinin tasfiyesi iki yıl sürdü.
+executor | vasiyeti tenfiz memuru | isim | Her brother was named as executor of the will. | Kardeşi vasiyeti tenfiz memuru olarak atandı.
+probate | vasiyetin onaylanması | isim | The house cannot be sold until probate has been granted. | Vasiyet onaylanana kadar ev satılamaz.
+## Anayasa ve haklar
+constitution | anayasa | isim | The constitution guarantees freedom of expression. | Anayasa ifade özgürlüğünü güvence altına alır.
+amendment | değişiklik (yasa) | isim | Parliament approved an amendment to the electoral law. | Parlamento seçim kanununda yapılan bir değişikliği onayladı.
+statute | kanun; yasa | isim | The rights of tenants are set out in a separate statute. | Kiracıların hakları ayrı bir kanunda belirtilmiştir.
+jurisdiction | yargı yetkisi | isim | The case falls outside the jurisdiction of this court. | Dava bu mahkemenin yargı yetkisi dışında kalıyor.
+due process | hukuka uygun yargılama | isim | Everyone accused of a crime has the right to due process. | Suçla itham edilen herkesin hukuka uygun yargılanma hakkı vardır.
+habeas corpus | kişi özgürlüğü güvencesi (tutuklamaya itiraz) | isim | Habeas corpus protects people from being held without a legal reason. | Habeas corpus, kişileri hukuki bir gerekçe olmadan alıkonulmaya karşı korur.
+civil liberties | sivil özgürlükler | isim (çoğul) | Critics fear the new law will limit civil liberties. | Eleştirmenler yeni yasanın sivil özgürlükleri kısıtlayacağından korkuyor.
+unconstitutional | anayasaya aykırı | sıfat | The supreme court declared the tax unconstitutional. | Yüksek mahkeme vergiyi anayasaya aykırı ilan etti.
+enact | yasalaştırmak | fiil | The reform was enacted after months of debate. | Reform aylarca süren tartışmanın ardından yasalaştı.
+repeal | yürürlükten kaldırmak | fiil | The government plans to repeal the old licensing law. | Hükümet eski ruhsat yasasını yürürlükten kaldırmayı planlıyor.
+## Hukuki kalıplar
+hereby | işbu belgeyle | zarf | I hereby declare that the information above is correct. | İşbu belgeyle yukarıdaki bilgilerin doğru olduğunu beyan ederim.
+hereinafter | bundan böyle (metinde) | zarf | The company, hereinafter referred to as the Seller, agrees to the terms. | Bundan böyle Satıcı olarak anılacak şirket şartları kabul eder.
+aforementioned | yukarıda adı geçen | sıfat | The aforementioned property must be vacated by the end of the month. | Yukarıda adı geçen mülk ay sonuna kadar boşaltılmalıdır.
+pursuant to | uyarınca | edat | Pursuant to section four, the tenant must give two months' notice. | Dördüncü madde uyarınca kiracı iki ay önceden bildirimde bulunmalıdır.
+null and void | hükümsüz | ifade | Any agreement signed under threat is null and void. | Tehdit altında imzalanan her anlaşma hükümsüzdür.
+without prejudice | haklar saklı kalmak kaydıyla | ifade | The offer was made without prejudice to any future legal action. | Teklif ileride açılabilecek davalara ilişkin haklar saklı kalmak kaydıyla yapıldı.
+in good faith | iyi niyetle | ifade | Both parties agree to negotiate in good faith. | İki taraf da iyi niyetle müzakere etmeyi kabul eder.
+beyond reasonable doubt | makul şüphenin ötesinde | ifade | The prosecution must prove guilt beyond reasonable doubt. | İddia makamı suçu makul şüphenin ötesinde kanıtlamalıdır.
+bona fide | gerçek; iyi niyetli | sıfat | Only bona fide residents can apply for a parking permit. | Yalnızca gerçek sakinler park izni için başvurabilir.
+de facto | fiilî | sıfat | He has become the de facto leader of the group. | Grubun fiilî lideri hâline geldi.

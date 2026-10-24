@@ -1,0 +1,111 @@
+# UNIT: Oila va odamlar | Qarindoshlar, kasblar, xarakter
+## Yaqin oila
+family | oila | Mening oilam katta.
+mother | ona | Onam oʻqituvchi.
+father | ota | Uning otasi bankda ishlaydi.
+parents | ota-ona | Ota-onam Anqarada yashaydi.
+brother | aka; uka | Akam mendan katta.
+sister | opa; singil | Annaning ikki singlisi bor.
+son | oʻgʻil | Ularning oʻgʻli besh yoshda.
+daughter | qiz (farzand) | Uning qizi hamshira.
+child (children) | bola, farzand | Ularning uchta farzandi bor.
+baby | chaqaloq | Chaqaloq uxlayapti.
+## Katta oila
+grandmother | buvi | Buvim ajoyib pishiriqlar pishiradi.
+grandfather | bobo | Bobom sakson yoshda.
+grandparents | bobo va buvi | Yakshanba kunlari bobo-buvimiznikiga boramiz.
+grandchild (grandchildren) | nevara | Uning toʻrtta nevarasi bor.
+uncle | amaki; togʻa | Amakim Londonda yashaydi.
+aunt | amma; xola | Mariya xola juda quvnoq.
+cousin | amakivachcha, xolavachcha | Amakivachcham Kanadada yashaydi.
+husband | er (turmush oʻrtogʻi) | Uning eri uchuvchi.
+wife (wives) | xotin, rafiqa | Bu mening rafiqam Sofiya.
+twin | egizak | Ali va Omar egizaklar.
+## Odamlar
+person (people) | shaxs, inson | U yaxshi inson.
+man (men) | erkak, kishi | Anavi erkak juda baland boʻyli.
+woman (women) | ayol | Qizil kiyimdagi ayol mening xolam.
+girl | qiz bola | Qiz kitob oʻqiyapti.
+friend | doʻst, oʻrtoq | Yuki mening doʻstim.
+neighbor | qoʻshni (Britaniya yozuvida: neighbour) | Qoʻshnimizning iti bor.
+guest | mehmon | Bugun kechqurun bizda mehmonlar bor.
+adult | katta yoshli odam | Chipta kattalar uchun.
+kid | bola (samimiy) | Bolalar bogʻda.
+teenager | oʻsmir | Oʻgʻlim endi oʻsmir.
+## Kasblar I
+job | ish, kasb | Kasbingiz nima?
+teacher | oʻqituvchi | Kamil ingliz tili oʻqituvchisi.
+doctor | shifokor, doktor | Menga shifokor kerak.
+nurse | hamshira | Hamshira juda mehribon.
+engineer | muhandis | Emre quruvchi muhandis.
+driver | haydovchi | Avtobus haydovchisi xushmuomala.
+chef | oshpaz | Diego oshpaz.
+waiter | ofitsiant | Ofitsiant menyuni olib keladi.
+police officer | politsiyachi | Politsiyachidan soʻrang.
+farmer | fermer, dehqon | Fermerning sigirlari koʻp.
+## Kasblar II
+worker | ishchi, xodim | Ishchilar soat sakkizda ish boshlaydi.
+boss | boshliq, xoʻjayin | Boshligʻim juda band.
+office | ofis, idora | Men ofisda ishlayman.
+lawyer | advokat | Uning onasi advokat.
+dentist | tish shifokori | Bugun tish shifokoriga boraman.
+artist | rassom, sanʼatkor | Lukas yosh rassom.
+singer | qoʻshiqchi | U qoʻshiqchi boʻlishni xohlaydi.
+writer | yozuvchi | Amakim yozuvchi.
+shop assistant | sotuvchi | Sotuvchi menga yordam beradi.
+pilot | uchuvchi | Uchuvchi inglizcha gapiradi.
+## Tashqi koʻrinish
+tall | baland boʻyli | Akam juda baland boʻyli.
+short | qisqa; past boʻyli | Uning sochi qisqa.
+young | yosh | Oʻqituvchimiz yosh.
+old | keksa; eski | Anavi keksa kishi mening bobom.
+beautiful | goʻzal, chiroyli | Qanday goʻzal chaqaloq!
+handsome | kelishgan (erkak) | Uning eri kelishgan.
+pretty | yoqimtoy, shirin | Qizingiz juda yoqimtoy.
+slim | xipcha, qaddi-qomatli | Mariya baland boʻyli va xipcha.
+strong | kuchli | Otam juda kuchli.
+weak | kuchsiz, holsiz | Bugun oʻzimni holsiz his qilyapman.
+## Xarakter
+kind | mehribon, rahmdil | Onang juda mehribon.
+friendly | doʻstona, samimiy | Qoʻshnilarimiz samimiy odamlar.
+funny | kulgili, qiziq | Omar rostdan ham kulgili.
+nice | yoqimli, yaxshi | U yoqimli qiz.
+shy | uyatchan | Yangi oʻquvchi uyatchan.
+lazy | dangasa | Mushugim juda dangasa.
+clever | aqlli | Yuki aqlli oʻquvchi.
+polite | odobli, xushmuomala | Iltimos, odobli boʻl.
+quiet | jim, sokin | U kamgap bola.
+honest | halol, rostgoʻy | Men rostgoʻy odamlarni yaxshi koʻraman.
+## Hissiyotlar
+happy | baxtli, xursand | Bugun xursandman.
+sad | xafa, gʻamgin | U nega xafa?
+angry | jahldor, jahli chiqqan | Dadamning mendan jahli chiqqan.
+tired | charchagan | Men juda charchaganman.
+bored | zerikkan | Bolalar zerikib qolgan.
+worried | xavotirda, tashvishli | Oyim sendan xavotirda.
+afraid | qoʻrqqan | Men itlardan qoʻrqaman.
+surprised | hayron qolgan | U hayron boʻlib koʻrinadi.
+excited | hayajonlangan | Sayohat haqida oʻylab hayajondamiz.
+calm | xotirjam, tinch | Iltimos, xotirjam boʻling.
+## Hayot bosqichlari
+be born | tugʻilmoq | Men Bursada tugʻilganman.
+birthday | tugʻilgan kun | Tugʻilgan kuning bilan, Anna!
+childhood | bolalik | Bolaligim baxtli oʻtgan.
+grow up (grew, grown) | ulgʻaymoq, katta boʻlmoq | Men qishloqda katta boʻlganman.
+get married | turmush qurmoq | Ular iyun oyida turmush qurishadi.
+wedding | toʻy | Toʻy shanba kuni.
+divorced | ajrashgan | Uning ota-onasi ajrashgan.
+love | sevgi, muhabbat; sevmoq | Sevgi muhim.
+die | oʻlmoq, vafot etmoq | Keksa itim oʻtgan yili oʻldi.
+life | hayot | Hayot goʻzal.
+## Munosabatlar
+boyfriend | yigit (sevgilisi) | Uning yigiti Italiyadan.
+girlfriend | qiz (sevgilisi) | Uning qiz doʻsti shifokor.
+couple | juftlik, er-xotin | Ular baxtli juftlik.
+best friend | eng yaqin doʻst | Ali mening eng yaqin doʻstim.
+relative | qarindosh | Barcha qarindoshlarimiz shu yerda.
+only child | yolgʻiz farzand | Men oilada yolgʻiz farzandman.
+look like | oʻxshamoq | Sen onangga oʻxshaysan.
+older | kattaroq | Katta opam advokat.
+younger | kichikroq | Mening ukam bor.
+each other | bir-birini, bir-biriga | Biz bir-birimizni yaxshi koʻramiz.

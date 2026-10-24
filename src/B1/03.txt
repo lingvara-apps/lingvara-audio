@@ -1,0 +1,111 @@
+# UNIT: Eğitim ve bilim | Üniversite, araştırma, bilimsel dil
+## Üniversite hayatı
+first-year student | birinci sınıf öğrencisi | isim | Every first-year student gets a map of the campus. | Her birinci sınıf öğrencisine bir kampüs haritası verilir.
+halls of residence | öğrenci yurdu, yurt binaları | isim (çoğul) | Most first-year students live in halls of residence. | Birinci sınıf öğrencilerinin çoğu öğrenci yurtlarında kalır.
+head of department | bölüm başkanı | isim | The head of department signed my application on Friday. | Bölüm başkanı başvurumu cuma günü imzaladı.
+dean | dekan | isim | The dean gave a short speech to welcome the new students. | Dekan yeni öğrencileri karşılamak için kısa bir konuşma yaptı.
+academic year | akademik yıl, öğretim yılı | isim | The academic year starts in late September here. | Burada akademik yıl eylül sonunda başlar.
+student union | öğrenci birliği | isim | The student union organises concerts and cheap trips. | Öğrenci birliği konserler ve ucuz geziler düzenler.
+open day | tanıtım günü, açık kapı günü | isim | We visited three universities on their open days. | Üç üniversiteyi tanıtım günlerinde ziyaret ettik.
+lecture hall | amfi, büyük derslik | isim | The lecture hall was so full that some students sat on the floor. | Amfi o kadar doluydu ki bazı öğrenciler yere oturdu.
+alumni | mezunlar | isim (çoğul) | Several famous alumni came back to speak at the ceremony. | Birçok tanınmış mezun törende konuşmak için geri geldi.
+mature student | ileri yaşta okuyan öğrenci | isim | At forty-five, Ali is a mature student studying law. | Kırk beş yaşındaki Ali hukuk okuyan yetişkin bir öğrenci.
+## Bölümler ve programlar
+faculty | fakülte | isim | She works in the Faculty of Medicine as a researcher. | Tıp Fakültesinde araştırmacı olarak çalışıyor.
+module | modül, ders birimi | isim | This module covers the history of modern architecture. | Bu modül modern mimarlık tarihini kapsıyor.
+elective | seçmeli ders | isim | I chose photography as my elective this year. | Bu yıl seçmeli ders olarak fotoğrafçılığı seçtim.
+compulsory | zorunlu | sıfat | English is a compulsory subject for all first-year students. | İngilizce tüm birinci sınıf öğrencileri için zorunlu bir derstir.
+seminar | seminer | isim | In the seminar we discussed the article in small groups. | Seminerde makaleyi küçük gruplar hâlinde tartıştık.
+assignment | ödev, görev | isim | I have to finish this assignment by Monday morning. | Bu ödevi pazartesi sabahına kadar bitirmem gerekiyor.
+coursework | dönem ödevleri | isim | Coursework counts for forty percent of the final grade. | Dönem ödevleri final notunun yüzde kırkını oluşturur.
+curriculum | müfredat, öğretim programı | isim | The new curriculum includes more practical lessons. | Yeni müfredat daha fazla uygulamalı ders içeriyor.
+attendance | devam, derse katılım | isim | Attendance at all seminars is compulsory this term. | Bu dönem tüm seminerlere devam zorunludur.
+postgraduate | lisansüstü öğrenci | isim | As a postgraduate, Ali also teaches first-year students. | Lisansüstü öğrenci olarak Ali birinci sınıf öğrencilerine de ders veriyor.
+## Sınav ve değerlendirme
+assessment | değerlendirme | isim | The final assessment is a project, not a written exam. | Final değerlendirmesi yazılı sınav değil, bir proje.
+grade | not, derece | isim | Sofia got the highest grade in the whole class. | Sofia bütün sınıftaki en yüksek notu aldı.
+mock exam | deneme sınavı | isim | We have a mock exam next week to practise for the real one. | Asıl sınava hazırlanmak için gelecek hafta bir deneme sınavımız var.
+cheat | kopya çekmek, hile yapmak | fiil | Two students were caught cheating during the test. | İki öğrenci sınav sırasında kopya çekerken yakalandı.
+oral exam | sözlü sınav | isim | In the oral exam you will talk with two teachers. | Sözlü sınavda iki öğretmenle konuşacaksınız.
+resit | bütünleme sınavı | isim | If you fail, you can take a resit in August. | Kalırsan ağustosta bütünleme sınavına girebilirsin.
+invigilator | gözetmen | isim | The invigilator asked us to put our phones away. | Gözetmen telefonlarımızı kaldırmamızı istedi.
+transcript | not dökümü, transkript | isim | The company asked for a copy of my academic transcript. | Şirket akademik not dökümümün bir kopyasını istedi.
+multiple-choice | çoktan seçmeli | sıfat | The first part of the test has thirty multiple-choice questions. | Sınavın ilk bölümünde otuz çoktan seçmeli soru var.
+graduation | mezuniyet | isim | Her whole family came to her graduation ceremony in June. | Haziranda bütün ailesi mezuniyet törenine geldi.
+## Öğrenme yolları
+cram | sınavdan önce yoğun çalışmak, hafızaya tıkıştırmak | fiil | Sofia stayed up all night cramming for her history exam. | Sofia tarih sınavı için bütün gece uyumadan yoğun çalıştı.
+rote learning | ezberci öğrenme | isim | Rote learning helps with dates, but not with understanding. | Ezberci öğrenme tarihleri hatırlamaya yarar ama anlamaya yaramaz.
+note-taking | not tutma | isim | Good note-taking makes revision much easier later. | İyi not tutmak sonradan tekrarı çok kolaylaştırır.
+handout | ders notu, dağıtılan föy | isim | The teacher gave everyone a handout with the main points. | Öğretmen herkese ana noktaların yazılı olduğu bir föy dağıttı.
+highlight | fosforlu kalemle işaretlemek; vurgulamak | fiil | She highlighted the key dates in yellow. | Önemli tarihleri sarıyla işaretledi.
+reading list | okuma listesi | isim | The reading list for this course has twenty books on it. | Bu dersin okuma listesinde yirmi kitap var.
+comprehension | anlama, kavrayış | isim | The reading comprehension part of the exam was quite difficult. | Sınavın okuduğunu anlama bölümü oldukça zordu.
+absorb | (bilgiyi) özümsemek | fiil | It is hard to absorb so much information in one day. | Bu kadar çok bilgiyi bir günde özümsemek zor.
+study group | çalışma grubu | isim | Our study group meets in the library every Tuesday evening. | Çalışma grubumuz her salı akşamı kütüphanede buluşuyor.
+distance learning | uzaktan eğitim | isim | Distance learning allows people to study while they work. | Uzaktan eğitim insanların çalışırken okumasına olanak tanır.
+## Araştırma
+research | araştırma | isim | Camille is doing research on sleep and memory. | Camille uyku ve bellek üzerine araştırma yapıyor.
+pie chart | pasta grafik | isim | The pie chart shows how students spend their free time. | Pasta grafik öğrencilerin boş zamanlarını nasıl geçirdiğini gösteriyor.
+statistics | istatistik | isim (çoğul) | The statistics show that more people are cycling to work. | İstatistikler daha fazla insanın işe bisikletle gittiğini gösteriyor.
+experiment | deney | isim | In this experiment we tested how plants react to music. | Bu deneyde bitkilerin müziğe nasıl tepki verdiğini test ettik.
+researcher | araştırmacı | isim | The researchers spent two years studying sleeping habits. | Araştırmacılar iki yılını uyku alışkanlıklarını incelemeye harcadı.
+graph | grafik | isim | This graph shows how prices changed over ten years. | Bu grafik fiyatların on yılda nasıl değiştiğini gösteriyor.
+sample | örneklem, numune | isim | The researchers took water samples from ten different rivers. | Araştırmacılar on farklı nehirden su numunesi aldı.
+findings | bulgular | isim (çoğul) | The findings were published in a medical journal last month. | Bulgular geçen ay bir tıp dergisinde yayımlandı.
+analyse | analiz etmek, çözümlemek | fiil | It took us three months to analyse all the answers. | Bütün cevapları analiz etmek üç ayımızı aldı.
+conduct | yürütmek, gerçekleştirmek | fiil | The team conducted interviews in five different countries. | Ekip beş farklı ülkede görüşmeler gerçekleştirdi.
+## Laboratuvarda
+laboratory | laboratuvar | isim | No food or drinks are allowed in the laboratory. | Laboratuvara yiyecek ve içecek sokmak yasaktır.
+Bunsen burner | Bunsen beki | isim | Never leave a Bunsen burner on when you leave the room. | Odadan çıkarken Bunsen bekini asla açık bırakma.
+lab coat | laboratuvar önlüğü | isim | Put on your lab coat before you touch anything. | Herhangi bir şeye dokunmadan önce laboratuvar önlüğünü giy.
+chemical | kimyasal madde | isim | Some of these chemicals are dangerous if you touch them. | Bu kimyasalların bazıları dokunursan tehlikelidir.
+equipment | ekipman, donanım | isim | The lab has just bought some expensive new equipment. | Laboratuvar az önce pahalı yeni ekipmanlar aldı.
+observe | gözlemlemek | fiil | Students observed the birds for an hour every morning. | Öğrenciler her sabah bir saat boyunca kuşları gözlemledi.
+measure | ölçmek | fiil | We measured the temperature of the water every ten minutes. | Suyun sıcaklığını her on dakikada bir ölçtük.
+procedure | işlem, prosedür | isim | Follow the safety procedure exactly as it is written. | Güvenlik prosedürünü tam yazıldığı gibi uygula.
+accurate | doğru, kesin, hassas | sıfat | These scales are not accurate enough for our experiment. | Bu teraziler deneyimiz için yeterince hassas değil.
+safety goggles | koruyucu gözlük | isim (çoğul) | Always wear safety goggles when you work with acids. | Asitlerle çalışırken her zaman koruyucu gözlük tak.
+## Bilim dalları
+physics | fizik | isim | Physics explains why the sky looks blue during the day. | Fizik gündüz gökyüzünün neden mavi göründüğünü açıklar.
+psychology | psikoloji | isim | Sofia studied psychology because she wanted to understand how people think. | Sofia insanların nasıl düşündüğünü anlamak istediği için psikoloji okudu.
+biology | biyoloji | isim | In biology we are learning about the human heart. | Biyolojide insan kalbini öğreniyoruz.
+astronomy | astronomi, gök bilimi | isim | His interest in astronomy began with a cheap telescope. | Astronomiye ilgisi ucuz bir teleskopla başladı.
+geology | jeoloji, yer bilimi | isim | Geology students spent a week studying rocks on the coast. | Jeoloji öğrencileri sahildeki kayaları incelemek için bir hafta geçirdi.
+genetics | genetik | isim | Thanks to genetics, we understand why children look like their parents. | Genetik sayesinde çocukların neden ebeveynlerine benzediğini anlıyoruz.
+botany | botanik, bitki bilimi | isim | She studied botany and now works in a large garden. | Botanik okudu ve şimdi büyük bir bahçede çalışıyor.
+zoology | zooloji, hayvan bilimi | isim | Omar chose zoology because he loves animals of all kinds. | Omar her tür hayvanı sevdiği için zoolojiyi seçti.
+engineering | mühendislik | isim | Maria wants to study engineering and build bridges one day. | Maria mühendislik okuyup bir gün köprüler inşa etmek istiyor.
+archaeology | arkeoloji | isim | Archaeology tells us how people lived thousands of years ago. | Arkeoloji bize insanların binlerce yıl önce nasıl yaşadığını anlatır.
+## Bilimsel dil
+theory | kuram, teori | isim | In theory, the plan works, but in practice it is harder. | Teoride plan işe yarıyor ama pratikte daha zor.
+formula | formül | isim | Can you remember the formula for the area of a circle? | Dairenin alan formülünü hatırlıyor musun?
+conclusion | sonuç, varılan yargı | isim | What conclusion can we draw from these numbers? | Bu sayılardan nasıl bir sonuç çıkarabiliriz?
+method | yöntem | isim | This new method is faster and much cheaper. | Bu yeni yöntem daha hızlı ve çok daha ucuz.
+equation | denklem | isim | It took Lukas an hour to solve the last equation. | Lukas'ın son denklemi çözmesi bir saat sürdü.
+factor | etken, faktör | isim | Stress is one factor that can affect your health. | Stres sağlığını etkileyebilecek etkenlerden biridir.
+phenomenon (phenomena) | olgu, fenomen | isim | The northern lights are a beautiful natural phenomenon. | Kuzey ışıkları güzel bir doğa olayıdır.
+theoretical | kuramsal, teorik | sıfat | The first year is mostly theoretical, with few practical lessons. | Birinci yıl çoğunlukla kuramsal, az sayıda uygulamalı ders var.
+significant | anlamlı, önemli | sıfat | There was no significant difference between the two results. | İki sonuç arasında anlamlı bir fark yoktu.
+approach | yaklaşım | isim | We need a completely different approach to this problem. | Bu soruna tamamen farklı bir yaklaşıma ihtiyacımız var.
+## Keşifler ve buluşlar
+discovery | keşif | isim | The discovery of the old ship surprised everyone in the town. | Eski geminin keşfi kasabadaki herkesi şaşırttı.
+invention | icat, buluş | isim | The washing machine was a great invention for busy families. | Çamaşır makinesi yoğun aileler için harika bir icattı.
+inventive | yaratıcı, buluş yeteneği olan | sıfat | Children can be very inventive when they have no toys. | Çocuklar oyuncakları olmadığında çok yaratıcı olabilir.
+scientist | bilim insanı | isim | As a child, Omar dreamed of becoming a famous scientist. | Omar çocukken ünlü bir bilim insanı olmayı hayal ederdi.
+foresee (foresaw, foreseen) | önceden görmek | fiil · düzensiz | Nobody could foresee how popular the phone would become. | Telefonun ne kadar popüler olacağını kimse önceden göremezdi.
+estimate | tahmin etmek, kestirmek | fiil | Scientists estimate that the tree is about five hundred years old. | Bilim insanları ağacın yaklaşık beş yüz yaşında olduğunu tahmin ediyor.
+experimental | deneysel | sıfat | The hospital is testing an experimental treatment for the disease. | Hastane hastalık için deneysel bir tedaviyi test ediyor.
+award | ödül | isim | Her team won an award for their work on clean water. | Ekibi, temiz su üzerine yaptığı çalışmalarla bir ödül kazandı.
+genius | dâhi | isim | You don't need to be a genius to understand this. | Bunu anlamak için dâhi olmana gerek yok.
+curiosity | merak | isim | Curiosity is the starting point of every good scientist. | Merak her iyi bilim insanının başlangıç noktasıdır.
+## Akademik yazı
+introduction | giriş | isim | Your introduction should explain what the essay is about. | Giriş bölümün, kompozisyonun ne hakkında olduğunu açıklamalı.
+essay | deneme, kompozisyon | isim | The teacher asked us to write a short essay about our town. | Öğretmen kasabamız hakkında kısa bir kompozisyon yazmamızı istedi.
+outline | taslak plan, ana hatlar | isim | Make an outline of your essay before you start writing. | Yazmaya başlamadan önce kompozisyonunun ana hatlarını çıkar.
+word limit | kelime sınırı | isim | Don't go over the word limit, or you will lose marks. | Kelime sınırını aşma, yoksa puan kaybedersin.
+cite | kaynak göstermek, alıntılamak | fiil | You must cite every book that you use in your work. | Çalışmanda kullandığın her kitabı kaynak olarak göstermelisin.
+quotation | alıntı | isim | He started his speech with a quotation from an old poem. | Konuşmasına eski bir şiirden bir alıntıyla başladı.
+submit | teslim etmek, sunmak | fiil | All essays must be submitted online before midnight. | Bütün kompozisyonlar gece yarısından önce çevrim içi teslim edilmelidir.
+concluding paragraph | sonuç paragrafı | isim | In the concluding paragraph, repeat your main idea in new words. | Sonuç paragrafında ana fikrini yeni kelimelerle tekrar et.
+academic | akademik | sıfat | Academic English is quite different from everyday English. | Akademik İngilizce günlük İngilizceden oldukça farklıdır.
+academic journal | akademik dergi | isim | The study appeared in a well-known academic journal. | Çalışma tanınmış bir akademik dergide yayımlandı.

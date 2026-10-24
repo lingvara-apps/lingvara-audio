@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa
+## Şehirde
+city | şehir | isim | London is a big city. | Londra büyük bir şehir.
+town | kasaba; küçük şehir | isim | I live in a small town. | Küçük bir kasabada yaşıyorum.
+village | köy | isim | My grandparents live in a village. | Büyükannemle büyükbabam bir köyde yaşıyor.
+street | sokak, cadde | isim | What is the name of this street? | Bu sokağın adı ne?
+road | yol | isim | This road goes to the sea. | Bu yol denize gider.
+square | meydan | isim | The café is in the main square. | Kafe ana meydanda.
+park | park | isim | Let's walk in the park. | Parkta yürüyelim.
+bridge | köprü | isim | Cross the bridge and turn left. | Köprüyü geç ve sola dön.
+centre | merkez | isim | The hotel is in the city centre. | Otel şehir merkezinde.
+building | bina | isim | That building is very old. | O bina çok eski.
+## Önemli yerler
+bank | banka | isim | The bank closes at five. | Banka beşte kapanır.
+post office | postane | isim | Where is the post office? | Postane nerede?
+hospital | hastane | isim | My mother works at the hospital. | Annem hastanede çalışıyor.
+school | okul | isim | The school is near my house. | Okul evime yakın.
+library | kütüphane | isim | I study in the library. | Kütüphanede ders çalışırım.
+museum | müze | isim | The museum is free today. | Müze bugün ücretsiz.
+church | kilise | isim | There is an old church here. | Burada eski bir kilise var.
+mosque | cami | isim | The mosque is next to the market. | Cami pazarın yanında.
+railway station | tren garı | isim | The railway station is very busy. | Tren garı çok kalabalık.
+hotel | otel | isim | Our hotel has a nice view. | Otelimizin güzel bir manzarası var.
+## Daha çok yer
+cinema | sinema | isim | Let's go to the cinema tonight. | Bu akşam sinemaya gidelim.
+theatre | tiyatro | isim | The theatre is in the old town. | Tiyatro eski şehirde.
+airport | havalimanı | isim | The airport is far from here. | Havalimanı buraya uzak.
+bus stop | otobüs durağı | isim | I wait at the bus stop. | Otobüs durağında beklerim.
+palace | saray | isim | The palace is open to tourists. | Saray turistlere açık.
+sports centre | spor merkezi | isim | I swim at the sports centre. | Spor merkezinde yüzerim.
+zoo | hayvanat bahçesi | isim | The kids want to visit the zoo. | Çocuklar hayvanat bahçesine gitmek istiyor.
+mall | alışveriş merkezi, AVM | isim | The new mall is huge. | Yeni AVM çok büyük.
+swimming pool | yüzme havuzu | isim | The hotel has a swimming pool. | Otelin yüzme havuzu var.
+fountain | çeşme; fıskiye | isim | Let's meet at the fountain. | Çeşmenin yanında buluşalım.
+## Yön tarifi
+left | sol; sola | zarf | Turn left at the bank. | Bankadan sola dön.
+on the right | sağda, sağ tarafta | ifade | The museum is on the right. | Müze sağda.
+straight on | dümdüz | ifade | Go straight on for five minutes. | Beş dakika dümdüz git.
+turn | dönmek | fiil | Turn right after the bridge. | Köprüden sonra sağa dön.
+cross | (karşıya) geçmek | fiil | Cross the street carefully. | Caddeden dikkatlice karşıya geç.
+map | harita | isim | Can you show me on the map? | Bana haritada gösterebilir misin?
+north | kuzey | isim | Manchester is in the north of England. | Manchester İngiltere'nin kuzeyinde.
+south | güney | isim | We drive south every summer. | Her yaz arabayla güneye gideriz.
+east | doğu | isim | The sun rises in the east. | Güneş doğudan doğar.
+west | batı | isim | The village is west of the city. | Köy şehrin batısında.
+## Nerede?
+far | uzak | sıfat | Is the station far? | İstasyon uzak mı?
+opposite | karşısında | edat | The bank is opposite the school. | Banka okulun karşısında.
+outside | dışarıda; dışında | zarf | I'll wait outside. | Dışarıda bekleyeceğim.
+inside | içeride; içinde | zarf | Let's go inside, it's cold. | İçeri girelim, hava soğuk.
+across | karşıya, öbür tarafa | edat | Walk across the square. | Meydanın öbür tarafına yürü.
+along | boyunca | edat | Walk along this street. | Bu sokak boyunca yürü.
+at the end of | ...in sonunda | ifade | It's at the end of the road. | Yolun sonunda.
+get to (got, got) | bir yere varmak | fiil · düzensiz | How do I get to the museum? | Müzeye nasıl giderim?
+how far | ne kadar uzak | ifade | How far is the airport? | Havalimanı ne kadar uzak?
+route | güzergâh, rota | isim | This bus route is very long. | Bu otobüs güzergâhı çok uzun.
+## Toplu taşıma
+bus | otobüs | isim | I go to work by bus. | İşe otobüsle giderim.
+tram | tramvay | isim | The tram is slow but cheap. | Tramvay yavaş ama ucuz.
+metro | metro | isim | Take the metro to the centre. | Merkeze metroyla git.
+minibus | minibüs, dolmuş | isim | The minibus stops here. | Minibüs burada durur.
+taxi | taksi | isim | Let's take a taxi home. | Eve taksiyle gidelim.
+plane | uçak | isim | The plane lands at noon. | Uçak öğlen iniyor.
+boat | tekne, kayık | isim | We cross the lake by boat. | Gölü tekneyle geçeriz.
+ship | gemi | isim | The ship leaves at six. | Gemi altıda kalkıyor.
+ticket | bilet | isim | Two tickets to Oxford, please. | Oxford'a iki bilet, lütfen.
+passenger | yolcu | isim | The bus has ten passengers. | Otobüste on yolcu var.
+## Yolda
+car | araba | isim | Her car is new. | Onun arabası yeni.
+bike | bisiklet | isim | Yuki rides her bike to school. | Yuki okula bisikletle gider.
+motorbike | motosiklet | isim | His motorbike is very loud. | Onun motosikleti çok gürültülü.
+on foot | yürüyerek, yaya | ifade | I go to school on foot. | Okula yürüyerek giderim.
+drive (drove, driven) | araba sürmek | fiil · düzensiz | Can you drive a car? | Araba kullanabilir misin?
+ride (rode, ridden) | binmek, sürmek (bisiklet, at) | fiil · düzensiz | Kids ride bikes in the park. | Çocuklar parkta bisiklete biner.
+traffic | trafik | isim | The traffic is terrible today. | Bugün trafik berbat.
+traffic lights | trafik ışıkları | isim (çoğul) | Stop at the traffic lights. | Trafik ışıklarında dur.
+fast | hızlı; hızlıca | sıfat | This train is very fast. | Bu tren çok hızlı.
+slow | yavaş | sıfat | The old bus is slow. | Eski otobüs yavaş.
+## Seyahat
+travel | seyahat etmek | fiil | I love to travel. | Seyahat etmeyi çok severim.
+trip | gezi, yolculuk | isim | Have a nice trip! | İyi yolculuklar!
+holiday | tatil | isim | We need a holiday. | Bir tatile ihtiyacımız var.
+suitcase | bavul | isim | My suitcase is very heavy. | Bavulum çok ağır.
+tour | tur | isim | We take a bus tour of London. | Londra'da otobüs turuna katılıyoruz.
+arrive | varmak, gelmek | fiil | The bus arrives at ten. | Otobüs onda varıyor.
+stay | kalmak | fiil | We stay at a small hotel. | Küçük bir otelde kalıyoruz.
+harbour | liman | isim | The boats are in the harbour. | Tekneler limanda.
+photo | fotoğraf | isim | Can you take a photo of us? | Bizim fotoğrafımızı çeker misin?
+postcard | kartpostal | isim | Send me a postcard! | Bana bir kartpostal gönder!
+## Doğa
+nature | doğa | isim | I love walking in nature. | Doğada yürümeyi çok severim.
+lake | göl | isim | The lake is very cold. | Göl çok soğuk.
+forest | orman | isim | There are wolves in the forest. | Ormanda kurtlar var.
+beach | plaj, kumsal | isim | We go to the beach in August. | Ağustosta plaja gideriz.
+sand | kum | isim | The sand is hot today. | Kum bugün sıcak.
+rock | kaya | isim | Sit on that big rock. | Şu büyük kayaya otur.
+animal | hayvan | isim | What is your favourite animal? | En sevdiğin hayvan ne?
+wave | dalga | isim | The waves are big today. | Bugün dalgalar büyük.
+ice | buz | isim | The lake is covered in ice. | Göl buzla kaplı.
+world | dünya | isim | I want to see the world. | Dünyayı görmek istiyorum.
+## Hava durumu
+weather | hava (durumu) | isim | What's the weather like today? | Bugün hava nasıl?
+rain | yağmur; yağmur yağmak | isim | I love the sound of rain. | Yağmurun sesini severim.
+snow | kar; kar yağmak | isim | There is snow on the roads. | Yollarda kar var.
+wind | rüzgâr | isim | The wind is very strong. | Rüzgâr çok sert.
+sunny | güneşli | sıfat | It's sunny and warm. | Hava güneşli ve ılık.
+rainy | yağmurlu | sıfat | London is often rainy. | Londra'da hava sık sık yağmurludur.
+windy | rüzgârlı | sıfat | It's windy by the sea. | Deniz kenarında hava rüzgârlı.
+warm | ılık, sıcak | sıfat | Take a warm jacket. | Sıcak tutan bir ceket al.
+cool | serin | sıfat | The evenings are cool in autumn. | Sonbaharda akşamlar serindir.
+storm | fırtına | isim | A big storm is coming tonight. | Bu gece büyük bir fırtına geliyor.

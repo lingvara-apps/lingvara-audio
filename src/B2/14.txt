@@ -1,0 +1,100 @@
+# UNIT: Sanayi ve tarım | Üretim, madencilik, inşaat, çiftçilik
+## Üretim
+manufacturing | imalat | isim | Manufacturing still employs a large part of the workforce in the region. | İmalat bölgedeki iş gücünün hâlâ büyük bir kısmını istihdam ediyor.
+assembly line | montaj hattı | isim | The cars move slowly along the assembly line. | Arabalar montaj hattı boyunca yavaşça ilerliyor.
+mass production | seri üretim | isim | Mass production made cars affordable for ordinary families. | Seri üretim arabaları sıradan aileler için karşılanabilir hâle getirdi.
+output | üretim miktarı, çıktı | isim | The factory doubled its output after installing new machines. | Fabrika yeni makineler kurduktan sonra üretimini iki katına çıkardı.
+foundry | dökümhane | isim | The bells for the cathedral were cast in a local foundry. | Katedralin çanları yerel bir dökümhanede döküldü.
+assemble | monte etmek, birleştirmek | fiil | The bikes are assembled by hand in a small workshop. | Bisikletler küçük bir atölyede elle monte ediliyor.
+batch | parti, seri | isim | The first batch of phones will reach the shops next month. | Telefonların ilk partisi gelecek ay mağazalara ulaşacak.
+raw materials | hammadde | isim | The price of raw materials has risen sharply this year. | Hammadde fiyatları bu yıl keskin biçimde yükseldi.
+quality control | kalite kontrol | isim | Every product goes through strict quality control before shipping. | Her ürün sevkiyattan önce sıkı bir kalite kontrolünden geçer.
+capacity | kapasite | isim | The plant is working at full capacity to meet demand. | Tesis talebi karşılamak için tam kapasiteyle çalışıyor.
+## Fabrika ve işçiler
+night shift | gece vardiyası | isim | Ali works the night shift at the packaging factory. | Ali ambalaj fabrikasında gece vardiyasında çalışıyor.
+foreman | ustabaşı | isim | The foreman checked that everyone was wearing a helmet. | Ustabaşı herkesin baret taktığını kontrol etti.
+blue-collar | mavi yakalı | sıfat | The town has always been a blue-collar community. | Kasaba her zaman mavi yakalı bir topluluk olmuştur.
+labourer | vasıfsız işçi, işçi | isim | The farm hires extra labourers during the harvest. | Çiftlik hasat döneminde fazladan işçi tutuyor.
+trade union | sendika | isim | The trade union is negotiating a pay rise for the workers. | Sendika işçiler için maaş artışı müzakere ediyor.
+strike | grev | isim | The strike at the steelworks lasted for three weeks. | Çelik fabrikasındaki grev üç hafta sürdü.
+automation | otomasyon | isim | Automation has replaced many jobs on the factory floor. | Otomasyon fabrikadaki birçok işin yerini aldı.
+layoff | işten çıkarma | isim | The company announced two hundred layoffs after the plant closed. | Şirket fabrika kapandıktan sonra iki yüz kişinin işten çıkarıldığını duyurdu.
+protective clothing | koruyucu giysi | isim | Workers must wear protective clothing near the machines. | İşçiler makinelerin yakınında koruyucu giysi giymek zorundadır.
+apprentice | çırak | isim | Emre started as an apprentice at the factory when he was sixteen. | Emre fabrikaya on altı yaşında çırak olarak başladı.
+## Ağır sanayi ve enerji
+heavy industry | ağır sanayi | isim | The north of the country was once the centre of heavy industry. | Ülkenin kuzeyi bir zamanlar ağır sanayinin merkeziydi.
+steel | çelik | isim | Steel is produced from iron ore and coal. | Çelik demir cevheri ve kömürden üretilir.
+shipyard | tersane | isim | Huge tankers are built at the shipyard on the coast. | Kıyıdaki tersanede devasa tankerler inşa ediliyor.
+furnace | fırın, ocak (sanayi) | isim | The metal is melted in a furnace at very high temperatures. | Metal çok yüksek sıcaklıklarda bir fırında eritilir.
+refinery | rafineri | isim | Crude oil is turned into petrol at the refinery. | Ham petrol rafineride benzine dönüştürülür.
+oil rig | petrol platformu | isim | Lukas works on an oil rig in the North Sea for two weeks at a time. | Lukas Kuzey Denizi'ndeki bir petrol platformunda ikişer haftalık dönemlerle çalışıyor.
+pipeline | boru hattı | isim | A new gas pipeline will connect the two countries. | Yeni bir gaz boru hattı iki ülkeyi birbirine bağlayacak.
+smokestack | fabrika bacası | isim | Black smoke poured out of the factory smokestack all day. | Fabrika bacasından bütün gün kara duman yükseldi.
+industrial estate | sanayi sitesi | isim | Most of the warehouses are on the industrial estate outside town. | Depoların çoğu şehir dışındaki sanayi sitesinde.
+textile | tekstil, dokuma | isim | The textile industry was once the biggest employer in the city. | Tekstil sektörü bir zamanlar şehrin en büyük işvereniydi.
+## Madencilik
+mining | madencilik | isim | Mining has shaped the history of this valley for centuries. | Madencilik yüzyıllardır bu vadinin tarihini şekillendirdi.
+miner | madenci | isim | Her grandfather was a coal miner for forty years. | Büyükbabası kırk yıl boyunca kömür madencisiydi.
+quarry | taş ocağı | isim | Stone from the local quarry was used to build the old bridge. | Eski köprüyü inşa etmek için yerel taş ocağından çıkan taş kullanıldı.
+ore | cevher | isim | The ship carries iron ore from Australia to China. | Gemi Avustralya'dan Çin'e demir cevheri taşıyor.
+seam | damar (maden) | isim | Geologists discovered a thick seam of coal under the village. | Jeologlar köyün altında kalın bir kömür damarı keşfetti.
+extract | çıkarmak, elde etmek | fiil | It is becoming more expensive to extract oil from the seabed. | Deniz tabanından petrol çıkarmak giderek daha pahalı hâle geliyor.
+shaft | maden kuyusu, şaft | isim | The miners went down the shaft in a small metal cage. | Madenciler küçük bir metal kafesle maden kuyusundan aşağı indi.
+mineral | mineral, maden | isim | The country is rich in minerals such as copper and zinc. | Ülke bakır ve çinko gibi madenler bakımından zengindir.
+excavate | kazmak, kazı yapmak | fiil | Huge machines excavate the earth to reach the coal. | Devasa makineler kömüre ulaşmak için toprağı kazıyor.
+open-pit mine | açık ocak madeni | isim | From the air, the open-pit mine looks like a giant crater. | Havadan bakıldığında açık ocak madeni dev bir kratere benziyor.
+## İnşaat
+construction site | şantiye | isim | Hard hats must be worn at all times on the construction site. | Şantiyede her zaman baret takılmalıdır.
+contractor | yüklenici, müteahhit | isim | The contractor promised to finish the school by September. | Müteahhit okulu eylüle kadar bitirmeye söz verdi.
+scaffolding | iskele | isim | The front of the building is covered in scaffolding. | Binanın ön cephesi iskeleyle kaplı.
+crane | vinç | isim | A tall crane lifted the steel beams onto the roof. | Yüksek bir vinç çelik kirişleri çatıya kaldırdı.
+concrete | beton | isim | The workers poured concrete for the foundations this morning. | İşçiler bu sabah temeller için beton döktü.
+brick | tuğla | isim | The old houses in this street are made of red brick. | Bu sokaktaki eski evler kırmızı tuğladan yapılmış.
+bricklayer | duvarcı | isim | Diego worked as a bricklayer before he studied engineering. | Diego mühendislik okumadan önce duvarcı olarak çalıştı.
+demolish | yıkmak | fiil | They demolished the old cinema to build a hotel. | Bir otel inşa etmek için eski sinemayı yıktılar.
+carpenter | marangoz | isim | The carpenter fitted new wooden stairs in the house. | Marangoz eve yeni ahşap merdivenler taktı.
+blueprint | proje çizimi, plan | isim | The architect showed us the blueprint for the new library. | Mimar bize yeni kütüphanenin planını gösterdi.
+## Çiftçilik
+agriculture | tarım | isim | Agriculture accounts for a small share of the national economy. | Tarım ulusal ekonominin küçük bir payını oluşturur.
+arable | ekilebilir | sıfat | Only a third of the land in the country is arable. | Ülkedeki toprağın yalnızca üçte biri ekilebilir.
+crop | ürün, mahsul | isim | Wheat is the main crop grown in this part of the country. | Buğday ülkenin bu bölgesinde yetiştirilen başlıca üründür.
+harvest | hasat | isim | The whole family helps with the grape harvest in autumn. | Bütün aile sonbaharda üzüm hasadına yardım ediyor.
+plough | (tarla) sürmek | fiil | The farmer ploughs the fields before planting the seeds. | Çiftçi tohumları ekmeden önce tarlaları sürüyor.
+sow (sowed, sown) | ekmek (tohum) | fiil · düzensiz | We sow the carrots in early spring. | Havuçları ilkbaharın başında ekiyoruz.
+irrigation | sulama | isim | Without irrigation, nothing would grow in this dry valley. | Sulama olmadan bu kuru vadide hiçbir şey yetişmezdi.
+fertiliser | gübre | isim | Too much fertiliser can pollute rivers and lakes. | Fazla gübre nehirleri ve gölleri kirletebilir.
+pesticide | tarım ilacı, böcek ilacı | isim | Organic farmers do not use chemical pesticides. | Organik çiftçiler kimyasal tarım ilacı kullanmaz.
+crop rotation | ekim nöbeti | isim | Crop rotation keeps the soil healthy without chemicals. | Ekim nöbeti toprağı kimyasal kullanmadan sağlıklı tutar.
+## Hayvancılık
+livestock | çiftlik hayvanları, hayvancılık | isim | The farm keeps livestock as well as growing vegetables. | Çiftlik sebze yetiştirmenin yanı sıra hayvan da besliyor.
+cattle | sığır | isim | Cattle graze on the hills all summer. | Sığırlar bütün yaz tepelerde otluyor.
+poultry | kümes hayvanları | isim | The poultry farm produces thousands of eggs a day. | Kümes hayvanı çiftliği günde binlerce yumurta üretiyor.
+dairy | süt (ürünleri) ile ilgili; mandıra | sıfat | Camille runs a small dairy farm in Normandy. | Camille Normandiya'da küçük bir süt çiftliği işletiyor.
+graze | otlamak | fiil | The sheep graze freely in the mountain meadows. | Koyunlar dağ çayırlarında serbestçe otluyor.
+herd | (büyükbaş) sürü | isim | A herd of cows blocked the road for ten minutes. | Bir inek sürüsü yolu on dakika boyunca kapattı.
+flock | koyun sürüsü, kuş sürüsü | isim | The shepherd brought his flock down from the hills. | Çoban sürüsünü tepelerden aşağı indirdi.
+pasture | mera, otlak | isim | The horses were moved to a fresh pasture by the river. | Atlar nehir kenarındaki taze bir meraya götürüldü.
+barn | ahır, ambar | isim | The hay is stored in the barn for the winter. | Saman kış için ambarda saklanıyor.
+breed | yetiştirmek (hayvan) | fiil | His family has bred horses for three generations. | Ailesi üç kuşaktır at yetiştiriyor.
+## Tarım işletmesi ve kırsal yaşam
+farmhand | tarım işçisi, rençper | isim | Young farmhands are hard to find during the busy season. | Yoğun sezonda genç tarım işçisi bulmak zordur.
+smallholder | küçük çiftçi | isim | Most coffee is grown by smallholders on tiny plots of land. | Kahvenin çoğu küçük çiftçiler tarafından minicik arazilerde yetiştirilir.
+allotment | hobi bahçesi, kiralık bostan | isim | Sofia grows her own vegetables on an allotment near the railway. | Sofia demiryolunun yanındaki kiralık bostanda kendi sebzelerini yetiştiriyor.
+greenhouse | sera | isim | Tomatoes grow all year round in the heated greenhouse. | Domatesler ısıtmalı serada bütün yıl boyunca yetişiyor.
+orchard | meyve bahçesi | isim | There is an apple orchard behind my grandparents' house. | Büyükannemle büyükbabamın evinin arkasında bir elma bahçesi var.
+vineyard | bağ | isim | The vineyard produces some of the best wine in the region. | Bağ bölgenin en iyi şaraplarından bazılarını üretiyor.
+tractor | traktör | isim | The old tractor broke down in the middle of the field. | Eski traktör tarlanın ortasında bozuldu.
+combine harvester | biçerdöver | isim | A combine harvester can cut and clean wheat at the same time. | Bir biçerdöver buğdayı aynı anda biçip temizleyebilir.
+cultivate | ekip biçmek, yetiştirmek | fiil | The monks cultivated herbs in the monastery garden. | Keşişler manastır bahçesinde şifalı otlar yetiştirdi.
+subsistence farming | geçimlik tarım | isim | Subsistence farming means growing only enough food for your family. | Geçimlik tarım yalnızca ailene yetecek kadar yiyecek yetiştirmek demektir.
+## Tedarik ve ticaret
+cargo | kargo, yük | isim | The ship was carrying a cargo of grain to Egypt. | Gemi Mısır'a tahıl yükü taşıyordu.
+forklift | forklift | isim | Only trained staff are allowed to drive the forklift. | Forklifti yalnızca eğitimli personel kullanabilir.
+wholesale | toptan | sıfat | Restaurants buy their vegetables at wholesale prices. | Restoranlar sebzelerini toptan fiyatlarla alıyor.
+middleman | aracı, komisyoncu | isim | Farmers earn more when they sell directly without a middleman. | Çiftçiler aracı olmadan doğrudan sattıklarında daha çok kazanıyor.
+shipment | sevkiyat | isim | The next shipment of spare parts will arrive on Monday. | Bir sonraki yedek parça sevkiyatı pazartesi gelecek.
+glut | aşırı arz, bolluk | isim | A glut of milk has pushed prices down for dairy farmers. | Süt bolluğu süt üreticileri için fiyatları aşağı çekti.
+distributor | dağıtımcı, distribütör | isim | The distributor delivers our products to shops all over the country. | Dağıtımcı ürünlerimizi ülkenin her yerindeki mağazalara ulaştırıyor.
+logistics | lojistik | isim | Omar works in logistics and plans delivery routes for trucks. | Omar lojistikte çalışıyor ve kamyonlar için teslimat rotaları planlıyor.
+freight | navlun, yük taşımacılığı | isim | Most freight in Europe is still transported by road. | Avrupa'da yük taşımacılığının çoğu hâlâ karayoluyla yapılıyor.
+stockpile | stok, yığın | isim | The government keeps a stockpile of grain for emergencies. | Hükümet acil durumlar için tahıl stoku tutuyor.

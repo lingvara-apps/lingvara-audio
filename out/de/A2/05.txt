@@ -1,0 +1,111 @@
+# UNIT: Natur und Tiere | Tiere, Pflanzen, Wetter, Umwelt
+## Nutztiere
+rooster | Hahn | Der Hahn weckt uns um fünf.
+goat | Ziege | Die Ziege hat meinen Hut gefressen!
+pony | Pony | Die Kinder sind auf dem Bauernhof auf einem Pony geritten.
+hen | Henne, Huhn | Unsere Hühner legen jeden Morgen Eier.
+duck | Ente | Die Kinder füttern die Enten.
+donkey | Esel | Wir sind am Strand auf einem Esel geritten.
+lamb | Lamm | Lämmer werden im Frühling geboren.
+calf (calves) | Kalb | Das Kalb bleibt dicht bei seiner Mutter.
+goose (geese) | Gans | Die Gänse sind sehr laut.
+bull | Stier, Bulle | Geh nicht auf die Weide, auf der der Stier steht.
+## Wilde Tiere
+lion | Löwe | Der Löwe schläft unter einem Baum.
+tiger | Tiger | Tiger sind gute Schwimmer.
+elephant | Elefant | Elefanten vergessen nie.
+bear | Bär | In diesem Wald gibt es Bären.
+wolf (wolves) | Wolf | Nachts haben wir Wölfe gehört.
+fox | Fuchs | Ein Fuchs ist über die Straße gelaufen.
+monkey | Affe | Der Affe hat meine Banane geklaut!
+deer (deer) | Hirsch, Reh | Wir haben im Park zwei Rehe gesehen.
+giraffe | Giraffe | Giraffen haben sehr lange Hälse.
+squirrel | Eichhörnchen | Ein Eichhörnchen versteckt Nüsse.
+## Kleine Tiere und Meerestiere
+insect | Insekt | Im Sommer gibt es viele Insekten.
+bee | Biene | Eine Biene hat mich in den Arm gestochen.
+butterfly | Schmetterling | Was für ein schöner Schmetterling!
+spider | Spinne | Emre hat Angst vor Spinnen.
+ant | Ameise | Ameisen sind sehr stark.
+mosquito | Stechmücke, Mücke | Die Mücken haben mich wach gehalten.
+snake | Schlange | Ist die Schlange da gefährlich?
+frog | Frosch | Frösche leben in der Nähe von Wasser.
+whale | Wal | Vom Boot aus haben wir einen Wal gesehen.
+dolphin | Delfin | Delfine sind sehr kluge Tiere.
+## Die Welt der Tiere
+wing | Flügel | Der Vogel hat sich am Flügel verletzt.
+tail | Schwanz | Der Hund wedelt mit dem Schwanz.
+fur | Fell, Pelz | Die Katze hat weiches weißes Fell.
+feather | Feder | Ich habe im Garten eine blaue Feder gefunden.
+nest | Nest | In dem Baum da ist ein Nest.
+wild | wild | Wilde Tiere sollten in der Natur bleiben.
+pet | Haustier | Hast du Haustiere?
+feed (fed, fed) | füttern | Kannst du morgen die Katze füttern?
+bark | bellen | Der Hund von nebenan bellt den ganzen Tag.
+hunt | jagen | Eulen jagen nachts.
+## Pflanzen
+sunflower | Sonnenblume | Sonnenblumen drehen sich immer zur Sonne.
+grass | Gras, Rasen | Bitte den Rasen nicht betreten.
+leaf (leaves) | Blatt | Im Herbst werden die Blätter rot.
+root | Wurzel | Dieser Baum hat sehr tiefe Wurzeln.
+seed | Samen | Wir haben die Samen im April gesät.
+branch | Ast, Zweig | Ein Vogel sitzt auf dem Ast.
+bush | Busch, Strauch | Der Ball liegt unter dem Busch.
+oak | Eiche | Die Eiche da ist dreihundert Jahre alt.
+rose | Rose | Englische Gärten sind berühmt für ihre Rosen.
+water the plants | die Pflanzen gießen | Vergiss nicht, die Pflanzen zu gießen.
+## Orte in der Natur
+hill | Hügel | Wir sind auf den Hügel gestiegen.
+valley | Tal | Das Dorf liegt in einem grünen Tal.
+waterfall | Wasserfall | Der Wasserfall ist fünfzig Meter hoch.
+cave | Höhle | In der Höhle ist es dunkel und kalt.
+desert | Wüste | In der Wüste regnet es selten.
+field | Feld; Wiese, Weide | Die Kühe fressen Gras auf der Weide.
+coast | Küste | Wir sind die Küste entlanggefahren.
+island | Insel | Irland ist eine grüne Insel.
+stream | Bach | Die Kinder haben im Bach gespielt.
+cliff | Klippe, Felswand | Die Klippen von Dover sind weiß.
+## Das Wetter
+forecast | Wettervorhersage | Laut Wettervorhersage wird es regnen.
+cloudy | bewölkt | Heute ist es bewölkt, aber warm.
+foggy | neblig | Heute Morgen war es in London neblig.
+stormy | stürmisch | Es war eine dunkle, stürmische Nacht.
+thunder | Donner | Der Donner hat das Baby geweckt.
+lightning | Blitz | Der Blitz hat in den alten Baum eingeschlagen.
+fog | Nebel | Der Nebel war so dicht, dass wir die Straße nicht sehen konnten.
+degree | Grad | Heute sind es dreißig Grad!
+humid | schwül, feucht (Luft) | Der Sommer in Florida ist sehr schwül.
+freezing | eiskalt | Draußen ist es eiskalt!
+## Klima und Jahreszeiten
+climate | Klima | Großbritannien hat ein mildes Klima.
+heatwave | Hitzewelle | Letzten Juli gab es in Europa eine Hitzewelle.
+drought | Dürre, Trockenheit | Die Dürre hat die Ernte vernichtet.
+flood | Überschwemmung, Hochwasser | Das Hochwasser hat viele Häuser beschädigt.
+frost | Frost, Raureif | Heute Morgen war Raureif auf dem Auto.
+rainbow | Regenbogen | Schau, ein Regenbogen über den Hügeln!
+breeze | Brise, leichter Wind | Vom Meer kam eine kühle Brise.
+mild | mild | Der Winter war dieses Jahr ziemlich mild.
+damp | feucht, nasskalt | Das Wetter ist grau und nasskalt.
+hail | Hagel | Der Hagel hat unsere Fenster zerschlagen.
+## Umwelt
+environment | Umwelt | Wir müssen die Umwelt schützen.
+pollution | Verschmutzung | Luftverschmutzung ist in Städten ein großes Problem.
+pollute | verschmutzen | Fabriken verschmutzen den Fluss.
+recycle | recyceln, wiederverwerten | Wir recyceln Glas und Papier.
+rubbish | Müll | Bring bitte den Müll raus.
+waste | Abfall; Verschwendung | Wir produzieren zu viel Plastikabfall.
+protect | schützen | Dieses Gesetz schützt Wildvögel.
+global warming | Erderwärmung, globale Erwärmung | Durch die Erderwärmung schmilzt das Eis.
+endangered | vom Aussterben bedroht | Pandas sind eine vom Aussterben bedrohte Art.
+litter | Müll auf den Boden werfen | Bitte wirf im Park keinen Müll auf den Boden.
+## Zeit in der Natur
+countryside | Land, ländliche Gegend | Ich liebe Spaziergänge auf dem Land in England.
+path | Pfad, Weg | Folge dem Weg zum See.
+picnic | Picknick | Lass uns ein Picknick am Fluss machen.
+sunrise | Sonnenaufgang | Wir sind früh aufgestanden, um den Sonnenaufgang zu sehen.
+sunset | Sonnenuntergang | Der Sonnenuntergang war fantastisch.
+campfire | Lagerfeuer | Wir haben am Lagerfeuer Lieder gesungen.
+birdwatching | Vogelbeobachtung | Mein Onkel liebt Vogelbeobachtung.
+wildlife | Tierwelt, wilde Tiere | Die Insel hat eine reiche Tierwelt.
+national park | Nationalpark | Yellowstone ist ein berühmter Nationalpark.
+scenery | Landschaft, Landschaftsbild | Die Landschaft in Schottland ist wunderschön.

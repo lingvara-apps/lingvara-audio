@@ -1,0 +1,111 @@
+# UNIT: Sağlık ve psikoloji | Hastalık, tedavi, ruh sağlığı
+## Hastalıklar ve durumlar
+condition | sağlık sorunu, kronik hastalık | isim | He has a heart condition, so he avoids heavy exercise. | Kalp rahatsızlığı var, bu yüzden ağır egzersizden kaçınıyor.
+heart disease | kalp hastalığı | isim | Smoking greatly increases the risk of heart disease. | Sigara içmek kalp hastalığı riskini büyük ölçüde artırır.
+high blood pressure | yüksek tansiyon | isim | Too much salt can lead to high blood pressure. | Fazla tuz yüksek tansiyona yol açabilir.
+migraine | migren | isim | Sofia stayed in a dark room because of her migraine. | Sofia migreni yüzünden karanlık bir odada kaldı.
+long-term | uzun süreli | sıfat | Ali has long-term back problems after years of heavy lifting. | Ali'nin yıllarca ağır yük kaldırmaktan dolayı uzun süreli sırt sorunları var.
+run down | halsiz, bitkin, yorgun düşmüş | sıfat | When I'm run down, I catch every cold that's going around. | Halsiz olduğumda ortalıkta dolaşan her soğuk algınlığını kapıyorum.
+hay fever | saman nezlesi, polen alerjisi | isim | Every May my hay fever makes my eyes red and itchy. | Her mayıs saman nezlem gözlerimi kızartıp kaşındırıyor.
+rash | döküntü, kızarıklık | isim | The new soap gave the baby a red rash on her arms. | Yeni sabun bebeğin kollarında kırmızı bir döküntüye yol açtı.
+ailment | hafif rahatsızlık, ufak hastalık | isim | My grandmother treats every small ailment with herbal tea. | Büyükannem her küçük rahatsızlığı bitki çayıyla tedavi eder.
+suffer from | -den muzdarip olmak, çekmek | fiil | Many people suffer from headaches when they don't drink enough water. | Birçok insan yeterince su içmediğinde baş ağrısı çeker.
+## Muayene ve teşhis
+examination | muayene | isim | The doctor did a quick examination and found nothing serious. | Doktor kısa bir muayene yaptı ve ciddi bir şey bulmadı.
+health insurance | sağlık sigortası | isim | Check that your health insurance covers treatment abroad. | Sağlık sigortanın yurt dışındaki tedaviyi karşıladığını kontrol et.
+specialist | uzman doktor | isim | My GP sent me to a specialist for my headaches. | Aile hekimim baş ağrılarım için beni bir uzmana gönderdi.
+GP | aile hekimi, pratisyen hekim | isim | You need to register with a GP when you move to Britain. | İngiltere'ye taşındığında bir aile hekimine kaydolman gerekir.
+test results | test sonuçları | isim (çoğul) | Your test results will be ready on Friday morning. | Test sonuçların cuma sabahı hazır olacak.
+sick leave | hastalık izni, raporlu izin | isim | The doctor gave Emre a week of sick leave. | Doktor Emre'ye bir hafta hastalık izni verdi.
+thermometer | termometre, derece | isim | The nurse put a thermometer under my arm. | Hemşire koltuğumun altına bir termometre koydu.
+medical history | tıbbi geçmiş, hastalık öyküsü | isim | The new doctor asked about my family's medical history. | Yeni doktor ailemin hastalık öyküsünü sordu.
+refer | sevk etmek, yönlendirmek | fiil | The clinic referred Omar to a hospital in the city centre. | Klinik Omar'ı şehir merkezindeki bir hastaneye sevk etti.
+check | kontrol etmek | fiil | Let me check your blood pressure before we continue. | Devam etmeden önce tansiyonunu kontrol edeyim.
+## Tedavi
+cure | iyileştirmek, şifa vermek | fiil | There is still no medicine that can cure the common cold. | Soğuk algınlığını iyileştirebilecek bir ilaç hâlâ yok.
+therapy | terapi, tedavi | isim | After the accident, she needed months of physical therapy. | Kazadan sonra aylarca fizik tedaviye ihtiyacı oldu.
+medication | ilaç, ilaç tedavisi | isim | Are you taking any medication at the moment? | Şu anda herhangi bir ilaç kullanıyor musun?
+eye drops | göz damlası | isim (çoğul) | Use these eye drops three times a day for a week. | Bu göz damlasını bir hafta boyunca günde üç kez kullan.
+nasal spray | burun spreyi | isim | Don't use this nasal spray for more than five days. | Bu burun spreyini beş günden fazla kullanma.
+vaccine | aşı | isim | The vaccine protects children against several dangerous diseases. | Aşı çocukları birkaç tehlikeli hastalığa karşı korur.
+heal | iyileşmek, kapanmak (yara) | fiil | The cut on his hand healed in about a week. | Elindeki kesik yaklaşık bir haftada iyileşti.
+treat | tedavi etmek | fiil | Doctors treated the burn with a special cream. | Doktorlar yanığı özel bir kremle tedavi etti.
+remedy | çare, deva | isim | Honey and lemon is a popular home remedy for a sore throat. | Bal ve limon, boğaz ağrısı için sevilen bir doğal çaredir.
+herbal medicine | bitkisel ilaç | isim | Some people prefer herbal medicine to ordinary pills. | Bazı insanlar bitkisel ilacı normal haplara tercih eder.
+## Hastane süreci
+hospitalise | hastaneye yatırmak | fiil | He was hospitalised for a week after the car accident. | Araba kazasından sonra bir haftalığına hastaneye yatırıldı.
+on the mend | iyileşme yolunda | deyim | Grandpa was very ill, but now he is on the mend. | Dedem çok hastaydı ama şimdi iyileşme yolunda.
+under observation | gözetim altında | ifade | After the fall, the boy was kept under observation overnight. | Düşmeden sonra çocuk gece boyunca gözetim altında tutuldu.
+A&E | acil servis (İngiltere) | isim | We waited four hours in A&E on Saturday night. | Cumartesi gecesi acil serviste dört saat bekledik.
+hospital gown | hastane önlüğü | isim | The nurse asked me to change into a hospital gown. | Hemşire hastane önlüğü giymemi istedi.
+maternity ward | doğum servisi | isim | Their daughter was born in the maternity ward at midnight. | Kızları gece yarısı doğum servisinde dünyaya geldi.
+bed rest | yatak istirahati | isim | The doctor ordered two weeks of complete bed rest. | Doktor iki hafta tam yatak istirahati verdi.
+recovery | iyileşme | isim | Doctors say she is making a good recovery. | Doktorlar onun iyi bir iyileşme süreci geçirdiğini söylüyor.
+medical certificate | sağlık raporu | isim | You need a medical certificate if you are off work for more than a week. | Bir haftadan fazla işe gitmezsen sağlık raporu gerekir.
+NHS | İngiltere'nin ulusal sağlık hizmeti | isim | In the UK, most hospital treatment is free on the NHS. | Birleşik Krallık'ta çoğu hastane tedavisi ulusal sağlık hizmetinde ücretsizdir.
+## Ruh sağlığı
+mental illness | ruhsal hastalık | isim | Mental illness can affect anyone, at any age. | Ruhsal hastalık herkesi, her yaşta etkileyebilir.
+depressed | depresif, çökkün | sıfat | After losing his job, Lukas felt depressed for months. | İşini kaybettikten sonra Lukas aylarca çökkün hissetti.
+low | moralsiz, keyifsiz | sıfat | I have been feeling a bit low since the holidays ended. | Tatil bittiğinden beri biraz moralsiz hissediyorum.
+stressed out | stresli, gergin | sıfat | Emre was stressed out about his exams all week. | Emre bütün hafta sınavları yüzünden stresliydi.
+panic | panik | isim | She felt a wave of panic in the crowded underground station. | Kalabalık metro istasyonunda bir panik dalgası hissetti.
+worried sick | meraktan ölmüş, çok endişeli | deyim | Where were you? We were worried sick about you! | Neredeydin? Senin için meraktan öldük!
+loneliness | yalnızlık | isim | Loneliness is a serious problem for many elderly people. | Yalnızlık birçok yaşlı insan için ciddi bir sorundur.
+confidence | özgüven | isim | Kind words from teachers can improve a child's confidence. | Öğretmenlerden gelen nazik sözler bir çocuğun özgüvenini artırabilir.
+psychiatric | psikiyatrik | sıfat | She spent two weeks in a psychiatric clinic last year. | Geçen yıl iki haftayı bir psikiyatri kliniğinde geçirdi.
+nervousness | gerginlik, tedirginlik | isim | He tried to hide his nervousness before the interview. | Mülakattan önce gerginliğini gizlemeye çalıştı.
+## Psikolojik destek
+psychologist | psikolog | isim | Maria has been seeing a psychologist for a few months. | Maria birkaç aydır bir psikoloğa gidiyor.
+group therapy | grup terapisi | isim | In group therapy, people share their experiences with others. | Grup terapisinde insanlar deneyimlerini başkalarıyla paylaşır.
+emotional support | duygusal destek | isim | Friends and family can give important emotional support. | Arkadaşlar ve aile önemli duygusal destek sağlayabilir.
+treatment plan | tedavi planı | isim | The therapist and I agreed on a treatment plan together. | Terapist ve ben birlikte bir tedavi planında anlaştık.
+support group | destek grubu | isim | Joining a support group helped him feel less alone. | Bir destek grubuna katılmak kendini daha az yalnız hissetmesine yardımcı oldu.
+handle | başa çıkmak, üstesinden gelmek | fiil | Everyone has different ways to handle stress. | Herkesin stresle başa çıkmanın farklı yolları vardır.
+self-care | kendine özen gösterme | isim | Self-care means making time for rest and things you enjoy. | Kendine özen göstermek, dinlenmeye ve sevdiğin şeylere zaman ayırmak demektir.
+talk through | enine boyuna konuşmak | phrasal verb | It helps to talk through your problems with a friend. | Sorunlarını bir arkadaşla enine boyuna konuşmak işe yarar.
+confidential | gizli | sıfat | Everything you say in therapy is completely confidential. | Terapide söylediğin her şey tamamen gizlidir.
+helpline | yardım hattı | isim | You can call the helpline at any time, day or night. | Yardım hattını gece gündüz istediğin zaman arayabilirsin.
+## Zihin ve davranış
+positive attitude | olumlu tutum | isim | Since he started therapy, he has a much more positive attitude. | Terapiye başladığından beri çok daha olumlu bir tutumu var.
+tendency | eğilim | isim | Maria has a tendency to worry about small things. | Maria'nın küçük şeyler için endişelenme eğilimi var.
+obsession | takıntı | isim | His obsession with cleanliness makes him wash his hands constantly. | Temizlik takıntısı yüzünden sürekli elini yıkıyor.
+memory | hafıza, bellek; anı | isim | Getting enough sleep is important for a good memory. | Yeterince uyumak iyi bir hafıza için önemlidir.
+focus | odaklanmak | fiil | I can't focus when the neighbours are playing loud music. | Komşular yüksek sesle müzik çalarken odaklanamıyorum.
+dependence | bağımlılık | isim | Some painkillers can lead to dependence if you take them for too long. | Bazı ağrı kesiciler çok uzun süre alınırsa bağımlılığa yol açabilir.
+hooked | (bir şeye) kapılmış, bağımlı | sıfat | He admits he is hooked on coffee and video games. | Kahveye ve video oyunlarına bağımlı olduğunu kabul ediyor.
+keep it together | kendini toparlamak, dağılmamak | deyim | She tried hard to keep it together during the difficult meeting. | Zor toplantı boyunca kendini toparlamak için çok çabaladı.
+in shock | şokta, şok hâlinde | ifade | The survivors of the crash were still in shock the next day. | Kazadan kurtulanlar ertesi gün hâlâ şok hâlindeydi.
+scatterbrained | dalgın, aklı bir karış havada | sıfat | Stress and lack of sleep can make you scatterbrained. | Stres ve uykusuzluk insanı dalgın yapabilir.
+## Uyku ve enerji
+sleepless | uykusuz | sıfat | Stress at work gave her many sleepless nights. | İşteki stres ona birçok uykusuz gece yaşattı.
+exhausted | bitkin, çok yorgun | sıfat | After the night shift, Diego was completely exhausted. | Gece vardiyasından sonra Diego tamamen bitkindi.
+fatigue | halsizlik, yorgunluk | isim | Fatigue is one of the most common symptoms of the illness. | Halsizlik hastalığın en yaygın belirtilerinden biridir.
+nap | şekerleme, kısa uyku | isim | My grandfather takes a short nap after lunch every day. | Büyükbabam her gün öğle yemeğinden sonra kısa bir şekerleme yapar.
+nightmare | kâbus | isim | The child woke up crying after a terrible nightmare. | Çocuk korkunç bir kâbustan sonra ağlayarak uyandı.
+snore | horlamak | fiil | I can't sleep because my brother snores so loudly. | Kardeşim çok yüksek sesle horladığı için uyuyamıyorum.
+drowsy | uyuşuk, uykulu | sıfat | This medicine may make you feel drowsy, so don't drive. | Bu ilaç seni uykulu yapabilir, bu yüzden araba kullanma.
+lie in (lay, lain) | sabah geç saate kadar yatmak | phrasal verb | On Sundays I like to lie in until ten. | Pazar günleri saat ona kadar yatakta kalmayı severim.
+energetic | enerjik, dinç | sıfat | I feel much more energetic since I started cycling to work. | İşe bisikletle gitmeye başladığımdan beri kendimi çok daha dinç hissediyorum.
+body clock | biyolojik saat | isim | Long flights can completely confuse your body clock. | Uzun uçuşlar biyolojik saatini tamamen şaşırtabilir.
+## Sağlıklı alışkanlıklar
+mindfulness | bilinçli farkındalık | isim | Mindfulness teaches you to pay attention to the present moment. | Bilinçli farkındalık sana şimdiki ana dikkat etmeyi öğretir.
+lifestyle | yaşam tarzı | isim | Doctors recommend a more active lifestyle for office workers. | Doktorlar ofis çalışanlarına daha aktif bir yaşam tarzı öneriyor.
+nutrition | beslenme | isim | Good nutrition is especially important for growing children. | İyi beslenme özellikle büyüyen çocuklar için önemlidir.
+meditation | meditasyon | isim | Ten minutes of meditation each morning helps me feel calm. | Her sabah on dakikalık meditasyon sakin hissetmeme yardımcı oluyor.
+relaxation | rahatlama, gevşeme | isim | Breathing exercises are a simple form of relaxation. | Nefes egzersizleri basit bir rahatlama yöntemidir.
+cut down on | azaltmak | phrasal verb | My doctor told me to cut down on sugar and salt. | Doktorum şekeri ve tuzu azaltmamı söyledi.
+give up smoking | sigarayı bırakmak | ifade | Omar finally gave up smoking after twenty years. | Omar yirmi yılın ardından sonunda sigarayı bıraktı.
+prevent | önlemek | fiil | Washing your hands often helps prevent infections. | Ellerini sık sık yıkamak enfeksiyonları önlemeye yardımcı olur.
+prevention | önleme, korunma | isim | Prevention is always cheaper than treatment. | Korunma her zaman tedaviden daha ucuzdur.
+hydrated | susuz kalmamış, sıvı dengesi yerinde | sıfat | Drink plenty of water to stay hydrated in hot weather. | Sıcak havada susuz kalmamak için bol su iç.
+## Duygusal sağlık
+resilience | psikolojik dayanıklılık | isim | Difficult experiences can sometimes build resilience in young people. | Zor deneyimler bazen gençlerde psikolojik dayanıklılık oluşturabilir.
+grief | yas, derin keder | isim | Everyone experiences grief differently after losing someone. | Herkes birini kaybettikten sonra yası farklı yaşar.
+frustration | hüsran, öfkeli çaresizlik | isim | He shouted in frustration when the computer crashed again. | Bilgisayar yine çökünce çaresizlik içinde öfkeyle bağırdı.
+edgy | gergin, diken üstünde | sıfat | Everyone in the office was edgy before the announcement. | Duyurudan önce ofisteki herkes diken üstündeydi.
+loosen up | gevşemek, rahatlamak | phrasal verb | Loosen up, it's only a small mistake. | Rahatla, sadece küçük bir hata.
+under pressure | baskı altında | ifade | Students are under a lot of pressure during exam season. | Öğrenciler sınav döneminde büyük baskı altındadır.
+mood swings | ani ruh hâli değişimleri | isim (çoğul) | Lack of sleep can cause mood swings and irritability. | Uykusuzluk ani ruh hâli değişimlerine ve sinirliliğe yol açabilir.
+grumpy | huysuz, aksi | sıfat | I get grumpy when I haven't eaten for hours. | Saatlerce yemek yemediğimde huysuz olurum.
+emotional | duygusal | sıfat | The film was so emotional that half the audience cried. | Film o kadar duygusaldı ki seyircilerin yarısı ağladı.
+bottle up | (duygularını) içine atmak | phrasal verb | It's not healthy to bottle up your feelings for years. | Duygularını yıllarca içine atmak sağlıklı değildir.

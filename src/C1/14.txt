@@ -1,0 +1,111 @@
+# UNIT: Eğitim ve pedagoji | Öğretim yöntemleri, okul yönetimi, değerlendirme
+## Öğretim yöntemleri
+pedagogy | pedagoji; eğitim bilimi | isim | Her approach to pedagogy puts curiosity before memorisation. | Pedagojik yaklaşımı merakı ezberin önüne koyuyor.
+didactic | öğretici; ders verir gibi | sıfat | The old textbooks were dry and heavily didactic in tone. | Eski ders kitapları kuru ve fazlasıyla ders verir gibi bir üsluba sahipti.
+retrieval practice | geri çağırma alıştırması | isim | Retrieval practice, such as answering questions from memory, beats simply rereading notes. | Soruları hafızadan yanıtlamak gibi geri çağırma alıştırmaları, notları yeniden okumaktan daha etkilidir.
+spaced repetition | aralıklı tekrar | isim | Spaced repetition apps show each word again just before you are likely to forget it. | Aralıklı tekrar uygulamaları her kelimeyi unutmana ramak kalmışken yeniden gösterir.
+flipped classroom | ters yüz sınıf | isim | In a flipped classroom, students watch the lecture at home and solve problems in class. | Ters yüz sınıfta öğrenciler dersi evde izler, problemleri sınıfta çözer.
+inquiry-based learning | sorgulamaya dayalı öğrenme | isim | Inquiry-based learning encourages pupils to design their own small experiments. | Sorgulamaya dayalı öğrenme öğrencileri kendi küçük deneylerini tasarlamaya teşvik eder.
+differentiation | farklılaştırılmış öğretim | isim | Good differentiation means the fastest learners are challenged and nobody is left behind. | İyi bir farklılaştırılmış öğretim, en hızlı öğrenenlerin de zorlanması ve kimsenin geride kalmaması demektir.
+experiential learning | yaşantısal öğrenme | isim | The field trip was a perfect example of experiential learning. | Gezi yaşantısal öğrenmenin mükemmel bir örneğiydi.
+peer tutoring | akran öğretimi | isim | Peer tutoring helped older students consolidate what they already knew. | Akran öğretimi büyük öğrencilerin zaten bildiklerini pekiştirmesine yardım etti.
+interleaving | karışık çalışma | isim | Interleaving different types of problems feels harder but leads to deeper learning. | Farklı türde problemleri karıştırarak çalışmak daha zor gelir ama daha derin öğrenmeye yol açar.
+## Öğrenme kuramları
+constructivism | yapılandırmacılık | isim | Constructivism holds that learners build knowledge through their own experience. | Yapılandırmacılık öğrenenlerin bilgiyi kendi deneyimleriyle inşa ettiğini savunur.
+behaviourism | davranışçılık | isim | Reward charts on the classroom wall are a legacy of behaviourism. | Sınıf duvarındaki ödül çizelgeleri davranışçılığın bir mirasıdır.
+metacognition | üstbiliş | isim | Metacognition, or thinking about your own thinking, can be taught explicitly. | Üstbiliş, yani kendi düşünmen üzerine düşünmek, açıkça öğretilebilir.
+cognitive load | bilişsel yük | isim | Too many slides at once increase the cognitive load on the audience. | Aynı anda çok fazla slayt dinleyicilerin bilişsel yükünü artırır.
+schema (schemata) | şema (zihinsel) | isim | New information sticks better when it fits into an existing schema. | Yeni bilgi mevcut bir zihinsel şemaya oturduğunda daha iyi kalıcı olur.
+retention | akılda tutma; kalıcılık | isim | Short daily reviews dramatically improve long-term retention of vocabulary. | Kısa günlük tekrarlar kelimelerin uzun vadeli kalıcılığını büyük ölçüde artırır.
+positive reinforcement | olumlu pekiştirme | isim | A quick word of praise is a simple form of positive reinforcement. | Kısa bir övgü sözü olumlu pekiştirmenin basit bir biçimidir.
+aptitude | yatkınlık; yetenek | isim | Ali showed an early aptitude for languages and music. | Ali dillere ve müziğe erken yaşta yatkınlık gösterdi.
+rote | ezber; mekanik tekrar | isim | She learned the dates by rote but could not explain their significance. | Tarihleri ezberledi ama önemlerini açıklayamadı.
+zone of proximal development | yakınsal gelişim alanı | ifade | Tasks should sit within the child's zone of proximal development, neither too easy nor too hard. | Görevler çocuğun yakınsal gelişim alanında olmalı, ne çok kolay ne çok zor.
+## Müfredat ve planlama
+learning outcome | öğrenme çıktısı | isim | Each unit begins with three clear learning outcomes. | Her ünite üç net öğrenme çıktısıyla başlar.
+core subject | temel ders | isim | Maths and the national language are core subjects in every year group. | Matematik ve ulusal dil her sınıf düzeyinde temel derslerdir.
+optional module | seçmeli modül | isim | Lukas chose astronomy as his optional module in the final year. | Lukas son yılında seçmeli modül olarak astronomiyi seçti.
+extracurricular | ders dışı | sıfat | The school offers a wide range of extracurricular activities, from chess to rowing. | Okul satrançtan küreğe kadar geniş bir ders dışı etkinlik yelpazesi sunuyor.
+cross-curricular | dersler arası | sıfat | The project on rivers was a cross-curricular effort involving science and geography. | Nehirler projesi fen ve coğrafyayı içeren dersler arası bir çalışmaydı.
+scheme of work | yıllık plan | isim | The department revised its scheme of work after the new guidelines came out. | Bölüm yeni yönergeler çıktıktan sonra yıllık planını gözden geçirdi.
+baseline | başlangıç düzeyi; referans | isim | A short test in September gives teachers a baseline for each child. | Eylülde yapılan kısa bir test öğretmenlere her çocuk için bir başlangıç düzeyi verir.
+key stage | eğitim kademesi (İngiltere) | isim | Pupils sit national tests at the end of each key stage. | Öğrenciler her eğitim kademesinin sonunda ulusal sınavlara girer.
+prerequisite | ön koşul | isim | Basic statistics is a prerequisite for the advanced research course. | Temel istatistik ileri araştırma dersi için bir ön koşuldur.
+pacing | ilerleme hızı | isim | The pacing of the course was too fast for most of the group. | Dersin ilerleme hızı grubun çoğu için fazla yüksekti.
+## Değerlendirme
+formative assessment | biçimlendirici değerlendirme | isim | Quick quizzes at the end of class are a form of formative assessment. | Ders sonundaki kısa sınavlar bir tür biçimlendirici değerlendirmedir.
+summative assessment | düzey belirleyici değerlendirme | isim | The final exam is the main summative assessment for the module. | Final sınavı modülün ana düzey belirleyici değerlendirmesidir.
+rubric | değerlendirme ölçeği; rubrik | isim | The rubric explains exactly how many points each criterion is worth. | Rubrik her ölçütün tam olarak kaç puan değerinde olduğunu açıklıyor.
+second marking | ikinci değerlendirme; ikinci okuma | isim | All dissertations go through second marking to ensure fairness. | Adaleti sağlamak için bütün tezler ikinci bir değerlendirmeden geçer.
+external examiner | dış değerlendirici | isim | The external examiner praised the department for its consistent marking. | Dış değerlendirici bölümü tutarlı not vermesi nedeniyle övdü.
+grade boundary | not barajı | isim | Camille missed the grade boundary for an A by just two marks. | Camille A notunun barajını yalnızca iki puanla kaçırdı.
+attainment gap | başarı açığı | isim | The attainment gap between rich and poor pupils widened during the school closures. | Okulların kapalı olduğu dönemde zengin ve yoksul öğrenciler arasındaki başarı açığı büyüdü.
+grade inflation | not enflasyonu | isim | Some employers no longer trust top marks because of grade inflation. | Bazı işverenler not enflasyonu yüzünden en yüksek notlara artık güvenmiyor.
+standardised | standart; standartlaştırılmış | sıfat | Standardised tests make it easier to compare schools across the country. | Standart testler ülke genelindeki okulları karşılaştırmayı kolaylaştırır.
+plagiarism | intihal | isim | The software flags possible plagiarism by comparing essays with millions of sources. | Yazılım kompozisyonları milyonlarca kaynakla karşılaştırarak olası intihali işaretliyor.
+## Okul yönetimi
+head of year | sınıf düzeyi sorumlusu | isim | The head of year meets every new family personally before the term starts. | Sınıf düzeyi sorumlusu dönem başlamadan önce her yeni aileyle bizzat görüşüyor.
+board of governors | okul yönetim kurulu | isim | The board of governors approved the budget for the new science lab. | Okul yönetim kurulu yeni fen laboratuvarının bütçesini onayladı.
+inspectorate | denetim kurumu; müfettişlik | isim | The national inspectorate rated the school as outstanding. | Ulusal denetim kurumu okulu üstün olarak derecelendirdi.
+league table | başarı sıralaması | isim | Parents often check the league tables before choosing a secondary school. | Veliler ortaöğretim okulu seçmeden önce genellikle başarı sıralamalarına bakar.
+enrolment | kayıt; öğrenci sayısı | isim | Enrolment has fallen steadily as families move to the suburbs. | Aileler banliyölere taşındıkça kayıt sayısı sürekli düştü.
+catchment area | kayıt bölgesi | isim | They bought a flat inside the catchment area of a popular primary school. | Popüler bir ilkokulun kayıt bölgesi içinde bir daire aldılar.
+admissions | kabul işlemleri | isim (çoğul) | The admissions office receives thousands of applications every spring. | Öğrenci kabul ofisi her bahar binlerce başvuru alıyor.
+timetabling | ders programı hazırlama | isim | Timetabling becomes a nightmare when several teachers work part-time. | Birkaç öğretmen yarı zamanlı çalışınca ders programı hazırlamak kâbusa dönüşüyor.
+staffroom | öğretmenler odası | isim | Gossip in the staffroom stopped the moment the inspector walked in. | Müfettiş içeri girdiği anda öğretmenler odasındaki dedikodu kesildi.
+state school | devlet okulu | isim | Emre went to a state school and then won a place at a top university. | Emre devlet okuluna gitti, sonra en iyi üniversitelerden birine girmeyi başardı.
+## Sınıf yönetimi ve disiplin
+absenteeism | devamsızlık | isim | Absenteeism dropped after the school introduced breakfast clubs. | Okul kahvaltı kulüpleri başlattıktan sonra devamsızlık düştü.
+play truant | okulu asmak | deyim | He was caught playing truant at the cinema on a Tuesday morning. | Bir salı sabahı okulu asıp sinemadayken yakalandı.
+detention | okulda cezaya kalma | isim | Omar got a detention for using his phone during the lesson. | Omar ders sırasında telefon kullandığı için cezaya kaldı.
+expulsion | okuldan atılma | isim | Repeated violence can lead to permanent expulsion. | Tekrarlanan şiddet kalıcı olarak okuldan atılmaya yol açabilir.
+disruptive | düzeni bozan | sıfat | One disruptive pupil can make it hard for the whole class to concentrate. | Düzeni bozan tek bir öğrenci bütün sınıfın odaklanmasını zorlaştırabilir.
+classroom management | sınıf yönetimi | isim | Classroom management is the skill new teachers worry about most. | Sınıf yönetimi yeni öğretmenlerin en çok kaygılandığı beceridir.
+seating plan | oturma düzeni | isim | Her seating plan separates the two friends who always chat. | Oturma düzeni sürekli konuşan iki arkadaşı birbirinden ayırıyor.
+attentiveness | dikkatlilik; dikkat düzeyi | isim | Attentiveness tends to drop sharply in the last lesson of the day. | Dikkat düzeyi günün son dersinde keskin biçimde düşme eğilimindedir.
+reprimand | azarlamak; kınamak | fiil | The teacher reprimanded him quietly so as not to embarrass him. | Öğretmen onu mahcup etmemek için sessizce azarladı.
+roll call | yoklama | isim | Roll call takes place at nine sharp every morning. | Yoklama her sabah tam dokuzda yapılır.
+## Öğrenci ve eğitimci
+cohort | dönem; grup (aynı yıl) | isim | This year's cohort is the largest in the school's history. | Bu yılın grubu okul tarihinin en kalabalığı.
+alumnus (alumni) | mezun | isim | Several famous alumni returned to celebrate the school's anniversary. | Okulun yıl dönümünü kutlamak için birkaç ünlü mezun geri döndü.
+doctoral candidate | doktora adayı | isim | Doctoral candidates are expected to teach a few seminars each term. | Doktora adaylarından her dönem birkaç seminer vermeleri bekleniyor.
+tutelage | gözetim; himaye (eğitimde) | isim | Under the tutelage of an experienced violinist, he improved remarkably fast. | Deneyimli bir kemancının gözetiminde dikkat çekici bir hızla gelişti.
+trainee teacher | stajyer öğretmen | isim | The trainee teacher was nervous but delivered an excellent lesson. | Stajyer öğretmen gergindi ama mükemmel bir ders anlattı.
+emeritus | emekli (onursal unvanlı) | sıfat | The emeritus professor still gives one public lecture every spring. | Emekli profesör hâlâ her bahar halka açık bir ders veriyor.
+late bloomer | geç açılan kişi | deyim | A late bloomer, Yuki only discovered her love of physics at university. | Geç açılan biri olan Yuki fiziğe olan sevgisini ancak üniversitede keşfetti.
+prodigy | dâhi çocuk; harika çocuk | isim | The young prodigy was solving university maths problems at the age of nine. | Harika çocuk dokuz yaşında üniversite düzeyinde matematik problemleri çözüyordu.
+pedagogue | eğitimci; pedagog | isim | A respected pedagogue, she wrote several books on early literacy. | Saygın bir eğitimci olarak erken okuryazarlık üzerine birkaç kitap yazdı.
+valedictorian | mezuniyet birincisi; veda konuşmacısı | isim | Maria was chosen as valedictorian and gave a moving speech. | Maria mezuniyet birincisi seçildi ve dokunaklı bir veda konuşması yaptı.
+## Kapsayıcı ve özel eğitim
+special educational needs | özel eğitim gereksinimleri | isim (çoğul) | The school employs two specialists for children with special educational needs. | Okul özel eğitim gereksinimi olan çocuklar için iki uzman çalıştırıyor.
+dyslexia | disleksi | isim | Diego's dyslexia was only diagnosed when he reached secondary school. | Diego'nun disleksisi ancak ortaokula geldiğinde teşhis edildi.
+learning disability | öğrenme güçlüğü | isim | A learning disability does not mean a lack of intelligence. | Öğrenme güçlüğü zekâ eksikliği anlamına gelmez.
+inclusion | kapsayıcılık; kaynaştırma | isim | The ministry has promised more funding for inclusion in mainstream schools. | Bakanlık genel okullarda kaynaştırma için daha fazla kaynak sözü verdi.
+mainstream | genel (eğitim); ana akım | sıfat | Most children with mild hearing loss attend mainstream classes. | Hafif işitme kaybı olan çocukların çoğu genel sınıflara devam ediyor.
+gifted | üstün yetenekli | sıfat | The programme offers weekend workshops for gifted students. | Program üstün yetenekli öğrenciler için hafta sonu atölyeleri sunuyor.
+remedial | telafi edici; destekleyici | sıfat | She attends remedial reading classes twice a week. | Haftada iki kez destekleyici okuma derslerine katılıyor.
+teaching assistant | öğretmen yardımcısı | isim | A teaching assistant sits beside him to help with written tasks. | Yazılı görevlerde yardım etmek için bir öğretmen yardımcısı yanında oturuyor.
+attention deficit | dikkat eksikliği | isim | Children with attention deficit often benefit from short, varied tasks. | Dikkat eksikliği olan çocuklar genellikle kısa ve çeşitli görevlerden fayda görür.
+accessible | erişilebilir | sıfat | The new building is fully accessible to wheelchair users. | Yeni bina tekerlekli sandalye kullananlar için tamamen erişilebilir.
+## Yükseköğretim ve mesleki eğitim
+bursary | burs (ihtiyaca dayalı) | isim | A small bursary covers her books and travel costs. | Küçük bir burs kitap ve yol masraflarını karşılıyor.
+tuition fees | öğrenim ücreti | isim (çoğul) | Tuition fees have tripled over the past fifteen years. | Öğrenim ücretleri son on beş yılda üç katına çıktı.
+bursar | okul mali işler sorumlusu | isim | Questions about unpaid fees should be sent to the bursar's office. | Ödenmemiş ücretlerle ilgili sorular mali işler ofisine gönderilmeli.
+vocational | mesleki | sıfat | Vocational courses in plumbing and electrics are in high demand. | Tesisat ve elektrik alanındaki mesleki kurslara büyük talep var.
+work placement | iş yeri stajı | isim | Instead of a final exam, Anna completed a six-month work placement with an engineering firm. | Anna final sınavı yerine bir mühendislik firmasında altı aylık iş yeri stajını tamamladı.
+matriculate | üniversiteye kaydolmak | fiil | Only half of the students who matriculate in physics actually graduate in it. | Fiziğe kaydolan öğrencilerin yalnızca yarısı gerçekten o bölümden mezun oluyor.
+vice-chancellor | rektör (İngiltere) | isim | The vice-chancellor announced a new scholarship for international students. | Rektör uluslararası öğrenciler için yeni bir burs duyurdu.
+lecture theatre | amfi | isim | The lecture theatre was packed for the guest speaker. | Konuk konuşmacı için amfi tıklım tıklımdı.
+e-learning | e-öğrenme | isim | E-learning allowed her to study while working full-time. | E-öğrenme, tam zamanlı çalışırken öğrenim görmesine imkân verdi.
+lifelong learning | yaşam boyu öğrenme | isim | The city funds lifelong learning centres for adults of all ages. | Şehir her yaştan yetişkin için yaşam boyu öğrenme merkezlerini finanse ediyor.
+## Eğitim fiilleri ve sıfatları
+instil | aşılamak | fiil | Good coaches instil discipline without crushing enthusiasm. | İyi antrenörler hevesi öldürmeden disiplin aşılar.
+drum into | kafasına sokmak | phrasal verb | Our parents drummed into us the importance of being on time. | Ailemiz dakik olmanın önemini kafamıza soktu.
+impart | aktarmak (bilgi) | fiil | An old craftsman imparted his skills to a new generation of carpenters. | Yaşlı bir zanaatkâr becerilerini yeni nesil marangozlara aktardı.
+indoctrinate | beyin yıkamak; telkin etmek | fiil | Education should teach children to think, not indoctrinate them. | Eğitim çocuklara düşünmeyi öğretmeli, onların beynini yıkamamalı.
+edify | aydınlatmak; ahlaken yüceltmek | fiil | The documentary aims to entertain as well as to edify. | Belgesel eğlendirmenin yanı sıra aydınlatmayı da amaçlıyor.
+scholarly | akademik; bilimsel | sıfat | His scholarly lectures drew students from every department. | Akademik derinlikteki dersleri her bölümden öğrenciyi çekiyordu.
+literate | okuryazar | sıfat | By the end of the century, almost the entire population was literate. | Yüzyılın sonunda nüfusun neredeyse tamamı okuryazardı.
+numerate | sayısal okuryazar; hesap bilen | sıfat | Employers expect graduates to be both literate and numerate. | İşverenler mezunların hem okuma yazma hem de hesap becerilerine sahip olmasını bekliyor.
+studious | çalışkan; derslerine düşkün | sıfat | She was a studious child who spent every break in the library. | Her teneffüsü kütüphanede geçiren, derslerine düşkün bir çocuktu.
+pedantic | bilgiçlik taslayan | sıfat | His pedantic corrections of every comma annoyed the whole class. | Her virgülü düzelten bilgiççe tavrı bütün sınıfı sinirlendirdi.
