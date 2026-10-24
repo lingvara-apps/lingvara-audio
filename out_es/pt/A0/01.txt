@@ -1,0 +1,135 @@
+# UNIT: Alfabeto espanhol | 27 letras, ñ, acento e trema
+## A – I
+A a | a | Eu gosto de um amigo.
+B b | b | O barco é grande.
+C c | c [duplo/suave] | O carro é novo.
+CH ch | ch | O garoto é alto.
+D d | d | O dedo dói.
+E e | e | A escola é bonita.
+F f | f | O fogo é quente.
+G g | g [duplo/suave] | Os óculos são novos.
+H h | mudo | O ovo está fresco.
+I i | i | A ilha é bonita.
+## J – R
+J j | j [forte] | O jardim é florido.
+K k | k | O quilo de maçã.
+L l | l | A lua brilha.
+M m | m | O mar está calmo.
+N n | n | A nuvem é escura.
+Ñ ñ | nh | A Espanha é linda.
+O o | o | O olho dói.
+P p | p | A praia é limpa.
+Q q | qu | A química é difícil.
+R r | r [vibrante simples] | O rio é profundo.
+## S – Z e sinais
+S s | s | O sol brilha.
+T t | t | A torre é alta.
+U u | u | A universidade é grande.
+V v | v | O verão chegou.
+W w | w | O wi-fi está lento.
+X x | x [ks] | O xilofone toca.
+Y y | y | O iogurte é saudável.
+Z z | z [som de s] | O suco é doce.
+á é í ó ú | acento agudo | O café está quente.
+ü | trema | A vergonha é grande.
+# UNIT: Sons difíceis | r e rr, c/z, j, ll, h, ditongos e regras de acentuação
+## Sons de R e L
+-r- | r [simples intervocálico] | Eu mas não quero.
+rr | r [vibrante forte] | O cachorro late.
+r- | r [inicial forte] | O cavalo corre rápido.
+nr | r [após n] | A honra é importante.
+-r | r [final] | Eu preciso falar.
+tr | tr [encontro] | O trem partiu.
+ll | lh [som lateral] | A chave sumiu.
+ya, yo, yu | y [consoante] | A ajuda chegou.
+-y | y [como i final] | É muito bom.
+l | l [simples] | O sal é branco.
+## C, Z, G, J
+ce, ci | c [com som de s] | O cinema é legal.
+z | z [com som de s] | O sapato é novo.
+ca, co, cu | c [com som de k] | A coisa está difícil.
+que, qui | qu [com som de k] | O queijo é gostoso.
+j | j [aspirado forte] | O presunto é saboroso.
+ge, gi | g [aspirado] | As pessoas conversam.
+ga, go, gu | g [duro] | O gato está gordo.
+gue, gui | gu [com g duro] | A guitarra toca.
+güe, güi | gü [com u sonoro] | O pinguim anda.
+x | x [som de ks] | O táxi chegou.
+## H, B/V, D, S
+h | h [mudo] | O hotel é caro.
+hie- | hie [inicial] | O gelo derreteu.
+b, v | b [oclusivo] | O vinho é tinto.
+-b-, -v- | v [aproximante] | A uva é doce.
+nv | nv [como mb] | O inverno é frio.
+-d- | d [aproximante] | Cada dia conta.
+-d | d [final fraco] | A cidade é grande.
+s | s [sibilante forte] | A casa é azul.
+-s | s [final] | Adeus, amigo.
+cc | cc [som de ks] | A ação foi rápida.
+## Ditongos e acentuação
+ie | ie [ditongo crescente] | Eu estou bem.
+ue | ue [ditongo crescente] | O carro é novo.
+ai, ay | ai [ditongo] | O ar está fresco.
+ei, ey | ei [ditongo] | O rei chegou.
+oi, oy | oi [ditongo] | Hoje é segunda.
+au | au [ditongo] | O automóvel é rápido.
+ua | ua [ditongo] | A água está fria.
+io | io [ditongo] | O meio ambiente.
+-a, -e, -o, -n, -s | oxítona natural [penúltima] | O jovem sorri.
+-l, -r, -z | oxítona natural [última] | O papel é branco.
+# UNIT: Primeiras palavras | Números de 1 a 10, cores, animais, objetos e natureza
+## Números de 1 a 10
+uno | um | Eu tenho um.
+dos | dois | Dois cafés, por favor.
+tres | três | Eu tenho três irmãos.
+cuatro | quatro | São quatro horas.
+cinco | cinco | Cinco euros, por favor.
+seis | seis | Eu tenho seis livros.
+siete | sete | Uma semana tem sete dias.
+ocho | oito | Eu trabalho oito horas.
+nueve | nove | Minha filha tem nove anos.
+diez | dez | Eu conto até dez.
+## Cores
+rojo | vermelho | O carro é vermelho.
+azul | azul | O mar é azul.
+verde | verde | Eu gosto de verde.
+amarillo | amarelo | O sol é amarelo.
+blanco | branco | Eu tenho um gato branco.
+negro | preto | Eu quero um café preto.
+gris | cinza | Hoje o céu está cinza.
+marrón | marrom | Meu cachorro é marrom.
+naranja | laranja | A bola é laranja.
+rosa | cor-de-rosa | A Ana está vestindo uma camisa cor-de-rosa.
+## Animais
+el perro | cachorro | O cachorro é grande.
+el gato | gato | O gato dorme muito.
+el pájaro | pássaro | O pássaro canta.
+el pez | peixe | Eu tenho um peixe vermelho.
+el caballo | cavalo | O cavalo corre rápido.
+la vaca | vaca | A vaca come grama.
+el ratón | rato | O rato é pequeno.
+el conejo | coelho | A Sofia tem um coelho.
+el oso | urso | O urso vive na floresta.
+el león | leão | O leão é forte.
+## Objetos
+el libro | livro | Eu leio um livro.
+el bolígrafo | caneta | Você tem uma caneta?
+el lápiz | lápis | O lápis é azul.
+el cuaderno | caderno | Abra o caderno.
+la mochila | mochila | Minha mochila é preta.
+el coche | carro | Meu carro é velho.
+la bicicleta | bicicleta | Eu vou de bicicleta.
+la pelota | bola | O menino brinca com a bola.
+el paraguas | guarda-chuva | Leve o guarda-chuva.
+la caja | caixa | A caixa está vazia.
+## Natureza
+el sol | sol | Hoje está ensolarado.
+la luna | lua | A lua é bonita.
+la estrella | estrela | Eu vejo uma estrela.
+el mar | mar | Eu moro perto do mar.
+el río | rio | O rio é longo.
+la montaña | montanha | Eu gosto da montanha.
+el cielo | céu | O céu está azul.
+la flor | flor | Esta flor é amarela.
+el árbol | árvore | A árvore é muito alta.
+la lluvia | chuva | Eu gosto de chuva.

@@ -1,7 +1,41 @@
-günlük sınır: anahtar #1 gemini-3.8-flash
-günlük sınır: anahtar #2 gemini-3.8-flash
-günlük sınır: anahtar #3 gemini-3.8-flash
-günlük sınır: anahtar #4 gemini-3.8-flash
-günlük sınır: anahtar #5 gemini-3.8-flash
-süre/sınır doldu, çevrilen: 1
-1
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es hi A1/01: ['line 3: must have exactly 3 fields separated by |, has 4', 'line 4: must have exactly 3 fields separated by |, has 4']
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es ky A0/01: ['line 82: must have exactly 3 fields separated by |, has 5', 'line 83: must have exactly 3 fields separated by |, has 5']
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+bitti, çevrilen: 27
+27

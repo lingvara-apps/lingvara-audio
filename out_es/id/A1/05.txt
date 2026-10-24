@@ -1,0 +1,111 @@
+# UNIT: Makanan dan Minuman | Sarapan, pasar, restoran, rasa
+## Sarapan
+el desayuno | sarapan | Sarapan ada di atas meja.
+el pan | roti | Aku membeli roti setiap hari.
+la mantequilla | mentega | Aku ingin roti dengan mentega.
+la mermelada | selai | Selai ini adalah selai stroberi.
+el huevo | telur | Aku makan satu telur setiap pagi.
+el queso | keju | Keju Manchego sangat lezat.
+la leche | susu | Anak-anak minum susu.
+el café | kopi | Secangkir kopi dengan susu, tolong.
+el zumo | jus buah | Aku suka jus jeruk.
+la tostada | roti panggang | Aku memesan roti panggang dengan tomat.
+## Minuman
+el agua | air | Apakah kamu punya air dingin?
+el té | teh | Ali minum teh pada sore hari.
+la cerveza | bir | Secangkir bir, tolong.
+el vino | anggur (minuman) | Spanyol memiliki anggur yang sangat enak.
+el refresco | minuman bersoda | Minuman bersoda mengandung banyak gula.
+el hielo | es batu | Air tanpa es batu, tolong.
+la botella | botol | Aku membeli sebotol air.
+la horchata | horchata (minuman nabati) | Di Valencia kami minum horchata.
+la sangría | sangria | Sangria berisi anggur dan buah.
+el batido | milkshake | Aku ingin milkshake cokelat.
+## Buah-buahan
+la fruta | buah | Aku makan buah setelah makan.
+la manzana | apel | Apel ini sangat manis.
+el plátano | pisang | Yuki sedang makan pisang.
+la naranja | jeruk | Jeruk dari Valencia sangat terkenal.
+la fresa | stroberi | Aku sangat suka stroberi.
+la uva | anggur (buah) | Kami makan dua belas buah anggur pada malam Tahun Baru.
+el limón | lemon | Lemon sangat asam.
+la pera | pir | Aku ingin buah pir yang matang.
+el melocotón | persik | Buah persik beraroma sangat harum.
+la sandía | semangka | Di musim panas kami makan semangka.
+## Sayuran
+la verdura | sayur | Kita harus makan lebih banyak sayur.
+la patata | kentang | Aku suka kentang goreng.
+el tomate | tomat | Tomat ini sangat merah.
+la cebolla | bawang bombay | Aku sedang mengiris bawang bombay.
+el ajo | bawang putih | Sup itu berisi bawang putih.
+la zanahoria | wortel | Kelinci suka wortel.
+la lechuga | selada | Aku membeli selada untuk salad.
+el pimiento | paprika | Paprika Padrón terkadang pedas.
+el pepino | mentimun | Gazpacho berisi mentimun.
+la berenjena | terong | Omar memasak terong panggang.
+## Daging, Ikan, dan Makanan Pokok
+la carne | daging | Sofia tidak makan daging.
+el pollo | ayam (daging) | Malam ini kita makan ayam dengan nasi.
+el cerdo | babi (daging) | Emre tidak makan daging babi.
+el jamón | jamon (daging ham) | Jamon serrano adalah makanan khas.
+el pescado | ikan | Setiap hari Jumat kami makan ikan.
+el arroz | beras | Paella berisi beras.
+la pasta | pasta | Anak-anak ingin pasta.
+la sal | garam | Bisakah kamu mengoper garam kepadaku?
+el aceite | minyak | Kami menggunakan minyak zaitun.
+el azúcar | gula | Aku minum kopi tanpa gula.
+## Di Pasar
+el supermercado | supermarket | Aku pergi ke supermarket.
+el mercado | pasar | Pasar buka pukul delapan.
+la panadería | toko roti | Toko roti ada di dekat sini.
+la frutería | toko buah | Aku membeli jeruk di toko buah.
+la carnicería | toko daging | Toko daging tutup pukul dua.
+la bolsa | kantong plastik | Apakah Anda butuh kantong plastik?
+el kilo | kilogram | Satu kilo tomat, tolong.
+el paquete | paket | Aku membeli satu paket beras.
+la lata | kaleng | Aku membuka sekaleng ikan tuna.
+la docena | lusin | Satu lusin telur, tolong.
+## Di Restoran
+el restaurante | restoran | Restoran ini sangat bagus.
+el camarero | pelayan | Pelayan membawa makanan.
+la carta | buku menu | Bisakah Anda membawakan menunya, tolong?
+el menú del día | menu hari ini | Menu hari ini berharga dua belas euro.
+el primer plato | hidangan pembuka | Sebagai hidangan pembuka, aku ingin sup.
+el postre | hidangan penutup | Ada apa untuk hidangan penutup?
+la cuenta | tagihan | Tagihannya, tolong.
+la propina | tip | Kami meninggalkan sedikit tip.
+la reserva | reservasi | Aku punya reservasi untuk dua orang.
+pedir (pido) | memesan | Diego memesan salad.
+## Makanan Spanyol
+la paella | paella | Setiap hari Minggu kami membuat paella.
+la tortilla de patatas | omellet kentang | Aku sangat suka omellet kentang.
+el gazpacho | gazpacho (sup dingin) | Gazpacho disajikan dingin.
+la tapa | tapa (camilan kecil) | Kami memesan beberapa tapa untuk dimakan bersama.
+el churro | churros | Kami makan churros dengan cokelat.
+el bocadillo | roti isi baguette | Aku membawa roti isi ke tempat kerja.
+el chorizo | chorizo (sosis pedas) | Chorizo sedikit pedas.
+la aceituna | zaitun | Spanyol memproduksi banyak zaitun.
+la croqueta | kroket | Nenekku membuat kroket ham.
+la ensalada | salad | Salad berisi tomat dan selada.
+## Rasa
+rico | lezat | Betapa lezatnya sup ini!
+dulce | manis | Kue ini sangat manis.
+salado | asin | Makanannya sedikit asin.
+picante | pedas | Aku tidak suka makanan pedas.
+amargo | pahit | Kopi hitam itu pahit.
+ácido | asam | Anggur ini asam.
+caliente | panas | Supnya sangat panas.
+frío | dingin | Aku ingin bir dingin.
+fresco | segar | Ikan ini segar.
+delicioso | enak sekali | Paella ini enak sekali.
+## Kata Kerja Makanan dan Ungkapan
+comer | makan siang | Di Spanyol kami makan siang pukul dua.
+beber | minum | Aku minum banyak air.
+cocinar | memasak | Maria memasak dengan sangat baik.
+desayunar | sarapan | Aku sarapan pukul tujuh.
+cenar | makan malam | Kami makan malam pukul sembilan.
+la comida | makanan | Makanan sudah siap.
+la cena | makan malam | Makan malam adalah pukul sepuluh.
+tener hambre | merasa lapar | Aku sangat lapar.
+tener sed | merasa haus | Apakah kamu haus?
+¡Que aproveche! | Selamat menikmati makanan! | Selamat menikmati makanan, teman-teman!

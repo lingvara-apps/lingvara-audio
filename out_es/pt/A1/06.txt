@@ -1,0 +1,111 @@
+# UNIT: Cidade e transporte | Lugares, direção, transporte público, viagem, natureza
+## Lugares na cidade
+la ciudad | cidade | Madrid é uma cidade grande.
+la calle | rua | Eu moro nesta rua.
+la plaza | praça | Nos vemos na praça.
+el parque | parque | As crianças brincam no parque.
+el barrio | bairro | Meu bairro é muito tranquilo.
+el centro | centro | Eu trabalho no centro.
+el puente | ponte | Cruzamos a ponte a pé.
+el edificio | edifício | Aquele edifício é muito alto.
+el museo | museu | O museu abre às dez.
+la iglesia | igreja | A igreja é muito antiga.
+## Lugares de serviço
+el hospital | hospital | O hospital fica longe.
+la farmacia | farmácia | Tem uma farmácia por aqui?
+el hotel | hotel | O hotel tem piscina.
+la estación | estação | Eu te espero na estação.
+el aeropuerto | aeroporto | Vamos ao aeroporto de táxi.
+la biblioteca | biblioteca | Eu estudo na biblioteca.
+el cine | cinema | Vamos ao cinema esta noite?
+el banco | banco | O banco fecha às duas.
+la comisaría | delegacia | A delegacia fica na praça.
+el ayuntamiento | prefeitura | A prefeitura é muito bonita.
+## Direções
+a la derecha | à direita | Vire à direita.
+a la izquierda | à esquerda | O banco fica à esquerda.
+todo recto | em frente | Siga em frente.
+cerca | perto | Minha casa é perto.
+lejos | longe | O aeroporto fica longe.
+al lado de | ao lado de | O café fica ao lado do cinema.
+enfrente de | em frente a | Eu moro em frente ao parque.
+la esquina | esquina | A farmácia fica na esquina.
+girar | virar | Vire na próxima rua.
+cruzar | atravessar | Cruzamos a rua com cuidado.
+## Transporte público
+el autobús | ônibus | Vou ao trabalho de ônibus.
+el metro | metrô | O metrô de Madri é rápido.
+el tren | trem | O trem sai às oito.
+el taxi | táxi | Chamamos um táxi.
+la parada | parada | A parada é muito perto.
+el billete | passagem, bilhete | Eu compro uma passagem de trem.
+el andén | plataforma, peron | O trem chega à plataforma dois.
+la línea | linha | Pegue a linha três.
+coger (cojo) | pegar | Eu pego o metrô todo dia.
+el pasajero | passageiro | O ônibus leva quarenta passageiros.
+## Veículos e estrada
+el coche | carro | Meu carro é pequeno.
+la bicicleta | bicicleta | Lukas vai de bicicleta.
+la moto | moto | Meu irmão tem uma moto.
+el avión | avião | Viajamos de avião para Sevilha.
+el barco | navio, barco | O barco vai para Mallorca.
+la carretera | estrada | A estrada é muito longa.
+el tráfico | trânsito | Hoje há muito trânsito.
+conducir (conduzco) | dirigir | Eu não dirijo à noite.
+aparcar | estacionar | É difícil estacionar aqui.
+a pie | a pé | Vou para a aula a pé.
+## Viagem
+el viaje | viagem | Boa viagem!
+la maleta | mala | Minha mala é azul.
+el pasaporte | passaporte | Preciso do meu passaporte.
+el turista | turista | Há muitos turistas em Barcelona.
+las vacaciones | férias | Estou de férias.
+el mapa | mapa | Olhamos o mapa da cidade.
+viajar | viajar | Gosto de viajar de trem.
+visitar | visitar, conhecer | Queremos visitar Granada.
+la excursión | excursão, passeio | Amanhã faremos uma excursão.
+el hostal | albergue, pensão | Dormimos em um albergue barato.
+## Chegada e partida
+llegar | chegar | O trem chega às dez.
+salir (salgo) | sair, partir | Saio de casa às oito.
+el horario | horário, tabela | Você tem o horário dos trens?
+la llegada | chegada | A chegada é às três.
+la salida | saída | Onde fica a saída?
+el retraso | atraso | O avião está com atraso.
+de ida y vuelta | de ida e volta | Uma passagem de ida e volta.
+la oficina de turismo | posto de turismo | Pergunte no posto de turismo.
+el equipaje | bagagem | Minha bagagem não chegou.
+perderse (me pierdo) | perder-se | Sempre me perco em Madri.
+## Natureza
+el mar | mar | O mar está calmo hoje.
+la playa | praia | Vamos à praia em agosto.
+la montaña | montanha | Gosto de caminhar pela montanha.
+el río | rio | O rio passa pela cidade.
+el lago | lago | O lago é muito bonito.
+el bosque | bosque, floresta | Passeamos pelo bosque.
+la isla | ilha | Ibiza é uma ilha.
+el campo | campo | Meus avós moram no campo.
+el sol | sol | Hoje está muito ensolarado.
+el cielo | céu | O céu está limpo.
+## Clima e meio ambiente
+la lluvia | chuva | Não gosto de chuva.
+llover (llueve) | chover | Hoje chove muito.
+la nieve | neve | Há neve na serra.
+el viento | vento | Faz muito vento.
+la nube | nuvem | Há muitas nuvens hoje.
+hace calor | fazer calor | Em Sevilha faz muito calor.
+la flor | flor | Estas flores são para você.
+la arena | areia | A areia está quente.
+la hierba | grama, relva | Senta-mos na grama.
+la estrella | estrela | Esta noite há muitas estrelas.
+## País e mundo
+el país | país | A Espanha é um país bonito.
+el pueblo | povoado, vila | Meu povoado é muito pequeno.
+la capital | capital | Madri é a capital.
+la costa | costa, litoral | Moramos na costa.
+el norte | norte | Bilbau fica no norte.
+el sur | sul | Málaga fica no sul.
+el este | leste | Valência fica no leste.
+el oeste | oeste | O sol se põe no oeste.
+el mundo | mundo | Quero viajar pelo mundo.
+extranjero | estrangeiro | Ana estuda em um país estrangeiro.
