@@ -1,0 +1,111 @@
+# UNIT: Tecnología | Software, seguridad, inteligencia artificial, espacio
+## Software y hardware
+hardware | hardware, equipo | El programa funciona perfectamente, pero hay un problema con el hardware.
+operating system | sistema operativo | Mi viejo portátil no puede ejecutar el último sistema operativo.
+plug-in | complemento, extensión | Necesitas añadir un complemento gratuito para reproducir vídeos en esta página.
+patch | parche | La empresa lanzó un parche de seguridad para el juego anoche.
+user-friendly | fácil de usar, intuitivo | El nuevo sistema de reservas es mucho más fácil de usar que el antiguo.
+interface | interfaz | A mi abuela le gusta la sencilla interfaz de su nuevo teléfono.
+open-source | de código abierto | Muchas universidades usan programas de código abierto porque son gratuitos.
+source code | código fuente | Los desarrolladores compartieron el código fuente para que cualquiera pueda mejorarlo.
+app store | tienda de aplicaciones | Puedes encontrar miles de aplicaciones de idiomas en la tienda de aplicaciones.
+beta | versión beta, fase beta | Solo unos cientos de usuarios pueden probar la versión beta antes del lanzamiento oficial.
+## Programación
+code | código | Omar escribió el código de toda la tienda en línea en un mes.
+developer | desarrollador | Anna trabaja como desarrolladora de aplicaciones móviles para una pequeña empresa.
+coder | programador, codificador | Diego aprendió a ser programador por sí mismo viendo vídeos gratuitos.
+programming language | lenguaje de programación | ¿Qué lenguaje de programación debería aprender primero un principiante?
+debug | depurar, corregir errores | A Lukas le llevó toda la tarde depurar su programa.
+syntax | sintaxis | Un corchete que falte basta para causar un error de sintaxis.
+loop | bucle | El programa se quedó atascado en un bucle y nunca se detuvo.
+database | base de datos | Todos los pedidos de los clientes se almacenan en una base de datos segura.
+server | servidor | El sitio estuvo caído durante horas porque el servidor dejó de funcionar.
+cloud storage | almacenamiento en la nube | Guardo todas mis fotos en el almacenamiento en la nube por si pierdo el teléfono.
+## Ciberseguridad
+cybersecurity | ciberseguridad | Los bancos gastan millones en ciberseguridad cada año.
+malware | programa malicioso, software malicioso | No abras ese adjunto; podría contener software malicioso.
+ransomware | ransomware, virus de rescate | El ransomware bloqueó todos los archivos y los criminales exigieron dinero.
+firewall | cortafuegos | El cortafuegos de la empresa bloquea la mayoría de los sitios web sospechosos.
+encrypt | cifrar, encriptar | La aplicación cifra tus mensajes para que nadie más pueda leerlos.
+phishing | suplantación de identidad, phishing | Ese mensaje que pide los datos de tu banco es un intento de phishing.
+two-factor authentication | autenticación de doble factor, autenticación de dos pasos | Activa la autenticación de dos factores para hacer tu cuenta mucho más segura.
+cyberattack | ciberataque | Un ciberataque paralizó el sistema informático del hospital durante dos días.
+hack into | hackear, entrar sin autorización | Alguien intentó hackear mi cuenta de correo electrónico anoche.
+data breach | filtración de datos, brecha de seguridad | Tras la filtración de datos, se pidió a todos los usuarios que cambiaran sus contraseñas.
+## Inteligencia artificial
+artificial intelligence | inteligencia artificial | La inteligencia artificial está cambiando la forma en que los médicos diagnostican enfermedades.
+robot | robot | En esta fábrica, los robots hacen la mayor parte del trabajo pesado.
+machine learning | aprendizaje automático | El aprendizaje automático ayuda a la aplicación a reconocer tu letra.
+automate | automatizar | Automatizamos el proceso de facturación y nos ahorra horas cada semana.
+chatbot | chatbot, bot conversacional | El chatbot del banco respondió a mi pregunta en pocos segundos.
+voice assistant | asistente de voz | Pido a mi asistente de voz que ponga un temporizador cuando estoy cocinando.
+predict | predecir | El programa puede predecir qué productos comprarán los clientes a continuación.
+facial recognition | reconocimiento facial | Algunos aeropuertos usan reconocimiento facial en lugar de revisar los pasaportes a mano.
+neural network | red neuronal | Una red neuronal aprende observando millones de ejemplos.
+generate | generar | Esta herramienta puede generar un breve resumen de cualquier artículo largo.
+## Redes e internet
+network | red | Todos los ordenadores de la oficina están conectados a una misma red.
+router | enrutador, rúter | Si el internet deja de funcionar, prueba a apagar y encender el rúter.
+hotspot | punto de acceso Wi-Fi, zona Wi-Fi | Usé mi teléfono como punto de acceso para trabajar en el tren.
+bandwidth | ancho de banda | Las videollamadas usan mucho ancho de banda, por lo que la conexión se vuelve lenta.
+broadband | banda ancha | La banda ancha rápida aún no está disponible en algunas zonas rurales.
+cache | caché | Borra la caché si la página sigue mostrando la información antigua.
+pop-up | ventana emergente | Unas molestas ventanas emergentes siguen apareciendo cada vez que visito esta página.
+hyperlink | hipervínculo, enlace | Haz clic en el hipervínculo al final del correo electrónico para confirmar.
+buffer | cargar, pausarse por almacenamiento en búfer | La película seguía cargándose porque la conexión era muy lenta.
+backup | copia de seguridad | Haz siempre una copia de seguridad de tu trabajo antes de cambiar la configuración.
+## Dispositivos
+battery life | duración de la batería, autonomía | La batería de este teléfono dura aproximadamente dos días.
+wearable | dispositivo medible, dispositivo ponible | Los dispositivos ponibles pueden registrar tu ritmo cardíaco mientras duermes.
+headset | auriculares con micrófono | Por favor, usa auriculares con micrófono durante las clases en línea para reducir el ruido.
+sensor | sensor | Un sensor enciende las luces cuando alguien entra en la habitación.
+processor | procesador | El nuevo modelo tiene un procesador más rápido y una mejor cámara.
+memory card | tarjeta de memoria | La tarjeta de memoria de mi cámara está llena de fotos de vacaciones.
+smart speaker | altavoz inteligente | Pedimos al altavoz inteligente de la cocina que ponga las noticias.
+earbuds | auriculares inalámbricos, auriculares intrauriculares | Yuki siempre escucha podcasts con sus auriculares intrauriculares en el autobús.
+stylus | lápiz óptico, puntero | Los artistas suelen dibujar en tabletas con un lápiz óptico especial.
+trackpad | panel táctil, trackpad | Prefiero usar un ratón porque el panel táctil es demasiado sensible.
+## Espacio
+astronaut | astronauta | El astronauta pasó seis meses viviendo en la estación espacial.
+spacecraft | nave espacial | La nave espacial llegará a Marte en unos siete meses.
+rocket | cohete | Miles de personas vieron el cohete elevarse hacia el cielo desde la costa.
+satellite | satélite | Los satélites meteorológicos nos envían nuevas imágenes de las nubes cada hora.
+planet | planeta | Júpiter es el planeta más grande de nuestro sistema solar.
+space station | estación espacial | A veces puedes ver la estación espacial desde la Tierra a simple vista.
+lift-off | despegue | El despegue se retrasó dos horas debido a los fuertes vientos.
+countdown | cuenta atrás | Toda la multitud se unió a la cuenta atrás antes del lanzamiento.
+launch pad | plataforma de lanzamiento | El cohete estuvo en la plataforma de lanzamiento durante tres días antes del despegue.
+mission control | control de misión | El control de misión perdió el contacto con la nave espacial durante varios minutos.
+## Exploración espacial
+universe | universo | Los científicos creen que el universo tiene unos catorce mil millones de años.
+solar system | sistema solar | Hay ocho planetas en nuestro sistema solar.
+mission | misión | La misión para recolectar rocas del asteroide fue un gran éxito.
+asteroid | asteroide | Un pequeño asteroide pasó de forma segura entre la Tierra y la Luna.
+black hole | agujero negro | Ni siquiera la luz puede escapar de un agujero negro.
+spacewalk | paseo espacial | Los dos astronostas repararon el panel solar durante un paseo espacial de seis horas.
+lunar | lunar | La superficie lunar está cubierta de fino polvo gris.
+crater | cráter | El enorme cráter fue creado por la caída de una roca hace millones de años.
+rover | vehículo de exploración, rover | El rover lleva años enviando fotos desde Marte.
+exoplanet | exoplaneta | Los astrónomos han descubierto un exoplaneta que podría tener agua.
+## Verbos tecnológicos
+innovate | innovar | Las empresas pequeñas a menudo innovan más rápido que las grandes.
+revolutionise | revolucionar | Los teléfonos inteligentes revolucionaron la forma en que tomamos y compartimos fotos.
+troubleshoot | solucionar problemas, diagnosticar | El ingeniero pasó toda la mañana solucionando problemas en la red.
+configure | configurar | Tienes que configurar la impresora antes de poder usarla.
+access | acceder | Puedes acceder a tus archivos desde cualquier ordenador con internet.
+sync | sincronizar | Mi teléfono sincroniza mi calendario con mi portátil automáticamente.
+reboot | reiniciar | Si el ordenador se vuelve a congelar, simplemente reinícialo.
+customise | personalizar | Puedes personalizar la aplicación con tus propios colores y sonidos.
+digitise | digitalizar | La biblioteca está digitalizando todos sus mapas y cartas antiguas.
+malfunction | fallar, funcionar mal | La alarma falló y sonó en plena noche.
+## Tecnología y sociedad
+state-of-the-art | de última generación | El nuevo hospital está lleno de equipos médicos de última generación.
+obsolete | obsoleto, anticuado | Las máquinas de fax se volvieron obsoletas en la mayoría de las oficinas hace años.
+virtual reality | realidad virtual | Con la realidad virtual, los estudiantes pueden caminar por ciudades antiguas.
+augmented reality | realidad aumentada | Esta aplicación usa realidad aumentada para mostrar muebles en tu habitación.
+tech-savvy | entendido en tecnología, tecnológico | Mi sobrina, muy tecnológica, configuró mi nuevo teléfono en cinco minutos.
+surveillance | vigilancia | Hay cámaras de vigilancia en casi todas las esquinas de la ciudad.
+internet of things | internet de las cosas | Gracias al internet de las cosas, mi frigorífico puede pedir leche por sí mismo.
+smart home | casa inteligente | En una casa inteligente, puedes controlar la calefacción con tu teléfono.
+digital detox | desintoxicación digital | Camille hizo una desintoxicación digital de una semana en las montañas.
+deepfake | ultrafalso, vídeo falso generado por IA | El vídeo falso parecía tan real que mucha gente se lo creyó.
