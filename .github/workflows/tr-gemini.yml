@@ -22,11 +22,12 @@ jobs:
       - name: Çevir
         env:
           GKEYS: ${{ secrets.GEMINI_KEYS }}
-          MAXMIN: "320"
+          MAXMIN: ${{ github.event_name == 'push' && '6' || '320' }}
         run: |
           pip install -q requests
           if [ -z "$GKEYS" ]; then echo "GEMINI_KEYS gizli ayarı yok"; exit 0; fi
-          python3 gem_tr.py 2>&1 | tail -150
+          python3 gem_tr.py 2>&1 | tee /tmp/log.txt | tail -150
+          mkdir -p out && grep -v "^OK " /tmp/log.txt | tail -60 > out/_log.txt; grep -c "^OK " /tmp/log.txt >> out/_log.txt || true
       - name: Kaydet
         if: always()
         run: |
