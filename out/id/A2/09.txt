@@ -1,0 +1,111 @@
+# UNIT: Layanan dan Belanja | Bank, kurir, salon, pakaian
+## Di Bank
+bank account | rekening bank | Saya ingin membuka rekening bank.
+cash machine | mesin ATM | Apakah ada mesin ATM di dekat sini?
+withdraw (withdrew, withdrawn) | menarik (uang) | Saya harus menarik sejumlah uang.
+coin | koin | Saya butuh beberapa koin untuk meteran parkir.
+loan | pinjaman | Mereka mengambil pinjaman untuk membeli rumah.
+balance | saldo | Kamu bisa memeriksa saldomu secara online.
+exchange rate | nilai tukar | Berapa nilai tukar hari ini?
+banknote | uang kertas | Mesin ATM itu hanya mengeluarkan uang kertas dua puluh euro.
+transfer | mentransfer | Bisakah kamu mentransfer uangnya hari ini?
+savings | tabungan | Dia menyimpan tabungannya di bank.
+## Kurir dan Pos
+parcel | paket | Sebuah paket datang untukmu pagi ini.
+postcode | kode pos | Berapa kode posmu?
+envelope | amplop | Masukkan surat itu ke dalam amplop.
+stamp | perangko | Aku butuh dua perangko untuk surat-surat ini.
+deliver | mengantar | Mereka mengantar pizza sampai tengah malam.
+delivery | pengiriman | Pengiriman gratis untuk pesanan di atas tiga puluh pon.
+courier | kurir | Kurir sedang menunggu di depan pintu.
+sender | pengirim | Nama pengirim tidak ada di atas kotak.
+receive | menerima | Apakah kamu menerima suratku?
+track | melacak | Kamu bisa melacak paketmu secara online.
+## Di Salon Rambut
+hairdresser | penata rambut | Penata rambutku sangat pintar merawat rambut keriting.
+barber | tukang cukur | Omar pergi ke tukang cukur setiap dua minggu sekali.
+haircut | potong rambut | Aku harus potong rambut.
+fringe | pori-pori rambut / poni | Aku ingin poni yang lebih pendek, tolong.
+dye | mewarnai (rambut) | Sofia mewarnai rambutnya menjadi merah.
+shave | bercukur | Dia bercukur setiap pagi.
+hairbrush | sikat rambut | Maria membeli sikat rambut baru.
+trim | merapikan ujung rambut | Tolong rapikan ujungnya saja.
+blow-dry | mengeringkan dengan pengering rambut | Bisakah kamu mengeringkan rambutku dengan pengering?
+hairstyle | model rambut | Apakah kamu suka model rambut barumu?
+## Layanan
+dry cleaner's | binatu kering | Aku akan membawa jas ku ke binatu kering.
+launderette | binatu umum | Ada binatu umum di sudut jalan.
+locksmith | tukang kunci | Aku kehilangan kunciku, jadi aku memanggil tukang kunci.
+tailor | penjahit | Penjahit itu membuat celanaku lebih pendek.
+customer | pelanggan | Toko itu memiliki banyak pelanggan tetap.
+opening hours | jam buka | Berapa jam buka pada hari Sabtu?
+optician | optikus / ahli kacamata | Aku butuh kacamata baru, jadi aku pergi ke optikus.
+photocopy | fotokopi | Bisakah aku meminta fotokopi halaman ini?
+florist | penjual bunga | Emre membeli mawar di penjual bunga.
+staff | staf | Staf di sini sangat suka membantu.
+## Layanan Telepon
+voicemail | pesan suara | Aku meninggalkan pesan suara untukmu pagi ini.
+top up | mengisi ulang (pulsa/saldo) | Aku perlu mengisi ulang pulsamu / pulsa ponselku.
+signal | sinyal | Tidak ada sinyal di pegunungan.
+data | data seluler | Aku tidak punya sisa data seluler bulan ini.
+bill | tagihan | Tagihan telepon bulan ini terlalu tinggi.
+monthly | bulanan | Harga bulanan adalah lima belas dolar.
+unlimited | tanpa batas | Aku memiliki panggilan dan pesan tanpa batas.
+roaming | jelajah internasional | Matikan jelajah saat kamu bepergian.
+tariff | tarif | Tarif ini lebih murah untuk pelajar.
+text | mengirim pesan teks | Kirimi aku pesan teks saat kamu sampai di rumah.
+## Di Pusat Perbelanjaan
+shopping centre | pusat perbelanjaan | Pusat perbelanjaan baru itu buka pada hari Senin.
+escalator | eskalator | Naiklah eskalator ke lantai dua.
+department store | pusat perbelanjaan besar | Kamu bisa menemukan segalanya di pusat perbelanjaan besar ini.
+changing room | kamar pas | Di mana kamar pasnya?
+food court | area makan | Mari kita bertemu di area makan.
+bargain | barang murah / penawaran bagus | Jaket ini benar-benar barang murah.
+shopping bag | tas belanja | Omar membawa tiga tas belanja yang berat.
+car park | tempat parkir | Tempat parkir itu penuh lagi.
+window shopping | melihat-lihat etalase | Kami pergi melihat-lihat etalase pada hari Sabtu.
+trolley | kereta dorong belanja | Bisakah kamu mengambilkan kereta dorong belanja, tolong?
+## Pembayaran
+receipt | struk | Simpan struknya, tolong.
+change | uang kembalian | Ini uang kembalianmu.
+contactless | tanpa kontak (nfc/kartu) | Bisakah saya membayar secara tanpa kontak?
+refund | pengembalian dana | Aku ingin pengembalian dana untuk sepatu ini.
+instalment | cicilan | Kami membayar sofa itu dalam enam cicilan.
+afford | mampu membeli | Aku tidak mampu membeli mobil baru.
+owe | berhutang | Aku berhutang sepuluh dolar padamu.
+tip | tip | Kami meninggalkan tip untuk pelayan.
+price tag | label harga | Tidak ada label harga di tas ini.
+total | total | Totalnya adalah empat puluh lima pon.
+## Pakaian 2
+blouse | blus | Maria mengenakan blus putih.
+cardigan | kardigan | Bawalah kardigan, hawanya dingin di malam hari.
+waistcoat | rompi | Dia mengenakan rompi ke pernikahan.
+tracksuit | pakaian olahraga | Aku memakai pakaian olahraga di rumah.
+pyjamas | piyama | Anak-anak sudah mengenakan piyama mereka.
+swimsuit | pakaian renang | Jangan lupa pakaian renangmu!
+tights | celana ketat tipis | Dia membeli celana ketat hitam untuk musim dingin.
+trainers | sepatu kets | Sepatu kets ini sangat nyaman.
+sandals | sandal | Di musim panas aku hanya memakai sandal.
+slippers | sandal rumah | Pakailah sandal rumahmu, lantainya dingin.
+## Kain dan Motif
+cotton | katun | Kemeja ini terbuat dari katun.
+wool | wol | Sweater wol membuatmu tetap hangat.
+silk | sutra | Dia mendapat syal sutra sebagai hadiah.
+leather | kulit | Aku ingin jaket kulit.
+denim | denim | Jaket denim tidak pernah ketinggalan zaman.
+striped | bergaris | Dia mengenakan kemeja bergaris biru.
+checked | bermotif kotak-kotak | Aku suka rok kotak-kotakmu.
+spotted | bermotif bintik-bintik | Bayi itu memakai topi bermotif bintik-bintik.
+plain | polos | Aku lebih suka kaus polos.
+pattern | motif | Motif pada gaun ini sangat indah.
+## Belanja di Toko
+try on | mencoba (pakaian) | Bisakah aku mencoba gaun ini?
+baggy | longgar | Dia suka memakai celana longgar.
+suit | cocok (di badan) | Warna itu sangat cocok untukmu.
+go with (went, gone) | serasi dengan | Apakah sabuk ini serasi dengan sepatuku?
+in stock | ada di stok | Apakah model ini ada di stok?
+out of stock | habis stok | Maaf, ukuran itu sudah habis stok.
+just looking | hanya melihat-lihat | Tidak, terima kasih, aku hanya melihat-lihat.
+exchange | menukar | Bisakah aku menukar kemeja ini dengan yang lebih besar?
+loose | longgar (pakaian) | Celana ini terlalu longgar.
+tight | ketat | Sepatunya sedikit ketat.

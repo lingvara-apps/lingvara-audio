@@ -1,0 +1,111 @@
+# UNIT: Hukum dan masyarakat | Undang-undang, pengadilan, negara, hak
+## Undang-undang dan aturan
+rule | aturan | Silakan baca aturan sebelum kamu mulai bermain game.
+legal | legal, sah | Apakah sah menerbangkan drone di atas pusat kota?
+illegal | ilegal, melanggar hukum | Dilarang memarkir mobilmu di depan stasiun pemadam kebakaran.
+lawful | sah menurut hukum | Pengadilan memutuskan bahwa tindakan perusahaan tersebut sah menurut hukum.
+against the law | melanggar hukum | Mengemudi tanpa asuransi adalah melanggar hukum.
+prohibited | dilarang | Fotografi dilarang di dalam ruang sidang.
+allowed | diperbolehkan | Anjing tidak diperbolehkan di pantai pada musim panas.
+obey | mematuhi | Setiap orang harus mematuhi hukum, bahkan orang terkaya sekalipun.
+break the law | melanggar hukum | Dia tidak tahu bahwa dia melanggar hukum dengan berkemah di sana.
+forbidden | dilarang keras | Merokok dilarang keras di dalam gedung rumah sakit.
+## Kejahatan
+crime | kejahatan | Kejahatan adalah masalah serius di beberapa bagian kota.
+criminal | penjahat | Polisi menangkap penjahat itu di bandara.
+theft | pencurian | Dia melaporkan pencurian sepedanya kepada polisi.
+thief (thieves) | pencuri | Seorang pencuri mengambil dompetku saat aku berada di bus yang padat.
+robbery | perampokan | Terjadi perampokan bersenjata di bank di Main Street.
+burglar | pencuri rumah | Pencuri itu masuk melalui jendela dapur yang terbuka.
+shoplifting | pengutilan di toko | Remaja itu tertangkap mengutil di sebuah toko pakaian.
+offender | pelaku pelanggaran | Pelanggar muda sering kali mendapat kesempatan kedua dari pengadilan.
+smuggle | menyelundupkan | Mereka mencoba menyelundupkan rokok melewati perbatasan.
+commit | melakukan (kejahatan) | Kebanyakan anak muda yang melakukan kejahatan tidak pernah melakukannya lagi.
+## Polisi dan penyelidikan
+patrol | berpatroli | Petugas polisi berpatroli di taman setiap malam setelah pukul sepuluh.
+investigate | menyelidiki | Polisi sedang menyelidiki kebakaran di gudang tersebut.
+investigation | penyelidikan | Penyelidikan tersebut dapat memakan waktu beberapa bulan untuk diselesaikan.
+fingerprint | sidik jari | Polisi menemukan sidik jarinya di jendela yang pecah.
+witness | saksi | Seorang saksi melihat pria itu berlari menjauh dari toko.
+suspicious | mencurigakan | Hubungi polisi jika kamu melihat sesuatu yang mencurigakan di dekat stasiun.
+arrest | menangkap | Dua pria ditangkap di dekat stasiun tadi malam.
+clue | petunjuk | Detektif itu menemukan petunjuk penting di bawah karpet.
+detective | detektif | Detektif itu menghabiskan waktu berjam-jam untuk berbicara dengan para tetangga.
+crime scene | tempat kejadian perkara | Tidak seorang pun diizinkan mendekati tempat kejadian perkara selama dua hari.
+## Pengadilan
+court | pengadilan | Kasus ini akan dibawa ke pengadilan pada akhir bulan depan.
+judge | hakim | Hakim mendengarkan kedua belah pihak dengan cermat.
+testify | bersaksi | Ali setuju untuk bersaksi tentang apa yang dilihatnya malam itu.
+trial | persidangan | Persidangan diperkirakan akan berlangsung sekitar tiga minggu.
+defend | membela | Seorang pengacara muda akan membelanya di pengadilan.
+case | kasus hukum | Pengacara itu mengatakan bahwa kita memiliki kasus yang sangat kuat.
+accuse | menuduh | Dia dituduh mengambil uang dari perusahaan.
+guilty | bersalah | Juri menyatakan dia bersalah atas ketiga dakwaan tersebut.
+innocent | tidak bersalah | Setiap orang tidak bersalah sampai pengadilan membuktikan sebaliknya.
+on trial | diadili | Dua pria sedang diadili karena mencuri lukisan dari museum.
+## Hukuman
+jail | penjara | Dia menghabiskan waktu semalam di penjara setelah berkelahi.
+prison | penjara (lembaga pemasyarakatan) | Dia menghabiskan dua tahun di penjara karena penipuan.
+prisoner | narapidana | Para narapidana diizinkan untuk belajar demi mendapatkan gelar.
+punishment | hukuman | Banyak orang berpikir hukuman itu terlalu ringan.
+punish | menghukum | Haruskah orang tua menghukum anak-anak atas setiap kesalahan kecil?
+penalty | denda, sanksi | Hukuman denda karena tidak membayar pajak bisa sangat tinggi.
+release | membebaskan | Dia dibebaskan dari penjara setelah menjalani masa tahanan tiga tahun.
+behind bars | di balik jeruji besi | Pemimpin geng itu akan berada di balik jeruji besi selama bertahun-tahun.
+escape | melarikan diri | Dua narapidana melarikan diri dengan memanjat tembok.
+parking ticket | surat tilang parkir | Aku mendapat surat tilang parkir karena aku tinggal terlalu lama.
+## Negara dan pemerintahan
+politician | politikus | Politikus itu berjanji akan membangun lebih banyak rumah sakit tahun depan.
+senate | senat | Undang-undang baru harus disetujui terlebih dahulu oleh senat.
+civil servant | pegawai negeri | Bibiku telah bekerja sebagai pegawai negeri selama dua puluh tahun.
+president | presiden | Presiden memberikan pidato di televisi nasional.
+political | politik | Mereka tidak pernah membahas topik politik saat makan malam keluarga.
+stand for election | mencalonkan diri dalam pemilu | Tetangga kami berencana mencalonkan diri dalam pemilu dewan lokal.
+mayor | wali kota | Wali kota berjanji untuk membersihkan taman-taman kota.
+local council | dewan lokal | Dewan lokal ingin membuka perpustakaan baru di wilayah kami.
+democratic | demokratis | Di negara demokratis, rakyat memilih pemimpin mereka.
+state | negara | Di banyak negara, negara membayar untuk pendidikan dasar.
+## Hak dan kebebasan
+freedom of speech | kebebasan berpendapat | Kebebasan berpendapat sangat penting dalam masyarakat yang sehat.
+equal rights | hak-hak yang setara | Wanita di banyak negara berjuang untuk hak-hak yang setara di tempat kerja.
+freedom | kebebasan | Bagi banyak anak muda, mobil pertama berarti kebebasan.
+free press | pers bebas | Pers bebas membantu orang mengetahui kebenaran tentang mereka yang berkuasa.
+equal | setara | Semua warga negara harus setara di mata hukum.
+discrimination | diskriminasi | Diskriminasi karena usia melanggar hukum di sini.
+racist | rasis | Klub tersebut melarang suporter itu karena meneriakkan komentar rasis.
+peaceful | damai | Ratusan mahasiswa bergabung dalam aksi damai menolak kenaikan biaya.
+demonstrator | demonstran | Para demonstran membawa spanduk dan menyanyikan lagu di alun-alun.
+fairness | keadilan | Anak-anak memiliki rasa keadilan yang kuat sejak usia dini.
+## Masyarakat dan kewarganegaraan
+social | sosial | Kota ini sedang mencoba menyelesaikan masalah sosialnya, seperti kesepian.
+good citizen | warga negara yang baik | Membayar pajak tepat waktu adalah bagian dari menjadi warga negara yang baik.
+public service | layanan publik | Bus dan perpustakaan adalah layanan publik yang penting.
+social services | layanan sosial | Layanan sosial membantu keluarga yang memiliki masalah serius di rumah.
+public | umum | Perpustakaan adalah gedung umum, jadi masuknya gratis.
+unemployment benefit | tunjangan pengangguran | Dia menerima tunjangan pengangguran selama enam bulan setelah kehilangan pekerjaannya.
+donation | sumbangan, donasi | Rumah sakit tersebut menerima sumbangan besar dari sebuah keluarga lokal.
+responsibility | tanggung jawab | Menjaga kebersihan jalan adalah tanggung jawab setiap orang.
+duty | kewajiban, tugas | Adalah kewajibanmu untuk memberi tahu polisi tentang apa yang kamu lihat.
+donate | mendonasikan | Kami mendonasikan pakaian lama kami kepada orang-orang yang kehilangan tempat tinggal.
+## Urusan resmi
+official letter | surat resmi | Aku menerima surat resmi dari kantor pajak pagi ini.
+bureaucracy | birokrasi | Memulai bisnis kecil di sini berarti berurusan dengan banyak birokrasi.
+red tape | birokrasi rumit | Aturan baru ini seharusnya mengurangi birokrasi rumit bagi perusahaan-perusahaan kecil.
+notary | notaris | Kamu perlu menandatangani dokumen di hadapan seorang notaris.
+application | lamaran, permohonan | Silakan kirimkan permohonanmu sebelum akhir bulan.
+queue up | mengantre | Kami harus mengantre selama dua jam untuk memperbarui dokumen kami.
+licence | surat izin, SIM | Dia akhirnya mendapatkan surat izin mengemudinya pada usia tiga puluh tahun.
+identity card | kartu identitas | Silakan tunjukkan kartu identitasmu di pintu masuk.
+passport office | kantor paspor | Antrean di kantor paspor lebih dari satu jam lamanya.
+fill out | mengisi (formulir) | Silakan isi formulir ini dan kembalikan besok.
+## Perselisihan dan keadilan
+disagreement | perselisihan | Kedua tetangga itu mengalami perselisihan panjang tentang pagar kebun.
+make a complaint | membuat pengaduan | Camille membuat pengaduan tentang kebisingan dari bar tersebut.
+take to court | membawa ke pengadilan | Para penyewa memutuskan untuk membawa pemilik tanah mereka ke pengadilan.
+settle | menyelesaikan (perselisihan) | Mereka menyelesaikan masalah tersebut tanpa pergi ke pengadilan.
+fair trial | persidangan yang adil | Setiap orang berhak atas persidangan yang adil, apa pun yang telah mereka lakukan.
+unfair | tidak adil | Banyak pekerja menganggap aturan baru itu sepenuhnya tidak adil.
+injustice | ketidakadilan | Film tersebut menunjukkan ketidakadilan yang diderita oleh keluarga-keluarga miskin.
+reach an agreement | mencapai kesepakatan | Setelah pembicaraan panjang, kedua belah pihak akhirnya mencapai kesepakatan.
+legal advice | nasihat hukum | Kamu bisa mendapatkan nasihat hukum gratis di balai kota pada hari Senin.
+rights and duties | hak dan kewajiban | Para penyewa harus mengetahui hak dan kewajiban mereka sebelum menandatangani.

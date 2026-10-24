@@ -1,0 +1,111 @@
+# UNIT: Teknologi | Perangkat lunak, keamanan, kecerdasan buatan, antariksa
+## Perangkat lunak dan keras
+hardware | perangkat keras | Program tersebut berjalan dengan baik, tetapi ada masalah pada perangkat kerasnya.
+operating system | sistem operasi | Laptop lama saya tidak dapat menjalankan sistem operasi terbaru.
+plug-in | pengaya, plugin | Anda perlu menambahkan pengaya gratis untuk memutar video di halaman ini.
+patch | tambalan (pembaruan) | Perusahaan merilis tambalan keamanan untuk gim tersebut semalam.
+user-friendly | ramah pengguna | Sistem pemesanan yang baru jauh lebih ramah pengguna daripada yang lama.
+interface | antarmuka | Nenek saya menyukai antarmuka yang sederhana pada ponsel barunya.
+open-source | sumber terbuka | Banyak universitas menggunakan program sumber terbuka karena gratis.
+source code | kode sumber | Para pengembang membagikan kode sumbernya agar siapa pun dapat meningkatkannya.
+app store | toko aplikasi | Anda dapat menemukan ribuan aplikasi bahasa di toko aplikasi.
+beta | versi beta, uji coba | Hanya beberapa ratus pengguna yang dapat mencoba versi beta sebelum peluncuran resmi.
+## Pemrograman
+code | kode | Omar menulis kode untuk seluruh toko online dalam waktu satu bulan.
+developer | pengembang | Anna bekerja sebagai pengembang aplikasi seluler untuk sebuah perusahaan kecil.
+coder | pemrogram, koder | Diego belajar sendiri menjadi seorang koder dengan menonton video gratis.
+programming language | bahasa pemrograman | Bahasa pemrograman manakah yang harus dipelajari oleh seorang pemula terlebih dahulu?
+debug | meninjau kode, mencari kutu | Butuh waktu sepanjang sore bagi Lukas untuk meninjau kode pada programnya.
+syntax | sintaksis | Satu tanda kurung yang hilang sudah cukup untuk menyebabkan kesalahan sintaksis.
+loop | perulangan, putaran | Program tersebut terjebak dalam perulangan dan tidak pernah berhenti.
+database | basis data, pangkalan data | Semua pesanan pelanggan disimpan di dalam basis data yang aman.
+server | peladen, server | Situs tersebut tidak aktif selama berjam-jam karena peladen berhenti bekerja.
+cloud storage | penyimpanan awan | Saya menyimpan semua foto saya di penyimpanan awan kalau-kalau saya kehilangan ponsel saya.
+## Keamanan siber
+cybersecurity | keamanan siber | Bank menghabiskan jutaan untuk keamanan siber setiap tahun.
+malware | perangkat lunak merusak, malware | Jangan buka lampiran itu; lampiran itu mungkin berisi malware.
+ransomware | perangkat pemeras, ransomware | Perangkat pemeras mengunci semua berkas, dan para penjahat meminta uang.
+firewall | dinding api, firewall | Dinding api perusahaan memblokir sebagian besar situs web yang mencurigakan.
+encrypt | mengenkripsi | Aplikasi tersebut mengenkripsi pesan Anda sehingga tidak ada orang lain yang dapat membacanya.
+phishing | pengelabuan, phishing | Pesan yang meminta rincian bank Anda itu adalah upaya pengelabuan.
+two-factor authentication | autentikasi dua faktor | Aktifkan autentikasi dua faktor untuk membuat akun Anda jauh lebih aman.
+cyberattack | serangan siber | Serangan siber melumpuhkan sistem komputer rumah sakit selama dua hari.
+hack into | meretas | Seseorang mencoba meretas akun surel saya semalam.
+data breach | pelanggaran data | Setelah pelanggaran data, semua pengguna diminta untuk mengubah kata sandi mereka.
+## Kecerdasan buatan
+artificial intelligence | kecerdasan buatan | Kecerdasan buatan mengubah cara dokter mendiagnosis penyakit.
+robot | robot | Di pabrik ini, robot melakukan sebagian besar pekerjaan berat.
+machine learning | pembelajaran mesin | Pembelajaran mesin membantu aplikasi mengenali tulisan tangan Anda.
+automate | mengotomatiskan | Kami mengotomatiskan proses penagihan, dan itu menghemat waktu kami setiap minggu.
+chatbot | bot obrolan | Bot obrolan bank menjawab pertanyaan saya dalam beberapa detik.
+voice assistant | asisten suara | Saya meminta asisten suara saya untuk mengatur pengatur waktu ketika saya sedang memasak.
+predict | memprediksi | Program dapat memprediksi produk mana yang akan dibeli pelanggan selanjutnya.
+facial recognition | pengenalan wajah | Beberapa bandar udara menggunakan pengenalan wajah alih-alih memeriksa paspor secara manual.
+neural network | jaringan saraf tiruan | Jaringan saraf tiruan belajar dengan melihat jutaan contoh.
+generate | menghasilkan, membuat | Alat ini dapat menghasilkan ringkasan singkat dari artikel panjang apa pun.
+## Internet dan jaringan
+network | jaringan | Semua komputer di kantor terhubung ke satu jaringan.
+router | perute, router | Jika internet berhenti bekerja, cobalah mematikan dan menyalakan perute.
+hotspot | titik akses, hosspot | Saya menggunakan ponsel saya sebagai titik akses untuk bekerja di kereta.
+bandwidth | lebar pita, bandwidth | Panggilan video menggunakan banyak lebar pita, sehingga koneksinya menjadi lambat.
+broadband | pita lebar, broadband | Internet pita lebar cepat masih belum tersedia di beberapa daerah pedesaan.
+cache | tembolok, cache | Bersihkan tembolok jika halaman tersebut masih menampilkan informasi lama.
+pop-up | jendela pop-up | Jendela pop-up yang mengganggu terus muncul setiap kali saya mengunjungi halaman ini.
+hyperlink | tautan, pranala | Klik pada tautan di bagian bawah surel untuk mengonfirmasi.
+buffer | memuat lambat | Film tersebut terus memuat lambat karena koneksinya sangat lambat.
+backup | cadangan | Selalu buat cadangan pekerjaan Anda sebelum Anda mengubah pengaturan.
+## Perangkat
+battery life | daya tahan baterai | Daya tahan baterai ponsel ini sekitar dua hari.
+wearable | perangkat kenakan, sandangan | Perangkat kenakan dapat melacak detak jantung Anda saat Anda tidur.
+headset | perangkat headset, set kepala | Silakan gunakan headset selama pelajaran online untuk mengurangi kebisingan.
+sensor | sensor | Sensor menyalakan lampu ketika seseorang memasuki ruangan.
+processor | prosesor | Model baru ini memiliki prosesor yang lebih cepat dan kamera yang lebih baik.
+memory card | kartu memori | Kartu memori kamera saya penuh dengan foto liburan.
+smart speaker | pengeras suara cerdas | Kami meminta pengeras suara cerdas di dapur untuk memutar berita.
+earbuds | earbud, fon telinga | Yuki selalu mendengarkan siniar melalui earbud-nya di dalam bus.
+stylus | pena digital, stilus | Seniman sering menggambar di tablet dengan pena digital khusus.
+trackpad | papan sentuh, trackpad | Saya lebih suka menggunakan tetikus karena papan sentuhnya terlalu sensitif.
+## Antariksa
+astronaut | astronaut, angkasawan | Astronaut tersebut menghabiskan waktu enam bulan tinggal di stasiun luar angkasa.
+spacecraft | pesawat ruang angkasa | Pesawat ruang angkasa akan mencapai Mars dalam waktu sekitar tujuh bulan.
+rocket | roket | Ribuan orang menyaksikan roket naik ke langit dari pantai.
+satellite | satelit | Satelit cuaca mengirimi kami gambar awan yang baru setiap jam.
+planet | planet | Jupiter adalah planet terbesar di tata surya kita.
+space station | stasiun luar angkasa | Anda terkadang dapat melihat stasiun luar angkasa dari Bumi dengan mata kepala sendiri.
+lift-off | peluncuran, lepas landas | Peluncuran tertunda selama dua jam karena angin kencang.
+countdown | hitung mundur | Seluruh penonton ikut serta dalam hitung mundur sebelum peluncuran.
+launch pad | landasan peluncuran | Roket tersebut berdiri di landasan peluncuran selama tiga hari sebelum lepas landas.
+mission control | pusat kendali misi | Pusat kendali misi kehilangan kontak dengan pesawat ruang angkasa selama beberapa menit.
+## Penjelajahan antariksa
+universe | alam semesta | Para ilmuwan percaya alam semesta berusia sekitar empat belas miliar tahun.
+solar system | tata surya | Ada delapan planet di tata surya kita.
+mission | misi | Misi untuk mengumpulkan batuan dari asteroid tersebut sangat sukses.
+asteroid | asteroid | Sebuah asteroid kecil lewat dengan aman di antara Bumi dan Bulan.
+black hole | lubang hitam | Bahkan cahaya pun tidak dapat lolos dari lubang hitam.
+spacewalk | jalan di luar angkasa | Kedua astronaut memperbaiki panel surya selama jalan di luar angkasa selama enam jam.
+lunar | bulan (terkait) | Permukaan bulan ditutup dengan debu abu-abu yang halus.
+crater | kawah | Kawah besar tersebut terbentuk oleh batu yang jatuh jutaan tahun yang lalu.
+rover | penjelajah, robot penjelajah | Penjelajah tersebut telah mengirimkan foto-foto dari Mars selama bertahun-tahun.
+exoplanet | eksoplanet, planet luar surya | Para astronom telah menemukan eksoplanet yang mungkin memiliki air.
+## Kata kerja teknologi
+innovate | berinovasi | Perusahaan kecil sering kali berinovasi lebih cepat daripada perusahaan besar.
+revolutionise | mengubah secara drastis, merevolusi | Ponsel pintar merevolusi cara kita mengambil dan membagikan foto.
+troubleshoot | memecahkan masalah | Insinyur tersebut menghabiskan sepanjang pagi untuk memecahkan masalah pada jaringan.
+configure | mengonfigurasi | Anda harus mengonfigurasi pencetak sebelum Anda dapat menggunakannya.
+access | mengakses | Anda dapat mengakses berkas Anda dari komputer mana pun yang terhubung ke internet.
+sync | menyinkronkan | Ponsel saya menyinkronkan kalender saya dengan laptop saya secara otomatis.
+reboot | memulai ulang, but ulang | Jika komputer membeku lagi, mulai ulang saja.
+customise | menyesuaikan, kustomisasi | Anda dapat menyesuaikan aplikasi dengan warna dan suara Anda sendiri.
+digitise | mendigitalkan | Perpustakaan sedang mendigitalkan semua peta dan surat lamanya.
+malfunction | mengalami malfungsi, rusak | Alarm tersebut mengalami malfungsi dan berbunyi di tengah malam.
+## Teknologi dan masyarakat
+state-of-the-art | canggih, mutakhir | Rumah sakit baru tersebut penuh dengan peralatan medis yang mutakhir.
+obsolete | usang, ketinggalan zaman | Mesin faks menjadi usang di sebagian besar kantor bertahun-tahun yang lalu.
+virtual reality | kenyataan maya, realitas virtual | Dengan realitas virtual, para siswa dapat berjalan-jalan di kota kuno.
+augmented reality | realitas tertambah | Aplikasi ini menggunakan realitas tertambah untuk menampilkan furnitur di kamar Anda.
+tech-savvy | melek teknologi | Keponakan saya yang melek teknologi menyiapkan ponsel baru saya dalam lima menit.
+surveillance | pengawasan | Ada kamera pengawas di hampir setiap sudut kota.
+internet of things | internet segalanya | Berkat internet segalanya, kulkas saya dapat memesan susu sendiri.
+smart home | rumah pintar | Di rumah pintar, Anda dapat mengontrol pemanas dengan ponsel Anda.
+digital detox | detoks digital | Camille melakukan detoks digital selama seminggu di pegunungan.
+deepfake | deepfake, video palsu AI | Video palsu AI tersebut terlihat sangat nyata sehingga banyak orang mempercayainya.
