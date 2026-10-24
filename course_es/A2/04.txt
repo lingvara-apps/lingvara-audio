@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
+## Uçuş ve Havalimanı
+facturar | bagaj teslim etmek | fiil | Debemos facturar las maletas ahora. | Şimdi bagajları teslim etmeliyiz.
+la tarjeta de embarque | biniş kartı | isim (d) | Muestre su tarjeta de embarque en la puerta. | Kapıda biniş kartınızı gösterin.
+el control de seguridad | güvenlik kontrolü | isim (e) | El control de seguridad está muy concurrido hoy. | Güvenlik kontrolü bugün çok kalabalık.
+la aduana | gümrük | isim (d) | Pasamos por la aduana sin problemas. | Gümrükten sorunsuz geçtik.
+el mostrador | gişe, banko | isim (e) | Pregunte en el mostrador de información. | Danışma gişesinde sorun.
+la compañía aérea | havayolu şirketi | isim (d) | Nuestra compañía aérea cambió la hora del vuelo. | Havayolu şirketimiz uçuş saatini değiştirdi.
+la puerta de embarque | biniş kapısı | isim (d) | El vuelo sale desde la puerta de embarque tres. | Uçuş üç numaralı biniş kapısından kalkıyor.
+el asiento de ventanilla | pencere kenarı koltuğu | isim (e) | Prefiero un asiento de ventanilla para ver el paisaje. | Manzarayı görmek için pencere kenarı koltuğunu tercih ederim.
+perder el vuelo | uçuşu kaçırmak | ifade | No quiero perder el vuelo de la mañana. | Sabah uçuşunu kaçırmak istemiyorum.
+la escala | aktarma, ara duruş | isim (d) | Tenemos una escala larga en Madrid. | Madrid'de uzun bir aktarmamız var.
+## Tren ve Otobüs Seyahati
+el andén de pasajeros | peron, platform | isim (e) | El tren rápido espera en el andén de pasajeros cinco. | Hızlı tren beşinci peronda bekliyor.
+el revisor | bilet kontrolörü, kondüktör | isim (e) | El revisor pide los billetes a los pasajeros. | Kondüktör yolculardan biletleri istiyor.
+la estación de autobuses | otobüs terminali | isim (d) | La estación de autobuses queda lejos del centro. | Otobüs terminali merkezden uzakta kalıyor.
+el vagon | vagon | isim (e) | Nuestro asiento está en el tercer vagon. | Koltuğumuz üçüncü vagonda.
+perder el tren | treni kaçırmak | ifade | Corre o vamos a perder el tren. | Koş yoksa treni kaçıracağız.
+el carril | şerit, yol | isim (e) | El autobús circula por su carril exclusivo. | Otobüs kendi özel şeridinde ilerliyor.
+el trayecto | güzergah, yolculuk | isim (e) | El trayecto en tren dura dos horas. | Tren yolculuğu iki saat sürüyor.
+el horario de salidas | kalkış tarifesi | isim (e) | Consulte el horario de salidas en la pantalla digital. | Dijital ekrandaki kalkış tarifesini kontrol edin.
+el billete sencillo | tek yön bilet | isim (e) | Compraré un billete sencillo para Valencia. | Valencia için tek yön bilet alacağım.
+la ventanilla de billetes | bilet gişesi | isim (d) | Hay una cola larga en la ventanilla de billetes. | Bilet gişesinde uzun bir kuyruk var.
+## Otel ve Konaklama
+la llave magnética | manyetik anahtar | isim (d) | Aquí tiene la llave magnética de su habitación. | İşte odanızın manyetik anahtarı.
+la recepción | resepsiyon | isim (d) | Deje las llaves en la recepción antes de salir. | Çıkmadan önce anahtarları resepsiyona bırakın.
+la planta baja | zemin kat | isim (d) | Nuestra habitación está en la planta baja. | Odamız zemin katta.
+el servicio de habitaciones | oda servisi | isim (e) | Pedimos cena mediante el servicio de habitaciones. | Oda servisi aracılığıyla akşam yemeği söyledik.
+el albergue | pansiyon, hostel | isim (e) | Los jóvenes prefieren alojarse en un albergue barato. | Gençler ucuz bir pansiyonda kalmayı tercih ediyor.
+la estancia | konaklama, kalış | isim (d) | Disfrutamos mucho nuestra estancia en el hotel. | Oteldeki konaklamamızdan çok keyif aldık.
+la propina al botones | bellboy bahşişi | isim (d) | Di una pequeña propina al botones por las maletas. | Valizler için bellboya küçük bir bahşiş verdim.
+el balcón con vistas | manzaralı balkon | isim (e) | Cenamos en el balcón con vistas al mar. | Deniz manzaralı balkonda akşam yemeği yedik.
+el cambio de divisas | döviz bozdurma | isim (e) | El hotel ofrece servicio de cambio de divisas. | Otel döviz bozdurma hizmeti sunuyor.
+la salida del hotel | otelden çıkış | isim (d) | La hora límite para la salida del hotel es las doce. | Otelden çıkış için son saat on iki.
+## Gezi ve Keşif
+la excursión guiada | rehberli gezi | isim (d) | Contratamos una excursión guiada por la ciudad vieja. | Eski şehirde rehberli bir gezi ayarladık.
+el folleto turístico | turistik broşür | isim (e) | Leí toda la información en el folleto turístico. | Tüm bilgileri turistik broşürde okudum.
+el monumento histórico | tarihi anıt | isim (e) | Visitamos un importante monumento histórico ayer. | Dün önemli bir tarihi anıtı ziyaret ettik.
+el plano de la ciudad | şehir haritası | isim (e) | Un plano de la ciudad ayuda mucho a los viajeros. | Bir şehir haritası gezginlere çok yardımcı olur.
+la catedral principal | ana katedral | isim (d) | La catedral principal impresiona por su tamaño. | Ana katedral büyüklüğüyle etkiliyor.
+el barrio antiguo | eski mahalle | isim (e) | Caminamos por las callejuelas del barrio antiguo. | Eski mahallenin dar sokaklarında yürüdük.
+el mirador panorámico | panoramik seyir terası | isim (e) | Desde el mirador panorámico se ve todo el valle. | Panoramik seyir terasından bütün vadi görünüyor.
+la oficina de información | danışma bürosu | isim (d) | Preguntamos por los museos en la oficina de información. | Danışma bürosunda müzeleri sorduk.
+la zona peatonal | yaya bölgesi | isim (d) | Esta bonita calle pertenece a la zona peatonal. | Bu güzel sokak yaya bölgesine ait.
+el recuerdo artesanal | el yapımı hatıra eşyası | isim (e) | Compré un bonito recuerdo artesanal para mi madre. | Annem için güzel bir el yapımı hatıra eşyası aldım.
+## Belgeler ve Para
+el documento de identidad | kimlik belgesi | isim (e) | Lleve siempre su documento de identidad encima. | Kimlik belgenizi her zaman yanınızda taşıyın.
+el visado de entrada | giriş vizesi | isim (e) | Necesitamos tramitar el visado de entrada con tiempo. | Giriş vizesini zamanında çıkarmamız gerekiyor.
+la tarjeta de crédito | kredi kartı | isim (d) | ¿Puedo pagar esta cuenta con tarjeta de crédito? | Bu hesabı kredi kartıyla ödeyebilir miyim?
+el seguro médico | sağlık sigortası | isim (e) | Es obligatorio viajar con un seguro médico internacional. | Uluslararası bir sağlık sigortasıyla seyahat etmek zorunludur.
+el cajero automático | ATM, para çekme makinesi | isim (e) | Necesito buscar un cajero automático cercano. | Yakınlarda bir ATM bulmam gerekiyor.
+la moneda local | yerel para birimi | isim (e) | Es útil tener algo de moneda local en efectivo. | Biraz nakit yerel para birimine sahip olmak faydalıdır.
+el impreso oficial | resmi form | isim (e) | Rellenamos un impreso oficial en la frontera. | Sınırda resmi bir form doldurduk.
+la fotocopia compulsada | onaylı fotokopi | isim (d) | Presenté una fotocopia compulsada del pasaporte. | Pasaportun onaylı bir fotokopisini sundum.
+el carné de conducir | ehliyet, sürücü belgesi | isim (e) | Alquilamos un coche mostrando el carné de conducir. | Ehliyeti göstererek bir araba kiraladık.
+la factura detallada | ayrıntılı fatura | isim (d) | Pedí la factura detallada de todos los gastos. | Tüm masrafların ayrıntılı faturasını istedim.
+## Yolculuk Sorunları
+el retraso del vuelo | uçuş gecikmesi | isim (e) | El retraso del vuelo nos obligó a esperar horas. | Uçuşun gecikmesi saatlerce beklememize neden oldu.
+la huelga de transportes | toplu taşıma grevi | isim (d) | La huelga de transportes complicó nuestros planes. | Toplu taşıma grevi planlarımızı zorlaştırdı.
+la pérdida de equipaje | bagaj kaybı | isim (d) | Reclamé la pérdida de equipaje en el mostrador especial. | Özel gişede bagaj kaybı talebinde bulundum.
+el billete caducado | süresi dolmuş bilet | isim (e) | No puedes viajar con un billete caducado. | Süresi dolmuş bir biletle seyahat edemezsin.
+la cancelación imprevista | beklenmedik iptal | isim (d) | Hubo una cancelación imprevista debido al temporal. | Fırtına nedeniyle beklenmedik bir iptal oldu.
+la avería técnica | teknik arıza | isim (e) | Una avería técnica detuvo el tren en la vía. | Teknik bir arıza treni yolda durdurdu.
+la multa por exceso | aşırı hız cezası | isim (d) | Pagamos una multa por exceso de velocidad al conducir. | Araç sürerken aşırı hıstan ceza ödedik.
+el despiste con la hora | saat yanılgısı | isim (e) | Un despiste con la hora casi nos hace perder el barco. | Saatle ilgili bir yanılgı neredeyse vapuru kaçırmamıza neden oluyordu.
+el robo de cartera | cüzdan hırsızlığı | isim (e) | Denuncié el robo de cartera en la comisaría local. | Yerel karakolda cüzdan hırsızlığını ihbar ettim.
+el mal tiempo | kötü hava koşulları | isim (e) | El mal tiempo suspendió todas las salidas marítimas. | Kötü hava koşulları tüm deniz seferlerini iptal etti.
+## Araç Kiralama
+el coche de alquiler | kiralık araba | isim (e) | Recogimos el coche de alquiler en el aeropuerto. | Kiralık arabayı havaalanından teslim aldık.
+el depósito de gasolina | benzin deposu | isim (e) | Llenamos el depósito de gasolina antes de devolverlo. | İade etmeden önce benzin deposunu doldurduk.
+la tarifa diaria | günlük tarife | isim (d) | La tarifa diaria incluye el seguro básico completo. | Günlük tarife tam temel sigortayı içeriyor.
+el GPS integrado | entegre GPS | isim (e) | El coche nuevo cuenta con un GPS integrado muy útil. | Yeni arabada çok faydalı entegre bir GPS bulunuyor.
+la sillita infantil | çocuk koltuğu | isim (d) | Pedimos una sillita infantil para nuestro hijo pequeño. | Küçük oğlumuz için bir çocuk koltuğu istedik.
+el kilometraje ilimitado | sınırsız kilometre | isim (e) | Elegimos la opción de kilometraje ilimitado. | Sınırsız kilometre seçeneğini tercih ettik.
+la franquicia del seguro | sigorta muafiyeti | isim (d) | Leímos las condiciones sobre la franquicia del seguro. | Sigorta muafiyeti hakkındaki koşulları okuduk.
+el carné internacional | uluslararası ehliyet | isim (e) | Presenté mi carné internacional para conducir fuera. | Yurtdışında araba sürmek için uluslararası ehliyetimi sundum.
+la devolución tardía | geç iade | isim (d) | Cobran un recargo por la devolución tardía del vehículo. | Aracın geç iadesi için ek ücret alıyorlar.
+el parte de accidente | kaza tutanağı | isim (e) | Firmamos el parte de accidente tras el pequeño golpe. | Küçük çarpışmadan sonra kaza tutanağını imzaladık.
+## Yön ve Ulaşım Araçları
+el cruce de caminos | yol ayrımı, kavşak | isim (e) | Giremos a la derecha en el siguiente cruce de caminos. | Sonraki yol ayrımında sağa dönelim.
+la rotonda principal | ana dönel kavşak | isim (d) | Tome la segunda salida en la rotonda principal. | Ana dönel kavşaktaki ikinci çıkışı alın.
+el puente colgante | asma köprü | isim (e) | Cruzamos el río por un impresionante puente colgante. | Nehri etkileyici bir asma köprüden geçtik.
+el túnel oscuro | karanlık tünel | isim (e) | El tren atravesó un túnel oscuro durante varios minutos. | Tren birkaç dakika boyunca karanlık bir tünelden geçti.
+la señal de tráfico | trafik işareti | isim (d) | Conviene prestar atención a cada señal de tráfico. | Her trafik işaretine dikkat etmekte fayda var.
+el carril bici | bisiklet yolu | isim (e) | Hay un carril bici seguro junto a la gran avenida. | Büyük bulvarın yanında güvenli bir bisiklet yolu var.
+el peaje de la autopista | otoyol gişesi | isim (e) | Pagamos el peaje de la autopista con tarjeta. | Otoyol gişesi ücretini kartla ödedik.
+el desvío provisional | geçici sapak, güzergah değişikliği | isim (e) | Las obras obligan a tomar un desvío provisional. | Çalışmalar geçici bir güzergah değişikliği yapmayı zorunlu kılıyor.
+la parada facultativa | isteğe bağlı durak | isim (d) | Este autobús solo para en la parada facultativa si avisas. | Bu otobüs sadece haber verirsen isteğe bağlı durakta durur.
+el semáforo en rojo | kırmızı ışık | isim (e) | Nos detuvimos al ver el semáforo en rojo. | Kırmızı ışığı görünce durduk.
+## Doğa Gezileri ve Kamp
+la zona de acampada | çadır alanı | isim (d) | Montamos nuestra zona de acampada cerca del río. | Çadır kurma alanımızı nehrin yakınında kurduk.
+el saco de dormir | uyku tulumu | isim (e) | Por la noche refresca, usa un buen saco de dormir. | Gece serinliyor, iyi bir uyku tulumu kullan.
+la mochila de montaña | dağ sırt çantası | isim (d) | Llevo agua y comida en mi mochila de montaña. | Dağ sırt çantamda su ve yemek taşıyorum.
+la cantimplora | matara | isim (d) | Llené la cantimplora con agua fresca de la fuente. | Matarayı çeşmeden taze suyla doldurdum.
+la linterna frontal | kafa lambası | isim (e) | Necesitamos una linterna frontal para caminar de noche. | Gece yürümek için kafa lambasına ihtiyacımız var.
+la brújula magnética | pusula | isim (d) | Comprobamos la ruta correcta con la brújula magnética. | Pusula ile doğru rotayı kontrol ettik.
+el bastón de trekking | trekking sopası | isim (e) | El bastón de trekking ayuda en las subidas pronunciadas. | Trekking sopası dik yokuşlarda yardımcı olur.
+la navaja multiusos | çok amaçlı çakı | isim (d) | Una navaja multiusos siempre resulta útil en el campo. | Çok amaçlı çakı kırsalda her zaman işe yarar.
+el repelente de insectos | böcek kovucu | isim (e) | Aplícate repelente de insectos antes de entrar al bosque. | Ormana girmeden önce böcek kovucu sür.
+la estufa portátil | taşınabilir kamp ocak | isim (d) | Cocinamos algo caliente con la estufa portátil. | Taşınabilir kamp ocakla sıcak bir şeyler pişirdik.
+## Yolculuk Anıları ve Hikayeler
+el diario de viaje | seyahat günlüğü | isim (e) | Escribo mis impresiones diarias en el diario de viaje. | Günlük izlenimlerimi seyahat günlüğüne yazıyorum.
+la postal postal | kartpostal | isim (d) | Compré una bonita postal para enviar a mis abuelos. | Büyük anne ve babama göndermek için güzel bir kartpostal aldım.
+la cámara réflex | profesyonel fotoğraf makinesi | isim (d) | Saqué fotos preciosas con mi cámara réflex. | Profesyonel fotoğraf makinemle harika fotoğraflar çektim.
+el mapa desplegable | katlanabilir harita | isim (e) | Abrimos el mapa desplegable sobre la mesa del café. | Katlanabilir haritayı kahve masasının üzerine açtık.
+el vídeo casero | ev videosu | isim (e) | Grabamos un divertido vídeo casero durante el viaje. | Gezi sırasında eğlenceli bir ev videosu kaydettik.
+la anécdota divertida | eğlenceli anı | isim (d) | Contó una anécdota divertida sobre el tren perdido. | Kaçırılan tren hakkında eğlenceli bir anı anlattı.
+el sello en el pasaporte | pasaporttaki damga | isim (e) | Colecciono cada sello en el pasaporte como un trofeo. | Pasaporttaki her damgayı bir kupa gibi topluyorum.
+la sonrisa amable | güler yüzlü gülümseme | isim (d) | Una sonrisa amable abre muchas puertas al viajar. | Güler yüzlü bir gülümseme seyahat ederken birçok kapı açar.
+el momento inolvidable | unutulmaz an | isim (e) | Ver la puesta de sol fue un momento inolvidable. | Gün batımını izlemek unutulmaz bir andı.
+la costumbre local | yerel gelenek | isim (d) | Aprendí mucho sobre la costumbre local del pueblo. | Köyün yerel geleneği hakkında çok şey öğrendim.

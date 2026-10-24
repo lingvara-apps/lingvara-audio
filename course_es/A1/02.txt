@@ -1,0 +1,111 @@
+# UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
+## Aile bireyleri
+el padre (los padres) | baba (anne babalar) | isim (e) | Mi padre trabaja en el hospital. | Babam hastanede çalışıyor.
+la madre | anne | isim (d) | La madre de Sofia cocina muy bien. | Sofia'nın annesi çok iyi yemek yapıyor.
+el hermano (los hermanos) | erkek kardeş (kardeşler) | isim (e) | Tengo un hermano menor. | Küçük bir erkek kardeşim var.
+la hermana | kız kardeş | isim (d) | Su hermana estudia medicina. | Kız kardeşi tıp okuyor.
+el hijo | oğul | isim (e) | Su hijo juega en el parque. | Oğlu parkta oynuyor.
+la hija | kız evlat | isim (d) | Su hija lee un libro. | Kızı bir kitap okuyor.
+el abuelo | büyükbaba, dede | isim (e) | El abuelo cuenta una historia. | Büyükbaba bir hikaye anlatıyor.
+la abuela | büyükanne, nine | isim (d) | La abuela prepara el desayuno. | Büyükanne kahvaltı hazırlıyor.
+el tío | amca, dayı | isim (e) | Mi tío vive en otra ciudad. | Amcam başka bir şehirde yaşıyor.
+la tía | hala, teyze | isim (d) | La tía compra verdura fresca. | Hala taze sebze alıyor.
+## Geniş aile ve akrabalar
+el primo | kuzen (erkek) | isim (e) | Mi primo practica deporte. | Kuzenim spor yapıyor.
+la prima | kuzen (kadın) | isim (d) | Su prima canta en el coro. | Kuzeni koroda şarkı söylüyor.
+el nieto | torun (erkek) | isim (e) | El abuelo abraza a su nieto. | Dede torununa sarılıyor.
+la nieta | torun (kadın) | isim (d) | La nieta ayuda en casa. | Torun evde yardım ediyor.
+el sobrino | yeğen (erkek) | isim (e) | El sobrino dibuja un animal. | Yeğen bir hayvan resmi çiziyor.
+la sobrina | yeğen (kadın) | isim (d) | La sobrina come una manzana. | Yeğen bir elma yiyor.
+el esposo | eş, koca | isim (e) | Su esposo trabaja hoy. | Eşi bugün çalışıyor.
+la esposa | eş, karı | isim (d) | Su esposa lee el periódico. | Eşi gazeteyi okuyor.
+el pariente | akraba | isim (e) | Muchos parientes vienen a la fiesta. | Birçok akraba partiye geliyor.
+la familia | aile | isim (d) | Nuestra familia es muy grande. | Ailemiz çok büyük.
+## Meslekler 1
+el médico | doktor (erkek) | isim (e) | El médico ayuda a los enfermos. | Doktor hastara yardım ediyor.
+la médica | doktor (kadın) | isim (d) | La médica atiende a los pacientes. | Kadın doktor hastalarla ilgileniyor.
+el profesor | öğretmen (erkek) | isim (e) | El profesor explica la lección. | Öğretmen dersi açıklıyor.
+la profesora | öğretmen (kadın) | isim (d) | La profesora escribe en la pizarra. | Kadın öğretmen tahtaya yazıyor.
+el estudiante | öğrenci (erkek) | isim (e) | El estudiante lee un texto. | Öğrenci bir metin okuyor.
+la estudiante | öğrenci (kadın) | isim (d) | La estudiante aprende vocabulario. | Öğrenci kelime öğreniyor.
+el ingeniero | mühendis (erkek) | isim (e) | El ingeniero diseña un puente. | Mühendis bir köprü tasarlıyor.
+la ingeniera | mühendis (kadın) | isim (d) | La ingeniera revisa el plano. | Kadın mühendis planı inceliyor.
+el abogado | avukat (erkek) | isim (e) | El abogado habla con su cliente. | Avukat müvekkiliyle konuşuyor.
+la abogada | avukat (kadın) | isim (d) | La abogada prepara un documento. | Kadın avukat bir belge hazırlıyor.
+## Meslekler 2
+el artista | sanatçı (erkek) | isim (e) | El artista pinta un cuadro hermoso. | Sanatçı güzel bir tablo boyuyor.
+la artista | sanatçı (kadın) | isim (d) | La artista expone su obra. | Kadın sanatçı eserini sergiliyor.
+el escritor | yazar (erkek) | isim (e) | El escritor escribe una novela nueva. | Yazar yeni bir roman yazıyor.
+la escritora | yazar (kadın) | isim (d) | La escritora firma un libro. | Kadın yazar bir kitap imzalıyor.
+el periodista | gazeteci (erkek) | isim (e) | El periodista hace una entrevista. | Gazeteci bir röportaj yapıyor.
+la periodista | gazeteci (kadın) | isim (d) | La periodista busca información. | Kadın gazeteci bilgi arıyor.
+el cocinero | aşçı (erkek) | isim (e) | El cocinero prepara la cena. | Aşçı akşam yemeğini hazırlıyor.
+la cocinera | aşçı (kadın) | isim (d) | La cocinera prueba la salsa. | Kadın aşçı sosu tadıyor.
+el trabajador | işçi (erkek) | isim (e) | El trabajador arregla la puerta rota. | İşçi kırık kapıyı tamir ediyor.
+la trabajadora | işçi (kadın) | isim (d) | La trabajadora organiza los documentos. | Kadın işçi belgeleri düzenliyor.
+## Kişilik ve karakter 1
+simpático | sempatik, sevimli | sıfat | Su amigo es muy simpático. | Arkadaşı çok sempatik.
+antipático | itici, sevimsiz | sıfat | Nadie quiere hablar con un hombre antipático. | Kimse sevimsiz bir adamla konuşmak istemiyor.
+alegre | neşeli, mutlu | sıfat | La niña alegre canta una canción. | Neşeli kız bir şarkı söylüyor.
+triste | üzgün | sıfat | El niño está triste hoy. | Çocuk bugün üzgün.
+inteligente | zeki, akıllı | sıfat | Es una estudiante muy inteligente. | O çok zeki bir öğrenci.
+tonto | aptal, salak | sıfat | No digas cosas sin sentido ni tontas. | Anlamsız ve aptalca şeyler söyleme.
+amable | nazik, kibar | sıfat | El camarero es muy amable. | Garson çok nazik.
+serio | ciddi | sıfat | El profesor serio entra en la clase. | Ciddi öğretmen sınıfa giriyor.
+tranquilo | sakin | sıfat | Vivimos en un pueblo tranquilo. | Sakin bir köyde yaşıyoruz.
+nervioso | sinirli, gergin | sıfat | Estoy un poco nervioso antes del examen. | Sınavdan önce biraz gerginim.
+## Kişilik ve karakter 2
+generoso | cömert | sıfat | Su tío generoso ayuda a todos. | Cömert amcası herkese yardım ediyor.
+egoísta | bencil | sıfat | Una persona egoísta no comparte nada. | Bencil bir insan hiçbir şeyi paylaşmaz.
+honesto | dürüst | sıfat | El trabajador honesto dice la verdad. | Dürüst işçi doğruyu söylüyor.
+valiente | cesur | sıfat | El bombero valiente entra en la casa. | Cesur itfaiyeci eve giriyor.
+perezoso | tembel | sıfat | El gato perezoso duerme todo el día. | Tembel kedi bütün gün uyuyor.
+estudioso | çalışkan, dersine düşkün | sıfat | Mi hermana es una persona muy estudiosa. | Kız kardeşim dersine çok düşkün bir insan.
+curioso | meraklı | sıfat | El niño curioso hace muchas preguntas. | Meraklı çocuk çok soru soruyor.
+sociable | sosyal, arkadaş canlısı | sıfat | Ella es muy sociable y tiene muchos amigos. | O çok sosyal ve birçok arkadaşı var.
+timido | utangaç | sıfat | El chico tímido habla muy bajito. | Utangaç çocuk çok alçak sesle konuşuyor.
+amiguero | arkadaşa düşkün, cana yakın | sıfat | Su hermano amiguero conoce a todo el barrio. | Cana yakın kardeşi bütün mahalleyi tanıyor.
+## Fiziksel özellikler
+alto | uzun boylu | sıfat | Su padre es un hombre muy alto. | Babası çok uzun boylu bir adam.
+bajo | kısa boylu | sıfat | El hermano menor es bastante bajo. | Küçük erkek kardeş oldukça kısa boylu.
+gordo | şişman | sıfat | El perro come mucho y está gordo. | Köpek çok yemek yiyor ve şişman.
+delaco | zayıf | sıfat | El gato camina con paso ligero y está delgado. | Kedi hafif adımlarla yürür ve zayıftır.
+joven | genç | sıfat | Trabaja con un grupo de gente joven. | Genç insanlardan oluşan bir grup ile çalışıyor.
+viejo | yaşlı, eski | sıfat | El viejo reloj de la pared suena fuerte. | Duvardaki eski saat yüksek sesle çalıyor.
+guapo | yakışıklı, güzel | sıfat | El actor principal es muy guapo. | Başrol oyuncusu çok yakışıklı.
+feo | çirkin | sıfat | No hay personas feas, solo diferentes gustos. | Çirkin insan yoktur, sadece farklı zevkler vardır.
+moreno | esmer | sıfat | La chica morena tiene ojos oscuros. | Esmer kızın koyu renk gözleri var.
+rubio | sarışın | sıfat | El niño rubio juega con la pelota. | Sarışın çocuk top ile oynuyor.
+## Duygular ve durumlar
+cansado | yorgun | sıfat | Vengo muy cansado del trabajo. | İşten çok yorgun geliyorum.
+malhumorado | huysuz, öfkeli | sıfat | Mi amigo está malhumorado y descansa. | Arkadaşım huysuz ve dinleniyor.
+ocupado | meşgul | sıfat | Hoy estoy muy ocupado con los informes. | Bugün raporlarla çok meşgulüm.
+libre | özgür, boş | sıfat | ¿Estás libre esta tarde? | Bu öğleden sonra boş musun?
+contento | memnun, mutlu | sıfat | Estoy contento con mi nuevo trabajo. | Yeni işimden memnunum.
+enojado | kızgın, öfkeli | sıfat | El jefe está enojado por el retraso. | Patron gecikmeden dolayı kızgın.
+sorprendido | şaşırmış | sıfat | Quedó sorprendido con la noticia. | Haber karşısında şaşırmış kaldı.
+preocupado | endişeli | sıfat | Mamá está preocupada por el examen. | Anne sınav konusunda endişeli.
+seguro | emin, güvenli | sıfat | Estoy seguro de mi respuesta. | Cevabımdan eminim.
+diferente | farklı | sıfat | Cada persona tiene una opinión diferente. | Her insanın farklı bir fikri var.
+## Yaş ve hayat evreleri
+el bebé | bebek | isim (e) | El bebé duerme en su cuna. | Bebek beşiğinde uyuyor.
+el niño | çocuk (erkek) | isim (e) | El niño corre por el jardín. | Çocuk bahçede koşuyor.
+la niña | kız çocuk | isim (d) | La niña dibuja una flor en el papel. | Kız çocuk kağıda bir çiçek çiziyor.
+el adolescente | ergen, genç | isim (e) | El adolescente escucha música moderna. | Ergen modern müzik dinliyor.
+el adulto | yetişkin | isim (e) | El adulto toma decisiones importantes. | Yetişkin önemli kararlar alıyor.
+la persona | kişi, insan | isim (d) | Cada persona tiene derechos y deberes. | Her insanın hak ve ödevleri vardır.
+la vida | hayat, yaşam | isim (d) | La vida en el campo es muy tranquila. | Kırsaldaki yaşam çok sakin.
+la infancia | çocukluk | isim (d) | Recuerda con alegría su infancia. | Çocukluğunu neşeyle hatırlıyor.
+la juventud | gençlik | isim (d) | La juventud tiene mucha energía. | Gençliğin çok enerjisi var.
+la vejez | yaşlılık | isim (d) | Los abuelos disfrutan de su vejez. | Dede ve nineler yaşlılıklarının tadını çıkarıyor.
+## Aile ilişkileri ve ev hayatı
+el pariente cercano | yakın akraba | isim (e) | El pariente cercano visita nuestra casa. | Yakın akraba evimizi ziyaret ediyor.
+la suegra | kaynana, kayınvalide | isim (d) | La suegra prepara un pastel dulce. | Kayınvalide tatlı bir kek hazırlıyor.
+el suegro | kayınpeder | isim (e) | El suegro lee el diario en el salón. | Kayınpeder salonda gazete okuyor.
+la nuera | gelin | isim (d) | La nuera ayuda a poner la mesa. | Gelin sofrayı kurmaya yardım ediyor.
+el yerno | damat | isim (e) | El yerno lava los platos después de cenar. | Damat akşam yemeğinden sonra bulaşıkları yıkıyor.
+el cuñado | kayınbirader, enişte | isim (e) | El cuñado trabaja en una oficina grande. | Kayınbirader büyük bir ofiste çalışıyor.
+la cuñada | görümce, baldız, yenge | isim (d) | La cuñada compra flores para el jardín. | Baldız bahçe için çiçek satın alıyor.
+el padrino | vaftiz babası, sağdıç | isim (e) | El padrino felicita al novio. | Vaftiz babası damadı tebrik ediyor.
+la madrina | vaftiz annesi | isim (d) | La madrina sostiene al bebé en brazos. | Vaftiz annesi bebeği kollarında tutuyor.
+el gemelo | ikiz (erkek) | isim (e) | El gemelo mayor sonríe a la cámara. | Büyük ikiz kameraya gülümsüyor.

@@ -1,0 +1,111 @@
+# UNIT: İş hayatı | Ofis, toplantı, meslekler, kariyer
+## Ofis ortamı
+el ordenador | bilgisayar | isim (e) | El ordenador portátil está sobre la mesa. | Dizüstü bilgisayar masanın üzerinde.
+la pantalla | ekran | isim (d) | La pantalla del ordenador es muy grande. | Bilgisayar ekranı çok büyük.
+el teclado | klavye | isim (e) | Escribe el mensaje con el teclado. | Mesajı klavye ile yaz.
+el ratón de ordenador | bilgisayar faresi | isim (e) | Conecta el ratón de ordenador al puerto USB. | Bilgisayar faresini USB portuna bağla.
+el archivo | dosya | isim (e) | Guarda el archivo en la carpeta correcta. | Dosyayı doğru klasöre kaydet.
+la carpeta | klasör | isim (d) | Tengo una carpeta nueva para los documentos. | Belgeler için yeni bir klasörüm var.
+la hoja de papel | kağıt yaprağı | isim (d) | Necesito una hoja de papel para anotar esto. | Bunu not etmek için bir kağıt yaprağına ihtiyacım var.
+el bolígrafo de tinta | mürekkepli tükenmez kalem | isim (e) | Firma el contrato con el bolígrafo de tinta negra. | Sözleşmeyi siyah mürekkepli kalemle imzala.
+la grapadora | zımba makinesi | isim (d) | Usa la grapadora para unir estos papeles. | Bu kağıtları birleştirmek için zımba makinesini kullan.
+el portapapeles | pano, altlık | isim (e) | Pon el informe en el portapapeles. | Raporu panoya koy.
+## Toplantı ve iletişim
+la reunión | toplantı | isim (d) | La reunión empieza a las diez en punto. | Toplantı tam onda başlıyor.
+la llamada | telefon görüşmesi, arama | isim (d) | Tengo una llamada importante con el director. | Müdürle önemli bir telefon görüşmem var.
+el mensaje de texto | kısa mesaj | isim (e) | Envía un mensaje de texto a tu compañero. | İş arkadaşına bir kısa mesaj gönder.
+el correo electrónico | e-posta | isim (e) | Recibí tu correo electrónico esta mañana. | E-postanı bu sabah aldım.
+la llamada de video | görüntülü arama | isim (d) | Haremos una llamada de video con la sucursal. | Şube ile görüntülü arama yapacağız.
+la agenda | ajanda, planlayıcı | isim (d) | Anota la fecha en la agenda personal. | Tarihi kişisel ajandaya kaydet.
+el proyecto | proje | isim (e) | Este proyecto es muy importante para la empresa. | Bu proje şirket için çok önemli.
+el objetivo | hedef | isim (e) | Nuestro objetivo principal es aumentar las ventas. | Ana hedefimiz satışları artırmak.
+la propuesta | teklif, öneri | isim (d) | Presenta tu propuesta en la próxima reunión. | Teklifini sonraki toplantıda sun.
+el acuerdo | anlaşma | isim (e) | Llegamos a un buen acuerdo comercial. | İyi bir ticari anlaşmaya vardık.
+## Meslekler
+el arquitecto | mimar | isim (e) | El arquitecto diseña nuevos edificios residenciales. | Mimar yeni konut binaları tasarlar.
+el contable | muhasebeci | isim (e) | El contable revisa las cuentas de la compañía. | Muhasebeci şirketin hesaplarını inceliyor.
+el diseñador | tasarımcı | isim (e) | El diseñador crea la imagen de marca. | Tasarımcı marka imajını yaratır.
+el programador | programcı | isim (e) | El programador escribe código para la aplicación. | Programcı uygulama için kod yazar.
+el director | yönetmen, müdür | isim (e) | El director dirige la reunión con calma. | Müdür toplantıyı sakin bir şekilde yönetiyor.
+el consultor | danışman | isim (e) | El consultor ofrece consejos estratégicos. | Danışman stratejik tavsiyeler sunuyor.
+el jefe | patron, şef | isim (e) | El jefe aprobó el presupuesto anual. | Şef yıllık bütçeyi onayladı.
+el colega | meslektaş, iş arkadaşı | isim (e) | Mi colega me ayuda con este informe técnico. | İş arkadaşım bu teknik raporda bana yardım ediyor.
+el recepcionista | resepsiyonist | isim (e) | El recepcionista saluda a los visitantes. | Resepsiyonist gelen ziyaretçileri selamlıyor.
+el asistente | asistan | isim (e) | El asistente organiza los documentos diarios. | Asistan günlük belgeleri düzenliyor.
+## Kariyer ve iş arama
+el empleo | iş, istihdam | isim (e) | Busco un empleo en el sector tecnológico. | Teknoloji sektöründe bir iş arıyorum.
+el puesto | pozisyon, kadro | isim (e) | Solicitó un puesto de gerente comercial. | Ticari müdür pozisyonuna başvurdu.
+el currículum | özgeçmiş | isim (e) | Envía tu currículum por correo postal o digital. | Özgeçmişini posta veya dijital yolla gönder.
+la entrevista | mülakat, röportaj | isim (d) | Mañana tengo una entrevista de trabajo muy formal. | Yarın çok resmi bir iş mülakatım var.
+la experiencia | deneyim | isim (d) | Tengo mucha experiencia en administración. | Yönetim konusunda çok deneyimim var.
+el contrato | sözleşme | isim (e) | Firmó el contrato laboral por un año. | Bir yıllık iş sözleşmesini imzaladı.
+el sueldo | maaş | isim (e) | El sueldo se paga cada fin de mes. | Maaş her ay sonu ödenir.
+el ascenso | terfi | isim (e) | Espera conseguir un ascenso pronto. | Yakında bir terfi almayı umuyor.
+la jubilación | emeklilik | isim (d) | Piensa en su jubilación dentro de diez años. | On yıl içinde emekliliğini düşünüyor.
+la renuncia | istifa | isim (d) | Presentó su carta de renuncia esta tarde. | İstifa mektubunu bu öğleden sonra sundu.
+## Çalışma saatleri ve rutin
+la jornada | mesai, gün çalışma süresi | isim (d) | La jornada laboral dura ocho horas diarias. | Günlük çalışma süresi günde sekiz saat sürüyor.
+el turno | vardiya | isim (e) | Trabajo en el turno de la mañana esta semana. | Bu hafta sabah vardiyasında çalışıyorum.
+el descanso | mola, dinlenme | isim (e) | Tomamos un descanso para tomar café al mediodía. | Öğle vakti kahve içmek için mola veriyoruz.
+la pausa | kısa mola | isim (d) | Haremos una pausa de diez minutos ahora. | Şimdi on dakikalık kısa bir mola vereceğiz.
+la puntualidad | dakiklik | isim (d) | La puntualidad es fundamental en esta oficina. | Dakiklik bu ofiste çok esastır.
+el retraso laboral | iş gecikmesi | isim (e) | Evita cualquier retraso laboral injustificado. | Her türlü haksız iş gecikmesinden kaçın.
+la tarea | görev, ödev | isim (d) | Completa esta tarea antes del viernes. | Bu görevi cumasından önce tamamla.
+la responsabilidad | sorumluluk | isim (d) | Asume toda la responsabilidad del proyecto. | Projenin tüm sorumluluğunu üstleniyor.
+la productividad | verimlilik | isim (d) | Buscan mejorar la productividad general del equipo. | Ekibin genel verimliliğini artırmayı amaçlıyorlar.
+la meta | hedef, varış noktası | isim (d) | Alcanzamos nuestra meta trimestral con éxito. | Üç aylık hedefimize başarıyla ulaştık.
+## İletişim araçları ve teknoloji
+la red | ağ, internet | isim (d) | La red interna de la oficina es muy rápida. | Ofisin dahili ağı çok hızlı.
+la clave | şifre, anahtar | isim (d) | Introduce tu clave secreta para entrar al sistema. | Sisteme girmek için gizli şifreni gir.
+el servidor | sunucu | isim (e) | El servidor principal está en mantenimiento hoy. | Ana sunucu bugün bakımdadır.
+el archivo adjunto | ekli dosya | isim (e) | Abre el archivo adjunto para ver los datos. | Verileri görmek için ekli dosyayı aç.
+la copia de seguridad | yedek kopya | isim (d) | Haz una copia de seguridad de todos tus archivos. | Tüm dosyalarının bir yedeğini al.
+la impresora | yazıcı | isim (d) | La impresora necesita más papel blanco. | Yazıcının daha fazla beyaz kağıda ihtiyacı var.
+el escáner | tarayıcı | isim (e) | Pasa este documento por el escáner. | Bu belgeyi tarayıcıdan geçir.
+la fotocopiadora | fotokopi makinesi | isim (d) | La fotocopiadora está rota temporalmente. | Fotokopi makinesi geçici olarak bozuk.
+el proyector | projektör | isim (e) | Enciende el proyector para la presentación visual. | Görsel sunum için projektörü aç.
+la videoconferencia | video konferans | isim (d) | Participaremos en una videoconferencia internacional. | Uluslararası bir video konferansa katılacağız.
+## Seyahat ve iş gezisi
+el viaje de negocio | iş seyahati | isim (e) | Su próximo viaje de negocio será a Lima. | Bir sonraki iş seyahati Lima'ya olacak.
+el billete de avión | uçak bileti | isim (e) | Compró el billete de avión con anticipación. | Uçak biletini önceden satın aldı.
+el hotel de negocios | iş oteli | isim (e) | Se alojó en un hotel de negocios cerca del centro. | Merkeze yakın bir iş otelinde kaldı.
+la maleta de mano | el bavulu | isim (d) | Lleva solo una maleta de mano en este viaje corto. | Bu kısa seyahatte sadece bir el bavulu taşıyor.
+el vuelo | uçuş | isim (e) | El vuelo sale puntualmente a las ocho. | Uçuş tam saat sekizde kalkıyor.
+el taxi corporativo | kurumsal taksi | isim (e) | Pidió un taxi corporativo para llegar a la cita. | Randevuya varmak için kurumsal bir taksi çağırdı.
+el gasto | masraf, harcama | isim (e) | Presenta los recibos para el reembolso de gasto. | Masraf iadesi için makbuzları sun.
+el presupuesto | bütçe | isim (e) | El presupuesto de viaje fue aprobado ayer. | Seyahat bütçesi dün onaylandı.
+la conferencia | konferans | isim (d) | Asistió a una conferencia sobre marketing digital. | Dijital pazarlama konulu bir konferansa katıldı.
+el seminario | seminer | isim (e) | Participó en un seminario intensivo de liderazgo. | Yoğun bir liderlik seminerine katıldı.
+## Şirket içi organizasyon
+el departamento | departman, daire | isim (e) | El departamento de ventas trabaja muy unido. | Satış departmanı çok uyumlu çalışıyor.
+la sección | bölüm, kısım | isim (d) | Dirige la sección de recursos humanos. | İnsan kaynakları bölümünü yönetiyor.
+la sucursal | şube | isim (d) | Visitará la nueva sucursal en el norte del país. | Ülkenin kuzeyindeki yeni şubeyi ziyaret edecek.
+la sede | merkez, genel müdürlük | isim (d) | La sede central está situada en la capital. | Merkez ofis başkentte yer almaktadır.
+la directiva | yönetim kurulu | isim (d) | La directiva votó a favor de la expansión. | Yönetim kurulu genişleme lehine oy kullandı.
+la política | politika, siyaset | isim (d) | La empresa tiene una política estricta de calidad. | Şirketin katı bir kalite politikası var.
+el reglamento | yönetmelik | isim (e) | Lee atentamente el reglamento interno de trabajo. | Şirket içi çalışma yönetmeliğini dikkatle oku.
+la norma | kural, norm | isim (d) | Debes cumplir cada norma de seguridad establecida. | Belirlenen her güvenlik kuralına uymalısın.
+el sindicato | sendika | isim (e) | El sindicato negoció mejoras salariales colectivas. | Sendika toplu maaş iyileştirmeleri müzakere etti.
+la huelga | grev | isim (d) | Anunciaron una huelga para el próximo martes. | Gelecek salı için bir grev duyurdular.
+## İşyeri sorunları ve çözümler
+el conflicto | anlaşmazlık, çatışma | isim (e) | Resolvieron el conflicto laboral mediante diálogo. | İş anlaşmazlığını diyalog yoluyla çözdüler.
+el error | hata, yanlış | isim (e) | Corrigió el error en los datos financieros. | Finansal verilerdeki hatayı düzeltti.
+el problema | sorun, problem | isim (e) | Encontraron una solución rápida al problema técnico. | Teknik sorun için hızlı bir çözüm buldular.
+el riesgo | risk | isim (e) | Analizaron cada riesgo financiero posible. | Olası her finansal riski analiz ettiler.
+la solución | çözüm | isim (d) | Su propuesta ofreció una solución definitiva. | Önerisi kesin bir çözüm sunuyordu.
+el contratiempo | aksilik, gecikme | isim (e) | El contratiempo en la entrega causó molestias. | Teslimattaki aksilik rahatsızlık yarattı.
+la queja | şikayet | isim (d) | Atendió una queja formal de un cliente importante. | Önemli bir müşterinin resmi şikayetini ele aldı.
+el recurso | kaynak | isim (e) | Optimizó el uso de cada recurso disponible. | Mevcut her kaynaktan en iyi şekilde yararlandı.
+la crisis | kriz | isim (d) | Superaron la crisis económica con gran esfuerzo. | Ekonomik krizin üstesinden büyük bir çabayla geldiler.
+el éxito | başarı | isim (e) | Celebraron el éxito rotundo de la campaña publicitaria. | Reklam kampanyasının yankı uyandıran başarısını kutladılar.
+## Ekip Çalışması ve Liderlik
+la cooperación | iş birliği | isim (d) | La cooperación entre los departamentos es clave. | Departmanlar arasındaki iş birliği çok önemlidir.
+el liderazgo | liderlik | isim (e) | Su liderazgo inspiró a todo el equipo nuevo. | Onun liderliği tüm yeni ekibe ilham verdi.
+la motivación | motivasyon | isim (d) | Mantener alta la motivación mejora el trabajo. | Motivasyonu yüksek tutmak işi iyileştirir.
+la inspiración | ilham | isim (d) | Encuentra inspiración en los proyectos exitosos. | Başarılı projelerde ilham buluyor.
+la estrategia | strateji | isim (d) | Diseñaron una estrategia comercial muy sólida. | Çok sağlam bir ticari strateji tasarladılar.
+la visión | vizyon | isim (d) | La visión de la empresa mira hacia el futuro. | Şirketin vizyonu geleceğe bakıyor.
+la misión | misyon | isim (d) | Nuestra misión principal es satisfacer al cliente. | Asıl misyonumuz müşteriyi memnun etmektir.
+el valor | değer, cesaret | isim (e) | Aportan un gran valor añadido a la empresa. | Şirkete büyük bir katma değer sağlıyorlar.
+el talento | yetenek | isim (e) | Buscan atraer el mejor talento joven del país. | Ülkenin en iyi genç yeteneğini cezbetmeye çalışıyorlar.
+la innovación | yenilik, inovasyon | isim (d) | Apuestan por la innovación tecnológica constante. | Sürekli teknolojik yeniliğe yatırım yapıyorlar.
