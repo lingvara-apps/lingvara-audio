@@ -1,4 +1,4 @@
-You translate one vocabulary file of an English course (the app "Lingvara" teaches English to speakers of many languages) into ONE target language. The source was written for Turkish speakers: column 2 and column 5 are Turkish. You produce the same file for speakers of the target language.
+You translate one vocabulary file of an English course (the app "Lingvara" teaches languages to speakers of many languages) into ONE target language. The source was written for Turkish speakers: column 2 and column 5 are Turkish. You produce the same file for speakers of the target language.
 
 SOURCE LINE FORMAT:
   # UNIT: <Turkish unit title> | <Turkish subtitle>

@@ -11,26 +11,32 @@ concurrency:
   group: tr-gemini
   cancel-in-progress: false
 jobs:
-  tr:
+  run:
     runs-on: ubuntu-24.04
     timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        task: ["tr en 0/7", "tr en 1/7", "tr en 2/7", "tr en 3/7", "tr en 4/7", "tr en 5/7", "tr en 6/7", "course es", "tr es 0/3", "tr es 1/3", "tr es 2/3"]
     steps:
       - uses: actions/checkout@v4
         with:
           ref: tr-gemini
           fetch-depth: 1
-      - name: Çevir
+      - name: Çalıştır
         env:
           GKEYS: ${{ secrets.GEMINI_KEYS }}
-          MAXMIN: ${{ github.event_name == 'push' && '6' || '320' }}
+          T: ${{ matrix.task }}
         run: |
           pip install -q requests
-          if [ -z "$GKEYS" ]; then echo "GEMINI_KEYS gizli ayarı yok"; exit 0; fi
-          python3 gem_tr.py 2>&1 | tee /tmp/log.txt | tail -150
-          mkdir -p out && grep -v "^OK " /tmp/log.txt | tail -60 > out/_log.txt; grep -c "^OK " /tmp/log.txt >> out/_log.txt || true
+          if [ -z "$GKEYS" ]; then echo "GEMINI_KEYS yok"; exit 0; fi
+          export DEADLINE=$(( $(date +%s) + 320*60 ))
+          set -- $T
+          if [ "$1" = "tr" ]; then SHARD=$3 python3 gem_tr.py $2 2>&1 | tee /tmp/log.txt | tail -80; else python3 gem_course.py $2 2>&1 | tee /tmp/log.txt | tail -80; fi
+          mkdir -p logs && grep -v "^OK " /tmp/log.txt | grep -v '^ *"\|^ *}\|^ *{' | tail -40 > "logs/$(echo $T | tr ' /' '__').txt"; grep -c "^OK " /tmp/log.txt >> "logs/$(echo $T | tr ' /' '__').txt" || true
       - name: Kaydet
         if: always()
         run: |
           git config user.name ci && git config user.email ci@x
-          git add out && git commit -qm "Gemini çevirileri" || exit 0
-          for i in 1 2 3; do git pull -q --rebase origin tr-gemini && git push -q origin HEAD:tr-gemini && break; sleep 5; done
+          git add -A out out_es course_es logs 2>/dev/null; git commit -qm "Gemini: ${{ matrix.task }}" || exit 0
+          for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase origin tr-gemini && git push -q origin HEAD:tr-gemini && break; sleep $((RANDOM % 20 + 5)); done

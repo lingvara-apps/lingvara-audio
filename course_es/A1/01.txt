@@ -1,0 +1,111 @@
+# UNIT: Tanışma ve temel ifadeler | Selamlaşma, zamirler, soru kelimeleri
+## Selamlaşma
+hola | merhaba, selam | ünlem | ¡Hola, Anna! ¿Qué tal? | Selam Anna! Nasılsın?
+buenos días | günaydın; iyi günler (öğlene kadar) | ifade | Buenos días, señor García. | Günaydın García Bey.
+buenas tardes | tünaydın; iyi günler (öğleden sonra) | ifade | Buenas tardes, ¿cómo está? | İyi günler, nasılsınız?
+buenas noches | iyi akşamlar; iyi geceler | ifade | Buenas noches, hasta mañana. | İyi geceler, yarın görüşürüz.
+adiós | hoşça kal; elveda | ünlem | Adiós, Emre, buen viaje. | Hoşça kal Emre, iyi yolculuklar.
+hasta luego | görüşürüz, sonra görüşürüz | ifade | Bueno, hasta luego, María. | Peki, görüşürüz María.
+hasta mañana | yarın görüşürüz | ifade | Me voy. ¡Hasta mañana! | Ben gidiyorum. Yarın görüşürüz!
+¿qué tal? | nasılsın?, ne var ne yok? | ifade | Hola, Diego, ¿qué tal? | Merhaba Diego, ne var ne yok?
+encantado | memnun oldum (kadın söylerse: encantada) | ifade | Soy Omar. Encantado. | Ben Omar. Memnun oldum.
+bienvenido | hoş geldin | sıfat | ¡Bienvenido a Madrid, Ali! | Madrid'e hoş geldin Ali!
+## Nezaket
+gracias | teşekkürler | ünlem | Muchas gracias por todo. | Her şey için çok teşekkürler.
+por favor | lütfen | ifade | Un café, por favor. | Bir kahve lütfen.
+de nada | rica ederim, bir şey değil | ifade | Gracias. — De nada. | Teşekkürler. — Rica ederim.
+perdón | pardon, özür dilerim | ünlem | Perdón, no entiendo. | Pardon, anlamıyorum.
+lo siento | üzgünüm, kusura bakma | ifade | Lo siento, no puedo. | Üzgünüm, yapamam.
+disculpe | affedersiniz (resmî; dikkat çekmek için) | ifade | Disculpe, ¿dónde está el metro? | Affedersiniz, metro nerede?
+sí | evet | zarf | Sí, soy de Turquía. | Evet, Türkiyeliyim.
+no | hayır; değil | zarf | No, gracias. | Hayır, teşekkürler.
+vale | tamam, olur (İspanya; Latin Amerika: bueno, okey) | ünlem | ¿A las cinco? — Vale. | Saat beşte mi? — Tamam.
+con permiso | izninizle | ifade | Con permiso, ¿puedo pasar? | İzninizle, geçebilir miyim?
+## Kişi zamirleri
+yo | ben | zamir | Yo soy Yuki. | Ben Yuki'yim.
+tú | sen | zamir | ¿Y tú, cómo te llamas? | Ya sen, adın ne?
+él | o (erkek) | zamir | Él es mi amigo Lukas. | O benim arkadaşım Lukas.
+ella | o (kadın) | zamir | Ella es de Italia. | O İtalyalı.
+usted | siz (tek kişiye resmî) | zamir | ¿Usted es la profesora? | Öğretmen siz misiniz?
+nosotros | biz (kadınlar: nosotras) | zamir | Nosotros vivimos en Sevilla. | Biz Sevilla'da yaşıyoruz.
+vosotros | siz (samimi çoğul; yalnızca İspanya, Latin Amerika'da ustedes) | zamir | ¿Vosotros sois de aquí? | Siz buralı mısınız?
+ellos | onlar (erkek ya da karışık grup) | zamir | Ellos hablan español. | Onlar İspanyolca konuşuyor.
+ellas | onlar (yalnızca kadınlar) | zamir | Ellas son hermanas. | Onlar kız kardeş.
+ustedes | siz (resmî çoğul; Latin Amerika'da her durumda) | zamir | ¿Ustedes quieren algo más? | Başka bir şey ister misiniz?
+## Kendini tanıtma
+llamarse | adı ... olmak | fiil · dönüşlü | Me llamo Camille. | Benim adım Camille.
+el nombre | ad, isim | isim (e) | ¿Cuál es tu nombre? | Adın ne?
+el apellido | soyadı | isim (e) | Mi apellido es López. | Soyadım López.
+ser (soy, eres, es) | olmak (kimlik, köken, meslek) | fiil · düzensiz | Soy de Estambul. | İstanbulluyum.
+estar (estoy, está) | olmak, bulunmak (durum, yer) | fiil · düzensiz | Estoy muy bien, gracias. | Çok iyiyim, teşekkürler.
+tener (tengo, tiene) | sahip olmak, -si olmak | fiil · düzensiz | Tengo veinte años. | Yirmi yaşındayım.
+vivir | yaşamak, oturmak | fiil | Vivo en Barcelona. | Barselona'da oturuyorum.
+la edad | yaş | isim (d) | ¿Cuál es tu edad? | Yaşın kaç?
+conocer (conozco) | tanımak; tanışmak | fiil · düzensiz | Encantado de conocerte. | Seninle tanıştığıma memnun oldum.
+presentar | tanıştırmak, takdim etmek | fiil | Te presento a Sofía. | Seni Sofía ile tanıştırayım.
+## Ülkeler ve diller
+España | İspanya | isim (d) | Vivo en España. | İspanya'da yaşıyorum.
+español | İspanyol; İspanyolca | sıfat | Hablo un poco de español. | Biraz İspanyolca konuşuyorum.
+Turquía | Türkiye | isim (d) | Soy de Turquía. | Türkiyeliyim.
+turco | Türk; Türkçe | sıfat | Ali es turco. | Ali Türk.
+inglés | İngiliz; İngilizce | sıfat | ¿Hablas inglés? | İngilizce konuşuyor musun?
+el idioma | dil (lisan) | isim (e) | Hablo tres idiomas. | Üç dil konuşuyorum.
+el país | ülke | isim (e) | ¿De qué país eres? | Hangi ülkedensin?
+México | Meksika | isim (e) | Diego es de México. | Diego Meksikalı.
+Latinoamérica | Latin Amerika | isim (d) | Viajo por Latinoamérica. | Latin Amerika'yı geziyorum.
+extranjero | yabancı | sıfat | Soy extranjero aquí. | Burada yabancıyım.
+## Soru kelimeleri
+qué | ne | zamir | ¿Qué es esto? | Bu ne?
+quién | kim | zamir | ¿Quién es ella? | O kim?
+dónde | nerede | zarf | ¿Dónde vives? | Nerede oturuyorsun?
+cuándo | ne zaman | zarf | ¿Cuándo es la clase? | Ders ne zaman?
+cómo | nasıl | zarf | ¿Cómo estás? | Nasılsın?
+cuánto | ne kadar; kaç | zamir | ¿Cuánto cuesta? | Ne kadar?
+cuál | hangi, hangisi | zamir | ¿Cuál es tu número? | Numaran ne?
+por qué | neden, niçin | zarf | ¿Por qué estudias español? | Neden İspanyolca öğreniyorsun?
+adónde | nereye | zarf | ¿Adónde vas? | Nereye gidiyorsun?
+de dónde | nereden, nereli | zarf | ¿De dónde eres? | Nerelisin?
+## Küçük ama önemli kelimeler
+y | ve | bağlaç | Anna y yo. | Anna ve ben.
+o | veya, ya da | bağlaç | ¿Té o café? | Çay mı kahve mi?
+pero | ama, fakat | bağlaç | Es pequeño, pero bonito. | Küçük ama güzel.
+porque | çünkü | bağlaç | Estudio porque me gusta. | Çalışıyorum çünkü hoşuma gidiyor.
+también | de, dahi; ayrıca | zarf | Yo también soy estudiante. | Ben de öğrenciyim.
+muy | çok | zarf | Es muy simpático. | O çok sevimli.
+bien | iyi | zarf | Hablas muy bien. | Çok iyi konuşuyorsun.
+mal | kötü | zarf | Hoy estoy mal. | Bugün kötüyüm.
+aquí | burada; buraya | zarf | Vivo aquí. | Burada oturuyorum.
+allí | orada; oraya | zarf | Mi casa está allí. | Evim orada.
+## İşaret ve iyelik sözcükleri
+este | bu (yakındaki) | sıfat | Este es mi hermano. | Bu benim erkek kardeşim.
+ese | şu | sıfat | ¿Quién es ese chico? | Şu çocuk kim?
+aquel | o, ötedeki | sıfat | Aquel edificio es nuevo. | Ötedeki bina yeni.
+esto | bu (şey) | zamir | ¿Qué es esto? Es un regalo. | Bu ne? Bir hediye.
+eso | o, şu (şey) | zamir | Eso es verdad. | O doğru.
+mi | benim | sıfat | Mi casa es pequeña. | Evim küçük.
+tu | senin | sıfat | ¿Cómo se llama tu madre? | Annenin adı ne?
+su | onun; sizin (usted); onların | sıfat | Su coche es rojo. | Onun arabası kırmızı.
+nuestro | bizim | sıfat | Nuestro piso está aquí. | Dairemiz burada.
+vuestro | sizin (samimi çoğul; İspanya) | sıfat | ¿Es vuestro perro? | Sizin köpeğiniz mi?
+## Anlamak ve konuşmak
+hablar | konuşmak | fiil | Hablo turco y español. | Türkçe ve İspanyolca konuşuyorum.
+entender (entiendo) | anlamak | fiil · düzensiz | No entiendo esta palabra. | Bu kelimeyi anlamıyorum.
+saber (sé) | bilmek | fiil · düzensiz | No lo sé. | Bilmiyorum.
+repetir (repito) | tekrarlamak | fiil · düzensiz | ¿Puede repetir, por favor? | Tekrarlayabilir misiniz, lütfen?
+preguntar | sormak | fiil | Quiero preguntar algo. | Bir şey sormak istiyorum.
+responder | cevap vermek | fiil | Responde en español. | İspanyolca cevap ver.
+la palabra | kelime, sözcük | isim (d) | Es una palabra nueva. | Bu yeni bir kelime.
+la pregunta | soru | isim (d) | Tengo una pregunta. | Bir sorum var.
+despacio | yavaş, yavaşça | zarf | Habla más despacio, por favor. | Daha yavaş konuş lütfen.
+¿cómo se dice? | nasıl denir? | ifade | ¿Cómo se dice "kedi" en español? | "Kedi" İspanyolcada nasıl denir?
+## Hitap ve günlük kalıplar
+el señor | bay, beyefendi; ... Bey | isim (e) | Buenos días, señor Ruiz. | Günaydın Ruiz Bey.
+la señora | bayan, hanımefendi; ... Hanım | isim (d) | La señora Pérez es profesora. | Pérez Hanım öğretmen.
+la señorita | genç hanım, ... Hanım (evlenmemiş) | isim (d) | Gracias, señorita. | Teşekkürler, hanımefendi.
+¿cómo estás? | nasılsın? (resmî: ¿cómo está usted?) | ifade | Hola, Maria, ¿cómo estás? | Merhaba Maria, nasılsın?
+¿y tú? | ya sen? | ifade | Estoy bien, ¿y tú? | İyiyim, ya sen?
+más o menos | şöyle böyle; aşağı yukarı | ifade | ¿Qué tal? — Más o menos. | Nasılsın? — Şöyle böyle.
+nos vemos | görüşürüz | ifade | Nos vemos el lunes. | Pazartesi görüşürüz.
+hasta pronto | yakında görüşmek üzere | ifade | Adiós, ¡hasta pronto! | Hoşça kal, yakında görüşürüz!
+¡claro! | tabii!, elbette! | ünlem | ¿Me ayudas? — ¡Claro! | Bana yardım eder misin? — Tabii!
+¡buena suerte! | iyi şanslar! | ifade | Mañana es el examen. ¡Buena suerte! | Sınav yarın. İyi şanslar!

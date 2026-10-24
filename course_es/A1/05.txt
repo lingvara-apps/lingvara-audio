@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+## Kahvaltı
+el desayuno | kahvaltı | isim (e) | El desayuno está en la mesa. | Kahvaltı masada.
+el pan | ekmek | isim (e) | Compro pan todos los días. | Her gün ekmek alırım.
+la mantequilla | tereyağı | isim (d) | Quiero pan con mantequilla. | Tereyağlı ekmek istiyorum.
+la mermelada | reçel | isim (d) | Esta mermelada es de fresa. | Bu reçel çilekli.
+el huevo | yumurta | isim (e) | Como un huevo cada mañana. | Her sabah bir yumurta yerim.
+el queso | peynir | isim (e) | El queso manchego es muy rico. | Manchego peyniri çok lezzetli.
+la leche | süt | isim (d) | Los niños beben leche. | Çocuklar süt içer.
+el café | kahve | isim (e) | Un café con leche, por favor. | Bir sütlü kahve, lütfen.
+el zumo | meyve suyu | isim (e) | Me gusta el zumo de naranja. | Portakal suyunu severim.
+la tostada | kızarmış ekmek | isim (d) | Pido una tostada con tomate. | Domatesli kızarmış ekmek isterim.
+## İçecekler
+el agua | su | isim (d) | ¿Tienes agua fría? | Soğuk suyun var mı?
+el té | çay | isim (e) | Ali toma té por la tarde. | Ali öğleden sonra çay içer.
+la cerveza | bira | isim (d) | Una cerveza, por favor. | Bir bira, lütfen.
+el vino | şarap | isim (e) | España tiene vino muy bueno. | İspanya'nın çok iyi şarabı var.
+el refresco | gazlı içecek | isim (e) | Los refrescos tienen mucho azúcar. | Gazlı içeceklerde çok şeker var.
+el hielo | buz | isim (e) | Agua sin hielo, por favor. | Buzsuz su, lütfen.
+la botella | şişe | isim (d) | Compro una botella de agua. | Bir şişe su alıyorum.
+la horchata | horchata (bitki sütü içeceği) | isim (d) | En Valencia bebemos horchata. | Valencia'da horchata içeriz.
+la sangría | sangria | isim (d) | La sangría lleva vino y fruta. | Sangriada şarap ve meyve var.
+el batido | milkshake; smoothie | isim (e) | Quiero un batido de chocolate. | Çikolatalı milkshake istiyorum.
+## Meyveler
+la fruta | meyve | isim (d) | Como fruta después de comer. | Yemekten sonra meyve yerim.
+la manzana | elma | isim (d) | Esta manzana es muy dulce. | Bu elma çok tatlı.
+el plátano | muz | isim (e) | Yuki come un plátano. | Yuki bir muz yiyor.
+la naranja | portakal | isim (d) | Las naranjas de Valencia son famosas. | Valencia portakalları ünlüdür.
+la fresa | çilek | isim (d) | Me encantan las fresas. | Çilekleri çok severim.
+la uva | üzüm | isim (d) | Comemos doce uvas en Nochevieja. | Yılbaşı gecesi on iki üzüm yeriz.
+el limón | limon | isim (e) | El limón es muy ácido. | Limon çok ekşidir.
+la pera | armut | isim (d) | Quiero una pera madura. | Olgun bir armut istiyorum.
+el melocotón | şeftali | isim (e) | El melocotón huele muy bien. | Şeftali çok güzel kokuyor.
+la sandía | karpuz | isim (d) | En verano comemos sandía. | Yazın karpuz yeriz.
+## Sebzeler
+la verdura | sebze | isim (d) | Hay que comer más verdura. | Daha çok sebze yemek gerek.
+la patata | patates | isim (d) | Me gustan las patatas fritas. | Kızarmış patatesi severim.
+el tomate | domates | isim (e) | Este tomate es muy rojo. | Bu domates çok kırmızı.
+la cebolla | soğan | isim (d) | Corto una cebolla. | Bir soğan doğruyorum.
+el ajo | sarımsak | isim (e) | La sopa lleva ajo. | Çorbada sarımsak var.
+la zanahoria | havuç | isim (d) | Al conejo le gusta la zanahoria. | Tavşan havucu sever.
+la lechuga | marul | isim (d) | Compro lechuga para la ensalada. | Salata için marul alıyorum.
+el pimiento | biber | isim (e) | Los pimientos de Padrón pican a veces. | Padrón biberleri bazen acı olur.
+el pepino | salatalık | isim (e) | El gazpacho lleva pepino. | Gazpachoda salatalık var.
+la berenjena | patlıcan | isim (d) | Omar cocina berenjenas al horno. | Omar fırında patlıcan pişirir.
+## Et, balık ve temel gıdalar
+la carne | et | isim (d) | Sofia no come carne. | Sofia et yemez.
+el pollo | tavuk (eti) | isim (e) | Hoy cenamos pollo con arroz. | Bu akşam pilavlı tavuk yiyoruz.
+el cerdo | domuz (eti) | isim (e) | Emre no come cerdo. | Emre domuz eti yemez.
+el jamón | jambon | isim (e) | El jamón serrano es típico. | Serrano jambonu gelenekseldir.
+el pescado | balık (yemek olarak) | isim (e) | Los viernes comemos pescado. | Cumaları balık yeriz.
+el arroz | pirinç; pilav | isim (e) | La paella lleva arroz. | Paellada pirinç var.
+la pasta | makarna | isim (d) | Los niños quieren pasta. | Çocuklar makarna istiyor.
+la sal | tuz | isim (d) | ¿Me pasas la sal? | Tuzu uzatır mısın?
+el aceite | yağ | isim (e) | Usamos aceite de oliva. | Zeytinyağı kullanırız.
+el azúcar | şeker | isim (e) | Tomo el café sin azúcar. | Kahveyi şekersiz içerim.
+## Markette
+el supermercado | süpermarket | isim (e) | Voy al supermercado. | Süpermarkete gidiyorum.
+el mercado | pazar; hal | isim (e) | El mercado abre a las ocho. | Pazar sekizde açılır.
+la panadería | fırın (ekmekçi) | isim (d) | La panadería está cerca. | Fırın yakında.
+la frutería | manav | isim (d) | Compro naranjas en la frutería. | Manavdan portakal alıyorum.
+la carnicería | kasap | isim (d) | La carnicería cierra a las dos. | Kasap ikide kapanır.
+la bolsa | poşet; çanta | isim (d) | ¿Necesita una bolsa? | Poşet ister misiniz?
+el kilo | kilo | isim (e) | Un kilo de tomates, por favor. | Bir kilo domates, lütfen.
+el paquete | paket | isim (e) | Compro un paquete de arroz. | Bir paket pirinç alıyorum.
+la lata | konserve kutusu | isim (d) | Abro una lata de atún. | Bir kutu ton balığı açıyorum.
+la docena | düzine | isim (d) | Una docena de huevos, por favor. | Bir düzine yumurta, lütfen.
+## Restoranda
+el restaurante | restoran | isim (e) | Este restaurante es muy bueno. | Bu restoran çok iyi.
+el camarero | garson | isim (e) | El camarero trae la comida. | Garson yemeği getiriyor.
+la carta | menü (yemek listesi) | isim (d) | ¿Nos trae la carta, por favor? | Menüyü getirir misiniz lütfen?
+el menú del día | günün menüsü | isim (e) | El menú del día cuesta doce euros. | Günün menüsü on iki avro.
+el primer plato | ilk yemek; başlangıç | isim (e) | De primer plato, quiero sopa. | İlk yemek olarak çorba istiyorum.
+el postre | tatlı (yemek sonu) | isim (e) | ¿Qué hay de postre? | Tatlı olarak ne var?
+la cuenta | hesap | isim (d) | La cuenta, por favor. | Hesap, lütfen.
+la propina | bahşiş | isim (d) | Dejamos una pequeña propina. | Küçük bir bahşiş bırakıyoruz.
+la reserva | rezervasyon | isim (d) | Tengo una reserva para dos. | İki kişilik rezervasyonum var.
+pedir (pido) | sipariş etmek; istemek | fiil · düzensiz | Diego pide una ensalada. | Diego bir salata sipariş ediyor.
+## İspanyol yemekleri
+la paella | paella | isim (d) | Los domingos hacemos paella. | Pazarları paella yaparız.
+la tortilla de patatas | patatesli omlet | isim (d) | Me encanta la tortilla de patatas. | Patatesli omleti çok severim.
+el gazpacho | gazpacho (soğuk çorba) | isim (e) | El gazpacho se toma frío. | Gazpacho soğuk içilir.
+la tapa | tapa (küçük meze) | isim (d) | Pedimos unas tapas para compartir. | Paylaşmak için birkaç tapa söylüyoruz.
+el churro | churro (kızarmış hamur tatlısı) | isim (e) | Comemos churros con chocolate. | Çikolatayla churro yeriz.
+el bocadillo | sandviç (baget) | isim (e) | Llevo un bocadillo al trabajo. | İşe sandviç götürüyorum.
+el chorizo | chorizo (baharatlı sucuk) | isim (e) | El chorizo es un poco picante. | Chorizo biraz acıdır.
+la aceituna | zeytin | isim (d) | España produce muchas aceitunas. | İspanya çok zeytin üretir.
+la croqueta | kroket | isim (d) | Mi abuela hace croquetas de jamón. | Büyükannem jambonlu kroket yapar.
+la ensalada | salata | isim (d) | La ensalada lleva tomate y lechuga. | Salatada domates ve marul var.
+## Tatlar
+rico | lezzetli | sıfat | ¡Qué rica está la sopa! | Çorba ne kadar lezzetli!
+dulce | tatlı | sıfat | Este pastel es muy dulce. | Bu pasta çok tatlı.
+salado | tuzlu | sıfat | La comida está un poco salada. | Yemek biraz tuzlu.
+picante | acı (baharatlı) | sıfat | No me gusta la comida picante. | Acı yemeği sevmem.
+amargo | acı (tat olarak) | sıfat | El café solo es amargo. | Sade kahve acıdır.
+ácido | ekşi | sıfat | Estas uvas son ácidas. | Bu üzümler ekşi.
+caliente | sıcak | sıfat | La sopa está muy caliente. | Çorba çok sıcak.
+frío | soğuk | sıfat | Quiero una cerveza fría. | Soğuk bir bira istiyorum.
+fresco | taze; serin | sıfat | El pescado es fresco. | Balık taze.
+delicioso | nefis | sıfat | La paella está deliciosa. | Paella nefis.
+## Yemek fiilleri ve ifadeler
+comer | yemek; öğle yemeği yemek | fiil | En España comemos a las dos. | İspanya'da saat ikide öğle yemeği yeriz.
+beber | içmek | fiil | Bebo mucha agua. | Çok su içerim.
+cocinar | yemek pişirmek | fiil | Maria cocina muy bien. | Maria çok iyi yemek yapar.
+desayunar | kahvaltı yapmak | fiil | Desayuno a las siete. | Yedide kahvaltı yaparım.
+cenar | akşam yemeği yemek | fiil | Cenamos a las nueve. | Dokuzda akşam yemeği yeriz.
+la comida | yemek; öğle yemeği | isim (d) | La comida está lista. | Yemek hazır.
+la cena | akşam yemeği | isim (d) | La cena es a las diez. | Akşam yemeği onda.
+tener hambre | acıkmak; aç olmak | ifade | Tengo mucha hambre. | Çok açım.
+tener sed | susamak | ifade | ¿Tienes sed? | Susadın mı?
+¡Que aproveche! | Afiyet olsun! | ifade | ¡Que aproveche, chicos! | Afiyet olsun çocuklar!
