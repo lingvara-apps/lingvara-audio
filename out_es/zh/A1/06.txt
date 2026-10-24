@@ -1,0 +1,111 @@
+# UNIT: 城市与交通 | 地点、方向、公共交通、旅行、自然
+## 城市地点
+la ciudad | 城市 | 马德里是一座大城市。
+la calle | 街道 | 我住在这条街上。
+la plaza | 广场 | 我们在广场见。
+el parque | 公园 | 孩子们在公园里玩耍。
+el barrio | 社区 | 我的社区非常安静。
+el centro | 市中心 | 我在市中心工作。
+el puente | 桥 | 我们步行过桥。
+el edificio | 建筑物 | 那栋建筑非常高。
+el museo | 博物馆 | 博物馆十点开门。
+la iglesia | 教堂 | 这座教堂非常古老。
+## 服务场所
+el hospital | 医院 | 医院在很远的地方。
+la farmacia | 药店 | 附近有药店吗？
+el hotel | 酒店 | 这家酒店有游泳池。
+la estación | 车站 | 我在车站等你。
+el aeropuerto | 机场 | 我们坐出租车去机场。
+la biblioteca | 图书馆 | 我在图书馆学习。
+el cine | 电影院 | 今晚我们去电影院吗？
+el banco | 银行 | 银行两点关门。
+la comisaría | 警察局 | 警察局在广场上。
+el ayuntamiento | 市政厅 | 市政厅非常漂亮。
+## 问路指路
+a la derecha | 向右 | 向右转。
+a la izquierda | 向左 | 银行在左边。
+todo recto | 直走 | 请一直往前走。
+cerca | 附近 | 我的家在附近。
+lejos | 远 | 机场很远。
+al lado de | 在……旁边 | 咖啡馆在电影院旁边。
+enfrente de | 在……对面 | 我住在公园对面。
+la esquina | 转角 | 药店在转角处。
+girar | 转弯 | 在下一个路口转弯。
+cruzar | 过马路 | 我们小心翼翼地过马路。
+## 公共交通
+el autobús | 公交车 | 我坐公交车去上班。
+el metro | 地铁 | 马德里的地铁很快。
+el tren | 火车 | 火车八点出发。
+el taxi | 出租车 | 我们叫了一辆出租车。
+la parada | 车站 | 车站离得很近。
+el billete | 车票 | 我买了一张火车票。
+el andén | 月台 | 火车正驶向二号月台。
+la línea | 线路 | 请坐三号线。
+coger (cojo) | 搭乘 | 我每天都坐地铁。
+el pasajero | 乘客 | 这辆公交车车载了四十名乘客。
+## 交通工具与道路
+el coche | 汽车 | 我的汽车很小。
+la bicicleta | 自行车 | 卢卡斯骑自行车去。
+la moto | 摩托车 | 我弟弟有一辆摩托车。
+el avión | 飞机 | 我们坐飞机去塞维利亚。
+el barco | 船 | 这艘船开往马略卡岛。
+la carretera | 公路 | 这条公路非常长。
+el tráfico | 交通流量 | 今天交通很拥堵。
+conducir (conduzco) | 开车 | 我晚上不速驾车。
+aparcar | 停车 | 这里很难停车。
+a pie | 步行 | 我步行去上课。
+## 旅行
+el viaje | 旅行 | 祝你旅途愉快！
+la maleta | 行李箱 | 我的行李箱是蓝色的。
+el pasaporte | 护照 | 我需要我的护照。
+el turista | 游客 | 巴塞罗那有许多游客。
+las vacaciones | 假期 | 我在度假。
+el mapa | 地图 | 我们正在看城市地图。
+viajar | 旅行 | 我喜欢坐火车旅行。
+visitar | 参观 | 我们想去参观格拉纳达。
+la excursión | 远足 | 明天我们要去远足。
+el hostal | 小旅馆 | 我们睡在一家便宜的小旅馆里。
+## 到达与出发
+llegar | 到达 | 火车十点到达。
+salir (salgo) | 出发 | 我八点离开家。
+el horario | 时刻表 | 你有火车时刻表吗？
+la llegada | 到达时间 | 到达时间是三点。
+la salida | 出口 | 请问出口在哪里？
+el retraso | 延误 | 飞机晚点了。
+de ida y vuelta | 往返 | 一张往返票。
+la oficina de turismo | 旅游局 | 去旅游局问问。
+el equipaje | 行李 | 我的行李还没到。
+perderse (me pierdo) | 迷路 | 我在马德里总是迷路。
+## 自然
+el mar | 大海 | 今天海面很平静。
+la playa | 海滩 | 我们在八月去海滩。
+la montaña | 山脉 | 我喜欢在山里散步。
+el río | 河流 | 河流穿城而过。
+el lago | 湖泊 | 这个湖非常美丽。
+el bosque | 森林 | 我们在森林里散步。
+la isla | 岛屿 | 伊比沙岛是一个岛。
+el campo | 乡村 | 我的祖父母住在乡下。
+el sol | 太阳 | 今天阳光非常充足。
+el cielo | 天空 | 天空万里无云。
+## 天气与环境
+la lluvia | 雨 | 我不喜欢雨。
+llover (llueve) | 下雨 | 今天雨下得很大。
+la nieve | 雪 | 山上有积雪。
+el viento | 风 | 风刮得很大。
+la nube | 云 | 今天有很多云。
+hace calor | 天气炎热 | 塞维利亚的天气非常热。
+la flor | 花朵 | 这些花是送给你的。
+la arena | 沙子 | 沙子很烫。
+la hierba | 草坪 | 我们坐在草地上。
+la estrella | 星星 | 今晚有很多星星。
+## 国家与世界
+el país | 国家 | 西班牙是一个美丽的国家。
+el pueblo | 村庄 | 我的村子非常小。
+la capital | 首都 | 马德里是首都。
+la costa | 海岸 | 我们住在海岸边。
+el norte | 北方 | 毕尔巴鄂在北部。
+el sur | 南方 | 马拉加在南部。
+el este | 东方 | 巴伦西亚在东部。
+el oeste | 西方 | 太阳从西方落下。
+el mundo | 世界 | 我想环游世界。
+extranjero | 国外的 | 安娜在一所外国学校学习。
