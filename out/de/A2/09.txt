@@ -1,0 +1,111 @@
+# UNIT: Dienstleistungen und Einkaufen | Bank, Paketdienst, Friseur, Kleidung
+## In der Bank
+bank account | Bankkonto | Ich möchte ein Bankkonto eröffnen.
+cash machine | Geldautomat | Gibt es hier in der Nähe einen Geldautomaten?
+withdraw (withdrew, withdrawn) | abheben | Ich muss etwas Geld abheben.
+coin | Münze | Ich brauche ein paar Münzen für die Parkuhr.
+loan | Kredit, Darlehen | Sie haben einen Kredit aufgenommen, um ein Haus zu kaufen.
+balance | Kontostand | Du kannst deinen Kontostand online überprüfen.
+exchange rate | Wechselkurs | Wie hoch ist der heutige Wechselkurs?
+banknote | Geldschein, Banknote | Der Geldautomat gibt nur Zwanzig-Euro-Scheine aus.
+transfer | überweisen | Kannst du das Geld heute überweisen?
+savings | Ersparnisse | Sie hat ihre Ersparnisse auf der Bank.
+## Post und Versand
+parcel | Paket | Heute Morgen ist ein Paket für dich angekommen.
+postcode | Postleitzahl | Wie lautet deine Postleitzahl?
+envelope | Briefumschlag, Umschlag | Steck den Brief in einen Umschlag.
+stamp | Briefmarke | Ich brauche zwei Briefmarken für diese Briefe.
+deliver | liefern, zustellen | Sie liefern Pizza bis Mitternacht.
+delivery | Lieferung, Zustellung | Ab einem Bestellwert von dreißig Pfund ist die Lieferung kostenlos.
+courier | Kurier, Bote | Der Kurier wartet an der Tür.
+sender | Absender | Der Name des Absenders steht nicht auf dem Karton.
+receive | erhalten, bekommen | Hast du meinen Brief erhalten?
+track | verfolgen (Sendung), nachverfolgen | Du kannst dein Paket online verfolgen.
+## Beim Friseur
+hairdresser | Friseur | Mein Friseur kann sehr gut mit lockigem Haar umgehen.
+barber | Herrenfriseur, Barbier | Omar geht alle zwei Wochen zum Barbier.
+haircut | Haarschnitt | Ich brauche einen Haarschnitt.
+fringe | Pony (Frisur) | Ich hätte gern einen kürzeren Pony, bitte.
+dye | färben (Haare) | Sofia hat sich die Haare rot gefärbt.
+shave | rasieren | Er rasiert sich jeden Morgen.
+hairbrush | Haarbürste | Maria hat eine neue Haarbürste gekauft.
+trim | nachschneiden, Spitzen schneiden | Bitte nur die Spitzen schneiden.
+blow-dry | föhnen | Können Sie meine Haare föhnen?
+hairstyle | Frisur | Gefällt dir meine neue Frisur?
+## Dienstleistungen
+dry cleaner's | Reinigung, Textilreinigung | Ich bringe meinen Anzug in die Reinigung.
+launderette | Waschsalon | An der Ecke gibt es einen Waschsalon.
+locksmith | Schlüsseldienst | Ich habe meine Schlüssel verloren, also habe ich den Schlüsseldienst gerufen.
+tailor | Schneider | Der Schneider hat meine Hose gekürzt.
+customer | Kunde | Das Geschäft hat viele Stammkunden.
+opening hours | Öffnungszeiten | Wie sind die Öffnungszeiten am Samstag?
+optician | Optiker | Ich brauche eine neue Brille, deshalb gehe ich zum Optiker.
+photocopy | Fotokopie, Kopie | Kann ich eine Fotokopie von dieser Seite haben?
+florist | Blumenladen, Florist | Emre hat Rosen im Blumenladen gekauft.
+staff | Personal, Mitarbeiter | Das Personal hier ist sehr hilfsbereit.
+## Mobilfunk
+voicemail | Mailbox, Sprachbox | Ich habe dir heute Morgen auf die Mailbox gesprochen.
+top up | aufladen (Guthaben) | Ich muss mein Handy aufladen.
+signal | Empfang, Signal | In den Bergen gibt es keinen Empfang.
+data | mobile Daten, Datenvolumen | Ich habe diesen Monat kein Datenvolumen mehr.
+bill | Rechnung | Die Telefonrechnung ist diesen Monat zu hoch.
+monthly | monatlich | Die monatliche Gebühr beträgt fünfzehn Dollar.
+unlimited | unbegrenzt, unlimitiert | Ich habe unbegrenzte Freiminuten und SMS.
+roaming | Roaming | Schalte beim Reisen das Roaming aus.
+tariff | Tarif | Dieser Tarif ist für Studenten günstiger.
+text | simsen, SMS schreiben | Schreib mir eine Nachricht, wenn du zu Hause ankommst.
+## Im Einkaufszentrum
+shopping centre | Einkaufszentrum | Das neue Einkaufszentrum öffnet am Montag.
+escalator | Rolltreppe | Nimm die Rolltreppe in den zweiten Stock.
+department store | Kaufhaus, Warenhaus | In diesem Kaufhaus findest du alles.
+changing room | Umkleidekabine | Wo sind die Umkleidekabinen?
+food court | Food-Court, Gastronomiebereich | Treffen wir uns im Food-Court.
+bargain | Schnäppchen | Diese Jacke war ein echtes Schnäppchen.
+shopping bag | Einkaufstasche, Einkaufstüte | Omar trägt drei schwere Einkaufstüten.
+car park | Parkhaus, Parkplatz | Das Parkhaus ist schon wieder voll.
+window shopping | Schaufensterbummel | Am Samstag haben wir einen Schaufensterbummel gemacht.
+trolley | Einkaufswagen | Kannst du bitte einen Einkaufswagen holen?
+## Bezahlung
+receipt | Kassenbon, Quittung | Behalte bitte den Kassenbon.
+change | Wechselgeld | Hier ist dein Wechselgeld.
+contactless | kontaktlos | Kann ich kontaktlos bezahlen?
+refund | Rückerstattung | Ich hätte gern eine Rückerstattung für diese Schuhe.
+instalment | Rate, Ratenzahlung | Wir haben das Sofa in sechs Raten bezahlt.
+afford | sich leisten können | Ich kann mir kein neues Auto leisten.
+owe | schulden | Ich schulde dir zehn Dollar.
+tip | Trinkgeld | Wir haben dem Kellner Trinkgeld gegeben.
+price tag | Preisschild | An dieser Tasche ist kein Preisschild.
+total | Gesamtbetrag, Gesamtsumme | Der Gesamtbetrag beträgt fünfundvierzig Pfund.
+## Kleidung 2
+blouse | Bluse | Maria trägt eine weiße Bluse.
+cardigan | Strickjacke | Nimm eine Strickjacke mit, abends wird es kalt.
+waistcoat | Weste | Er trug eine Weste zur Hochzeit.
+tracksuit | Trainingsanzug, Jogginganzug | Zu Hause trage ich einen Trainingsanzug.
+pyjamas | Schlafanzug, Pyjama | Die Kinder sind schon im Schlafanzug.
+swimsuit | Badeanzug | Vergiss deinen Badeanzug nicht!
+tights | Strumpfhose | Sie hat eine schwarze Strumpfhose für den Winter gekauft.
+trainers | Sneaker, Turnschuhe | Diese Turnschuhe sind sehr bequem.
+sandals | Sandalen | Im Sommer trage ich nur Sandalen.
+slippers | Hausschuhe | Zieh deine Hausschuhe an, der Boden ist kalt.
+## Stoffe und Muster
+cotton | Baumwolle | Dieses Hemd ist aus Baumwolle.
+wool | Wolle | Ein Wollpullover hält warm.
+silk | Seide | Sie hat ein Seidentuch geschenkt bekommen.
+leather | Leder | Ich möchte eine Lederjacke.
+denim | Jeansstoff, Denim | Jeansjacken kommen nie aus der Mode.
+striped | gestreift | Er trägt ein blau gestreiftes Hemd.
+checked | kariert | Ich finde deinen karierten Rock toll.
+spotted | gepunktet | Das Baby hat eine gepunktete Mütze.
+plain | einfarbig, schlicht | Ich bevorzuge einfarbige T-Shirts.
+pattern | Muster | Das Muster auf diesem Kleid ist wunderschön.
+## Beim Einkaufen
+try on | anprobieren | Kann ich dieses Kleid anprobieren?
+baggy | weit geschnitten, baggy | Er trägt gern weit geschnittene Hosen.
+suit | gut stehen (Kleidung) | Diese Farbe steht dir wirklich gut.
+go with (went, gone) | passen zu | Passt dieser Gürtel zu meinen Schuhen?
+in stock | auf Lager, vorrätig | Ist dieses Modell auf Lager?
+out of stock | nicht vorrätig, vergriffen | Tut mir leid, diese Größe ist nicht vorrätig.
+just looking | sich nur umsehen, nur schauen | Nein, danke, ich schaue mich nur um.
+exchange | umtauschen | Kann ich dieses Hemd gegen ein größeres umtauschen?
+loose | locker sitzend, weit | Diese Hose ist zu weit.
+tight | eng | Die Schuhe sind etwas eng.
