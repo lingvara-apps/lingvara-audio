@@ -1,0 +1,111 @@
+# UNIT: 科技 | 设备、互联网、社交媒体、问题
+## 设备
+device | 设备 | 这个设备不用电线也能工作。
+desktop | 台式电脑 | 我在家用台式电脑。
+smartphone | 智能手机 | 现在几乎每个人都有智能手机。
+charger | 充电器 | 我能借一下你的手机充电器吗？
+battery | 电池 | 电池可以用一整天。
+headphones | 耳机 | 由纪戴着耳机听音乐。
+keyboard | 键盘 | 这个键盘非常安静。
+webcam | 网络摄像头 | 我的网络摄像头坏了。
+speaker | 扬声器 | 把你的手机连接到扬声器。
+cable | 电缆 | 这根电缆太短了。
+## 电脑使用
+log in | 登录 | 请使用您的电子邮箱地址登录。
+log out | 登出 | 别忘了登出。
+password | 密码 | 绝不要分享你的密码。
+username | 用户名 | 我的用户名太长了。
+click | 点击 | 点击蓝色按钮。
+type | 打字 | 埃姆雷打字非常快。
+save | 保存 | 关闭文档前请先保存。
+delete | 删除 | 我不小心删除了这张照片。
+double-click | 双击 | 双击图标以打开程序。
+paste | 粘贴 | 复制这段文字并粘贴到这里。
+## 互联网
+website | 网站 | 这家博物馆有一个很棒的网站。
+online | 在线 | 我大部分东西都在网上买。
+offline | 离线 | 这个应用离线也能用。
+download | 下载 | 你可以免费下载地图。
+upload | 上传 | 玛丽亚上传了她的度假照片。
+homepage | 主页 | 返回主页。
+link | 链接 | 点击邮件中的链接。
+web page | 网页 | 这个网页有很多广告。
+Wi-Fi | 无线网络 | 这里的无线网络密码是多少？
+connection | 网络连接 | 网络连接非常慢。
+## 电子邮件与消息
+unsubscribe | 取消订阅 | 我取消订阅了他们的邮件。
+inbox | 收件箱 | 我的收件箱里塞满了邮件。
+email address | 电子邮箱地址 | 你的电子邮箱地址是什么？
+group chat | 群聊 | 我们家有一个群聊。
+video chat | 视频聊天 | 我们和奶奶视频聊天了。
+message | 消息 | 我收到了安娜的一条消息。
+voice message | 语音消息 | 奥马尔给我发了一条长语音消息。
+subscribe | 订阅 | 订阅我们的简报。
+notification | 通知 | 我关闭了所有通知。
+contacts | 联系人 | 你的号码不在我的联系人里。
+## 社交媒体
+social media | 社交媒体 | 青少年在社交媒体上花费数小时。
+post | 发布（动态） | 安娜发布了一张她蛋糕的照片。
+emoji | 表情符号 | 她用一个红心表情符号回复了。
+block | 拉黑 | 你可以屏蔽那些惹恼你的人。
+follow | 关注 | 我关注了一些美食页面。
+comment | 评论 | 谢谢大家的所有好评！
+profile | 个人资料 | 更新你的个人资料照片。
+story | 快拍（社交媒体） | 她每天都会发布一条新快拍。
+avatar | 头像 | 为你的账户选择一个头像。
+tag | 标记 | 在照片里标记我！
+## 智能手机
+app | 应用软件 | 这个应用帮我学习英语。
+run out of battery (ran, run) | 手机没电 | 我的手机在火车上没电了。
+SIM card | SIM卡 | 我在机场买了一张本地SIM卡。
+ringtone | 铃声 | 我不喜欢你的新铃声。
+selfie | 自拍 | 我们在河边拍张自拍照吧。
+swipe | 滑动 | 向左滑动查看更多照片。
+screenshot | 截图 | 给错误提示截个图。
+silent mode | 静音模式 | 请把手机调成静音模式。
+flat | 没电的 | 抱歉，我的电池没电了。
+missed call | 未接来电 | 我有三个妈妈的未接来电。
+## 技术问题
+slow down | 变慢 | 我打开很多程序时，电脑就会变慢。
+freeze (froze, frozen) | 卡死 | 通话过程中屏幕卡死了。
+infected | 感染病毒的 | 我的笔记本电脑中毒了，别用它。
+error | 错误 | 屏幕上出现了一条错误信息。
+restart | 重启 | 试着重启一下你的笔记本电脑。
+not working | 不工作 | 打印机又坏了。
+broken | 碎的 | 我手机的屏幕碎了。
+technical support | 技术支持 | 打电话寻求技术支持。
+loading | 加载中 | 页面仍在加载。
+go down (went, gone) | 瘫痪 | 网站瘫痪了一个小时。
+## 安全与隐私
+account | 账户 | 我昨天开了一个新账户。
+settings | 设置 | 检查你的隐私设置。
+steal (stole, stolen) | 偷窃 | 有人在网上盗取了我的银行资料。
+hack | 黑客入侵 | 有人黑了我的电子邮箱账户。
+back up | 备份 | 总是备份你的照片。
+personal data | 个人数据 | 在网上保护你的个人数据。
+scam | 诈骗 | 那条消息是诈骗，不要回复。
+fake | 假的 | 小心假网站。
+antivirus | 杀毒软件 | 安装好的杀毒软件。
+secure | 安全的 | 这个支付页面安全吗？
+## 游戏与娱乐
+computer game | 电脑游戏 | 由纪设计电脑游戏。
+high score | 最高分 | 我儿子打破了我的最高分记录。
+game over | 游戏结束 | 噢不，又游戏结束了！
+controller | 手柄 | 把手柄递给我，轮到我了。
+console | 游戏机 | 阿利周末在游戏机上玩。
+gamer | 游戏玩家 | 我弟弟是个重度游戏玩家。
+level | 关卡 | 我通不了这一关。
+playlist | 播放列表 | 我为我们的公路旅行制作了一个播放列表。
+subscription | 订阅服务 | 我取消了我的音乐订阅。
+user | 用户 | 这个应用有数百万用户。
+## 科技与生活
+go online | 上网 | 我每天早晨都上网。
+surf the internet | 浏览互联网 | 他在网上冲浪了几个小时。
+e-book | 电子书 | 我在火车上读电子书。
+QR code | 二维码 | 扫描二维码查看菜单。
+modern | 现代的 | 我们学校有非常现代化的电脑。
+electric | 电动的 | Lukas开一辆电动汽车。
+adapter | 转接头 | 这个插座需要一个转接头。
+unplug | 拔掉插头 | 度假前把电视插头拔掉。
+technology | 科技 | 科技变化非常快。
+Bluetooth | 蓝牙 | 打开蓝牙连接扬声器。
