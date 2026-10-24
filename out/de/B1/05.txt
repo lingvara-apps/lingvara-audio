@@ -1,0 +1,111 @@
+# UNIT: Gesundheit und Psychologie | Krankheit, Behandlung, psychische Gesundheit
+## Krankheiten und Zustände
+condition | gesundheitliches Problem, chronische Erkrankung | Er hat ein Herzleiden, weshalb er schwere körperliche Anstrengung vermeidet.
+heart disease | Herzerkrankung | Rauchen erhöht das Risiko für Herzerkrankungen erheblich.
+high blood pressure | Bluthochdruck | Zu viel Salz kann zu Bluthochdruck führen.
+migraine | Migräne | Sofia blieb wegen ihrer Migräne in einem dunklen Zimmer.
+long-term | langfristig | Nach Jahren des schweren Hebens hat Ali langfristige Rückenprobleme.
+run down | ausgelaugt, erschöpft | Wenn ich erschöpft bin, fange ich mir jede Erkältung ein, die gerade umgeht.
+hay fever | Heuschnupfen | Jeden Mai sorgt mein Heuschnupfen dafür, dass meine Augen rot werden und jucken.
+rash | Ausschlag | Die neue Seife hat bei dem Baby einen roten Ausschlag an den Armen verursacht.
+ailment | Wehwehchen, Beschwerde | Meine Großmutter behandelt jedes kleine Wehwehchen mit Kräutertee.
+suffer from | leiden unter, zu kämpfen haben mit | Viele Menschen leiden unter Kopfschmerzen, wenn sie nicht genug Wasser trinken.
+## Muayene und teşhis
+examination | Untersuchung | Der Arzt führte eine kurze Untersuchung durch und fand nichts Ernsthaftes.
+health insurance | Krankenversicherung | Prüfe, ob deine Krankenversicherung die Behandlung im Ausland abdeckt.
+specialist | Facharzt | Mein Hausarzt hat mich wegen meiner Kopfschmerzen zu einem Facharzt überwiesen.
+GP | Hausarzt | Wenn du nach Großbritannien ziehst, musst du dich bei einem Hausarzt anmelden.
+test results | Testergebnisse | Deine Testergebnisse werden am Freitagmorgen fertig sein.
+sick leave | Krankschreibung, Krankheitsurlaub | Der Arzt hat Emre eine Woche Krankschreibung gegeben.
+thermometer | Thermometer | Die Pflegerin hat mir ein Thermometer unter den Arm gesteckt.
+medical history | Krankengeschichte | Der neue Arzt fragte nach der Krankengeschichte meiner Familie.
+refer | überweisen | Die Klinik hat Omar an ein Krankenhaus im Stadtzentrum überwiesen.
+check | überprüfen, messen | Lass mich deinen Blutdruck überprüfen, bevor wir weitermachen.
+## Tedavi
+cure | heilen | Es gibt noch immer kein Medikament, das die gewöhnliche Erkältung heilen kann.
+therapy | Therapie | Nach dem Unfall brauchte sie monatelang Physiotherapie.
+medication | Medikamente, Medikamentenbehandlung | Nimmst du im Moment irgendwelche Medikamente ein?
+eye drops | Augentropfen | Verwende diese Augentropfen eine Woche lang dreimal täglich.
+nasal spray | Nasenspray | Verwende dieses Nasenspray nicht länger als fünf Tage.
+vaccine | Impfstoff, Impfung | Der Impfstoff schützt Kinder vor mehreren gefährlichen Krankheiten.
+heal | verheilen, heilen | Der Schnitt an seiner Hand ist in etwa einer Woche verheilt.
+treat | behandeln | Die Ärzte haben die Verbrennung mit einer Spezialcreme behandelt.
+remedy | Hausmittel, Heilmittel | Honig und Zitrone ist ein beliebtes Hausmittel bei Halsschmerzen.
+herbal medicine | Pflanzenheilkunde, pflanzliches Arzneimittel | Manche Menschen bevorzugen pflanzliche Arzneimittel gegenüber gewöhnlichen Tabletten.
+## Hastane süreci
+hospitalise | ins Krankenhaus einweisen | Er wurde nach dem Autounfall eine Woche lang ins Krankenhaus eingewiesen.
+on the mend | auf dem Weg der Besserung | Opa war sehr krank, aber jetzt ist er auf dem Weg der Besserung.
+under observation | unter Beobachtung | Nach dem Sturz wurde der Junge über Nacht unter Beobachtung gehalten.
+A&E | Notaufnahme | Wir haben am Samstagabend vier Stunden in der Notaufnahme gewartet.
+hospital gown | Krankenhaushemd | Die Pflegerin bat mich, ein Krankenhaushemd anzuziehen.
+maternity ward | Entbindungsstation, Kreißsaal | Ihre Tochter wurde um Mitternacht im Kreißsaal geboren.
+bed rest | Bettruhe | Der Arzt verordnete zwei Wochen vollständige Bettruhe.
+recovery | Genesung | Ärzte sagen, dass sie einen guten Genesungsprozess durchläuft.
+medical certificate | Attest, Krankmeldung | Du brauchst ein Attest, wenn du länger als eine Woche der Arbeit fernbleibst.
+NHS | staatlicher Gesundheitsdienst in Großbritannien | Im Vereinigten Königreich ist die meiste Krankenhausbehandlung im Rahmen des NHS kostenlos.
+## Ruh sağlığı
+mental illness | psychische Erkrankung | Eine psychische Erkrankung kann jeden in jedem Alter treffen.
+depressed | depressiv, niedergeschlagen | Nachdem er seinen Job verloren hatte, fühlte sich Lukas monatelang niedergeschlagen.
+low | niedergeschlagen, bedrückt | Ich fühle mich schon ein bisschen niedergeschlagen, seit die Ferien vorbei sind.
+stressed out | gestresst, gestresst sein | Emre war die ganze Woche wegen seiner Prüfungen gestresst.
+panic | Panik | Sie spürte eine Welle der Panik in der überfüllten U-Station.
+worried sick | in großer Sorge, sterbensbesorgt | Wo warst du? Wir haben uns solche Sorgen um dich gemacht!
+loneliness | Einsamkeit | Einsamkeit ist für viele ältere Menschen ein ernstes Problem.
+confidence | Selbstbewusstsein | Nette Worte von Lehrern können das Selbstbewusstsein eines Kindes stärken.
+psychiatric | psychiatrisch | Sie verbrachte letztes Jahr zwei Wochen in einer psychiatrischen Klinik.
+nervousness | Nervosität | Er versuchte, seine Nervosität vor dem Vorstellungsgespräch zu verbergen.
+## Psikolojik destek
+psychologist | Psychologe | Maria geht seit ein paar Monaten zu einem Psychologen.
+group therapy | Gruppentherapie | In der Gruppentherapie teilen Menschen ihre Erfahrungen mit anderen.
+emotional support | seelische Unterstützung, emotionaler Beistand | Freunde und Familie können wichtige seelische Unterstützung bieten.
+treatment plan | Behandlungsplan | Der Therapeut und ich haben uns gemeinsam auf einen Behandlungsplan geeinigt.
+support group | Selbsthilfegruppe | Der Beitritt zu einer Selbsthilfegruppe half ihm, sich weniger allein zu fühlen.
+handle | bewältigen, klarkommen mit | Jeder hat unterschiedliche Wege, um mit Stress umzugehen.
+self-care | Selbstfürsorge | Selbstfürsorge bedeutet, sich Zeit für Ruhe und Dinge zu nehmen, die dir Spaß machen.
+talk through | durchsprechen | Es hilft, deine Probleme mit einem Freund durchzusprechen.
+confidential | vertraulich | Alles, was du in der Therapie sagst, ist absolut vertraulich.
+helpline | Telefonseelsorge, Hotline | Du kannst die Hotline Tag und Nacht jederzeit anrufen.
+## Zihin ve davranış
+positive attitude | positive Grundhaltung | Seit er mit der Therapie begonnen hat, hat er eine viel positive Grundhaltung.
+tendency | Neigung | Maria neigt dazu, sich über Kleinigkeiten Sorgen zu machen.
+obsession | Zwang, Fixierung | Seine Fixierung auf Sauberkeit führt dazu, dass er sich ständig die Hände wäscht.
+memory | Gedächtnis, Erinnerung | Genug Schlaf zu bekommen ist wichtig für ein gutes Gedächtnis.
+focus | sich konzentrieren | Ich kann mich nicht konzentrieren, wenn die Nachbarn laute Musik hören.
+dependence | Abhängigkeit | Einige Schmerzmittel können zu Abhängigkeit führen, wenn man sie zu lange einnimmt.
+hooked | süchtig, abhängig | Er gibt zu, dass er nach Kaffee und Videospielen süchtig ist.
+keep it together | die Nerven behalten, sich zusammenreißen | Sie hat sich während des schwierigen Meetings schwer angestrengt, sich zusammenzureißen.
+in shock | unter Schock | Die Überlebenden des Absturzes standen am nächsten Tag noch unter Schock.
+scatterbrained | zerstreut, verpeilt | Stress und Schlafmangel können einen zerstreut machen.
+## Uyku ve enerji
+sleepless | schlaflos | Stress bei der Arbeit bescherte ihr viele schlaflose Nächte.
+exhausted | völlig erschöpft | Nach der Nachtschicht war Diego völlig erschöpft.
+fatigue | Erschöpfung, Müdigkeit | Erschöpfung ist eines der häufigsten Symptome dieser Krankheit.
+nap | Nickerchen, Mittagsschlaf | Mein Großvater macht jeden Tag nach dem Mittagessen ein kurzes Nickerchen.
+nightmare | Albtraum | Das Kind wachte nach einem schrecklichen Albtraum weinend auf.
+snore | schnarchen | Ich kann nicht schlafen, weil mein Bruder so laut schnarcht.
+drowsy | schläfrig, benommen | Dieses Medikament kann dich schläfrig machen, fahr also lieber nicht Auto.
+lie in (lay, lain) | ausschlafen | Sonntags schlafe ich gerne bis zehn Uhr aus.
+energetic | energiegeladen, tatkräftig | Ich fühle mich viel energiegeladener, seit ich mit dem Rad zur Arbeit fahre.
+body clock | innere Uhr | Lange Flüge können deine innere Uhr völlig durcheinanderbringen.
+## Sağlıklı alışkanlıklar
+mindfulness | Achtsamkeit | Achtsamkeit lehrt dich, auf den gegenwärtigen Moment zu achten.
+lifestyle | Lebensstil | Ärzte empfehlen Büroangestellten einen aktiveren Lebensstil.
+nutrition | Ernährung | Eine gute Ernährung ist besonders für heranwachsende Kinder wichtig.
+meditation | Meditation | Zehn Minuten Meditation jeden Morgen helfen mir, mich ruhig zu fühlen.
+relaxation | Entspannung | Atemübungen sind eine einfache Form der Entspannung.
+cut down on | reduzieren, einschränken | Mein Arzt hat mir gesagt, ich solle Zucker und Salz reduzieren.
+give up smoking | mit dem Rauchen aufhören | Omar hat nach zwanzig Jahren endlich mit dem Rauchen aufgehört.
+prevent | vorbeugen, verhindern | Sich oft die Hände zu waschen hilft, Infektionen vorzubeugen.
+prevention | Prävention, Vorbeugung | Vorbeugung ist immer billiger als Behandlung.
+hydrated | ausreichend hydriert, gut mit Flüssigkeit versorgt | Trink viel Wasser, um bei heißem Wetter ausreichend hydriert zu bleiben.
+## Duygusal sağlık
+resilience | Widerstandskraft, Resilienz | Schwierige Erfahrungen können bei jungen Menschen manchmal Widerstandskraft aufbauen.
+grief | tiefe Trauer, Kummer | Jeder erlebt Trauer nach dem Verlust eines Menschen anders.
+frustration | Frustration | Er schrie vor Frustration, als der Computer wieder abstürzte.
+edgy | nervös, auf dem Sprung | Alle im Büro waren vor der Bekanntgabe nervös.
+loosen up | locker werden, sich entspannen | Entspann dich, das ist nur ein kleiner Fehler.
+under pressure | unter Druck | Schüler stehen während der Prüfungszeit stark unter Druck.
+mood swings | Stimmungsschwankungen | Schlafmangel kann Stimmungsschwankungen und Reizbarkeit verursachen.
+grumpy | mürrisch, schlecht gelaunt | Ich werde mürrisch, wenn ich stundenlang nichts gegessen habe.
+emotional | emotional, rührend | Der Film war so rührend, dass die Hälfte des Publikums weinte.
+bottle up | unterdrücken, in sich hineinfressen | Es ist nicht gesund, seine Gefühle jahrelang in sich hineinzufressen.

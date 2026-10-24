@@ -1,0 +1,111 @@
+# UNIT: Wissenschaft und Technologie | Künstliche Intelligenz, Biotechnologie, Energie, digitale Gesellschaft
+## Künstliche Intelligenz
+generative | generativ | Generative Tools können heute realistische Bilder aus einer kurzen Beschreibung erstellen.
+reinforcement learning | bestärkendes Lernen | Durch bestärkendes Lernen hat sich das Programm selbst beigebracht, Schach zu spielen.
+deep learning | Deep Learning, tiefes Lernen | Deep Learning hat die Spracherkennung im vergangenen Jahrzehnt grundlegend verändert.
+training data | Trainingsdaten | Wenn die Trainingsdaten voreingenommen sind, sind es die Entscheidungen des Modells auch.
+language model | Sprachmodell | Das Sprachmodell kann einen langen Bericht in wenigen Sekunden zusammenfassen.
+hallucination | Halluzination (KI-Fehler) | Überprüfe immer die Quellen, denn eine Halluzination kann sehr überzeugend wirken.
+virtual assistant | virtueller Assistent | Der virtuelle Assistent beantwortet die meisten Fragen zu verlorenem Gepäck.
+robotics | Robotik | Lukas macht einen Master in Robotik und Steuerungssystemen.
+computer vision | Computer Vision, maschinelles Sehen | Computer Vision ermöglicht es dem Auto, Fußgänger bei Nacht zu erkennen.
+fine-tune | feinabstimmen | Das Team hat das Modell anhand von Tausenden medizinischen Berichten feinabgestimmt.
+## Daten und Rechenleistung
+big data | Big Data, große Datenmengen | Einzelhändler nutzen Big Data, um vorherzusagen, was Kunden als Nächstes kaufen werden.
+cloud computing | Cloud-Computing | Cloud-Computing ermöglicht es kleinen Firmen, Rechenleistung zu mieten, statt Server zu kaufen.
+processing power | Rechenleistung | Das Training eines solchen Modells erfordert eine enorme Menge an Rechenleistung.
+quantum computing | Quantencomputing | Quantencomputing könnte eines Tages die heutigen Verschlüsselungsmethoden knacken.
+encryption | Verschlüsselung | End-to-End-Verschlüsselung bedeutet, dass nur der Sender und der Empfänger Nachrichten lesen können.
+throughput | Datendurchsatz | Die neuen Chips verdoppelten den Datendurchsatz der Unternehmensserver.
+latency | Latenz, Verzögerungszeit | Eine niedrige Latenz ist entscheidend für Onlinespiele und Fernoperationen.
+semiconductor | Halbleiter | Ein weltweiter Mangel an Halbleitern verzögerte die Automobilproduktion monatelang.
+data centre | Rechenzentrum | Das neue Rechenzentrum nutzt Meerwasser, um seine Server zu kühlen.
+computational | rechnerisch, computergestützt | Computergestützte Modelle halfen den Wissenschaftlern vorherzusagen, wie sich das Virus verbreiten würde.
+## Biotechnologie
+biotechnology | Biotechnologie | Die Biotechnologie ist inzwischen einer der am schnellsten wachsenden Sektoren in der Region.
+genome | Genom | Wissenschaftler haben das gesamte Genom der Weizenpflanze kartiert.
+gene editing | Genbearbeitung | Die Genbearbeitung wirft schwierige Fragen darüber auf, was natürlich ist.
+stem cell | Stammzelle | Stammzellenforschung gibt Patienten mit Rückenmarksverletzungen Hoffnung.
+cloning | Klonen | Viele Länder haben das Klonen von Menschen verboten.
+transgenic | transgen | Transgene Nutzpflanzen bleiben in Teilen Europas umstritten.
+sequencing | Sequenzierung | Die Kosten für die DNA-Sequenzierung sind in zwanzig Jahren drastisch gesunken.
+enzyme | Enzym | Dieses Enzym baut Plastik viel schneller ab, als Wissenschaftler erwartet hatten.
+synthetic biology | synthetische Biologie | Die synthetische Biologie zielt darauf ab, Organismen zu entwerfen, die Kraftstoff produzieren können.
+gene therapy | Gentherapie | Die Gentherapie gab mehreren Patienten in der Studie das Sehvermögen teilweise zurück.
+## Medizintechnik
+biomarker | Biomarker | Forscher haben einen Biomarker gefunden, der die Krankheit Jahre im Voraus ankündigen kann.
+diagnostics | Diagnostik | Eine schnellere Diagnostik könnte jedes Jahr Tausende von Menschenleben retten.
+bionic | bionisch | Der Athlet läuft mit einem bionischen Bein, das sich an jeden Schritt anpasst.
+prosthesis (prostheses) | Prothese | Die neue Prothese reagiert direkt auf Signale der Muskeln.
+implant | Implantat | Ein winziges Implantat hilft dem Patienten, das Zittern in seinen Händen zu kontrollieren.
+telemedicine | Telemedizin | Die Telemedizin ermöglicht es Dorfbewohnern, Fachärzte aufzusuchen, ohne zu reisen.
+nanotechnology | Nanotechnologie | Nanotechnologie könnte es Medikamenten ermöglichen, Krebszellen direkt zu erreichen.
+medical imaging | mediziniske Bildgebung | Fortschritte in der medizinischen Bildgebung haben viele Operationen weitaus weniger invasiv gemacht.
+precision medicine | Präzisionsmedizin | Die Präzisionsmedizin stimmt die Behandlung auf das genetische Profil jedes Patienten ab.
+clinical trial | klinische Studie | Der Impfstoff tritt nun in die letzte Phase seiner klinischen Studie ein.
+## Energiequellen
+photovoltaic | photovoltaisch | Photovoltaikanlagen bedecken inzwischen das Dach der gesamten Fabrik.
+solar farm | Solarpark, Solaranlage | Wo früher das alte Kohlebergwerk war, steht heute ein riesiger Solarpark.
+power grid | Stromnetz | Das Stromnetz hatte Mühe, mit der plötzlichen Hitzewelle fertig zu werden.
+fission | Kernspaltung | Heutige Kernkraftwerke erzeugen Energie durch Kernspaltung.
+fusion | Kernfusion | Die Fusion verspricht fast unbegrenzte Energie, ist aber noch Jahrzehnte entfernt.
+hydrogen | Wasserstoff | Einige Züge in Nordeuropa fahren bereits mit Wasserstoff.
+fuel cell | Brennstoffzelle | Der Bus wird von einer Brennstoffzelle angetrieben, die nur Wasser ausstößt.
+energy storage | Energiespeicher | Günstige Energiespeicher sind das fehlende Puzzleteil bei den erneuerbaren Energien.
+geothermal | geothermisch | Island heizt die Meisten seiner Häuser mit Geothermie.
+tidal power | Gezeitenkraft | Die schmale Bucht ist ein idealer Standort für die Erzeugung von Gezeitenenergie.
+## Kohlenstoff und Effizienz
+emissions trading | Emissionshandel | Der Emissionshandel ermöglicht es Unternehmen, Verschmutzungsrechte zu kaufen und zu verkaufen.
+decarbonise | dekarbonisieren, emissionsarm machen | Die Schwerindustrie ist der am schwersten zu dekarbonisierende Sektor.
+carbon capture | Abscheidung von Kohlenstoff, CO2-Abscheidung | Die Technologie zur CO2-Abscheidung ist für die meisten Kraftwerke noch zu teuer.
+carbon offset | CO2-Kompensation | Diego kauft bei jedem Langstreckenflug eine CO2-Kompensation.
+smart meter | intelligenter Zähler, Smart Meter | Der intelligente Zähler zeigt genau an, wie viel Strom wir jede Stunde verbrauchen.
+retrofit | nachrüsten | Die Gemeinde plant, alte Wohnungen mit einer besseren Dämmung nachzurüsten.
+electric vehicle | Elektrofahrzeug | Die Verkäufe von Elektrofahrzeugen haben sich im Land letztes Jahr verdoppelt.
+charging station | Ladestation | Auf der Autobahn zwischen den beiden Städten gibt es nach wie vor keine Ladestation.
+biofuel | Biokraftstoff | Kritiker argumentieren, dass der Anbau von Nutzpflanzen für Biokraftstoff die Lebensmittelpreise erhöht.
+energy-efficient | energieeffizient | Energieeffiziente Geräte kosten mehr, sparen aber auf lange Sicht Geld.
+## Digitale Gesellschaft
+smart city | Smart City, intelligente Stadt | In einer Smart City passen Sensoren Ampeln an den Echtzeitverkehr an.
+connectivity | Konnektivität, Verbindung | Schlechte Konnektivität in ländlichen Gebieten macht mobiles Arbeiten fast unmöglich.
+e-government | E-Government, elektronische Verwaltung | Dank E-Government-Diensten hat Emre seinen Führerschein in zehn Minuten erneuert.
+gig economy | Gig Economy, Plattformökonomie | Viele Lieferfahrer in der Gig Economy haben keinen bezahlten Urlaub.
+digital literacy | digitale Kompetenz | Schulen sollten neben Lesen und Mathe auch digitale Kompetenz vermitteln.
+attention economy | Aufmerksamkeitsökonomie | In der Aufmerksamkeitsökonomie konkurrieren Apps um jede Minute unseres Tages.
+soundbite |prägnantes Zitat, Soundbite | Komplexe wissenschaftliche Erkenntnisse werden in den Nachrichten oft auf ein einziges prägnantes Zitat reduziert.
+content moderation | Inhaltsmoderation | Die Inhaltsmoderation auf großen Plattformen wird oft von unterbezahlten Arbeitern durchgeführt.
+screen time | Bildschirmzeit | Ärzte empfehlen, die Bildschirmzeit für kleine Kinder zu begrenzen.
+digital footprint | digitaler Fußabdruck | Alles, was du online veröffentlichst, trägt zu deinem permanenten digitalen Fußabdruck bei.
+## Cybersicherheit
+spyware | Spyware, Spähsoftware | Ermittler fanden Spyware auf dem Handy des Journalisten versteckt.
+botnet | Botnetz | Kriminelle nutzten ein Botnetz aus infizierten Heimroutern, um Spam zu versenden.
+denial-of-service attack | Denial-of-Service-Angriff | Ein Denial-of-Service-Angriff legte die Website des Ministeriums stundenlang lahm.
+penetration testing | Penetrationstesting | Die Bank engagiert ethische Hacker, um jedes Jahr Penetrationstests durchzuführen.
+zero-day | Zero-Day (Sicherheitslücke) | Angreifer nutzten eine Zero-Day-Lücke aus, bevor die Entwickler überhaupt wussten, dass sie existiert.
+biometric | biometrisch | Biometrische Kontrollen wie Fingerabdrücke sind an Grenzkontrollen inzwischen üblich.
+hacktivist | Hacktivist | Eine Gruppe von Hacktivisten verunstaltete die Website des Unternehmens aus Protest.
+end-to-end | End-to-End | End-to-End-Schutz bedeutet, dass niemand dazwischen deine Dateien lesen kann.
+vulnerability | Schwachstelle, Sicherheitslücke | Ingenieure veröffentlichten ein Update, um eine schwere Schwachstelle in der App zu beheben.
+backdoor | Hintertür | Experten warnten, dass eine Hintertür für die Polizei auch von Kriminellen genutzt werden könnte.
+## Raumfahrttechnik
+launch vehicle | Trägerrakete | Die Trägerrakete brachte drei Wettertatelliten gleichzeitig ins All.
+reusable | wiederverwendbar | Wiederverwendbare Raketen haben die Kosten für das Erreichen des Weltalls drastisch gesenkt.
+payload | Nutzlast | Zur Nutzlast der Rakete gehörte ein kleines Teleskop, das von Studenten gebaut wurde.
+low Earth orbit | niedrige Erdumlaufbahn | Tausende kleine Satelliten kreisen nun in einer niedrigen Erdumlaufbahn um den Planeten.
+space debris | Weltraummüll | Schon ein winziges Stück Weltraummüll kann einen Satelliten schwer beschädigen.
+propulsion | Antriebssystem | Ingenieure testen eine neue Form des elektrischen Antriebs für Tiefraummissionen.
+geostationary | geostationär | Ein geostationärer Satellit bleibt über demselben Punkt am Äquator.
+space probe | Raumsonde | Die Raumsonde schickte detaillierte Bilder der Saturnringe zurück.
+re-entry | Wiedereintritt | Hitzeschild der Kapsel muss die extreme Hitze des Wiedereintritts überstehen.
+microgravity | Mikrogravitation | Pflanzen, die in Mikrogravitation gezüchtet werden, entwickeln Wurzeln in unerwarteten Richtungen.
+## Innovation und Ethik
+proof of concept | Machbarkeitsnachweis | Der kleine Versuch diente als Machbarkeitsnachweis für das neue Akkudesign.
+prototype | Prototyp | Die Ingenieure testeten den ersten Prototyp in einem Windkanal.
+game-changer | bahnbrechende Neuerung, Game-Changer | Günstige Akkus könnten ein Game-Changer für abgelegene Dörfer sein.
+cutting-edge | hochmodern, spitzentechnologisch | Das Labor ist mit hochmodernen Mikroskopen aus mehreren Ländern ausgestattet.
+legacy system | Altsystem, Legacy-System | Die Bank wickelt ihre Zahlungen immer noch über ein Altsystem aus den Achtzigern ab.
+early adopter | Early Adopter, früher Anwender | Als Early Adopter kaufte Yuki das Headset am ersten Verkaufstag.
+research and development | Forschung und Entwicklung (FuE) | Das Unternehmen gibt ein Fünftel seines Einkommens für Forschung und Entwicklung aus.
+dual-use | Dual-Use, zivil und militärisch nutzbar | Ausfuhrkontrollen gelten für Dual-Use-Technologien wie fortschrittliche Drohnen.
+algorithmic bias | algorithmische Verzerrung | Experten warnen, dass algorithmische Verzerrung zu unfairen Personalentscheidungen führen kann.
+precautionary principle | Vorsorgeprinzip | Nach dem Vorsorgeprinzip muss zuerst bewiesen werden, dass neue Chemikalien sicher sind.

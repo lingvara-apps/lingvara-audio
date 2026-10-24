@@ -1,0 +1,111 @@
+# UNIT: Recht und Gesellschaft | Gesetze, Gericht, Staat, Rechte
+## Gesetze und Regeln
+rule | Regel | Bitte lies die Regeln, bevor du das Spiel startest.
+legal | legal, gesetzlich | Ist es legal, eine Drohne über dem Stadtzentrum fliegen zu lassen?
+illegal | illegal, gesetzwidrig | Es ist illegal, dein Auto vor einer Feuerwache zu parken.
+lawful | rechtmäßig, gesetzlich | Das Gericht hat entschieden, dass die Handlungen des Unternehmens rechtmäßig waren.
+against the law | gegen das Gesetz, gesetzwidrig | Ohne Versicherung zu fahren, verstößt gegen das Gesetz.
+prohibited | verboten (offiziell) | Das Fotografieren ist im Gerichtssaal strengstens verboten.
+allowed | erlaubt, gestattet | Hunde sind im Sommer am Strand nicht erlaubt.
+obey | befolgen, einhalten | Jeder muss das Gesetz befolgen, selbst die reichsten Leute.
+break the law | das Gesetz brechen, gegen das Gesetz verstoßen | Er wusste nicht, dass er das Gesetz brach, indem er dort campte.
+forbidden | verboten | Das Rauchen im Krankenhausgebäude ist strengstens verboten.
+## Suç
+crime | Verbrechen, Kriminalität | Kriminalität ist in einigen Teilen der Stadt ein ernsthaftes Problem.
+criminal | Krimineller, Verbrecher | Die Polizei hat den Kriminellen am Flughafen geschnappt.
+theft | Diebstahl | Sie hat den Diebstahl ihres Fahrrads der Polizei gemeldet.
+thief (thieves) | Dieb (Diebe) | Ein Dieb hat mir meine Geldbörse gestohlen, während ich im vollen Bus war.
+robbery | Raubüberfall, Raub | Es gab einen bewaffneten Raubüberfall auf die Bank in der Hauptstraße.
+burglar | Einbrecher | Der Einbrecher ist durch ein offenes Küchenfenster eingestiegen.
+shoplifting | Ladendiebstahl | Der Jugendliche wurde beim Ladendiebstahl in einem Kleidergeschäft erwischt.
+offender | Täter, Straffälliger | Jungtäter erhalten vom Gericht oft eine zweite Chance.
+smuggle | schmuggeln | Sie versuchten, Zigaretten über die Grenze zu schmuggeln.
+commit | begehen, verüben | Die meisten jungen Leute, die eine Straftat begehen, tun es nie wieder.
+## Polis ve soruşturma
+patrol | streifen, Patrouille gehen | Polizisten patrouillieren jede Nacht nach zehn Uhr im Park.
+investigate | untersuchen, ermitteln | Die Polizei ermittelt wegen des Brandes im Lagerhaus.
+investigation | Untersuchung, Ermittlung | Die Ermittlungen könnten mehrere Monate in Anspruch nehmen.
+fingerprint | Fingerabdruck | Die Polizei fand seine Fingerabdrücke am zerbrochenen Fenster.
+witness | Zeuge | Ein Zeuge sah, wie der Mann aus dem Geschäft rannte.
+suspicious | verdächtig | Rufe die Polizei, wenn du etwas Verdächtiges in der Nähe des Bahnhofs siehst.
+arrest | festnehmen, verhaften | Letzte Nacht wurden zwei Männer in der Nähe des Bahnhofs festgenommen.
+clue | Hinweis, Anhaltspunkt | Der Detektiv fand einen wichtigen Hinweis unter dem Teppich.
+detective | Detektiv, Ermittler | Der Detektiv verbrachte Stunden damit, mit den Nachbarn zu sprechen.
+crime scene | Tatort | Zwei Tage lang durfte sich niemand dem Tatort nähern.
+## Mahkeme
+court | Gericht | Der Fall kommt Ende nächsten Monats vor Gericht.
+judge | Richter | Der Richter hörte sich beide Seiten der Geschichte aufmerksam an.
+testify | aussagen, als Zeuge aussagen | Ali stimmte zu, über das auszusagen, was er in jener Nacht sah.
+trial | Gerichtsverfahren, Prozess | Der Prozess wird voraussichtlich etwa drei Wochen dauern.
+defend | verteidigen | Ein junger Anwalt wird sie vor Gericht verteidigen.
+case | Fall, Rechtsache | Der Anwalt sagte, wir haben einen sehr starken Fall.
+accuse | beschuldigen, anklagen | Sie wurde beschuldigt, Geld von der Firma genommen zu haben.
+guilty | schuldig | Die Jury sprach ihn in allen drei Anklagepunkten für schuldig.
+innocent | unschuldig | Jeder ist unschuldig, bis das Gericht das Gegenteil beweist.
+on trial | vor Gericht stehen | Zwei Männer stehen vor Gericht, weil sie Gemälde aus dem Museum gestohlen haben.
+## Ceza
+jail | Gefängnis, Knast | Er verbrachte nach der Schlägerei eine Nacht im Gefängnis.
+prison | Haftanstalt, Gefängnis | Sie saß wegen Betrugs zwei Jahre im Gefängnis.
+prisoner | Gefangener | Die Gefangenen dürfen für einen Abschluss studieren.
+punishment | Strafe | Viele Leute finden, dass die Strafe viel zu milde war.
+punish | bestrafen | Sollten Eltern Kinder für jeden kleinen Fehler bestrafen?
+penalty | Strafe, Geldbuße | Die Strafe für das Nichtzahlen deiner Steuern kann sehr hoch sein.
+release | freilassen, entlassen | Er wurde nach Verbüßung von drei Jahren aus der Haft entlassen.
+behind bars | hinter Gittern | Der Bandenchef wird viele Jahre hinter Gittern verbringen.
+escape | fliehen, entkommen | Zwei Gefangene entkamen, indem sie über die Mauer kletterten.
+parking ticket | Strafzettel, Knöllchen | Ich habe einen Strafzettel bekommen, weil ich zu lange geblieben bin.
+## Devlet ve yönetim
+politician | Politiker | Der Politiker versprach, nächstes Jahr mehr Krankenhäuser zu bauen.
+senate | Senat | Das neue Gesetz muss zuerst vom Senat gebilligt werden.
+civil servant | Beamter, Staatsbediensteter | Meine Tante arbeitet seit zwanzig Jahren als Beamtin.
+president | Präsident | Der Präsident hielt eine Rede im nationalen Fernsehen.
+political | politisch | Sie diskutieren bei Familienessen niemals über politische Themen.
+stand for election | für ein Amt kandidieren, zur Wahl stehen | Unser Nachbar plant, für den Gemeinderat zu kandidieren.
+mayor | Bürgermeister | Der Bürgermeister versprach, die Parks der Stadt aufzuräumen.
+local council | Gemeinderat, Stadtrat | Der Gemeinderat möchte in unserer Gegend eine neue Bibliothek eröffnen.
+democratic | demokratisch | In einem demokratischen Land wählen die Menschen ihre Anführer.
+state | Staat | In vielen Ländern zahlt der Staat für die Grundbildung.
+## Haklar ve özgürlükler
+freedom of speech | Meinungsfreiheit | Meinungsfreiheit ist in einer gesunden Gesellschaft wichtig.
+equal rights | gleiche Rechte | Frauen in vielen Ländern kämpften für gleiche Rechte am Arbeitsplatz.
+freedom | Freiheit | Für viele junge Leute bedeutet ein erstes Auto Freiheit.
+free press | freie Presse | Eine freie Presse hilft den Menschen, die Wahrheit über die Machthaber zu erfahren.
+equal | gleich | Alle Bürger sollten vor dem Gesetz gleich sein.
+discrimination | Diskriminierung | Diskriminierung aufgrund des Alters ist hier gesetzwidrig.
+racist | rassistisch | Der Club schloss den Fan wegen rassistischer Äußerungen aus.
+peaceful | friedlich | Hunderte Schüler schlossen sich einem friedlichen Marsch gegen höhere Gebühren an.
+demonstrator | Demonstrant | Die Demonstranten trugen Plakate und sangen Lieder auf dem Platz.
+fairness | Fairness, Gerechtigkeit | Kinder haben schon früh einen starken Sinn für Gerechtigkeit.
+## Toplum ve vatandaşlık
+social | sozial, gesellschaftlich | Die Stadt versucht, ihre sozialen Probleme wie Einsamkeit zu lösen.
+good citizen | guter Bürger | Pünktlich Steuern zu zahlen ist Teil davon, ein guter Bürger zu sein.
+public service | öffentlicher Dienst, öffentliche Dienstleistung | Busse und Bibliotheken sind wichtige öffentliche Dienste.
+social services | Sozialamt, soziale Dienste | Soziale Dienste helfen Familien, die zu Hause ernsthafte Probleme haben.
+public | öffentlich | Die Bibliothek ist ein öffentliches Gebäude, daher ist der Eintritt frei.
+unemployment benefit | Arbeitslosengeld | Er erhielt nach dem Verlust seines Jobs sechs Monate lang Arbeitslosengeld.
+donation | Spende | Das Krankenhaus erhielt eine große Spende von einer lokalen Familie.
+responsibility | Verantwortung | Die Straßen sauber zu halten ist jedermanns Verantwortung.
+duty | Pflicht, Aufgabe | Es ist deine Pflicht, der Polizei zu erzählen, was du gesehen hast.
+donate | spenden | Wir haben unsere alten Kleider an Menschen gespendet, die ihr Zuhause verloren haben.
+## Resmî işlemler
+official letter | offizieller Brief, Schreiben | Ich habe heute Morgen einen offiziellen Brief vom Finanzamt bekommen.
+bureaucracy | Bürokratie | Ein kleines Unternehmen hier zu gründen bedeutet, sich mit viel Bürokratie herumzuschlagen.
+red tape | Bürokratie, Papierkram | Die neuen Regeln sollten den Papierkram für kleine Unternehmen reduzieren.
+notary | Notar | Du musst die Dokumente vor einem Notar unterschreiben.
+application | Bewerbung, Antrag | Bitte schicke deine Bewerbung vor Ende des Monats ab.
+queue up | Schlange stehen | Wir mussten zwei Stunden Schlange stehen, um unsere Dokumente zu erneuern.
+licence | Führerschein, Lizenz | Sie hat endlich im Alter von dreißig Jahren ihren Führerschein gemacht.
+identity card | Personalausweis | Bitte zeige am Eingang deinen Personalausweis.
+passport office | Passamt | Die Schlange im Passamt war über eine Stunde lang.
+fill out | ausfüllen | Bitte fülle dieses Formular aus und bringe es morgen zurück.
+## Anlaşmazlıklar ve adalet
+disagreement | Meinungsverschiedenheit, Streit | Die beiden Nachbarn hatten einen langen Streit über den Gartenzaun.
+make a complaint | sich beschweren, Beschwerde einlegen | Camille hat sich über den Lärm von der Bar beschwert.
+take to court | vor Gericht bringen, verklagen | Die Mieter beschlossen, ihren Vermieter zu verklagen.
+settle | beilegen, klären | Sie haben die Angelegenheit ohne Gerichtsverfahren beigelegt.
+fair trial | faire Gerichtsverhandlung, faires Verfahren | Jeder verdient ein faires Verfahren, egal was er getan hat.
+unfair | unfair, ungerecht | Viele Arbeiter finden die neuen Regeln völlig ungerecht.
+injustice | Ungerechtigkeit | Der Film zeigt die Ungerechtigkeit, unter der arme Familien leiden.
+reach an agreement | eine Einigung erzielen | Nach langen Gesprächen haben sich die beiden Seiten schließlich geeinigt.
+legal advice | Rechtsberatung | Du kannst montags im Rathaus kostenlose Rechtsberatung bekommen.
+rights and duties | Rechte und Pflichten | Mieter sollten vor der Unterschrift ihre Rechte und Pflichten kennen.

@@ -1,0 +1,111 @@
+# UNIT: Rechtssprache | Prozessrecht, Straf- und Zivilrecht, juristische Formulierungen
+## Gericht und Parteien
+plaintiff | Kläger, Klägerin | Der Kläger behauptet, dass das Unternehmen wiederholte Sicherheitswarnungen ignoriert hat.
+defendant | Angeklagter, Beklagter | Der Angeklagte saß schweigend da, während das Urteil verlesen wurde.
+prosecutor | Staatsanwalt, Staatsanwältin | Der Staatsanwalt forderte eine Freiheitsstrafe von fünf Jahren.
+counsel | Rechtsbeistand, Anwalt | Der Verteidiger beantragte eine kurze Unterbrechung.
+barrister | Prozessanwalt [vor höheren britischen Gerichten] | Ihr Anwalt argumentierte, dass die Beweise illegal beschafft worden waren.
+solicitor | beratender Rechtsanwalt [England] | Du solltest einen Anwalt bitten, den Vertrag zu prüfen, bevor du ihn unterschreibst.
+jury | Jury, Geschworenengericht | Die Geschworenen brauchten zwei Tage, um eine einstimmige Entscheidung zu treffen.
+bench | Richterbank, Richterkollegium | Der Fall wurde von einem Gremium aus drei Richtern verhandelt.
+litigant | Prozesspartei, Prozessbeteiligter | Viele Prozessparteien vertreten sich heute selbst, weil Anwälte so teuer sind.
+tribunal | Schiedsgericht, Sondergericht | Sie verklagte ihren ehemaligen Arbeitgeber vor einem Arbeitsgericht.
+## Verfahrensablauf
+indictment | Anklageschrift | Die Anklageschrift führt zwölf separate Betrugsvorwürfe auf.
+arraignment | Anklageverlesung [beim ersten Gerichtstermin] | Bei der Anklageverlesung plädierte er in allen Punkten auf nicht schuldig.
+plead | sich schuldig oder nicht schuldig bekennen | Sie bekannte sich der Fahrt ohne Versicherungsschutz schuldig.
+hearing | Anhörung, Verhandlung | Die nächste Verhandlung wurde auf den 15. März angesetzt.
+adjourn | vertagen, unterbrechen | Der Richter vertagte den Prozess, bis ein neuer Zeuge gefunden werden konnte.
+cross-examine | ins Kreuzverfragen nehmen, kreuzverhören | Der Anwalt nahm den Zeugen über eine Stunde lang ins Kreuzverhör.
+verdict | Urteil [der Geschworenen], Schuldspruch | Das Urteil überraschte fast jeden im Gerichtssaal.
+acquit | freisprechen | Nach einem langen Prozess sprach die Jury beide Männer frei.
+retrial | Neuaufnahme des Verfahrens, Neuverhandlung | Neue Beweise brachten das Gericht dazu, eine Neuverhandlung anzuordnen.
+precedent | Präzedenzfall | Das Urteil schuf einen wichtigen Präzedenzfall für künftige Datenschutzfälle.
+## Beweise und Aussagen
+testimony | Zeugenaussage, Aussage | Seine Aussage widersprach dem Bericht, den er der Polizei gegeben hatte.
+affidavit | eidesstattliche Erklärung | Der Nachbar unterzeichnete eine eidesstattliche Erklärung darüber, was er gesehen hatte.
+under oath | unter Eid | Zeugen, die unter Eid lügen, können wegen Meineids angeklagt werden.
+perjury | Meineid | Er wurde später wegen Meineids verurteilt, weil er vor Gericht gelogen hatte.
+exhibit | Beweismittel, Beweisstück [vor Gericht] | Das Messer wurde der Jury als Beweisstück Nummer vier gezeigt.
+circumstantial evidence | Indizienbeweis | Der Fall gegen ihn stützt sich ausschließlich auf Indizien.
+admissible | zulässig [als Beweis] | Das Gericht entschied, dass die Aufnahme vor Gericht nicht zulässig ist.
+alibi | Alibi | Sein Alibi wurde von drei Kollegen bestätigt, die in jener Nacht bei ihm waren.
+forensic | forensisch, kriminaltechnisch | Forensische Experten fanden Farbspuren auf dem Mantel des Opfers.
+burden of proof | Beweislast | In einem Strafprozess liegt die Beweislast bei der Staatsanwaltschaft.
+## Strafrecht
+offence | Straftat, Vergehen | Fahren ohne Führerschein ist in den meisten Ländern eine schwere Straftat.
+felony | Verbrechen [schwere Straftat] | In den USA wird Einbruch meist als Verbrechen eingestuft.
+misdemeanour | Übertretung, geringfügige Straftat | Ladendiebstahl von Kleinigkeiten wird oft als geringfügige Straftat behandelt.
+accomplice | Komplize, Mittäter | Die Polizei sucht noch immer nach seinem Komplizen.
+premeditated | vorsätzlich, geplant | Das Gericht stellte fest, dass der Angriff geplant war.
+mitigating circumstances | strafmildernde Umstände | Der Richter berücksichtigte strafmildernde Umstände und milderte die Strafe.
+culpable | schuldig, verantwortlich | Die Untersuchung sah die Manager für den Unfall als verantwortlich an.
+criminal record | Vorstrafe, Führungszeugnis | Bewerber mit einer Vorstrafe finden vielleicht nur schwer bestimmte Jobs.
+statute of limitations | Verjährungsfrist | Die Verjährungsfrist für diese Art von Betrug beträgt zehn Jahre.
+extradite | ausliefern [einen Verdächtigen] | Der Verdächtige wurde aus Spanien ausgeliefert, um sich in Deutschland vor Gericht zu verantworten.
+## Straftaten
+fraud | Betrug, Betrügerei | Der Buchhalter wurde wegen groß angelegten Steuerbetrugs verhaftet.
+embezzlement | Unterschlagung | Der Schatzmeister wurde wegen Unterschlagung von Vereinsgeldern angeklagt.
+bribery | Bestechung | Zwei Beamte wurden im Zusammenhang mit dem Vertrag wegen Bestechung ins Gefängnis gesteckt.
+forgery | Fälschung, Urkundenfälschung | Das Gemälde erwies sich als geschickte Fälschung.
+extortion | Erpressung | Die Bande verdiente Geld durch die Erpressung örtlicher Ladenbesitzer.
+manslaughter | Totschlag | Der Fahrer wurde wegen Totschlags verurteilt, nicht wegen Mordes.
+arson | Brandstiftung | Ermittler glauben, dass das Lagerhausfeuer Brandstiftung war.
+burglary | Einbruchdiebstahl, Einbruch | In diesem Winter gab es in der Gegend einen Anstieg von Einbrüchen.
+identity theft | Identitätsdiebstahl | Identitätsdiebstahl gehört im Internet zu den am schnellsten wachsenden Verbrechen.
+money laundering | Geldwäsche | Die Bank wurde mit einer Geldstrafe belegt, weil sie Geldwäsche nicht verhindert hatte.
+## Strafen und Vollzug
+sentence | verurteilen | Er wurde zu drei Jahren Haft verurteilt.
+custodial sentence | Freiheitsstrafe, Haftstrafe | Bei einer Ersttat ist eine Haftstrafe unwahrscheinlich.
+suspended sentence | Bewährungsstrafe | Sie erhielt eine bewährte Freiheitsstrafe und zweihundert Stunden gemeinnützige Arbeit.
+community service | gemeinnützige Arbeit, Sozialstunden | Die Jugendlichen wurden zu gemeinnütziger Arbeit im örtlichen Park verurteilt.
+parole | vorzeitige Entlassung auf Bewährung | Er wurde nach Verbüßung der halben Haftstrafe auf Bewährung entlassen.
+house arrest | Hausarrest | Der Richter stellte ihn bis zur Verhandlung unter Hausarrest.
+restitution | Wiedergutmachung, Schadensersatz | Das Gericht ordnete an, dass das Unternehmen jedem geschädigten Kunden Schadensersatz zahlen muss.
+life imprisonment | lebenslange Freiheitsstrafe | In vielen Ländern ist lebenslange Haft die schwerste Strafe.
+pardon | Begnadigung, Amnestie | Nach jahrelangem Einsatz erreichte seine Familie schließlich seine Begnadigung.
+miscarriage of justice | Justizirrtum | Der Fall gilt heute als schockierender Justizirrtum.
+## Zivilrecht
+lawsuit | Klage, Zivilprozess | Die Anwohner reichten Klage gegen die Chemiefabrik ein.
+sue | verklagen | Sie verklagt ihren Vermieter auf Rückzahlung ihrer Kaution.
+damages | Schadensersatz | Das Gericht sprach ihm Schadensersatz für seine Verletzungen zu.
+negligence | Fahrlässigkeit | Das Krankenhaus wurde der Fahrlässigkeit für schuldig befunden.
+settlement | Vergleich, außergerichtliche Einigung | Die beiden Parteien erzielten einen Vergleich, bevor der Fall vor Gericht ging.
+injunction | einstweilige Verfügung | Das Gericht erließ eine einstweilige Verfügung, um den Abriss zu stoppen.
+liable | haftbar, verantwortlich | Eltern können für Schäden haftbar gemacht werden, die ihre Kinder verursachen.
+tort | unerlaubte Handlung, zivilrechtliches Vergehen | Üble Nachrede ist in vielen Ländern eher eine unerlaubte Handlung als eine Straftat.
+defamation | Verleumdung, üble Nachrede | Der Schauspieler gewann seinen Verleumdungsprozess gegen die Zeitung.
+child support | Kindesunterhalt | Nach der Scheidung stimmte Lukas zu, monatlich Kindesunterhalt zu zahlen.
+## Eigentum und Erbrecht
+deed | Urkunde, Grundstücksurkunde | Bewahre die Eigentumsurkunde des Hauses an einem sicheren Ort auf.
+title | Rechtstitel, Eigentumsrecht | Der Verkäufer muss nachweisen, dass er das unanfechtbare Eigentum an dem Land besitzt.
+freehold | volles Eigentum, unbeschränktes Eigentum | Ihnen gehört das Gebäude selbst, nicht nur ein Erbbaurecht.
+easement | Dienstbarkeit, Wegerecht | Eine Grunddienstbarkeit erlaubt es den Nachbarn, den Weg durch unseren Garten zu nutzen.
+will | Testament | Sie änderte ihr Testament kurz vor ihrem Tod.
+testator | Erblasser | Der Erblasser vermachte den Großteil seines Nachlasses einer Kinderwohltätigkeitsorganisation.
+beneficiary | Begünstigter, Erbe | Anna ist die alleinige Begünstigte der Lebensversicherung ihrer Tante.
+estate | Nachlass, Vermögen | Es dauerte zwei Jahre, seinen Nachlass zu regeln.
+executor | Testamentsvollstrecker | Ihr Bruder wurde zum Testamentsvollstrecker ernannt.
+probate | Testamentseröffnung, Nachlassverfahren | Das Haus kann erst verkauft werden, wenn das Nachlassverfahren abgeschlossen ist.
+## Verfassung und Rechte
+constitution | Verfassung | Die Verfassung garantiert die Meinungsfreiheit.
+amendment | Verfassungsänderung, Gesetzesänderung | Das Parlament billigte eine Änderung des Wahlgesetzes.
+statute | Gesetz, Statut | Die Rechte von Mietern sind in einem eigenen Gesetz geregelt.
+jurisdiction | Gerichtsbarkeit, Zuständigkeit | Der Fall fällt nicht in die Zuständigkeit dieses Gerichts.
+due process | rechtsstaatliches Verfahren | Jeder, der einer Straftat beschuldigt wird, hat Anspruch auf ein faires Verfahren.
+habeas corpus | Schutz vor willkürlicher Inhaftierung [Habeas-Corpus-Akte] | Die Habeas-Corpus-Akte schützt Menschen davor, ohne rechtlichen Grund festgehalten zu werden.
+civil liberties | Bürgerrechte, bürgerliche Freiheiten | Kritiker befürchten, dass das neue Gesetz die Bürgerrechte einschränkt.
+unconstitutional | verfassungswidrig | Der Oberste Gerichtshof erklärte die Steuer für verfassungswidrig.
+enact | erlassen, beschließen | Die Reform wurde nach monatelanger Debatte beschlossen.
+repeal | aufheben, außer Kraft setzen | Die Regierung plant, das alte Lizenzgesetz aufzuheben.
+## Juristische Formulierungen
+hereby | hiermit, durch gegenwärtige Urkunde | Ich erkläre hiermit, dass die obigen Angaben korrekt sind.
+hereinafter | nachfolgend, im Folgenden | Das Unternehmen, nachfolgend als Verkäufer bezeichnet, stimmt den Bedingungen zu.
+aforementioned | vorgenannt, oben genannt | Die vorgenannte Immobilie muss bis Ende des Monats geräumt werden.
+pursuant to | gemäß, laut | Gemäß Paragraph vier muss der Mieter zwei Monate im Voraus kündigen.
+null and void | nichtig, unwirksam | Jede unter Zwang unterzeichnete Vereinbarung ist null und nichtig.
+without prejudice | unbeschadet, unbeeinträchtigt | Das Angebot erfolgte unbeschadet künftiger rechtlicher Schritte.
+in good faith | in gutem Glauben, treu und redlich | Beide Parteien erklären sich bereit, in gutem Glauben zu verhandeln.
+beyond reasonable doubt | zweifelsfrei, über jeden begründeten Zweifel erhaben | Die Staatsanwaltschaft muss die Schuld zweifelsfrei beweisen.
+bona fide | gutgläubig, echt | Nur gutgläubige Anwohner können einen Parkausweis beantragen.
+de facto | de facto, tatsächlich | Er ist zum de facto-Führer der Gruppe geworden.
