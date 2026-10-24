@@ -35,9 +35,19 @@ def call(prompt):
                         print("boş yanıt", flush=True)
                         continue
                 if r.status_code == 429:
-                    if "PerDay" in r.text or "per day" in r.text.lower():
-                        print(f"günlük sınır: anahtar #{KEYS.index(k)+1} {m}", flush=True)
+                    ids, val = [], ""
+                    try:
+                        for d in r.json()["error"].get("details", []):
+                            for v in d.get("violations", []):
+                                ids.append(v.get("quotaId", ""))
+                                val = v.get("quotaValue", val)
+                    except Exception:  # noqa: BLE001
+                        pass
+                    if any("PerDay" in i for i in ids):
+                        print(f"günlük sınır: anahtar #{KEYS.index(k)+1} {m} {ids} limit={val}", flush=True)
                         dead.add((k, m))
+                    else:
+                        print(f"429 dakikalık: anahtar #{KEYS.index(k)+1} {ids} limit={val}", flush=True)
                     continue
                 print(f"HTTP {r.status_code} anahtar #{KEYS.index(k)+1}: {r.text[:200]}", flush=True)
                 if r.status_code in (400, 401, 403, 404):
