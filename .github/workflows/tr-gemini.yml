@@ -1,0 +1,35 @@
+name: tr-gemini
+on:
+  workflow_dispatch:
+  push:
+    branches: [tr-gemini-run]
+  schedule:
+    - cron: "23 */3 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: tr-gemini
+  cancel-in-progress: false
+jobs:
+  tr:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: tr-gemini
+          fetch-depth: 1
+      - name: Çevir
+        env:
+          GKEYS: ${{ secrets.GEMINI_KEYS }}
+          MAXMIN: "320"
+        run: |
+          pip install -q requests
+          if [ -z "$GKEYS" ]; then echo "GEMINI_KEYS gizli ayarı yok"; exit 0; fi
+          python3 gem_tr.py 2>&1 | tail -150
+      - name: Kaydet
+        if: always()
+        run: |
+          git config user.name ci && git config user.email ci@x
+          git add out && git commit -qm "Gemini çevirileri" || exit 0
+          for i in 1 2 3; do git pull -q --rebase origin tr-gemini && git push -q origin HEAD:tr-gemini && break; sleep 5; done
