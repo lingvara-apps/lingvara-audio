@@ -68,11 +68,12 @@ def check(src, out, lang):
 
 
 def call(prompt):
-    for k in KEYS:
-        for m in MODELS:
-            if (k, m) in dead:
-                continue
-            for attempt in range(4):
+    # Dakikalık sınırda bekleme yerine sıradaki anahtara geçilir; hepsi doluysa kısa bekleme.
+    for rnd in range(6):
+        for k in KEYS:
+            for m in MODELS:
+                if (k, m) in dead:
+                    continue
                 try:
                     r = requests.post(URL.format(m=m), headers={"x-goog-api-key": k, "Content-Type": "application/json"},
                                       json={"contents": [{"parts": [{"text": prompt}]}],
@@ -81,7 +82,6 @@ def call(prompt):
                                       timeout=300)
                 except Exception as e:  # noqa: BLE001
                     print("ağ hatası", type(e).__name__, flush=True)
-                    time.sleep(20)
                     continue
                 if r.status_code == 200:
                     try:
@@ -89,18 +89,18 @@ def call(prompt):
                         return "".join(p.get("text", "") for p in parts if not p.get("thought"))
                     except Exception:  # noqa: BLE001
                         print("boş yanıt", flush=True)
-                        time.sleep(5)
                         continue
                 if r.status_code == 429:
-                    body = r.text
-                    if "PerDay" in body or "per day" in body.lower():
+                    if "PerDay" in r.text or "per day" in r.text.lower():
                         print(f"günlük sınır: anahtar #{KEYS.index(k)+1} {m}", flush=True)
                         dead.add((k, m))
-                        break
-                    time.sleep(35)
                     continue
-                print("HTTP", r.status_code, r.text[:200], flush=True)
-                time.sleep(10)
+                print(f"HTTP {r.status_code} anahtar #{KEYS.index(k)+1}: {r.text[:200]}", flush=True)
+                if r.status_code in (400, 401, 403):
+                    dead.add((k, m))
+        if len(dead) >= len(KEYS) * len(MODELS):
+            return None
+        time.sleep(30)
     return None
 
 
