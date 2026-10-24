@@ -1,0 +1,111 @@
+# UNIT: Direito e sociedade | Leis, tribunal, Estado, direitos
+## Leis e regras
+rule | regra | Por favor, leia as regras antes de começar o jogo.
+legal | legal, lícito | É legal pilotar um drone sobre o centro da cidade?
+illegal | ilegal | É ilegal estacionar seu carro na frente de um quartel de bombeiros.
+lawful | legal, legítimo | O tribunal decidiu que as ações da empresa eram legais.
+against the law | contra a lei | Dirigir sem seguro é contra a lei.
+prohibited | proibido | É proibido tirar fotos dentro da sala de tribunal.
+allowed | permitido | Cachorros não são permitidos na praia no verão.
+obey | obedecer | Todo mundo tem que obedecer à lei, até as pessoas mais ricas.
+break the law | quebrar a lei, infringir a lei | Ele não sabia que estava infringindo a lei ao acampar lá.
+forbidden | proibido (estritamente) | Fumar é estritamente proibido dentro do prédio do hospital.
+## Crime
+crime | crime | O crime é um problema sério em algumas partes da cidade.
+criminal | criminoso | A polícia pegou o criminoso no aeroporto.
+theft | furto, roubo (sem violência) | Ela relatou o furto de sua bicicleta à polícia.
+thief (thieves) | ladrão | Um ladrão pegou minha carteira enquanto eu estava no ônibus lotado.
+robbery | roubo (com violência ou assalto) | Houve um assalto à mão armada no banco da Rua Principal.
+burglar | ladrão de casas, arrombador | O arrombador entrou por uma janela aberta da cozinha.
+shoplifting | furto em loja | O adolescente foi pego furtando em uma loja de roupas.
+offender | infrator, transgressor | Jovens infratores geralmente ganham uma segunda chance do tribunal.
+smuggle | contrabandear | Eles tentaram contrabandear cigarros através da fronteira.
+commit | cometer (um crime) | A maioria dos jovens que comete um crime nunca o faz de novo.
+## Polícia e investigação
+patrol | patrulhar | Policiais patrulham o parque todas as noites depois das dez.
+investigate | investigar | A polícia está investigando o incêndio no armazém.
+investigation | investigação | A investigação pode levar vários meses para ser concluída.
+fingerprint | impressão digital | A polícia encontrou suas impressões digitais na janela quebrada.
+witness | testemunha | Uma testemunha viu o homem correndo da loja.
+suspicious | suspeito | Chame a polícia se você ver qualquer coisa suspeita perto da estação.
+arrest | prender, deter | Dois homens foram presos perto da estação ontem à noite.
+clue | pista | O detective encontrou uma pista importante embaixo do tapete.
+detective | detetive | O detetive passou horas conversando com os vizinhos.
+crime scene | cena do crime | Ninguém pôde chegar perto da cena do crime por dois dias.
+## Tribunal
+court | tribunal, corte | O caso irá a julgamento no final do mês que vem.
+judge | juiz | O juiz ouviu com atenção ambos os lados da história.
+testify | testemunhar | Ali concordou em testemunhar sobre o que viu naquela noite.
+trial | julgamento | O julgamento deve durar cerca de três semanas.
+defend | defender | Uma jovem advogada a defenderá no tribunal.
+case | caso (judicial) | O advogado disse que temos um caso muito forte.
+accuse | acusar | Ela foi acusada de pegar dinheiro da empresa.
+guilty | culpado | O júri o achou culpado de todas as três acusações.
+innocent | inocente | Todo mundo é inocente até que o tribunal prove o contrário.
+on trial | em julgamento | Dois homens estão em julgamento por roubar pinturas do museu.
+## Pena
+jail | cadeia | Ele passou uma noite na cadeia após a briga.
+prison | prisão, penitenciária | Ela passou dois anos na prisão por fraude.
+prisoner | prisioneiro, detento | Os prisioneiros têm permissão para estudar para obter um diploma.
+punishment | punição, castigo | Muitas pessoas acham que a punição foi leve demais.
+punish | punir | Os pais deveriam punir as crianças por cada pequeno erro?
+penalty | multa, penalidade | A penalidade por não pagar seus impostos pode ser muito alta.
+release | soltar, libertar, colocar em liberdade | Ele foi libertado da prisão após cumprir três anos.
+behind bars | atrás das grades | O líder da gangue ficará atrás das grades por muitos anos.
+escape | fugir, escapar | Dois prisioneiros escaparam escalando o muro.
+parking ticket | multa de estacionamento | Eu levei uma multa de estacionamento porque fiquei tempo demais.
+## Estado e governo
+politician | político | O político prometeu construir mais hospitais no ano que vem.
+senate | senado | A nova lei primeiro deve ser aprovada pelo senado.
+civil servant | funcionário público | Minha tia trabalhou como funcionária pública por vinte anos.
+president | presidente | O presidente deu um discurso na televisão nacional.
+political | político (relativo à política) | Eles nunca discutem tópicos políticos em jantares de família.
+stand for election | candidatar-se (a uma eleição) | Nosso vizinho planeja se candidatar ao conselho local.
+mayor | prefeito | O prefeito prometeu limpar os parques da cidade.
+local council | conselho local, câmara municipal | O conselho local quer abrir uma nova biblioteca em nossa área.
+democratic | democrático | Em um país democrático, as pessoas escolhem seus líderes.
+state | Estado | Em muitos países, o Estado paga pela educação básica.
+## Direitos e liberdades
+freedom of speech | liberdade de expressão | A liberdade de expressão é importante em uma sociedade saudável.
+equal rights | direitos iguais | Mulheres em muitos países lutaram por direitos iguais no trabalho.
+freedom | liberdade | Para muitos jovens, um primeiro carro significa liberdade.
+free press | imprensa livre | Uma imprensa livre ajuda as pessoas a saberem a verdade sobre os poderosos.
+equal | igual | Todos os cidadãos devem ser iguais perante a lei.
+discrimination | discriminação | Discriminação por causa de idade é contra a lei aqui.
+racist | racista | O clube baniu o torcedor por gritar comentários racistas.
+peaceful | pacífico | Centenas de estudantes se juntaram a uma marcha pacífica contra taxas mais altas.
+demonstrator | manifestante | Os manifestantes carregaram cartazes e cantaram músicas na praça.
+fairness | justiça, equidade | As crianças têm um forte senso de justiça desde cedo.
+## Sociedade e cidadania
+social | social | A cidade está tentando resolver seus problemas sociais, como a solidão.
+good citizen | bom cidadão | Pagar seus impostos em dia faz parte de ser um bom cidadão.
+public service | serviço público | Ônibus e bibliotecas são serviços públicos importantes.
+social services | serviços sociais | Os serviços sociais ajudam famílias que têm problemas sérios em casa.
+public | público | A biblioteca é um prédio público, então a entrada é gratuita.
+unemployment benefit | seguro-desemprego | Ele recebeu seguro-desemprego por seis meses após perder o emprego.
+donation | doação | O hospital recebeu uma grande doação de uma família local.
+responsibility | responsabilidade | Manter as ruas limpas é responsabilidade de todos.
+duty | dever | É seu dever contar à polícia o que você viu.
+donate | doar | Doamos nossas roupas velhas para pessoas que perderam suas casas.
+## Trâmites oficiais
+official letter | carta oficial, ofício | Eu recebi uma carta oficial do escritório de impostos esta manhã.
+bureaucracy | burocracia | Começar um pequeno negócio aqui significa lidar com muita burocracia.
+red tape | burocracia excessiva, burocracia | As novas regras devem cortar a burocracia para pequenas empresas.
+notary | tabelião, cartorário, notário | Você precisa assinar os documentos na frente de um tabelião.
+application | inscrição, requerimento, pedido | Por favor, envie sua inscrição antes do fim do mês.
+queue up | entrar na fila, fazer bicha | Tivemos que ficar na fila por duas horas para renovar nossos documentos.
+licence | carteira de motorista, licença, permissão | Ela finalmente conseguiu sua carteira de motorista aos trinta anos.
+identity card | carteira de identidade, RG | Por favor, mostre sua carteira de identidade na entrada.
+passport office | posto de passaporte, escritório de passaportes | A fila no posto de passaporte tinha mais de uma hora de duração.
+fill out | preencher | Por favor, preencha este formulário e traga-o de volta amanhã.
+## Desacordos e justiça
+disagreement | desacordo, desinteligência | Os dois vizinhos tiveram um longo desacordo sobre a cerca do jardim.
+make a complaint | fazer uma reclamação, queixar-se | Camille fez uma reclamação sobre o barulho vindo do bar.
+take to court | processar, levar aos tribunais | Os inquilinos decidiram processar seu senhorio.
+settle | resolver, solucionar | Eles resolveram o assunto sem ir a tribunal.
+fair trial | julgamento justo | Todo mundo merece um julgamento justo, não importa o que tenha feito.
+unfair | injusto | Muitos trabalhadores acham que as novas regras são totalmente injustas.
+injustice | injustiça | O filme mostra a injustiça sofrida por famílias pobres.
+reach an agreement | chegar a um acordo | Após longas conversas, os dois lados finalmente chegaram a um acordo.
+legal advice | aconselhamento jurídico, orientação legal | Você pode obter orientação legal gratuita na prefeitura às segundas-feiras.
+rights and duties | direitos e deveres | Os inquilinos devem conhecer seus direitos e deveres antes de assinar.

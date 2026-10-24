@@ -1,0 +1,100 @@
+# UNIT: Medicina | Especialistas, doenças graves, tratamento, saúde pública
+## Especialistas médicos
+cardiologist | cardiologista | Após as dores no peito, Omar foi encaminhado a um cardiologista.
+paediatrician | pediatra | Nosso pediatra sempre faz as crianças rirem durante os exames de rotina.
+dermatologist | dermatologista | Você deveria mostrar aquela pinta estranha a um dermatologista.
+neurologist | neurologista | O neurologista pediu uma ressonância para verificar se houve algum dano.
+anaesthetist | anestesista | O anestesista perguntou se eu havia comido alguma coisa naquela manhã.
+radiologist | radiologista | Um radiologista vai examinar as imagens esta tarde.
+general practitioner | clínico geral | Na Grã-Bretanha, você geralmente consulta um clínico geral primeiro.
+midwife (midwives) | parteira | A parteira ficou com Yuki durante toda a longa noite.
+oncologist | oncologista | O oncologista explicou as opções de tratamento com muita paciência.
+ophthalmologist | oftalmologista | O oftalmologista disse que Diego precisa de óculos para ler.
+## No hospital
+inpatient | paciente internado | O hospital pode receber até quinhentos pacientes internados por vez.
+isolation ward | ala de isolamento | Os pacientes com o vírus foram transferidos para a ala de isolamento.
+bedside | cabeceira do paciente | A filha dele ficou sentada à sua cabeceira a noite toda.
+hospice | casa de cuidados paliativos | Ela passou suas últimas semanas em um tranquilo hospício à beira-mar.
+triage | triagem | Na triagem, os enfermeiros decidem quem precisa de ajuda primeiro.
+ward round | visita médica | Os médicos discutem cada paciente durante a visita médica da manhã.
+referral | encaminhamento | Você precisa de um encaminhamento do seu médico para consultar um especialista.
+life support | aparelhos de suporte à vida | Após o acidente, ele foi mantido com suporte à vida por uma semana.
+on call | de plantão | A Dra. Sofia está de plantão este fim de semana, então ela não pode viajar.
+critical condition | estado grave | O motorista ainda está em estado grave no hospital.
+## Doenças graves
+tumour | tumor | Por sorte, o tumor revelou-se benigno.
+stroke | derrame, AVC | Após o seu AVC, o pai de Diego teve que aprender a andar de novo.
+dementia | demência | O avô dela tem demência e frequentemente esquece o nome dela.
+malignant | maligno | Os exames mostraram que o crescimento não era maligno.
+leukaemia | leucemia | Muitas crianças com leucemia hoje se recuperam totalmente.
+epilepsy | epilepsia | Pessoas com epilepsia geralmente podem levar uma vida normal com medicação.
+arthritis | artrite | A artrite da minha avó piora no tempo frio e úmido.
+tuberculosis | tuberculose | A tuberculose já foi uma das causas mais comuns de morte.
+pneumonia | pneumonia | O que começou como um resfriado logo se transformou em pneumonia.
+kidney failure | insuficiência renal | Pacientes com insuficiência renal frequentemente precisam de diálise regular.
+## Sintomas e exames
+biopsy (biopsies) | biópsia | O médico fez uma biópsia para descartar algo grave.
+blood pressure | pressão arterial | O sal em excesso pode elevar sua pressão arterial.
+prognosis (prognoses) | prognóstico | Graças ao novo medicamento, o prognóstico agora é muito melhor.
+misdiagnosis (misdiagnoses) | diagnóstico incorreto | Um diagnóstico incorreto atrasou o tratamento dela por vários meses.
+ultrasound | ultrassom | O ultrassom mostrou que o bebê estava crescendo normalmente.
+blood sample | amostra de sangue | A enfermeira tirou uma amostra de sangue do braço de Anna.
+heart rate | frequência cardíaca | A frequência dele aumentou rapidamente durante o teste de esforço.
+cholesterol | colesterol | Comer menos frituras pode ajudar a baixar o seu colesterol.
+asymptomatic | assintomático | Muitas pessoas com o vírus são completamente assintomáticas.
+blood count | hemograma | Um hemograma baixo pode explicar por que você se sente tão cansado.
+## Tratamento e cirurgia
+surgery (surgeries) | cirurgia | Ele precisa fazer uma cirurgia no joelho após o acidente de esqui.
+keyhole surgery | cirurgia laparoscópica | A cirurgia laparoscópica deixa apenas algumas cicatrizes minúsculas.
+chemotherapy | quimioterapia | Ela perdeu o cabelo durante a quimioterapia, mas manteve o otimismo.
+radiotherapy | radioterapia | Após a operação, ele passou por seis semanas de radioterapia.
+physiotherapy | fisioterapia | Semanas de fisioterapia o ajudaram a usar o braço novamente.
+transplant | transplante | Anos após a diálise, Omar finalmente fez um transplante de rim.
+incision | incisão | Técnicas modernas permitem que os cirurgiões façam uma incisão muito menor.
+amputate | amputar | Graças ao atendimento rápido, os médicos não precisaram amputar a perna dele.
+convalesce | convalescer | Após a operação, ela foi para o campo para convalescer.
+remission | remissão | Após dois anos de tratamento, o câncer dela está em remissão.
+## Medicamentos
+prescribe | prescrever | O médico receitou um creme mais forte para a erupção cutânea.
+dosage | dosagem | Verifique a dosagem cuidadosamente antes de dar remédio para crianças.
+capsule | cápsula | Engula uma cápsula com água após cada refeição.
+antihistamine | anti-histamínico | Maria toma um anti-histamínico toda primavera por causa de sua rinite alérgica.
+syringe | seringa | A enfermeira encheu a seringa e a ergueu contra a luz para conferir.
+insulin | insulina | Ali injeta insulina antes de cada refeição para controlar o açúcar no sangue.
+sedative | sedativo | O paciente recebeu um sedativo leve antes do procedimento.
+overdose | overdose | Uma overdose acidental pode ser extremamente perigosa.
+allergic reaction | reação alérgica | Ela teve uma reação alérgica grave ao novo medicamento.
+over-the-counter | de venda livre | A maioria dos remédios para resfriado de venda livre apenas trata os sintomas.
+## Doenças contagiosas
+airborne | transmitido pelo ar | O vírus é transmitido pelo ar, então usar máscara pode ajudar.
+epidemic | epidemia | A cidade enfrentou uma grave epidemia de gripe naquele inverno.
+pandemic | pandemia | A pandemia mudou a maneira como milhões de pessoas trabalham.
+outbreak | surto | As autoridades de saúde estão investigando um surto de intoxicação alimentar.
+immune system | sistema imunológico | Uma boa noite de sono ajuda a manter o sistema imunológico forte.
+quarantine | quarentena | Os passageiros foram mantidos em quarentena por duas semanas.
+vaccinate | vacinar | A maioria das crianças é vacinada contra o sarampo em idade precoce.
+transmit | transmitir | A doença é transmitida por água contaminada.
+bacteria (bacterium) | bactérias | Lave as mãos para se livrar de bactérias nocivas.
+incubation period | período de incubação | O período de incubação da doença é de cerca de dez dias.
+## Lesões e emergência
+fracture | fratura | O exame revelou uma fratura no pulso dela.
+dislocate | deslocar | Emre deslocou o ombro enquanto jogava rúgbi.
+swelling | inchaço | Coloque gelo no seu tornozelo para reduzir o inchaço.
+splint | tala | O socorrista colocou uma tala no dedo quebrado do menino.
+plaster cast | gesso | Camille teve que usar gesso por seis semanas.
+concussion | concussão | Após bater a cabeça, o jogador foi testado para concussão.
+tourniquet | torniquete | Ele usou o cinto como torniquete para estancar o sangramento.
+resuscitate | ressuscitar | Os socorristas conseguiram ressuscitar o nadador na praia.
+life-saving | salta-vidas | Toda escola deveria ter equipamentos salva-vidas, como um desfibrilador.
+emergency room | pronto-socorro | Passamos quatro horas esperando no pronto-socorro.
+## Saúde pública
+public health | saúde pública | Água potável limpa é essencial para a saúde pública.
+epidemiology | epidemiologia | A epidemiologia estuda como as doenças se espalham por uma população.
+mortality | mortalidade | A mortalidade infantil caiu drasticamente em muitos países.
+sedentary | sedentário | Um estilo de vida sedentário aumenta o risco de muitas doenças.
+screening | rastreamento | O rastreamento gratuito do câncer é oferecido a todos com mais de cinquenta anos.
+hygiene | higiene | A má higiene na cozinha pode deixar as pessoas doentes.
+sanitation | saneamento | Um melhor saneamento salvou mais vidas do que qualquer remédio.
+preventive | preventivo | A medicina preventiva costuma ser mais barata do que tratar uma doença.
+healthcare | assistência médica | Todos devem ter acesso a serviços de saúde acessíveis.
+well-being | bem-estar | Caminhadas regulares fazem bem tanto para o bem-estar físico quanto mental.
