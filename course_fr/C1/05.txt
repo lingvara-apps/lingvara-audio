@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+l'apprentissage automatique (m) | makine öğrenmesi | isim (e) | L'apprentissage automatique permet aux logiciels de s'améliorer à partir des données. | Makine öğrenmesi yazılımların verilerden yola çıkarak kendilerini geliştirmesini sağlar.
+l'apprentissage profond (m) | derin öğrenme | isim (e) | L'apprentissage profond a révolutionné la reconnaissance d'images en quelques années. | Derin öğrenme birkaç yılda görüntü tanımada devrim yarattı.
+le réseau de neurones | sinir ağı | isim (e) | Ce réseau de neurones a été entraîné sur des millions de textes. | Bu sinir ağı milyonlarca metin üzerinde eğitildi.
+le modèle de langage | dil modeli | isim (e) | Un modèle de langage prédit le mot suivant à partir du contexte. | Bir dil modeli bağlamdan yola çıkarak sonraki sözcüğü tahmin eder.
+l'agent conversationnel (m) | sohbet robotu | isim (e) | La banque a installé un agent conversationnel pour répondre aux questions simples. | Banka basit sorulara yanıt vermek için bir sohbet robotu kurdu.
+l'hallucination (f) | halüsinasyon (yapay zekânın uydurması) | isim (d) | Les hallucinations des modèles posent un vrai problème de fiabilité. | Modellerin halüsinasyonları ciddi bir güvenilirlik sorunu oluşturuyor.
+l'IA générative (f) | üretken yapay zekâ | isim (d) | L'IA générative bouleverse déjà les métiers de la traduction et du graphisme. | Üretken yapay zekâ çeviri ve grafik tasarım mesleklerini şimdiden altüst ediyor.
+le biais algorithmique | algoritmik yanlılık | isim (e) | Un biais algorithmique peut reproduire des discriminations présentes dans les données. | Algoritmik bir yanlılık verilerde bulunan ayrımcılıkları yeniden üretebilir.
+l'explicabilité (f) | açıklanabilirlik | isim (d) | Le régulateur exige une meilleure explicabilité des décisions automatisées. | Düzenleyici kurum otomatik kararların daha iyi açıklanabilmesini istiyor.
+la singularité technologique | teknolojik tekillik | isim (d) | La singularité technologique reste une hypothèse très discutée parmi les chercheurs. | Teknolojik tekillik araştırmacılar arasında çok tartışılan bir hipotez olmayı sürdürüyor.
+## Veri ve hesaplama
+les mégadonnées | büyük veri | isim (çoğul) | L'analyse des mégadonnées transforme en profondeur la recherche épidémiologique depuis dix ans. | Büyük veri analizi on yıldır epidemiyolojik araştırmayı köklü biçimde dönüştürüyor.
+la puissance de calcul | hesaplama gücü | isim (d) | L'entraînement de ces modèles exige une puissance de calcul colossale. | Bu modellerin eğitimi devasa bir hesaplama gücü gerektirir.
+le centre de données | veri merkezi | isim (e) | Ce centre de données consomme autant d'électricité qu'une ville moyenne. | Bu veri merkezi orta büyüklükte bir şehir kadar elektrik tüketiyor.
+l'informatique quantique (f) | kuantum bilişim | isim (d) | L'informatique quantique pourrait rendre obsolètes nos méthodes de chiffrement. | Kuantum bilişim şifreleme yöntemlerimizi geçersiz kılabilir.
+le chiffrement | şifreleme | isim (e) | Le chiffrement de bout en bout protège le contenu des messages. | Uçtan uca şifreleme mesajların içeriğini korur.
+le code source | kaynak kod | isim (e) | L'entreprise a publié le code source de son logiciel sous licence libre. | Şirket yazılımının kaynak kodunu özgür lisansla yayımladı.
+l'interopérabilité (f) | birlikte çalışabilirlik | isim (d) | L'interopérabilité des dossiers médicaux reste un défi majeur. | Tıbbi kayıtların birlikte çalışabilirliği büyük bir sorun olmayı sürdürüyor.
+la modélisation | modelleme | isim (d) | La modélisation climatique repose sur des équations extrêmement complexes. | İklim modellemesi son derece karmaşık denklemlere dayanır.
+la simulation numérique | sayısal benzetim | isim (d) | Une simulation numérique a permis de tester la résistance du pont. | Sayısal bir benzetim köprünün dayanıklılığını test etmeyi sağladı.
+le jumeau numérique | dijital ikiz | isim (e) | Les ingénieurs utilisent un jumeau numérique pour surveiller l'usine en temps réel. | Mühendisler fabrikayı gerçek zamanlı izlemek için bir dijital ikiz kullanıyor.
+## Biyoteknoloji
+la biotechnologie | biyoteknoloji | isim (d) | La biotechnologie offre de nouvelles solutions pour traiter les maladies rares. | Biyoteknoloji nadir hastalıkları tedavi etmek için yeni çözümler sunuyor.
+le génie génétique | genetik mühendisliği | isim (e) | Le génie génétique soulève des questions éthiques considérables. | Genetik mühendisliği büyük etik sorular doğuruyor.
+l'édition du génome (f) | genom düzenleme | isim (d) | L'édition du génome permet de corriger une mutation avec une grande précision. | Genom düzenleme bir mutasyonu büyük bir hassasiyetle düzeltmeye imkân verir.
+la cellule souche | kök hücre | isim (d) | Les recherches sur les cellules souches ouvrent des perspectives en médecine régénérative. | Kök hücre araştırmaları rejeneratif tıpta yeni ufuklar açıyor.
+l'OGM (m) | GDO, genetiği değiştirilmiş organizma | isim (e) | La culture d'OGM est strictement encadrée dans l'Union européenne. | Avrupa Birliği'nde GDO tarımı sıkı kurallara bağlıdır.
+le vaccin à ARN messager | mRNA aşısı | isim (e) | Le vaccin à ARN messager a été développé en un temps record. | mRNA aşısı rekor sürede geliştirildi.
+la thérapie génique | gen tedavisi | isim (d) | La thérapie génique a redonné la vue à plusieurs patients atteints de cécité héréditaire. | Gen tedavisi kalıtsal körlüğü olan birkaç hastaya yeniden görme yetisi kazandırdı.
+le séquençage | dizileme | isim (e) | Le séquençage du génome humain coûte aujourd'hui quelques centaines d'euros. | İnsan genomunun dizilenmesi bugün birkaç yüz avroya mal oluyor.
+le clonage | klonlama | isim (e) | Le clonage reproductif humain est interdit dans la plupart des pays. | İnsanın üreme amaçlı klonlanması çoğu ülkede yasaktır.
+la bioéthique | biyoetik | isim (d) | Les lois de bioéthique sont révisées régulièrement en France. | Fransa'da biyoetik yasaları düzenli olarak gözden geçirilir.
+## Enerji geçişi
+la transition énergétique | enerji dönüşümü | isim (d) | La transition énergétique exige des investissements massifs dans les réseaux. | Enerji dönüşümü şebekelere büyük yatırımlar gerektiriyor.
+la décarbonation | karbonsuzlaştırma | isim (d) | La décarbonation de l'industrie lourde est l'un des défis les plus difficiles. | Ağır sanayinin karbonsuzlaştırılması en zorlu sorunlardan biridir.
+le mix énergétique | enerji karışımı | isim (e) | Le nucléaire occupe une place centrale dans le mix énergétique français. | Nükleer enerji Fransa'nın enerji karışımında merkezî bir yer tutar.
+l'hydrogène vert (m) | yeşil hidrojen | isim (e) | L'hydrogène vert est produit par électrolyse à partir d'électricité renouvelable. | Yeşil hidrojen yenilenebilir elektrikten elektroliz yoluyla üretilir.
+le stockage de l'énergie | enerji depolama | isim (e) | Le stockage de l'énergie reste le point faible du solaire et de l'éolien. | Enerji depolama güneş ve rüzgâr enerjisinin zayıf noktası olmayı sürdürüyor.
+l'intermittence (f) | kesintililik | isim (d) | L'intermittence des énergies renouvelables complique la gestion du réseau. | Yenilenebilir enerjilerin kesintili olması şebeke yönetimini zorlaştırıyor.
+la sobriété énergétique | enerji tutumluluğu | isim (d) | La sobriété énergétique consiste d'abord à réduire nos besoins. | Enerji tutumluluğu her şeyden önce ihtiyaçlarımızı azaltmaktır.
+l'empreinte carbone (f) | karbon ayak izi | isim (d) | Le transport aérien alourdit considérablement l'empreinte carbone des ménages. | Hava yolu ulaşımı hanelerin karbon ayak izini önemli ölçüde artırıyor.
+la neutralité carbone | karbon nötrlüğü | isim (d) | L'Union européenne vise la neutralité carbone à l'horizon 2050. | Avrupa Birliği 2050 itibarıyla karbon nötrlüğünü hedefliyor.
+le captage du carbone | karbon yakalama | isim (e) | Le captage du carbone pourrait réduire les émissions des cimenteries. | Karbon yakalama çimento fabrikalarının emisyonlarını azaltabilir.
+## Nükleer ve yenilenebilir
+le réacteur | reaktör | isim (e) | Le réacteur a été mis à l'arrêt pour une inspection décennale. | Reaktör on yıllık denetim için durduruldu.
+la fission | fisyon, çekirdek bölünmesi | isim (d) | Les centrales actuelles produisent de l'énergie par fission de l'uranium. | Mevcut santraller uranyumun bölünmesiyle enerji üretir.
+la fusion nucléaire | nükleer füzyon | isim (d) | La fusion nucléaire promet une énergie abondante, mais reste expérimentale. | Nükleer füzyon bol enerji vaat ediyor, ama hâlâ deneysel aşamada.
+les déchets radioactifs | radyoaktif atıklar | isim (çoğul) | Le stockage des déchets radioactifs suscite de vives inquiétudes locales. | Radyoaktif atıkların depolanması yerel düzeyde ciddi kaygılara yol açıyor.
+la centrale | santral | isim (d) | La centrale fournit l'électricité de près de deux millions de foyers. | Santral yaklaşık iki milyon hanenin elektriğini sağlıyor.
+le parc éolien | rüzgâr çiftliği | isim (e) | Un parc éolien en mer sera construit au large de la Bretagne. | Bretanya açıklarında bir deniz rüzgâr çiftliği kurulacak.
+le panneau photovoltaïque | fotovoltaik panel | isim (e) | Ils ont installé des panneaux photovoltaïques sur le toit de la grange. | Ambarın çatısına fotovoltaik paneller yerleştirdiler.
+la géothermie | jeotermal enerji | isim (d) | L'Islande chauffe la plupart de ses logements grâce à la géothermie. | İzlanda konutlarının çoğunu jeotermal enerjiyle ısıtıyor.
+la biomasse | biyokütle | isim (d) | Cette chaufferie fonctionne à la biomasse issue des forêts voisines. | Bu kazan dairesi yakındaki ormanlardan gelen biyokütleyle çalışıyor.
+le réseau électrique intelligent | akıllı elektrik şebekesi | isim (e) | Un réseau électrique intelligent ajuste la production à la demande en temps réel. | Akıllı bir elektrik şebekesi üretimi gerçek zamanlı olarak talebe göre ayarlar.
+## Dijital toplum
+la fracture numérique | dijital uçurum | isim (d) | La fracture numérique pénalise surtout les personnes âgées et les zones rurales. | Dijital uçurum özellikle yaşlıları ve kırsal bölgeleri olumsuz etkiliyor.
+la dématérialisation | kâğıtsız hâle getirme, dijitalleştirme | isim (d) | La dématérialisation des démarches administratives exclut certains usagers. | İdari işlemlerin dijitalleştirilmesi bazı kullanıcıları dışarıda bırakıyor.
+l'illectronisme (m) | dijital okuryazarlık eksikliği | isim (e) | L'illectronisme touche près d'un adulte sur six en France. | Dijital okuryazarlık eksikliği Fransa'da yaklaşık altı yetişkinden birini etkiliyor.
+le capitalisme de plateforme | platform kapitalizmi | isim (e) | Le capitalisme de plateforme repose sur l'exploitation massive des données des utilisateurs. | Platform kapitalizmi kullanıcı verilerinin kitlesel olarak kullanılmasına dayanır.
+l'économie de l'attention (f) | dikkat ekonomisi | isim (d) | L'économie de l'attention pousse les applications à capter notre temps. | Dikkat ekonomisi uygulamaları zamanımızı ele geçirmeye itiyor.
+la bulle de filtre | filtre balonu | isim (d) | Les algorithmes de recommandation nous enferment dans une bulle de filtre. | Öneri algoritmaları bizi bir filtre balonuna hapsediyor.
+l'hypertrucage (m) | deepfake, derin sahte | isim (e) | Cet hypertrucage montrait un ministre prononçant un discours qu'il n'avait jamais tenu. | Bu derin sahte video bir bakanı hiç yapmadığı bir konuşmayı yaparken gösteriyordu.
+le nomadisme numérique | dijital göçebelik | isim (e) | Le nomadisme numérique attire de jeunes cadres vers les villages de l'arrière-pays. | Dijital göçebelik genç profesyonelleri iç kesimlerdeki köylere çekiyor.
+l'ubérisation (f) | platform ekonomisine dönüşme | isim (d) | L'ubérisation du secteur des taxis a provoqué de nombreuses grèves. | Taksi sektörünün platform ekonomisine dönüşmesi çok sayıda greve yol açtı.
+la sobriété numérique | dijital tutumluluk | isim (d) | La sobriété numérique invite à limiter le streaming et à garder ses appareils plus longtemps. | Dijital tutumluluk yayın izlemeyi sınırlamaya ve cihazları daha uzun kullanmaya davet ediyor.
+## Mahremiyet ve güvenlik
+la vie privée | özel hayat, mahremiyet | isim (d) | Les objets connectés soulèvent de nouvelles inquiétudes pour la vie privée. | Bağlantılı cihazlar mahremiyet açısından yeni kaygılar doğuruyor.
+les données personnelles | kişisel veriler | isim (çoğul) | Le traitement des données personnelles est encadré par un règlement européen. | Kişisel verilerin işlenmesi bir Avrupa tüzüğüyle düzenleniyor.
+la cyberattaque | siber saldırı | isim (d) | Une cyberattaque a paralysé l'hôpital pendant plusieurs jours. | Bir siber saldırı hastaneyi birkaç gün boyunca felç etti.
+le rançongiciel | fidye yazılımı | isim (e) | Un rançongiciel a chiffré l'ensemble des fichiers de la mairie. | Bir fidye yazılımı belediyenin tüm dosyalarını şifreledi.
+l'hameçonnage (m) | oltalama (phishing) | isim (e) | Méfiez-vous de l'hameçonnage : votre banque ne demande jamais votre code par courriel. | Oltalamaya karşı dikkatli olun: bankanız şifrenizi asla e-postayla istemez.
+la reconnaissance faciale | yüz tanıma | isim (d) | L'usage de la reconnaissance faciale dans l'espace public divise les juristes. | Kamusal alanda yüz tanıma kullanımı hukukçuları ikiye bölüyor.
+la traçabilité | izlenebilirlik | isim (d) | La blockchain promet une meilleure traçabilité des produits alimentaires. | Blokzincir gıda ürünlerinin daha iyi izlenebilmesini vaat ediyor.
+le consentement éclairé | bilgilendirilmiş onam | isim (e) | Aucune donnée ne peut être collectée sans le consentement éclairé de l'utilisateur. | Kullanıcının bilgilendirilmiş onamı olmadan hiçbir veri toplanamaz.
+l'anonymisation (f) | anonimleştirme | isim (d) | Une anonymisation imparfaite permet parfois de réidentifier les personnes. | Kusurlu bir anonimleştirme bazen kişilerin yeniden tanınmasına olanak verir.
+la surveillance de masse | kitlesel gözetim | isim (d) | Les défenseurs des libertés dénoncent les risques de surveillance de masse. | Özgürlük savunucuları kitlesel gözetim risklerine dikkat çekiyor.
+## İnovasyon ve araştırma
+la jeune pousse | girişim şirketi, start-up | isim (d) | Cette jeune pousse grenobloise développe des capteurs pour l'agriculture. | Grenoble'lı bu girişim şirketi tarım için sensörler geliştiriyor.
+la propriété intellectuelle | fikrî mülkiyet | isim (d) | Les litiges de propriété intellectuelle se multiplient entre géants de la technologie. | Teknoloji devleri arasında fikrî mülkiyet uyuşmazlıkları çoğalıyor.
+la recherche fondamentale | temel araştırma | isim (d) | Sans recherche fondamentale, les applications de demain n'existeraient pas. | Temel araştırma olmadan yarının uygulamaları var olmazdı.
+le transfert de technologie | teknoloji transferi | isim (e) | Le transfert de technologie vers l'industrie reste trop lent en Europe. | Sanayiye teknoloji transferi Avrupa'da hâlâ çok yavaş.
+le prototype | prototip | isim (e) | Le premier prototype a été testé dans une soufflerie à Toulouse. | İlk prototip Toulouse'da bir rüzgâr tünelinde test edildi.
+la rupture technologique | teknolojik kırılma | isim (d) | Le smartphone a constitué une véritable rupture technologique. | Akıllı telefon gerçek bir teknolojik kırılma oldu.
+l'obsolescence programmée (f) | planlı eskitme | isim (d) | Depuis 2015, la loi française sanctionne explicitement l'obsolescence programmée des appareils. | 2015'ten beri Fransız yasası cihazların planlı eskitilmesini açıkça cezalandırıyor.
+le principe de précaution | ihtiyat ilkesi | isim (e) | Au nom du principe de précaution, le pesticide a été retiré du marché. | İhtiyat ilkesi adına tarım ilacı piyasadan çekildi.
+l'essor (m) | atılım, hızlı gelişme | isim (e) | L'essor rapide des véhicules électriques transforme toute l'industrie automobile européenne. | Elektrikli araçların hızlı yükselişi tüm Avrupa otomotiv sanayiini dönüştürüyor.
+le technosolutionnisme | teknoloji çözümcülüğü | isim (e) | Ses critiques dénoncent un technosolutionnisme naïf face à la crise climatique. | Eleştirmenleri iklim krizi karşısında saf bir teknoloji çözümcülüğünü kınıyor.
+## Uzay ve ileri malzemeler
+le lanceur | fırlatma aracı (roket) | isim (e) | Le lanceur européen a placé deux satellites en orbite depuis la Guyane. | Avrupa fırlatma aracı Guyana'dan iki uyduyu yörüngeye yerleştirdi.
+la constellation de satellites | uydu takımı | isim (d) | Une constellation de satellites assure désormais l'accès à Internet dans les zones isolées. | Bir uydu takımı artık ıssız bölgelerde internet erişimi sağlıyor.
+les débris spatiaux | uzay çöpü | isim (çoğul) | Les débris spatiaux menacent de plus en plus les satellites en activité. | Uzay çöpleri faal uyduları giderek daha fazla tehdit ediyor.
+l'exoplanète (f) | ötegezegen | isim (d) | Les astronomes ont détecté une exoplanète située dans la zone habitable de son étoile. | Gökbilimciler yıldızının yaşanabilir kuşağında yer alan bir ötegezegen saptadı.
+la nanotechnologie | nanoteknoloji | isim (d) | La nanotechnologie permet de manipuler la matière à l'échelle de l'atome. | Nanoteknoloji maddeyi atom ölçeğinde işlemeyi mümkün kılar.
+le graphène | grafen | isim (e) | Le graphène est à la fois plus léger et plus résistant que l'acier. | Grafen çelikten hem daha hafif hem daha dayanıklıdır.
+le semi-conducteur | yarı iletken | isim (e) | La pénurie de semi-conducteurs a ralenti la production automobile mondiale. | Yarı iletken kıtlığı dünya otomobil üretimini yavaşlattı.
+le supraconducteur | süper iletken | isim (e) | Un supraconducteur conduit l'électricité sans aucune résistance à très basse température. | Süper iletken çok düşük sıcaklıkta elektriği hiç dirençsiz iletir.
+la fabrication additive | eklemeli imalat (3B baskı) | isim (d) | La fabrication additive permet de produire des pièces aux formes impossibles à usiner. | Eklemeli imalat işlenmesi imkânsız biçimlerde parçalar üretmeyi sağlar.
+le matériau composite | kompozit malzeme | isim (e) | Les ailes de cet avion sont fabriquées en matériau composite à base de carbone. | Bu uçağın kanatları karbon esaslı kompozit malzemeden üretiliyor.
+## Teknoloji fiilleri
+numériser | dijitalleştirmek, sayısallaştırmak | fiil | La bibliothèque a numérisé l'ensemble de ses manuscrits médiévaux. | Kütüphane bütün ortaçağ el yazmalarını dijitalleştirdi.
+automatiser | otomatikleştirmek | fiil | L'usine a automatisé la plupart des tâches répétitives. | Fabrika tekrarlayan işlerin çoğunu otomatikleştirdi.
+paramétrer | ayarlamak, parametrelerini belirlemek | fiil | Il faut paramétrer le logiciel avant de lancer la première analyse. | İlk analizi başlatmadan önce yazılımı ayarlamak gerekir.
+entraîner | eğitmek (modeli) | fiil | Les chercheurs ont entraîné leur modèle sur des données médicales anonymisées. | Araştırmacılar modellerini anonimleştirilmiş tıbbi veriler üzerinde eğitti.
+pirater | korsanlık yapmak, hacklemek | fiil | Des inconnus ont piraté le site du ministère pendant la nuit. | Kimliği belirsiz kişiler gece bakanlığın sitesini hackledi.
+géolocaliser | konumunu belirlemek | fiil | L'application peut géolocaliser un téléphone perdu à quelques mètres près. | Uygulama kaybolmuş bir telefonun yerini birkaç metre hassasiyetle belirleyebiliyor.
+déployer | konuşlandırmak, yaygınlaştırmak | fiil | L'opérateur déploie la fibre optique dans les communes rurales. | Operatör kırsal belediyelerde fiber optiği yaygınlaştırıyor.
+breveter | patentini almak | fiil | Elle a breveté un procédé de recyclage des batteries usagées. | Kullanılmış bataryaların geri dönüşümüne yönelik bir yöntemin patentini aldı.
+miniaturiser | küçültmek (cihazı) | fiil | Les ingénieurs ont réussi à miniaturiser le capteur sans perte de précision. | Mühendisler sensörü hassasiyet kaybı olmadan küçültmeyi başardı.
+sécuriser | güvenli hâle getirmek | fiil | Il est urgent de sécuriser les systèmes informatiques des hôpitaux. | Hastanelerin bilgisayar sistemlerini güvenli hâle getirmek acil.
