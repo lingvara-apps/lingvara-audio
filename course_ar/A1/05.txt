@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+## Temel yiyecekler
+طَعَام (ṭaʿām) | yemek, yiyecek (çoğ. أَطْعِمَة) | isim (e) | الطَّعَامُ جَاهِزٌ! (Aṭ-ṭaʿāmu jāhiz!) | Yemek hazır!
+خُبْز (khubz) | ekmek | isim (e) | نَأْكُلُ الْخُبْزَ مَعَ كُلِّ وَجْبَةٍ. (Naʾkulu l-khubza maʿa kulli wajba.) | Her öğünde ekmek yeriz.
+أُرْز (ʾuruzz) | pirinç; pilav | isim (e) | أُحِبُّ الْأُرْزَ مَعَ الدَّجَاجِ. (ʾUḥibbu l-ʾuruzza maʿa d-dajāj.) | Tavuklu pilavı severim.
+لَحْم (laḥm) | et (çoğ. لُحُوم) | isim (e) | لَا آكُلُ اللَّحْمَ. (Lā ʾākulu l-laḥm.) | Et yemem.
+دَجَاج (dajāj) | tavuk (topluluk ismi; tek tavuk: دَجَاجَة) | isim (e) | الدَّجَاجُ مَشْوِيٌّ. (Ad-dajāju mashwiyy.) | Tavuk ızgara.
+بَيْض (bayḍ) | yumurta (topluluk ismi; tek yumurta: بَيْضَة) | isim (e) | آكُلُ بَيْضَتَيْنِ فِي الصَّبَاحِ. (ʾĀkulu bayḍatayni fī ṣ-ṣabāḥ.) | Sabahları iki yumurta yerim.
+جُبْن (jubn) | peynir (çoğ. أَجْبَان) | isim (e) | هٰذَا الْجُبْنُ أَبْيَضُ. (Hādhā l-jubnu ʾabyaḍ.) | Bu peynir beyaz.
+زُبْدَة (zubda) | tereyağı | isim (d) | خُبْزٌ مَعَ زُبْدَةٍ، مِنْ فَضْلِكَ. (Khubzun maʿa zubdatin, min faḍlik.) | Tereyağlı ekmek lütfen.
+شُورْبَة (shūrba) | çorba | isim (d) | شُورْبَةُ الْعَدَسِ لَذِيذَةٌ. (Shūrbatu l-ʿadasi ladhīdha.) | Mercimek çorbası lezzetli.
+مَعْكَرُونَة (maʿkarūna) | makarna | isim (d) | يُحِبُّ الْأَطْفَالُ الْمَعْكَرُونَةَ. (Yuḥibbu l-ʾaṭfālu l-maʿkarūna.) | Çocuklar makarnayı sever.
+## İçecekler
+شَاي (shāy) | çay | isim (e) | شَايٌ بِالنَّعْنَاعِ، مِنْ فَضْلِكَ. (Shāyun bi-n-naʿnāʿ, min faḍlik.) | Naneli çay lütfen.
+قَهْوَة (qahwa) | kahve; kahvehane | isim (d) | الْقَهْوَةُ الْعَرَبِيَّةُ بِالْهَيْلِ. (Al-qahwatu l-ʿarabiyyatu bi-l-hayl.) | Arap kahvesi kakuleli olur.
+حَلِيب (ḥalīb) | süt | isim (e) | يَشْرَبُ الطِّفْلُ الْحَلِيبَ. (Yashrabu ṭ-ṭiflu l-ḥalīb.) | Çocuk süt içiyor.
+عَصِير (ʿaṣīr) | meyve suyu | isim (e) | عَصِيرُ بُرْتُقَالٍ طَازَجٌ. (ʿAṣīru burtuqālin ṭāzaj.) | Taze portakal suyu.
+لَبَن (laban) | yoğurt; ayran (Mısır'da: süt) | isim (e) | أَشْرَبُ اللَّبَنَ مَعَ الْغَدَاءِ. (ʾAshrabu l-labana maʿa l-ghadāʾ.) | Öğle yemeğiyle ayran içerim.
+مَشْرُوب (mashrūb) | içecek (çoğ. مَشْرُوبَات) | isim (e) | مَاذَا تُرِيدُ مِنَ الْمَشْرُوبَاتِ؟ (Mādhā turīdu mina l-mashrūbāt?) | İçecek olarak ne istersin?
+شَرِبَ (shariba) | içmek (geniş z.: يَشْرَبُ) | fiil | شَرِبْتُ كُوبَيْنِ مِنَ الْمَاءِ. (Sharibtu kūbayni mina l-māʾ.) | İki bardak su içtim.
+عَطْشَان (ʿaṭshān) | susamış (kadın: عَطْشَى) | sıfat | أَنَا عَطْشَانُ جِدًّا. (ʾAnā ʿaṭshānu jiddan.) | Çok susadım.
+ثَلْج (thalj) | buz; kar | isim (e) | عَصِيرٌ بِدُونِ ثَلْجٍ. (ʿAṣīrun bi-dūni thalj.) | Buzsuz meyve suyu.
+سُكَّر (sukkar) | şeker | isim (e) | قَهْوَةٌ بِلَا سُكَّرٍ، مِنْ فَضْلِكَ. (Qahwatun bi-lā sukkar, min faḍlik.) | Şekersiz kahve lütfen.
+## Meyveler
+فَاكِهَة (fākiha) | meyve (çoğ. فَوَاكِه) | isim (d) | آكُلُ الْفَاكِهَةَ كُلَّ يَوْمٍ. (ʾĀkulu l-fākihata kulla yawm.) | Her gün meyve yerim.
+تُفَّاح (tuffāḥ) | elma (tek elma: تُفَّاحَة) | isim (e) | التُّفَّاحُ أَحْمَرُ وَحُلْوٌ. (At-tuffāḥu ʾaḥmaru wa-ḥulw.) | Elma kırmızı ve tatlı.
+مَوْز (mawz) | muz | isim (e) | كِيلُو مَوْزٍ، مِنْ فَضْلِكَ. (Kīlū mawzin, min faḍlik.) | Bir kilo muz lütfen.
+بُرْتُقَال (burtuqāl) | portakal | isim (e) | الْبُرْتُقَالُ رَخِيصٌ فِي الشِّتَاءِ. (Al-burtuqālu rakhīṣun fī sh-shitāʾ.) | Portakal kışın ucuz.
+عِنَب (ʿinab) | üzüm | isim (e) | هٰذَا الْعِنَبُ حُلْوٌ جِدًّا. (Hādhā l-ʿinabu ḥulwun jiddan.) | Bu üzüm çok tatlı.
+بِطِّيخ (biṭṭīkh) | karpuz | isim (e) | نَأْكُلُ الْبِطِّيخَ فِي الصَّيْفِ. (Naʾkulu l-biṭṭīkha fī ṣ-ṣayf.) | Yazın karpuz yeriz.
+تَمْر (tamr) | hurma (meyve) | isim (e) | نُقَدِّمُ التَّمْرَ مَعَ الْقَهْوَةِ. (Nuqaddimu t-tamra maʿa l-qahwa.) | Kahveyle birlikte hurma ikram ederiz.
+فَرَاوِلَة (farāwila) | çilek | isim (d) | الْفَرَاوِلَةُ طَازَجَةٌ الْيَوْمَ. (Al-farāwilatu ṭāzajatun al-yawm.) | Çilekler bugün taze.
+مِشْمِش (mishmish) | kayısı | isim (e) | مُرَبَّى الْمِشْمِشِ لَذِيذٌ. (Murabbā l-mishmishi ladhīdh.) | Kayısı reçeli lezzetli.
+تِين (tīn) | incir | isim (e) | فِي حَدِيقَتِنَا شَجَرَةُ تِينٍ. (Fī ḥadīqatinā shajaratu tīn.) | Bahçemizde bir incir ağacı var.
+## Sebzeler
+خُضَار (khuḍār) | sebze(ler) | isim (çoğul) | أَشْتَرِي الْخُضَارَ مِنَ السُّوقِ. (ʾAshtarī l-khuḍāra mina s-sūq.) | Sebzeleri pazardan alırım.
+طَمَاطِم (ṭamāṭim) | domates | isim (çoğul) | الطَّمَاطِمُ حَمْرَاءُ. (Aṭ-ṭamāṭimu ḥamrāʾ.) | Domatesler kırmızı.
+بَطَاطِس (baṭāṭis) | patates | isim (çoğul) | أُرِيدُ بَطَاطِسَ مَقْلِيَّةً. (ʾUrīdu baṭāṭisa maqliyya.) | Patates kızartması istiyorum.
+بَصَل (baṣal) | soğan | isim (e) | لَا أُحِبُّ الْبَصَلَ. (Lā ʾuḥibbu l-baṣal.) | Soğanı sevmem.
+خِيَار (khiyār) | salatalık | isim (e) | سَلَطَةُ خِيَارٍ وَطَمَاطِمَ. (Salaṭatu khiyārin wa-ṭamāṭim.) | Salatalık ve domates salatası.
+جَزَر (jazar) | havuç | isim (e) | الْجَزَرُ مُفِيدٌ لِلْعُيُونِ. (Al-jazaru mufīdun li-l-ʿuyūn.) | Havuç gözlere iyi gelir.
+ثُوم (thūm) | sarımsak | isim (e) | ضَعْ قَلِيلًا مِنَ الثُّومِ. (Ḍaʿ qalīlan mina th-thūm.) | Biraz sarımsak koy.
+فُول (fūl) | bakla; fava (Mısır kahvaltısı) | isim (e) | نَأْكُلُ الْفُولَ فِي الْفُطُورِ. (Naʾkulu l-fūla fī l-fuṭūr.) | Kahvaltıda fava yeriz.
+عَدَس (ʿadas) | mercimek | isim (e) | أُمِّي تَطْبُخُ الْعَدَسَ. (ʾUmmī taṭbukhu l-ʿadas.) | Annem mercimek pişiriyor.
+زَيْتُون (zaytūn) | zeytin | isim (e) | زَيْتُونٌ أَخْضَرُ مِنْ تُونُسَ. (Zaytūnun ʾakhḍaru min Tūnus.) | Tunus'tan yeşil zeytin.
+## Öğünler ve kahvaltı
+فُطُور (fuṭūr) | kahvaltı; iftar | isim (e) | الْفُطُورُ جَاهِزٌ يَا أَوْلَاد! (Al-fuṭūru jāhizun yā ʾawlād!) | Çocuklar, kahvaltı hazır!
+غَدَاء (ghadāʾ) | öğle yemeği | isim (e) | نَتَنَاوَلُ الْغَدَاءَ فِي الثَّانِيَةِ. (Natanāwalu l-ghadāʾa fī th-thāniya.) | Öğle yemeğini saat ikide yeriz.
+عَشَاء (ʿashāʾ) | akşam yemeği | isim (e) | الْعَشَاءُ خَفِيفٌ اللَّيْلَةَ. (Al-ʿashāʾu khafīfun al-layla.) | Bu akşam yemek hafif.
+وَجْبَة (wajba) | öğün, yemek (çoğ. وَجَبَات) | isim (d) | آكُلُ ثَلَاثَ وَجَبَاتٍ فِي الْيَوْمِ. (ʾĀkulu thalātha wajabātin fī l-yawm.) | Günde üç öğün yerim.
+عَسَل (ʿasal) | bal | isim (e) | عَسَلٌ يَمَنِيٌّ مَشْهُورٌ. (ʿAsalun yamaniyyun mashhūr.) | Ünlü bir Yemen balı.
+مُرَبَّى (murabbā) | reçel | isim (e) | خُبْزٌ مَعَ مُرَبَّى التِّينِ. (Khubzun maʿa murabbā t-tīn.) | İncir reçelli ekmek.
+زَعْتَر (zaʿtar) | zahter (kekik karışımı) | isim (e) | نَأْكُلُ الْخُبْزَ بِالزَّيْتِ وَالزَّعْتَرِ. (Naʾkulu l-khubza bi-z-zayti wa-z-zaʿtar.) | Ekmeği zeytinyağı ve zahterle yeriz.
+لَبْنَة (labna) | labne (süzme yoğurt peyniri) | isim (d) | اللَّبْنَةُ مَعَ زَيْتِ الزَّيْتُونِ. (Al-labnatu maʿa zayti z-zaytūn.) | Zeytinyağlı labne.
+حُمُّص (ḥummuṣ) | humus; nohut | isim (e) | صَحْنُ حُمُّصٍ، مِنْ فَضْلِكَ. (Ṣaḥnu ḥummuṣin, min faḍlik.) | Bir tabak humus lütfen.
+فَلَافِل (falāfil) | falafel | isim (e) | سَنْدَوِيشُ فَلَافِلَ رَخِيصٌ. (Sandawīshu falāfila rakhīṣ.) | Falafel sandviçi ucuz.
+## Markette
+سُوبَرْمَارْكِت (sūbarmārkit) | süpermarket | isim (e) | السُّوبَرْمَارْكِت مَفْتُوحٌ حَتَّى اللَّيْلِ. (As-sūbarmārkit maftūḥun ḥattā l-layl.) | Süpermarket geceye kadar açık.
+بَقَّالَة (baqqāla) | bakkal | isim (d) | اِشْتَرَيْتُ الْخُبْزَ مِنَ الْبَقَّالَةِ. (Ishtaraytu l-khubza mina l-baqqāla.) | Ekmeği bakkaldan aldım.
+مَخْبَز (makhbaz) | fırın (dükkân) (çoğ. مَخَابِز) | isim (e) | الْمَخْبَزُ قَرِيبٌ مِنْ بَيْتِي. (Al-makhbazu qarībun min baytī.) | Fırın evime yakın.
+جَزَّار (jazzār) | kasap | isim (e) | اِشْتَرَى أَبِي اللَّحْمَ مِنَ الْجَزَّارِ. (Ishtarā ʾabī l-laḥma mina l-jazzār.) | Babam eti kasaptan aldı.
+كِيلُو (kīlū) | kilo | isim (e) | كِيلُو طَمَاطِمَ بِكَمْ؟ (Kīlū ṭamāṭima bi-kam?) | Domatesin kilosu kaç?
+لِتْر (litr) | litre | isim (e) | اِشْتَرِ لِتْرَيْنِ مِنَ الْحَلِيبِ. (Ishtari litrayni mina l-ḥalīb.) | İki litre süt al.
+عُلْبَة (ʿulba) | kutu, paket, konserve (çoğ. عُلَب) | isim (d) | عُلْبَةُ شَايٍ وَعُلْبَةُ سُكَّرٍ. (ʿUlbatu shāyin wa-ʿulbatu sukkar.) | Bir paket çay ve bir paket şeker.
+قِطْعَة (qiṭʿa) | parça, dilim (çoğ. قِطَع) | isim (d) | أُرِيدُ قِطْعَةَ كَعْكٍ. (ʾUrīdu qiṭʿata kaʿk.) | Bir dilim kek istiyorum.
+رَغِيف (raghīf) | somun, yuvarlak ekmek (çoğ. أَرْغِفَة) | isim (e) | خَمْسَةُ أَرْغِفَةٍ، مِنْ فَضْلِكَ. (Khamsatu ʾarghifatin, min faḍlik.) | Beş ekmek lütfen.
+طَازَج (ṭāzaj) | taze | sıfat | السَّمَكُ طَازَجٌ الْيَوْمَ. (As-samaku ṭāzajun al-yawm.) | Balık bugün taze.
+## Restoranda
+مَطْعَم (maṭʿam) | restoran, lokanta (çoğ. مَطَاعِم) | isim (e) | نَتَعَشَّى فِي مَطْعَمٍ لُبْنَانِيٍّ. (Nataʿashshā fī maṭʿamin lubnāniyy.) | Lübnan restoranında akşam yemeği yiyoruz.
+مَقْهًى (maqhan) | kafe, kahvehane (belirli: الْمَقْهَى; çoğ. مَقَاهٍ) | isim (e) | نَلْتَقِي فِي الْمَقْهَى. (Naltaqī fī l-maqhā.) | Kafede buluşuyoruz.
+قَائِمَةُ الطَّعَام (qāʾimatu ṭ-ṭaʿām) | yemek listesi, menü | isim (d) | قَائِمَةُ الطَّعَامِ، لَوْ سَمَحْتَ. (Qāʾimatu ṭ-ṭaʿāmi, law samaḥt.) | Menü lütfen.
+نَادِل (nādil) | garson (kadın: نَادِلَة) | isim (e) | النَّادِلُ لَطِيفٌ جِدًّا. (An-nādilu laṭīfun jiddan.) | Garson çok nazik.
+طَلَبَ (ṭalaba) | sipariş etmek, istemek (geniş z.: يَطْلُبُ) | fiil | طَلَبْتُ سَمَكًا وَأُرْزًا. (Ṭalabtu samakan wa-ʾuruzzan.) | Balık ve pilav sipariş ettim.
+حِسَاب (ḥisāb) | hesap | isim (e) | الْحِسَابُ، مِنْ فَضْلِكَ. (Al-ḥisābu, min faḍlik.) | Hesap lütfen.
+بَقْشِيش (baqshīsh) | bahşiş | isim (e) | تَرَكْنَا بَقْشِيشًا لِلنَّادِلِ. (Taraknā baqshīshan li-n-nādil.) | Garsona bahşiş bıraktık.
+حَجَزَ (ḥajaza) | rezervasyon yapmak, ayırtmak (geniş z.: يَحْجِزُ) | fiil | حَجَزْتُ طَاوِلَةً لِأَرْبَعَةٍ. (Ḥajaztu ṭāwilatan li-ʾarbaʿa.) | Dört kişilik masa ayırttım.
+طَبَق (ṭabaq) | yemek (tabağı); tabak (çoğ. أَطْبَاق) | isim (e) | مَا الطَّبَقُ الرَّئِيسِيُّ الْيَوْمَ؟ (Mā ṭ-ṭabaqu r-raʾīsiyyu l-yawm?) | Bugün ana yemek ne?
+بِالْهَنَاءِ وَالشِّفَاء (bi-l-hanāʾi wa-sh-shifāʾ) | afiyet olsun | ifade | تَفَضَّلُوا، بِالْهَنَاءِ وَالشِّفَاءِ! (Tafaḍḍalū, bi-l-hanāʾi wa-sh-shifāʾ!) | Buyurun, afiyet olsun!
+## Tatlar
+لَذِيذ (ladhīdh) | lezzetli | sıfat | الْكُسْكُسُ لَذِيذٌ جِدًّا. (Al-kuskusu ladhīdhun jiddan.) | Kuskus çok lezzetli.
+حُلْو (ḥulw) | tatlı; güzel, hoş | sıfat | الشَّايُ حُلْوٌ كَثِيرًا. (Ash-shāyu ḥulwun kathīran.) | Çay çok şekerli.
+مَالِح (māliḥ) | tuzlu | sıfat | الشُّورْبَةُ مَالِحَةٌ قَلِيلًا. (Ash-shūrbatu māliḥatun qalīlan.) | Çorba biraz tuzlu.
+حَامِض (ḥāmiḍ) | ekşi | sıfat | اللَّيْمُونُ حَامِضٌ. (Al-laymūnu ḥāmiḍ.) | Limon ekşi.
+مُرّ (murr) | acı (tat) | sıfat | الْقَهْوَةُ بِدُونِ سُكَّرٍ مُرَّةٌ. (Al-qahwatu bi-dūni sukkarin murra.) | Şekersiz kahve acı.
+حَارّ (ḥārr) | sıcak (hava); acı, baharatlı | sıfat | هٰذَا الطَّعَامُ حَارٌّ جِدًّا. (Hādhā ṭ-ṭaʿāmu ḥārrun jiddan.) | Bu yemek çok acı.
+بَارِد (bārid) | soğuk | sıfat | أُرِيدُ مَاءً بَارِدًا. (ʾUrīdu māʾan bāridan.) | Soğuk su istiyorum.
+سَاخِن (sākhin) | sıcak (yiyecek, içecek) | sıfat | الشَّايُ سَاخِنٌ، اِنْتَبِهْ. (Ash-shāyu sākhin, intabih.) | Çay sıcak, dikkat et.
+طَعْم (ṭaʿm) | tat, lezzet | isim (e) | طَعْمُ هٰذَا الْعَصِيرِ غَرِيبٌ. (Ṭaʿmu hādhā l-ʿaṣīri gharīb.) | Bu meyve suyunun tadı tuhaf.
+مِلْح (milḥ) | tuz | isim (e) | نَاوِلْنِي الْمِلْحَ، مِنْ فَضْلِكَ. (Nāwilnī l-milḥa, min faḍlik.) | Tuzu uzatır mısın lütfen.
+## Yemekle ilgili fiiller
+أَكَلَ (ʾakala) | yemek (geniş z.: يَأْكُلُ; emir: كُلْ) | fiil · düzensiz | مَاذَا أَكَلْتَ الْيَوْمَ؟ (Mādhā ʾakalta l-yawm?) | Bugün ne yedin?
+جَائِع (jāʾiʿ) | aç | sıfat | أَنَا جَائِعٌ، هَيَّا نَأْكُلْ! (ʾAnā jāʾiʿ, hayyā naʾkul!) | Açım, hadi yiyelim!
+شَبْعَان (shabʿān) | tok (kadın: شَبْعَى) | sıfat | شُكْرًا، أَنَا شَبْعَانُ. (Shukran, ʾanā shabʿān.) | Teşekkürler, doydum.
+تَذَوَّقَ (tadhawwaqa) | tadına bakmak (geniş z.: يَتَذَوَّقُ) | fiil | تَذَوَّقْ هٰذِهِ الْحَلْوَى. (Tadhawwaq hādhihi l-ḥalwā.) | Bu tatlının tadına bak.
+قَطَعَ (qaṭaʿa) | kesmek (geniş z.: يَقْطَعُ) | fiil | اِقْطَعِ الْخُبْزَ، مِنْ فَضْلِكَ. (Iqṭaʿi l-khubza, min faḍlik.) | Ekmeği keser misin lütfen.
+صَبَّ (ṣabba) | dökmek, (içecek) koymak (geniş z.: يَصُبُّ) | fiil · düzensiz | صُبَّ لِي قَلِيلًا مِنَ الشَّايِ. (Ṣubba lī qalīlan mina sh-shāy.) | Bana biraz çay koy.
+أَعَدَّ (ʾaʿadda) | hazırlamak (geniş z.: يُعِدُّ) | fiil · düzensiz | أَعَدَّتْ لَيْلَى الْعَشَاءَ. (ʾAʿaddat Laylā l-ʿashāʾ.) | Leyla akşam yemeğini hazırladı.
+تَنَاوَلَ (tanāwala) | (yemek) yemek, almak (resmî) (geniş z.: يَتَنَاوَلُ) | fiil | تَنَاوَلْنَا الْفُطُورَ فِي الْفُنْدُقِ. (Tanāwalnā l-fuṭūra fī l-funduq.) | Kahvaltıyı otelde yaptık.
+قَلَى (qalā) | kızartmak (geniş z.: يَقْلِي) | fiil · düzensiz | تَقْلِي أُمِّي الْبَيْضَ. (Taqlī ʾummī l-bayḍ.) | Annem yumurta kızartıyor.
+مَلَأَ (malaʾa) | doldurmak (geniş z.: يَمْلَأُ) | fiil | اِمْلَأِ الْكُوبَ بِالْمَاءِ. (Imlaʾi l-kūba bi-l-māʾ.) | Bardağı suyla doldur.
+## Arap mutfağından
+كُسْكُس (kuskus) | kuskus (Kuzey Afrika yemeği) | isim (e) | نَأْكُلُ الْكُسْكُسَ يَوْمَ الْجُمُعَةِ. (Naʾkulu l-kuskusa yawma l-jumuʿa.) | Cuma günü kuskus yeriz.
+شَاوَرْمَا (shāwarmā) | döner, şavurma | isim (d) | أُرِيدُ شَاوَرْمَا دَجَاجٍ. (ʾUrīdu shāwarmā dajāj.) | Tavuk döner istiyorum.
+كَبْسَة (kabsa) | kabsa (Körfez'in etli baharatlı pilavı) | isim (d) | الْكَبْسَةُ طَبَقٌ سُعُودِيٌّ. (Al-kabsatu ṭabaqun suʿūdiyy.) | Kabsa bir Suudi yemeği.
+مَنْسَف (mansaf) | mansaf (Ürdün'ün yoğurtlu etli pilavı) | isim (e) | الْمَنْسَفُ طَبَقُ الْأُرْدُنِّ. (Al-mansafu ṭabaqu l-ʾUrdunn.) | Mansaf Ürdün'ün yemeği.
+كُنَافَة (kunāfa) | künefe | isim (d) | الْكُنَافَةُ سَاخِنَةٌ وَحُلْوَةٌ. (Al-kunāfatu sākhinatun wa-ḥulwa.) | Künefe sıcak ve tatlı.
+بَقْلَاوَة (baqlāwa) | baklava | isim (d) | الْبَقْلَاوَةُ بِالْفُسْتُقِ. (Al-baqlāwatu bi-l-fustuq.) | Fıstıklı baklava.
+تَبُّولَة (tabbūla) | tabule (maydanozlu bulgur salatası) | isim (d) | التَّبُّولَةُ سَلَطَةٌ لُبْنَانِيَّةٌ. (At-tabbūlatu salaṭatun lubnāniyya.) | Tabule bir Lübnan salatası.
+كِبَّة (kibba) | içli köfte | isim (d) | جَدَّتِي تَصْنَعُ الْكِبَّةَ. (Jaddatī taṣnaʿu l-kibba.) | Ninem içli köfte yapıyor.
+مُلُوخِيَّة (mulūkhiyya) | mulukhiye (yeşil yapraklı Mısır yemeği) | isim (d) | الْمُلُوخِيَّةُ طَبَقٌ مِصْرِيٌّ. (Al-mulūkhiyyatu ṭabaqun miṣriyy.) | Mulukhiye bir Mısır yemeği.
+حَلْوَى (ḥalwā) | tatlı (yiyecek); şekerleme (çoğ. حَلَوِيَّات) | isim (d) | نُقَدِّمُ الْحَلْوَى فِي الْعِيدِ. (Nuqaddimu l-ḥalwā fī l-ʿīd.) | Bayramda tatlı ikram ederiz.
