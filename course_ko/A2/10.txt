@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Cihazlar, internet, sosyal medya, teknik sorunlar
+## Cihazlar
+스마트폰 (seumateupon) | akıllı telefon | isim | 스마트폰으로 뉴스를 봐요. (Seumateuponeuro nyuseureul bwayo.) | Haberleri akıllı telefondan okurum.
+노트북 (noteubuk) | dizüstü bilgisayar | isim | 카페에서 노트북으로 일해요. (Kapeeseo noteubugeuro ilhaeyo.) | Kafede dizüstü bilgisayarla çalışıyorum.
+태블릿 (taebeullit) | tablet | isim | 아이가 태블릿으로 만화를 봐요. (Aiga taebeulliseuro manhwareul bwayo.) | Çocuk tabletten çizgi film izliyor.
+이어폰 (ieopon) | kulaklık (kulak içi) | isim | 지하철에서는 이어폰을 끼세요. (Jihacheoreseoneun ieoponeul kkiseyo.) | Metroda kulaklık takın.
+충전기 (chungjeongi) | şarj aleti | isim | 충전기를 집에 두고 왔어요. (Chungjeongireul jibe dugo wasseoyo.) | Şarj aletini evde unuttum.
+프린터 (peurinteo) | yazıcı | isim | 프린터에 종이가 없어요. (Peurinteoe jongiga eopseoyo.) | Yazıcıda kâğıt yok.
+카메라 (kamera) | fotoğraf makinesi | isim | 여행 갈 때 카메라를 가져가요. (Yeohaeng gal ttae kamerareul gajyeogayo.) | Seyahate giderken fotoğraf makinesi götürürüm.
+스피커 (seupikeo) | hoparlör | isim | 스피커 소리 좀 줄여 주세요. (Seupikeo sori jom juryeo juseyo.) | Hoparlörün sesini biraz kısın.
+마우스 (mauseu) | fare (bilgisayar) | isim | 마우스가 고장 났어요. (Mauseuga gojang nasseoyo.) | Fare bozuldu.
+키보드 (kibodeu) | klavye | isim | 키보드로 한글을 쳐요. (Kibodeuro hangeureul chyeoyo.) | Klavyeyle Hangıl yazıyorum.
+## Telefonla iletişim
+통화하다 (tonghwahada) | telefonla konuşmak | fiil | 엄마와 한 시간 통화했어요. (Eommawa han sigan tonghwahaesseoyo.) | Annemle bir saat telefonda konuştum.
+문자 (munja) | kısa mesaj (SMS) | isim | 도착하면 문자 보내 주세요. (Dochakamyeon munja bonae juseyo.) | Varınca mesaj atın.
+메시지 (mesiji) | mesaj | isim | 친구에게 메시지가 왔어요. (Chinguege mesijiga wasseoyo.) | Arkadaşımdan mesaj geldi.
+영상 통화 (yeongsang tonghwa) | görüntülü görüşme | isim | 부모님과 영상 통화를 해요. (Bumonimgwa yeongsang tonghwareul haeyo.) | Anne babamla görüntülü konuşuyorum.
+벨소리 (belsori) | zil sesi | isim | 벨소리가 너무 커요. (Belsoriga neomu keoyo.) | Zil sesi çok yüksek.
+진동 (jindong) | titreşim | isim | 회의 중에는 진동으로 해 주세요. (Hoeui jungeneun jindongeuro hae juseyo.) | Toplantı sırasında titreşime alın.
+배터리 (baeteori) | batarya, şarj | isim | 배터리가 거의 다 됐어요. (Baeteoriga geoui da dwaesseoyo.) | Şarjım neredeyse bitti.
+충전하다 (chungjeonhada) | şarj etmek | fiil | 자기 전에 휴대폰을 충전해요. (Jagi jeone hyudaeponeul chungjeonhaeyo.) | Yatmadan önce telefonu şarj ederim.
+데이터 (deiteo) | mobil veri | isim | 데이터가 부족해서 와이파이를 찾아요. (Deiteoga bujokaeseo waipaireul chajayo.) | Mobil verim azaldığı için Wi-Fi arıyorum.
+와이파이 (waipai) | Wi-Fi, kablosuz internet | isim | 여기 와이파이 비밀번호가 뭐예요? (Yeogi waipai bimilbeonhoga mwoyeyo?) | Buranın Wi-Fi şifresi ne?
+## İnternet
+인터넷 (inteonet) | internet | isim | 인터넷이 갑자기 안 돼요. (Inteonesi gapjagi an dwaeyo.) | İnternet aniden çalışmıyor.
+검색하다 (geomsaekada) | arama yapmak (internette) | fiil | 모르는 단어를 검색해 봤어요. (Moreuneun daneoreul geomsaekae bwasseoyo.) | Bilmediğim kelimeyi internette aradım.
+사이트 (saiteu) | internet sitesi | isim | 이 사이트에서 표를 예매할 수 있어요. (I saiteueseo pyoreul yemaehal su isseoyo.) | Bu siteden bilet alabilirsiniz.
+홈페이지 (hompeiji) | web sitesi, ana sayfa | isim | 학교 홈페이지에 공지가 올라왔어요. (Hakgyo hompeijie gongjiga ollawasseoyo.) | Okulun sitesine duyuru konuldu.
+접속하다 (jeopsokada) | bağlanmak (siteye, ağa) | fiil | 사람이 많아서 접속이 안 돼요. (Sarami manaseo jeopsogi an dwaeyo.) | Çok kişi olduğu için bağlanılamıyor.
+링크 (ringkeu) | bağlantı, link | isim | 링크를 보내 줄게요. (Ringkeureul bonae julgeyo.) | Linki gönderirim.
+다운로드하다 (daunnodeuhada) | indirmek | fiil | 앱을 다운로드했어요. (Aebeul daunnodeuhaesseoyo.) | Uygulamayı indirdim.
+업로드하다 (eomnodeuhada) | yüklemek (internete) | fiil | 사진을 클라우드에 업로드했어요. (Sajineul keullaudeue eomnodeuhaesseoyo.) | Fotoğrafları buluta yükledim.
+로그인하다 (rogeuinhada) | giriş yapmak (hesaba) | fiil | 먼저 로그인하세요. (Meonjeo rogeuinhaseyo.) | Önce giriş yapın.
+회원 가입 (hoewon gaip) | üye kaydı | isim | 회원 가입을 하면 쿠폰을 줘요. (Hoewon gaibeul hamyeon kuponeul jwoyo.) | Üye olursanız kupon veriliyor.
+## Sosyal medya
+소셜 미디어 (sosyeol midieo) | sosyal medya | isim | 소셜 미디어를 하루에 두 시간 해요. (Sosyeol midieoreul harue du sigan haeyo.) | Günde iki saat sosyal medyada vakit geçiriyorum.
+게시물 (gesimul) | gönderi, paylaşım | isim | 새 게시물을 올렸어요. (Sae gesimureul ollyeosseoyo.) | Yeni bir gönderi paylaştım.
+올리다 (ollida) | yüklemek, paylaşmak; yükseltmek | fiil | 여행 사진을 인터넷에 올렸어요. (Yeohaeng sajineul inteonese ollyeosseoyo.) | Gezi fotoğraflarını internete yükledim.
+댓글 (daetgeul) | yorum (gönderiye) | isim | 제 사진에 댓글이 많이 달렸어요. (Je sajine daetgeuri mani dallyeosseoyo.) | Fotoğrafıma çok yorum yapıldı.
+좋아요 (joayo) | beğeni (sosyal medya) | isim | 게시물에 좋아요를 눌렀어요. (Gesimure joayoreul nulleosseoyo.) | Gönderiyi beğendim.
+팔로우하다 (pallouhada) | takip etmek (hesap) | fiil | 그 요리사 계정을 팔로우해요. (Geu yorisa gyejeongeul pallouhaeyo.) | O aşçının hesabını takip ediyorum.
+공유하다 (gongyuhada) | paylaşmak | fiil | 좋은 정보를 친구들과 공유했어요. (Joeun jeongboreul chingudeulgwa gongyuhaesseoyo.) | Faydalı bilgiyi arkadaşlarla paylaştım.
+구독하다 (gudokada) | abone olmak | fiil | 이 채널을 구독하고 있어요. (I chaeneoreul gudokago isseoyo.) | Bu kanala aboneyim.
+프로필 (peuropil) | profil | isim | 프로필 사진을 바꿨어요. (Peuropil sajineul bakkwosseoyo.) | Profil fotoğrafımı değiştirdim.
+인플루언서 (inpeulluenseo) | fenomen, influencer | isim | 그 인플루언서가 이 화장품을 소개했어요. (Geu inpeulluenseoga i hwajangpumeul sogaehaesseoyo.) | O fenomen bu kozmetiği tanıttı.
+## Bilgisayarda
+파일 (pail) | dosya | isim | 파일을 첨부했어요. (Paireul cheombuhaesseoyo.) | Dosyayı ekledim.
+폴더 (poldeo) | klasör | isim | 사진을 새 폴더에 넣었어요. (Sajineul sae poldeoe neoeosseoyo.) | Fotoğrafları yeni klasöre koydum.
+저장하다 (jeojanghada) | kaydetmek | fiil | 문서를 자주 저장하세요. (Munseoreul jaju jeojanghaseyo.) | Belgeyi sık sık kaydedin.
+삭제하다 (sakjehada) | silmek | fiil | 실수로 사진을 삭제했어요. (Silsuro sajineul sakjehaesseoyo.) | Fotoğrafı yanlışlıkla sildim.
+복사하다 (boksahada) | kopyalamak | fiil | 이 문장을 복사해서 붙여 넣으세요. (I munjangeul boksahaeseo butyeo neoeuseyo.) | Bu cümleyi kopyalayıp yapıştırın.
+설치하다 (seolchihada) | kurmak, yüklemek (program) | fiil | 새 프로그램을 설치했어요. (Sae peurogeuraemeul seolchihaesseoyo.) | Yeni bir program kurdum.
+업데이트 (eopdeiteu) | güncelleme | isim | 휴대폰 업데이트를 했어요. (Hyudaepon eopdeiteureul haesseoyo.) | Telefonu güncelledim.
+앱 (aep) | uygulama | isim | 이 앱으로 택시를 불러요. (I aebeuro taeksireul bulleoyo.) | Bu uygulamayla taksi çağırıyorum.
+화면 (hwamyeon) | ekran | isim | 화면이 너무 작아요. (Hwamyeoni neomu jagayo.) | Ekran çok küçük.
+클릭하다 (keullikada) | tıklamak | fiil | 여기를 클릭하세요. (Yeogireul keullikaseyo.) | Buraya tıklayın.
+## Teknik sorunlar
+오류 (oryu) | hata (sistem) | isim | 결제할 때 오류가 났어요. (Gyeoljehal ttae oryuga nasseoyo.) | Ödeme yaparken hata çıktı.
+꺼지다 (kkeojida) | kapanmak, sönmek | fiil | 컴퓨터가 갑자기 꺼졌어요. (Keompyuteoga gapjagi kkeojyeosseoyo.) | Bilgisayar aniden kapandı.
+켜지다 (kyeojida) | açılmak, yanmak (cihaz, ışık) | fiil | 휴대폰이 안 켜져요. (Hyudaeponi an kyeojyeoyo.) | Telefon açılmıyor.
+끊기다 (kkeunkida) | kesilmek (bağlantı) | fiil | 통화 중에 전화가 끊겼어요. (Tonghwa junge jeonhwaga kkeunkyeosseoyo.) | Konuşurken telefon kesildi.
+바이러스 (baireoseu) | virüs | isim | 컴퓨터에 바이러스가 걸렸어요. (Keompyuteoe baireoseuga geollyeosseoyo.) | Bilgisayara virüs bulaştı.
+해킹 (haeking) | bilgisayar korsanlığı, hackleme | isim | 계정이 해킹을 당했어요. (Gyejeongi haekingeul danghaesseoyo.) | Hesabım hacklendi.
+먹통 (meoktong) | çalışmayan, donmuş (cihaz; konuşma dili) | isim | 휴대폰이 완전히 먹통이 됐어요. (Hyudaeponi wanjeonhi meoktongi dwaesseoyo.) | Telefon tamamen dondu.
+초기화하다 (chogihwahada) | sıfırlamak (fabrika ayarlarına) | fiil | 휴대폰을 초기화했어요. (Hyudaeponeul chogihwahaesseoyo.) | Telefonu sıfırladım.
+백업 (baegeop) | yedekleme | isim | 사진을 백업해 두세요. (Sajineul baegeopae duseyo.) | Fotoğrafları yedekleyin.
+서비스 센터 (seobiseu senteo) | teknik servis | isim | 노트북을 서비스 센터에 맡겼어요. (Noteubugeul seobiseu senteoe matgyeosseoyo.) | Dizüstü bilgisayarı teknik servise bıraktım.
+## Çevrim içi iletişim
+메신저 (mesinjeo) | mesajlaşma uygulaması | isim | 회사 사람들과 메신저로 이야기해요. (Hoesa saramdeulgwa mesinjeoro iyagihaeyo.) | İş arkadaşlarıyla mesajlaşma uygulamasından konuşuyorum.
+단톡방 (dantokbang) | grup sohbeti | isim | 가족 단톡방에 사진을 올렸어요. (Gajok dantokbange sajineul ollyeosseoyo.) | Aile grubuna fotoğraf attım.
+이모티콘 (imotikon) | ifade simgesi, emoji | isim | 귀여운 이모티콘을 보냈어요. (Gwiyeoun imotikoneul bonaesseoyo.) | Sevimli bir emoji gönderdim.
+답장 (dapjang) | cevap (mesaja) | isim | 아직 답장이 없어요. (Ajik dapjangi eopseoyo.) | Henüz cevap gelmedi.
+알림 (allim) | bildirim | isim | 알림을 꺼 놓았어요. (Allimeul kkeo noasseoyo.) | Bildirimleri kapattım.
+차단하다 (chadanhada) | engellemek | fiil | 모르는 번호를 차단했어요. (Moreuneun beonhoreul chadanhaesseoyo.) | Bilmediğim numarayı engelledim.
+계정 (gyejeong) | hesap (kullanıcı) | isim | 새 계정을 만들었어요. (Sae gyejeongeul mandeureosseoyo.) | Yeni bir hesap oluşturdum.
+아이디 (aidi) | kullanıcı adı | isim | 아이디와 비밀번호를 입력하세요. (Aidiwa bimilbeonhoreul imnyeokaseyo.) | Kullanıcı adınızı ve şifrenizi girin.
+온라인 (ollain) | çevrim içi | isim | 온라인으로 수업을 들어요. (Ollaineuro sueobeul deureoyo.) | Dersleri çevrim içi alıyorum.
+오프라인 (opeurain) | çevrim dışı; yüz yüze | isim | 다음 모임은 오프라인으로 해요. (Daeum moimeun opeuraineuro haeyo.) | Bir sonraki toplantıyı yüz yüze yapalım.
+## Dijital dünya
+기술 (gisul) | teknoloji; teknik, beceri | isim | 기술이 빠르게 발전하고 있어요. (Gisuri ppareuge baljeonhago isseoyo.) | Teknoloji hızla gelişiyor.
+발전하다 (baljeonhada) | gelişmek, ilerlemek | fiil | 한국의 정보 기술은 많이 발전했어요. (Hangugui jeongbo gisureun mani baljeonhaesseoyo.) | Kore'nin bilişim teknolojisi çok gelişti.
+디지털 (dijiteol) | dijital | isim | 요즘은 디지털 시대예요. (Yojeumeun dijiteol sidaeyeyo.) | Günümüz dijital çağ.
+인공지능 (ingongjineung) | yapay zekâ | isim | 인공지능이 번역을 도와줘요. (Ingongjineungi beonyeogeul dowajwoyo.) | Yapay zekâ çeviriye yardım ediyor.
+로봇 (robot) | robot | isim | 식당에서 로봇이 음식을 날라요. (Sikdangeseo robosi eumsigeul nallayo.) | Lokantada robot yemek taşıyor.
+정보 (jeongbo) | bilgi | isim | 인터넷에서 여행 정보를 찾았어요. (Inteoneseseo yeohaeng jeongboreul chajasseoyo.) | İnternette seyahat bilgisi buldum.
+개인 정보 (gaein jeongbo) | kişisel bilgiler | isim | 개인 정보를 함부로 알려 주지 마세요. (Gaein jeongboreul hamburo allyeo juji maseyo.) | Kişisel bilgilerinizi gelişigüzel vermeyin.
+전자 (jeonja) | elektronik | isim | 전자 제품 매장에 갔어요. (Jeonja jepum maejange gasseoyo.) | Elektronik mağazasına gittim.
+기계 (gigye) | makine | isim | 이 기계는 사용법이 쉬워요. (I gigyeneun sayongbeobi swiwoyo.) | Bu makinenin kullanımı kolay.
+자동 (jadong) | otomatik | isim | 문이 자동으로 열려요. (Muni jadongeuro yeollyeoyo.) | Kapı otomatik açılıyor.
+## Fotoğraf ve video
+동영상 (dongyeongsang) | video | isim | 고양이 동영상을 찍었어요. (Goyangi dongyeongsangeul jjigeosseoyo.) | Kedinin videosunu çektim.
+셀카 (selka) | selfie, özçekim | isim | 친구들과 셀카를 찍었어요. (Chingudeulgwa selkareul jjigeosseoyo.) | Arkadaşlarla özçekim yaptık.
+촬영하다 (chwaryeonghada) | çekim yapmak | fiil | 여기서는 촬영하시면 안 됩니다. (Yeogiseoneun chwaryeonghasimyeon an doemnida.) | Burada çekim yapmak yasaktır.
+편집하다 (pyeonjipada) | düzenlemek (video, metin) | fiil | 여행 영상을 편집했어요. (Yeohaeng yeongsangeul pyeonjipaesseoyo.) | Gezi videosunu düzenledim.
+화질 (hwajil) | görüntü kalitesi | isim | 이 카메라는 화질이 좋아요. (I kameraneun hwajiri joayo.) | Bu kameranın görüntü kalitesi iyi.
+앨범 (aelbeom) | albüm | isim | 휴대폰 앨범에 사진이 너무 많아요. (Hyudaepon aelbeome sajini neomu manayo.) | Telefon albümünde çok fazla fotoğraf var.
+필터 (pilteo) | filtre | isim | 필터를 써서 사진이 예뻐요. (Pilteoreul sseoseo sajini yeppeoyo.) | Filtre kullandığım için fotoğraf güzel.
+생방송 (saengbangsong) | canlı yayın | isim | 콘서트를 생방송으로 봤어요. (Konseoteureul saengbangsongeuro bwasseoyo.) | Konseri canlı yayından izledim.
+조회수 (johoesu) | görüntülenme sayısı | isim | 제 영상 조회수가 천 회를 넘었어요. (Je yeongsang johoesuga cheon hoereul neomeosseoyo.) | Videom bin görüntülenmeyi geçti.
+크리에이터 (keurieiteo) | içerik üreticisi | isim | 요리 크리에이터가 되고 싶어요. (Yori keurieiteoga doego sipeoyo.) | Yemek içerikleri üreticisi olmak istiyorum.
+## Cihaz kullanmak
+누르다 (nureuda) | basmak (düğme) (눌러요) | fiil · düzensiz | 이 버튼을 누르세요. (I beoteuneul nureuseyo.) | Bu düğmeye basın.
+입력하다 (imnyeokada) | girmek (veri), yazmak | fiil | 주소를 입력해 주세요. (Jusoreul imnyeokae juseyo.) | Adresi girin lütfen.
+연결하다 (yeongyeolhada) | bağlamak | fiil | 노트북을 와이파이에 연결했어요. (Noteubugeul waipaie yeongyeolhaesseoyo.) | Dizüstü bilgisayarı Wi-Fi'a bağladım.
+꽂다 (kkotda) | takmak (fişe, prize) | fiil | 충전기를 콘센트에 꽂으세요. (Chungjeongireul konsenteue kkojeuseyo.) | Şarj aletini prize takın.
+뽑다 (ppopda) | çekip çıkarmak; seçmek | fiil | 플러그를 뽑았어요. (Peulleogeureul ppobasseoyo.) | Fişi çektim.
+사용하다 (sayonghada) | kullanmak | fiil | 이 기계는 어떻게 사용해요? (I gigyeneun eotteoke sayonghaeyo?) | Bu makine nasıl kullanılıyor?
+이용하다 (iyonghada) | yararlanmak, kullanmak (hizmet) | fiil | 도서관을 자주 이용해요. (Doseogwaneul jaju iyonghaeyo.) | Kütüphaneyi sık kullanırım.
+설정 (seoljeong) | ayarlar | isim | 설정에서 언어를 바꾸세요. (Seoljeongeseo eoneoreul bakkuseyo.) | Dili ayarlardan değiştirin.
+기능 (gineung) | işlev, özellik | isim | 이 앱은 기능이 많아요. (I aebeun gineungi manayo.) | Bu uygulamanın çok özelliği var.
+무선 (museon) | kablosuz | isim | 무선 이어폰을 샀어요. (Museon ieoponeul sasseoyo.) | Kablosuz kulaklık aldım.
