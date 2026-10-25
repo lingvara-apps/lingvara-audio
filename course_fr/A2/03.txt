@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
+## Doktorda
+le cabinet médical | muayenehane | isim (e) | Le cabinet médical est au premier étage. | Muayenehane birinci katta.
+la consultation | muayene | isim (d) | La consultation coûte vingt-six euros. | Muayene yirmi altı avro.
+examiner | muayene etmek; incelemek | fiil | Le médecin examine le petit garçon. | Doktor küçük çocuğu muayene ediyor.
+le pédiatre | çocuk doktoru | isim (e) | J'emmène mon fils chez le pédiatre. | Oğlumu çocuk doktoruna götürüyorum.
+l'ordonnance (f) | reçete | isim (d) | Le médecin m'a fait une ordonnance. | Doktor bana reçete yazdı.
+le généraliste | pratisyen hekim, aile hekimi | isim (e) | D'abord, va voir ton généraliste. | Önce aile hekimine git.
+le spécialiste | uzman doktor | isim (e) | Il m'envoie chez un spécialiste. | Beni bir uzmana yönlendiriyor.
+la salle d'attente | bekleme salonu | isim (d) | Il y a trois personnes dans la salle d'attente. | Bekleme salonunda üç kişi var.
+le traitement | tedavi | isim (e) | Le traitement dure une semaine. | Tedavi bir hafta sürüyor.
+soigner | tedavi etmek, bakmak | fiil | Cette infirmière soigne bien les enfants. | Bu hemşire çocuklarla iyi ilgileniyor.
+## Belirtiler
+tousser | öksürmek | fiil | Il tousse depuis trois jours. | Üç gündür öksürüyor.
+éternuer | hapşırmak | fiil | J'éternue à cause du pollen. | Polen yüzünden hapşırıyorum.
+la toux | öksürük | isim (d) | Ce sirop est bon contre la toux. | Bu şurup öksürüğe iyi gelir.
+la nausée | mide bulantısı | isim (d) | J'ai la nausée en bateau. | Teknede midem bulanıyor.
+vomir | kusmak | fiil | Le bébé a vomi cette nuit. | Bebek bu gece kustu.
+le vertige | baş dönmesi | isim (e) | J'ai des vertiges quand je me lève. | Kalkınca başım dönüyor.
+saigner | kanamak | fiil | Mon nez saigne ! | Burnum kanıyor!
+se sentir (senti) | kendini hissetmek | fiil · dönüşlü | Je ne me sens pas bien. | Kendimi iyi hissetmiyorum.
+le symptôme | belirti | isim (e) | Quels sont vos symptômes ? | Belirtileriniz neler?
+la douleur | ağrı, acı | isim (d) | J'ai une douleur dans le dos. | Sırtımda bir ağrı var.
+## Hastalıklar
+la maladie | hastalık | isim (d) | C'est une maladie grave ? | Ciddi bir hastalık mı?
+l'allergie (f) | alerji | isim (d) | J'ai une allergie aux chats. | Kedilere alerjim var.
+l'angine (f) | anjin, boğaz enfeksiyonu | isim (d) | Il a une angine, il a mal à la gorge. | Anjin olmuş, boğazı ağrıyor.
+l'infection (f) | enfeksiyon | isim (d) | C'est une petite infection à l'oreille. | Kulakta küçük bir enfeksiyon.
+le virus | virüs | isim (e) | Il y a un virus à l'école. | Okulda bir virüs dolaşıyor.
+la blessure | yara | isim (d) | Ce n'est pas une blessure grave. | Ciddi bir yara değil.
+la brûlure | yanık | isim (d) | Mets de l'eau froide sur la brûlure. | Yanığın üstüne soğuk su tut.
+l'asthme (m) | astım | isim (e) | Mon fils a de l'asthme. | Oğlumun astımı var.
+contagieux (contagieuse) | bulaşıcı | sıfat | La grippe est très contagieuse. | Grip çok bulaşıcıdır.
+enrhumé | nezle olmuş | sıfat | Je suis enrhumé depuis lundi. | Pazartesiden beri nezleyim.
+## Eczanede
+le comprimé | tablet, hap | isim (e) | Prenez deux comprimés par jour. | Günde iki tablet alın.
+la pommade | merhem | isim (d) | Mets cette pommade sur ton genou. | Bu merhemi dizine sür.
+le pansement | yara bandı; sargı | isim (e) | Tu as un pansement ? Je me suis coupé. | Yara bandın var mı? Elimi kestim.
+les gouttes | damla (ilaç) | isim (çoğul) | Mettez ces gouttes dans les yeux. | Bu damlaları gözlerinize damlatın.
+le thermomètre | termometre | isim (e) | Le thermomètre indique trente-neuf. | Termometre otuz dokuzu gösteriyor.
+la vitamine | vitamin | isim (d) | Les oranges ont beaucoup de vitamine C. | Portakallarda çok C vitamini var.
+la piqûre | iğne; böcek sokması | isim (d) | J'ai peur des piqûres. | İğneden korkarım.
+le vaccin | aşı | isim (e) | Le vaccin est obligatoire pour ce pays. | Bu ülke için aşı zorunlu.
+la gélule | kapsül | isim (d) | Avalez la gélule avec de l'eau. | Kapsülü suyla yutun.
+sans ordonnance | reçetesiz | ifade | Ce médicament est vendu sans ordonnance. | Bu ilaç reçetesiz satılıyor.
+## Acil durum
+l'urgence (f) | acil durum; acil servis | isim (d) | C'est une urgence, appelez le 15 ! | Acil durum, 15'i arayın!
+l'ambulance (f) | ambulans | isim (d) | L'ambulance arrive dans cinq minutes. | Ambulans beş dakikaya geliyor.
+au secours | imdat | ünlem | Au secours ! Aidez-moi ! | İmdat! Yardım edin!
+l'accident (m) | kaza | isim (e) | Il y a eu un accident sur l'autoroute. | Otoyolda kaza oldu.
+blessé | yaralı | sıfat | Personne n'est blessé, heureusement. | Neyse ki kimse yaralı değil.
+se casser | kırmak (kendi uzvunu); kırılmak | fiil · dönüşlü | Elle s'est cassé la jambe au ski. | Kayakta bacağını kırdı.
+le plâtre | alçı (kırık için) | isim (e) | Il a le bras dans le plâtre. | Kolu alçıda.
+la béquille | koltuk değneği | isim (d) | Il marche avec des béquilles. | Koltuk değnekleriyle yürüyor.
+l'opération (f) | ameliyat; işlem | isim (d) | L'opération s'est bien passée. | Ameliyat iyi geçti.
+grave | ciddi, ağır | sıfat | Ne t'inquiète pas, ce n'est pas grave. | Merak etme, ciddi bir şey değil.
+## Vücut
+la gorge | boğaz | isim (d) | J'ai la gorge qui gratte. | Boğazım kaşınıyor.
+le poumon | akciğer | isim (e) | Fumer est mauvais pour les poumons. | Sigara akciğerlere zararlı.
+l'estomac (m) | mide | isim (e) | J'ai mal à l'estomac. | Midem ağrıyor.
+le sang | kan | isim (e) | On m'a fait une prise de sang. | Benden kan aldılar.
+l'os (m) | kemik | isim (e) | Le chien mange un os. | Köpek bir kemik yiyor.
+le muscle | kas | isim (e) | J'ai mal aux muscles après le sport. | Spordan sonra kaslarım ağrıyor.
+la cheville | ayak bileği | isim (d) | Je me suis tordu la cheville. | Ayak bileğimi burktum.
+le poignet | el bileği | isim (e) | Elle porte une montre au poignet. | Bileğinde saat takıyor.
+le coude | dirsek | isim (e) | Ne mets pas les coudes sur la table ! | Dirseklerini masaya koyma!
+le front | alın; cephe | isim (e) | Il a de la fièvre, touche son front. | Ateşi var, alnına dokun.
+## Sağlıklı yaşam
+en forme | formda, zinde | ifade | Je me sens en forme aujourd'hui ! | Bugün kendimi zinde hissediyorum!
+le régime | diyet, rejim | isim (e) | Je fais un régime depuis janvier. | Ocaktan beri diyetteyim.
+maigrir | zayıflamak, kilo vermek | fiil | Il a maigri de cinq kilos. | Beş kilo verdi.
+grossir | kilo almak, şişmanlamak | fiil | J'ai grossi pendant les vacances. | Tatilde kilo aldım.
+le poids | ağırlık, kilo | isim (e) | Quel est ton poids ? | Kaç kilosun?
+fumer | sigara içmek; tütmek | fiil | Mon père a arrêté de fumer. | Babam sigarayı bıraktı.
+le sommeil | uyku | isim (e) | Le sommeil est important pour la santé. | Uyku sağlık için önemlidir.
+équilibré | dengeli | sıfat | Il faut manger de façon équilibrée. | Dengeli beslenmek gerek.
+l'exercice (m) | egzersiz; alıştırma | isim (e) | Fais un peu d'exercice chaque jour. | Her gün biraz egzersiz yap.
+sain | sağlıklı, sağlığa yararlı | sıfat | Les légumes sont sains. | Sebzeler sağlıklıdır.
+## Tedavi ve sigorta
+guérir | iyileşmek; iyileştirmek | fiil | Tu vas guérir vite. | Çabuk iyileşeceksin.
+se remettre (remis) | kendine gelmek, iyileşmek | fiil · dönüşlü | Il se remet doucement de son opération. | Ameliyatından yavaş yavaş toparlanıyor.
+l'arrêt maladie (m) | hastalık izni, rapor | isim (e) | Le médecin m'a donné trois jours d'arrêt maladie. | Doktor bana üç gün rapor verdi.
+la sécurité sociale | sosyal güvenlik | isim (d) | La sécurité sociale rembourse ce médicament. | Sosyal güvenlik bu ilacın parasını geri ödüyor.
+la carte Vitale | Fransız sağlık sigortası kartı | isim (d) | N'oubliez pas votre carte Vitale. | Sağlık kartınızı unutmayın.
+rembourser | geri ödemek, iade etmek | fiil | La mutuelle rembourse une partie. | Tamamlayıcı sigorta bir kısmını ödüyor.
+la mutuelle | tamamlayıcı sağlık sigortası | isim (d) | Mon entreprise paie une partie de la mutuelle. | Şirketim tamamlayıcı sigortanın bir kısmını ödüyor.
+hospitaliser | hastaneye yatırmak | fiil | Sa grand-mère est hospitalisée. | Büyükannesi hastaneye yatırıldı.
+le soin | bakım, özen | isim (e) | Les infirmières prennent soin des malades. | Hemşireler hastalara bakıyor.
+prendre rendez-vous | randevu almak | ifade | Je voudrais prendre rendez-vous avec le docteur. | Doktordan randevu almak istiyorum.
+## Ruh hâli ve güç
+épuisé | bitkin, tükenmiş | sıfat | Après ce voyage, je suis épuisé. | Bu yolculuktan sonra bitkinim.
+le moral | moral | isim (e) | Elle n'a pas le moral en ce moment. | Şu sıralar morali bozuk.
+déprimé | bunalımda, depresif | sıfat | Il est un peu déprimé depuis l'hiver. | Kıştan beri biraz bunalımda.
+s'inquiéter | endişelenmek | fiil · dönüşlü | Ne t'inquiète pas pour moi. | Benim için endişelenme.
+se détendre (détendu) | gevşemek, rahatlamak | fiil · dönüşlü | Le yoga m'aide à me détendre. | Yoga rahatlamama yardım ediyor.
+le repos | dinlenme, istirahat | isim (e) | Le médecin dit : du repos ! | Doktor diyor ki: istirahat!
+la fatigue | yorgunluk | isim (d) | Je sens la fatigue le soir. | Akşamları yorgunluğu hissediyorum.
+pâle | solgun | sıfat | Tu es pâle, ça va ? | Solgunsun, iyi misin?
+faible | zayıf, güçsüz | sıfat | Après la grippe, je suis encore faible. | Gripten sonra hâlâ halsizim.
+fort | güçlü; yüksek (ses) | sıfat | Mon grand-père est encore très fort. | Dedem hâlâ çok güçlü.
+## Göz, diş ve hijyen
+l'opticien (m) | gözlükçü | isim (e) | Je vais chez l'opticien pour de nouvelles lunettes. | Yeni gözlük için gözlükçüye gidiyorum.
+les lentilles de contact | kontakt lens | isim (çoğul) | Je porte des lentilles de contact. | Kontakt lens takıyorum.
+la carie | diş çürüğü | isim (d) | Le dentiste a trouvé une carie. | Dişçi bir çürük buldu.
+l'hygiène (f) | hijyen, temizlik | isim (d) | L'hygiène est très importante à l'hôpital. | Hastanede hijyen çok önemlidir.
+le mouchoir | mendil | isim (e) | Tu as un mouchoir ? | Mendilin var mı?
+le masque | maske | isim (e) | Il porte un masque à l'hôpital. | Hastanede maske takıyor.
+se moucher | burnunu silmek | fiil · dönüşlü | Mouche-toi, s'il te plaît. | Burnunu sil lütfen.
+aveugle | kör, görme engelli | sıfat | Ce chien guide un homme aveugle. | Bu köpek görme engelli bir adama rehberlik ediyor.
+sourd | sağır, işitme engelli | sıfat | Mon grand-père est un peu sourd. | Dedemin kulakları biraz ağır işitiyor.
+le fauteuil roulant | tekerlekli sandalye | isim (e) | L'entrée est accessible en fauteuil roulant. | Giriş tekerlekli sandalyeye uygun.

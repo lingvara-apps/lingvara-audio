@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
+## Havalimanında
+le vol | uçuş; hırsızlık | isim (e) | Le vol pour Dakar a du retard. | Dakar uçuşu rötarlı.
+l'embarquement (m) | uçağa biniş | isim (e) | L'embarquement commence à quatorze heures. | Biniş saat on dörtte başlıyor.
+la carte d'embarquement | biniş kartı | isim (d) | Votre carte d'embarquement, s'il vous plaît. | Biniş kartınız lütfen.
+décoller | havalanmak, kalkmak (uçak) | fiil | L'avion décolle dans dix minutes. | Uçak on dakika sonra kalkıyor.
+atterrir | iniş yapmak | fiil | Nous avons atterri à Montréal. | Montreal'e indik.
+le bagage | bagaj, valiz | isim (e) | J'ai seulement un bagage à main. | Sadece bir el bagajım var.
+la douane | gümrük | isim (d) | On passe la douane à l'arrivée. | Varışta gümrükten geçiliyor.
+le pilote | pilot | isim (e) | Le pilote parle aux passagers. | Pilot yolcularla konuşuyor.
+l'hôtesse de l'air (f) | hostes | isim (d) | L'hôtesse de l'air sert les boissons. | Hostes içecekleri servis ediyor.
+le hublot | uçak penceresi, lomboz | isim (e) | Je préfère une place côté hublot. | Pencere kenarında bir yer tercih ederim.
+## Tren yolculuğu
+le guichet | gişe | isim (e) | J'achète mon billet au guichet. | Biletimi gişeden alıyorum.
+l'aller simple (m) | gidiş bileti (tek yön) | isim (e) | Un aller simple pour Nantes, s'il vous plaît. | Nantes'a tek gidiş bileti lütfen.
+l'aller-retour (m) | gidiş-dönüş | isim (e) | Un aller-retour coûte moins cher. | Gidiş-dönüş daha ucuz.
+la correspondance | aktarma; yazışma | isim (d) | J'ai une correspondance à Lyon. | Lyon'da aktarmam var.
+le départ | kalkış, hareket | isim (e) | Le départ est à seize heures. | Kalkış saat on altıda.
+l'arrivée (f) | varış | isim (d) | L'arrivée est prévue à vingt heures. | Varış saat yirmide bekleniyor.
+la voie | peron yolu, hat; yol | isim (d) | Le train part voie B. | Tren B yolundan kalkıyor.
+le contrôleur | kondüktör, bilet kontrolörü | isim (e) | Le contrôleur vérifie les billets. | Kondüktör biletleri kontrol ediyor.
+composter | bileti makinede onaylatmak | fiil | N'oublie pas de composter ton billet ! | Biletini onaylatmayı unutma!
+le wagon | vagon | isim (e) | Notre place est dans le wagon douze. | Yerimiz on iki numaralı vagonda.
+## Otelde
+la réception | resepsiyon; alma | isim (d) | Demandez la clé à la réception. | Anahtarı resepsiyondan isteyin.
+la réservation | rezervasyon | isim (d) | J'ai une réservation au nom de Diallo. | Diallo adına rezervasyonum var.
+complet (complète) | dolu; tam | sıfat | Désolé, l'hôtel est complet. | Üzgünüm, otel dolu.
+disponible | müsait, boş | sıfat | Vous avez une chambre disponible ? | Boş odanız var mı?
+compris | dahil | sıfat | Le petit-déjeuner est compris. | Kahvaltı dahil.
+la demi-pension | yarım pansiyon | isim (d) | Nous avons pris la demi-pension. | Yarım pansiyon aldık.
+l'ascenseur (m) | asansör | isim (e) | L'ascenseur est en panne. | Asansör bozuk.
+la climatisation | klima | isim (d) | La chambre a la climatisation ? | Odada klima var mı?
+le camping | kamp alanı; kamp | isim (e) | Cet été, on fait du camping. | Bu yaz kamp yapıyoruz.
+l'auberge de jeunesse (f) | gençlik hosteli | isim (d) | L'auberge de jeunesse est bon marché. | Gençlik hosteli ucuz.
+## Gezi
+le guide | rehber; rehber kitap | isim (e) | Le guide parle anglais et français. | Rehber İngilizce ve Fransızca konuşuyor.
+la visite guidée | rehberli tur | isim (d) | La visite guidée dure une heure. | Rehberli tur bir saat sürüyor.
+le monument | anıt, tarihî yapı | isim (e) | Ce monument date du Moyen Âge. | Bu anıt Orta Çağ'dan kalma.
+le château | şato, kale | isim (e) | Nous visitons les châteaux de la Loire. | Loire şatolarını geziyoruz.
+la cathédrale | katedral | isim (d) | La cathédrale de Strasbourg est magnifique. | Strazburg Katedrali muhteşem.
+la vue | manzara; görme | isim (d) | Quelle belle vue sur la mer ! | Ne güzel deniz manzarası!
+le paysage | manzara, peyzaj | isim (e) | Les paysages de Provence sont célèbres. | Provence manzaraları ünlüdür.
+le souvenir | hatıra; hediyelik eşya | isim (e) | J'achète des souvenirs pour ma famille. | Ailem için hediyelik eşya alıyorum.
+l'office de tourisme (m) | turizm danışma bürosu | isim (e) | Demande un plan à l'office de tourisme. | Turizm bürosundan bir harita iste.
+la randonnée | doğa yürüyüşü | isim (d) | On fait une randonnée dans les Alpes. | Alplerde doğa yürüyüşü yapıyoruz.
+## Belgeler
+la carte d'identité | kimlik kartı | isim (d) | Montrez votre carte d'identité, s'il vous plaît. | Kimlik kartınızı gösterin lütfen.
+le visa | vize | isim (e) | Il faut un visa pour ce pays ? | Bu ülke için vize gerekiyor mu?
+valable | geçerli | sıfat | Mon passeport est valable jusqu'en 2030. | Pasaportum 2030'a kadar geçerli.
+l'assurance (f) | sigorta | isim (d) | Tu as une assurance voyage ? | Seyahat sigortan var mı?
+le consulat | konsolosluk | isim (e) | Je prends rendez-vous au consulat. | Konsolosluktan randevu alıyorum.
+l'ambassade (f) | büyükelçilik | isim (d) | L'ambassade est fermée le dimanche. | Büyükelçilik pazar günü kapalı.
+la frontière | sınır | isim (d) | Nous passons la frontière suisse. | İsviçre sınırını geçiyoruz.
+déclarer | beyan etmek | fiil | Vous avez quelque chose à déclarer ? | Beyan edecek bir şeyiniz var mı?
+le titre de séjour | oturma izni | isim (e) | Mon titre de séjour expire en mars. | Oturma iznimin süresi martta doluyor.
+renouveler | yenilemek | fiil | Je dois renouveler mon passeport. | Pasaportumu yenilemem lazım.
+## Yolculuk eylemleri
+faire sa valise | bavulunu hazırlamak | ifade | Je fais ma valise ce soir. | Bavulumu bu akşam hazırlıyorum.
+se perdre (perdu) | kaybolmak | fiil · dönüşlü | Nous nous sommes perdus dans Venise. | Venedik'te kaybolduk.
+découvrir (découvert) | keşfetmek | fiil · düzensiz | J'aime découvrir de nouvelles villes. | Yeni şehirler keşfetmeyi severim.
+emporter | yanına almak, götürmek | fiil | Emporte un pull, il fait frais le soir. | Yanına bir kazak al, akşamları serin oluyor.
+bronzer | bronzlaşmak | fiil | Elle bronze sur la plage. | Plajda bronzlaşıyor.
+se baigner | denize girmek, yüzmek | fiil · dönüşlü | On se baigne dans le lac ? | Gölde yüzelim mi?
+camper | kamp yapmak | fiil | Nous campons près de la rivière. | Nehrin yakınında kamp yapıyoruz.
+faire du tourisme | turistik gezi yapmak | ifade | Demain, on fait du tourisme à Bruges. | Yarın Brugge'de gezeceğiz.
+s'installer | yerleşmek | fiil · dönüşlü | On s'installe à l'hôtel, puis on sort. | Otele yerleşip sonra çıkıyoruz.
+prendre des photos | fotoğraf çekmek | ifade | Il prend des photos de tous les monuments. | Bütün anıtların fotoğrafını çekiyor.
+## Yön ve yerler
+l'est (m) | doğu | isim (e) | Strasbourg est dans l'est de la France. | Strazburg Fransa'nın doğusunda.
+l'ouest (m) | batı | isim (e) | La Bretagne est à l'ouest. | Bretanya batıda.
+l'itinéraire (m) | güzergâh, rota | isim (e) | Quel est le meilleur itinéraire ? | En iyi güzergâh hangisi?
+la direction | yön; yönetim | isim (d) | Le train en direction de Lille part à midi. | Lille yönündeki tren öğlen kalkıyor.
+le panneau | tabela, levha | isim (e) | Suis les panneaux jusqu'au centre. | Merkeze kadar tabelaları takip et.
+la sortie | çıkış; gezme | isim (d) | La sortie est à droite. | Çıkış sağda.
+la destination | varış yeri, gidilecek yer | isim (d) | Quelle est votre destination ? | Nereye gidiyorsunuz?
+la région | bölge | isim (d) | C'est une belle région. | Güzel bir bölge.
+le continent | kıta | isim (e) | L'Afrique est un grand continent. | Afrika büyük bir kıtadır.
+le département | il (Fransa'da idari birim); bölüm | isim (e) | La France a cent un départements. | Fransa'nın yüz bir ili vardır.
+## Konaklama ve tatil türleri
+la location | kiralama; kiralık ev | isim (d) | Nous avons une location près de la plage. | Plaja yakın kiralık bir evimiz var.
+le gîte | kır evi (kiralık) | isim (e) | On loue un gîte en Ardèche. | Ardèche'te bir kır evi kiralıyoruz.
+la chambre d'hôtes | pansiyon (ev sahibinin yanında) | isim (d) | La chambre d'hôtes est très charmante. | Pansiyon çok şirin.
+la tente | çadır | isim (d) | On dort sous la tente. | Çadırda uyuyoruz.
+le sac de couchage | uyku tulumu | isim (e) | N'oublie pas ton sac de couchage. | Uyku tulumunu unutma.
+la caravane | karavan | isim (d) | Mes parents voyagent en caravane. | Annemle babam karavanla geziyor.
+le bord de mer | deniz kenarı, sahil | isim (e) | Ils passent l'été au bord de mer. | Yazı deniz kenarında geçiriyorlar.
+la haute saison | yüksek sezon | isim (d) | En haute saison, tout est plus cher. | Yüksek sezonda her şey daha pahalı.
+la basse saison | düşük sezon | isim (d) | Je voyage en basse saison. | Düşük sezonda seyahat ederim.
+la croisière | gemi turu | isim (d) | Ils font une croisière en Méditerranée. | Akdeniz'de gemi turuna çıkıyorlar.
+## Yerleri anlatmak
+touristique | turistik | sıfat | Ce quartier est très touristique. | Bu mahalle çok turistik.
+magnifique | muhteşem | sıfat | Le coucher de soleil est magnifique. | Gün batımı muhteşem.
+célèbre | ünlü | sıfat | Ce pont est très célèbre. | Bu köprü çok ünlü.
+typique | tipik, yöreye özgü | sıfat | On a mangé un plat typique. | Yöreye özgü bir yemek yedik.
+historique | tarihî | sıfat | Le centre historique est magnifique. | Tarihî merkez muhteşem.
+pittoresque | pitoresk, resim gibi | sıfat | C'est un village pittoresque. | Resim gibi bir köy.
+inoubliable | unutulmaz | sıfat | Ce voyage était inoubliable ! | Bu yolculuk unutulmazdı!
+animé | canlı, hareketli | sıfat | Le soir, la place est très animée. | Akşamları meydan çok hareketli.
+désert | ıssız, boş | sıfat | La plage est déserte en hiver. | Kışın plaj ıssız.
+international | uluslararası | sıfat | C'est un aéroport international. | Burası uluslararası bir havalimanı.
+## Yolculukta sorunlar
+perdre (perdu) | kaybetmek | fiil · düzensiz | J'ai perdu mon passeport ! | Pasaportumu kaybettim!
+voler | çalmak; uçmak | fiil | On m'a volé mon portefeuille. | Cüzdanımı çaldılar.
+annulé | iptal edilmiş | sıfat | Notre vol est annulé. | Uçuşumuz iptal edildi.
+les objets trouvés | kayıp eşya bürosu | isim (çoğul) | Va demander aux objets trouvés. | Git kayıp eşya bürosuna sor.
+le pickpocket | yankesici | isim (e) | Attention aux pickpockets dans le métro ! | Metroda yankesicilere dikkat!
+se plaindre (plaint) | şikâyet etmek | fiil · dönüşlü | Il se plaint toujours du bruit. | Hep gürültüden şikâyet ediyor.
+porter plainte | şikâyette bulunmak (polise) | ifade | Je vais porter plainte au commissariat. | Karakola gidip şikâyette bulunacağım.
+le commissariat | karakol | isim (e) | Le commissariat est près de la gare. | Karakol istasyonun yakınında.
+en panne | bozuk, arızalı | ifade | Notre voiture est en panne. | Arabamız bozuldu.
+le décalage horaire | saat farkı | isim (e) | Il y a six heures de décalage horaire. | Altı saat fark var.
