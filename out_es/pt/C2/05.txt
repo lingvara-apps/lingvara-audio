@@ -1,0 +1,111 @@
+# UNIT: Jargão de Escritório e TI | Gíria corporativa, linguagem de software, gíria financeira
+## Vida corporativa
+la startup | startup, empresa emergente | A startup busca novos investidores.
+el burn-out | burnout, esgotamento profissional | O burnout afeta muitos funcionários.
+el networking | networking, rede de contatos | O networking é útil para encontrar emprego.
+el briefing | briefing, reunião de alinhamento | Temos um briefing bem cedo.
+el feedback | feedback, retorno | O chefe deu um feedback positivo para a equipe.
+el deadline | deadline, prazo final | O deadline do projeto é sexta-feira.
+el target | target, público-alvo | Devemos definir bem o target do produto.
+el management | management, diretoria | O management aprovou a nova estratégia.
+el b2b | B2B, comércio entre empresas | A empresa se concentra no setor B2B.
+el b2c | B2C, comércio voltado ao consumidor | O modelo B2C requer muita publicidade.
+## Linguagem de software e codificação
+el commit | commit, salvamento de código | Fiz um commit antes de sair.
+el merge | merge, mesclagem de código | O merge causou alguns conflitos no código.
+el bug | bug, erro de software | Encontrei um bug crítico no aplicativo.
+el refactor | refatoração, melhoria de código | O refactor melhorou a velocidade do sistema.
+el deploy | deploy, implantação | O deploy para produção será esta noite.
+el sprint | sprint, ciclo de desenvolvimento ágil | Terminamos o sprint com sucesso.
+el back-end | back-end, desenvolvimento traseiro | Ela trabalha como desenvolvedora de back-end.
+el front-end | front-end, desenvolvimento visual | O front-end deve ser muito intuitivo.
+el stack | stack, pilha tecnológica | Nosso stack inclui Python e React.
+el script | script, arquivo de comandos | Escrevi um script para automatizar tarefas.
+## Servidor e banco de dados
+el cluster | cluster, agrupamento de servidores | O cluster gerencia milhões de requisições.
+el backup | backup, cópia de segurança | O backup automático é executado de madrugada.
+el uptime | uptime, tempo de atividade | O servidor tem um uptime de noventa e nove por cento.
+el log | log, arquivo de registro | Revisei o log para procurar erros.
+el script de base de datos | script de banco de dados | Eu executei o script de banco de dados ontem.
+el query | query, consulta de dados | A query demorou demais para responder.
+el cache | cache, memória cache | Limpar o cache solucionou o problema.
+el hosting | hosting, serviço de hospedagem | Contratamos um hosting mais potente.
+el dominio web | domínio web | O domínio web está registrado por dois anos.
+el firewall | firewall, parede de fogo | O firewall bloqueou o acesso suspeito.
+## Hardware e redes
+el router | roteador | Reiniciei o router para recuperar a conexão.
+el switch | switch, comutador de rede | O switch conecta todos os computadores do escritório.
+el hardware | hardware, parte física | Atualizamos o hardware dos equipamentos.
+el firmware | firmware, software de hardware | É necessário atualizar o firmware da câmera.
+el puerto | porta, conexão de hardware | A porta USB parou de funcionar.
+el protocolo de red | protocolo de rede | Configuramos o protocolo de rede de forma segura.
+el ancho de banda | largura de banda | A largura de banda atual é insuficiente.
+el conector | conector, tomada de cabo | O conector de rede está quebrado.
+el dispositivo | dispositivo, aparelho | Ele conectou um novo dispositivo ao sistema.
+el monitor | monitor, tela | O monitor pisca constantemente.
+## Segurança da informação
+el malware | malware, programa malicioso | O antivírus detectou um malware perigoso.
+el phishing | phishing, fraude eletrônica | Eles caíram em uma armadilha de phishing.
+el ransomware | ransomware, resgate digital | O ransomware cifrou todos os arquivos.
+el exploit | exploit, exploração de falhas | Os hackers usaram um exploit desconhecido.
+el troyano | cavalo de Troia | O cavalo de Troia roubou credenciais bancárias.
+el keylogger | keylogger, registrador de teclas | Descobriram um keylogger no teclado.
+el sniffer | sniffer, rastreador de pacotes | Usaram um sniffer para interceptar o tráfego de rede.
+el honeypot | honeypot, armadilha cibernética | Instalaram um honeypot para caçar atacantes.
+el proxy | proxy, servidor intermediário | Eles navegam através de um proxy seguro.
+el certificado ssl | certificado SSL | O site precisa renovar seu certificado SSL.
+## Metodologias de gestão de projetos
+el scrum | Scrum, framework ágil | Aplicamos Scrum no desenvolvimento do software.
+el kanban | Kanban, quadro visual de tarefas | Usamos Kanban para organizar as tarefas diárias.
+el product owner | Product Owner, dono do produto | O Product Owner define as prioridades do backlog.
+el scrum master | Scrum Master, facilitador ágil | O Scrum Master facilita as reuniões da equipe.
+el milestone | milestone, marco importante | Celebramos ter alcançado o primeiro milestone.
+el feedback loop | ciclo de feedback | Um feedback loop rápido melhora a qualidade.
+el stakeholder | stakeholder, parte interessada | Apresentamos os resultados aos stakeholders.
+el scope | escopo, limite do projeto | Devemos evitar que o escopo aumente sem controle.
+el kickoff | kickoff, reunião de início | O kickoff do projeto será na segunda-feira.
+el release | release, lançamento de versão | O release inclui novas funcionalidades.
+## Cargos corporativos e papéis
+el cto | CTO, diretor de tecnologia | O CTO liderou a transformação digital.
+el ceo | CEO, diretor executivo | O CEO anunciou uma expansão internacional.
+el cfo | CFO, diretor financeiro | O CFO revisou o orçamento anual.
+el coo | COO, diretor de operações | O COO otimizou a cadeia de suprimentos.
+el ciso | CISO, diretor de segurança da informação | O CISO implementou novas políticas de segurança.
+el product manager | Product Manager, gerente de produtos | O Product Manager entrevistou os usuários.
+el team lead | Team Lead, líder de equipe | O Team Lead atribuiu as novas tarefas.
+el junior | júnior, funcionário iniciante | Contrataram um programador júnior.
+el senior | sênior, funcionário experiente | O arquiteto sênior desenhou a infraestrutura.
+el freelancer | freelancer, profissional autônomo | Ele prefere trabalhar como freelancer de casa.
+## Jargão financeiro e gíria de dinheiro
+el cash | cash, dinheiro vivo | Preferem pagamentos em cash para transações rápidas.
+el ftx | FTX, bolsa de criptomoedas falida | Ele perdeu dinheiro após o colapso da FTX.
+el exchange | exchange, corretora de criptomoedas | Ele transferiu seus fundos para uma exchange segura.
+el holding | holding, empresa controladora | O holding possui várias filiais tecnológicas.
+el cashflow | fluxo de caixa | O fluxo de caixa mensal é positivo neste trimestre.
+el asset | asset, ativo financeiro | Diversificaram seus assets em diferentes mercados.
+el revenue | receita, faturamento bruto | A receita anual superou as expectativas.
+el startup funding | captação de recursos | Conseguiram startup funding de investidores-anjo.
+el venture capital | venture capital, capital de risco | O fundo de venture capital financiou a expansão.
+el token | token, ativo digital | Lançaram um novo token na rede blockchain.
+## Jargão de marketing e vendas
+el growth hacking | growth hacking, estratégias de crescimento | Aplicaram técnicas de growth hacking para crescer rápido.
+el lead | lead, potencial cliente | A campanha gerou quinhentos leads novos.
+el funnel | funil de vendas | Analisaram o funnel de vendas detalhadamente.
+el bounce rate | taxa de rejeição | O site tem um bounce rate elevado.
+el conversion rate | taxa de conversão | Melhorar a página aumentou o conversion rate.
+el engagement | engajamento, interação | Buscam aumentar o engagement nas redes sociais.
+el click-through rate | taxa de cliques | O anúncio obteve um click-through rate excelente.
+el branding | branding, gestão de marca | Investiram muito dinheiro em branding este ano.
+el copywriting | copywriting, redação publicitária | O copywriting persuasivo melhorou as vendas.
+el inbound marketing | inbound marketing, atração de clientes | Apostam no inbound marketing para atrair clientes.
+## Inovação e tecnologias futuras
+el machine learning | machine learning, aprendizado de máquina | O machine learning prevê tendências de consumo.
+el deep learning | deep learning, aprendizado profundo | O deep learning processa redes neurais complexas.
+el big data | big data, análise de grandes dados | Analisam big data para tomar decisões estratégicas.
+el iot (internet de las cosas) | IoT, internet das coisas | O IoT conecta eletrodomésticos à internet.
+el cloud computing | computação em nuvem | Migraram todos os serviços para o cloud computing.
+el edge computing | edge computing, computação de borda | O edge computing reduz a latência de resposta.
+el open source | open source, código aberto | Apoiam projetos de open source globalmente.
+el saas | SaaS, software como serviço | Vendem software mediante um modelo SaaS.
+el api | API, interface de programação | Integraram uma API de pagamento na loja online.
+el web3 | Web3, terceira geração da web | Investigam as tecnologias descentralizadas da Web3.

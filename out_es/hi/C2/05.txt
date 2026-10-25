@@ -1,0 +1,111 @@
+# UNIT: ऑफ़िस और आईटी ज़argon | कॉर्पोरेट स्लैंग, सॉफ़्टवेयर भाषा, धन का स्लैंग
+## कॉर्पोरेट जीवन
+la startup | स्टार्टअप, नई कंपनी | La startup busca nuevos inversores.
+el burn-out | बर्नआउट, काम का तनाव | El burn-out afecta a muchos empleados.
+el networking | नेटवर्किंग, जनसंपर्क | El networking es útil para encontrar empleo.
+el briefing | ब्रीफ़िंग, कार्य-निर्देश | Tenemos un briefing a primera hora.
+el feedback | फ़ीडबैक, प्रतिक्रिया | El jefe dio un feedback positivo al equipo.
+el deadline | समय-सीमा, डेडलाइन | El deadline del proyecto es el viernes.
+el target | लक्षित दर्शक, टार्गेट | Debemos definir bien el target del producto.
+el management | प्रबंधन, मैनेजमेंट | El management aprobó la nueva estrategia.
+el b2b | बी2बी, व्यावसायिक व्यापार | La empresa se centra en el sector b2b.
+el b2c | बी2सी, उपभोक्ता व्यापार | El modelo b2c requiere mucha publicidad.
+## सॉफ़्टवेयर भाषा और कोडिंग
+el commit | कमिट, कोड सेव | Hice un commit antes de salir.
+el merge | मर्ज, कोड मिलाना | El merge causó algunos conflictos en el código.
+el bug | बग, सॉफ़्टवेयर त्रुटि | Encontré un bug crítico en la aplicación.
+el refactor | रिफ़ैक्टर, कोड सुधार | El refactor mejoró la velocidad del sistema.
+el deploy | डिप्लॉय, लाइव करना | El deploy a producción será esta noche.
+el sprint | स्प्रिंट, विकास अवधि | Terminamos el sprint con éxito.
+el back-end | बैक-एंड, पीछे का हिस्सा | Ella trabaja como desarrolladora de back-end.
+el front-end | फ्रंट-एंड, यूज़र इंटरफ़ेस | El front-end debe ser muy intuitivo.
+el stack | टेक स्टैक, तकनीक समूह | Nuestro stack incluye Python y React.
+el script | स्क्रिप्ट, कमांड फ़ाइल | Escribí un script para automatizar tareas.
+## सर्वर और डेटाबेस
+el cluster | क्लस्टर, सर्वर समूह | El cluster maneja millones de peticiones.
+el backup | बैकअप, डेटा सुरक्षा | El backup automático se ejecuta de madrugada.
+el uptime | अपटाइम, सक्रिय समय | El servidor tiene un uptime del noventa y nueve por ciento.
+el log | लॉग फ़ाइल, रिकॉर्ड | Revisé el log para buscar errores.
+el script de base de datos | डेटाबेस स्क्रिप्ट | Ejecuté el script de base de datos ayer.
+el query | क्वेरी, डेटाबेस पूछताछ | La query tardó demasiado en responder.
+el cache | कैश, अस्थायी मेमोरी | Limpiar el cache solucionó el problema.
+el hosting | होस्टिंग, वेब होस्टिंग | Contratamos un hosting más potente.
+el dominio web | डोमेन नाम, वेब पता | El dominio web está registrado por dos años.
+el firewall | फ़ायरवॉल, सुरक्षा दीवार | El firewall bloqueó el acceso sospechoso.
+## हार्डवेयर और नेटवर्क
+el router | राउटर, वाई-फ़ाई यंत्र | Reinicié el router para recuperar la conexión.
+el switch | स्विच, नेटवर्क स्विच | El switch conecta todos los ordenadores de la oficina.
+el hardware | हार्डवेयर, भौतिक उपकरण | Actualizamos el hardware de los equipos.
+el firmware | फ़र्मवेयर, डिवाइस सॉफ़्टवेयर | Es necesario actualizar el firmware de la cámara.
+el puerto | पोर्ट, कनेक्शन पोर्ट | El puerto USB dejó de funcionar.
+el protocolo de red | नेटवर्क प्रोटोकॉल | Configuramos el protocolo de red de forma segura.
+el ancho de banda | बैंडविड्थ, डेटा गति | El ancho de banda actual es insuficiente.
+el conector | कनेक्टर, सॉकेट | El conector de red está roto.
+el dispositivo | डिवाइस, उपकरण | Conectó un nuevo dispositivo al sistema.
+el monitor | मॉनिटर, स्क्रीन | El monitor parpadea constantemente.
+## साइबर सुरक्षा
+el malware | मालवेयर, हानिकारक सॉफ़्टवेयर | El antivirus detectó un malware peligroso.
+el phishing | फ़िशिंग, धोखाधड़ी हमला | Cayeron en una trampa de phishing.
+el ransomware | रैंसमवेयर, फिरौती सॉफ़्टवेयर | El ransomware cifró todos los archivos.
+el exploit | एक्सप्लॉइट, सुरक्षा सेंध | Los piratas informáticos usaron un exploit desconocido.
+el troyano | ट्रोजन, ट्रोजन हॉर्स | El troyano robó credenciales bancarias.
+el keylogger | कीलॉगर, कीस्ट्रोक रिकॉर्डर | Descubrieron un keylogger en el teclado.
+el sniffer | स्निफ़र, पैकेट स्निफ़र | Usaron un sniffer para interceptar tráfico de red.
+el honeypot | हनीपॉट, जाल सर्वर | Instalaron un honeypot para cazar atacantes.
+el proxy | प्रॉक्सी, प्रॉक्सी सर्वर | Navegan a través de un proxy seguro.
+el certificado ssl | एसएसएल प्रमाण पत्र | El sitio web necesita renovar su certificado ssl.
+## प्रोजेक्ट प्रबंधन पद्धतियाँ
+el scrum | स्क्रम, चुस्त प्रणाली | Aplicamos scrum en el desarrollo del software.
+el kanban | कानबान, कार्य बोर्ड | Usamos kanban para organizar las tareas diarias.
+el product owner | प्रोडक्ट ओनर, उत्पाद स्वामी | El product owner define las prioridades del backlog.
+el scrum master | स्क्रम मास्टर | El scrum master facilita las reuniones del equipo.
+el milestone | मील का पत्थर, महत्वपूर्ण चरण | Celebramos haber alcanzado el primer milestone.
+el feedback loop | फ़ीडबैक लूप, प्रतिक्रिया चक्र | Un feedback loop rápido mejora la calidad.
+el stakeholder | हितधारक, स्टेकहोल्डर | Presentamos los resultados a los stakeholders.
+el scope | प्रोजेक्ट दायरा, स्कोप | Debemos evitar que el scope aumente sin control.
+el kickoff | किकऑफ़, शुभारंभ बैठक | El kickoff del proyecto será el lunes.
+el release | रिलीज़, सॉफ़्टवेयर जारी करना | El release incluye nuevas funcionalidades.
+## कॉर्पोरेट शीर्षक और भूमिकाएँ
+el cto | मुख्य तकनीकी अधिकारी (CTO) | El cto lideró la transformación digital.
+el ceo | मुख्य कार्यकारी अधिकारी (CEO) | El ceo anunció una expansión internacional.
+el cfo | मुख्य वित्तीय अधिकारी (CFO) | El cfo revisó el presupuesto anual.
+el coo | मुख्य परिचालन अधिकारी (COO) | El coo optimizó la cadena de suministro.
+el ciso | मुख्य सूचना सुरक्षा अधिकारी (CISO) | El ciso implementó nuevas políticas de seguridad.
+el product manager | उत्पाद प्रबंधक | El product manager entrevistó a los usuarios.
+el team lead | टीम लीड, दल नायक | El team lead asignó las nuevas tareas.
+el junior | जूनियर, नौसिखिया कर्मचारी | Contrataron a un programador junior.
+el senior | सीनियर, वरिष्ठ कर्मचारी | El arquitecto senior diseñó la infraestructura.
+el freelancer | फ़्रीलांसर, स्वतंत्र पेशेवर | Prefiere trabajar como freelancer desde casa.
+## वित्तीय और धन का ज़argon
+el cash | कैश, नकद धन | Prefieren pagos en cash para transacciones rápidas.
+el ftx | एफ़टीएक्स (क्रिप्टो एक्सचेंज) | Perdió dinero tras el colapso del ftx.
+el exchange | क्रिप्टो एक्सचेंज, विनिमय केंद्र | Transfirió sus fondos a un exchange seguro.
+el holding | होल्डिंग कंपनी | El holding posee varias filiales tecnológicas.
+el cashflow | कैशफ़्लो, नकदी प्रवाह | El cashflow mensual es positivo este trimestre.
+el asset | संपत्ति, एसेट | Diversificaron sus assets en diferentes mercados.
+el revenue | राजस्व, आय | El revenue anual superó las expectativas.
+el startup funding | स्टार्टअप फ़ंडिंग | Consiguieron startup funding de inversores ángeles.
+el venture capital | वेंचर कैपिटल, जोखिम पूंजी | El fondo de venture capital financió la expansión.
+el token | टोकन, डिजिटल मुद्रा | Lanzaron un nuevo token en la red blockchain.
+## विपणन और बिक्री का ज़argon
+el growth hacking | ग्रोथ हैकिंग, तीव्र वृद्धि | Aplicaron tácticas de growth hacking para crecer rápido.
+el lead | लीड, संभावित ग्राहक | La campaña generó quinientos leads nuevos.
+el funnel | फ़नल, रूपांतरण फ़नल | Analizaron el funnel de ventas detalladamente.
+el bounce rate | बाउंस रेट, उछाल दर | El sitio web tiene un bounce rate elevado.
+el conversion rate | रूपांतरण दर | Mejorar la página aumentó el conversion rate.
+el engagement | एंगेजमेंट, सहभागिता | Buscan aumentar el engagement en redes sociales.
+el click-through rate | क्लिक-थ्रू दर (CTR) | El anuncio obtuvo un click-through rate excelente.
+el branding | ब्रांडिंग, ब्रांड निर्माण | Invirtieron mucho dinero en branding este año.
+el copywriting | कॉपीराइटिंग, विज्ञापन लेखन | El copywriting persuasivo mejoró las ventas.
+el inbound marketing | इनबाउंड मार्केटिंग | Apuestan por el inbound marketing para atraer clientes.
+## नवाचार और भविष्य की तकनीकें
+el machine learning | मशीन लर्निंग, यंत्र अधिगम | El machine learning predice tendencias de consumo.
+el deep learning | डीप लर्निंग, गहन शिक्षण | El deep learning procesa redes neuronales complejas.
+el big data | बिग डेटा, वृहद डेटा | Analizan big data para tomar decisiones estratégicas.
+el iot (internet de las cosas) | आईओटी, इंटरनेट ऑफ़ थिंग्स | El iot conecta electrodomésticos a internet.
+el cloud computing | क्लाउड कंप्यूटिंग, मेघ संगणना | Migraron todos los servicios al cloud computing.
+el edge computing | एज कंप्यूटिंग | El edge computing reduce la latencia de respuesta.
+el open source | ओपन सोर्स, खुला स्रोत | Apoyan proyectos de open source globalmente.
+el saas | सास, सेवा के रूप में सॉफ़्टवेयर | Venden software mediante un modelo saas.
+el api | एपीआई, एप्लिकेशन प्रोग्रामिंग इंटरफ़ेस | Integraron una api de pago en la tienda online.
+el web3 | वेब3, तीसरी पीढ़ी का वेब | Investigan las tecnologías descentralizadas de web3.

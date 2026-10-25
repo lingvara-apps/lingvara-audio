@@ -1,41 +1,41 @@
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-HTTP 503 anahtar #8: {
+HTTP 503 anahtar #10: {
 
-HTTP 404 anahtar #8: {
-HTTP 503 anahtar #8: {
+HTTP 503 anahtar #10: {
 
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es hi B1/02: ["line 40: column 1 must be exactly 'la contraoferta razonable'"]
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es ky A2/02: ["line 106: column 1 must be exactly 'la estrategia'"]
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-günlük sınır: anahtar #8 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #8 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es ky A2/04: ["line 64: column 1 must be exactly 'la multa por exceso'"]
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es ky B1/08: ["line 63: column 1 must be exactly 'la comision de apertura'"]
-bitti, çevrilen: 55
-55
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+HTTP 503 anahtar #10: {
+
+HTTP 503 anahtar #10: {
+
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+günlük sınır: anahtar #10 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+ağ hatası ConnectionError
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+ağ hatası ConnectionError
+BAŞARISIZ es id C1/06: ['line 59: Turkish letters left']
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+günlük sınır: anahtar #10 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+BAŞARISIZ es id C1/13: ["line 16: column 1 must be exactly 'el materialismo dialektik'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es id C2/04: ["line 30: column 1 must be exactly 'el trabajo grupal'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es hi B2/10: ["line 58: column 1 must be exactly 'la escalada en roca'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es hi C2/16: ["line 30: column 1 must be exactly 'os encomiendo a los santos'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es ky A2/02: ["line 19: column 1 must be exactly 'la agenda'", "line 106: column 1 must be exactly 'la estrategia'"]
+BAŞARISIZ es ky B1/03: ["line 39: column 1 must be exactly 'la biología'"]
+günlük sınır: anahtar #9 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+BAŞARISIZ es ky B2/16: ["line 99: column 1 must be exactly 'la cajilla'"]
+BAŞARISIZ es ky C1/18: ["line 21: column 1 must be exactly 'pliego'"]
+bitti, çevrilen: 214
+214

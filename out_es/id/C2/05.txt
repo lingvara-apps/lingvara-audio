@@ -1,0 +1,111 @@
+# UNIT: Kantor dan Jargon IT | Slang perusahaan, bahasa perangkat lunak, slang keuangan
+## Kehidupan perusahaan
+la startup | perusahaan rintisan | Perusahaan rintisan itu mencari investor baru.
+el burn-out | sindrom kelelahan kerja | Sindrom kelelahan kerja memengaruhi banyak karyawan.
+el networking | jejaring profesional | Jejaring profesional berguna untuk mencari pekerjaan.
+el briefing | rapat koordinasi | Kami mengadakan rapat koordinasi pada pagi hari.
+el feedback | umpan balik | Atasan memberikan umpan balik positif kepada tim.
+el deadline | tenggat waktu | Tenggat waktu proyek adalah hari Jumat.
+el target | target pasar | Kita harus mendefinisikan target pasar produk dengan baik.
+el management | manajemen | Manajemen menyetujui strategi baru tersebut.
+el b2b | bisnis antarbisnis | Perusahaan berfokus pada sektor bisnis antarbisnis.
+el b2c | model bisnis bisnis ke konsumen | Model bisnis bisnis ke konsumen membutuhkan banyak iklan.
+## Bahasa perangkat lunak dan pemrograman
+el commit | komit kode | Aku melakukan komit kode sebelum pergi.
+el merge | penggabungan kode | Penggabungan kode menyebabkan beberapa konflik dalam kode.
+el bug | kutu perangkat lunak | Aku menemukan kutu kritis di aplikasi tersebut.
+el refactor | perbaikan kode | Perbaikan kode meningkatkan kecepatan sistem.
+el deploy | penerapan ke produksi | Penerapan ke produksi akan dilakukan malam ini.
+el sprint | siklus pengembangan tangkas | Kami menyelesaikan siklus pengembangan tangkas dengan sukses.
+el back-end | sistem belakang | Ia bekerja sebagai pengembang sistem belakang.
+el front-end | antarmuka pengguna | Antarmuka pengguna harus sangat intuitif.
+el stack | tumpukan teknologi | Tumpukan teknologi kami mencakup Python dan React.
+el script | skrip otomatisasi | Aku menulis skrip otomatisasi untuk menyederhanakan tugas.
+## Server dan basis data
+el cluster | klaster server | Klaster server menangani jutaan permintaan.
+el backup | pencadangan data | Pencadangan data otomatis berjalan pada dini hari.
+el uptime | waktu aktif server | Server memiliki waktu aktif sembilan puluh sembilan persen.
+el log | berkas log | Aku memeriksa berkas log untuk mencari kesalahan.
+el script de base de datos | skrip basis data | Aku menjalankan skrip basis data kemarin.
+el query | kueri basis data | Kueri tersebut terlalu lama memberikan respons.
+el cache | tembolok | Membersihkan tembolok menyelesaikan masalah tersebut.
+el hosting | layanan hosting | Kami menyewa layanan hosting yang lebih kuat.
+el dominio web | nama domain | Nama domain terdaftar selama dua tahun.
+el firewall | tembok api | Tembok api memblokir akses yang mencurigakan.
+## Perangkat keras dan jaringan
+el router | perute jaringan | Aku memulai ulang perute jaringan untuk memulihkan koneksi.
+el switch | sakelar jaringan | Sakelar jaringan menghubungkan semua komputer di kantor.
+el hardware | perangkat keras | Kami memperbarui perangkat keras peralatan tersebut.
+el firmware | firmware perangkat | Kita perlu memperbarui firmware kamera tersebut.
+el puerto | porta koneksi | Porta USB berhenti berfungsi.
+el protocolo de red | protokol jaringan | Kami mengonfigurasi protokol jaringan dengan aman.
+el ancho de banda | lebar pita internet | Lebar pita internet saat ini tidak mencukupi.
+el conector | konektor kabel | Konektor jaringan rusak.
+el dispositivo | perangkat elektronik | Ia menghubungkan perangkat elektronik baru ke sistem.
+el monitor | monitor komputer | Monitor komputer terus-menerus berkedip.
+## Keamanan siber
+el malware | peranti merusak | Antivirus mendeteksi peranti merusak yang berbahaya.
+el phishing | penipuan pengelabuan | Mereka terjebak dalam perangkap penipuan pengelabuan.
+el ransomware | peranti pemeras | Peranti pemeras mengenkripsi semua berkas.
+el exploit | eksploitasi kerentanan | Peretas menggunakan eksploitasi kerentanan yang tidak diketahui.
+el troyano | perangkat trojan | Perangkat trojan mencuri kredensial bank.
+el keylogger | perekam papan tik | Mereka menemukan perekam papan tik di papan tik tersebut.
+el sniffer | penganalisis paket data | Mereka menggunakan penganalisis paket data untuk mencegat lalu lintas jaringan.
+el honeypot | umpan peladen | Mereka memasang umpan peladen untuk menjebak penyerang.
+el proxy | peladen proksi | Mereka menjelajah internet melalui peladen proksi yang aman.
+el certificado ssl | sertifikat SSL | Situs web tersebut perlu memperbarui sertifikat SSL miliknya.
+## Metodologi manajemen proyek
+el scrum | kerangka kerja tangkas | Kami menerapkan kerangka kerja tangkas dalam pengembangan perangkat lunak.
+el kanban | papan alur kerja visual | Kami menggunakan papan alur kerja visual untuk mengatur tugas sehari-hari.
+el product owner | pemilik produk | Pemilik produk menentukan prioritas daftar pekerjaan.
+el scrum master | fasilitator tangkas | Fasilitator tangkas memfasilitasi rapat tim.
+el milestone | tonggak pencapaian | Kami merayakan tercapainya tonggak pencapaian pertama.
+el feedback loop | siklus umpan balik | Siklus umpan balik yang cepat meningkatkan kualitas.
+el stakeholder | pemangku kepentingan | Kami mempresentasikan hasil kepada para pemangku kepentingan.
+el scope | cakupan proyek | Kita harus mencegah cakupan proyek bertambah tanpa kendali.
+el kickoff | rapat perdana proyek | Rapat perdana proyek akan diadakan pada hari Senin.
+el release | peluncuran rilis | Peluncuran rilis mencakup fungsionalitas baru.
+## Jabatan dan peran perusahaan
+el cto | direktur teknologi | Direktur teknologi memimpin transformasi digital.
+el ceo | direktur utama | Direktur utama mengumumkan ekspansi internasional.
+el cfo | direktur keuangan | Direktur keuangan memeriksa anggaran tahunan.
+el coo | direktur operasional | Direktur operasional mengoptimalkan rantai pasokan.
+el ciso | direktur keamanan informasi | Direktur keamanan informasi menerapkan kebijakan keamanan baru.
+el product manager | manajer produk | Manajer produk mewawancarai para pengguna.
+el team lead | ketua tim | Ketua tim menetapkan tugas-tugas baru.
+el junior | karyawan pemula | Mereka mempekerjakan seorang programmer karyawan pemula.
+el senior | karyawan senior | Arsitek karyawan senior merancang infrastruktur tersebut.
+el freelancer | pekerja lepas | Ia lebih suka bekerja sebagai pekerja lepas dari rumah.
+## Jargon keuangan dan slang uang
+el cash | uang tunai | Mereka lebih suka pembayaran tunai untuk transaksi cepat.
+el ftx | nama bursa kripto (slang) | Ia kehilangan uang setelah keruntuhan bursa kripto tersebut.
+el exchange | bursa kripto | Ia mentransfer dananya ke bursa kripto yang aman.
+el holding | perusahaan induk | Perusahaan induk memiliki beberapa anak perusahaan teknologi.
+el cashflow | arus kas | Arus kas bulanan bernilai positif pada kuartal ini.
+el asset | aset keuangan | Mereka mendiversifikasikan aset keuangan mereka di berbagai pasar.
+el revenue | pendapatan kotor | Pendapatan kotor tahunan melampaui ekspektasi.
+el startup funding | pendanaan rintisan | Mereka mendapatkan pendanaan rintisan dari investor malaikat.
+el venture capital | modal ventura | Dana modal ventura membiayai ekspansi tersebut.
+el token | token digital | Mereka meluncurkan token digital baru di jaringan blockchain.
+## Slang pemasaran dan penjualan
+el growth hacking | peretasan pertumbuhan | Mereka menerapkan taktik peretasan pertumbuhan untuk tumbuh dengan cepat.
+el lead | prospek penjualan | Kampanye tersebut menghasilkan lima ratus prospek penjualan baru.
+el funnel | corong konversi | Mereka menganalisis corong konversi penjualan secara mendetail.
+el bounce rate | rasio pantul situs | Situs web tersebut memiliki rasio pantul situs yang tinggi.
+el conversion rate | tingkat konversi | Memperbaiki halaman tersebut meningkatkan tingkat konversi.
+el engagement | tingkat keterlibatan | Mereka ingin meningkatkan tingkat keterlibatan di media sosial.
+el click-through rate | rasio klik-tayang | Iklan tersebut mendapatkan rasio klik-tayang yang sangat baik.
+el branding | penciptaan merek | Mereka menghabiskan banyak uang untuk penciptaan merek tahun ini.
+el copywriting | penulisan salinan iklan | Penulisan salinan iklan yang persuasif meningkatkan penjualan.
+el inbound marketing | pemasaran masuk | Mereka mengandalkan pemasaran masuk untuk menarik pelanggan.
+## Inovasi dan teknologi masa depan
+el machine learning | pembelajaran mesin | Pembelajaran mesin memprediksi tren konsumsi.
+el deep learning | pembelajaran mendalam | Pembelajaran mendalam memproses jaringan saraf tiruan yang kompleks.
+el big data | mahadata | Mereka menganalisis mahadata untuk mengambil keputusan strategis.
+el iot (internet de las cosas) | internet untuk segala | Internet untuk segala menghubungkan perkakas rumah tangga ke internet.
+el cloud computing | komputasi awan | Mereka memigrasikan semua layanan ke komputasi awan.
+el edge computing | komputasi tepi | Komputasi tepi mengurangi latensi respons.
+el open source | sumber terbuka | Mereka mendukung proyek sumber terbuka secara global.
+el saas | perangkat lunak sebagai layanan | Mereka menjual perangkat lunak melalui model perangkat lunak sebagai layanan.
+el api | antarmuka pemograman aplikasi | Mereka mengintegrasikan antarmuka pemograman aplikasi pembayaran di toko daring.
+el web3 | web generasi ketiga | Mereka meneliti teknologi terdesentralisasi web generasi ketiga.
