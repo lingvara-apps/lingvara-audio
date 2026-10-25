@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Yol çeşitleri
+고속도로 (gosokdoro) | otoyol | isim | 명절에는 고속도로가 주차장처럼 막힌다. | Bayramlarda otoyol otopark gibi tıkanır.
+국도 (gukdo) | devlet karayolu | isim | 경치를 즐기려고 고속도로 대신 국도로 갔다. | Manzarayı keyifle izlemek için otoyol yerine devlet yolundan gittik.
+차선 (chaseon) | şerit (çizgi) | isim | 갑자기 차선을 바꾸면 사고가 날 수 있다. | Aniden şerit değiştirirsen kaza olabilir.
+차로 (charo) | şerit (yol) | isim | 이 도로는 왕복 육 차로이다. | Bu yol gidiş-dönüş altı şeritli.
+갓길 (gatgil) | emniyet şeridi | isim | 차가 고장 나서 갓길에 세웠다. | Araba bozulunca emniyet şeridine çektim.
+터널 (teoneol) | tünel | isim | 터널 안에서는 차선을 바꾸면 안 된다. | Tünelde şerit değiştirilmez.
+교차로 (gyocharo) | kavşak | isim | 교차로에서는 신호를 잘 보고 지나가야 한다. | Kavşakta ışıklara dikkat ederek geçmek gerekir.
+로터리 (roteori) | göbekli kavşak | isim | 로터리를 한 바퀴 돌아서 세 번째 출구로 나가세요. | Göbekli kavşağı dönüp üçüncü çıkıştan çıkın.
+고가 도로 (goga doro) | üst geçit yolu, viyadük | isim | 오래된 고가 도로를 철거하고 공원을 만들었다. | Eski viyadük yıkılıp yerine park yapıldı.
+지하차도 (jihachado) | alt geçit (araç) | isim | 폭우로 지하차도가 물에 잠겨 통제되었다. | Sağanak yüzünden alt geçit su altında kalınca trafiğe kapatıldı.
+## Araba kullanmak
+운전면허 (unjeonmyeonheo) | ehliyet | isim | 대학교에 들어가기 전에 운전면허를 땄다. | Üniversiteye girmeden önce ehliyet aldım.
+운전석 (unjeonseok) | sürücü koltuğu | isim | 운전석에 앉으니 갑자기 긴장되었다. | Sürücü koltuğuna oturunca birden gerildim.
+조수석 (josuseok) | ön yolcu koltuğu | isim | 친구가 조수석에서 길을 안내해 주었다. | Arkadaşım ön koltuktan yol tarif etti.
+뒷좌석 (dwitjwaseok) | arka koltuk | isim | 아이들은 반드시 뒷좌석에 앉혀야 한다. | Çocuklar mutlaka arka koltuğa oturtulmalı.
+핸들 (haendeul) | direksiyon | isim | 비가 오는 날에는 핸들을 두 손으로 꽉 잡으세요. | Yağmurlu günlerde direksiyonu iki elinizle sıkı tutun.
+브레이크 (beureikeu) | fren | isim | 고양이가 뛰어들어서 급하게 브레이크를 밟았다. | Bir kedi önüme atlayınca aniden frene bastım.
+액셀 (aeksel) | gaz pedalı | isim | 오르막길에서는 액셀을 조금 더 밟아야 한다. | Yokuşta gaz pedalına biraz daha basmak gerekir.
+기어 (gieo) | vites | isim | 주차할 때는 기어를 파킹에 놓아야 한다. | Park ederken vitesi park konumuna almak gerekir.
+깜빡이 (kkamppagi) | sinyal lambası | isim | 차선을 바꿀 때는 꼭 깜빡이를 켜세요. | Şerit değiştirirken mutlaka sinyal verin.
+후진하다 (hujinhada) | geri geri gitmek | fiil | 좁은 골목에서 후진하다가 벽에 부딪쳤다. | Dar sokakta geri geri giderken duvara çarptım.
+## Trafik kuralları
+신호 위반 (sinho wiban) | kırmızı ışık ihlali | isim | 신호 위반으로 벌점을 받았다. | Kırmızı ışık ihlali yüzünden ceza puanı aldım.
+과속 (gwasok) | hız ihlali, aşırı hız | isim | 과속은 큰 사고의 원인이 된다. | Aşırı hız büyük kazalara yol açar.
+제한 속도 (jehan sokdo) | hız sınırı | isim | 학교 앞 제한 속도는 시속 삼십 킬로미터이다. | Okul önünde hız sınırı saatte otuz kilometredir.
+안전거리 (anjeongeori) | takip mesafesi | isim | 앞차와 안전거리를 충분히 두세요. | Öndeki araçla yeterli takip mesafesi bırakın.
+끼어들기 (kkieodeulgi) | araya girme (trafikte) | isim | 갑작스러운 끼어들기 때문에 사고가 날 뻔했다. | Ani araya girme yüzünden az kalsın kaza oluyordu.
+무단 횡단 (mudan hoengdan) | kurallara aykırı karşıdan karşıya geçme | isim | 무단 횡단을 하다가 다치는 사람이 많다. | Kurallara aykırı biçimde yolu geçerken yaralanan çok kişi var.
+유턴 (yuteon) | U dönüşü | isim | 여기서는 유턴할 수 없으니 다음 신호까지 가세요. | Burada U dönüşü yapılamaz, bir sonraki ışığa kadar gidin.
+좌회전 (jwahoejeon) | sola dönüş | isim | 다음 사거리에서 좌회전하세요. | Bir sonraki kavşakta sola dönün.
+우회전 (uhoejeon) | sağa dönüş | isim | 우회전할 때는 횡단보도의 보행자를 조심하세요. | Sağa dönerken yaya geçidindeki yayalara dikkat edin.
+일방통행 (ilbangtonghaeng) | tek yön | isim | 이 길은 일방통행이라서 반대쪽으로 갈 수 없다. | Bu yol tek yön olduğu için ters yöne gidilemez.
+## Araç türleri
+승용차 (seungyongcha) | binek otomobil | isim | 출퇴근 시간에는 승용차보다 지하철이 빠르다. | İşe gidiş-dönüş saatlerinde metro otomobilden hızlıdır.
+화물차 (hwamulcha) | kamyon, yük aracı | isim | 밤에는 고속도로에 화물차가 많이 다닌다. | Gece otoyolda çok sayıda kamyon gider.
+승합차 (seunghapcha) | minibüs | isim | 열두 명이 승합차 한 대로 여행을 떠났다. | On iki kişi tek bir minibüsle geziye çıktık.
+경차 (gyeongcha) | küçük otomobil (hafif sınıf) | isim | 경차는 주차비와 통행료 할인을 받는다. | Küçük otomobiller otopark ve geçiş ücretinde indirim alır.
+소방차 (sobangcha) | itfaiye aracı | isim | 소방차가 지나갈 수 있도록 길을 비켜 주었다. | İtfaiye aracı geçebilsin diye yol verdik.
+견인차 (gyeonincha) | çekici | isim | 고장 난 차를 견인차가 끌고 갔다. | Bozulan arabayı çekici çekip götürdü.
+렌터카 (renteoka) | kiralık araba | isim | 제주도에서는 렌터카를 빌리는 게 편하다. | Jeju'da araba kiralamak rahattır.
+중고차 (junggocha) | ikinci el araba | isim | 첫 차는 싼 중고차로 샀다. | İlk arabamı ucuz bir ikinci el olarak aldım.
+하이브리드 차 (haibeurideu cha) | hibrit araç | isim | 연비가 좋아서 하이브리드 차를 샀다. | Yakıt tasarrufu iyi olduğu için hibrit araç aldım.
+자가용 (jagayong) | özel araç | isim | 시골에서는 자가용이 없으면 생활이 불편하다. | Kırsalda özel aracın yoksa yaşam zor.
+## Araç bakımı ve parçaları
+타이어 (taieo) | lastik | isim | 겨울이 되기 전에 타이어를 교체했다. | Kış gelmeden önce lastikleri değiştirdim.
+엔진 (enjin) | motor | isim | 엔진에서 이상한 소리가 나서 정비소에 갔다. | Motordan garip bir ses gelince tamirhaneye gittim.
+연비 (yeonbi) | yakıt verimliliği | isim | 이 차는 연비가 좋아서 기름값이 적게 든다. | Bu araba yakıt verimli olduğu için benzin masrafı az.
+주유하다 (juyuhada) | yakıt almak | fiil | 장거리 운전 전에 주유하는 것을 잊지 마세요. | Uzun yolculuktan önce yakıt almayı unutmayın.
+휘발유 (hwibaryu) | benzin | isim | 휘발유 가격이 또 올랐다. | Benzin fiyatı yine arttı.
+경유 (gyeongyu) | dizel, motorin | isim | 트럭은 대부분 경유를 넣는다. | Kamyonların çoğuna motorin konur.
+와이퍼 (waipeo) | silecek | isim | 비가 많이 와서 와이퍼를 빠르게 움직였다. | Çok yağmur yağdığı için silecekleri hızlı çalıştırdım.
+블랙박스 (beullaekbakseu) | araç kamerası | isim | 블랙박스 영상 덕분에 사고의 책임을 가릴 수 있었다. | Araç kamerası görüntüleri sayesinde kazadaki kusur belirlenebildi.
+내비게이션 (naebigeisyeon) | navigasyon cihazı | isim | 내비게이션이 알려 준 길이 막혀 있었다. | Navigasyonun gösterdiği yol kapalıydı.
+사이드미러 (saideumireo) | yan ayna | isim | 좁은 골목을 지나다가 사이드미러가 부서졌다. | Dar sokaktan geçerken yan ayna kırıldı.
+## Toplu taşıma
+광역 버스 (gwangyeok beoseu) | şehirlerarası banliyö otobüsü | isim | 경기도에 사는 직장인들은 광역 버스로 서울에 출근한다. | Gyeonggi'de yaşayan çalışanlar banliyö otobüsüyle Seul'e işe gidiyor.
+마을버스 (maeulbeoseu) | mahalle minibüsü | isim | 역에서 집까지는 마을버스를 타면 오 분이다. | İstasyondan eve mahalle minibüsüyle beş dakika.
+급행 (geupaeng) | ekspres | isim | 급행열차는 큰 역에만 선다. | Ekspres tren sadece büyük istasyonlarda durur.
+완행 (wanhaeng) | her durakta duran (tren, otobüs) | isim | 완행은 느리지만 사람이 적어서 편하다. | Her durakta duran tren yavaş ama kalabalık olmadığı için rahat.
+배차 간격 (baecha gangyeok) | sefer aralığı | isim | 이 버스는 배차 간격이 길어서 한참 기다려야 한다. | Bu otobüsün sefer aralığı uzun olduğu için epey beklemek gerekiyor.
+노약자석 (noyakjaseok) | yaşlı ve engelli koltuğu | isim | 지하철 노약자석은 비워 두는 것이 예의이다. | Metrodaki yaşlı ve engelli koltuklarını boş bırakmak görgü kuralıdır.
+임산부 배려석 (imsanbu baeryeoseok) | hamile yolcu koltuğu | isim | 분홍색 좌석은 임산부 배려석이다. | Pembe koltuklar hamile yolcular içindir.
+고속 철도 (gosok cheoldo) | hızlı tren | isim | 고속 철도 덕분에 서울에서 부산까지 세 시간도 안 걸린다. | Hızlı tren sayesinde Seul'den Busan'a üç saatten az sürüyor.
+공항 철도 (gonghang cheoldo) | havalimanı treni | isim | 공항 철도를 타면 시내까지 사십 분이면 간다. | Havalimanı treniyle şehir merkezine kırk dakikada varılır.
+시외버스 (sioebeoseu) | şehirlerarası otobüs (yakın şehirler) | isim | 시외버스를 타고 고향에 내려갔다. | Şehirlerarası otobüsle memleketime gittim.
+## Trafik sorunları
+정체 (jeongche) | trafik tıkanıklığı | isim | 사고 때문에 도로 정체가 오 킬로미터나 이어졌다. | Kaza yüzünden trafik tıkanıklığı beş kilometre boyunca sürdü.
+병목 현상 (byeongmok hyeonsang) | darboğaz | isim | 차로가 줄어드는 곳에서 병목 현상이 생긴다. | Şeritlerin daraldığı yerde darboğaz oluşur.
+귀성길 (gwiseonggil) | bayram için memlekete gidiş yolu | isim | 추석 귀성길은 평소보다 두 배 이상 걸린다. | Chuseok'ta memlekete gidiş yolu normalden iki kat fazla sürer.
+귀경길 (gwigyeonggil) | bayram dönüşü başkente dönüş yolu | isim | 연휴 마지막 날 귀경길이 꽉 막혔다. | Tatilin son günü başkente dönüş yolu tıkandı.
+교통사고 (gyotongsago) | trafik kazası | isim | 빗길 교통사고가 많으니 조심해서 운전하세요. | Yağmurlu yollarda trafik kazası çok, dikkatli sürün.
+접촉 사고 (jeopchok sago) | maddi hasarlı küçük kaza | isim | 주차장에서 가벼운 접촉 사고가 났다. | Otoparkta hafif bir sürtme kazası oldu.
+뺑소니 (ppaengsoni) | vur-kaç | isim | 경찰은 뺑소니 차량을 블랙박스로 찾아냈다. | Polis vur-kaç aracını araç kamerası görüntüleriyle buldu.
+보복 운전 (bobok unjeon) | intikam sürüşü (trafikte saldırganlık) | isim | 보복 운전은 엄하게 처벌된다. | Trafikteki saldırgan intikam sürüşü ağır cezalandırılır.
+졸음운전 (joreumunjeon) | uykulu araç kullanma | isim | 졸음운전은 음주 운전만큼 위험하다. | Uykulu araç kullanmak alkollü araç kullanmak kadar tehlikelidir.
+난폭 운전 (nanpok unjeon) | tehlikeli/saldırgan sürüş | isim | 난폭 운전을 하는 차를 신고했다. | Saldırgan sürüş yapan bir aracı ihbar ettim.
+## Yön bulma
+경로 (gyeongno) | güzergâh | isim | 내비게이션이 더 빠른 경로를 알려 주었다. | Navigasyon daha hızlı bir güzergâh gösterdi.
+우회하다 (uhoehada) | dolaşıp gitmek, alternatif yoldan gitmek | fiil | 공사 중이라서 다른 길로 우회했다. | Yol çalışması olduğu için başka yoldan dolaştık.
+지름길 (jireumgil) | kestirme yol | isim | 이 골목이 역으로 가는 지름길이다. | Bu ara sokak istasyona giden kestirme yol.
+갈림길 (gallimgil) | yol ayrımı | isim | 갈림길에서 오른쪽으로 가야 바다가 나온다. | Yol ayrımında sağa gidersen denize çıkarsın.
+이정표 (ijeongpyo) | yol işareti, kilometre taşı | isim | 산길에서 이정표를 보고 정상까지 올라갔다. | Dağ yolunda yön işaretlerine bakarak zirveye çıktım.
+표지판 (pyojipan) | levha, tabela | isim | 공사 중이라는 표지판이 서 있었다. | "Yol çalışması" levhası duruyordu.
+진입하다 (jinipada) | girmek (yola, alana) | fiil | 고속도로에 진입할 때는 속도를 높여야 한다. | Otoyola girerken hızı artırmak gerekir.
+빠져나가다 (ppajyeonagada) | çıkıp gitmek, sıyrılmak | fiil | 막히는 도심을 빠져나가는 데 한 시간이 걸렸다. | Sıkışık şehir merkezinden çıkmak bir saat sürdü.
+목적지 (mokjeokji) | varış noktası | isim | 목적지까지 앞으로 이십 분 남았습니다. | Varış noktasına yirmi dakika kaldı.
+도착 예정 시간 (dochak yejeong sigan) | tahmini varış saati | isim | 비행기의 도착 예정 시간이 한 시간 늦어졌다. | Uçağın tahmini varış saati bir saat gecikti.
+## Kent içi ulaşım politikası
+교통 정책 (gyotong jeongchaek) | ulaşım politikası | isim | 시는 대중교통 중심의 교통 정책을 펴고 있다. | Belediye toplu taşıma odaklı bir ulaşım politikası izliyor.
+자전거 도로 (jajeongeo doro) | bisiklet yolu | isim | 한강을 따라 자전거 도로가 잘 만들어져 있다. | Han Nehri boyunca güzel bir bisiklet yolu yapılmış.
+버스 전용 차로 (beoseu jeonyong charo) | otobüs şeridi | isim | 버스 전용 차로 덕분에 버스가 훨씬 빨라졌다. | Otobüs şeridi sayesinde otobüsler çok hızlandı.
+통행료 (tonghaengnyo) | geçiş ücreti | isim | 명절 연휴에는 고속도로 통행료가 면제된다. | Bayram tatilinde otoyol geçiş ücreti alınmaz.
+혼잡 통행료 (honjap tonghaengnyo) | trafik yoğunluğu ücreti | isim | 도심에 들어가는 차에 혼잡 통행료를 받는다. | Şehir merkezine giren araçlardan yoğunluk ücreti alınıyor.
+카풀 (kapul) | araç paylaşımı | isim | 동료들과 카풀을 해서 기름값을 아낀다. | İş arkadaşlarımla araç paylaşarak benzinden tasarruf ediyorum.
+공유 자전거 (gongyu jajeongeo) | paylaşımlı bisiklet | isim | 앱으로 공유 자전거를 빌려서 출근한다. | Uygulamadan paylaşımlı bisiklet kiralayıp işe gidiyorum.
+전동 킥보드 (jeondong kikbodeu) | elektrikli scooter | isim | 전동 킥보드를 탈 때는 헬멧을 써야 한다. | Elektrikli scooter kullanırken kask takmak gerekir.
+보행자 (bohaengja) | yaya | isim | 운전자는 보행자를 항상 먼저 배려해야 한다. | Sürücüler her zaman önce yayaları gözetmeli.
+교통 약자 (gyotong yakja) | ulaşımda dezavantajlı kişiler | isim | 교통 약자를 위해 지하철역에 엘리베이터를 설치했다. | Ulaşımda dezavantajlı kişiler için metro istasyonuna asansör kuruldu.
+## Sürüş fiilleri
+운전하다 (unjeonhada) | araba kullanmak | fiil | 비가 오는 밤에는 운전하기가 무섭다. | Yağmurlu gecelerde araba kullanmak korkutucu.
+주차하다 (juchahada) | park etmek | fiil | 백화점 지하에 주차하고 쇼핑을 했다. | Alışveriş merkezinin altına park edip alışveriş yaptım.
+정차하다 (jeongchahada) | durmak (araç, kısa süre) | fiil | 이곳은 정차할 수 없는 구역입니다. | Burası durmanın yasak olduğu bir bölge.
+추월하다 (chuwolhada) | sollamak | fiil | 곡선 도로에서 추월하는 것은 매우 위험하다. | Virajlı yolda sollamak çok tehlikelidir.
+감속하다 (gamsokada) | yavaşlamak | fiil | 학교 앞에서는 반드시 감속해야 한다. | Okul önünde mutlaka yavaşlamak gerekir.
+가속하다 (gasokada) | hızlanmak | fiil | 신호가 바뀌자 차들이 일제히 가속했다. | Işık değişince arabalar aynı anda hızlandı.
+들이받다 (deuribatda) | (araç) çarpmak, toslamak | fiil | 미끄러진 차가 가로등을 들이받았다. | Kayan araba sokak lambasına çarptı.
+차를 세우다 (chareul seuda) | arabayı durdurmak, kenara çekmek | ifade | 경찰이 손을 들어 차를 세우라고 했다. | Polis elini kaldırıp arabayı durdurmamı işaret etti.
+태워 주다 (taewo juda) | arabayla bırakmak, götürmek | ifade | 비가 와서 동료가 집까지 태워 주었다. | Yağmur yağınca iş arkadaşım beni eve kadar bıraktı.
+급정거하다 (geupjeonggeohada) | ani fren yapmak | fiil | 버스가 급정거하는 바람에 사람들이 넘어졌다. | Otobüs ani fren yapınca insanlar düştü.
