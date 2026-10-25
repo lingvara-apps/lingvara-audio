@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım
+die Software | yazılım | isim (d) | Die neue Software macht die Arbeit im Büro viel schneller. | Yeni yazılım ofisteki işi çok hızlandırıyor.
+programmieren | programlamak, kodlamak | fiil | Schon mit zwölf Jahren hat Omar seine erste App programmiert. | Omar daha on iki yaşında ilk uygulamasını kodladı.
+die Anwendung (die Anwendungen) | uygulama, kullanım | isim (d) | Diese Anwendung läuft auf allen gängigen Betriebssystemen. | Bu uygulama bütün yaygın işletim sistemlerinde çalışıyor.
+das Betriebssystem (die Betriebssysteme) | işletim sistemi | isim (o) | Nach dem Update des Betriebssystems funktioniert der Drucker nicht mehr. | İşletim sistemi güncellemesinden sonra yazıcı artık çalışmıyor.
+die Version (die Versionen) | sürüm | isim (d) | Die neueste Version der App hat viele nützliche Funktionen. | Uygulamanın en yeni sürümünde birçok yararlı özellik var.
+die Funktion (die Funktionen) | işlev, özellik | isim (d) | Mit dieser Funktion kann man Fotos automatisch sortieren. | Bu özellikle fotoğraflar otomatik olarak sıralanabilir.
+beheben (behob, behoben) | gidermek, düzeltmek | fiil · düzensiz | Die Techniker arbeiten daran, den Fehler schnell zu beheben. | Teknisyenler hatayı hızla gidermek için çalışıyor.
+die Einstellungen | ayarlar | isim (çoğul) | In den Einstellungen kannst du die Sprache auf Deutsch ändern. | Ayarlardan dili Almancaya çevirebilirsin.
+der Code (die Codes) | kod | isim (e) | Der Code für das Programm hat über tausend Zeilen. | Programın kodu binden fazla satırdan oluşuyor.
+die Benutzeroberfläche (die Benutzeroberflächen) | kullanıcı arayüzü | isim (d) | Die Benutzeroberfläche ist einfach und sehr übersichtlich. | Kullanıcı arayüzü basit ve çok düzenli.
+## Donanım
+die Hardware | donanım | isim (d) | Für das neue Spiel braucht man ziemlich gute Hardware. | Yeni oyun için oldukça iyi bir donanım gerekiyor.
+der Speicher (die Speicher) | bellek, hafıza | isim (e) | Der Speicher meines Handys ist schon wieder voll. | Telefonumun hafızası yine doldu.
+der Prozessor (die Prozessoren) | işlemci | isim (e) | Der neue Laptop hat einen sehr schnellen Prozessor. | Yeni dizüstü bilgisayarın çok hızlı bir işlemcisi var.
+die Festplatte (die Festplatten) | sabit disk | isim (d) | Alle Fotos speichere ich zusätzlich auf einer externen Festplatte. | Bütün fotoğrafları ek olarak harici bir diskte saklıyorum.
+der USB-Stick (die USB-Sticks) | USB bellek | isim (e) | Kannst du mir die Präsentation auf einen USB-Stick kopieren? | Sunumu bana bir USB belleğe kopyalayabilir misin?
+das Kabel (die Kabel) | kablo | isim (o) | Unter meinem Schreibtisch liegt ein Chaos aus Kabeln. | Masamın altında kablolardan oluşan bir kargaşa var.
+den Bildschirm teilen | ekranı paylaşmak | ifade | Kannst du bitte deinen Bildschirm teilen, damit alle es sehen? | Herkes görebilsin diye ekranını paylaşabilir misin?
+anschließen (schloss an, angeschlossen) | bağlamak, takmak | fiil · düzensiz | Hast du den Monitor schon an den Computer angeschlossen? | Monitörü bilgisayara bağladın mı?
+leistungsstark | güçlü, yüksek performanslı | sıfat | Für Videobearbeitung braucht man einen sehr leistungsstarken Computer. | Video düzenleme için çok güçlü bir bilgisayar gerekir.
+der Monitor (die Monitore) | monitör | isim (e) | Im Büro arbeite ich mit zwei großen Monitoren. | Ofiste iki büyük monitörle çalışıyorum.
+## İnternet ve ağlar
+die Internetverbindung (die Internetverbindungen) | internet bağlantısı | isim (d) | Auf dem Land ist die Internetverbindung oft sehr langsam. | Kırsalda internet bağlantısı çoğu zaman çok yavaş.
+der Router (die Router) | modem, yönlendirici | isim (e) | Wenn das Internet nicht geht, starte ich den Router neu. | İnternet çalışmazsa modemi yeniden başlatırım.
+das Netzwerk (die Netzwerke) | ağ | isim (o) | Alle Computer im Büro sind mit einem Netzwerk verbunden. | Ofisteki bütün bilgisayarlar bir ağa bağlı.
+die Cloud (die Clouds) | bulut (depolama) | isim (d) | Meine Dokumente speichere ich automatisch in der Cloud. | Belgelerimi otomatik olarak bulutta saklıyorum.
+der Server (die Server) | sunucu | isim (e) | Wegen eines Problems mit dem Server war die Website offline. | Sunucudaki bir sorun yüzünden web sitesi çevrimdışıydı.
+der Browser (die Browser) | tarayıcı | isim (e) | Öffne die Seite bitte in einem anderen Browser. | Sayfayı lütfen başka bir tarayıcıda aç.
+das Datenvolumen | veri paketi, kota | isim (o) | Mein Datenvolumen für diesen Monat ist schon fast aufgebraucht. | Bu ayki internet kotam neredeyse bitti.
+das Funkloch (die Funklöcher) | çekmeyen bölge | isim (o) | Im Zug zwischen Köln und Frankfurt gibt es viele Funklöcher. | Köln ile Frankfurt arasındaki trende telefonun çekmediği çok yer var.
+das Mobilfunknetz (die Mobilfunknetze) | mobil şebeke | isim (o) | Das Mobilfunknetz in den Bergen ist leider ziemlich schlecht. | Dağlardaki mobil şebeke maalesef oldukça kötü.
+die Bandbreite | bant genişliği | isim (d) | Für Videokonferenzen braucht man eine hohe Bandbreite. | Video konferanslar için yüksek bant genişliği gerekir.
+## Siber güvenlik
+das Sicherheitsupdate (die Sicherheitsupdates) | güvenlik güncellemesi | isim (o) | Installieren Sie das Sicherheitsupdate bitte so schnell wie möglich. | Lütfen güvenlik güncellemesini olabildiğince çabuk yükleyin.
+der Hacker (die Hacker) | bilgisayar korsanı | isim (e) | Hacker haben die Daten von Millionen Kunden gestohlen. | Bilgisayar korsanları milyonlarca müşterinin verilerini çaldı.
+angreifen (griff an, angegriffen) | saldırmak | fiil · düzensiz | Unbekannte haben das Computersystem der Stadt angegriffen. | Kimliği belirsiz kişiler belediyenin bilgisayar sistemine saldırdı.
+verschlüsseln | şifrelemek | fiil | Die Nachrichten in dieser App werden automatisch verschlüsselt. | Bu uygulamadaki mesajlar otomatik olarak şifreleniyor.
+die Zwei-Faktor-Authentifizierung | iki adımlı doğrulama | isim (d) | Aktiviere unbedingt die Zwei-Faktor-Authentifizierung für dein Konto. | Hesabın için mutlaka iki adımlı doğrulamayı etkinleştir.
+die Phishing-Mail (die Phishing-Mails) | oltalama e-postası | isim (d) | Klicken Sie niemals auf Links in einer Phishing-Mail! | Bir oltalama e-postasındaki bağlantılara asla tıklamayın!
+der Betrug | dolandırıcılık | isim (e) | Online-Betrug ist ein immer größeres Problem für ältere Menschen. | İnternet dolandırıcılığı yaşlılar için giderek büyüyen bir sorun.
+das Antivirenprogramm (die Antivirenprogramme) | antivirüs programı | isim (o) | Auf jedem Computer sollte ein aktuelles Antivirenprogramm laufen. | Her bilgisayarda güncel bir antivirüs programı çalışmalı.
+die Sicherungskopie (die Sicherungskopien) | yedek kopya | isim (d) | Von wichtigen Dateien sollte man immer eine Sicherungskopie machen. | Önemli dosyaların her zaman yedek kopyası alınmalı.
+sicher surfen | güvenli internet kullanımı | ifade | Im Kurs lernen Kinder, wie man im Internet sicher surft. | Kursta çocuklar internette nasıl güvenli gezinileceğini öğreniyor.
+## Yapay zekâ
+die KI | yapay zekâ (kısaltma) | isim (d) | Die KI schreibt schon heute Texte und übersetzt Briefe. | Yapay zekâ şimdiden metin yazıyor ve mektup çeviriyor.
+der Chatbot (die Chatbots) | sohbet robotu | isim (e) | Bei vielen Firmen beantwortet zuerst ein Chatbot die Fragen. | Birçok şirkette soruları önce bir sohbet robotu yanıtlıyor.
+lernfähig | öğrenme yeteneğine sahip | sıfat | Moderne Computerprogramme sind lernfähig und werden immer besser. | Modern bilgisayar programları öğrenebiliyor ve giderek gelişiyor.
+automatisch | otomatik | sıfat | Die Tür öffnet sich automatisch, wenn jemand kommt. | Biri geldiğinde kapı otomatik olarak açılıyor.
+automatisieren | otomatikleştirmek | fiil | Viele Arbeiten in der Fabrik werden heute von Robotern automatisiert. | Fabrikadaki birçok iş bugün robotlarla otomatikleştiriliyor.
+die Spracherkennung | ses tanıma | isim (d) | Die Spracherkennung versteht meinen Dialekt leider nicht gut. | Ses tanıma maalesef şivemi iyi anlamıyor.
+die Gesichtserkennung | yüz tanıma | isim (d) | Das Handy entsperrt man einfach mit Gesichtserkennung. | Telefonun kilidi kolayca yüz tanımayla açılıyor.
+ersetzen | yerini almak | fiil | Können Maschinen eines Tages Ärzte und Lehrer ersetzen? | Makineler bir gün doktorların ve öğretmenlerin yerini alabilir mi?
+selbstfahrend | sürücüsüz | sıfat | In einigen Städten werden schon selbstfahrende Busse getestet. | Bazı şehirlerde sürücüsüz otobüsler şimdiden test ediliyor.
+die Entwicklung (die Entwicklungen) | gelişme | isim (d) | Die schnelle Entwicklung der Technik macht manchen Menschen Angst. | Teknolojinin hızlı gelişimi bazı insanları korkutuyor.
+## Uzay
+der Weltraum | uzay | isim (e) | Der erste Mensch im Weltraum war ein sowjetischer Kosmonaut. | Uzaydaki ilk insan bir Sovyet kozmonotuydu.
+der Astronaut (die Astronauten) | astronot | isim (e) | Die Astronautin verbringt sechs Monate auf der Raumstation. | Kadın astronot uzay istasyonunda altı ay geçiriyor.
+die Rakete (die Raketen) | roket | isim (d) | Die Rakete ist heute Morgen erfolgreich gestartet. | Roket bu sabah başarıyla fırlatıldı.
+der Satellit (die Satelliten) | uydu | isim (e) | Der Satellit sendet jeden Tag neue Bilder vom Wetter. | Uydu her gün hava durumuna dair yeni görüntüler gönderiyor.
+der Planet (die Planeten) | gezegen | isim (e) | Der Mars ist der vierte Planet von der Sonne aus. | Mars Güneş'ten itibaren dördüncü gezegendir.
+das Weltall | evren, uzay boşluğu | isim (o) | Im Weltall gibt es Milliarden von Sternen und Galaxien. | Evrende milyarlarca yıldız ve galaksi var.
+die Raumstation (die Raumstationen) | uzay istasyonu | isim (d) | Von der Raumstation aus sieht man jeden Tag viele Sonnenaufgänge. | Uzay istasyonundan her gün birçok gün doğumu görülüyor.
+die Umlaufbahn (die Umlaufbahnen) | yörünge | isim (d) | Der Satellit kreist in einer Umlaufbahn um die Erde. | Uydu dünyanın etrafında bir yörüngede dönüyor.
+das Sonnensystem | güneş sistemi | isim (o) | Jupiter ist der größte Planet in unserem Sonnensystem. | Jüpiter güneş sistemimizdeki en büyük gezegendir.
+die Raumfahrt | uzay yolculuğu, havacılık-uzay | isim (d) | Die Raumfahrt ist in den letzten Jahren auch für Firmen interessant geworden. | Uzay yolculuğu son yıllarda şirketler için de ilgi çekici hâle geldi.
+## Dijitalleşme
+online beantragen | internetten başvurmak | ifade | Den neuen Personalausweis kann man inzwischen auch online beantragen. | Yeni kimlik kartına artık internetten de başvurulabiliyor.
+digitalisieren | dijitalleştirmek | fiil | Die Bibliothek digitalisiert alte Bücher und Zeitungen. | Kütüphane eski kitapları ve gazeteleri dijitalleştiriyor.
+papierlos | kâğıtsız | sıfat | Unser Büro arbeitet seit letztem Jahr fast völlig papierlos. | Ofisimiz geçen yıldan beri neredeyse tamamen kâğıtsız çalışıyor.
+die elektronische Signatur | elektronik imza | ifade | Den Vertrag kann man jetzt mit einer elektronischen Signatur unterschreiben. | Sözleşme artık elektronik imzayla imzalanabiliyor.
+der Onlinehandel | e-ticaret | isim (e) | Der Onlinehandel ist während der Pandemie stark gewachsen. | E-ticaret pandemi sırasında çok büyüdü.
+der Datenschützer (die Datenschützer) | veri koruma uzmanı | isim (e) | Datenschützer kritisieren, dass die App zu viele Daten sammelt. | Veri koruma uzmanları uygulamanın çok fazla veri topladığını eleştiriyor.
+die Fernwartung | uzaktan bakım | isim (d) | Per Fernwartung hat der Techniker mein Problem sofort gelöst. | Teknisyen uzaktan bakımla sorunumu hemen çözdü.
+vernetzt | ağa bağlı, birbirine bağlı | sıfat | In einer vernetzten Welt kann man überall arbeiten. | Birbirine bağlı bir dünyada her yerde çalışılabilir.
+fortschrittlich | ileri, çağdaş | sıfat | Die Schweiz gilt bei der Bahntechnik als sehr fortschrittlich. | İsviçre demiryolu teknolojisinde çok ileri sayılır.
+das Tool (die Tools) | araç (yazılım) | isim (o) | Für die Planung im Team nutzen wir ein praktisches Online-Tool. | Ekipte planlama için pratik bir çevrimiçi araç kullanıyoruz.
+## Akıllı cihazlar
+das Smart Home | akıllı ev | ifade | Im Smart Home steuert man Licht und Heizung mit dem Handy. | Akıllı evde ışık ve kalorifer telefonla kontrol edilir.
+steuern | kontrol etmek, yönetmek | fiil | Die Drohne kann man ganz einfach mit einer App steuern. | Drone çok kolay bir şekilde bir uygulamayla kontrol edilebilir.
+die Drohne (die Drohnen) | drone, insansız hava aracı | isim (d) | Mit der Drohne haben wir tolle Bilder von den Bergen gemacht. | Drone ile dağların harika görüntülerini çektik.
+der Sensor (die Sensoren) | sensör, algılayıcı | isim (e) | Ein Sensor schaltet das Licht im Flur automatisch ein. | Bir sensör koridordaki ışığı otomatik olarak açıyor.
+die Smartwatch (die Smartwatches) | akıllı saat | isim (d) | Meine Smartwatch zählt jeden Tag meine Schritte. | Akıllı saatim her gün adımlarımı sayıyor.
+der Sprachassistent (die Sprachassistenten) | sesli asistan | isim (e) | Der Sprachassistent spielt Musik, wenn ich ihn darum bitte. | Sesli asistan ondan istediğimde müzik çalıyor.
+kabellos | kablosuz | sıfat | Das Handy kann man auch kabellos aufladen. | Telefon kablosuz olarak da şarj edilebilir.
+aufladen (lud auf, aufgeladen) | şarj etmek | fiil · düzensiz | Ich muss mein Handy dringend aufladen, der Akku ist fast leer. | Telefonumu acilen şarj etmeliyim, pil neredeyse bitti.
+die Bedienungsanleitung (die Bedienungsanleitungen) | kullanım kılavuzu | isim (d) | Lies zuerst die Bedienungsanleitung, bevor du das Gerät benutzt. | Cihazı kullanmadan önce kullanım kılavuzunu oku.
+bedienen | kullanmak (cihaz) | fiil | Die neue Kaffeemaschine ist leider schwer zu bedienen. | Yeni kahve makinesini kullanmak maalesef zor.
+## İcatlar ve mühendislik
+erfinden (erfand, erfunden) | icat etmek | fiil · düzensiz | Wer hat eigentlich das erste Telefon erfunden? | İlk telefonu aslında kim icat etti?
+der Erfinder (die Erfinder) | mucit | isim (e) | Der Erfinder des Buchdrucks lebte in Mainz. | Matbaanın mucidi Mainz'da yaşadı.
+die Technologie (die Technologien) | teknoloji | isim (d) | Neue Technologien machen Autos sicherer und sparsamer. | Yeni teknolojiler arabaları daha güvenli ve tasarruflu yapıyor.
+technisch | teknik | sıfat | Wegen eines technischen Problems fällt der Zug heute aus. | Teknik bir sorun nedeniyle tren bugün iptal.
+entwickeln | geliştirmek | fiil | Das Team entwickelt eine App für Menschen mit Sehproblemen. | Ekip görme sorunu olan insanlar için bir uygulama geliştiriyor.
+der Entwickler (die Entwickler) | geliştirici | isim (e) | Die Entwickler arbeiten schon an der nächsten Version des Spiels. | Geliştiriciler oyunun bir sonraki sürümü üzerinde çalışıyor.
+das Modell (die Modelle) | model | isim (o) | Das neue Modell des Autos wird auf der Messe vorgestellt. | Arabanın yeni modeli fuarda tanıtılıyor.
+die Innovation (die Innovationen) | yenilik, inovasyon | isim (d) | Die Firma ist bekannt für ihre vielen Innovationen. | Şirket birçok yeniliğiyle tanınıyor.
+der Ingenieurberuf | mühendislik mesleği | isim (e) | Der Ingenieurberuf ist in Deutschland sehr angesehen. | Mühendislik mesleği Almanya'da çok saygın.
+die Maschine (die Maschinen) | makine | isim (d) | Diese Maschine produziert tausend Flaschen pro Stunde. | Bu makine saatte bin şişe üretiyor.
+## Teknolojinin etkileri
+abhängig | bağımlı | sıfat | Viele Menschen sind heute völlig abhängig von ihrem Smartphone. | Bugün birçok insan akıllı telefonuna tamamen bağımlı.
+die Erreichbarkeit | ulaşılabilirlik | isim (d) | Die ständige Erreichbarkeit durch das Handy kann Stress machen. | Telefon yüzünden sürekli ulaşılabilir olmak strese yol açabilir.
+der Vorteil (die Vorteile) | avantaj | isim (e) | Ein großer Vorteil der Technik ist die schnelle Kommunikation. | Teknolojinin büyük bir avantajı hızlı iletişimdir.
+der Nachteil (die Nachteile) | dezavantaj | isim (e) | Ein Nachteil von Homeoffice ist der fehlende Kontakt zu Kollegen. | Evden çalışmanın bir dezavantajı meslektaşlarla temasın olmaması.
+die Privatsphäre | özel hayat, mahremiyet | isim (d) | Im Internet ist es schwer, die eigene Privatsphäre zu schützen. | İnternette insanın kendi mahremiyetini koruması zor.
+überwachen | gözetlemek, izlemek | fiil | Viele öffentliche Plätze in der Stadt werden heute überwacht. | Şehirdeki birçok meydan bugün gözetim altında.
+die Überwachungskamera (die Überwachungskameras) | güvenlik kamerası | isim (d) | Am Bahnhof hängen jetzt überall neue Überwachungskameras. | Garda artık her yerde yeni güvenlik kameraları asılı.
+der Missbrauch | kötüye kullanım | isim (e) | Der Missbrauch persönlicher Daten ist ein großes Problem. | Kişisel verilerin kötüye kullanılması büyük bir sorun.
+die Reizüberflutung | aşırı uyaran yükü | isim (d) | Nach einem Tag vor dem Bildschirm leide ich unter Reizüberflutung. | Ekran başında geçen bir günden sonra aşırı uyarandan bunalıyorum.
+der Digital Detox | dijital detoks | ifade | Im Urlaub mache ich eine Woche Digital Detox ohne Handy. | Tatilde telefonsuz bir hafta dijital detoks yapıyorum.
