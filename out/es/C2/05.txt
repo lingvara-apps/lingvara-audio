@@ -1,0 +1,111 @@
+# UNIT: Jerga de oficina y tecnología | Jerga corporativa, lenguaje de software, jerga del dinero
+## Clichés corporativos
+synergy | sinergia (cliché) | La dirección sigue hablando de sinergia, pero los dos departamentos aún se niegan a compartir datos.
+pain point | punto crítico, dolor de cabeza | Nuestra investigación muestra que las entregas lentas son el mayor dolor de cabeza de los clientes.
+buy-in | respaldo, apoyo interno | Sin el respaldo del personal veterano, el nuevo sistema nunca funcionará.
+deliverable | producto entregable, resultado | El primer entregable es un informe completo sobre los comentarios de los clientes para el viernes.
+boil the ocean | intentar lo imposible, abarcar demasiado | Centrémonos primero en un mercado; no tiene sentido intentar abarcar demasiado.
+circle back | volver sobre el tema, retomar | Buena pregunta, Omar; ¿podemos volver sobre eso después de la revisión del presupuesto?
+low-hanging fruit | fruta al alcance de la mano, logros fáciles | Antes de rediseñar todo el sitio, vayamos a lo fácil y arreglemos los enlaces rotos.
+move the needle | marcar la diferencia, mover la aguja | Un logo nuevo está bien, pero no va a marcar una verdadera diferencia en las ventas.
+paradigm shift | cambio de paradigma | El trabajo remoto ha provocado un cambio de paradigma en cómo las empresas ven las oficinas.
+value-add | valor añadido | Nuestro verdadero valor añadido es el apoyo personal que damos a cada cliente tras la venta.
+## Jerga de reuniones
+drill down | profundizar, entrar en detalles | Profundicemos en los números para averiguar qué región está perdiendo dinero.
+deep dive | análisis profundo, inmersión | La semana que viene haremos un análisis profundo sobre por qué los clientes cancelan sus suscripciones.
+take something offline | hablarlo en privado, tratarlo fuera de la reunión | Esto se está poniendo demasiado detallado para todos, así que vamos a hablarlo fuera de la reunión.
+ping | dar un toque, escribir un mensaje rápido | Escríbeme un mensaje rápido cuando el archivo esté listo y lo revisaré de inmediato.
+heads-up | aviso previo, alerta | Gracias por el aviso previo sobre la auditoría; prepararé los archivos esta noche.
+all-hands | reunión general de toda la empresa | El director ejecutivo anunció la fusión en una reunión general el jueves por la mañana.
+parking lot | lista de temas pendientes, aparcamiento | Es un buen punto, pero pongámoslo en la lista de pendientes y volvamos al orden del día.
+alignment | alineación, sintonía | Necesitamos una alineación total entre ventas y marketing antes de que empiece la campaña.
+run it up the flagpole | sondear la opinión, probar la reacción | Es solo una idea preliminar, pero vamos a sondearla para ver qué reacción causa.
+bikeshedding | discutir sobre naderías, perderse en detalles triviales | Pasamos cuarenta minutos discutiendo sobre naderías en torno al color de un botón que nadie va a notar.
+## Jerga de la vida de oficina
+water-cooler chat | charla de pasillo, cotilleo de oficina | La mayoría de las noticias reales en esta empresa se extienden mediante charlas de pasillo.
+hot-desking | puestos de trabajo rotativos, hot-desking | Desde el cambio a los puestos rotativos, nadie encuentra un escritorio cerca de la ventana.
+busywork | trabajo de relleno, tarea insulsa | La becaria pasó su primera semana haciendo tareas de relleno como ordenar archivos viejos.
+presenteeism | presentismo | El presentismo es un problema real: la gente viene enferma solo para que se les vea en el escritorio.
+jobsworth | empleado burócrata y rígido | Un empleado inflexible de recepción no me dejó entrar sin una tarjeta de visitante.
+pen-pusher | tinterillo, empleado de oficina aburrido | Odia que lo traten como a un simple burócrata cuando tiene un título de ingeniería.
+wage slave | esclavo del salario | Omar se sentía como un esclavo del salario, trabajando sesenta horas a semana para una empresa que no le importaba.
+grind | la rutina diaria, la esclavitud laboral | Me temo que mañana volvemos a la rutina diaria.
+clock-watcher | mirador de relojes, empleado deseoso de irse | Diego está siempre pendiente del reloj; a las cinco menos cinco ya tiene el abrigo puesto.
+dogsbody | el que hace el trabajo sucio, chico para todo | Como el miembro más nuevo del equipo, fui el chico para todo de todos durante meses.
+## Jerga de carrera y gestión
+golden handcuffs | esposas de oro, incentivos de retención | El plan de primas funciona como unas esposas de oro: si te vas antes de tiempo, lo pierdes todo.
+golden parachute | indemnización millonaria de salida, paracaídas dorado | Los accionistas estaban furiosos por el paracaídas dorado del director ejecutivo tras el fracaso de la fusión.
+high-flyer | empleado brillante y ambicioso | A Ali se le consideraba un empleado muy brillante y se convirtió en gerente antes de los treinta.
+deadwood | madera podrida, personal improductivo | El nuevo director prometió eliminar al personal improductivo de todos los departamentos.
+rightsizing | reestructuración de plantilla, dimensionamiento adecuado | El memorando lo llamó reestructuración, pero todos sabían que significaba despidos.
+glass ceiling | techo de cristal | Fue la primera mujer en la empresa en romper el techo de cristal.
+rainmaker | conseguidor de clientes, lobbista | Todo bufete de abogados quiere a un conseguidor que atraiga a grandes clientes.
+corner office | despacho principal, despacho de la alta dirección | Tras quince años de duro trabajo, Emre por fin consiguió el despacho principal.
+yes-man | pelota, adulador | El nuevo gerente se rodeó de aduladores que nunca lo cuestionaban.
+garden leave | baja retribuida previa a la salida, permiso retribuido | Tras dimitir, a Yuki la pusieron en permiso retribuido para que no pudiera llevarse clientes a la competencia.
+## Lenguaje de desarrollo de software
+codebase | base de código | La base de código es tan antigua que nadie se atreve a tocar el módulo de pagos.
+refactor | refactorizar, reorganizar el código | Antes de añadir nuevas funciones, deberíamos refactorizar esta función desordenada.
+legacy code | código heredado, código antiguo | María pasó todo el ciclo depurando código heredado escrito hace quince años.
+technical debt | deuda técnica | Cada atajo que tomamos ahora aumenta nuestra deuda técnica más adelante.
+hotfix | parche urgente, corrección rápida | Lanzamos un parche urgente a medianoche después de que la página de inicio de sesión dejara de funcionar.
+roll back | revertir, volver a la versión anterior | La actualización hizo colgar la aplicación, así que tuvimos que revertirla a la versión anterior.
+deploy | desplegar, poner en producción | Nunca desplegamos los viernes, porque nadie quiere arreglar errores en fin de semana.
+pull request | solicitud de extracción, petición de integración | Por favor, abre una solicitud de extracción para que el resto del equipo pueda revisar tus cambios.
+backlog | cartera de tareas pendientes, lista de pendientes | La cartera de tareas tiene ahora más de trescientos tickets que nadie ha mirado.
+scope creep | ampliación descontrolada del alcance | Gracias a la ampliación descontrolada del alcance, un proyecto de dos semanas ha tardado cuatro meses.
+## Errores y depuración
+edge case | caso límite, situación extrema | La aplicación funciona bien hasta que alguien introduce un nombre con apóstrofo, un caso límite clásico.
+workaround | solución temporal, rodeo | Aún no hay solución oficial, pero existe un rodeo: exporta el archivo como texto primero.
+kludge | chapuza informática, solución improvisada | Todo el sistema se sostiene gracias a una chapuza que solo Camille entiende.
+spaghetti code | código espagueti, código enrevesado | Nadie quiere mantener ese código espagueti, así que lleva años sin actualizarse.
+regression | regresión, fallo reaparecido | La nueva actualización introdujo una regresión: el botón de exportar ya no funciona.
+race condition | condición de carrera | Resultó que los cuelgues aleatorios se debían a una condición de carrera entre dos hilos.
+memory leak | fuga de memoria | Al cabo de unas horas el servidor se ralentiza, lo que sugiere una fuga de memoria.
+stack trace | registro de la pila de llamadas, traza de error | Por favor, pega la traza de error completa en el ticket para que podamos ver dónde falló.
+rubber duck debugging | depuración por el método del patito de goma | La depuración por el patito de goma funciona: explicar el código en voz alta suele revelar el error.
+dogfooding | comerse la propia comida, usar el propio producto | Usar nuestro propio producto nos ayudó a encontrar docenas de molestos errores antes que los clientes.
+## Soporte técnico y jerga de usuario
+power user | usuario avanzado | Los usuarios avanzados quieren atajos de teclado, no botones más coloridos.
+end user | usuario final | La interfaz debe ser lo suficientemente simple para un usuario final sin formación técnica.
+technophobe | tecnófobo | Mi tío es un tecnófobo orgulloso que todavía se niega a tener un teléfono inteligente.
+factory reset | restablecimiento de fábrica | Si nada más funciona, un restablecimiento de fábrica borrará el teléfono y lo dejará como nuevo.
+admin rights | permisos de administrador | No puedes instalar ese software sin permisos de administrador en tu portátil.
+outage | caída del servicio, apagón | Un apagón de seis horas dejó a miles de clientes sin poder acceder a sus cuentas.
+sysadmin | administrador de sistemas | Pídele al administrador de sistemas que restablezca tu contraseña; es la única con acceso.
+helpdesk | mesa de ayuda, servicio técnico | He abierto una incidencia en la mesa de ayuda, pero aún no han respondido.
+user error | error de usuario | El ingeniero sonrió educadamente y dijo que el problema era un error de usuario.
+turn it off and on again | apagarlo y volverlo a encender | Antes de llamar a soporte técnico, ¿has probado a apagarlo y volverlo a encender?
+## El mundo de las empresas emergentes
+unicorn | empresa unicornio, startup valorada en mil millones | En tres años, la pequeña aplicación de reparto de comida se había convertido en un unicornio.
+angel investor | inversor ángel, inversor providencial | Un ingeniero jubilado se convirtió en su primer inversor ángel aportando cincuenta mil libras.
+runway | margen de tesorería, autonomía financiera | Con nuestros ahorros actuales nos quedan unos ocho meses de margen de tesorería.
+burn rate | tasa de quema de efectivo | A los inversores les preocupaba la tasa de quema de efectivo de la empresa, de dos millones al mes.
+bootstrap | financiarse con recursos propios, autofinanciarse | Autofinanciaron el negocio desde la mesa de su cocina durante los primeros dos años.
+seed round | ronda de financiación inicial, ronda semilla | Los fundadores recaudaron medio millón en su ronda semilla.
+exit strategy | estrategia de salida | Todos los inversores hacían la misma pregunta: ¿cuál es vuestra estrategia de salida?
+scale up | escalar, ampliar el negocio | El reto ahora es escalar la producción sin perder calidad.
+disrupt | revolucionar, transformar radicalmente | Cada nueva empresa emergente afirma que va a revolucionar todo un sector.
+minimum viable product | producto mínimo viable (PMV) | Lanza primero un producto mínimo viable y luego mejóralo basándote en comentarios reales.
+## Jerga del dinero
+dough | pasta, guita | Está ganando un montón de pasta desde que empezó a trabajar como autónomo.
+a pretty penny | un ojo de la cara, una fortuna | Restaurar esa antigua masía debió de costarles un ojo de la cara.
+nickel-and-dime | tacañear, sangrar a base de pequeños recargos | Las aerolíneas de bajo coste sangran a los pasajeros con tarifas por todo, desde el asiento hasta los aperitivos.
+peanuts | una miseria, cuatro perras | Los becarios de esa agencia trabajan muchas horas y cobran una miseria.
+rolling in it | forrado, nadando en la abundancia | Desde que vendió su empresa, Diego está nadando en la abundancia.
+hard up | sin blanca, pasando apuros económicos | Estaban muy sin blanca cuando los niños eran pequeños.
+cash-in-hand | en negro, cobrado en mano | Los fines de semana hace trabajos cobrados en mano, como pintar pisos y arreglar vallas.
+pony up | soltar la pasta, aflojar el bolsillo | Si quieres las funciones prémium, tendrás que soltar otros diez dólares al mes.
+break the bank | arruinarse, costar un dineral | Un fin de semana junto al mar no te arruinará si reservamos con antelación.
+cheapskate | tacaño, roñoso | No seas tan tacaño; te toca invitar al café.
+## Jerga corporativa y cotidiana del dinero
+rainy day fund | fondo para días de lluvia, ahorros para imprevistos | Las reparaciones del coche salieron directamente de nuestros ahorros para imprevistos.
+highway robbery | un robo a mano armada, un timo | Doce dólares por un sándwich en el aeropuerto es un robo a mano armada.
+creative accounting | contabilidad creativa | Los beneficios parecían impresionantes, pero eran principalmente el resultado de la contabilidad creativa.
+ballpark figure | cifra aproximada, cálculo estimado | No necesito un presupuesto exacto, dame solo una cifra aproximada.
+back-of-the-envelope | cálculo rápido en una servilleta, estimado a ojo | Un cálculo rápido a ojo demuestra que el plan no va a ser rentable.
+bean counter | contable tacaño, obsesionado con los números | Los contables de la oficina central volvieron a recortar nuestro presupuesto de formación.
+cook the books | manipular las cuentas, falsificar los libros de contabilidad | El director financiero fue detenido por manipular las cuentas durante años.
+slush fund | caja B, fondo reservado | Los investigadores descubrieron una caja B secreta utilizada para sobornar a funcionarios.
+kickback | soborno, comisión ilegal | El contratista fue acusado de pagar comisiones ilegales para ganar el contrato del hospital.
+fat cat | pez gordo, directivo forrado | Al personal le indignaba que los peces gordos de la junta directiva cobrasen primas mientras los sueldos estaban congelados.
