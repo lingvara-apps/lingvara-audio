@@ -1,0 +1,111 @@
+# UNIT: City and transport | Places, directions, public transport, travel, nature
+## In town
+cadde | avenue; main street | isim | Bu cadde çok kalabalık. | This street is very crowded.
+sokak | street | isim | Bizim sokak çok sessiz. | Our street is very quiet.
+meydan | square (in a town) | isim | Meydanda buluşalım. | Let's meet in the square.
+park | park | isim | Çocuklar parkta oynuyor. | The children are playing in the park.
+köprü | bridge | isim | Köprüden Asya'ya geçtik. | We crossed the bridge to Asia.
+cami | mosque | isim | Bu cami çok eski ve güzel. | This mosque is very old and beautiful.
+çarşı | market area; shopping district | isim | Çarşıda baharat aldık. | We bought spices at the bazaar.
+mahalle | neighbourhood | isim | Mahallemizde güzel bir fırın var. | There's a nice bakery in our neighbourhood.
+merkez | centre | isim | Otelimiz şehir merkezinde. | Our hotel is in the city centre.
+bina | building | isim | Şu yüksek bina bir otel. | That tall building is a hotel.
+## Buildings and services
+hastane | hospital | isim | Hastane buraya uzak mı? | Is the hospital far from here?
+eczane | pharmacy; chemist's | isim | Köşede bir eczane var. | There's a pharmacy on the corner.
+okul | school | isim | Okul saat sekizde başlıyor. | School starts at eight.
+banka | bank | isim | Bankaya gitmem lazım. | I need to go to the bank.
+otel | hotel | isim | Otelimiz denize çok yakın. | Our hotel is very close to the sea.
+müze | museum | isim | Müze pazartesi kapalı. | The museum is closed on Mondays.
+sinema | cinema | isim | Akşam sinemaya gidelim mi? | Shall we go to the cinema tonight?
+kütüphane | library | isim | Kütüphanede ders çalışıyorum. | I study in the library.
+postane | post office | isim | Postane saat beşte kapanıyor. | The post office closes at five.
+üniversite | university | isim | Kardeşim üniversitede okuyor. | My brother is at university.
+## Directions
+sağ | right | isim | İkinci sokaktan sağa dönün. | Turn right at the second street.
+sol | left | isim | Banka solda. | The bank is on the left.
+düz | straight; flat | zarf | Düz gidin, sonra sağa dönün. | Go straight ahead, then turn right.
+ileri | forward; ahead | zarf | Biraz daha ileri gidin. | Go a bit further ahead.
+geri | back; backwards | zarf | Geri dönmemiz lazım. | We need to go back.
+yakın | near; close | sıfat | Metro buraya çok yakın. | The metro is very close to here.
+uzak | far | sıfat | Havalimanı şehirden uzak. | The airport is far from the city.
+burada | here | zarf | Ben buradayım! | I'm here!
+orada | there | zarf | Durak orada, köprünün yanında. | The stop is there, next to the bridge.
+şurada | over there (pointing) | zarf | Taksi şurada bekliyor. | The taxi is waiting over there.
+## Finding the way
+yol | road; way | isim | Müzenin yolunu biliyor musun? | Do you know the way to the museum?
+harita | map | isim | Haritaya bakalım. | Let's look at the map.
+trafik ışığı | traffic light | isim | Trafik ışığından sola dönün. | Turn left at the traffic lights.
+kavşak | junction; crossroads | isim | Kavşaktan sonra durun. | Stop after the junction.
+dönmek | to turn; to return | fiil | Köşeden sağa dön. | Turn right at the corner.
+geçmek | to pass; to cross | fiil | Karşıya dikkatli geç. | Cross the road carefully.
+gitmek (gider) | to go | fiil · düzensiz | Yarın İzmir'e gidiyorum. | I'm going to Izmir tomorrow.
+gelmek (gelir) | to come | fiil · düzensiz | Bize ne zaman geliyorsun? | When are you coming to see us?
+devam etmek | to continue; to keep going | fiil | Düz devam edin. | Keep going straight on.
+kaybolmak | to get lost; to disappear | fiil | Eski şehirde kaybolduk. | We got lost in the old town.
+## Public transport
+otobüs | bus | isim | Otobüs on dakikada bir geliyor. | The bus comes every ten minutes.
+metro | underground; metro | isim | Metroyla işe gidiyorum. | I go to work by metro.
+tramvay | tram | isim | Tramvay Sultanahmet'te duruyor. | The tram stops at Sultanahmet.
+vapur | ferry | isim | Vapurla Kadıköy'e geçelim. | Let's take the ferry to Kadıköy.
+dolmuş | dolmuş (shared minibus) | isim | Dolmuş daha ucuz ve hızlı. | The dolmuş is cheaper and faster.
+taksi | taxi | isim | Bir taksi çağırır mısınız? | Could you call a taxi?
+durak | stop (bus, tram) | isim | Bir sonraki durakta iniyorum. | I'm getting off at the next stop.
+istasyon | station | isim | İstasyon buraya yakın mı? | Is the station near here?
+bilet | ticket | isim | İki bilet, lütfen. | Two tickets, please.
+toplu taşıma | public transport | isim | İstanbul'da toplu taşıma kullanıyorum. | I use public transport in Istanbul.
+## Vehicles and traffic
+araba | car | isim | Arabam bugün serviste. | My car is in for a service today.
+bisiklet | bicycle | isim | Hafta sonu bisiklete biniyoruz. | We ride bikes at the weekend.
+motosiklet | motorbike | isim | Kuzenimin bir motosikleti var. | My cousin has a motorbike.
+kamyon | lorry; truck | isim | Yolda büyük bir kamyon var. | There's a big lorry on the road.
+uçak | plane | isim | Uçak saat üçte kalkıyor. | The plane takes off at three.
+tren | train | isim | Trenle Ankara'ya gittik. | We went to Ankara by train.
+gemi | ship | isim | Limanda büyük bir gemi var. | There's a big ship in the harbour.
+otopark | car park; parking lot | isim | Otopark tamamen dolu. | The car park is completely full.
+benzin | petrol; gasoline | isim | Benzin yine pahalandı. | Petrol has got more expensive again.
+trafik | traffic | isim | Akşamları trafik çok yoğun. | The traffic is very heavy in the evenings.
+## Travelling
+seyahat | trip; travel | isim | Seyahatin nasıl geçti? | How was your trip?
+yolculuk | journey | isim | Yolculuk altı saat sürdü. | The journey took six hours.
+havalimanı | airport | isim | Seni havalimanında bekliyorum. | I'll wait for you at the airport.
+otogar | coach station; bus terminal | isim | Otobüs otogardan kalkıyor. | The coach leaves from the bus terminal.
+bavul | suitcase | isim | Bavulum çok ağır. | My suitcase is very heavy.
+pasaport | passport | isim | Pasaportunu unutma! | Don't forget your passport!
+turist | tourist | isim | Kapadokya'da çok turist var. | There are lots of tourists in Cappadocia.
+gezmek | to travel around; to stroll; to sightsee | fiil | Bugün eski şehri gezdik. | Today we explored the old town.
+binmek | to get on; to ride | fiil | Otobüse nereden biniyoruz? | Where do we get on the bus?
+inmek | to get off; to go down | fiil | Taksim'de inmemiz lazım. | We need to get off at Taksim.
+## Nature
+doğa | nature | isim | Hafta sonu doğada yürüdük. | We walked in the countryside at the weekend.
+deniz | sea | isim | Deniz bugün çok sakin. | The sea is very calm today.
+göl | lake | isim | Gölün etrafında yürüyelim. | Let's walk around the lake.
+nehir | river | isim | Nehir şehrin ortasından geçiyor. | The river runs through the middle of the city.
+dağ | mountain | isim | Kışın dağa kayağa gidiyoruz. | In winter we go skiing in the mountains.
+orman | forest | isim | Ormanda kamp yaptık. | We camped in the forest.
+ada | island | isim | Adaya vapurla gittik. | We went to the island by ferry.
+plaj | beach | isim | Plaj otelin hemen önünde. | The beach is right in front of the hotel.
+sahil | coast; seaside | isim | Sahilde yürüyüş yaptık. | We went for a walk along the coast.
+vadi | valley | isim | Vadide balonla uçtuk. | We flew over the valley in a balloon.
+## Weather
+hava | weather; air | isim | Bugün hava nasıl? | What's the weather like today?
+güneş | sun | isim | Güneş çok sıcak, şapka tak. | The sun is very hot, wear a hat.
+yağmur | rain | isim | Dışarıda yağmur var. | It's raining outside.
+kar | snow | isim | Çocuklar karda oynuyor. | The children are playing in the snow.
+rüzgâr | wind | isim | Bugün çok rüzgâr var. | It's very windy today.
+bulut | cloud | isim | Gökyüzünde hiç bulut yok. | There isn't a single cloud in the sky.
+derece | degree | isim | Bugün otuz derece. | It's thirty degrees today.
+şemsiye | umbrella | isim | Şemsiyeni yanına al. | Take your umbrella with you.
+fırtına | storm | isim | Gece büyük bir fırtına çıktı. | A big storm broke out at night.
+yağmak | to fall (rain, snow) | fiil | Bütün gün kar yağdı. | It snowed all day.
+## Countryside
+köy | village | isim | Dedemin köyü çok güzel. | My grandfather's village is very beautiful.
+ağaç | tree | isim | Bahçede büyük bir ağaç var. | There's a big tree in the garden.
+çiçek | flower | isim | Anneme çiçek aldım. | I bought my mum flowers.
+taş | stone | isim | Bu ev taştan yapılmış. | This house is made of stone.
+toprak | soil; earth; land | isim | Toprak yağmurdan sonra ıslak. | The soil is wet after the rain.
+gökyüzü | sky | isim | Gökyüzü masmavi. | The sky is bright blue.
+yıldız | star | isim | Köyde gece çok yıldız var. | You can see lots of stars at night in the village.
+tepe | hill; top | isim | Tepeden şehir çok güzel görünüyor. | The city looks beautiful from the hill.
+mağara | cave | isim | Kapadokya'da mağara otelde kaldık. | We stayed in a cave hotel in Cappadocia.
+manzara | view; scenery | isim | Balkondan manzara harika. | The view from the balcony is amazing.

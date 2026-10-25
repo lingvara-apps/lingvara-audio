@@ -1,0 +1,111 @@
+# UNIT: Shopping and clothes | Money, colours, clothes, body, health
+## Money
+para | money | isim | Yanımda hiç para yok. | I don't have any money on me.
+lira | lira (Turkish currency) | isim | Bu tişört yüz elli lira. | This T-shirt is a hundred and fifty lira.
+kuruş | kuruş (1/100 of a lira) | isim | Elli kuruş eksik. | It's fifty kuruş short.
+fiyat | price | isim | Fiyatı biraz yüksek. | The price is a bit high.
+ucuz | cheap | sıfat | Pazarda meyve daha ucuz. | Fruit is cheaper at the market.
+pahalı | expensive | sıfat | Bu çanta çok pahalı. | This bag is very expensive.
+indirim | discount; sale | isim | Bu hafta büyük indirim var. | There's a big sale this week.
+nakit | cash | isim | Nakit mi, kartla mı? | Cash or card?
+kredi kartı | credit card | isim | Kredi kartı geçiyor mu? | Do you take credit cards?
+bozuk para | change; coins | isim | Bozuk paranız var mı? | Do you have any change?
+## In the shop
+mağaza | shop; store | isim | Bu mağaza saat onda açılıyor. | This shop opens at ten.
+dükkân | small shop | isim | Köşedeki dükkân kapalı. | The shop on the corner is closed.
+alışveriş | shopping | isim | Cumartesi alışverişe gidelim. | Let's go shopping on Saturday.
+kasa | till; checkout | isim | Kasa nerede? | Where's the checkout?
+beden | size (clothes); body | isim | Bunun bir büyük bedeni var mı? | Do you have this in a bigger size?
+fiş | receipt | isim | Fişi atmayın, lütfen. | Please don't throw away the receipt.
+satın almak | to buy | fiil | Yeni bir telefon satın aldım. | I bought a new phone.
+ödemek | to pay | fiil | Kartla ödeyebilir miyim? | Can I pay by card?
+kaç para | how much (is it)? | ifade | Bu ayakkabı kaç para? | How much are these shoes?
+değiştirmek | to change; to exchange | fiil | Bu gömleği değiştirebilir miyim? | Can I exchange this shirt?
+## Clothes
+elbise | dress; clothes | isim | Düğün için yeni bir elbise aldım. | I bought a new dress for the wedding.
+gömlek | shirt | isim | Beyaz gömleğim ütülü mü? | Is my white shirt ironed?
+pantolon | trousers; pants | isim | Bu pantolon biraz uzun. | These trousers are a bit long.
+etek | skirt | isim | Kırmızı etek sana çok yakışmış. | The red skirt really suits you.
+tişört | T-shirt | isim | Yazın hep tişört giyerim. | I always wear T-shirts in summer.
+ceket | jacket | isim | Ceketini almayı unutma. | Don't forget to take your jacket.
+mont | coat; winter jacket | isim | Hava soğuk, montunu giy. | It's cold, put on your coat.
+kazak | jumper; sweater | isim | Anneannem bana kazak ördü. | My grandma knitted me a jumper.
+şort | shorts | isim | Plaja şortla gittim. | I went to the beach in shorts.
+kot | jeans; denim | isim | Rahat bir kot pantolon arıyorum. | I'm looking for comfortable jeans.
+## Shoes and accessories
+ayakkabı | shoe; shoes | isim | Yeni ayakkabılarım biraz dar. | My new shoes are a bit tight.
+çorap | sock; socks | isim | Kışın kalın çorap giyerim. | I wear thick socks in winter.
+şapka | hat | isim | Güneşte şapka tak. | Wear a hat in the sun.
+eldiven | gloves | isim | Eldivenlerimi otobüste unuttum. | I left my gloves on the bus.
+atkı | scarf (winter) | isim | Yün bir atkı aldım. | I bought a woollen scarf.
+kemer | belt | isim | Bu kemer bana büyük. | This belt is too big for me.
+gözlük | glasses | isim | Gözlüğüm nerede? | Where are my glasses?
+takım elbise | suit | isim | Düğünde takım elbise giydi. | He wore a suit at the wedding.
+bot | boots | isim | Karda bot giymek lazım. | You need to wear boots in the snow.
+pijama | pyjamas | isim | Çocuklar pijamalarını giydi. | The children put on their pyjamas.
+## Wearing and trying on
+giymek | to wear; to put on | fiil | Bugün ne giyeceğim? | What am I going to wear today?
+çıkarmak | to take off; to remove | fiil | Evde ayakkabılarını çıkar. | Take your shoes off in the house.
+takmak | to put on (accessories); to attach | fiil | Kolye takmayı sever. | She likes wearing necklaces.
+yakışmak | to suit; to look good on | fiil | Bu renk sana çok yakışıyor. | This colour really suits you.
+beğenmek | to like (something) | fiil | Bu ceketi çok beğendim. | I really like this jacket.
+dar | tight; narrow | sıfat | Bu pantolon bana dar. | These trousers are tight on me.
+bol | loose; plenty | sıfat | Kazak biraz bol oldu. | The jumper is a bit loose.
+kısa | short | sıfat | Etek çok kısa. | The skirt is too short.
+uzun | long; tall | sıfat | Uzun bir mont arıyorum. | I'm looking for a long coat.
+şık | stylish; smart | sıfat | Bugün çok şıksın! | You look very smart today!
+## Colours and materials
+renk | colour | isim | En sevdiğin renk ne? | What's your favourite colour?
+gri | grey | sıfat | Gri bir kazak aldım. | I bought a grey jumper.
+lacivert | navy blue | sıfat | Lacivert takım elbise çok şık. | The navy suit is very smart.
+bej | beige | sıfat | Bej pantolon her şeye uyar. | Beige trousers go with everything.
+açık | open; light (colour) | sıfat | Açık mavi gömlek sana yakışır. | A light blue shirt would suit you.
+koyu | dark (colour); thick | sıfat | Koyu yeşil bir mont istiyorum. | I want a dark green coat.
+çizgili | striped | sıfat | Çizgili tişörtü beğendim. | I like the striped T-shirt.
+pamuk | cotton | isim | Bu gömlek yüzde yüz pamuk. | This shirt is a hundred per cent cotton.
+deri | leather; skin | isim | Deri ceket çok pahalı. | The leather jacket is very expensive.
+yün | wool | isim | Yün çoraplar çok sıcak tutar. | Woollen socks keep you very warm.
+## The body (1)
+vücut | body | isim | Spor vücut için çok iyi. | Exercise is very good for the body.
+baş | head | isim | Başım çok ağrıyor. | I have a bad headache.
+kafa | head (informal); mind | isim | Kafamı kapıya çarptım. | I hit my head on the door.
+boyun | neck | isim | Boynum tutuldu. | I've got a stiff neck.
+göz | eye | isim | Gözlerin çok güzel. | Your eyes are very beautiful.
+kulak | ear | isim | Kulağım ağrıyor. | My ear hurts.
+burun | nose | isim | Burnum akıyor. | My nose is running.
+ağız | mouth | isim | Ağzını aç, lütfen. | Open your mouth, please.
+saç | hair | isim | Saçını kestirdin mi? | Have you had your hair cut?
+diş | tooth | isim | Dişlerini fırçaladın mı? | Have you brushed your teeth?
+## The body (2)
+el | hand | isim | Yemekten önce ellerini yıka. | Wash your hands before eating.
+kol | arm | isim | Kolum çok yoruldu. | My arm is very tired.
+bacak | leg | isim | Futbol oynarken bacağım incindi. | I hurt my leg playing football.
+ayak | foot | isim | Ayaklarım çok üşüyor. | My feet are freezing.
+parmak | finger; toe | isim | Parmağımı bıçakla kestim. | I cut my finger with a knife.
+omuz | shoulder | isim | Omzum çok ağrıyor. | My shoulder really hurts.
+sırt | back (body) | isim | Sırtım ağrıyor, çok oturdum. | My back hurts, I've been sitting too long.
+karın | belly; stomach (outside) | isim | Bebeğin karnı tok. | The baby's tummy is full.
+mide | stomach | isim | Midem boş, bir şey yiyelim. | My stomach is empty, let's eat something.
+kalp | heart | isim | Kalbim hızlı atıyor. | My heart is beating fast.
+## Health
+hasta | ill; sick; patient | sıfat | Bugün hastayım, işe gitmiyorum. | I'm ill today, I'm not going to work.
+ağrı | pain; ache | isim | Dişimde bir ağrı var. | I have a pain in my tooth.
+ateş | fever; fire | isim | Çocuğun ateşi var. | The child has a temperature.
+öksürük | cough | isim | Öksürüğüm hâlâ geçmedi. | My cough still hasn't gone away.
+nezle | cold (illness) | isim | Galiba nezle oldum. | I think I've caught a cold.
+grip | flu | isim | Kışın herkes grip oluyor. | Everyone gets the flu in winter.
+ilaç | medicine | isim | Bu ilacı günde iki kez iç. | Take this medicine twice a day.
+sağlık | health | isim | Sağlık her şeyden önemli. | Health is more important than anything.
+sağlıklı | healthy | sıfat | Sağlıklı yemek yemeye çalışıyorum. | I try to eat healthily.
+yorgun | tired | sıfat | Bugün çok yorgunum. | I'm very tired today.
+## How do you feel?
+ağrımak | to ache; to hurt | fiil | Başım ağrıyor. | I have a headache.
+acımak | to hurt; to feel sorry for | fiil | Bacağım çok acıyor. | My leg really hurts.
+üşümek | to feel cold | fiil | Üşüyorum, pencereyi kapat. | I'm cold, close the window.
+dinlenmek | to rest | fiil | Biraz dinlenmen lazım. | You need to rest a bit.
+iyileşmek | to get better; to recover | fiil | Çabuk iyileş! | Get well soon!
+hastalanmak | to get ill | fiil | Yağmurda yürüdüm, hastalandım. | I walked in the rain and got ill.
+öksürmek | to cough | fiil | Bütün gece öksürdüm. | I coughed all night.
+hissetmek | to feel | fiil | Kendini nasıl hissediyorsun? | How are you feeling?
+başım dönüyor | I feel dizzy | ifade | Başım dönüyor, oturmam lazım. | I feel dizzy, I need to sit down.
+midem bulanıyor | I feel sick; I feel nauseous | ifade | Gemide midem bulanıyor. | I feel sick on boats.
