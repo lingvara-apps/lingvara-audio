@@ -11,6 +11,8 @@ CNAME = {"en": "English", "es": "Spanish", "de": "German", "fr": "French", "it":
          "ja": "Japanese", "ko": "Korean", "zh": "Chinese", "ar": "Arabic", "tr": "Turkish"}[C]
 ORDER = [l for l in ["en", "de", "es", "fr", "pt", "ru", "zh", "id", "az", "ar", "hi", "uz", "kk", "ky"] if l != C]
 _sh, _n = (int(x) for x in os.environ.get("SHARD", "0/1").split("/"))
+if C == "tr":  # Türkçe kursu: kaynak anlamlar İngilizce → İngilizce hedef yok
+    ORDER = [l for l in ORDER if l != "en"]
 ORDER = ORDER[_sh::_n]
 LANGS = {
     "en": "English (neutral international English)",
@@ -22,7 +24,10 @@ LANGS = {
     "uz": "Uzbek (Latin script; use ʻ U+02BB in oʻ gʻ and ʼ U+02BC for the apostrophe)",
     "kk": "Kazakh (Cyrillic)", "ky": "Kyrgyz (Cyrillic)",
 }
-RULES = open("rules.md", encoding="utf-8").read().replace("English course", f"{CNAME} course").replace(
+_R = open("rules.md", encoding="utf-8").read()
+if C == "tr":  # roller yer değiştirir: başlık/örnek Türkçe, anlam/çeviri İngilizce
+    _R = _R.replace("English", "\0").replace("Turkish", "English").replace("\0", "Turkish")
+RULES = _R.replace("English course", f"{CNAME} course").replace(
     "English headword", f"{CNAME} headword").replace("English example", f"{CNAME} example")
 
 
