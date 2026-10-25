@@ -1,0 +1,111 @@
+# UNIT: Geografie und Geologie | Landschaftsformen, Gewässer, Klimazonen, Karten
+## Landschaftsformen
+plateau | Hochebene, Plateau | Das Dorf liegt auf einer Hochebene, auf der die Winter lang und trocken sind.
+gorge | Schlucht, Felsenschlucht | Der Fluss hat eine tiefe Schlucht in die Kalksteinhügel gegraben.
+ravine | Klamm, Tobel | Die Wanderer mussten in eine schmale Klamm hinabsteigen, um den Bach zu erreichen.
+escarpment | Steilhang, Schichtstufe | Von der Spitze des Steilhangs aus kann man die gesamte Küstenebene sehen.
+ridge | Bergrücken, Gebirgskamm | Wir wanderten stundenlang am Bergrücken entlang, mit Tälern zu beiden Seiten.
+foothills | Vorgebirge, Ausläufer | Kleine Bauernhöfe liegen verstreut im Vorgebirge unterhalb der schneebedeckten Gipfel.
+mesa | Tafelberg | In der Wüste erhob sich ein Tafelberg mit flacher Kuppe steil über die Ebene.
+outcrop | Felsvorsprung, Aufschluss | Geologen nahmen Proben von einem Felsvorsprung nahe der Straße.
+promontory | Landspitze, Felskap | Auf einer windigen Landspitze mit Blick über die Bucht steht ein alter Leuchtturm.
+lowlands | Tiefland, Niederung | Das fruchtbare Tiefland wird nach heftigen Frühlingsregenfällen oft überflutet.
+## Küsten und Inseln
+peninsula | Halbinsel | Die Stadt liegt an der Spitze einer langen, schmalen Halbinsel.
+isthmus | Landenge, Isthmus | Quer durch die Landenge wurde ein Kanal gegraben, um den Seeweg zu verkürzen.
+archipelago | Archipel, Inselgruppe | Der Archipel besteht aus mehr als zweihundert kleinen Inseln.
+atoll | Atoll | Das Atoll ist ein Korallenring, der eine seichte Lagune umschließt.
+lagoon | Lagune, Strandsee | Fischer lassen ihre Boote in der ruhigen Lagune hinter dem Riff liegen.
+cove | kleine Bucht, Bucht | Wir fanden eine ruhige Bucht, in der sonst niemand schwamm.
+inlet | Meeresarm, schmale Bucht | Die Yacht suchte vor dem Sturm in einem schmalen Meeresarm Schutz.
+fjord | Fjord | Steile Klippen ragen zu beiden Seiten des Fjords empor.
+sandbar | Sandbank | Bei Ebbe taucht zwischen dem Strand und der kleinen Insel eine Sandbank auf.
+shoal | Untiefe, seichte Stelle | Der Kapitän steuerte vorsichtig, um die gefährlichen Untiefen nahe der Hafeneinfahrt zu meiden.
+## Fließgewässer
+tributary | Nebenfluss, Zufluss | Dutzende kleiner Nebenflüsse speisen den Hauptfluss.
+estuary | Mündungstrichter, Ästuar | Viele Vögel verbringen den Winter damit, im schlickigen Ästuar nach Nahrung zu suchen.
+delta | Flussdelta, Delta | Der Fluss verzweigt sich in unzählige Arme, sobald er das Delta erreicht.
+confluence | Zusammenfluss | Die alte Stadt wurde am Zusammenfluss zweier großer Flüsse erbaut.
+meander | Flussschlinge, Mäander | Aus dem Flugzeug konnten wir jede einzelne Flussschlinge weit unten sehen.
+floodplain | Überschwemmungsgebiet, Flussaue | Das Bauen von Häusern im Überschwemmungsgebiet ist inzwischen streng begrenzt.
+watershed | Einzugsgebiet, Wasserscheide | Verschmutzungen irgendwo im Wassereinzugsgebiet gelangen schließlich in den See.
+aquifer | Grundwasserleiter, Aquifer | Die Region ist fast vollständig auf einen uralten unterirdischen Grundwasserleiter angewiesen.
+oxbow lake | Altarmsee, Altwasser | Mit der Zeit änderte der Fluss seinen Lauf und hinterließ einen Altarmsee.
+rapids | Stromschnellen | Nur erfahrene Paddler sollten versuchen, diese Stromschnellen zu durchqueren.
+## Gletscher und Polargebiete
+permafrost | Permafrost, Dauerfrostboden | Das Auftauen des Permafrosts führt dazu, dass Straßen und Gebäude im Norden Risse bekommen.
+iceberg | Eisberg | Nur ein kleiner Teil eines Eisbergs ist über dem Wasser sichtbar.
+ice sheet | Eisschild, Inlandeis | Wissenschaftler bohren tief in den Eisschild, um das frühere Klima zu erforschen.
+moraine | Moräne | Der See wird von einer Moräne aufgestaut, die ein sich zurückziehender Gletscher hinterlassen hat.
+crevasse | Gletscherspalte | Die Bergsteiger seilten sich an, falls jemand in eine Gletscherspalte stürzen sollte.
+tundra | Tundra | In den kurzen Sommermonaten weiden Rentiere auf der Tundra.
+ice floe | Eisscholle | Ein Eisbär ruhte sich auf einer treibenden Eisscholle aus.
+snow line | Schneegrenze | Oberhalb der Schneegrenze bleibt der Boden das ganze Jahr über weiß.
+polar | polar | Die Polarregionen erwärmen sich schneller als fast jeder andere Ort auf dem Planeten.
+thaw | Tauwetter, Auftauen | Das Frühjahrstauwetter verwandelt die ruhigen Bäche in reißende Ströme.
+## Klimazonen
+equatorial | äquatorial | In äquatorialen Regionen herrschen hohe Temperaturen, und es regnet fast jeden Nachmittag.
+temperate | gemäßigt | Der Großteil des Landes genießt ein gemäßigtes Klima mit milden Sommern.
+arid | trocken, arid | Landwirtschaft unter solch ariden Bedingungen erfordert den sorgsamen Umgang mit jedem Tropfen Wasser.
+semi-arid | halbtrocken, semiarid | Halbtrockene Graslandschaften bedecken einen Großteil des Landesinneren.
+subtropical | subtropisch | Zitrusfrüchte gedeihen gut im subtropischen Süden der Region.
+monsoon | Monsun | Die Bauern warten jedes Jahr im Juni sehnsüchtig auf das Eintreffen des Monsuns.
+savanna | Savanne | Zebramerden ziehen auf der Suche nach frischem Gras durch die Savanne.
+steppe | Steppe | Über Jahrhunderte durchquerten Nomadenvölker die weite Steppe zu Pferd.
+rainforest | Regenwald | Der Regenwald beherbergt Tausende von Arten, die es nirgendwo sonst gibt.
+microclimate | Mikroklima | Das geschützte Tal hat sein eigenes Mikroklima, das wärmer ist als die umliegenden Hügel.
+## Atmosphäre und Wetterphänomene
+precipitation | Niederschlag | Der jährliche Niederschlag übersteigt hier selten zweihundert Millimeter.
+humidity | Luftfeuchtigkeit | Die Hitze war erträglich, aber die Luftfeuchtigkeit machte alle völlig erschöpft.
+prevailing wind | vorherrschender Wind, Hauptwind | Der vorherrschende Wind weht den Großteil des Jahres aus Westen.
+trade winds | Passatwinde | Segelschiffe verließen sich einst auf die Passatwinde, um den Ozean zu überqueren.
+jet stream | Jetstream, Strahlstrom | Eine Verschiebung des Jetstreams brachte ungewöhnlich kalte Luft in den Süden.
+rain shadow | Regenschatten | Die Ostseite der Berge liegt im Regenschatten und ist nahezu Wüste.
+evaporation | Verdunstung | Hohe Verdunstungsraten führen dazu, dass der See jeden Sommer schrumpft.
+condensation | Kondensation | Wolken entstehen durch die Kondensation von Wasserdampf in kühlerer Luft.
+cyclone | Zyklon, Wirbelsturm | Der Zyklon zwang Tausende Küstenbewohner, ihre Häuser zu verlassen.
+air mass | Luftmasse | Eine warme Luftmasse aus dem Süden wird ein paar Tage Sonnenschein bringen.
+## Karten und Kartografie
+latitude | Breitengrad, geografische Breite | Städte auf demselben Breitengrad können sehr unterschiedliche Klimate haben.
+longitude | Längengrad, geografische Länge | Seefahrer kämpften jahrhundertelang darum, den Längengrad auf See genau zu bestimmen.
+equator | Äquator | In Äquatornähe sind Tag und Nacht fast gleich lang.
+meridian | Meridian, Längenhalbkreis | Der Nullmeridian ist der Ausgangspunkt für die Messung der geografischen Länge.
+hemisphere | Halbkugel, Hemisphäre | Wenn auf der Nordhalbkugel Sommer ist, ist im Süden Winter.
+contour line | Höhenlinie | Wo die Höhenlinien dicht beieinanderliegen, ist das Gefälle sehr steil.
+topography | Topografie, Oberflächengestalt | Die zerklüftete Topografie machte den Bau einer Eisenbahn extrem teuer.
+cartographer | Kartograf, Kartografin | Frühe Kartografen füllten unbekannte Gebiete oft mit Fantasiewesen.
+grid reference | Koordinatenangabe, Gitterreferenz | Lukas gab dem Rettungsteam eine exakte Koordinatenangabe für den verletzten Kletterer.
+projection | Projektion, Kartennetzentwurf | Bei dieser Projektion wirken Länder nahe den Polen viel größer, als sie tatsächlich sind.
+## Aufbau der Erde
+crust | Erdkruste | Die Erdkruste ist unter den Ozeanen am dünnsten.
+mantle | Erdmantel | Wärme aus dem Erdmantel treibt langsam die Bewegung der Kontinente an.
+core | Erdkern | Man geht davon aus, dass der innere Erdkern eine feste Kugel aus Eisen und Nickel ist.
+fault line | Verwerfungslinie, Bruchlinie | Viele der größten Städte der Region liegen direkt an einer großen Verwerfungslinie.
+bedrock | Felsuntergrund, anstehendes Gestein | Die Fundamente des Turms wurden tief im Felsuntergrund verankert.
+lithosphere | Lithosphäre | Die Lithosphäre ist in große Platten zerbrochen, die sich jährlich um einige Zentimeter bewegen.
+lava | Lava | Glühende Lava floss langsam den Hang des Berges hinab.
+subduction | Subduktion | Subduktion tritt auf, wenn eine Platte unter eine andere gleitet.
+continental drift | Kontinentaldrift, Kontinentalverschiebung | Die Theorie der Kontinentalverschiebung wurde verspottet, als sie erstmals vorgeschlagen wurde.
+anticline | Antiklinale, Sattel (Geologie) | Erdöl sammelt sich oft im Scheitel einer Antiklinale, gefangen unter festem Gestein.
+## Gesteine und Minerale
+igneous | magmatisch, Erstarrungs- | Magmatische Gesteine entstehen, wenn geschmolzenes Material abkühlt und erstarrt.
+sedimentary | sedimentär, Sediment- | Die meisten Fossilien findet man in Sedimentgesteinen wie Tonschiefer.
+metamorphic | metamorph, Umwandlungs- | Marmor ist ein metamorphes Gestein, das unter Hitze und Druck aus Kalkstein entsteht.
+granite | Granit | Die alten Hafenmauern wurden aus massiven Blöcken grauen Granits erbaut.
+limestone | Kalkstein | Regenwasser löst Kalkstein langsam auf und bildet unterirdische Höhlen.
+basalt | Basalt | Der schwarze Sand an diesem Strand stammt von erodiertem Basalt.
+sandstone | Sandstein | Der antike Tempel wurde direkt in eine Wand aus rotem Sandstein geschlagen.
+slate | Schiefer, Schiefergestein | Viele alte Häuser im Dorf haben noch immer Schieferdächer.
+quartz | Quarz | Quarz ist eines der häufigsten Minerale in der Erdkruste.
+shale | Tonschiefer | Dünne Schichten aus Tonschiefer zerbrechen leicht in deiner Hand.
+## Natürliche Prozesse und Naturkatastrophen
+erosion | Erosion, Abtragung | Küstenerosion hat entlang dieses Klippenabschnitts bereits mehrere Häuser verschlungen.
+weathering | Verwitterung | Verwitterung durch Wind und Frost hat die Felsen zu sonderbaren Formen geformt.
+alluvial | alluvial, angeschwemmt | Der alluviale Boden an den Flussufern ist ideal für den Reisanbau.
+silt | Silt, Schlick | Nach der Flut waren die Felder von einer dicken Siltschicht bedeckt.
+sinkhole | Doline, Einsturzkrater | Mitten auf dem Feld des Bauern tat sich plötzlich eine riesige Doline auf.
+subsidence | Bodensenkung | Das Abpumpen von zu viel Grundwasser hat in der Stadt schwere Bodensenkungen verursacht.
+epicentre | Epizentrum | Das Epizentrum des Bebens lag etwa dreißig Kilometer vor der Küste.
+tremor | Erschütterung, Erdstoß | Aus Angst vor weiteren Erdstößen schliefen die Anwohner tagelang im Freien.
+fissure | Felsspalte, Spalte | Aus einer langen Spalte an der Flanke des Vulkans stiegen Dampf und Gas auf.
+geyser | Geysir | Jede Stunde schießt der Geysir eine kochend heiße Wassersäule in die Luft.
