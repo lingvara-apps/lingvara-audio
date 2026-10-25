@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım dünyası
+编程 (biānchéng) | programlama yapmak | fiil | 现在很多小学生也开始学编程了。 | Artık pek çok ilkokul öğrencisi de programlama öğrenmeye başladı.
+代码 (dàimǎ) | kod | isim | 他写的代码又短又清楚。 | Yazdığı kod hem kısa hem anlaşılır.
+测试 (cèshì) | test etmek | fiil | 新软件上线前要经过多次测试。 | Yeni yazılım yayına girmeden önce defalarca test edilmeli.
+升级 (shēngjí) | yükseltmek, güncellemek | fiil | 手机系统升级以后，运行快多了。 | Telefonun sistemi güncellendikten sonra çok daha hızlı çalışıyor.
+界面 (jièmiàn) | arayüz | isim | 这个应用的界面设计得很简单。 | Bu uygulamanın arayüzü çok sade tasarlanmış.
+数据库 (shùjùkù) | veritabanı | isim | 所有客户的信息都保存在数据库里。 | Tüm müşteri bilgileri veritabanında saklanıyor.
+兼容 (jiānróng) | uyumlu olmak | fiil | 这个程序和旧电脑不兼容。 | Bu program eski bilgisayarla uyumlu değil.
+运行 (yùnxíng) | çalışmak (program, makine) | fiil | 同时打开太多软件，电脑运行得很慢。 | Aynı anda çok fazla program açınca bilgisayar çok yavaş çalışıyor.
+卸载 (xièzài) | (programı) kaldırmak | fiil | 这个软件太占内存了，我把它卸载了。 | Bu program çok fazla bellek kaplıyordu, onu kaldırdım.
+补丁 (bǔdīng) | yama | isim | 公司发布了一个补丁来解决这个问题。 | Şirket bu sorunu çözmek için bir yama yayımladı.
+## İnternet güvenliği
+黑客 (hēikè) | hacker, bilgisayar korsanı | isim | 黑客攻击了这家公司的网站。 | Bilgisayar korsanları bu şirketin web sitesine saldırdı.
+网络安全 (wǎngluò ānquán) | siber güvenlik | isim | 网络安全问题越来越受到重视。 | Siber güvenlik sorunları giderek daha fazla önem kazanıyor.
+泄露 (xièlòu) | sızdırmak, sızmak | fiil | 很多用户的信息被泄露了。 | Pek çok kullanıcının bilgileri sızdırıldı.
+盗号 (dàohào) | hesap çalmak | fiil | 我的游戏账号被盗号了。 | Oyun hesabım çalındı.
+骚扰电话 (sāorǎo diànhuà) | rahatsız edici arama | isim | 我每天都会接到好几个骚扰电话。 | Her gün birkaç rahatsız edici arama alıyorum.
+身份 (shēnfèn) | kimlik | isim | 办理这个业务需要验证你的身份。 | Bu işlem için kimliğinizin doğrulanması gerekiyor.
+冒充 (màochōng) | -mış gibi davranmak, kılığına girmek | fiil | 有人冒充银行工作人员给我打电话。 | Biri banka çalışanı kılığına girerek beni aradı.
+上当 (shàngdàng) | kandırılmak, tuzağa düşmek | fiil | 这种骗局很常见，千万别上当。 | Bu tür dolandırıcılık çok yaygın, sakın kanma.
+举报 (jǔbào) | şikâyet etmek, ihbar etmek | fiil | 如果发现虚假信息，可以向平台举报。 | Sahte bilgi görürsen platforma bildirebilirsin.
+防范 (fángfàn) | önlem almak, korunmak | fiil | 老年人要学会防范网络诈骗。 | Yaşlılar internet dolandırıcılığına karşı önlem almayı öğrenmeli.
+## Yapay zekâ
+模型 (móxíng) | model | isim | 这个模型可以把中文翻译成很多种语言。 | Bu model Çinceyi pek çok dile çevirebiliyor.
+训练 (xùnliàn) | eğitmek, antrenman yapmak | fiil | 训练一个好的人工智能需要大量数据。 | İyi bir yapay zekâyı eğitmek büyük miktarda veri gerektirir.
+识别 (shíbié) | tanımak, ayırt etmek | fiil | 这个应用能识别各种植物。 | Bu uygulama her türlü bitkiyi tanıyabiliyor.
+语音助手 (yǔyīn zhùshǒu) | sesli asistan | isim | 我常常用语音助手设闹钟。 | Alarm kurmak için sık sık sesli asistanı kullanırım.
+无人驾驶 (wúrén jiàshǐ) | sürücüsüz (araç) | sıfat | 有些城市已经开始测试无人驾驶汽车了。 | Bazı şehirler sürücüsüz araçları test etmeye başladı bile.
+取代 (qǔdài) | yerini almak | fiil | 有人担心机器人会取代人类的工作。 | Bazıları robotların insanların işlerinin yerini alacağından endişe ediyor.
+生成 (shēngchéng) | üretmek, oluşturmak | fiil | 这个软件几秒钟就能生成一张图片。 | Bu yazılım birkaç saniyede bir resim oluşturabiliyor.
+机器学习 (jīqì xuéxí) | makine öğrenmesi | isim | 他的研究方向是机器学习。 | Araştırma alanı makine öğrenmesi.
+指令 (zhǐlìng) | komut, talimat | isim | 你只要说出指令，它就会自动开灯。 | Sadece komutu söylemen yeter, ışığı kendisi açar.
+图像 (túxiàng) | görüntü | isim | 这台相机拍出来的图像非常清楚。 | Bu fotoğraf makinesinin çektiği görüntüler çok net.
+## Uzay
+宇宙 (yǔzhòu) | evren | isim | 宇宙到底有多大，现在还没有答案。 | Evrenin ne kadar büyük olduğunun hâlâ bir cevabı yok.
+太空 (tàikōng) | uzay | isim | 他从小就梦想去太空旅行。 | Küçüklüğünden beri uzaya gitmeyi hayal ediyor.
+宇航员 (yǔhángyuán) | astronot | isim | 宇航员在空间站里生活了半年。 | Astronotlar uzay istasyonunda altı ay yaşadı.
+火箭 (huǒjiàn) | roket | isim | 这枚火箭将把卫星送上太空。 | Bu roket uyduyu uzaya taşıyacak.
+卫星 (wèixīng) | uydu | isim | 手机导航需要依靠卫星信号。 | Telefon navigasyonu uydu sinyaline dayanır.
+发射 (fāshè) | fırlatmak | fiil | 火箭将于明天早上八点发射。 | Roket yarın sabah saat sekizde fırlatılacak.
+行星 (xíngxīng) | gezegen | isim | 太阳系一共有八大行星。 | Güneş sisteminde toplam sekiz büyük gezegen var.
+月球 (yuèqiú) | Ay (gök cismi) | isim | 月球上没有空气，也没有水。 | Ay'da hava da yok, su da yok.
+火星 (huǒxīng) | Mars | isim | 科学家希望将来人类可以去火星生活。 | Bilim insanları gelecekte insanların Mars'ta yaşayabilmesini umuyor.
+轨道 (guǐdào) | yörünge; ray | isim | 卫星已经成功进入了轨道。 | Uydu başarıyla yörüngeye girdi.
+## Donanım ve cihazlar
+硬件 (yìngjiàn) | donanım | isim | 这台电脑的硬件已经有点儿老了。 | Bu bilgisayarın donanımı artık biraz eskidi.
+内存 (nèicún) | bellek, hafıza | isim | 我的手机内存不够了，得删掉一些照片。 | Telefonumun hafızası doldu, bazı fotoğrafları silmem lazım.
+硬盘 (yìngpán) | sabit disk | isim | 我把重要的文件都备份到移动硬盘里了。 | Önemli dosyaların hepsini harici diske yedekledim.
+显示器 (xiǎnshìqì) | monitör | isim | 我工作的时候用两个显示器。 | Çalışırken iki monitör kullanırım.
+扫描 (sǎomiáo) | taramak (belge) | fiil | 请把护照扫描以后发给我。 | Lütfen pasaportu tarayıp bana gönderin.
+投影仪 (tóuyǐngyí) | projeksiyon cihazı | isim | 会议室的投影仪坏了。 | Toplantı odasındaki projeksiyon cihazı bozuldu.
+路由器 (lùyóuqì) | modem, yönlendirici | isim | 网速太慢，我重启了一下路由器。 | İnternet çok yavaştı, modemi yeniden başlattım.
+数据线 (shùjùxiàn) | veri kablosu, şarj kablosu | isim | 你能借我一根手机数据线吗？ | Bana bir telefon kablosu ödünç verebilir misin?
+音箱 (yīnxiāng) | hoparlör | isim | 这个小音箱的声音特别好。 | Bu küçük hoparlörün sesi çok iyi.
+主机 (zhǔjī) | kasa (bilgisayar) | isim | 电脑主机放在桌子下面。 | Bilgisayar kasası masanın altında duruyor.
+## Dijital yaşam
+数字化 (shùzìhuà) | dijitalleşme | isim | 图书馆正在把古书数字化。 | Kütüphane eski kitapları dijitalleştiriyor.
+移动支付 (yídòng zhīfù) | mobil ödeme | isim | 在中国，移动支付非常普遍。 | Çin'de mobil ödeme çok yaygın.
+远程 (yuǎnchéng) | uzaktan | sıfat | 我们公司每周可以远程办公两天。 | Şirketimizde haftada iki gün uzaktan çalışabiliyoruz.
+线上 (xiànshàng) | çevrimiçi | isim | 这次会议在线上举行。 | Bu toplantı çevrimiçi yapılacak.
+线下 (xiànxià) | yüz yüze, fiziksel | isim | 我们先在网上聊，下个月再线下见面。 | Önce internetten konuşalım, gelecek ay yüz yüze görüşürüz.
+电子书 (diànzǐshū) | e-kitap | isim | 出门旅行时，我喜欢看电子书。 | Seyahate çıkınca e-kitap okumayı severim.
+智能家居 (zhìnéng jiājū) | akıllı ev | isim | 有了智能家居，用手机就能关灯。 | Akıllı ev sistemiyle ışıkları telefonla kapatabiliyorsun.
+共享 (gòngxiǎng) | paylaşmak, ortak kullanmak | fiil | 我们可以在网上共享这些文件。 | Bu dosyaları internet üzerinden paylaşabiliriz.
+网课 (wǎngkè) | çevrimiçi ders | isim | 疫情期间，学生们都在家上网课。 | Salgın döneminde öğrencilerin hepsi evden çevrimiçi derse girdi.
+电子邮箱 (diànzǐ yóuxiāng) | e-posta adresi | isim | 请把你的电子邮箱告诉我，我把资料发给你。 | E-posta adresini söyle de belgeleri sana göndereyim.
+## Teknolojik gelişme
+研发 (yánfā) | araştırma-geliştirme yapmak | fiil | 这家公司每年花很多钱研发新产品。 | Bu şirket her yıl yeni ürünler geliştirmeye çok para harcıyor.
+创新 (chuàngxīn) | yenilik yapmak; yenilik | fiil | 企业要发展，就必须不断创新。 | Bir şirket büyümek istiyorsa sürekli yenilik yapmalı.
+突破 (tūpò) | atılım, aşmak | isim | 科学家在这个领域取得了重大突破。 | Bilim insanları bu alanda büyük bir atılım gerçekleştirdi.
+普及 (pǔjí) | yaygınlaşmak | fiil | 智能手机已经在农村普及了。 | Akıllı telefonlar kırsalda da yaygınlaştı.
+淘汰 (táotài) | elemek, devre dışı kalmak | fiil | 这种老式手机早就被淘汰了。 | Bu eski tip telefonlar çoktan devre dışı kaldı.
+改进 (gǎijìn) | geliştirmek, iyileştirmek | fiil | 根据用户的意见，我们改进了产品。 | Kullanıcıların görüşlerine göre ürünü geliştirdik.
+控制 (kòngzhì) | kontrol etmek | fiil | 你可以用手机控制家里的空调。 | Evdeki klimayı telefonla kontrol edebilirsin.
+设计 (shèjì) | tasarlamak; tasarım | fiil | 这座大楼是一位年轻的建筑师设计的。 | Bu binayı genç bir mimar tasarladı.
+模仿 (mófǎng) | taklit etmek | fiil | 孩子很喜欢模仿大人说话。 | Çocuklar büyüklerin konuşmasını taklit etmeyi çok sever.
+实现 (shíxiàn) | gerçekleştirmek | fiil | 经过多年努力，他终于实现了自己的梦想。 | Yıllarca çabaladıktan sonra sonunda hayalini gerçekleştirdi.
+## Bilgisayar kullanımı
+文件夹 (wénjiànjiā) | klasör | isim | 我把照片都放在一个文件夹里了。 | Fotoğrafların hepsini bir klasöre koydum.
+格式 (géshì) | biçim, format | isim | 请把文件转换成这种格式再发给我。 | Lütfen dosyayı bu biçime dönüştürüp bana gönder.
+压缩 (yāsuō) | sıkıştırmak | fiil | 文件太大了，先压缩一下再发。 | Dosya çok büyük, önce sıkıştırıp sonra gönder.
+默认 (mòrèn) | varsayılan | sıfat | 这是系统的默认设置，你可以自己修改。 | Bu sistemin varsayılan ayarı, kendin değiştirebilirsin.
+快捷键 (kuàijiéjiàn) | kısayol tuşu | isim | 用快捷键工作可以节省很多时间。 | Kısayol tuşlarıyla çalışmak çok zaman kazandırır.
+刷新 (shuāxīn) | yenilemek (sayfa); kırmak (rekor) | fiil | 页面打不开的话，你刷新一下试试。 | Sayfa açılmazsa bir yenilemeyi dene.
+同步 (tóngbù) | eşitlemek, senkronize etmek | fiil | 手机和电脑上的照片会自动同步。 | Telefon ve bilgisayardaki fotoğraflar otomatik olarak eşitleniyor.
+缓存 (huǎncún) | önbellek | isim | 清理一下缓存，手机会快一点儿。 | Önbelleği temizlersen telefon biraz hızlanır.
+输入 (shūrù) | girmek (veri), yazmak | fiil | 请输入你的手机号码。 | Lütfen cep telefonu numaranızı girin.
+输出 (shūchū) | çıktı; dışarı aktarmak | fiil | 这个软件可以把表格输出成图片。 | Bu program tabloyu resim olarak dışa aktarabiliyor.
+## Teknoloji ve toplum
+信息时代 (xìnxī shídài) | bilgi çağı | isim | 在信息时代，学习的方法也改变了。 | Bilgi çağında öğrenme yöntemleri de değişti.
+网瘾 (wǎngyǐn) | internet bağımlılığı | isim | 有些孩子有严重的网瘾。 | Bazı çocuklarda ciddi internet bağımlılığı var.
+数码 (shùmǎ) | dijital (cihaz) | sıfat | 他特别喜欢买各种数码产品。 | Her türlü dijital ürünü almayı çok sever.
+低头族 (dītóuzú) | sürekli telefona bakanlar | isim | 地铁上到处都是低头族。 | Metroda her yer başı telefonda insanlarla dolu.
+便捷 (biànjié) | pratik, hızlı ve kolay | sıfat | 网上购物又便捷又便宜。 | İnternetten alışveriş hem pratik hem ucuz.
+高科技 (gāokējì) | yüksek teknoloji | isim | 这座新城市到处都是高科技产品。 | Bu yeni şehrin her yerinde yüksek teknoloji ürünleri var.
+智能化 (zhìnénghuà) | akıllı hâle getirme | isim | 家电越来越智能化了。 | Ev aletleri giderek daha akıllı hâle geliyor.
+网民 (wǎngmín) | internet kullanıcıları | isim | 中国是世界上网民最多的国家。 | Çin, dünyada en çok internet kullanıcısına sahip ülke.
+冲浪 (chōnglàng) | sörf yapmak; internette gezinmek | fiil | 爷爷现在也学会了上网冲浪。 | Dedem de artık internette gezinmeyi öğrendi.
+科技含量 (kējì hánliàng) | teknolojik içerik düzeyi | isim | 这款产品的科技含量很高。 | Bu ürünün teknoloji düzeyi çok yüksek.
+## Teknik nitelikler
+先进 (xiānjìn) | ileri, gelişmiş | sıfat | 这家医院有很多先进的设备。 | Bu hastanede çok sayıda gelişmiş cihaz var.
+落后 (luòhòu) | geri kalmış | sıfat | 这个地区的技术还比较落后。 | Bu bölgenin teknolojisi hâlâ oldukça geri.
+尖端 (jiānduān) | en ileri, son teknoloji | sıfat | 这是目前世界上最尖端的技术之一。 | Bu, şu anda dünyadaki en ileri teknolojilerden biri.
+精密 (jīngmì) | hassas, ince işçilik | sıfat | 手表是一种很精密的机器。 | Saat çok hassas bir makinedir.
+实用 (shíyòng) | kullanışlı, pratik | sıfat | 这个小工具虽然便宜，但是很实用。 | Bu küçük alet ucuz olsa da çok kullanışlı.
+高效 (gāoxiào) | verimli | sıfat | 新系统让我们的工作更加高效。 | Yeni sistem işimizi daha verimli hâle getirdi.
+便携 (biànxié) | taşınabilir | sıfat | 这台便携式电脑只有一公斤重。 | Bu taşınabilir bilgisayar sadece bir kilo.
+无线 (wúxiàn) | kablosuz | sıfat | 我买了一个无线鼠标。 | Kablosuz bir fare aldım.
+灵敏 (língmǐn) | hassas, duyarlı | sıfat | 这个屏幕非常灵敏，轻轻一点就可以。 | Bu ekran çok hassas, hafifçe dokunmak yeterli.
+过时 (guòshí) | modası geçmiş, eskimiş | sıfat | 这种技术已经过时了。 | Bu teknoloji artık eskidi.
