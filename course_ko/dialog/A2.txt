@@ -1,0 +1,45 @@
+# DIALOG: Kore'de iş ve günlük hayat | Korece A2 günlük konuşmalar | Seojun | Camille
+## Emlakçıda
+A | 어서 오세요. 어떤 집을 찾으세요? (Eoseo oseyo. Eotteon jibeul chajeuseyo?) | Hoş geldiniz. Nasıl bir ev arıyorsunuz?
+B | 회사 근처에 원룸을 구하고 있어요. (Hoesa geuncheoe wollumeul guhago isseoyo.) | Şirketin yakınında bir stüdyo daire arıyorum.
+A | 월세로 하실 거예요, 전세로 하실 거예요? (Wolsero hasil geoyeyo, jeonsero hasil geoyeyo?) | Aylık kira mı olsun, jeonse mi?
+B | 월세가 좋겠어요. 보증금은 천만 원 정도 있어요. (Wolsega jokesseoyo. Bojeunggeumeun cheonman won jeongdo isseoyo.) | Aylık kira daha iyi. Depozito için on milyon won kadar param var.
+A | 그럼 이 집은 어떠세요? 역에서 걸어서 오 분이에요. (Geureom i jibeun eotteoseyo? Yeogeseo georeoseo o bunieyo.) | O zaman bu ev nasıl? İstasyona yürüyerek beş dakika.
+B | 위치는 좋네요. 관리비는 얼마예요? (Wichineun jonneyo. Gwallibineun eolmayeyo?) | Konumu iyiymiş. Aidat ne kadar?
+A | 한 달에 칠만 원이고, 인터넷이 포함돼 있어요. (Han dare chilman wonigo, inteonesi pohamdwae isseoyo.) | Ayda yetmiş bin won ve internet dahil.
+B | 혹시 지금 집을 볼 수 있을까요? (Hoksi jigeum jibeul bol su isseulkkayo?) | Acaba evi şimdi görebilir miyiz?
+A | 네, 집주인에게 연락해 볼게요. 잠시만 기다리세요. (Ne, jipjuinege yeollakae bolgeyo. Jamsiman gidariseyo.) | Tabii, ev sahibine haber vereyim. Biraz bekleyin.
+B | 감사합니다. 햇빛이 잘 들어오는 집이면 좋겠어요. (Gamsahamnida. Haetbichi jal deureooneun jibimyeon jokesseoyo.) | Teşekkürler. Güneş alan bir ev olsa iyi olur.
+## Hastanede
+A | 어디가 불편하세요? (Eodiga bulpyeonhaseyo?) | Neyiniz var?
+B | 어제부터 열이 나고 목이 많이 아파요. (Eojebuteo yeori nago mogi mani apayo.) | Dünden beri ateşim var ve boğazım çok ağrıyor.
+A | 기침도 하세요? (Gichimdo haseyo?) | Öksürüğünüz de var mı?
+B | 네, 밤에 기침을 많이 해서 잠을 못 잤어요. (Ne, bame gichimeul mani haeseo jameul mot jasseoyo.) | Evet, gece çok öksürdüğüm için uyuyamadım.
+A | 입을 크게 벌려 보세요. 목이 많이 부었네요. (Ibeul keuge beollyeo boseyo. Mogi mani bueonneyo.) | Ağzınızı büyükçe açın. Boğazınız epey şişmiş.
+B | 독감인가요? (Dokgamingayo?) | Grip mi acaba?
+A | 아니요, 심한 감기예요. 약을 사흘 치 처방해 드릴게요. (Aniyo, simhan gamgiyeyo. Yageul saheul chi cheobanghae deurilgeyo.) | Hayır, ağır bir soğuk algınlığı. Üç günlük ilaç yazıyorum.
+B | 약은 언제 먹어야 돼요? (Yageun eonje meogeoya dwaeyo?) | İlacı ne zaman almalıyım?
+A | 하루 세 번, 식후 삼십 분에 드세요. 그리고 푹 쉬셔야 해요. (Haru se beon, sikhu samsip bune deuseyo. Geurigo puk swisyeoya haeyo.) | Günde üç kez, yemekten otuz dakika sonra alın. Bir de iyice dinlenmelisiniz.
+B | 네, 알겠습니다. 감사합니다. (Ne, algetseumnida. Gamsahamnida.) | Peki, anladım. Teşekkür ederim.
+## Yeni iş yerinde
+A | 카밀 씨, 첫 출근 축하해요. 회사 생활은 어때요? (Kamil ssi, cheot chulgeun chukahaeyo. Hoesa saenghwareun eottaeyo?) | Camille, işteki ilk gününü kutlarım. Şirket hayatı nasıl?
+B | 아직 긴장되지만 동료들이 친절해서 좋아요. (Ajik ginjangdoejiman dongnyodeuri chinjeolhaeseo joayo.) | Hâlâ gerginim ama iş arkadaşları nazik olduğu için iyi.
+A | 오늘 오후에 팀 회의가 있는 거 알아요? (Oneul ohue tim hoeuiga inneun geo arayo?) | Bugün öğleden sonra ekip toplantısı olduğunu biliyor musun?
+B | 네, 제가 짧게 자기소개를 해야 해요. (Ne, jega jjalge jagisogaereul haeya haeyo.) | Evet, kısaca kendimi tanıtmam gerekiyor.
+A | 걱정하지 마세요. 부장님도 아주 친절하세요. (Geokjeonghaji maseyo. Bujangnimdo aju chinjeolhaseyo.) | Endişelenme. Müdürümüz de çok naziktir.
+B | 회의 자료는 어디에서 출력할 수 있어요? (Hoeui jaryoneun eodieseo chullyeokal su isseoyo?) | Toplantı materyalinin çıktısını nereden alabilirim?
+A | 복사기 옆에 프린터가 있어요. 제가 보여 드릴게요. (Boksagi yeope peurinteoga isseoyo. Jega boyeo deurilgeyo.) | Fotokopi makinesinin yanında yazıcı var. Göstereyim.
+B | 고마워요. 그런데 오늘 저녁에 회식도 있다고 들었어요. (Gomawoyo. Geureonde oneul jeonyeoge hoesikdo itdago deureosseoyo.) | Teşekkürler. Bu arada bu akşam ekip yemeği de varmış diye duydum.
+A | 맞아요. 카밀 씨 환영회예요. 꼭 오세요. (Majayo. Kamil ssi hwanyeonghoeyeyo. Kkok oseyo.) | Doğru. Senin için bir hoş geldin yemeği. Mutlaka gel.
+B | 물론이죠. 기대돼요! (Mullonijyo. Gidaedwaeyo!) | Elbette. Sabırsızlanıyorum!
+## Chuseok planı
+A | 다음 주가 추석 연휴인데 계획 있어요? (Daeum juga Chuseok yeonhyuinde gyehoek isseoyo?) | Gelecek hafta Chuseok tatili, bir planın var mı?
+B | 아직 없어요. 한국 사람들은 추석에 보통 뭐 해요? (Ajik eopseoyo. Hanguk saramdeureun Chuseoge botong mwo haeyo?) | Henüz yok. Koreliler Chuseok'ta genelde ne yapar?
+A | 고향에 가서 가족들과 송편을 만들고 성묘도 가요. (Gohyange gaseo gajokdeulgwa songpyeoneul mandeulgo seongmyodo gayo.) | Memlekete gidip aileyle songpyeon yaparız, mezar ziyaretine de gideriz.
+B | 송편이 뭐예요? 처음 들어 봐요. (Songpyeoni mwoyeyo? Cheoeum deureo bwayo.) | Songpyeon ne? İlk kez duyuyorum.
+A | 반달 모양의 떡이에요. 안에 깨나 콩을 넣어요. (Bandal moyangui tteogieyo. Ane kkaena kongeul neoeoyo.) | Yarım ay şeklinde bir pirinç keki. İçine susam ya da fasulye konur.
+B | 맛있겠네요. 한번 만들어 보고 싶어요. (Masitgenneyo. Hanbeon mandeureo bogo sipeoyo.) | Lezzetli olmalı. Bir kere yapmayı denemek isterim.
+A | 그럼 우리 고향에 같이 갈래요? 부모님도 좋아하실 거예요. (Geureom uri gohyange gachi gallaeyo? Bumonimdo joahasil geoyeyo.) | O zaman memleketime birlikte gelir misin? Annemle babam da çok sevinir.
+B | 정말요? 그래도 되면 너무 좋죠! (Jeongmallyo? Geuraedo doemyeon neomu jochyo!) | Gerçekten mi? Olursa çok sevinirim!
+A | 기차표는 빨리 예매해야 해요. 명절에는 표가 금방 매진돼요. (Gichapyoneun ppalli yemaehaeya haeyo. Myeongjeoreneun pyoga geumbang maejindwaeyo.) | Tren biletini hemen almamız lazım. Bayramlarda biletler çabucak tükenir.
+B | 알겠어요. 오늘 밤에 같이 예매해요. (Algesseoyo. Oneul bame gachi yemaehaeyo.) | Tamam. Bu akşam beraber alalım.
