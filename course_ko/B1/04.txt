@@ -1,0 +1,111 @@
+# UNIT: Medya ve haberler | Basın, TV, sosyal medya, bilgi
+## Basın
+언론 (eollon) | basın, medya | isim | 언론은 사회의 문제를 알리는 역할을 한다. | Basın, toplumun sorunlarını duyurma görevi üstlenir.
+신문사 (sinmunsa) | gazete (kurum) | isim | 그는 졸업 후에 신문사에 입사했다. | Mezun olduktan sonra bir gazetede işe başladı.
+방송국 (bangsongguk) | yayın kuruluşu, televizyon kanalı binası | isim | 방송국 앞에 팬들이 많이 모여 있었다. | Yayın kuruluşunun önünde çok sayıda hayran toplanmıştı.
+보도하다 (bodohada) | haber vermek, yayımlamak | fiil | 모든 신문이 그 사고를 크게 보도했다. | Bütün gazeteler o kazayı geniş biçimde haber yaptı.
+특종 (teukjong) | özel haber, atlatma haber | isim | 그 기자는 숨겨진 사실을 밝혀 특종을 터뜨렸다. | O muhabir gizli bir gerçeği ortaya çıkarıp atlatma haber yaptı.
+일간지 (ilganji) | günlük gazete | isim | 아버지는 매일 아침 두 가지 일간지를 읽으신다. | Babam her sabah iki günlük gazete okur.
+주간지 (juganji) | haftalık dergi | isim | 주간지에 우리 동네 맛집이 소개되었다. | Haftalık dergide mahallemizin lezzetli bir lokantası tanıtıldı.
+편집장 (pyeonjipjang) | genel yayın yönetmeni | isim | 편집장이 기사의 제목을 바꾸라고 했다. | Genel yayın yönetmeni haberin başlığını değiştirmemi söyledi.
+칼럼 (kalleom) | köşe yazısı | isim | 그 교수는 신문에 매주 칼럼을 쓴다. | O profesör gazeteye her hafta köşe yazısı yazıyor.
+사설 (saseol) | başyazı | isim | 오늘 신문 사설은 청년 실업 문제를 다뤘다. | Bugünkü gazetenin başyazısı genç işsizliği konu aldı.
+## Haber türleri
+속보 (sokbo) | son dakika haberi | isim | 방금 지진 속보가 나왔어요. | Az önce deprem hakkında son dakika haberi geldi.
+시사 (sisa) | güncel olaylar | isim | 시사 프로그램을 보면 세상 돌아가는 일을 알 수 있다. | Güncel olaylar programlarını izlersen dünyada neler olup bittiğini öğrenirsin.
+연예계 (yeonyegye) | eğlence dünyası, şov dünyası | isim | 그녀는 열여섯 살에 연예계에 데뷔했다. | On altı yaşında şov dünyasına adım attı.
+사건 (sageon) | olay, vaka | isim | 경찰은 그 사건을 아직 조사하고 있다. | Polis o olayı hâlâ soruşturuyor.
+소식 (sosik) | haber (duyum) | isim | 친구가 결혼한다는 소식을 들었어요. | Arkadaşımın evleneceği haberini aldım.
+화제 (hwaje) | gündem konusu, konuşulan konu | isim | 그 드라마가 요즘 사람들 사이에서 화제다. | O dizi bu aralar herkesin konuştuğu konu.
+이슈 (isyu) | gündem meselesi | isim | 환경 문제가 이번 선거의 큰 이슈가 되었다. | Çevre sorunları bu seçimin büyük gündem meselesi oldu.
+논란 (nollan) | tartışma, polemik | isim | 새 법안을 두고 논란이 계속되고 있다. | Yeni yasa tasarısı üzerine tartışma sürüyor.
+헤드라인 (hedeurain) | manşet | isim | 오늘 신문 헤드라인을 보고 깜짝 놀랐다. | Bugünkü gazetenin manşetini görünce çok şaşırdım.
+국제 (gukje) | uluslararası | isim | 국제 뉴스를 보면 다른 나라의 상황을 알 수 있다. | Uluslararası haberleri izleyince başka ülkelerin durumunu öğrenebilirsin.
+## Televizyon
+채널 (chaeneol) | kanal | isim | 리모컨으로 채널을 계속 돌리기만 했다. | Kumandayla sadece kanal değiştirip durdum.
+시청률 (sicheongnyul) | izlenme oranı, reyting | isim | 그 드라마는 마지막 회에서 최고 시청률을 기록했다. | O dizi son bölümünde en yüksek reytingi elde etti.
+다큐멘터리 (dakyumenteori) | belgesel | isim | 북극곰에 관한 다큐멘터리를 보고 감동받았다. | Kutup ayıları hakkında bir belgesel izleyip çok etkilendim.
+생중계 (saengjunggye) | canlı yayın | isim | 결승전은 텔레비전으로 생중계된다. | Final maçı televizyondan canlı yayınlanacak.
+재방송 (jaebangsong) | tekrar yayın | isim | 어제 못 본 예능을 재방송으로 봤다. | Dün izleyemediğim eğlence programını tekrar yayında izledim.
+진행자 (jinhaengja) | sunucu | isim | 그 퀴즈 프로그램은 진행자가 재미있어서 인기가 많다. | O yarışma programı sunucusu eğlenceli olduğu için çok popüler.
+출연하다 (churyeonhada) | (programa, filme) çıkmak, rol almak | fiil | 친구가 요리 프로그램에 출연해서 깜짝 놀랐다. | Arkadaşım bir yemek programına çıkınca çok şaşırdım.
+아나운서 (anaunseo) | spiker | isim | 아나운서는 발음이 정확해야 한다. | Spikerin telaffuzu kusursuz olmalıdır.
+시청자 (sicheongja) | izleyici | isim | 시청자들의 의견을 반영해서 결말을 바꿨다. | İzleyicilerin görüşlerini dikkate alarak finali değiştirdiler.
+연속극 (yeonsokgeuk) | dizi (TV) | isim | 할머니는 저녁마다 연속극을 보신다. | Büyükannem her akşam dizi izler.
+## Sosyal medya
+해시태그 (haesitaegeu) | hashtag, etiket | isim | 사진에 여행 해시태그를 달아서 올렸다. | Fotoğrafa seyahat etiketi ekleyip paylaştım.
+팔로워 (pallowo) | takipçi | isim | 그 요리 계정은 팔로워가 백만 명이 넘는다. | O yemek hesabının takipçisi bir milyonu aşıyor.
+악플 (akpeul) | kötü niyetli yorum | isim | 악플 때문에 상처를 받는 사람이 많다. | Kötü niyetli yorumlar yüzünden incinen çok insan var.
+선플 (seonpeul) | iyi niyetli, destekleyici yorum | isim | 악플 대신 선플을 달자는 캠페인이 열렸다. | Kötü yorum yerine destekleyici yorum yazalım kampanyası başlatıldı.
+퍼가다 (peogada) | (içeriği) alıp paylaşmak | fiil | 제 글을 퍼가실 때는 출처를 남겨 주세요. | Yazımı alıp paylaşırken kaynağı belirtin lütfen.
+캡처하다 (kaepcheohada) | ekran görüntüsü almak | fiil | 대화 내용을 캡처해서 친구에게 보냈다. | Konuşmanın ekran görüntüsünü alıp arkadaşıma gönderdim.
+실시간 (silsigan) | gerçek zamanlı, anlık | isim | 그 영상은 실시간으로 수천 명이 보고 있었다. | O videoyu anlık olarak binlerce kişi izliyordu.
+유행어 (yuhaengeo) | moda deyim, popüler söz | isim | 그 개그맨의 말이 유행어가 되었다. | O komedyenin sözü popüler bir deyim oldu.
+짤 (jjal) | caps, mizahi görsel | isim | 친구가 웃긴 고양이 짤을 보내 줬다. | Arkadaşım komik bir kedi görseli gönderdi.
+퍼지다 (peojida) | yayılmak | fiil | 그 소문은 인터넷을 통해 순식간에 퍼졌다. | O söylenti internet aracılığıyla bir anda yayıldı.
+## Bilgi ve doğruluk
+가짜 뉴스 (gajja nyuseu) | sahte haber | isim | 가짜 뉴스를 그대로 믿으면 안 된다. | Sahte haberlere olduğu gibi inanmamalısın.
+사실 확인 (sasil hwagin) | doğruluğunu teyit etme | isim | 사실 확인도 없이 기사를 내보내면 안 된다. | Doğruluğu teyit edilmeden haber yayımlanmamalı.
+진실 (jinsil) | hakikat, gerçek | isim | 시간이 지나면 진실은 밝혀지기 마련이다. | Zaman geçince hakikat elbet ortaya çıkar.
+소문 (somun) | söylenti, dedikodu | isim | 회사가 이사한다는 소문이 돌고 있다. | Şirketin taşınacağına dair söylenti dolaşıyor.
+근거 (geungeo) | dayanak, temel | isim | 근거 없는 주장은 설득력이 없다. | Dayanağı olmayan iddia inandırıcı değildir.
+왜곡하다 (waegokada) | çarpıtmak | fiil | 일부 언론이 사실을 왜곡해서 보도했다. | Bazı medya kuruluşları gerçeği çarpıtarak haber yaptı.
+과장하다 (gwajanghada) | abartmak | fiil | 광고는 제품의 효과를 과장하는 경우가 많다. | Reklamlar ürünün etkisini çoğu zaman abartır.
+정확하다 (jeonghwakada) | doğru, kesin | sıfat | 정확한 정보를 얻으려면 여러 자료를 비교해야 한다. | Doğru bilgi edinmek için birkaç kaynağı karşılaştırmalısın.
+믿을 만하다 (mideul manhada) | güvenilir | ifade | 그 사이트의 정보는 믿을 만해요. | O sitenin bilgileri güvenilirdir.
+팩트 체크 (paekteu chekeu) | doğruluk kontrolü | isim | 기사를 쓰기 전에 반드시 팩트 체크를 해야 한다. | Haber yazmadan önce mutlaka doğruluk kontrolü yapılmalı.
+## Haber yapmak
+취재하다 (chwijaehada) | haber toplamak, haber takibi yapmak | fiil | 기자들이 화재 현장을 취재하고 있다. | Muhabirler yangın yerinde haber topluyor.
+인터뷰 (inteobyu) | röportaj | isim | 그 배우는 인터뷰에서 어린 시절 이야기를 했다. | O oyuncu röportajda çocukluğundan bahsetti.
+기자 회견 (gija hoegyeon) | basın toplantısı | isim | 감독은 기자 회견을 열어 은퇴를 발표했다. | Teknik direktör basın toplantısı düzenleyip emekliliğini açıkladı.
+보도 자료 (bodo jaryo) | basın bülteni | isim | 회사는 신제품에 대한 보도 자료를 배포했다. | Şirket yeni ürün hakkında basın bülteni dağıttı.
+제보하다 (jebohada) | ihbar etmek, bilgi vermek (basına) | fiil | 한 시민이 방송국에 사고 영상을 제보했다. | Bir vatandaş kaza videosunu kanala iletti.
+익명 (ingmyeong) | anonim, isimsiz | isim | 그는 익명을 요구하며 인터뷰에 응했다. | Adının verilmemesini isteyerek röportajı kabul etti.
+앵커 (aengkeo) | haber spikeri (anchor) | isim | 저녁 뉴스 앵커가 차분한 목소리로 소식을 전했다. | Akşam haberlerinin spikeri sakin bir sesle haberi verdi.
+특파원 (teukpawon) | yabancı ülke muhabiri | isim | 파리 특파원이 현지 분위기를 전해 드립니다. | Paris muhabirimiz oradaki havayı aktarıyor.
+현장 (hyeonjang) | olay yeri, saha | isim | 사고 현장에는 아직 경찰차가 서 있다. | Kaza yerinde hâlâ polis arabası duruyor.
+마이크 (maikeu) | mikrofon | isim | 기자가 시민에게 마이크를 건넸다. | Muhabir mikrofonu bir vatandaşa uzattı.
+## Medyanın etkisi
+영향력 (yeonghyangnyeok) | etki gücü, nüfuz | isim | 요즘은 인터넷 방송인의 영향력이 방송인보다 클 때도 있다. | Bu aralar video içerik üreticilerinin etkisi televizyoncularınkinden büyük olabiliyor.
+여론 (yeoron) | kamuoyu | isim | 여론 조사 결과 시민 대부분이 그 정책에 찬성했다. | Kamuoyu araştırmasına göre vatandaşların çoğu o politikayı destekledi.
+대중 (daejung) | halk, kitle | isim | 그 가수의 노래는 대중의 사랑을 받았다. | O şarkıcının şarkıları halkın sevgisini kazandı.
+비판하다 (bipanhada) | eleştirmek | fiil | 많은 사람들이 그 결정을 비판했다. | Birçok kişi o kararı eleştirdi.
+표현의 자유 (pyohyeonui jayu) | ifade özgürlüğü | isim | 표현의 자유도 다른 사람의 권리를 침해해서는 안 된다. | İfade özgürlüğü de başkalarının haklarını çiğnememelidir.
+검열 (geomyeol) | sansür | isim | 그 영화는 검열 때문에 일부 장면이 삭제되었다. | O filmin bazı sahneleri sansür yüzünden kesildi.
+선정적 (seonjeongjeok) | müstehcen, sansasyonel | sıfat | 선정적인 제목으로 클릭을 유도하는 기사가 많다. | Sansasyonel başlıklarla tıklamaya yönelten haberler çok.
+자극적 (jageukjeok) | kışkırtıcı, uyarıcı | sıfat | 자극적인 영상은 아이들에게 좋지 않다. | Kışkırtıcı videolar çocuklar için iyi değil.
+사생활 (sasaenghwal) | özel hayat | isim | 연예인의 사생활도 보호받아야 한다. | Ünlülerin özel hayatı da korunmalıdır.
+공정하다 (gongjeonghada) | adil, tarafsız | sıfat | 언론은 공정하게 보도해야 한다. | Basın tarafsız haber yapmalıdır.
+## Yayıncılık
+출판하다 (chulpanhada) | yayımlamak (kitap) | fiil | 그는 여행 경험을 모아 책으로 출판했다. | Seyahat deneyimlerini toplayıp kitap olarak yayımladı.
+출판사 (chulpansa) | yayınevi | isim | 원고를 여러 출판사에 보냈지만 답이 없었다. | Müsveddeyi birkaç yayınevine gönderdim ama cevap gelmedi.
+베스트셀러 (beseuteuselleo) | çok satan kitap | isim | 그 소설은 일주일 만에 베스트셀러가 되었다. | O roman bir haftada çok satanlar listesine girdi.
+독자 (dokja) | okur | isim | 작가는 독자들의 편지에 하나하나 답장했다. | Yazar okurların mektuplarına tek tek cevap verdi.
+구독자 (gudokja) | abone | isim | 그 채널은 구독자가 빠르게 늘고 있다. | O kanalın abone sayısı hızla artıyor.
+전자책 (jeonjachaek) | e-kitap | isim | 출퇴근할 때 휴대폰으로 전자책을 읽어요. | İşe gidip gelirken telefondan e-kitap okuyorum.
+신간 (singan) | yeni çıkan kitap | isim | 서점 입구에 이번 달 신간이 진열되어 있다. | Kitapçının girişinde bu ayın yeni çıkan kitapları sergileniyor.
+연재하다 (yeonjaehada) | tefrika etmek, bölüm bölüm yayımlamak | fiil | 그 작가는 인터넷에 소설을 연재하고 있다. | O yazar internette bölüm bölüm roman yayımlıyor.
+발행하다 (balhaenghada) | yayımlamak, çıkarmak (gazete, dergi) | fiil | 이 잡지는 한 달에 한 번 발행된다. | Bu dergi ayda bir kez çıkar.
+표지 (pyoji) | kapak | isim | 책 표지가 예뻐서 충동적으로 샀다. | Kitabın kapağı güzel olduğu için içimden gelerek aldım.
+## İnternet toplulukları
+포털 (poteol) | portal (internet) | isim | 아침마다 포털에서 주요 뉴스를 확인한다. | Her sabah portalda önemli haberlere bakıyorum.
+검색어 (geomsaegeo) | arama terimi | isim | 그 가수의 이름이 인기 검색어 일 위에 올랐다. | O şarkıcının adı popüler arama terimlerinde birinci sıraya yükseldi.
+블로그 (beullogeu) | blog | isim | 여행 정보는 주로 블로그에서 찾아요. | Seyahat bilgilerini çoğunlukla bloglarda arıyorum.
+커뮤니티 (keomyuniti) | çevrimiçi topluluk | isim | 같은 취미를 가진 사람들이 온라인 커뮤니티에 모인다. | Aynı hobiye sahip insanlar çevrimiçi topluluklarda bir araya gelir.
+게시판 (gesipan) | ilan panosu, forum | isim | 분실물 안내를 학교 게시판에 붙였다. | Kayıp eşya duyurusunu okul panosuna astım.
+닉네임 (ningneim) | takma ad | isim | 게임에서는 실명 대신 닉네임을 쓴다. | Oyunda gerçek isim yerine takma ad kullanılır.
+누리꾼 (nurikkun) | internet kullanıcısı | isim | 그 영상을 본 누리꾼들은 감동적이라고 말했다. | O videoyu izleyen internet kullanıcıları dokunaklı olduğunu söyledi.
+익명성 (ingmyeongseong) | anonimlik | isim | 인터넷의 익명성 때문에 무책임한 말이 많아진다. | İnternetteki anonimlik yüzünden sorumsuz sözler çoğalıyor.
+정보 격차 (jeongbo gyeokcha) | dijital uçurum, bilgi eşitsizliği | isim | 노인과 청년 사이의 정보 격차를 줄여야 한다. | Yaşlılarla gençler arasındaki bilgi eşitsizliği azaltılmalı.
+1인 미디어 (irin midieo) | bireysel medya, tek kişilik yayın | isim | 1인 미디어 시대에는 누구나 방송을 할 수 있다. | Bireysel medya çağında herkes yayın yapabilir.
+## Medya fiilleri
+알리다 (allida) | duyurmak, bildirmek | fiil | 이 소식을 빨리 모두에게 알려야 해요. | Bu haberi hemen herkese duyurmalıyız.
+전하다 (jeonhada) | iletmek, aktarmak | fiil | 부모님께 안부 전해 주세요. | Anne babana selamımı ilet lütfen.
+밝혀지다 (bakyeojida) | ortaya çıkmak, aydınlanmak | fiil | 사고 원인이 드디어 밝혀졌다. | Kazanın nedeni sonunda ortaya çıktı.
+드러나다 (deureonada) | açığa çıkmak, belli olmak | fiil | 거짓말이 결국 드러났다. | Yalan sonunda açığa çıktı.
+주목받다 (jumokbatda) | ilgi görmek, dikkat çekmek | fiil | 그 신인 작가의 소설이 크게 주목받고 있다. | O yeni yazarın romanı büyük ilgi görüyor.
+다루다 (daruda) | ele almak, işlemek (다뤄요) | fiil | 이 영화는 청소년 문제를 다루고 있다. | Bu film gençlerin sorunlarını ele alıyor.
+언급하다 (eongeupada) | değinmek, söz etmek | fiil | 장관은 그 문제에 대해 언급하지 않았다. | Bakan o konuya değinmedi.
+공개하다 (gonggaehada) | kamuoyuna açıklamak, açığa açmak | fiil | 그 가수는 새 앨범의 표지를 공개했다. | O şarkıcı yeni albümünün kapağını paylaştı.
+퍼뜨리다 (peotteurida) | yaymak | fiil | 확인되지 않은 소문을 퍼뜨리지 마세요. | Doğrulanmamış söylentileri yaymayın.
+접하다 (jeopada) | karşılaşmak, (haberi) almak | fiil | 뉴스를 통해 그 사고 소식을 접했다. | O kaza haberini haberlerden öğrendim.
