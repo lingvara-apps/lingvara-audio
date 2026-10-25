@@ -1,0 +1,111 @@
+# UNIT: Coğrafya ve jeoloji | Yer şekilleri, sular, iklim kuşakları, harita
+## Yer şekilleri
+連峰 (renpō) | dağ silsilesi (birbirine bağlı zirveler) | isim | 窓の外には、雪をかぶった北アルプスの連峰が見える。 | Pencereden karla kaplı Kuzey Alplerin zirveleri görünüyor.
+盆地 (bonchi) | havza, çanak (dağlarla çevrili ova) | isim | 京都は盆地にあるため、夏は暑く冬は冷え込む。 | Kyoto bir çanak içinde olduğu için yazları sıcak, kışları soğuk olur.
+台地 (daichi) | plato, yüksek düzlük | isim | 台地の上には、広い茶畑が広がっている。 | Platonun üzerinde geniş çay bahçeleri uzanıyor.
+丘陵 (kyūryō) | tepelik arazi | isim | 市の西部には、なだらかな丘陵が続いている。 | Şehrin batısında yumuşak tepelikler uzanıyor.
+峡谷 (kyōkoku) | kanyon, boğaz (dar vadi) | isim | 川の流れが長い年月をかけて、深い峡谷をつくり出した。 | Nehir uzun yıllar boyunca derin bir kanyon oydu.
+扇状地 (senjōchi) | alüvyon yelpazesi | isim | 扇状地は水はけがよく、果樹の栽培に適している。 | Alüvyon yelpazeleri iyi su geçirdiği için meyve yetiştirmeye uygundur.
+三角州 (sankakusu) | delta | isim | 広島の市街地は、川の河口にできた三角州の上にある。 | Hiroşima'nın şehir merkezi nehir ağzındaki bir deltanın üzerinde kurulu.
+高原 (kōgen) | yayla | isim | 夏になると、涼しい高原に避暑客が訪れる。 | Yazın serin yaylalara sıcaktan kaçanlar gelir.
+断崖 (dangai) | uçurum, sarp kayalık | isim | 海に面した断崖から、荒波を見下ろした。 | Denize bakan uçurumdan dalgalı denizi seyrettik.
+尾根 (one) | sırt (dağ sırtı) | isim | 尾根づたいに歩くと、両側の谷がよく見える。 | Sırt boyunca yürüyünce iki yandaki vadiler iyi görünüyor.
+## Akarsular ve göller
+河川 (kasen) | akarsular, nehirler (resmî) | isim | 大雨のため、県内の河川の水位が上昇している。 | Şiddetli yağmur nedeniyle ildeki nehirlerin su seviyesi yükseliyor.
+流域 (ryūiki) | havza (nehir) | isim | 川の流域には、古くから多くの集落が栄えた。 | Nehir havzasında eski çağlardan beri pek çok yerleşim gelişti.
+上流 (jōryū) | nehrin yukarı kısmı, menba | isim | 上流でダムが放流したため、川の水が急に増えた。 | Yukarıdaki baraj su bırakınca nehir aniden kabardı.
+下流 (karyū) | nehrin aşağı kısmı, mansap | isim | 川の下流では、流れが穏やかになり、川幅も広がる。 | Nehrin aşağı kısmında akış yavaşlar ve yatak genişler.
+河口 (kakō) | nehir ağzı | isim | 河口付近では、海水と淡水が混ざり合っている。 | Nehir ağzının yakınında tuzlu su ile tatlı su karışıyor.
+支流 (shiryū) | kol (nehir kolu) | isim | この川には、大小合わせて百以上の支流がある。 | Bu nehrin büyüklü küçüklü yüzden fazla kolu var.
+湖沼 (koshō) | göller ve bataklıklar | isim | 北海道には、火山活動によってできた湖沼が多い。 | Hokkaido'da volkanik etkinlikle oluşmuş çok sayıda göl ve bataklık var.
+湧き水 (wakimizu) | kaynak suyu | isim | 富士山の雪解け水が、ふもとで湧き水となって流れ出る。 | Fuji Dağı'nın erimiş karı eteklerde kaynak suyu olarak çıkıyor.
+地下水 (chikasui) | yeraltı suyu | isim | 地下水のくみ上げすぎで、地盤沈下が起きた。 | Yeraltı suyunun aşırı çekilmesi yüzünden zemin çöktü.
+渓流 (keiryū) | dağ deresi | isim | 渓流釣りを楽しむために、山奥の宿に泊まった。 | Dağ deresinde balık tutmak için dağın derinlerindeki bir handa kaldık.
+## Kıyılar ve denizler
+海岸線 (kaigansen) | kıyı şeridi | isim | 日本の海岸線の長さは、およそ三万五千キロに及ぶ。 | Japonya'nın kıyı şeridi yaklaşık otuz beş bin kilometreyi bulur.
+湾 (wan) | körfez | isim | 湾の奥にある港は、台風のときも波が穏やかだ。 | Körfezin iç kısmındaki liman tayfunda bile sakin kalır.
+半島 (hantō) | yarımada | isim | 紀伊半島は日本最大の半島である。 | Kii Yarımadası Japonya'nın en büyük yarımadasıdır.
+岬 (misaki) | burun (kara çıkıntısı) | isim | 岬の先端に立つ灯台から、太平洋が一望できる。 | Burnun ucundaki deniz fenerinden Büyük Okyanus bir bakışta görülüyor.
+入り江 (irie) | koy | isim | 小さな入り江には、漁船が何隻も停泊していた。 | Küçük koyda birkaç balıkçı teknesi demirlemişti.
+リアス海岸 (riasu kaigan) | ria kıyısı (girintili kıyı) | isim | リアス海岸は湾が深く、養殖業に適している。 | Ria kıyılarındaki körfezler derin olduğu için su ürünleri yetiştiriciliğine uygundur.
+砂丘 (sakyū) | kum tepesi | isim | 鳥取の砂丘では、風によって砂の模様が刻々と変わる。 | Tottori kum tepelerinde rüzgârla kumdaki desenler an be an değişir.
+干潟 (higata) | gelgit düzlüğü | isim | 干潟には多くの渡り鳥が羽を休めに来る。 | Gelgit düzlüklerine birçok göçmen kuş dinlenmeye gelir.
+海流 (kairyū) | deniz akıntısı | isim | 暖かい海流の影響で、この島は冬でも温暖だ。 | Sıcak deniz akıntısının etkisiyle bu ada kışın da ılıktır.
+海溝 (kaikō) | okyanus çukuru | isim | 日本の東の沖には、深さ八千メートルを超える海溝がある。 | Japonya'nın doğu açıklarında derinliği sekiz bin metreyi aşan bir çukur var.
+## Jeoloji
+地層 (chisō) | katman (jeolojik) | isim | 崖に見える地層から、この土地の歴史を読み取ることができる。 | Yamaçta görünen katmanlardan bu toprağın tarihini okumak mümkün.
+岩盤 (ganban) | ana kaya | isim | トンネルを掘る途中で、非常に硬い岩盤にぶつかった。 | Tünel kazarken çok sert bir ana kayaya rastladık.
+堆積岩 (taisekigan) | tortul kayaç | isim | 砂や泥が固まってできた岩石を堆積岩という。 | Kum ve çamurun sertleşmesiyle oluşan kayaçlara tortul kayaç denir.
+火成岩 (kaseigan) | magmatik kayaç | isim | 花こう岩はマグマが冷えて固まった火成岩の一種だ。 | Granit, magmanın soğuyup katılaşmasıyla oluşan bir magmatik kayaçtır.
+化石 (kaseki) | fosil | isim | この地層からは、恐竜の化石が多数発見されている。 | Bu katmandan çok sayıda dinozor fosili çıkarıldı.
+鉱物 (kōbutsu) | mineral | isim | 石英は地球上で最もありふれた鉱物の一つだ。 | Kuvars yeryüzündeki en yaygın minerallerden biridir.
+断層 (dansō) | fay | isim | 地震の後、地表に断層のずれが現れた。 | Depremden sonra yüzeyde fay kayması ortaya çıktı.
+地殻 (chikaku) | yer kabuğu | isim | 地殻の厚さは、大陸と海洋とで大きく異なる。 | Yer kabuğunun kalınlığı kıtalarda ve okyanuslarda çok farklıdır.
+マグマ (maguma) | magma | isim | 地下のマグマが上昇すると、火山の噴火が起こる。 | Yeraltındaki magma yükselince volkan patlar.
+侵食 (shinshoku) | aşınım, erozyon | isim | 長い年月にわたる波の侵食で、海岸に洞窟ができた。 | Uzun yıllar süren dalga aşınımıyla kıyıda bir mağara oluştu.
+## Deprem ve volkan bilimi
+プレート (purēto) | levha (tektonik) | isim | 日本列島は四つのプレートがぶつかり合う場所に位置する。 | Japon takımadaları dört levhanın çarpıştığı yerde bulunur.
+活断層 (katsudansō) | aktif fay | isim | 原子力発電所の真下に活断層があるかどうかが議論された。 | Nükleer santralin hemen altında aktif fay olup olmadığı tartışıldı.
+震源 (shingen) | deprem odağı | isim | 震源の深さは約十キロと推定されている。 | Deprem odağının derinliği yaklaşık on kilometre olarak tahmin ediliyor.
+マグニチュード (magunichūdo) | büyüklük (deprem, magnitüd) | isim | 地震の規模はマグニチュード七・三と発表された。 | Depremin büyüklüğü yedi virgül üç olarak açıklandı.
+震央 (shin'ō) | deprem merkez üssü | isim | 震央は県の北部の山間部と推定されている。 | Merkez üssünün ilin kuzeyindeki dağlık bölge olduğu tahmin ediliyor.
+本震 (honshin) | ana şok (deprem) | isim | 最初の揺れは前震で、二日後に本震が起きた。 | İlk sarsıntı öncü depremmiş, iki gün sonra ana şok geldi.
+火山灰 (kazanbai) | volkanik kül | isim | 噴火で降った火山灰が、農作物に被害を与えた。 | Patlamayla yağan volkanik kül tarım ürünlerine zarar verdi.
+溶岩 (yōgan) | lav | isim | 島の南側は、昔の噴火で流れ出た溶岩に覆われている。 | Adanın güneyi eski bir patlamada akan lavlarla kaplı.
+火砕流 (kasairyū) | piroklastik akıntı | isim | 火砕流は時速百キロを超える速さで山を下ることがある。 | Piroklastik akıntı saatte yüz kilometreyi aşan hızla dağdan inebilir.
+カルデラ (karudera) | kaldera | isim | 阿蘇山には、世界有数の巨大なカルデラがある。 | Aso Dağı'nda dünyanın en büyüklerinden biri olan bir kaldera var.
+## İklim kuşakları
+気候帯 (kikōtai) | iklim kuşağı | isim | 気候帯は気温と降水量によって分類される。 | İklim kuşakları sıcaklık ve yağış miktarına göre sınıflandırılır.
+高山気候 (kōzan kikō) | yüksek dağ iklimi | isim | 高山気候の地域では、昼と夜の気温差が非常に大きい。 | Yüksek dağ iklimindeki bölgelerde gece ile gündüz arasındaki sıcaklık farkı çok büyüktür.
+温帯 (ontai) | ılıman kuşak | isim | 日本の大部分は温帯に属し、四季がはっきりしている。 | Japonya'nın büyük kısmı ılıman kuşakta yer alır ve dört mevsim belirgindir.
+亜寒帯 (akantai) | soğuk ılıman kuşak (subarktik) | isim | 北海道は亜寒帯に属し、冬の寒さが厳しい。 | Hokkaido subarktik kuşakta yer alır ve kışları serttir.
+寒帯 (kantai) | kutup kuşağı | isim | 寒帯では、夏でも地面がほとんど溶けない。 | Kutup kuşağında yazın bile toprak neredeyse çözülmez.
+乾燥帯 (kansōtai) | kurak kuşak | isim | 乾燥帯では、降水量が蒸発量を大きく下回る。 | Kurak kuşakta yağış miktarı buharlaşmanın çok altında kalır.
+亜熱帯 (anettai) | subtropikal kuşak | isim | 沖縄は亜熱帯の気候で、冬でも雪が降らない。 | Okinawa subtropikal iklimdedir, kışın bile kar yağmaz.
+季節風 (kisetsufū) | muson rüzgârı, mevsim rüzgârı | isim | 冬の北西の季節風が、日本海側に大雪をもたらす。 | Kışın kuzeybatıdan esen mevsim rüzgârı Japon Denizi kıyısına yoğun kar getirir.
+偏西風 (henseifū) | batı rüzgârları | isim | 偏西風の影響で、天気は西から東へ移り変わる。 | Batı rüzgârlarının etkisiyle hava durumu batıdan doğuya doğru değişir.
+梅雨前線 (baiu zensen) | yağmur mevsimi cephesi | isim | 梅雨前線が停滞し、九州で記録的な大雨となった。 | Yağmur mevsimi cephesi durağanlaşınca Kyuşu'da rekor yağış oldu.
+## Haritacılık
+縮尺 (shukushaku) | ölçek (harita) | isim | この地図の縮尺は二万五千分の一である。 | Bu haritanın ölçeği yirmi beş binde birdir.
+等高線 (tōkōsen) | eş yükselti eğrisi | isim | 等高線の間隔が狭いところは、傾斜が急だ。 | Eş yükselti eğrilerinin sık olduğu yerlerde eğim diktir.
+緯度 (ido) | enlem | isim | 東京とアテネは、ほぼ同じ緯度に位置している。 | Tokyo ile Atina neredeyse aynı enlemdedir.
+経度 (keido) | boylam | isim | 経度が十五度違うと、時差は一時間になる。 | Boylam on beş derece farklı olunca saat farkı bir saat olur.
+赤道 (sekidō) | ekvator | isim | 赤道付近では、昼と夜の長さがほぼ等しい。 | Ekvator yakınında gece ile gündüz neredeyse eşittir.
+標高 (hyōkō) | rakım | isim | 富士山の標高は三七七六メートルである。 | Fuji Dağı'nın rakımı üç bin yedi yüz yetmiş altı metredir.
+方位 (hōi) | yön (pusula yönü) | isim | 地図を読むときは、まず方位を確かめることが大切だ。 | Harita okurken önce yönleri kontrol etmek önemlidir.
+地形図 (chikeizu) | topoğrafik harita | isim | 登山の前に、地形図でルートを確認しておこう。 | Tırmanıştan önce rotayı topoğrafik haritada kontrol edelim.
+子午線 (shigosen) | meridyen | isim | 日本の標準時は、明石市を通る子午線を基準にしている。 | Japonya'nın standart saati Akashi şehrinden geçen meridyene dayanır.
+測量 (sokuryō) | ölçme, haritacılık ölçümü | isim | 伊能忠敬は十七年かけて日本全国を測量した。 | Inō Tadataka on yedi yıl harcayarak bütün Japonya'yı ölçtü.
+## Beşerî coğrafya
+人口密度 (jinkō mitsudo) | nüfus yoğunluğu | isim | 東京都の人口密度は全国で最も高い。 | Tokyo'nun nüfus yoğunluğu ülkedeki en yüksek değerdir.
+集落 (shūraku) | yerleşim yeri, köy | isim | 山あいの集落には、今も数十人が暮らしている。 | Dağlar arasındaki yerleşimde hâlâ birkaç on kişi yaşıyor.
+計画都市 (keikaku toshi) | planlı şehir | isim | 平安京は、碁盤の目のように道が通る計画都市だった。 | Heian-kyō, yolları dama tahtası gibi uzanan planlı bir şehirdi.
+門前町 (monzenmachi) | tapınak kasabası | isim | 長野は善光寺の門前町として栄えてきた。 | Nagano, Zenkōji tapınağı çevresinde kurulmuş bir kasaba olarak gelişti.
+宿場町 (shukubamachi) | menzil kasabası (eski yol üstü konak yeri) | isim | 中山道には、江戸時代の宿場町の町並みが残っている。 | Nakasendō yolunda Edo döneminden kalma menzil kasabası dokusu hâlâ duruyor.
+漁港 (gyokō) | balıkçı limanı | isim | 早朝の漁港では、水揚げされたばかりの魚が競りにかけられる。 | Sabahın erken saatinde balıkçı limanında yeni çıkarılmış balıklar açık artırmaya çıkarılır.
+都市圏 (toshiken) | metropoliten alan | isim | 大阪の都市圏には、およそ千九百万人が暮らしている。 | Osaka metropoliten alanında yaklaşık on dokuz milyon kişi yaşıyor.
+領土 (ryōdo) | toprak, ülke toprağı | isim | 国家の領土には、陸地だけでなく領海と領空も含まれる。 | Bir devletin ülkesine yalnız kara değil karasuları ve hava sahası da dahildir.
+領海 (ryōkai) | karasuları | isim | 領海は、海岸から十二海里までの範囲とされる。 | Karasuları kıyıdan on iki deniz miline kadar olan alandır.
+国土 (kokudo) | ülke toprakları, yurt | isim | 日本は国土の約三分の二が森林に覆われている。 | Japonya'nın topraklarının yaklaşık üçte ikisi ormanla kaplıdır.
+## Bitki örtüsü ve kaynaklar
+植生 (shokusei) | bitki örtüsü | isim | 標高が上がるにつれて、植生が大きく変化する。 | Rakım arttıkça bitki örtüsü büyük ölçüde değişir.
+針葉樹 (shin'yōju) | iğne yapraklı ağaç | isim | 北の寒い地域には、針葉樹の森が広がっている。 | Kuzeydeki soğuk bölgelerde iğne yapraklı ormanlar uzanır.
+広葉樹 (kōyōju) | geniş yapraklı ağaç | isim | 秋になると、広葉樹の葉が赤や黄色に色づく。 | Sonbaharda geniş yapraklı ağaçların yaprakları kırmızı ve sarıya döner.
+熱帯雨林 (nettai urin) | tropikal yağmur ormanı | isim | 熱帯雨林には、地球上の生物種の半分以上が生息している。 | Tropikal yağmur ormanlarında yeryüzündeki canlı türlerinin yarısından fazlası yaşar.
+草原 (sōgen) | bozkır, çayır | isim | モンゴルの草原では、遊牧の暮らしが今も続いている。 | Moğolistan bozkırlarında göçebe yaşam hâlâ sürüyor.
+砂漠化 (sabakuka) | çölleşme | isim | 過放牧が原因で、砂漠化が急速に進んでいる地域がある。 | Aşırı otlatma yüzünden çölleşmenin hızla ilerlediği bölgeler var.
+永久凍土 (eikyū tōdo) | donmuş toprak (permafrost) | isim | 温暖化で永久凍土が溶け、大量のメタンが放出されている。 | Isınmayla donmuş toprak eriyor ve büyük miktarda metan salınıyor.
+鉱山 (kōzan) | maden ocağı | isim | かつてこの町は鉱山で栄え、多くの労働者が暮らしていた。 | Bu kasaba bir zamanlar madenle zenginleşmiş, çok sayıda işçi burada yaşamıştı.
+埋蔵量 (maizōryō) | rezerv miktarı | isim | その国は世界最大級の石油の埋蔵量を持つ。 | O ülke dünyanın en büyük petrol rezervlerinden birine sahip.
+水資源 (mizushigen) | su kaynakları | isim | 気候変動によって、水資源の確保が難しくなる地域もある。 | İklim değişikliğiyle su kaynaklarını güvenceye almak bazı bölgelerde zorlaşıyor.
+## Japonya'nın coğrafyası
+列島 (rettō) | takımada | isim | 日本列島は南北に約三千キロにわたって細長く伸びている。 | Japon takımadaları kuzeyden güneye yaklaşık üç bin kilometre uzanır.
+離島 (ritō) | uzak ada | isim | 離島では、医師の確保が大きな課題となっている。 | Uzak adalarda doktor bulmak büyük bir sorun.
+瀬戸内海 (Seto Naikai) | Seto İç Denizi | isim | 瀬戸内海には七百以上の島が点在している。 | Seto İç Denizi'nde yedi yüzden fazla ada serpiştirilmiş.
+日本海側 (nihonkai-gawa) | Japon Denizi kıyısı | isim | 冬の日本海側は、雪の日が多く日照時間が短い。 | Kışın Japon Denizi kıyısında karlı gün çok, güneşli saat azdır.
+太平洋側 (taiheiyō-gawa) | Büyük Okyanus kıyısı | isim | 冬の太平洋側は、乾燥した晴れの日が続く。 | Kışın Büyük Okyanus kıyısında kuru ve açık günler sürer.
+豪雪地帯 (gōsetsu chitai) | yoğun kar bölgesi | isim | 豪雪地帯では、屋根の雪下ろしが冬の重労働だ。 | Yoğun kar bölgelerinde çatıdaki karı indirmek kışın ağır bir iştir.
+温泉地 (onsenchi) | kaplıca bölgesi | isim | 火山の多い日本には、全国に三千以上の温泉地がある。 | Volkanı bol Japonya'da ülke genelinde üç binden fazla kaplıca bölgesi var.
+名峰 (meihō) | ünlü zirve | isim | 富士山は古くから日本一の名峰として親しまれてきた。 | Fuji Dağı eskiden beri Japonya'nın en ünlü zirvesi olarak sevilir.
+北限 (hokugen) | kuzey sınırı (yayılış) | isim | 下北半島は、野生のニホンザルが生息する北限として知られる。 | Shimokita Yarımadası yabani Japon makaklarının yaşadığı en kuzey nokta olarak bilinir.
+中央構造線 (chūō kōzōsen) | Orta Tektonik Hat (Japonya'daki büyük fay hattı) | isim | 中央構造線は、九州から関東まで続く日本最大級の断層帯だ。 | Orta Tektonik Hat, Kyuşu'dan Kantō'ya uzanan Japonya'nın en büyük fay kuşaklarından biridir.
