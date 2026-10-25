@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım
+بَرْمَجَة (barmaja) | programlama | isim (d) | بدأت أتعلم البرمجة في سن الخامسة عشرة. | On beş yaşında programlama öğrenmeye başladım.
+بَرْمَجِيَّات (barmajiyyāt) | yazılım | isim (çoğul) | تبيع الشركة برمجيات للمستشفيات والبنوك. | Şirket hastanelere ve bankalara yazılım satıyor.
+نِظَامُ تَشْغِيل (niẓāmu tashghīl) | işletim sistemi | isim (e) | يحتاج الحاسوب إلى نظام تشغيل جديد. | Bilgisayarın yeni bir işletim sistemine ihtiyacı var.
+وَاجِهَة (wājiha) | arayüz; cephe, vitrin | isim (d) | واجهة التطبيق بسيطة وسهلة الاستخدام. | Uygulamanın arayüzü sade ve kullanımı kolay.
+شِيفْرَة (shīfra) | kod, şifre | isim (d) | كتب المبرمج الشيفرة في ثلاثة أيام. | Programcı kodu üç günde yazdı.
+ثَغْرَة (thaghra) | açık, zafiyet; boşluk (çoğ. ثَغَرَات) | isim (d) | اكتشف الباحث ثغرة أمنية في البرنامج. | Araştırmacı programda bir güvenlik açığı buldu.
+نُسْخَةٌ تَجْرِيبِيَّة (nuskhatun tajrībiyya) | deneme sürümü, beta | isim (d) | جرّبنا النسخة التجريبية من اللعبة قبل صدورها. | Oyunun deneme sürümünü çıkmadan önce denedik.
+مُطَوِّر (muṭawwir) | geliştirici | isim (e) | يعمل مطوّرًا للتطبيقات في شركة ناشئة. | Yeni kurulmuş bir şirkette uygulama geliştiricisi olarak çalışıyor.
+قَاعِدَةُ بَيَانَات (qāʿidatu bayānāt) | veritabanı | isim (d) | نحفظ معلومات الزبائن في قاعدة بيانات آمنة. | Müşteri bilgilerini güvenli bir veritabanında saklıyoruz.
+خَادِم (khādim) | sunucu; hizmetkâr (çoğ. خَوَادِم) | isim (e) | توقف الموقع لأن الخادم تعطّل. | Sunucu bozulduğu için site durdu.
+## Siber güvenlik
+أَمْنٌ سِيبْرَانِيّ (ʾamnun sībrāniyy) | siber güvenlik | isim (e) | تحتاج البنوك إلى خبراء في الأمن السيبراني. | Bankaların siber güvenlik uzmanlarına ihtiyacı var.
+قَرْصَنَة (qarṣana) | korsanlık; bilgisayar korsanlığı | isim (d) | تعرّض موقع الجامعة لعملية قرصنة. | Üniversitenin sitesi bir siber saldırıya uğradı.
+مُخْتَرِق (mukhtariq) | hacker, sızan kişi | isim (e) | سرق المخترقون بيانات آلاف المستخدمين. | Hackerlar binlerce kullanıcının verilerini çaldı.
+تَشْفِير (tashfīr) | şifreleme | isim (e) | يحمي التشفير رسائلك من القراءة. | Şifreleme mesajlarını okunmaktan korur.
+جِدَارُ حِمَايَة (jidāru ḥimāya) | güvenlik duvarı | isim (e) | شغّل جدار الحماية قبل الاتصال بالشبكة. | Ağa bağlanmadan önce güvenlik duvarını aç.
+بَرْنَامَجٌ خَبِيث (barnāmajun khabīth) | kötü amaçlı yazılım | isim (e) | دخل برنامج خبيث إلى الحاسوب عبر رسالة. | Kötü amaçlı bir yazılım bir mesaj aracılığıyla bilgisayara girdi.
+تَصَيُّد (taṣayyud) | oltalama (dolandırıcılık) | isim (e) | هذه الرسالة محاولة تصيّد، لا تفتح الرابط. | Bu mesaj bir oltalama girişimi, bağlantıyı açma.
+مُصَادَقَة (muṣādaqa) | kimlik doğrulama; onay | isim (d) | فعّل المصادقة الثنائية لحماية حسابك. | Hesabını korumak için iki aşamalı doğrulamayı aç.
+تَسْرِيبُ الْبَيَانَات (tasrību l-bayānāt) | veri sızıntısı | isim (e) | اعتذرت الشركة عن تسريب البيانات. | Şirket veri sızıntısı için özür diledi.
+اِبْتِزَاز (ibtizāz) | şantaj | isim (e) | أبلغت الشرطة عن محاولة ابتزاز عبر الإنترنت. | İnternet üzerinden yapılan bir şantaj girişimini polise bildirdi.
+## Yapay zekâ
+تَعَلُّمُ الْآلَة (taʿallumu l-ʾāla) | makine öğrenmesi | isim (e) | يستخدم تطبيق الترجمة تعلّم الآلة. | Çeviri uygulaması makine öğrenmesi kullanıyor.
+شَبَكَةٌ عَصَبِيَّة (shabakatun ʿaṣabiyya) | sinir ağı | isim (d) | تتعلم الشبكة العصبية من ملايين الصور. | Sinir ağı milyonlarca görüntüden öğreniyor.
+نَمُوذَج (namūdhaj) | model, örnek; form (çoğ. نَمَاذِج) | isim (e) | درّبنا النموذج على نصوص عربية كثيرة. | Modeli pek çok Arapça metinle eğittik.
+مُسَاعِدٌ ذَكِيّ (musāʿidun dhakiyy) | akıllı asistan | isim (e) | أطلب من المساعد الذكي أن يذكّرني بالمواعيد. | Akıllı asistandan bana randevuları hatırlatmasını istiyorum.
+أَتْمَتَة (ʾatmata) | otomasyon | isim (d) | ستغيّر الأتمتة كثيرًا من الوظائف في المستقبل. | Otomasyon gelecekte pek çok mesleği değiştirecek.
+ذَاتِيُّ الْقِيَادَة (dhātiyyu l-qiyāda) | sürücüsüz, otonom | sıfat | جرّبتُ سيارة ذاتية القيادة في المعرض. | Fuarda sürücüsüz bir araba denedim.
+تَعَرُّفٌ عَلَى الْوُجُوه (taʿarrufun ʿalā l-wujūh) | yüz tanıma | isim (e) | يفتح الهاتف بالتعرف على الوجوه. | Telefon yüz tanımayla açılıyor.
+أَخْلَاقِيَّات (ʾakhlāqiyyāt) | etik, ahlak ilkeleri | isim (çoğul) | يناقش المؤتمر أخلاقيات الذكاء الاصطناعي. | Konferans yapay zekâ etiğini tartışıyor.
+مُحَاكَاة (muḥākāh) | simülasyon; taklit | isim (d) | يتدرب الطيارون على أجهزة المحاكاة. | Pilotlar simülatörlerde eğitim alıyor.
+بَيَانَاتٌ ضَخْمَة (bayānātun ḍakhma) | büyük veri | isim (çoğul) | تحلّل الشركات البيانات الضخمة لفهم زبائنها. | Şirketler müşterilerini anlamak için büyük veriyi analiz ediyor.
+## Uzay
+فَضَاء (faḍāʾ) | uzay; boşluk | isim (e) | يحلم ابني بالسفر إلى الفضاء. | Oğlum uzaya gitmeyi hayal ediyor.
+رَائِدُ فَضَاء (rāʾidu faḍāʾ) | astronot (çoğ. رُوَّادُ فَضَاء) | isim (e) | قضى رائد الفضاء ستة أشهر في المحطة. | Astronot istasyonda altı ay geçirdi.
+مَرْكَبَةٌ فَضَائِيَّة (markabatun faḍāʾiyya) | uzay aracı | isim (d) | هبطت المركبة الفضائية بسلام على سطح القمر. | Uzay aracı Ay'ın yüzeyine güvenle iniş yaptı.
+صَارُوخ (ṣārūkh) | roket, füze (çoğ. صَوَارِيخ) | isim (e) | انطلق الصاروخ في الساعة السادسة صباحًا. | Roket sabah saat altıda fırlatıldı.
+مَدَار (madār) | yörünge; eksen | isim (e) | يدور القمر الصناعي في مدار حول الأرض. | Uydu Dünya'nın etrafında bir yörüngede dönüyor.
+كَوْكَب (kawkab) | gezegen (çoğ. كَوَاكِب) | isim (e) | المشتري أكبر كوكب في المجموعة الشمسية. | Jüpiter güneş sistemindeki en büyük gezegendir.
+مَجَرَّة (majarra) | galaksi | isim (d) | يقول العلماء إن في الكون مليارات المجرات. | Bilim insanları evrende milyarlarca galaksi olduğunu söylüyor.
+نَيْزَك (nayzak) | göktaşı, meteor (çoğ. نَيَازِك) | isim (e) | سقط نيزك صغير في الصحراء الليلة الماضية. | Dün gece çöle küçük bir göktaşı düştü.
+مَحَطَّةٌ فَضَائِيَّة (maḥaṭṭatun faḍāʾiyya) | uzay istasyonu | isim (d) | يمكن رؤية المحطة الفضائية من الأرض أحيانًا. | Uzay istasyonu bazen yerden görülebiliyor.
+إِطْلَاق (ʾiṭlāq) | fırlatma; serbest bırakma; ateş etme | isim (e) | تأجّل إطلاق القمر الصناعي بسبب الطقس. | Uydunun fırlatılması hava koşulları yüzünden ertelendi.
+## Donanım
+عَتَاد (ʿatād) | donanım; teçhizat | isim (e) | تحتاج هذه اللعبة إلى عتاد قوي. | Bu oyun güçlü bir donanım gerektiriyor.
+مُعَالِج (muʿālij) | işlemci; tedavi eden | isim (e) | هذا الحاسوب سريع لأن معالجه حديث. | Bu bilgisayar hızlı çünkü işlemcisi yeni.
+قُرْصٌ صُلْب (qurṣun ṣulb) | sabit disk | isim (e) | احفظ نسخة من الصور على القرص الصلب. | Fotoğrafların bir kopyasını sabit diske kaydet.
+مَنْفَذ (manfadh) | port, giriş; çıkış yolu (çoğ. مَنَافِذ) | isim (e) | في الحاسوب منفذان فقط للشاحن والسماعة. | Bilgisayarda şarj aleti ve kulaklık için yalnızca iki giriş var.
+كَابِل (kābil) | kablo (çoğ. كَابِلَات) | isim (e) | هذا الكابل قصير جدًا ولا يصل إلى المقبس. | Bu kablo çok kısa, prize yetişmiyor.
+طَابِعَةٌ ثُلَاثِيَّةُ الْأَبْعَاد (ṭābiʿatun thulāthiyyatu l-ʾabʿād) | üç boyutlu yazıcı | isim (d) | صنع الطلاب نموذجًا لبيت بطابعة ثلاثية الأبعاد. | Öğrenciler üç boyutlu yazıcıyla bir ev maketi yaptı.
+شَاشَةُ لَمْس (shāshatu lams) | dokunmatik ekran | isim (d) | لا تعمل شاشة اللمس عندما تكون يداي مبللتين. | Ellerim ıslakken dokunmatik ekran çalışmıyor.
+سَاعَةٌ ذَكِيَّة (sāʿatun dhakiyya) | akıllı saat | isim (d) | تحسب الساعة الذكية خطواتي كل يوم. | Akıllı saat her gün adımlarımı sayıyor.
+سِعَة (siʿa) | kapasite; genişlik | isim (d) | سعة ذاكرة الهاتف لا تكفي لكل الصور. | Telefonun hafıza kapasitesi bütün fotoğraflara yetmiyor.
+مُسْتَشْعِر (mustashʿir) | sensör, algılayıcı | isim (e) | يشعل المستشعر الضوء عندما يدخل أحد. | Biri içeri girince sensör ışığı yakıyor.
+## İnternet kullanımı
+نِطَاق (niṭāq) | alan adı; kapsam, alan | isim (e) | اشترينا اسم نطاق لموقع المطعم. | Restoranın sitesi için bir alan adı satın aldık.
+تَخْزِينٌ سَحَابِيّ (takhzīnun saḥābiyy) | bulut depolama | isim (e) | أحفظ كل ملفاتي في التخزين السحابي. | Bütün dosyalarımı bulut depolamada saklıyorum.
+بَرِيدٌ مُزْعِج (barīdun muzʿij) | istenmeyen e-posta, spam | isim (e) | ذهبت رسالة الجامعة إلى البريد المزعج. | Üniversitenin mesajı istenmeyen e-postalara düştü.
+مُنْتَدًى (muntadan) | forum (çoğ. مُنْتَدَيَات) | isim (e) | وجدت حل المشكلة في منتدى للمبرمجين. | Sorunun çözümünü programcılara yönelik bir forumda buldum.
+تَنْزِيل (tanzīl) | indirme; indirim | isim (e) | التنزيل بطيء جدًا في هذا المقهى. | Bu kafede indirme çok yavaş.
+غَيْرُ مُتَّصِل (ghayru muttaṣil) | çevrimdışı | sıfat | يعمل التطبيق حتى وأنت غير متصل. | Uygulama sen çevrimdışıyken de çalışıyor.
+حِسَابٌ مُوَثَّق (ḥisābun muwaththaq) | onaylı hesap | isim (e) | تابع الأخبار من الحسابات الموثقة فقط. | Haberleri yalnızca onaylı hesaplardan takip et.
+بَرِيدٌ وَارِد (barīdun wārid) | gelen kutusu | isim (e) | في بريدي الوارد مئة رسالة لم أقرأها. | Gelen kutumda okumadığım yüz mesaj var.
+تَسْجِيلُ الْخُرُوج (tasjīlu l-khurūj) | oturumu kapatma, çıkış yapma | isim (e) | لا تنسَ تسجيل الخروج من الحاسوب العام. | Ortak bilgisayardan çıkış yapmayı unutma.
+نَافِذَةٌ مُنْبَثِقَة (nāfidhatun munbathiqa) | açılır pencere | isim (d) | تظهر نافذة منبثقة كلما فتحت الموقع. | Siteyi her açtığımda bir açılır pencere çıkıyor.
+## Teknoloji fiilleri
+اِسْتَرْجَعَ (istarjaʿa) | geri getirmek, kurtarmak (veri) (geniş z.: يَسْتَرْجِعُ) | fiil | استرجع الفني الصور المحذوفة من الهاتف. | Teknisyen silinen fotoğrafları telefondan geri getirdi.
+زَامَنَ (zāmana) | eşitlemek, senkronize etmek (geniş z.: يُزَامِنُ) | fiil | يزامن الهاتف الصور مع الحاسوب تلقائيًا. | Telefon fotoğrafları bilgisayarla otomatik olarak eşitliyor.
+أَوْقَفَ (ʾawqafa) | durdurmak; park etmek (geniş z.: يُوقِفُ) | fiil · düzensiz | أوقفتُ التحديث لأن البطارية ضعيفة. | Pil zayıf olduğu için güncellemeyi durdurdum.
+رَبَطَ (rabaṭa) | bağlamak (geniş z.: يَرْبِطُ) | fiil | اربط الطابعة بالشبكة اللاسلكية قبل أن تطبع الملف. | Dosyayı yazdırmadan önce yazıcıyı kablosuz ağa bağla.
+أَدْخَلَ (ʾadkhala) | girmek (veri), sokmak (geniş z.: يُدْخِلُ) | fiil | أدخِل رقم الهاتف ثم اضغط على الزر. | Telefon numarasını gir, sonra düğmeye bas.
+صَمَّمَ (ṣammama) | tasarlamak; azmetmek (geniş z.: يُصَمِّمُ) | fiil | صمّمت نور موقعًا جميلًا لمحل أختها. | Nur, kız kardeşinin dükkânı için güzel bir site tasarladı.
+خَزَّنَ (khazzana) | depolamak, saklamak (geniş z.: يُخَزِّنُ) | fiil | يخزّن الهاتف البيانات في ذاكرة خارجية. | Telefon verileri harici bir bellekte depoluyor.
+مَرَّرَ (marrara) | kaydırmak; geçirmek (geniş z.: يُمَرِّرُ) | fiil | مرّر الشاشة إلى الأسفل لترى التعليقات. | Yorumları görmek için ekranı aşağı kaydır.
+ضَبَطَ (ḍabaṭa) | ayarlamak; yakalamak (geniş z.: يَضْبِطُ) | fiil | ضبطت المنبّه على الساعة السادسة. | Alarmı saat altıya kurdum.
+أَرْفَقَ (ʾarfaqa) | eklemek (dosya), iliştirmek (geniş z.: يُرْفِقُ) | fiil | أرفقتُ سيرتي الذاتية بالرسالة وأرسلتها إلى الشركة. | Özgeçmişimi mesaja ekleyip şirkete gönderdim.
+## Teknoloji ve toplum
+ثَوْرَةٌ رَقْمِيَّة (thawratun raqmiyya) | dijital devrim | isim (d) | غيّرت الثورة الرقمية طريقة تواصلنا. | Dijital devrim iletişim kurma biçimimizi değiştirdi.
+فَجْوَةٌ رَقْمِيَّة (fajwatun raqmiyya) | dijital uçurum | isim (d) | تزداد الفجوة الرقمية بين المدن والقرى. | Şehirlerle köyler arasındaki dijital uçurum büyüyor.
+اِبْتِكَار (ibtikār) | yenilik, inovasyon | isim (e) | تشجع الحكومة الابتكار بين الشباب. | Hükümet gençler arasında yenilikçiliği teşvik ediyor.
+عَصْرُ الْمَعْلُومَات (ʿaṣru l-maʿlūmāt) | bilgi çağı | isim (e) | نعيش في عصر المعلومات والسرعة. | Bilgi ve hız çağında yaşıyoruz.
+تَعْلِيمٌ إِلِكْتُرُونِيّ (taʿlīmun ʾiliktrūniyy) | e-öğrenme, uzaktan eğitim | isim (e) | انتشر التعليم الإلكتروني خلال فترة الوباء. | Salgın döneminde uzaktan eğitim yaygınlaştı.
+حُكُومَةٌ إِلِكْتُرُونِيَّة (ḥukūmatun ʾiliktrūniyya) | e-devlet | isim (d) | جدّدت رخصتي عبر بوابة الحكومة الإلكترونية. | Ehliyetimi e-devlet portalı üzerinden yeniledim.
+تِجَارَةٌ إِلِكْتُرُونِيَّة (tijāratun ʾiliktrūniyya) | e-ticaret | isim (d) | تبيع منتجاتها اليدوية عبر التجارة الإلكترونية. | El yapımı ürünlerini e-ticaret yoluyla satıyor.
+عُمْلَةٌ رَقْمِيَّة (ʿumlatun raqmiyya) | dijital para, kripto para | isim (d) | لا يثق جدي بالعملات الرقمية أبدًا. | Dedem dijital paralara hiç güvenmiyor.
+مُرَاقَبَة (murāqaba) | gözetim, izleme, denetim | isim (d) | ركّبنا كاميرات مراقبة أمام المحل. | Dükkânın önüne güvenlik kameraları taktık.
+مُوَاكَبَة (muwākaba) | ayak uydurma, takip etme | isim (d) | مواكبة التكنولوجيا صعبة على كبار السن. | Teknolojiye ayak uydurmak yaşlılar için zordur.
+## Teknik sorunlar
+بُطْء (buṭʾ) | yavaşlık | isim (e) | يشتكي الطلاب من بطء الإنترنت في السكن. | Öğrenciler yurttaki internetin yavaşlığından şikâyet ediyor.
+اِنْهَارَ (inhāra) | çökmek (geniş z.: يَنْهَارُ) | fiil · düzensiz | انهار النظام بسبب كثرة المستخدمين. | Sistem kullanıcı çokluğundan çöktü.
+إِعَادَةُ ضَبْطِ الْمَصْنَع (ʾiʿādatu ḍabṭi l-maṣnaʿ) | fabrika ayarlarına sıfırlama | isim (d) | حللت المشكلة بإعادة ضبط المصنع. | Sorunu fabrika ayarlarına sıfırlayarak çözdüm.
+تَوَافُق (tawāfuq) | uyumluluk, uyum | isim (e) | تأكد من توافق الشاحن مع هاتفك. | Şarj aletinin telefonunla uyumlu olduğundan emin ol.
+سُخُونَة (sukhūna) | ısınma, sıcaklık | isim (d) | يعاني الحاسوب من سخونة شديدة في الصيف. | Bilgisayar yazın aşırı ısınıyor.
+ضَيَاعُ الْبَيَانَات (ḍayāʿu l-bayānāt) | veri kaybı | isim (e) | النسخ الاحتياطي يحميك من ضياع البيانات. | Yedekleme seni veri kaybından korur.
+تَشْوِيش (tashwīsh) | parazit; karışıklık | isim (e) | في المكالمة تشويش ولا أسمعك جيدًا. | Görüşmede parazit var, seni iyi duyamıyorum.
+مُمْتَلِئ (mumtaliʾ) | dolu | sıfat | ذاكرة الهاتف ممتلئة، احذف بعض الفيديوهات. | Telefonun hafızası dolu, bazı videoları sil.
+تَلَف (talaf) | hasar, bozulma | isim (e) | أصاب الماء الهاتف بتلف كبير. | Su telefona büyük hasar verdi.
+قِطْعَةُ غِيَار (qiṭʿatu ghiyār) | yedek parça (çoğ. قِطَعُ غِيَار) | isim (d) | لا توجد قطع غيار لهذا الجهاز القديم. | Bu eski cihazın yedek parçası yok.
+## Teknoloji sıfatları ve kalıpları
+آلِيّ (ʾāliyy) | otomatik, mekanik | sıfat | يغلق الباب بشكل آلي بعد دقيقة. | Kapı bir dakika sonra otomatik olarak kapanıyor.
+تِلْقَائِيّ (tilqāʾiyy) | otomatik, kendiliğinden | sıfat | يتم التحديث بشكل تلقائي في الليل. | Güncelleme geceleri otomatik olarak yapılıyor.
+مَحْمُول (maḥmūl) | taşınabilir; taşınan | sıfat | اشترت جهازًا محمولًا لقياس الضغط. | Tansiyon ölçmek için taşınabilir bir cihaz aldı.
+عَمَلِيّ (ʿamaliyy) | pratik, kullanışlı; uygulamalı | sıfat | هذا التطبيق عملي جدًا لتنظيم الوقت. | Bu uygulama zamanı düzenlemek için çok pratik.
+مُعَقَّد (muʿaqqad) | karmaşık | sıfat | البرنامج معقّد ويحتاج إلى تدريب. | Program karmaşık ve eğitim gerektiriyor.
+سَهْلُ الِاسْتِخْدَام (sahlu l-istikhdām) | kullanımı kolay | sıfat | أريد هاتفًا سهل الاستخدام لجدتي. | Büyükannem için kullanımı kolay bir telefon istiyorum.
+عَفَا عَلَيْهِ الزَّمَن (ʿafā ʿalayhi z-zaman) | modası geçmiş, eskimiş | deyim | هذا الجهاز عفا عليه الزمن ولا أحد يستخدمه. | Bu cihazın modası geçti, kimse kullanmıyor.
+فِي مُتَنَاوَلِ الْيَد (fī mutanāwali l-yad) | el altında, ulaşılabilir | ifade | أصبحت المعلومات في متناول اليد بفضل الإنترنت. | İnternet sayesinde bilgi el altında oldu.
+بِضَغْطَةِ زِرّ (bi-ḍaghṭati zirr) | tek tuşla, bir düğmeye basarak | ifade | تستطيع أن تطلب الطعام بضغطة زر. | Tek tuşla yemek sipariş edebilirsin.
+ثَوْرِيّ (thawriyy) | devrimci, çığır açan | sıfat | كان اختراع الهاتف الذكي اختراعًا ثوريًا. | Akıllı telefonun icadı çığır açan bir buluştu.
