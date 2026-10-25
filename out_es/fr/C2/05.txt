@@ -1,0 +1,111 @@
+# UNIT: Bureau et jargon informatique | Argot d'entreprise, langage de programmation, jargon financier
+## Vie d'entreprise
+la startup | start-up, jeune pousse | La startup cherche de nouveaux investisseurs.
+el burn-out | burn-out, épuisement professionnel | El burn-out affecte de nombreux employés.
+el networking | réseautage, mise en réseau | El networking est utile pour trouver un emploi.
+el briefing | point, réunion d'information | Tenemos un briefing a primera hora.
+el feedback | retour, rétroaction | El jefe dio un feedback positivo al equipo.
+el deadline | date limite, échéance | El deadline del proyecto es el viernes.
+el target | cible, public cible | Debemos definir bien el target del producto.
+el management | gestion, management | El management aprobó la nueva estrategia.
+el b2b | commerce interentreprises, B2B | La empresa se centra en el sector b2b.
+el b2c | commerce grand public, B2C | El modelo b2c requiere mucha publicidad.
+## Langage de programmation et codage
+el commit | validation, commit | Hice un commit antes de salir.
+el merge | fusion [code], merge | El merge causó algunos conflictos en el código.
+el bug | bogue, bug informatique | Encontré un bug crítico en la aplicación.
+el refactor | refactoring, refactorisation | El refactor mejoró la velocidad del sistema.
+el deploy | déploiement | El deploy a producción será esta noche.
+el sprint | sprint [agile] | Terminamos el sprint con éxito.
+el back-end | back-end, développement côté serveur | Ella trabaja como desarrolladora de back-end.
+el front-end | front-end, interface utilisateur | El front-end debe ser muy intuitivo.
+el stack | pile technologique, stack technique | Nuestro stack incluye Python y React.
+el script | script, fichier de commandes | Escribí un script para automatizar tareas.
+## Serveur et base de données
+el cluster | grappe de serveurs, cluster | El cluster maneja millones de peticiones.
+el backup | sauvegarde | El backup automático se ejecuta de madrugada.
+el uptime | temps de disponibilité, uptime | El servidor tiene un uptime del noventa y nueve por ciento.
+el log | journal, fichier journal | Revisé el log para buscar errores.
+el script de base de datos | script de base de données | Ejecuté el script de base de datos ayer.
+el query | requête [base de données] | La query tardó demasiado en responder.
+el cache | cache, mémoire cache | Limpiar el cache solucionó el problema.
+el hosting | hébergement web | Contratamos un hosting más potente.
+el dominio web | nom de domaine | El dominio web está registrado por dos años.
+el firewall | pare-feu, firewall | El firewall bloqueó el acceso sospechoso.
+## Matériel et réseaux
+el router | routeur | Reinicié el router para recuperar la conexión.
+el switch | commutateur réseau, switch | El switch conecta todos los ordenadores de la oficina.
+el hardware | matériel informatique, hardware | Actualizamos el hardware de los equipos.
+el firmware | micrologiciel, firmware | Es necesario actualizar el firmware de la cámara.
+el puerto | port [matériel], connectique | El puerto USB dejó de funcionar.
+el protocolo de red | protocole réseau | Configuramos el protocolo de red de forma segura.
+el ancho de banda | bande passante | El ancho de banda actual es insuficiente.
+el conector | connecteur, prise | El conector de red está roto.
+el dispositivo | appareil, dispositif | Conectó un nuevo dispositivo al sistema.
+el monitor | moniteur, écran d'ordinateur | El monitor parpadea constantemente.
+## Cybersécurité
+el malware | logiciel malveillant, malware | El antivirus detectó un malware peligroso.
+el phishing | hameçonnage, phishing | Cayeron en una trampa de phishing.
+el ransomware | rançongiciel, ransomware | El ransomware cifró todos los archivos.
+el exploit | exploit, exploit de faille | Los piratas informáticos usaron un exploit desconocido.
+el troyano | cheval de Troye [cybersécurité] | El troyano robó credenciales bancarias.
+el keylogger | enregistreur de frappe, keylogger | Descubrieron un keylogger en el teclado.
+el sniffer | renifleur de paquets, sniffer | Usaron un sniffer para interceptar tráfico de red.
+el honeypot | pot de miel, honeypot | Instalaron un honeypot para cazar atacantes.
+el proxy | serveur proxy, mandataire | Navegan a través de un proxy seguro.
+el certificado ssl | certificat SSL | El sitio web necesita renovar su certificado ssl.
+## Méthodologies de gestion de projet
+el scrum | méthode Scrum | Aplicamos scrum en el desarrollo del software.
+el kanban | tableau Kanban | Usamos kanban para organizar las tareas diarias.
+el product owner | propriétaire de produit, product owner | El product owner define las prioridades del backlog.
+el scrum master | Scrum Master | El scrum master facilita las reuniones del equipo.
+el milestone | jalon, étape clé | Celebramos haber alcanzado el primer milestone.
+el feedback loop | boucle de rétroaction | Un feedback loop rápido mejora la calidad.
+el stakeholder | partie prenante, acteur concerné | Presentamos los resultados a los stakeholders.
+el scope | périmètre du projet, scope | Debemos evitar que el scope aumente sin control.
+el kickoff | réunion de lancement, kickoff | El kickoff del proyecto será el lunes.
+el release | version, sortie de logiciel | El release incluye nuevas funcionalidades.
+## Titres et rôles professionnels
+el cto | directeur technique, CTO | El cto lideró la transformación digital.
+el ceo | directeur général, PDG | El ceo anunció una expansión internacional.
+el cfo | directeur financier, CFO | El cfo revisó el presupuesto anual.
+el coo | directeur des opérations, COO | El coo optimizó la cadena de suministro.
+el ciso | responsable de la sécurité des systèmes d'information, CISO | El ciso implementó nuevas políticas de seguridad.
+el product manager | chef de produit, product manager | El product manager entrevistó a los usuarios.
+el team lead | chef d'équipe, team lead | El team lead asignó las nuevas tareas.
+el junior | débutant, junior | Contrataron a un programador junior.
+el senior | expérimenté, senior | El arquitecto senior diseñó la infraestructura.
+el freelancer | indépendant, travailleur autonome | Prefiere trabajar como freelancer desde casa.
+## Jargon financier et argot de l'argent
+el cash | argent liquide, cash | Prefieren pagos en cash para transacciones rápidas.
+el ftx | FTX [plateforme de cryptomonnaies] | Perdió dinero tras el colapso del ftx.
+el exchange | plateforme d'échange de cryptomonnaies | Transfirió sus fondos a un exchange seguro.
+el holding | société holding | El holding posee varias filiales tecnológicas.
+el cashflow | flux de trésorerie, cash-flow | El cashflow mensual es positivo este trimestre.
+el asset | actif, avoir | Diversificaron sus assets en diferentes mercados.
+el revenue | chiffre d'affaires, revenus | El revenue anual superó las expectativas.
+el startup funding | financement de startup | Consiguieron startup funding de inversores ángeles.
+el venture capital | capital-risque | El fondo de venture capital financió la expansión.
+el token | jeton numérique, token | Lanzaron un nuevo token en la red blockchain.
+## Jargon du marketing et de la vente
+el growth hacking | growth hacking | Aplicaron tácticas de growth hacking para crecer rápido.
+el lead | prospect, lead | La campaña generó quinientos leads nuevos.
+el funnel | entonnoir de conversion, funnel | Analizaron el funnel de ventas detalladamente.
+el bounce rate | taux de rebond | El sitio web tiene un bounce rate elevado.
+el conversion rate | taux de conversion | Mejorar la página aumentó el conversion rate.
+el engagement | taux d'engagement | Buscan aumentar el engagement en redes sociales.
+el click-through rate | taux de clics, CTR | El anuncio obtuvo un click-through rate excelente.
+el branding | image de marque, valorisation de la marque | Invirtieron mucho dinero en branding este año.
+el copywriting | rédaction publicitaire, copywriting | El copywriting persuasivo mejoró las ventas.
+el inbound marketing | marketing entrant, inbound marketing | Apuestan por el inbound marketing para atraer clientes.
+## Innovation et technologies futures
+el machine learning | apprentissage automatique, machine learning | El machine learning predice tendencias de consumo.
+el deep learning | apprentissage profond, deep learning | El deep learning procesa redes neuronales complejas.
+el big data | mégadonnées, big data | Analizan big data para tomar decisiones estratégicas.
+el iot (internet de las cosas) | Internet des objets, IoT | El iot conecta electrodomésticos a internet.
+el cloud computing | informatique en nuage, cloud computing | Migraron todos los servicios al cloud computing.
+el edge computing | informatique en périphérie, edge computing | El edge computing reduce la latencia de respuesta.
+el open source | open source, code source ouvert | Apoyan proyectos de open source globalmente.
+el saas | logiciel en tant que service, SaaS | Venden software mediante un modelo saas.
+el api | interface de programmation, API | Integraron una api de pago en la tienda online.
+el web3 | Web3, troisième génération du Web | Investigan las tecnologías descentralizadas de web3.

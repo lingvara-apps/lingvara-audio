@@ -1,0 +1,111 @@
+# UNIT: 办公室与IT行话 | 企业黑话、软件语言、金融黑话
+## 企业生活
+la startup | 初创公司 | 初创公司正在寻找新的投资者。
+el burn-out | 职业倦怠 | 职业倦怠影响了许多员工。
+el networking | 人脉拓展 | 人脉拓展对于找工作很有用。
+el briefing | 简报会 | 我们在清晨有一场简报会。
+el feedback | 反馈 | 老板给团队给予了积极的反馈。
+el deadline | 截止日期 | 项目的截止日期是星期五。
+el target | 目标受众 | 我们必须明确定义产品的目标受众。
+el management | 管理层 | 管理层批准了新策略。
+el b2b | 企业间业务（B2B） | 该公司专注于B2B行业。
+el b2c | 面向消费者业务（B2C） | B2C模式需要大量的广告投入。
+## 软件语言与编码
+el commit | 代码提交 | 我在出门前提交了一次代码。
+el merge | 代码合并 | 代码合并在代码中引发了一些冲突。
+el bug | 软件漏洞 | 我在应用中发现了一个严重的软件漏洞。
+el refactor | 代码重构 | 代码重构提升了系统的运行速度。
+el deploy | 部署发布 | 生产环境的部署将在今晚进行。
+el sprint | 敏捷冲刺期 | 我们成功完成了敏捷冲刺期。
+el back-end | 后端 | 她是一名后端开发工程师。
+el front-end | 前端 | 前端界面必须非常直观。
+el stack | 技术栈 | 我们的技术栈包含Python和React。
+el script | 脚本 | 我写了一个脚本来自动处理任务。
+## 服务器与数据库
+el cluster | 服务器集群 | 服务器集群处理数百万个请求。
+el backup | 自动备份 | 自动备份在凌晨运行。
+el uptime | 运行时间 | 该服务器的正常运行时间高达百分之九十九。
+el log | 日志文件 | 我检查了日志文件以查找错误。
+el script de base de datos | 数据库脚本 | 我昨天运行了数据库脚本。
+el query | 数据库查询 | 查询响应花费的时间太长了。
+el cache | 缓存 | 清理缓存解决了这个问题。
+el hosting | 主机托管服务 | 我们租用了功能更强大的主机托管服务。
+el dominio web | 网站域名 | 网站域名已注册两年。
+el firewall | 防火墙 | 防火墙阻止了可疑的访问。
+## 硬件与网络
+el router | 路由器 | 我重启了路由器以恢复网络连接。
+el switch | 网络交换机 | 网络交换机连接了办公室里的所有电脑。
+el hardware | 硬件设备 | 我们升级了设备的硬件。
+el firmware | 固件 | 有必要更新摄像头的固件。
+el puerto | 端口 | USB端口停止工作了。
+el protocolo de red | 网络协议 | 我们安全地配置了网络协议。
+el ancho de banda | 带宽 | 当前的带宽不足。
+el conector | 连接插头 | 网络连接插头坏了。
+el dispositivo | 电子设备 | 他向系统连接了一台新设备。
+el monitor | 显示器 | 显示器一直在闪烁。
+## 网络安全
+el malware | 恶意软件 | 防病毒软件检测到一个危险的恶意软件。
+el phishing | 网络钓鱼 | 他们陷入了一个网络钓鱼陷阱。
+el ransomware | 勒索软件 | 勒索软件加密了所有文件。
+el exploit | 漏洞利用 | 黑客使用了未知的漏洞利用程序。
+el troyano | 木马病毒 | 木马病毒窃取了银行凭证。
+el keylogger | 键盘记录器 | 他们在键盘上发现了一个键盘记录器。
+el sniffer | 数据包嗅探器 | 他们使用数据包嗅探器来拦截网络流量。
+el honeypot | 蜜罐陷阱 | 他们安装了一个蜜罐来诱捕攻击者。
+el proxy | 代理服务器 | 他们通过安全的代理服务器进行上网浏览。
+el certificado ssl | SSL证书 | 该网站需要更新其SSL证书。
+## 项目管理方法论
+el scrum | 敏捷开发框架 | 我们在软件开发中应用敏捷开发框架。
+el kanban | 看板工作流 | 我们使用看板来组织日常任务。
+el product owner | 产品负责人 | 产品负责人定义了待办事项的优先级。
+el scrum master | 敏捷教练 | 敏捷教练促进团队会议的顺利进行。
+el milestone | 里程碑 | 我们庆祝达到了第一个项目里程碑。
+el feedback loop | 反馈循环 | 快速的反馈循环能够提升质量。
+el stakeholder | 利益相关者 | 我们向利益相关者展示了结果。
+el scope | 项目范围 | 我们必须防止项目范围失控扩大。
+el kickoff | 启动会议 | 项目的启动会议将在星期一举行。
+el release | 版本发布 | 该版本发布包含新的功能。
+## 公司头衔与角色
+el cto | 首席技术官 | 首席技术官领导了数字化转型。
+el ceo | 首席执行官 | 首席执行官宣布了一项国际扩张计划。
+el cfo | 首席财务官 | 首席财务官审查了年度预算。
+el coo | 首席运营官 | 首席运营官优化了供应链。
+el ciso | 首席信息安全官 | 首席信息安全官实施了新的安全政策。
+el product manager | 产品经理 | 产品经理采访了用户。
+el team lead | 团队主管 | 团队主管分配了新的任务。
+el junior | 初级员工 | 他们雇佣了一名初级程序员。
+el senior | 高级员工 | 高级架构师设计了基础设施。
+el freelancer | 自由职业者 | 他更喜欢在家作为自由职业者工作。
+## 金融黑话与货币俚语
+el cash | 现金 | 为了交易快捷，他们更倾向于使用现金支付。
+el ftx | 加密交易所名（FTX） | 他在FTX崩溃后损失了资金。
+el exchange | 加密货币交易所 | 他把资金转到了一个安全的加密货币交易所。
+el holding | 控股公司 | 该控股公司拥有几家技术子公司。
+el cashflow | 现金流 | 本季度的月度现金流为正。
+el asset | 资产 | 他们将资产分散投资于不同的市场。
+el revenue | 营收 | 年度营收超出了预期。
+el startup funding | 初创企业融资 | 他们从天使投资人那里获得了初创企业融资。
+el venture capital | 风险投资 | 风险投资基金资助了此次业务扩张。
+el token | 加密代币 | 他们在区块链网络上发行了一种新代币。
+## 营销与销售黑话
+el growth hacking | 增长黑客 | 他们应用增长黑客策略来实现快速增长。
+el lead | 潜在客户线索 | 该活动产生了五百个新的潜在客户线索。
+el funnel | 转化漏斗 | 他们详细分析了销售转化漏斗。
+el bounce rate | 跳出率 | 该网站的跳出率很高。
+el conversion rate | 转化率 | 优化网页提升了转化率。
+el engagement | 用户互动率 | 他们旨在提升社交媒体上的用户互动率。
+el click-through rate | 点击率 | 该广告获得了极佳的点击率。
+el branding | 品牌塑造 | 他们今年在品牌塑造上投入了大量资金。
+el copywriting | 文案写作 | 有说服力的文案写作促进了销售。
+el inbound marketing | 入站营销 | 他们依靠入站营销来吸引客户。
+## 创新与未来科技
+el machine learning | 机器学习 | 机器学习可以预测消费趋势。
+el deep learning | 深度学习 | 深度学习处理复杂的神经网络。
+el big data | 大数据 | 他们通过分析大数据来做出战略决策。
+el iot (internet de las cosas) | 物联网 | 物联网将家用电器连接到互联网。
+el cloud computing | 云计算 | 他们将所有服务迁移到了云计算。
+el edge computing | 边缘计算 | 边缘计算减少了响应延迟。
+el open source | 开源软件 | 他们在全球范围内支持开源软件项目。
+el saas | 软件即服务（SaaS） | 他们通过软件即服务模式销售软件。
+el api | 应用程序接口（API） | 他们在网购平台中集成了支付应用程序接口。
+el web3 | Web3（第三代互联网） | 他们研究Web3的去中心化技术。

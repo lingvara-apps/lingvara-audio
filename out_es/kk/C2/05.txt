@@ -1,0 +1,111 @@
+# UNIT: Кеңсе және IT жаргоны | Корпоративтік жаргон, бағдарламалау тілі, қаржы жаргоны
+## Корпоративтік өмір
+la startup | стартап, жас инновациялық кәсіпорын | La startup busca nuevos inversores.
+el burn-out | кәсіби күйзеліс, жанып кету синдромы | El burn-out afecta a muchos empleados.
+el networking | іскерлік байланыс орнату, нетворкинг | El networking es útil para encontrar empleo.
+el briefing | брифинг, қысқаша ақпарат алмасу жиналысы | Tenemos un briefing a primera hora.
+el feedback | кері байланыс | El jefe dio un feedback positivo al equipo.
+el deadline | соңғы мерзім, тапсыру уақыты | El deadline del proyecto es el viernes.
+el target | мақсатты аудитория | Debemos definir bien el target del producto.
+el management | басшылық, менеджмент | El management aprobó la nueva estrategia.
+el b2b | бизнес пен бизнес арасындағы сауда (b2b) | La empresa se centra en el sector b2b.
+el b2c | бизнес пен тұтынушы арасындағы сауда (b2c) | El modelo b2c requiere mucha publicidad.
+## Бағдарламалау тілі және кодтау
+el commit | кодты сақтау (commit) | Hice un commit antes de salir.
+el merge | кодты біріктіру (merge) | El merge causó algunos conflictos en el código.
+el bug | бағдарлама қатесі, баг | Encontré un bug crítico en la aplicación.
+el refactor | кодты оңтайландыру, рефакторинг | El refactor mejoró la velocidad del sistema.
+el deploy | өндіріске енгізу, серверге жүктеу (deploy) | El deploy a producción será esta noche.
+el sprint | спринт, жұмыс кезеңі | Terminamos el sprint con éxito.
+el back-end | серверлік бөлік, бэкэнд | Ella trabaja como desarrolladora de back-end.
+el front-end | интерфейс бөлігі, фронтэнд | El front-end debe ser muy intuitivo.
+el stack | технологиялар жиынтығы, стек | Nuestro stack incluye Python y React.
+el script | скрипт, шағын сценарий файл | Escribí un script para automatizar tareas.
+## Сервер және деректер базасы
+el cluster | серверлер кластері, топ | El cluster maneja millones de peticiones.
+el backup | резервтік көшірме, бэкап | El backup automático se ejecuta de madrugada.
+el uptime | жұмыс істеу уақыты (uptime) | El servidor tiene un uptime del noventa y nueve por ciento.
+el log | жүйелік журнал, лог файл | Revisé el log para buscar errores.
+el script de base de datos | деректер базасының скрипті | Ejecuté el script de base de datos ayer.
+el query | деректер базасының сұранысы, сұрау | La query tardó demasiado en responder.
+el cache | кэш, уақытша жад | Limpiar el cache solucionó el problema.
+el hosting | хостинг, серверді жалға алу | Contratamos un hosting más potente.
+el dominio web | веб-домен, интернет мекенжайы | El dominio web está registrado por dos años.
+el firewall | желілік экран, брандмауэр | El firewall bloqueó el acceso sospechoso.
+## Жабдықтар және желілер
+el router | роутер, маршрутизатор | Reinicié el router para recuperar la conexión.
+el switch | коммутатор, желілік ауыстырып-қосқыш | El switch conecta todos los ordenadores de la oficina.
+el hardware | аппараттық құралдар, жабдық | Actualizamos el hardware de los equipos.
+el firmware | микробағдарлама, прошивка | Es necesario actualizar el firmware de la cámara.
+el puerto | порт, байланыс ұяшығы | El puerto USB dejó de funcionar.
+el protocolo de red | желілік хаттама | Configuramos el protocolo de red de forma segura.
+el ancho de banda | интернет өткізу қабілеті, трафик көлемі | El ancho de banda actual es insuficiente.
+el conector | қосқыш, жалғағыш тетік | El conector de red está roto.
+el dispositivo | құрылғы, гаджет | Conectó un nuevo dispositivo al sistema.
+el monitor | монитор, дисплей | El monitor parpadea constantemente.
+## Киберқауіпсіздік
+el malware | зиянды бағдарлама, вирус | El antivirus detectó un malware peligroso.
+el phishing | фишинг, алаяқтық шабуыл | Cayeron en una trampa de phishing.
+el ransomware | бопсалаушы вирус (ransomware) | El ransomware cifró todos los archivos.
+el exploit | эксплойт, қауіпсіздік осалдығын пайдалану құралы | Los piratas informáticos usaron un exploit desconocido.
+el troyano | трояндық бағдарлама | El troyano robó credenciales bancarias.
+el keylogger | пернетақта қадағалаушысы (keylogger) | Descubrieron un keylogger en el teclado.
+el sniffer | желілік трафикті ұстаушы (sniffer) | Usaron un sniffer para interceptar tráfico de red.
+el honeypot | тұзақ сервер, бал құмырасы (honeypot) | Instalaron un honeypot para cazar atacantes.
+el proxy | прокси-сервер, жасырын сервер | Navegan a través de un proxy seguro.
+el certificado ssl | SSL сертификаты | El sitio web necesita renovar su certificado ssl.
+## Жобаны басқару әдіснамалары
+el scrum | скрам әдіснамасы | Aplicamos scrum en el desarrollo del software.
+el kanban | канбан тақтасы, көрнекі жұмыс тақтасы | Usamos kanban para organizar las tareas diarias.
+el product owner | өнім иесі (product owner) | El product owner define las prioridades del backlog.
+el scrum master | скрам-мастер, жұмыс үйлестіруші | El scrum master facilita las reuniones del equipo.
+el milestone | аралық кезең, маңызды меже | Celebramos haber alcanzado el primer milestone.
+el feedback loop | кері байланыс айналымы | Un feedback loop rápido mejora la calidad.
+el stakeholder | мүдделі тарап, стейкхолдер | Presentamos los resultados a los stakeholders.
+el scope | жоба көлемі, аясы | Debemos evitar que el scope aumente sin control.
+el kickoff | кіріспе жиын, жобаны бастау жиналысы | El kickoff del proyecto será el lunes.
+el release | бағдарлама нұсқасын шығару (release) | El release incluye nuevas funcionalidades.
+## Корпоративтік атақтар мен ролдер
+el cto | техникалық директор (CTO) | El cto lideró la transformación digital.
+el ceo | бас атқарушы директор (CEO) | El ceo anunció una expansión internacional.
+el cfo | қаржы директоры (CFO) | El cfo revisó el presupuesto anual.
+el coo | операциялық директор (COO) | El coo optimizó la cadena de suministro.
+el ciso | ақпараттық қауіпсіздік директоры (CISO) | El ciso implementó nuevas políticas de seguridad.
+el product manager | өнім менеджері | El product manager entrevistó a los usuarios.
+el team lead | топ жетекшісі, тимлид | El team lead asignó las nuevas tareas.
+el junior | кіші маман, бастаушы қызметкер (junior) | Contrataron a un programador junior.
+el senior | тәжірибелі маман, аға қызметкер (senior) | El arquitecto senior diseñó la infraestructura.
+el freelancer | штаттан тыс қызметкер, фрилансер | Prefiere trabajar como freelancer desde casa.
+## Қаржы жаргоны және ақша терминдері
+el cash | қолма-қол ақша | Prefieren pagos en cash para transacciones rápidas.
+el ftx | криптобиржа атауы (FTX) | Perdió dinero tras el colapso del ftx.
+el exchange | криптобиржа, криптовалюта алмасу алаңы | Transfirió sus fondos a un exchange seguro.
+el holding | холдинг компаниясы | El holding posee varias filiales tecnológicas.
+el cashflow | ақша ағыны (cashflow) | El cashflow mensual es positivo este trimestre.
+el asset | актив, мүлік | Diversificaron sus assets en diferentes mercados.
+el revenue | түсім, жалпы табыс | El revenue anual superó las expectativas.
+el startup funding | стартапты қаржыландыру | Consiguieron startup funding de inversores ángeles.
+el venture capital | венчурлік капитал | El fondo de venture capital financió la expansión.
+el token | цифрлық токен, криптомонета | Lanzaron un nuevo token en la red blockchain.
+## Маркетинг және сатылым жаргоны
+el growth hacking | гроутхакинг, жылдам өсу әдістері | Aplicaron tácticas de growth hacking para crecer rápido.
+el lead | әлеуетті клиент, лид | La campaña generó quinientos leads nuevos.
+el funnel | сатылым воронкасы, түйінді жол | Analizaron el funnel de ventas detalladamente.
+el bounce rate | дереу шығып кету көрсеткіші (bounce rate) | El sitio web tiene un bounce rate elevado.
+el conversion rate | конверсия коэффициенті, сатылым пайызы | Mejorar la página aumentó el conversion rate.
+el engagement | тұтынушылардың белсенділігі, энгейджмент | Buscan aumentar el engagement en redes sociales.
+el click-through rate | басу коэффициенті (CTR) | El anuncio obtuvo un click-through rate excelente.
+el branding | брендті қалыптастыру, брендті таныту | Invirtieron mucho dinero en branding este año.
+el copywriting | копирайтинг, сатылым мәтіндерін жазу | El copywriting persuasivo mejoró las ventas.
+el inbound marketing | кіріс маркетингі | Apuestan por el inbound marketing para atraer clientes.
+## Инновация және болашақ технологиялары
+el machine learning | машиналық оқыту | El machine learning predice tendencias de consumo.
+el deep learning | терең оқыту жасанды интеллекті | El deep learning procesa redes neuronales complejas.
+el big data | үлкен деректер (Big Data) | Analizan big data para tomar decisiones estratégicas.
+el iot (internet de las cosas) | заттар интернеті (IoT) | El iot conecta electrodomésticos a internet.
+el cloud computing | бұлтты есептеулер | Migraron todos los servicios al cloud computing.
+el edge computing | шеткі есептеулер (Edge Computing) | El edge computing reduce la latencia de respuesta.
+el open source | ашық бастапқы кодты бағдарлама | Apoyan proyectos de open source globalmente.
+el saas | қызмет ретіндегі бағдарламалық жасақтама (SaaS) | Venden software mediante un modelo saas.
+el api | бағдарламалық интерфейс (API) | Integraron una api de pago en la tienda online.
+el web3 | үшінші буын интернеті (Web3) | Investigan las tecnologías descentralizadas de web3.

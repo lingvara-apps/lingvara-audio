@@ -1,0 +1,111 @@
+# UNIT: Тіл және тіл білімі | Тіл білімі, аударма, тіл үйрену
+## Грамматика ұғымдары
+la morfosintacta | морфосинтаксис | Modern İspanyolcanın biçimbirim ve sözdizimini çalışıyoruz.
+el morfema derivativo | туынды морфема | Önek çok yaygın bir türetim ekidir.
+el lexema base | түбір сөз | Her sözcük ailesinin temel kökünü belirliyoruz.
+la raiz etimologica | этимологиялық түбір | Birçok teknik sözcüğün etimolojik kökünü biliyoruz.
+el sufijo apreciativo | бағалау жұрнағы | Sevgi ifade etmek için bir küçültme-büyütme eki kullanıyoruz.
+la inflexion verbal | етістік түрленуі | Dilek-şart kipindeki fiil çekimi çok pratik gerektirir.
+el campo semantico | мағыналық өріс | Hayvanları kendi anlam alanları içinde gruplandırıyoruz.
+la sinonimia parcial | ішінара синонимдік | Belirli edebi terimler arasındaki kısmi eş anlamlılığı açıklıyoruz.
+la polisemia compleja | күрделі көп мағыналылық | Kip fiillerinin karmaşık çok anlamlılığını inceliyoruz.
+el homofono exacto | омофон | Hızlı sözlü bağlamlarda tam eş sesliyi ayırt ediyoruz.
+## Тіл біліми терминдері
+la fonologia acustica | акустикалық фонетика | Açık ünlülerinin akustik ses bilgisini araştırıyoruz.
+el fonema oclusivo | ұяң дыбыс | Her patlayıcı ses birimini katı bir hassasiyetle telaffuz ediyoruz.
+la silaba tona | екпінсіз буын | Doğal bir şekilde konuşurken vurgusuz heceyi zayıflatıyoruz.
+el diptongo creciente | өсетін дифтонг | Toprak sözcüğünde yükselen bir ünlü birleşimini tanıyoruz.
+el hiato acentuado | екпінді хиатус | Güçlü ünlüleri vurgulu bir ünlü çatışması oluşturacak şekilde ayırıyoruz.
+la entonacion ascendente | көтеріңкі интонация | Doğrudan sorularda yükselen tonlamayı belirtiyoruz.
+la pragmatica textual | мәтіндік прагматика | Uzun söylemleri yorumlarken metin edimbilimini uyguluyoruz.
+la sintaxis oracional | сөйлем синтаксисі | Okumayı geliştirmek için cümle sözdizimini basitleştiriyoruz.
+la semantica formal | формальды семантика | Mantıksal bağlaçların biçimsel anlam bilimi üzerine tartışıyoruz.
+la ortografia practica | практикалық емле | Final sınavından önce pratik imla kurallarını gözden geçiriyoruz.
+## Аударма әдістері
+la traduccion literal | тура аударма | Karmaşık deyimsel metinlerde kelimesi kelimesine çeviriden kaçınıyoruz.
+la adaptacion cultural | мәдени бейімдеу | Yerel şakalar için kültürel bir uyarlama gerçekleştiriyoruz.
+el calco linguistico | калька | Modern İngilizceden gelen bir dilsel kopyayı tespit ediyoruz.
+la modulacion semantica | семантикалық модульдеу | Daha fazla akıcılık elde etmek için anlamsal kip değişimini kullanıyoruz.
+la transposition gramatical | грамматикалық ауыстыру | Sözcük türlerini değiştirerek dilbilgisel dönüştürme alıştırması yapıyoruz.
+la equivalencia dinamica | динамикалық эквиваленттілік | Çevrilmiş şiirlerde dinamik eşdeğerliği arıyoruz.
+la compensacion estilistica | стилистикалық өтеу | Çevrilemeyen metaforlarda biçemsel bir telafi uyguluyoruz.
+el giro idiomatico | идиомалық тіркес | Her deyimsel kalıbı kendi doğal karşılığıyla çeviriyoruz.
+la reduccion textual | мәтінді қысқарту | Çok uzun altyazılarda metinsel bir kısaltma yapıyoruz.
+la explicacion contextual | мәнмәтіндік түсіндірме | Tarihsel referanslar için bağlamsal bir açıklama ekliyoruz.
+## Қос тілді сөздіктер
+el lexico especializado | мамандандырылған лексика | Modern tıbbın uzmanlaşmış söz varlığını danışıyoruz.
+el glosario bilingue | қос тілді сөздікше | Bilimsel projemiz için iki dilli bir sözlükçe derliyoruz.
+el termino tecnico | техникалық термин | Her teknik terimi büyük bir akademik titizlikle tanımlıyoruz.
+la acepcion principal | негізгі мағына | Kullanımdan kalkmış bu fiilin başlıca anlamını arıyoruz.
+el arcaismo util | архаизм | Klasik şiir metinlerinde faydalı bir eski sözcüğü tanıyoruz.
+el neologismo digital | цифрлық неологизм | Genel sözlüğe dijital bir yeni sözcük dahil ediyoruz.
+el regionalismo tipico | диалектизм | Atlantik kıyısının tipik yöresel sözcüğünü anlıyoruz.
+el vulgarismo frecuente | вульгаризм | Yazılı resmî kayıtlarda sık kullanılan halk dilinden kaçınıyoruz.
+la nota lexicografica | лексикографиялық ескертпе | Sözcüğün kökeni hakkındaki sözlükbilimsel notu okuyoruz.
+el banco terminologico | терминдер банкі | Kamu kurumumuzun terim bankasını güncelliyoruz.
+## Сөз түбірлері
+la raiz indoeuropea | үндіеуропалық түбір | Çeşitli temel fiillerin Hint-Avrupa kökünü yeniden oluşturuyoruz.
+el origen latino | латындық шығу тегі | Batı Romen dillerining Latince kökenini inceliyoruz.
+el préstamo léxico | лексикалық кірме сөз | Arapça veya Cermen kökenli her sözcüksel alıntıyı inceliyoruz.
+la etimologia popular | халықтық этимология | Bölgede çok yaygın olan bir halk etimolojisini yalanlıyoruz.
+el cambio fonetico | дыбыстық өзгеріс | Latince ile İspanyolca arasındaki tarihsel sessel değişimi açıklıyoruz.
+la evolucion semantica | семантикалық эволюция | Eski sözcüklerin anlamsal evrimini izliyoruz.
+el sufijo culto | кітапқы жұрнақ | Güncel bilim terimlerinde kültürel bir eki tanıyoruz.
+el prefijo griego | грек префиксі | Yüksek teknoloji sözcüklerinde Yunanca öneki belirliyoruz.
+la raiz semitica | семит түбірі | Sami kökünü diğer Afroasiatik dિલેriyle karşılaştırıyoruz.
+el rastro historico | тарихи із | Orta Çağ el yazmalarının tarihsel izini takip ediyoruz.
+## Жоғарғы деңгейлі грамматика
+la subordinada sustantiva | есім бағыныңқы сөйлем | Doğrudan nesne olan bir isim yan cümlesini inceliyoruz.
+la oracion impersonal | жақсыз сөйлем | Haber fiiliyle şahıssız bir cümle kuruyoruz.
+el sujeto elidito | түсіріліп айтылған бастауыш | Fiil ekinden gizli özneyi belirliyoruz.
+el complemento circunstancial | пысықтауыш | Zaman ve yer zarf tümlecinin altını çiziyoruz.
+la proposicion coordinada | салалас құрмалас сөйлем | Karşıtlık bildiren sıralı bir cümle aracılığıyla iki cümleyi birleştiriyoruz.
+el modo subjuntivo | қалау рай | Kuşkulu cümlelerde dilek-şart kipinin ileri düzey kullanımında ustalaşıyoruz.
+la voz pasiva refleja | өздіктік-ырықсыз етіс | Kurumsal duyurularda dönüşlü edilgen çatıyı kullanıyoruz.
+el participio absoluto | тәуелсіз көсемше | Başlangıçta mutlak ortaç içeren bir yapıyı inceliyoruz.
+el atributo nominal | атауыш баяндауыш | Bağ fiillerin ardındaki ad soylu yüklem tümlecini tanıyoruz.
+la perifrasis verbal | күрделі етістік құрылымы | Olasılık ve zorunluluk bildiren her fiil öbeğini açıklıyoruz.
+## Дискурс талдауы
+el analisis critico | сыни талдау | Reklam mesajlarının eleştirel bir analizini gerçekleştiriyoruz.
+la cohesion textual | мәтіндік байланыс | Uygun mantıksal bağlaçları kullanarak metinsel bağdaşıklığı geliştiriyoruz.
+la coherencia global | жаһандық үйлесімділік | Tüm akademik denemenin küresel tutarlılığını kontrol ediyoruz.
+el marcador discursivo | дискурс маркері | Konuyu yumuşakça değiştirmek için bir söylem işaretleyicisi ekliyoruz.
+la ironia sutil | жіңішке ирония | Biçimsel sözlerinin ardındaki ince ironiyi tespit ediyoruz.
+el discurso elocuente | шешендік сөз | Siyasi tartışmamızda etkili bir söylem benimseriz.
+la intencion comunicativa | коммуникативті ниет | Bu denemede yazarın iletişimsel niyetini analiz ediyoruz.
+el contexto situacional | жағдаяттық мәнмәтін | Eleştirel bir yargıda bulunmadan önce durumsal bağlamı değerlendiriyoruz.
+la presuposicion logica | логикалық алдын ала болжам | Ana argümanında mantıksal bir ön varsayım keşfediyoruz.
+la falacia argumentativa | аргументтік қателік | Açık tartışmada bir argüman yanılgısını belirliyoruz.
+## Тіл игеру және оқыту
+la adquisicion natural | табиғи игеру | Çocuk ana dilinin doğal edinimini inceliyoruz.
+el bilinguismo precoz | ерте екітілділік | Erken iki dilliliğin bilişsel avantajlarını analiz ediyoruz.
+la destreza comunicativa | коммуникативті дағды | Profesyonel bağlamlarda iletişim becerisini geliştiriyoruz.
+la interlengua intermedia | аралық тіл | Ara dilin tipik hatalarını düzeltiyoruz.
+la metodologia activa | белсенді әдістеме | Ana derslerimizde aktif bir öğretim yöntemi uyguluyoruz.
+el enfoque comunicativo | коммуникативті тәсіл | Geleneksel yönteme kıyasla iletişimsel yaklaşımı tercih ediyoruz.
+la retroalimentacion docente | мұғалім кері байланысы | Telaffuzumuz hakkında değerli bir öğretmen geri bildirimi alıyoruz.
+la destreza auditiva | тыңдау дағдысы | Hızlı ses testleri yoluyla dinleme becerisini değerlendiriyoruz.
+la comprension lectora | оқығанын түсіну | İleri düzey gazetecilik metinleriyle okuduğunu anlama becerisini teşvik ediyoruz.
+la expresion oral | ауызша сөйлеу | Haftalık grup tartışmalarında sözlü ifade alıştırması yapıyoruz.
+## Тарихи тіл білімі
+la lengua indoeuropea | үндіеуропа тілі | Eski ortak Hint-Avrupa dilinin yönlerini yeniden oluşturuyoruz.
+el cambio linguistic | тілдік өзгеріс | Orta Çağ metinlerinde belgelenen dilsel değişimi inceliyoruz.
+la gramatica historica | тарихи грамматика | Eski ve modern İspanyolcanın tarihsel dilbilgisini analiz ediyoruz.
+la fonetica historica | тарихи фонетика | Sürtünmeli ünsüzlerin tarihsel ses bilgisini açıklıyoruz.
+el latin vulgar | халықтық латын тілі | Romen dillerindeki sözcükleri doğrudan halk Latincesinden türetiyoruz.
+la lengua romance | роман тілі | İspanyolcayı bir diğer yarımada Romen diliyle karşılaştırıyoruz.
+el estrato prerromano | романға дейінгі қабат | Yerel yer adlarında Roma öncesi bir katmanı belirliyoruz.
+la influencia arabe | араб тілінің ықпалы | İber tarım söz varlığında Arap etkisini tanıyoruz.
+el texto primitif | бастапқы мәтін | Katedral arşivlerinde ilk dönem metni keşfediyoruz.
+la evolucion fonetica | дыбыстық эволюция | Latin vurgusuz ünlülerinin ses evrimini izliyoruz.
+## Заманауи тіл білімі
+la sociolinguistica urbana | қалалық әлеуметтік тіл білімі | Büyük megakentlerde kentsel toplumdillibilimi araştırıyoruz.
+la geolinguistica moderna | заманауи географиялық тіл білімі | Konuşma dillerinin interaktif haritalarında modern coğrafi dilbilimi uyguluyoruz.
+la psicolinguistica cognitiva | когнитивті психолингвистика | Sözcüksel işlemenin bilişsel ruhdillibilimini inceliyoruz.
+la neurolinguistica clinica | клиникалық нейролингвистика | Afazili hastalarda klinik nörodillibilimi analiz ediyoruz.
+la antropologia linguistica | лингвистикалық антропология | Yerli toplulukların dil antropolojisini keşfediyoruz.
+la etnolinguistica americana | американдық этнолингвистика | Uzak kırsal bölgelerde Amerikan etnodillibilimini belgeliyoruz.
+la ciberinguistica aplicada | қолданбалы киберлингвистика | Sosyal ağlara uygulanan siberdilbilim projeleri geliştiriyoruz.
+la linguistica computacional | компьютерлік лингвистика | Modern bilgisayarsal dilbilimde algoritmalar programlıyoruz.
+la lexicografia digital | цифрлық лексикография | Devasa metin derlemleriyle dijital sözlükbilimi güncelliyoruz.
+la gramatica generativa | генеративті грамматика | Biçimsel üretken dilbilgisinin merkezî teorisini açıklıyoruz.

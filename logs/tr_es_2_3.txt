@@ -1,41 +1,41 @@
 günlük sınır: anahtar #8 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #8 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es kk A2/02: ["line 19: column 1 must be exactly 'la agenda'", "line 106: column 1 must be exactly 'la estrategia'"]
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es kk A2/11: ["line 77: column 1 must be exactly 'la energía pura'"]
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-bitti, çevrilen: 52
-52
+BAŞARISIZ es fr B2/18: ["line 92: column 1 must be exactly 'la nocion'"]
+BAŞARISIZ es fr C1/06: ["line 3: column 1 must be exactly 'exaltación'"]
+BAŞARISIZ es fr C1/13: ["line 16: column 1 must be exactly 'el materialismo dialektik'"]
+BAŞARISIZ es fr C2/10: ["line 58: column 1 must be exactly 'marcar la diferencia'"]
+429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es zh B1/04: ["line 39: column 1 must be exactly 'el bulu'"]
+BAŞARISIZ es zh B1/05: ["line 44: column 1 must be exactly 'la energía vital'", "line 56: column 1 must be exactly 'la aromaterapi natural'"]
+BAŞARISIZ es zh B2/10: ["line 58: column 1 must be exactly 'la escalada en roca'"]
+BAŞARISIZ es zh C1/15: ["line 82: column 1 must be exactly 'la basílica menor'"]
+429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+HTTP 503 anahtar #9: {
+
+HTTP 404 anahtar #9: {
+HTTP 503 anahtar #9: {
+
+BAŞARISIZ es ar C1/13: ["line 16: column 1 must be exactly 'el materialismo dialektik'"]
+günlük sınır: anahtar #8 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+günlük sınır: anahtar #9 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+HTTP 503 anahtar #9: {
+
+günlük sınır: anahtar #9 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+HTTP 503 anahtar #10: {
+
+HTTP 404 anahtar #10: {
+ağ hatası ReadTimeout
+BAŞARISIZ es kk B1/03: ["line 44: column 1 must be exactly 'la tecnología'"]
+BAŞARISIZ es kk B2/09: ["line 18: column 1 must be exactly 'la refutación'", "line 87: column 1 must be exactly 'la influencia indek'"]
+BAŞARISIZ es kk B2/18: ["line 103: column 1 must be exactly 'la estructura'", "line 106: column 1 must be exactly 'el mecanismo'"]
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+HTTP 503 anahtar #10: {
+
+günlük sınır: anahtar #10 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+HTTP 503 anahtar #10: {
+
+bitti, çevrilen: 171
+171
