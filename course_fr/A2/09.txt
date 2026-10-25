@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
+## Bankada
+le compte | hesap | isim (e) | Je voudrais ouvrir un compte. | Hesap açtırmak istiyorum.
+retirer | çekmek (para) | fiil | Je retire de l'argent au distributeur. | Bankamatikten para çekiyorum.
+déposer | yatırmak; bırakmak | fiil | Je dépose un chèque à la banque. | Bankaya çek yatırıyorum.
+le virement | havale | isim (e) | J'ai fait un virement à mon propriétaire. | Ev sahibime havale yaptım.
+le chèque | çek | isim (e) | On peut payer par chèque ? | Çekle ödenebilir mi?
+le code secret | şifre (kart) | isim (e) | Tapez votre code secret. | Şifrenizi girin.
+le conseiller | danışman | isim (e) | J'ai rendez-vous avec mon conseiller bancaire. | Banka danışmanımla randevum var.
+le prêt | kredi; ödünç | isim (e) | Ils ont demandé un prêt pour la maison. | Ev için kredi istediler.
+le relevé | hesap dökümü, ekstre | isim (e) | Je reçois mon relevé chaque mois. | Hesap dökümümü her ay alıyorum.
+la banque en ligne | internet bankacılığı | isim (d) | J'utilise la banque en ligne. | İnternet bankacılığı kullanıyorum.
+## Posta ve kargo
+la lettre | mektup; harf | isim (d) | J'ai reçu une lettre de Fatou. | Fatou'dan bir mektup aldım.
+le colis | koli, paket | isim (e) | J'envoie un colis à ma mère. | Anneme bir koli gönderiyorum.
+l'enveloppe (f) | zarf | isim (d) | Mets la lettre dans l'enveloppe. | Mektubu zarfa koy.
+le timbre | pul | isim (e) | Il faut un timbre pour la Turquie. | Türkiye için bir pul gerekiyor.
+le destinataire | alıcı | isim (e) | Écrivez l'adresse du destinataire. | Alıcının adresini yazın.
+l'expéditeur (m) | gönderen | isim (e) | Le nom de l'expéditeur est au dos. | Gönderenin adı arka tarafta.
+livrer | teslim etmek | fiil | Le colis sera livré demain. | Koli yarın teslim edilecek.
+la livraison | teslimat | isim (d) | La livraison est gratuite. | Teslimat ücretsiz.
+le code postal | posta kodu | isim (e) | Quel est votre code postal ? | Posta kodunuz nedir?
+recommandé | taahhütlü | sıfat | J'envoie une lettre recommandée. | Taahhütlü bir mektup gönderiyorum.
+## Kuaförde
+le salon de coiffure | kuaför salonu | isim (e) | Le salon de coiffure ferme le lundi. | Kuaför salonu pazartesi kapalı.
+la coupe | saç kesimi; kupa | isim (d) | J'aime ta nouvelle coupe ! | Yeni saç kesimini beğendim!
+couper | kesmek | fiil | Vous pouvez couper un peu derrière ? | Arkadan biraz kesebilir misiniz?
+la frange | kâkül, perçem | isim (d) | Je voudrais une frange. | Kâkül istiyorum.
+la coloration | saç boyası | isim (d) | Elle fait une coloration rousse. | Saçını kızıla boyatıyor.
+la barbe | sakal | isim (d) | Mon frère a une longue barbe. | Ağabeyimin uzun bir sakalı var.
+la moustache | bıyık | isim (d) | Mon grand-père porte la moustache. | Dedemin bıyığı var.
+le maquillage | makyaj | isim (e) | Elle met peu de maquillage. | Az makyaj yapıyor.
+le parfum | parfüm; koku; aroma | isim (e) | Ton parfum sent bon. | Parfümün güzel kokuyor.
+sécher | kurutmak; kurumak | fiil | Je sèche mes cheveux. | Saçlarımı kurutuyorum.
+## Giyim mağazasında
+la cabine d'essayage | deneme kabini | isim (d) | Les cabines d'essayage sont au fond. | Deneme kabinleri en dipte.
+échanger | değiştirmek, takas etmek | fiil | Je peux échanger ce pull ? | Bu kazağı değiştirebilir miyim?
+la vitrine | vitrin | isim (d) | J'ai vu une robe en vitrine. | Vitrinde bir elbise gördüm.
+à la mode | moda, modaya uygun | ifade | Cette couleur est à la mode. | Bu renk moda.
+démodé | modası geçmiş | sıfat | Ce manteau est démodé. | Bu paltonun modası geçmiş.
+le costume | takım elbise; kostüm | isim (e) | Il porte un costume pour le mariage. | Düğün için takım elbise giyiyor.
+la cravate | kravat | isim (d) | Ta cravate est jolie. | Kravatın güzel.
+le maillot de bain | mayo | isim (e) | N'oublie pas ton maillot de bain ! | Mayonu unutma!
+le short | şort | isim (e) | En été, je porte un short. | Yazın şort giyerim.
+le sweat | sweatshirt | isim (e) | Je mets un sweat, il fait frais. | Sweatshirt giyiyorum, hava serin.
+## Kumaş ve ayrıntılar
+le coton | pamuk | isim (e) | Cette chemise est en coton. | Bu gömlek pamuklu.
+la laine | yün | isim (d) | Ma grand-mère tricote un pull en laine. | Büyükannem yün kazak örüyor.
+le cuir | deri | isim (e) | J'ai acheté une veste en cuir. | Deri bir ceket aldım.
+la soie | ipek | isim (d) | C'est une écharpe en soie. | Bu ipek bir atkı.
+le tissu | kumaş | isim (e) | Ce tissu est très doux. | Bu kumaş çok yumuşak.
+la poche | cep | isim (d) | Mes clés sont dans ma poche. | Anahtarlarım cebimde.
+le bouton | düğme; sivilce | isim (e) | Il manque un bouton à ma chemise. | Gömleğimin bir düğmesi eksik.
+la fermeture éclair | fermuar | isim (d) | La fermeture éclair est cassée. | Fermuar bozuk.
+la manche | kol (giysi) | isim (d) | Une chemise à manches courtes. | Kısa kollu bir gömlek.
+le col | yaka; dağ geçidi | isim (e) | Le col de ta chemise est sale. | Gömleğinin yakası kirli.
+## Diğer hizmetler
+le pressing | kuru temizleme | isim (e) | J'apporte mon costume au pressing. | Takımımı kuru temizlemeye götürüyorum.
+le cordonnier | ayakkabı tamircisi | isim (e) | Le cordonnier répare mes bottes. | Ayakkabıcı çizmelerimi tamir ediyor.
+le serrurier | çilingir | isim (e) | J'ai perdu mes clés, j'appelle un serrurier. | Anahtarlarımı kaybettim, çilingir çağırıyorum.
+la laverie | çamaşırhane | isim (d) | Je lave mon linge à la laverie. | Çamaşırlarımı çamaşırhanede yıkıyorum.
+le service après-vente | satış sonrası hizmet | isim (e) | Appelez le service après-vente. | Satış sonrası hizmetleri arayın.
+la garantie | garanti | isim (d) | La machine est encore sous garantie. | Makine hâlâ garantili.
+la réparation | tamir, onarım | isim (d) | La réparation coûte cinquante euros. | Tamir elli avro tutuyor.
+le devis | fiyat teklifi | isim (e) | Le plombier m'a fait un devis. | Tesisatçı bana fiyat teklifi verdi.
+le mécanicien | tamirci, araba ustası | isim (e) | Le mécanicien vérifie les freins. | Tamirci frenleri kontrol ediyor.
+la station-service | benzin istasyonu | isim (d) | On s'arrête à la station-service. | Benzin istasyonunda duruyoruz.
+## Alışveriş ayrıntıları
+la réduction | indirim | isim (d) | Il y a une réduction de vingt pour cent. | Yüzde yirmi indirim var.
+la carte de fidélité | sadakat kartı | isim (d) | Vous avez la carte de fidélité ? | Sadakat kartınız var mı?
+le remboursement | geri ödeme, para iadesi | isim (e) | Je voudrais un remboursement. | Paramı geri almak istiyorum.
+l'achat (m) | satın alma; alışveriş | isim (e) | Je fais mes achats le samedi. | Alışverişimi cumartesi yaparım.
+le centre commercial | alışveriş merkezi | isim (e) | Le centre commercial est ouvert le dimanche. | Alışveriş merkezi pazar günü açık.
+le grand magasin | büyük mağaza | isim (e) | Les grands magasins de Paris sont célèbres. | Paris'in büyük mağazaları ünlüdür.
+la commande | sipariş | isim (d) | Ma commande arrive demain. | Siparişim yarın geliyor.
+en ligne | çevrimiçi, internetten | ifade | J'achète souvent mes livres en ligne. | Kitaplarımı genellikle internetten alırım.
+la marque | marka; iz | isim (d) | Quelle marque de chaussures tu préfères ? | Hangi ayakkabı markasını tercih edersin?
+le produit | ürün | isim (e) | Ce produit est fabriqué en France. | Bu ürün Fransa'da üretiliyor.
+## Takılar ve aksesuarlar
+le bijou | mücevher, takı | isim (e) | Elle porte peu de bijoux. | Az takı takıyor.
+la bague | yüzük | isim (d) | Il lui a offert une bague. | Ona bir yüzük hediye etti.
+le collier | kolye; tasma | isim (e) | C'est un collier en argent. | Bu gümüş bir kolye.
+les boucles d'oreilles | küpe | isim (çoğul) | J'aime tes boucles d'oreilles. | Küpelerini beğendim.
+le bracelet | bilezik | isim (e) | Ce bracelet vient du Maroc. | Bu bilezik Fas'tan geliyor.
+la montre | kol saati | isim (d) | Ma montre est en retard. | Saatim geri kalıyor.
+l'or (m) | altın | isim (e) | C'est une bague en or. | Bu altın bir yüzük.
+le sac à main | el çantası | isim (e) | Elle cherche ses clés dans son sac à main. | Anahtarlarını el çantasında arıyor.
+le foulard | eşarp, fular | isim (e) | Elle porte un foulard en soie. | İpek bir eşarp takıyor.
+le porte-clés | anahtarlık | isim (e) | J'ai acheté un porte-clés en souvenir. | Hatıra olarak bir anahtarlık aldım.
+## Fiyat ve ödeme
+les espèces | nakit | isim (çoğul) | Vous payez en espèces ou par carte ? | Nakit mi ödüyorsunuz, kartla mı?
+le paiement | ödeme | isim (e) | Le paiement se fait à la caisse. | Ödeme kasada yapılıyor.
+rendre (rendu) | geri vermek; iade etmek | fiil · düzensiz | Je te rends ton livre demain. | Kitabını yarın geri veriyorum.
+la somme | tutar, miktar | isim (d) | C'est une grosse somme d'argent. | Bu büyük bir para.
+le montant | tutar, meblağ | isim (e) | Quel est le montant total ? | Toplam tutar ne kadar?
+le tarif | tarife, ücret | isim (e) | Il y a un tarif réduit pour les étudiants. | Öğrenciler için indirimli tarife var.
+abordable | uygun fiyatlı | sıfat | Ce restaurant est abordable. | Bu restoran uygun fiyatlı.
+hors de prix | çok pahalı, fahiş | ifade | Les billets sont hors de prix ! | Biletler fahiş fiyatlı!
+la TVA | KDV | isim (d) | Le prix est TVA comprise. | Fiyata KDV dahil.
+le pourcentage | yüzde | isim (e) | Quel pourcentage de réduction ? | Yüzde kaç indirim?
+## Hizmet ifadeleri
+je voudrais | ... istiyorum (kibar) | ifade | Je voudrais un kilo de pommes. | Bir kilo elma istiyorum.
+vous désirez | ne arzu edersiniz? | ifade | Bonjour, vous désirez ? | Merhaba, ne arzu edersiniz?
+c'est pour offrir | hediye için | ifade | C'est pour offrir ? Je fais un paquet ? | Hediye mi? Paket yapayım mı?
+je regarde | sadece bakıyorum | ifade | Merci, je regarde seulement. | Teşekkürler, sadece bakıyorum.
+autre chose | başka bir şey | ifade | Vous voulez autre chose ? | Başka bir şey ister misiniz?
+ça vous va | size yakıştı; uygun mu? | ifade | Cette veste vous va très bien. | Bu ceket size çok yakıştı.
+le paquet cadeau | hediye paketi | isim (e) | Vous pouvez faire un paquet cadeau ? | Hediye paketi yapabilir misiniz?
+servir (servi) | servis yapmak; hizmet etmek | fiil · düzensiz | On vous sert, madame ? | İlgilenen var mı hanımefendi?
+à votre service | emrinize amadeyim; rica ederim | ifade | Merci ! — À votre service. | Teşekkürler! — Rica ederim.
+je vous en prie | rica ederim; buyurun | ifade | Entrez, je vous en prie. | Buyurun, girin.
