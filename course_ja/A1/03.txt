@@ -1,0 +1,111 @@
+# UNIT: Sayılar ve zaman | Rakamlar, sayma, saat, günler, aylar, mevsimler
+## Büyük sayılar
+ゼロ (zero) | sıfır | sayı | 番号はゼロから始まります。(Bangō wa zero kara hajimarimasu.) | Numara sıfırla başlıyor.
+二十 (nijū) | yirmi | sayı | 二十人来ました。(Nijūnin kimashita.) | Yirmi kişi geldi.
+百 (hyaku) | yüz | sayı | このペンは百円です。(Kono pen wa hyaku en desu.) | Bu kalem yüz yen.
+千 (sen) | bin | sayı | コーヒーは千円です。(Kōhī wa sen en desu.) | Kahve bin yen.
+万 (man) | on bin | sayı | 一万円を払いました。(Ichiman en o haraimashita.) | On bin yen ödedim.
+半分 (hanbun) | yarım, yarısı | isim | ケーキを半分食べました。(Kēki o hanbun tabemashita.) | Pastanın yarısını yedim.
+数 (kazu) | sayı, adet | isim | 学生の数は三十人です。(Gakusei no kazu wa sanjūnin desu.) | Öğrenci sayısı otuz.
+番号 (bangō) | numara | isim | 部屋の番号は何番ですか。(Heya no bangō wa nanban desu ka.) | Oda numarası kaç?
+〜番 (-ban) | numara (sıra) | isim | 私は三番です。(Watashi wa sanban desu.) | Ben üç numarayım.
+〜番目 (-banme) | -inci (sıra sayısı) | isim | 右から二番目の人です。(Migi kara nibanme no hito desu.) | Sağdan ikinci kişi.
+## Japonca sayma (bir tane, iki tane)
+一つ (hitotsu) | bir tane | sayı | りんごを一つください。(Ringo o hitotsu kudasai.) | Bir elma lütfen.
+二つ (futatsu) | iki tane | sayı | 卵を二つ買いました。(Tamago o futatsu kaimashita.) | İki yumurta aldım.
+三つ (mittsu) | üç tane | sayı | 質問が三つあります。(Shitsumon ga mittsu arimasu.) | Üç sorum var.
+四つ (yottsu) | dört tane | sayı | 椅子が四つあります。(Isu ga yottsu arimasu.) | Dört sandalye var.
+五つ (itsutsu) | beş tane | sayı | おにぎりを五つ作りました。(Onigiri o itsutsu tsukurimashita.) | Beş onigiri yaptım.
+六つ (muttsu) | altı tane | sayı | 箱が六つあります。(Hako ga muttsu arimasu.) | Altı kutu var.
+七つ (nanatsu) | yedi tane | sayı | 星が七つ見えます。(Hoshi ga nanatsu miemasu.) | Yedi yıldız görünüyor.
+八つ (yattsu) | sekiz tane | sayı | みかんが八つあります。(Mikan ga yattsu arimasu.) | Sekiz mandalina var.
+九つ (kokonotsu) | dokuz tane | sayı | 部屋が九つあります。(Heya ga kokonotsu arimasu.) | Dokuz oda var.
+とお (tō) | on tane | sayı | ひとつからとおまで数えましょう。(Hitotsu kara tō made kazoemashō.) | Birden ona kadar sayalım.
+## Sayma sözcükleri
+一人 (hitori) | bir kişi | sayı | 一人で来ました。(Hitori de kimashita.) | Tek başıma geldim.
+二人 (futari) | iki kişi | sayı | 二人で映画を見ました。(Futari de eiga o mimashita.) | İkimiz film izledik.
+〜枚 (-mai) | yassı şeyler için sayaç (kâğıt, bilet) | isim | 切符を二枚ください。(Kippu o nimai kudasai.) | İki bilet lütfen.
+〜本 (-hon) | uzun şeyler için sayaç (şişe, kalem) | isim | ビールを三本買いました。(Bīru o sanbon kaimashita.) | Üç şişe bira aldım.
+〜冊 (-satsu) | kitap, defter sayacı | isim | 本を五冊読みました。(Hon o gosatsu yomimashita.) | Beş kitap okudum.
+〜匹 (-hiki) | küçük hayvan sayacı | isim | 猫が二匹います。(Neko ga nihiki imasu.) | İki kedi var.
+〜個 (-ko) | küçük nesne sayacı | isim | あめを三個もらいました。(Ame o sanko moraimashita.) | Üç şeker aldım.
+〜台 (-dai) | makine, araç sayacı | isim | 車が一台あります。(Kuruma ga ichidai arimasu.) | Bir araba var.
+〜回 (-kai) | kez, defa | isim | 週に二回泳ぎます。(Shū ni nikai oyogimasu.) | Haftada iki kez yüzerim.
+〜杯 (-hai) | bardak, kâse sayacı | isim | コーヒーを一杯飲みます。(Kōhī o ippai nomimasu.) | Bir fincan kahve içerim.
+## Saat
+時間 (jikan) | zaman; saat (süre) | isim | 時間がありません。(Jikan ga arimasen.) | Vaktim yok.
+〜時 (-ji) | saat (... saat) | isim | 今、三時です。(Ima, sanji desu.) | Şimdi saat üç.
+〜分 (-fun, -pun) | dakika | isim | 五分待ってください。(Gofun matte kudasai.) | Beş dakika bekleyin lütfen.
+半 (han) | buçuk | isim | 七時半に起きます。(Shichiji han ni okimasu.) | Yedi buçukta kalkarım.
+午前 (gozen) | öğleden önce, ÖÖ | isim | 午前十時に会いましょう。(Gozen jūji ni aimashō.) | Sabah onda buluşalım.
+午後 (gogo) | öğleden sonra, ÖS | isim | 午後は暇です。(Gogo wa hima desu.) | Öğleden sonra boşum.
+時計 (tokei) | saat (alet) | isim | この時計は高いです。(Kono tokei wa takai desu.) | Bu saat pahalı.
+今 (ima) | şimdi | zarf | 今、何時ですか。(Ima, nanji desu ka.) | Şimdi saat kaç?
+〜ごろ (-goro) | sularında, civarında | edat | 八時ごろ帰ります。(Hachiji goro kaerimasu.) | Sekiz sularında dönerim.
+〜前 (-mae) | önce (... önce); kala | isim | 九時五分前です。(Kuji gofun mae desu.) | Saat dokuza beş var.
+## Gün dilimleri
+朝 (asa) | sabah | isim | 朝、コーヒーを飲みます。(Asa, kōhī o nomimasu.) | Sabah kahve içerim.
+昼 (hiru) | öğle; gündüz | isim | 昼は暑いです。(Hiru wa atsui desu.) | Öğlen sıcak.
+夕方 (yūgata) | akşamüstü | isim | 夕方、公園を歩きます。(Yūgata, kōen o arukimasu.) | Akşamüstü parkta yürürüm.
+夜 (yoru) | gece | isim | 夜は静かです。(Yoru wa shizuka desu.) | Gece sessiz.
+晩 (ban) | akşam | isim | 晩に電話します。(Ban ni denwa shimasu.) | Akşam ararım.
+毎日 (mainichi) | her gün | zarf | 毎日日本語を勉強します。(Mainichi Nihongo o benkyō shimasu.) | Her gün Japonca çalışırım.
+毎朝 (maiasa) | her sabah | zarf | 毎朝六時に起きます。(Maiasa rokuji ni okimasu.) | Her sabah altıda kalkarım.
+毎晩 (maiban) | her akşam | zarf | 毎晩本を読みます。(Maiban hon o yomimasu.) | Her akşam kitap okurum.
+今朝 (kesa) | bu sabah | zarf | 今朝は寒かったです。(Kesa wa samukatta desu.) | Bu sabah soğuktu.
+今晩 (konban) | bu akşam | zarf | 今晩、暇ですか。(Konban, hima desu ka.) | Bu akşam boş musun?
+## Günler
+今日 (kyō) | bugün | zarf | 今日は暑いです。(Kyō wa atsui desu.) | Bugün hava sıcak.
+明日 (ashita) | yarın | zarf | 明日は休みです。(Ashita wa yasumi desu.) | Yarın tatil.
+昨日 (kinō) | dün | zarf | 昨日、映画を見ました。(Kinō, eiga o mimashita.) | Dün film izledim.
+あさって (asatte) | öbür gün | zarf | あさって日本へ行きます。(Asatte Nihon e ikimasu.) | Öbür gün Japonya'ya gidiyorum.
+おととい (ototoi) | evvelsi gün | zarf | おとといは雨でした。(Ototoi wa ame deshita.) | Evvelsi gün yağmurluydu.
+週末 (shūmatsu) | hafta sonu | isim | 週末は何をしますか。(Shūmatsu wa nani o shimasu ka.) | Hafta sonu ne yapacaksın?
+今週 (konshū) | bu hafta | isim | 今週は忙しいです。(Konshū wa isogashii desu.) | Bu hafta yoğunum.
+来週 (raishū) | gelecek hafta | isim | 来週、テストがあります。(Raishū, tesuto ga arimasu.) | Gelecek hafta sınav var.
+先週 (senshū) | geçen hafta | isim | 先週、京都へ行きました。(Senshū, Kyōto e ikimashita.) | Geçen hafta Kyoto'ya gittim.
+平日 (heijitsu) | hafta içi | isim | 平日は仕事です。(Heijitsu wa shigoto desu.) | Hafta içi işteyim.
+## Haftanın günleri
+月曜日 (getsuyōbi) | pazartesi | isim | 月曜日は忙しいです。(Getsuyōbi wa isogashii desu.) | Pazartesi yoğunum.
+火曜日 (kayōbi) | salı | isim | 火曜日に会議があります。(Kayōbi ni kaigi ga arimasu.) | Salı günü toplantı var.
+水曜日 (suiyōbi) | çarşamba | isim | 水曜日はプールに行きます。(Suiyōbi wa pūru ni ikimasu.) | Çarşamba havuza giderim.
+木曜日 (mokuyōbi) | perşembe | isim | 木曜日に日本語の授業があります。(Mokuyōbi ni Nihongo no jugyō ga arimasu.) | Perşembe Japonca dersi var.
+金曜日 (kin'yōbi) | cuma | isim | 金曜日の夜は楽しいです。(Kin'yōbi no yoru wa tanoshii desu.) | Cuma akşamları eğlencelidir.
+土曜日 (doyōbi) | cumartesi | isim | 土曜日に買い物をします。(Doyōbi ni kaimono o shimasu.) | Cumartesi alışveriş yaparım.
+日曜日 (nichiyōbi) | pazar | isim | 日曜日は家で休みます。(Nichiyōbi wa ie de yasumimasu.) | Pazar evde dinlenirim.
+曜日 (yōbi) | haftanın günü | isim | 今日は何曜日ですか。(Kyō wa nan'yōbi desu ka.) | Bugün günlerden ne?
+休み (yasumi) | tatil; izin; ara | isim | 明日から休みです。(Ashita kara yasumi desu.) | Yarından itibaren tatildeyim.
+毎週 (maishū) | her hafta | zarf | 毎週ジムに行きます。(Maishū jimu ni ikimasu.) | Her hafta spor salonuna giderim.
+## Aylar ve yıllar
+〜月 (-gatsu) | ay (ay adlarında: 一月 ocak) | isim | 四月に桜が咲きます。(Shigatsu ni sakura ga sakimasu.) | Nisanda kiraz çiçekleri açar.
+今月 (kongetsu) | bu ay | isim | 今月は忙しいです。(Kongetsu wa isogashii desu.) | Bu ay yoğunum.
+来月 (raigetsu) | gelecek ay | isim | 来月、引っ越します。(Raigetsu, hikkoshimasu.) | Gelecek ay taşınıyorum.
+先月 (sengetsu) | geçen ay | isim | 先月、日本に来ました。(Sengetsu, Nihon ni kimashita.) | Geçen ay Japonya'ya geldim.
+毎月 (maitsuki) | her ay | zarf | 毎月家族に電話します。(Maitsuki kazoku ni denwa shimasu.) | Her ay ailemi ararım.
+〜年 (-nen) | yıl (... yılı; ... yıl) | isim | 日本に三年住んでいます。(Nihon ni sannen sunde imasu.) | Üç yıldır Japonya'da yaşıyorum.
+今年 (kotoshi) | bu yıl | isim | 今年は日本へ行きます。(Kotoshi wa Nihon e ikimasu.) | Bu yıl Japonya'ya gidiyorum.
+来年 (rainen) | gelecek yıl | isim | 来年、大学に入ります。(Rainen, daigaku ni hairimasu.) | Seneye üniversiteye giriyorum.
+去年 (kyonen) | geçen yıl | isim | 去年、結婚しました。(Kyonen, kekkon shimashita.) | Geçen yıl evlendim.
+毎年 (maitoshi) | her yıl | zarf | 毎年、花見をします。(Maitoshi, hanami o shimasu.) | Her yıl çiçek seyrine çıkarız.
+## Mevsimler ve tarih
+春 (haru) | ilkbahar | isim | 春は暖かいです。(Haru wa atatakai desu.) | İlkbahar ılıktır.
+夏 (natsu) | yaz | isim | 日本の夏は暑いです。(Nihon no natsu wa atsui desu.) | Japonya'nın yazı sıcaktır.
+秋 (aki) | sonbahar | isim | 秋は紅葉がきれいです。(Aki wa kōyō ga kirei desu.) | Sonbaharda yapraklar çok güzel.
+冬 (fuyu) | kış | isim | 北海道の冬は寒いです。(Hokkaidō no fuyu wa samui desu.) | Hokkaido'nun kışı soğuktur.
+季節 (kisetsu) | mevsim | isim | どの季節が好きですか。(Dono kisetsu ga suki desu ka.) | Hangi mevsimi seversin?
+日付 (hizuke) | tarih (gün) | isim | 日付を書いてください。(Hizuke o kaite kudasai.) | Tarihi yazın lütfen.
+〜日 (-nichi, -ka) | ayın ... günü; gün | isim | 十五日に会いましょう。(Jūgonichi ni aimashō.) | On beşinde buluşalım.
+一日 (tsuitachi) | ayın biri | isim | 一月一日はお正月です。(Ichigatsu tsuitachi wa oshōgatsu desu.) | Bir ocak yılbaşıdır.
+二十日 (hatsuka) | ayın yirmisi | isim | 二十日に給料が出ます。(Hatsuka ni kyūryō ga demasu.) | Maaş ayın yirmisinde çıkar.
+カレンダー (karendā) | takvim | isim | カレンダーに予定を書きます。(Karendā ni yotei o kakimasu.) | Planlarımı takvime yazarım.
+## Ne sıklıkla?
+いつも (itsumo) | her zaman | zarf | いつも朝ご飯を食べます。(Itsumo asagohan o tabemasu.) | Her zaman kahvaltı yaparım.
+時々 (tokidoki) | bazen | zarf | 時々映画を見ます。(Tokidoki eiga o mimasu.) | Bazen film izlerim.
+よく (yoku) | sık sık; iyi | zarf | よく公園に行きます。(Yoku kōen ni ikimasu.) | Sık sık parka giderim.
+あまり (amari) | pek (olumsuzla) | zarf | あまりテレビを見ません。(Amari terebi o mimasen.) | Pek televizyon izlemem.
+全然 (zenzen) | hiç (olumsuzla) | zarf | お酒は全然飲みません。(O-sake wa zenzen nomimasen.) | Hiç alkol içmem.
+もう (mō) | artık; çoktan | zarf | もう昼ご飯を食べました。(Mō hirugohan o tabemashita.) | Öğle yemeğini çoktan yedim.
+まだ (mada) | hâlâ; henüz | zarf | まだ宿題をしていません。(Mada shukudai o shite imasen.) | Ödevimi henüz yapmadım.
+すぐ (sugu) | hemen | zarf | すぐ行きます。(Sugu ikimasu.) | Hemen geliyorum.
+後で (ato de) | sonra | zarf | 後で電話します。(Ato de denwa shimasu.) | Sonra ararım.
+最近 (saikin) | son zamanlarda | zarf | 最近忙しいです。(Saikin isogashii desu.) | Son zamanlarda yoğunum.

@@ -1,135 +1,135 @@
-# UNIT: Japon alfabesi — Hiragana | Temel sesler ve düz sesli harfler
-## あ - こ
-あ (a) | a — "anne"deki a sesi | harf · sesli | あさ (asa) | sabah
-い (i) | i — "ineklik"teki i sesi | harf · sesli | いぬ (inu) | köpek
-う (u) | u — "uçak"taki u sesi | harf · sesli | うみ (umi) | deniz
-え (e) | e — "elma"daki e sesi | harf · sesli | えき (eki) | istasyon
-お (o) | o — "okul"daki o sesi | harf · sesli | おちゃ (ocha) | çay
-か (ka) | ka sesi | harf · ünsüz | かみ (kami) | kağıt
-き (ki) | ki sesi | harf · ünsüz | きもの (kimono) | kimono
-く (ku) | ku sesi | harf · ünsüz | くつ (kutsu) | ayakkabı
-け (ke) | ke sesi | harf · ünsüz | けいたい (keitai) | cep telefonu
-こ (ko) | ko sesi | harf · ünsüz | こども (kodomo) | çocuk
-## さ - と
-さ (sa) | sa sesi | harf · ünsüz | さくら (sakura) | kiraz çiçeği
-し (shi) | şi sesi | harf · ünsüz | しお (shio) | tuz
-す (su) | su sesi | harf · ünsüz | すし (sushi) | suşi
-せ (se) | se sesi | harf · ünsüz | せかい (sekai) | dünya
-そ (so) | so sesi | harf · ünsüz | そら (sora) | gökyüzü
-た (ta) | ta sesi | harf · ünsüz | たまご (tamago) | yumurta
-ち (chi) | çi sesi | harf · ünsüz | ちizu (chizu) | harita
-つ (tsu) | tsu sesi | harf · ünsüz | つくえ (tsukue) | masa
-て (te) | te sesi | harf · ünsüz | てがみ (tegami) | mektup
-と (to) | to sesi | harf · ünsüz | とけい (tokei) | saat
-## な - ほ
-な (na) | na sesi | harf · ünsüz | なまえ (namae) | isim
-に (ni) | ni sesi | harf · ünsüz | にほん (nihon) | Japonya
-ぬ (nu) | nu sesi | harf · ünsüz | ぬいぐる (nuigurumi) | peluş oyuncak
-ね (ne) | ne sesi | harf · ünsüz | ねこ (neko) | kedi
-の (no) | no sesi | harf · ünsüz | のり (nori) | yosun
-は (ha) | ha sesi | harf · ünsüz | はな (hana) | çiçek
-ひ (hi) | hi sesi | harf · ünsüz | ひこうき (hikōki) | uçak
-ふ (fu) | fu sesi | harf · ünsüz | ふね (fune) | gemi
-へ (he) | he sesi | harf · ünsüz | へや (heya) | oda
-ほ (ho) | ho sesi | harf · ünsüz | ほし (hoshi) | yıldız
-## ま - どの残る音
-ま (ma) | ma sesi | harf · ünsüz | まど (mado) | pencere
-み (mi) | mi sesi | harf · ünsüz | みず (mizu) | su
-む (mu) | mu sesi | harf · ünsüz | むし (mushi) | böcek
-め (me) | me sesi | harf · ünsüz | めがね (megane) | gözlük
-も (mo) | mo sesi | harf · ünsüz | もも (momo) | şeftali
-や (ya) | ya sesi | harf · sesli | やま (yama) | dağ
-ゆ (yu) | yu sesi | harf · sesli | ゆき (yuki) | kar
-よ (yo) | yo sesi | harf · sesli | よる (yoru) | gece
-ら (ra) | ra sesi | harf · ünsüz | らいおん (raion) | aslan
-り (ri) | ri sesi | harf · ünsüz | りんご (ringo) | elma
-# UNIT: Katakana ve Ek Sesler | Yabancı kelimeler ve özel ses birimleri
-## る - ん
-る (ru) | ru sesi | harf · ünsüz | るす (rusu) | evde yokluk
-れ (re) | re sesi | harf · ünsüz | れきし (rekishi) | tarih
-ろ (ro) | ro sesi | harf · ünsüz | ろくじ (rokuji) | saat altı
-わ (wa) | wa sesi | harf · sesli | わたし (watashi) | ben
-を (wo) | nesne işareti o | harf · sesli | おを (wo) | işaret edatı
-ん (n) | n sesi, burun sesi | harf · ünsüz | ぱん (pan) | ekmek
-ア (a) | katakana a | harf · sesli | アイス (aisu) | dondurma
-イ (i) | katakana i | harf · sesli | インク (inku) | mürekkep
-ウ (u) | katakana u | harf · sesli | ウール (ūru) | yün
-エ (e) | katakana e | harf · sesli | エプロン (epuron) | önlük
-## オ - コ
-オ (o) | katakana o | harf · sesli | オレンズ (orenji) | portakal
-カ (ka) | katakana ka | harf · ünsüz | カメラ (kamera) | kamera
-キ (ki) | katakana ki | harf · ünsüz | キリン (kirin) | zürafa
-ク (ku) | katakana ku | harf · ünsüz | クラス (kurasu) | sınıf
-ケ (ke) | katakana ke | harf · ünsüz | ケーキ (kēki) | kek
-コ (ko) | katakana ko | harf · ünsüz | コーヒー (kōhī) | kahve
-サ (sa) | katakana sa | harf · ünsüz | サッカー (sakkā) | futbol
-シ (shi) | katakana shi | harf · ünsüz | シャツ (shatsu) | gömlek
-ス (su) | katakana su | harf · ünsüz | スカート (sukāto) | etek
-セ (se) | katakana se | harf · ünsüz | セーター (sētā) | kazak
-## ソ - ホ
-ソ (so) | katakana so | harf · ünsüz | ソファー (sofā) | kanepe
-タ (ta) | katakana ta | harf · ünsüz | タクシー (takushī) | taksi
-チ (chi) | katakana chi | harf · ünsüz | チーズ (chīzu) | peynir
-ツ (tsu) | katakana tsu | harf · ünsüz | ツアー (tsuā) | tur
-テ (te) | katakana te | harf · ünsüz | テニス (tenisu) | tenis
-ト (to) | katakana to | harf · ünsüz | トマト (tomato) | domates
-ナ (na) | katakana na | harf · ünsüz | ナイフ (naifu) | bıçak
-ニ (ni) | katakana ni | harf · ünsüz | ニュース (nyūsu) | haber
-ヌ (nu) | katakana nu | harf · ünsüz | ヌードル (nūdoru) | erişte
-ネ (ne) | katakana ne | harf · ünsüz | ネクタイ (nekutai) | kravat
-## ノ - ン
-ノ (no) | katakana no | harf · ünsüz | ノート (nōto) | defter
-ハ (ha) | katakana ha | harf · ünsüz | ハンバーガー (hanbāgā) | hamburger
-ヒ (hi) | katakana hi | harf · ünsüz | ヒーター (hītā) | ısıtıcı
-フ (fu) | katakana fu | harf · ünsüz | フォーク (fōku) | çatal
-ヘ (he) | katakana he | harf · ünsüz | ヘルメット (herumetto) | kask
-ホ (ho) | katakana ho | harf · ünsüz | ホテル (hoteru) | otel
-マ (ma) | katakana ma | harf · ünsüz | マップ (mappu) | harita
-ミ (mi) | katakana mi | harf · ünsüz | ミルク (miruku) | süt
-ム (mu) | katakana mu | harf · ünsüz | ムーン (mūn) | ay
-ン (n) | katakana n | harf · ünsüz | ペン (pen) | tükenmez kalem
-# UNIT: İlk Kelimeler ve Sayılar | Günlük temel sözcükler ve sayılar
-## Sayılar (1 - 10)
-いち (ichi) | bir | sayı | いちばん (ichiban) | en iyisi
-に (ni) | iki | sayı | にこ (niko) | gülümseme
-さん (san) | üç | sayı | さんぽ (sanpo) | yürüyüş
-し / よん (shi / yon) | dört | sayı | よんひき (yonhiki) | dört hayvan
-ご (go) | beş | sayı | ごがつ (gogatsu) | mayıs
-ろく (roku) | altı | sayı | ろくがつ (rokugatsu) | haziran
-しち / なな (shichi / nana) | yedi | sayı | ななつ (nanatsu) | yedi tane
-はち (hachi) | sekiz | sayı | はちがつ (hachigatsu) | ağustos
-きゅう / く (kyū / ku) | dokuz | sayı | きゅうじ (kyūji) | dokuzuncu saat
-じゅう (jū) | on | sayı | じゅうがつ (jūgatsu) | ekim
-## Renkler ve Temel Nesneler
-あか (aka) | kırmızı | isim | あかいはな (akai hana) | kırmızı çiçek
-きいろ (kiiro) | sarı | isim | きいろいとり (kiiroi tori) | sarı kuş
-みどり (midori) | yeşil | isim | みどりのき (midori no ki) | yeşil ağaç
-あお (ao) | mavi | isim | あおいうみ (aoi umi) | mavi deniz
-しろ (shiro) | beyaz | isim | しろいうさぎ (shiroi usagi) | beyaz tavşan
-くろ (kuro) | siyah | isim | くろいねこ (kuroi neko) | siyah kedi
-いえ (ie) | ev | isim | わたしのおうち (watashi no ouchi) | benim evim
-くるま (kuruma) | araba | isim | あたらしいくるま (atarashii kuruma) | yeni araba
-本 (hon) | kitap | isim | おもしろい本 (omoshiroi hon) | ilginç kitap
-ペン (pen) | kalem | isim | 赤いペン (akai pen) | kırmızı kalem
-## Aile Bireyleri
-おとうさん (otōsan) | baba | isim | おとうさんはげんきです (otōsan wa genki desu) | baba iyidir
-おかあさん (okāsan) | anne | isim | おかあさんはやさしい (okāsan wa yasashii) | anne şefkatlidir
-おにいさん (onīsan) | ağabey | isim | おにいさんはがくせいです (onīsan wa gakusei desu) | ağabey öğrencidir
-おねえさん (onēsan) | abla | isim | おねえさんはじょうずです (onēsan wa jōzu desu) | abla beceriklidir
-おとうと (otōto) | erkek kardeş | isim | おとうとはかわいいです (otōto wa kawaii desu) | erkek kardeş sevimli
-いもうと (imōto) | kız kardeş | isim | いもうとはあそんでいます (imōto wa asonde imasu) | kız kardeş oynuyor
-じいじ (jīji) | büyükbaba | isim | じいじはさんぽします (jīji wa sanposhimasu) | büyükbaba yürüyüş yapar
-ばあば (bāba) | büyükanne | isim | ばあばはりょうりします (bāba wa ryōrishimasu) | büyükanne yemek yapar
-ともだち (tomodachi) | arkadaş | isim | ともだちとはなします (tomodachi to hanashimasu) | arkadaşla konuşur
-せんせい (sensei) | öğretmen | isim | せんせいにしつもんします (sensei ni shitsumon shimasu) | öğretmenine soru sorar
-## Günlük İfadeler
-おはよう (ohayō) | günaydın | ifade | おはようございます (ohayō gozaimasu) | günaydın efendim
-こんにちは (konnichiwa) | merhaba | ifade | こんにちはおげんきですか (konnichiwa ogenki desu ka) | merhaba nasılsınız
-こんばんは (konbanwa) | iyi akşamlar | ifade | こんばんはいいてんきです (konbanwa ii tenki desu) | iyi akşamlar hava güzel
-ありがとう (arigatō) | teşekkürler | ifade | どうもありがとうございます (dōmo arigatō gozaimasu) | çok teşekkür ederim
-すみません (sumimasen) | afedersiniz | ifade | すみませんみちを教えてください (sumimasen michi o oshiete kudasai) | afedersiniz yolu söyler misiniz
-ごめんなさい (gomennasai) | özür dilerim | ifade | おくれてごめんなさい (okurete gomennasai) | geç kaldığım için özür dilerim
-はい (hai) | evet | ifade | はいわかりました (hai wakarimashita) | evet anladım
-いいえ (iie) | hayır | ifade | いいえちがいます (iie chigaimasu) | hayır öyle değil
-さようなら (sayōnara) | hoşçakalın | ifade | またあしたさようなら (mata ashita sayōnara) | yarına görüşürüz hoşçakalın
-じゃあね (jā ne) | görüşürüz | ifade | じゃあねまたね (jā ne mata ne) | görüşürüz sonra görüşürüz
+# UNIT: Hiragana | Japonca hece alfabesi: 46 temel hece, ゛ ve ゜ işaretleri, küçük っ ve ゃ
+## Sesliler ve K sırası
+あ (a) | a — "araba"daki a | harf · sesli | あめ (ame) | yağmur
+い (i) | i — "iki"deki i | harf · sesli | いぬ (inu) | köpek
+う (u) | u — dudakları yuvarlamadan söylenen kısa u | harf · sesli | うみ (umi) | deniz
+え (e) | e — "ev"deki e | harf · sesli | えき (eki) | istasyon
+お (o) | o — "okul"daki o | harf · sesli | おか (oka) | tepe
+か (ka) | ka — "kalem"deki ka | harf · ünsüz | かさ (kasa) | şemsiye
+き (ki) | ki — "kirpi"deki ki | harf · ünsüz | きつね (kitsune) | tilki
+く (ku) | ku — u çok hafif | harf · ünsüz | くち (kuchi) | ağız
+け (ke) | ke — "kedi"deki ke | harf · ünsüz | けしごむ (keshigomu) | silgi
+こ (ko) | ko — "koyun"daki ko | harf · ünsüz | こども (kodomo) | çocuk
+## S ve T sırası
+さ (sa) | sa — "saat"teki sa | harf · ünsüz | さかな (sakana) | balık
+し (shi) | şi — "şişe"deki şi | harf · ünsüz | しお (shio) | tuz
+す (su) | su — sondaki u çoğu zaman duyulmaz | harf · ünsüz | すし (sushi) | suşi
+せ (se) | se — "sen"deki se | harf · ünsüz | せんせい (sensei) | öğretmen
+そ (so) | so — "soba"daki so | harf · ünsüz | そら (sora) | gökyüzü
+た (ta) | ta — "tavan"daki ta | harf · ünsüz | たまご (tamago) | yumurta
+ち (chi) | çi — "çiçek"teki çi | harf · ünsüz | ちず (chizu) | harita
+つ (tsu) | tsu — t ile s birlikte, hızlıca | harf · ünsüz | つき (tsuki) | ay (gökyüzündeki)
+て (te) | te — "tepe"deki te | harf · ünsüz | てがみ (tegami) | mektup
+と (to) | to — "top"taki to | harf · ünsüz | とり (tori) | kuş
+## N ve H sırası
+な (na) | na — "nane"deki na | harf · ünsüz | なつ (natsu) | yaz
+に (ni) | ni — "nine"deki ni | harf · ünsüz | にく (niku) | et
+ぬ (nu) | nu — め ile karıştırma, sonunda halka var | harf · ünsüz | ぬの (nuno) | kumaş
+ね (ne) | ne — "neden"deki ne | harf · ünsüz | ねこ (neko) | kedi
+の (no) | no — "not"taki no | harf · ünsüz | のり (nori) | kurutulmuş yosun
+は (ha) | ha — edat olarak kullanılınca "wa" okunur | harf · ünsüz | はな (hana) | çiçek
+ひ (hi) | hi — "hilal"deki hi | harf · ünsüz | ひと (hito) | insan
+ふ (fu) | fu — f ile h arası, dudaklar hafifçe üflenir | harf · ünsüz | ふね (fune) | gemi
+へ (he) | he — edat olarak kullanılınca "e" okunur | harf · ünsüz | へや (heya) | oda
+ほ (ho) | ho — "hoca"daki ho | harf · ünsüz | ほし (hoshi) | yıldız
+## M, Y ve R sırası
+ま (ma) | ma — "masa"daki ma | harf · ünsüz | まど (mado) | pencere
+み (mi) | mi — "mide"deki mi | harf · ünsüz | みず (mizu) | su
+む (mu) | mu — "muz"daki mu | harf · ünsüz | むし (mushi) | böcek
+め (me) | me — "mektup"taki me | harf · ünsüz | めがね (megane) | gözlük
+も (mo) | mo — "moda"daki mo | harf · ünsüz | もり (mori) | orman
+や (ya) | ya — "yaz"daki ya | harf · ünsüz | やま (yama) | dağ
+ゆ (yu) | yu — "yumurta"daki yu | harf · ünsüz | ゆき (yuki) | kar
+よ (yo) | yo — "yol"daki yo | harf · ünsüz | よる (yoru) | gece
+ら (ra) | ra — r ile l arası, dil damağa bir kez dokunur | harf · ünsüz | らくだ (rakuda) | deve
+り (ri) | ri — r ile l arası, hafif | harf · ünsüz | りんご (ringo) | elma
+## Son heceler ve işaretler
+る (ru) | ru — r ile l arası, hafif | harf · ünsüz | はる (haru) | ilkbahar
+れ (re) | re — r ile l arası, hafif | harf · ünsüz | れきし (rekishi) | tarih
+ろ (ro) | ro — r ile l arası, hafif | harf · ünsüz | いろ (iro) | renk
+わ (wa) | va — "w" gibi, dudaklar yuvarlak | harf · ünsüz | わたし (watashi) | ben
+を (o) | o — yalnızca nesne edatı olarak kullanılır | harf · sesli | ほんをよむ (hon o yomu) | kitap okumak
+ん (n) | n — hece sonundaki n, b/p/m önünde m gibi | harf · ünsüz | ほん (hon) | kitap
+が (ga) | ゛ işareti sesi yumuşatır: か→が, さ→ざ, た→だ, は→ば | harf · ünsüz | かがみ (kagami) | ayna
+ぱ (pa) | ゜ işareti h sırasını p yapar: は→ぱ, ひ→ぴ | harf · ünsüz | えんぴつ (enpitsu) | kurşun kalem
+っ (küçük tsu) | okunmaz; sonraki ünsüzü ikizler: kitte | ses | きって (kitte) | posta pulu
+きゃ (kya) | küçük ゃ ゅ ょ ile birleşik hece: kya, kyu, kyo | ses | おきゃくさん (okyakusan) | müşteri; misafir
+# UNIT: Katakana | Yabancı kökenli kelimeler için hece alfabesi, uzatma çizgisi
+## Sesliler ve K sırası
+ア (a) | a — hiragana あ ile aynı ses | harf · sesli | アイス (aisu) | dondurma
+イ (i) | i — hiragana い ile aynı ses | harf · sesli | イギリス (Igirisu) | İngiltere
+ウ (u) | u — hiragana う ile aynı ses | harf · sesli | ウイスキー (uisukī) | viski
+エ (e) | e — hiragana え ile aynı ses | harf · sesli | エアコン (eakon) | klima
+オ (o) | o — hiragana お ile aynı ses | harf · sesli | オムレツ (omuretsu) | omlet
+カ (ka) | ka — か ile aynı ses | harf · ünsüz | カメラ (kamera) | fotoğraf makinesi
+キ (ki) | ki — き ile aynı ses | harf · ünsüz | キロ (kiro) | kilo
+ク (ku) | ku — く ile aynı ses | harf · ünsüz | クラス (kurasu) | sınıf
+ケ (ke) | ke — け ile aynı ses | harf · ünsüz | ケーキ (kēki) | pasta
+コ (ko) | ko — こ ile aynı ses | harf · ünsüz | コーヒー (kōhī) | kahve
+## S ve T sırası
+サ (sa) | sa — さ ile aynı ses | harf · ünsüz | サラダ (sarada) | salata
+シ (shi) | şi — ツ ile karıştırma: çizgileri yatay, aşağıdan yukarı | harf · ünsüz | タクシー (takushī) | taksi
+ス (su) | su — す ile aynı ses | harf · ünsüz | スープ (sūpu) | çorba
+セ (se) | se — せ ile aynı ses | harf · ünsüz | セーター (sētā) | kazak
+ソ (so) | so — ン ile karıştırma: uzun çizgi yukarıdan aşağı | harf · ünsüz | ソース (sōsu) | sos
+タ (ta) | ta — た ile aynı ses | harf · ünsüz | タオル (taoru) | havlu
+チ (chi) | çi — ち ile aynı ses | harf · ünsüz | チーズ (chīzu) | peynir
+ツ (tsu) | tsu — シ ile karıştırma: çizgileri dik, yukarıdan aşağı | harf · ünsüz | ツアー (tsuā) | tur
+テ (te) | te — て ile aynı ses | harf · ünsüz | テレビ (terebi) | televizyon
+ト (to) | to — と ile aynı ses | harf · ünsüz | トマト (tomato) | domates
+## N ve H sırası
+ナ (na) | na — な ile aynı ses | harf · ünsüz | バナナ (banana) | muz
+ニ (ni) | ni — に ile aynı ses | harf · ünsüz | テニス (tenisu) | tenis
+ヌ (nu) | nu — ぬ ile aynı ses | harf · ünsüz | カヌー (kanū) | kano
+ネ (ne) | ne — ね ile aynı ses | harf · ünsüz | ネクタイ (nekutai) | kravat
+ノ (no) | no — の ile aynı ses | harf · ünsüz | ノート (nōto) | defter
+ハ (ha) | ha — は ile aynı ses | harf · ünsüz | ハンバーガー (hanbāgā) | hamburger
+ヒ (hi) | hi — ひ ile aynı ses | harf · ünsüz | ヒーター (hītā) | ısıtıcı
+フ (fu) | fu — ふ ile aynı ses | harf · ünsüz | フランス (Furansu) | Fransa
+ヘ (he) | he — hiragana へ ile neredeyse aynı yazılır | harf · ünsüz | ヘリコプター (herikoputā) | helikopter
+ホ (ho) | ho — ほ ile aynı ses | harf · ünsüz | ホテル (hoteru) | otel
+## M, Y ve R sırası
+マ (ma) | ma — ま ile aynı ses | harf · ünsüz | マスク (masuku) | maske
+ミ (mi) | mi — み ile aynı ses | harf · ünsüz | ミルク (miruku) | süt
+ム (mu) | mu — む ile aynı ses | harf · ünsüz | ゲーム (gēmu) | oyun
+メ (me) | me — め ile aynı ses | harf · ünsüz | メニュー (menyū) | menü
+モ (mo) | mo — も ile aynı ses | harf · ünsüz | メモ (memo) | not
+ヤ (ya) | ya — や ile aynı ses | harf · ünsüz | タイヤ (taiya) | lastik (tekerlek)
+ユ (yu) | yu — ゆ ile aynı ses | harf · ünsüz | ユニフォーム (yunifōmu) | forma
+ヨ (yo) | yo — よ ile aynı ses | harf · ünsüz | ヨーグルト (yōguruto) | yoğurt
+ラ (ra) | ra — ら ile aynı ses | harf · ünsüz | ラジオ (rajio) | radyo
+リ (ri) | ri — り ile aynı ses | harf · ünsüz | リモコン (rimokon) | kumanda
+## Son heceler ve özel işaretler
+ル (ru) | ru — る ile aynı ses | harf · ünsüz | ルール (rūru) | kural
+レ (re) | re — れ ile aynı ses | harf · ünsüz | レモン (remon) | limon
+ロ (ro) | ro — ろ ile aynı ses | harf · ünsüz | ロボット (robotto) | robot
+ワ (wa) | va — わ ile aynı ses | harf · ünsüz | ワイン (wain) | şarap
+ン (n) | n — ん ile aynı ses | harf · ünsüz | パン (pan) | ekmek
+ー (uzatma çizgisi) | önündeki sesliyi uzatır: bi → bī | ses | ビール (bīru) | bira
+ッ (küçük tsu) | okunmaz; sonraki ünsüzü ikizler: beddo | ses | ベッド (beddo) | yatak
+ファ (fa) | Japonca'da olmayan "fa" sesi için フ + küçük ァ | ses | ソファー (sofā) | kanepe
+ティ (ti) | "ti" sesi için テ + küçük ィ | ses | パーティー (pātī) | parti
+チェ (che) | "çe" sesi için チ + küçük ェ | ses | チェック (chekku) | kontrol
+# UNIT: İlk kelimeler | Sayılar 1–10, renkler
+## Sayılar 1–10
+一 (ichi) | bir | sayı | 一から十まで。(Ichi kara jū made.) | Birden ona kadar.
+二 (ni) | iki | sayı | 二時です。(Niji desu.) | Saat iki.
+三 (san) | üç | sayı | 三月です。(Sangatsu desu.) | Mart ayı.
+四 (yon) | dört (shi diye de okunur) | sayı | 四階です。(Yonkai desu.) | Dördüncü kat.
+五 (go) | beş | sayı | 五歳です。(Gosai desu.) | Beş yaşında.
+六 (roku) | altı | sayı | 六時に起きます。(Rokuji ni okimasu.) | Saat altıda kalkarım.
+七 (nana) | yedi (shichi diye de okunur) | sayı | 七月です。(Shichigatsu desu.) | Temmuz ayı.
+八 (hachi) | sekiz | sayı | 八時です。(Hachiji desu.) | Saat sekiz.
+九 (kyū) | dokuz (ku diye de okunur) | sayı | 九番です。(Kyūban desu.) | Dokuz numara.
+十 (jū) | on | sayı | 十円です。(Jū en desu.) | On yen.
+## Renkler
+赤い (akai) | kırmızı | sıfat | りんごは赤いです。(Ringo wa akai desu.) | Elma kırmızı.
+青い (aoi) | mavi | sıfat | 空が青いです。(Sora ga aoi desu.) | Gökyüzü mavi.
+白い (shiroi) | beyaz | sıfat | 白い猫です。(Shiroi neko desu.) | Beyaz bir kedi.
+黒い (kuroi) | siyah | sıfat | 黒いかばんです。(Kuroi kaban desu.) | Siyah bir çanta.
+黄色い (kiiroi) | sarı | sıfat | バナナは黄色いです。(Banana wa kiiroi desu.) | Muz sarı.
+緑 (midori) | yeşil | isim | 緑の木です。(Midori no ki desu.) | Yeşil bir ağaç.
+茶色 (chairo) | kahverengi | isim | 茶色の犬です。(Chairo no inu desu.) | Kahverengi bir köpek.
+ピンク (pinku) | pembe | isim | ピンクの花です。(Pinku no hana desu.) | Pembe bir çiçek.
+紫 (murasaki) | mor | isim | 紫の傘です。(Murasaki no kasa desu.) | Mor bir şemsiye.
+灰色 (haiiro) | gri | isim | 今日の空は灰色です。(Kyō no sora wa haiiro desu.) | Bugün gökyüzü gri.

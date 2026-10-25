@@ -1,0 +1,111 @@
+# UNIT: Aile ve insanlar | Akrabalar, meslekler, görünüş, karakter
+## Benim ailem
+家族 (kazoku) | aile | isim | 私の家族は四人です。(Watashi no kazoku wa yonin desu.) | Ailem dört kişi.
+父 (chichi) | babam (kendi babası) | isim | 父は五十歳です。(Chichi wa gojussai desu.) | Babam elli yaşında.
+母 (haha) | annem (kendi annesi) | isim | 母は料理が上手です。(Haha wa ryōri ga jōzu desu.) | Annem yemekte çok iyidir.
+兄 (ani) | ağabeyim | isim | 兄は東京にいます。(Ani wa Tōkyō ni imasu.) | Ağabeyim Tokyo'da.
+姉 (ane) | ablam | isim | 姉は二十八歳です。(Ane wa nijūhassai desu.) | Ablam yirmi sekiz yaşında.
+弟 (otōto) | erkek kardeşim (küçük) | isim | 弟は高校生です。(Otōto wa kōkōsei desu.) | Küçük erkek kardeşim lise öğrencisi.
+妹 (imōto) | kız kardeşim (küçük) | isim | 妹はかわいいです。(Imōto wa kawaii desu.) | Kız kardeşim çok tatlı.
+両親 (ryōshin) | anne baba, ebeveyn | isim | 両親はトルコに住んでいます。(Ryōshin wa Toruko ni sunde imasu.) | Annemle babam Türkiye'de yaşıyor.
+兄弟 (kyōdai) | kardeşler | isim | 兄弟はいますか。(Kyōdai wa imasu ka.) | Kardeşin var mı?
+一人っ子 (hitorikko) | tek çocuk | isim | 私は一人っ子です。(Watashi wa hitorikko desu.) | Ben tek çocuğum.
+## Başkasının ailesi
+お父さん (otōsan) | baba (başkasının babası; hitap) | isim | お父さんはお元気ですか。(Otōsan wa o-genki desu ka.) | Babanız nasıl?
+お母さん (okāsan) | anne (başkasının annesi; hitap) | isim | お母さん、ただいま。(Okāsan, tadaima.) | Anne, ben geldim.
+お兄さん (onīsan) | ağabey (başkasının; hitap) | isim | ケンさんのお兄さんは背が高いです。(Ken-san no onīsan wa se ga takai desu.) | Ken'in ağabeyi uzun boylu.
+お姉さん (onēsan) | abla (başkasının; hitap) | isim | お姉さんは何歳ですか。(Onēsan wa nansai desu ka.) | Ablanız kaç yaşında?
+おじいさん (ojīsan) | dede; yaşlı adam | isim | おじいさんは八十歳です。(Ojīsan wa hachijussai desu.) | Dedem seksen yaşında.
+おばあさん (obāsan) | nine, büyükanne; yaşlı kadın | isim | おばあさんは京都に住んでいます。(Obāsan wa Kyōto ni sunde imasu.) | Büyükannem Kyoto'da yaşıyor.
+祖父 (sofu) | dedem (kendi dedesi) | isim | 祖父は医者でした。(Sofu wa isha deshita.) | Dedem doktordu.
+祖母 (sobo) | büyükannem (kendi) | isim | 祖母は花が好きです。(Sobo wa hana ga suki desu.) | Büyükannem çiçekleri sever.
+おじさん (ojisan) | amca, dayı, enişte; orta yaşlı adam | isim | おじさんはパン屋です。(Ojisan wa pan'ya desu.) | Amcam fırıncı.
+おばさん (obasan) | teyze, hala, yenge; orta yaşlı kadın | isim | おばさんがケーキを作りました。(Obasan ga kēki o tsukurimashita.) | Teyzem pasta yaptı.
+## Evlilik ve çocuklar
+夫 (otto) | kocam, eşim | isim | 夫はエンジニアです。(Otto wa enjinia desu.) | Kocam mühendis.
+妻 (tsuma) | karım, eşim | isim | 妻は先生です。(Tsuma wa sensei desu.) | Eşim öğretmen.
+子供 (kodomo) | çocuk | isim | 子供が二人います。(Kodomo ga futari imasu.) | İki çocuğum var.
+息子 (musuko) | oğul | isim | 息子は十歳です。(Musuko wa jussai desu.) | Oğlum on yaşında.
+娘 (musume) | kız evlat | isim | 娘は大学生です。(Musume wa daigakusei desu.) | Kızım üniversite öğrencisi.
+赤ちゃん (akachan) | bebek | isim | 赤ちゃんが寝ています。(Akachan ga nete imasu.) | Bebek uyuyor.
+孫 (mago) | torun | isim | 祖母は孫が五人います。(Sobo wa mago ga gonin imasu.) | Büyükannemin beş torunu var.
+いとこ (itoko) | kuzen | isim | いとこは大阪にいます。(Itoko wa Ōsaka ni imasu.) | Kuzenim Osaka'da.
+結婚する (kekkon suru) | evlenmek | fiil · düzensiz | 姉は来年結婚します。(Ane wa rainen kekkon shimasu.) | Ablam seneye evleniyor.
+独身 (dokushin) | bekâr | isim | 兄はまだ独身です。(Ani wa mada dokushin desu.) | Ağabeyim hâlâ bekâr.
+## İnsanlar
+人 (hito) | insan, kişi | isim | あの人は誰ですか。(Ano hito wa dare desu ka.) | O kişi kim?
+男の人 (otoko no hito) | erkek, adam | isim | 男の人が来ました。(Otoko no hito ga kimashita.) | Bir adam geldi.
+女の人 (onna no hito) | kadın | isim | あの女の人は歌手です。(Ano onna no hito wa kashu desu.) | O kadın şarkıcı.
+男の子 (otoko no ko) | erkek çocuk, oğlan | isim | 男の子が公園で遊んでいます。(Otoko no ko ga kōen de asonde imasu.) | Bir oğlan parkta oynuyor.
+女の子 (onna no ko) | kız çocuk | isim | 女の子が歌っています。(Onna no ko ga utatte imasu.) | Bir kız çocuğu şarkı söylüyor.
+大人 (otona) | yetişkin | isim | 大人は千円です。(Otona wa sen en desu.) | Yetişkinler bin yen.
+友達 (tomodachi) | arkadaş | isim | ソフィアさんは私の友達です。(Sofia-san wa watashi no tomodachi desu.) | Sofia benim arkadaşım.
+お年寄り (otoshiyori) | yaşlılar | isim | お年寄りに席をどうぞ。(Otoshiyori ni seki o dōzo.) | Yaşlılara yer verin.
+みんな (minna) | herkes, hepsi (samimi) | zamir | みんなで写真を撮りましょう。(Minna de shashin o torimashō.) | Hep birlikte fotoğraf çekelim.
+知り合い (shiriai) | tanıdık | isim | 彼は父の知り合いです。(Kare wa chichi no shiriai desu.) | O babamın bir tanıdığı.
+## Meslekler I
+先生 (sensei) | öğretmen; hoca (doktor, avukat için de) | isim | 先生、質問があります。(Sensei, shitsumon ga arimasu.) | Hocam, bir sorum var.
+学生 (gakusei) | öğrenci (özellikle üniversite) | isim | 私は大学の学生です。(Watashi wa daigaku no gakusei desu.) | Ben üniversite öğrencisiyim.
+会社員 (kaishain) | şirket çalışanı | isim | 父は会社員です。(Chichi wa kaishain desu.) | Babam şirket çalışanı.
+医者 (isha) | doktor | isim | 姉は医者です。(Ane wa isha desu.) | Ablam doktor.
+看護師 (kangoshi) | hemşire | isim | 彼女は病院の看護師です。(Kanojo wa byōin no kangoshi desu.) | O, hastanede hemşire.
+エンジニア (enjinia) | mühendis | isim | 私はエンジニアです。(Watashi wa enjinia desu.) | Ben mühendisim.
+警察官 (keisatsukan) | polis memuru | isim | 警察官に道を聞きました。(Keisatsukan ni michi o kikimashita.) | Polise yolu sordum.
+店員 (ten'in) | tezgâhtar, mağaza çalışanı | isim | 店員さん、すみません。(Ten'in-san, sumimasen.) | Affedersiniz (tezgâhtara seslenirken).
+主婦 (shufu) | ev hanımı | isim | 母は主婦です。(Haha wa shufu desu.) | Annem ev hanımı.
+仕事 (shigoto) | iş, meslek | isim | お仕事は何ですか。(O-shigoto wa nan desu ka.) | Mesleğiniz ne?
+## Meslekler II
+料理人 (ryōrinin) | aşçı | isim | 兄は料理人です。(Ani wa ryōrinin desu.) | Ağabeyim aşçı.
+運転手 (untenshu) | şoför | isim | おじさんはバスの運転手です。(Ojisan wa basu no untenshu desu.) | Amcam otobüs şoförü.
+弁護士 (bengoshi) | avukat | isim | 彼女は弁護士です。(Kanojo wa bengoshi desu.) | O bir avukat.
+歌手 (kashu) | şarkıcı | isim | 夢は歌手です。(Yume wa kashu desu.) | Hayalim şarkıcı olmak.
+作家 (sakka) | yazar | isim | 好きな作家は誰ですか。(Suki na sakka wa dare desu ka.) | Sevdiğin yazar kim?
+農家 (nōka) | çiftçi | isim | 祖父は農家です。(Sofu wa nōka desu.) | Dedem çiftçi.
+銀行員 (ginkōin) | bankacı | isim | 姉は銀行員です。(Ane wa ginkōin desu.) | Ablam bankacı.
+公務員 (kōmuin) | devlet memuru | isim | 父は公務員です。(Chichi wa kōmuin desu.) | Babam devlet memuru.
+大工 (daiku) | marangoz, dülger | isim | 大工さんが家を建てます。(Daiku-san ga ie o tatemasu.) | Marangoz ev inşa ediyor.
+画家 (gaka) | ressam | isim | オマルさんは画家です。(Omaru-san wa gaka desu.) | Omar ressam.
+## Görünüş
+かわいい (kawaii) | sevimli, tatlı | sıfat | この赤ちゃんはかわいいです。(Kono akachan wa kawaii desu.) | Bu bebek çok tatlı.
+きれい (kirei) | güzel; temiz | sıfat | 彼女はきれいです。(Kanojo wa kirei desu.) | O çok güzel.
+かっこいい (kakkoii) | yakışıklı, havalı | sıfat | その車はかっこいいです。(Sono kuruma wa kakkoii desu.) | O araba çok havalı.
+若い (wakai) | genç | sıfat | 先生はとても若いです。(Sensei wa totemo wakai desu.) | Öğretmen çok genç.
+背が高い (se ga takai) | uzun boylu | ifade | 兄は背が高いです。(Ani wa se ga takai desu.) | Ağabeyim uzun boylu.
+背が低い (se ga hikui) | kısa boylu | ifade | 私は背が低いです。(Watashi wa se ga hikui desu.) | Ben kısa boyluyum.
+眼鏡 (megane) | gözlük | isim | 父は眼鏡をかけています。(Chichi wa megane o kakete imasu.) | Babam gözlük takıyor.
+ひげ (hige) | sakal, bıyık | isim | おじいさんはひげが長いです。(Ojīsan wa hige ga nagai desu.) | Dedemin sakalı uzun.
+太る (futoru) | kilo almak, şişmanlamak | fiil | 最近少し太りました。(Saikin sukoshi futorimashita.) | Son zamanlarda biraz kilo aldım.
+やせる (yaseru) | zayıflamak | fiil | 姉はやせています。(Ane wa yasete imasu.) | Ablam zayıf.
+## Karakter
+優しい (yasashii) | nazik, şefkatli | sıfat | 母はとても優しいです。(Haha wa totemo yasashii desu.) | Annem çok şefkatli.
+親切 (shinsetsu) | yardımsever, nazik | sıfat | 日本人は親切です。(Nihonjin wa shinsetsu desu.) | Japonlar yardımseverdir.
+明るい (akarui) | neşeli; aydınlık | sıfat | 妹は明るい性格です。(Imōto wa akarui seikaku desu.) | Kız kardeşim neşeli biridir.
+静か (shizuka) | sessiz, sakin | sıfat | 弟は静かな人です。(Otōto wa shizuka na hito desu.) | Erkek kardeşim sakin biridir.
+真面目 (majime) | ciddi, çalışkan | sıfat | 彼はとても真面目です。(Kare wa totemo majime desu.) | O çok çalışkan.
+面白い (omoshiroi) | komik; ilginç | sıfat | 父は面白い人です。(Chichi wa omoshiroi hito desu.) | Babam komik biridir.
+元気 (genki) | sağlıklı, enerjik | sıfat | 子供たちは元気です。(Kodomotachi wa genki desu.) | Çocuklar enerjik.
+頭がいい (atama ga ii) | akıllı, zeki | ifade | 姉は頭がいいです。(Ane wa atama ga ii desu.) | Ablam çok akıllı.
+厳しい (kibishii) | sert, katı | sıfat | 父は少し厳しいです。(Chichi wa sukoshi kibishii desu.) | Babam biraz katıdır.
+意地悪 (ijiwaru) | huysuz, kötü niyetli | sıfat | 彼は意地悪じゃありません。(Kare wa ijiwaru ja arimasen.) | O kötü biri değil.
+## Kişisel bilgiler
+住所 (jūsho) | adres | isim | ここに住所を書いてください。(Koko ni jūsho o kaite kudasai.) | Adresinizi buraya yazın lütfen.
+電話番号 (denwa bangō) | telefon numarası | isim | 電話番号を教えてください。(Denwa bangō o oshiete kudasai.) | Telefon numaranızı söyler misiniz?
+誕生日 (tanjōbi) | doğum günü | isim | 誕生日は五月三日です。(Tanjōbi wa gogatsu mikka desu.) | Doğum günüm üç mayıs.
+趣味 (shumi) | hobi | isim | 趣味は何ですか。(Shumi wa nan desu ka.) | Hobin ne?
+年齢 (nenrei) | yaş (resmî) | isim | 年齢を書いてください。(Nenrei o kaite kudasai.) | Yaşınızı yazın lütfen.
+名字 (myōji) | soyadı | isim | 名字は鈴木です。(Myōji wa Suzuki desu.) | Soyadım Suzuki.
+住む (sumu) | oturmak, yaşamak (bir yerde) | fiil | 大阪に住んでいます。(Ōsaka ni sunde imasu.) | Osaka'da oturuyorum.
+生まれる (umareru) | doğmak | fiil | 私はアンカラで生まれました。(Watashi wa Ankara de umaremashita.) | Ankara'da doğdum.
+会う (au) | buluşmak, görüşmek | fiil | 明日友達に会います。(Ashita tomodachi ni aimasu.) | Yarın arkadaşımla buluşacağım.
+紹介する (shōkai suru) | tanıştırmak, tanıtmak | fiil · düzensiz | 友達を紹介します。(Tomodachi o shōkai shimasu.) | Arkadaşımı tanıştırayım.
+## Birlikte ve yalnız
+一緒に (issho ni) | birlikte | zarf | 一緒に昼ご飯を食べましょう。(Issho ni hirugohan o tabemashō.) | Birlikte öğle yemeği yiyelim.
+一人で (hitori de) | yalnız, tek başına | zarf | 一人で旅行します。(Hitori de ryokō shimasu.) | Tek başıma seyahat ediyorum.
+仲がいい (naka ga ii) | arası iyi, yakın | ifade | 姉と私は仲がいいです。(Ane to watashi wa naka ga ii desu.) | Ablamla aramız iyi.
+似る (niru) | benzemek | fiil | 娘は母に似ています。(Musume wa haha ni nite imasu.) | Kızım anneme benziyor.
+同じ (onaji) | aynı | sıfat | 私たちは同じクラスです。(Watashitachi wa onaji kurasu desu.) | Biz aynı sınıftayız.
+違う (chigau) | farklı olmak; yanlış olmak | fiil | 兄と私は性格が違います。(Ani to watashi wa seikaku ga chigaimasu.) | Ağabeyimle karakterlerimiz farklı.
+先輩 (senpai) | kıdemli (okulda/işte üst dönem) | isim | 田中さんは大学の先輩です。(Tanaka-san wa daigaku no senpai desu.) | Tanaka üniversiteden üst dönemim.
+後輩 (kōhai) | alt dönem, daha yeni olan | isim | 彼は会社の後輩です。(Kare wa kaisha no kōhai desu.) | O şirketteki yeni arkadaşım.
+クラスメート (kurasumēto) | sınıf arkadaşı | isim | クラスメートと勉強します。(Kurasumēto to benkyō shimasu.) | Sınıf arkadaşlarımla çalışıyorum.
+ペット (petto) | evcil hayvan | isim | ペットを飼っていますか。(Petto o katte imasu ka.) | Evcil hayvanın var mı?
