@@ -18,5 +18,5 @@ günlük sınır: anahtar #5 gemini-3.8-flash ['GenerateRequestsPerDayPerProject
 HTTP 404 anahtar #5: {
 günlük sınır: anahtar #5 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 günlük sınır: anahtar #5 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-süre/sınır doldu, çevrilen: 1
-1
+süre/sınır doldu, çevrilen: 3
+3
