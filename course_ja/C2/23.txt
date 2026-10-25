@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## Borsa
+日経平均 (Nikkei heikin) | Nikkei ortalaması (Tokyo borsa endeksi) | isim | 日経平均は、三日連続で値上がりした。 | Nikkei ortalaması üç gün üst üste yükseldi.
+地合い (jiai) | piyasanın genel havası | isim | 今日は地合いが悪く、ほとんどの銘柄が下がった。 | Bugün piyasanın havası kötüydü, hisselerin çoğu düştü.
+高値 (takane) | yüksek fiyat, zirve fiyat | isim | 金の価格が、史上最高値を更新した。 | Altın fiyatı tarihî zirvesini yeniledi.
+安値 (yasune) | düşük fiyat, dip | isim | 株価が年初来の安値をつけた。 | Hisse fiyatı yılbaşından bu yana en düşük seviyesini gördü.
+底値 (sokone) | dip fiyat | isim | 底値で買ったつもりが、さらに値下がりした。 | Dipten aldığımı sanıyordum ama fiyat daha da düştü.
+ストップ高 (sutoppudaka) | günlük tavan (hisse) | isim | 好決算を受けて、その会社の株はストップ高になった。 | İyi sonuçların ardından şirketin hissesi tavan yaptı.
+空売り (karauri) | açığa satış | isim | 下落を予想して、空売りで利益を得た投資家もいる。 | Düşüş bekleyip açığa satışla kâr eden yatırımcılar da var.
+損切り (songiri) | zararı kesme (zararına satış) | isim | 損失が広がる前に、思い切って損切りした。 | Zarar büyümeden cesaret edip zararına sattım.
+含み益 (fukumieki) | gerçekleşmemiş kâr | isim | 株価の上昇で、手持ちの株に含み益が出ている。 | Fiyat artışıyla elimdeki hisselerde gerçekleşmemiş kâr oluştu.
+時価総額 (jika sōgaku) | piyasa değeri | isim | その企業の時価総額は、国内で第一位だ。 | O şirketin piyasa değeri ülkede birinci sırada.
+## Yatırım
+分散投資 (bunsan tōshi) | çeşitlendirilmiş yatırım | isim | リスクを減らすため、分散投資を心がけている。 | Riski azaltmak için yatırımlarımı çeşitlendirmeye dikkat ediyorum.
+長期投資 (chōki tōshi) | uzun vadeli yatırım | isim | 長期投資では、短期の値動きに一喜一憂しないことが大切だ。 | Uzun vadeli yatırımda kısa vadeli dalgalanmalara takılmamak önemlidir.
+投資信託 (tōshi shintaku) | yatırım fonu | isim | 初心者には、少額から始められる投資信託が人気だ。 | Yeni başlayanlar arasında az parayla başlanabilen yatırım fonları popüler.
+債券 (saiken) | tahvil | isim | 景気が不安定な時期は、債券が好まれる。 | Ekonominin istikrarsız olduğu dönemlerde tahviller tercih edilir.
+国債 (kokusai) | devlet tahvili | isim | 政府は、財源を確保するために国債を発行した。 | Hükümet kaynak sağlamak için devlet tahvili çıkardı.
+利回り (rimawari) | getiri oranı | isim | この債券の利回りは、年二パーセントだ。 | Bu tahvilin yıllık getirisi yüzde iki.
+元本 (ganpon) | anapara | isim | 預金は、元本が保証されている点が安心だ。 | Mevduatın güven veren yanı anaparanın garantili olması.
+複利 (fukuri) | bileşik faiz | isim | 複利の効果で、長く続けるほど資産が増える。 | Bileşik faiz etkisiyle ne kadar uzun sürdürürsen varlık o kadar büyür.
+ポートフォリオ (pōtoforio) | yatırım portföyü | isim | 年齢に合わせて、ポートフォリオを見直した。 | Yaşıma uygun olarak portföyümü gözden geçirdim.
+個人投資家 (kojin tōshika) | bireysel yatırımcı | isim | 最近は、若い個人投資家が増えている。 | Son zamanlarda genç bireysel yatırımcılar artıyor.
+## Vergi
+法人税 (hōjinzei) | kurumlar vergisi | isim | 政府は、法人税の引き下げを検討している。 | Hükümet kurumlar vergisinin düşürülmesini değerlendiriyor.
+青色申告 (aoiro shinkoku) | mavi beyanname (avantajlı vergi beyanı) | isim | 個人事業主の彼は、青色申告で税金を抑えている。 | Serbest çalışan biri olarak mavi beyannameyle vergisini düşük tutuyor.
+扶養控除 (fuyō kōjo) | bakmakla yükümlü olunanlar için vergi indirimi | isim | 子どもがいると、扶養控除が受けられる。 | Çocuğun varsa bakmakla yükümlü olunanlar indiriminden yararlanabilirsin.
+源泉徴収 (gensen chōshū) | stopaj (kaynakta kesinti) | isim | 会社員の所得税は、給料から源泉徴収される。 | Maaşlı çalışanların gelir vergisi maaştan stopaj olarak kesilir.
+租税回避 (sozei kaihi) | vergiden kaçınma (yasal boşluklarla) | isim | 大企業の租税回避が、国際的な問題となっている。 | Büyük şirketlerin vergiden kaçınması uluslararası bir sorun hâline geldi.
+脱税 (datsuzei) | vergi kaçakçılığı | isim | その会社の社長は、脱税の疑いで逮捕された。 | O şirketin başkanı vergi kaçakçılığı şüphesiyle tutuklandı.
+課税 (kazei) | vergilendirme | isim | 宝くじの当選金には、課税されない。 | Piyango ikramiyesi vergilendirilmez.
+非課税 (hikazei) | vergiden muaf | isim | 一定額までの贈与は、非課税となる。 | Belli bir tutara kadar bağış vergiden muaftır.
+相続税 (sōzokuzei) | veraset vergisi | isim | 土地を相続して、多額の相続税を払うことになった。 | Arazi miras kalınca yüksek bir veraset vergisi ödemem gerekti.
+税務調査 (zeimu chōsa) | vergi denetimi | isim | 去年、会社に税務調査が入った。 | Geçen yıl şirkete vergi denetimi geldi.
+## Kredi ve borç
+頭金 (atamakin) | peşinat | isim | 家を買うために、十年かけて頭金を貯めた。 | Ev almak için on yıl boyunca peşinat biriktirdim.
+変動金利 (hendō kinri) | değişken faiz | isim | 変動金利は、金利が上がると返済額も増える。 | Değişken faizde faiz yükselince ödeme miktarı da artar.
+固定金利 (kotei kinri) | sabit faiz | isim | 将来の不安から、固定金利のローンを選んだ。 | Gelecek kaygısıyla sabit faizli krediyi seçtim.
+貸し渋り (kashishiburi) | kredi vermekten kaçınma (bankalar) | isim | 銀行の貸し渋りで、中小企業の倒産が増えた。 | Bankaların kredi vermekten kaçınması küçük işletmelerin iflasını artırdı.
+抵当 (teitō) | ipotek, rehin | isim | 自宅を抵当に入れて、事業資金を借りた。 | Evini ipotek ettirip işi için kredi aldı.
+連帯保証人 (rentai hoshōnin) | müşterek borçlu kefil | isim | 友人の連帯保証人になって、借金を背負うことになった。 | Arkadaşıma kefil olunca onun borcunu yüklenmek zorunda kaldım.
+自己破産 (jiko hasan) | kişisel iflas | isim | 借金が返せなくなり、彼は自己破産を申し立てた。 | Borçlarını ödeyemeyince kişisel iflas başvurusu yaptı.
+多重債務 (tajū saimu) | birden çok yerden borçlanma | isim | 多重債務に陥った人のための相談窓口がある。 | Birden çok yerden borca batanlar için danışma merkezleri var.
+繰り上げ返済 (kuriage hensai) | erken ödeme (kredi) | isim | ボーナスで、住宅ローンの一部を繰り上げ返済した。 | İkramiyeyle konut kredisinin bir kısmını erken ödedim.
+金融機関 (kin'yū kikan) | finans kuruluşu | isim | 複数の金融機関から、融資の提案を受けた。 | Birden fazla finans kuruluşundan kredi teklifi aldık.
+## Makroekonomi
+スタグフレーション (sutagufurēshon) | stagflasyon | isim | 景気が悪いのに物価が上がる、スタグフレーションが懸念されている。 | Ekonomi kötüyken fiyatların arttığı stagflasyondan endişe ediliyor.
+デフレスパイラル (defure supairaru) | deflasyon sarmalı | isim | 物価の下落と不況が続く、デフレスパイラルに陥った。 | Fiyat düşüşü ile durgunluğun birbirini beslediği deflasyon sarmalına girildi.
+景気の踊り場 (keiki no odoriba) | ekonominin duraklama evresi | ifade | 景気は今、踊り場にあると政府は説明した。 | Hükümet ekonominin şu an bir duraklama evresinde olduğunu açıkladı.
+金融緩和 (kin'yū kanwa) | parasal genişleme | isim | 日本銀行は、大規模な金融緩和を続けている。 | Merkez bankası geniş çaplı parasal genişlemeyi sürdürüyor.
+量的緩和 (ryōteki kanwa) | niceliksel genişleme | isim | 量的緩和によって、市場に大量の資金が供給された。 | Niceliksel genişlemeyle piyasaya büyük miktarda para verildi.
+為替介入 (kawase kainyū) | kura müdahale | isim | 急激な円安を受けて、政府は為替介入に踏み切った。 | Yenin hızla değer kaybetmesi üzerine hükümet kura müdahale etti.
+購買力平価 (kōbairyoku heika) | satın alma gücü paritesi | isim | 購買力平価で比べると、円は割安だと言われる。 | Satın alma gücü paritesine göre yenin ucuz olduğu söylenir.
+プライマリーバランス (puraimarī baransu) | faiz dışı denge (bütçe) | isim | 政府は、プライマリーバランスの黒字化を目標に掲げた。 | Hükümet faiz dışı dengenin fazla vermesini hedef olarak belirledi.
+便乗値上げ (binjō neage) | fırsatçı zam | isim | 原料高を理由にした便乗値上げが問題になっている。 | Hammadde pahalılığını bahane eden fırsatçı zamlar sorun oluyor.
+政策金利 (seisaku kinri) | politika faizi | isim | 日本銀行は、政策金利を据え置いた。 | Japonya Merkez Bankası politika faizini sabit tuttu.
+## Soyut fiiller
+内包する (naihō suru) | içinde barındırmak | fiil | その制度は、多くの矛盾を内包している。 | O sistem pek çok çelişkiyi içinde barındırıyor.
+捨象する (shashō suru) | soyutlarken dışarıda bırakmak | fiil | モデルは、細かな違いを捨象して全体の傾向を示す。 | Model küçük farkları dışarıda bırakıp genel eğilimi gösterir.
+止揚する (shiyō suru) | aufheben, sentezde aşmak (diyalektik) | fiil | 対立する二つの考えを止揚して、新しい理論が生まれた。 | Çatışan iki düşünce sentezde aşılarak yeni bir kuram doğdu.
+収斂する (shūren suru) | bir noktada birleşmek | fiil | 議論は、最終的に一つの結論へと収斂した。 | Tartışma sonunda tek bir sonuçta birleşti.
+乖離する (kairi suru) | birbirinden kopmak, uzaklaşmak | fiil | 政治家の発言と国民の感覚が、大きく乖離している。 | Politikacıların söyledikleriyle halkın hissettikleri birbirinden çok uzak.
+拮抗する (kikkō suru) | denk güçte çekişmek | fiil | 両候補の支持率は、ほぼ拮抗している。 | İki adayın desteği neredeyse başa baş.
+看過する (kanka suru) | göz yummak, görmezden gelmek | fiil | このような人権侵害を、看過することはできない。 | Böyle bir insan hakları ihlaline göz yumulamaz.
+惹起する (jakki suru) | yol açmak, tetiklemek | fiil | その発言は、国際的な問題を惹起した。 | O söz uluslararası bir soruna yol açtı.
+峻別する (shunbetsu suru) | kesin çizgiyle ayırmak | fiil | 事実と意見を峻別して、記事を書くべきだ。 | Haber yazarken olgu ile görüş kesin biçimde ayrılmalı.
+担保する (tanpo suru) | güvence altına almak (soyut) | fiil | 研究の信頼性を担保するため、第三者の検証を受けた。 | Araştırmanın güvenilirliğini sağlamak için üçüncü tarafın doğrulamasından geçtik.
+## Soyut sıfatlar
+相対的 (sōtaiteki) | göreli | sıfat | 幸せの基準は、きわめて相対的なものだ。 | Mutluluğun ölçütü son derece görelidir.
+絶対的 (zettaiteki) | mutlak | sıfat | 彼は社内で、絶対的な権力を持っている。 | Şirket içinde mutlak bir güce sahip.
+本質的 (honshitsuteki) | özsel, temel | sıfat | それは表面的な問題ではなく、本質的な問題だ。 | Bu yüzeysel değil, temel bir sorun.
+包括的 (hōkatsuteki) | kapsamlı | sıfat | 政府は、包括的な経済対策を発表した。 | Hükümet kapsamlı bir ekonomik önlem paketi açıkladı.
+多義的 (tagiteki) | çok anlamlı | sıfat | 「自由」という言葉は、非常に多義的だ。 | "Özgürlük" sözcüğü son derece çok anlamlıdır.
+両義的 (ryōgiteki) | iki anlamlı, belirsiz (ikircikli) | sıfat | 彼の態度は、賛成とも反対とも取れる両義的なものだった。 | Tavrı hem lehte hem aleyhte yorumlanabilecek kadar ikircikliydi.
+逆説的 (gyakusetsuteki) | paradoksal | sıfat | 逆説的だが、失敗が多い人ほど成功に近い。 | Paradoksal ama en çok başarısız olanlar başarıya en yakın olanlardır.
+不可逆的 (fukagyakuteki) | geri dönüşsüz | sıfat | 一度失われた生態系は、不可逆的な変化を被る。 | Bir kez yok olan ekosistem geri dönüşsüz bir değişime uğrar.
+示唆的 (shisateki) | düşündürücü, ufuk açıcı | sıfat | その研究結果は、教育の未来にとって示唆的だ。 | O araştırma sonucu eğitimin geleceği için ufuk açıcı.
+根源的 (kongenteki) | köklü, temel (en derindeki) | sıfat | 「なぜ生きるのか」は、人間の根源的な問いだ。 | "Neden yaşıyoruz" insanın en temel sorusudur.
+## Soyut kavramlar
+パラダイム (paradaimu) | paradigma | isim | その発見は、物理学のパラダイムを大きく変えた。 | O keşif fiziğin paradigmasını büyük ölçüde değiştirdi.
+言説 (gensetsu) | söylem | isim | メディアの言説が、人々の価値観を形作っている。 | Medya söylemi insanların değerlerini biçimlendiriyor.
+表象 (hyōshō) | temsil (imge) | isim | 映画における女性の表象を研究している。 | Sinemada kadının temsili üzerine çalışıyorum.
+他者性 (tashasei) | ötekilik | isim | 異文化理解には、他者性を尊重する姿勢が欠かせない。 | Farklı kültürleri anlamak için ötekiliğe saygı gösteren bir tutum şarttır.
+身体性 (shintaisei) | bedensellik | isim | 舞踏は、身体性を極限まで追求する芸術だ。 | Butō bedenselliği en uç noktaya kadar araştıran bir sanattır.
+近代性 (kindaisei) | modernlik | isim | 明治の文学は、日本の近代性を問い続けた。 | Meiji edebiyatı Japonya'nın modernliğini sorgulamayı sürdürdü.
+脱構築 (datsukōchiku) | yapısökümü | isim | 脱構築は、テクストの自明な意味を揺さぶる方法だ。 | Yapısökümü metnin apaçık anlamını sarsan bir yöntemdir.
+物語性 (monogatarisei) | anlatısallık, hikâye unsuru | isim | 彼の絵画には、強い物語性が感じられる。 | Resimlerinde güçlü bir hikâye unsuru hissediliyor.
+公共圏 (kōkyōken) | kamusal alan | isim | インターネットは、新しい公共圏になり得るのだろうか。 | İnternet yeni bir kamusal alan olabilir mi?
+権力関係 (kenryoku kankei) | iktidar ilişkileri | isim | 言葉の使い方には、社会の権力関係が反映される。 | Dilin kullanımına toplumdaki iktidar ilişkileri yansır.
+## Düşünce insanı tipleri
+知識人 (chishikijin) | aydın, entelektüel | isim | 戦後の知識人たちは、平和について活発に議論した。 | Savaş sonrası aydınlar barış üzerine canlı tartışmalar yaptı.
+論客 (ronkyaku) | tartışmacı, polemikçi | isim | 彼は鋭い批評で知られる論客だ。 | Keskin eleştirileriyle bilinen bir polemikçidir.
+博覧強記 (hakuran kyōki) | çok okumuş ve güçlü hafızalı | deyim | 博覧強記の教授は、どんな質問にも即座に答えた。 | Çok okumuş ve hafızası güçlü profesör her soruya anında cevap verdi.
+理論家 (rironka) | kuramcı | isim | 彼は優れた理論家だが、実践は苦手だ。 | İyi bir kuramcı ama uygulamada zayıf.
+実務家 (jitsumuka) | uygulamacı, pratik insan | isim | 委員会には、学者だけでなく実務家も加わった。 | Kurula yalnızca akademisyenler değil uygulamacılar da katıldı.
+夢想家 (musōka) | hayalperest | isim | 若い頃の彼は、世界を変えたいと願う夢想家だった。 | Gençken dünyayı değiştirmek isteyen bir hayalperestti.
+楽観論者 (rakkanronsha) | iyimser (görüş sahibi) | isim | 楽観論者は、景気はすぐに回復すると主張する。 | İyimserler ekonominin yakında toparlanacağını savunuyor.
+悲観論者 (hikanronsha) | kötümser (görüş sahibi) | isim | 悲観論者は、さらなる不況を予想している。 | Kötümserler daha derin bir durgunluk bekliyor.
+現実主義者 (genjitsu shugisha) | gerçekçi (kişi) | isim | 現実主義者の彼は、理想より結果を重視する。 | Gerçekçi biri olarak idealden çok sonuca önem verir.
+理想主義者 (risō shugisha) | idealist | isim | 理想主義者と言われても、彼女は信念を曲げなかった。 | İdealist dense de inancından vazgeçmedi.
+## Entelektüel deyimler
+是々非々 (zeze hihi) | doğruya doğru, yanlışa yanlış demek | deyim | 政府の政策には、是々非々の立場で臨みたい。 | Hükümet politikalarına doğruya doğru yanlışa yanlış diyerek yaklaşmak istiyorum.
+一長一短 (itchō ittan) | her birinin artısı eksisi var | deyim | どの方法にも、一長一短がある。 | Her yöntemin artısı da eksisi de var.
+表裏一体 (hyōri ittai) | madalyonun iki yüzü (ayrılmaz) | deyim | 自由と責任は、表裏一体の関係にある。 | Özgürlük ile sorumluluk madalyonun iki yüzü gibidir.
+本末転倒 (honmatsu tentō) | önemliyle önemsizi karıştırmak | deyim | 健康のための運動で体を壊すのは、本末転倒だ。 | Sağlık için spor yapıp sağlığını bozmak işi tersinden almaktır.
+自家撞着 (jika dōchaku) | kendi kendiyle çelişme | deyim | 彼の主張は、自家撞着に陥っている。 | İddiası kendi kendisiyle çelişiyor.
+不易流行 (fueki ryūkō) | değişmeyen öz ile değişen yenilik | deyim | 芭蕉の「不易流行」は、伝統と革新の調和を説く。 | Bashō'nun "değişmeyen öz ve değişen yenilik" ilkesi gelenek ile yeniliğin uyumunu anlatır.
+玉石混交 (gyokuseki konkō) | iyiyle kötünün karışık olması | deyim | ネット上の情報は、玉石混交だ。 | İnternetteki bilgiler iyisiyle kötüsüyle karışık.
+是非を問う (zehi o tou) | doğru olup olmadığını sorgulamak | deyim | 住民投票で、原発再稼働の是非を問うことになった。 | Yerel referandumla nükleer santralin yeniden çalıştırılmasının doğruluğu sorulacak.
+一刀両断 (ittō ryōdan) | tek darbede kesip atmak (kararlı çözüm) | deyim | 社長は、長年の懸案を一刀両断に解決した。 | Patron yıllardır süren sorunu tek hamlede çözdü.
+首尾一貫 (shubi ikkan) | baştan sona tutarlı | deyim | 彼の主張は、最初から最後まで首尾一貫している。 | İddiası baştan sona tutarlı.
