@@ -1,0 +1,120 @@
+# UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
+## Aile üyeleri
+o pai | baba | isim (e) | O meu pai trabalha no banco. | Babam bankada çalışıyor.
+a mãe | anne | isim (d) | A minha mãe é professora. | Annem öğretmen.
+o irmão | erkek kardeş | isim (e) | O meu irmão estuda na universidade. | Erkek kardeşim üniversitede okuyor.
+a irmã | kız kardeş | isim (d) | A minha irmã gosta de ler. | Kız kardeşim okumayı sever.
+o filho | oğul | isim (e) | O filho deles tem cinco anos. | Onların oğulları beş yaşında.
+a filha | kız evlat | isim (d) | A filha dela é muito inteligente. | Onun kızı çok akıllı.
+o avô | büyükbaba, dede | isim (e) | O meu avô mora no campo. | Büyükbabam köyde yaşıyor.
+a avó | büyükanne, nine | isim (d) | A avó faz um bolo delicioso. | Büyükanne lezzetli bir kek yapıyor.
+o tio | amca, dayı | isim (e) | O meu tio viaja muito. | Amcam çok seyahat ediyor.
+a tia | hala, teyze | isim (d) | A tia compra flores frescas. | Teyze taze çiçekler alıyor.
+
+## Geniş aile
+o primo | kuzen (erkek) | isim (e) | O meu primo joga futebol. | Kuzenim futbol oynuyor.
+a prima | kuzen (kadın) | isim (d) | A prima fala três idiomas. | Kuzenim üç dil konuşuyor.
+o neto | torun (erkek) | isim (e) | O avô brinca com o neto. | Dede torunuyla oynuyor.
+a neta | torun (kadın) | isim (d) | A neta ajuda em casa. | Torun evde yardım ediyor.
+o marido | koca, eş | isim (e) | O marido trabalha no escritório. | Koca ofiste çalışıyor.
+a esposa | eş, karı | isim (d) | A esposa prepara o jantar. | Eşi akşam yemeğini hazırlıyor.
+o parente | akraba | isim (e) | Todos os parentes vêm à festa. | Bütün akrabalar partiye geliyor.
+a família | aile | isim (d) | A nossa família é muito unida. | Ailemiz çok birliktedir.
+o sogro | kayınpeder | isim (e) | O sogro bebe café de manhã. | Kayınpeder sabah kahvesi içiyor.
+a sogra | kaynana | isim (d) | A sogra mora perto deles. | Kaynana onlara yakın yaşıyor.
+
+## Meslekler 1
+o médico | doktor (erkek) | isim (e) | O médico ajuda os doentes. | Doktor hastalara yardım ediyor.
+a médica | doktor (kadın) | isim (d) | A médica trabalha no hospital. | Kadın doktor hastanede çalışıyor.
+o enfermeiro | hemşire (erkek) | isim (e) | O enfermeiro mede a febre. | Hemşire ateş ölçüyor.
+a enfermeira | hemşire (kadın) | isim (d) | A enfermeira é muito gentil. | Hemşire çok kibar.
+o professor | öğretmen, profesör (erkek) | isim (e) | O professor explica a lição. | Öğretmen dersi anlatıyor.
+a professora | öğretmen, profesör (kadın) | isim (d) | A professora corrige os cadernos. | Kadın öğretmen defterleri düzeltiyor.
+o engenheiro | mühendis (erkek) | isim (e) | O engenheiro desenha a ponte. | Mühendis köprüyü çiziyor.
+a engenheira | mühendis (kadın) | isim (d) | A engenheira constrói casas. | Kadın mühendis evler inşa ediyor.
+o advogado | avukat (erkek) | isim (e) | O advogado lê os documentos. | Avukat belgeleri okuyor.
+a advogada | avukat (kadın) | isim (d) | A advogada defende o cliente. | Kadın avukat müvekkili savunuyor.
+
+## Meslekler 2
+o arquiteto | mimar (erkek) | isim (e) | O arquiteto projeta o prédio. | Mimar binayı tasarlıyor.
+a arquiteta | mimar (kadın) | isim (d) | A arquiteta usa o computador. | Kadın mimar bilgisayar kullanıyor.
+o comerciante | tüccar, esnaf | isim (e) | O comerciante abre a loja cedo. | Esnaf dükkanı erken açıyor.
+o cozinheiro | aşçı (erkek) | isim (e) | O cozinheiro faz uma comida boa. | Aşçı güzel bir yemek yapıyor.
+a cozinheira | aşçı (kadın) | isim (d) | A cozinheira gosta de peixe. | Kadın aşçı balığı sever.
+o pintor | boyacı, ressam (erkek) | isim (e) | O pintor pinta a parede de azul. | Boyacı duvarı maviye boyuyor.
+o motorista | şoför, sürücü | isim (e) | O motorista conduz o autocarro. | Şoför otobüsü sürüyor.
+o empregado | çalışan, garson (erkek) | isim (e) | O empregado serve o café. | Garson kahve servis ediyor.
+o artista | sanatçı | isim (e) | O artista cria belas estátuas. | Sanatçı güzel heykeller yaratıyor.
+o músico | müzisyen | isim (e) | O músico toca guitarra muito bem. | Müzisyen çok iyi gitar çalıyor.
+
+## Karakter ve kişilik
+simpático (e) | sempatik, güler yüzlü | sıfat | O nosso vizinho é muito simpático. | Komşumuz çok sempatik.
+simpática (d) | sempatik, güler yüzlü | sıfat | A nova aluna é simpática. | Yeni öğrenci sempatik.
+inteligente | zeki, akıllı | sıfat | A criança é muito inteligente. | Çocuk çok zeki.
+trabalhador (e) | çalışkan | sıfat | O meu pai é um homem trabalhador. | Babam çalışkan bir adamdır.
+trabalhadora (d) | çalışkan | sıfat | Ela é uma estudante trabalhadora. | O çalışkan bir öğrencidir.
+calmo (e) | sakin | sıfat | O mar está calmo hoje. | Deniz bugün sakin.
+calma (d) | sakin | sıfat | A professora tem uma voz calma. | Öğretmenin sakin bir sesi var.
+alegre | neşeli, şen | sıfat | As crianças estão sempre alegres. | Çocuklar her zaman neşelidir.
+sério (e) | ciddi | sıfat | O diretor parece muito sério. | Müdür çok ciddi görünüyor.
+séria (d) | ciddi | sıfat | A médica tem uma expressão séria. | Kadın doktorun ciddi bir ifadesi var.
+
+## Fiziksel özellikler
+alto (e) | uzun boylu | sıfat | O meu irmão é muito alto. | Erkek kardeşim çok uzun boyludur.
+alta (d) | uzun boylu | sıfat | A jogadora de basquete é alta. | Basketbol oyuncusu uzun boyludur.
+baixo (e) | kısa boylu, alçak | sıfat | O banco do jardim é baixo. | Bahçe bankı alçak.
+baixa (d) | kısa boylu | sıfat | A mesa da sala é baixa. | Oturma odasının masası alçak.
+magro (e) | zayıf | sıfat | O gato é pequeno e magro. | Kedi küçük ve zayıf.
+magra (d) | zayıf | sıfat | A minha prima é magra e rápida. | Kuzenim zayıf ve hızlı.
+gordo (e) | şişman | sıfat | O cão come muito e fica gordo. | Köpek çok yiyor ve şişmanlıyor.
+gorda (d) | şişman | sıfat | A galinha gorda corre no quintal. | Şişman tavuk avluda koşuyor.
+jovem | genç | sıfat | Os jovens estudam na biblioteca. | Gençler kütüphanede ders çalışıyor.
+forte | güçlü | sıfat | O leão é um animal muito forte. | Aslan çok güçlü bir hayvandır.
+
+## Yaş ve durumlar
+o ano | yıl, sene | isim (e) | Tenho vinte anos de idade. | Yirmi yaşındayım.
+o mês | ay | isim (e) | O mês de agosto é muito quente. | Ağustos ayı çok sıcak.
+a semana | hafta | isim (d) | A semana tem sete dias. | Haftanın yedi günü var.
+o dia | gün | isim (e) | Hoje é um dia muito bonito. | Bugün çok güzel bir gün.
+a hora | saat (süre) | isim (d) | Esperamos durante uma hora. | Bir saat boyunca bekledik.
+o minuto | dakika | isim (e) | Faltam dez minutos para o trem. | Trene on dakika kaldı.
+a vida | hayat, yaşam | isim (d) | A vida na aldeia é tranquila. | Köy hayatı sakindir.
+o mundo | dünya | isim (e) | Há muitas pessoas no mundo. | Dünyada birçok insan var.
+a pessoa | kişi, insan | isim (d) | Cada pessoa tem a sua história. | Her insanın kendi hikayesi var.
+o povo | halk | isim (e) | O povo brasileiro é muito hospitaleiro. | Brezilya halkı çok misafirperverdir.
+
+## Duygular ve durumlar
+cansado (e) | yorgun | sıfat | O trabalhador está muito cansado. | İşçi çok yorgun.
+cansada (d) | yorgun | sıfat | A mãe está cansada à noite. | Anne akşam yorgun oluyor.
+triste | üzgün | sıfat | O menino está triste sem o brinquedo. | Çocuk oyuncaksız olduğu için üzgün.
+preocupado (e) | endişeli | sıfat | O pai está preocupado com o horário. | Baba saat konusunda endişeli.
+preocupada (d) | endişeli | sıfat | A professora está preocupada com o aluno. | Öğretmen öğrenci için endişeli.
+contente | memnun, mutlu | sıfat | Todos estão contentes com o resultado. | Herkes sonuçtan memnun.
+surpreendido (e) | şaşırmış | sıfat | O amigo ficou surpreso com o regalo. | Arkadaş hediyeye şaşırdı.
+surpreendida (d) | şaşırmış | sıfat | A menina estava surpresa. | Kız çocuğu şaşırmıştı.
+com fome | aç | ifade | As crianças estão com fome. | Çocuklar aç.
+com sede | susamış | ifade | O cão correu e está com sede. | Köpek koştu ve susadı.
+
+## Soru ve bağlaçlar
+porque | çünkü | bağlaç | Não vou porque estou cansado. | Gitmiyorum çünkü yorgunum.
+mas | ama, fakat | bağlaç | Quero ir, mas não tenho tempo. | Gitmek istiyorum ama zamanım yok.
+ou | veya, ya da | bağlaç | Queres chá ou café? | Çay ister misin yoksa kahve mi?
+e | ve | bağlaç | O pai e a mãe compram fruta. | Anne ve baba meyve alıyor.
+também | da, de, ayrıca | zarf | Eu também gosto de música. | Ben de müzik seviyorum.
+muito | çok | zarf | Ela trabalha muito todos os dias. | O her gün çok çalışıyor.
+pouco | az | zarf | Ele come pouco ao jantar. | O akşam yemeğinde az yiyor.
+agora | şimdi | zarf | Agora estou ocupado no trabalho. | Şimdi işte meşgulüm.
+depois | sonra | zarf | Almoçamos e depois saímos. | Öğle yemeği yiyoruz ve sonra dışarı çıkıyoruz.
+sempre | her zaman | zarf | Ela chega sempre a horas. | O her zaman zamanında varır.
+
+## Sosyal yaşam
+o encontro | buluşma, randevu | isim (e) | O encontro é na praça central. | Buluşma merkez meydanda.
+a festa | parti, şenlik | isim (d) | A festa de aniversário é divertida. | Doğum günü partisi eğlenceli.
+o presente | hediye, şimdiki zaman | isim (e) | Comprei um presente para a minha mãe. | Anneme bir hediye aldım.
+a conversa | sohbet, konuşma | isim (d) | A conversa com o avô é interessante. | Dede ile sohbet ilginç.
+o sorriso | gülümseme | isim (e) | O bebé tem um sorriso lindo. | Bebeğin güzel bir gülümsemesi var.
+o abraço | kucaklaşma, sarılma | isim (e) | Dou um abraço apertado ao meu irmão. | Kardeşime sıkıca sarılıyorum.
+o beijo | öpücük | isim (e) | A avó dá um beijo na neta. | Büyükanne torununu öpüyor.
+a ajuda | yardım | isim (d) | Preciso da tua ajuda com o livro. | Kitap konusunda senin yardımına ihtiyacım var.
+o favor | iyilik, rica | isim (e) | Faço-lhe um favor com gosto. | Size memnuniyetle bir iyilik yaparım.
+o segredo | sır | isim (e) | Conto-te um segredo de família. | Sana bir aile sırrı anlatıyorum.
