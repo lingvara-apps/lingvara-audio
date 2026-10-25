@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Hastane, belirtiler, eczane, acil durum, sağlıklı yaşam
+## Hastanede
+환자 (hwanja) | hasta | isim | 오늘 환자가 많습니다. (Oneul hwanjaga manseumnida.) | Bugün çok hasta var.
+진찰 (jinchal) | muayene | isim | 진찰을 받으러 왔어요. (Jinchareul badeureo wasseoyo.) | Muayene olmaya geldim.
+접수하다 (jeopsuhada) | kayıt yaptırmak (hastane girişi) | fiil | 먼저 일 층에서 접수하세요. (Meonjeo il cheungeseo jeopsuhaseyo.) | Önce birinci katta kayıt yaptırın.
+대기실 (daegisil) | bekleme salonu | isim | 대기실에서 조금만 기다리세요. (Daegisireseo jogeumman gidariseyo.) | Bekleme salonunda biraz bekleyin.
+처방전 (cheobangjeon) | reçete | isim | 처방전을 약국에 가져가세요. (Cheobangjeoneul yakguge gajyeogaseyo.) | Reçeteyi eczaneye götürün.
+검사 (geomsa) | tetkik, test | isim | 피 검사를 받아야 해요. (Pi geomsareul badaya haeyo.) | Kan tahlili yaptırmanız gerekiyor.
+입원하다 (ibwonhada) | hastaneye yatmak | fiil | 할아버지가 병원에 입원하셨어요. (Harabeojiga byeongwone ibwonhasyeosseoyo.) | Dedem hastaneye yatırıldı.
+퇴원하다 (toewonhada) | taburcu olmak | fiil | 내일 퇴원할 수 있어요. (Naeil toewonhal su isseoyo.) | Yarın taburcu olabilirsiniz.
+수술 (susul) | ameliyat | isim | 수술이 잘 끝났습니다. (Susuri jal kkeunnatseumnida.) | Ameliyat iyi geçti.
+건강 보험 (geongang boheom) | sağlık sigortası | isim | 건강 보험이 있으세요? (Geongang boheomi isseuseyo?) | Sağlık sigortanız var mı?
+## Belirtiler
+두통 (dutong) | baş ağrısı | isim | 아침부터 두통이 심해요. (Achimbuteo dutongi simhaeyo.) | Sabahtan beri baş ağrım şiddetli.
+복통 (boktong) | karın ağrısı | isim | 갑자기 복통이 생겼어요. (Gapjagi boktongi saenggyeosseoyo.) | Aniden karın ağrısı başladı.
+몸살 (momsal) | halsizlik, kırgınlık (vücut ağrısı) | isim | 몸살이 나서 하루 종일 누워 있었어요. (Momsari naseo haru jongil nuwo isseosseoyo.) | Kırgınlık yüzünden bütün gün yattım.
+어지럽다 (eojireopda) | başı dönmek (어지러워요) | sıfat | 일어나니까 어지러워요. (Ireonanikka eojireowoyo.) | Kalkınca başım dönüyor.
+토하다 (tohada) | kusmak | fiil | 어젯밤에 두 번 토했어요. (Eojetbame du beon tohaesseoyo.) | Dün gece iki kez kustum.
+설사 (seolsa) | ishal | isim | 설사를 해서 물을 많이 마셔요. (Seolsareul haeseo mureul mani masyeoyo.) | İshal olduğum için bol su içiyorum.
+재채기 (jaechaegi) | hapşırık | isim | 꽃가루 때문에 재채기가 나요. (Kkotgaru ttaemune jaechaegiga nayo.) | Polen yüzünden hapşırıyorum.
+가렵다 (garyeopda) | kaşınmak (가려워요) | sıfat | 모기에 물려서 가려워요. (Mogie mullyeoseo garyeowoyo.) | Sivrisinek ısırdığı için kaşınıyor.
+붓다 (butda) | şişmek (부어요) | fiil · düzensiz | 발목이 많이 부었어요. (Balmogi mani bueosseoyo.) | Ayak bileğim çok şişti.
+쑤시다 (ssusida) | sızlamak, zonklamak | fiil | 비가 오면 무릎이 쑤셔요. (Biga omyeon mureubi ssusyeoyo.) | Yağmur yağınca dizim sızlar.
+## Hastalıklar ve yaralanmalar
+독감 (dokgam) | grip | isim | 독감 예방 주사를 맞았어요. (Dokgam yebang jusareul majasseoyo.) | Grip aşısı oldum.
+알레르기 (allereugi) | alerji | isim | 저는 땅콩 알레르기가 있어요. (Jeoneun ttangkong allereugiga isseoyo.) | Yer fıstığı alerjim var.
+식중독 (sikjungdok) | gıda zehirlenmesi | isim | 여름에는 식중독을 조심하세요. (Yeoreumeneun sikjungdogeul josimhaseyo.) | Yazın gıda zehirlenmesine dikkat edin.
+충치 (chungchi) | diş çürüğü | isim | 충치가 두 개 있어요. (Chungchiga du gae isseoyo.) | İki çürük dişim var.
+상처 (sangcheo) | yara | isim | 상처에 약을 발랐어요. (Sangcheoe yageul ballasseoyo.) | Yaraya ilaç sürdüm.
+화상 (hwasang) | yanık | isim | 뜨거운 물에 화상을 입었어요. (Tteugeoun mure hwasangeul ibeosseoyo.) | Sıcak suyla yandım.
+스트레스 (seuteureseu) | stres | isim | 요즘 스트레스를 많이 받아요. (Yojeum seuteureseureul mani badayo.) | Bu aralar çok stres altındayım.
+뼈 (ppyeo) | kemik | isim | 우유는 뼈에 좋아요. (Uyuneun ppyeoe joayo.) | Süt kemiklere iyi gelir.
+부러지다 (bureojida) | kırılmak | fiil | 스키를 타다가 다리가 부러졌어요. (Seukireul tadaga dariga bureojyeosseoyo.) | Kayak yaparken bacağım kırıldı.
+피 (pi) | kan | isim | 손가락에서 피가 나요. (Songarageseo piga nayo.) | Parmağım kanıyor.
+## Eczanede
+알약 (allyak) | hap, tablet | isim | 알약을 물과 함께 드세요. (Allyageul mulgwa hamkke deuseyo.) | Hapı suyla birlikte alın.
+진통제 (jintongje) | ağrı kesici | isim | 진통제 좀 주세요. (Jintongje jom juseyo.) | Ağrı kesici verir misiniz?
+소화제 (sohwaje) | hazmettirici ilaç | isim | 과식해서 소화제를 먹었어요. (Gwasikaeseo sohwajereul meogeosseoyo.) | Fazla yediğim için sindirim ilacı aldım.
+감기약 (gamgiyak) | soğuk algınlığı ilacı | isim | 감기약을 먹으면 졸려요. (Gamgiyageul meogeumyeon jollyeoyo.) | Soğuk algınlığı ilacı alınca uykum geliyor.
+해열제 (haeyeolje) | ateş düşürücü | isim | 아이에게 해열제를 먹였어요. (Aiege haeyeoljereul meogyeosseoyo.) | Çocuğa ateş düşürücü verdim.
+연고 (yeongo) | merhem | isim | 하루에 두 번 연고를 바르세요. (Harue du beon yeongoreul bareuseyo.) | Merhemi günde iki kez sürün.
+반창고 (banchanggo) | yara bandı | isim | 상처에 반창고를 붙였어요. (Sangcheoe banchanggoreul buchyeosseoyo.) | Yaraya yara bandı yapıştırdım.
+부작용 (bujagyong) | yan etki | isim | 이 약은 부작용이 있나요? (I yageun bujagyongi innayo?) | Bu ilacın yan etkisi var mı?
+식후 (sikhu) | yemekten sonra | isim | 식후 삼십 분에 드세요. (Sikhu samsip bune deuseyo.) | Yemekten otuz dakika sonra alın.
+마스크 (maseukeu) | maske | isim | 미세먼지가 심해서 마스크를 썼어요. (Misemeonjiga simhaeseo maseukeureul sseosseoyo.) | İnce toz yoğun olduğu için maske taktım.
+## Doktorla konuşmak
+증상 (jeungsang) | belirti | isim | 어떤 증상이 있으세요? (Eotteon jeungsangi isseuseyo?) | Ne gibi belirtileriniz var?
+심하다 (simhada) | şiddetli, ağır olmak | sıfat | 기침이 점점 심해져요. (Gichimi jeomjeom simhaejyeoyo.) | Öksürük giderek kötüleşiyor.
+주사 (jusa) | iğne, enjeksiyon | isim | 엉덩이에 주사를 맞았어요. (Eongdeongie jusareul majasseoyo.) | Kalçamdan iğne oldum.
+체온 (cheon) | vücut ısısı | isim | 체온을 재 볼게요. (Cheoneul jae bolgeyo.) | Ateşinizi ölçeyim.
+혈압 (hyeorap) | tansiyon | isim | 혈압이 좀 높네요. (Hyeorabi jom nomneyo.) | Tansiyonunuz biraz yüksek.
+상태 (sangtae) | durum, hal | isim | 환자 상태가 좋아졌어요. (Hwanja sangtaega joajyeosseoyo.) | Hastanın durumu iyileşti.
+원인 (wonin) | sebep, neden | isim | 두통의 원인이 뭐예요? (Dutongui wonini mwoyeyo?) | Baş ağrısının sebebi ne?
+나아지다 (naajida) | iyileşmek, düzelmek | fiil | 약을 먹고 많이 나아졌어요. (Yageul meokgo mani naajyeosseoyo.) | İlacı alınca epey iyileştim.
+조심하다 (josimhada) | dikkat etmek | fiil | 길이 미끄러우니까 조심하세요. (Giri mikkeureounikka josimhaseyo.) | Yol kaygan, dikkat edin.
+진단 (jindan) | teşhis | isim | 의사가 감기라고 진단했어요. (Uisaga gamgirago jindanhaesseoyo.) | Doktor soğuk algınlığı teşhisi koydu.
+## Acil durum
+응급실 (eunggeupsil) | acil servis | isim | 밤에 응급실에 갔어요. (Bame eunggeupsire gasseoyo.) | Gece acil servise gittim.
+구급차 (gugeupcha) | ambulans | isim | 빨리 구급차를 불러 주세요! (Ppalli gugeupchareul bulleo juseyo!) | Çabuk ambulans çağırın!
+사고 (sago) | kaza | isim | 교통사고가 났어요. (Gyotongsagoga nasseoyo.) | Trafik kazası oldu.
+응급 (eunggeup) | acil (durum) | isim | 응급 상황이에요! (Eunggeup sanghwangieyo!) | Acil durum!
+살려 주세요 (sallyeo juseyo) | imdat!, kurtarın beni! | ifade | 살려 주세요! 누구 없어요? (Sallyeo juseyo! Nugu eopseoyo?) | İmdat! Kimse yok mu?
+쓰러지다 (sseureojida) | yığılmak, bayılmak | fiil | 길에서 할머니가 쓰러지셨어요. (Gireseo halmeoniga sseureojisyeosseoyo.) | Yolda yaşlı bir kadın yığıldı.
+신고하다 (singohada) | ihbar etmek, bildirmek | fiil | 경찰에 신고했어요. (Gyeongchare singohaesseoyo.) | Polise ihbar ettim.
+불이 나다 (buri nada) | yangın çıkmak | ifade | 옆 건물에 불이 났어요. (Yeop geonmure buri nasseoyo.) | Yan binada yangın çıktı.
+도둑 (doduk) | hırsız | isim | 도둑이 가방을 훔쳐 갔어요. (Dodugi gabangeul humchyeo gasseoyo.) | Hırsız çantamı çalıp gitti.
+피하다 (pihada) | kaçınmak, sakınmak | fiil | 지진이 나면 책상 밑으로 피하세요. (Jijini namyeon chaeksang miteuro pihaseyo.) | Deprem olursa masanın altına sığının.
+## Sağlıklı yaşam
+다이어트 (daieoteu) | diyet, rejim | isim | 여름 전에 다이어트를 해요. (Yeoreum jeone daieoteureul haeyo.) | Yazdan önce diyet yapıyorum.
+몸무게 (mommuge) | kilo, vücut ağırlığı | isim | 몸무게가 삼 킬로 늘었어요. (Mommugega sam killo neureosseoyo.) | Üç kilo aldım.
+살이 찌다 (sari jjida) | kilo almak | ifade | 요즘 살이 쪘어요. (Yojeum sari jjyeosseoyo.) | Bu aralar kilo aldım.
+살을 빼다 (sareul ppaeda) | kilo vermek | ifade | 운동해서 살을 뺐어요. (Undonghaeseo sareul ppaesseoyo.) | Spor yaparak kilo verdim.
+담배 (dambae) | sigara | isim | 담배는 건강에 나빠요. (Dambaeneun geongange nappayo.) | Sigara sağlığa zararlı.
+끊다 (kkeunta) | bırakmak (alışkanlık); kesmek | fiil | 아버지가 담배를 끊으셨어요. (Abeojiga dambaereul kkeuneusyeosseoyo.) | Babam sigarayı bıraktı.
+영양 (yeongyang) | beslenme, besin | isim | 영양이 풍부한 음식을 드세요. (Yeongyangi pungbuhan eumsigeul deuseyo.) | Besin değeri yüksek yemekler yiyin.
+규칙적이다 (gyuchikjeogida) | düzenli olmak | sıfat | 규칙적으로 운동하는 게 중요해요. (Gyuchikjeogeuro undonghaneun ge jungyohaeyo.) | Düzenli spor yapmak önemli.
+비타민 (bitamin) | vitamin | isim | 매일 아침 비타민을 먹어요. (Maeil achim bitamineul meogeoyo.) | Her sabah vitamin alıyorum.
+스트레칭 (seuteureching) | esneme hareketi | isim | 자기 전에 스트레칭을 해요. (Jagi jeone seuteurechingeul haeyo.) | Yatmadan önce esneme yaparım.
+## Vücudun içi ve dışı
+심장 (simjang) | kalp | isim | 심장이 빨리 뛰어요. (Simjangi ppalli ttwieoyo.) | Kalbim hızlı atıyor.
+위장 (wijang) | mide | isim | 위장이 약해서 매운 음식을 못 먹어요. (Wijangi yakaeseo maeun eumsigeul mot meogeoyo.) | Midem hassas olduğu için acı yiyemem.
+폐 (pye) | akciğer | isim | 담배는 폐에 안 좋아요. (Dambaeneun pyee an joayo.) | Sigara akciğerlere zararlı.
+뇌 (noe) | beyin | isim | 잠은 뇌 건강에 중요해요. (Jameun noe geongange jungyohaeyo.) | Uyku beyin sağlığı için önemli.
+근육 (geunyuk) | kas | isim | 운동 후에 근육이 아파요. (Undong hue geunyugi apayo.) | Spordan sonra kaslarım ağrıyor.
+이마 (ima) | alın | isim | 이마에 땀이 나요. (Imae ttami nayo.) | Alnım terliyor.
+턱 (teok) | çene | isim | 넘어져서 턱을 다쳤어요. (Neomeojyeoseo teogeul dachyeosseoyo.) | Düşüp çenemi yaraladım.
+손목 (sonmok) | el bileği | isim | 컴퓨터를 많이 해서 손목이 아파요. (Keompyuteoreul mani haeseo sonmogi apayo.) | Çok bilgisayar kullandığım için bileğim ağrıyor.
+발목 (balmok) | ayak bileği | isim | 계단에서 발목을 삐었어요. (Gyedaneseo balmogeul ppieosseoyo.) | Merdivende ayak bileğimi burktum.
+팔꿈치 (palkkumchi) | dirsek | isim | 팔꿈치에 멍이 들었어요. (Palkkumchie meongi deureosseoyo.) | Dirseğim morardı.
+## Hastane bölümleri
+치과 (chigwa) | diş hekimi, diş kliniği | isim | 이가 아파서 치과에 가요. (Iga apaseo chigwae gayo.) | Dişim ağrıdığı için dişçiye gidiyorum.
+안과 (angwa) | göz kliniği | isim | 눈이 빨개서 안과에 갔어요. (Nuni ppalgaeseo angwae gasseoyo.) | Gözüm kızardığı için göz doktoruna gittim.
+내과 (naegwa) | dahiliye | isim | 배가 아프면 내과에 가세요. (Baega apeumyeon naegwae gaseyo.) | Karnınız ağrıyorsa dahiliyeye gidin.
+외과 (oegwa) | cerrahi | isim | 외과에서 수술을 받았어요. (Oekwaeseo susureul badasseoyo.) | Cerrahide ameliyat oldum.
+소아과 (soagwa) | çocuk doktoru | isim | 아이를 데리고 소아과에 가요. (Aireul derigo soagwae gayo.) | Çocuğu çocuk doktoruna götürüyorum.
+피부과 (pibugwa) | dermatoloji | isim | 피부과에서 연고를 받았어요. (Pibukwaeseo yeongoreul badasseoyo.) | Dermatologdan merhem aldım.
+이비인후과 (ibiinhugwa) | kulak burun boğaz | isim | 목이 아파서 이비인후과에 갔어요. (Mogi apaseo ibiinhugwae gasseoyo.) | Boğazım ağrıdığı için KBB'ye gittim.
+정형외과 (jeonghyeongoegwa) | ortopedi | isim | 허리가 아파서 정형외과에 다녀요. (Heoriga apaseo jeonghyeongoegwae danyeoyo.) | Belim ağrıdığı için ortopediye gidiyorum.
+한의원 (hanuiwon) | geleneksel Kore tıbbı kliniği | isim | 한의원에서 침을 맞았어요. (Hanuiwoneseo chimeul majasseoyo.) | Geleneksel klinikte akupunktur yaptırdım.
+산부인과 (sanbuingwa) | kadın doğum | isim | 언니가 산부인과에 정기 검진을 받으러 가요. (Eonniga sanbuingwae jeonggi geomjineul badeureo gayo.) | Ablam kadın doğuma kontrole gidiyor.
+## Kendini hissetmek
+기운 (giun) | enerji, güç | isim | 감기 때문에 기운이 없어요. (Gamgi ttaemune giuni eopseoyo.) | Nezle yüzünden hiç halim yok.
+컨디션 (keondisyeon) | form, kondisyon | isim | 오늘은 컨디션이 좋아요. (Oneureun keondisyeoni joayo.) | Bugün formumdayım.
+회복하다 (hoebokada) | iyileşmek, toparlanmak | fiil | 빨리 회복하시길 바랍니다. (Ppalli hoebokasigil baramnida.) | Çabucak iyileşmenizi dilerim.
+무리하다 (murihada) | kendini zorlamak, aşırıya kaçmak | fiil | 아프면 무리하지 마세요. (Apeumyeon murihaji maseyo.) | Hastaysanız kendinizi zorlamayın.
+참다 (chamda) | katlanmak, dayanmak | fiil | 아파도 조금만 참으세요. (Apado jogeumman chameuseyo.) | Acısa da biraz dayanın.
+졸리다 (jollida) | uykusu gelmek | sıfat | 점심 먹고 나면 졸려요. (Jeomsim meokgo namyeon jollyeoyo.) | Öğle yemeğinden sonra uykum gelir.
+땀 (ttam) | ter | isim | 운동해서 땀이 많이 났어요. (Undonghaeseo ttami mani nasseoyo.) | Spor yapınca çok terledim.
+숨 (sum) | nefes | isim | 숨을 깊게 쉬세요. (Sumeul gipge swiseyo.) | Derin nefes alın.
+깨다 (kkaeda) | uyanmak | fiil | 밤에 자주 깨요. (Bame jaju kkaeyo.) | Geceleri sık uyanırım.
+몸조리하다 (momjorihada) | kendine bakmak (iyileşmek için) | fiil | 집에서 푹 쉬면서 몸조리하세요. (Jibeseo puk swimyeonseo momjorihaseyo.) | Evde iyice dinlenip kendinize bakın.
