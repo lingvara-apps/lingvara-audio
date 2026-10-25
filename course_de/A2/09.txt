@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
+## Bankada
+das Konto (die Konten) | hesap (banka) | isim (o) | Ich möchte ein Konto eröffnen. | Bir hesap açmak istiyorum.
+eröffnen | açmak (hesap, dükkân) | fiil | Nächste Woche eröffnet ein neues Café. | Gelecek hafta yeni bir kafe açılıyor.
+der Geldautomat (die Geldautomaten) | ATM, bankamatik | isim (e) | Gibt es hier einen Geldautomaten? | Burada bankamatik var mı?
+abheben (hob ab, abgehoben) | (para) çekmek | fiil · düzensiz | Ich hebe hundert Euro ab. | Yüz avro çekiyorum.
+einzahlen | (para) yatırmak | fiil | Ich zahle das Geld auf mein Konto ein. | Parayı hesabıma yatırıyorum.
+überweisen (überwies, überwiesen) | havale etmek | fiil · düzensiz | Ich überweise dir das Geld morgen. | Parayı sana yarın havale ederim.
+die Geheimzahl (die Geheimzahlen) | şifre (kart) | isim (d) | Geben Sie bitte Ihre Geheimzahl ein. | Lütfen şifrenizi girin.
+der Kredit (die Kredite) | kredi | isim (e) | Für das Haus brauchen wir einen Kredit. | Ev için krediye ihtiyacımız var.
+die Zinsen | faiz | isim (çoğul) | Die Zinsen sind im Moment niedrig. | Faizler şu an düşük.
+der Kontoauszug (die Kontoauszüge) | hesap dökümü | isim (e) | Ich drucke den Kontoauszug aus. | Hesap dökümünü yazdırıyorum.
+## Postanede
+der Brief (die Briefe) | mektup | isim (e) | Ich schreibe meiner Oma einen Brief. | Nineme bir mektup yazıyorum.
+das Paket (die Pakete) | paket, koli | isim (o) | Das Paket ist heute angekommen. | Paket bugün geldi.
+das Päckchen (die Päckchen) | küçük paket | isim (o) | Ein Päckchen nach Österreich kostet sechs Euro. | Avusturya'ya küçük bir paket altı avro.
+die Briefmarke (die Briefmarken) | pul | isim (d) | Ich brauche eine Briefmarke für die Türkei. | Türkiye için bir pula ihtiyacım var.
+der Umschlag (die Umschläge) | zarf | isim (e) | Steck den Brief in den Umschlag. | Mektubu zarfa koy.
+der Absender (die Absender) | gönderen | isim (e) | Auf dem Brief steht kein Absender. | Mektupta gönderen yazmıyor.
+der Empfänger (die Empfänger) | alıcı | isim (e) | Schreiben Sie den Empfänger deutlich. | Alıcıyı okunaklı yazın.
+die Postleitzahl (die Postleitzahlen) | posta kodu | isim (d) | Wie ist deine Postleitzahl? | Posta kodun ne?
+verschicken | göndermek (posta ile) | fiil | Wir verschicken die Einladungen heute. | Davetiyeleri bugün gönderiyoruz.
+das Einschreiben (die Einschreiben) | taahhütlü mektup | isim (o) | Ich schicke die Kündigung als Einschreiben. | Fesih mektubunu taahhütlü gönderiyorum.
+## Teslimat
+liefern | teslim etmek, getirmek | fiil | Wir liefern die Möbel am Freitag. | Mobilyaları cuma günü teslim ediyoruz.
+die Lieferung (die Lieferungen) | teslimat | isim (d) | Die Lieferung kommt in drei Tagen. | Teslimat üç gün içinde geliyor.
+die Bestellung (die Bestellungen) | sipariş | isim (d) | Ihre Bestellung ist unterwegs. | Siparişiniz yolda.
+der Paketdienst (die Paketdienste) | kargo şirketi | isim (e) | Der Paketdienst kommt immer am Nachmittag. | Kargo hep öğleden sonra geliyor.
+die Packstation (die Packstationen) | paket teslim dolabı | isim (d) | Ich hole das Paket an der Packstation ab. | Paketi teslim dolabından alıyorum.
+zurückschicken | geri göndermek | fiil | Die Schuhe sind zu klein, ich schicke sie zurück. | Ayakkabılar küçük, geri gönderiyorum.
+die Rücksendung (die Rücksendungen) | iade gönderimi | isim (d) | Die Rücksendung ist kostenlos. | İade gönderimi ücretsiz.
+die Lieferzeit (die Lieferzeiten) | teslim süresi | isim (d) | Die Lieferzeit beträgt eine Woche. | Teslim süresi bir hafta.
+die Versandkosten | kargo ücreti | isim (çoğul) | Ab fünfzig Euro gibt es keine Versandkosten. | Elli avrodan sonra kargo ücreti yok.
+beschädigt | hasarlı | sıfat | Das Paket war leider beschädigt. | Paket maalesef hasarlıydı.
+## Kuaförde
+der Friseur (die Friseure) | kuaför, berber | isim (e) | Ich habe morgen einen Termin beim Friseur. | Yarın kuaförden randevum var.
+die Frisur (die Frisuren) | saç modeli | isim (d) | Deine neue Frisur steht dir gut! | Yeni saç modelin sana çok yakışmış!
+der Haarschnitt (die Haarschnitte) | saç kesimi | isim (e) | Ein Haarschnitt kostet hier dreißig Euro. | Burada saç kesimi otuz avro.
+schneiden (schnitt, geschnitten) | kesmek | fiil · düzensiz | Bitte nur die Spitzen schneiden. | Lütfen sadece uçlarını kesin.
+färben | boyamak (saç, kumaş) | fiil | Sie lässt sich die Haare rot färben. | Saçlarını kırmızıya boyatıyor.
+föhnen | fönlemek | fiil | Soll ich die Haare föhnen? | Saçlarını fönleyeyim mi?
+kämmen | taramak | fiil | Kämm dir bitte die Haare! | Lütfen saçlarını tara!
+der Kamm (die Kämme) | tarak | isim (e) | Hast du einen Kamm dabei? | Yanında tarak var mı?
+lockig | kıvırcık | sıfat | Sie hat lange, lockige Haare. | Uzun, kıvırcık saçları var.
+der Bart (die Bärte) | sakal | isim (e) | Mein Vater trägt einen Bart. | Babamın sakalı var.
+## Giyim
+die Unterwäsche | iç çamaşırı | isim (d) | Ich kaufe neue Unterwäsche. | Yeni iç çamaşırı alıyorum.
+die Strumpfhose (die Strumpfhosen) | külotlu çorap | isim (d) | Im Winter trägt sie eine dicke Strumpfhose. | Kışın kalın bir külotlu çorap giyiyor.
+die Jeans (die Jeans) | kot pantolon | isim (d) | Diese Jeans ist zu lang. | Bu kot pantolon çok uzun.
+die Weste (die Westen) | yelek | isim (d) | Zum Anzug trägt er eine Weste. | Takım elbisenin altına yelek giyiyor.
+der Schlafanzug (die Schlafanzüge) | pijama | isim (e) | Die Kinder haben schon ihre Schlafanzüge an. | Çocuklar pijamalarını giymiş bile.
+der Bademantel (die Bademäntel) | bornoz | isim (e) | Im Hotel gibt es einen Bademantel. | Otelde bornoz var.
+der Turnschuh (die Turnschuhe) | spor ayakkabı | isim (e) | Für das Training brauche ich Turnschuhe. | Antrenman için spor ayakkabıya ihtiyacım var.
+die Sandale (die Sandalen) | sandalet | isim (d) | Im Sommer trage ich Sandalen. | Yazın sandalet giyerim.
+die Kapuze (die Kapuzen) | kapüşon | isim (d) | Zieh die Kapuze auf, es regnet! | Kapüşonunu tak, yağmur yağıyor!
+der Knopf (die Knöpfe) | düğme | isim (e) | An meinem Mantel fehlt ein Knopf. | Paltomun bir düğmesi eksik.
+## Takı ve aksesuar
+der Schmuck | takı, mücevher | isim (e) | Sie trägt nicht gern Schmuck. | Takı takmayı sevmez.
+der Ring (die Ringe) | yüzük | isim (e) | Er schenkt ihr einen Ring. | Ona bir yüzük hediye ediyor.
+die Kette (die Ketten) | kolye; zincir | isim (d) | Die Kette ist aus Silber. | Kolye gümüşten.
+der Ohrring (die Ohrringe) | küpe | isim (e) | Ich habe einen Ohrring verloren. | Bir küpemi kaybettim.
+das Armband (die Armbänder) | bilezik | isim (o) | Das Armband ist ein Geschenk von meiner Mutter. | Bilezik annemin hediyesi.
+die Armbanduhr (die Armbanduhren) | kol saati | isim (d) | Er hat eine Armbanduhr aus der Schweiz. | İsviçre'den bir kol saati var.
+die Handtasche (die Handtaschen) | el çantası | isim (d) | Meine Handtasche ist voll. | El çantam dolu.
+das Parfüm (die Parfüms) | parfüm | isim (o) | Das Parfüm riecht nach Rosen. | Parfüm gül kokuyor.
+die Kosmetik | kozmetik | isim (d) | Die Kosmetik ist im ersten Stock. | Kozmetik birinci katta.
+der Lippenstift (die Lippenstifte) | ruj | isim (e) | Sie trägt einen roten Lippenstift. | Kırmızı ruj sürmüş.
+## Kumaş ve moda
+der Stoff (die Stoffe) | kumaş | isim (e) | Der Stoff fühlt sich weich an. | Kumaş yumuşak.
+die Baumwolle | pamuk | isim (d) | Das Hemd ist aus Baumwolle. | Gömlek pamuktan.
+die Wolle | yün | isim (d) | Der Pullover ist aus reiner Wolle. | Kazak saf yünden.
+das Leder | deri | isim (o) | Die Jacke ist aus echtem Leder. | Ceket hakiki deriden.
+die Seide | ipek | isim (d) | Das Tuch ist aus Seide. | Eşarp ipekten.
+die Umkleidekabine (die Umkleidekabinen) | deneme kabini | isim (d) | Die Umkleidekabinen sind hinten links. | Deneme kabinleri arkada solda.
+locker | bol, gevşek; rahat | sıfat | Die Hose sitzt etwas locker. | Pantolon biraz bol duruyor.
+die Mode (die Moden) | moda | isim (d) | Sie interessiert sich sehr für Mode. | Modaya çok ilgi duyuyor.
+modisch | modaya uygun, şık | sıfat | Er ist immer modisch angezogen. | Her zaman şık giyinir.
+altmodisch | modası geçmiş, eski moda | sıfat | Der Mantel ist ein bisschen altmodisch. | Palto biraz eski moda.
+## Diğer hizmetler
+die Reinigung (die Reinigungen) | kuru temizleme; temizlik | isim (d) | Ich bringe den Anzug in die Reinigung. | Takım elbiseyi kuru temizlemeye götürüyorum.
+die Änderungsschneiderei (die Änderungsschneidereien) | terzi (tadilat) | isim (d) | Die Änderungsschneiderei kürzt die Hose. | Terzi pantolonu kısaltıyor.
+der Schlüsseldienst (die Schlüsseldienste) | çilingir | isim (e) | Ich habe mich ausgesperrt, ich rufe den Schlüsseldienst. | Dışarıda kaldım, çilingiri arıyorum.
+der Kundendienst | müşteri hizmetleri | isim (e) | Rufen Sie bitte den Kundendienst an. | Lütfen müşteri hizmetlerini arayın.
+die Garantie (die Garantien) | garanti | isim (d) | Das Gerät hat zwei Jahre Garantie. | Cihazın iki yıl garantisi var.
+die Öffnungszeiten | çalışma saatleri | isim (çoğul) | Wie sind die Öffnungszeiten am Samstag? | Cumartesi çalışma saatleri nasıl?
+der Service | hizmet, servis | isim (e) | Der Service in dem Hotel war ausgezeichnet. | Oteldeki hizmet mükemmeldi.
+die Beratung (die Beratungen) | danışmanlık | isim (d) | Die Beratung im Geschäft war sehr gut. | Mağazadaki danışmanlık çok iyiydi.
+beraten (beriet, beraten) | danışmanlık yapmak, yardımcı olmak | fiil · düzensiz | Kann ich Sie beraten? | Size yardımcı olabilir miyim?
+der Kostenvoranschlag (die Kostenvoranschläge) | fiyat teklifi, ön maliyet hesabı | isim (e) | Die Werkstatt macht uns einen Kostenvoranschlag. | Tamirhane bize fiyat teklifi veriyor.
+## Alışveriş
+der Einkauf (die Einkäufe) | alışveriş, alım | isim (e) | Kannst du mir beim Einkauf helfen? | Alışverişte bana yardım edebilir misin?
+der Einkaufswagen (die Einkaufswagen) | alışveriş arabası | isim (e) | Für den Einkaufswagen brauchst du eine Münze. | Alışveriş arabası için bir bozuk para lazım.
+das Schaufenster (die Schaufenster) | vitrin | isim (o) | Die Jacke im Schaufenster gefällt mir. | Vitrindeki ceketi beğendim.
+der Ausverkauf | tasfiye satışı, büyük indirim | isim (e) | Im Januar ist überall Ausverkauf. | Ocakta her yerde büyük indirim var.
+reduziert | indirimli | sıfat | Alle Schuhe sind um dreißig Prozent reduziert. | Bütün ayakkabılarda yüzde otuz indirim var.
+ausverkauft | tükenmiş | sıfat | Die Größe M ist leider ausverkauft. | M beden maalesef tükendi.
+die Marke (die Marken) | marka; pul | isim (d) | Welche Marke ist das? | Bu hangi marka?
+die Qualität (die Qualitäten) | kalite | isim (d) | Die Qualität ist sehr gut. | Kalitesi çok iyi.
+der Gutschein (die Gutscheine) | hediye çeki, kupon | isim (e) | Ich schenke dir einen Gutschein. | Sana bir hediye çeki veriyorum.
+der Flohmarkt (die Flohmärkte) | bit pazarı | isim (e) | Am Sonntag gehen wir auf den Flohmarkt. | Pazar günü bit pazarına gidiyoruz.
+## Ödeme ve iade
+reklamieren | şikâyet edip iade etmek | fiil | Ich möchte diese Jacke reklamieren. | Bu ceket için şikâyette bulunmak istiyorum.
+die Reklamation (die Reklamationen) | şikâyet, ayıplı mal bildirimi | isim (d) | Für Reklamationen brauchen Sie den Kassenbon. | Şikâyet için fişe ihtiyacınız var.
+zurückgeben (gab zurück, zurückgegeben) | geri vermek, iade etmek | fiil · düzensiz | Kann ich das Kleid zurückgeben? | Elbiseyi iade edebilir miyim?
+kontaktlos | temassız | sıfat | Sie können auch kontaktlos zahlen. | Temassız da ödeyebilirsiniz.
+der Betrag (die Beträge) | tutar, miktar | isim (e) | Der Betrag wird von Ihrem Konto abgebucht. | Tutar hesabınızdan çekilecek.
+die Mehrwertsteuer | KDV | isim (d) | Der Preis ist inklusive Mehrwertsteuer. | Fiyata KDV dahil.
+in Raten zahlen | taksitle ödemek | ifade | Kann man den Fernseher in Raten zahlen? | Televizyonu taksitle ödemek mümkün mü?
+die Unterschrift (die Unterschriften) | imza | isim (d) | Hier fehlt noch Ihre Unterschrift. | Burada imzanız eksik.
+der Fehler (die Fehler) | hata | isim (e) | Auf der Rechnung ist ein Fehler. | Faturada bir hata var.
+falsch | yanlış | sıfat | Sie haben mir falsches Wechselgeld gegeben. | Bana yanlış para üstü verdiniz.
