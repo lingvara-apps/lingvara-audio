@@ -1,0 +1,111 @@
+# UNIT: Kent hayatı ve konut | Ev bulmak, mahalle, şehir sorunları
+## Ev aramak
+die Wohnungssuche | ev arama | isim (d) | Die Wohnungssuche in München kann viele Monate dauern. | Münih'te ev aramak aylarca sürebilir.
+das Wohnungsinserat (die Wohnungsinserate) | konut ilanı | isim (o) | Auf das Wohnungsinserat haben sich über hundert Leute gemeldet. | Konut ilanına yüzden fazla kişi başvurdu.
+der Makler (die Makler) | emlakçı | isim (e) | Der Makler hat uns drei Wohnungen in Schwabing gezeigt. | Emlakçı bize Schwabing'de üç daire gösterdi.
+die Provision (die Provisionen) | komisyon | isim (d) | Für die Vermittlung verlangt der Makler zwei Monatsmieten Provision. | Aracılık için emlakçı iki aylık kira komisyon istiyor.
+der Nachmieter (die Nachmieter) | sonraki kiracı | isim (e) | Wir suchen dringend einen Nachmieter für unsere Wohnung. | Dairemiz için acilen yeni bir kiracı arıyoruz.
+die Selbstauskunft (die Selbstauskünfte) | kiracı bilgi formu | isim (d) | Für die Bewerbung um die Wohnung muss man eine Selbstauskunft ausfüllen. | Daireye başvuru için kiracı bilgi formu doldurmak gerekiyor.
+die Gehaltsnachweise | maaş belgeleri | isim (çoğul) | Der Vermieter möchte die Gehaltsnachweise der letzten drei Monate sehen. | Ev sahibi son üç ayın maaş belgelerini görmek istiyor.
+die Zweizimmerwohnung (die Zweizimmerwohnungen) | iki odalı daire | isim (d) | Wir suchen eine Zweizimmerwohnung mit Balkon in ruhiger Lage. | Sakin bir yerde balkonlu iki odalı bir daire arıyoruz.
+die Wohnfläche (die Wohnflächen) | kullanım alanı | isim (d) | Die Wohnfläche der neuen Wohnung beträgt fünfundsechzig Quadratmeter. | Yeni dairenin kullanım alanı altmış beş metrekare.
+bezahlbar | ödenebilir, makul fiyatlı | sıfat | In der Innenstadt gibt es kaum noch bezahlbare Wohnungen. | Şehir merkezinde makul fiyatlı daire neredeyse kalmadı.
+## Konut türleri ve mülkiyet
+die Eigentumswohnung (die Eigentumswohnungen) | mülk daire | isim (d) | Meine Eltern haben sich eine Eigentumswohnung in Linz gekauft. | Annemle babam Linz'de kendilerine bir daire satın aldı.
+der Eigentümer (die Eigentümer) | mülk sahibi | isim (e) | Der Eigentümer des Hauses wohnt selbst im Erdgeschoss. | Evin sahibi kendisi zemin katta oturuyor.
+das Grundstück (die Grundstücke) | arsa | isim (o) | Auf dem Grundstück soll ein kleines Einfamilienhaus entstehen. | Arsada küçük bir müstakil ev yapılacak.
+die Sozialwohnung (die Sozialwohnungen) | sosyal konut | isim (d) | In Wien leben viele Menschen in günstigen Sozialwohnungen. | Viyana'da birçok insan uygun fiyatlı sosyal konutlarda yaşıyor.
+die Genossenschaft (die Genossenschaften) | kooperatif | isim (d) | Über eine Genossenschaft haben wir eine günstige Wohnung gefunden. | Bir kooperatif aracılığıyla uygun fiyatlı bir daire bulduk.
+der Wohnblock (die Wohnblocks) | apartman bloğu | isim (e) | Am Stadtrand stehen viele graue Wohnblocks aus den Siebzigerjahren. | Şehrin kenarında yetmişlerden kalma birçok gri apartman bloğu var.
+das Penthouse (die Penthouses) | çatı katı lüks daire | isim (o) | Das Penthouse hat eine riesige Terrasse mit Blick auf den See. | Çatı katındaki lüks dairenin göl manzaralı kocaman bir terası var.
+die Untermiete | alt kiracılık | isim (d) | Während des Praktikums wohne ich zur Untermiete bei einer Familie. | Staj boyunca bir ailenin yanında alt kiracı olarak kalıyorum.
+das Zuhause | yuva, ev | isim (o) | Nach zwei Jahren ist Berlin wirklich mein Zuhause geworden. | İki yıl sonra Berlin gerçekten yuvam oldu.
+die Immobilie (die Immobilien) | gayrimenkul | isim (d) | Die Preise für Immobilien sind in den Städten stark gestiegen. | Şehirlerde gayrimenkul fiyatları çok arttı.
+## Evde sorunlar
+der Schimmel | küf | isim (e) | Im Badezimmer ist an der Decke Schimmel entstanden. | Banyonun tavanında küf oluştu.
+der Mangel (die Mängel) | kusur, eksiklik | isim (e) | Jeden Mangel in der Wohnung müssen Sie dem Vermieter sofort melden. | Dairedeki her kusuru ev sahibine hemen bildirmelisiniz.
+die Mietminderung (die Mietminderungen) | kira indirimi | isim (d) | Wegen der kaputten Heizung haben wir eine Mietminderung verlangt. | Bozuk kalorifer yüzünden kira indirimi istedik.
+der Wasserschaden (die Wasserschäden) | su hasarı | isim (e) | Nach dem Wasserschaden mussten wir zwei Wochen ins Hotel. | Su hasarından sonra iki hafta otele gitmek zorunda kaldık.
+der Kurzschluss (die Kurzschlüsse) | kısa devre | isim (e) | Nach dem Kurzschluss war im ganzen Haus kein Strom mehr. | Kısa devreden sonra bütün evde elektrik kalmadı.
+die Ruhestörung (die Ruhestörungen) | huzur bozma, gürültü | isim (d) | Die Nachbarn haben wegen Ruhestörung die Polizei gerufen. | Komşular gürültü yüzünden polisi çağırdı.
+die Mieterhöhung (die Mieterhöhungen) | kira artışı | isim (d) | Gestern kam ein Brief mit einer Mieterhöhung von zehn Prozent. | Dün yüzde on kira artışı içeren bir mektup geldi.
+der Hausverwalter (die Hausverwalter) | site yöneticisi | isim (e) | Wegen des kaputten Aufzugs habe ich den Hausverwalter angerufen. | Bozuk asansör yüzünden site yöneticisini aradım.
+der Ärger | sorun, dert; kızgınlık | isim (e) | Wir haben schon seit Monaten Ärger mit dem Vermieter. | Aylardır ev sahibiyle başımız dertte.
+der Einbruch (die Einbrüche) | hırsızlık (eve girme) | isim (e) | Nach dem Einbruch haben wir ein neues Schloss eingebaut. | Hırsızlıktan sonra yeni bir kilit taktırdık.
+## Mahalle
+das Wohnviertel (die Wohnviertel) | yerleşim mahallesi | isim (o) | Wir wohnen in einem ruhigen Wohnviertel am Stadtrand. | Şehrin kenarında sakin bir yerleşim mahallesinde oturuyoruz.
+der Stadtrand | şehrin kenarı | isim (e) | Am Stadtrand sind die Mieten deutlich günstiger. | Şehrin kenarında kiralar belirgin şekilde daha ucuz.
+die Infrastruktur | altyapı | isim (d) | Die Infrastruktur im neuen Stadtteil ist noch nicht fertig. | Yeni semtteki altyapı henüz tamamlanmadı.
+die Anbindung (die Anbindungen) | ulaşım bağlantısı | isim (d) | Die Wohnung hat eine gute Anbindung an die U-Bahn. | Dairenin metroya iyi bir ulaşım bağlantısı var.
+das Einkaufszentrum (die Einkaufszentren) | alışveriş merkezi | isim (o) | Das neue Einkaufszentrum hat über hundert Geschäfte. | Yeni alışveriş merkezinde yüzden fazla mağaza var.
+der Kiez (die Kieze) | mahalle (Berlin) | isim (e) | In unserem Kiez in Berlin kennen sich viele Nachbarn. | Berlin'deki mahallemizde birçok komşu birbirini tanıyor.
+lebendig | canlı, hareketli | sıfat | Das Viertel ist abends sehr lebendig, mit vielen Bars und Cafés. | Semt akşamları birçok bar ve kafeyle çok hareketli.
+die Grünfläche (die Grünflächen) | yeşil alan | isim (d) | Unsere Stadt braucht mehr Grünflächen und Spielplätze für Kinder. | Şehrimizin daha fazla yeşil alana ve çocuk oyun alanına ihtiyacı var.
+der Anwohner (die Anwohner) | bölge sakini | isim (e) | Die Anwohner beschweren sich über den Lärm der Baustelle. | Bölge sakinleri şantiyenin gürültüsünden şikâyet ediyor.
+aufwerten | değerini artırmak | fiil | Neue Cafés und Galerien haben das alte Viertel aufgewertet. | Yeni kafeler ve galeriler eski semtin değerini artırdı.
+## Şehir sorunları
+die Wohnungsnot | konut sıkıntısı | isim (d) | In vielen deutschen Universitätsstädten herrscht seit Jahren große Wohnungsnot. | Birçok Alman üniversite şehrinde yıllardır büyük konut sıkıntısı var.
+die Obdachlosigkeit | evsizlik | isim (d) | Im Winter ist Obdachlosigkeit in großen Städten besonders gefährlich. | Kışın büyük şehirlerde evsizlik özellikle tehlikelidir.
+obdachlos | evsiz | sıfat | Der Verein hilft obdachlosen Menschen mit Essen und Kleidung. | Dernek evsiz insanlara yiyecek ve giysiyle yardım ediyor.
+die Kriminalität | suç oranı, suçluluk | isim (d) | Die Kriminalität in der Stadt ist im letzten Jahr gesunken. | Şehirdeki suç oranı geçen yıl düştü.
+die Luftverschmutzung | hava kirliliği | isim (d) | Wegen der Luftverschmutzung gibt es in der Innenstadt Tempo dreißig. | Hava kirliliği yüzünden şehir merkezinde hız sınırı otuz.
+überfüllt | aşırı kalabalık | sıfat | Morgens um acht ist die U-Bahn immer total überfüllt. | Sabah saat sekizde metro hep tıklım tıklımdır.
+die Gentrifizierung | soylulaştırma | isim (d) | Durch die Gentrifizierung können sich alte Bewohner das Viertel nicht mehr leisten. | Soylulaştırma yüzünden eski sakinler semti artık karşılayamıyor.
+der Verkehrslärm | trafik gürültüsü | isim (e) | Wegen des Verkehrslärms schlafen wir nur mit geschlossenen Fenstern. | Trafik gürültüsü yüzünden sadece pencereler kapalı uyuyabiliyoruz.
+der Leerstand | boş konut | isim (e) | Trotz der Wohnungsnot gibt es in der Stadt viel Leerstand. | Konut sıkıntısına rağmen şehirde çok sayıda boş konut var.
+verwahrlost | bakımsız | sıfat | Der alte Park ist leider ziemlich verwahrlost. | Eski park maalesef oldukça bakımsız.
+## Şehir planlaması
+die Stadtplanung | şehir planlaması | isim (d) | Bei der Stadtplanung sollten auch die Bürger mitreden dürfen. | Şehir planlamasında vatandaşlar da söz sahibi olmalı.
+das Bauprojekt (die Bauprojekte) | inşaat projesi | isim (o) | Das neue Bauprojekt am Hafen soll fünfhundert Wohnungen schaffen. | Limandaki yeni inşaat projesi beş yüz konut yaratacak.
+die Sanierung (die Sanierungen) | yenileme, restorasyon | isim (d) | Die Sanierung des alten Bahnhofs hat fünf Jahre gedauert. | Eski garın yenilenmesi beş yıl sürdü.
+abreißen (riss ab, abgerissen) | yıkmak | fiil · düzensiz | Das alte Kino wird abgerissen, weil dort Wohnungen entstehen. | Eski sinema yıkılıyor, çünkü orada konutlar yapılacak.
+die Fußgängerbrücke (die Fußgängerbrücken) | yaya köprüsü | isim (d) | Über den Fluss führt eine neue Fußgängerbrücke. | Nehrin üzerinden yeni bir yaya köprüsü geçiyor.
+der Radweg (die Radwege) | bisiklet yolu | isim (e) | Die Stadt baut jedes Jahr neue Radwege. | Belediye her yıl yeni bisiklet yolları yapıyor.
+autofrei | arabasız, araç trafiğine kapalı | sıfat | Die Innenstadt von Zermatt ist komplett autofrei. | Zermatt'ın şehir merkezi tamamen araç trafiğine kapalı.
+der Bebauungsplan (die Bebauungspläne) | imar planı | isim (e) | Laut Bebauungsplan darf man hier nur drei Stockwerke bauen. | İmar planına göre burada sadece üç katlı bina yapılabilir.
+die Bürgerinitiative (die Bürgerinitiativen) | vatandaş girişimi | isim (d) | Eine Bürgerinitiative kämpft gegen den Bau der Straße. | Bir vatandaş girişimi yolun yapımına karşı mücadele ediyor.
+die Lebensqualität | yaşam kalitesi | isim (d) | Wien hat eine der höchsten Lebensqualitäten der Welt. | Viyana dünyadaki en yüksek yaşam kalitelerinden birine sahip.
+## Belediye hizmetleri
+die Stadtverwaltung (die Stadtverwaltungen) | belediye idaresi | isim (d) | Die Stadtverwaltung hat für die Innenstadt neue Parkregeln eingeführt. | Belediye idaresi şehir merkezi için yeni park kuralları getirdi.
+die Stadtwerke | belediye su ve enerji işletmesi | isim (çoğul) | Strom und Wasser bekommen wir von den Stadtwerken. | Elektrik ve suyu belediye işletmesinden alıyoruz.
+die Straßenreinigung | sokak temizliği | isim (d) | Die Straßenreinigung kommt jeden Dienstag in unsere Straße. | Sokak temizliği her salı bizim sokağa geliyor.
+der Sperrmüll | hacimli atık (eski eşya) | isim (e) | Das alte Sofa stellen wir am Montag zum Sperrmüll. | Eski kanepeyi pazartesi hacimli atık toplamaya çıkaracağız.
+der Wertstoffhof (die Wertstoffhöfe) | geri dönüşüm merkezi | isim (e) | Alte Elektrogeräte und Batterien bringt man zum Wertstoffhof. | Eski elektronik aletler ve piller geri dönüşüm merkezine götürülür.
+die Stadtbibliothek (die Stadtbibliotheken) | şehir kütüphanesi | isim (d) | In der Stadtbibliothek kann man auch Filme ausleihen. | Şehir kütüphanesinden film de ödünç alınabilir.
+die Grünanlage (die Grünanlagen) | park alanı, yeşil alan | isim (d) | Die Grünanlage am Fluss wird von der Stadt gepflegt. | Nehir kenarındaki park alanının bakımını belediye yapıyor.
+die Straßenlaterne (die Straßenlaternen) | sokak lambası | isim (d) | Die Straßenlaterne vor unserem Haus ist seit Wochen kaputt. | Evimizin önündeki sokak lambası haftalardır bozuk.
+das Bürgerbüro (die Bürgerbüros) | vatandaş hizmet ofisi | isim (o) | Den neuen Reisepass beantragt man im Bürgerbüro. | Yeni pasaporta vatandaş hizmet ofisinden başvurulur.
+sich ummelden | adres değişikliği bildirmek | fiil · dönüşlü | Nach dem Umzug muss man sich innerhalb von zwei Wochen ummelden. | Taşındıktan sonra iki hafta içinde adres değişikliği bildirmek gerekir.
+## Şehir ve kırsal
+die Großstadt (die Großstädte) | büyük şehir | isim (d) | Das Leben in der Großstadt ist spannend, aber auch stressig. | Büyük şehirde hayat heyecanlı ama aynı zamanda stresli.
+die Kleinstadt (die Kleinstädte) | küçük şehir, kasaba | isim (d) | In einer Kleinstadt kennt fast jeder jeden. | Küçük bir kasabada neredeyse herkes birbirini tanır.
+ländlich | kırsal | sıfat | In ländlichen Gegenden fährt der Bus oft nur zweimal am Tag. | Kırsal bölgelerde otobüs çoğu zaman günde sadece iki kez geçer.
+aufs Land ziehen | kırsala taşınmak | ifade | Viele Familien ziehen aufs Land, weil die Mieten dort niedriger sind. | Birçok aile kiralar daha düşük olduğu için kırsala taşınıyor.
+die Landflucht | köyden kente göç | isim (d) | Durch die Landflucht wohnen in vielen Dörfern fast nur noch alte Menschen. | Köyden kente göç yüzünden birçok köyde neredeyse sadece yaşlılar kaldı.
+der Pendler (die Pendler) | her gün işe gidip gelen kişi | isim (e) | Jeden Tag fahren tausende Pendler mit dem Zug nach Zürich. | Her gün binlerce kişi işe gitmek için trenle Zürih'e gidiyor.
+pendeln | (iş için) gidip gelmek | fiil | Ich pendle jeden Tag eine Stunde zwischen Mainz und Frankfurt. | Her gün Mainz ile Frankfurt arasında bir saat gidip geliyorum.
+die Anonymität | anonimlik, kimliksizlik | isim (d) | In der Großstadt genießen manche Menschen die Anonymität. | Büyük şehirde bazı insanlar anonim olmanın tadını çıkarır.
+die Dorfgemeinschaft (die Dorfgemeinschaften) | köy topluluğu | isim (d) | Die Dorfgemeinschaft organisiert jedes Jahr ein großes Sommerfest. | Köy topluluğu her yıl büyük bir yaz şenliği düzenliyor.
+idyllisch | huzurlu ve güzel, pastoral | sıfat | Das kleine Dorf liegt idyllisch zwischen Wald und See. | Küçük köy orman ile göl arasında huzur verici bir yerde.
+## Ev içinde yaşam
+die Einrichtung | mobilya düzeni, dekorasyon | isim (d) | Die Einrichtung der Wohnung ist modern und sehr hell. | Dairenin dekorasyonu modern ve çok aydınlık.
+der Grundriss (die Grundrisse) | kat planı | isim (e) | Der Grundriss der Wohnung ist leider etwas ungünstig. | Dairenin kat planı maalesef biraz kullanışsız.
+die Fußbodenheizung | yerden ısıtma | isim (d) | Im Bad haben wir eine Fußbodenheizung, das ist im Winter toll. | Banyoda yerden ısıtmamız var, kışın harika.
+die Einbauküche (die Einbauküchen) | ankastre mutfak | isim (d) | Die Wohnung wird mit einer neuen Einbauküche vermietet. | Daire yeni bir ankastre mutfakla kiralanıyor.
+der Abstellraum (die Abstellräume) | kiler, depo odası | isim (e) | Im Abstellraum stehen unsere Fahrräder und der Staubsauger. | Depo odasında bisikletlerimiz ve elektrik süpürgesi duruyor.
+der Fahrstuhl (die Fahrstühle) | asansör | isim (e) | Der Fahrstuhl ist schon wieder kaputt, wir müssen laufen. | Asansör yine bozuk, yürümek zorundayız.
+barrierefrei | engelsiz, erişilebilir | sıfat | Die neue Wohnung ist barrierefrei und hat keine Stufen. | Yeni daire engelsiz ve hiç basamağı yok.
+die Gegensprechanlage (die Gegensprechanlagen) | diafon | isim (d) | Über die Gegensprechanlage öffne ich dem Paketboten die Tür. | Kargo görevlisine kapıyı diafondan açıyorum.
+der Dachboden (die Dachböden) | tavan arası | isim (e) | Auf dem Dachboden haben wir alte Fotos von Oma gefunden. | Tavan arasında büyükannemin eski fotoğraflarını bulduk.
+der Hinterhof (die Hinterhöfe) | arka avlu | isim (e) | Im Hinterhof spielen die Kinder aus dem ganzen Haus. | Arka avluda bütün apartmanın çocukları oynuyor.
+## Taşınma
+der Umzugskarton (die Umzugskartons) | taşınma kolisi | isim (e) | Für den Umzug haben wir fünfzig Umzugskartons gekauft. | Taşınma için elli taşınma kolisi aldık.
+die Umzugsfirma (die Umzugsfirmen) | nakliye firması | isim (d) | Die Umzugsfirma kommt am Samstag um sieben Uhr morgens. | Nakliye firması cumartesi sabah yedide geliyor.
+das Halteverbot (die Halteverbote) | durma yasağı | isim (o) | Für den Umzugswagen haben wir ein Halteverbot vor dem Haus beantragt. | Kamyon için evin önüne durma yasağı levhası talep ettik.
+ausräumen | boşaltmak (eşyaları çıkarmak) | fiil | Bis Freitag müssen wir die alte Wohnung komplett ausräumen. | Cumaya kadar eski daireyi tamamen boşaltmalıyız.
+einräumen | yerleştirmek (eşyaları) | fiil | Die Bücher räume ich erst am Wochenende in die Regale ein. | Kitapları ancak hafta sonu raflara yerleştireceğim.
+die Wohnungsübergabe (die Wohnungsübergaben) | daire teslimi | isim (d) | Bei der Wohnungsübergabe prüft der Vermieter alle Räume genau. | Daire tesliminde ev sahibi bütün odaları dikkatle kontrol eder.
+die Tapete (die Tapeten) | duvar kâğıdı | isim (d) | Im Schlafzimmer wollen wir eine helle Tapete mit Blumen. | Yatak odasında çiçekli açık renk bir duvar kâğıdı istiyoruz.
+tapezieren | duvar kâğıdı kaplamak | fiil | Am Wochenende tapezieren wir das Kinderzimmer neu. | Hafta sonu çocuk odasına yeni duvar kâğıdı kaplıyoruz.
+der Möbelwagen (die Möbelwagen) | eşya kamyonu | isim (e) | Der Möbelwagen passt leider nicht in unsere enge Straße. | Eşya kamyonu maalesef dar sokağımıza sığmıyor.
+abbauen | sökmek | fiil | Vor dem Umzug müssen wir das Bett und den Schrank abbauen. | Taşınmadan önce yatağı ve dolabı sökmemiz gerekiyor.
