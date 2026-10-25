@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
+## Havalimanında
+航班 (hángbān) | uçuş, sefer | isim | 我的航班晚上八点起飞。(Wǒ de hángbān wǎnshang bā diǎn qǐfēi.) | Uçağım akşam sekizde kalkıyor.
+登机牌 (dēngjīpái) | biniş kartı | isim | 请出示您的登机牌。(Qǐng chūshì nín de dēngjīpái.) | Lütfen biniş kartınızı gösterin.
+登机 (dēngjī) | uçağa binmek | fiil | 乘客们正在登机。(Chéngkèmen zhèngzài dēngjī.) | Yolcular şu anda uçağa biniyor.
+起飞 (qǐfēi) | (uçak) kalkmak | fiil | 飞机马上就要起飞了。(Fēijī mǎshàng jiù yào qǐfēi le.) | Uçak birazdan kalkacak.
+降落 (jiàngluò) | inmek (uçak) | fiil | 飞机在北京降落了。(Fēijī zài Běijīng jiàngluò le.) | Uçak Pekin'e indi.
+托运 (tuōyùn) | bagaja vermek | fiil | 这个箱子要托运。(Zhège xiāngzi yào tuōyùn.) | Bu bavulu bagaja vereceğim.
+安检 (ānjiǎn) | güvenlik kontrolü | isim | 过安检的时候要拿出电脑。(Guò ānjiǎn de shíhou yào ná chū diànnǎo.) | Güvenlik kontrolünden geçerken bilgisayarı çıkarmak gerekir.
+行李箱 (xínglixiāng) | valiz | isim | 我的行李箱是蓝色的。(Wǒ de xínglixiāng shì lánsè de.) | Valizim mavi.
+座位 (zuòwèi) | koltuk, oturacak yer | isim | 我想要靠窗的座位。(Wǒ xiǎng yào kào chuāng de zuòwèi.) | Pencere kenarında bir koltuk istiyorum.
+乘客 (chéngkè) | yolcu | isim | 各位乘客，请系好安全带。(Gèwèi chéngkè, qǐng jì hǎo ānquándài.) | Sayın yolcular, lütfen emniyet kemerlerinizi bağlayın.
+## Trenle yolculuk
+高铁 (gāotiě) | hızlı tren | isim | 坐高铁去上海只要五个小时。(Zuò gāotiě qù Shànghǎi zhǐyào wǔ ge xiǎoshí.) | Hızlı trenle Şanghay'a sadece beş saat sürüyor.
+车厢 (chēxiāng) | vagon | isim | 我们在三号车厢。(Wǒmen zài sān hào chēxiāng.) | Üç numaralı vagondayız.
+卧铺 (wòpù) | yataklı vagon, kuşet | isim | 坐夜车最好买卧铺。(Zuò yèchē zuì hǎo mǎi wòpù.) | Gece treninde en iyisi yataklı bilet almak.
+站台 (zhàntái) | peron | isim | 火车从五号站台出发。(Huǒchē cóng wǔ hào zhàntái chūfā.) | Tren beş numaralı perondan kalkıyor.
+检票 (jiǎnpiào) | bilet kontrolü yapmak | fiil | 火车开始检票了，快走吧！(Huǒchē kāishǐ jiǎnpiào le, kuài zǒu ba!) | Bilet kontrolü başladı, çabuk gidelim!
+往返 (wǎngfǎn) | gidiş-dönüş | fiil | 我要买一张往返票。(Wǒ yào mǎi yì zhāng wǎngfǎn piào.) | Gidiş-dönüş bir bilet almak istiyorum.
+单程 (dānchéng) | tek yön | isim | 单程票多少钱？(Dānchéng piào duōshao qián?) | Tek yön bilet ne kadar?
+车次 (chēcì) | tren sefer numarası | isim | 你坐的是哪个车次？(Nǐ zuò de shì nǎge chēcì?) | Hangi seferle gidiyorsun?
+售票处 (shòupiàochù) | gişe | isim | 售票处在车站的东边。(Shòupiàochù zài chēzhàn de dōngbian.) | Gişe istasyonun doğu tarafında.
+换乘 (huànchéng) | aktarma yapmak | fiil | 我们在下一站换乘二号线。(Wǒmen zài xià yí zhàn huànchéng èr hào xiàn.) | Bir sonraki istasyonda iki numaralı hatta aktarma yapacağız.
+## Otelde
+宾馆 (bīnguǎn) | otel, misafirhane | isim | 这家宾馆又干净又便宜。(Zhè jiā bīnguǎn yòu gānjìng yòu piányi.) | Bu otel hem temiz hem ucuz.
+预订 (yùdìng) | rezervasyon yapmak | fiil | 我在网上预订了房间。(Wǒ zài wǎng shang yùdìng le fángjiān.) | İnternetten oda ayırttım.
+入住 (rùzhù) | otele giriş yapmak | fiil | 我们下午两点以后才能入住。(Wǒmen xiàwǔ liǎng diǎn yǐhòu cái néng rùzhù.) | Öğleden sonra ikiden önce giriş yapamıyoruz.
+退房 (tuìfáng) | otelden çıkış yapmak | fiil | 明天中午十二点以前退房。(Míngtiān zhōngwǔ shí'èr diǎn yǐqián tuìfáng.) | Yarın öğlen on ikiden önce çıkış yapın.
+单人间 (dānrénjiān) | tek kişilik oda | isim | 我订了一个单人间。(Wǒ dìng le yí ge dānrénjiān.) | Tek kişilik bir oda ayırttım.
+双人间 (shuāngrénjiān) | iki kişilik oda | isim | 双人间一晚多少钱？(Shuāngrénjiān yì wǎn duōshao qián?) | İki kişilik oda gecelik ne kadar?
+押金 (yājīn) | depozito | isim | 入住要交五百块押金。(Rùzhù yào jiāo wǔbǎi kuài yājīn.) | Girişte beş yüz yuan depozito ödemek gerekiyor.
+房卡 (fángkǎ) | oda kartı | isim | 我把房卡忘在房间里了。(Wǒ bǎ fángkǎ wàng zài fángjiān li le.) | Oda kartımı odada unuttum.
+早餐 (zǎocān) | kahvaltı (resmî) | isim | 房费包括早餐吗？(Fángfèi bāokuò zǎocān ma?) | Oda ücretine kahvaltı dahil mi?
+住宿 (zhùsù) | konaklama | isim | 学校给我们安排了住宿。(Xuéxiào gěi wǒmen ānpái le zhùsù.) | Okul bize konaklama ayarladı.
+## Belgeler
+身份证 (shēnfènzhèng) | kimlik kartı | isim | 坐火车要带身份证。(Zuò huǒchē yào dài shēnfènzhèng.) | Trene binerken kimlik kartı gerekir.
+证件 (zhèngjiàn) | belge, kimlik belgesi | isim | 请出示您的证件。(Qǐng chūshì nín de zhèngjiàn.) | Lütfen kimliğinizi gösterin.
+申请 (shēnqǐng) | başvurmak; başvuru | fiil | 我在申请中国的签证。(Wǒ zài shēnqǐng Zhōngguó de qiānzhèng.) | Çin vizesine başvuruyorum.
+办 (bàn) | (iş, belge) halletmek, çıkartmak | fiil | 办护照要多长时间？(Bàn hùzhào yào duō cháng shíjiān?) | Pasaport çıkarmak ne kadar sürer?
+有效 (yǒuxiào) | geçerli | sıfat | 你的签证还有效吗？(Nǐ de qiānzhèng hái yǒuxiào ma?) | Vizen hâlâ geçerli mi?
+过期 (guòqī) | süresi dolmak | fiil | 我的护照下个月过期。(Wǒ de hùzhào xià ge yuè guòqī.) | Pasaportumun süresi gelecek ay doluyor.
+海关 (hǎiguān) | gümrük | isim | 过海关的时候要排很长的队。(Guò hǎiguān de shíhou yào pái hěn cháng de duì.) | Gümrükten geçerken uzun bir kuyrukta beklemek gerekiyor.
+出境 (chūjìng) | ülkeden çıkış | fiil | 出境的时候要检查护照。(Chūjìng de shíhou yào jiǎnchá hùzhào.) | Ülkeden çıkarken pasaport kontrol edilir.
+入境 (rùjìng) | ülkeye giriş | fiil | 入境卡要用英文填。(Rùjìngkǎ yào yòng Yīngwén tián.) | Giriş kartı İngilizce doldurulmalı.
+登记 (dēngjì) | kayıt yaptırmak | fiil | 外国人住宿要登记。(Wàiguó rén zhùsù yào dēngjì.) | Yabancılar konaklarken kayıt yaptırmalı.
+## Gezip görmek
+游客 (yóukè) | turist | isim | 长城上游客很多。(Chángchéng shang yóukè hěn duō.) | Çin Seddi'nde çok turist var.
+参观 (cānguān) | gezmek, ziyaret etmek (yer) | fiil | 我们参观了故宫。(Wǒmen cānguān le Gùgōng.) | Yasak Şehir'i gezdik.
+门票 (ménpiào) | giriş bileti | isim | 学生门票半价。(Xuésheng ménpiào bànjià.) | Öğrenci bileti yarı fiyatına.
+纪念品 (jìniànpǐn) | hediyelik eşya | isim | 我买了一些纪念品送朋友。(Wǒ mǎi le yìxiē jìniànpǐn sòng péngyou.) | Arkadaşlarıma vermek için birkaç hediyelik eşya aldım.
+名胜古迹 (míngshèng gǔjì) | tarihi ve turistik yerler | isim | 西安有很多名胜古迹。(Xī'ān yǒu hěn duō míngshèng gǔjì.) | Xi'an'da birçok tarihi yer var.
+历史 (lìshǐ) | tarih | isim | 这座城市有三千年的历史。(Zhè zuò chéngshì yǒu sānqiān nián de lìshǐ.) | Bu şehrin üç bin yıllık bir tarihi var.
+文化 (wénhuà) | kültür | isim | 我对中国文化很感兴趣。(Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù.) | Çin kültürüne çok ilgi duyuyorum.
+古老 (gǔlǎo) | çok eski, kadim | sıfat | 这是一个古老的小镇。(Zhè shì yí ge gǔlǎo de xiǎo zhèn.) | Burası çok eski bir kasaba.
+寺庙 (sìmiào) | tapınak | isim | 山上有一座寺庙。(Shān shang yǒu yí zuò sìmiào.) | Dağın üstünde bir tapınak var.
+地方 (dìfang) | yer | isim | 这个地方真美！(Zhège dìfang zhēn měi!) | Burası ne kadar güzel!
+## Seyahat planı
+行程 (xíngchéng) | gezi programı, güzergâh | isim | 这次旅行的行程很满。(Zhè cì lǚxíng de xíngchéng hěn mǎn.) | Bu gezinin programı çok yoğun.
+旅行社 (lǚxíngshè) | seyahat acentesi | isim | 我们通过旅行社订了机票。(Wǒmen tōngguò lǚxíngshè dìng le jīpiào.) | Uçak biletlerini seyahat acentesi aracılığıyla aldık.
+跟团 (gēn tuán) | turla gezmek | fiil | 第一次去中国，跟团比较方便。(Dì yī cì qù Zhōngguó, gēn tuán bǐjiào fāngbiàn.) | Çin'e ilk gidişte turla gezmek daha kolay.
+自由行 (zìyóuxíng) | bireysel gezi (tursuz) | isim | 年轻人更喜欢自由行。(Niánqīngrén gèng xǐhuan zìyóuxíng.) | Gençler tursuz gezmeyi daha çok sever.
+攻略 (gōnglüè) | gezi rehberi, tavsiyeler | isim | 出发前我看了很多旅游攻略。(Chūfā qián wǒ kàn le hěn duō lǚyóu gōnglüè.) | Yola çıkmadan önce birçok gezi rehberi okudum.
+出国 (chūguó) | yurt dışına çıkmak | fiil | 这是我第一次出国。(Zhè shì wǒ dì yī cì chūguó.) | Bu benim yurt dışına ilk çıkışım.
+度假 (dùjià) | tatil yapmak | fiil | 他们去海南度假了。(Tāmen qù Hǎinán dùjià le.) | Tatil yapmak için Hainan'a gittiler.
+回国 (huíguó) | ülkesine dönmek | fiil | 我下个月回国。(Wǒ xià ge yuè huíguó.) | Gelecek ay ülkeme dönüyorum.
+背包 (bèibāo) | sırt çantası | isim | 我只带了一个背包。(Wǒ zhǐ dài le yí ge bèibāo.) | Yanıma sadece bir sırt çantası aldım.
+订票 (dìng piào) | bilet ayırtmak | fiil | 春节前要早点儿订票。(Chūnjié qián yào zǎo diǎnr dìng piào.) | Bahar Bayramı'ndan önce biletleri erkenden ayırtmak gerekir.
+## Ülke ve bölgeler
+省 (shěng) | eyalet, il | isim | 中国有很多省。(Zhōngguó yǒu hěn duō shěng.) | Çin'de birçok eyalet var.
+首都 (shǒudū) | başkent | isim | 安卡拉是土耳其的首都。(Ānkǎlā shì Tǔ'ěrqí de shǒudū.) | Ankara Türkiye'nin başkentidir.
+农村 (nóngcūn) | kırsal, köy | isim | 他小时候住在农村。(Tā xiǎoshíhou zhù zài nóngcūn.) | Çocukken köyde yaşıyordu.
+郊区 (jiāoqū) | banliyö, şehir dışı | isim | 我们周末去郊区玩。(Wǒmen zhōumò qù jiāoqū wán.) | Hafta sonu şehir dışına eğlenmeye gidiyoruz.
+岛 (dǎo) | ada | isim | 这个岛上没有汽车。(Zhège dǎo shang méiyǒu qìchē.) | Bu adada otomobil yok.
+沙漠 (shāmò) | çöl | isim | 沙漠里白天很热，晚上很冷。(Shāmò li báitiān hěn rè, wǎnshang hěn lěng.) | Çölde gündüz çok sıcak, gece çok soğuk.
+草原 (cǎoyuán) | bozkır, çayır | isim | 内蒙古的草原很大。(Nèiměnggǔ de cǎoyuán hěn dà.) | İç Moğolistan'ın bozkırları çok geniş.
+海边 (hǎibiān) | deniz kenarı | isim | 我们在海边住了三天。(Wǒmen zài hǎibiān zhù le sān tiān.) | Deniz kenarında üç gün kaldık.
+山区 (shānqū) | dağlık bölge | isim | 山区的空气很新鲜。(Shānqū de kōngqì hěn xīnxiān.) | Dağlık bölgenin havası çok temiz.
+地区 (dìqū) | bölge | isim | 这个地区冬天很冷。(Zhège dìqū dōngtiān hěn lěng.) | Bu bölgede kışlar çok soğuk.
+## Yolculukta sorunlar
+迷路 (mílù) | yolunu kaybetmek | fiil | 我们在老城里迷路了。(Wǒmen zài lǎochéng li mílù le.) | Eski şehirde yolumuzu kaybettik.
+错过 (cuòguò) | kaçırmak | fiil | 快点儿，别错过火车！(Kuài diǎnr, bié cuòguò huǒchē!) | Acele et, treni kaçırma!
+取消 (qǔxiāo) | iptal etmek | fiil | 因为下大雪，航班取消了。(Yīnwèi xià dà xuě, hángbān qǔxiāo le.) | Yoğun kar nedeniyle uçuş iptal edildi.
+延误 (yánwù) | gecikmek, rötar | fiil | 航班延误了两个小时。(Hángbān yánwù le liǎng ge xiǎoshí.) | Uçuş iki saat gecikti.
+改签 (gǎiqiān) | bileti başka sefere değiştirmek | fiil | 我想把票改签到明天。(Wǒ xiǎng bǎ piào gǎiqiān dào míngtiān.) | Biletimi yarına değiştirmek istiyorum.
+退票 (tuìpiào) | bileti iade etmek | fiil | 现在退票要扣钱吗？(Xiànzài tuìpiào yào kòu qián ma?) | Şimdi bilet iadesinde kesinti var mı?
+丢失 (diūshī) | kaybolmak, kaybetmek | fiil | 我的行李丢失了。(Wǒ de xíngli diūshī le.) | Bagajım kayboldu.
+问路 (wèn lù) | yol sormak | fiil | 不认识路可以问路。(Bú rènshi lù kěyǐ wèn lù.) | Yolu bilmiyorsan yol sorabilirsin.
+指 (zhǐ) | göstermek, işaret etmek | fiil | 他给我指了去车站的路。(Tā gěi wǒ zhǐ le qù chēzhàn de lù.) | Bana istasyona giden yolu gösterdi.
+打听 (dǎting) | soruşturmak, bilgi almak | fiil | 我去打听一下哪儿有便宜的宾馆。(Wǒ qù dǎting yíxià nǎr yǒu piányi de bīnguǎn.) | Gidip nerede ucuz otel var bir sorayım.
+## Diğer ulaşım
+摩托车 (mótuōchē) | motosiklet | isim | 他骑摩托车上班。(Tā qí mótuōchē shàngbān.) | İşe motosikletle gidiyor.
+电动车 (diàndòngchē) | elektrikli scooter, elektrikli araç | isim | 很多人骑电动车送外卖。(Hěn duō rén qí diàndòngchē sòng wàimài.) | Birçok kişi elektrikli scooterla yemek siparişi taşıyor.
+共享单车 (gòngxiǎng dānchē) | paylaşımlı bisiklet | isim | 用手机就能骑共享单车。(Yòng shǒujī jiù néng qí gòngxiǎng dānchē.) | Paylaşımlı bisiklete telefonla binilebiliyor.
+长途汽车 (chángtú qìchē) | şehirlerarası otobüs | isim | 坐长途汽车比坐火车便宜。(Zuò chángtú qìchē bǐ zuò huǒchē piányi.) | Şehirlerarası otobüs trenden ucuz.
+轮船 (lúnchuán) | vapur, büyük gemi | isim | 我们坐轮船去青岛。(Wǒmen zuò lúnchuán qù Qīngdǎo.) | Qingdao'ya vapurla gidiyoruz.
+高速公路 (gāosù gōnglù) | otoyol | isim | 节假日高速公路很堵。(Jiéjiàrì gāosù gōnglù hěn dǔ.) | Bayram tatillerinde otoyollar çok tıkalı.
+车票 (chēpiào) | (tren, otobüs) bileti | isim | 车票在网上就能买。(Chēpiào zài wǎng shang jiù néng mǎi.) | Bilet internetten alınabiliyor.
+加油 (jiāyóu) | yakıt almak; hadi, gayret! | fiil | 车快没油了，我们去加油吧。(Chē kuài méi yóu le, wǒmen qù jiāyóu ba.) | Arabanın benzini bitmek üzere, yakıt alalım.
+停车 (tíngchē) | park etmek, durmak | fiil | 这里不能停车。(Zhèlǐ bù néng tíngchē.) | Buraya park edilmez.
+安全带 (ānquándài) | emniyet kemeri | isim | 开车前请系好安全带。(Kāichē qián qǐng jì hǎo ānquándài.) | Yola çıkmadan önce emniyet kemerini bağla.
+## Gezi izlenimleri
+有趣 (yǒuqù) | ilginç, eğlenceli | sıfat | 这次旅行非常有趣。(Zhè cì lǚxíng fēicháng yǒuqù.) | Bu gezi son derece eğlenceliydi.
+热闹 (rènao) | hareketli, canlı, kalabalık | sıfat | 夜市非常热闹。(Yèshì fēicháng rènao.) | Gece pazarı çok hareketli.
+拥挤 (yōngjǐ) | kalabalık, sıkışık | sıfat | 节日的时候地铁很拥挤。(Jiérì de shíhou dìtiě hěn yōngjǐ.) | Bayramlarda metro çok kalabalık.
+美丽 (měilì) | güzel (yazı dilinde) | sıfat | 桂林是一个美丽的城市。(Guìlín shì yí ge měilì de chéngshì.) | Guilin güzel bir şehir.
+著名 (zhùmíng) | ünlü, meşhur | sıfat | 这是一座著名的大桥。(Zhè shì yí zuò zhùmíng de dàqiáo.) | Bu meşhur bir köprü.
+壮观 (zhuàngguān) | görkemli, muhteşem | sıfat | 长城非常壮观。(Chángchéng fēicháng zhuàngguān.) | Çin Seddi son derece görkemli.
+适合 (shìhé) | uygun olmak | fiil | 秋天最适合去北京旅游。(Qiūtiān zuì shìhé qù Běijīng lǚyóu.) | Pekin'i gezmek için en uygun mevsim sonbahar.
+值得 (zhídé) | değmek, -e değer | fiil | 这个博物馆很值得去。(Zhège bówùguǎn hěn zhídé qù.) | Bu müze gitmeye çok değer.
+推荐 (tuījiàn) | tavsiye etmek | fiil | 你能推荐一家好饭馆吗？(Nǐ néng tuījiàn yì jiā hǎo fànguǎn ma?) | İyi bir lokanta tavsiye edebilir misin?
+难忘 (nánwàng) | unutulmaz | sıfat | 这是一次难忘的旅行。(Zhè shì yí cì nánwàng de lǚxíng.) | Bu unutulmaz bir yolculuktu.
