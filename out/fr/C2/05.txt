@@ -1,0 +1,111 @@
+# UNIT: Bureau et jargon informatique | Jargon d'entreprise, langage tech et argot financier
+## Les clichés d'entreprise
+synergy | synergie, force commune | La direction ne cesse de parler de synergie, mais les deux départements refusent toujours de partager leurs données.
+pain point | point de douleur, problème majeur | Nos recherches montrent que la lenteur de la livraison est le principal point de douleur des clients.
+buy-in | adhésion, approbation | Sans l'adhésion des cadres supérieurs, le nouveau système ne fonctionnera jamais.
+deliverable | livrable | Le premier livrable est un rapport complet sur les retours des clients d'ici vendredi.
+boil the ocean | vouloir décrocher la lune, voir trop grand | Concentrons-nous d'abord sur un seul marché ; rien ne sert de vouloir décrocher la lune.
+circle back | y revenir plus tard, refaire un point | Bonne question, Omar ; pouvons-nous y revenir après l'examen du budget ?
+low-hanging fruit | gains faciles, cibles faciles | Avant de refondre tout le site, commençons par les gains faciles et réparons les liens morts.
+move the needle | faire bouger les lignes, changer la donne | Un nouveau logo est sympa, mais cela ne fera pas vraiment bouger les lignes sur les ventes.
+paradigm shift | changement de paradigme, rupture | Le télétravail a provoqué un changement de paradigme dans la façon dont les entreprises perçoivent les bureaux.
+value-add | valeur ajoutée (jargon) | Notre vraie valeur ajoutée est l'assistance personnalisée que nous offrons à chaque client après la vente.
+## Le jargon des réunions
+drill down | creuser, examiner en détail | Creusons les chiffres et découvrons quelle région perd de l'argent.
+deep dive | analyse approfondie, examen poussé | La semaine prochaine, nous ferons une analyse approfondie des raisons pour lesquelles les clients résilient leur abonnement.
+take something offline | discuter en aparté, voir hors réunion | Cela devient trop détaillé pour tout le monde, alors voyons cela hors réunion.
+ping | contacter rapidement, faire un signe | Fais-moi juste un signe quand le fichier est prêt et je le relirai immédiatement.
+heads-up | avertissement, petit mot préventif | Merci de m'avoir prévenu pour l'audit ; je préparerai les dossiers ce soir.
+all-hands | réunion générale, assemblée plénière | Le PDG a annoncé la fusion lors d'une réunion générale jeudi matin.
+parking lot | sujets mis de côté, réserve de sujets | C'est un bon point, mais mettons-le de côté et revenons à l'ordre du jour.
+alignment | harmonisation, accord parfait | Nous avons besoin d'une harmonisation totale entre les ventes et le marketing avant le début de la campagne.
+run it up the flagpole | sonder les réactions, tester une idée | Ce n'est qu'une idée brute, mais soumettons-la pour voir les réactions.
+bikeshedding | débats futiles, pinaillage sur des détails | Nous avons passé quarante minutes à pinailler sur la couleur d'un bouton que personne ne remarquera.
+## L'argot de bureau
+water-cooler chat | ragots de couloir, bavardages informels | La plupart des vraies nouvelles dans cette entreprise se propagent par les ragots de couloir.
+hot-desking | bureaux partagés, flex office | Depuis le passage aux bureaux partagés, personne ne trouve de bureau près de la fenêtre.
+busywork | travail d'occupation, tâche de remplissage | La stagiaire a passé sa première semaine à faire du travail d'occupation, comme trier de vieux dossiers.
+presenteeism | présentéisme | Le présentéisme est un vrai problème : les gens viennent malades juste pour être vus à leur bureau.
+jobsworth | petit chef tatillon, fonctionnaire rigide (fam. BrE) | Un employé tatillon à l'accueil n'a pas voulu me laisser entrer sans badge de visiteur.
+pen-pusher | gratte-papier, pousse-mégot (péjoratif) | Il déteste être traité comme un gratte-papier alors qu'il a un diplôme d'ingénieur.
+wage slave | esclave salarié, forçat du travail | Omar se sentait comme un esclave salarié, travaillant soixante heures par semaine pour une entreprise qui lui importait peu.
+grind | train-train pénible, labeur quotidien | Retour au train-train quotidien demain, j'en ai bien peur.
+clock-watcher | guetteur d'horloge, employé pressé de partir | Diego a toujours les yeux rivés sur la pendule ; il a déjà mis son manteau à cinq heures moins cinq chaque jour.
+dogsbody | larbin, homme à tout faire (BrE) | En tant que nouveau membre de l'équipe, j'ai été le larbin de tout le monde pendant des mois.
+## Carrière et management
+golden handcuffs | menottes dorées | Le système de primes fonctionne comme des menottes dorées : si tu pars plus tôt, tu perds tout.
+golden parachute | parachute doré | Les actionnaires étaient furieux du parachute doré du PDG après l'échec de la fusion.
+high-flyer | élément prometteur, cadre montant | Ali était perçu comme un élément prometteur et est devenu manager avant ses trente ans.
+deadwood | personnel inutile, poids mort | Le nouveau directeur a promis d'éliminer le personnel inutile dans chaque service.
+rightsizing | restructuration, dégraissage (euphémisme) | La note parlait de restructuration, mais tout le monde savait que cela signifiait des licenciements.
+glass ceiling | plafond de verre | Elle a été la première femme de l'entreprise à briser le plafond de verre.
+rainmaker | apporteur d'affaires clé, poule aux œufs d'or | Chaque cabinet d'avocats veut un apporteur d'affaires clé qui attire de gros clients.
+corner office | bureau de direction, poste au sommet | Après quinze ans de dur labeur, Emre a enfin obtenu le bureau de direction.
+yes-man | béni-oui-oui, lèche-bottes | Le nouveau responsable s'est entouré de béni-oui-oui qui ne le contredisaient jamais.
+garden leave | congé de préavis payé, mise au vert | Après avoir démissionné, Yuki a été mise en congé de préavis payé pour ne pas emmener de clients chez un rival.
+## Le développement logiciel
+codebase | base de code | La base de code est si ancienne que personne n'ose toucher au module de paiement.
+refactor | refactoriser, restructurer le code | Avant d'ajouter de nouvelles fonctionnalités, nous devrions restructurer ce code désordonné.
+legacy code | code hérité, code ancien | Maria a passé tout le sprint à démêler du code hérité écrit il y a quinze ans.
+technical debt | dette technique | Chaque raccourci que nous prenons maintenant alourdit notre dette technique pour plus tard.
+hotfix | correctif d'urgence | Nous avons déployé un correctif d'urgence à minuit après que la page de connexion a cessé de fonctionner.
+roll back | rétrograder, revenir à la version antérieure | La mise à jour a fait planter l'application, nous avons donc dû revenir à la version antérieure.
+deploy | déployer, mettre en production | Nous ne déployons jamais le vendredi, car personne ne veut corriger des bugs le week-end.
+pull request | demande de fusion (PR) | Ouvre une demande de fusion pour que le reste de l'équipe puisse examiner tes modifications.
+backlog | carnet de produit, liste des tâches en attente | Le carnet de produit compte maintenant plus de trois cents tickets que personne n'a regardés.
+scope creep | dérive des objectifs, gonflement du périmètre | En raison de la dérive des objectifs, un projet de deux semaines dure maintenant depuis quatre mois.
+## Bugs et débogage
+edge case | cas limite, situation marginale | L'application fonctionne bien jusqu'à ce que quelqu'un saisisse un nom avec une apostrophe, un cas limite classique.
+workaround | solution de contournement, moyen détourné | Il n'y a pas encore de correctif, mais il existe une solution de contournement : exporter d'abord le fichier en texte brut.
+kludge | bricolage bancal, bidouille | Tout le système ne tient que grâce à un bricolage bancal que seule Camille comprend.
+spaghetti code | code spaghetti, code enchevêtré | Personne ne veut maintenir ce code spaghetti, il n'a donc pas été mis à jour depuis des années.
+regression | régression (anomalie réapparue) | La nouvelle mise à jour a introduit une régression : le bouton d'exportation ne fonctionne plus.
+race condition | situation de concurrence, accès concurrentiel | Les plantages aléatoires se sont révélés être causés par une situation de concurrence entre deux threads.
+memory leak | fuite de mémoire | Au bout de quelques heures, le serveur ralentit, ce qui suggère une fuite de mémoire.
+stack trace | trace de la pile, trace d'exécution | Colle la trace complète de la pile dans le ticket afin que nous puissions voir où l'erreur s'est produite.
+rubber duck debugging | méthode du canard en plastique | La méthode du canard en plastique fonctionne : expliquer le code à voix haute révèle souvent l'erreur.
+dogfooding | test interne de son propre produit | Le test en interne de notre propre produit nous a permis de trouver des dizaines de bugs agaçants avant les clients.
+## Support informatique et utilisateurs
+power user | utilisateur expert, utilisateur avancé | Les utilisateurs experts veulent des raccourcis clavier, pas davantage de boutons colorés.
+end user | utilisateur final | L'interface doit être assez simple pour un utilisateur final sans formation technique.
+technophobe | technophobe | Mon oncle est un fier technophobe qui refuse toujours d'avoir un smartphone.
+factory reset | réinitialisation d'usine | Si rien d'autre ne fonctionne, une réinitialisation d'usine effacera le téléphone et repartira de zéro.
+admin rights | droits d'administrateur | Tu ne peux pas installer ce logiciel sans droits d'administrateur sur ton ordinateur portable.
+outage | panne de service, interruption | Une panne de service de six heures a empêché des milliers de clients d'accéder à leur compte.
+sysadmin | administrateur système, admin sys | Demande à l'administrateur système de réinitialiser ton mot de passe ; elle est la seule à avoir l'accès.
+helpdesk | centre d'assistance, support technique | J'ai ouvert un ticket auprès du centre d'assistance, mais ils n'ont pas encore répondu.
+user error | erreur de manipulation, erreur de l'utilisateur | L'ingénieur a souri poliment et a dit que le problème venait d'une erreur de manipulation.
+turn it off and on again | éteindre et rallumer | Avant d'appeler l'assistance, as-tu essayé d'éteindre et de rallumer ?
+## Le monde des start-up
+unicorn | licorne (start-up valorisée à plus d'un milliard) | En trois ans, la modeste application de livraison de repas était devenue une licorne.
+angel investor | investisseur providentiel, business angel | Un ingénieur à la retraite est devenu leur premier investisseur providentiel en injectant cinquante mille livres.
+runway | autonomie financière, réserve de trésorerie | Avec nos économies actuelles, il nous reste environ huit mois d'autonomie financière.
+burn rate | taux de consommation de capital, trésorerie brûlée | Les investisseurs étaient inquiets du taux de consommation de capital de l'entreprise, à raison de deux millions par mois.
+bootstrap | autofinancer, démarrer sans investisseurs | Ils ont autofinancé l'entreprise depuis leur table de cuisine pendant les deux premières années.
+seed round | tour d'amorçage, levée initiale | Les fondateurs ont levé un demi-million lors de leur tour d'amorçage.
+exit strategy | stratégie de sortie | Chaque investisseur posait la même question : quelle est votre stratégie de sortie ?
+scale up | passer à l'échelle, développer la production | Le défi consiste maintenant à passer à l'échelle sans perdre en qualité.
+disrupt | bouleverser un secteur, disrupter | Chaque nouvelle start-up affirme qu'elle va bouleverser tout un secteur.
+minimum viable product | produit minimum viable, PMV | Lance d'abord un produit minimum viable, puis améliore-le à partir des vrais retours.
+## L'argot de l'argent
+dough | fric, pognon (familier) | Il gagne un fric fou depuis qu'il s'est lancé en indépendant.
+a pretty penny | une coquette somme, un joli paquet | Restaurer cette vieille ferme a dû leur coûter une coquette somme.
+nickel-and-dime | facturer au compte-gouttes, taxer sur tout | Les compagnies à bas coût facturent les passagers au compte-gouttes pour tout, du siège aux en-cas.
+peanuts | des clopinettes, trois fois rien | Les stagiaires dans cette agence font de longues heures et sont payés des clopinettes.
+rolling in it | rouler sur l'or, nager dans les billets | Depuis la vente de son entreprise, Diego roule carrément sur l'or.
+hard up | fauché, à court d'argent | Ils étaient très fauchés quand les enfants étaient petits.
+cash-in-hand | payé de la main à la main, au noir | Le week-end, il fait des petits boulots payés de la main à la main, comme peindre des appartements ou réparer des clôtures.
+pony up | cracher au bassinet, raquer (familier) | Si tu veux les fonctionnalités premium, tu devras cracher au bassinet dix dollars de plus par mois.
+break the bank | coûter les yeux de la tête, ruiner | Un week-end à la mer ne va pas nous coûter les yeux de la tête si nous réservons tôt.
+cheapskate | radin, pince-fesses (familier) | Ne sois pas si radin ; c'est à ton tour de payer le café.
+## L'argent en entreprise et au quotidien
+rainy day fund | poire pour la soif, fonds d'urgence | Les réparations de la voiture ont été directement prélevées sur notre poire pour la soif.
+highway robbery | pur vol, prix exorbitant | Douze dollars pour un sandwich à l'aéroport, c'est du pur vol.
+creative accounting | comptabilité créative, maquillage des comptes | Les bénéfices semblaient impressionnants, mais ils découlaient principalement d'une comptabilité créative.
+ballpark figure | ordre de grandeur, estimation approximative | Je n'ai pas besoin d'un devis précis, donne-moi juste un ordre de grandeur.
+back-of-the-envelope | fait sur un coin de table, sommaire | Un rapide calcul sur un coin de table montre que le plan ne sera pas rentable.
+bean counter | gratte-papier des finances, comptable tatillon | Les comptables tatillons du siège ont encore réduit notre budget de formation.
+cook the books | truquer les comptes, maquiller les chiffres | Le directeur financier a été arrêté pour avoir truqué les comptes pendant des années.
+slush fund | caisse noire, fonds secrets | Les enquêteurs ont découvert une caisse noire secrète utilisée pour corrompre des fonctionnaires.
+kickback | pot-de-vin, rétrocommission | L'entrepreneur a été accusé d'avoir versé des pots-de-vin pour remporter le contrat de l'hôpital.
+fat cat | gros ponte profiteur, nabab (péjoratif) | Les employés étaient furieux que les gros pontes du conseil d'administration touchent des primes alors que les salaires étaient gelés.
