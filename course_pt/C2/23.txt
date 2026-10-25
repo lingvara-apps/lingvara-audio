@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## Borsa
+a bolha especulativa | spekülatif balon | isim (d) | Muitos economistas alertaram sobre a bolha especulativa no setor imobiliário. | Birçok ekonomist emlak sektöründeki spekülatif balon konusunda uyardı.
+a abertura de capital | halka arz | isim (d) | A abertura de capital da startup atraiu milhares de pequenos investidores. | Girişimin halka arzı binlerce küçük yatırımcıyı çekti.
+o day trade | gün içi alım satım | isim (e) | O day trade parece fácil, mas a maioria perde dinheiro. | Gün içi alım satım kolay görünüyor ama çoğu kişi para kaybediyor.
+a realização de lucros | kâr realizasyonu | isim (d) | Depois de uma semana de alta, houve realização de lucros na bolsa. | Bir haftalık yükselişin ardından borsada kâr realizasyonu yaşandı.
+o circuit breaker | devre kesici (işlem durdurma) | isim (e) | A queda forte acionou o circuit breaker e o pregão parou. | Sert düşüş devre kesiciyi devreye soktu ve seans durdu.
+a liquidez | likidite, nakde çevrilebilirlik | isim (d) | Imóveis têm pouca liquidez em tempos de crise. | Gayrimenkullerin kriz dönemlerinde likiditesi düşüktür.
+a valorização | değer kazanma | isim (d) | A valorização das ações da empresa surpreendeu os analistas. | Şirket hisselerinin değer kazanması analistleri şaşırttı.
+o derivativo | türev araç | isim (e) | Os derivativos podem proteger o investidor ou aumentar o risco. | Türev araçlar yatırımcıyı koruyabilir ya da riski artırabilir.
+o título público | devlet tahvili | isim (e) | Ele investe em títulos públicos por serem mais seguros. | Daha güvenli oldukları için devlet tahvillerine yatırım yapıyor.
+a debênture | şirket tahvili | isim (d) | A empresa emitiu debêntures para financiar a nova fábrica. | Şirket yeni fabrikayı finanse etmek için tahvil çıkardı.
+## Vergi
+a alíquota | vergi oranı | isim (d) | A alíquota do imposto sobre produtos importados subiu. | İthal ürünlere uygulanan vergi oranı yükseldi.
+a isenção | muafiyet (vergi) | isim (d) | Os aposentados com doenças graves têm isenção do imposto. | Ağır hastalığı olan emekliler vergiden muaftır.
+o abatimento fiscal | vergi indirimi | isim (e) | Os gastos com saúde permitem abatimento fiscal no imposto de renda. | Sağlık harcamaları gelir vergisinde vergi indirimi hakkı verir.
+o fato gerador | vergiyi doğuran olay | isim (e) | A venda do imóvel é o fato gerador do imposto. | Taşınmazın satışı verginin doğduğu olaydır.
+a bitributação | çifte vergilendirme | isim (d) | O acordo entre os dois países evita a bitributação. | İki ülke arasındaki anlaşma çifte vergilendirmeyi önlüyor.
+a elisão fiscal | yasal vergi planlaması | isim (d) | A elisão fiscal usa brechas da lei para pagar menos imposto. | Yasal vergi planlaması daha az vergi ödemek için yasadaki boşlukları kullanır.
+o paraíso fiscal | vergi cenneti | isim (e) | A investigação federal encontrou contas secretas em paraísos fiscais. | Federal soruşturma vergi cennetlerinde gizli hesaplar buldu.
+o fisco | maliye (vergi idaresi) | isim (e) | O fisco cruzou os dados e encontrou a omissão de renda. | Maliye verileri karşılaştırdı ve gelirin gizlendiğini buldu.
+a evasão fiscal | vergi kaçırma | isim (d) | A evasão fiscal tira bilhões dos cofres públicos todo ano. | Vergi kaçırma her yıl kamu kasasından milyarlar götürüyor.
+o imposto progressivo | artan oranlı vergi | isim (e) | No imposto progressivo, quem ganha mais paga uma alíquota maior. | Artan oranlı vergide daha çok kazanan daha yüksek oranda öder.
+## Kredi
+o empréstimo consignado | maaştan kesintili kredi | isim (e) | O empréstimo consignado é descontado direto do salário. | Maaştan kesintili kredi doğrudan maaştan düşülür.
+o crédito rotativo | döner kredi (kart) | isim (e) | Os juros do crédito rotativo do cartão são altíssimos. | Kartın döner kredi faizleri çok yüksek.
+o spread bancário | banka faiz marjı | isim (e) | O spread bancário no Brasil é um dos maiores do mundo. | Brezilya'daki banka faiz marjı dünyanın en yükseklerinden biri.
+o score de crédito | kredi notu | isim (e) | Pagar as contas em dia melhora o score de crédito. | Faturaları zamanında ödemek kredi notunu yükseltir.
+o avalista | kefil (senette, kredide) | isim (e) | O banco exigiu um avalista para liberar o empréstimo. | Banka krediyi onaylamak için bir kefil istedi.
+a renegociação | yeniden yapılandırma (borç) | isim (d) | O banco ofereceu uma renegociação da dívida em sessenta parcelas. | Banka borcun altmış taksitte yeniden yapılandırılmasını önerdi.
+o refinanciamento | yeniden finansman | isim (e) | O refinanciamento do imóvel reduziu o valor das prestações. | Konutun yeniden finansmanı taksit tutarlarını düşürdü.
+o prazo de carência | ödemesiz dönem | isim (e) | O empréstimo estudantil tem seis meses de prazo de carência após a formatura. | Öğrenim kredisinin mezuniyetten sonra altı aylık ödemesiz dönemi var.
+o custo efetivo total | toplam maliyet oranı | isim (e) | Compare o custo efetivo total antes de escolher o financiamento. | Krediyi seçmeden önce toplam maliyet oranını karşılaştırın.
+a alienação fiduciária | mülkiyeti saklı tutarak teminat | isim (d) | O carro fica em alienação fiduciária até a última parcela. | Araba son taksite kadar banka teminatında kalır.
+## Soyut fiiller I
+permear | nüfuz etmek, her yere yayılmak | fiil | A desconfiança permeia todas as relações na empresa. | Güvensizlik şirketteki bütün ilişkilere nüfuz ediyor.
+nortear | yön vermek, rehberlik etmek | fiil | Os valores éticos norteiam as decisões da fundação. | Etik değerler vakfın kararlarına yön veriyor.
+ensejar | fırsat vermek, yol açmak | fiil | O erro na contagem ensejou uma nova votação. | Sayımdaki hata yeni bir oylamaya yol açtı.
+suscitar | uyandırmak, doğurmak (tartışma) | fiil | A proposta do governo suscitou dúvidas entre os conselheiros. | Hükümetin önerisi kurul üyeleri arasında soru işaretleri doğurdu.
+engendrar | tasarlayıp üretmek, doğurmak | fiil | A crise econômica engendrou novas formas de solidariedade nos bairros. | Ekonomik kriz mahallelerde yeni dayanışma biçimleri doğurdu.
+propiciar | olanak sağlamak | fiil | O programa propicia bolsas para alunos de baixa renda. | Program düşük gelirli öğrencilere burs olanağı sağlıyor.
+preconizar | savunmak, salık vermek | fiil | O relatório da ONU preconiza mais investimento em saneamento. | BM raporu altyapıya daha fazla yatırım yapılmasını salık veriyor.
+fomentar | teşvik etmek, desteklemek | fiil | O governo quer fomentar o turismo no interior. | Hükümet iç bölgelerde turizmi teşvik etmek istiyor.
+coadunar-se | uyuşmak, bağdaşmak | fiil · dönüşlü | Essa atitude não se coaduna com os valores da escola. | Bu tutum okulun değerleriyle bağdaşmıyor.
+subsidiar | destek sağlamak, sübvanse etmek | fiil | Os dados vão subsidiar a decisão dos ministros. | Veriler bakanların kararına dayanak sağlayacak.
+## Soyut fiiller II
+dirimir | çözmek (anlaşmazlığı) | fiil | O mediador foi chamado para dirimir o conflito entre os sócios. | Arabulucu ortaklar arasındaki anlaşmazlığı çözmek için çağrıldı.
+sanar | gidermek (sorunu, eksiği) | fiil | A empresa contratou técnicos para sanar as falhas do sistema. | Şirket sistemin kusurlarını gidermek için teknisyen tuttu.
+obstar | engellemek | fiil | Nada obsta a realização do evento no próximo mês. | Etkinliğin gelecek ay yapılmasını engelleyen hiçbir şey yok.
+aventar | ortaya atmak (olasılık) | fiil | Alguns analistas aventaram a hipótese de uma recessão. | Bazı analistler bir durgunluk olasılığını ortaya attı.
+cotejar | karşılaştırmak (metinleri) | fiil | A pesquisadora cotejou as duas edições do romance. | Araştırmacı romanın iki baskısını karşılaştırdı.
+auferir | elde etmek (kazanç) | fiil | A empresa auferiu lucros recordes no último trimestre. | Şirket son çeyrekte rekor kâr elde etti.
+exaurir | tüketmek, bitirmek | fiil | A seca prolongada exauriu os recursos dos agricultores. | Uzun kuraklık çiftçilerin kaynaklarını tüketti.
+dissipar | dağıtmak, gidermek | fiil | A explicação do médico dissipou as dúvidas da família. | Doktorun açıklaması ailenin kuşkularını giderdi.
+arrefecer | soğumak, yatışmak | fiil | O entusiasmo dos investidores arrefeceu depois da crise. | Yatırımcıların coşkusu krizden sonra yatıştı.
+recrudescer | yeniden şiddetlenmek | fiil | A violência recrudesceu na região durante o inverno. | Bölgede şiddet kış boyunca yeniden şiddetlendi.
+## Entelektüel sıfatlar I
+profícuo | verimli, yararlı | sıfat | A parceria entre as universidades foi muito profícua. | Üniversiteler arasındaki ortaklık çok verimli oldu.
+inócuo | zararsız; etkisiz | sıfat | A medida foi inócua e não resolveu o problema. | Önlem etkisiz kaldı ve sorunu çözmedi.
+intrínseco | içsel, özünde olan | sıfat | O risco é intrínseco a qualquer tipo de investimento. | Risk her tür yatırımın özünde vardır.
+inerente | doğasında olan | sıfat | A curiosidade é inerente ao ser humano desde a infância. | Merak çocukluktan itibaren insanın doğasında vardır.
+idiossincrático | kişiye özgü | sıfat | O escritor tem um estilo idiossincrático, fácil de reconhecer. | Yazarın tanınması kolay, kendine özgü bir üslubu var.
+peremptório | kesin, itiraz kabul etmez | sıfat | O prazo é peremptório e não haverá prorrogação. | Süre kesindir ve uzatma olmayacak.
+tácito | zımni, söylenmeden kabul edilen | sıfat | Havia um acordo tácito entre os vizinhos sobre o barulho. | Komşular arasında gürültü konusunda zımni bir anlaşma vardı.
+iminente | yakın, eli kulağında | sıfat | Os meteorologistas alertaram para o risco iminente de enchente. | Meteorologlar eli kulağında bir sel riskine karşı uyardı.
+inexorável | kaçınılmaz, amansız | sıfat | O envelhecimento da população é um processo inexorável. | Nüfusun yaşlanması kaçınılmaz bir süreçtir.
+precípuo | başlıca, asıl | sıfat | O objetivo precípuo da escola é formar cidadãos. | Okulun asıl amacı yurttaş yetiştirmektir.
+## Entelektüel sıfatlar II
+anódino | sönük, renksiz, zararsız | sıfat | O discurso foi tão anódino que ninguém se lembra dele. | Konuşma o kadar sönüktü ki kimse onu hatırlamıyor.
+falacioso | yanıltıcı, safsatalı | sıfat | O argumento falacioso do vendedor convenceu parte da plateia. | Satıcının yanıltıcı argümanı seyircilerin bir kısmını ikna etti.
+insólito | alışılmadık, garip | sıfat | Um fato insólito aconteceu no aeroporto: um bode fugiu na pista. | Havalimanında alışılmadık bir olay oldu: bir teke pistte kaçtı.
+prosaico | sıradan, yavan | sıfat | O poeta transformava fatos prosaicos em versos belíssimos. | Şair sıradan olayları çok güzel dizelere dönüştürüyordu.
+perene | kalıcı, sürekli | sıfat | O rio perene garante água para a cidade o ano todo. | Sürekli akan nehir şehre bütün yıl su sağlıyor.
+conspícuo | göze çarpan, seçkin | sıfat | A ausência do ministro na cerimônia foi conspícua. | Bakanın törende bulunmaması göze çarpıyordu.
+ubíquo | her yerde olan | sıfat | Hoje o celular é um objeto ubíquo, até nas aldeias. | Bugün cep telefonu köylerde bile her yerde bulunan bir nesne.
+hodierno | günümüze ait, bugünkü | sıfat | O livro analisa os desafios da sociedade hodierna. | Kitap günümüz toplumunun zorluklarını inceliyor.
+inaudito | duyulmamış, eşi görülmemiş | sıfat | A tempestade causou uma destruição inaudita na região. | Fırtına bölgede eşi görülmemiş bir yıkıma yol açtı.
+incólume | zarar görmemiş, sağ salim | sıfat | Apesar do acidente, todos os passageiros saíram incólumes. | Kazaya rağmen bütün yolcular sağ salim çıktı.
+## Soyut kavramlar
+a dicotomia | ikilik, ikiye bölünme | isim (d) | O autor critica a dicotomia entre razão e emoção. | Yazar akıl ile duygu arasındaki ikiliği eleştiriyor.
+o espírito da época | çağın ruhu (zeitgeist) | isim (e) | O filme captou bem o espírito da época dos anos sessenta. | Film altmışlı yılların çağ ruhunu iyi yakaladı.
+o epítome | özet; en tipik örnek | isim (e) | A feijoada é o epítome da comida de domingo no Rio. | Feijoada Rio'daki pazar yemeğinin en tipik örneğidir.
+a quintessência | öz, en saf hâl | isim (d) | Para muitos, a bossa nova é a quintessência da elegância. | Pek çoklarına göre bossa nova zarafetin özüdür.
+a panaceia | her derde deva | isim (d) | A tecnologia não é uma panaceia para os problemas da educação. | Teknoloji eğitim sorunları için her derde deva değildir.
+o corolário | doğal sonuç, sonuç önermesi | isim (e) | O desemprego é um corolário da crise industrial. | İşsizlik sanayi krizinin doğal bir sonucudur.
+o truísmo | apaçık gerçek, herkesçe bilinen | isim (e) | Dizer que a saúde é importante é um truísmo. | Sağlığın önemli olduğunu söylemek herkesçe bilinen bir gerçektir.
+o simulacro | taklit, sahte suret | isim (e) | A reunião foi um simulacro de democracia, tudo já estava decidido. | Toplantı demokrasinin bir taklidiydi, her şey zaten kararlaştırılmıştı.
+a entropia | entropi, düzensizlik | isim (d) | Sem manutenção constante, toda organização tende à entropia. | Sürekli bakım yapılmazsa her örgüt düzensizliğe eğilim gösterir.
+a distopia | distopya | isim (d) | O romance descreve uma distopia em que a água é proibida. | Roman suyun yasak olduğu bir distopyayı anlatıyor.
+## İnsan tipleri
+o diletante | heveskâr, amatör | isim (e) | Ele estuda arte como diletante, sem pretensão profissional. | Sanatı profesyonel bir iddiası olmadan heveskâr olarak inceliyor.
+o novo-rico | sonradan görme | isim (e) | O novo-rico gastava fortunas para impressionar os vizinhos. | Sonradan görme komşularını etkilemek için servetler harcıyordu.
+o filisteu | kaba zevkli, sanattan anlamayan | isim (e) | Só um filisteu chamaria aquela obra-prima de rabisco. | O başyapıta karalama diyen ancak sanattan anlamayan biri olabilir.
+o polímata | çok yönlü bilgin | isim (e) | O polímata escrevia sobre física, música e filosofia. | Çok yönlü bilgin fizik, müzik ve felsefe üzerine yazardı.
+o neófito | acemi, yeni katılan | isim (e) | Como neófito no xadrez, ele perdeu todas as partidas. | Satrançta acemi olduğu için bütün oyunları kaybetti.
+o epígono | taklitçi izleyici (bir ustanın) | isim (e) | Os epígonos do mestre repetiam o estilo sem a mesma genialidade. | Ustanın taklitçileri aynı deha olmadan üslubunu tekrarlıyordu.
+o iconoclasta | yerleşik değerleri yıkan kişi | isim (e) | O artista iconoclasta zombava de todas as tradições. | Yerleşik değerleri yıkan sanatçı bütün geleneklerle alay ediyordu.
+o misantropo | insandan kaçan kişi | isim (e) | O velho misantropo vivia isolado numa casa na serra. | İnsanlardan kaçan yaşlı adam dağdaki bir evde yalnız yaşıyordu.
+o bon vivant | keyif ehli | isim (e) | O tio é um bon vivant que adora vinhos e viagens. | Amca şaraplara ve yolculuklara bayılan bir keyif ehli.
+o arrivista | her yolu deneyen kariyerist | isim (e) | O arrivista bajulava todos os chefes para subir na empresa. | Kariyerist şirkette yükselmek için bütün patronlara yaranıyordu.
+## Ekonomi düşüncesi kavramları
+a assimetria de informação | bilgi asimetrisi | isim (d) | A assimetria de informação prejudica quem compra carro usado. | Bilgi asimetrisi ikinci el araba alanları zarara uğratır.
+o risco moral | ahlaki tehlike | isim (e) | O seguro total pode gerar risco moral e descuido. | Tam sigorta ahlaki tehlikeye ve dikkatsizliğe yol açabilir.
+o custo de oportunidade | fırsat maliyeti | isim (e) | O custo de oportunidade de estudar é o salário que se deixa de ganhar. | Okumanın fırsat maliyeti kazanılmayan maaştır.
+a mão invisível | görünmez el | isim (d) | Para os liberais, a mão invisível do mercado regula os preços. | Liberallere göre piyasanın görünmez eli fiyatları düzenler.
+a destruição criativa | yaratıcı yıkım | isim (d) | A destruição criativa fez as locadoras de vídeo desaparecerem. | Yaratıcı yıkım video kiralama dükkânlarını yok etti.
+a tragédia dos comuns | ortak malların trajedisi | isim (d) | A pesca excessiva é um exemplo da tragédia dos comuns. | Aşırı avlanma ortak malların trajedisine bir örnektir.
+a economia comportamental | davranışsal iktisat | isim (d) | A economia comportamental estuda as decisões irracionais das pessoas. | Davranışsal iktisat insanların akıl dışı kararlarını inceler.
+o efeito manada | sürü etkisi | isim (e) | O efeito manada fez todos venderem as ações ao mesmo tempo. | Sürü etkisi herkesin hisselerini aynı anda satmasına yol açtı.
+a profecia autorrealizável | kendini gerçekleştiren kehanet | isim (d) | O boato de falência virou uma profecia autorrealizável. | İflas söylentisi kendini gerçekleştiren bir kehanete dönüştü.
+o cisne negro | siyah kuğu (öngörülemeyen olay) | isim (e) | A pandemia foi um cisne negro para a economia mundial. | Pandemi dünya ekonomisi için bir siyah kuğu oldu.
