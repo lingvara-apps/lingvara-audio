@@ -1,0 +1,45 @@
+# DIALOG: Bologna'da Yeni Bir Hayat | Ev, iş, sağlık ve çevre üzerine sohbetler | Elena | Ali
+## Ev arayışı
+A | Allora Ali, hai trovato finalmente un appartamento in centro? | Eee Ali, sonunda merkezde bir daire bulabildin mi?
+B | Non ancora. Ho visto tre bilocali, ma gli affitti sono altissimi. | Henüz değil. Üç tane bir artı bir gördüm ama kiralar çok yüksek.
+A | Lo so, a Bologna c'è una vera emergenza abitativa per gli studenti. | Biliyorum, Bologna'da öğrenciler için gerçek bir konut krizi var.
+B | L'ultimo era carino, però l'agenzia chiedeva una provvigione enorme. | Sonuncusu hoştu ama emlak ajansı çok yüksek bir komisyon istiyordu.
+A | Hai pensato di cercare un coinquilino? Dividendo le spese risparmieresti molto. | Bir ev arkadaşı aramayı düşündün mü? Masrafları bölerek çok tasarruf edersin.
+B | Sì, ma preferirei vivere da solo, almeno per il primo anno. | Evet ama en azından ilk yıl tek başıma yaşamayı tercih ederim.
+A | Allora ti conviene guardare in periferia. Con l'autobus arrivi in venti minuti. | O zaman kenar mahallelere bakman işine gelir. Otobüsle yirmi dakikada varırsın.
+B | Hai ragione. Domani vado a vedere un monolocale vicino alla tangenziale. | Haklısın. Yarın çevre yoluna yakın bir stüdyo daireye bakmaya gidiyorum.
+A | Ricordati di chiedere se le spese condominiali sono comprese nel prezzo. | Aidatın fiyata dahil olup olmadığını sormayı unutma.
+B | Grazie del consiglio. Spero che il proprietario sia una persona affidabile! | Tavsiye için teşekkürler. Umarım ev sahibi güvenilir biridir!
+## İş görüşmesi
+A | Com'è andato il colloquio di lavoro di stamattina? | Bu sabahki iş görüşmesi nasıl geçti?
+B | Credo bene. Mi hanno fatto molte domande sulle mie competenze digitali. | Sanırım iyi. Dijital yetkinliklerim hakkında çok soru sordular.
+A | E sul contratto ti hanno detto qualcosa? È a tempo indeterminato? | Peki sözleşme hakkında bir şey söylediler mi? Süresiz mi?
+B | No, all'inizio c'è un periodo di prova di tre mesi. | Hayır, başta üç aylık bir deneme süresi var.
+A | È normale. E lo stipendio? Hai provato a negoziare un po'? | Bu normal. Ya maaş? Biraz pazarlık etmeyi denedin mi?
+B | Sì, ma il direttore ha detto che la retribuzione dipende dai risultati. | Evet ama müdür ücretin sonuçlara bağlı olduğunu söyledi.
+A | Se ti offrissero il posto, lo accetteresti subito? | Sana işi teklif etseler hemen kabul eder miydin?
+B | Probabilmente sì. L'azienda è giovane e c'è un bel lavoro di squadra. | Muhtemelen evet. Şirket genç ve güzel bir ekip çalışması var.
+A | Allora incrociamo le dita! Quando ti daranno una risposta? | O zaman şans dileyelim! Sana ne zaman cevap verecekler?
+B | Entro venerdì. Nel frattempo mando altre candidature, non si sa mai. | Cumaya kadar. Bu arada başka başvurular da gönderiyorum, belli olmaz.
+## Sağlık ve stres
+A | Ali, hai una faccia stanchissima. Dormi abbastanza in questo periodo? | Ali, çok yorgun görünüyorsun. Bu aralar yeterince uyuyor musun?
+B | Poco, purtroppo. Tra esami e lavoro soffro un po' d'insonnia. | Ne yazık ki az. Sınavlar ve iş arasında biraz uykusuzluk çekiyorum.
+A | Dovresti parlarne con il medico di base, magari ti consiglia qualcosa. | Bunu aile hekiminle konuşmalısın, belki sana bir şey önerir.
+B | Non voglio prendere sonniferi. Preferirei trovare una soluzione naturale. | Uyku ilacı almak istemiyorum. Doğal bir çözüm bulmayı tercih ederim.
+A | Io ho cominciato a fare meditazione la sera e mi aiuta molto. | Ben akşamları meditasyon yapmaya başladım ve bana çok yardımı oluyor.
+B | Davvero? Pensavo che fosse una cosa complicata. | Gerçekten mi? Karmaşık bir şey olduğunu sanıyordum.
+A | Per niente. Bastano dieci minuti di respiro profondo prima di dormire. | Hiç değil. Uyumadan önce on dakika derin nefes almak yeter.
+B | Ci proverò. È importante che riesca a concentrarmi per la sessione d'esami. | Deneyeceğim. Sınav dönemi için odaklanabilmem önemli.
+A | E non dimenticare l'attività fisica! Domenica vieni a camminare con me in collina? | Fiziksel aktiviteyi de unutma! Pazar günü benimle tepelerde yürüyüşe gelir misin?
+B | Volentieri, un po' d'aria pulita mi farà bene. | Seve seve, biraz temiz hava bana iyi gelecek.
+## Çevre tartışması
+A | Hai letto l'articolo sulla siccità in Emilia? È davvero preoccupante. | Emilia'daki kuraklıkla ilgili makaleyi okudun mu? Gerçekten endişe verici.
+B | Sì, gli agricoltori dicono che quest'anno il raccolto sarà scarso. | Evet, çiftçiler bu yıl ürünün az olacağını söylüyor.
+A | Secondo me il cambiamento climatico non è più un problema del futuro. | Bence iklim değişikliği artık geleceğin sorunu değil.
+B | Sono d'accordo, ma non so cosa possa fare una singola persona. | Katılıyorum ama tek bir insanın ne yapabileceğini bilmiyorum.
+A | Molto, invece! Ridurre gli sprechi, usare meno la macchina, fare la raccolta differenziata. | Aksine, çok şey! İsrafı azaltmak, arabayı daha az kullanmak, atıkları ayrıştırmak.
+B | Io cerco di comprare prodotti a chilometro zero al mercato. | Ben pazardan yerel ürünler almaya çalışıyorum.
+A | Bravo! E il comune dovrebbe investire di più nel trasporto pubblico. | Aferin! Belediye de toplu taşımaya daha çok yatırım yapmalı.
+B | Infatti. Se ci fossero più piste ciclabili, andrei sempre in bici. | Aynen. Daha çok bisiklet yolu olsa hep bisikletle giderdim.
+A | Sabato c'è una manifestazione per il clima in piazza Maggiore. Vieni? | Cumartesi Piazza Maggiore'de iklim için bir gösteri var. Geliyor musun?
+B | Certo, ci vediamo lì. Porto anche qualche amico dell'università. | Tabii, orada görüşürüz. Üniversiteden birkaç arkadaşı da getiririm.
