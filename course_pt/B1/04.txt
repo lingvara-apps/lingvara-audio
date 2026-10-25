@@ -1,0 +1,111 @@
+# UNIT: Medya ve haberler | Basın, TV, sosyal medya, bilgi
+## Basın
+a notícia | haber | isim (d) | Recebi uma notícia ótima logo de manhã. | Sabah sabah harika bir haber aldım.
+a manchete | manşet | isim (d) | A manchete de hoje fala sobre as chuvas no Sul. | Bugünkü manşet Güney'deki yağmurlardan bahsediyor.
+a reportagem | haber araştırması, röportajlı haber | isim (d) | A reportagem mostrou a vida dos pescadores do Ceará. | Haber Ceará'lı balıkçıların hayatını gösterdi.
+o repórter | muhabir | isim (e) | O repórter entrevistou os moradores depois da enchente. | Muhabir sel sonrasında sakinlerle röportaj yaptı.
+a imprensa | basın | isim (d) | A imprensa ficou esperando na porta do hospital. | Basın hastanenin kapısında bekledi.
+a edição | baskı, sayı | isim (d) | A edição de domingo do jornal é a mais vendida. | Gazetenin pazar baskısı en çok satanı.
+a coluna | köşe yazısı | isim (d) | Leio a coluna dela sobre comida toda semana. | Her hafta onun yemek köşesini okurum.
+o colunista | köşe yazarı | isim (e) | O colunista escreveu um texto engraçado sobre o trânsito. | Köşe yazarı trafik hakkında komik bir yazı yazdı.
+a capa | kapak | isim (d) | A foto da capa da revista foi tirada em Fernando de Noronha. | Derginin kapak fotoğrafı Fernando de Noronha'da çekildi.
+o editorial | başyazı | isim (e) | O editorial do jornal criticou a falta de hospitais. | Gazetenin başyazısı hastane eksikliğini eleştirdi.
+## Televizyon ve radyo
+a emissora | yayın kuruluşu, kanal | isim (d) | A emissora vai transmitir o jogo da seleção hoje. | Kanal bugün milli takımın maçını yayınlayacak.
+o telejornal | televizyon haberleri | isim (e) | Meus pais assistem ao telejornal toda noite no jantar. | Annemle babam her akşam yemekte haberleri izler.
+o apresentador | sunucu | isim (e) | O apresentador do programa é muito simpático. | Programın sunucusu çok sempatik.
+a programação | yayın akışı | isim (d) | A programação de fim de ano tem muitos filmes antigos. | Yılbaşı yayın akışında çok sayıda eski film var.
+o horário nobre | prime time, en çok izlenen saat | isim (e) | A novela das nove passa no horário nobre. | Saat dokuz dizisi en çok izlenen saatte yayınlanıyor.
+a transmissão | yayın | isim (d) | A transmissão do desfile das escolas de samba durou a noite toda. | Samba okullarının geçit töreni yayını bütün gece sürdü.
+transmitir | yayınlamak | fiil | A rádio local transmite os jogos do time da cidade. | Yerel radyo şehir takımının maçlarını yayınlıyor.
+o rádio | radyo | isim (e) | Meu avô ouve rádio na cozinha todas as manhãs. | Dedem her sabah mutfakta radyo dinler.
+o ouvinte | dinleyici | isim (e) | Os ouvintes podem mandar mensagens para o programa. | Dinleyiciler programa mesaj gönderebilir.
+o telespectador | televizyon izleyicisi | isim (e) | Milhões de telespectadores assistiram à final do campeonato. | Milyonlarca izleyici şampiyonanın finalini izledi.
+## Sosyal medya
+viralizar | viral olmak, yayılmak | fiil | O vídeo do cachorro dançando viralizou em poucas horas. | Dans eden köpeğin videosu birkaç saatte viral oldu.
+o engajamento | etkileşim | isim (e) | As fotos com pessoas têm mais engajamento do que as paisagens. | İnsanların olduğu fotoğraflar manzaralardan daha çok etkileşim alıyor.
+a curtida | beğeni | isim (d) | A foto da praia já tem mais de mil curtidas. | Plaj fotoğrafının şimdiden binden fazla beğenisi var.
+o comentário | yorum | isim (e) | Não leia os comentários, eles só vão te irritar. | Yorumları okuma, sadece sinirini bozar.
+a hashtag | hashtag, etiket | isim (d) | Use a hashtag do evento para aparecer na tela. | Ekranda görünmek için etkinliğin etiketini kullan.
+o algoritmo | algoritma | isim (e) | O algoritmo só me mostra vídeos de receitas. | Algoritma bana sadece tarif videoları gösteriyor.
+o conteúdo | içerik | isim (e) | Ela produz conteúdo sobre viagens baratas pelo Brasil. | Brezilya'da ucuz seyahat üzerine içerik üretiyor.
+o criador de conteúdo | içerik üreticisi | isim (e) | Hoje muitos jovens querem ser criadores de conteúdo. | Bugün pek çok genç içerik üreticisi olmak istiyor.
+a bolha | yankı odası, balon | isim (d) | Nas redes, cada um vive dentro da própria bolha. | Sosyal ağlarda herkes kendi balonunun içinde yaşıyor.
+o compartilhamento | paylaşım | isim (e) | O número de compartilhamentos do post surpreendeu a equipe. | Gönderinin paylaşım sayısı ekibi şaşırttı.
+## Bilgi ve doğruluk
+a informação | bilgi | isim (d) | Essa informação precisa ser confirmada antes de publicar. | Bu bilginin yayımlanmadan önce doğrulanması gerekiyor.
+a desinformação | dezenformasyon, yanlış bilgi | isim (d) | A desinformação se espalha mais rápido do que a verdade. | Yanlış bilgi gerçekten daha hızlı yayılır.
+a notícia falsa | sahte haber | isim (d) | Meu tio sempre compartilha notícias falsas no grupo da família. | Amcam aile grubunda hep sahte haber paylaşır.
+o boato | söylenti | isim (e) | Começou um boato de que a fábrica vai fechar. | Fabrikanın kapanacağına dair bir söylenti çıktı.
+checar | kontrol etmek, teyit etmek | fiil | Antes de compartilhar, é bom checar a notícia. | Paylaşmadan önce haberi teyit etmek iyi olur.
+a checagem de fatos | doğruluk kontrolü | isim (d) | O site faz checagem de fatos durante as eleições. | Site seçimler sırasında doğruluk kontrolü yapıyor.
+a credibilidade | güvenilirlik, inandırıcılık | isim (d) | O jornal perdeu credibilidade depois daquele erro. | Gazete o hatadan sonra güvenilirliğini yitirdi.
+desmentir | yalanlamak | fiil | A prefeitura desmentiu a notícia sobre o aumento da passagem. | Belediye bilet zammı haberini yalanladı.
+enganoso | yanıltıcı | sıfat | O anúncio era enganoso e o produto não funcionava. | Reklam yanıltıcıydı ve ürün çalışmıyordu.
+manipular | manipüle etmek, çarpıtmak | fiil | Alguns sites manipulam fotos para enganar os leitores. | Bazı siteler okurları kandırmak için fotoğrafları çarpıtıyor.
+## Habercilik fiilleri
+noticiar | haber vermek, haberini yapmak | fiil | Todos os jornais noticiaram o acidente na estrada. | Bütün gazeteler yoldaki kazayı haber yaptı.
+informar | bilgilendirmek | fiil | O piloto informou que o voo vai atrasar meia hora. | Pilot uçuşun yarım saat gecikeceğini bildirdi.
+publicar | yayımlamak | fiil | A revista publicou uma entrevista com a escritora. | Dergi yazarla bir röportaj yayımladı.
+anunciar | duyurmak, ilan etmek | fiil | A empresa anunciou a abertura de quinhentas vagas. | Şirket beş yüz kişilik iş alımı duyurdu.
+revelar | ortaya çıkarmak, açıklamak | fiil | A pesquisa revelou que os jovens leem pouco jornal. | Araştırma gençlerin az gazete okuduğunu ortaya koydu.
+investigar | soruşturmak, araştırmak | fiil | O jornalista passou meses investigando o caso. | Gazeteci olayı aylarca araştırdı.
+cobrir | haberini takip etmek (izlemek) | fiil | Ela foi enviada para cobrir o festival em Parintins. | Parintins'teki festivali takip etmek üzere gönderildi.
+entrevistar | röportaj yapmak | fiil | O programa vai entrevistar a campeã de surfe amanhã. | Program yarın sörf şampiyonuyla röportaj yapacak.
+relatar | aktarmak, anlatmak | fiil | As testemunhas relataram tudo o que viram à polícia. | Tanıklar gördükleri her şeyi polise anlattı.
+censurar | sansürlemek | fiil | A rede social censurou o vídeo por causa das imagens fortes. | Sosyal ağ sert görüntüler yüzünden videoyu sansürledi.
+## Haber türleri
+a retrospectiva | yılın özeti | isim (d) | A retrospectiva do ano relembrou os melhores momentos do esporte. | Yıl özeti sporun en iyi anlarını hatırlattı.
+o furo de reportagem | atlatma haber | isim (e) | O jornal local deu um furo de reportagem sobre a obra. | Yerel gazete inşaatla ilgili bir atlatma haber yaptı.
+a crônica | deneme yazısı (gündelik hayat) | isim (d) | Gosto de ler crônicas curtas sobre a vida na cidade. | Şehir hayatı üzerine kısa denemeler okumayı severim.
+a crítica | eleştiri; eleştiri yazısı | isim (d) | O filme recebeu críticas muito positivas na imprensa. | Film basında çok olumlu eleştiriler aldı.
+o documentário | belgesel | isim (e) | Vimos um documentário sobre as onças do Pantanal. | Pantanal'ın jaguarları hakkında bir belgesel izledik.
+a coletiva de imprensa | basın toplantısı | isim (d) | O técnico deu uma coletiva de imprensa depois da derrota. | Teknik direktör yenilgiden sonra basın toplantısı yaptı.
+a enquete | anket (kısa) | isim (d) | Fiz uma enquete para escolher o tema da festa. | Partinin temasını seçmek için bir anket yaptım.
+o depoimento | tanıklık, ifade | isim (e) | O documentário traz depoimentos de moradores antigos do bairro. | Belgeselde mahallenin eski sakinlerinin tanıklıkları var.
+o horóscopo | burç yorumu | isim (e) | Minha tia lê o horóscopo antes de sair de casa. | Teyzem evden çıkmadan önce burç yorumunu okur.
+a charge | karikatür (gazete) | isim (d) | A charge de hoje faz piada com o calor do Rio. | Bugünkü karikatür Rio'nun sıcağıyla dalga geçiyor.
+## Medya sıfatları
+atual | güncel | sıfat | É um livro antigo, mas o tema continua muito atual. | Eski bir kitap ama konusu hâlâ çok güncel.
+polêmico | tartışmalı | sıfat | O comentário polêmico do apresentador gerou muitas críticas. | Sunucunun tartışmalı yorumu pek çok eleştiriye yol açtı.
+sensacionalista | sansasyonel, abartılı | sıfat | Não gosto de programas sensacionalistas sobre crimes. | Suçlarla ilgili sansasyonel programları sevmem.
+imparcial | tarafsız | sıfat | Um bom jornalista tenta ser imparcial ao contar os fatos. | İyi bir gazeteci olayları anlatırken tarafsız olmaya çalışır.
+tendencioso | taraflı | sıfat | Achei a reportagem tendenciosa, só ouviu um dos lados. | Haberi taraflı buldum, sadece bir tarafı dinledi.
+viral | viral, çok yayılan | sıfat | A dança virou um vídeo viral em todo o país. | Dans tüm ülkede viral bir videoya dönüştü.
+exclusivo | özel, yalnızca bir kanala ait | sıfat | A emissora conseguiu uma entrevista exclusiva com o vencedor. | Kanal kazananla özel bir röportaj yapmayı başardı.
+anônimo | isimsiz | sıfat | Uma fonte anônima passou as informações ao jornal. | İsimsiz bir kaynak bilgileri gazeteye verdi.
+informativo | bilgilendirici | sıfat | O podcast é curto, mas muito informativo. | Podcast kısa ama çok bilgilendirici.
+chocante | şok edici | sıfat | As imagens do incêndio na floresta foram chocantes. | Orman yangınının görüntüleri şok ediciydi.
+## Reklam ve medya dünyası
+a mídia | medya | isim (d) | A mídia deu muita atenção ao casamento dos atores. | Medya oyuncuların düğününe çok ilgi gösterdi.
+os meios de comunicação | iletişim araçları | isim (çoğul) | Os meios de comunicação mudaram muito com a internet. | İletişim araçları internetle çok değişti.
+a propaganda | reklam | isim (d) | Odeio quando a propaganda interrompe o filme. | Reklamın filmi bölmesinden nefret ederim.
+o anunciante | reklam veren | isim (e) | O programa perdeu anunciantes depois da polêmica. | Program tartışmadan sonra reklam verenlerini kaybetti.
+o patrocinador | sponsor | isim (e) | O time ainda não tem patrocinador para a camisa. | Takımın forması için henüz sponsoru yok.
+patrocinar | sponsor olmak | fiil | Um banco local patrocina o festival de música. | Yerel bir banka müzik festivaline sponsor oluyor.
+o assinante | abone | isim (e) | Os assinantes do canal recebem vídeos novos toda semana. | Kanalın aboneleri her hafta yeni videolar alıyor.
+o portal | haber sitesi, portal | isim (e) | Li a notícia num portal de notícias de Pernambuco. | Haberi Pernambuco'daki bir haber portalında okudum.
+o blog | blog | isim (e) | Ela escreve um blog sobre cozinha vegana desde 2015. | 2015'ten beri vegan mutfağı üzerine bir blog yazıyor.
+a publicidade | reklamcılık | isim (d) | Ele trabalha com publicidade numa agência em São Paulo. | São Paulo'da bir ajansta reklamcılık yapıyor.
+## Medya insanları
+o âncora | haber spikeri (ana sunucu) | isim (e) | O âncora do telejornal anunciou a notícia com calma. | Haber spikeri haberi sakince duyurdu.
+o correspondente | muhabir (yurt dışı) | isim (e) | Ela é correspondente de uma emissora brasileira em Londres. | Londra'da bir Brezilya kanalının muhabiri.
+o fotógrafo | fotoğrafçı | isim (e) | O fotógrafo registrou o pôr do sol em Ipanema. | Fotoğrafçı Ipanema'da gün batımını görüntüledi.
+o cinegrafista | kameraman | isim (e) | O cinegrafista caiu na lama durante a gravação. | Kameraman çekim sırasında çamura düştü.
+o editor | editör | isim (e) | O editor pediu para cortar o texto pela metade. | Editör metni yarıya indirmesini istedi.
+o comentarista | yorumcu | isim (e) | O comentarista criticou a escalação do time. | Yorumcu takımın kadrosunu eleştirdi.
+o porta-voz | sözcü | isim (e) | O porta-voz da empresa não quis comentar o caso. | Şirket sözcüsü olay hakkında yorum yapmak istemedi.
+o leitor | okur | isim (e) | Os leitores mandaram muitas cartas para a redação. | Okurlar yazı işlerine çok sayıda mektup gönderdi.
+o assessor de imprensa | basın danışmanı | isim (e) | O assessor de imprensa marcou as entrevistas da cantora. | Basın danışmanı şarkıcının röportajlarını ayarladı.
+o locutor | spiker (radyo) | isim (e) | O locutor gritou gol com toda a força. | Spiker var gücüyle "gol" diye bağırdı.
+## Medya ifadeleri
+estar em alta | gözde olmak, revaçta olmak | ifade | Vídeos curtos de receitas estão em alta este ano. | Kısa tarif videoları bu yıl çok gözde.
+dar o que falar | çok konuşulmak, gündem olmak | deyim | O final da novela vai dar o que falar. | Dizinin finali çok konuşulacak.
+ficar sabendo | haberdar olmak, öğrenmek | ifade | Fiquei sabendo da notícia pelo grupo da família. | Haberi aile grubundan öğrendim.
+sair no jornal | gazetede çıkmak | ifade | A foto do nosso bloco de carnaval saiu no jornal. | Karnaval grubumuzun fotoğrafı gazetede çıktı.
+estar por fora | habersiz olmak | ifade | Desculpe, estou por fora, o que aconteceu ontem? | Kusura bakma, haberim yok, dün ne oldu?
+ir ao ar | yayına girmek | ifade | O novo programa de culinária vai ao ar no sábado. | Yeni yemek programı cumartesi yayına giriyor.
+sair do ar | yayından kalkmak; çökmek (site) | ifade | O site do banco saiu do ar por duas horas. | Bankanın sitesi iki saat çöktü.
+pegar mal | kötü görünmek, ayıp kaçmak | ifade | Pegou mal o comentário dele no velório. | Cenazede yaptığı yorum çok ayıp kaçtı.
+cair na boca do povo | dillere düşmek | deyim | A história do casamento caiu na boca do povo. | Düğün hikâyesi dillere düştü.
+chamar a atenção | dikkat çekmek | ifade | A manchete foi escrita para chamar a atenção do leitor. | Manşet okurun dikkatini çekmek için yazılmış.
