@@ -1,4 +1,10 @@
-günlük sınır: anahtar #3 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #1 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+günlük sınır: anahtar #2 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+HTTP 404 anahtar #2: {
+günlük sınır: anahtar #2 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #2 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+HTTP 503 anahtar #3: {
+
 HTTP 404 anahtar #3: {
 günlük sınır: anahtar #3 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 günlük sınır: anahtar #3 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
@@ -9,33 +15,27 @@ günlük sınır: anahtar #4 gemini-flash-lite-latest ['GenerateRequestsPerDayPe
 günlük sınır: anahtar #5 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 HTTP 404 anahtar #5: {
 günlük sınır: anahtar #5 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #5 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
 günlük sınır: anahtar #5 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-HTTP 503 anahtar #6: {
-
+günlük sınır: anahtar #6 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 HTTP 404 anahtar #6: {
 günlük sınır: anahtar #6 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #6 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-ağ hatası ReadTimeout
+günlük sınır: anahtar #6 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+HTTP 503 anahtar #7: {
+
 HTTP 404 anahtar #7: {
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+HTTP 503 anahtar #7: {
+
+günlük sınır: anahtar #3 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 günlük sınır: anahtar #7 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 günlük sınır: anahtar #7 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ en uz B1/09: ['line count 110 but source has 111', 'line 5: Turkish letters left']
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-günlük sınır: anahtar #6 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+BAŞARISIZ en uz C1/08: ['line 3: Turkish letters left']
 günlük sınır: anahtar #7 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
 günlük sınır: anahtar #8 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
 HTTP 404 anahtar #8: {
+HTTP 503 anahtar #8: {
+
+ağ hatası ConnectionError
 günlük sınır: anahtar #8 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-BAŞARISIZ en uz C1/08: ['line 3: Turkish letters left']
-BAŞARISIZ en uz C1/16: ['line 36: Turkish letters left']
-bitti, çevrilen: 98
-98
+BAŞARISIZ en uz C1/16: ['line 36: Turkish letters left', 'line 91: Turkish letters left']
+bitti, çevrilen: 1
+1
