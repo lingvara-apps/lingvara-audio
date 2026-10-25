@@ -84,4 +84,5 @@ jobs:
           if [ ${#up[@]} -gt 0 ]; then printf '%s\n' "${up[@]}" | xargs -n 20 gh release upload audio-$C -R $R --clobber; fi
           gh release upload audio-$C -R $R --clobber packs/manifest.json packs/missing.json packs/build.json
           for f in old/*.zip; do [ -e "$f" ] || continue; b=$(basename $f); [ -f packs/$b ] || gh release delete-asset audio-$C $b -R $R -y; done
-          echo "### audio-$C" >> $GITHUB_STEP_SUMMARY; python3 -c "import json;m=json.load(open('packs/manifest.json'));print(f\"{sum(v['files'] for k,v in m.items() if not k.startswith('_'))} clips, {sum(v['size'] for k,v in m.items() if not k.startswith('_'))/1e6:.1f} MB, missing {m['_missing']}\")" >> $GITHUB_STEP_SUMMARY
+          echo "### audio-$C" >> $GITHUB_STEP_SUMMARY
+          python3 -c "import json;m=json.load(open('packs/manifest.json'));b=json.load(open('packs/build.json'));p=[v for k,v in m.items() if not k.startswith('_')];print(f\"::notice::audio-$C {len(p)} packs, {sum(v['files'] for v in p)} clips, {sum(v['size'] for v in p)/1e6:.1f} MB, missing {b['missing']}\")" | tee -a $GITHUB_STEP_SUMMARY
