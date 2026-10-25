@@ -1,0 +1,111 @@
+# UNIT: Söylem bağlayıcıları | İleri bağlaçlar, açıklama, yapı ve görüş belirteçleri
+## Ekleme
+überdies | üstelik, buna ek olarak | zarf | Die Wohnung ist zu teuer und überdies viel zu weit vom Zentrum entfernt. | Daire çok pahalı ve üstelik merkezden çok uzak.
+zudem | ayrıca, bundan başka | zarf | Der Zug hatte Verspätung, zudem war die Klimaanlage ausgefallen. | Tren gecikmişti, ayrıca klima da bozulmuştu.
+ferner | ayrıca, bunun yanı sıra | zarf | Ferner ist zu prüfen, ob die Kosten von der Versicherung übernommen werden. | Ayrıca masrafların sigorta tarafından karşılanıp karşılanmadığı incelenmeli.
+des Weiteren | bunun dışında, ayrıca | ifade | Des Weiteren möchte ich auf einige formale Fehler in der Arbeit hinweisen. | Ayrıca çalışmadaki bazı biçimsel hatalara dikkat çekmek istiyorum.
+darüber hinaus | bunun ötesinde, ayrıca | ifade | Darüber hinaus bietet die Firma ihren Mitarbeitern kostenlose Sprachkurse an. | Bunun ötesinde firma çalışanlarına ücretsiz dil kursları sunuyor.
+obendrein | üstüne üstlük | zarf | Er kam zu spät und hatte obendrein die Unterlagen vergessen. | Geç geldi ve üstüne üstlük belgeleri de unutmuştu.
+desgleichen | aynı şekilde, keza | zarf | Die Mieter im Erdgeschoss beschwerten sich, desgleichen die Nachbarn im ersten Stock. | Zemin kattaki kiracılar şikâyet etti, keza birinci kattaki komşular da.
+nicht minder | daha az değil, aynı ölçüde | ifade | Die zweite Hälfte des Romans ist nicht minder spannend als die erste. | Romanın ikinci yarısı ilkinden daha az sürükleyici değil.
+hinzu kommt, dass | buna bir de şu ekleniyor | ifade | Hinzu kommt, dass viele Familien sich die hohen Mieten nicht mehr leisten können. | Buna bir de birçok ailenin yüksek kiraları artık karşılayamaması ekleniyor.
+geschweige denn | hele hele, kaldı ki | ifade | Er kann kaum Englisch sprechen, geschweige denn einen Vortrag halten. | Zorla İngilizce konuşabiliyor, kaldı ki sunum yapsın.
+## Karşıtlık
+hingegen | buna karşılık, oysa | zarf | Der Norden ist flach, der Süden hingegen ist gebirgig. | Kuzey düz, güney ise buna karşılık dağlık.
+demgegenüber | buna karşın, öte yandan | zarf | Die Einnahmen stiegen um zwei Prozent, demgegenüber wuchsen die Kosten um zehn Prozent. | Gelirler yüzde iki arttı, buna karşın maliyetler yüzde on büyüdü.
+vielmehr | aksine, daha ziyade | zarf | Es geht nicht um Geld, vielmehr geht es um gegenseitigen Respekt. | Mesele para değil, daha ziyade karşılıklı saygı.
+wiederum | ise, buna karşılık; yeniden | zarf | Meine Schwester liebt Berge, ich wiederum fahre lieber ans Meer. | Kız kardeşim dağları seviyor, ben ise denize gitmeyi tercih ediyorum.
+indes | oysa; bu arada (yazı dili) | zarf | Die Regierung versprach Reformen, indes geschah monatelang nichts. | Hükümet reform sözü verdi, oysa aylarca hiçbir şey olmadı.
+ganz im Gegenteil | tam aksine | ifade | Die Lage hat sich nicht verbessert, ganz im Gegenteil, sie ist noch schlimmer geworden. | Durum düzelmedi, tam aksine daha da kötüleşti.
+dagegen | buna karşılık | zarf | Im Sommer ist es hier sehr heiß, im Winter dagegen relativ mild. | Burada yazın çok sıcak, kışın ise görece ılıman.
+auf der einen Seite | bir yandan | ifade | Auf der einen Seite will sie Karriere machen, auf der anderen eine Familie gründen. | Bir yandan kariyer yapmak, öte yandan aile kurmak istiyor.
+während hingegen | -iken öte yandan | ifade | Die Jüngeren nutzen vor allem soziale Medien, während hingegen Ältere lieber Zeitung lesen. | Gençler özellikle sosyal medyayı kullanırken yaşlılar öte yandan gazete okumayı tercih ediyor.
+statt dessen | onun yerine | ifade | Das Konzert fiel aus, statt dessen gab es eine kostenlose Lesung im Park. | Konser iptal oldu, onun yerine parkta ücretsiz bir okuma etkinliği vardı.
+## Taviz bildirenler
+gleichwohl | yine de, buna rağmen | zarf | Die Kritik ist berechtigt, gleichwohl sollte man die Erfolge nicht übersehen. | Eleştiri haklı, yine de başarıları göz ardı etmemek gerekir.
+nichtsdestotrotz | her şeye rağmen | zarf | Das Wetter war schlecht, nichtsdestotrotz kamen Tausende zum Festival. | Hava kötüydü, her şeye rağmen binlerce kişi festivale geldi.
+wenngleich | -se de, her ne kadar | bağlaç | Das Hotel war sauber, wenngleich die Zimmer etwas klein waren. | Odalar biraz küçük olsa da otel temizdi.
+obgleich | -dığı hâlde, rağmen | bağlaç | Obgleich er sich große Mühe gab, bestand er die Prüfung nicht. | Çok çaba göstermesine rağmen sınavı geçemedi.
+zwar | gerçi, her ne kadar | zarf | Das Auto ist zwar alt, fährt aber noch absolut zuverlässig. | Araba gerçi eski ama hâlâ son derece güvenilir çalışıyor.
+immerhin | hiç değilse, yine de | zarf | Wir haben verloren, aber immerhin haben wir ein Tor geschossen. | Kaybettik ama hiç değilse bir gol attık.
+wenn auch | -se de, gerçi | bağlaç | Das Ergebnis war ein Erfolg, wenn auch ein knapper und teuer erkaufter. | Sonuç bir başarıydı, gerçi kıl payı ve pahalıya mal olmuş bir başarı.
+selbst wenn | -se bile | bağlaç | Selbst wenn es regnet, findet das Konzert im Freien statt. | Yağmur yağsa bile konser açık havada yapılacak.
+trotz allem | her şeye rağmen | ifade | Trotz allem bin ich froh, dass wir diese Reise gemacht haben. | Her şeye rağmen bu yolculuğu yaptığımız için memnunum.
+ungeachtet dessen | buna aldırmadan, buna rağmen | ifade | Die Ärzte rieten ab, ungeachtet dessen setzte er die Tour fort. | Doktorlar karşı çıktı, buna rağmen turu sürdürdü.
+## Sonuç ve çıkarım
+mithin | dolayısıyla, demek ki | zarf | Alle Bedingungen sind erfüllt, mithin ist der Vertrag gültig. | Tüm koşullar yerine gelmiş, dolayısıyla sözleşme geçerlidir.
+demnach | buna göre | zarf | Die Unterschrift ist gefälscht, demnach ist das Testament ungültig. | İmza sahte, buna göre vasiyetname geçersiz.
+ergo | ergo, yani, şu hâlde | zarf | Ich denke, ergo bin ich, sagte schon Descartes. | Düşünüyorum, şu hâlde varım, demişti Descartes.
+insofern | bu bakımdan, o ölçüde | zarf | Er hat sich entschuldigt, insofern ist der Fall für mich erledigt. | Özür diledi, bu bakımdan mesele benim için kapanmıştır.
+dementsprechend | buna uygun olarak | zarf | Die Nachfrage war gering, dementsprechend niedrig fielen die Preise aus. | Talep düşüktü, buna uygun olarak fiyatlar da düşük oldu.
+letztlich | sonuçta | zarf | Letztlich entscheidet der Kunde, welches Produkt erfolgreich ist. | Sonuçta hangi ürünün başarılı olacağına müşteri karar verir.
+sonach | buna göre, dolayısıyla | zarf | Die Frist ist abgelaufen, sonach ist eine Beschwerde nicht mehr möglich. | Süre doldu, dolayısıyla artık şikâyet mümkün değil.
+daraus folgt | buradan çıkar ki | ifade | Daraus folgt, dass wir die Planung grundlegend überarbeiten müssen. | Buradan planlamayı kökten gözden geçirmemiz gerektiği sonucu çıkar.
+zur Folge haben | sonucunu doğurmak | ifade | Die Verspätung hatte zur Folge, dass wir den Anschluss verpassten. | Gecikme aktarmayı kaçırmamız sonucunu doğurdu.
+schlussendlich | nihayetinde | zarf | Schlussendlich haben wir uns doch für das kleinere Auto entschieden. | Nihayetinde daha küçük arabada karar kıldık.
+## Açıklama ve örnekleme
+sprich | yani, demek ki | zarf | Wir treffen uns am Wochenende, sprich am Samstag oder Sonntag. | Hafta sonu buluşuyoruz, yani cumartesi ya da pazar.
+will heißen | demek oluyor ki, yani | ifade | Der Chef ist im Urlaub, will heißen, wir können erst nächste Woche entscheiden. | Şef tatilde, demek oluyor ki ancak gelecek hafta karar verebiliriz.
+beispielsweise | örneğin | zarf | Viele Tiere, beispielsweise Bären und Igel, halten einen Winterschlaf. | Ayılar ve kirpiler gibi birçok hayvan kış uykusuna yatar.
+exemplarisch | örnek olarak | sıfat | Ich möchte das Problem exemplarisch an einem einzigen Fall erläutern. | Sorunu örnek olarak tek bir vaka üzerinden açıklamak istiyorum.
+namentlich | özellikle, adıyla | zarf | Mehrere Länder, namentlich Österreich und die Schweiz, haben protestiert. | Birçok ülke, özellikle Avusturya ve İsviçre, protesto etti.
+anders ausgedrückt | başka bir deyişle | ifade | Der Umsatz ist gesunken, anders ausgedrückt, wir haben ein ernstes Problem. | Ciro düştü, başka bir deyişle ciddi bir sorunumuz var.
+genauer gesagt | daha doğrusu, tam olarak | ifade | Wir treffen uns im Frühling, genauer gesagt am zweiten Wochenende im April. | İlkbaharda buluşuyoruz, daha doğrusu nisanın ikinci hafta sonu.
+das heißt | yani | ifade | Die Bibliothek ist vom ersten bis dritten Mai, das heißt über das lange Wochenende, geschlossen. | Kütüphane bir mayıstan üç mayısa kadar, yani uzun hafta sonu boyunca kapalı.
+zur Veranschaulichung | somutlaştırmak için | ifade | Zur Veranschaulichung zeige ich Ihnen eine kurze Grafik. | Somutlaştırmak için size kısa bir grafik göstereyim.
+im Klartext | açık konuşmak gerekirse | ifade | Im Klartext heißt das: Die Hälfte der Stellen wird gestrichen. | Açık konuşmak gerekirse bu, kadroların yarısının kaldırılacağı anlamına geliyor.
+## Vurgulama ve sınırlama
+insbesondere | özellikle | zarf | Insbesondere ältere Menschen sind von der Hitze stark betroffen. | Özellikle yaşlılar sıcaktan çok etkileniyor.
+vornehmlich | başlıca, öncelikle | zarf | Die Ausstellung zeigt vornehmlich Werke aus dem achtzehnten Jahrhundert. | Sergi başlıca on sekizinci yüzyıldan eserler sergiliyor.
+zumindest | en azından | zarf | Zumindest hättest du mir eine kurze Nachricht schicken können. | En azından bana kısa bir mesaj gönderebilirdin.
+wohlgemerkt | dikkat edin, unutmayın ki | zarf | Er hat, wohlgemerkt, das Studium in nur vier Semestern abgeschlossen. | Unutmayın ki üniversiteyi sadece dört dönemde bitirdi.
+lediglich | sadece, yalnızca | zarf | Lediglich drei von zwanzig Teilnehmern haben die Prüfung bestanden. | Yirmi katılımcıdan yalnızca üçü sınavı geçti.
+ausschließlich | yalnızca, sadece | zarf | Der Parkplatz ist ausschließlich für Kunden des Supermarkts bestimmt. | Otopark yalnızca süpermarketin müşterileri içindir.
+eigens | özel olarak, sırf bunun için | zarf | Für die Hochzeit ist ihre Tante eigens aus Kanada angereist. | Teyzesi düğün için sırf bu yüzden Kanada'dan geldi.
+vor allem | her şeyden önce, özellikle | ifade | Vor allem im Winter leiden viele Menschen unter Müdigkeit. | Özellikle kışın birçok insan yorgunluk çekiyor.
+allenfalls | olsa olsa, en fazla | zarf | Mit diesen Mitteln lässt sich das Problem allenfalls kurzfristig lösen. | Bu imkânlarla sorun olsa olsa kısa vadeli çözülebilir.
+schlechterdings | kesinlikle, tamamen (yazı dili) | zarf | Eine solche Lösung ist unter den gegebenen Umständen schlechterdings unmöglich. | Mevcut koşullarda böyle bir çözüm kesinlikle imkânsız.
+## Metni yapılandırma
+zunächst | önce, ilk olarak | zarf | Zunächst möchte ich Ihnen allen für Ihr Kommen danken. | Önce hepinize geldiğiniz için teşekkür etmek istiyorum.
+zum einen ... zum anderen | bir yandan ... öte yandan | ifade | Zum einen fehlt das Geld, zum anderen fehlen die Fachkräfte. | Bir yandan para eksik, öte yandan uzman personel.
+im Anschluss daran | bunun ardından | ifade | Im Anschluss daran gibt es einen kleinen Empfang im Foyer. | Bunun ardından fuayede küçük bir resepsiyon var.
+eingangs | başta, girişte | zarf | Wie eingangs erwähnt, ist das Thema äußerst komplex. | Başta belirtildiği gibi konu son derece karmaşık.
+zum Schluss kommend | sona gelirken | ifade | Zum Schluss kommend möchte ich noch auf eine wichtige Frage eingehen. | Sona gelirken önemli bir soruya daha değinmek istiyorum.
+erstens | birincisi, ilk olarak | zarf | Erstens ist das Projekt zu teuer, zweitens dauert es zu lange. | Birincisi proje çok pahalı, ikincisi çok uzun sürüyor.
+nachstehend | aşağıda (resmî) | zarf | Nachstehend finden Sie die wichtigsten Informationen zur Anmeldung. | Kayıtla ilgili en önemli bilgileri aşağıda bulabilirsiniz.
+wie bereits erwähnt | daha önce belirtildiği gibi | ifade | Wie bereits erwähnt, beginnt die Veranstaltung um neunzehn Uhr. | Daha önce belirtildiği gibi etkinlik saat on dokuzda başlıyor.
+an dieser Stelle | bu noktada | ifade | An dieser Stelle möchte ich kurz auf die Kosten eingehen. | Bu noktada kısaca maliyetlere değinmek istiyorum.
+um auf ... zurückzukommen | ...e dönecek olursak | ifade | Um auf Ihre Frage zurückzukommen, wir planen die Eröffnung im Mai. | Sorunuza dönecek olursak, açılışı mayısta planlıyoruz.
+## Özetleme
+unterm Strich betrachtet | sonuçta bakıldığında | ifade | Unterm Strich betrachtet war es trotz des Regens ein gelungener Ausflug. | Sonuçta bakıldığında yağmura rağmen başarılı bir geziydi.
+kurzum | kısacası | zarf | Das Essen war kalt, der Service langsam, kurzum, ein enttäuschender Abend. | Yemek soğuktu, servis yavaştı, kısacası hayal kırıklığı yaratan bir akşamdı.
+summa summarum | toplamda, sonuç olarak | ifade | Summa summarum haben wir im letzten Jahr gut gewirtschaftet. | Sonuç olarak geçen yıl iyi bir mali yönetim sergiledik.
+unterm Strich | sonuçta, net olarak | ifade | Unterm Strich hat sich die teure Investition doch gelohnt. | Sonuçta pahalı yatırım yine de karşılığını verdi.
+in groben Zügen | ana hatlarıyla | ifade | In groben Zügen kann ich Ihnen den Plan schon heute erklären. | Planı size ana hatlarıyla bugün açıklayabilirim.
+zusammengefasst | özetle | zarf | Zusammengefasst lässt sich sagen, dass das Projekt ein Erfolg war. | Özetle projenin bir başarı olduğu söylenebilir.
+auf den Punkt gebracht | özetle, tek cümleyle | ifade | Auf den Punkt gebracht: Wir brauchen mehr Zeit und mehr Geld. | Tek cümleyle: Daha fazla zamana ve paraya ihtiyacımız var.
+in aller Kürze | çok kısaca | ifade | In aller Kürze möchte ich die wichtigsten Ergebnisse vorstellen. | Çok kısaca en önemli sonuçları sunmak istiyorum.
+letzten Endes | eninde sonunda | ifade | Letzten Endes musst du selbst entscheiden, was du willst. | Eninde sonunda ne istediğine kendin karar vermelisin.
+im Endeffekt | sonuçta | ifade | Im Endeffekt war die günstigere Lösung sogar die bessere. | Sonuçta daha ucuz çözüm daha iyisiydi bile.
+## Görüş belirteçleri
+meines Erachtens | kanımca | ifade | Meines Erachtens ist dieser Vorschlag nicht zu Ende gedacht. | Kanımca bu öneri sonuna kadar düşünülmemiş.
+aus heutiger Sicht | bugünden bakıldığında | ifade | Aus heutiger Sicht war die damalige Entscheidung ein großer Fehler. | Bugünden bakıldığında o zamanki karar büyük bir hataydı.
+meiner Ansicht nach | görüşüme göre | ifade | Meiner Ansicht nach sollten wir noch etwas abwarten. | Görüşüme göre biraz daha beklemeliyiz.
+es liegt auf der Hand | açıktır ki, ortada | ifade | Es liegt auf der Hand, dass wir mehr Personal brauchen. | Daha fazla personele ihtiyacımız olduğu ortada.
+ich bin der Auffassung | kanaatindeyim | ifade | Ich bin der Auffassung, dass jeder eine zweite Chance verdient. | Herkesin ikinci bir şansı hak ettiği kanaatindeyim.
+ich vertrete die Ansicht | görüşündeyim, savunuyorum | ifade | Ich vertrete die Ansicht, dass Bildung kostenlos sein sollte. | Eğitimin ücretsiz olması gerektiği görüşündeyim.
+offen gestanden | açıkçası, itiraf etmek gerekirse | ifade | Offen gestanden habe ich von dem Projekt mehr erwartet. | Açıkçası projeden daha fazlasını bekliyordum.
+streng genommen | kesin konuşmak gerekirse | ifade | Streng genommen ist die Tomate kein Gemüse, sondern eine Frucht. | Kesin konuşmak gerekirse domates sebze değil meyvedir.
+genau genommen | aslında, tam olarak bakılırsa | ifade | Genau genommen haben wir das Ziel nur knapp verfehlt. | Aslında hedefi kıl payı kaçırdık.
+salopp formuliert | kaba tabirle | ifade | Salopp formuliert hat die Firma das Geld zum Fenster hinausgeworfen. | Kaba tabirle şirket parayı sokağa attı.
+## Kesinlik derecesi
+zweifelsohne | şüphesiz | zarf | Sie ist zweifelsohne die beste Kandidatin für diese Stelle. | Şüphesiz bu pozisyon için en iyi aday o.
+unbestritten | tartışmasız | sıfat | Unbestritten ist, dass der Klimawandel vom Menschen verursacht wird. | İklim değişikliğinin insan kaynaklı olduğu tartışmasız.
+offenkundig | apaçık, besbelli | sıfat | Die Angaben in seinem Lebenslauf sind offenkundig falsch. | Özgeçmişindeki bilgiler besbelli yanlış.
+mutmaßlich | muhtemel, şüpheli | sıfat | Die Polizei hat den mutmaßlichen Täter am Bahnhof festgenommen. | Polis şüpheli faili istasyonda gözaltına aldı.
+voraussichtlich | tahminen, muhtemelen | zarf | Die Sitzung wird voraussichtlich bis spät in den Abend dauern. | Toplantı tahminen akşam geç saatlere kadar sürecek.
+womöglich | belki de, muhtemelen | zarf | Womöglich hat er die Nachricht noch gar nicht gelesen. | Belki de mesajı henüz hiç okumadı.
+schwerlich | pek mümkün değil, zor | zarf | Diese dürftige Erklärung wird die Kritiker im Parlament schwerlich überzeugen. | Bu yetersiz açıklama meclisteki eleştirmenleri pek ikna edemeyecek.
+mit Sicherheit | kesinlikle | ifade | Mit Sicherheit wird das nicht die letzte Krise gewesen sein. | Bu kesinlikle son kriz olmayacak.
+aller Voraussicht nach | büyük olasılıkla | ifade | Aller Voraussicht nach wird die Brücke im Herbst fertig. | Köprü büyük olasılıkla sonbaharda bitecek.
+keineswegs | hiçbir şekilde, asla | zarf | Das Problem ist keineswegs gelöst, wie manche behaupten. | Sorun bazılarının iddia ettiği gibi hiçbir şekilde çözülmüş değil.
