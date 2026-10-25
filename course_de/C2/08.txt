@@ -7,7 +7,7 @@ Mannomann! | of be!, vay be! | ifade | Mannomann, das war heute aber ein anstren
 Ach du Schande! | eyvah!, rezalet! | ifade | Ach du Schande, ich habe den Geburtstag meiner Mutter vergessen! | Eyvah, annemin doğum gününü unuttum!
 Ach du liebe Zeit! | aman Tanrım! | ifade | Ach du liebe Zeit, wie sieht denn die Küche aus? | Aman Tanrım, mutfak ne hâlde böyle?
 Jetzt reicht's! | yeter artık! | ifade | Jetzt reicht's, ich will kein einziges Wort mehr von euch hören! | Yeter artık, sizden tek kelime daha duymak istemiyorum!
-Na warte! | dur sen!, görürsün sen! | ifade | Na warte, wenn ich dich erwische, kannst du was erleben! | Dur sen, seni yakalarsam görürsün gününü!
+Na, du kannst was erleben! | gününü göreceksin! | ifade | Na, du kannst was erleben, wenn ich dich noch einmal im Garten erwische! | Seni bir daha bahçede yakalarsam gününü görürsün!
 Um Himmels willen! | Allah aşkına! | ifade | Um Himmels willen, fahr doch nicht so schnell auf dieser Straße! | Allah aşkına, bu yolda o kadar hızlı gitme!
 Herrje! | eyvah!, aman! | ifade | Herrje, jetzt ist mir auch noch der Kaffee übergelaufen. | Aman, bir de kahve taştı şimdi.
 ## Kaba talimatlar
@@ -30,7 +30,7 @@ Echt krass! | vay be, inanılmaz! | ifade | Echt krass, er ist in nur drei Stund
 Nicht dein Ernst! | ciddi olamazsın! | ifade | Du willst wirklich bei diesem Wetter campen? Nicht dein Ernst! | Bu havada gerçekten kamp mı yapmak istiyorsun? Ciddi olamazsın!
 Ach du dickes Ei! | hay aksi!, eyvah! | ifade | Ach du dickes Ei, der Zug ist ja schon weg! | Eyvah, tren çoktan gitmiş!
 Jetzt schlägt's dreizehn! | bu kadarı da fazla! | ifade | Jetzt schlägt's dreizehn, du hast schon wieder mein Auto ohne zu fragen genommen! | Bu kadarı da fazla, yine sormadan arabamı almışsın!
-Ich glaub, ich spinne! | rüya mı görüyorum!, kafayı yiyeceğim! | ifade | Ich glaub, ich spinne, der Hund hat den ganzen Kuchen gefressen! | Kafayı yiyeceğim, köpek bütün pastayı yemiş!
+Ich werd verrückt! | deli olacağım!, inanamıyorum! | ifade | Ich werd verrückt, der Hund hat den ganzen Kuchen vom Tisch gefressen! | İnanamıyorum, köpek bütün pastayı masadan yemiş!
 Da lachen ja die Hühner! | buna tavuklar bile güler! | ifade | Du und pünktlich? Da lachen ja die Hühner! | Sen mi dakik? Buna tavuklar bile güler!
 ## İnsanları tanımlama
 der Aufschneider (die Aufschneider) | palavracı | isim (e) | Der Aufschneider erzählt jedem, er sei früher Profifußballer gewesen. | Palavracı herkese eskiden profesyonel futbolcu olduğunu anlatıyor.
@@ -51,7 +51,7 @@ verpfeifen (verpfiff, verpfiffen) | ispiyonlamak | fiil · düzensiz | Er hat se
 anpflaumen | laf sokmak, takılmak | fiil | Hör auf, mich ständig wegen meiner Frisur anzupflaumen! | Saç modelim yüzünden sürekli bana laf sokmayı bırak!
 anmotzen | terslemek, çıkışmak | fiil | Der Busfahrer hat mich angemotzt, weil ich kein Kleingeld hatte. | Bozuk param olmadığı için otobüs şoförü beni tersledi.
 rumhängen | aylak aylak takılmak | fiil | Statt zu lernen, hängt er den ganzen Tag vor dem Fernseher rum. | Ders çalışmak yerine bütün gün televizyonun önünde aylak aylak takılıyor.
-abkassieren | kazıklamak; para toplamak | fiil | Die Taxifahrer am Flughafen kassieren die Touristen gern ab. | Havalimanındaki taksiciler turistleri kazıklamayı sever.
+neppen | kazıklamak (turisti) | fiil | In der Bar am Hafen wurden die Touristen beim Bezahlen ordentlich geneppt. | Limandaki barda turistler hesapta fena kazıklandı.
 verkloppen | okkalı dövmek; ucuza satmak | fiil | Seine alte Gitarre hat er auf dem Flohmarkt für zwanzig Euro verkloppt. | Eski gitarını bit pazarında yirmi avroya okutup sattı.
 rumnörgeln | sürekli söylenmek | fiil | Er nörgelt den ganzen Tag am Essen rum, obwohl es ihm schmeckt. | Beğenmesine rağmen bütün gün yemeğe söylenip duruyor.
 ## Kaba sıfatlar
@@ -66,8 +66,8 @@ beknackt | saçma sapan | sıfat | So eine beknackte Ausrede habe ich ja noch ni
 abgedreht | çılgın, acayip | sıfat | Der Film ist total abgedreht, aber irgendwie genial. | Film tamamen acayip ama bir şekilde dâhiyane.
 mies | berbat, kötü | sıfat | Heute habe ich richtig miese Laune, sprich mich besser nicht an. | Bugün gerçekten berbat bir ruh hâlindeyim, bana hiç bulaşmasan iyi olur.
 ## İş, para ve hapis argosu
-malochen | ağır işte çalışmak (Ruhr argosu) | fiil | Mein Opa hat vierzig Jahre unter Tage im Bergwerk malocht. | Dedem kırk yıl madende yerin altında ağır işte çalıştı.
-schuften | deli gibi çalışmak | fiil | Wir haben das ganze Wochenende im Garten geschuftet. | Bütün hafta sonu bahçede deli gibi çalıştık.
+sich abrackern | didinip durmak | fiil · dönüşlü | Mein Opa hat sich vierzig Jahre unter Tage im Bergwerk abgerackert. | Dedem kırk yıl madende yerin altında didinip durdu.
+sich abschuften | kendini paralamak (çalışarak) | fiil · dönüşlü | Wir haben uns das ganze Wochenende im Garten abgeschuftet. | Bütün hafta sonu bahçede kendimizi paraladık.
 ackern | çok çalışmak, didinmek | fiil | Für ein gutes Abitur musste sie zwei Jahre lang richtig ackern. | İyi bir lise bitirme notu için iki yıl boyunca gerçekten didinmek zorunda kaldı.
 rackern | durmadan çalışmak | fiil | Die Bäuerin rackert von morgens bis abends auf dem Hof. | Çiftçi kadın sabahtan akşama kadar çiftlikte durmadan çalışıyor.
 die Maloche | ağır iş, angarya | isim (d) | Nach der Maloche trinken die Kumpel ein Bier an der Trinkhalle. | Ağır işten sonra madenciler büfede bir bira içiyor.
@@ -99,7 +99,7 @@ die Klappe (die Klappen) | çene, ağız (argo) | isim (d) | Er hat eine große 
 die Glubschaugen | patlak gözler | isim (çoğul) | Mit seinen Glubschaugen starrte der Junge auf die Torte. | Çocuk patlak gözleriyle pastaya bakakaldı.
 die Plauze | göbek (Doğu Almanya argosu) | isim (d) | Vom vielen Bier hat er sich eine ordentliche Plauze angefuttert. | Çok bira içmekten epey bir göbek bağladı.
 ## Konuşma tepkileri
-Mir doch egal! | bana ne!, umurumda değil! | ifade | Ob es regnet oder nicht, mir doch egal, ich bleibe zu Hause. | Yağmur yağsa da yağmasa da bana ne, evde kalıyorum.
+Schnurz und piepe! | hiç umurumda değil! | ifade | Ob es regnet oder nicht, das ist mir schnurz und piepe, ich bleibe zu Hause. | Yağmur yağsa da yağmasa da hiç umurumda değil, evde kalıyorum.
 die Schnauze voll haben | bıkıp usanmak (kaba) | deyim | Ich habe die Schnauze voll von den ständigen Verspätungen der Bahn. | Trenin sürekli gecikmelerinden bıkıp usandım.
 Ist mir wurscht! | bana vız gelir! | ifade | Was die Nachbarn über meinen Garten denken, ist mir wurscht. | Komşuların bahçem hakkında ne düşündüğü bana vız gelir.
 Was geht ab? | ne var ne yok?, naber? | ifade | Hey, lange nicht gesehen, was geht ab bei dir? | Hey, uzun zamandır görüşmedik, ne var ne yok?
