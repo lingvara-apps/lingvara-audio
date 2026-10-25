@@ -1,0 +1,45 @@
+# DIALOG: Hangzhou'da bir proje yılı | Çince C1 konuşmaları: akademi, müzakere, şantiye, edebiyat | Zhao Qing | Mehmet
+## Sempozyumdan sonra
+A | 梅赫迈特，你刚才的报告很精彩，尤其是关于抗震设计的那部分，引起了不少讨论。 | Mehmet, az önceki sunumun harikaydı, özellikle depreme dayanıklı tasarımla ilgili kısım epey tartışma yarattı.
+B | 谢谢。不过说实在的，我的样本还不够大，有些结论还有待进一步验证。 | Teşekkürler. Ama doğrusunu söylemek gerekirse örneklemim henüz yeterince büyük değil, bazı sonuçların daha fazla doğrulanması gerekiyor.
+A | 你能坦率地承认研究的局限性，这本身就很难得。有几位评委私下也这么说。 | Araştırmanın sınırlılıklarını açık yüreklilikle kabul edebilmen başlı başına takdire değer. Birkaç jüri üyesi de kendi aralarında bunu söyledi.
+B | 那位戴眼镜的教授好像不太同意我的看法，他说我的模型过于理想化了。 | Gözlüklü profesör görüşüme pek katılmıyor gibiydi, modelimin fazla idealize olduğunu söyledi.
+A | 他一向治学严谨，对谁都这么较真，你别往心里去。他的意见其实很值得商榷，但也不无道理。 | O her zaman çok titizdir, herkese karşı böyle mızıkçıdır, sen kafana takma. Görüşü aslında tartışmaya açık ama tamamen haksız da değil.
+B | 我也这么想。我打算把土耳其和中国的地震数据放在同一个框架里比较，这样论据会更充分。 | Ben de öyle düşünüyorum. Türkiye ve Çin'in deprem verilerini aynı çerçevede karşılaştırmayı planlıyorum, böylece dayanaklarım daha güçlü olur.
+A | 这个思路好。两国都处在地震带上，对比研究可以填补不少空白。 | İyi fikir. İki ülke de deprem kuşağında, karşılaştırmalı bir araştırma epey boşluğu doldurabilir.
+B | 问题是数据来源不统一，有的是公开文献，有的是我们公司内部的监测数据。 | Sorun şu ki veri kaynakları farklı; bir kısmı açık literatürden, bir kısmı şirketimizin iç izleme verilerinden.
+A | 那就在方法论部分把数据的出处和处理方式交代清楚，审稿人最看重这一点。 | O hâlde yöntem bölümünde verilerin kaynağını ve nasıl işlendiğini açıkça belirt; hakemler en çok buna dikkat eder.
+B | 好主意。等初稿写完了，还得麻烦你帮我看一看。 | İyi fikir. İlk taslağı bitirince bir göz atman için yine seni rahatsız edeceğim.
+## Sözleşme müzakeresi
+A | 关于付款方式，我们公司的底线是预付款不超过合同总额的百分之二十。 | Ödeme şekli konusunda şirketimizin alt sınırı, avansın sözleşme bedelinin yüzde yirmisini aşmaması.
+B | 我理解贵方的顾虑。但是鉴于材料价格波动很大，百分之二十恐怕很难覆盖前期采购的成本。 | Tarafınızın çekincelerini anlıyorum. Ancak malzeme fiyatlarındaki büyük dalgalanmalar göz önüne alındığında yüzde yirmi ilk aşamadaki satın alma maliyetini karşılamakta zorlanır.
+A | 那你们的意思是？ | Peki sizin öneriniz nedir?
+B | 我们建议预付百分之三十，其余部分按工程进度款支付，每月结算一次。 | Yüzde otuz avans, kalanın da işin ilerleyişine göre hakediş olarak her ay ödenmesini öneriyoruz.
+A | 百分之三十的话，我需要向董事会请示，我个人做不了主。 | Yüzde otuz için yönetim kuruluna danışmam gerekiyor, kendi başıma karar veremem.
+B | 当然。另外，合同里的违约条款我们也希望再讨论一下，现在的违约金比例对乙方明显不公平。 | Elbette. Ayrıca sözleşmedeki ihlal maddesini de bir kez daha konuşmak istiyoruz; mevcut cezai şart oranı yüklenici açısından açıkça adaletsiz.
+A | 这一点我们可以让步，但前提是工期必须有保障。如果因为乙方原因延期，责任还是要追究的。 | Bu konuda geri adım atabiliriz ama şartımız iş süresinin güvence altında olması. Yüklenici kaynaklı bir gecikme olursa sorumluluk yine aranacaktır.
+B | 这个没问题。不过如果遇到不可抗力，或者是业主提出工程变更导致的延误，应当除外。 | Bu sorun değil. Ancak mücbir sebep ya da işverenin talep ettiği proje değişikliğinden kaynaklanan gecikmeler bunun dışında tutulmalı.
+A | 合情合理。那我们就把这几点写进补充协议，下周再正式敲定。 | Gayet makul. O hâlde bu birkaç noktayı ek protokole yazalım, gelecek hafta resmen karara bağlarız.
+B | 好的，希望我们的合作能实现双赢。会议纪要我今天下午整理好发给您。 | Tamam, umarım iş birliğimiz iki taraf için de kazançlı olur. Toplantı tutanağını bu öğleden sonra hazırlayıp size gönderirim.
+## Şantiyede ek işler
+A | 梅工，三号楼地下室的防水层昨天检查出了问题，监理要求返工。 | Mehmet Bey, üç numaralı binanın bodrumundaki su yalıtımında dün sorun çıktı, yapı denetim yeniden yapılmasını istiyor.
+B | 我看了照片，主要是施工缝的处理不到位。这部分是我们的责任，必须马上整改。 | Fotoğraflara baktım, asıl sorun derz noktalarının düzgün işlenmemesi. Bu kısım bizim sorumluluğumuzda, hemen düzeltmeliyiz.
+A | 还有一件事。业主昨天临时要求把车库的层高提高三十厘米，这算不算工程变更？ | Bir şey daha var. İşveren dün son dakikada otoparkın kat yüksekliğinin otuz santim artırılmasını istedi; bu proje değişikliği sayılır mı?
+B | 当然算。这会涉及结构、管线和工期好几个方面，必须先办理变更手续，不能口头答应。 | Tabii ki sayılır. Bu iş taşıyıcı sistemi, tesisatı ve iş süresini etkiler; önce değişiklik işlemlerini yapmak gerekir, sözlü kabul edilemez.
+A | 可是业主那边催得很急，说先干起来，手续以后再补。 | Ama işveren çok sıkıştırıyor, "önce başlayın, evrakı sonra tamamlarız" diyor.
+B | 这种情况我们吃过亏。上个项目就是先干后签，最后结算的时候对方不认账，白白损失了几十万。 | Böyle bir durumda daha önce zarar ettik. Geçen projede önce işi yapıp sonra imzalamıştık; hesap kesiminde karşı taraf kabul etmedi, yüz binlerce yuan boşa gitti.
+A | 那你的意思是先停下来等？ | Yani önce durup beklememizi mi söylüyorsun?
+B | 不用完全停。我们可以先做不受影响的部分，同时让技术部算出增加的工程量，尽快办好现场签证。 | Tamamen durmaya gerek yok. Etkilenmeyen kısımlarla devam ederken teknik ofisin artan iş miktarını hesaplamasını sağlarız ve sahadaki ek iş tutanağını bir an önce imzalatırız.
+A | 明白了。我今天就给业主发一份工作联系函，把费用和工期的影响都写清楚。 | Anladım. Bugün işverene bir yazı göndereyim, maliyete ve süreye etkisini açıkça yazayım.
+B | 对，白纸黑字最可靠。另外记得抄送给总工和监理，免得以后扯皮。 | Evet, en güvenilir şey yazılı belgedir. Bir de teknik müdüre ve yapı denetime bilgi olarak gönder ki ileride işi yokuşa sürmesinler.
+## Bir roman üzerine
+A | 你最近在读什么书？上次你说想挑战一部中文原著。 | Son zamanlarda ne okuyorsun? Geçen sefer Çince bir eseri aslından okumayı denemek istediğini söylemiştin.
+B | 我在读《骆驼祥子》。语言看似朴实，但读起来特别有力量，常常让我百感交集。 | "Deve Xiangzi"yi okuyorum. Dili sade görünüyor ama okurken çok güçlü bir etki bırakıyor; sık sık içimde binbir duygu birbirine karışıyor.
+A | 老舍的叙事很冷静，越是悲惨的情节，他越写得不动声色。 | Lao She'nin anlatımı çok soğukkanlıdır; olay ne kadar trajikse o kadar istifini bozmadan yazar.
+B | 对，这种克制反而让人更难受。祥子一次次努力，又一次次失去一切，最后连希望也没有了。 | Evet, bu ölçülülük insanı daha da sarsıyor. Xiangzi defalarca çabalıyor, defalarca her şeyini kaybediyor ve sonunda umudu bile kalmıyor.
+A | 有评论家认为这部小说的主旨是揭示旧社会如何吞噬一个普通人的奋斗，你怎么理解？ | Bazı eleştirmenler bu romanın ana fikrinin eski toplumun sıradan bir insanın çabasını nasıl yuttuğunu göstermek olduğunu söylüyor; sen nasıl yorumluyorsun?
+B | 我觉得这里面既有那个时代的北京，也有一种普遍的人性。土耳其读者应该也能产生共鸣。 | Bence burada hem o dönemin Pekin'i hem de evrensel bir insanlık var. Türk okurlar da bence kendilerinden bir şey bulacaktır.
+A | 那你有没有想过把它和土耳其的小说对比一下？说不定能写一篇很有意思的文章。 | Peki onu bir Türk romanıyla karşılaştırmayı hiç düşündün mü? Belki çok ilginç bir yazı çıkar.
+B | 想过。我觉得在描写普通人的苦难方面，两国文学有不少相通之处。 | Düşündüm. Bence sıradan insanların çektiği acıları anlatma konusunda iki ülkenin edebiyatı arasında pek çok ortak nokta var.
+A | 不过译本和原著的差别也不容忽视，有些言外之意是很难翻译的。 | Ama çeviriyle aslı arasındaki farkı da göz ardı etmemek gerek; satır arasındaki bazı anlamları çevirmek çok zor.
+B | 确实如此。所以我才坚持读原著，虽然慢一点，但能体会到语言本身的味道。 | Kesinlikle öyle. Bu yüzden aslından okumakta ısrar ediyorum; biraz yavaş olsa da dilin kendi tadını alabiliyorum.
