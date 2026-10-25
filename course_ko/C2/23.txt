@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## İleri borsa terimleri
+공매도 (gongmaedo) | açığa satış | isim | 주가 하락을 예상한 투자자들이 공매도에 나섰다. | Hisse düşüşü bekleyen yatırımcılar açığa satışa yöneldi.
+선물 거래 (seonmul georae) | vadeli işlem | isim | 선물 거래는 큰 수익과 함께 큰 위험도 따른다. | Vadeli işlemler büyük kazancın yanında büyük risk de taşır.
+파생 상품 (pasaeng sangpum) | türev ürün | isim | 복잡한 파생 상품이 금융 위기의 원인이 되었다. | Karmaşık türev ürünler finans krizine yol açtı.
+상한가 (sanghanga) | tavan fiyat (günlük) | isim | 신약 개발 소식에 그 회사 주가가 상한가를 기록했다. | Yeni ilaç haberiyle o şirketin hissesi tavan yaptı.
+하한가 (hahanga) | taban fiyat (günlük) | isim | 회계 부정이 드러나자 주가는 하한가로 떨어졌다. | Muhasebe hilesi ortaya çıkınca hisse tabana vurdu.
+서킷 브레이커 (seokit beureikeo) | devre kesici (işlem durdurma) | isim | 주가가 폭락하자 서킷 브레이커가 발동되었다. | Hisseler çakılınca devre kesici devreye girdi.
+손절매 (sonjeolmae) | zararı kes (stop loss) | isim | 더 큰 손실을 막기 위해 손절매를 결정했다. | Daha büyük zararı önlemek için zarar-kes yapmaya karar verdim.
+종가 (jongga) | kapanış fiyatı | isim | 오늘 종가는 어제보다 이 퍼센트 올랐다. | Bugünkü kapanış fiyatı dünden yüzde iki yüksek.
+차익 실현 (chaik silhyeon) | kâr realizasyonu | isim | 주가가 오르자 차익 실현 매물이 쏟아졌다. | Hisseler yükselince kâr realizasyonu satışları arttı.
+우량주 (uryangju) | birinci sınıf hisse (blue chip) | isim | 초보 투자자에게는 우량주 장기 투자가 권장된다. | Yeni başlayan yatırımcılara birinci sınıf hisselere uzun vadeli yatırım önerilir.
+## Yatırım
+포트폴리오 (poteupollio) | portföy | isim | 그는 주식과 채권으로 포트폴리오를 구성했다. | Hisse ve tahvillerle bir portföy oluşturdu.
+분산 투자 (bunsan tuja) | riski dağıtarak yatırım | isim | 달걀을 한 바구니에 담지 말라는 말은 분산 투자를 뜻한다. | Yumurtaları aynı sepete koyma sözü riski dağıtarak yatırım demektir.
+장기 투자 (janggi tuja) | uzun vadeli yatırım | isim | 그는 단기 변동에 흔들리지 않고 장기 투자를 고수한다. | Kısa vadeli dalgalanmalara kapılmadan uzun vadeli yatırımda ısrar eder.
+단타 (danta) | kısa vadeli al-sat (gün içi işlem) | isim | 단타로 큰돈을 벌겠다는 생각은 위험하다. | Gün içi al-satla büyük para kazanma düşüncesi tehlikeli.
+수익률 (suingnyul) | getiri oranı | isim | 이 펀드의 연간 수익률은 칠 퍼센트였다. | Bu fonun yıllık getirisi yüzde yediydi.
+원금 보장 (wongeum bojang) | anapara garantisi | isim | 원금 보장 상품은 안전하지만 수익이 낮다. | Anapara garantili ürünler güvenli ama getirisi düşük.
+위험 자산 (wiheom jasan) | riskli varlık | isim | 경기가 불안하면 투자자들은 위험 자산을 피한다. | Ekonomi belirsizken yatırımcılar riskli varlıklardan kaçınır.
+안전 자산 (anjeon jasan) | güvenli liman varlık | isim | 위기 때마다 금이 안전 자산으로 주목받는다. | Her krizde altın güvenli liman olarak ilgi görür.
+채권 (chaegwon) | tahvil | isim | 안정적인 수익을 원해서 국채 같은 채권에 투자했다. | İstikrarlı getiri istediğim için devlet tahvili gibi tahvillere yatırım yaptım.
+복리 (bongni) | bileşik faiz | isim | 복리의 힘 덕분에 일찍 저축할수록 유리하다. | Bileşik faizin gücü sayesinde ne kadar erken biriktirirsen o kadar avantajlı.
+## Vergi
+양도 소득세 (yangdo sodeukse) | sermaye kazancı vergisi | isim | 집을 팔 때 생긴 차익에는 양도 소득세가 붙는다. | Ev satarken elde edilen kazanca sermaye kazancı vergisi uygulanır.
+종합 소득세 (jonghap sodeukse) | yıllık gelir vergisi beyannamesi | isim | 프리랜서는 오월에 종합 소득세를 신고해야 한다. | Serbest çalışanlar mayısta yıllık gelir vergisi beyannamesi vermelidir.
+상속세 (sangsokse) | veraset vergisi | isim | 막대한 상속세 때문에 회사를 매각하기도 한다. | Yüksek veraset vergisi yüzünden şirket satıldığı da olur.
+증여세 (jeungyeose) | bağış vergisi | isim | 자녀에게 큰돈을 주면 증여세를 내야 한다. | Çocuğa büyük para verilirse bağış vergisi ödenmelidir.
+원천 징수 (woncheon jingsu) | stopaj (kaynakta kesinti) | isim | 월급에서 세금이 원천 징수된다. | Vergi maaştan kaynakta kesilir.
+세무 조사 (semu josa) | vergi denetimi | isim | 그 회사는 탈세 의혹으로 세무 조사를 받았다. | O şirket vergi kaçırma şüphesiyle vergi denetiminden geçti.
+절세 (jeolse) | yasal vergi tasarrufu | isim | 연금 저축은 절세 효과가 크다. | Emeklilik birikimi yasal vergi tasarrufu açısından çok etkili.
+탈루 (tallu) | (gelir) beyan etmeme, vergi kaçağı | isim | 고소득자의 소득 탈루가 적발되었다. | Yüksek gelirlilerin beyan etmediği gelir tespit edildi.
+세금 폭탄 (segeum poktan) | vergi bombası (ani yüksek vergi) | isim | 집값이 오르면서 보유세가 세금 폭탄이 되었다는 불만이 나왔다. | Konut fiyatları artınca emlak vergisinin vergi bombasına dönüştüğü şikâyet edildi.
+비과세 (bigwase) | vergiden muaf | isim | 이 상품은 이자 소득이 비과세라서 인기가 많다. | Bu ürünün faiz geliri vergiden muaf olduğu için çok tutuluyor.
+## Kredi ve borç
+원리금 (wolligeum) | anapara ve faiz | isim | 매달 원리금을 갚느라 생활이 빠듯하다. | Her ay anapara ve faiz ödemekten geçim zorlaşıyor.
+거치 기간 (geochi gigan) | ödemesiz dönem | isim | 이 대출은 일 년 거치 기간 동안 이자만 내면 된다. | Bu kredide bir yıllık ödemesiz dönemde yalnızca faiz ödenir.
+중도 상환 (jungdo sanghwan) | erken ödeme (kredi) | isim | 대출을 중도 상환하면 수수료가 붙을 수 있다. | Krediyi erken kapatırsan komisyon çıkabilir.
+연대 보증 (yeondae bojeung) | müteselsil kefalet | isim | 친구의 연대 보증을 섰다가 빚을 떠안았다. | Arkadaşına müteselsil kefil olunca borç onun sırtına kaldı.
+채무 조정 (chaemu jojeong) | borç yapılandırma | isim | 은행과 채무 조정을 거쳐 상환 기간을 늘렸다. | Bankayla borç yapılandırması yaparak vadeyi uzattı.
+개인 회생 (gaein hoesaeng) | bireysel konkordato | isim | 빚을 감당할 수 없게 되자 그는 개인 회생을 신청했다. | Borcu taşıyamaz olunca bireysel konkordato başvurusu yaptı.
+신용 회복 (sinyong hoebok) | kredi notunu düzeltme | isim | 연체금을 다 갚고 신용 회복에 성공했다. | Gecikmiş borçları ödeyip kredi notunu düzeltmeyi başardı.
+가계 부채 (gagye buchae) | hane halkı borcu | isim | 가계 부채 증가는 경제의 뇌관으로 꼽힌다. | Hane halkı borcunun artışı ekonominin saatli bombası sayılıyor.
+이자 부담 (ija budam) | faiz yükü | isim | 금리가 오르면서 대출자들의 이자 부담이 커졌다. | Faizler yükselince borçluların faiz yükü arttı.
+대환 대출 (daehwan daechul) | borç kapatma kredisi | isim | 그는 낮은 금리의 대환 대출로 기존 빚을 갚았다. | Düşük faizli borç kapatma kredisiyle eski borçlarını ödedi.
+## Soyut fiiller
+견지하다 (gyeonjihada) | (tutumu) korumak, sürdürmek | fiil | 정부는 중립적인 입장을 견지했다. | Hükümet tarafsız tutumunu korudu.
+도외시하다 (dooesihada) | hiçe saymak, göz ardı etmek | fiil | 효율만 강조하고 인간의 존엄을 도외시해서는 안 된다. | Yalnızca verimliliği vurgulayıp insan onurunu hiçe saymamalı.
+경시하다 (gyeongsihada) | küçümsemek, hafife almak | fiil | 작은 위험이라도 경시하면 큰 사고로 이어진다. | Küçük bir riski bile hafife almak büyük kazaya yol açar.
+귀속되다 (gwisokdoeda) | ait olmak, mülkiyetine geçmek | fiil | 업무 중 만든 발명의 권리는 회사에 귀속된다. | Mesai sırasında yapılan buluşun hakları şirkete aittir.
+결부시키다 (gyeolbusikida) | bağlantı kurmak, ilişkilendirmek | fiil | 개인 문제를 업무 평가와 결부시키면 안 된다. | Kişisel sorunları iş değerlendirmesiyle ilişkilendirmemeli.
+표출하다 (pyochulhada) | dışa vurmak | fiil | 시민들은 집회를 통해 불만을 표출했다. | Vatandaşlar mitinglerle hoşnutsuzluklarını dışa vurdu.
+내포하다 (naepohada) | içermek, barındırmak (örtük) | fiil | 그의 질문은 날카로운 비판을 내포하고 있다. | Sorusu keskin bir eleştiri barındırıyor.
+상쇄하다 (sangswaehada) | dengelemek, karşılıklı sıfırlamak | fiil | 수출 증가가 내수 부진을 상쇄했다. | İhracat artışı iç talepteki durgunluğu dengeledi.
+전제하다 (jeonjehada) | önkoşul olarak kabul etmek | fiil | 이 계획은 경기가 회복된다는 것을 전제한다. | Bu plan ekonominin toparlanacağını önkoşul kabul ediyor.
+야기하다 (yagihada) | yol açmak, sebep olmak | fiil | 무분별한 개발이 환경 파괴를 야기했다. | Plansız yapılaşma çevre tahribatına yol açtı.
+## Soyut sıfatlar
+자의적 (jauijeok) | keyfî | sıfat | 법을 자의적으로 해석해서는 안 된다. | Kanun keyfî biçimde yorumlanmamalı.
+작위적 (jagwijeok) | yapay, zorlama | sıfat | 이 드라마의 결말은 너무 작위적이다. | Bu dizinin sonu fazla zorlama.
+피상적 (pisangjeok) | yüzeysel | sıfat | 그의 분석은 피상적이어서 설득력이 없다. | Çözümlemesi yüzeysel olduğu için ikna edici değil.
+본질적 (bonjiljeok) | özsel, temel | sıfat | 이 문제는 본질적으로 신뢰의 문제이다. | Bu sorun özünde bir güven sorunudur.
+근원적 (geunwonjeok) | kökten, köksel | sıfat | 근원적인 해결책 없이는 같은 문제가 반복된다. | Köklü bir çözüm olmadan aynı sorun tekrar eder.
+지엽적 (jiyeopjeok) | tali, ikincil (önemsiz ayrıntı) | sıfat | 지엽적인 문제에 매달리다 핵심을 놓쳤다. | Tali meselelere takılıp asıl noktayı kaçırdık.
+단편적 (danpyeonjeok) | parçalı, kısmi | sıfat | 단편적인 정보만으로 판단하기는 이르다. | Parçalı bilgilerle karar vermek için erken.
+획일적 (hoegiljeok) | tek tip, standartlaştırılmış | sıfat | 획일적인 교육은 다양한 재능을 죽인다. | Tek tip eğitim farklı yetenekleri öldürür.
+다층적 (dacheungjeok) | çok katmanlı | sıfat | 이 소설은 다층적인 의미를 지닌 작품이다. | Bu roman çok katmanlı anlamlar taşıyan bir eserdir.
+역동적 (yeokdongjeok) | dinamik | sıfat | 서울은 역동적인 도시로 알려져 있다. | Seul dinamik bir şehir olarak bilinir.
+## Entelektüel kavramlar
+딜레마 (dillema) | ikilem | isim | 개발과 보존 사이에서 정부는 딜레마에 빠졌다. | Kalkınma ile koruma arasında hükümet ikileme düştü.
+아이러니 (aireoni) | ironi (durum) | isim | 환경 단체의 행사에서 쓰레기가 넘쳐 나는 아이러니가 벌어졌다. | Çevre örgütünün etkinliğinde çöpün taşması ironik bir durum yarattı.
+전형 (jeonhyeong) | tipik örnek, prototip | isim | 그는 자수성가한 사업가의 전형이다. | Kendi kendini yetiştirmiş iş insanının tipik örneğidir.
+이면 (imyeon) | arka yüz, perde arkası | isim | 화려한 성공의 이면에는 수많은 실패가 있었다. | Parlak başarının ardında sayısız başarısızlık vardı.
+허상 (heosang) | yanılsama, sahte görüntü | isim | 그가 쫓던 행복은 허상에 불과했다. | Peşinden koştuğu mutluluk bir yanılsamadan ibaretti.
+정수 (jeongsu) | öz, en seçkin kısım | isim | 이 작품에는 한국 전통 건축의 정수가 담겨 있다. | Bu eserde Kore geleneksel mimarisinin özü saklı.
+단면 (danmyeon) | kesit (bir şeyin yansıması) | isim | 이 사건은 우리 사회의 어두운 단면을 보여 준다. | Bu olay toplumumuzun karanlık bir kesitini gösteriyor.
+표상 (pyosang) | simge, temsil | isim | 그 탑은 도시 번영의 표상이 되었다. | O kule şehrin refahının simgesi oldu.
+화신 (hwasin) | vücut bulmuş hâli | isim | 그는 성실함의 화신이라 불릴 만하다. | Çalışkanlığın vücut bulmuş hâli denilmeyi hak ediyor.
+역학 (yeokhak) | dinamikler (güç ilişkileri); mekanik | isim | 두 나라의 관계에는 복잡한 권력의 역학이 작용한다. | İki ülkenin ilişkisinde karmaşık güç dinamikleri işliyor.
+## İnsan tipleri
+기회주의자 (gihoejuuija) | fırsatçı | isim | 그는 상황에 따라 편을 바꾸는 기회주의자이다. | Duruma göre taraf değiştiren bir fırsatçı.
+이상주의자 (isangjuuija) | idealist | isim | 그는 세상을 바꿀 수 있다고 믿는 이상주의자이다. | Dünyayı değiştirebileceğine inanan bir idealist.
+현실주의자 (hyeonsiljuuija) | gerçekçi kişi | isim | 현실주의자인 그녀는 늘 최악의 경우를 대비한다. | Gerçekçi biri olduğundan hep en kötüsüne hazırlanır.
+완벽주의자 (wanbyeokjuuija) | mükemmeliyetçi | isim | 완벽주의자인 그는 작은 실수도 용납하지 않는다. | Mükemmeliyetçi olduğu için en küçük hataya bile göz yummaz.
+회의론자 (hoeuironja) | şüpheci kişi | isim | 회의론자들은 그 실험 결과를 믿지 않았다. | Şüpheciler o deneyin sonucuna inanmadı.
+냉소주의자 (naengsojuuija) | kinik, alaycı kişi | isim | 냉소주의자는 모든 선의를 의심한다. | Kinik biri her iyi niyetten şüphelenir.
+낙관론자 (nakgwallonja) | iyimser | isim | 낙관론자들은 경기가 곧 회복될 것이라고 본다. | İyimserler ekonominin yakında toparlanacağını düşünüyor.
+비관론자 (bigwallonja) | kötümser | isim | 비관론자들은 불황이 길어질 것이라고 경고했다. | Kötümserler durgunluğun uzayacağı uyarısında bulundu.
+몽상가 (mongsangga) | hayalperest | isim | 사람들은 그를 몽상가라 비웃었지만 그는 꿈을 이루었다. | İnsanlar ona hayalperest diye güldü ama o hayalini gerçekleştirdi.
+행동파 (haengdongpa) | eylem insanı | isim | 그는 말보다 실천을 앞세우는 행동파이다. | Sözden çok eylemi öne koyan bir eylem insanıdır.
+## Entelektüel deyimler (dört karakterli)
+일맥상통하다 (ilmaeksangtonghada) | aynı özü paylaşmak, örtüşmek | fiil | 두 사상가의 주장은 일맥상통한다. | İki düşünürün görüşleri özde örtüşüyor.
+대동소이하다 (daedongsoihada) | hemen hemen aynı olmak | sıfat | 두 회사의 제안은 대동소이했다. | İki şirketin teklifleri hemen hemen aynıydı.
+자가당착 (jagadangchak) | kendi kendisiyle çelişme | isim | 그의 주장은 앞뒤가 맞지 않는 자가당착에 빠졌다. | İddiası tutarsızlaşıp kendi kendisiyle çelişti.
+아전인수 (ajeoninsu) | suyu kendi tarlasına çekmek (çıkarına yorumlamak) | isim | 통계를 자기에게 유리하게 해석하는 것은 아전인수이다. | İstatistikleri kendi lehine yorumlamak suyu kendi değirmenine akıtmaktır.
+견강부회 (gyeongangbuhoe) | zorlama yorum, çarpıtma | isim | 그런 해석은 견강부회에 불과하다. | Böyle bir yorum zorlamadan ibaret.
+침소봉대 (chimsobongdae) | pireyi deve yapmak | isim | 언론이 작은 실수를 침소봉대해 보도했다. | Basın küçük bir hatayı pireyi deve yaparak haberleştirdi.
+본말전도 (bonmaljeondo) | önemliyle önemsizin yer değiştirmesi | isim | 수단이 목적보다 중요해지는 것은 본말전도이다. | Aracın amaçtan önemli hâle gelmesi önemliyle önemsizin yer değiştirmesidir.
+어불성설 (eobulseongseol) | söz götürmez saçmalık | isim | 피해자에게 책임을 묻는 것은 어불성설이다. | Mağdurdan hesap sormak tam bir saçmalık.
+이율배반 (iyulbaeban) | çelişki, antinomi | isim | 자유를 외치면서 남의 자유를 억압하는 것은 이율배반이다. | Özgürlük diye bağırıp başkasının özgürlüğünü bastırmak çelişkidir.
+시대착오 (sidaechago) | anakronizm, çağ dışılık | isim | 여성에게 결혼 후 퇴사를 강요하는 것은 시대착오적이다. | Kadınları evlilikten sonra işten ayrılmaya zorlamak çağ dışıdır.
+## Ekonomik kavramlar
+기회비용 (gihoebiyong) | fırsat maliyeti | isim | 대학원 진학의 기회비용은 이 년 동안의 월급이다. | Yüksek lisansın fırsat maliyeti iki yıllık maaştır.
+매몰 비용 (maemol biyong) | batık maliyet | isim | 이미 쓴 돈은 매몰 비용이니 미련을 버려야 한다. | Harcanmış para batık maliyettir, ona takılmamak gerek.
+한계 효용 (hangye hyoyong) | marjinal fayda | isim | 같은 음식을 계속 먹으면 한계 효용이 줄어든다. | Aynı yemeği yemeye devam ettikçe marjinal fayda azalır.
+규모의 경제 (gyumoui gyeongje) | ölçek ekonomisi | isim | 대량 생산은 규모의 경제로 단가를 낮춘다. | Seri üretim ölçek ekonomisiyle birim maliyeti düşürür.
+보이지 않는 손 (boiji anneun son) | görünmez el | ifade | 애덤 스미스는 시장을 움직이는 보이지 않는 손을 말했다. | Adam Smith piyasayı yöneten görünmez elden söz etti.
+도덕적 해이 (dodeokjeok haei) | ahlaki tehlike (moral hazard) | isim | 무조건적인 지원은 도덕적 해이를 낳을 수 있다. | Koşulsuz destek ahlaki tehlikeye yol açabilir.
+정보 비대칭 (jeongbo bidaeching) | asimetrik bilgi | isim | 중고차 시장은 정보 비대칭의 대표적인 예이다. | İkinci el araç piyasası asimetrik bilginin tipik örneğidir.
+낙수 효과 (naksu hyogwa) | damlama etkisi | isim | 대기업 성장의 낙수 효과가 생각보다 작다는 지적이 있다. | Büyük şirketlerin büyümesinin damlama etkisinin sanıldığından küçük olduğu söyleniyor.
+승자 독식 (seungja doksik) | kazanan her şeyi alır | isim | 플랫폼 시장은 승자 독식 구조가 되기 쉽다. | Platform piyasası kolayca kazananın her şeyi aldığı bir yapıya dönüşür.
+구축 효과 (guchuk hyogwa) | dışlama etkisi (crowding out) | isim | 정부 지출 증가가 민간 투자를 줄이는 구축 효과가 나타났다. | Kamu harcamalarının artışı özel yatırımı azaltan dışlama etkisi yarattı.
