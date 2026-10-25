@@ -1,0 +1,111 @@
+# UNIT: Arxitektura va qurilish | Loyiha, yuk koʻtaruvchi tizim, qurilish maydoni, muhandislik tarmoqlari
+## Arxitektura dizayni
+façade | fasad, old koʻrinish | Original tosh fasad saqlanib qoldi, ichki qismi esa butunlay qaytadan qurildi.
+elevation | chizma koʻrinish, fasad chizmasi | Shimoliy koʻrinish derazalar orqadagi qavatlar bilan qanday mos kelishini koʻrsatib turibdi.
+cross-section | koʻndalang kesim | Binodan olingan kesim lobbi tepasidagi yashirin xizmat koʻrsatish qavatini ochib bermoqda.
+site plan | bosh reja, hudud rejasi | Bosh rejada ishlar davomida saqlanishi kerak boʻlgan har bir daraxt belgilab qoʻyilgan.
+atrium (atria) | atriyum, yorugʻ hovli | Shisha tomli atriyum orqali ofislarga tabiiy yorugʻlik tushib turadi.
+mezzanine | mezanin, yarim qavat | Arxitektor baland shiftlardan foydalanish uchun yarim qavat qoʻshdi.
+courtyard | hovli, ichki hovli | Daireler zeytun daraxtlari ekilgan sokin hovli atrofida joylashtirilgan.
+cornice | karniz, ravoqcha | Oʻpirilib tushayotgan karnizning bir qismi oʻtgan qish yoʻlakka quladi.
+parapet | parapet, tosh panjara | Tomdagi terassa past gʻishtli parapet bilan oʻralgan.
+colonnade | kolonnada, ustunlar qatori | Ziyoratchilar muzeyga daryoga qaragan uzun ustunlar qatori orqali kirishadi.
+## Arxitekturaviy uslublar va elementlar
+buttress | kontrfors, tayanch ustun | Mahobatli tosh tayanch ustunlar katedral devorlarining tashqariga ogʻib ketishining oldini oladi.
+vault | ravoq, gumbazli shift | Eski podvalning shifti past gʻishtli ravoqdan iborat.
+spire | nayzasimon minorali uch, shpil | Cherkovning oʻtkir uchi qishloqning deyarli har bir burchagidan koʻrinib turadi.
+keystone | qulf tosh, bosh tosh | Tepadagi qulf tosh boʻlmasa, butun ravoq qulab tushgan boʻlar edi.
+gable | qalqon devor, uchburchak devor uchi | Koʻchadagi har bir uyning kanalga qaragan tik qalqon devori bor.
+pediment | pediment, uchburchak peshtoq | Bank kirish eshigi oʻymakor figurali uchburchak peshtoq bilan bezatilgan.
+cupola | gumbazcha, kichik gumbaz | Tomdagi kichik gumbaz markaziy zinapoyaga yorugʻlik tushishini ta'minlaydi.
+minimalist | minimalist, oddiy | Kamil yalangʻoch devorli va juda kam mebelga ega sodda intererlarni afzal koʻradi.
+ornate | naqshin, bezakli | Teatrning bezakli balkonlari asl chizmalar asosida qayta tiklandi.
+brutalist | brutalist, yalongʻoch beton | Ayrim aholi brutalist kutubxonani yaxshi koʻradi, boshqalari esa uning xom betonini siqifli deb topadi.
+## Proji va tender
+invitation to tender | tender taklifi, tanlovga chaqiruv | Yangi kasalxona korpusi uchun e'lon qilingan tender taklifiga beshta firma javob berdi.
+bill of quantities | hajm qaydnomasi, xarajatlar roʻyxati | Hajm qaydnomasidagi har bir band belgilangan muddatdan oldin narxlanishi kerak.
+specification | texnik shartnoma, spetsifikatsiya | Texnik shartnoma har bir koridor devorida yongʻinga chidamli panellar boʻlishini talab qiladi.
+feasibility study | iqtisodiy asosnoma, fizibiliti | Iqtisodiy asosnoma eski omborni xonadonlarga aylantirish mumkin degan xulosaga keldi.
+as-built drawing | bajarilgan ishlar chizmasi, asl chizma | Buyurtmachi har bir quvur qayerga yotqizilganini aniq koʻrsatuvchi bajarilgan ishlar chizmasini soʻradi.
+variation order | oʻzgarish buyrugʻi, qoʻshimcha ish buyrugʻi | Oʻzgarish buyrugʻi imzolanmaguncha hech qanday qoʻshimcha ish boshlanmasligi kerak.
+subcontractor | subpudrantchi, yordamchi pudrantchi | Elektr ishlari ixtisoslashgan subpudrantchiga topshirildi.
+cost overrun | xarajatlar oshib ketishi | Poʻlat yetkazib berishdagi kechikishlar jiddiy xarajatlar oshib ketishiga olib keldi.
+progress payment | bajarilgan ishlar uchun toʻlov, hakedish | Maydon jamoasi har oyning oxirgi jumasida oylik hakedishni tayyorlaydi.
+liquidated damages | jarima, kechikish uchun penya | Agar obyektni topshirish kechiksa, pudrantchi har bir kun uchun jarima toʻlashi shart.
+## Yuk koʻtaruvchi tizim
+load-bearing wall | yuk koʻtaruvchi devor | Poʻlat balka qoʻshmasdan turib yuk koʻtaruvchi devorni oddiygina buzib oʻta olmaysiz.
+beam | balka, toʻsin | Qoʻshimcha qavat qoʻshilgandan keyin asosiy balka boʻylab yoriqlar paydo boʻldi.
+slab | plita, yigʻma taxta | Muhandislar ogʻir texnikani tasdiqlashdan oldin plita qalinligini tekshirdilar.
+footing | poydevor asosi, tagkursi | Har bir ustun kengligi ikki metr keladigan armaturalangan poydevor asosiga tayanadi.
+cantilever | konsol, osma qism | Balkon devordan uch metr tashqariga chiqib turgan konsol hisoblanadi.
+lintel | lintel, deraza-eshik ustuni | Beton lintel yangi eshik teshigining yuqori qismini qoplab turadi.
+truss | ferma, panjarali toʻsin | Yogʻoch fermalar sport zalining tomini ichki ustunlarsiz ushlab turadi.
+shear wall | diafragma devor, zilzilabardosh devor | Diafragma devorlar minoraga kuchli shamol va zilzilalarga bardosh berishga yordam beradi.
+deflection | egilish, burilish | Toʻliq yuk ostida plitaning egilishi maqbul chegaralarda qoldi.
+load-bearing capacity | yuk koʻtarish qobiliyati | Muhandislar eski koʻprikni qayta ochishdan oldin uning yuk koʻtarish qobiliyatini sinab koʻrdilar.
+## Qurilish materiallari
+rebar | armatura, qurilish temiri | Beton quyilishidan oldin ishchilar armaturani sim bilan bir-biriga bogʻladilar.
+formwork | qoliq, oplyubka | Beton yetarli mustahkamlikka erishgandan soʻng qoliqni olib tashlash mumkin.
+ready-mixed concrete | tayyor beton | Tayyor betonning sifati konstruksiya mustahkamligiga toʻgʻridan-toʻgʻri ta'sir koʻrsatadi.
+mortar | qorishma, ohak | Toshlar orasidagi eski qorishma qirib tashlanib, almashtirilishi kerak edi.
+stucco | suvoq, bezak suvoqi | Tashqi devorlar boʻyalishidan oldin ikki qatlam suvoqqa muhtoj.
+screed | styajka, pol qorishmasi | Yangi quyilgan styajka ustida kamida ikki kun davomida hech kim yurmasligi kerak.
+precast | yigʻma, prefabrik | Prefabrik beton panellar maktabni bir yoz mavsumida toʻliq bitirish imkonini berdi.
+timber frame | yogʻoch karkas | Yogʻoch karkasli uylar tez quriladi va issiqlikni yaxshi saqlaydi.
+girder | asosiy toʻsin, metal balka | Savdo markazi kirish eshigi ustiga ulkan metal balka oʻrnatildi.
+waterproofing | gidroizolyatsiya, suvdan himoya | Podvaldagi yomon gidroizolyatsiya har bir devorda nam dogʻlar paydo boʻlishiga olib keldi.
+## Zamin va tuproq ishlari
+earthworks | tuproq ishlari, kovlash ishlari | Yer osti avtoturargohi uchun tuproq ishlari deyarli uch oy davom etdi.
+backfill | koʻmish, orqaga toʻldirish | Quvurlar sinovdan oʻtkazilgandan soʻng xandaq zichlashtirilgan tuproq bilan koʻmildi.
+pile | qoziq poydevor, qoziq | Zamin yumshoq boʻlgani uchun minora qirq metr chuqurlikka qoqilgan qoziqlarga tayanadi.
+retaining wall | tayanch devor, istinat devori | Tayanch devor yonbagʻirlikning yoʻlga surilib tushishiga toʻsqinlik qiladi.
+groundwater | sizot suvlari, yer osti suvlari | Yer osti suvlari chuqurga tinimsiz oqib kelgani uchun nasoslar kechayu kunduz ishladi.
+soil investigation | muhandislik-geologik qidiruv, zamin tekshiruvi | Zamin tekshiruvi yuzaning ostidanoq gil qatlami borligini koʻrsatdi.
+compaction | zichlash, zichlashtirish | Har bir qatlamning toʻgʻri zichlanishi yoʻlning keyinchalik choʻkib ketishining oldini oladi.
+trench | ariq, xandaq | Alining jamoasi yangi suv quvuri uchun tor xandaq qazdi.
+dewatering | suvni quritish, suvni haydab chiqarish | Poydevorlar toʻquvchi germetik holatga kelguncha suvni quritish ishlari davom etishi shart edi.
+differential settlement | notekis choʻkish | Notekis choʻkish eski uy devorlarida yoriqlar paydo boʻlishiga sabab boʻldi.
+## Qurilish maydoni hayoti
+site manager | bosh muhandis, qurilish boshligʻi | Qurilish boshligʻi har kuni soat sakkizdan oldin butun loyihani aylanib chiqadi.
+hard hat | qattiq bosh kiyim, kaska | Mehmonlarga kaskasiz darvozadan oʻtishga ruxsat etilmaydi.
+high-visibility vest | nur qaytaruvchi nimcha | Maydondagi har bir kishi harakatlanuvchi texnikalar yaqinida nur qaytaruvchi nimcha kiyishi shart.
+toolbox talk | xavfsizlik boʻyicha qisqa suhbat | Bugungi xavfsizlik suhbati balandlikda xavfsiz ishlashga bagʻishlandi.
+site office | qurilish idorasi, vaqtinchalik ofis | Haftalik muvofiqlashtirish yigʻilishi dushanba kunlari qurilish idorasida oʻtkaziladi.
+hoist | yuk koʻtargich, kran | Materiallar vaqtinchalik yuk koʻtargich yordamida yuqori qavatlarga tashiydi.
+pour | beton quyish | Uchinchi qavat plitasi uchun beton quyish tongda boshlanib, qorongʻi tushgach yakunlandi.
+curing | betonni parvarish qilish, qurish jarayoni | Issiq havoda betonni diqqat bilan parvarish qilish uning yorilishining oldini oladi.
+snag list | kamchiliklar roʻyxati | Kamchiliklar roʻyxatida hali ham boʻsh kafel va yopilmaydigan eshik turibdi.
+handover | obyektni topshirish | Binoni buyurtmachiga topshirish aprel oyining oxiriga rejalashtirilgan.
+## Mexanik muhandislik tarmoqlari
+ductwork | havo oʻtkazgichlar, ventilyatsiya quvurlari | Havo oʻtkazgichlar har bir ofisda osma shift ustiga yashiringan.
+riser | vertikal quvur, tik quvur | Barcha suv va gaz quvurlari lift yonidagi tik quvur shaxtasi boʻylab oʻtadi.
+HVAC | isitish, ventilyatsiya va konditsionerlash tizimi | Isitish, ventilyatsiya va konditsionerlash tizimi binoning energiya sarfining deyarli yarmini tashkil qiladi.
+sprinkler system | yomgʻirlatib oʻchirish tizimi, oʻt oʻchirish purkagichi | Yomgʻirlatib oʻchirish tizimi yongʻin omborga yetib bormasdan oldin uni oʻchirdi.
+drainage | drenaj, suv chiqarish tizimi | Poydevor atrofidagi yomon drenaj har bir boʻrondan keyin suv toʻplanishiga sabab boʻldi.
+manhole | quduqcha, koʻrik qudugʻi | Ishchi tiqilib qolgan kanalizatsiyani tekshirish uchun koʻrik qudugʻiga tushdi.
+stopcock | toʻxtatuvchi kran, suv joʻmraklari | Joʻmrakni almashtirishdan oldin Lukas lavabo ostidagi toʻxtatuvchi kranni yopdi.
+underfloor heating | iliq pol, ostidan isitish tizimi | Ostidan isitish tizimi hatto yanvar oyida ham tosh polni iliq tutadi.
+air handling unit | havo tozalash agregati, konditsionerlash moslamasi | Tomdagi havo tozalash agregati barcha olti qavatga toza havo yetkazib beradi.
+plumbing | sanitariya-tesisat ishlari, suv quvurlari | Eski binodagi sanitariya-tesisat quvurlarini boshdan-oyoq almashtirishga toʻgʻri keldi.
+## Elektr va yongʻin xavfsizligi
+wiring | elektr simlari, simlar tizimi | Tekshiruvchi simlar tizimining katta qismi qirq yildan oshganini aniqladi.
+switchboard | taqsimlash paneli, elektr shkafi | Binodagi har bir elektr zanjiri asosiy taqsimlash panelida belgilab qoʻyilgan.
+circuit breaker | avtomat toʻxtatuvchi, saqlagich | Yangi pech yoqilishi bilanoq avtomat toʻxtatuvchi oʻchib qoldi.
+earthing | yerga ulash, toʻplovchi | Yerga ulashdagi nosozlik metall lavoboni jiddiy xavf manbaiga aylantirishi mumkin.
+conduit | simli quvur, kabel kanali | Kabellar devorlarga koʻmilgan plastik simli quvurlar boʻylab oʻtadi.
+cable tray | kabel tray, simlar uchun novcha | Ogʻir quvvat liniyalari podval tavoni boʻylab kabel traylariga yotqiziladi.
+fire door | yongʻinga qarshi eshik | Yongʻinga qarshi eshik hech qachon stul bilan ochiq holda qoldirilmasligi kerak.
+fire escape | yongʻin zinapoyasi | Eski mehmonxonaga tashqi yongʻin zinapoyasini oʻrnatish talab qilindi.
+smoke detector | tutun datchigi, tutun aniqlovchi | Har bir xona va koridorga tutun datchigi oʻrnatilgan.
+emergency lighting | avariya yoritgichi, favqulodda yoritish | Favqulodda yoritish tizimi obyekt xizmat koʻrsatish jamoasi tomonidan oyiga bir marta tekshiriladi.
+## Pardozlash ishlari va topshirish jarayoni
+finishing works | pardozlash ishlari | Konstruksiya tayyor, ammo pardozlash ishlari yana olti oy davom etadi.
+drywall | gipsokarton, quruq suvoq | Ofislar keyinchalik koʻchirish mumkin boʻlgan gipsokarton boʻlinmalari bilan ajratilgan.
+cladding | qoplama, fasad qoplamasi | Yongʻindan keyin minora yuzasidan barcha yonuvchi qoplamalar olib tashlandi.
+joinery | yogʻochsozlik ishlari, duradgorlik | Kutubxonadagi maxsus duradgorlik ishlari mahalliy ustaxona tomonidan bajarilgan.
+grout | plitka orasini toʻldiruvchi aralashma, fuga | Sofiya dush kafel tozaligini uzoqroq saqlashi uchun toʻq kulrang fugani tanladi.
+skirting board | plintus, ostki taxtacha | Boʻyoqchilar devorlarni boʻyashni boshlashdan oldin plintuslarni lenta bilan yopib qoʻydilar.
+sealant | germetik, mastika | Bir qator silikon mastika deraza atrofidagi boʻshliqqa suv kirishining oldini oladi.
+occupancy permit | foydalanishga ruxsatnoma, iskân guvohnomasi | Foydalanishga ruxsatnoma berilmaguncha aholi koʻchib kela olmaydi.
+defects liability period | kafolat muddati, nuqsonlarni bartaraf etish davri | Kafolat muddati davomida topilgan har qanday sizib chiqish pudrantchi hisobidan bartaraf etilishi shart.
+commissioning | ishga tushirish, sozlash ishlari | Isitish tizimining ishga tushirilishi ikkita nosoz nasosni yuzaga chiqardi.
