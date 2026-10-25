@@ -1,0 +1,111 @@
+# UNIT: Travel | Planes, trains, hotels, sightseeing, documents
+## At the airport
+uçuş | flight | isim | Uçuşumuz iki saat sürecek. | Our flight will take two hours.
+kalkış | departure; take-off | isim | Kalkış saati değişti. | The departure time has changed.
+iniş | landing; arrival | isim | İniş sırasında kemerinizi takın. | Fasten your seat belt during landing.
+bagaj | luggage; baggage | isim | Bagajım hâlâ gelmedi. | My luggage still hasn't arrived.
+el bagajı | hand luggage | isim | El bagajı sekiz kiloyu geçmemeli. | Hand luggage must not exceed eight kilos.
+biniş kartı | boarding pass | isim | Biniş kartınızı görebilir miyim? | May I see your boarding pass?
+gümrük | customs | isim | Gümrükte bavulumu açtılar. | They opened my suitcase at customs.
+aktarma | transfer; connection; change | isim | İstanbul'da aktarma yapacağız. | We'll change planes in Istanbul.
+rötar | delay (of a flight, train or bus) | isim | Uçağımız iki saat rötar yaptı. | Our plane was delayed by two hours.
+yolcu | passenger; traveller | isim | Uçakta çok az yolcu vardı. | There were very few passengers on the plane.
+## Trains and coaches
+vagon | carriage; wagon | isim | Yemekli vagon nerede? | Where is the dining car?
+peron | platform | isim | Tren üçüncü perondan kalkıyor. | The train leaves from platform three.
+kompartıman | compartment | isim | Kompartımanda dört kişi vardı. | There were four people in the compartment.
+gidiş dönüş | return (ticket) | isim | Ankara'ya bir gidiş dönüş bilet, lütfen. | A return ticket to Ankara, please.
+tek yön | one-way; single | isim | Sadece tek yön bilet aldım. | I only bought a one-way ticket.
+sefer | trip; service (scheduled departure) | isim | Son sefer saat kaçta? | What time is the last service?
+hareket etmek | to depart; to move | fiil | Otobüs tam saatinde hareket etti. | The coach departed right on time.
+kaçırmak | to miss (a bus, train); to kidnap | fiil | Yine otobüsü kaçırdım! | I missed the bus again!
+yetişmek | to catch; to make it in time | fiil | Koşarak trene yetiştim. | I ran and caught the train.
+gecikmek | to be delayed; to be late | fiil | Tren yarım saat gecikti. | The train was half an hour late.
+## At the hotel
+resepsiyon | reception | isim | Anahtarı resepsiyona bırakın. | Leave the key at reception.
+tek kişilik | single (room, bed) | sıfat | Tek kişilik bir oda istiyorum. | I'd like a single room.
+çift kişilik | double (room, bed) | sıfat | Çift kişilik odanız hazır. | Your double room is ready.
+dahil | included | sıfat | Kahvaltı fiyata dahil mi? | Is breakfast included in the price?
+pansiyon | guesthouse; B&B | isim | Kaş'ta küçük bir pansiyonda kaldık. | We stayed in a small guesthouse in Kaş.
+konaklamak | to stay (overnight) | fiil | Üç gece Kapadokya'da konakladık. | We stayed three nights in Cappadocia.
+havuz | swimming pool | isim | Otelin havuzu çok büyük. | The hotel pool is very big.
+oda servisi | room service | isim | Oda servisinden kahvaltı istedik. | We ordered breakfast from room service.
+giriş yapmak | to check in | fiil | Otele saat ikide giriş yapabilirsiniz. | You can check in at the hotel at two.
+çıkış yapmak | to check out | fiil | Yarın on ikide çıkış yapmamız lazım. | We have to check out at twelve tomorrow.
+## Papers and borders
+vize | visa | isim | Türkiye için vize gerekiyor mu? | Do you need a visa for Turkey?
+kimlik | ID; identity card | isim | Kimliğinizi görebilir miyim? | Can I see your ID?
+ehliyet | driving licence | isim | Ehliyetim yanımda değil. | I don't have my driving licence on me.
+form | form | isim | Bu formu doldurmanız lazım. | You need to fill in this form.
+doldurmak | to fill; to fill in | fiil | Formu mavi kalemle doldurun. | Fill in the form in blue pen.
+geçerli | valid | sıfat | Pasaportum altı ay daha geçerli. | My passport is valid for six more months.
+konsolosluk | consulate | isim | Vize için konsolosluğa gittim. | I went to the consulate for a visa.
+oturma izni | residence permit | isim | Oturma iznim gelecek ay bitiyor. | My residence permit expires next month.
+sınır | border; limit | isim | Sınırda iki saat bekledik. | We waited two hours at the border.
+yurt dışı | abroad | isim | Hiç yurt dışına çıktın mı? | Have you ever been abroad?
+## Sightseeing
+gezi | trip; outing; tour | isim | Okul gezisi çok güzel geçti. | The school trip went really well.
+tur | tour | isim | Boğaz turuna katıldık. | We went on a Bosphorus tour.
+tarihi | historic; historical | sıfat | Bu şehirde çok tarihi yer var. | There are many historic places in this city.
+kale | castle; fortress | isim | Kaleden bütün şehir görünüyor. | You can see the whole city from the castle.
+saray | palace | isim | Topkapı Sarayı'nı gezdik. | We visited Topkapı Palace.
+kilise | church | isim | Bu kilise çok eski. | This church is very old.
+ören yeri | archaeological site; ruins | isim | Efes ören yerini gezdik. | We toured the ruins of Ephesus.
+heykel | statue; sculpture | isim | Meydanda büyük bir heykel var. | There's a big statue in the square.
+anıt | monument | isim | Anıtın önünde fotoğraf çektik. | We took photos in front of the monument.
+fotoğraf çekmek | to take a photo | fiil | Burada fotoğraf çekebilir miyiz? | Can we take photos here?
+## Holiday activities
+kamp | camping; camp | isim | Yazın gölde kamp yapıyoruz. | We go camping by the lake in summer.
+çadır | tent | isim | Çadırı ağacın altına kurduk. | We pitched the tent under the tree.
+güneşlenmek | to sunbathe | fiil | Bütün gün plajda güneşlendik. | We sunbathed on the beach all day.
+dalmak | to dive; to drift off | fiil | Kaş'ta denize daldık. | We went diving in Kaş.
+kayak | skiing; ski | isim | Uludağ'da kayak yaptık. | We went skiing on Uludağ.
+yürüyüş | walk; hike | isim | Ormanda uzun bir yürüyüş yaptık. | We went for a long walk in the forest.
+balon | balloon | isim | Kapadokya'da balona bindik. | We went up in a balloon in Cappadocia.
+tekne | boat | isim | Tekneyle koyları gezdik. | We toured the bays by boat.
+mavi yolculuk | Blue Cruise (sailing holiday on the Turkish coast) | isim | Bu yaz mavi yolculuğa çıkıyoruz. | We're going on a Blue Cruise this summer.
+yayla | highland pasture; summer plateau | isim | Yazın Karadeniz yaylalarına gidiyoruz. | In summer we go to the Black Sea highlands.
+## Packing
+sırt çantası | backpack; rucksack | isim | Sırt çantamla dolaşmayı seviyorum. | I like travelling around with my backpack.
+güneş gözlüğü | sunglasses | isim | Güneş gözlüğümü arabada unuttum. | I left my sunglasses in the car.
+mayo | swimsuit | isim | Mayonu almayı unutma! | Don't forget your swimsuit!
+güneş kremi | sun cream | isim | Güneş kremini sürdün mü? | Did you put on sun cream?
+hediyelik eşya | souvenir | isim | Kapalıçarşı'dan hediyelik eşya aldık. | We bought souvenirs at the Grand Bazaar.
+kartpostal | postcard | isim | Anneme bir kartpostal gönderdim. | I sent my mum a postcard.
+döviz | foreign currency | isim | Havalimanında döviz çok pahalı. | Foreign currency is very expensive at the airport.
+bozdurmak | to change (money); to break (a note) | fiil | Euro bozdurmam lazım. | I need to change some euros.
+eşya | things; belongings; furniture | isim | Eşyalarını unutma. | Don't forget your things.
+hazırlık | preparation | isim | Tatil hazırlıkları bitti. | The holiday preparations are done.
+## Regions of Turkey
+kuzey | north | isim | Karadeniz Türkiye'nin kuzeyinde. | The Black Sea is in the north of Turkey.
+güney | south | isim | Güneyde hava daha sıcak. | It's warmer in the south.
+doğu | east | isim | Doğu Anadolu'da kışlar çok soğuk. | Winters are very cold in Eastern Anatolia.
+batı | west | isim | İzmir Türkiye'nin batısında. | Izmir is in the west of Turkey.
+bölge | region; area | isim | Bu bölge fındığıyla ünlü. | This region is famous for its hazelnuts.
+liman | port; harbour | isim | Vapur limana yanaştı. | The ferry pulled into the harbour.
+Karadeniz | the Black Sea | isim | Karadeniz'de çok yağmur yağar. | It rains a lot on the Black Sea coast.
+Akdeniz | the Mediterranean | isim | Akdeniz'in suyu çok sıcak. | The Mediterranean water is very warm.
+Ege | the Aegean | isim | Ege'de zeytin ağaçları her yerde. | There are olive trees everywhere in the Aegean.
+Anadolu | Anatolia | isim | Anadolu'yu gezmek istiyorum. | I want to travel around Anatolia.
+## Travel problems
+kayıp | lost; missing; loss | sıfat | Kayıp bagaj bürosu nerede? | Where is the lost luggage office?
+çalınmak | to be stolen | fiil | Metroda cüzdanım çalındı. | My wallet was stolen on the metro.
+bozulmak | to break down | fiil | Arabamız yolda bozuldu. | Our car broke down on the way.
+yanlış | wrong; mistake | sıfat | Yanlış otobüse bindim. | I got on the wrong bus.
+doğru | right; correct; true; towards | sıfat | Doğru yoldayız, merak etme. | We're on the right road, don't worry.
+karışıklık | confusion; mix-up | isim | Rezervasyonda bir karışıklık olmuş. | There's been a mix-up with the reservation.
+iade | refund; return | isim | Bilet ücretini iade ettiler. | They refunded the ticket price.
+şikâyet etmek | to complain | fiil | Gürültü için resepsiyona şikâyet ettik. | We complained to reception about the noise.
+karakol | police station | isim | Kayıp için karakola gittik. | We went to the police station about the loss.
+yolunu şaşırmak | to lose your way | ifade | Eski şehirde yolumu şaşırdım. | I lost my way in the old town.
+## Coming and going
+yola çıkmak | to set off | fiil | Sabah erkenden yola çıktık. | We set off early in the morning.
+uçmak | to fly | fiil | Hiç uçakla uçmadım. | I've never flown on a plane.
+ayrılmak | to leave; to split up | fiil | Otelden onda ayrıldık. | We left the hotel at ten.
+varış | arrival | isim | Varış saatimiz on beş otuz. | Our arrival time is 15:30.
+keşfetmek | to discover; to explore | fiil | Yeni yerler keşfetmeyi seviyorum. | I love discovering new places.
+kalacak yer | somewhere to stay; accommodation | isim | Bodrum'da kalacak yer bulduk. | We found somewhere to stay in Bodrum.
+rezervasyon yaptırmak | to make a reservation; to book | fiil | Otelde iki gece için rezervasyon yaptırdım. | I booked the hotel for two nights.
+tavsiye etmek | to recommend | fiil | Hangi restoranı tavsiye edersiniz? | Which restaurant would you recommend?
+uğurlamak | to see off | fiil | Bizi havalimanında uğurladılar. | They saw us off at the airport.
+karşılamak | to meet (on arrival); to welcome | fiil | Seni otogarda karşılarım. | I'll meet you at the bus station.

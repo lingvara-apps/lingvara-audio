@@ -1,0 +1,111 @@
+# UNIT: Health | At the doctor's, symptoms, pharmacy, emergencies
+## At the doctor's
+muayene | medical examination; check-up | isim | Doktor beni muayene etti. | The doctor examined me.
+şikâyet | complaint | isim | Şikâyetiniz nedir? | What seems to be the problem?
+reçete | prescription | isim | Bu ilaç reçetesiz satılmıyor. | This medicine isn't sold without a prescription.
+tahlil | medical test | isim | Kan tahlili için aç gelin. | Come on an empty stomach for the blood test.
+kan | blood | isim | Hemşire koldan kan aldı. | The nurse took blood from my arm.
+tansiyon | blood pressure | isim | Dedemin tansiyonu yüksek. | My grandfather has high blood pressure.
+ölçmek | to measure; to take (temperature) | fiil | Ateşini ölçtün mü? | Have you taken your temperature?
+röntgen | X-ray | isim | Kolunun röntgenini çektiler. | They X-rayed his arm.
+kontrol | check-up; check | isim | Bir hafta sonra kontrole gelin. | Come back for a check-up in a week.
+randevu almak | to make an appointment | fiil | Doktordan randevu aldım. | I made an appointment with the doctor.
+## Symptoms
+boğaz | throat | isim | Boğazım çok ağrıyor. | I have a really sore throat.
+baş ağrısı | headache | isim | Sabahtan beri baş ağrım var. | I've had a headache since this morning.
+ishal | diarrhoea | isim | Çocukta ishal var mı? | Does the child have diarrhoea?
+kusmak | to vomit; to be sick | fiil | Gece iki kez kustu. | She was sick twice in the night.
+kaşınmak | to itch | fiil | Kolum çok kaşınıyor. | My arm is very itchy.
+şişmek | to swell | fiil | Ayak bileğim şişti. | My ankle has swollen.
+halsiz | weak; drained | sıfat | Kendimi çok halsiz hissediyorum. | I feel very weak.
+hapşırmak | to sneeze | fiil | Bahar gelince hep hapşırıyorum. | I sneeze all the time when spring comes.
+titremek | to shiver; to tremble | fiil | Ateşim var, titriyorum. | I've got a fever, I'm shivering.
+terlemek | to sweat | fiil | Gece çok terledim. | I sweated a lot during the night.
+## At the pharmacy
+hap | pill; tablet | isim | Günde iki hap içmem lazım. | I need to take two pills a day.
+şurup | syrup (medicine) | isim | Öksürük için bir şurup verir misiniz? | Could you give me a syrup for a cough?
+damla | drops | isim | Göz damlası kullanıyorum. | I use eye drops.
+merhem | ointment | isim | Yaraya bu merhemi sür. | Put this ointment on the wound.
+iğne | injection; needle | isim | Çocuklar iğneden korkar. | Children are scared of injections.
+aşı | vaccine; vaccination | isim | Grip aşısı oldun mu? | Have you had the flu jab?
+ağrı kesici | painkiller | isim | Bir ağrı kesici aldım, geçti. | I took a painkiller and it went away.
+antibiyotik | antibiotic | isim | Antibiyotiği yarıda bırakma. | Don't stop the antibiotics halfway.
+vitamin | vitamin | isim | Kışın C vitamini alıyorum. | I take vitamin C in winter.
+yara bandı | plaster; band-aid | isim | Parmağıma yara bandı yapıştırdım. | I put a plaster on my finger.
+## Injuries
+yara | wound; cut | isim | Yara çabuk iyileşti. | The wound healed quickly.
+kanamak | to bleed | fiil | Burnum kanıyor. | My nose is bleeding.
+kırılmak | to break; to be broken | fiil | Kayakta bacağı kırıldı. | He broke his leg skiing.
+burkulmak | to be sprained; to twist | fiil | Merdivende ayağım burkuldu. | I twisted my ankle on the stairs.
+yanmak | to burn; to be burnt | fiil | Elim fırında yandı. | I burnt my hand on the oven.
+düşmek | to fall | fiil | Çocuk bisikletten düştü. | The child fell off the bike.
+çarpmak | to hit; to bump into | fiil | Başımı rafa çarptım. | I hit my head on the shelf.
+morluk | bruise | isim | Bacağımda büyük bir morluk var. | I have a big bruise on my leg.
+yaralanmak | to get injured | fiil | Kazada iki kişi yaralandı. | Two people were injured in the accident.
+alçı | plaster cast | isim | Kolu üç hafta alçıda kalacak. | His arm will be in a cast for three weeks.
+## Emergencies
+acil servis | A&E; emergency room | isim | Gece acil servise gittik. | We went to A&E in the night.
+ambulans | ambulance | isim | Hemen bir ambulans çağırın! | Call an ambulance right now!
+kaza | accident | isim | Köprüde bir kaza olmuş. | There's been an accident on the bridge.
+yardım | help | isim | Yardıma ihtiyacınız var mı? | Do you need help?
+imdat | help! (in danger) | ünlem | İmdat! Kimse yok mu? | Help! Is anybody there?
+tehlike | danger | isim | Tehlike geçti, merak etme. | The danger has passed, don't worry.
+tehlikeli | dangerous | sıfat | Bu yol gece çok tehlikeli. | This road is very dangerous at night.
+bayılmak | to faint | fiil | Sıcaktan bayıldı. | She fainted from the heat.
+nefes almak | to breathe | fiil | Nefes alamıyorum! | I can't breathe!
+ilk yardım | first aid | isim | İlk yardım çantası arabada. | The first aid kit is in the car.
+## Inside the body
+beyin | brain | isim | Beyin çok karmaşık bir organ. | The brain is a very complex organ.
+kemik | bone | isim | Süt kemikler için faydalı. | Milk is good for your bones.
+kas | muscle | isim | Spordan sonra kaslarım ağrıyor. | My muscles ache after exercise.
+akciğer | lung | isim | Sigara akciğerlere zarar verir. | Smoking damages the lungs.
+böbrek | kidney | isim | Bol su içmek böbrekler için iyi. | Drinking lots of water is good for the kidneys.
+damar | vein; blood vessel | isim | Hemşire damarımı bulamadı. | The nurse couldn't find my vein.
+diz | knee | isim | Koşunca dizim ağrıyor. | My knee hurts when I run.
+dirsek | elbow | isim | Dirseğimi masaya çarptım. | I banged my elbow on the table.
+bel | lower back; waist | isim | Çok oturunca belim ağrıyor. | My lower back hurts when I sit too long.
+bilek | wrist; ankle | isim | Bileğinde bir saat var. | She has a watch on her wrist.
+## Healthy living
+spor | sport; exercise | isim | Haftada üç gün spor yapıyorum. | I exercise three days a week.
+egzersiz | exercise; workout | isim | Sabahları on dakika egzersiz yaparım. | I do ten minutes of exercise in the morning.
+kilo vermek | to lose weight | fiil | Yazdan beri beş kilo verdim. | I've lost five kilos since the summer.
+kilo almak | to put on weight | fiil | Tatilde biraz kilo aldım. | I put on a bit of weight on holiday.
+diyet | diet | isim | Doktor bana diyet önerdi. | The doctor suggested a diet for me.
+sigara | cigarette; smoking | isim | Sigara sağlığa zararlı. | Smoking is bad for your health.
+alkol | alcohol | isim | İlaç kullanırken alkol içmeyin. | Don't drink alcohol while taking medication.
+uyku | sleep | isim | İyi bir uyku her şeye iyi gelir. | A good night's sleep helps with everything.
+bırakmak | to quit; to leave; to let go | fiil | Babam sigarayı bıraktı. | My dad has quit smoking.
+zararlı | harmful | sıfat | Çok şeker dişlere zararlı. | Too much sugar is bad for your teeth.
+## Illnesses
+hastalık | illness; disease | isim | Bu hastalık çok yaygın. | This illness is very common.
+alerji | allergy | isim | Kediye alerjim var. | I'm allergic to cats.
+astım | asthma | isim | Kardeşimin astımı var. | My brother has asthma.
+şeker hastalığı | diabetes | isim | Dedem şeker hastası, tatlı yiyemiyor. | My grandfather has diabetes, he can't eat sweets.
+enfeksiyon | infection | isim | Kulağında enfeksiyon var. | He has an ear infection.
+mikrop | germ | isim | Ellerini yıka, her yer mikrop! | Wash your hands, there are germs everywhere!
+virüs | virus | isim | Okulda bir virüs dolaşıyor. | There's a virus going round the school.
+bulaşıcı | contagious; infectious | sıfat | Bu hastalık bulaşıcı mı? | Is this illness contagious?
+su çiçeği | chickenpox | isim | Kızım su çiçeği çıkardı. | My daughter has come down with chickenpox.
+hamile | pregnant | sıfat | Ablam altı aylık hamile. | My sister is six months pregnant.
+## In hospital
+ameliyat | operation; surgery | isim | Ameliyat iki saat sürdü. | The operation took two hours.
+tedavi | treatment | isim | Tedavi bir ay sürecek. | The treatment will last a month.
+taburcu olmak | to be discharged (from hospital) | fiil | Annem yarın taburcu oluyor. | My mum is being discharged tomorrow.
+ziyaretçi | visitor | isim | Ziyaretçiler saat sekizde çıkmalı. | Visitors must leave at eight.
+serum | IV drip | isim | Hastaya serum taktılar. | They put the patient on a drip.
+uzman | specialist; expert | isim | Bir göz uzmanına gitmelisin. | You should see an eye specialist.
+cerrah | surgeon | isim | Cerrah ameliyatın iyi geçtiğini söyledi. | The surgeon said the operation went well.
+sonuç | result | isim | Tahlil sonuçları yarın çıkacak. | The test results will be out tomorrow.
+bakım | care; maintenance | isim | Hemşireler çok iyi bakım veriyor. | The nurses give very good care.
+sağlık ocağı | local health centre | isim | Aşı için sağlık ocağına gittik. | We went to the health centre for the vaccination.
+## Worries and advice
+endişelenmek | to worry | fiil | Endişelenme, bir şey yok. | Don't worry, it's nothing.
+merak etmek | to wonder; to be worried about; to be curious | fiil | Seni çok merak ettim! | I was so worried about you!
+gergin | tense; nervous | sıfat | Ameliyattan önce çok gergindim. | I was very nervous before the operation.
+sakinleşmek | to calm down | fiil | Önce sakinleş, sonra anlat. | Calm down first, then tell me.
+dikkat etmek | to be careful; to pay attention | fiil | Yemeğine dikkat etmelisin. | You should watch what you eat.
+kendine iyi bak | take care of yourself | ifade | Kendine iyi bak, görüşürüz! | Take care of yourself, see you!
+korkmak | to be afraid | fiil | Korkma, iğne acıtmaz. | Don't be scared, the injection won't hurt.
+rahatsız | unwell; uncomfortable; disturbed | sıfat | Biraz rahatsızım, bugün gelemem. | I'm a bit unwell, I can't come today.
+hafif | light; mild | sıfat | Hafif bir grip, merak etme. | It's just a mild flu, don't worry.
+ağır | heavy; serious (illness) | sıfat | Ağır bir hastalık geçirdi. | He went through a serious illness.
