@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Yollar
+公路 (gōnglù) | karayolu | isim | 这条公路连接着两个城市。 | Bu karayolu iki şehri birbirine bağlıyor.
+国道 (guódào) | devlet yolu | isim | 走国道虽然慢一点儿，但是不收费。 | Devlet yolundan gitmek biraz yavaş ama ücretsiz.
+立交桥 (lìjiāoqiáo) | köprülü kavşak | isim | 北京有很多复杂的立交桥。 | Pekin'de pek çok karmaşık köprülü kavşak var.
+隧道 (suìdào) | tünel | isim | 火车穿过了一条很长的隧道。 | Tren çok uzun bir tünelden geçti.
+环路 (huánlù) | çevre yolu | isim | 他家住在三环路附近。 | Evi üçüncü çevre yolunun yakınında.
+十字路口 (shízì lùkǒu) | dört yol ağzı | isim | 在下一个十字路口往左拐。 | Bir sonraki dört yol ağzından sola dön.
+斑马线 (bānmǎxiàn) | yaya geçidi | isim | 过马路要走斑马线。 | Karşıdan karşıya geçerken yaya geçidini kullanmak gerekir.
+车道 (chēdào) | şerit | isim | 这条路有四条车道。 | Bu yolun dört şeridi var.
+路面 (lùmiàn) | yol yüzeyi | isim | 下雨以后路面很滑，开车要小心。 | Yağmurdan sonra yol çok kaygan, dikkatli sür.
+收费站 (shōufèizhàn) | gişe (otoyol) | isim | 节假日的时候，高速公路的收费站经常堵车。 | Bayram tatillerinde otoyol gişelerinde sık sık trafik oluyor.
+## Araba kullanmak
+驾驶 (jiàshǐ) | sürmek (araç) | fiil | 驾驶的时候不能打电话。 | Araç sürerken telefonla konuşulmaz.
+驾照 (jiàzhào) | ehliyet | isim | 我上个月刚拿到驾照。 | Ehliyetimi geçen ay aldım.
+驾校 (jiàxiào) | sürücü kursu | isim | 她暑假的时候报名上了驾校。 | Yaz tatilinde sürücü kursuna yazıldı.
+新手 (xīnshǒu) | acemi | isim | 我是新手，开车还不太熟练。 | Acemiyim, araba kullanmada henüz pek usta değilim.
+刹车 (shāchē) | fren yapmak; fren | fiil | 前面突然有个孩子跑过来，他赶紧刹车。 | Önüne aniden bir çocuk fırladı, hemen frene bastı.
+油门 (yóumén) | gaz pedalı | isim | 上坡的时候要多踩一点儿油门。 | Yokuş çıkarken gaza biraz daha basmak gerekir.
+方向盘 (fāngxiàngpán) | direksiyon | isim | 开车时两只手都要握住方向盘。 | Araba kullanırken iki elle direksiyonu tutmak gerekir.
+倒车 (dàochē) | geri geri gitmek | fiil | 他倒车的时候不小心撞到了墙。 | Geri geri giderken yanlışlıkla duvara çarptı.
+变道 (biàndào) | şerit değiştirmek | fiil | 变道之前要打转向灯。 | Şerit değiştirmeden önce sinyal vermek gerekir.
+超车 (chāochē) | sollamak | fiil | 在弯道上超车非常危险。 | Virajda sollamak çok tehlikelidir.
+## Araçlar
+轿车 (jiàochē) | binek otomobil | isim | 他买了一辆白色的轿车。 | Beyaz bir binek otomobil aldı.
+卡车 (kǎchē) | kamyon | isim | 一辆大卡车停在了路边。 | Büyük bir kamyon yol kenarına park etti.
+货车 (huòchē) | yük aracı | isim | 晚上很多货车往城里运菜。 | Geceleri pek çok yük aracı şehre sebze taşıyor.
+面包车 (miànbāochē) | minibüs | isim | 我们一家人开着面包车去郊游。 | Bütün aile minibüsle pikniğe gittik.
+越野车 (yuèyěchē) | arazi aracı | isim | 去西藏旅行最好开越野车。 | Tibet'e seyahat ederken arazi aracı kullanmak en iyisi.
+电动汽车 (diàndòng qìchē) | elektrikli araba | isim | 电动汽车比汽油车更环保。 | Elektrikli arabalar benzinli arabalardan daha çevre dostudur.
+轮胎 (lúntāi) | lastik (araç) | isim | 冬天最好换上雪地轮胎。 | Kışın kar lastiği taktırmak en iyisi.
+发动机 (fādòngjī) | motor | isim | 车的发动机有点儿问题，得去修一下。 | Arabanın motorunda biraz sorun var, tamire götürmek lazım.
+车牌 (chēpái) | plaka | isim | 你记得那辆车的车牌号吗？ | O arabanın plaka numarasını hatırlıyor musun?
+后备箱 (hòubèixiāng) | bagaj (araba) | isim | 请把行李放进后备箱。 | Lütfen bavulları bagaja koyun.
+## Trafik kuralları
+交通规则 (jiāotōng guīzé) | trafik kuralları | isim | 每个人都应该遵守交通规则。 | Herkes trafik kurallarına uymalı.
+限速 (xiànsù) | hız sınırı | isim | 这条路限速六十公里。 | Bu yolda hız sınırı altmış kilometre.
+超速 (chāosù) | hız sınırını aşmak | fiil | 他因为超速被罚了两百块。 | Hız sınırını aştığı için iki yüz yuan ceza yedi.
+闯红灯 (chuǎng hóngdēng) | kırmızı ışıkta geçmek | ifade | 闯红灯是非常危险的行为。 | Kırmızı ışıkta geçmek çok tehlikeli bir davranıştır.
+让行 (ràngxíng) | yol vermek | fiil | 看到行人要减速让行。 | Yaya görünce yavaşlayıp yol vermek gerekir.
+禁止停车 (jìnzhǐ tíngchē) | park yasağı | ifade | 这里写着“禁止停车”，你不能把车停在这儿。 | Burada "park yapılmaz" yazıyor, arabanı buraya park edemezsin.
+单行道 (dānxíngdào) | tek yön | isim | 这条街是单行道，不能逆行。 | Bu sokak tek yön, ters yöne girilemez.
+鸣笛 (míngdí) | korna çalmak | fiil | 医院附近禁止鸣笛。 | Hastane çevresinde korna çalmak yasaktır.
+疲劳驾驶 (píláo jiàshǐ) | yorgun araç kullanma | isim | 疲劳驾驶和酒后驾驶一样危险。 | Yorgun araç kullanmak alkollü araç kullanmak kadar tehlikelidir.
+行人 (xíngrén) | yaya | isim | 下雨天路上的行人很少。 | Yağmurlu günlerde yolda yaya çok az olur.
+## Toplu taşıma
+公交 (gōngjiāo) | otobüs (toplu taşıma) | isim | 我每天坐公交上班。 | Her gün işe otobüsle gidiyorum.
+公交卡 (gōngjiāokǎ) | toplu taşıma kartı | isim | 我的公交卡里没钱了，得充值。 | Toplu taşıma kartımda para kalmadı, yükleme yapmam lazım.
+线路 (xiànlù) | hat (otobüs, metro) | isim | 这条公交线路经过火车站。 | Bu otobüs hattı tren istasyonundan geçiyor.
+班次 (bāncì) | sefer | isim | 周末去机场的大巴班次比较少。 | Hafta sonları havaalanına giden otobüs seferleri daha az.
+末班车 (mòbānchē) | son sefer | isim | 我们得快点儿，末班车十一点开。 | Acele etmeliyiz, son sefer saat on birde kalkıyor.
+首班车 (shǒubānchē) | ilk sefer | isim | 地铁的首班车早上五点半发车。 | Metronun ilk seferi sabah beş buçukta kalkıyor.
+站牌 (zhànpái) | durak tabelası | isim | 站牌上写着这路车的所有站名。 | Durak tabelasında bu hattın tüm durak adları yazıyor.
+乘车 (chéngchē) | araca binmek (resmî) | fiil | 请乘客们排队乘车。 | Yolcuların sıraya girerek araca binmesi rica olunur.
+坐过站 (zuò guò zhàn) | durağı kaçırmak | ifade | 我在车上睡着了，结果坐过站了。 | Otobüste uyuyakaldım, sonunda durağımı kaçırdım.
+投币 (tóubì) | bozuk para atmak | fiil | 这辆公交车可以投币，也可以刷卡。 | Bu otobüse bozuk parayla da kartla da binilebilir.
+## Trafik kazaları
+车祸 (chēhuò) | trafik kazası | isim | 他在一次车祸中受了重伤。 | Bir trafik kazasında ağır yaralandı.
+追尾 (zhuīwěi) | arkadan çarpmak | fiil | 下雨天路滑，有两辆车追尾了。 | Yağmurda yol kaygan, iki araç birbirine arkadan çarptı.
+相撞 (xiāngzhuàng) | çarpışmak | fiil | 两辆汽车在路口相撞了。 | İki araba kavşakta çarpıştı.
+剐蹭 (guǎcèng) | sürtmek, çizmek (araç) | fiil | 停车的时候，我的车被别人剐蹭了。 | Park ederken arabamı başkası sürtüp çizdi.
+肇事 (zhàoshì) | kazaya sebep olmak | fiil | 警察很快找到了肇事的司机。 | Polis kazaya sebep olan sürücüyü kısa sürede buldu.
+逃逸 (táoyì) | kaçmak (olay yerinden) | fiil | 撞人以后逃逸是严重的违法行为。 | Birine çarpıp kaçmak ağır bir suçtur.
+伤亡 (shāngwáng) | ölü ve yaralı | isim | 幸运的是，这次事故没有人员伤亡。 | Neyse ki bu kazada ölen ya da yaralanan olmadı.
+拖车 (tuōchē) | çekici | isim | 车坏在了半路上，只好叫拖车。 | Araba yolun ortasında bozuldu, mecburen çekici çağırdık.
+定损 (dìngsǔn) | hasar tespiti | fiil | 保险公司派人来给车定损。 | Sigorta şirketi araçta hasar tespiti yapmak için birini gönderdi.
+抛锚 (pāomáo) | (araç) yolda kalmak | fiil | 我们的车在高速公路上抛锚了。 | Arabamız otoyolda bozulup kaldı.
+## Demiryolu ve havayolu
+铁路 (tiělù) | demiryolu | isim | 这条铁路是一百年前修建的。 | Bu demiryolu yüz yıl önce yapıldı.
+动车 (dòngchē) | hızlı tren (EMU) | isim | 坐动车去杭州只要一个小时。 | Hızlı trenle Hangzhou'ya gitmek sadece bir saat sürüyor.
+轨道交通 (guǐdào jiāotōng) | raylı ulaşım | isim | 这个城市的轨道交通非常发达。 | Bu şehrin raylı ulaşım sistemi çok gelişmiş.
+磁悬浮 (cíxuánfú) | maglev (manyetik tren) | isim | 上海的磁悬浮列车速度非常快。 | Şanghay'daki manyetik trenin hızı çok yüksek.
+航线 (hángxiàn) | hava yolu hattı | isim | 这家航空公司开通了一条新的国际航线。 | Bu hava yolu şirketi yeni bir uluslararası hat açtı.
+起点 (qǐdiǎn) | başlangıç noktası | isim | 这条公交线路的起点是火车站。 | Bu otobüs hattının başlangıç noktası tren istasyonu.
+终点站 (zhōngdiǎnzhàn) | son durak | isim | 终点站到了，请所有乘客下车。 | Son durağa geldik, tüm yolcuların inmesi rica olunur.
+列车 (lièchē) | tren (resmî) | isim | 列车即将进站，请注意安全。 | Tren istasyona girmek üzere, lütfen güvenliğinize dikkat edin.
+乘务员 (chéngwùyuán) | kabin görevlisi, kondüktör | isim | 乘务员推着小车卖饮料。 | Kabin görevlisi arabayı iterek içecek satıyor.
+晕机 (yùnjī) | uçak tutmak | fiil | 我容易晕机，长途飞行很难受。 | Beni uçak kolay tutar, uzun uçuşlar çok zor geçer.
+## Şehir trafiği
+限行 (xiànxíng) | trafik kısıtlaması | fiil | 北京按车牌尾号限行。 | Pekin'de plakanın son rakamına göre trafik kısıtlaması uygulanıyor.
+摇号 (yáohào) | kura (plaka) | fiil | 在这个城市买车要先摇号。 | Bu şehirde araba almak için önce plaka kurasına girmek gerekiyor.
+尾号 (wěihào) | son rakam | isim | 今天尾号是三和八的车不能开。 | Bugün son rakamı üç ve sekiz olan araçlar kullanılamaz.
+停车费 (tíngchēfèi) | otopark ücreti | isim | 市中心的停车费一个小时要十块。 | Şehir merkezinde otopark ücreti saati on yuan.
+绕路 (ràolù) | yolu uzatmak, dolaşmak | fiil | 出租车司机故意绕路，多收了钱。 | Taksi şoförü kasıtlı olarak yolu uzatıp fazla para aldı.
+抄近路 (chāo jìnlù) | kestirmeden gitmek | ifade | 我们从小区里抄近路，十分钟就到了。 | Sitenin içinden kestirmeden gittik, on dakikada vardık.
+绕行 (ràoxíng) | başka yoldan gitmek | fiil | 前方修路，车辆请绕行。 | İleride yol çalışması var, araçlar başka yoldan gitsin.
+畅通 (chàngtōng) | akıcı, tıkanmasız | sıfat | 今天路上很畅通，一点儿也不堵。 | Bugün yollar çok açık, hiç trafik yok.
+掉头 (diàotóu) | U dönüşü yapmak | fiil | 这个路口不能掉头。 | Bu kavşakta U dönüşü yapılamaz.
+车流 (chēliú) | araç akışı | isim | 下班时间，路上的车流特别大。 | İş çıkış saatinde yoldaki araç akışı çok yoğun.
+## Yolculuk seçenekleri
+打车软件 (dǎchē ruǎnjiàn) | taksi uygulaması | isim | 现在大家都用打车软件叫车。 | Artık herkes araç çağırmak için taksi uygulaması kullanıyor.
+网约车 (wǎngyuēchē) | uygulama ile çağrılan araç | isim | 网约车比出租车便宜一点儿。 | Uygulamayla çağrılan araçlar taksiden biraz daha ucuz.
+拼车 (pīnchē) | araç paylaşmak | fiil | 我们几个人拼车去机场吧。 | Birkaç kişi aynı arabayı paylaşıp havaalanına gidelim.
+代驾 (dàijià) | yedek sürücü hizmeti | isim | 喝了酒就别开车了，叫个代驾吧。 | İçki içtiysen araba kullanma, bir yedek sürücü çağır.
+顺风车 (shùnfēngchē) | aynı yöne giden araç (paylaşımlı) | isim | 春节回家，我坐了朋友的顺风车。 | Bahar Bayramı'nda eve dönerken aynı yöne giden bir arkadaşımın arabasına bindim.
+步行 (bùxíng) | yürüyerek gitmek | fiil | 从这儿步行到地铁站要十分钟。 | Buradan metro istasyonuna yürüyerek on dakika.
+通行 (tōngxíng) | geçiş, geçmek | fiil | 这座桥只允许行人通行。 | Bu köprüden yalnızca yayaların geçmesine izin veriliyor.
+搭车 (dāchē) | otostop yapmak, birinin arabasına binmek | fiil | 他在路边搭车去了下一个城市。 | Yol kenarında otostop çekip bir sonraki şehre gitti.
+接送 (jiēsòng) | götürüp getirmek | fiil | 爷爷每天接送孙子上下学。 | Dede her gün torununu okula götürüp getiriyor.
+车程 (chēchéng) | araçla yolculuk süresi | isim | 从机场到市中心大约一个小时车程。 | Havaalanından şehir merkezine arabayla yaklaşık bir saat.
+## Araç bakımı
+保养 (bǎoyǎng) | bakım (yapmak) | fiil | 车开了一万公里，该去保养了。 | Araba on bin kilometre yaptı, bakıma götürme zamanı.
+洗车 (xǐchē) | araba yıkamak | fiil | 周末我去洗车，车太脏了。 | Hafta sonu arabayı yıkamaya götüreceğim, çok kirlendi.
+充电桩 (chōngdiànzhuāng) | şarj istasyonu | isim | 小区里新装了几个充电桩。 | Siteye birkaç yeni şarj istasyonu kuruldu.
+油耗 (yóuhào) | yakıt tüketimi | isim | 这辆车的油耗很低，很省钱。 | Bu arabanın yakıt tüketimi çok düşük, çok tasarruflu.
+年检 (niánjiǎn) | yıllık muayene | isim | 我的车下个月要去年检。 | Arabamın gelecek ay yıllık muayenesi var.
+车险 (chēxiǎn) | araç sigortası | isim | 新车一定要买车险。 | Yeni araç için mutlaka sigorta yaptırmak gerekir.
+修车 (xiūchē) | araba tamir etmek | fiil | 他在路口开了一家修车店。 | Kavşakta bir araba tamirhanesi açtı.
+爆胎 (bàotāi) | lastik patlamak | fiil | 在高速上爆胎是非常危险的。 | Otoyolda lastik patlaması çok tehlikelidir.
+二手车 (èrshǒuchē) | ikinci el araba | isim | 刚工作的时候，他买了一辆二手车。 | İşe yeni başladığında ikinci el bir araba aldı.
+车况 (chēkuàng) | aracın durumu | isim | 这辆二手车的车况还不错。 | Bu ikinci el arabanın durumu fena değil.
