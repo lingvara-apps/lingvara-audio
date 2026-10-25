@@ -1,0 +1,111 @@
+# UNIT: Medicine | Specialists, serious illnesses, treatment, public health
+## Medical specialists
+kardiyolog | cardiologist | isim | Göğüs ağrıları başlayınca aile hekimi beni bir kardiyoloğa yönlendirdi. | When my chest pains started, my GP referred me to a cardiologist.
+nörolog | neurologist | isim | Sık sık baş dönmesi yaşadığı için bir nöroloğa görünmesi gerekiyor. | Because he often gets dizzy, he needs to see a neurologist.
+dermatolog | dermatologist | isim | Yüzündeki lekeler için dermatolog ona güneş kremi ve bir merhem verdi. | For the spots on her face, the dermatologist gave her sunscreen and an ointment.
+çocuk doktoru | paediatrician | isim | Bebeğimizin ateşi düşmeyince gece yarısı çocuk doktorunu aradık. | When our baby's fever didn't come down, we called the paediatrician at midnight.
+kadın doğum uzmanı | obstetrician-gynaecologist | isim | Hamileliği boyunca her ay kadın doğum uzmanına kontrole gitti. | Throughout her pregnancy she went to her obstetrician for a check-up every month.
+göz doktoru | eye doctor; ophthalmologist | isim | Göz doktoru, bilgisayar başında çok kaldığım için gözlerimin yorulduğunu söyledi. | The eye doctor said my eyes were strained because I spend so long at the computer.
+kulak burun boğaz uzmanı | ear, nose and throat specialist | isim | Sürekli horladığı için bir kulak burun boğaz uzmanına muayene oldu. | Because he snores constantly, he was examined by an ENT specialist.
+ortopedi uzmanı | orthopaedic specialist | isim | Kayak yaparken dizini incitince bir ortopedi uzmanına gitti. | When he injured his knee skiing, he went to an orthopaedic specialist.
+anestezi uzmanı | anaesthetist | isim | Ameliyattan önce anestezi uzmanı bana birkaç soru sordu. | Before the operation, the anaesthetist asked me a few questions.
+onkolog | oncologist | isim | Onkolog, tedavinin altı ay süreceğini ve umutlu olduklarını söyledi. | The oncologist said the treatment would take six months and that they were hopeful.
+## Hospital departments and care
+dahiliye | internal medicine | isim | Mide ağrınız için önce dahiliye polikliniğinden randevu almanız gerekiyor. | For your stomach pain, you first need to make an appointment with internal medicine.
+ameliyathane | operating theatre | isim | Hasta sabah sekizde ameliyathaneye alındı, ameliyat üç saat sürdü. | The patient was taken into theatre at eight in the morning; the operation lasted three hours.
+doğumhane | delivery room | isim | Eşi doğumhanede olduğu için baba heyecanla koridorda bekliyordu. | Because his wife was in the delivery room, the father was waiting nervously in the corridor.
+radyoloji | radiology | isim | Röntgen çekmek için hastanenin bodrum katındaki radyoloji bölümüne gidin. | For an X-ray, go to the radiology department in the hospital basement.
+kemoterapi | chemotherapy | isim | Kemoterapi sırasında saçları döküldü ama tedaviye cesaretle devam etti. | Her hair fell out during chemotherapy, but she continued her treatment bravely.
+diyaliz | dialysis | isim | Böbrekleri çalışmadığı için haftada üç gün diyalize giriyor. | Because his kidneys don't work, he has dialysis three days a week.
+hasta kabul | patient admissions | isim | Hastaneye gelince önce hasta kabul bölümünde kimliğinizi gösterin. | When you arrive at the hospital, first show your ID at patient admissions.
+triyaj | triage | isim | Acil serviste triyaj sayesinde ağır hastalar önce muayene ediliyor. | Thanks to triage, the most serious patients in A&E are examined first.
+ayakta tedavi | outpatient treatment | isim | Durumu ciddi olmadığı için ayakta tedavi edilip aynı gün eve gönderildi. | Since his condition wasn't serious, he was treated as an outpatient and sent home the same day.
+yatarak tedavi | inpatient treatment | isim | Doktorlar, zatürre olan dedemin yatarak tedavi görmesine karar verdi. | The doctors decided that my grandfather, who had pneumonia, should be treated as an inpatient.
+## Serious illnesses
+kanser | cancer | isim | Erken teşhis edilen birçok kanser türü bugün tamamen tedavi edilebiliyor. | Many types of cancer diagnosed early can now be fully treated.
+tümör | tumour | isim | Ameliyatta çıkarılan tümörün iyi huylu olduğu anlaşıldı. | It turned out that the tumour removed in the operation was benign.
+inme | stroke | isim | Ani konuşma bozukluğu ve yüzde kayma, inmenin en önemli belirtilerindendir. | Sudden slurred speech and a drooping face are among the most important signs of a stroke.
+felç | paralysis | isim | Kazadan sonra bacaklarında geçici bir felç oluştu ama zamanla iyileşti. | After the accident he had temporary paralysis in his legs, but it got better over time.
+Alzheimer | Alzheimer's disease | isim | Babaannem Alzheimer olduğu için artık torunlarının isimlerini hatırlamıyor. | Because my grandmother has Alzheimer's, she no longer remembers her grandchildren's names.
+verem | tuberculosis | isim | Eskiden çok yaygın olan verem, aşı ve ilaçlar sayesinde azaldı. | Tuberculosis, which used to be very common, has declined thanks to vaccines and drugs.
+hepatit | hepatitis | isim | Hepatite karşı çocukluk döneminde yapılan aşılar çok önemlidir. | The vaccines against hepatitis given in childhood are very important.
+kalp yetmezliği | heart failure | isim | Kalp yetmezliği olan hastalar tuz tüketimine çok dikkat etmeli. | Patients with heart failure must be very careful about their salt intake.
+böbrek yetmezliği | kidney failure | isim | Böbrek yetmezliği yaşayan hastalar nakil için yıllarca sıra bekleyebiliyor. | Patients with kidney failure may wait years for a transplant.
+lösemi | leukaemia | isim | Lösemi tedavisi gören çocuklar için hastanede bir oyun odası açıldı. | A playroom was opened at the hospital for children being treated for leukaemia.
+## Diagnosis
+teşhis | diagnosis | isim | Doktorlar doğru teşhisi koyabilmek için bir dizi test istedi. | The doctors asked for a series of tests to be able to make the correct diagnosis.
+tanı koymak | to diagnose | fiil | Uzman, hastaya birkaç dakikalık muayeneden sonra tanı koydu. | The specialist diagnosed the patient after an examination of a few minutes.
+belirti | symptom; sign | isim | Hastalığın ilk belirtileri genellikle yorgunluk ve iştahsızlıktır. | The first symptoms of the illness are usually tiredness and loss of appetite.
+MR | MRI scan | isim | Dizimdeki ağrının nedenini bulmak için MR çekilmesi gerekiyor. | An MRI scan is needed to find the cause of the pain in my knee.
+ultrason | ultrasound | isim | Ultrasonda bebeğin kalp atışlarını ilk kez duyunca gözlerimiz doldu. | When we heard the baby's heartbeat for the first time on the ultrasound, our eyes filled with tears.
+tomografi | CT scan | isim | Kazadan sonra beyin kanaması olup olmadığını anlamak için tomografi çektiler. | After the accident they did a CT scan to see whether there was any bleeding on the brain.
+biyopsi | biopsy | isim | Şüpheli dokudan alınan biyopsinin sonucu bir hafta içinde çıkacak. | The result of the biopsy taken from the suspicious tissue will come out within a week.
+kan sayımı | blood count | isim | Rutin kan sayımında demir eksikliği olduğu ortaya çıktı. | A routine blood count revealed that she was iron deficient.
+tetkik | medical test; investigation | isim | Doktor kesin bir şey söylemeden önce bazı ileri tetkikler istedi. | The doctor asked for some further tests before saying anything definite.
+şüphelenmek | to suspect | fiil | Doktor, sürekli öksürüğü yüzünden astımdan şüphelendi. | The doctor suspected asthma because of the constant cough.
+## Surgery and treatment
+organ nakli | organ transplant | isim | Başarılı bir organ nakli sayesinde genç kadın yeniden sağlığına kavuştu. | Thanks to a successful organ transplant, the young woman regained her health.
+bağışçı | donor | isim | Kardeşi uygun bağışçı çıkınca böbrek nakli hemen planlandı. | When her brother turned out to be a suitable donor, the kidney transplant was planned at once.
+narkoz | general anaesthetic | isim | Narkozun etkisi geçince hasta yavaş yavaş gözlerini açtı. | When the anaesthetic wore off, the patient slowly opened his eyes.
+kesi | incision | isim | Yeni yöntem sayesinde ameliyat çok küçük bir kesiyle yapılabiliyor. | Thanks to the new method, the operation can be done through a very small incision.
+rehabilitasyon | rehabilitation | isim | İnmeden sonra üç ay boyunca bir rehabilitasyon merkezinde yürümeyi yeniden öğrendi. | After the stroke, he relearned how to walk at a rehabilitation centre for three months.
+nüksetmek | to recur; to relapse | fiil | Hastalık beş yıl sonra nüksedince tedaviye yeniden başlandı. | When the illness recurred five years later, treatment was started again.
+ilaç tedavisi | drug treatment | isim | Doktor, ameliyat yerine önce ilaç tedavisini denemeyi önerdi. | Instead of surgery, the doctor suggested trying drug treatment first.
+ışın tedavisi | radiotherapy | isim | Ameliyattan sonra kalan hücreleri yok etmek için ışın tedavisi uygulandı. | After the operation, radiotherapy was given to destroy the remaining cells.
+ameliyat masası | operating table | isim | Cerrah, sekiz saat boyunca ameliyat masasının başından hiç ayrılmadı. | The surgeon didn't leave the operating table for eight hours.
+tedaviye yanıt vermek | to respond to treatment | fiil | Neyse ki hasta tedaviye iyi yanıt veriyor, değerleri her gün düzeliyor. | Fortunately, the patient is responding well to treatment and his levels improve every day.
+## Medicines
+etken madde | active ingredient | isim | Bu iki ilacın adı farklı ama etken maddeleri tamamen aynı. | These two drugs have different names, but their active ingredients are exactly the same.
+reçeteli | prescription-only | sıfat | Antibiyotikler reçeteli ilaçlardır, eczaneden doktor reçetesi olmadan alınamaz. | Antibiotics are prescription-only drugs and can't be bought without a doctor's prescription.
+reçetesiz | over-the-counter | sıfat | Basit bir baş ağrısı için reçetesiz satılan ağrı kesiciler yeterli olabilir. | For a simple headache, over-the-counter painkillers may be enough.
+kapsül | capsule | isim | Bu kapsülleri çiğnemeden, bol suyla yutmanız gerekiyor. | You need to swallow these capsules whole, with plenty of water.
+enjeksiyon | injection | isim | Ağrısı çok şiddetli olduğu için hemşire ona kas içine bir enjeksiyon yaptı. | Because her pain was very severe, the nurse gave her an intramuscular injection.
+kullanma talimatı | patient information leaflet | isim | İlacı kullanmadan önce kutunun içindeki kullanma talimatını mutlaka okuyun. | Be sure to read the leaflet in the box before taking the medicine.
+aç karnına | on an empty stomach | zarf | Bu tableti sabahları aç karnına, kahvaltıdan yarım saat önce alın. | Take this tablet in the morning on an empty stomach, half an hour before breakfast.
+tok karnına | after a meal | zarf | Mideyi rahatsız ettiği için bu ilaç tok karnına içilmeli. | Because it upsets the stomach, this medicine should be taken after a meal.
+son kullanma tarihi | expiry date | isim | Dolaptaki ilaçların son kullanma tarihini kontrol edip eskileri attım. | I checked the expiry dates of the medicines in the cupboard and threw out the old ones.
+ilaç etkileşimi | drug interaction | isim | Eczacı, iki ilacı birlikte kullanmanın tehlikeli bir ilaç etkileşimine yol açabileceğini söyledi. | The pharmacist said taking the two drugs together could cause a dangerous drug interaction.
+## Public health
+halk sağlığı | public health | isim | Sigara yasakları halk sağlığını korumak için alınan en önemli önlemlerden biri. | Smoking bans are among the most important measures taken to protect public health.
+pandemi | pandemic | isim | Pandemi sırasında okullar kapandı ve dersler internetten yapıldı. | During the pandemic, schools closed and lessons were held online.
+bulaşma | transmission; infection | isim | Virüsün bulaşma yolu henüz tam olarak bilinmiyor. | The virus's route of transmission is not yet fully known.
+risk grubu | risk group | isim | Yaşlılar ve kronik hastalar grip için risk grubunda yer alıyor. | The elderly and the chronically ill are in the risk group for flu.
+aşı takvimi | vaccination schedule | isim | Bebeğinizin aşılarını aşı takvimine göre zamanında yaptırmayı unutmayın. | Don't forget to have your baby vaccinated on time according to the vaccination schedule.
+sağlık politikası | health policy | isim | Ülkenin yeni sağlık politikası koruyucu hekimliğe daha çok önem veriyor. | The country's new health policy gives more importance to preventive medicine.
+ortalama yaşam süresi | life expectancy | isim | Son elli yılda ortalama yaşam süresi on beş yıldan fazla arttı. | Life expectancy has risen by more than fifteen years over the last fifty years.
+bebek ölüm oranı | infant mortality rate | isim | Sağlık hizmetleri iyileştikçe bebek ölüm oranı büyük ölçüde düştü. | As health services improved, the infant mortality rate fell considerably.
+obezite | obesity | isim | Çocuklar arasında obezite, hareketsiz yaşam yüzünden giderek artıyor. | Obesity among children is increasing steadily because of an inactive lifestyle.
+sigarayla mücadele | anti-smoking campaign | isim | Sigarayla mücadele kapsamında paketlerin üzerine uyarı resimleri kondu. | As part of the fight against smoking, warning pictures were put on the packets.
+## Medical professionals and ethics
+hekim | physician; doctor | isim | Köydeki tek hekim, otuz yıl boyunca bütün köylülerin sağlığıyla ilgilendi. | The only doctor in the village looked after all the villagers' health for thirty years.
+asistan doktor | junior doctor; resident | isim | Asistan doktorlar bazen otuz altı saat aralıksız nöbet tutuyor. | Junior doctors sometimes do thirty-six-hour shifts without a break.
+tıp öğrencisi | medical student | isim | Tıp öğrencileri altıncı sınıfta hastanede doktorlarla birlikte çalışıyor. | In their sixth year, medical students work alongside doctors in the hospital.
+sağlık çalışanı | health worker | isim | Pandemide sağlık çalışanları aylarca ailelerini göremeden çalıştı. | During the pandemic, health workers worked for months without seeing their families.
+ebe | midwife | isim | Köyde eskiden bütün bebekleri yaşlı bir ebe doğururdu. | In the past, an old midwife delivered all the babies in the village.
+hasta hakları | patients' rights | isim | Hasta hakları gereği, tedaviniz hakkında ayrıntılı bilgi isteyebilirsiniz. | Under patients' rights, you can ask for detailed information about your treatment.
+tıbbi hata | medical error | isim | Yanlış ilaç verilmesi gibi tıbbi hatalar ciddi sonuçlara yol açabilir. | Medical errors such as giving the wrong drug can have serious consequences.
+ikinci görüş | second opinion | isim | Ameliyat kararı vermeden önce başka bir doktordan ikinci görüş almak istiyorum. | Before deciding on surgery, I want to get a second opinion from another doctor.
+onam formu | consent form | isim | Ameliyattan önce hasta ve yakınları onam formunu dikkatlice okuyup imzaladı. | Before the operation, the patient and her relatives carefully read and signed the consent form.
+hasta mahremiyeti | patient confidentiality | isim | Hasta mahremiyeti gereği doktor, sağlık bilgilerimi kimseyle paylaşamaz. | Because of patient confidentiality, the doctor can't share my health information with anyone.
+## Long-term care
+hasta bakımı | patient care | isim | Hemşirelik, hasta bakımı konusunda hem bilgi hem de sabır isteyen bir meslek. | Nursing is a profession that requires both knowledge and patience in patient care.
+evde bakım | home care | isim | Belediye, yatağa bağlı yaşlılara ücretsiz evde bakım hizmeti veriyor. | The municipality provides free home care to elderly people who are bedridden.
+bakıcı | carer; caregiver | isim | Annem ameliyattan sonra kendi işlerini yapamayınca bir bakıcı tuttuk. | When my mother couldn't look after herself after the operation, we hired a carer.
+yatalak | bedridden | sıfat | Dedem son iki yılını yatalak olarak geçirdi ama hep güler yüzlüydü. | My grandfather spent his last two years bedridden but was always cheerful.
+engelli | disabled | sıfat | Yeni metro istasyonları engelli yolcular için asansörle donatıldı. | The new metro stations have been fitted with lifts for disabled passengers.
+tekerlekli sandalye | wheelchair | isim | Tekerlekli sandalye kullanan öğrenciler için okula rampa yapıldı. | A ramp was built at the school for students who use wheelchairs.
+protez | prosthesis; denture | isim | Kazada bacağını kaybeden sporcu, protezle yeniden koşmaya başladı. | The athlete who lost his leg in an accident started running again with a prosthesis.
+işitme cihazı | hearing aid | isim | Babaannem işitme cihazı taktığından beri telefonda rahatça konuşabiliyor. | Since my grandmother started wearing a hearing aid, she can talk easily on the phone.
+palyatif bakım | palliative care | isim | Palyatif bakım servisi, ağır hastaların ağrısını azaltmaya odaklanıyor. | The palliative care unit focuses on reducing the pain of seriously ill patients.
+bakım evi | care home | isim | Çocukları yurt dışında olduğu için yaşlı adam bir bakım evine yerleşti. | Because his children are abroad, the old man moved into a care home.
+## Risks and prognosis
+risk faktörü | risk factor | isim | Sigara ve hareketsizlik, kalp hastalıkları için en önemli risk faktörleridir. | Smoking and inactivity are the most important risk factors for heart disease.
+kalıtsal | hereditary | sıfat | Ailesinde kalıtsal bir göz hastalığı olduğu için her yıl kontrole gidiyor. | Because there's a hereditary eye disease in his family, he goes for a check-up every year.
+yatkınlık | predisposition; tendency | isim | Ailesinde şeker hastalığı olanlarda bu hastalığa yatkınlık daha yüksek. | People with diabetes in the family have a greater predisposition to the disease.
+erken evre | early stage | isim | Hastalık erken evrede yakalandığı için tedavi çok başarılı oldu. | Because the illness was caught at an early stage, the treatment was very successful.
+ileri evre | advanced stage | isim | Belirtiler geç fark edilince hastalık ileri evreye ulaşmıştı. | Because the symptoms were noticed late, the illness had reached an advanced stage.
+tedavi edilebilir | treatable; curable | sıfat | Doktor, hastalığın tamamen tedavi edilebilir olduğunu söyleyince rahatladık. | We were relieved when the doctor said the illness was completely treatable.
+ölümcül | fatal; deadly | sıfat | Bu mantar türü ölümcül olabilir, ormanda topladığınız mantarları yemeyin. | This kind of mushroom can be deadly; don't eat mushrooms you pick in the forest.
+iyi huylu | benign | sıfat | Biyopsi sonucunda kitlenin iyi huylu olduğu anlaşılınca derin bir nefes aldık. | We breathed a sigh of relief when the biopsy showed the lump was benign.
+kötü huylu | malignant | sıfat | Kötü huylu tümörler, erken müdahale edilmezse başka organlara yayılabilir. | Malignant tumours can spread to other organs if not treated early.
+test sonucu | test result | isim | Test sonuçlarım e-devlet üzerinden iki gün içinde açıklanacak. | My test results will be released through the e-government system within two days.
