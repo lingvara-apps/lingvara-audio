@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Uzman doktorlar
+le cardiologue | kardiyolog | isim (e) | Après son malaise, il a pris rendez-vous chez un cardiologue. | Fenalık geçirdikten sonra bir kardiyologdan randevu aldı.
+le dermatologue | dermatolog, cildiye uzmanı | isim (e) | Le dermatologue examine les grains de beauté une fois par an. | Dermatolog benleri yılda bir kez kontrol ediyor.
+l'ophtalmologue (m) | göz doktoru | isim (e) | Il faut parfois attendre six mois pour voir un ophtalmologue. | Bir göz doktoruna görünmek için bazen altı ay beklemek gerekiyor.
+le gynécologue | jinekolog | isim (e) | Sa gynécologue l'a suivie pendant toute sa grossesse. | Jinekoloğu onu bütün hamileliği boyunca takip etti.
+le cancérologue | onkolog, kanser uzmanı | isim (e) | Le cancérologue a proposé un nouveau traitement à mon oncle. | Onkolog amcama yeni bir tedavi önerdi.
+le neurologue | nörolog | isim (e) | Pour ses migraines, son médecin l'a envoyée chez un neurologue. | Migrenleri için doktoru onu bir nöroloğa yönlendirdi.
+l'anesthésiste (m) | anestezi uzmanı | isim (e) | L'anesthésiste vient vous voir la veille de l'opération. | Anestezi uzmanı ameliyattan bir gün önce sizi görmeye geliyor.
+le radiologue | radyolog | isim (e) | Le radiologue m'a expliqué les images de l'échographie. | Radyolog bana ultrason görüntülerini açıkladı.
+l'urgentiste (m) | acil hekimi | isim (e) | Les urgentistes ont travaillé toute la nuit après l'accident. | Acil hekimleri kazadan sonra bütün gece çalıştı.
+le pneumologue | göğüs hastalıkları uzmanı | isim (e) | Le pneumologue lui a conseillé d'arrêter de fumer immédiatement. | Göğüs hastalıkları uzmanı ona sigarayı hemen bırakmasını önerdi.
+## Ağır hastalıklar
+la tumeur | tümör, ur | isim (d) | Heureusement, la tumeur était bénigne et a été enlevée. | Neyse ki tümör iyi huyluydu ve alındı.
+la leucémie | lösemi | isim (d) | Grâce à une greffe de moelle, l'enfant a guéri de sa leucémie. | İlik nakli sayesinde çocuk lösemiden iyileşti.
+l'accident vasculaire cérébral (m) | felç, beyin kanaması/inme | isim (e) | Un accident vasculaire cérébral demande une prise en charge très rapide. | İnme çok hızlı müdahale gerektirir.
+l'infarctus (m) | kalp krizi, enfarktüs | isim (e) | Le stress et le tabac augmentent le risque d'infarctus. | Stres ve tütün kalp krizi riskini artırır.
+la tuberculose | verem | isim (d) | La tuberculose existe encore dans de nombreux pays du monde. | Verem dünyanın birçok ülkesinde hâlâ var.
+la méningite | menenjit | isim (d) | Il existe un vaccin efficace contre certaines méningites. | Bazı menenjit türlerine karşı etkili bir aşı var.
+l'insuffisance cardiaque (f) | kalp yetmezliği | isim (d) | Ma grand-mère souffre d'insuffisance cardiaque depuis deux ans. | Büyükannem iki yıldır kalp yetmezliği çekiyor.
+la pneumonie | zatürre | isim (d) | Il a passé une semaine à l'hôpital à cause d'une pneumonie. | Zatürre yüzünden bir hafta hastanede kaldı.
+la maladie d'Alzheimer | Alzheimer hastalığı | isim (d) | La maladie d'Alzheimer touche surtout les personnes de plus de soixante-cinq ans. | Alzheimer hastalığı daha çok altmış beş yaş üstündeki kişileri etkiler.
+bénin (bénigne) | iyi huylu | sıfat | Rassurez-vous, c'est une infection bénigne qui passera en quelques jours. | İçiniz rahat olsun, birkaç günde geçecek hafif bir enfeksiyon.
+## Bulaşıcı hastalıklar
+la contagion | bulaşma | isim (d) | Pour éviter la contagion, restez chez vous quelques jours. | Bulaşmayı önlemek için birkaç gün evde kalın.
+la pandémie | pandemi, küresel salgın | isim (d) | La pandémie a changé nos habitudes de travail pour longtemps. | Pandemi çalışma alışkanlıklarımızı uzun süreliğine değiştirdi.
+la vaccination | aşılama | isim (d) | La vaccination contre la grippe est conseillée aux personnes âgées. | Grip aşısı yaşlılara tavsiye edilir.
+l'immunité (f) | bağışıklık | isim (d) | Après la maladie, le corps développe une immunité naturelle. | Hastalıktan sonra vücut doğal bir bağışıklık geliştirir.
+contaminer | bulaştırmak, kirletmek | fiil | Un seul enfant malade peut contaminer toute la classe. | Tek bir hasta çocuk bütün sınıfa bulaştırabilir.
+la quarantaine | karantina | isim (d) | Les passagers du bateau ont été placés en quarantaine. | Gemi yolcuları karantinaya alındı.
+l'incubation (f) | kuluçka dönemi | isim (d) | La période d'incubation de ce virus est d'environ une semaine. | Bu virüsün kuluçka dönemi yaklaşık bir hafta.
+le porteur sain | taşıyıcı (belirti göstermeyen) | isim (e) | On peut être porteur sain et transmettre le virus sans le savoir. | Belirti göstermeyen taşıyıcı olup virüsü bilmeden bulaştırmak mümkün.
+le paludisme | sıtma | isim (e) | Avant de partir au Burkina Faso, il faut se protéger contre le paludisme. | Burkina Faso'ya gitmeden önce sıtmaya karşı korunmak gerekir.
+le geste barrière | koruyucu davranış (hijyen) | isim (e) | Se laver les mains reste le geste barrière le plus simple. | El yıkamak en basit koruyucu davranış olmaya devam ediyor.
+## Teşhis
+le bilan sanguin | kan tahlili (kapsamlı) | isim (e) | Mon médecin m'a prescrit un bilan sanguin complet. | Doktorum bana kapsamlı bir kan tahlili yazdı.
+l'IRM (f) | MR (manyetik rezonans) | isim (d) | Il doit passer une IRM du genou la semaine prochaine. | Gelecek hafta diz MR'ı çektirmesi gerekiyor.
+l'échographie (f) | ultrason | isim (d) | À la deuxième échographie, ils ont appris que c'était une fille. | İkinci ultrasonda kız olduğunu öğrendiler.
+la biopsie | biyopsi | isim (d) | La biopsie permettra de savoir si la tumeur est dangereuse. | Biyopsi tümörün tehlikeli olup olmadığını gösterecek.
+le stéthoscope | stetoskop | isim (e) | Le médecin pose son stéthoscope sur mon dos et écoute. | Doktor stetoskobunu sırtıma koyup dinliyor.
+l'électrocardiogramme (m) | elektrokardiyogram, EKG | isim (e) | L'électrocardiogramme n'a montré aucun problème au cœur. | EKG kalpte hiçbir sorun göstermedi.
+les antécédents | tıbbi geçmiş, öykü | isim (çoğul) | Avez-vous des antécédents de maladies cardiaques dans votre famille ? | Ailenizde kalp hastalığı öyküsü var mı?
+le scanner médical | tomografi | isim (e) | Après la chute, les urgences lui ont fait un scanner médical. | Düşmeden sonra acilde ona tomografi çekildi.
+dépister | taramak, erken teşhis etmek | fiil | Ce test permet de dépister la maladie très tôt. | Bu test hastalığı çok erken teşhis etmeyi sağlıyor.
+le pronostic | prognoz, hastalığın seyri tahmini | isim (e) | Grâce au traitement, le pronostic est aujourd'hui très bon. | Tedavi sayesinde hastalığın seyri bugün çok iyi.
+## Tedavi yöntemleri
+la chimiothérapie | kemoterapi | isim (d) | Pendant sa chimiothérapie, elle a perdu ses cheveux. | Kemoterapisi sırasında saçlarını kaybetti.
+la radiothérapie | radyoterapi, ışın tedavisi | isim (d) | Il suit des séances de radiothérapie tous les matins. | Her sabah radyoterapi seanslarına gidiyor.
+la greffe d'organe | organ nakli | isim (d) | Après sa greffe d'organe, il a retrouvé une vie presque normale. | Organ naklinden sonra neredeyse normal bir hayata kavuştu.
+le don d'organes | organ bağışı | isim (e) | Parlez du don d'organes avec votre famille. | Organ bağışını ailenizle konuşun.
+la transfusion | kan nakli | isim (d) | Après l'accident, il a eu besoin d'une transfusion sanguine. | Kazadan sonra kan nakline ihtiyacı oldu.
+l'intervention chirurgicale (f) | cerrahi müdahale | isim (d) | L'intervention chirurgicale a duré plus de quatre heures. | Cerrahi müdahale dört saatten fazla sürdü.
+la cicatrice | yara izi | isim (d) | Il garde une petite cicatrice au-dessus de l'œil. | Gözünün üstünde küçük bir yara izi kaldı.
+les points de suture | dikiş (yara) | isim (çoğul) | Elle s'est coupée et il a fallu cinq points de suture. | Elini kesti ve beş dikiş gerekti.
+la rééducation | fizik tedavi, rehabilitasyon | isim (d) | Après son accident, il a fait trois mois de rééducation. | Kazasından sonra üç ay fizik tedavi gördü.
+la rémission | hastalığın gerilemesi, remisyon | isim (d) | Après deux ans de traitement, elle est en rémission. | İki yıllık tedaviden sonra hastalığı geriledi.
+## İlaçlar
+le principe actif | etken madde | isim (e) | Ces deux médicaments contiennent le même principe actif. | Bu iki ilaç aynı etken maddeyi içeriyor.
+le médicament générique | eşdeğer ilaç | isim (e) | Le pharmacien m'a proposé un médicament générique moins cher. | Eczacı bana daha ucuz bir eşdeğer ilaç önerdi.
+l'anti-inflammatoire (m) | iltihap giderici | isim (e) | Cet anti-inflammatoire doit être pris pendant le repas. | Bu iltihap giderici yemek sırasında alınmalı.
+le somnifère | uyku ilacı | isim (e) | Évitez de prendre des somnifères pendant trop longtemps. | Uyku ilaçlarını çok uzun süre kullanmaktan kaçının.
+le calmant | sakinleştirici | isim (e) | Après l'accident, l'infirmière lui a donné un calmant. | Kazadan sonra hemşire ona sakinleştirici verdi.
+la dose | doz | isim (d) | Ne dépassez jamais la dose indiquée par votre médecin. | Doktorunuzun belirttiği dozu asla aşmayın.
+le surdosage | aşırı doz | isim (e) | En cas de surdosage, appelez immédiatement le centre antipoison. | Aşırı doz durumunda hemen zehir danışma merkezini arayın.
+la contre-indication | kontrendikasyon, kullanılmaması gereken durum | isim (d) | Lisez les contre-indications avant de donner ce sirop aux enfants. | Bu şurubu çocuklara vermeden önce kullanılmaması gereken durumları okuyun.
+la notice | prospektüs, kullanım talimatı | isim (d) | La notice indique de prendre deux comprimés par jour. | Prospektüs günde iki tablet alınmasını belirtiyor.
+l'automédication (f) | kendi kendine ilaç kullanma | isim (d) | L'automédication peut être dangereuse, surtout avec les antibiotiques. | Kendi kendine ilaç kullanmak, özellikle antibiyotiklerle, tehlikeli olabilir.
+## Halk sağlığı
+la santé publique | halk sağlığı | isim (d) | Le tabac est un problème majeur de santé publique. | Tütün önemli bir halk sağlığı sorunudur.
+la campagne de vaccination | aşı kampanyası | isim (d) | Une campagne de vaccination gratuite commence dans les écoles. | Okullarda ücretsiz bir aşı kampanyası başlıyor.
+l'espérance de vie (f) | yaşam beklentisi, ortalama ömür | isim (d) | L'espérance de vie des femmes est plus longue que celle des hommes. | Kadınların ortalama ömrü erkeklerinkinden daha uzun.
+la mortalité | ölüm oranı | isim (d) | La mortalité infantile a beaucoup baissé en cinquante ans. | Bebek ölüm oranı elli yılda çok düştü.
+le système de santé | sağlık sistemi | isim (e) | Le système de santé français est financé par les cotisations. | Fransız sağlık sistemi primlerle finanse ediliyor.
+le désert médical | doktorsuz bölge | isim (e) | Ce village est devenu un désert médical, le dernier médecin est parti. | Bu köy doktorsuz bir bölgeye dönüştü, son doktor da gitti.
+le tabagisme | sigara bağımlılığı | isim (e) | Le tabagisme passif est dangereux pour les enfants. | Pasif içicilik çocuklar için tehlikeli.
+l'alcoolisme (m) | alkolizm | isim (e) | Cette association aide les familles touchées par l'alcoolisme. | Bu dernek alkolizmden etkilenen ailelere yardım ediyor.
+la malnutrition | yetersiz beslenme | isim (d) | La malnutrition touche encore des millions d'enfants dans le monde. | Yetersiz beslenme dünyada hâlâ milyonlarca çocuğu etkiliyor.
+le centre antipoison | zehir danışma merkezi | isim (e) | Le centre antipoison répond aux appels jour et nuit. | Zehir danışma merkezi gece gündüz çağrılara yanıt veriyor.
+## Hastane ve doğum
+l'hospitalisation (f) | hastaneye yatış | isim (d) | Son hospitalisation a duré plus longtemps que prévu. | Hastanede kalışı beklenenden uzun sürdü.
+la maternité | doğumevi; annelik | isim (d) | Elle a accouché à la maternité de l'hôpital de Lille. | Lille hastanesinin doğumevinde doğum yaptı.
+l'accouchement (m) | doğum | isim (e) | L'accouchement s'est très bien passé, la mère et le bébé vont bien. | Doğum çok iyi geçti, anne de bebek de iyi.
+accoucher | doğurmak | fiil | Ma sœur a accouché d'une petite fille cette nuit. | Kız kardeşim bu gece bir kız bebek dünyaya getirdi.
+la sage-femme | ebe | isim (d) | La sage-femme nous a donné des conseils pour les premiers jours. | Ebe bize ilk günler için tavsiyeler verdi.
+l'aide-soignant (m) | hasta bakıcı | isim (e) | L'aide-soignante aide les patients âgés à faire leur toilette. | Hasta bakıcı yaşlı hastaların temizliğine yardım ediyor.
+être de garde | nöbetçi olmak | ifade | Ce week-end, ma mère est de garde à l'hôpital. | Bu hafta sonu annem hastanede nöbetçi.
+l'interne (m) | asistan doktor | isim (e) | L'interne a fait trois nuits de garde cette semaine. | Asistan doktor bu hafta üç gece nöbet tuttu.
+la grossesse | hamilelik | isim (d) | Pendant sa grossesse, elle a continué à travailler jusqu'au septième mois. | Hamileliği sırasında yedinci aya kadar çalışmaya devam etti.
+le nouveau-né | yeni doğan | isim (e) | Les nouveau-nés dorment environ dix-sept heures par jour. | Yeni doğanlar günde yaklaşık on yedi saat uyur.
+## Tıbbi durumlar
+l'inflammation (f) | iltihap | isim (d) | Ce médicament réduit rapidement l'inflammation du genou et la douleur. | Bu ilaç dizdeki iltihabı ve ağrıyı hızla azaltıyor.
+la lésion | lezyon, doku hasarı | isim (d) | L'IRM a révélé une petite lésion au niveau du dos. | MR sırtta küçük bir lezyon ortaya çıkardı.
+la rechute | nüks, hastalığın tekrarlaması | isim (d) | Repose-toi bien cette semaine pour éviter une rechute. | Hastalığın tekrarlamaması için bu hafta iyi dinlen.
+la complication | komplikasyon | isim (d) | L'opération du genou s'est déroulée sans aucune complication. | Diz ameliyatı hiçbir komplikasyon olmadan geçti.
+le malaise | fenalık, baygınlık hissi; huzursuzluk | isim (e) | Une passagère a fait un malaise dans le train. | Trende bir yolcu fenalaştı.
+la paralysie | felç | isim (d) | Après l'accident, il souffre d'une paralysie des jambes. | Kazadan sonra bacaklarında felç var.
+l'hémorragie (f) | kanama | isim (d) | Les médecins ont réussi à arrêter l'hémorragie à temps. | Doktorlar kanamayı zamanında durdurmayı başardı.
+la déshydratation | susuz kalma, dehidrasyon | isim (d) | Pendant la canicule, la déshydratation menace surtout les personnes âgées. | Sıcak hava dalgasında susuz kalma en çok yaşlıları tehdit ediyor.
+la convulsion | havale, kasılma nöbeti | isim (d) | Le bébé a eu des convulsions à cause de la fièvre. | Bebek ateş yüzünden havale geçirdi.
+l'œdème (m) | ödem, şişlik | isim (e) | La chaleur provoque parfois des œdèmes aux chevilles. | Sıcak bazen ayak bileklerinde ödeme yol açar.
+## Engellilik ve bakım
+le handicap | engel, engellilik | isim (e) | Cette école accueille des enfants avec ou sans handicap. | Bu okul engelli olan ve olmayan çocukları kabul ediyor.
+handicapé | engelli | sıfat | Le musée est entièrement accessible aux personnes handicapées. | Müze engellilere tamamen erişilebilir.
+la prothèse | protez | isim (d) | Grâce à sa prothèse, il peut à nouveau courir. | Protezi sayesinde yeniden koşabiliyor.
+malvoyant | az gören | sıfat | Ce livre audio est conçu pour les personnes malvoyantes. | Bu sesli kitap az gören kişiler için tasarlandı.
+malentendant | az işiten | sıfat | Les films sont sous-titrés pour les spectateurs malentendants. | Filmler az işiten izleyiciler için altyazılı.
+la canne | baston | isim (d) | Depuis sa chute, ma grand-mère marche avec une canne. | Düştüğünden beri büyükannem bastonla yürüyor.
+l'autonomie (f) | bağımsızlık, kendi başına yetme | isim (d) | Malgré son âge, il a gardé une grande autonomie. | Yaşına rağmen kendi başına yetme yeteneğini büyük ölçüde korudu.
+le soignant | sağlık çalışanı | isim (e) | Les soignants ont été applaudis tous les soirs pendant la crise. | Sağlık çalışanları kriz boyunca her akşam alkışlandı.
+l'aidant (m) | (hasta yakını) bakım veren | isim (e) | Les aidants familiaux ont besoin de repos et de soutien. | Aile içinde bakım verenlerin dinlenmeye ve desteğe ihtiyacı var.
+le maintien à domicile | evde bakım | isim (e) | Le maintien à domicile des personnes âgées coûte moins cher que l'hôpital. | Yaşlıların evde bakımı hastaneden daha ucuz.
