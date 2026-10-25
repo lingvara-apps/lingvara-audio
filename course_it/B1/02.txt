@@ -1,14 +1,14 @@
 # UNIT: İş dünyası | Şirket, kariyer, toplantı, müzakere
 ## Şirketin yapısı
-il dirigente | yönetici | isim (e) | Il dirigente ha presentato il nuovo piano ai dipendenti. | Yönetici yeni planı çalışanlara sundu.
-l'amministratore delegato (e) | genel müdür, CEO | isim (e) | L'amministratore delegato visita la sede di Torino domani. | Genel müdür yarın Torino'daki merkezi ziyaret ediyor.
+il caporeparto | bölüm şefi | isim (e) | Il caporeparto ha presentato il nuovo piano ai dipendenti. | Bölüm şefi yeni planı çalışanlara sundu.
+il titolare | işletme sahibi, patron | isim (e) | Il titolare del ristorante arriva ogni mattina alle sette. | Restoranın sahibi her sabah yedide geliyor.
 le risorse umane | insan kaynakları | isim (d) | Per le ferie devi scrivere alle risorse umane. | İzin için insan kaynaklarına yazman gerekiyor.
-il consiglio di amministrazione | yönetim kurulu | isim (e) | Il consiglio di amministrazione si riunisce ogni mese. | Yönetim kurulu her ay toplanır.
+il personale | personel | isim (e) | Il personale dell'albergo parla tre lingue straniere. | Otelin personeli üç yabancı dil konuşuyor.
 il socio | ortak, hissedar; üye | isim (e) | Ho aperto lo studio con un socio di Milano. | Büroyu Milanolu bir ortakla açtım.
 la multinazionale | çok uluslu şirket | isim (d) | Lavora per una multinazionale con uffici in venti paesi. | Yirmi ülkede ofisi olan çok uluslu bir şirkette çalışıyor.
 l'impresa (d) | işletme, girişim | isim (d) | Suo padre ha una piccola impresa edile in Puglia. | Babasının Puglia'da küçük bir inşaat işletmesi var.
 il marchio | marka, logo | isim (e) | Il marchio dell'azienda è conosciuto in tutta Europa. | Şirketin markası bütün Avrupa'da tanınıyor.
-l'organigramma (e) | organizasyon şeması | isim (e) | Nell'organigramma il mio nome è sotto il direttore vendite. | Organizasyon şemasında adım satış müdürünün altında.
+la contabilità | muhasebe | isim (d) | Le fatture vanno mandate all'ufficio contabilità entro venerdì. | Faturalar cumaya kadar muhasebe bürosuna gönderilmeli.
 il dipartimento | departman, bölüm | isim (e) | Il dipartimento marketing si trova al terzo piano. | Pazarlama departmanı üçüncü katta.
 ## İş başvurusu ve işe alım
 la candidatura | başvuru, adaylık | isim (d) | Ho inviato la mia candidatura per il posto a Firenze. | Floransa'daki pozisyon için başvurumu gönderdim.
@@ -33,8 +33,8 @@ dimettersi (dimesso) | istifa etmek | fiil · dönüşlü | Il direttore si è d
 le dimissioni | istifa | isim (d) | Ho presentato le dimissioni e cambio lavoro a marzo. | İstifamı verdim, martta iş değiştiriyorum.
 il pensionamento | emeklilik (emekli olma) | isim (e) | Per il pensionamento di Paolo abbiamo organizzato una cena. | Paolo'nun emekliliği için bir akşam yemeği düzenledik.
 ## Toplantılar
-l'ordine del giorno (e) | gündem | isim (e) | Il primo punto all'ordine del giorno è il budget. | Gündemin ilk maddesi bütçe.
-il verbale | tutanak | isim (e) | Chi scrive il verbale della riunione di oggi? | Bugünkü toplantının tutanağını kim yazıyor?
+la sala riunioni | toplantı salonu | isim (d) | La sala riunioni è occupata fino alle undici. | Toplantı salonu saat on bire kadar dolu.
+prendere appunti | not almak | ifade | Durante la riunione Marta prende appunti al computer. | Toplantı sırasında Marta bilgisayarda not alıyor.
 convocare | toplantıya çağırmak | fiil | Il capo ha convocato tutti alle dieci in sala. | Patron herkesi saat onda salona çağırdı.
 rinviare | ertelemek | fiil | Purtroppo dobbiamo rinviare la riunione a giovedì. | Maalesef toplantıyı perşembeye ertelememiz gerekiyor.
 intervenire (intervenuto) | söz almak; müdahale etmek | fiil · düzensiz | Posso intervenire un momento su questo punto? | Bu konuda bir dakika söz alabilir miyim?
@@ -57,7 +57,7 @@ cedere | geri adım atmak, boyun eğmek | fiil | Nessuna delle due parti voleva 
 ## Satış ve pazarlama
 la vendita | satış | isim (d) | Le vendite sono aumentate molto durante il periodo natalizio. | Noel döneminde satışlar çok arttı.
 il venditore | satıcı | isim (e) | Il venditore ci ha spiegato tutte le caratteristiche dell'auto. | Satıcı bize arabanın bütün özelliklerini anlattı.
-il fatturato | ciro | isim (e) | Quest'anno il fatturato dell'azienda è cresciuto del venti per cento. | Bu yıl şirketin cirosu yüzde yirmi arttı.
+il guadagno | kazanç, kâr | isim (e) | Quest'anno il guadagno del negozio è cresciuto del venti per cento. | Bu yıl dükkânın kazancı yüzde yirmi arttı.
 il prodotto | ürün | isim (e) | Il nostro prodotto più venduto è l'olio extravergine. | En çok satan ürünümüz sızma zeytinyağı.
 la campagna pubblicitaria | reklam kampanyası | isim (d) | La nuova campagna pubblicitaria partirà a settembre in tv. | Yeni reklam kampanyası eylülde televizyonda başlayacak.
 il consumatore | tüketici | isim (e) | I consumatori cercano sempre più prodotti locali e biologici. | Tüketiciler giderek daha çok yerel ve organik ürün arıyor.
@@ -68,10 +68,10 @@ la clientela | müşteri kitlesi | isim (d) | Il negozio ha una clientela fedele
 ## Ofiste günlük işler
 la pratica | dosya, evrak işi; uygulama | isim (d) | Devo finire questa pratica prima delle cinque. | Bu dosyayı saat beşten önce bitirmem lazım.
 sbrigare | halletmek, bitirmek | fiil | Stamattina devo sbrigare alcune faccende in banca. | Bu sabah bankada birkaç iş halletmem gerekiyor.
-la mansione | görev, iş tanımı | isim (d) | Nel contratto sono descritte tutte le mie mansioni. | Sözleşmede bütün görevlerim tanımlanmış.
+la priorità | öncelik | isim (d) | Oggi la priorità è rispondere ai clienti più importanti. | Bugün öncelik en önemli müşterilere cevap vermek.
 delegare | yetki devretmek, devretmek | fiil | Un buon capo sa delegare i compiti alla squadra. | İyi bir yönetici görevleri ekibe devretmeyi bilir.
 la procedura | prosedür, işlem | isim (d) | Per i rimborsi c'è una procedura da seguire. | Masraf iadeleri için izlenecek bir prosedür var.
-archiviare | arşivlemek | fiil | Dopo la firma archiviamo i contratti in questa cartella. | İmzadan sonra sözleşmeleri bu klasörde arşivliyoruz.
+smistare | ayıklamak, dağıtmak (posta, evrak) | fiil | Ogni mattina la segretaria smista la posta per i reparti. | Sekreter her sabah postayı bölümlere dağıtıyor.
 inoltrare | iletmek (e-posta) | fiil | Ti inoltro l'email del cliente, leggila con calma. | Müşterinin e-postasını sana iletiyorum, acele etmeden oku.
 la bozza | taslak | isim (d) | Ti mando la bozza del contratto entro stasera. | Sözleşme taslağını bu akşama kadar gönderiyorum.
 il resoconto | rapor, döküm | isim (e) | Ogni venerdì scrivo un resoconto delle attività della settimana. | Her cuma haftanın faaliyetlerinin bir raporunu yazarım.
