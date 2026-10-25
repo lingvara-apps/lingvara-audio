@@ -1,0 +1,111 @@
+# UNIT: Ekonomi ve finans | Makroekonomi, borsa, bankacılık, ticaret, şirket finansı
+## Makroekonomi
+国内総生産 (kokunai sōseisan) | gayrisafi yurt içi hasıla | isim | 今年の国内総生産は、前の年より二パーセント増えた。 | Bu yılın gayrisafi yurt içi hasılası bir önceki yıla göre yüzde iki arttı.
+経済成長 (keizai seichō) | ekonomik büyüme | isim | 経済成長が続いて、国民の生活が豊かになった。 | Ekonomik büyüme sürünce halkın yaşamı zenginleşti.
+景気回復 (keiki kaifuku) | ekonomik toparlanma | isim | 景気回復のおかげで、就職がしやすくなった。 | Ekonomik toparlanma sayesinde iş bulmak kolaylaştı.
+景気後退 (keiki kōtai) | ekonomik gerileme | isim | 景気後退が始まって、多くの会社が採用を減らした。 | Ekonomik gerileme başlayınca pek çok şirket işe alımları azalttı.
+デフレ (defure) | deflasyon | isim | デフレの時代には、物の値段がなかなか上がらない。 | Deflasyon döneminde fiyatlar kolay kolay artmaz.
+物価上昇 (bukka jōshō) | fiyat artışı | isim | 物価上昇に、給料が追いついていない。 | Maaşlar fiyat artışlarına yetişemiyor.
+金融政策 (kin'yū seisaku) | para politikası | isim | 中央銀行は、新しい金融政策を発表した。 | Merkez bankası yeni para politikasını açıkladı.
+財政赤字 (zaisei akaji) | bütçe açığı | isim | 財政赤字を減らすために、税金が上がった。 | Bütçe açığını azaltmak için vergiler artırıldı.
+失業率 (shitsugyōritsu) | işsizlik oranı | isim | 若者の失業率が、少しずつ下がっている。 | Gençler arasındaki işsizlik oranı yavaş yavaş düşüyor.
+経済指標 (keizai shihyō) | ekonomik gösterge | isim | 新しい経済指標が発表されて、市場が動いた。 | Yeni ekonomik göstergeler açıklanınca piyasa hareketlendi.
+## Borsa
+株式 (kabushiki) | hisse senedi, pay | isim | 社員にも、会社の株式が配られた。 | Çalışanlara da şirket hisseleri dağıtıldı.
+株価 (kabuka) | hisse fiyatı | isim | 新しい製品の発表で、株価が上がった。 | Yeni ürünün duyurulmasıyla hisse fiyatı yükseldi.
+株主 (kabunushi) | hissedar | isim | 毎年六月に、株主の総会が開かれる。 | Her yıl haziranda hissedarlar genel kurulu toplanır.
+証券 (shōken) | menkul kıymet | isim | 証券の取引には、ある程度の知識が必要だ。 | Menkul kıymet alım satımı belli bir bilgi gerektirir.
+証券会社 (shōken gaisha) | aracı kurum | isim | 証券会社で、株の口座を開いた。 | Aracı kurumda hisse hesabı açtım.
+上場 (jōjō) | halka arz, borsaya kote olma | isim | 友達の会社が、ついに上場した。 | Arkadaşımın şirketi sonunda borsaya açıldı.
+値動き (neugoki) | fiyat hareketi | isim | 最近、金の値動きが激しい。 | Son zamanlarda altın fiyatları çok dalgalı.
+暴落 (bōraku) | çöküş (fiyat) | isim | 株価の暴落で、多くの人が損をした。 | Hisse fiyatlarındaki çöküşle pek çok kişi zarar etti.
+急騰 (kyūtō) | fırlama (fiyat) | isim | 天候不順で、野菜の値段が急騰している。 | Kötü hava koşulları yüzünden sebze fiyatları fırladı.
+投機 (tōki) | spekülasyon | isim | 短期間で大もうけしようとする投機は危険だ。 | Kısa sürede büyük kâr peşindeki spekülasyonlar tehlikelidir.
+## Bankacılık II
+中央銀行 (chūō ginkō) | merkez bankası | isim | 中央銀行が金利を引き上げると発表した。 | Merkez bankası faizleri artıracağını açıkladı.
+預金者 (yokinsha) | mudi, mevduat sahibi | isim | 銀行は預金者のお金を守る責任がある。 | Bankanın mudilerin parasını koruma sorumluluğu var.
+貸し付け (kashitsuke) | borç verme, kredi | isim | 銀行は中小企業への貸し付けを増やした。 | Banka küçük ve orta ölçekli işletmelere verdiği kredileri artırdı.
+担保 (tanpo) | teminat | isim | 家を担保にして、銀行からお金を借りた。 | Evi teminat gösterip bankadan borç aldım.
+借入 (kariire) | borçlanma | isim | 会社の借入が増えて、経営が苦しくなった。 | Şirketin borçları artınca işler zorlaştı.
+利子 (rishi) | faiz | isim | 友達に、利子なしでお金を貸した。 | Arkadaşıma faizsiz borç verdim.
+利率 (riritsu) | faiz oranı | isim | この口座は、普通の口座より利率が高い。 | Bu hesabın faiz oranı normal hesaptan yüksek.
+定期預金 (teiki yokin) | vadeli mevduat | isim | ボーナスの一部を、定期預金にした。 | İkramiyemin bir kısmını vadeli hesaba yatırdım.
+普通預金 (futsū yokin) | vadesiz mevduat | isim | 給料は普通預金の口座に振り込まれる。 | Maaş vadesiz hesaba yatırılıyor.
+不良債権 (furyō saiken) | batık kredi | isim | 不良債権が増えて、銀行の経営が悪化した。 | Batık krediler artınca bankanın durumu kötüleşti.
+## Dış ticaret
+貿易黒字 (bōeki kuroji) | dış ticaret fazlası | isim | 輸出が好調で、貿易黒字が続いている。 | İhracat iyi gittiği için dış ticaret fazlası sürüyor.
+貿易赤字 (bōeki akaji) | dış ticaret açığı | isim | 燃料の輸入が増えて、貿易赤字になった。 | Yakıt ithalatı artınca dış ticaret açığı verildi.
+自由貿易 (jiyū bōeki) | serbest ticaret | isim | 両国は自由貿易の協定を結んだ。 | İki ülke serbest ticaret anlaşması imzaladı.
+輸出入 (yushutsunyū) | ithalat ve ihracat | isim | 港では、毎日たくさんの輸出入の手続きが行われている。 | Limanda her gün çok sayıda ithalat-ihracat işlemi yapılıyor.
+商社 (shōsha) | ticaret şirketi | isim | 父は商社に勤めていて、よく海外に出張する。 | Babam bir ticaret şirketinde çalışıyor, sık sık yurt dışına gidiyor.
+原材料 (genzairyō) | hammadde | isim | 原材料の値上がりで、パンの値段も上がった。 | Hammadde fiyatları artınca ekmek de pahalandı.
+価格競争 (kakaku kyōsō) | fiyat rekabeti | isim | 価格競争が激しくて、利益がほとんど出ない。 | Fiyat rekabeti çok sert, neredeyse hiç kâr kalmıyor.
+市場価格 (shijō kakaku) | piyasa fiyatı | isim | 魚の市場価格は、天気によって大きく変わる。 | Balığın piyasa fiyatı havaya göre büyük ölçüde değişir.
+為替レート (kawase rēto) | döviz kuru | isim | 旅行の前に、為替レートを確認した。 | Seyahatten önce döviz kurunu kontrol ettim.
+相場 (sōba) | piyasa fiyatı, kur | isim | この辺りの家賃の相場は、月八万円ぐらいだ。 | Bu civarda kira fiyatları aylık seksen bin yen kadar.
+## Şirket finansı
+資本 (shihon) | sermaye | isim | 会社の資本を増やすために、新しい投資家を探している。 | Şirketin sermayesini artırmak için yeni yatırımcılar arıyoruz.
+負債 (fusai) | borç, yükümlülük | isim | その会社は大きな負債を抱えている。 | O şirketin büyük borçları var.
+株式会社 (kabushiki gaisha) | anonim şirket | isim | 個人の店を、株式会社にすることにした。 | Şahıs işletmemi anonim şirkete dönüştürmeye karar verdim.
+経営難 (keieinan) | mali sıkıntı | isim | 経営難で、老舗の旅館が閉館した。 | Mali sıkıntı yüzünden köklü bir han kapandı.
+合併 (gappei) | birleşme | isim | 二つの銀行が合併して、一つになった。 | İki banka birleşip tek banka oldu.
+買収 (baishū) | satın alma (şirket) | isim | 大手の会社が、小さなゲーム会社を買収した。 | Büyük bir şirket küçük bir oyun şirketini satın aldı.
+資金繰り (shikinguri) | nakit akışı yönetimi | isim | 資金繰りが苦しくて、社長は毎日銀行を回っている。 | Nakit akışı sıkışık olduğundan şirket başkanı her gün banka banka dolaşıyor.
+増収 (zōshū) | gelir artışı | isim | 新しい店のおかげで、今年は増収になった。 | Yeni şube sayesinde bu yıl gelir arttı.
+減益 (gen'eki) | kâr düşüşü | isim | 売上は増えたが、費用がかかって減益になった。 | Satışlar arttı ama masraflar yüzünden kâr düştü.
+増益 (zōeki) | kâr artışı | isim | 経費を減らした結果、三年ぶりの増益となった。 | Giderler azaltılınca üç yıl aradan sonra kâr arttı.
+## Kişisel finans
+資産運用 (shisan un'yō) | varlık yönetimi | isim | 若いうちから資産運用を学んでおきたい。 | Gençken varlık yönetimini öğrenmek istiyorum.
+積立 (tsumitate) | düzenli birikim | isim | 毎月一万円ずつ、旅行の積立をしている。 | Her ay on bin yen seyahat için biriktiriyorum.
+老後 (rōgo) | yaşlılık dönemi | isim | 老後の生活のために、今から貯金している。 | Yaşlılık dönemim için şimdiden para biriktiriyorum.
+保険料 (hokenryō) | sigorta primi | isim | 車の保険料が、去年より高くなった。 | Araba sigorta primi geçen yıla göre arttı.
+住宅ローン (jūtaku rōn) | konut kredisi | isim | 住宅ローンを三十五年で返す予定だ。 | Konut kredisini otuz beş yılda ödemeyi planlıyorum.
+分割払い (bunkatsubarai) | taksitli ödeme | isim | パソコンを十二回の分割払いで買った。 | Bilgisayarı on iki taksitle aldım.
+節税 (setsuzei) | vergi tasarrufu | isim | 節税のために、専門家に相談した。 | Vergi tasarrufu için bir uzmana danıştım.
+退職金 (taishokukin) | kıdem tazminatı | isim | 父は退職金で、家のローンを返した。 | Babam kıdem tazminatıyla ev kredisini kapattı.
+貯える (takuwaeru) | biriktirmek, depolamak | fiil | 冬に備えて、食料を貯えておく。 | Kışa hazırlık olarak yiyecek depolarız.
+備え (sonae) | hazırlık, önlem | isim | 将来への備えとして、保険に入った。 | Geleceğe hazırlık olarak sigorta yaptırdım.
+## Ekonomik kavramlar
+需給 (jukyū) | arz ve talep | isim | 野菜の値段は、需給のバランスで決まる。 | Sebze fiyatları arz-talep dengesine göre belirlenir.
+価値 (kachi) | değer | isim | この古い時計には、かなりの価値がある。 | Bu eski saatin epey bir değeri var.
+生産 (seisan) | üretim | isim | この工場では、一日に千台の車を生産している。 | Bu fabrikada günde bin araba üretiliyor.
+資本主義 (shihon shugi) | kapitalizm | isim | 資本主義の社会では、競争が当たり前だ。 | Kapitalist toplumda rekabet olağandır.
+市場経済 (shijō keizai) | piyasa ekonomisi | isim | 市場経済では、価格は自由に決まる。 | Piyasa ekonomisinde fiyatlar serbestçe belirlenir.
+独占 (dokusen) | tekel | isim | 一つの会社による市場の独占は、法律で禁止されている。 | Tek bir şirketin pazarı tekeline alması yasayla yasaklanmıştır.
+競合 (kyōgō) | rakip, rekabet | isim | 競合する会社より、安い値段を出した。 | Rakip şirketlerden daha düşük fiyat verdik.
+規制緩和 (kisei kanwa) | deregülasyon | isim | 規制緩和によって、新しい会社が参入しやすくなった。 | Kuralların gevşetilmesiyle yeni şirketlerin pazara girmesi kolaylaştı.
+民営化 (mineika) | özelleştirme | isim | 国の鉄道は、民営化されてサービスがよくなった。 | Devlet demiryolları özelleştirilince hizmet iyileşti.
+景気対策 (keiki taisaku) | ekonomiyi canlandırma önlemleri | isim | 政府は新しい景気対策を打ち出した。 | Hükümet ekonomiyi canlandırmak için yeni önlemler açıkladı.
+## Ekonomi fiilleri
+伸びる (nobiru) | artmak, uzamak | fiil | 海外での売上が大きく伸びた。 | Yurt dışı satışları büyük ölçüde arttı.
+低迷する (teimei suru) | durgunlaşmak, dipte seyretmek | fiil | 景気が低迷して、商店街に客が来ない。 | Ekonomi durgunlaşınca çarşıya müşteri gelmiyor.
+持ち直す (mochinaosu) | toparlanmak | fiil | 夏になって、観光業がようやく持ち直した。 | Yaz gelince turizm sektörü nihayet toparlandı.
+膨らむ (fukuramu) | şişmek, kabarmak | fiil | 工事の費用が、予定より大きく膨らんだ。 | İnşaat masrafları planlanandan çok fazla kabardı.
+縮む (chijimu) | küçülmek, daralmak | fiil | 少子化で、国内の市場が縮んでいる。 | Doğum oranının düşmesiyle iç pazar daralıyor.
+押し上げる (oshiageru) | yukarı itmek | fiil | 観光客の増加が、地域の経済を押し上げた。 | Turist artışı bölge ekonomisini yukarı taşıdı.
+引き下げる (hikisageru) | indirmek, düşürmek | fiil | 店は商品の値段を一割引き下げた。 | Dükkân ürün fiyatlarını yüzde on indirdi.
+引き上げる (hikiageru) | yükseltmek, artırmak | fiil | 政府は最低賃金を引き上げることを決めた。 | Hükümet asgari ücreti artırmaya karar verdi.
+稼働する (kadō suru) | faaliyette olmak, çalışmak | fiil | 新しい工場が、来月から稼働する。 | Yeni fabrika gelecek ay faaliyete geçiyor.
+下落 (geraku) | düşüş (fiyat) | isim | 円の下落が止まらない。 | Yenin değer kaybı durmuyor.
+## Ekonomi haberleri
+円相場 (en sōba) | yen kuru | isim | 今日の円相場は、一ドル百五十円前後だ。 | Bugün yen kuru dolar başına yüz elli yen civarında.
+前年比 (zennenhi) | geçen yıla göre | isim | 観光客の数は、前年比で三割増えた。 | Turist sayısı geçen yıla göre yüzde otuz arttı.
+過去最高 (kako saikō) | tüm zamanların en yükseği | isim | 今年の夏の気温は、過去最高を記録した。 | Bu yazki sıcaklık tüm zamanların rekorunu kırdı.
+大幅 (ōhaba) | büyük çaplı | sıfat | 電車の料金が大幅に値上がりした。 | Tren ücretlerine büyük çaplı zam geldi.
+小幅 (kobaba) | küçük çaplı | sıfat | 今日の株価は小幅な値動きだった。 | Bugün hisse fiyatlarında küçük çaplı hareketler oldu.
+高騰 (kōtō) | aşırı yükselme | isim | 電気代の高騰が、家計を苦しめている。 | Elektrik fiyatlarındaki aşırı artış aile bütçelerini zorluyor.
+値上げ (neage) | zam | isim | 来月から、牛乳が値上げされる。 | Gelecek aydan itibaren süte zam geliyor.
+値下げ (nesage) | indirim, fiyat düşürme | isim | 携帯電話の料金の値下げが発表された。 | Cep telefonu tarifelerinde indirim açıklandı.
+堅調 (kenchō) | istikrarlı (yükselişte) | sıfat | 消費が堅調で、景気はゆるやかに回復している。 | Tüketim istikrarlı, ekonomi yavaş yavaş toparlanıyor.
+急落 (kyūraku) | ani düşüş | isim | 発表の後、その会社の株が急落した。 | Açıklamanın ardından o şirketin hisseleri aniden düştü.
+## Para ve toplum
+富 (tomi) | servet, zenginlik | isim | 世界の富の多くを、少数の人が持っている。 | Dünya servetinin büyük kısmı az sayıda kişinin elinde.
+富裕層 (fuyūsō) | varlıklı kesim | isim | この店の客は、主に富裕層だ。 | Bu dükkânın müşterileri çoğunlukla varlıklı kesimden.
+庶民 (shomin) | sıradan halk | isim | 物価の上昇は、庶民の生活を苦しくしている。 | Fiyat artışları sıradan halkın hayatını zorlaştırıyor.
+低所得 (teishotoku) | düşük gelirli | isim | 低所得の家庭には、市から補助がある。 | Düşük gelirli ailelere belediyeden yardım var.
+最低賃金 (saitei chingin) | asgari ücret | isim | 最低賃金が、来月から五十円上がる。 | Asgari ücret gelecek aydan itibaren elli yen artıyor.
+賃金 (chingin) | ücret | isim | 長く働いても、賃金はなかなか上がらない。 | Uzun süre çalışsan da ücretler kolay kolay artmıyor.
+物価高 (bukkadaka) | pahalılık | isim | 物価高で、外食をする回数が減った。 | Pahalılık yüzünden dışarıda yemek yeme sıklığım azaldı.
+生活苦 (seikatsuku) | geçim sıkıntısı | isim | 生活苦の人々を支えるために、食料が配られた。 | Geçim sıkıntısı çekenlere destek olmak için gıda dağıtıldı.
+電子決済 (denshi kessai) | elektronik ödeme | isim | 最近は、小さな店でも電子決済が使える。 | Son zamanlarda küçük dükkânlarda bile elektronik ödeme yapılabiliyor.
+キャッシュレス (kyasshuresu) | nakitsiz | isim | キャッシュレスの支払いが、日本でも広がってきた。 | Nakitsiz ödeme Japonya'da da yaygınlaşıyor.
