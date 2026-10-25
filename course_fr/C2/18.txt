@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+## Suç türleri
+l'abus de confiance (m) | güveni kötüye kullanma, emniyeti suistimal | isim (e) | Le notaire a été condamné pour abus de confiance envers ses clients âgés. | Noter yaşlı müşterilerine karşı emniyeti suistimalden mahkûm oldu.
+le recel | suç eşyasını saklama veya satın alma | isim (e) | Le brocanteur est poursuivi pour recel de bijoux volés. | Eskici çalıntı mücevherleri satın almaktan yargılanıyor.
+l'abus de faiblesse (m) | zayıf durumdakini istismar | isim (e) | L'aide-ménagère a été condamnée pour abus de faiblesse envers une vieille dame. | Ev yardımcısı yaşlı bir kadını istismar etmekten mahkûm oldu.
+le faux en écriture | resmî belgede sahtecilik | isim (e) | Le comptable a été inculpé pour faux en écriture et détournement de fonds. | Muhasebeci resmî belgede sahtecilik ve zimmete para geçirmekle suçlandı.
+le blanchiment d'argent | kara para aklama | isim (e) | Le casino servait de façade à un vaste blanchiment d'argent. | Kumarhane geniş çaplı bir kara para aklamaya paravan oluyordu.
+le trafic d'influence | nüfuz ticareti | isim (e) | L'ancien maire est soupçonné de trafic d'influence dans l'attribution des marchés. | Eski belediye başkanının ihalelerin verilmesinde nüfuz ticareti yaptığından şüpheleniliyor.
+l'homicide involontaire (m) | taksirle öldürme | isim (e) | Le chauffard a été condamné pour homicide involontaire. | Dikkatsiz sürücü taksirle öldürmeden mahkûm oldu.
+la séquestration | alıkoyma, kişiyi hürriyetinden yoksun kılma | isim (d) | Les ravisseurs sont accusés de séquestration et de demande de rançon. | Kaçıranlar alıkoyma ve fidye istemekle suçlanıyor.
+le délit d'initié | içeriden bilgi ticareti | isim (e) | Le dirigeant a vendu ses actions la veille de l'annonce : c'est un délit d'initié. | Yönetici hisselerini duyurudan bir gün önce sattı: bu içeriden bilgi ticaretidir.
+la subornation de témoin | tanığı etkileme, tanığa rüşvet | isim (d) | L'avocat a été accusé de subornation de témoin pendant le procès. | Avukat dava sırasında tanığı etkilemekle suçlandı.
+## Ceza muhakemesi
+la mise en examen | sanık sıfatıyla soruşturmaya alma | isim (d) | Après sa garde à vue, l'homme d'affaires a fait l'objet d'une mise en examen. | Gözaltından sonra iş insanı hakkında sanık sıfatıyla soruşturma açıldı.
+le contrôle judiciaire | adli kontrol | isim (e) | Placé sous contrôle judiciaire, il doit pointer chaque semaine au commissariat. | Adli kontrol altına alınan adam her hafta karakola imza vermek zorunda.
+la comparution immédiate | seri muhakeme, derhal yargılama | isim (d) | Les deux jeunes ont été jugés en comparution immédiate dès le lundi. | İki genç pazartesi günü derhal yargılandı.
+la perquisition | arama (konutta) | isim (d) | Une perquisition a eu lieu au domicile du suspect à six heures du matin. | Şüphelinin evinde sabah saat altıda arama yapıldı.
+la commission rogatoire | istinabe (yetki devri) | isim (d) | Le juge a délivré une commission rogatoire internationale vers la Suisse. | Yargıç İsviçre'ye uluslararası bir istinabe yazısı gönderdi.
+l'assignation à résidence (f) | ev hapsi, zorunlu ikamet | isim (d) | Le juge a ordonné son assignation à résidence en attendant le procès. | Hâkim dava görülene kadar ev hapsine alınmasına karar verdi.
+la peine de sûreté | güvenlik süresi (indirilemez ceza) | isim (d) | La cour a assorti la condamnation d'une peine de sûreté de vingt ans. | Mahkeme mahkûmiyete yirmi yıllık bir güvenlik süresi ekledi.
+la réclusion criminelle | ağır hapis cezası | isim (d) | L'accusé a été condamné à quinze ans de réclusion criminelle. | Sanık on beş yıl ağır hapis cezasına çarptırıldı.
+la libération conditionnelle | şartlı tahliye | isim (d) | Après dix ans de détention, il a obtenu sa libération conditionnelle. | On yıllık tutukluluktan sonra şartlı tahliye edildi.
+le non-lieu partiel | kısmi kovuşturmaya yer olmadığı kararı | isim (e) | Le juge a prononcé un non-lieu partiel pour deux des cinq accusés. | Hâkim beş sanıktan ikisi için kısmi kovuşturmaya yer olmadığına karar verdi.
+## Delil ve soruşturma
+le flagrant délit | suçüstü | isim (e) | Le voleur a été arrêté en flagrant délit dans la bijouterie. | Hırsız kuyumcuda suçüstü yakalandı.
+l'alibi (m) | başka yerde bulunduğuna dair delil, mazeret | isim (e) | Son alibi a été confirmé par trois témoins différents. | Mazereti üç farklı tanık tarafından doğrulandı.
+le mobile | (suç) saik, güdü | isim (e) | Les enquêteurs cherchent encore le mobile de ce crime. | Müfettişler hâlâ bu suçun saikini arıyor.
+la préméditation | tasarlama, önceden kararlaştırma | isim (d) | En droit français, la préméditation transforme le meurtre en assassinat. | Fransız hukukunda tasarlama adam öldürmeyi kasten öldürmeye dönüştürür.
+la légitime défense putative | (zannen) meşru müdafaa | isim (d) | L'avocat a plaidé la légitime défense putative : son client croyait être attaqué. | Avukat zannen meşru müdafaayı savundu: müvekkili saldırıya uğradığını sanıyordu.
+le témoin oculaire | görgü tanığı | isim (e) | Un témoin oculaire a reconnu le conducteur de la voiture. | Bir görgü tanığı arabanın sürücüsünü tanıdı.
+l'aveu (m) | itiraf, ikrar | isim (e) | Ses aveux ont été obtenus après vingt heures d'interrogatoire. | İtirafları yirmi saatlik sorgunun ardından alındı.
+le faisceau de preuves | deliller bütünü | isim (e) | Un faisceau de preuves concordantes accuse le gérant de l'hôtel. | Birbirini tutan deliller bütünü otel müdürünü suçluyor.
+la contre-expertise | karşı bilirkişi incelemesi | isim (d) | Doutant du premier rapport, la défense a obtenu une contre-expertise psychiatrique. | İlk rapordan şüphelenen savunma karşı psikiyatrik bilirkişi incelemesi elde etti.
+la reconstitution | olay yeri canlandırması | isim (d) | Une reconstitution du crime a été organisée en présence du suspect. | Şüphelinin huzurunda suçun canlandırması yapıldı.
+## Diplomasi
+le chargé d'affaires | maslahatgüzar | isim (e) | En l'absence de l'ambassadeur, le chargé d'affaires dirige la mission. | Büyükelçinin yokluğunda misyonu maslahatgüzar yönetir.
+la lettre de créance | güven mektubu | isim (d) | Le nouvel ambassadeur a remis ses lettres de créance au chef de l'État. | Yeni büyükelçi güven mektubunu devlet başkanına sundu.
+la valise diplomatique | diplomatik çanta | isim (d) | La valise diplomatique ne peut être ni ouverte ni retenue. | Diplomatik çanta açılamaz ve alıkonamaz.
+l'immunité diplomatique (f) | diplomatik dokunulmazlık | isim (d) | Le diplomate a invoqué son immunité diplomatique pour éviter le procès. | Diplomat yargılanmamak için diplomatik dokunulmazlığına başvurdu.
+le communiqué conjoint | ortak bildiri | isim (e) | Les deux ministres ont publié un communiqué conjoint à l'issue des entretiens. | İki bakan görüşmelerin sonunda ortak bir bildiri yayımladı.
+la note verbale | sözlü nota (diplomatik yazışma) | isim (d) | Le ministère a adressé une note verbale à l'ambassade voisine. | Bakanlık komşu büyükelçiliğe bir sözlü nota gönderdi.
+le rappel d'ambassadeur | büyükelçinin geri çağrılması | isim (e) | Le rappel d'ambassadeur marque une grave crise entre les deux pays. | Büyükelçinin geri çağrılması iki ülke arasında ciddi bir krize işaret ediyor.
+le protocole d'accord | mutabakat zaptı | isim (e) | Les deux villes ont signé un protocole d'accord de coopération culturelle. | İki şehir kültürel işbirliğine ilişkin bir mutabakat zaptı imzaladı.
+le traité bilatéral | ikili antlaşma | isim (e) | Ce traité bilatéral facilite la reconnaissance mutuelle des diplômes. | Bu ikili antlaşma diplomaların karşılıklı tanınmasını kolaylaştırıyor.
+la persona grata | makbul kişi | ifade | Après la réconciliation, il redevint persona grata dans le pays voisin. | Uzlaşmanın ardından komşu ülkede yeniden makbul kişi oldu.
+## Teşhis kavramları
+le tableau clinique | klinik tablo | isim (e) | Le tableau clinique du patient s'est nettement amélioré depuis hier. | Hastanın klinik tablosu dünden beri belirgin biçimde düzeldi.
+l'anamnèse (f) | anamnez, hasta öyküsü | isim (d) | Le médecin commence toujours par une anamnèse détaillée du patient. | Doktor her zaman ayrıntılı bir hasta öyküsüyle başlar.
+le syndrome | sendrom | isim (e) | Ce syndrome rare touche une naissance sur cent mille. | Bu nadir sendrom yüz bin doğumda birini etkiliyor.
+la pathologie | hastalık, patoloji | isim (d) | Cette pathologie respiratoire est fréquente chez les fumeurs. | Bu solunum hastalığı sigara içenlerde sık görülür.
+l'étiologie (f) | etiyoloji, hastalık nedeni | isim (d) | L'étiologie de cette maladie reste encore mal connue. | Bu hastalığın nedeni hâlâ iyi bilinmiyor.
+le diagnostic différentiel | ayırıcı tanı | isim (e) | Le diagnostic différentiel permet d'écarter plusieurs maladies voisines. | Ayırıcı tanı birkaç benzer hastalığı dışlamayı sağlar.
+asymptomatique | belirtisiz | sıfat | De nombreux porteurs du virus restent totalement asymptomatiques. | Virüsü taşıyanların çoğu tamamen belirtisiz kalıyor.
+idiopathique | nedeni bilinmeyen (hastalık) | sıfat | Faute de cause identifiée, les médecins parlent d'une douleur idiopathique. | Belirlenmiş bir neden olmadığından doktorlar nedeni bilinmeyen bir ağrıdan söz ediyor.
+congénital | doğuştan | sıfat | L'enfant est né avec une malformation cardiaque congénitale. | Çocuk doğuştan bir kalp kusuruyla doğdu.
+la séquelle | sekel, kalıcı hasar | isim (d) | Heureusement, cette grave chute à vélo n'a laissé aucune séquelle neurologique. | Neyse ki bu ağır bisiklet kazası hiçbir nörolojik sekel bırakmadı.
+## Tetkikler
+l'examen clinique (m) | fizik muayene | isim (e) | Ce matin, l'examen clinique du jeune patient n'a révélé aucune anomalie. | Bu sabah genç hastanın fizik muayenesi hiçbir anormallik ortaya koymadı.
+l'imagerie médicale (f) | tıbbi görüntüleme | isim (d) | L'imagerie médicale a fait des progrès spectaculaires en vingt ans. | Tıbbi görüntüleme yirmi yılda olağanüstü ilerleme kaydetti.
+l'endoscopie (f) | endoskopi | isim (d) | L'endoscopie a permis d'observer directement la paroi de l'estomac. | Endoskopi midenin duvarını doğrudan gözlemlemeyi sağladı.
+la scintigraphie | sintigrafi | isim (d) | La scintigraphie osseuse permet de repérer certaines lésions invisibles à la radio. | Kemik sintigrafisi röntgende görünmeyen bazı hasarları saptamayı sağlar.
+la mammographie | mamografi | isim (d) | Une mammographie de dépistage est conseillée tous les deux ans après cinquante ans. | Elli yaşından sonra iki yılda bir tarama mamografisi önerilir.
+l'analyse d'urine (f) | idrar tahlili | isim (d) | L'analyse d'urine a révélé une infection qu'il fallait traiter rapidement. | İdrar tahlili hızla tedavi edilmesi gereken bir enfeksiyon ortaya koydu.
+l'électroencéphalogramme (m) | elektroensefalogram, EEG | isim (e) | Pendant le sommeil, l'électroencéphalogramme enregistre l'activité électrique du cerveau. | Uyku sırasında elektroensefalogram beynin elektriksel etkinliğini kaydeder.
+la ponction lombaire | bel deliği (lomber ponksiyon) | isim (d) | Une ponction lombaire a confirmé le diagnostic de méningite. | Bel deliği menenjit tanısını doğruladı.
+le frottis | smear testi, sürüntü | isim (e) | Le gynécologue recommande un frottis tous les trois ans. | Jinekolog üç yılda bir smear testi öneriyor.
+la coloscopie | kolonoskopi | isim (d) | Une coloscopie de dépistage est recommandée après cinquante ans. | Elli yaşından sonra tarama amaçlı kolonoskopi öneriliyor.
+## Ciddi hastalıklar
+l'épilepsie (f) | epilepsi, sara | isim (d) | Grâce à son traitement, il n'a plus fait de crise d'épilepsie depuis deux ans. | Tedavisi sayesinde iki yıldır epilepsi nöbeti geçirmedi.
+l'arythmie (f) | aritmi, kalp ritim bozukluğu | isim (d) | Une arythmie cardiaque peut provoquer des malaises soudains. | Kalp ritim bozukluğu ani baygınlıklara yol açabilir.
+la septicémie | kan zehirlenmesi, sepsis | isim (d) | Une simple blessure mal soignée peut provoquer une septicémie. | Kötü bakılmış basit bir yara kan zehirlenmesine yol açabilir.
+l'embolie pulmonaire (f) | akciğer embolisi | isim (d) | Les longs voyages en avion augmentent le risque d'embolie pulmonaire. | Uzun uçak yolculukları akciğer embolisi riskini artırır.
+l'anévrisme (m) | anevrizma | isim (e) | On lui a découvert un anévrisme lors d'un examen de routine. | Rutin bir muayenede onda bir anevrizma bulundu.
+les métastases | metastazlar | isim (çoğul) | Heureusement, les examens réalisés après l'opération n'ont révélé aucune métastase. | Neyse ki ameliyattan sonra yapılan tetkikler hiçbir metastaz göstermedi.
+l'insuffisance rénale (f) | böbrek yetmezliği | isim (d) | Atteint d'insuffisance rénale, il attend une greffe depuis deux ans. | Böbrek yetmezliği olan adam iki yıldır nakil bekliyor.
+la cirrhose | siroz | isim (d) | L'alcool est la principale cause de cirrhose du foie. | Alkol karaciğer sirozunun başlıca nedenidir.
+la sclérose en plaques | multipl skleroz (MS) | isim (d) | La sclérose en plaques touche surtout de jeunes adultes. | Multipl skleroz özellikle genç yetişkinleri etkiler.
+la thrombose | tromboz, pıhtı oluşması | isim (d) | Une thrombose veineuse peut survenir après une longue immobilisation. | Uzun süre hareketsiz kalmanın ardından toplardamarda tromboz oluşabilir.
+## Tedavi
+l'immunothérapie (f) | immünoterapi | isim (d) | L'immunothérapie aide le système immunitaire à combattre la tumeur. | İmmünoterapi bağışıklık sisteminin tümörle savaşmasına yardım eder.
+l'hormonothérapie (f) | hormon tedavisi | isim (d) | Après l'opération, elle suivra une hormonothérapie pendant cinq ans. | Ameliyattan sonra beş yıl hormon tedavisi görecek.
+la dialyse | diyaliz | isim (d) | Il doit aller en dialyse trois fois par semaine. | Haftada üç kez diyalize gitmesi gerekiyor.
+l'anesthésie générale (f) | genel anestezi | isim (d) | L'opération du genou se déroulera demain matin sous anesthésie générale. | Diz ameliyatı yarın sabah genel anestezi altında yapılacak.
+la chirurgie ambulatoire | günübirlik cerrahi | isim (d) | Grâce à la chirurgie ambulatoire, elle est rentrée chez elle le soir même. | Günübirlik cerrahi sayesinde aynı akşam evine döndü.
+l'ergothérapie (f) | ergoterapi, uğraşı terapisi | isim (d) | L'ergothérapie l'aide à retrouver les gestes du quotidien. | Ergoterapi günlük hareketleri yeniden kazanmasına yardım ediyor.
+les soins palliatifs | palyatif bakım | isim (çoğul) | Les soins palliatifs visent à soulager la douleur en fin de vie. | Palyatif bakım yaşamın sonunda acıyı hafifletmeyi amaçlar.
+l'effet placebo (m) | plasebo etkisi | isim (e) | L'effet placebo explique une partie de l'amélioration observée. | Gözlenen iyileşmenin bir kısmını plasebo etkisi açıklıyor.
+l'interaction médicamenteuse (f) | ilaç etkileşimi | isim (d) | Le pharmacien vérifie toujours les interactions médicamenteuses possibles. | Eczacı olası ilaç etkileşimlerini her zaman kontrol eder.
+le traitement de fond | uzun süreli temel tedavi | isim (e) | Pour son asthme, il prend un traitement de fond tous les jours. | Astımı için her gün uzun süreli bir temel tedavi alıyor.
+## Tıbbi araçlar
+l'otoscope (m) | otoskop, kulak muayene aleti | isim (e) | Le pédiatre examine les oreilles de l'enfant avec un otoscope. | Çocuk doktoru çocuğun kulaklarını otoskopla muayene ediyor.
+le tensiomètre | tansiyon aleti | isim (e) | Elle vérifie sa tension chaque matin avec un tensiomètre électronique. | Her sabah elektronik bir tansiyon aletiyle tansiyonunu ölçüyor.
+la seringue | şırınga | isim (d) | Avant l'injection, l'infirmier a soigneusement préparé la seringue stérile. | Enjeksiyondan önce hemşire steril şırıngayı özenle hazırladı.
+le cathéter | kateter | isim (e) | On lui a posé un cathéter pour administrer les médicaments. | İlaçları vermek için ona bir kateter takıldı.
+la pince chirurgicale | cerrahi pens | isim (d) | Pendant l'opération, l'infirmière tend une pince chirurgicale au chirurgien. | Ameliyat sırasında hemşire cerraha bir cerrahi pens uzatıyor.
+le bistouri | neşter | isim (e) | Le chirurgien a pratiqué une petite incision au bistouri. | Cerrah neşterle küçük bir kesi yaptı.
+l'attelle (f) | atel | isim (d) | On lui a posé une attelle pour immobiliser son poignet. | Bileğini sabitlemek için ona atel takıldı.
+le respirateur artificiel | solunum cihazı | isim (e) | Le malade a été placé sous respirateur artificiel en réanimation. | Hasta yoğun bakımda solunum cihazına bağlandı.
+la sonde | sonda | isim (d) | Une sonde a été posée pour nourrir le patient. | Hastayı beslemek için bir sonda takıldı.
+le garrot | turnike | isim (e) | Le secouriste a posé un garrot pour arrêter le saignement. | İlk yardımcı kanamayı durdurmak için turnike uyguladı.
+## Hastane dili
+le triage | triyaj, önceliklendirme (acil) | isim (e) | À l'accueil des urgences, le triage détermine qui sera soigné en premier. | Acil girişinde triyaj kimin önce tedavi edileceğini belirler.
+la réanimation | yoğun bakım | isim (d) | Après l'accident, il a passé trois jours en réanimation. | Kazadan sonra üç gün yoğun bakımda kaldı.
+le SAMU | acil yardım servisi (Fransa) | isim (e) | Composez le quinze pour joindre le SAMU en cas d'urgence. | Acil durumda acil yardım servisine ulaşmak için on beşi arayın.
+l'externe (m) | stajyer tıp öğrencisi | isim (e) | L'externe prend des notes pendant la visite du chef de service. | Stajyer tıp öğrencisi servis şefinin vizitesi sırasında not alıyor.
+le chef de service | servis şefi | isim (e) | Le chef de service fait sa visite tous les matins à huit heures. | Servis şefi her sabah saat sekizde vizite çıkar.
+le brancardier | sedyeci | isim (e) | Le brancardier a conduit la patiente jusqu'à la radiologie. | Sedyeci hastayı radyolojiye kadar götürdü.
+la blouse blanche | beyaz önlük (sağlık personeli) | isim (d) | Les blouses blanches manifestent pour obtenir plus de moyens. | Sağlık çalışanları daha fazla kaynak için gösteri yapıyor.
+la feuille de soins | tedavi belgesi (sigorta) | isim (d) | Envoyez la feuille de soins à votre caisse pour être remboursé. | Ödeme almak için tedavi belgesini kurumunuza gönderin.
+la salle de réveil | uyandırma odası | isim (d) | Après l'opération, il a passé deux heures en salle de réveil. | Ameliyattan sonra uyandırma odasında iki saat geçirdi.
+la chambre stérile | steril oda | isim (d) | Après sa greffe, il est resté trois semaines en chambre stérile. | Nakilden sonra üç hafta steril odada kaldı.
