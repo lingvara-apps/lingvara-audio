@@ -1,0 +1,111 @@
+# UNIT: Ev hayatı | Kiralama, tamir, mobilya, komşular
+## Kiralık ev
+die Miete (die Mieten) | kira | isim (d) | Die Miete ist am Monatsanfang fällig. | Kira ayın başında ödenir.
+mieten | kiralamak (kiracı olarak) | fiil | Wir möchten eine Wohnung in Graz mieten. | Graz'da bir daire kiralamak istiyoruz.
+vermieten | kiraya vermek | fiil | Herr Lang vermietet seine Wohnung. | Lang Bey dairesini kiraya veriyor.
+der Vermieter (die Vermieter) | ev sahibi (kiraya veren) | isim (e) | Der Vermieter wohnt im Erdgeschoss. | Ev sahibi giriş katta oturuyor.
+der Mieter (die Mieter) | kiracı | isim (e) | Die neuen Mieter ziehen am Montag ein. | Yeni kiracılar pazartesi taşınıyor.
+die Kaution (die Kautionen) | depozito (kira) | isim (d) | Die Kaution beträgt drei Monatsmieten. | Depozito üç aylık kira tutarında.
+die Nebenkosten | aidat ve yan giderler | isim (çoğul) | Die Nebenkosten sind nicht in der Miete enthalten. | Yan giderler kiraya dahil değil.
+der Mietvertrag (die Mietverträge) | kira sözleşmesi | isim (e) | Lies den Mietvertrag genau durch. | Kira sözleşmesini dikkatlice oku.
+die Warmmiete (die Warmmieten) | ısınma dahil kira | isim (d) | Die Warmmiete beträgt neunhundert Euro. | Isınma dahil kira dokuz yüz avro.
+die Besichtigung (die Besichtigungen) | evi görme, gezme | isim (d) | Die Besichtigung ist am Samstag um zehn. | Evi görme randevusu cumartesi saat onda.
+## Ev aramak
+die Anzeige (die Anzeigen) | ilan | isim (d) | Ich habe eine Anzeige in der Zeitung gelesen. | Gazetede bir ilan okudum.
+der Quadratmeter (die Quadratmeter) | metrekare | isim (e) | Die Wohnung hat sechzig Quadratmeter. | Daire altmış metrekare.
+möbliert | eşyalı | sıfat | Ich suche ein möbliertes Zimmer. | Eşyalı bir oda arıyorum.
+der Altbau (die Altbauten) | eski bina | isim (e) | Wir wohnen in einem schönen Altbau. | Güzel bir eski binada oturuyoruz.
+der Neubau (die Neubauten) | yeni bina | isim (e) | Die Wohnung im Neubau ist teurer. | Yeni binadaki daire daha pahalı.
+die WG (die WGs) | öğrenci evi, ortak ev | isim (d) | Ich wohne in einer WG mit drei Studenten. | Üç öğrenciyle ortak bir evde oturuyorum.
+der Mitbewohner (die Mitbewohner) | ev arkadaşı | isim (e) | Mein Mitbewohner kocht sehr gut. | Ev arkadaşım çok güzel yemek yapıyor.
+zentral | merkezî | sıfat | Die Wohnung liegt sehr zentral. | Daire çok merkezî bir yerde.
+die Lage (die Lagen) | konum; durum | isim (d) | Die Lage ist super, aber die Miete ist hoch. | Konumu süper ama kirası yüksek.
+die Gegend (die Gegenden) | bölge, civar | isim (d) | Das ist eine ruhige Gegend. | Burası sakin bir bölge.
+## Taşınma
+umziehen (zog um, umgezogen) | taşınmak | fiil · düzensiz | Wir ziehen nächsten Monat nach Linz um. | Gelecek ay Linz'e taşınıyoruz.
+der Umzug (die Umzüge) | taşınma | isim (e) | Hilfst du mir beim Umzug? | Taşınırken bana yardım eder misin?
+einziehen (zog ein, eingezogen) | (yeni eve) taşınmak | fiil · düzensiz | Wir sind gestern eingezogen. | Dün yeni eve taşındık.
+der Karton (die Kartons) | karton kutu | isim (e) | Die Bücher sind noch in den Kartons. | Kitaplar hâlâ kolilerde.
+die Kiste (die Kisten) | sandık, kasa, kutu | isim (d) | Stell die Kiste in den Keller. | Kasayı bodruma koy.
+schleppen | sürüklemek, zorla taşımak | fiil | Wir schleppen das Sofa in den vierten Stock. | Kanepeyi dördüncü kata taşıyoruz.
+der Transporter (die Transporter) | kamyonet | isim (e) | Für den Umzug mieten wir einen Transporter. | Taşınma için bir kamyonet kiralıyoruz.
+einrichten | döşemek, düzenlemek | fiil | Sie hat ihre Wohnung schön eingerichtet. | Dairesini güzel döşemiş.
+die Einweihungsparty (die Einweihungspartys) | yeni ev partisi | isim (d) | Am Samstag machen wir eine Einweihungsparty. | Cumartesi yeni ev partisi veriyoruz.
+das Möbelstück (die Möbelstücke) | mobilya parçası | isim (o) | Dieses Möbelstück ist von meiner Oma. | Bu mobilya ninemden kalma.
+## Tamir
+reparieren | tamir etmek | fiil | Kannst du mein Fahrrad reparieren? | Bisikletimi tamir edebilir misin?
+die Reparatur (die Reparaturen) | tamir | isim (d) | Die Reparatur kostet zweihundert Euro. | Tamir iki yüz avro tutuyor.
+der Hausmeister (die Hausmeister) | kapıcı, apartman görevlisi | isim (e) | Ruf bitte den Hausmeister an. | Lütfen apartman görevlisini ara.
+der Schaden (die Schäden) | hasar | isim (e) | Der Sturm hat großen Schaden gemacht. | Fırtına büyük hasar verdi.
+der Wasserhahn (die Wasserhähne) | musluk | isim (e) | Der Wasserhahn in der Küche tropft. | Mutfaktaki musluk damlatıyor.
+das Rohr (die Rohre) | boru | isim (o) | Ein Rohr im Bad ist kaputt. | Banyodaki bir boru bozuk.
+tropfen | damlamak | fiil | Das Wasser tropft von der Decke. | Su tavandan damlıyor.
+undicht | sızdıran | sıfat | Das Fenster ist undicht. | Pencere hava alıyor.
+verstopft | tıkanmış | sıfat | Die Toilette ist verstopft. | Tuvalet tıkanmış.
+wechseln | değiştirmek | fiil | Ich muss die Glühbirne wechseln. | Ampulü değiştirmem lazım.
+## Alet çantası
+das Werkzeug (die Werkzeuge) | alet, alet takımı | isim (o) | Das Werkzeug liegt im Keller. | Aletler bodrumda.
+der Hammer (die Hämmer) | çekiç | isim (e) | Gib mir bitte den Hammer. | Çekici verir misin lütfen?
+der Nagel (die Nägel) | çivi; tırnak | isim (e) | Ich brauche einen Nagel für das Bild. | Tablo için bir çiviye ihtiyacım var.
+die Schraube (die Schrauben) | vida | isim (d) | Hier fehlt eine Schraube. | Burada bir vida eksik.
+der Schraubenzieher (die Schraubenzieher) | tornavida | isim (e) | Der Schraubenzieher ist zu klein. | Tornavida çok küçük.
+die Bohrmaschine (die Bohrmaschinen) | matkap | isim (d) | Kann ich deine Bohrmaschine leihen? | Matkabını ödünç alabilir miyim?
+die Leiter (die Leitern) | el merdiveni | isim (d) | Halt bitte die Leiter fest! | Lütfen merdiveni sıkı tut!
+die Glühbirne (die Glühbirnen) | ampul | isim (d) | Die Glühbirne im Flur ist kaputt. | Koridordaki ampul yanmış.
+bohren | delmek | fiil | Am Sonntag darf man keine Löcher bohren. | Pazar günü delik delmek yasak.
+streichen (strich, gestrichen) | boyamak (duvar); sürmek | fiil · düzensiz | Wir streichen das Kinderzimmer gelb. | Çocuk odasını sarıya boyuyoruz.
+## Yatak odası ve antre
+die Kommode (die Kommoden) | şifonyer | isim (d) | Die Socken sind in der Kommode. | Çoraplar şifonyerde.
+der Nachttisch (die Nachttische) | komodin | isim (e) | Das Handy liegt auf dem Nachttisch. | Telefon komodinin üstünde.
+die Schublade (die Schubladen) | çekmece | isim (d) | Die Schere ist in der Schublade. | Makas çekmecede.
+die Matratze (die Matratzen) | yatak şiltesi | isim (d) | Die Matratze ist zu hart. | Yatak çok sert.
+das Kissen (die Kissen) | yastık | isim (o) | Ich schlafe mit zwei Kissen. | İki yastıkla uyurum.
+die Decke (die Decken) | battaniye, yorgan; tavan | isim (d) | Mir ist kalt, gib mir bitte die Decke. | Üşüyorum, battaniyeyi verir misin?
+die Bettwäsche | nevresim takımı | isim (d) | Ich wechsle jede Woche die Bettwäsche. | Nevresimleri her hafta değiştiririm.
+der Couchtisch (die Couchtische) | sehpa | isim (e) | Die Fernbedienung liegt auf dem Couchtisch. | Kumanda sehpanın üstünde.
+die Garderobe (die Garderoben) | portmanto; vestiyer | isim (d) | Häng deine Jacke an die Garderobe. | Ceketini portmantoya as.
+der Haken (die Haken) | askı kancası | isim (e) | Der Schlüssel hängt am Haken. | Anahtar kancada asılı.
+## Komşular ve ev kuralları
+die Hausordnung (die Hausordnungen) | apartman yönetmeliği | isim (d) | Laut Hausordnung ist Grillen auf dem Balkon verboten. | Apartman yönetmeliğine göre balkonda mangal yasak.
+die Ruhezeit (die Ruhezeiten) | sessizlik saatleri | isim (d) | Ab zweiundzwanzig Uhr ist Ruhezeit. | Saat yirmi ikiden sonra sessizlik saati başlıyor.
+der Lärm | gürültü | isim (e) | Der Lärm von der Baustelle stört mich. | Şantiyenin gürültüsü beni rahatsız ediyor.
+stören | rahatsız etmek | fiil | Entschuldigung, störe ich? | Affedersiniz, rahatsız ediyor muyum?
+das Treppenhaus (die Treppenhäuser) | merdiven boşluğu | isim (o) | Im Treppenhaus ist es dunkel. | Merdiven boşluğu karanlık.
+der Hof (die Höfe) | avlu; çiftlik | isim (e) | Die Fahrräder stehen im Hof. | Bisikletler avluda.
+die Rücksicht | saygı, başkalarını düşünme | isim (d) | Bitte nehmen Sie Rücksicht auf die Nachbarn. | Lütfen komşulara saygılı olun.
+grüßen | selamlamak | fiil | Die Nachbarin grüßt mich jeden Morgen. | Komşu kadın her sabah beni selamlar.
+die Nachbarschaft (die Nachbarschaften) | komşuluk; mahalle | isim (d) | In unserer Nachbarschaft gibt es viele Familien. | Mahallemizde çok aile var.
+das Mehrfamilienhaus (die Mehrfamilienhäuser) | apartman | isim (o) | Wir wohnen in einem Mehrfamilienhaus mit acht Wohnungen. | Sekiz daireli bir apartmanda oturuyoruz.
+## Ev giderleri
+der Strom | elektrik (akım) | isim (e) | Der Strom ist wieder teurer geworden. | Elektrik yine pahalandı.
+das Gas (die Gase) | gaz, doğalgaz | isim (o) | Wir kochen mit Gas. | Doğalgazla yemek pişiriyoruz.
+der Verbrauch | tüketim | isim (e) | Unser Verbrauch an Wasser ist hoch. | Su tüketimimiz yüksek.
+der Zähler (die Zähler) | sayaç | isim (e) | Der Zähler ist im Keller. | Sayaç bodrumda.
+die Abrechnung (die Abrechnungen) | hesap dökümü | isim (d) | Die Abrechnung für die Heizung ist da. | Isınma hesap dökümü geldi.
+die Müllabfuhr | çöp toplama hizmeti | isim (d) | Die Müllabfuhr kommt am Dienstag. | Çöp kamyonu salı günü geliyor.
+die Versicherung (die Versicherungen) | sigorta | isim (d) | Die Versicherung zahlt den Schaden. | Hasarı sigorta ödüyor.
+monatlich | aylık | sıfat | Die monatlichen Kosten sind hoch. | Aylık giderler yüksek.
+jährlich | yıllık | sıfat | Die Versicherung zahlt man jährlich. | Sigorta yıllık ödenir.
+sparsam | tutumlu; ekonomik | sıfat | Die neue Waschmaschine ist sehr sparsam. | Yeni çamaşır makinesi çok ekonomik.
+## Ev tipleri
+das Einfamilienhaus (die Einfamilienhäuser) | müstakil ev | isim (o) | Sie wohnen in einem Einfamilienhaus mit Garten. | Bahçeli müstakil bir evde yaşıyorlar.
+das Hochhaus (die Hochhäuser) | yüksek bina, gökdelen | isim (o) | In Frankfurt gibt es viele Hochhäuser. | Frankfurt'ta çok gökdelen var.
+das Reihenhaus (die Reihenhäuser) | sıra ev | isim (o) | Unser Reihenhaus ist klein, aber gemütlich. | Sıra evimiz küçük ama sıcacık.
+die Villa (die Villen) | villa | isim (d) | Am See stehen schöne Villen. | Göl kenarında güzel villalar var.
+die Hütte (die Hütten) | kulübe, dağ evi | isim (d) | Wir übernachten in einer Hütte in den Bergen. | Dağlarda bir kulübede geceliyoruz.
+das Erdgeschoss (die Erdgeschosse) | giriş katı, zemin kat | isim (o) | Die Bäckerei ist im Erdgeschoss. | Fırın zemin katta.
+die Dachwohnung (die Dachwohnungen) | çatı katı dairesi | isim (d) | Im Sommer ist es in der Dachwohnung sehr heiß. | Yazın çatı katı dairesi çok sıcak oluyor.
+der Vorort (die Vororte) | banliyö, şehir dışı semt | isim (e) | Wir wohnen in einem Vorort von Zürich. | Zürih'in bir banliyösünde oturuyoruz.
+die Terrasse (die Terrassen) | teras | isim (d) | Im Sommer essen wir auf der Terrasse. | Yazın terasta yemek yiyoruz.
+die Etage (die Etagen) | kat | isim (d) | Die Praxis ist in der zweiten Etage. | Muayenehane ikinci katta.
+## Evde günlük işler
+lüften | havalandırmak | fiil | Ich lüfte jeden Morgen zehn Minuten. | Her sabah on dakika evi havalandırırım.
+heizen | ısıtmak | fiil | Im Winter heizen wir mit Holz. | Kışın odunla ısınıyoruz.
+anmachen | açmak (ışık, cihaz) | fiil | Mach bitte die Heizung an. | Lütfen kaloriferi aç.
+ausmachen | kapatmak (ışık, cihaz) | fiil | Vergiss nicht, das Licht auszumachen. | Işığı kapatmayı unutma.
+abschließen (schloss ab, abgeschlossen) | kilitlemek | fiil · düzensiz | Hast du die Tür abgeschlossen? | Kapıyı kilitledin mi?
+klingeln | zili çalmak; çalmak (telefon) | fiil | Es klingelt, machst du auf? | Kapı çalıyor, açar mısın?
+renovieren | yenilemek, tadilat yapmak | fiil | Wir renovieren gerade die Küche. | Şu an mutfağı yeniliyoruz.
+die Ordnung | düzen | isim (d) | In seinem Zimmer herrscht immer Ordnung. | Odası hep düzenlidir.
+das Chaos | kaos, karmaşa | isim (o) | Nach der Party war in der Küche Chaos. | Partiden sonra mutfak darmadağındı.
+geräumig | geniş, ferah | sıfat | Das Wohnzimmer ist hell und geräumig. | Oturma odası aydınlık ve ferah.
