@@ -1,0 +1,111 @@
+# UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+## Argümanın yapısı
+la premessa | öncül; ön söz | isim (d) | Se la premessa è falsa, l'intera conclusione del saggio crolla. | Öncül yanlışsa denemenin bütün sonucu çöker.
+l'assunto (e) | sav, varsayım | isim (e) | L'assunto di partenza dell'autore non viene mai messo in discussione. | Yazarın başlangıç varsayımı hiçbir zaman sorgulanmıyor.
+la confutazione | çürütme | isim (d) | La confutazione della teoria richiese anni di esperimenti accurati. | Kuramın çürütülmesi yıllarca süren titiz deneyler gerektirdi.
+il sillogismo | tasım, kıyas | isim (e) | Il docente usò un sillogismo classico per spiegare la logica formale. | Hoca biçimsel mantığı açıklamak için klasik bir tasım kullandı.
+il postulato | postulat, temel önerme | isim (e) | Il primo postulato della teoria viene accettato senza alcuna dimostrazione. | Kuramın ilk temel önermesi hiçbir kanıt aranmadan kabul edilir.
+l'enunciato (e) | önerme, ifade | isim (e) | Ogni enunciato scientifico deve poter essere verificato da altri studiosi. | Her bilimsel önerme başka araştırmacılarca doğrulanabilmelidir.
+l'antitesi (d) | antitez, karşı sav | isim (d) | Nel secondo capitolo l'autrice oppone alla tesi iniziale una solida antitesi. | Yazar ikinci bölümde ilk teze sağlam bir karşı sav çıkarıyor.
+la sintesi | sentez; özet | isim (d) | Nelle conclusioni il ricercatore offre una sintesi efficace dei risultati. | Araştırmacı sonuç bölümünde bulguların etkili bir sentezini sunuyor.
+il corollario | doğal sonuç, önerme sonucu | isim (e) | Questo principio ha un corollario importante per l'economia regionale. | Bu ilkenin bölgesel ekonomi için önemli bir doğal sonucu var.
+la fallacia | safsata, mantık hatası | isim (d) | Attaccare la persona invece dell'argomento è una fallacia ben nota. | Argüman yerine kişiye saldırmak iyi bilinen bir safsatadır.
+## Akademik fiiller
+postulare | varsaymak, öne sürmek | fiil | Lo studioso postula un legame diretto tra clima e migrazioni antiche. | Araştırmacı iklimle eski göçler arasında doğrudan bir bağ varsayıyor.
+corroborare | desteklemek, doğrulamak | fiil | I nuovi dati corroborano l'ipotesi formulata dieci anni fa. | Yeni veriler on yıl önce ortaya atılan hipotezi destekliyor.
+confutare | çürütmek | fiil | Nessuno è ancora riuscito a confutare in modo convincente quell'argomento. | Henüz kimse o argümanı ikna edici biçimde çürütmeyi başaramadı.
+desumere (desunto) | çıkarmak, sonuç çıkarmak | fiil · düzensiz | Dai documenti si desume che il monastero fu fondato nel Trecento. | Belgelerden manastırın on dördüncü yüzyılda kurulduğu anlaşılıyor.
+avvalorare | güçlendirmek, doğrulamak | fiil | Le testimonianze raccolte avvalorano la ricostruzione proposta dagli storici. | Toplanan tanıklıklar tarihçilerin önerdiği yeniden kurguyu güçlendiriyor.
+circoscrivere (circoscritto) | sınırlandırmak, çerçevelemek | fiil · düzensiz | Conviene circoscrivere l'analisi a un solo decennio per essere precisi. | Kesin olmak için analizi tek bir on yılla sınırlamak gerekir.
+delineare | ana hatlarını çizmek | fiil | Nel primo capitolo l'autore delinea il contesto storico della ricerca. | Yazar ilk bölümde araştırmanın tarihsel bağlamının ana hatlarını çiziyor.
+evincere (evinto) | anlaşılmak, çıkarmak | fiil · düzensiz | Dai grafici si evince un calo costante delle iscrizioni universitarie. | Grafiklerden üniversite kayıtlarında sürekli bir düşüş olduğu anlaşılıyor.
+problematizzare | sorunsallaştırmak | fiil | Il saggio problematizza la nozione stessa di identità nazionale. | Deneme ulusal kimlik kavramının kendisini sorunsallaştırıyor.
+esplicitare | açıkça belirtmek | fiil | È opportuno esplicitare i criteri usati per selezionare il campione. | Örneklemi seçmek için kullanılan ölçütleri açıkça belirtmek uygun olur.
+## Makalenin bölümleri
+l'abstract (e) | özet (makale) | isim (e) | L'abstract non deve superare le duecentocinquanta parole secondo la rivista. | Dergiye göre makale özeti iki yüz elli kelimeyi aşmamalı.
+la bibliografia | kaynakça | isim (d) | Controlla che ogni titolo citato compaia anche nella bibliografia finale. | Alıntılanan her eserin son kaynakçada da yer aldığını kontrol et.
+la nota a piè di pagina | dipnot | isim (d) | L'autore rimanda ai documenti d'archivio in una lunga nota a piè di pagina. | Yazar uzun bir dipnotta arşiv belgelerine gönderme yapıyor.
+l'appendice (d) | ek (kitap, makale) | isim (d) | Le tabelle complete sono riportate nell'appendice alla fine del volume. | Tam tablolar kitabın sonundaki ekte yer alıyor.
+lo stato dell'arte | alanın mevcut durumu, literatür | isim (e) | Il primo capitolo presenta lo stato dell'arte sulla linguistica computazionale. | İlk bölüm hesaplamalı dilbilimdeki mevcut literatürü sunuyor.
+la metodologia | yöntem bilimi, metodoloji | isim (d) | La metodologia adottata combina interviste qualitative e questionari anonimi. | Benimsenen metodoloji nitel görüşmelerle anonim anketleri birleştiriyor.
+il quadro teorico | kuramsal çerçeve | isim (e) | Il quadro teorico si ispira agli studi sociologici degli anni Settanta. | Kuramsal çerçeve yetmişli yılların sosyoloji çalışmalarından esinleniyor.
+l'indice analitico (e) | dizin | isim (e) | Grazie all'indice analitico ho trovato subito i passi su Machiavelli. | Dizin sayesinde Machiavelli ile ilgili pasajları hemen buldum.
+la postfazione | son söz | isim (d) | Nella postfazione il curatore racconta la storia travagliata del manoscritto. | Editör son sözde elyazmasının çalkantılı öyküsünü anlatıyor.
+il frontespizio | iç kapak | isim (e) | Sul frontespizio compaiono il titolo, l'autore e l'anno di stampa. | İç kapakta başlık, yazar ve baskı yılı yer alıyor.
+## Alıntı ve kaynak gösterme
+la citazione | alıntı | isim (d) | Ogni citazione deve riportare con precisione la pagina della fonte. | Her alıntı kaynağın sayfasını kesin olarak belirtmelidir.
+il plagio | intihal | isim (e) | Copiare interi paragrafi senza citarli è considerato plagio a tutti gli effetti. | Bütün paragrafları kaynak göstermeden kopyalamak düpedüz intihal sayılır.
+la parafrasi | açımlama, başka sözlerle anlatma | isim (d) | Una buona parafrasi riformula il concetto senza tradirne il senso originario. | İyi bir açımlama kavramı özgün anlamına ihanet etmeden yeniden ifade eder.
+rimandare a | göndermek, atıfta bulunmak | fiil | Per i dettagli tecnici rimando al mio articolo pubblicato l'anno scorso. | Teknik ayrıntılar için geçen yıl yayımlanan makaleme atıfta bulunuyorum.
+il riferimento bibliografico | kaynak gösterimi | isim (e) | Manca il riferimento bibliografico per la statistica citata a pagina dieci. | Onuncu sayfada anılan istatistiğin kaynak gösterimi eksik.
+op. cit. | adı geçen eser | ifade | L'autore viene citato di nuovo con la formula op. cit. nella nota successiva. | Yazar bir sonraki notta "adı geçen eser" kalıbıyla yeniden anılıyor.
+ibidem | aynı yerde, a.g.y. | zarf | La seconda citazione proviene dalla stessa pagina, quindi in nota scrivo ibidem. | İkinci alıntı aynı sayfadan geliyor, o yüzden notta "aynı yerde" yazıyorum.
+la fonte primaria | birincil kaynak | isim (d) | Lo storico preferisce sempre la fonte primaria ai commenti successivi. | Tarihçi her zaman birincil kaynağı sonraki yorumlara tercih eder.
+virgolettato | tırnak içinde | sıfat | Il passo virgolettato è tratto da una lettera inedita del poeta. | Tırnak içindeki pasaj şairin yayımlanmamış bir mektubundan alınmış.
+attingere a (attinto) | yararlanmak, kaynaktan almak | fiil · düzensiz | Per questo studio ho attinto ampiamente agli archivi comunali di Siena. | Bu çalışma için Siena belediye arşivlerinden geniş ölçüde yararlandım.
+## Akademik bağlayıcılar
+ne consegue che | buradan şu sonuç çıkar ki | ifade | I campioni erano troppo piccoli; ne consegue che i risultati vanno presi con cautela. | Örneklemler çok küçüktü; buradan sonuçların temkinle ele alınması gerektiği çıkar.
+alla luce di | ışığında | edat | Alla luce di questi dati, la vecchia ipotesi appare ormai insostenibile. | Bu veriler ışığında eski hipotez artık savunulamaz görünüyor.
+in virtù di | sayesinde, gereğince | edat | In virtù di una nuova legge, l'ateneo ha potuto assumere altri docenti. | Yeni bir yasa sayesinde üniversite başka öğretim üyeleri alabildi.
+a fronte di | karşısında, karşılığında | edat | A fronte di costi così alti, i benefici del progetto sembrano modesti. | Bu kadar yüksek maliyetler karşısında projenin faydaları mütevazı görünüyor.
+per l'appunto | tam da, işte tam olarak | zarf | È per l'appunto questo il problema che vorrei affrontare oggi. | Bugün ele almak istediğim sorun tam da budur.
+in ultima analisi | son tahlilde | ifade | In ultima analisi, la crisi dipese più dalla politica che dall'economia. | Son tahlilde kriz ekonomiden çok siyasete bağlıydı.
+segnatamente | özellikle, bilhassa | zarf | Il fenomeno riguarda molte regioni, segnatamente quelle del Mezzogiorno. | Olgu pek çok bölgeyi, özellikle de Güney İtalya bölgelerini ilgilendiriyor.
+viceversa | tersine, bunun tersi | zarf | Alcuni dati confermano la teoria; viceversa, altri sembrano smentirla del tutto. | Bazı veriler kuramı doğruluyor; tersine, bazıları onu tamamen yalanlıyor gibi.
+stante | göz önüne alınınca, nedeniyle | edat | Stante la scarsità di fonti, ogni conclusione resta necessariamente provvisoria. | Kaynakların azlığı göz önüne alınınca her sonuç zorunlu olarak geçici kalır.
+per converso | buna karşılık | zarf | Il nord crebbe rapidamente; per converso, il sud rimase legato all'agricoltura. | Kuzey hızla büyüdü; buna karşılık güney tarıma bağlı kaldı.
+## Hipotez ve kanıt
+la congettura | varsayım, tahmin | isim (d) | Per ora la sua è soltanto una congettura priva di riscontri documentari. | Şimdilik onunki belgelerle desteklenmeyen bir tahminden ibaret.
+il riscontro | doğrulama, karşılık | isim (e) | Le interviste hanno trovato un riscontro preciso nei registri parrocchiali. | Görüşmeler kilise kayıtlarında kesin bir doğrulama buldu.
+l'evidenza empirica (d) | deneysel kanıt | isim (d) | Manca ancora un'evidenza empirica sufficiente a sostenere questa teoria. | Bu kuramı destekleyecek yeterli deneysel kanıt hâlâ yok.
+la verifica | doğrulama, denetim | isim (d) | La verifica dei dati è stata affidata a un gruppo indipendente di esperti. | Verilerin doğrulanması bağımsız bir uzman grubuna verildi.
+falsificabile | yanlışlanabilir | sıfat | Secondo Popper, una teoria scientifica deve essere sempre falsificabile. | Popper'a göre bilimsel bir kuram her zaman yanlışlanabilir olmalıdır.
+attendibile | güvenilir | sıfat | La fonte non è del tutto attendibile perché fu scritta decenni dopo i fatti. | Kaynak tamamen güvenilir değil, çünkü olaylardan onlarca yıl sonra yazıldı.
+inconfutabile | çürütülemez | sıfat | Il documento ritrovato costituisce una prova pressoché inconfutabile. | Bulunan belge neredeyse çürütülemez bir kanıt oluşturuyor.
+la correlazione | bağıntı, korelasyon | isim (d) | Una correlazione statistica non implica necessariamente un rapporto di causa. | İstatistiksel bir bağıntı mutlaka bir neden ilişkisi anlamına gelmez.
+il nesso causale | nedensellik bağı | isim (e) | Gli studiosi non hanno ancora dimostrato un nesso causale tra i due fenomeni. | Araştırmacılar iki olgu arasında henüz bir nedensellik bağı kanıtlamadı.
+la variabile | değişken | isim (d) | Abbiamo escluso dall'analisi ogni variabile legata al reddito familiare. | Aile geliriyle ilgili her değişkeni analizin dışında bıraktık.
+## Akademik sıfatlar
+esaustivo | kapsamlı, eksiksiz | sıfat | Non pretendo di offrire un elenco esaustivo, ma solo alcuni esempi significativi. | Eksiksiz bir liste sunma iddiasında değilim, yalnızca bazı anlamlı örnekler.
+pertinente | ilgili, yerinde | sıfat | La domanda dello studente era molto pertinente e ha aperto un bel dibattito. | Öğrencinin sorusu çok yerindeydi ve güzel bir tartışma başlattı.
+fuorviante | yanıltıcı | sıfat | Il titolo dell'articolo è fuorviante rispetto ai contenuti reali della ricerca. | Makalenin başlığı araştırmanın gerçek içeriğine göre yanıltıcı.
+euristico | buluşsal | sıfat | Il modello ha soprattutto un valore euristico e non pretende di essere definitivo. | Modelin daha çok buluşsal bir değeri var ve kesin olma iddiası taşımıyor.
+apodittico | kesin, tartışmaya kapalı | sıfat | Il tono apodittico della recensione ha irritato molti lettori esperti. | Eleştirinin kesin ve tartışmaya kapalı tonu birçok uzman okuru rahatsız etti.
+inedito | yayımlanmamış; yeni, görülmemiş | sıfat | La studiosa ha scoperto alcune lettere inedite in una biblioteca di Padova. | Araştırmacı Padova'daki bir kütüphanede yayımlanmamış bazı mektuplar buldu.
+interdisciplinare | disiplinlerarası | sıfat | Il convegno propone un approccio interdisciplinare tra storia, arte e medicina. | Kongre tarih, sanat ve tıp arasında disiplinlerarası bir yaklaşım öneriyor.
+speculativo | kuramsal, spekülatif | sıfat | La parte finale del libro è più speculativa e meno fondata sui documenti. | Kitabın son bölümü daha kuramsal ve belgelere daha az dayanıyor.
+imprescindibile | vazgeçilmez | sıfat | Questo manuale resta un riferimento imprescindibile per chi studia il Rinascimento. | Bu el kitabı Rönesans çalışanlar için vazgeçilmez bir başvuru kaynağı olmaya devam ediyor.
+paradigmatico | örnek niteliğinde, paradigmatik | sıfat | Il caso di Venezia è paradigmatico per capire le repubbliche marinare. | Venedik örneği denizci cumhuriyetleri anlamak için örnek niteliğindedir.
+## Tartışma ve eleştiri
+la confutabilità | çürütülebilirlik | isim (d) | La confutabilità di un'ipotesi è un criterio centrale della scienza moderna. | Bir hipotezin çürütülebilirliği modern bilimin temel ölçütlerinden biridir.
+la recensione | eleştiri yazısı, tanıtım | isim (d) | Una recensione severa uscita sulla rivista ha riaperto il dibattito. | Dergide çıkan sert bir eleştiri yazısı tartışmayı yeniden başlattı.
+la replica | yanıt, karşılık | isim (d) | Nella sua replica l'autore ha chiarito alcuni passaggi del libro. | Yazar yanıtında kitabın bazı bölümlerini açıklığa kavuşturdu.
+il contraddittorio | karşılıklı tartışma | isim (e) | In un convegno serio deve esserci sempre spazio per il contraddittorio. | Ciddi bir kongrede karşılıklı tartışmaya her zaman yer olmalıdır.
+la revisione paritaria | hakem değerlendirmesi | isim (d) | L'articolo è stato accettato dopo una lunga revisione paritaria anonima. | Makale uzun bir anonim hakem değerlendirmesinden sonra kabul edildi.
+il revisore | hakem | isim (e) | Il secondo revisore ha chiesto di ampliare la parte sulla metodologia. | İkinci hakem metodoloji kısmının genişletilmesini istedi.
+obiettare | itiraz etmek | fiil | Qualcuno potrebbe obiettare che il campione non è rappresentativo. | Biri örneklemin temsil edici olmadığı yönünde itiraz edebilir.
+controbattere | karşılık vermek, cevap vermek | fiil | Il relatore ha controbattuto punto per punto alle critiche dei colleghi. | Konuşmacı meslektaşlarının eleştirilerine madde madde karşılık verdi.
+la querelle | polemik, tartışma | isim (d) | La querelle tra i due filologi durò per più di vent'anni. | İki filolog arasındaki polemik yirmi yıldan fazla sürdü.
+l'obiezione (d) | itiraz | isim (d) | Vorrei rispondere subito alla vostra obiezione sulla datazione del codice. | Elyazmasının tarihlendirilmesine ilişkin itirazınıza hemen yanıt vermek isterim.
+## Akademik hayat
+l'ateneo (e) | üniversite | isim (e) | L'ateneo di Bologna è considerato il più antico del mondo occidentale. | Bologna Üniversitesi Batı dünyasının en eskisi kabul edilir.
+il relatore | tez danışmanı; konuşmacı | isim (e) | Il mio relatore mi ha consigliato di ridurre il capitolo introduttivo. | Tez danışmanım giriş bölümünü kısaltmamı önerdi.
+il dottorato di ricerca | doktora | isim (e) | Dopo il dottorato di ricerca ha ottenuto un posto a Pisa. | Doktorasından sonra Pisa'da bir kadro aldı.
+il simposio | sempozyum | isim (e) | Al simposio di Firenze hanno partecipato studiosi di venti paesi diversi. | Floransa'daki sempozyuma yirmi farklı ülkeden araştırmacı katıldı.
+l'assegno di ricerca (e) | araştırma bursu (doktora sonrası) | isim (e) | Con un assegno di ricerca biennale ha potuto trascorrere un periodo a Lovanio. | İki yıllık bir araştırma bursuyla bir süre Leuven'de kalabildi.
+il cattedratico | kürsü profesörü | isim (e) | Il vecchio cattedratico teneva ancora lezioni affollatissime a ottant'anni. | Yaşlı kürsü profesörü seksen yaşında hâlâ çok kalabalık dersler veriyordu.
+la cattedra | kürsü | isim (d) | Dopo anni di precariato ha finalmente ottenuto la cattedra di filologia romanza. | Yıllarca güvencesiz çalıştıktan sonra nihayet Roman filolojisi kürsüsünü aldı.
+la discussione della tesi | tez savunması | isim (d) | La discussione della tesi è fissata per il venti marzo alle dieci. | Tez savunması yirmi martta saat ona belirlendi.
+la monografia | monografi | isim (d) | Ha pubblicato una monografia dedicata all'architettura romanica in Puglia. | Puglia'daki Romanesk mimariye ayrılmış bir monografi yayımladı.
+il ricercatore | araştırmacı | isim (e) | Il giovane ricercatore ha vinto un finanziamento europeo per tre anni. | Genç araştırmacı üç yıllık bir Avrupa fonu kazandı.
+## Akademik üslup kalıpları
+si ritiene che | ... olduğu kabul edilir | ifade | Si ritiene che il manoscritto sia stato copiato in un monastero toscano. | Elyazmasının bir Toskana manastırında kopyalandığı kabul edilir.
+è lecito supporre | ... varsaymak yerindedir | ifade | È lecito supporre che l'autore conoscesse bene le opere dei suoi predecessori. | Yazarın seleflerinin eserlerini iyi bildiğini varsaymak yerindedir.
+va sottolineato che | şunun altını çizmek gerekir ki | ifade | Va sottolineato che il campione comprende soltanto studenti universitari. | Örneklemin yalnızca üniversite öğrencilerinden oluştuğunun altını çizmek gerekir.
+a nostro avviso | kanımızca | ifade | A nostro avviso, l'interpretazione tradizionale del testo va rivista a fondo. | Kanımızca metnin geleneksel yorumu baştan sona gözden geçirilmeli.
+fermo restando | ... saklı kalmak kaydıyla | ifade | Fermo restando il valore dell'opera, alcune tesi appaiono oggi superate. | Eserin değeri saklı kalmak kaydıyla, bazı tezler bugün aşılmış görünüyor.
+in tal senso | bu anlamda, bu doğrultuda | ifade | In tal senso, la ricerca apre nuove prospettive per gli studi danteschi. | Bu anlamda araştırma Dante çalışmalarına yeni ufuklar açıyor.
+per inciso | bu arada, laf arasında | ifade | Per inciso, la stessa ipotesi era già stata avanzata nell'Ottocento. | Bu arada, aynı hipotez on dokuzuncu yüzyılda da ileri sürülmüştü.
+in prima approssimazione | ilk yaklaşımla, kabaca | ifade | In prima approssimazione, possiamo distinguere tre fasi nella storia del dialetto. | İlk yaklaşımla lehçenin tarihinde üç evre ayırt edebiliriz.
+mutatis mutandis | gerekli değişiklikler yapılarak | ifade | Le stesse conclusioni valgono, mutatis mutandis, anche per il caso spagnolo. | Aynı sonuçlar gerekli değişiklikler yapılarak İspanyol örneği için de geçerlidir.
+ex post | sonradan, olaydan sonra | zarf | Molte spiegazioni sono state costruite ex post, quando gli eventi erano già noti. | Pek çok açıklama sonradan, olaylar zaten bilinirken kurgulandı.
