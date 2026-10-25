@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
+## Bankada
+账户 (zhànghù) | hesap (banka) | isim | 我想开一个银行账户。(Wǒ xiǎng kāi yí ge yínháng zhànghù.) | Bir banka hesabı açmak istiyorum.
+存款 (cúnkuǎn) | mevduat, birikim | isim | 他把存款都用来买房子了。(Tā bǎ cúnkuǎn dōu yòng lái mǎi fángzi le.) | Bütün birikimini ev almak için kullandı.
+取款机 (qǔkuǎnjī) | ATM | isim | 附近有取款机吗？(Fùjìn yǒu qǔkuǎnjī ma?) | Yakınlarda ATM var mı?
+转账 (zhuǎnzhàng) | havale yapmak | fiil | 我用手机给你转账。(Wǒ yòng shǒujī gěi nǐ zhuǎnzhàng.) | Sana telefondan havale yapıyorum.
+利息 (lìxī) | faiz | isim | 现在银行的利息很低。(Xiànzài yínháng de lìxī hěn dī.) | Şu an bankaların faizi çok düşük.
+密码 (mìmǎ) | şifre | isim | 请输入密码。(Qǐng shūrù mìmǎ.) | Lütfen şifrenizi girin.
+银行卡 (yínhángkǎ) | banka kartı | isim | 我的银行卡丢了。(Wǒ de yínhángkǎ diū le.) | Banka kartımı kaybettim.
+汇率 (huìlǜ) | döviz kuru | isim | 今天的汇率是多少？(Jīntiān de huìlǜ shì duōshao?) | Bugünkü döviz kuru ne kadar?
+贷款 (dàikuǎn) | kredi, borç almak | isim | 他们向银行贷款买房。(Tāmen xiàng yínháng dàikuǎn mǎi fáng.) | Ev almak için bankadan kredi çektiler.
+开户 (kāihù) | hesap açmak | fiil | 开户需要带护照。(Kāihù xūyào dài hùzhào.) | Hesap açmak için pasaport getirmek gerekiyor.
+## Kargo ve posta
+快递 (kuàidì) | kargo, kurye | isim | 你的快递到了。(Nǐ de kuàidì dào le.) | Kargon geldi.
+包裹 (bāoguǒ) | paket, koli | isim | 这个包裹是寄给谁的？(Zhège bāoguǒ shì jì gěi shéi de?) | Bu paket kime gönderiliyor?
+邮票 (yóupiào) | pul | isim | 寄这封信要贴几张邮票？(Jì zhè fēng xìn yào tiē jǐ zhāng yóupiào?) | Bu mektubu göndermek için kaç pul yapıştırmak gerek?
+信封 (xìnfēng) | zarf | isim | 请把信放进信封里。(Qǐng bǎ xìn fàng jìn xìnfēng li.) | Lütfen mektubu zarfa koy.
+收件人 (shōujiànrén) | alıcı | isim | 请写清楚收件人的名字。(Qǐng xiě qīngchu shōujiànrén de míngzi.) | Lütfen alıcının adını açıkça yazın.
+签收 (qiānshōu) | imzalayarak teslim almak | fiil | 包裹已经签收了。(Bāoguǒ yǐjīng qiānshōu le.) | Paket teslim alındı.
+运费 (yùnfèi) | nakliye ücreti, kargo ücreti | isim | 运费是二十块。(Yùnfèi shì èrshí kuài.) | Kargo ücreti yirmi yuan.
+送货 (sònghuò) | mal teslim etmek | fiil | 商店可以送货上门吗？(Shāngdiàn kěyǐ sònghuò shàngmén ma?) | Dükkân eve teslimat yapabiliyor mu?
+明信片 (míngxìnpiàn) | kartpostal | isim | 我从西安给你寄了一张明信片。(Wǒ cóng Xī'ān gěi nǐ jì le yì zhāng míngxìnpiàn.) | Sana Xi'an'dan bir kartpostal gönderdim.
+邮编 (yóubiān) | posta kodu | isim | 你家的邮编是多少？(Nǐ jiā de yóubiān shì duōshao?) | Evinin posta kodu kaç?
+## Kuaförde
+理发 (lǐfà) | saç kestirmek | fiil | 我该去理发了。(Wǒ gāi qù lǐfà le.) | Saçımı kestirme vaktim geldi.
+理发店 (lǐfàdiàn) | kuaför, berber | isim | 楼下新开了一家理发店。(Lóu xià xīn kāi le yì jiā lǐfàdiàn.) | Aşağıda yeni bir kuaför açıldı.
+剪 (jiǎn) | kesmek (makasla) | fiil | 请帮我剪短一点儿。(Qǐng bāng wǒ jiǎn duǎn yìdiǎnr.) | Lütfen biraz kısaltın.
+染 (rǎn) | boyamak (saç, kumaş) | fiil | 她把头发染成了红色。(Tā bǎ tóufa rǎn chéng le hóngsè.) | Saçlarını kırmızıya boyattı.
+烫 (tàng) | perma yaptırmak; çok sıcak | fiil | 我想烫头发。(Wǒ xiǎng tàng tóufa.) | Saçıma perma yaptırmak istiyorum.
+发型 (fàxíng) | saç modeli | isim | 你的新发型很好看。(Nǐ de xīn fàxíng hěn hǎokàn.) | Yeni saç modelin çok güzel.
+化妆 (huàzhuāng) | makyaj yapmak | fiil | 她每天早上化妆。(Tā měitiān zǎoshang huàzhuāng.) | Her sabah makyaj yapar.
+化妆品 (huàzhuāngpǐn) | kozmetik ürün | isim | 这家店卖化妆品。(Zhè jiā diàn mài huàzhuāngpǐn.) | Bu dükkân kozmetik ürünler satıyor.
+美容院 (měiróngyuàn) | güzellik salonu | isim | 妈妈每个月去一次美容院。(Māma měi ge yuè qù yí cì měiróngyuàn.) | Annem ayda bir güzellik salonuna gider.
+指甲 (zhǐjia) | tırnak | isim | 你的指甲太长了。(Nǐ de zhǐjia tài cháng le.) | Tırnakların çok uzun.
+## Giyim
+服装 (fúzhuāng) | giyim, kıyafet | isim | 这家服装店的衣服很便宜。(Zhè jiā fúzhuāngdiàn de yīfu hěn piányi.) | Bu giyim mağazasının kıyafetleri çok ucuz.
+款式 (kuǎnshì) | model, kesim | isim | 这个款式有别的颜色吗？(Zhège kuǎnshì yǒu bié de yánsè ma?) | Bu modelin başka rengi var mı?
+时尚 (shíshàng) | moda; modaya uygun | sıfat | 她穿得很时尚。(Tā chuān de hěn shíshàng.) | Çok şık giyiniyor.
+流行 (liúxíng) | moda olmak, yaygın olmak | fiil | 今年流行这种颜色。(Jīnnián liúxíng zhè zhǒng yánsè.) | Bu yıl bu renk moda.
+尺码 (chǐmǎ) | beden, numara | isim | 您穿多大尺码的？(Nín chuān duō dà chǐmǎ de?) | Kaç beden giyiyorsunuz?
+棉 (mián) | pamuk | isim | 这件衬衫是纯棉的。(Zhè jiàn chènshān shì chún mián de.) | Bu gömlek saf pamuklu.
+丝绸 (sīchóu) | ipek | isim | 苏州的丝绸很有名。(Sūzhōu de sīchóu hěn yǒumíng.) | Suzhou ipeği çok ünlüdür.
+牛仔裤 (niúzǎikù) | kot pantolon | isim | 我最喜欢穿牛仔裤。(Wǒ zuì xǐhuan chuān niúzǎikù.) | En çok kot pantolon giymeyi severim.
+连衣裙 (liányīqún) | elbise | isim | 这条连衣裙很适合你。(Zhè tiáo liányīqún hěn shìhé nǐ.) | Bu elbise sana çok yakışıyor.
+西装 (xīzhuāng) | takım elbise | isim | 面试的时候要穿西装。(Miànshì de shíhou yào chuān xīzhuāng.) | Mülakatta takım elbise giymek gerekir.
+## İnternetten alışveriş
+网购 (wǎnggòu) | internetten alışveriş | fiil | 现在很多人喜欢网购。(Xiànzài hěn duō rén xǐhuan wǎnggòu.) | Artık birçok kişi internetten alışveriş yapmayı seviyor.
+下单 (xiàdān) | sipariş vermek | fiil | 我昨天下单，今天就到了。(Wǒ zuótiān xiàdān, jīntiān jiù dào le.) | Dün sipariş verdim, bugün geldi bile.
+退货 (tuìhuò) | ürün iade etmek | fiil | 七天之内可以退货。(Qī tiān zhī nèi kěyǐ tuìhuò.) | Yedi gün içinde iade edilebilir.
+换货 (huànhuò) | ürün değiştirmek | fiil | 衣服太小了，我想换货。(Yīfu tài xiǎo le, wǒ xiǎng huànhuò.) | Kıyafet çok küçük, değiştirmek istiyorum.
+发票 (fāpiào) | fatura | isim | 请给我开一张发票。(Qǐng gěi wǒ kāi yì zhāng fāpiào.) | Lütfen bana bir fatura kesin.
+收据 (shōujù) | makbuz, fiş | isim | 请保留好收据。(Qǐng bǎoliú hǎo shōujù.) | Lütfen fişi saklayın.
+保修 (bǎoxiū) | garanti | fiil | 这台电脑保修一年。(Zhè tái diànnǎo bǎoxiū yì nián.) | Bu bilgisayarın bir yıl garantisi var.
+优惠 (yōuhuì) | indirimli; indirim | sıfat | 学生买票有优惠。(Xuésheng mǎi piào yǒu yōuhuì.) | Öğrencilere bilette indirim var.
+特价 (tèjià) | özel fiyat, kampanya | isim | 这些水果今天特价。(Zhèxiē shuǐguǒ jīntiān tèjià.) | Bu meyveler bugün kampanyada.
+会员卡 (huìyuánkǎ) | üyelik kartı | isim | 您有会员卡吗？(Nín yǒu huìyuánkǎ ma?) | Üyelik kartınız var mı?
+## Ödeme
+扫码 (sǎomǎ) | QR kod okutmak | fiil | 在中国买东西可以扫码付款。(Zài Zhōngguó mǎi dōngxi kěyǐ sǎomǎ fùkuǎn.) | Çin'de alışverişte QR kod okutarak ödeme yapılabilir.
+付款 (fùkuǎn) | ödeme yapmak | fiil | 请在这里付款。(Qǐng zài zhèlǐ fùkuǎn.) | Lütfen ödemeyi burada yapın.
+支付 (zhīfù) | ödemek (resmî) | fiil | 你可以用手机支付。(Nǐ kěyǐ yòng shǒujī zhīfù.) | Telefonla ödeme yapabilirsin.
+刷卡 (shuākǎ) | kartla ödemek, kart okutmak | fiil | 这儿能刷卡吗？(Zhèr néng shuākǎ ma?) | Burada kartla ödeme yapılabiliyor mu?
+余额 (yú'é) | bakiye | isim | 卡里的余额不够了。(Kǎ li de yú'é bú gòu le.) | Karttaki bakiye yetmiyor.
+充值 (chōngzhí) | bakiye yüklemek | fiil | 我要给手机充值。(Wǒ yào gěi shǒujī chōngzhí.) | Telefonuma bakiye yüklemem lazım.
+免费 (miǎnfèi) | ücretsiz | sıfat | 这个博物馆是免费的。(Zhège bówùguǎn shì miǎnfèi de.) | Bu müze ücretsiz.
+收费 (shōufèi) | ücret almak | fiil | 停车场怎么收费？(Tíngchēchǎng zěnme shōufèi?) | Otopark nasıl ücretlendiriliyor?
+分期 (fēnqī) | taksitle | fiil | 这个手机可以分期付款。(Zhège shǒujī kěyǐ fēnqī fùkuǎn.) | Bu telefon taksitle alınabiliyor.
+讲价 (jiǎngjià) | pazarlık etmek | fiil | 在市场买东西可以讲价。(Zài shìchǎng mǎi dōngxi kěyǐ jiǎngjià.) | Pazarda alışveriş yaparken pazarlık edilebilir.
+## Hizmet yerleri
+洗衣店 (xǐyīdiàn) | kuru temizleme, çamaşırhane | isim | 我把西装送到洗衣店了。(Wǒ bǎ xīzhuāng sòng dào xǐyīdiàn le.) | Takım elbisemi kuru temizlemeye verdim.
+维修店 (wéixiūdiàn) | tamirhane | isim | 手机坏了，去维修店看看吧。(Shǒujī huài le, qù wéixiūdiàn kànkan ba.) | Telefon bozuldu, tamirhaneye götürüp baktıralım.
+照相馆 (zhàoxiàngguǎn) | fotoğraf stüdyosu | isim | 办签证要去照相馆拍照片。(Bàn qiānzhèng yào qù zhàoxiàngguǎn pāi zhàopiàn.) | Vize için fotoğraf stüdyosunda fotoğraf çektirmek gerekiyor.
+健身房 (jiànshēnfáng) | spor salonu | isim | 公司楼下有一个健身房。(Gōngsī lóu xià yǒu yí ge jiànshēnfáng.) | Şirketin alt katında bir spor salonu var.
+便利店 (biànlìdiàn) | market (küçük, 24 saat) | isim | 便利店二十四小时开门。(Biànlìdiàn èrshísì xiǎoshí kāimén.) | Market yirmi dört saat açık.
+菜市场 (càishìchǎng) | sebze-meyve pazarı | isim | 奶奶每天早上去菜市场。(Nǎinai měitiān zǎoshang qù càishìchǎng.) | Babaannem her sabah pazara gider.
+步行街 (bùxíngjiē) | yaya caddesi | isim | 步行街上有很多商店。(Bùxíngjiē shang yǒu hěn duō shāngdiàn.) | Yaya caddesinde birçok dükkân var.
+营业 (yíngyè) | açık olmak, faaliyet göstermek | fiil | 这家店营业到晚上十点。(Zhè jiā diàn yíngyè dào wǎnshang shí diǎn.) | Bu dükkân akşam ona kadar açık.
+关门 (guānmén) | kapanmak; kapıyı kapatmak | fiil | 银行五点关门。(Yínháng wǔ diǎn guānmén.) | Banka saat beşte kapanıyor.
+开门 (kāimén) | açılmak; kapıyı açmak | fiil | 超市早上八点开门。(Chāoshì zǎoshang bā diǎn kāimén.) | Süpermarket sabah sekizde açılıyor.
+## Müşteri hizmetleri
+投诉 (tóusù) | şikâyet etmek | fiil | 我要投诉这家饭馆。(Wǒ yào tóusù zhè jiā fànguǎn.) | Bu lokantayı şikâyet edeceğim.
+客服 (kèfú) | müşteri hizmetleri | isim | 有问题可以联系客服。(Yǒu wèntí kěyǐ liánxì kèfú.) | Sorun olursa müşteri hizmetleriyle iletişime geçebilirsin.
+咨询 (zīxún) | danışmak, bilgi almak | fiil | 我想咨询一下签证的事。(Wǒ xiǎng zīxún yíxià qiānzhèng de shì.) | Vize konusunda bilgi almak istiyorum.
+售后 (shòuhòu) | satış sonrası hizmet | isim | 这家店的售后服务很好。(Zhè jiā diàn de shòuhòu fúwù hěn hǎo.) | Bu dükkânın satış sonrası hizmeti çok iyi.
+解释 (jiěshì) | açıklamak | fiil | 请你解释一下这是怎么回事。(Qǐng nǐ jiěshì yíxià zhè shì zěnme huí shì.) | Lütfen bunun nasıl olduğunu açıklayın.
+赔偿 (péicháng) | tazmin etmek; tazminat | fiil | 东西坏了，商店要赔偿。(Dōngxi huài le, shāngdiàn yào péicháng.) | Ürün bozuk çıktı, dükkânın tazmin etmesi gerekiyor.
+退款 (tuìkuǎn) | para iadesi | fiil | 退款三天以后到账。(Tuìkuǎn sān tiān yǐhòu dào zhàng.) | Para iadesi üç gün sonra hesaba geçer.
+维修 (wéixiū) | bakım ve onarım | fiil | 电梯正在维修。(Diàntī zhèngzài wéixiū.) | Asansör bakımda.
+预约 (yùyuē) | randevu almak | fiil | 看医生要先预约。(Kàn yīshēng yào xiān yùyuē.) | Doktora görünmek için önce randevu almak gerekiyor.
+等候 (děnghòu) | beklemek (resmî) | fiil | 请在这里等候。(Qǐng zài zhèlǐ děnghòu.) | Lütfen burada bekleyin.
+## Ölçüler
+公斤 (gōngjīn) | kilogram | isim | 这个箱子有二十公斤。(Zhège xiāngzi yǒu èrshí gōngjīn.) | Bu bavul yirmi kilo.
+公里 (gōnglǐ) | kilometre | isim | 我家离公司十公里。(Wǒ jiā lí gōngsī shí gōnglǐ.) | Evim şirkete on kilometre uzaklıkta.
+厘米 (límǐ) | santimetre | isim | 这张桌子长八十厘米。(Zhè zhāng zhuōzi cháng bāshí límǐ.) | Bu masanın uzunluğu seksen santim.
+升 (shēng) | litre | isim | 我每天喝两升水。(Wǒ měitiān hē liǎng shēng shuǐ.) | Her gün iki litre su içerim.
+克 (kè) | gram | isim | 我要五百克牛肉。(Wǒ yào wǔbǎi kè niúròu.) | Beş yüz gram sığır eti istiyorum.
+一半 (yíbàn) | yarısı | isim | 我只吃了一半。(Wǒ zhǐ chī le yíbàn.) | Sadece yarısını yedim.
+双 (shuāng) | çift | isim | 我买了一双新鞋。(Wǒ mǎi le yì shuāng xīn xié.) | Bir çift yeni ayakkabı aldım.
+套 (tào) | takım, set (sayma sözcüğü) | isim | 我想买一套茶具。(Wǒ xiǎng mǎi yí tào chájù.) | Bir çay takımı almak istiyorum.
+盒 (hé) | kutu | isim | 我买了一盒月饼。(Wǒ mǎi le yì hé yuèbing.) | Bir kutu ay çöreği aldım.
+袋 (dài) | torba, poşet | isim | 请给我一个袋子。(Qǐng gěi wǒ yí ge dàizi.) | Bana bir poşet verir misiniz?
+## Ürünleri değerlendirmek
+实惠 (shíhuì) | ekonomik, uygun fiyatlı | sıfat | 这家饭馆又好吃又实惠。(Zhè jiā fànguǎn yòu hǎochī yòu shíhuì.) | Bu lokanta hem lezzetli hem uygun fiyatlı.
+划算 (huásuàn) | kârlı, değer | sıfat | 买一送一，很划算。(Mǎi yī sòng yī, hěn huásuàn.) | Bir alana bir bedava, çok kârlı.
+高档 (gāodàng) | lüks, üst sınıf | sıfat | 这是一家高档餐厅。(Zhè shì yì jiā gāodàng cāntīng.) | Burası lüks bir restoran.
+合理 (hélǐ) | makul | sıfat | 这个价格很合理。(Zhège jiàgé hěn hélǐ.) | Bu fiyat çok makul.
+正品 (zhèngpǐn) | orijinal ürün | isim | 这家店卖的都是正品。(Zhè jiā diàn mài de dōu shì zhèngpǐn.) | Bu dükkânın sattıklarının hepsi orijinal.
+假 (jiǎ) | sahte | sıfat | 这个包是假的。(Zhège bāo shì jiǎ de.) | Bu çanta sahte.
+包装 (bāozhuāng) | ambalaj; paketlemek | isim | 这个礼物的包装很漂亮。(Zhège lǐwù de bāozhuāng hěn piàoliang.) | Bu hediyenin ambalajı çok güzel.
+品牌 (pǐnpái) | marka | isim | 这个品牌的衣服很贵。(Zhège pǐnpái de yīfu hěn guì.) | Bu markanın kıyafetleri çok pahalı.
+样子 (yàngzi) | görünüş, şekil | isim | 我喜欢这个手机的样子。(Wǒ xǐhuan zhège shǒujī de yàngzi.) | Bu telefonun görünüşünü seviyorum.
+耐用 (nàiyòng) | dayanıklı, uzun ömürlü | sıfat | 这种鞋很耐用。(Zhè zhǒng xié hěn nàiyòng.) | Bu tür ayakkabılar çok dayanıklı.
