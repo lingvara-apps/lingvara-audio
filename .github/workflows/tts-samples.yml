@@ -1,0 +1,47 @@
+name: tts-samples
+on:
+  workflow_dispatch:
+    inputs:
+      langs:
+        description: "JSON list of courses"
+        default: '["es","fr","it","pt","ja","zh","de","tr","ar","ko"]'
+permissions:
+  contents: write
+jobs:
+  sample:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        c: ${{ fromJSON(inputs.langs) }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "tts\n.github", fetch-depth: 1}
+      - name: Course text
+        run: |
+          git fetch -q --depth=1 origin tr-gemini && git archive FETCH_HEAD course_${{ matrix.c }} 2>/dev/null | tar -x || echo "no course_${{ matrix.c }} yet"
+          ls course_${{ matrix.c }} 2>/dev/null || true
+      - name: Install
+        run: |
+          E="kokoro piper supertonic whisper"
+          case "${{ matrix.c }}" in ja) E="$E misaki-ja";; zh) E="$E misaki-zh";; ko) E="$E melo";; esac
+          bash tts/install.sh $E 2>&1 | tail -30
+      - name: Generate
+        run: python3 tts/samples.py ${{ matrix.c }} course_${{ matrix.c }} 2>&1 | grep -v -i warning | tail -150
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: "samples-${{ matrix.c }}", path: "samples/${{ matrix.c }}"}
+  publish:
+    needs: sample
+    if: always()
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/download-artifact@v4
+        with: {path: dl}
+      - name: Release audio-samples
+        env: {GH_TOKEN: "${{ github.token }}", R: "${{ github.repository }}"}
+        run: |
+          cd dl && for d in samples-*; do c=${d#samples-}; (cd $d && zip -qr ../../samples-$c.zip .); done; cd ..
+          gh release view audio-samples -R $R >/dev/null 2>&1 || gh release create audio-samples -R $R --title "TTS samples" --notes "Candidate voices per course (see report.txt in each zip)."
+          gh release upload audio-samples samples-*.zip -R $R --clobber

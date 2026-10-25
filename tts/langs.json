@@ -1,0 +1,23 @@
+{
+  "_doc": "Per-course TTS settings. engine: kokoro | piper | supertonic | melo. voices.f = general (female) voice, voices.m = male dialog voice. male_names: dialog speaker names (from '# DIALOG' headers) that get the male voice. reading_parens: strip '(romanization)' before hashing/speaking (non-Latin scripts).",
+  "es": {"engine": "kokoro", "lang": "es", "voices": {"f": "ef_dora", "m": "em_alex"},
+         "male_names": ["Diego", "Carlos", "Mateo", "Alejandro", "Javier", "Pablo", "Luis", "Miguel", "Juan", "Pedro", "Antonio", "Manuel", "Jorge", "Andrés", "Sergio", "Daniel", "David", "Hugo", "Lucas", "Omar", "Emre", "Ali", "Lukas", "Kenji", "Tomás", "Rafael", "Fernando", "Álvaro", "Raúl", "Gonzalo", "Marcos", "Ignacio", "Santiago", "Nicolás", "Pepe", "Paco"]},
+  "fr": {"engine": "kokoro", "lang": "fr-fr", "voices": {"f": "ff_siwis", "m": "ff_siwis"},
+         "male_names": ["Pierre", "Louis", "Lucas", "Hugo", "Thomas", "Nicolas", "Antoine", "Julien", "Paul", "Jean", "Marc", "Léo", "Mathis", "Gabriel", "Omar", "Emre", "Ali", "Diego", "Lukas", "Kenji", "Karim", "Olivier", "François", "Étienne", "Rémi", "Mathieu", "Arthur", "Victor"]},
+  "it": {"engine": "kokoro", "lang": "it", "voices": {"f": "if_sara", "m": "im_nicola"},
+         "male_names": ["Marco", "Luca", "Giovanni", "Matteo", "Alessandro", "Lorenzo", "Andrea", "Francesco", "Paolo", "Giuseppe", "Davide", "Simone", "Roberto", "Pietro", "Omar", "Emre", "Ali", "Diego", "Lukas", "Kenji", "Riccardo", "Stefano", "Antonio", "Federico", "Leonardo", "Tommaso"]},
+  "pt": {"engine": "kokoro", "lang": "pt-br", "voices": {"f": "pf_dora", "m": "pm_alex"},
+         "male_names": ["João", "Pedro", "Lucas", "Gabriel", "Rafael", "Thiago", "Tiago", "Bruno", "Felipe", "Mateus", "Gustavo", "Carlos", "Paulo", "André", "Rodrigo", "Diego", "Omar", "Emre", "Ali", "Lukas", "Kenji", "Marcelo", "Ricardo", "Fernando", "Eduardo", "Leonardo", "Miguel", "Caio"]},
+  "ja": {"engine": "kokoro", "lang": "ja", "g2p": "misaki-ja", "reading_parens": true, "voices": {"f": "jf_alpha", "m": "jm_kumo"},
+         "male_names": ["Kenji", "Hiroshi", "Takeshi", "Yuto", "Haruto", "Sota", "Ren", "Daiki", "Kaito", "Shota", "Takumi", "Ryo", "Taro", "Ichiro", "Satoshi", "Tanaka", "Omar", "Emre", "Ali", "Diego", "Lukas", "健二", "健司", "拓也", "太郎", "翔太", "大輝", "ケンジ", "タロウ"]},
+  "zh": {"engine": "kokoro", "lang": "cmn", "g2p": "misaki-zh", "reading_parens": true, "voices": {"f": "zf_xiaobei", "m": "zm_yunjian"},
+         "male_names": ["Wang Wei", "Li Ming", "Zhang Wei", "Liu Yang", "Chen Hao", "Wei", "Ming", "Hao", "Jun", "Lei", "Tao", "Jie", "Long", "Omar", "Emre", "Ali", "Diego", "Lukas", "Kenji", "王伟", "李明", "张伟", "刘洋", "陈浩", "小明", "大卫", "李雷", "王明", "张华"]},
+  "de": {"engine": "piper", "voices": {"f": "de_DE-kerstin-low", "m": "de_DE-thorsten-high"},
+         "male_names": ["Lukas", "Jonas", "Felix", "Maximilian", "Max", "Paul", "Leon", "Finn", "Tim", "Jan", "Thomas", "Michael", "Stefan", "Andreas", "Markus", "Peter", "Klaus", "Hans", "Tobias", "Florian", "Emre", "Omar", "Ali", "Diego", "Kenji", "Herr Müller", "Herr Schmidt", "Herr Weber", "Niklas", "Moritz", "Sebastian", "Matthias"]},
+  "tr": {"engine": "piper", "voices": {"f": "tr_TR-dfki-medium", "m": "tr_TR-fahrettin-medium"},
+         "male_names": ["Emre", "Mehmet", "Ahmet", "Ali", "Mustafa", "Can", "Burak", "Murat", "Kerem", "Mert", "Oğuz", "Kemal", "Hasan", "Hüseyin", "Yusuf", "Cem", "Deniz Bey", "Ahmet Bey", "Mehmet Bey", "Tom", "John", "Omar", "Diego", "Lukas", "Kenji"]},
+  "ar": {"engine": "piper", "reading_parens": true, "voices": {"f": "ar_JO-kareem-medium", "m": "ar_JO-kareem-medium"},
+         "male_names": ["Omar", "Ahmad", "Ahmed", "Mohammed", "Muhammad", "Ali", "Khalid", "Youssef", "Yusuf", "Hassan", "Karim", "Tariq", "Samir", "Ibrahim", "Faisal", "Zaid", "Hamza", "Emre", "Diego", "Lukas", "Kenji", "عمر", "أحمد", "محمد", "علي", "خالد", "يوسف", "حسن", "كريم", "طارق", "سمير", "إبراهيم", "زيد"]},
+  "ko": {"engine": "supertonic", "lang": "ko", "reading_parens": true, "voices": {"f": "F1", "m": "M1"},
+         "male_names": ["Minho", "Min-ho", "Jihoon", "Ji-hoon", "Junho", "Jun-ho", "Hyun", "Seojun", "Dohyun", "Taeyang", "Jinwoo", "Sungmin", "Kim", "Park", "Omar", "Emre", "Ali", "Diego", "Lukas", "Kenji", "민호", "지훈", "준호", "현우", "서준", "도현", "진우", "성민", "민준", "태양"]}
+}
