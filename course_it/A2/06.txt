@@ -1,0 +1,111 @@
+# UNIT: Ev hayatı | Kiralama, tamir, mobilya, komşular
+## Kiralık ev arama
+l'affitto (e) | kira | isim (e) | L'affitto costa seicento euro al mese. | Kira ayda altı yüz avro.
+affittare | kiralamak (ev); kiraya vermek | fiil | Affittiamo una casa al mare. | Deniz kenarında bir ev kiralıyoruz.
+l'inquilino (e) | kiracı | isim (e) | Il nuovo inquilino è molto gentile. | Yeni kiracı çok kibar.
+il padrone di casa | ev sahibi | isim (e) | Il padrone di casa abita al piano di sopra. | Ev sahibi üst katta oturuyor.
+l'agenzia immobiliare (d) | emlak ofisi | isim (d) | Cerco casa tramite un'agenzia immobiliare. | Bir emlak ofisi aracılığıyla ev arıyorum.
+la caparra | depozito, kapora | isim (d) | La caparra è di due mensilità. | Depozito iki aylık kira.
+arredato | eşyalı, mobilyalı | sıfat | Cerco un appartamento arredato. | Eşyalı bir daire arıyorum.
+il monolocale | stüdyo daire (1+0) | isim (e) | Lo studente vive in un monolocale. | Öğrenci stüdyo bir dairede yaşıyor.
+il bilocale | 1+1 daire | isim (e) | Il bilocale ha un balcone. | 1+1 dairenin bir balkonu var.
+il metro quadro | metrekare | isim (e) | La casa è di settanta metri quadri. | Ev yetmiş metrekare.
+## Evin diğer bölümleri
+la cantina | bodrum, mahzen | isim (d) | Il vino è in cantina. | Şarap mahzende.
+la soffitta | tavan arası | isim (d) | Le vecchie foto sono in soffitta. | Eski fotoğraflar tavan arasında.
+il garage | garaj | isim (e) | La macchina è in garage. | Araba garajda.
+la terrazza | teras | isim (d) | Ceniamo in terrazza d'estate. | Yazın terasta akşam yemeği yeriz.
+il ripostiglio | kiler, sandık odası | isim (e) | L'aspirapolvere è nel ripostiglio. | Elektrikli süpürge kilerde.
+il cortile | avlu | isim (e) | I bambini giocano nel cortile. | Çocuklar avluda oynuyor.
+lo studio | çalışma odası; muayenehane | isim (e) | Lavoro nello studio. | Çalışma odasında çalışıyorum.
+la lavanderia | çamaşır odası; çamaşırhane | isim (d) | La lavatrice è in lavanderia. | Çamaşır makinesi çamaşır odasında.
+il camino | şömine; baca | isim (e) | D'inverno accendiamo il camino. | Kışın şömineyi yakarız.
+la persiana | panjur | isim (d) | Chiudi le persiane, c'è il sole. | Panjurları kapat, güneş var.
+## Mobilya ve dekorasyon
+il mobile | mobilya parçası | isim (e) | Questo mobile è antico. | Bu mobilya antika.
+la libreria | kitaplık; kitapçı | isim (d) | La libreria è piena di libri. | Kitaplık kitap dolu.
+la mensola | duvar rafı | isim (d) | Metto i vasi sulla mensola. | Vazoları rafa koyuyorum.
+il quadro | tablo, resim | isim (e) | Appendo un quadro in salotto. | Salona bir tablo asıyorum.
+la cornice | çerçeve | isim (d) | La foto è in una cornice d'argento. | Fotoğraf gümüş bir çerçevede.
+il vaso | vazo; saksı | isim (e) | Metto i fiori nel vaso. | Çiçekleri vazoya koyuyorum.
+il lampadario | avize | isim (e) | Il lampadario è di vetro di Murano. | Avize Murano camından.
+la tovaglia | masa örtüsü | isim (d) | Metti la tovaglia bianca. | Beyaz masa örtüsünü ser.
+il materasso | yatak (şilte) | isim (e) | Il materasso è troppo duro. | Şilte çok sert.
+arredare | döşemek (evi) | fiil | Arrediamo la casa nuova. | Yeni evi döşüyoruz.
+## Mutfak ve banyo donanımı
+il congelatore | dondurucu | isim (e) | Il gelato è nel congelatore. | Dondurma dondurucuda.
+il bollitore | su ısıtıcısı, kettle | isim (e) | Accendo il bollitore per il tè. | Çay için su ısıtıcısını açıyorum.
+il tostapane | ekmek kızartma makinesi | isim (e) | Il tostapane è rotto. | Ekmek kızartma makinesi bozuk.
+il frullatore | blender, mikser | isim (e) | Faccio un frullato con il frullatore. | Blenderla bir meyve kokteyli yapıyorum.
+la cappa | davlumbaz | isim (d) | Accendi la cappa quando cucini. | Yemek yaparken davlumbazı aç.
+il water | klozet | isim (e) | Il water non scarica bene. | Klozetin sifonu iyi çekmiyor.
+il bidè | bide | isim (e) | In Italia ogni bagno ha il bidè. | İtalya'da her banyoda bide vardır.
+la piastrella | fayans, karo | isim (d) | Le piastrelle della cucina sono blu. | Mutfağın fayansları mavi.
+lo scarico | gider | isim (e) | Lo scarico della doccia è intasato. | Duşun gideri tıkalı.
+lo scaldabagno | şofben, termosifon (su ısıtıcı) | isim (e) | Lo scaldabagno non scalda l'acqua. | Şofben suyu ısıtmıyor.
+## Elektrik ve ısınma
+il gas | gaz, doğalgaz | isim (e) | La cucina va a gas. | Ocak doğalgazla çalışıyor.
+la corrente | elektrik akımı; akıntı | isim (d) | Manca la corrente in tutto il palazzo. | Bütün binada elektrik yok.
+il contatore | sayaç | isim (e) | Il tecnico legge il contatore. | Teknisyen sayacı okuyor.
+la presa | priz | isim (d) | Dov'è la presa per il telefono? | Telefon için priz nerede?
+l'interruttore (e) | elektrik düğmesi, şalter | isim (e) | L'interruttore è vicino alla porta. | Düğme kapının yanında.
+la lampadina | ampul | isim (d) | Devo cambiare la lampadina. | Ampulü değiştirmem lazım.
+l'aria condizionata (d) | klima | isim (d) | Accendi l'aria condizionata, fa caldo! | Klimayı aç, hava sıcak!
+il termosifone | kalorifer peteği | isim (e) | Metto i guanti sul termosifone. | Eldivenleri peteğin üstüne koyuyorum.
+accendere (acceso) | yakmak, açmak (cihaz) | fiil · düzensiz | Accendi la luce, per favore. | Işığı yak, lütfen.
+consumare | tüketmek | fiil | Il frigorifero consuma poca energia. | Buzdolabı az enerji tüketiyor.
+## Tamir ve arızalar
+rotto | bozuk, kırık | sıfat | La lavatrice è rotta di nuovo. | Çamaşır makinesi yine bozuk.
+il guasto | arıza | isim (e) | C'è un guasto all'ascensore. | Asansörde arıza var.
+riparare | tamir etmek | fiil | Chi ripara la caldaia? | Kombiyi kim tamir ediyor?
+aggiustare | onarmak, düzeltmek | fiil | Papà aggiusta la sedia. | Babam sandalyeyi onarıyor.
+la perdita | sızıntı; kayıp | isim (d) | C'è una perdita d'acqua in bagno. | Banyoda su sızıntısı var.
+intasato | tıkalı | sıfat | Il lavandino è intasato. | Lavabo tıkalı.
+bloccato | sıkışmış, kilitlenmiş | sıfat | La porta è bloccata. | Kapı sıkıştı.
+funzionare | çalışmak (makine) | fiil | Il citofono non funziona. | Diyafon çalışmıyor.
+l'idraulico (e) | tesisatçı | isim (e) | Chiamiamo l'idraulico. | Tesisatçıyı çağıralım.
+il tecnico (i tecnici) | teknisyen | isim (e) | Il tecnico arriva domani mattina. | Teknisyen yarın sabah geliyor.
+## Aletler
+il martello | çekiç | isim (e) | Mi passi il martello? | Çekici bana uzatır mısın?
+il chiodo | çivi | isim (e) | Pianto un chiodo nel muro. | Duvara çivi çakıyorum.
+la vite | vida; asma (üzüm) | isim (d) | Manca una vite alla sedia. | Sandalyenin bir vidası eksik.
+il cacciavite | tornavida | isim (e) | Uso il cacciavite piccolo. | Küçük tornavidayı kullanıyorum.
+il trapano | matkap | isim (e) | Il trapano fa molto rumore. | Matkap çok gürültü yapıyor.
+la colla | yapıştırıcı | isim (d) | Riparo la tazza con la colla. | Fincanı yapıştırıcıyla onarıyorum.
+il nastro adesivo | bant, seloteyp | isim (e) | Chiudo la scatola con il nastro adesivo. | Kutuyu bantla kapatıyorum.
+le forbici | makas | isim (d) | Dove sono le forbici? | Makas nerede?
+la vernice | boya (duvar, ahşap) | isim (d) | Attenzione, vernice fresca! | Dikkat, yaş boya!
+dipingere (dipinto) | boyamak; resim yapmak | fiil · düzensiz | Dipingiamo la camera di giallo. | Odayı sarıya boyuyoruz.
+## Apartman ve ortak alanlar
+il condominio | apartman, site | isim (e) | Abito in un condominio di sei piani. | Altı katlı bir apartmanda oturuyorum.
+il palazzo | bina; saray | isim (e) | Il palazzo è vicino alla stazione. | Bina istasyona yakın.
+il portone | bina giriş kapısı | isim (e) | Il portone si chiude alle dieci. | Bina kapısı onda kapanıyor.
+il citofono | diyafon | isim (e) | Suona al citofono! | Diyafona bas!
+il pianerottolo | merdiven sahanlığı | isim (e) | Ci incontriamo sul pianerottolo. | Sahanlıkta karşılaşıyoruz.
+l'amministratore (e) | apartman yöneticisi | isim (e) | Scrivo all'amministratore del condominio. | Apartman yöneticisine yazıyorum.
+la cassetta delle lettere | posta kutusu | isim (d) | Controllo la cassetta delle lettere. | Posta kutusunu kontrol ediyorum.
+il campanello | kapı zili | isim (e) | Qualcuno suona il campanello. | Biri zili çalıyor.
+il portiere | kapıcı | isim (e) | Il portiere ritira i pacchi. | Kapıcı paketleri teslim alıyor.
+le spese condominiali | aidat | isim (d) | Le spese condominiali sono alte. | Aidat yüksek.
+## Komşuluk ilişkileri
+il vicino di casa | komşu | isim (e) | Il mio vicino di casa è pugliese. | Komşum Pugliali.
+il rumore | gürültü, ses | isim (e) | Di notte c'è troppo rumore. | Geceleri çok fazla gürültü var.
+rumoroso | gürültülü | sıfat | La strada è molto rumorosa. | Cadde çok gürültülü.
+disturbare | rahatsız etmek | fiil | Scusi se la disturbo. | Rahatsız ediyorsam kusura bakmayın.
+salutare | selamlamak | fiil | Saluto sempre i vicini. | Komşuları hep selamlarım.
+bussare | kapıyı çalmak | fiil | Qualcuno bussa alla porta. | Biri kapıyı çalıyor.
+il silenzio | sessizlik | isim (e) | Dopo le dieci serve silenzio. | Saat ondan sonra sessizlik gerekiyor.
+litigare | kavga etmek, tartışmak | fiil | I vicini litigano spesso. | Komşular sık sık kavga ediyor.
+fare un favore | iyilik yapmak | ifade | Mi fai un favore? | Bana bir iyilik yapar mısın?
+la gentilezza | nezaket, incelik | isim (d) | Grazie per la gentilezza. | Nezaketiniz için teşekkürler.
+## Taşınma
+traslocare | taşınmak (ev) | fiil | Trasloco a fine mese. | Ay sonunda taşınıyorum.
+il trasloco | taşınma, nakliye | isim (e) | Il trasloco è sabato. | Taşınma cumartesi.
+lo scatolone | büyük karton kutu, koli | isim (e) | Gli scatoloni sono in corridoio. | Koliler koridorda.
+imballare | paketlemek | fiil | Imballo i piatti con attenzione. | Tabakları dikkatle paketliyorum.
+il furgone | kamyonet | isim (e) | Noleggiamo un furgone per il trasloco. | Taşınma için bir kamyonet kiralıyoruz.
+trasferirsi | yerleşmek (başka şehre), taşınmak | fiil · dönüşlü | Mi trasferisco a Bologna. | Bologna'ya taşınıyorum.
+sistemarsi | yerleşmek, düzene girmek | fiil · dönüşlü | Ci siamo sistemati bene. | İyi yerleştik.
+lasciare | bırakmak; ayrılmak | fiil | Lascio la vecchia casa con tristezza. | Eski evden hüzünle ayrılıyorum.
+svuotare | boşaltmak | fiil | Svuoto l'armadio. | Dolabı boşaltıyorum.
+riempire | doldurmak | fiil · düzensiz | Riempio gli scatoloni di libri. | Kolileri kitapla dolduruyorum.
