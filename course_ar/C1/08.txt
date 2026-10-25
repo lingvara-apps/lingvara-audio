@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve tasarım
+مَسْقَط أُفُقِيّ (masqaṭ ʾufuqiyy) | kat planı, yatay plan | isim (e) | يوضح المسقط الأفقي توزيع الغرف في الطابق الأرضي. | Kat planı zemin kattaki odaların dağılımını gösteriyor.
+مَقْطَع رَأْسِيّ (maqṭaʿ raʾsiyy) | düşey kesit | isim (e) | يُظهر المقطع الرأسي ارتفاع الطوابق وسماكة البلاطات. | Düşey kesit kat yüksekliklerini ve döşeme kalınlıklarını gösteriyor.
+مِقْيَاس رَسْم (miqyās rasm) | çizim ölçeği | isim (e) | رُسمت الواجهة بمقياس رسم واحد إلى مئة. | Cephe yüzde bir ölçekle çizildi.
+مُوَاصَفَات فَنِّيَّة (muwāṣafāt fanniyya) | teknik şartname | isim (çoğul) | يجب أن تطابق المواد المواصفات الفنية المذكورة في العقد. | Malzemeler sözleşmede belirtilen teknik şartnameye uymalıdır.
+جَدْوَل الْكَمِّيَّات (jadwal al-kammiyyāt) | metraj cetveli, keşif özeti | isim (e) | راجع المهندس جدول الكميات قبل تقديم العرض. | Mühendis teklifi vermeden önce metraj cetvelini gözden geçirdi.
+مَكْتَب اسْتِشَارِيّ (maktab istishāriyy) | müşavir mühendislik bürosu | isim (e) | يشرف مكتب استشاري على تنفيذ المشروع نيابةً عن المالك. | Bir müşavirlik bürosu proje uygulamasını mal sahibi adına denetliyor.
+صَاحِب الْعَمَل (ṣāḥib al-ʿamal) | işveren (inşaatta) | isim (e) | طلب صاحب العمل تقريرًا أسبوعيًا عن تقدم الأعمال. | İşveren işlerin ilerleyişi hakkında haftalık rapor istedi.
+مُخَطَّط تَنْفِيذِيّ (mukhaṭṭaṭ tanfīdhiyy) | uygulama projesi, imalat çizimi | isim (e) | لا يبدأ الصب قبل اعتماد المخطط التنفيذي. | Uygulama projesi onaylanmadan beton dökümüne başlanmaz.
+مُجَسَّم (mujassam) | maket; üç boyutlu model | isim (e) | عرض المهندسون مجسمًا للمطار الجديد أمام اللجنة. | Mühendisler yeni havalimanının maketini komisyona sundu.
+دِرَاسَة التُّرْبَة (dirāsat at-turba) | zemin etüdü | isim (d) | أظهرت دراسة التربة وجود مياه جوفية قريبة من السطح. | Zemin etüdü yüzeye yakın yeraltı suyu bulunduğunu gösterdi.
+## Taşıyıcı sistem
+خَرَسَانَة مُسَلَّحَة (kharasāna musallaḥa) | betonarme | isim (d) | بُني الهيكل كاملًا من الخرسانة المسلحة. | Taşıyıcı sistemin tamamı betonarmeden yapıldı.
+حَدِيد التَّسْلِيح (ḥadīd at-taslīḥ) | inşaat demiri, donatı | isim (e) | ارتفع سعر حديد التسليح بنسبة كبيرة هذا العام. | İnşaat demirinin fiyatı bu yıl büyük oranda arttı.
+كَمَرَة (kamara) | kiriş | isim (d) | ظهرت شقوق صغيرة في الكمرة الرئيسية للطابق الثاني. | İkinci katın ana kirişinde küçük çatlaklar belirdi.
+بَلَاطَة (balāṭa) | döşeme (betonarme plak) | isim (d) | يبلغ سمك البلاطة عشرين سنتيمترًا. | Döşemenin kalınlığı yirmi santimetredir.
+أَسَاسَات (ʾasāsāt) | temeller | isim (çoğul) | تحتاج الأساسات إلى عزل جيد ضد الرطوبة. | Temellerin neme karşı iyi bir yalıtıma ihtiyacı var.
+لَبْشَة (labsha) | radye temel | isim (d) | اختار المصمم أساسًا من نوع اللبشة بسبب ضعف التربة. | Tasarımcı zeminin zayıflığı nedeniyle radye temel tipini seçti.
+خَازُوق (khāzūq) | kazık (temel) (çoğ. خَوَازِيق) | isim (e) | دُقّت الخوازيق إلى عمق ثلاثين مترًا. | Kazıklar otuz metre derinliğe çakıldı.
+جِدَار قَصّ (jidār qaṣṣ) | perde duvar (deprem perdesi) | isim (e) | تقاوم جدران القص قوى الزلازل والرياح. | Perde duvarlar deprem ve rüzgâr kuvvetlerine direnir.
+حُمُولَة (ḥumūla) | yük (taşıyıcı sistemde) (çoğ. حُمُولَات) | isim (d) | حُسبت الحمولات الحية والميتة وفق الكود المحلي. | Hareketli ve sabit yükler yerel yönetmeliğe göre hesaplandı.
+هَيْكَل إِنْشَائِيّ (haykal ʾinshāʾiyy) | taşıyıcı sistem, yapısal iskelet | isim (e) | اكتمل الهيكل الإنشائي للبرج قبل الموعد بشهرين. | Kulenin taşıyıcı sistemi planlanandan iki ay önce tamamlandı.
+## Yapı malzemeleri
+رُكَام (rukām) | agrega, mıcır | isim (e) | يؤثر حجم الركام في قوة الخرسانة. | Agreganın boyutu betonun dayanımını etkiler.
+طُوب (ṭūb) | tuğla | isim (e) | بُنيت الجدران الخارجية من الطوب الأحمر. | Dış duvarlar kırmızı tuğladan örüldü.
+بُلُوك (bulūk) | briket, yapı bloğu | isim (e) | يستخدم العمال البلوك الخرساني في الجدران الداخلية. | İşçiler iç duvarlarda beton briket kullanıyor.
+جِبْس (jibs) | alçı | isim (e) | صُنعت الزخارف الداخلية من الجبس الأبيض. | İç süslemeler beyaz alçıdan yapıldı.
+عَزْل مَائِيّ (ʿazl māʾiyy) | su yalıtımı | isim (e) | يجب تنفيذ العزل المائي للسطح قبل فصل الشتاء. | Çatının su yalıtımı kış gelmeden yapılmalıdır.
+شَدَّة خَشَبِيَّة (shadda khashabiyya) | ahşap kalıp | isim (d) | فُكّت الشدة الخشبية بعد أسبوعين من الصب. | Ahşap kalıp, dökümden iki hafta sonra söküldü.
+مِلَاط (milāṭ) | harç | isim (e) | خلط العامل الملاط بالإسمنت والرمل والماء. | İşçi harcı çimento, kum ve suyla karıştırdı.
+زِفْت (zift) | zift, asfalt | isim (e) | غُطّي الطريق بطبقة جديدة من الزفت. | Yol yeni bir asfalt tabakasıyla kaplandı.
+فُولَاذ إِنْشَائِيّ (fūlādh ʾinshāʾiyy) | yapı çeliği | isim (e) | صُمم سقف القاعة من الفولاذ الإنشائي لتغطية مسافة كبيرة. | Salonun çatısı büyük bir açıklığı geçmek için yapı çeliğinden tasarlandı.
+خَرَسَانَة جَاهِزَة (kharasāna jāhiza) | hazır beton | isim (d) | وصلت شاحنات الخرسانة الجاهزة إلى الموقع في الفجر. | Hazır beton kamyonları şafakta şantiyeye ulaştı.
+## Şantiye
+حَفْرِيَّات (ḥafriyyāt) | kazı işleri, hafriyat | isim (çoğul) | توقفت الحفريات بعد العثور على آثار رومانية. | Roma dönemine ait kalıntılar bulununca hafriyat durduruldu.
+صَبّ الْخَرَسَانَة (ṣabb al-kharasāna) | beton dökümü | isim (e) | بدأ صب الخرسانة في الساعة الرابعة صباحًا لتجنب الحر. | Sıcaktan kaçınmak için beton dökümüne sabah dörtte başlandı.
+رَافِعَة بُرْجِيَّة (rāfiʿa burjiyya) | kule vinç | isim (d) | نُصبت رافعة برجية في وسط الموقع. | Şantiyenin ortasına bir kule vinç kuruldu.
+سِقَالَة (siqāla) | iskele (inşaat) (çoğ. سَقَائِل) | isim (d) | يجب تثبيت السقالة جيدًا قبل الصعود عليها. | İskeleye çıkmadan önce iyice sabitlenmesi gerekir.
+مِضَخَّة خَرَسَانَة (miḍakhkhat kharasāna) | beton pompası | isim (d) | تعطلت مضخة الخرسانة في منتصف عملية الصب. | Beton pompası döküm işleminin ortasında arızalandı.
+خَلَّاطَة (khallāṭa) | betoniyer, karıştırıcı | isim (d) | تكفي خلاطة صغيرة لأعمال الترميم البسيطة. | Basit onarım işleri için küçük bir betoniyer yeterlidir.
+مُهَنْدِس مَوْقِع (muhandis mawqiʿ) | şantiye mühendisi | isim (e) | يصل مهندس الموقع قبل العمال كل يوم. | Şantiye mühendisi her gün işçilerden önce gelir.
+مُلَاحِظ (mulāḥiẓ) | ustabaşı, şantiye şefi yardımcısı | isim (e) | وزّع الملاحظ المهام على فرق العمل صباحًا. | Ustabaşı sabahleyin görevleri ekiplere dağıttı.
+مُعَدَّات ثَقِيلَة (muʿaddāt thaqīla) | iş makineleri, ağır ekipman | isim (çoğul) | تحتاج المعدات الثقيلة إلى طريق مؤقت للوصول إلى الموقع. | İş makinelerinin şantiyeye ulaşması için geçici bir yola ihtiyaç var.
+جَرَّافَة (jarrāfa) | buldozer, dozer | isim (d) | سوّت الجرافة الأرض استعدادًا للحفر. | Dozer kazıya hazırlık olarak araziyi düzledi.
+## Tesisat
+تَمْدِيدَات كَهْرَبَائِيَّة (tamdīdāt kahrabāʾiyya) | elektrik tesisatı | isim (çoğul) | تُنفذ التمديدات الكهربائية قبل أعمال اللياسة. | Elektrik tesisatı sıva işlerinden önce yapılır.
+تَكْيِيف مَرْكَزِيّ (takyīf markaziyy) | merkezî klima | isim (e) | يوفر التكييف المركزي الهواء البارد لكل الطوابق. | Merkezî klima bütün katlara soğuk hava sağlıyor.
+تَهْوِيَة (tahwiya) | havalandırma | isim (d) | تعاني الشقق السفلية من سوء التهوية. | Alt kattaki daireler kötü havalandırmadan muzdarip.
+شَبَكَة مُكَافَحَة الْحَرِيق (shabakat mukāfaḥat al-ḥarīq) | yangın söndürme tesisatı | isim (d) | فحص الدفاع المدني شبكة مكافحة الحريق قبل الافتتاح. | Sivil savunma açılıştan önce yangın söndürme tesisatını denetledi.
+مَوَاسِير (mawāsīr) | borular | isim (çoğul) | استُبدلت المواسير القديمة بأخرى بلاستيكية. | Eski borular plastik olanlarla değiştirildi.
+لَوْحَة تَوْزِيع (lawḥat tawzīʿ) | elektrik dağıtım panosu | isim (d) | ركّب الكهربائي لوحة توزيع جديدة في المدخل. | Elektrikçi girişe yeni bir dağıtım panosu taktı.
+سَخَّان (sakhkhān) | şofben, su ısıtıcısı | isim (e) | يعمل السخان بالطاقة الشمسية في الصيف. | Su ısıtıcısı yazın güneş enerjisiyle çalışıyor.
+خَزَّان مِيَاه (khazzān miyāh) | su deposu | isim (e) | وُضع خزان المياه على سطح العمارة. | Su deposu apartmanın çatısına yerleştirildi.
+تَأْرِيض (taʾrīḍ) | topraklama | isim (e) | تأكد الفني من سلامة التأريض قبل تشغيل الأجهزة. | Teknisyen cihazları çalıştırmadan önce topraklamanın sağlam olduğundan emin oldu.
+صِمَام (ṣimām) | vana, valf (çoğ. صِمَامَات) | isim (e) | أغلق السباك الصمام الرئيسي قبل إصلاح التسرب. | Tesisatçı sızıntıyı onarmadan önce ana vanayı kapattı.
+## İnce işler
+لِيَاسَة (liyāsa) | sıva | isim (d) | جفّت اللياسة بعد ثلاثة أيام من الطقس الحار. | Sıcak havada sıva üç günde kurudu.
+تَبْلِيط (tablīṭ) | fayans/seramik döşeme | isim (e) | انتهى العمال من تبليط المطبخ والحمام. | İşçiler mutfak ve banyonun fayans döşemesini bitirdi.
+سَقْف مُعَلَّق (saqf muʿallaq) | asma tavan | isim (e) | يخفي السقف المعلق مجاري التكييف. | Asma tavan klima kanallarını gizliyor.
+نِجَارَة (nijāra) | doğrama işleri, marangozluk | isim (d) | تأخرت أعمال النجارة بسبب نقص الخشب. | Doğrama işleri kereste eksikliği yüzünden gecikti.
+زُجَاج مُزْدَوَج (zujāj muzdawaj) | çift cam | isim (e) | يقلل الزجاج المزدوج الضوضاء واستهلاك الطاقة. | Çift cam gürültüyü ve enerji tüketimini azaltır.
+دَرَابْزِين (darābzīn) | korkuluk, tırabzan | isim (e) | يجب أن يكون الدرابزين بارتفاع لا يقل عن متر. | Korkuluğun yüksekliği bir metreden az olmamalıdır.
+رُخَام (rukhām) | mermer | isim (e) | كُسيت أرضية البهو بالرخام الأبيض. | Lobinin zemini beyaz mermerle kaplandı.
+مَعْجُون (maʿjūn) | macun | isim (e) | سدّ الدهان الشقوق بالمعجون قبل الطلاء. | Boyacı boyamadan önce çatlakları macunla kapattı.
+عَزْل صَوْتِيّ (ʿazl ṣawtiyy) | ses yalıtımı | isim (e) | يحتاج الاستوديو إلى عزل صوتي ممتاز. | Stüdyonun mükemmel bir ses yalıtımına ihtiyacı var.
+تَكْسِيَة (taksiya) | kaplama (cephe, duvar) | isim (d) | اختار المهندس تكسية حجرية للواجهة الأمامية. | Mühendis ön cephe için taş kaplama seçti.
+## Arap mimarisinin öğeleri
+مَشْرَبِيَّة (mashrabiyya) | meşrebiye, ahşap kafesli cumba | isim (d) | تسمح المشربية بدخول الهواء وتحفظ خصوصية البيت. | Meşrebiye havanın girmesine izin verir ve evin mahremiyetini korur.
+إِيوَان (ʾīwān) | eyvan | isim (e) | يجلس أفراد الأسرة في الإيوان المطل على الفناء. | Aile fertleri avluya bakan eyvanda oturur.
+قَوْس (qaws) | kemer; yay (çoğ. أَقْوَاس) | isim (e) | يتميز الجامع بأقواس على شكل حدوة الحصان. | Cami at nalı biçimli kemerleriyle dikkat çeker.
+مُقَرْنَصَات (muqarnaṣāt) | mukarnaslar | isim (çoğul) | تزين المقرنصات قبة القاعة في قصر الحمراء. | Elhamra Sarayı'ndaki salonun kubbesini mukarnaslar süslüyor.
+رِوَاق (riwāq) | revak, sütunlu galeri (çoğ. أَرْوِقَة) | isim (e) | يحيط رواق طويل بصحن المسجد. | Caminin avlusunu uzun bir revak çevreliyor.
+مَلْقَف (malqaf) | rüzgâr bacası (doğal havalandırma kulesi) | isim (e) | يُدخل الملقف الهواء البارد إلى البيوت القديمة في الخليج. | Rüzgâr bacası Körfez'deki eski evlere serin hava sokar.
+أَرَابِيسْك (ʾarābisk) | arabesk süsleme | isim (e) | نُقشت على الباب الخشبي زخارف أرابيسك دقيقة. | Ahşap kapıya ince arabesk motifler oyuldu.
+مِحْرَاب (miḥrāb) | mihrap (çoğ. مَحَارِيب) | isim (e) | زُيّن المحراب بالفسيفساء الذهبية. | Mihrap altın mozaiklerle süslendi.
+قَنْطَرَة (qanṭara) | kemerli köprü, su kemeri (çoğ. قَنَاطِر) | isim (d) | ما زالت القنطرة الرومانية قائمة فوق النهر. | Roma dönemi kemerli köprü nehrin üzerinde hâlâ ayakta.
+عِمَارَة طِينِيَّة (ʿimāra ṭīniyya) | kerpiç mimarisi | isim (d) | تشتهر مدن جنوب الجزيرة العربية بالعمارة الطينية الشاهقة. | Arap Yarımadası'nın güneyindeki şehirler yüksek kerpiç mimarisiyle ünlüdür.
+## Şehircilik ve koruma
+اِسْتِعْمَالَات الْأَرَاضِي (istiʿmālāt al-ʾarāḍī) | arazi kullanımı | isim (çoğul) | يحدد المخطط استعمالات الأراضي في كل حي. | Plan her mahalledeki arazi kullanımını belirler.
+مِنْطَقَة خَضْرَاء (minṭaqa khaḍrāʾ) | yeşil alan | isim (d) | طالب السكان بتحويل الأرض الفارغة إلى منطقة خضراء. | Sakinler boş arazinin yeşil alana dönüştürülmesini istedi.
+تَرْمِيم (tarmīm) | restorasyon | isim (e) | استغرق ترميم القلعة القديمة خمس سنوات. | Eski kalenin restorasyonu beş yıl sürdü.
+مُخَطَّط هَيْكَلِيّ (mukhaṭṭaṭ haykaliyy) | nazım imar planı | isim (e) | أقرّت البلدية المخطط الهيكلي الجديد للمدينة. | Belediye şehrin yeni nazım imar planını onayladı.
+إِفْرَاز (ʾifrāz) | ifraz, parselasyon | isim (e) | تقدم المالك بطلب إفراز الأرض إلى ثلاث قطع. | Mal sahibi araziyi üç parsele ayırmak için ifraz başvurusu yaptı.
+اِرْتِدَاد (irtidād) | çekme mesafesi (yapıda); geri dönme | isim (e) | يفرض القانون ارتدادًا لا يقل عن ثلاثة أمتار عن الشارع. | Kanun sokaktan en az üç metre çekme mesafesi şart koşuyor.
+نِسْبَة الْبِنَاء (nisbat al-bināʾ) | yapılaşma oranı | isim (d) | لا تسمح نسبة البناء في هذا الحي بأكثر من أربعة طوابق. | Bu mahalledeki yapılaşma oranı dört kattan fazlasına izin vermiyor.
+تَجْدِيد حَضَرِيّ (tajdīd ḥaḍariyy) | kentsel dönüşüm | isim (e) | يشمل مشروع التجديد الحضري هدم المباني الآيلة للسقوط. | Kentsel dönüşüm projesi yıkılmaya yüz tutmuş binaların yıkımını kapsıyor.
+طِرَاز مِعْمَارِيّ (ṭirāz miʿmāriyy) | mimari üslup | isim (e) | يجمع المبنى بين الطراز المعماري الحديث والتقليدي. | Bina modern ve geleneksel mimari üslubu bir araya getiriyor.
+تُرَاث مِعْمَارِيّ (turāth miʿmāriyy) | mimari miras | isim (e) | تسعى الجمعية إلى حماية التراث المعماري للمدينة القديمة. | Dernek eski şehrin mimari mirasını korumaya çalışıyor.
+## İnşaat fiilleri
+شَيَّدَ (shayyada) | inşa etmek, yükseltmek (geniş z.: يُشَيِّدُ) | fiil | شيّد العثمانيون هذا الجسر في القرن السادس عشر. | Osmanlılar bu köprüyü on altıncı yüzyılda inşa etti.
+عَزَلَ (ʿazala) | yalıtmak; görevden almak; ayırmak (geniş z.: يَعْزِلُ) | fiil | عزلنا السطح بطبقتين لمنع تسرب المياه. | Su sızmasını önlemek için çatıyı iki kat yalıttık.
+سَلَّحَ (sallaḥa) | donatı koymak; silahlandırmak (geniş z.: يُسَلِّحُ) | fiil | سلّح العمال البلاطة بقضبان سميكة. | İşçiler döşemeye kalın demirlerle donatı koydu.
+كَسَا (kasā) | kaplamak; giydirmek (geniş z.: يَكْسُو) | fiil · düzensiz | كسا المقاول الجدران الخارجية بالحجر المحلي. | Yüklenici dış duvarları yerel taşla kapladı.
+أَنْجَزَ (ʾanjaza) | tamamlamak, bitirmek (geniş z.: يُنْجِزُ) | fiil | أنجزت الشركة المرحلة الأولى قبل الموعد المحدد. | Şirket ilk etabı belirlenen tarihten önce tamamladı.
+سَوَّى (sawwā) | düzlemek, tesviye etmek; halletmek (geniş z.: يُسَوِّي) | fiil · düzensiz | سوّى العمال الأرض قبل صب الأساسات. | İşçiler temel dökülmeden önce zemini tesviye etti.
+رَصَفَ (raṣafa) | (yol, kaldırım) döşemek (geniş z.: يَرْصُفُ) | fiil | رصفت البلدية الشارع بالحجارة البازلتية. | Belediye sokağı bazalt taşlarla döşedi.
+أَزَالَ (ʾazāla) | kaldırmak, gidermek, yıkıp kaldırmak (geniş z.: يُزِيلُ) | fiil · düzensiz | أزالت الجرافات المباني المخالفة على الشاطئ. | Dozerler kıyıdaki kaçak yapıları yıkıp kaldırdı.
+دَكَّ (dakka) | sıkıştırmak (toprak); yerle bir etmek (geniş z.: يَدُكُّ) | fiil · düzensiz | دكّ العمال التربة جيدًا قبل وضع البلاط. | İşçiler kaplamayı döşemeden önce toprağı iyice sıkıştırdı.
+طَلَى (ṭalā) | (boya, macun) sürmek, kaplamak (geniş z.: يَطْلِي) | fiil · düzensiz | طلى العامل الحديد بمادة مضادة للصدأ. | İşçi demiri pasa karşı bir malzemeyle kapladı.
+## Denetim ve teslim
+إِشْرَاف (ʾishrāf) | denetim, gözetim (inşaatta kontrollük) | isim (e) | تولّت المهندسة الإشراف على أعمال التشطيب. | Mühendis ince işlerin kontrollüğünü üstlendi.
+اِسْتِلَام ابْتِدَائِيّ (istilām ibtidāʾiyy) | geçici kabul | isim (e) | جرى الاستلام الابتدائي للمبنى بحضور لجنة من الوزارة. | Binanın geçici kabulü bakanlıktan bir komisyonun huzurunda yapıldı.
+اِسْتِلَام نِهَائِيّ (istilām nihāʾiyy) | kesin kabul | isim (e) | يتم الاستلام النهائي بعد انتهاء فترة الضمان. | Kesin kabul garanti süresi dolduktan sonra yapılır.
+مُسْتَخْلَص (mustakhlaṣ) | hakediş | isim (e) | تأخر صرف المستخلص الثالث بسبب الإجراءات الإدارية. | Üçüncü hakedişin ödenmesi idari işlemler yüzünden gecikti.
+أَمْر تَغْيِير (ʾamr taghyīr) | değişiklik emri | isim (e) | أصدر الاستشاري أمر تغيير لتعديل موقع السلالم. | Müşavir merdivenlerin yerini değiştirmek için bir değişiklik emri çıkardı.
+أَعْمَال إِضَافِيَّة (ʾaʿmāl ʾiḍāfiyya) | ek işler, ilave işler | isim (çoğul) | طالب المقاول بتعويض عن الأعمال الإضافية غير المذكورة في العقد. | Yüklenici sözleşmede yer almayan ek işler için ödeme talep etti.
+جَدْوَل زَمَنِيّ (jadwal zamaniyy) | iş programı, zaman çizelgesi | isim (e) | عُدّل الجدول الزمني بعد تأخر وصول المواد. | Malzemelerin geç gelmesi üzerine iş programı revize edildi.
+غَرَامَة تَأْخِير (gharāmat taʾkhīr) | gecikme cezası | isim (d) | فُرضت على الشركة غرامة تأخير عن كل يوم بعد الموعد. | Şirkete süre dolduktan sonraki her gün için gecikme cezası kesildi.
+سَلَامَة مِهْنِيَّة (salāma mihniyya) | iş güvenliği | isim (d) | يُلزم كل عامل بارتداء الخوذة وفق قواعد السلامة المهنية. | İş güvenliği kurallarına göre her işçinin baret takması zorunludur.
+تَشَقُّق (tashaqquq) | çatlama, çatlak oluşumu | isim (e) | يرجع تشقق الجدران إلى هبوط غير متساوٍ في التربة. | Duvarlardaki çatlaklar zemindeki farklı oturmaya bağlanıyor.
