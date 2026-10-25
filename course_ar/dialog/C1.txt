@@ -1,0 +1,45 @@
+# DIALOG: Dubai'de bir konferans | Arapça C1 seviyesi konuşmalar | Emre | Nour
+## Konferans öncesi tanışma
+A | عذرًا، هل هذا المقعد شاغر؟ يبدو أن القاعة امتلأت قبل موعد الجلسة بكثير. | Affedersiniz, bu koltuk boş mu? Görünüşe göre salon oturumdan çok önce dolmuş.
+B | تفضل، إنه شاغر. لا عجب في ذلك، فموضوع الجلسة يشغل بال الجميع هذه الأيام. | Buyurun, boş. Buna şaşmamalı, oturumun konusu bu günlerde herkesin kafasını meşgul ediyor.
+A | صدقتِ. أنا إمره، مهندس مدني من إسطنبول، أعمل في مشاريع البنية التحتية منذ سنوات. | Doğru söylüyorsunuz. Ben Emre, İstanbul'dan bir inşaat mühendisiyim, yıllardır altyapı projelerinde çalışıyorum.
+B | تشرفنا. اسمي نور، باحثة في جامعة عمّان، وأطروحتي تتناول العمارة المستدامة في المناخ الجاف. | Memnun oldum. Adım Nour, Amman'daki bir üniversitede araştırmacıyım; tezim kurak iklimde sürdürülebilir mimariyi ele alıyor.
+A | يا لها من مصادفة! فمشروعنا الحالي في الصحراء يواجه تحديات من هذا القبيل بالضبط. | Ne tesadüf! Şu anki çöl projemiz tam da bu türden zorluklarla karşı karşıya.
+B | حقًّا؟ أي نوع من التحديات تقصد؟ الحرارة أم ندرة المياه أم كلتاهما؟ | Gerçekten mi? Ne tür zorlukları kastediyorsunuz? Sıcaklık mı, su kıtlığı mı, yoksa ikisi birden mi?
+A | كلتاهما، ناهيك عن العواصف الرملية التي تعطل العمل أيامًا متواصلة. | İkisi birden; günlerce işi durduran kum fırtınalarından bahsetmiyorum bile.
+B | هذا بالضبط ما سأتحدث عنه في ورقتي البحثية بعد الاستراحة. | Aradan sonra bildirimde tam olarak bundan söz edeceğim.
+A | إذن سأحرص على حضورها، فلعلي أستخلص منها حلولًا عملية. | O hâlde mutlaka dinleyeceğim; belki ondan uygulanabilir çözümler çıkarırım.
+B | يسرني ذلك، وأرجو أن تشاركنا تجربتك الميدانية في النقاش. | Buna sevinirim; tartışmada saha deneyiminizi de bizimle paylaşmanızı rica ederim.
+## Sunumun ardından
+A | كانت ورقتك ثرية جدًا، لا سيما الجزء المتعلق بالملاقف التقليدية. | Bildiriniz çok zengindi, özellikle geleneksel rüzgâr bacalarıyla ilgili bölüm.
+B | شكرًا لك. لكن أحد المحكّمين أخذ عليّ قلة البيانات الكمية. | Teşekkür ederim. Ama hakemlerden biri nicel verilerin azlığını bana kusur saydı.
+A | ملاحظته في محلها من حيث المبدأ، غير أن الدراسات النوعية لها قيمتها أيضًا. | Gözlemi ilke olarak yerinde, ancak nitel çalışmaların da kendine göre değeri var.
+B | هذا صحيح، ومع ذلك أنوي إجراء قياسات دقيقة في المرحلة القادمة. | Doğru, yine de bir sonraki aşamada hassas ölçümler yapmayı düşünüyorum.
+A | بإمكاننا أن نزودك ببيانات الحرارة من موقعنا، فلدينا أجهزة استشعار في كل طابق. | Şantiyemizden size sıcaklık verilerini sağlayabiliriz; her katta sensörlerimiz var.
+B | هذا عرض كريم! لكن هل تسمح الشركة بنشر هذه البيانات؟ | Bu çok cömert bir teklif! Ama şirket bu verilerin yayımlanmasına izin verir mi?
+A | سأخاطب الإدارة بهذا الشأن، وأظن أنها لن تمانع ما دام اسم الشركة سيُذكر. | Bu konuda yönetime yazacağım; şirketin adı anıldığı sürece itiraz etmeyeceklerini sanıyorum.
+B | بالطبع، سأذكر ذلك في الهوامش وفي قسم الشكر. | Elbette, bunu dipnotlarda ve teşekkür bölümünde belirteceğim.
+A | ممتاز. وعلى فكرة، ما رأيك في زيارة الموقع بنفسك قبل أن تغادري؟ | Harika. Bu arada, ayrılmadan önce şantiyeyi bizzat ziyaret etmeye ne dersiniz?
+B | يا ريت! فليس الخبر كالمعاينة، كما يقول المثل. | Keşke! Atasözünün dediği gibi, duymak görmek gibi değildir.
+## Şantiye ziyareti
+A | أهلًا بك في الموقع. أرجو أن ترتدي الخوذة والسترة العاكسة قبل أن ندخل. | Şantiyeye hoş geldiniz. İçeri girmeden önce bareti ve reflektörlü yeleği giymenizi rica ederim.
+B | بكل سرور. يبدو أن الهيكل الإنشائي قد اكتمل تقريبًا. | Memnuniyetle. Görünüşe göre taşıyıcı sistem neredeyse tamamlanmış.
+A | نعم، انتهينا من صب البلاطة الأخيرة الأسبوع الماضي، والآن نعمل على التمديدات. | Evet, son döşemenin betonunu geçen hafta döktük; şimdi tesisat üzerinde çalışıyoruz.
+B | لاحظت أن الواجهة الجنوبية تكاد تخلو من النوافذ. هل هذا مقصود؟ | Güney cephesinde neredeyse hiç pencere olmadığını fark ettim. Bu bilinçli mi?
+A | تمامًا، فقد استلهمنا الفكرة من البيوت الطينية القديمة لتقليل اكتساب الحرارة. | Kesinlikle; ısı kazancını azaltmak için fikri eski kerpiç evlerden ilham alarak geliştirdik.
+B | وماذا عن العزل الحراري؟ هل اعتمدتم على مواد محلية؟ | Peki ya ısı yalıtımı? Yerel malzemelere mi dayandınız?
+A | جزئيًا، لكن المواصفات الفنية فرضت علينا استيراد بعض المواد، مما رفع التكلفة. | Kısmen; ama teknik şartname bazı malzemeleri ithal etmemizi zorunlu kıldı, bu da maliyeti artırdı.
+B | هذه مفارقة لافتة، فالمواد المحلية قد تكون أنسب للمناخ وأرخص في آن واحد. | Bu dikkat çekici bir paradoks; yerel malzemeler hem iklime daha uygun hem de daha ucuz olabilir.
+A | أوافقك الرأي، وقد تكون دراستك حجة قوية لإقناع صاحب العمل بتعديل المواصفات. | Size katılıyorum; çalışmanız işvereni şartnameyi değiştirmeye ikna etmek için güçlü bir dayanak olabilir.
+B | إذن فلنعمل معًا على ذلك، فيد الله مع الجماعة. | O hâlde bunun için birlikte çalışalım; birlikten kuvvet doğar.
+## Ortak proje teklifi
+A | فكرت مليًّا في حديثنا، وأقترح أن نتقدم معًا بمشروع بحثي مشترك. | Konuşmamızı enine boyuna düşündüm; birlikte ortak bir araştırma projesiyle başvurmayı öneriyorum.
+B | فكرة رائعة! هل لديك جهة تمويل بعينها في ذهنك؟ | Harika bir fikir! Aklında belirli bir finansman kuruluşu var mı?
+A | هناك برنامج دولي يدعم التعاون بين الجامعات والقطاع الخاص، وآخر موعد للتقديم بعد شهرين. | Üniversitelerle özel sektör arasındaki iş birliğini destekleyen uluslararası bir program var; son başvuru tarihi iki ay sonra.
+B | الوقت ضيق، لكنه كافٍ إذا وزّعنا المهام بدقة. | Süre dar ama görevleri titizlikle paylaştırırsak yeterli.
+A | أنتِ تتولين الإطار النظري ومراجعة الأدبيات، وأنا أتولى الجانب التطبيقي والميزانية. | Siz kuramsal çerçeveyi ve literatür taramasını üstlenin, ben uygulama kısmını ve bütçeyi üstleneyim.
+B | موافقة، على أن نراجع المسودة الأولى معًا قبل نهاية الشهر. | Kabul, yeter ki ilk taslağı ay sonundan önce birlikte gözden geçirelim.
+A | اتفقنا. وسأرسل إليك غدًا مذكرة تفاهم مبدئية لتطّلعي عليها. | Anlaştık. Yarın inceleyebilmeniz için size ön bir mutabakat zaptı göndereceğim.
+B | سأستشير المشرف على رسالتي أيضًا، فلا بد من موافقة الجامعة الرسمية. | Tez danışmanıma da danışacağım; üniversitenin resmî onayı şart.
+A | حسنًا، وفي كل الأحوال سنبقى على تواصل عبر البريد الإلكتروني. | Peki, her hâlükârda e-posta üzerinden iletişimde kalırız.
+B | بالتأكيد. كانت مصادفة سعيدة حقًّا، ولعلها بداية تعاون طويل. | Kesinlikle. Gerçekten mutlu bir tesadüftü; belki de uzun bir iş birliğinin başlangıcıdır.
