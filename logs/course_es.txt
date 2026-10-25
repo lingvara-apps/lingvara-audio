@@ -1,41 +1,41 @@
-course_es/C2/09.txt: deneme 2, 2 hata
-course_es/C2/09.txt: deneme 3, 1 hata
-BAŞARISIZ course_es/C2/09.txt: ['file has 9 lessons, must be exactly 10']
-course_es/C2/10.txt: deneme 1, 44 hata
-course_es/C2/10.txt: deneme 2, 21 hata
-course_es/C2/11.txt: deneme 1, 4 hata
-course_es/C2/12.txt: deneme 1, 48 hata
-course_es/C2/12.txt: deneme 2, 42 hata
-course_es/C2/12.txt: deneme 3, 30 hata
-BAŞARISIZ course_es/C2/12.txt: ["line 32: 'dar gato por liebre a alguien' already used elsewhere in the course — choose another word", "line 43: 'jugar con fuego' already used elsewhere in the course — choose another word", "line 44: 'tomar cartas en el asunto' already used elsewhere in the course — choose another word"]
-course_es/C2/13.txt: deneme 1, 8 hata
-course_es/C2/13.txt: deneme 2, 3 hata
-course_es/C2/14.txt: deneme 1, 9 hata
+BAŞARISIZ course_es/C1/21.txt: ["line 41: 'echar más leña al fuego' already used elsewhere in the course — choose another word", "line 47: 'estar entre la espada y la pared' already used elsewhere in the course — choose another word", "line 67: 'dar gato por liebre a alguien' already used elsewhere in the course — choose another word"]
+course_es/C1/22.txt: deneme 1, 19 hata
+course_es/C2/01.txt: deneme 1, 9 hata
+course_es/C2/01.txt: deneme 2, 9 hata
+course_es/C2/01.txt: deneme 3, 2 hata
+BAŞARISIZ course_es/C2/01.txt: ["line 58: 'la elocución' already used elsewhere in the course — choose another word", "line 78: 'el registro' already used elsewhere in the course — choose another word"]
+course_es/C2/03.txt: deneme 1, 16 hata
+course_es/C2/03.txt: deneme 2, 7 hata
+course_es/C2/03.txt: deneme 3, 6 hata
+BAŞARISIZ course_es/C2/03.txt: ["line 22: 'elegante' already used elsewhere in the course — choose another word", "line 25: 'sagaz' already used elsewhere in the course — choose another word", "line 58: 'simpático' already used elsewhere in the course — choose another word"]
+course_es/C2/07.txt: deneme 1, 38 hata
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+günlük sınır: anahtar #10 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+course_es/C2/07.txt: deneme 2, 40 hata
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+course_es/C2/07.txt: deneme 3, 40 hata
+BAŞARISIZ course_es/C2/07.txt: ["line 3: 'la primicia' already used elsewhere in the course — choose another word", "line 4: 'el sumario' already used elsewhere in the course — choose another word", "line 5: 'el titular' already used elsewhere in the course — choose another word"]
+course_es/C2/09.txt: deneme 1, 5 hata
+course_es/C2/12.txt: deneme 1, 36 hata
+course_es/C2/12.txt: deneme 2, 23 hata
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+course_es/C2/12.txt: deneme 3, 7 hata
+BAŞARISIZ course_es/C2/12.txt: ["line 74: 'llevar la batuta' already used elsewhere in the course — choose another word", "line 80: 'hacer mella' already used elsewhere in the course — choose another word", "line 81: 'costar un ojo de la cara' already used elsewhere in the course — choose another word"]
+course_es/C2/14.txt: deneme 1, 19 hata
 course_es/C2/14.txt: deneme 2, 4 hata
-course_es/C2/14.txt: deneme 3, 3 hata
-BAŞARISIZ course_es/C2/14.txt: ["line 25: 'dime con quién andas y te diré quién eres' already used elsewhere in the course — choose another word", "line 43: 'no hay peor sordo que el que no quiere oir' already used elsewhere in the course — choose another word", "line 54: 'a grandes males grandes remedios' already used elsewhere in the course — choose another word"]
-günlük sınır: anahtar #7 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-course_es/C2/15.txt: deneme 1, 9 hata
-course_es/C2/15.txt: deneme 2, 6 hata
-course_es/C2/15.txt: deneme 3, 5 hata
-BAŞARISIZ course_es/C2/15.txt: ["line 80: 'escribir (escribió)' already used elsewhere in the course — choose another word", "line 82: 'pensar (pensaba)' already used elsewhere in the course — choose another word", "line 83: 'buscar (buscaba)' already used elsewhere in the course — choose another word"]
-course_es/C2/16.txt: deneme 1, 2 hata
-course_es/C2/17.txt: deneme 1, 1 hata
-course_es/C2/18.txt: deneme 1, 52 hata
-course_es/C2/18.txt: deneme 2, 39 hata
-course_es/C2/18.txt: deneme 3, 26 hata
-BAŞARISIZ course_es/C2/18.txt: ["line 7: 'el veredicto' already used elsewhere in the course — choose another word", "line 10: 'la condena' already used elsewhere in the course — choose another word", "line 12: 'el litigio' already used elsewhere in the course — choose another word"]
-course_es/C2/20.txt: deneme 1, 9 hata
-course_es/C2/20.txt: deneme 2, 1 hata
-course_es/C2/21.txt: deneme 1, 13 hata
-course_es/C2/21.txt: deneme 2, 11 hata
-course_es/C2/21.txt: deneme 3, 7 hata
-BAŞARISIZ course_es/C2/21.txt: ["line 36: 'susurrar' already used elsewhere in the course — choose another word", "line 39: 'gritar' already used elsewhere in the course — choose another word", "line 59: 'examinar' already used elsewhere in the course — choose another word"]
-course_es/C2/22.txt: deneme 1, 7 hata
-course_es/C2/22.txt: deneme 2, 1 hata
-course_es/C2/23.txt: deneme 1, 24 hata
-course_es/C2/23.txt: deneme 2, 7 hata
+course_es/C2/14.txt: deneme 3, 1 hata
+BAŞARISIZ course_es/C2/14.txt: ["line 109: 'la paciencia todo lo alcanza' already used elsewhere in the course — choose another word"]
+course_es/C2/15.txt: deneme 1, 21 hata
+course_es/C2/15.txt: deneme 2, 4 hata
+course_es/C2/18.txt: deneme 1, 2 hata
+course_es/C2/21.txt: deneme 1, 19 hata
+course_es/C2/21.txt: deneme 2, 14 hata
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+course_es/C2/21.txt: deneme 3, 14 hata
+BAŞARISIZ course_es/C2/21.txt: ["line 4: 'merodear' already used elsewhere in the course — choose another word", "line 6: 'deambular' already used elsewhere in the course — choose another word", "line 37: 'vociferar' already used elsewhere in the course — choose another word"]
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+course_es/C2/23.txt: deneme 1, 31 hata
+course_es/C2/23.txt: deneme 2, 10 hata
 course_es/C2/23.txt: deneme 3, 4 hata
-BAŞARISIZ course_es/C2/23.txt: ["line 83: 'el compromiso' already used elsewhere in the course — choose another word", "line 84: 'el tribunal' already used elsewhere in the course — choose another word", "line 106: 'el argumento' already used elsewhere in the course — choose another word"]
-429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-59
+BAŞARISIZ course_es/C2/23.txt: ["line 67: 'la gnoseología' already used elsewhere in the course — choose another word", "line 91: 'la gobernanza' already used elsewhere in the course — choose another word", "line 92: 'el organigrama' already used elsewhere in the course — choose another word"]
+14

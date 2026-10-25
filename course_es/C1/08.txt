@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve planlama
+el anteproyecto | avan projeler | isim (e) | El arquitecto presentó el anteproyecto. | Mimar avan projeyi sundu.
+la cimentacion base | temel tabanı, altyapı temeli | isim (d) | La cimentación base debe soportar todo el peso. | Temel tabanı tüm ağırlığı taşımalıdır.
+el plano estructural | statik proje, statik plan | isim (e) | Debemos revisar el plano estructural cuidadosamente. | Statik projeyi dikkatlice incelemeliyiz.
+la volumetría | hacim, yapı kütlesi | isim (d) | La volumetría del edificio es impresionante. | Binanın yapı kütlesi etkileyici.
+el diseño bioclimatico | iklimsel tasarım, ekolojik tasarım | isim (e) | El diseño bioclimático reduce el consumo energético. | İklimsel tasarım enerji tüketimini azaltır.
+la memoria descriptiva | açıklama raporu, teknik rapor | isim (d) | La memoria descriptiva acompaña al proyecto base. | Teknik rapor ana projeye eşlik ediyor.
+el cálculo de cargas | yük hesabı, statik hesaplama | isim (e) | El cálculo de cargas garantiza la estabilidad. | Yük hesabı istikrarı garanti eder.
+la normativa urbanística | imar yönetmeliği, şehircilik mevzuatı | isim (d) | Debemos cumplir toda la normativa urbanística vigente. | Yürürlükteki tüm imar yönetmeliğine uymalıyız.
+el estudio geotécnico | zemin etüdü, jeoteknik etüt | isim (e) | El estudio geotécnico determinó la firmeza del terreno. | Zemin etüdü arazinin sağlamlığını belirledi.
+la licencia de edificación | yapı ruhsatı, inşaat izni | isim (d) | Ya tenemos la licencia de edificación aprobada. | Yapı ruhsatımız onaylandı.
+## Taşıyıcı sistem
+el pilar maestro | ana kolon, taşıyıcı sütun | isim (e) | El pilar maestro sostiene la cubierta superior. | Ana kolon üst çatıyı destekliyor.
+la viga maestra | ana kiriş, taşıyıcı kiriş | isim (d) | La viga maestra cruza todo el salón principal. | Ana kiriş tüm ana salonu kesiyor.
+el muro de carga | taşıyıcı duvar, yığma duvar | isim (e) | No se puede derribar ningún muro de carga. | Hiçbir taşıyıcı duvar yıkılamaz.
+el forjado | döşeme, betonarme döşeme | isim (e) | El forjado de hormigón ya está fraguado. | Betonarme döşeme artık sertleşti.
+la armadura de acero | donatı, çelik donatı | isim (d) | La armadura de acero refuerza la estructura. | Çelik donatı yapıyı güçlendirir.
+el encofrado metálico | metal kalıp, çelik kalıp | isim (e) | Retiraron el encofrado metálico tras el secado. | Kurumadan sonra metal kalıbı söktüler.
+el puntal | direk, destek direği | isim (e) | Colocaron un puntal para sostener la viga. | Kirişi desteklemek için bir direk yerleştirdiler.
+la zapata corrida | sürekli temel, mütemadi temel | isim (d) | La zapata corrida reparte mejor el peso. | Sürekli temel ağırlığı daha iyi dağıtır.
+el tirante | gergi çubuğu, bağlama elemanı | isim (e) | El tirante metálico evita la deformación lateral. | Metal gergi çubuğu yanal deformasyonu önler.
+la losa de cimentación | radye temel, temel plağı | isim (d) | Vaciaron la losa de cimentación esta mañana. | Radye temeli bu sabah döktüler.
+## Şantiye ve organizasyon
+el capataz general | baş ustabaşı, şantiye şefi yardımcısı | isim (e) | El capataz general supervisa a todos los obreros. | Baş ustabaşı tüm işçileri denetliyor.
+la caseta de obra | şantiye kulübesi, şantiye konteyneri | isim (d) | Reunimos los planos en la caseta de obra. | Planları şantiye kulübesinde topladık.
+la maquinaria pesada | ağır iş makineleri | isim (d) | La maquinaria pesada opera en el solar norte. | Ağır iş makineleri kuzey arsasında çalışıyor.
+el andamio tubular | borulu iskele, yapı iskelesi | isim (e) | Montaron un andamio tubular en la fachada. | Cepheye borulu bir iskele kurdular.
+el acopio de materiales | malzeme yığımı, stoklama | isim (e) | El acopio de materiales se realiza junto al acceso. | Malzeme yığımı girişin yanına yapılıyor.
+el avance semanal | haftalık ilerleme, iş artışı | isim (e) | El arquitecto evaluó el avance semanal de obra. | Mimar şantiyenin haftalık ilerlemesini değerlendirdi.
+el parte diario | günlük şantiye raporu | isim (e) | El jefe de obra firmó el parte diario de trabajos. | Şantiye şefi günlük iş raporunu imzaladı.
+la excavación masiva | derin kazı, hafriyat | isim (d) | La excavación masiva duró casi dos semanas. | Derin kazı neredeyse iki hafta sürdü.
+el residuo pétreo | taş atığı, moloz | isim (e) | Retiraron el residuo pétreo con camiones bañera. | Molozları hafriyat kamyonlarıyla kaldırdılar.
+el cerramiento perimetral | çevre çiti, dış çevre duvarı | isim (e) | Levantaron un cerramiento perimetral provisional. | Geçici bir çevre çiti ördüler.
+## Tesisat ve donanım
+la fontanería | tesisat, sıhhi tesisat | isim (d) | La fontanería interior utiliza tuberías de cobre. | İç tesisat bakır borular kullanıyor.
+la canalización eléctrica | elektrik borulama, kablo kanalı | isim (d) | Ocultaron la canalización eléctrica tras el yeso. | Elektrik borulamasını sıvanın arkasına gizlediler.
+el conducto de aire | hava kanalı, havalandırma kanalı | isim (e) | El conducto de aire cruza todo el falso techo. | Hava kanalı tüm asma tavanı geçiyor.
+el saneamiento enterrado | gömülü kanalizasyon, yeraltı gideri | isim (e) | Conectaron el saneamiento enterrado a la red general. | Yeraltı giderini ana şebekeye bağladılar.
+el cuadro eléctrico | elektrik panosu | isim (e) | Instalaron el cuadro eléctrico principal en el sótano. | Ana elektrik panosunu bodrum kata kurdular.
+la acometida general | ana bağlantı, enerji giriş hattı | isim (d) | La acometida general abastece a todo el edificio. | Ana bağlantı tüm binayı beslemektedir.
+el desagüe pluvial | yağmur suyu gideri, yağmur oluğu | isim (e) | El desagüe pluvial previene inundaciones en el patio. | Yağmur suyu gideri avludaki su baskınlarını önler.
+la red de drenaje urbano | kentsel drenaj şebekesi, altyapı gideri | isim (d) | Renovaron por completo la red de drenaje urbano. | Kentsel drenaj şebekesini tamamen yenilediler.
+el aislamiento térmico | ısı yalıtımı | isim (e) | Pusieron un aislamiento térmico de lana mineral. | Mineral yün yalıtımı yerleştirdiler.
+la ventilación cruzada | çapraz havalandırma | isim (d) | La ventilación cruzada refresca naturalmente el interior. | Çapraz havalandırma iç mekanı doğal olarak serinletir.
+## Yapı denetimi ve kalite
+la inspección técnica | teknik denetim, yapı denetimi | isim (d) | La inspección técnica aprobó los cimientos vertidos. | Teknik denetim dökülen temelleri onayladı.
+el dictamen pericial | bilirkişi raporu, uzman raporu | isim (e) | El juez solicitó un dictamen pericial sobre las grietas. | Yargıç çatlaklar hakkında bilirkişi raporu talep etti.
+la prueba de carga | yük testi, dayanıklılık testi | isim (d) | Hicieron una prueba de carga en el puente nuevo. | Yeni köprüde bir yük testi yaptılar.
+el control de ejecución | uygulama kontrolü, yapım denetimi | isim (e) | El laboratorio ejerce un riguroso control de ejecución. | Laboratuvar sıkı bir uygulama kontrolü yürütüyor.
+la patología constructiva | yapı patolojisi, yapısal hasar | isim (d) | Estudian la patología constructiva de los muros antiguos. | Eski duvarların yapısal hasarını inceliyorlar.
+la fisura estructural | yapısal çatlak | isim (d) | Detectaron una fisura estructural en la viga maestra. | Ana kirişte yapısal bir çatlak tespit ettiler.
+el asiento diferencial | oturma farkı, yapısal çökelme | isim (e) | El edificio sufrió un leve asiento diferencial. | Bina hafif bir oturma farkı yaşadı.
+la impermeabilización | yalıtım, su yalıtımı | isim (d) | Reforzaron la impermeabilización de la cubierta plana. | Düz çatının su yalıtımını güçlendirdiler.
+el ensayo de compresión | basınç deneyi | isim (e) | El ensayo de compresión mide la resistencia del hormigón. | Basınç deneyi betonun dayanıklılığını ölçer.
+la recepción provisional | geçici kabul | isim (d) | Firmaron la recepción provisional tras revisar los acabados. | Bitişleri inceledikten sonra geçici kabulü imzaladılar.
+## Malzemeler ve detaylar
+el mortero de cal | kireç harcı | isim (e) | Restauraron la fachada antigua usando mortero de cal. | Eski cepheyi kireç harcı kullanarak restore ettiler.
+el ladrillo hueco | delikli tuğla | isim (e) | Utilizaron ladrillo hueco para los tabiques divisorios. | Bölme duvarlar için delikli tuğla kullandılar.
+la madera laminada | lamine ahşap, lamine kereste | isim (d) | La madera laminada soporta grandes luces sin apoyos. | Lamine ahşap desteksiz büyük açıklıkları taşır.
+el panel composite | kompozit panel | isim (e) | Reistieron la fachada moderna con panel composite. | Modern cepheyi kompozit panelle kapladılar.
+el vidrio templado | temperli cam | isim (e) | Colocaron vidrio templado en los grandes ventanales. | Büyük pencerelere temperli cam yerleştirdiler.
+la piedra natural | doğal taş | isim (d) | Revistieron el zócalo inferior con piedra natural. | Alt süpürgeliği doğal taşla kapladılar.
+el sellador acrílico | akrilik mastik, akrilik dolgu macunu | isim (e) | Aplicaron sellador acrílico en las juntas de dilatación. | Genleşme derzlerine akrilik mastik uyguladılar.
+el mortero autocompactante | kendiliğinden yerleşen beton | isim (e) | Vertieron mortero autocompactante en zonas estrechas. | Dar bölgelere kendiliğinden yerleşen harç döktüler.
+la teja cerámica | seramik kiremit, kil kiremit | isim (d) | Reemplazaron la teja cerámica rota del tejado tradicional. | Geleneksel çatının kırık seramik kiremidini değiştirdiler.
+el adoquín de granito | granit parke taşı | isim (e) | Pavimentaron la plaza principal con adoquín de granito. | Ana meydanı granit parke taşıyla döşediler.
+## İç mekan ve bitişler
+el revestimiento mural | duvar kaplaması | isim (e) | Eligieron un revestimiento mural de gran resistencia. | Büyük dirençli bir duvar kaplaması seçtiler.
+el falso techo | asma tavan | isim (e) | Ocultaron las instalaciones sobre el falso techo registrable. | Tesisatları sökülebilir asma tavanın üzerine gizlediler.
+el pavimento continuo | kesintisiz zemin döşemesi | isim (e) | Pusieron un pavimento continuo de resina epoxi. | Epoksi reçineden kesintisiz zemin döşemesi yaptılar.
+el rodapié de madera | ahşap süpürgelik | isim (e) | Colocaron el rodapié de madera en todo el perímetro. | Tüm çevreye ahşap süpürgelik yerleştirdiler.
+el enlucido de yeso | alçı sıva | isim (e) | Alisaron las paredes interiores con un enlucido de yeso. | İç duvarları alçı sıva ile pürüzsüzleştirdiler.
+la carpintería interior | iç doğrama, ahşap kapı pencere | isim (d) | Toda la carpintería interior es de roble macisil. | Tüm iç doğrama masif meşedendir.
+el panel acústico | akustik panel | isim (e) | Instalaron un panel acústico en la sala de conferencias. | Konferans salonuna akustik panel kurduttular.
+la pintura plástica | plastik boya, su bazlı boya | isim (d) | Dieron dos manos de pintura plástica blanca al salón. | Salona iki kat beyaz plastik boya vurdular.
+el perfil de aluminio | alüminyum profil | isim (e) | Montaron las ventanas usando un perfil de aluminio roto. | Pencereleri kırık alüminyum profil kullanarak monte ettiler.
+la mampara divisoria | bölme panel, cam bölme | isim (d) | Separaron los despachos con una mampara divisoria acristalada. | Ofisleri camlı bir bölme panelle ayırdılar.
+## Güvenlik ve mevzuat
+el plan de seguridad | iş güvenliği planı | isim (e) | Todos deben cumplir el plan de seguridad en obra. | Herkes şantiyede iş güvenliği planına uymalıdır.
+la línea de vida | cankurtaran halatı, güvenlik halatı | isim (d) | Los operarios anclaron su arnés a la línea de vida. | İşçiler emniyet kemerlerini güvenlik halatına bağladılar.
+el equipo de protección | kişisel koruyucu donanım | isim (e) | El uso de equipo de protección es obligatorio aquí. | Burada kişisel koruyucu donanım kullanımı zorunludur.
+la barandilla provisional | geçici korkuluk | isim (d) | Colocaron una barandilla provisional en el hueco de escalera. | Merdiven boşluğuna geçici bir korkuluk yerleştirdiler.
+la señalización de obra | şantiye uyarı levhaları, şantiye işaretlemesi | isim (d) | Reforzaron la señalización de obra durante la noche. | Gece boyunca şantiye uyarı levhalarını güçlendirdiler.
+la balsa de sedimentación | çökeltme havuzu | isim (d) | Construyeron una balsa de sedimentación para el agua sucia. | Kirli su için bir çökeltme havuzu inşa ettiler.
+la salida de emergencia | acil çıkış | isim (d) | Señalizaron claramente cada salida de emergencia del edificio. | Binanın her acil çıkışını açıkça işaretlediler.
+la red de contención | güvenlik ağı, düşme önleyici ağ | isim (d) | Colgaron una red de contención en el perímetro exterior. | Dış çevreye bir güvenlik ağı astılar.
+el extintor portátil | taşınabilir yangın söndürücü | isim (e) | Situaron un extintor portátil junto al cuadro eléctrico. | Elektrik panosunun yanına taşınabilir yangın söndürücü yerleştirdiler.
+la zona de acopio | malzeme depolama alanı | isim (d) | Delimitaron estrictamente la zona de acopio de áridos. | Agrega depolama alanını sıkı bir şekilde sınırlandırdılar.
+## Restorasyon ve yenileme
+la restauración monumental | anıtsal restorasyon | isim (d) | Iniciaron la restauración monumental de la iglesia gótica. | Gotik kilisenin anıtsal restorasyonunu başlattılar.
+el apuntalamiento temporal | geçici destekleme, payanda koyma | isim (e) | Hicieron un apuntalamiento temporal en el arco antiguo. | Eski kemere geçici bir destekleme yaptılar.
+la limpieza por chorro | kumlama ile temizlik | isim (d) | Realizaron una limpieza por chorro en la piedra vista. | Görünür taşa kumlama ile temizlik yaptılar.
+la reposición de sillares | kesme taş değişimi | isim (d) | Efectuaron la reposición de sillares dañados en el muro. | Duvardaki hasarlı kesme taşların değişimini gerçekleştirdiler.
+la consolidación mural | duvar sağlamlaştırma | isim (d) | Aplicaron resinas para la consolidación mural histórica. | Tarihi duvarı sağlamlaştırmak için reçineler uyguladılar.
+el análisis estratigráfico | katman analizi, stratigrafik analiz | isim (e) | El análisis estratigráfico reveló pinturas ocultas. | Katman analizi gizli resimleri ortaya çıkardı.
+la reintegración volumétrica | hacimsel bütünleme, form tamamlama | isim (d) | Hicieron la reintegración volumétrica de la moldura barroca. | Barok kalıbın hacimsel bütünlemesini yaptılar.
+la inyección de resinas | reçine enjeksiyonu | isim (e) | Usaron inyección de resinas para frenar las grietas. | Çatlakları durdurmak için reçine enjeksiyonu kullandılar.
+el mortero tradicional | geleneksel harç | isim (e) | Prepararon mortero tradicional sin componentes químicos. | Kimyasal bileşenler içermeyen geleneksel harç hazırladılar.
+la ficha catalogográfica | katalog fişi, envanter fişi | isim (d) | Completaron la ficha catalogográfica de cada elemento hallado. | Bulunan her öğenin katalog fişini tamamladılar.
+## Sürdürülebilir inşaat
+la edificación sostenible | sürdürülebilir yapı, ekolojik bina | isim (d) | La nueva edificación sostenible consume muy poca energía. | Yeni sürdürülebilir yapı çok az enerji tüketir.
+el panel fotovoltaico | fotovoltaik panel, güneş paneli | isim (e) | Cubrieron la azotea con un panel fotovoltaico eficiente. | Çatıyı verimli bir fotovoltaik panelle kapladılar.
+el sistema geotérmico | jeotermal sistem | isim (e) | Instalaron un sistema geotérmico para climatización. | İklimlendirme için bir jeotermal sistem kurdular.
+la recogida de pluviales | yağmur suyu toplama | isim (d) | Diseñaron la recogida de pluviales para el riego. | Sulama için yağmur suyu toplamayı tasarladılar.
+el material reciclado | geri dönüştürülmüş malzeme | isim (e) | Emplearon material reciclado en los tabiques interiores. | İç bölme duvarlarında geri dönüştürülmüş malzeme kullandılar.
+la certificación energética | enerji sertifikası | isim (d) | Obtuvieron la máxima certificación energética para el bloque. | Blok için en yüksek enerji sertifikasını aldılar.
+el diseño pasivo | pasif tasarım | isim (e) | El diseño pasivo aprovecha mejor la luz solar natural. | Pasif tasarım doğal güneş ışığından daha iyi yararlanır.
+el hormigón ecológico | ekolojik beton, yeşil beton | isim (e) | Utilizaron hormigón ecológico con menor huella de carbono. | Daha düşük karbon ayak izine sahip ekolojik beton kullandılar.
+la cubierta vegetal | yeşil çatı, bitkilendirilmiş çatı | isim (d) | Sembraron vegetación autóctona en la cubierta vegetal. | Yeşil çatıya yerli bitki örtüsü ektiler.
+el consumo energético casi nulo | sıfıra yakın enerji tüketimi | isim (e) | El edificio cumple los estándares de consumo energético casi nulo. | Bina sıfıra yakın enerji tüketimi standartlarını karşılıyor.

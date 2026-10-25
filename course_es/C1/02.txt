@@ -1,0 +1,111 @@
+# UNIT: Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+## İş süreçleri
+la administración | yönetim, idare | isim (d) | La administración aprobó el nuevo presupuesto anoche. | Yönetim yeni bütçeyi dün gece onayladı.
+la gerencia | müdürlük, yönetim | isim (d) | La gerencia busca optimizar los costes operativos. | Müdürlük operasyonel maliyetleri optimize etmeyi amaçlıyor.
+el organigrama general | organizasyon şeması | isim (e) | El nuevo organigrama general muestra los departamentos. | Yeni organizasyon şeması departmanları gösteriyor.
+el accionista | pay sahibi, ortak | isim (e) | Cada accionista recibirá un dividendo trimestral. | Her pay sahibi üç aylık temettü alacak.
+la junta | kurul, toplantı | isim (d) | La junta general comenzará a las diez en punto. | Genel kurul tam saat onda başlayacak.
+la asamblea general | genel kurul, meclis | isim (d) | La asamblea general votará la modificación de estatutos. | Genel kurul tüzük değişikliğini oylayacak.
+la filial | bağlı ortaklık, şube | isim (d) | La filial en el extranjero duplicó sus ventas. | Yurtdışındaki bağlı ortaklık satışlarını iki katına çıkardı.
+la central | merkez, genel merkez | isim (d) | Nuestra central se trasladó a Barcelona. | Merkez ofisimiz Barselona'ya taşındı.
+el gerente | müdür, yönetici | isim (e) | El gerente firmó el convenio colectivo hoy. | Müdür bugün toplu iş sözleşmesini imzaladı.
+la plantilla | personel kadrosu | isim (d) | La plantilla actual cuenta con doscientos empleados. | Mevcut personel kadrosunda iki yüz çalışan var.
+## Finans ve bütçe
+el balance financiero | bilanço | isim (e) | El balance financiero muestra un beneficio neto. | Finansal bilanço net kâr gösteriyor.
+el plan financiero | bütçe, finansal plan | isim (e) | El plan financiero requiere una revisión profunda. | Finansal plan derinlemesine bir inceleme gerektiriyor.
+la inversión | yatırım | isim (d) | La inversión extranjera impulsó el sector tecnológico. | Yabancı yatırım teknoloji sektörüne ivme kazandırdı.
+el capital | sermaye | isim (e) | El capital social aumentó tras la ampliación. | Sermaye artırımından sonra şirket sermayesi arttı.
+el dividendo | kâr payı, temettü | isim (e) | El dividendo por acción superó las previstones. | Hisse başına temettü beklentileri aştı.
+el pasivo | pasifler, borçlar | isim (e) | El pasivo corriente incluye las deudas a corto plazo. | Kısa vadeli borçlar cari pasifleri kapsar.
+el activo | varlıklar, aktifler | isim (e) | El activo fijo abarca inmuebles y maquinaria. | Duran varlıklar mülkleri ve makineleri kapsar.
+el equilibrador | dengeleyici, yük dengeleyici | isim (e) | El equilibrador de carga optimiza el tráfico web. | Yük dengeleyici web trafiğini optimize eder.
+la amortización | amortisman, itfa | isim (d) | La amortización de los equipos dura cinco años. | Ekipmanların amortismanı beş yıl sürer.
+la liquidez | likitide, nakit akışı | isim (d) | La empresa mantiene una alta liquidez este mes. | Şirket bu ay yüksek bir likidite tutuyor.
+## Sözleşmeler ve hukuk
+el acuerdo mercantil | sözleşme | isim (e) | El acuerdo mercantil estipula cláusulas de confidencialite. | Ticari anlaşma gizlilik maddeleri öngörüyor.
+la cláusula penal | madde, bent | isim (d) | La cláusula penal protege los intereses de la firma. | Cezai şart maddesi firmanın çıkarlarını koruyor.
+el convenio | anlaşma, uzlaşma | isim (e) | El convenio colectivo beneficia a todo el personal. | Toplu sözleşme tüm personele fayda sağlıyor.
+el litigio judicial | anlaşmazlık, dava | isim (e) | El litigio judicial durará varios meses más. | Yargı anlaşmazlığı birkaç ay daha sürecek.
+la demanda formal | dava dilekçesi, talep | isim (d) | La demanda presentada exige una indemnización justa. | Sunulan dava dilekçesi adil bir tazminat talep ediyor.
+la sentencia judicial | mahkeme kararı, hüküm | isim (d) | La sentencia favoreció los intereses de la corporación. | Mahkeme kararı kurumun çıkarlarını destekledi.
+el proceso arbitral | tahkim süreci | isim (e) | El proceso arbitral resolvió el conflicto pacíficamente. | Tahkim süreci anlaşmazlığı barışçıl bir şekilde çözdü.
+el notario | noter | isim (e) | El notario validó la escritura de constitución. | Noter kuruluş senedini geçerli kıldı.
+la indemnización por despido | tazminat | isim (d) | La indemnización por despido fue acordada formalmente. | İşten çıkarma tazminatı resmi olarak kararlaştırıldı.
+el plazamiento | tebligat, süre verme | isim (e) | El emplazamiento judicial llegó a la oficina central. | Yargı tebligatı merkez ofise ulaştı.
+## Raporlama
+el informe trimestral | rapor | isim (e) | El informe trimestral detalla los resultados económicos. | Üç aylık rapor ekonomik sonuçları ayrıntılı anlatıyor.
+el balanceador | denge unsuru | isim (e) | El informe actúa como balanceador de expectativas. | Rapor beklentileri dengeleyici unsuru olarak işlev görür.
+la auditoría | denetim, teftiş | isim (d) | La auditoría interna detectó pequeñas irregularidades. | İç denetim küçük usulsüzlükler tespit etti.
+el balance general | denge | isim (e) | El balance general se presentó ante los inversores. | Genel bilanço yatırımcılara sunuldu.
+la memoria anual | faaliyet raporu, anı | isim (d) | La memoria anual resume los logros de la empresa. | Yıllık faaliyet raporu şirketin başarılarını özetliyor.
+el indicador | gösterge | isim (e) | Cada indicador económico señala una leve recuperación. | Her ekonomik gösterge hafif bir toparlanmaya işaret ediyor.
+la estadística | istatistik | isim (d) | La estadística oficial refleja un crecimiento sostenido. | Resmi istatistik sürdürülebilir bir büyüme yansıtıyor.
+el examen analítico | analiz, çözümleme | isim (e) | El examen analítico de riesgos evitó pérdidas millonarias. | Risk analizi milyonlarca zarar önledi.
+la proyección | projeksiyon, öngörü | isim (d) | La proyección financiera apunta a nuevos mercados. | Finansal projeksiyon yeni pazarlara işaret ediyor.
+el sumario ejecutivo | özet, dava dosyası | isim (e) | El sumario ejecutivo resume las conclusiones clave. | Yönetici özeti kilit sonuçları özetliyor.
+## Yönetişim
+la gobernanza | yönetişim | isim (d) | La buena gobernanza garantiza la transparencia corporatif. | İyi yönetişim kurumsal şeffaflığı garanti eder.
+la normativa | yönetmelik, mevzuat | isim (d) | La nueva normativa europea exige estrictos controles. | Yeni Avrupa mevzuatı sıkı kontroller talep ediyor.
+el cumplimiento | uyum, yerine getirme | isim (e) | El cumplimiento normativo es obligatorio para todos. | Mevzuata uyum herkes için zorunludur.
+la transparencia | şeffaflık | isim (d) | La transparencia institucional genera confianza inversora. | Kurumsal şeffaflık yatırımcı güveni yaratır.
+la responsabilidad social | sorumluluk | isim (d) | La responsabilidad social corporativa mejora la imagen. | Kurumsal sosyal sorumluluk imajı iyileştirir.
+el protocolo interno | protokol | isim (e) | El protocolo interno previene conflictos de intereses. | İç protokol çıkar çatışmalarını önler.
+la directriz principal | yönerge, ilke | isim (d) | La directriz principal prioriza la sostenibilidad ambiental. | Ana yönerge çevresel sürdürülebilirliğe öncelik veriyor.
+el comité de ética | komite, komisyon | isim (e) | El comité de ética evaluará el caso mañana. | Etik komitesi yarın vakayı değerlendirecek.
+la delegación de funciones | yetki devri, heyet | isim (d) | La delegación de funciones acelera la toma de decisiones. | Görevlerin devredilmesi karar almayı hızlandırır.
+el liderazgo estratégico | liderlik | isim (e) | El liderazgo estratégico transformó la organización. | Stratejik liderlik organizasyonu dönüştürdü.
+## Finansal araçlar
+el fondo | fon | isim (e) | El fondo de inversión obtuvo excelentes rentabilidades. | Yatırım fonu mükemmel getiriler elde etti.
+la cartera de valores | portföy, cüzdan | isim (d) | La cartera de valores incluye empresas multinacionales. | Menkul kıymetler portföyü çok uluslu şirketleri içerir.
+el título público | tahvil, kupon | isim (e) | El título público ofrece estabilidad a largo plazo. | Devlet tahvili uzun vadede istikrar sunuyor.
+el crédito | kredi | isim (e) | El crédito bancario financió la expansión internacional. | Banka kredisi uluslararası genişlemeyi finanse etti.
+la divisa | döviz, para birimi | isim (d) | La cotización de cada divisa fluctúa diariamente. | Her döviz kurunun değeri günlük olarak dalgalanır.
+el arancel aduanero | gümrük vergisi, tarife | isim (e) | El arancel aduanero encarece las importaciones textiles. | Gümrük tarifesi tekstil ithalatını pahalılaştırıyor.
+el gravamen fiscal | vergi yükü, mükellefiyet | isim (e) | El gravamen fiscal afecta a las grandes transacciones. | Vergi yükü büyük işlemleri etkiliyor.
+el patrimonio neto | mal varlığı, miras | isim (e) | El patrimonio neto creció gracias a las reservas. | Öz sermaye rezervler sayesinde büyüdü.
+el rendimiento | verim, getiri | isim (e) | El rendimiento financiero superó las expectativas iniciales. | Finansal getiri başlangıç beklentilerini aştı.
+el pasivo exigible | yükümlülükler | isim (e) | El pasivo exigible comprende todas las deudas bancarias. | Talep edilebilir pasif tüm banka borçlarını kapsar.
+## Yazışmalar ve tebligatlar
+el comunicado oficial | basın bildirisi, tebliğ | isim (e) | El comunicado oficial aclaró la situación económica. | Resmi bildiri ekonomik durumu netleştirdi.
+la circular interna | genelge | isim (d) | La circular interna informó sobre los nuevos horarios. | İç genelge yeni çalışma saatleri hakkında bilgi verdi.
+el memorándum | muhtıra, not | isim (e) | El memorándum detalla las directrices del nuevo proyecto. | Muhtıra yeni projenin yönergelerini ayrıntılı veriyor.
+la notificación electrónica | bildirim, tebligat | isim (d) | La notificación llegó por vía electrónica esta mañana. | Bildirim bu sabah elektronik yoldan ulaştı.
+el documento digitalizado | sertifika, dijital belge | isim (e) | El documento digitalizado garantiza la seguridad jurídica. | Dijital belge hukuki güvenliği garanti ediyor.
+el acuse | alındı belgesi | isim (e) | El acuse de recibo confirma la entrega del paquete. | Alındı belgesi paketin teslimatını onaylıyor.
+el registro societario | sicil, kayıt | isim (e) | El registro societario actualizó los datos corporativos. | Şirket sicili kurumsal verileri güncelledi.
+el dossier administrativo | dosya | isim (e) | El dossier administrativo contiene todos los permisos. | İdari dosya tüm izinleri içeriyor.
+la solicitud formal | başvuru, dilekçe | isim (d) | La solicitud formal fue aceptada por la dirección. | Resmi başvuru yönetim tarafından kabul edildi.
+la dimisión | istifa | isim (d) | La dimisión del director sorprendió a los accionistas. | Müdürün istifası pay sahiplerini şaşırttı.
+## Sözleşme maddeleri
+la vigencia temporal | yürürlülük | isim (d) | La vigencia temporal del acuerdo se extiende por tres años. | Anlaşmanın yürürlülük süresi üç yıl uzatılıyor.
+la rescisión | fesih, iptal | isim (d) | La rescisión unilateral conlleva una multa económica. | Tek taraflı fesih ekonomik bir ceza getirir.
+la prórroga contractual | uzatma, tem dit | isim (d) | La prórroga contractual se firmará la próxima semana. | Sözleşme uzatması gelecek hafta imzalanacak.
+el incumplimiento | ihlal, yerine getirmeme | isim (e) | El incumplimiento de plazos genera sanciones severas. | Sürelere uyulmaması ağır cezalar doğurur.
+la indemnización compensatoria | zarar tazmini | isim (d) | La indemnización compensa los daños causados por retraso. | Tazminat gecikmeden kaynaklanan zararları telafi ediyor.
+la jurisdicción competente | yargı yetkisi, yetki alanı | isim (d) | La jurisdicción competente resolverá cualquier disputa. | Yetkili yargı mercisi herhangi bir anlaşmazlığı çözecek.
+el fuero aplicable | yetki alanı, imtiyaz | isim (e) | El fuero aplicable corresponde a los tribunales locales. | Uygulanabilir yetki alanı yerel mahkemelere aittir.
+la subcontratación | taşeronluk, alt yüklenicilik | isim (d) | La subcontratación requiere autorización previa por escrito. | Taşeronluk önceden yazılı izin gerektirir.
+el garante solidario | kefil | isim (e) | El garante solidario respondió ante el banco. | Müteselsil kefil bankaya karşı sorumluluk üstlendi.
+la garantía de depósito | depozito, teminat | isim (d) | La garantía depositada cubre posibles desperfectos técnicos. | Yatırılan teminat olası teknik aksaklıkları karşılıyor.
+## Risk yönetimi
+la contingencia | acil durum, risk | isim (d) | El plan de contingencia previene fallos informáticos. | Acil durum planı bilgisayar arızalarını önler.
+la vulnerabilidad tecnológica | zayıflık, savunmasızlık | isim (d) | La auditoría tecnológica detectó una leve vulnerabilidad. | Teknoloji denetimi hafif bir zayıflık tespit etti.
+la contingencia fiscal | olasılık | isim (d) | Toda contingencia fiscal debe reflejarse en el balance. | Her mali olasılık bilançoda yansıtılmalıdır.
+la solvencia | ödeme gücü, malî mukavemet | isim (d) | La alta solvencia de la entidad tranquilizó a los socios. | Kurumun yüksek ödeme gücü ortakları sakinleştirdi.
+la morosidad empresarial | borcunu ödememe durumu | isim (d) | La morosidad empresarial disminuyó durante el último ejercicio. | Şirket borcunu ödememe oranı son faaliyet döneminde düştü.
+el impago | ödememe, temerrüt | isim (e) | El impago de facturas activa los protocolos legales. | Faturaların ödenmemesi hukuki protokolleri devreye sokar.
+la quiebra técnica | iflas | isim (d) | La mala gestión económica provocó la quiebra técnica. | Kötü mali yönetim teknik iflasa sebep oldu.
+la reestructuración | yeniden yapılandırma | isim (d) | La reestructuración de la deuda mejoró el flujo de caja. | Borcun yeniden yapılandırılması nakit akışını iyileştirdi.
+la previsión | öngörü, tahmin | isim (d) | La previsión de ingresos superó las metas trimestrales. | Gelir öngörüsü üç aylık hedefleri aştı.
+el saneamiento financiero | temizleme, sağlığa kavuşturma | isim (e) | El saneamiento financiero devolvió la confianza al mercado. | Mali iyileştirme piyasaya güveni geri getirdi.
+## Stratejik planlama
+la estrategia corporativa | strateji | isim (d) | La estrategia corporativa apunta a la diversificación internacional. | Kurumsal strateji uluslararası çeşitlendirmeyi hedefliyor.
+la sinergia operativa | sinerji | isim (d) | La fusión empresarial creó una potente sinergia operativa. | Şirket birleşmesi güçlü bir operasyonel sinerji yarattı.
+el hito | kilometre taşı, dönüm noktası | isim (e) | Alcanzar este hito consolidó nuestra posición en el sector. | Bu dönüm noktasına ulaşmak sektördeki konumumuzu pekiştirdi.
+el objetivo anual | hedef, amaç | isim (e) | Cada objetivo anual requiere indicadores de rendimiento claros. | Her yıllık hedef açık performans göstergeleri gerektirir.
+la directriz gerencial | ana çizgi, yönelim | isim (d) | La directriz gerencial fomenta la innovación continua. | Yönetim yönelimi sürekli inovasyonu teşvik ediyor.
+la expansión territorial | genişleme, büyüme | isim (d) | La expansión territorial abrirá nuevos mercados este año. | Bölgesel genişleme bu yıl yeni pazarlar açacak.
+el posicionamiento comercial | konumlandırma | isim (e) | El buen posicionamiento marca la diferencia comercial. | İyi konumlandırma ticari fark yaratır.
+la competitividad | rekabet gücü | isim (d) | La alta competitividad exige mejorar los procesos internos. | Yüksek rekabet gücü iç süreçlerin iyileştirilmesini gerektirir.
+la diversificación | çeşitlendirme | isim (d) | La diversificación de productos redujo los riesgos globales. | Ürün çeşitlendirmesi küresel riskleri azalttı.
+la consolidación financiera | pekiştirme, sağlama alma | isim (d) | La consolidación financiera asegura inversiones futuras. | Mali pekiştirme gelecekteki yatırımları güvence altına alır.

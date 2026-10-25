@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+## Duruşma ve yargılama
+la audiencia preliminar | ön duruşma | isim (d) | La audiencia preliminar determinó los cargos. | Ön duruşma suçlamaları belirledi.
+el testigo protegido | korunan tanık | isim | El testigo protegido declaró con máscara. | Korunan tanık maskeyle ifade verdi.
+la pericial médica | tıbbi bilirkişi raporu | isim (d) | La pericial médica aclaró las lesiones. | Tıbbi bilirkişi raporu yaralanmaları netleştirdi.
+el careo judicial | mahkeme yüzleştirmesi | isim | El careo judicial mostró contradicciones. | Mahkeme yüzleştirmesi çelişkileri gösterdi.
+la condena condicional | ertelenmiş ceza | isim (d) | El juez dictó condena condicional. | Hâkim ertelenmiş ceza hükmetti.
+el indulto general | genel af | isim | El presidente firmó el indulto general. | Başkan genel af imzaladı.
+la extradición pasiva | pasif iade | isim (d) | La extradición pasiva fue rechazada. | Pasif iade reddedildi.
+la querella infundada | mesnetsiz dava | isim (d) | Desestimaron la querella infundada. | Mesnetsiz davası reddedildi.
+el secreto de sumario | soruşturma gizliliği | isim | El secreto de sumario impide filtrar datos. | Soruşturma gizliliği veri sızdırmayı engeller.
+la reanudación del juicio | duruşmanın yeniden başlaması | isim (d) | La reanudación del juicio será mañana. | Duruşmanın yeniden başlaması yarın olacak.
+## Suç ve ceza türleri
+el fraude fiscal | vergi kaçakçılığı | isim | Investigaron el fraude fiscal de la empresa. | Şirketin vergi kaçakçılığını soruşturdular.
+el blanqueo de dinero | para acondicionamiento | isim | Descubrieron el blanqueo de dinero negro. | Kara para acondicionamiento keşfettiler.
+el cohecho activo | aktif rüşvet | isim | El cohecho activo implicó a varios políticos. | Aktif rüşvet birkaç siyasetçiyi kapsadı.
+la malversación de fondos | fonların kötüye kullanımı | isim (d) | Acusaron de malversación de fondos públicos. | Kamu fonlarının kötüye kullanımıyla suçladılar.
+el falso testimonio | yalan tanıklık | isim | Cometió falso testimonio ante el tribunal. | Mahkeme önünde yalan tanıklık yaptı.
+la estafa piramidal | saadet zinciri | isim (d) | La estafa piramidal arruinó a cientos. | Saadet zinciri yüzlerce kişiyi mahvetti.
+el homicidio imprudente | taksirle öldürme | isim | Fue juzgado por homicidio imprudente. | Taksirle öldürme suçundan yargılandı.
+la usurpación de identidad | kimlik hırsızlığı | isim (d) | Sufrió usurpación de identidad digital. | Dijital kimlik hırsızlığı yaşadı.
+el allanamiento de morada | konut dokunulmazlığını ihlal | isim | Denunciaron el allanamiento de morada. | Konut dokunulmazlığını ihlal suç duyurusunda bulundular.
+el encubrimiento de delito | suç saklama | isim | Fue condenado por encubrimiento de delito. | Suç saklama suçundan mahkûm oldu.
+## Diplomasi ve uluslararası hukuk
+el convenio plurilateral | çok taraflı anlaşma | isim | Firmaron el convenio plurilateral de comercio. | Çok taraflı ticaret anlaşmasını imzaladılar.
+la inmunidad consular | konsolosluk dokunulmazlığı | isim (d) | La inmunidad consular protege a los diplomáticos. | Konsolosluk dokunulmazlığı diplomatları korur.
+el contencioso limítrofe | sınır anlaşmazlığı | isim | Resolvieron el contencioso limítrofe pacíficamente. | Sınır anlaşmazlığını barışçıl şekilde çözdüler.
+la ruptura diplomática | diplomatik ilişkilerin kesilmesi | isim (d) | Anunciaron la ruptura diplomática oficial. | Resmi diplomatik ilişkilerin kesildiğini duyurdular.
+el asilo diplomático | diplomatik sığınma | isim | Pidió asilo diplomático en la embajada. | Büyükelçilikte diplomatik sığınma talep etti.
+la cumbre bilateral | ikili zirve | isim (d) | La cumbre bilateral duró tres horas. | İkili zirve üç saat sürdü.
+el laudo arbitral | hakem kararı | isim | El laudo arbitral resolvió el conflicto comercial. | Hakem kararı ticari anlaşmazlığı çözdü.
+la nota verbal | nota verbal | isim (d) | Enviaron una nota verbal de protesta. | Protesto notası gönderdiler.
+el enviado plenipotenciario | yetkili elçi | isim | Recibieron al enviado plenipotenciario. | Tam yetkili elçiyi karşıladılar.
+el protocolo facultatif | ihtiyari protokol | isim | Ratificaron el protocolo facultatif adjunto. | Ekli ihtiyari protokolü onayladılar.
+## Tıbbi teşhis ve bulgular
+el cuadro sintomatológico | semptom tablosı | isim | Analizaron el cuadro sintomatológico completo. | Tam semptom tablosunu analiz ettiler.
+la insuficiencia hepática | karaciğer yetmezliği | isim (d) | Diagnosticaron insuficiencia hepática grave. | Ağır karaciğer yetmezliği teşhisi koydular.
+el infarto agudo | akut kalp krizi | isim | Sufrió un infarto agudo de miocardio. | Akut miyokard enfarktüsü geçirdi.
+la hemorragia interna | iç kanama | isim (d) | Controlaron la hemorragia interna rápidamente. | İç kanamayı hızlıca kontrol altına aldılar.
+el edema pulmonar | akciğer ödemi | isim | Presentaba signos de edema pulmonar severo. | Şiddetli akciğer ödemi belirtileri gösteriyordu.
+la trombosis venosa | toplardamar pıhtılaşması | isim (d) | Detectaron trombosis venosa en la pierna. | Bacakta toplardamar pıhtılaşması tespit ettiler.
+el shock anafiláctico | anafilaktik şok | isim | El medicamento provocó shock anafiláctico. | İlaç anafilaktik şoka neden oldu.
+la patología crónica | kronik patoloji | isim (d) | Estudia la patología crónica avanzada. | İleri düzey kronik patolojiyi inceliyor.
+el tumor benigno | iyi huylu tümör | isim | La biopsia confirmó tumor benigno. | Biyopsi iyi huylu tümörü doğruladı.
+la necrosis tisular | doku nekrozu | isim (d) | Hubo necrosis tisular en la zona afectada. | Etkilenen bölgede doku nekrozu oluştu.
+## Tedavi ve cerrahi operasyonlar
+la intervención quirúrgica | cerrahi müdahale | isim (d) | La intervención quirúrgica duró cuatro horas. | Cerrahi müdahale dört saat sürdü.
+el trasplante renal | böbrek nakli | isim | El paciente espera un trasplante renal compatible. | Hasta uyumlu böbrek nakli bekliyor.
+la terapia paliativa | palyatif tedavi | isim (d) | Recibe terapia paliativa en el hospital. | Hastanede palyatif tedavi alıyor.
+el postoperatorio inmediato | erken ameliyat sonrası dönemi | isim | Superó bien el postoperatorio inmediato. | Erken ameliyat sonrası dönemi iyi atlattı.
+la sutura vascular | damar dikilmesi | isim (d) | Realizaron sutura vascular con éxito. | Başarıyla damar dikilmesi gerçekleştirdiler.
+el reanimador pulmonar | solunum canlandırıcısı | isim | Usaron el reanimador pulmonar en urgencias. | Acilde solunum canlandırıcısı kullandılar.
+la traqueotomía de urgencia | acil trakeotomi | isim (d) | Practicaron traqueotomía de urgencia al herido. | Yaralıya acil trakeotomi uyguladılar.
+el cateterismo cardíaco | kalp kateterizasyonu | isim | Le harán un cateterismo cardíaco mañana. | Yarın ona kalp kateterizasyonu yapacaklar.
+la infiltración anestésica | anestezik enjeksiyon | isim (d) | Aplicaron infiltración anestésica local. | Yerel anestezik enjeksiyonu uyguladılar.
+la diálisis peritoneal | periton diyalizi | isim (d) | Requiere diálisis peritoneal diaria. | Günlük periton diyalizi gerektiriyor.
+## Tıbbi cihaz ve laboratuvar
+el escáner tomográfico | tomografik tarayıcı | isim | Utilizarán el escáner tomográfico avanzado. | Gelişmiş tomografik tarayıcı kullanacaklar.
+el microscopio óptico digital | dijital optik mikroskop | isim | Observaron células con el microscopio óptico digital. | Hücreleri dijital optik mikroskop ile gözlemlediler.
+el desfibrilador externo | harici defibrilatör | isim | Activaron el desfibrilador externo automático. | Otomatik harici defibrilatörü etkinleştirdiler.
+la centrífuga de tubos | tüp santrifüjü | isim (d) | Pusieron las muestras en la centrífuga de tubos. | Örnekleri tüp santrifüjüne koydular.
+el ecocardiógrafo portátil | taşınabilir ekokardiyograf | isim | Llevaron el ecocardiógrafo portátil a la sala. | Taşınabilir ekokardiyografı odaya getirdiler.
+la incubadora neonatal | yenidoğan küvözü | isim (d) | El bebé prematuro sigue en la incubadora neonatal. | Prematüre bebek yenidoğan küvözünde kalıyor.
+el respirador artificial | yapay solunum cihazı | isim | Conectaron al enfermo al respirador artificial. | Hastayı yapay solunum cihazına bağladılar.
+el espectrómetro de masas | kütle spektrometresi | isim | Analizaron compuestos químicos en el espectrómetro de masas. | Kimyasal bileşikleri kütle spektrometresinde analiz ettiler.
+el suero fisiológico | fizyolojik serum | isim | Limpiaron la herida con suero fisiológico. | Yarayı fizyolojik serumla temizlediler.
+la cánula nasal | nazal kanül | isim | Le pusieron oxígeno mediante cánula nasal. | Nazal kanül ile oksijen verdiler.
+## Farmakoloji ve toksikoloji
+el principio activo | etken madde | isim | Identificaron el principio activo de la planta. | Bitkinin etken maddesini belirlediler.
+la reacción adversa | yan etki | isim (d) | Notificaron una reacción adversa al fármaco. | İlacın yan etkisini bildirdiler.
+el fármaco inhibidor | inhibitör ilaç | isim | Desarrollaron un nuevo fármaco inhibidor. | Yeni bir inhibitör ilaç geliştirdiler.
+la toxicología forense | adli toksikoloji | isim (d) | El departamento de toxicología forense investiga. | Adli toksikoloji departmanı araştırıyor.
+la dosis letal | öldürücü doz | isim (d) | Calcularon la dosis letal de la sustancia. | Maddenin öldürücü dozunu hesapladılar.
+el antídoto específico | özel antidot | isim | Administraron el antídoto específico a tiempo. | Özel antidotu zamanında verdiler.
+la interacción farmacológica | ilaç etkileşimi | isim (d) | Evitaron una peligrosa interacción farmacológica. | Tehlikeli bir ilaç etkileşimini önlediler.
+el placebo inyectable | enjekte edilebilir plasebo | isim | Usaron placebo inyectable en el ensayo clínico. | Klinik deneyde enjekte edilebilir plasebo kullandılar.
+la biodisponibilidad oral | ağızdan biyoyararlanım | isim (d) | Estudian la biodisponibilidad oral del compuesto. | Bileşiğin ağızdan biyoyararlanımını inceliyorlar.
+el extracto alcaloide | alkaloit özütü | isim | Extrajeron el principio alcaloide purificado. | Saf alkaloit özütünü çıkardılar.
+## Sağlık personeli ve idare
+el jefe de servicio | servis şefi | isim | El jefe de servicio dirigió la operación. | Servis şefi ameliyatı yönetti.
+la jefa de enfermería | hemşire başı | isim (d) | La jefa de enfermería organizó los turnos. | Hemşire başı nöbetleri düzenledi.
+el médico intensivista | yoğun bakım uzmanı | isim | El médico intensivista evaluó al paciente crítico. | Yoğun bakım uzmanı kritik hastayı değerlendirdi.
+la directora hospitalaria | hastane müdürü | isim (d) | La directora hospitalaria firmó el convenio. | Hastane müdürü sözleşmeyi imzaladı.
+el cirujano cardiovascular | kardiyovasküler cerrah | isim | El cirujano cardiovascular operó con precisión. | Kardiyovasküler cerrah hassasiyetle ameliyat yaptı.
+la pediatra neonatóloga | yenidoğan pediatristi | isim (d) | Consultaron con la pediatra neonatóloga. | Yenidoğan pediatristiyle istişare ettiler.
+el perito forense | adli bilirkişi | isim | El perito forense presentó su informe pericial. | Adli bilirkişi uzmanlık raporunu sundu.
+la farmacónoma clínica | klinik eczacı | isim (d) | La farmacónoma clínica revisó las recetas. | Klinik eczacı reçeteleri gözden geçirdi.
+el celador sanitario | hastane görevlisi | isim | El celador sanitario trasladó la camilla. | Hastane görevlisi sedyeyi taşıdı.
+la supervisora de planta | kat sorumlusu | isim (d) | La supervisora de planta controló el stock. | Kat sorumlusu stoğu kontrol etti.
+## Hukuki belgeler ve sözleşmeler
+la cláusula rescisoria | fesih maddesi | isim (d) | Activaron la cláusula rescisoria del contrato. | Sözleşmenin fesih maddesini devreye soktular.
+el poder notarial | noter vekâletnamesi | isim | Presentó un poder notarial válido. | Geçerli bir noter vekâletnamesi sundu.
+la escritura constitutiva | kuruluş senedi | isim (d) | Firmaron la escritura constitutiva de la sociedad. | Şirketin kuruluş senedini imzaladılar.
+el mandamiento judicial | mahkeme emri | isim | Emitieron un mandamiento judicial de busca. | Arama mahkeme emri çıkardılar.
+la fianza carcelaria | cezaevi kefaleti | isim (d) | Pagaron la fianza carcelaria exigida. | Talep edilen cezaevi kefaletini ödediler.
+el auto de procesamiento | iddianame kararı | isim | El juez dictó auto de procesamiento formal. | Hâkim resmi iddianame kararı çıkardı.
+la letra de cambio | poliçe | isim (d) | Protestaron la letra de cambio impagada. | Ödenmeyen poliçeyi protesto ettiler.
+el contrato blindado | korumalı sözleşme | isim | Firmaron un contrato blindado por cinco años. | Beş yıllık korumalı sözleşme imzaladılar.
+la sentencia firme | kesin hüküm | isim (d) | La sentencia firme no admite más recursos. | Kesin hüküm daha fazla temyiz kabul etmez.
+el edicto municipal | belediye ilanı | isim | Publicaron el edicto municipal en el boletín. | Belediye ilanını bültende yayınladılar.
+## Adli tıp ve incelemeler
+la autopsia clínica | klinik otopsi | isim (d) | La autopsia clínica reveló causas naturales. | Klinik otopsi doğal nedenleri ortaya çıkardı.
+el perfil genético | genetik profil | isim | Compararon el perfil genético en el laboratorio. | Laboratuvarda genetik profili karşılaştırdılar.
+la dactiloscopia forense | adli daktiloskopi | isim (d) | La dactiloscopia forense identificó al sospechoso. | Adli daktiloskopi şüpheliyi belirledi.
+el análisis toxicológico | toksikolojik analiz | isim | El análisis toxicológico dio negativo. | Toksikolojik analiz negatif çıktı.
+la balística interior | iç balistik | isim (d) | Estudiaron la balística interior del arma. | Silahın iç balistiğini incelediler.
+el informe tanatológico | tanatolojik rapor | isim | Redactaron el informe tanatológico preliminar. | Ön tanatolojik raporu yazdılar.
+la prueba de paternidad | babalık testi | isim (d) | Solicitaron una prueba de paternidad judicial. | Mahkeme babalık testi talep ettiler.
+el vestigio hemático | kan lekesi kalıntısı | isim | Analizaron cada vestigio hemático hallado. | Bulunan her kan lekesi kalıntısını analiz ettiler.
+la reconstrucción de hechos | olay yeri yeniden canlandırma | isim (d) | Hicieron la reconstrucción de hechos nocturna. | Gece olay yeri yeniden canlandırma yaptılar.
+el estudio entomológico | entomolojik çalışma | isim | El estudio entomológico determinó la data. | Entomolojik çalışma tarihi belirledi.
