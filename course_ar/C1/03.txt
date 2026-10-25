@@ -1,0 +1,111 @@
+# UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+## Mahkeme ve yargılama
+مَحْكَمَة الِاسْتِئْنَاف (maḥkamat al-istiʾnāf) | istinaf mahkemesi | isim (d) | ألغت محكمة الاستئناف الحكم الصادر في الدرجة الأولى. | İstinaf mahkemesi ilk derece mahkemesinin verdiği hükmü bozdu.
+مَحْكَمَة النَّقْض (maḥkamat an-naqḍ) | yargıtay, temyiz mahkemesi | isim (d) | أحيلت القضية إلى محكمة النقض للنظر في الجوانب القانونية. | Dava, hukuki yönlerinin incelenmesi için yargıtaya gönderildi.
+هَيْئَة الْمَحْكَمَة (hayʾat al-maḥkama) | mahkeme heyeti | isim (d) | انسحبت هيئة المحكمة للمداولة قبل النطق بالحكم. | Mahkeme heyeti hüküm açıklanmadan önce müzakere için çekildi.
+جَلْسَة عَلَنِيَّة (jalsa ʿalaniyya) | açık duruşma | isim (d) | عُقدت المحاكمة في جلسة علنية حضرها الصحفيون. | Yargılama, gazetecilerin de katıldığı açık bir duruşmada yapıldı.
+النِّيَابَة الْعَامَّة (an-niyāba al-ʿāmma) | savcılık | isim (d) | طالبت النيابة العامة بأقصى عقوبة للمتهمين. | Savcılık sanıklar için en ağır cezayı talep etti.
+مُدَّعٍ (muddaʿin) | davacı (belirli: الْمُدَّعِي) | isim (e) | قدّم المدعي مستندات جديدة تدعم طلبه. | Davacı talebini destekleyen yeni belgeler sundu.
+مُدَّعًى عَلَيْهِ (muddaʿan ʿalayh) | davalı | isim (e) | لم يحضر المدعى عليه الجلسة رغم إبلاغه رسميًا. | Davalı, resmen tebliğ edilmesine rağmen duruşmaya gelmedi.
+مُرَافَعَة (murāfaʿa) | savunma konuşması, duruşma beyanı (çoğ. مُرَافَعَات) | isim (d) | استمرت مرافعة المحامي أكثر من ساعتين. | Avukatın savunma konuşması iki saatten fazla sürdü.
+حُكْم غِيَابِيّ (ḥukm ghiyābiyy) | gıyabi hüküm | isim (e) | صدر بحقه حكم غيابي لأنه كان خارج البلاد. | Yurt dışında olduğu için hakkında gıyabi hüküm verildi.
+دَرَجَة التَّقَاضِي (darajat at-taqāḍī) | yargılama derecesi | isim (d) | يضمن النظام القضائي للمتقاضين درجتين من درجات التقاضي. | Yargı sistemi davalılara iki yargılama derecesi güvencesi verir.
+## Ceza hukuku
+جِنَايَة (jināya) | ağır suç, cürüm (çoğ. جِنَايَات) | isim (d) | يُعاقب القانون على هذه الجناية بالسجن عشر سنوات. | Kanun bu ağır suçu on yıl hapisle cezalandırıyor.
+جُنْحَة (junḥa) | hafif suç, kabahat (çoğ. جُنَح) | isim (d) | القيادة دون رخصة تُعد جنحة في معظم الدول. | Ehliyetsiz araç kullanmak çoğu ülkede hafif suç sayılır.
+سَوَابِق (sawābiq) | sabıka | isim (çoğul) | ليس للمتهم أي سوابق جنائية. | Sanığın hiçbir sabıka kaydı yok.
+قَصْد جِنَائِيّ (qaṣd jināʾiyy) | suç kastı | isim (e) | لم تستطع النيابة إثبات القصد الجنائي لدى المتهم. | Savcılık sanıktaki suç kastını ispatlayamadı.
+ظُرُوف مُخَفِّفَة (ẓurūf mukhaffifa) | hafifletici sebepler | isim (çoğul) | أخذت المحكمة بالظروف المخففة نظرًا لصغر سنه. | Mahkeme yaşının küçüklüğünü göz önüne alarak hafifletici sebepleri uyguladı.
+ظُرُوف مُشَدِّدَة (ẓurūf mushaddida) | ağırlaştırıcı sebepler | isim (çoğul) | يُعد استخدام السلاح من الظروف المشددة للعقوبة. | Silah kullanılması cezayı ağırlaştırıcı sebeplerden sayılır.
+شُرُوع (shurūʿ) | (suça) teşebbüs | isim (e) | أُدين بتهمة الشروع في السرقة. | Hırsızlığa teşebbüs suçlamasıyla mahkûm edildi.
+مُحَرِّض (muḥarriḍ) | azmettirici, kışkırtıcı | isim (e) | عاقب القانون المحرض بنفس عقوبة الفاعل. | Kanun azmettiriciyi fail ile aynı cezaya çarptırdı.
+تَوَاطُؤ (tawāṭuʾ) | gizli anlaşma, suç ortaklığı | isim (e) | كشف التحقيق عن تواطؤ بين الموظف واللصوص. | Soruşturma, memurla hırsızlar arasında gizli bir anlaşmayı ortaya çıkardı.
+سِجْن مُؤَبَّد (sijn muʾabbad) | müebbet hapis | isim (e) | حُكم على زعيم العصابة بالسجن المؤبد. | Çete liderine müebbet hapis cezası verildi.
+## Soruşturma ve delil
+أَدِلَّة جِنَائِيَّة (ʾadilla jināʾiyya) | adli deliller | isim (çoğul) | جمع الخبراء الأدلة الجنائية من مكان الحادث. | Uzmanlar olay yerinden adli delilleri topladı.
+بَصْمَة وِرَاثِيَّة (baṣma wirāthiyya) | genetik parmak izi, DNA profili | isim (d) | حسمت البصمة الوراثية القضية بعد سنوات من الغموض. | Genetik parmak izi, yıllarca süren belirsizliğin ardından davayı sonuçlandırdı.
+شَاهِد إِثْبَات (shāhid ʾithbāt) | iddia tanığı | isim (e) | استدعت النيابة شاهد إثبات جديدًا في الجلسة الأخيرة. | Savcılık son duruşmada yeni bir iddia tanığı çağırdı.
+شَهَادَة زُور (shahādat zūr) | yalancı tanıklık | isim (d) | تعرض الشاهد للملاحقة بتهمة شهادة الزور. | Tanık, yalancı tanıklık suçlamasıyla kovuşturmaya uğradı.
+اِسْتِنْطَاق (istinṭāq) | ifade alma, sorgu | isim (e) | استمر استنطاق المشتبه به ست ساعات متواصلة. | Şüphelinin ifadesinin alınması kesintisiz altı saat sürdü.
+مُصَادَرَة (muṣādara) | müsadere, el koyma | isim (d) | قضت المحكمة بمصادرة الأموال المتحصلة من الجريمة. | Mahkeme suçtan elde edilen paraların müsaderesine hükmetti.
+مُذَكِّرَة تَوْقِيف (mudhakkirat tawqīf) | yakalama kararı, tutuklama müzekkeresi | isim (d) | أصدر القاضي مذكرة توقيف بحق المشتبه به. | Hâkim şüpheli hakkında yakalama kararı çıkardı.
+حَبْس احْتِيَاطِيّ (ḥabs iḥtiyāṭiyy) | tutukluluk (yargılama öncesi) | isim (e) | قضى المتهم ستة أشهر في الحبس الاحتياطي قبل المحاكمة. | Sanık yargılamadan önce altı ay tutuklu kaldı.
+قَرِينَة الْبَرَاءَة (qarīnat al-barāʾa) | masumiyet karinesi | isim (d) | تقوم العدالة الجنائية على قرينة البراءة حتى تثبت الإدانة. | Ceza adaleti, suçluluk ispatlanana dek masumiyet karinesine dayanır.
+حِرْز (ḥirz) | muhafaza altındaki delil, emanet (çoğ. أَحْرَاز) | isim (e) | وُضعت السكين في حرز مختوم وأُرسلت إلى المختبر. | Bıçak mühürlü bir delil torbasına konup laboratuvara gönderildi.
+## Medeni hukuk
+دَعْوَى مَدَنِيَّة (daʿwā madaniyya) | hukuk davası | isim (d) | رفعت الجارة دعوى مدنية للمطالبة بإصلاح الجدار. | Komşu kadın duvarın onarılmasını talep etmek için hukuk davası açtı.
+ضَرَر (ḍarar) | zarar (çoğ. أَضْرَار) | isim (e) | قدّر الخبير الضرر الذي لحق بالمبنى بعشرة آلاف دينار. | Bilirkişi binanın uğradığı zararı on bin dinar olarak takdir etti.
+مَسْؤُولِيَّة تَقْصِيرِيَّة (masʾūliyya taqṣīriyya) | haksız fiil sorumluluğu | isim (d) | تقوم المسؤولية التقصيرية على الخطأ والضرر والعلاقة السببية. | Haksız fiil sorumluluğu kusur, zarar ve illiyet bağına dayanır.
+أَهْلِيَّة (ʾahliyya) | ehliyet (hukuki), fiil ehliyeti | isim (d) | لا يملك القاصر الأهلية الكاملة لإبرام العقود. | Küçüğün sözleşme yapmak için tam ehliyeti yoktur.
+سِنّ الرُّشْد (sinn ar-rushd) | reşit olma yaşı, erginlik | isim (d) | يبلغ الشاب سن الرشد القانونية عند الثامنة عشرة. | Genç, on sekiz yaşında yasal erginlik yaşına ulaşır.
+تَقَادُم (taqādum) | zamanaşımı | isim (e) | سقطت الدعوى بالتقادم بعد مرور خمس عشرة سنة. | Dava on beş yıl geçtikten sonra zamanaşımına uğradı.
+حِيَازَة (ḥiyāza) | zilyetlik, elde bulundurma | isim (d) | أثبت المزارع حيازته للأرض منذ ثلاثين عامًا. | Çiftçi otuz yıldır arazinin zilyedi olduğunu kanıtladı.
+اِرْتِفَاق (irtifāq) | irtifak hakkı | isim (e) | للجار حق ارتفاق بالمرور عبر هذه الأرض. | Komşunun bu araziden geçmek için irtifak hakkı var.
+ذِمَّة مَالِيَّة (dhimma māliyya) | malvarlığı (hukuki) | isim (d) | تتمتع الشركة بذمة مالية مستقلة عن ذمم الشركاء. | Şirket, ortaklarınkinden bağımsız bir malvarlığına sahiptir.
+وِصَايَة (wiṣāya) | vasilik | isim (d) | أُسندت الوصاية على الأطفال إلى عمهم. | Çocukların vasiliği amcalarına verildi.
+## Aile ve miras hukuku
+حَقّ الرُّؤْيَة (ḥaqq ar-ruʾya) | (çocuğu) görme hakkı | isim (e) | منحت المحكمة الأب حق الرؤية مرتين في الأسبوع. | Mahkeme babaya haftada iki kez çocuğunu görme hakkı tanıdı.
+تَرِكَة (tarika) | tereke, miras kalan mal | isim (d) | قُسمت التركة بين الورثة وفقًا للقانون. | Tereke mirasçılar arasında kanuna göre paylaştırıldı.
+وَارِث (wārith) | mirasçı, varis (çoğ. وَرَثَة) | isim (e) | اتفق الورثة على بيع البيت القديم. | Mirasçılar eski evi satmak konusunda anlaştı.
+وَصِيّ (waṣiyy) | vasi; vasiyeti yerine getiren kişi (çoğ. أَوْصِيَاء) | isim (e) | عيّنت المحكمة خالهم وصيًا على أموالهم. | Mahkeme dayılarını mallarına vasi olarak atadı.
+حَصْر الْإِرْث (ḥaṣr al-ʾirth) | veraset ilamı, mirasçılık belgesi | isim (e) | طلب البنك وثيقة حصر الإرث قبل صرف المبلغ. | Banka parayı ödemeden önce veraset ilamı istedi.
+نَسَب (nasab) | soy, nesep | isim (e) | أثبت تحليل الحمض النووي نسب الطفل. | DNA testi çocuğun nesebini kanıtladı.
+وِلَايَة (wilāya) | velayet; vilayet, eyalet | isim (d) | تبقى الولاية على أموال القاصر للأب حتى سن الرشد. | Küçüğün malları üzerindeki velayet ergin olana dek babada kalır.
+مَهْر (mahr) | mehir | isim (e) | يُذكر المهر عادةً في عقد الزواج. | Mehir genellikle nikâh sözleşmesinde belirtilir.
+قِسْمَة (qisma) | taksim, paylaştırma (mal) | isim (d) | طلب أحد الشركاء قسمة الأرض قسمة رضائية. | Ortaklardan biri arazinin rızai taksimini talep etti.
+كَفَالَة (kafāla) | kefalet; (aile hukuku) koruyucu bakım | isim (d) | أُفرج عن المتهم بكفالة مالية قدرها ألف دينار. | Sanık bin dinarlık kefaletle serbest bırakıldı.
+## Anayasa ve idare hukuku
+دُسْتُورِيّ (dustūriyy) | anayasal | sıfat | يحمي هذا الحق نص دستوري صريح. | Bu hakkı açık bir anayasa hükmü koruyor.
+مَحْكَمَة دُسْتُورِيَّة (maḥkama dustūriyya) | anayasa mahkemesi | isim (d) | قضت المحكمة الدستورية بعدم دستورية المادة الخامسة. | Anayasa mahkemesi beşinci maddenin anayasaya aykırı olduğuna hükmetti.
+سُلْطَة قَضَائِيَّة (sulṭa qaḍāʾiyya) | yargı erki | isim (d) | يضمن الدستور استقلال السلطة القضائية. | Anayasa yargı erkinin bağımsızlığını güvence altına alır.
+قَانُون أَسَاسِيّ (qānūn ʾasāsiyy) | temel kanun; ana statü | isim (e) | يحدد القانون الأساسي للجمعية شروط العضوية. | Derneğin ana statüsü üyelik şartlarını belirler.
+لَائِحَة تَنْفِيذِيَّة (lāʾiḥa tanfīdhiyya) | uygulama yönetmeliği | isim (d) | تحدد اللائحة التنفيذية تفاصيل تطبيق القانون. | Uygulama yönetmeliği kanunun nasıl uygulanacağının ayrıntılarını belirler.
+قَرَار إِدَارِيّ (qarār ʾidāriyy) | idari işlem, idari karar | isim (e) | طعن الموظف في القرار الإداري أمام القضاء. | Memur idari karara yargı önünde itiraz etti.
+حَصَانَة (ḥaṣāna) | dokunulmazlık | isim (d) | رُفعت الحصانة عن النائب للتحقيق معه. | Hakkında soruşturma yapılabilmesi için milletvekilinin dokunulmazlığı kaldırıldı.
+تَشْرِيع (tashrīʿ) | yasama, mevzuat (çoğ. تَشْرِيعَات) | isim (e) | تحتاج التجارة الإلكترونية إلى تشريع حديث ينظمها. | E-ticaretin onu düzenleyen modern bir mevzuata ihtiyacı var.
+بُطْلَان (buṭlān) | hükümsüzlük, butlan | isim (e) | قضت المحكمة ببطلان العقد لمخالفته النظام العام. | Mahkeme, kamu düzenine aykırı olduğu için sözleşmenin hükümsüzlüğüne karar verdi.
+مَشْرُوعِيَّة (mashrūʿiyya) | hukuka uygunluk, meşruluk | isim (d) | يراقب القضاء الإداري مشروعية قرارات الحكومة. | İdari yargı hükümet kararlarının hukuka uygunluğunu denetler.
+## Hukuki fiiller
+قَاضَى (qāḍā) | dava etmek, mahkemeye vermek (geniş z.: يُقَاضِي) | fiil · düzensiz | قرر المستأجر مقاضاة المالك بسبب الإهمال. | Kiracı, ihmal nedeniyle ev sahibini dava etmeye karar verdi.
+اِحْتَجَزَ (iḥtajaza) | gözaltına almak, alıkoymak (geniş z.: يَحْتَجِزُ) | fiil | احتجزت الشرطة السائق للتحقيق معه. | Polis sürücüyü sorgulamak üzere gözaltına aldı.
+جَرَّمَ (jarrama) | suç saymak, suç olarak tanımlamak (geniş z.: يُجَرِّمُ) | fiil | يجرّم القانون الجديد نشر البيانات الشخصية دون إذن. | Yeni kanun kişisel verilerin izinsiz paylaşılmasını suç sayıyor.
+طَعَنَ (ṭaʿana) | itiraz etmek, (karara) karşı başvurmak (فِي ile) (geniş z.: يَطْعَنُ) | fiil | طعن الدفاع في صحة الأدلة المقدمة. | Savunma sunulan delillerin geçerliliğine itiraz etti.
+أَبْطَلَ (ʾabṭala) | iptal etmek, geçersiz kılmak (geniş z.: يُبْطِلُ) | fiil | أبطل القاضي إجراءات البيع لعدم قانونيتها. | Hâkim satış işlemlerini hukuka aykırı olduğu için iptal etti.
+أَقَرَّ (ʾaqarra) | ikrar etmek, kabul etmek; onaylamak (geniş z.: يُقِرُّ) | fiil · düzensiz | أقرّ المتهم بالتهم الموجهة إليه. | Sanık kendisine yöneltilen suçlamaları ikrar etti.
+نَصَّ عَلَى (naṣṣa ʿalā) | öngörmek, hükme bağlamak (geniş z.: يَنُصُّ) | fiil · düzensiz | تنص المادة العاشرة على حرية التعبير. | Onuncu madde ifade özgürlüğünü hükme bağlar.
+صَادَقَ عَلَى (ṣādaqa ʿalā) | onaylamak, tasdik etmek (geniş z.: يُصَادِقُ) | fiil | صادق البرلمان على الاتفاقية الدولية. | Parlamento uluslararası sözleşmeyi onayladı.
+أَحَالَ (ʾaḥāla) | sevk etmek, havale etmek (إِلَى ile) (geniş z.: يُحِيلُ) | fiil · düzensiz | أحالت النيابة الملف إلى محكمة الجنايات. | Savcılık dosyayı ağır ceza mahkemesine sevk etti.
+أَسْقَطَ (ʾasqaṭa) | düşürmek (dava, hak); devirmek (geniş z.: يُسْقِطُ) | fiil | أسقطت الشركة الدعوى بعد التوصل إلى اتفاق. | Şirket bir anlaşmaya varıldıktan sonra davayı düşürdü.
+## Hukuki kalıplar
+بِمُقْتَضَى (bi-muqtaḍā) | gereğince, uyarınca | edat | يحق لك بمقتضى هذا العقد استرداد المبلغ كاملًا. | Bu sözleşme gereğince tutarın tamamını geri alma hakkın var.
+وَفْقًا لِأَحْكَامِ (wafqan li-ʾaḥkāmi) | hükümleri uyarınca | ifade | تُوزع الأرباح وفقًا لأحكام النظام الأساسي. | Kâr, ana sözleşme hükümleri uyarınca dağıtılır.
+مَا لَمْ يُنَصَّ عَلَى خِلَافِ ذٰلِكَ (mā lam yunaṣṣa ʿalā khilāfi dhālik) | aksi öngörülmedikçe | ifade | تطبق هذه القواعد ما لم يُنص على خلاف ذلك. | Aksi öngörülmedikçe bu kurallar uygulanır.
+لَاغٍ (lāghin) | hükümsüz, geçersiz (belirli: اللَّاغِي) | sıfat | يُعد كل شرط مخالف لهذا القانون لاغيًا. | Bu kanuna aykırı her şart hükümsüz sayılır.
+دُونَ الْإِخْلَالِ بِـ (dūna l-ʾikhlāli bi-) | -e halel getirmeksizin | ifade | دون الإخلال بحقوق الغير، يجوز للمالك بيع العقار. | Üçüncü kişilerin haklarına halel getirmeksizin malik taşınmazı satabilir.
+مَعَ مُرَاعَاةِ (maʿa murāʿāti) | göz önünde bulundurularak, saklı kalmak kaydıyla | ifade | مع مراعاة أحكام المادة السابقة، يُمنح الموظف إجازة سنوية. | Önceki madde hükümleri saklı kalmak kaydıyla çalışana yıllık izin verilir.
+اِعْتِبَارًا مِنْ (iʿtibāran min) | -den itibaren | ifade | يسري هذا القرار اعتبارًا من أول يناير. | Bu karar bir ocaktan itibaren yürürlüğe girer.
+عَلَى أَنْ (ʿalā ʾan) | şartıyla, -mek kaydıyla | bağlaç | يجوز تأجير العقار على أن يوافق المالك كتابيًا. | Malikin yazılı onay vermesi kaydıyla taşınmaz kiraya verilebilir.
+لَا يَجُوزُ (lā yajūzu) | caiz değildir, -emez | ifade | لا يجوز توقيف أي شخص إلا بأمر قضائي. | Hiç kimse yargı kararı olmadan tutuklanamaz.
+يُعْمَلُ بِهٰذَا الْقَانُونِ (yuʿmalu bi-hādhā l-qānūn) | bu kanun yürürlüğe girer | ifade | يُعمل بهذا القانون من تاريخ نشره في الجريدة الرسمية. | Bu kanun Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.
+## Hukuk meslekleri
+مُدَّعٍ عَامّ (muddaʿin ʿāmm) | savcı (belirli: الْمُدَّعِي الْعَامّ) | isim (e) | وجّه المدعي العام اتهامات رسمية إلى ثلاثة أشخاص. | Savcı üç kişi hakkında resmî suçlama yöneltti.
+خَبِير قَضَائِيّ (khabīr qaḍāʾiyy) | bilirkişi | isim (e) | عيّنت المحكمة خبيرًا قضائيًا لتقدير قيمة الأرض. | Mahkeme arazinin değerini takdir etmesi için bir bilirkişi atadı.
+مُحْضِر قَضَائِيّ (muḥḍir qaḍāʾiyy) | mübaşir, tebligat memuru | isim (e) | سلّم المحضر القضائي الإنذار إلى المدين شخصيًا. | Tebligat memuru ihtarnameyi borçluya bizzat teslim etti.
+نِقَابَة الْمُحَامِينَ (niqābat al-muḥāmīn) | baro | isim (d) | انتُخبت رئيسة جديدة لنقابة المحامين. | Baroya yeni bir başkan seçildi.
+تَوْكِيل (tawkīl) | vekâletname, vekâlet | isim (e) | منح أخاه توكيلًا عامًا لإدارة أملاكه. | Mülklerini yönetmesi için kardeşine genel vekâletname verdi.
+اِسْتِشَارَة قَانُونِيَّة (istishāra qānūniyya) | hukuki danışmanlık | isim (d) | تقدم الجمعية استشارة قانونية مجانية للعمال. | Dernek işçilere ücretsiz hukuki danışmanlık veriyor.
+فَقِيه قَانُونِيّ (faqīh qānūniyy) | hukuk bilgini | isim (e) | استند القاضي إلى رأي فقيه قانوني معروف. | Hâkim tanınmış bir hukuk bilgininin görüşüne dayandı.
+سَابِقَة قَضَائِيَّة (sābiqa qaḍāʾiyya) | emsal karar | isim (d) | يشكل هذا الحكم سابقة قضائية في قضايا البيئة. | Bu hüküm çevre davalarında emsal karar niteliği taşıyor.
+اِجْتِهَاد قَضَائِيّ (ijtihād qaḍāʾiyy) | yargı içtihadı | isim (e) | استقر الاجتهاد القضائي على هذا التفسير منذ سنوات. | Yargı içtihadı yıllardır bu yorumda karar kılmış durumda.
+قَاضِي التَّحْقِيق (qāḍī t-taḥqīq) | sorgu hâkimi | isim (e) | استمع قاضي التحقيق إلى أقوال الشهود. | Sorgu hâkimi tanıkların ifadelerini dinledi.
+## Uluslararası hukuk ve uyuşmazlık çözümü
+تَحْكِيم دَوْلِيّ (taḥkīm dawliyy) | uluslararası tahkim | isim (e) | لجأت الشركتان إلى التحكيم الدولي لحل النزاع. | İki şirket uyuşmazlığı çözmek için uluslararası tahkime başvurdu.
+وَسَاطَة (wasāṭa) | arabuluculuk; aracılık, torpil | isim (d) | نجحت الوساطة في إنهاء الخلاف دون محاكمة. | Arabuluculuk anlaşmazlığı yargılamaya gerek kalmadan sona erdirmeyi başardı.
+تَسْوِيَة وُدِّيَّة (taswiya wuddiyya) | sulh, dostane çözüm | isim (d) | فضّل الطرفان التسوية الودية على اللجوء إلى القضاء. | Taraflar yargıya başvurmak yerine dostane çözümü tercih etti.
+اِخْتِصَاص قَضَائِيّ (ikhtiṣāṣ qaḍāʾiyy) | yargı yetkisi | isim (e) | دفع المحامي بعدم الاختصاص القضائي للمحكمة. | Avukat mahkemenin yargı yetkisi bulunmadığını ileri sürdü.
+تَسْلِيم الْمُجْرِمِينَ (taslīm al-mujrimīn) | suçluların iadesi | isim (e) | وقّعت الدولتان اتفاقية لتسليم المجرمين. | İki devlet suçluların iadesine dair bir anlaşma imzaladı.
+قَانُون الْبِحَار (qānūn al-biḥār) | deniz hukuku | isim (e) | ينظم قانون البحار حقوق الدول في مياهها الإقليمية. | Deniz hukuku devletlerin karasularındaki haklarını düzenler.
+مَحْكَمَة الْعَدْل الدَّوْلِيَّة (maḥkamat al-ʿadl ad-dawliyya) | Uluslararası Adalet Divanı | isim (d) | يقع مقر محكمة العدل الدولية في مدينة لاهاي. | Uluslararası Adalet Divanı'nın merkezi Lahey şehrindedir.
+قَانُون دَوْلِيّ عَامّ (qānūn dawliyy ʿāmm) | uluslararası kamu hukuku | isim (e) | تدرس ابنتي القانون الدولي العام في جامعة القاهرة. | Kızım Kahire Üniversitesi'nde uluslararası kamu hukuku okuyor.
+اِتِّفَاقِيَّة ثُنَائِيَّة (ittifāqiyya thunāʾiyya) | ikili anlaşma | isim (d) | تنظم اتفاقية ثنائية حقوق العمال بين البلدين. | İki ülke arasındaki işçi haklarını ikili bir anlaşma düzenliyor.
+تَحَفُّظ (taḥaffuẓ) | çekince, ihtiraz kaydı (çoğ. تَحَفُّظَات) | isim (e) | وقّعت الدولة على المعاهدة مع تحفظ على مادتين. | Devlet antlaşmayı iki maddeye çekince koyarak imzaladı.
