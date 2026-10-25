@@ -1,0 +1,111 @@
+# UNIT: Resmî üslup | Bürokratik dil, resmî yazışma, kalıplar
+## Bürokratik isimler
+l'istanza (d) | dilekçe, başvuru | isim (d) | L'istanza deve essere presentata in carta semplice all'ufficio competente. | Dilekçe yetkili daireye düz kâğıtla verilmelidir.
+la modulistica | resmî formlar | isim (d) | Tutta la modulistica è scaricabile dal sito del comune. | Bütün resmî formlar belediyenin sitesinden indirilebilir.
+il protocollo | evrak kayıt numarası; protokol | isim (e) | La sua domanda è stata registrata con il numero di protocollo 4521. | Başvurunuz 4521 evrak kayıt numarasıyla kaydedildi.
+il bollettino postale | posta ödeme formu | isim (e) | La tassa si paga con un bollettino postale intestato al ministero. | Harç bakanlık adına düzenlenmiş bir posta ödeme formuyla ödenir.
+l'autocertificazione (d) | beyanname (kişinin kendi beyanı) | isim (d) | Al posto del certificato può presentare un'autocertificazione firmata. | Belge yerine imzalı bir kişisel beyan sunabilirsiniz.
+il nulla osta | sakıncası yoktur belgesi, izin | isim (e) | Senza il nulla osta della Soprintendenza non si può modificare la facciata. | Koruma kurulunun izni olmadan cephe değiştirilemez.
+il domicilio | ikametgâh, adres | isim (e) | Comunichi tempestivamente all'ufficio ogni variazione del proprio domicilio o recapito. | İkametgâhınızdaki ya da iletişim adresinizdeki her değişikliği daireye derhal bildirin.
+il fascicolo | dosya (resmî) | isim (e) | Il fascicolo del dipendente contiene tutti i documenti della sua carriera. | Çalışanın dosyası kariyerine ait bütün belgeleri içeriyor.
+l'iter burocratico (e) | bürokratik süreç | isim (e) | L'iter burocratico per aprire un ristorante può durare diversi mesi. | Restoran açmak için bürokratik süreç birkaç ay sürebilir.
+l'adempimento (e) | yükümlülük, yerine getirme | isim (e) | Gli adempimenti fiscali di fine anno spaventano molti piccoli imprenditori. | Yıl sonu vergi yükümlülükleri pek çok küçük girişimciyi korkutuyor.
+## Bürokratik fiiller
+espletare | yerine getirmek, tamamlamak (resmî) | fiil | Le pratiche saranno espletate entro trenta giorni dalla richiesta. | İşlemler talepten itibaren otuz gün içinde tamamlanacak.
+istruire una pratica | dosyayı hazırlamak, incelemeye almak | ifade | L'ufficio impiega circa due mesi per istruire una pratica di questo tipo. | Daire bu tür bir dosyayı hazırlamak için yaklaşık iki ay harcıyor.
+ottemperare | uymak, yerine getirmek | fiil | L'azienda non ha ottemperato agli obblighi previsti dalla normativa. | Şirket mevzuatın öngördüğü yükümlülüklere uymadı.
+protocollare | evrak kaydına almak | fiil | La segreteria deve protocollare ogni documento in entrata. | Sekreterlik gelen her belgeyi evrak kaydına almalıdır.
+vidimare | onaylamak, mühürlemek | fiil | Il registro deve essere vidimato dal notaio prima dell'uso. | Defter kullanılmadan önce noter tarafından onaylanmalıdır.
+autenticare | tasdik etmek | fiil | In comune possono autenticare la firma sul documento di vendita. | Belediyede satış belgesindeki imza tasdik edilebilir.
+notificare | tebliğ etmek | fiil | L'atto è stato notificato al destinatario tramite posta certificata. | İşlem alıcıya kayıtlı elektronik posta yoluyla tebliğ edildi.
+rilasciare | vermek, düzenlemek (belge) | fiil | Il passaporto viene rilasciato dalla questura in circa un mese. | Pasaport emniyet müdürlüğü tarafından yaklaşık bir ayda veriliyor.
+sollecitare | hatırlatmak, acele ettirmek | fiil | Ho dovuto sollecitare più volte l'ufficio per avere una risposta. | Yanıt alabilmek için daireye birkaç kez hatırlatmada bulunmak zorunda kaldım.
+pervenire (pervenuto) | ulaşmak (resmî) | fiil · düzensiz | Le domande dovranno pervenire entro il trenta settembre. | Başvuruların otuz eylüle kadar ulaşması gerekir.
+## Mektup açılış ve kapanışları
+Pregiatissimo | Çok değerli (resmî hitap) | sıfat | Pregiatissimo professore, la ringrazio per la sua cortese disponibilità. | Çok değerli hocam, nazik ilginiz için size teşekkür ederim.
+Egregio | Sayın (erkeğe, resmî) | sıfat | Egregio avvocato, le invio in allegato i documenti richiesti. | Sayın avukat, istenen belgeleri ekte gönderiyorum.
+Spettabile | Sayın (kurumlara) | sıfat | Spettabile ditta, vi chiediamo un preventivo per la fornitura di carta. | Sayın firma, kâğıt tedariki için bir fiyat teklifi rica ediyoruz.
+alla cortese attenzione di | ... dikkatine | ifade | La lettera è indirizzata alla cortese attenzione del responsabile acquisti. | Mektup satın alma sorumlusunun dikkatine yazılmıştır.
+distinti saluti | saygılarımla | ifade | Restando in attesa di una vostra risposta, porgo distinti saluti. | Yanıtınızı beklerken saygılarımı sunarım.
+cordiali saluti | içten selamlarımla | ifade | Grazie ancora per la collaborazione e cordiali saluti da tutto l'ufficio. | İş birliğiniz için tekrar teşekkürler, bütün ofisten içten selamlar.
+in attesa di un cortese riscontro | nazik yanıtınızı bekleyerek | ifade | In attesa di un cortese riscontro, rimango a disposizione per chiarimenti. | Nazik yanıtınızı beklerken açıklamalar için hazırda bulunuyorum.
+con osservanza | hürmetlerimle | ifade | La lettera al prefetto si chiudeva con la formula con osservanza. | Valiye yazılan mektup "hürmetlerimle" kalıbıyla bitiyordu.
+la ringrazio anticipatamente | şimdiden teşekkür ederim | ifade | La ringrazio anticipatamente per l'attenzione che vorrà dedicarmi. | Bana ayıracağınız ilgi için şimdiden teşekkür ederim.
+resto a disposizione | hizmetinizdeyim, her zaman ulaşabilirsiniz | ifade | Per qualsiasi ulteriore informazione o chiarimento, resto a disposizione. | Her türlü ek bilgi veya açıklama için hizmetinizdeyim.
+## Resmî yazışma kalıpları
+in riferimento a | ... ile ilgili olarak | edat | In riferimento alla vostra email del tre marzo, vi comunichiamo quanto segue. | Üç mart tarihli e-postanızla ilgili olarak size şunları bildiririz.
+con la presente | işbu yazı ile | ifade | Con la presente si comunica la chiusura degli uffici per inventario. | İşbu yazı ile envanter nedeniyle dairelerin kapalı olacağı bildirilir.
+facendo seguito a | ... devamı olarak | ifade | Facendo seguito alla nostra telefonata, le invio il programma del corso. | Telefon görüşmemizin devamı olarak size kurs programını gönderiyorum.
+si comunica che | ... bildirilir | ifade | Si comunica che lo sportello resterà chiuso lunedì per lavori. | Gişenin pazartesi günü çalışma nedeniyle kapalı kalacağı bildirilir.
+si prega di | ... rica olunur | ifade | Si prega di non lasciare bagagli incustoditi nella sala d'attesa. | Bekleme salonunda bavulların sahipsiz bırakılmaması rica olunur.
+la Signoria Vostra | Zatıâliniz (çok resmî) | ifade | Si invita la Signoria Vostra a presentarsi presso i nostri uffici. | Zatıâlinizin bürolarımıza gelmesi rica olunur.
+in allegato | ekte | ifade | In allegato trova il modulo compilato e la ricevuta del pagamento. | Ekte doldurulmuş formu ve ödeme makbuzunu bulabilirsiniz.
+entro e non oltre | en geç | ifade | Il pagamento va effettuato entro e non oltre il quindici del mese. | Ödeme en geç ayın on beşine kadar yapılmalıdır.
+in data odierna | bugün itibarıyla | ifade | In data odierna è stata trasmessa la documentazione richiesta. | İstenen belgeler bugün itibarıyla iletildi.
+a stretto giro | çok kısa sürede | ifade | Vi daremo una risposta definitiva a stretto giro di posta. | Size çok kısa sürede kesin bir yanıt vereceğiz.
+## Bürokrasi dili (burocratese)
+il burocratese | bürokrasi dili, kırtasiye dili | isim (e) | Il burocratese rende incomprensibili anche le comunicazioni più semplici. | Bürokrasi dili en basit duyuruları bile anlaşılmaz hâle getiriyor.
+suddetto | adı geçen, yukarıda belirtilen | sıfat | Il suddetto immobile risulta di proprietà del comune dal 1980. | Adı geçen taşınmaz 1980'den beri belediyenin mülkü görünüyor.
+summenzionato | yukarıda anılan | sıfat | La summenzionata società non ha presentato la documentazione richiesta. | Yukarıda anılan şirket istenen belgeleri sunmadı.
+codesto | sizin (o) (resmî yazışmada) | sıfat | Si chiede a codesto ufficio di trasmettere copia del verbale. | Sizin dairenizden tutanağın bir kopyasının iletilmesi istenir.
+all'uopo | bu amaçla | ifade | È stata costituita all'uopo una commissione di tre esperti. | Bu amaçla üç uzmandan oluşan bir komisyon kuruldu.
+il medesimo | aynı, söz konusu | sıfat | Il richiedente e il medesimo dichiarano di accettare le condizioni. | Başvurucu ve söz konusu kişi koşulları kabul ettiklerini beyan eder.
+ove | ... olduğu takdirde; nerede (resmî) | bağlaç | Ove necessario, l'ufficio richiederà al cittadino ulteriore documentazione integrativa. | Gerekli olduğu takdirde daire vatandaştan ek tamamlayıcı belgeler isteyecektir.
+ivi | orada (resmî) | zarf | Il defunto nacque a Lecce e ivi visse per tutta la vita. | Merhum Lecce'de doğdu ve bütün hayatı boyunca orada yaşadı.
+testé | az önce (edebî, resmî) | zarf | Come testé ricordato dal presidente, la seduta è pubblica. | Başkanın az önce hatırlattığı gibi oturum açıktır.
+il sottoscritto richiedente | aşağıda imzası olan başvurucu | ifade | Il sottoscritto richiedente chiede il rilascio di un certificato storico. | Aşağıda imzası olan başvurucu bir geçmiş kayıt belgesi verilmesini talep eder.
+## Kamu daireleri
+l'ufficio di stato civile (e) | nüfus ve evlendirme dairesi | isim (e) | All'ufficio di stato civile si registrano nascite, matrimoni e decessi. | Nüfus ve evlendirme dairesinde doğumlar, evlilikler ve ölümler kaydedilir.
+l'ufficio relazioni con il pubblico (e) | halkla ilişkiler bürosu (kamu) | isim (e) | Per informazioni sugli orari rivolgetevi all'ufficio relazioni con il pubblico. | Çalışma saatleri hakkında bilgi için halkla ilişkiler bürosuna başvurun.
+il catasto | tapu kadastro | isim (e) | Al catasto risulta che la casa ha sei vani e un garage. | Kadastroda evin altı odası ve bir garajı olduğu görünüyor.
+l'agenzia delle entrate (d) | vergi dairesi (gelir idaresi) | isim (d) | L'agenzia delle entrate ha inviato un avviso di pagamento per il 2022. | Gelir idaresi 2022 için bir ödeme ihbarnamesi gönderdi.
+la camera di commercio | ticaret odası | isim (d) | Per avviare l'attività devi iscriverti alla camera di commercio. | Faaliyete başlamak için ticaret odasına kaydolman gerekiyor.
+la motorizzazione | trafik tescil dairesi | isim (d) | L'esame di guida si sostiene presso la motorizzazione civile. | Sürücü sınavı trafik tescil dairesinde yapılır.
+il patronato | sosyal hak danışma bürosu | isim (e) | Il patronato aiuta gratuitamente i lavoratori con le pratiche della pensione. | Sosyal hak danışma bürosu çalışanlara emeklilik işlemlerinde ücretsiz yardım ediyor.
+l'ufficio protocollo (e) | evrak kayıt bürosu | isim (e) | Consegni la domanda all'ufficio protocollo al piano terra. | Başvuruyu zemin kattaki evrak kayıt bürosuna teslim edin.
+l'ente previdenziale (e) | sosyal güvenlik kurumu | isim (e) | L'ente previdenziale calcola la pensione in base ai contributi versati. | Sosyal güvenlik kurumu emekli maaşını ödenen primlere göre hesaplar.
+la soprintendenza | (kültür varlıklarını) koruma müdürlüğü | isim (d) | La soprintendenza ha bloccato i lavori dopo la scoperta di reperti antichi. | Koruma müdürlüğü antik buluntular keşfedilince çalışmaları durdurdu.
+## Resmî belgeler
+la partita IVA | vergi numarası (serbest meslek, işletme) | isim (d) | Per lavorare come libero professionista bisogna aprire la partita IVA. | Serbest meslek sahibi olarak çalışmak için vergi numarası açtırmak gerekir.
+il visto d'ingresso | giriş vizesi | isim (e) | Per alcuni paesi extraeuropei serve un visto d'ingresso. | Avrupa dışındaki bazı ülkelerden gelenler için giriş vizesi gerekir.
+lo stato di famiglia | aile nüfus kayıt örneği | isim (e) | Lo stato di famiglia indica tutte le persone residenti nella stessa abitazione. | Aile nüfus kayıt örneği aynı konutta ikamet eden herkesi gösterir.
+la visura camerale | ticaret sicil kaydı | isim (d) | Prima di firmare abbiamo controllato la visura camerale del fornitore. | İmzalamadan önce tedarikçinin ticaret sicil kaydını kontrol ettik.
+il certificato penale | adli sicil kaydı | isim (e) | Per lavorare con i minori è richiesto il certificato penale. | Çocuklarla çalışmak için adli sicil kaydı isteniyor.
+la cartella esattoriale | vergi ödeme emri | isim (d) | È arrivata una cartella esattoriale per una multa mai pagata. | Hiç ödenmemiş bir ceza için vergi ödeme emri geldi.
+il libretto di circolazione | araç ruhsatı | isim (e) | Il vigile ha chiesto patente e libretto di circolazione. | Trafik polisi ehliyet ve araç ruhsatı istedi.
+la posta elettronica certificata | kayıtlı elektronik posta (KEP) | isim (d) | Le comunicazioni ufficiali arrivano tramite posta elettronica certificata. | Resmî bildirimler kayıtlı elektronik posta yoluyla geliyor.
+il certificato di residenza | ikametgâh belgesi | isim (e) | Il certificato di residenza si può scaricare online in pochi minuti. | İkametgâh belgesi birkaç dakikada internetten indirilebilir.
+il documento di riconoscimento | kimlik belgesi | isim (e) | All'ingresso del seggio bisogna esibire un documento di riconoscimento valido. | Sandık yerinin girişinde geçerli bir kimlik belgesi göstermek gerekir.
+## Resmî sıfat ve zarflar
+debitamente | usulüne uygun olarak | zarf | Il modulo deve essere debitamente compilato e firmato in ogni pagina. | Form usulüne uygun olarak doldurulmalı ve her sayfası imzalanmalıdır.
+previo | ... üzerine, önceden ... ile | sıfat | Le visite al museo si effettuano previo appuntamento telefonico. | Müze ziyaretleri telefonla önceden randevu alınarak yapılır.
+tassativo | kesin, kesinlikle | sıfat | Il termine del dieci giugno è tassativo e non sono ammesse eccezioni. | On haziran tarihi kesindir ve istisna kabul edilmez.
+perentorio | kesin, kesin süreli | sıfat | Il giudice ha fissato un termine perentorio di venti giorni. | Hâkim yirmi günlük kesin bir süre belirledi.
+improrogabile | uzatılamaz | sıfat | La scadenza per l'iscrizione al concorso è improrogabile. | Sınava kayıt için son tarih uzatılamaz.
+apposito | özel, bu amaçla hazırlanmış | sıfat | Scrivete i vostri dati nell'apposito spazio in fondo alla pagina. | Bilgilerinizi sayfanın altındaki özel alana yazın.
+in calce | altta, sayfa sonunda | ifade | Apporre la firma in calce al documento, sotto la data. | İmzayı belgenin altına, tarihin altına atın.
+sottoindicato | aşağıda belirtilen | sıfat | Il pagamento va effettuato sul conto corrente sottoindicato. | Ödeme aşağıda belirtilen hesaba yapılmalıdır.
+contestualmente | aynı anda, eş zamanlı olarak | zarf | Contestualmente alla domanda, va versata la tassa di iscrizione. | Başvuruyla eş zamanlı olarak kayıt harcı yatırılmalıdır.
+pena l'esclusione | aksi hâlde başvuru geçersiz sayılır | ifade | Le domande vanno firmate a mano, pena l'esclusione dal concorso. | Başvurular elle imzalanmalıdır, aksi hâlde sınavdan çıkarılır.
+## Başvuru ve talepler
+l'esposto (e) | şikâyet dilekçesi (yetkili makama) | isim (e) | I residenti hanno presentato un esposto contro i rumori notturni del locale. | Sakinler mekânın gece gürültüsüne karşı şikâyet dilekçesi verdi.
+l'accesso agli atti (e) | belgelere erişim hakkı | isim (e) | Con l'accesso agli atti il cittadino può consultare i documenti che lo riguardano. | Belgelere erişim hakkıyla vatandaş kendisini ilgilendiren belgeleri inceleyebilir.
+la proroga | süre uzatımı | isim (d) | Abbiamo chiesto una proroga di due mesi per concludere i lavori. | İşleri bitirmek için iki aylık bir süre uzatımı istedik.
+la sanatoria | düzeltme, af (idari) | isim (d) | Con la sanatoria il proprietario ha regolarizzato la veranda abusiva. | Mal sahibi idari afla kaçak kapalı balkonunu yasallaştırdı.
+l'esonero (e) | muafiyet (görevden) | isim (e) | Lo studente ha ottenuto l'esonero dalle lezioni di educazione fisica. | Öğrenci beden eğitimi derslerinden muafiyet aldı.
+l'esenzione (d) | muafiyet (ödemeden) | isim (d) | Gli anziani con basso reddito hanno diritto all'esenzione dal ticket sanitario. | Düşük gelirli yaşlıların sağlık katkı payından muafiyet hakkı var.
+la graduatoria | sıralama listesi | isim (d) | La graduatoria definitiva del concorso sarà pubblicata a dicembre. | Sınavın kesin sıralama listesi aralıkta yayımlanacak.
+la decadenza | (haktan) düşme | isim (d) | Il mancato pagamento comporta la decadenza dal beneficio. | Ödeme yapılmaması yardımdan düşmeye yol açar.
+il sollecito | hatırlatma, ihtar | isim (e) | Dopo tre solleciti l'ufficio ha finalmente risposto alla mia richiesta. | Üç hatırlatmanın ardından daire nihayet talebime yanıt verdi.
+il diniego | ret (resmî) | isim (e) | Contro il diniego del permesso si può presentare ricorso al tribunale. | İznin reddine karşı mahkemeye başvurulabilir.
+## Unvanlar ve hitaplar
+Sua Eccellenza | Ekselansları | ifade | Sua Eccellenza l'ambasciatore riceverà la delegazione domani alle dieci. | Ekselansları büyükelçi heyeti yarın saat onda kabul edecek.
+l'onorevole (e) | sayın milletvekili | isim (e) | L'onorevole ha risposto alle domande dei giornalisti in Parlamento. | Sayın milletvekili gazetecilerin sorularını Meclis'te yanıtladı.
+il ragioniere | muhasebeci (unvan) | isim (e) | Il ragionier Bianchi si occupa della contabilità di tutto il condominio. | Muhasebeci Bianchi bütün apartmanın muhasebesiyle ilgileniyor.
+il geometra | teknik ressam, inşaat teknikeri (unvan) | isim (e) | Il geometra ha misurato il terreno prima di presentare il progetto. | İnşaat teknikeri projeyi sunmadan önce araziyi ölçtü.
+il cavaliere | şövalye; liyakat nişanı sahibi | isim (e) | Per i suoi meriti nel lavoro è stato nominato cavaliere della Repubblica. | İşteki başarıları için Cumhuriyet liyakat nişanına layık görüldü.
+il commendatore | komandör (nişan unvanı) | isim (e) | Il vecchio commendatore teneva molto al suo titolo onorifico. | Yaşlı komandör onursal unvanına çok önem veriyordu.
+il dottore | doktor; üniversite mezunu (unvan) | isim (e) | In Italia chiunque abbia una laurea può essere chiamato dottore. | İtalya'da üniversite diploması olan herkese doktor denebilir.
+il titolo onorifico | onursal unvan | isim (e) | Il sindaco ha conferito un titolo onorifico al vecchio maestro del paese. | Belediye başkanı kasabanın yaşlı öğretmenine onursal bir unvan verdi.
+Sua Santità | Papa Hazretleri | ifade | Sua Santità ha ricevuto in udienza una delegazione di studenti. | Papa Hazretleri bir öğrenci heyetini huzuruna kabul etti.
+il magnifico rettore | sayın rektör (unvan) | isim (e) | Il magnifico rettore ha aperto l'anno accademico con un discorso. | Sayın rektör akademik yılı bir konuşmayla açtı.
