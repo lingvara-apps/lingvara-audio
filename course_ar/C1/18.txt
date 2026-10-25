@@ -1,0 +1,111 @@
+# UNIT: Resmî üslup | Bürokratik dil, resmî yazışma, kalıplar
+## Resmî yazının öğeleri
+الْمُرْسَل إِلَيْهِ (al-mursal ʾilayh) | alıcı, muhatap (yazışmada) | isim (e) | يُكتب اسم المرسل إليه ومنصبه في أعلى الصفحة. | Muhatabın adı ve unvanı sayfanın üst kısmına yazılır.
+رَقْم الْقَيْد (raqm al-qayd) | kayıt numarası, evrak sayısı | isim (e) | يرجى ذكر رقم القيد في أي مراسلة لاحقة. | Sonraki her yazışmada evrak sayısının belirtilmesi rica olunur.
+صُورَة إِلَى (ṣūra ʾilā) | bilgi için gönderilen kopya (dağıtım) | ifade | صورة إلى مدير الموارد البشرية للعلم. | Bilgi için bir kopyası insan kaynakları müdürüne.
+تَارِيخ الْإِصْدَار (tārīkh al-ʾiṣdār) | düzenlenme tarihi | isim (e) | تسري الشهادة ستة أشهر من تاريخ الإصدار. | Belge düzenlenme tarihinden itibaren altı ay geçerlidir.
+دِيبَاجَة (dībāja) | giriş kısmı, mukaddime (resmî metin) | isim (d) | تشير ديباجة الاتفاقية إلى أهداف الطرفين. | Sözleşmenin giriş kısmı iki tarafın amaçlarına değiniyor.
+خَاتَم رَسْمِيّ (khātam rasmiyy) | resmî mühür | isim (e) | لا تُقبل الوثيقة دون الخاتم الرسمي للوزارة. | Belge bakanlığın resmî mührü olmadan kabul edilmez.
+الْمُشَار إِلَيْهِ (al-mushār ʾilayh) | adı geçen, mezkûr | sıfat | حضر الموظف المشار إليه الجلسة في موعدها. | Adı geçen memur oturuma zamanında katıldı.
+الْمَذْكُور أَعْلَاهُ (al-madhkūr ʾaʿlāh) | yukarıda adı geçen | sıfat | نشهد بأن الطالب المذكور أعلاه مسجل لدينا. | Yukarıda adı geçen öğrencinin kurumumuzda kayıtlı olduğunu tasdik ederiz.
+سِرِّيّ لِلْغَايَة (sirriyy li-l-ghāya) | çok gizli | sıfat | كُتب على الظرف: سري للغاية. | Zarfın üzerine "çok gizli" yazılmıştı.
+ذُو الصِّلَة (dhū ṣ-ṣila) | ilgili, konuyla bağlantılı | sıfat | أُرسلت الوثائق ذات الصلة إلى اللجنة. | İlgili belgeler komisyona gönderildi.
+## Hitap ve unvanlar
+مَعَالِي (maʿālī) | Ekselansları (bakanlar için hitap) | ifade | استقبل معالي الوزير الوفد في مكتبه. | Sayın Bakan heyeti makamında kabul etti.
+فَخَامَة (fakhāma) | Ekselansları (devlet başkanı için) | ifade | ألقى فخامة الرئيس كلمة في افتتاح المؤتمر. | Sayın Cumhurbaşkanı konferansın açılışında bir konuşma yaptı.
+سُمُوّ (sumuww) | Ekselansları (prens, emir için); yücelik | isim (e) | رعى سموّ الأمير حفل تخريج الطلاب. | Prens hazretleri öğrencilerin mezuniyet törenini himaye etti.
+جَلَالَة (jalāla) | Majesteleri | ifade | وجّه جلالة الملك رسالة إلى الشعب. | Majesteleri kral halka bir mesaj gönderdi.
+السَّيِّد الْمُحْتَرَم (as-sayyid al-muḥtaram) | Sayın Bay, muhterem efendim | ifade | السيد المحترم مدير الشركة، تحية طيبة. | Sayın şirket müdürü, selamlar.
+الْأُسْتَاذ الْفَاضِل (al-ʾustādh al-fāḍil) | değerli hocam, muhterem efendim | ifade | الأستاذ الفاضل، أرجو قبول اعتذاري عن التأخير. | Değerli hocam, gecikmemden ötürü özrümü kabul etmenizi rica ederim.
+سَمَاحَة (samāḥa) | Hazretleri (yüksek din adamları için); hoşgörü | ifade | ألقى سماحة المفتي خطبة العيد. | Müftü hazretleri bayram hutbesini okudu.
+الْمُبَجَّل (al-mubajjal) | saygıdeğer, yüce | sıfat | كرّمت الجامعة أستاذها المبجل بعد تقاعده. | Üniversite emekliye ayrılan saygıdeğer hocasını onurlandırdı.
+عَطُوفَة (ʿaṭūfa) | Sayın (Ürdün'de üst düzey yöneticilere hitap) | ifade | عطوفة المحافظ يستقبل المواطنين كل ثلاثاء. | Sayın vali her salı vatandaşları kabul ediyor.
+سِيَادَة الرَّئِيس (siyādat ar-raʾīs) | Sayın Başkan | ifade | سيادة الرئيس، اسمحوا لي أن أطرح سؤالًا. | Sayın Başkan, bir soru sormama izin verin.
+## Giriş ve kapanış kalıpları
+يَسُرُّنِي أَنْ (yasurrunī ʾan) | -mekten memnuniyet duyarım | ifade | يسرني أن أرحب بكم في افتتاح هذا المعرض. | Bu serginin açılışında sizleri ağırlamaktan memnuniyet duyuyorum.
+يُشَرِّفُنِي (yusharrifunī) | -mek benim için bir onurdur | ifade | يشرفني أن أقدم لكم ضيف الحفل. | Gecenin konuğunu size takdim etmek benim için bir onurdur.
+نَتَقَدَّمُ إِلَيْكُمْ بِـ (nataqaddamu ʾilaykum bi-) | size ... sunarız | ifade | نتقدم إليكم بخالص الشكر على دعمكم. | Desteğiniz için size en içten teşekkürlerimizi sunarız.
+وَبَعْدُ (wa-baʿdu) | (selamdan sonra) şöyle ki, konuya gelince | ifade | السلام عليكم، وبعد: فقد وصلنا كتابكم الكريم. | Selamlar; konuya gelince, değerli yazınız elimize ulaştı.
+شَاكِرِينَ لَكُمْ حُسْنَ تَعَاوُنِكُمْ (shākirīna lakum ḥusna taʿāwunikum) | değerli iş birliğiniz için teşekkürlerimizle | ifade | نرجو إرسال الوثائق قبل نهاية الشهر، شاكرين لكم حسن تعاونكم. | Belgeleri ay sonundan önce göndermenizi rica eder, değerli iş birliğiniz için teşekkür ederiz.
+نَأْمُلُ التَّكَرُّمَ بِـ (naʾmulu t-takarruma bi-) | -mek lütfunda bulunmanızı umarız | ifade | نأمل التكرم بالموافقة على طلبنا. | Talebimizi onaylama lütfunda bulunmanızı umarız.
+نَحْنُ عَلَى أَتَمِّ الِاسْتِعْدَادِ (naḥnu ʿalā ʾatammi l-istiʿdād) | her türlü hazırız, emrinizdeyiz | ifade | نحن على أتم الاستعداد لتقديم أي معلومات إضافية. | Her türlü ek bilgiyi sunmaya hazırız.
+لَا يَسَعُنَا إِلَّا أَنْ (lā yasaʿunā ʾillā ʾan) | -mekten başka diyecek söz bulamıyoruz | ifade | لا يسعنا إلا أن نشكركم على كرم الضيافة. | Cömert misafirperverliğiniz için size teşekkür etmekten başka diyecek söz bulamıyoruz.
+يَطِيبُ لِي (yaṭību lī) | -mek bana mutluluk verir | ifade | يطيب لي أن أهنئكم بمناسبة النجاح. | Başarınız vesilesiyle sizi tebrik etmek bana mutluluk veriyor.
+دُمْتُمْ بِخَيْرٍ (dumtum bi-khayr) | esen kalın | ifade | هذا ما لزم بيانه، ودمتم بخير. | Bildirilmesi gerekenler bunlardır, esen kalın.
+## Bürokratik işlemler
+مُسْتَنَدَات (mustanadāt) | belgeler, evrak | isim (çoğul) | أحضر المستندات المطلوبة إلى مكتب الاستقبال. | İstenen belgeleri danışma bürosuna getir.
+نُسْخَة طِبْق الْأَصْل (nuskha ṭibq al-ʾaṣl) | aslı gibidir onaylı suret | isim (d) | اطلبوا نسخة طبق الأصل من شهادة التخرج. | Diplomanın aslı gibidir onaylı suretini isteyin.
+شَهَادَة حُسْن السِّيرَة وَالسُّلُوك (shahādat ḥusn as-sīra wa-s-sulūk) | iyi hâl belgesi | isim (d) | يُشترط تقديم شهادة حسن السيرة والسلوك للتوظيف. | İşe alım için iyi hâl belgesi sunmak şarttır.
+شُبَّاك الْخِدْمَة (shubbāk al-khidma) | hizmet gişesi | isim (e) | وقفت ساعة كاملة أمام شباك الخدمة. | Hizmet gişesinin önünde koca bir saat bekledim.
+طَابِع مَالِيّ (ṭābiʿ māliyy) | damga pulu | isim (e) | يجب لصق طابع مالي على الطلب قبل تقديمه. | Başvuru teslim edilmeden önce üzerine damga pulu yapıştırılmalıdır.
+وَصْل اسْتِلَام (waṣl istilām) | alındı belgesi | isim (e) | احتفظ بوصل الاستلام حتى تصدر البطاقة. | Kart çıkana kadar alındı belgesini sakla.
+قَيْد عَائِلِيّ (qayd ʿāʾiliyy) | aile nüfus kayıt örneği | isim (e) | طلبت السفارة نسخة من القيد العائلي. | Konsolosluk aile nüfus kayıt örneğinin bir kopyasını istedi.
+مَوْعِد مُسْبَق (mawʿid musbaq) | önceden alınmış randevu | isim (e) | لا تُستقبل الطلبات إلا بموعد مسبق. | Başvurular yalnızca önceden alınmış randevuyla kabul edilir.
+مُرَاجِع (murājiʿ) | (bir daireye) başvuran kişi (çoğ. مُرَاجِعُون) | isim (e) | ازدحمت الدائرة بالمراجعين منذ الصباح. | Daire sabahtan beri başvuru sahipleriyle dolup taştı.
+تَجْدِيد الْإِقَامَة (tajdīd al-ʾiqāma) | oturma izni yenileme | isim (e) | تستغرق إجراءات تجديد الإقامة أسبوعين. | Oturma izni yenileme işlemleri iki hafta sürüyor.
+## İdari yapı
+مُدِيرِيَّة (mudīriyya) | müdürlük | isim (d) | راجع مديرية التربية لتسجيل ابنه في المدرسة. | Oğlunu okula kaydettirmek için eğitim müdürlüğüne başvurdu.
+أَمَانَة عَامَّة (ʾamāna ʿāmma) | genel sekreterlik | isim (d) | أصدرت الأمانة العامة للمجلس بيانًا رسميًا. | Kurulun genel sekreterliği resmî bir açıklama yaptı.
+إِدَارَة عَامَّة (ʾidāra ʿāmma) | genel müdürlük; kamu yönetimi | isim (d) | انتقل إلى الإدارة العامة للجمارك. | Gümrükler genel müdürlüğüne geçti.
+جِهَة مُخْتَصَّة (jiha mukhtaṣṣa) | yetkili merci | isim (d) | أحيلت الشكوى إلى الجهة المختصة للنظر فيها. | Şikâyet incelenmek üzere yetkili merciye havale edildi.
+سُلُطَات مَحَلِّيَّة (sulaṭāt maḥalliyya) | yerel yönetimler, yerel makamlar | isim (çoğul) | نسّقت السلطات المحلية عمليات الإغاثة. | Yerel makamlar yardım çalışmalarını koordine etti.
+دِيوَان الْمُحَاسَبَة (dīwān al-muḥāsaba) | Sayıştay | isim (e) | كشف تقرير ديوان المحاسبة عن هدر في المال العام. | Sayıştay raporu kamu parasının israf edildiğini ortaya koydu.
+دِيوَان الْخِدْمَة الْمَدَنِيَّة (dīwān al-khidma al-madaniyya) | devlet personel dairesi | isim (e) | يعلن ديوان الخدمة المدنية عن الوظائف الشاغرة. | Devlet personel dairesi boş kadroları ilan ediyor.
+هَيْئَة رَقَابِيَّة (hayʾa raqābiyya) | denetim kurumu | isim (d) | تتابع هيئة رقابية مستقلة صرف الأموال العامة. | Bağımsız bir denetim kurumu kamu harcamalarını takip ediyor.
+وَحْدَة إِدَارِيَّة (waḥda ʾidāriyya) | idari birim | isim (d) | قُسّمت المحافظة إلى عشر وحدات إدارية. | İl on idari birime ayrıldı.
+الْجِهَات الْمَعْنِيَّة (al-jihāt al-maʿniyya) | ilgili makamlar | isim (çoğul) | دعا التقرير الجهات المعنية إلى التحرك السريع. | Rapor ilgili makamları hızla harekete geçmeye çağırdı.
+## Bürokratik fiiller
+بَتَّ فِي (batta fī) | -i karara bağlamak, sonuçlandırmak (geniş z.: يَبُتُّ) | fiil · düzensiz | ستبتّ اللجنة في الطلبات خلال أسبوعين. | Komisyon başvuruları iki hafta içinde karara bağlayacak.
+اِسْتَوْفَى (istawfā) | (şartları) tamamlamak, karşılamak (geniş z.: يَسْتَوْفِي) | fiil · düzensiz | لم يستوفِ الطلب الشروط المطلوبة. | Başvuru gerekli şartları karşılamadı.
+أَشْعَرَ (ʾashʿara) | haber vermek, bildirmek (geniş z.: يُشْعِرُ) | fiil | أشعرت الإدارة الموظفين بموعد التفتيش. | Yönetim çalışanlara denetim tarihini bildirdi.
+أَوْعَزَ (ʾawʿaza) | talimat vermek, telkin etmek (إِلَى ile) (geniş z.: يُوعِزُ) | fiil | أوعز الوزير إلى المديرين بتسريع الإجراءات. | Bakan müdürlere işlemleri hızlandırma talimatı verdi.
+نَوَّهَ (nawwaha) | belirtmek, dikkat çekmek; övmek (بِـ ile) (geniş z.: يُنَوِّهُ) | fiil | نوّه البيان بجهود المتطوعين. | Açıklama gönüllülerin çabalarını övgüyle andı.
+زَوَّدَ بِـ (zawwada bi-) | -i sağlamak, ile donatmak (geniş z.: يُزَوِّدُ) | fiil | يرجى تزويدنا بنسخة من جواز السفر. | Bize pasaportunuzun bir kopyasını sağlamanız rica olunur.
+خَاطَبَ (khāṭaba) | (yazıyla) başvurmak, hitap etmek (geniş z.: يُخَاطِبُ) | fiil | خاطبت الجامعة الوزارة بشأن المنح الدراسية. | Üniversite burslar konusunda bakanlığa yazı yazdı.
+أَبْلَغَ (ʾablagha) | bildirmek, tebliğ etmek (geniş z.: يُبْلِغُ) | fiil | أبلغت الشركة العمال بقرار النقل. | Şirket işçilere nakil kararını tebliğ etti.
+وَافَى بِـ (wāfā bi-) | -i göndermek, iletmek (geniş z.: يُوَافِي) | fiil · düzensiz | يرجى موافاتنا بالتقرير قبل نهاية الأسبوع. | Raporu hafta sonundan önce tarafımıza iletmeniz rica olunur.
+تَقَدَّمَ بِـ (taqaddama bi-) | (başvuru, öneri) sunmak (geniş z.: يَتَقَدَّمُ) | fiil | تقدّم بطلب للحصول على منحة دراسية. | Burs almak için başvuru yaptı.
+## Bürokratik isimler
+إِجْرَاءَات (ʾijrāʾāt) | işlemler, prosedürler | isim (çoğul) | بسّطت الوزارة إجراءات تسجيل الشركات. | Bakanlık şirket kurma işlemlerini basitleştirdi.
+ضَوَابِط (ḍawābiṭ) | esaslar, kurallar | isim (çoğul) | وضعت الهيئة ضوابط جديدة للإعلانات. | Kurum reklamlar için yeni esaslar belirledi.
+مَهَامّ (mahāmm) | görevler | isim (çoğul) | حدد القرار مهام كل لجنة بدقة. | Karar her komisyonun görevlerini ayrıntılı biçimde belirledi.
+اِخْتِصَاصَات (ikhtiṣāṣāt) | görev alanları, yetkiler | isim (çoğul) | لا يدخل هذا الموضوع ضمن اختصاصات البلدية. | Bu konu belediyenin görev alanına girmiyor.
+مُقْتَضَيَات (muqtaḍayāt) | gerekler, icaplar | isim (çoğul) | تعمل المؤسسة وفق مقتضيات المصلحة العامة. | Kurum kamu yararının gereklerine göre çalışır.
+مُسْتَجِدَّات (mustajiddāt) | gelişmeler, yeni durumlar | isim (çoğul) | سنوافيكم بالمستجدات أولًا بأول. | Gelişmeleri size anbean ileteceğiz.
+مُلَابَسَات (mulābasāt) | olayın koşulları, ayrıntılar | isim (çoğul) | فُتح تحقيق لمعرفة ملابسات الحادث. | Kazanın koşullarını öğrenmek için soruşturma başlatıldı.
+حَيْثِيَّات (ḥaythiyyāt) | gerekçeler (karar) | isim (çoğul) | نشرت المحكمة حيثيات الحكم في اليوم التالي. | Mahkeme kararın gerekçelerini ertesi gün yayımladı.
+تَبِعَات (tabiʿāt) | sonuçlar, sorumluluklar | isim (çoğul) | يتحمل المقاول تبعات التأخير كاملة. | Gecikmenin sonuçlarına yüklenici tamamen katlanır.
+تَدَابِير (tadābīr) | önlemler, tedbirler | isim (çoğul) | اتخذت البلدية تدابير وقائية قبل الشتاء. | Belediye kıştan önce koruyucu önlemler aldı.
+## Resmî bağlantı ifadeleri
+حَيْثُ إِنَّ (ḥaythu ʾinna) | mademki, -dığı için (resmî gerekçe) | bağlaç | وحيث إن الطلب مستوفٍ للشروط، فقد تقرر قبوله. | Başvuru şartları karşıladığından kabulüne karar verilmiştir.
+وَعَلَيْهِ (wa-ʿalayhi) | bu nedenle, buna göre | bağlaç | لم يحضر المتقدم المقابلة، وعليه يُعد طلبه ملغى. | Aday mülakata gelmedi; bu nedenle başvurusu iptal sayılır.
+تَأْسِيسًا عَلَى (taʾsīsan ʿalā) | -e dayanarak | ifade | تأسيسًا على ما تقدم، نوصي بإعادة النظر في القرار. | Yukarıdakilere dayanarak kararın yeniden gözden geçirilmesini tavsiye ediyoruz.
+تَبَعًا لِـ (tabaʿan li-) | -e bağlı olarak, -e göre | edat | تتغير الرسوم تبعًا لنوع الخدمة. | Ücretler hizmetin türüne göre değişir.
+اِسْتِنَادًا إِلَى (istinādan ʾilā) | -e istinaden, -e dayanarak | ifade | صدر القرار استنادًا إلى المادة الثالثة. | Karar üçüncü maddeye istinaden çıkarıldı.
+وَفْقَ (wafqa) | -e göre, uyarınca | edat | تُوزع المقاعد وفق نتائج الامتحان. | Kontenjanlar sınav sonuçlarına göre dağıtılır.
+عِنْدَ الِاقْتِضَاءِ (ʿinda l-iqtiḍāʾ) | gerektiğinde, icap ederse | ifade | يمكن تمديد المهلة عند الاقتضاء. | Gerektiğinde süre uzatılabilir.
+فِي حِينِهِ (fī ḥīnihi) | zamanı gelince, vaktinde | ifade | سنُعلمكم بالنتيجة في حينه. | Sonucu zamanı gelince size bildireceğiz.
+بِنَاءً عَلَيْهِ (bināʾan ʿalayh) | buna istinaden, bunun üzerine | ifade | ثبتت المخالفة، وبناءً عليه فُرضت الغرامة. | İhlal sabit görüldü ve bunun üzerine para cezası verildi.
+إِلْحَاقًا بِـ (ʾilḥāqan bi-) | -e ek olarak, -in devamı olarak (yazışma) | ifade | إلحاقًا بكتابنا السابق، نرفق لكم الجدول المعدل. | Önceki yazımıza ek olarak düzeltilmiş tabloyu ekte sunuyoruz.
+## Duyurular ve bildirimler
+إِخْطَار (ʾikhṭār) | resmî bildirim, ihbar | isim (e) | تلقى المستأجر إخطارًا بإخلاء الشقة. | Kiracı daireyi boşaltması için resmî bir bildirim aldı.
+تَنْوِيه (tanwīh) | duyuru, uyarı notu; övgü | isim (e) | نشرت الصحيفة تنويهًا بتصحيح الخطأ. | Gazete hatanın düzeltildiğine dair bir not yayımladı.
+اِسْتِدْرَاك (istidrāk) | düzeltme, tashih; eksik tamamlama | isim (e) | أصدرت الوزارة استدراكًا على البيان السابق. | Bakanlık önceki açıklamaya bir düzeltme yayımladı.
+نَعْي (naʿy) | ölüm ilanı, vefat haberi | isim (e) | نُشر نعي الفقيد في الصحف المحلية. | Merhumun ölüm ilanı yerel gazetelerde yayımlandı.
+دَعْوَة رَسْمِيَّة (daʿwa rasmiyya) | resmî davet | isim (d) | تلقى السفير دعوة رسمية لحضور الحفل. | Büyükelçi törene katılmak için resmî bir davet aldı.
+تَبْلِيغ (tablīgh) | tebligat, bildirme | isim (e) | تأخر تبليغ الحكم إلى المتهم أسبوعًا. | Kararın sanığa tebliği bir hafta gecikti.
+بَيَان مُشْتَرَك (bayān mushtarak) | ortak bildiri | isim (e) | صدر بيان مشترك في ختام زيارة الوفد. | Heyetin ziyaretinin sonunda ortak bir bildiri yayımlandı.
+مُذَكِّرَة احْتِجَاج (mudhakkirat iḥtijāj) | protesto notası | isim (d) | سلّمت الخارجية مذكرة احتجاج إلى السفارة. | Dışişleri büyükelçiliğe bir protesto notası verdi.
+قَرَار وِزَارِيّ (qarār wizāriyy) | bakanlık kararı | isim (e) | صدر قرار وزاري بتعديل ساعات الدوام. | Mesai saatlerini değiştiren bir bakanlık kararı çıktı.
+تَعْلِيمَات (taʿlīmāt) | talimatlar, yönergeler | isim (çoğul) | التزم الموظفون بتعليمات السلامة الجديدة. | Çalışanlar yeni güvenlik talimatlarına uydu.
+## Dilekçe ve başvuru
+اِلْتِمَاس (iltimās) | rica, dilekçe; yargılamanın yenilenmesi talebi | isim (e) | قدّم المحامي التماسًا لإعادة النظر في الحكم. | Avukat kararın yeniden gözden geçirilmesi için dilekçe verdi.
+تَظَلُّم (taẓallum) | itiraz dilekçesi (haksızlığa karşı) | isim (e) | قدّم الموظف تظلمًا من قرار نقله. | Memur nakil kararına karşı itiraz dilekçesi verdi.
+مُطَالَبَة (muṭālaba) | talep, istem | isim (d) | رفضت الشركة مطالبة العمال بزيادة الأجور. | Şirket işçilerin ücret artışı talebini reddetti.
+اِسْتِرْحَام (istirḥām) | merhamet dilekçesi, af talebi | isim (e) | قدّمت الأسرة استرحامًا للعفو عن ابنها. | Aile oğullarının affı için merhamet dilekçesi verdi.
+اِسْتِدْعَاء (istidʿāʾ) | celp, çağrı; (Levant) dilekçe | isim (e) | تلقى الشاهد استدعاءً للحضور أمام المحكمة. | Tanık mahkemeye gelmesi için bir celp aldı.
+رَدّ رَسْمِيّ (radd rasmiyy) | resmî yanıt | isim (e) | ما زلنا ننتظر ردًا رسميًا من الوزارة. | Bakanlıktan hâlâ resmî bir yanıt bekliyoruz.
+إِقْرَار (ʾiqrār) | beyanname, beyan; ikrar | isim (e) | وقّع المتقدم إقرارًا بصحة المعلومات. | Başvuru sahibi bilgilerin doğruluğuna dair bir beyan imzaladı.
+طَلَب خَطِّيّ (ṭalab khaṭṭiyy) | yazılı başvuru | isim (e) | يجب تقديم طلب خطي قبل موعد الإجازة بشهر. | İzinden bir ay önce yazılı başvuru yapılmalıdır.
+مَعْرُوض (maʿrūḍ) | arzuhal, dilekçe | isim (e) | كتب الفلاح معروضًا إلى الوالي يشكو فيه ظلم الجباة. | Köylü vergi tahsildarlarının zulmünden yakındığı bir arzuhal yazıp valiye sundu.
+شَكْوَى رَسْمِيَّة (shakwā rasmiyya) | resmî şikâyet | isim (d) | قدّم السكان شكوى رسمية بسبب الضجيج. | Sakinler gürültü nedeniyle resmî şikâyette bulundu.
