@@ -1,0 +1,111 @@
+# UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+## Argümanın yapısı
+a premissa | öncül | isim (d) | Se a premissa for falsa, toda a conclusão do artigo desmorona. | Öncül yanlışsa makalenin bütün sonucu çöker.
+a tese | tez; iddia | isim (d) | A tese central do autor é que a cidade nasceu do porto. | Yazarın temel tezi, şehrin limandan doğduğudur.
+a antítese | antitez, karşı sav | isim (d) | O ensaio apresenta primeiro a tese e depois a antítese. | Deneme önce tezi, ardından karşı savı sunuyor.
+a síntese | sentez; özet | isim (d) | Na conclusão, a autora faz uma síntese dos três capítulos. | Sonuçta yazar üç bölümün bir sentezini yapıyor.
+o pressuposto | varsayım, ön kabul | isim (e) | Esse pressuposto nunca foi discutido de forma explícita no texto. | Bu ön kabul metinde hiç açıkça tartışılmadı.
+a ressalva | çekince, kayıt | isim (d) | Concordo com o parecer, mas faço uma ressalva sobre a metodologia. | Görüşe katılıyorum ama yöntem konusunda bir çekincem var.
+o contraponto | karşı görüş, denge unsuru | isim (e) | O segundo capítulo oferece um contraponto interessante às ideias iniciais. | İkinci bölüm ilk fikirlere ilginç bir karşı görüş sunuyor.
+a refutação | çürütme | isim (d) | A refutação da hipótese exigiu dois anos de experimentos. | Hipotezin çürütülmesi iki yıllık deney gerektirdi.
+o silogismo | tasım, kıyas | isim (e) | O professor usou um silogismo clássico para ilustrar a lógica formal. | Hoca biçimsel mantığı göstermek için klasik bir tasım kullandı.
+a falácia | safsata, mantık hatası | isim (d) | Atacar o autor em vez do argumento é uma falácia conhecida. | Argüman yerine yazara saldırmak bilinen bir safsatadır.
+## Akademik fiiller
+postular | öne sürmek, varsaymak | fiil | O pesquisador postula que o clima influenciou a migração indígena. | Araştırmacı iklimin yerli göçünü etkilediğini öne sürüyor.
+corroborar | doğrulamak, desteklemek | fiil | Os novos dados corroboram as conclusões do estudo anterior. | Yeni veriler önceki çalışmanın sonuçlarını doğruluyor.
+refutar | çürütmek | fiil | Nenhum dos críticos conseguiu refutar o argumento principal da tese. | Eleştirmenlerin hiçbiri tezin ana argümanını çürütemedi.
+inferir | çıkarsamak | fiil | A partir desses números, podemos inferir uma tendência de queda. | Bu rakamlardan bir düşüş eğilimi çıkarsayabiliriz.
+elucidar | aydınlatmak, açıklığa kavuşturmak | fiil | O artigo procura elucidar as causas da seca no sertão. | Makale sertão'daki kuraklığın nedenlerini aydınlatmaya çalışıyor.
+fundamentar | temellendirmek, dayandırmak | fiil | Você precisa fundamentar melhor suas afirmações com fontes confiáveis. | İddialarını güvenilir kaynaklarla daha iyi temellendirmen gerekiyor.
+problematizar | sorunsallaştırmak | fiil | A autora problematiza a ideia de que o progresso é sempre positivo. | Yazar ilerlemenin her zaman olumlu olduğu fikrini sorunsallaştırıyor.
+explicitar | açıkça belirtmek | fiil | É importante explicitar os critérios usados na seleção da amostra. | Örneklem seçiminde kullanılan ölçütleri açıkça belirtmek önemlidir.
+salientar | vurgulamak, altını çizmek | fiil | Vale salientar que a pesquisa foi feita apenas em escolas públicas. | Araştırmanın yalnızca devlet okullarında yapıldığını vurgulamakta fayda var.
+depreender | anlamak, çıkarmak (metinden) | fiil | Do texto depreende-se que o autor desconfiava das estatísticas oficiais. | Metinden yazarın resmî istatistiklere güvenmediği anlaşılıyor.
+## Araştırma ve veri
+a amostra | örneklem | isim (d) | A amostra incluiu mil e duzentos estudantes de cinco estados. | Örneklem beş eyaletten bin iki yüz öğrenciyi kapsadı.
+a variável | değişken | isim (d) | A renda familiar foi a variável mais relevante do estudo. | Hane geliri çalışmanın en önemli değişkeniydi.
+o levantamento | anket, tarama; derleme | isim (e) | Fizemos um levantamento bibliográfico antes de começar a coleta de dados. | Veri toplamaya başlamadan önce bir literatür taraması yaptık.
+a coleta de dados | veri toplama | isim (d) | A coleta de dados durou seis meses nas comunidades ribeirinhas. | Veri toplama nehir kıyısı topluluklarında altı ay sürdü.
+o questionário | anket formu | isim (e) | Os participantes responderam a um questionário anônimo pela internet. | Katılımcılar internet üzerinden anonim bir anket formunu yanıtladı.
+a margem de erro | hata payı | isim (d) | A pesquisa tem uma margem de erro de dois pontos percentuais. | Araştırmanın iki yüzde puanlık bir hata payı var.
+o desvio-padrão | standart sapma | isim (e) | O desvio-padrão mostra que os resultados variaram muito entre os grupos. | Standart sapma sonuçların gruplar arasında çok değiştiğini gösteriyor.
+a correlação | korelasyon, bağıntı | isim (d) | Encontramos uma correlação forte entre escolaridade e saúde. | Eğitim düzeyi ile sağlık arasında güçlü bir korelasyon bulduk.
+o estudo de caso | vaka çalışması | isim (e) | O estudo de caso analisa uma cooperativa de pescadores no Ceará. | Vaka çalışması Ceará'daki bir balıkçı kooperatifini inceliyor.
+o recorte | kapsam, odak (araştırmada) | isim (e) | O recorte da pesquisa se limita ao período entre 1950 e 1970. | Araştırmanın kapsamı 1950 ile 1970 arasındaki dönemle sınırlı.
+## Metin yapısı ve kaynakça
+o resumo | özet | isim (e) | O resumo do artigo não deve ultrapassar duzentas e cinquenta palavras. | Makalenin özeti iki yüz elli kelimeyi geçmemeli.
+as palavras-chave | anahtar kelimeler | isim (çoğul) | Escolha cinco palavras-chave que descrevam bem o tema do trabalho. | Çalışmanın konusunu iyi anlatan beş anahtar kelime seçin.
+a introdução | giriş | isim (d) | Na introdução, o autor justifica a relevância do tema escolhido. | Girişte yazar seçilen konunun önemini gerekçelendiriyor.
+a fundamentação teórica | kuramsal çerçeve | isim (d) | A fundamentação teórica se apoia em autores brasileiros e portugueses. | Kuramsal çerçeve Brezilyalı ve Portekizli yazarlara dayanıyor.
+as considerações finais | sonuç bölümü, son değerlendirme | isim (çoğul) | Nas considerações finais, ela sugere novos caminhos de pesquisa. | Sonuç bölümünde yeni araştırma yolları öneriyor.
+a citação | alıntı, atıf | isim (d) | Toda citação direta precisa indicar a página da obra original. | Her doğrudan alıntı özgün eserin sayfasını belirtmelidir.
+a nota de rodapé | dipnot | isim (d) | A explicação técnica ficou numa nota de rodapé, para não interromper o texto. | Teknik açıklama metni bölmemek için bir dipnota kondu.
+as referências bibliográficas | kaynakça | isim (çoğul) | As referências bibliográficas devem seguir as normas da associação nacional. | Kaynakça ulusal derneğin kurallarına uymalıdır.
+o apêndice | ek (kitap, tez sonunda) | isim (e) | O questionário completo está disponível no apêndice da dissertação. | Anket formunun tamamı tezin ekinde bulunuyor.
+o parágrafo | paragraf | isim (e) | Cada parágrafo deve desenvolver uma única ideia de forma clara. | Her paragraf tek bir fikri açıkça geliştirmelidir.
+## Kanıt ve sonuç
+a evidência | kanıt, delil | isim (d) | Não há evidência suficiente para afirmar que o remédio funciona. | İlacın işe yaradığını söylemek için yeterli kanıt yok.
+o indício | belirti, ipucu | isim (e) | Os fósseis encontrados são um indício de que ali havia um lago. | Bulunan fosiller orada bir göl olduğuna dair bir ipucu.
+a constatação | tespit, saptama | isim (d) | A principal constatação do estudo surpreendeu a equipe inteira. | Çalışmanın temel tespiti bütün ekibi şaşırttı.
+o achado | bulgu | isim (e) | Esse achado muda o que sabíamos sobre a ocupação da Amazônia. | Bu bulgu Amazon'un yerleşimi hakkında bildiklerimizi değiştiriyor.
+a validade | geçerlilik | isim (d) | Alguns colegas questionaram a validade do método escolhido. | Bazı meslektaşlar seçilen yöntemin geçerliliğini sorguladı.
+a confiabilidade | güvenilirlik | isim (d) | A confiabilidade das fontes antigas é sempre um desafio para historiadores. | Eski kaynakların güvenilirliği tarihçiler için her zaman bir sorundur.
+a lacuna | boşluk, eksiklik (literatürde) | isim (d) | Este trabalho pretende preencher uma lacuna na literatura sobre o tema. | Bu çalışma konuyla ilgili literatürdeki bir boşluğu doldurmayı amaçlıyor.
+a ressonância | yankı, etki | isim (d) | As conclusões tiveram grande ressonância entre os especialistas da área. | Sonuçlar alandaki uzmanlar arasında büyük yankı uyandırdı.
+a generalização | genelleme | isim (d) | Com uma amostra tão pequena, qualquer generalização seria precipitada. | Bu kadar küçük bir örneklemle her genelleme aceleci olur.
+a reprodutibilidade | tekrarlanabilirlik | isim (d) | A reprodutibilidade do experimento foi confirmada por outro laboratório. | Deneyin tekrarlanabilirliği başka bir laboratuvar tarafından doğrulandı.
+## Hipotez ve kuram
+a hipótese | hipotez | isim (d) | A hipótese inicial era que a poluição afetava o crescimento das árvores. | İlk hipotez kirliliğin ağaçların büyümesini etkilediğiydi.
+o paradigma | paradigma | isim (e) | A descoberta provocou uma mudança de paradigma na biologia marinha. | Keşif deniz biyolojisinde bir paradigma değişikliğine yol açtı.
+o arcabouço | çerçeve, iskelet (kuramsal) | isim (e) | O arcabouço conceitual do livro vem da antropologia francesa. | Kitabın kavramsal çerçevesi Fransız antropolojisinden geliyor.
+o postulado | postulat, temel kabul | isim (e) | O primeiro postulado da teoria é bastante simples de entender. | Kuramın ilk temel kabulü anlaşılması oldukça basit.
+o axioma | aksiyom, belit | isim (e) | Na geometria, esse axioma é aceito sem necessidade de demonstração. | Geometride bu aksiyom kanıt gerekmeksizin kabul edilir.
+o construto | kuramsal kavram, yapı | isim (e) | A inteligência emocional é um construto difícil de medir com precisão. | Duygusal zekâ kesin biçimde ölçülmesi zor bir kuramsal kavramdır.
+o modelo teórico | kuramsal model | isim (e) | O modelo teórico explica bem o comportamento dos consumidores jovens. | Kuramsal model genç tüketicilerin davranışını iyi açıklıyor.
+a vertente | akım, kol (düşünce) | isim (d) | Ela segue uma vertente mais crítica da sociologia urbana. | Kent sosyolojisinin daha eleştirel bir koluna bağlı.
+o viés | yanlılık, önyargı (bilimsel) | isim (e) | O viés de seleção comprometeu parte dos resultados da pesquisa. | Seçim yanlılığı araştırma sonuçlarının bir kısmını zedeledi.
+a conjectura | tahmin, varsayım | isim (d) | Por enquanto, a ligação entre os dois fenômenos é apenas uma conjectura. | Şimdilik iki olgu arasındaki bağ yalnızca bir tahmin.
+## Eleştirel düşünme
+o senso crítico | eleştirel düşünce | isim (e) | A universidade deve estimular o senso crítico dos estudantes. | Üniversite öğrencilerin eleştirel düşüncesini teşvik etmelidir.
+o rigor | titizlik, kesinlik | isim (e) | O trabalho impressiona pelo rigor na análise dos documentos. | Çalışma belgelerin incelenmesindeki titizliğiyle etkiliyor.
+a coerência | tutarlılık | isim (d) | Falta coerência entre a introdução e as conclusões do texto. | Metnin girişi ile sonuçları arasında tutarlılık eksik.
+a coesão | bağdaşıklık (metinde) | isim (d) | Os conectivos garantem a coesão entre os parágrafos. | Bağlaçlar paragraflar arasındaki bağdaşıklığı sağlar.
+o anacronismo | anakronizm, zaman yanlışlığı | isim (e) | Julgar o século dezesseis com valores atuais é um anacronismo. | On altıncı yüzyılı bugünün değerleriyle yargılamak bir anakronizmdir.
+a ambiguidade | belirsizlik, çok anlamlılık | isim (d) | A ambiguidade da pergunta confundiu muitos participantes. | Sorunun belirsizliği birçok katılımcının kafasını karıştırdı.
+o reducionismo | indirgemecilik | isim (e) | Explicar a violência só pela pobreza seria um reducionismo perigoso. | Şiddeti yalnızca yoksullukla açıklamak tehlikeli bir indirgemecilik olur.
+a contradição | çelişki | isim (d) | Há uma contradição clara entre os dados e a interpretação do autor. | Veriler ile yazarın yorumu arasında açık bir çelişki var.
+a imparcialidade | tarafsızlık | isim (d) | A imparcialidade do avaliador é essencial em qualquer banca. | Değerlendiricinin tarafsızlığı her jüride esastır.
+o embasamento | dayanak, temel | isim (e) | Sua crítica é válida, mas carece de embasamento empírico. | Eleştirin geçerli ama ampirik bir dayanaktan yoksun.
+## Akademik sıfatlar
+empírico | ampirik, deneysel | sıfat | O estudo empírico foi realizado em três hospitais de Recife. | Ampirik çalışma Recife'deki üç hastanede yapıldı.
+pertinente | yerinde, ilgili | sıfat | A pergunta da aluna foi extremamente pertinente para o debate. | Öğrencinin sorusu tartışma için son derece yerindeydi.
+inédito | yayımlanmamış; daha önce görülmemiş | sıfat | O livro reúne cartas inéditas do escritor encontradas em Lisboa. | Kitap yazarın Lizbon'da bulunan yayımlanmamış mektuplarını bir araya getiriyor.
+consistente | tutarlı, sağlam | sıfat | Os resultados foram consistentes em todas as etapas do experimento. | Sonuçlar deneyin bütün aşamalarında tutarlıydı.
+abrangente | kapsamlı | sıfat | O relatório oferece uma visão abrangente da educação no país. | Rapor ülkedeki eğitime kapsamlı bir bakış sunuyor.
+incipiente | başlangıç aşamasındaki, gelişmemiş | sıfat | A pesquisa sobre esse fungo ainda é incipiente no Brasil. | Bu mantarla ilgili araştırmalar Brezilya'da henüz başlangıç aşamasında.
+controverso | tartışmalı | sıfat | O tema é controverso e divide os especialistas há décadas. | Konu tartışmalı ve onlarca yıldır uzmanları ikiye bölüyor.
+exaustivo | ayrıntılı, eksiksiz; yorucu | sıfat | Fizemos uma revisão exaustiva de todos os documentos do arquivo. | Arşivdeki bütün belgeleri eksiksiz biçimde gözden geçirdik.
+subjacente | altta yatan | sıfat | A ideia subjacente ao projeto é democratizar o acesso à ciência. | Projenin altında yatan fikir bilime erişimi demokratikleştirmek.
+interdisciplinar | disiplinlerarası | sıfat | O grupo adota uma abordagem interdisciplinar, unindo história e ecologia. | Grup tarih ile ekolojiyi birleştiren disiplinlerarası bir yaklaşım benimsiyor.
+## Akademik kalıplar
+cabe ressaltar que | şunu vurgulamak gerekir ki | ifade | Cabe ressaltar que os dados ainda são preliminares e podem mudar. | Verilerin henüz ön veriler olduğunu ve değişebileceğini vurgulamak gerekir.
+à luz de | ışığında | ifade | À luz de novas descobertas, a teoria precisa ser revista. | Yeni keşifler ışığında kuramın gözden geçirilmesi gerekiyor.
+no que tange a | ... ile ilgili olarak, ... bakımından | ifade | No que tange à metodologia, o trabalho é impecável. | Yöntem bakımından çalışma kusursuz.
+em suma | kısacası, özetle | ifade | Em suma, os resultados confirmam a hipótese apresentada no início. | Kısacası sonuçlar başta sunulan hipotezi doğruluyor.
+partindo do princípio de que | ... varsayımından hareketle | ifade | Partindo do princípio de que todos leram o texto, vamos direto ao debate. | Herkesin metni okuduğu varsayımından hareketle doğrudan tartışmaya geçelim.
+convém notar que | şunu belirtmek yerinde olur ki | ifade | Convém notar que o fenômeno também ocorre em outros países tropicais. | Olgunun başka tropikal ülkelerde de görüldüğünü belirtmek yerinde olur.
+de acordo com a literatura | literatüre göre | ifade | De acordo com a literatura, esse efeito é mais comum em crianças. | Literatüre göre bu etki çocuklarda daha yaygın.
+em linhas gerais | ana hatlarıyla | ifade | Em linhas gerais, o projeto tem três objetivos bem definidos. | Ana hatlarıyla proje üç net hedefe sahip.
+o presente trabalho | bu çalışma (akademik) | ifade | O presente trabalho analisa a música popular na década de sessenta. | Bu çalışma altmışlı yıllardaki popüler müziği inceliyor.
+a título de exemplo | örnek olarak | ifade | A título de exemplo, cito o caso das cidades do litoral paulista. | Örnek olarak São Paulo kıyısındaki şehirlerin durumunu aktarıyorum.
+## Üniversite ve yayın
+a dissertação | yüksek lisans tezi | isim (d) | Ela defende a dissertação de mestrado na próxima sexta-feira. | Yüksek lisans tezini önümüzdeki cuma savunuyor.
+o orientador | tez danışmanı | isim (e) | Meu orientador sugeriu que eu reduzisse o segundo capítulo. | Danışmanım ikinci bölümü kısaltmamı önerdi.
+a banca examinadora | sınav jürisi | isim (d) | A banca examinadora fez perguntas difíceis durante a defesa. | Sınav jürisi savunma sırasında zor sorular sordu.
+o periódico científico | bilimsel dergi | isim (e) | O artigo foi aceito por um periódico científico internacional. | Makale uluslararası bir bilimsel dergi tarafından kabul edildi.
+a revisão por pares | hakem değerlendirmesi | isim (d) | Todo artigo passa por uma revisão por pares antes da publicação. | Her makale yayımlanmadan önce hakem değerlendirmesinden geçer.
+o plágio | intihal | isim (e) | O plágio é considerado uma falta grave em qualquer universidade. | İntihal her üniversitede ağır bir kusur sayılır.
+o doutorando | doktora öğrencisi | isim (e) | O doutorando passou um ano pesquisando em arquivos de Coimbra. | Doktora öğrencisi bir yılını Coimbra arşivlerinde araştırma yaparak geçirdi.
+a bolsa de pesquisa | araştırma bursu | isim (d) | Sem a bolsa de pesquisa, ele não conseguiria terminar o doutorado. | Araştırma bursu olmasa doktorasını bitiremezdi.
+o congresso | kongre | isim (e) | Apresentamos os resultados preliminares num congresso em Florianópolis. | Ön sonuçları Florianópolis'teki bir kongrede sunduk.
+a defesa | savunma (tez) | isim (d) | Depois da defesa, a família inteira foi comemorar num restaurante. | Savunmadan sonra bütün aile kutlamak için bir restorana gitti.
