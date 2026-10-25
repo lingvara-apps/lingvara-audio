@@ -1,0 +1,45 @@
+# DIALOG: Fes'te bir çeviri atölyesi | Arapça C2 seviyesi konuşmalar | Emre | Salma
+## Eski medinede karşılaşma
+A | معذرةً، أظنني ضللت الطريق؛ فأزقّة هذه المدينة العتيقة تتشعّب كأنها متاهة لا مخرج منها. | Kusura bakmayın, sanırım yolumu kaybettim; bu eski şehrin sokakları çıkışı olmayan bir labirent gibi dallanıp budaklanıyor.
+B | لست أول من تبتلعه أزقّة فاس، ولن تكون الأخير. إلى أين تقصد؟ | Fes'in sokaklarının yuttuğu ilk kişi siz değilsiniz, son kişi de olmayacaksınız. Nereye gitmek istiyorsunuz?
+A | إلى دار الترجمة قرب القرويين؛ فثمة ورشة تبدأ بعد ساعة، وأخشى أن يفوتني الافتتاح. | Karaviyyin yakınındaki tercüme evine; bir saat sonra bir atölye başlıyor ve açılışı kaçırmaktan korkuyorum.
+B | يا لها من مصادفة! أنا ذاهبة إليها بنفسي، فأنا من يدير الجلسة الأولى. اسمي سلمى. | Ne tesadüf! Ben de oraya gidiyorum; ilk oturumu ben yönetiyorum. Adım Salma.
+A | تشرّفت بمعرفتك. أنا إمره، مهندس تحوّل هاويًا للأدب، أو قل: مترجمًا يحبو على أولى عتبات الصنعة. | Tanıştığıma şeref duydum. Ben Emre; edebiyat meraklısına dönüşmüş bir mühendisim, ya da şöyle diyelim: mesleğin ilk eşiklerinde emekleyen bir çevirmen.
+B | لا تقلّل من شأنك؛ فمن يقطع المسافات من أجل ورشة ترجمة ليس هاويًا عابرًا. | Kendinizi küçümsemeyin; bir çeviri atölyesi için bunca yol tepen biri gelip geçici bir meraklı değildir.
+A | لعلّك محقّة. الحقّ أنّ الترجمة صارت شغفي منذ قرأت الرومي بالفارسية ثم بالعربية فوجدته شاعرين مختلفين. | Belki haklısınız. Doğrusu, Mevlânâ'yı önce Farsça sonra Arapça okuyup iki ayrı şair bulduğumdan beri çeviri tutkum oldu.
+B | هذه بالضبط إشكالية ورشتنا: هل يبقى النص هو نفسه حين يعبر من لغة إلى أخرى؟ | Atölyemizin sorunsalı da tam olarak bu: Metin bir dilden ötekine geçtiğinde aynı metin olarak kalır mı?
+A | أخشى أن الجواب يحتاج إلى أكثر من ورشة، بل إلى عمر بأكمله. | Korkarım cevap bir atölyeden fazlasını, hatta bütün bir ömrü gerektirir.
+B | فلنبدأ إذن بالخطوة الأولى؛ اتبعني، وانتبه لخطاك، فالأرض زلقة بعد مطر الأمس. | O hâlde ilk adımla başlayalım; peşimden gelin ve adımlarınıza dikkat edin, dünkü yağmurdan sonra zemin kaygan.
+## Atölyede çeviri tartışması
+B | لنأخذ هذا المثل: "الكعكة في يد اليتيم عجب". كيف تنقله إلى التركية دون أن تخون روحه؟ | Şu atasözünü ele alalım: "Yetimin elindeki çörek herkese harika görünür." Ruhuna ihanet etmeden Türkçeye nasıl aktarırsınız?
+A | لو ترجمته حرفيًا لبدا غريبًا على القارئ التركي، لكن عندنا مثل قريب: "دجاجة الجار تبدو للجار إوزّة". | Kelimesi kelimesine çevirsem Türk okura tuhaf gelir; ama bizde yakın bir atasözü var: "Komşunun tavuğu komşuya kaz görünür."
+B | جميل، غير أنك بذلك تستبدل صورة بصورة؛ ألا تخشى أن تمحو الخصوصية الثقافية للنص؟ | Güzel, ama böylece bir imgeyi başka bir imgeyle değiştiriyorsunuz; metnin kültürel özgünlüğünü silmekten korkmuyor musunuz?
+A | هذا هو المأزق الأزلي: إما أمانة تثقل النص، وإما تصرّف يفقده نكهته. | İşte ezelî çıkmaz bu: Ya metni ağırlaştıran bir sadakat, ya da onun tadını kaçıran bir serbestlik.
+B | أراك تقع في المعضلة الزائفة نفسها التي يقع فيها كثيرون؛ فبين الطرفين درجات لا حصر لها. | Pek çok kişinin düştüğü aynı yanlış ikileme düşüyorsunuz; iki uç arasında sayısız ara derece var.
+A | أصبتِ، فقد أترجم المثل حرفيًا ثم أضيف حاشية تشرح المقصود، أو أوفّق بين الصورتين. | Haklısınız; atasözünü harfi harfine çevirip kastedileni açıklayan bir dipnot ekleyebilir ya da iki imgeyi uzlaştırabilirim.
+B | والحواشي سلاح ذو حدّين؛ إن كثرت أرهقت القارئ وقطعت عليه متعة القراءة. | Dipnotlar da iki tarafı keskin kılıçtır; çoğalırlarsa okuru yorar ve okuma zevkini böler.
+A | إذن، ما القول الفصل في نظرك؟ هل ثمة قاعدة ذهبية؟ | Peki sizce son söz nedir? Altın bir kural var mı?
+B | لا قاعدة إلا الحسّ المرهف بالسياق، ومعرفة القارئ الذي تكتب له. | Bağlama karşı ince bir duyarlılık ve kime yazdığınızı bilmekten başka kural yok.
+A | كأنكِ تقولين إن الترجمة فنّ قبل أن تكون علمًا. | Sanki çevirinin bilimden önce bir sanat olduğunu söylüyorsunuz.
+## Akşam yemeğinde
+A | لم أتذوّق طاجينًا بهذه النكهة من قبل؛ مزيج الحامض والحلو مدهش حقًّا. | Daha önce bu lezzette bir tajin tatmamıştım; ekşiyle tatlının karışımı gerçekten şaşırtıcı.
+B | إنه بالبرقوق واللوز، وصفة جدّتي التي تحرص على أن لا يُفشى سرّها لأحد. | Erik ve bademli; büyükannemin, sırrının kimseye açılmamasına özen gösterdiği tarifi.
+A | جُعلتُ فداكِ إن أخبرتِني بها، أعدك أن أحفظ السرّ كما تُحفظ الأمانات. | Bana söylerseniz kurban olayım, sırrı emanet gibi saklayacağıma söz veriyorum.
+B | ههه، لا تُتعب نفسك، فوعود الرجال في هذا الشأن مواعيد عرقوب. | Hah, boşuna uğraşmayın; erkeklerin bu konudaki vaatleri hiç tutulmayan sözlerdir.
+A | ظلمتِني! لكن دعيني أسألك سؤالًا أكثر جدّية: ما الذي دفعك إلى الترجمة؟ | Haksızlık ediyorsunuz! Ama size daha ciddi bir soru sorayım: Sizi çeviriye iten neydi?
+B | نشأت في بيت تتجاور فيه العربية والأمازيغية والفرنسية، فكانت الترجمة خبزي اليومي قبل أن تصير مهنتي. | Arapçanın, Amazigcanın ve Fransızcanın yan yana yaşadığı bir evde büyüdüm; çeviri mesleğim olmadan önce gündelik ekmeğimdi.
+A | هذا يفسّر رحابة صدرك تجاه الاختلاف؛ فمن عاش بين لغات شتى يرى العالم من زوايا متعددة. | Bu, farklılıklara karşı geniş gönüllülüğünüzü açıklıyor; birçok dil arasında yaşayan dünyayı çok açıdan görür.
+B | وأنت؟ مهندس يترك الخرسانة إلى الكلمات؛ أليس في ذلك شيء من المفارقة؟ | Ya siz? Betonu bırakıp kelimelere yönelen bir mühendis; bunda biraz paradoks yok mu?
+A | ربما، لكني أرى البناء والترجمة وجهين لعملة واحدة: كلاهما يشيّد جسرًا متينًا فوق هوّة. | Belki, ama ben inşaatla çeviriyi aynı madalyonun iki yüzü olarak görüyorum: İkisi de bir uçurumun üstüne sağlam bir köprü kurar.
+B | تشبيه بليغ، لا فُضّ فوك! سأستعيره في محاضرتي القادمة إن أذنت. | Etkileyici bir benzetme, ağzınıza sağlık! İzin verirseniz bir sonraki konuşmamda ödünç alacağım.
+## Veda ve gelecek planları
+A | انقضت الأيام الثلاثة كلمح البصر، وكأنني وصلت بالأمس. | Üç gün göz açıp kapayıncaya kadar geçti; sanki dün gelmişim.
+B | هكذا هي الأيام الجميلة، تمرّ مرور الكرام وتترك فينا أثرًا لا يُمحى. | Güzel günler böyledir; geçip gider ama içimizde silinmez bir iz bırakır.
+A | خرجت من الورشة بأسئلة أكثر مما جئت به، وهذا وحده مكسب عظيم. | Atölyeden geldiğimden daha fazla soruyla çıktım; bu tek başına büyük bir kazanç.
+B | ذاك هو الغرض؛ فالمعرفة الحقة تولّد الأسئلة لا الأجوبة الجاهزة. | Amaç da buydu; gerçek bilgi hazır cevaplar değil, sorular doğurur.
+A | ما رأيك أن نتعاون في ترجمة مختارات من الأمثال التركية والمغربية إلى العربية؟ | Türk ve Fas atasözlerinden bir seçkiyi birlikte Arapçaya çevirmeye ne dersiniz?
+B | فكرة تستحق التأمل، شريطة أن تتولى أنت الحواشي وأتولى أنا الاستهلال! | Üzerinde düşünmeye değer bir fikir; şu şartla ki dipnotlar sizden, giriş benden!
+A | اتفقنا، وإن كنت أظن أن الاستهلال هو الجزء الأصعب. | Anlaştık, gerçi bence asıl zor kısım giriş.
+B | سنرى من منا يخلّ بوعده أولًا. أرسل إليّ المسودة متى ما انتهيت منها. | Bakalım hangimiz sözünden önce döneceğiz. Taslağı bitirdiğinizde bana gönderin.
+A | سأفعل بإذن الله. صحبتك السلامة، وإلى لقاء قريب في إسطنبول هذه المرة. | Allah'ın izniyle göndereceğim. Selametle kalın; bu kez yakında İstanbul'da görüşmek üzere.
+B | في حفظ الله، ولا تنسَ أن تحذر من أزقّة إسطنبول أيضًا، فلعلها أشد متاهةً من أزقّة فاس! | Allah'a emanet olun; İstanbul'un sokaklarına da dikkat etmeyi unutmayın, belki onlar Fes'inkilerden de karmaşıktır!
