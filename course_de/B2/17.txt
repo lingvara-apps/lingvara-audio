@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Yollar
+die Landstraße (die Landstraßen) | şehirlerarası yol | isim (d) | Auf der Landstraße darf man in Deutschland hundert fahren. | Almanya'da şehirlerarası yolda saatte yüz kilometreyle gidilebilir.
+die Einbahnstraße (die Einbahnstraßen) | tek yönlü yol | isim (d) | Du darfst hier nicht rein, das ist eine Einbahnstraße. | Buraya giremezsin, burası tek yönlü yol.
+die Umleitung (die Umleitungen) | dolambaçlı yol, yönlendirme | isim (d) | Wegen der Baustelle gibt es eine lange Umleitung. | İnşaat yüzünden uzun bir yönlendirme var.
+der Fahrstreifen (die Fahrstreifen) | şerit | isim (e) | Auf der Autobahn sollte man immer den rechten Fahrstreifen benutzen. | Otoyolda her zaman sağ şerit kullanılmalı.
+die Auffahrt (die Auffahrten) | otoyol girişi | isim (d) | Die Auffahrt zur Autobahn ist heute wegen eines Unfalls gesperrt. | Otoyol girişi bugün bir kaza yüzünden kapalı.
+die Ausfahrt (die Ausfahrten) | çıkış (otoyol) | isim (d) | Nehmen Sie die nächste Ausfahrt und fahren Sie dann rechts. | Bir sonraki çıkıştan çıkıp sonra sağa dönün.
+der Kreisverkehr (die Kreisverkehre) | göbekli kavşak | isim (e) | Im Kreisverkehr nehmen Sie bitte die zweite Ausfahrt. | Göbekli kavşakta lütfen ikinci çıkışı alın.
+der Tunnel (die Tunnel) | tünel | isim (e) | Der Tunnel durch den Gotthard ist über fünfzehn Kilometer lang. | Gotthard'ın içinden geçen tünel on beş kilometreden uzun.
+die Bundesstraße (die Bundesstraßen) | devlet karayolu | isim (d) | Statt der Autobahn nehmen wir lieber die schöne Bundesstraße. | Otoyol yerine güzel devlet karayolunu tercih ediyoruz.
+der Gehweg (die Gehwege) | kaldırım | isim (e) | Fahrräder haben auf dem Gehweg nichts zu suchen. | Bisikletlerin kaldırımda işi yok.
+## Sürüş
+überholen | sollamak | fiil | Auf dieser kurvigen Straße sollte man nicht überholen. | Bu virajlı yolda sollama yapılmamalı.
+abbiegen (bog ab, abgebogen) | dönmek, sapmak | fiil · düzensiz | An der nächsten Ampel musst du links abbiegen. | Bir sonraki trafik ışığında sola dönmen gerekiyor.
+bremsen | fren yapmak | fiil | Der Fahrer konnte gerade noch rechtzeitig bremsen. | Sürücü tam zamanında fren yapabildi.
+beschleunigen | hızlanmak | fiil | Das neue Elektroauto beschleunigt an der Ampel erstaunlich schnell. | Yeni elektrikli araba trafik ışığında şaşırtıcı derecede hızlı hızlanıyor.
+die Vorfahrt | geçiş üstünlüğü | isim (d) | An dieser Kreuzung hat der Bus immer Vorfahrt. | Bu kavşakta otobüsün her zaman geçiş üstünlüğü var.
+einparken | park etmek (aracı yerleştirmek) | fiil | Rückwärts einparken fällt mir immer noch schwer. | Geri geri park etmek bana hâlâ zor geliyor.
+der Sicherheitsabstand | takip mesafesi | isim (e) | Bei Regen sollte man einen größeren Sicherheitsabstand halten. | Yağmurda daha büyük bir takip mesafesi bırakmak gerekir.
+blinken | sinyal vermek | fiil | Vor dem Abbiegen muss man immer rechtzeitig blinken. | Dönmeden önce her zaman zamanında sinyal vermek gerekir.
+die Geschwindigkeit (die Geschwindigkeiten) | hız | isim (d) | In der Stadt ist die Geschwindigkeit auf fünfzig begrenzt. | Şehirde hız elli ile sınırlı.
+der Fahrer (die Fahrer) | sürücü | isim (e) | Der Fahrer des Lastwagens hat den Radfahrer nicht gesehen. | Kamyonun sürücüsü bisikletliyi görmedi.
+## Araç parçaları
+das Lenkrad (die Lenkräder) | direksiyon | isim (o) | Beim Fahren sollte man beide Hände am Lenkrad haben. | Araba kullanırken iki el de direksiyonda olmalı.
+die Bremse (die Bremsen) | fren | isim (d) | Die Bremsen müssen in der Werkstatt dringend geprüft werden. | Frenlerin acilen tamirhanede kontrol edilmesi gerekiyor.
+der Reifen (die Reifen) | lastik | isim (e) | Ein Reifen ist platt, wir müssen ihn sofort wechseln. | Bir lastik patlak, hemen değiştirmemiz gerekiyor.
+der Motor (die Motoren) | motor | isim (e) | Der Motor macht seit gestern ein komisches Geräusch. | Motor dünden beri garip bir ses çıkarıyor.
+der Kofferraum (die Kofferräume) | bagaj | isim (e) | Die Koffer passen leider nicht alle in den Kofferraum. | Bavulların hepsi maalesef bagaja sığmıyor.
+die Windschutzscheibe (die Windschutzscheiben) | ön cam | isim (d) | Ein kleiner Stein hat die Windschutzscheibe beschädigt. | Küçük bir taş ön cama zarar verdi.
+der Scheinwerfer (die Scheinwerfer) | far | isim (e) | In der Dämmerung muss man die Scheinwerfer einschalten. | Alacakaranlıkta farları yakmak gerekir.
+der Sicherheitsgurt (die Sicherheitsgurte) | emniyet kemeri | isim (e) | Bitte legen Sie während der Fahrt den Sicherheitsgurt an. | Lütfen yolculuk boyunca emniyet kemerini takın.
+der Blinker (die Blinker) | sinyal lambası | isim (e) | Dein linker Blinker funktioniert nicht, das ist gefährlich. | Sol sinyalin çalışmıyor, bu tehlikeli.
+das Kennzeichen (die Kennzeichen) | plaka | isim (o) | Am Kennzeichen sieht man, dass das Auto aus Wien kommt. | Plakadan arabanın Viyana'dan geldiği anlaşılıyor.
+## Trafik kuralları
+die Straßenverkehrsordnung | karayolları trafik yönetmeliği | isim (d) | Die Straßenverkehrsordnung gilt natürlich auch für alle Radfahrer. | Trafik yönetmeliği tabii ki bütün bisikletliler için de geçerlidir.
+das Tempolimit (die Tempolimits) | hız sınırı | isim (o) | Auf vielen deutschen Autobahnen gibt es kein festes Tempolimit. | Birçok Alman otoyolunda sabit bir hız sınırı yok.
+der Blitzer (die Blitzer) | hız radarı | isim (e) | Vor dem Blitzer bremsen alle plötzlich stark ab. | Hız radarının önünde herkes birden sert fren yapıyor.
+die Promillegrenze | yasal alkol sınırı | isim (d) | In Deutschland liegt die Promillegrenze für Autofahrer bei 0,5. | Almanya'da sürücüler için yasal alkol sınırı 0,5 promil.
+betrunken | sarhoş | sıfat | Wer betrunken Auto fährt, verliert schnell den Führerschein. | Sarhoş araba kullanan ehliyetini çabucak kaybeder.
+das Verkehrszeichen (die Verkehrszeichen) | trafik işareti | isim (o) | Dieses Verkehrszeichen bedeutet, dass hier Parken verboten ist. | Bu trafik işareti burada park etmenin yasak olduğu anlamına gelir.
+die Verkehrskontrolle (die Verkehrskontrollen) | trafik kontrolü | isim (d) | Bei der Verkehrskontrolle wollte die Polizei meinen Führerschein sehen. | Trafik kontrolünde polis ehliyetimi görmek istedi.
+die Fahrprüfung (die Fahrprüfungen) | sürüş sınavı | isim (d) | Beim zweiten Versuch hat er die Fahrprüfung bestanden. | Sürüş sınavını ikinci denemede geçti.
+die Fahrschule (die Fahrschulen) | sürücü kursu | isim (d) | In der Fahrschule hatte ich dreißig Fahrstunden. | Sürücü kursunda otuz saat direksiyon dersi aldım.
+die Winterreifenpflicht | kış lastiği zorunluluğu | isim (d) | In Österreich gilt im Winter eine Winterreifenpflicht. | Avusturya'da kışın kış lastiği zorunluluğu var.
+## Kazalar
+der Auffahrunfall (die Auffahrunfälle) | arkadan çarpma kazası | isim (e) | Im Stau gab es einen kleinen Auffahrunfall. | Trafik sıkışıklığında küçük bir arkadan çarpma kazası oldu.
+der Zusammenstoß (die Zusammenstöße) | çarpışma | isim (e) | Bei dem Zusammenstoß zweier Lastwagen wurde niemand verletzt. | İki kamyonun çarpışmasında kimse yaralanmadı.
+zusammenstoßen (stieß zusammen, zusammengestoßen) | çarpışmak | fiil · düzensiz | An der Kreuzung sind ein Bus und ein Auto zusammengestoßen. | Kavşakta bir otobüs ile bir araba çarpıştı.
+die Unfallstelle (die Unfallstellen) | kaza yeri | isim (d) | Die Polizei hat die Unfallstelle großräumig abgesperrt. | Polis kaza yerini geniş bir alanda kapattı.
+der Sachschaden (die Sachschäden) | maddi hasar | isim (e) | Bei dem Unfall entstand nur ein geringer Sachschaden. | Kazada sadece küçük bir maddi hasar oluştu.
+der Blechschaden (die Blechschäden) | kaporta hasarı | isim (e) | Zum Glück war es nur ein Blechschaden. | Neyse ki sadece bir kaporta hasarıydı.
+die Fahrerflucht | kaza yerinden kaçma | isim (d) | Nach dem Unfall beging der Fahrer Fahrerflucht. | Kazadan sonra sürücü olay yerinden kaçtı.
+rutschen | kaymak | fiil | Auf der glatten Straße ist das Auto in den Graben gerutscht. | Kaygan yolda araba hendeğe kaydı.
+die Glätte | buzlanma, kayganlık | isim (d) | Wegen Glätte kam es am Morgen zu vielen Unfällen. | Buzlanma yüzünden sabah birçok kaza oldu.
+der Unfallhergang | kazanın oluş şekli | isim (e) | Die Zeugen schilderten der Polizei den Unfallhergang. | Tanıklar polise kazanın nasıl olduğunu anlattı.
+## Toplu taşıma
+der öffentliche Nahverkehr | şehir içi toplu taşıma | ifade | In Wien ist der öffentliche Nahverkehr sehr gut und günstig. | Viyana'da şehir içi toplu taşıma çok iyi ve ucuz.
+das Verkehrsmittel (die Verkehrsmittel) | ulaşım aracı | isim (o) | Das Fahrrad ist in Amsterdam das wichtigste Verkehrsmittel. | Bisiklet Amsterdam'da en önemli ulaşım aracıdır.
+die Monatskarte (die Monatskarten) | aylık bilet | isim (d) | Mit der Monatskarte kann ich alle Busse und Bahnen benutzen. | Aylık biletle bütün otobüs ve trenleri kullanabiliyorum.
+der Fahrgast (die Fahrgäste) | yolcu | isim (e) | Die Fahrgäste mussten wegen einer Störung aussteigen. | Yolcular bir arıza yüzünden inmek zorunda kaldı.
+die Linie (die Linien) | hat | isim (d) | Zum Bahnhof fahren Sie am besten mit der Linie fünf. | Gara en iyisi beş numaralı hatla gidersiniz.
+die Endstation (die Endstationen) | son durak | isim (d) | Ich bin eingeschlafen und erst an der Endstation aufgewacht. | Uyuyakaldım ve ancak son durakta uyandım.
+der Busfahrer (die Busfahrer) | otobüs şoförü | isim (e) | Der Busfahrer hat extra auf die alte Dame gewartet. | Otobüs şoförü yaşlı hanımı özellikle bekledi.
+schwarzfahren (fuhr schwarz, schwarzgefahren) | biletsiz binmek | fiil · düzensiz | Wer schwarzfährt, muss sechzig Euro Strafe zahlen. | Biletsiz binen altmış euro ceza ödemek zorunda.
+der Kontrolleur (die Kontrolleure) | bilet kontrolörü | isim (e) | Der Kontrolleur wollte im Bus alle Fahrkarten sehen. | Kontrolör otobüste bütün biletleri görmek istedi.
+die Rolltreppe (die Rolltreppen) | yürüyen merdiven | isim (d) | Die Rolltreppe zur U-Bahn ist schon wieder außer Betrieb. | Metroya inen yürüyen merdiven yine çalışmıyor.
+## Demiryolu
+der Fernverkehr | uzun mesafe ulaşım | isim (e) | Im Fernverkehr fallen heute wegen des Sturms viele Züge aus. | Uzun mesafe ulaşımda bugün fırtına yüzünden birçok tren iptal.
+der Regionalzug (die Regionalzüge) | bölgesel tren | isim (e) | Der Regionalzug hält in jedem kleinen Dorf. | Bölgesel tren her küçük köyde duruyor.
+die Bahncard (die Bahncards) | indirim kartı (tren) | isim (d) | Mit der Bahncard fahre ich viel günstiger nach Berlin. | İndirim kartıyla Berlin'e çok daha ucuza gidiyorum.
+der Speisewagen (die Speisewagen) | yemekli vagon | isim (e) | Im Speisewagen haben wir eine warme Suppe gegessen. | Yemekli vagonda sıcak bir çorba içtik.
+der Fahrkartenautomat (die Fahrkartenautomaten) | bilet otomatı | isim (e) | Der Fahrkartenautomat am Bahnsteig nimmt leider keine Scheine. | Perondaki bilet otomatı maalesef banknot kabul etmiyor.
+die Zugverbindung (die Zugverbindungen) | tren bağlantısı | isim (d) | Zwischen Zürich und Mailand gibt es eine schnelle Zugverbindung. | Zürih ile Milano arasında hızlı bir tren bağlantısı var.
+der Zugausfall (die Zugausfälle) | tren iptali | isim (e) | Wegen eines Zugausfalls kam ich zwei Stunden zu spät. | Bir tren iptali yüzünden iki saat geç kaldım.
+der Waggon (die Waggons) | vagon | isim (e) | Die Fahrräder stehen im letzten Waggon des Zuges. | Bisikletler trenin son vagonunda duruyor.
+der Hauptbahnhof (die Hauptbahnhöfe) | merkez garı | isim (e) | Treffen wir uns um zehn vor dem Hauptbahnhof? | Saat onda merkez garın önünde buluşalım mı?
+der Schienenersatzverkehr | tren yerine otobüs seferi | isim (e) | Wegen Bauarbeiten gibt es zwischen den Städten Schienenersatzverkehr. | İnşaat yüzünden şehirler arasında tren yerine otobüs seferi var.
+## Araç sahipliği
+der Neuwagen (die Neuwagen) | sıfır araba | isim (e) | Ein Neuwagen verliert im ersten Jahr viel an Wert. | Sıfır bir araba ilk yılda çok değer kaybeder.
+der Gebrauchtwagen (die Gebrauchtwagen) | ikinci el araba | isim (e) | Für das erste Auto kaufen wir lieber einen Gebrauchtwagen. | İlk araba için ikinci el bir araba almayı tercih ediyoruz.
+das Elektroauto (die Elektroautos) | elektrikli araba | isim (o) | Das Elektroauto lade ich nachts in der Garage auf. | Elektrikli arabayı geceleri garajda şarj ediyorum.
+die Ladestation (die Ladestationen) | şarj istasyonu | isim (d) | Auf dem Supermarktparkplatz gibt es jetzt zwei Ladestationen. | Süpermarketin otoparkında artık iki şarj istasyonu var.
+der Kraftstoff (die Kraftstoffe) | yakıt (araç) | isim (e) | Der Verbrauch an Kraftstoff ist bei hoher Geschwindigkeit größer. | Yüksek hızda yakıt tüketimi daha fazladır.
+der Diesel | dizel | isim (e) | Unser alter Diesel darf nicht mehr in die Innenstadt. | Eski dizel arabamız artık şehir merkezine giremiyor.
+das Benzin | benzin | isim (o) | Der Preis für Benzin ist diese Woche wieder gestiegen. | Benzin fiyatı bu hafta yine arttı.
+die Kfz-Versicherung (die Kfz-Versicherungen) | araç sigortası | isim (d) | Die Kfz-Versicherung ist für junge Fahrer besonders teuer. | Araç sigortası genç sürücüler için özellikle pahalı.
+die Zulassung (die Zulassungen) | ruhsat, tescil | isim (d) | Für die Zulassung des Autos muss ich zur Behörde. | Arabanın tescili için resmî daireye gitmem gerekiyor.
+die Hauptuntersuchung (die Hauptuntersuchungen) | araç muayenesi | isim (d) | Alle zwei Jahre muss das Auto zur Hauptuntersuchung. | Araba iki yılda bir araç muayenesine girmek zorunda.
+## Ulaşım politikası
+die Verkehrswende | ulaşım dönüşümü | isim (d) | Für die Verkehrswende braucht man mehr Busse und Radwege. | Ulaşım dönüşümü için daha fazla otobüs ve bisiklet yolu gerekiyor.
+der Berufsverkehr | iş trafiği | isim (e) | Im Berufsverkehr brauche ich eine Stunde ins Büro. | İş trafiğinde ofise bir saatte gidiyorum.
+die Hauptverkehrszeit (die Hauptverkehrszeiten) | yoğun trafik saati | isim (d) | Zur Hauptverkehrszeit sind die Züge immer überfüllt. | Yoğun saatlerde trenler hep tıklım tıklım.
+das Carsharing | araç paylaşımı (kiralama) | isim (o) | Seit wir Carsharing nutzen, brauchen wir kein eigenes Auto. | Araç paylaşımı kullandığımızdan beri kendi arabamıza ihtiyacımız yok.
+das Lastenrad (die Lastenräder) | yük bisikleti | isim (o) | Mit dem Lastenrad bringt sie die Kinder in die Kita. | Yük bisikletiyle çocukları kreşe götürüyor.
+die Verkehrsberuhigung | trafik yatıştırma | isim (d) | Zur Verkehrsberuhigung gibt es im Viertel jetzt Tempo dreißig. | Trafiği yatıştırmak için semtte artık hız sınırı otuz.
+die Umweltzone (die Umweltzonen) | çevre bölgesi (düşük emisyon) | isim (d) | In die Umweltzone dürfen nur Autos mit grüner Plakette. | Çevre bölgesine sadece yeşil etiketli arabalar girebilir.
+die Fahrgemeinschaft (die Fahrgemeinschaften) | ortak araç kullanımı | isim (d) | Mit den Kollegen haben wir eine Fahrgemeinschaft gebildet. | Meslektaşlarla ortak araç kullanımı oluşturduk.
+die Mautgebühr (die Mautgebühren) | otoyol geçiş ücreti | isim (d) | In Italien muss man auf der Autobahn eine Mautgebühr zahlen. | İtalya'da otoyolda geçiş ücreti ödemek gerekir.
+der Fahrradstreifen (die Fahrradstreifen) | bisiklet şeridi | isim (e) | Auf der Hauptstraße gibt es jetzt einen breiten Fahrradstreifen. | Ana caddede artık geniş bir bisiklet şeridi var.
+## Hava ve deniz yolu
+die Fähre (die Fähren) | feribot | isim (d) | Mit der Fähre fahren wir von Kiel nach Oslo. | Feribotla Kiel'den Oslo'ya gidiyoruz.
+der Hafen (die Häfen) | liman | isim (e) | Der Hamburger Hafen ist einer der größten Häfen Europas. | Hamburg Limanı Avrupa'nın en büyük limanlarından biri.
+die Fluggesellschaft (die Fluggesellschaften) | havayolu şirketi | isim (d) | Die Fluggesellschaft hat meinen Flug ohne Grund storniert. | Havayolu şirketi uçuşumu sebepsiz yere iptal etti.
+der Flugbegleiter (die Flugbegleiter) | kabin memuru | isim (e) | Die Flugbegleiterin brachte mir ein Glas Wasser. | Kabin memuru bana bir bardak su getirdi.
+die Landung (die Landungen) | iniş | isim (d) | Bei der Landung haben alle Passagiere geklatscht. | İnişte bütün yolcular alkışladı.
+der Start (die Starts) | kalkış | isim (e) | Beim Start müssen alle Handys im Flugmodus sein. | Kalkışta bütün telefonlar uçak modunda olmalı.
+die Turbulenz (die Turbulenzen) | türbülans | isim (d) | Wegen starker Turbulenzen mussten alle angeschnallt bleiben. | Şiddetli türbülans yüzünden herkesin kemerli kalması gerekti.
+das Gepäckband (die Gepäckbänder) | bagaj bandı | isim (o) | Am Gepäckband warteten wir fast eine Stunde auf die Koffer. | Bagaj bandında bavullar için neredeyse bir saat bekledik.
+der Anschlussflug (die Anschlussflüge) | aktarmalı uçuş | isim (e) | Wegen der Verspätung habe ich meinen Anschlussflug verpasst. | Rötar yüzünden aktarmalı uçuşumu kaçırdım.
+die Passkontrolle (die Passkontrollen) | pasaport kontrolü | isim (d) | An der Passkontrolle war die Schlange sehr lang. | Pasaport kontrolünde kuyruk çok uzundu.
