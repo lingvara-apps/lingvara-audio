@@ -1,0 +1,135 @@
+# UNIT: Pinyin ve tonlar | Basitleştirilmiş Çince pinyin sistemi ve 4 temel ton
+## Başlangıç ünsüzleri — 1
+b (p) | b — "baba"daki b sesi | harf · ünsüz | bōluó (bōluó) | ananas
+p (p) | p — "para"daki p sesi, nefesli | harf · ünsüz | píjiǔ (píjiǔ) | bira
+m (m) | m — "masa"daki m sesi | harf · ünsüz | mǐfàn (mǐfàn) | pilav
+f (f) | f — "fil"deki f sesi | harf · ünsüz | fēijī (fēijī) | uçak
+d (t) | t — "tatlı"daki d/t arası ses | harf · ünsüz | dàgē (dàgē) | büyük ağabey
+t (t) | t — "top"taki t sesi, nefesli | harf · ünsüz | tàiyáng (tàiyáng) | güneş
+n (n) | n — "nar"daki n sesi | harf · ünsüz | nǎinai (nǎinai) | büyükanne
+l (l) | l — "lale"deki l sesi | harf · ünsüz | lǎoshī (lǎoshī) | öğretmen
+g (k) | k — "kalem"deki k sesi | harf · ünsüz | gōngsī (gōngsī) | şirket
+k (k) | k — "kedi"deki k sesi, nefesli | harf · ünsüz | kàoshì (kàoshì) | sınav
+## Başlangıç ünsüzleri — 2 ve sesliler
+h (h) | h — gırtlaktan gelen hafif h sesi | harf · ünsüz | hǎiyáng (hǎiyáng) | okyanus
+j (c) | c — "cami"deki c sesi, dil damakta | harf · ünsüz | jiějie (jiějie) | abla
+q (ç) | ç — "çay"daki ç sesi, nefesli | harf · ünsüz | qìchē (qìchē) | araba
+x (ş) | ş — "şeker"deki ş sesi, ince | harf · ünsüz | xuésheng (xuésheng) | öğrenci
+zh (c) | c — "cilt" kelimesindeki c, kalın | harf · ünsüz | zhōngguó (zhōngguó) | Çin
+ch (ç) | ç — "çay" kelimesindeki ç, kalın | harf · ünsüz | chīfàn (chīfàn) | yemek yemek
+sh (ş) | ş — "şal" kelimesindeki ş, kalın | harf · ünsüz | shūshu (shūshu) | amca
+r (r) | r — hırıltılı j ve r arası ses | harf · ünsüz | rènao (rènao) | hareketli ve neşeli
+a (a) | a — "araba"daki a sesi | harf · sesli | māma (māma) | anne
+o (o) | o — "okul"daki o sesi | harf · sesli | bōbo (bōbo) | dalga
+## Dört temel ton
+mā (1. ton) | 1. ton — yüksek ve düz ton | harf · sesli | māma (māma) | anne
+má (2. ton) | 2. ton — yükselen ton | harf · sesli | máfan (máfan) | sorun
+mǎ (3. ton) | 3. ton — alçalan-yükselen kıvrımlı ton | harf · sesli | mǎlù (mǎlù) | cadde
+mà (4. ton) | 4. ton — sert ve alçalan ton | harf · sesli | mèiwei (mèiwei) | lezzetli
+bā (1. ton) | sekiz sayısı, 1. ton | sayı | bāge (bāge) | sekiz tane
+shí (2. ton) | on sayısı, 2. ton | sayı | shíge (shíge) | on tane
+wǔ (3. ton) | beş sayısı, 3. ton | sayı | wǔgè (wǔgè) | beş tane
+èr (4. ton) | iki sayısı, 4. ton | sayı | èrshí (èrshí) | yirmi
+nǐ (3. ton) | zamir — sen, 3. ton | zamir | nǐhǎo (nǐhǎo) | merhaba
+wǒ (3. ton) | zamir — ben, 3. ton | zamir | wǒmen (wǒmen) | biz
+# UNIT: Temel karakterler | Sayılar, renkler ve temel yapılar
+## Sayılar ve renkler 1
+一 (yī) | bir | sayı | yīge (yīge) | bir tane
+二 (èr) | iki | sayı | èrge (èrge) | iki tane
+三 (sān) | üç | sayı | sāntiān (sāntiān) | üç gün
+四 (sì) | dört | sayı | sìtiān (sìtiān) | dört gün
+五 (wǔ) | beş | sayı | wǔtiān (wǔtiān) | beş gün
+六 (liù) | altı | sayı | liùge (liùge) | altı tane
+七 (qī) | yedi | sayı | qītiān (qītiān) | yedi gün
+八 (bā) | sekiz | sayı | bātiān (bātiān) | sekiz gün
+九 (jiǔ) | dokuz | sayı | jiǔtiān (jiǔtiān) | dokuz gün
+十 (shí) | on | sayı | shítiān (shítiān) | on gün
+## Sayılar ve renkler 2
+百 (bǎi) | yüz | sayı | bǎihuò (bǎihuò) | mağaza
+红 (hóng) | kırmızı | sıfat | hóngsè (hóngsè) | kırmızı renk
+黄 (huáng) | sarı | sıfat | huángsè (huángsè) | sarı renk
+蓝 (lán) | mavi | sıfat | lánsè (lánsè) | mavi renk
+绿 (lǜ) | yeşil | sıfat | lǜsè (lǜsè) | yeşil renk
+黑 (hēi) | siyah | sıfat | hēisè (hēisè) | siyah renk
+白 (bái) | beyaz | sıfat | báisè (báisè) | beyaz renk
+大 (dà) | büyük | sıfat | dàzi (dàzi) | büyük
+小 (xiǎo) | küçük | sıfat | xiǎorén (xiǎorén) | cüce
+多 (duō) | çok | sıfat | duōshǎo (duōshǎo) | ne kadar
+## Temel aile ve kişiler
+人 (rén) | insan; kişi | isim | zhōngguórén (zhōngguórén) | Çinli
+你 (nǐ) | sen | zamir | nǐmen (nǐmen) | siz
+我 (wǒ) | ben | zamir | wǒmen (wǒmen) | biz
+他 (tā) | o (erkek) | zamir | tāmen (tāmen) | onlar
+她 (tā) | o (kadın) | zamir | tāmen (tāmen) | onlar
+爸 (bà) | baba | isim | bàba (bàba) | baba
+妈 (mā) | anne | isim | māma (māma) | anne
+哥 (gē) | ağabey | isim | gēge (gēge) | ağabey
+姐 (jiě) | abla | isim | jiějie (jiějie) | abla
+弟 (dì) | erkek kardeş | isim | dìdi (dìdi) | küçük erkek kardeş
+# UNIT: İlk kelimeler | Evrensel nesneler ve günlük ifadeler
+## Temel nesneler
+书 (shū) | kitap | isim | zhèbenshū (zhèbenshū) | bu kitap
+笔 (bǐ) | kalem | isim | yìzhībǐ (yìzhībǐ) | bir kalem
+桌 (zhuō) | masa | isim | zhuōzi (zhuōzi) | masa
+椅 (yǐ) | sandalye | isim | yǐzi (yǐzi) | sandalye
+水 (shuǐ) | su | isim | hēshuǐ (hēshuǐ) | su içmek
+茶 (chá) | çay | isim | hēchá (hēchá) | çay içmek
+饭 (fàn) | yemek; pilav | isim | chīfàn (chīfàn) | yemek yemek
+果 (guǒ) | meyve | isim | shuǐguǒ (shuǐguǒ) | meyve
+车 (chē) | araba | isim | qìchē (qìchē) | araba
+房 (fáng) | oda; ev | isim | fángzi (fángzi) | ev
+## Hayvanlar ve doğa
+猫 (māo) | kedi | isim | xiǎomāo (xiǎomāo) | kedicik
+狗 (gǒu) | köpek | isim | xiǎogǒu (xiǎogǒu) | köpekçik
+鸟 (niǎo) | kuş | isim | xiǎoniǎo (xiǎoniǎo) | kuşçuk
+鱼 (yú) | balık | isim | dàgūnyú (dàgūnyú) | büyük balık
+树 (shù) | ağaç | isim | dàshù (dàshù) | büyük ağaç
+花 (huā) | çiçek | isim | hónghuā (hónghuā) | kırmızı çiçek
+草 (cǎo) | ot; çimen | isim | lǜcǎo (lǜcǎo) | yeşil çimen
+天 (tiān) | gökyüzü; gün | isim | tiānqì (tiānqì) | hava durumu
+月 (yuè) | ay | isim | yuèliang (yuèliang) | ay
+日 (rì) | güneş; gün | isim | rìzi (rìzi) | gün
+## Yiyecekler ve temel fiiller
+苹 (píng) | elma (kök) | isim | píngguǒ (píngguǒ) | elma
+面 (miàn) | un; erişte | isim | miàntiáo (miàntiáo) | erişte
+肉 (ròu) | et | isim | zhūròu (zhūròu) | domuz eti
+菜 (cài) | sebze; yemek | isim | zhōngcài (zhōngcài) | Çin yemeği
+吃 (chī) | yemek yemek | fiil | chīfàn (chīfàn) | yemek yemek
+喝 (hē) | içmek | fiil | hēshuǐ (hēshuǐ) | su içmek
+看 (kàn) | bakmak; okumak | fiil | kànshū (kànshū) | kitap okumak
+听 (tīng) | dinlemek | fiil | tīngyīn (tīngyīn) | ses dinlemek
+说 (shuō) | konuşmak | fiil | shuōhuà (shuōhuà) | konuşmak
+写 (xiě) | yazmak | fiil | xiězì (xiězì) | karakter yazmak
+## Günlük ifadeler ve selamlaşma
+好 (hǎo) | iyi | sıfat | hǎohǎo (hǎohǎo) | çok iyi
+早 (zǎo) | erken; günaydın | ifade | zǎoshang (zǎoshang) | sabah
+再 (zài) | tekrar | zarf | zàijiàn (zàijiàn) | hoşça kal
+见 (jiàn) | görüşmek | fiil | zàijiàn (zàijiàn) | görüşmek üzere
+谢 (xiè) | teşekkür etmek | fiil | xièxie (xièxie) | teşekkürler
+不 (bù) | olumsuzluk eki | zarf | búkèqi (búkèqi) | bir şey değil
+对 (duì) | doğru | sıfat | duìbuqǐ (duìbuqǐ) | özür dilerim
+起 (qǐ) | kalkmak | fiil | duìbuqǐ (duìbuqǐ) | affedersiniz
+请 (qǐng) | lütfen; davet etmek | fiil | qǐngwèn (qǐngwèn) | sorabilir miyim
+客 (kè) | misafir | isim | búkèqi (búkèqi) | rica ederim
+## Ekstra ders 1: Ek nesneler
+门 (mén) | kapı | isim | dāmén (dāmén) | dış kapı
+窗 (chuāng) | pencere | isim | chuānghu (chuānghu) | pencere
+桌 (zhuō2) | masa türü | isim | zhuōzi2 (zhuōzi2) | yeni masa
+椅 (yǐ2) | sandalye türü | isim | yǐzi2 (yǐzi2) | yeni sandalye
+水 (shuǐ2) | kaynak suyu | isim | hēshuǐ2 (hēshuǐ2) | berrak su
+茶 (chá2) | yeşil çay | isim | hēchá2 (hēchá2) | yeşil çay içmek
+饭 (fàn2) | lapa yemek | isim | chīfàn2 (chīfàn2) | lapa yemek
+果 (guǒ2) | ekşi meyve | isim | shuǐguǒ2 (shuǐguǒ2) | ekşi meyve
+车 (chē2) | büyük araba | isim | qìchē2 (qìchē2) | büyük araba
+房 (fáng2) | büyük oda | isim | fángzi2 (fángzi2) | büyük ev
+## Ekstra ders 2: Ek fiiller ve sıfatlar
+走 (zǒu) | yürümek | fiil | zǒulù (zǒulù) | yürümek
+跑 (pǎo) | koşmak | fiil | pāobù (pāobù) | koşu yapmak
+跳 (tiào) | zıplamak | fiil | tiàowǔ (tiàowǔ) | dans etmek
+飞 (fēi) | uçmak | fiil | fēixíng (fēixíng) | uçuş yapmak
+游 (yóu) | yüzmek | fiil | yóuyǒng (yóuyǒng) | yüzmek
+唱 (chàng) | şarkı söylemek | fiil | chànggē (chànggē) | şarkı söylemek
+跳 (tiào2) | atlamak | fiil | tiàoyuè (tiàoyuè) | yüksek atlamak
+笑 (xiào) | gülmek | fiil | hǎoxiào (hǎoxiào) | komik
+哭 (kū) | ağlamak | fiil | kūqì (kūqì) | ağlamak
+听 (tīng2) | kulak vermek | fiil | tīnghuà (tīnghuà) | söz dinlemek
