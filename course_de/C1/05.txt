@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+die künstliche Intelligenz | yapay zekâ | ifade | Die künstliche Intelligenz verändert inzwischen fast alle Bereiche der Arbeitswelt grundlegend. | Yapay zekâ artık iş dünyasının neredeyse tüm alanlarını kökten değiştiriyor.
+das maschinelle Lernen | makine öğrenmesi | ifade | Beim maschinellen Lernen erkennt ein System Muster in sehr großen Datenmengen. | Makine öğrenmesinde bir sistem çok büyük veri kümelerindeki örüntüleri tanır.
+das neuronale Netz | yapay sinir ağı | ifade | Das neuronale Netz wurde mit Millionen von beschrifteten Bildern trainiert. | Yapay sinir ağı milyonlarca etiketlenmiş görüntüyle eğitildi.
+das Sprachmodell (die Sprachmodelle) | dil modeli | isim (o) | Ein großes Sprachmodell kann Texte zusammenfassen, übersetzen und sogar Gedichte schreiben. | Büyük bir dil modeli metinleri özetleyebilir, çevirebilir ve hatta şiir yazabilir.
+die Trainingsdaten | eğitim verileri | isim (çoğul) | Verzerrte Trainingsdaten führen häufig zu diskriminierenden Ergebnissen des Systems. | Çarpık eğitim verileri sıklıkla sistemin ayrımcı sonuçlar üretmesine yol açar.
+die Mustererkennung | örüntü tanıma | isim (d) | In der Medizin hilft die automatische Mustererkennung bei der Auswertung von Röntgenbildern. | Tıpta otomatik örüntü tanıma röntgen görüntülerinin değerlendirilmesine yardım ediyor.
+autonom | özerk, otonom | sıfat | Autonome Fahrzeuge müssen auch in unvorhersehbaren Situationen sicher reagieren. | Otonom araçlar öngörülemeyen durumlarda da güvenli tepki vermelidir.
+die Automatisierung (die Automatisierungen) | otomasyon | isim (d) | Die zunehmende Automatisierung bedroht vor allem einfache Routinetätigkeiten. | Artan otomasyon özellikle basit rutin işleri tehdit ediyor.
+die Halluzination (die Halluzinationen) | halüsinasyon (yapay zekâda uydurma bilgi) | isim (d) | Bei Sprachmodellen spricht man von Halluzination, wenn sie falsche Fakten erfinden. | Dil modelleri yanlış bilgiler uydurduğunda halüsinasyondan söz edilir.
+die Nachvollziehbarkeit | izlenebilirlik, anlaşılabilirlik | isim (d) | Für Behörden ist die Nachvollziehbarkeit algorithmischer Entscheidungen besonders wichtig. | Kamu kurumları için algoritmik kararların anlaşılabilirliği özellikle önemlidir.
+## Veri ve algoritmalar
+die Blackbox (die Blackboxes) | kara kutu (işleyişi anlaşılmayan sistem) | isim (d) | Für viele Nutzer bleibt die Funktionsweise des Systems eine undurchsichtige Blackbox. | Birçok kullanıcı için sistemin işleyişi anlaşılmaz bir kara kutu olarak kalıyor.
+die Datenmenge (die Datenmengen) | veri miktarı | isim (d) | Die weltweit erzeugte Datenmenge verdoppelt sich etwa alle zwei Jahre. | Dünyada üretilen veri miktarı yaklaşık her iki yılda bir ikiye katlanıyor.
+die Rechenleistung (die Rechenleistungen) | işlem gücü | isim (d) | Für das Training moderner Modelle wird enorme Rechenleistung benötigt. | Modern modellerin eğitimi için muazzam bir işlem gücü gerekiyor.
+der Datensatz (die Datensätze) | veri seti, kayıt | isim (e) | Der Datensatz umfasst anonymisierte Angaben von über einer Million Patienten. | Veri seti bir milyondan fazla hastanın anonimleştirilmiş bilgilerini içeriyor.
+anonymisieren | anonimleştirmek | fiil | Alle personenbezogenen Daten werden vor der Auswertung vollständig anonymisiert. | Tüm kişisel veriler değerlendirmeden önce tamamen anonimleştiriliyor.
+die Verknüpfung (die Verknüpfungen) | bağlantı, ilişkilendirme | isim (d) | Erst die Verknüpfung verschiedener Datenquellen macht die Analyse aussagekräftig. | Analizi anlamlı kılan ancak farklı veri kaynaklarının ilişkilendirilmesidir.
+das Rechenzentrum (die Rechenzentren) | veri merkezi | isim (o) | Das neue Rechenzentrum verbraucht so viel Strom wie eine Kleinstadt. | Yeni veri merkezi küçük bir kasaba kadar elektrik tüketiyor.
+der Quantencomputer (die Quantencomputer) | kuantum bilgisayar | isim (e) | Quantencomputer könnten eines Tages heutige Verschlüsselungen mühelos knacken. | Kuantum bilgisayarlar bir gün bugünkü şifrelemeleri zahmetsizce kırabilir.
+die Echtzeit | gerçek zaman | isim (d) | Die Sensoren übertragen die Messwerte in Echtzeit an die Leitstelle. | Sensörler ölçüm değerlerini gerçek zamanlı olarak kontrol merkezine aktarıyor.
+die Prognose (die Prognosen) | tahmin, öngörü | isim (d) | Auf Basis der Daten erstellt das System Prognosen für den Stromverbrauch. | Sistem verilere dayanarak elektrik tüketimi için tahminler oluşturuyor.
+## Biyoteknoloji
+die Biotechnologie (die Biotechnologien) | biyoteknoloji | isim (d) | Die Biotechnologie eröffnet neue Möglichkeiten bei der Herstellung von Medikamenten. | Biyoteknoloji ilaç üretiminde yeni olanaklar açıyor.
+die Genschere (die Genscheren) | gen makası | isim (d) | Mit der Genschere lassen sich einzelne Abschnitte der DNA gezielt verändern. | Gen makasıyla DNA'nın tek tek bölümleri hedefli olarak değiştirilebilir.
+gentechnisch verändert | genetiği değiştirilmiş | ifade | Gentechnisch veränderte Lebensmittel müssen in der EU gekennzeichnet werden. | Genetiği değiştirilmiş gıdalar AB'de etiketlenmek zorundadır.
+das Erbgut | kalıtım materyali, genom | isim (o) | Forscher haben das Erbgut des Neandertalers fast vollständig entschlüsselt. | Araştırmacılar Neandertal insanının genomunu neredeyse tamamen çözdü.
+die Stammzelle (die Stammzellen) | kök hücre | isim (d) | Die Forschung mit embryonalen Stammzellen ist in Deutschland streng reguliert. | Almanya'da embriyonik kök hücrelerle araştırma sıkı biçimde düzenlenmiştir.
+klonen | klonlamak | fiil | Das Klonen von Menschen ist in fast allen Ländern ausdrücklich verboten. | İnsan klonlamak neredeyse tüm ülkelerde açıkça yasaktır.
+der Impfstoff (die Impfstoffe) | aşı (madde) | isim (e) | Der neue Impfstoff wurde in Rekordzeit entwickelt und zugelassen. | Yeni aşı rekor sürede geliştirildi ve onaylandı.
+die Erbkrankheit (die Erbkrankheiten) | kalıtsal hastalık | isim (d) | Gentests können das Risiko für bestimmte Erbkrankheiten frühzeitig erkennen. | Genetik testler belirli kalıtsal hastalıkların riskini erkenden saptayabilir.
+die Bioethik | biyoetik | isim (d) | Fragen der Bioethik werden in Deutschland vom Ethikrat beraten. | Almanya'da biyoetik sorunlar Etik Konseyi tarafından ele alınır.
+der Wirkstoff (die Wirkstoffe) | etken madde | isim (e) | Der Wirkstoff wurde ursprünglich aus der Rinde eines Baumes gewonnen. | Etken madde başlangıçta bir ağacın kabuğundan elde edilmişti.
+## Enerji dönüşümü
+die Energiewende | enerji dönüşümü | isim (d) | Die Energiewende soll Deutschland langfristig unabhängig von fossilen Brennstoffen machen. | Enerji dönüşümü Almanya'yı uzun vadede fosil yakıtlardan bağımsız kılmayı amaçlıyor.
+die erneuerbaren Energien | yenilenebilir enerjiler | ifade | Der Anteil der erneuerbaren Energien am Strommix wächst von Jahr zu Jahr. | Yenilenebilir enerjilerin elektrik karışımındaki payı her yıl büyüyor.
+fossil | fosil | sıfat | Fossile Brennstoffe wie Kohle und Erdgas verursachen hohe Emissionen von Kohlendioxid. | Kömür ve doğal gaz gibi fosil yakıtlar yüksek karbondioksit emisyonuna neden olur.
+der Kohleausstieg | kömürden çıkış | isim (e) | Der Kohleausstieg stellt ganze Regionen vor einen tiefgreifenden Strukturwandel. | Kömürden çıkış koca bölgeleri köklü bir yapısal dönüşümle karşı karşıya bırakıyor.
+die Klimaneutralität | iklim nötrlüğü | isim (d) | Viele Städte haben sich Klimaneutralität bis zum Jahr zweitausendvierzig vorgenommen. | Birçok şehir iki bin kırk yılına kadar iklim nötrlüğünü hedefledi.
+der Netzausbau | şebeke genişletme | isim (e) | Ohne zügigen Netzausbau gelangt der Windstrom nicht vom Norden in den Süden. | Hızlı şebeke genişletmesi olmadan rüzgâr elektriği kuzeyden güneye ulaşamaz.
+die Versorgungssicherheit | arz güvenliği | isim (d) | Die Versorgungssicherheit muss auch an windstillen Wintertagen gewährleistet sein. | Arz güvenliği rüzgârsız kış günlerinde de sağlanmalıdır.
+der Emissionshandel | emisyon ticareti | isim (e) | Durch den Emissionshandel wird der Ausstoß von Treibhausgasen teurer. | Emisyon ticareti sayesinde sera gazı salımı daha pahalı hâle geliyor.
+die Treibhausgasbilanz (die Treibhausgasbilanzen) | sera gazı bilançosu | isim (d) | Das Unternehmen will seine Treibhausgasbilanz bis zum Ende des Jahrzehnts halbieren. | Şirket sera gazı bilançosunu on yılın sonuna kadar yarıya indirmek istiyor.
+dekarbonisieren | karbondan arındırmak | fiil | Die Stahlindustrie lässt sich nur mit grünem Wasserstoff wirksam dekarbonisieren. | Çelik sanayisi ancak yeşil hidrojenle etkili biçimde karbondan arındırılabilir.
+## Enerji teknolojileri
+die Photovoltaik | fotovoltaik, güneş paneli teknolojisi | isim (d) | Auf immer mehr Hausdächern in Bayern glänzen Anlagen für Photovoltaik. | Bavyera'da giderek daha fazla çatıda fotovoltaik sistemler parlıyor.
+die Windkraftanlage (die Windkraftanlagen) | rüzgâr türbini | isim (d) | Die Windkraftanlage vor der Küste versorgt rund zehntausend Haushalte mit Strom. | Kıyı açığındaki rüzgâr türbini yaklaşık on bin haneye elektrik sağlıyor.
+der Wasserstoff | hidrojen | isim (e) | Grüner Wasserstoff wird mithilfe von Strom aus erneuerbaren Quellen erzeugt. | Yeşil hidrojen yenilenebilir kaynaklardan gelen elektrikle üretilir.
+der Stromspeicher (die Stromspeicher) | elektrik depolama ünitesi | isim (e) | Ein Stromspeicher im Keller macht den Haushalt unabhängiger vom Netz. | Bodrumdaki bir elektrik depolama ünitesi haneyi şebekeden daha bağımsız kılar.
+die Wärmepumpe (die Wärmepumpen) | ısı pompası | isim (d) | Beim Neubau entschied sich die Familie für eine Wärmepumpe statt einer Gasheizung. | Aile yeni evde doğal gaz kazanı yerine ısı pompasını tercih etti.
+die Kernfusion | nükleer füzyon | isim (d) | Die Kernfusion gilt als mögliche Energiequelle der fernen Zukunft. | Nükleer füzyon uzak geleceğin olası enerji kaynağı olarak görülüyor.
+der Atomausstieg | nükleer enerjiden çıkış | isim (e) | Mit dem Atomausstieg wurden die letzten deutschen Kernkraftwerke abgeschaltet. | Nükleer enerjiden çıkışla Almanya'nın son nükleer santralleri kapatıldı.
+das Endlager (die Endlager) | nihai depolama alanı (nükleer atık) | isim (o) | Die Suche nach einem sicheren Endlager für Atommüll dauert noch Jahrzehnte. | Nükleer atık için güvenli bir nihai depolama yeri arayışı daha onlarca yıl sürecek.
+der Wirkungsgrad (die Wirkungsgrade) | verim (teknik) | isim (e) | Moderne Solarzellen erreichen einen Wirkungsgrad von deutlich über zwanzig Prozent. | Modern güneş hücreleri yüzde yirminin belirgin şekilde üzerinde bir verime ulaşıyor.
+die Spitzenlast (die Spitzenlasten) | pik yük, en yüksek talep | isim (d) | Gaskraftwerke werden vor allem zur Deckung der Spitzenlast eingesetzt. | Gaz santralleri özellikle en yüksek talebi karşılamak için kullanılıyor.
+## Dijital toplum
+die Digitalisierung | dijitalleşme | isim (d) | Die Digitalisierung der Verwaltung kommt in Deutschland nur langsam voran. | Almanya'da kamu yönetiminin dijitalleşmesi yavaş ilerliyor.
+die Vernetzung | ağ bağlantısı, birbirine bağlanma | isim (d) | Die Vernetzung von Haushaltsgeräten bringt Komfort, aber auch neue Risiken. | Ev aletlerinin birbirine bağlanması konfor ama yeni riskler de getiriyor.
+die digitale Kluft | dijital uçurum | ifade | Gerade ältere Menschen auf dem Land leiden unter der digitalen Kluft. | Özellikle kırsaldaki yaşlı insanlar dijital uçurumdan etkileniyor.
+die Filterblase (die Filterblasen) | filtre balonu | isim (d) | In der Filterblase sehen Nutzer fast nur noch Meinungen, die ihre eigene bestätigen. | Filtre balonunda kullanıcılar neredeyse yalnızca kendi görüşlerini doğrulayan fikirleri görür.
+die Desinformation | dezenformasyon | isim (d) | Gezielte Desinformation kann das Vertrauen in demokratische Institutionen untergraben. | Hedefli dezenformasyon demokratik kurumlara olan güveni sarsabilir.
+die Plattformökonomie | platform ekonomisi | isim (d) | In der Plattformökonomie arbeiten viele Menschen ohne feste Anstellung. | Platform ekonomisinde birçok insan kadrolu bir işe sahip olmadan çalışıyor.
+die Überwachung | gözetim | isim (d) | Kritiker warnen vor einer schleichenden Überwachung im öffentlichen Raum. | Eleştirmenler kamusal alanda sinsice yayılan bir gözetime karşı uyarıyor.
+die Medienkompetenz | medya okuryazarlığı | isim (d) | Schulen sollen die Medienkompetenz von Kindern und Jugendlichen gezielt stärken. | Okullar çocukların ve gençlerin medya okuryazarlığını hedefli olarak güçlendirmeli.
+die Barrierefreiheit | engelsizlik, erişilebilirlik | isim (d) | Öffentliche Webseiten müssen gesetzliche Vorgaben zur Barrierefreiheit erfüllen. | Kamu internet siteleri erişilebilirlikle ilgili yasal koşulları karşılamalıdır.
+der Breitbandausbau | geniş bant altyapısının yaygınlaştırılması | isim (e) | Der Breitbandausbau auf dem Land ist für viele Dörfer überlebenswichtig. | Kırsalda geniş bant altyapısının yaygınlaştırılması birçok köy için hayati önemde.
+## Siber güvenlik
+die Cybersicherheit | siber güvenlik | isim (d) | Krankenhäuser müssen viel mehr in ihre Cybersicherheit investieren. | Hastaneler siber güvenliklerine çok daha fazla yatırım yapmalı.
+der Hackerangriff (die Hackerangriffe) | siber saldırı | isim (e) | Nach einem Hackerangriff war die Stadtverwaltung wochenlang nicht erreichbar. | Bir siber saldırının ardından belediyeye haftalarca ulaşılamadı.
+die Verschlüsselung (die Verschlüsselungen) | şifreleme | isim (d) | Eine durchgehende Verschlüsselung schützt Nachrichten vor dem Mitlesen durch Dritte. | Uçtan uca şifreleme mesajları üçüncü kişilerin okumasına karşı korur.
+die Schadsoftware | kötü amaçlı yazılım | isim (d) | Die Schadsoftware gelangte über einen manipulierten E-Mail-Anhang ins Firmennetz. | Kötü amaçlı yazılım değiştirilmiş bir e-posta ekiyle şirket ağına sızdı.
+die Sicherheitslücke (die Sicherheitslücken) | güvenlik açığı | isim (d) | Der Hersteller hat die kritische Sicherheitslücke mit einem Update geschlossen. | Üretici kritik güvenlik açığını bir güncellemeyle kapattı.
+die Erpressungssoftware | fidye yazılımı | isim (d) | Mit Erpressungssoftware verschlüsseln Kriminelle Daten und verlangen dann Lösegeld. | Suçlular fidye yazılımıyla verileri şifreleyip ardından fidye istiyor.
+die Authentifizierung (die Authentifizierungen) | kimlik doğrulama | isim (d) | Eine Authentifizierung mit zwei Faktoren erhöht die Sicherheit des Kontos erheblich. | İki faktörlü kimlik doğrulama hesabın güvenliğini önemli ölçüde artırır.
+das Phishing | oltalama (dolandırıcılık) | isim (o) | Beim Phishing versuchen Betrüger, mit gefälschten Nachrichten an Passwörter zu gelangen. | Oltalamada dolandırıcılar sahte mesajlarla şifrelere ulaşmaya çalışır.
+kompromittieren | ele geçirmek (sistem); itibarını zedelemek | fiil | Mehrere Server des Ministeriums wurden bei dem Angriff kompromittiert. | Saldırıda bakanlığın birkaç sunucusu ele geçirildi.
+die kritische Infrastruktur | kritik altyapı | ifade | Strom- und Wasserversorgung gehören zur kritischen Infrastruktur eines Landes. | Elektrik ve su arzı bir ülkenin kritik altyapısına dahildir.
+## Araştırma ve inovasyon
+die Grundlagenforschung | temel araştırma | isim (d) | Ohne Grundlagenforschung gäbe es viele heutige Technologien überhaupt nicht. | Temel araştırma olmasaydı bugünkü birçok teknoloji hiç var olmazdı.
+die angewandte Forschung | uygulamalı araştırma | ifade | Die Institute der Gesellschaft konzentrieren sich auf angewandte Forschung für die Industrie. | Derneğin enstitüleri sanayi için uygulamalı araştırmaya odaklanıyor.
+der Durchbruch (die Durchbrüche) | çığır açan buluş, atılım | isim (e) | Den Forschern gelang ein Durchbruch bei der Speicherung von Solarstrom. | Araştırmacılar güneş elektriğinin depolanmasında bir atılım gerçekleştirdi.
+der Prototyp (die Prototypen) | prototip | isim (e) | Der erste Prototyp des Geräts wurde in einer Garage in Stuttgart gebaut. | Cihazın ilk prototipi Stuttgart'ta bir garajda yapıldı.
+das Patent (die Patente) | patent | isim (o) | Die Firma meldet jedes Jahr Hunderte neuer Patente beim Patentamt an. | Firma her yıl patent ofisine yüzlerce yeni patent başvurusu yapıyor.
+die Marktreife | piyasaya hazır olma | isim (d) | Bis zur Marktreife des neuen Akkus dürften noch einige Jahre vergehen. | Yeni bataryanın piyasaya hazır hâle gelmesi için daha birkaç yıl geçmesi gerekebilir.
+der Technologietransfer | teknoloji transferi | isim (e) | Der Technologietransfer von der Universität in die Wirtschaft soll beschleunigt werden. | Üniversiteden ekonomiye teknoloji transferinin hızlandırılması isteniyor.
+bahnbrechend | çığır açan | sıfat | Ihre bahnbrechende Entdeckung wurde später mit dem Nobelpreis ausgezeichnet. | Çığır açan keşfi daha sonra Nobel Ödülü'yle taçlandırıldı.
+der Innovationsstandort (die Innovationsstandorte) | inovasyon merkezi (yer) | isim (e) | Die Region will sich als führender Innovationsstandort in Europa etablieren. | Bölge kendini Avrupa'da öncü bir inovasyon merkezi olarak kabul ettirmek istiyor.
+der Risikokapitalgeber (die Risikokapitalgeber) | risk sermayedarı | isim (e) | Ein Risikokapitalgeber investierte zehn Millionen Euro in das junge Start-up. | Bir risk sermayedarı genç girişime on milyon avro yatırdı.
+## Teknoloji etiği ve tartışma
+die Technikfolgenabschätzung | teknoloji etki değerlendirmesi | isim (d) | Das Büro für Technikfolgenabschätzung berät das Parlament bei neuen Technologien. | Teknoloji Etki Değerlendirme Bürosu yeni teknolojiler konusunda meclise danışmanlık yapıyor.
+die Regulierung (die Regulierungen) | düzenleme (yasal) | isim (d) | Die Regulierung künstlicher Intelligenz ist auf europäischer Ebene beschlossen worden. | Yapay zekânın düzenlenmesine Avrupa düzeyinde karar verildi.
+missbrauchen | kötüye kullanmak | fiil | Gesichtserkennung kann leicht zur Kontrolle von Andersdenkenden missbraucht werden. | Yüz tanıma kolayca farklı düşünenleri kontrol etmek için kötüye kullanılabilir.
+die Technikfeindlichkeit | teknoloji düşmanlığı | isim (d) | Den Deutschen wird manchmal eine gewisse Technikfeindlichkeit nachgesagt. | Almanlara bazen belirli bir teknoloji düşmanlığı yakıştırılır.
+die Fortschrittsgläubigkeit | ilerlemeye körü körüne inanma | isim (d) | Die naive Fortschrittsgläubigkeit des neunzehnten Jahrhunderts ist heute verschwunden. | On dokuzuncu yüzyılın saf ilerleme inancı bugün kaybolmuş durumda.
+die Verantwortbarkeit | sorumluluğu üstlenilebilirlik | isim (d) | Über die Verantwortbarkeit solcher Experimente wird weiterhin heftig gestritten. | Bu tür deneylerin sorumluluğunun üstlenilip üstlenilemeyeceği hâlâ sert biçimde tartışılıyor.
+die Folgewirkung (die Folgewirkungen) | sonraki etki, yan etki | isim (d) | Die langfristigen Folgewirkungen der Technologie sind bisher kaum absehbar. | Teknolojinin uzun vadeli etkileri şimdilik pek öngörülemiyor.
+das Vorsorgeprinzip | ihtiyat ilkesi | isim (o) | Nach dem Vorsorgeprinzip darf man nicht warten, bis ein Schaden bewiesen ist. | İhtiyat ilkesine göre bir zararın kanıtlanmasını beklememek gerekir.
+die Datenhoheit | veri egemenliği | isim (d) | Europa möchte seine Datenhoheit gegenüber großen ausländischen Konzernen stärken. | Avrupa büyük yabancı şirketlere karşı veri egemenliğini güçlendirmek istiyor.
+der Dammbruch (die Dammbrüche) | baraj yıkılması; kayan zemin (etik) | isim (e) | Kritiker sehen in der Zulassung einen ethischen Dammbruch mit unabsehbaren Folgen. | Eleştirmenler bu onayda sonuçları öngörülemeyen etik bir kırılma görüyor.
+## Bilimsel süreç fiilleri
+extrapolieren | ekstrapolasyon yapmak, ileriye yansıtmak | fiil | Aus den Messdaten der letzten Jahrzehnte extrapolieren die Forscher künftige Temperaturen. | Araştırmacılar son on yılların ölçüm verilerinden gelecekteki sıcaklıkları ekstrapole ediyor.
+entschlüsseln | çözmek (şifre, kod) | fiil | Erst im Jahr zweitausenddrei gelang es, das menschliche Genom vollständig zu entschlüsseln. | İnsan genomunu tamamen çözmek ancak iki bin üç yılında başarıldı.
+simulieren | benzetimini yapmak, simüle etmek | fiil | Mit dem Supercomputer lässt sich das Klima der nächsten hundert Jahre simulieren. | Süper bilgisayarla önümüzdeki yüz yılın iklimi simüle edilebilir.
+validieren | doğrulamak, geçerliliğini kanıtlamak | fiil | Die Ergebnisse müssen von einem unabhängigen Labor validiert werden. | Sonuçların bağımsız bir laboratuvar tarafından doğrulanması gerekiyor.
+replizieren | tekrarlamak (deney), yinelemek | fiil | Andere Forschergruppen konnten das spektakuläre Experiment bisher nicht replizieren. | Diğer araştırma grupları bu çarpıcı deneyi şimdiye dek tekrarlayamadı.
+optimieren | optimize etmek, en iyi hâle getirmek | fiil | Ingenieure optimieren den Motor, um den Verbrauch weiter zu senken. | Mühendisler tüketimi daha da düşürmek için motoru optimize ediyor.
+implementieren | uygulamaya koymak (yazılım, sistem) | fiil | Die neue Software soll bis Ende des Jahres in allen Filialen implementiert werden. | Yeni yazılımın yıl sonuna kadar tüm şubelerde uygulamaya konulması planlanıyor.
+modellieren | modellemek | fiil | Mit diesem Verfahren lässt sich die Ausbreitung von Krankheiten präzise modellieren. | Bu yöntemle hastalıkların yayılması hassas biçimde modellenebilir.
+skizzieren | ana hatlarıyla çizmek, taslağını çıkarmak | fiil | Die Forscherin skizzierte in ihrem Vortrag die nächsten Schritte des Projekts. | Araştırmacı konuşmasında projenin sonraki adımlarını ana hatlarıyla anlattı.
+quantifizieren | sayısal olarak ifade etmek, ölçmek | fiil | Der wirtschaftliche Schaden durch Cyberangriffe ist schwer zu quantifizieren. | Siber saldırıların yol açtığı ekonomik zararı sayısal olarak ölçmek zor.
