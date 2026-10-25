@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve çizimler
+설계 (seolgye) | tasarım, proje (mimari) | isim | 이 건물의 설계는 유명 건축 사무소가 맡았다. | Bu binanın tasarımını tanınmış bir mimarlık ofisi üstlendi.
+도면 (domyeon) | çizim, plan (teknik) | isim | 현장에서는 최신 도면을 기준으로 시공해야 한다. | Şantiyede en güncel çizimlere göre uygulama yapılmalıdır.
+평면도 (pyeongmyeondo) | kat planı, yatay plan | isim | 평면도를 보면 거실과 주방이 하나로 트여 있다. | Kat planına bakınca salonla mutfağın açık plan olduğu görülüyor.
+단면도 (danmyeondo) | kesit çizimi | isim | 단면도에는 각 층의 높이와 슬래브 두께가 표시되어 있다. | Kesit çiziminde her katın yüksekliği ve döşeme kalınlığı gösterilmiştir.
+입면도 (immyeondo) | görünüş çizimi (cephe) | isim | 건축주는 입면도를 보고 외벽 색상을 바꾸자고 했다. | İşveren görünüş çizimine bakıp dış cephe rengini değiştirmeyi önerdi.
+축척 (chukcheok) | ölçek | isim | 이 도면은 백분의 일 축척으로 그려졌다. | Bu çizim yüzde bir ölçekle çizildi.
+시방서 (sibangseo) | şartname (teknik) | isim | 자재는 반드시 시방서에 명시된 규격을 따라야 한다. | Malzemeler mutlaka şartnamede belirtilen standartlara uymalıdır.
+건축 허가 (geonchuk heoga) | yapı ruhsatı | isim | 건축 허가가 늦게 나서 착공이 석 달이나 미뤄졌다. | Yapı ruhsatı geç çıktığı için inşaata başlama üç ay ertelendi.
+준공 (jungong) | inşaatın tamamlanması, iskân aşaması | isim | 이 아파트 단지는 내년 봄 준공을 목표로 하고 있다. | Bu site gelecek baharda tamamlanmayı hedefliyor.
+설계 변경 (seolgye byeongyeong) | proje revizyonu | isim | 잦은 설계 변경으로 공사비가 크게 늘어났다. | Sık proje revizyonları yüzünden inşaat maliyeti epey arttı.
+## Taşıyıcı sistem
+구조물 (gujomul) | yapı, strüktür | isim | 이 다리는 바람과 지진을 견디도록 설계된 강철 구조물이다. | Bu köprü rüzgâra ve depreme dayanacak şekilde tasarlanmış çelik bir yapıdır.
+기초 공사 (gicho gongsa) | temel inşaatı | isim | 지반이 약해서 기초 공사에만 두 달이 걸렸다. | Zemin zayıf olduğu için yalnızca temel inşaatı iki ay sürdü.
+기둥 (gidung) | kolon, direk | isim | 이 홀은 기둥 없이 넓은 공간을 확보했다. | Bu salon kolonsuz geniş bir alan sağladı.
+보 (bo) | kiriş | isim | 천장의 보에 균열이 생겨 긴급 보수에 들어갔다. | Tavandaki kirişte çatlak oluşunca acil onarıma başlandı.
+슬래브 (seullaebeu) | döşeme (beton plak) | isim | 오늘 오후에 삼층 슬래브 콘크리트를 붓기로 했다. | Bu öğleden sonra üçüncü kat döşemesinin betonunu dökmeye karar verdik.
+내력벽 (naeryeokbyeok) | taşıyıcı duvar | isim | 리모델링을 하더라도 내력벽은 철거할 수 없다. | Tadilat yapılsa bile taşıyıcı duvar yıkılamaz.
+철근 (cheolgeun) | inşaat demiri, donatı | isim | 감리자는 철근 간격이 도면과 일치하는지 확인했다. | Denetçi donatı aralıklarının çizimle uyuşup uyuşmadığını kontrol etti.
+철근 콘크리트 (cheolgeun konkeuriteu) | betonarme | isim | 대부분의 아파트는 철근 콘크리트 구조로 지어진다. | Apartmanların çoğu betonarme yapı olarak inşa edilir.
+하중 (hajung) | yük (statik) | isim | 옥상에 정원을 만들려면 추가 하중을 계산해야 한다. | Çatıya bahçe yapmak için ek yükü hesaplamak gerekir.
+내진 설계 (naejin seolgye) | depreme dayanıklı tasarım | isim | 지진 이후 내진 설계 기준이 한층 강화되었다. | Depremden sonra depreme dayanıklı tasarım yönetmeliği daha da sıkılaştırıldı.
+## Yapı malzemeleri
+시멘트 (simenteu) | çimento | isim | 시멘트와 모래, 자갈을 물과 섞으면 콘크리트가 된다. | Çimentoyu kum ve çakılla suyla karıştırınca beton olur.
+골재 (goljae) | agrega (kum, çakıl) | isim | 골재 수급이 어려워지면서 레미콘 가격이 올랐다. | Agrega temini zorlaşınca hazır beton fiyatı yükseldi.
+거푸집 (geopujip) | kalıp (beton) | isim | 콘크리트가 굳은 뒤 거푸집을 해체한다. | Beton sertleştikten sonra kalıp sökülür.
+철골 (cheolgol) | çelik konstrüksiyon | isim | 이 공장은 공사 기간을 줄이기 위해 철골 구조를 택했다. | Bu fabrika inşaat süresini kısaltmak için çelik konstrüksiyon seçti.
+벽돌 (byeokdol) | tuğla | isim | 오래된 벽돌 건물이 카페로 새롭게 태어났다. | Eski tuğla bina kafe olarak yeniden doğdu.
+단열재 (danyeoljae) | ısı yalıtım malzemesi | isim | 단열재를 두껍게 넣었더니 겨울 난방비가 절반으로 줄었다. | Yalıtım malzemesini kalın koyunca kış ısınma gideri yarıya indi.
+방수 (bangsu) | su yalıtımı | isim | 옥상 방수가 제대로 안 되어 장마철마다 물이 샌다. | Çatının su yalıtımı düzgün yapılmadığı için her muson mevsiminde su sızıyor.
+석고 보드 (seokgo bodeu) | alçıpan | isim | 칸막이 벽은 석고 보드로 가볍게 세웠다. | Bölme duvarı alçıpanla hafif biçimde yaptık.
+모르타르 (moreutareu) | harç | isim | 벽돌 사이를 모르타르로 꼼꼼히 채워야 한다. | Tuğlaların arası harçla dikkatlice doldurulmalıdır.
+레미콘 (remikon) | hazır beton (transmikser) | isim | 레미콘 차량이 아침부터 현장 앞에 줄지어 서 있었다. | Transmikserler sabahtan beri şantiyenin önünde sıra olmuştu.
+## Şantiye
+공사 현장 (gongsa hyeonjang) | şantiye, inşaat sahası | isim | 공사 현장에서는 반드시 안전 장비를 착용해야 한다. | Şantiyede mutlaka güvenlik ekipmanı giyilmelidir.
+현장 소장 (hyeonjang sojang) | şantiye şefi | isim | 현장 소장은 매일 아침 작업자들과 안전 회의를 연다. | Şantiye şefi her sabah işçilerle güvenlik toplantısı yapar.
+감리 (gamni) | yapı denetimi, kontrol mühendisliği | isim | 감리가 제대로 이루어지지 않으면 부실 공사로 이어진다. | Yapı denetimi düzgün yapılmazsa kalitesiz inşaata yol açar.
+착공하다 (chakgonghada) | inşaata başlamak | fiil | 새 도서관은 올해 가을에 착공할 예정이다. | Yeni kütüphanenin inşaatına bu sonbahar başlanacak.
+공정 (gongjeong) | iş programı, imalat aşaması | isim | 현재 전체 공정의 칠십 퍼센트가 완료되었다. | Şu anda tüm imalatın yüzde yetmişi tamamlandı.
+공사 기간 (gongsa gigan) | inşaat süresi | isim | 장마가 길어져 공사 기간을 맞추기 어려워졌다. | Muson uzayınca inşaat süresine yetişmek zorlaştı.
+타워 크레인 (tawo keurein) | kule vinç | isim | 강풍이 불면 타워 크레인 작업을 즉시 중단해야 한다. | Şiddetli rüzgâr eserse kule vinç çalışması derhâl durdurulmalıdır.
+굴착 (gulchak) | kazı | isim | 지하 주차장을 만들기 위해 깊이 이십 미터까지 굴착했다. | Yeraltı otoparkı için yirmi metre derinliğe kadar kazı yapıldı.
+타설하다 (taseolhada) | (beton) dökmek | fiil | 비가 오는 날에는 콘크리트를 타설하지 않는다. | Yağmurlu günlerde beton dökülmez.
+양생 (yangsaeng) | (betonun) kür edilmesi | isim | 겨울철에는 콘크리트 양생에 특히 신경 써야 한다. | Kışın betonun kürüne özellikle dikkat etmek gerekir.
+## Tesisat
+설비 (seolbi) | tesisat, donanım | isim | 이 건물은 최신 공조 설비를 갖추고 있다. | Bu bina en yeni iklimlendirme tesisatına sahip.
+급수 (geupsu) | su temini, su tesisatı | isim | 고층부에는 급수 압력이 약해 펌프를 추가로 설치했다. | Üst katlarda su basıncı zayıf olduğu için ek pompa konuldu.
+배수 (baesu) | drenaj, atık su tahliyesi | isim | 배수가 잘 안 되어 지하실에 물이 고였다. | Drenaj iyi çalışmadığı için bodrumda su birikti.
+전기 배선 (jeongi baeseon) | elektrik tesisatı, kablolama | isim | 오래된 주택은 전기 배선을 교체해야 화재를 막을 수 있다. | Eski evlerde yangını önlemek için elektrik tesisatı değiştirilmelidir.
+환기 설비 (hwangi seolbi) | havalandırma sistemi | isim | 지하 주차장에는 강력한 환기 설비가 필요하다. | Yeraltı otoparkında güçlü bir havalandırma sistemi gerekir.
+냉난방 (naengnanbang) | iklimlendirme (soğutma ve ısıtma) | isim | 이 사무실은 층별로 냉난방을 따로 조절할 수 있다. | Bu ofiste iklimlendirme her katta ayrı ayarlanabiliyor.
+스프링클러 (seupeuringkeulleo) | yangın sprinkleri | isim | 화재가 나자 스프링클러가 작동해 큰 피해를 막았다. | Yangın çıkınca sprinkler devreye girip büyük hasarı önledi.
+하수도 (hasudo) | kanalizasyon | isim | 폭우에 하수도가 역류해 도로가 물에 잠겼다. | Sağanakta kanalizasyon taşınca yollar sular altında kaldı.
+분전반 (bunjeonban) | elektrik dağıtım panosu | isim | 정전이 되면 먼저 분전반의 차단기를 확인하세요. | Elektrik kesilirse önce dağıtım panosundaki sigortayı kontrol edin.
+소방 설비 (sobang seolbi) | yangın söndürme tesisatı | isim | 준공 전에 소방 설비 점검을 반드시 통과해야 한다. | Teslimden önce yangın tesisatı denetiminden mutlaka geçilmelidir.
+## Mimari öğeler
+처마 (cheoma) | saçak | isim | 한옥의 처마는 여름 햇빛을 막고 겨울 햇빛은 들인다. | Geleneksel Kore evinin saçağı yazın güneşi keser, kışın içeri alır.
+지붕 (jibung) | çatı | isim | 태풍에 지붕 일부가 날아가 버렸다. | Tayfunda çatının bir kısmı uçup gitti.
+기와 (giwa) | kiremit | isim | 고궁의 기와지붕이 햇빛에 은은하게 빛났다. | Sarayın kiremit çatısı güneşte hafifçe parlıyordu.
+대들보 (daedeulbo) | ana kiriş; (mecaz) direk, dayanak | isim | 대들보는 집의 무게를 떠받치는 가장 중요한 부재이다. | Ana kiriş evin ağırlığını taşıyan en önemli elemandır.
+아치 (achi) | kemer | isim | 로마의 수도교는 아치 구조로 수천 년을 버텼다. | Roma su kemerleri kemer yapısı sayesinde binlerce yıl ayakta kaldı.
+돔 (dom) | kubbe | isim | 그 성당의 거대한 돔은 도시 어디서나 보인다. | O katedralin dev kubbesi şehrin her yerinden görünür.
+외벽 (oebyeok) | dış duvar, cephe duvarı | isim | 외벽에 페인트를 새로 칠하자 건물이 깨끗해 보였다. | Dış duvar yeniden boyanınca bina temiz görünmeye başladı.
+층고 (cheunggo) | kat yüksekliği | isim | 층고가 높아서 실내가 훨씬 넓어 보인다. | Kat yüksekliği fazla olduğundan iç mekân çok daha geniş görünüyor.
+외관 (oegwan) | dış görünüş (bina) | isim | 그 미술관은 독특한 곡선 외관으로 유명하다. | O müze kendine özgü kavisli dış görünüşüyle ünlü.
+마루 (maru) | ahşap zemin, geleneksel ahşap hol | isim | 여름이면 할머니는 시원한 대청마루에서 낮잠을 주무셨다. | Yazları büyükannem serin ahşap holde öğle uykusu uyurdu.
+## Mimari ve kentsel dönüşüm
+건축 양식 (geonchuk yangsik) | mimari üslup | isim | 이 성당은 고딕 건축 양식의 특징을 잘 보여 준다. | Bu katedral Gotik mimari üslubunun özelliklerini iyi yansıtır.
+목조 (mokjo) | ahşap yapı | isim | 이 사찰은 현존하는 가장 오래된 목조 건물 중 하나이다. | Bu tapınak günümüze kalan en eski ahşap yapılardan biridir.
+마천루 (macheollu) | gökdelen | isim | 도심에는 유리로 된 마천루가 빽빽하게 들어섰다. | Şehir merkezine camdan gökdelenler sık sık dizildi.
+패시브 하우스 (paesibeu hauseu) | pasif ev (enerji verimli) | isim | 패시브 하우스는 난방 없이도 실내 온도를 유지하도록 지어진다. | Pasif ev ısıtmasız bile iç sıcaklığı koruyacak şekilde inşa edilir.
+리모델링 (rimodelling) | tadilat, yenileme | isim | 낡은 아파트를 리모델링하여 신축처럼 바꾸었다. | Eski daireyi tadilatla yeni bina gibi yaptık.
+재건축 (jaegeonchuk) | yıkıp yeniden yapma | isim | 오래된 아파트 단지의 재건축이 확정되었다. | Eski site için yıkıp yeniden yapma kararı kesinleşti.
+재개발 (jaegaebal) | kentsel dönüşüm | isim | 재개발로 원주민들이 동네를 떠나야 하는 문제가 생겼다. | Kentsel dönüşüm yüzünden yerli sakinlerin mahalleyi terk etmesi sorunu doğdu.
+랜드마크 (raendeumakeu) | simge yapı | isim | 그 타워는 도시를 대표하는 랜드마크가 되었다. | O kule şehrin simge yapısı oldu.
+조경 (jogyeong) | peyzaj | isim | 단지 안의 조경이 잘 되어 있어 공원 같은 느낌을 준다. | Sitenin peyzajı iyi yapıldığı için park gibi bir his veriyor.
+모듈러 주택 (modyulleo jutaek) | modüler konut | isim | 모듈러 주택은 공장에서 제작해 현장에서 조립한다. | Modüler konutlar fabrikada üretilip sahada monte edilir.
+## Güvenlik ve kalite
+안전모 (anjeonmo) | baret | isim | 현장에 들어가기 전에 안전모를 꼭 쓰세요. | Şantiyeye girmeden önce mutlaka baret takın.
+추락 (churak) | düşme (yüksekten) | isim | 건설 현장 사고의 상당수가 추락 사고이다. | İnşaat kazalarının önemli bir kısmı yüksekten düşmedir.
+붕괴 (bunggoe) | çökme | isim | 부실한 지반 때문에 공사 중이던 건물이 붕괴했다. | Zayıf zemin yüzünden yapımı süren bina çöktü.
+부실 공사 (busil gongsa) | kalitesiz inşaat | isim | 부실 공사가 드러나자 시공사 대표가 사과했다. | Kalitesiz inşaat ortaya çıkınca yüklenici firmanın başkanı özür diledi.
+하자 (haja) | kusur, ayıp (yapıda) | isim | 입주 후 일 년 안에 발견된 하자는 무상으로 보수해 준다. | Taşındıktan sonraki bir yıl içinde bulunan kusurlar ücretsiz onarılır.
+안전 점검 (anjeon jeomgeom) | güvenlik denetimi | isim | 정기 안전 점검에서 교량의 부식이 발견되었다. | Düzenli güvenlik denetiminde köprüde korozyon bulundu.
+균열 (gyunyeol) | çatlak | isim | 지진 이후 벽에 가는 균열이 여러 군데 생겼다. | Depremden sonra duvarda birkaç yerde ince çatlaklar oluştu.
+누수 (nusu) | su sızıntısı | isim | 위층의 누수로 우리 집 천장에 얼룩이 생겼다. | Üst kattaki su sızıntısı yüzünden bizim tavanda leke oluştu.
+결로 (gyeollo) | yoğuşma, terleme (duvar) | isim | 단열이 부족하면 겨울철 벽에 결로가 생긴다. | Yalıtım yetersizse kışın duvarda yoğuşma olur.
+산업 재해 (saneop jaehae) | iş kazası | isim | 산업 재해를 줄이기 위해 처벌 기준이 강화되었다. | İş kazalarını azaltmak için ceza kriterleri sıkılaştırıldı.
+## Ölçüm ve hesap
+연면적 (yeonmyeonjeok) | toplam inşaat alanı | isim | 이 건물의 연면적은 약 오만 제곱미터이다. | Bu binanın toplam inşaat alanı yaklaşık elli bin metrekaredir.
+건폐율 (geonpyeyul) | taban alanı katsayısı (TAKS) | isim | 건폐율 제한 때문에 마당을 넓게 둘 수밖에 없었다. | Taban alanı katsayısı sınırı yüzünden avluyu geniş bırakmak zorunda kaldık.
+용적률 (yongjeongnyul) | emsal (KAKS) | isim | 시는 역 주변의 용적률을 높여 고밀도 개발을 허용했다. | Belediye istasyon çevresinde emsali yükselterek yoğun yapılaşmaya izin verdi.
+대지 (daeji) | arsa, parsel | isim | 그는 시골에 작은 대지를 사서 직접 집을 지었다. | Kırsalda küçük bir arsa alıp evini kendisi yaptı.
+물량 (mullyang) | metraj, iş miktarı | isim | 설계 변경으로 철근 물량이 이십 퍼센트 늘었다. | Proje revizyonuyla donatı metrajı yüzde yirmi arttı.
+공사비 (gongsabi) | inşaat maliyeti | isim | 자재비가 오르면서 공사비 증액을 두고 분쟁이 생겼다. | Malzeme fiyatları artınca inşaat bedelinin artırılması üzerine anlaşmazlık çıktı.
+적산 (jeoksan) | maliyet hesabı, keşif | isim | 정확한 적산이 있어야 입찰 가격을 제대로 산정할 수 있다. | Doğru bir keşif olmadan ihale fiyatı sağlıklı belirlenemez.
+허용 오차 (heoyong ocha) | tolerans | isim | 기둥의 수직도는 허용 오차 이내로 관리되어야 한다. | Kolonların düşeyliği tolerans sınırları içinde tutulmalıdır.
+수직 (sujik) | düşey, dikey | isim | 레이저 측정기로 벽이 수직인지 확인했다. | Duvarın dikey olup olmadığını lazer ölçerle kontrol ettik.
+수평 (supyeong) | yatay, terazi | isim | 바닥 수평이 맞지 않아 가구가 흔들린다. | Zemin terazide olmadığından mobilyalar sallanıyor.
+## İnşaat fiilleri
+시공하다 (sigonghada) | inşa etmek, uygulamak (yüklenici olarak) | fiil | 이 다리는 국내 건설사가 시공했다. | Bu köprüyü yerli bir inşaat firması inşa etti.
+철거하다 (cheolgeohada) | yıkmak, sökmek | fiil | 안전 진단에서 위험 판정을 받은 건물을 철거했다. | Güvenlik incelemesinde riskli bulunan bina yıkıldı.
+증축하다 (jeungchukada) | ek kat ya da ek bina yapmak | fiil | 학생 수가 늘어 학교 건물을 이 층 증축했다. | Öğrenci sayısı artınca okul binasına iki kat eklendi.
+보강하다 (boganghada) | güçlendirmek, takviye etmek | fiil | 오래된 학교 건물을 내진 기준에 맞게 보강했다. | Eski okul binası deprem yönetmeliğine uygun şekilde güçlendirildi.
+매립하다 (maeripada) | doldurmak (arazi, deniz) | fiil | 이 공항은 바다를 매립해 만든 땅 위에 세워졌다. | Bu havalimanı denizin doldurulmasıyla oluşan arazi üzerine kuruldu.
+측량하다 (cheungnyanghada) | ölçmek (arazi), haritasını çıkarmak | fiil | 공사에 앞서 대지의 경계를 정확히 측량했다. | İnşaattan önce arsanın sınırları tam olarak ölçüldü.
+시추하다 (sichuhada) | sondaj yapmak | fiil | 지반 조사를 위해 다섯 지점을 시추했다. | Zemin etüdü için beş noktada sondaj yapıldı.
+발주하다 (baljuhada) | sipariş vermek, ihaleye çıkarmak | fiil | 시는 새 청사 건설 공사를 발주했다. | Belediye yeni hizmet binasının inşaatını ihaleye çıkardı.
+마감하다 (magamhada) | (yüzeyi) bitirmek, ince işçilik yapmak | fiil | 거실 벽은 원목 패널로 마감했다. | Salon duvarını masif ahşap panelle kapladık.
+인도하다 (indohada) | teslim etmek | fiil | 시공사는 예정보다 한 달 앞서 건물을 발주처에 인도했다. | Yüklenici binayı planlanandan bir ay önce işverene teslim etti.
