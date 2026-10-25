@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa, hava
+## Şehirde yerler
+도시 (dosi) | şehir | isim | 서울은 큰 도시예요. (Seoureun keun dosiyeyo.) | Seul büyük bir şehir.
+학교 (hakgyo) | okul | isim | 학교까지 걸어서 가요. (Hakgyokkaji georeoseo gayo.) | Okula yürüyerek giderim.
+은행 (eunhaeng) | banka | isim | 은행이 몇 시에 열어요? (Eunhaengi myeot sie yeoreoyo?) | Banka saat kaçta açılıyor?
+병원 (byeongwon) | hastane | isim | 병원에 가야 돼요. (Byeongwone gaya dwaeyo.) | Hastaneye gitmem lazım.
+우체국 (ucheguk) | postane | isim | 우체국에서 편지를 보내요. (Uchegugeseo pyeonjireul bonaeyo.) | Postaneden mektup gönderiyorum.
+약국 (yakguk) | eczane | isim | 약국은 은행 옆에 있어요. (Yakgugeun eunhaeng yeope isseoyo.) | Eczane bankanın yanında.
+도서관 (doseogwan) | kütüphane | isim | 도서관에서 책을 빌려요. (Doseogwaneseo chaegeul billyeoyo.) | Kütüphaneden kitap ödünç alıyorum.
+공원 (gongwon) | park | isim | 공원에서 산책해요. (Gongwoneseo sanchaekaeyo.) | Parkta yürüyüş yapıyorum.
+카페 (kape) | kafe | isim | 카페에서 친구를 기다려요. (Kapeeseo chingureul gidaryeoyo.) | Kafede arkadaşımı bekliyorum.
+백화점 (baekhwajeom) | alışveriş merkezi, büyük mağaza | isim | 백화점에서 옷을 샀어요. (Baekhwajeomeseo oseul sasseoyo.) | Büyük mağazadan giysi aldım.
+## Daha çok yer
+영화관 (yeonghwagwan) | sinema salonu | isim | 영화관 앞에서 만나요. (Yeonghwagwan apeseo mannayo.) | Sinemanın önünde buluşalım.
+박물관 (bangmulgwan) | müze | isim | 박물관은 월요일에 쉬어요. (Bangmulgwaneun woryoire swieoyo.) | Müze pazartesi kapalı.
+호텔 (hotel) | otel | isim | 호텔이 역에서 가까워요. (Hoteri yeogeseo gakkawoyo.) | Otel istasyona yakın.
+서점 (seojeom) | kitapçı | isim | 서점에서 사전을 샀어요. (Seojeomeseo sajeoneul sasseoyo.) | Kitapçıdan sözlük aldım.
+가게 (gage) | dükkân | isim | 이 가게는 밤늦게까지 해요. (I gageneun bamneutgekkaji haeyo.) | Bu dükkân gece geç saate kadar açık.
+회사 (hoesa) | şirket; iş yeri | isim | 회사가 강남에 있어요. (Hoesaga Gangname isseoyo.) | Şirket Gangnam'da.
+경찰서 (gyeongchalseo) | karakol | isim | 경찰서가 어디에 있어요? (Gyeongchalseoga eodie isseoyo?) | Karakol nerede?
+시청 (sicheong) | belediye binası | isim | 시청 앞에 광장이 있어요. (Sicheong ape gwangjangi isseoyo.) | Belediyenin önünde bir meydan var.
+절 (jeol) | Budist tapınağı | isim | 산속에 오래된 절이 있어요. (Sansoge oraedoen jeori isseoyo.) | Dağın içinde eski bir tapınak var.
+궁 (gung) | saray (eski) | isim | 경복궁은 조선의 궁이에요. (Gyeongbokgungeun Joseonui gungieyo.) | Gyeongbokgung, Joseon döneminin sarayıdır.
+## Yol ve yön
+길 (gil) | yol; sokak | isim | 길을 잃었어요. (Gireul ireosseoyo.) | Yolumu kaybettim.
+왼쪽 (oenjjok) | sol, sol taraf | isim | 왼쪽으로 가세요. (Oenjjogeuro gaseyo.) | Sola gidin.
+오른쪽 (oreunjjok) | sağ, sağ taraf | isim | 은행은 오른쪽에 있어요. (Eunhaengeun oreunjjoge isseoyo.) | Banka sağda.
+똑바로 (ttokbaro) | dosdoğru, düz | zarf | 똑바로 쭉 가세요. (Ttokbaro jjuk gaseyo.) | Dosdoğru ilerleyin.
+건너편 (geonneopyeon) | karşı taraf | isim | 길 건너편에 약국이 있어요. (Gil geonneopyeone yakgugi isseoyo.) | Yolun karşısında eczane var.
+횡단보도 (hoengdanbodo) | yaya geçidi | isim | 횡단보도를 건너세요. (Hoengdanbodoreul geonneoseyo.) | Yaya geçidinden karşıya geçin.
+사거리 (sageori) | dörtyol, kavşak | isim | 사거리에서 오른쪽으로 도세요. (Sageorieseo oreunjjogeuro doseyo.) | Kavşaktan sağa dönün.
+신호등 (sinhodeung) | trafik ışığı | isim | 신호등이 빨간불이에요. (Sinhodeungi ppalganburieyo.) | Trafik ışığı kırmızı.
+멀다 (meolda) | uzak olmak | sıfat | 집에서 회사까지 멀어요. (Jibeseo hoesakkaji meoreoyo.) | Evden şirkete uzak.
+가깝다 (gakkapda) | yakın olmak (가까워요) | sıfat | 역이 아주 가까워요. (Yeogi aju gakkawoyo.) | İstasyon çok yakın.
+## Ulaşım araçları
+버스 (beoseu) | otobüs | isim | 버스로 학교에 가요. (Beoseuro hakgyoe gayo.) | Okula otobüsle giderim.
+지하철 (jihacheol) | metro | isim | 지하철이 빠르고 편해요. (Jihacheori ppareugo pyeonhaeyo.) | Metro hızlı ve rahat.
+택시 (taeksi) | taksi | isim | 택시를 불러 주세요. (Taeksireul bulleo juseyo.) | Bir taksi çağırır mısınız?
+기차 (gicha) | tren | isim | 기차로 부산에 가요. (Gicharo Busane gayo.) | Busan'a trenle gidiyorum.
+비행기 (bihaenggi) | uçak | isim | 비행기가 곧 출발해요. (Bihaenggiga got chulbalhaeyo.) | Uçak birazdan kalkıyor.
+차 (cha) | araba, otomobil | isim | 차가 막혀요. (Chaga makyeoyo.) | Trafik sıkışık.
+자전거 (jajeongeo) | bisiklet | isim | 한강에서 자전거를 타요. (Hangangeseo jajeongeoreul tayo.) | Han Nehri kıyısında bisiklete biniyorum.
+배 (bae) | gemi, tekne | isim | 배를 타고 섬에 가요. (Baereul tago seome gayo.) | Gemiyle adaya gidiyoruz.
+오토바이 (otobai) | motosiklet | isim | 배달원이 오토바이를 타요. (Baedarwoni otobaireul tayo.) | Kurye motosiklete biniyor.
+걷다 (geotda) | yürümek (걸어요) | fiil · düzensiz | 매일 삼십 분 걸어요. (Maeil samsip bun georeoyo.) | Her gün otuz dakika yürürüm.
+## Toplu taşıma
+정류장 (jeongnyujang) | durak | isim | 버스 정류장이 어디예요? (Beoseu jeongnyujangi eodiyeyo?) | Otobüs durağı nerede?
+역 (yeok) | istasyon | isim | 서울역에서 내려요. (Seouryeogeseo naeryeoyo.) | Seul İstasyonu'nda iniyorum.
+표 (pyo) | bilet | isim | 부산 가는 표 한 장 주세요. (Busan ganeun pyo han jang juseyo.) | Busan'a bir bilet lütfen.
+교통카드 (gyotongkadeu) | ulaşım kartı | isim | 교통카드를 충전해요. (Gyotongkadeureul chungjeonhaeyo.) | Ulaşım kartına para yüklüyorum.
+출구 (chulgu) | çıkış | isim | 삼 번 출구로 나오세요. (Sam beon chulguro naoseyo.) | Üç numaralı çıkıştan çıkın.
+입구 (ipgu) | giriş | isim | 입구에서 기다릴게요. (Ipgueseo gidarilgeyo.) | Girişte bekleyeceğim.
+호선 (hoseon) | (metro) hattı | isim | 이호선으로 갈아타세요. (Ihoseoneuro garataseyo.) | 2 numaralı hatta aktarma yapın.
+갈아타다 (garatada) | aktarma yapmak | fiil | 시청역에서 갈아타요. (Sicheongyeogeseo garatayo.) | Belediye istasyonunda aktarma yapıyorum.
+타다 (tada) | binmek | fiil | 지하철을 타요. (Jihacheoreul tayo.) | Metroya biniyorum.
+내리다 (naerida) | inmek; (yağmur) yağmak | fiil | 다음 역에서 내리세요. (Daeum yeogeseo naeriseyo.) | Bir sonraki istasyonda inin.
+## Hareket fiilleri
+가다 (gada) | gitmek | fiil | 내일 부산에 가요. (Naeil Busane gayo.) | Yarın Busan'a gidiyorum.
+오다 (oda) | gelmek | fiil | 언제 한국에 왔어요? (Eonje Hanguge wasseoyo?) | Kore'ye ne zaman geldin?
+들어가다 (deureogada) | içeri girmek | fiil | 안으로 들어가세요. (Aneuro deureogaseyo.) | İçeri girin.
+나가다 (nagada) | dışarı çıkmak | fiil | 잠깐 밖에 나가요. (Jamkkan bakke nagayo.) | Biraz dışarı çıkıyorum.
+올라가다 (ollagada) | yukarı çıkmak | fiil | 산에 올라가요. (Sane ollagayo.) | Dağa tırmanıyoruz.
+내려가다 (naeryeogada) | aşağı inmek | fiil | 일 층으로 내려가세요. (Il cheungeuro naeryeogaseyo.) | Birinci kata inin.
+돌아가다 (doragada) | geri dönmek | fiil | 다음 달에 고향에 돌아가요. (Daeum dare gohyange doragayo.) | Gelecek ay memlekete dönüyorum.
+도착하다 (dochakada) | varmak, ulaşmak | fiil | 몇 시에 도착해요? (Myeot sie dochakaeyo?) | Saat kaçta varıyorsun?
+출발하다 (chulbalhada) | yola çıkmak, kalkmak | fiil | 기차가 열 시에 출발해요. (Gichaga yeol sie chulbalhaeyo.) | Tren saat onda kalkıyor.
+건너다 (geonneoda) | karşıya geçmek | fiil | 다리를 건너요. (Darireul geonneoyo.) | Köprüden geçiyoruz.
+## Seyahat
+여행 (yeohaeng) | seyahat, gezi | isim | 제주도로 여행을 가요. (Jejudoro yeohaengeul gayo.) | Jeju Adası'na geziye gidiyorum.
+공항 (gonghang) | havalimanı | isim | 인천 공항에 도착했어요. (Incheon gonghange dochakaesseoyo.) | Incheon Havalimanı'na vardım.
+여권 (yeogwon) | pasaport | isim | 여권을 보여 주세요. (Yeogwoneul boyeo juseyo.) | Pasaportunuzu gösterin lütfen.
+짐 (jim) | bagaj, yük | isim | 짐이 너무 무거워요. (Jimi neomu mugeowoyo.) | Bagaj çok ağır.
+지도 (jido) | harita | isim | 지도를 보고 찾아가요. (Jidoreul bogo chajagayo.) | Haritaya bakarak buluyorum.
+관광지 (gwangwangji) | turistik yer | isim | 경주는 유명한 관광지예요. (Gyeongjuneun yumyeonghan gwangwangjiyeyo.) | Gyeongju ünlü bir turistik yer.
+관광객 (gwangwanggaek) | turist | isim | 명동에 관광객이 많아요. (Myeongdonge gwangwanggaegi manayo.) | Myeongdong'da çok turist var.
+구경하다 (gugyeonghada) | gezip görmek, seyretmek | fiil | 시내를 구경해요. (Sinaereul gugyeonghaeyo.) | Şehir merkezini geziyoruz.
+찍다 (jjikda) | (fotoğraf) çekmek | fiil | 사진 좀 찍어 주세요. (Sajin jom jjigeo juseyo.) | Fotoğrafımı çeker misiniz?
+기념품 (ginyeompum) | hediyelik eşya | isim | 인사동에서 기념품을 샀어요. (Insadongeseo ginyeompumeul sasseoyo.) | Insadong'dan hediyelik eşya aldım.
+## Doğa
+자연 (jayeon) | doğa | isim | 한국은 자연이 아름다워요. (Hangugeun jayeoni areumdawoyo.) | Kore'nin doğası çok güzel.
+산 (san) | dağ | isim | 주말에 산에 가요. (Jumare sane gayo.) | Hafta sonu dağa gidiyoruz.
+바다 (bada) | deniz | isim | 부산은 바다가 예뻐요. (Busaneun badaga yeppeoyo.) | Busan'ın denizi güzel.
+강 (gang) | nehir | isim | 한강은 서울에 있어요. (Hangangeun Seoure isseoyo.) | Han Nehri Seul'dedir.
+섬 (seom) | ada | isim | 제주도는 큰 섬이에요. (Jejudoneun keun seomieyo.) | Jeju büyük bir ada.
+호수 (hosu) | göl | isim | 호수가 아주 조용해요. (Hosuga aju joyonghaeyo.) | Göl çok sakin.
+숲 (sup) | orman | isim | 숲에서 새소리를 들어요. (Supeseo saesorireul deureoyo.) | Ormanda kuş seslerini dinliyorum.
+하늘 (haneul) | gökyüzü | isim | 하늘에 별이 많아요. (Haneure byeori manayo.) | Gökyüzünde çok yıldız var.
+나무 (namu) | ağaç | isim | 나무 아래에서 쉬어요. (Namu araeeseo swieoyo.) | Ağacın altında dinleniyorum.
+꽃 (kkot) | çiçek | isim | 꽃이 활짝 폈어요. (Kkochi hwaljjak pyeosseoyo.) | Çiçekler tamamen açtı.
+## Hava durumu
+날씨 (nalssi) | hava (durumu) | isim | 오늘 날씨가 어때요? (Oneul nalssiga eottaeyo?) | Bugün hava nasıl?
+비 (bi) | yağmur | isim | 비가 많이 와요. (Biga mani wayo.) | Çok yağmur yağıyor.
+눈이 오다 (nuni oda) | kar yağmak | ifade | 밖에 눈이 와요. (Bakke nuni wayo.) | Dışarıda kar yağıyor.
+바람 (baram) | rüzgâr | isim | 바람이 세게 불어요. (Barami sege bureoyo.) | Rüzgâr sert esiyor.
+구름 (gureum) | bulut | isim | 하늘에 구름이 많아요. (Haneure gureumi manayo.) | Gökyüzünde çok bulut var.
+해 (hae) | güneş; yıl | isim | 해가 떴어요. (Haega tteosseoyo.) | Güneş doğdu.
+맑다 (makda) | açık, berrak olmak (hava) | sıfat | 오늘은 하늘이 맑아요. (Oneureun haneuri malgayo.) | Bugün gökyüzü açık.
+흐리다 (heurida) | bulutlu, kapalı olmak | sıfat | 날씨가 흐려요. (Nalssiga heuryeoyo.) | Hava kapalı.
+덥다 (deopda) | sıcak olmak (hava; 더워요) | sıfat | 여름은 정말 더워요. (Yeoreumeun jeongmal deowoyo.) | Yaz gerçekten sıcak.
+춥다 (chupda) | soğuk olmak (hava; 추워요) | sıfat | 오늘 너무 추워요. (Oneul neomu chuwoyo.) | Bugün çok soğuk.
+## Şehri betimlemek
+복잡하다 (bokjapada) | kalabalık, karmaşık olmak | sıfat | 출근 시간에는 지하철이 복잡해요. (Chulgeun siganeneun jihacheori bokjapaeyo.) | İşe gidiş saatinde metro kalabalık.
+시끄럽다 (sikkeureopda) | gürültülü olmak (시끄러워요) | sıfat | 길이 너무 시끄러워요. (Giri neomu sikkeureowoyo.) | Sokak çok gürültülü.
+깨끗하다 (kkaekkeutada) | temiz olmak | sıfat | 서울 지하철은 깨끗해요. (Seoul jihacheoreun kkaekkeutaeyo.) | Seul metrosu temiz.
+더럽다 (deoreopda) | kirli olmak (더러워요) | sıfat | 신발이 더러워요. (Sinbari deoreowoyo.) | Ayakkabılar kirli.
+유명하다 (yumyeonghada) | ünlü olmak | sıfat | 이 시장은 호떡으로 유명해요. (I sijangeun hotteogeuro yumyeonghaeyo.) | Bu pazar hotteok'uyla ünlü.
+넓다 (neolda) | geniş olmak | sıfat | 공원이 아주 넓어요. (Gongwoni aju neolbeoyo.) | Park çok geniş.
+좁다 (jopda) | dar olmak | sıfat | 골목길이 좁아요. (Golmokgiri jobayo.) | Ara sokak dar.
+편리하다 (pyeollihada) | kullanışlı, elverişli olmak | sıfat | 서울은 교통이 편리해요. (Seoureun gyotongi pyeollihaeyo.) | Seul'de ulaşım çok elverişli.
+위험하다 (wiheomhada) | tehlikeli olmak | sıfat | 밤에 혼자 다니면 위험해요. (Bame honja danimyeon wiheomhaeyo.) | Gece yalnız dolaşmak tehlikeli.
+안전하다 (anjeonhada) | güvenli olmak | sıfat | 이 동네는 안전해요. (I dongneneun anjeonhaeyo.) | Bu mahalle güvenli.
