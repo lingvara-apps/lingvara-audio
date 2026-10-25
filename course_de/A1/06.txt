@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa
+## Şehirde yerler
+die Stadt (die Städte) | şehir | isim (d) | Graz ist eine schöne Stadt. | Graz güzel bir şehir.
+das Dorf (die Dörfer) | köy | isim (o) | Meine Oma wohnt in einem Dorf. | Ninem bir köyde yaşıyor.
+die Straße (die Straßen) | cadde, sokak; yol | isim (d) | In welcher Straße wohnst du? | Hangi sokakta oturuyorsun?
+der Platz (die Plätze) | meydan; yer | isim (e) | Wir treffen uns am Marktplatz. | Pazar meydanında buluşuyoruz.
+der Park (die Parks) | park | isim (e) | Im Park spielen viele Kinder. | Parkta birçok çocuk oynuyor.
+die Kirche (die Kirchen) | kilise | isim (d) | Die Kirche ist sehr alt. | Kilise çok eski.
+die Moschee (die Moscheen) | cami | isim (d) | Die Moschee ist in der Nähe vom Bahnhof. | Cami istasyonun yakınında.
+das Museum (die Museen) | müze | isim (o) | Am Sonntag gehen wir ins Museum. | Pazar günü müzeye gidiyoruz.
+das Rathaus (die Rathäuser) | belediye binası | isim (o) | Das Rathaus ist am Marktplatz. | Belediye binası pazar meydanında.
+das Zentrum (die Zentren) | merkez | isim (o) | Das Hotel liegt im Zentrum. | Otel merkezde.
+## Binalar ve dükkânlar
+die Post | postane; posta | isim (d) | Ich bringe das Paket zur Post. | Paketi postaneye götürüyorum.
+die Bank (die Banken) | banka | isim (d) | Die Bank öffnet um neun. | Banka dokuzda açılıyor.
+das Krankenhaus (die Krankenhäuser) | hastane | isim (o) | Das Krankenhaus ist gleich hier. | Hastane hemen burada.
+die Schule (die Schulen) | okul | isim (d) | Die Kinder gehen zu Fuß zur Schule. | Çocuklar okula yürüyerek gidiyor.
+das Hotel (die Hotels) | otel | isim (o) | Unser Hotel hat einen Pool. | Otelimizin havuzu var.
+das Kino (die Kinos) | sinema | isim (o) | Gehen wir heute ins Kino? | Bugün sinemaya gidelim mi?
+das Geschäft (die Geschäfte) | dükkân, mağaza; iş | isim (o) | Das Geschäft ist sonntags zu. | Dükkân pazarları kapalı.
+die Bäckerei (die Bäckereien) | fırın, ekmek dükkânı | isim (d) | Die Bäckerei öffnet schon um sechs. | Fırın daha saat altıda açılıyor.
+der Markt (die Märkte) | pazar | isim (e) | Samstags gehen wir auf den Markt. | Cumartesileri pazara gideriz.
+die Bibliothek (die Bibliotheken) | kütüphane | isim (d) | Ich lerne in der Bibliothek. | Kütüphanede ders çalışıyorum.
+## Yön tarifi
+links | solda, sola | zarf | Gehen Sie hier links. | Buradan sola gidin.
+rechts | sağda, sağa | zarf | Die Apotheke ist rechts. | Eczane sağda.
+geradeaus | dümdüz, doğru | zarf | Gehen Sie immer geradeaus. | Hep dümdüz gidin.
+die Ecke (die Ecken) | köşe | isim (d) | Das Café ist an der Ecke. | Kafe köşede.
+die Ampel (die Ampeln) | trafik ışığı | isim (d) | An der Ampel gehen Sie rechts. | Trafik ışığından sağa dönün.
+die Kreuzung (die Kreuzungen) | kavşak | isim (d) | Nach der Kreuzung kommt die Post. | Kavşaktan sonra postane geliyor.
+gegenüber | karşısında | edat | Die Bank ist gegenüber vom Bahnhof. | Banka istasyonun karşısında.
+zwischen | arasında | edat | Das Kino ist zwischen dem Hotel und der Bank. | Sinema otelle bankanın arasında.
+hinter | arkasında | edat | Der Parkplatz ist hinter dem Haus. | Otopark evin arkasında.
+in der Nähe | yakınında, yakında | ifade | Gibt es hier in der Nähe einen Supermarkt? | Buralarda bir süpermarket var mı?
+## Toplu taşıma
+der Bus (die Busse) | otobüs | isim (e) | Ich fahre mit dem Bus zur Arbeit. | İşe otobüsle gidiyorum.
+die Straßenbahn (die Straßenbahnen) | tramvay | isim (d) | In Wien fahren viele Straßenbahnen. | Viyana'da çok tramvay var.
+die U-Bahn (die U-Bahnen) | metro | isim (d) | Die U-Bahn ist schneller als der Bus. | Metro otobüsten daha hızlı.
+die S-Bahn (die S-Bahnen) | banliyö treni | isim (d) | Die S-Bahn fährt zum Flughafen. | Banliyö treni havalimanına gidiyor.
+der Zug (die Züge) | tren | isim (e) | Der Zug nach Basel hat Verspätung. | Basel treni rötarlı.
+die Haltestelle (die Haltestellen) | durak | isim (d) | Wo ist die nächste Haltestelle? | En yakın durak nerede?
+der Bahnhof (die Bahnhöfe) | tren istasyonu, gar | isim (e) | Wir treffen uns am Bahnhof. | İstasyonda buluşuyoruz.
+die Fahrkarte (die Fahrkarten) | bilet (toplu taşıma) | isim (d) | Ich kaufe eine Fahrkarte am Automaten. | Otomattan bilet alıyorum.
+der Fahrplan (die Fahrpläne) | sefer tarifesi | isim (e) | Schau mal auf den Fahrplan. | Bir tarifeye bak.
+umsteigen (stieg um, umgestiegen) | aktarma yapmak | fiil · düzensiz | In Frankfurt müssen wir umsteigen. | Frankfurt'ta aktarma yapmamız lazım.
+## Araçlar ve gitmek
+das Auto (die Autos) | araba | isim (o) | Unser Auto ist rot. | Arabamız kırmızı.
+das Fahrrad (die Fahrräder) | bisiklet | isim (o) | Ich fahre jeden Tag Fahrrad. | Her gün bisiklete binerim.
+das Taxi (die Taxis) | taksi | isim (o) | Wir nehmen ein Taxi zum Hotel. | Otele taksiyle gidiyoruz.
+das Flugzeug (die Flugzeuge) | uçak | isim (o) | Das Flugzeug landet um zehn. | Uçak saat onda iniyor.
+das Schiff (die Schiffe) | gemi | isim (o) | Das Schiff fährt über den Bodensee. | Gemi Konstanz Gölü'nden geçiyor.
+das Motorrad (die Motorräder) | motosiklet | isim (o) | Mein Bruder hat ein Motorrad. | Ağabeyimin bir motosikleti var.
+zu Fuß | yürüyerek, yayan | ifade | Ich gehe zu Fuß nach Hause. | Eve yürüyerek gidiyorum.
+fahren (fuhr, gefahren) | (araçla) gitmek; sürmek | fiil · düzensiz | Wir fahren mit dem Zug nach Wien. | Viyana'ya trenle gidiyoruz.
+fliegen (flog, geflogen) | uçmak; uçakla gitmek | fiil · düzensiz | Im Sommer fliegen wir nach Antalya. | Yazın Antalya'ya uçuyoruz.
+gehen (ging, gegangen) | gitmek; yürümek | fiil · düzensiz | Ich gehe jetzt nach Hause. | Şimdi eve gidiyorum.
+## Seyahat
+die Reise (die Reisen) | yolculuk, seyahat | isim (d) | Die Reise war sehr schön. | Yolculuk çok güzeldi.
+reisen | seyahat etmek | fiil | Ich reise gern allein. | Yalnız seyahat etmeyi severim.
+der Urlaub (die Urlaube) | tatil; izin | isim (e) | Wir machen Urlaub in Tirol. | Tirol'de tatil yapıyoruz.
+der Koffer (die Koffer) | bavul | isim (e) | Mein Koffer ist zu schwer. | Bavulum çok ağır.
+der Pass (die Pässe) | pasaport | isim (e) | Vergiss deinen Pass nicht! | Pasaportunu unutma!
+der Flughafen (die Flughäfen) | havalimanı | isim (e) | Ich bringe dich zum Flughafen. | Seni havalimanına götürüyorum.
+das Ticket (die Tickets) | bilet | isim (o) | Ich habe die Tickets online gekauft. | Biletleri internetten aldım.
+ankommen (kam an, angekommen) | varmak, ulaşmak | fiil · düzensiz | Wann kommt der Zug in Berlin an? | Tren Berlin'e ne zaman varıyor?
+abfahren (fuhr ab, abgefahren) | hareket etmek, kalkmak | fiil · düzensiz | Der Bus fährt um acht Uhr ab. | Otobüs saat sekizde kalkıyor.
+der Tourist (die Touristen) | turist | isim (e) | Im Sommer kommen viele Touristen. | Yazın çok turist geliyor.
+## Doğa
+die Natur | doğa | isim (d) | Am Wochenende sind wir gern in der Natur. | Hafta sonları doğada olmayı severiz.
+der Wald (die Wälder) | orman | isim (e) | Wir gehen im Wald spazieren. | Ormanda yürüyüş yapıyoruz.
+der See (die Seen) | göl | isim (e) | Im Sommer schwimmen wir im See. | Yazın gölde yüzeriz.
+der Fluss (die Flüsse) | nehir | isim (e) | Der Rhein ist ein langer Fluss. | Ren uzun bir nehirdir.
+die Insel (die Inseln) | ada | isim (d) | Rügen ist eine Insel in der Ostsee. | Rügen, Baltık Denizi'nde bir adadır.
+der Strand (die Strände) | plaj, sahil | isim (e) | Der Strand ist heute voll. | Plaj bugün kalabalık.
+die Wiese (die Wiesen) | çayır | isim (d) | Die Kühe stehen auf der Wiese. | İnekler çayırda duruyor.
+das Tal (die Täler) | vadi | isim (o) | Das Dorf liegt in einem Tal. | Köy bir vadide.
+die Alpen | Alpler | isim (çoğul) | Im Winter fahren wir in die Alpen. | Kışın Alplere gideriz.
+der Hügel (die Hügel) | tepe | isim (e) | Hinter dem Haus ist ein kleiner Hügel. | Evin arkasında küçük bir tepe var.
+## Hava
+das Wetter | hava (durumu) | isim (o) | Wie ist das Wetter heute? | Bugün hava nasıl?
+regnen | yağmur yağmak | fiil | Es regnet schon den ganzen Tag. | Bütün gün yağmur yağıyor.
+schneien | kar yağmak | fiil | Im Januar schneit es oft. | Ocakta sık sık kar yağar.
+der Schnee | kar | isim (e) | Die Kinder spielen im Schnee. | Çocuklar karda oynuyor.
+der Wind (die Winde) | rüzgâr | isim (e) | Der Wind ist heute stark. | Bugün rüzgâr sert.
+die Wolke (die Wolken) | bulut | isim (d) | Am Himmel sind keine Wolken. | Gökyüzünde hiç bulut yok.
+sonnig | güneşli | sıfat | Morgen wird es sonnig. | Yarın hava güneşli olacak.
+bewölkt | bulutlu | sıfat | Heute ist es bewölkt. | Bugün hava bulutlu.
+der Grad (die Grade) | derece | isim (e) | Es sind nur fünf Grad. | Sadece beş derece.
+die Temperatur (die Temperaturen) | sıcaklık | isim (d) | Die Temperatur steigt am Nachmittag. | Öğleden sonra sıcaklık yükseliyor.
+## Yol sormak
+der Weg (die Wege) | yol | isim (e) | Können Sie mir den Weg zeigen? | Bana yolu gösterebilir misiniz?
+suchen | aramak | fiil | Ich suche den Bahnhof. | İstasyonu arıyorum.
+finden (fand, gefunden) | bulmak | fiil · düzensiz | Ich finde mein Hotel nicht. | Otelimi bulamıyorum.
+zeigen | göstermek | fiil | Zeig mir das bitte auf der Karte. | Bunu bana haritada göster lütfen.
+der Stadtplan (die Stadtpläne) | şehir haritası | isim (e) | Hast du einen Stadtplan? | Şehir haritan var mı?
+weit | uzak; geniş | sıfat | Ist es weit bis zum Museum? | Müze uzak mı?
+nah | yakın | sıfat | Der Bahnhof ist ganz nah. | İstasyon çok yakın.
+sich verlaufen (verlief, verlaufen) | yolunu kaybetmek (yürürken) | fiil · dönüşlü | Ich glaube, wir haben uns verlaufen. | Sanırım yolumuzu kaybettik.
+fragen | sormak | fiil | Wir fragen den Polizisten. | Polise soruyoruz.
+die Richtung (die Richtungen) | yön, istikamet | isim (d) | Ist das die Richtung zum Zentrum? | Merkez bu yönde mi?
+## Şehir hayatı
+die Hauptstadt (die Hauptstädte) | başkent | isim (d) | Bern ist die Hauptstadt der Schweiz. | Bern İsviçre'nin başkentidir.
+die Altstadt (die Altstädte) | eski şehir, tarihî merkez | isim (d) | Die Altstadt von Salzburg ist wunderschön. | Salzburg'un eski şehri çok güzel.
+die Brücke (die Brücken) | köprü | isim (d) | Wir gehen über die Brücke. | Köprünün üzerinden geçiyoruz.
+der Turm (die Türme) | kule | isim (e) | Vom Turm sieht man die ganze Stadt. | Kuleden bütün şehir görünüyor.
+das Gebäude (die Gebäude) | bina | isim (o) | Das Gebäude ist sehr hoch. | Bina çok yüksek.
+der Verkehr | trafik | isim (e) | Am Morgen ist viel Verkehr. | Sabahları trafik yoğun.
+der Einwohner (die Einwohner) | sakin, oturan | isim (e) | Die Stadt hat viele Einwohner. | Şehrin çok sakini var.
+die Polizei | polis (teşkilat) | isim (d) | Ruf schnell die Polizei! | Hemen polisi ara!
+das Schloss (die Schlösser) | şato, saray; kilit | isim (o) | Das Schloss liegt auf einem Berg. | Şato bir dağın üstünde.
+die Fußgängerzone (die Fußgängerzonen) | yaya bölgesi | isim (d) | In der Fußgängerzone gibt es viele Geschäfte. | Yaya bölgesinde çok dükkân var.
