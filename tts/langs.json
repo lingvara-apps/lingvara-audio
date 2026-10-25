@@ -206,8 +206,8 @@
   "g2p": "misaki-zh",
   "reading_parens": true,
   "voices": {
-   "f": "zf_xiaobei",
-   "m": "zm_yunjian"
+   "f": "zf_001",
+   "m": "zm_011"
   },
   "male_names": [
    "Wang Wei",
@@ -239,7 +239,8 @@
    "李雷",
    "王明",
    "张华"
-  ]
+  ],
+  "model": "v1.1-zh"
  },
  "de": {
   "engine": "supertonic",
