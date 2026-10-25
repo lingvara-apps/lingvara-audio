@@ -1,0 +1,111 @@
+# UNIT: Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+## Şirket yönetimi
+il consiglio di amministrazione | yönetim kurulu | isim (e) | Il consiglio di amministrazione si riunirà giovedì per approvare il bilancio. | Yönetim kurulu bilançoyu onaylamak için perşembe toplanacak.
+l'amministratore delegato (e) | genel müdür, CEO | isim (e) | L'amministratore delegato ha presentato il nuovo piano industriale agli azionisti. | Genel müdür yeni sanayi planını hissedarlara sundu.
+il socio di maggioranza | çoğunluk hissedarı | isim (e) | Il socio di maggioranza ha bloccato la vendita della controllata spagnola. | Çoğunluk hissedarı İspanyol iştirakin satışını engelledi.
+l'assemblea dei soci (d) | ortaklar genel kurulu | isim (d) | L'assemblea dei soci ha votato all'unanimità la distribuzione degli utili. | Ortaklar genel kurulu kârın dağıtılmasını oybirliğiyle kabul etti.
+la governance | kurumsal yönetim | isim (d) | Gli investitori chiedono una governance più trasparente e meno accentrata. | Yatırımcılar daha şeffaf ve daha az merkeziyetçi bir kurumsal yönetim istiyor.
+la controllata | bağlı şirket, iştirak | isim (d) | La controllata tedesca contribuisce per un terzo al fatturato del gruppo. | Alman iştiraki grubun cirosuna üçte bir oranında katkı sağlıyor.
+la capogruppo | ana şirket, holding | isim (d) | La capogruppo ha sede a Torino ma opera in quindici paesi. | Ana şirketin merkezi Torino'da ama on beş ülkede faaliyet gösteriyor.
+l'organigramma (e) | organizasyon şeması | isim (e) | Il nuovo organigramma riduce i livelli gerarchici da sei a quattro. | Yeni organizasyon şeması hiyerarşik kademeleri altıdan dörde indiriyor.
+il dirigente | yönetici | isim (e) | Ogni dirigente dovrà presentare entro marzo gli obiettivi del proprio settore. | Her yönetici mart sonuna kadar kendi biriminin hedeflerini sunmak zorunda.
+la delega | yetki devri; vekâlet | isim (d) | Il direttore ha conferito una delega ampia al responsabile degli acquisti. | Müdür satın alma sorumlusuna geniş bir yetki devretti.
+## Strateji ve planlama
+il piano industriale | iş planı, sanayi planı | isim (e) | Il piano industriale prevede investimenti per due miliardi in cinque anni. | İş planı beş yılda iki milyarlık yatırım öngörüyor.
+la fusione | birleşme | isim (d) | La fusione tra le due banche darà vita al terzo gruppo del paese. | İki bankanın birleşmesi ülkenin üçüncü büyük grubunu doğuracak.
+l'acquisizione (d) | satın alma, devralma | isim (d) | L'acquisizione della piccola azienda veneta è costata più del previsto. | Küçük Veneto şirketinin satın alınması beklenenden pahalıya mal oldu.
+la ristrutturazione aziendale | şirket yeniden yapılanması | isim (d) | La ristrutturazione aziendale ha comportato la chiusura di due stabilimenti. | Şirketin yeniden yapılanması iki fabrikanın kapanmasına yol açtı.
+la delocalizzazione | üretimi yurt dışına taşıma | isim (d) | La delocalizzazione della produzione in Asia ha ridotto i costi ma non la qualità. | Üretimin Asya'ya taşınması maliyetleri düşürdü ama kaliteyi düşürmedi.
+il core business | ana faaliyet alanı | isim (e) | L'azienda ha deciso di vendere le attività estranee al proprio core business. | Şirket ana faaliyet alanı dışındaki işleri satmaya karar verdi.
+la sinergia | sinerji, eşgüdüm | isim (d) | La fusione dovrebbe generare sinergie per circa cento milioni all'anno. | Birleşmenin yılda yaklaşık yüz milyonluk sinerji yaratması bekleniyor.
+il posizionamento | konumlandırma | isim (e) | Il nuovo posizionamento del marchio punta su una clientela più giovane. | Markanın yeni konumlandırması daha genç bir müşteri kitlesini hedefliyor.
+la quota di mercato | pazar payı | isim (d) | Negli ultimi due anni abbiamo perso quote di mercato a favore dei concorrenti. | Son iki yılda rakiplerimize pazar payı kaptırdık.
+il vantaggio competitivo | rekabet üstünlüğü | isim (e) | La qualità artigianale resta il nostro principale vantaggio competitivo. | Zanaatkâr kalitesi başlıca rekabet üstünlüğümüz olmaya devam ediyor.
+## Finansal raporlama
+il bilancio d'esercizio | yıllık bilanço, mali tablolar | isim (e) | Il bilancio d'esercizio deve essere depositato entro trenta giorni dall'approvazione. | Yıllık bilanço onaydan itibaren otuz gün içinde tescil edilmelidir.
+il conto economico | gelir tablosu | isim (e) | Dal conto economico emerge un forte aumento dei costi energetici. | Gelir tablosundan enerji maliyetlerinde güçlü bir artış ortaya çıkıyor.
+lo stato patrimoniale | bilanço (varlık ve kaynaklar) | isim (e) | Lo stato patrimoniale mostra un indebitamento in netta diminuzione. | Bilanço borçlanmanın belirgin biçimde azaldığını gösteriyor.
+il fatturato | ciro | isim (e) | Il fatturato è cresciuto dell'otto per cento rispetto all'anno precedente. | Ciro bir önceki yıla göre yüzde sekiz arttı.
+l'utile netto (e) | net kâr | isim (e) | L'utile netto è stato in parte reinvestito nella ricerca e sviluppo. | Net kârın bir kısmı araştırma ve geliştirmeye yeniden yatırıldı.
+la perdita d'esercizio | dönem zararı | isim (d) | Dopo tre anni di crescita, la società ha chiuso con una perdita d'esercizio. | Üç yıllık büyümenin ardından şirket dönemi zararla kapattı.
+l'ammortamento (e) | amortisman | isim (e) | L'ammortamento dei macchinari viene calcolato su un periodo di dieci anni. | Makinelerin amortismanı on yıllık bir süre üzerinden hesaplanıyor.
+il margine operativo | faaliyet kâr marjı | isim (e) | Il margine operativo è sceso a causa dell'aumento delle materie prime. | Hammadde fiyatlarındaki artış yüzünden faaliyet kâr marjı düştü.
+la revisione contabile | bağımsız denetim | isim (d) | La revisione contabile è affidata ogni anno a una società esterna. | Bağımsız denetim her yıl dışarıdan bir şirkete veriliyor.
+il flusso di cassa | nakit akışı | isim (e) | Un flusso di cassa positivo ci permette di evitare nuovi finanziamenti. | Pozitif bir nakit akışı yeni finansmanlardan kaçınmamızı sağlıyor.
+## Sözleşmeler
+la clausola | madde, şart | isim (d) | Una clausola del contratto vieta di cedere i diritti a terzi. | Sözleşmedeki bir madde hakların üçüncü kişilere devrini yasaklıyor.
+la penale | cezai şart | isim (d) | In caso di ritardo nella consegna è prevista una penale giornaliera. | Teslimatta gecikme durumunda günlük bir cezai şart öngörülüyor.
+la rescissione | fesih | isim (d) | La rescissione anticipata del contratto comporta il pagamento di un indennizzo. | Sözleşmenin erken feshi bir tazminat ödenmesini gerektirir.
+il recesso | cayma, sözleşmeden çekilme | isim (e) | Il cliente può esercitare il diritto di recesso entro quattordici giorni. | Müşteri cayma hakkını on dört gün içinde kullanabilir.
+le parti contraenti | sözleşme tarafları | isim (çoğul) | Le parti contraenti si impegnano a mantenere la massima riservatezza. | Sözleşme tarafları en yüksek gizliliği korumayı taahhüt eder.
+stipulare | akdetmek, sözleşme yapmak | fiil | Abbiamo stipulato un accordo quinquennale con un fornitore portoghese. | Portekizli bir tedarikçiyle beş yıllık bir anlaşma yaptık.
+sottoscrivere (sottoscritto) | imzalamak | fiil · düzensiz | Il contratto deve essere sottoscritto da entrambi i legali rappresentanti. | Sözleşme her iki yasal temsilci tarafından imzalanmalıdır.
+la scadenza contrattuale | sözleşme bitiş tarihi | isim (d) | Alla scadenza contrattuale il rapporto si rinnova automaticamente per un anno. | Sözleşme bitiş tarihinde ilişki otomatik olarak bir yıl yenilenir.
+l'inadempienza (d) | yükümlülüğü yerine getirmeme | isim (d) | L'inadempienza del fornitore ci ha costretti a cercare un'altra ditta. | Tedarikçinin yükümlülüğünü yerine getirmemesi bizi başka bir firma aramaya zorladı.
+vincolante | bağlayıcı | sıfat | La lettera d'intenti non è ancora vincolante per nessuna delle parti. | Niyet mektubu henüz taraflardan hiçbiri için bağlayıcı değil.
+## İnsan kaynakları
+la risorsa umana | insan kaynağı, çalışan | isim (d) | Ogni risorsa umana deve sentirsi valorizzata all'interno del gruppo. | Her çalışan grup içinde değer gördüğünü hissetmelidir.
+il reclutamento | işe alım | isim (e) | Il reclutamento dei nuovi ingegneri avverrà tramite una selezione pubblica. | Yeni mühendislerin işe alımı açık bir seçme süreciyle yapılacak.
+l'organico (e) | personel kadrosu | isim (e) | Entro l'anno l'organico dello stabilimento salirà a trecento persone. | Yıl sonuna kadar fabrikanın kadrosu üç yüz kişiye çıkacak.
+il contratto a tempo indeterminato | belirsiz süreli sözleşme | isim (e) | Dopo due anni di prova le ha offerto un contratto a tempo indeterminato. | İki yıllık denemenin ardından ona belirsiz süreli bir sözleşme teklif etti.
+la mansione | görev, iş tanımı | isim (d) | Le mansioni del nuovo assunto non sono ancora state definite con chiarezza. | Yeni işe alınanın görevleri henüz net biçimde tanımlanmadı.
+la cassa integrazione | kısa çalışma ödeneği | isim (d) | Durante la crisi centinaia di operai sono stati messi in cassa integrazione. | Kriz sırasında yüzlerce işçi kısa çalışma ödeneğine alındı.
+il trattamento di fine rapporto | kıdem tazminatı | isim (e) | Al momento delle dimissioni riceverà il trattamento di fine rapporto. | İstifa ettiğinde kıdem tazminatını alacak.
+la valutazione delle prestazioni | performans değerlendirmesi | isim (d) | La valutazione delle prestazioni avviene due volte l'anno con il responsabile. | Performans değerlendirmesi yılda iki kez sorumluyla yapılır.
+l'avanzamento di carriera (e) | kariyerde yükselme | isim (e) | L'avanzamento di carriera dipende sia dai risultati sia dalla formazione. | Kariyerde yükselme hem sonuçlara hem eğitime bağlıdır.
+l'esubero (e) | fazla personel | isim (e) | Il sindacato contesta i quattrocento esuberi annunciati dalla direzione. | Sendika yönetimin açıkladığı dört yüz kişilik fazla personel kararına itiraz ediyor.
+## Toplantı ve karar
+l'ordine del giorno (e) | gündem | isim (e) | Il primo punto all'ordine del giorno riguarda il bilancio preventivo. | Gündemin ilk maddesi bütçe tahminleriyle ilgili.
+il verbale | tutanak | isim (e) | Il verbale della riunione sarà inviato a tutti i partecipanti domani. | Toplantı tutanağı yarın tüm katılımcılara gönderilecek.
+deliberare | karara bağlamak | fiil | Il consiglio ha deliberato di aprire una nuova sede a Napoli. | Kurul Napoli'de yeni bir şube açmayı karara bağladı.
+la delibera | karar (kurul kararı) | isim (d) | La delibera è stata approvata con due astensioni e nessun voto contrario. | Karar iki çekimser ve hiç ret oyu olmadan kabul edildi.
+il quorum | yeter sayı | isim (e) | Senza il quorum l'assemblea non può votare alcuna modifica allo statuto. | Yeter sayı olmadan genel kurul ana sözleşmede hiçbir değişikliği oylayamaz.
+mettere a verbale | tutanağa geçirmek | ifade | Vorrei mettere a verbale la mia contrarietà a questa decisione. | Bu karara karşı olduğumu tutanağa geçirmek istiyorum.
+l'astensione (d) | çekimser kalma | isim (d) | Due consiglieri hanno annunciato la loro astensione sul punto in discussione. | İki üye tartışılan maddede çekimser kalacaklarını açıkladı.
+aggiornare la seduta | oturumu ertelemek | ifade | Vista l'ora tarda, il presidente propone di aggiornare la seduta a lunedì. | Saatin geç olması nedeniyle başkan oturumu pazartesiye ertelemeyi öneriyor.
+le varie ed eventuali | diğer konular, dilekler | isim (çoğul) | Prima di chiudere, passiamo rapidamente alle varie ed eventuali. | Kapatmadan önce hızlıca diğer konulara geçelim.
+il punto della situazione | durum değerlendirmesi | isim (e) | Ci vediamo lunedì per fare il punto della situazione sul progetto. | Proje hakkında durum değerlendirmesi yapmak için pazartesi görüşelim.
+## Kurumsal fiiller
+implementare | uygulamaya koymak | fiil | Entro giugno implementeremo il nuovo sistema di gestione degli ordini. | Haziran sonuna kadar yeni sipariş yönetim sistemini uygulamaya koyacağız.
+ottimizzare | iyileştirmek, optimize etmek | fiil | Dobbiamo ottimizzare la logistica per ridurre i tempi di consegna. | Teslim sürelerini kısaltmak için lojistiği iyileştirmemiz gerekiyor.
+razionalizzare | rasyonelleştirmek | fiil | L'obiettivo è razionalizzare le spese senza ridurre la qualità del servizio. | Amaç hizmet kalitesini düşürmeden harcamaları rasyonelleştirmek.
+efficientare | verimli hâle getirmek | fiil | Il nuovo software serve a efficientare i processi amministrativi interni. | Yeni yazılım iç idari süreçleri daha verimli hâle getirmeye yarıyor.
+esternalizzare | dış kaynağa vermek | fiil | L'azienda ha deciso di esternalizzare il servizio di assistenza clienti. | Şirket müşteri hizmetlerini dış kaynağa vermeye karar verdi.
+monitorare | izlemek | fiil | Monitoriamo ogni settimana l'andamento delle vendite nei vari mercati. | Farklı pazarlardaki satışların seyrini her hafta izliyoruz.
+pianificare | planlamak | fiil | È necessario pianificare con anticipo le ferie del personale estivo. | Yaz personelinin izinlerini önceden planlamak gerekiyor.
+coordinare | eşgüdümlemek, koordine etmek | fiil | Sarà lei a coordinare il gruppo di lavoro tra Milano e Lione. | Milano ile Lyon arasındaki çalışma grubunu o koordine edecek.
+ridimensionare | küçültmek, boyutunu azaltmak | fiil | La crisi ci ha costretti a ridimensionare i piani di espansione all'estero. | Kriz bizi yurt dışı genişleme planlarını küçültmeye zorladı.
+rendicontare | hesap vermek, raporlamak | fiil | Ogni progetto finanziato deve rendicontare le spese in modo dettagliato. | Fonlanan her proje harcamalarını ayrıntılı biçimde raporlamak zorundadır.
+## Pazar ve rekabet
+il concorrente | rakip | isim (e) | Il nostro principale concorrente ha appena abbassato i prezzi del venti per cento. | Başlıca rakibimiz fiyatları az önce yüzde yirmi düşürdü.
+il segmento | segment, pazar dilimi | isim (e) | Puntiamo sul segmento di lusso, dove i margini sono più alti. | Kâr marjlarının daha yüksek olduğu lüks segmente odaklanıyoruz.
+la nicchia di mercato | niş pazar | isim (d) | La piccola cantina ha trovato una nicchia di mercato nei vini biologici. | Küçük şaraphane organik şaraplarda bir niş pazar buldu.
+il benchmark | kıyaslama ölçütü | isim (e) | I risultati del trimestre sono superiori al benchmark del settore. | Çeyrek sonuçları sektörün kıyaslama ölçütünün üzerinde.
+la filiera | tedarik zinciri, üretim zinciri | isim (d) | Controlliamo l'intera filiera, dalla coltivazione delle olive all'imbottigliamento. | Zeytin yetiştirmeden şişelemeye kadar bütün üretim zincirini denetliyoruz.
+il monopolio | tekel | isim (e) | Per decenni la compagnia ha avuto il monopolio delle linee ferroviarie. | Şirket on yıllarca demiryolu hatlarının tekelini elinde tuttu.
+l'oligopolio (e) | oligopol | isim (e) | Il settore delle telecomunicazioni è dominato da un oligopolio di poche società. | Telekomünikasyon sektörüne birkaç şirketten oluşan bir oligopol hâkim.
+la concorrenza sleale | haksız rekabet | isim (d) | La ditta è stata condannata per concorrenza sleale verso i piccoli negozi. | Firma küçük dükkânlara yönelik haksız rekabetten mahkûm edildi.
+lo stakeholder | paydaş | isim (e) | Prima di decidere abbiamo consultato ogni stakeholder coinvolto nel progetto. | Karar vermeden önce projeyle ilgili her paydaşa danıştık.
+la fidelizzazione | müşteri sadakati oluşturma | isim (d) | Il programma punti serve alla fidelizzazione dei clienti più assidui. | Puan programı en sadık müşterilerin bağlılığını artırmaya yarıyor.
+## Kurumsal iletişim
+il comunicato stampa | basın bülteni | isim (e) | L'azienda ha diffuso un comunicato stampa per smentire le voci di vendita. | Şirket satış söylentilerini yalanlamak için bir basın bülteni yayımladı.
+la mission | misyon | isim (d) | La nostra mission è rendere l'energia pulita accessibile a tutti. | Misyonumuz temiz enerjiyi herkes için erişilebilir kılmaktır.
+il codice etico | etik kurallar | isim (e) | Ogni dipendente deve leggere e firmare il codice etico aziendale. | Her çalışan şirketin etik kurallarını okuyup imzalamalıdır.
+la responsabilità sociale d'impresa | kurumsal sosyal sorumluluk | isim (d) | Il rapporto annuale dedica un capitolo alla responsabilità sociale d'impresa. | Yıllık rapor bir bölümü kurumsal sosyal sorumluluğa ayırıyor.
+il portavoce | sözcü | isim (e) | Il portavoce del gruppo ha preferito non commentare le indiscrezioni. | Grubun sözcüsü sızan bilgileri yorumlamamayı tercih etti.
+la trasparenza | şeffaflık | isim (d) | Gli azionisti chiedono maggiore trasparenza sui compensi dei dirigenti. | Hissedarlar yöneticilerin ücretleri konusunda daha fazla şeffaflık istiyor.
+la reputazione aziendale | kurumsal itibar | isim (d) | Lo scandalo ha danneggiato gravemente la reputazione aziendale in pochi giorni. | Skandal kurumsal itibarı birkaç gün içinde ağır biçimde zedeledi.
+il rapporto di sostenibilità | sürdürülebilirlik raporu | isim (e) | Nel rapporto di sostenibilità si indicano le emissioni ridotte nel triennio. | Sürdürülebilirlik raporunda üç yılda azaltılan emisyonlar belirtiliyor.
+la nota informativa | bilgi notu | isim (d) | I dipendenti hanno ricevuto una nota informativa sul nuovo orario. | Çalışanlar yeni çalışma saatine dair bir bilgi notu aldı.
+la conferenza stampa | basın toplantısı | isim (d) | Durante la conferenza stampa il presidente ha annunciato la quotazione in borsa. | Başkan basın toplantısında borsaya açılmayı duyurdu.
+## Kurumsal klişeler
+fare rete | ağ kurmak, iş birliği yapmak | ifade | Le piccole imprese del distretto devono imparare a fare rete. | Bölgedeki küçük işletmeler birlikte ağ kurmayı öğrenmeli.
+mettere in campo | devreye sokmak | ifade | L'azienda ha messo in campo tutte le risorse per superare la crisi. | Şirket krizi aşmak için bütün kaynaklarını devreye soktu.
+fare squadra | ekip olmak, birlikte çalışmak | ifade | In momenti come questi è fondamentale fare squadra e non dividersi. | Böyle anlarda ekip olmak ve bölünmemek çok önemli.
+a regime | tam kapasitede | ifade | Quando l'impianto sarà a regime, produrrà mille pezzi al giorno. | Tesis tam kapasiteye ulaştığında günde bin parça üretecek.
+in capo a | (sorumluluk) ... üzerinde | edat | La responsabilità della sicurezza è in capo al direttore dello stabilimento. | Güvenliğin sorumluluğu fabrika müdürünün üzerindedir.
+a valle di | ... sonrasında, ... sonucunda | edat | A valle di questa analisi, proponiamo tre possibili interventi. | Bu analizin sonucunda üç olası müdahale öneriyoruz.
+a monte | baştan, kaynağında | ifade | Il problema va risolto a monte, già nella fase di progettazione. | Sorun kaynağında, daha tasarım aşamasında çözülmeli.
+il valore aggiunto | katma değer | isim (e) | La competenza tecnica del personale è il nostro vero valore aggiunto. | Personelin teknik yetkinliği bizim gerçek katma değerimizdir.
+la best practice | en iyi uygulama | isim (d) | Il progetto di Torino è diventato una best practice a livello europeo. | Torino projesi Avrupa düzeyinde en iyi uygulama örneği oldu.
+il know-how | teknik bilgi birikimi | isim (e) | La fusione ci permette di acquisire un know-how prezioso nel settore. | Birleşme sektörde değerli bir teknik bilgi birikimi edinmemizi sağlıyor.
