@@ -1,0 +1,111 @@
+# UNIT: Texnologiya | Qurilmalar, internet, ijtimoiy tarmoqlar, muammolar
+## Smartfonlar
+el teléfono inteligente | smartfon | Mening smartfonimning ekrani katta.
+el aparato | qurilma, asbob | Bu qurilma internetga ulanish uchun xizmat qiladi.
+la pantalla táctil fina | yupqa sensorli ekran | Yupqa sensorli ekran juda tez javob beradi.
+el botón | tugma | Bosh sahifaga qaytish uchun oʻrtadagi tugmani bosing.
+el protector de pantalla | ekran himoyasi | Shishadan yasalgan ekran himoyasini sotib oldim.
+la batería | batareya, akkumulyator | Mobil telefonimning batareyasi butun kun xizmat qiladi.
+el cargador | zaryadlash moslamasi | Zaryadlash moslamasini ofisdagi stol ustida unutibman.
+el enchufe inteligente | aqlli rozetka | Chiroqni aqlli rozetkaga uladim.
+la aplicación móvil | mobil ilova | Foydali yangi mobil ilovani yuklab oldim.
+el icono | nishon, ikonka | Dasturni ochish uchun koʻk nishonga bosing.
+## Internet va tarmoq
+la red global | global tarmoq | Global tola-optik tarmoq juda tez ishlaydi.
+la conexión a internet | internet aloqasi | Bugun internet aloqasi juda yomon ishlayapti.
+el wifi | vay-fay | Bu yerdagi vay-fayning paroli qanday?
+la señal | signal | Bu xonada internet signali zaif.
+la página web | veb-sahifa | Kecha juda qiziqarli veb-sahifaga kirdim.
+el navegador | brauzer | Maʼlumot qidirish uchun brauzerni oching.
+el buscador | qidiruv tizimi | Tadqiqotlarim uchun ushbu qidiruv tizimidan foydalanaman.
+el enlace | havola, link | Hujjatni koʻrish uchun havolani bosing.
+la descarga | yuklab olish | Katta faylni yuklab olish bir daqiqa vaqt oladi.
+la subida | yuklash | Suratlarni serverga yuklash allaqachon tugadi.
+## Ijtimoiy tarmoqlar
+la red social | ijtimoiy tarmoq | Oʻsha ijtimoiy tarmoqda juda koʻp vaqt sarflayman.
+el perfil | profil | Bugun ertalab profil suratimizni yangiladim.
+la publicación | post, nashr | Oxirgi postingiz juda koʻp izoh oldi.
+el comentario | izoh | Uning suratiga ijobiy izoh yozdim.
+el mensaje | xabar | Boshligʻimdan muhim xabar oldim.
+el chat | chat, suhbat | Safarni tashkillashtirish uchun guruh chatini ochdik.
+el contacto | kontakt, tanish | Raqamingizni telefonimdagi kontaktlarga qoʻshdim.
+el video | video | Doʻstlarim bilan qiziqarli video ulashdim.
+la foto | surat, foto | Quyosh botishining chiroyli suratini devorga yukladim.
+el seguidor | kuzatuvchi | Kanalining allaqachon minglab sodiq kuzatuvchilari bor.
+## Kompyuterlar va apparat taʼminoti
+el ordenador portátil | noutbuk | Noutbukim juda yengil.
+el espacio de trabajo | ishchi maydoni | Muhim hujjatlarni ishchi maydoniga saqlab qoʻydim.
+el documento digital | raqamli hujjat | Bu raqamli hujjat barcha maʼlumotlarni oʻz ichiga oladi.
+el directorio principal | asosiy katalog | Barcha suratlarni asosiy katalogda tartibga keltirdim.
+la memoria USB | USB xotira, fleshka | Taqdimotni USB xotiraga koʻchirdim.
+el disco duro | qattiq disk, hard disk | Menga sigʻimi kattaroq tashqi qattiq disk kerak.
+el aparato de impresión | chop etish qurilmasi | Chop etish qurilmasida hozir qogʻoz yoʻq.
+el altoparlant | dinamik, karnay | Karnayning ovozi aniq va baland.
+el micrófono | mikrofon | Yigʻilishda gapirish uchun mikrofoni yoqing.
+el cable de red | tarmoq kabeli | Kompyuterni tarmoq kabeli orqali uladim.
+## Raqamli xavfsizlik
+la contraseña | parol, shifr | Xavfsiz va uzun parol yaratishingiz kerak.
+la seguridad | xavfsizlik | Raqamli xavfsizlik hozirgi kunda juda muhim.
+el virus | virus | Antivirus tizimda xavfli virusni aniqladi.
+la estafa | firibgarlik | Bu xatga eʼtibor bering, raqamli firibgarlikka oʻxshaydi.
+el hacker | xaker, kompyuter jinoyatchisi | Mutaxassislar tizimni xakerlardan himoya qilmoqda.
+la privacidad | maxfiylik | Shaxsiy maʼlumotlarimning maxfiyligini sozladim.
+el código | kod | Olingan tasdiqlash kodini kiriting.
+el respaldo | zaxira nusxa | Kecha barcha fayllarimning zaxira nusxasini oldim.
+la actualización | yangilanish | Operatsion tizim zudlik bilan yangilanishni talab qilmoqda.
+bloquear | bloklash, toʻsadigan qilmoq | Xavfsizlik yuzasidan kartani bloklashga majbur boʻldim.
+## Aloqa va qoʻngʻiroq muammolari
+llamar por móvil | mobil telefon orqali qoʻngʻiroq qilmoq | Tushdan keyin onamga mobil telefon orqali qoʻngʻiroq qilaman.
+dar respuesta | javob bermoq | Chiziqning narigi tarafida hech kim javob bermayapti.
+colgar | goʻshakni qoʻymoq | Oʻchirmang, sizga oxirgi narsani aytmoqchiman.
+comunicar | band boʻlmoq | Ofis telefoni soatlardan beri band boʻlib turibdi.
+sonar | jiringlamoq | Jiddiy konferensiya paytida uning telefoni jiringladi.
+marcar número | raqam terish | Hudodagi koddan oldin nol raqamini tering.
+grabar | yozib olmoq | Suhbatni yozib olmoqchi edim, lekin tugmani unutdim.
+reenviar | qayta yubormoq, uzatmoq | Direktorning xatini sizga qayta yuboraman.
+eliminar | oʻchirib tashlamoq | Galereyadagi eski suratlarni oʻchirib tashlashga qaror qildim.
+compartir | ulashmoq | Doʻstlarim bilan qiziqarli yangiliklarni ulashishni yoqtiraman.
+## Texnik nosozliklar
+fallar | ishdan chiqmoq, xato qilmoq | Yarim tunda asosiy tizim ishdan chiqa boshladi.
+romperse | sinmoq, buzilmoq | Telefon ekrani osonlikcha sinishi mumkin.
+apagar | oʻchirmoq (qurilma) | Kechasi kompyuterni oʻchirib qoʻyish kerak.
+encender | yoqmoq (qurilma) | Mashinani yoqish uchun shu tugmani bosing.
+arrancar de nuevo | qaytadan ishga tushirmoq | Oʻrnatishdan soʻng jihozni qaytadan ishga tushirishingiz kerak.
+funcionar | ishlamoq | Bu qurilma endi yaxshi ishlashni xohlamayapti.
+averiarse | buzilib qolmoq | Yangi mashinam yoʻlda buzilib qoldi.
+reparar | taʼmirlamoq | Texnik ertaga kompyuterimni taʼmirlaydi.
+comprobar | tekshirib koʻrmoq | Boshlashdan oldin ulanishni tekshirib koʻramiz.
+configurar | sozlamoq, moslamoq | Yangi elektron pochtani sozlashga yordam bering.
+## Media va koʻngilochar
+reproducir | ijro etmoq, oʻynatmoq | Bu dastur turli xil formatlarni ijro eta oladi.
+descargar | yuklab olmoq (fayl) | Kinolarni koʻrishdan oldin ularni yuklab olishni afzal koʻraman.
+transmitir | efirga uzatmoq, namoyish etmoq | Futbol oʻyinini jonli efirga uzatishadi.
+conectar | ulamoq | Musiqa tinglash uchun quloqchinlarni ulang.
+desconectar | uzmoq, oʻchirmoq | Chiqayotganda zaryadlash moslamasini tarmoqdan uzishni unutmang.
+navegar | Internetda kezmoq | Kechqurunlari Internetda kezishni yoqtiraman.
+escanear | skanerlamoq | Bu muhim shartnomani skanerlashim kerak.
+imprimir | chop etmoq | Sayohat uchun chiptalarni chop etaman.
+copiare | nusxalab olmoq | Matnni nusxalab olib, bu yerga qoʻyishingiz mumkin.
+pegar | qoʻymoq, yopishtirmoq | Havolani brauzer satriga qoʻying.
+## Raqamli turmush tarzi
+digital | raqamli | Gidratsiya qilinayotgan raqamli dunyoda yashayapmiz.
+virtual | virtual | Juda samarali virtual uchrashuv oʻtkazishdi.
+electrónico | elektron | Elektron shaklda hisob-faktura oldim.
+inalámbrico | simsiz | Noutbuk uchun simsiz sichqoncha sotib oldim.
+rápido | tez | Bu tarmoq haqiqatan ham tez tezlikni taqdim etadi.
+lento | sekin | Mening eski kompyuterim bugun juda sekin ishlayapti.
+moderno | zamonaviy | Bu ilovaning dizayni juda zamonaviy.
+útil | foydali, asqotadigan | Juda foydali raqamli vositani topdim.
+complicado | murakkab | Yangi operatsion tizim biroz murakkab koʻrinadi.
+fácil | oson | Bu dasturni oʻrnatish hamma uchun juda oson.
+## Kelajak texnologiyasi
+la inteligencia artificial | sunʼiy intellekt | Sunʼiy intellekt qiyin vazifalarni hal qilishga yordam beradi.
+el robot | robot | Biz yoʻqligimizda robot uyni tozalaydi.
+la automatización | avtomatlashtirish | Avtomatlashtirish fabrikadagi ishlab chiqarishni yaxshilaydi.
+el dron | dron | Havo suratlarini olish uchun dron balandga uchadi.
+el progreso técnico | texnik taraqqiyot | Ushbu kompaniya oʻzining doimiy texnik taraqqiyoti bilan ajralib turadi.
+la pantalla holográfica | gologrammali ekran | Gologrammali ekranda tasvirni koʻrdik.
+el chip | chip, integral sxema | Yangi chip maʼlumotlarni juda tez qayta ishlaydi.
+la realidad virtual | virtual reallik | Yarmarkada virtual reallik koʻzoynaklarini sinab koʻrdim.
+la ciencia ficción | ilmiy fantastika | Ilmiy fantastika va kosmos haqidagi filmlarni yaxshi koʻraman.
+avanzado | ilgʻor, rivojlangan | Juda ilgʻor texnologik dasturiy taʼminotdan foydalanamiz.

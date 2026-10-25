@@ -1,36 +1,41 @@
-günlük sınır: anahtar #1 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-HTTP 404 anahtar #1: {
-429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-HTTP 503 anahtar #1: {
-
-429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-günlük sınır: anahtar #1 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-HTTP 404 anahtar #2: {
-429 dakikalık: anahtar #2 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-günlük sınır: anahtar #2 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-HTTP 404 anahtar #3: {
-429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #3 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #4 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-HTTP 404 anahtar #4: {
-günlük sınır: anahtar #1 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #2 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #2 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #3 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #3 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #3 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-günlük sınır: anahtar #4 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #4 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #4 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-günlük sınır: anahtar #5 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-HTTP 404 anahtar #5: {
-günlük sınır: anahtar #5 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-günlük sınır: anahtar #5 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
-süre/sınır doldu, çevrilen: 6
-6
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+ağ hatası ConnectionError
+günlük sınır: anahtar #8 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+günlük sınır: anahtar #8 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es uz A2/11: ['line 3: Turkish letters left', 'line 4: Turkish letters left']
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es uz B1/02: ["line 69: column 1 must be exactly 'la estrategia publicitaria'", "line 70: column 1 must be exactly 'el estudio de mercado'"]
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+bitti, çevrilen: 64
+64

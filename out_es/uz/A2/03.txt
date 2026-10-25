@@ -1,0 +1,111 @@
+# UNIT: Salomatlik | Shifokor, alomatlar, dorixona, favqulodda vaziyat
+## Shifoxona va qabul
+la cita médica | shifokor qabuli | Bugun tushdan keyin shifokor qabuliga navbatim bor.
+el especialista | mutaxassis shifokor | Mutaxassis shifokor qon tahlillaringizni tekshiradi.
+la consulta | qabulxona | Shifokor qabulxonasida navbatimizni kutyapmiz.
+la tarjeta sanitaria | tibbiy karta | Tibbiy kartangizni qabulxonada koʻrsating.
+el centro de salud | tibbiyot markazi | Tibbiyot markazi soat sakkizgacha ochiq.
+urgencias | tez yordam boʻlimi | Yaralanganni tez yordam boʻlimiga tezda olib borishdi.
+la ambulancia | tez yordam mashinasi | Keng koʻchada tez yordam mashinasining sirenasi eshityapti.
+el enfermero | erkak hamshira | Erkak hamshira qon bosimimni xotirjamlik bilan oʻlchadi.
+la enfermera | hamshira | Hamshira yarani ehtiyotkorlik bilan zararsizlantirdi.
+el paciente | bemor | Bemor oʻninchi xonada dam olyapti.
+## Tana va ogʻriqlar
+la garganta | tomoq | Suv yutayotganda tomogʻim qattiq ogʻriyapti.
+el pecho | koʻkrak | Koʻkragida gʻalati bosim sezmoqda.
+el abdomen | qorin | Yuqori qornida keskin ogʻriq sezmoqda.
+la muela | tish [azi tish] | Chiriagan azi tish zudlik bilan plomba qilinishi kerak.
+el hueso | suyak | Velosipeddan yiqilib, suyagini sindirib oldi.
+la articulación | boʻgʻim | Qish sovugʻida boʻgʻimlar ogʻriydi.
+el músculo | mushak | Yaxshi choʻzilish mashqi mushak shikastlanishining oldini oladi.
+la sangre | qon | Qon topshirish juda muhim birdamlik harakatidir.
+el síntoma | alomat | Bu gʻalati alomat qachondan beri menda bor?
+la alergia | allergiya | Bahorda unga gulchangdan kuchli allergiya beradi.
+## Kasalliklar va holatlar
+la gripe | gripp | Yomgʻirli mavsumda gripp yuqtirib oldim.
+la carraspera | tomoq qichishishi | Odamlar oldida gapirganda yengil tomoq qichishishi unga xalaqit beradi.
+la temperatura alta | yuqori harorat | Bolaning harorati baland va dam olishi kerak.
+el mareo | bosh aylanishi | Qayiqdagi sayohat uning boshini qattiq aylantirdi.
+el vómito | qusish | Ogʻizdan zardob ichgandan keyin qusish toʻxtadi.
+la diarrea | ich ketishi | Ich ketishi yumshoq parhez va koʻp suyuqlik ichishni talab qiladi.
+el insomnio | uyqusizlik | Ishdagi stress unda surunkali uyqusizlik keltirib chiqaradi.
+la depresión | depressiya | Professional yordam izlash depressiyani asta-sekin yengadi.
+la ansiedad | xavotir | Chuqur nafas olish gapirishdan oldin xavotirni kamaytiradi.
+el contagio | yuqtirish | Yuqtirishning oldini olish qoʻllarni tez-tez yuvishni anglatadi.
+## Davolash va koʻrik
+el diagnóstico | tashxis | Shifokor tashxisni aniq qilib bildirdi.
+la radiografía | rentgen | Rentgen bilak suyagida yengil yoriq borligini koʻrsatmoqda.
+la inyección | ukol | Ukoldan qoʻrqadi, lekin juda jasur boʻldi.
+el análisis | tahlil | Laboratoriya tahlillari bu tongda keldi.
+la operación | operatsiya | Jarrohlik amaliyoti toʻrt soatdan ortiq davom etdi.
+la cura | davo | Kundalik yara parvarishi yarada infeksiya tushishining oldini oladi.
+el vendaje | bogʻlam | Fizioterapevt uning toʻpigʻidagi bogʻlamni toʻgʻriladi.
+la tirita | leykoplastir | Barmoqdagi kesilgan joyga kichik leykoplastir yopishtiring.
+el yeso | gips | Butun olti hafta davomida gipsda yuradi.
+la rehabilitación | reabilitatsiya | Haftasiga uch marta fizik davolanishga boradi.
+## Dorixona va dorilar
+el dispensario | dorixona [navbatchi] | Navbatchi dorixona butun tun ochiq.
+la gragea | draje | Suv bilan har sakkiz soatda bitta draje iching.
+el jarabe | sirop | Bu shirin sirop qaysar yoʻtalni tinchlantiradi.
+la pomada | malham | Malhamni tirnalgan joyga ehtiyotkorlik bilan surting.
+la vitamina | vitamin | S vitamini qabul qilish tabiiy himoyani kuchaytiradi.
+el antibiótico | antibiotik | Antibiotiklar majburiy shifokor retseptini talab qiladi.
+el analgésico | ogʻriqsizlantiruvchi | Yaxshi ogʻriqsizlantiruvchi bosh ogʻrigʻini yengillashtiradi.
+la pastilla para dormir | uyqu dori | Nazoratsiz uyqu dori ichishdan saqlaning.
+el prospecto | yoʻriqnoma | Bu dorini iste'mol qilishdan oldin yoʻriqnomani oʻqing.
+la dosis | doza | Shifokor koʻrsatgan dozaga qat'iy rioya qiling.
+## Favqulodda vaziyatlar va jarohatlar
+el peligro | xavf | Yoʻldagi xavf zonasini belgilab qoʻyishdi.
+el rescate | qutqaruv | Qutqaruv guruhi yoʻqolgan sayyohni topdi.
+el accidente | avariya | Kichik avariya shahar harakatini falaj qildi.
+el incendio | yongʻin | Oʻt oʻchiruvchilar oʻrmon yongʻinini oʻz vaqtida oʻchirishdi.
+la herida | yara | Chuqur yarani ilviliq sovunli suv bilan yuvdi.
+la quemadura | kuyish | Qoʻlidagi kuyish ustiga sovuq suv quydi.
+el desmayo | hushdan ketish | Kuchli issiq maydonda hushdan ketishga sabab boʻldi.
+la hemorragia | qon ketish | Burundan qon ketishini toʻxtatish uchun joyni bosib turishdi.
+el veneno | zahar | Ba'zi yovvoyi oʻsimliklar kuchli zahar saqlaydi.
+el ahogamiento | choʻkish | Qutqaruvchi yuzaga kelishi mumkin boʻlgan choʻkishga qarshi tez harakat qildi.
+## Tish shifokori
+el dentista | tish shifokori | Tish shifokoriga har olti oyda qoldirmasdan boring.
+la clínica dental | tish klinikasi | Tish klinikasi zamonaviy ortodontiya xizmatlarini taklif etadi.
+la caries | karies | Yomon tish gigiyenasi chuqur karies keltirib chiqaradi.
+la corona | tish qoplami | Shikastlangan azi tish ustiga himoya qoplami oʻrnatishdi.
+la endodoncia | kanalni davolash | Kanalni davolash tishni muqarrar tortib olishdan saqlab qoldi.
+el empaste | tish plombasi | Tish shifokori tez va ogʻriqsiz plomba qoʻydi.
+la encía | tish itti | Tish ipidan foylanganda tish itti biroz qonayapti.
+el aparato dental | breket | Tishlarni toʻgʻrilash uchun metall breket taqib yuribdi.
+la anestesia | anesteziya | Mahalliy anesteziya har qanday tish ogʻrigʻining oldini oladi.
+la extracción | tish sugʻurish | Aql tishini sugʻurish muvaffaqiyatli oʻtdi.
+## Sogʻlom turmush tarzi
+el bienestar | farovonlik | Hissiy muvozanat katta kundalik farovonlik keltiradi.
+el reposo | dam olish | Yaxshi tungi dam olish barcha energiyani yangilaydi.
+la relajación | hordiq | Mayin musiqa chuqur hordiq chiqarishga yordam beradi.
+la hidratación | suyuqlik balansi | Toʻgʻri suyuqlik balansi jismoniy koʻrsatkichlarni yaxshilaydi.
+la vitalidad | tetiklik | Yangi mevalar bilan nonushta qilish ertalabki tetiklikni qaytaradi.
+el equilibrio | muvozanat | Jismoniy muvozanatni saqlash doimiy amaliyotni talab qiladi.
+la longevidad | uzoq umr koʻrish | Oʻrta yer dengizi parhezi salomatlik va uzoq umr koʻrishni qoʻllab-quvvatlaydi.
+la postura | qomat | Oʻtirganda qomatni toʻgʻrilash bel ogʻrigʻining oldini oladi.
+la inmunidad | immunitet | Har kuni sakkiz soat uxlash umumiy immunitetni kuchaytiradi.
+el hábito | odat | Sogʻlom odat yaratish sabr va qat'iyat talab qiladi.
+## Koʻz salomatligi
+el oftalmólogo | koʻz shifokori | Koʻz shifokori koʻzoynagimning raqamini tekshirdi.
+la vista | koʻrish qobiliyati | Sabzi koʻrish qobiliyatini himoya qiluvchi oziq moddalarni beradi.
+la miopía | miopiya | Miyopiya unga uzoqdagi narsalarni aniq koʻrishga imkon bermaydi.
+el astigmatismo | astigmatizm | Oʻng koʻzida yengil astigmatizm tashxisini qoʻyishdi.
+la lente | kontakt linza | Sport bilan shugʻullanganda kontakt linza taqishni afzal koʻradi.
+la montura | koʻzoynak chashkasi | Zamonaviy va yengil titandan yasalgan chashkani tanladi.
+la lágrima | koʻz yoshi | Xabardan soʻng uning yonoqdan koʻz yoshi oqib tushdi.
+la pupila | qorachiq | Xonada yorugʻlik kam boʻlganda qorachiq kengayadi.
+la ceguera | koʻrlik | Ilgʻor tadqiqotlar bolalar koʻrligining oldini olishga intiladi.
+el parpadeo | koʻz yumib-ochish | Doimiy koʻz yumib-ochish koʻzni quruqlikdan saqlaydi.
+## Tibbiy xodimlar va boshqalar
+el especialista en nutrición | parhezshunos | Parhezshunos muvozanatli menyu tuzdi.
+el cirujano | jarroh | Bosh jarroh murakkab amaliyotga rahbarlik qildi.
+la comadrona | doya | Doya tugʻruq davomida onaga hamrohlik qildi.
+el psiquiatra | psixiatr | Psixiatr holatga mos davolanishni yozib berdi.
+el psicólogo | psixolog | Psixolog bilan mashgʻulotlar uning kayfiyatini yaxshiladi.
+el celador | sanitar | Sanitar zambilni rentgen xonasiga olib oʻtdi.
+el farmacéutico | farmatsevt | Farmatsevt bolalar siropini qanday ichishni tushuntirdi.
+la mutua | tibbiy sugʻurta kompaniyasi | Tibbiy sugʻurta kompaniyasi xususiy shifokor koʻriklarini qoplaydi.
+la prevencion | oldini olish | Erta oldini olish kelgusidagi jiddiy kasalliklarning oldini oladi.
+la convalecencia | tuzalish davri | Tuzalish davrida tinch romanlar oʻqishni afzal koʻradi.

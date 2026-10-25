@@ -1,0 +1,111 @@
+# UNIT: Xidmətlər və alış-veriş | Bank, kargo, bərbər, geyim
+## Bank əməliyyatları
+depositar | pul yatırmaq | Hesabıma pul yatırmaq istəyirəm.
+transferir | pul köçürmək, transfer etmək | İnternet üzərindən pul köçürə bilərəm.
+firmar | imzalamaq | Bu ağ xəttə imza atmalısınız.
+el documento | sənəd, sənəd-qaimə | Bu rəsmi imzalı sənədə ehtiyacım var.
+la cuenta bancaria | bank hesabı | Bank hesabı açmaq az vaxt aparır.
+la moneda | valyuta, pul vahidi | Bu ölkənin valyuta vahidi nədir?
+el cajero | kassir, xəzinədar | Kassir mənə sayılan pulu təslim etdi.
+el formulario | ərizə formu, blank | Bu formu məlumatlarınızla doldurun.
+la firma | imza | İmzanız burada məcburidir.
+el banco central | mərkəzi bank | Mərkəzi bank milli iqtisadiyyatı tənzimləyir.
+## Poçt və kargo
+el paquete postal | kargo bağlaması, poçt bağlaması | Bu kargo bağlaması iki kilo gəlir.
+el sobre | zərf | Məktubu ağ zərfin içinə qoydum.
+el remitente | göndərən | Göndərəni yuxarı hissəyə yazın.
+el cartero | poçtalyon | Poçtalyon bu səhər məktublar gətirdi.
+entregar | təslim etmək | Bağlamanı sabah təslim edəcəklər.
+la carta certificada | sifarişli məktub | Sifarişli məktubu alındı bildirişi ilə göndərdim.
+la dirección | ünvan | Bağlamaya düzgün ünvanı yazın.
+pesar | çəkmək, tərəzidə ölçmək | Qutunu tərəzidə çəkəcəyik.
+el código postal | poçt indeksi | Məhəllənizin poçt indeksi nədir?
+la oficina postal | poçt şöbəsi | Poçt şöbəsi saat beşdə bağlanır.
+## Gözəllik salonu və qulluq
+cortar el pelo | saç kəsdirmək | Saçımı bir qədər qısa kəsdirmək istəyirəm.
+teñir | boyamaq (saç) | Saçımı şabalıdı rəngə boyatmağa üstünlük verirəm.
+el champú nutritivo | qidalandırıcı şampuan | Bu qidalandırıcı şampuan saçları möhkəmləndirir.
+las tijeras | qayçı | Bərbər çox iti qayçılardan istifadə edir.
+el secador de pelo | saçqurutma maşını | Saçqurutma maşınını hamam otağında işə salın.
+el corte | saç kəsimi | Bu yeni saç kəsimini çox bəyəndim.
+el tinte | saç boyası | Təbii boya saça zərər vermir.
+peinar | daramaq | Çölə çıxmazdan əvvəl saçını daramalısan.
+el espejo grande | böyük güzgü | Böyük güzgü divardadır.
+la cita previa | əvvəlcədən təyin olunmuş randevu | Sabah üçün əvvəlcədən təyin olunmuş randevuya ehtiyacım var.
+## Geyim və moda
+probarse ropa | geyim ölçüsünü yoxlamaq | Soyunun-geyinmə otağında geyim ölçüsünü yoxlamaq istəyirəm.
+la chaqueta de cuero | dəri pencək | Qara dəri pencək satın aldı.
+el abrigo de lana | yün palto | Bu yün palto xeyli isti saxlayır.
+la camisa de algodón | pambıq köynək | Sərin pambıq köynəyə üstünlük verirəm.
+los pantalones cortos | şort, qısa şalvar | Yayda rahat şortlar geyinirəm.
+el vestido largo | uzun don | O, uzun mavi don geyinib.
+la falda corta | qısa ətək | Bu qısa ətək çox modern görünür.
+el sombrero de paja | həsir papaq | Günəşin altında həsir papaq taxıram.
+las botas de invierno | qış çəkmələri | Qış çəkmələrim su keçirməzdir.
+la bufanda de lana | yün şarf | Boynunu yün şarfla qoru.
+## Tikiş və təmir
+arreglar | təmir etmək, düzəltmək | Tərzi şalvarımı təmir edəcək.
+encoger | yığılmaq, kiçilmək (parça) | Bu köynək isti suda yığıla bilər.
+alargar | uzatmaq | Bu pencəyin qollarını uzada bilərsinizmi?
+cortar las mangas | qollarını qısaltmaq | Bu köynəyin qollarını qısaldacağam.
+coser un botón | düymə tikmək | Paltoma bir düymə tikməliyəm.
+la aguja | iynə | Bu parça üçün incə iynədən istifadə et.
+el hilo fuerte | möhkəm sap | Bu möhkəm sap asanlıqla qopmur.
+el sastre | kişi dərzisi | Dərzi böyük dəqiqliklə işləyir.
+la modista | qadın dərzisi | Qadın dərzi gözəl bir don dizayn etdi.
+el remiendo | yamaq | Şalvara görünməz bir yamaq vurdu.
+## Təmizlik xidmətləri
+lavar en seco | quru təmizləmə etdirmək | Bu şık kostyuma quru təmizləmə etdirməyə üstünlük verirəm.
+planchar la ropa | ütüləmək | Paltarları yığışdırmazdan əvvəl ütüləməlisən.
+la tintorería | quru təmizləmə məntəqəsi | Paltonu yerli quru təmizləmə məntəqəsinə qoydum.
+la mancha | ləkə | Bu qəhvə ləkəsi asanlıqla çıxrmır.
+limpiar a fondo | əsaslı şəkildə təmizləmək | Bütün evi əsaslı şəkildə təmizləyəcəyik.
+el detergente | yuyucu toz | Bu yuyucu toz tünd rəngləri qoruyur.
+el suavizante | paltar yumşaldıcısı | Xoş qoxu verməsi üçün yumşaldıcı əlavə et.
+la tabla de planzar | ütü masası | Ütü masasını qonaq otağında quraşdır.
+el tendedero | paltar asılqanı | Nəm paltarları paltar asılqanından asdım.
+la colada | çamaşır yuma işi | Bu gün tam çamaşır yuma günüdür.
+## Elektronika təmiri
+reparar el teléfono | telefon təmir etmək | Telefonu bir saata təmir edə bilərlər.
+la pantalla táctil | sensor ekran | Sensor ekran bu gün yaxşı reaksiya vermir.
+la batería recargable | yenidən doldurulan batareya | Bu yenidən doldurulan batareya uzun müddət işləyir.
+el cargador rápido | sürətli enerji yığma cihazı | Sürətli enerji yığma cihazımı evdə unutmuşam.
+el técnico | texnik, mütəxəssis | Texnik noutbuku yoxladı.
+la pieza de repuesto | ehtiyat hissə | Orijinal ehtiyat hissə axtarırıq.
+el circuito | elektrik dövrəsi | Elektrik dövrəsi zədələndi.
+reiniciar | yenidən başlatmaq | Cihazı indi yenidən başlatmağa cəhd et.
+la garantía | zəmanət | Məhsulun iki illik zəmanəti var.
+el engranaj | dişli çarx | Mexanizmin yeni dişli çarxa ehtiyacı var.
+## Optika və eynək
+graduar la vista | görmə qabiliyyətini yoxlatmaq | Optikada görmə qabiliyyətimi yoxlatdıracağam.
+las gafas de sol | gün eynəyi | Parıltıya qarşı gün eynəyi taxıram.
+la montura ligera | yüngül çərçivə | Yüngül və rahat çərçivə seçdim.
+la lente de contacto | kontakt linza | İdman etmək üçün kontakt linza istifadə etməyə üstünlük verirəm.
+el estuche | eynək qabı | Eynəklərini sərt qabda saxla.
+la graduación | eynək nömrəsi, dioptriya | Bu il eynək nömrəm dəyişib.
+el cristal antirreflejante | parıltı əleyhinə şüşə | Parıltı əleyhinə qatlı şüşələr satın aldım.
+limpiar los cristales | şüşələri silmək | Şüşələri təmizləmək üçün yumşaq parçadan istifadə et.
+el oculista | göz həkimi | Göz həkimi gözlərimi sakincə müayinə etdi.
+la agudeza visual | görmə itiiliyi | Bu gün görmə itiliyiniz əladır.
+## Otel və yerləşmə xidmətləri
+hacer el check-in | qeydiyyatdan keçmək (otel) | Resepsiyonda qeydiyyatdan keçəcəyik.
+pedir la llave | açar istəmək | Otağımızın açarını istəyəcəyəm.
+el servicio de despertador | otağın oyadılması xidməti | Səhər erkən oyadılma xidməti sifariş etdim.
+la propina generosa | səxavətli baxşiş | Baqaj daşıyana səxavətli baxşiş buraxdı.
+la estancia agradable | xoş istirahət | Oteldə xoş istirahət keçirdik.
+la cama doble | ikinəfərlik çarpayı | Otağımızda ikinəfərlik çarpayı var.
+el folleto informativo | məlumat kitabçası | Şəhər haqqında məlumat kitabçasını oxudum.
+la salida anticipada | erkən çıxış | Erkən çıxışı qəbul edə bilmərik.
+la llave electrónica | elektron açar | Açmaq üçün bu elektron açardan istifadə et.
+el conserje | qapıçı, inzibatçı | İnzibatçı çamadanlarımızla bizə kömək etdi.
+## Təcili xidmətlər və təmir
+llamar a la grúa | evakuator çağırmaq | Nasazlığa görə evakuator çağırmalı oldum.
+el taller mecánico | avtotəmir emalatxanası | Avtomobil avtotəmir emalatxanasındadır.
+la rueda pinchada | deşilmiş təkər | Yolda deşilmiş təkəri dəyişdirdim.
+el cerrajero | çilingər | Açarı itirdiyim üçün çilingəri çağırdım.
+la fuga de agua | su sızması | Mətbəxdə su sızması var.
+el electricista | elektrik | Elektrik qırıq rozetkanı təmir etdi.
+romperse la tubería | borunun partlaması | Şaxtalar zamanı boru partlaya bilər.
+el servicio técnico | texniki xidmət | Qaz kazanının texniki xidmətini çağırdım.
+el auxilio | yardım | Fırtınanın ortasında yardım istədik.
+la herramienta adecuada | uyğun alət | Təmir etmək üçün uyğun alətə ehtiyacım var.

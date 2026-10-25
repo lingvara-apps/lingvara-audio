@@ -1,0 +1,111 @@
+# UNIT: Sayohat | Samolyot, poyezd, mehmonxona, sayohat, hujjatlar
+## Parvoz va Aeroport
+facturar | yukni roʻyxatdan oʻtkazmoq | Hozir chamadonlarni roʻyxatdan oʻtkazishimiz kerak.
+la tarjeta de embarque | bino chiptasi, bort talon | Chiqish eshigida bort taloningizni koʻrsating.
+el control de seguridad | xavfsizlik nazorati | Xavfsizlik nazorati bugun juda gavjum.
+la aduana | bojxona | Bojxondan muammosiz oʻtdik.
+el mostrador | qabulxona peshtaxtasi, deraza | Ma'lumot peshtaxtasidan soʻrang.
+la compañía aérea | aviakompaniya | Aviakompaniyamiz uchish vaqtini oʻzgartirdi.
+la puerta de embarque | chiqish eshigi, pirs | Uchish uch raqamli chiqish eshigidan amalga oshirilmoqda.
+el asiento de ventanilla | deraza yonidagi oʻrindiq | Manzarani koʻrish uchun deraza yonidagi oʻrindiqni afzal koʻraman.
+perder el vuelo | reysni oʻtkazib yubormoq | Ertalabki reysni oʻtkazib yuborishni xohlamayman.
+la escala | toʻxtab oʻtish, tranzit | Madridda uzoq davom etadigan tranzit toʻxtashimiz bor.
+## Poyezd va Avtobus Sayohati
+el andén de pasajeros | peron, platforma | Tez yurar poyezd beshinchi peronda kutmoqda.
+el revisor | chiptachi, konduktor | Konduktor yoʻlovchilardan chiptalarni soʻrayapti.
+la estación de autobuses | avtovokzal | Avtovokzal markazdan uzoqda joylashgan.
+el vagon | vagon | Oʻrindigʻimiz uchinchi vagonda.
+perder el tren | poyezdni oʻtkazib yubormoq | Yuguring, yoʻqsa poyezdni oʻtkazib yuboramiz.
+el carril | yoʻlak, harakat boʻlagi | Avtobus oʻzining maxsus boʻlagida harakatlanmoqda.
+el trayecto | safar, yoʻl | Poyezdda yoʻl ikki soat davom etadi.
+el horario de salidas | joʻnash jadvali | Raqamli ekrandagi joʻnash jadvalini tekshiring.
+el billete sencillo | bir tomonlama chipta | Valensiya uchun bir tomonlama chipta sotib olaman.
+la ventanilla de billetes | chipta kassasi | Chipta kassasida uzun navbat turibdi.
+## Mehmonxona va Turar Joy
+la llave magnética | magnit kalit | Mana xonangizning magnit kaliti.
+la recepción | qabulxona, resepsiyon | Chiqib ketishdan oldin kalitlarni qabulxonaga qoldiring.
+la planta baja | birinchi qavat, zamin qavat | Xonamiz zamin qavatda joylashgan.
+el servicio de habitaciones | xona xizmati, room-servis | Xona xizmati orqali kechki ovqat buyurtma qildik.
+el albergue | yotoqxona, xostel | Yoshlar arzon xostelda qolishni afzal koʻrishadi.
+la estancia | qolish, yashash | Mehmonxonadagi yashashimizdan juda zavq oldik.
+la propina al botones | yuk tashuvchi xodimga choychaqa | Chamadonlar uchun yuk tashuvchiga ozgina choychaqa berdim.
+el balcón con vistas | manzarali balkonda | Dengiz manzarali balkonda kechki ovqat yedik.
+el cambio de divisas | valyuta ayirboshlash | Mehmonxona valyuta ayirboshlash xizmatini taklif etadi.
+la salida del hotel | mehmonxonadan chiqish vaqti | Mehmonxonadan chiqish uchun oxirgi soat oʻn ikki.
+## Sayohat va Kashfiyotlar
+la excursión guiada | gid hamrohligidagi ekskursiya | Eski shahar boʻylab gid hamrohligidagi ekskursiya uyushtirdik.
+el folleto turístico | turistik risola | Barcha ma'lumotlarni turistik risolada oʻqib chiqdim.
+el monumento histórico | tarixiy yodgorlik | Kecha muhim tarixiy yodgorlikni ziyorat qildik.
+el plano de la ciudad | shahar xaritasi | Shahar xaritasi sayohatchilarga juda koʻp yordam beradi.
+la catedral principal | bosh sobor | Bosh sobor oʻzining kattaligi bilan hayratga soladi.
+el barrio antiguo | eski mahalla | Eski mahallaning tor koʻchalari boʻylab yurдик.
+el mirador panorámico | panoramik kuzatuv maydonchasi | Panoramik kuzatuv maydonchasidan butun vodiy koʻrinib turibdi.
+la oficina de información | ma'lumotlar byurosi | Ma'lumotlar byurosidan muzeylarni surishtirdik.
+la zona peatonal | piyodalar zonasi | Bu goʻzal koʻcha piyodalar zonasiga tegishli.
+el recuerdo artesanal | qoʻlda yasalgan esdalik sovgʻasi | Onam uchun chiroyli qoʻlda yasalgan esdalik sovgʻasi sotib oldim.
+## Hujjatlar va Pul
+el documento de identidad | shaxsni tasdiqlovchi hujjat, pasport | Shaxsni tasdiqlovchi hujjatingizni doimo yoningizda olib yuring.
+el visado de entrada | kirish vizasi | Kirish vizasini oʻz vaqtida rasmiylashtirib olishimiz kerak.
+la tarjeta de crédito | kredit karta | Ushbu hisobni kredit karta orqali toʻlasam boʻladimi?
+el seguro médico | tibbiy sugʻurta | Xalqaro tibbiy sugʻurta bilan sayohat qilish majburiydir.
+el cajero automático | bankomat | Yaqin atrofdan bankomat topishim kerak.
+la moneda local | mahalliy valyuta | Naqd pul koʻrinishida biroz mahalliy valyutaga ega boʻlish foydalidir.
+el impreso oficial | rasmiy blanka, ariza | Chegarada rasmiy blankani toʻldirdik.
+la fotocopia compulsada | tasdiqlangan nusxa | Pasportning tasdiqlangan nusxasini taqdim etdim.
+el carné de conducir | haydovchilik guvohnomasi | Haydovchilik guvohnomasini koʻrsatib mashina ijaraga oldik.
+la factura detallada | batafsil hisob-faktura | Barcha xarajatlarning batafsil hisob-fakturasini soʻradim.
+## Sayohat Muammolari
+el retraso del vuelo | reysning kechikishi | Reysning kechikishi bizni soatlab kutishga majbur qildi.
+la huelga de transportes | jamoat transporti ish tashlashi | Jamoat transporti ish tashlashi rejalarimizni qiyinlashtirdi.
+la pérdida de equipaje | yuk yoʻqolishi | Maxsus oynada yuk yoʻqolishi boʻyicha da'vo qildim.
+el billete caducado | muddati oʻtgan chipta | Muddati oʻtgan chipta bilan sayohat qila olmaysiz.
+la cancelación imprevista | kutilmagan bekor qilish | Boʻron tufayli kutilmagan reys bekor boʻlishi yuz berdi.
+la avería técnica | texnik nosozlik | Texnik nosozlik poyezdni yoʻlda toʻxtatib qoʻydi.
+la multa por exceso | tezlikni oshirganlik uchun jarima | Mashina haydash vaqtida tezlikni oshirganlik uchun jarima toʻladik.
+el despiste con la hora | vaqtni adashtirib yuborish | Vaqtni adashtirib yuborish deyarli kema qolib ketishiga sabab boʻldi.
+el robo de cartera | hamyon oʻgʻirlanishi | Mahalliy boʻlimda hamyon oʻgʻirlangani haqida ariza yozdim.
+el mal tiempo | yomon ob-havo sharoiti | Yomon ob-havo sharoiti barcha dengiz qatnovlarini toʻxtatib qoʻydi.
+## Mashina Ijarasi
+el coche de alquiler | ijaraga olingan mashina | Ijaraga olingan mashinani aeroportdan olib ketdik.
+el depósito de gasolina | benzin baki | Mashinani topshirishdan oldin benzin bakini toʻldirdik.
+la tarifa diaria | kunduzgi tarif, kunlik ijara haqi | Kunduzgi tarif toʻliq asosiy sugʻurtani oʻz ichiga oladi.
+el GPS integrado | oʻrnatilgan GPS | Yangi mashinada juda foydali oʻrnatilgan GPS mavjud.
+la sillita infantil | bolalar oʻrindigʻi | Kichik oʻgʻlimiz uchun bolalar oʻrindigʻini soʻradik.
+el kilometraje ilimitado | cheksiz kilometr | Cheksiz kilometr variantini tanladik.
+la franquicia del seguro | sugʻurta franshizasi | Sugʻurta franshizasi boʻyicha shartlarni oʻqib chiqdik.
+el carné internacional | xalqaro guvohnoma | Chet elda mashina haydash uchun xalqaro guvohnomamni taqdim etdim.
+la devolución tardía | kech qaytarish | Avtomobilni kech qaytargani uchun qoʻshimcha haq olishadi.
+el parte de accidente | YTH (yoʻl-transport hodisasi) bayonnomasi | Kichik toʻqnashuvdan keyin YTH bayonnomasini imzoladik.
+## Yoʻnalish va Transport Vositalari
+el cruce de caminos | chorraha, yoʻl ayirigʻi | Keyingi chorrahada oʻngga burilaylik.
+la rotonda principal | asosiy aylanma yoʻl | Asosiy aylanma yoʻlda ikkinchi chiqishdan chiqing.
+el puente colgante | osma koʻprik | Daryodan ta'sirli osma koʻprik orqali oʻtdik.
+el túnel oscuro | qorongʻi tunel | Poyezd bir necha daqiqa davomida qorongʻi tunel ichidan oʻtdi.
+la señal de tráfico | yoʻl belgisi | Har bir yoʻl belgisiga e'tibor qaratish foydalidir.
+el carril bici | veloyoʻlak | Katta xiyobon yonida xavfsiz veloyoʻlak mavjud.
+el peaje de la autopista | avtomagistral toʻlovi | Avtomagistral toʻlovini karta orqali toʻladik.
+el desvío provisional | vaqtinchalik aylanma yoʻl | Ta'mirlash ishlari vaqtinchalik aylanma yoʻldan yurishga majbur qilmoqda.
+la parada facultativa | talabga koʻra toʻxtash joyi | Bu avtobus faqat ogohlantirsangiz talabga koʻra toʻxtash joyida toʻxtaydi.
+el semáforo en rojo | qizil chiroq | Qizil chiroqni koʻrib toʻxtadik.
+## Tabiat Sayohatlari va Lager
+la zona de acampada | lager zonasi, chadirkent | Lager zonamizni daryo yaqinida qurdik.
+el saco de dormir | uxlash uchun xalta, oʻrindiq xalta | Kechasi salqin boʻladi, yaxshi uxlash xaltasidan foydalaning.
+la mochila de montaña | togʻ ryukzagi | Togʻ ryukzagimda suv va ovqat olib yuryapman.
+la cantimplora | matara, suv idishi | Matarani buloqning toza suvi bilan toʻldirdim.
+la linterna frontal | bosh chirogʻi | Kechasi yurish uchun bosh chirogʻi kerak boʻladi.
+la brújula magnética | magnit kompas | Toʻgʻri yoʻnalishni magnit kompas yordamida tekshirdik.
+el bastón de trekking | trekking tayogʻi | Trekking tayogʻi tik qiyaliklarga chiqishda yordam beradi.
+la navaja multiusos | koʻp funksiyali pichoq | Koʻp funksiyali pichoq tabiat qoʻynida doimo qoʻl keladi.
+el repelente de insectos | hasharotlardan himoya qiluvchi vosita | Oʻrmonga kirishdan oldin hasharotlardan himoya qiluvchi vosita surting.
+la estufa portátil | koʻchma oʻchoq, portativ pechka | Koʻchma oʻchoqda issiq narsa pishirdik.
+## Sayohat Xotiralari va Hikoyalar
+el diario de viaje | sayohat kundaligi | Kundalik taassurotlarimni sayohat kundaligiga yozib boraman.
+la postal postal | otkritka | Bobo va buvimga yuborish uchun chiroyli otkritka sotib oldim.
+la cámara réflex | professional fotoapparat | Professional fotoapparatim bilan ajoyib suratlar oldim.
+el mapa desplegable | yigʻma xarita | Yigʻma xaritani kofe stolining ustiga ochdik.
+el vídeo casero | uy videosi | Sayohat davomida qiziqarli uy videosiga yozib oldik.
+la anécdota divertida | qiziqarli voqea | Yoʻqolgan poyezd haqida qiziqarli voqea aytib berdi.
+el sello en el pasaporte | pasportdagi muhr | Pasportdagi har bir muhrni kubok kabi yigʻib boraman.
+la sonrisa amable | samimiy tabassum | Samimiy tabassum sayohat qilishda koʻplab eshiklarni ochadi.
+el momento inolvidable | unutilmas lahza | Quyosh botishini tomosha qilish unutilmas lahza boʻldi.
+la costumbre local | mahalliy urf-odat | Qishloqning mahalliy urf-odati haqida koʻp narsa oʻrgandim.

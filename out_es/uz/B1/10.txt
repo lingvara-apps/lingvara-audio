@@ -1,0 +1,111 @@
+# UNIT: Texnologiya | Dasturlash, xavfsizlik, sun'iy intellekt, koinot
+## Dasturlash olami
+el código fuente | boshlangʻich kod, kod | Dasturchi oʻz kompyuterida boshlangʻich kodni tahlil qilmoqda.
+la compilación | kompilyatsiya, dasturni tuzish | Dasturning kompilyatsiyasi hech qanday xatosiz yakunlandi.
+el algoritmo | algoritm | Ushbu algoritm eng qisqa yoʻlni juda tez hisoblaydi.
+la base de datos relacional | relyatsion ma'lumotlar bazasi | Kalit ma'lumotlarni relyatsion ma'lumotlar bazasida saqlaymiz.
+el lenguaje de programación | dasturlash tili | Python hozirda juda mashhur dasturlash tilidir.
+la función recursiva | rekursiv funksiya | Ushbu rekursiv funksiyani tushunish yetarlicha mantiqni talab qiladi.
+el repositorio de código | kod ombori | Soʻnggi oʻzgarishlarni kod omboriga yuklayapmiz.
+la variable global | global oʻzgaruvchi | Global oʻzgaruvchidan foydalanishni oshirib yubormagan ma'qul.
+el entorno virtual | virtual muhit | Kutubxonalarni oʻrnatishdan oldin virtual muhitni faollashtiramiz.
+el depurador de errores | xatolarni tuzatuvchi, debuger | Xatolarni tuzatuvchi yashirin nuqsonlarni topishni osonlashtiradi.
+## Kiberxavfsizlik
+la brecha de seguridad | xavfsizlik boʻshligʻi, zaiflik | Markaziy tizimda xavfsizlik boʻshligʻi aniqlandi.
+el cortafuegos avanzado | ilgʻor xavfsizlik devori | Ilgʻor xavfsizlik devori tashqi zararli soʻrovlarni bloklaydi.
+la encriptación de datos | ma'lumotlarni shifrlash | Ma'lumotlarni shifrlash onlayn maxfiyligimizni himoya qiladi.
+el ataque cibernetic | kiberhujum | Korxona kuchli kiberhujumga muvaffaqiyatli bardosh berdi.
+la contraseña robusta | kuchli parol | Har bir hisob qaydnomasi uchun kuchli paroldan foydalanishni tavsiya qilishadi.
+el malware espía | josus zararli dastur | Josus zararli dastur ofisdagi bir nechta kompyuterga ta'sir qildi.
+la autenticación de dos pasos | ikki bosqichli autentifikatsiya | Katta xavfsizlik uchun ikki bosqichli autentifikatsiyani faollashtirdik.
+el acceso no autorizado | ruxsatsiz kirish | Tizim ruxsatsiz kirish haqida ogohlantirish yubordi.
+la vulnerabilidad crítica | jiddiy zaiflik | Jiddiy zaiflikni dam olish kunlaridan oldin bartaraf etishdi.
+el analito forense digital | raqamli sud ekspertizasi mutaxassisi | Raqamli sud ekspertizasi mutaxassisi shikastlangan qattiq diskni tekshirdi.
+## Sun'iy intellekt va ma'lumotlar fani
+la red neuronal artificial | sun'iy neyron tarmoq | Sun'iy neyron tarmoq inson miyasiga taqlid qiladi.
+el aprendizaje profundo | chuqur oʻrganish | Chuqur oʻrganish vizual tanib olishda tub burilish qildi.
+el modelo predictivo | bashorat modeli | Ushbu bashorat modeli bozor tendensiyalarini oldindan taxmin qiladi.
+la inteligencia artificial generativa | generativ sun'iy intellekt | Generativ sun'iy intellekt juda tabiiy matnlarni yaratadi.
+el procesamiento del lenguaje natural | tabiiy tilni qayta ishlash | Tabiiy tilni qayta ishlash matnlarni tarjima qilishga yordam beradi.
+la muestra estadística | statistik tanlanma | Tadqiqot uchun keng statistik tanlanma tanlashdi.
+el sesgo algorítmico | algoritmik xolisizlik [taraflama] | Tadqiqotchilar algoritmik xolisizlikni qanday kamaytirish mumkinligini oʻrganishmoqda.
+la minería de datos | ma'lumotlar bazasidan qazib olish, datayining | Ma'lumotlarni qazib olish katta hajmlardan foydali naqshlarni ajratib oladi.
+el entrenamiento del modelo | modelni oʻqitish | Modelni oʻqitish bir necha intensiv soat davom etdi.
+la inferencia rápida | tezkor xulosa chiqarish | Mobil qurilmalarda tezkor xulosa chiqarishni optimallashtirishni maqsad qilishgan.
+## Koinot va aviatsiya
+el telescopio espacial | kosmik teleskop | Kosmik teleskop juda uzoq galaktikalarni suratga oldi.
+la nave tripulada | boshqariladigan kosmik kema | Yangi boshqariladigan kosmik kema orbital stansiya tomon uchirildi.
+el cohete propulsor | eltuvchi raketa | Eltuvchi raketa ajralib chiqqandan keyin okeanga quladi.
+la órbita terrestre baja | pastki Yer orbitasi | Koʻpgina sun'iy yoʻldoshlar pastki Yer orbitasida ishlaydi.
+el rover marciano | Mars oxunvimi, Mars xodidi | Mars oxunvimi qizil yuzadagi toshlarni tahlil qilmoqda.
+la estación espacial internacional | xalqaro kosmik stansiya | Turli mamlakatlardan kelgan astronavtlar xalqaro kosmik stansiyada yashaydi.
+el agujero negro supermasivo | oʻta massiv qora tuynuk | Oʻta massiv qora tuynuk yaqinida gravitatsion toʻlqinlar aniqlandi.
+la atmósfera galáctica | galaktik atmosfera | Gʻalati signallarni qidirish uchun galaktik atmosferani oʻrganishmoqda.
+el satélite meteorológico | meteorologik sun'iy yoʻldosh | Meteorologik sun'iy yoʻldosh tropik boʻronlarni kuzatib boradi.
+la sonda interplanetaria | sayyoralararo zond | Sayyoralararo zond Yupiter haqida qimmatli ma'lumotlarni yubordi.
+## Avtomatlashtirish va robototexnika
+el brazo robótico industrial | sanoat robot qoʻli | Sanoat robot qoʻli qismlarni aniqlik bilan yigʻadi.
+la línea de producción automatizada | avtomatlashtirilgan ishlab chiqarish liniyasi | Avtomatlashtirilgan ishlab chiqarish liniyasi ommaviy ishlab chiqarishni tezlashtiradi.
+el sensor de proximidad | masofa datchigi | Ushbu masofa datchigi robotning devorlarga urilishining oldini oladi.
+la placa base integrada | oʻrnatilgan ona plata | Kichikroq va yengilroq oʻrnatilgan ona platani loyihalashtirishdi.
+el circuito impreso flexible | egiluvchan bosma plata | Egiluvchan bosma plata zamonaviy qurilmalarni bukib ishlatishga imkon beradi.
+la celda solar fotovoltaica | fotoelektrik quyish elementi | Fotoelektrik quyosh elementi yorugʻlikni toza energiyaga aylantiradi.
+el actuador neumático | pnevmatik aktuator | Pnevmatik aktuator qopqoqni bosimli havo yordamida harakatga keltiradi.
+la interfaz hombre-máquina | odam-mashina interfeysi | Foydalanishni osonlashtirish uchun odam-mashina interfeysini yaxshilashdi.
+el sistema embebido | ichki tizim, oʻrnatilgan tizim | Har bir aqlli maishiy texnika kichik ichki tizimni oʻz ichiga oladi.
+la calibración automática | avtomatlashtirilgan kalibrlash | Avtomatlashtirilgan kalibrlash har doim aniq oʻlchovlarni kafolatlaydi.
+## Bulutli hisoblash
+el servidor remoto | masofaviy server | Barcha veb-sahifalarni tezkor masofaviy serverda joylashtiramiz.
+la copia de seguridad en la nube | bulutli zaxira nusxa | Har yarim tunda bulutda zaxira nusxa yaratamiz.
+el almacenamiento virtual | virtual xotira, virtual saqlash joyi | Virtual xotira fayllarga istalgan joydan kirish imkonini beradi.
+la infraestructura como servicio | xizmat sifatida infratuzilma | Kompaniya tez oʻsish uchun xizmat sifatida infratuzilmani ijaraga oldi.
+el balanceador de carga | yuk taqsimlagich | Yuk taqsimlagich veb-trafigini samarali taqsimlaydi.
+la plataforma escalable | kengaytiriladigan platforma | Millionlab foydalanuvchilar uchun kengaytiriladigan platforma ishlab chiqishdi.
+el contenedor docker | Docker konteyneri | Veb-ilovalarini izolyatsiya qilish uchun Docker konteyneridan foydalanishadi.
+la latencia de red | tarmoq kechikishi | Tarmoq kechikishini kamaytirish videoqoʻngʻiroq tajribasini yaxshilaydi.
+el protocolo seguro | xavfsiz protokol | Bank ma'lumotlarini uzatish uchun xavfsiz protokodni sozlashdi.
+la nube híbrida | gibrid bulut | Mahalliy va tashqi serverlarni birlashtirgan holda gibrid bulutni tanlashdi.
+## Mobil texnologiyalar
+el sistema operativo móvil | mobil operatsion tizim | Ushbu smartfon juda ravon ishlaydigan mobil operatsion tizimdan foydalanadi.
+la aplicación nativa | mahalliy ilova, nativ ilova | Yaxshiroq ishlashi uchun mahalliy ilova ishlab chiqishni afzal koʻrishadi.
+la pantalla táctil OLED | OLED sensorli ekran | OLED sensorli ekran yorqin ranglar va sof qora ranglarni taqdim etadi.
+la conectividad 5G | 5G ulanishi | 5G ulanishi koʻchada oʻta tez yuklab olish imkonini beradi.
+el sensor biométrico | biometrik datchik | Biometrik datchik barmoq izini darhol taniydi.
+la carga ultrarrápida | oʻta tez quvvatlash | Oʻta tez quvvatlash texnologiyasi akkumulyatorni daqiqalar ichida toʻldiradi.
+el procesador multinúcleo | koʻp yadroli protsessor | Koʻp yadroli protsessor ogʻir vazifalarni qotmasdan bajaradi.
+la memoria RAM LPDDR | LPDDR operativ xotirasi | Katta tezlik va samaradorlikka ega LPDDR operativ xotirasini oʻz ichiga oladi.
+el módulo fotográfico | kamera moduli | Orqa kamera moduli uchta professional linzani oʻz ichiga oladi.
+la actualización de firmware | mikrodastur yangilanishi | Kichik xatolarni tuzatish uchun mikrodastur yangilanishini chiqarishdi.
+## Buyumlar interneti
+el dispositivo conectado | ulangan qurilma | Har bir ulangan qurilma uy tarmogʻiga ma'lumot uzatadi.
+el termostato inteligente | aqlli termostat | Kundalik energiyani tejash uchun aqlli termostatni dasturladik.
+la bombilla domótica | aqlli lampochka | Aqlli lampochkaning rangini ovozimiz yordamida boshqaramiz.
+el enchufe inalambrico | simsiz rozetka | Simsiz rozetkadan foydalanib uzoqdagi jihozlarni oʻchiramiz.
+la cerradura biométrica | biometrik qulf | Biometrik qulf asosiy eshikni barmoq izingiz bilan ochadi.
+el asistente de voz | ovozli yordamchi | Ovozli yordamchi joriy ob-havo haqidagi savollarga javob beradi.
+la persiana automatizada | avtomatlashtirilgan panjur | Avtomatlashtirilgan panjur quyosh chiqqanda oʻz-oʻzidan tushadi.
+el sensor de humedad ambiental | muhit namligi datchigi | Ushbu muhit namligi datchigi bogʻ sugʻorishini ishga tushiradi.
+el timbre con cámara | kamerali qoʻngʻiroq | Kamerali qoʻngʻiroq asosiy eshikni kim taqillatayotganini koʻrsatadi.
+la pasarela domótica | aqlli uy shlyuzi | Aqlli uy shlyuzi barcha aqlli qurilmalarni birgalikda muvofiqlashtiradi.
+## Biotexnologiya va genetika
+el secuenciador de ADN | DNK sekvenatori | Laboratoriya soʻnggi avlod DNK sekvenatorini sotib oldi.
+la edición genética CRISPR | CRISPR gen tahrirlash | CRISPR gen tahrirlash texnikasi yangi tibbiy umidlarni ochib bermoqda.
+el anticuerpo monoclonal | monoklonal antikor | Virusga qarshi maxsus monoklonal antikor ishlab chiqishdi.
+la proteína recombinante | rekombinant oqsil | Sof hujayra kulturalaridan foydalangan holda rekombinant oqsil ishlab chiqarishadi.
+el ensayo clínico avanzado | ilgʻor klinik sinov | Dori ilgʻor klinik sinovdan muvaffaqiyatli oʻtdi.
+la terapia génica | gen terapiyasi | Gen terapiyasi jiddiy irsiy mutatsiyalarni tuzatishga qaratilgan.
+el bioinformático experto | tajribali bioinformatik | Tajribali bioinformatik murakkab genetik ketma-ketliklarni tahlil qiladi.
+la enzima modificada | modifikatsiyalangan ferment | Plastmassalarni tezda parchalashga qodir modifikatsiyalangan ferment yaratishdi.
+el cultivo celular | hujayra kultirasi, hujayra oʻstirmasi | Hujayra kulturasini qat'iy steril sharoitda saqlashadi.
+la molécula sintética | sintetik molekula | Chidamli bakteriyalarga qarshi kurashish uchun sintetik molekulani sintez qilishdi.
+## Kvant hisoblash
+el ordenador cuántico | kvant kompyuter | Kvant kompyuter murakkab kubitlardan foydalangan holda ma'lumotlarni qayta ishlaydi.
+el cúbit superconductor | oʻta oʻtkazuvchi kubit | Oʻta oʻtkazuvchi kubit oʻta past haroratlarni talab qiladi.
+el entrelazamiento cuántico | kvant chalkashuvi | Kvant chalkashuvi zarralarni sirli ravishda bir-biriga bogʻlaydi.
+la criptografía poscuántica | post-kvant kriptografiyasi | Kelajakdagi ma'lumotlarni himoya qilish uchun post-kvant kriptografiyasini tadqiq qilmoqdalar.
+el algoritmo de Shor | Shor algoritmi | Mashhur Shor algoritmi katta sonlarni tezda koʻpaytuvchilarga ajratadi.
+la superposición cuántica | kvant superpozitsiyasi | Kvant superpozitsiyasi bir vaqtning oʻzida bir nechta holatlarni baholash imkonini beradi.
+el canal cuántico | kvant kanali | Xavfsiz kvant kanali orqali maxfiy kalitlarni uzatishadi.
+la decoherencia cuántica | kvant degogerensiyasi | Kvant degogerensiyasi kubitning moʻrt ma'lumotlarini yoʻq qiladi.
+el simulador cuántico | kvant simulyatori | Kvant simulyatori murakkab molekulalarni tushunishga yordam beradi.
+la supremacía cuántica | kvant ustunligi | Kvant ustunligiga erishib, tarixiy muhim qadam tashlanganini e'lon qilishdi.

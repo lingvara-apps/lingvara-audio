@@ -1,0 +1,111 @@
+# UNIT: Texnologiya | Proqram təminatı, təhlükəsizlik, süni intellekt, kosmos
+## Proqram dünyası
+el código fuente | mənbə kodu | Proqramçı komputerində mənbə kodunu təhlil edir.
+la compilación | kompilyasiya | Proqramın kompilyasiyası heç bir xəta olmadan başa çatdı.
+el algoritmo | alqoritm | Bu alqoritm ən qısa marşrutu çox sürətlə hesablayır.
+la base de datos relacional | əlaqəli verilənlər bazası | Əsas məlumatları əlaqəli verilənlər bazasında saxlayırıq.
+el lenguaje de programación | proqramlaşdırma dili | Python hazırda çox populyar proqramlaşdırma dilidir.
+la función recursiva | rekursiv funksiya | Bu rekursiv funksiyanı başa düşmək xeyli məntiq tələb edir.
+el repositorio de código | kod anbarı | Son dəyişiklikləri kod anbarına yükləyirik.
+la variable global | qlobal dəyişən | Qlobal dəyişənin istifadəsini abartmamaq daha yaxşıdır.
+el entorno virtual | virtual mühit | Kitabxanaları quraşdırmadan əvvəl virtual mühiti aktivləşdiririk.
+el depurador de errores | xəta ayıklayıcısı | Xəta ayıklayıcısı gizli qüsurları tapmağı asanlaşdırır.
+## Kibertəhlükəsizlik
+la brecha de seguridad | təhlükəsizlik boşluğu | Mərkəzi sistemdə təhlükəsizlik boşluğu aşkar etdilər.
+el cortafuegos avanzado | qabaqcıl fayrvol | Qabaqcıl fayrvol xarici zərərli istəkləri bloklayır.
+la encriptación de datos | məlumatların şifrələnməsi | Məlumatların şifrələnməsi onlayn məxfiliyimizi qoruyur.
+el ataque cibernetic | kiberhücum | Şirkət güclü kiberhücuma uğurla tab gətirdi.
+la contraseña robusta | güclü parol | Hər hesab üçün güclü parol istifadə etməyi tövsiyə edirlər.
+el malware espía | casus zərərli proqram | Casus zərərli proqram ofisdəki bir neçə kompüterə təsir etdi.
+la autenticación de dos pasos | iki mərhələli autentifikasiya | Daha yüksək təhlükəsizlik üçün iki mərhələli autentifikasiyanı aktivləşdirdik.
+el acceso no autorizado | icazəsiz giriş | Sistem icazəsiz girişə görə xəbərdarlıq yaydı.
+la vulnerabilidad crítica | kritik zəiflik | Kritik zəifliyi həftə sonundan əvvəl aradan qaldırdılar.
+el analito forense digital | rəqəmsal məhkəmə-tibbi eksperti | Rəqəmsal məhkəmə-tibbi eksperti zədələnmiş sərt diski yoxladı.
+## Süni intellekt və verilənlər elmi
+la red neuronal artificial | süni neyron şəbəkəsi | Süni neyron şəbəkəsi insan beyini təqlid edir.
+el aprendizaje profundo | dərin öyrənmə | Dərin öyrənmə vizual tanımada inqilab etdi.
+el modelo predictivo | proqnozlaşdırma modeli | Bu proqnozlaşdırma modeli bazar tendensiyalarını əvvəlcədən təyin edir.
+la inteligencia artificial generativa | generativ süni intellekt | Generativ süni intellekt çox təbii mətnlər yaradır.
+el procesamiento del lenguaje natural | təbii dilin emalı | Təbii dilin emalı mətnləri tərcümə etməyə kömək edir.
+la muestra estadística | statistik nümunə | Tədqiqat üçün geniş statistik nümunə seçdilər.
+el sesgo algorítmico | alqoritmik qərəz | Tədqiqatçılar alqoritmik qərəzin necə azaldılacağını təhlil edirlər.
+la minería de datos | məlumat mədənçiliyi | Məlumat mədənçiliyi böyük həcmlərdən faydalı naxışlar çıxarır.
+el entrenamiento del modelo | modelin təlimi | Modelin təlimi bir neçə gərgin saat çəkdi.
+la inferencia rápida | sürətli nəticəçıxarma | Mobil cihazlarda sürətli nəticəçıxarmanı optimallaşdırmağa çalışırlar.
+## Kosmos və aviasiya
+el telescopio espacial | kosmik teleskop | Kosmik teleskop çox uzaq qalaktikaları çəkdi.
+la nave tripulada | insanlı kosmik gəmi | Yeni insanlı kosmik gəmi orbital stansiyaya doğru uçdu.
+el cohete propulsor | itələyici raket | İtələyici raket ayrıldıqdan sonra okeana düşdü.
+la órbita terrestre baja | aşağı yer orbiti | Bir çox peyk aşağı yer orbitində fəaliyyət göstərir.
+el rover marciano | Mars səyyahı | Mars səyyahı qırmızı səthdəki qayaları təhlil edir.
+la estación espacial internacional | beynəlxalq kosmik stansiya | Müxtəlif ölkələrin astronavtları beynəlxalq kosmik stansiyada yaşayırlar.
+el agujero negro supermasivo | superkütləvi qara dəlik | Superkütləvi qara dəliyin yaxınlığında qravitasiya dalğaları aşkar etdilər.
+la atmósfera galáctica | qalaktik atmosfer | Qəribə siqnallar axtarmaq üçün qalaktik atmosferi tədqiq edirlər.
+el satélite meteorológico | meteoroloji peyk | Meteoroloji peyk tropik qasırğaları izləyir.
+la sonda interplanetaria | planetlərarası zond | Planetlərarası zond Yupiter haqqında qiymətli məlumatlar göndərdi.
+## Avtomatlaşdırma və biotexnologiya
+el brazo robótico industrial | sənaye robot qolu | Sənaye robot qolu detalları dəqiqliklə yığır.
+la línea de producción automatizada | avtomatlaşdırılmış istehsal xətti | Avtomatlaşdırılmış istehsal xətti kütləvi istehsalı sürətləndirir.
+el sensor de proximidad | məsafə sensoru | Bu məsafə sensoru robotun divarlara çırpılmasının qarşısını alır.
+la placa base integrada | inteqrasiya olunmuş ana plata | Daha kiçik və yüngül inteqrasiya olunmuş ana plata dizayn etdilər.
+el circuito impreso flexible | çevik çap dövrəsi | Çevik çap dövrəsi müasir cihazların bükülməsinə imkan verir.
+la celda solar fotovoltaica | fotovoltaik günəş batareyası | Fotovoltaik günəş batareyası işığı təmiz enerjiyə çevirir.
+el actuador neumático | pnevmatik aktuator | Pnevmatik aktuator qapını təzyiqli hava ilə hərəkət etdirir.
+la interfaz hombre-máquina | insan-maşın interfeysi | İstifadəni asanlaşdırmaq üçün insan-maşın interfeysini yaxşılaşdırdılar.
+el sistema embebido | quraşdırılmış sistem | Hər bir ağıllı məişət texnikası kiçik bir quraşdırılmış sistem ehtiva edir.
+la calibración automática | avtomatlaşdırılmış kalibrləmə | Avtomatlaşdırılmış kalibrləmə həmişə dəqiq ölçmələri təmin edir.
+## Bulud texnologiyaları
+el servidor remoto | uzaq server | Bütün veb-səhifələri sürətli uzaq serverdə yerləşdiririk.
+la copia de seguridad en la nube | bulud ehtiyat nüsxəsi | Hər gecəyarı buludda ehtiyat nüsxəsi yaradırıq.
+el almacenamiento virtual | virtual yaddaş | Virtual yaddaş fayllara istənilən yerdən daxil olmağa imkan verir.
+la infraestructura como servicio | xidmət olaraq infrastruktur | Şirkət sürətlə böyümək üçün xidmət olaraq infrastruktur sifariş etdi.
+el balanceador de carga | yük balanslaşdırıcısı | Yük balanslaşdırıcısı veb-trafiki səmərəli şəkildə paylayır.
+la plataforma escalable | miqyaslana bilən platforma | Milyonlarla istifadəçi üçün miqyaslana bilən platforma hazırladılar.
+el contenedor docker | docker konteyneri | Veb-tətbiqləri təcrid etmək üçün docker konteynerindən istifadə edirlər.
+la latencia de red | şəbəkə gecikməsi | Şəbəkə gecikməsinin azaldılması videozəng təcrübəsini yaxşılaşdırır.
+el protocolo seguro | təhlükəsiz protokol | Bank məlumatlarını ötürmək üçün təhlükəsiz protokolu konfiqurasiya etdilər.
+la nube híbrida | hibrid bulud | Yerli və xarici serverləri birləşdirərək hibrid buluda üstünlük verdilər.
+## Mobil texnologiyalar
+el sistema operativo móvil | mobil əməliyyat sistemi | Bu ağıllı telefon çox axıcı mobil əməliyyat sistemindən istifadə edir.
+la aplicación nativa | yerli tətbiq | Daha yaxşı performans üçün yerli tətbiq hazırlamağa üstünlük verirlər.
+la pantalla táctil OLED | OLED toxunma ekranı | OLED toxunma ekranı canlı rənglər və saf qara rənglər təqdim edir.
+la conectividad 5G | 5G bağlantısı | 5G bağlantısı küçədə ultra sürətli yükləmələrə imkan verir.
+el sensor biométrico | biomexaniki sensor | Biomexaniki sensor barmaq izini dərhal tanıyır.
+la carga ultrarrápida | ultra sürətli enerji yığma | Ultra sürətli enerji yığma texnologiyası batareyanı dəqiqələr ərzində doldurur.
+el procesador multinúcleo | çoxnüvəli prosessor | Çoxnüvəli prosessor ağır tapşırıqları donmadan yerinə yetirir.
+la memoria RAM LPDDR | LPDDR RAM yaddaşı | Böyük sürət və səmərəliliyə malik LPDDR RAM yaddaşını ehtiva edir.
+el módulo fotográfico | kamera modulu | Arxa kamera modulu üç peşəkar linza ehtiva edir.
+la actualización de firmware | proqram təminatı yeniləməsi | Kiçik səhvləri həll etmək üçün proqram təminatı yeniləməsi buraxdılar.
+## Əşyaların interneti
+el dispositivo conectado | qoşulmuş cihaz | Hər qoşulmuş cihaz ev şəbəkəsinə məlumat ötürür.
+el termostato inteligente | ağıllı termostat | Gündəlik enerjiyə qənaət etmək üçün ağıllı termostatı proqramlaşdırdıq.
+la bombilla domótica | ağıllı lampa | Ağıllı lampanın rəngini səsimizlə idarə edirik.
+el enchufe inalambrico | simsiz rozetka | Simsiz rozetkadan istifadə edərək uzaq cihazları söndürürük.
+la cerradura biométrica | biomexaniki kilid | Biomexaniki kilid ön qapını barmaq izinizlə açır.
+el asistente de voz | səsli köməkçi | Səsli köməkçi cari hava haqqında sualları cavablandırır.
+la persiana automatizada | avtomatlaşdırılmış jalüz | Günəş çıxanda avtomatlaşdırılmış jalüz özü aşağı enir.
+el sensor de humedad ambiental | ətraf mühit rütubət sensoru | Bu ətraf mühit rütubət sensoru bağın suvarılmasını işə salır.
+el timbre con cámara | kameralı zəng | Kameralı zəng ön qapını kimin döydüyünü göstərir.
+la pasarela domótica | ağıllı ev qapısı | Ağıllı ev qapısı bütün ağıllı cihazları birlikdə əlaqələndirir.
+## Biotexnologiya və genetika
+el secuenciador de ADN | DNT sekvenseri | Laboratoriya yeni nəsil DNT sekvenseri əldə etdi.
+la edición genética CRISPR | CRISPR gen redaktəsi | CRISPR gen redaktəsi texnologiyası yeni tibbi ümidlər açır.
+el anticuerpo monoclonal | monoklonal anticisim | Virus qarşı xüsusi monoklonal anticisim hazırladılar.
+la proteína recombinante | rekombinant zülal | Saf hüceyrə kulturalarından istifadə edərək rekombinant zülal istehsal edirlər.
+el ensayo clínico avanzado | qabaqcıl klinik sınaq | Dərman qabaqcıl klinik sınağı uğurla keçdi.
+la terapia génica | gen terapiyası | Gen terapiyası irsi ciddi mutasiyaları düzəltməyi hədəfləyir.
+el bioinformático experto | təcrübəli bioinformatik | Təcrübəli bioinformatik mürəkkəb genetik ardıcıllıqları təhlil edir.
+la enzima modificada | modifikasiya edilmiş ferment | Plastikləri sürətlə parçalaya bilən modifikasiya edilmiş ferment yaratdılar.
+el cultivo celular | hüceyrə kulturası | Hüceyrə kulturasını ciddi steril şəraitdə saxlayırlar.
+la molécula sintética | sintetik molekul | Davamlı bakteriyalarla mübarizə aparmaq üçün sintetik molekul sintez etdilər.
+## Kvant hesablama
+el ordenador cuántico | kvant kompüteri | Kvant kompüteri mürəkkəb kubitlərdən istifadə edərək məlumatları emal edir.
+el cúbit superconductor | ifratkeçirici kubit | İfratkeçirici kubit həddindən artıq aşağı temperaturlar tələb edir.
+el entrelazamiento cuántico | kvant dolaşıqlığı | Kvant dolaşıqlığı hissəcikləri müəmmalı şəkildə birləşdirir.
+la criptografía poscuántica | kvantsonrası kriptoqrafiya | Gələcək məlumatları qorumaq üçün kvantsonrası kriptoqrafiyanı tədqiq edirlər.
+el algoritmo de Shor | Shor alqoritmi | Məşhur Shor alqoritmi böyük ədədləri sürətlə vuruqlara ayırır.
+la superposición cuántica | kvant superpozisiyası | Kvant superpozisiyası eyni anda birdən çox vəziyyəti qiymətləndirməyə imkan verir.
+el canal cuántico | kvant kanalı | Təhlükəsiz kvant kanalı vasitəsilə gizli açarlar ötürürlər.
+la decoherencia cuántica | kvant dekoherentliyi | Kvant dekoherentliyi kövrək kubit məlumatını məhv edir.
+el simulador cuántico | kvant simulyatoru | Kvant simulyatoru mürəkkəb molekulları başa düşməyə kömək edir.
+la supremacía cuántica | kvant üstünlüyü | Kvant üstünlüyünə nail olaraq tarixi bir mərhələ elan etdilər.

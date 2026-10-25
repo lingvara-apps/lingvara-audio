@@ -1,0 +1,111 @@
+# UNIT: Technologie | Software, Sicherheit, Künstliche Intelligenz, Weltraum
+## Softwarewelt
+el código fuente | Quellcode | Der Programmierer analysiert den Quellcode auf seinem Computer.
+la compilación | Kompilierung, Programmübersetzung | Die Kompilierung des Programms wurde ohne jeden Fehler abgeschlossen.
+el algoritmo | Algorithmus | Dieser Algorithmus berechnet den kürzesten Weg sehr schnell.
+la base de datos relacional | relationale Datenbank | Wir speichern die Schlüsselinformationen in der relationalen Datenbank.
+el lenguaje de programación | Programmiersprache | Python ist derzeit eine sehr beliebte Programmiersprache.
+la función recursiva | rekursive Funktion | Das Verstehen dieser rekursiven Funktion erfordert einiges an Logik.
+el repositorio de código | Code-Repository, Quelltextspeicher | Wir laden die neuesten Änderungen in das Code-Repository hoch.
+la variable global | globale Variable | Es ist besser, den Gebrauch der globalen Variablen nicht zu übertreiben.
+el entorno virtual | virtuelle Umgebung | Wir aktivieren die virtuelle Umgebung, bevor wir die Bibliotheken installieren.
+el depurador de errores | Debugger, Fehlerbereinigungstool | Der Debugger erleichtert das Finden versteckter Fehler.
+## Cybersicherheit
+la brecha de seguridad | Sicherheitslücke | Sie haben eine Sicherheitslücke im zentralen System entdeckt.
+el cortafuegos avanzado | erweiterte Firewall | Die erweiterte Firewall blockiert schädliche externe Anfragen.
+la encriptación de datos | Datenverschlüsselung | Die Datenverschlüsselung schützt unsere Privatsphäre im Internet.
+el ataque cibernetic | Cyberangriff | Das Unternehmen hat einem schweren Cyberangriff erfolgreich standgehalten.
+la contraseña robusta | sicheres Passwort, starkes Passwort | Sie empfehlen, für jedes Konto ein sicheres Passwort zu verwenden.
+el malware espía | Spyware, Spionagemalware | Eine Spyware hat mehrere Computer im Büro befallen.
+la autenticación de dos pasos | Zwei-Faktor-Authentifizierung | Wir haben die Zwei-Faktor-Authentifizierung für mehr Sicherheit aktiviert.
+el acceso no autorizado | unbefugter Zugriff | Das System hat wegen eines unbefugten Zugriffs eine Warnung ausgegeben.
+la vulnerabilidad crítica | kritische Schwachstelle | Sie haben die kritische Schwachstelle vor dem Wochenende behoben.
+el analito forense digital | digitaler Forensiker | Der digitale Forensiker untersuchte die beschädigte Festplatte.
+## Künstliche Intelligenz und Data Science
+la red neuronal artificial | künstliches neuronales Netz | Ein künstliches neuronales Netz ahmt das menschliche Gehirn nach.
+el aprendizaje profundo | Deep Learning, tiefes Lernen | Deep Learning hat die visuelle Erkennung revolutioniert.
+el modelo predictivo | Vorhersagemodell, Prognosemodell | Dieses Vorhersagemodell antizipiert die Markttrends.
+la inteligencia artificial generativa | generative künstliche Intelligenz | Generative künstliche Intelligenz erstellt sehr natürliche Texte.
+el procesamiento del lenguaje natural | natürliche Sprachverarbeitung | Die natürliche Sprachverarbeitung hilft beim Übersetzen von Texten.
+la muestra estadística | statistische Stichprobe | Sie haben eine große statistische Stichprobe für die Studie ausgewählt.
+el sesgo algorítmico | algorithmischer Bias, algorithmische Voreingenommenheit | Forscher analysieren, wie man den algorithmischen Bias reduzieren kann.
+la minería de datos | Data-Mining, Datenmining | Data-Mining extrahiert nützliche Muster aus großen Datenmengen.
+el entrenamiento del modelo | Modelltraining | Das Training des Modells dauerte mehrere intensive Stunden.
+la inferencia rápida | schnelle Inferenz | Sie versuchen, die schnelle Inferenz auf Mobilgeräten zu optimieren.
+## Weltraum und Luftfahrt
+el telescopio espacial | Weltraumteleskop | Das Weltraumteleskop hat sehr weit entfernte Galaxien eingefangen.
+la nave tripulada | bemanntes Raumschiff | Ein neues bemanntes Raumschiff ist zur Orbitalstation gestartet.
+el cohete propulsor | Trägerrakete, Antriebsrakete | Die Trägerrakete stürzte nach der Trennung in den Ozean.
+la órbita terrestre baja | erdnahe Umlaufbahn | Viele Satelliten operieren in der erdnahen Umlaufbahn.
+el rover marciano | Mars-Rover, Marsroboter | Der Mars-Rover analysiert Gestein auf der roten Oberfläche.
+la estación espacial internacional | internationale Raumstation | Astronauten aus mehreren Ländern leben auf der internationalen Raumstation.
+el agujero negro supermasivo | supermassives schwarzes Loch | Sie haben Gravitationswellen in der Nähe eines supermassiven schwarzen Lochs entdeckt.
+la atmósfera galáctica | galaktische Atmosphäre | Sie untersuchen die galaktische Atmosphäre auf der Suche nach seltsamen Signalen.
+el satélite meteorológico | Wettersatellit | Ein Wettersatellit überwacht die tropischen Stürme.
+la sonda interplanetaria | interplanetare Sonde | Die interplanetare Sonde schickte wertvolle Daten über den Jupiter.
+## Automatisierung und Robotik
+el brazo robótico industrial | industrieller Roboterarm | Der industrielle Roboterarm montiert Teile mit Präzision.
+la línea de producción automatizada | automatisierte Fertigungslinie | Die automatisierte Fertigungslinie beschleunigt die Massenproduktion.
+el sensor de proximidad | Näherungssensor | Dieser Näherungssensor verhindert, dass der Robot gegen Wände stößt.
+la placa base integrada | integrierte Hauptplatine, integriertes Mainboard | Sie haben eine kleinere und leichtere integrierte Hauptplatine entworfen.
+el circuito impreso flexible | flexible gedruckte Schaltung, Flexboard | Die flexible gedruckte Schaltung ermöglicht das Biegen moderner Geräte.
+la celda solar fotovoltaica | Photovoltaik-Solarzelle | Eine Photovoltaik-Solarzelle wandelt Licht in saubere Energie um.
+el actuador neumático | pneumatischer Aktor | Der pneumatische Aktor bewegt die Klappe mit Druckluft.
+la interfaz hombre-máquina | Mensch-Maschine-Schnittstelle | Sie haben die Mensch-Maschine-Schnittstelle verbessert, um die Bedienung zu erleichtern.
+el sistema embebido | eingebettetes System | Jedes intelligente Haushaltsgerät enthält ein kleines eingebettetes System.
+la calibración automática | automatische Kalibrierung | Die automatische Kalibrierung garantiert stets exakte Messungen.
+## Cloud-Computing
+el servidor remoto | Remote-Server, entfernter Server | Wir hosten alle Webseiten auf einem schnellen Remote-Server.
+la copia de seguridad en la nube | Cloud-Backup, Cloud-Sicherung | Wir erstellen jeden Tag um Mitternacht ein Cloud-Backup.
+el almacenamiento virtual | virtueller Speicher | Der virtuelle Speicher ermöglicht den Zugriff auf Dateien von jedem Ort aus.
+la infraestructura como servicio | Infrastructure as a Service, IaaS | Das Unternehmen hat Infrastructure as a Service gemietet, um schnell zu skalieren.
+el balanceador de carga | Lastverteiler, Load Balancer | Ein Lastverteiler verteilt den Webverkehr effizient.
+la plataforma escalable | skalierbare Plattform | Sie haben eine skalierbare Plattform für Millionen von Nutzern entwickelt.
+el contenedor docker | Docker-Container | Sie verwenden einen Docker-Container, um Webanwendungen zu isolieren.
+la latencia de red | Netzwerklatenz | Das Reduzieren der Netzwerklatenz verbessert das Videoanruferlebnis.
+el protocolo seguro | sicheres Protokoll | Sie haben das sichere Protokoll für die Übertragung von Bankdaten konfiguriert.
+la nube híbrida | Hybrid-Cloud | Sie haben sich für eine Hybrid-Cloud entschieden und lokale sowie externe Server kombiniert.
+## Mobile Technologien
+el sistema operativo móvil | mobiles Betriebssystem | Dieses Smartphone verwendet ein sehr flüssiges mobiles Betriebssystem.
+la aplicación nativa | native App, native Anwendung | Sie bevorzugen die Entwicklung einer nativen App für eine bessere Leistung.
+la pantalla táctil OLED | OLED-Touchscreen | Der OLED-Touchscreen bietet lebendige Farben und ein reines Schwarz.
+la conectividad 5G | 5G-Verbindung | Die 5G-Verbindung ermöglicht ultraschnelle Downloads auf der Straße.
+el sensor biométrico | biometrischer Sensor | Der biometrische Sensor erkennt den Fingerabdruck im Handumdrehen.
+la carga ultrarrápida | ultraschnelles Laden | Die Technologie des ultraschnellen Ladens füllt den Akku in Minuten.
+el procesador multinúcleo | Mehrkernprozessor, Multi-Core-Prozessor | Ein Mehrkernprozessor führt schwere Aufgaben ohne Ruckeln aus.
+la memoria RAM LPDDR | LPDDR-RAM-Speicher | Es enthält einen LPDDR-RAM-Speicher von hoher Geschwindigkeit und Effizienz.
+el módulo fotográfico | Kameramodul | Das hintere Kameramodul enthält drei professionelle Objektive.
+la actualización de firmware | Firmware-Update | Sie haben ein Firmware-Update herausgebracht, um kleinere Fehler zu beheben.
+## Internet der Dinge
+el dispositivo conectado | verbundenes Gerät | Jedes verbundene Gerät sendet Daten an das Heimnetzwerk.
+el termostato inteligente | intelligentes Thermostat | Wir haben das intelligente Thermostat programmiert, um täglich Energie zu sparen.
+la bombilla domótica | intelligente Glühbirne | Wir steuern die Farbe der intelligenten Glühbirne per Sprache.
+el enchufe inalambrico | WLAN-Steckdose, kabellose Steckdose | Wir schalten entfernte Geräte über eine kabellose Steckdose aus.
+la cerradura biométrica | biometrisches Schloss | Das biometrische Schloss öffnet die Haustür mit deinem Fingerabdruck.
+el asistente de voz | Sprachassistent | Der Sprachassistent beantwortet Fragen zum aktuellen Wetter.
+la persiana automatizada | automatisierte Jalousie | Die automatisierte Jalousie fährt von alleine herunter, wenn die Sonne aufgeht.
+el sensor de humedad ambiental | Umgebungs-Feuchtigkeitssensor | Dieser Umgebungs-Feuchtigkeitssensor aktiviert die Gartenbewässerung.
+el timbre con cámara | Videotürklingel, Türklingel mit Kamera | Die Videotürklingel zeigt, wer an der Haustür klingelt.
+la pasarela domótica | Smart-Home-Gateway | Das Smart-Home-Gateway koordiniert alle intelligenten Geräte miteinander.
+## Biotechnologie und Genetik
+el secuenciador de ADN | DNA-Sequenzierer | Das Labor hat einen DNA-Sequenzierer der neuesten Generation erworben.
+la edición genética CRISPR | CRISPR-Genbearbeitung | Die Technik der CRISPR-Genbearbeitung eröffnet neue medizinische Hoffnungen.
+el anticuerpo monoclonal | monoklonaler Antikörper | Sie haben einen spezifischen monoklonalen Antikörper gegen das Virus entwickelt.
+la proteína recombinante | rekombinante Protein | Sie produzieren rekombinante Proteine unter Verwendung reiner Zellkulturen.
+el ensayo clínico avanzado | fortgeschrittene klinische Studie | Das Medikament hat eine fortgeschrittene klinische Studie erfolgreich bestanden.
+la terapia génica | Gentherapie | Die Gentherapie zielt darauf ab, schwere erbliche Mutationen zu korrigieren.
+el bioinformático experto | erfahrener Bioinformatiker | Der erfahrene Bioinformatiker analysiert komplexe genetische Sequenzen.
+la enzima modificada | modifiziertes Enzym | Sie haben ein modifiziertes Enzym erschaffen, das Kunststoffe schnell abbauen kann.
+el cultivo celular | Zellkultur | Sie halten die Zellkultur unter streng sterilen Bedingungen.
+la molécula sintética | synthetisches Molekül | Sie haben ein synthetisches Molekül synthetisiert, um resistente Bakterien zu bekämpfen.
+## Quantencomputing
+el ordenador cuántico | Quantencomputer | Ein Quantencomputer verarbeitet Informationen mithilfe komplexer Qubits.
+el cúbit superconductor | supraleitendes Qubit | Das supraleitende Qubit erfordert extrem niedrige Temperaturen.
+el entrelazamiento cuántico | Quantenverschränkung | Die Quantenverschränkung verbindet Teilchen auf geheimnisvolle Weise.
+la criptografía poscuántica | post-quanten-Kryptographie | Sie forschen an der post-quanten-Kryptographie, um zukünftige Daten zu schützen.
+el algoritmo de Shor | Shor-Algorithmus | Der berühmte Shor-Algorithmus faktorisiert große Zahlen schnell.
+la superposición cuántica | Quantensuperposition | Die Quantensuperposition ermöglicht es, mehrere Zustände gleichzeitig zu bewerten.
+el canal cuántico | Quantenkanal | Sie übertragen geheime Schlüssel über einen sicheren Quantenkanal.
+la decoherencia cuántica | Quantendekoherenz | Die Quantendekoherenz zerstört die fragile Qubit-Information.
+el simulador cuántico | Quantensimulator | Ein Quantensimulator hilft dabei, komplexe Moleküle zu verstehen.
+la supremacía cuántica | Quantenüberlegenheit, Quantensuprematie | Sie verkündeten einen historischen Meilenstein durch das Erreichen der Quantenüberlegenheit.

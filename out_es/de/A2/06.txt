@@ -1,0 +1,111 @@
+# UNIT: Wohnen und Haushalt | Miete, Möbel, Nachbarn, Reparaturen
+## Wohnungssuche
+alquilar | mieten | Wir wollen eine Wohnung in der Nähe des Parks mieten.
+el inmueble | Immobilie, Gebäude | Diese Immobilie hat drei große Schlafzimmer.
+el arrendador | Vermieter | Der Vermieter hat das Dokument gestern unterschrieben.
+el arrendatario | Mieter | Der Mieter pflegt die Wohnung sehr gut.
+la vivienda | Unterkunft, Wohnraum | Wir suchen eine anständige und moderne Unterkunft.
+amueblado | möbliert | Die Wohnung ist komplett möbliert.
+luminoso | hell, lichtdurchflutet | Das Wohnzimmer ist nachmittags sehr hell.
+céntrico | zentral | Ich bevorzuge eine zentrale und gut angebundene Wohnung.
+la mensualidad | Monatsmiete, monatliche Rate | Wir zahlen die Monatsmiete am ersten Tag des Monats.
+compartir piso | sich eine Wohnung teilen | Diego hat beschlossen, sich eine Wohnung mit zwei Studenten zu teilen.
+## Räume der Wohnung
+el salón | Wohnzimmer | Wir treffen uns im Wohnzimmer, um einen Film anzusehen.
+el dormitorio | Schlafzimmer | Das Hauptschlafzimmer hat ein großes Fenster.
+el comedor | Esszimmer | Wir essen jeden Tag zusammen im Esszimmer.
+la terraza | Terrasse | Wir trinken Kaffee in der Sonne auf der Terrasse.
+el patio | Innenhof | Die Pflanzen gedeihen prächtig im Innenhof.
+el trastero | Abstellraum, Kellerabteil | Wir bewahren die alten Koffer im Abstellraum auf.
+el desván | Dachboden | Auf dem Dachboden stehen staubige Kisten.
+el recibidor | Flur, Eingangsbereich | Ich habe die Schlüssel auf dem Tisch im Flur liegen gelassen.
+la despensa | Speisekammer | Die Speisekammer ist voller trockener Lebensmittel.
+el lavadero | Waschküche | Sie haben die Waschmaschine in der äußeren Waschküche installiert.
+## Möbel und Dekoration
+el perchero | Garderobe, Kleiderständer | Häng deine Jacke an die Garderobe nahe der Tür.
+el taburete | Hocker | Ich habe mich in der Küche auf einen hohen Hocker gesetzt.
+el colchón | Matratze | Wir haben eine sehr bequeme neue Matratze gekauft.
+el aparador | Anrichte, Kommode | Das gute Geschirr bewahren wir in der Anrichte auf.
+la vitrina | Vitrine | Die Kristallgläser stehen in der Vitrine.
+el estor | Rollo, Store | Ich habe das Rollo heruntergelassen, um das Sonnenlicht abzuhalten.
+el zapatero | Schuhschrank | Stell deine Stiefel in den Schuhschrank im Flur.
+la mesita | Beistelltisch, kleiner Tisch | Auf dem Beistelltisch steht eine Tasse Tee.
+el biombo | Paravent, Raumteiler | Sie haben einen Paravent aufgestellt, um die Bereiche zu trennen.
+la funda | Bezug, Hülle | Ich habe heute Morgen den Kissenbezug gewaschen.
+## Küchen- und Badezimmerausstattung
+la campana extractora | Dunstabzugshaube | Schalte die Dunstabzugshaube ein, während du Fisch brätst.
+la vitrocerámica | Cerankochfeld, Induktionsherd | Ich habe das Cerankochfeld mit einem weichen Schwamm gereinigt.
+la batidora | Mixer, Pürierstab | Ich bereite Gemüsepüree mit dem Pürierstab zu.
+el hervidor | Wasserkocher | Der Wasserkocher erwärmt das Wasser in zwei Minuten.
+el calentador | Durchlauferhitzer, Boiler | Der Gasboiler funktioniert einwandfrei.
+el bidé | Bidet | Das Badezimmer hat eine Dusche und ein Bidet.
+el exprimidor | Zitruspresse, Entsafter | Wir benutzen die Zitruspresse, um Orangensaft zu machen.
+la mampara | Duschabtrennung, Duschwand | Sie haben eine Glasduschwand in der Dusche eingebaut.
+el desagüe | Abfluss | Das Wasser fließt langsam durch den Abfluss ab.
+el toallero | Handtuchhalter | Ich habe die sauberen Handtücher an den Handtuchhalter gehängt.
+## Hausarbeit und Reinigung
+ventilar | lüften | Man muss jeden Morgen das Zimmer lüften.
+desempolvar | Staub wischen, entstauben | Ich werde die Regale vorsichtig abstauben.
+la fregona | Bodenwischer, Mopp | Sie hat den Küchenboden mit dem Mopp gereinigt.
+la bayeta | Spültuch, Putztuch | Geh mit einem feuchten Putztuch über den Tisch.
+el estropajo | Topfschwamm, Spülschwamm | Benutze diesen Spülschwamm, um die Töpfe zu scheuern.
+la esponja | Schwamm | Ich habe die Badezimmerfliesen mit einem Schwamm gereinigt.
+tender la ropa | Wäsche aufhängen | Ich gehe auf die Dachterrasse, um die Wäsche aufzuhängen.
+doblar la ropa | Wäsche zusammenlegen | Hilf mir bitte, die saubere Wäsche zusammenzulegen.
+la lejía | Chlorreiniger, Bleichmittel | Wir desinfizieren den Boden mit etwas Chlorreiniger.
+la suciedad | Schmutz | Wir haben nach der Feier den gesamten angesammelten Schmutz beseitigt.
+## Reparaturen und Defekte
+estropearse | kaputtgehen | Die Klimaanlage geht im Sommer meistens kaputt.
+atascarse | verstopfen | Das Abflussrohr im Bad ist letzte Nacht wieder verstopft.
+desatascar | freimachen, entstopfen | Wir haben versucht, das Waschbecken mit heißem Wasser freizumachen.
+gotear | tropfen | Der Badewannenhahn hat angefangen zu tropfen.
+fundirse | durchbrennen | Die Flurglühbirne ist heute Nachmittag durchgebrannt.
+chirriar | quietschen | Die Wohnzimmertür hört nicht auf zu quietschen.
+el moho | Schimmel | An der Küchenwand ist schwarzer Schimmel.
+la grieta | Riss | Wir haben einen feinen Riss an der Zimmerdecke gesehen.
+el apagón | Stromausfall | Es gab im ganzen Viertel einen allgemeinen Stromausfall.
+el albañil | Maurer | Wir haben den Maurer gerufen, um die beschädigte Mauer zu reparieren.
+## Werkzeuge und Handwerkszeug
+el martillo | Hammer | Ich habe mit dem Hammer ein Bild in die Wand geschlagen.
+el destornillador | Schraubenzieher | Gib mir den Schraubenzieher, um diesen Tisch festzuziehen.
+el tornillo | Schraube | Für die Montage dieses Regals fehlt eine Schraube.
+el clavo | Nagel | Pass mit dem verrosteten Nagel im Holz auf.
+el taladro | Bohrmaschine | Er hat mit der Bohrmaschine ein Loch in die Wand gebohrt.
+la sierra | Säge | Er hat das Holzbrett mit einer Handsäge geschnitten.
+los alicates | Zange | Er hat die Zange benutzt, um den Draht zu biegen.
+la tuerca | Mutter (Gewinde) | Zieh die Mutter fest an, um das Rad zu fixieren.
+la cinta métrica | Maßband | Ich habe die Breite der Tür mit dem Maßband gemessen.
+la llave inglesa | Schraubenschlüssel, Franzose | Ich brauche einen Schraubenschlüssel, um die Mutter festzuziehen.
+## Wohnanlage und Gemeinschaftsflächen
+el ascensor | Aufzug, Fahrstuhl | Wir sind mit dem Aufzug in den vierten Stock gefahren.
+el buzón | Briefkasten | In meinem Briefkasten sind mehrere Bankbriefe.
+el portal | Hauseingang, Portal | Ich habe vor dem Hauseingang auf meinen Freund gewartet.
+el interfono | Gegensprechanlage | Ich habe an der Gegensprechanlage geklingelt, damit sie mir öffnen.
+la azotea | Dachterrasse | Wir sind auf die Dachterrasse gestiegen, um den Sonnenuntergang zu betrachten.
+el rellano | Treppenabsatz | Ich habe meine Nachbarin auf dem Treppenabsatz begrüßt.
+la fachada | Fassade | Sie haben die Fassade des Gebäudes hell angestrichen.
+la plaza de garaje | Stellplatz, Garagenplatz | Die Miete beinhaltet einen Tiefgaragenstellplatz.
+los gastos de comunidad | Nebenkosten, Hausgeld | Wir zahlen das Hausgeld jedes Quartal.
+la portería | Pförtnerloge, Hausmeisterloge | Ich habe ein dringendes Paket in der Hausmeisterloge abgegeben.
+## Nachbarschaftsbeziehungen und Regeln
+convivir | zusammenleben | Es ist wichtig, freundlich und geduldig zusammenzuleben.
+molestar | stören | Laute Musik stört oft die Nachbarn.
+la molestia | Unannehmlichkeit, Störung | Entschuldigung für die während der Renovierung verursachten Unannehmlichkeiten.
+saludar | grüßen | Wir pflegen, die neuen Nachbarn herzlich zu grüßen.
+cordial | herzlich, höflich | Wir pflegen einen herzlichen Umgang mit der ganzen Wohngemeinschaft.
+el aviso previo | Vorankündigung | Der Verwalter hat eine Vorankündigung bezüglich der Arbeiten geschickt.
+el horario de descanso | Ruhezeit | Wir müssen die nächtlichen Ruhezeiten einhalten.
+la comunidad de propietarios | Eigentümergemeinschaft | Die Eigentümergemeinschaft hat beschlossen, das Dach zu reparieren.
+el presidente de la comunidad | Hausverwalter, Vorsitzender der Eigentümergemeinschaft | Der Hausverwalter hat eine außerordentliche Versammlung einberufen.
+la norma de convivencia | Hausordnung, Zusammenlebensregel | Alle haben die Hausordnung des Gebäudes unterzeichnet.
+## Umzug und Einrichten
+mudarse | umziehen | Meine Familie wird in eine größere Wohnung umziehen.
+trasladarse | verlegen, umziehen | Sie haben beschlossen, aus beruflichen Gründen nach Valencia umzuziehen.
+embalar | einpacken, verpacken | Wir haben angefangen, die Bücher in stabile Kisten einzupacken.
+desembalar | auspacken | Wir haben den ganzen Nachmittag damit verbracht, Teller in der Küche auszupacken.
+instalarse | sich einrichten, einziehen | Es hat eine Woche gedauert, bis wir uns im neuen Zuhause eingerichtet hatten.
+cargar | laden, beladen | Die Arbeiter werden die Möbel in den Lkw laden.
+el camión de mudanzas | Umzugslkw | Der Umzugslkw kam morgens pünktlich an.
+la furgoneta | Lieferwagen, Transporter | Wir haben einen Transporter gemietet, um die Pflanzen zu transportieren.
+la cinta de embalar | Klebeband, Paketband | Ich brauche mehr Paketband, um dieses Paket zu verschließen.
+las pertenencias | Hab und Gut, persönliche Sachen | Er hat all seine persönlichen Sachen sehr sorgfältig aufbewahrt.
