@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve tasarım
+il progetto esecutivo | uygulama projesi | isim (e) | Senza il progetto esecutivo approvato l'impresa non può iniziare i lavori. | Onaylı uygulama projesi olmadan firma işe başlayamaz.
+la planimetria | vaziyet planı, kat planı | isim (d) | Nella planimetria del piano terra mancano le misure del bagno. | Zemin kat planında banyonun ölçüleri eksik.
+il prospetto | cephe görünüşü | isim (e) | Il prospetto sud mostra le nuove finestre e il balcone in acciaio. | Güney cephe görünüşü yeni pencereleri ve çelik balkonu gösteriyor.
+la sezione | kesit | isim (d) | La sezione trasversale chiarisce l'altezza di ogni piano dell'edificio. | Enine kesit binanın her katının yüksekliğini netleştiriyor.
+il computo metrico | metraj, keşif | isim (e) | Il computo metrico stima con precisione le quantità di calcestruzzo e acciaio. | Metraj beton ve çelik miktarlarını kesin olarak tahmin ediyor.
+il capitolato d'appalto | ihale şartnamesi | isim (e) | Il capitolato d'appalto stabilisce materiali, tempi e penali per i ritardi. | İhale şartnamesi malzemeleri, süreleri ve gecikme cezalarını belirliyor.
+la variante | proje değişikliği, tadilat | isim (d) | Il committente ha chiesto una variante per aggiungere un piano interrato. | İşveren bir bodrum kat eklemek için proje değişikliği istedi.
+la direzione lavori | yapı denetim, kontrol mühendisliği | isim (d) | La direzione lavori ha bloccato il getto perché l'armatura non era conforme. | Kontrol mühendisliği donatı uygun olmadığı için beton dökümünü durdurdu.
+il permesso di costruire | yapı ruhsatı | isim (e) | Il comune ha rilasciato il permesso di costruire dopo sei mesi di attesa. | Belediye altı aylık bekleyişin ardından yapı ruhsatını verdi.
+il committente | işveren, iş sahibi | isim (e) | Il committente vuole consegnare gli appartamenti entro la fine dell'anno. | İşveren daireleri yıl sonuna kadar teslim etmek istiyor.
+## Taşıyıcı sistem
+la trave | kiriş | isim (d) | La trave principale poggia su due pilastri di cemento armato. | Ana kiriş iki betonarme kolona oturuyor.
+il pilastro | kolon | isim (e) | L'ingegnere ha notato una crepa sottile alla base del pilastro. | Mühendis kolonun dibinde ince bir çatlak fark etti.
+il solaio | döşeme | isim (e) | Il solaio in laterocemento deve sopportare il peso della nuova biblioteca. | Asmolen döşeme yeni kütüphanenin ağırlığını taşımalı.
+la fondazione | temel | isim (d) | Le fondazioni sono state progettate tenendo conto del terreno argilloso. | Temeller killi zemin dikkate alınarak tasarlandı.
+il plinto | tekil temel | isim (e) | Ogni pilastro della tettoia scarica il peso su un plinto isolato. | Sundurmanın her kolonu yükünü bir tekil temele aktarıyor.
+la platea di fondazione | radye temel | isim (d) | Su un terreno così debole conviene realizzare una platea di fondazione. | Bu kadar zayıf bir zeminde radye temel yapmak uygun olur.
+il cemento armato | betonarme | isim (e) | Gli edifici in cemento armato si diffusero in Italia dopo il 1910. | Betonarme binalar İtalya'da 1910'dan sonra yaygınlaştı.
+il setto | perde duvar | isim (e) | Il vano scala è irrigidito da setti in cemento armato. | Merdiven boşluğu betonarme perde duvarlarla rijitleştirilmiş.
+la soletta | döşeme plağı | isim (d) | La soletta del balcone è spessa venti centimetri. | Balkonun döşeme plağı yirmi santim kalınlığında.
+lo sbalzo | konsol, çıkma | isim (e) | La terrazza a sbalzo sembra sospesa nel vuoto sopra il lago. | Konsol teras gölün üzerinde boşlukta asılı gibi duruyor.
+## Malzemeler
+il calcestruzzo | beton | isim (e) | Il calcestruzzo deve essere protetto dal gelo nei primi giorni di maturazione. | Beton prizin ilk günlerinde dondan korunmalıdır.
+il ferro d'armatura | inşaat demiri, donatı | isim (e) | Il ferro d'armatura arriva in cantiere già tagliato e piegato. | İnşaat demiri şantiyeye kesilmiş ve bükülmüş olarak geliyor.
+la casseforma | kalıp (beton) | isim (d) | Prima del getto controlliamo che la casseforma sia ben fissata. | Dökümden önce kalıbın iyice sabitlendiğini kontrol ediyoruz.
+il laterizio | tuğla, pişmiş toprak malzeme | isim (e) | Le pareti esterne sono in laterizio forato con cappotto isolante. | Dış duvarlar ısı yalıtımlı delikli tuğladan.
+la malta | harç | isim (d) | Il muratore prepara la malta con sabbia, cemento e acqua. | Duvarcı harcı kum, çimento ve suyla hazırlıyor.
+l'intonaco (e) | sıva | isim (e) | L'intonaco della facciata si è staccato a causa dell'umidità. | Cephe sıvası nem yüzünden döküldü.
+il cartongesso | alçıpan | isim (e) | Le pareti divisorie degli uffici sono realizzate in cartongesso. | Ofislerin bölme duvarları alçıpandan yapılmış.
+l'isolante termico (e) | ısı yalıtım malzemesi | isim (e) | Uno strato di isolante termico riduce molto i consumi invernali. | Bir kat ısı yalıtım malzemesi kış tüketimini çok azaltır.
+la guaina impermeabilizzante | su yalıtım membranı | isim (d) | Sul tetto piano abbiamo steso una guaina impermeabilizzante nuova. | Düz çatıya yeni bir su yalıtım membranı serdik.
+l'inerte (e) | agrega | isim (e) | La qualità dell'inerte influisce sulla resistenza del calcestruzzo. | Agreganın kalitesi betonun dayanımını etkiler.
+## Şantiye
+il capocantiere | şantiye şefi | isim (e) | Il capocantiere controlla ogni mattina la presenza delle squadre. | Şantiye şefi her sabah ekiplerin yoklamasını yapıyor.
+il ponteggio | iskele | isim (e) | Il ponteggio deve essere ispezionato dopo ogni forte temporale. | İskele her şiddetli fırtınadan sonra denetlenmelidir.
+la betoniera | betoniyer | isim (d) | La betoniera è rimasta bloccata nel fango all'ingresso del cantiere. | Betoniyer şantiye girişinde çamura saplandı.
+lo scavo | kazı | isim (e) | Durante lo scavo sono emersi resti di una villa romana. | Kazı sırasında bir Roma villasının kalıntıları ortaya çıktı.
+il getto | beton dökümü | isim (e) | Il getto del secondo solaio è previsto per giovedì mattina. | İkinci döşemenin beton dökümü perşembe sabahı için planlandı.
+il collaudo statico | statik kabul muayenesi | isim (e) | Il collaudo statico ha confermato la sicurezza della nuova passerella. | Statik kabul muayenesi yeni yaya köprüsünün güvenliğini doğruladı.
+il cronoprogramma | iş programı | isim (e) | Il maltempo ci ha fatto perdere due settimane sul cronoprogramma. | Kötü hava iş programında iki hafta kaybettirdi.
+lo stato di avanzamento lavori | hakediş (iş ilerleme durumu) | isim (e) | Il pagamento avviene a ogni stato di avanzamento lavori approvato. | Ödeme onaylanan her hakedişte yapılıyor.
+il subappalto | taşeronluk | isim (e) | L'impresa ha affidato in subappalto gli impianti elettrici. | Firma elektrik tesisatını taşerona verdi.
+la gru a torre | kule vinç | isim (d) | La gru a torre solleva i pannelli prefabbricati fino al decimo piano. | Kule vinç prefabrik panelleri onuncu kata kadar kaldırıyor.
+## Tesisat
+l'impianto elettrico (e) | elektrik tesisatı | isim (e) | L'impianto elettrico va certificato da un tecnico abilitato. | Elektrik tesisatı yetkili bir teknisyen tarafından belgelendirilmelidir.
+l'impianto idraulico (e) | sıhhi tesisat | isim (e) | Abbiamo rifatto tutto l'impianto idraulico con tubi multistrato. | Bütün sıhhi tesisatı çok katmanlı borularla yeniledik.
+il quadro elettrico | elektrik panosu | isim (e) | Il quadro elettrico generale si trova nel locale tecnico al piano terra. | Ana elektrik panosu zemin kattaki teknik odada.
+la canna fumaria | baca | isim (d) | La canna fumaria deve superare il colmo del tetto di almeno un metro. | Baca çatı mahyasını en az bir metre aşmalıdır.
+la tubazione | boru hattı | isim (d) | Una perdita nella tubazione ha allagato il garage condominiale. | Boru hattındaki bir kaçak apartmanın garajını su bastırdı.
+la messa a terra | topraklama | isim (d) | Senza una corretta messa a terra l'impianto non può essere collaudato. | Doğru bir topraklama olmadan tesisat kabul edilemez.
+il pozzetto | rögar, muayene bacası | isim (e) | Il pozzetto d'ispezione permette di controllare le acque di scarico. | Muayene bacası atık suların kontrol edilmesini sağlar.
+il riscaldamento a pavimento | yerden ısıtma | isim (e) | Il riscaldamento a pavimento distribuisce il calore in modo uniforme. | Yerden ısıtma ısıyı eşit biçimde dağıtır.
+la ventilazione meccanica | mekanik havalandırma | isim (d) | La ventilazione meccanica ricambia l'aria senza aprire le finestre. | Mekanik havalandırma pencereleri açmadan havayı yeniler.
+la pompa di calore | ısı pompası | isim (d) | La nuova pompa di calore ha sostituito la vecchia caldaia a gasolio. | Yeni ısı pompası eski mazotlu kazanın yerini aldı.
+## Mimari öğeler
+la facciata | cephe | isim (d) | La facciata della chiesa è rivestita di marmo bianco e verde. | Kilisenin cephesi beyaz ve yeşil mermerle kaplı.
+il porticato | revaklı galeri | isim (e) | A Bologna si può camminare per chilometri sotto il porticato. | Bologna'da kilometrelerce revakların altında yürünebilir.
+la volta | tonoz | isim (d) | La volta della cantina è costruita in mattoni a vista. | Mahzenin tonozu çıplak tuğladan yapılmış.
+la cupola | kubbe | isim (d) | La cupola del Brunelleschi fu costruita senza centina. | Brunelleschi'nin kubbesi iskele kemeri kullanılmadan inşa edildi.
+l'arco a tutto sesto (e) | yarım daire kemer | isim (e) | L'arco a tutto sesto è tipico dell'architettura romana e romanica. | Yarım daire kemer Roma ve Romanesk mimarisine özgüdür.
+il timpano | alınlık | isim (e) | Il timpano del tempio è decorato con statue di divinità. | Tapınağın alınlığı tanrı heykelleriyle süslenmiş.
+il capitello | sütun başlığı | isim (e) | Ogni capitello del chiostro presenta animali scolpiti diversi. | Avlu revakının her sütun başlığında farklı oyma hayvanlar var.
+la navata | nef (kilise) | isim (d) | La cattedrale ha tre navate separate da file di colonne. | Katedralin sütun sıralarıyla ayrılmış üç nefi var.
+l'abside (d) | apsis | isim (d) | L'abside è decorata da un mosaico bizantino del dodicesimo secolo. | Apsis on ikinci yüzyıldan bir Bizans mozaiğiyle süslü.
+il cornicione | saçak silmesi, korniş | isim (e) | Un pezzo del cornicione è caduto sul marciapiede durante la notte. | Gece saçak silmesinin bir parçası kaldırıma düştü.
+## Mimari üsluplar
+il romanico | Romanesk üslup | isim (e) | Il romanico pugliese unisce influenze normanne, bizantine e arabe. | Puglia Romanesk'i Norman, Bizans ve Arap etkilerini birleştirir.
+il gotico | Gotik | isim (e) | Il gotico italiano è meno verticale di quello francese. | İtalyan Gotiği Fransız Gotiğinden daha az dikeydir.
+rinascimentale | Rönesans dönemine ait | sıfat | Il palazzo rinascimentale ospita oggi una biblioteca civica. | Rönesans sarayı bugün bir kent kütüphanesine ev sahipliği yapıyor.
+palladiano | Palladio üslubunda | sıfat | Le ville palladiane del Veneto sono patrimonio dell'umanità. | Veneto'daki Palladio üslubu villalar dünya mirasıdır.
+il razionalismo | rasyonalizm (mimari) | isim (e) | Il razionalismo italiano degli anni Trenta predilige forme semplici e funzionali. | Otuzlu yılların İtalyan rasyonalizmi sade ve işlevsel biçimleri tercih eder.
+il brutalismo | brütalizm | isim (e) | Il brutalismo lascia il cemento a vista come elemento espressivo. | Brütalizm çıplak betonu ifade öğesi olarak bırakır.
+l'ordine dorico (e) | Dor düzeni | isim (e) | Le colonne del tempio di Paestum seguono l'ordine dorico. | Paestum tapınağının sütunları Dor düzenini izler.
+il restauro conservativo | koruma amaçlı restorasyon | isim (e) | Il restauro conservativo ha rispettato i materiali originali del chiostro. | Koruma amaçlı restorasyon avlunun özgün malzemelerine saygı gösterdi.
+la bioarchitettura | biyomimarlık, ekolojik mimarlık | isim (d) | La bioarchitettura usa materiali naturali come legno, paglia e calce. | Ekolojik mimarlık ahşap, saman ve kireç gibi doğal malzemeler kullanır.
+l'archistar (d) | ünlü yıldız mimar | isim (d) | Il comune ha affidato il nuovo museo a un'archistar internazionale. | Belediye yeni müzeyi uluslararası bir yıldız mimara emanet etti.
+## Yapı türleri ve bölümleri
+la palazzina | küçük apartman | isim (d) | Abitiamo in una palazzina di tre piani con giardino condominiale. | Ortak bahçeli üç katlı küçük bir apartmanda oturuyoruz.
+il capannone | sanayi yapısı, depo binası | isim (e) | Il capannone industriale è stato convertito in uno spazio per concerti. | Sanayi yapısı bir konser mekânına dönüştürüldü.
+la villetta a schiera | sıra ev | isim (d) | Hanno comprato una villetta a schiera alla periferia di Padova. | Padova'nın kenarında bir sıra ev aldılar.
+il rustico | kır evi (bitmemiş, restore edilecek) | isim (e) | Hanno ristrutturato un vecchio rustico tra le colline del Chianti. | Chianti tepelerinde eski bir kır evini restore ettiler.
+il sottotetto | çatı arası | isim (e) | Il sottotetto è stato reso abitabile con nuove finestre a tetto. | Çatı arası yeni çatı pencereleriyle yaşanabilir hâle getirildi.
+il seminterrato | yarı bodrum kat | isim (e) | Il seminterrato ospita la palestra e il locale caldaia. | Yarı bodrum katta spor salonu ve kazan dairesi bulunuyor.
+il vano scala | merdiven boşluğu | isim (e) | Nel vano scala è stato installato un nuovo ascensore. | Merdiven boşluğuna yeni bir asansör kuruldu.
+il lastrico solare | düz teras çatı | isim (e) | Il lastrico solare è usato dai condomini per stendere i panni. | Düz teras çatı apartman sakinlerince çamaşır asmak için kullanılıyor.
+il piano pilotis | pilotili zemin kat | isim (e) | L'edificio poggia su un piano pilotis che lascia libero il passaggio. | Bina geçişi serbest bırakan pilotili bir zemin kata oturuyor.
+la tettoia | sundurma | isim (d) | Una tettoia in legno protegge le biciclette dalla pioggia. | Ahşap bir sundurma bisikletleri yağmurdan koruyor.
+## İnşaat fiilleri
+edificare | inşa etmek (resmî) | fiil | La chiesa fu edificata sui resti di un antico tempio pagano. | Kilise eski bir pagan tapınağının kalıntıları üzerine inşa edildi.
+erigere (eretto) | dikmek, inşa etmek | fiil · düzensiz | In piazza è stato eretto un monumento ai caduti della guerra. | Meydana savaşta ölenler için bir anıt dikildi.
+consolidare | sağlamlaştırmak, güçlendirmek | fiil | Dopo il terremoto è stato necessario consolidare le murature portanti. | Depremden sonra taşıyıcı duvarları güçlendirmek gerekti.
+puntellare | payandayla desteklemek | fiil | I vigili del fuoco hanno puntellato la casa pericolante. | İtfaiyeciler yıkılmak üzere olan evi payandalarla destekledi.
+demolire | yıkmak | fiil | Il vecchio mercato coperto sarà demolito per costruire un parcheggio. | Eski kapalı çarşı bir otopark yapmak için yıkılacak.
+intonacare | sıvamak | fiil | Prima di intonacare bisogna bagnare bene la parete di mattoni. | Sıvamadan önce tuğla duvarı iyice ıslatmak gerekir.
+impermeabilizzare | su yalıtımı yapmak | fiil | Bisogna impermeabilizzare il terrazzo prima delle piogge autunnali. | Sonbahar yağmurlarından önce terasın su yalıtımını yapmak gerekiyor.
+livellare | tesviye etmek, düzlemek | fiil | Le ruspe hanno livellato il terreno per la nuova strada. | Kepçeler yeni yol için araziyi düzledi.
+gettare le fondamenta | temel atmak | ifade | Abbiamo gettato le fondamenta della scuola prima dell'inverno. | Kış gelmeden okulun temelini attık.
+tamponare | (boşluğu) örmek, kapatmak | fiil | Le vecchie finestre del magazzino sono state tamponate con mattoni. | Deponun eski pencereleri tuğlayla örüldü.
+## Mevzuat ve güvenlik
+la normativa antisismica | deprem yönetmeliği | isim (d) | Tutti i nuovi edifici devono rispettare la normativa antisismica. | Bütün yeni binalar deprem yönetmeliğine uymak zorunda.
+l'adeguamento sismico (e) | deprem güçlendirmesi | isim (e) | La scuola è chiusa per lavori di adeguamento sismico. | Okul deprem güçlendirme çalışmaları nedeniyle kapalı.
+il dispositivo di protezione individuale | kişisel koruyucu donanım | isim (e) | Senza dispositivi di protezione individuale nessuno può entrare in cantiere. | Kişisel koruyucu donanım olmadan kimse şantiyeye giremez.
+l'abuso edilizio (e) | kaçak yapı | isim (e) | Il comune ha ordinato la demolizione di un abuso edilizio sulla costa. | Belediye kıyıdaki bir kaçak yapının yıkılmasını emretti.
+il condono edilizio | imar affı | isim (e) | Con il condono edilizio molti proprietari hanno regolarizzato le verande. | İmar affıyla pek çok mal sahibi kapalı balkonlarını yasallaştırdı.
+il piano regolatore | imar planı | isim (e) | Il nuovo piano regolatore vieta di costruire vicino al fiume. | Yeni imar planı nehir yakınında inşaatı yasaklıyor.
+l'attestato di prestazione energetica (e) | enerji kimlik belgesi | isim (e) | Per vendere casa serve l'attestato di prestazione energetica aggiornato. | Ev satmak için güncel enerji kimlik belgesi gerekiyor.
+l'agibilità (d) | iskân izni | isim (d) | Senza il certificato di agibilità non è possibile abitare l'immobile. | İskân belgesi olmadan taşınmazda oturmak mümkün değil.
+la sicurezza in cantiere | şantiyede iş güvenliği | isim (d) | Il coordinatore della sicurezza in cantiere visita i lavori ogni settimana. | Şantiye iş güvenliği koordinatörü işleri her hafta ziyaret ediyor.
+il cedimento strutturale | yapısal göçme | isim (e) | Il crollo è stato causato da un cedimento strutturale delle fondazioni. | Çöküşe temellerdeki yapısal bir göçme neden oldu.
