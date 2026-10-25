@@ -1,0 +1,111 @@
+# UNIT: Sezgi va tasvirlar | Ovoz, yorugʻlik, rang, toʻqima, ta'm va hid
+## Eshitish sezgisi
+timbre | ovoz tusi, tembr | Oʻsha ayolning ovoz tusi sirli tuyulardi.
+estridencia | quloqni qarsillatuvchi tovush | Metallik quloqni qarsillatuvchi tovush tonggi osoyishtalikni buzdi.
+murmullo | pichirlash, sharillash | Daryoning sharillashi sayyohlarni uxlatardi.
+resonancia | aks sado, rezonans | Akustik aks sado har bir notani kuchaytirardi.
+silbido | hushtak, fiy-fiy | Baland derazalardan shamol hushtagi esib oʻtayotgandi.
+estrépito | gumburlash, shovqin | Boʻgʻiq gumburlash tosh poydevorlarni lillatdi.
+susurro | shivir-shivir, pichirlash | Qorongʻi xonadan past ovozdagi shivir-shivir oʻtayotgandi.
+fragor | gupur, toʻqnashuv sovozi | Dengiz gupuri kulrang qoyalarga urilardi.
+resonar | aks sado bermoq | Qoʻngʻiroqlar oʻzining chuqur aks sadosini tarqatardi.
+crepitar | qarsillab yonmoq | Quruq oʻtinlar quvnoqlik bilan qarsillay boshladi.
+## Koʻrish sezgisi
+luminancia | yorqinlik, lyuminans | Yuqori yorqinlik tashrif buyuruvchilarni koʻr qilib qoʻyayotgandi.
+penumbra | yarim qorongʻulik, shom | Sirli shom qadimgi sirlarni saqlab turgandi.
+iridiscencia | tovlanish, rang-baranglik | Tovlanuvchi rang oʻyini rassomni lol qoldirardi.
+opacidad | xiralik, shaffofmaslik | Toshning xiraligi ichki qismni koʻrishga monelik qilardi.
+claroscuro | yorugʻ-soya uygʻunligi | Tasviriy yorugʻ-soya uygʻunligi dramatiklikni oshirardi.
+resplandor | shafaq nuri, yogʻdu | Tonggi yogʻdu kun chiqishidan darak berardi.
+claror | tonggi yorugʻlik, nur | Ertalabki yorugʻlik sovuq soyalarni tarqatib yubordi.
+brillo | yaltiroqlik, yorugʻlik | Metallning yaltiroqligi tepadagi yorugʻlik ostida yaqqol koʻrinardi.
+tonificar | tus bermoq, jonlantirmoq | Matohdagi iliq ranglarga tus berishing kerak.
+oscurecer | qorongʻulashmoq | Quyuq bulutlar ufqni qorongʻulasha boshladi.
+## Rang tuslari
+carmín | toʻq qizil, la'l rang | Charchagan yonoqlarni toʻq qizil tus egalladi.
+añil | toʻq koʻk, indigo | Indigo boʻyogʻi marosim kiyimlarini boʻyardi.
+malva | toʻq pushti-siyohrang, gulxayri rangi | Gulxayri dalalari unumdor vodiyga koʻrk bagʻishlardi.
+turquesa | firuza, moviy | Firuza dengiz tushki yorugʻlikni aks ettirardi.
+esmeralda | zumrad yashil | Uning zumrad yashil nigohi barchani maftun etardi.
+ámbar | qahrabo rangi | Qahrabo qatroni oʻzidan xushboʻy hid taratardi.
+ocre | oxra, sariq-qoʻngʻir tus | Qadimiy devorlarda oxra rangi ustunlik qilardi.
+cardenillo | mis zangi, yashil kislota rangi | Eski bronza haykallarni mis zangi qoplagandi.
+colorear | boʻyamoq, rang bermoq | Eskizlarni yumshoq akvarel bilan boʻyashni afzal koʻraman.
+decolorar | rangini oʻchirmoq | Yoz quyoshi nafis matolarning rangini odatda oʻchiradi.
+## Toʻqima xususiyatlari
+aspereza | gʻadir-budurlik, dagʻallik | Toshning gʻadir-budurligi yalangʻoch qoʻllarni jarohatlardi.
+rugosidad | burmalanganlik, gʻadir-budurlik | Poʻstloqdagi burmalanganlik katta yoshda ekanini bildirar edi.
+terciopelo | baxmal toʻqima | Baxmalning siypalashi asabni tinchlantirardi.
+tersura | silliqlik, mayinlik | Terining silliqligi abadiy yoshlikdan darak berardi.
+suavidad | ipakdek yumshoqlik | Ipakdek yumshoqlik nozik terini erkalardi.
+consistencia | quyuqlik, mustahkamlik | Jelatinqari quyuqlik shirinlikni quyuqlashtirardi.
+viscosidad | yopishqoqlik, qovushqoqlik | Yogʻli yopishqoqlik tozalashni qiyinlashtirardi.
+textura | faktura, toʻqima | Gʻadir-budur toʻqima relyefga realistik tus berardi.
+alisar | tekislamoq, silliqlamoq | Lak surtishdan oldin yogʻochni silliqlashingiz kerak.
+acariciar | siypalamoq, erkalatmoq | U oʻsimlikning yosh barglarini siypalashni yaxshi koʻrardi.
+## Ta'm bilish sezgisi
+amargor | achchiqlik, talx ta'm | Oʻtkir achchiqlik oʻsha yovvoyi mevaga xos edi.
+dulzor | shirinlik | Tabiiy shirinlik dasturxon atrofidagilarga yoqardi.
+acidez | nordonlik, kislotalilik | Sitrus mevalarning nordonligi yoz oqshomlarini tetiklashtirardi.
+salinidad | shoʻrlik, tuz miqdori | Yuqori shoʻrlik oʻsimliklar rivojlanishiga toʻsqinlik qilardi.
+umami | umami, mazali goʻsht ta'mi | Umami ta'mi an'anaviy shoʻrvani boyitardi.
+astringencia | ta'tir, qarsillagan talxlik | Mevaning ta'tiri tilni quruq qoldirardi.
+sabor | ta'm, lazzat | Har bir uy ovqatida oʻzgacha ta'm qidirardi.
+gusto | did, zavq | Uning nozik pazandachilik didi doston edi.
+probar | tatib koʻrmoq, sinab koʻrmoq | Mahalliy taomlarni tatib koʻrish uchun kelishdi.
+saborear | lazzatlanib yemoq, mazza qilib totmoq | Har bir mazali luqmani sekin-asta lazzatlanib yemoq kerak.
+## Hid bilish sezgisi
+fragancia | xushboʻy hid, atir | Gulning xushboʻy hidi Andalusiya hovlisini egallagandi.
+hedor | sassiq hid, qoʻlansa hid | Qorongʻi koʻchadan koʻngilni aynituvchi sassiq hid tarqalayotgandi.
+aroma | ifor, xushboʻy hid | Qovurilgan ifor uyqudagi ishtahani uygʻotardi.
+tufo | badboʻy hid, sovib qolgan hid | Eski badboʻy hid joyning tashlab ketilganini fosh etardi.
+perfume | atir, xushboʻy atir | Uning yengil atir hidi Tibet muhitida saqlanib qolgandi.
+emanación | gaz chiqishi, bugʻlanish | Oltingugurtli bugʻlanish vulqon faolligidan darak berardi.
+pestilencia | qoʻlansa hid, sassiq sasigʻlik | Badboʻy hid xonalarni shamollatishni majburiy qildi.
+efluvio | xushboʻy tarovat, tarqalish | Balsamik tarovat jazavaga tushgan ruhlarni tinchlantirardi.
+olfatear | hidlab koʻrmoq, izlamoq | Sadoqatli kuchuk nam izni hidlay boshladi.
+impregnar | singib ketmoq, qoplamoq | Tutun zigʻir pardalarga singib ketishga muvaffaq boʻldi.
+## His-tuygʻu va sezish
+tacto | tuygʻu, ushlab koʻrish sezgisi | Uning nozik tuygʻusi mato choklarini sezardi.
+palpación | paypaslab koʻrish, tibbiy tekshiruv | Tibbiy paypaslash ogʻriqli hududni aniqladi.
+contacto | tikanish, issiqlik kontakti | Issiqlik kontakti juda baland isitma borligini koʻrsatdi.
+roce | yengil tegish, ishqalinish | Qoʻllarning yengil tegishi etni junjiktirdi.
+presión | bosim, zoʻriqish | Mexanizmni ishga tushirish uchun yengil bosim kifoya qilardi.
+vibración | tebranish, lillash | U oyogʻi ostidagi yerning yengil tebranishini his qildi.
+consunción | ozib ketish, holdan toshish | Jismoniy holsizlanish uning yaqinlarini tashvishga solardi.
+sensibilidad | sezgirlik, ta'sirchanlik | Uning kuchli san'atga sezgirligi noyob tuslarni ilgʻardi.
+palpar | paypaslab koʻrmoq, qoʻl bilan qidirmoq | U mutlaq qorongʻulikda yuzani paypaslab koʻrmoqchi boʻldi.
+rozar | yengil tegib oʻtmoq, ishqalanmoq | Past shoxlar iflos oynalarga yengil tegib turardi.
+## Nuanslar va sifat
+matiz | nuans, nozik farq | Har bir rang nuansi shoh asarni boyitardi.
+tenuidad | nafislik, nihoyatda yengillik | Uning oʻta nozikligi tinglovchilarni dovdiratib qoʻygandi.
+delicadeza | noziklik, zarafonlik | Qadimiy chinni idishni katta noziklik bilan tutardi.
+nitidez | aniqlik, tiniqlik | Visual aniqlik har bir detalni ajratib olish imkonini berardi.
+plenitud | toʻliqlik, barkamollik | Ijodiy va hissiy toʻliqlikda yashar edi.
+esencia | mohiyat, gul seli | Gul mohiyatini qamrab olish nozik qozonni talab qilardi.
+quintaesencia | sof mohiyat, eng sara qism | Estetik nafislikning sof mohiyati edi.
+perfección | mukammallik | Har bir kundalik chiziqda texnik mukammallikni qidirardi.
+tonalizar | tus bermoq, ohang bermoq | Nashr qilishdan oldin tushunchaga tus berish kerak.
+refinar | tozalamoq, saralamoq | Ular sabr bilan efir moylarini tozalashga erishdilar.
+## Estetik idrok
+armonía | uygʻunlik, garmoniya | Ranglar uygʻunligi tomoshabinni hayajonlantirardi.
+proporción | mutanosiblik, proporsiya | Mukammal oltin nisbat dizaynga yoʻnalish berardi.
+equilibrio | muvozanat | Visual muvozanat darhol xotirjamlik olib kelardi.
+fineza | nafosat, zarafot | Uning tabiiy zarafoti madaniyatli zalda ajralib turardi.
+sobriedad | vazminlik, soddalik | Rasmiy vazminlik uning adabiy uslubiga xos edi.
+majestad | ulugʻvorlik, shavkat | Me'moriy ulugʻvorlik barchani hayratda qoldirardi.
+gracia | joziba, nafosat | Harakatlanayotgan paytdagi inkor etib boʻlmas jozibasi doim maftun etardi.
+belleza | goʻzallik | Shimoliy tabiatning vahshiy goʻzalligini tomosha qilardi.
+embellecer | goʻzallashtirmoq | Xira chiroqlar xonani goʻzallashtirishga muvaffaq boʻlardi.
+cautivar | maftun etmoq, rom qilmoq | Uning ohangrabo ovozi ommani maftun etishga erishardi.
+## Murakkab sezgilar
+sinestesia | sinesteziya | Uning gʻalati sinesteziyasi musiqa tovushlarini koʻrishiga sabab boʻlardi.
+percepción | idrok, sezish | Hissiy idrok har bir insonga qarab oʻzgarib turadi.
+estímulo | ragʻbat, qoʻzgʻatuvchi | Har bir tashqi qoʻzgʻatuvchi bir nechta sezgini faollashtirardi.
+sensación | tuygʻu, his | Xonaga sovuqlikning gʻalati hissi tarqaldi.
+experiencia | tajriba | Oʻsha hayotiy tajriba uning estetik dunyoqarashini kengaytirdi.
+intuición | sezgi, farosat | Uning oʻtkir sezgisi yashirin nuanslarni topardi.
+impresión | taassurot, iz | Birinchi vizual taassurot oʻchmas boʻlib chiqdi.
+conciencia | ong, hushyorlik | U chuqur ekologik ongni rivojlantirdi.
+distinguir | farqlamoq, ajratib olmoq | Sharobning eng nozik iforlarini ajratib olishga erishardi.
+experimentar | tajriba qilmoq, sinab koʻrmoq | Yangi teginish toʻqimalari bilan tajriba oʻtkaza boshladi.

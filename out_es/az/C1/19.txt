@@ -1,0 +1,111 @@
+# UNIT: Nitq bağlayıcıları | İrəli bağlayıcılar, izahat, struktur və baxış işarələri
+## İzahat işarələri
+vale_decir | yəni, başqa sözlə | Müqavilə uğursuz oldu, yəni uzlaşma əldə olunmadı.
+a_saber | məhz, yəni | Üç prioritet var, yəni: təhsil, səhiyyə və məşğulluq.
+es_decir | yəni, demək ki | Demək ki, təklif hər kəs tərəfindən qəbul edildi.
+en_efecto | həqiqətən də, əslində | Həqiqətən də, məlumatlar fərziyyəni təsdiqləyir.
+o_sea | yəni, başqa bir ifadə ilə | Yəni, strategiyanı yenidən nəzərdən keçirməliyik.
+por_ejemplo | məsələn | Müxtəlif seçimlər var, məsələn, təchizatçını dəyişdirmək.
+esto_es | yəni, digər sözlə desək | Resurslar çatışmır, yəni maliyyələşdirməyə ehtiyacımız var.
+vale_mencionarlo | qeyd etmək lazımdır ki | Qeyd etmək lazımdır ki, müddət sabah bitir.
+en_concreto | konkret olaraq | İnvestisiyalardan danışırıq, konkret olaraq texnologiyaya.
+básicamente | əsasən, təməl olaraq | Sistem əsasən rəqəmsal bir filtrdir.
+## Qarşılaşdırma bağlayıcıları
+no_obstante | bununla belə, yenə də | Gecikmələr oldu; yenə də vaxtında bitirdik.
+sin_embargo | ancaq, lakin | Layihə mürəkkəbdir; ancaq həyata keçirilə biləndir.
+a_pesar_de_todo | hər şeyə rəğmən | Hər şeyə rəğmən sakitliklərini qorudular.
+por_el_contrario | əksinə | Asan deyil; əksinə, çox səy tələb edir.
+en_cambio | buna qarşılıq, digər tərəfdən | Juan çox çalışır; buna qarşılıq Pedro dincəlir.
+antes_bien | əksinə, bəlkə də | Təslim olmadı; əksinə, səyini ikiqat artırdı.
+aun_así | yenə də, buna baxmayaraq | Çox yağırdı; yenə də gəzməyə çıxdılar.
+con_todo | bununla birlikdə, hər halda | Bununla birlikdə, nəticə qənaətbəxş dərəcədə yüksək idi.
+bien_es_verdad_que | o da həqiqətdir ki | İlkin məlumatların çatışmadığı da bir həqiqətdir.
+si_bien | hər nə qədər (... olsa da) | Xərc yüksək olsa da, keyfiyyət bunu kompensasiya edir.
+## Səbəb və nəticə
+por_lo_tanto | buna görə də, nəticə etibarilə | Kvorum çatışmırdı; buna görə də iclas təxirə salındı.
+en_consecuencia | nəticə etibarilə | Qaydaları pozdu; nəticə etibarilə cəzalandırıldı.
+por_consiguiente | buna görə də, dolayısilə | Texniki xəta baş vermişdi; buna görə də yenidən başladıldı.
+así_pues | beləliklə | Müddət bitdi; beləliklə qeydiyyatı bağladıq.
+de_ahí_que | məhz buna görə də | Büdcə çatışmırdı; məhz buna görə də planı rədd etdilər.
+en_virtud_de_lo_cual | bu səbəbdən, buna əsasən | Uzlaşma əldə olundu; buna əsasən pakt imzalandı.
+por_esta_razón | bu səbəbdən ötəri | Bu səbəbdən ötəri qanun maddəsi dəyişdirildi.
+en_razón_de_ello | bundan ötrü, buna görə | İmzalar çatışmırdı; buna görə də prosedur ləngidi.
+motivo_por_el_cual | hansı səbəbdən ki | Sızıntılar oldu, hansı səbəbdən ki araşdırılır.
+de_este_modo | bu üsulla, beləliklə | Prosesləri avtomatlaşdırdılar; bu üsulla vaxt qazandılar.
+## Ümumiləşdirmə və sıralama
+en_primer_lugar | ilk növbədə, hər şeydən əvvəl | İlk növbədə, hesabları audit etməliyik.
+en_segundo_lugar | ikinci olaraq | İkinci olaraq, sosial təsiri qiymətləndirəcəyik.
+por_último | son olaraq | Son olaraq, qəti müqaviləni imzalayacağıq.
+para_terminar | sözün bitdiyi yerdə, sonda | Sonda əməkdaşlığınız üçün təşəkkür etmək istəyirəm.
+en_resumen | xülasə, qısaca | Xülasə, strategiya yaxşı bəhrə verdi.
+en_suma | qısası, xülasə olaraq | Qısası, çox məhsuldar bir konqres idi.
+a_modo_de_conclusión | nəticə olaraq | Nəticə olaraq, texnologiya sektoru böyüyür.
+en_pocas_palabras | bir neçə sözlə, qısaca | Bir neçə sözlə, layihə uğurlu oldu.
+para_concluir | yekun olaraq | Yekun olaraq, bu gün innovasiya əsas şərtdir.
+con_todo_y_con_eso | hər şeyə rəğmən, buna baxmayaraq | Hər şeyə rəğmən planı həyata keçirdilər.
+## Baxış və münasibət
+a_mi_juicio | məncə, şəxsi fikrimcə | Məncə, qanunun dərin təhlilə ehtiyacı var.
+desde_mi_perspektiva | mənim baxış bucağımdan | Mənim baxış bucağımdan, təhsilə üstünlük verilməlidir.
+a_nuestro_entender | bizim fikrimizcə | Bizim fikrimizcə, müqavilə qeyri-müəyyəndir.
+según_mi_criterio | mənim meyarıma görə, fikrimcə | Fikrimcə, sərmayə qoyuluşu yetərsiz idi.
+a_dicho_respecto | bu hususda, bu bağlamda | Bu hususda artıq bir qərar qəbul etmişik.
+desde_mi_punto_de_vista | mənim nöqteyi-nəzərimdən | Mənim nöqteyi-nəzərimdən, model dayanıqlıdır.
+en_mi_opinión | mənim fikrimcə | Mənim fikrimcə, təklifi qəbul etməliyik.
+por_lo_que_respecta_a_mí | mənə qalsa | Mənə qalsa, təklifi dəstəkləyirəm.
+como_yo_lo_veo | mənim gördüyüm qədəri ilə | Mənim gördüyüm qədəri ilə risk minimal səviyyədədir.
+en_lo_que_a_mí_respecta | mənə soruşarsanız | Mənə soruşarsanız, hər şey qaydasındadır.
+## Əlavə məlumat və təfərrüatlar
+además_de_ello | bundan əlavə, bununla yanaşı | Müakirə oldu; bundan əlavə, yeni ideyalar ortaya çıxdı.
+por_añadidura | üstəlik, əlavə olaraq | Hesabat səhv çıxdı və üstəlik, gec gəldi.
+asimismo_bien | eyni şəkildə, həmçinin | Eyni şəkildə, illik büdcələr də təsdiq olundu.
+de_igual_manera | oxşar şəkildə | Oxşar şəkildə komitə də təşəbbüsü dəstəklədi.
+del_mismo_modo | eyni biçimdə | Digər tərəfdaşlar da eyni biçimdə hərəkət etdilər.
+de_igual_forma | eyni qaydada | Eyni qaydada texniki tədbir təşkil olundu.
+por_otra_parte | digər tərəfdən, öte yandan | Nəzəriyyə möhkəmdir; digər tərəfdən, praktika çatışmır.
+por_un_lado | bir tərəfdən | Bir tərəfdən layihə sürətlə irəliləyir.
+por_otro_lado | digər tərəfdən | Digər tərəfdən əməliyyat xərcləri artır.
+sumado_a_lo_anterior | əvvəlkilərə əlavə olaraq | Əvvəlkilərə əlavə olaraq tələbat on faiz artdı.
+## Nümunə və təsdiq
+por_caso | məsələn | Mürəkkəb hallar var, məsələn, bu vergi mübahisəsi.
+a_titulo_de_ejemplo | nümunə olaraq | Nümunə olaraq doqquzuncu maddəni sitat gətirəcəyik.
+tal_es_el_caso_de | bunun parlaq nümunəsi ... halıdır | Bunun parlaq nümunəsi son əmək islahatı halıdır.
+para_ilustrar_el_punto | məsələni izah etmək üçün | Məsələni izah etmək üçün bir qrafikə baxacağıq.
+en_prueba_de_ello | bunun sübutu olaraq | Bunun sübutu olaraq imzalanmış sənədi təqdim edirik.
+como_muestra_sirve | nümunə olması baxımından | Nümunə olması baxımından bu yenilənmiş protokol kifayətdir.
+por_mayor_abundamiento | daha da artıraraq, üstəlik | Daha da artıraraq, notar möhürləri çatışmır.
+testigo_de_ello | buna şahid olaraq | Buna şahid olan milli tarixi arxivdir.
+prueba_de_ello | bunun sübutu | Bunun sübutu audit edilmiş balanslardır.
+sirva_de_ejemplo | nümunə olsun | Dünən imzalanmış saziş nümunə olsun.
+## İstisna və məhdudiyyət
+excepto_que | ... istisna olmaqla, ... olmasa | Hər şey hazırdır, imzaların əksik olması istisna olmaqla.
+salvo_que | ... olmadıqca, məgər ki | Etirazlar ortaya çıxmadığı təqdirdə planı təsdiq edəcəyik.
+a_menos_que | ... olmadıqca | Maddə dəyişmədikcə imzalanmayacaq.
+fuera_de_que | ... faktı istisna olmaqla | Qiymətin yüksək olması faktı istisna olmaqla, məhsul yaxşıdır.
+aparte_de_que | ... ilə yanaşı, ... xaricində | Hesabatın uzun olması ilə yanaşı, həm də qeyri-dəqiqdir.
+salvo_si | ... baş verən hallar istisna olmaqla | Dəyişikliklər olmasa, tarixi qoruyub saxlayacağıq.
+excepto_si | ... açıqca qadağan etmədiyi təqdirdə | Qayda bunu açıqca qadağan etmədiyi təqdirdə.
+con_la_salvedad_de | ... şərtsizliyi / istisnası ilə | Texniki əlavənin daxil edilməsi şərti ilə təsdiq olundu.
+salvando_las_distancias | məsafələri nəzərə almadan, müqayisə etmədən | Məsafələri nəzərə almadan, hər iki hal bir-birinə bənzəyir.
+a_excepcion_de | ... istisna olmaqla | O istisna olmaqla hər şey mükəmməl keçdi.
+## Şərt və əsas
+dado_que | ... -diyi üçün, madəm ki | Kvorum olmadığı üçün iclas dayandırılır.
+visto_que | ... nəzərə alınarsa | Müddətin bitdiyi nəzərə alınarsa, heç bir möhlət yoxdur.
+en_el_supuesto_de_que | ... ehtimalı olacağı təqdirdə | Vəsait çatışmazlığı ehtimalı olacağı təqdirdə zaminlik istəyəcəyik.
+con_la_condición_de_que | ... şərti ilə | Müddətlərə əməl etmələri şərti ilə imzalanacaq.
+en_caso_de_que | ... olacağı təqdirdə | Şübhələr yaranacağı təqdirdə təlimata müraciət edin.
+partiendo_de_la_base_de_que | bazarın qeyri-sabit olduğu əsasından hərəkət edərək | Bazarın qeyri-sabit olduğu əsasından hərəkət edərək.
+atendiendo_a_que | ... nəzərə alınaraq | Xərcin aşağı olması nəzərə alınaraq satın alındı.
+en_tanto_que | ... -diyi müddətcə | Proses davam etdiyi müddətcə nəzarət olacaq.
+siempre_y_cuando | təki ... olsun, şərtilə ki | Şəffaflıq olduğu müddətcə qəbul ediləcəkdir.
+con_tal_de | təki ... olsun | Sövdələşməni bu gün bağlamaq şərti ilə qəbul edirik.
+## Zaman və ardıcıllıq
+a_continuación | bundan sonra, ardınca | Ardınca maliyyə məlumatlarını təqdim edəcəyik.
+entretanto | bu arada, hələlik | Nümayəndələr gələcək; bu arada qeydlərimizi nəzərdən keçirək.
+mientras_tanto | bu zaman, həmçinin | Hakim qərar verdi; bu zaman müdafiə tərəfi apellyasiya şikayəti verdi.
+posteriormente | daha sonra, sonradan | Hesabat tərtib edildi və daha sonra imzalandı.
+previamente | əvvəlcədən | Əvvəlcədən konseptual çərçivə müzakirə olundu.
+al_mismo_tiempo | eyni zamanda | Danışır və eyni zamanda qeydlər götürürdülər.
+simultáneamente | eyni vaxtda, paralel olaraq | İki komissiya eyni vaxtda işləyirdi.
+en_aquel_entonces | həmin vaxt, o dövrdə | Həmin vaxt bazar hələ yenicə formalaşırdı.
+hasta_el_momento_presente | indiki ana qədər | İndiki ana qədər heç bir etiraz olmayıb.
+con_posterioridad | sonradan, daha sonra | Sonradan kənar qeydlər əlavə olundu.

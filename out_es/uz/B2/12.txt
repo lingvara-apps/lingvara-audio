@@ -1,0 +1,111 @@
+# UNIT: Til va tilshunoslik | Til bilimi, tarjima, til oʻrganish
+## Grammatika tushunchalari
+la morfosintacta | morfologiya va sintaksis | Zamonaviy ispan tilining morfologiyasi va sintaksisini oʻrganamiz.
+el morfema derivativo | yasama morpema | Old qoʻshimcha juda keng tarqalgan yasama morpemadir.
+el lexema base | tub soʻz, asosiy oʻzak | Har bir soʻz oilasining asosiy oʻzakini aniqlaymiz.
+la raiz etimologica | etimologik oʻzak | Koʻpgina texnik soʻzlarning etimologik oʻzakini bilamiz.
+el sufijo apreciativo | kichraytirish-erkkalash qoʻshimchasi | Mehr-muhabbatni bildirish uchun kichraytirish-erkkalash qoʻshimchasidan foydalanamiz.
+la inflexion verbal | feʼl turlanishi | Shart mayolidagi feʼl turlanishi koʻp amaliyot talab qiladi.
+el campo semantico | maʼno maydoni | Hayvonlarni oʻz maʼno maydoni doirasida guruhlaymiz.
+la sinonimia parcial | qisman sinonimiya | Muayyan adabiy atamalar orasidagi qisman sinonimiyani tushuntiramiz.
+la polisemia compleja | murakkab koʻp maʼnolilik | Modal feʼllarning murakkab koʻp maʼnoliligini tahlil qilamiz.
+el homofono exacto | aniq omonim, homofon | Tez ogʻzaki nutq kontekstida aniq omonimni ajratib olamiz.
+## Tilshunoslik atamalari
+la fonologia acustica | akustik fonetika | Ochiq unlilarning akustik fonetikasini tadqiq qilamiz.
+el fonema oclusivo | portlovchi fonema | Har bir portlovchi fonemani qatʼiy aniqlik bilan talaffuz qilamiz.
+la silaba tona | urgʻusiz boʻgʻin | Tabiiy gapirganda urgʻusiz boʻgʻinni pasaytiramiz.
+el diptongo creciente | oʻsuvchi diftong | "Tierra" soʻzida oʻsuvchi diftongni aniqlaymiz.
+el hiato acentuado | urgʻuli hiat, unlilar toʻqnashuvi | Kuchli unlilarni urgʻuli hiat hosil qiladigan tarzda ajratamiz.
+la entonacion ascendente | koʻtariluvchi ohang | Toʻgʻridan-toʻgʻri savollarda koʻtariluvchi ohangni belgilaymiz.
+la pragmatica textual | matn pragmatikasi | Uzun nutqlarni talqin qilishda matn pragmatikasini qoʻllaymiz.
+la sintaxis oracional | gap sintaksisi | Oʻqishni yaxshilash uchun gap sintaksisini soddalashtiramiz.
+la semantica formal | rasmiy semantika | Mantiqiy bogʻlovchilarning rasmiy semantikasi yuzasidan munozara qilamiz.
+la ortografia practica | amaliy imlo | Yakuniy imtihondan oldin amaliy imlo qoidalarini takrorlaymiz.
+## Tarjima texnikasi
+la traduccion literal | soʻzma-soʻz tarjima | Murakkab idiomatik matnlarda soʻzma-soʻz tarjimadan qochamiz.
+la adaptacion cultural | madaniy moslashtirish | Mahalliy hazillar uchun madaniy moslashtirishni amalga oshiramiz.
+el calco linguistico | soʻzma-soʻz nusxa koʻchirish, kalka | Zamonaviy ingliz tilidan kelib chiqqan kalkani aniqlaymiz.
+la modulacion semantica | semantik modulyatsiya | Kengroq ravonlikka erishish uchun semantik modulyatsiyadan foydalanamiz.
+la transposition gramatical | grammatik transpozitsiya | Soʻz turkumlarini oʻzgartirib, grammatik transpozitsiya mashqini bajaramiz.
+la equivalencia dinamica | dinamik ekvivalentlik | Tarjima qilingan sheʼrlarda dinamik ekvivalentlikni qidiramiz.
+la compensacion estilistica | stilistik kompensatsiya | Tarjima qilib boʻlmaydigan metaforalarda stilistik kompensatsiyani qoʻllaymiz.
+el giro idiomatico | ibora, idiomantik qolip | Har bir iborani oʻzining tabiiy ekvivalenti bilan tarjima qilamiz.
+la reduccion textual | matnni qisqartirish | Juda uzun subtitrlarda matnni qisqartirishni bajaramiz.
+la explicacion contextual | kontekstual izoh | Tarixiy havolalar uchun kontekstual izoh qoʻshamiz.
+## Ikki tilli lugʻatlar
+el lexico especializado | ixtisoslashgan lugʻat boyligi, terminologiya | Zamonaviy tibbiyotning ixtisoslashgan lugʻat boyligiga murojaat qilamiz.
+el glosario bilingue | ikki tilli lugʻatcha | Ilmiy loyihamiz uchun ikki tilli lugʻatcha tuzamiz.
+el termino tecnico | texnik atama | Har bir texnik atamani katta akademik qatʼiylik bilan taʼriflaymiz.
+la acepcion principal | asosiy maʼno | Muomaladan chiqqan bu feʼlning asosiy maʼnosini qidiramiz.
+el arcaismo util | foydali arxaizm | Klassik sheʼriy matnlarda foydali arxaizmni taniyveramiz.
+el neologismo digital | raqamli neologizm | Umumiy lugʻatga raqamli neologizmni kiritamiz.
+el regionalismo tipico | tipik regionalizm, mahalliy soʻz | Atlantika qirgʻogʻining tipik regionalizmini tushunamiz.
+el vulgarismo frecuente | soʻzlashuv tilidagi qoʻpol soʻz, vulgarizm | Yozma rasmiy uslubda tez-tez uchraydigan vulgarizmdan qochamiz.
+la nota lexicografica | leksikografik izoh | Soʻzning kelib chiqishi haqidagi leksikografik izohni oʻqiymiz.
+el banco terminologico | terminlar banki | Davlat muassasamizning terminlar bankini yangilaymiz.
+## Soʻz etimologiyasi
+la raiz indoeuropea | hind-yevropa oʻzagi | Turli asosiy feʼllarning hind-yevropa oʻzagini tiklaymiz.
+el origen latino | lotincha kelib chiqish | Gʻarb roman tillarining lotincha kelib chiqishini oʻrganamiz.
+el préstamo léxico | oʻzlashma soʻz | Arab yoki german tillaridan oʻzlashgan har bir soʻzni tahlil qilamiz.
+la etimologia popular | xalq etimologiyasi | Hududda juda keng tarqalgan xalq etimologiyasini rad etamiz.
+el cambio fonetico | fonetik oʻzgarish | Lotin va ispan tillari orasidagi tarixiy fonetik oʻzgarishni tushuntiramiz.
+la evolucion semantica | semantik evolyutsiya | Qadimgi soʻzlarning semantik evolyutsiyasini kuzatamiz.
+el sufijo culto | ilmiy-adabiy qoʻshimcha | Zamonaviy fan terminlarida ilmiy-adabiy qoʻshimchani taniymiz.
+el prefijo griego | yunoncha old qoʻshimcha | Yuqori texnologiya soʻzlarida yunoncha old qoʻshimchani aniqlaymiz.
+la raiz semitica | somiy oʻzak | Somiy oʻzakni boshqa afroosiyo tillari bilan solishtiramiz.
+el rastro historico | tarixiy iz | Oʻrta asr qoʻlyozmalarining tarixiy izidan boramiz.
+## Yuqori darajadagi grammatika
+la subordinada sustantiva | ot ergash gap | Toʻgʻridan-toʻgʻri toʻldiruvchi boʻlgan ot ergash gapni tahlil qilamiz.
+la oracion impersonal | shaxssiz gap | "Haber" feʼli yordamida shaxssiz gap tuzamiz.
+el sujeto elidito | yashirin ega | Feʼl qoʻshimchasi orqali yashirin egani aniqlaymiz.
+el complemento circunstancial | hol (zamon, oʻrin va h.k.) | Zamon va oʻrin hollarining tagiga chizamiz.
+la proposicion coordinada | qoʻshma bogʻlangan gap | Qarshilik mazmunidagi qoʻshma bogʻlangan gap yordamida ikkita gapni birlashtiramiz.
+el modo subjuntivo | shart mayoli | Shubhali gaplarda shart mayolidan yuqori darajada foydalanishni mukammal egallaymiz.
+la voz pasiva refleja | oʻzlik-majhul nisbat | Rasmiy eʼlonlarda oʻzlik-majhul nisbatni ishlatamiz.
+el participio absoluto | mutlaq sifatdosh | Bosh qismida mutlaq sifatdosh qatnashgan tuzilmani tahlil qilamiz.
+el atributo nominal | ot kesim | Bogʻlama feʼllardan keyingi ot kesimni taniyveramiz.
+la perifrasis verbal | feʼl birikmasi | Ehtimollik va majburiyat bildiruvchi har bir feʼl birikmasini tushuntiramiz.
+## Nutq tahlili
+el analisis critico | tanqidiy tahlil | Reklama xabarlarining tanqidiy tahlilini amalga oshiramiz.
+la cohesion textual | matn koheziyasi, matn bogʻliqligi | Tegishli mantiqiy bogʻlovchilardan foydalanib matn koheziyasini yaxshilaymiz.
+la coherencia global | global kogerentlik, umumiy izchillik | Butun akademik esseining global kogerentligini tekshiramiz.
+el marcador discursivo | diskurs markeri | Mavzuni muloyimlik bilan oʻzgartirish uchun diskurs markerini kiritamiz.
+la ironia sutil | nozik istehzo | Rasmiy soʻzlari ortidagi nozik istehzoni sezamiz.
+el discurso elocuente | taʼsirli nutq | Siyosiy munozaramizda taʼsirli nutqni qoʻllaymiz.
+la intencion comunicativa | muloqot maqsadi | Ushbu esseda muallifning muloqot maqsadini tahlil qilamiz.
+el contexto situacional | vaziyatli kontekst | Tanqidiy xulosa chiqarishdan oldin vaziyatli kontekstni baholaymiz.
+la presuposicion logica | mantiqiy taxmin | Asosiy argumentida mantiqiy taxmin borligini aniqlaymiz.
+la falacia argumentativa | mantiqiy xato, sofistika | Ochiq munozarada mantiqiy xatoni aniqlaymiz.
+## Til oʻzlashtirish va oʻqitish
+la adquisicion natural | tabiiy oʻzlashtirish | Bolalar ona tilining tabiiy oʻzlashtirilishini oʻrganamiz.
+el bilinguismo precoz | erta ikki tillilik | Erta ikki tillilikning kognitiv afzalliklarini tahlil qilamiz.
+la destreza comunicativa | muloqot koʻnikmasi | Kasbiy kontekstlarda muloqot koʻnikmasini rivojlantiramiz.
+la interlengua intermedia | interlingva | Interlingvaning odatiy xatolarini tuzatamiz.
+la metodologia activa | faol oʻqitish metodologiyasi | Maʼruzalarimizda faol oʻqitish metodologiyasini qoʻllaymiz.
+el enfoque comunicativo | kommunikativ yondashuv | Anʼanaviy usulga nisbatan kommunikativ yondashuvni afzal koʻramiz.
+la retroalimentacion docente | oʻqituvchi qaydnomasi, oʻqituvchi mulohazasi | Talaffuzimiz haqida oʻqituvchining qimmatli mulohazasini qabul qilib olamiz.
+la destreza auditiva | tinglab tushunish koʻnikmasi | Tezkor audio testlar yordamida tinglab tushunish koʻnikmasini baholaymiz.
+la comprension lectora | oʻqib tushunish | Ilgʻor jurnalistik matnlar yordamida oʻqib tushunish koʻnikmasini ragʻbatlantiramiz.
+la expresion oral | ogʻzaki nutq | Haftalik guruh munozaralarida ogʻzaki nutq amaliyotini oʻtaymiz.
+## Tarixiy tilshunoslik
+la lengua indoeuropea | hind-yevropa tili | Qadimgi umumiy hind-yevropa tilining jihatlarini tiklaymiz.
+el cambio linguistic | til oʻzgarishi | Oʻrta asr matnlarida hujjatlashtirilgan til oʻzgarishini oʻrganamiz.
+la gramatica historica | tarixiy grammatika | Qadimgi va zamonaviy ispan tilining tarixiy grammatikasini tahlil qilamiz.
+la fonetica historica | tarixiy fonetika | Sirpanma undoshlarning tarixiy fonetikasini tushuntiramiz.
+el latin vulgar | xalq lotin tili | Roman tillaridagi soʻzlarni bevosita xalq lotin tilidan keltirib chiqaramiz.
+la lengua romance | roman tili | Ispan tilini boshqa yarimorol roman tili bilan solishtiramiz.
+el estrato prerromano | rimliklargacha boʻlgan qatlam | Mahalliy toponimiyada rimliklargacha boʻlgan qatlamni aniqlaymiz.
+la influencia arabe | arabcha taʼsir | Iberiya dehqonchilik lugʻatida arabcha taʼsirni taniyveramiz.
+el texto primitif | qadimgi matn | Katedral arxivlarida qadimgi matnni kashf etamiz.
+la evolucion fonetica | tovush evolyutsiyasi | Lotin urgʻusiz unlilarining tovush evolyutsiyasini kuzatamiz.
+## Zamonaviy tilshunoslik
+la sociolinguistica urbana | shahar sotsiolingvistikasi | Yirik megapolislarda shahar sotsiolingvistikasini tadqiq qilamiz.
+la geolinguistica moderna | zamonaviy geolingvistika | Soʻzlashuv tillarining interaktiv xaritalarida zamonaviy geolingvistikani qoʻllaymiz.
+la psicolinguistica cognitiva | kognitiv psixolingvistika | Leksik jarayonlarning kognitiv psixolingvistikasini oʻrganamiz.
+la neurolinguistica clinica | klinik nevrolingvistika | Afaziyali bemorlarda klinik nevrolingvistikani tahlil qilamiz.
+la antropologia linguistica | lingvistik antropologiya | Tub aholi jamoalarining lingvistik antropologiyasini oʻrganamiz.
+la etnolinguistica americana | Amerika etnolingvistikasi | Chekka qishloq hududlarida Amerika etnolingvistikasini hujjatlashtiramiz.
+la ciberinguistica aplicada | amaliy kiberlingvistika | Ijtimoiy tarmoqlarga qoʻllaniladigan amaliy kiberlingvistika loyihalarini ishlab chiqamiz.
+la linguistica computacional | kompyuter lingvistikasi | Zamonaviy kompyuter lingvistikasida algoritmlarni dasturlaymiz.
+la lexicografia digital | raqamli leksikografiya | Ulkan matn korpuslari bilan raqamli leksikografiyani yangilaymiz.
+la gramatica generativa | generative grammatika | Formal generativ grammatikaning markaziy nazariyasini tushuntiramiz.

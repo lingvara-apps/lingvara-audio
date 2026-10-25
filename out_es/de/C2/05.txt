@@ -1,0 +1,111 @@
+# UNIT: Büro- und IT-Jargon | Unternehmensslang, Programmiersprache, Finanzjargon
+## Berufsleben
+la startup | Start-up, Jungunternehmen | Die Start-up-Firma sucht neue Investoren.
+el burn-out | Burn-out, Erschöpfungssyndrom | Das Burn-out betrifft viele Angestellte.
+el networking | Networking, Kontaktaufnahme | Networking ist nützlich, um eine Anstellung zu finden.
+el briefing | Briefing, Besprechung | Wir haben früh am Morgen ein Briefing.
+el feedback | Feedback, Rückmeldung | Der Chef gab dem Team ein positives Feedback.
+el deadline | Frist, Abgabetermin | Die Deadline des Projekts ist am Freitag.
+el target | Zielgruppe | Wir müssen die Zielgruppe des Produkts gut definieren.
+el management | Management, Geschäftsführung | Das Management hat die neue Strategie genehmigt.
+el b2b | B2B, Business-to-Business | Das Unternehmen konzentriert sich auf den B2B-Sektor.
+el b2c | B2C, Business-to-Consumer | Das B2C-Modell erfordert viel Werbung.
+## Programmiersprache und Codierung
+el commit | Commit, Code-Speicherung | Ich habe vor dem Weggehen einen Commit gemacht.
+el merge | Merge, Code-Zusammenführung | Der Merge hat einige Konflikte im Code verursacht.
+el bug | Softwarefehler, Bug | Ich habe einen kritischen Bug in der Anwendung gefunden.
+el refactor | Code-Refactoring, Code-Bereinigung | Das Refactoring hat die Geschwindigkeit des Systems verbessert.
+el deploy | Deployment, Bereitstellung | Das Deployment in die Produktion findet heute Nacht statt.
+el sprint | Sprint, Entwicklungszyklus | Wir haben den Sprint erfolgreich beendet.
+el back-end | Backend, Hinteren Bereich [IT] | Sie arbeitet als Backend-Entwicklerin.
+el front-end | Frontend, Benutzeroberfläche [IT] | Das Frontend muss sehr intuitiv sein.
+el stack | Technologie-Stack | Unser Stack umfasst Python und React.
+el script | Skript, Befehlsdatei | Ich habe ein Skript geschrieben, um Aufgaben zu automatisieren.
+## Server und Datenbank
+el cluster | Servercluster, Cluster | Der Cluster verarbeitet Millionen von Anfragen.
+el backup | Datensicherung, Backup | Das automatische Backup läuft in den frühen Morgenstunden.
+el uptime | Betriebszeit, Uptime | Der Server hat eine Betriebszeit von neunundneunzig Prozent.
+el log | Protokolldatei, Logdatei | Ich habe das Log überprüft, um nach Fehlern zu suchen.
+el script de base de datos | Datenbankskript | Ich habe das Datenbankskript gestern ausgeführt.
+el query | Abfrage, Query | Die Abfrage hat zu lange gebraucht, um zu antworten.
+el cache | Cache, Zwischenspeicher | Das Leeren des Caches hat das Problem gelöst.
+el hosting | Hosting, Webhosting | Wir haben ein leistungsstärkeres Hosting gemietet.
+el dominio web | Domain, Webadresse | Die Domain ist für zwei Jahre registriert.
+el firewall | Firewall, Sicherheitswand | Die Firewall hat den verdächtigen Zugriff blockiert.
+## Hardware und Netzwerke
+el router | Router, WLAN-Router | Ich habe den Router neu gestartet, um die Verbindung wiederherzustellen.
+el switch | Netzwerk-Switch, Verteiler | Der Switch verbindet alle Computer im Büro.
+el hardware | Hardware, Geräteausstattung | Wir haben die Hardware der Geräte aktualisiert.
+el firmware | Firmware, Gerätesoftware | Es ist notwendig, die Firmware der Kamera zu aktualisieren.
+el puerto | Anschluss, Port [IT] | Der USB-Anschluss hat aufgehört zu funktionieren.
+el protocolo de red | Netzwerkprotokoll | Wir haben das Netzwerkprotokoll sicher konfiguriert.
+el ancho de banda | Bandbreite | Die aktuelle Bandbreite ist unzureichend.
+el conector | Stecker, Anschluss | Der Netzwerkstecker ist kaputt.
+el dispositivo | Gerät, Endgerät | Er hat ein neues Gerät an das System angeschlossen.
+el monitor | Monitor, Bildschirm | Der Monitor flackert ständig.
+## Cybersicherheit
+el malware | Schadsoftware, Malware | Das Antivirenprogramm hat eine gefährliche Malware entdeckt.
+el phishing | Phishing, Datendiebstahl | Sie sind auf eine Phishing-Falle reingefallen.
+el ransomware | Erpressungssoftware, Ransomware | Die Ransomware hat alle Dateien verschlüsselt.
+el exploit | Exploit, Sicherheitslücke-Ausnutzung | Die Hacker haben einen unbekannten Exploit verwendet.
+el troyano | Trojaner, Trojanisches Pferd | Der Trojaner hat Bankdaten gestohlen.
+el keylogger | Keylogger, Tastenabsucher | Sie haben einen Keylogger auf der Tastatur entdeckt.
+el sniffer | Paketschnüffler, Sniffer | Sie haben einen Sniffer verwendet, um den Netzwerkverkehr abzufangen.
+el honeypot | Honeypot, Täuschserver | Sie haben einen Honeypot installiert, um Angreifer anzulocken.
+el proxy | Proxy-Server, Stellvertreter | Sie surfen über einen sicheren Proxy.
+el certificado ssl | SSL-Zertifikat | Die Website muss ihr SSL-Zertifikat erneuern.
+## Projektmanagement-Methoden
+el scrum | Scrum-Framework | Wir wenden Scrum bei der Softwareentwicklung an.
+el kanban | Kanban-Tafel, visuelle Prozesssteuerung | Wir nutzen Kanban, um die täglichen Aufgaben zu organisieren.
+el product owner | Product Owner, Produktverantwortlicher | Der Product Owner definiert die Prioritäten des Backlogs.
+el scrum master | Scrum Master | Der Scrum Master moderiert die Teammeetings.
+el milestone | Meilenstein, Zwischenziel | Wir haben gefeiert, dass wir den ersten Meilenstein erreicht haben.
+el feedback loop | Feedbackschleife | Eine schnelle Feedbackschleife verbessert die Qualität.
+el stakeholder | Stakeholder, Interessensvertreter | Wir haben den Stakeholdern die Ergebnisse präsentiert.
+el scope | Projektumfang, Scope | Wir müssen verhindern, dass der Scope unkontrolliert wächst.
+el kickoff | Kick-off-Meeting, Starttermin | Das Kick-off des Projekts ist am Montag.
+el release | Release, Software-Freigabe | Das Release enthält neue Funktionen.
+## Unternehmensränge und Rollen
+el cto | Chief Technology Officer, Technikvorstand | Der CTO leitete die digitale Transformation.
+el ceo | Chief Executive Officer, Vorstandsvorsitzender | Der CEO kündigte eine internationale Expansion an.
+el cfo | Chief Financial Officer, Finanzvorstand | Der CFO hat das Jahresbudget überprüft.
+el coo | Chief Operating Officer, Betriebsdirektor | Der COO hat die Lieferkette optimiert.
+el ciso | Chief Information Security Officer | Der CISO hat neue Sicherheitsrichtlinien umgesetzt.
+el product manager | Produktmanager | Der Product Manager hat die Nutzer interviewt.
+el team lead | Teamleiter | Der Teamleiter hat die neuen Aufgaben zugewiesen.
+el junior | Junior-Mitarbeiter, Anfänger | Sie haben einen Junior-Programmierer eingestellt.
+el senior | Senior-Mitarbeiter, erfahrener Experte | Der Senior-Architekt hat die Infrastruktur entworfen.
+el freelancer | Freiberufler, Freelancer | Er arbeitet am liebsten von zu Hause aus als Freelancer.
+## Finanzjargon und Geld-Slang
+el cash | Bargeld, Cash | Sie bevorzugen Barzahlungen für schnelle Transaktionen.
+el ftx | FTX (Krypto-Börse) | Er hat nach dem Zusammenbruch von FTX Geld verloren.
+el exchange | Kryptobörse, Exchange | Er hat seine Gelder auf einen sicheren Exchange übertragen.
+el holding | Holding, Dachgesellschaft | Die Holding besitzt mehrere Technologie-Tochtergesellschaften.
+el cashflow | Cashflow, Geldfluss | Der monatliche Cashflow ist in diesem Quartal positiv.
+el asset | Vermögenswert, Asset | Sie haben ihre Assets in verschiedene Märkte diversifiziert.
+el revenue | Umsatz, Einnahmen | Der Jahresumsatz hat die Erwartungen übertroffen.
+el startup funding | Start-up-Finanzierung | Sie haben Start-up-Finanzierung von Angel-Investoren erhalten.
+el venture capital | Risikokapital, Venture Capital | Der Venture-Capital-Fonds hat die Expansion finanziert.
+el token | Krypto-Token, digitaler Token | Sie haben einen neuen Token im Blockchain-Netzwerk herausgebracht.
+## Marketing und Vertriebs-Slang
+el growth hacking | Growth Hacking | Sie haben Growth-Hacking-Taktiken angewendet, um schnell zu wachsen.
+el lead | Lead, Interessent | Die Kampagne generierte fünfhundert neue Leads.
+el funnel | Sales Funnel, Verkaufstrichter | Sie haben den Verkaufstrichter detailliert analysiert.
+el bounce rate | Absprungrate, Bounce Rate | Die Website hat eine hohe Absprungrate.
+el conversion rate | Konversionsrate, Conversion Rate | Die Verbesserung der Seite hat die Conversion Rate erhöht.
+el engagement | Engagement, Nutzerbeteiligung | Sie wollen das Engagement in den sozialen Medien steigern.
+el click-through rate | Klickrate, Click-Through-Rate | Die Anzeige erzielte eine hervorragende Klickrate.
+el branding | Branding, Markenbildung | Sie haben dieses Jahr viel Geld in Branding investiert.
+el copywriting | Copywriting, Werbetexten | Überzeugendes Copywriting hat den Umsatz gesteigert.
+el inbound marketing | Inbound-Marketing | Sie setzen auf Inbound-Marketing, um Kunden anzulocken.
+## Innovation und Zukunfts-Technologien
+el machine learning | maschinelles Lernen, Machine Learning | Machine Learning prognostiziert Konsumtrends.
+el deep learning | Deep Learning, tiefgehendes Lernen | Deep Learning verarbeitet komplexe neuronale Netze.
+el big data | Big Data, große Datenmengen | Sie analysieren Big Data, um strategische Entscheidungen zu treffen.
+el iot (internet de las cosas) | IoT, Internet der Dinge | Das IoT verbindet Haushaltsgeräte mit dem Internet.
+el cloud computing | Cloud-Computing | Sie haben alle Dienste ins Cloud-Computing migriert.
+el edge computing | Edge Computing | Edge Computing reduziert die Antwortlatenz.
+el open source | Open Source, quelloffen | Sie unterstützen weltweit Open-Source-Projekte.
+el saas | Software as a Service, SaaS | Sie verkaufen Software über ein SaaS-Modell.
+el api | Programmierschnittstelle, API | Sie haben eine Zahlungs-API in den Online-Shop integriert.
+el web3 | Web3, dezentrales Web | Sie erforschen die dezentralen Technologien des Web3.

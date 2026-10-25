@@ -1,0 +1,111 @@
+# UNIT: Bilim va texnologiya | Sunʼiy intellekt, biotexnologiya, energetika, raqamli jamiyat
+## Biotexnologik rivojlanish
+la ingeniería genética | genetik muhandisligi | Genetik muhandisligi zamonaviy tibbiyotni oʻzgartirmoqda.
+el clon | klon | Hujayraviy klon optimal steril sharoitlarni talab qiladi.
+mutar | mutatsiyaga uchramoq | Hujayralar kuchli radiatsiya ostida mutatsiyaga uchrashi mumkin.
+la mutación genética | genetik mutatsiya | Har qanday genetik mutatsiya DNK ketma-ketligini oʻzgartiradi.
+la clonación | klonlash | Klonlash chuqur etik bahslarni keltirib chiqarmoqda.
+el gen | gen | Har qanday gen maʼlum irsiy belgilarini belgilaydi.
+la célula madre | oʻzak hujayra | Oʻzak hujayra shikastlangan toʻqimalarni tiklaydi.
+clonar | klonlamoq | Olimlar murakkab organizmni klonlashga muvaffaq boʻlishdi.
+el genoma humano | inson genomi | Inson genomi minglab koʻrsatmalarni oʻz ichiga oladi.
+biotecnológico | biotexnologik | Bu biotexnologik taraqqiyot qishloq xoʻjaligida inqilob qiladi.
+## Raqamli transformatsiya
+la ciberdeliquencia | kiberjinoyatchilik | Kiberjinoyatchilik bank tarmoqlariga tahdid solmoqda.
+el bit | bit [axborot birligi] | Har bir bit asosiy ikkilik qiymatni bildiradi.
+la criptografía | kriptografiya | Kriptografiya maxfiy maʼlumotlarni himoya qiladi.
+cifrar | shifrlamoq | Fayllaringizni yuborishdan oldin ularni shifrlashingiz kerak.
+descifrar | shifrlarni yechmoq | Ushbu kompyuter kodini shifrdan chiqarish qiyin.
+la red neuronal | neyron tarmoq | Neyron tarmoq inson miyasini simulyatsiya qiladi.
+el microchip | mikrochip | Ilgʻor mikrochip qurilmani boshqaradi.
+virtualizar | virtuallashtirmoq | Jismoniy serverlarni osongina virtuallashtirishimiz mumkin.
+la ciberseguridad | kiberxavfsizlik | Kiberxavfsizlik doimiy mutaxassislarni talab qiladi.
+el algoritmo predictivo | bashorat qiluvchi algoritm | Bashorat qiluvchi algoritm isteʼmol tendentsiyalarini oldindan koʻrsatadi.
+## Sunʼiy intellekt va avtomatlashtirish
+la red pensante | sunʼiy intellekt | Sunʼiy intellekt murakkab jarayonlarni optimallashtiradi.
+el androide | android, odamsimon robot | Android takroriy uy ishlarini bajaradi.
+automatizado | avtomatlashtirilgan | Sanoat jarayoni toʻliq avtomatlashtirilgan.
+la cibernética | kibernetika | Kibernetika avtomatik boshqaruv tizimlarini oʻrganadi.
+simular | simulyatsiya qilmoq | Superkompyuterlar oʻta ogʻir ob-havo hodisalarini simulyatsiya qilishi mumkin.
+la mecanización | mexanizatsiyalashuv, otomasyon | Sanoat mexanizatsiyalashuvi operatsion xarajatlarni kamaytiradi.
+autónomo | avtonom, oʻzi boshqariladigan | Avtonom transport vositasi inson haydovchisiz harakatlanadi.
+el procesador | protsessor | Ushbu protsessor soniyasiga millionlab amallarni bajaradi.
+la robótica | robototexnika | Robototexnika aniq tibbiy qoʻllanmalarga qarab rivojlanmoqda.
+el sistema digital | raqamli tizim | Raqamli tizim ikkilik maʼlumotlarni tezda qayta ishlaydi.
+## Fazoviy tadqiqotlar va fizika
+la astrofísica | astrofizika | Astrofizika koinotning kelib chiqishini oʻrganadi.
+la galaxia lejana | uzoq galaktika | Teleskoplar boshqa uzoq galaktikaning nurini aniqlamoqda.
+el visor estelar | koinot teleskopi | Koinot teleskopi aniq kosmik tasvirlarni qamrab oladi.
+la gravedad | tortishish kuchi, gravitatsiya | Tortishish kuchi sayyoralarni oʻz orbitalarida ushlab turadi.
+el asteroide | asteroid | Ulkan asteroid Mars yaqinida aylanib yuribdi.
+el firmamento | koinot, osmon | Ulkan koinot son-sanoqsiz sir-asrorlarni yashiradi.
+la sonda | kosmik zond | Kosmik zond Saturn halqalarini tadqiq qilmoqda.
+la radiación cósmica | kosmik radiatsiya | Kosmik radiatsiya sunʼiy yoʻldoshlarga taʼsir qiladi.
+el agujero negro | qora tuynuk | Qora tuynuk atrofidagi moddalarni yutib yuboradi.
+el macrocosmos | makrokoinot, olam | Makrokoinotimiz har kuni tezlashib kengayib bormoqda.
+## Qayta tiklanadigan energiya
+la fuerza fotovoltaica | quyosh energiyasi | Quyosh energiyasi ilgʻor quyosh panellaridan foydalanadi.
+el captador solar | quyosh paneli | Har bir quyosh paneli toza, ekologik elektr energiyasini ishlab chiqaradi.
+renovable | qayta tiklanadigan | Qayta tiklanadigan energiya manbalariga global miqyosda ustuvor ahamiyat qaratishimiz kerak.
+la fuerza eólica | shamol energiyasi | Shamol energiyasi ulkan zamonaviy shamol generatorlaridan foydalanadi.
+la turbina | turbina | Shamol turbinasi shamolni tokka aylantiradi.
+sostenible | barqaror | Shaharlar butunlay barqaror shaharsozlik rivojlanishini izlamoqda.
+la ecoinnovación | ekoinnovatsiya | Ekoinnovatsiya samarali yashil texnologiyalarni ragʻbatlantiradi.
+el aerogenerador | shamol generatori | Shamol generatori tugamaydigan toza energiya ishlab chiqaradi.
+ecológico | ekologik | Ushbu ekologik material atrof-muhitni muhofaza qiladi.
+la transición energética | energiya oʻtishi | Energiya oʻtishi kuchli moliyaviy investitsiyalarni talab qiladi.
+## Nanotexnologiya va materialshunoslik
+la nanotecnología | nanotexnologiya | Nanotexnologiya atom darajasidagi moddalar bilan ishlaydi.
+el nanomaterial | nanomaterial | Nanomaterial hayratlanarli fizik xususiyatlarga ega.
+molecular | molekulyar | Molekulyar tuzilish birikmaning xususiyatlarini aniqlaydi.
+el átomo | atom | Har bir atom proton, neytron va elektronlarga ega.
+el nanotubo | nanotubka | Uglerod nanotubkasi oʻta chidamlilikni taqdim etadi.
+la partícula | zarracha | Subatom zarracha tezlatgichda toʻqnashadi.
+sintetizar | sintez qilmoq | Laboratoriyalar yangi murakkab kimyoviy birikmalarni sintez qilishi mumkin.
+el polímero | polimer | Ushbu ilgʻor polimer ekstremal haroratga bardosh beradi.
+el microscopio electrónico | elektron mikroskopi | Elektron mikroskopi mayda virusli tuzilmalarni koʻrsatadi.
+la propiedad material | moddiy xususiyat | Biz yangi materialning har bir moddiy xususiyatini tahlil qilamiz.
+## Ilmiy metodologiya
+la hipótesis científica | ilmiy gipoteza | Har qanday ilmiy gipoteza qatʼiy tajribani talab qiladi.
+el experimento controlado | nazorat qilinadigan tajriba | Ilgʻor laboratoriyada nazorat qilinadigan tajribani oʻtkazamiz.
+cerificar | tasdiqlamoq, sertifikatlamoq | Olimlar natijalarni eʼlon qilishdan oldin ularni tasdiqlashlari kerak.
+la teoría empírica | empirik nazariya | Empirik nazariya maʼlumotlarga asoslanadi.
+refutar | rad etmoq | Yangi maʼlumotlar oʻrnatilgan ilmiy nazariyalarni rad etishi mumkin.
+la investigación aplicada | amaliy tadqiqot | Amaliy tadqiqot real texnologik muammolarni hal qiladi.
+inspeccionar | tekshirib chiqmoq, tahlil qilmoq | Mutaxassislar murakkab biologik namunalarni tekshirib chiqadilar.
+el método científico | ilmiy metod | Ilmiy metod doimiy tahliliy qatʼiylikni kafolatlaydi.
+contrastar | qiyoslamoq, solishtirmoq | Turli manbalardan olingan maʼlumotlarni qiyoslashimiz kerak.
+la conclusión lógica | mantiqiy xulosa | Har tomonlama kuzatuvdan soʻng mantiqiy xulosa chiqaramiz.
+## Tibbiyot texnologiyalari
+la biónica | bionika | Bionika aqliy boshqariladigan ilgʻor protezlarni loyihalashtiradi.
+la prótesis biónica | bionik protez | Bionik protez bemorning harakatlanishini tiklaydi.
+tererapéutico | terapevtik, davolovchi | Ushbu farmakologik davolash optimal terapevtik taʼsir koʻrsatadi.
+el láser médico | tibbiy lazer | Tibbiy lazer aniq koʻz jarrohlik amaliyotlarini bajaradi.
+biomédico | biotibbiy | Biotibbiy muhandislik innovatsion kasxona jihozlarini loyihalashtiradi.
+el marcapasos | yurak stimulyatori | Yurak stimulyatori bemorlarning yurak urishini tartibga soladi.
+la resonancia magnética | magnit-rezonans tomografiya | Magnit-rezonans tomografiya ichki miya jarohatlarini aniqlaydi.
+el implante coclear | koxlear implant | Koxlear implant yoʻqolgan eshitish qobiliyatini tiklashga yordam beradi.
+clínico | klinik | Ushbu klinik sinov preparatning samaradorligini isbotlaydi.
+el escáner cerebral | miya skaneri | Miya skaneri murakkab neyron faoliyatini xaritalaydi.
+## Raqamli jamiyat va etika
+la tecnoética | texnoetika | Texnoetika texnologiyadagi axloqiy chegaralarni muhokama qiladi.
+el dilema tecnológico | texnologik dilemma | Sunʼiy intellekt chuqur texnologik dilemmani keltirib chiqarmoqda.
+vigilar | kuzatib bormoq | Aqlli kameralar ommaviy jamoat joylarini kuzatib borishi mumkin.
+la privacidad digital | raqamli maxfiylik | Raqamli maxfiylikni himoya qilish asosiy huquqdir.
+la falsa información | dezinformatsiya, soxta axborot | Raqamli dezinformatsiya jamoatchilik fikrini osongina manipulyatsiya qiladi.
+el sesgo técnico | texnik xolisizlik [algoritmik tarafkashlik] | Texnik xolislik jarayonlarda ozchiliklarni kamsitadi.
+vulnerar | buzmoq, poymol qilmoq | Hakerlar kompyuter xavfsizligi tizimlarini buzishga harakat qilmoqda.
+la brecha digital | raqamli tafovut | Raqamli tafovut qishloq jamoalarini shahar jamoalaridan ajratib turadi.
+cibernético | kiber | Kiberhujuda muhim hukumat serverlari ishdan chiqdi.
+la soberanía tecnológica | texnologik suverenitet | Mamlakatlar oʻzlarining milliy texnologik suverenitetini kafolatlashga intilmoqda.
+## Kelajak texnologiyalari
+la computación cuántica | kvant hisoblash | Kvant hisoblash bugungi kundagi imkonsiz hisob-kitoblarni hal qiladi.
+el procesador cuántico | kvant protsessori | Kvant protsessori maʼlumotlarni aql bovar qilmaydigan tezlikda qayta ishlaydi.
+cuántico | kvant | Kvant fizikasi kundalik sezgi-tuygʻularimizga qarshi chiqadi.
+la teletransportación | teleportatsiya | Kvant teleportatsiyasi zarrachalar oʻrtasida holatlarni oʻtkazadi.
+el holograma | gologramma | Proyektor suzib yuruvchi uch oʻlchamli gologrammani namoyish etadi.
+futurista | futuristik | Ushbu futuristik shahar magnit havo transportidan foydalanadi.
+materializar | roʻyobga chiqarmoq, amalga oshirmoq | Olimlar ulugʻvor fazoviy loyihalarni roʻyobga chiqarishni kutishmoqda.
+el metaverso | metaverum | Metaverum immersiv interaktiv virtual muhitlarni yaratadi.
+perspicaz | aqlli, zehnli | Aqlli tarmoq shaharning energiya taqsimotini optimallashtiradi.
+la innovación disruptiva | tubdan oʻzgartiruvchi innovatsiya | Har qanday tubdan oʻzgartiruvchi innovatsiya global iqtisodiy bozorlarni oʻzgartiradi.

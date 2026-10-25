@@ -1,41 +1,41 @@
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #8 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-ağ hatası ConnectionError
-günlük sınır: anahtar #8 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-günlük sınır: anahtar #8 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+günlük sınır: anahtar #10 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #10 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es ru C1/09: ["line 47: column 1 must be exactly 'la insurreksiyon'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es ru C1/15: ["line 22: column 1 must be exactly 'la plegaria colectiva'", "line 43: column 1 must be exactly 'el escolasticizm'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es ru C2/04: ["line 43: column 1 must be exactly 'la broma pesada'", "line 45: column 1 must be exactly 'la risa contagiosa'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es ru C2/19: ["line 53: column 1 must be exactly 'constitucionalism'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es az C1/07: ["line 54: column 1 must be exactly 'la estilística'"]
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+BAŞARISIZ es az C2/05: ['line 3: must have exactly 3 fields separated by |, has 4', 'line 4: must have exactly 3 fields separated by |, has 4']
+günlük sınır: anahtar #9 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+BAŞARISIZ es az C2/19: ["line 53: column 1 must be exactly 'constitucionalism'"]
 BAŞARISIZ es uz A2/11: ['line 3: Turkish letters left', 'line 4: Turkish letters left']
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-BAŞARISIZ es uz B1/02: ["line 69: column 1 must be exactly 'la estrategia publicitaria'", "line 70: column 1 must be exactly 'el estudio de mercado'"]
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #6 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
-bitti, çevrilen: 64
-64
+BAŞARISIZ es uz B1/04: ['line count 110 but source has 111', 'line 4: Turkish letters left']
+BAŞARISIZ es uz B2/11: ['line 41: Turkish letters left']
+BAŞARISIZ es uz B2/18: ["line 11: column 1 must be exactly 'el transcurso de la historia'"]
+HTTP 500 anahtar #10: {
+
+HTTP 503 anahtar #11: {
+
+HTTP 404 anahtar #11: {
+HTTP 503 anahtar #11: {
+
+BAŞARISIZ es uz C1/04: ['line 3: must have exactly 3 fields separated by |, has 4', 'line 4: must have exactly 3 fields separated by |, has 4']
+BAŞARISIZ es uz C1/07: ["line 64: column 1 must be exactly 'la isotopía'"]
+BAŞARISIZ es uz C1/09: ["line 8: column 1 must be exactly 'la poliarquía'"]
+BAŞARISIZ es uz C1/13: ["line 16: column 1 must be exactly 'el materialismo dialektik'"]
+BAŞARISIZ es uz C1/17: ["line 104: column 1 must be exactly 'estar vivo en el recuerdo'"]
+BAŞARISIZ es uz C2/06: ["line 32: column 1 must be exactly 'la filigrana de plata'"]
+BAŞARISIZ es uz C2/16: ["line 27: column 1 must be exactly 'adiós para siempre'"]
+bitti, çevrilen: 164
+164

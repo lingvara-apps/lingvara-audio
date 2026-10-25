@@ -1,0 +1,111 @@
+# UNIT: Industrie und Landwirtschaft | Produktion, Bergbau, Bauwesen, Landwirtschaft
+## Bergbau und Energie
+el yacimiento | Lagerstätte, Bergbaugebiet | Das Kupferbergbaugebiet produziert Tonnen.
+la perforación | Bohrung, Sondierung | Die Bohrung erreichte große Tiefe.
+el combustible fósil | fossiler Brennstoff | Der fossile Brennstoff verschmutzt ziemlich stark.
+la extracción minera | Rohstoffgewinnung, Bergbau | Die Rohstoffgewinnung erfordert viele Maschinen.
+la fundición | Schmelze, Schmelzofen | Die Schmelze verarbeitet das Roherz.
+la refinería | Raffinerie | Die Raffinerie verarbeitet jeden Tag Rohöl.
+el yacimiento petrolífero | Erdöllagerstätte | Die Erdöllagerstätte kurbelt die regionale Wirtschaft an.
+la bocamina | Stollenmundloch, Grideneingang | Das Stollenmundloch bleibt heute geschlossen.
+el filón | Erzader, Goldader | Die Goldader überraschte die Bergleute.
+la roca madre | Muttergestein, Urgestein | Das Muttergestein stützt die gesamte geologische Struktur.
+## Produktion und Fabrik
+la cadena de montaje | Montageband, Fließband | Das Montageband läuft ohne Unterbrechung.
+el operario | Fabrikarbeiter, Bediener | Der Arbeiter überprüft die Schwermaschinen.
+la pieza de recambio | Ersatzteil | Das Ersatzteil ist heute Morgen angekommen.
+la nave industrial | Fabrikgebäude, Werks halle | Das Fabrikgebäude beherbergt neue automatische Drehbänke.
+el sistema de control de calidad | Qualitätskontrollsystem | Das Qualitätskontrollsystem weist fehlerhafte Produkte zurück.
+la cadena de producción | Produktionskette | Die Produktionskette hat sich deutlich verbessert.
+la jornada laboral | Arbeitstag, Schicht | Der Arbeitstag beginnt hier sehr früh.
+el turno nocturno | Nachtschicht | Die Nachtschicht erfordert absolute Konzentration.
+la materia prima | Rohstoff, Ausgangsmaterial | Der Rohstoff wird auf dem Weltmarkt knapp.
+el producto semielaborado | Halbfabrikat, Halbzeug | Das Halbfabrikat wartet im Lager.
+## Bauwesen
+la obra civil | Tiefbau, Infrastrukturprojekt | Das Tiefbauprojekt hat die lokalen Straßen modernisiert.
+el andamio | Gerüst | Das Gerüst trägt das Gewicht der Maurer.
+el hormigón armado | Stahlbeton, Armierter Beton | Stahlbeton garantiert maximale Festigkeit.
+la excavadora | Bagger | Der Bagger hebt heute tiefe Gräben aus.
+el arquitecto técnico | Bauleiter, technischer Architekt | Der Bauleiter unterschreibt die finalen Pläne.
+la autorización de construcción | Baugenehmigung | Die Baugenehmigung traf nach langen Monaten ein.
+el encofrado | Schalung | Die Schalung stützt den frischen Zement.
+la grúa torre | Turmdrehkran | Der Turmdrehkran hebt schwere Materialien mühelos an.
+el capataz | Polier, Vorarbeiter | Der Polier leitet die Arbeiter auf der Baustelle an.
+la cimentación | Fundament, Gründung | Die Tiefgründung verhindert künftige Absenkungen.
+## Landwirtschaft und Ackerbau
+el tractor agrícola | Landwirtschaftstraktor, Ackerschlepper | Der Ackerschlepper pflügt die feuchte Erde.
+la cosecha anual | Jahresernte | Die Jahresernte übertraf alle vorherigen Erwartungen.
+el sistema de regadío | Bewässerungssystem | Das Bewässerungssystem optimiert das verfügbare Wasser.
+el invernadero | Gewächshaus, Treibhaus | Das Gewächshaus schützt die Kulturpflanzen vor extremer Kälte.
+la abonadura | Düngung | Die organische Düngung verbessert die Bodenqualität.
+el grano de trigo | Weizenkorn | Das Weizenkorn speist Getreidemühlen.
+la plaga de insectos | Insekten plage | Die Insektenplage hat den gesamten Garten zerstört.
+el cultivo intensivo | Intensivlandwirtschaft | Die Intensivlandwirtschaft laugt den Boden schnell aus.
+la herramienta de labranza | Ackergerät, Bodenbearbeitungsgerät | Das Ackergerät erfordert ständige Wartung.
+el silo de grano | Getreidesilo | Das Getreidesilo lagert tonnenweise Mais.
+## Viehzucht
+el ganado bovino | Rinderbestand, Rindvieh | Das Rindvieh weidet auf grünen Wiesen.
+la granja lechera | Milchfarm, Milchviehbetrieb | Die Milchfarm produziert exquisite handwerkliche Käsesorten.
+el pienso compuesto | Kraftfutter, Mischfutter | Das Mischfutter ernährt die weißen Schweine.
+la cabaña ganadera | Nutztierbestand, Viehbestand | Der nationale Nutztierbestand ist in diesem Jahr gewachsen.
+el corral | Hühnerhof, Gehege | Der Hühnerhof beherbergt sehr aktive Legehühner.
+la apicultura | Imkerei, Bienenzucht | Die Imkerei produziert reinen Berg Honig.
+el establo | Stall | Der Stall hält die Pferde warm.
+la esquiladora | Schermaschine, Wollschermaschine | Die Schermaschine erleichtert die Arbeit mit Schafen.
+el veterinario rural | Landtierarzt | Der Landtierarzt kümmert sich um Notfälle auf Höfen.
+la pasteurización | Pasteurisierung | Die Pasteurisierung beseitigt schädliche Bakterien in der Milch.
+## Forstwirtschaft und Holz
+la tala selectiva | selektive Fällung, nachhaltige Holznahme | Die selektive Fällung bewahrt das waldbauliche Gleichgewicht.
+el aserradero | Sägewerk | Das Sägewerk schneidet Stämme in gerade Bretter.
+la repoblación forestal | Wiederaufforstung | Die Wiederaufforstung belebt zerstörte Gebiete neu.
+el tronco de pino | Kiefernstamm | Der Kiefernstamm ist im nassen Zustand extrem schwer.
+la celulosa de papel | Papier zellstoff | Der Papier zellstoff füttert die großen Rotationsdruckmaschinen.
+el guarda forestal | Förster, Waldhüter | Der Förster überwacht mögliche Sommerbrände.
+la madera noble | Edelholz, Hartholz | Edelholz verteuert klassische Möbel.
+el vivero forestal | Forstbaumschule | Die Forstbaumschule zieht Tausende junge Eichen groß.
+la resina de pino | Kiefernharz | Kiefernharz dient zur Herstellung von Lacken.
+el bosque maderero | Nutzwald | Der Nutzwald liefert lebenswichtige wirtschaftliche Ressourcen.
+## Fischerei und Aquakultur
+el barco pesquero | Fischerboot, Fischereifahrzeug | Das Fischerboot fischt heute auf offener See.
+la red de arrase | Schleppnetz | Das Schleppnetz fängt verschiedene Arten vom Meeresgrund ein.
+la piscifactoría | Fischzucht, Fischfarm | Die Fischzucht zieht Forellen in klarem Wasser groß.
+el caladero | Fanggebiet, Fischgrund | Der traditionelle Fischgrund zieht viele Boote an.
+la lonja de pescado | Fischbörse, Fischmarkthalle | Die Fischbörse versteigert frischen Fang bei Anbruch des Tages.
+el puerto pesquero | Fischereihafen | Der Fischereihafen herrscht seit Mitternacht reges Treiben.
+la veda de pesca | Schonzeit, Fischereiverbot | Die Schonzeit schützt die Fortpflanzung der Meerestiere.
+el marisco fresco | frische Meeresfrüchte | Frische Meeresfrüchte kommen direkt in die Restaurants.
+la flota atunera | Thunfischflotte | Die Thunfischflotte segelt in tropische Gewässer.
+el anzuelo | Angelhaken | Der Metallangelhaken fängt große Fische mit Leichtigkeit.
+## Wasser- und Abfallwirtschaft
+la depuradora de agua | Kläranlage, Wasserreinigungsanlage | Die Kläranlage reinigt komplette städtische Abwässer.
+la red de saneamiento | Kanalisationsnetz | Das Kanalisationsnetz verhindert Überschwemmungen auf den Straßen.
+la planta de agua potable | Trinkwasseraufbereitungsanlage | Die Trinkwasseraufbereitungsanlage versorgt die ganze Stadt.
+el colector principal | Hauptsammler, Hauptabwasserkanal | Der Hauptsammler leitet städtische Abwässer ab.
+la desaladora | Meerwasserentsalzungsanlage | Die Entsalzungsanlage verwandelt Meerwasser in Trinkwasser.
+el pozo artesiano | Artesischer Brunnen | Der artesischer Brunnen fördert tiefes Grundwasser.
+la válvula de retención | Rückschlagventil | Das Rückschlagventil verhindert den Rückfluss von Flüssigkeiten.
+el caudal de agua | Wasserdurchfluss, Wasserführung | Die Wasserführung ging während der Dürre zurück.
+la red hidraulica | Hydrauliknetz | Das Hydrauliknetz treibt große Generator turbinen an.
+el estanque de tormentas | Regenrückhaltebecken | Das Regenrückhaltebecken hält überschüssiges Regenwasser zurück.
+## Logistik und Lagerhaltung
+el centro logístico | Logistikzentrum | Das Logistikzentrum verteilt Waren im ganzen Land.
+la carretilla elevadora | Gabelstapler, Stapler | Der Gabelstapler transportiert schwere Paletten.
+el palé de madera | Holzpalette | Die Holzpalette stapelt Kartons ordentlich auf.
+la cinta transportadora | Förderband | Das Förderband beschleunigt die Lkw-Beladung.
+el muelle de carga | Laderampe | Die Laderampe nimmt tonnenschwere Lkw an.
+la estiba | Ladungssicherung, Stauung | Die korrekte Stauung vermeidet Transportschäden.
+el inventario rotativo | rollierendes Inventar, zyklische Bestandsaufnahme | Das rollierende Inventar kontrolliert die täglichen Bestände.
+la báscula camionera | Lkw-Waage, Fahrzeugwaage | Die Lkw-Waage wiegt voll beladene Fahrzeuge.
+el operador logístico | Logistikdienstleister, Logistikpartner | Der Logistikdienstleister steuert komplexe internationale Sendungen.
+la estantería industrial | Industriewagenregal, Schwerlastregal | Das Schwerlastregal optimiert den verfügbaren vertikalen Raum.
+## Automatisierung und Technologie
+el autómata programable | speicherprogrammierbare Steuerung (SPS) | Die speicherprogrammierbare Steuerung kontrolliert komplexe Industrieroboter.
+el sensor de presión | Drucksensor | Der Drucksensor erkennt Störungen in Rohren.
+la pantalla táctil industrial | industrieller Touchscreen | Der industrielle Touchscreen ermöglicht schnelle Einstellungen.
+el brazo mecánico | mechanischer Arm, Roboterarm | Der Roboterarm schweißt Teile mit millimetergenauer Präzision.
+la válvula solenoide | Magnetventil | Das Magnetventil regelt Gasströme automatisch.
+el variador de frecuencia | Frequenzumrichter | Der Frequenzumrichter dämpft industrielle Elektromotoren.
+el panel de operador para máquinas | Maschinenbedientafel | Die Maschinenbedientafel zeigt klare Betriebsdaten an.
+el sistema SCADA | SCADA-System | Das SCADA-System überwacht entfernte industrielle Prozesse.
+la placa de circuito impreso | gedruckte Schaltung, Platine | Die Platine steuert die moderne Maschinerie.
+el relé térmico | Thermorelais | Das Thermorelais schützt Motoren vor schwerer Überlastung.

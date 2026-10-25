@@ -1,0 +1,111 @@
+# UNIT: Subyunktivi işlədən ifadələr | kaş, mümkündür ki, baxmayaraq ki...
+## Ehtimal və arzu
+ojalá | kaş | Kaş ki, yarın hava yaxşı olsun.
+quiera_dios | inşallah | İnşallah hər şey yaxşı gedər.
+mal_grado | istəməyərəcək | Pulunu ödədikləri halda belə istəməyərəcək hərəkət edir.
+supóngase | fərz edək ki | Fərz edək ki, vaxtımız yoxdur.
+temer_que | qorxmaq | Gecikəcəklərindən qorxuram.
+desear_que | istəmək | İmtahanı keçməyini istəyirəm.
+esperar_que | ümid etmək | Məni anlamağını ümid edirəm.
+necesitar_que | ehtiyacı olmaq | Bu gün mənə kömək etməyinə ehtiyacım var.
+pedir_que | xahiş etmək | Səssiz olmalarını xahiş edirəm.
+exigir_que | tələb etmək | Mənə izahat vermələrini tələb edirəm.
+## Şübhə və ehtimal
+dudar_que | şübhələnmək | Bu gün gələcəklərindən şübhələnirəm.
+negar_que | təkzib etmək | Nəsə oğurladıqlarını təkzib edirəm.
+improbabilidad | ehtimalasızlıq | Baş vermə ehtimalı aşağıdır.
+cabalgar_dudalar | qibtə etmək (şübhələnmək) | Qalib gəlib-gəlməyəcəyimizlə bağlı şübhələr var.
+suponer_que | güman etmək | Bütün günortadan sonra yağış yağdığını güman edək.
+creer_posible | mümkün hesab etmək | Tezliklə bitirəcəklərini mümkün hesab etmirəm.
+parecer_mentira | inanılmaz görünmək | Bunu bilməmələri inanılmaz görünür.
+resultar_dudoso | şübhəli görünmək | Təklifi qəbul etmələri şübhəli görünmür.
+ser_improbable | ehtimal olunmamaq | İyul ayında qar yağması ehtimal olunmur.
+haber_indicios | əlamətlər olmaq | Yalan danışdıqlarına dair əlamətlər var.
+## Hissi reaksiya
+alegrarse_de_que | sevinmək | Burada olmağına sevinirəm.
+sentir_que | təəssüflənmək | Özünü pis hiss etməyinə təəssüflənirəm.
+sorprenderse_de_que | təəccüblənmək | Məni salamlamamağına təəccüblənirəm.
+molestarse_de_que | narahat olmaq | Bu qədər çox danışıqlarından narahat oluram.
+temor_fundado | əsaslı qorxu | Uğursuz olacaqlarına dair əsaslı qorxu var.
+lamentar_que | heyifsələnmək | Getdiyinə heyifsələnirəm.
+extrañarse_de_que | qəribəsinmək | Heç kimin cavab verməməsini qəribəsinirəm.
+entristecerse_de_que | kədərlənmək | Sayılmamasına kədərlənir.
+indignarse_de_que | qəzəblənmək | Belə yalan danışmalarına qəzəblənir.
+gustar_que | xoşuna gəlmək | Bu qədər çox kitab oxumağın xoşuma gəlir.
+## Əmr və qadağa
+mandar_que | əmr etmək | Salonu təmizləməyini əmr edir.
+prohibir_que | qadağan etmək | Burada siqaret çəkməyi qadağan edirəm.
+impedir_que | mane olmaq | Vəsiqəsiz girməyimizə mane olurlar.
+aconsejar_que | məsləhət görmək | Bir az dincəlməyini məsləhət görürəm.
+sugerir_que | təklif etmək | Kinoya getməyimizi təklif edirəm.
+recomendar_que | tövsiyə etmək | Bu kitabı oxumağını tövsiyə edirəm.
+permitir_que | icazə vermək | Çöldə oynamağımıza icazə verirlər.
+rogar_que | yalvarmaq | Məni bağışlamağın üçün yalvarıram.
+insistir_que | təkid etmək | İndi ödəniş etməyimizdə təkid edirlər.
+proponer_que | təklif etmək (başlamaq) | Dərhal başlamağımızı təklif edirəm.
+## Qiymətləndirmə və fikir
+ser_bueno_que | yaxşı olmaq | Hər gün məşq etməyin yaxşı bir şeydir.
+ser_necesario_que | zəruri olmaq | Bu gün imza atmağın zəruridir.
+ser_importante_que | vacib olmaq | Vaxtında gəlməyin vacibdir.
+ser_mejor_que | daha yaxşı olmaq | Dərhal getməyimiz daha yaxşıdır.
+ser_conveniente_que | məqsədəuyğun olmaq | Daha çox oxumağın məqsədəuyğundur.
+ser_justo_que | ədalətli olmaq | Əməyinizi qiymətləndirmələri ədalətlidir.
+ser_lógico_que | məntiqli olmaq | Şübhələrinizin olması məntiqlidir.
+ser_extraño_que | qəribə olmaq | Zəng etməmiş olmaları qəribədir.
+ser_evidente_que | aşkar olmaq | Həmişə yalan danışdığın aşikardır.
+ser_cierto_que | düzgün olmaq | Həqiqəti bilmələri düzgündür.
+## Şərt və bağlayıcılar
+salvo_que_llueva | yağış yağmasa | Şiddətli yağış yağmasa gedəcəyik.
+con_tal_de_que | şərtilə | Ödəniş etməyin şərtilə pulu verəcəyəm.
+supuesto_que_llueva | yağacağı təqdirdə | Yağış yağacağı təqdirdə burada qal.
+sin_que | -madan, -mədən | Heç kim onu görmədən çölə çıxdı.
+antes_de_que | -məzdən əvvəl | Hava qaralmazdan əvvəl geri qayıt.
+para_que | -məsi üçün | Keçməsi üçün çox çalışdı.
+a_pesar_de_que | baxmayaraq | Qar yağmasına baxmayaraq gəldilər.
+por_mucho_que | nə qədər... da | Nə qədər təkid etsən də, xeyr deyəcəyəm.
+cualquiera_que | hər kim ki | Kim gəlsə gəlsin, xoş gəlmişdir.
+dondequiera_que | hara olursa olsun | Məni hara çağırsan, ora gedəcəyəm.
+## Zaman və gələcək zaman
+en_cuanto | -ir-mez | Çatan kimi mənə xəbər ver.
+hasta_que | -ənədək | Sən bitirənədək gözləyəcəyəm.
+tan_pronto_como | -ən kimi | Səhər açılan kimi yola çıxırıq.
+después_de_que | -dikdən sonra | Nahar etdikdən sonra çölə çıxacağıq.
+a_medida_que | -dikcə | Daha çox oxuduqca böyüyürsən.
+mientras | -kən | Mən işləyərkən sən şam yeməyini hazırola.
+siempre_que | -diyi müddətcə | Günəş çıxdığı müddətcə gedəcəyik.
+en_el_momento_que | -ən an | Evə çatdığın an məni zəng et.
+apenas | -ən kimi | Səhər açılan kimi yola düşəcəyik.
+luego_que | -ir-mez | Bitirən kimi səni zəng edəcəyəm.
+## Əmrin inkarı
+no_hagas | etmə | Girərkən səs-küy etmə.
+no_digas | demə | Valideynlərinə yalanlar demə.
+no_vayas | getmə | Gecə vaxtı tək getmə.
+no_seas | olma | Bu gün bu qədər səbirsiz olma.
+no_tengas | qorxma (sahib olma) | Soruşmaqdan qorxma.
+no_salgas | çıxma | Soyuqda paltosuz çölə çıxma.
+no_comas | yemə | Ardıcıl olaraq bu qədər şirniyyat yemə.
+no_duermas | yatma | Dərs zamanı yatma.
+no_pongas | qoyma | Ayaqlarını masanın üzərinə qoyma.
+no_escuches | dinləmə | Pis məsləhətləri dinləmə.
+## Subyunktif və qeyri-reallıq
+ojalá_hubiera_sido | kaş olsaydı | Kaş ki, daha asan olsaydı.
+si_fuera | olsaydı | Varlı olsaydım, daha çox səyahət edərdim.
+si_hubiera_sabido | biləsiydim | Biləsiydim, gəlməzdim.
+como_si_fuera | sanki... kimi | Sanki rəhbər imiş kimi danışır.
+caso_omiso | məhəl qoymamaq | Dediklərimə məhəl qoymurlar.
+quiera_el_cielo | inşallah | İnşallah bir daha görüşərik.
+valga_la_pena | dəymək | Səyə dəyməsini istəyirəm.
+dado_el_caso | hal baş verdikdə | Əskik olan hal baş verdikdə, xəbər ver.
+quede_entre_nous | aramızda qalsın | Bu sirr aramızda qalsın.
+sea_como_sea | hər halda | Hər nə olursa olsun, bunu yaxşı edəcəyik.
+## Alternativ bağlayıcılar
+en_cualquier_caso | hər halda | Hər halda, səni dəstəkləyəcəyik.
+por_si_acaso | ehtimal ki | Yağış yağma ehtimalına qarşı çətir götür.
+a_efectos_de_que | məqsədilə | Hər kəsin eşitməsi məqsədilə uca səslə danışıram.
+con_la_mira_puesta | göz önündə | İrəli çəkilməyi göz önündə tutaraq işləyir.
+de_modo_que | elə ki | Öyle çox çalışdı ki, imtahanı keçdi.
+a_fin_de_que | -məsi üçün | Mənə izahat verməyin üçün gəldim.
+no_obstante_que | baxmayaraq ki | Soyuq olmasına baxmayaraq ki gəldilər.
+en_tanto_cuanto | -diyi qədər | Bacardığın qədər sənə kömək edəcəyəm.
+a_cambio_de_que | qarşılığında | Səyahət etməyin qarşılığında itə baxacağam.
+bajo_condición_de_que | şərtilə | Ödəniş etməyin şərtilə daxil olacaqsan.

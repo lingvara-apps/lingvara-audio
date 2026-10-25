@@ -1,0 +1,111 @@
+# UNIT: Ofis va IT jargonlari | Korporativ jargon, dasturlash tili, moliyaviy slang
+## Korporativ hayot
+la startup | startap, yangi korxona | Startap yangi investorlarni qidirmoqda.
+el burn-out | haddan tashqari charchash, emotsional toʻyinish | Emotsional toʻyinish koʻplab xodimlarga taʼsir qilmoqda.
+el networking | ishbilarmonlik aloqalari, tanish-bilish orttirish | Ishbilarmonlik aloqalarini oʻrnatish ish topish uchun foydalidir.
+el briefing | qisqa majlis, axborot yigʻini | Ertalab soatning boshida qisqa majlisimiz bor.
+el feedback | fikr-mulohaza, baho | Rahbar jamoaga ijobiy fikr-mulohaza bildirdi.
+el deadline | oxirgi muddat, belgilangan vaqt | Loyihaning oxirgi muddati — juma kuni.
+el target | maqsadli auditoriya | Mahsulotning maqsadli auditoriyasini yaxshi belgilab olishimiz kerak.
+el management | boshqaruv, rahbariyat | Rahbariyat yangi strategiyani tasdiqladi.
+el b2b | biznesdan biznesga, korxonalararo savdo | Kompaniya b2b sektoriga eʼtibor qaratmoqda.
+el b2c | isteʼmolchiga yoʻnaltirilgan savdo | B2c modeli koʻp reklama talab qiladi.
+## Dasturlash tili va kodlash
+el commit | kodni saqlash, oʻzgarishlarni tasdiqlash | Ketishdan oldin kodni saqlash amalini bajardim.
+el merge | kodlarni birlashtirish | Kodlarni birlashtirish jarayonida baʼzi ziddiyatlar kelib chiqdi.
+el bug | dastur xatosi, nosozlik | Ilovada jiddiy dastur xatosini topdim.
+el refactor | kodni tartibga solish, optimallashtirish | Kodni tartibga solish tizim tezligini oshirdi.
+el deploy | tarqatish, ishlab chiqarishga chiqarish | Ishlab chiqarishga chiqarish bu kecha amalga oshiriladi.
+el sprint | qisqa muddatli sikl, chaqqon rivojlanish davri | Qisqa muddatli siklni muvaffaqiyatli yakunladik.
+el back-end | dasturning orqa qismi, server qismi | U dasturning orqa qismi boʻyicha dasturchi boʻlib ishlaydi.
+el front-end | interfeys qismi, foydalanuvchi qismi | Interfeys qismi juda tushunarli boʻlishi kerak.
+el stack | texnologiyalar toʻplami | Texnologiyalar toʻplamimizga Python va React kiradi.
+el script | skript, buyruqlar fayli | Vazifalarni avtomatlashtirish uchun skript yozdim.
+## Server va maʼlumotlar bazasi
+el cluster | serverlar guruhi, klaster | Serverlar guruhi millionlab soʻrovlarni boshqaradi.
+el backup | zaxira nusxa, maʼlumotlarni saqlash | Avtomatik zaxira nusxa tong saharlab ishga tushadi.
+el uptime | uzluksiz ishlash vaqti | Server toʻqson toʻqqiz foiz uzluksiz ishlash vaqtiga ega.
+el log | jurnal fayli, harakatlar tarixi | Xatolarni qidirish uchun jurnal faylini koʻzdan kechirdim.
+el script de base de datos | maʼlumotlar bazasi skripti | Kecha maʼlumotlar bazasi skriptini ishga tushirdim.
+el query | maʼlumotlar bazasi soʻrovi, qidiruv soʻrovi | Soʻrovga javob berish juda koʻp vaqt oldi.
+el cache | vaqtinchalik xotira, kes | Vaqtinchalik xotirani tozalash muammoni hal qildi.
+el hosting | xosting xizmati, joy ajratish | Kuchliroq xosting xizmatini yolladik.
+el dominio web | veb-domen, internet manzil | Veb-domen ikki yilga roʻyxatdan oʻtkazilgan.
+el firewall | xavfsizlik devori, tarmoq himoyasi | Xavfsizlik devori shubhali kirishni blokladi.
+## Qurilmalar va tarmoqlar
+el router | marshrutizator, routerni sozlash | Bogʻlanishni tiklash uchun routerni qayta ishga tushirdim.
+el switch | tarmoq kommutatori, kalit qurilma | Tarmoq kommutatori ofisdagi barcha kompyuterlarni oʻzaro bogʻlaydi.
+el hardware | apparat taʼminoti, qattiq jihozlar | Jihozlarning apparat taʼminotini yangiladik.
+el firmware | mikrodastur, qurilma dasturiy taʼminoti | Kameraning mikrodasturini yangilash zarur.
+el puerto | port, ulash punkti | USB porti ishlashdan toʻxtadi.
+el protocolo de red | tarmoq protokoli | Tarmoq protokolini xavfsiz tarzda sozladik.
+el ancho de banda | tarmoq oʻtkazish qobiliyati, oʻtkazish kengligi | Joriy oʻtkazish kengligi yetarli emas.
+el conector | ulagich, razʼem | Tarmoq ulagichi singan.
+el dispositivo | elektron qurilma, jihoz | Tizimga yangi qurilma ulandi.
+el monitor | monitor, displey | Monitor tinimsiz miltillamoqda.
+## Kiberxavfsizlik
+el malware | zararli dastur, vabo dastur | Antivirus xavfli zararli dasturni aniqladi.
+el phishing | fishing hujumi, aldov yoʻli bilan maʼlumot oʻgʻirlash | Ular fishing tuzogʻiga tushib qolishdi.
+el ransomware | tovlamachi dastur, shifrlash virusi | Tovlamachi dastur barcha fayllarni shifrladi.
+el exploit | zaiflikdan foydalanish vositasi, ekspluayt | Xakerlar nomaʼlum zaiflikdan foydalanish vositasidan foydalanishdi.
+el troyano | troyan oti, yashirin zararli dastur | Troyan oti bank maʼlumotlarini oʻgʻirladi.
+el keylogger | klaviatura josusi, tugmalar qayd qiluvchi | Klaviatura tugmalarini qayd qiluvchi josusni topishdi.
+el sniffer | paketlarni tutuvchi, tarmoq trafigini kuzatuvchi | Tarmoq trafigini ushlash uchun paketlarni tutuvchidan foydalanishdi.
+el honeypot | aldamchi server, tuzoq tizim | Hujumchilarni tutish uchun aldamchi server oʻrnatishdi.
+el proxy | proksi-server, vositachi server | Xavfsiz proksi-server orqali tarmoqda kezishmoqda.
+el certificado ssl | SSL sertifikati | Veb-sayt oʻzining SSL sertifikatini yangilashi kerak.
+## Loyihalarni boshqarish metodologiyalari
+el scrum | skram, chaqqon boshqaruv usuli | Dasturiy taʼminotni ishlab chiqishda skram usulini qoʻllaymiz.
+el kanban | kanban taxtasi, vizual vazifalar tizimi | Kundalik vazifalarni tartibga solish uchun kanban taxtasidan foydalanamiz.
+el product owner | mahsulot egasi, mahsulot menejeri | Mahsulot egasi bajarilishi kerak boʻlgan ishlarning ustuvorligini belgilaydi.
+el scrum master | skram ustasi, jarayon muvofiqlashtiruvchisi | Skram ustasi jamoa yigʻilishlarini osonlashtiradi.
+el milestone | oraliq marra, muhim bosqich | Birinchi oraliq marraga erishganimizni nishonladik.
+el feedback loop | fikr-mulohaza sikli, javob qaytarish zanjiri | Tezkor fikr-mulohaza sikli sifatni yaxshilaydi.
+el stakeholder | manfaatdor tomon, ishtirokchi | Natijalarni manfaatdor tomonlarga taqdim etdik.
+el scope | loyiha hajmi, bajariladigan ishlar doirasi | Loyiha hajmining nazoratsiz oʻsib ketishining oldini olishimiz kerak.
+el kickoff | boshlangʻich uchrashuv, kirish yigʻini | Loyihaning boshlangʻich uchrashuvi dushanba kuni boʻladi.
+el release | yangi versiya, taqdimot | Yangi versiya qoʻshimcha imkoniyatlarni oʻz ichiga oladi.
+## Korporativ unvonlar va rollar
+el cto | bosh texnologiya direktori | Bosh texnologiya direktori raqamli oʻzgarishlarga rahbarlik qildi.
+el ceo | bosh ijrochi direktor, kompaniya rahbari | Bosh ijrochi direktor xalqaro kengayish haqida eʼlon qildi.
+el cfo | bosh moliya direktori | Bosh moliya direktori yillik budjetni koʻrib chiqdi.
+el coo | bosh operatsion direktor | Bosh operatsion direktor taʼminot zanjirini optimallashtirdi.
+el ciso | bosh axborot xavfsizligi direktori | Bosh axborot xavfsizligi direktori yangi xavfsizlik siyosatlarini joriy etdi.
+el product manager | mahsulot menejeri | Mahsulot menejeri foydalanuvchilar bilan suhbat oʻtkazdi.
+el team lead | jamoa rahbari, guruh yetakchisi | Jamoa rahbari yangi vazifalarni taqsimladi.
+el junior | kichik mutaxassis, tajribasiz xodim | Kichik dasturchini ishga olishdi.
+el senior | bosh mutaxassis, tajribali xodim | Tajribali meʼmor infratuzilmani loyihalashtirdi.
+el freelancer | erkin xodim, mustaqil mutaxassis | Uyda erkin xodim sifatida ishlashni afzal koʻradi.
+## Moliyaviy jargon va pul argosi
+el cash | naqd pul, tirik pul | Tezkor amaliyotlar uchun naqd pulda toʻlashni afzal koʻrishadi.
+el ftx | kriptovalyuta birjasi nomi | Kriptobirja qulagandan keyin pul yoʻqotdi.
+el exchange | kriptovalyuta birjasi, ayirboshlash punkti | Mablagʻlarini xavfsiz kriptovalyuta birjasiga oʻtkazdi.
+el holding | xolding kompaniyasi, bosh korxona | Xolding kompaniyasi bir nechta texnologik shoʻba korxonalarga egalik qiladi.
+el cashflow | pul oqimi, naqd pul harakati | Oylik pul oqimi ushbu chorakda ijobiy natija bermoqda.
+el asset | aktiv, mol-mulk | Aktivlarini turli bozorlarda diversifikatsiya qilishdi.
+el revenue | daromad, tushum | Yillik daromad kutilganidan oshib ketdi.
+el startup funding | startap moliyalashtirilishi | Farishta investorlardan startap moliyalashtirilishini qoʻlga kiritishdi.
+el venture capital | venchur kapitali, tavakkal sarmoya | Venchur kapitali jamgʻarmasi kengayish ishlarini moliyalashtirdi.
+el token | raqamli token, kiberjeton | Blokcheyn tarmogʻida yangi token chiqarishdi.
+## Marketing va savdo argosi
+el growth hacking | tezkor oʻsish usullari, oʻsish xakingi | Tez oʻsish uchun tezkor oʻsish usullarini qoʻllashdi.
+el lead | potensial mijoz, mijoz nomzodi | Kampaniya besh yuzta yangi potensial mijozni keltirib chiqardi.
+el funnel | savdo voronkasi, mijozlar oqimi vositasi | Savdo voronkasini batafsil tahlil qilishdi.
+el bounce rate | darhol chiqib ketish koʻrsatkichi | Veb-saytning darhol chiqib ketish koʻrsatkichi yuqori.
+el conversion rate | konversiya darajasi, xaridga aylanish foizi | Sahifani yaxshilash konversiya darajasini oshirdi.
+el engagement | jalb qilish darajasi, faollik koʻrsatkichi | Ijtimoiy tarmoqlardagi jalb qilish darajasini oshirishni maqsad qilishgan.
+el click-through rate | bosish darajasi, oʻtish koeffitsiyenti | Reklama ajoyib bosish darajasiga erishdi.
+el branding | brend yaratish, brend nufuzini oshirish | Bu yil brend yaratishga juda koʻp pul tikishdi.
+el copywriting | matn yozish sanʼati, kopirayting | Ishontiruvchi matn yozish sanʼati savdoni oshirdi.
+el inbound marketing | kirish marketingi, mijozni jalb qilish marketingi | Mijozlarni jalb qilish uchun kirish marketingiga tayanmoqdalar.
+## Innovatsiya va kelajak texnologiyalari
+el machine learning | mashinali oʻqish | Mashinali oʻqish isteʼmol tendensiyalarini bashorat qiladi.
+el deep learning | chuqur oʻrganish | Chuqur oʻrganish murakkab neyron tarmoqlarini qayta ishlaydi.
+el big data | katta maʼlumotlar, ulkan axborotlar | Strategik qarorlar qabul qilish uchun katta maʼlumotlarni tahlil qilishadi.
+el iot (internet de las cosas) | buyuslar interneti, narsalar interneti | Buyuslar interneti maishiy texnikani internetga ulaydi.
+el cloud computing | bulutli hisoblash, bulutli texnologiyalar | Barcha xizmatlarni bulutli hisoblashga koʻchirishdi.
+el edge computing | chekka hisoblash, qirgʻoq hisoblash texnologiyasi | Chekka hisoblash javob kechikishini kamaytiradi.
+el open source | ochiq kodli dasturiy taʼminot | Butun dunyo boʻylab ochiq kodli dasturiy taʼminot loyihalarini qoʻllab-quvvatlashadi.
+el saas | xizmat sifatida dasturiy taʼminot | Dasturiy taʼminotni xizmat sifatida dasturiy taʼminot modeli orqali sotishadi.
+el api | dasturlash interfeysi, API | Onlayn doʻkonga toʻlov dasturlash interfeysini integratsiya qilishdi.
+el web3 | uchinchi avlod veb, veb uch | Markazlashmagan uchinchi avlod veb texnologiyalarini oʻrganishmoqda.
