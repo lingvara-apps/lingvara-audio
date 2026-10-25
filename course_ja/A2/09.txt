@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, posta ve kargo, kuaför, giyim, dükkânlar, ödeme
+## Bankada
+口座 (kōza) | banka hesabı | isim | 銀行で口座を作りました。(Ginkō de kōza o tsukurimashita.) | Bankada hesap açtım.
+通帳 (tsūchō) | banka cüzdanı | isim | 通帳と印鑑を持ってきてください。(Tsūchō to inkan o motte kite kudasai.) | Banka cüzdanınızı ve mührünüzü getirin.
+暗証番号 (anshō bangō) | şifre (PIN) | isim | 暗証番号を忘れました。(Anshō bangō o wasuremashita.) | Şifremi unuttum.
+振り込み (furikomi) | havale | isim | 家賃は振り込みで払います。(Yachin wa furikomi de haraimasu.) | Kirayı havaleyle ödüyorum.
+引き出す (hikidasu) | (para) çekmek | fiil | ATMで一万円を引き出しました。(Ētīemu de ichiman en o hikidashimashita.) | ATM'den on bin yen çektim.
+預金 (yokin) | mevduat | isim | 預金は全部でいくらですか。(Yokin wa zenbu de ikura desu ka.) | Toplam mevduatım ne kadar?
+手数料 (tesūryō) | komisyon, işlem ücreti | isim | 夜は手数料がかかります。(Yoru wa tesūryō ga kakarimasu.) | Akşamları işlem ücreti alınır.
+窓口 (madoguchi) | gişe | isim | 三番の窓口へどうぞ。(Sanban no madoguchi e dōzo.) | Üç numaralı gişeye buyurun.
+ATM (ētīemu) | ATM, bankamatik | isim | コンビニにもATMがあります。(Konbini ni mo ētīemu ga arimasu.) | Marketlerde de ATM var.
+残高 (zandaka) | bakiye | isim | 残高を確認します。(Zandaka o kakunin shimasu.) | Bakiyemi kontrol ediyorum.
+## Posta ve kargo
+郵便 (yūbin) | posta | isim | 今日は郵便が来ませんでした。(Kyō wa yūbin ga kimasen deshita.) | Bugün posta gelmedi.
+切手 (kitte) | pul | isim | 八十四円の切手をください。(Hachijūyon en no kitte o kudasai.) | Seksen dört yenlik pul lütfen.
+封筒 (fūtō) | zarf | isim | 封筒に住所を書きます。(Fūtō ni jūsho o kakimasu.) | Zarfın üstüne adresi yazıyorum.
+はがき (hagaki) | kartpostal | isim | 旅行先からはがきを送りました。(Ryokōsaki kara hagaki o okurimashita.) | Seyahat ettiğim yerden kartpostal gönderdim.
+小包 (kozutsumi) | koli, paket (posta) | isim | 母から小包が届きました。(Haha kara kozutsumi ga todokimashita.) | Annemden bir koli geldi.
+宅配便 (takuhaibin) | kargo (eve teslim) | isim | 宅配便で荷物を送ります。(Takuhaibin de nimotsu o okurimasu.) | Paketi kargoyla gönderiyorum.
+速達 (sokutatsu) | ekspres posta | isim | この書類は速達でお願いします。(Kono shorui wa sokutatsu de onegaishimasu.) | Bu evrakı ekspres postayla gönderin lütfen.
+送料 (sōryō) | kargo ücreti | isim | 送料は無料です。(Sōryō wa muryō desu.) | Kargo ücretsiz.
+再配達 (saihaitatsu) | yeniden teslimat | isim | 留守だったので再配達を頼みました。(Rusu datta node saihaitatsu o tanomimashita.) | Evde olmadığım için yeniden teslimat istedim.
+受け取る (uketoru) | teslim almak | fiil | 荷物を受け取りました。(Nimotsu o uketorimashita.) | Paketi teslim aldım.
+## Kuaför ve güzellik
+美容院 (biyōin) | kuaför (kadın) | isim | 月に一回美容院に行きます。(Tsuki ni ikkai biyōin ni ikimasu.) | Ayda bir kuaföre giderim.
+床屋 (tokoya) | berber | isim | 父は駅前の床屋に行きます。(Chichi wa ekimae no tokoya ni ikimasu.) | Babam istasyon önündeki berbere gider.
+美容師 (biyōshi) | kuaför (kişi) | isim | 美容師さんに髪を切ってもらいました。(Biyōshi-san ni kami o kitte moraimashita.) | Kuaföre saçımı kestirdim.
+カット (katto) | saç kesimi | isim | カットだけお願いします。(Katto dake onegaishimasu.) | Sadece kesim lütfen.
+パーマ (pāma) | perma | isim | パーマをかけました。(Pāma o kakemashita.) | Saçıma perma yaptırdım.
+染める (someru) | boyamak (saç, kumaş) | fiil | 髪を茶色に染めました。(Kami o chairo ni somemashita.) | Saçımı kahverengiye boyattım.
+前髪 (maegami) | kâkül, perçem | isim | 前髪を少し短くしてください。(Maegami o sukoshi mijikaku shite kudasai.) | Kâkülümü biraz kısaltın lütfen.
+化粧 (keshō) | makyaj | isim | 姉は毎朝化粧をします。(Ane wa maiasa keshō o shimasu.) | Ablam her sabah makyaj yapar.
+ネイル (neiru) | tırnak bakımı, oje | isim | 友達とネイルに行きました。(Tomodachi to neiru ni ikimashita.) | Arkadaşımla manikürcüye gittim.
+剃る (soru) | tıraş etmek | fiil | 毎朝ひげを剃ります。(Maiasa hige o sorimasu.) | Her sabah tıraş olurum.
+## Kıyafet alışverişi
+試着する (shichaku suru) | (kıyafet) denemek | fiil · düzensiz | このズボンを試着してもいいですか。(Kono zubon o shichaku shite mo ii desu ka.) | Bu pantolonu deneyebilir miyim?
+素材 (sozai) | malzeme, kumaş | isim | このシャツの素材は何ですか。(Kono shatsu no sozai wa nan desu ka.) | Bu gömleğin kumaşı ne?
+綿 (men) | pamuk | isim | 綿のシャツは涼しいです。(Men no shatsu wa suzushii desu.) | Pamuklu gömlekler serin tutar.
+柄 (gara) | desen | isim | 花の柄のワンピースを買いました。(Hana no gara no wanpīsu o kaimashita.) | Çiçek desenli bir elbise aldım.
+無地 (muji) | düz (desensiz) | isim | 無地のTシャツが欲しいです。(Muji no tīshatsu ga hoshii desu.) | Düz bir tişört istiyorum.
+流行 (ryūkō) | moda, akım | isim | 今年はこの色が流行しています。(Kotoshi wa kono iro ga ryūkō shite imasu.) | Bu yıl bu renk moda.
+おしゃれ (oshare) | şık, modaya uygun | sıfat | 彼女はいつもおしゃれです。(Kanojo wa itsumo oshare desu.) | O her zaman şıktır.
+ぴったり (pittari) | tam oturan, cuk | zarf | この靴はサイズがぴったりです。(Kono kutsu wa saizu ga pittari desu.) | Bu ayakkabının bedeni tam oldu.
+返品 (henpin) | ürün iadesi | isim | セール品は返品できません。(Sēruhin wa henpin dekimasen.) | İndirimli ürünler iade edilemez.
+交換 (kōkan) | değişim, değiş tokuş | isim | サイズを交換してもらえますか。(Saizu o kōkan shite moraemasu ka.) | Bedenini değiştirebilir misiniz?
+## Sipariş ve teslimat
+配達 (haitatsu) | teslimat, dağıtım | isim | ピザの配達を頼みました。(Piza no haitatsu o tanomimashita.) | Pizza siparişi verdim.
+通販 (tsūhan) | uzaktan satış, online alışveriş | isim | 通販で本を買いました。(Tsūhan de hon o kaimashita.) | Kitabı internetten sipariş ettim.
+在庫 (zaiko) | stok | isim | この色の在庫はありますか。(Kono iro no zaiko wa arimasu ka.) | Bu rengin stoğu var mı?
+品切れ (shinagire) | tükenmiş (ürün) | isim | 申し訳ありません、今品切れです。(Mōshiwake arimasen, ima shinagire desu.) | Kusura bakmayın, şu an tükendi.
+保証 (hoshō) | garanti | isim | この時計は一年の保証付きです。(Kono tokei wa ichinen no hoshōtsuki desu.) | Bu saat bir yıl garantili.
+ポイントカード (pointo kādo) | puan kartı | isim | ポイントカードはお持ちですか。(Pointo kādo wa omochi desu ka.) | Puan kartınız var mı?
+領収書 (ryōshūsho) | makbuz (resmî) | isim | 領収書をお願いします。(Ryōshūsho o onegaishimasu.) | Makbuz alabilir miyim?
+レシート (reshīto) | fiş | isim | レシートは袋に入れておきます。(Reshīto wa fukuro ni irete okimasu.) | Fişi poşete koyuyorum.
+包む (tsutsumu) | sarmak, paketlemek | fiil | プレゼント用に包んでください。(Purezento-yō ni tsutsunde kudasai.) | Hediye paketi yapar mısınız?
+税込み (zeikomi) | vergi dahil | isim | これは税込みの値段ですか。(Kore wa zeikomi no nedan desu ka.) | Bu fiyata vergi dahil mi?
+## Dükkânlar ve hizmetler
+クリーニング (kurīningu) | kuru temizleme | isim | スーツをクリーニングに出しました。(Sūtsu o kurīningu ni dashimashita.) | Takım elbiseyi kuru temizlemeye verdim.
+コインランドリー (koin randorī) | jetonlu çamaşırhane | isim | 洗濯機が壊れたのでコインランドリーに行きます。(Sentakuki ga kowareta node koin randorī ni ikimasu.) | Çamaşır makinesi bozulduğu için çamaşırhaneye gidiyorum.
+マッサージ (massāji) | masaj | isim | 肩のマッサージをしてもらいました。(Kata no massāji o shite moraimashita.) | Omuz masajı yaptırdım.
+ガソリンスタンド (gasorin sutando) | benzin istasyonu | isim | ガソリンスタンドに寄ります。(Gasorin sutando ni yorimasu.) | Benzinliğe uğruyorum.
+本屋 (hon'ya) | kitapçı | isim | 駅の本屋で雑誌を買いました。(Eki no hon'ya de zasshi o kaimashita.) | İstasyondaki kitapçıdan dergi aldım.
+花屋 (hanaya) | çiçekçi | isim | 花屋でバラを買いました。(Hanaya de bara o kaimashita.) | Çiçekçiden gül aldım.
+パン屋 (pan'ya) | fırın, ekmekçi | isim | 近所のパン屋は朝七時に開きます。(Kinjo no pan'ya wa asa shichiji ni akimasu.) | Mahalledeki fırın sabah yedide açılır.
+八百屋 (yaoya) | manav | isim | 八百屋で野菜を買います。(Yaoya de yasai o kaimasu.) | Manavdan sebze alırım.
+魚屋 (sakanaya) | balıkçı (dükkân) | isim | 魚屋さんにおすすめを聞きました。(Sakanaya-san ni osusume o kikimashita.) | Balıkçıya ne önerdiğini sordum.
+文房具屋 (bunbōguya) | kırtasiye | isim | 文房具屋でノートを買います。(Bunbōguya de nōto o kaimasu.) | Kırtasiyeden defter alıyorum.
+## Mağazada kibar dil
+いかがですか (ikaga desu ka) | nasıl olur?, ister misiniz? (kibar) | ifade | コーヒーはいかがですか。(Kōhī wa ikaga desu ka.) | Kahve ister misiniz?
+恐れ入ります (osoreirimasu) | rica ederim; zahmet oldu (çok kibar) | ifade | 恐れ入りますが、少々お待ちください。(Osoreirimasu ga, shōshō omachi kudasai.) | Zahmet olacak ama biraz bekler misiniz?
+よろしいですか (yoroshii desu ka) | uygun mu?, olur mu? (kibar) | ifade | カードでよろしいですか。(Kādo de yoroshii desu ka.) | Kartla olur mu?
+お手洗い (otearai) | tuvalet (kibar) | isim | お手洗いはどちらですか。(Otearai wa dochira desu ka.) | Tuvalet ne tarafta?
+順番 (junban) | sıra | isim | 順番にお呼びします。(Junban ni oyobi shimasu.) | Sırayla çağıracağız.
+列 (retsu) | sıra, kuyruk | isim | 列の後ろに並んでください。(Retsu no ushiro ni narande kudasai.) | Kuyruğun arkasına geçin lütfen.
+整理券 (seiriken) | sıra numarası fişi | isim | 整理券を取ってお待ちください。(Seiriken o totte omachi kudasai.) | Sıra fişi alıp bekleyin lütfen.
+営業時間 (eigyō jikan) | çalışma saatleri | isim | 営業時間は十時から八時までです。(Eigyō jikan wa jūji kara hachiji made desu.) | Çalışma saatleri ondan sekize kadar.
+定休日 (teikyūbi) | haftalık kapalı gün | isim | 定休日は水曜日です。(Teikyūbi wa suiyōbi desu.) | Kapalı günümüz çarşamba.
+開店 (kaiten) | dükkân açılışı | isim | 新しいカフェが開店しました。(Atarashii kafe ga kaiten shimashita.) | Yeni bir kafe açıldı.
+## Ödeme
+クレジットカード (kurejitto kādo) | kredi kartı | isim | クレジットカードで払えますか。(Kurejitto kādo de haraemasu ka.) | Kredi kartıyla ödeyebilir miyim?
+支払い (shiharai) | ödeme | isim | 支払いは来月です。(Shiharai wa raigetsu desu.) | Ödeme gelecek ay.
+分割 (bunkatsu) | taksit | isim | 分割で払いたいです。(Bunkatsu de haraitai desu.) | Taksitle ödemek istiyorum.
+一括 (ikkatsu) | tek çekim, peşin | isim | 一括でお願いします。(Ikkatsu de onegaishimasu.) | Tek çekim lütfen.
+消費税 (shōhizei) | KDV, tüketim vergisi | isim | 消費税は十パーセントです。(Shōhizei wa jippāsento desu.) | Tüketim vergisi yüzde on.
+合計 (gōkei) | toplam | isim | 合計で三千円です。(Gōkei de sanzen en desu.) | Toplam üç bin yen.
+電子マネー (denshi manē) | elektronik para | isim | 電子マネーで払います。(Denshi manē de haraimasu.) | Elektronik parayla ödüyorum.
+割り勘 (warikan) | hesabı bölüşme | isim | 今日は割り勘にしよう。(Kyō wa warikan ni shiyō.) | Bugün hesabı bölüşelim.
+おごる (ogoru) | ısmarlamak | fiil | 今日は私がおごります。(Kyō wa watashi ga ogorimasu.) | Bugün ben ısmarlıyorum.
+払い戻し (haraimodoshi) | para iadesi | isim | 切符の払い戻しはできますか。(Kippu no haraimodoshi wa dekimasu ka.) | Biletin parası iade edilebilir mi?
+## Aksesuar ve güzellik ürünleri
+香水 (kōsui) | parfüm | isim | この香水はいい匂いです。(Kono kōsui wa ii nioi desu.) | Bu parfüm güzel kokuyor.
+口紅 (kuchibeni) | ruj | isim | 赤い口紅を買いました。(Akai kuchibeni o kaimashita.) | Kırmızı bir ruj aldım.
+ネックレス (nekkuresu) | kolye | isim | 母に銀のネックレスをあげました。(Haha ni gin no nekkuresu o agemashita.) | Anneme gümüş kolye hediye ettim.
+ピアス (piasu) | küpe (delikli kulak) | isim | 新しいピアスがかわいいですね。(Atarashii piasu ga kawaii desu ne.) | Yeni küpelerin çok tatlı.
+腕時計 (udedokei) | kol saati | isim | 誕生日に腕時計をもらいました。(Tanjōbi ni udedokei o moraimashita.) | Doğum günümde kol saati hediye aldım.
+日傘 (higasa) | güneş şemsiyesi | isim | 夏は日傘をさします。(Natsu wa higasa o sashimasu.) | Yazın güneş şemsiyesi kullanırım.
+ハンカチ (hankachi) | mendil (bez) | isim | ハンカチで手をふきます。(Hankachi de te o fukimasu.) | Ellerimi mendille kurularım.
+サングラス (sangurasu) | güneş gözlüğü | isim | 海でサングラスをかけます。(Umi de sangurasu o kakemasu.) | Denizde güneş gözlüğü takarım.
+化粧品 (keshōhin) | kozmetik ürün | isim | 化粧品売り場は一階です。(Keshōhin uriba wa ikkai desu.) | Kozmetik reyonu birinci katta.
+宝石 (hōseki) | mücevher, değerli taş | isim | 宝石の店は高いです。(Hōseki no mise wa takai desu.) | Mücevherciler pahalı.
+## Sorunlar ve şikâyetler
+不良品 (furyōhin) | kusurlu ürün | isim | 不良品だったので交換しました。(Furyōhin datta node kōkan shimashita.) | Kusurlu ürün olduğu için değiştirdim.
+汚れ (yogore) | leke, kir | isim | シャツの汚れが落ちません。(Shatsu no yogore ga ochimasen.) | Gömleğin lekesi çıkmıyor.
+穴 (ana) | delik | isim | ズボンに穴があいています。(Zubon ni ana ga aite imasu.) | Pantolonda delik var.
+破れる (yabureru) | yırtılmak | fiil | 袋が破れました。(Fukuro ga yaburemashita.) | Poşet yırtıldı.
+間違い (machigai) | hata, yanlışlık | isim | レシートに間違いがあります。(Reshīto ni machigai ga arimasu.) | Fişte bir hata var.
+キャンセル (kyanseru) | iptal | isim | 予約をキャンセルしたいです。(Yoyaku o kyanseru shitai desu.) | Rezervasyonu iptal etmek istiyorum.
+取り消す (torikesu) | geri almak, iptal etmek | fiil | 注文を取り消しました。(Chūmon o torikeshimashita.) | Siparişi iptal ettim.
+問い合わせ (toiawase) | bilgi alma, sorgu | isim | 電話で問い合わせました。(Denwa de toiawasemashita.) | Telefonla bilgi aldım.
+説明書 (setsumeisho) | kullanma kılavuzu | isim | 説明書をよく読んでください。(Setsumeisho o yoku yonde kudasai.) | Kullanma kılavuzunu dikkatle okuyun.
+対応 (taiō) | ilgilenme, müdahale, hizmet | isim | 店員の対応がとてもよかったです。(Ten'in no taiō ga totemo yokatta desu.) | Çalışanın ilgisi çok iyiydi.
