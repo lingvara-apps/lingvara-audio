@@ -1,0 +1,111 @@
+# UNIT: Ofis ve IT jargonu | Kurumsal argo, yazılım dili, para argosu
+## İngilizceden gelen ofis sözcükleri
+مِيتِنْج (mītinj) | toplantı (ofis argosu) | isim (e) | عندي ميتنج مع العميل الساعة عشرة. | Saat onda müşteriyle toplantım var.
+دِيدْلَايْن (dēdlāyn) | son teslim tarihi | isim (e) | الديدلاين بكرة ولسه ما خلصنا التقرير. | Son teslim tarihi yarın ve raporu hâlâ bitirmedik.
+بْرِيزِنْتِيشَن (prēzintēshan) | sunum (ofis argosu) | isim (e) | جهّز البريزنتيشن قبل الاجتماع بساعة. | Sunumu toplantıdan bir saat önce hazırla.
+فِيدْبَاك (fīdbāk) | geri bildirim | isim (e) | المدير أعطاني فيدباك إيجابي على المشروع. | Müdür projeyle ilgili bana olumlu geri bildirim verdi.
+تَارْجِت (tārgit) | hedef, kota (satış) | isim (e) | حققنا التارجت الشهري قبل نهاية الشهر. | Aylık hedefi ay bitmeden tutturduk.
+بْرِيف (brīf) | brif, kısa görev tanımı | isim (e) | استلمنا البريف من العميل وبدأنا التصميم. | Müşteriden brifi aldık ve tasarıma başladık.
+تَاسْك (tāsk) | görev, iş (ofis argosu) | isim (e) | عندي ثلاث تاسكات لازم أخلصها اليوم. | Bugün bitirmem gereken üç görevim var.
+رِيبُورْت (riport) | rapor (ofis argosu) | isim (e) | ابعتلي الريبورت على الإيميل لو سمحت. | Lütfen raporu bana e-postayla gönder.
+كُونْفِرَنْس كُول (kōnfirans kōl) | konferans görüşmesi | isim (e) | عملنا كونفرنس كول مع فريق دبي. | Dubai ekibiyle bir konferans görüşmesi yaptık.
+إِيمِيل (ʾīmēl) | e-posta (konuşma dili) | isim (e) | وصلني إيميل من الموارد البشرية. | İnsan kaynaklarından bir e-posta geldi.
+## Kurumsal argo
+تَطْبِيل (taṭbīl) | yağcılık, dalkavukluk (argo: davul çalma) | isim (e) | ترقّى بالتطبيل للمدير مش بالشغل. | İşle değil, müdüre yağcılık yaparak terfi etti.
+كُوسَة (kōsa) | torpil, kayırma (Mısır) | isim (d) | التعيينات في الشركة دي كلها كوسة. | Bu şirketteki atamaların hepsi torpille.
+تَزْبِيط (tazbīṭ) | ayarlama, işi yoluna koyma (argo) | isim (e) | محتاج شوية تزبيط قبل ما نسلم المشروع. | Projeyi teslim etmeden önce biraz ayar gerekiyor.
+شَغْلَانَة (shaghlāna) | iş, uğraş (konuşma dili) | isim (d) | لقيت شغلانة جديدة في شركة صغيرة. | Küçük bir şirkette yeni bir iş buldum.
+أُوفَر تَايْم (ʾōvar tāym) | fazla mesai (argo) | isim (e) | اشتغلت أوفر تايم كل أيام الأسبوع. | Haftanın her günü fazla mesai yaptım.
+بِرِسْتِيج (prestīj) | prestij, gösteriş | isim (e) | اشترى سيارة غالية عشان البرستيج بس. | Sırf prestij için pahalı bir araba aldı.
+كَادِر (kādir) | kadro, personel | isim (e) | زادت الشركة الكادر الفني بعشرة مهندسين. | Şirket teknik kadroyu on mühendisle genişletti.
+مِسْمَار جُحَا (mismār Juḥā) | bahane, Nasreddin Hoca'nın çivisi | deyim | صار هذا البند مسمار جحا للتدخل في كل قرار. | Bu madde her karara müdahale etmek için bir bahane oldu.
+فَهْلَوَة (fahlawa) | kurnazlık, uyanıklık, kestirmeden iş bitirme (Mısır) | isim (d) | الشغل ده محتاج علم مش فهلوة. | Bu iş uyanıklık değil, bilgi ister.
+تَكْبِير دِمَاغ (takbīr dimāgh) | kafaya takmama, boş verme (Levant) | isim (e) | المدير صرّخ، بس أنا عملت تكبير دماغ. | Müdür bağırdı ama ben kafama takmadım.
+## Yazılımcı argosu
+كُود (kōd) | kod | isim (e) | كتبت الكود بسرعة بس فيه أخطاء. | Kodu hızlıca yazdım ama içinde hatalar var.
+دِيبَاغ (dībāg) | hata ayıklama (argo) | isim (e) | قضيت اليوم كله في الديباغ. | Bütün günü hata ayıklamakla geçirdim.
+دِيبْلُوي (diplōy) | canlıya alma, dağıtım (deploy) | isim (e) | الديبلوي بيكون الليلة بعد ما يقل الضغط. | Canlıya alma bu gece, yoğunluk azaldıktan sonra yapılacak.
+فْرُونْت إِنْد (frōnt ʾind) | ön yüz (front-end) | isim (e) | أختي تشتغل فرونت إند وتصمم الواجهات. | Kız kardeşim ön yüz geliştirici, arayüzleri tasarlıyor.
+بَاك إِنْد (bāk ʾind) | arka uç (back-end) | isim (e) | المشكلة مش في الشاشة، المشكلة في الباك إند. | Sorun ekranda değil, arka uçta.
+بَجّ (bagg) | hata (bug) (argo) | isim (e) | لقينا بج خطير قبل الإطلاق بيوم. | Yayından bir gün önce ciddi bir hata bulduk.
+رِيبُو (rēpō) | kod deposu (repo) | isim (e) | رفعت الكود على الريبو المشترك. | Kodu ortak depoya yükledim.
+كُومِيت (kōmit) | işleme (commit) | isim (e) | اعمل كوميت قبل ما تغير أي حاجة تانية. | Başka bir şeyi değiştirmeden önce bir işleme yap.
+بْرَانْش (brānsh) | dal (branch) | isim (e) | اشتغل على برانش منفصل عشان ما تخربش الكود. | Kodu bozmamak için ayrı bir dalda çalış.
+أَبْدِيت (ʾabdēt) | güncelleme (argo) | isim (e) | نزل أبديت جديد للتطبيق امبارح. | Dün uygulamaya yeni bir güncelleme geldi.
+## Yazılımın fasih terimleri
+وَاجِهَة بَرْمَجِيَّة (wājiha barmajiyya) | uygulama programlama arayüzü (API) | isim (d) | تتيح الواجهة البرمجية ربط التطبيق بأنظمة أخرى. | API uygulamanın başka sistemlerle bağlanmasını sağlar.
+مَكْتَبَة بَرْمَجِيَّة (maktaba barmajiyya) | yazılım kütüphanesi | isim (d) | استخدمنا مكتبة برمجية مفتوحة المصدر لمعالجة الصور. | Görüntü işleme için açık kaynaklı bir yazılım kütüphanesi kullandık.
+شِيفْرَة مَصْدَرِيَّة (shīfra maṣdariyya) | kaynak kod | isim (d) | نشرت الشركة الشيفرة المصدرية للبرنامج. | Şirket programın kaynak kodunu yayımladı.
+خَطَأ بَرْمَجِيّ (khaṭaʾ barmajiyy) | yazılım hatası | isim (e) | تسبب خطأ برمجي في توقف الموقع ساعتين. | Bir yazılım hatası sitenin iki saat durmasına yol açtı.
+تَصْحِيح الْأَخْطَاء (taṣḥīḥ al-ʾakhṭāʾ) | hata ayıklama | isim (e) | يستغرق تصحيح الأخطاء أحيانًا أكثر من كتابة الشيفرة. | Hata ayıklama bazen kod yazmaktan daha uzun sürer.
+اِخْتِبَار الْوَحْدَة (ikhtibār al-waḥda) | birim testi | isim (e) | يجب كتابة اختبار الوحدة لكل دالة جديدة. | Her yeni fonksiyon için birim testi yazılmalıdır.
+حَلْقَة تَكْرَار (ḥalqat takrār) | döngü (programlama) | isim (d) | دخل البرنامج في حلقة تكرار لا نهائية. | Program sonsuz bir döngüye girdi.
+دَالَّة (dālla) | fonksiyon (programlama, matematik) | isim (d) | كتبت دالة تحسب متوسط الدرجات. | Not ortalamasını hesaplayan bir fonksiyon yazdım.
+مُفَسِّر (mufassir) | yorumlayıcı (interpreter); yorumcu | isim (e) | تعمل هذه اللغة عبر مفسر لا مترجم. | Bu dil derleyiciyle değil yorumlayıcıyla çalışır.
+إِطَار عَمَل (ʾiṭār ʿamal) | çatı (framework) | isim (e) | اختار الفريق إطار عمل حديثًا لبناء الموقع. | Ekip siteyi kurmak için modern bir çatı seçti.
+## Teknik destek
+إِعَادَة تَشْغِيل (ʾiʿādat tashghīl) | yeniden başlatma | isim (d) | حُلّت المشكلة بعد إعادة تشغيل الجهاز. | Sorun cihaz yeniden başlatıldıktan sonra çözüldü.
+اِسْتِعَادَة (istiʿāda) | geri yükleme, kurtarma | isim (d) | نجح الفني في استعادة الملفات المحذوفة. | Teknisyen silinen dosyaları kurtarmayı başardı.
+كَلِمَة مُرُور (kalimat murūr) | parola, şifre | isim (d) | غيّر كلمة المرور كل ثلاثة أشهر. | Parolanı üç ayda bir değiştir.
+شَبَكَة دَاخِلِيَّة (shabaka dākhiliyya) | iç ağ (intranet) | isim (d) | تُنشر التعاميم على الشبكة الداخلية للشركة. | Genelgeler şirketin iç ağında yayımlanır.
+هَنَّجَ (hannag) | donmak, kilitlenmek (bilgisayar, Mısır) (geniş z.: يِهَنِّج) | fiil | الكمبيوتر هنّج وأنا بشتغل. | Ben çalışırken bilgisayar dondu.
+فَرْمَتَ (farmat) | biçimlendirmek, format atmak (geniş z.: يِفَرْمِت) | fiil | اضطر الفني يفرمت الجهاز كله. | Teknisyen bütün cihaza format atmak zorunda kaldı.
+تَذْكِرَة دَعْم (tadhkirat daʿm) | destek talebi | isim (d) | فتحت تذكرة دعم ولم يرد أحد بعد. | Bir destek talebi açtım, henüz kimse yanıt vermedi.
+صَلَاحِيَّات الْوُصُول (ṣalāḥiyyāt al-wuṣūl) | erişim yetkileri | isim (çoğul) | لا يملك الموظف الجديد صلاحيات الوصول إلى النظام. | Yeni çalışanın sisteme erişim yetkisi yok.
+سَطْح الْمَكْتَب (saṭḥ al-maktab) | masaüstü | isim (e) | احفظ الملف على سطح المكتب مؤقتًا. | Dosyayı geçici olarak masaüstüne kaydet.
+تَعْرِيف (taʿrīf) | sürücü (driver); tanım | isim (e) | لم تعمل الطابعة لأن التعريف قديم. | Sürücü eski olduğu için yazıcı çalışmadı.
+## Para argosu
+مَصَارِي (maṣārī) | para (Levant) | isim (çoğul) | ما معي مصاري، بدفع بكرة. | Yanımda para yok, yarın öderim.
+كَاش (kāsh) | nakit | isim (e) | المحل ما بيقبل بطاقات، كاش بس. | Dükkân kart kabul etmiyor, sadece nakit.
+فَكَّة (fakka) | bozuk para | isim (d) | معك فكة؟ بدي أدفع للتاكسي. | Bozuk paran var mı? Taksiye ödeyeceğim.
+طَفْرَان (ṭafrān) | meteliksiz, cebi boş (Levant) | sıfat | أنا طفران لآخر الشهر. | Ay sonuna kadar meteliksizim.
+مِرَيَّش (mrayyash) | parası bol, zengin (Levant) | sıfat | صاحبنا صار مريّش بعد الشغل الجديد. | Arkadaşımız yeni işten sonra paraya kavuştu.
+حِسْبَة (ḥisba) | hesap (konuşma dili) | isim (d) | عملت الحسبة، الرحلة بتكلف أكتر من ما توقعنا. | Hesabı yaptım, yolculuk beklediğimizden pahalıya patlayacak.
+تَحْوِيشَة (taḥwīsha) | birikim, kenara atılan para | isim (d) | صرف تحويشة العمر على بيت صغير. | Ömür boyu biriktirdiğini küçük bir eve harcadı.
+بَلَاش (balāsh) | bedava; boş ver | zarf | الدخول بلاش للطلاب يوم الجمعة. | Cuma günü öğrenciler için giriş bedava.
+يِفْتَح اللّٰه (yiftaḥ allāh) | olmaz, Allah başka kapı açsın (pazarlıkta ret) | ifade | عرض علي مية دينار، قلت له يفتح الله. | Bana yüz dinar teklif etti, "Allah başka kapı açsın" dedim.
+دَفَعْ دَمّ قَلْبُه (dafaʿ damm ʾalbu) | gözünü kırpmadan çok para ödedi (Levant) | deyim | دفع دم قلبه على هالسيارة. | Bu arabaya servet ödedi.
+## Maaş ve yan haklar
+تَأْمِينَات (taʾmīnāt) | sosyal sigorta kesintileri | isim (çoğul) | تُخصم التأمينات من الراتب كل شهر. | Sosyal sigorta kesintileri her ay maaştan düşülür.
+كَشْف رَاتِب (kashf rātib) | maaş bordrosu | isim (e) | طلب البنك كشف راتب آخر ثلاثة أشهر. | Banka son üç ayın maaş bordrosunu istedi.
+قَبْض (qabḍ) | maaş alma, tahsilat (Levant) | isim (e) | بستنى القبض عشان أشتري الكتب. | Kitapları almak için maaş gününü bekliyorum.
+بَدَل سَكَن (badal sakan) | konut ödeneği | isim (e) | تمنح الشركة الموظفين الأجانب بدل سكن. | Şirket yabancı çalışanlara konut ödeneği veriyor.
+اِسْتِقْطَاع (istiqṭāʿ) | kesinti (maaştan) | isim (e) | لاحظ استقطاعًا غير مفهوم من راتبه. | Maaşında anlaşılmaz bir kesinti fark etti.
+سُلْفَة عَلَى الرَّاتِب (sulfa ʿalā r-rātib) | maaş avansı | isim (d) | طلب سلفة على الراتب لدفع إيجار البيت. | Ev kirasını ödemek için maaş avansı istedi.
+رَاتِب أَسَاسِيّ (rātib ʾasāsiyy) | taban maaş | isim (e) | يُحسب التعويض على أساس الراتب الأساسي. | Tazminat taban maaşa göre hesaplanır.
+إِجَازَة سَنَوِيَّة (ʾijāza sanawiyya) | yıllık izin | isim (d) | يستحق الموظف ثلاثين يومًا إجازة سنوية. | Çalışan otuz gün yıllık izni hak eder.
+زِيَادَة سَنَوِيَّة (ziyāda sanawiyya) | yıllık zam | isim (d) | ما زلنا ننتظر الزيادة السنوية. | Hâlâ yıllık zammı bekliyoruz.
+مِيزَات وَظِيفِيَّة (mīzāt waẓīfiyya) | yan haklar | isim (çoğul) | تشمل الميزات الوظيفية تأمينًا صحيًا وسيارة. | Yan haklar sağlık sigortası ve araba içeriyor.
+## Ofis hayatı
+اِسْتِرَاحَة الْغَدَاء (istirāḥat al-ghadāʾ) | öğle arası | isim (d) | نتمشى قليلًا في استراحة الغداء. | Öğle arasında biraz yürüyoruz.
+مَكْتَب مَفْتُوح (maktab maftūḥ) | açık ofis | isim (e) | يشتكي الموظفون من الضجيج في المكتب المفتوح. | Çalışanlar açık ofisteki gürültüden şikâyet ediyor.
+مُدِير مُبَاشِر (mudīr mubāshir) | bağlı olunan yönetici, birinci amir | isim (e) | ناقش طلب الإجازة مع مديره المباشر. | İzin talebini birinci amiriyle görüştü.
+قَاعَة الِاجْتِمَاعَات (qāʿat al-ijtimāʿāt) | toplantı salonu | isim (d) | حُجزت قاعة الاجتماعات طوال الصباح. | Toplantı salonu bütün sabah boyunca rezerve edildi.
+زَمِيل عَمَل (zamīl ʿamal) | iş arkadaşı | isim (e) | ساعدني زميل عمل في فهم النظام الجديد. | Bir iş arkadaşım yeni sistemi anlamama yardım etti.
+عَمَل جَمَاعِيّ (ʿamal jamāʿiyy) | ekip çalışması | isim (e) | نجح المشروع بفضل العمل الجماعي. | Proje ekip çalışması sayesinde başarılı oldu.
+ضَغْط الْعَمَل (ḍaghṭ al-ʿamal) | iş yükü, iş stresi | isim (e) | لم يعد يتحمل ضغط العمل في نهاية السنة. | Yıl sonundaki iş yüküne artık dayanamıyor.
+مَسَاحَة عَمَل مُشْتَرَكَة (masāḥat ʿamal mushtaraka) | ortak çalışma alanı | isim (d) | استأجرت مكتبًا في مساحة عمل مشتركة. | Ortak bir çalışma alanında bir masa kiraladım.
+نِظَام مَرِن (niẓām marin) | esnek çalışma düzeni | isim (e) | تطبق الشركة نظامًا مرنًا في ساعات الحضور. | Şirket giriş saatlerinde esnek bir düzen uyguluyor.
+تَقْرِير أُسْبُوعِيّ (taqrīr ʾusbūʿiyy) | haftalık rapor | isim (e) | يرسل كل فريق تقريرًا أسبوعيًا عن تقدمه. | Her ekip ilerlemesiyle ilgili haftalık bir rapor gönderiyor.
+## Ofiste kullanılan fiiller
+زَبَّطَ (zabbaṭ) | ayarlamak, halletmek (konuşma dili) (geniş z.: يِزَبِّط) | fiil | زبّطت الموعد مع العميل يوم الخميس. | Müşteriyle randevuyu perşembeye ayarladım.
+كَنْسَلَ (kansal) | iptal etmek (argo) (geniş z.: يِكَنْسِل) | fiil | كنسلوا الاجتماع في آخر دقيقة. | Toplantıyı son dakikada iptal ettiler.
+سَيَّفَ (sayyaf) | kaydetmek (dosya, argo) (geniş z.: يِسَيِّف) | fiil | نسيت أسيّف الملف وراح كل الشغل. | Dosyayı kaydetmeyi unuttum, bütün iş gitti.
+فَوْرَدَ (fōrad) | iletmek (e-posta, argo) (geniş z.: يِفَوْرِد) | fiil | فوردلي الإيميل اللي وصلك من المدير. | Müdürden gelen e-postayı bana ilet.
+رَاسَلَ (rāsala) | yazışmak (geniş z.: يُرَاسِلُ) | fiil | راسلت الشركة عدة مرات دون رد. | Şirketle birkaç kez yazıştım ama yanıt gelmedi.
+أَرْشَفَ (ʾarshafa) | arşivlemek (geniş z.: يُؤَرْشِفُ) | fiil | أرشف السكرتير كل العقود القديمة. | Sekreter bütün eski sözleşmeleri arşivledi.
+لَصَقَ (laṣaqa) | yapıştırmak (geniş z.: يَلْصِقُ) | fiil | انسخ النص والصقه في المستند الجديد. | Metni kopyala ve yeni belgeye yapıştır.
+اِشْتَغَلَ عَلَى (ishtaghala ʿalā) | -in üzerinde çalışmak (geniş z.: يَشْتَغِلُ) | fiil | أشتغل على هذا التقرير منذ الصباح. | Sabahtan beri bu rapor üzerinde çalışıyorum.
+طَنَّشَ (ṭannash) | görmezden gelmek, takmamak (argo) (geniş z.: يِطَنِّش) | fiil | بعتّ له ثلاث رسايل وطنّشني. | Ona üç mesaj attım, beni görmezden geldi.
+بَعَتَ (baʿat) | göndermek (konuşma dili) (geniş z.: يِبْعَت) | fiil | ابعت لي العقد قبل الساعة خمسة. | Sözleşmeyi bana saat beşten önce gönder.
+## Kurumsal kalıplar
+حَسَبَ الْمُتَّفَقِ عَلَيْهِ (ḥasaba l-muttafaqi ʿalayh) | kararlaştırıldığı gibi | ifade | سنرسل الدفعة الأولى حسب المتفق عليه. | İlk ödemeyi kararlaştırıldığı gibi göndereceğiz.
+نِقَاط الْعَمَل (niqāṭ al-ʿamal) | yapılacaklar, aksiyon maddeleri | isim (çoğul) | لخّص المدير نقاط العمل في نهاية الاجتماع. | Müdür toplantının sonunda yapılacakları özetledi.
+الْخُطُوَات الْقَادِمَة (al-khuṭuwāt al-qādima) | sonraki adımlar | isim (çoğul) | سنحدد الخطوات القادمة في اجتماع الأسبوع المقبل. | Sonraki adımları gelecek haftaki toplantıda belirleyeceğiz.
+عَلَى الْمَدَى الْقَصِيرِ (ʿalā l-madā l-qaṣīr) | kısa vadede | ifade | لا نتوقع أرباحًا على المدى القصير. | Kısa vadede kâr beklemiyoruz.
+عَلَى أَرْضِ الْوَاقِعِ (ʿalā ʾarḍi l-wāqiʿ) | sahada, uygulamada | ifade | الخطة جيدة لكن تنفيذها على أرض الواقع صعب. | Plan iyi ama sahada uygulanması zor.
+فِي الصُّورَةِ (fī ṣ-ṣūra) | haberdar, işin içinde | ifade | خلّي المدير في الصورة أولًا بأول. | Müdürü sürekli haberdar et.
+خَارِجَ نِطَاقِ (khārija niṭāqi) | -in kapsamı dışında | edat | هذا الطلب خارج نطاق العقد. | Bu talep sözleşmenin kapsamı dışında.
+حَسَبَ الْأَوْلَوِيَّةِ (ḥasaba l-ʾawlawiyya) | önceliğe göre | ifade | رتّب المهام حسب الأولوية. | Görevleri önceliğe göre sırala.
+فِي الْمُتَنَاوَلِ (fī l-mutanāwal) | erişilebilir, el altında | ifade | أصبحت الأدوات الرقمية في متناول الجميع. | Dijital araçlar herkesin erişebileceği hâle geldi.
+بِالتَّنْسِيقِ مَعَ (bi-t-tansīqi maʿa) | ile koordineli olarak | ifade | نُظّم المؤتمر بالتنسيق مع الجامعة. | Konferans üniversiteyle koordineli olarak düzenlendi.
