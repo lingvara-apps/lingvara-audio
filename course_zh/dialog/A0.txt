@@ -1,0 +1,45 @@
+# DIALOG: Yeşim Krallığı'nda ilk gün | Çince selamlaşma ve ilk sözler | Li Ming | Anna
+## Merhaba!
+A | 你好！(Nǐ hǎo!) | Merhaba!
+B | 你好！(Nǐ hǎo!) | Merhaba!
+A | 我叫李明。你叫什么？(Wǒ jiào Lǐ Míng. Nǐ jiào shénme?) | Benim adım Li Ming. Senin adın ne?
+B | 我叫安娜。(Wǒ jiào Ānnà.) | Benim adım Anna.
+A | 你是英国人吗？(Nǐ shì Yīngguó rén ma?) | İngiliz misin?
+B | 不是，我是土耳其人。(Bú shì, wǒ shì Tǔ'ěrqí rén.) | Hayır, Türküm.
+A | 你是学生吗？(Nǐ shì xuésheng ma?) | Öğrenci misin?
+B | 是，我是学生。你呢？(Shì, wǒ shì xuésheng. Nǐ ne?) | Evet, öğrenciyim. Ya sen?
+A | 我是老师。(Wǒ shì lǎoshī.) | Ben öğretmenim.
+B | 很高兴认识你！(Hěn gāoxìng rènshi nǐ!) | Tanıştığımıza çok memnun oldum!
+## Teşekkürler, özür dilerim
+A | 安娜，这是你的书吗？(Ānnà, zhè shì nǐ de shū ma?) | Anna, bu senin kitabın mı?
+B | 是，是我的书。谢谢！(Shì, shì wǒ de shū. Xièxie!) | Evet, benim kitabım. Teşekkürler!
+A | 不客气。(Bú kèqi.) | Rica ederim.
+B | 这是你的茶吗？(Zhè shì nǐ de chá ma?) | Bu senin çayın mı?
+A | 是。哎呀！(Shì. Āiyā!) | Evet. Eyvah!
+B | 对不起！对不起！(Duìbuqǐ! Duìbuqǐ!) | Özür dilerim! Özür dilerim!
+A | 没关系，没关系。(Méi guānxi, méi guānxi.) | Önemli değil, önemli değil.
+B | 我再给你一杯茶。(Wǒ zài gěi nǐ yì bēi chá.) | Sana bir çay daha vereyim.
+A | 谢谢你，安娜。(Xièxie nǐ, Ānnà.) | Teşekkür ederim Anna.
+B | 不客气！(Bú kèqi!) | Rica ederim!
+## Kaç tane?
+A | 你要什么？(Nǐ yào shénme?) | Ne istiyorsun?
+B | 我要苹果。(Wǒ yào píngguǒ.) | Elma istiyorum.
+A | 你要几个？(Nǐ yào jǐ ge?) | Kaç tane istiyorsun?
+B | 三个。不，五个！(Sān ge. Bù, wǔ ge!) | Üç tane. Hayır, beş tane!
+A | 好，五个苹果。(Hǎo, wǔ ge píngguǒ.) | Tamam, beş elma.
+B | 多少钱？(Duōshao qián?) | Ne kadar?
+A | 十块。(Shí kuài.) | On yuan.
+B | 好。我还要一个西瓜。(Hǎo. Wǒ hái yào yí ge xīguā.) | Tamam. Bir de karpuz istiyorum.
+A | 西瓜八块。一共十八块。(Xīguā bā kuài. Yígòng shíbā kuài.) | Karpuz sekiz yuan. Toplam on sekiz yuan.
+B | 给你钱。谢谢！(Gěi nǐ qián. Xièxie!) | Buyurun paranız. Teşekkürler!
+## Yarın görüşürüz
+A | 安娜，你明天来吗？(Ānnà, nǐ míngtiān lái ma?) | Anna, yarın geliyor musun?
+B | 来。你呢？(Lái. Nǐ ne?) | Geliyorum. Ya sen?
+A | 我也来。(Wǒ yě lái.) | Ben de geliyorum.
+B | 几点？(Jǐ diǎn?) | Saat kaçta?
+A | 九点。(Jiǔ diǎn.) | Saat dokuzda.
+B | 好的，九点。(Hǎo de, jiǔ diǎn.) | Tamam, saat dokuzda.
+A | 现在我回家。(Xiànzài wǒ huí jiā.) | Şimdi eve gidiyorum.
+B | 好，明天见！(Hǎo, míngtiān jiàn!) | Tamam, yarın görüşürüz!
+A | 再见，安娜！(Zàijiàn, Ānnà!) | Hoşça kal Anna!
+B | 再见！(Zàijiàn!) | Hoşça kal!
