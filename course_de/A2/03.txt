@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
+## Muayenehanede
+die Praxis (die Praxen) | muayenehane | isim (d) | Die Praxis ist am Mittwochnachmittag geschlossen. | Muayenehane çarşamba öğleden sonra kapalı.
+die Sprechstunde (die Sprechstunden) | muayene saatleri | isim (d) | Die Sprechstunde beginnt um acht. | Muayene saatleri sekizde başlıyor.
+das Wartezimmer (die Wartezimmer) | bekleme odası | isim (o) | Bitte nehmen Sie im Wartezimmer Platz. | Lütfen bekleme odasında oturun.
+der Patient (die Patienten) | hasta (kişi) | isim (e) | Der Patient wartet schon lange. | Hasta uzun zamandır bekliyor.
+der Hausarzt (die Hausärzte) | aile hekimi | isim (e) | Ich gehe zuerst zu meinem Hausarzt. | Önce aile hekimime gidiyorum.
+die Krankenkasse (die Krankenkassen) | sağlık sigortası (kurumu) | isim (d) | Bei welcher Krankenkasse sind Sie? | Hangi sağlık sigortasındasınız?
+untersuchen | muayene etmek, incelemek | fiil | Die Ärztin untersucht das Kind. | Doktor çocuğu muayene ediyor.
+das Rezept (die Rezepte) | reçete; yemek tarifi | isim (o) | Der Arzt gibt mir ein Rezept. | Doktor bana bir reçete veriyor.
+die Überweisung (die Überweisungen) | sevk kâğıdı; havale | isim (d) | Ich brauche eine Überweisung zum Facharzt. | Uzman doktora sevk kâğıdına ihtiyacım var.
+die Krankmeldung (die Krankmeldungen) | hastalık raporu | isim (d) | Ich schicke die Krankmeldung an meinen Chef. | Hastalık raporunu patronuma gönderiyorum.
+## Belirtiler
+der Husten | öksürük | isim (e) | Ich habe seit einer Woche Husten. | Bir haftadır öksürüyorum.
+der Schnupfen | nezle | isim (e) | Im Winter habe ich oft Schnupfen. | Kışın sık sık nezle olurum.
+die Kopfschmerzen | baş ağrısı | isim (çoğul) | Ich habe schreckliche Kopfschmerzen. | Korkunç bir baş ağrım var.
+die Grippe (die Grippen) | grip | isim (d) | Sie liegt mit Grippe im Bett. | Grip olmuş, yatıyor.
+niesen | hapşırmak | fiil | Ich muss ständig niesen. | Sürekli hapşırıyorum.
+schwindlig | başı dönen | sıfat | Mir ist schwindlig. | Başım dönüyor.
+übel | midesi bulanan; kötü | sıfat | Nach dem Essen war mir übel. | Yemekten sonra midem bulandı.
+sich übergeben (übergab, übergeben) | kusmak | fiil · dönüşlü | Das Kind hat sich zweimal übergeben. | Çocuk iki kez kustu.
+der Durchfall | ishal | isim (e) | Er hat Durchfall und Bauchschmerzen. | İshal olmuş ve karnı ağrıyor.
+die Allergie (die Allergien) | alerji | isim (d) | Ich habe eine Allergie gegen Nüsse. | Kuruyemişe alerjim var.
+## Eczanede
+die Tablette (die Tabletten) | tablet, hap | isim (d) | Nehmen Sie dreimal täglich eine Tablette. | Günde üç kez bir tablet alın.
+die Salbe (die Salben) | merhem | isim (d) | Die Salbe hilft gegen den Juckreiz. | Merhem kaşıntıya iyi geliyor.
+die Tropfen | damla (ilaç) | isim (çoğul) | Die Tropfen sind für die Augen. | Damlalar göz için.
+das Pflaster (die Pflaster) | yara bandı | isim (o) | Hast du ein Pflaster für mich? | Bana bir yara bandın var mı?
+das Thermometer (die Thermometer) | termometre | isim (o) | Das Thermometer zeigt neununddreißig Grad. | Termometre otuz dokuz dereceyi gösteriyor.
+die Nebenwirkung (die Nebenwirkungen) | yan etki | isim (d) | Hat das Medikament Nebenwirkungen? | İlacın yan etkileri var mı?
+einnehmen (nahm ein, eingenommen) | (ilaç) almak, içmek | fiil · düzensiz | Nehmen Sie den Saft vor dem Essen ein. | Şurubu yemekten önce için.
+verschreiben (verschrieb, verschrieben) | reçeteye yazmak | fiil · düzensiz | Die Ärztin verschreibt mir ein Antibiotikum. | Doktor bana bir antibiyotik yazıyor.
+rezeptfrei | reçetesiz | sıfat | Dieses Medikament ist rezeptfrei. | Bu ilaç reçetesiz satılıyor.
+die Packungsbeilage (die Packungsbeilagen) | prospektüs (ilaç) | isim (d) | Lesen Sie bitte die Packungsbeilage. | Lütfen prospektüsü okuyun.
+## Kaza ve yaralanma
+der Unfall (die Unfälle) | kaza | isim (e) | Auf der Autobahn gab es einen Unfall. | Otobanda bir kaza oldu.
+sich verletzen | yaralanmak | fiil · dönüşlü | Ich habe mich beim Fußball verletzt. | Futbol oynarken sakatlandım.
+die Wunde (die Wunden) | yara | isim (d) | Die Wunde heilt gut. | Yara iyi iyileşiyor.
+bluten | kanamak | fiil | Dein Finger blutet! | Parmağın kanıyor!
+das Blut | kan | isim (o) | Ich kann kein Blut sehen. | Kan görmeye dayanamıyorum.
+brechen (brach, gebrochen) | kırmak; kırılmak | fiil · düzensiz | Sie hat sich das Bein gebrochen. | Bacağını kırdı.
+der Verband (die Verbände) | sargı, bandaj | isim (e) | Die Krankenschwester macht einen Verband. | Hemşire sargı yapıyor.
+der Gips | alçı | isim (e) | Er hat den Arm in Gips. | Kolu alçıda.
+sich verbrennen (verbrannte, verbrannt) | (bir yerini) yakmak | fiil · dönüşlü | Ich habe mich am Herd verbrannt. | Ocakta elimi yaktım.
+stürzen | düşmek (sertçe) | fiil | Oma ist auf der Treppe gestürzt. | Ninem merdivende düştü.
+## Acil durum
+der Notfall (die Notfälle) | acil durum | isim (e) | Im Notfall rufen Sie diese Nummer an. | Acil durumda bu numarayı arayın.
+der Notruf (die Notrufe) | acil çağrı; acil numara | isim (e) | Der Notruf in Europa ist 112. | Avrupa'da acil numara 112.
+der Krankenwagen (die Krankenwagen) | ambulans | isim (e) | Schnell, ruf einen Krankenwagen! | Çabuk, ambulans çağır!
+die Notaufnahme (die Notaufnahmen) | acil servis | isim (d) | Wir fahren sofort in die Notaufnahme. | Hemen acil servise gidiyoruz.
+die Feuerwehr (die Feuerwehren) | itfaiye | isim (d) | Die Feuerwehr ist in fünf Minuten da. | İtfaiye beş dakikada orada.
+die Hilfe (die Hilfen) | yardım; imdat | isim (d) | Hilfe! Mein Kind ist weg! | İmdat! Çocuğum kayboldu!
+rufen (rief, gerufen) | çağırmak; seslenmek | fiil · düzensiz | Ruf bitte die Polizei! | Lütfen polis çağır!
+retten | kurtarmak | fiil | Der Arzt hat ihm das Leben gerettet. | Doktor onun hayatını kurtardı.
+gefährlich | tehlikeli | sıfat | Die Straße ist im Winter gefährlich. | Yol kışın tehlikeli.
+bewusstlos | baygın, bilinçsiz | sıfat | Der Mann ist bewusstlos. | Adam baygın.
+## Uzman doktorlar
+der Facharzt (die Fachärzte) | uzman doktor | isim (e) | Ich habe einen Termin beim Facharzt. | Uzman doktordan randevum var.
+der Zahnarzt (die Zahnärzte) | diş hekimi | isim (e) | Ich gehe zweimal im Jahr zum Zahnarzt. | Yılda iki kez diş hekimine giderim.
+der Augenarzt (die Augenärzte) | göz doktoru | isim (e) | Der Augenarzt testet meine Augen. | Göz doktoru gözlerimi test ediyor.
+der Kinderarzt (die Kinderärzte) | çocuk doktoru | isim (e) | Unser Kinderarzt ist sehr nett. | Çocuk doktorumuz çok nazik.
+die Frauenärztin (die Frauenärztinnen) | kadın doğum doktoru (kadın) | isim (d) | Sie hat morgen einen Termin bei der Frauenärztin. | Yarın kadın doğum doktorundan randevusu var.
+die Klinik (die Kliniken) | klinik, hastane | isim (d) | Die Klinik liegt am Stadtrand. | Klinik şehrin kenarında.
+die Operation (die Operationen) | ameliyat | isim (d) | Die Operation ist gut gelaufen. | Ameliyat iyi geçti.
+operieren | ameliyat etmek | fiil | Sie wird morgen am Knie operiert. | Yarın dizinden ameliyat olacak.
+die Station (die Stationen) | servis (hastane); istasyon | isim (d) | Er liegt auf Station drei. | Üç numaralı serviste yatıyor.
+die Behandlung (die Behandlungen) | tedavi | isim (d) | Die Behandlung dauert zwei Wochen. | Tedavi iki hafta sürüyor.
+## Sağlıklı yaşam
+die Gesundheit | sağlık | isim (d) | Gesundheit ist das Wichtigste. | Sağlık her şeyden önemli.
+die Bewegung (die Bewegungen) | hareket, egzersiz | isim (d) | Du brauchst mehr Bewegung. | Daha çok harekete ihtiyacın var.
+sich bewegen | hareket etmek | fiil · dönüşlü | Ich bewege mich zu wenig. | Çok az hareket ediyorum.
+abnehmen (nahm ab, abgenommen) | kilo vermek; (telefonu) açmak | fiil · düzensiz | Ich möchte fünf Kilo abnehmen. | Beş kilo vermek istiyorum.
+zunehmen (nahm zu, zugenommen) | kilo almak; artmak | fiil · düzensiz | Im Urlaub habe ich zugenommen. | Tatilde kilo aldım.
+das Gewicht (die Gewichte) | ağırlık, kilo | isim (o) | Achte auf dein Gewicht. | Kilona dikkat et.
+rauchen | sigara içmek | fiil | Mein Vater raucht nicht mehr. | Babam artık sigara içmiyor.
+sich erholen | dinlenip kendine gelmek, iyileşmek | fiil · dönüşlü | Erhol dich gut! | İyice dinlen!
+fit | formda, zinde | sıfat | Mit siebzig ist Opa noch sehr fit. | Dedem yetmiş yaşında hâlâ çok zinde.
+der Schlaf | uyku | isim (e) | Schlaf ist wichtig für die Gesundheit. | Uyku sağlık için önemli.
+## Nasıl hissediyorsun?
+sich fühlen | hissetmek (kendini) | fiil · dönüşlü | Ich fühle mich heute nicht gut. | Bugün kendimi iyi hissetmiyorum.
+gute Besserung | geçmiş olsun | ifade | Du bist krank? Gute Besserung! | Hasta mısın? Geçmiş olsun!
+schlimm | kötü, ciddi | sıfat | Ist es schlimm, Herr Doktor? | Ciddi mi, doktor bey?
+schwach | zayıf, güçsüz | sıfat | Nach der Grippe bin ich noch schwach. | Gripten sonra hâlâ halsizim.
+erkältet | üşütmüş, soğuk algınlığı olan | sıfat | Ich bin stark erkältet. | Fena üşütmüşüm.
+ansteckend | bulaşıcı | sıfat | Ist die Krankheit ansteckend? | Hastalık bulaşıcı mı?
+sich hinlegen | uzanmak | fiil · dönüşlü | Leg dich ein bisschen hin. | Biraz uzan.
+das Virus (die Viren) | virüs | isim (o) | Das ist nur ein Virus. | Bu sadece bir virüs.
+die Infektion (die Infektionen) | enfeksiyon | isim (d) | Er hat eine Infektion im Ohr. | Kulağında enfeksiyon var.
+blass | solgun, soluk | sıfat | Du bist heute so blass. | Bugün çok solgunsun.
+## Vücut ve organlar
+der Magen (die Mägen) | mide | isim (e) | Mein Magen tut weh. | Midem ağrıyor.
+die Lunge (die Lungen) | akciğer | isim (d) | Rauchen ist schlecht für die Lunge. | Sigara akciğere zararlı.
+der Knochen (die Knochen) | kemik | isim (e) | Der Knochen ist nicht gebrochen. | Kemik kırılmamış.
+die Brust (die Brüste) | göğüs | isim (d) | Ich habe Schmerzen in der Brust. | Göğsümde ağrı var.
+der Daumen (die Daumen) | başparmak | isim (e) | Ich drücke dir die Daumen! | Senin için şans diliyorum!
+die Zehe (die Zehen) | ayak parmağı | isim (d) | Ich habe mir die Zehe gestoßen. | Ayak parmağımı bir yere çarptım.
+der Ellbogen (die Ellbogen) | dirsek | isim (e) | Er hat sich am Ellbogen verletzt. | Dirseğinden yaralandı.
+der Nacken (die Nacken) | ense | isim (e) | Vom Computer habe ich Schmerzen im Nacken. | Bilgisayar yüzünden ensem ağrıyor.
+die Stirn (die Stirnen) | alın | isim (d) | Seine Stirn ist ganz heiß. | Alnı ateş gibi.
+die Lippe (die Lippen) | dudak | isim (d) | Im Winter sind meine Lippen trocken. | Kışın dudaklarım kurur.
+## Doktorla konuşmak
+was fehlt Ihnen? | neyiniz var?, şikâyetiniz ne? | ifade | Guten Tag, was fehlt Ihnen denn? | İyi günler, şikâyetiniz nedir?
+die Beschwerden | şikâyetler, rahatsızlık | isim (çoğul) | Seit wann haben Sie die Beschwerden? | Ne zamandan beri bu şikâyetleriniz var?
+messen (maß, gemessen) | ölçmek | fiil · düzensiz | Ich messe jetzt Ihr Fieber. | Şimdi ateşinizi ölçüyorum.
+der Blutdruck | tansiyon, kan basıncı | isim (e) | Ihr Blutdruck ist etwas hoch. | Tansiyonunuz biraz yüksek.
+atmen | nefes almak | fiil | Bitte tief atmen. | Lütfen derin nefes alın.
+tief | derin; alçak | sıfat | Der See ist sehr tief. | Göl çok derin.
+impfen | aşılamak | fiil | Die Kinder werden heute geimpft. | Çocuklara bugün aşı yapılıyor.
+die Impfung (die Impfungen) | aşı (uygulama) | isim (d) | Für die Reise brauchst du eine Impfung. | Yolculuk için aşı olman gerekiyor.
+die Spritze (die Spritzen) | iğne, şırınga | isim (d) | Ich habe Angst vor Spritzen. | İğneden korkarım.
+nüchtern | aç karnına; ayık | sıfat | Kommen Sie morgen bitte nüchtern. | Yarın lütfen aç karnına gelin.
