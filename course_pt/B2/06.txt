@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Uzman doktorlar
+o cardiologista | kardiyolog | isim (e) | O cardiologista pediu um exame do coração ao meu pai. | Kardiyolog babamdan bir kalp tetkiki istedi.
+o dermatologista | dermatolog, cildiye uzmanı | isim (e) | A dermatologista recomendou protetor solar todos os dias. | Cildiye uzmanı her gün güneş kremi önerdi.
+o oftalmologista | göz doktoru | isim (e) | O oftalmologista disse que preciso trocar os óculos. | Göz doktoru gözlüğümü değiştirmem gerektiğini söyledi.
+o ortopedista | ortopedist | isim (e) | Depois da queda, fui ao ortopedista ver o joelho. | Düştükten sonra dizime baktırmak için ortopediste gittim.
+o ginecologista | jinekolog | isim (e) | Ela faz consulta com a ginecologista uma vez por ano. | Yılda bir kez jinekoloğa muayene oluyor.
+o pediatra | çocuk doktoru | isim (e) | A pediatra examinou o bebê e disse que está tudo bem. | Çocuk doktoru bebeği muayene etti ve her şeyin yolunda olduğunu söyledi.
+o neurologista | nörolog | isim (e) | O neurologista investigou a causa das dores de cabeça. | Nörolog baş ağrılarının nedenini araştırdı.
+o oncologista | onkolog | isim (e) | A oncologista explicou cada etapa do tratamento com calma. | Onkolog tedavinin her aşamasını sakince açıkladı.
+o otorrinolaringologista | kulak burun boğaz uzmanı | isim (e) | O otorrinolaringologista tratou a minha sinusite crônica. | Kulak burun boğaz uzmanı kronik sinüzitimi tedavi etti.
+o cirurgião | cerrah | isim (e) | O cirurgião operou o paciente durante seis horas. | Cerrah hastayı altı saat ameliyat etti.
+## Ciddi hastalıklar
+o câncer | kanser | isim (e) | O diagnóstico precoce aumenta muito a chance de cura do câncer. | Erken teşhis kanserin tedavi şansını çok artırır.
+o tumor | tümör | isim (e) | Os médicos retiraram o tumor numa cirurgia delicada. | Doktorlar tümörü hassas bir ameliyatla aldı.
+o infarto | kalp krizi | isim (e) | Meu tio teve um infarto, mas foi socorrido a tempo. | Amcam kalp krizi geçirdi ama zamanında müdahale edildi.
+o derrame | inme, felç | isim (e) | Depois do derrame, minha avó precisou reaprender a falar. | İnmeden sonra büyükannem konuşmayı yeniden öğrenmek zorunda kaldı.
+a hipertensão | hipertansiyon | isim (d) | A hipertensão pode ser controlada com dieta e remédio. | Hipertansiyon diyet ve ilaçla kontrol altına alınabilir.
+a leucemia | lösemi | isim (d) | A campanha procura doadores de medula para crianças com leucemia. | Kampanya lösemili çocuklar için ilik bağışçısı arıyor.
+a tuberculose | verem | isim (d) | A tuberculose tem cura, mas o tratamento é longo. | Veremin tedavisi var ama uzun sürüyor.
+a malária | sıtma | isim (d) | Na Amazônia, ainda há casos de malária em áreas isoladas. | Amazon'da ıssız bölgelerde hâlâ sıtma vakaları görülüyor.
+a hepatite | hepatit, sarılık | isim (d) | A vacina contra a hepatite é dada logo após o nascimento. | Hepatit aşısı doğumdan hemen sonra yapılır.
+a doença de Alzheimer | Alzheimer hastalığı | isim (d) | A doença de Alzheimer afeta a memória dos idosos. | Alzheimer hastalığı yaşlıların hafızasını etkiler.
+## Tedavi yöntemleri
+a quimioterapia | kemoterapi | isim (d) | Durante a quimioterapia, ela perdeu o cabelo e usou lenços coloridos. | Kemoterapi sırasında saçları döküldü ve renkli eşarplar taktı.
+a radioterapia | radyoterapi, ışın tedavisi | isim (d) | Ele fez radioterapia todos os dias durante um mês. | Bir ay boyunca her gün ışın tedavisi gördü.
+o transplante | nakil | isim (e) | O transplante de rim deu uma vida nova ao meu primo. | Böbrek nakli kuzenime yeni bir hayat verdi.
+a hemodiálise | diyaliz | isim (d) | Ela faz hemodiálise três vezes por semana na clínica. | Klinikte haftada üç kez diyalize giriyor.
+a transfusão | kan nakli | isim (d) | Depois do acidente, ele precisou de uma transfusão urgente. | Kazadan sonra acil kan nakline ihtiyaç duydu.
+o marca-passo | kalp pili | isim (e) | Meu avô usa marca-passo desde os setenta anos. | Dedem yetmiş yaşından beri kalp pili kullanıyor.
+a prótese | protez | isim (d) | Com a prótese nova, o atleta voltou a correr. | Yeni proteziyle sporcu yeniden koşmaya başladı.
+a UTI | yoğun bakım ünitesi | isim (d) | O paciente ficou três dias na UTI depois da cirurgia. | Hasta ameliyattan sonra üç gün yoğun bakımda kaldı.
+a reabilitação | rehabilitasyon | isim (d) | A reabilitação depois do derrame levou quase um ano. | İnme sonrası rehabilitasyon neredeyse bir yıl sürdü.
+a medicação | ilaç tedavisi | isim (d) | Não interrompa a medicação sem falar com o médico. | Doktorla konuşmadan ilaç tedavisini kesme.
+## Hastanede
+a triagem | triyaj, ön değerlendirme | isim (d) | Na triagem, a enfermeira mediu a febre e a pressão. | Ön değerlendirmede hemşire ateşi ve tansiyonu ölçtü.
+o prontuário | hasta dosyası | isim (e) | O médico consultou o prontuário antes de receitar o remédio. | Doktor ilacı yazmadan önce hasta dosyasına baktı.
+o leito | hasta yatağı | isim (e) | O hospital abriu mais vinte leitos para a época de inverno. | Hastane kış dönemi için yirmi yatak daha açtı.
+o centro cirúrgico | ameliyathane | isim (e) | A família esperou do lado de fora do centro cirúrgico. | Aile ameliyathanenin dışında bekledi.
+o ambulatório | poliklinik | isim (e) | O ambulatório atende sem consulta marcada até as onze. | Poliklinik saat on bire kadar randevusuz hasta kabul ediyor.
+a sala de espera | bekleme salonu | isim (d) | A sala de espera do pronto-socorro estava lotada. | Acil servisin bekleme salonu tıklım tıklımdı.
+o pós-operatório | ameliyat sonrası dönem | isim (e) | O pós-operatório exige repouso e cuidado com os pontos. | Ameliyat sonrası dönem istirahat ve dikişlere özen gerektirir.
+o plantonista | nöbetçi doktor | isim (e) | O plantonista atendeu mais de cinquenta pacientes à noite. | Nöbetçi doktor gece elliden fazla hastaya baktı.
+receber alta | taburcu olmak | ifade | Meu pai recebeu alta e já está em casa descansando. | Babam taburcu oldu ve şimdi evde dinleniyor.
+o encaminhamento | sevk | isim (e) | O clínico me deu um encaminhamento para o cardiologista. | Pratisyen hekim beni kardiyoloğa sevk etti.
+## Halk sağlığı
+a saúde pública | halk sağlığı | isim (d) | A dengue é um grave problema de saúde pública. | Dang humması ciddi bir halk sağlığı sorunudur.
+a epidemia | salgın (bölgesel) | isim (d) | A cidade enfrentou uma epidemia de dengue no verão. | Şehir yazın bir dang salgınıyla karşı karşıya kaldı.
+a pandemia | pandemi, küresel salgın | isim (d) | Durante a pandemia, muitas pessoas trabalharam de casa. | Pandemi sırasında pek çok kişi evden çalıştı.
+o surto | ani salgın, patlak verme | isim (e) | Houve um surto de sarampo numa escola do interior. | Taşradaki bir okulda kızamık salgını patlak verdi.
+a quarentena | karantina | isim (d) | Os passageiros ficaram em quarentena por catorze dias. | Yolcular on dört gün karantinada kaldı.
+o contágio | bulaşma | isim (e) | O uso de máscara reduz o risco de contágio. | Maske kullanmak bulaşma riskini azaltır.
+a imunização | bağışıklama | isim (d) | A imunização das crianças é feita nos postos de saúde. | Çocukların aşılanması sağlık ocaklarında yapılır.
+a campanha de vacinação | aşı kampanyası | isim (d) | A campanha de vacinação contra a gripe começa em abril. | Grip aşısı kampanyası nisanda başlıyor.
+o sistema público de saúde | kamu sağlık sistemi | isim (e) | O sistema público de saúde atende milhões de brasileiros. | Kamu sağlık sistemi milyonlarca Brezilyalıya hizmet veriyor.
+o agente de saúde | toplum sağlığı görevlisi | isim (e) | A agente de saúde visita as famílias do bairro todo mês. | Sağlık görevlisi her ay mahalledeki aileleri ziyaret ediyor.
+## Tetkikler
+o exame de imagem | görüntüleme tetkiki | isim (e) | O médico pediu um exame de imagem para ver o pulmão. | Doktor akciğere bakmak için bir görüntüleme tetkiki istedi.
+a ultrassonografia | ultrason | isim (d) | Na ultrassonografia, vimos o bebê se mexendo. | Ultrasonda bebeğin hareket ettiğini gördük.
+a tomografia | tomografi | isim (d) | A tomografia mostrou que não havia fratura na cabeça. | Tomografi kafada kırık olmadığını gösterdi.
+a ressonância magnética | MR, manyetik rezonans | isim (d) | A ressonância magnética do joelho confirmou a lesão. | Dizin manyetik rezonansı sakatlığı doğruladı.
+o eletrocardiograma | EKG | isim (e) | Felizmente, o eletrocardiograma não mostrou nenhuma alteração no coração. | Neyse ki EKG kalpte hiçbir değişiklik göstermedi.
+a biópsia | biyopsi | isim (d) | O resultado da biópsia sai em dez dias. | Biyopsi sonucu on günde çıkıyor.
+o hemograma | tam kan sayımı | isim (e) | O hemograma mostrou que ela estava com anemia. | Tam kan sayımı onun kansız olduğunu gösterdi.
+a mamografia | mamografi | isim (d) | A campanha incentiva as mulheres a fazer mamografia. | Kampanya kadınları mamografi çektirmeye teşvik ediyor.
+o laudo | rapor (tıbbi sonuç) | isim (e) | Busquei o laudo da tomografia no laboratório. | Tomografi raporunu laboratuvardan aldım.
+o exame de urina | idrar tahlili | isim (e) | O exame de urina confirmou a infecção. | İdrar tahlili enfeksiyonu doğruladı.
+## İlaçlar
+o medicamento | ilaç | isim (e) | Guarde os medicamentos longe do alcance das crianças. | İlaçları çocukların ulaşamayacağı yerde saklayın.
+o remédio genérico | eşdeğer ilaç | isim (e) | O remédio genérico tem o mesmo efeito e é mais barato. | Eşdeğer ilaç aynı etkiye sahip ve daha ucuz.
+a bula | prospektüs | isim (d) | Leia a bula antes de tomar qualquer remédio novo. | Yeni bir ilaç almadan önce prospektüsü okuyun.
+a posologia | kullanım dozu ve şekli | isim (d) | A posologia indica um comprimido a cada oito horas. | Kullanım talimatı sekiz saatte bir tablet öneriyor.
+o analgésico | ağrı kesici | isim (e) | Tomei um analgésico e a dor de dente passou. | Bir ağrı kesici aldım ve diş ağrım geçti.
+o anti-inflamatório | iltihap giderici | isim (e) | O dentista receitou um anti-inflamatório por cinco dias. | Diş hekimi beş günlük iltihap giderici yazdı.
+o antialérgico | alerji ilacı | isim (e) | Na primavera, preciso tomar antialérgico todos os dias. | İlkbaharda her gün alerji ilacı almam gerekiyor.
+a cápsula | kapsül | isim (d) | Engula a cápsula inteira com um copo de água. | Kapsülü bir bardak suyla bütün olarak yutun.
+as gotas | damla (ilaç) | isim (çoğul) | O médico receitou gotas para a dor de ouvido. | Doktor kulak ağrısı için damla yazdı.
+a automedicação | doktora danışmadan ilaç kullanma | isim (d) | A automedicação pode esconder sintomas de doenças graves. | Kendi kendine ilaç kullanmak ciddi hastalıkların belirtilerini gizleyebilir.
+## Tıp fiilleri
+vacinar | aşılamak | fiil | Ainda não vacinei o cachorro contra a raiva. | Köpeği henüz kuduza karşı aşılatmadım.
+medicar | ilaç vermek | fiil | A enfermeira medicou o paciente e ele dormiu logo. | Hemşire hastaya ilaç verdi ve hasta hemen uyudu.
+auscultar | steteskopla dinlemek | fiil | O médico auscultou o pulmão e pediu um raio-x. | Doktor akciğeri dinledi ve röntgen istedi.
+sedar | sakinleştirici vermek, uyutmak | fiil | Precisaram sedar o paciente para fazer o exame. | Tetkiki yapmak için hastayı uyutmaları gerekti.
+anestesiar | uyuşturmak | fiil | O dentista anestesiou o dente antes de tratar o canal. | Diş hekimi kanal tedavisinden önce dişi uyuşturdu.
+suturar | dikiş atmak | fiil | O médico suturou o corte na mão com seis pontos. | Doktor eldeki kesiğe altı dikiş attı.
+agravar-se | kötüleşmek | fiil · dönüşlü | O quadro dele se agravou durante a madrugada. | Durumu gece yarısından sonra kötüleşti.
+estabilizar | stabilize etmek, dengelemek | fiil | Os médicos conseguiram estabilizar a pressão do paciente. | Doktorlar hastanın tansiyonunu dengelemeyi başardı.
+infeccionar | enfeksiyon kapmak | fiil | O machucado infeccionou porque ele entrou no rio. | Nehre girdiği için yarası enfeksiyon kaptı.
+reanimar | hayata döndürmek | fiil | Os socorristas reanimaram o banhista na beira da praia. | İlk yardım ekipleri yüzücüyü kumsalda hayata döndürdü.
+## Tıbbi sıfatlar
+benigno | iyi huylu | sıfat | Felizmente, o tumor era benigno e foi retirado. | Neyse ki tümör iyi huyluydu ve alındı.
+maligno | kötü huylu | sıfat | O exame indicou um tumor maligno em fase inicial. | Tetkik erken evrede kötü huylu bir tümör gösterdi.
+terminal | son evre, ölümcül | sıfat | Neste hospital, os pacientes terminais recebem cuidados paliativos. | Bu hastanede son evredeki hastalar palyatif bakım alıyor.
+hereditário | kalıtsal | sıfat | O diabetes na família dele parece ser hereditário. | Ailesindeki şeker hastalığı kalıtsal görünüyor.
+congênito | doğuştan | sıfat | O bebê nasceu com um problema congênito no coração. | Bebek doğuştan bir kalp sorunuyla dünyaya geldi.
+infeccioso | bulaşıcı (enfeksiyon kaynaklı) | sıfat | O hospital tem uma ala só para doenças infecciosas. | Hastanenin sadece bulaşıcı hastalıklar için bir koğuşu var.
+estável | stabil, durağan | sıfat | O paciente está estável, mas continua em observação. | Hastanın durumu stabil ama gözetim altında kalmaya devam ediyor.
+crítico | kritik, ağır | sıfat | O estado do motorista era crítico depois do acidente. | Kazadan sonra şoförün durumu kritikti.
+assintomático | belirtisiz | sıfat | No início da epidemia, muitas pessoas infectadas eram assintomáticas. | Salgının başında enfekte olan pek çok kişi belirti göstermiyordu.
+fatal | ölümcül | sıfat | Sem tratamento, a doença pode ser fatal. | Tedavi edilmezse hastalık ölümcül olabilir.
+## Tıp ifadeleri ve kavramlar
+o doador de sangue | kan bağışçısı | isim (e) | O hemocentro precisa urgente de doadores de sangue. | Kan merkezinin acilen kan bağışçılarına ihtiyacı var.
+o médico residente | asistan doktor | isim (e) | O médico residente trabalha mais de sessenta horas por semana. | Asistan doktor haftada altmış saatten fazla çalışıyor.
+o prognóstico | prognoz, hastalığın seyri tahmini | isim (e) | O prognóstico é bom se ele seguir o tratamento. | Tedaviye uyarsa seyir iyi görünüyor.
+a segunda opinião | ikinci görüş | isim (d) | Antes da cirurgia, ela pediu uma segunda opinião. | Ameliyattan önce ikinci bir görüş istedi.
+estar fora de perigo | tehlikeyi atlatmış olmak | ifade | O bebê já está fora de perigo e vai para o quarto. | Bebek tehlikeyi atlattı ve odaya alınacak.
+correr risco de vida | hayati tehlike altında olmak | ifade | Os médicos disseram que ele não corre risco de vida. | Doktorlar onun hayati tehlikesinin olmadığını söyledi.
+estar entre a vida e a morte | ölüm kalım savaşı vermek | deyim | Depois do acidente, ele ficou dias entre a vida e a morte. | Kazadan sonra günlerce ölüm kalım savaşı verdi.
+dar entrada no hospital | hastaneye kaldırılmak | ifade | Ela deu entrada no hospital com dores fortes no peito. | Şiddetli göğüs ağrılarıyla hastaneye kaldırıldı.
+o coma | koma | isim (e) | Ele ficou em coma por duas semanas e depois acordou. | İki hafta komada kaldı, sonra uyandı.
+a sequela | kalıcı hasar, sekel | isim (d) | Felizmente, a infecção não deixou nenhuma sequela. | Neyse ki enfeksiyon kalıcı bir hasar bırakmadı.
