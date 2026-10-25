@@ -9,7 +9,7 @@ edat | postposition | isim | "Gibi", "için" ve "kadar" Türkçede en sık kulla
 bağlaç | conjunction | isim | "Ama" ve "fakat" aynı anlama gelen iki bağlaçtır. | "Ama" and "fakat" are two conjunctions with the same meaning.
 yapım eki | derivational suffix | isim | "-lik" yapım eki, "göz" kelimesinden "gözlük" kelimesini türetir. | The derivational suffix "-lik" forms the word "gözlük" from "göz".
 çekim eki | inflectional suffix | isim | Çekim ekleri kelimenin anlamını değil, cümledeki görevini değiştirir. | Inflectional suffixes change not the meaning of a word but its function in the sentence.
-sözcük kökü | word root | isim | "Gözlükçü" kelimesinin sözcük kökü "göz"dür. | The root of the word "gözlükçü" is "göz".
+sözcük kökü | word root | isim | "Gözlükçü" kelimesinin sözcük kökü, bütün eklerden önce gelen "göz"dür. | The root of the word "gözlükçü" is "göz", which comes before all the suffixes.
 ## Sentence grammar
 tekil | singular | sıfat | Türkçede sayılardan sonra gelen isim tekil kalır, "üç kitap" denir. | In Turkish, a noun after a number stays singular: you say "üç kitap".
 çoğul | plural | sıfat | Çoğul eki "-ler" veya "-lar", ünlü uyumuna göre seçilir. | The plural suffix "-ler" or "-lar" is chosen according to vowel harmony.

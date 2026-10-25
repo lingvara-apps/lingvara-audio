@@ -12,7 +12,7 @@ birdenbire | suddenly; all of a sudden | zarf | Güneşli bir günde birdenbire 
 sürekli | constant; continuous | sıfat | Yan dairedeki sürekli matkap sesi yüzünden ders çalışamıyorum. | I can't study because of the constant drilling noise from the flat next door.
 ## Cause and effect
 nedensiz | for no reason; causeless | sıfat | Bazen nedensiz bir mutluluk hissediyorum, sadece güneş açtığı için. | Sometimes I feel happy for no reason, just because the sun has come out.
-sebep | reason; cause | isim | Toplantıya gelmemesinin sebebini hâlâ açıklamadı. | He still hasn't explained the reason he didn't come to the meeting.
+sebep | reason; cause | isim | Dünkü önemli toplantıya gelmemesinin sebebini bize hâlâ açıklamadı. | He still hasn't explained to us why he didn't come to yesterday's important meeting.
 etken | factor | isim | Hava durumu, hasadın verimini etkileyen en önemli etkendir. | The weather is the most important factor affecting the yield of the harvest.
 faktör | factor | isim | Fiyat, ev seçerken dikkate aldığımız faktörlerden sadece biri. | Price is only one of the factors we take into account when choosing a house.
 neden olmak | to cause | fiil | Sürücünün dikkatsizliği, üç aracın karıştığı bir kazaya neden oldu. | The driver's carelessness caused an accident involving three vehicles.
@@ -86,7 +86,7 @@ kritik | critical | sıfat | Maçın en kritik anında kaleci harika bir kurtar�
 hayati | vital | sıfat | Deprem bölgesinde ilk yetmiş iki saat hayati önem taşır. | In an earthquake zone, the first seventy-two hours are of vital importance.
 can alıcı | crucial; the crux | sıfat | Konuşmasının can alıcı noktası, gençlere daha fazla fırsat verilmesiydi. | The crux of his speech was giving young people more opportunities.
 göz ardı etmek | to overlook; to disregard | fiil | Küçük gibi görünen sağlık sorunlarını göz ardı etmemelisin. | You shouldn't overlook health problems that seem minor.
-önemsemek | to care about; to value | fiil | Müşterilerimizin görüşlerini çok önemsiyoruz. | We value our customers' opinions very highly.
+önemsemek | to care about; to value | fiil | Şirket olarak müşterilerimizin görüşlerini ve şikâyetlerini çok önemsiyoruz. | As a company we place great value on our customers' opinions and complaints.
 ## Parts and wholes
 bütün | the whole; all | isim | Proje, parçalardan çok bir bütün olarak değerlendirilmeli. | The project should be evaluated as a whole rather than in parts.
 parça | piece; part | isim | Kırılan vazonun parçalarını yapıştırıp yeniden kullandık. | We glued the pieces of the broken vase together and used it again.
