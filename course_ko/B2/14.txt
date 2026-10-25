@@ -1,0 +1,111 @@
+# UNIT: Sanayi ve tarım | Üretim, madencilik, inşaat, çiftçilik
+## Sanayi
+산업 (saneop) | sanayi, endüstri | isim | 자동차 산업은 많은 일자리를 만든다. | Otomotiv sanayi pek çok iş imkânı yaratır.
+제조업 (jejoeop) | imalat sektörü | isim | 한국 경제는 제조업의 비중이 높다. | Kore ekonomisinde imalat sektörünün payı yüksek.
+공장 (gongjang) | fabrika | isim | 그는 고향의 자동차 부품 공장에서 일한다. | Memleketindeki otomobil yedek parça fabrikasında çalışıyor.
+공업 (gongeop) | sanayi (imalat) | isim | 울산은 대표적인 공업 도시이다. | Ulsan başlıca sanayi şehirlerinden biridir.
+중공업 (junggongeop) | ağır sanayi | isim | 조선과 철강은 대표적인 중공업이다. | Gemi yapımı ve çelik ağır sanayinin başlıca kollarıdır.
+경공업 (gyeonggongeop) | hafif sanayi | isim | 옛날에는 섬유 같은 경공업이 수출을 이끌었다. | Eskiden tekstil gibi hafif sanayi ihracata öncülük ederdi.
+산업 단지 (saneop danji) | sanayi bölgesi | isim | 도시 외곽에 큰 산업 단지가 들어섰다. | Şehrin dışına büyük bir sanayi bölgesi kuruldu.
+생산 라인 (saengsan rain) | üretim hattı | isim | 새 생산 라인 덕분에 하루 생산량이 두 배가 되었다. | Yeni üretim hattı sayesinde günlük üretim iki katına çıktı.
+대량 생산 (daeryang saengsan) | seri üretim | isim | 대량 생산으로 제품 가격이 많이 내려갔다. | Seri üretimle ürün fiyatları çok düştü.
+수작업 (sujageop) | el işçiliği | isim | 이 가방은 모두 수작업으로 만들어서 비싸다. | Bu çantalar tamamen el işçiliğiyle yapıldığı için pahalı.
+## Üretim süreci
+제조하다 (jejohada) | imal etmek | fiil | 이 회사는 휴대폰 배터리를 제조한다. | Bu şirket telefon pili imal ediyor.
+조립하다 (joripada) | monte etmek | fiil | 공장에서 로봇이 자동차를 조립한다. | Fabrikada robotlar otomobil monte ediyor.
+가공하다 (gagonghada) | işlemek (ham maddeyi) | fiil | 우유를 가공해서 치즈와 버터를 만든다. | Süt işlenerek peynir ve tereyağı yapılır.
+포장하다 (pojanghada) | paketlemek | fiil | 완성된 제품은 상자에 하나씩 포장한다. | Tamamlanan ürünler kutulara tek tek paketlenir.
+출하하다 (chulhahada) | sevk etmek, piyasaya göndermek | fiil | 수확한 사과를 다음 주에 시장으로 출하한다. | Hasat edilen elmalar gelecek hafta pazara sevk edilecek.
+납품하다 (nappumhada) | teslim etmek (tedarikçi olarak) | fiil | 우리 회사는 대기업에 부품을 납품한다. | Şirketimiz büyük şirketlere parça tedarik ediyor.
+불량품 (bullyangpum) | kusurlu ürün | isim | 검사에서 불량품이 나와서 생산을 멈췄다. | Kontrolde kusurlu ürün çıkınca üretim durduruldu.
+품질 관리 (pumjil gwalli) | kalite kontrol | isim | 품질 관리를 철저히 해서 고객의 신뢰를 얻었다. | Kalite kontrolü titizlikle yapılarak müşterilerin güveni kazanıldı.
+재고 (jaego) | stok | isim | 인기 상품이라서 재고가 거의 남지 않았다. | Popüler bir ürün olduğu için stokta neredeyse hiç kalmadı.
+원료 (wollyo) | ham madde | isim | 이 화장품의 원료는 제주도에서 나는 식물이다. | Bu kozmetiğin ham maddesi Jeju'da yetişen bir bitki.
+## Madencilik ve enerji
+탄광 (tangwang) | kömür madeni | isim | 그 마을은 예전에 탄광으로 유명했다. | O kasaba eskiden kömür madeniyle ünlüydü.
+광부 (gwangbu) | madenci | isim | 광부들은 땅속 깊은 곳에서 위험하게 일한다. | Madenciler yerin derinliklerinde tehlikeli koşullarda çalışır.
+금광 (geumgwang) | altın madeni | isim | 옛날 사람들은 금광을 찾아 먼 곳까지 갔다. | Eskiden insanlar altın madeni bulmak için uzaklara giderdi.
+채석장 (chaeseokjang) | taş ocağı | isim | 산 아래 채석장에서 큰 돌을 캐낸다. | Dağın eteğindeki taş ocağından büyük taşlar çıkarılıyor.
+정유 공장 (jeongyu gongjang) | petrol rafinerisi | isim | 정유 공장에서는 원유로 휘발유를 만든다. | Rafineride ham petrolden benzin üretilir.
+가스관 (gaseugwan) | doğalgaz boru hattı | isim | 두 나라를 잇는 가스관 공사가 시작되었다. | İki ülkeyi bağlayan doğalgaz boru hattının inşaatı başladı.
+송전탑 (songjeontap) | elektrik direği (yüksek gerilim) | isim | 마을 주민들이 송전탑 건설에 반대했다. | Köylüler yüksek gerilim direği kurulmasına karşı çıktı.
+발전기 (baljeongi) | jeneratör | isim | 정전이 되자 병원은 비상 발전기를 돌렸다. | Elektrik kesilince hastane acil durum jeneratörünü çalıştırdı.
+고갈되다 (gogaldoeda) | tükenmek (kaynak) | fiil | 석유가 고갈되기 전에 다른 에너지를 찾아야 한다. | Petrol tükenmeden önce başka enerji kaynakları bulmalıyız.
+에너지원 (eneojiwon) | enerji kaynağı | isim | 바람과 햇빛은 깨끗한 에너지원이다. | Rüzgâr ve güneş ışığı temiz enerji kaynaklarıdır.
+## İnşaat
+건설 (geonseol) | inşaat (büyük çaplı) | isim | 새 다리 건설에 오 년이 걸렸다. | Yeni köprünün inşası beş yıl sürdü.
+건설업 (geonseoreop) | inşaat sektörü | isim | 경기가 나빠지면 건설업이 가장 먼저 타격을 받는다. | Ekonomi kötüleşince ilk darbeyi inşaat sektörü alır.
+인부 (inbu) | inşaat işçisi, amele | isim | 인부들이 새벽부터 무거운 자재를 날랐다. | İşçiler sabahın erken saatinden ağır malzemeleri taşıdı.
+굴착기 (gulchakgi) | ekskavatör, kepçe | isim | 굴착기가 땅을 파는 소리에 잠이 깼다. | Kepçenin toprak kazma sesiyle uyandım.
+덤프트럭 (deompeuteureok) | damperli kamyon | isim | 덤프트럭이 흙을 가득 싣고 지나갔다. | Damperli kamyon ağzına kadar toprak yüklü geçti.
+목수 (moksu) | marangoz | isim | 할아버지는 평생 목수로 일하며 집을 지으셨다. | Dedem ömür boyu marangozluk yapıp evler inşa etti.
+용접 (yongjeop) | kaynak (metal) | isim | 용접을 할 때는 반드시 보호 안경을 써야 한다. | Kaynak yaparken mutlaka koruyucu gözlük takılmalı.
+미장공 (mijanggong) | sıvacı | isim | 미장공이 벽을 매끈하게 다듬었다. | Sıvacı duvarı pürüzsüz hâle getirdi.
+안전사고 (anjeonsago) | iş kazası | isim | 공사장에서는 작은 실수가 큰 안전사고로 이어질 수 있다. | Şantiyede küçük bir hata büyük bir iş kazasına yol açabilir.
+도로 공사 (doro gongsa) | yol çalışması | isim | 도로 공사 때문에 길이 많이 막힌다. | Yol çalışması yüzünden trafik çok sıkışık.
+## Tarım
+농업 (nongeop) | tarım | isim | 그 나라 사람들의 절반이 농업에 종사한다. | O ülke halkının yarısı tarımla uğraşıyor.
+농사 (nongsa) | çiftçilik, ekip biçme | isim | 부모님은 시골에서 농사를 지으신다. | Annemle babam köyde çiftçilik yapıyor.
+농민 (nongmin) | çiftçi (toplum kesimi) | isim | 가뭄 때문에 농민들의 걱정이 크다. | Kuraklık yüzünden çiftçilerin endişesi büyük.
+농작물 (nongjangmul) | tarım ürünü | isim | 태풍으로 농작물 피해가 컸다. | Tayfun yüzünden tarım ürünlerinde büyük hasar oldu.
+수확하다 (suhwakada) | hasat etmek | fiil | 가을에는 벼를 수확하느라 바쁘다. | Sonbaharda pirinç hasadı yüzünden meşgul oluruz.
+모내기 (monaegi) | pirinç fidesi dikimi | isim | 오월이 되면 논에서 모내기를 한다. | Mayıs gelince tarlalarda pirinç fidesi dikilir.
+벼 (byeo) | çeltik (pirinç bitkisi) | isim | 가을 들판에 누렇게 익은 벼가 가득하다. | Sonbahar ovası sararmış olgun çeltikle dolu.
+논 (non) | çeltik tarlası | isim | 논에 물을 대야 벼가 잘 자란다. | Çeltik tarlası sulanmalı ki pirinç iyi yetişsin.
+밭 (bat) | tarla (kuru) | isim | 할머니는 밭에서 고추와 배추를 기르신다. | Büyükannem tarlada biber ve lahana yetiştiriyor.
+비료 (biryo) | gübre | isim | 비료를 너무 많이 주면 오히려 식물이 죽는다. | Fazla gübre verilirse bitki tam tersine ölür.
+## Hayvancılık
+축산업 (chuksaneop) | hayvancılık | isim | 이 지역은 축산업이 발달했다. | Bu bölgede hayvancılık gelişmiş.
+가축 (gachuk) | çiftlik hayvanı | isim | 겨울에는 가축이 추위에 얼지 않도록 신경 써야 한다. | Kışın çiftlik hayvanlarının soğukta donmamasına dikkat etmek gerekir.
+목장 (mokjang) | çiftlik (hayvan), mera | isim | 목장에서 갓 짠 우유를 마셔 봤다. | Çiftlikte yeni sağılmış süt içtim.
+가축 사료 (gachuk saryo) | hayvan yemi | isim | 가축 사료 값이 올라서 농가의 부담이 커졌다. | Hayvan yemi fiyatları artınca çiftliklerin yükü büyüdü.
+젖소 (jeotso) | süt ineği | isim | 이 목장에는 젖소가 백 마리 넘게 있다. | Bu çiftlikte yüzden fazla süt ineği var.
+한우 (hanu) | Kore sığırı (yerli ırk) | isim | 한우는 비싸지만 맛이 좋다. | Kore sığırı eti pahalı ama lezzetli.
+양계장 (yanggyejang) | tavuk çiftliği | isim | 양계장에서 매일 수천 개의 달걀을 생산한다. | Tavuk çiftliğinde her gün binlerce yumurta üretiliyor.
+도축 (dochuk) | kesim (hayvan) | isim | 도축 과정은 위생 기준을 엄격히 지켜야 한다. | Kesim süreci hijyen standartlarına sıkı biçimde uymalı.
+방목하다 (bangmokada) | otlatmak (serbest) | fiil | 이 소들은 넓은 초원에 방목해서 키운다. | Bu inekler geniş çayırlarda serbest otlatılarak yetiştiriliyor.
+외양간 (oeyanggan) | ahır (inek) | isim | 외양간을 깨끗하게 관리해야 소가 병에 걸리지 않는다. | Ahır temiz tutulmalı ki inekler hastalanmasın.
+## Tarım teknikleri
+농약 (nongyak) | tarım ilacı | isim | 과일은 농약이 남아 있을 수 있으니 잘 씻어 드세요. | Meyvelerde tarım ilacı kalabilir, iyice yıkayıp yiyin.
+유기농 (yuginong) | organik | isim | 아이에게는 비싸도 유기농 채소를 먹인다. | Pahalı olsa da çocuğuma organik sebze yediriyorum.
+비닐하우스 (binilhauseu) | sera (naylon) | isim | 비닐하우스 덕분에 겨울에도 딸기를 먹을 수 있다. | Sera sayesinde kışın da çilek yiyebiliyoruz.
+품종 (pumjong) | tür, çeşit (bitki, hayvan) | isim | 이 사과는 추위에 강한 새 품종이다. | Bu elma soğuğa dayanıklı yeni bir çeşit.
+재배하다 (jaebaehada) | yetiştirmek (bitki) | fiil | 제주도에서는 귤을 많이 재배한다. | Jeju'da çok mandalina yetiştirilir.
+수확량 (suhwangnyang) | hasat miktarı | isim | 날씨가 좋아서 올해 수확량이 늘었다. | Hava iyi olduğu için bu yılın hasadı arttı.
+풍년 (pungnyeon) | bereketli yıl | isim | 올해는 비가 적당히 와서 풍년이 들었다. | Bu yıl yağmur yerinde yağdığı için bereketli bir yıl oldu.
+흉년 (hyungnyeon) | kıtlık yılı, kötü hasat yılı | isim | 옛날에는 흉년이 들면 많은 사람이 굶었다. | Eskiden kötü hasat yılı gelince pek çok kişi aç kalırdı.
+병충해 (byeongchunghae) | zararlı böcek ve hastalık (bitkide) | isim | 병충해를 막으려고 약을 뿌렸다. | Zararlılarla mücadele için ilaçlama yaptık.
+스마트 팜 (seumateu pam) | akıllı çiftlik | isim | 스마트 팜에서는 휴대폰으로 온도와 물을 조절한다. | Akıllı çiftlikte sıcaklık ve su telefonla ayarlanıyor.
+## Balıkçılık ve ormancılık
+어업 (eoeop) | balıkçılık | isim | 이 섬 주민들은 대부분 어업으로 생계를 유지한다. | Bu adanın sakinlerinin çoğu geçimini balıkçılıktan sağlıyor.
+어부 (eobu) | balıkçı | isim | 어부들은 새벽에 바다로 나간다. | Balıkçılar şafakta denize açılır.
+어선 (eoseon) | balıkçı teknesi | isim | 태풍 때문에 어선들이 항구에 묶여 있다. | Tayfun yüzünden balıkçı tekneleri limanda bağlı kaldı.
+어획량 (eohoengnyang) | av miktarı (balık) | isim | 바닷물 온도가 올라서 어획량이 줄었다. | Deniz suyu ısınınca av miktarı azaldı.
+그물 (geumul) | ağ (balık) | isim | 어부가 그물을 끌어 올리자 물고기가 가득했다. | Balıkçı ağı çekince içi balık doluydu.
+수산물 (susanmul) | su ürünleri | isim | 수산물 시장에서 싱싱한 생선을 샀다. | Su ürünleri pazarından taze balık aldım.
+임업 (imeop) | ormancılık | isim | 임업은 나무를 심고 가꾸는 일을 포함한다. | Ormancılık ağaç dikme ve bakımını da kapsar.
+벌목 (beolmok) | ağaç kesimi | isim | 무분별한 벌목 때문에 숲이 사라지고 있다. | Plansız ağaç kesimi yüzünden ormanlar yok oluyor.
+양식장 (yangsikjang) | balık/deniz ürünleri çiftliği | isim | 남해안에는 굴 양식장이 많다. | Güney kıyısında çok sayıda istiridye çiftliği var.
+목재 (mokjae) | kereste, ahşap malzeme | isim | 이 집은 친환경 목재로 지어졌다. | Bu ev çevre dostu ahşap malzemeyle inşa edildi.
+## Sanayi ve çevre sorunları
+공해 (gonghae) | çevre kirliliği (sanayi kaynaklı) | isim | 공장 근처 주민들은 공해 때문에 고통받고 있다. | Fabrika yakınındaki halk kirlilik yüzünden sıkıntı çekiyor.
+폐기물 (pyegimul) | atık | isim | 산업 폐기물을 함부로 버린 회사가 처벌을 받았다. | Sanayi atıklarını gelişigüzel atan şirket cezalandırıldı.
+유해 물질 (yuhae muljil) | zararlı madde | isim | 이 장난감에서 유해 물질이 검출되었다. | Bu oyuncakta zararlı madde tespit edildi.
+안전 수칙 (anjeon suchik) | güvenlik kuralları | isim | 작업 전에 안전 수칙을 반드시 확인하세요. | Çalışmadan önce güvenlik kurallarını mutlaka kontrol edin.
+작업 환경 (jageop hwangyeong) | çalışma ortamı | isim | 작업 환경이 좋아지면서 사고가 줄었다. | Çalışma ortamı iyileşince kazalar azaldı.
+노동 강도 (nodong gangdo) | iş yükünün ağırlığı | isim | 물류 센터는 노동 강도가 높기로 유명하다. | Lojistik merkezleri iş yükünün ağırlığıyla ünlüdür.
+산업 구조 (saneop gujo) | sanayi yapısı | isim | 한국의 산업 구조는 경공업에서 첨단 산업으로 바뀌었다. | Kore'nin sanayi yapısı hafif sanayiden ileri teknoloji sanayisine dönüştü.
+공장 이전 (gongjang ijeon) | fabrika taşıma | isim | 인건비 때문에 해외로 공장 이전을 결정했다. | İşçilik maliyetleri yüzünden fabrikayı yurt dışına taşımaya karar verdiler.
+첨단 산업 (cheomdan saneop) | ileri teknoloji sanayisi | isim | 정부는 첨단 산업을 키우기 위해 투자를 늘렸다. | Hükümet ileri teknoloji sanayisini büyütmek için yatırımları artırdı.
+사양 산업 (sayang saneop) | gerileyen sektör | isim | 필름 카메라는 이제 사양 산업이 되었다. | Film makineleri artık gerileyen bir sektör oldu.
+## Üretim fiilleri
+생산하다 (saengsanhada) | üretmek | fiil | 이 공장은 하루에 자동차 천 대를 생산한다. | Bu fabrika günde bin otomobil üretiyor.
+가동하다 (gadonghada) | çalıştırmak, faaliyete geçirmek | fiil | 수요가 늘어서 공장을 이십사 시간 가동하고 있다. | Talep artınca fabrika yirmi dört saat çalıştırılıyor.
+증산하다 (jeungsanhada) | üretimi artırmak | fiil | 여름을 앞두고 에어컨을 증산하기로 했다. | Yaz öncesinde klima üretimini artırmaya karar verdiler.
+감산하다 (gamsanhada) | üretimi azaltmak | fiil | 판매가 부진해서 생산량을 감산했다. | Satışlar zayıf olduğu için üretim azaltıldı.
+제작하다 (jejakada) | üretmek, yapmak (eser, ürün) | fiil | 이 다큐멘터리는 삼 년에 걸쳐 제작되었다. | Bu belgesel üç yılda yapıldı.
+투입하다 (tuipada) | sevk etmek, koymak (kaynak, insan) | fiil | 회사는 새 프로젝트에 인력을 추가로 투입했다. | Şirket yeni projeye ek personel kaydırdı.
+공급하다 (gonggeupada) | tedarik etmek, sağlamak | fiil | 이 발전소는 도시 전체에 전기를 공급한다. | Bu santral bütün şehre elektrik sağlıyor.
+운반하다 (unbanhada) | taşımak (yük) | fiil | 무거운 짐은 기계로 운반한다. | Ağır yükler makineyle taşınıyor.
+비축하다 (bichukada) | stoklamak, yedekte tutmak | fiil | 정부는 비상시를 대비해 쌀을 비축하고 있다. | Hükümet olağanüstü durumlar için pirinç stokluyor.
+수출하다 (suchulhada) | ihraç etmek | fiil | 이 회사는 김치를 삼십 개국에 수출한다. | Bu şirket otuz ülkeye kimchi ihraç ediyor.
