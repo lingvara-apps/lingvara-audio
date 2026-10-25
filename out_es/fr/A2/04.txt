@@ -1,0 +1,111 @@
+# UNIT: Voyage | Avion, train, hôtel, excursion, documents
+## Vol et aéroport
+facturar | enregistrer | Debemos facturar las maletas ahora.
+la tarjeta de embarque | carte d'embarquement | Muestre su tarjeta de embarque en la puerta.
+el control de seguridad | contrôle de sécurité | El control de seguridad está muy concurrido hoy.
+la aduana | douane | Pasamos por la aduana sin problemas.
+el mostrador | guichet, comptoir | Pregunte en el mostrador de información.
+la compañía aérea | compagnie aérienne | Nuestra compañía aérea cambió la hora del vuelo.
+la puerta de embarque | porte d'embarquement | El vuelo sale desde la puerta de embarque tres.
+el asiento de ventanilla | place côté hublot | Prefiero un asiento de ventanilla para ver el paisaje.
+perder el vuelo | rater son vol | No quiero perder el vuelo de la mañana.
+la escala | escale | Tenemos una escala larga en Madrid.
+## Train et bus
+el andén de pasajeros | quai [de gare] | El tren rápido espera en el andén de pasajeros cinco.
+el revisor | contrôleur | El revisor pide los billetes a los pasajeros.
+la estación de autobuses | gare routière | La estación de autobuses queda lejos del centro.
+el vagon | wagon | Nuestro asiento está en el tercer vagon.
+perder el tren | rater le train | Corre o vamos a perder el tren.
+el carril | voie réservée, couloir | El autobús circula por su carril exclusivo.
+el trayecto | trajet | El trayecto en tren dura dos horas.
+el horario de salidas | grille des départs, horaire | Consulte el horario de salidas en la pantalla digital.
+el billete sencillo | billet aller simple | Compraré un billete sencillo para Valencia.
+la ventanilla de billetes | guichet de billetterie | Hay una cola larga en la ventanilla de billetes.
+## Hôtel et hébergement
+la llave magnética | clé magnétique | Aquí tiene la llave magnética de su habitación.
+la recepción | réception | Deje las llaves en la recepción antes de salir.
+la planta baja | rez-de-chaussée | Nuestra habitación está en la planta baja.
+el servicio de habitaciones | service d'étage, room service | Pedimos cena mediante el servicio de habitaciones.
+el albergue | auberge de jeunesse, auberge | Los jóvenes prefieren alojarse en un albergue barato.
+la estancia | séjour | Disfrutamos mucho nuestra estancia en el hotel.
+la propina al botones | pourboire au bagagiste | Di una pequeña propina al botones por las maletas.
+el balcón con vistas | balcon avec vue | Cenamos en el balcón con vistas al mar.
+el cambio de divisas | change de devises | El hotel ofrece servicio de cambio de divisas.
+la salida del hotel | départ de l'hôtel | La hora límite para la salida del hotel es las doce.
+## Excursions et découvertes
+la excursión guiada | excursion guidée | Contratamos una excursión guiada por la ciudad vieja.
+el folleto turístico | brochure touristique | Leí toda la información en el folleto turístico.
+el monumento histórico | monument historique | Visitamos un importante monumento histórico ayer.
+el plano de la ciudad | plan de ville | Un plano de la ciudad ayuda mucho a los viajeros.
+la catedral principal | cathédrale principale | La catedral principal impresiona por su tamaño.
+el barrio antiguo | vieille ville, quartier historique | Caminamos por las callejuelas del barrio antiguo.
+el mirador panorámico | belvédère panoramique | Desde el mirador panorámico se ve todo el valle.
+la oficina de información | office de tourisme | Preguntamos por los museos en la oficina de información.
+la zona peatonal | zone piétonne | Esta bonita calle pertenece a la zona peatonal.
+el recuerdo artesanal | souvenir artisanal | Compraré un bonito recuerdo artesanal para mi madre.
+## Documents et argent
+el documento de identidad | pièce d'identité | Lleve siempre su documento de identidad encima.
+el visado de entrada | visa d'entrée | Necesitamos tramitar el visado de entrada con tiempo.
+la tarjeta de crédito | carte de crédit | ¿Puedo pagar esta cuenta con tarjeta de crédito?
+el seguro médico | assurance maladie, assurance santé | Es obligatorio viajar con un seguro médico internacional.
+el cajero automático | distributeur automatique [de billets] | Necesito buscar un cajero automático cercano.
+la moneda local | monnaie locale | Es útil tener algo de moneda local en efectivo.
+el impreso oficial | formulaire officiel | Rellenamos un impreso oficial en la frontera.
+la fotocopia compulsada | photocopie certifiée conforme | Presenté una fotocopia compulsada del pasaporte.
+el carné de conducir | permis de conduire | Alquilamos un coche mostrando el carné de conducir.
+la factura detallada | facture détaillée | Pedí la factura detallada de todos los gastos.
+## Problèmes de voyage
+el retraso del vuelo | retard de vol | El retraso del vuelo nos obligó a esperar horas.
+la huelga de transportes | grève des transports | La huelga de transportes complicó nuestros planes.
+la pérdida de equipaje | perte de bagages | Reclamé la pérdida de equipaje en el mostrador especial.
+el billete caducado | billet périmé | No puedes viajar con un billete caducado.
+la cancelación imprevista | annulation imprévue | Hubo una cancelación imprevista debido al temporal.
+la avería técnica | panne technique | Una avería técnica detuvo el tren en la vía.
+la multa por exceso | amende pour excès de vitesse | Pagamos una multa por exceso de velocidad al conducir.
+el despiste con la hora | erreur d'horaire | Un despiste con la hora casi nos hace perder el barco.
+el robo de cartera | vol de portefeuille | Denuncié el robo de cartera en la comisaría local.
+el mal tiempo | intempéries, mauvais temps | El mal tiempo suspendió todas las salidas marítimas.
+## Location de voiture
+el coche de alquiler | voiture de location | Recogimos el coche de alquiler en el aeropuerto.
+el depósito de gasolina | réservoir d'essence | Llenamos el depósito de gasolina antes de devolverlo.
+la tarifa diaria | tarif journalier | La tarifa diaria incluye el seguro básico completo.
+el GPS integrado | GPS intégré | El coche nuevo cuenta con un GPS integrado muy útil.
+la sillita infantil | siège auto pour enfant | Pedimos una sillita infantil para nuestro hijo pequeño.
+el kilometraje ilimitado | kilométrage illimité | Elegimos la opción de kilometraje ilimitado.
+la franquicia del seguro | franchise d'assurance | Leímos las condiciones sobre la franquicia del seguro.
+el carné internacional | permis international | Presenté mi carné internacional para conducir fuera.
+la devolución tardía | restitution tardive | Cobran un recargo por la devolución tardía del vehículo.
+el parte de accidente | constat d'accident | Firmamos el parte de accidente tras el pequeño golpe.
+## Orientation et transports
+el cruce de caminos | carrefour | Giremos a la derecha en el siguiente cruce de caminos.
+la rotonda principal | rond-point principal | Tome la segunda salida en la rotonda principal.
+el puente colgante | pont suspendu | Cruzamos el río por un impresionante puente colgante.
+el túnel oscuro | tunnel sombre | El tren atravesó un túnel oscuro durante varios minutos.
+la señal de tráfico | panneau de signalisation | Conviene prestar atención a cada señal de tráfico.
+el carril bici | piste cyclable | Hay un carril bici seguro junto a la gran avenida.
+el peaje de la autopista | péage d'autoroute | Pagamos el peaje de la autopista con tarjeta.
+el desvío provisional | déviation provisoire | Las obras obligan a tomar un desvío provisional.
+la parada facultativa | arrêt facultatif | Este autobús solo para en la parada facultativa si avisas.
+el semáforo en rojo | feu rouge | Nos detuvimos al ver el semáforo en rojo.
+## Nature et camping
+la zona de acampada | aire de camping | Montamos nuestra zona de acampada cerca del río.
+el saco de dormir | sac de couchage | Por la noche refresca, usa un buen saco de dormir.
+la mochila de montaña | sac à dos de randonnée | Llevo agua y comida en mi mochila de montaña.
+la cantimplora | gourde | Llené la cantimplora con agua fresca de la fuente.
+la linterna frontal | lampe frontale | Necesitamos una linterna frontal para caminar de noche.
+la brújula magnética | boussole magnétique | Comprobamos la ruta correcta con la brújula magnética.
+el bastón de trekking | bâton de marche | El bastón de trekking ayuda en las subidas pronunciadas.
+la navaja multiusos | couteau suisse, couteau multifonction | Una navaja multiusos siempre resulta útil en el campo.
+el repelente de insectos | anti-moustiques, répulsif à insectes | Aplícate repelente de insectos antes de entrar al bosque.
+la estufa portátil | réchaud portable | Cocinamos algo caliente con la estufa portátil.
+## Souvenirs et récits de voyage
+el diario de viaje | carnet de voyage | Escribo mis impresiones diarias en el diario de viaje.
+la postal postal | carte postale | Compré una bonita postal para enviar a mis abuelos.
+la cámara réflex | appareil reflex | Saqué fotos preciosas con mi cámara réflex.
+el mapa desplegable | carte dépliante | Abrimos el mapa desplegable sobre la mesa del café.
+el vídeo casero | vidéo amateur, film de vacances | Grabamos un divertido vídeo casero durante el viaje.
+la anécdota divertida | anecdote amusante | Contó una anécdota divertida sobre el tren perdido.
+el sello en el pasaporte | tampon sur le passeport | Colecciono cada sello en el pasaporte como un trofeo.
+la sonrisa amable | sourire bienveillant | Una sonrisa amable abre muchas puertas al viajar.
+el momento inolvidable | moment inoubliable | Ver la puesta de sol fue un momento inolvidable.
+la costumbre local | coutume locale | Aprendí mucho sobre la costumbre local del pueblo.

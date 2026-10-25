@@ -1,0 +1,111 @@
+# UNIT: 旅行 | 飞机、火车、酒店、观光、证件
+## 航班与机场
+facturar | 托运 | 我们现在必须托运行李。
+la tarjeta de embarque | 登机牌 | 请在登机口出示您的登机牌。
+el control de seguridad | 安检 | 今天的安检处非常拥挤。
+la aduana | 海关 | 我们顺利地通过了海关。
+el mostrador | 柜台 | 请去问讯处柜台询问。
+la compañía aérea | 航空公司 | 我们的航空公司更改了航班时间。
+la puerta de embarque | 登机口 | 航班从3号登机口起飞。
+el asiento de ventanilla | 靠窗座位 | 我更喜欢靠窗的座位来欣赏风景。
+perder el vuelo | 错过航班 | 我不想错过早上的航班。
+la escala | 中转 | 我们在马德里有一场长时间的中转。
+## 火车与巴士出行
+el andén de pasajeros | 站台 | 快车正在5号站台等候。
+el revisor | 列车员 | 列车员向乘客查票。
+la estación de autobuses | 汽车站 | 汽车站离市中心很远。
+el vagon | 车厢 | 我们的座位在第三节车厢。
+perder el tren | 赶不上火车 | 快跑，否则我们要赶不上火车了。
+el carril | 车道 | 公共汽车在其专属车道上行驶。
+el trayecto | 行程 | 火车行程需要两个小时。
+el horario de salidas | 发车时刻表 | 请查看电子屏幕上的发车时刻表。
+el billete sencillo | 单程票 | 我要买一张去瓦伦西亚的单程票。
+la ventanilla de billetes | 售票处 | 售票处排着长队。
+## 酒店与住宿
+la llave magnética | 房卡 | 这是您房间的房卡。
+la recepción | 前台 | 出门前请把钥匙寄放在前台。
+la planta baja | 底层 | 我们的房间在底层。
+el servicio de habitaciones | 客房送餐服务 | 我们通过客房送餐服务点了晚餐。
+el albergue | 青旅 | 年轻人更喜欢住在便宜的青年旅舍里。
+la estancia | 住宿 | 我们非常享受在酒店的住宿。
+la propina al botones | 行李生小费 | 我为行李给了行李生一点小费。
+el balcón con vistas | 海景阳台 | 我们在海景阳台上吃晚饭。
+el cambio de divisas | 货币兑换 | 酒店提供货币兑换服务。
+la salida del hotel | 退房 | 酒店退房的最后时间是十二点。
+## 观光与探索
+la excursión guiada | 导游带领的观光游 | 我们安排了一场老城区的导游观光游。
+el folleto turístico | 旅游手册 | 我在旅游手册上读到了所有的信息。
+el monumento histórico | 历史古迹 | 我们昨天参观了一处重要的历史古迹。
+el plano de la ciudad | 城市地图 | 一张城市地图对旅行者非常有帮助。
+la catedral principal | 主大教堂 | 主大教堂的规模令人印象深刻。
+el barrio antiguo | 老城区 | 我们在老城区的狭窄小巷里散步。
+el mirador panorámico | 全景观景台 | 从全景观景台上可以看到整个山谷。
+la oficina de información | 问讯处 | 我们在问讯处询问了博物馆的情况。
+la zona peatonal | 步行街区 | 这条美丽的街道属于步行街区。
+el recuerdo artesanal | 手工纪念品 | 我给妈妈买了一件漂亮的手工纪念品。
+## 证件与金钱
+el documento de identidad | 身份证件 | 请随身携带您的身份证件。
+el visado de entrada | 入境签证 | 我们需要提前办理入境签证。
+la tarjeta de crédito | 信用卡 | 我可以用信用卡付这笔账吗？
+el seguro médico | 医疗保险 | 带着国际医疗保险出行是强制要求的。
+el cajero automático | 自动取款机 | 我需要找一个附近的自动取款机。
+la moneda local | 当地货币 | 备一些当地现金很有用。
+el impreso oficial | 官方表格 | 我们在边境填写了一份官方表格。
+la fotocopia compulsada | 公证复印件 | 我出示了护照的公证复印件。
+el carné de conducir | 驾照 | 我们出示驾照租了一辆车。
+la factura detallada | 详细账单 | 我索取了所有费用的详细账单。
+## 出行问题
+el retraso del vuelo | 航班延误 | 航班延误迫使我们等了几个小时。
+la huelga de transportes | 公共交通罢工 | 公共交通罢工打乱了我们的计划。
+la pérdida de equipaje | 行李丢失 | 我在专属柜台索赔丢失的行李。
+el billete caducado | 过期车票 | 你不能用一张过期车票旅行。
+la cancelación imprevista | 突发取消 | 由于暴风雨，出现了一次突发取消。
+la avería técnica | 技术故障 | 一次技术故障让火车在路上停了下来。
+la multa por exceso | 超速罚款 | 我们在开车时交了超速罚款。
+el despiste con la hora | 时间记错 | 记错时间差点让我们错过了轮船。
+el robo de cartera | 钱包失窃 | 我在当地派出所报案了钱包失窃。
+el mal tiempo | 恶劣天气 | 恶劣天气取消了所有的海上航行。
+## 租车
+el coche de alquiler | 租来的汽车 | 我们在机场取了租来的汽车。
+el depósito de gasolina | 油箱 | 我们在还车前加满了油箱。
+la tarifa diaria | 日租费 | 日租费包含完整的全险。
+el GPS integrado | 内置GPS | 新车配备了一个非常实用的内置GPS。
+la sillita infantil | 儿童安全座椅 | 我们为小儿子要了一个儿童安全座椅。
+el kilometraje ilimitado | 不限里程 | 我们选择了不限里程选项。
+la franquicia del seguro | 保险免赔额 | 我们阅读了关于保险免赔额的条款。
+el carné internacional | 国际驾照 | 我出示了我的国际驾照以便在国外开车。
+la devolución tardía | 延迟还车 | 他们对延迟还车收取附加费。
+el parte de accidente | 事故报告 | 小碰撞后我们签署了事故报告。
+## 方向与交通工具
+el cruce de caminos | 十字路口 | 我们在下一个十字路口向右转。
+la rotonda principal | 主环岛 | 在主环岛走第二个出口。
+el puente colgante | 悬索桥 | 我们穿过了一座令人赞叹的悬索桥。
+el túnel oscuro | 暗洞 | 火车穿过了一条黑漆漆的隧道好几分钟。
+la señal de tráfico | 交通标志 | 每一个交通标志都值得注意。
+el carril bici | 自行车道 | 大道旁有一条安全的自行车道。
+el peaje de la autopista | 高速公路收费站 | 我们用卡支付了高速公路通行费。
+el desvío provisional | 临时绕行路线 | 施工迫使我们走一条临时绕行路线。
+la parada facultativa | 叫停即停站点 | 如果你提前通知，这辆公交车只在叫停即停站点停车。
+el semáforo en rojo | 红灯 | 我们看到红灯就停了下来。
+## 自然远足与露营
+la zona de acampada | 露营区 | 我们在河附近搭建了露营区。
+el saco de dormir | 睡袋 | 夜晚变凉了，用一个好睡袋。
+la mochila de montaña | 登山包 | 我在登山包里带了水和食物。
+la cantimplora | 水壶 | 我用泉水把水壶灌满了清凉的水。
+la linterna frontal | 头灯 | 我们需要头灯来在夜间行走。
+la brújula magnética | 指南针 | 我们用指南针核对了正确的路线。
+el bastón de trekking | 登山杖 | 登山杖在陡坡时很有帮助。
+la navaja multiusos | 多功能折叠刀 | 多功能折叠刀在野外总是很有用。
+el repelente de insectos | 驱蚊水 | 进森林前喷点驱蚊水。
+la estufa portátil | 便携炉具 | 我们用便携炉具煮了热的东西。
+## 旅行回忆与故事
+el diario de viaje | 旅行日志 | 我在旅行日志中写下每天的感想。
+la postal postal | 明信片 | 我买了一张漂亮的明信片寄给爷爷奶奶。
+la cámara réflex | 单反相机 | 我用单反相机拍下了美丽的相片。
+el mapa desplegable | 折叠地图 | 我们把折叠地图摊在咖啡桌上。
+el vídeo casero | 家庭录像 | 我们在旅行中录制了一段有趣的家庭录像。
+la anécdota divertida | 有趣的轶事 | 他讲述了一段关于弄丢火车的有趣轶事。
+el sello en el pasaporte | 护照盖章 | 我像收集奖杯一样收集护照上的每一个盖章。
+la sonrisa amable | 亲切的微笑 | 亲切的微笑在旅行时能打开许多扇门。
+el momento inolvidable | 难忘的时刻 | 看日落是一个难忘的时刻。
+la costumbre local | 当地风俗 | 我学到了很多关于这个村庄的当地风俗。

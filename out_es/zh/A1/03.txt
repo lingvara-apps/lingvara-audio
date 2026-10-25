@@ -1,0 +1,111 @@
+# UNIT: 数字与时间 | 数字、时间、星期、月份
+## 11-20 数字
+once | 十一 | 我十一岁了。
+doce | 十二 | 我买十二朵玫瑰。
+trece | 十三 | 这里有十三个人。
+catorce | 十四 | 这本书有十四章。
+quince | 十五 | 现在是十五点。
+dieciséis | 十六 | 这个孩子十六岁。
+diecisiete | 十七 | 我需要十七分钟。
+dieciocho | 十八 | 我看到十八只鸟。
+diecinueve | 十九 | 我写十九个单词。
+veinte | 二十 | 我们买二十本书。
+## 整十数
+treinta | 三十 | 我一个月工作三十天。
+cuarenta | 四十 | 这趟旅程持续四十小时。
+cincuenta | 五十 | 价格是五十欧元。
+sesenta | 六十 | 一个小时有六十分钟。
+setenta | 七十 | 我爷爷七十岁。
+ochenta | 八十 | 这辆车时速达到八十公里。
+noventa | 九十 | 我读了九十页。
+cien | 一百 | 一百名学生在读这本书。
+doscientos | 两百 | 有两百位客人。
+mil | 一千 | 这座城市有一千栋建筑。
+## 星期
+lunes | 星期一 | 我星期一开始工作。
+martes | 星期二 | 我们星期二打网球。
+miércoles | 星期三 | 我星期三有个约会。
+jueves | 星期四 | 我星期四读一本书。
+viernes | 星期五 | 我们在周五晚上休息。
+sábado | 星期六 | 我星期六去集市。
+domingo | 星期日 | 我们星期天一起做饭。
+el fin de semana | 周末 | 我们在家里过周末。
+hoy | 今天 | 今天是个美好的日子。
+mañana | 明天 | 明天我们去另一座城市旅行。
+## 月份（春夏）
+enero | 一月 | 一月是个寒冷的月份。
+febrero | 二月 | 二月有二十八天。
+marzo | 三月 | 三月份鲜花盛开。
+abril | 四月 | 四月雨水很多。
+mayo | 五月 | 我们在五月参观公园。
+junio | 六月 | 六月带来了夏天。
+julio | 七月 | 我们在七月去海里游泳。
+agosto | 八月 | 八月是一个非常热的月份。
+septiembre | 九月 | 课程在九月开始。
+octubre | 十月 | 十月树叶飘落。
+## 月份（秋冬）
+noviembre | 十一月 | 十一月带来了灰色的云彩。
+diciembre | 十二月 | 十二月是最后一个月。
+el año | 年 | 一年有十二个月。
+el mes | 月 | 每个月有四周。
+la semana | 周，星期 | 我上周旅行了很多。
+el día | 天，日子 | 我每天都在学习新东西。
+el minuto | 分钟 | 一分钟有六十秒。
+el segundo | 秒 | 我们欢快地数着每一秒。
+el momento | 时刻，瞬间 | 这个时刻令人难忘。
+el periodo | 时期，阶段 | 这个时期非常重要。
+## 时间概念
+temprano | 早 | 我早上起得很早。
+tarde | 晚 | 我们到达约会地点时迟到了。
+siempre | 总是 | 她总是帮助她的朋友。
+nunca | 从不 | 我出行从不不带护照。
+a veces | 有时 | 我们有时在餐馆吃饭。
+enseguida | 马上，立刻 | 我马上回复你的消息。
+ayer | 昨天 | 我昨天参观了一个古老的博物馆。
+anoche | 昨晚 | 我昨晚读了一本有趣的书。
+pasado mañana | 后天 | 我们后天出发旅行。
+anteayer | 前天 | 我前天买了一份特别的礼物。
+## 时间（询问与基础）
+¿qué hora es? | 几点了 | 打扰一下，请问几点了？
+es la una | 一点 | 现在正好一点。
+son las dos | 两点 | 现在是下午两点。
+en punto | 整（点） | 火车将在三点整出发。
+y cuarto | 一刻（过） | 现在是四点一刻。
+y media | 半（过） | 现在是五点半。
+menos cuarto | 差一刻 | 现在是差一刻六点。
+de la mañana | 上午（时间） | 现在是上午八点。
+de la tarde | 下午（时间） | 现在是下午五点。
+de la noche | 晚上（时间） | 现在是晚上九点。
+## 频率与时间副词
+frecuentemente | 经常 | 我经常读西班牙语书。
+raramente | 罕见，极少 | 我很少看恐怖电影。
+normalmente | 通常 | 我们通常早餐吃面包配咖啡。
+generalmente | 一般来说 | 我通常在公园散步。
+brevemente | 简短地 | 请简要解释这条规则。
+constantemente | 不断地 | 这里的风一直在吹。
+actualmente | 目前，当前 | 我目前在马德里工作。
+finalmente | 终于 | 我们终于找到了正确的路。
+velozmente | 飞快地 | 这辆车从这里飞驰而过。
+recientemente | 最近 | 我最近买了一辆新车。
+## 季节
+el curso | 课程，进程 | 学术课程今天开始。
+la primavera | 春天 | 春天大自然苏醒了。
+el verano | 夏天 | 夏天非常炎热。
+el otoño | 秋天 | 秋天的树叶是黄色的。
+el invierno | 冬天 | 冬天会落下白色的雪。
+el clima | 气候 | 这个地区的气候很温和。
+el tiempo | 天气 | 今天的天气非常好。
+el calor | 热，炎热 | 太阳的热力很强。
+el frío | 冷，寒冷 | 我在冬天觉得很冷。
+el aguacero | 暴雨 | 一场大暴雨降落在城市上空。
+## 日期与日历
+la fecha | 日期 | 把日期写在纸上。
+el calendario | 日历 | 我看着墙上的日历。
+la cita | 约会 | 我今天有一个重要的约会。
+el plazo | 期限 | 期限明天到期。
+la época | 时代，时期 | 一年中的这个时期很美。
+el siglo | 世纪 | 我们生活在二十一世纪。
+la década | 十年（年代） | 那是一个非常有趣的十年。
+el cumpleaños | 生日 | 今天是我快乐的生日。
+la fiesta | 派对，节日 | 派对八点开始。
+el aniversario | 周年纪念日 | 我们今天庆祝结婚纪念日。

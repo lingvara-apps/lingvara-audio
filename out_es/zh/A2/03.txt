@@ -1,0 +1,111 @@
+# UNIT: 健康 | 医生、症状、药房、急诊
+## 医院与预约
+la cita médica | 医疗预约，看病预约 | 我今天下午有一个医疗预约。
+el especialista | 专科医生，专家 | 专科医生会检查你的血液化验结果。
+la consulta | 诊所，咨询室 | 我们在医生的诊室里等候叫号。
+la tarjeta sanitaria | 医疗卡，社保卡 | 请在前台出示您的医疗卡。
+el centro de salud | 卫生中心，社区医院 | 卫生中心营业到八点。
+urgencias | 急诊室 | 他们迅速把伤员送到了急诊室。
+la ambulancia | 救护车 | 救护车的警笛声在林荫大道上响起。
+el enfermero | 男护士 | 男护士平静地给我测量了血压。
+la enfermera | 女护士 | 女护士小心翼翼地给伤口消毒。
+el paciente | 病人，患者 | 病人正在十号房间休息。
+## 身体与疼痛
+la garganta | 喉咙，嗓子 | 我喝水时喉咙痛得很厉害。
+el pecho | 胸部，胸腔 | 他感到胸部有一种奇怪的压迫感。
+el abdomen | 腹部 | 他感到上腹部有一阵剧痛。
+la muela | 磨牙，大牙 | 这颗蛀掉的磨牙急需补牙。
+el hueso | 骨头 | 他从自行车上摔了下来，骨折了。
+la articulación | 关节 | 关节在冬天的寒冷中隐隐作痛。
+el músculo | 肌肉 | 充分拉伸可以预防肌肉拉伤。
+la sangre | 血液，血 | 献血是一项非常重要的守望相助行动。
+el síntoma | 症状 | 这个奇怪的症状持续多久了？
+la alergia | 过敏 | 她在春天饱受强烈的花粉过敏折磨。
+## 疾病与状况
+la gripe | 流感 | 他在雨季期间感染了流感。
+la carraspera | 嗓子发痒，轻微咳嗽 | 公开发言时，轻微的嗓子发痒让他感到困扰。
+la temperatura alta | 高烧，体温过高 | 这孩子发高烧了，需要休息。
+el mareo | 头晕，晕船 | 乘船旅行让他感到剧烈头晕。
+el vómito | 呕吐（症状） | 口服补液后，呕吐停止了。
+la diarrea | 腹泻 | 腹泻需要温和饮食和充足的水分补充。
+el insomnio | 失眠 | 工作压力导致他慢性失眠。
+la depresión | 抑郁症 | 寻求专业帮助可以逐渐战胜抑郁症。
+la ansiedad | 焦虑 | 深呼吸可以减少讲话前的焦虑。
+el contagio | 传染，感染 | 避免传染意味着要经常洗手。
+## 治疗与检查
+el diagnóstico | 诊断，确诊 | 医生清晰地告知了诊断结果。
+la radiografía | X光片，放射检查 | X光片显示桡骨有轻微裂纹。
+la inyección | 注射，打针 | 他害怕打针，但表现得很勇敢。
+el análisis | 化验，分析 | 实验室化验结果今天早上出来了。
+la operación | 手术 | 外科手术持续了四个多小时。
+la cura | 治疗，伤口护理 | 日常伤口护理可以防止感染。
+el vendaje | 绷带，包扎 | 理疗师调整了他脚踝上的绷带。
+la tirita | 创可贴 | 在手指的割伤上贴一个小创可贴。
+el yeso | 石膏固定 | 他将打着石膏度过整整六个星期。
+la rehabilitación | 理疗，康复治疗 | 他每周参加三次康复理疗。
+## 药房与药物
+el dispensario | 药房，诊所药房 | 值班药房整夜营业。
+la gragea | 药丸，糖衣片 | 每隔八小时用水服用一粒药丸。
+el jarabe | 糖浆 | 这种甜甜的糖浆能缓解持续咳嗽。
+la pomada | 药膏，软膏 | 将药膏轻轻涂抹在受刺激的皮肤区域。
+la vitamina | 维生素 | 服用维生素C可以增强自然免疫力。
+el antibiótico | 抗生素 | 抗生素必须凭医生处方购买。
+el analgésico | 止痛药 | 一片好的止痛药可以缓解头痛。
+la pastilla para dormir | 安眠药 | 避免在无人指导的情况下服用安眠药。
+el prospecto | 药品说明书 | 服用本药前请阅读说明书。
+la dosis | 剂量 | 严格遵守医生指定的剂量。
+## 急救与创伤
+el peligro | 危险 | 他们在公路上标出了危险区域。
+el rescate | 救援，搜救 | 救援队找到了迷路的远足者。
+el accidente | 事故，意外 | 一起小事故瘫痪了城市交通。
+el incendio | 火灾，森林大火 | 消防员及时扑灭了森林大火。
+la herida | 伤口，创伤 | 她用温肥皂水清洗了深可见骨的伤口。
+la quemadura | 烫伤，烧伤 | 他在手部烫伤处敷了冷水。
+el desmayo | 昏厥，晕倒 | 酷热导致广场上有人晕倒。
+la hemorragia | 出血，大出血 | 他们按压患处以止住鼻血。
+el veneno | 毒药，毒素 | 一些野外植物含有剧毒。
+el ahogamiento | 溺水 | 救生员迅速采取行动应对可能的溺水事故。
+## 牙科
+el dentista | 牙医 | 务必每六个月看一次牙医。
+la clínica dental | 牙科诊所 | 这家牙科诊所提供现代正畸服务。
+la caries | 牙龋齿，蛀牙 | 口腔卫生不良会导致深层蛀牙。
+la corona | 牙冠，牙套 | 他们在受损的磨牙上安装了保护性牙冠。
+la endodoncia | 根管治疗 | 根管治疗挽救了这颗牙齿，免于拔除。
+el empaste | 补牙，牙科充填 | 牙医进行了快速且无痛的补牙。
+la encía | 牙龈 | 使用牙线时牙龈有点出血。
+el aparato dental | 牙齿矫正器，牙套 | 他戴着金属牙套来矫正牙齿。
+la anestesia | 麻醉 | 局部麻醉可以避免任何牙科不适。
+la extracción | 拔牙 | 智齿拔除手术非常成功。
+## 健康生活
+el bienestar | 健康，福祉 | 情感平衡带来极大的每日身心健康。
+el reposo | 休息，静养 | 良好的夜间休息能恢复全部精力。
+la relajación | 放松，松弛 | 柔和的音乐有助于实现深度放松。
+la hidratación | 水分补充 | 正确的水分补充能提高身体机能。
+la vitalidad | 活力，生命力 | 早餐吃新鲜水果能恢复早晨的活力。
+el equilibrio | 平衡 | 维持身体平衡需要持续的练习。
+la longevidad | 长寿 | 地中海饮食有利于健康和长寿。
+la postura | 坐姿，站姿，体态 | 纠正坐姿可以预防腰痛。
+la inmunidad | 免疫力 | 每天睡八小时能增强整体免疫力。
+el hábito | 习惯 | 建立健康的习惯需要耐心和坚持。
+## 眼科
+el oftalmólogo | 眼科医生 | 眼科医生检查了我眼镜的度数。
+la vista | 视力，视野 | 胡萝卜提供滋养眼部视力的营养素。
+la miopía | 近视 | 近视使他无法看清远处的物体。
+el astigmatismo | 散光 | 诊断出他的右眼有轻微散光。
+la lente | 隐形眼镜，镜片 | 他更喜欢戴隐形眼镜做运动。
+la montura | 眼镜框 | 她选择了一款现代且轻便的钛合金镜框。
+la lágrima | 眼泪 | 听到消息后，一滴眼泪从她脸颊滑落。
+la pupila | 瞳孔 | 房间光线昏暗时，瞳孔会放大。
+la ceguera | 失明，盲症 | 先进的研究旨在预防儿童失明。
+el parpadeo | 眨眼 | 不断的眨眼可以保护眼睛免受干燥。
+## 医务人员及其他
+el especialista en nutrición | 营养师 | 营养师设计了一份均衡的菜单。
+el cirujano | 外科医生 | 主刀外科医生领导了这台复杂的手术。
+la comadrona | 接生员，助产士 | 助产士在分娩过程中一直陪伴着产妇。
+el psiquiatra | 精神科医生 | 精神科医生开具了适合该病例的治疗方案。
+el psicólogo | 心理学家，心理咨询师 | 与心理学家的面谈改善了他的情绪。
+el celador | 医院护工，勤杂工 | 护工把担架推向了放射科。
+el farmacéutico | 药剂师 | 药剂师解释了儿童糖浆的服用方法。
+la mutua | 私人医疗保险公司 | 您的私人医保涵盖私人医生的门诊费用。
+la prevencion | 预防 | 及早预防可以避免未来出现严重疾病。
+la convalecencia | 恢复期，休养期 | 在康复期间，他更喜欢阅读轻松的小说。

@@ -1,0 +1,111 @@
+# UNIT: 服务与购物 | 银行、快递、美发、服装
+## 银行银行业务
+depositar | 存款 | 我想在我的账户里存钱。
+transferir | 转账 | 我可以通过互联网转账。
+firmar | 签署 | 您必须在这条白线处签字。
+el documento | 文件 | 我需要这份已签署的官方文件。
+la cuenta bancaria | 银行账户 | 开立银行账户只需要很短的时间。
+la moneda | 货币 | 这个国家的货币是什么？
+el cajero | 出纳员 | 出纳员把点好的钱交给了我。
+el formulario | 表格 | 请用您的信息填写这份表格。
+la firma | 签名 | 在这里您的签名是必须的。
+el banco central | 中央银行 | 中央银行调控国民经济。
+## 邮政与快递
+el paquete postal | 邮政包裹 | 这个邮政包裹重两公斤。
+el sobre | 信封 | 我把信装进了白色的信封里。
+el remitente | 寄件人 | 请在上方写上寄件人。
+el cartero | 邮递员 | 邮递员今天早上送来了一些信件。
+entregar | 交付 | 他们明天会把包裹送达。
+la carta certificada | 挂号信 | 我带着回执寄出了这封挂号信。
+la dirección | 地址 | 请在包裹上写上正确的地址。
+pesar | 称重 | 我们要在秤上给这个箱子称重。
+el código postal | 邮政编码 | 你所在街区的邮政编码是什么？
+la oficina postal | 邮局 | 邮局五点钟关门。
+## 美发与护理
+cortar el pelo | 剪头发 | 我想把头发剪短一点。
+teñir | 染发 | 我更喜欢把头发染成棕色。
+el champú nutritivo | 营养洗发水 | 这款营养洗发水能强韧发丝。
+las tijeras | 剪刀 | 理发师使用的是非常锋利的剪刀。
+el secador de pelo | 电吹风 | 把电吹风插到浴室的插座上。
+el corte | 发型 | 我非常喜欢这个新发型。
+el tinte | 染发剂 | 天然染发剂不会伤害头发。
+peinar | 梳理头发 | 出门前你应该梳理一下头发。
+el espejo grande | 大镜子 | 那面大镜子挂在墙上。
+la cita previa | 预约 | 我明天需要一个提前预约的号。
+## 服装与时尚
+probarse ropa | 试穿衣服 | 我想在试衣间试穿衣服。
+la chaqueta de cuero | 皮夹克 | 他买了一件黑色的皮夹克。
+el abrigo de lana | 羊毛大衣 | 这件羊毛大衣非常保暖。
+la camisa de algodón | 棉质衬衫 | 我更喜欢凉爽的棉质衬衫。
+los pantalones cortos | 短裤 | 夏天我穿舒适的短裤。
+el vestido largo | 长裙 | 她穿着一条蓝色长裙。
+la falda corta | 短裙 | 这条短裙非常现代。
+el sombrero de paja | 草帽 | 我在阳光下戴着草帽。
+las botas de invierno | 冬靴 | 我的冬靴是防水的。
+la bufanda de lana | 羊毛围巾 | 用羊毛围巾保护好你的脖子。
+## 裁缝与修理
+arreglar | 修改 | 裁缝要帮我改裤子。
+encoger | 缩水 | 这件衬衫用热水洗可能会缩水。
+alargar | 放长 | 您能把这件夹克的袖子放长吗？
+cortar las mangas | 剪短袖子 | 我要把这件衬衫的袖子剪短。
+coser un botón | 缝纽扣 | 我需要在大衣上缝一颗纽扣。
+la aguja | 针 | 这块织物请用细针。
+el hilo fuerte | 结实的线 | 这种结实的线不容易断。
+el sastre | 男裁缝 | 这位男裁缝工作非常一丝不苟。
+la modista | 女裁缝 | 这位女裁缝设计了一件美丽的连衣裙。
+el remiendo | 补丁 | 他在裤子上打了一个看不见的补丁。
+## 清洁服务
+lavar en seco | 干洗 | 我更喜欢干洗这套优雅的西装。
+planchar la ropa | 熨烫衣服 | 收起衣服前你必须先熨烫。
+la tintorería | 干洗店 | 我把大衣留在了本地的干洗店。
+la mancha | 污渍 | 这个咖啡渍不容易洗掉。
+limpiar a fondo | 彻底清洁 | 我们要对整栋房子进行彻底清洁。
+el detergente | 洗衣液 | 这款洗衣液能保护深色衣物。
+el suavizante | 柔顺剂 | 加入柔顺剂让衣服闻起来更香。
+la tabla de planzar | 熨衣板 | 把熨衣板在客厅搭起来。
+el tendedero | 晾衣架 | 我把湿衣服挂在了晾衣架上。
+la colada | 洗涤衣物 | 今天轮到彻底洗一大堆衣服了。
+## 电子产品修理
+reparar el teléfono | 修理手机 | 他们可以在一小时内修好手机。
+la pantalla táctil | 触摸屏 | 触摸屏今天反应不太灵敏。
+la batería recargable | 充电电池 | 这种充电电池可以使用很长时间。
+el cargador rápido | 快充充电器 | 我把快充充电器忘在家里了。
+el técnico | 技术员 | 技术员检查了那台笔记本电脑。
+la pieza de repuesto | 备件 | 我们在寻找原厂备件。
+el circuito | 电路 | 电路受到了损坏。
+reiniciar | 重启 | 尝试现在重新启动设备。
+la garantía | 保修 | 该产品享有两年保修。
+el engranaj | 齿轮 | 这个机械装置需要一个新齿轮。
+## 光学与眼镜
+graduar la vista | 验光 | 我要到眼镜店去验光。
+las gafas de sol | 太阳镜 | 我戴着太阳镜来防强光。
+la montura ligera | 轻质镜框 | 我选择了一款轻便舒适的镜框。
+la lente de contacto | 隐形眼镜 | 我更喜欢戴隐形眼镜做运动。
+el estuche | 眼镜盒 | 把你的眼镜放在硬质眼镜盒里。
+la graduación | 度数 | 我今年的视力度数变了。
+el cristal antirreflejante | 防反光镜片 | 我买的是带有防反光镀膜的镜片。
+limpiar los cristales | 擦拭镜片 | 用软布擦拭镜片。
+el oculista | 眼科医生 | 眼科医生平静地检查了我的眼睛。
+la agudeza visual | 视敏度 | 您今天的视力非常棒。
+## 酒店与住宿服务
+hacer el check-in | 办理入住 | 我们要去前台办理入住手续。
+pedir la llave | 要钥匙 | 我要去索取我们房间的钥匙。
+el servicio de despertador | 叫醒服务 | 我预约了早上的叫醒服务。
+la propina generosa | 丰厚小费 | 他给行李员留了一笔丰厚的小费。
+la estancia agradable | 愉快的住宿 | 我们在酒店度过了一段愉快的住宿时光。
+la cama doble | 双人床 | 我们的房间有一张双人床。
+el folleto informativo | 信息手册 | 我阅读了关于这座城市的介绍手册。
+la salida anticipada | 提前退房 | 我们不能接受提前退房。
+la llave electrónica | 电子钥匙 | 使用这把电子钥匙开门。
+el conserje | 礼宾员 | 礼宾员帮我们搬了行李。
+## 紧急服务与修理
+llamar a la grúa | 叫拖车 | 因为抛锚我不得不叫拖车。
+el taller mecánico | 修车厂 | 车子停在修车厂里。
+la rueda pinchada | 爆胎 | 我在路上换了爆胎。
+el cerrajero | 开锁匠 | 因为把钥匙弄丢了，我叫了开锁匠。
+la fuga de agua | 漏水 | 厨房里有一个漏水点。
+el electricista | 电工 | 电工修好了坏掉的插座。
+romperse la tubería | 水管破裂 | 遇上冰冻天气水管可能会破裂。
+el servicio técnico | 技术服务部 | 我打了锅炉的技术服务电话。
+el auxilio | 救援 | 我们在暴风雨中央呼叫了救援。
+la herramienta adecuada | 合适的工具 | 我需要合适的工具来修理。

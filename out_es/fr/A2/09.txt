@@ -1,0 +1,111 @@
+# UNIT: Services et achats | Banque, colis, coiffeur, vêtements
+## Opérations bancaires
+depositar | déposer | Quiero depositar dinero en mi cuenta.
+transferir | virer, transférer | Puedo transferir fondos por internet.
+firmar | signer | Debe firmar en esta línea blanca.
+el documento | document, pièce | Necesito este documento oficial firmado.
+la cuenta bancaria | compte bancaire | Abrir una cuenta bancaria toma poco tiempo.
+la moneda | monnaie, devise | ¿Cuál es la moneda de este país?
+el cajero | caissier, guichetier | El cajero me entregó el dinero contado.
+el formulario | formulaire | Rellene este formulario con sus datos.
+la firma | signature | Su firma es obligatoria aquí.
+el banco central | banque centrale | El banco central regula la economía nacional.
+## Poste et colis
+el paquete postal | colis postal | Este paquete postal pesa dos kilos.
+el sobre | enveloppe | Guardé la carta dentro del sobre blanco.
+el remitente | expéditeur | Anote el remitente en la parte superior.
+el cartero | facteur | El cartero trajo cartas esta mañana.
+entregar | livrer, distribuer | Van a entregar el paquete mañana.
+la carta certificada | lettre recommandée | Envié la carta certificada con acuse.
+la dirección | adresse | Escriba la dirección correcta en el paquete.
+pesar | peser | Vamos a pesar la caja en la báscula.
+el código postal | code postal | ¿Cuál es el código postal de tu barrio?
+la oficina postal | bureau de poste | La oficina postal cierra a las cinco.
+## Coiffeur et soins
+cortar el pelo | couper les cheveux | Quiero cortar el pelo un poco corto.
+teñir | teindre | Prefiero teñir mi cabello de castaño.
+el champú nutritivo | shampooing nourrissant | Este champú nutritivo fortalece el cabello.
+las tijeras | ciseaux | El barbero usa tijeras muy afiladas.
+el secador de pelo | sèche-cheveux | Enchufa el secador de pelo en el baño.
+el corte | coupe | Me gusta mucho este nuevo corte.
+el tinte | teinture, coloration | El tinte natural no daña el pelo.
+peinar | peigner | Debes peinar tu cabello antes de salir.
+el espejo grande | grand miroir | El espejo grande está en la pared.
+la cita previa | rendez-vous préalable | Necesito una cita previa para mañana.
+## Vêtements et mode
+probarse ropa | essayer des vêtements | Quiero probarse ropa en el probador.
+la chaqueta de cuero | veste en cuir | Compró una chaqueta de cuero negra.
+el abrigo de lana | manteau en laine | Este abrigo de lana abriga bastante.
+la camisa de algodón | chemise en coton | Prefiero la camisa de algodón fresco.
+los pantalones cortos | short, bermuda | En verano uso pantalones cortos cómodos.
+el vestido largo | robe longue | Ella lleva un vestido largo azul.
+la falda corta | jupe courte | Esta falda corta es muy moderna.
+el sombrero de paja | chapeau de paille | Llevo un sombrero de paja bajo el sol.
+las botas de invierno | bottes d'hiver | Mis botas de invierno son impermeables.
+la bufanda de lana | écharpe en laine | Protégete el cuello con la bufanda de lana.
+## Tailleur et retouches
+arreglar | retoucher, réparer | El sastre va a arreglar mi pantalón.
+encoger | rétrécir | Esta camisa puede encoger con agua caliente.
+alargar | allonger | ¿Puede alargar las mangas de esta chaqueta?
+cortar las mangas | raccourcir les manches | Voy a cortar las mangas de esta camisa.
+coser un botón | coudre un bouton | Necesito coser un botón en mi abrigo.
+la aguja | aiguille | Usa una aguja fina para este tejido.
+el hilo fuerte | fil résistant | Este hilo fuerte no se rompe fácil.
+el sastre | tailleur | El sastre trabaja con mucha precisión.
+la modista | couturière | La modista diseñó un vestido hermoso.
+el remiendo | raccommodage, pièce | Hizo un remiendo invisible en el pantalón.
+## Services de nettoyage
+lavar en seco | nettoyer à sec | Prefiero lavar en seco este traje elegante.
+planchar la ropa | repasser le linge | Debes planchar la ropa antes de guardarla.
+la tintorería | pressing, teinturerie | Dejé el abrigo en la tintorería local.
+la mancha | tache | Esta mancha de café no sale fácil.
+limpiar a fondo | nettoyer à fond | Vamos a limpiar a fondo toda la casa.
+el detergente | détergent, lessive | Este detergente cuida los colores oscuros.
+el suavizante | adoucissant | Añade suavizante para que huela bien.
+la tabla de planzar | table à repasser | Monta la tabla de planzar en el salón.
+el tendedero | étendoir | Colgué la ropa mojada en el tendedero.
+la colada | andouiller, lessive [ménage] | Hoy toca hacer la colada completa.
+## Réparation électronique
+reparar el teléfono | réparer le téléphone | Pueden reparar el teléfono en una hora.
+la pantalla táctil | écran tactile | La pantalla táctil no responde bien hoy.
+la batería recargable | batterie rechargeable | Esta batería recargable dura mucho tiempo.
+el cargador rápido | chargeur rapide | Olvidé mi cargador rápido en casa.
+el técnico | technicien | El técnico revisó el ordenador portátil.
+la pieza de repuesto | pièce de rechange | Buscamos una pieza de repuesto original.
+el circuito | circuit | El circuito eléctrico sufrió un daño.
+reiniciar | redémarrer | Intenta reiniciar el dispositivo ahora.
+la garantía | garantie | El producto tiene dos años de garantía.
+el engranaj | engrenage | El mecanismo necesita un engranaj nuevo.
+## Optique et lunettes
+graduar la vista | faire un examen de vue | Voy a graduar la vista en la óptica.
+las gafas de sol | lunettes de soleil | Llevo gafas de sol contra el brillo.
+la montura ligera | monture légère | Elegí una montura ligera y cómoda.
+la lente de contacto | lentille de contact | Prefiero usar lente de contacto para hacer deporte.
+el estuche | étui à lunettes | Guarda tus gafas en el estuche duro.
+la graduación | correction [optique] | Mi graduación ha cambiado este año.
+el cristal antirreflejante | verre antireflet | Compró cristales con capa antirreflejante.
+limpiar los cristales | nettoyer les verres | Usa un paño suave para limpiar los cristales.
+el oculista | ophtalmologue, oculiste | El oculista examinó mis ojos con calma.
+la agudeza visual | acuité visuelle | Su agudeza visual es excelente hoy.
+## Services hôteliers et hébergement
+hacer el check-in | s'enregistrer, faire le check-in | Vamos a hacer el check-in en recepción.
+pedir la llave | demander la clé | Voy a pedir la llave de nuestra habitación.
+el servicio de despertador | service de réveil | Solicité el servicio de despertador temprano.
+la propina generosa | pourboire généreux | Dejó una propina generosa al maletero.
+la estancia agradable | séjour agréable | Tuvimos una estancia agradable en el hotel.
+la cama doble | lit double | Nuestra habitación tiene una cama doble.
+el folleto informativo | brochure informative | Leí el folleto informativo sobre la ciudad.
+la salida anticipada | départ anticipé | No podemos aceptar una salida anticipada.
+la llave electrónica | clé électronique | Usa esta llave electrónica para abrir.
+el conserje | concierge, réceptionniste | El conserje nos ayudó con las maletas.
+## Services d'urgence et dépannage
+llamar a la grúa | appeler la dépanneuse | Tuve que llamar a la grúa por la avería.
+el taller mecánico | garage, atelier mécanique | El coche está en el taller mecánico.
+la rueda pinchada | pneu crevé | Cambié la rueda pinchada en la carretera.
+el cerrajero | serrurier | Llamé al cerrajero porque perdí la llave.
+la fuga de agua | fuite d'eau | Hay una fuga de agua en la cocina.
+el electricista | électricien | El electricista arregló el enchufe roto.
+romperse la tubería | tuyau qui éclate | Puede romperse la tubería con heladas.
+el servicio técnico | service technique | Llamé al servicio técnico de la caldera.
+el auxilio | secours, aide | Pedimos auxilio en medio de la tormenta.
+la herramienta adecuada | outil approprié | Necesito la herramienta adecuada para reparar.
