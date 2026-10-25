@@ -1,0 +1,111 @@
+# UNIT: Fan va texnologiya | Sunʼiy intellekt, biotexnologiya, energiya, raqamli jamiyat
+## Sunʼiy intellekt
+generative | generativ, yaratuvchi | Generativ vositalar endi qisqa taʼrifdan realistik tasvirlar yarata oladi.
+reinforcement learning | ragʻbatlantiruvchi oʻqitish | Ragʻbatlantiruvchi oʻqitish orqali dastur oʻz-oʻzidan shaxmat oʻynashni oʻrgandi.
+deep learning | chuqur oʻqitish | Chuqur oʻqitish soʻnggi oʻn yillikda nutqni tanish jarayonini tubdan oʻzgartirdi.
+training data | oʻquv maʼlumotlari | Agar oʻquv maʼlumotlari xolis boʻlmasa, modelning qarorlari ham xolis boʻlmaydi.
+language model | til modeli | Til modeli uzun hisobotni bir necha soniyada umumlashtira oladi.
+hallucination | gallusinatsiya (sunʼiy intellekt xatosi) | Har doim manbalarni tekshiring, chunki sunʼiy intellekt xatosi juda ishontirarli koʻrinishi mumkin.
+virtual assistant | virtual yordamchi | Virtual yordamchi yoʻqolgan bagaj haqidagi savollarning koʻpiga javob beradi.
+robotics | robototexnika | Lukas robototexnika va boshqaruv tizimlari boʻyicha magistrlik darajasini olmoqda.
+computer vision | kompyuter koʻrishi | Kompyuter koʻrishi mashinaga tunda piyodalarni aniqlash imkonini beradi.
+fine-tune | sozlamoq, nozik sozlash | Jamoa minglab tibbiy hisobotlar asosida modelni nozik sozlab chiqdi.
+## Veri va hisoblash
+big data | katta hajmli maʼlumotlar | Chakana sotuvchilar mijozlar keyingi safar nima sotib olishini bashorat qilish uchun katta hajmli maʼlumotlardan foydalanadi.
+cloud computing | bulutli hisoblash | Bulutli hisoblash kichik firmalarga server sotib olish oʻrniga hisoblash quvvatini ijaraga olish imkonini beradi.
+processing power | hisoblash quvvati | Bunday modelni oʻqitish ulkan miqdordagi hisoblash quvvatini talab qiladi.
+quantum computing | kvant hisoblashi | Kvant hisoblashi bir kun kelib bugungi shifrlash usullarini sindirishi mumkin.
+encryption | shifrlash | Uchdan uchgacha shifrlash faqat joʻnatuvchi va qabul qiluvchi xabarlarni oʻqiy olishini anglatadi.
+throughput | oʻtkazish qobiliyati | Yangi chiplar kompaniya serverlarining oʻtkazish qobiliyatini ikki baravar oshirdi.
+latency | kechikish vaqti | Past kechikish vaqti onlayn oʻyinlar va masofaviy jarrohlik uchun juda muhimdir.
+semiconductor | yarimoʻtkazgich | Yarimoʻtkazgichlarning global taqchilligi avtomobil ishlab chiqarishni oylar davomida kechiktirdi.
+data centre | maʼlumotlar markazi | Yangi maʼlumotlar markazi oʻz serverlarini sovutish uchun dengiz suvidan foydalanadi.
+computational | hisoblashga oid | Hisoblash modellari olimlarga virus qanday tarqalishini bashorat qilishga yordam berdi.
+## Biotexnologiya
+biotechnology | biotexnologiya | Biotexnologiya hozirda mintaqadagi eng tez rivojlanayotgan tarmoqlardan biridir.
+genome | genom | Olimlar bugʻdoy oʻsimligining butun genomini xaritada belgiladilar.
+gene editing | gen tahrirlash | Gen tahrirlash nima tabiiy ekanligi haqida murakkab savollarni keltirib chiqaradi.
+stem cell | oʻzak hujayra | Oʻzak hujayra tadqiqotlari orqa miya jarohati boʻlgan bemorlarga umid baxsh etadi.
+cloning | klonlash | Koʻpgina davlatlar odamlarni klonlashni taqiqlagan.
+transgenic | transgen | Transgen ekinlar Yevropaning ayrim qismlarida bahsli boʻlib qolmoqda.
+sequencing | ketma-ketlikni aniqlash | DNK ketma-ketligini aniqlash qiymati yigirma yil ichida keskin pasayib ketdi.
+enzyme | ferment | Ushbu ferment plastmassani olimlar kutganidan ancha tezroq parchalaydi.
+synthetic biology | sintetik biologiya | Sintetik biologiya yoqilgʻi ishlab chiqarishga qodir organizmlarni loyihalashni maqsad qilgan.
+gene therapy | gen terapiyasi | Gen terapiyasi sinovdagi bir nechta bemorning koʻrish qobiliyatini qisman tikladi.
+## Tibbiyot texnologiyasi
+biomarker | biomarker | Tadqiqotchilar kasallikdan yillar oldin ogohlantirishi mumkin boʻlgan biomarker topdilar.
+diagnostics | tashxis qoʻshish usullari | Tezroq tashxis qoʻshish usullari har yili minglab hayotni saqlab qolishi mumkin.
+bionic | bionik | Sportchi har bir qadamga moslashadigan bionik oyoq bilan yugurmoqda.
+prosthesis (prostheses) | protez | Yangi protez toʻgʻridan-toʻgʻri mushaklardan keladigan signallarga javob beradi.
+implant | implant | Kichkina implant bemorga qoʻlidagi qaltirashni nazorat qilishga yordam beradi.
+telemedicine | telemeditsina | Telemeditsina qishloq aholisiga yoʻlga chiqmasdan mutaxassislarga murojaat qilish imkonini beradi.
+nanotechnology | nanotexnologiya | Nanotexnologiya dori-darmonlarning bevosita saraton hujayralariga yetib borishini taʼminlashi mumkin.
+medical imaging | tibbiy vizualizatsiya | Tibbiy vizualizatsiyadagi yutuqlar koʻplab operatsiyalarni ancha kamroq invaziv qildi.
+precision medicine | aniq tibbiyot | Aniq tibbiyot davolashni har bir bemorning genetik profiliga moslashtiradi.
+clinical trial | klinik sinov | Vaktsina hozir oʻzining klinik sinovining yakuniy bosqichiga kirmoqda.
+## Energiya manbalari
+photovoltaic | fotovoltaik | Fotovoltaik panellar endi butun fabrikaning tomini qoplab olgan.
+solar farm | quyosh elektr stansiyasi | Eski koʻmir koni oʻrnida endi ulkan quyosh elektr stansiyasi joylashgan.
+power grid | elektr tarmogʻi | Elektr tarmogʻi toʻsatdan kelgan issiqlik toʻlqini bilan kurashishda qiynaldi.
+fission | yadro parchalanishi | Bugungi atom elektr stansiyalari yadro parchalanishi orqali energiya ishlab chiqaradi.
+fusion | yadro sintezi | Yadro sintezi deyarli cheksiz energiyani vaʼda qiladi, ammo u hali oʻnlab yillar uzoqda.
+hydrogen | vodorod | Shimoliy Yevropadagi baʼzi poezdlar allaqachon vodorodda ishlayapti.
+fuel cell | yonilgʻi xujayrasi | Avtobus faqat suv chiqaradigan yonilgʻi xujayrasi bilan harakatlanadi.
+energy storage | energiyani saqlash | Arzon energiyani saqlash qayta tiklanadigan energiya jumboqidagi yetishmayotgan qismdir.
+geothermal | geotermal | Islandiya oʻz uylarining koʻp qismini geotermal energiya bilan isitadi.
+tidal power | suv koʻtarilishi energiyasi | Tor qoʻltiq suv koʻtarilishi energiyasini ishlab chiqarish uchun ideal joy hisoblanadi.
+## Karbon va samaradorlik
+emissions trading | chiqindilar savdosi | Chiqindilar savdosi kompaniyalarga ifloslantirish uchun ruxsatnomalarni sotib olish va sotish imkonini beradi.
+decarbonise | ugleroddan xoli qilmoq | Ogʻir sanoat ugleroddan xoli qilish eng qiyin tarmoq hisoblanadi.
+carbon capture | uglerodni ushlab qolish | Uglerodni ushlab qolish texnologiyasi koʻpchilik elektr stansiyalari uchun hali ham juda qimmat.
+carbon offset | uglerod kompensatsiyasi | Diego uzoq masofaga uchgan har safar uglerod kompensatsiyasi kreditini sotib oladi.
+smart meter | aqlli hisoblagich | Aqlli hisoblagich har soatda qancha elektr energiyasidan foydalanganimizni aniq koʻrsatadi.
+retrofit | modernizatsiya qilmoq | Kengash eski kvartiralarni yaxshiroq izolyatsiya bilan modernizatsiya qilishni rejalashtirmoqda.
+electric vehicle | elektromobil | Oʻtgan yili mamlakatda elektromobillar savdosi ikki baravar oshdi.
+charging station | quvvatlash stansiyasi | Ikki shahar orasidagi avtomagistralda hali ham quvvatlash stansiyasi yoʻq.
+biofuel | bioyoqilgʻi | Tanqidchilar bioyoqilgʻi uchun ekinlar yetishtirish oziq-ovqat narxini oshiradi, deb taʼkidlamoqda.
+energy-efficient | tejamkor | Tejamkor jihozlar qimmatroq turadi, lekin uzoq muddatda pulni tejaydi.
+## Raqamli jamiyat
+smart city | aqlli shahar | Aqlli shaharda datchiklar svetoforlarni real vaqt rejimidagi trafigiga qarab sozlaydi.
+connectivity | ulanish imkoniyati | Qishloq joylarida ulanish imkoniyatining pastligi masofaviy ishlashni deyarli imkonsiz qiladi.
+e-government | elektron hukumat | Elektron hukumat xizmatlari tufayli Emre oʻn daqiqada haydovchilik guvohnomasini yangiladi.
+gig economy | frilanserlik iqtisodiyoti | Frilanserlik iqtisodiyotidagi koʻplab kuryerlarning pullik taʼtillari yoʻq.
+digital literacy | raqamli savodxonlik | Maktablar oʻqish va matematika bilan bir qatorda raqamli savodxonlikni ham oʻrgatishi kerak.
+attention economy | eʼtibor iqtisodiyoti | Eʼtibor iqtisodiyotida ilovalar kunimizning har bir daqiqasi uchun kurashadi.
+soundbite | iqtibos parchasi | Murakkab ilmiy topilmalar koʻpincha yangiliklarda bitta qisqa iqtibos parchasiga qisqartiriladi.
+content moderation | kontentni moderatsiya qilish | Yirik platformalarda kontentni moderatsiya qilish koʻpincha kam maosh oluvchi xodimlar tomonidan amalga oshiriladi.
+screen time | ekran vaqti | Shifokorlar yosh bolalar uchun ekran vaqtini cheklashni tavsiya qiladilar.
+digital footprint | raqamli iz | Internetda joylashtirgan har bir narsangiz doimiy raqamli izingizga qoʻshiladi.
+## Kiberxavfsizlik
+spyware | josuslik dasturi | Tergovchilar jurnalistning telefonida yashiringan josuslik dasturini topdilar.
+botnet | botnet tarmogʻi | Jinoyatchilar spam yuborish uchun virus yuqqan uy routerlaridan iborat botnet tarmogʻidan foydalandilar.
+denial-of-service attack | xizmat koʻrsatishni rad etish hujumi | Xizmat koʻrsatishni rad etish hujumi vazirlik veb-saytini bir necha soat davomida ishdan chiqardi.
+penetration testing | penetratsion test | Bank har yili penetratsion testlarni oʻtkazish uchun axloqiy xakerlarni yollaydi.
+zero-day | nol-kun (zaiflik) | Hujumchilar dasturchilar uning mavjudligini bilishidan oldin nol-kun zaifligidan foydalanishdi.
+biometric | biometrik | Barmoq izlari kabi biometrik tekshiruvlar endi chegara nazoratida keng tarqalgan.
+hacktivist | xaktivist | Bir guruh xaktivistlar norozilik sifatida kompaniya veb-saytini buzib kirishdi.
+end-to-end | oxirigacha (uchdan uchgacha) | Uchdan uchgacha himoya oʻrtadagi hech kim fayllaringizni oʻqiy olmasligini anglatadi.
+vulnerability | zaiflik | Muhandislar ilovadagi jiddiy zaiflikni tuzatish uchun yangilanishni chiqardilar.
+backdoor | orqa eshik (maxfiy kirish) | Mutaxassislar politsiya uchun moʻljallangan orqa eshikdan jinoyatchilar ham foydalanishi mumkinligidan ogohlantirdilar.
+## Kosmik texnologiya
+launch vehicle | eltuvchi raketa | Eltuvchi raketa bir yoʻla uchta ob-havo yoʻldoshini koinotga olib chiqdi.
+reusable | qayta foydalaniladigan | Qayta foydalaniladigan raketalar koinotga chiqish narxini keskin pasaytirdi.
+payload | foydali yuk | Raketaning foydali yukiga talabalar tomonidan yasalgan kichik teleskop ham kiritilgan edi.
+low Earth orbit | pastki Yer orbitasi | Minglab kichik sunʼiy yoʻldoshlar hozirda sayyora atrofida pastki Yer orbitasida aylanib yuribdi.
+space debris | koinot chiqindisi | Hatto koinot chiqindisining mittigina boʻlagi ham sunʼiy yoʻldoshga jiddiy zarar yetkazishi mumkin.
+propulsion | oʻtish tizimi | Muhandislar chuqur koinot missiyalari uchun elektr oʻtish tizimining yangi turini sinovdan oʻtkazmoqda.
+geostationary | geostatsionar | Geostatsionar sunʼiy yoʻldosh ekvatordagi bir xil nuqta ustida qoladi.
+space probe | koinot zondi | Koinot zondi Saturn halqalarining batafsil tasvirlarini orqaga yubordi.
+re-entry | qayta kirish | Kapsulaning issiqlik qalqoni atmosferaga qayta kirishning oʻta yuqori issiqligiga bardosh berishi kerak.
+microgravity | mikrogravitatsiya | Mikrogravitatsiyada oʻstirilgan oʻsimliklar kutilmagan yoʻnalishlarda ildiz otadi.
+## Innovatsiya va etika
+proof of concept | konsepsiya isboti | Kichkina sinov yangi batareya dizayni uchun konsepsiya isboti vazifasini bajardi.
+prototype | prototip | Muhandislar birinchi prototipni shamol tunelida sinovdan oʻtkazdilar.
+game-changer | tub burilish yasovchi | Arzon batareya olis qishloqlar uchun tub burilish yasovchi boʻlishi mumkin.
+cutting-edge | eng ilgʻor | Laboratoriya bir nechta mamlakatlardan keltirilgan eng ilgʻor mikroskoplar bilan jihozlangan.
+legacy system | eski tizim | Bank oʻz toʻlovlarini hamon saksoninchi yillardan qolgan eski tizim yordamida amalga oshirmoqda.
+early adopter | erta oʻzlashtiruvchi | Ilgʻor yangilikni erta oʻzlashtiruvchi sifatida Yuki garniturani savdoning birinchi kuniyoq sotib oldi.
+research and development | tadqiqot va ishlanmalar (R&D) | Firma oʻz daromadining besdan bir qismini tadqiqot va ishlanmalarga sarflaydi.
+dual-use | ikki xil maqsadli | Eksport nazorati ilgʻor dronlar kabi ikki xil maqsadli texnologiyalarga nisbatan qoʻllanadi.
+algorithmic bias | algoritmik xolisizlik | Mutaxassislar algoritmik xolisizlik adolatsiz ishga qabul qilish qarorlariga olib kelishi mumkinligidan ogohlantirmoqda.
+precautionary principle | ehtiyotkorlik prinsipi | Ehtiyotkorlik prinsipiga koʻra, yangi kimyoviy moddalar avval xavfsiz ekanligi isbotlanishi kerak.

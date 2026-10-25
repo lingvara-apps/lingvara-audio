@@ -1,0 +1,100 @@
+# UNIT: Tibbiyot | Mutaxassislar, jiddiy kasalliklar, davolash, jamoat salomatligi
+## Tibbiyot mutaxassislari
+cardiologist | kardiolog, yurak mutaxassisi | Koʻkrak qafasidagi ogʻriqlardan soʻng Umar kardiologga yoʻllanma oldi.
+paediatrician | bolalar shifokori, pediatr | Bizning bolalar shifokorimiz koʻrik paytida bolalarni doim kuldiradi.
+dermatologist | teri shifokori, dermatolog | Bu gʻalati holni teri shifokoriga koʻrsatishing kerak.
+neurologist | nevrolog | Nevrolog har qanday shikastlanishni tekshirish uchun skanerlashni buyurdi.
+anaesthetist | anesteziolog, narkoz mutaxassisi | Anesteziolog oʻsha kuni ertalab biror narsa yegan-yemaganimni soʻradi.
+radiologist | radiolog | Radiolog tasvirlarni bugun tushdan keyin koʻrib chiqadi.
+general practitioner | oilaviy shifokor, uchastka shifokori | Britaniyada odatda avval oilaviy shifokorga murojaat qilinadi.
+midwife (midwives) | akusherka, doya | Doya uzoq tun davomida Yukining yonida qoldi.
+oncologist | onkolog, saraton mutaxassisi | Onkolog davolash usullarini juda sabr bilan tushuntirib berdi.
+ophthalmologist | koʻz shifokori, oftalmolog | Koʻz shifokori Diegoga oʻqish uchun koʻzoynak kerakligini aytdi.
+## Kasalxonada
+inpatient | yotib davolanuvchi bemor | Kasalxona bir vaqtning oʻzida besh yuztagacha yotib davolanuvchi bemorlarni qabul qilishi mumkin.
+isolation ward | izolyator, alohida palata | Virus yuqtirgan bemorlar izolyatorga oʻtkazildi.
+bedside | bemor yotogʻi boshi | Qizi kechasi bilan uning yotogʻi boshida oʻtirdi.
+hospice | hospis, palliativ parvarish uyi | U oxirgi haftalarini dengiz boʻyidagi sokin hospisda oʻtkazdi.
+triage | triaj, saralash boʻlimi | Triajda hamshiralar kimga birinchi navbatda yordam kerakligini hal qiladi.
+ward round | vizit, vrachlar koʻrigi | Shifokorlar har bir bemorni ertalabki vizit paytida muhokama qiladilar.
+referral | yoʻllanma | Mutaxassis koʻrigiga borish uchun shifokoringizdan yoʻllanma olishingiz kerak.
+life support | sunʼiy nafas oldirish apparati, hayotni saqlab turish tizimi | Avtohalokatdan soʻng u bir hafta davomida sunʼiy nafas oldirish apparatiga ulangan holda saqlandi.
+on call | navbatchi, chaqiruvga tayyor | Doktor Sofia dam olish kunlari navbatchi, shuning uchun u hech qayerga keta olmaydi.
+critical condition | ogʻir ahvol, kritik holat | Haydovchi hali ham kasalxonada ogʻir ahvolda turibdi.
+## Jiddiy kasalliklar
+tumour | oʻsma, oqindi | Baxtga qarshi, oʻsma zararsiz boʻlib chiqdi.
+stroke | insult, falaj | Insultdan keyin Diegoning otasi qayta yurishni oʻrganishiga toʻgʻri keldi.
+dementia | demensiya, aqindan ozish | Bobosida demensiya bor va u tez-tez qizining ismini unutib qoʻyadi.
+malignant | xavfli oʻsma, zaharli | Tahlillar oʻsmaning xavfli emasligini koʻrsatdi.
+leukaemia | leykemiya, qon saratoni | Leykemiya bilan ogʻrigan koʻplab bolalar endi butunlay sogʻayib ketmoqda.
+epilepsy | tutqanoq, epilepsiya | Epilepsiya bilan ogʻrigan odamlar odatda dori-darmonlar yordamida normal hayot kechirishlari mumkin.
+arthritis | artrit, boʻgʻim yalligʻlanishi | Buvimning artriti sovuq va nam havoda kuchayadi.
+tuberculosis | sil kasalligi, sil | Sil bir paytlar eng koʻp uchraydigan oʻlim sabablaridan biri boʻlgan.
+pneumonia | zotiljam, pnevmoniya | Oddiy shamollash sifatida boshlangan narsa tez orada zotiljamga aylandi.
+kidney failure | buyrak yetishmovchiligi | Buyrak yetishmovchiligi boʻlgan bemorlarga koʻpincha muntazam dializ kerak boʻladi.
+## Belirtiler va tashhis
+biopsy (biopsies) | biopsiya | Shifokor jiddiy narsani istisno qilish uchun biopsiya oldi.
+blood pressure | qon bosimi, tansiyon | Juda koʻp tuz isteʼmol qilish qon bosimingizni oshirishi mumkin.
+prognosis (prognoses) | kasallikning borishi, prognoz | Yangi dori tufayli kasallikning borishi endi ancha yaxshi.
+misdiagnosis (misdiagnoses) | notoʻgʻri tashhis | Notoʻgʻri tashhis uning davolanishini bir necha oyga kechiktirdi.
+ultrasound | UTT, ultratovush tekshiruvi | Ultratovush tekshiruvi chaqaloq normal oʻsayotganini koʻrsatdi.
+blood sample | qon namunasi | Hamshiraning yordamchisi Anmaning qoʻlidan qon namunasi oldi.
+heart rate | yurak urish tezligi | Stress testi paytida uning yurak urish tezligi tezda oshdi.
+cholesterol | xolesterin | Qovurilgan ovqatlarni kamroq isteʼmol qilish xolesteriningizni tushirishga yordam beradi.
+asymptomatic | alomatlarsiz kechuvchi, simptomsiz | Virusni yuqtirgan koʻplab odamlarda hech qanday alomat kuzatilmaydi.
+blood count | qon tahlili, gemogramma | Qon koʻrsatkichlarining pastligi nima uchun oʻzingizni bunchalik charchagan his qilayotganingizni tushuntirib berishi mumkin.
+## Tedavi va ameliyat
+surgery (surgeries) | operatsiya, jarrohlik amaliyoti | U togʻ changʻisi halokatidan soʻng tizzasidan operatsiya qilinishi kerak.
+keyhole surgery | laparoskopik operatsiya, kichik kesmali jarrohlik | Laparoskopik operatsiya faqat bir nechta kichik iz qoldiradi.
+chemotherapy | kimyoterapiya | U kimyoterapiya paytida sochlarini yoʻqotdi, ammo ijobiy kayfiyatda qoldi.
+radiotherapy | nurlanish terapiyasi, radioterapiya | Operatsiyadan soʻng u olti hafta davomida nurlanish terapiyasini oldi.
+physiotherapy | fizioterapiya, davolash jismoniy tarbiyasi | Bir necha haftalik fizioterapiya unga qoʻlini qaytadan ishlatishga yordam berdi.
+transplant | organ koʻchirib oʻtkazish, transplantatsiya | Yillar davomida dializ olganidan soʻng, Umar nihoyat buyrak koʻchirib oʻtkazish amaliyotini boshidan kechirdi.
+incision | kesma, jarrohlik kesigicha | Zamonaviy usullar jarrohlarga ancha kichikroq kesma qilish imkonini beradi.
+amputate | kesib tashlash, amputatsiya qilish | Tezkor davolanish tufayli shifokorlar uning oyogʻini kesib tashlashga majbur boʻlishmadi.
+convalesce | sogʻayish, oʻziga kelish | Operatsiyadan soʻng u kuch yigʻish uchun qishloqqa ketdi.
+remission | remissiya, kasallikning chekinishi | Ikki yillik davolanishdan soʻng uning saratoni remissiya holatiga oʻtdi.
+## Dori-darmonlar
+prescribe | dori yozib bermoq, tayinlamoq | Shifokor toshma uchun kuchliroq malham yozib berdi.
+dosage | doza, isteʼmol miqdori | Bolalarga dori berishdan oldin dozani diqqat bilan tekshiring.
+capsule | kapsula | Har ovqatdan keyin bitta kapsulani suv bilan yutib yuboring.
+antihistamine | antigistamin dori, allergiya vaqtidagi dori | Mariya pichana isitmasi tufayli har bahorda allergiya vaqtidagi dorini qabul qiladi.
+syringe | shprits | Hamshira shpritsni toʻldirdi va uni yorugʻlikka tutib tekshirdi.
+insulin | insulin | Ali qon shakarini nazorat qilish uchun har ovqatdan oldin insulin yuboradi.
+sedative | tinchlantiruvchi dori, sedativ vosita | Bemorga muolajadan oldin yengil tinchlantiruvchi dori berildi.
+overdose | ortiqcha doza, meʼyordan ortiq dori ichish | Tasodifan qabul qilingan ortiqcha doza juda xavfli boʻlishi mumkin.
+allergic reaction | allergik reaksiya | U yangi dinga (doriga) nisbatan jiddiy allergik reaksiya koʻrsatdi.
+over-the-counter | retseptsiz sotiladigan | Retseptsiz sotiladigan koʻpgina shamollash dorilari faqat alomatlarni davolaydi.
+## Yuqumli kasalliklar
+airborne | havo orqali tarqaladigan | Virus havo orqali tarqaladi, shuning uchun niqob taqish yordam berishi mumkin.
+epidemic | epidemiya, yuqumli kasallik tarqalishi | Shahar oʻsha qishda jiddiy gripp epidemiyasiga duch keldi.
+pandemic | pandemiya, global yuqumli kasallik | Pandemiya millionlab odamlarning ishlash tarzini oʻzgartirib yubordi.
+outbreak | avj olish, tarqalib ketish | Sogʻliqni saqlash rasmiylari oziq-ovqatdan zaharlanish holati avj olganini tekshirmoqda.
+immune system | immunitet tizimi | Yaxshi uyqu immunitet tizimingizni baquvvat saqlashga yordam beradi.
+quarantine | karantin | Yoʻlovchilar ikki hafta davomida karantinda saqlandi.
+vaccinate | emlamoq, vaksina qilmoq | Koʻpgina bolalar erta yoshdayoq qizamiqqa qarshi emlanadi.
+transmit | yuqtirmoq, tarqatmoq | Kasallik ifloslangan suv orqali yuqadi.
+bacteria (bacterium) | bakteriyalar | Zararli bakteriyalardan xalos boʻlish uchun qoʻllaringizni yuving.
+incubation period | inkubatsiya davri, yashirin davr | Kasallikning inkubatsiya davri taxminan oʻn kunni tashkil qiladi.
+## Jarohatlar va favqulodda vaziyatlar
+fracture | sinish, suyak sinishi | Skanerlash uning bilagida sinish borligini koʻrsatdi.
+dislocate | chiqarib yubormoq (boʻgʻimni) | Emre regbi oʻynayotganda yelkasini chiqarib yubordi.
+swelling | shish, shishish | Shishishni kamaytirish uchun toʻpigʻingizga ozgina muz qoʻying.
+splint | shina (tibbiy), qotiruvchi moslama | Shifokor yigitning singan barmogʻiga shina qoʻydi.
+plaster cast | gips, gips bogʻlamasi | Kamil olti hafta davomida gipsda yurishga majbur boʻldi.
+concussion | miya shikastlanishi, miya qisilishi | Boshini urib olgandan soʻng, oʻyinchi miya shikastlanishiga tekshirildi.
+tourniquet | turnike, qon toʻxtatuvchi bogʻich | U qon ketishini toʻxtatish uchun kamarini turnike sifatida ishlatdi.
+resuscitate | hayotga qaytarmoq, jonlantirmoq | Tibbiy xodimlar suzuvchini sohilida hayotga qaytarishga muvaffaq boʻlishdi.
+life-saving | hayot saqlovchi, qutqaruvchi | Har bir maktabda defibrilator kabi hayot saqlovchi jihozlar boʻlishi kerak.
+emergency room | tez yordam boʻlimi, shoshilinch yordam xonasi | Biz tez yordam boʻlimida toʻrt soat kutdik.
+## Jamoat salomatligi
+public health | jamoat salomatligi | Toza ichimlik suvi jamoat salomatligi uchun muhim ahamiyatga ega.
+epidemiology | epidemiologiya | Epidemiologiya kasalliklar aholi orasida qanday tarqalishini oʻrganadi.
+mortality | oʻlim darajasi | Goʻdaklar oʻlimi koʻp mamlakatlarda keskin kamaydi.
+sedentary | kamharakat, oʻtirib ishlaydigan | Kamharakat turmush tarzi koʻplab kasalliklar xavfini oshiradi.
+screening | skrining, erta aniqlash testi | Elli yoshdan oshgan barcha fuqarolarga bepul saraton skriningi taklif etiladi.
+hygiene | gigiyena, tozalik | Oshxonadagi past gigiyena odamlarni kasal qilishi mumkin.
+sanitation | sanitariya, tozalik sharoitlari | Yaxshiroq sanitariya sharoitlari har qanday doridan koʻra koʻproq hayotlarni saqlab qoldi.
+preventive | oldini oluvchi, profilaktik | Profilaktik tibbiyot koʻpincha kasallikni davolashdan koʻra arzonroqqa tushadi.
+healthcare | tibbiy xizmatlar, sogʻliqni saqlash | Har bir inson arzon tibbiy xizmatlardan foydalanish imkoniyatiga ega boʻlishi kerak.
+well-being | farovonlik, sogʻlom turmush tarzi | Muntazam sayr qilish ham jismoniy, ham ruhiy farovonlik uchun foydalidir.

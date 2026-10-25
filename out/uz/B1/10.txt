@@ -1,0 +1,111 @@
+# UNIT: Texnologiya | Dasturiy taʼminot, xavfsizlik, sunʼiy intellekt, kosmos
+## Dasturiy taʼminot va apparat qism
+hardware | apparat taʼminoti, qattiq qism | Dastur yaxshi ishlayapti, lekin apparat taʼminotida muammo bor.
+operating system | operatsion tizim | Mening eski noutbukim eng soʻnggi operatsion tizimni ishga tushira olmayapti.
+plug-in | plagin, qoʻshimcha | Bu sahifada videolarni koʻrish uchun bepul plagin qoʻshishingiz kerak.
+patch | yamoq, tuzatish yangilanishi | Kompaniya kecha kechqurun oʻyin uchun xavfsizlik yamoigʻini chiqardi.
+user-friendly | foydalanuvchiga qulay | Yangi bron qilish tizimi eskiga qaraganda ancha foydalanuvchiga qulay.
+interface | interfeys | Buvim yangi telefonining sodda interfeysini yoqtiradi.
+open-source | ochiq kodli | Koʻpchilik universitetlar bepul boʻlgani uchun ochiq kodli dasturlardan foydalanadi.
+source code | boshlangʻich kod, manba kodi | Dasturchilar uni har kim yaxshilashi uchun manba kodini ulashdi.
+app store | ilovalar doʻkoni | Ilovalar doʻkonidan minglab til ilovalarini topishingiz mumkin.
+beta | beta-versiya, sinov versiyasi | Rasmiy taqdimotdan oldin faqat bir necha yuz foydalanuvchi beta-versiyani sinab koʻrishi mumkin.
+## Dasturlash
+code | kod | Umar butun onlayn doʻkon kodini bir oyda yozdi.
+developer | dasturchi, tuzuvchi | Anna kichik kompaniyada mobil ilova dasturchisi boʻlib ishlaydi.
+coder | kod yozuvchi, dasturchi | Diyego bepul videolarni koʻrib, oʻz-oʻzidan dasturchi boʻlishni oʻrgandi.
+programming language | dasturlash tili | Yangi boshlovchi birinchi boʻlib qaysi dasturlash tilini oʻrganishi kerak?
+debug | xatolarni tuzatish, disk raskadrovka qilish | Lukas dasturidagi xatolarni tuzatish uchun butun tushdan keyingi vaqtini sarfladi.
+syntax | sintaksis | Bitta qavsning yetishmasligi sintaksis xatosiga sabab boʻlish uchun yetarli.
+loop | sikl, takrorlanish | Dastur siklga tushib qoldi va hech qachon toʻxtamadi.
+database | maʼlumotlar bazasi | Barcha mijozlar buyurtmalari xavfsiz maʼlumotlar bazasida saqlanadi.
+server | server | Sayt soatlab ishlamay qoldi, chunki server ishlashdan toʻxtagandi.
+cloud storage | bulutli saqlash joyi | Telefonimni yoʻqotib qoʻysam deb, barcha suratlarimni bulutli saqlash joyida saqlayman.
+## Kiberxavfsizlik
+cybersecurity | kiberxavfsizlik | Banklar har yili kiberxavfsizlikka millionlab mablagʻ sarflaydi.
+malware | zararli dastur | Oʻsha faylni ochmang; u zararli dastur oʻz ichiga olgan boʻlishi mumkin.
+ransomware | shantaj qiluvchi zararli dastur, ransomvaredagi fayllar | Ransomware barcha fayllarni qulfladi va jinoyatchilar pul talab qildi.
+firewall | xavfsizlik devori | Kompaniyaning xavfsizlik devori koʻpchilik shubhali veb-saytlarni bloklaydi.
+encrypt | shifrlamoq | Ilova xabarlaringizni shifrlaydi, shuning uchun boshqa hech kim ularni oʻqiy olmaydi.
+phishing | pishing, firibgarlik yoʻli bilan maʼlumot oʻgʻirlash | Bank maʼlumotlaringizni soʻragan oʻsha xabar pishing urinishidir.
+two-factor authentication | ikki bosqichli autentifikatsiya | Hisobingizni ancha xavfsiz qilish uchun ikki bosqichli autentifikatsiyani yoqing.
+cyberattack | kiberhujum | Kiberhujum kasalxona kompyuter tizimini ikki kunga toʻxtatib qoʻydi.
+hack into | tizimga buzib kirmoq | Kecha kechqurun kimgadir elektron pochta hisobimga buzib kirishga urindi.
+data breach | maʼlumotlar sizib chiqishi, maʼlumotlar xavfsizligi buzilishi | Maʼlumotlar sizib chiqqandan soʻng, barcha foydalanuvchilardan parollarini oʻzgartirish soʻraldi.
+## Sunʼiy intellekt
+artificial intelligence | sunʼiy intellekt | Sunʼiy intellekt shifokorlarning kasalliklarga tashxis qoʻyish usulini oʻzgartirmoqda.
+robot | robot | Bu fabrikada ogʻir yuk koʻtarish ishlarining koʻpini robotlar bajaradi.
+machine learning | mashinali oʻqitish | Mashinali oʻqitish ilovaga qoʻl yozuvingizni tanib olishga yordam beradi.
+automate | avtomatlashtirmoq | Hisob-kitob jarayonini avtomatlashtirdik va bu bizga har hafta soatlab vaqt tejaydi.
+chatbot | chat-bot | Bankning chat-boti savolimga bir necha soniyada javob berdi.
+voice assistant | ovozli yordamchi | Ovqat pishirayotganda ovozli yordamchimdan taymer oʻrnatishni soʻrayman.
+predict | bashorat qilmoq | Dastur mijozlar keyingi safar qaysi mahsulotlarni sotib olishini bashorat qilishi mumkin.
+facial recognition | yuzni tanish | Baʼzi aeroportlar pasportlarni qoʻlda tekshirish oʻrniga yuzni tanish texnologiyasidan foydalanadi.
+neural network | neyron tarmoq | Neyron tarmoq millionlab misollarni koʻrish orqali oʻrganadi.
+generate | yaratmoq, hosil qilmoq | Bu vosita har qanday uzun maqolaning qisqacha mazmunini yaratishi mumkin.
+## Internet va tarmoq
+network | tarmoq | Ofisdagi barcha kompyuterlar bitta tarmoqqa ulangan.
+router | router, marshrutizator | Agar internet ishlashdan toʻxtasa, routerni oʻchirib yoqib koʻring.
+hotspot | ulanish nuqtasi, hot-spot | Poyezdda ishlash uchun telefonimdan tarqatish nuqtasi sifatida foydalandim.
+bandwidth | tarmoq oʻtkazish qobiliyati | Videongiroqlar koʻp internet tezligini talab qiladi, shuning uchun ulanish sekinlashadi.
+broadband | keng polosali internet | Baʼzi qishloq joylarida tezkor keng polosali internet hali ham mavjud emas.
+cache | kesh, vaqtinchalik xotira | Agar sahifa hali ham eski maʼlumotlarni koʻrsatayotgan boʻlsa, keshni tozalang.
+pop-up | ochiladigan oyna | Bu sahifaga har safar kirganimda zerikarli ochiladigan oynalar paydo boʻlaveradi.
+hyperlink | giperhavola, havola | Tasdiqlash uchun xatning pastki qismidagi havolani bosing.
+buffer | buferlash, yuklanib qolish | Ulanish juda sekin boʻlgani uchun kino uzluksiz buferlandi.
+backup | zaxira nusxa | Sozlamalarni oʻzgartirishdan oldin har doim ishingizning zaxira nusxasini yarating.
+## Qurilmalar
+battery life | batareya quvvati, akkumulyator ishlash muddati | Bu telefonning batareya quvvati taxminan ikki kun.
+wearable | taqib yuriladigan qurilma | Taqib yuriladigan qurilmalar uxlayotganingizda yurak urish tezligingizni kuzatib borishi mumkin.
+headset | garnitura, quloqchinli mikrofon | Shovqinni kamaytirish uchun onlayn darslarda iltimos quloqchinli mikrofondan foydalaning.
+sensor | datchik, sensor | Biri xonaga kirganda datchik chiroqlarni yoqadi.
+processor | protsessor | Yangi model tezroq protsessor va yaxshiroq kameraga ega.
+memory card | xotira kartasi | Fotosurat uchun kameramning xotira kartasi taʼtil suratlari bilan toʻla.
+smart speaker | aqlli kalonka | Oshxonadagi aqlli kalonkamizdan yangiliklarni qoʻyishni soʻraymiz.
+earbuds | simsiz quloqchin, kichik quloqchin | Yuki avtobusda har doim podkastlarni simsiz quloqchinlari orqali tinglaydi.
+stylus | stilus, planshet qalami | Rassomlar koʻpincha planshetlarda maxsus stilus yordamida chizishadi.
+trackpad | trekkpad, sensorli panel | Sichqonchadan foydalanishni afzal koʻraman, chunki trekkpad juda sezgir.
+## Kosmos
+astronaut | kosmonavt, astronavt | Kosmonavt kosmik stansiyada olti oy yashadi.
+spacecraft | kosmik kema | Kosmik kema Marsga taxminan yetti oyda yetib boradi.
+rocket | raketa | Minglab odamlar qirgʻoqdan raketaning osmonga koʻtarilishini kuzatishdi.
+satellite | sunʼiy yoʻldosh | Ob-havo sunʼiy yoʻldoshlari har soatda bizga bulutlarning yangi suratlarini yuboradi.
+planet | sayyora | Yupiter quyosh sistemasidagi eng katta sayyora hisoblanadi.
+space station | kosmik stansiya | Kosmik stansiyani baʼzan Yer yuzidan oʻz koʻzingiz bilan koʻrishingiz mumkin.
+lift-off | uchish, havodor koʻtarilish | Kuchli shamol tufayli uchish ikki soatga kechiktirildi.
+countdown | teskari sanash | Fikr-mulohazalardan oldin butun olomon teskari sanashga qoʻshildi.
+launch pad | uchirish maydonchasi | Raketa uchishdan oldin uch kun davomida uchirish maydonchasida turdi.
+mission control | parvozni boshqarish markazi | Parvozni boshqarish markazi bir necha daqiqa davomida kosmik kema bilan aloqani yoʻqotdi.
+## Kosmik tadqiqotlar
+universe | koinot, olam | Olimlar koinot taxminan oʻrtacha oʻn toʻrt milliard yoshda ekanligiga ishonishadi.
+solar system | quyosh tizimi | Quyosh tizimimizda sakkizta sayyora mavjud.
+mission | missiya, vazifa | Asteroiddan tosh yigʻish missiyasi katta muvaffaqiyat boʻldi.
+asteroid | asteroid | Kichik asteroid Yer va Oʻrtasidan xavfsiz tarzda oʻtdi.
+black hole | qora tuynuk | Hatto yorugʻlik ham qora tuynukdan qochib qutula olmaydi.
+spacewalk | ochiq kosmosga chiqish | Ikki kosmonavt olti soatlik ochiq kosmosga chiqish davomida quyosh panelini taʼmirladi.
+lunar | oyga oid, oy... | Oy yuzasi mayda kulrang chang bilan qoplangan.
+crater | krater | Ulkan krater millionlab yillar oldin qulagan tosh tomonidan hosil qilingan.
+rover | sayyora oʻrganuvchi apparat, rover | Rover yillardan beri Marsdan suratlar yuborib kelmoqda.
+exoplanet | ekzosayyora, oʻzga sayyora | Astronomlar suvga ega boʻlishi mumkin boʻlgan ekzosayyora kashf etishdi.
+## Texnologiya feʼllari
+innovate | yangilik kiritmoq, innovatsiya qilmoq | Kichik kompaniyalar koʻpincha kattalarga qaraganda tezroq yangilik kiritadi.
+revolutionise | tubdan oʻzgartirib yubormoq, inqilob qilmoq | Smartfonlar suratga olish va ulashish uslubimizni tubdan oʻzgartirib yubordi.
+troubleshoot | nosozlikni aniqlab tuzatmoq | Muhandis butun ertalab tarmoqdagi nosozlikni aniqlab tuzatish bilan shugʻullandi.
+configure | sozlamoq, moslamoq | Printerdan foydalanishdan oldin uni sozlashingiz kerak.
+access | kirmoq, foyalanmoq | Fayllaringizga internet ulangan istalgan kompyuterdan kirishingiz mumkin.
+sync | sinxronlamoq, moslashtirmoq | Telefonim taqvimimni noutbukim bilan avtomatik ravishda sinxronlaydi.
+reboot | qaytadan ishga tushirmoq | Agar kompyuter yana qotib qolsa, uni shunchaki qaytadan ishga tushiring.
+customise | shaxsiylashtirmoq | Ilovani oʻz ranglaringiz va tovushlaringiz bilan shaxsiylashtirishingiz mumkin.
+digitise | raqamlashtirmoq | Kutxona oʻzining barcha eski xaritalari va maktublarini raqamlashtirmoqda.
+malfunction | nosozlik yuz bermoq, buzilib qolmoq | Signalizatsiya nosozlik yuz berib kechaning oʻrtasida jiringlay boshladi.
+## Texnologiya va jamiyat
+state-of-the-art | eng zamonaviy, eng ilgʻor | Yangi shifoxona eng zamonaviy tibbiy jihozlar bilan toʻla.
+obsolete | eskiri ketgan, muomaladan chiqqan | Faks mashinalari koʻp idoralarda yillar oldin muomaladan chiqqan edi.
+virtual reality | virtual reallik | Virtual reallik yordamida talabalar qadimiy shaharlar boʻylab kezishlari mumkin.
+augmented reality | toʻldirilgan reallik | Bu ilova xonangizda mebellarni koʻrsatish uchun toʻldirilgan reallikdan foydalanadi.
+tech-savvy | texnologiyani yaxshi tushunadigan | Texnologiyani yaxshi tushunadigan jiyanimgina yangi telefonimni besh daqiqada sozlab berdi.
+surveillance | kuzatuv | Shaharning deyarli har bir burchagida kuzatuv kameralari oʻrnatilgan.
+internet of things | narsalar interneti | Narsalar interneti tufayli muzlatgichim oʻzi sut buyurtma qila oladi.
+smart home | aqlli uy | Aqlli uyda siz telefoningiz orqali isitish tizimini boshqara olasiz.
+digital detox | raqamli detoks | Kamil togʻlarda bir haftalik raqamli detoks qildi.
+deepfake | dipfeyk, soxta video | Dipfeyk shunchalik haqiqiy koʻrindi ekanki, koʻpchilik unga ishondi.

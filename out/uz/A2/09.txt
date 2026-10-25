@@ -1,0 +1,111 @@
+# UNIT: Xizmatlar va xaridlar | Bank, pochta, sartaroshxona, kiyim-kechak
+## Bankda
+bank account | bank hisobvarigʻi | Men bank hisobvarigʻini ochmoqchiman.
+cash machine | bankomat, ATM | Bu yer yaqinida bankomat bormi?
+withdraw (withdrew, withdrawn) | (pul) yechmoq | Menga ozgina pul yechish kerak.
+coin | tanga pul | Avtoturargoh uchun ozgina tanga pul kerak.
+loan | kredit, qarz | Ular uy sotib olish uchun kredit olishdi.
+balance | balans, hisobdagi qoldiq | Balansingizni onlayn tekshirishingiz mumkin.
+exchange rate | valyuta kursi | Bugungi valyuta kursi qanday?
+banknote | qogʻoz pul, banknot | Bankomat faqat yigirma yevrolik banknotlarni bermoqda.
+transfer | pul oʻtkazmoq | Bugun pulni oʻtkazib bera olasizmi?
+savings | jamgʻarma | U oʻz jamgʻarmalarini bankda saqlaydi.
+## Pochta va kurer
+parcel | posilka, paket | Bugun tongda senga posilka keldi.
+postcode | pochta indeksi | Pochta indexingiz qanday?
+envelope | konvert | Xatni konvertga soling.
+stamp | pochta markasi | Bu xatlar uchun menga ikkita marka kerak.
+deliver | yetkazib bermoq | Ular yarim tungacha pitsa yetkazib berishadi.
+delivery | yetkazib berish | Oʻttiz funtdan oshgan buyurtmalar uchun yetkazib berish bepul.
+courier | kurer | Kurer eshik oldida kutib turibdi.
+sender | joʻnatuvchi | Qutining ustida joʻnatuvchining ismi yoʻq.
+receive | qabul qilib olmoq, olmoq | Xatimni oldingizmi?
+track | kuzatib bormoq | Posilkangizni onlayn tarzda kuzatib borishingiz mumkin.
+## Sartaroshxonada
+hairdresser | sartarosh | Sartaroshim jingalak sochlar bilan ishlashda juda mohir.
+barber | erkaklar sartaroshi | Umar har ikki haftada erkaklar sartaroshiga boradi.
+haircut | soch kesimi | Menga soch oldirish kerak.
+fringe | qoshni toʻsib turuvchi soch, kokil | Iltimos, kokilimizni qisqaroq qilib bering.
+dye | (sochni) boʻyamoq | Sofiya sochlarini qizil rangga boʻyadi.
+shave | soqol olmoq, soqol qirtishlamoq | U har kuni soqol oladi.
+hairbrush | soch choʻtkasi | Mariya yangi soch choʻtkasi sotib oldi.
+trim | uchlarini tekislab kesmoq | Faqat uchlarini ozgina tekislab qoʻying, iltimos.
+blow-dry | fen yordamida quritib turmaklamoq | Sochimni fenlab bera olasizmi?
+hairstyle | soch turmagi | Mening yangi soch turmagim yoqdimi?
+## Xizmatlar
+dry cleaner's | kimyoviy tozalash shoxobchasi | Kostyumimni kimyoviy tozalash shoxobchasiga olib boraman.
+launderette | kir yuvish shoxobchasi | Burchakda kir yuvish shoxobchasi bor.
+locksmith | chilangar | Kalitlarimni yoʻqotib qoʻydim, shuning uchun chilangar chaqirdim.
+tailor | terzi | Terzi shimimni qisqartirdi.
+customer | mijoz | Doʻkonning doimiy mijozlari koʻp.
+opening hours | ish vaqti | Shanba kungi ish vaqti qanday?
+optician | optika doʻkoni, koʻzoynakchi | Menga yangi koʻzoynak kerak, shuning uchun optikaga boryapman.
+photocopy | fotokopiya nusxasi | Bu sahifaning fotokopisini olsam boʻladimi?
+florist | gul sotuvchi, gulchi | Umar gulchidan atirgullar sotib oldi.
+staff | xodimlar | Bu yerdagi xodimlar juda yordamsevar.
+## Aloqa va tariflar
+voicemail | ovozli pochta | Bugun ertalab sizning ovozli pochtangizga xabar qoldirdim.
+top up | hisobni toʻldirmoq | Telefonim balansini toʻldirishim kerak.
+signal | tarmoq signali, aloqa | Togʻlarda aloqa umuman ishlamaydi.
+data | mobil internet | Bu oy hech qanday mobil internetim qolmagan.
+bill | toʻlov hisobi | Bu oy telefon toʻlov hisobi juda baland chiqdi.
+monthly | oylik | Oylik toʻlov oʻn besh dollar.
+unlimited | cheksiz | Mening cheksiz qoʻngʻiroqlar va xabarlarim bor.
+roaming | rouming, chet eldagi aloqa | Sayohat qilganda roumingni oʻchirib qoʻying.
+tariff | tarif | Bu tarif talabalar uchun arzonroq.
+text | SMS yozmoq | Uyga borganingda menga SMS yoz.
+## Savdo markazida
+shopping centre | savdo markazi | Yangi savdo markazi dushanba kuni ochiladi.
+escalator | eskalator | Ikkinchi qavatga eskalator orqali chiqing.
+department store | univermag, yirik savdo majmuasi | Bu univermagdan hamma narsani topishingiz mumkin.
+changing room | kiyim almashtirish xonasi | Kiyim almashtirish xonalari qayerda?
+food court | ovqatlanish zonasi | Ovqatlanish zonasida uchrashaylik.
+bargain | arzon topilma, qulay narxli buyum | Bu kurtka haqiqiy arzon topilma boʻldi.
+shopping bag | xarid uchun paket | Umar uchta ogʻir xarid paketini koʻtarib kelyapti.
+car park | avtoturargoh | Avtoturargoh yana toʻla.
+window shopping | shunchaki vitrinalarni tomosha qilish | Shanba kuni shunchaki vitrinalarni tomosha qilgani bordik.
+trolley | xarid aravachasi | Xarid aravachasini olib kelaolasizmi, iltimos?
+## Toʻlovlar
+receipt | chek, kvitansiya | Iltimos, chekni saqlab qoʻying.
+change | qaytim puli | Mana sizning qaytim pulingiz.
+contactless | toʻgʻridan-toʻgʻri, kontaktsiz (karta orqali) | Kontaktsiz usulda toʻlay olamanmi?
+refund | pulni qaytarib berish | Bu poyabzallar uchun pulni qaytarib berishlarini istayman.
+instalment | boʻlib toʻlash (qismma-qism) | Divan pulini olti oyga boʻlib toʻladik.
+afford | qurbi yetmoq | Yangi mashina sotib olishga qurbim yetmaydi.
+owe | qarzdor boʻlmoq | Sizdan oʻn dollar qarzdorman.
+tip | choypuli, inʼom | Ofitsiantga choypuli tashlab ketdik.
+price tag | narx yorligʻi | Bu sumkada narx yorligʻi yoʻq.
+total | jami summa | Jami summa qirq besh funtni tashkil qiladi.
+## Kiyim-kechak 2
+blouse | bluzka | Mariya oq bluzka kiyib olgan.
+cardigan | kardigan, ayollar jemperi | Kardigan oling, kechqurunlari sovuq boʻladi.
+waistcoat | nimcha, kamzul | U toʻyga nimcha kiyib bordi.
+tracksuit | sport kiyimi, sport kostyumi | Uyda sport kiyimi kiyib yuraman.
+pyjamas | pijama | Bolalar allaqachon pijamalarini kiyib olishgan.
+swimsuit | choʻmilish kiyimi, mayo | Mayongizni unutmang!
+tights | ayollar kolgotkasi | Qish uchun qora kolgotka sotib oldi.
+trainers | krossovka, sport poyabzali | Bu krossovka poyabzallar juda qulay.
+sandals | sandal poyabzali | Yozda faqat sandal kiyib yuraman.
+slippers | uy shippagi | Shippaklaringizni kiyib oling, pol sovuq.
+## Matolar va naqshlar
+cotton | paxta matosi | Bu koʻylak paxta matosidan tikilgan.
+wool | jun | Jun jemper kishini issiq tutadi.
+silk | ipak | Unga sovgʻa sifatida ipak roʻmoli berishdi.
+leather | charm | Charm kurtka sotib olmoqchiman.
+denim | jinsi matosi | Jinsi kurtkalar modadan sira chiqmaydi.
+striped | yoʻl-yoʻl (chiziqli) | U koʻk chiziqli koʻylak kiyib olgan.
+checked | katak-katak | Katak-katak yubkangiz menga juda yoqdi.
+spotted | xol-xol (nuqtali) | Chaqaloqning xol-xol shaklidagi bosh kiyimi bor.
+plain | bir xil rangdagi, naqshsiz | Naqshsiz futbolkalarni afzal koʻraman.
+pattern | naqsh, gul | Bu koʻylakdagi naqsh juda chiroyli.
+## Doʻkondagi muloqot
+try on | kiyib koʻrmoq | Bu koʻylakni kiyib koʻrsam boʻladimi?
+baggy | keng bichimli, keng | U keng bichimdagi shimlar kiyishni yaxshi koʻradi.
+suit | yarashmoq | Bu rang senga rostdan ham yarashib turibdi.
+go with (went, gone) | mos kelmoq, uygʻunlashmoq | Bu kamar poyabzalimga mos keladimi?
+in stock | omborda mavjud | Bu model omborda bormi?
+out of stock | tugagan, omborda yoʻq | Kechirasiz, bu oʻlchamdagi kiyim qolmagan.
+just looking | shunchaki qarab chiqyapman | Yoʻq, rahmat, men shunchaki qarab chiqyapman.
+exchange | alishtirmoq | Bu koʻylakni kattaroq oʻlchamiga alishtirsam boʻladimi?
+loose | boʻsh, kenglik qilmoq | Bu shim juda boʻsh/kenglik qilmoqda.
+tight | tor | Poyabzal ozgina torlik qilyapti.

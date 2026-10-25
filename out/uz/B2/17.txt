@@ -1,0 +1,111 @@
+# UNIT: Transport va harakat | Yoʻl, haydash, transport, jamoat transporti
+## Yoʻllar
+motorway | avtomagistral, tezkor yoʻl | Tezkor yoʻlda yuk mashinasi yukini yoʻqotgach, yoʻl yopildi.
+dual carriageway | boʻlingan yoʻl | Bu boʻlingan yilda tezlik cheklovi soatiga yetmish mil.
+junction | chorraha | Keyingi chorrahadan chapga buriling va novvoyxona yoniga toʻxtang.
+roundabout | aylanma chorraha | Aylanma chorrahadan ikkinchi chiqishga kiring.
+lane | qator, boʻlak | Agar quvib oʻtmayotgan boʻlsangiz, chap boʻlakda qoling.
+hard shoulder | favqulodda toʻxtash yoʻlagi | Favqulodda toʻxtash yoʻlagida faqat favqulodda vaziyatda toʻxtang.
+bypass | aylanma yoʻl | Yangi aylanma yoʻl ogʻir yuk tranzitini shahar markazidan chetlab oʻtkazmoqda.
+slip road | ulash yoʻlagi | Avtomagistralga qoʻshilishdan oldin ulash yoʻlagida tezlikni oshiring.
+flyover | yoʻl oʻtkazgich | Chorrahadagi tirbandlikni kamaytirish uchun yangi yoʻl oʻtkazgich qurildi.
+toll | yoʻl haqi, toʻlov | Koʻprikdan oʻtish uchun ozgina yoʻl haqi toʻladik.
+## Haydash
+overtake (overtook, overtaken) | quvib oʻtish | Oldini koʻrib boʻlmaydigan burilishda aslo quvib oʻtmang.
+accelerate | tezlashish | Svetofor yashil rangga kirishi bilan mashina darhol tezlashdi.
+brake | tormozlash | Yoʻlga mushuk yugurib chiqqanda keskin tormozlashga toʻgʻri keldi.
+reverse | orqaga yurish | U tor garajdan sekin orqaga chiqdi.
+indicate | ishora berish | Boʻlakni oʻzgartirishdan oldin doimo ishora bering.
+swerve | burilib yuborish | Haydovchi yoʻldagi tulkini urib yubormaslik uchun rulni keskin burdi.
+skid | sirpanish | Kamyon muzlagan yoʻlda sirpanib ketib, toʻsiqqa urildi.
+merge | qoʻshilish | Tunneldan keyin ikkita boʻlak bittaga qoʻshiladi.
+tailgate | orqadagi mashinaga juda yaqin yurish | Ayniqsa yomgʻirli havoda oldingi mashinaga yopishib olish xavflidir.
+give way | yoʻl berish | Oʻngdan kelayotgan transportga yoʻl berishingiz shart.
+## Mashina qismlari
+windscreen | old oyna | Avtomagistralda kichkina tosh old oynani yoriq qilib qoʻydi.
+bonnet | kapot | Mexanik kapotni koʻtarib, motorni tekshirdi.
+boot | yukxona | Chamadonlarni yukxonaga qoʻying, iltimos.
+steering wheel | rul | Mashina haydash paytida ikkala qoʻlingizni ham runda tuting.
+dashboard | boshqaruv paneli | Toʻsatdan boshqaruv panelidagi qizil ogohlantirish chirogʻi yondi.
+bumper | bufer | Avtoturargohda kimdir orqa buferni tirnab ketibdi.
+exhaust | chiqindi quvuri | Eski avtobusning chiqindi quvuridan qora tutun chiqayotgan edi.
+tyre | shina | Uzoq safarga chiqishdan oldin shinalaringizni tekshiring.
+headlight | fara | Faralarimdan biri ishlamayapti.
+gearbox | tezliklar qutisi | Tezliklar qutisini taʼmirlash mashinaning oʻzidan qimmatga tushadi.
+## Harakat qoidalari
+speed limit | tezlik cheklovi | Maktablar yaqinida tezlik cheklovi soatiga yigirma mil.
+learner driver | oʻquvchi haydovchi | Oʻquvchi haydovchilar yonida tajribali haydovchi boʻlishi kerak.
+speeding ticket | tezlikni oshirgani uchun jarima | Emre aeroportga ketayotganda tezlik jarimasini oldi.
+drink-driving | mast holda mashina haydash | Mast holda mashina haydash jiddiy avariyalarning asosiy sabablaridan biridir.
+traffic warden | yoʻl nazoratchisi | Katta koʻchada yoʻl nazoratchisi mashinalarni tekshirib yurgan edi.
+number plate | davlat raqami | Kamera mashinaning raqamini yozib oldi.
+right of way | ustuvor yoʻl huquqi | Bu yerda avtobuslar bekatdan chiqayotganda ustuvor yoʻl huquqiga ega.
+pedestrian crossing | piyodalar oʻtish joyi | Oldinda piyodalar oʻtish joyini koʻrsangiz, sekinlashtiring.
+penalty points | jarima ballari | Oʻnta jarima bali olsangiz, guvohnomangizdan ayrilasiz.
+driving test | haydash imtihoni | Maria haydash imtihonidan uchinchi urinishda oʻtdi.
+## Harakat muammolari
+congestion | tirbandlik | Shahar markazidagi tirbandlik har yili yomonlashib bormoqda.
+gridlock | toʻliq falajlanish | Boʻron shahardan chiqish yoʻllarida toʻliq falajlanishni keltirib chiqardi.
+tailback | mashinalar navbati | Avariyadan keyin besh mil uzunlikdagi mashinalar navbati hosil boʻldi.
+roadworks | yoʻl taʼmirlash ishlari | Asosiy yoʻldagi taʼmirlash ishlari mart oyigacha davom etadi.
+diversion | aylanma yoʻnalish | Aylanma yoʻnalish uchun sariq belgilarga amal qiling.
+bottleneck | tirband boʻgʻiz | Eski koʻprik har kuni tongda transport uchun tirband boʻgʻizga aylanadi.
+collision | toʻqnashuv | Ikki velosipedchi yuk mashinasi bilan toʻqnashib jarohatlandi.
+pile-up | zanjirsimon avariya | Tuman yigirmata mashina qatnashgan ulkan zanjirsimon avariyaga sabab boʻldi.
+standstill | toʻliq toʻxtash | Stadion yaqinida transport harakati butunlay toʻxtab qoldi.
+road rage | yoʻl gʻazabi | Yoʻl gʻazabi koʻpincha boshqa haydovchining kichik xatosi bilan boshlanadi.
+## Jamoat transporti
+commuter | qatnovchi yoʻlovchi | Ertalabki poyezd doimo charchagan qatnovchi yoʻlovchilarga toʻla.
+fare | yoʻl haqi | Kelasi yili avtobus yoʻl haqi oʻn foizga oshadi.
+season ticket | mavsumiy chipta | Har kuni sayohat qilsangiz, mavsumiy chipta ancha arzon tushadi.
+ticket barrier | chipta turniketi | Peronga chiqish uchun chiptangizni turniketga kiriting.
+terminus | oxirgi bekat | Bu avtobus oxirgi bekatga yetib bormaguncha toʻxtamaydi.
+interchange | transport almashinish punkti | Stansiya avtobus va poyezdlar uchun muhim transport almashinish punktidir.
+shuttle | qatnovchi transport | Mehmonxona va aeroport oʻrtasida bepul qatnovchi transport ishlaydi.
+off-peak | tigʻiz boʻlmagan vaqt | Tigʻiz boʻlmagan vaqt chiptalari faqat toʻqqiz yarimdan keyin amal qiladi.
+overcrowded | haddan tashqari gavjum | Yozgi festival paytida poyezdlar haddan tashqari gavjum boʻladi.
+fare dodger | chipta olmagan yoʻlovchi | Nazoratchi kechki poyezdda uchta chipta olmagan yoʻlovchini ushladi.
+## Transport turlari
+lorry | yuk mashinasi | Yuk mashinasi tor koʻchani bir soat davomida toʻsib qoʻydi.
+moped | moped | Kamiy arzon tushgani uchun ishga mopedda boradi.
+hatchback | hetchbek | Kichkina hetchbek shaharda haydash uchun juda mos.
+convertible | ochiq osmonli mashina | Ular qizil ochiq osmonli mashinada qirgʻoq boʻylab haydab ketishdi.
+scooter | skuter | Koʻpgina talabalar shaharda elektr skuterlarda yurishadi.
+estate car | universal mashina | It va lager buyumlari uchun bizga universal mashina kerak.
+motorhome | uy-furgon | Lukas va Anna Shpotiya ni uy-furgonda sayohat qilib chiqdilar.
+tow truck | evakuator | Evakuatorning kelishi ikki soat vaqt oldi.
+hybrid | gibrid mashina | Yangi mashinamiz gibrid, shuning uchun u ancha kam yoqilgʻi sarflaydi.
+minicab | buyurtma taksi | Kech boʻlgan edi, shuning uchun uyga qaytish uchun buyurtma taksi chaqirdik.
+## Yoqilgʻi va nosozliklar
+petrol station | benzin quyish shoxobchasi | Bir finjon qahva uchun keyingi benzin quyish shoxobchasida toʻxtaylik.
+fill up | bakni toʻldirish | Shahardan chiqishdan oldin bakni toʻldirishni unutmang.
+unleaded | qoʻrgʻoshinsiz | Bu mashina faqat qoʻrgʻoshinsiz benzin oladi.
+diesel | dizel yoqilgʻisi | Bu mamlakatda dizel yoqilgʻisi ilgari benzindan arzonroq edi.
+breakdown | nosozlik | Qovjiragan choʻl oʻrtasida mashinamiz buzilib qoldi.
+puncture | shina teshilishi | Bugun tongda ishga ketayotib shinam teshildi.
+jump-start | akkumulyatorni ulab yurgizish | Mehribon qoʻshni mashinani ulab yurgizishga yordamlashdi.
+spare tyre | zaxira shina | Ketishdan oldin yukxonada zaxira shina borligiga ishonch hosil qiling.
+oil change | moy almashtirish | Mashina har oʻn ming milda moy almashtirishga muhtoj.
+mileage | yurgan masofa | Ikkinchi qoʻl mashinaning yurgan masofasi kam va narxi yaxshi edi.
+## Park va shahar ichi
+loading bay | yuk tushirish maydoni | Yetkazib berish mashinalari yuk tushirish maydonida yigirma daqiqa toʻxtashi mumkin.
+parking meter | parkofka hisoblagichi | Parkofka hisoblagichi faqat tangalarni qabul qiladi.
+clamp | gʻildirak qulfi | Notoʻgʻri joyga parkovka qilganim uchun mashinamga gʻildirak qulfi taqildi.
+tow away | evakuatsiya qilish | Bu yerda qoldirilgan mashinalar xarajatlari oʻzingizga yuklangan holda evakuatsiya qilinadi.
+kerb | yoʻl cheti | Yoʻl chetiga juda yaqin toʻxtamang, aks holda disklarni tirnaymiz.
+cycle lane | velosiped yoʻlagi | Shahar har bir asosiy yoʻlga yangi velosiped yoʻlaklarini chizdi.
+speed bump | sunʼiy toʻsiq | Maktab yoʻli boʻylab sunʼiy toʻsiqlar oʻrnatilgan.
+multi-storey | koʻp qavatli | Mashinani koʻp qavatli avtoturargohning beshinchi qavatiga qoldirdik.
+double yellow lines | ikki qatorli sariq chiziqlar | Ikki qatorli sariq chiziqlarga hech qachon mashina qoʻya olmaysiz.
+pedestrianized | piyodalar uchun qilingan | Eski shahar markazi oʻn yildan beri piyodalar uchun ajratilgan hududga aylantirilgan.
+## Transport va kelajak
+infrastructure | infratuzilma | Mamlakat temir yoʻl infratuzilmasiga katta sarmoya kiritmoqda.
+car-sharing | mashina almashish | Mashina almashish hamkasblarga uzoq qatnovlarda pul tejashga yordam beradi.
+congestion charge | tirbandlik uchun toʻlov | Haydovchilar markazga ish kunlari kirish uchun tirbandlik toʻlovini toʻlaydilar.
+emissions | chiqindi gazlar | Elektr avtobuslar shahardagi chiqindi gazlarni kamaytirishga yordam berdi.
+low-emission zone | kam chiqindili zona | Eski dizel mashinalar kam chiqindili zonaga kirish uchun toʻlov toʻlishi kerak.
+hitchhike | bepul mashinada yoʻl olish | Talaba paytida Omar Irlandiyani bepul mashinalarda sayohat qilgan.
+satnav | navigator | Navigator bizni mavjud boʻlmagan yoʻlga boshlab yubordi.
+road safety | yoʻl harakati xavfsizligi | Maktab har kuzda yoʻl harakati xavfsizligi darsini tashkil qiladi.
+driverless | haydovchisiz | Haydovchisiz mashinalar haqiqatan ham yoʻllarimizni xavfsizroq qiladimi?
+commute | qatnab ishlash | Yuki poyezd va avtobusda kuniga ikki soat qatnab ishlaydi.

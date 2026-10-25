@@ -1,0 +1,111 @@
+# UNIT: Texnologiya | Qurilmalar, internet, ijtimoiy tarmoqlar, muammolar
+## Qurilmalar
+device | qurilma | Bu qurilma simsiz ishlaydi.
+desktop | stolüsti kompyuter | Uyda stolüsti kompyuterdan foydalanaman.
+smartphone | smartfon | Hozir deyarli hamma smartfonga ega.
+charger | zaryadlovchi qurilma | Telefoningiz zaryadlovchisini olib tursam boʻladimi?
+battery | batareya | Batareya kun boʻyi ishlaydi.
+headphones | quloqchin | Yuki quloqchin orqali musiqa tinglaydi.
+keyboard | klaviatura | Bu klaviatura juda tinch ishlaydi.
+webcam | veb-kamera | Veb-kameram ishlamayapti.
+speaker | dinamik | Telefoningizni dinamikka ulang.
+cable | kabel | Bu kabel juda kalta.
+## Kompyuterdan foydalanish
+log in | kirish | Elektron pochta manzilingiz bilan kiring.
+log out | chiqish | Tizimdan chiqishni unutmang.
+password | parol | Parolingizni hech qachon boshqalarga bermang.
+username | foydalanuvchi nomi | Foydalanuvchi nomim juda uzun.
+click | bosish | Koʻk tugmani bosing.
+type | yozish | Emre juda tez yozadi.
+save | saqlash | Hujjatni yopishdan oldin uni saqlang.
+delete | oʻchirish | Suratni tasodifan oʻchirib yubordim.
+double-click | ikki marta bosish | Dastur ochish uchun belgiga ikki marta bosing.
+paste | qoʻyish | Matnni nusxalab, bu yerga qoʻying.
+## Internet
+website | veb-sayt | Muzeyning ajoyib veb-sayti bor.
+online | onlayn | Koʻpchilik narsalarni onlayn sotib olaman.
+offline | oflayn | Ilova oflayn rejimda ham ishlaydi.
+download | yuklab olish | Xaritani bepul yuklab olishingiz mumkin.
+upload | yuklash | Mariya taʼtil suratlarini yukladi.
+homepage | bosh sahifa | Bosh sahifaga qayting.
+link | havola | E-xatdagi havolani bosing.
+web page | veb-sahifa | Bu veb-sahifada reklama juda koʻp.
+Wi-Fi | simsiz internet | Bu yerdagi Wi-Fi paroli qanday?
+connection | ulanish | Internet aloqasi juda sekin.
+## E-pochta va xabarlar
+unsubscribe | obunani bekor qilish | Ularning elektron pochtasi obunasini bekor qildim.
+inbox | kelgan xabarlar qutisi | Kelgan xabarlar qutim xatlarga toʻla.
+email address | elektron pochta manzili | Elektron pochta manzilingiz qanday?
+group chat | guruh suhbati | Oila aʼzolarimizning guruh suhbati bor.
+video chat | videochat | Buvi bilan videochat orqali gaplashdik.
+message | xabar | Anndan xabar oldim.
+voice message | ovozli xabar | Umar menga uzun ovozli xabar yubordi.
+subscribe | obuna boʻlish | Byulletenimizga obuna boʻling.
+notification | bildirishnoma | Barcha bildirishnomalarni oʻchirib qoʻydim.
+contacts | kontaktlar | Raqamingiz kontaktlarimda yoʻq.
+## Ijtimoiy tarmoqlar
+social media | ijtimoiy tarmoqlar | Oʻsmirlar ijtimoiy tarmoqlarda soatlab vaqt oʻtkazishadi.
+post | post qilish | Anna oʻz tortining suratini joyladi.
+emoji | emoji | U yurak emojisi bilan javob berdi.
+block | bloklash | Sizni bezovta qiladigan odamlarni bloklashingiz mumkin.
+follow | kuzatib borish | Ayrim pazandachilik sahifalarini kuzatib boraman.
+comment | izoh | Barcha samimiy izohlaringiz uchun rahmat!
+profile | profil | Profil rasmingizni yangilang.
+story | hikoya | U har kuni yangi hikoya joylaydi.
+avatar | avatarka | Hisobingiz uchun avatar tanlang.
+tag | belgilash | Suratda meni belgilang!
+## Smartfon
+app | ilova | Bu ilova ingliz tilini oʻrganishimga yordam beradi.
+run out of battery (ran, run) | zaryadi tugash | Poezdda telefonimning zaryadi tugab qoldi.
+SIM card | SIM-karta | Aeroportdan mahalliy SIM-karta sotib oldim.
+ringtone | qoʻngʻiroq ohangi | Yangi qoʻngʻiroq ohangingiz yoqmadi.
+selfie | selfi | Daryo boʻyida selfi tushaylik.
+swipe | surish | Qoʻshimcha suratlarni koʻrish uchun chapga suring.
+screenshot | ekran surati | Xatolikning ekran suratini oling.
+silent mode | ovozsiz rejim | Iltimos, telefoningizni ovozsiz rejimga qoʻying.
+flat | quvvati tugagan | Kechirasiz, batareyam oʻlib qolgandi.
+missed call | javobsiz qoʻngʻiroq | Onamdan uchta javobsiz qoʻngʻiroq bor.
+## Texnik muammolar
+slow down | sekinlashish | Koʻp dasturlarni ochganimda kompyuterim sekinlashadi.
+freeze (froze, frozen) | qotib qolish | Suhbat paytida ekran qotib qoldi.
+infected | virus yuqqan | Noutbukimga virus yuqqan, undan foydalanmang.
+error | xatolik | Ekranda xatolik xabari chiqdi.
+restart | qayta ishga tushirish | Noutbukingizni qayta ishga tushirib koʻring.
+not working | ishlamayapti | Printer yana ishlamayapti.
+broken | singan | Telefonimning ekrani singan.
+technical support | texnik yordam | Yordam uchun texnik yordam xizmatiga qoʻngʻiroq qiling.
+loading | yuklanmoqda | Sahifa hali ham yuklanmoqda.
+go down (went, gone) | ishlamay qolish | Veb-sayt bir soatga ishlamay qoldi.
+## Xavfsizlik va maxfiylik
+account | hisob qaydnomasi | Kecha yangi akkaunt ochdim.
+settings | sozlamalar | Maxfiylik sozlamalarini tekshiring.
+steal (stole, stolen) | oʻgʻirlash | Kimdir internetda bank maʼlumotlarimni oʻgʻirladi.
+hack | buzib kirish | Kimdir elektron pochta hisobimni buzib kirdi.
+back up | zaxiralash | Suratlaringizni doimo zaxiralab qoʻying.
+personal data | shaxsiy maʼlumotlar | Internetda shaxsiy maʼlumotlaringizni himoya qiling.
+scam | firibgarlik | Bu xabar firibgarlik, unga javob bermang.
+fake | soxta | Soxta veb-saytlardan ehtiyot boʻling.
+antivirus | antivirus | Yaxshi antivirus dasturini oʻrnating.
+secure | xavfsiz | Bu toʻlov sahifasi xavfsizmi?
+## Oʻyinlar va oʻyin-kulgi
+computer game | kompyuter oʻyini | Yuki kompyuter oʻyinlarini loyihalashtiradi.
+high score | rekord | Oʻgʻlim rekordimni yangiladi.
+game over | oʻyin tugadi | Yoʻq, yana oʻyin tugadi!
+controller | joystik | Joystikni bering, navbat menga.
+console | oʻyin konsoli | Ali dam olish kunlari konsolda oʻynaydi.
+gamer | oʻyinchi | Ukam ashaddiy geymer.
+level | bosqich | Bu bosqichni tugata olmayapman.
+playlist | pleylist | Sayohatimiz uchun pleylist tuzdim.
+subscription | obuna | Musiqa obunamni bekor qildim.
+user | foydalanuvchi | Ilova millionlab foydalanuvchilarga ega.
+## Texnologiya va hayot
+go online | internetga kirish | Har kuni ertalab internetga kiraman.
+surf the internet | internetda kezish | U soatlab internetda kezadi.
+e-book | elektron kitob | Poezdda elektron kitoblar oʻqiyman.
+QR code | QR-kod | Menyuni koʻrish uchun QR-kodni skanerlang.
+modern | zamonaviy | Maktabimizda juda zamonaviy kompyuterlar bor.
+electric | elektr | Lukas elektr mashina haydaydi.
+adapter | adapter | Bu rozetka uchun adapter kerak.
+unplug | tarmoqdan uzish | Taʼtilga ketishdan oldin televizor shnurini sugʻurib qoʻying.
+technology | texnologiya | Texnologiya juda tez oʻzgarmoqda.
+Bluetooth | Bluetooth | Dinamikni ulash uchun Bluetooth-ni yoqing.

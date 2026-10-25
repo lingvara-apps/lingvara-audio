@@ -1,0 +1,111 @@
+# UNIT: Ofis va IT jargoni | Korporativ jargon, dasturlash tili, pul argosi
+## Korporativ klishelar
+synergy | sinerji, oʻzaro hamkorlik | Management keeps talking about synergy, but the two departments still refuse to share data.
+pain point | ogʻriqli nuqta, mijoz muammosi | Our research shows that slow delivery is the customers' biggest pain point.
+buy-in | maʼqullash, qoʻllab-quvvatlash | Without buy-in from the senior staff, the new system will never work.
+deliverable | tayyor mahsulot, yakuniy natija | The first deliverable is a full report on customer feedback by Friday.
+boil the ocean | imkonsiz ishga qoʻl urish | Let's focus on one market first; there's no point trying to boil the ocean.
+circle back | keyinroq qaytish (masalaga) | Good question, Omar; can we circle back to that after the budget review?
+low-hanging fruit | oson yechiladigan muammo | Before redesigning the whole site, let's pick the low-hanging fruit and fix the broken links.
+move the needle | sezilarli oʻzgarish qilish | A new logo is nice, but it won't really move the needle on sales.
+paradigm shift | tubdan oʻzgarish, dunyoqarash oʻzgarishi | Remote work has caused a paradigm shift in how companies think about offices.
+value-add | qoʻshimcha qiymat | Our real value-add is the personal support we give every customer after the sale.
+## Yigʻilish jargoni
+drill down | chuqur oʻrganish, tafsilotlarga kirishish | Let's drill down into the numbers and find out which region is losing money.
+deep dive | batafsil tahlil qilish | Next week we'll do a deep dive into why customers cancel their subscriptions.
+take something offline | yakka tartibda muhokama qilish | This is getting too detailed for everyone, so let's take it offline.
+ping | qisqa xabar yuborish | Just ping me when the file is ready and I'll review it straight away.
+heads-up | oldindan ogohlantirish | Thanks for the heads-up about the audit; I'll get the files ready tonight.
+all-hands | barcha xodimlar yigʻilishi | The CEO announced the merger at an all-hands on Thursday morning.
+parking lot | keyinga qoldirilgan masalalar | That's a good point, but let's put it in the parking lot and get back to the agenda.
+alignment | oʻzaro muvofiqlik, hamjihatlik | We need full alignment between sales and marketing before the campaign starts.
+run it up the flagpole | sinab koʻrish (fikrni) | It's only a rough idea, but let's run it up the flagpole and see who salutes.
+bikeshedding | mayda-chuyda narsalarni uzoq muhokama qilish | We spent forty minutes bikeshedding over the colour of a button nobody will notice.
+## Ofis hayoti argosi
+water-cooler chat | kuler atrofidagi mayda suhbat | Most of the real news in this company spreads through water-cooler chat.
+hot-desking | belgilangan stolsiz ishlash tizimi | Since the move to hot-desking, nobody can find a desk near the window.
+busywork | behuda ish, vaqt band qilish | The intern spent her first week doing busywork like sorting old files.
+presenteeism | kasal boʻlsa ham ishga kelish | Presenteeism is a real problem: people come in sick just to be seen at their desks.
+jobsworth | oʻta qatʼiy amaldor | Some jobsworth at the front desk wouldn't let me in without a visitor badge.
+pen-pusher | qogʻozboz xodim, byurokrat | He hates being treated like a pen-pusher when he has an engineering degree.
+wage slave | ishquli, yollanma qul | Omar felt like a wage slave, working sixty hours a week for a company he didn't care about.
+grind | zerikarli va ogʻir ish | Back to the daily grind tomorrow, I'm afraid.
+clock-watcher | vaqtning oʻtishini poylovchi | Diego is a real clock-watcher; his coat is on at five to five every day.
+dogsbody | qora ishchi, hammaga yugurdak | As the newest member of the team, I was everybody's dogsbody for months.
+## Karyera va boshqaruv argosi
+golden handcuffs | oltin kishan (xodimni ushlab qoluvchi imtiyozlar) | The bonus scheme works like golden handcuffs: if you leave early, you lose everything.
+golden parachute | oltin parashyut (rahbar uchun katta kompensatsiya) | Shareholders were furious about the CEO's golden parachute after the merger failed.
+high-flyer | istiqbolli xodim, yulduz xodim | Ali was seen as a high-flyer and became a manager before he was thirty.
+deadwood | ishlamaydigan kadr, keraksiz xodim | The new director promised to cut the deadwood from every department.
+rightsizing | xodimlarni qisqartirish | The memo called it rightsizing, but everyone knew it meant layoffs.
+glass ceiling | shisha shift (toʻsiq) | She was the first woman in the firm to break through the glass ceiling.
+rainmaker | katta daromad keltiruvchi xodim | Every law firm wants a rainmaker who brings in big clients.
+corner office | burchakdagi katta ofis (rahbar xonasi) | After fifteen years of hard work, Emre finally got the corner office.
+yes-man | mulozamachi, hammaga "ha" deydigan kishi | The new manager surrounded himself with yes-men who never questioned him.
+garden leave | maoshli taʼtil (ishdan boʻshaganda raqobatchiga ketmaslik uchun) | After resigning, Yuki was put on garden leave so she couldn't take clients to a rival.
+## Dasturiy taʼminotni ishlab chiqish
+codebase | kod bazasi | The codebase is so old that nobody dares to touch the payment module.
+refactor | kodni qayta tuzish (tartibga solish) | Before adding new features, we should refactor this messy function.
+legacy code | eski kod bazasi | Maria spent the whole sprint untangling legacy code written fifteen years ago.
+technical debt | texnik qarz | Every shortcut we take now adds to our technical debt later.
+hotfix | tezkor tuzatish (xatoni) | We pushed a hotfix at midnight after the login page stopped working.
+roll back | avvalgi versiyaga qaytarish | The update crashed the app, so we had to roll back to the previous version.
+deploy | tarqatish, serverga chiqarish | We never deploy on Fridays, because nobody wants to fix bugs at the weekend.
+pull request | kodni birlashtirish soʻrovi | Please open a pull request so the rest of the team can review your changes.
+backlog | bajarilishi kutilayotgan vazifalar roʻyxati | The backlog now has over three hundred tickets that nobody has looked at.
+scope creep | loyiha hajmining nazoratsiz kengayishi | Thanks to scope creep, a two-week project has now taken four months.
+## Xatolar va ularni tuzatish
+edge case | favqulodda holat, istisno holat | The app works fine until someone enters a name with an apostrophe, a classic edge case.
+workaround | vaqtinchalik yechim | There's no fix yet, but there is a workaround: export the file as text first.
+kludge | qoʻlbola yechim | The whole system is held together by a kludge that only Camille understands.
+spaghetti code | chalkash kod | Nobody wants to maintain that spaghetti code, so it hasn't been updated in years.
+regression | orqaga ketish xatosi (eski funksiyaning buzilishi) | The new update introduced a regression: the export button no longer works.
+race condition | poyga holati (sinxronizatsiya xatosi) | The random crashes turned out to be caused by a race condition between two threads.
+memory leak | xotira sizib chiqishi | After a few hours the server slows down, which suggests a memory leak.
+stack trace | xatolik izlari roʻyxati | Please paste the full stack trace into the ticket so we can see where it failed.
+rubber duck debugging | rezina oʻrdak usuli bilan xatolarni topish | Rubber duck debugging works: explaining the code aloud often reveals the mistake.
+dogfooding | oʻz mahsulotidan oʻzi foydalanish | Dogfooding helped us find dozens of annoying bugs before customers did.
+## IT yordam va foydalanuvchi argosi
+power user | tajribali foydalanuvchi | Power users want keyboard shortcuts, not more colourful buttons.
+end user | oxirgi foydalanuvchi | The interface must be simple enough for an end user with no technical training.
+technophobe | texnologiyadan qoʻrquvchi shaxs | My uncle is a proud technophobe who still refuses to own a smartphone.
+factory reset | zavod sozlamalariga qaytarish | If nothing else works, a factory reset will wipe the phone and start it fresh.
+admin rights | administrator huquqlari | You can't install that software without admin rights on your laptop.
+outage | tizim uzilishi, ishdan chiqish | A six-hour outage left thousands of customers unable to access their accounts.
+sysadmin | tizim administratori | Ask the sysadmin to reset your password; she's the only one with access.
+helpdesk | yordam xizmati, texnik yordam boʻlimi | I've raised a ticket with the helpdesk, but they haven't replied yet.
+user error | foydalanuvchi xatosi | The engineer smiled politely and said the problem was user error.
+turn it off and on again | oʻchirib yoqish | Before calling support, have you tried turning it off and on again?
+## Startap olami
+unicorn | yakkahox, milliarder startap | Within three years the little food-delivery app had become a unicorn.
+angel investor | farishta investor (boshlangʻich sarmoyador) | A retired engineer became their first angel investor, putting in fifty thousand pounds.
+runway | naqd pul zaxirasi yetish muddati | With our current savings we have about eight months of runway left.
+burn rate | pul sarflash tezligi | Investors were worried by the company's burn rate of two million a month.
+bootstrap | tashqi investitsiyasiz rivojlantirish | They bootstrapped the business from their kitchen table for the first two years.
+seed round | boshlangʻich investitsiya raundi | The founders raised half a million in their seed round.
+exit strategy | biznesdan chiqish strategiyasi | Every investor asked the same question: what's your exit strategy?
+scale up | kengaytirish, masshtabni oshirish | The challenge now is to scale up production without losing quality.
+disrupt | tubdan oʻzgartirib yuborish (tarmoqni) | Every new startup claims it will disrupt an entire industry.
+minimum viable product | minimal ishlaydigan mahsulot | Launch a minimum viable product first, then improve it based on real feedback.
+## Pul argosi
+dough | pul, chaqa | He's making serious dough since he started freelancing.
+a pretty penny | juda koʻp pul | Restoring that old farmhouse must have cost them a pretty penny.
+nickel-and-dime | arzimas xarajatlar bilan pul shilib olish | Budget airlines nickel-and-dime passengers with fees for everything from seats to snacks.
+peanuts | juda kam pul, chaqa-lucha | Interns at that agency work long hours and get paid peanuts.
+rolling in it | pulga koʻmilgan, juda badavlat | Since saving his company, Diego has been absolutely rolling in it.
+hard up | qurbi yetmaydigan, kambagʻal | They were very hard up when the children were small.
+cash-in-hand | naqd va soliqsiz toʻlanadigan | At weekends he does cash-in-hand jobs like painting flats and fixing fences.
+pony up | pul toʻlash (majburan) | If you want the premium features, you'll have to pony up another ten dollars a month.
+break the bank | hamyonni boʻshatib qoʻyish, juda qimmatga tushish | A weekend by the sea won't break the bank if we book early.
+cheapskate | xasis, qizgʻanchiq | Don't be such a cheapskate; it's your turn to buy the coffee.
+## Pulning korporativ va kundalik argosi
+rainy day fund | qora kun uchun jamgʻarma | The car repairs came straight out of our rainy day fund.
+highway robbery | ochiqdan-ochiq talash, qimmatchilik | Twelve dollars for a sandwich at the airport is highway robbery.
+creative accounting | buxgalteriya hiylalari, raqamlarni soxtalashtirish | The profits looked impressive, but they were mostly the result of creative accounting.
+ballpark figure | taxminiy raqam | I don't need an exact quote, just give me a ballpark figure.
+back-of-the-envelope | yuzaki, xomaki (hisob-kitob) | A quick back-of-the-envelope calculation shows the plan won't be profitable.
+bean counter | buxgalter, oʻta mayda hisob-kitobchi | The bean counters at head office cut our training budget again.
+cook the books | hisobotlarni soxtalashtirish | The finance director was arrested for cooking the books for years.
+slush fund | yashirin maxsus jamgʻarma, pora jamgʻarmasi | Investigators discovered a secret slush fund used to pay off officials.
+kickback | pora, noqonuniy komissiya | The contractor was accused of paying kickbacks to win the hospital contract.
+fat cat | oʻta boy va ochkoʻz rahbar | Staff were angry that the fat cats on the board got bonuses while wages were frozen.

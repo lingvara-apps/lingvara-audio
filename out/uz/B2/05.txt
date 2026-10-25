@@ -1,0 +1,111 @@
+# UNIT: Fan va tadqiqot | Ilmiy metod, akademik til, kashfiyotlar
+## Ilmiy metod
+observation | kuzatish | Diqqatli kuzatish har qanday yaxshi tadqiqotning birinchi qadamidir.
+testable | sinab koʻradigan (tekshiriladigan) | Ilmiy gʻoya sinab koʻradigan boʻlishi kerak, aks holda u shunchaki fikrdir.
+falsify | rad etish (xato deb topish) | Yaxshi nazariya tamoyila rad etib boʻladigan bashoratlarni beradi.
+conjecture | taxmin | Hozircha ikki voqea orasidagi bogʻliqlik shunchaki taxmin.
+reproducible | takrorlanadigan | Natijalarga faqat boshqa laboratoriyalarda takrorlanishi mumkin boʻlgandagina ishoniladi.
+measurement | oʻlchov | Biz uchta oʻlchovni oldik va ularning oʻrtacha qiymatidan foydalandik.
+precision | aniqlik | Bu asbob haroratni hayratlanarli aniqlik bilan oʻlchaydi.
+accuracy | toʻgʻrilik | Hech kim uning hisob-kitoblari toʻgʻriligini shubha ostiga qoʻymadi.
+double-blind | ikki marta koʻr (tasodifiy tekshiruv) | Ikki marta koʻr-koʻrona oʻtkazilgan tadqiqotda na shifokorlar, na bemorlar asl dori kimga berilganini bilishadi.
+placebo | platsebo (taʼsirsiz dori) | Koʻngillilarning yarmiga dori oʻrniga platsebo berildi.
+## Laboratoriyada
+specimen | namuna | Har bir namuna etiketlandi va muzlatgichda saqlandi.
+beaker | bexer (laboratoriya idishi) | Sofiya koʻk suyuqlikni ehtiyotkorlik bilan shisha bexerga quydi.
+pipette | pipetka | Eritmadan aniq uch tomchi qoʻshish uchun pipetkadan foydalaning.
+apparatus | qurilma (asbob-uskuna) | Har safar ishlatilgandan keyin qurilmani tozalash kerak.
+sterile | steril (mikrobsiz) | Barcha asboblar mutlaqo steril saqlanishi kerak.
+contaminate | bulgʻamoq (ifloslantirmoq) | Bitta soch tolasi butun namunani bulgʻashi mumkin.
+dissolve | erimoq | Tuz toʻliq eriguncha suvni aralashtiring.
+residue | qoldiq | Stakan tubida yupqa oq qoldiq qoldi.
+protective goggles | himoya koʻzoynagi | Himoya koʻzoynagini taqmasdan hech qachon kimyoviy moddalarni aralashtirmang.
+calibrate | kalibrlamoq (sozlamoq) | Ishni boshlashdan oldin har kuni ertalab tarozini kalibrlaymiz.
+## Maʼlumot va statistika
+statistically | statistik jihatdan | Ikki guruh orasidagi farq statistik jihatdan ahamiyatli emas edi.
+average | oʻrtacha | Ishtirokchilar oʻrtacha kechasiga olti soat uxlashdi.
+median | median (oʻrtadagi qiymat) | Koʻngillilarning mediansh yoshi oʻttiz toʻrtni tashkil etdi.
+percentage | foiz | Bemorlarning ozgina foizi engil bosh ogʻrigʻidan shikoyat qildi.
+ratio | nisbat | Tadqiqotdagi erkaklar va ayollar nisbati taxminan teng edi.
+respondent | respondent (anketa ishtirokchisi) | Koʻpchilik respondentlar haftasiga bir martadan kamroq shugʻullanishlarini aytishdi.
+questionnaire | soʻrovnoma | Iltimos, soʻrovnomani toʻldiring va jumagacha qaytaring.
+deviation | ogʻish | Rejadan hatto kichik ogʻish ham natijalarni oʻzgartirishi mumkin.
+random | tasodifiy | Kompyuter mingta xonadondan iborat tasodifiy namunani tanlaydi.
+trend | tendentsiya (yoʻnalish) | Grafik soʻnggi oʻn yillikda aniq oʻsish tendentsiyasini koʻrsatmoqda.
+## Akademik yozuv
+paraphrase | oʻz soʻzlari bilan ifodalamoq | Iqtibosni soʻzma-soʻz koʻchirish oʻrniga uni oʻz soʻzlaringiz bilan ifodalashga harakat qiling.
+quote | iqtibos keltirmoq | Agar boshqa yozuvchidan iqtibos keltirsangiz, har doim sahifa raqamini koʻrsating.
+summary (summaries) | qisqacha mazmun (rezyume) | Maqolaning qisqacha mazmunini oʻz soʻzlaringiz bilan yozing.
+heading | sarlavha | Hisobotning har bir boʻlimida aniq sarlavha boʻlishi kerak.
+literature review | adabiyotlar sharhi | Uning adabiyotlar sharhi ellikdan ortiq oldingi tadqiqotlarni qamrab oladi.
+acknowledgements | minnatdorchilik boʻlimi | Minnatdorchilik boʻlimida Ali ota-onasiga va rahbariga minnatdorchilik bildirdi.
+thesis statement | tezis (asosiy fikr) | Asosiy fikringiz kirish qismining oxirida kelishi kerak.
+word count | soʻzlar soni | Inshongizni topshirishdan oldin soʻzlar sonini tekshiring.
+glossary (glossaries) | lugʻat (atamalar izohli lugʻati) | Texnik atamalar orqadagi lugʻatda tushuntirilgan.
+publication | nashr | Maqola hali nashr etishga tayyor emas.
+## Akademik feʼllar
+hypothesise | faraz qilmoq | Taʼsir bolalarda kuchliroq boʻlishini faraz qilamiz.
+demonstrate | namoyish etmoq (koʻrsatmoq) | Tadqiqot parhez va kayfiyat oʻrtasida aniq bogʻliqlik borligini koʻrsatadi.
+imply | nazarda tutmoq (imo qilmoq) | Bu natijalar eski model juda soddaligini nazarda tutadi.
+infer | xulosa chiqarmoq | Bu koʻrsatkichlardan narxlar oshishini taxmin qilishimiz mumkin.
+assess | baholamoq | Siyosatning uzoq muddatli taʼsirini baholash uchun hali juda erta.
+derive | kelib chiqmoq (tuzmoq) | Formula bir nechta oddiy kuzatishlardan kelib chiqqan.
+validate | tasdiqlamoq (haqiqiyligini isbotlamoq) | Model beshta mamlakatdan olingan maʼlumotlar yordamida tasdiqlandi.
+undermine | izdan chiqarmoq (poyini qazimoq) | Maʼlumotlardagi bitta xato butun argumentni izdan chiqarishi mumkin.
+establish | aniqlamoq (oʻrnatmoq) | Olimlar kasallikka nima sabab boʻlishini hali aniqlashgani yoʻq.
+illustrate | misollar bilan tushuntirmoq (tasvirlamoq) | Diagramma yurak qanday qilib qonni pompalamasini koʻrsatadi.
+## Fizika va kimyo
+inertia | inersiya (inertlik) | Inersiya tufayli avtobus toʻsatdan toʻxtaganda yoʻlovchilar oldinga siljiydi.
+friction | ishqalanish | Shinalar va yoʻl orasidagi ishqalanish mashinani sekinlashtiradi.
+velocity (velocities) | tezlik | Raketaning tezligi har soniyada oshib bordi.
+particle | zarracha | Quyosh nuri dastasida chang zarrachalari suzib yurgandi.
+molecule | molekula | Suv molekulasi ikkita vodorod atomi va bitta kislorod atomidan iborat.
+compound | birikma | Tuz natriy va xlorning birikmasidir.
+element | kimyoviy element | Oltin eng kam reaksiyaga kirishadigan elementlardan biridir.
+radiation | nurlanish (radiatsiya) | Ishchilar nurlanish taʼsirini oʻlchash uchun maxsus nishon taqib yurishadi.
+magnetic | magnit | Yerning bizni quyoshdan himoya qiluvchi magnit maydoni mavjud.
+momentum | harakat miqdori (moment) | Ogʻir toʻp oʻzining harakat miqdori tufayli dumalashda davom etdi.
+## Biologiya va genetika
+cell | hujayra | Har bir tirik mavjudot kamida bitta hujayradan iborat.
+gene | gen | Olimlar koʻz rangi bilan bogʻliq genni topdilar.
+chromosome | xromosoma | Odamlar odatda har bir hujayrada qirq oltita xromosomaga ega.
+mutation | mutatsiya | Kichik mutatsiya oqsilning qanday ishlashini oʻzgartirishi mumkin.
+organism | organizm | Bakteriyalar sayyoradagi eng oddiy organizmlar qatoriga kiradi.
+natural selection | tabiiy tanlanish | Tabiiy tanlanish nima uchun baʼzi hayvonlar tirik qolishi va boshqalari qolmasligini tushuntiradi.
+tissue | toʻqima | Olimlar laboratoriyada yangi teri toʻqimasini oʻstirishdi.
+photosynthesis | fotosintez | Oʻsimliklar fotosintez orqali oziq-ovqat tayyorlash uchun quyosh nuridan foydalanadilar.
+reproduce | koʻpaymoq (nasl qoldirmoq) | Baʼzi oʻsimliklar hasharotlar yordamisiz koʻpayishi mumkin.
+microorganism | mikroorganizm | Bir qoshiq tuproq millionlab mikroorganizmlarni oʻz ichiga oladi.
+## Astronomiya va Yer fanlari
+meteorite | meteorit (gök toshi) | Maydonga tushgan meteorit tennis toʻpidan kichikroq edi.
+constellation | yulduz turkumi | Yuki menga Orion yulduz turkumini qanday topishni koʻrsatdi.
+tectonic plate | tektonik plita | Zilzilalar ikkita tektonik plita uchrashgan joyda sodir boʻladi.
+magma | magma | Issiq magma yer yuzasiga qarab asta-sekin koʻtariladi.
+eclipse | tutilish | Minglab odamlar quyosh tutilishini tomosha qilish uchun shimolga yoʻl olishdi.
+atmosphere | atmosfera | Marsning atmosferasi Yerga nisbatan juda yupqa.
+fossil | qazilma qoldiq (fosil) | Bolalar sohilida kichik dengiz chigʻanogʻi qoldigʻini topishdi.
+sediment | choʻkindi | Koʻl tubida asta-sekin choʻkindi qatlamlari hosil boʻldi.
+seismic | seysmik (zilzilaga oid) | Mintaqadagi seysmik faollik oʻtgan oy davomida oshdi.
+light year | yorugʻlik yili | Eng yaqin yulduz bizdan toʻrt yorugʻlik yilidan koʻproq uzoqlikda joylashgan.
+## Kashfiyotlar va ixtirolar
+inventor | ixtirochi | Yosh ixtirochi oʻz mashinasini fan yarmarkasida namoyish etdi.
+trailblazer | yoʻl ochuvchi (pioner) | U muhandislik sohasidagi ayollar uchun yoʻl ochuvchi edi.
+milestone | burilish nuqtasi (muhim bosqich) | Oyga qoʻnish insoniyat tarixida muhim bosqich boʻldi.
+visionary (visionaries) | uzoqni koʻra oladigan shaxs (vizioner) | U bir asr oldin elektr mashinalarini tasavvur qilgan uzoqni koʻra oladigan inson edi.
+unravel | yechimini topmoq (sirini ochmoq) | Tadqiqotchilar hali ham uyqu sirini ochishga harakat qilmoqdalar.
+shed light on | yorugʻlik bermoq (yoritmoq) | Yangi qazilma qoldiqlar qushlarning uchni qanday oʻrganganiga oydinlik kiritmoqda.
+ingenious | dahona (juda aqlli) | Bu juda qadimiy muammoga dahona yechim edi.
+groundbreaking | tub burilish yasaydigan (novatorona) | Uning novatorona ishi miyani tushunishimizni oʻzgartirib yubordi.
+serendipity | baxtli tasodif | Koʻpgina buyuk kashfiyotlar sof baxtli tasodif tufayli qilingan.
+devise | oʻylab topmoq (ishlab chiqmoq) | Ular uyda havo ifloslanishini oʻlchashning oddiy usulini ishlab chiqishdi.
+## Ilm-fan olami
+journal | ilmiy jurnal | Ularning topilmalari nufuzli tibbiyot jurnalida chop etildi.
+grant | grant (moliyaviy yordam) | Jamoa marjon riflarini oʻrganish uchun katta grant oldi.
+funding | moliyalashtirish | Yangi moliyalashtirilsiz loyiha kelgusi yili toʻxtatilishiga toʻgʻri keladi.
+fellowship | tadqiqot stipendiyasi | Lukasga Kanadada ikki yillik tadqiqot stipendiyasi berildi.
+scholar | olim (akademik) | U oʻrta asr ingliz adabiyoti boʻyicha hurmatga sazovor olimdir.
+discipline | fan sohasi (intizom) | Biologiya va kimyo bir-biriga chambarchas bogʻliq fan sohalaridir.
+academia | akademik doiralar | Akademik doiralarda oʻn yil ishlagandan soʻng, Mariya xususiy kompaniyaga oʻtdi.
+conference | konferentsiya | Emre oʻz tadqiqotini Dubldagi konferentsiyada taqdim etdi.
+expertise | mutaxassislik (tajriba) | Bizga dengiz biologiyasi boʻyicha mutaxassisligi bor odam kerak.
+research assistant | ilmiy yordamchi | Ilmiy yordamchi sifatida Umar koʻp kunlarini namunalarni yigʻish bilan oʻtkazadi.

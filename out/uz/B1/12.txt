@@ -1,0 +1,111 @@
+# UNIT: Huquq va jamiyat | Qonunlar, sud, davlat, huquqlar
+## Qonunlar va qoidalar
+rule | qoida | Oʻyinni boshlashdan oldin qoidalarni oʻqib chiqing.
+legal | qonuniy, yuridik | Shahar markazi ustidan dron uchirish qonuniyrimi?
+illegal | noqonuniy, qonunga xilof | Avtomobilingizni oʻt oʻchirish stansiyasi roʻparasiga qoʻyish noqonuniy.
+lawful | qonuniy, qonunga muvofiq | Sud kompaniyaning harakatlari qonuniy ekanligiga qaror qildi.
+against the law | qonunga zid, qonunga xilof | Sugʻurtasiz mashina haydash qonunga ziddir.
+prohibited | taqiqlangan, man etilgan | Sud zalida suratga olish taqiqlangan.
+allowed | ruxsat etilgan, mumkin | Yozda plyajda itlarga ruxsat etilmaydi.
+obey | boʻysinmoq, itoat qilmoq | Hatto eng badavlat odamlar ham qonunga boʻysunishi shart.
+break the law | qonunni buzmoq | U u yerda lager qurish orqali qonunni buzayotganini bilmasdi.
+forbidden | qatʼiyan taqiqlangan, man etilgan | Kasalxona binosi ichida chekish qatʼiyan taqiqlangan.
+## Jinoyat
+crime | jinoyat | Jinoyat shahar ayrim qismlarida jiddiy muammo hisoblanadi.
+criminal | jinoyatchi | Politsiya jinoyatchini aeroportda qoʻlga oldi.
+theft | oʻgʻrilik | U velosipedining oʻgʻirlangani haqida politsiyaga xabar berdi.
+thief (thieves) | oʻgʻri | Men gavjum avtobusda ketayotganimda, bir oʻgʻri hamyonimni oldi.
+robbery | bosqinchilik, talonchilik | Asosiy koʻchadagi bankda qurolli bosqinchilik sodir boʻldi.
+burglar | uy oʻgʻrisi, kiringasdi | Uy oʻgʻrisi ochiq qolgan oshxona derazasidan kirib keldi.
+shoplifting | doʻkondan oʻgʻrilik qilish | Oʻsmir kiyim-kechak doʻkonida oʻgʻrilik qilayotganda ushlandi.
+offender | huquqbuzar, jinoyatchi | Yosh huquqbuzarlar koʻpincha suddan ikkinchi imkoniyatni olishadi.
+smuggle | qochirib oʻtmoq, kontrabanda qilmoq | Ular chegaradan sigareta olib oʻtishga urinishdi.
+commit | (jinoyat) sodir etmoq | Jinoyat sodir etgan yoshlarning koʻpchiligi buni boshqa hech qachon takrorlamaydi.
+## Politsiya va surishtiruv
+patrol | patrul qilmoq, qoʻriqlab yurmoq | Politsiyachilar har kuni soat oʻndan keyin parkda patrul qilishadi.
+investigate | tekshirmoq, surishtirmoq | Politsiya ombordagi yongʻinni tekshirmoqda.
+investigation | surishtiruv, tergov | Tergov ishini yakunlash bir necha oy vaqt olishi mumkin.
+fingerprint | barmoq izi | Politsiya siningan derazadan uning barmoq izlarini topdi.
+witness | guvoh | Bir guvoh erkakning doʻkondan qochib ketayotganini koʻrdi.
+suspicious | shubhali | Stansiya yaqinida biron bir shubhali narsani koʻrsangiz, politsiyaga qoʻngʻiroq qiling.
+arrest | hibsga olmoq, qoʻlga olmoq | Kecha tunda stansiya yaqinida ikki kishi hibsga olindi.
+clue | ishora, topilma (ip uchi) | Detektiv gilam ostidan muhim ip uchini topdi.
+detective | detektiv, izquvar | Detektiv qoʻshnilar bilan soatlab suhbatlashdi.
+crime scene | jinoyat sodir boʻlgan joy | Ikki kun davomida hech kimga jinoyat sodir boʻlgan joyga yaqinlashishga ruxsat berilmadi.
+## Sud
+court | sud | Ish kelasi oyning oxirida sudga oshiriladi.
+judge | sudya | Sudya voqeaning har ikki tomonini diqqat bilan eshitdi.
+testify | guvohlik bermoq | Ali oʻsha kecha koʻrganlari haqida guvohlik berishga rozi boʻldi.
+trial | sud jarayoni, muhokama | Sud jarayoni taxminan uch hafta davom etishi kutilmoqda.
+defend | himoya qilmoq | Uni sudda yosh advokat himoya qiladi.
+case | sud ishi, davo | Advokat juda kuchli dalillarimiz borligini aytdi.
+accuse | ayblamoq | U kompaniyadan pul olganlikda ayblandi.
+guilty | aybdor | Hakamlar hayʼati uni uchta ayblov boʻyicha ham aybdor deb topdi.
+innocent | begunoh, aybsiz | Sud aksini isbotlamaguncha har bir kishi aybsizdir.
+on trial | sud qilinayotgan, javobgarlikka tortilgan | Ikki kishi muzeydan surat oʻgʻirlagani uchun sud qilinmoqda.
+## Jazo
+jail | qamoqxona, hibqxona | U mushtlashuvdan keyin bir kechani qamoqxonada oʻtkazdi.
+prison | qamoqxona, zindon | U firibgarlik uchun ikki yil qamoqda oʻtirdi.
+prisoner | mahbus, mahkumlangan shaxs | Mahbuslarga ilmiy daraja olish uchun oʻqishga ruxsat beriladi.
+punishment | jazo | Koʻpchilik jazo juda yengilligini oʻylaydi.
+punish | jazolamoq | Ota-onalar bolalarni har bir kichik xato uchun jazolashi kerakmi?
+penalty | jarima, jazo | Soliqlarni toʻlamaganlik uchun jazo juda yuqori boʻlishi mumkin.
+release | ozod qilmoq, qoʻyib yubormoq | U uch yil oʻtgach qamoqdan ozod qilindi.
+behind bars | panjara ortida | Toʻda boshligʻi koʻp yillar davomida panjara ortida qoladi.
+escape | qochib qutilmoq, qochmoq | Ikki mahbus devordan oshib oʻtib qochib ketdi.
+parking ticket | toʻxtash joyi jarimasi | Juda uzoq qolib ketganim uchun menga jarima yozishdi.
+## Davlat va boshqaruv
+politician | siyosatchi | Siyosatchi kelasi yili koʻproq kasalxonalar qurishga vaʼda berdi.
+senate | senat | Yangi qonun avval senat tomonidan maʼqullanishi kerak.
+civil servant | davlat xizmatchisi | Xolam yigirma yildan beri davlat xizmatchisi boʻlib ishlaydi.
+president | prezident | Prezident milliy televideniyeda nutq soʻzladi.
+political | siyosiy | Ular oilaviy kechki ovqatlarda hech qachon siyosiy mavzularni muhokama qilishmaydi.
+stand for election | saylovda nomzodini qoʻymoq | Qoʻshnimiz mahalliy kengash saylovida oʻz nomzodini qoʻymoqchi.
+mayor | shahar hokimi, mer | Mer shaharning parklarini tozalashga vaʼda berdi.
+local council | mahalliy kengash, hokimiyat | Mahalliy kengash hududimizda yangi kutubxona ochmoqchi.
+democratic | demokratik | Demokratik mamlakatda odamlar oʻz rahbarlarini oʻzlari tanlaydilar.
+state | davlat | Koʻpgina mamlakatlarda davlat boshlangʻich taʼlim xarajatlarini qoplaydi.
+## Huquqlar va erkinliklar
+freedom of speech | soʻz erkinligi | Sogʻlom jamiyatda soʻz erkinligi muhim ahamiyatga ega.
+equal rights | teng huquqlar | Koʻpgina mamlakatlarda ayollar ish joyida teng huquqlar uchun kurashdilar.
+freedom | erkinlik | Koʻplab yoshlar uchun birinchi mashina bu – erkinlik demakdir.
+free press | erkin matbuot | Erkin matbuot odamlarga hokimiyatdagilar haqiqatini bilib olishga yordam beradi.
+equal | teng | Barcha fuqarolar qonun oldida teng boʻlishi kerak.
+discrimination | kamsitish, diskriminatsiya | Bu yerda yosh chegarasi boʻyicha kamsitish qonunga xilofdir.
+racist | irqchi | Klub irqchi soʻzlarni baqirgan ishqibozni chetlashtirdi.
+peaceful | tinch, tinchliksevar | Yuzlab talabalar yuqori toʻlovlarga qarshi tinch namoyishga qoʻshilishdi.
+demonstrator | namoyishchi, ishtirokchi | Namoyishchilar maydonda plakatlar koʻtarib, qoʻshiq kuylashdi.
+fairness | adolatlilik, haqqoniylik | Bolalarda yoshligidanoq kuchli adolat tuygʻusi boʻladi.
+## Jamiyat va fuqarolik
+social | ijtimoiy | Shahar yolgʻizlik kabi ijtimoiy muammolarini hal qilishga harakat qilmoqda.
+good citizen | yaxshi fuqaro | Soliqlarni oʻz vaqtida toʻlash yaxshi fuqaro boʻlishning bir qismidir.
+public service | jamoat xizmati | Avtobuslar va kutubxonalar muhim jamoat xizmatlari hisoblanadi.
+social services | ijtimoiy xizmatlar | Ijtimoiy xizmatlar uydagi jiddiy muammolarga duch kelgan oilalarga yordam beradi.
+public | jamoatga tegishli, ommaviy | Kutubxona jamoat binosi, shuning uchun kirish bepul.
+unemployment benefit | ishsizlik nafaqasi | Ishini yoʻqotgach, u olti oy davomida ishsizlik nafaqasini oldi.
+donation | xayriya, ehson | Kasalxona mahalliy oiladan katta miqdorda xayriya oldi.
+responsibility | masʼuliyat, javobgarlik | Koʻchalarni toza tutish barchaning masʼuliyatidir.
+duty | burch, vazifa | Koʻrganlaringizni politsiyaga aytish – bu sizning burchingiz.
+donate | xayriya qilmoq, ehson qilmoq | Biz uylaridan ayrilgan odamlarga eski kiyimlarimizni xayriya qildik.
+## Rasmiy muomalalar
+official letter | rasmiy xat | Bugun ertalab soliq idorasidan rasmiy xat oldim.
+bureaucracy | burokratizm, idorachilik | Bu yerda kichik biznes boshlash koʻplab burokratik toʻsiqlarga duch kelishni anglatadi.
+red tape | qogʻozbozlik, byurokratik toʻsiq | Yangi qoidalar kichik kompaniyalar uchun qogʻozbozlikni kamaytirishi kerak.
+notary | notarius | Hujjatlarni notarius huzurida imzolashingiz kerak.
+application | ariza | Iltimos, arizangizni oy oxirigacha yuboring.
+queue up | navbatda turmoq | Hujjatlarimizni yangilash uchun ikki soat navbatda turishimizga toʻgʻri keldi.
+licence | litsenziya, guvohnoma | U nihoyat oʻttiz yoshida haydovchilik guvohnomasini oldi.
+identity card | shaxsni tasdiqlovchi hujjat, pasport | Iltimos, kirish joyida shaxsni tasdiqlovchi hujjatingizni koʻrsating.
+passport office | pasport stoli | Pasport stolidagi navbat bir soatdan oshib ketgandi.
+fill out | (anketa, forma) toʻldirmoq | Iltimos, ushbu the formani toʻldiring va ertaga olib keling.
+## Kelishmovchiliklar va adolat
+disagreement | kelishmovchilik, ixtilof | Ikki qoʻshni bogʻ panjarasi yuzasidan uzoq vaqt kelishmovchilikka borishdi.
+make a complaint | shikoyat qilmoq | Kamill bar tomonidan chiqayotgan shovqin yuzasidan shikoyat qildi.
+take to court | sudga bermoq | Ijarachilar oʻz uy egasini sudga berishga qaror qilishdi.
+settle | hal qilmoq, kelishib olmoq | Ular masalani sudga bormasdan hal qilishdi.
+fair trial | adolatli sudlov | Nima qilgan boʻlishidan qatʼi nazar, har bir kishi adolatli sudlovga haqli.
+unfair | adolatsiz, nohaq | Koʻplab ishchilar yangi qoidalarni mutlaqo adolatsiz deb oʻylashadi.
+injustice | adolatsizlik, nohaqlik | Film kambagʻal oilalar boshiga tushgan adolatsizlikni koʻrsatib beradi.
+reach an agreement | kelishuvga erishmoq | Uzoq muzokaralardan soʻng ikki tomon nihoyat kelishuvga erishdi.
+legal advice | huquqiy maslahat | Dushanba kunlari hokimiyatda bepul huquqiy maslahat olishingiz mumkin.
+rights and duties | huquq va burchlar | Ijarachilar imzolashdan oldin oʻz huquq va burchlarini bilishlari kerak.

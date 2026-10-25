@@ -1,0 +1,111 @@
+# UNIT: Sud nomi | Sud jarayoni, jinoiy va fuqarolik huquqi, huquqiy qoliplar
+## Sud va taraflar
+plaintiff | daʼvogar | Daʼvogar kompaniya xavfsizlik boʻyicha takroriy ogohlantirishlarga eʼtibor bermaganini daʼvo qilmoqda.
+defendant | sudlanuvchi, javobgar | Hukm oʻqilayotganda sudlanuvchi jim oʻtirdi.
+prosecutor | prokuror | Prokuror besh yillik qamoq jazosini soʻradi.
+counsel | himoya vakili, yurist | Himoya vakili qisqa muddatga tanaffus qilishni soʻradi.
+barrister | sud advokati (Britaniya) | Uning advokati dalillar noqonuniy yoʻllar bilan olinganini taʼkidladi.
+solicitor | maslahatchi advokat (Britaniya) | Shartnomani imzolashdan oldin uni advokatga tekshirtirishingiz kerak.
+jury | hakamlar hayʼati | Hakamlar hayʼati bir ovozdan qarorga kelishi uchun ikki kun kerak boʻldi.
+bench | sudyalar hayʼati | Ish uch sudyadan iborat hayʼat tomonidan koʻrib chiqildi.
+litigant | sud taratfi, daʼvogar-javobgar | Advokatlar juda qimmat boʻlgani uchun koʻpchilik sud taraflari endi oʻzlarini oʻzlari himoya qilmoqda.
+tribunal | maxsus sud, hakamlik sudi | U sobiq ish beruvchisini mehnat nizolari tribunaliga berdi.
+## Yargılama süreci
+indictment | ayblov xulosasi | Ayblov xulosasida firibgarlik boʻyicha oʻn ikkita alohida band keltirilgan.
+arraignment | dastlabki sud majlisi | Ilk sud majlisida u barcha ayblovlar boʻyicha oʻzini aybsiz deb bildi.
+plead | oʻzini aybdor yoki aybsiz deb eʼlon qilmoq | U sugʻurtasiz mashina boshqargani uchun oʻzini aybdor deb topdi.
+hearing | sud muhokamasi, tinglov | Keyingi sud tinglovi 15-martga belgilandi.
+adjourn | tanaffus qilmoq, qoldirmoq | Hakim yangi guvoh topilmaguncha sudni qoldirdi.
+cross-examine | soʻroq qilmoq (qarshi tomon) | Advokat guvohni bir soatdan ortiq vaqt davomida savolga tutdi.
+verdict | sud qarori, hukm | Hukm sud zalidagi deyarli barchani hayratda qoldirdi.
+acquit | oqlamoq | Uzoq davom etgan sud jarayonidan soʻng hakamlar hayʼati ikki erkakni ham oqladi.
+retrial | qayta sud qilish | Yangi dalillar sudni ishni qayta koʻrib chiqishga undadi.
+precedent | huquqiy presedent | Ushbu qaror kelgusidagi shaxsiy daxlsizlik ishlari uchun muhim presedent yaratdi.
+## Delil ve tanıklık
+testimony | guvohlik, koʻrsatma | Uning koʻrsatsalari politsiyaga bergan bayonotiga zid kelardi.
+affidavit | yozma qasamyodli guvohlik | Qoʻshni oʻzi koʻrganlarini yozib, qasamyodli ariza imzoladi.
+under oath | qasamyod ostida | Qasamyod ostida yolgʻon gapirgan guvohlar yolgʻon guvohlik berganlikda ayblanishi mumkin.
+perjury | yolgʻon guvohlik berish | Keyinchalik u sudga yolgʻon gapirgani uchun yolgʻon guvohlikda aybdor deb topildi.
+exhibit | ashyoviy dalil | Pichoq hakamlar hayʼatiga toʻrtinchi ashyoviy dalil sifatida koʻrsatildi.
+circumstantial evidence | bilvosita dalil | Unga qarshi ish toʻliqligicha bilvosita dalillarga asoslangan.
+admissible | qabul qilinadigan (dalil) | Hakim yozuv sudda dalil sifatida qabul qilinmasligiga qaror qildi.
+alibi | jinoyat vaqtida boshqa joyda boʻlganligini isbotlash | Uning alibisi oʻsha kekasi u bilan birga boʻlgan uchta hamkasbi tomonidan tasdiqlandi.
+forensic | sud-tibbiy, kriminalistik | Kriminalistlar jabrlanuvchining paltosidan boʻyoq izlarini topdilar.
+burden of proof | isbotlash majburiyati | Jinoiy ishda isbotlash majburiyati ayblov tomoniga yuklatiladi.
+## Ceza hukuku
+offence | huquqbuzarlik, jinoyat | Litsenziyasiz mashina haydash koʻp mamlakatlarda jiddiy huquqbuzarlik hisoblanadi.
+felony | ogʻir jinoyat | Qoʻshma Shtatlarda oʻgʻirlik odatda ogʻir jinoyat sifatida tasniflanadi.
+misdemeanour | uncha ogʻir boʻlmagan jinoyat, huquqbuzarlik | Arzon narsalarni doʻkondan oʻgʻirlash koʻpincha yengil jinoyat sifatida koʻriladi.
+accomplice | jinoyat sherigi | Politsiya hamon uning sherigini qidirmoqda.
+premeditated | oldindan rejalashtirilgan | Sud hujum oldindan rejalashtirilgan degan xulosaga keldi.
+mitigating circumstances | yengillashtiruvchi holatlar | Hakim yengillashtiruvchi holatlarni hisobga olib, jazoni yengillashtirdi.
+culpable | aybdor, javobgar | Tergov rahbariyatni baxtsiz hodisada aybdor deb topdi.
+criminal record | sudlanganlik tarixi | Sudlanganlik tarixiga ega boʻlgan nomzodlar baʼzi ishlarni topishda qiynalishi mumkin.
+statute of limitations | daʼvo muddati, jinoyat uchun javobgarlik muddati | Bunday turdagi firibgarlik uchun daʼvo muddati oʻn yilni tashkil qiladi.
+extradite | jinoyatchini ekstraditsiya qilmoq | Shubhali shaxs Germaniyada sud qilinishi uchun Ispaniyadan ekstraditsiya qilindi.
+## Suç türleri
+fraud | firibgarlik | Buxgalter yirik miqyosdagi soliq firibgarligi uchun hibsga olindi.
+embezzlement | oʻzlashtirish, talon-toroj qilish | Xazinachi klub mablagʻlarini oʻzlashtirganlikda ayblandi.
+bribery | poraxoʻrlik | Ikki nafar amaldor shartnoma bilan bogʻliq poraxoʻrlik uchun qamoqqa tashlandi.
+forgery | qalbakilashtirish | Surat mohirlik bilan qilingan soxta asar ekanligi maʼlum boʻldi.
+extortion | tovlamachilik, qoʻrqitib pul undirish | Toʻda mahalliy doʻkon egalaridan tovlamachilik yoʻli bilan pul topgan.
+manslaughter | ehtiyotsizlik orqali odam oʻldirish | Haydovchi qotillikda emas, balki ehtiyotsizlik orqali odam oʻldirishda aybdor deb topildi.
+arson | qasddan oʻt qoʻyish | Tergovchilar omborxonadagi yongʻin qasddan oʻt qoʻyish natijasida kelib chiqqaniga ishonishmoqda.
+burglary | uy oʻgʻriligi | Bu qishda hududda uy oʻgʻriliklari koʻpaydi.
+identity theft | shaxsiy maʼlumotlarni oʻgʻirlash | Shaxsiy maʼlumotlarni oʻgʻirlash internetdagi eng tez rivojlanayotgan jinoyatlardan biridir.
+money laundering | pullarni yuvish | Bank pullarni yuvishning oldini ololmagani uchun jarimaga tortildi.
+## Cezalar ve infaz
+sentence | sud hukmini chiqirmoq, jazo bermoq | U uch yillik qamoq jazosiga hukm qilindi.
+custodial sentence | ozodlikdan mahrum qilish jazosi | Birinchi jinoyat uchun qamoq jazosi berilishi dargumon.
+suspended sentence | shartli jazo | U shartli jazo va ikki yuz soatlik jamoat ishlari jazosini oldi.
+community service | jamoat ishlari jazosi | Oʻsmirlarga mahalliy bogʻda jamoat ishlarini bajarish buyurildi.
+parole | shartli ravishda ozod qilish | U jazoning yarmini oʻtagach, shartli ravishda ozod qilindi.
+house arrest | uy qamogʻi | Hakim sud majlisigacha uni uy qamogʻiga hukm qildi.
+restitution | zararni qoplash, kompensatsiya | Sud kompaniyaga aldangan har bir mijozga zararni qoplashni buyurdi.
+life imprisonment | umrbod qamoq jazosi | Koʻp mamlakatlarda umrbod qamoq eng ogʻir jazo hisoblanadi.
+pardon | afv etish | Yillar davom etgan harakatlardan soʻng uning oilasi nihoyat uni afv ettirishga erishdi.
+miscarriage of justice | adolatsizlik, sud xatosi | Bu ish hozirda dahshatli sud xatosi sifatida koʻrilmoqda.
+## Medeni hukuk
+lawsuit | sud daʼvosi | Aholisi kimyo zavodiga qarshi sud daʼvosi kiritdi.
+sue | sudga bermoq | U oʻz uy egasini depozitini qaytarib olish uchun sudga bermoqda.
+damages | zararni qoplash uchun toʻlov, kompensatsiya | Sud unga yetkazilgan jarohatlar uchun tovon puli undirib berdi.
+negligence | loqaydlik, eʼtiborsizlik | Kasalxona eʼtiborsizlikda aybdor deb topildi.
+settlement | kelishuv, sulh | Ikki tomon ish sudga borishigacha oʻzaro kelishuvga erishdi.
+injunction | taqiqlovchi sud buyrugʻi | Sud buzish ishlarini toʻxtatish uchun taqiqlovchi buyruq chiqardi.
+liable | javobgar (huquqiy) | Ota-onalar bolalari yetkazgan zarar uchun javobgar boʻlishi mumkin.
+tort | fuqarolik huquqbuzarligi | Tuxmat koʻp mamlakatlarda jinoyatdan koʻra fuqarolik huquqbuzarligi sanaladi.
+defamation | tuxmat, obroʻga putur yetkazish | Aktyor gazetaga qarshi ochgan tuxmat ishida gʻalaba qozondi.
+child support | bola uchun aliment | Ajrashgandan soʻng Lukas har oy bola uchun aliment toʻlashga rozi boʻldi.
+## Mülkiyet ve miras
+deed | mulk huquqini tasdiqlovchi hujjat, tapicha | Uyning hujjatini xavfsiz joyda saqlang.
+title | mulk huquqi | Sotuvchi yerga nisbatan shubhasiz mulk huquqiga ega ekanligini isbotlashi kerak.
+freehold | mulk (muddatsiz egalik) | Ular binoning ijarasiga emas, balki toʻliq mulkiga egalik qilishadi.
+easement | servitut, oʻtish huquqi | Servitut qoʻshnilarga bogʻimizdagi yoʻlakdan foydalanishga imkon beradi.
+will | vasiyatnoma | U vasiyatnomasini vafot etishidan biroz oldin oʻzgartirdi.
+testator | vasiyat qiluvchi | Vasiyat qiluvchi oʻz mol-mulkining katta qismini bolalar xayriya jamgʻarmasiga qoldirdi.
+beneficiary | benefitsiar, merosxoʻr | Anna xolasining hayot sugʻurtasining yagona benefitsiaridir.
+estate | meros qoldirilgan mol-mulk | Uning merosini taqsimlash ikki yil davom etdi.
+executor | vasiyatnoma ijrochisi | Uning akasi vasiyatnoma ijrochisi etib tayinlandi.
+probate | vasiyatnomani tasdiqlash | Vasiyatnoma tasdiqlanmaguncha uy sotilishi mumkin emas.
+## Anayasa ve haklar
+constitution | konstitutsiya | Konstitutsiya soʻz erkinligini kafolatlaydi.
+amendment | qonunga oʻzgartirish | Parlament saylov qonunchiligiga oʻzgartirish kiritishni maʼqulladi.
+statute | qonun | Ijarachilarning huquqlari alohida qonunda belgilab qoʻyilgan.
+jurisdiction | yurisdiksiya, sud vakolati | Bu ish mazkur sudning yurisdiksiyasiga kirmaydi.
+due process | qonuniy sud jarayoni | Jinoyatda ayblangan har bir kishi adolatli sud jarayoni huquqiga ega.
+habeas corpus | shaxs erkinligi kafolati | Habeas corpus fuqarolarni qonuniy asoslarsiz hibsda saqlanishdan himoya qiladi.
+civil liberties | fuqarolik erkinliklari | Tanqidchilar yangi qonun fuqarolik erkinliklarini cheklashidan qoʻrqishmoqda.
+unconstitutional | konstitutsiyaga zid | Oliy sud soliqni konstitutsiyaga zid deb eʼlon qildi.
+enact | qonun sifatida qabul qilmoq | Islohot oylardan beri davom etgan muhokamalardan keyin qabul qilindi.
+repeal | bekor qilmoq (qonunni) | Hukumat eski litsenziyalash qonunini bekor qilishni rejalashtirmoqda.
+## Hukuki kalıplar
+hereby | mazkur hujjat bilan | Men quyidagi maʼlumotlar toʻgʻriligini mazkur hujjat bilan tasdiqlayman.
+hereinafter | bundan buyon (matnda) | Bundan buyon Sotuvchi deb ataluvchi kompaniya shartlarga rozi boʻladi.
+aforementioned | yuqorida zikr etilgan | Yuqorida zikr etilgan mulk oy oxirigacha boʻshatilishi kerak.
+pursuant to | asosida, muvofiq ravishda | Toʻrtinchi moddaga muvofiq, ijarachi ikki oy oldin ogohlantirishi kerak.
+null and void | oʻz kuchini yoʻqotgan, haqiqiy emas | Tahdid ostida imzolangan har qanday kelishuv oʻz kuchini yoʻqotgan hisoblanadi.
+without prejudice | huquqlar saqlangan holda | Taklif kelgusidagi har qanday sud harakatiga oid huquqlar saqlangan holda qilindi.
+in good faith | vijdonan, yaxshi niyatda | Ikki tomon ham muzokaralarni yaxshi niyatda olib borishga kelishadi.
+beyond reasonable doubt | shubhasiz ravishda, gumondan xoli tarzda | Ayblov tomoni aybni shubhasiz ravishda isbotlashi kerak.
+bona fide | vijdonan, haqiqiy | Faqatgina haqiqiy aholi toʻxtash joyi uchun ruxsatnoma olishi mumkin.
+de facto | amalda, de-fakto | U guruhning amaldagi rahbariga aylandi.

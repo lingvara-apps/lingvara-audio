@@ -1,0 +1,100 @@
+# UNIT: Iqtisod va pul | Moliya, bank, bozor, shaxsiy byudjet
+## Shaxsiy byudjet
+budget | byudjet | Xarajatlarimizni nazorat qilish uchun oylik byudjet tuzdik.
+expenses | xarajatlar | Eng katta oylik xarajatlarimiz ijara va elektr energiyasidir.
+income | daromad | Anna daromadining taxminan uchdan bir qismini ijaraga sarflaydi.
+disposable income | ixtiyordagi daromad | Ijarani toʻlagandan keyin Annaning qoʻlida juda oz ixtiyordagi daromad qoladi.
+spending | sarf-xarajat | Oziq-ovqatga qilgan xarajatimiz oʻtgan yildan beri ikki baravar koʻpaydi.
+budget for | rejalashtirmoq | Mashina taʼmiri kabi kutilmagan xarajatlar uchun pul ajratishni unutmang.
+cut back on | qisqartirmoq | Agar pul yigʻmoqchi boʻlsak, tashqarida ovqatlanishni kamaytirishimiz kerak.
+frugal | tejamkor | Yuki tejamkor hayot kechiradi va maoshining yarmini yigʻib boradi.
+late fee | kechikish jarimasi | Agar hisobvaraqni muddatidan keyin toʻlasangiz, kechikish jarimasi olinadi.
+overspend | ortiqcha sarflamoq | Kechasi internetdan xarid qilganda ortiqcha pul sarflab yuborish oson.
+## Bank ishi
+current account | talab qilib olinguncha omonat hisobvaragʻi | Maoshim toʻgʻridan-toʻgʻri hisobvaragʻimga tushadi.
+savings account | jamgʻarma hisobvaragʻi | U qizining taʼlimi uchun jamgʻarma hisobvaragʻini ochdi.
+pay in | hisobga pul qoʻymoq | Lukas dushanba kuni bankdagi oʻzining birinchi maosh chekini hisobiga qoʻydi.
+ATM | banomat | Stansiya yaqinida naqd pul yechib oladigan banomat bormi?
+bank charges | bank xizmati haqlari | Baʼzi hisobvaraqlarda xalqaro toʻlovlar uchun yuqori bank xizmati haqlari mavjud.
+interest | foiz | Bu bank omonatlarga juda kam foiz toʻlaydi.
+interest rate | foiz stavkasi | Markaziy bank oʻtgan oydagi foiz stavkasini yana oshirdi.
+PIN | PIN-kod | Bank kartangiz PIN-kodini hech qachon hech kimga aytmang.
+overdraft | overdraft (hisobdan ortiqcha pul yechish) | Favqulodda taʼmirlash ishlarini toʻlash uchun u overdraftdan foydalandi.
+statement | koʻchirma | Bank menga har oyning oxirida hisob koʻchirmasini yuboradi.
+## Qarz va kredit
+payday | maosh kuni | Ali har doim maosh kunidan bir necha kun oldin pulsiz qoladi.
+mortgage | uy-joy krediti | Uy-joy kreditini toʻlab tugatishimiz yigirma besh yil vaqt oladi.
+debt | qarz | Koʻp talabalar universitetni katta qarz bilan tugatadilar.
+repay | qaytarib bermoq | Siz umumiy summani besh yil ichida toʻliq qaytarishingiz kerak.
+personal loan | isteʼmol krediti | Diyego yangi oshxonasining pulini toʻlash uchun isteʼmol krediti oldi.
+debt-free | qarzsiz | Oʻn yillik mashaqqatli mehnatdan soʻng Umar nihoyat qarzsiz boʻldi.
+pay off | qarzni toʻlab qutulmoq | Emre oxir-oqibat talabalik kreditini oʻtgan yili toʻlab qutuldi.
+cash-strapped | pulga tanqis | Pulga tanqis boʻlgan koʻplab oilalar oziq-ovqat sotib olish uchun kredit kartalaridan foydalanadilar.
+credit score | kredit reytingi | Yaxshi kredit reytingi uy-joy kreditini olishni osonlashtiradi.
+in debt | qarzlari botqogʻiga botgan | Toʻydan keyin yosh juftlik katta qarzlarga botgan edi.
+## Bozor va narxlar
+economy | iqtisodiyot | Iqtisodiyot oʻtgan yili sekin, ammo barqaror oʻsdi.
+inflation | inflyatsiya | Yuqori inflyatsiya pulimiz har oy kamroq narsa sotib olishini anglatadi.
+supply | taklif | Noqulay ob-havo yangi sabzavotlar taklifini kamaytirdi.
+demand | talab | Yevropada elektr avtomobillarga talab ortib bormoqda.
+market | bozor | Uy-joy bozori soʻnggi oylarda sekinlashdi.
+rise (rose, risen) | oʻsmoq | Oziq-ovqat narxlari bahordan beri keskin koʻtarildi.
+fall (fell, fallen) | tushmoq | Neft narxi bir hafta ichida oʻn foizga pasaydi.
+recession | tanazzul | Tanazzul davrida koʻplab kichik bizneslar yopilib ketdi.
+cost of living | yashash qiymati | Katta shaharlarda yashash qiymati oʻsishda davom etmoqda.
+affordable | hamyonbop | Yoshlar hamyonbop uy-joy topishda qiynalmoqda.
+## Investitsiya
+invest | sarmoya kiritmoq | Mariya mukofot pulining bir qismini nafaqa jamgʻarmasiga investitsiya qilishga qaror qildi.
+investment | sarmoya | Kvartira sotib olish uzoq muddatli yaxshi sarmoya boʻlishi mumkin.
+shares | aksiyalar | Ali kichik texnologiya kompaniyasining aksiyalarini sotib oldi.
+stock market | qimmatli qogʻozlar bozori | Yangilikdan soʻng fond bozori keskin pastga tushdi.
+profit | foyda | Kafe oʻzining birinchi yilida ozgina foyda koʻrdi.
+loss | zarar | Kompaniya ketma-ket uchinchi yil zarar koʻrganini eʼlon qildi.
+risky | xavfli | Barcha pulingizni bitta kompaniyaga tikish juda xavfli.
+pension | nafaqa | Bobom nafaqa puli evaziga farovon yashamoqda.
+return | daromad | Koʻchmas mulk odatda koʻp yillar davomida barqaror daromad keltiradi.
+wealth | boylik | Koʻp mamlakatlarda boylik teng taqsimlanmagan.
+## Ish va maosh
+salary | oylik maosh | Uning yangi ishi ancha yuqori maosh taklif qiladi.
+wage | ish haqi | Minimal ish haqi yil boshida oshdi.
+pay rise | maosh oshishi | Lukas ikki yildan soʻng rahbaridan maoshini oshirishni soʻradi.
+bonus | mukofot puli | Jamoadagi hamma Rojdestvoda mukofot puli oldi.
+earn | ishlab topmoq | Kamila internetdan fransuz tilini oʻrgatib qoʻshimcha pul topadi.
+tax | soliq | Maoshimning katta qismi daromad soligʻiga ketadi.
+well-paid | yaxshi maosh toʻlanadigan | Muhandislik koʻpgina mamlakatlarda yaxshi maosh toʻlanadigan kasb hisoblanadi.
+unemployment | ishsizlik | Ishsizlik soʻnggi oʻn yildagi eng past darajaga tushdi.
+make a living | tirikchilik qilmoq | Musiqachi sifatida tirikchilik qilish qiyin.
+benefits | qoʻshimcha imtiyozlar | Ishning xususiy tibbiy sugʻurta kabi yaxshi qoʻshimcha imtiyozlari bor.
+## Xaridlar va pul
+voucher | vaucher (sovgʻa cheki) | Xolam menga kitob doʻkoni uchun sovgʻa vaucherini berdi.
+discount | chegirma | Bu kitobxonlarda talabalar uchun oʻn foizli chegirma bor.
+impulse buy | oʻylab oʻtirmasdan qilingan xarid | Oʻsha qimmat chiroq impulsiv xarid edi, endi esa afsusdaman.
+haggle | savdolashmoq | Baʼzi bozorlarda narx ustidan savdolashish odatiy hol hisoblanadi.
+overpriced | haddan tashqari qimmat | Aeroportdagi ichimliklar doimo haddan tashqari qimmat boʻladi.
+rip-off | oʻta qimmat narsa | Bir buterbrod uchun oʻn besh yevro toʻlash bu sof talon-taroj!
+cashback | keshbek | Kartam har bir xarid uchun ikki foiz keshbek beradi.
+refundable | qaytarib beriladigan | Bu chipta qaytarib berilmaydi, shuning uchun sanalaringizga aniq koʻz bilan qarang.
+purchase | xarid | Mebel kabi yirik xaridlar puxta rejalashtirilishi kerak.
+value for money | narxiga arziydigan | Mehmonxona sodda, ammo narxiga nisbatan juda ajoyib edi.
+## Kompaniya va savdo
+small business | kichik biznes | Energiya narxi koʻtarilganda koʻplab kichik bizneslar qiynaladi.
+startup | startap | Maria kichik texnologik startapda ishlash uchun bankdagi ishini tashlab ketdi.
+trade | savdo | Ikki mamlakat oʻrtasidagi savdo bu yil oʻsdi.
+export | eksport qilmoq | Turkiya Yevropaga koʻplab meva va toʻqimachilik mahsulotlarini eksport qiladi.
+import | import qilmoq | Britaniya oʻz bananlarining koʻp qismini Markaziy Amerikadan import qiladi.
+bankrupt | bankrot | Aviakompaniya bankrot boʻldi va minglab odamlar ishdan ayrildi.
+earnings | daromadlar | Kompaniyaning daromadlari bu yil sakkiz foizga oʻsdi.
+consumer | isteʼmolchi | Isteʼmolchilar bu yil kiyim-kechakka kamroq pul sarflamoqda.
+goods | mollar | Kema bir necha million dollarlik mollarni tashiydi.
+invoice | schyot-faktura | Ish tugagach, iltimos, bizga schyot-faktura yuboring.
+## Pulga oid iboralar va maqollar
+foot the bill | xarajatlarni toʻlamoq | Kompaniya mehmonxona va ovqatlanish xarajatlarimizni oʻz zimmasiga oldi.
+pay through the nose | juda qimmat narx toʻlamoq | Festival vaqtida mehmonxona xonasi uchun juda qimmat narx toʻladik.
+tighten your belt | belni mahkam bogʻlamoq (tejamkorlikka oʻtmoq) | Men yangi ish topgunimcha belimizni mahkam bogʻlab turishimizga toʻgʻri keladi.
+save up | pul yigʻmoq | Sofiya Avstraliyaga sayohat qilish uchun pul yigʻmoqda.
+split the bill | hisob-kitobni boʻlishib olmoq | Keling, hisobni boʻlishib olamiz; toʻrttamiz, shuning uchun oson.
+broke | pulsiz, yalangʻoch | Bu oqshom koʻchaga chiqa olmayman; maosh kunigacha butunlay pulsizman.
+well-off | badavlat | Uning oilasi ancha badavlat va ikkita uyga ega.
+on a tight budget | qattiq tejamkorlik bilan | Biz Italiya boʻylab qattiq tejamkorlik bilan sayohat qildik.
+money doesn't grow on trees | pul daraxtda oʻsmaydi | Chiroqlarni oʻchiring; pul daraxtda oʻsmaydi!
+nest egg | qora kun uchun jamgʻarma | Ularning nafaqaga chiqqach yashashlari uchun yaxshigina jamgʻarmasi bor.
