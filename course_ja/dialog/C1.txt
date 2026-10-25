@@ -1,0 +1,45 @@
+# DIALOG: Kurumsal ve akademik konuşmalar | Japonca C1: müzakere, tartışma ve resmî üslup | Haruka | Emre
+## Konferanstan sonra
+A | エムレさん、先ほどのご発表、大変興味深く拝聴いたしました。 | Emre Bey, az önceki sunumunuzu büyük ilgiyle dinledim.
+B | ありがとうございます。時間が足りず、肝心の考察が駆け足になってしまいました。 | Teşekkür ederim. Süre yetmediği için asıl tartışma kısmını aceleye getirmek zorunda kaldım.
+A | 一点だけ伺いたいのですが、調査対象を都市部に限定された理由は何でしょうか。 | Bir tek şunu sormak istiyorum: Araştırma kapsamını neden kentlerle sınırladınız?
+B | 鋭いご指摘ですね。正直に申し上げると、予算と期間の制約によるところが大きいんです。 | Yerinde bir soru. Açıkçası bunun büyük ölçüde bütçe ve süre kısıtlarından kaynaklandığını söylemeliyim.
+A | なるほど。ただ、それですと結論を一般化するのは難しいのではないでしょうか。 | Anlıyorum. Ama o zaman sonuçları genellemek zor olmaz mı?
+B | おっしゃるとおりです。論文では、その点を限界として明記するつもりです。 | Haklısınız. Makalede bu noktayı bir sınırlılık olarak açıkça belirteceğim.
+A | 地方のデータについては、うちの研究室に蓄積がありますので、よろしければ共有いたしますよ。 | Kırsal veriler konusunda bizim laboratuvarda birikim var, isterseniz paylaşabiliriz.
+B | 本当ですか。それは願ってもないお話です。ぜひ共同研究の形で進められればと思います。 | Gerçekten mi? Bu tam istediğim bir teklif. Ortak araştırma şeklinde ilerleyebilirsek çok sevinirim.
+A | では、来週改めてオンラインで打ち合わせをしましょう。日程は追ってご連絡いたします。 | O hâlde gelecek hafta çevrim içi bir toplantı yapalım. Tarihi sonra bildiririm.
+B | 承知いたしました。今後とも、どうぞよろしくお願い申し上げます。 | Anlaşıldı. Bundan sonra da desteğinizi rica ederim.
+## Sözleşme müzakeresi
+A | 本日はご足労いただき、ありがとうございます。早速ですが、契約条件についてご相談させてください。 | Bugün zahmet edip geldiğiniz için teşekkürler. Hemen konuya girelim, sözleşme şartlarını görüşmek istiyorum.
+B | よろしくお願いいたします。先日お送りした見積もりは、ご確認いただけましたでしょうか。 | Ben teşekkür ederim. Geçen gün gönderdiğimiz teklifi inceleme fırsatınız oldu mu?
+A | はい、拝見しました。率直に申し上げて、単価がこちらの想定をやや上回っております。 | Evet, inceledim. Açık konuşmak gerekirse birim fiyat beklentimizin biraz üzerinde.
+B | 原材料の高騰を踏まえますと、これ以上の値下げは正直厳しいのですが。 | Hammadde fiyatlarındaki artışı göz önüne alırsak daha fazla indirim açıkçası zor.
+A | 事情は重々承知しております。その代わり、発注量を当初の一・五倍に増やすことも検討しております。 | Durumunuzu çok iyi anlıyorum. Buna karşılık sipariş miktarını başlangıçtakinin bir buçuk katına çıkarmayı düşünüyoruz.
+B | それでしたら、話は変わってまいります。数量次第では、五パーセント程度の調整は可能かと存じます。 | O zaman durum değişir. Miktara bağlı olarak yüzde beş civarında bir düzenleme mümkün olabilir.
+A | ありがとうございます。あわせて、納期が遅れた場合の違約金の条項も見直していただけますか。 | Teşekkür ederim. Ayrıca teslim gecikirse uygulanacak cezai şart maddesini de gözden geçirebilir misiniz?
+B | 不可抗力による遅延は対象外とする、という但し書きを加えることでいかがでしょう。 | Mücbir sebeplerden kaynaklanan gecikmelerin kapsam dışı tutulacağına dair bir şerh eklesek nasıl olur?
+A | 妥当なご提案だと思います。社内で協議の上、今週中にお返事いたします。 | Makul bir öneri bence. Şirket içinde görüştükten sonra bu hafta içinde cevap vereceğim.
+B | かしこまりました。前向きなご検討をお待ちしております。 | Anlaşıldı. Olumlu bir değerlendirme bekliyoruz.
+## Şantiye koordinasyon toplantısı
+A | では、定例の工程会議を始めます。まず、躯体工事の進捗から報告をお願いします。 | O hâlde rutin iş programı toplantısına başlıyoruz. Önce kaba inşaatın ilerlemesini raporlayın lütfen.
+B | 十二階のスラブの打設が昨日完了しました。ただ、寒波の影響で養生に時間がかかりそうです。 | On ikinci kat döşemesinin betonu dün döküldü. Ancak soğuk hava dalgası yüzünden kür uzun sürecek gibi.
+A | 工程表に対して、現時点でどの程度の遅れが出ていますか。 | İş programına göre şu an ne kadar gecikme var?
+B | 約五日です。型枠の転用を工夫すれば、来月末までには取り戻せる見込みです。 | Yaklaşık beş gün. Kalıpların yeniden kullanımını iyi planlarsak gelecek ay sonuna kadar telafi edebiliriz.
+A | わかりました。設備の業者との調整は大丈夫ですか。配管の取り合いで揉めていると聞きましたが。 | Anladım. Tesisat firmasıyla koordinasyon sorunsuz mu? Boru güzergâhı yüzünden anlaşmazlık olduğunu duydum.
+B | はい、梁の貫通位置で図面に食い違いがありました。設計事務所に照会して、昨日回答を得ています。 | Evet, kirişteki geçiş deliklerinin yerinde çizimler arasında uyuşmazlık vardı. Mimarlık bürosuna sorduk, dün cevap geldi.
+A | 設計変更になる場合は、施主への報告と追加工事の見積もりも忘れないでください。 | Proje değişikliği olursa yapı sahibine bildirmeyi ve ek iş teklifini de unutmayın.
+B | 承知しました。それから、来週から足場の解体が始まるので、安全管理の徹底をお願いします。 | Anlaşıldı. Bir de gelecek hafta iskele sökümü başlıyor, iş güvenliğine çok dikkat edilmesini rica ediyorum.
+A | 了解です。朝礼で改めて注意喚起します。ほかに何かありますか。 | Tamam. Sabah toplantısında yeniden uyarırım. Başka bir şey var mı?
+B | 以上です。議事録は本日中にまとめて、関係者各位に送付いたします。 | Bu kadar. Toplantı tutanağını bugün içinde hazırlayıp tüm ilgililere göndereceğim.
+## Edebiyat üzerine bir sohbet
+A | 最近、漱石の『こころ』を読み返したんだけど、若い頃とは全然違う印象を受けたの。 | Son zamanlarda Sōseki'nin "Kokoro"sunu yeniden okudum, gençliğimdekinden bambaşka bir izlenim edindim.
+B | わかるなあ。僕も学生の頃は、先生の苦悩がいまひとつ腑に落ちなかったよ。 | Seni anlıyorum. Ben de öğrenciyken "Sensei"nin acısını tam kavrayamamıştım.
+A | 今読むと、友人を裏切った自責の念が痛いほど伝わってくる。 | Şimdi okuyunca arkadaşına ihanet etmenin verdiği vicdan azabı insanı acıtacak kadar hissediliyor.
+B | 語り手が若い「私」だというのも巧みだよね。読者は「私」と一緒に謎を追っていく。 | Anlatıcının genç "ben" olması da çok ustaca. Okur "ben"le birlikte sırrın peşine düşüyor.
+A | そうそう。前半の何気ない場面が、全部後半の伏線になっているのよね。 | Evet evet. İlk yarıdaki sıradan sahnelerin hepsi ikinci yarı için ipucu olarak ekilmiş.
+B | 明治の終わりという時代背景も、単なる飾りじゃなくて、作品の主題と深く結びついていると思う。 | Meiji döneminin sonu olan tarihsel arka plan da bir süs değil, bence eserin temasıyla derinden bağlantılı.
+A | 古いものが終わり、新しい個人主義が生まれる時代の孤独、ということかしら。 | Eskinin bittiği, yeni bireyciliğin doğduğu bir dönemin yalnızlığı mı demek istiyorsun?
+B | まさにそれ。百年以上前の小説なのに、現代の僕たちにも通じる普遍性がある。 | Tam olarak o. Yüz yıldan eski bir roman ama bugünkü bize de hitap eden bir evrenselliği var.
+A | だからこそ古典は読み継がれるのね。今度、読書会で取り上げてみない？ | Klasiklerin kuşaktan kuşağa okunmasının nedeni de bu demek. Bir dahaki okuma grubunda bunu ele almaya ne dersin?
+B | いいね。じゃあ、それぞれ印象に残った一節を持ち寄ることにしよう。 | İyi fikir. O zaman herkes aklında kalan bir bölümü getirsin.
