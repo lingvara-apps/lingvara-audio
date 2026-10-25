@@ -9,7 +9,7 @@ a gravura | gravür, baskı resim | isim (d) | A exposição reúne gravuras de 
 o mosaico | mozaik | isim (e) | As calçadas de Copacabana formam um mosaico de pedras portuguesas. | Copacabana kaldırımları Portekiz taşlarından bir mozaik oluşturuyor.
 o azulejo | çini karo | isim (e) | Os azulejos azuis da fachada contam a história da cidade. | Cephedeki mavi çini karolar şehrin tarihini anlatıyor.
 o esboço | eskiz, taslak | isim (e) | Antes de pintar o mural, o artista fez dezenas de esboços. | Sanatçı duvar resmini yapmadan önce onlarca eskiz çizdi.
-o grafite | grafiti | isim (e) | O grafite colorido transformou o muro cinza da escola. | Renkli grafiti okulun gri duvarını dönüştürdü.
+a arte urbana | sokak sanatı | isim (d) | A arte urbana transformou os muros cinzentos do bairro em galeria. | Sokak sanatı mahallenin gri duvarlarını bir galeriye dönüştürdü.
 ## Resmin öğeleri
 a composição | kompozisyon | isim (d) | A composição do quadro conduz o olhar para o centro da cena. | Tablonun kompozisyonu bakışı sahnenin merkezine yönlendiriyor.
 a perspectiva | perspektif | isim (d) | Os pintores do Renascimento dominaram a perspectiva linear. | Rönesans ressamları doğrusal perspektife hâkim oldu.
@@ -22,10 +22,10 @@ a natureza-morta | natürmort | isim (d) | A natureza-morta mostra frutas tropic
 o autorretrato | otoportre | isim (e) | A pintora fez dezenas de autorretratos ao longo da vida. | Ressam ömrü boyunca onlarca otoportre yaptı.
 a tonalidade | ton (renk) | isim (d) | As tonalidades de verde lembram a floresta depois da chuva. | Yeşilin tonları yağmur sonrası ormanı anımsatıyor.
 ## Heykel ve el sanatları
-a escultura | heykel | isim (d) | A escultura de pedra-sabão decora a entrada da igreja. | Sabuntaşı heykel kilisenin girişini süslüyor.
+a estatuária | heykelcilik, heykeller bütünü | isim (d) | A estatuária barroca mineira impressiona pela expressão dos rostos. | Minas Gerais barok heykelciliği yüzlerin ifadesiyle etkiliyor.
 o entalhe | oyma | isim (e) | Os entalhes em madeira do altar são cobertos de ouro. | Sunaktaki ahşap oymalar altınla kaplı.
 a cerâmica | seramik | isim (d) | A cerâmica marajoara é uma das mais antigas do Brasil. | Marajó seramiği Brezilya'nın en eskilerinden biridir.
-o artesanato | el sanatları | isim (e) | A feira vende artesanato de palha, couro e barro. | Pazarda hasır, deri ve kilden el sanatları satılıyor.
+a cestaria | sepetçilik | isim (d) | A cestaria indígena usa fibras de palmeira tingidas com sementes. | Yerli sepetçiliği tohumlarla boyanmış palmiye liflerini kullanıyor.
 a talha dourada | yaldızlı ahşap oyma | isim (d) | A talha dourada é típica das igrejas barrocas mineiras. | Yaldızlı ahşap oyma Minas Gerais'in barok kiliselerine özgüdür.
 o relevo escultórico | kabartma | isim (e) | O relevo escultórico na porta mostra cenas da vida rural. | Kapıdaki kabartma kırsal yaşamdan sahneler gösteriyor.
 o molde | kalıp (döküm) | isim (e) | O escultor preparou um molde de gesso antes da fundição. | Heykeltıraş dökümden önce alçıdan bir kalıp hazırladı.
@@ -33,9 +33,9 @@ o bronze | bronz | isim (e) | A estátua de bronze foi colocada no centro da pra
 a instalação | enstalasyon | isim (d) | A instalação ocupa uma sala inteira com redes de pesca. | Enstalasyon bütün bir salonu balık ağlarıyla dolduruyor.
 a renda de bilro | kopanaki dantel | isim (d) | As rendeiras do Ceará fazem renda de bilro há gerações. | Ceará'lı dantelciler kuşaklardır kopanaki dantel yapıyor.
 ## Müzik kuramı
-a melodia | ezgi, melodi | isim (d) | A melodia simples da canção é fácil de memorizar. | Şarkının basit ezgisi kolayca akılda kalıyor.
+o contraponto musical | kontrpuan | isim (e) | O contraponto musical combina duas melodias independentes ao mesmo tempo. | Kontrpuan iki bağımsız ezgiyi aynı anda birleştirir.
 a harmonia | armoni | isim (d) | A bossa nova trouxe uma harmonia sofisticada para a música popular. | Bossa nova popüler müziğe sofistike bir armoni getirdi.
-o ritmo | ritim | isim (e) | O ritmo do samba nasce da batida do surdo. | Sambanın ritmi surdo davulunun vuruşundan doğar.
+a cadência | kadans, ritmik akış | isim (d) | A cadência lenta do samba-canção combina com letras tristes. | Samba-canção'nun ağır kadansı hüzünlü sözlere uyuyor.
 o compasso | ölçü (müzik) | isim (e) | A valsa é escrita em compasso de três tempos. | Vals üç zamanlı ölçüde yazılır.
 o acorde | akor | isim (e) | Ele aprendeu os primeiros acordes de violão com o avô. | Gitarın ilk akorlarını dedesinden öğrendi.
 a partitura | nota kâğıdı, partisyon | isim (d) | Os músicos da orquestra leem a partitura durante o concerto. | Orkestra müzisyenleri konser sırasında partisyonu okuyor.
@@ -45,23 +45,23 @@ o tempo musical | tempo (müzikte hız) | isim (e) | O maestro pediu um tempo mu
 a síncope | senkop | isim (d) | A síncope é uma marca rítmica do choro e do samba. | Senkop choro ve sambanın ritmik bir özelliğidir.
 ## Çalgılar ve topluluklar
 a orquestra sinfônica | senfoni orkestrası | isim (d) | A orquestra sinfônica apresenta concertos gratuitos no parque. | Senfoni orkestrası parkta ücretsiz konserler veriyor.
-o maestro | orkestra şefi | isim (e) | O maestro entrou no palco e a plateia ficou em silêncio. | Orkestra şefi sahneye çıkınca seyirciler sustu.
+a regência | orkestra şefliği | isim (d) | Ela estudou regência e hoje dirige a orquestra da cidade. | Orkestra şefliği okudu ve bugün şehrin orkestrasını yönetiyor.
 o naipe | çalgı grubu (orkestrada) | isim (e) | O naipe de cordas ensaiou separadamente durante a manhã. | Yaylı çalgılar grubu sabah boyunca ayrı prova yaptı.
-o cavaquinho | cavaquinho (küçük dört telli gitar) | isim (e) | O cavaquinho dá o brilho característico às rodas de samba. | Cavaquinho samba toplantılarına kendine özgü parlaklığını verir.
-o berimbau | berimbau (yaylı vurmalı çalgı) | isim (e) | O berimbau comanda o ritmo do jogo na roda de capoeira. | Berimbau capoeira halkasında oyunun ritmini yönetir.
-a sanfona | akordeon | isim (d) | A sanfona é o coração do forró pé de serra. | Akordeon geleneksel forronun kalbidir.
+o pandeiro | def | isim (e) | O pandeiro marca o ritmo do choro com batidas rápidas e precisas. | Def choro'nun ritmini hızlı ve kesin vuruşlarla belirler.
+o surdo | surdo (büyük bas davul) | isim (e) | O surdo dá a pulsação grave que sustenta toda a bateria da escola. | Surdo okulun bütün davul grubunu taşıyan pes vuruşu verir.
+a viola caipira | viola caipira (on telli kır gitarı) | isim (d) | A viola caipira tem dez cordas e um som metálico muito particular. | Viola caipira'nın on teli ve kendine özgü metalik bir sesi vardır.
 o violoncelo | çello | isim (e) | O som do violoncelo encheu a pequena igreja. | Çellonun sesi küçük kiliseyi doldurdu.
 a percussão | vurmalı çalgılar | isim (d) | A percussão da escola de samba tem mais de duzentos ritmistas. | Samba okulunun vurmalı çalgı grubunda iki yüzden fazla müzisyen var.
-o coral | koro | isim (e) | O coral da universidade cantou músicas folclóricas no Natal. | Üniversite korosu Noel'de halk şarkıları söyledi.
+o quarteto de cordas | yaylı çalgılar dörtlüsü | isim (e) | O quarteto de cordas tocou na abertura da exposição. | Yaylı çalgılar dörtlüsü serginin açılışında çaldı.
 o solista | solist | isim (e) | O solista improvisou um trecho longo e foi muito aplaudido. | Solist uzun bir bölümü doğaçladı ve çok alkışlandı.
 ## Tiyatro
 a encenação | sahneleme | isim (d) | A nova encenação da peça usa projeções e música ao vivo. | Oyunun yeni sahnelemesi projeksiyonlar ve canlı müzik kullanıyor.
-o elenco | oyuncu kadrosu | isim (e) | O elenco é formado por atores de três estados diferentes. | Oyuncu kadrosu üç farklı eyaletten oyunculardan oluşuyor.
-o cenário | dekor | isim (e) | O cenário minimalista tem apenas uma cadeira e uma janela. | Minimalist dekorda yalnızca bir sandalye ve bir pencere var.
-o figurino | kostüm tasarımı | isim (e) | O figurino da peça foi inspirado nas roupas dos anos vinte. | Oyunun kostümleri yirmili yılların giysilerinden esinlendi.
+a direção de atores | oyuncu yönetimi | isim (d) | A direção de atores foi o ponto forte da montagem. | Oyuncu yönetimi sahnelemenin güçlü yanıydı.
+a cenografia | sahne tasarımı | isim (d) | A cenografia minimalista tem apenas uma cadeira e uma janela suspensa. | Minimalist sahne tasarımında yalnızca bir sandalye ve asılı bir pencere var.
+o figurinista | kostüm tasarımcısı | isim (e) | O figurinista se inspirou nas roupas dos anos vinte para a peça. | Kostüm tasarımcısı oyun için yirmili yılların giysilerinden esinlendi.
 a coxia | kulis | isim (d) | Os atores esperam na coxia antes de entrar em cena. | Oyuncular sahneye çıkmadan önce kuliste bekliyor.
 o monólogo | monolog | isim (e) | O monólogo de quarenta minutos exige enorme concentração. | Kırk dakikalık monolog büyük bir yoğunlaşma gerektiriyor.
-a estreia | prömiyer, ilk gösterim | isim (d) | A estreia do espetáculo foi adiada por causa da chuva. | Gösterinin prömiyeri yağmur yüzünden ertelendi.
+a temporada de estreia | ilk gösterim dönemi | isim (d) | A temporada de estreia do espetáculo foi adiada por causa da chuva. | Gösterinin ilk gösterim dönemi yağmur yüzünden ertelendi.
 a temporada | sezon, gösterim dönemi | isim (d) | A peça ficou em cartaz durante uma temporada de três meses. | Oyun üç aylık bir sezon boyunca afişte kaldı.
 o ensaio geral | genel prova | isim (e) | No ensaio geral, os atores já usam o figurino completo. | Genel provada oyuncular kostümlerin tamamını giyiyor.
 a dramaturga | oyun yazarı (kadın) | isim (d) | A dramaturga escreveu a peça a partir de cartas de imigrantes. | Oyun yazarı oyunu göçmen mektuplarından yola çıkarak yazdı.
@@ -77,14 +77,14 @@ a soprano | soprano | isim (d) | A soprano alcançou as notas altíssimas da ár
 o passo de dança | dans figürü | isim (e) | Cada passo de dança do frevo tem um nome próprio. | Frevo'nun her dans figürünün kendine özgü bir adı var.
 a dança contemporânea | çağdaş dans | isim (d) | A dança contemporânea rompe com as regras do balé clássico. | Çağdaş dans klasik balenin kurallarını yıkıyor.
 ## Sinema
-o roteirista | senarist | isim (e) | O roteirista reescreveu o final cinco vezes antes das filmagens. | Senarist çekimlerden önce sonu beş kez yeniden yazdı.
+a decupagem | çekim dökümü | isim (d) | Na decupagem, o diretor divide cada cena em planos detalhados. | Çekim dökümünde yönetmen her sahneyi ayrıntılı planlara böler.
 o plano-sequência | plan-sekans (kesintisiz çekim) | isim (e) | O filme abre com um plano-sequência de oito minutos. | Film sekiz dakikalık kesintisiz bir çekimle açılıyor.
 a montagem | kurgu (film) | isim (d) | A montagem rápida cria um clima de tensão. | Hızlı kurgu bir gerilim havası yaratıyor.
 o enquadramento | kadraj | isim (e) | O enquadramento fechado mostra só os olhos da personagem. | Dar kadraj karakterin yalnızca gözlerini gösteriyor.
 a fotografia | görüntü yönetimi | isim (d) | A fotografia do filme valoriza a luz dourada do sertão. | Filmin görüntü yönetimi sertão'nun altın ışığını öne çıkarıyor.
-a trilha sonora | film müziği | isim (d) | A trilha sonora tem músicas de compositores nordestinos. | Film müziğinde Kuzeydoğulu bestecilerin şarkıları var.
-o longa-metragem | uzun metrajlı film | isim (e) | O primeiro longa-metragem do diretor foi premiado em festivais. | Yönetmenin ilk uzun metrajlı filmi festivallerde ödül aldı.
-o curta-metragem | kısa film | isim (e) | Os alunos produziram um curta-metragem sobre o bairro. | Öğrenciler mahalle hakkında bir kısa film çekti.
+a sonoplastia | ses efektleri tasarımı | isim (d) | A sonoplastia recria o barulho da chuva com papel e grãos de arroz. | Ses efektleri tasarımı yağmur sesini kâğıt ve pirinç taneleriyle yeniden yaratıyor.
+a direção de arte | sanat yönetimi | isim (d) | A direção de arte recriou o Rio dos anos cinquenta com perfeição. | Sanat yönetimi ellili yılların Rio'sunu kusursuzca yeniden yarattı.
+o contraplano | ters açı çekim | isim (e) | No contraplano, vemos a reação da mãe ao ouvir a notícia. | Ters açı çekimde annenin haberi duyduğundaki tepkisini görüyoruz.
 o Cinema Novo | Cinema Novo (Yeni Sinema akımı) | isim (e) | O Cinema Novo mostrava a realidade social com pouco dinheiro. | Cinema Novo toplumsal gerçekliği az parayla gösteriyordu.
 a legendagem | altyazılama | isim (d) | A legendagem do filme foi feita em seis idiomas. | Filmin altyazılaması altı dilde yapıldı.
 ## Estetik kavramlar
