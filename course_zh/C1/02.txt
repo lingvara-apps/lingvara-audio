@@ -34,7 +34,7 @@
 盈亏 (yíngkuī) | kâr ve zarar | isim | 这家分店开业两年才实现盈亏平衡。 | Bu şube açıldıktan ancak iki yıl sonra başa baş noktasına ulaştı.
 ## Muhasebe ve bütçe
 核算 (hésuàn) | hesaplamak, muhasebeleştirmek | fiil | 每个项目的成本都要单独核算。 | Her projenin maliyeti ayrı ayrı hesaplanmalı.
-报销 (bàoxiāo) | masraf beyanıyla geri almak | fiil | 出差的交通费可以凭发票报销。 | İş seyahatindeki ulaşım masrafları fatura karşılığında geri alınabilir.
+对账 (duìzhàng) | hesap mutabakatı yapmak | fiil | 每个月底，财务部都要和供应商对账。 | Her ay sonunda muhasebe departmanı tedarikçilerle hesap mutabakatı yapar.
 账目 (zhàngmù) | hesap kayıtları | isim | 新来的会计发现账目有几处对不上。 | Yeni gelen muhasebeci hesap kayıtlarında birkaç tutarsızlık buldu.
 开支 (kāizhī) | harcama, gider | isim | 公司决定压缩不必要的行政开支。 | Şirket gereksiz idari harcamaları kısmaya karar verdi.
 拨款 (bōkuǎn) | ödenek; ödenek ayırmak | isim | 市政府为这个项目追加了一笔拨款。 | Belediye bu projeye ek bir ödenek ayırdı.
@@ -44,8 +44,8 @@
 预支 (yùzhī) | avans almak | fiil | 他向公司预支了一个月的工资。 | Şirketten bir aylık maaşını avans olarak aldı.
 超支 (chāozhī) | bütçeyi aşmak | fiil | 由于材料涨价，工程已经超支了百分之二十。 | Malzeme zamları yüzünden inşaat bütçeyi yüzde yirmi aştı.
 ## Sözleşmeler
-签订 (qiāndìng) | (anlaşma) imzalamak, akdetmek | fiil | 双方于今天上午正式签订了合作协议。 | Taraflar bu sabah iş birliği anlaşmasını resmen imzaladı.
-条款 (tiáokuǎn) | madde, hüküm | isim | 签字之前，请仔细阅读每一项条款。 | İmzalamadan önce lütfen her maddeyi dikkatle okuyun.
+缔约 (dìyuē) | antlaşma akdetmek | fiil | 缔约双方应当遵循诚实信用原则。 | Akit taraflar dürüstlük ve güven ilkesine uymalıdır.
+免责条款 (miǎnzé tiáokuǎn) | sorumluluğu sınırlama maddesi | isim | 合同中的免责条款对消费者明显不公平。 | Sözleşmedeki sorumluluğu sınırlama maddesi tüketici açısından açıkça adaletsiz.
 甲方 (jiǎfāng) | birinci taraf, işveren taraf | isim | 甲方有权在验收不合格时拒绝付款。 | İşveren taraf, kabul muayenesi başarısız olursa ödemeyi reddetme hakkına sahiptir.
 乙方 (yǐfāng) | ikinci taraf, yüklenici taraf | isim | 乙方应在三十日内完成全部工程。 | Yüklenici taraf tüm işi otuz gün içinde tamamlamalıdır.
 违约 (wéiyuē) | sözleşmeyi ihlal etmek | fiil | 如果一方违约，另一方可以要求赔偿损失。 | Taraflardan biri sözleşmeyi ihlal ederse diğeri zararının tazminini isteyebilir.
@@ -59,32 +59,32 @@
 磋商 (cuōshāng) | müzakere etmek, istişare etmek | fiil | 经过三轮磋商，双方终于达成一致。 | Üç tur müzakerenin ardından taraflar sonunda uzlaştı.
 议价 (yìjià) | pazarlık etmek | fiil | 大宗采购通常还有议价的空间。 | Toplu alımlarda genellikle hâlâ pazarlık payı vardır.
 底线 (dǐxiàn) | kırmızı çizgi, en alt sınır | isim | 这个价格是我们的底线，不能再低了。 | Bu fiyat bizim en alt sınırımız, daha aşağı inemeyiz.
-报价 (bàojià) | fiyat teklifi vermek | fiil | 请您在周五之前给我们报价。 | Lütfen cumaya kadar bize fiyat teklifi verin.
+询价 (xúnjià) | fiyat teklifi istemek | fiil | 我们已经向三家供应商询价，正在比较。 | Üç tedarikçiden fiyat teklifi istedik, şu an karşılaştırıyoruz.
 双赢 (shuāngyíng) | kazan-kazan | isim | 我们追求的是长期合作和双赢。 | Hedefimiz uzun vadeli iş birliği ve kazan-kazan durumu.
-共识 (gòngshí) | ortak görüş, mutabakat | isim | 在交货时间上，双方还没有达成共识。 | Teslim süresi konusunda taraflar henüz mutabakata varmadı.
+僵局 (jiāngjú) | çıkmaz, kilitlenme | isim | 谈判陷入僵局，双方都不肯让步。 | Müzakere çıkmaza girdi, iki taraf da geri adım atmıyor.
 搁置 (gēzhì) | askıya almak, rafa kaldırmak | fiil | 由于资金不足，这个项目暂时被搁置了。 | Fon yetersizliği nedeniyle bu proje şimdilik rafa kaldırıldı.
 敲定 (qiāodìng) | kesinleştirmek, karara bağlamak | fiil | 合作细节下周就能敲定。 | İş birliğinin ayrıntıları gelecek hafta kesinleşebilir.
 筹码 (chóumǎ) | pazarlık kozu | isim | 独家技术是我们谈判中最大的筹码。 | Bize özgü teknoloji, müzakeredeki en büyük kozumuz.
 ## İnsan kaynakları
 编制 (biānzhì) | kadro | isim | 这个部门的编制只有十五个人。 | Bu departmanın kadrosu yalnızca on beş kişilik.
-绩效 (jìxiào) | performans | isim | 年终奖金与个人绩效直接挂钩。 | Yıl sonu primi doğrudan bireysel performansa bağlı.
+考勤 (kǎoqín) | devam takibi (iş yerinde) | isim | 公司用人脸识别系统记录员工考勤。 | Şirket çalışanların devam durumunu yüz tanıma sistemiyle kaydediyor.
 考核 (kǎohé) | değerlendirmek (personel) | fiil | 新员工试用期满后要接受考核。 | Yeni çalışanlar deneme süresi dolunca değerlendirmeye alınır.
-晋升 (jìnshēng) | terfi etmek | fiil | 她入职三年就晋升为部门经理。 | İşe girdikten üç yıl sonra departman müdürlüğüne terfi etti.
+调岗 (diàogǎng) | görev yeri değiştirmek | fiil | 由于部门合并，她被调岗到了行政部。 | Departmanlar birleşince idari departmana kaydırıldı.
 薪酬 (xīnchóu) | ücret ve yan haklar | isim | 公司正在重新设计薪酬体系。 | Şirket ücret sistemini yeniden tasarlıyor.
-裁员 (cáiyuán) | personel çıkarmak, işten çıkarma | fiil | 受经济形势影响，不少企业开始裁员。 | Ekonomik koşullar yüzünden birçok şirket personel çıkarmaya başladı.
-试用期 (shìyòngqī) | deneme süresi | isim | 试用期一般为三个月。 | Deneme süresi genellikle üç aydır.
+遣散费 (qiǎnsànfèi) | işten çıkarma tazminatı | isim | 公司按照工作年限向被辞退的员工支付遣散费。 | Şirket işten çıkarılan çalışanlara çalışma yılına göre tazminat ödüyor.
+转正 (zhuǎnzhèng) | kadroya geçmek (deneme süresinden sonra) | fiil | 他表现出色，提前一个月转正了。 | Performansı çok iyi olduğu için bir ay erken kadroya geçti.
 猎头 (liètóu) | yönetici avcısı (headhunter) | isim | 有猎头打电话给他，推荐了一个高薪职位。 | Bir yönetici avcısı onu arayıp yüksek maaşlı bir pozisyon önerdi.
 离职 (lízhí) | işten ayrılmak | fiil | 离职前要提前三十天书面通知公司。 | İşten ayrılmadan otuz gün önce şirkete yazılı bildirimde bulunmak gerekir.
 竞业限制 (jìngyè xiànzhì) | rekabet yasağı | isim | 根据竞业限制条款，他两年内不能去竞争对手公司工作。 | Rekabet yasağı maddesine göre iki yıl boyunca rakip şirkette çalışamaz.
 ## Toplantı ve yazışma
-议程 (yìchéng) | gündem | isim | 会议议程已经提前发到大家的邮箱里了。 | Toplantı gündemi önceden herkesin e-postasına gönderildi.
+列席 (lièxí) | toplantıya oy hakkı olmadan katılmak | fiil | 财务总监列席了这次董事会会议。 | Mali işler direktörü bu yönetim kurulu toplantısına oy hakkı olmadan katıldı.
 纪要 (jìyào) | toplantı tutanağı | isim | 请小李负责整理这次会议的纪要。 | Bu toplantının tutanağını Xiao Li hazırlasın lütfen.
 备忘录 (bèiwànglù) | muhtıra, not | isim | 双方签署了一份合作备忘录。 | Taraflar bir iş birliği muhtırası imzaladı.
 抄送 (chāosòng) | bilgi (CC) olarak göndermek | fiil | 这封邮件请抄送给财务部。 | Bu e-postayı lütfen muhasebe departmanına da bilgi olarak gönderin.
-汇报 (huìbào) | (üste) rapor vermek | fiil | 每周一上午各部门负责人要向总经理汇报工作。 | Her pazartesi sabahı departman sorumluları genel müdüre işleri raporlar.
+述职 (shùzhí) | görev değerlendirme raporu sunmak | fiil | 年底各部门经理都要向董事会述职。 | Yıl sonunda tüm departman müdürleri yönetim kuruluna görev değerlendirme raporu sunar.
 牵头 (qiāntóu) | öncülük etmek, başı çekmek | fiil | 这个跨部门项目由技术部牵头负责。 | Bu departmanlar arası projeye teknik departman öncülük ediyor.
 对接 (duìjiē) | koordine olmak, irtibat kurmak | fiil | 具体细节请您直接和我们的项目经理对接。 | Ayrıntılar için lütfen doğrudan proje müdürümüzle irtibat kurun.
-落实 (luòshí) | uygulamaya koymak, somutlaştırmak | fiil | 会上定下的措施要尽快落实到位。 | Toplantıda alınan önlemler bir an önce eksiksiz uygulanmalı.
+部署 (bùshǔ) | (görev, plan) dağıtmak ve düzenlemek | fiil | 总经理在会上部署了下半年的重点工作。 | Genel müdür toplantıda yılın ikinci yarısının öncelikli işlerini planlayıp dağıttı.
 跟进 (gēnjìn) | takip etmek, peşini bırakmamak | fiil | 这个客户的需求请你继续跟进。 | Bu müşterinin taleplerini takip etmeye devam et lütfen.
 函件 (hánjiàn) | resmî yazı, mektup | isim | 对方的函件已经转交法务部处理。 | Karşı tarafın resmî yazısı işlem için hukuk departmanına iletildi.
 ## Pazarlama ve tedarik
@@ -96,7 +96,7 @@
 细分市场 (xìfēn shìchǎng) | pazar segmenti | isim | 小企业更适合专注于某个细分市场。 | Küçük işletmeler için belirli bir pazar segmentine odaklanmak daha uygundur.
 分销 (fēnxiāo) | dağıtım yapmak (ticari) | fiil | 这家公司负责在西北五省分销我们的产品。 | Bu firma ürünlerimizin kuzeybatıdaki beş eyalette dağıtımını üstleniyor.
 供应链 (gōngyìngliàn) | tedarik zinciri | isim | 疫情期间，全球供应链受到了严重冲击。 | Salgın döneminde küresel tedarik zinciri ciddi bir darbe aldı.
-库存 (kùcún) | stok | isim | 年底前我们要尽量清理库存。 | Yıl sonundan önce stokları olabildiğince eritmemiz gerekiyor.
+积压 (jīyā) | (mal) birikip elde kalmak | fiil | 由于销售不畅，仓库里积压了大量产品。 | Satışlar durgun olduğu için depoda çok sayıda ürün birikti.
 采购 (cǎigòu) | satın almak (kurumsal), tedarik etmek | fiil | 所有办公用品都由行政部统一采购。 | Tüm büro malzemeleri idari departman tarafından toplu olarak satın alınır.
 ## Risk ve uyum
 合规 (héguī) | mevzuata uygunluk | isim | 公司专门成立了合规部门。 | Şirket özel olarak bir mevzuat uyum departmanı kurdu.
