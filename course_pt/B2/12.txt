@@ -1,0 +1,111 @@
+# UNIT: Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
+## Sözcük türleri
+o substantivo | isim (dilbilgisi) | isim (e) | Em português, todo substantivo tem gênero masculino ou feminino. | Portekizcede her ismin eril ya da dişil bir cinsiyeti vardır.
+o adjetivo | sıfat (dilbilgisi) | isim (e) | O adjetivo geralmente vem depois do substantivo em português. | Portekizcede sıfat genellikle isimden sonra gelir.
+o verbo | fiil (dilbilgisi) | isim (e) | O verbo ter é um dos mais usados na língua. | Ter fiili dilde en çok kullanılanlardan biridir.
+o advérbio | zarf (dilbilgisi) | isim (e) | Muitos advérbios terminam em mente, como rapidamente. | Pek çok zarf rapidamente gibi -mente ile biter.
+a preposição | edat | isim (d) | A preposição em se junta com o artigo e vira no. | Em edatı artikelle birleşerek no olur.
+o pronome | zamir | isim (e) | No Brasil, o pronome você é muito mais usado que tu. | Brezilya'da você zamiri tu'dan çok daha fazla kullanılır.
+o artigo | tanımlık, artikel | isim (e) | Antes de nomes de pessoas, alguns brasileiros usam o artigo. | Bazı Brezilyalılar kişi adlarından önce artikel kullanır.
+a conjunção | bağlaç (dilbilgisi) | isim (d) | A conjunção embora exige o verbo no subjuntivo. | Embora bağlacı fiilin dilek kipinde olmasını gerektirir.
+o sujeito | özne | isim (e) | Em muitas frases, o sujeito fica oculto no verbo. | Pek çok cümlede özne fiilin içinde gizlidir.
+o predicado | yüklem | isim (e) | A professora pediu para sublinhar o predicado de cada frase. | Öğretmen her cümlenin yüklemini altını çizmemizi istedi.
+## Ses ve yazım
+a sílaba | hece | isim (d) | A palavra borboleta tem quatro sílabas: bor, bo, le, ta. | Borboleta kelimesi dört heceden oluşur: bor, bo, le, ta.
+a vogal | ünlü | isim (d) | O português tem vogais nasais que não existem em turco. | Portekizcede Türkçede olmayan genizsi ünlüler var.
+a consoante | ünsüz | isim (d) | Em turco, quase nenhuma palavra começa com duas consoantes. | Türkçede neredeyse hiçbir kelime iki ünsüzle başlamaz.
+o acento | vurgu işareti; vurgu | isim (e) | Sem o acento, a palavra avó vira avô. | Vurgu işareti değişince avó kelimesi avô olur.
+a pronúncia | telaffuz | isim (d) | A pronúncia do português de Portugal é bem diferente. | Portekiz Portekizcesinin telaffuzu oldukça farklı.
+a ortografia | yazım, imla | isim (d) | O novo acordo mudou a ortografia de algumas palavras. | Yeni anlaşma bazı kelimelerin yazımını değiştirdi.
+a pontuação | noktalama | isim (d) | Uma pontuação errada pode mudar o sentido da frase. | Yanlış noktalama cümlenin anlamını değiştirebilir.
+a vírgula | virgül | isim (d) | Não se usa vírgula entre o sujeito e o verbo. | Özne ile fiil arasına virgül konmaz.
+o til | tilde (~) | isim (e) | O til indica que a vogal é nasal, como em mão. | Tilde, mão'daki gibi ünlünün genizsi olduğunu gösterir.
+o hífen | kısa çizgi | isim (e) | Depois do acordo, muitas palavras perderam o hífen. | Anlaşmadan sonra pek çok kelime kısa çizgisini kaybetti.
+## Fiil çekimi
+a conjugação | çekim | isim (d) | A conjugação dos verbos irregulares exige muita prática. | Düzensiz fiillerin çekimi çok pratik gerektirir.
+o tempo verbal | fiil zamanı | isim (e) | O português tem mais tempos verbais do que o inglês. | Portekizcede İngilizceden daha fazla fiil zamanı var.
+o infinitivo | mastar | isim (e) | O português tem um infinitivo pessoal, com terminações próprias. | Portekizcede kendine özgü ekleri olan kişili bir mastar vardır.
+o gerúndio | ulaç (-ando, -endo) | isim (e) | No Brasil, usamos muito o gerúndio: estou falando, estou comendo. | Brezilya'da ulacı çok kullanırız: estou falando, estou comendo.
+o particípio | ortaç | isim (e) | Alguns verbos têm dois particípios, como aceitado e aceito. | Bazı fiillerin aceitado ve aceito gibi iki ortacı vardır.
+o subjuntivo | dilek kipi | isim (e) | O subjuntivo é um dos maiores desafios para os estrangeiros. | Dilek kipi yabancılar için en büyük zorluklardan biridir.
+o imperativo | emir kipi | isim (e) | Nas receitas, os verbos aparecem no imperativo. | Tariflerde fiiller emir kipinde yer alır.
+o singular | tekil | isim (e) | A palavra óculos não tem singular no uso comum. | Óculos kelimesinin günlük kullanımda tekili yoktur.
+o plural | çoğul | isim (e) | O plural de pão é pães, e o de mão é mãos. | Pão'nun çoğulu pães, mão'nunki mãos'tur.
+o feminino | dişil | isim (e) | O feminino de ator é atriz, não atora. | Ator'un dişili atriz'dir, atora değil.
+## Kelime bilgisi
+o vocabulário | kelime dağarcığı | isim (e) | Ler muito é a melhor forma de aumentar o vocabulário. | Çok okumak kelime dağarcığını genişletmenin en iyi yoludur.
+o sinônimo | eş anlamlı | isim (e) | Cachorro e cão são sinônimos, mas cachorro é mais comum. | Cachorro ve cão eş anlamlıdır ama cachorro daha yaygındır.
+o antônimo | zıt anlamlı | isim (e) | No dicionário, o antônimo de generoso é mesquinho. | Sözlükte generoso'nun zıt anlamlısı mesquinho'dur.
+o significado | anlam | isim (e) | Não sei o significado dessa palavra, vou procurar no dicionário. | Bu kelimenin anlamını bilmiyorum, sözlükte arayacağım.
+a expressão | ifade, deyim | isim (d) | Essa expressão é típica do Nordeste e ninguém entende aqui. | Bu ifade Kuzeydoğu'ya özgüdür ve burada kimse anlamaz.
+a gíria | argo | isim (d) | Os adolescentes inventam gírias novas todo ano. | Ergenler her yıl yeni argo sözcükler uydurur.
+o jargão | meslek dili, jargon | isim (e) | O médico explicou o exame sem usar jargão técnico. | Doktor tahlili teknik jargon kullanmadan açıkladı.
+o estrangeirismo | yabancı sözcük | isim (e) | Delivery e shopping são estrangeirismos comuns no Brasil. | Delivery ve shopping Brezilya'da yaygın yabancı sözcüklerdir.
+o prefixo | önek | isim (e) | O prefixo des indica o contrário, como em desfazer. | Des öneki desfazer'de olduğu gibi tersini belirtir.
+o sufixo | sonek | isim (e) | O sufixo inho é usado para formar o diminutivo. | Inho soneki küçültme biçimini oluşturmak için kullanılır.
+## Çeviri
+a tradução | çeviri | isim (d) | A tradução do livro levou dois anos para ficar pronta. | Kitabın çevirisinin hazır olması iki yıl sürdü.
+o tradutor | çevirmen | isim (e) | O tradutor manteve as piadas do original em turco. | Çevirmen orijinal metindeki esprileri Türkçede korudu.
+o intérprete | tercüman | isim (e) | A intérprete traduziu a palestra para a língua de sinais. | Tercüman konuşmayı işaret diline çevirdi.
+traduzir | çevirmek | fiil | É difícil traduzir a palavra saudade para outras línguas. | Saudade kelimesini başka dillere çevirmek zordur.
+o falso cognato | yanıltıcı benzer kelime | isim (e) | Puxar é um falso cognato para quem fala espanhol. | Puxar, İspanyolca konuşanlar için yanıltıcı benzer bir kelimedir.
+a dublagem | seslendirme, dublaj | isim (d) | Prefiro filmes com legenda, mas meus pais preferem a dublagem. | Ben altyazılı filmleri tercih ederim ama annemler dublajı seviyor.
+a tradução simultânea | simultane çeviri | isim (d) | O congresso ofereceu tradução simultânea em três línguas. | Kongre üç dilde simultane çeviri sundu.
+a revisão de texto | metin düzeltmesi | isim (d) | Antes de publicar, o livro passou por uma revisão de texto. | Yayımlanmadan önce kitap bir metin düzeltmesinden geçti.
+o glossário | sözlükçe | isim (e) | No fim do livro há um glossário com os termos técnicos. | Kitabın sonunda teknik terimlerin yer aldığı bir sözlükçe var.
+a nota do tradutor | çevirmen notu | isim (d) | Uma nota do tradutor explica o significado da expressão. | Bir çevirmen notu ifadenin anlamını açıklıyor.
+## Dil öğrenmek
+a língua materna | ana dil | isim (d) | A língua materna dela é o turco, mas fala português fluente. | Ana dili Türkçe ama Portekizceyi akıcı konuşuyor.
+a língua estrangeira | yabancı dil | isim (d) | Aprender uma língua estrangeira abre muitas portas. | Yabancı bir dil öğrenmek pek çok kapı açar.
+o idioma | dil (lisan) | isim (e) | Quantos idiomas você fala além do português? | Portekizce dışında kaç dil konuşuyorsun?
+a fluência | akıcılık | isim (d) | Para ganhar fluência, você precisa conversar todos os dias. | Akıcılık kazanmak için her gün konuşman gerekiyor.
+o poliglota | çok dil bilen kişi | isim (e) | O guia é poliglota e fala com turistas de todo lugar. | Rehber çok dil biliyor ve her yerden turistle konuşuyor.
+o falante nativo | anadili konuşucusu | isim (e) | Conversar com falantes nativos ajudou muito na minha pronúncia. | Anadili konuşucularıyla sohbet etmek telaffuzuma çok yardım etti.
+a imersão | dil ortamına dalma | isim (d) | Um mês de imersão no Brasil vale mais que um ano de curso. | Brezilya'da bir aylık dil ortamı bir yıllık kurstan daha değerli.
+a proficiência | yeterlilik (dil) | isim (d) | Para o mestrado, ela precisa de um certificado de proficiência. | Yüksek lisans için bir dil yeterlilik belgesine ihtiyacı var.
+o aprendiz | öğrenen, çırak | isim (e) | Todo aprendiz de idiomas passa por fases de desânimo. | Her dil öğrencisi moral bozukluğu dönemlerinden geçer.
+o bilinguismo | iki dillilik | isim (e) | O bilinguismo traz vantagens para o cérebro das crianças. | İki dillilik çocukların beynine avantajlar sağlar.
+## Dilbilim
+a linguística | dilbilim | isim (d) | Ela estuda linguística e pesquisa línguas indígenas. | Dilbilim okuyor ve yerli dilleri araştırıyor.
+o linguista | dilbilimci | isim (e) | O linguista explicou a origem africana de várias palavras brasileiras. | Dilbilimci birçok Brezilya kelimesinin Afrika kökenini açıkladı.
+a fonética | sesbilim | isim (d) | Na aula de fonética, aprendemos os sons nasais do português. | Sesbilim dersinde Portekizcenin genizsi seslerini öğrendik.
+a semântica | anlambilim | isim (d) | A semântica estuda o significado das palavras e frases. | Anlambilim kelimelerin ve cümlelerin anlamını inceler.
+a sintaxe | sözdizimi | isim (d) | A sintaxe do português permite mudar a ordem das palavras. | Portekizcenin sözdizimi kelime sırasını değiştirmeye izin verir.
+a morfologia | biçimbilim | isim (d) | A morfologia do turco é muito diferente da do português. | Türkçenin biçimbilimi Portekizceninkinden çok farklıdır.
+a etimologia | köken bilgisi, etimoloji | isim (d) | A etimologia da palavra abacaxi vem do tupi. | Abacaxi kelimesinin kökeni Tupi dilinden gelir.
+a variação linguística | dil çeşitliliği | isim (d) | A variação linguística mostra como o português muda de região para região. | Dil çeşitliliği Portekizcenin bölgeden bölgeye nasıl değiştiğini gösterir.
+a norma culta | standart dil | isim (d) | Nas provas, os alunos devem escrever segundo a norma culta. | Sınavlarda öğrenciler standart dile göre yazmalı.
+o preconceito linguístico | dilsel önyargı | isim (e) | Rir do sotaque dos outros é uma forma de preconceito linguístico. | Başkalarının şivesine gülmek bir dilsel önyargı biçimidir.
+## Dil fiilleri
+soletrar | harf harf söylemek, kodlamak | fiil | Pode soletrar o seu sobrenome, por favor? | Soyadınızı harf harf söyleyebilir misiniz lütfen?
+pronunciar | telaffuz etmek | fiil | Muitos estrangeiros não conseguem pronunciar o som de pão. | Pek çok yabancı pão'daki sesi telaffuz edemez.
+conjugar | çekmek (fiil) | fiil | As crianças aprendem a conjugar os verbos na escola. | Çocuklar fiil çekmeyi okulda öğrenir.
+redigir | kaleme almak | fiil | Ela redigiu a carta de apresentação em inglês e português. | Ön yazıyı İngilizce ve Portekizce kaleme aldı.
+acentuar | vurgu işareti koymak; vurgulamak | fiil | Não se esqueça de acentuar a palavra você. | Você kelimesine vurgu işareti koymayı unutma.
+abreviar | kısaltmak | fiil | Nas mensagens, os jovens abreviam quase todas as palavras. | Mesajlarda gençler neredeyse bütün kelimeleri kısaltıyor.
+articular | net telaffuz etmek; ifade etmek | fiil | O professor pede para articular bem cada sílaba. | Öğretmen her heceyi net telaffuz etmemizi istiyor.
+transcrever | yazıya geçirmek | fiil | A pesquisadora transcreveu todas as entrevistas gravadas. | Araştırmacı kaydedilen bütün röportajları yazıya geçirdi.
+definir | tanımlamak | fiil | É difícil definir exatamente o que é saudade. | Saudade'nin tam olarak ne olduğunu tanımlamak zor.
+parafrasear | başka sözcüklerle anlatmak | fiil | Tente parafrasear o texto com as suas próprias palavras. | Metni kendi sözcüklerinle anlatmaya çalış.
+## Dil sıfatları
+fluente | akıcı | sıfat | Depois de dois anos no Brasil, ela ficou fluente. | Brezilya'da iki yıl kaldıktan sonra akıcı konuşur oldu.
+gramatical | dilbilgisel | sıfat | O texto do aluno tem poucos erros gramaticais. | Öğrencinin metninde az sayıda dilbilgisi hatası var.
+coloquial | konuşma diline ait | sıfat | A linguagem coloquial é diferente da usada nos jornais. | Konuşma dili gazetelerde kullanılandan farklıdır.
+formal | resmî | sıfat | Num e-mail formal, evite gírias e abreviações. | Resmî bir e-postada argo ve kısaltmalardan kaçının.
+culto | eğitimli, kültürlü (dil) | sıfat | Ele fala de um jeito culto, cheio de palavras difíceis. | Zor kelimelerle dolu, kültürlü bir dille konuşuyor.
+literal | sözcüğü sözcüğüne | sıfat | A tradução literal da expressão não faz sentido em turco. | İfadenin sözcüğü sözcüğüne çevirisi Türkçede anlam taşımıyor.
+figurado | mecazi | sıfat | Ele usou a palavra no sentido figurado, não no literal. | Kelimeyi gerçek değil mecazi anlamda kullandı.
+ambíguo | belirsiz, iki anlamlı | sıfat | A frase ficou ambígua e cada um entendeu de um jeito. | Cümle iki anlamlı oldu ve herkes farklı anladı.
+regional | yöresel | sıfat | Mandioca, aipim e macaxeira são nomes regionais da mesma raiz. | Mandioca, aipim ve macaxeira aynı kökün yöresel adlarıdır.
+oral | sözlü | sıfat | A prova oral de português foi mais difícil que a escrita. | Portekizce sözlü sınavı yazılıdan daha zordu.
+## Dil deyimleri
+ao pé da letra | harfiyen, kelimesi kelimesine | deyim | Não leve ao pé da letra, foi só uma brincadeira. | Kelimesi kelimesine alma, sadece bir şakaydı.
+perder o fio da meada | lafın ipini kaybetmek | deyim | Fui interrompido e perdi o fio da meada. | Sözüm kesildi ve ne anlattığımı unuttum.
+arranhar o inglês | biraz İngilizce çatpat konuşmak | deyim | Eu só arranho o inglês, mas consigo pedir comida. | İngilizcem çat pat ama yemek siparişi verebiliyorum.
+enrolar a língua | dili dolaşmak | deyim | Quando fico nervoso, enrolo a língua e ninguém me entende. | Gerilince dilim dolaşıyor ve kimse beni anlamıyor.
+trocar as bolas | karıştırmak, şaşırmak | deyim | Desculpa, troquei as bolas e te chamei pelo nome da sua irmã. | Kusura bakma, karıştırdım ve sana kız kardeşinin adıyla seslendim.
+tirar as palavras da boca | ağzından almak | deyim | Você tirou as palavras da minha boca, eu ia dizer isso. | Ağzımdan aldın, tam bunu söyleyecektim.
+falar com as paredes | duvara konuşmak | deyim | Explico mil vezes, mas parece que estou falando com as paredes. | Bin kere açıklıyorum ama sanki duvara konuşuyorum.
+comer as palavras | kelimeleri yutmak | deyim | Ela fala rápido demais e come as palavras. | Çok hızlı konuşuyor ve kelimeleri yutuyor.
+em bom português | açık Türkçeyle (açıkça) | ifade | Vou dizer em bom português: você não vai sair hoje. | Açık açık söyleyeyim: bugün dışarı çıkmıyorsun.
+com todas as letras | açık seçik, net bir şekilde | ifade | Ela disse com todas as letras que não quer mais trabalhar aqui. | Artık burada çalışmak istemediğini açık seçik söyledi.
