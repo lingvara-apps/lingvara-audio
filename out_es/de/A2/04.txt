@@ -1,0 +1,111 @@
+# UNIT: Reise | Flug, Zug, Hotel, Ausflug, Dokumente
+## Flug und Flughafen
+facturar | einchecken, aufgeben | Wir müssen jetzt die Koffer einchecken.
+la tarjeta de embarque | Bordkarte, Flugschein | Zeigen Sie Ihre Bordkarte am Gate vor.
+el control de seguridad | Sicherheitskontrolle | Die Sicherheitskontrolle ist heute sehr voll.
+la aduana | Zoll | Wir sind problemlos durch den Zoll gegangen.
+el mostrador | Schalter, Theke | Fragen Sie am Informationsschalter nach.
+la compañía aérea | Fluggesellschaft, Airline | Unsere Fluggesellschaft hat die Flugzeit geändert.
+la puerta de embarque | Abfluggastraum, Boarding-Gate | Der Flug geht von Gate drei ab.
+el asiento de ventanilla | Fensterplatz, Fensterplatz im Flugzeug | Ich bevorzuge einen Fensterplatz, um die Landschaft zu sehen.
+perder el vuelo | den Flug verpassen | Ich möchte den Morgenflug nicht verpassen.
+la escala | Zwischenlandung, Zwischenstopp | Wir haben einen langen Zwischenstopp in Madrid.
+## Zug und Bus Reise
+el andén de pasajeros | Bahnsteig, Gleis | Der Schnellzug wartet auf Gleis fünf.
+el revisor | Schaffner, Kontrolleur | Der Schaffner bittet die Fahrgäste um ihre Fahrkarten.
+la estación de autobuses | Busbahnhof, ZOB | Der Busbahnhof ist weit vom Zentrum entfernt.
+el vagon | Waggon, Abteil | Unser Sitzplatz ist im dritten Waggon.
+perder el tren | den Zug verpassen | Lauf, sonst verpassen wir den Zug.
+el carril | Fahrspur, Spur | Der Bus fährt auf seiner eigenen Busspur.
+el trayecto | Strecke, Fahrt | Die Zugfahrt dauert zwei Stunden.
+el horario de salidas | Abfahrtszeiten, Fahrplan | Überprüfen Sie den Fahrplan auf dem digitalen Bildschirm.
+el billete sencillo | einfache Fahrkarte, Einzelfahrschein | Ich kaufe eine einfache Fahrkarte nach Valencia.
+la ventanilla de billetes | Fahrkartenschalter, Schalter | Es gibt eine lange Schlange am Schalter.
+## Hotel und Unterkunft
+la llave magnética | Zimmerkarte, Magnetkarte | Hier ist Ihre Zimmerkarte.
+la recepción | Rezeption, Empfang | Lassen Sie die Schlüssel vor dem Ausgehen an der Rezeption.
+la planta baja | Erdgeschoss, Parterre | Unser Zimmer befindet sich im Erdgeschoss.
+el servicio de habitaciones | Zimmerservice | Wir haben Abendessen über den Zimmerservice bestellt.
+el albergue | Jugendherberge, Hostel | Jugendliche ziehen es vor, in einer günstigen Herberge zu übernachten.
+la estancia | Aufenthalt | Wir haben unseren Aufenthalt im Hotel sehr genossen.
+la propina al botones | Trinkgeld für den Kofferträger, Portiertrinkgeld | Ich habe dem Kofferträger ein kleines Trinkgeld für die Koffer gegeben.
+el balcón con vistas | Balkon mit Aussicht, Aussichtsbalkon | Wir haben auf dem Balkon mit Meerblick zu Abend gegessen.
+el cambio de divisas | Geldwechsel, Währungsumtausch | Das Hotel bietet einen Geldwechsel-Service an.
+la salida del hotel | Hotel-Check-out, Abreise | Die Check-out-Zeit im Hotel ist zwölf Uhr.
+## Ausflug und Erkundung
+la excursión guiada | geführte Tour, Ausflug | Wir haben eine geführte Tour durch die Altstadt gebucht.
+el folleto turístico | Reisebroschüre, Prospekt | Ich habe alle Informationen in der Reisebroschüre gelesen.
+el monumento histórico | historisches Denkmal, Baudenkmal | Wir haben gestern ein wichtiges historisches Denkmal besucht.
+el plano de la ciudad | Stadtplan, Stadtkarte | Ein Stadtplan hilft Reisenden sehr.
+la catedral principal | Hauptkathedrale | Die Hauptkathedrale beeindruckt durch ihre Größe.
+el barrio antiguo | Altstadt, altes Viertel | Wir sind durch die engen Gassen der Altstadt gegangen.
+el mirador panorámico | Aussichtspunkt, Aussichtsterrasse | Vom Panoramablick aus kann man das ganze Tal sehen.
+la oficina de información | Informationsbüro, Touristeninformation | Wir haben im Informationsbüro nach den Museen gefragt.
+la zona peatonal | Fußgängerzone | Diese schöne Straße gehört zur Fußgängerzone.
+el recuerdo artesanal | handgemachtes Souvenir, Kunsthandwerk-Andenken | Ich habe ein schönes handgemachtes Souvenir für meine Mutter gekauft.
+## Dokumente und Geld
+el documento de identidad | Ausweis, Personalausweis | Tragen Sie Ihren Ausweis immer bei sich.
+el visado de entrada | Einreisevisum | Wir müssen das Einreisevisum rechtzeitig beantragen.
+la tarjeta de crédito | Kreditkarte | Kann ich diese Rechnung mit Kreditkarte bezahlen?
+el seguro médico | Krankenversicherung | Es ist Pflicht, mit einer internationalen Krankenversicherung zu reisen.
+el cajero automático | Geldautomat, ATM | Ich muss einen Geldautomaten in der Nähe suchen.
+la moneda local | Landeswährung, lokale Währung | Es ist nützlich, etwas Bargeld in Landeswährung zu haben.
+el impreso oficial | offizielles Formular | Wir haben an der Grenze ein offizielles Formular ausgefüllt.
+la fotocopia compulsada | beglaubigte Kopie | Ich habe eine beglaubigte Kopie des Passes vorgelegt.
+el carné de conducir | Führerschein | Wir haben ein Auto gemietet, indem wir den Führerschein gezeigt haben.
+la factura detallada | detaillierte Rechnung | Ich habe die detaillierte Rechnung aller Ausgaben angefordert.
+## Reise Probleme
+el retraso del vuelo | Flugverspätung | Die Flugverspätung zwang uns zu stundenlangem Warten.
+la huelga de transportes | Streik im Verkehrswesen, Transportstreik | Der Streik im Verkehrswesen hat unsere Pläne kompliziert.
+la pérdida de equipaje | Gepäckverlust | Ich habe den Gepäckverlust am Sonderschalter reklamiert.
+el billete caducado | abgelaufenes Ticket, ungültige Fahrkarte | Man kann nicht mit einem abgelaufenen Ticket reisen.
+la cancelación imprevista | unvorhergesehene Annullierung, unerwartete Absage | Wegen des Unwetters gab es eine unerwartete Absage.
+la avería técnica | technische Panne, technischer Defekt | Ein technischer Defekt stoppte den Zug auf der Strecke.
+la multa por exceso | Bußgeld wegen Geschwindigkeitsüberschreitung, Strafzettel | Wir haben beim Fahren eine Strafe für zu schnelles Fahren bezahlt.
+el despiste con la hora | Zeitfehler, Versehen mit der Uhrzeit | Ein Versehen mit der Uhrzeit hat uns fast das Schiff verpassen lassen.
+el robo de cartera | Taschendiebstahl, Geldbörsendiebstahl | Ich habe den Taschendiebstahl auf der örtlichen Polizeiwache gemeldet.
+el mal tiempo | schlechtes Wetter | Wegen des schlechten Wetters wurden alle Schiffsverbindungen eingestellt.
+## Autovermietung
+el coche de alquiler | Mietwagen | Wir haben den Mietwagen am Flughafen abgeholt.
+el depósito de gasolina | Benzintank, Tank | Wir haben den Benzintank vor der Rückgabe gefüllt.
+la tarifa diaria | Tagessatz, Tagesmietpreis | Der Tagessatz beinhaltet die komplette Basisversicherung.
+el GPS integrado | integriertes Navi, eingebautes GPS | Das neue Auto verfügt über ein sehr nützliches eingebautes GPS.
+la sillita infantil | Kindersitz | Wir haben einen Kindersitz für unseren kleinen Sohn bestellt.
+el kilometraje ilimitado | unbegrenzte Kilometer, Freikilometer | Wir haben die Option mit unbegrenzten Kilometern gewählt.
+la franquicia del seguro | Selbstbeteiligung der Versicherung, Versicherungshaftung | Wir haben die Bedingungen bezüglich der Selbstbeteiligung gelesen.
+el carné internacional | internationaler Führerschein | Ich habe meinen internationalen Führerschein vorgelegt, um im Ausland zu fahren.
+la devolución tardía | verspätete Rückgabe | Sie erheben einen Aufpreis für die verspätete Rückgabe des Fahrzeugs.
+el parte de accidente | Unfallbericht, Unfallprotokoll | Wir haben nach dem kleinen Zusammenstoß das Unfallprotokoll unterzeichnet.
+## Richtung und Verkehrsmittel
+el cruce de caminos | Kreuzung, Weggabelung | Biegen wir an der nächsten Kreuzung rechts ab.
+la rotonda principal | Kreisverkehr, Hauptverkehrskreisel | Nehmen Sie die zweite Ausfahrt im Kreisverkehr.
+el puente colgante | Hängebrücke | Wir haben den Fluss über eine beeindruckende Hängebrücke überquert.
+el túnel oscuro | dunkler Tunnel | Der Zug fuhr mehrere Minuten lang durch einen dunklen Tunnel.
+la señal de tráfico | Verkehrsschild | Man tut gut daran, auf jedes Verkehrsschild zu achten.
+el carril bici | Radweg, Fahrradspur | Neben der großen Allee gibt es einen sicheren Radweg.
+el peaje de la autopista | Autobahngebühr, Maut | Wir haben die Autobahnmaut mit Karte bezahlt.
+el desvío provisional | provisorische Umleitung, Baustellenumleitung | Die Bauarbeiten machen eine provisorische Umleitung erforderlich.
+la parada facultativa | Bedarfshaltestelle | Dieser Bus hält an der Bedarfshaltestelle nur, wenn man Bescheid gibt.
+el semáforo en rojo | rote Ampel | Wir hielten an, als wir die rote Ampel sahen.
+## Naturreisen und Camping
+la zona de acampada | Zeltplatz, Campingareal | Wir haben unseren Zeltplatz in der Nähe des Flusses aufgeschlagen.
+el saco de dormir | Schlafsack | Nachts kühlt es ab, benutze einen guten Schlafsack.
+la mochila de montaña | Wanderrucksack, Bergrucksack | Ich trage Wasser und Essen in meinem Wanderrucksack.
+la cantimplora | Feldflasche, Trinkflasche | Ich habe die Feldflasche mit frischem Wasser aus der Quelle gefüllt.
+la linterna frontal | Stirnlampe | Wir brauchen eine Stirnlampe, um nachts zu wandern.
+la brújula magnética | Kompass, Magnetkompass | Wir haben die richtige Route mit dem Kompass überprüft.
+el bastón de trekking | Trekkingstock, Wanderstock | Der Trekkingstock hilft bei steilen Anstiegen.
+la navaja multiusos | Taschenmesser, Multifunktionsmesser | Ein Taschenmesser ist im Gelände immer nützlich.
+el repelente de insectos | Insektenschutzmittel, Mückenspray | Tragen Sie Insektenschutzmittel auf, bevor Sie den Wald betreten.
+la estufa portátil | Gaskocher, tragbarer Kocher | Wir haben mit dem tragbaren Kocher etwas Warmes gekocht.
+## Reiseerinnerungen und Geschichten
+el diario de viaje | Reisetagebuch | Ich schreibe meine täglichen Eindrücke in das Reisetagebuch.
+la postal postal | Postkarte | Ich habe eine schöne Postkarte gekauft, um sie an meine Großeltern zu schicken.
+la cámara réflex | Spiegelreflexkamera | Ich habe wunderschöne Fotos mit meiner Spiegelreflexkamera gemacht.
+el mapa desplegable | Faltkarte, Klappkarte | Wir haben die Faltkarte auf dem Kaffeetisch ausgebreitet.
+el vídeo casero | Heimvideo, Urlaubsvideo | Wir haben während der Reise ein lustiges Urlaubsvideo aufgenommen.
+la anécdota divertida | lustige Anekdote, amüsante Geschichte | Er erzählte eine lustige Anekdote über den verpassten Zug.
+el sello en el pasaporte | Stempel im Pass, Passstempel | Ich sammle jeden Stempel im Pass wie eine Trophäe.
+la sonrisa amable | freundliches Lächeln | Ein freundliches Lächeln öffnet beim Reisen viele Türen.
+el momento inolvidable | unvergesslicher Moment | Den Sonnenuntergang zu sehen war ein unvergesslicher Moment.
+la costumbre local | lokaler Brauch, Ortsbrauch | Ich habe viel über den lokalen Brauch des Dorfes gelernt.

@@ -1,0 +1,111 @@
+# UNIT: Dienstleistungen und Einkaufen | Bank, Post, Friseur, Kleidung
+## Bankgeschäfte
+depositar | einzahlen, hinterlegen | Ich möchte Geld auf mein Konto einzahlen.
+transferir | überweisen, transferieren | Ich kann Geld per Internet überweisen.
+firmar | unterschreiben | Sie müssen auf dieser weißen Linie unterschreiben.
+el documento | Dokument, Urkunde | Ich brauche dieses offizielle unterschriebene Dokument.
+la cuenta bancaria | Bankkonto, Konto | Ein Bankkonto zu eröffnen dauert nicht lange.
+la moneda | Währung, Münze | Was ist die Währung dieses Landes?
+el cajero | Kassierer, Bankangestellter | Der Kassierer hat mir das abgezählte Geld übergeben.
+el formulario | Formular | Füllen Sie dieses Formular mit Ihren Daten aus.
+la firma | Unterschrift | Ihre Unterschrift ist hier obligatorisch.
+el banco central | Zentralbank, Notenbank | Die Zentralbank reguliert die nationale Wirtschaft.
+## Post und Pakete
+el paquete postal | Postpaket, Paket | Dieses Postpaket wiegt zwei Kilo.
+el sobre | Briefumschlag, Umschlag | Ich habe den Brief in den weißen Briefumschlag gesteckt.
+el remitente | Absender | Schreiben Sie den Absender oben hin.
+el cartero | Postbote | Der Postbote hat heute Morgen Briefe gebracht.
+entregar | zustellen, abliefern | Sie werden das Paket morgen zustellen.
+la carta certificada | Einschreiben, tauschuldbereinigter Brief | Ich habe das Einschreiben mit Rückschein verschickt.
+la dirección | Adresse, Anschrift | Schreiben Sie die richtige Adresse auf das Paket.
+pesar | wiegen | Wir werden den Kasten auf der Waage wiegen.
+el código postal | Postleitzahl | Wie ist die Postleitzahl deines Viertels?
+la oficina postal | Postamt, Post | Das Postamt schließt um fünf Uhr.
+## Friseur und Pflege
+cortar el pelo | Haare schneiden | Ich möchte die Haare etwas kurz schneiden lassen.
+teñir | färben (Haare usw.) | Ich ziehe es vor, mein Haar braun zu färben.
+el champú nutritivo | nährendes Shampoo, Pflegeschampoo | Dieses nährende Shampoo stärkt das Haar.
+las tijeras | Schere | Der Barbier benutzt eine sehr scharfe Schere.
+el secador de pelo | Haartrockner, Föhn | Stecke den Haartrockner im Badezimmer ein.
+el corte | Schnitt, Haarschnitt | Dieser neue Haarschnitt gefällt mir sehr.
+el tinte | Haarfarbe, Tönung | Die natürliche Haarfarbe schadet dem Haar nicht.
+peinar | kämmen, frisieren | Du musst dein Haar vor dem Weggehen kämmen.
+el espejo grande | großer Spiegel | Der große Spiegel hängt an der Wand.
+la cita previa | Termin, vorher vereinbarter Termin | Ich brauche einen Termin für morgen.
+## Kleidung und Mode
+probarse ropa | Kleidung anprobieren | Ich möchte Kleidung in der Umkleidekabine anprobieren.
+la chaqueta de cuero | Lederjacke | Sie hat eine schwarze Lederjacke gekauft.
+el abrigo de lana | Wollmantel | Dieser Wollmantel wärmt ziemlich gut.
+la camisa de algodón | Baumwollhemd | Ich bevorzuge das frische Baumwollhemd.
+los pantalones cortos | kurze Hose, Shorts | Im Sommer trage ich bequeme Shorts.
+el vestido largo | langes Kleid | Sie trägt ein langes blaues Kleid.
+la falda corta | kurzer Rock | Dieser kurze Rock ist sehr modern.
+el sombrero de paja | Strohhut | Ich trage einen Strohhut in der Sonne.
+las botas de invierno | Winterstiefel | Meine Winterstiefel sind wasserdicht.
+la bufanda de lana | Wollschal | Schütze deinen Hals mit dem Wollschal.
+## Schneiderei und Reparatur
+arreglar | reparieren, ändern | Der Schneider wird meine Hose ändern.
+encoger | einlaufen, eingehen (Stoff) | Dieses Hemd kann bei heißem Wasser einlaufen.
+alargar | verlängern | Können Sie die Ärmel dieser Jacke verlängern?
+cortar las mangas | die Ärmel kürzen | Ich werde die Ärmel dieses Hemdes kürzen.
+coser un botón | einen Knopf annähen | Ich muss einen Knopf an meinen Mantel annähen.
+la aguja | Nadel | Verwenden Sie eine feine Nadel für diesen Stoff.
+el hilo fuerte | starker Faden, reißfestes Garn | Dieser starke Faden reißt nicht leicht.
+el sastre | Schneider | Der Schneider arbeitet mit großer Präzision.
+la modista | Schneiderin | Die modische Schneiderin hat ein schönes Kleid entworfen.
+el remiendo | Flicken, Ausbesserung | Sie hat einen unsichtbaren Flicken an der Hose gemacht.
+## Reinigungsdienste
+lavar en seco | chemisch reinigen | Ich bevorzuge es, diesen eleganten Anzug chemisch zu reinigen.
+planchar la ropa | Kleidung bügeln | Du musst die Kleidung bügeln, bevor du sie wegräumst.
+la tintorería | chemische Reinigung, Reinigung | Ich habe den Mantel in der örtlichen Reinigung abgegeben.
+la mancha | Fleck | Dieser Kaffeefleck geht nicht leicht raus.
+limpiar a fondo | gründlich reinigen, von Grund auf putzen | Wir werden das ganze Haus gründlich reinigen.
+el detergente | Waschmittel, Spülmittel | Dieses Waschmittel schont die dunklen Farben.
+el suavizante | Weichspüler | Gib Weichspüler hinzu, damit es gut riecht.
+la tabla de planzar | Bügelbrett | Baue das Bügelbrett im Wohnzimmer auf.
+el tendedero | Wäscheständer, Wäscheleine | Ich habe die nasse Wäsche auf den Wäscheständer gehängt.
+la colada | Wäsche, Waschen | Heute ist die komplette Wäsche dran.
+## Elektronikreparatur
+reparar el teléfono | das Telefon reparieren | Sie können das Telefon in einer Stunde reparieren.
+la pantalla táctil | Touchscreen, Berührungsbildschirm | Der Touchscreen reagiert heute nicht gut.
+la batería recargable | wiederaufladbare Batterie, Akku | Dieser Akku hält sehr lange.
+el cargador rápido | Schnellladegerät | Ich habe mein Schnellladegerät zu Hause vergessen.
+el técnico | Techniker | Der Techniker hat den Laptop überprüft.
+la pieza de repuesto | Ersatzteil | Wir suchen ein originales Ersatzteil.
+el circuito | Stromkreis, Schaltung | Der elektrische Stromkreis hat Schaden genommen.
+reiniciar | neu starten | Versuche, das Gerät jetzt neu zu starten.
+la garantía | Garantie | Das Produkt hat zwei Jahre Garantie.
+el engranaj | Zahnrad [Mechanik] | Der Mechanismus braucht ein neues Zahnrad.
+## Optik und Brille
+graduar la vista | die Sehstärke bestimmen, Sehtest machen | Ich werde beim Optiker einen Sehtest machen lassen.
+las gafas de sol | Sonnenbrille | Ich trage eine Sonnenbrille gegen das Blenden.
+la montura ligera | leichtere Brillenfassung, leichtes Gestell | Ich habe ein leichtes und bequemes Gestell gewählt.
+la lente de contacto | Kontaktlinse | Ich trage beim Sport lieber Kontaktlinsen.
+el estuche | Brillenetui, Etui | Bewahre deine Brille im harten Etui auf.
+la graduación | Brillenstärke, Sehschärfe | Meine Sehstärke hat sich dieses Jahr geändert.
+el cristal antirreflejante | entspiegeltes Glas | Ich habe Gläser mit entspiegelnder Schicht gekauft.
+limpiar los cristales | die Gläser putzen | Verwenden Sie ein weiches Tuch, um die Gläser zu putzen.
+el oculista | Augenarzt | Der Augenarzt hat meine Augen ruhig untersucht.
+la agudeza visual | Sehschärfe | Ihre Sehschärfe ist heute ausgezeichnet.
+## Hotel- und Beherbergungsdienste
+hacer el check-in | einchecken, ankommen | Wir werden an der Rezeption einchecken.
+pedir la llave | den Schlüssel verlangen, nach dem Schlüssel fragen | Ich werde nach dem Schlüssel für unser Zimmer fragen.
+el servicio de despertador | Weckruf, Weckservice | Ich habe den frühen Weckservice angefordert.
+la propina generosa | großzügiges Trinkgeld | Er hat dem Kofferträger ein großzügiges Trinkgeld gegeben.
+la estancia agradable | angenehmer Aufenthalt | Wir hatten einen angenehmen Aufenthalt im Hotel.
+la cama doble | Doppelbett | Unser Zimmer hat ein Doppelbett.
+el folleto informativo | Informationsbroschüre | Ich habe die Informationsbroschüre über die Stadt gelesen.
+la salida anticipada | vorzeitige Abreise | Wir können eine vorzeitige Abreise nicht akzeptieren.
+la llave electrónica | elektronischer Schlüssel, Zimmerkarte | Verwenden Sie diesen elektronischen Schlüssel zum Öffnen.
+el conserje | Portier, Concierge | Der Portier hat uns mit den Koffern geholfen.
+## Notdienste und Reparaturen
+llamar a la grúa | den Abschleppdienst rufen | Ich musste wegen der Panne den Abschleppdienst rufen.
+el taller mecánico | Werkstatt, Autowerkstatt | Das Auto steht in der Werkstatt.
+la rueda pinchada | Reifenplette, platter Reifen | Ich habe den platten Reifen auf der Straße gewechselt.
+el cerrajero | Schlüsseldienst, Schlosser | Ich habe den Schlüsseldienst gerufen, weil ich den Schlüssel verloren habe.
+la fuga de agua | Wasserschaden, Wasserleck | Es gibt ein Wasserleck in der Küche.
+el electricista | Elektriker | Der Elektriker hat die kaputte Steckdose repariert.
+romperse la tubería | ein Rohr brechen, Rohrbruch haben | Bei Frost kann das Rohr brechen.
+el servicio técnico | technischer Kundendienst | Ich habe den technischen Kundendienst des Boilers angerufen.
+el auxilio | Hilfe, Beistand | Wir haben mitten im Sturm um Hilfe gebeten.
+la herramienta adecuada | passendes Werkzeug | Ich brauche das passende Werkzeug zum Reparieren.

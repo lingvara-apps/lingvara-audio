@@ -1,0 +1,111 @@
+# UNIT: Gesundheit | Arzt, Symptome, Apotheke, Notfall
+## Krankenhaus und Termin
+la cita médica | der Arzttermin, die ärztliche Sprechstunde | Ich habe heute Nachmittag einen Arzttermin.
+el especialista | der Facharzt, die Fachärztin | Der Facharzt wird deine Blutwerte überprüfen.
+la consulta | die Sprechstunde, das ärztliche Sprechzimmer | Wir warten im Sprechzimmer des Arztes auf unseren Aufruf.
+la tarjeta sanitaria | die Krankenversichertenkarte, die Gesundheitskarte | Zeigen Sie Ihre Krankenversichertenkarte an der Rezeption vor.
+el centro de salud | das Gesundheitszentrum, die Poliklinik | Das Gesundheitszentrum ist bis acht Uhr geöffnet.
+urgencias | die Notaufnahme, der Notdienst | Sie brachten den Verletzten schnell in die Notaufnahme.
+la ambulancia | der Rettungswagen, der Krankenwagen | Die Sirene des Krankenwagens ertönt auf der Avenue.
+el enfermero | der Krankenpfleger | Der Krankenpfleger hat ruhig meinen Blutdruck gemessen.
+la enfermera | die Krankenschwester, die Pflegekraft | Die Krankenschwester hat die Wunde vorsichtig desinfiziert.
+el paciente | der Patient, die Patientin | Der Patient ruht sich in Zimmer Nummer zehn aus.
+## Körper und Schmerzen
+la garganta | der Hals, die Kehle | Beim Wasserschlucken tut mir der Hals sehr weh.
+el pecho | die Brust, der Brustkorb | Er spürt ein seltsames Druckgefühl in der Brust.
+el abdomen | der Bauch, der Unterleib | Er spürt einen stechenden Schmerz im oberen Bauchbereich.
+la muela | der Backenzahn, der Zahn | Der karierte Backenzahn braucht dringend eine Füllung.
+el hueso | der Knochen | Sie ist vom Fahrrad gestürzt und hat sich einen Knochen gebrochen.
+la articulación | das Gelenk | Die Gelenke schmerzen bei der Kälte des Winters.
+el músculo | der Muskel | Ein gutes Dehnen beugt Muskelverletzungen vor.
+la sangre | das Blut | Blut zu spenden ist eine sehr wichtige Solidaritätsaktion.
+el síntoma | das Symptom, das Anzeichen | Seit wann hast du dieses seltsame Symptom?
+la alergia | die Allergie | Im Frühling leidet sie unter einer starken Pollenallergie.
+## Krankheiten und Zustände
+la gripe | die Grippe | Er hat sich während der Regenzeit die Grippe zugezogen.
+la carraspera | das Räuspern, der leichte Hustenreiz | Ein leichtes Räuspern stört ihn beim Sprechen vor Publikum.
+la temperatura alta | das hohe Fieber, die erhöhte Temperatur | Das Kind hat hohes Fieber und muss sich ausruhen.
+el mareo | der Schwindel, die Seekrankheit | Die Schiffsreise verursachte bei ihm einen starken Schwindel.
+el vómito | das Erbrechen, der Brechreiz | Das Erbrechen hörte nach dem Trinken von Elektrolytlösung auf.
+la diarrea | der Durchfall | Durchfall erfordert eine Schonkost und viel Flüssigkeitszufuhr.
+el insomnio | die Schlaflosigkeit | Der Arbeitsstress verursacht bei ihm chronische Schlaflosigkeit.
+la depresión | die Depression | Professionelle Hilfe zu suchen überwindet die Depression Schritt für Schritt.
+la ansiedad | die Angst, die Beklemmung | Tiefes Durchatmen reduziert die Angst vor dem Sprechen.
+el contagio | die Ansteckung, die Infektion | Die Ansteckung zu vermeiden bedeutet, sich oft die Hände zu waschen.
+## Behandlung und Untersuchung
+el diagnóstico | die Diagnose | Der Arzt hat die Diagnose klar und deutlich mitgeteilt.
+la radiografía | das Röntgenbild, die Röntgenaufnahme | Das Röntgenbild zeigt einen leichten Haarriss in der Speiche.
+la inyección | die Spritze, die Injektion | Sie hat Angst vor der Spritze, aber sie war sehr tapfer.
+el análisis | die Laboruntersuchung, die Blutuntersuchung | Die Laboruntersuchungen sind heute Morgen eingetroffen.
+la operación | die Operation, der chirurgische Eingriff | Die chirurgische Operation dauerte mehr als vier Stunden.
+la cura | die Wundversorgung, die Heilung | Die tägliche Wundversorgung verhindert Infektionen in der Wunde.
+el vendaje | der Verband, die Bandage | Der Physiotherapeut hat den Verband an seinem Fußgelenk angepasst.
+la tirita | das Pflaster, der Heftpflaster | Klebe ein kleines Pflaster auf den Schnitt am Finger.
+el yeso | der Gips, der Gipsverband | Er wird den Gips volle sechs Wochen lang tragen müssen.
+la rehabilitación | die Physiotherapie, die Rehabilitation | Er geht dreimal pro Woche zur Physiotherapie.
+## Apotheke und Medikamente
+el dispensario | die Apotheke [ländlich oder veraltet], die Ausgabestelle | Die Notapotheke hat die ganze Nacht geöffnet.
+la gragea | das Dragee, die Filmtablette | Nehmen Sie alle acht Stunden ein Dragee mit Wasser ein.
+el jarabe | der Hustensaft, der Sirup | Dieser süße Sirup lindert den hartnäckigen Husten.
+la pomada | die Salbe, die Creme | Verteile die Salbe sanft auf dem gereizten Bereich.
+la vitamina | das Vitamin | Vitamin C einzunehmen stärkt die natürlichen Abwehrkräfte.
+el antibiótico | das Antibiotikum | Antibiotika erfordern zwingend ein ärztliches Rezept.
+el analgésico | das Schmerzmittel, das Analgetikum | Ein gutes Schmerzmittel wird die Kopfschmerzen lindern.
+la pastilla para dormir | die Schlafpablette | Vermeide es, ohne Aufsicht eine Schlafpablette einzunehmen.
+el prospecto | die Packungsbeilage, der Beipackzettel | Lesen Sie vor dem Konsum dieses Medikaments die Packungsbeilage.
+la dosis | die Dosis, die Dosierung | Halten Sie sich strikt an die vom Arzt angegebene Dosis.
+## Notfälle und Wunden
+el peligro | die Gefahr | Sie haben den Gefahrenbereich auf der Straße markiert.
+el rescate | die Rettung, die Bergung | Das Rettungsteam hat den verlorenen Wanderer gefunden.
+el accidente | der Unfall | Ein kleiner Unfall hat den städtischen Verkehr lahmgelegt.
+el incendio | der Brand, das Feuer | Die Feuerwehr hat den Waldbrand rechtzeitig gelöscht.
+la herida | die Wunde, die Verletzung | Sie hat die tiefe Wunde mit lauwarmem Seifenwasser gewaschen.
+la quemadura | die Verbrennung | Sie hat kaltes Wasser auf die Handverbrennung gegeben.
+el desmayo | die Ohnmacht, der Schwächeanfall | Die starke Hitze verursachte eine Ohnmacht auf dem Platz.
+la hemorragia | die Blutung, die Hämorrhagie | Sie drückten auf den Bereich, um das Nasenbluten zu stoppen.
+el veneno | das Gift | Einige Wildpflanzen enthalten ein starkes Gift.
+el ahogamiento | das Ertrinken | Der Rettungsschwimmer handelte bei einem möglichen Ertrinken schnell.
+## Zahnarzt
+el dentista | der Zahnarzt, die Zahnärztin | Besuche den Zahnarzt unfehlbar alle sechs Monate.
+la clínica dental | die Zahnklinik, die Zahnarztpraxis | Die Zahnklinik bietet Dienstleistungen moderner Kieferorthopädie an.
+la caries | das Karies, der Zahnfaser | Eine schlechte Zahnhygiene führt zu tiefem Karies.
+la corona | die Zahnkrone, die Krone | Sie setzten eine Schutzkrone auf den beschädigten Backenzahn.
+la endodoncia | die Wurzelbehandlung, die Endodontie | Die Wurzelbehandlung hat den Zahn vor einer sicheren Extraktion gerettet.
+el empaste | die Zahnfüllung, die Plombe | Der Zahnarzt hat eine schnelle und schmerzfreie Zahnfüllung gemacht.
+la encía | das Zahnfleisch | Beim Benutzen von Zahnseide blutet das Zahnfleisch ein wenig.
+el aparato dental | die Zahnspange, das kieferorthopädische Gerät | Sie trägt eine Metallzahnspange, um die Zähne zu begradigen.
+la anestesia | die Betäubung, die Anästhesie | Die lokale Betäubung verhindert jegliche Zahnbeschwerden.
+la extracción | die Zahnextraktion, das Zähneziehen | Das Ziehen des Weisheitszahns verlief erfolgreich.
+## Gesunder Lebensstil
+el bienestar | das Wohlbefinden, das Wohlergehen | Das emotionale Gleichgewicht bringt ein großes tägliches Wohlbefinden.
+el reposo | die Ruhe, die Erholung | Eine gute Nachtruhe erneuert alle Energien.
+la relajación | die Entspannung | Sanfte Musik hilft dabei, eine tiefe Entspannung zu erreichen.
+la hidratación | die Flüssigkeitszufuhr, die Hydratation | Die richtige Flüssigkeitszufuhr verbessert die körperliche Leistungsfähigkeit.
+la vitalidad | die Vitalität, die Lebenskraft | Frisches Obst zum Frühstück bringt die morgendliche Vitalität zurück.
+el equilibrio | das Gleichgewicht | Das körperliche Gleichgewicht zu halten erfordert ständige Übung.
+la longevidad | die Langlebigkeit | Eine mediterrane Ernährung begünstigt Gesundheit und Langlebigkeit.
+la postura | die Haltung, die Körperhaltung | Die Haltung beim Sitzen zu korrigieren beugt Lendenwirbelschmerzen vor.
+la inmunidad | die Immunität, die Abwehrkraft | Täglich acht Stunden zu schlafen stärkt die allgemeine Immunität.
+el hábito | die Gewohnheit, die Angewohnheit | Eine gesunde Gewohnheit zu schaffen erfordert Geduld und Ausdauer.
+## Augengesundheit
+el oftalmólogo | der Augenarzt, die Augenärztin | Der Augenarzt hat die Sehstärke meiner Brille überprüft.
+la vista | das Sehvermögen, die Sehkraft, der Blick | Karotten liefern Nährstoffe, die das Sehvermögen pflegen.
+la miopía | die Kurzsichtigkeit, die Myopie | Die Kurzsichtigkeit hindert ihn daran, entfernte Gegenstände scharf zu sehen.
+el astigmatismo | der Astigmatismus, die Hornhautverkrümmung | Sie diagnostizierten einen leichten Astigmatismus in seinem rechten Auge.
+la lente | die Linse, die Kontaktlinse | Sie zieht es vor, beim Sport Kontaktlinsen zu tragen.
+la montura | das Brillengestell, die Fassung | Sie wählte ein modernes und leichtes Gestell aus Titan.
+la lágrima | die Träne | Nach der Nachricht rollte eine Träne über ihre Wange.
+la pupila | die Pupille | Die Pupille vergrößert sich bei wenig Licht im Raum.
+la ceguera | die Erblindung, die Blindheit | Fortgeschrittene Forschungen zielen darauf ab, kindliche Blindheit zu verhindern.
+el parpadeo | das Blinzeln, der Lidschlag | Das ständige Blinzeln schützt das Auge vor Trockenheit.
+## Gesundheitspersonal und sonstiges
+el especialista en nutrición | der Ernährungsberater, die Ernährungsberaterin | Der Ernährungsberater hat ein ausgewogenes Menü entworfen.
+el cirujano | der Chirurg, die Chirurgin | Der Chefchirurg leitete den komplexen Eingriff.
+la comadrona | die Hebamme | Die Hebamme begleitete die Mutter während der Geburt.
+el psiquiatra | der Psychiater, die Psychiaterin | Der Psychiater verschrieb eine dem Fall angemessene Behandlung.
+el psicólogo | der Psychologe, die Psychologin | Die Sitzungen mit dem Psychologen verbesserten seine Stimmung.
+el celador | der Krankenpflegerhelfer, der Krankenhausmitarbeiter | Der Krankenpflegerhelfer schob die Trage in den Röntgenraum.
+el farmacéutico | der Apotheker, die Apothekerin | Der Apotheker erklärte, wie man den Kindersaft einnimmt.
+la mutua | die private Krankenversicherung, der Krankheitskostenunterstützer | Seine private Krankenversicherung übernimmt die privaten Arztbesuche.
+la prevencion | die Vorbeugung, die Prävention | Frühe Vorbeugung verhindert zukünftige schwere Erkrankungen.
+la convalecencia | die Genesungszeit, die Rekonvaleszenz | Während seiner Rekonvaleszenz liest er am liebsten ruhige Romane.

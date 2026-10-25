@@ -1,0 +1,111 @@
+# UNIT: Haus und Einrichtung | Zimmer, Möbel, Küche, Hausarbeit
+## Wohnzimmer und Salon
+la sala (e) | Wohnzimmer, Salon | Das Wohnzimmer ist sehr hell.
+el sofá (o) | Sofa, Couch | Das Sofa ist bequem und blau.
+la alfombra | Teppich | Der rote Teppich liegt auf dem Boden.
+la cortina | Vorhang | Ich öffne morgens den Vorhang.
+la chimenea | Kamin | Im Winter zünden wir den Kamin an.
+el cojín (o) | Kissen, Sofakissen | Auf dem Sofa liegen viele Kissen.
+el estante | Regal, Bücherregal | Die Bücher stehen im Regal.
+la lámpara | Lampe | Die Lampe erhellt den ganzen Salon.
+el sillón | Sessel, Ohrensessel | Der Großvater ruht sich in seinem Sessel aus.
+la televisión | Fernseher, Fernsehen | Wir werden heute Abend fernsehen.
+## Schlafzimmer
+la habitación (d) | Schlafzimmer, Zimmer | Mein Schlafzimmer ist klein, aber schön.
+la cama | Bett | Das neue Bett ist sehr weich.
+la sábana | Bettlaken | Ich wechsle jede Woche das Bettlaken.
+la manta | Decke, Wolldecke | Mir ist kalt, ich brauche eine Decke.
+la almohada | Kopfkissen | Ich schlafe mit einem hohen Kissen.
+el armario | Schrank, Kleiderschrank | Ich bewahre die Kleidung im Schrank auf.
+el espejo | Spiegel | Ich schaue vor dem Weggehen in den Spiegel.
+la mesita de noche | Nachttisch | Der Wecker steht auf dem Nachttisch.
+el cajón (o) | Schublade | Die Briefe liegen in der Schublade.
+el despertador | Wecker | Der Wecker klingelt um sieben Uhr.
+## Küche und Esszimmer
+la cocina | Küche, Herd | Wir reinigen die Küche nach dem Abendessen.
+la mesa | Tisch | Wir stellen das Essen auf den Tisch.
+la silla | Stuhl | Jeder Gast hat seinen eigenen Stuhl.
+el horno | Ofen, Backofen | Das Brot wird im Ofen gebacken.
+el refrigerador | Kühlschrank | Wir bewahren die Milch im Kühlschrank auf.
+el fregadero | Spüle, Spülbecken | Ich spüle das Geschirr in der Spüle.
+el vaso | Glas, Trinkglas | Ich trinke frisches Wasser aus einem großen Glas.
+el plato | Teller | Wir füllen den Teller mit heißer Suppe.
+el tenedor | Gabel | Ich esse den Salat mit einer Gabel.
+la cuchara | Löffel | Ich brauche einen Löffel für die Suppe.
+## Badezimmer
+el baño | Badezimmer, Bad | Das Badezimmer ist sauber und ordentlich.
+la ducha | Dusche | Ich nehme morgens eine schnelle Dusche.
+la bañera | Badewanne | Die Kinder spielen in der Badewanne.
+el lavabo | Waschbecken | Ich wasche mir die Hände am Waschbecken.
+el inodoro | Toilette, Klo | Die Toilette braucht eine Reinigung.
+la toalla | Handtuch | Ich trockne meinen Körper mit einem weichen Handtuch.
+el jabón (o) | Seife | Ich benutze Seife mit Lavendelduft.
+el champú | Shampoo | Dieses Shampoo ist gut für die Haare.
+el cepillo de dientes | Zahnbürste | Ich benutze die Zahnbürste zweimal am Tag.
+la pasta de dientes | Zahnpasta | Ich gebe Zahnpasta auf die Bürste.
+## Hausbereiche und Architektur
+la casa | Haus | Unser Haus hat einen großen Garten.
+el piso | Wohnung, Etage | Wir wohnen in einer Wohnung im Zentrum.
+la puerta | Tür | Ich öffne die Tür mit dem Schlüssel.
+la ventana | Fenster | Ich schaue aus dem Fenster auf die Straße.
+el tejido | Dachkonstruktion, Gewebe | Das Dach schützt das Haus vor dem Regen.
+el ático | Dachboden, Dachgeschoss | Wir bewahren alte Kisten auf dem Dachboden auf.
+el sótano | Keller | Der Wein ruht kühl im Keller.
+el pasillo | Flur, Korridor | Der Flur verbindet alle Zimmer.
+la escalera | Treppe | Ich gehe vorsichtig die Treppe hinauf.
+la pared | Wand | Wir streichen die Wand in grüner Farbe.
+## Möbel und Dekoration
+el mobiliario | Möbel, Mobiliar | Die antiken Möbel sind sehr wertvoll.
+el armario ropero | Kleiderschrank | Der Kleiderschrank ist hoch und breit.
+la cómoda | Kommode | Die Kommode hat vier tiefe Schubladen.
+el escritorio | Schreibtisch | Ich arbeite mit meinem Computer am Schreibtisch.
+la silla de oficina | Bürostuhl | Dieser Bürostuhl ist höhenverstellbar.
+la estantería | Bücherregal, Regalwand | Das Regal ist voller Romane.
+el cuadro decorativo | Dekoratives Bild | Ein dekoratives Bild hängt an der Wand.
+la alfombrilla | Fußmatte, Vorleger | Wir reinigen die Schuhe auf der Fußmatte.
+la persiana | Jalousie, Rollladen | Ich lasse die Jalousie herunter, um besser zu schlafen.
+el florero | Vase, Blumenvase | Ich stelle frische Blumen in die Vase.
+## Haushaltsgeräte
+el electrodoméstico | Haushaltsgerät, Elektrogerät | Jedes Haushaltsgerät erleichtert das Leben.
+la lavadora | Waschmaschine | Die Waschmaschine wäscht die gesamte Schmutzwäsche.
+la secadora | Trockner, Wäschetrockner | Ich trockne die feuchte Wäsche im Trockner.
+el lavaplatos | Spülmaschine, Geschirrspüler | Der Geschirrspüler spart viel Zeit.
+la plancha | Bügeleisen | Ich bügele die Hemden mit dem heißen Bügeleisen.
+la aspiradora | Staubsauger | Ich sauge den Teppich mit dem Staubsauger.
+el microondas | Mikrowelle, Mikrowellenherd | Ich wärme das Essen in der Mikrowelle auf.
+la cafetera | Kaffeemaschine | Die Kaffeemaschine bereitet einen aromatischen Kaffee zu.
+el tostador | Toaster | Ich röste morgens das Brot im Toaster.
+el ventilador | Ventilator | Der Ventilator kühlt den heißen Raum ab.
+## Hausarbeit
+limpiar | putzen, sauber machen | Ich putze samstags gerne das Haus.
+barrer | kehren, fegen | Kehre bitte den Küchenboden.
+fregar | wischen [Boden], spülen [Geschirr] | Ich werde jetzt das schmutzige Geschirr spülen.
+ordenar | aufräumen, ordnen | Ich räume mein Zimmer auf, bevor ich ausgehe.
+lavar | waschen | Ich muss die weiße Wäsche waschen.
+planchar | bügeln | Bügele deine Kleidung für die Party.
+preparar la comida | Essen zubereiten, kochen | Sie weiß sehr gut, wie man Essen zubereitet.
+regar | gießen, bewässern | Ich gieße jeden Nachmittag die Pflanzen auf dem Balkon.
+sacudir | abstauben | Ich staube die Möbel mit einem trockenen Tuch ab.
+organizar | organisieren | Wir werden die Party zu Hause organisieren.
+## Küchenutensilien und Gefäße
+la sartén | Pfanne, Bratpfanne | Ich brate den Fisch in einer großen Pfanne.
+la cacerola | Kochtopf, Kasserolle | Ich koche die Suppe in einem tiefen Topf.
+la olla | großer Topf, Suppentopf | Der große Topf hat Platz für viel Wasser.
+la taza | Tasse, Becher | Ich trinke heißen Tee aus einer schönen Tasse.
+la tetera | Teekanne | Die Teekanne pfeift, wenn das Wasser kocht.
+el cuchillo | Messer | Ich schneide das Brot mit einem scharfen Messer.
+la cuchara pequeña | Teelöffel, Kaffeelöffel | Ich benutze einen Teelöffel für den Zucker.
+el cucharón | Schöpflöffel, Schöpfer | Ich serviere die Suppe mit einem tiefen Schöpflöffel.
+el colador | Sieb, Durchschlag | Ich benutze das Sieb für die gekochten Nudeln.
+el rallador | Reibe, Käsereibe | Ich reibe den Käse mit der Metalldeibe.
+## Beleuchtung und Elektrizität
+la bombilla | Glühbirne, Lampe | Ich wechsle die kaputte Glühbirne im Wohnzimmer aus.
+el enchufe | Steckdose | Ich stecke die Lampe in die Steckdose.
+el interruptor | Lichtschalter, Schalter | Ich schalte das Licht mit dem Schalter aus.
+el cable | Kabel | Dieses Kabel ist viel zu kurz für mich.
+la corriente | Strom, Strömung | Vorsicht vor dem elektrischen Strom.
+la linterna | Taschenlampe | Ich benutze die Taschenlampe, weil kein Licht da ist.
+la energía | Energie | Wir sparen Energie, indem wir das Licht ausschalten.
+la pila | Batterie, Akku | Die Uhr braucht eine neue Batterie.
+el alargador | Verlängerungskabel | Ich schließe den Computer mit einem Verlängerungskabel an.
+la instalación | Installation, Anlage | Die elektrische Installation ist sehr modern.
