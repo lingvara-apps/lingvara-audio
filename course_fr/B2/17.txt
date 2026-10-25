@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Yollar
+l'autoroute (f) | otoyol | isim (d) | Par l'autoroute, on arrive à Lyon en moins de cinq heures. | Otoyoldan Lyon'a beş saatten kısa sürede varılıyor.
+la route nationale | devlet karayolu | isim (d) | Nous avons pris la route nationale pour éviter le péage. | Gişeden kaçınmak için devlet karayolunu kullandık.
+le périphérique | çevre yolu | isim (e) | Le périphérique est complètement bloqué à cause d'un accident. | Çevre yolu bir kaza yüzünden tamamen kilitlendi.
+le rond-point | göbek, dönel kavşak | isim (e) | Au rond-point, prenez la troisième sortie vers le centre. | Göbekte merkeze giden üçüncü çıkışı alın.
+le carrefour | kavşak | isim (e) | Il y a souvent des accidents à ce carrefour dangereux. | Bu tehlikeli kavşakta sık sık kaza oluyor.
+le péage | otoyol gişesi, geçiş ücreti | isim (e) | Le péage entre Paris et Marseille coûte plus de soixante euros. | Paris ile Marsilya arasındaki geçiş ücreti altmış avrodan fazla.
+la chaussée | yol, asfalt | isim (d) | Attention, la chaussée est très glissante après la pluie ! | Dikkat, yağmurdan sonra yol çok kaygan!
+la bande d'arrêt d'urgence | emniyet şeridi | isim (d) | Il s'est arrêté sur la bande d'arrêt d'urgence avec un pneu crevé. | Patlak lastikle emniyet şeridinde durdu.
+le virage | viraj | isim (e) | Ralentis, il y a un virage très dangereux après le pont. | Yavaşla, köprüden sonra çok tehlikeli bir viraj var.
+la voie rapide | ekspres yol | isim (d) | La voie rapide relie l'aéroport au centre-ville. | Ekspres yol havalimanını şehir merkezine bağlıyor.
+## Araç kullanmak
+le conducteur | sürücü | isim (e) | Le conducteur du bus a freiné juste à temps. | Otobüs sürücüsü tam zamanında fren yaptı.
+doubler | sollamak; ikiye katlamak | fiil | Il est interdit de doubler sur cette petite route de montagne. | Bu dar dağ yolunda sollamak yasak.
+freiner | fren yapmak | fiil | Elle a freiné brusquement pour éviter un chat. | Bir kediye çarpmamak için aniden fren yaptı.
+accélérer | hızlanmak, gaza basmak | fiil | N'accélère pas, la limite est à cinquante en ville. | Gaza basma, şehirde sınır elli.
+se garer | park etmek | fiil · dönüşlü | Il est impossible de se garer dans ce quartier le samedi. | Cumartesi bu mahallede park etmek imkânsız.
+faire demi-tour | geri dönmek, U dönüşü yapmak | ifade | La route était fermée, nous avons dû faire demi-tour. | Yol kapalıydı, geri dönmek zorunda kaldık.
+reculer | geri gitmek | fiil | Recule un peu, tu es trop près de la voiture derrière. | Biraz geri git, arkadaki arabaya çok yakınsın.
+klaxonner | korna çalmak | fiil | Les conducteurs klaxonnent dès que le feu passe au vert. | Sürücüler ışık yeşile döner dönmez korna çalıyor.
+ralentir | yavaşlamak | fiil | Ralentissez à l'approche de l'école, des enfants traversent. | Okula yaklaşırken yavaşlayın, çocuklar karşıya geçiyor.
+céder le passage | yol vermek | ifade | Au rond-point, il faut céder le passage aux voitures déjà engagées. | Göbekte, içerideki arabalara yol vermek gerekir.
+## Araç parçaları
+le volant | direksiyon | isim (e) | Il ne faut jamais téléphoner avec la main sur le volant. | Elin direksiyondayken asla telefonla konuşmamalı.
+le frein | fren | isim (e) | Les freins de mon vélo ne marchent plus très bien. | Bisikletimin frenleri artık pek iyi çalışmıyor.
+le pneu | lastik | isim (e) | Il faut changer les pneus avant de partir en montagne. | Dağa gitmeden önce lastikleri değiştirmek gerekiyor.
+le rétroviseur | dikiz aynası | isim (e) | Regarde dans le rétroviseur avant de changer de file. | Şerit değiştirmeden önce dikiz aynasına bak.
+le moteur | motor | isim (e) | Le moteur fait un bruit bizarre depuis ce matin. | Motor bu sabahtan beri garip bir ses çıkarıyor.
+le coffre | bagaj (araba); sandık | isim (e) | Mets les valises dans le coffre, il y a de la place. | Valizleri bagaja koy, yer var.
+les phares | farlar | isim (çoğul) | Allume tes phares, il commence à faire nuit. | Farlarını yak, hava kararmaya başlıyor.
+le clignotant | sinyal lambası | isim (e) | Il a tourné à gauche sans mettre son clignotant. | Sinyal vermeden sola döndü.
+la ceinture de sécurité | emniyet kemeri | isim (d) | Tous les passagers doivent attacher leur ceinture de sécurité. | Bütün yolcular emniyet kemerlerini takmalı.
+le pare-brise | ön cam | isim (e) | Un caillou a fissuré le pare-brise sur l'autoroute. | Otoyolda bir taş ön camı çatlattı.
+## Trafik kuralları
+le code de la route | trafik kuralları | isim (e) | Il révise le code de la route pour passer son permis. | Ehliyet sınavı için trafik kurallarına çalışıyor.
+la limitation de vitesse | hız sınırı | isim (d) | La limitation de vitesse est de cent trente sur autoroute. | Otoyolda hız sınırı yüz otuz.
+l'excès de vitesse (m) | hız ihlali | isim (e) | Il a reçu une amende pour excès de vitesse. | Hız ihlali nedeniyle ceza aldı.
+le radar | radar | isim (e) | Attention, il y a un radar juste après le tunnel. | Dikkat, tünelin hemen ardından radar var.
+le feu rouge | kırmızı ışık | isim (e) | Le cycliste a grillé le feu rouge devant la police. | Bisikletli polisin önünde kırmızı ışıkta geçti.
+le contrôle d'alcoolémie | alkol kontrolü | isim (e) | La police fait des contrôles d'alcoolémie le samedi soir. | Polis cumartesi akşamları alkol kontrolü yapıyor.
+le permis à points | puanlı ehliyet sistemi | isim (e) | Avec le permis à points, chaque infraction fait perdre des points. | Puanlı ehliyet sisteminde her ihlal puan kaybettiriyor.
+griller un feu | kırmızı ışıkta geçmek | ifade | Griller un feu rouge peut coûter très cher. | Kırmızı ışıkta geçmek çok pahalıya patlayabilir.
+le sens interdit | girilmez yol, ters yön | isim (e) | Il a pris la rue en sens interdit sans le voir. | Fark etmeden sokağa ters yönden girdi.
+la priorité à droite | sağdan gelene yol verme kuralı | isim (d) | En France, la priorité à droite s'applique souvent dans les villages. | Fransa'da köylerde çoğu zaman sağdan gelene öncelik kuralı geçerli.
+## Kaza ve arıza
+la collision | çarpışma | isim (d) | Une collision entre deux camions a bloqué l'autoroute. | İki kamyon arasındaki çarpışma otoyolu kapattı.
+percuter | çarpmak | fiil | La voiture a percuté un arbre au bord de la route. | Araba yol kenarındaki bir ağaca çarptı.
+le constat amiable | kaza tespit tutanağı | isim (e) | Après l'accrochage, nous avons rempli un constat amiable. | Hafif çarpışmadan sonra kaza tespit tutanağı doldurduk.
+l'accrochage (m) | hafif çarpışma, sürtme | isim (e) | Ce n'est qu'un petit accrochage, personne n'est blessé. | Sadece küçük bir sürtme, kimse yaralanmadı.
+la dépanneuse | çekici | isim (d) | La dépanneuse a emmené ma voiture au garage. | Çekici arabamı garaja götürdü.
+la crevaison | lastik patlaması | isim (d) | Nous avons eu une crevaison au milieu de la nuit. | Gecenin ortasında lastiğimiz patladı.
+crever | patlamak (lastik); geberme (argo) | fiil | Mon pneu a crevé à cause d'un clou. | Lastiğim bir çivi yüzünden patladı.
+le garagiste | oto tamircisi | isim (e) | Le garagiste m'a fait un devis pour réparer la portière. | Tamirci kapıyı onarmak için bana fiyat teklifi verdi.
+le contrôle technique | araç muayenesi | isim (e) | Ma voiture doit passer le contrôle technique avant juin. | Arabam hazirandan önce muayeneye girmeli.
+la vidange | yağ değişimi; boşaltma | isim (d) | Il faut faire la vidange tous les quinze mille kilomètres. | Her on beş bin kilometrede bir yağ değişimi yapmak gerekiyor.
+## Toplu taşıma
+le RER | banliyö treni (Paris) | isim (e) | Je prends le RER B pour aller à l'aéroport. | Havalimanına gitmek için RER B'ye biniyorum.
+la fréquence | sıklık; frekans | isim (d) | La fréquence des bus est très faible le dimanche. | Pazar günleri otobüslerin sıklığı çok düşük.
+le terminus | son durak | isim (e) | Tous les passagers descendent, nous sommes au terminus. | Bütün yolcular inin, son duraktayız.
+la navette | servis aracı, ring | isim (d) | Une navette gratuite relie la gare à l'hôtel. | Ücretsiz bir servis garı otele bağlıyor.
+le titre de transport | bilet, ulaşım kartı | isim (e) | Les voyageurs sans titre de transport risquent une amende. | Bileti olmayan yolcular ceza riskiyle karşı karşıya.
+composter son billet | biletini zımbalatmak/okutmak | ifade | N'oubliez pas de composter votre billet avant de monter dans le train. | Trene binmeden önce biletinizi okutmayı unutmayın.
+le voyageur régulier | düzenli yolcu | isim (e) | Les voyageurs réguliers du métro se plaignent des retards. | Metronun düzenli yolcuları gecikmelerden şikâyet ediyor.
+la rame | tren seti, vagon dizisi; kürek | isim (d) | La rame était tellement pleine que je n'ai pas pu monter. | Tren o kadar doluydu ki binemedim.
+le quai de métro | metro peronu | isim (e) | Le quai de métro était plein à cause de la grève. | Grev yüzünden metro peronu tıklım tıklımdı.
+l'abonnement mensuel (m) | aylık abonman | isim (e) | Mon employeur paie la moitié de mon abonnement mensuel. | İşverenim aylık abonmanımın yarısını ödüyor.
+## Araç türleri
+la voiture électrique | elektrikli araba | isim (d) | Il recharge sa voiture électrique la nuit dans le garage. | Elektrikli arabasını geceleri garajda şarj ediyor.
+l'hybride (f) | hibrit araba | isim (d) | Nous avons acheté une hybride pour consommer moins d'essence. | Daha az benzin harcamak için hibrit bir araba aldık.
+le camping-car | karavan (motorlu) | isim (e) | Ils ont traversé l'Europe en camping-car pendant six mois. | Altı ay boyunca karavanla Avrupa'yı boydan boya geçtiler.
+le poids lourd | ağır vasıta, tır | isim (e) | Les poids lourds sont interdits sur cette route le dimanche. | Pazar günleri bu yolda ağır vasıtalar yasak.
+la trottinette | scooter (ayakla itilen) | isim (d) | Beaucoup de gens vont travailler en trottinette électrique. | Birçok insan işe elektrikli scooterla gidiyor.
+le scooter | motorlu scooter | isim (e) | Il livre des pizzas en scooter le soir. | Akşamları scooterla pizza dağıtıyor.
+l'autocar (m) | şehirlerarası otobüs | isim (e) | L'autocar pour Bordeaux part à huit heures de la gare routière. | Bordeaux otobüsü saat sekizde otogardan kalkıyor.
+le véhicule utilitaire | hafif ticari araç | isim (e) | Il a loué un véhicule utilitaire pour son déménagement. | Taşınması için hafif ticari bir araç kiraladı.
+le deux-roues | iki tekerlekli araç | isim (e) | Les deux-roues doivent rouler sur la piste cyclable. | İki tekerlekli araçlar bisiklet yolunda gitmeli.
+la voiture de location | kiralık araba | isim (d) | Nous avons pris une voiture de location à l'aéroport. | Havalimanında kiralık bir araba aldık.
+## Yolculukta
+la gare routière | otogar | isim (d) | La gare routière se trouve juste à côté de la gare SNCF. | Otogar tren garının hemen yanında.
+l'aire de repos (f) | dinlenme tesisi | isim (d) | Arrêtons-nous à la prochaine aire de repos pour manger. | Yemek için bir sonraki dinlenme tesisinde duralım.
+l'auto-stop (m) | otostop | isim (e) | Quand j'étais étudiant, je voyageais en auto-stop. | Öğrenciyken otostopla seyahat ederdim.
+le GPS | GPS, navigasyon | isim (e) | Le GPS nous a fait passer par de toutes petites routes. | GPS bizi minicik yollardan geçirdi.
+la carte routière | karayolu haritası | isim (d) | Mon père préfère toujours la vieille carte routière au GPS. | Babam hâlâ eski karayolu haritasını GPS'e tercih ediyor.
+le TGV | hızlı tren | isim (e) | En TGV, on va de Paris à Bordeaux en deux heures. | Hızlı trenle Paris'ten Bordeaux'ya iki saatte gidiliyor.
+le kilométrage | kilometre (araç) | isim (e) | Cette voiture d'occasion a un faible kilométrage. | Bu ikinci el arabanın kilometresi düşük.
+la station de recharge | şarj istasyonu | isim (d) | Il y a de plus en plus de stations de recharge sur l'autoroute. | Otoyolda giderek daha fazla şarj istasyonu var.
+le tunnel | tünel | isim (e) | Le tunnel du Mont-Blanc relie la France à l'Italie. | Mont-Blanc tüneli Fransa'yı İtalya'ya bağlıyor.
+prendre la route | yola çıkmak | ifade | Nous prendrons la route très tôt pour éviter la chaleur. | Sıcaktan kaçınmak için çok erken yola çıkacağız.
+## Trafik sorunları
+la saturation | tıkanma, doygunluk | isim (d) | La saturation des routes est un problème majeur en été. | Yolların tıkanması yazın büyük bir sorun.
+saturé | tıkanmış, dolu | sıfat | Le réseau de métro est saturé aux heures de pointe. | Metro ağı yoğun saatlerde tıkanıyor.
+le chauffard | kural tanımayan sürücü | isim (e) | Ce chauffard roulait à cent quarante en ville. | Bu kural tanımaz sürücü şehirde yüz kırkla gidiyordu.
+la double file | ikinci sıra (park) | isim (d) | Les livreurs se garent souvent en double file. | Kuryeler sık sık ikinci sıraya park ediyor.
+la fourrière | çekilmiş araç otoparkı | isim (d) | Ma voiture était mal garée, elle est partie à la fourrière. | Arabam yanlış park edilmişti, otoparka çekildi.
+l'automobiliste (m) | otomobil sürücüsü | isim (e) | Les automobilistes protestent contre la hausse du prix de l'essence. | Otomobil sürücüleri benzin fiyatlarının artışını protesto ediyor.
+le cycliste | bisikletli | isim (e) | Les cyclistes réclament plus de pistes sécurisées. | Bisikletliler daha fazla güvenli yol istiyor.
+la sécurité routière | trafik güvenliği | isim (d) | Une campagne de sécurité routière cible les jeunes conducteurs. | Bir trafik güvenliği kampanyası genç sürücüleri hedef alıyor.
+le délit de fuite | olay yerinden kaçma | isim (e) | Le conducteur responsable a commis un délit de fuite. | Sorumlu sürücü olay yerinden kaçtı.
+le passage à niveau | hemzemin geçit | isim (e) | La voiture s'est arrêtée juste avant le passage à niveau. | Araba hemzemin geçidin hemen önünde durdu.
+## Kent içi hareketlilik
+la mobilité | hareketlilik, mobilite | isim (d) | La ville veut développer une mobilité plus écologique. | Şehir daha çevreci bir ulaşım geliştirmek istiyor.
+le déplacement | yer değiştirme, yolculuk | isim (e) | Mes déplacements professionnels sont remboursés par l'entreprise. | İş seyahatlerim şirket tarafından karşılanıyor.
+se déplacer | hareket etmek, gidip gelmek | fiil · dönüşlü | En ville, je me déplace surtout à vélo. | Şehirde daha çok bisikletle gidip geliyorum.
+le trajet domicile-travail | ev-iş yolculuğu | isim (e) | Mon trajet domicile-travail dure quarante minutes en tram. | Ev-iş yolculuğum tramvayla kırk dakika sürüyor.
+le vélo en libre-service | paylaşımlı bisiklet | isim (e) | Les vélos en libre-service sont très pratiques pour les touristes. | Paylaşımlı bisikletler turistler için çok pratik.
+l'autopartage (m) | araç paylaşımı | isim (e) | Grâce à l'autopartage, nous n'avons plus besoin de voiture. | Araç paylaşımı sayesinde artık arabaya ihtiyacımız yok.
+la voie de bus | otobüs şeridi | isim (d) | Les taxis ont le droit de rouler sur la voie de bus. | Taksilerin otobüs şeridinde gitme hakkı var.
+la zone à faibles émissions | düşük emisyon bölgesi | isim (d) | Les vieilles voitures ne peuvent plus entrer dans la zone à faibles émissions. | Eski arabalar artık düşük emisyon bölgesine giremiyor.
+la mobilité douce | çevre dostu ulaşım (yürüyüş, bisiklet) | isim (d) | La mairie encourage la mobilité douce avec de nouveaux trottoirs. | Belediye yeni kaldırımlarla çevre dostu ulaşımı teşvik ediyor.
+le piétonnier | yaya yolu | isim (e) | Le nouveau piétonnier du centre est plein de terrasses. | Merkezdeki yeni yaya yolu teraslarla dolu.
