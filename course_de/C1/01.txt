@@ -1,17 +1,17 @@
 # UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
 ## Bilimsel yazının yapısı
 die Abhandlung (die Abhandlungen) | inceleme yazısı, bilimsel makale | isim (d) | In seiner Abhandlung untersucht der Autor die Entstehung des modernen Romans. | Yazar, incelemesinde modern romanın doğuşunu araştırıyor.
-die Fragestellung (die Fragestellungen) | araştırma sorusu, soru kurgusu | isim (d) | Die zentrale Fragestellung der Arbeit wird bereits in der Einleitung präzisiert. | Çalışmanın temel araştırma sorusu daha girişte netleştiriliyor.
+das Forschungsvorhaben (die Forschungsvorhaben) | araştırma projesi | isim (o) | Für ihr Forschungsvorhaben hat sie ein dreijähriges Stipendium einer Stiftung erhalten. | Araştırma projesi için bir vakıftan üç yıllık burs aldı.
 der Forschungsstand | araştırmaların mevcut durumu, literatür | isim (e) | Im zweiten Kapitel gibt die Autorin einen knappen Überblick über den Forschungsstand. | Yazar ikinci bölümde literatürün güncel durumuna kısa bir genel bakış sunuyor.
 das Erkenntnisinteresse | bilgi ilgisi, araştırmanın amacı | isim (o) | Das Erkenntnisinteresse dieser Studie richtet sich auf regionale Sprachvarianten. | Bu çalışmanın bilgi ilgisi bölgesel dil varyantlarına yöneliyor.
-die Gliederung (die Gliederungen) | ana hat, bölümleme, plan | isim (d) | Eine klare Gliederung erleichtert dem Leser die Orientierung im Text erheblich. | Net bir bölümleme okuyucunun metinde yolunu bulmasını büyük ölçüde kolaylaştırır.
+das Abstract (die Abstracts) | özet (bilimsel makale) | isim (o) | Das Abstract sollte die wichtigsten Ergebnisse in höchstens zweihundert Wörtern zusammenfassen. | Özet en önemli bulguları en fazla iki yüz kelimede toplamalıdır.
 das Fazit (die Fazits) | sonuç, değerlendirme | isim (o) | Im Fazit werden die wichtigsten Ergebnisse noch einmal zusammengefasst. | Sonuç bölümünde en önemli bulgular bir kez daha özetleniyor.
 der Exkurs (die Exkurse) | ara bölüm, konu dışına çıkan açıklama | isim (e) | In einem kurzen Exkurs geht die Autorin auf die Begriffsgeschichte ein. | Yazar kısa bir ara bölümde kavramın tarihine değiniyor.
-das Literaturverzeichnis (die Literaturverzeichnisse) | kaynakça | isim (o) | Jede zitierte Quelle muss im Literaturverzeichnis vollständig aufgeführt werden. | Alıntılanan her kaynak kaynakçada eksiksiz belirtilmelidir.
-die Fußnote (die Fußnoten) | dipnot | isim (d) | Weiterführende Hinweise hat der Verfasser in die Fußnoten verlagert. | Yazar ayrıntılı açıklamaları dipnotlara taşımış.
+die Bibliografie (die Bibliografien) | bibliyografya | isim (d) | Die kommentierte Bibliografie im Anhang ist für Studierende besonders hilfreich. | Ekteki açıklamalı bibliyografya öğrenciler için özellikle yararlı.
+der Querverweis (die Querverweise) | çapraz gönderme | isim (e) | Zahlreiche Querverweise verbinden die einzelnen Kapitel des Handbuchs miteinander. | Çok sayıda çapraz gönderme el kitabının bölümlerini birbirine bağlıyor.
 das Exposé (die Exposés) | araştırma önerisi, ön proje metni | isim (o) | Bevor Sie mit der Promotion beginnen, müssen Sie ein Exposé einreichen. | Doktoraya başlamadan önce bir araştırma önerisi sunmanız gerekiyor.
 ## Argümantasyon
-die These (die Thesen) | tez, sav | isim (d) | Die Autorin vertritt die These, dass Sprache das Denken prägt. | Yazar, dilin düşünceyi biçimlendirdiği savını savunuyor.
+die Gegenthese (die Gegenthesen) | karşı tez | isim (d) | Im zweiten Teil des Aufsatzes formuliert der Autor eine provokante Gegenthese. | Makalenin ikinci bölümünde yazar kışkırtıcı bir karşı tez ortaya koyuyor.
 die Prämisse (die Prämissen) | öncül | isim (d) | Wenn die Prämisse falsch ist, bricht die gesamte Argumentation zusammen. | Öncül yanlışsa bütün argümantasyon çöker.
 die Schlussfolgerung (die Schlussfolgerungen) | çıkarım, sonuç | isim (d) | Aus diesen Daten lässt sich keine eindeutige Schlussfolgerung ziehen. | Bu verilerden kesin bir sonuç çıkarılamaz.
 der Einwand (die Einwände) | itiraz | isim (e) | Gegen diese Interpretation lässt sich ein gewichtiger Einwand erheben. | Bu yoruma karşı ağır bir itiraz ileri sürülebilir.
@@ -23,9 +23,9 @@ der Zirkelschluss (die Zirkelschlüsse) | döngüsel akıl yürütme, kısır d�
 abwägen (wog ab, abgewogen) | tartmak, karşılaştırarak değerlendirmek | fiil · düzensiz | Im Hauptteil werden Vor- und Nachteile beider Modelle sorgfältig abgewogen. | Ana bölümde iki modelin artı ve eksileri dikkatle tartılıyor.
 ## Kaynaklar ve alıntı
 die Quellenangabe (die Quellenangaben) | kaynak gösterme | isim (d) | Fehlende Quellenangaben gelten an der Universität als schweres Fehlverhalten. | Kaynak göstermemek üniversitede ağır bir usulsüzlük sayılır.
-das Zitat (die Zitate) | alıntı | isim (o) | Ein wörtliches Zitat muss stets in Anführungszeichen gesetzt werden. | Doğrudan alıntı her zaman tırnak içine alınmalıdır.
+die Belegstelle (die Belegstellen) | dayanak pasaj, kaynak yeri | isim (d) | Für jede Behauptung nennt der Verfasser die genaue Belegstelle im Originaltext. | Yazar her iddia için özgün metindeki tam dayanak pasajı belirtiyor.
 paraphrasieren | başka sözcüklerle anlatmak | fiil | Wer fremde Gedanken paraphrasiert, muss trotzdem die Quelle angeben. | Başkasının düşüncelerini kendi sözleriyle aktaran kişi yine de kaynağı belirtmelidir.
-das Plagiat (die Plagiate) | intihal | isim (o) | Wegen eines Plagiats wurde ihm der Doktortitel nachträglich aberkannt. | İntihal nedeniyle doktora unvanı sonradan elinden alındı.
+die Eigenständigkeitserklärung (die Eigenständigkeitserklärungen) | özgünlük beyanı | isim (d) | Mit der Eigenständigkeitserklärung versichern Sie, die Arbeit selbst verfasst zu haben. | Özgünlük beyanıyla çalışmayı kendiniz yazdığınızı taahhüt edersiniz.
 die Primärliteratur | birincil kaynaklar | isim (d) | Für die Analyse stützt sie sich vor allem auf die Primärliteratur. | Analiz için özellikle birincil kaynaklara dayanıyor.
 die Sekundärliteratur | ikincil kaynaklar | isim (d) | Die Sekundärliteratur zu diesem Dichter ist inzwischen kaum noch überschaubar. | Bu şair hakkındaki ikincil literatür artık neredeyse takip edilemeyecek kadar geniş.
 belegen | kanıtlamak, belgelemek | fiil | Diese Aussage lässt sich durch mehrere historische Dokumente belegen. | Bu ifade birçok tarihî belgeyle kanıtlanabilir.
