@@ -16,7 +16,7 @@
 صُنْعُ الْقَرَار (ṣunʿu l-qarār) | karar alma | isim (e) | نريد أن يشارك الموظفون في صنع القرار. | Çalışanların karar alma sürecine katılmasını istiyoruz.
 إِدَارَةُ الْوَقْت (ʾidāratu l-waqt) | zaman yönetimi | isim (d) | حضرتُ ورشة مفيدة عن إدارة الوقت. | Zaman yönetimi üzerine faydalı bir çalıştaya katıldım.
 مُتَابَعَة (mutābaʿa) | takip, izleme | isim (d) | تحتاج هذه المهمة إلى متابعة يومية. | Bu görev günlük takip gerektiriyor.
-إِشْرَاف (ʾishrāf) | gözetim, denetim | isim (e) | يعمل المتدربون تحت إشراف مهندس خبير. | Stajyerler deneyimli bir mühendisin gözetiminde çalışıyor.
+تَوْجِيه (tawjīh) | yönlendirme, rehberlik | isim (e) | يعمل المتدربون بتوجيه من مهندس خبير. | Stajyerler deneyimli bir mühendisin rehberliğinde çalışıyor.
 تَنْسِيق (tansīq) | koordinasyon, düzenleme | isim (e) | نجح المؤتمر بفضل التنسيق الجيد بين الأقسام. | Konferans bölümler arasındaki iyi koordinasyon sayesinde başarılı oldu.
 صَلَاحِيَّات (ṣalāḥiyyāt) | yetkiler | isim (çoğul) | أعطى المدير نائبه صلاحيات واسعة. | Müdür yardımcısına geniş yetkiler verdi.
 تَحْفِيز (taḥfīz) | motivasyon, teşvik | isim (e) | تحفيز الموظفين أهم من مراقبتهم. | Çalışanları motive etmek onları denetlemekten daha önemli.
@@ -55,7 +55,7 @@
 قِطَاعٌ عَامّ (qiṭāʿun ʿāmm) | kamu sektörü | isim (e) | الرواتب في القطاع العام أقل لكنها مستقرة. | Kamu sektöründe maaşlar daha düşük ama istikrarlı.
 مُنَظَّمَةٌ غَيْرُ رِبْحِيَّة (munaẓẓamatun ghayru ribḥiyya) | kâr amacı gütmeyen kuruluş | isim (d) | تعمل في منظمة غير ربحية لتعليم الأطفال. | Çocukların eğitimi için çalışan kâr amacı gütmeyen bir kuruluşta çalışıyor.
 ## Proje yönetimi
-جَدْوَلٌ زَمَنِيّ (jadwalun zamaniyy) | zaman çizelgesi, takvim | isim (e) | وضعنا جدولًا زمنيًا للمشروع مدته ستة أشهر. | Proje için altı aylık bir zaman çizelgesi hazırladık.
+إِطَارٌ زَمَنِيّ (ʾiṭārun zamaniyy) | zaman çerçevesi | isim (e) | حدّدنا إطارًا زمنيًا للمشروع مدته ستة أشهر. | Proje için altı aylık bir zaman çerçevesi belirledik.
 نِطَاقُ الْمَشْرُوع (niṭāqu l-mashrūʿ) | proje kapsamı | isim (e) | لا نستطيع توسيع نطاق المشروع بهذه الميزانية. | Bu bütçeyle projenin kapsamını genişletemeyiz.
 مُخْرَجَات (mukhrajāt) | çıktılar | isim (çoğul) | سنعرض مخرجات المشروع على العميل الأسبوع القادم. | Projenin çıktılarını gelecek hafta müşteriye sunacağız.
 مُدْخَلَات (mudkhalāt) | girdiler | isim (çoğul) | جودة المدخلات تؤثر في جودة النتائج. | Girdilerin kalitesi sonuçların kalitesini etkiler.
@@ -69,7 +69,7 @@
 قَادَ (qāda) | yönetmek, liderlik etmek; sürmek (geniş z.: يَقُودُ) | fiil · düzensiz | قادت فريقًا من عشرين مهندسًا. | Yirmi mühendislik bir ekibe liderlik etti.
 وَزَّعَ (wazzaʿa) | dağıtmak, paylaştırmak (geniş z.: يُوَزِّعُ) | fiil | وزّع المدير المهام على أعضاء الفريق. | Müdür görevleri ekip üyelerine paylaştırdı.
 حَسَمَ (ḥasama) | karara bağlamak, kesinleştirmek (geniş z.: يَحْسِمُ) | fiil | حسمت الإدارة الخلاف بعد اجتماع طويل. | Yönetim uzun bir toplantıdan sonra anlaşmazlığı karara bağladı.
-أَنْجَزَ (ʾanjaza) | tamamlamak, başarıyla bitirmek (geniş z.: يُنْجِزُ) | fiil | أنجزنا نصف العمل في أسبوع واحد. | İşin yarısını bir haftada tamamladık.
+اِسْتَكْمَلَ (istakmala) | tamamlamak, eksiksiz bitirmek (geniş z.: يَسْتَكْمِلُ) | fiil | استكملنا نصف العمل في أسبوع واحد. | İşin yarısını bir haftada tamamladık.
 رَسَّخَ (rassakha) | yerleştirmek, pekiştirmek, kökleştirmek (geniş z.: يُرَسِّخُ) | fiil | رسّخت المديرة ثقافة الحوار في الشركة. | Müdire şirkette diyalog kültürünü yerleştirdi.
 اِسْتَهْدَفَ (istahdafa) | hedeflemek (geniş z.: يَسْتَهْدِفُ) | fiil | تستهدف الحملة الشباب في المدن الكبرى. | Kampanya büyük şehirlerdeki gençleri hedefliyor.
 تَعَثَّرَ (taʿaththara) | aksamak, tökezlemek (geniş z.: يَتَعَثَّرُ) | fiil | تعثّر المشروع بسبب نقص التمويل. | Proje finansman eksikliği yüzünden aksadı.
