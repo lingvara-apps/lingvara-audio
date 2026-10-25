@@ -1,0 +1,45 @@
+# DIALOG: Orman Kalesi'nde İlk Gün | Almanca tanışma ve ilk kelimeler | Lena | Emre
+## Tanışma
+A | Hallo! Guten Morgen! | Merhaba! Günaydın!
+B | Hallo! Wie geht's? | Merhaba! Nasılsın?
+A | Gut, danke. Und dir? | İyiyim, teşekkürler. Ya sen?
+B | Auch gut. Ich heiße Emre. | Ben de iyiyim. Adım Emre.
+A | Freut mich. Ich bin Lena. | Memnun oldum. Ben Lena.
+B | Bist du neu hier? | Burada yeni misin?
+A | Ja, ich bin neu. | Evet, yeniyim.
+B | Herzlich willkommen! | Hoş geldin!
+A | Danke schön, Emre. | Çok teşekkürler Emre.
+B | Bitte schön. | Rica ederim.
+## Nerelisin?
+A | Woher kommst du? | Nerelisin?
+B | Ich komme aus der Türkei. | Türkiye'den geliyorum.
+A | Aus Istanbul? | İstanbul'dan mı?
+B | Nein, aus Izmir. Und du? | Hayır, İzmir'den. Ya sen?
+A | Ich komme aus Österreich. | Avusturya'dan geliyorum.
+B | Aus Wien? | Viyana'dan mı?
+A | Ja, genau. | Evet, aynen.
+B | Sprichst du Türkisch? | Türkçe konuşuyor musun?
+A | Nein, nur ein bisschen. | Hayır, sadece biraz.
+B | Kein Problem. Ich lerne Deutsch. | Sorun değil. Ben Almanca öğreniyorum.
+## Sayılar ve renkler
+A | Schau, ein Markt! | Bak, bir pazar!
+B | Was ist das? | Bu ne?
+A | Das ist ein Apfel. | Bu bir elma.
+B | Ist der Apfel rot? | Elma kırmızı mı?
+A | Nein, er ist grün. | Hayır, yeşil.
+B | Ich möchte drei Äpfel. | Üç elma istiyorum.
+A | Drei? Nicht zwei? | Üç mü? İki değil mi?
+B | Ja, drei, bitte. | Evet, üç lütfen.
+A | Das kostet zwei Euro. | Bu iki avro.
+B | Hier, bitte. Danke! | Buyurun. Teşekkürler!
+## Hayvanlar ve veda
+A | Oh, eine Katze! | Aa, bir kedi!
+B | Die Katze ist schwarz. | Kedi siyah.
+A | Und da ist ein Hund. | Orada da bir köpek var.
+B | Der Hund ist groß und braun. | Köpek büyük ve kahverengi.
+A | Ich mag Hunde. | Köpekleri severim.
+B | Ich auch. Aber ich mag auch Katzen. | Ben de. Ama kedileri de severim.
+A | Oh, es ist schon spät. | Aa, saat epey geç olmuş.
+B | Ja, ich gehe jetzt nach Hause. | Evet, ben şimdi eve gidiyorum.
+A | Tschüss, Emre! Bis morgen! | Hoşça kal Emre! Yarın görüşürüz!
+B | Tschüss, Lena! Gute Nacht! | Hoşça kal Lena! İyi geceler!
