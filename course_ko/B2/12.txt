@@ -1,0 +1,111 @@
+# UNIT: Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
+## Dil bilgisi terimleri
+문법 (munbeop) | dil bilgisi | isim | 한국어 문법은 튀르키예어와 비슷한 점이 많다. | Korece dil bilgisinin Türkçeyle benzer pek çok yanı var.
+품사 (pumsa) | sözcük türü | isim | 같은 단어라도 문장에서 품사가 달라질 수 있다. | Aynı kelime bile cümlede farklı sözcük türünde olabilir.
+명사 (myeongsa) | isim (dil bilgisi) | isim | 한국어에서는 명사 뒤에 조사가 붙는다. | Korecede isimlerin arkasına edat ekleri gelir.
+동사 (dongsa) | fiil (dil bilgisi) | isim | 한국어 문장은 보통 동사로 끝난다. | Korece cümleler genellikle fiille biter.
+형용사 (hyeongyongsa) | sıfat (dil bilgisi) | isim | 한국어의 형용사는 동사처럼 활용한다. | Korecede sıfatlar fiil gibi çekimlenir.
+부사 (busa) | zarf (dil bilgisi) | isim | 부사는 주로 동사나 형용사를 꾸며 준다. | Zarflar genellikle fiil ya da sıfatları niteler.
+조사 (josa) | edat eki (Korecede) | isim | 조사를 잘못 쓰면 문장의 뜻이 달라진다. | Edat ekini yanlış kullanırsan cümlenin anlamı değişir.
+어미 (eomi) | çekim eki | isim | 어미에 따라 문장이 존댓말이 되기도 하고 반말이 되기도 한다. | Çekim ekine göre cümle saygı dili de olabilir samimi dil de.
+주어 (jueo) | özne | isim | 한국어에서는 주어를 자주 생략한다. | Korecede özne sık sık düşürülür.
+목적어 (mokjeogeo) | nesne | isim | 이 문장에는 목적어가 빠져 있어서 어색하다. | Bu cümlede nesne eksik olduğu için tuhaf duruyor.
+## Dil bilgisi II
+서술어 (seosureo) | yüklem | isim | 한국어에서 서술어는 문장의 마지막에 온다. | Korecede yüklem cümlenin sonunda gelir.
+시제 (sije) | zaman (dil bilgisi) | isim | 영어는 시제가 복잡해서 배우기 어려웠다. | İngilizcenin zamanları karmaşık olduğu için öğrenmek zordu.
+높임법 (nopimbeop) | saygı dili sistemi | isim | 한국어 높임법은 상대방의 나이와 지위에 따라 달라진다. | Korecede saygı dili karşıdakinin yaşına ve konumuna göre değişir.
+피동 (pidong) | edilgen yapı | isim | 피동 표현을 쓰면 행동한 사람이 드러나지 않는다. | Edilgen yapı kullanılınca eylemi yapan kişi görünmez.
+사동 (sadong) | ettirgen yapı | isim | 먹다의 사동 표현은 먹이다이다. | Yemek fiilinin ettirgen biçimi yedirmektir.
+어간 (eogan) | fiil kökü | isim | 동사의 어간에 어미를 붙여서 활용한다. | Fiil köküne çekim eki eklenerek çekimlenir.
+접두사 (jeopdusa) | ön ek | isim | 한국어에는 접두사보다 접미사가 훨씬 많다. | Korecede ön eklerden çok daha fazla son ek vardır.
+접미사 (jeommisa) | son ek | isim | 튀르키예어는 접미사가 많은 언어이다. | Türkçe son eki çok olan bir dildir.
+띄어쓰기 (ttuieosseugi) | kelimeleri ayrı yazma kuralı | isim | 한국어는 띄어쓰기가 틀리면 뜻이 이상해진다. | Korecede kelimeler doğru ayrılmazsa anlam tuhaflaşır.
+문장 성분 (munjang seongbun) | cümlenin ögeleri | isim | 문장 성분의 순서가 바뀌어도 뜻은 크게 변하지 않는다. | Cümle ögelerinin sırası değişse de anlam pek değişmez.
+## Ses bilgisi
+자음 (jaeum) | ünsüz | isim | 한글의 자음은 발음 기관의 모양을 본떠 만들었다. | Hangıl ünsüzleri ses organlarının biçimi örnek alınarak yapılmıştır.
+모음 (moeum) | ünlü | isim | 튀르키예어에는 모음 조화라는 규칙이 있다. | Türkçede ünlü uyumu denen bir kural vardır.
+받침 (batchim) | hece sonu ünsüz (batchim) | isim | 받침이 있는 단어는 발음이 어려울 때가 있다. | Batchimli kelimelerin telaffuzu bazen zordur.
+음절 (eumjeol) | hece | isim | 한글은 자음과 모음을 모아 음절 단위로 쓴다. | Hangıl'da ünsüz ve ünlüler bir araya getirilip hece hece yazılır.
+강세 (gangse) | vurgu | isim | 영어는 강세를 어디에 두느냐에 따라 뜻이 달라진다. | İngilizcede vurgunun nereye konduğuna göre anlam değişir.
+연음 (yeoneum) | ses bağlama (ulama) | isim | 연음 때문에 듣기만 하면 단어를 구분하기 어렵다. | Ses bağlama yüzünden sadece dinleyerek kelimeleri ayırt etmek zor.
+표준어 (pyojuneo) | standart dil | isim | 뉴스에서는 보통 표준어를 사용한다. | Haberlerde genellikle standart dil kullanılır.
+사투리 (saturi) | yöresel ağız, şive | isim | 할머니는 경상도 사투리를 쓰신다. | Büyükannem Gyeongsang şivesiyle konuşur.
+방언 (bangeon) | lehçe, ağız | isim | 제주 방언은 다른 지역 사람들이 알아듣기 어렵다. | Jeju lehçesini başka bölgelerden gelenler zor anlar.
+발음 교정 (bareum gyojeong) | telaffuz düzeltme | isim | 원어민 선생님에게 발음 교정을 받고 있다. | Ana dili Korece olan bir öğretmenden telaffuz düzeltme dersi alıyorum.
+## Kelime ve anlam
+어휘 (eohwi) | kelime dağarcığı | isim | 책을 많이 읽으면 어휘가 풍부해진다. | Çok kitap okursan kelime dağarcığın zenginleşir.
+문맥 (munmaek) | bağlam | isim | 이 단어는 문맥에 따라 뜻이 달라진다. | Bu kelimenin anlamı bağlama göre değişir.
+유의어 (yuuieo) | eş anlamlı kelime | isim | 기쁘다와 즐겁다는 유의어이지만 쓰임이 조금 다르다. | Sevinçli ve neşeli eş anlamlıdır ama kullanımları biraz farklı.
+반의어 (banuieo) | zıt anlamlı kelime | isim | 길다의 반의어는 짧다이다. | Uzun kelimesinin zıt anlamlısı kısadır.
+동음이의어 (dongeumiuieo) | eş sesli kelime | isim | 눈은 하늘에서 오는 눈과 얼굴의 눈이 있는 동음이의어이다. | Nun kelimesi hem gökten yağan kar hem de yüzdeki göz anlamına gelen eş seslidir.
+다의어 (dauieo) | çok anlamlı kelime | isim | 손은 신체의 일부이면서 일손이라는 뜻도 있는 다의어이다. | El kelimesi hem vücudun bir parçası hem de iş gücü anlamına gelen çok anlamlı bir kelimedir.
+신조어 (sinjoeo) | yeni türetilmiş kelime | isim | 인터넷에서 매일 새로운 신조어가 생겨난다. | İnternette her gün yeni kelimeler türetiliyor.
+외래어 (oeraeeo) | yabancı kökenli kelime | isim | 컴퓨터나 버스 같은 외래어는 이제 한국어처럼 쓰인다. | Bilgisayar ya da otobüs gibi yabancı kökenli kelimeler artık Korece gibi kullanılıyor.
+고유어 (goyueo) | öz Kore kelimesi | isim | 하늘이나 바다 같은 고유어는 아름다운 소리를 가지고 있다. | Gök ya da deniz gibi öz Korece kelimelerin güzel bir sesi vardır.
+한자어 (hanjaeo) | Çince kökenli kelime | isim | 한국어 어휘의 절반 이상이 한자어이다. | Korece kelime dağarcığının yarısından fazlası Çince kökenlidir.
+## Çeviri
+번역하다 (beonyeokada) | çevirmek (yazılı) | fiil | 그는 한국 소설을 튀르키예어로 번역했다. | Bir Kore romanını Türkçeye çevirdi.
+통역하다 (tongyeokada) | tercümanlık yapmak (sözlü) | fiil | 회의에서 사장님 말씀을 영어로 통역했다. | Toplantıda patronun sözlerini İngilizceye tercüme ettim.
+직역 (jigyeok) | kelimesi kelimesine çeviri | isim | 직역을 하면 문장이 어색해질 때가 많다. | Kelimesi kelimesine çevirince cümle çoğu zaman yapay olur.
+의역 (uiyeok) | serbest çeviri | isim | 속담은 직역보다 의역이 더 자연스럽다. | Atasözlerinde serbest çeviri kelimesi kelimesine çeviriden daha doğaldır.
+원문 (wonmun) | asıl metin, orijinal | isim | 번역이 이상하면 원문을 확인해 보세요. | Çeviri tuhafsa orijinal metne bakın.
+번역문 (beonyeongmun) | çeviri metni | isim | 번역문이 원문보다 더 길어졌다. | Çeviri metni orijinalinden daha uzun oldu.
+오역 (oyeok) | yanlış çeviri | isim | 영화 자막의 오역 때문에 내용을 잘못 이해했다. | Film altyazısındaki yanlış çeviri yüzünden içeriği yanlış anladım.
+동시통역 (dongsitongyeok) | simültane çeviri | isim | 국제회의에서는 동시통역이 제공된다. | Uluslararası toplantılarda simültane çeviri sağlanır.
+더빙 (deobing) | dublaj | isim | 아이들은 자막보다 더빙된 만화를 좋아한다. | Çocuklar altyazılı yerine dublajlı çizgi filmleri sever.
+감수 (gamsu) | redaksiyon, uzman kontrolü | isim | 번역이 끝나면 전문가의 감수를 받는다. | Çeviri bitince uzman kontrolünden geçer.
+## Dil öğrenmek
+모국어 (mogugeo) | ana dil | isim | 제 모국어는 튀르키예어이고 한국어는 제이 외국어예요. | Ana dilim Türkçe, Korece ise ikinci yabancı dilim.
+이중 언어 (ijung eoneo) | iki dillilik | isim | 그 아이는 엄마는 한국인, 아빠는 튀르키예인이라 이중 언어를 쓴다. | O çocuğun annesi Koreli, babası Türk olduğu için iki dil konuşuyor.
+원어민 (woneomin) | ana dili konuşan kişi | isim | 원어민과 대화하면 실력이 빨리 는다. | Ana dili konuşan biriyle sohbet edersen becerin hızla gelişir.
+회화 (hoehwa) | konuşma (dil becerisi) | isim | 문법은 잘 아는데 회화가 약하다. | Dil bilgisini iyi biliyorum ama konuşmam zayıf.
+독해 (dokae) | okuduğunu anlama | isim | 독해 문제는 시간이 많이 걸린다. | Okuduğunu anlama soruları çok zaman alıyor.
+작문 (jangmun) | kompozisyon, yazma | isim | 작문 숙제로 나의 꿈에 대한 글을 썼다. | Kompozisyon ödevi olarak hayalim hakkında bir yazı yazdım.
+청해 (cheonghae) | dinlediğini anlama | isim | 청해 실력을 높이려고 매일 라디오를 듣는다. | Dinlediğini anlama becerimi geliştirmek için her gün radyo dinliyorum.
+어학 시험 (eohak siheom) | dil sınavı | isim | 유학을 가려면 어학 시험 점수가 필요하다. | Yurt dışında okumak için dil sınavı puanı gerekir.
+학습자 (hakseupja) | öğrenen, öğrenci (dil) | isim | 한국어 학습자가 전 세계적으로 늘고 있다. | Dünya genelinde Korece öğrenenler artıyor.
+유창하다 (yuchanghada) | akıcı | sıfat | 그는 한국어를 원어민처럼 유창하게 한다. | Koreceyi ana dili gibi akıcı konuşuyor.
+## Dil kullanımı ve üslup
+의사소통 (uisasotong) | iletişim | isim | 언어가 달라도 몸짓으로 의사소통을 할 수 있다. | Dil farklı olsa bile jestlerle iletişim kurulabilir.
+비언어적 (bieoneojeok) | sözsüz, dil dışı | sıfat | 표정이나 손짓 같은 비언어적 표현도 중요하다. | Yüz ifadesi ya da el hareketi gibi sözsüz ifadeler de önemlidir.
+문어체 (muneoche) | yazı dili üslubu | isim | 신문 기사는 주로 문어체로 쓰인다. | Gazete haberleri çoğunlukla yazı dili üslubuyla yazılır.
+구어체 (gueoche) | konuşma dili üslubu | isim | 친구에게 보내는 메시지는 구어체로 쓴다. | Arkadaşa gönderilen mesajlar konuşma diliyle yazılır.
+존칭 (jonching) | saygı ifadesi, unvan | isim | 회사에서는 이름 뒤에 존칭을 붙여 부른다. | Şirkette isimlerin arkasına saygı ifadesi eklenerek hitap edilir.
+호칭 (hoching) | hitap şekli | isim | 한국에서는 나이에 따라 호칭이 달라진다. | Kore'de yaşa göre hitap şekli değişir.
+완곡어법 (wangogeobeop) | örtmece | isim | 죽었다 대신 돌아가셨다고 하는 것은 완곡어법이다. | Öldü yerine vefat etti demek bir örtmecedir.
+관용 표현 (gwanyong pyohyeon) | kalıplaşmış ifade | isim | 관용 표현은 단어 뜻만으로는 이해하기 어렵다. | Kalıplaşmış ifadeler sadece kelime anlamlarıyla anlaşılmaz.
+속어 (sogeo) | argo | isim | 공식적인 자리에서는 속어를 쓰지 않는 게 좋다. | Resmî ortamlarda argo kullanmamak iyidir.
+은어 (euneo) | özel grup dili, jargon | isim | 청소년들은 자기들끼리만 아는 은어를 쓴다. | Gençler sadece kendi aralarında bildikleri bir dil kullanır.
+## Yazı sistemleri
+문자 체계 (munja chegye) | yazı sistemi | isim | 한글은 만든 사람과 시기가 알려진 드문 문자 체계이다. | Hangıl, yaratanı ve zamanı bilinen nadir yazı sistemlerinden biridir.
+알파벳 (alpabet) | alfabe (Latin) | isim | 튀르키예어는 라틴 알파벳으로 쓴다. | Türkçe Latin alfabesiyle yazılır.
+한자 (hanja) | Çince karakter | isim | 할아버지는 아직도 신문의 한자를 다 읽으신다. | Dedem hâlâ gazetedeki Çince karakterlerin hepsini okuyor.
+표기 (pyogi) | yazım, gösterim | isim | 외국 이름의 한글 표기가 사람마다 다르다. | Yabancı isimlerin Hangıl yazımı kişiden kişiye değişiyor.
+표기법 (pyogibeop) | yazım sistemi, transkripsiyon kuralları | isim | 로마자 표기법에 따라 이름을 영어로 썼다. | İsmimi Latin harfleriyle yazım kurallarına göre yazdım.
+로마자 (romaja) | Latin harfleri | isim | 지하철역 이름은 로마자로도 적혀 있다. | Metro istasyonlarının adları Latin harfleriyle de yazılmış.
+자모 (jamo) | harfler (ünsüz ve ünlüler) | isim | 한글 자모는 모두 스물네 개이다. | Hangıl'da toplam yirmi dört temel harf vardır.
+획 (hoek) | çizgi, vuruş (yazıda) | isim | 이 한자는 획이 많아서 쓰기 어렵다. | Bu Çince karakterin çizgisi çok olduğu için yazmak zor.
+필기체 (pilgiche) | el yazısı (bitişik) | isim | 필기체로 쓴 편지는 읽기가 힘들었다. | Bitişik el yazısıyla yazılmış mektubu okumak zordu.
+서체 (seoche) | yazı tipi | isim | 보고서에는 읽기 쉬운 서체를 쓰세요. | Raporda okunması kolay bir yazı tipi kullanın.
+## Dil ve toplum
+언어 (eoneo) | dil (lisan) | isim | 언어는 그 나라의 문화를 담고 있다. | Dil o ülkenin kültürünü taşır.
+공용어 (gongyongeo) | resmî dil | isim | 스위스에는 공용어가 네 개나 있다. | İsviçre'nin tam dört resmî dili var.
+국제어 (gukjeeo) | uluslararası dil | isim | 영어는 오늘날 대표적인 국제어이다. | İngilizce günümüzün başlıca uluslararası dilidir.
+언어 장벽 (eoneo jangbyeok) | dil engeli | isim | 처음 유학을 갔을 때 언어 장벽 때문에 힘들었다. | Yurt dışına okumaya ilk gittiğimde dil engeli yüzünden zorlandım.
+소수 언어 (sosu eoneo) | azınlık dili | isim | 소수 언어를 지키기 위한 노력이 필요하다. | Azınlık dillerini korumak için çaba gerekiyor.
+멸종 위기 언어 (myeoljong wigi eoneo) | yok olma tehlikesindeki dil | isim | 제주어는 유네스코가 정한 멸종 위기 언어이다. | Jeju dili UNESCO'nun belirlediği yok olma tehlikesindeki dillerden biridir.
+언어 정책 (eoneo jeongchaek) | dil politikası | isim | 정부는 외래어를 줄이는 언어 정책을 펴고 있다. | Hükümet yabancı kelimeleri azaltan bir dil politikası izliyor.
+다국어 (dagugeo) | çok dilli | isim | 공항 안내판은 다국어로 되어 있다. | Havalimanı tabelaları çok dilli.
+문맹 (munmaeng) | okuma yazma bilmezlik | isim | 한글 덕분에 한국은 문맹률이 매우 낮다. | Hangıl sayesinde Kore'de okuma yazma bilmeyenlerin oranı çok düşük.
+어원 (eowon) | etimoloji, kelimenin kökeni | isim | 이 단어의 어원을 찾아보니 몽골어였다. | Bu kelimenin kökenine bakınca Moğolca olduğunu gördüm.
+## Dil eylemleri
+발음하다 (bareumhada) | telaffuz etmek | fiil | 외국인에게는 받침을 정확하게 발음하기가 어렵다. | Yabancılar için hece sonu ünsüzlerini doğru telaffuz etmek zordur.
+표기하다 (pyogihada) | yazmak, göstermek (yazıyla) | fiil | 가격은 원화로 표기되어 있다. | Fiyatlar won cinsinden yazılmış.
+해석하다 (haeseokada) | yorumlamak; çevirmek | fiil | 이 시는 사람마다 다르게 해석할 수 있다. | Bu şiir herkes tarafından farklı yorumlanabilir.
+구사하다 (gusahada) | (dil) kullanmak, konuşabilmek | fiil | 그는 다섯 개 언어를 자유롭게 구사한다. | Beş dili rahatça konuşabiliyor.
+받아쓰다 (badasseuda) | dikte ile yazmak | fiil | 선생님이 읽어 주는 문장을 받아썼다. | Öğretmenin okuduğu cümleleri dikteyle yazdım.
+줄여 말하다 (juryeo malhada) | kısaltarak söylemek | ifade | 요즘 젊은이들은 단어를 줄여 말하는 것을 좋아한다. | Bu aralar gençler kelimeleri kısaltarak söylemeyi seviyor.
+고쳐 쓰다 (gochyeo sseuda) | düzelterek yeniden yazmak | ifade | 선생님의 조언을 듣고 글을 다시 고쳐 썼다. | Öğretmenin tavsiyesini dinleyip yazıyı düzelterek yeniden yazdım.
+파생되다 (pasaengdoeda) | türemek | fiil | 이 단어는 옛 한자어에서 파생되었다. | Bu kelime eski bir Çince kökenli kelimeden türedi.
+뜻풀이 (tteutpuri) | anlam açıklaması (sözlükte) | isim | 사전의 뜻풀이가 너무 어려워서 예문을 찾아봤다. | Sözlükteki anlam açıklaması çok zor olduğu için örnek cümlelere baktım.
+활용하다 (hwaryonghada) | çekimlemek; yararlanmak | fiil | 불규칙 동사는 활용할 때 형태가 바뀐다. | Düzensiz fiiller çekimlenirken biçim değiştirir.
