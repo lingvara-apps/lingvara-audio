@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum, vücut, sağlıklı yaşam
+## Hastanede
+診察 (shinsatsu) | muayene | isim | 診察は十時からです。(Shinsatsu wa jūji kara desu.) | Muayene saat onda başlıyor.
+患者 (kanja) | hasta (kişi) | isim | 待合室に患者が多いです。(Machiaishitsu ni kanja ga ōi desu.) | Bekleme odasında çok hasta var.
+保険証 (hokenshō) | sağlık sigortası kartı | isim | 保険証を見せてください。(Hokenshō o misete kudasai.) | Sigorta kartınızı gösterin lütfen.
+内科 (naika) | dahiliye | isim | 熱があるので内科に行きます。(Netsu ga aru node naika ni ikimasu.) | Ateşim olduğu için dahiliyeye gidiyorum.
+外科 (geka) | cerrahi (bölümü) | isim | 足のけがで外科に行きました。(Ashi no kega de geka ni ikimashita.) | Ayağımdaki yara yüzünden cerrahiye gittim.
+歯医者 (haisha) | diş hekimi | isim | 明日、歯医者に行きます。(Ashita, haisha ni ikimasu.) | Yarın dişçiye gidiyorum.
+待合室 (machiaishitsu) | bekleme salonu | isim | 待合室でお待ちください。(Machiaishitsu de omachi kudasai.) | Bekleme salonunda bekleyin lütfen.
+検査 (kensa) | tahlil, muayene, kontrol | isim | 血の検査をします。(Chi no kensa o shimasu.) | Kan tahlili yapacağız.
+入院 (nyūin) | hastaneye yatma | isim | 祖父は一週間入院しました。(Sofu wa isshūkan nyūin shimashita.) | Dedem bir hafta hastanede yattı.
+退院 (taiin) | taburcu olma | isim | 明日、退院できます。(Ashita, taiin dekimasu.) | Yarın taburcu olabilirsiniz.
+## Belirtiler
+頭痛 (zutsū) | baş ağrısı | isim | 朝から頭痛がします。(Asa kara zutsū ga shimasu.) | Sabahtan beri başım ağrıyor.
+腹痛 (fukutsū) | karın ağrısı | isim | 腹痛で学校を休みました。(Fukutsū de gakkō o yasumimashita.) | Karın ağrısı yüzünden okula gitmedim.
+吐き気 (hakike) | bulantı | isim | 少し吐き気がします。(Sukoshi hakike ga shimasu.) | Biraz midem bulanıyor.
+鼻水 (hanamizu) | burun akıntısı | isim | 鼻水が止まりません。(Hanamizu ga tomarimasen.) | Burnumun akması durmuyor.
+喉 (nodo) | boğaz | isim | 喉が痛いです。(Nodo ga itai desu.) | Boğazım ağrıyor.
+くしゃみ (kushami) | hapşırık | isim | くしゃみが出ます。(Kushami ga demasu.) | Hapşırıyorum.
+めまい (memai) | baş dönmesi | isim | 立つとめまいがします。(Tatsu to memai ga shimasu.) | Ayağa kalkınca başım dönüyor.
+下痢 (geri) | ishal | isim | 昨日から下痢をしています。(Kinō kara geri o shite imasu.) | Dünden beri ishalim.
+かゆい (kayui) | kaşıntılı | sıfat | 蚊に刺されてかゆいです。(Ka ni sasarete kayui desu.) | Sivrisinek ısırdı, kaşınıyor.
+寒気 (samuke) | üşüme, titreme | isim | 寒気がして熱が出ました。(Samuke ga shite netsu ga demashita.) | Üşüme geldi ve ateşim çıktı.
+## Eczanede
+薬局 (yakkyoku) | eczane | isim | 駅の前に薬局があります。(Eki no mae ni yakkyoku ga arimasu.) | İstasyonun önünde eczane var.
+処方箋 (shohōsen) | reçete | isim | 処方箋を薬局に出します。(Shohōsen o yakkyoku ni dashimasu.) | Reçeteyi eczaneye veriyorum.
+錠剤 (jōzai) | tablet, hap | isim | この錠剤を一日三回飲んでください。(Kono jōzai o ichinichi sankai nonde kudasai.) | Bu hapları günde üç kez için.
+目薬 (megusuri) | göz damlası | isim | 目が疲れたので目薬をさします。(Me ga tsukareta node megusuri o sashimasu.) | Gözlerim yorulduğu için göz damlası damlatıyorum.
+湿布 (shippu) | ağrı bandı, kompres | isim | 腰に湿布を貼りました。(Koshi ni shippu o harimashita.) | Belime ağrı bandı yapıştırdım.
+包帯 (hōtai) | sargı bezi | isim | 腕に包帯を巻きます。(Ude ni hōtai o makimasu.) | Koluma sargı sarıyorum.
+絆創膏 (bansōkō) | yara bandı | isim | 指に絆創膏を貼ってください。(Yubi ni bansōkō o hatte kudasai.) | Parmağına yara bandı yapıştır.
+副作用 (fukusayō) | yan etki | isim | この薬に副作用はありますか。(Kono kusuri ni fukusayō wa arimasu ka.) | Bu ilacın yan etkisi var mı?
+食後 (shokugo) | yemekten sonra | isim | 薬は食後に飲みます。(Kusuri wa shokugo ni nomimasu.) | İlaç yemekten sonra içilir.
+食前 (shokuzen) | yemekten önce | isim | この薬は食前に飲んでください。(Kono kusuri wa shokuzen ni nonde kudasai.) | Bu ilacı yemekten önce için.
+## Acil durum
+救急車 (kyūkyūsha) | ambulans | isim | 救急車を呼んでください。(Kyūkyūsha o yonde kudasai.) | Ambulans çağırın lütfen.
+事故 (jiko) | kaza | isim | 交差点で事故がありました。(Kōsaten de jiko ga arimashita.) | Kavşakta kaza oldu.
+火事 (kaji) | yangın | isim | 近所で火事がありました。(Kinjo de kaji ga arimashita.) | Mahallede yangın çıktı.
+地震 (jishin) | deprem | isim | 昨日の夜、地震がありました。(Kinō no yoru, jishin ga arimashita.) | Dün gece deprem oldu.
+助けて (tasukete) | imdat!, yardım edin! | ifade | 誰か助けて！(Dareka tasukete!) | Biri yardım etsin!
+危ない (abunai) | tehlikeli; dikkat et! | sıfat | 危ない！車が来るよ。(Abunai! Kuruma ga kuru yo.) | Dikkat! Araba geliyor.
+警察 (keisatsu) | polis (teşkilatı) | isim | 警察に電話しました。(Keisatsu ni denwa shimashita.) | Polisi aradım.
+避難 (hinan) | tahliye, sığınma | isim | 地震のときは公園に避難します。(Jishin no toki wa kōen ni hinan shimasu.) | Depremde parka tahliye oluruz.
+緊急 (kinkyū) | acil | isim | 緊急のときは百十九番です。(Kinkyū no toki wa hyakujūkyū-ban desu.) | Acil durumda 119 aranır.
+倒れる (taoreru) | düşmek, yığılmak | fiil | 駅で人が倒れました。(Eki de hito ga taoremashita.) | İstasyonda biri yığıldı.
+## Yaralanmalar
+骨折 (kossetsu) | kemik kırığı | isim | スキーで足を骨折しました。(Sukī de ashi o kossetsu shimashita.) | Kayakta bacağımı kırdım.
+やけど (yakedo) | yanık | isim | 熱いお茶でやけどしました。(Atsui o-cha de yakedo shimashita.) | Sıcak çay yüzünden yandım.
+血 (chi) | kan | isim | 指から血が出ています。(Yubi kara chi ga dete imasu.) | Parmağımdan kan akıyor.
+傷 (kizu) | yara, çizik | isim | 傷はもう治りました。(Kizu wa mō naorimashita.) | Yara artık iyileşti.
+腫れる (hareru) | şişmek | fiil | 足首が腫れています。(Ashikubi ga harete imasu.) | Ayak bileğim şişmiş.
+ねんざ (nenza) | burkulma | isim | 階段で足首をねんざしました。(Kaidan de ashikubi o nenza shimashita.) | Merdivende ayak bileğimi burktum.
+転ぶ (korobu) | düşmek (tökezleyip) | fiil | 雪の日に転びました。(Yuki no hi ni korobimashita.) | Karlı bir günde düştüm.
+ぶつける (butsukeru) | çarpmak (bir yerini) | fiil | 頭をドアにぶつけました。(Atama o doa ni butsukemashita.) | Kafamı kapıya çarptım.
+出血 (shukketsu) | kanama | isim | 出血が止まりました。(Shukketsu ga tomarimashita.) | Kanama durdu.
+手術 (shujutsu) | ameliyat | isim | 来月、手術を受けます。(Raigetsu, shujutsu o ukemasu.) | Gelecek ay ameliyat olacağım.
+## İç organlar
+心臓 (shinzō) | kalp (organ) | isim | 心臓がどきどきします。(Shinzō ga dokidoki shimasu.) | Kalbim küt küt atıyor.
+胃 (i) | mide | isim | 胃が痛いです。(I ga itai desu.) | Midem ağrıyor.
+肺 (hai) | akciğer | isim | たばこは肺に悪いです。(Tabako wa hai ni warui desu.) | Sigara akciğerlere zararlı.
+骨 (hone) | kemik | isim | 牛乳は骨にいいです。(Gyūnyū wa hone ni ii desu.) | Süt kemiklere iyi gelir.
+筋肉 (kinniku) | kas | isim | ジムで筋肉をつけています。(Jimu de kinniku o tsukete imasu.) | Spor salonunda kas yapıyorum.
+皮膚 (hifu) | cilt, deri | isim | 皮膚が乾燥しています。(Hifu ga kansō shite imasu.) | Cildim kuru.
+腰 (koshi) | bel | isim | 重い荷物で腰が痛くなりました。(Omoi nimotsu de koshi ga itaku narimashita.) | Ağır yük yüzünden belim ağrıdı.
+脳 (nō) | beyin | isim | 寝ないと脳が疲れます。(Nenai to nō ga tsukaremasu.) | Uyumazsan beynin yorulur.
+肝臓 (kanzō) | karaciğer | isim | お酒は肝臓に悪いです。(O-sake wa kanzō ni warui desu.) | Alkol karaciğere zararlı.
+関節 (kansetsu) | eklem | isim | 寒いと関節が痛みます。(Samui to kansetsu ga itamimasu.) | Soğukta eklemlerim ağrır.
+## Hastalıklar
+インフルエンザ (infuruenza) | grip | isim | インフルエンザで一週間休みました。(Infuruenza de isshūkan yasumimashita.) | Grip yüzünden bir hafta işe gitmedim.
+アレルギー (arerugī) | alerji | isim | 卵のアレルギーがあります。(Tamago no arerugī ga arimasu.) | Yumurta alerjim var.
+花粉症 (kafunshō) | saman nezlesi, polen alerjisi | isim | 春は花粉症で大変です。(Haru wa kafunshō de taihen desu.) | İlkbaharda polen alerjisi yüzünden zorlanıyorum.
+熱中症 (netchūshō) | sıcak çarpması | isim | 夏は熱中症に気をつけて。(Natsu wa netchūshō ni ki o tsukete.) | Yazın sıcak çarpmasına dikkat et.
+虫歯 (mushiba) | diş çürüğü | isim | 虫歯が一本あります。(Mushiba ga ippon arimasu.) | Bir çürük dişim var.
+喘息 (zensoku) | astım | isim | 弟は喘息があります。(Otōto wa zensoku ga arimasu.) | Kardeşimde astım var.
+食中毒 (shokuchūdoku) | gıda zehirlenmesi | isim | 夏は食中毒が多いです。(Natsu wa shokuchūdoku ga ōi desu.) | Yazın gıda zehirlenmesi sık görülür.
+便秘 (benpi) | kabızlık | isim | 野菜を食べないと便秘になります。(Yasai o tabenai to benpi ni narimasu.) | Sebze yemezsen kabız olursun.
+ストレス (sutoresu) | stres | isim | 仕事のストレスがたまっています。(Shigoto no sutoresu ga tamatte imasu.) | İş stresi birikti.
+うつる (utsuru) | bulaşmak | fiil | 風邪がうつるから近づかないで。(Kaze ga utsuru kara chikazukanaide.) | Nezle bulaşır, yaklaşma.
+## Sağlıklı yaşam
+体重 (taijū) | kilo, vücut ağırlığı | isim | 体重が三キロ減りました。(Taijū ga sankiro herimashita.) | Üç kilo verdim.
+身長 (shinchō) | boy (uzunluk) | isim | 身長は百七十センチです。(Shinchō wa hyakunanajussenchi desu.) | Boyum yüz yetmiş santim.
+体温 (taion) | vücut ısısı | isim | 体温を測ってください。(Taion o hakatte kudasai.) | Ateşinizi ölçün lütfen.
+血圧 (ketsuatsu) | tansiyon | isim | 父は血圧が高いです。(Chichi wa ketsuatsu ga takai desu.) | Babamın tansiyonu yüksek.
+睡眠 (suimin) | uyku | isim | 睡眠は七時間ぐらい必要です。(Suimin wa nanajikan gurai hitsuyō desu.) | Yedi saat kadar uyku gerekir.
+ダイエット (daietto) | diyet, rejim | isim | 来月からダイエットします。(Raigetsu kara daietto shimasu.) | Gelecek aydan itibaren diyete başlıyorum.
+たばこ (tabako) | sigara | isim | ここでたばこを吸わないでください。(Koko de tabako o suwanaide kudasai.) | Burada sigara içmeyin lütfen.
+禁煙 (kin'en) | sigara içilmez; sigarayı bırakma | isim | この店は全席禁煙です。(Kono mise wa zenseki kin'en desu.) | Bu dükkânda hiçbir masada sigara içilmez.
+健康診断 (kenkō shindan) | sağlık taraması, check-up | isim | 毎年健康診断を受けます。(Maitoshi kenkō shindan o ukemasu.) | Her yıl check-up yaptırırım.
+規則正しい (kisoku tadashii) | düzenli | sıfat | 規則正しい生活をしましょう。(Kisoku tadashii seikatsu o shimashō.) | Düzenli bir hayat yaşayalım.
+## Doktorla konuşmak
+症状 (shōjō) | belirti | isim | どんな症状がありますか。(Donna shōjō ga arimasu ka.) | Ne gibi belirtileriniz var?
+痛む (itamu) | ağrımak, sızlamak | fiil | 傷がまだ痛みます。(Kizu ga mada itamimasu.) | Yara hâlâ sızlıyor.
+診る (miru) | muayene etmek | fiil | 先生に診てもらいました。(Sensei ni mite moraimashita.) | Doktora muayene oldum.
+注射 (chūsha) | iğne, enjeksiyon | isim | 注射は苦手です。(Chūsha wa nigate desu.) | İğneden hoşlanmam.
+治療 (chiryō) | tedavi | isim | 歯の治療に通っています。(Ha no chiryō ni kayotte imasu.) | Diş tedavisine gidip geliyorum.
+回復 (kaifuku) | iyileşme | isim | 早い回復を祈っています。(Hayai kaifuku o inotte imasu.) | Acil şifalar dilerim.
+様子 (yōsu) | durum, hâl | isim | 二、三日様子を見ましょう。(Ni, sannichi yōsu o mimashō.) | İki üç gün durumu izleyelim.
+我慢する (gaman suru) | katlanmak, sabretmek | fiil · düzensiz | 痛いときは我慢しないでください。(Itai toki wa gaman shinaide kudasai.) | Ağrınız olduğunda katlanmayın.
+無理 (muri) | imkânsız; aşırı zorlama | sıfat | 無理をしないでね。(Muri o shinaide ne.) | Kendini fazla zorlama.
+安静 (ansei) | istirahat | isim | 三日間安静にしてください。(Mikkakan ansei ni shite kudasai.) | Üç gün istirahat edin.
+## Kendini nasıl hissediyorsun?
+だるい (darui) | halsiz, bitkin | sıfat | 体がだるいです。(Karada ga darui desu.) | Kendimi halsiz hissediyorum.
+苦しい (kurushii) | sıkıntılı, nefes almakta zorlanan | sıfat | 息が苦しいです。(Iki ga kurushii desu.) | Nefes almakta zorlanıyorum.
+ふらふら (furafura) | sendeleyen, başı dönen | zarf | 熱でふらふらします。(Netsu de furafura shimasu.) | Ateşten başım dönüyor.
+ずきずき (zukizuki) | zonklayarak (ağrı) | zarf | 頭がずきずき痛みます。(Atama ga zukizuki itamimasu.) | Başım zonklayarak ağrıyor.
+ぐっすり (gussuri) | derin derin (uyumak) | zarf | 昨日はぐっすり寝ました。(Kinō wa gussuri nemashita.) | Dün mışıl mışıl uyudum.
+寝不足 (nebusoku) | uykusuzluk | isim | 最近、寝不足です。(Saikin, nebusoku desu.) | Son zamanlarda uykusuzum.
+食欲 (shokuyoku) | iştah | isim | 風邪で食欲がありません。(Kaze de shokuyoku ga arimasen.) | Nezle yüzünden iştahım yok.
+体調 (taichō) | sağlık durumu, form | isim | 今日は体調がいいです。(Kyō wa taichō ga ii desu.) | Bugün kendimi iyi hissediyorum.
+楽 (raku) | rahat, kolay | sıfat | 薬を飲んで楽になりました。(Kusuri o nonde raku ni narimashita.) | İlacı içince rahatladım.
+吐く (haku) | kusmak | fiil | 気分が悪くて吐きました。(Kibun ga warukute hakimashita.) | Midem bulanıp kustum.
