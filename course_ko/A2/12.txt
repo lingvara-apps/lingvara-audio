@@ -1,0 +1,111 @@
+# UNIT: Eğitim ve toplum | Okul, üniversite, resmî işler, şehir, bağlaçlar
+## Okullar
+유치원 (yuchiwon) | anaokulu | isim | 조카는 유치원에 다녀요. (Jokaneun yuchiwone danyeoyo.) | Yeğenim anaokuluna gidiyor.
+초등학교 (chodeunghakgyo) | ilkokul | isim | 초등학교는 육 년 동안 다녀요. (Chodeunghakgyoneun yuk nyeon dongan danyeoyo.) | İlkokula altı yıl gidilir.
+중학교 (junghakgyo) | ortaokul | isim | 동생이 중학교에 입학했어요. (Dongsaengi junghakgyoe ipakaesseoyo.) | Kardeşim ortaokula başladı.
+고등학교 (godeunghakgyo) | lise | isim | 고등학교 때 친구들이 보고 싶어요. (Godeunghakgyo ttae chingudeuri bogo sipeoyo.) | Lise arkadaşlarımı özledim.
+대학교 (daehakgyo) | üniversite | isim | 어느 대학교에 다녀요? (Eoneu daehakgyoe danyeoyo?) | Hangi üniversiteye gidiyorsun?
+대학원 (daehagwon) | yüksek lisans (okulu) | isim | 졸업하고 대학원에 가고 싶어요. (Joreopago daehagwone gago sipeoyo.) | Mezun olunca yüksek lisans yapmak istiyorum.
+학원 (hagwon) | özel kurs, dershane | isim | 저녁에 영어 학원에 다녀요. (Jeonyeoge yeongeo hagwone danyeoyo.) | Akşamları İngilizce kursuna gidiyorum.
+학년 (hangnyeon) | sınıf (yıl) | isim | 몇 학년이에요? (Myeot hangnyeonieyo?) | Kaçıncı sınıftasın?
+학기 (hakgi) | dönem, yarıyıl | isim | 이번 학기에 다섯 과목을 들어요. (Ibeon hakgie daseot gwamogeul deureoyo.) | Bu dönem beş ders alıyorum.
+교실 (gyosil) | sınıf (oda) | isim | 교실에 학생이 스무 명 있어요. (Gyosire haksaengi seumu myeong isseoyo.) | Sınıfta yirmi öğrenci var.
+## Okul hayatı
+입학하다 (ipakada) | okula başlamak, kaydolmak | fiil | 올해 대학교에 입학했어요. (Olhae daehakgyoe ipakaesseoyo.) | Bu yıl üniversiteye başladım.
+졸업하다 (joreopada) | mezun olmak | fiil | 내년 이월에 졸업해요. (Naenyeon iwore joreopaeyo.) | Seneye şubatta mezun oluyorum.
+방학 (banghak) | okul tatili | isim | 여름 방학이 곧 시작해요. (Yeoreum banghagi got sijakaeyo.) | Yaz tatili yakında başlıyor.
+개학 (gaehak) | okulların açılması | isim | 다음 주가 개학이에요. (Daeum juga gaehagieyo.) | Okullar gelecek hafta açılıyor.
+출석 (chulseok) | yoklama, derse katılım | isim | 선생님이 출석을 불러요. (Seonsaengnimi chulseogeul bulleoyo.) | Öğretmen yoklama alıyor.
+결석하다 (gyeolseokada) | devamsızlık yapmak | fiil | 감기 때문에 학교에 결석했어요. (Gamgi ttaemune hakgyoe gyeolseokaesseoyo.) | Nezle yüzünden okula gitmedim.
+지각하다 (jigakada) | geç kalmak (okula, işe) | fiil | 늦잠을 자서 지각했어요. (Neutjameul jaseo jigakaesseoyo.) | Uyuya kaldığım için geç kaldım.
+성적 (seongjeok) | not, başarı | isim | 이번 학기 성적이 올랐어요. (Ibeon hakgi seongjeogi ollasseoyo.) | Bu dönem notlarım yükseldi.
+교과서 (gyogwaseo) | ders kitabı | isim | 교과서 삼십 쪽을 펴세요. (Gyogwaseo samsip jjogeul pyeoseyo.) | Ders kitabının otuzuncu sayfasını açın.
+칠판 (chilpan) | yazı tahtası | isim | 칠판에 쓴 내용을 적으세요. (Chilpane sseun naeyongeul jeogeuseyo.) | Tahtaya yazılanları not alın.
+## Dersler
+과목 (gwamok) | ders (konu) | isim | 무슨 과목을 제일 좋아해요? (Museun gwamogeul jeil joahaeyo?) | En çok hangi dersi seversin?
+국어 (gugeo) | ana dil dersi (Korece) | isim | 국어 시간에 시를 읽었어요. (Gugeo sigane sireul ilgeosseoyo.) | Korece dersinde şiir okuduk.
+수학 (suhak) | matematik | isim | 저는 수학이 어려워요. (Jeoneun suhagi eoryeowoyo.) | Matematik bana zor geliyor.
+과학 (gwahak) | fen, bilim | isim | 과학 실험이 재미있어요. (Gwahak silheomi jaemiisseoyo.) | Fen deneyleri eğlenceli.
+역사 (yeoksa) | tarih | isim | 한국 역사에 관심이 있어요. (Hanguk yeoksae gwansimi isseoyo.) | Kore tarihine ilgim var.
+미술 (misul) | resim (ders), güzel sanatlar | isim | 미술 시간에 그림을 그렸어요. (Misul sigane geurimeul geuryeosseoyo.) | Resim dersinde resim çizdik.
+체육 (cheyuk) | beden eğitimi | isim | 체육 시간에 축구를 했어요. (Cheyuk sigane chukgureul haesseoyo.) | Beden eğitimi dersinde futbol oynadık.
+물리 (mulli) | fizik | isim | 물리는 공식이 많아요. (Mullineun gongsigi manayo.) | Fizikte çok formül var.
+화학 (hwahak) | kimya | isim | 화학 시험을 잘 봤어요. (Hwahak siheomeul jal bwasseoyo.) | Kimya sınavım iyi geçti.
+외국어 (oegugeo) | yabancı dil | isim | 외국어를 배우는 게 재미있어요. (Oegugeoreul baeuneun ge jaemiisseoyo.) | Yabancı dil öğrenmek eğlenceli.
+## Üniversite
+전공 (jeongong) | ana dal, bölüm (uzmanlık) | isim | 전공이 뭐예요? (Jeongongi mwoyeyo?) | Bölümün ne?
+학과 (hakgwa) | bölüm (fakülte içinde) | isim | 저는 경영학과 학생이에요. (Jeoneun gyeongyeonghakgwa haksaengieyo.) | İşletme bölümü öğrencisiyim.
+강의 (gangui) | ders (üniversite), konferans | isim | 오늘 강의는 아홉 시에 시작해요. (Oneul ganguineun ahop sie sijakaeyo.) | Bugünkü ders dokuzda başlıyor.
+학점 (hakjeom) | kredi; not ortalaması | isim | 이번 학기에 학점을 잘 받았어요. (Ibeon hakgie hakjeomeul jal badasseoyo.) | Bu dönem iyi notlar aldım.
+장학금 (janghakgeum) | burs | isim | 성적이 좋아서 장학금을 받았어요. (Seongjeogi joaseo janghakgeumeul badasseoyo.) | Notlarım iyi olduğu için burs aldım.
+등록금 (deungnokgeum) | okul harcı | isim | 대학교 등록금이 비싸요. (Daehakgyo deungnokgeumi bissayo.) | Üniversite harcı pahalı.
+논문 (nonmun) | tez, makale | isim | 졸업 논문을 쓰고 있어요. (Joreop nonmuneul sseugo isseoyo.) | Bitirme tezimi yazıyorum.
+동아리 (dongari) | öğrenci kulübü | isim | 사진 동아리에 들었어요. (Sajin dongarie deureosseoyo.) | Fotoğraf kulübüne katıldım.
+캠퍼스 (kaempeoseu) | kampüs | isim | 봄에는 캠퍼스가 정말 예뻐요. (Bomeneun kaempeoseuga jeongmal yeppeoyo.) | İlkbaharda kampüs çok güzel olur.
+유학 (yuhak) | yurt dışında öğrenim | isim | 한국으로 유학을 왔어요. (Hangugeuro yuhageul wasseoyo.) | Kore'ye okumaya geldim.
+## Öğrenme eylemleri
+외우다 (oeuda) | ezberlemek | fiil | 매일 단어 스무 개를 외워요. (Maeil daneo seumu gaereul oewoyo.) | Her gün yirmi kelime ezberliyorum.
+복습하다 (bokseupada) | tekrar etmek (dersi) | fiil | 수업 후에 꼭 복습하세요. (Sueop hue kkok bokseupaseyo.) | Dersten sonra mutlaka tekrar edin.
+예습하다 (yeseupada) | derse önceden hazırlanmak | fiil | 내일 배울 내용을 예습했어요. (Naeil baeul naeyongeul yeseupaesseoyo.) | Yarın öğreneceğimiz konuya önceden çalıştım.
+토론하다 (toronhada) | tartışmak (fikir) | fiil | 환경 문제에 대해 토론했어요. (Hwangyeong munjee daehae toronhaesseoyo.) | Çevre sorunları hakkında tartıştık.
+조사하다 (josahada) | araştırmak | fiil | 숙제로 한국 음식을 조사했어요. (Sukjero Hanguk eumsigeul josahaesseoyo.) | Ödev için Kore yemeklerini araştırdım.
+틀리다 (teullida) | yanlış olmak, yanlış yapmak | fiil | 시험에서 두 문제를 틀렸어요. (Siheomeseo du munjereul teullyeosseoyo.) | Sınavda iki soruyu yanlış yaptım.
+맞히다 (majida) | doğru bilmek | fiil | 정답을 맞혔어요! (Jeongdabeul majyeosseoyo!) | Doğru cevabı bildim!
+알아듣다 (aradeutda) | anlamak (duyduğunu) (알아들어요) | fiil · düzensiz | 한국 드라마를 반쯤 알아들어요. (Hanguk deuramareul banjjeum aradeureoyo.) | Kore dizilerinin yarısını anlıyorum.
+집중하다 (jipjunghada) | odaklanmak | fiil | 시끄러워서 집중할 수 없어요. (Sikkeureowoseo jipjunghal su eopseoyo.) | Gürültüden odaklanamıyorum.
+졸다 (jolda) | uyuklamak | fiil | 수업 시간에 졸았어요. (Sueop sigane jorasseoyo.) | Derste uyukladım.
+## Resmî işler
+주민센터 (juminsenteo) | mahalle hizmet merkezi (muhtarlık) | isim | 주민센터에서 서류를 뗐어요. (Juminsenteoeseo seoryureul ttesseoyo.) | Mahalle merkezinden belge aldım.
+구청 (gucheong) | ilçe belediyesi | isim | 구청에 가서 신고했어요. (Gucheonge gaseo singohaesseoyo.) | İlçe belediyesine gidip bildirdim.
+증명서 (jeungmyeongseo) | belge, sertifika | isim | 재학 증명서가 필요해요. (Jaehak jeungmyeongseoga piryohaeyo.) | Öğrenci belgesine ihtiyacım var.
+발급하다 (balgeupada) | düzenlemek (belge) | fiil | 여권을 새로 발급했어요. (Yeogwoneul saero balgeupaesseoyo.) | Yeni pasaport çıkardım.
+신청하다 (sincheonghada) | başvurmak | fiil | 장학금을 신청했어요. (Janghakgeumeul sincheonghaesseoyo.) | Bursa başvurdum.
+연장하다 (yeonjanghada) | uzatmak (süre) | fiil | 비자를 일 년 연장했어요. (Bijareul il nyeon yeonjanghaesseoyo.) | Vizemi bir yıl uzattım.
+등록하다 (deungnokada) | kaydolmak, kayıt yaptırmak | fiil | 요가 수업에 등록했어요. (Yoga sueobe deungnokaesseoyo.) | Yoga dersine kaydoldum.
+기간 (gigan) | süre, dönem | isim | 신청 기간이 언제까지예요? (Sincheong gigani eonjekkajiyeyo?) | Başvuru süresi ne zamana kadar?
+절차 (jeolcha) | prosedür, işlem | isim | 절차가 좀 복잡해요. (Jeolchaga jom bokjapaeyo.) | Prosedür biraz karmaşık.
+마감 (magam) | son tarih, kapanış | isim | 마감이 내일이에요. (Magami naeirieyo.) | Son tarih yarın.
+## Toplum
+사회 (sahoe) | toplum | isim | 한국 사회는 빠르게 변하고 있어요. (Hanguk sahoeneun ppareuge byeonhago isseoyo.) | Kore toplumu hızla değişiyor.
+시민 (simin) | vatandaş, şehirli | isim | 시민들이 공원을 깨끗하게 사용해요. (Simindeuri gongwoneul kkaekkeutage sayonghaeyo.) | Vatandaşlar parkı temiz kullanıyor.
+국민 (gungmin) | ulus, halk (ülke vatandaşları) | isim | 축구 경기를 온 국민이 응원했어요. (Chukgu gyeonggireul on gungmini eungwonhaesseoyo.) | Bütün halk futbol maçında tezahürat yaptı.
+인구 (ingu) | nüfus | isim | 서울의 인구는 약 천만 명이에요. (Seourui inguneun yak cheonman myeongieyo.) | Seul'ün nüfusu yaklaşık on milyon.
+문화 (munhwa) | kültür | isim | 한국 문화를 더 알고 싶어요. (Hanguk munhwareul deo algo sipeoyo.) | Kore kültürünü daha çok tanımak istiyorum.
+법 (beop) | kanun, hukuk | isim | 모든 사람은 법을 지켜야 해요. (Modeun sarameun beobeul jikyeoya haeyo.) | Herkes kanunlara uymalı.
+규칙 (gyuchik) | kural | isim | 기숙사 규칙이 엄격해요. (Gisuksa gyuchigi eomgyeokaeyo.) | Yurdun kuralları katı.
+질서 (jilseo) | düzen | isim | 질서를 지켜 주세요. (Jilseoreul jikyeo juseyo.) | Lütfen düzene uyun.
+세금 (segeum) | vergi | isim | 월급에서 세금이 나가요. (Wolgeubeseo segeumi nagayo.) | Maaştan vergi kesiliyor.
+정부 (jeongbu) | hükümet | isim | 정부가 새 정책을 발표했어요. (Jeongbuga sae jeongchaegeul balpyohaesseoyo.) | Hükümet yeni bir politika açıkladı.
+## Şehir hayatı
+시내 (sinae) | şehir merkezi | isim | 주말에 시내에 나가요. (Jumare sinaee nagayo.) | Hafta sonu şehir merkezine çıkıyorum.
+시설 (siseol) | tesis | isim | 이 아파트는 운동 시설이 좋아요. (I apateuneun undong siseori joayo.) | Bu apartmanın spor tesisleri iyi.
+건물 (geonmul) | bina | isim | 저 높은 건물이 회사예요. (Jeo nopeun geonmuri hoesayeyo.) | Şu yüksek bina şirket.
+광장 (gwangjang) | meydan | isim | 광장에서 공연이 열려요. (Gwangjangeseo gongyeoni yeollyeoyo.) | Meydanda gösteri düzenleniyor.
+도로 (doro) | yol, cadde | isim | 도로 공사 때문에 길이 막혀요. (Doro gongsa ttaemune giri makyeoyo.) | Yol çalışması yüzünden trafik var.
+육교 (yukgyo) | üst geçit | isim | 육교를 건너서 가세요. (Yukgyoreul geonneoseo gaseyo.) | Üst geçitten karşıya geçin.
+교외 (gyooe) | banliyö, şehir dışı | isim | 주말에 교외로 드라이브를 갔어요. (Jumare gyooero deuraibeureul gasseoyo.) | Hafta sonu şehir dışına arabayla gezmeye gittik.
+대도시 (daedosi) | büyükşehir | isim | 대도시는 편리하지만 복잡해요. (Daedosineun pyeollihajiman bokjapaeyo.) | Büyükşehirler kullanışlı ama kalabalık.
+주민 (jumin) | sakin (bir yerde oturan) | isim | 이 동네 주민들은 친절해요. (I dongne jumindeureun chinjeolhaeyo.) | Bu mahallenin sakinleri nazik.
+공공 (gonggong) | kamu, kamusal | isim | 공공장소에서는 조용히 하세요. (Gonggongjangsoeseoneun joyonghi haseyo.) | Kamusal alanlarda sessiz olun.
+## Bağlaçlar
+그러나 (geureona) | fakat, ancak (yazı dili) | bağlaç | 열심히 했다. 그러나 실패했다. (Yeolsimhi haetda. Geureona silpaehaetda.) | Çok çalıştı. Fakat başarısız oldu.
+따라서 (ttaraseo) | dolayısıyla | bağlaç | 비가 많이 왔다. 따라서 경기가 취소되었다. (Biga mani watda. Ttaraseo gyeonggiga chwisodoeeotda.) | Çok yağmur yağdı. Dolayısıyla maç iptal edildi.
+게다가 (gedaga) | üstelik | bağlaç | 이 식당은 싸요. 게다가 맛있어요. (I sikdangeun ssayo. Gedaga masisseoyo.) | Bu lokanta ucuz. Üstelik lezzetli.
+그렇지만 (geureochiman) | ama, yine de | bağlaç | 피곤해요. 그렇지만 숙제를 해야 해요. (Pigonhaeyo. Geureochiman sukjereul haeya haeyo.) | Yorgunum. Ama ödev yapmam lazım.
+아니면 (animyeon) | yoksa, ya da | bağlaç | 커피 마실래요, 아니면 차 마실래요? (Keopi masillaeyo, animyeon cha masillaeyo?) | Kahve mi içersin, yoksa çay mı?
+즉 (jeuk) | yani, başka bir deyişle | zarf | 다음 주 월요일, 즉 십일에 만나요. (Daeum ju woryoil, jeuk sibire mannayo.) | Gelecek pazartesi, yani on birinde görüşelim.
+예를 들면 (yereul deulmyeon) | örneğin | ifade | 한국 음식, 예를 들면 김치를 좋아해요. (Hanguk eumsik, yereul deulmyeon gimchireul joahaeyo.) | Kore yemeklerini, örneğin kimchiyi severim.
+그러므로 (geureomeuro) | bu nedenle (resmî) | bağlaç | 그는 성실하다. 그러므로 모두가 그를 믿는다. (Geuneun seongsilhada. Geureomeuro moduga geureul minneunda.) | O güvenilirdir. Bu nedenle herkes ona güvenir.
+반면에 (banmyeone) | öte yandan, buna karşın | zarf | 형은 활발해요. 반면에 저는 조용해요. (Hyeongeun hwalbalhaeyo. Banmyeone jeoneun joyonghaeyo.) | Ağabeyim hareketli. Öte yandan ben sakinim.
+또한 (ttohan) | ayrıca, aynı zamanda | zarf | 그는 가수이며 또한 배우예요. (Geuneun gasuimyeo ttohan baeuyeyo.) | O hem şarkıcı hem de oyuncu.
+## Bağlayıcı ekler
+-고 (-go) | ve; -ıp (iki eylemi bağlar) | bağlaç | 밥을 먹고 학교에 가요. (Babeul meokgo hakgyoe gayo.) | Yemek yiyip okula gidiyorum.
+-지만 (-jiman) | ama, -sa da | bağlaç | 한국어는 어렵지만 재미있어요. (Hangugeoneun eoryeopjiman jaemiisseoyo.) | Korece zor ama eğlenceli.
+-아서/-어서 (-aseo/-eoseo) | -dığı için; -ıp (sıralı eylem) | bağlaç | 배가 아파서 병원에 갔어요. (Baega apaseo byeongwone gasseoyo.) | Karnım ağrıdığı için hastaneye gittim.
+-니까/-으니까 (-nikka/-eunikka) | -dığı için (gerekçe, öneriyle) | bağlaç | 비가 오니까 우산을 가져가세요. (Biga onikka usaneul gajyeogaseyo.) | Yağmur yağıyor, şemsiye alın.
+-면/-으면 (-myeon/-eumyeon) | -sa, -se (koşul) | bağlaç | 시간이 있으면 같이 가요. (Sigani isseumyeon gachi gayo.) | Vaktin varsa birlikte gidelim.
+-는데 (-neunde) | -dı da; ama (arka plan) | bağlaç | 지금 밥을 먹는데 같이 먹을래요? (Jigeum babeul meongneunde gachi meogeullaeyo?) | Şimdi yemek yiyorum, sen de yer misin?
+-려고/-으려고 (-ryeogo/-euryeogo) | -mak için (amaç) | bağlaç | 한국에서 일하려고 한국어를 배워요. (Hangugeseo ilharyeogo hangugeoreul baewoyo.) | Kore'de çalışmak için Korece öğreniyorum.
+-거나 (-geona) | ya da (eylemler arası) | bağlaç | 주말에는 책을 읽거나 영화를 봐요. (Jumareneun chaegeul ilgeona yeonghwareul bwayo.) | Hafta sonları kitap okur ya da film izlerim.
+-면서/-으면서 (-myeonseo/-eumyeonseo) | -ırken (eş zamanlı) | bağlaç | 음악을 들으면서 공부해요. (Eumageul deureumyeonseo gongbuhaeyo.) | Müzik dinlerken ders çalışırım.
+-기 때문에 (-gi ttaemune) | -dığı için (gerekçe) | bağlaç | 내일 시험이 있기 때문에 일찍 자요. (Naeil siheomi itgi ttaemune iljjik jayo.) | Yarın sınavım olduğu için erken yatıyorum.
