@@ -1,111 +1,111 @@
 # UNIT: İş dünyası | Şirket, kariyer, toplantı, müzakere
 ## Şirket yapısı
-el departamento de ventas | satış departmanı | isim | El departamento de ventas aumentó los ingresos este mes. | Satış departmanı bu ay gelirleri artırdı.
-la junta directiva | yönetim kurulu | isim | La junta directiva aprobó el nuevo presupuesto anual. | Yönetim kurulu yeni yıllık bütçeyi onayladı.
-el director ejecutivo | icra kurulu başkanı (CEO) | isim | El director ejecutivo anunció una estrategia innovadora. | CEO yenilikçi bir strateji açıkladı.
-el organigrama | organizasyon şeması | isim | El organigrama muestra la estructura interna de la empresa. | Organizasyon şeması şirketin iç yapısını gösteriyor.
-el departamento de recursos humanos | insan kaynakları departmanı | isim | El departamento de recursos humanos contrató a tres ingenieros. | İnsan kaynakları departmanı üç mühendis işe aldı.
-la sede central | merkez ofis, genel merkez | isim | La sede central de la compañía está situada en Madrid. | Şirketin genel merkezi Madrid'de yer almaktadır.
-la sucursal bancaria | banka şubesi | isim | La sucursal bancaria abrió una cuenta corporativa para nosotros. | Banka şubesi bizim için bir kurumsal hesap açtı.
-el comité de empresa | işçi temsilcisi komitesi | isim | El comité de empresa negoció nuevas condiciones laborales. | İşçi temsilcisi komitesi yeni çalışma koşullarını müzakere etti.
-la plantilla de trabajadores | çalışan kadrosu, personel | isim | La plantilla de trabajadores creció un diez por ciento. | Çalışan kadrosu yüzde on büyüdü.
-el socio comercial | ticari ortak | isim | El socio comercial firmó el acuerdo internacional ayer. | Ticari ortak dün uluslararası anlaşmayı imzaladı.
+la compañía | şirket, firma | isim (d) | Trabaja en una compañía de seguros. | Bir sigorta şirketinde çalışıyor.
+la plantilla | personel, kadro | isim (d) | La plantilla tiene doscientos empleados. | Kadroda iki yüz çalışan var.
+el empleado | çalışan, personel | isim (e) | Los empleados comen en la cafetería. | Çalışanlar kafeteryada yemek yiyor.
+el empresario | iş insanı, işveren | isim (e) | Mi tío es un empresario de éxito. | Amcam başarılı bir iş insanı.
+el socio | ortak; üye | isim (e) | Mi socio y yo abrimos una tienda. | Ortağımla bir dükkân açtık.
+la junta directiva | yönetim kurulu | isim (d) | La junta directiva se reúne cada mes. | Yönetim kurulu her ay toplanıyor.
+el gerente | müdür, yönetici | isim (e) | El gerente quiere hablar contigo. | Müdür seninle konuşmak istiyor.
+los recursos humanos | insan kaynakları | isim (çoğul) | Envía el currículum a recursos humanos. | Özgeçmişi insan kaynaklarına gönder.
+el organigrama | organizasyon şeması | isim (e) | El organigrama muestra quién es tu jefe. | Organizasyon şeması amirinin kim olduğunu gösteriyor.
+la multinacional | çok uluslu şirket | isim (d) | Trabaja para una multinacional en Bogotá. | Bogota'da çok uluslu bir şirkette çalışıyor.
 ## Toplantılar ve sunumlar
-la reunión de equipo | ekip toplantısı | isim | La reunión de equipo comenzará exactamente a las diez. | Ekip toplantısı tam onda başlayacak.
-la presentación corporativa | kurumsal sunum | isim | La presentación corporativa impresionó a los inversores extranjeros. | Kurumsal sunum yabancı yatırımcıları etkiledi.
-el orden del día | gündem maddeleri | isim | El orden del día incluye tres temas principales hoy. | Gündemde bugün üç ana konu yer alıyor.
-la diapositiva explicativa | açıklayıcı slayt | isim | La diapositiva explicativa muestra los beneficios trimestrales. | Açıklayıcı slayt üç aylık karları gösteriyor.
-el proyector digital | dijital projektör | isim | El proyector digital falló durante la conferencia matutina. | Sabahki konferans sırasında dijital projektör arızalandı.
-la pizarra interactiva | etkileşimli tahta | isim | La pizarra interactiva facilitó la lluvia de ideas conjunta. | Etkileşimli tahta ortak beyin fırtınasını kolaylaştırdı.
-la intervención breve | kısa konuşma, söz alma | isim | Su intervención breve aclaró las dudas del cliente. | Onun kısa konuşması müşterinin şüphelerini giderdi.
-el turno de preguntas | soru-cevap bölümü | isim | El turno de preguntas generó un debate muy interesante. | Soru-cevap bölümü çok ilginç bir tartışma yarattı.
-la propuesta comercial | ticari teklif | isim | La propuesta comercial convenció al director financiero. | Ticari teklif finans direktörünü ikna etti.
-el acta de la reunión | toplantı tutanağı | isim | El acta de la reunión se envió por correo a todos. | Toplantı tutanağı herkese e-posta ile gönderildi.
-## Kariyer ve işe alım
-el candidato ideal | ideal aday | isim | El candidato ideal demostró una gran experiencia previa. | İdeal aday büyük bir önceki deneyim sergiledi.
-la entrevista de trabajo | iş mülakatı | isim | La entrevista de trabajo duró más de cuarenta minutos. | İş mülakatı kırk dakikadan uzun sürdü.
-el currículum actualizado | güncel özgeçmiş | isim | Envíe su currículum actualizado antes del viernes próximo. | Güncel özgeçmişinizi gelecek cumadan önce gönderin.
-la carta de presentación | ön yazı | isim | La carta de presentación destaca sus habilidades lingüísticas. | Ön yazı dil becerilerini vurguluyor.
-el proceso de selección | seçme ve yerleştirme süreci | isim | El proceso de selección consta de tres fases exigentes. | Seçme ve yerleştirme süreci üç zorlu aşamadan oluşur.
-el puesto vacante | boş pozisyon | isim | Hay un puesto vacante en el departamento técnico. | Teknik departmanda boş bir pozisyon var.
-la contratación indefinida | belirsiz süreli sözleşme | isim | Ofrecieron una contratación indefinida al mejor analista. | En iyi analiste belirsiz süreli sözleşme teklif ettiler.
-el periodo de prueba | deneme süresi | isim | Durante el periodo de prueba evaluarán su rendimiento. | Deneme süresi boyunca performansınızı değerlendirecekler.
-la promoción interna | kurum içi terfi | isim | La promoción interna motiva mucho al personal antiguo. | Kurum içi terfi eski personeli çok motive ediyor.
-el despido improcedente | haksız fesih | isim | El sindicato denunció el despido improcedente ante el juez. | Sendika haksız fesihten dolayı hakime suç duyurusunda bulundu.
-## Müzakere ve anlaşmalar
-la negociación colectiva | toplu pazarlık | isim | La negociación colectiva duró varias semanas intensas. | Toplu pazarlık birkaç yoğun hafta sürdü.
-el acuerdo marco | çerçeve anlaşma | isim | El acuerdo marco garantiza la estabilidad laboral del sector. | Çerçeve anlaşma sektörün istihdam istikrarını garanti ediyor.
-la cláusula confidencial | gizli madde | isim | La cláusula confidencial protege la propiedad intelectual. | Gizlilik maddesi fikri mülkiyeti koruyor.
-el contrato mercantil | ticari sözleşme | isim | El abogado redactó el contrato mercantil con gran cuidado. | Avukat ticari sözleşmeyi büyük bir özenle kaleme aldı.
-la contraoferta razonable | makul karşı teklif | isim | Presentaron una contraoferta razonable para cerrar el trato. | Anlaşmayı sonuçlandırmak için makul bir karşı teklif sundular.
-el litigio comercial | ticari uyuşmazlık | isim | Evitaron un litigio comercial mediante mediación externa. | Dış arabuluculuk yoluyla ticari bir uyuşmazlıktan kaçındılar.
-la firma digital | dijital imza | isim | La firma digital valida documentos sin necesidad de papel. | Dijital imza, kağıda ihtiyaç duymadan belgeleri doğrular.
-el arbitraje internacional | uluslararası tahkim | isim | Acordaron resolver el conflicto mediante arbitraje internacional. | Anlaşmazlığı uluslararası tahkim yoluyla çözmeyi kabul ettiler.
-la concesión mutua | karşılıklı taviz | isim | La concesión mutua permitió desbloquear las negociaciones. | Karşılıklı taviz müzakerelerin önünü açtı.
-el pacto secreto | gizli pakt | isim | Rechazaron firmar cualquier tipo de pacto secreto. | Her türlü gizli paktı imzalamayı reddettiler.
-## Finans ve bütçe
-el presupuesto anual | yıllık bütçe | isim | El presupuesto anual asigna fondos para investigación. | Yıllık bütçe araştırma için fon ayırıyor.
-el ejercicio fiscal | mali yıl | isim | El ejercicio fiscal termina el treinta y ile de diciembre. | Mali yıl otuz bir Aralık'ta sona erer.
-el balance contable | muhasebe bilançosu | isim | El balance contable refleja una salud financiera sólida. | Muhasebe bilançosu sağlam bir finansal sağlık yansıtıyor.
-el margen de beneficio | kâr marjı | isim | El margen de beneficio aumentó gracias a la reducción de costes. | Kâr marjı maliyetlerin düşmesi sayesinde arttı.
-la inversión extranjera | yabancı yatırım | isim | La inversión extranjera revitalizó la economía local. | Yabancı yatırım yerel ekonomiyi yeniden canlandırdı.
-el flujo de caja | nakit akışı | isim | Un buen flujo de caja garantiza la liquidez diaria. | İyi bir nakit akışı günlük likiditeyi garanti eder.
-la auditoría interna | iç denetim | isim | La auditoría interna detectó pequeñas irregularidades administrativas. | İç denetim küçük idari usulsüzlükleri tespit etti.
-la deuda pública | kamu borcu | isim | La deuda pública preocupa a los economistas internacionales. | Kamu borcu uluslararası ekonomistleri endişelendiriyor.
-la tasa de interés | faiz oranı | isim | El banco central redujo la tasa de interés este mes. | Merkez bankası bu ay faiz oranını düşürdü.
-el capital social | sermaye | isim | Ampliaron el capital social para financiar la expansión. | Büyümeyi finanse etmek için sermayeyi artırdılar.
-## Proje yönetimi
-el diagrama de Gantt | Gantt şeması | isim | El diagrama de Gantt ayuda a visualizar las tareas pendientes. | Gantt şeması bekleyen görevleri görselleştirmeye yardımcı olur.
-el hito importante | önemli kilometre taşı | isim | Alcanzaron el hito importante antes del plazo fijado. | Belirlenen süreden önce önemli kilometre taşına ulaştılar.
-el recurso disponible | mevcut kaynak | isim | Debemos optimizar cada recurso disponible en el proyecto. | Projedeki mevcut her kaynağı optimize etmeliyiz.
-el cuello de botella | darboğaz | isim | El suministro de piezas causó un cuello de botella grave. | Parça tedariki ciddi bir darboğaza neden oldu.
-la fase preliminar | ön hazırlık aşaması | isim | La fase preliminar requiere un análisis exhaustivo del mercado. | Ön hazırlık aşaması kapsamlı bir pazar analizi gerektirir.
-el control de calidad | kalite kontrol | isim | El control de calidad rechazó mil unidades defectuosas. | Kalite kontrol bin kusurlu ürünü reddetti.
-la retroalimentación constructiva | yapıcı geri bildirim | isim | La retroalimentación constructiva mejora los procesos futuros. | Yapıcı geri bildirim gelecekteki süreçleri iyileştirir.
-el plan de contingencia | acil durum planı | isim | Activaron el plan de contingencia ante el fallo eléctrico. | Elektrik arızası üzerine acil durum planını devreye soktular.
-la gestión eficiente | verimli yönetim | isim | Su gestión eficiente redujo los gastos operativos un quince por ciento. | Verimli yönetimi işletme giderlerini yüzde on beş azalttı.
-el entregable final | nihai teslimat | isim | Entregaron el entregable final al cliente con satisfacción. | Nihai teslimatı müşteri memnuniyetiyle teslim ettiler.
+el orden del día | gündem | isim (e) | Hay tres puntos en el orden del día. | Gündemde üç madde var.
+la presentación | sunum; tanıtım | isim (d) | Mañana hago una presentación ante el equipo. | Yarın ekibin önünde bir sunum yapıyorum.
+el acta | tutanak | isim (d) | Lucía escribe el acta de la reunión. | Lucía toplantı tutanağını yazıyor.
+la diapositiva | slayt | isim (d) | La presentación tiene veinte diapositivas. | Sunumda yirmi slayt var.
+convocar | toplantıya çağırmak | fiil | El director convocó una reunión urgente. | Müdür acil bir toplantı çağırdı.
+aplazar | ertelemek | fiil | Tenemos que aplazar la reunión. | Toplantıyı ertelememiz gerekiyor.
+la lluvia de ideas | beyin fırtınası | isim (d) | Hicimos una lluvia de ideas para el proyecto. | Proje için beyin fırtınası yaptık.
+el punto de vista | bakış açısı | isim (e) | Respeto tu punto de vista. | Bakış açına saygı duyuyorum.
+tomar nota | not almak | ifade | Toma nota de las fechas, por favor. | Tarihleri not al lütfen.
+la conclusión | sonuç, kanı | isim (d) | Llegamos a una conclusión clara. | Net bir sonuca vardık.
+## İşe alım
+el candidato | aday | isim (e) | Hay cinco candidatos para el puesto. | Pozisyon için beş aday var.
+la oferta de empleo | iş ilanı | isim (d) | Vi una oferta de empleo en internet. | İnternette bir iş ilanı gördüm.
+la carta de presentación | ön yazı | isim (d) | Escribe una carta de presentación breve. | Kısa bir ön yazı yaz.
+el proceso de selección | işe alım süreci | isim (e) | El proceso de selección dura un mes. | İşe alım süreci bir ay sürüyor.
+la vacante | açık pozisyon | isim (d) | Hay una vacante en el departamento técnico. | Teknik departmanda açık bir pozisyon var.
+contratar | işe almak | fiil | La empresa va a contratar a diez personas. | Şirket on kişiyi işe alacak.
+despedir (despido) | işten çıkarmak; uğurlamak | fiil · düzensiz | Despidieron a varios empleados. | Birkaç çalışanı işten çıkardılar.
+el periodo de prueba | deneme süresi | isim (e) | El periodo de prueba es de tres meses. | Deneme süresi üç ay.
+cualificado | nitelikli | sıfat | Buscan personal muy cualificado. | Çok nitelikli personel arıyorlar.
+el desempleo | işsizlik | isim (e) | El desempleo bajó este año. | İşsizlik bu yıl azaldı.
+## Çalışma koşulları
+el salario | maaş, ücret | isim (e) | Le subieron el salario. | Maaşına zam yaptılar.
+la subida de sueldo | maaş artışı, zam | isim (d) | Pedí una subida de sueldo. | Zam istedim.
+las horas extra | fazla mesai | isim (çoğul) | Esta semana hice muchas horas extra. | Bu hafta çok fazla mesai yaptım.
+la baja | hastalık izni, rapor | isim (d) | Está de baja por enfermedad. | Hastalık izninde.
+el permiso | izin | isim (e) | Pedí permiso para salir antes. | Erken çıkmak için izin istedim.
+el teletrabajo | uzaktan çalışma | isim (e) | Hago teletrabajo dos días a la semana. | Haftada iki gün uzaktan çalışıyorum.
+a tiempo parcial | yarı zamanlı | ifade | Trabajo a tiempo parcial en una tienda. | Bir dükkânda yarı zamanlı çalışıyorum.
+a jornada completa | tam zamanlı | ifade | Busco un trabajo a jornada completa. | Tam zamanlı bir iş arıyorum.
+el contrato indefinido | süresiz sözleşme | isim (e) | Por fin tengo un contrato indefinido. | Sonunda süresiz bir sözleşmem var.
+el ambiente laboral | iş ortamı | isim (e) | El ambiente laboral es muy bueno. | İş ortamı çok iyi.
+## Müzakere
+negociar | pazarlık etmek, müzakere etmek | fiil | Vamos a negociar el precio. | Fiyat üzerinde pazarlık edeceğiz.
+la negociación | müzakere | isim (d) | La negociación duró toda la mañana. | Müzakere bütün sabah sürdü.
+la condición | koşul, şart | isim (d) | Aceptamos con una condición. | Bir şartla kabul ediyoruz.
+la contraoferta | karşı teklif | isim (d) | Nos hicieron una contraoferta. | Bize karşı teklif yaptılar.
+ceder | taviz vermek; bırakmak | fiil | Ninguna de las partes quiere ceder. | Taraflardan hiçbiri taviz vermek istemiyor.
+la parte | taraf; parça, kısım | isim (d) | Las dos partes firmaron el contrato. | İki taraf sözleşmeyi imzaladı.
+la cláusula | madde (sözleşme) | isim (d) | Lee bien cada cláusula. | Her maddeyi iyice oku.
+cerrar un trato | anlaşmayı bağlamak | ifade | Por fin cerramos el trato. | Sonunda anlaşmayı bağladık.
+el beneficio | kâr; fayda | isim (e) | La empresa tuvo muchos beneficios. | Şirket çok kâr etti.
+la pérdida | kayıp, zarar | isim (d) | Este año la tienda tiene pérdidas. | Bu yıl dükkân zarar ediyor.
+## Finans
+la inversión | yatırım | isim (d) | Comprar este local es una buena inversión. | Bu dükkânı almak iyi bir yatırım.
+invertir (invierto) | yatırım yapmak | fiil · düzensiz | Quieren invertir en tecnología. | Teknolojiye yatırım yapmak istiyorlar.
+los ingresos | gelir | isim (çoğul) | Los ingresos subieron un diez por ciento. | Gelirler yüzde on arttı.
+el coste | maliyet | isim (e) | Tenemos que bajar los costes. | Maliyetleri düşürmemiz gerekiyor.
+la facturación | ciro | isim (d) | La facturación anual es de dos millones. | Yıllık ciro iki milyon.
+la contabilidad | muhasebe | isim (d) | Ana lleva la contabilidad de la empresa. | Şirketin muhasebesini Ana yürütüyor.
+el balance | bilanço | isim (e) | El balance del año es positivo. | Yılın bilançosu olumlu.
+rentable | kârlı | sıfat | El negocio todavía no es rentable. | İş henüz kârlı değil.
+el accionista | hissedar | isim (e) | Los accionistas están contentos. | Hissedarlar memnun.
+la auditoría | denetim | isim (d) | Mañana empieza la auditoría. | Denetim yarın başlıyor.
 ## Pazarlama ve satış
-la estrategia publicitaria | reklam stratejisi | isim | La estrategia publicitaria atrajo a un público más joven. | Reklam stratejisi daha genç bir kitleyi cezbetti.
-el estudio de mercado | pazar araştırması | isim | El estudio de mercado reveló nuevas oportunidades de negocio. | Pazar araştırması yeni iş fırsatları ortaya çıkardı.
-la cuota de mercado | pazar payı | isim | Incrementaron su cuota de mercado en el sector tecnológico. | Teknoloji sektöründe pazar paylarını artırdılar.
-el lanzamiento comercial | ticari lansman | isim | Prepararon el lanzamiento comercial del nuevo software. | Yeni yazılımın ticari lansmanına hazırlandılar.
-el consumidor final | son tüketici | isim | Debemos adaptarnos a las necesidades cambiantes del consumidor final. | Son tüketicinin değişen ihtiyaçlarına uyum sağlamalıyız.
-la campaña digital | dijital kampanya | isim | La campaña digital generó miles de visitas diarias. | Dijital kampanya günde binlerce ziyaret oluşturdu.
-el posicionamiento web | web konumlandırma | isim | Mejoraron el posicionamiento web mediante palabras clave estratégicas. | Stratejik anahtar kelimelerle web konumlandırmasını iyileştirdiler.
-la fidelización de clientes | müşteri sadakati | isim | Crearon un programa de fidelización muy exitoso. | Çok başarılı bir müşteri sadakati programı yarattılar.
-el impacto mediatic | medya etkisi | isim | El anuncio tuvo un impacto mediático impresionante en televisión. | Reklam televizyonda etkileyici bir medya yarattı.
-la marca registrada | tescilli marka | isim | Protegieron su logotipo como marca registrada internacional. | Logolarını uluslararası tescilli marka olarak korudular.
-## İş seyahati ve konaklama
-el billete corporativo | kurumsal bilet | isim | La agencia reservó el billete corporativo para la convención. | Ajans, kongre için kurumsal bileti rezerve etti.
-el vuelo directo | direkt uçuş | isim | Prefieren el vuelo directo para ahorrar tiempo valioso. | Değerli zamandan tasarruf etmek için direkt uçuşu tercih ediyorlar.
-el alojamiento ejecutivo | yönetici konaklaması | isim | El hotel ofrece un alojamiento ejecutivo con conexión rápida. | Otel hızlı bağlantıya sahip yönetici konaklaması sunuyor.
-el pase de abordar | biniş kartı | isim | Imprimió el pase de abordar en el quiosco digital. | Dijital kioskta biniş kartını yazdırdı.
-el equipaje de mano | el bagajı | isim | Solo lleva equipaje de mano para su viaje de tres días. | Üç günlük seyahati için sadece el bagajı taşıyor.
-el centro de negocios | iş merkezi | isim | El centro de negocios cuenta con impresoras y salas privadas. | İş merkezinde yazıcılar ve özel odalar bulunmaktadır.
-la sala de conferencias | konferans salonu | isim | Alquilaron una sala de conferencias para la reunión anual. | Yıllık toplantı için bir konferans salonu kiraladılar.
-el servicio de traducción | çeviri hizmeti | isim | Contrataron un servicio de traducción simultánea para el simposio. | Sempozyum için simültane çeviri hizmeti tuttular.
-la nota de gastos detallada | ayrıntılı fatura | isim | Necesita la nota de gastos detallada para la contabilidad. | Muhasebe için ayrıntılı faturaya ihtiyacı var.
-el retraso de vuelos | uçuş gecikmesi | isim | El retraso de vuelos alteró toda su agenda semanal. | Uçuş gecikmesi tüm haftalık programını alt üst etti.
-## Ofis teknolojisi
-la red informática | bilgisayar ağı | isim | La red informática sufrió un ataque cibernético menor. | Bilgisayar ağı küçük bir siber saldırıya uğradı.
-el disco duro externo | harici sabit disk | isim | Copió todos los archivos importantes en el disco duro externo. | Tüm önemli dosyaları harici sabit diske kopyaladı.
-la salvaguarda de datos | yedekleme | isim | Realizan una salvaguarda de datos automática cada medianoche. | Her gece yarısı otomatik yedekleme yapıyorlar.
-el programa informático | bilgisayar programı | isim | Actualizaron el programa informático para mejorar la seguridad. | Güvenliği artırmak için bilgisayar programını güncellediler.
-la hoja de cálculo | elektronik tablo | isim | Introdujo los datos financieros en la hoja de cálculo. | Finansal verileri elektronik tabloya girdi.
-el correo corporativo | kurumsal e-posta | isim | Recibió las instrucciones oficiales en su correo corporativo. | Resmi talimatları kurumsal e-postasından aldı.
-el sistema operativo | işletim sistemi | isim | Instalaron un nuevo sistema operativo en los ordenadores nuevos. | Yeni bilgisayarlara yeni bir işletim sistemi kurdular.
-la base de datos | veri tabanı | isim | La base de datos central almacena millones de registros. | Merkezi veri tabanı milyonlarca kayıt saklıyor.
-la videoconferencia grupal | grup video konferansı | isim | Programaron una videoconferencia grupal con los socios de Tokio. | Tokyo'lu ortaklarla bir grup video konferansı planladılar.
-el cortafuegos digital | dijital güvenlik duvarı | isim | El cortafuegos digital bloqueó el acceso no autorizado. | Dijital güvenlik duvarı yetkisiz erişimi bloke etti.
-## Başarılar ve kriz yönetimi
-el éxito rotundo | büyük başarı | isim | El nuevo producto comercial supuso un éxito rotundo para todos. | Yeni ticari ürün herkes için büyük bir başarı oldu.
-la crisis financiera | mali kriz | isim | Superaron la crisis financiera gracias a medidas drásticas. | Sert önlemler sayesinde mali krizin üstesinden geldiler.
-el plan de rescate | kurtarma planı | isim | El gobierno aprobó un plan de rescate para la empresa pública. | Hükümet kamu şirketi için bir kurtarma planını onayladı.
-la reestructuración laboral | iş gücü yeniden yapılanması | isim | La reestructuración laboral afectó a varias plantas de producción. | İş gücü yeniden yapılanması çeşitli üretim tesislerini etkiledi.
-la solución temporal | geçici çözüm | isim | Implementaron una solución temporal mientras llega la pieza. | Parça gelene kadar geçici bir çözüm uyguladılar.
-el crecimiento sostenido | sürdürülebilir büyüme | isim | Mantienen un crecimiento sostenido durante los últimos cinco años. | Son beş yıldır sürdürülebilir bir büyüme sürdürüyorlar.
-la estabilidad económica | ekonomik istikrar | isim | La estabilidad económica atrae a nuevos inversores extranjeros. | Ekonomik istikrar yeni yabancı yatırımcıları cezbediyor.
-la caída de ventas | satış düşüşü | isim | Investigaron las causas de la caída de ventas estacional. | Mevsimsel satış düşüşünün nedenlerini araştırdılar.
-el liderazgo efectivo | etkili liderlik | isim | Su liderazgo efectivo inspiró confianza en todo el personal. | Etkili liderliği tüm personelde güven uyandırdı.
-el reconocimiento oficial | resmi takdir | isim | Recibieron el reconocimiento oficial por su innovación tecnológica. | Teknolojik yenilikleri için resmi takdir aldılar.
+el marketing | pazarlama | isim (e) | Trabajo en el departamento de marketing. | Pazarlama departmanında çalışıyorum.
+la publicidad | reklam; reklamcılık | isim (d) | La empresa gasta mucho en publicidad. | Şirket reklama çok para harcıyor.
+el anuncio | ilan; reklam | isim (e) | Vi tu anuncio en el periódico. | İlanını gazetede gördüm.
+el producto | ürün | isim (e) | Este producto se vende muy bien. | Bu ürün çok iyi satılıyor.
+la marca | marka | isim (d) | ¿De qué marca es tu móvil? | Telefonun hangi marka?
+el consumidor | tüketici | isim (e) | Los consumidores quieren precios bajos. | Tüketiciler düşük fiyat istiyor.
+las ventas | satışlar | isim (çoğul) | Las ventas bajaron en verano. | Satışlar yazın düştü.
+el proveedor | tedarikçi | isim (e) | Cambiamos de proveedor. | Tedarikçi değiştirdik.
+la competencia | rekabet; rakipler | isim (d) | La competencia es muy fuerte. | Rekabet çok güçlü.
+lanzar | piyasaya sürmek; fırlatmak | fiil | Van a lanzar un producto nuevo. | Yeni bir ürün piyasaya sürecekler.
+## Proje yönetimi
+la fecha límite | son tarih | isim (d) | La fecha límite es el viernes. | Son tarih cuma.
+la planificación | planlama | isim (d) | Una buena planificación ahorra tiempo. | İyi bir planlama zaman kazandırır.
+coordinar | koordine etmek | fiil | Ana coordina el equipo de ventas. | Ana satış ekibini koordine ediyor.
+el cuello de botella | darboğaz | isim (e) | Este paso es un cuello de botella. | Bu adım bir darboğaz.
+la fase | aşama, evre | isim (d) | Estamos en la primera fase del proyecto. | Projenin ilk aşamasındayız.
+la calidad | kalite | isim (d) | La calidad es más importante que el precio. | Kalite fiyattan daha önemli.
+la eficacia | etkililik, verimlilik | isim (d) | Queremos mejorar la eficacia del equipo. | Ekibin verimliliğini artırmak istiyoruz.
+cumplir | yerine getirmek; uymak | fiil | Cumplimos todos los plazos. | Bütün süreleri tutturduk.
+retrasarse | gecikmek | fiil · dönüşlü | El proyecto se retrasó dos semanas. | Proje iki hafta gecikti.
+el resultado | sonuç | isim (e) | Los resultados son muy buenos. | Sonuçlar çok iyi.
+## Ofis yazılımları
+la hoja de cálculo | elektronik tablo | isim (d) | Pon los datos en una hoja de cálculo. | Verileri bir elektronik tabloya koy.
+la base de datos | veri tabanı | isim (d) | La base de datos tiene mil clientes. | Veri tabanında bin müşteri var.
+los datos | veriler | isim (çoğul) | Necesito los datos de ventas. | Satış verilerine ihtiyacım var.
+el gráfico | grafik | isim (e) | El gráfico muestra las ventas del año. | Grafik yılın satışlarını gösteriyor.
+la intranet | şirket içi ağ | isim (d) | Los documentos están en la intranet. | Belgeler şirket içi ağda.
+el correo corporativo | kurumsal e-posta | isim (e) | Usa siempre el correo corporativo. | Her zaman kurumsal e-postayı kullan.
+adjuntar | eklemek (e-postaya) | fiil | Te adjunto el informe. | Raporu ekte gönderiyorum.
+el sistema | sistem | isim (e) | El sistema no funciona hoy. | Sistem bugün çalışmıyor.
+el acceso | erişim; giriş | isim (e) | No tengo acceso a ese archivo. | O dosyaya erişimim yok.
+la firma electrónica | elektronik imza | isim (d) | Firma el documento con tu firma electrónica. | Belgeyi elektronik imzanla imzala.
+## Kariyer
+la carrera profesional | kariyer, meslek hayatı | isim (d) | Quiere avanzar en su carrera profesional. | Kariyerinde ilerlemek istiyor.
+la formación | eğitim (mesleki) | isim (d) | La empresa paga mi formación. | Şirket eğitimimi ödüyor.
+la habilidad | beceri | isim (d) | Tiene grandes habilidades de comunicación. | Çok iyi iletişim becerileri var.
+el logro | başarı (elde edilen) | isim (e) | Este contrato es un gran logro. | Bu sözleşme büyük bir başarı.
+el reconocimiento | takdir; tanınma | isim (e) | Recibió un reconocimiento por su trabajo. | Çalışması için takdir aldı.
+la exigencia | talep, gereklilik | isim (d) | Es un trabajo con muchas exigencias. | Çok şey talep eden bir iş.
+emprender | girişimde bulunmak | fiil | Quiero emprender mi propio negocio. | Kendi işimi kurmak istiyorum.
+el negocio | iş, ticaret | isim (e) | Tiene un negocio de ropa. | Giyim işi var.
+autónomo | serbest çalışan | sıfat | Trabajo como autónomo desde casa. | Evden serbest çalışıyorum.
+el comercio | ticaret | isim (e) | El comercio con Asia ha crecido. | Asya ile ticaret büyüdü.

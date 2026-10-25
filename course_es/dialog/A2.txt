@@ -1,45 +1,45 @@
-# DIALOG: Günlük Yaşam ve İş Hayatı | Sabah rutinleri, ofis ve sağlık | Sofia | Diego
-## Sabah rutinleri
-A | Me despierto a las siete cada mañana y me levanto despacio de la cama. | Her sabah saat yedide uyanıyorum ve yataktan yavaşça kalkıyorum.
-B | Prefieres ducharte con agua tibia o fría para empezar el día? | Güne başlamak için ılık suyla mı yoksa soğuk suyla mı duş almayı tercih edersin?
-A | Siempre prefiero agua tibia, especialmente cuando tengo prisa. | Özellikle academ olduğunda hep ılık suyu tercih ederim.
-B | Yo suelo madrugar mucho porque me gusta desayunar con calma. | Ben kahvaltıyı sakin yapmayı sevdiğim için genellikle çok erken kalkarım.
-A | ¿Te cepillas los dientes antes o después de tomar el café? | Kahve içmeden önce mi yoksa sonra mı dişlerini fırçalıyorsun?
-B | Me cepillo los dientes justo después del desayuno, como es habitual. | Her zamanki gibi kahvaltıdan hemen sonra dişlerimi fırçalarım.
-A | A veces tengo mucho sueño si trasnocho viendo una buena película. | Bazen iyi bir film izleyerek geç saatlere kadar oturursam çok uykum oluyor.
-B | Es mejor no trasnochar tanto para evitar bostezar durante todo el día. | Bütün gün esnememek için o kadar geç yatmamak daha iyidir.
-A | Una buena rutina matutina ayuda a vivir mejor y trabajar con energía. | İyi bir sabah rutini daha iyi yaşamaya ve enerjiyle çalışmaya yardımcı olur.
-B | Estoy totalmente de acuerdo contigo, la organización es fundamental. | Sana tamamen katılıyorum, organizasyon çok önemlidir.
-## Ofis ortamı ve teknoloji
-A | El ordenador portátil está sobre la mesa junto a la pantalla grande. | Dizüstü bilgisayar, büyük ekranın yanında masanın üzerinde duruyor.
-B | ¿Puedes conectar el ratón de ordenador al puerto USB por favor? | Bilgisayar faresini USB portuna bağlayabilir misin lütfen?
-A | Claro que sí, usa el teclado nuevo para escribir el mensaje rápido. | Tabii ki, mesajı hızlıca yazmak için yeni klavyeyi kullan.
-B | He guardado el archivo importante en la carpeta correcta del sistema. | Önemli dosyayı sistemin doğru klasörüne kaydettim.
-A | Necesito una hoja de papel y el bolígrafo de tinta negra para firmar. | İmzalamak için bir kağıt yaprağına ve siyah mürekkepli kaleme ihtiyacım var.
-B | Usa la grapadora que está en el portapapeles para unir los documentos. | Belgeleri birleştirmek için panonun üzerindeki zımba makinesini kullan.
-A | La reunión con el equipo empieza hoy a las diez en punto en la sala. | Ekiple toplantı bugün tam onda salonda başlıyor.
-B | Recibí una llamada urgente del cliente principal hace unos minutos. | Birkaç dakika önce ana müşteriden acil bir telefon araması aldım.
-A | Debemos revisar la lista de tareas antes de que llegue el director. | Müdür gelmeden önce görevler listesini gözden geçirmeliyiz.
-B | Todo está listo en la oficina para comenzar nuestra jornada laboral. | Çalışma günümüze başlamak için ofiste her şey hazır.
-## Sağlık ve doktor randevusu
-A | Tengo una cita médica hoy por la tarde en el centro de salud local. | Bugün öğleden sonra yerel sağlık ocağında doktor randevum var.
-B | ¿Te va a revisar el especialista por el dolor fuerte en la garganta? | Boğazındaki şiddetli ağrı için uzman doktor mu seni muayene edecek?
-A | Sí, espero nuestro turno en la consulta mientras leo una revista. | Evet, dergi okurken muayenede sıramızı bekliyoruz.
-B | ¿Mostraste tu tarjeta sanitaria en la recepción al llegar aquí? | Buraya geldiğinde sağlık kartını resepsiyonda gösterdin mi?
-A | Por supuesto, la recepcionista anotó mis datos sin ningún problema. | Tabii ki, resepsiyonist hiçbir sorun yaşamadan bilgilerimi kaydetti.
-B | Si el dolor empeora, quizás debamos ir directamente a urgencias. | Eğer ağrı kötüleşirse, belki de doğrudan acil servise gitmeliyiz.
-A | El enfermero tomó mi presión arterial y dijo que está todo normal. | Erkek hemşir tansiyonumu ölçtü ve her şeyin normal olduğunu söyledi.
-B | La enfermera desinfectó la pequeña herida en mi brazo con mucho cuidado. | Hemşire kolumdaki küçük yarayı çok dikkatli bir şekilde dezenfekte etti.
-A | El paciente que descansa en la habitación diez necesita descansar más. | On numaralı odada dinlenen hastanın daha çok dinlenmeye ihtiyacı var.
-B | Esperamos que se recupere muy pronto y pueda volver a casa pronto. | Çok yakında iyileşmesini ve kısa sürede eve dönebilmesini umuyoruz.
-## Alışkanlıklar ve karakter
-A | Mi hermana menor tiene un carácter muy alegre y sociable con todos. | Küçük kız kardeşim herkesle çok neşeli ve sosyal bir karaktere sahip.
-B | Mi vecino prefiere la tranquilidad y casi nunca sale los fines de semana. | Komşum sakinliği tercih ediyor ve hafta sonları neredeyse hiç dışarı çıkmıyor.
-A | Es importante valorar el tiempo libre para descansar y desconectar bien. | Dinlenmek ve iyice uzaklaşmak için boş zamana değer vermek önemlidir.
-B | Suelo pasear por el parque cercano cuando necesito pensar con calma. | Sakin düşünmem gerektiğinde yakınlardaki parkta yürüyüş yapmayı severim.
-A | A veces me gusta cocinar recetas tradicionales los domingos por la noche. | Bazen pazar akşamları geleneksel tarifler pişirmeyi seviyorum.
-B | La comida casera siempre sabe mejor cuando se comparte con buenos amigos. | Ev yemekleri iyi arkadaşlarla paylaşıldığında her zaman daha güzel tat verir.
-A | ¿Tienes algún plan especial para las próximas vacaciones de verano? | Yaklaşık yaz tatili için özel bir planın var mı?
-B | Me gustaría viajar a una isla tranquila para desconectar del trabajo. | İşten uzaklaşmak için sakin bir adaya seyahat etmek isterim.
-A | Viajar ayuda a conocer otras culturas y aprender cosas muy interesantes. | Seyahat etmek diğer kültürleri tanımaya ve çok ilginç şeyler öğrenmeye yardımcı olur.
-B | Vivir nuevas experiencias es la mejor manera de crecer como persona. | Yeni deneyimler yaşamak, bir insan olarak büyümenin en iyi yoludur.
+# DIALOG: Hafta sonu, iş ve tatil | Sofía ve Diego günlük hayatı ve tatil planlarını konuşuyor | Sofía | Diego
+## Pazartesi sabahı
+A | ¡Buenos días, Diego! Pareces cansado. | Günaydın Diego! Yorgun görünüyorsun.
+B | Sí, anoche me acosté muy tarde. | Evet, dün gece çok geç yattım.
+A | ¿Qué hiciste el fin de semana? | Hafta sonu ne yaptın?
+B | El sábado fui a un concierto con mis primos. | Cumartesi kuzenlerimle bir konsere gittim.
+A | ¡Qué bien! ¿Te gustó? | Ne güzel! Beğendin mi?
+B | Me encantó, pero terminó a las dos de la mañana. | Bayıldım ama gece saat ikide bitti.
+A | Yo me quedé en casa. Limpié y cociné. | Ben evde kaldım. Temizlik yaptım ve yemek pişirdim.
+B | ¿Y el domingo? ¿Saliste? | Peki pazar? Dışarı çıktın mı?
+A | Sí, di un paseo por el parque con mi perro. | Evet, köpeğimle parkta yürüyüş yaptım.
+B | Este fin de semana quiero descansar más. | Bu hafta sonu daha çok dinlenmek istiyorum.
+## Ofiste bir sorun
+A | Diego, ¿puedes ayudarme? La impresora no funciona. | Diego, bana yardım edebilir misin? Yazıcı çalışmıyor.
+B | ¿Has comprobado si tiene papel? | Kâğıdı var mı diye kontrol ettin mi?
+A | Sí, y también la he apagado y encendido. | Evet, ayrıca kapatıp açtım.
+B | Entonces vamos a llamar al servicio técnico. | O zaman teknik servisi arayalım.
+A | Pero necesito imprimir el informe antes de las doce. | Ama raporu saat on ikiden önce yazdırmam lazım.
+B | Envíamelo por correo y lo imprimo en mi oficina. | Bana e-postayla gönder, ben ofisimde yazdırayım.
+A | ¡Eres un sol! Te lo envío ahora mismo. | Sen bir tanesin! Hemen gönderiyorum.
+B | Ya lo tengo. Está imprimiendo. | Geldi. Yazdırıyor.
+A | Muchas gracias. Te invito a un café luego. | Çok teşekkürler. Sonra sana bir kahve ısmarlarım.
+B | Vale, a las once en la cafetería. | Tamam, saat on birde kafeteryada.
+## Hastalık
+A | Ayer no viniste a trabajar. ¿Estabas enfermo? | Dün işe gelmedin. Hasta mıydın?
+B | Sí, me dolía mucho la garganta y tenía fiebre. | Evet, boğazım çok ağrıyordu ve ateşim vardı.
+A | ¿Fuiste al médico? | Doktora gittin mi?
+B | Sí, fui al centro de salud por la mañana. | Evet, sabah sağlık ocağına gittim.
+A | ¿Y qué te dijo el médico? | Doktor ne dedi?
+B | Que tengo gripe y que debo descansar tres días. | Grip olduğumu ve üç gün dinlenmem gerektiğini söyledi.
+A | ¿Te recetó algo? | Bir ilaç yazdı mı?
+B | Un jarabe para la tos y unas pastillas. | Öksürük için bir şurup ve birkaç hap.
+A | Pues vete a casa y cuídate mucho. | O zaman eve git ve kendine iyi bak.
+B | Gracias, Sofía. Mañana te llamo. | Teşekkürler Sofía. Yarın seni ararım.
+## Tatil planları
+A | ¿Ya tienes planes para las vacaciones? | Tatil için planın var mı?
+B | Quiero viajar a Perú en agosto. | Ağustosta Peru'ya gitmek istiyorum.
+A | ¡Qué emocionante! ¿Has reservado el vuelo? | Ne heyecanlı! Uçuşu ayırttın mı?
+B | Todavía no. Los billetes son bastante caros. | Henüz değil. Biletler oldukça pahalı.
+A | ¿Y dónde vas a dormir? | Peki nerede kalacaksın?
+B | En hostales baratos. Voy a viajar con mochila. | Ucuz pansiyonlarda. Sırt çantasıyla seyahat edeceğim.
+A | Necesitas un buen mapa y una cámara. | İyi bir haritaya ve bir fotoğraf makinesine ihtiyacın var.
+B | Sí, y quiero visitar las ruinas incas. | Evet, ayrıca İnka harabelerini gezmek istiyorum.
+A | Mándame muchas fotos, por favor. | Lütfen bana bol bol fotoğraf gönder.
+B | Claro, y te traigo un recuerdo. | Tabii, sana bir de hediyelik eşya getiririm.

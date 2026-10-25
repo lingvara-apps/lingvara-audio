@@ -18,7 +18,7 @@ zalamero | yaltakçı, aşırı sokulgan | sıfat | Aquel dependiente zalamero i
 saleroso | neşeli, sempatik | sıfat | El guía saleroso amenizó todo el recorrido con chistes oportunos y canciones. | Neşeli rehber, yerinde şakalar ve şarkılarla tüm turu keyifli hâle getirdi.
 dicharachero | şakacı, hoşsohbet | sıfat | Julián es un hombre dicharachero que siempre alegra las comidas familiares con anécdotas. | Julián, aile yemeklerini fıkralarla her zaman neşelendiren hoşsohbet bir adamdır.
 la simpatía | cana yakınlık, sevimlilik | isim (d) | Su desbordante simpatía le facilitó enormemente la integración en el nuevo vecindario. | Onun taşan cana yakınlığı, yeni mahalleye uyum sağlamasını büyük ölçüde kolaylaştırdı.
-acogedor | sıcakkanlı; konuksever | sıfat | Los anfitriones demostraron un carácter muy acogedor desde el primer instante de la visita. | Ev sahipleri, ziyaretin ilk anından itibaren oldukça sıcakkanlı bir karakter sergilediler.
+hospitalario | misafirperver | sıfat | Los anfitriones fueron muy hospitalarios desde el primer momento. | Ev sahipleri ilk andan itibaren çok misafirperverdi.
 comunicativo | konuşkan, iletişim yanlısı | sıfat | Clara se mostró muy comunicativa al explicar detalladamente los pormenores del proyecto. | Clara, projenin ayrıntılarını etraflıca açıklarken oldukça konuşkan davrandı.
 la afabilidad | cana yakınlık, nezaket | isim (d) | La afabilidad con la que nos recibieron disipó cualquier tensión inicial. | Bizi karşıladıkları cana yakınlık, başlangıçtaki bütün gerginliği dağıttı.
 ## İnatçılık ve kararlılık
@@ -61,7 +61,7 @@ soberbio | mağrur, kibirli | sıfat | El príncipe soberbio desoyó las adverte
 jactancioso | övüngen, böbürlenen | sıfat | Evitamos invitar al vecino jactancioso porque siempre monopolizaba las charlas con fanfarronadas. | Sohbetleri daima kuru övünmelerle meşgul ettiği için övüngen komşuyu davet etmekten kaçındık.
 presuntuoso | küstah, kendini dev aynasında gören | sıfat | Publicó un manifiesto presuntuoso en el que afirmaba revolucionar toda la filosofía. | Tüm felsefede devrim yaratacağını iddia ettiği küstah bir bildiri yayımladı.
 presumido | burnu havada, kendini beğenmiş | sıfat | Aquel chico presumido creía que todas las miradas del salón se dirigían a él. | O burnu havada çocuk, salondaki tüm bakışların kendisine yöneldiğini sanıyordu.
-la prepotencia | üstünlük taslama, nobranlık | isim (d) | Los ciudadanos rechazaron enérgicamente la prepotencia del gobernante autoritario de turno. | Vatandaşlar, dönemin otoriter yöneticisinin üstünlük taslayan nobranlığını kararlılıkla reddetti.
+la prepotencia | üstünlük taslama | isim (d) | La prepotencia del nuevo encargado molestó a todo el equipo. | Yeni sorumlunun üstünlük taslaması bütün ekibi rahatsız etti.
 prepotente | buyurgan, üstünlük taslayan | sıfat | El jefe prepotente despidió al empleado que osó contradecir sus directrices arbitrarias. | Buyurgan patron, keyfi talimatlarına karşı çıkmaya cüret eden çalışanı kovdu.
 fatuo | ahmakça kibirli, böbürlenen | sıfat | Sus comentarios fatuos demostraban una profunda ignorancia sobre la realidad social circundante. | Ahmakça kibirli yorumları, etrafındaki toplumsal gerçekliğe dair derin bir cehaleti gösteriyordu.
 altanero | tepeden bakan, burnu büyük | sıfat | Dirigió una mirada altanera a los recién llegados antes de darles la espalda. | Yeni gelenlere sırtını dönmeden önce tepeden bakan bir bakış fırlattı.
@@ -77,7 +77,7 @@ la benevolencia | iyi niyet, hoşgörü | isim (d) | Trataba los errores ajenos 
 benévolo | hoşgörülü, iyi niyetli | sıfat | El crítico benévolo destacó los aciertos visuales de la ópera prima cinematográfica. | Hoşgörülü eleştirmen, yönetmenin ilk sinema eserinin görsel başarılarını vurguladı.
 bondadoso | müşfik, iyilik dolu | sıfat | Aquel voluntario bondadoso dedicaba sus fines de semana a socorrer a indigentes. | O müşfik gönüllü, hafta sonlarını yoksullara yardım etmeye adıyordu.
 ## Huysuzluk ve alınganlık
-cascarrabias | huysuz, aksi kimse | isim | Nuestro vecino cascarrabias protesta cada vez que los niños juegan en el patio. | Huysuz komşumuz, çocuklar avluda her oynadığında şikâyet eder.
+cascarrabias | huysuz, aksi kimse | sıfat | Nuestro vecino cascarrabias protesta cada vez que los niños juegan en el patio. | Huysuz komşumuz, çocuklar avluda her oynadığında şikâyet eder.
 gruñón | mızmız, homurdanan | sıfat | El abuelo gruñón se quejaba del volumen excesivo del televisor en la sala. | Homurdanan dede, salondaki televizyonun aşırı yüksek sesinden yakınıyordu.
 irascible | çabuk parlayan, öfkeli | sıfat | Su temperamento irascible le causaba constantes problemas de convivencia en el trabajo comunitario. | Çabuk parlayan mizacı, topluluk çalışmasında sürekli geçimsizlik sorunlarına yol açıyordu.
 quisquilloso | müşkülpesent, kılı kırk yaran | sıfat | Es un crítico gastronómico quisquilloso que encuentra defectos en cualquier plato delicioso. | Enfes bir yemekte dahi kusur bulan müşkülpesent bir gastronomi eleştirmenidir.
@@ -88,7 +88,7 @@ la susceptibilidad | alınganlık, hassasiyet | isim (d) | Aquel comentario hiri
 arisco | hırçın, yabani | sıfat | El gato callejero permanecía arisco y huía ante cualquier intento de caricia. | Sokak kedisi hırçın kalmaya devam ediyordu ve her okşama girişiminde kaçıyordu.
 iracundo | öfkeli, gazap dolu | sıfat | Pronunció un discurso iracundo contra las nuevas medidas fiscales impuestas por sorpresa. | Beklenmedik şekilde getirilen yeni mali tedbirlere karşı öfkeli bir konuşma yaptı.
 ## Güvenilirlik ve ciddiyet
-fiable | güvenilir | sıfat | Elegimos un proveedor fiable que garantiza entregas puntuales de suministros esenciales. | Temel malzemelerin zamanında teslimatını garanti eden güvenilir bir tedarikçi seçtik.
+formal | ciddi, güvenilir; resmî | sıfat | Es un chico muy formal: siempre cumple lo que promete. | Çok güvenilir bir çocuk: verdiği sözü hep tutar.
 fidedigno | muteber, itimat edilir | sıfat | Consultamos un testimonio fidedigno antes de redactar el reportaje sobre el incidente. | Olayla ilgili haberi kaleme almadan önce muteber bir tanıklığa başvurduk.
 escrupuloso | titiz, vicdanlı | sıfat | El contable escrupuloso detectó el menor descuadre numérico en el balance financiero. | Vicdanlı muhasebeci, mali bilançodaki en küçük rakam uyuşmazlığını bile tespit etti.
 intachable | lekesiz, kusursuz | sıfat | La magistrada poseía una trayectoria intachable en la administración de justicia pública. | Kadın yargıç, kamu adaletinin idaresinde lekesiz bir kariyere sahipti.

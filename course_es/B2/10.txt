@@ -1,111 +1,111 @@
 # UNIT: Spor ve boş zaman | Spor dalları, müsabaka, antrenman, hobiler
-## Atletizm ve pist sporları
-el atletismo ligero | hafif atletizm | isim (e) | Practica el atletismo ligero en la pista municipal. | Belediye pistinde hafif atletizm yapıyor.
-la carrera de vallas | engelli koşu | isim (d) | La carrera de vallas exige mucha velocidad y técnica. | Engelli koşu yüksek hız ve teknik gerektirir.
-el salto de longitud | uzun atlama | isim (e) | El salto de longitud requiere un fuerte impulso inicial. | Uzun atlama güçlü bir ilk itiş gerektirir.
-el salto de altura | yüksek atlama | isim (e) | El atleta superó el listón en el salto de altura. | Sporcu yüksek atlamada çıtayı geçti.
-el lanzamiento de peso | gülle atma | isim (e) | Demostró gran fuerza en el lanzamiento de peso. | Gülle atmada büyük güç gösterdi.
-el triple salto | üç adım atlama | isim (e) | El triple salto combina velocidad y equilibrio corporal. | Üç adım atlama hız ve vücut dengesini birleştirir.
-la pértiga | sırık | isim (d) | La pértiga se dobla antes de elevar al saltador. | Sırık, atlayıcıyı yükseltmeden önce bükülür.
-la pista de tartán | tartan pist | isim (d) | Corren sobre la pista de tartán cada mañana. | Her sabah tartan pist üzerinde koşuyorlar.
-el juez de pista | pist hakemi | isim (e) | El juez de pista anotó la infracción en la salida. | Pist hakemi çıkıştaki ihlali kaydetti.
-la marca personal | kişisel derece | isim (d) | Batió su marca personal en los cien metros lisos. | Yüz metre düz koşuda kişisel derecesini geliştirdi.
+## Atletizm
+el lanzamiento de jabalina | cirit atma | isim (e) | Quedó segundo en lanzamiento de jabalina. | Cirit atmada ikinci oldu.
+la carrera de vallas | engelli koşu | isim (d) | Se cayó en la carrera de vallas. | Engelli koşuda düştü.
+el salto de longitud | uzun atlama | isim (e) | Ganó la prueba de salto de longitud. | Uzun atlama yarışını kazandı.
+el salto de altura | yüksek atlama | isim (e) | En salto de altura hay que superar el listón. | Yüksek atlamada çıtayı geçmek gerekir.
+el lanzamiento de peso | gülle atma | isim (e) | El lanzamiento de peso exige mucha fuerza. | Gülle atma çok güç ister.
+la pértiga | sırık | isim (d) | La pértiga se dobla antes del salto. | Sırık atlayıştan önce bükülür.
+el medio maratón | yarı maraton | isim (e) | Está entrenando para un medio maratón. | Bir yarı maraton için antrenman yapıyor.
+la línea de salida | başlangıç çizgisi | isim (d) | Los corredores esperan en la línea de salida. | Koşucular başlangıç çizgisinde bekliyor.
+la marca personal | kişisel rekor | isim (d) | Batió su marca personal en los cien metros. | Yüz metrede kişisel rekorunu kırdı.
+el relevo | bayrak yarışı | isim (e) | El equipo perdió el testigo en el relevo. | Takım bayrak yarışında bayrağı düşürdü.
 ## Su sporları
-la natación sincronizada | senkronize yüzme | isim (d) | La natación sincronizada impresiona por su gran armonía. | Senkronize yüzme büyük uyumuyla etkiler.
-el deporte acuático | su sporu | isim (e) | El deporte acuático es muy popular en verano. | Su sporu yaz aylarında çok popülerdir.
-el piragüismo | kano sporu | isim (e) | Practican el piragüismo en el río principal. | Ana nehirde kano sporu yapıyorlar.
-el remo | kürek sporu | isim (e) | El equipo de remo entra sincronizado en el agua. | Kürek takımı suya senkronize bir şekilde giriyor.
-el salto ornamental | kule atlama | isim (e) | Realizó un giro perfecto en el salto ornamental. | Kule atlamada kusursuz bir dönüş gerçekleştirdi.
-el surf | surf | isim (e) | Espera la ola perfecta para practicar el surf. | Surf yapmak için mükemmel dalgayı bekliyor.
-la tabla de surf | surf tahtası | isim (d) | Su tabla de surf es ligera y muy resistente. | Surf tahtası hafif ve çok dayanıklıdır.
-el buceo | dalış | isim (e) | El buceo permite observar la fauna marina oculta. | Dalış, gizli deniz faunasını gözlemlemeyi sağlar.
-la apnea | serbest dalış | isim (d) | La apnea profunda requiere un control mental absoluto. | Derin serbest dalış mutlak zihinsel kontrol gerektirir.
-el windsurf | rüzgâr sörfü | isim (e) | El viento fuerte favorece la práctica del windsurf. | Güçlü rüzgâr rüzgâr sörfü yapmayı teşvik ediyor.
+la natación sincronizada | senkronize yüzme | isim (d) | La natación sincronizada exige mucha coordinación. | Senkronize yüzme çok koordinasyon ister.
+el piragüismo | kano sporu | isim (e) | Hacemos piragüismo en el río cada verano. | Her yaz nehirde kano yapıyoruz.
+el remo | kürek sporu; kürek | isim (e) | El remo fortalece la espalda. | Kürek sporu sırtı güçlendirir.
+el salto de trampolín | tramplen atlama | isim (e) | Hizo un salto de trampolín perfecto. | Kusursuz bir tramplen atlayışı yaptı.
+el surf | sörf | isim (e) | En invierno también se puede hacer surf. | Kışın da sörf yapılabilir.
+la tabla de surf | sörf tahtası | isim (d) | Lleva la tabla de surf en el techo del coche. | Sörf tahtasını arabanın üstünde taşıyor.
+el buceo | dalış | isim (e) | Hicimos buceo entre los corales. | Mercanlar arasında dalış yaptık.
+el neopreno | dalgıç elbisesi, neopren | isim (e) | Sin neopreno el agua está demasiado fría. | Neopren olmadan su çok soğuk.
+el velero | yelkenli | isim (e) | Dieron la vuelta a la isla en velero. | Adanın çevresini yelkenliyle dolaştılar.
+el waterpolo | sutopu | isim (e) | El waterpolo es un deporte muy duro. | Sutopu çok sert bir spordur.
 ## Kış sporları
-el esquí alpino | alp disiplini kayak | isim (e) | Desciende con destreza en el esquí alpino. | Alp disiplini kayakla ustalıkla aşağı iniyor.
-el snowboard | snowboard | isim (e) | Prefiere el snowboard para bajar por la ladera. | Yamaçtan aşağı inmek için snowboard'u tercih ediyor.
-el patinaje sobre hielo | buz pateni | isim (e) | El patinaje sobre hielo exige equilibrio milimétrico. | Buz pateni milimetrik denge gerektirir.
-el hockey sobre hielo | buz hokeyi | isim (e) | El hockey sobre hielo es un juego rápido y físico. | Buz hokeyi hızlı ve fiziksel bir oyundur.
-el trineo | kızak | isim (e) | Los niños bajan la pendiente con un trineo de madera. | Çocuklar tahta kızakla yokuş aşağı iniyorlar.
-el biatlón | biatlon | isim (e) | El biatlón combina el esquí de fondo con la puntería. | Biatlon, kayaklı koşuyu nişancılıkla birleştirir.
-el patinaje artístico | artistik patinaj | isim (e) | Su actuación en el patinaje artístico fue brillante. | Artistik patinajdaki performansı parlaktı.
-el curling | körling | isim (e) | Deslizan la piedra pesada sobre el hielo en el curling. | Körlingde ağır taşı buz üzerinde kaydırıyorlar.
-el descenso | hız kayağı | isim (e) | Alcanzó gran velocidad en la pista de descenso. | Hız kayağı pistinde yüksek hıza ulaştı.
-la estación invernal | kayak merkezi | isim (d) | La estación invernal abre sus puertas en diciembre. | Kayak merkezi aralık ayında kapılarını açıyor.
-## Takım ve top oyunları
-el balonvolea | voleybol | isim (e) | El balonvolea fomenta la cooperación entre compañeros. | Voleybol, takım arkadaşları arasındaki iş birliğini teşvik eder.
-el rugby | ragbi | isim (e) | El rugby es un deporte de contacto intenso y respeto. | Ragbi yoğun temas ve saygı içeren bir spordur.
-el bádminton | badminton | isim (e) | Golpea el volante ligero con rapidez en el bádminton. | Badmintonda hafif tüy topa hızla vuruyor.
-el hockey sobre hierba | çim hokeyi | isim (e) | Controlan la pequeña bola con el stick en el hockey. | Hokeyde küçük topu sopa ile kontrol ediyorlar.
-el deporte de equipo | takım sporu | isim (e) | Los jugadores de un deporte de equipo deben cooperar. | Takım sporunun oyuncuları iş birliği yapmalıdır.
-el frontón | fronton | isim (e) | La pelota rebota veloz contra la pared del frontón. | Top fronton duvarına hızla çarpıp geri dönüyor.
-el polo | polo | isim (e) | Montan a caballo mientras golpean la pelota de polo. | Polo topuna vururken ata biniyorlar.
-el béisbol | beysbol | isim (e) | Conecta un buen batazo al fondo en el béisbol. | Beysbolda derinlere doğru iyi bir vuruş yapıyor.
-el críket | kriket | isim (e) | El partido de críket dura varias horas bajo el sol. | Kriket maçı güneş altında birkaç saat sürüyor.
-el golf | golf | isim (e) | Calcula la distancia al hoyo en el campo de golf. | Golf sahasında çukura olan mesafeyi hesaplıyor.
-## Dövüş sanatları
-el judo | judo | isim (e) | Practica el judo para mejorar su defensa personal. | Kişisel savunmasını geliştirmek için judo yapıyor.
-el kárate | karate | isim (e) | Ejecuta un golpe seco y firme en el kárate. | Karatede keskin ve sert bir vuruş gerçekleştiriyor.
-el taekwondo | tekvando | isim (e) | Destaca por sus patadas altas en el taekwondo. | Tekvandodaki yüksek vuruşlarıyla öne çıkıyor.
-el boxeo inglés | ingiliz boksu | isim (e) | Estudia los movimientos del rival en el boxeo inglés. | İngiliz boksunda rakibin hareketlerini inceliyor.
-la esgrima | eskrim | isim (d) | La esgrima requiere reflejos rápidos y precisión táctica. | Eskrim hızlı refleksler ve taktiksel kesinlik gerektirir.
-el kickboxing | kickboks | isim (e) | Combina golpes de puño y pierna en el kickboxing. | Kickboksta yumruk ve bacak vuruşlarını birleştiriyor.
-el kung fu | kung fu | isim (e) | El kung fu tradicional enseña disciplina y paciencia. | Geleneksel kung fu disiplin ve sabır öğretir.
-el sumo | sumo | isim (e) | Dos luchadores miden sus fuerzas en el ring de sumo. | İki güreşçi sumo ringinde güçlerini ölçüyor.
-la lucha libre | serbest güreş | isim (d) | Aplica una llave táctica en la lucha libre. | Serbest güreşte taktiksel bir kilit uyguluyor.
-el hapkido | hapkido | isim (e) | Utiliza la fuerza del oponente en el hapkido. | Hapkidoda rakibin gücünü kullanıyor.
+el esquí de fondo | kros kayağı | isim (e) | El esquí de fondo es muy bueno para el corazón. | Kros kayağı kalbe çok iyi gelir.
+el snowboard | snowboard | isim (e) | Prefiere el snowboard al esquí. | Snowboard'u kayağa tercih ediyor.
+el patinaje sobre hielo | buz pateni | isim (e) | El patinaje sobre hielo exige mucho equilibrio. | Buz pateni çok denge ister.
+el hockey sobre hielo | buz hokeyi | isim (e) | El hockey sobre hielo es rápido y físico. | Buz hokeyi hızlı ve fiziksel bir oyundur.
+el trineo | kızak | isim (e) | Los niños bajaban la colina en trineo. | Çocuklar tepeden kızakla iniyordu.
+el telesilla | telesiyej | isim (e) | Subimos a la cima en telesilla. | Zirveye telesiyejle çıktık.
+la pista de esquí | kayak pisti | isim (d) | Esta pista de esquí es solo para expertos. | Bu kayak pisti yalnızca uzmanlar için.
+la estación de esquí | kayak merkezi | isim (d) | La estación de esquí abre en diciembre. | Kayak merkezi aralıkta açılıyor.
+el patinaje artístico | artistik patinaj | isim (e) | Su actuación de patinaje artístico fue brillante. | Artistik patinaj gösterisi parlaktı.
+la avalancha | çığ | isim (d) | Cerraron la pista por riesgo de avalancha. | Çığ riski nedeniyle pisti kapattılar.
+## Takım sporları
+el hockey sobre hierba | çim hokeyi | isim (e) | España tiene buen nivel en hockey sobre hierba. | İspanya çim hokeyinde iyi seviyede.
+el críquet | kriket | isim (e) | El críquet es muy popular en la India. | Kriket Hindistan'da çok popülerdir.
+el rugby | ragbi | isim (e) | El rugby es un deporte de mucho contacto. | Ragbi çok temaslı bir spordur.
+el béisbol | beyzbol | isim (e) | El béisbol es muy popular en el Caribe. | Beyzbol Karayipler'de çok popülerdir.
+el golf | golf | isim (e) | Juega al golf los fines de semana. | Hafta sonları golf oynuyor.
+el bádminton | badminton | isim (e) | El bádminton se juega con raqueta y volante. | Badminton raket ve tüylü topla oynanır.
+el capitán | kaptan | isim (e) | El capitán levantó la copa. | Kaptan kupayı kaldırdı.
+el suplente | yedek oyuncu | isim (e) | Salió como suplente en la segunda parte. | İkinci yarıda yedek olarak oyuna girdi.
+la alineación | kadro, ilk on bir | isim (d) | El entrenador anunció la alineación. | Antrenör kadroyu açıkladı.
+la cantera | altyapı | isim (d) | Este jugador viene de la cantera del club. | Bu oyuncu kulübün altyapısından geliyor.
+## Dövüş sporları
+el judo | judo | isim (e) | Hace judo dos veces por semana. | Haftada iki kez judo yapıyor.
+el kárate | karate | isim (e) | Es cinturón negro de kárate. | Karatede siyah kuşak.
+el taekwondo | tekvando | isim (e) | En taekwondo se usan mucho las piernas. | Tekvandoda bacaklar çok kullanılır.
+la esgrima | eskrim | isim (d) | La esgrima exige reflejos muy rápidos. | Eskrim çok hızlı refleks ister.
+la lucha libre | serbest güreş | isim (d) | Practica lucha libre desde niño. | Çocukluğundan beri serbest güreş yapıyor.
+el cinturón negro | siyah kuşak | isim (e) | Tardó ocho años en conseguir el cinturón negro. | Siyah kuşağı almak sekiz yılını aldı.
+el combate | dövüş, maç | isim (e) | Ganó el combate por puntos. | Dövüşü sayıyla kazandı.
+el ring | ring | isim (e) | Los dos boxeadores subieron al ring. | İki boksör ringe çıktı.
+el guante de boxeo | boks eldiveni | isim (e) | Se compró unos guantes de boxeo nuevos. | Kendine yeni boks eldivenleri aldı.
+la defensa personal | kendini savunma | isim (d) | Tomó clases de defensa personal. | Kendini savunma dersleri aldı.
 ## Doğa sporları
-la escalada en roca | kaya tırmanışı | isim (d) | La escalada en roca exige máxima concentración mental. | Kaya tırmanışı maksimum zihinsel konsantrasyon gerektirir.
-el paracaidismo | paraşütçülük | isim (e) | Siente la adrenalina pura al practicar el paracaidismo. | Paraşütçülük yaparken saf adrenalini hissediyor.
-el ala delta | yelkankanat | isim (e) | Surca los cielos estables con su ala delta. | Yelkankanatıyla istikrarlı göklerde süzülüyor.
-el descenso de barrancos | kanyon geçişi | isim (e) | Explora cascadas ocultas en el descenso de barrancos. | Kanyon geçişinde gizli şelaleleri keşfediyor.
-la espeleología | mağaracılık | isim (d) | Investiga cuevas profundas mediante la espeleología. | Mağaracılık yoluyla derin mağaraları araştırıyor.
-el ciclismo de montaña | dağ bisikleti | isim (e) | Supera caminos embarrados con el ciclismo de montaña. | Dağ bisikletiyle çamurlu yolları aşıyor.
-el senderismo alpino | alpin yürüyüş | isim (e) | Disfruta del paisaje puro en el senderismo alpino. | Alpin yürüyüşte saf manzaranın tadını çıkarıyor.
-el rápel | ip inişi | isim (e) | Desciende por la pared vertical usando el rápel. | İp inişi kullanarak dikey duvardan aşağı iniyor.
-el patinaje agresif | agresif paten | isim (e) | Realiza saltos urbanos con el patinaje agresif. | Agresif patenle şehir içi atlayışlar gerçekleştiriyor.
-el esquí de travesía | tur kayağı | isim (e) | Avanza por la nieve virgen con el esquí de travesía. | Tur kayağı ile el değmemiş kar üzerinde ilerliyor.
-## Müsabaka ve turnuva
-el torneo internacional | uluslararası turnuva | isim (e) | El equipo viajó para disputar el torneo internacional. | Takım uluslararası turnuvada oynamak için seyahat etti.
-la fase eliminatoria | eleme turu | isim (d) | Superaron la fase eliminatoria con un juego sólido. | Sağlam bir oyunla eleme turunu geçtiler.
-la finalísima | büyük final | isim (d) | La afición espera con gran nerviosismo la finalísima. | Taraftarlar büyük finali büyük bir gerginlikle bekliyor.
-el trofeo dorado | altın kupa | isim (e) | Levantó el trofeo dorado tras ganar el partido clave. | Kilit maçı kazandıktan sonra altın kupayı kaldırdı.
-la medalla de bronce | bronz madalya | isim (d) | Consiguió la medalla de bronce en su debut olímpico. | Olimpiyatlardaki ilk çıkışında bronz madalya kazandı.
-el podio | kürsü | isim (e) | Los tres mejores atletas subieron al podio oficial. | En iyi üç sporcu resmi kürsüye çıktı.
-el récord mundial | dünya rekoru | isim (e) | Estableció un nuevo récord mundial en la piscina. | Havuzda yeni bir dünya rekoru kırdı.
-el empate técnico | teknik berabere | isim (e) | El marcador final reflejó un empate técnico absoluto. | Nihai skor mutlak bir teknik berabere yansıttı.
-la prórroga extra | ekstra uzatma | isim (d) | Decidieron el encuentro en la prórroga extra. | Karşılaşmaya ekstra uzatmada karar verdiler.
-el fuera de juego | ofsayt | isim (e) | El linier levantó el banderín señalando el fuera de juego. | Yan hakem bayrağı kaldırarak ofsayt işaret etti.
-## Antrenman ve kondisyon
-la sesión física | fiziksel seans | isim (d) | La sesión física de hoy incluye pesas y resistencia. | Bugünkü fiziksel seans ağırlık ve dayanıklılık içeriyor.
-la carga aeróbica | aerobik yük | isim (d) | Controlan la carga aeróbica con un monitor cardíaco. | Aerobik yükü bir kalp monitörü ile kontrol ediyorlar.
-la tabla de ejercicios | egzersiz tablosu | isim (d) | El preparador físico diseñó una nueva tabla de ejercicios. | Kondisyoner yeni bir egzersiz tablosu tasarladı.
-el estiramiento muscular | kas germe | isim (e) | El estiramiento muscular previene lesiones graves. | Kas germe ciddi sakatlıkları önler.
-la fatiga muscular | kas yorgunluğu | isim (d) | Notó una ligera fatiga muscular tras el esfuerzo. | Çabadan sonra hafif bir kas yorgunluğu fark etti.
-la recuperación activa | aktif dinlenme | isim (d) | Practican la recuperación activa para soltar piernas. | Bacakları rahatlatmak için aktif dinlenme yapıyorlar.
-el calentamiento previo | ön ısınma | isim (e) | Realizan un calentamiento previo antes de competir. | Yarışmadan önce ön ısınma gerçekleştiriyorlar.
-la resistencia aeróbica | aerobik dayanıklılık | isim (d) | Mejora su resistencia aeróbica corriendo por el parque. | Parkta koşarak aerobik dayanıklılığını geliştiriyor.
-el tono muscular | kas tonusu | isim (e) | Busca mantener un buen tono muscular todo el año. | Yıl boyunca iyi bir kas tonusu korumaya çalışıyor.
-el esfuerzo físico | fiziksel çaba | isim (e) | El esfuerzo físico rindió frutos en la competición. | Fiziksel çaba yarışmada meyvelerini verdi.
-## Hobiler ve yaratıcı uğraşlar
-el modelismo naval | gemi modelciliği | isim (e) | Construye piezas pequeñas en el modelismo naval. | Gemi modelciliğinde küçük parçalar inşa ediyor.
-la cerámica artística | sanat seramiği | isim (d) | Da forma a la arcilla en la cerámica artística. | Sanat seramiğinde kile şekil veriyor.
-el grabado en madera | ahşap baskı | isim (e) | Diseña grabados finos mediante el grabado en madera. | Ahşap baskı yoluyla ince gravürler tasarlıyor.
-la jardinería botánica | botanik bahçeciliği | isim (d) | Cuida plantas exóticas en su jardinería botánica. | Botanik bahçeciliğinde egzotik bitkilere bakıyor.
-la acuarela | sulu boya | isim (d) | Pinta paisajes marinos usando la técnica de la acuarela. | Sulu boya tekniğini kullanarak deniz manzaraları boyuyor.
-la marquetería | kakmacılık | isim (d) | Une finas láminas de madera en la marquetería. | Kakmacılıkta ince ahşap tabakaları birleştiriyor.
-el punto de cruz | etamin | isim (e) | Diseña figuras coloridas con el punto de cruz. | Etamin ile renkli figürler tasarlıyor.
-la cestería tradicional | geleneksel sepetçilik | isim (d) | Entrelaza fibras vegetales en la cestería tradicional. | Geleneksel sepetçilikte bitkisel lifleri örüyor.
-el coleccionismo de monedas | madeni para koleksiyonculuğu | isim (e) | Busca piezas históricas en el coleccionismo de monedas. | Madeni para koleksiyonculuğunda tarihi parçalar arıyor.
-la fotografía analógica | analog fotoğrafçılık | isim (d) | Revela rollos antiguos en la fotografía analógica. | Analog fotoğrafçılıkta eski filmleri banyo ediyor.
-## Boş zaman etkinlikleri
-el taller creativo | yaratıcı atölye | isim (e) | Participa cada martes en el taller creativo del centro. | Her salı merkezdeki yaratıcı atölyeye katılıyor.
-la lectura reposada | sakin okuma | isim (d) | Disfruta de la lectura reposada junto a la ventana. | Pencerenin yanında sakin okumanın tadını çıkarıyor.
-el paseo vespertino | akşamsüstü yürüyüşü | isim (e) | Realiza un apacible paseo vespertino por el parque. | Parkta huzurlu bir akşamsüstü yürüyüşü gerçekleştiriyor.
-la charla distendida | rahat sohbet | isim (d) | Mantienen una charla distendida sobre arte y cultura. | Sanat ve kültür üzerine rahat bir sohbet sürdürüyorlar.
-la noche de juegos | oyun gecesi | isim (d) | Organizan una divertida noche de juegos con amigos. | Arkadaşlarıyla eğlenceli bir oyun gecesi organize ediyorlar.
-la excursión fotográfica | fotoğraf gezisi | isim (d) | Planifica una excursión fotográfica al atardecer. | Gün batımında bir fotoğraf gezisi planlıyor.
-el club de lectura | kitap kulübü | isim (e) | Debate sobre novelas clásicas en el club de lectura. | Kitap kulübünde klasik romanlar üzerine tartışıyor.
-la tarde de cine | sinema öğleden sonrası | isim (d) | Prefiere una tranquila tarde de cine en casa. | Evde sakin bir sinema öğleden sonrasını tercih ediyor.
-el juego de ingenio | zeka oyunu | isim (e) | Resuelve un complejo juego de ingenio en casa. | Evde karmaşık bir zeka oyununu çözüyor.
-la escapada rural | kırsal kaçamak | isim (d) | Disfruta de una relajante escapada rural este fin de semana. | Bu hafta sonu rahatlatıcı bir kırsal kaçamağın tadını çıkarıyor.
+el boulder | boulder tırmanışı | isim (e) | En el rocódromo practicamos boulder. | Tırmanış salonunda boulder yapıyoruz.
+el paracaidismo | paraşütçülük | isim (e) | Probó el paracaidismo por su cumpleaños. | Doğum gününde paraşütle atlamayı denedi.
+el parapente | yamaç paraşütü | isim (e) | Volamos en parapente sobre la costa. | Kıyının üzerinde yamaç paraşütü yaptık.
+el barranquismo | kanyoning | isim (e) | El barranquismo combina agua y montaña. | Kanyoning su ile dağı birleştirir.
+la espeleología | mağaracılık | isim (d) | La espeleología es para gente sin miedo a la oscuridad. | Mağaracılık karanlıktan korkmayanlar içindir.
+la bicicleta de montaña | dağ bisikleti | isim (d) | Recorrimos la sierra en bicicleta de montaña. | Dağları dağ bisikletiyle dolaştık.
+el rápel | iple iniş | isim (e) | Bajamos la pared haciendo rápel. | Duvardan iple inerek indik.
+el arnés | emniyet kemeri (tırmanış) | isim (e) | Comprueba bien el arnés antes de subir. | Tırmanmadan önce emniyet kemerini iyi kontrol et.
+el mosquetón | karabina (tırmanış) | isim (e) | Engancha el mosquetón a la cuerda. | Karabinayı ipe tak.
+el desnivel | yükseklik farkı | isim (e) | La etapa tiene un desnivel de mil metros. | Etabın bin metre yükseklik farkı var.
+## Müsabaka
+la liga | lig | isim (d) | El equipo va primero en la liga. | Takım ligde birinci sırada.
+la eliminatoria | eleme turu | isim (d) | Quedaron fuera en la eliminatoria. | Eleme turunda elendiler.
+la semifinal | yarı final | isim (d) | Perdimos en la semifinal por un gol. | Yarı finalde bir golle kaybettik.
+el trofeo | kupa, ödül | isim (e) | El trofeo está en el museo del club. | Kupa kulübün müzesinde duruyor.
+la medalla de bronce | bronz madalya | isim (d) | Consiguió la medalla de bronce. | Bronz madalyayı kazandı.
+el podio | kürsü | isim (e) | Subió al podio por primera vez. | İlk kez kürsüye çıktı.
+el récord mundial | dünya rekoru | isim (e) | Batió el récord mundial de natación. | Yüzmede dünya rekorunu kırdı.
+el tiempo de descuento | uzatma dakikaları | isim (e) | Marcaron en el tiempo de descuento. | Uzatma dakikalarında gol attılar.
+la tanda de penaltis | penaltı atışları | isim (d) | Ganaron en la tanda de penaltis. | Penaltı atışlarında kazandılar.
+el fuera de juego | ofsayt | isim (e) | El gol se anuló por fuera de juego. | Gol ofsayt nedeniyle iptal edildi.
+## Antrenman
+la pretemporada | sezon öncesi hazırlık | isim (d) | En la pretemporada entrenan dos veces al día. | Sezon öncesinde günde iki kez antrenman yapıyorlar.
+el preparador físico | kondisyoner | isim (e) | El preparador físico diseñó un nuevo plan. | Kondisyoner yeni bir plan hazırladı.
+el estiramiento | esneme | isim (e) | Los estiramientos previenen lesiones. | Esneme hareketleri sakatlıkları önler.
+la rutina de entrenamiento | antrenman programı | isim (d) | Cambió su rutina de entrenamiento. | Antrenman programını değiştirdi.
+el rendimiento deportivo | sportif performans | isim (e) | El sueño mejora el rendimiento deportivo. | Uyku sportif performansı artırır.
+las agujetas | kas ağrısı (antrenman sonrası) | isim (çoğul) | Después del gimnasio tengo agujetas. | Spor salonundan sonra kaslarım ağrıyor.
+la flexión | şınav | isim (d) | Hace cincuenta flexiones cada mañana. | Her sabah elli şınav çekiyor.
+la abdominal | mekik | isim (d) | Las abdominales fortalecen el abdomen. | Mekikler karın kaslarını güçlendirir.
+la sentadilla | squat, çömelme | isim (d) | Hace sentadillas para fortalecer las piernas. | Bacaklarını güçlendirmek için squat yapıyor.
+la lesión muscular | kas sakatlığı | isim (d) | Una lesión muscular lo dejó fuera un mes. | Bir kas sakatlığı onu bir ay oyun dışı bıraktı.
+## Hobiler
+el alfarero | çömlekçi | isim (e) | El alfarero trabaja el barro con las manos. | Çömlekçi çamuru elleriyle işliyor.
+el caballete | şövale | isim (e) | Puso el caballete junto a la ventana. | Şövaleyi pencerenin yanına koydu.
+la carpintería | marangozluk | isim (d) | Su afición es la carpintería. | Hobisi marangozluk.
+el punto | örgü | isim (e) | Mi abuela me enseñó a hacer punto. | Büyükannem bana örgü örmeyi öğretti.
+la costura | dikiş | isim (d) | Aprendió costura para arreglar su ropa. | Kıyafetlerini onarmak için dikiş öğrendi.
+el coleccionismo | koleksiyonculuk | isim (e) | El coleccionismo de sellos es menos común hoy. | Pul koleksiyonculuğu bugün daha az yaygın.
+la huerta urbana | kent bostanı | isim (d) | Cultiva tomates en una huerta urbana. | Bir kent bostanında domates yetiştiriyor.
+la fotografía analógica | analog fotoğrafçılık | isim (d) | Ha vuelto la moda de la fotografía analógica. | Analog fotoğrafçılık yeniden moda oldu.
+el bricolaje | kendin yap, tamirat işleri | isim (e) | Los sábados hace bricolaje en casa. | Cumartesileri evde tamirat işleri yapıyor.
+la maqueta | maket | isim (d) | Construye maquetas de barcos antiguos. | Eski gemilerin maketlerini yapıyor.
+## Boş zaman
+el sudoku | sudoku | isim (e) | Hace un sudoku en el tren cada mañana. | Her sabah trende bir sudoku çözüyor.
+la papiroflexia | kâğıt katlama sanatı | isim (d) | Con la papiroflexia hace figuras de animales. | Kâğıt katlamayla hayvan figürleri yapıyor.
+el crucigrama | bulmaca | isim (e) | Hace el crucigrama del periódico cada día. | Her gün gazetedeki bulmacayı çözüyor.
+la observación de aves | kuş gözlemciliği | isim (d) | La observación de aves exige paciencia. | Kuş gözlemciliği sabır ister.
+la filatelia | pulculuk | isim (d) | Heredó de su abuelo la pasión por la filatelia. | Pulculuk tutkusunu dedesinden aldı.
+despejarse | kafasını boşaltmak | fiil · dönüşlü | Salió a caminar para despejarse. | Kafasını boşaltmak için yürüyüşe çıktı.
+aficionarse a | -e merak salmak | fiil | Se aficionó a la pesca de mayor. | Yaşlanınca balıkçılığa merak saldı.
+la caligrafía | hat sanatı, güzel yazı | isim (d) | Está aprendiendo caligrafía japonesa. | Japon hat sanatı öğreniyor.
+la tertulia | sohbet toplantısı | isim (d) | Los jueves hay tertulia en el café. | Perşembeleri kafede sohbet toplantısı var.
+el voluntariado | gönüllülük | isim (e) | Dedica sus sábados al voluntariado. | Cumartesilerini gönüllülüğe ayırıyor.

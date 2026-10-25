@@ -1,111 +1,111 @@
-# UNIT: Hizmetler y alışveriş | Banka, kargo, kuaför, giyim
+# UNIT: Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
 ## Bankacılık işlemleri
 depositar | para yatırmak | fiil | Quiero depositar dinero en mi cuenta. | Hesabıma para yatırmak istiyorum.
-transferir | havale etmek, transfer etmek | fiil | Puedo transferir fondos por internet. | İnternet üzerinden para transfer edebilirim.
-firmar | imzalamak | fiil | Debe firmar en esta línea blanca. | Bu beyaz çizgiye imza atmalısınız.
-el documento | belge, evrak | isim (e) | Necesito este documento oficial firmado. | Bu resmi imzalı belgeye ihtiyacım var.
-la cuenta bancaria | banka hesabı, hesap | isim (d) | Abrir una cuenta bancaria toma poco tiempo. | Banka hesabı açmak kısa sürer.
-la moneda | para birimi; madeni para | isim (d) | ¿Cuál es la moneda de este país? | Bu ülkenin para birimi nedir?
-el cajero | veznedar, kasiyer | isim (e) | El cajero me entregó el dinero contado. | Veznedar bana sayılan parayı teslim etti.
-el formulario | form | isim (e) | Rellene este formulario con sus datos. | Bu formu bilgilerinizle doldurun.
-la firma | imza | isim (d) | Su firma es obligatoria aquí. | İmzanız burada zorunludur.
-el banco central | merkez bankası | isim (e) | El banco central regula la economía nacional. | Merkez bankası ulusal ekonomiyi düzenler.
+transferir (transfiero) | havale etmek | fiil · düzensiz | Puedo transferir dinero por internet. | İnternetten para gönderebilirim.
+firmar | imzalamak | fiil | Firme aquí, por favor. | Lütfen buraya imza atın.
+el documento | belge, evrak | isim (e) | Necesito una copia de este documento. | Bu belgenin bir kopyasına ihtiyacım var.
+la cuenta bancaria | banka hesabı | isim (d) | Abrir una cuenta bancaria es fácil. | Banka hesabı açmak kolay.
+el interés | faiz; ilgi | isim (e) | El banco paga poco interés. | Banka az faiz veriyor.
+la hipoteca | konut kredisi, ipotek | isim (d) | Pagamos la hipoteca cada mes. | Konut kredisini her ay ödüyoruz.
+el número secreto | kart şifresi | isim (e) | Escribe tu número secreto. | Kart şifreni gir.
+el importe | tutar | isim (e) | ¿Cuál es el importe total? | Toplam tutar ne kadar?
+pedir prestado | ödünç almak, borç almak | ifade | Pedí prestado dinero a mi hermano. | Kardeşimden borç para aldım.
 ## Posta ve kargo
-el paquete postal | kargo paketi, posta paketi | isim (e) | Este paquete postal pesa dos kilos. | Bu kargo paketi iki kilo geliyor.
-el sobre | zarf | isim (e) | Guardé la carta dentro del sobre blanco. | Mektubu beyaz zarfın içine koydum.
-el remitente | gönderen | isim (e) | Anote el remitente en la parte superior. | Göndereni üst kısma yazın.
-el cartero | postacı | isim (e) | El cartero trajo cartas esta mañana. | Postacı bu sabah mektuplar getirdi.
+el envío | gönderi, kargo | isim (e) | El envío llega en tres días. | Gönderi üç günde ulaşır.
+el destinatario | alıcı | isim (e) | Escribe el nombre del destinatario. | Alıcının adını yaz.
+el remitente | gönderen | isim (e) | El remitente escribe su dirección detrás. | Gönderen adresini arkaya yazar.
+el cartero | postacı | isim (e) | El cartero trae las cartas por la mañana. | Postacı mektupları sabah getiriyor.
 entregar | teslim etmek | fiil | Van a entregar el paquete mañana. | Paketi yarın teslim edecekler.
-la carta certificada | taahhütlü mektup | isim (d) | Envié la carta certificada con acuse. | Taahhütlü mektubu alındı belgesiyle gönderdim.
-la dirección | adres | isim (d) | Escriba la dirección correcta en el paquete. | Pakete doğru adresi yazın.
-pesar | tartmak | fiil | Vamos a pesar la caja en la báscula. | Kutuyu tartıda tartacağız.
-el código postal | posta kodu | isim (e) | ¿Cuál es el código postal de tu barrio? | Mahallenin posta kodu nedir?
-la oficina postal | postahane | isim (d) | La oficina postal cierra a las cinco. | Postahane saat beşte kapanıyor.
+la carta certificada | taahhütlü mektup | isim (d) | Envié una carta certificada. | Taahhütlü bir mektup gönderdim.
+la dirección | adres; yön | isim (d) | Escriba la dirección en el paquete. | Adresi paketin üstüne yazın.
+pesar | tartmak; ağırlığında olmak | fiil | La caja pesa dos kilos. | Kutu iki kilo geliyor.
+el código postal | posta kodu | isim (e) | ¿Cuál es tu código postal? | Posta kodun ne?
+la oficina de correos | postane | isim (d) | La oficina de correos cierra a las cinco. | Postane beşte kapanıyor.
 ## Kuaför ve bakım
-cortar el pelo | saç kesmek | ifade | Quiero cortar el pelo un poco corto. | Saçımı biraz kısa kestirmek istiyorum.
-teñir | boyamak (saç vb.) | fiil | Prefiero teñir mi cabello de castaño. | Saçımı kahverengiye boyatmayı tercih ederim.
-el champú nutritivo | besleyici şampuan | isim (e) | Este champú nutritivo fortalece el cabello. | Bu besleyici şampuan saçı güçlendirir.
-las tijeras | makas | isim (çoğul) | El barbero usa tijeras muy afiladas. | Berber çok keskin makaslar kullanıyor.
-el secador de pelo | saç kurutma makinesi | isim (e) | Enchufa el secador de pelo en el baño. | Saç kurutma makinesini banyoda fişe tak.
-el corte | kesim, saç kesimi | isim (e) | Me gusta mucho este nuevo corte. | Bu yeni kesimi çok beğendim.
-el tinte | boya (saç) | isim (e) | El tinte natural no daña el pelo. | Doğal boya saça zarar vermez.
-peinar | taramak | fiil | Debes peinar tu cabello antes de salir. | Çıkmadan önce saçını taramalısın.
-el espejo grande | büyük ayna | isim (e) | El espejo grande está en la pared. | Büyük ayna duvarda duruyor.
-la cita previa | randevu (önceden alınan) | isim (d) | Necesito una cita previa para mañana. | Yarın için önceden alınmış bir randevuya ihtiyacım var.
+la peluquería | kuaför (dükkân) | isim (d) | Voy a la peluquería el sábado. | Cumartesi kuaföre gidiyorum.
+teñir (tiño) | boyamak (saç, kumaş) | fiil · düzensiz | Quiero teñirme el pelo de castaño. | Saçımı kahverengiye boyatmak istiyorum.
+el peluquero | kuaför, berber (kişi) | isim (e) | Mi peluquero es muy simpático. | Kuaförüm çok sevimli.
+las tijeras | makas | isim (çoğul) | El peluquero usa unas tijeras nuevas. | Kuaför yeni bir makas kullanıyor.
+el secador | saç kurutma makinesi | isim (e) | ¿Me dejas el secador? | Saç kurutma makineni verir misin?
+el corte de pelo | saç kesimi | isim (e) | Me gusta tu nuevo corte de pelo. | Yeni saç kesimini beğendim.
+el tinte | boya (saç) | isim (e) | Este tinte no daña el pelo. | Bu boya saça zarar vermiyor.
+peinarse | saçını taramak | fiil · dönüşlü | Me peino antes de salir. | Çıkmadan önce saçımı tararım.
+rizado | kıvırcık | sıfat | Lucía tiene el pelo rizado. | Lucía'nın saçı kıvırcık.
+la barba | sakal | isim (d) | Mi padre lleva barba. | Babamın sakalı var.
 ## Giyim ve moda
-probarse ropa | kıyafet denemek | ifade | Quiero probarse ropa en el probador. | Kabinde kıyafet denemek istiyorum.
-la chaqueta de cuero | deri ceket | isim (d) | Compró una chaqueta de cuero negra. | Siyah bir deri ceket satın aldı.
-el abrigo de lana | yün kanto, yün palto | isim (e) | Este abrigo de lana abriga bastante. | Bu yün palto oldukça sıcak tutuyor.
-la camisa de algodón | pamuklu gömlek | isim (d) | Prefiero la camisa de algodón fresco. | Pamuklu serin gömleği tercih ediyorum.
-los pantalones cortos | şort | isim (çoğul) | En verano uso pantalones cortos cómodos. | Yazın rahat şortlar giyiyorum.
-el vestido largo | uzun elbise | isim (e) | Ella lleva un vestido largo azul. | O, uzun mavi bir elbise giyiyor.
-la falda corta | kısa etek | isim (d) | Esta falda corta es muy moderna. | Bu kısa etek oldukça modern.
-el sombrero de paja | hasır şapka | isim (e) | Llevo un sombrero de paja bajo el sol. | Güneş altında hasır şapka takıyorum.
-las botas de invierno | kış botları | isim (çoğul) | Mis botas de invierno son impermeables. | Kış botlarım su geçirmezdir.
-la bufanda de lana | yün atkı | isim (d) | Protégete el cuello con la bufanda de lana. | Boynunu yün atkıyla koru.
+la moda | moda | isim (d) | Me interesa mucho la moda. | Modaya çok ilgi duyuyorum.
+el cuero | deri | isim (e) | Compró una chaqueta de cuero. | Deri bir ceket aldı.
+la lana | yün | isim (d) | Este jersey es de lana. | Bu kazak yünden.
+el algodón | pamuk | isim (e) | Prefiero las camisas de algodón. | Pamuklu gömlekleri tercih ederim.
+los pantalones cortos | şort | isim (çoğul) | En verano llevo pantalones cortos. | Yazın şort giyerim.
+el traje | takım elbise | isim (e) | Llevo traje a las reuniones. | Toplantılara takım elbise giyerim.
+la corbata | kravat | isim (d) | Esta corbata va bien con la camisa. | Bu kravat gömleğe yakışıyor.
+el bañador | mayo | isim (e) | No olvides el bañador. | Mayonu unutma.
+las sandalias | sandalet | isim (çoğul) | En verano llevo sandalias. | Yazın sandalet giyerim.
+los guantes | eldiven | isim (çoğul) | Ponte los guantes, hace frío. | Eldivenlerini tak, hava soğuk.
 ## Terzi ve tamirat
-arreglar | tamir etmek, düzeltmek | fiil | El sastre va a arreglar mi pantalón. | Terzi pantolonumu tamir edecek.
-encoger | çekmek (kumaş) | fiil | Esta camisa puede encoger con agua caliente. | Bu gömlek sıcak suda çekebilir.
-alargar | uzatmak | fiil | ¿Puede alargar las mangas de esta chaqueta? | Bu ceketin kollarını uzatabilir misiniz?
-cortar las mangas | kolları kısaltmak | ifade | Voy a cortar las mangas de esta camisa. | Bu gömleğin kollarını kısaltacağım.
-coser un botón | düğme dikmek | ifade | Necesito coser un botón en mi abrigo. | Paltoğuma bir düğme dikmem gerekiyor.
-la aguja | iğne | isim (d) | Usa una aguja fina para este tejido. | Bu kumaş için ince bir iğne kullan.
-el hilo fuerte | sağlam iplik | isim (e) | Este hilo fuerte no se rompe fácil. | Bu sağlam iplik kolayca kopmaz.
-el sastre | terzi (erkek) | isim (e) | El sastre trabaja con mucha precisión. | Terzi büyük bir hassasiyetle çalışıyor.
-la modista | terzi (kadın) | isim (d) | La modista diseñó un vestido hermoso. | Terzi kadın güzel bir elbise tasarladı.
-el remiendo | yama | isim (e) | Hizo un remiendo invisible en el pantalón. | Pantolona görünmez bir yama yaptı.
+arreglar | tamir etmek, düzeltmek | fiil | El sastre va a arreglar mi pantalón. | Terzi pantolonumu düzeltecek.
+encoger (encojo) | çekmek (kumaş) | fiil · düzensiz | Esta camisa encoge con agua caliente. | Bu gömlek sıcak suda çeker.
+alargar | uzatmak | fiil | ¿Puede alargar las mangas? | Kolları uzatabilir misiniz?
+acortar | kısaltmak | fiil | ¿Puede acortar estos pantalones? | Bu pantolonu kısaltabilir misiniz?
+el botón | düğme | isim (e) | Se me ha caído un botón. | Bir düğmem düştü.
+la aguja | iğne | isim (d) | Usa una aguja fina para esta tela. | Bu kumaş için ince bir iğne kullan.
+el hilo | iplik | isim (e) | Necesito hilo negro. | Siyah ipliğe ihtiyacım var.
+el sastre | terzi | isim (e) | El sastre trabaja con mucho cuidado. | Terzi çok özenli çalışıyor.
+la modista | terzi (kadın), modacı | isim (d) | La modista hizo un vestido precioso. | Terzi çok güzel bir elbise dikti.
+el remiendo | yama | isim (e) | Hizo un remiendo en el pantalón. | Pantolona bir yama yaptı.
 ## Temizlik hizmetleri
-lavar en seco | kuru temizleme yapmak | ifade | Prefiero lavar en seco este traje elegante. | Bu şık takımı kuru temizleme yapmayı tercih ederim.
-planchar la ropa | ütülemek | ifade | Debes planchar la ropa antes de guardarla. | Kaldırmadan önce kıyafetleri ütülemelisin.
-la tintorería | kuru temizlemeci | isim (d) | Dejé el abrigo en la tintorería local. | Paltoyu yerel kuru temizlemeciye bıraktım.
-la mancha | leke | isim (d) | Esta mancha de café no sale fácil. | Bu kahve lekesi kolay çıkmıyor.
-limpiar a fondo | kökten temizlemek | ifade | Vamos a limpiar a fondo toda la casa. | Bütün evi kökten temizleyeceğiz.
-el detergente | deterjan | isim (e) | Este detergente cuida los colores oscuros. | Bu deterjan koyu renkleri koruyor.
+la ropa sucia | kirli çamaşır | isim (d) | Pon la ropa sucia en la lavadora. | Kirli çamaşırları makineye koy.
+la percha | elbise askısı | isim (d) | Cuelga la camisa en una percha. | Gömleği bir askıya as.
+la tintorería | kuru temizlemeci | isim (d) | Dejé el abrigo en la tintorería. | Paltoyu kuru temizlemeciye bıraktım.
+la mancha | leke | isim (d) | Esta mancha de café no sale. | Bu kahve lekesi çıkmıyor.
+manchar | lekelemek | fiil | Cuidado, vas a manchar el sofá. | Dikkat, kanepeyi lekeleyeceksin.
+el detergente | deterjan | isim (e) | Este detergente es bueno para la ropa oscura. | Bu deterjan koyu renkli giysiler için iyi.
 el suavizante | yumuşatıcı | isim (e) | Añade suavizante para que huela bien. | Güzel kokması için yumuşatıcı ekle.
-la tabla de planzar | ütü masası | isim (d) | Monta la tabla de planzar en el salón. | Ütü masasını salona kur.
-el tendedero | çamaşır askılığı | isim (e) | Colgué la ropa mojada en el tendedero. | Islak çamaşırları çamaşır askılığına astım.
-la colada | çamaşır yıkama | isim (d) | Hoy toca hacer la colada completa. | Bugün tam çamaşır yıkama günü.
+la tabla de planchar | ütü masası | isim (d) | Monta la tabla de planchar en el salón. | Ütü masasını salona kur.
+el tendedero | çamaşır askılığı | isim (e) | Cuelgo la ropa mojada en el tendedero. | Islak çamaşırları askılığa asıyorum.
+la colada | çamaşır yıkama | isim (d) | Hoy tengo que hacer la colada. | Bugün çamaşır yıkamam lazım.
 ## Elektronik tamiri
-reparar el teléfono | telefon tamir etmek | ifade | Pueden reparar el teléfono en una hora. | Telefonu bir saatte tamir edebilirler.
-la pantalla táctil | dokunmatik ekran | isim (d) | La pantalla táctil no responde bien hoy. | Dokunmatik ekran bugün iyi yanıt vermiyor.
-la batería recargable | şarj edilebilir pil | isim (d) | Esta batería recargable dura mucho tiempo. | Bu şarj edilebilir pil uzun süre dayanıyor.
-el cargador rápido | hızlı şarj cihazı | isim (e) | Olvidé mi cargador rápido en casa. | Hızlı şarj cihazımı evde unuttum.
-el técnico | teknisyen | isim (e) | El técnico revisó el ordenador portátil. | Teknisyen dizüstü bilgisayarı kontrol etti.
-la pieza de repuesto | yedek parça | isim (d) | Buscamos una pieza de repuesto original. | Orijinal bir yedek parça arıyoruz.
-el circuito | devre | isim (e) | El circuito eléctrico sufrió un daño. | Elektrik devresi bir hasar gördü.
-reiniciar | yeniden başlatmak | fiil | Intenta reiniciar el dispositivo ahora. | Cihazı şimdi yeniden başlatmayı dene.
+reparar | tamir etmek, onarmak | fiil | Pueden reparar el teléfono en una hora. | Telefonu bir saatte tamir edebilirler.
+roto | kırık, bozuk | sıfat | La pantalla del móvil está rota. | Telefonun ekranı kırık.
+la batería | batarya, pil | isim (d) | La batería del móvil dura poco. | Telefonun bataryası az dayanıyor.
+el cargador | şarj aleti | isim (e) | Olvidé el cargador en casa. | Şarj aletini evde unuttum.
+el técnico | teknisyen | isim (e) | El técnico revisó el ordenador. | Teknisyen bilgisayarı kontrol etti.
+la pieza | parça | isim (d) | Falta una pieza. | Bir parça eksik.
+funcionar | çalışmak (makine) | fiil | La lavadora no funciona. | Çamaşır makinesi çalışmıyor.
+reiniciar | yeniden başlatmak | fiil | Intenta reiniciar el móvil. | Telefonu yeniden başlatmayı dene.
 la garantía | garanti | isim (d) | El producto tiene dos años de garantía. | Ürünün iki yıl garantisi var.
-el engranaj | dişli | isim (e) | El mecanismo necesita un engranaj nuevo. | Mekanizmanın yeni bir dişliye ihtiyacı var.
+el plazo de entrega | teslim süresi | isim (e) | El plazo de entrega es una semana. | Teslim süresi bir hafta.
 ## Optik ve gözlük
-graduar la vista | görme testi yapmak | ifade | Voy a graduar la vista en la óptica. | Optikçide görme testi yaptıracağım.
-las gafas de sol | güneş gözlüğü | isim (çoğul) | Llevo gafas de sol contra el brillo. | Parlamaya karşı güneş gözlüğü takıyorum.
-la montura ligera | hafif çerçeve | isim (d) | Elegí una montura ligera y cómoda. | Hafif ve rahat bir çerçeve seçtim.
-la lente de contacto | kontakt lens | isim (d) | Prefiero usar lente de contacto para hacer deporte. | Spor yapmak için kontakt lens kullanmayı tercih ediyorum.
-el estuche | gözlük kılıfı, kutu | isim (e) | Guarda tus gafas en el estuche duro. | Gözlüklerini sert kutuda sakla.
-la graduación | derece (göz) | isim (d) | Mi graduación ha cambiado este año. | Bu yıl göz numaram değişti.
-el cristal antirreflejante | yansıma önleyici cam | isim (e) | Compré cristales con capa antirreflejante. | Yansıma önleyici kaplamalı camlar satın aldım.
-limpiar los cristales | camları silmek | ifade | Usa un paño suave para limpiar los cristales. | Camları silmek için yumuşak bir bez kullan.
-el oculista | göz doktoru | isim (e) | El oculista examinó mis ojos con calma. | Göz doktoru gözlerimi sakin bir şekilde muayene etti.
-la agudeza visual | görme keskinliği | isim (d) | Su agudeza visual es excelente hoy. | Bugün görme keskinliğiniz mükemmel.
-## Otel ve konaklama hizmetleri
-hacer el check-in | giriş yapmak (otel) | ifade | Vamos a hacer el check-in en recepción. | Resepsiyonda giriş işlemlerini yapacağız.
-pedir la llave | anahtar istemek | ifade | Voy a pedir la llave de nuestra habitación. | Odamızın anahtarını isteyeceğim.
-el servicio de despertador | uyandırma servisi | isim (e) | Solicité el servicio de despertador temprano. | Erkenci uyandırma servisini talep ettim.
-la propina generosa | cömert bahşiş | isim (d) | Dejó una propina generosa al maletero. | Bagaj taşıyıcıya cömert bir bahşiş bıraktı.
-la estancia agradable | keyifli konaklama | isim (d) | Tuvimos una estancia agradable en el hotel. | Otelde keyifli bir konaklama geçirdik.
-la cama doble | çift kişilik yatak | isim (d) | Nuestra habitación tiene una cama doble. | Odamızda çift kişilik yatak var.
-el folleto informativo | bilgilendirici broşür | isim (e) | Leí el folleto informativo sobre la ciudad. | Şehir hakkındaki bilgilendirici broşürü okudum.
-la salida anticipada | erken çıkış | isim (d) | No podemos aceptar una salida anticipada. | Erken çıkışı kabul edemeyiz.
-la llave electrónica | elektronik anahtar | isim (d) | Usa esta llave electrónica para abrir. | Açmak için bu elektronik anahtarı kullan.
-el conserje | kapıcı, danışma görevlisi | isim (e) | El conserje nos ayudó con las maletas. | Kapıcı valizlerimizle bize yardım etti.
-## Acil servisler ve tamir
-llamar a la grúa | çekici çağırmak | ifade | Tuve que llamar a la grúa por la avería. | Arıza nedeniyle çekici çağırmak zorunda kaldım.
-el taller mecánico | tamir atölyesi, oto tamircisi | isim (e) | El coche está en el taller mecánico. | Araba tamir atölyesinde duruyor.
-la rueda pinchada | patlak lastik | isim (d) | Cambié la rueda pinchada en la carretera. | Yolda patlak lastiği değiştirdim.
+la óptica | optik, gözlükçü | isim (d) | Compro las gafas en la óptica. | Gözlükleri optikçiden alıyorum.
+las gafas de sol | güneş gözlüğü | isim (çoğul) | En verano llevo gafas de sol. | Yazın güneş gözlüğü takarım.
+las lentillas | kontakt lens | isim (çoğul) | Uso lentillas para hacer deporte. | Spor yaparken lens takarım.
+ver bien | iyi görmek | ifade | Sin gafas no veo bien. | Gözlüksüz iyi göremiyorum.
+el estuche | kutu, kılıf | isim (e) | Guarda las gafas en el estuche. | Gözlüklerini kutusuna koy.
+la graduación | göz numarası | isim (d) | Mi graduación ha cambiado este año. | Bu yıl göz numaram değişti.
+el cristal | cam | isim (e) | Se rompió el cristal de las gafas. | Gözlüğün camı kırıldı.
+el paño | bez | isim (e) | Limpia las gafas con un paño suave. | Gözlüğü yumuşak bir bezle sil.
+el oculista | göz doktoru | isim (e) | El oculista me revisa los ojos. | Göz doktoru gözlerimi muayene ediyor.
+miope | miyop | sıfat | Soy miope desde niño. | Çocukluğumdan beri miyobum.
+## Diğer hizmetler
+el servicio | hizmet; servis | isim (e) | El servicio en este hotel es excelente. | Bu otelde hizmet mükemmel.
+la lavandería | çamaşırhane | isim (d) | Llevo la ropa a la lavandería. | Çamaşırları çamaşırhaneye götürüyorum.
+el fontanero | tesisatçı | isim (e) | El fontanero arregla el baño. | Tesisatçı banyoyu tamir ediyor.
+el grifo | musluk | isim (e) | El grifo de la cocina gotea. | Mutfak musluğu damlatıyor.
+la reparación | tamir, onarım | isim (d) | La reparación cuesta cien euros. | Tamir yüz avro tutuyor.
+atender (atiendo) | ilgilenmek, hizmet vermek | fiil · düzensiz | ¿Le atienden ya? | Sizinle ilgilenen var mı?
+el número | numara; sayı | isim (e) | ¿Qué número tienes en la cola? | Sırada kaç numaradasın?
+el horario de apertura | açılış saatleri | isim (e) | El horario de apertura es de nueve a dos. | Açılış saatleri dokuzdan ikiye kadar.
+abierto | açık | sıfat | La farmacia está abierta. | Eczane açık.
+cerrado | kapalı | sıfat | Los domingos la tienda está cerrada. | Pazar günleri mağaza kapalı.
+## Acil tamir
+la grúa | çekici; vinç | isim (d) | Llamamos a la grúa por la avería. | Arıza yüzünden çekici çağırdık.
+el taller | tamirhane; atölye | isim (e) | El coche está en el taller. | Araba tamirhanede.
+pinchado | patlak (lastik) | sıfat | Tengo una rueda pinchada. | Lastiğim patlak.
 el cerrajero | çilingir | isim (e) | Llamé al cerrajero porque perdí la llave. | Anahtarı kaybettiğim için çilingiri aradım.
-la fuga de agua | su kaçağı | isim (d) | Hay una fuga de agua en la cocina. | Mutfakta bir su kaçağı var.
-el electricista | elektrikçi | isim (e) | El electricista arregló el enchufe roto. | Elektrikçi kırık prizi tamir etti.
-romperse la tubería | borunun patlaması | ifade | Puede romperse la tubería con heladas. | Don olaylarıyla boru patlayabilir.
-el servicio técnico | teknik servis | isim (e) | Llamé al servicio técnico de la caldera. | Kombinin teknik servisini aradım.
-el auxilio | yardım | isim (e) | Pedimos auxilio en medio de la tormenta. | Fırtınanın ortasında yardım istedik.
-la herramienta adecuada | uygun alet | isim (d) | Necesito la herramienta adecuada para reparar. | Tamir etmek için uygun alete ihtiyacım var.
+la fuga | kaçak, sızıntı | isim (d) | Hay una fuga de agua en la cocina. | Mutfakta su kaçağı var.
+el electricista | elektrikçi | isim (e) | El electricista arregló el enchufe. | Elektrikçi prizi tamir etti.
+la tubería | boru | isim (d) | La tubería se rompió con el frío. | Boru soğukta patladı.
+el servicio técnico | teknik servis | isim (e) | Llamé al servicio técnico. | Teknik servisi aradım.
+la calefacción | ısıtma, kalorifer | isim (d) | La calefacción no funciona. | Kalorifer çalışmıyor.
+la herramienta | alet | isim (d) | Necesito herramientas para arreglar la bici. | Bisikleti tamir etmek için aletlere ihtiyacım var.

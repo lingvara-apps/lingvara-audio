@@ -1,111 +1,111 @@
 # UNIT: Söylem bağlayıcıları | İleri bağlaçlar, açıklama, yapı ve görüş belirteçleri
 ## Açıklama belirteçleri
-vale_decir | yani, başka bir deyişle | ifade | El acuerdo fracasó, vale_decir, no hubo consenso. | Anlaşma başarısız oldu, yani uzlaşma sağlanamadı.
-a_saber | yani, şeffaf bir biçimde, özellikle | zarf | Hay tres prioridades, a_saber: educación, salud y empleo. | Üç öncelik var, yani: eğitim, sağlık ve istihdam.
-es_decir | demek ki, yani | ifade | Es_decir, la propuesta fue aceptada por todos. | Demek ki teklif herkes tarafından kabul edildi.
-en_efecto | gerçekten de, aslında | zarf | En_efecto, los datos confirman la hipótesis. | Gerçekten de veriler hipotezi doğruluyor.
-o_sea | yani, başka bir ifadeyle | ifade | O_sea, debemos replantear la estrategia. | Yani, stratejiyi yeniden ele almalıyız.
-por_ejemplo | örneğin | zarf | Hay varias opciones, por_ejemplo, cambiar de proveedor. | Çeşitli seçenekler var, örneğin tedarikçi değiştirmek.
-esto_es | yani, diğer bir deyişle | ifade | Faltan recursos, esto_es, necesitamos financiación. | Kaynaklar eksik, yani finansmana ihtiyacımız var.
-vale_mencionarlo | belirtmek gerekir ki | ifade | Vale_mencionarlo, el plazo expira mañana. | Belirtmek gerekir ki süre yarın doluyor.
-en_concreto | somut olarak | zarf | Hablamos de inversiones, en_concreto, en tecnología. | Yatırımlardan bahsediyoruz, somut olarak teknolojiden.
+vale decir | yani, başka bir deyişle | ifade | El acuerdo fracasó, vale decir, no hubo consenso. | Anlaşma başarısız oldu, yani uzlaşma sağlanamadı.
+dicho de otro modo | başka bir deyişle | ifade | No tenemos fondos; dicho de otro modo, el proyecto se cancela. | Fonumuz yok; başka bir deyişle proje iptal ediliyor.
+en otras palabras | diğer bir deyişle | ifade | En otras palabras, tenemos que empezar de cero. | Diğer bir deyişle sıfırdan başlamamız gerekiyor.
+en efecto | gerçekten de, aslında | zarf | En efecto, los datos confirman la hipótesis. | Gerçekten de veriler hipotezi doğruluyor.
+valga decir | yani, şöyle ki | ifade | Llegó tarde, valga decir, como siempre. | Geç geldi, yani her zamanki gibi.
+concretamente | somut olarak, tam olarak | zarf | Me refiero, concretamente, al segundo párrafo. | Tam olarak ikinci paragraftan söz ediyorum.
+esto es | yani, diğer bir deyişle | ifade | Faltan recursos, esto es, necesitamos financiación. | Kaynaklar eksik, yani finansmana ihtiyacımız var.
+huelga decir | söylemeye gerek yok | ifade | Huelga decir que la reunión es confidencial. | Toplantının gizli olduğunu söylemeye gerek yok.
+en particular | özellikle | ifade | Me preocupa, en particular, el coste. | Özellikle maliyet beni endişelendiriyor.
 básicamente | esasen, temel olarak | zarf | El sistema es, básicamente, un filtro digital. | Sistem esasen dijital bir filtredir.
 ## Karşıtlık bağlaçları
-no_obstante | bununla birlikte, yine de | bağlaç | Hubo retrasos; no_obstante, terminamos a tiempo. | Gecikmeler oldu; yine de zamanında bitirdik.
-sin_embargo | ancak, yine de | bağlaç | El proyecto es complejo; sin_embargo, viable. | Proje karmaşık; ancak uygulanabilir.
-a_pesar_de_todo | her şeye rağmen | ifade | A_pesar_de_todo, mantuvieron la calma. | Her şeye rağmen sakinliklerini korudular.
-por_el_contrario | aksine, tersine | ifade | No es fácil; por_el_contrario, requiere mucho esfuerzo. | Kolay değil; aksine çok çaba gerektiriyor.
-en_cambio | buna karşılık, öte yandan | ifade | Juan trabaja mucho; en_cambio, Pedro descansa. | Juan çok çalışıyor; buna karşılık Pedro dinleniyor.
-antes_bien | bilakis, aksine | zarf | No se rindió; antes_bien, duplicó su empeño. | Pes etmedi; bilakis çabasını iki katına çıkardı.
-aun_así | yine de, buna rağmen | ifade | Llovía mucho; aun_así, salieron a caminar. | Çok yağıyordu; yine de yürüyüşe çıktılar.
-con_todo | bununla birlikte, her şeye rağmen | ifade | Con_todo, el resultado fue satisfactoriamente alto. | Bununla birlikte, sonuç tatmin edici derecede yüksekti.
-bien_es_verdad_que | şu da bir gerçektir ki | ifade | Bien_es_verdad_que faltaban datos iniciales. | Başlangıç verilerinin eksik olduğu da bir gerçektir.
-si_bien | her ne kadar (... ise de) | bağlaç | Si_bien el costo es alto, la calidad compensa. | Maliyet yüksek olsa da kalite bunu telafi ediyor.
+no obstante | bununla birlikte, yine de | bağlaç | Hubo retrasos; no obstante, terminamos a tiempo. | Gecikmeler oldu; yine de zamanında bitirdik.
+pese a ello | buna rağmen | ifade | Estaba enfermo; pese a ello, vino a trabajar. | Hastaydı; buna rağmen işe geldi.
+a pesar de todo | her şeye rağmen | ifade | A pesar de todo, mantuvieron la calma. | Her şeye rağmen sakinliklerini korudular.
+por el contrario | aksine, tersine | ifade | No es fácil; por el contrario, requiere mucho esfuerzo. | Kolay değil; aksine çok çaba gerektiriyor.
+eso sí | ama şu da var ki | ifade | Puedes venir; eso sí, no llegues tarde. | Gelebilirsin; ama sakın geç kalma.
+antes bien | bilakis, aksine | zarf | No se rindió; antes bien, duplicó su empeño. | Pes etmedi; bilakis çabasını iki katına çıkardı.
+aun así | yine de, buna rağmen | ifade | Llovía mucho; aun así, salieron a caminar. | Çok yağıyordu; yine de yürüyüşe çıktılar.
+así las cosas | durum böyle olunca | ifade | Así las cosas, no nos queda otra opción. | Durum böyle olunca başka seçeneğimiz kalmıyor.
+bien es verdad que | şu da bir gerçektir ki | ifade | Bien es verdad que faltaban datos iniciales. | Başlangıç verilerinin eksik olduğu da bir gerçektir.
+si bien | her ne kadar (... ise de) | bağlaç | Si bien el costo es alto, la calidad compensa. | Maliyet yüksek olsa da kalite bunu telafi ediyor.
 ## Neden ve sonuç
-por_lo_tanto | bu nedenle, dolayısıyla | zarf | Faltaba quórum; por_lo_tanto, se pospuso la junta. | Yetersiz çoğunluk vardı; dolayısıyla toplantı ertelendi.
-en_consecuencia | sonuç olarak | ifade | Incumplió la norma; en_consecuencia, fue sancionado. | Kuralı ihlal etti; sonuç olarak cezalandırıldı.
-por_consiguiente | dolayısıyla, neticededor | zarf | Hubo un error técnico; por_consiguiente, se reinició. | Teknik bir hata vardı; dolayısıyla yeniden başlatıldı.
-así_pues | böylece, binaenaleyh | ifade | Terminó el plazo; así_pues, cerramos el registro. | Süre bitti; böylece kaydı kapattık.
-de_ahí_que | bu yüzden (... de anlaşılacağı üzere) | ifade | Faltaba presupuesto; de_ahí_que rechazaran el plan. | Bütçe eksikti; bu yüzden planı reddettiler.
-en_virtud_de_lo_cual | bu nedene dayanarak | ifade | Hubo consenso; en_virtud_de_lo_cual se firmó el pacto. | Uzlaşma sağlandı; bu nedene dayanarak pakt imzalandı.
-por_esta_razón | bu sebepten ötürü | ifade | Por_esta_razón se modificó el artículo legal. | Bu sebepten ötürü yasal madde değiştirildi.
-en_razón_de_ello | bundan dolayı | ifade | Faltaban firmas; en_razón_de_ello se demoró el trámite. | İmzalar eksikti; bundan dolayı prosedür gecikti.
-motivo_por_el_cual | hangi sebepten dolayı | ifade | Hubo filtraciones, motivo_por_el_cual se investiga. | Sızıntılar oldu, hangi sebepten dolayı soruşturuluyor.
-de_este_modo | bu suretle, bu şekilde | ifade | Automatizaron procesos; de_este_modo ganaron tiempo. | Süreçleri otomatikleştirdiler; bu suretle zaman kazandılar.
+por ende | bu nedenle | zarf | Es el mayor accionista y, por ende, el que decide. | En büyük hissedar ve bu nedenle karar veren o.
+en consecuencia | sonuç olarak | ifade | Incumplió la norma; en consecuencia, fue sancionado. | Kuralı ihlal etti; sonuç olarak cezalandırıldı.
+con lo cual | bu yüzden, böylece | ifade | Perdí el tren, con lo cual llegué tarde. | Treni kaçırdım, bu yüzden geç kaldım.
+así pues | böylece, binaenaleyh | ifade | Terminó el plazo; así pues, cerramos el registro. | Süre bitti; böylece kaydı kapattık.
+habida cuenta de | göz önünde bulundurulursa | ifade | Habida cuenta de la situación, aplazamos el viaje. | Durum göz önünde bulundurularak yolculuğu erteledik.
+en virtud de lo cual | bu nedene dayanarak | ifade | Hubo consenso; en virtud de lo cual se firmó el pacto. | Uzlaşma sağlandı; bu nedene dayanarak pakt imzalandı.
+por esta razón | bu sebepten ötürü | ifade | Por esta razón se modificó el artículo legal. | Bu sebepten ötürü yasal madde değiştirildi.
+en razón de ello | bundan dolayı | ifade | Faltaban firmas; en razón de ello se demoró el trámite. | İmzalar eksikti; bundan dolayı prosedür gecikti.
+motivo por el cual | bu sebeple | ifade | Hubo filtraciones, motivo por el cual se abrió una investigación. | Sızıntılar oldu, bu sebeple bir soruşturma açıldı.
+de este modo | bu suretle, bu şekilde | ifade | Automatizaron procesos; de este modo ganaron tiempo. | Süreçleri otomatikleştirdiler; bu suretle zaman kazandılar.
 ## Özetleme ve sıralama
-en_primer_lugar | ilk olarak, her şeyden önce | ifade | En_primer_lugar, debemos auditar las cuentas. | İlk olarak hesapları denetlemeliyiz.
-en_segundo_lugar | ikinci olarak | ifade | En_segundo_lugar, evaluaremos el impacto social. | İkinci olarak sosyal etkiyi değerlendireceğiz.
-por_último | son olarak | zarf | Por_último, firmaremos el contrato definitivo. | Son olarak kesin sözleşmeyi imzalayacağız.
-para_terminar | bitirirken, son olarak | ifade | Para_terminar, quiero agradecer su colaboración. | Bitirirken işbirliğiniz için teşekkür etmek istiyorum.
-en_resumen | özetle | ifade | En_resumen, la estrategia dio buenos frutos. | Özetle, strateji iyi meyveler verdi.
-en_suma | kısacası, özetle | ifade | En_suma, fue un congreso muy productivo. | Kısacası çok verimli bir kongreydi.
-a_modo_de_conclusión | sonuç olarak, kapanış mahiyetinde | ifade | A_modo_de_conclusión, el sector tecnológico crece. | Sonuç olarak teknoloji sektörü büyüyor.
-en_pocas_palabras | birkaç kelimeyle, özetle | ifade | En_pocas_palabras, el proyecto fue un éxito. | Birkaç kelimeyle, proje bir başarıydı.
-para_concluir | netice itibarıyla, son söz olarak | ifade | Para_concluir, la innovación es clave hoy. | Son söz olarak, bugün inovasyon anahtardır.
-con_todo_y_con_eso | her şeye rağmen, bununla birlikte | ifade | Con_todo_y_con_eso, salieron adelante con el plan. | Her şeye rağmen planı hayata geçirdiler.
+ante todo | her şeyden önce | ifade | Ante todo, quiero darles las gracias. | Her şeyden önce size teşekkür etmek istiyorum.
+en último término | son tahlilde | ifade | En último término, la decisión es tuya. | Son tahlilde karar senin.
+recapitulando | özetlersek | zarf | Recapitulando, hay tres problemas principales. | Özetlersek, üç ana sorun var.
+para terminar | bitirirken, son olarak | ifade | Para terminar, quiero agradecer su colaboración. | Bitirirken işbirliğiniz için teşekkür etmek istiyorum.
+en resumen | özetle | ifade | En resumen, la estrategia dio buenos frutos. | Özetle, strateji iyi meyveler verdi.
+en suma | kısacası, özetle | ifade | En suma, fue un congreso muy productivo. | Kısacası çok verimli bir kongreydi.
+a modo de conclusión | sonuç olarak, kapanış mahiyetinde | ifade | A modo de conclusión, el sector tecnológico crece. | Sonuç olarak teknoloji sektörü büyüyor.
+en pocas palabras | birkaç kelimeyle, özetle | ifade | En pocas palabras, el proyecto fue un éxito. | Birkaç kelimeyle, proje bir başarıydı.
+para concluir | netice itibarıyla, son söz olarak | ifade | Para concluir, la innovación es clave hoy. | Son söz olarak, bugün inovasyon anahtardır.
+con todo y con eso | her şeye rağmen, bununla birlikte | ifade | Con todo y con eso, salieron adelante con el plan. | Her şeye rağmen planı hayata geçirdiler.
 ## Görüş ve tutum
-a_mi_juicio | bana göre, kanaatimce | ifade | A_mi_juicio, la ley necesita una revisión profunda. | Bana göre yasanın derinlemesine bir incelemeye ihtiyacı var.
-desde_mi_perspektiva | bakış açıma göre | ifade | Desde_mi_perspektiva, hay que priorizar la educación. | Bakış açıma göre eğitime öncelik verilmelidir.
-a_nuestro_entender | bize göre, anlayışımıza göre | ifade | A_nuestro_entender, el contrato es ambiguo. | Bize göre sözleşme muğlaktır.
-según_mi_criterio | kriterime göre, görüşüme göre | ifade | Según_mi_criterio, la inversión fue insuficiente. | Görüşüme göre yatırım yetersizdi.
-a_dicho_respecto | bu hususta, bu bağlamda | ifade | A_dicho_respecto, ya tomamos una decisión. | Bu hususta zaten bir karar aldık.
-desde_mi_punto_de_vista | benim görüşüme göre | ifade | Desde_mi_punto_de_vista, el modelo es sostenible. | Benim görüşüme göre model sürdürülebilirdir.
-en_mi_opinión | bence, fikrimce | ifade | En_mi_opinión, debemos aceptar la propuesta. | Bence teklifi kabul etmeliyiz.
-por_lo_que_respecta_a_mí | bana kalırsa | ifade | Por_lo_que_respecta_a_mí, apoyo la moción. | Bana kalırsa önergeyi destekliyorum.
-como_yo_lo_veo | benim gördüğüm kadarıyla | ifade | Como_yo_lo_veo, el riesgo es minimal. | Benim gördüğüm kadarıyla risk minimum düzeydedir.
-en_lo_que_a_mí_respecta | bana sorarsanız | ifade | En_lo_que_a_mí_respecta, todo marcha bien. | Bana sorarsanız her şey yolunda gidiyor.
+a mi juicio | bana göre, kanaatimce | ifade | A mi juicio, la ley necesita una revisión profunda. | Bana göre yasanın derinlemesine bir incelemeye ihtiyacı var.
+desde mi perspectiva | benim bakış açımdan | ifade | Desde mi perspectiva, hay que priorizar la educación. | Benim bakış açımdan eğitime öncelik vermek gerekir.
+a nuestro entender | bize göre, anlayışımıza göre | ifade | A nuestro entender, el contrato es ambiguo. | Bize göre sözleşme muğlaktır.
+según mi criterio | kriterime göre, görüşüme göre | ifade | Según mi criterio, la inversión fue insuficiente. | Görüşüme göre yatırım yetersizdi.
+a dicho respecto | bu hususta, bu bağlamda | ifade | A dicho respecto, ya tomamos una decisión. | Bu hususta zaten bir karar aldık.
+a mi parecer | bence | ifade | A mi parecer, el plan es demasiado caro. | Bence plan fazla pahalı.
+considero que | kanaatimce, düşünüyorum ki | ifade | Considero que es una buena oportunidad. | Bunun iyi bir fırsat olduğunu düşünüyorum.
+por lo que respecta a mí | bana kalırsa | ifade | Por lo que respecta a mí, apoyo la moción. | Bana kalırsa önergeyi destekliyorum.
+como yo lo veo | benim gördüğüm kadarıyla | ifade | Como yo lo veo, el riesgo es mínimo. | Benim gördüğüm kadarıyla risk minimum düzeydedir.
+en lo que a mí respecta | bana sorarsanız | ifade | En lo que a mí respecta, todo marcha bien. | Bana sorarsanız her şey yolunda gidiyor.
 ## Ek bilgi ve ilaveler
-además_de_ello | bunun yanı sıra | ifade | Hubo debate; además_de_ello, surgieron nuevas ideas. | Tartışma oldu; bunun yanı sıra yeni fikirler ortaya çıktı.
-por_añadidura | dahası, ek olarak | zarf | El informe falló y, por_añadidura, llegó tarde. | Rapor hatalıydı ve dahası geç geldi.
-asimismo_bien | aynı şekilde, ayrıca | zarf | Asimismo_bien, se aprobaron los presupuestos anuales. | Aynı şekilde yıllık bütçeler de onaylandı.
-de_igual_manera | benzer şekilde | zarf | De_igual_manera, el comité respaldó la iniciativa. | Benzer şekilde komite de girişimi destekledi.
-del_mismo_modo | aynı biçimde | ifade | Del_mismo_modo actuaron los demás socios. | Diğer ortaklar da aynı biçimde hareket etti.
-de_igual_forma | aynı tarzda, benzer biçimde | ifade | De_igual_forma se organizó el evento técnico. | Benzer biçimde teknik etkinlik organize edildi.
-por_otra_parte | öte yandan, diğer taraftan | ifade | La teoría es sólida; por_otra_parte, falta práctica. | Teori sağlam; öte yandan pratik eksik.
-por_un_lado | bir yandan | ifade | Por_un_lado, el proyecto avanza con rapidez. | Bir yandan proje hızla ilerliyor.
-por_otro_lado | diğer yandan | ifade | Por_otro_lado, los costos operativos aumentan. | Diğer yandan işletme maliyetleri artıyor.
-sumado_a_lo_anterior | öncekine ek olarak | ifade | Sumado_a_lo_anterior, la demanda creció un diez por_ciento. | Öncekine ek olarak talep yüzde on arttı.
+además de ello | bunun yanı sıra | ifade | Hubo debate; además de ello, surgieron nuevas ideas. | Tartışma oldu; bunun yanı sıra yeni fikirler ortaya çıktı.
+por añadidura | dahası, ek olarak | zarf | El informe falló y, por añadidura, llegó tarde. | Rapor hatalıydı ve dahası geç geldi.
+por lo demás | bunun dışında | ifade | El hotel era ruidoso; por lo demás, todo estuvo bien. | Otel gürültülüydü; bunun dışında her şey iyiydi.
+de igual manera | benzer şekilde | zarf | De igual manera, el comité respaldó la iniciativa. | Benzer şekilde komite de girişimi destekledi.
+del mismo modo | aynı biçimde | ifade | Del mismo modo actuaron los demás socios. | Diğer ortaklar da aynı biçimde hareket etti.
+de igual forma | aynı tarzda, benzer biçimde | ifade | De igual forma se organizó el evento técnico. | Benzer biçimde teknik etkinlik organize edildi.
+a su vez | o da, kendi payına | ifade | El director informó al ministro, quien a su vez informó al presidente. | Müdür bakanı bilgilendirdi, o da başkanı bilgilendirdi.
+por su parte | kendi adına, o ise | ifade | La empresa, por su parte, niega las acusaciones. | Şirket ise suçlamaları reddediyor.
+por otro lado | diğer yandan | ifade | Por otro lado, los costos operativos aumentan. | Diğer yandan işletme maliyetleri artıyor.
+sumado a lo anterior | öncekine ek olarak | ifade | Sumado a lo anterior, la demanda creció un diez por ciento. | Öncekine ek olarak talep yüzde on arttı.
 ## Örnekleme ve teyit
-por_caso | örneğin, meselâ | zarf | Hay casos complejos, por_caso, este litigio fiscal. | Karmaşık vakalar var, örneğin bu vergi davası.
-a_titulo_de_ejemplo | örnek kabilinden, misal olarak | ifade | A_titulo_de_ejemplo, citaremos el artículo nueve. | Örnek kabilinden dokuzuncu maddeyi alıntılayacağız.
-tal_es_el_caso_de | bunun en güzel örneği ... durumudur | ifade | Tal_es_el_caso_de la reciente reforma laboral. | Bunun en güzel örneği son emek reformu durumudur.
-para_ilustrar_el_punto | konuyu açıklamak gerekirse | ifade | Para_ilustrar_el_punto, veremos un gráfico. | Konuyu açıklamak gerekirse bir grafik göreceğiz.
-en_prueba_de_ello | bunun kanıtı olarak | ifade | En_prueba_de_ello, presentamos el documento firmado. | Bunun kanıtı olarak imzalı belgeyi sunuyoruz.
-como_muestra_sirve | örnek teşkil etmesi açısından | ifade | Como_muestra_sirve este protocolo actualizado. | Örnek teşkil etmesi açısından bu güncellenmiş protokol yeterlidir.
-por_mayor_abundamiento | daha da fazlası, pekiştirme maksadıyla | ifade | Por_mayor_abundamiento, faltan sellos notariales. | Daha da fazlası, noter mühürleri eksiktir.
-testigo_de_ello | buna tanık olarak | ifade | Testigo_de_ello es el archivo histórico nacional. | Buna tanık olan ulusal tarihi arşivdir.
-prueba_de_ello | bunun kanıtı | ifade | Prueba_de_ello son los balances auditados. | Bunun kanıtı denetlenmiş bilançolardır.
-sirva_de_ejemplo | örnek teşkil etsin diye | ifade | Sirva_de_ejemplo el acuerdo firmado ayer. | Dün imzalanan anlaşma örnek teşkil etsin.
+verbigracia | örneğin (resmî) | zarf | Algunos metales, verbigracia el oro, no se oxidan. | Bazı metaller, örneğin altın, paslanmaz.
+a título de ejemplo | örnek olarak | ifade | A título de ejemplo, citaremos el artículo nueve. | Örnek olarak dokuzuncu maddeyi aktaracağız.
+tal es el caso de | bunun en güzel örneği ... durumudur | ifade | Tal es el caso de la reciente reforma laboral. | Son iş reformu bunun bir örneğidir.
+para ilustrar el punto | konuyu açıklamak gerekirse | ifade | Para ilustrar el punto, veremos un gráfico. | Konuyu açıklamak gerekirse bir grafik göreceğiz.
+en prueba de ello | bunun kanıtı olarak | ifade | En prueba de ello, presentamos el documento firmado. | Bunun kanıtı olarak imzalı belgeyi sunuyoruz.
+sin ir más lejos | uzağa gitmeye gerek yok, mesela | ifade | Sin ir más lejos, ayer pasó lo mismo. | Uzağa gitmeye gerek yok, dün de aynısı oldu.
+por mayor abundamiento | daha da fazlası, pekiştirme maksadıyla | ifade | Por mayor abundamiento, faltan sellos notariales. | Daha da fazlası, noter mühürleri eksiktir.
+pongamos por caso | diyelim ki | ifade | Pongamos por caso que no aprueba el examen. | Diyelim ki sınavı geçemedi.
+prueba de ello | bunun kanıtı | ifade | Prueba de ello son los balances auditados. | Bunun kanıtı denetlenmiş bilançolardır.
+sirva de ejemplo | örnek teşkil etsin diye | ifade | Sirva de ejemplo el acuerdo firmado ayer. | Dün imzalanan anlaşma örnek teşkil etsin.
 ## İstisna ve sınırlama
-excepto_que | ... haricinde, mademki hariç | bağlaç | Todo está listo, excepto_que falten firmas. | Her şey hazır, imzalar eksik olması haricinde.
-salvo_que | ... olmadıkça, meğerki | bağlaç | Aprobaremos el plan, salvo_que surjan objeciones. | İtirazlar ortaya çıkmadıkça planı onaylayacağız.
-a_menos_que | ... olmadıkça | bağlaç | No se firmará, a_menos_que cambie la cláusula. | Madde değişmedikçe imzalanmayacak.
-fuera_de_que | ... gerçeği dışında | ifade | Fuera_de_que el precio es alto, el producto es bueno. | Fiyatın yüksek olduğu gerçeği dışında ürün iyidir.
-aparte_de_que | ... yanısıra, ... den başka | ifade | Aparte_de_que el informe es largo, es impreciso. | Raporun uzun olmasının yanı sıra belirsizdir.
-salvo_si | ... olmadıkça | ifade | Salvo_si hay cambios, mantendremos la fecha. | Değişiklik olmadıkça tarihi koruyacağız.
-excepto_si | ... olmadıkça, ... hariç tutulursa | ifade | Excepto_si la norma lo prohíbe explícitamente. | Kural açıkça yasaklamadıkça.
-con_la_salvedad_de | ... çekincesiyle | ifade | Se aprobó con_la_salvedad_de incluir anexo técnico. | Teknik ek dahil edilmesi çekincesiyle onaylandı.
-salvando_las_distancias | mesafeleri gözeterek, kıyaslama yapmaksızın | ifade | Salvando_las_distancias, ambos casos son similares. | Mesafeleri gözeterek, her iki vaka da benzerdir.
-a_excepcion_de | ... hariç tutulduğunda | ifade | A_excepcion_de_eso, todo marchó perfecto. | O hariç tutulduğunda her şey mükemmel gitti.
+excepto que | ... haricinde, mademki hariç | bağlaç | Todo está listo, excepto que falten firmas. | Her şey hazır, imzalar eksik olması haricinde.
+salvo que | ... olmadıkça, meğerki | bağlaç | Aprobaremos el plan, salvo que surjan objeciones. | İtirazlar ortaya çıkmadıkça planı onaylayacağız.
+a menos que | ... olmadıkça | bağlaç | No se firmará, a menos que cambie la cláusula. | Madde değişmedikçe imzalanmayacak.
+fuera de que | ... gerçeği dışında | ifade | Fuera de que el precio es alto, el producto es bueno. | Fiyatın yüksek olduğu gerçeği dışında ürün iyidir.
+aparte de que | ... yanısıra, ... den başka | ifade | Aparte de que el informe es largo, es impreciso. | Raporun uzun olmasının yanı sıra belirsizdir.
+salvo si | ... olmadıkça | ifade | Salvo si hay cambios, mantendremos la fecha. | Değişiklik olmadıkça tarihi koruyacağız.
+de no ser por | olmasaydı | ifade | De no ser por ti, no lo habría conseguido. | Sen olmasaydın başaramazdım.
+con la salvedad de | ... çekincesiyle | ifade | Se aprobó con la salvedad de incluir anexo técnico. | Teknik ek dahil edilmesi çekincesiyle onaylandı.
+salvando las distancias | mesafeleri gözeterek, kıyaslama yapmaksızın | ifade | Salvando las distancias, ambos casos son similares. | Mesafeleri gözeterek, her iki vaka da benzerdir.
+a excepción de | hariç | ifade | Vinieron todos, a excepción de Luis. | Luis hariç herkes geldi.
 ## Şart ve koşul
-dado_que | madem ki, -dığı için | bağlaç | Dado_que no hay quórum, se suspende la sesión. | Yeterli çoğunluk olmadığı için oturum ertelenir.
-visto_que | -dığı düşünülürse, mademki | ifade | Visto_que el plazo venció, no hay prórroga. | Süre dolduğu düşünülürse uzatma yoktur.
-en_el_supuesto_de_que | ... varsayımı altında, ... durumunda | ifade | En_el_supuesto_de_que falten fondos, pediremos aval. | Fon eksikliği durumunda kefalet isteyeceğiz.
-con_la_condición_de_que | ... şartıyla | ifade | Se firmará con_la_condición_de_que cumplan plazos. | Sürelere uymaları şartıyla imzalanacak.
-en_caso_de_que | ... olması durumunda | ifade | En_caso_de_que surjan dudas, consulten el manual. | Şüpheler ortaya çıkması durumunda kılavuza başvurun.
-partiendo_de_la_base_de_que | ... temelinden hareketle | ifade | Partiendo_de_la_base_de_que el mercado es volátil. | Piyasanın dalgalı olduğu temelinden hareketle.
-atendiendo_a_que | ... göz önüne alınarak | ifade | Atendiendo_a_que el costo es bajo, se compró. | Maliyetin düşük olduğu göz önüne alınarak satın alındı.
-en_tanto_que | ... iken, müddetçe | bağlaç | En_tanto_que dure el proceso, habrá custodia. | Süreç devam ettiği sürece gözetim olacaktır.
-siempre_y_cuando | yeter ki, -diği sürece | ifade | Se aceptará siempre_y_cuando haya transparencia. | Şeffaflık olduğu sürece kabul edilecektir.
-con_tal_de | -mesi şartıyla, yeter ki | ifade | Aceptamos con_tal_de cerrar el trato hoy. | Anlaşmayı bugün kapatmak şartıyla kabul ediyoruz.
+dado que | madem ki, -dığı için | bağlaç | Dado que no hay quórum, se suspende la sesión. | Yeterli çoğunluk olmadığı için oturum ertelenir.
+visto que | -dığı düşünülürse, mademki | ifade | Visto que el plazo venció, no hay prórroga. | Süre dolduğu düşünülürse uzatma yoktur.
+en el supuesto de que | ... varsayımı altında, ... durumunda | ifade | En el supuesto de que falten fondos, pediremos aval. | Fon eksikliği durumunda kefalet isteyeceğiz.
+con la condición de que | ... şartıyla | ifade | Se firmará con la condición de que cumplan plazos. | Sürelere uymaları şartıyla imzalanacak.
+en caso de que | ... olması durumunda | ifade | En caso de que surjan dudas, consulten el manual. | Şüpheler ortaya çıkması durumunda kılavuza başvurun.
+puesto que | -dığı için | bağlaç | Puesto que no contestas, me voy. | Cevap vermediğin için gidiyorum.
+atendiendo a que | ... göz önüne alınarak | ifade | Atendiendo a que el costo es bajo, se compró. | Maliyetin düşük olduğu göz önüne alınarak satın alındı.
+en tanto que | ... iken, müddetçe | bağlaç | En tanto que dure el proceso, habrá custodia. | Süreç devam ettiği sürece gözetim olacaktır.
+siempre y cuando | yeter ki, -diği sürece | ifade | Se aceptará siempre y cuando haya transparencia. | Şeffaflık olduğu sürece kabul edilecektir.
+con tal de | -mesi şartıyla, yeter ki | ifade | Aceptamos con tal de cerrar el trato hoy. | Anlaşmayı bugün kapatmak şartıyla kabul ediyoruz.
 ## Zaman ve ardışıklık
-a_continuación | müteakiben, ardından | zarf | A_continuación, expondremos los datos financieros. | Ardından finansal verileri sunacağız.
+a continuación | müteakiben, ardından | zarf | A continuación, expondremos los datos financieros. | Ardından finansal verileri sunacağız.
 entretanto | bu esnada, bu sırada | zarf | Llegarán los delegados; entretanto, revisemos notas. | Delegeler gelecek; bu esnada notları gözden geçirelim.
-mientras_tanto | bu arada, o esnada | zarf | El juez dictaminó; mientras_tanto, la defensa apeló. | Yargıç karar verdi; bu arada savunma temyize gitti.
+mientras tanto | bu arada, o esnada | zarf | El juez dictaminó; mientras tanto, la defensa apeló. | Yargıç karar verdi; bu arada savunma temyize gitti.
 posteriormente | sonradan, daha sonra | zarf | El informe se redactó y, posteriormente, se firmó. | Rapor kaleme alındı ve daha sonra imzalandı.
 previamente | önceden, evvelce | zarf | Previamente, se debatió el marco conceptual. | Önceden kavramsal çerçeve tartışılarak ele alındı.
-al_mismo_tiempo | aynı anda, eşzamanlı olarak | ifade | Hablaban y, al_mismo_tiempo, tomaban notas. | Konuşuyorlar ve aynı anda not alıyorlardı.
+al mismo tiempo | aynı anda, eşzamanlı olarak | ifade | Hablaban y, al mismo tiempo, tomaban notas. | Konuşuyorlar ve aynı anda not alıyorlardı.
 simultáneamente | eşzamanlı olarak | zarf | Dos comisiones trabajaban simultáneamente. | İki komisyon eşzamanlı olarak çalışıyordu.
-en_aquel_entonces | o dönemde, o zamanlar | ifade | En_aquel_entonces el mercado era incipiente. | O dönemde pazar henüz başlangıç aşamasındaydı.
-hasta_el_momento_presente | bugüne kadar | ifade | Hasta_el_momento_presente no hubo objeciones. | Bugüne kadar hiçbir itiraz olmadı.
-con_posterioridad | daha sonradan | ifade | Con_posterioridad se añadieron notas al margen. | Daha sonradan kenar notları eklendi.
+en aquel entonces | o dönemde, o zamanlar | ifade | En aquel entonces el mercado era incipiente. | O dönemde pazar henüz başlangıç aşamasındaydı.
+hasta el momento presente | bugüne kadar | ifade | Hasta el momento presente no hubo objeciones. | Bugüne kadar hiçbir itiraz olmadı.
+con posterioridad | daha sonradan | ifade | Con posterioridad se añadieron notas al margen. | Daha sonradan kenar notları eklendi.

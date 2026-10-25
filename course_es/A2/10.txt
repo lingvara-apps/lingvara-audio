@@ -1,18 +1,18 @@
 # UNIT: Teknoloji | Cihazlar, internet, sosyal medya, sorunlar
 ## Akıllı telefonlar
-el teléfono inteligente | akıllı telefon | isim (e) | Mi teléfono inteligente tiene una pantalla grande. | Akıllı telefonumun büyük bir ekranı var.
-el aparato | cihaz, alet | isim (o) | Este aparato sirve para conectar a internet. | Bu cihaz internete bağlanmaya yarar.
-la pantalla táctil fina | ince dokunmatik ekran | isim (d) | La pantalla táctil fina responde muy rápido. | İnce dokunmatik ekran çok hızlı yanıt veriyor.
-el botón | tuş, düğme | isim (e) | Pulsa el botón central para volver al inicio. | Başlangıca dönmek için ortadaki tuşa bas.
+el móvil | cep telefonu | isim (e) | Mi móvil tiene una pantalla grande. | Telefonumun ekranı büyük.
+el aparato | cihaz, alet | isim (e) | Este aparato sirve para conectarse a internet. | Bu cihaz internete bağlanmaya yarar.
+la tableta | tablet | isim (d) | Leo libros en la tableta. | Tablette kitap okuyorum.
+pulsar | basmak (tuşa) | fiil | Pulsa el botón verde. | Yeşil tuşa bas.
 el protector de pantalla | ekran koruyucu | isim (e) | Compré un protector de pantalla de cristal. | Camdan bir ekran koruyucu satın aldım.
-la batería | pil, batarya | isim (d) | La batería de mi móvil dura todo el día. | Cep telefonumun bataryası bütün gün dayanıyor.
-el cargador | şarj aleti | isim (e) | Olvidé el cargador en la mesa de la oficina. | Şarj aletini ofisteki masada unuttum.
-el enchufe inteligente | akıllı priz | isim (e) | Conecté la lámpara al enchufe inteligente. | Lambayı akıllı prize bağladım.
-la aplicación móvil | mobil uygulama | isim (d) | Descargué una nueva aplicación móvil útil. | Faydalı yeni bir mobil uygulama indirdim.
+los auriculares | kulaklık | isim (çoğul) | Escucho música con los auriculares. | Kulaklıkla müzik dinliyorum.
+el portátil | dizüstü bilgisayar | isim (e) | Trabajo con el portátil en casa. | Evde dizüstüyle çalışıyorum.
+el teléfono fijo | sabit telefon | isim (e) | Ya casi nadie usa el teléfono fijo. | Artık neredeyse kimse sabit telefon kullanmıyor.
+la aplicación | uygulama | isim (d) | Descargué una aplicación para aprender idiomas. | Dil öğrenmek için bir uygulama indirdim.
 el icono | simge, ikon | isim (e) | Toca el icono azul para abrir el programa. | Programı açmak için mavi simgeye dokun.
 ## İnternet ve ağ
-la red global | küresel ağ | isim (d) | La red global de fibra óptica es muy rápida. | Küresel fiber optik ağ son derece hızlıdır.
-la conexión a internet | internet bağlantısı | isim (d) | Hoy la conexión a internet funciona muy mal. | Bugün internet bağlantısı çok kötü çalışıyor.
+internet | internet | isim (e) | Busco la información en internet. | Bilgiyi internette arıyorum.
+la conexión | bağlantı | isim (d) | Hoy la conexión funciona muy mal. | Bugün bağlantı çok kötü.
 el wifi | wifi, kablosuz ağ | isim (e) | ¿Cuál es la contraseña del wifi de aquí? | Buradaki wifinin şifresi nedir?
 la señal | sinyal, işaret | isim (d) | En esta habitación la señal de internet es débil. | Bu odada internet sinyali zayıf.
 la página web | web sitesi | isim (d) | Visité una página web muy interesante ayer. | Dün çok ilginç bir web sitesi ziyaret ettim.
@@ -27,22 +27,22 @@ el perfil | profil | isim (e) | Actualicé mi foto de perfil esta mañana. | Bu 
 la publicación | gönderi, yayın | isim (d) | Tu última publicación recibió muchos comentarios. | Son gönderin çok fazla yorum aldı.
 el comentario | yorum | isim (e) | Escribí un comentario positivo en su foto. | Fotoğrafına olumlu bir yorum yazdım.
 el mensaje | mesaj | isim (e) | Recibí un mensaje importante de mi jefe. | Patronumdan önemli bir mesaj aldım.
-el chat | sohbet | isim (d) | Abrimos un chat grupal para organizar el viaje. | Geziyi organize etmek için grup sohbeti açtık.
+el chat | sohbet (yazışma) | isim (e) | Abrimos un chat para organizar el viaje. | Geziyi organize etmek için bir grup sohbeti açtık.
 el contacto | kişi, kontak | isim (e) | Agregué tu número a mis contactos del teléfono. | Numaranı telefonumdaki kişilere ekledim.
 el video | video | isim (e) | Compartí un video divertido con mis amigos. | Arkadaşlarımla eğlenceli bir video paylaştım.
 la foto | fotoğraf | isim (d) | Subí una foto bonita del atardecer al muro. | Duvara gün batımının güzel bir fotoğrafını yükledim.
 el seguidor | takipçi | isim (e) | Su canal tiene ya miles de seguidores fieles. | Kanalının şimdiden binlerce sadık takipçisi var.
 ## Bilgisayarlar ve donanım
-el ordenador portátil | dizüstü bilgisayar | isim (e) | Mi ordenador portátil pesa muy poco. | Dizüstü bilgisayarım çok az ağırlıkta.
-el espacio de trabajo | çalışma alanı | isim (e) | Guardé los documentos importantes en el espacio de trabajo. | Önemli belgeleri çalışma alanına kaydettim.
-el documento digital | dijital belge | isim (e) | Este documento digital contiene toda la información. | Bu dijital belge bütün bilgileri içeriyor.
-el directorio principal | ana dizin | isim (d) | Organicé todas las fotos en el directorio principal. | Bütün fotoğrafları ana dizinde organize ettim.
+la tecla | tuş (klavye) | isim (d) | Pulsa cualquier tecla. | Herhangi bir tuşa bas.
+el programa | program | isim (e) | Este programa es gratis. | Bu program ücretsiz.
+el fichero | dosya (bilgisayar) | isim (e) | Abre el fichero, por favor. | Dosyayı aç lütfen.
+la tecnología | teknoloji | isim (d) | La tecnología cambia muy rápido. | Teknoloji çok hızlı değişiyor.
 la memoria USB | USB bellek | isim (d) | Copié la presentación en la memoria USB. | Sunumu USB belleğe kopyaladım.
 el disco duro | sabit disk, hard disk | isim (e) | Necesito un disco duro externo con más capacidad. | Daha yüksek kapasiteli harici bir sabit diske ihtiyacım var.
-el aparato de impresión | baskı cihazı | isim (e) | El aparato de impresión no tiene papel ahora. | Baskı cihazının şu anda kağıdı yok.
-el altoparlant | hoparlör | isim (e) | El sonido del altoparlant es claro y fuerte. | Hoparlörün sesi net ve güçlü.
+la cámara web | web kamerası | isim (d) | Enciende la cámara web para la clase. | Ders için web kamerasını aç.
+el altavoz | hoparlör | isim (e) | El altavoz suena muy fuerte. | Hoparlör çok yüksek ses çıkarıyor.
 el micrófono | mikrofon | isim (e) | Enciende el micrófono para hablar en la reunión. | Toplantıda konuşmak için mikrofonu aç.
-el cable de red | ağ kablosu | isim (e) | Conecté el ordenador con el cable de red. | Bilgisayarı ağ kablosuyla bağladım.
+el usuario | kullanıcı | isim (e) | Escribe tu nombre de usuario. | Kullanıcı adını yaz.
 ## Dijital güvenlik
 la contraseña | şifre, parola | isim (d) | Debes crear una contraseña segura y larga. | Güvenli ve uzun bir şifre oluşturmalısın.
 la seguridad | güvenlik | isim (d) | La seguridad digital es muy importante hoy en día. | Dijital güvenlik günümüzde çok önemlidir.
@@ -51,31 +51,31 @@ la estafa | dolandırıcılık | isim (d) | Cuidado con ese correo, parece una e
 el hacker | hacker, bilgisayar korsanı | isim (e) | Los expertos protegen el sistema contra los hackers. | Uzmanlar sistemi hackerlara karşı koruyor.
 la privacidad | gizlilik | isim (d) | Configuré la privacidad de mis datos personales. | Kişisel verilerimin gizliliğini ayarladım.
 el código | kod | isim (e) | Introduzca el código de verificación que recibió. | Aldığınız doğrulama kodunu girin.
-el respaldo | yedek | isim (e) | Hice un respaldo de todos mis archivos ayer. | Dün bütün dosyalarımın bir yedeğini aldım.
-la actualización | günceleme | isim (d) | El sistema operativo requiere una actualización urgente. | İşletim sistemi acil bir güncelleme gerektiriyor.
+el correo basura | istenmeyen e-posta | isim (e) | Borro el correo basura cada día. | İstenmeyen e-postaları her gün siliyorum.
+la actualización | güncelleme | isim (d) | El sistema operativo requiere una actualización urgente. | İşletim sistemi acil bir güncelleme gerektiriyor.
 bloquear | bloke etmek, engellemek | fiil | Tuve que bloquear la tarjeta por seguridad. | Güvenlik için kartı bloke etmek zorunda kaldım.
 ## İletişim ve arama sorunları
-llamar por móvil | cep telefonuyla aramak | fiil | Voy a llamar por móvil a mi madre tarde. | Öğleden sonra annemi cep telefonuyla arayacağım.
-dar respuesta | yanıt vermek | fiil | Nadie da respuesta al otro lado de la línea. | Hattın diğer tarafında kimse yanıt vermiyor.
+llamar por teléfono | telefonla aramak | ifade | Te llamo por teléfono esta noche. | Bu akşam seni telefonla ararım.
+la llamada perdida | cevapsız arama | isim (d) | Tengo tres llamadas perdidas. | Üç cevapsız aramam var.
 colgar | telefonu kapatmak | fiil | No cuelgues, quiero decirte una última cosa. | Kapatma, sana son bir şey söylemek istiyorum.
 comunicar | meşgul çalmak | fiil | El teléfono de la oficina lleva horas comunicando. | Ofisin telefonu saatlerdir meşgul çalıyor.
-sonar | çalmak (telefon, zil) | fiil | Su teléfono sonó durante la conferencia seria. | Ciddi konferans sırasında telefonu çaldı.
-marcar número | numara tuşlamak | fiil | Marca número cero antes del código de área. | Alan kodundan önce sıfır numarasını tuşla.
-grabar | kaydetmek (ses/video) | fiil | Quería grabar la conversación pero olvidé el botón. | Konuşmayı kaydetmek istedim ama tuşu unuttum.
+sonar (suena) | çalmak (telefon, zil) | fiil · düzensiz | Su teléfono sonó en el cine. | Sinemada telefonu çaldı.
+el prefijo | alan kodu | isim (e) | ¿Cuál es el prefijo de Madrid? | Madrid'in alan kodu nedir?
+grabar | kaydetmek (ses, video) | fiil | Puedes grabar la clase con el móvil. | Dersi telefonla kaydedebilirsin.
 reenviar | yeniden göndermek, iletmek | fiil | Te voy a reenviar el correo del director. | Müdürün e-postasını sana yeniden ileteceğim.
 eliminar | silmek | fiil | Decidí eliminar las fotos antiguas de la galería. | Galerideki eski fotoğrafları silmeye karar verdim.
-compartir | paylaşmak | fiil | Me gusta compartir noticias interesantes con amigos. | Arkadaşlarımla ilginç haberler paylaşmayı seviyorum.
+publicar | yayınlamak, paylaşmak | fiil | Publiqué las fotos de la boda. | Düğün fotoğraflarını paylaştım.
 ## Teknik arızalar
 fallar | arıza yapmak, başarısız olmak | fiil | El sistema principal comenzó a fallar a medianoche. | Ana sistem gece yarısı arıza yapmaya başladı.
 romperse | kırılmak, bozulmak | fiil | La pantalla del teléfono puede romperse fácilmente. | Telefonun ekranı kolayca kırılabilir.
-apagar | kapatmak (cihaz) | fiil | Es necesario apagar el ordenador por la noche. | Geceleyin bilgisayarı kapatmak gereklidir.
-encender | açmak (cihaz) | fiil | Pulsa este botón para encender la máquina. | Makineyi açmak için bu tuşa bas.
-arrancar de nuevo | yeniden başlatmak | fiil | Debes arrancar de nuevo el equipo tras la instalación. | Kurulumdan sonra ekipmanı yeniden başlatmalısın.
-funcionar | çalışmak, işlev görmek | fiil | Este aparato ya no quiere funcionar bien. | Bu cihaz artık iyi çalışmak istemiyor.
-averiarse | bozulmak, arızalanmak | fiil | Mi coche nuevo decidió averiarse en la carretera. | Yeni arabam yolda arızalanmaya karar verdi.
-reparar | tamir etmek | fiil | El técnico va a reparar mi ordenador mañana. | Teknisyen yarın bilgisayarımı tamir edecek.
+apagar | kapatmak (cihaz) | fiil | Es necesario apagar el ordenador por la noche. | Geceleri bilgisayarı kapatmak gerekir.
+encender (enciendo) | açmak (cihaz, ışık) | fiil · düzensiz | Pulsa este botón para encender la máquina. | Makineyi açmak için bu tuşa bas.
+instalar | kurmak (program) | fiil | Tengo que instalar un programa nuevo. | Yeni bir program kurmam gerekiyor.
+cargar el móvil | telefonu şarj etmek | ifade | Necesito cargar el móvil. | Telefonu şarj etmem lazım.
+averiarse | arızalanmak | fiil · dönüşlü | Mi coche se averió en la carretera. | Arabam yolda arızalandı.
+teclear | klavyede yazmak | fiil | Tecleo muy rápido. | Çok hızlı yazıyorum.
 comprobar | kontrol etmek | fiil | Vamos a comprobar la conexión antes de empezar. | Başlamadan önce bağlantıyı kontrol edeceğiz.
-configurar | yapılandırmak, ayarlamak | fiil | Ayúdate a configurar el correo electrónico nuevo. | Yeni e-postayı yapılandırmana yardım et.
+configurar | ayarlamak, yapılandırmak | fiil | Ayúdame a configurar el correo nuevo. | Yeni e-postayı ayarlamama yardım et.
 ## Medya ve eğlence
 reproducir | oynatmak, çalmak (müzik/video) | fiil | Este programa puede reproducir varios formatos. | Bu program çeşitli formatları oynatabilir.
 descargar | indirmek (dosya) | fiil | Prefiero descargar las películas antes de verlas. | Filmleri izlemeden önce indirmeyi tercih ederim.
@@ -85,16 +85,16 @@ desconectar | bağlantıyı kesmek | fiil | No olvides desconectar el cargador a
 navegar | internette gezinmek | fiil | Me gusta navegar por internet por las noches. | Akşamları internette gezinmeyi seviyorum.
 escanear | taramak (belge) | fiil | Tengo que escanear este contrato importante. | Bu önemli sözleşmeyi taramam gerekiyor.
 imprimir | yazdırmak | fiil | Voy a imprimir los billetes para el viaje. | Seyahat için biletleri yazdıracağım.
-copiare | kopyalamak | fiil | Puedes copiar el texto y pegarlo aquí. | Metni kopyalayıp buraya yapıştırabilirsin.
+copiar | kopyalamak | fiil | Puedes copiar el texto y pegarlo aquí. | Metni kopyalayıp buraya yapıştırabilirsin.
 pegar | yapıştırmak | fiil | Pega el enlace en la barra del navegador. | Bağlantıyı tarayıcı çubuğuna yapıştır.
 ## Dijital yaşam tarzı
 digital | dijital | sıfat | Vivimos en un mundo cada vez más digital. | Giderek daha dijital bir dünyada yaşıyoruz.
 virtual | sanal | sıfat | Tuvieron una reunión virtual muy productiva. | Çok verimli sanal bir toplantı yaptılar.
 electrónico | elektronik | sıfat | Recibí una factura en formato electrónico. | Elektronik biçimde bir fatura aldım.
 inalámbrico | kablosuz | sıfat | Compré un ratón inalámbrico para el portátil. | Dizüstü bilgisayar için kablosuz bir fare satın aldım.
-rápido | hızlı | sıfat | Esta red ofrece una velocidad realmente rápida. | Bu ağ gerçekten hızlı bir hız sunuyor.
+rápido | hızlı | sıfat | Esta conexión es muy rápida. | Bu bağlantı çok hızlı.
 lento | yavaş | sıfat | Mi viejo ordenador es demasiado lento hoy. | Eski bilgisayarım bugün çok yavaş.
-moderno | modern | sıfat | El diseño de esta aplicación es muy modernísimo. | Bu uygulamanın tasarımı çok modern.
+moderno | modern | sıfat | El diseño de esta aplicación es muy moderno. | Bu uygulamanın tasarımı çok modern.
 útil | yararlı, faydalı | sıfat | Encontré una herramienta digital muy útil. | Çok yararlı bir dijital araç buldum.
 complicado | karmaşık | sıfat | El nuevo sistema operativo parece un poco complicado. | Yeni işletim sistemi biraz karmaşık görünüyor.
 fácil | kolay | sıfat | Instalar este programa es muy fácil para todos. | Bu programı kurmak herkes için çok kolay.
@@ -103,9 +103,9 @@ la inteligencia artificial | yapay zeka | isim (d) | La inteligencia artificial 
 el robot | robot | isim (e) | El robot limpia la casa mientras estamos fuera. | Biz dışarıdayken robot evi temizliyor.
 la automatización | otomasyon | isim (d) | La automatización mejora la producción en la fábrica. | Otomasyon fabrikadaki üretimi iyileştiriyor.
 el dron | dron | isim (e) | El dron vuela alto para tomar fotos aéreas. | Dron havadan fotoğraf çekmek için yükseğe uçuyor.
-el progreso técnico | teknik ilerleme | isim (e) | Esta empresa destaca por su constante progreso técnico. | Bu şirket sürekli teknik ilerlemesiyle öne çıkıyor.
-la pantalla holográfica | holografik ekran | isim (d) | Vimos una imagen en la pantalla holográfica. | Holografik ekranda bir görüntü gördük.
+el progreso | ilerleme | isim (e) | La ciencia hace progresos cada día. | Bilim her gün ilerliyor.
+el futuro | gelecek | isim (e) | ¿Cómo será el futuro? | Gelecek nasıl olacak?
 el chip | çip, entegre devre | isim (e) | El nuevo chip procesa los datos muy rápidamente. | Yeni çip verileri çok hızlı işliyor.
-la realidad virtual | sanal gerçeklık | isim (d) | Probé las gafas de realidad virtual en la feria. | Fuarda sanal gerçeklik gözlüklerini denedim.
+la realidad virtual | sanal gerçeklik | isim (d) | Probé las gafas de realidad virtual en la feria. | Fuarda sanal gerçeklik gözlüklerini denedim.
 la ciencia ficción | bilim kurgu | isim (d) | Me encantan las películas de ciencia ficción y espacio. | Bilim kurgu ve uzay filmlerine bayılıyorum.
 avanzado | gelişmiş | sıfat | Usamos un software tecnológico muy avanzado. | Çok gelişmiş bir teknolojik yazılım kullanıyoruz.

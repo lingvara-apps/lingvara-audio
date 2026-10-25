@@ -1,111 +1,111 @@
 # UNIT: Eğitim ve toplum | Okul, üniversite, resmî işler, şehir, bağlaçlar
-## Eğitim hayatı
-la academia | akademi; kurs merkezi | isim (d) | La academia abre por la mañana. | Akademi sabahları açılır.
-el campus universitario | üniversite kampüsü | isim (e) | El campus universitario es muy grande. | Üniversite kampüsü çok büyüktür.
-el aula magna | konferans salonu; büyük derslik | isim (d) | La conferencia es en el aula magna. | Konferans büyük dersliktedir.
-el boletín de notas | karne; not dökümü | isim (e) | El alumno revisa el boletín de notas. | Öğrenci karnesini inceler.
-la conferencia magistral | ana ders; bilimsel konuşma | isim (d) | La profesora da una conferencia magistral. | Profesör ana ders veriyor.
-la convocatoria extraordinaria | bütünleme sınavı; ek sınav | isim (d) | Tengo la convocatoria extraordinaria en julio. | Temmuz ayında bütünleme sınavım var.
-el expediente académico | akademik sicil; öğrenci dosyası | isim (e) | El expediente académico está en la secretaría. | Akademik sicil sekreterliktedir.
-la facultad de letras | edebiyat fakültesi | isim (d) | Ella estudia en la facultad de letras. | O, edebiyat fakültesinde okuyor.
-la graduación universitaria | üniversite mezuniyeti | isim (d) | La ceremonia de graduación universitaria es hoy. | Üniversite mezuniyet töreni bugün.
-el posgrado en ciencias | fen bilimleri yüksek lisansı | isim (e) | Hace un posgrado en ciencias aplicadas. | Uygulamalı bilimlerde yüksek lisans yapıyor.
-## Üniversite ve araştırmalar
-la beca de investigación | araştırma bursu | isim (d) | Gana una beca de investigación internacional. | Uluslararası bir araştırma bursu kazanıyor.
-el catedrático titular | kadrolu profesör | isim (e) | El catedrático titular dirige el seminario. | Kadrolu profesör semineri yönetiyor.
-el coloquio abierto | açık oturum; panel | isim (e) | Participa en un coloquio abierto sobre historia. | Tarih konulu açık oturuma katılıyor.
-la defensa de tesis | tez savunması | isim (d) | La defensa de tesis doctoral dura una hora. | Doktora tez savunması bir saat sürer.
-la monografía histórica | tarihî monografi | isim (d) | Escribe una monografía histórica muy interesante. | Çok ilginç bir tarihî monografi yazıyor.
-el periodo lectivo | ders dönemi | isim (e) | El periodo lectivo termina en junio. | Ders dönemi haziranda biter.
-la prueba de acceso | giriş sınavı; yeterlilik | isim (d) | Supera la prueba de acceso sin dificultad. | Giriş sınavını zorlanmadan geçer.
-el rectorado central | rektörlük binası | isim (e) | El rectorado central queda en la plaza mayor. | Rektörlük binası ana meydandadır.
-el seminario avanzado | ileri düzey seminer | isim (e) | El seminario avanzado empieza a las diez. | İleri düzey seminer saat onda başlıyor.
-la tesina de licenciatura | lisans bitirme tezi | isim (d) | Imprime la tesina de licenciatura en la copistería. | Lisans bitirme tezini fotokopicide bastırıyor.
-## Resmî daireler ve belgeler
-la agencia tributaria | vergi dairesi | isim (d) | Va a la agencia tributaria a presentar la declaración. | Beyanname vermeye vergi dairesine gidiyor.
-el ayuntamiento municipal | belediye binası | isim (e) | El ayuntamiento municipal organiza las fiestas. | Belediye binası şenlikleri düzenler.
-la carta de naturalización | vatandaşlığa kabul belgesi | isim (d) | Solicita la carta de naturalización este año. | Bu yıl vatandaşlık belgesi için başvuru yapıyor.
-la cédula de empadronamiento | ikametgâh belgesi | isim (d) | Necesita la cédula de empadronamiento actual. | Güncel ikametgâh belgesine ihtiyacı var.
-el certificado de antecedentes | adli sicil kaydı | isim (e) | Pide el certificado de antecedentes en línea. | Adli sicil kaydını çevrim içi istiyor.
-el dni electrónico | elektronik kimlik kartı | isim (e) | Renueva el dni electrónico en la comisaría. | Elektronik kimliği karakolda yeniliyor.
-la licencia de obras | inşaat ruhsatı | isim (d) | Consigue la licencia de obras para la casa. | Ev için inşaat ruhsatını alıyor.
-el padrón municipal | nüfus kütüğü | isim (e) | Se registra en el padrón municipal del barrio. | Mahallenin nüfus kütüğüne kaydoluyor.
-la partida de nacimiento | doğum belgesi | isim (d) | Traduce la partida de nacimiento al español. | Doğum belgesini İspanyolcaya çeviriyor.
-la tasa administrativa | idari harç | isim (d) | Paga la tasa administrativa en la ventanilla. | İdari harcı gişeden ödüyor.
-## Şehir hayatı ve kurumlar
-el archivo histórico | tarihî arşiv | isim (e) | Consulta documentos en el archivo histórico. | Tarihî arşivde belgeleri inceliyor.
-la biblioteca municipal | halk kütüphanesi | isim (d) | Estudia en silencio en la biblioteca municipal. | Halk kütüphanesinde sessizce ders çalışıyor.
-el centro cívico | kültür merkezi; halk evi | isim (e) | Hay cursos de pintura en el centro cívico. | Kültür merkezinde resim kursları var.
-la estación depuradora | arıtma tesisi | isim (d) | Visita la estación depuradora con la clase. | Sınıfla birlikte arıtma tesisini ziyaret ediyor.
-el juzgado de guardia | nöbetçi mahkeme | isim (e) | El abogado va al juzgado de guardia por la mañana. | Avukat sabah nöbetçi mahkemeye gidiyor.
-el parque tecnológico | teknoloji parkı | isim (e) | Trabaja en una empresa del parque tecnológico. | Teknoloji parkındaki bir şirkette çalışıyor.
-la planta potabilizadora | arıtma ve içme suyu tesisi | isim (d) | La planta potabilizadora suministra agua limpia. | Su arıtma tesisi temiz su temin eder.
-el polideportivo municipal | belediye spor salonu | isim (e) | Juega al bádminton en el polideportivo municipal. | Belediye spor salonunda badminton oynuyor.
-el registro civil | nüfus müdürlüğü | isim (e) | Solicita un certificado en el registro civil. | Nüfus müdürlüğünden belge talep ediyor.
-la tesorería general | genel muhasebe dairesi | isim (d) | Acude a la tesorería general para los pagos. | Ödemeler için genel muhasebe dairesine gidiyor.
-## Bağlaçlar ve geçiş sözcükleri
-además de eso | bundan başka; bunun yanı sıra | ifade | Además de eso, aprende francés en casa. | Bundan başka, evde Fransızca öğreniyor.
-asimismo | aynı şekilde; ayrıca | zarf | Asimismo, presenta el informe final a tiempo. | Aynı şekilde nihai raporu zamanında sunuyor.
-a pesar de que | -e rağmen, -e karşın | ifade | A pesar de que llueve, sale a caminar. | Yağmur yağmasına rağmen yürüyüşe çıkıyor.
-con tal de que | -mesi şartıyla, yeter ki | ifade | Acepta el trabajo con tal de que respeten el horario. | Çalışma saatlerine uyulması şartıyla işi kabul ediyor.
-en consecuencia | sonuç olarak | ifade | Faltó mucho; en consecuencia, suspendió el examen. | Çok devamsızlık yaptı; sonuç olarak sınavdan kaldı.
-por consiguiente | dolayısıyla; bu nedenle | ifade | No tiene el documento; por consiguiente, espera. | Belgesi yok; dolayısıyla bekliyor.
-por lo tanto | bu yüzden; bu nedenle | ifade | Estudia mucho; por lo tanto, obtiene buenas notas. | Çok çalışıyor; bu yüzden iyi notlar alıyor.
-sin embargo | ancak, ne var ki | bağlaç | Tenía poco tiempo; sin embargo, terminó el trabajo. | Az zamanı vardı; ancak işi bitirdi.
-no obstante | bununla birlikte, yine de | bağlaç | Estaba cansado; no obstante, ayudó a su amigo. | Yorgundu; bununla birlikte arkadaşına yardım etti.
-por el contrario | aksine, bilakis | ifade | No está triste; por el contrario, sonríe feliz. | Üzgün değil; aksine neşeyle gülümsüyor.
-## Toplumsal meseleler
-la ayuda humanitaria | insani yardım | isim (d) | La ONG envía ayuda humanitaria a la zona. | STK bölgeye insani yardım gönderiyor.
-la campaña solidaria | dayanışma kampanyası | isim (d) | Organizan una campaña solidaria de alimentos. | Gıda için bir dayanışma kampanyası düzenliyorlar.
-la convivencia pacífica | barışçıl bir arada yaşama | isim (d) | Promueven la convivencia pacífica en el barrio. | Mahallede barışçıl birlikte yaşamı teşvik ediyorlar.
-el desarrollo sostenible | sürdürülebilir kalkınma | isim (e) | Hablan sobre el desarrollo sostenible en el foro. | Forumda sürdürülebilir kalkınma hakkında konuşuyorlar.
-la exclusión social | toplumsal dışlanma | isim (d) | Investigan las causas de la exclusión social. | Toplumsal dışlanmanın nedenlerini araştırıyorlar.
-la igualdad de oportunidades | fırsat eşitliği | isim (d) | Defienden la igualdad de oportunidades laborales. | İş bulmada fırsat eşitliğini savunuyorlar.
-la integración cultural | kültürel uyum; entegrasyon | isim (d) | Apoyan la integración cultural de los recién llegados. | Yeni gelenlerin kültürel uyumunu destekliyorlar.
-la participación ciudadana | vatandaş katılımı | isim (d) | Fomentan la participación ciudadana en los plenos. | Genel kurul toplantılarında vatandaş katılımını teşvik ederler.
-la protección civil | sivil savunma | isim (d) | La protección civil actúa durante la tormenta. | Fırtına sırasında sivil savunma görev yapıyor.
-el voluntariado social | sosyal gönüllülük | isim (e) | Hace voluntariado social en un centro de acogida. | Bir sığınma evinde sosyal gönüllülük yapıyor.
-## Resmî işlemler ve dilekçeler
-la alegación formal | resmî itiraz | isim (d) | Presenta una alegación formal contra la multa. | Cezaya karşı resmî bir itiraz sunuyor.
-el aval bancario | banka teminat mektubu | isim (e) | Solicita un aval bancario para el alquiler del local. | Dükkân kirası için banka teminat mektubu istiyor.
-el certificado digital | dijital sertifika | isim (e) | Instala el certificado digital en el ordenador. | Dijital sertifikayı bilgisayara kuruyor.
-la declaración jurada | yeminli beyanname | isim (d) | Firma una declaración jurada ante notario. | Noter huzurunda yeminli beyanname imzalıyor.
-la escritura pública | resmî senet; tapu senedi | isim (d) | Firma la escritura pública de la casa nueva. | Yeni evin tapu senedini imzalıyor.
-el impreso de solicitud | başvuru formu | isim (e) | Rellena el impreso de solicitud con bolígrafo negro. | Başvuru formunu siyah tükenmez kalemle dolduruyor.
-el justificante de pago | ödeme makbuz belgesi | isim (e) | Guarda el justificante de pago en la carpeta. | Ödeme makbuz belgesini dosyada saklıyor.
-la legalización de documentos | belgelerin tasdiki | isim (d) | Tramita la legalización de documentos oficiales. | Resmî belgelerin tasdik işlemlerini yürütüyor.
-el plazo de entrega | teslim süresi; son başvuru tarihi | isim (e) | El plazo de entrega termina este viernes. | Teslim süresi bu cuma sona eriyor.
-la validación de títulos | diploma denklikleri | isim (d) | Solicita la validación de títulos extranjeros. | Yabancı diplomaların denkligini talep ediyor.
-## Kent içi ulaşım ve altyapı
-la línea de autobús | otobüs hattı | isim (d) | La línea de autobús pasa cada diez minutos. | Otobüs hattı her on dakikada bir geçiyor.
-el carril bus-vao | toplu taşıma şeridi | isim (e) | Los taxis circulan por el carril bus-vao. | Taksiler toplu taşıma şeridinde seyrediyor.
-el intercambiador de transportes | aktarma merkezi; transfer istasyonu | isim (e) | Quedan en el intercambiador de transportes. | Ulaşım aktarma merkezinde buluşuyorlar.
-la pasarela peatonal | yaya üst geçidi | isim (d) | Cruza la autovía por la pasarela peatonal. | Otoyolu yaya üst geçidinden geçiyor.
-el plano callejero | sokak haritasى | isim (e) | Busca la dirección en el plano callejero. | Adresi sokak haritasında arıyor.
-la red de metro | metro ağı | isim (d) | La red de metro conecta toda la ciudad. | Metro ağı bütün şehri birbirine bağlıyor.
-el servicio de grúa | çekici hizmeti | isim (e) | Llama al servicio de grúa porque el coche no arraba. | Araba çalışmadığı için çekici hizmetini arıyor.
-la señalización vial | trafik işaretleri | isim (d) | Repasan la señalización vial para el examen. | Sınav için trafik işaretlerini tekrar ediyorlar.
-la tarjeta de transporte | ulaşım kartı | isim (d) | Recarga la tarjeta de transporte en la estación. | Ulaşım kartına istasyonda bakiye yükliyor.
-el tramo en obras | çalışmanın olduğu yol kesimi | isim (e) | Hay retenciones en el tramo en obras de la ronda. | Çevreyolunun inşaat kesiminde trafik yoğunluğu var.
-## Toplum ve kültür
-la artesanía local | yerel el sanatları | isim (d) | Compra artesanía local en el mercado tradicional. | Geleneksel pazardan yerel el sanatları satın alıyor.
-el casco histórico | tarihî şehir merkezi | isim (e) | Pasea por las calles estrechas del casco histórico. | Tarihî şehir merkezinin dar sokaklarında geziniyor.
-la costumbre popular | halk geleneği | isim (d) | Estudia una costumbre popular de la región. | Bölgenin bir halk geleneğini inceliyor.
-el evento cultural | kültürel etkinlik | isim (e) | Asiste a un evento cultural en el teatro. | Tiyatroda bir kültürel etkinliğe katılıyor.
-la fiesta patronal | yerel aziz bayramı; kasaba şenliği | isim (d) | El pueblo celebra su fiesta patronal en agosto. | Köy ağustos ayında kasaba şenliğini kutluyor.
-el legado artístico | sanatsal miras | isim (e) | Admira el legado artístico del museo principal. | Ana müzenin sanatsal mirasına hayran kalıyor.
-la manifestación cultural | kültürel dışavurum | isim (d) | Muestran una manifestación cultural única. | Eşi benzeri olmayan bir kültürel dışavurum sergiliyorlar.
-el patrimonio nacional | ulusal miras | isim (e) | Visita los monumentos del patrimonio nacional. | Ulusal mirasın anıtlarını ziyaret ediyor.
-la tradición oral | sözlü gelenek | isim (d) | Recopila cuentos de la tradición oral andaluza. | Endülüs sözlü geleneğinden masallar derliyor.
-el uso lingüístico | dil kullanımı | isim (e) | Analiza el uso lingüístico en textos antiguos. | Eski metinlerdeki dil kullanımını analiz ediyor.
-## Üniversite yaşamı ve projeler
-la asignatura optativa | seçmeli ders | isim (d) | Elige una asignatura optativa de literatura. | Edebiyattan seçmeli bir ders seçiyor.
-el aula de informática | bilgisayar laboratuvarı | isim (d) | Trabaja en el aula de informática por la tarde. | Öğleden sonra bilgisayar laboratuvarında çalışıyor.
-el becario investigador | araştırmacı bursiyer | isim (e) | El becario investigador redacta su informe mensual. | Araştırmacı bursiyer aylık raporunu kaleme alıyor.
-la convocatoria de becas | burs çağrısı | isim (d) | Sale publicada la convocatoria de becas de máster. | Yüksek lisans burs çağrısı yayımlandı.
-el crédito universitario | üniversite kredisi | isim (e) | Completa los créditos universitarios necesarios. | Gerekli üniversite kredilerini tamamlıyor.
-la estancia de intercambio | değişim programı süresi | isim (d) | Disfruta de una estancia de intercambio en Madrid. | Madrid'de bir değişim programı süresinin tadını çıkarıyor.
-el investigador principal | başaraştırmacı | isim (e) | El investigador principal dirige el proyecto europeo. | Başaraştırmacı Avrupa projesini yönetiyor.
-la prueba oral | sözlü sınav | isim (d) | Aprueba la prueba oral de nivel avanzado. | İleri seviye sözlü sınavını geçiyor.
-el rector magnifico | rektör bey (unvan) | isim (e) | El rector magnifico inaugura el nuevo curso. | Rektör bey yeni dönemin açılışını yapıyor.
-la tutoría académica | akademik danışmanlık saati | isim (d) | Consulta sus dudas en la tutoría académica. | Akademik danışmanlık saatinde kafasındaki soruları soruyor.
+## Okul
+el colegio | okul (ilk ve orta) | isim (e) | Mis hijos van al mismo colegio. | Çocuklarım aynı okula gidiyor.
+el instituto | lise | isim (e) | Mi hermano estudia en el instituto. | Erkek kardeşim lisede okuyor.
+el alumno | öğrenci | isim (e) | Hay veinte alumnos en la clase. | Sınıfta yirmi öğrenci var.
+la clase | ders; sınıf | isim (d) | La clase de inglés es a las diez. | İngilizce dersi saat onda.
+la asignatura | ders (branş) | isim (d) | Mi asignatura favorita es la historia. | En sevdiğim ders tarih.
+los deberes | ev ödevi | isim (çoğul) | Hago los deberes después de comer. | Yemekten sonra ödevimi yaparım.
+el examen | sınav | isim (e) | Mañana tengo un examen de matemáticas. | Yarın matematik sınavım var.
+la nota | not | isim (d) | Saqué una buena nota en el examen. | Sınavdan iyi bir not aldım.
+aprobar (apruebo) | (sınavı) geçmek; onaylamak | fiil · düzensiz | Aprobé todas las asignaturas. | Bütün dersleri geçtim.
+suspender | (sınavdan) kalmak; bırakmak | fiil | Suspendí el examen de física. | Fizik sınavından kaldım.
+## Okul hayatı
+el uniforme | okul üniforması | isim (e) | En mi colegio llevamos uniforme. | Okulumda üniforma giyiyoruz.
+la guardería | kreş | isim (d) | Mi hijo pequeño va a la guardería. | Küçük oğlum kreşe gidiyor.
+la escuela | okul | isim (d) | La escuela está cerca de casa. | Okul eve yakın.
+el maestro | öğretmen (ilkokul) | isim (e) | El maestro es muy paciente. | Öğretmen çok sabırlı.
+el tutor | sınıf öğretmeni; danışman | isim (e) | Hablo con el tutor de mi hijo. | Oğlumun sınıf öğretmeniyle konuşuyorum.
+la reunión de padres | veli toplantısı | isim (d) | Mañana hay reunión de padres. | Yarın veli toplantısı var.
+el trimestre | dönem (üç aylık) | isim (e) | El primer trimestre termina en diciembre. | İlk dönem aralıkta bitiyor.
+el boletín de notas | karne | isim (e) | Hoy nos dan el boletín de notas. | Bugün karnemizi veriyorlar.
+faltar a clase | derse gelmemek | ifade | No debes faltar a clase. | Derse devamsızlık yapmamalısın.
+el libro de texto | ders kitabı | isim (e) | Abrid el libro de texto en la página diez. | Ders kitabınızı onuncu sayfada açın.
+## Sınıfta
+la pizarra | yazı tahtası | isim (d) | La profesora escribe en la pizarra. | Öğretmen tahtaya yazıyor.
+el diccionario | sözlük | isim (e) | Busca la palabra en el diccionario. | Kelimeyi sözlükte ara.
+la goma | silgi; lastik | isim (d) | ¿Me dejas la goma? | Silgini verir misin?
+la regla | cetvel; kural | isim (d) | Necesito una regla para dibujar la línea. | Çizgiyi çizmek için cetvele ihtiyacım var.
+la lección | ders (konu) | isim (d) | Hoy estudiamos la lección cinco. | Bugün beşinci dersi çalışıyoruz.
+el recreo | teneffüs | isim (e) | En el recreo jugamos al fútbol. | Teneffüste futbol oynuyoruz.
+la tiza | tebeşir | isim (d) | El profesor escribe con tiza. | Öğretmen tebeşirle yazıyor.
+corregir (corrijo) | düzeltmek; (sınav) okumak | fiil · düzensiz | El profesor corrige los exámenes. | Öğretmen sınavları okuyor.
+la respuesta | cevap | isim (d) | Tu respuesta es muy buena. | Cevabın çok iyi.
+correcto | doğru | sıfat | Esta frase es correcta. | Bu cümle doğru.
+## Üniversite
+la universidad | üniversite | isim (d) | Estudio en la universidad de Sevilla. | Sevilla Üniversitesi'nde okuyorum.
+la carrera | üniversite eğitimi, bölüm; yarış | isim (d) | Estudio la carrera de Medicina. | Tıp okuyorum.
+la facultad | fakülte | isim (d) | La facultad de Derecho está cerca. | Hukuk fakültesi yakında.
+la matrícula | kayıt; kayıt ücreti | isim (d) | La matrícula cuesta mucho dinero. | Kayıt ücreti çok pahalı.
+la beca | burs | isim (d) | Tengo una beca para estudiar en Chile. | Şili'de okumak için bursum var.
+el título | diploma; başlık | isim (e) | Recibí mi título en junio. | Diplomamı haziranda aldım.
+graduarse | mezun olmak | fiil · dönüşlü | Me gradué el año pasado. | Geçen yıl mezun oldum.
+el máster | yüksek lisans | isim (e) | Quiero hacer un máster en Madrid. | Madrid'de yüksek lisans yapmak istiyorum.
+el curso | kurs; ders yılı | isim (e) | Hago un curso de cocina. | Bir yemek kursuna gidiyorum.
+la residencia de estudiantes | öğrenci yurdu | isim (d) | Vivo en una residencia de estudiantes. | Öğrenci yurdunda kalıyorum.
+## Öğrenmek
+enseñar | öğretmek; göstermek | fiil | Mi madre enseña matemáticas. | Annem matematik öğretiyor.
+memorizar | ezberlemek | fiil | Memorizo diez palabras cada día. | Her gün on kelime ezberliyorum.
+practicar | pratik yapmak | fiil | Practico español con mis amigos. | Arkadaşlarımla İspanyolca pratik yapıyorum.
+olvidar | unutmak | fiil | Siempre olvido las fechas. | Tarihleri hep unuturum.
+recordar (recuerdo) | hatırlamak | fiil · düzensiz | No recuerdo su nombre. | Adını hatırlamıyorum.
+la duda | şüphe; anlaşılmayan nokta | isim (d) | Si tienes dudas, pregunta. | Anlamadığın bir şey varsa sor.
+el nivel | seviye | isim (e) | Mi nivel de español es intermedio. | İspanyolca seviyem orta.
+difícil | zor | sıfat | El examen fue muy difícil. | Sınav çok zordu.
+traducir (traduzco) | çevirmek | fiil · düzensiz | ¿Puedes traducir esta frase? | Bu cümleyi çevirebilir misin?
+la frase | cümle | isim (d) | Escribe una frase con esta palabra. | Bu kelimeyle bir cümle yaz.
+## Resmî işler
+el trámite | resmî işlem | isim (e) | Hago los trámites para el visado. | Vize için resmî işlemleri yapıyorum.
+la solicitud | başvuru | isim (d) | Envío la solicitud por internet. | Başvuruyu internetten gönderiyorum.
+solicitar | başvurmak, talep etmek | fiil | Quiero solicitar una beca. | Burs için başvurmak istiyorum.
+el certificado | belge, sertifika | isim (e) | Necesito un certificado de estudios. | Öğrenim belgesine ihtiyacım var.
+la cita previa | randevu (resmî daire) | isim (d) | Para el pasaporte necesitas cita previa. | Pasaport için randevu alman gerekiyor.
+renovar (renuevo) | yenilemek | fiil · düzensiz | Tengo que renovar el pasaporte. | Pasaportumu yenilemem gerekiyor.
+el funcionario | memur | isim (e) | El funcionario revisa mis documentos. | Memur belgelerimi inceliyor.
+empadronarse | ikamet kaydı yaptırmak | fiil · dönüşlü | Me empadroné en el ayuntamiento. | Belediyede ikamet kaydı yaptırdım.
+la nacionalidad | uyruk, vatandaşlık | isim (d) | ¿Cuál es su nacionalidad? | Uyruğunuz nedir?
+el permiso de residencia | oturma izni | isim (e) | Ya tengo el permiso de residencia. | Artık oturma iznim var.
+## Toplum
+el ciudadano | vatandaş | isim (e) | Los ciudadanos tienen derechos y deberes. | Vatandaşların hakları ve görevleri vardır.
+el impuesto | vergi | isim (e) | Pagamos los impuestos en junio. | Vergileri haziranda ödüyoruz.
+la ley | yasa, kanun | isim (d) | Hay que respetar la ley. | Yasaya uymak gerekir.
+el derecho | hak; hukuk | isim (e) | La educación es un derecho. | Eğitim bir haktır.
+el habitante | sakin (bir yerde yaşayan) | isim (e) | La ciudad tiene un millón de habitantes. | Şehrin bir milyon nüfusu var.
+la población | nüfus | isim (d) | La población del pueblo es pequeña. | Köyün nüfusu az.
+gratuito | ücretsiz | sıfat | La educación pública es gratuita. | Devlet eğitimi ücretsizdir.
+privado | özel | sıfat | Es un colegio privado. | Bu özel bir okul.
+el voluntario | gönüllü | isim (e) | Los voluntarios ayudan en el hospital. | Gönüllüler hastanede yardım ediyor.
+la sociedad | toplum | isim (d) | Vivimos en una sociedad moderna. | Modern bir toplumda yaşıyoruz.
+## Şehirde hizmetler
+la policía | polis (teşkilat) | isim (d) | Llama a la policía, por favor. | Lütfen polisi ara.
+el polideportivo | spor merkezi (belediye) | isim (e) | Nado en el polideportivo del barrio. | Mahallenin spor merkezinde yüzüyorum.
+el centro cultural | kültür merkezi | isim (e) | Hay un concierto en el centro cultural. | Kültür merkezinde bir konser var.
+el contenedor | çöp konteyneri | isim (e) | Tira el plástico al contenedor amarillo. | Plastiği sarı konteynere at.
+la acera | kaldırım | isim (d) | Los niños caminan por la acera. | Çocuklar kaldırımda yürüyor.
+el paso de cebra | yaya geçidi | isim (e) | Cruza por el paso de cebra. | Yaya geçidinden karşıya geç.
+la avenida | bulvar, cadde | isim (d) | Vivo en una avenida muy larga. | Çok uzun bir caddede oturuyorum.
+las afueras | şehrin kenar semtleri | isim (çoğul) | Vivimos en las afueras de Madrid. | Madrid'in dış semtlerinde oturuyoruz.
+el vecindario | mahalle; mahalleli | isim (e) | El vecindario es muy tranquilo. | Mahalle çok sakin.
+la obra | inşaat; eser | isim (d) | Hay obras en mi calle. | Sokağımda inşaat var.
+## Bağlaçlar
+aunque | -se de, rağmen | bağlaç | Aunque llueve, salimos. | Yağmur yağsa da çıkıyoruz.
+sin embargo | ancak, yine de | bağlaç | Estoy cansado; sin embargo, voy a trabajar. | Yorgunum; yine de işe gideceğim.
+por eso | bu yüzden | ifade | Estaba enfermo, por eso no vine. | Hastaydım, bu yüzden gelmedim.
+así que | yani, bu yüzden | bağlaç | Hace frío, así que me pongo el abrigo. | Hava soğuk, bu yüzden paltomu giyiyorum.
+mientras | -iken | bağlaç | Escucho música mientras cocino. | Yemek yaparken müzik dinlerim.
+antes de | -den önce | edat | Me lavo las manos antes de comer. | Yemekten önce ellerimi yıkarım.
+después de | -den sonra | edat | Después de clase vamos al parque. | Dersten sonra parka gidiyoruz.
+como | -diği için (cümle başında) | bağlaç | Como no tengo coche, voy en autobús. | Arabam olmadığı için otobüsle gidiyorum.
+a pesar de | -e rağmen | edat | Salimos a pesar del frío. | Soğuğa rağmen çıktık.
+ni... ni | ne... ne | bağlaç | No bebo ni café ni té. | Ne kahve ne çay içerim.
+## Bağlayıcı ifadeler
+primero | önce, ilk olarak | zarf | Primero estudio y luego salgo. | Önce ders çalışırım, sonra çıkarım.
+después | sonra | zarf | Después vamos al cine. | Sonra sinemaya gidiyoruz.
+por último | son olarak | ifade | Por último, apaga la luz. | Son olarak ışığı kapat.
+al final | sonunda | ifade | Al final todo salió bien. | Sonunda her şey iyi gitti.
+por ejemplo | örneğin | ifade | Me gustan las frutas, por ejemplo, las fresas. | Meyveleri severim, örneğin çilekleri.
+es decir | yani, başka bir deyişle | ifade | Vuelvo el lunes, es decir, dentro de tres días. | Pazartesi dönüyorum, yani üç gün sonra.
+o sea | yani (konuşma dili) | ifade | Es mi prima, o sea, la hija de mi tía. | O benim kuzenim, yani teyzemin kızı.
+en cambio | buna karşın, oysa | ifade | Yo soy alto; mi hermano, en cambio, es bajo. | Ben uzunum; erkek kardeşim ise kısa.
+sobre todo | özellikle | ifade | Me gusta la fruta, sobre todo el mango. | Meyveyi, özellikle mangoyu severim.
+por lo menos | en azından | ifade | Duerme por lo menos ocho horas. | En azından sekiz saat uyu.

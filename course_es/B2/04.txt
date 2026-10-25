@@ -1,111 +1,111 @@
-# UNIT: Tarih | Dönemler, olaylar, dünya ve İspanya ve Latin Amerika tarihi
-## Antik Çağ ve Medeniyetler
-el imperio romano | Roma İmparatorluğu | isim (o) | El imperio romano transformó la cultura occidental profundamente. | Roma İmparatorluğu Batı kültürünü derinden dönüştürdü.
-la edad antigua | ilk çağ | isim (d) | La edad antigua abarca desde la invención de la escritura. | İlk çağ yazının icadından başlar.
-el vestigio arqueológico | arkeolojik kalıntı | isim (o) | Encontraron un vestigio arqueológico muy valioso en la cueva. | Mağarada çok değerli bir arkeolojik kalıntı buldular.
-la dinastía real | kraliyet hanedanı | isim (d) | La dinastía real gobernó durante más de tres siglos consecutivos. | Kraliyet hanedanı arka arkaya üç asırdan fazla hüküm sürdü.
-el documento antiguo | eski belge | isim (o) | El documento antiguo guarda información muy valiosa y secreta. | Eski belge çok değerli ve gizli bilgiler saklar.
-la civilización maya | Maya uygarlığı | isim (d) | La civilización maya destacó en astronomía y matemáticas. | Maya uygarlığı astronomi ve matematikte öne çıktı.
-el monumento antiguo | antik anıt | isim (o) | Visitamos un monumento antiguo construido por los incas. | İnkalar tarafından inşa edilmiş antik bir anıtı ziyaret ettik.
-el manuscrito antiguo | eski el yazması | isim (o) | El investigador analizó un manuscrito antiguo con gran cuidado. | Araştırmacı büyük bir dikkatle eski bir el yazmasını inceledi.
-la excavación arqueológica | arkeolojik kazı | isim (d) | La excavación arqueológica reveló piezas de cerámica fascinantes. | Arkeolojik kazı büyüleyici seramik parçaları ortaya çıkardı.
-el vestigio histórico | tarihi kalıntı | isim (o) | Cada vestigio histórico cuenta una historia fascinante del pasado. | Her tarihi kalıntı geçmişin büyüleyici bir hikayesini anlatır.
-## Orta Çağ ve Feodalizm
-el rey medieval | orta çağ kralı | isim (o) | El rey medieval firmó un tratado de paz muy importante. | Orta çağ kralı çok önemli bir barış anlaşması imzaladı.
-la muralla defensiva | savunma suru | isim (d) | La muralla defensiva protegía la ciudad de ataques externos. | Savunma suru şehri dış saldırılardan koruyordu.
-el caballero andante | şövalye | isim (o) | El caballero andante defendía el honor y la justicia siempre. | Gezgin şövalye daima onuru ve adaleti savunurdu.
-el feudo feudal | feodal beyin toprağı | isim (o) | El feudo feudal organizaba la economía de aquella época oscura. | Feodal mülk o karanlık dönemin ekonomisini organize ederdi.
-la cruzada militar | askeri haçlı seferi | isim (d) | La cruzada militar cambió las rutas comerciales de oriente. | Askeri haçlı seferi doğunun ticaret yollarını değiştirdi.
-el castillo fuerte | güçlü kale | isim (o) | El castillo fuerte resistió varios meses de sitio continuo. | Güçlü kale aylarca süren kesintisiz kuşatmaya dayandı.
-la orden religiosa | dini tarikat | isim (d) | La orden religiosa fundó monasterios por todo el territorio. | Dini tarikat tüm topraklar üzerinde manastırlar kurdu.
-el monje copista | kopist rahip | isim (o) | El monje copista pasaba las horas transcribiendo textos sagrados. | Kopist rahip kutsal metinleri kopyalayarak saatler geçirirdi.
-la peste negra | veba salgını | isim (d) | La peste negra despobló grandes regiones de europa medieval. | Veba salgını orta çağ Avrupası'nın büyük bölgelerini nüfussuz bıraktı.
-el reino cristiano | Hristiyan krallığı | isim (o) | El reino cristiano expandió sus fronteras hacia el sur peninsular. | Hristiyan krallığı sınırlarını yarımadanın güneyine doğru genişletti.
-## Keşifler ve Sömürge Dönemi
-la ruta comercial | ticaret yolu | isim (d) | La ruta comercial unía europa con las especias de asia. | Ticaret yolu Avrupa'yı Asya'nın baharatlarıyla birleştiriyordu.
-el navegante audaz | cesur denizci | isim (o) | El navegante audaz cruzó el océano atlántico buscando nuevas tierras. | Cesur denizci yeni topraklar arayarak Atlas Okyanusu'nu geçti.
-la conquista española | İspanyol fethi | isim (d) | La conquista española transformó radicalmente el continente americano. | İspanyol fethi Amerika kıtasını kökten dönüştürdü.
-el galeón de Manila | Manila kalyonu | isim (o) | El galeón de Manila transportaba mercancías preciosas cada año. | Manila kalyonu her yıl değerli mallar taşırdı.
-la colonia ultramarina | denizaşırı sömürge | isim (d) | La colonia ultramarina abastecía de metales preciosos a la metrópoli. | Denizaşırı sömürge ana vatanı değerli metallerle besliyordu.
-el imperio colonial | sömürge imparatorluğu | isim (o) | El imperio colonial español alcanzó dimensiones globales inmesas. | İspanyol sömürge imparatorluğu muazzam küresel boyutlara ulaştı.
-la expedición marítima | deniz seferi | isim (d) | La expedición marítima cartografió costas hasta entonces desconocidas. | Deniz seferi o güne kadar bilinmeyen kıyıları haritalandırdı.
-el virreinato indiano | Hint genel valiliği | isim (o) | El virreinato indiano administraba justicia en nombre del monarca. | Hint genel valiliği hükümdar adına adalet yönetiyordu.
-la evangelización católica | Katolikleştirme çabası | isim (d) | La evangelización católica dejó una profunda huella cultural. | Katolikleştirme çabası derin bir kültürel iz bıraktı.
-el tesoro americano | Amerikan hazinesi | isim (o) | El tesoro americano financió numerosas guerras en el viejo continente. | Amerikan hazinesi eski kıtada pek çok savaşı finanse etti.
-## Devrimler ve Modernleşme
-la revolución industrial | sanayi devrimi | isim (d) | La revolución industrial alteró profundamente la vida laboral urbana. | Sanayi devrimi kentsel çalışma hayatını derinden değiştirdi.
-el movimiento obrero | işçi hareketi | isim (o) | El movimiento obrero luchó por derechos laborales fundamentales. | İşçi hareketi temel emek hakları için mücadele etti.
-la constitución liberal | liberal anayasa | isim (d) | La constitución liberal limitó los poderes absolutos del monarca. | Liberal anayasa hükümdarın mutlak yetkilerini sınırladı.
-el conflicto bélico | savaş çatışması | isim (o) | El conflicto bélico devastó la infraestructura del país entero. | Savaş çatışması bütün ülkenin altyapısını harap etti.
-la grave recesión | ağır durgunluk | isim (d) | La grave recesión provocó migraciones masivas hacia américa. | Ağır durgunluk Amerika'ya doğru kitlesel göçlere yol açtı.
-el régimen parlamentario | parlamenter rejim | isim (o) | El régimen parlamentario consolidó la democracia moderna europea. | Parlamenter rejim modern Avrupa demokrasisini pekiştirdi.
-la independencia americana | Amerikan bağımsızlığı | isim (d) | La independencia americana dio lugar a nuevas repúblicas soberanas. | Amerikan bağımsızlığı yeni egemen cumhuriyetlerin ortaya çıkmasını sağladı.
-el levantamiento popular | halk ayaklanması | isim (o) | El levantamiento popular sacudió los cimientos del antiguo régimen. | Halk ayaklanması eski rejimin temellerini sarstı.
-la reforma agraria | toprak reformu | isim (d) | La reforma agraria intentó solucionar la desigualdad rural histórica. | Toprak reformu tarihi kırsal eşitsizliği çözmeye çalıştı.
-el proceso democrático | demokratik süreç | isim (o) | El proceso democrático requirió consensos amplios entre partidos. | Demokratik süreç partiler arasında geniş uzlaşmalar gerektirdi.
-## Yirminci Yüzyıl ve Siyasi Dönemeçler
-la guerra civil | iç savaş | isim (d) | La guerra civil dejó heridas profundas en la sociedad española. | İç savaş İspanyol toplumunda derin yaralar bıraktı.
-el exilio político | siyasi sürgün | isim (o) | El exilio político obligó a muchos intelectuales a marchar fuera. | Siyasi sürgün birçok aydını dışarıya gitmeye zorladı.
-la dictadura militar | askeri diktatörlük | isim (d) | La dictadura militar suprimió las libertades civiles durante décadas. | Askeri diktatörlük onlarca yıl boyunca sivil özgürlükleri bastırdı.
-el golpe de estado | darbe | isim (o) | El golpe de estado interrumpió abruptamente el orden constitucional. | Darbe, anayasal düzeni aniden sekteye uğrattı.
-la transición pacífica | barışçıl geçiş | isim (d) | La transición pacífica permitió restaurar las libertades ciudadanas. | Barışçıl geçiş, vatandaş haklarının yeniden tesis edilmesini sağladı.
-el pacto constitucional | anayasal uzlaşı | isim (o) | El pacto constitucional unió a diversas fuerzas políticas nacionales. | Anayasal uzlaşı çeşitli ulusal siyasi güçleri birleştirdi.
-la apertura internacional | uluslararası açılım | isim (d) | La apertura internacional integró al país en Europa plenamente. | Uluslararası açılım ülkeyi tamamen Avrupa'ya entegre etti.
-el desarrollo tecnológico | teknolojik gelişme | isim (o) | El desarrollo tecnológico aceleró la modernización económica nacional. | Teknolojik gelişme ulusal ekonomik modernleşmeyi hızlandırdı.
-la integración europea | Avrupa entegrasyonu | isim (d) | La integración europea transformó la economía y la sociedad española. | Avrupa entegrasyonu İspanyol ekonomisini ve toplumunu dönüştürdü.
-el acontecimiento histórico | tarihi olay | isim (o) | El acontecimiento histórico marcó un antes y un después notable. | Tarihi olay dikkat çekici bir öncesi ve sonrasını işaretledi.
-## Çağdaş Dünya ve Küreselleşme
-la crisis económica | ekonomik kriz | isim (d) | La crisis económica global afectó duramente al empleo juvenil. | Küresel ekonomik kriz genç istihdamını sert bir şekilde etkiledi.
-el calentamiento global | küresel ısınma | isim (o) | El calentamiento global exige respuestas urgentes de todos los gobiernos. | Küresel ısınma tüm hükümetlerden acil yanıtlar talep ediyor.
-la transformación digital | dijital dönüşüm | isim (d) | La transformación digital revolucionó el sector empresarial entero. | Dijital dönüşüm tüm kurumsal sektörü devrim niteliğinde değiştirdi.
-el desafío global | küresel meydan okuma | isim (o) | El desafío global requiere cooperación estrecha entre naciones. | Küresel meydan okuma uluslar arasında yakın iş birliği gerektirir.
-la comunidad internacional | uluslararası toplum | isim (d) | La comunidad internacional condenó firmemente la agresión militar. | Uluslararası toplum askeri saldırıyı kesin bir şekilde kınadı.
-el acuerdo comercial | ticaret anlaşması | isim (o) | El acuerdo comercial facilitó las exportaciones entre ambos bloques. | Ticaret anlaşması iki blok arasındaki ihracatı kolaylaştırdı.
-la cumbre climática | iklim zirvesi | isim (d) | La cumbre climática reunió a líderes mundiales para debatir medidas. | İklim zirvesi dünya liderlerini önlemleri tartışmak üzere bir araya getirdi.
-el avance científico | bilimsel ilerleme | isim (o) | El avance científico mejora la calidad de vida de las personas. | Bilimsel ilerleme insanların yaşam kalitesini artırır.
-la pluralidad cultural | kültürel çoğulculuk | isim (d) | La pluralidad cultural enriquece profundamente a las sociedades modernas. | Kültürel çoğulculuk modern toplulukları derinden zenginleştirir.
-el futuro sostenible | sürdürülebilir gelecek | isim (o) | El futuro sostenible depende de las decisiones ecológicas actuales. | Sürdürülebilir gelecek bugünkü ekolojik kararlara bağlıdır.
-## İspanya ve Latin Amerika İlişkileri
-la cumbre iberoamericana | İbero-Amerikan zirvesi | isim (d) | La cumbre iberoamericana fomenta el diálogo político y cultural. | İbero-Amerikan zirvesi siyasi ve kültürel diyaloğu teşvik eder.
-el lazo histórico | tarihi bağ | isim (o) | El lazo histórico une firmemente a España con Hispanoamérica. | Tarihi bağ İspanya'yı Hispanoamerika ile sıkıca birleştirir.
-la cooperación cultural | kültürel iş birliği | isim (d) | La cooperación cultural estrecha los vínculos entre ambos continentes. | Kültürel iş birliği iki kıta arasındaki bağları güçlendirir.
-el patrimonio compartido | ortak miras | isim (o) | El patrimonio compartido incluye literatura, arte y arquitectura valiosa. | Ortak miras değerli edebiyat, sanat ve mimariyi içerir.
-la lengua común | ortak dil | isim (d) | La lengua común facilita el intercambio económico y literario. | Ortak dil ekonomik ve edebi alışverişi kolaylaştırır.
-el intercambio estudiantil | öğrenci değişimi | isim (o) | El intercambio estudiantil enriquece la experiencia universitaria juvenil. | Öğrenci değişimi gençlerin üniversite deneyimini zenginleştirir.
-la herencia hispana | Hispanik miras | isim (d) | La herencia hispana perdura con fuerza en el continente americano. | Hispanik miras Amerikan kıtasında güçlü bir şekilde devam ediyor.
-el puente cultural | kültürel köprü | isim (o) | El puente cultural conecta realidades diversas de ambos hemisferios. | Kültürel köprü iki yarım kürenin farklı gerçekliklerini birbirine bağlar.
-la memoria colectiva | kolektif hafıza | isim (d) | La memoria colectiva recuerda hechos compartidos del pasado lejano. | Kolektif hafıza uzak geçmişin ortak olaylarını hatırlar.
-el diálogo bilateral | ikili diyalog | isim (o) | El diálogo bilateral resuelve desacuerdos diplomáticos con eficacia. | İkili diyalog diplomatik anlaşmazlıkları verimli bir şekilde çözer.
-## Tarih Yazımı ve Hafıza
-la fuente primaria | birincil kaynak | isim (d) | La fuente primaria ofrece datos directos sobre el evento estudiado. | Birincil kaynak incelenen olay hakkında doğrudan veri sunar.
-el análisis histórico | tarihi analiz | isim (o) | El análisis histórico requiere rigor metodológico y mucha objetividad. | Tarihi analiz metodolojik titizlik ve büyük tarafsızlık gerektirir.
-la interpretación subjetiva | öznel yorum | isim (d) | La interpretación subjetiva puede alterar el sentido de los hechos. | Öznel yorum olayların anlamını değiştirebilir.
-el archivo nacional | ulusal arşiv | isim (o) | El archivo nacional conserva los documentos oficiales más importantes. | Ulusal arşiv en önemli resmi belgeleri muhafaza eder.
-la memoria histórica | tarihi hafıza | isim (d) | La memoria histórica ayuda a comprender traumas del siglo pasado. | Tarihi hafıza geçen yüzyılın travmalarını anlamaya yardımcı olur.
-el historiador experto | uzman tarihçi | isim (o) | El historiador experto examinó cientos de cartas antes de escribir. | Uzman tarihçi yazmadan önce yüzlerce mektubu inceledi.
-la corriente historiográfica | tarih yazımı akımı | isim (d) | La corriente historiográfica actual valora testimonios de gente común. | Günümüz tarih yazımı akımı sıradan insanların tanıklıklarına değer verir.
-el relato oficial | resmi anlatı | isim (o) | El relato oficial a menudo omite perspectivas de minorías oprimidas. | Resmi anlatı genellikle ezilen azınlıkların bakış açarını atlar.
-la investigación archivística | arşiv araştırması | isim (d) | La investigación archivística reveló detalles sorprendentes del conflicto. | Arşiv araştırması çatışmanın şaşırtıcı detaylarını ortaya çıkardı.
-el testimonio oral | sözlü tanıklık | isim (o) | El testimonio oral complementa la información escrita en los libros. | Sözlü tanıklık kitaplardaki yazılı bilgiyi tamamlar.
-## Sosyal Hareketler ve Haklar
-la lucha pacífica | barışçıl mücadele | isim (d) | La lucha pacífica logró cambios políticos fundamentales sin violencia. | Barışçıl mücadele şiddet olmadan temel siyasi değişiklikleri başardı.
-el derecho ciudadano | vatandaşlık hakkı | isim (o) | El derecho ciudadano garantiza la participación en asuntos públicos. | Vatandaşlık hakkı kamu işlerine katılımı garanti eder.
-la igualdad social | toplumsal eşitlik | isim (d) | La igualdad social sigue siendo un objetivo pendiente en el mundo. | Toplumsal eşitlik dünyada hala beklenen bir hedef olmaya devam ediyor.
-el sufragio femenino | kadın oy hakkı | isim (o) | El sufragio femenino supuso una conquista democrática revolucionaria. | Kadın oy hakkı devrimci bir demokratik kazanım anlamına geldi.
-la manifestación cívica | yurttaş yürüyüşü | isim (d) | La manifestación cívica movilizó a miles de ciudadanos en la capital. | Yurttaş yürüyüşü başkentte binlerce vatandaşı harekete geçirdi.
-el cambio social | toplumsal değişim | isim (o) | El cambio social transformó las estructuras familiares tradicionales. | Toplumsal değişim geleneksel aile yapılarının yerini değiştirdi.
-la reivindicación laboral | işçi hakkı talebi | isim (d) | La reivindicación laboral mejoró notablemente las condiciones en fábricas. | İşçi hakkı talebi fabrikalardaki koşulları belirgin şekilde iyileştirdi.
-el grupo ciudadano | yurttaş grubu | isim (o) | El grupo ciudadano exigió mayor transparencia a las instituciones. | Yurttaş grubu kurumlardan daha fazla şeffaflık talep etti.
-la justicia transicional | geçiş dönemi adaleti | isim (d) | La justicia transicional intenta reparar daños tras conflictos armados. | Geçiş dönemi adaleti silahlı çatışmalar sonrasında zararları telafi etmeye çalışır.
-el avance legislativo | yasama ilerlemesi | isim (o) | El avance legislativo protegió a los sectores más vulnerables de la ley. | Yasama ilerlemesi kanunun en savunmasız kesimlerini korudu.
-## Büyük Medeniyet Mirası
-el imperio inca | İnka imparatorluğu | isim (o) | El imperio inca construyó caminos complejos sobre los Andes altos. | İnka imparatorluğu yüksek And dağları üzerinde karmaşık yollar inşa etti.
-la cultura azteca | Aztek kültürü | isim (d) | La cultura azteca destacó por su rica mitología y arquitectura. | Aztek kültürü zengin mitolojisi ve mimarisiyle öne çıktı.
-el templo sagrado | kutsal tapınak | isim (o) | El templo sagrado recibía ofrendas de todo el valle central. | Kutsal tapınak bütün merkezi vadeden sunular alıyordu.
-la escritura jeroglífica | hiyeroglif yazısı | isim (d) | La escritura jeroglífica decoraba los muros de piedra antigua. | Hiyeroglif yazısı eski taş duvarları süslüyordu.
-el calendario solar | güneş takvimi | isim (o) | El calendario solar regulaba las épocas de cosecha y rituales. | Güneş takvimi hasat ve ritüel dönemlerini düzenliyordu.
-la cerámica precolombina | kolomb öncesi seramik | isim (d) | La cerámica precolombina muestra una gran maestría artística local. | Kolomb öncesi seramik büyük bir yerel sanat ustalığı gösterir.
-el imperio persa | Pers imparatorluğu | isim (o) | El imperio persa gobernó vastos territorios desde oriente medio. | Pers imparatorluğu Orta Doğu'dan geniş toprakları yönetti.
-la ciudad estado | şehir devleti | isim (d) | La ciudad estado griega innovó en formas tempranas de democracia. | Yunan şehir devleti erken demokrasi biçimlerinde yenilik yaptı.
-el legado clásico | klasik miras | isim (o) | El legado clásico influyó profundamente en el arte renacentist. | Klasik miras Rönesans sanatını derinden etkiledi.
-la civilización antigua | antik uygarlık | isim (d) | Cada civilización antigua aportó conocimientos esenciales a la humanidad. | Her antik uygarlık insanlığa temel bilgiler kattı.
+# UNIT: Tarih | Dönemler, olaylar, dünya, İspanya ve Latin Amerika tarihi
+## Tarih bilimi
+el historiador | tarihçi | isim (e) | El historiador estudia documentos antiguos. | Tarihçi eski belgeleri inceliyor.
+la prehistoria | tarih öncesi | isim (d) | En la prehistoria no existía la escritura. | Tarih öncesinde yazı yoktu.
+la Antigüedad | İlk Çağ, antik çağ | isim (d) | En la Antigüedad Roma dominaba el Mediterráneo. | Antik çağda Roma Akdeniz'e hâkimdi.
+la Edad Media | Orta Çağ | isim (d) | En la Edad Media se construyeron muchos castillos. | Orta Çağ'da birçok kale inşa edildi.
+la Edad Moderna | Yeni Çağ | isim (d) | La Edad Moderna comenzó con los grandes viajes. | Yeni Çağ büyük yolculuklarla başladı.
+la Edad Contemporánea | Yakın Çağ | isim (d) | La Edad Contemporánea trajo la industrialización. | Yakın Çağ sanayileşmeyi getirdi.
+la era | çağ, devir | isim (d) | Vivimos en la era digital. | Dijital çağda yaşıyoruz.
+la fuente histórica | tarihî kaynak | isim (d) | Las cartas son una fuente histórica valiosa. | Mektuplar değerli bir tarihî kaynaktır.
+el manuscrito | el yazması | isim (e) | Encontraron un manuscrito muy antiguo en el monasterio. | Manastırda çok eski bir el yazması buldular.
+el acontecimiento | olay | isim (e) | Fue un acontecimiento histórico. | Tarihî bir olaydı.
+## Antik dünya
+el imperio | imparatorluk | isim (e) | El imperio duró cinco siglos. | İmparatorluk beş yüzyıl sürdü.
+el emperador | imparator | isim (e) | El emperador vivía en un gran palacio. | İmparator büyük bir sarayda yaşıyordu.
+la civilización | uygarlık | isim (d) | La civilización maya era muy avanzada. | Maya uygarlığı çok ileriydi.
+el faraón | firavun | isim (e) | Las pirámides eran tumbas de faraones. | Piramitler firavunların mezarlarıydı.
+la pirámide | piramit | isim (d) | Visitamos las pirámides de Teotihuacán. | Teotihuacan piramitlerini gezdik.
+el templo | tapınak | isim (e) | Los griegos construyeron templos de mármol. | Yunanlılar mermerden tapınaklar inşa etti.
+la tribu | kabile | isim (d) | Varias tribus vivían en el valle. | Vadide birkaç kabile yaşıyordu.
+el esclavo | köle | isim (e) | Los esclavos trabajaban en las minas. | Köleler madenlerde çalışıyordu.
+la arqueología | arkeoloji | isim (d) | Estudia arqueología en la universidad. | Üniversitede arkeoloji okuyor.
+el yacimiento | kazı alanı; maden yatağı | isim (e) | Encontraron monedas romanas en el yacimiento. | Kazı alanında Roma sikkeleri buldular.
+## Orta Çağ
+el rey | kral | isim (e) | El rey vivía en el castillo. | Kral kalede yaşıyordu.
+la reina | kraliçe | isim (d) | La reina financió el viaje. | Kraliçe yolculuğu finanse etti.
+el reino | krallık | isim (e) | España estaba dividida en varios reinos. | İspanya birkaç krallığa bölünmüştü.
+el caballero | şövalye; beyefendi | isim (e) | El caballero llevaba una armadura. | Şövalye zırh giyiyordu.
+la muralla | sur | isim (d) | La ciudad tiene una muralla medieval. | Şehrin bir Orta Çağ suru var.
+el monasterio | manastır | isim (e) | Los monjes vivían en el monasterio. | Keşişler manastırda yaşıyordu.
+el campesino | köylü | isim (e) | Los campesinos trabajaban la tierra del señor. | Köylüler beyin toprağını işliyordu.
+el noble | soylu | isim (e) | Los nobles tenían muchos privilegios. | Soyluların birçok ayrıcalığı vardı.
+la peste | veba | isim (d) | La peste mató a millones de personas. | Veba milyonlarca insanı öldürdü.
+la Reconquista | Reconquista (İber Yarımadası'nın geri alınması) | isim (d) | La Reconquista terminó en 1492. | Reconquista 1492'de sona erdi.
+## Keşifler ve sömürgecilik
+la carabela | karavela (yelkenli gemi) | isim (d) | Las carabelas cruzaron el Atlántico. | Karavelalar Atlas Okyanusu'nu geçti.
+el navegante | denizci | isim (e) | El navegante buscaba una nueva ruta. | Denizci yeni bir rota arıyordu.
+la conquista | fetih | isim (d) | La conquista de América cambió el mundo. | Amerika'nın fethi dünyayı değiştirdi.
+el conquistador | fatih, conquistador | isim (e) | Los conquistadores llegaron en barcos. | Conquistadorlar gemilerle geldi.
+la colonia | koloni, sömürge | isim (d) | México fue una colonia española durante tres siglos. | Meksika üç yüzyıl boyunca bir İspanyol sömürgesiydi.
+el virreinato | genel valilik | isim (e) | El virreinato del Perú era muy rico. | Peru Genel Valiliği çok zengindi.
+el Nuevo Mundo | Yeni Dünya | isim (e) | Llevaron el tomate del Nuevo Mundo a Europa. | Domatesi Yeni Dünya'dan Avrupa'ya getirdiler.
+los pueblos originarios | yerli halklar | isim (çoğul) | Los pueblos originarios tenían culturas propias. | Yerli halkların kendine özgü kültürleri vardı.
+la independencia | bağımsızlık | isim (d) | Muchos países lograron la independencia en el siglo diecinueve. | Birçok ülke on dokuzuncu yüzyılda bağımsızlığını kazandı.
+la ruta de las especias | baharat yolu | isim (d) | Los navegantes buscaban la ruta de las especias. | Denizciler baharat yolunu arıyordu.
+## Savaş ve barış
+la guerra | savaş | isim (d) | La guerra duró tres años. | Savaş üç yıl sürdü.
+la paz | barış | isim (d) | Después de años de guerra llegó la paz. | Yıllar süren savaşın ardından barış geldi.
+la batalla | muharebe | isim (d) | La batalla duró todo el día. | Muharebe bütün gün sürdü.
+el soldado | asker | isim (e) | Miles de soldados murieron en la guerra. | Savaşta binlerce asker öldü.
+el enemigo | düşman | isim (e) | El enemigo atacó por la noche. | Düşman gece saldırdı.
+la victoria | zafer | isim (d) | Celebraron la victoria con una fiesta. | Zaferi bir şenlikle kutladılar.
+la derrota | yenilgi | isim (d) | La derrota fue un golpe muy duro. | Yenilgi çok ağır bir darbe oldu.
+invadir | istila etmek | fiil | El ejército invadió el territorio vecino. | Ordu komşu toprakları istila etti.
+el asedio | kuşatma | isim (e) | La ciudad resistió un largo asedio. | Şehir uzun bir kuşatmaya dayandı.
+la tropa | (askerî) birlik | isim (d) | Las tropas volvieron a casa. | Birlikler eve döndü.
+## Modern çağ
+la industrialización | sanayileşme | isim (d) | La industrialización cambió las ciudades. | Sanayileşme şehirleri değiştirdi.
+la revolución industrial | sanayi devrimi | isim (d) | La revolución industrial empezó en Inglaterra. | Sanayi devrimi İngiltere'de başladı.
+la fábrica | fabrika | isim (d) | Muchos niños trabajaban en las fábricas. | Birçok çocuk fabrikalarda çalışıyordu.
+el obrero | işçi | isim (e) | Los obreros pidieron mejores salarios. | İşçiler daha iyi ücret istedi.
+el ferrocarril | demiryolu | isim (e) | El ferrocarril unió las ciudades. | Demiryolu şehirleri birbirine bağladı.
+la máquina de vapor | buhar makinesi | isim (d) | La máquina de vapor transformó la industria. | Buhar makinesi sanayiyi dönüştürdü.
+el movimiento obrero | işçi hareketi | isim (e) | El movimiento obrero luchó por la jornada de ocho horas. | İşçi hareketi sekiz saatlik iş günü için mücadele etti.
+la Ilustración | Aydınlanma | isim (d) | La Ilustración defendía la razón y la ciencia. | Aydınlanma aklı ve bilimi savunuyordu.
+el absolutismo | mutlakiyetçilik | isim (e) | El absolutismo concentraba el poder en el rey. | Mutlakiyetçilik gücü kralın elinde toplardı.
+la modernización | modernleşme | isim (d) | El país vivió una rápida modernización. | Ülke hızlı bir modernleşme yaşadı.
+## Yirminci yüzyıl
+la guerra mundial | dünya savaşı | isim (d) | Mi bisabuelo vivió la Segunda Guerra Mundial. | Büyük dedem İkinci Dünya Savaşı'nı yaşadı.
+la guerra civil | iç savaş | isim (d) | La guerra civil dividió a muchas familias. | İç savaş birçok aileyi böldü.
+la posguerra | savaş sonrası dönem | isim (d) | La posguerra fue una época de hambre. | Savaş sonrası dönem bir açlık dönemiydi.
+el dictador | diktatör | isim (e) | El dictador gobernó durante décadas. | Diktatör onlarca yıl yönetti.
+la Guerra Fría | Soğuk Savaş | isim (d) | La Guerra Fría dividió el mundo en dos bloques. | Soğuk Savaş dünyayı iki bloğa ayırdı.
+la descolonización | sömürgecilikten kurtuluş | isim (d) | La descolonización creó muchos países nuevos. | Sömürgecilikten kurtuluş birçok yeni ülke yarattı.
+el muro | (büyük) duvar | isim (e) | La caída del muro cambió Europa. | Duvarın yıkılışı Avrupa'yı değiştirdi.
+la Unión Europea | Avrupa Birliği | isim (d) | España entró en la Unión Europea en 1986. | İspanya 1986'da Avrupa Birliği'ne girdi.
+la globalización | küreselleşme | isim (d) | La globalización une los mercados. | Küreselleşme piyasaları birleştiriyor.
+la crisis del petróleo | petrol krizi | isim (d) | La crisis del petróleo subió los precios. | Petrol krizi fiyatları yükseltti.
+## Siyasi akımlar
+el liberalismo | liberalizm | isim (e) | El liberalismo defendía la libertad individual. | Liberalizm bireysel özgürlüğü savunuyordu.
+el socialismo | sosyalizm | isim (e) | El socialismo nació en el siglo diecinueve. | Sosyalizm on dokuzuncu yüzyılda doğdu.
+el nacionalismo | milliyetçilik | isim (e) | El nacionalismo creció en Europa en aquella época. | O dönemde Avrupa'da milliyetçilik yükseldi.
+el feudalismo | feodalizm | isim (e) | El feudalismo organizaba la sociedad medieval. | Feodalizm Orta Çağ toplumunu düzenliyordu.
+el imperialismo | emperyalizm | isim (e) | El imperialismo europeo llegó a África. | Avrupa emperyalizmi Afrika'ya ulaştı.
+la revuelta | isyan | isim (d) | La revuelta empezó en el campo. | İsyan kırsalda başladı.
+el levantamiento | ayaklanma | isim (e) | Hubo un levantamiento popular en la capital. | Başkentte bir halk ayaklanması oldu.
+la reforma agraria | toprak reformu | isim (d) | La reforma agraria repartió tierras. | Toprak reformu toprakları dağıttı.
+el sufragio | oy hakkı | isim (e) | Las mujeres consiguieron el sufragio en el siglo veinte. | Kadınlar yirminci yüzyılda oy hakkını kazandı.
+la abolición | kaldırılma (yasa, kurum) | isim (d) | La abolición de la esclavitud fue un gran avance. | Köleliğin kaldırılması büyük bir ilerlemeydi.
+## İspanya ve Latin Amerika
+Al-Ándalus | Endülüs (Müslüman İspanya) | isim (e) | Al-Ándalus fue un centro de ciencia y cultura. | Endülüs bir bilim ve kültür merkeziydi.
+el califato | halifelik | isim (e) | El califato de Córdoba fue muy próspero. | Kurtuba Halifeliği çok müreffehti.
+los mayas | Mayalar | isim (çoğul) | Los mayas crearon un calendario muy preciso. | Mayalar çok hassas bir takvim yarattı.
+los aztecas | Aztekler | isim (çoğul) | Los aztecas fundaron Tenochtitlán. | Aztekler Tenochtitlan'ı kurdu.
+los incas | İnkalar | isim (çoğul) | Los incas construyeron Machu Picchu. | İnkalar Machu Picchu'yu inşa etti.
+el criollo | Kreol (Amerika doğumlu İspanyol soylu) | isim (e) | Los criollos lideraron la independencia. | Bağımsızlık hareketine Kreoller öncülük etti.
+la Armada | (İspanyol) donanması | isim (d) | La Armada española dominaba los mares. | İspanyol donanması denizlere hâkimdi.
+el galeón | kalyon | isim (e) | Los galeones llevaban plata a España. | Kalyonlar İspanya'ya gümüş taşıyordu.
+el Siglo de Oro | Altın Çağ (İspanyol sanatı) | isim (e) | El Siglo de Oro dio grandes escritores. | Altın Çağ büyük yazarlar yetiştirdi.
+la monarquía parlamentaria | parlamenter monarşi | isim (d) | España es una monarquía parlamentaria. | İspanya parlamenter monarşidir.
+## Tarihî süreçler
+fundar | kurmak | fiil | Los romanos fundaron muchas ciudades. | Romalılar birçok şehir kurdu.
+conquistar | fethetmek | fiil | Conquistaron la ciudad en un día. | Şehri bir günde fethettiler.
+gobernar (gobierno) | yönetmek | fiil · düzensiz | El rey gobernó cuarenta años. | Kral kırk yıl hüküm sürdü.
+reinar | hüküm sürmek | fiil | La reina reinó durante medio siglo. | Kraliçe yarım yüzyıl hüküm sürdü.
+derrocar | devirmek | fiil | El pueblo derrocó al tirano. | Halk zorbayı devirdi.
+la decadencia | çöküş, gerileme | isim (d) | El imperio entró en decadencia. | İmparatorluk gerilemeye girdi.
+el apogeo | doruk, altın dönem | isim (e) | La ciudad vivió su apogeo en el siglo dieciséis. | Şehir altın dönemini on altıncı yüzyılda yaşadı.
+el auge | yükseliş | isim (e) | El auge del comercio enriqueció el puerto. | Ticaretin yükselişi limanı zenginleştirdi.
+el legado | miras | isim (e) | El legado romano está en todas partes. | Roma mirası her yerde.
+la huella | iz | isim (d) | Los árabes dejaron una huella profunda en España. | Araplar İspanya'da derin bir iz bıraktı.

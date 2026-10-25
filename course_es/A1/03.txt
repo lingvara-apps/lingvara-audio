@@ -4,8 +4,8 @@ once | on bir | sayı | Tengo once años. | On bir yaşındayım.
 doce | on iki | sayı | Compro doce rosas. | On iki gül alıyorum.
 trece | on üç | sayı | Hay trece personas aquí. | Burada on üç kişi var.
 catorce | on dört | sayı | El libro tiene catorce capítulos. | Kitabın on dört bölümü var.
-quince | on beş | sayı | Son las quince horas. | Saat on beş.
-dieciséis | on altı | sayı | El niño tiene dieciséis años. | Çocuk on altı yaşında.
+quince | on beş | sayı | Espera quince minutos, por favor. | Lütfen on beş dakika bekle.
+dieciséis | on altı | sayı | Mi hermana tiene dieciséis años. | Kız kardeşim on altı yaşında.
 diecisiete | on yedi | sayı | Necesito diecisiete minutos. | On yedi dakikaya ihtiyacım var.
 dieciocho | on sekiz | sayı | Veo dieciocho pájaros. | On sekiz kuş görüyorum.
 diecinueve | on dokuz | sayı | Escribo diecinueve palabras. | On dokuz kelime yazıyorum.
@@ -16,7 +16,7 @@ cuarenta | kırk | sayı | El viaje dura cuarenta horas. | Yolculuk kırk saat s
 cincuenta | elli | sayı | Cuesta cincuenta euros. | Elli euro tutuyor.
 sesenta | altmış | sayı | Una hora tiene sesenta minutos. | Bir saat altmış dakikadır.
 setenta | yetmiş | sayı | Mi abuelo tiene setenta años. | Büyükbabam yetmiş yaşında.
-ochenta | seksen | sayı | El coche alcanza ochenta kilómetros. | Araba seksen kilometreye ulaşıyor.
+ochenta | seksen | sayı | El coche va a ochenta kilómetros por hora. | Araba saatte seksen kilometre hızla gidiyor.
 noventa | doksan | sayı | Leo noventa páginas. | Doksan sayfa okuyorum.
 cien | yüz | sayı | Cien estudiantes leen el libro. | Yüz öğrenci kitabı okuyor.
 doscientos | iki yüz | sayı | Hay doscientos invitados. | İki yüz davetli var.
@@ -29,10 +29,10 @@ jueves | perşembe | isim | El jueves leo un libro. | Perşembe günü bir kitap
 viernes | cuma | isim | El viernes por la noche descansamos. | Cuma akşamı dinleniyoruz.
 sábado | cumartesi | isim | El sábado voy al mercado. | Cumartesi günü pazara gidiyorum.
 domingo | pazar | isim | El domingo cocinamos juntos. | Pazar günü birlikte yemek pişiriyoruz.
-el fin de semana | hafta sonu | isim | Pasamos el fin de semana en casa. | Hafta sonunu evde geçiriyoruz.
+el fin de semana | hafta sonu | isim (e) | Pasamos el fin de semana en casa. | Hafta sonunu evde geçiriyoruz.
 hoy | bugün | zarf | Hoy es un día maravilloso. | Bugün harika bir gün.
 mañana | yarın | zarf | Mañana viajamos a otra ciudad. | Yarın başka bir şehre seyahat ediyoruz.
-## Aylar (ilkbahar ve yaz)
+## Aylar 1
 enero | ocak | isim | Enero es un mes frío. | Ocak soğuk bir aydır.
 febrero | şubat | isim | Febrero tiene veintiocho días. | Şubat yirmi sekiz gün çeker.
 marzo | mart | isim | En marzo florecen las flores. | Mart ayında çiçekler açar.
@@ -41,19 +41,19 @@ mayo | mayıs | isim | En mayo visitamos el parque. | Mayıs ayında parkı ziya
 junio | haziran | isim | Junio trae el verano. | Haziran yazı getirir.
 julio | temmuz | isim | En julio nadamos en el mar. | Temmuz ayında denizde yüzüyoruz.
 agosto | ağustos | isim | Agosto es un mes muy caluroso. | Ağustos çok sıcak bir aydır.
-septiembre | eylül | isim | En septiembre empieza el curso. | Eylül ayında kurs başlıyor.
+septiembre | eylül | isim (e) | En septiembre empieza el colegio. | Eylülde okul başlıyor.
 octubre | ekim | isim | En octubre las hojas caen. | Ekim ayında yapraklar düşer.
-## Aylar (sonbahar ve kış)
+## Aylar 2 ve zaman birimleri
 noviembre | kasım | isim | Noviembre trae nubes grises. | Kasım gri bulutlar getirir.
 diciembre | aralık | isim | Diciembre es el último mes. | Aralık son aydır.
-el año | yıl | isim | El año tiene doce meses. | Yılın on iki ayı vardır.
-el mes | ay | isim | Cada mes tiene cuatro semanas. | Her ayın dört haftası vardır.
-la semana | hafta | isim | La semana pasada viajé mucho. | Geçen hafta çok seyahat ettim.
-el día | gün | isim | Cada día aprendo algo nuevo. | Her gün yeni bir şey öğreniyorum.
-el minuto | dakika | isim | Un minuto tiene sesenta segundos. | Bir dakikanın altmış saniyesi vardır.
-el segundo | saniye | isim | Contamos cada segundo con alegría. | Her saniyeyi neşeyle sayıyoruz.
-el momento | an | isim | Este momento es inolvidable. | Bu an unutulmaz.
-el periodo | dönem | isim | Este periodo es muy importante. | Bu dönem çok önemlidir.
+el año | yıl | isim (e) | El año tiene doce meses. | Yılın on iki ayı vardır.
+el mes | ay | isim (e) | Cada mes tiene cuatro semanas. | Her ayın dört haftası vardır.
+la semana | hafta | isim (d) | La semana pasada viajé mucho. | Geçen hafta çok seyahat ettim.
+el día | gün | isim (e) | Cada día aprendo algo nuevo. | Her gün yeni bir şey öğreniyorum.
+el minuto | dakika | isim (e) | Un minuto tiene sesenta segundos. | Bir dakikanın altmış saniyesi vardır.
+el segundo | saniye | isim (e) | Espera un segundo, por favor. | Bir saniye bekle lütfen.
+el momento | an | isim (e) | Este momento es inolvidable. | Bu an unutulmaz.
+el periodo | dönem | isim (e) | Este periodo es muy importante. | Bu dönem çok önemlidir.
 ## Zaman kavramları
 temprano | erken | zarf | Me levanto temprano por la mañana. | Sabahları erken kalkıyorum.
 tarde | geç | zarf | Llegamos tarde a la cita. | Randevuya geç vardık.
@@ -63,49 +63,49 @@ a veces | bazen | zarf | A veces comemos en un restaurante. | Bazen bir restoran
 enseguida | hemen | zarf | Respondo enseguida a tu mensaje. | Mesajına hemen cevap veriyorum.
 ayer | dün | zarf | Ayer visité un museo antiguo. | Dün eski bir müzeyi ziyaret ettim.
 anoche | dün gece | zarf | Anoche leí un libro interesante. | Dün gece ilginç bir kitap okudum.
-pasado mañana | yarından sonra | zarf | Pasado mañana salimos de viaje. | Yarından sonra seyahate çıkıyoruz.
+pasado mañana | öbür gün | zarf | Pasado mañana salimos de viaje. | Öbür gün yolculuğa çıkıyoruz.
 anteayer | evvelsi gün | zarf | Anteayer compré un regalo especial. | Evvelsi gün özel bir hediye satın aldım.
 ## Saatler (Soru ve temel)
 ¿qué hora es? | saat kaç? | ifade | Disculpe, ¿qué hora es? | Affedersiniz, saat kaç?
 es la una | saat bir | ifade | Ahora es la una en punto. | Şimdi tam bir.
 son las dos | saat iki | ifade | Son las dos de la tarde. | Öğleden sonra saat iki.
 en punto | tam (saat) | ifade | El tren sale a las tres en punto. | Tren tam üçte hareket ediyor.
-y cuarto | buçuk geçe / çeyrek geçe | ifade | Son las cuatro y cuarto. | Dörde çeyrek geçiyor.
+y cuarto | çeyrek geçe | ifade | Son las cuatro y cuarto. | Dörde çeyrek geçiyor.
 y media | buçuk | ifade | Son las cinco y media. | Saat beş buçuk.
 menos cuarto | çeyrek kala | ifade | Son las seis menos cuarto. | Altıya çeyrek var.
-de la mañana | sabah (saati) | ifade | Son las ocho de la mañana. | Sabahın saat sekizi.
+de la mañana | sabah (saati) | ifade | Son las ocho de la mañana. | Saat sabah sekiz.
 de la tarde | öğleden sonra (saati) | ifade | Son las cinco de la tarde. | Öğleden sonra saat beş.
-de la noche | akşam (saati) | ifade | Son las nueve de la noche. | Akşamın saat dokuzu.
+de la noche | akşam (saati) | ifade | Son las nueve de la noche. | Saat akşam dokuz.
 ## Sıklık ve zaman zarfları
 frecuentemente | sık sık | zarf | Frecuentemente leo libros en español. | Sık sık İspanyolca kitaplar okuyorum.
 raramente | nadiren | zarf | Raramente veo películas de terror. | Nadiren korku filmleri izlerim.
 normalmente | normalde | zarf | Normalmente desayunamos pan con café. | Normalde kahvaltıda kahveli ekmek yeriz.
 generalmente | genellikle | zarf | Generalmente paseo por el parque. | Genellikle parkta yürüyüş yaparım.
-brevemente | kısaca | zarf | Explica la regla brevemente. | Kuralı kısaca açıkla.
+todavía | hâlâ; henüz | zarf | Todavía estoy en casa. | Hâlâ evdeyim.
 constantemente | sürekli | zarf | El viento sopla constantemente aquí. | Burada rüzgar sürekli esiyor.
 actualmente | şu anda, günümüzde | zarf | Actualmente trabajo en Madrid. | Şu anda Madrid'de çalışıyorum.
 finalmente | sonunda | zarf | Finalmente encontramos el camino correcto. | Sonunda doğru yolu bulduk.
-velozmente | hızlıca | zarf | El coche pasa velozmente por aquí. | Araba buradan hızla geçiyor.
-recientemente | son zamanlarda | zarf | Recientemente compré un coche nuevo. | Son zamanlarda yeni bir araba satın aldım.
+ahora | şimdi | zarf | Ahora no puedo hablar. | Şimdi konuşamam.
+recientemente | son zamanlarda | zarf | Recientemente compré un coche nuevo. | Geçenlerde yeni bir araba aldım.
 ## Mevsimler
-el curso | kurs, akış | isim | El curso académico empieza hoy. | Akademik kurs bugün başlıyor.
-la primavera | ilkbahar | isim | En primavera la naturaleza despierta. | İlkbaharda doğa uyanır.
-el verano | yaz | isim | El verano es muy caluroso. | Yaz çok sıcaktır.
-el otoño | sonbahar | isim | En otoño las hojas son amarillas. | Sonbaharda yapraklar sarıdır.
-el invierno | kış | isim | En invierno cae la nieve blanca. | Kışın beyaz kar yağar.
-el clima | iklim | isim | El clima de esta región es suave. | Bu bölgenin iklimi ılımandır.
-el tiempo | hava durumu | isim | El tiempo hoy está muy agradable. | Bugün hava çok güzel.
-el calor | sıcaklık, sıcak | isim | El calor del sol es fuerte. | Güneşin sıcaklığı güçlüdür.
-el frío | soğuk | isim | Siento mucho frío en invierno. | Kışın çok soğuk hissediyorum.
-el aguacero | sağanak yağmur | isim | Un fuerte aguacero cae sobre la ciudad. | Şehrin üzerine şiddetli bir sağanak yağıyor.
+la estación del año | mevsim | isim (d) | ¿Cuál es tu estación del año favorita? | En sevdiğin mevsim hangisi?
+la primavera | ilkbahar | isim (d) | En primavera la naturaleza despierta. | İlkbaharda doğa uyanır.
+el verano | yaz | isim (e) | El verano es muy caluroso. | Yaz çok sıcaktır.
+el otoño | sonbahar | isim (e) | En otoño las hojas son amarillas. | Sonbaharda yapraklar sarıdır.
+el invierno | kış | isim (e) | En invierno cae la nieve blanca. | Kışın beyaz kar yağar.
+el clima | iklim | isim (e) | El clima de esta región es suave. | Bu bölgenin iklimi ılımandır.
+el tiempo | hava (durumu); zaman | isim (e) | El tiempo hoy está muy agradable. | Bugün hava çok güzel.
+el calor | sıcaklık, sıcak | isim (e) | El calor del sol es fuerte. | Güneşin sıcaklığı güçlüdür.
+el frío | soğuk | isim (e) | Siento mucho frío en invierno. | Kışın çok soğuk hissediyorum.
+la temperatura | sıcaklık (derece) | isim (d) | Hoy la temperatura es de veinte grados. | Bugün sıcaklık yirmi derece.
 ## Tarihler ve takvim
-la fecha | tarih | isim | Escribe la fecha en el papel. | Tarihi kağıda yaz.
-el calendario | takvim | isim | Miro el calendario de la pared. | Duvardaki takvime bakıyorum.
-la cita | randevu | isim | Tengo una cita importante hoy. | Bugün önemli bir randevum var.
-el plazo | süre, vade | isim | El plazo termina mañana. | Süre yarın bitiyor.
-la época | dönem, devir | isim | Esta época del año es hermosa. | Yılın bu dönemi güzeldir.
-el siglo | yüzyıl, asır | isim | Vivimos en el siglo veintiuno. | Yirmi birinci yüzyılda yaşıyoruz.
-la década | on yıl | isim | Fue una década muy interesante. | Çok ilginç bir on yıldı idi.
-el cumpleaños | doğum günü | isim | Hoy es mi feliz cumpleaños. | Bugün benim mutlu doğum günüm.
-la fiesta | bayram, parti | isim | La fiesta empieza a las ocho. | Parti saat sekizde başlıyor.
-el aniversario | yıl dönümü | isim | Celebramos nuestro aniversario hoy. | Bugün yıl dönümümüzü kutluyoruz.
+la fecha | tarih | isim (d) | Escribe la fecha en el papel. | Tarihi kağıda yaz.
+el calendario | takvim | isim (e) | Miro el calendario de la pared. | Duvardaki takvime bakıyorum.
+la cita | randevu | isim (d) | Tengo una cita importante hoy. | Bugün önemli bir randevum var.
+el plazo | süre, vade | isim (e) | El plazo termina mañana. | Süre yarın bitiyor.
+la época | dönem, devir | isim (d) | Esta época del año es hermosa. | Yılın bu dönemi güzeldir.
+el siglo | yüzyıl, asır | isim (e) | Vivimos en el siglo veintiuno. | Yirmi birinci yüzyılda yaşıyoruz.
+la década | on yıl | isim (d) | Fue una década muy interesante. | Çok ilginç bir on yıldı.
+el cumpleaños | doğum günü | isim (e) | Hoy es mi cumpleaños. | Bugün benim doğum günüm.
+la fiesta | bayram, parti | isim (d) | La fiesta empieza a las ocho. | Parti saat sekizde başlıyor.
+el aniversario | yıl dönümü | isim (e) | Celebramos nuestro aniversario hoy. | Bugün yıl dönümümüzü kutluyoruz.

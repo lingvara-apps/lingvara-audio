@@ -1,111 +1,111 @@
 # UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
-## Yazılım dünyası
-el código fuente | kaynak kod | isim (o) | El programador analiza el código fuente en su ordenador. | Programcı bilgisayarında kaynak kodu inceler.
-la compilación | derleme | isim (d) | La compilación del programa finalizó sin ningún error. | Programın derlenmesi hiçbir hata olmadan tamamlandı.
-el algoritmo | algoritma | isim (o) | Este algoritmo calcula la ruta más corta muy rápido. | Bu algoritma en kısa rotayı çok hızlı hesaplar.
-la base de datos relacional | ilişkisel veri tabanı | isim (d) | Guardamos la información clave en la base de datos relacional. | Anahtar bilgileri ilişkisel veri tabanında saklarız.
-el lenguaje de programación | programlama dili | isim (o) | Python es un lenguaje de programación muy popular ahora. | Python şu sıralar çok popüler bir programlama dilidir.
-la función recursiva | özyinelemeli fonksiyon | isim (d) | Comprender esta función recursiva requiere bastante lógica. | Bu özyinelemeli fonksiyonu anlamak epey mantık gerektirir.
-el repositorio de código | kod deposu | isim (o) | Subimos las modificaciones recientes al repositorio de código. | Son değişiklikleri kod deposuna yüklüyoruz.
-la variable global | global değişken | isim (d) | Es mejor no abusar del uso de la variable global. | Global değişkenin kullanımını abartmamak daha iyidir.
-el entorno virtual | sanal ortam | isim (o) | Activamos el entorno virtual antes de instalar las librerías. | Kütüphaneleri kurmadan önce sanal ortamı etkinleştiriyoruz.
-el depurador de errores | hata ayıklayıcı | isim (o) | El depurador de errores facilita hallar fallos ocultos. | Hata ayıklayıcı gizli kusurları bulmayı kolaylaştırır.
+## Yazılım
+el software | yazılım | isim (e) | Este software es gratuito. | Bu yazılım ücretsiz.
+el hardware | donanım | isim (e) | El hardware de este ordenador es muy antiguo. | Bu bilgisayarın donanımı çok eski.
+programar | kod yazmak; programlamak | fiil | Mi hermana aprende a programar. | Kız kardeşim kod yazmayı öğreniyor.
+el código fuente | kaynak kod | isim (e) | El código fuente de este programa es abierto. | Bu programın kaynak kodu açık.
+el lenguaje de programación | programlama dili | isim (e) | Aprendo un lenguaje de programación nuevo. | Yeni bir programlama dili öğreniyorum.
+el fallo | hata, arıza | isim (e) | Hay un fallo en la aplicación. | Uygulamada bir hata var.
+la versión | sürüm | isim (d) | Descarga la última versión. | Son sürümü indir.
+la pantalla de inicio | ana ekran | isim (d) | Pon el icono en la pantalla de inicio. | Simgeyi ana ekrana koy.
+el menú | menü | isim (e) | Abre el menú de configuración. | Ayarlar menüsünü aç.
+desarrollar | geliştirmek | fiil | Desarrollan una aplicación para aprender idiomas. | Dil öğrenmek için bir uygulama geliştiriyorlar.
+## İnternet kullanımı
+el router | modem, yönlendirici | isim (e) | Reinicia el router si no hay conexión. | Bağlantı yoksa modemi yeniden başlat.
+la banda ancha | geniş bant | isim (d) | Tenemos banda ancha en casa. | Evde geniş bant internetimiz var.
+la fibra óptica | fiber optik | isim (d) | Instalaron fibra óptica en el edificio. | Binaya fiber optik bağlandı.
+los datos móviles | mobil veri | isim (çoğul) | Me quedé sin datos móviles. | Mobil verim bitti.
+el almacenamiento en la nube | bulut depolama | isim (e) | Guardo mis fotos en el almacenamiento en la nube. | Fotoğraflarımı bulut depolamada saklıyorum.
+la dirección de correo | e-posta adresi | isim (d) | Escribe tu dirección de correo. | E-posta adresini yaz.
+el historial | (tarama) geçmişi | isim (e) | Borra el historial del navegador. | Tarayıcı geçmişini sil.
+las cookies | çerezler | isim (çoğul) | La web pide aceptar las cookies. | Site çerezleri kabul etmeni istiyor.
+registrarse | kaydolmak, üye olmak | fiil · dönüşlü | Para comprar tienes que registrarte. | Satın almak için kaydolman gerekiyor.
+iniciar sesión | oturum açmak | ifade | Inicia sesión con tu usuario. | Kullanıcı adınla oturum aç.
 ## Siber güvenlik
-la brecha de seguridad | güvenlik açığı | isim (d) | Detectaron una brecha de seguridad en el sistema central. | Merkezi sistemde bir güvenlik açığı tespit ettiler.
-el cortafuegos avanzado | gelişmiş güvenlik duvarı | isim (o) | El cortafuegos avanzado bloquea peticiones maliciosas externas. | Gelişmiş güvenlik duvarı dış kötü amaçlı istekleri engeller.
-la encriptación de datos | veri şifreleme | isim (d) | La encriptación de datos protege nuestra privacidad en línea. | Veri şifreleme çevrim içi gizliliğimizi korur.
-el ataque cibernetic | siber saldırı | isim (o) | La empresa resistió con éxito un fuerte ataque cibernético. | Şirket güçlü bir siber saldırıya başarıyla direndi.
-la contraseña robusta | güçlü şifre | isim (d) | Recomiendan usar una contraseña robusta para cada cuenta. | Her hesap için güçlü bir şifre kullanılmasını tavsiye ediyorlar.
-el malware espía | casus zararlı yazılım | isim (o) | Un malware espía afectó varios equipos de la oficina. | Bir casus zararlı yazılım ofisteki birkaç bilgisayarı etkiledi.
-la autenticación de dos pasos | iki aşamali kimlik doğrulama | isim (d) | Activamos la autenticación de dos pasos por mayor seguridad. | Daha fazla güvenlik için iki aşamalı kimlik doğrulamayı etkinleştirdik.
-el acceso no autorizado | yetkisiz erişim | isim (o) | El sistema emitió una alerta por un acceso no autorizado. | Sistem yetkisiz erişim nedeniyle bir uyarı yayınladı.
-la vulnerabilidad crítica | kritik zafiyet | isim (d) | Repararon la vulnerabilidad crítica antes del fin de semana. | Kritik zafiyeti hafta sonundan önce onardılar.
-el analito forense digital | dijital adli bilişim uzmanı | isim (o) | El analista forense digital examinó el disco duro dañado. | Dijital adli bilişim uzmanı hasarlı sabit diski inceledi.
-## Yapay zekâ ve veri bilimi
-la red neuronal artificial | yapay sinir ağı | isim (d) | Una red neuronal artificial imita el cerebro humano. | Yapay sinir ağı insan beyini taklit eder.
-el aprendizaje profundo | derinden öğrenme | isim (d) | El aprendizaje profundo revolucionó el reconocimiento visual. | Derin öğrenme görsel tanımada devrim yarattı.
-el modelo predictivo | tahmin modeli | isim (o) | Este modelo predictivo anticipa las tendencias del mercado. | Bu tahmin modeli pazar eğilimlerini önceden tahmin eder.
-la inteligencia artificial generativa | üretken yapay zekâ | isim (d) | La inteligencia artificial generativa crea textos muy naturales. | Üretken yapay zekâ çok doğal metinler oluşturur.
-el procesamiento del lenguaje natural | doğal dil işleme | isim (o) | El procesamiento del lenguaje natural ayuda a traducir textos. | Doğal dil işleme metinleri çevirmeye yardımcı olur.
-la muestra estadística | istatistiksel örneklem | isim (d) | Seleccionaron una muestra estadística amplia para el estudio. | Çalışma için geniş bir istatistiksel örneklem seçtiler.
-el sesgo algorítmico | algoritmik önyargı | isim (o) | Investigadores analizan cómo reducir el sesgo algorítmico. | Araştırmacılar algoritmik önyargının nasıl azaltılacağını inceliyor.
-la minería de datos | veri madenciliği | isim (d) | La minería de datos extrae patrones útiles de grandes volümenes. | Veri madenciliği büyük hacimlerden yararlı örüntüler çıkarır.
-el entrenamiento del modelo | model eğitimi | isim (o) | El entrenamiento del modelo tardó varias horas intensas. | Modelin eğitimi birkaç yoğun saat sürdü.
-la inferencia rápida | hızlı çıkarım | isim (d) | Buscan optimizar la inferencia rápida en dispositivos móviles. | Mobil cihazlarda hızlı çıkarımı optimize etmeyi amaçlıyorlar.
-## Uzay ve havacılık
-el telescopio espacial | uzay teleskobu | isim (o) | El telescopio espacial capturó galaxias muy lejanas. | Uzay teleskobu çok uzak galaksileri yakaladı.
-la nave tripulada | insanlı uzay aracı | isim (d) | Una nueva nave tripulada despegó hacia la estación orbital. | Yeni insanlı uzay aracı yörünge istasyonuna doğru fırlatıldı.
-el cohete propulsor | itici roket | isim (o) | El cohete propulsor cayó en el océano tras separarse. | İtici roket ayrıldıktan sonra okyanusa düştü.
-la órbita terrestre baja | alçak dünya yörüngesi | isim (d) | Muchos satélites operan en la órbita terrestre baja. | Birçok uydu alçak dünya yörüngesinde faaliyet gösterir.
-el rover marciano | mars gezgini | isim (o) | El rover marciano analiza rocas en la superficie roja. | Mars gezgini kırmızı yüzeydeki kayaları analiz ediyor.
-la estación espacial internacional | uluslararası uzay istasyonu | isim (d) | Astronautas de varios países viven en la estación espacial internacional. | Çeşitli ülkelerden astronotlar uluslararası uzay istasyonunda yaşıyor.
-el agujero negro supermasivo | süper kütleli kara delik | isim (o) | Detectaron ondas gravitacionales cerca de un agujero negro supermasivo. | Süper kütleli kara delik yakınında kütle çekim dalgaları tespit ettiler.
-la atmósfera galáctica | galaktik atmosfer | isim (d) | Estudian la atmósfera galáctica en busca de señales extrañas. | Garip sinyaller aramak için galaktik atmosferi inceliyorlar.
-el satélite meteorológico | meteoroloji uydusu | isim (o) | Un satélite meteorológico vigila las tormentas tropicales. | Bir meteoroloji uydusu tropikal fırtınaları izliyor.
-la sonda interplanetaria | gezegenler arası sonda | isim (d) | La sonda interplanetaria envió datos valiosos sobre Júpiter. | Gezegenler arası sonda Jüpiter hakkında değerli veriler gönderdi.
-## Otomasyon ve robotik
-el brazo robótico industrial | endüstriyel robot kol | isim (o) | El brazo robótico industrial ensambla piezas con precisión. | Endüstriyel robot kol parçaları hassasiyetle monte eder.
-la línea de producción automatizada | otomatik üretim hattı | isim (d) | La línea de producción automatizada acelera la fabricación masiva. | Otomatik üretim hattı seri üretimi hızlandırır.
-el sensor de proximidad | mesafe sensörü | isim (o) | Este sensor de proximidad evita que el robot choque contra muros. | Bu mesafe sensörü robotun duvarlara çarpmasını önler.
-la placa base integrada | entegre ana kart | isim (d) | Diseñaron una placa base integrada más pequeña y ligera. | Daha küçük ve hafif entegre bir ana kart tasarladılar.
-el circuito impreso flexible | esnek baskılı devre | isim (o) | El circuito impreso flexible permite doblar dispositivos modernos. | Esnek baskılı devre modern cihazların bükülmesine olanak tanır.
-la celda solar fotovoltaica | fotovoltaik güneş pili | isim (d) | Una celda solar fotovoltaica transforma luz en energía limpia. | Fotovoltaik güneş pili ışığı temiz enerjiye dönüştürür.
-el actuador neumático | pnömatik aktüatör | isim (o) | El actuador neumático mueve la compuerta con aire a presión. | Pnömatik aktüatör kapıyı basınçlı hava ile hareket ettirir.
-la interfaz hombre-máquina | insan-makine arayüzü | isim (d) | Mejoraron la interfaz hombre-máquina para facilitar su uso. | Kullanımını kolaylaştırmak için insan-makine arayüzünü geliştirdiler.
-el sistema embebido | gömülü sistem | isim (o) | Cada electrodoméstico inteligente incluye un pequeño sistema embebido. | Her akıllı ev aleti küçük bir gömülü sistem içerir.
-la calibración automática | otomatik kalibrasyon | isim (d) | La calibración automática garantiza mediciones exactas siempre. | Otomatik kalibrasyon her zaman kesin ölçümler garanti eder.
-## Bulut bilişim
-el servidor remoto | uzak sunucu | isim (o) | Alojamos todas las páginas web en un servidor remoto rápido. | Tüm web sayfalarını hızlı bir uzak sunucuda barındırıyoruz.
-la copia de seguridad en la nube | bulut yedekleme | isim (d) | Realizamos una copia de seguridad en la nube cada medianoche. | Her gece yarısı bulutta bir yedekleme gerçekleştiriyoruz.
-el almacenamiento virtual | sanal depolama | isim (o) | El almacenamiento virtual permite acceder a archivos desde cualquier lugar. | Sanal depolama, dosyalara her yerden erişmeyi sağlar.
-la infraestructura como servicio | hizmet olarak altyapı | isim (d) | La empresa contrató infraestructura como servicio para escalar rápido. | Şirket hızlı büyümek için hizmet olarak altyapı kiraladı.
-el balanceador de carga | yük dengeleyici | isim (o) | Un balanceador de carga reparte el tráfico web eficientemente. | Bir yük dengeleyici web trafiğini verimli bir şekilde dağıtır.
-la plataforma escalable | ölçeklenebilir platform | isim (d) | Desarrollaron una plataforma escalable para millones de usuarios. | Milyonlarca kullanıcı için ölçeklenebilir bir platform geliştirdiler.
-el contenedor docker | docker konteyner | isim (o) | Usan un contenedor docker para aislar aplicaciones web. | Web uygulamalarını izole etmek için bir docker konteyner kullanıyorlar.
-la latencia de red | ağ gecikmesi | isim (d) | Reducir la latencia de red mejora la experiencia de videollamada. | Ağ gecikmesini azaltmak görüntülü arama deneyimini iyileştirir.
-el protocolo seguro | güvenli protokol | isim (o) | Configuraron el protocolo seguro para transferir datos bancarios. | Banka verilerini aktarmak için güvenli protokolü yapılandırdılar.
-la nube híbrida | melez bulut | isim (d) | Optaron por una nube híbrida combinando servidores locales y externos. | Yerel ve harici sunucuları birleştirerek melez bulutu tercih ettiler.
-## Mobil teknolojiler
-el sistema operativo móvil | mobil işletim sistemi | isim (o) | Este teléfono inteligente utiliza un sistema operativo móvil muy fluido. | Bu akıllı telefon çok akıcı bir mobil işletim sistemi kullanıyor.
-la aplicación nativa | yerel uygulama | isim (d) | Prefieren desarrollar una aplicación nativa para mejor rendimiento. | Daha iyi performans için yerel bir uygulama geliştirmeyi tercih ediyorlar.
-la pantalla táctil OLED | OLED dokunmatik ekran | isim (o) | La pantalla táctil OLED ofrece colores vivos y negros puros. | OLED dokunmatik ekran canlı renkler ve saf siyahlar sunar.
-la conectividad 5G | 5G bağlantısı | isim (d) | La conectividad 5G permite descargas ultrarrápidas en la calle. | 5G bağlantısı sokakta ultra hızlı indirmelere olanak tanır.
-el sensor biométrico | biyometrik sensör | isim (o) | El sensor biométrico reconoce la huella digital al instante. | Biyometrik sensör parmak izini anında tanır.
-la carga ultrarrápida | ultra hızlı şarj | isim (d) | La tecnología de carga ultrarrápida llena la batería en minutos. | Ultra hızlı şarj teknolojisi bataryayı dakikalar içinde doldurur.
-el procesador multinúcleo | çok çekirdekli işlemci | isim (o) | Un procesador multinúcleo ejecuta tareas pesadas sin trabarse. | Çok çekirdekli bir işlemci ağır görevleri takılmadan yürütür.
-la memoria RAM LPDDR | LPDDR RAM belleği | isim (d) | Incorpora una memoria RAM LPDDR de gran velocidad y eficiencia. | Büyük hız ve verimliliğe sahip bir LPDDR RAM belleği içerir.
-el módulo fotográfico | kamera modülü | isim (o) | El módulo fotográfico trasero incluye tres lentes profesionales. | Arka kamera modülü üç profesyonel lens içerir.
-la actualización de firmware | donanım yazılımı güncellemesi | isim (d) | Lanzaron una actualización de firmware para solucionar fallos menores. | Küçük hataları çözmek için bir donanım yazılımı güncellemesi yayınladılar.
-## Nesnelerin interneti
-el dispositivo conectado | bağlı cihaz | isim (o) | Cada dispositivo conectado emite datos hacia la red doméstica. | Her bağlı cihaz ev ağına veri iletir.
-el termostato inteligente | akıllı termostat | isim (d) | Programamos el termostato inteligente para ahorrar energía diaria. | Günlük enerji tasarrufu için akıllı termostatı programladık.
-la bombilla domótica | akıllı ampul | isim (o) | Controlamos el color de la bombilla domótica mediante la voz. | Akıllı ampulün rengini sesimizle kontrol ediyoruz.
-el enchufe inalambrico | kablosuz priz | isim (d) | Apagamos los aparatos distantes usando un enchufe inalámbrico. | Kablosuz priz kullanarak uzak cihazları kapatıyoruz.
-la cerradura biométrica | biyometrik kilit | isim (o) | La cerradura biométrica abre la puerta principal con tu huella. | Biyometrik kilit ön kapıyı parmak izinizle açar.
-el asistente de voz | sesli asistan | isim (d) | El asistente de voz responde preguntas sobre el tiempo actual. | Sesli asistan mevcut hava durumu hakkındaki soruları yanıtlar.
-la persiana automatizada | otomatik panjur | isim (o) | La persiana automatizada baja sola cuando sale el sol. | Otomatik panjur güneş doğduğunda kendiliğinden aşağı iner.
-el sensor de humedad ambiental | ortamsal nem sensörü | isim (d) | Este sensor de humedad ambiental activa el riego del jardín. | Bu ortamsal nem sensörü bahçe sulamasını etkinleştirir.
-el timbre con cámara | kameralı zil | isim (o) | El timbre con cámara muestra quién llama a la puerta principal. | Kameralı zil ön kapıyı kimin çaldığını gösterir.
-la pasarela domótica | akıllı ev ağ geçidi | isim (d) | La pasarela domótica coordina todos los aparatos inteligentes juntos. | Akıllı ev ağ geçidi tüm akıllı cihazları birlikte koordine eder.
-## Biyoteknoloji ve genetik
-el secuenciador de ADN | DNA dizileyici | isim (o) | El laboratorio adquirió un secuenciador de ADN de última generación. | Laboratuvar yeni nesil bir DNA dizileyici edindi.
-la edición genética CRISPR | CRISPR gen düzenleme | isim (d) | La técnica de edición genética CRISPR abre nuevas esperanzas médicas. | CRISPR gen düzenleme tekniği yeni tıbbi umutlar açıyor.
-el anticuerpo monoclonal | monoklonal antikor | isim (o) | Desarrollaron un anticuerpo monoclonal específico contra el virus. | Virüse karşı spesifik bir monoklonal antikor geliştirdiler.
-la proteína recombinante | rekombinant protein | isim (d) | Producen proteína recombinante usando cultivos celulares puros. | Saf hücre kültürleri kullanarak rekombinant protein üretiyorlar.
-el ensayo clínico avanzado | gelişmiş klinik deneme | isim (o) | El fármaco superó con éxito un ensayo clínico avanzado. | İlaç gelişmiş bir klinik denemeyi başarıyla geçti.
-la terapia génica | gen terapisi | isim (d) | La terapia génica busca corregir mutaciones hereditarias graves. | Gen terapisi kalıtsal ciddi mutasyonları düzeltmeyi amaçlar.
-el bioinformático experto | uzman biyoinformatikçi | isim (o) | El bioinformático experto analiza secuencias genéticas complejas. | Uzman biyoinformatikçi karmaşık genetik dizileri analiz eder.
-la enzima modificada | modifiye enzim | isim (d) | Crearon una enzima modificada capaz de degradar plásticos rápidamente. | Plastikleri hızla bozabilen modifiye bir enzim yarattılar.
-el cultivo celular | hücre kültürü | isim (o) | Mantienen el cultivo celular en condiciones estériles estrictas. | Hücre kültürünü sıkı steril koşullarda tutuyorlar.
-la molécula sintética | sentetik molekül | isim (d) | Sintetizaron una molécula sintética para combatir bacterias resistentes. | Dirençli bakterilerle savaşmak için sentetik bir molekül sentezlediler.
-## Quantum bilişim
-el ordenador cuántico | kuantum bilgisayar | isim (o) | Un ordenador cuántico procesa información usando cúbits complejos. | Bir kuantum bilgisayar karmaşık kübitler kullanarak bilgileri işler.
-el cúbit superconductor | süper iletken kübit | isim (d) | El cúbit superconductor requiere temperaturas extremadamente bajas. | Süper iletken kübit son derece düşük sıcaklıklar gerektirir.
-el entrelazamiento cuántico | kuantum dolanıklığı | isim (o) | El entrelazamiento cuántico conecta partículas de forma misteriosa. | Kuantum dolanıklığı parçacıkları gizemli bir şekilde birbirine bağlar.
-la criptografía poscuántica | kuantum sonrası kriptografi | isim (d) | Investigan en criptografía poscuántica para proteger futuros datos. | Gelecekteki verileri korumak için kuantum sonrası kriptografi araştırıyorlar.
-el algoritmo de Shor | Shor algoritması | isim (o) | El famoso algoritmo de Shor factoriza números grandes rápidamente. | Ünlü Shor algoritması büyük sayıları hızla çarpanlarına ayırır.
-la superposición cuántica | kuantum süperpozisyonu | isim (d) | La superposición cuántica permite evaluar múltiples estados a la vez. | Kuantum süperpozisyonu aynı anda birden fazla durumu değerlendirmeyi sağlar.
-el canal cuántico | kuantum kanalı | isim (o) | Transmiten claves secretas mediante un canal cuántico seguro. | Güvenli bir kuantum kanalı aracılığıyla gizli anahtarlar iletiyorlar.
-la decoherencia cuántica | kuantum dekoheransı | isim (d) | La decoherencia cuántica destruye la fragil información del cúbit. | Kuantum dekoheransı kırılgan kübit bilgisini yok eder.
-el simulador cuántico | kuantum simülatörü | isim (o) | Un simulador cuántico ayuda a entender moléculas complejas. | Bir kuantum simülatörü karmaşık molekülleri anlamaya yardımcı olur.
-la supremacía cuántica | kuantum üstünlüğü | isim (d) | Anunciaron un hito histórico alcanzando la supremacía cuántica. | Kuantum üstünlüğüne ulaşarak tarihi bir dönüm noktası duyurdular.
+el ciberataque | siber saldırı | isim (e) | La empresa sufrió un ciberataque. | Şirket bir siber saldırıya uğradı.
+la suplantación de identidad | kimlik taklidi, kimlik avı | isim (d) | Cuidado con la suplantación de identidad. | Kimlik taklidine dikkat et.
+el antivirus | antivirüs | isim (e) | Instala un buen antivirus. | İyi bir antivirüs kur.
+hackear | hacklemek | fiil | Le hackearon la cuenta. | Hesabını hacklediler.
+la verificación en dos pasos | iki adımlı doğrulama | isim (d) | Activa la verificación en dos pasos. | İki adımlı doğrulamayı etkinleştir.
+los datos personales | kişisel veriler | isim (çoğul) | Protege tus datos personales. | Kişisel verilerini koru.
+sospechoso | şüpheli | sıfat | No abras enlaces sospechosos. | Şüpheli bağlantıları açma.
+el robo de datos | veri hırsızlığı | isim (e) | Hubo un robo de datos en la tienda online. | İnternet mağazasında veri hırsızlığı oldu.
+la huella digital | parmak izi | isim (d) | Desbloqueo el móvil con la huella digital. | Telefonun kilidini parmak iziyle açıyorum.
+el reconocimiento facial | yüz tanıma | isim (e) | El móvil tiene reconocimiento facial. | Telefonda yüz tanıma var.
+## Yapay zekâ
+el asistente virtual | sanal asistan | isim (e) | El asistente virtual me pone la alarma. | Sanal asistan alarmımı kuruyor.
+el chatbot | sohbet botu | isim (e) | El banco usa un chatbot para responder preguntas. | Banka soruları yanıtlamak için sohbet botu kullanıyor.
+automático | otomatik | sıfat | La puerta es automática. | Kapı otomatik.
+el aprendizaje automático | makine öğrenmesi | isim (e) | El aprendizaje automático necesita muchos datos. | Makine öğrenmesi çok veri gerektirir.
+la máquina | makine | isim (d) | Las máquinas hacen trabajos peligrosos. | Makineler tehlikeli işler yapıyor.
+sustituir (sustituyo) | yerini almak | fiil · düzensiz | ¿Sustituirán los robots a las personas? | Robotlar insanların yerini alacak mı?
+la traducción automática | makine çevirisi | isim (d) | La traducción automática todavía comete errores. | Makine çevirisi hâlâ hata yapıyor.
+el reconocimiento de voz | ses tanıma | isim (e) | El coche tiene reconocimiento de voz. | Arabada ses tanıma var.
+generar | üretmek, oluşturmak | fiil | La aplicación genera imágenes. | Uygulama görseller üretiyor.
+la ética | etik | isim (d) | La ética de la inteligencia artificial es un tema importante. | Yapay zekâ etiği önemli bir konu.
+## Uzay
+el astronauta | astronot | isim (e) | El astronauta pasó seis meses en el espacio. | Astronot uzayda altı ay geçirdi.
+el cohete | roket | isim (e) | El cohete despegó a las ocho. | Roket saat sekizde fırlatıldı.
+la nave espacial | uzay gemisi | isim (d) | La nave espacial llegó a la Luna. | Uzay gemisi Ay'a ulaştı.
+la órbita | yörünge | isim (d) | El satélite está en órbita. | Uydu yörüngede.
+el telescopio | teleskop | isim (e) | Miramos la Luna con un telescopio. | Ay'a teleskopla baktık.
+la estación espacial | uzay istasyonu | isim (d) | Hay astronautas en la estación espacial. | Uzay istasyonunda astronotlar var.
+Marte | Mars | isim (e) | Quieren enviar personas a Marte. | Mars'a insan göndermek istiyorlar.
+el meteorito | göktaşı | isim (e) | Un meteorito cayó en el desierto. | Çöle bir göktaşı düştü.
+el agujero negro | kara delik | isim (e) | Los científicos estudian los agujeros negros. | Bilim insanları kara delikleri inceliyor.
+la gravedad | yerçekimi; ciddiyet | isim (d) | En el espacio no hay gravedad. | Uzayda yerçekimi yok.
+## Cihazlar
+el dispositivo | cihaz | isim (e) | Apaga todos los dispositivos por la noche. | Geceleri bütün cihazları kapat.
+el reloj inteligente | akıllı saat | isim (e) | Mi reloj inteligente cuenta los pasos. | Akıllı saatim adımları sayıyor.
+el lector de libros electrónicos | e-kitap okuyucu | isim (e) | Leo novelas en mi lector de libros electrónicos. | Romanları e-kitap okuyucumda okuyorum.
+la impresora 3D | 3D yazıcı | isim (d) | Imprimimos piezas con una impresora 3D. | 3D yazıcıyla parçalar basıyoruz.
+la consola | oyun konsolu | isim (d) | Los niños juegan con la consola. | Çocuklar oyun konsoluyla oynuyor.
+el mando a distancia | uzaktan kumanda | isim (e) | ¿Dónde está el mando a distancia? | Kumanda nerede?
+la pantalla táctil | dokunmatik ekran | isim (d) | La pantalla táctil no responde. | Dokunmatik ekran tepki vermiyor.
+el procesador | işlemci | isim (e) | Este ordenador tiene un procesador muy rápido. | Bu bilgisayarın çok hızlı bir işlemcisi var.
+la capacidad | kapasite; yetenek | isim (d) | El disco tiene mucha capacidad. | Diskin kapasitesi çok yüksek.
+el adaptador | adaptör | isim (e) | Necesito un adaptador para el enchufe. | Priz için bir adaptöre ihtiyacım var.
+## Akıllı ev
+la casa inteligente | akıllı ev | isim (d) | En una casa inteligente controlas la luz con el móvil. | Akıllı evde ışığı telefonla kontrol edersin.
+el termostato | termostat | isim (e) | Bajo el termostato por la noche. | Geceleri termostatı düşürürüm.
+la alarma | alarm | isim (d) | Pon la alarma a las siete. | Alarmı yediye kur.
+el sensor | sensör | isim (e) | La luz tiene un sensor de movimiento. | Işığın hareket sensörü var.
+el robot aspirador | robot süpürge | isim (e) | El robot aspirador limpia mientras trabajo. | Ben çalışırken robot süpürge temizlik yapıyor.
+la domótica | ev otomasyonu | isim (d) | La domótica ayuda a ahorrar energía. | Ev otomasyonu enerji tasarrufuna yardımcı oluyor.
+el timbre | kapı zili | isim (e) | Sonó el timbre. | Kapı zili çaldı.
+la cámara de seguridad | güvenlik kamerası | isim (d) | Hay una cámara de seguridad en la entrada. | Girişte bir güvenlik kamerası var.
+el cargador inalámbrico | kablosuz şarj cihazı | isim (e) | Pongo el móvil en el cargador inalámbrico. | Telefonu kablosuz şarj cihazına koyuyorum.
+la bombilla LED | LED ampul | isim (d) | Cambiamos todas las bombillas por bombillas LED. | Bütün ampulleri LED ampullerle değiştirdik.
+## Teknoloji ve toplum
+la brecha digital | dijital uçurum | isim (d) | La brecha digital afecta a las personas mayores. | Dijital uçurum yaşlıları etkiliyor.
+conectado | bağlı, çevrimiçi | sıfat | Siempre estoy conectado al móvil. | Hep telefona bağlıyım.
+la desconexión digital | dijital detoks | isim (d) | Los fines de semana practico la desconexión digital. | Hafta sonları dijital detoks yapıyorum.
+el invento | buluş, icat | isim (e) | La rueda fue un gran invento. | Tekerlek büyük bir icattı.
+el inventor | mucit | isim (e) | El inventor presentó su máquina. | Mucit makinesini tanıttı.
+tecnológico | teknolojik | sıfat | Vivimos en una era tecnológica. | Teknolojik bir çağda yaşıyoruz.
+obsoleto | eskimiş, modası geçmiş | sıfat | Este ordenador ya está obsoleto. | Bu bilgisayar artık eskimiş.
+la revolución | devrim | isim (d) | Internet fue una revolución. | İnternet bir devrimdi.
+la videollamada | görüntülü arama | isim (d) | Hablo con mi familia por videollamada. | Ailemle görüntülü arama yoluyla konuşuyorum.
+el tiempo de pantalla | ekran süresi | isim (e) | Los niños tienen mucho tiempo de pantalla. | Çocukların ekran süresi çok fazla.
+## Teknik sorunlar
+bloquearse | donmak (cihaz) | fiil · dönüşlü | El ordenador se bloqueó otra vez. | Bilgisayar yine dondu.
+sin cobertura | çekmiyor (telefon) | ifade | Aquí estoy sin cobertura. | Burada telefonum çekmiyor.
+el mensaje de error | hata mesajı | isim (e) | Aparece un mensaje de error. | Bir hata mesajı çıkıyor.
+la caída del sistema | sistem çökmesi | isim (d) | Hubo una caída del sistema en el banco. | Bankada sistem çöktü.
+recuperar | geri almak, kurtarmak | fiil | No puedo recuperar los archivos borrados. | Silinen dosyaları geri alamıyorum.
+restablecer (restablezco) | sıfırlamak; yeniden kurmak | fiil · düzensiz | Restablece la contraseña desde el correo. | Şifreni e-postadan sıfırla.
+el soporte técnico | teknik destek | isim (e) | Llama al soporte técnico. | Teknik desteği ara.
+compatible | uyumlu | sıfat | Este cargador no es compatible con mi móvil. | Bu şarj aleti telefonumla uyumlu değil.
+infectado | virüslü, enfekte | sıfat | El ordenador está infectado. | Bilgisayar virüslü.
+el espacio libre | boş alan | isim (e) | No tengo espacio libre en el móvil. | Telefonumda boş yer yok.
+## Bilim ve icatlar
+el hallazgo | bulgu, keşif | isim (e) | El hallazgo sorprendió a los investigadores. | Bulgu araştırmacıları şaşırttı.
+la patente | patent | isim (d) | Registró la patente de su invento. | Buluşunun patentini aldı.
+el prototipo | prototip | isim (e) | Presentaron el prototipo de un coche eléctrico. | Elektrikli bir otomobilin prototipini tanıttılar.
+el coche eléctrico | elektrikli araba | isim (e) | Cada vez hay más coches eléctricos. | Giderek daha fazla elektrikli araba var.
+la nanotecnología | nanoteknoloji | isim (d) | La nanotecnología tiene muchas aplicaciones médicas. | Nanoteknolojinin birçok tıbbi uygulaması var.
+el descubrimiento | keşif | isim (e) | Fue un descubrimiento muy importante. | Çok önemli bir keşifti.
+la genética | genetik | isim (d) | La genética explica muchas enfermedades. | Genetik birçok hastalığı açıklıyor.
+el ADN | DNA | isim (e) | La policía analizó el ADN. | Polis DNA'yı analiz etti.
+la biotecnología | biyoteknoloji | isim (d) | La biotecnología crea nuevos medicamentos. | Biyoteknoloji yeni ilaçlar üretiyor.
+experimental | deneysel | sıfat | Es un tratamiento experimental. | Bu deneysel bir tedavi.

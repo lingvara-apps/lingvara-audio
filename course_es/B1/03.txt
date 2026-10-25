@@ -1,15 +1,15 @@
 # UNIT: Eğitim ve bilim | Üniversite, araştırma, bilimsel dil
 ## Üniversite hayatı
-la facultad | fakülte | isim (d) | Estudió en la facultad de medicina. | Tıp fakültesinde okudu.
+la licenciatura | lisans (derecesi) | isim (d) | Tiene una licenciatura en Economía. | Ekonomi lisans diploması var.
 el campus | kampüs | isim (e) | El campus universitario es muy grande. | Üniversite kampüsü çok büyük.
-la beca | burs | isim (d) | Obtuvo una beca para investigar. | Araştırma yapmak için burs aldı.
-el examen | sınav | isim (e) | Mañana tengo un examen importante. | Yarın önemli bir sınavım var.
-la nota | not (sınav notu) | isim (d) | Sacó una buena nota en la prueba. | Sınavdan iyi bir not aldı.
-el título | diploma, unvan | isim (e) | Recibió su título universitario hoy. | Bugün üniversite diplomasını aldı.
-el alumno | öğrenci, okul çocuğu | isim (e) | El alumno lee un libro en la biblioteca. | Öğrenci kütüphanede bir kitap okuyor.
+el doctorado | doktora | isim (e) | Está haciendo el doctorado en física. | Fizik doktorası yapıyor.
+la prueba de acceso | üniversite giriş sınavı | isim (d) | Aprobó la prueba de acceso a la universidad. | Üniversite giriş sınavını geçti.
+la media | not ortalaması; ortalama | isim (d) | Tiene una media de ocho. | Not ortalaması sekiz.
+el expediente académico | not dökümü, transkript | isim (e) | Pidió su expediente académico en secretaría. | Öğrenci işlerinden not dökümünü istedi.
+el universitario | üniversiteli | isim (e) | Muchos universitarios trabajan los fines de semana. | Birçok üniversiteli hafta sonları çalışıyor.
 el docente | öğretmen, eğitmen | isim (e) | El docente explica la lección claramente. | Öğretmen dersi açıkça anlatıyor.
-la clase | ders, sınıf | isim (d) | La clase empieza a las ocho en punto. | Ders tam saat sekizde başlıyor.
-la asignatura | ders (müfredat dersi) | isim (d) | Esta asignatura es muy interesante. | Bu ders çok ilginç.
+el semestre | yarıyıl, dönem | isim (e) | Este semestre tengo seis asignaturas. | Bu dönem altı dersim var.
+la secretaría | öğrenci işleri; sekreterlik | isim (d) | Pregunta en la secretaría de la facultad. | Fakültenin öğrenci işlerine sor.
 ## Akademik çalışmalar
 el trabajo | çalışma, ödev | isim (e) | El trabajo sobre el clima duró años. | İklim üzerine çalışma yıllar sürdü.
 la investigación | araştırma | isim (d) | Su investigación aporta datos nuevos. | Araştırması yeni veriler sağlıyor.
@@ -28,84 +28,84 @@ la página | sayfa | isim (d) | Abra el libro en la página diez. | Kitabı onun
 el término | kelime, terim | isim (e) | No conoce el significado de este término. | Bu terimin anlamını bilmiyor.
 la definición | tanım | isim (d) | Buscó la definición en el diccionario. | Tanımı sözlükte aradı.
 el resumen | özet | isim (e) | Escribió un resumen corto del ensayo. | Denemenin kısa bir özetini yazdı.
-el informe | rapor | isim (e) | Entregará el informe final esta tarde. | Son raporu bu öğleden sonra teslim edecek.
+el artículo | makale; madde | isim (e) | Leí un artículo sobre el cambio climático. | İklim değişikliği hakkında bir makale okudum.
 el autor | yazar | isim (e) | El autor firmó ejemplares de su libro. | Yazar kitabından örnekler imzaladı.
 la edición | basım, baskı | isim (d) | Esta es la segunda edición revisada. | Bu, gözden geçirilmiş ikinci baskıdır.
-el capítulo | bölüm (kitap vb.) | isim (e) | El primer capítulo resulta muy atrapante. | İlk bölüm oldukça sürükleyici çıkıyor.
+el capítulo | bölüm (kitap) | isim (e) | El primer capítulo es muy interesante. | İlk bölüm çok ilginç.
 ## Bilim ve bilgi
-la ciencia | bilim | isim (d) | La ciencia avanza gracias a la curiosidad. | Bilim merdiven sayesinde ilerliyor.
+la ciencia | bilim | isim (d) | La ciencia avanza gracias a la curiosidad. | Bilim merak sayesinde ilerler.
 la física | fizik | isim (d) | Estudia las leyes de la física cuántica. | Kuantum fiziğinin yasalarını inceliyor.
 la química | kimya | isim (d) | La química experimental requiere cuidado. | Deneysel kimya dikkat gerektiriyor.
-la biología | biyoloji | isim (d) | La biología cellular es un campo fascinant. | Hücre biyolojisi büyüleyici bir alandır.
-la matemática | matematik | isim (d) | Resolver este problema matemático toma tiempo. | Bu matematik problemini çözmek zaman alıyor.
+la biología | biyoloji | isim (d) | La biología celular es un campo fascinante. | Hücre biyolojisi büyüleyici bir alandır.
+las matemáticas | matematik | isim (çoğul) | Las matemáticas no son mi fuerte. | Matematik benim güçlü yanım değil.
 la historia | tarih | isim (d) | La historia antigua guarda muchos secretos. | Antik tarih pek çok sır saklıyor.
 la geografía | coğrafya | isim (d) | Analizan la geografía de la región andina. | And bölgesi coğrafyasını inceliyorlar.
 la astronomía | astronomi | isim (d) | La astronomía observa galaxias lejanas. | Astronomi uzak galaksileri gözlemliyor.
-la tecnología | teknoloji | isim (d) | La tecnología moderna cambia muy deprisa. | Modern teknoloji çok çabuk değişiyor.
-el progreso | yenilik, ilerleme | isim (e) | Su progreso tecnológico sorprendió a todos. | Teknolojik ilerlemesi herkesi şaşırttı.
+la medicina | tıp; ilaç | isim (d) | Mi hermana estudia medicina. | Kız kardeşim tıp okuyor.
+la ingeniería | mühendislik | isim (d) | La ingeniería civil diseña puentes y carreteras. | İnşaat mühendisliği köprü ve yol tasarlar.
 ## Bilimsel yöntem
 observar | gözlemlemek | fiil | Debes observar el fenómeno con calma. | Fenomeni sakinlikle gözlemlemelisin.
 analizar | analiz etmek, incelemek | fiil | Van a analizar las muestras de agua. | Su numunelerini analiz edecekler.
 comparar | karşılaştırmak | fiil | Es útil comparar datos de diferentes años. | Farklı yılların verilerini karşılaştırmak yararlıdır.
 demostrar | kanıtlamak, göstermek | fiil | Logró demostrar su teoría ante el jurado. | Teorisini jüri önünde kanıtlamayı başardı.
 concluir | sonuçlandırmak, bitirmek | fiil | El comité va a concluir el estudio pronto. | Komite çalışmayı yakında sonuçlandıracak.
-publicar | yayımlamak | fiil | Decidió publicar su artículo en una revista. | Makalesini bir dergide yayımlamaya karar verdi.
+medir (mido) | ölçmek | fiil · düzensiz | Hay que medir la temperatura cada hora. | Sıcaklığı her saat ölçmek gerekiyor.
 descubrir | keşfetmek | fiil | Científicos lograron descubrir una nueva especie. | Bilim insanları yeni bir tür keşfetmeyi başardılar.
 inventar | icat etmek | fiil | Buscan inventar un motor más ecológico. | Daha ekolojik bir motor icat etmeyi arıyorlar.
-resolver | çözmek (problem vb.) | fiil · düzensiz | El experto ayudó a resolver el caso difícil. | Uzman zor vakanın çözülmesine yardım etti.
+resolver (resuelvo) | çözmek | fiil · düzensiz | El experto ayudó a resolver el problema. | Uzman sorunun çözülmesine yardım etti.
 verificar | doğrulamak, teyit etmek | fiil | Tienen que verificar cada dato obtenido. | Elde edilen her veriyi doğrulamak zorundalar.
 ## Bilgi ve veri
 el dato | veri, bilgi | isim (e) | El sistema procesa cada dato con rapidez. | Sistem her veriyi hızla işliyor.
 la información | bilgi | isim (d) | Necesita más información para su trabajo. | Çalışması için daha fazla bilgiye ihtiyacı var.
 el registro | dosya, kayıt | isim (e) | Guardó el registro importante en la nube. | Önemli kaydı buluta kaydetti.
 la base | temel, taban | isim (d) | La base teórica debe ser muy sólida. | Teorik temel çok sağlam olmalı.
-el resultado | sonuç | isim (e) | El resultado superó todas las previsiones. | Sonuç tüm tahminleri aştı.
+la muestra | numune, örnek | isim (d) | Analizan una muestra de sangre. | Bir kan numunesini analiz ediyorlar.
 el método | yöntem | isim (e) | Este método pedagógico funciona muy bien. | Bu pedagojik yöntem çok iyi çalışıyor.
-el sistema | sistem | isim (e) | El nuevo sistema operativo es muy estable. | Yeni işletim sistemi oldukça kararlı.
+el fenómeno | olay, fenomen | isim (e) | Es un fenómeno natural muy raro. | Çok nadir görülen doğal bir olay.
 la técnica | teknik | isim (d) | Domina una técnica avanzada de pintura. | İleri düzey bir boyama tekniğine hakim.
-el proceso | süreç | isim (e) | El proceso de selección dura dos semanas. | Seçim süreci iki hafta sürüyor.
+el proceso | süreç | isim (e) | El proceso dura dos semanas. | Süreç iki hafta sürüyor.
 el avance | ilerleme, gelişme | isim (e) | Celebran un gran avance en medicina. | Tıpta büyük bir ilerlemeyi kutluyorlar.
 ## Sınıf ve derslik
 el aula | derslik, sınıf | isim (d) | El aula de historia tiene mapas antiguos. | Tarih dersliğinde eski haritalar var.
-la pizarra | yazı tahtası | isim (d) | El profesor escribe fórmulas en la pizarra. | Profesör tahtaya formüller yazıyor.
+los apuntes | ders notları | isim (çoğul) | ¿Me dejas tus apuntes de historia? | Tarih notlarını bana verir misin?
 el marcador | tahta kalemi | isim (e) | Usó un marcador azul para resaltar notas. | Notları vurgulamak için mavi bir kalem kullandı.
 el borrador | silgi (tahta silgisi) | isim (e) | Limpió la pizarra con el borrador limpio. | Tahtayı temiz silgiyle sildi.
 el pupitre | okul sırası, bank | isim (e) | Cada alumno tiene su propio pupitre limpio. | Her öğrencinin temiz kendi sırası var.
-el diccionario | sözlük | isim (e) | Busca términos difíciles en el diccionario. | Sözlükte zor terimleri arıyor.
+el subrayador | fosforlu kalem | isim (e) | Uso un subrayador amarillo para estudiar. | Ders çalışırken sarı fosforlu kalem kullanırım.
 el manual | el kitabı, ders kitabı | isim (e) | El manual de gramática resulta muy útil. | Dilbilgisi el kitabı çok yararlı çıkıyor.
-el expediente | dosya, evrak | isim (e) | Guarda sus apuntes en un expediente rojo. | Notlarını kırmızı bir dosyada saklıyor.
-el impreso | kağıt formu, basılı evrak | isim (e) | Escribió su respuesta en un impreso aparte. | Cevabını ayrı bir basılı kağıda yazdı.
+el esquema | şema, taslak | isim (e) | Hago un esquema antes de escribir. | Yazmadan önce bir taslak çıkarıyorum.
+la calculadora | hesap makinesi | isim (d) | No se puede usar calculadora en el examen. | Sınavda hesap makinesi kullanılamaz.
 el lapicero | tükenmez kalem | isim (e) | Prestó su lapicero negro a su compañero. | Siyah tükenmez kalemini arkadaşına ödünç verdi.
 ## Bilim insanları ve uzmanlar
 el científico | bilim insanı | isim (e) | El científico presentó su nuevo proyecto. | Bilim insanı yeni projesini sundu.
 el experto | uzman | isim (e) | El experto opinó sobre la crisis económica. | Uzman ekonomik kriz hakkında görüş bildirdi.
-el especialista_medico | hekim uzman, mütehassıs | isim (e) | Consultó a un especialista en neurología. | Nöroloji alanında bir uzmana danıştı.
+el sabio | bilge, âlim | isim (e) | Era un sabio respetado en su época. | Döneminde saygı gören bir âlimdi.
 el erudito | bilgin, alim | isim (e) | El erudito tradujo manuscritos antiguos. | Bilgin eski el yazmalarını çevirdi.
 el pensador | düşünür | isim (e) | El pensador escribió sobre la libertad. | Düşünür özgürlük üzerine yazdı.
-el académico | akademisyen | isim (e) | El académico dio una conferencia magistral. | Akademisyen ana konferans verdi.
+el académico | akademisyen | isim (e) | El académico dio una conferencia magistral. | Akademisyen önemli bir konferans verdi.
 el decano | dekan | isim (e) | El decano inauguró el nuevo año lectivo. | Dekan yeni öğretim yılını açtı.
 el rector | rektör | isim (e) | El rector firmó el acuerdo de cooperación. | Rektör işbirliği anlaşmasını imzaladı.
-el tutor | danışman (akademik) | isim (e) | Su tutor revisó el esquema de la tesis. | Danışmanı tezin taslağını gözden geçirdi.
-el compañero | meslektaş, arkadaş | isim (e) | Conversó con un compañero sobre el artículo. | Makale hakkında bir meslektaşıyla konuştu.
+el director de tesis | tez danışmanı | isim (e) | Mi director de tesis revisó el esquema. | Tez danışmanım taslağı gözden geçirdi.
+el colaborador | iş birlikçi, katkıda bulunan | isim (e) | Trabaja con varios colaboradores extranjeros. | Birçok yabancı iş birlikçiyle çalışıyor.
 ## Kütüphane ve kaynaklar
-el ateneo | kültür ocağı, kütüphane salonu | isim (e) | El ateneo municipal abre los domingos. | Belediye kültür merkezi pazar günleri açılıyor.
+la hemeroteca | süreli yayınlar arşivi | isim (d) | Busqué periódicos antiguos en la hemeroteca. | Eski gazeteleri süreli yayınlar arşivinde aradım.
 el anaquel | raf, kitaplık | isim (e) | Colocó los libros nuevos en el anaquel. | Yeni kitapları rafa yerleştirdi.
 la revista | dergi | isim (d) | Publicó su ensayo en una revista científica. | Denemesini bilimsel bir dergide yayımladı.
 el tomo | cilt (kitap) | isim (e) | Leyó el tercer tomo de la gran enciclopedia. | Büyük ansiklopedinin üçüncü cildini okudu.
 el ejemplar | nüsha, kopya | isim (e) | Solo queda un ejemplar de este libro raro. | Bu nadir kitaptan sadece bir nüsha kaldı.
 el catálogo | katalog | isim (e) | Revisó el catálogo digital de la librería. | Kitapçının dijital kataloğunu gözden geçirdi.
-el fichero | arşiv, fişlik | isim (e) | El fichero histórico guarda cartas de reyes. | Tarihi arşiv kralların mektuplarını saklıyor.
-el papel oficial | resmi belge | isim (e) | Presentó el papel oficial en la oficina. | Resmi belgeyi ofiste sundu.
-la fotocopia | fotokopi | isim (d) | Sacó una fotocopia de las páginas clave. | Ana sayfaların bir fotokopisini çekti.
-la lección_leída | okuma metni, ders okuması | isim (d) | Recomiendan esta lección leída para el examen. | Sınav için bu okuma parçasını tavsiye ediyorlar.
+la sala de lectura | okuma salonu | isim (d) | La sala de lectura está siempre en silencio. | Okuma salonu her zaman sessiz.
+la enciclopedia | ansiklopedi | isim (d) | Consulté la enciclopedia en la biblioteca. | Kütüphanede ansiklopediye baktım.
+el carné de biblioteca | kütüphane kartı | isim (e) | Necesitas el carné de biblioteca para sacar libros. | Kitap almak için kütüphane kartına ihtiyacın var.
+la lectura obligatoria | zorunlu okuma | isim (d) | Este libro es lectura obligatoria. | Bu kitap zorunlu okumalar arasında.
 ## Akademik kariyer
-estudiar_carrera | akademik okumak, tahsil yapmak | fiil | Desea estudiar biología marina en el futuro. | Gelecekte deniz biyolojisi okumak istiyor.
-adquirir_saber | bilgi edinmek, öğrenmek | fiil | Le gusta aprender idiomas extranjeros nuevos. | Yeni yabancı diller öğrenmeyi seviyor.
-enseñar | öğretmek | fiil | Disfruta enseñar matemáticas a los jóvenes. | Gençlere matematik öğretmekten hoşlanıyor.
-graduarse | mezun olmak | fiil · dönüşlü | Espera graduarse con honores este verano. | Bu yaz dereceyle mezun olmayı umuyor.
+matricularse | kaydolmak | fiil · dönüşlü | Me matriculé en Derecho. | Hukuka kaydoldum.
+adquirir (adquiero) | edinmek | fiil · düzensiz | Quiere adquirir experiencia en el extranjero. | Yurt dışında deneyim edinmek istiyor.
+licenciarse | lisans diploması almak | fiil · dönüşlü | Se licenció en Historia hace dos años. | İki yıl önce Tarih bölümünden mezun oldu.
+doctorarse | doktora yapmak | fiil · dönüşlü | Quiere doctorarse en química. | Kimya alanında doktora yapmak istiyor.
 investigar | araştırmak | fiil | Van a investigar el origen de la epidemia. | Salgının kökenini araştıracaklar.
 examinar | incelemek, sınav yapmak | fiil | El tribunal va a examinar su propuesta hoy. | Kurul bugün teklifini inceleyecek.
-intervenir | katılmak, müdahale etmek | fiil · düzensiz | Alumnos decidieron intervenir en el debate. | Öğrenciler tartışmaya katılmaya karar verdiler.
+intervenir (intervengo) | söz almak, müdahale etmek | fiil · düzensiz | Varios alumnos intervinieron en el debate. | Birkaç öğrenci tartışmada söz aldı.
 asistir | katılım göstermek, devam etmek | fiil | Debe asistir a todas las clases teóricas. | Tüm teorik derslere katılmak zorunda.
-exponer | sunmak, sergilemek | fiil · düzensiz | Va a exponer su tesis ante los profesores. | Tezin profesörler önünde sunacak.
+exponer (expongo) | sunmak, sergilemek | fiil · düzensiz | Va a exponer su tesis ante los profesores. | Tezini profesörlerin önünde sunacak.
 argumentar | savunmak, argüman sunmak | fiil | Supo argumentar muy bien su punto de vista. | Bakış açısını çok iyi savunmayı bildi.

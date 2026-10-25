@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Uzman hekimler
+el médico de cabecera | aile hekimi | isim (e) | Mi médico de cabecera me mandó al especialista. | Aile hekimim beni uzmana yönlendirdi.
+el cardiólogo | kardiyolog | isim (e) | El cardiólogo le hizo un electrocardiograma. | Kardiyolog ona EKG çekti.
+el dermatólogo | cildiye uzmanı | isim (e) | Fui al dermatólogo por una mancha en la piel. | Cildimdeki bir leke yüzünden cildiyeciye gittim.
+el pediatra | çocuk doktoru | isim (e) | La pediatra vacunó al bebé. | Çocuk doktoru bebeği aşıladı.
+el ginecólogo | kadın doğum uzmanı | isim (e) | Tiene cita con el ginecólogo el martes. | Salı günü kadın doğum uzmanından randevusu var.
+el traumatólogo | ortopedist | isim (e) | El traumatólogo le miró la rodilla. | Ortopedist dizine baktı.
+el neurólogo | nörolog | isim (e) | El neurólogo le pidió una resonancia. | Nörolog bir MR istedi.
+el oncólogo | onkolog | isim (e) | El oncólogo le explicó el tratamiento. | Onkolog ona tedaviyi açıkladı.
+el otorrino | kulak burun boğaz uzmanı | isim (e) | El otorrino le limpió los oídos. | KBB uzmanı kulaklarını temizledi.
+la matrona | ebe | isim (d) | La matrona ayudó en el parto. | Ebe doğuma yardım etti.
+## Ameliyat
+la cirugía | cerrahi | isim (d) | Necesita cirugía de urgencia. | Acil cerrahiye ihtiyacı var.
+operar | ameliyat etmek | fiil | Le operaron del corazón. | Kalp ameliyatı oldu.
+el anestesista | anestezi uzmanı | isim (e) | El anestesista habló con el paciente antes de la operación. | Anestezi uzmanı ameliyattan önce hastayla konuştu.
+el bisturí | neşter | isim (e) | El cirujano pidió el bisturí. | Cerrah neşteri istedi.
+la sutura | dikiş (tıbbi) | isim (d) | La sutura se retira en diez días. | Dikişler on gün içinde alınır.
+los puntos | dikişler | isim (çoğul) | Le pusieron seis puntos en la frente. | Alnına altı dikiş attılar.
+el postoperatorio | ameliyat sonrası dönem | isim (e) | El postoperatorio fue muy duro. | Ameliyat sonrası dönem çok zordu.
+la prótesis | protez | isim (d) | Le pusieron una prótesis de cadera. | Ona kalça protezi taktılar.
+la donación de órganos | organ bağışı | isim (d) | España es líder en donación de órganos. | İspanya organ bağışında lider.
+la transfusión | kan nakli | isim (d) | Necesitó una transfusión de sangre. | Kan nakline ihtiyaç duydu.
+## Kanser
+el tumor | tümör | isim (e) | Le detectaron un tumor pequeño. | Küçük bir tümör tespit ettiler.
+benigno | iyi huylu | sıfat | Por suerte, el tumor era benigno. | Neyse ki tümör iyi huyluydu.
+maligno | kötü huylu | sıfat | Las células malignas se multiplican rápido. | Kötü huylu hücreler hızla çoğalır.
+la metástasis | metastaz | isim (d) | No hay metástasis. | Metastaz yok.
+la quimioterapia | kemoterapi | isim (d) | Está recibiendo quimioterapia. | Kemoterapi alıyor.
+la radioterapia | radyoterapi, ışın tedavisi | isim (d) | Después de la operación hará radioterapia. | Ameliyattan sonra radyoterapi görecek.
+la biopsia | biyopsi | isim (d) | Los resultados de la biopsia llegan mañana. | Biyopsi sonuçları yarın geliyor.
+la remisión | remisyon, hastalığın gerilemesi | isim (d) | El cáncer está en remisión. | Kanser geriledi.
+incurable | tedavisi olmayan | sıfat | Hace un siglo era una enfermedad incurable. | Bir asır önce tedavisi olmayan bir hastalıktı.
+los cuidados paliativos | palyatif bakım | isim (çoğul) | Los cuidados paliativos alivian el dolor. | Palyatif bakım acıyı hafifletir.
+## Kronik hastalıklar
+crónico | kronik | sıfat | Sufre una enfermedad crónica. | Kronik bir hastalığı var.
+la hipertensión | yüksek tansiyon | isim (d) | La hipertensión no suele dar síntomas. | Yüksek tansiyon genelde belirti vermez.
+la tensión arterial | kan basıncı, tansiyon | isim (d) | La enfermera le tomó la tensión arterial. | Hemşire tansiyonunu ölçtü.
+el colesterol | kolesterol | isim (e) | Tiene el colesterol un poco alto. | Kolesterolü biraz yüksek.
+el asma | astım | isim (e) | Su hijo tiene asma y usa un inhalador. | Oğlunun astımı var ve inhaler kullanıyor.
+el alzhéimer | Alzheimer | isim (e) | Su abuela tiene alzhéimer. | Büyükannesinde Alzheimer var.
+la demencia | bunama | isim (d) | La demencia afecta a la memoria. | Bunama hafızayı etkiler.
+la artrosis | kireçlenme | isim (d) | La artrosis le duele en invierno. | Kireçlenme kışın ağrıyor.
+la insuficiencia renal | böbrek yetmezliği | isim (d) | Por la insuficiencia renal necesita diálisis. | Böbrek yetmezliği yüzünden diyalize ihtiyacı var.
+hereditario | kalıtsal | sıfat | Es una enfermedad hereditaria. | Kalıtsal bir hastalık.
+## Acil hastalıklar
+el ictus | felç, inme | isim (e) | Sufrió un ictus a los sesenta años. | Altmış yaşında inme geçirdi.
+la trombosis | tromboz, pıhtı | isim (d) | Los vuelos largos aumentan el riesgo de trombosis. | Uzun uçuşlar tromboz riskini artırır.
+la apendicitis | apandisit | isim (d) | La operaron de apendicitis. | Apandisit ameliyatı oldu.
+la hernia | fıtık | isim (d) | Tiene una hernia en la espalda. | Belinde fıtık var.
+la úlcera | ülser | isim (d) | El estrés le provocó una úlcera. | Stres ona ülser yaptı.
+agudo | akut, şiddetli | sıfat | Sentía un dolor agudo en el pecho. | Göğsünde şiddetli bir ağrı hissediyordu.
+la arritmia | ritim bozukluğu | isim (d) | El cardiólogo le detectó una arritmia. | Kardiyolog bir ritim bozukluğu tespit etti.
+la anemia | kansızlık | isim (d) | La anemia le produce cansancio. | Kansızlık ona yorgunluk veriyor.
+el esguince | burkulma | isim (e) | Se hizo un esguince en el tobillo. | Ayak bileğini burktu.
+la escayola | alçı | isim (d) | Lleva el brazo en escayola. | Kolu alçıda.
+## Bulaşıcı hastalıklar
+la pandemia | pandemi | isim (d) | La pandemia cambió nuestra forma de trabajar. | Pandemi çalışma şeklimizi değiştirdi.
+el brote | salgın başlangıcı, patlak verme | isim (e) | Hubo un brote de sarampión en el colegio. | Okulda kızamık salgını çıktı.
+el sarampión | kızamık | isim (e) | El sarampión es muy contagioso. | Kızamık çok bulaşıcıdır.
+la cepa | suş, varyant | isim (d) | Apareció una nueva cepa del virus. | Virüsün yeni bir suşu ortaya çıktı.
+el patógeno | patojen | isim (e) | Los patógenos pueden transmitirse por el aire. | Patojenler havayla bulaşabilir.
+contagiar | bulaştırmak | fiil | Me contagió la gripe mi hermano. | Gribi bana kardeşim bulaştırdı.
+propagarse | yayılmak | fiil · dönüşlü | El virus se propagó por todo el país. | Virüs tüm ülkeye yayıldı.
+la cuarentena | karantina | isim (d) | Estuvo diez días en cuarentena. | On gün karantinada kaldı.
+el confinamiento | sokağa çıkma kısıtlaması | isim (e) | Durante el confinamiento aprendí a cocinar. | Kısıtlama döneminde yemek yapmayı öğrendim.
+la hepatitis | hepatit | isim (d) | Hay vacuna contra la hepatitis B. | Hepatit B'ye karşı aşı var.
+## Bağışıklık ve aşı
+el sistema inmunitario | bağışıklık sistemi | isim (e) | El sistema inmunitario nos protege de las infecciones. | Bağışıklık sistemi bizi enfeksiyonlardan korur.
+las defensas | vücut direnci | isim (çoğul) | Tiene las defensas bajas. | Vücut direnci düşük.
+el anticuerpo | antikor | isim (e) | La vacuna genera anticuerpos. | Aşı antikor üretir.
+vacunar | aşılamak | fiil | Hay que vacunar a los niños. | Çocukları aşılamak gerekir.
+la vacunación | aşılama | isim (d) | La vacunación es gratuita. | Aşılama ücretsizdir.
+la dosis de refuerzo | rapel doz | isim (d) | Le pusieron la dosis de refuerzo. | Ona rapel doz yapıldı.
+el calendario de vacunas | aşı takvimi | isim (e) | Sigue el calendario de vacunas de tu hijo. | Çocuğunun aşı takvimine uy.
+la inmunidad de grupo | toplum bağışıklığı | isim (d) | Con la vacunación se busca la inmunidad de grupo. | Aşılamayla toplum bağışıklığı hedefleniyor.
+la contraindicación | kullanılmaması gereken durum | isim (d) | Lee las contraindicaciones antes de tomarlo. | Almadan önce kullanılmaması gereken durumları oku.
+la automedicación | kendi kendine ilaç kullanma | isim (d) | La automedicación es peligrosa. | Kendi kendine ilaç kullanmak tehlikelidir.
+## Tetkik ve tanı
+diagnosticar | teşhis koymak | fiil | Le diagnosticaron diabetes a los treinta. | Otuz yaşında ona diyabet teşhisi kondu.
+el análisis de sangre | kan tahlili | isim (e) | Hay que ir en ayunas al análisis de sangre. | Kan tahliline aç karnına gitmek gerekir.
+la ecografía | ultrason | isim (d) | En la ecografía vimos al bebé. | Ultrasonda bebeği gördük.
+el chequeo | check-up, genel kontrol | isim (e) | Se hace un chequeo cada año. | Her yıl check-up yaptırıyor.
+la detección precoz | erken teşhis | isim (d) | La detección precoz salva vidas. | Erken teşhis hayat kurtarır.
+el cribado | tarama | isim (e) | Hay un programa de cribado de cáncer de mama. | Meme kanseri tarama programı var.
+el historial médico | tıbbi geçmiş | isim (e) | El médico revisó su historial médico. | Doktor tıbbi geçmişini inceledi.
+el grupo sanguíneo | kan grubu | isim (e) | ¿Cuál es tu grupo sanguíneo? | Kan grubun ne?
+auscultar | dinlemek (steteskopla) | fiil | El médico le auscultó el pecho. | Doktor göğsünü dinledi.
+el estetoscopio | steteskop | isim (e) | Lleva el estetoscopio al cuello. | Steteskobu boynunda taşıyor.
+## Hastane süreçleri
+dar de alta | taburcu etmek | ifade | Le dieron de alta después de una semana. | Bir hafta sonra taburcu edildi.
+la baja médica | sağlık raporu, hastalık izni | isim (d) | Está de baja médica por la espalda. | Beli yüzünden hastalık iznindedir.
+la lista de espera | bekleme listesi | isim (d) | Lleva seis meses en lista de espera para operarse. | Ameliyat için altı aydır bekleme listesinde.
+el gotero | serum (damla) | isim (e) | Le pusieron un gotero en el brazo. | Koluna serum taktılar.
+la habitación individual | tek kişilik oda | isim (d) | Pidió una habitación individual. | Tek kişilik oda istedi.
+la recuperación | iyileşme | isim (d) | Le deseo una pronta recuperación. | Acil şifalar dilerim.
+el fisioterapeuta | fizyoterapist | isim (e) | El fisioterapeuta le dio unos ejercicios. | Fizyoterapist ona bazı egzersizler verdi.
+el fármaco | ilaç (etken) | isim (e) | Están probando un nuevo fármaco. | Yeni bir ilacı deniyorlar.
+el placebo | plasebo | isim (e) | La mitad de los pacientes recibió un placebo. | Hastaların yarısı plasebo aldı.
+el somnífero | uyku ilacı | isim (e) | No tomes somníferos sin receta. | Reçetesiz uyku ilacı alma.
+## Halk sağlığı
+la salud pública | halk sağlığı | isim (d) | El tabaco es un problema de salud pública. | Tütün bir halk sağlığı sorunudur.
+el sistema sanitario | sağlık sistemi | isim (e) | El sistema sanitario está saturado. | Sağlık sistemi aşırı yüklü.
+la sanidad privada | özel sağlık | isim (d) | Tiene un seguro de sanidad privada. | Özel sağlık sigortası var.
+la esperanza de vida | ortalama yaşam süresi | isim (d) | La esperanza de vida en España es muy alta. | İspanya'da ortalama yaşam süresi çok yüksek.
+la mortalidad | ölüm oranı | isim (d) | La mortalidad infantil ha bajado mucho. | Bebek ölüm oranı çok düştü.
+la obesidad | obezite | isim (d) | La obesidad infantil preocupa a los médicos. | Çocukluk çağı obezitesi doktorları endişelendiriyor.
+el sedentarismo | hareketsiz yaşam | isim (e) | El sedentarismo aumenta el riesgo de infarto. | Hareketsiz yaşam kalp krizi riskini artırır.
+el tabaquismo | sigara bağımlılığı | isim (e) | El tabaquismo causa miles de muertes. | Sigara bağımlılığı binlerce ölüme yol açıyor.
+el factor de riesgo | risk faktörü | isim (e) | La edad es un factor de riesgo. | Yaş bir risk faktörüdür.
+el estilo de vida | yaşam tarzı | isim (e) | Cambiar el estilo de vida previene enfermedades. | Yaşam tarzını değiştirmek hastalıkları önler.

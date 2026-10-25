@@ -1,111 +1,111 @@
-# UNIT: Mutfakta | Yemek pişirme, İspandar ve Latin Amerika mutfağı, meyve-sebze, beslenme
-## Gıda ve Tarifler
+# UNIT: Mutfakta | Yemek pişirme, İspanyol ve Latin Amerika mutfağı, meyve-sebze, beslenme
+## Malzemeler
 la harina | un | isim (d) | Añade un poco de harina a la mezcla. | Karışıma biraz un ekle.
-el aceite de oliva | zeytinyağı | isim (e) | El aceite de oliva es muy saludable. | Zeytinyağı çok sağlıklıdır.
-la cebolla morada | kırmızı soğan | isim (d) | Corta la cebolla morada en rodajas finas. | Kırmızı soğanı ince halkalar halinde doğra.
-el ajo picado | kıyılmış sarımsak | isim (e) | El ajo picado da mucho sabor al plato. | Kıyılmış sarımsak yemeğe çok lezzet verir.
-la patata cocida | haşlanmış patates | isim (d) | La patata cocida es buena guarnición. | Haşlanmış patates iyi bir garnitürdür.
-el tomate maduro | olgun domates | isim (e) | Busca un tomate maduro para la salsa. | Sos için olgun bir domates bul.
-la carne picada | kıyma | isim (d) | La carne picada sirve para hacer albóndigas. | Kıymadan köfte yapılır.
-el arroz blanco | beyaz pirinç pilavı | isim (e) | El arroz blanco acompaña muy bien al pollo. | Beyaz pilav tavuğun yanına çok iyi gider.
-el pollo asado | fırında tavuk | isim (e) | Hoy comemos pollo asado con especias. | Bugün baharatlı fırında tavuk yiyoruz.
-el pescado fresco | taze balık | isim (e) | El pescado fresco es esencial para el ceviche. | Taze balık seviche için esastır.
-## Mutfak Eşyaları
-el cuchillo afilado | keskin bıçak | isim (e) | Usa un cuchillo afilado para cortar el pan. | Ekmek kesmek için keskin bir bıçak kullan.
-la tabla de cortar | kesme tahtası | isim (d) | Pon la verdura sobre la tabla de cortar. | Sebzeyi kesme tahtasının üzerine koy.
-el bol grande | büyük kase | isim (e) | Mezcla todos los ingredientes en el bol grande. | Tüm malzemeleri büyük kasede karıştır.
-la sartén honda | derin tava | isim (d) | Calienta el aceite en la sartén honda. | Yağı derin tavada ısıt.
-la olla de barro | toprak tencere | isim (d) | El guiso sabe mejor en la olla de barro. | Yahni toprak tencerede daha lezzetli olur.
-el horno caliente | sıcak fırın | isim (e) | Mete el pastel en el horno caliente. | Pastayı sıcak fırına koy.
-el colador fino | ince süzgeç | isim (e) | Pasa la salsa por el colador fino. | Sosu ince süzgeçten geçir.
+la pimienta | karabiber | isim (d) | Echa sal y pimienta a la carne. | Ete tuz ve karabiber ser.
+el vinagre | sirke | isim (e) | La ensalada lleva aceite y vinagre. | Salatada zeytinyağı ve sirke var.
+la carne picada | kıyma | isim (d) | Con carne picada hacemos albóndigas. | Kıymadan köfte yaparız.
+las especias | baharatlar | isim (çoğul) | Me gusta la comida con muchas especias. | Bol baharatlı yemekleri severim.
+la nata | krema (süt kreması) | isim (d) | La salsa lleva nata. | Sosun içinde krema var.
+el yogur | yoğurt | isim (e) | Desayuno yogur con fruta. | Kahvaltıda meyveli yoğurt yerim.
+la miel | bal | isim (d) | Tomo el té con miel. | Çayı ballı içerim.
+el chocolate | çikolata | isim (e) | Los niños quieren chocolate caliente. | Çocuklar sıcak çikolata istiyor.
+la mostaza | hardal | isim (d) | ¿Quieres mostaza en el bocadillo? | Sandviçine hardal ister misin?
+## Mutfak gereçleri
+la tabla de cortar | kesme tahtası | isim (d) | Pon la verdura en la tabla de cortar. | Sebzeyi kesme tahtasına koy.
+el bol | kâse | isim (e) | Mezcla los huevos en un bol. | Yumurtaları bir kâsede karıştır.
 la cuchara de madera | tahta kaşık | isim (d) | Remueve la sopa con la cuchara de madera. | Çorbayı tahta kaşıkla karıştır.
-el vaso medidor | ölçü kabı | isim (e) | Mide el agua con el vaso medidor. | Suyu ölçü kabıyla ölç.
-el rallador de queso | peynir rendeleyicisi | isim (e) | Usa el rallador de queso para la pasta. | Makarna için peynir rendeleyicisini kullan.
-## Meyveler ve Sebzeler
-la manzana roja | kırmızı elma | isim (d) | Como una manzana roja como tentempié. | Ara öğün olarak kırmızı elma yiyorum.
-la pera dulce | tatlı armut | isim (d) | Esta pera dulce está muy jugosa. | Bu tatlı armut çok sulu.
-el plátano maduro | olgun muz | isim (e) | El plátano maduro sirve para postres. | Olgun muz tatlılar için kullanılır.
-la naranja jugosa | sulu portakal | isim (d) | Exprime una naranja jugosa para el desayuno. | Kahvaltı için sulu bir portakal sık.
-el limón amarillo | sarı limon | isim (e) | Añade zumo de limón amarillo al pescado. | Balığa sarı limon suyu ekle.
-la fresa silvestre | yaban çileği | isim (d) | Encontré una fresa silvestre en el campo. | Kırda bir yaban çileği buldum.
-el aguacate tierno | taze avokado | isim (e) | El aguacate tierno es perfecto para guacamole. | Taze avokado guacamole için mükemmeldir.
-la lechuga fresca | taze marul | isim (d) | Lava la lechuga fresca antes de la ensalada. | Salatadan önce taze marulu yıka.
-el pimiento rojo | kırmızı biber | isim (e) | Asamos el pimiento rojo en el horno. | Kırmızı biberi fırında közliyoruz.
-la zanahoria crujiente | kıtır havuç | isim (d) | La zanahoria crujiente es rica en vitaminas. | Kıtır havuç vitamin açısından zengindir.
-## İspanyol ve Latin Mutfağı
-la tortilla española | ispanyol omleti | isim (d) | La tortilla española lleva patata y huevo. | İspanyol omletinde patates ve yumurta vardır.
-la paella valenciana | valensiya paellası | isim (d) | Cocinamos una paella valenciana este domingo. | Bu pazar bir Valensiya paellası pişiriyoruz.
-el gazpacho andaluz | endülüs gazpacho çorbası | isim (e) | El gazpacho andaluz es una sopa fría y fresca. | Endülüs gazpachosu soğuk ve taze bir çorbadır.
-las empanadas criollas | creole empanandaları | isim (d) | Las empanadas criollas llevan carne o verdura. | Creole empanandalarında et veya sebze bulunur.
-el taco mexicano | meksika tako | isim (e) | Probé un taco mexicano muy picante. | Çok acı bir Meksika tako denedim.
-la arepa venezolana | venezuela arepası | isim (d) | La arepa venezolana se rellena de queso. | Venezuela arepası peynirle doldurulur.
-el ceviche peruano | peru cevichesi | isim (e) | El ceviche peruano lleva pescado marinado. | Peru cevichesinde marine edilmiş balık bulunur.
-los churros crujientes | çıtır churros | isim (e) | Desayunamos churros crujientes con chocolate. | Çikolatalı çıtır churros kahvaltı yapıyoruz.
-el flan casero | ev yapımı krem karamel | isim (e) | De postre pedimos un flan casero. | Tatlı olarak ev yapımı krem karamel istiyoruz.
-la sangría tradicional | geleneksel sangria | isim (d) | Preparamos sangría tradicional con fruta fresca. | Taze meyve ile geleneksel sangria hazırlıyoruz.
-## Pişirme Yöntemleri
-asar al horno | fırında kızartmak | fiil | Me gusta asar al horno las verduras. | Sebzeleri fırında kızartmayı severim.
-freír en aceite | yağda kızartmak | fiil | No quiero freír en aceite las patatas. | Patatesleri yağda kızartmak istemiyorum.
-hervir a fuego lento | kısık ateşte kaynatmak | fiil | Hay que hervir a fuego lento la salsa. | Sosu kısık ateşte kaynatmak gerekir.
-rehogar la cebolla | soğanı sotelemek | fiil | Vamos a rehogar la cebolla con mantequilla. | Soğanı tereyağı ile soteleyeceğiz.
-batir los huevos | yumurtaları çırpmak | fiil | Empieza a batir los huevos con energía. | Yumurtaları enerjik bir şekilde çırpmaya başla.
-añadir una pizca | bir tutam eklemek | fiil | Puedes añadir una pizca de sal marina. | Bir tutam deniz tuzu ekleyebilirsin.
-probar el punto | kıvamını/tadını kontrol etmek | fiil | Voy a probar el punto de la sopa. | Çorbanın tadını kontrol edeceğim.
-servir bien caliente | çok sıcak servis yapmak | fiil | Hay que servir bien caliente este plato. | Bu yemeği çok sıcak servis yapmak gerekir.
-cortar en dados | küp küp doğramak | fiil | Prefiero cortar en dados el tomate. | Domatesi küp küp doğramayı tercih ederim.
-rellenar de carne | etle doldurmak | fiil | Van a rellenar de carne los pimientos. | Biberleri etle dolduracaklar.
-## Yemek ve Tatlar
-el sabor dulce | tatlı tat | isim (e) | Este postre tiene un sabor dulce y suave. | Bu tatlının tatlı ve yumuşak bir tadı var.
-el gusto amargo | acı tat | isim (e) | El café puro tiene un gusto amargo. | Saf kahvenin acı bir tadı vardır.
-el toque salado | tuzlu dokunuş | isim (e) | Falta un pequeño toque salado en la sopa. | Çorbada küçük bir tuzlu dokunuş eksik.
-el plato picante | acı yemek | isim (e) | No tolero bien el plato muy picante. | Çok acı yemeğe pek dayanamıyorum.
-la comida sosa | tuzsuz/yavan yemek | isim (d) | La sopa está un poco sosa sin sal. | Çorba tuzsuz biraz yavan.
-el aroma fresco | taze aroma | isim (e) | El aroma fresco del cilantro es único. | Kişnişin taze aroması benzersizdir.
-la textura suave | yumuşak doku | isim (d) | Me encanta la textura suave de este flan. | Bu krem karamelin yumuşak dokusunu çok seviyorum.
-la salsa espesa | koyu sos | isim (d) | La pasta combina bien con la salsa espesa. | Makarna koyu sosla iyi uyum sağlar.
-el jugo natural | doğal su/meyve suyu | isim (e) | Prefiero beber jugo natural por la mañana. | Sabahları doğal meyve suyu içmeyi tercih ederim.
-el banquete real | kraliyet ziyafeti | isim (e) | Prepararon un banquete real para los invitados. | Misafirler için bir kraliyet ziyafeti hazırladılar.
-## Beslenme ve Diyet
-la dieta sana | sağlıklı diety | isim (d) | Sigo una dieta sana basada en verduras. | Sebzelere dayalı sağlıklı bir diyet takip ediyorum.
-el nutriente vital | hayati besin maddesi | isim (e) | El agua es un nutriente vital para el cuerpo. | Su, vücut için hayati bir besin maddesidir.
-la vitamina c | c vitamini | isim (d) | Los cítricos aportan mucha vitamina c. | Narenciyeler çok fazla c vitamini sağlar.
-el mineral esencial | temel mineral | isim (e) | El hierro es un mineral esencial en la sangre. | Demir, kanda temel bir mineraldir.
-la fibra vegetal | bitkisel lif | isim (d) | El pan integral contiene mucha fibra vegetal. | Tam buğday ekmeği çok fazla bitkisel lif içerir.
-la grasa saludable | sağlıklı yağ | isim (d) | El pescado azul aporta grasa saludable. | Yağlı balık sağlıklı yağ sağlar.
-la porción justa | doğru porsiyon | isim (d) | Come una porción justa de carbohidratos. | Doğru porsiyonda karbonhidrat ye.
-el hábito alimenticio | beslenme alışkanlığı | isim (e) | Cambiar el hábito alimenticio requiere tiempo. | Beslenme alışkanlığını değiştirmek zaman alır.
-la energía pura | saf enerji | isim (d) | La fruta madura da energía pura al cuerpo. | Olgun meyve vücuda saf enerji verir.
-el peso ideal | ideal kilo | isim (e) | Mantengo el peso ideal con buena comida. | İyi yemekle ideal kilomu koruyorum.
-## Restoran Deneyimi
-la mesa reservada | ayrılmış masa | isim (d) | Tenemos una mesa reservada para las ocho. | Saat sekiz için ayrılmış bir masamız var.
-el camarero atento | dikkatli garson | isim (e) | El camarero atento nos trajo la carta. | Dikkatli garson bize menüyü getirdi.
-el menú degustación | tadım menüsü | isim (e) | Elegimos el menú degustación del chef. | Şefin tadım menüsünü seçtik.
-la cuenta detallada | ayrıntılı hesap | isim (d) | Pedimos la cuenta detallada al final. | Sonunda ayrıntılı hesabı istedik.
-la propina justa | adil bahşiş | isim (d) | Dejamos una propina justa por el servicio. | Servis için adil bir bahşiş bıraktık.
-la bebida refrescante | serinletici içecek | isim (d) | Pido una bebida refrescante con hielo. | Buzlu serinletici bir içecek istiriyorum.
-la reserva previa | ön rezervasyon | isim (d) | Es obligatoria la reserva previa en este local. | Bu mekanda ön rezervasyon zorunludur.
-la atención rápida | hızlı hizmet | isim (d) | Destaco la atención rápida de este restaurante. | Bu restoranın hızlı hizmetini vurguluyorum.
-el rincón acogedor | samimi köşe | isim (e) | Nos sentamos en el rincón acogedor del fondo. | Arkadaki samimi köşeye oturduk.
-la velada agradable | keyifli akşam | isim (d) | Pasamos una velada agradable comiendo tapas. | Tapas yiyerek keyifli bir akşam geçirdik.
-## Gıda Saklama ve Alışveriş
-la cesta de mimbre | hasır sepet | isim (d) | Llevo la cesta de mimbre al mercado local. | Yerel pazara hasır sepeti götürüyorum.
-el puesto callejero | sokak tezgahı | isim (e) | Compramos fruta fresca en el puesto callejero. | Sokak tezgahından taze meyve satın alıyoruz.
-la bolsa reutilizable | yeniden kullanılabilir poşet | isim (d) | Uso siempre la bolsa reutilizable de tela. | Her zaman kumaş yeniden kullanılabilir poşeti kullanıyorum.
-el mercado central | merkez pazar | isim (e) | El mercado central tiene los mejores productos. | Merkez pazar en iyi ürünlere sahiptir.
-la nevera limpia | temiz buzdolabı | isim (d) | Guarda la leche fría en la nevera limpia. | Soğuk sütü temiz buzdolabında sakla.
-el congelador potente | güçlü dondurucu | isim (e) | Congelo la carne fresca en el congelador potente. | Taze etmi güçlü dondurucuda donduruyorum.
-la fecha de caducidad | son kullanma tarihi | isim (d) | Revisa la fecha de caducidad del yogur. | Yoğurdun son kullanma tarihini kontrol et.
-el frasco de vidrio | cam kavanoz | isim (e) | Guardo la mermelada en el frasco de vidrio. | Reçeli cam kavanozda saklıyorum.
-la caja registradora | yazar kasa | isim (d) | Paga la compra en la caja registradora. | Alışverişin ödemesini yazar kasada yap.
-el ticket de compra | alışveriş fişi | isim (e) | Guarda bien el ticket de compra por si acaso. | Ne olur ne olmaz diye alışveriş fişini iyi sakla.
-## Beslenme Kültürü ve Gelenekler
-la sobremesa larga | yemek sonrası uzun sohbet | isim (d) | En España disfrutamos de la sobremesa larga. | İspanya'da yemek sonrası uzun sohbetin tadını çıkarırız.
-el vino tinto | kırmızı şarap | isim (e) | Este vino tinto acompaña muy bien la carne. | Bu kırmızı şarap etin yanına çok iyi gider.
-el brindis familiar | aile kadehtokuşturması | isim (e) | Hicimos un brindis familiar por el abuelo. | Büyükbaba için bir aile kadehtokuşturması yaptık.
-la reunion festiva | şenlikli buluşma | isim (d) | La cena de navidad es una reunion festiva. | Noel yemeği şenlikli bir buluşmadır.
-el plato principal | ana yemek | isim (e) | ¿Qué vas a pedir de plato principal? | Ana yemek olarak ne sipariş edeceksin?
-el bocado pequeño | küçük lokma | isim (e) | Tomamos un bocado pequeño antes de cenar. | Akşam yemeğinden önce küçük bir lokma atıştırıyoruz.
-la tradicion culinaria | mutfak geleneği | isim (d) | Respetamos cada tradicion culinaria local. | Her yerel mutfak geleneğine saygı duyuyoruz.
-el sabor auténtico | otantik tat | isim (e) | Buscamos el sabor auténtico de la abuela. | Büyükannenin otantik tadını arıyoruz.
-el secreto culinario | mutfak sırrı | isim (e) | Ella no comparte su secreto culinario. | O mutfak sırrını paylaşmıyor.
-la fiesta gastronómica | gastronomi festivali | isim (d) | Asistimos a la fiesta gastronómica del pueblo. | Köyün gastronomi festivaline katıldık.
+el abrelatas | konserve açacağı | isim (e) | ¿Dónde está el abrelatas? | Konserve açacağı nerede?
+el sacacorchos | tirbuşon | isim (e) | Necesito un sacacorchos para el vino. | Şarap için tirbuşona ihtiyacım var.
+el delantal | önlük | isim (e) | Ponte el delantal antes de cocinar. | Yemek yapmadan önce önlüğünü tak.
+el recipiente | kap | isim (e) | Guarda la sopa en un recipiente. | Çorbayı bir kaba koy.
+la jarra | sürahi | isim (d) | Pon una jarra de agua en la mesa. | Masaya bir sürahi su koy.
+la servilleta | peçete | isim (d) | ¿Me pasas una servilleta? | Bana bir peçete uzatır mısın?
+el mantel | masa örtüsü | isim (e) | El mantel blanco está limpio. | Beyaz masa örtüsü temiz.
+## Meyve ve sebze
+el aguacate | avokado | isim (e) | El aguacate es muy cremoso. | Avokado çok kremsi.
+el melón | kavun | isim (e) | En verano comemos melón. | Yazın kavun yeriz.
+la cereza | kiraz | isim (d) | Las cerezas de junio son muy dulces. | Haziran kirazları çok tatlıdır.
+el mango | mango | isim (e) | Me encanta el zumo de mango. | Mango suyuna bayılırım.
+la ciruela | erik | isim (d) | Estas ciruelas están maduras. | Bu erikler olgun.
+el champiñón | mantar (yemeklik) | isim (e) | Hago una tortilla con champiñones. | Mantarlı omlet yapıyorum.
+las espinacas | ıspanak | isim (çoğul) | Las espinacas tienen mucho hierro. | Ispanakta çok demir var.
+el maíz | mısır | isim (e) | En México se come mucho maíz. | Meksika'da çok mısır yenir.
+los guisantes | bezelye | isim (çoğul) | Me gusta el arroz con guisantes. | Bezelyeli pilavı severim.
+las lentejas | mercimek | isim (çoğul) | Mi madre hace lentejas los lunes. | Annem pazartesileri mercimek yemeği yapar.
+## İspanyol mutfağı
+el cocido | cocido (nohutlu etli yahni) | isim (e) | El cocido madrileño lleva garbanzos. | Madrid usulü cocido'da nohut var.
+los garbanzos | nohut | isim (çoğul) | Los garbanzos son muy nutritivos. | Nohut çok besleyicidir.
+el flan | krem karamel | isim (e) | De postre tomamos flan. | Tatlı olarak krem karamel yedik.
+las albóndigas | köfte | isim (çoğul) | Mi abuela hace albóndigas con tomate. | Büyükannem domatesli köfte yapar.
+el pulpo | ahtapot | isim (e) | En Galicia comemos pulpo. | Galiçya'da ahtapot yeriz.
+las gambas | karides | isim (çoğul) | Pedimos gambas al ajillo. | Sarımsaklı karides sipariş ettik.
+el salmorejo | salmorejo (soğuk domates çorbası) | isim (e) | El salmorejo es típico de Córdoba. | Salmorejo Córdoba'ya özgüdür.
+la fabada | fabada (fasulye yahnisi) | isim (d) | La fabada es un plato de Asturias. | Fabada Asturias'a özgü bir yemektir.
+el turrón | turrón (bademli helva) | isim (e) | En Navidad comemos turrón. | Noel'de turrón yeriz.
+el embutido | şarküteri ürünü (sucuk, salam) | isim (e) | En el pueblo hacen embutidos caseros. | Köyde ev yapımı sucuk ve salam yapıyorlar.
+## Latin Amerika mutfağı
+el taco | tako | isim (e) | Comemos tacos de pollo. | Tavuklu tako yiyoruz.
+la tortilla de maíz | mısır tortillası | isim (d) | Los tacos se hacen con tortillas de maíz. | Takolar mısır tortillasıyla yapılır.
+la empanada | empanada (içli börek) | isim (d) | En Argentina las empanadas son de carne. | Arjantin'de empanadalar etlidir.
+la arepa | arepa (mısır ekmeği) | isim (d) | La arepa venezolana se rellena de queso. | Venezuela arepası peynirle doldurulur.
+el ceviche | ceviche (limonlu çiğ balık) | isim (e) | El ceviche peruano lleva pescado y limón. | Peru cevichesinde balık ve limon var.
+el guacamole | guacamole (avokado sosu) | isim (e) | El guacamole se hace con aguacate. | Guacamole avokadoyla yapılır.
+los frijoles | fasulye (Latin Amerika) | isim (çoğul) | En México comen frijoles con arroz. | Meksika'da pilavla fasulye yerler.
+el dulce de leche | dulce de leche (sütlü karamel) | isim (e) | En Argentina ponen dulce de leche en todo. | Arjantin'de her şeye dulce de leche koyarlar.
+el mate | mate (çayı) | isim (e) | En Uruguay toman mate todo el día. | Uruguay'da bütün gün mate içerler.
+el chile | acı biber (Meksika) | isim (e) | Este plato lleva mucho chile. | Bu yemekte bol acı biber var.
+## Pişirme yöntemleri
+asar | fırında ya da ızgarada pişirmek | fiil | Vamos a asar pollo en el horno. | Fırında tavuk pişireceğiz.
+cocer (cuezo) | haşlamak, pişirmek | fiil · düzensiz | Cuece la pasta diez minutos. | Makarnayı on dakika haşla.
+batir | çırpmak | fiil | Bate los huevos con un tenedor. | Yumurtaları çatalla çırp.
+añadir | eklemek | fiil | Añade un poco de sal. | Biraz tuz ekle.
+probar (pruebo) | tadına bakmak; denemek | fiil · düzensiz | Prueba la sopa, ¿está bien? | Çorbanın tadına bak, iyi mi?
+servir (sirvo) | servis etmek | fiil · düzensiz | Sirve la cena caliente. | Akşam yemeğini sıcak servis et.
+rellenar | doldurmak | fiil | Rellenamos los pimientos con carne. | Biberleri etle dolduruyoruz.
+remover (remuevo) | karıştırmak (kaşıkla) | fiil · düzensiz | Remueve la salsa de vez en cuando. | Sosu arada bir karıştır.
+a la plancha | ızgara (sacda) | ifade | Quiero el pescado a la plancha. | Balığı ızgara istiyorum.
+crudo | çiğ | sıfat | No comas la carne cruda. | Eti çiğ yeme.
+## Tat ve koku
+el sabor | tat, lezzet | isim (e) | Esta sopa tiene un sabor muy rico. | Bu çorbanın tadı çok güzel.
+saber a | tadı ... gibi olmak | ifade | Este pastel sabe a limón. | Bu kekin tadı limon gibi.
+soso | tatsız, yavan | sıfat | La sopa está sosa, le falta sal. | Çorba yavan, tuzu eksik.
+jugoso | sulu | sıfat | La naranja está muy jugosa. | Portakal çok sulu.
+crujiente | çıtır | sıfat | Me gusta el pan crujiente. | Çıtır ekmeği severim.
+blando | yumuşak | sıfat | La carne está muy blanda. | Et çok yumuşak.
+duro | sert; bayat | sıfat | El pan de ayer está duro. | Dünkü ekmek bayat.
+el olor | koku | isim (e) | ¡Qué olor tan rico sale de la cocina! | Mutfaktan ne güzel bir koku geliyor!
+oler (huele) | kokmak | fiil · düzensiz | El pan recién hecho huele muy bien. | Taze ekmek çok güzel kokar.
+lleno | dolu; tok | sıfat | No, gracias, estoy lleno. | Hayır teşekkürler, doydum.
+## Beslenme
+la alimentación | beslenme | isim (d) | Una buena alimentación es muy importante. | İyi beslenme çok önemlidir.
+saludable | sağlıklı (sağlığa yararlı) | sıfat | Las verduras son muy saludables. | Sebzeler çok sağlıklıdır.
+la proteína | protein | isim (d) | El pescado tiene mucha proteína. | Balıkta çok protein var.
+la grasa | yağ (besin) | isim (d) | Esta comida tiene demasiada grasa. | Bu yemekte çok fazla yağ var.
+la caloría | kalori | isim (d) | Los pasteles tienen muchas calorías. | Pastaların kalorisi çok yüksek.
+vegetariano | vejetaryen | sıfat | Mi hermana es vegetariana. | Kız kardeşim vejetaryen.
+el peso | kilo, ağırlık | isim (e) | Quiero perder peso. | Kilo vermek istiyorum.
+engordar | kilo almak | fiil | Si como muchos dulces, engordo. | Çok tatlı yersem kilo alırım.
+adelgazar | zayıflamak | fiil | Quiero adelgazar un poco. | Biraz zayıflamak istiyorum.
+integral | kepekli, tam buğday | sıfat | Compro pan integral. | Kepekli ekmek alıyorum.
+## Sofra alışkanlıkları
+el almuerzo | öğle yemeği | isim (e) | El almuerzo es a la una. | Öğle yemeği saat birde.
+la merienda | ikindi ara öğünü | isim (d) | Los niños toman la merienda a las cinco. | Çocuklar saat beşte ara öğün yer.
+picar algo | bir şeyler atıştırmak | ifade | ¿Quieres picar algo antes de cenar? | Akşam yemeğinden önce bir şeyler atıştırmak ister misin?
+la sobremesa | yemek sonrası sohbet | isim (d) | En España la sobremesa es muy larga. | İspanya'da yemek sonrası sohbet çok uzun sürer.
+poner la mesa | sofrayı kurmak | ifade | ¿Me ayudas a poner la mesa? | Sofrayı kurmama yardım eder misin?
+quitar la mesa | sofrayı toplamak | ifade | Después de comer quito la mesa. | Yemekten sonra sofrayı toplarım.
+el plato principal | ana yemek | isim (e) | De plato principal, quiero pescado. | Ana yemek olarak balık istiyorum.
+la ración | porsiyon | isim (d) | Pedimos una ración de calamares. | Bir porsiyon kalamar sipariş ettik.
+para llevar | paket (götürmek için) | ifade | Un café para llevar, por favor. | Bir kahve, paket olsun lütfen.
+casero | ev yapımı | sıfat | Esta tarta es casera. | Bu pasta ev yapımı.
+## Tatlılar ve içecekler
+el helado | dondurma | isim (e) | En verano comemos mucho helado. | Yazın çok dondurma yeriz.
+el pastel | pasta, kek | isim (e) | Mi madre hace un pastel de manzana. | Annem elmalı kek yapıyor.
+la galleta | bisküvi, kurabiye | isim (d) | Los niños comen galletas con leche. | Çocuklar sütle bisküvi yiyor.
+el caramelo | şeker (tatlı) | isim (e) | No comas tantos caramelos. | Bu kadar çok şeker yeme.
+el arroz con leche | sütlaç | isim (e) | El arroz con leche lleva canela. | Sütlaçta tarçın var.
+la canela | tarçın | isim (d) | Me gusta el café con canela. | Tarçınlı kahveyi severim.
+el agua con gas | maden suyu, gazlı su | isim (d) | Prefiero agua con gas. | Gazlı su tercih ederim.
+la infusión | bitki çayı | isim (d) | Antes de dormir tomo una infusión. | Uyumadan önce bitki çayı içerim.
+el cortado | cortado (az sütlü kahve) | isim (e) | Un cortado y una tostada, por favor. | Bir cortado ve bir kızarmış ekmek lütfen.
+la limonada | limonata | isim (d) | Hice limonada para todos. | Herkese limonata yaptım.

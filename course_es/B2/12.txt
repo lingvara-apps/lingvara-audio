@@ -1,111 +1,111 @@
 # UNIT: Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
-## Gramer kavramları
-la morfosintacta | biçimbirim ve sözdizimi | isim (d) | Estudiamos la morfosintacta del español moderno. | Modern İspanyolcanın biçimbirim ve sözdizimini çalışıyoruz.
-el morfema derivativo | türetim ekbi, yapım eki | isim (e) | El prefijo es un morfema derivativo muy común. | Önek çok yaygın bir türetim ekidir.
-el lexema base | kök sözcük, temel kök | isim (e) | Identificamos el lexema base de cada familia léxica. | Her sözcük ailesinin temel kökünü belirliyoruz.
-la raiz etimologica | kökenbilimsel kök, etimolojik kök | isim (d) | Conocemos la raiz etimologica de muchas palabras técnicas. | Birçok teknik sözcüğün etimolojik kökünü biliyoruz.
-el sufijo apreciativo | küçültme ve büyütme eki | isim (e) | Usamos un sufijo apreciativo para expresar afecto. | Sevgi ifade etmek için bir küçültme-büyütme eki kullanıyoruz.
-la inflexion verbal | eylem çekimi, fiil çekimi | isim (d) | La inflexion verbal en subjuntivo requiere mucha práctica. | Dilek-şart kipindeki fiil çekimi çok pratik gerektirir.
-el campo semantico | anlam alanı | isim (e) | Agrupamos los animales dentro de su campo semantico. | Hayvanları kendi anlam alanları içinde gruplandırıyoruz.
-la sinonimia parcial | kısmi eş anlamlılık | isim (d) | Explicamos la sinonimia parcial entre ciertos términos literarios. | Belirli edebi terimler arasındaki kısmi eş anlamlılığı açıklıyoruz.
-la polisemia compleja | karmaşık çok anlamlılık | isim (d) | Analizamos la polisemia compleja de los verbos modales. | Kip fiillerinin karmaşık çok anlamlılığını inceliyoruz.
-el homofono exacto | tam eş sesli, homofon | isim (e) | Distinguimos el homofono exacto en contextos orales rápidos. | Hızlı sözlü bağlamlarda tam eş sesliyi ayırt ediyoruz.
-## Dilbilimsel terimler
-la fonologia acustica | sesbilim, akustik ses bilgisi | isim (d) | Investigamos la fonologia acustica de las vocales abiertas. | Açık ünlülerinin akustik ses bilgisini araştırıyoruz.
-el fonema oclusivo | patlayıcı ses birimi | isim (e) | Pronunciamos cada fonema oclusivo con precisión estricta. | Her patlayıcı ses birimini katı bir hassasiyetle telaffuz ediyoruz.
-la silaba tona | vurgusuz hece | isim (d) | Reducimos la silaba tona al hablar con naturalidad. | Doğal bir şekilde konuşurken vurgusuz heceyi zayıflatıyoruz.
-el diptongo creciente | yükselen ikili ünsüz, yükselen ünlü birleşimi | isim (e) | Reconocemos un diptongo creciente en la palabra tierra. | Toprak sözcüğünde yükselen bir ünlü birleşimini tanıyoruz.
-el hiato acentuado | vurgulu ünlü çatışması, hiat | isim (e) | Separamos las vocales fuertes formando un hiato acentuado. | Güçlü ünlüleri vurgulu bir ünlü çatışması oluşturacak şekilde ayırıyoruz.
-la entonacion ascendente | yükselen tonlama | isim (d) | Marcamos la entonacion ascendente en las preguntas directas. | Doğrudan sorularda yükselen tonlamayı belirtiyoruz.
-la pragmatica textual | metin edimbilimsel yaklaşımı | isim (d) | Aplicamos la pragmatica textual al interpretar discursos largos. | Uzun söylemleri yorumlarken metin edimbilimini uyguluyoruz.
-la sintaxis oracional | cümle sözdizimi | isim (d) | Simplificamos la sintaxis oracional para mejorar la lectura. | Okumayı geliştirmek için cümle sözdizimini basitleştiriyoruz.
-la semantica formal | biçimsel anlam bilimi | isim (d) | Debatimos sobre la semantica formal de los conectores lógicos. | Mantıksal bağlaçların biçimsel anlam bilimi üzerine tartışıyoruz.
-la ortografia practica | pratik imla, uygulamalı yazım kuralları | isim (d) | Repasamos la ortografia practica antes del examen final. | Final sınavından önce pratik imla kurallarını gözden geçiriyoruz.
-## Çeviri teknikleri
-la traduccion literal | kelimesi kelimesine çeviri | isim (d) | Evitamos una traduccion literal en textos idiomáticos complejos. | Karmaşık deyimsel metinlerde kelimesi kelimesine çeviriden kaçınıyoruz.
-la adaptacion cultural | kültürel uyarlama | isim (d) | Realizamos una adaptacion cultural para los chistes locales. | Yerel şakalar için kültürel bir uyarlama gerçekleştiriyoruz.
-el calco linguistico | dildersel kopya, kelime kalıbı çevirisi | isim (e) | Detectamos un calco linguistico procedente del inglés moderno. | Modern İngilizceden gelen bir dilsel kopyayı tespit ediyoruz.
-la modulacion semantica | anlamsal kip değişimi, modülasyon | isim (d) | Empleamos la modulacion semantica para lograr mayor fluidez. | Daha fazla akıcılık elde etmek için anlamsal kip değişimini kullanıyoruz.
-la transposition gramatical | dilbilgisel dönüştürme, transpozisyon | isim (d) | Practicamos la transposition gramatical cambiando clases de palabras. | Sözcük türlerini değiştirerek dilbilgisel dönüştürme alıştırması yapıyoruz.
-la equivalencia dinamica | dinamik eşdeğerlik | isim (d) | Buscamos la equivalencia dinamica en poesías traducidas. | Çevrilmiş şiirlerde dinamik eşdeğerliği arıyoruz.
-la compensacion estilistica | biçemsel telafi, dengeleme | isim (d) | Aplicamos una compensacion estilistica en metáforas intraducibles. | Çevrilemeyen metaforlarda biçemsel bir telafi uyguluyoruz.
-el giro idiomatico | deyimsel kalıp | isim (e) | Traducimos cada giro idiomatico con su equivalente natural. | Her deyimsel kalıbı kendi doğal karşılığıyla çeviriyoruz.
-la reduccion textual | metinsel kısaltma | isim (d) | Hacemos una reduccion textual en subtítulos muy largos. | Çok uzun altyazılarda metinsel bir kısaltma yapıyoruz.
-la explicacion contextual | bağlamsal açıklama | isim (d) | Añadimos una explicacion contextual para referencias históricas. | Tarihsel referanslar için bağlamsal bir açıklama ekliyoruz.
-## Çift dilli sözlükler
-el lexico especializado | uzmanlaşmış söz varlığı, terminoloji | isim (e) | Consultamos el lexico especializado de la medicina moderna. | Modern tıbbın uzmanlaşmış söz varlığını danışıyoruz.
-el glosario bilingue | iki dilli sözlükçe | isim (e) | Compilamos un glosario bilingue para nuestro proyecto científico. | Bilimsel projemiz için iki dilli bir sözlükçe derliyoruz.
-el termino tecnico | teknik terim | isim (e) | Definimos cada termino tecnico con gran rigor académico. | Her teknik terimi büyük bir akademik titizlikle tanımlıyoruz.
-la acepcion principal | başlıca anlam, ana tanım | isim (d) | Buscamos la acepcion principal de este verbo en desuso. | Kullanımdan kalkmış bu fiilin başlıca anlamını arıyoruz.
-el arcaismo util | faydalı eski sözcük, arkaizm | isim (e) | Reconocemos un arcaismo util en textos poéticos clásicos. | Klasik şiir metinlerinde faydalı bir eski sözcüğü tanıyoruz.
-el neologismo digital | dijital yeni sözcük, neolojizm | isim (e) | Incorporamos un neologismo digital al diccionario general. | Genel sözlüğe dijital bir yeni sözcük dahil ediyoruz.
-el regionalismo tipico | tipik yöresel sözcük, bölgesellik | isim (e) | Comprendemos el regionalismo tipico de la costa atlántica. | Atlantik kıyısının tipik yöresel sözcüğünü anlıyoruz.
-el vulgarismo frecuente | sık kullanılan argo sözcük, halk dili | isim (e) | Evitamos el vulgarismo frecuente en registros formales escritos. | Yazılı resmî kayıtlarda sık kullanılan halk dilinden kaçınıyoruz.
-la nota lexicografica | sözlükbilimsel not | isim (d) | Leemos la nota lexicografica sobre el origen de la palabra. | Sözcüğün kökeni hakkındaki sözlükbilimsel notu okuyoruz.
-el banco terminologico | terim bankası | isim (e) | Actualizamos el banco terminologico de nuestra institución pública. | Kamu kurumumuzun terim bankasını güncelliyoruz.
-## Sözcük kökenleri
-la raiz indoeuropea | Hint-Avrupa kökü | isim (d) | Reconstruimos la raiz indoeuropea de varios verbos básicos. | Çeşitli temel fiillerin Hint-Avrupa kökünü yeniden oluşturuyoruz.
-el origen latino | Latince köken | isim (e) | Estudiamos el origen latino de las lenguas romances occidentales. | Batı Romen dillerinin Latince kökenini inceliyoruz.
-el préstamo léxico | sözcüksel alıntı | isim (e) | Analizamos cada préstamo léxico de origen árabe o germánico. | Arapça veya Cermen kökenli her sözcüksel alıntıyı inceliyoruz.
-la etimologia popular | halk etimolojisi | isim (d) | Desmentimos una etimologia popular muy extendida en la región. | Bölgede çok yaygın olan bir halk etimolojisini yalanlıyoruz.
-el cambio fonetico | sessel değişim, ses değişimi | isim (e) | Explicamos el cambio fonetico histórico entre latín y castellano. | Latince ile İspanyolca arasındaki tarihsel sessel değişimi açıklıyoruz.
-la evolucion semantica | anlamsal evrim | isim (d) | Rastreamos la evolucion semantica de vocablos antiguos. | Eski sözcüklerin anlamsal evrimini izliyoruz.
-el sufijo culto | bilimsel ve edebi ek, kültür eki | isim (e) | Reconocemos un sufijo culto en términos de la ciencia actual. | Güncel bilim terimlerinde kültürel bir eki tanıyoruz.
-el prefijo griego | Yunanca önek | isim (e) | Identificamos el prefijo griego en palabras de alta tecnología. | Yüksek teknoloji sözcüklerinde Yunanca öneki belirliyoruz.
-la raiz semitica | Sami kökenli kök | isim (d) | Comparamos la raiz semitica con otras lenguas afroasiáticas. | Sami kökünü diğer Afroasiatik dillerle karşılaştırıyoruz.
-el rastro historico | tarihsel iz | isim (e) | Seguimos el rastro historico de los manuscritos medievales. | Orta Çağ el yazmalarının tarihsel izini takip ediyoruz.
-## İleri düzey dilbilgisi
-la subordinada sustantiva | ad eylemsi yan cümle, isim yan cümlesi | isim (d) | Analizamos una subordinada sustantiva de objeto directo. | Doğrudan nesne olan bir isim yan cümlesini inceliyoruz.
-la oracion impersonal | kuralsız şahıssız cümle | isim (d) | Construimos una oracion impersonal con el verbo haber. | Haber fiiliyle şahıssız bir cümle kuruyoruz.
-el sujeto elidito | gizli özne, düşürülmüş özne | isim (e) | Identificamos el sujeto elidito por la desinencia verbal. | Fiil ekinden gizli özneyi belirliyoruz.
-el complemento circunstancial | zarf tümleci, durum tümleci | isim (e) | Subrayamos el complemento circunstancial de tiempo y lugar. | Zaman ve yer zarf tümlecinin altını çiziyoruz.
-la proposicion coordinada | koordineli cümle, sıralı cümle | isim (d) | Unimos dos oraciones mediante una proposicion coordinada adversativa. | Karşıtlık bildiren sıralı bir cümle aracılığıyla iki cümleyi birleştiriyoruz.
-el modo subjuntivo | dilek-şart kipi | isim (e) | Dominamos el uso avanzado del modo subjuntivo en oraciones dudosas. | Kuşkulu cümlelerde dilek-şart kipinin ileri düzey kullanımında ustalaşıyoruz.
-la voz pasiva refleja | dönüşlü edilgen çatı | isim (d) | Empleamos la voz pasiva refleja en anuncios institucionales. | Kurumsal duyurularda dönüşlü edilgen çatıyı kullanıyoruz.
-el participio absoluto | mutlak ortaç, bağımsız ulam | isim (e) | Analizamos una estructura con participio absoluto al inicio. | Başlangıçta mutlak ortaç içeren bir yapıyı inceliyoruz.
-el atributo nominal | ad soylu yüklem tümleci | isim (e) | Reconocemos el atributo nominal tras los verbos copulativos. | Bağ fiillerin ardındaki ad soylu yüklem tümlecini tanıyoruz.
-la perifrasis verbal | fiil öbeği, deyimsel fiil yapısı | isim (d) | Explicamos cada perifrasis verbal de probabilidad y obligación. | Olasılık ve zorunluluk bildiren her fiil öbeğini açıklıyoruz.
-## Söylem analizi
-el analisis critico | eleştirel söylem analizi | isim (e) | Realizamos un analisis critico de los mensajes publicitarios. | Reklam mesajlarının eleştirel bir analizini gerçekleştiriyoruz.
-la cohesion textual | metinsel bağdaşıklık | isim (d) | Mejoramos la cohesion textual utilizando conectores lógicos adecuados. | Uygun mantıksal bağlaçları kullanarak metinsel bağdaşıklığı geliştiriyoruz.
-la coherencia global | küresel tutarlılık, genel tutarlılık | isim (d) | Comprobamos la coherencia global de todo el ensayo académico. | Tüm akademik denemenin küresel tutarlılığını kontrol ediyoruz.
-el marcador discursivo | söylem işaretleyicisi | isim (e) | Insertamos un marcador discursivo para cambiar de tema suavemente. | Konuyu yumuşakça değiştirmek için bir söylem işaretleyicisi ekliyoruz.
-la ironia sutil | ince ironi | isim (d) | Detectamos la ironia sutil detrás de sus palabras formales. | Biçimsel sözlerinin ardındaki ince ironiyi tespit ediyoruz.
-el discurso elocuente | etkili söylem, belagatli konuşma | isim (e) | Adoptamos un discurso elocuente en nuestro debate político. | Siyasi tartışmamızda etkili bir söylem benimseriz.
-la intencion comunicativa | iletişimsel niyet | isim (d) | Analizamos la intencion comunicativa del autor en este ensayo. | Bu denemede yazarın iletişimsel niyetini analiz ediyoruz.
-el contexto situacional | durumsal bağlam | isim (e) | Evaluamos el contexto situacional antes de emitir un juicio crítico. | Eleştirel bir yargıda bulunmadan önce durumsal bağlamı değerlendiriyoruz.
-la presuposicion logica | mantıksal ön varsayım | isim (d) | Descubrimos una presuposicion logica en su argumento principal. | Ana argümanında mantıksal bir ön varsayım keşfediyoruz.
-la falacia argumentativa | tartışma safsatası, argüman yanılgısı | isim (d) | Identificamos una falacia argumentativa en el debate abierto. | Açık tartışmada bir argüman yanılgısını belirliyoruz.
-## Dil edinimi ve öğretimi
-la adquisicion natural | doğal edinim | isim (d) | Estudiamos la adquisicion natural de la lengua materna infantil. | Çocuk ana dilinin doğal edinimini inceliyoruz.
-el bilinguismo precoz | erken iki dillilik | isim (e) | Analizamos las ventajas cognitivas del bilinguismo precoz. | Erken iki dilliliğin bilişsel avantajlarını analiz ediyoruz.
-la destreza comunicativa | iletişim becerisi, iletişimsel yetenek | isim (d) | Desarrollamos la destreza comunicativa en contextos profesionales. | Profesyonel bağlamlarda iletişim becerisini geliştiriyoruz.
-la interlengua intermedia | ara dil, ara sistem | isim (d) | Corregimos los errores típicos de la interlengua intermedia. | Ara dilin tipik hatalarını düzeltiyoruz.
-la metodologia activa | aktif öğretim yöntemi | isim (d) | Aplicamos una metodologia activa en nuestras clases magistrales. | Ana derslerimizde aktif bir öğretim yöntemi uyguluyoruz.
-el enfoque comunicativo | iletişimsel yaklaşım | isim (e) | Preferimos el enfoque comunicativo frente al método tradicional. | Geleneksel yönteme kıyasla iletişimsel yaklaşımı tercih ediyoruz.
-la retroalimentacion docente | öğretmen geri bildirimi | isim (d) | Recibimos una valiosa retroalimentacion docente sobre nuestra pronunciación. | Telaffuzumuz hakkında değerli bir öğretmen geri bildirimi alıyoruz.
-la destreza auditiva | dinleme becerisi | isim (d) | Evaluamos la destreza auditiva mediante pruebas de audio rápidas. | Hızlı ses testleri yoluyla dinleme becerisini değerlendiriyoruz.
-la comprension lectora | okuduğunu anlama | isim (d) | Fomentamos la comprension lectora con textos periodísticos avanzados. | İleri düzey gazetecilik metinleriyle okuduğunu anlama becerisini teşvik ediyoruz.
-la expresion oral | sözlü ifade | isim (d) | Practicamos la expresion oral en debates grupales semanales. | Haftalık grup tartışmalarında sözlü ifade alıştırması yapıyoruz.
-## Tarihsel dilbilim
-la lengua indoeuropea | Hint-Avrupa dili | isim (d) | Reconstruimos aspectos de la antigua lengua indoeuropea común. | Eski ortak Hint-Avrupa dilinin yönlerini yeniden oluşturuyoruz.
-el cambio linguistic | dilsel değişim | isim (e) | Estudiamos el cambio linguistic documentado en textos medievales. | Orta Çağ metinlerinde belgelenen dilsel değişimi inceliyoruz.
-la gramatica historica | tarihsel dilbilgisi | isim (d) | Analizamos la gramatica historica del español antiguo y moderno. | Eski ve modern İspanyolcanın tarihsel dilbilgisini analiz ediyoruz.
-la fonetica historica | tarihsel ses bilgisi | isim (d) | Explicamos la fonetica historica de las consonantes fricativas. | Sürtünmeli ünsüzlerin tarihsel ses bilgisini açıklıyoruz.
-el latin vulgar | halk Latincesi | isim (e) | Derivamos las palabras romances directamente del latin vulgar. | Romen dillerindeki sözcükleri doğrudan halk Latincesinden türetiyoruz.
-la lengua romance | Romen dili | isim (e) | Comparamos el español con otra lengua romance peninsular. | İspanyolcayı bir diğer yarımada Romen diliyle karşılaştırıyoruz.
-el estrato prerromano | Roma öncesi katman | isim (e) | Identificamos un estrato prerromano en la toponimia local. | Yerel yer adlarında Roma öncesi bir katmanı belirliyoruz.
-la influencia arabe | Arap etkisi | isim (d) | Reconocemos la influencia arabe en el vocabulario agrícola ibérico. | İber tarım söz varlığında Arap etkisini tanıyoruz.
-el texto primitif | ibtidai metin, ilk dönem metni | isim (e) | Descubrimos un texto primitif en los archivos catedralicios. | Katedral arşivlerinde ilk dönem metni keşfediyoruz.
-la evolucion fonetica | ses evrimi, ses değişimi | isim (d) | Rastreamos la evolucion fonetica de vocales átonas latinas. | Latin vurgusuz ünlülerinin ses evrimini izliyoruz.
-## Çağdaş dilbilim
-la sociolinguistica urbana | kentsel toplumdillibilim | isim (d) | Investigamos la sociolinguistica urbana en grandes metrópolis. | Büyük megakentlerde kentsel toplumdillibilimi araştırıyoruz.
-la geolinguistica moderna | modern coğrafi dilbilim | isim (d) | Aplicamos la geolinguistica moderna en mapas interactivos de hablas. | Konuşma dillerinin interaktif haritalarında modern coğrafi dilbilimi uyguluyoruz.
-la psicolinguistica cognitiva | bilişsel ruhdillibilim | isim (d) | Estudiamos la psicolinguistica cognitiva del procesamiento léxico. | Sözcüksel işlemenin bilişsel ruhdillibilimini inceliyoruz.
-la neurolinguistica clinica | klinik nörodillibilim | isim (d) | Analizamos la neurolinguistica clinica en pacientes con afasia. | Afazili hastalarda klinik nörodillibilimi analiz ediyoruz.
-la antropologia linguistica | dil antropolojisi | isim (d) | Exploramos la antropologia linguistica de comunidades indígenas. | Yerli toplulukların dil antropolojisini keşfediyoruz.
-la etnolinguistica americana | Amerikan etnodillibilimi | isim (d) | Documentamos la etnolinguistica americana en zonas rurales apartadas. | Uzak kırsal bölgelerde Amerikan etnodillibilimini belgeliyoruz.
-la ciberinguistica aplicada | uygulamalı siberdilbilim | isim (d) | Desarrollamos proyectos de ciberinguistica aplicada a redes sociales. | Sosyal ağlara uygulanan siberdilbilim projeleri geliştiriyoruz.
-la linguistica computacional | bilgisayarsal dilbilim | isim (d) | Programamos algoritmos en la linguistica computacional moderna. | Modern bilgisayarsal dilbilimde algoritmalar programlıyoruz.
-la lexicografia digital | dijital sözlükbilim | isim (d) | Actualizamos la lexicografia digital con corpus textuales masivos. | Devasa metin derlemleriyle dijital sözlükbilimi güncelliyoruz.
-la gramatica generativa | üretken dilbilgisi | isim (e) | Explicamos la teoria central de la gramatica generativa formal. | Biçimsel üretken dilbilgisinin merkezî teorisini açıklıyoruz.
+## Sözcük türleri
+la gramática | dil bilgisi | isim (d) | La gramática española no es tan difícil. | İspanyolca dil bilgisi o kadar zor değil.
+el sustantivo | isim (sözcük türü) | isim (e) | "Casa" es un sustantivo femenino. | "Casa" dişil bir isimdir.
+el adjetivo | sıfat | isim (e) | El adjetivo concuerda con el sustantivo. | Sıfat isimle uyum gösterir.
+el verbo | fiil | isim (e) | "Ser" y "estar" son dos verbos distintos. | "Ser" ve "estar" iki farklı fiildir.
+el adverbio | zarf | isim (e) | "Rápidamente" es un adverbio. | "Rápidamente" bir zarftır.
+la preposición | edat | isim (d) | Las preposiciones "por" y "para" causan muchos errores. | "Por" ve "para" edatları çok hataya yol açar.
+la conjunción | bağlaç | isim (d) | "Pero" es una conjunción. | "Pero" bir bağlaçtır.
+el pronombre | zamir | isim (e) | En español el pronombre sujeto se omite a menudo. | İspanyolcada özne zamiri sık sık düşürülür.
+el predicado | yüklem | isim (e) | El predicado dice algo del sujeto. | Yüklem özne hakkında bir şey söyler.
+el tiempo verbal | fiil zamanı | isim (e) | El español tiene muchos tiempos verbales. | İspanyolcada çok sayıda fiil zamanı vardır.
+## Biçim bilgisi
+la conjugación | çekim | isim (d) | La conjugación de los verbos irregulares cuesta mucho. | Düzensiz fiillerin çekimi çok zordur.
+conjugar | çekmek (fiil) | fiil | Conjuga el verbo "tener" en presente. | "Tener" fiilini şimdiki zamanda çek.
+el subjuntivo | dilek kipi | isim (e) | El subjuntivo es el gran reto de los estudiantes. | Dilek kipi öğrencilerin en büyük sınavıdır.
+el sufijo | sonek | isim (e) | El sufijo "-ción" forma sustantivos. | "-ción" soneki isim yapar.
+el diminutivo | küçültme | isim (e) | "Casita" es el diminutivo de "casa". | "Casita", "casa"nın küçültmesidir.
+el aumentativo | büyütme | isim (e) | "Cochazo" es un aumentativo coloquial. | "Cochazo" konuşma diline ait bir büyütmedir.
+el singular | tekil | isim (e) | Escribe la palabra en singular. | Kelimeyi tekil olarak yaz.
+el plural | çoğul | isim (e) | El plural de "lápiz" es "lápices". | "Lápiz"in çoğulu "lápices"tir.
+masculino | eril | sıfat | "Problema" es un sustantivo masculino. | "Problema" eril bir isimdir.
+femenino | dişil | sıfat | "Mano" es femenino aunque termina en -o. | "Mano" -o ile bitmesine rağmen dişildir.
+## Ses ve yazım
+la pronunciación | telaffuz | isim (d) | Su pronunciación es casi perfecta. | Telaffuzu neredeyse kusursuz.
+pronunciar | telaffuz etmek | fiil | No sé pronunciar bien la erre. | "R"yi iyi telaffuz edemiyorum.
+la entonación | tonlama | isim (d) | La entonación cambia en las preguntas. | Sorularda tonlama değişir.
+la sílaba | hece | isim (d) | "Mariposa" tiene cuatro sílabas. | "Mariposa" dört hecelidir.
+la vocal | ünlü | isim (d) | El español tiene cinco vocales. | İspanyolcada beş ünlü vardır.
+la consonante | ünsüz | isim (d) | La "ñ" es una consonante típica del español. | "Ñ" İspanyolcaya özgü bir ünsüzdür.
+la tilde | vurgu işareti | isim (d) | "Canción" lleva tilde en la o. | "Canción" o harfinde vurgu işareti taşır.
+la ortografía | yazım, imla | isim (d) | Revisa la ortografía antes de enviarlo. | Göndermeden önce yazımı kontrol et.
+la falta de ortografía | yazım hatası | isim (d) | El correo tenía tres faltas de ortografía. | E-postada üç yazım hatası vardı.
+deletrear | harf harf söylemek, kodlamak | fiil | ¿Puede deletrear su apellido? | Soyadınızı harf harf söyler misiniz?
+## Noktalama
+la puntuación | noktalama | isim (d) | La puntuación cambia el sentido de la frase. | Noktalama cümlenin anlamını değiştirir.
+la coma | virgül | isim (d) | Aquí falta una coma. | Burada bir virgül eksik.
+el punto y coma | noktalı virgül | isim (e) | Casi nadie usa el punto y coma. | Neredeyse kimse noktalı virgül kullanmıyor.
+las comillas | tırnak işareti | isim (çoğul) | Pon la cita entre comillas. | Alıntıyı tırnak içine al.
+los paréntesis | parantez | isim (çoğul) | La explicación va entre paréntesis. | Açıklama parantez içinde.
+la mayúscula | büyük harf | isim (d) | Los nombres propios se escriben con mayúscula. | Özel isimler büyük harfle yazılır.
+la minúscula | küçük harf | isim (d) | Los meses se escriben con minúscula en español. | İspanyolcada aylar küçük harfle yazılır.
+los signos de interrogación | soru işaretleri | isim (çoğul) | En español se abren y se cierran los signos de interrogación. | İspanyolcada soru işaretleri açılır ve kapanır.
+el punto final | son nokta | isim (e) | Olvidaste el punto final. | Son noktayı unuttun.
+la abreviatura | kısaltma | isim (d) | "Sr." es la abreviatura de "señor". | "Sr.", "señor"un kısaltmasıdır.
+## Anlam
+el sinónimo | eş anlamlı | isim (e) | "Bonito" y "lindo" son sinónimos. | "Bonito" ve "lindo" eş anlamlıdır.
+el antónimo | zıt anlamlı | isim (e) | El antónimo de "alto" es "bajo". | "Alto"nun zıt anlamlısı "bajo"dur.
+la acepción | anlam (sözlükte) | isim (d) | Esta palabra tiene tres acepciones. | Bu kelimenin üç anlamı var.
+el falso amigo | yalancı eşdeğer | isim (e) | "Embarazada" es un falso amigo del inglés. | "Embarazada" İngilizceye göre yalancı eşdeğerdir.
+el modismo | deyim, kalıp söz | isim (e) | Los modismos son difíciles de traducir. | Deyimleri çevirmek zordur.
+el refrán | atasözü | isim (e) | Como dice el refrán, más vale tarde que nunca. | Atasözünün dediği gibi, geç olsun güç olmasın.
+literalmente | kelimesi kelimesine | zarf | No lo traduzcas literalmente. | Onu kelimesi kelimesine çevirme.
+ambiguo | belirsiz, çift anlamlı | sıfat | La pregunta era ambigua. | Soru belirsizdi.
+la palabra clave | anahtar kelime | isim (d) | Subraya las palabras clave del texto. | Metindeki anahtar kelimelerin altını çiz.
+el significado | anlam | isim (e) | ¿Cuál es el significado de esta palabra? | Bu kelimenin anlamı ne?
+## Söz varlığı
+el vocabulario | kelime hazinesi | isim (e) | Lee mucho para ampliar tu vocabulario. | Kelime hazineni genişletmek için çok oku.
+el léxico | söz varlığı | isim (e) | El léxico del español tiene muchos arabismos. | İspanyolcanın söz varlığında çok sayıda Arapça kökenli kelime vardır.
+el neologismo | yeni sözcük | isim (e) | "Tuitear" es un neologismo. | "Tuitear" yeni bir sözcüktür.
+el anglicismo | İngilizceden alıntı | isim (e) | En el deporte hay muchos anglicismos. | Sporda çok sayıda İngilizce alıntı var.
+el arabismo | Arapçadan alıntı | isim (e) | "Almohada" es un arabismo. | "Almohada" Arapçadan alıntıdır.
+la etimología | köken bilgisi | isim (d) | Me interesa la etimología de las palabras. | Kelimelerin kökeni ilgimi çekiyor.
+el latín | Latince | isim (e) | El español procede del latín. | İspanyolca Latinceden gelir.
+el calco | öykünme çeviri | isim (e) | "Rascacielos" es un calco del inglés. | "Rascacielos" İngilizceden öykünme çeviridir.
+el glosario | terimler sözlüğü | isim (e) | Al final del libro hay un glosario. | Kitabın sonunda bir terimler sözlüğü var.
+en desuso | kullanılmayan, eskimiş | ifade | Esa expresión está en desuso. | O ifade artık kullanılmıyor.
+## Dil çeşitliliği
+el castellano | Kastilyaca, İspanyolca | isim (e) | En España se habla castellano y otras lenguas. | İspanya'da Kastilyaca ve başka diller konuşulur.
+la lengua cooficial | ortak resmî dil | isim (d) | El catalán es lengua cooficial en Cataluña. | Katalanca Katalonya'da ortak resmî dildir.
+el español de América | Amerika İspanyolcası | isim (e) | El español de América usa "ustedes" en lugar de "vosotros". | Amerika İspanyolcası "vosotros" yerine "ustedes" kullanır.
+el seseo | "z" ve "c"yi "s" gibi telaffuz etme | isim (e) | El seseo es típico de Andalucía y América. | Seseo, Endülüs ve Amerika'ya özgüdür.
+el acento regional | yöresel aksan | isim (e) | Tiene un acento regional muy marcado. | Çok belirgin bir yöresel aksanı var.
+la variante | varyant, değişke | isim (d) | Es una variante del español del Caribe. | Bu, Karayip İspanyolcasının bir varyantıdır.
+la jerga | meslek dili; argo | isim (d) | No entiendo la jerga de los médicos. | Doktorların meslek dilini anlamıyorum.
+el argot | argo | isim (e) | Los jóvenes usan mucho argot. | Gençler çok argo kullanır.
+coloquial | konuşma diline ait | sıfat | "Guay" es una palabra coloquial. | "Guay" konuşma diline ait bir kelimedir.
+culto | resmî, yüksek üsluplu; kültürlü | sıfat | Es una palabra culta, poco usada en la calle. | Bu resmî bir kelime, sokakta pek kullanılmaz.
+## Çeviri
+el traductor | çevirmen | isim (e) | Trabaja como traductor de novelas. | Roman çevirmeni olarak çalışıyor.
+el intérprete | tercüman (sözlü) | isim (e) | Necesitamos un intérprete para la reunión. | Toplantı için bir tercümana ihtiyacımız var.
+la interpretación simultánea | simultane çeviri | isim (d) | La interpretación simultánea exige mucha concentración. | Simultane çeviri çok konsantrasyon ister.
+el doblaje | dublaj | isim (e) | En España casi todas las películas tienen doblaje. | İspanya'da neredeyse tüm filmler dublajlıdır.
+la versión original | orijinal dil versiyonu | isim (d) | Prefiero ver las series en versión original. | Dizileri orijinal dilinde izlemeyi tercih ederim.
+intraducible | çevrilemez | sıfat | Algunas palabras son casi intraducibles. | Bazı kelimeler neredeyse çevrilemez.
+la lengua de destino | hedef dil | isim (d) | Un buen traductor domina la lengua de destino. | İyi bir çevirmen hedef dile hâkimdir.
+el traductor automático | makine çevirisi aracı | isim (e) | El traductor automático comete errores graciosos. | Makine çevirisi aracı komik hatalar yapıyor.
+la fidelidad al original | aslına sadakat | isim (d) | Busca la fidelidad al original sin perder naturalidad. | Doğallığı kaybetmeden aslına sadakat arıyor.
+la nota del traductor | çevirmen notu | isim (d) | Una nota del traductor explica el juego de palabras. | Bir çevirmen notu kelime oyununu açıklıyor.
+## Dil öğrenme
+el nativo | ana dili konuşan kişi | isim (e) | Practica con un nativo una vez por semana. | Haftada bir ana dili İspanyolca olan biriyle pratik yapıyor.
+el tándem | dil partneri, karşılıklı dil pratiği | isim (e) | Hago un tándem de español e inglés con una chica de Sevilla. | Sevilla'dan bir kızla İspanyolca-İngilizce dil pratiği yapıyorum.
+la comprensión lectora | okuduğunu anlama | isim (d) | Mi comprensión lectora es mejor que mi expresión oral. | Okuduğumu anlamam konuşmamdan daha iyi.
+la expresión oral | sözlü anlatım | isim (d) | El examen incluye una prueba de expresión oral. | Sınav bir sözlü anlatım bölümü içeriyor.
+la expresión escrita | yazılı anlatım | isim (d) | En la expresión escrita hay que escribir una carta. | Yazılı anlatımda bir mektup yazmak gerekiyor.
+la inmersión lingüística | dil ortamına dalma | isim (d) | La inmersión lingüística es la forma más rápida de aprender. | Dil ortamına dalmak öğrenmenin en hızlı yoludur.
+el nivel de idioma | dil seviyesi | isim (e) | Tienes que acreditar tu nivel de idioma. | Dil seviyeni belgelemen gerekiyor.
+equivocarse | yanılmak, hata yapmak | fiil · dönüşlü | No tengas miedo de equivocarte. | Hata yapmaktan korkma.
+autodidacta | kendi kendine öğrenen | sıfat | Aprendió japonés de forma autodidacta. | Japoncayı kendi kendine öğrendi.
+chapurrear | (bir dili) çat pat konuşmak | fiil | Chapurrea un poco de alemán. | Biraz çat pat Almanca konuşuyor.
+## Dil bilimi
+la lingüística | dil bilimi | isim (d) | Estudió lingüística en la universidad. | Üniversitede dil bilimi okudu.
+el lenguaje | dil (yeti), dil kullanımı | isim (e) | El lenguaje de los abogados es muy técnico. | Avukatların dili çok tekniktir.
+el lenguaje de signos | işaret dili | isim (e) | Aprendió lenguaje de signos para hablar con su hermano. | Kardeşiyle konuşmak için işaret dilini öğrendi.
+la academia | akademi | isim (d) | La Real Academia publica el diccionario oficial. | Kraliyet Akademisi resmî sözlüğü yayımlıyor.
+la norma culta | standart dil kuralı | isim (d) | Según la norma culta, se dice "haya", no "haiga". | Standart kurala göre "haiga" değil, "haya" denir.
+el uso | kullanım | isim (e) | El uso cambia más rápido que las normas. | Kullanım kurallardan daha hızlı değişir.
+la lengua muerta | ölü dil | isim (d) | El latín es una lengua muerta. | Latince ölü bir dildir.
+la lengua en peligro | tehlike altındaki dil | isim (d) | Hay miles de lenguas en peligro de desaparecer. | Kaybolma tehlikesindeki binlerce dil var.
+la familia lingüística | dil ailesi | isim (d) | El español pertenece a la familia lingüística románica. | İspanyolca Roman dil ailesine aittir.
+el abecedario | alfabe | isim (e) | El abecedario español tiene veintisiete letras. | İspanyol alfabesinde yirmi yedi harf vardır.

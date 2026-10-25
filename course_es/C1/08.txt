@@ -1,10 +1,10 @@
 # UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
 ## Proje ve planlama
 el anteproyecto | avan projeler | isim (e) | El arquitecto presentó el anteproyecto. | Mimar avan projeyi sundu.
-la cimentacion base | temel tabanı, altyapı temeli | isim (d) | La cimentación base debe soportar todo el peso. | Temel tabanı tüm ağırlığı taşımalıdır.
+el solar | arsa | isim (e) | Compraron un solar para construir viviendas. | Konut yapmak için bir arsa aldılar.
 el plano estructural | statik proje, statik plan | isim (e) | Debemos revisar el plano estructural cuidadosamente. | Statik projeyi dikkatlice incelemeliyiz.
 la volumetría | hacim, yapı kütlesi | isim (d) | La volumetría del edificio es impresionante. | Binanın yapı kütlesi etkileyici.
-el diseño bioclimatico | iklimsel tasarım, ekolojik tasarım | isim (e) | El diseño bioclimático reduce el consumo energético. | İklimsel tasarım enerji tüketimini azaltır.
+el diseño bioclimático | iklimsel tasarım, ekolojik tasarım | isim (e) | El diseño bioclimático reduce el consumo energético. | İklimsel tasarım enerji tüketimini azaltır.
 la memoria descriptiva | açıklama raporu, teknik rapor | isim (d) | La memoria descriptiva acompaña al proyecto base. | Teknik rapor ana projeye eşlik ediyor.
 el cálculo de cargas | yük hesabı, statik hesaplama | isim (e) | El cálculo de cargas garantiza la estabilidad. | Yük hesabı istikrarı garanti eder.
 la normativa urbanística | imar yönetmeliği, şehircilik mevzuatı | isim (d) | Debemos cumplir toda la normativa urbanística vigente. | Yürürlükteki tüm imar yönetmeliğine uymalıyız.
@@ -58,7 +58,7 @@ la recepción provisional | geçici kabul | isim (d) | Firmaron la recepción pr
 el mortero de cal | kireç harcı | isim (e) | Restauraron la fachada antigua usando mortero de cal. | Eski cepheyi kireç harcı kullanarak restore ettiler.
 el ladrillo hueco | delikli tuğla | isim (e) | Utilizaron ladrillo hueco para los tabiques divisorios. | Bölme duvarlar için delikli tuğla kullandılar.
 la madera laminada | lamine ahşap, lamine kereste | isim (d) | La madera laminada soporta grandes luces sin apoyos. | Lamine ahşap desteksiz büyük açıklıkları taşır.
-el panel composite | kompozit panel | isim (e) | Reistieron la fachada moderna con panel composite. | Modern cepheyi kompozit panelle kapladılar.
+el panel composite | kompozit panel | isim (e) | Revistieron la fachada moderna con panel composite. | Modern cepheyi kompozit panelle kapladılar.
 el vidrio templado | temperli cam | isim (e) | Colocaron vidrio templado en los grandes ventanales. | Büyük pencerelere temperli cam yerleştirdiler.
 la piedra natural | doğal taş | isim (d) | Revistieron el zócalo inferior con piedra natural. | Alt süpürgeliği doğal taşla kapladılar.
 el sellador acrílico | akrilik mastik, akrilik dolgu macunu | isim (e) | Aplicaron sellador acrílico en las juntas de dilatación. | Genleşme derzlerine akrilik mastik uyguladılar.
@@ -71,10 +71,10 @@ el falso techo | asma tavan | isim (e) | Ocultaron las instalaciones sobre el fa
 el pavimento continuo | kesintisiz zemin döşemesi | isim (e) | Pusieron un pavimento continuo de resina epoxi. | Epoksi reçineden kesintisiz zemin döşemesi yaptılar.
 el rodapié de madera | ahşap süpürgelik | isim (e) | Colocaron el rodapié de madera en todo el perímetro. | Tüm çevreye ahşap süpürgelik yerleştirdiler.
 el enlucido de yeso | alçı sıva | isim (e) | Alisaron las paredes interiores con un enlucido de yeso. | İç duvarları alçı sıva ile pürüzsüzleştirdiler.
-la carpintería interior | iç doğrama, ahşap kapı pencere | isim (d) | Toda la carpintería interior es de roble macisil. | Tüm iç doğrama masif meşedendir.
+la carpintería interior | iç doğrama, ahşap kapı pencere | isim (d) | Toda la carpintería interior es de roble macizo. | Tüm iç doğrama masif meşedendir.
 el panel acústico | akustik panel | isim (e) | Instalaron un panel acústico en la sala de conferencias. | Konferans salonuna akustik panel kurduttular.
 la pintura plástica | plastik boya, su bazlı boya | isim (d) | Dieron dos manos de pintura plástica blanca al salón. | Salona iki kat beyaz plastik boya vurdular.
-el perfil de aluminio | alüminyum profil | isim (e) | Montaron las ventanas usando un perfil de aluminio roto. | Pencereleri kırık alüminyum profil kullanarak monte ettiler.
+el perfil de aluminio | alüminyum profil | isim (e) | Montaron las ventanas usando un perfil de aluminio con rotura de puente térmico. | Pencereleri kırık alüminyum profil kullanarak monte ettiler.
 la mampara divisoria | bölme panel, cam bölme | isim (d) | Separaron los despachos con una mampara divisoria acristalada. | Ofisleri camlı bir bölme panelle ayırdılar.
 ## Güvenlik ve mevzuat
 el plan de seguridad | iş güvenliği planı | isim (e) | Todos deben cumplir el plan de seguridad en obra. | Herkes şantiyede iş güvenliği planına uymalıdır.
@@ -95,9 +95,9 @@ la reposición de sillares | kesme taş değişimi | isim (d) | Efectuaron la re
 la consolidación mural | duvar sağlamlaştırma | isim (d) | Aplicaron resinas para la consolidación mural histórica. | Tarihi duvarı sağlamlaştırmak için reçineler uyguladılar.
 el análisis estratigráfico | katman analizi, stratigrafik analiz | isim (e) | El análisis estratigráfico reveló pinturas ocultas. | Katman analizi gizli resimleri ortaya çıkardı.
 la reintegración volumétrica | hacimsel bütünleme, form tamamlama | isim (d) | Hicieron la reintegración volumétrica de la moldura barroca. | Barok kalıbın hacimsel bütünlemesini yaptılar.
-la inyección de resinas | reçine enjeksiyonu | isim (e) | Usaron inyección de resinas para frenar las grietas. | Çatlakları durdurmak için reçine enjeksiyonu kullandılar.
+la inyección de resinas | reçine enjeksiyonu | isim (d) | Usaron inyección de resinas para frenar las grietas. | Çatlakları durdurmak için reçine enjeksiyonu kullandılar.
 el mortero tradicional | geleneksel harç | isim (e) | Prepararon mortero tradicional sin componentes químicos. | Kimyasal bileşenler içermeyen geleneksel harç hazırladılar.
-la ficha catalogográfica | katalog fişi, envanter fişi | isim (d) | Completaron la ficha catalogográfica de cada elemento hallado. | Bulunan her öğenin katalog fişini tamamladılar.
+la ficha catalográfica | katalog fişi, envanter fişi | isim (d) | Completaron la ficha catalográfica de cada elemento hallado. | Bulunan her öğenin katalog fişini tamamladılar.
 ## Sürdürülebilir inşaat
 la edificación sostenible | sürdürülebilir yapı, ekolojik bina | isim (d) | La nueva edificación sostenible consume muy poca energía. | Yeni sürdürülebilir yapı çok az enerji tüketir.
 el panel fotovoltaico | fotovoltaik panel, güneş paneli | isim (e) | Cubrieron la azotea con un panel fotovoltaico eficiente. | Çatıyı verimli bir fotovoltaik panelle kapladılar.

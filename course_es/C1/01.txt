@@ -1,0 +1,111 @@
+# UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+## Akademik metin türleri
+el artículo científico | bilimsel makale | isim (e) | Publicó un artículo científico sobre el sueño. | Uyku üzerine bilimsel bir makale yayımladı.
+el ensayo académico | akademik deneme | isim (e) | El ensayo académico debe tener una tesis clara. | Akademik denemenin net bir tezi olmalıdır.
+el trabajo de fin de grado | bitirme tezi | isim (e) | Estoy escribiendo el trabajo de fin de grado. | Bitirme tezimi yazıyorum.
+la tesina | küçük tez | isim (d) | Presentó una tesina sobre poesía medieval. | Ortaçağ şiiri üzerine küçük bir tez sundu.
+el abstract | özet (makale) | isim (e) | El abstract no debe superar las doscientas palabras. | Özet iki yüz kelimeyi geçmemelidir.
+la revista indexada | indeksli dergi | isim (d) | Necesita publicar en revistas indexadas. | İndeksli dergilerde yayın yapması gerekiyor.
+el factor de impacto | etki faktörü | isim (e) | La revista tiene un factor de impacto alto. | Derginin etki faktörü yüksek.
+el coautor | ortak yazar | isim (e) | Firmó el artículo con dos coautores. | Makaleyi iki ortak yazarla birlikte imzaladı.
+la autoría | yazarlık | isim (d) | Hubo una disputa sobre la autoría del libro. | Kitabın yazarlığı konusunda bir anlaşmazlık çıktı.
+la monografía | monografi | isim (d) | Publicó una monografía sobre el teatro barroco. | Barok tiyatro üzerine bir monografi yayımladı.
+## Makalenin yapısı
+las palabras clave | anahtar sözcükler | isim (çoğul) | Incluya cinco palabras clave. | Beş anahtar sözcük ekleyiniz.
+el estado de la cuestión | literatür taraması | isim (e) | El estado de la cuestión revisa estudios anteriores. | Literatür taraması önceki çalışmaları gözden geçirir.
+el marco teórico | kuramsal çerçeve | isim (e) | El marco teórico se basa en dos autores. | Kuramsal çerçeve iki yazara dayanıyor.
+los resultados | bulgular | isim (çoğul) | Los resultados confirman la hipótesis. | Bulgular hipotezi doğruluyor.
+las conclusiones | sonuçlar (bölüm) | isim (çoğul) | En las conclusiones resume sus aportaciones. | Sonuç bölümünde katkılarını özetliyor.
+el apartado | bölüm, alt başlık | isim (e) | En el apartado tres se describe la muestra. | Üçüncü bölümde örneklem tanımlanıyor.
+el epígrafe | başlık; epigraf | isim (e) | Cada epígrafe trata un tema distinto. | Her başlık farklı bir konuyu ele alıyor.
+la figura | şekil | isim (d) | Como se observa en la figura 2, la tendencia es clara. | Şekil 2'de görüldüğü gibi eğilim açık.
+la referencia bibliográfica | kaynakça girdisi | isim (d) | Revisa el formato de cada referencia bibliográfica. | Her kaynakça girdisinin biçimini kontrol et.
+las líneas futuras | gelecek araştırma yönleri | isim (çoğul) | Al final propone líneas futuras de investigación. | Sonunda gelecek araştırma yönleri öneriyor.
+## Araştırma tasarımı
+la pregunta de investigación | araştırma sorusu | isim (d) | La pregunta de investigación es demasiado amplia. | Araştırma sorusu fazla geniş.
+la hipótesis de partida | başlangıç hipotezi | isim (d) | La hipótesis de partida resultó falsa. | Başlangıç hipotezi yanlış çıktı.
+el objetivo general | genel amaç | isim (e) | El objetivo general es describir el fenómeno. | Genel amaç olguyu betimlemektir.
+el corpus | derlem | isim (e) | El corpus incluye mil textos periodísticos. | Derlem bin gazete metni içeriyor.
+el alcance del estudio | çalışmanın kapsamı | isim (e) | Hay que definir el alcance del estudio. | Çalışmanın kapsamını belirlemek gerekir.
+las limitaciones | sınırlılıklar | isim (çoğul) | El estudio tiene algunas limitaciones. | Çalışmanın bazı sınırlılıkları var.
+delimitar | sınırlarını çizmek | fiil | Debemos delimitar el objeto de estudio. | Çalışmanın konusunun sınırlarını çizmeliyiz.
+acotar | daraltmak, sınırlamak | fiil | Conviene acotar el tema a un solo país. | Konuyu tek bir ülkeyle sınırlamak uygun olur.
+el planteamiento | yaklaşım, ortaya koyuş | isim (e) | El planteamiento del problema es original. | Sorunun ortaya konuşu özgün.
+abordar | ele almak | fiil | El capítulo aborda la cuestión del género. | Bölüm toplumsal cinsiyet meselesini ele alıyor.
+## Kaynak kullanımı
+la fuente primaria | birincil kaynak | isim (d) | Las cartas son una fuente primaria valiosa. | Mektuplar değerli bir birincil kaynaktır.
+la fuente secundaria | ikincil kaynak | isim (d) | Evita depender solo de fuentes secundarias. | Yalnızca ikincil kaynaklara bağlı kalmaktan kaçın.
+la paráfrasis | açımlama, başka sözlerle anlatma | isim (d) | Una buena paráfrasis no copia la estructura original. | İyi bir açımlama özgün yapıyı kopyalamaz.
+la revisión bibliográfica | kaynak taraması | isim (d) | La revisión bibliográfica le llevó tres meses. | Kaynak taraması üç ayını aldı.
+el estado del arte | alandaki son durum | isim (e) | El artículo resume el estado del arte en robótica. | Makale robotikteki son durumu özetliyor.
+en palabras de | ...'ın deyişiyle | ifade | En palabras de la autora, el lenguaje construye la realidad. | Yazarın deyişiyle dil gerçekliği inşa eder.
+tal y como señala | ...'ın belirttiği gibi | ifade | Tal y como señala el informe, el paro ha bajado. | Raporun belirttiği gibi işsizlik düştü.
+de acuerdo con | -e göre | ifade | De acuerdo con los datos, la población envejece. | Verilere göre nüfus yaşlanıyor.
+a juicio de | ...'a göre (görüş) | ifade | A juicio de los expertos, la medida es insuficiente. | Uzmanlara göre önlem yetersiz.
+el plagio académico | akademik intihal | isim (e) | El plagio académico puede costar el título. | Akademik intihal diplomaya mal olabilir.
+## Akademik fiiller
+corroborar | doğrulamak, teyit etmek | fiil | Los datos corroboran nuestra hipótesis. | Veriler hipotezimizi doğruluyor.
+constatar | saptamak, tespit etmek | fiil | Se constata un aumento de la desigualdad. | Eşitsizlikte bir artış saptanıyor.
+evidenciar | açıkça göstermek | fiil | El estudio evidencia la falta de recursos. | Çalışma kaynak eksikliğini açıkça gösteriyor.
+poner de manifiesto | gözler önüne sermek | ifade | Los resultados ponen de manifiesto un problema grave. | Bulgular ciddi bir sorunu gözler önüne seriyor.
+profundizar | derinleştirmek | fiil | Es necesario profundizar en este aspecto. | Bu yönü derinleştirmek gerekiyor.
+aportar | katkı sağlamak | fiil | Este trabajo aporta datos nuevos. | Bu çalışma yeni veriler sunuyor.
+la aportación | katkı | isim (d) | La principal aportación del libro es metodológica. | Kitabın başlıca katkısı yöntemseldir.
+generalizar | genellemek | fiil | No se pueden generalizar los resultados. | Sonuçlar genellenemez.
+la generalización | genelleme | isim (d) | Evita las generalizaciones apresuradas. | Aceleci genellemelerden kaçın.
+inferir de | -den çıkarmak | ifade | De estos datos se puede inferir una tendencia. | Bu verilerden bir eğilim çıkarılabilir.
+## Nitelikler
+riguroso | titiz | sıfat | Es un estudio riguroso y bien documentado. | Titiz ve iyi belgelenmiş bir çalışma.
+exhaustivo | kapsamlı, ayrıntılı | sıfat | Hizo un análisis exhaustivo de las fuentes. | Kaynakların kapsamlı bir analizini yaptı.
+sistemático | sistematik | sıfat | Se realizó una revisión sistemática. | Sistematik bir derleme yapıldı.
+relevante | önemli, anlamlı | sıfat | Es un dato muy relevante para el debate. | Tartışma için çok önemli bir veri.
+pertinente | ilgili, yerinde | sıfat | Su comentario no es pertinente aquí. | Yorumu burada yerinde değil.
+el rigor | titizlik | isim (e) | Le falta rigor metodológico. | Yöntemsel titizlikten yoksun.
+la validez | geçerlilik | isim (d) | Cuestionan la validez del experimento. | Deneyin geçerliliğini sorguluyorlar.
+la fiabilidad | güvenilirlik | isim (d) | La fiabilidad de la encuesta es alta. | Anketin güvenilirliği yüksek.
+la síntesis | sentez, özet | isim (d) | El capítulo final ofrece una síntesis. | Son bölüm bir sentez sunuyor.
+el indicador | gösterge | isim (e) | La esperanza de vida es un indicador de desarrollo. | Ortalama yaşam süresi bir kalkınma göstergesidir.
+## Söylem kalıpları
+en este sentido | bu bağlamda | ifade | En este sentido, conviene recordar el contexto histórico. | Bu bağlamda tarihsel bağlamı hatırlamak gerekir.
+en lo que respecta a | ... söz konusu olduğunda | ifade | En lo que respecta a la metodología, es cualitativa. | Yöntem söz konusu olduğunda nitel bir çalışmadır.
+con respecto a | -e ilişkin olarak | ifade | Con respecto a la segunda pregunta, los datos son escasos. | İkinci soruya ilişkin olarak veriler az.
+a la luz de | -in ışığında | ifade | A la luz de los resultados, hay que revisar la teoría. | Bulguların ışığında kuramı gözden geçirmek gerekir.
+en el marco de | çerçevesinde | ifade | El estudio se realizó en el marco de un proyecto europeo. | Çalışma bir Avrupa projesi çerçevesinde yürütüldü.
+desde esta perspectiva | bu açıdan | ifade | Desde esta perspectiva, el problema es político. | Bu açıdan sorun siyasidir.
+se desprende que | ...anlaşılmaktadır | ifade | De los datos se desprende que la medida funcionó. | Verilerden önlemin işe yaradığı anlaşılmaktadır.
+de ello se deriva | buradan ... çıkar | ifade | De ello se deriva la necesidad de nuevas políticas. | Buradan yeni politikalara ihtiyaç olduğu sonucu çıkar.
+conviene señalar | belirtmekte yarar var | ifade | Conviene señalar que la muestra era pequeña. | Örneklemin küçük olduğunu belirtmekte yarar var.
+cabe concluir | şu sonuca varılabilir | ifade | Cabe concluir que la hipótesis era correcta. | Hipotezin doğru olduğu sonucuna varılabilir.
+## Akademik üslup
+el registro académico | akademik üslup | isim (e) | Evita las expresiones coloquiales en el registro académico. | Akademik üslupta konuşma dili ifadelerinden kaçın.
+la impersonalidad | kişisizlik | isim (d) | La impersonalidad es típica del texto científico. | Kişisizlik bilimsel metne özgüdür.
+el plural de modestia | alçakgönüllülük çoğulu | isim (e) | "Hemos demostrado" es un plural de modestia. | "Kanıtladık" bir alçakgönüllülük çoğuludur.
+la voz pasiva | edilgen çatı | isim (d) | La voz pasiva es frecuente en los artículos. | Edilgen çatı makalelerde sık kullanılır.
+la cohesión textual | metin bağdaşıklığı | isim (d) | Los conectores mejoran la cohesión textual. | Bağlaçlar metin bağdaşıklığını iyileştirir.
+la tesis central | ana tez | isim (d) | La tesis central aparece en la introducción. | Ana tez girişte yer alıyor.
+el contraejemplo | karşı örnek | isim (e) | Un solo contraejemplo refuta la teoría. | Tek bir karşı örnek kuramı çürütür.
+la matización | inceltme, nüans katma | isim (d) | Su afirmación necesita algunas matizaciones. | İddiası bazı inceltmelere ihtiyaç duyuyor.
+en términos generales | genel olarak | ifade | En términos generales, los resultados son positivos. | Genel olarak sonuçlar olumlu.
+a grandes rasgos | ana hatlarıyla | ifade | A grandes rasgos, el texto tiene tres partes. | Ana hatlarıyla metin üç bölümden oluşuyor.
+## Akademik yaşam
+el tutor académico | akademik danışman | isim (e) | Mi tutor académico revisa cada capítulo. | Akademik danışmanım her bölümü gözden geçiriyor.
+la comunicación | bildiri | isim (d) | Presentó una comunicación en un congreso internacional. | Uluslararası bir kongrede bildiri sundu.
+la convocatoria de congreso | kongre çağrısı | isim (d) | Ha salido la convocatoria de congreso para mayo. | Mayıs için kongre çağrısı yayımlandı.
+el comité científico | bilim kurulu | isim (e) | El comité científico aceptó la propuesta. | Bilim kurulu öneriyi kabul etti.
+la evaluación por pares | hakem değerlendirmesi | isim (d) | El artículo está en evaluación por pares. | Makale hakem değerlendirmesinde.
+la integridad académica | akademik dürüstlük | isim (d) | La universidad promueve la integridad académica. | Üniversite akademik dürüstlüğü teşvik ediyor.
+el proyecto de investigación | araştırma projesi | isim (e) | Dirige un proyecto de investigación europeo. | Bir Avrupa araştırma projesini yönetiyor.
+el grupo de investigación | araştırma grubu | isim (e) | Se unió a un grupo de investigación de lingüística. | Bir dilbilim araştırma grubuna katıldı.
+la estancia de investigación | araştırma ziyareti | isim (d) | Hizo una estancia de investigación en Lisboa. | Lizbon'da bir araştırma ziyaretinde bulundu.
+la publicación en abierto | açık erişimli yayın | isim (d) | La universidad exige la publicación en abierto. | Üniversite açık erişimli yayın şartı koşuyor.
+## Yayın süreci
+la nota al pie | dipnot | isim (d) | La referencia aparece en una nota al pie. | Kaynak bir dipnotta yer alıyor.
+la cita bibliográfica | kaynakça atfı | isim (d) | Revisa el formato de cada cita bibliográfica. | Her kaynakça atfının biçimini kontrol et.
+el evaluador anónimo | anonim hakem | isim (e) | Un evaluador anónimo pidió más datos. | Anonim bir hakem daha fazla veri istedi.
+la versión preliminar | ön sürüm, taslak | isim (d) | Envió una versión preliminar del artículo a su tutor. | Makalenin ön sürümünü danışmanına gönderdi.
+el acceso abierto | açık erişim | isim (e) | La revista publica todos sus artículos en acceso abierto. | Dergi bütün makalelerini açık erişimle yayımlıyor.
+la coautoría | ortak yazarlık | isim (d) | El libro se publicó en coautoría con una colega. | Kitap bir meslektaşıyla ortak yazarlıkla yayımlandı.
+el índice de citas | atıf endeksi | isim (e) | Su índice de citas ha crecido mucho este año. | Atıf endeksi bu yıl çok arttı.
+la reseña crítica | eleştirel inceleme | isim (d) | Escribió una reseña crítica del último ensayo de su colega. | Meslektaşının son denemesi hakkında eleştirel bir inceleme yazdı.
+la prepublicación | ön baskı (hakemsiz yayın) | isim (d) | Los resultados circularon primero como prepublicación. | Sonuçlar önce ön baskı olarak dolaştı.
+el consejo editorial | yayın kurulu | isim (e) | El consejo editorial rechazó el manuscrito. | Yayın kurulu makaleyi reddetti.

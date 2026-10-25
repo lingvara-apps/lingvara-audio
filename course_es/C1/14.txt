@@ -1,111 +1,111 @@
 # UNIT: Eğitim ve pedagoji | Öğretim yöntemleri, okul yönetimi, değerlendirme
 ## Kuramsal temeller
-pedagogía | pedagoji, eğitim bilimi | isim (d) | La pedagogía moderna prioriza el pensamiento crítico. | Modern pedagoji eleştirel düşünceye öncelik verir.
-didáctica | didaktik, öğretim kuramı | isim (d) | La didáctica general mejora la práctica docente. | Genel didaktik öğretmenlik uygulamasını iyileştirir.
-cognitivismo | bilişselcilik | isim (o) | El cognitivismo explica el procesamiento mental de información. | Bilişselcilik, bilginin zihinsel işlenmesini açıklar.
-interaccionismo | etkileşimcilik | isim (o) | El constructivismo fomenta el aprendizaje autónomo. | Yapılandırmacılık özerk öğrenmeyi teşvik eder.
-andragogía | yetişkin eğitimi, andragoji | isim (d) | La andragogía se adapta a los intereses de los adultos. | Yetişkin eğitimi yetişkinlerin ilgi alanlarına uyarlanır.
-epistemología | bilgi kuramı, epistemoloji | isim (d) | La epistemología analiza los fundamentos del saber. | Bilgi kuramı bilginin temellerini inceler.
-heurística | sezgisel yöntem, buluşsal | isim (d) | La heurística estimula la resolución creativa de problemas. | Sezgisel yöntem yaratıcı problem çözmeyi teşvik eder.
-tipología | tipoloji, sınıflandırma bilimi | isim (d) | La taxonomía de objetivos guía el diseño curricular. | Hedef taksonomisi müfredat tasarımına rehberlik eder.
-paradigma | paradigma, örneklem | isim (o) | Un nuevo paradigma transforma la enseñanza superior. | Yeni bir paradigma yüksek eğitimi dönüştürür.
-clasificación | sınıflandırma | isim (d) | La taxonomía educativa clasifica las destrezas cognitivas. | Eğitimsel taksonomi bilişsel becerileri sınıflandırır.
-## Yöntemler ve yaklaşımlar
-inmersión | daldırma (dil öğretimi) | isim (d) | La inmersión lingüística acelera la fluidez oral. | Dilsel daldırma sözlü akıcılığı hızlandırır.
-bilingüismo | çift dilde eğitim, çift dillilik | isim (o) | El bilingüismo potencia habilidades cognitivas múltiples. | Çift dillilik çoklu bilişsel becerileri güçlendirir.
-gamificación | oyunlaştırma | isim (d) | La gamificación incrementa la motivación estudiantil. | Oyunlaştırma öğrenci motivasyonunu artırır.
-multimedia | çoklu ortam | isim (d) | La multimedia enriquece las explicaciones teórica. | Çoklu ortam teorik açıklamaları zenginleştirir.
-interdisciplinariedad | disiplinlerarasılık | isim (d) | La interdisciplinariedad conecta saberes fragmentados. | Disiplinlerarasılık parçalanmış bilgileri birbirine bağlar.
-contextualización | bağlamsallaştırma | isim (d) | La contextualización facilita la comprensión profunda. | Bağlamsallaştırma derinlemesine kavrayışı kolaylaştırır.
-alfabetización | okuryazarlık | isim (d) | La alfabetización digital resulta indispensable hoy en día. | Dijital okuryazarlık günümüzde vazgeçilmezdir.
-multiculturalidad | çok kültürlülük | isim (d) | La multiculturalidad enriquece el ambiente escolar. | Çok kültürlülük okul ortamını zenginleştirir.
-enfoque | yaklaşım, odak | isim (o) | El constructivismo promueve la construcción activa de saberes. | Yapılandırmacılık aktif bilgi inşasını teşvik eder.
-personalización | kişiselleştirme | isim (d) | La personalización atiende ritmos individuales de aprendizaje. | Kişiselleştirme bireysel öğrenme hızlarına hitap eder.
+la pedagogía | pedagoji | isim (d) | La pedagogía moderna prioriza el pensamiento crítico. | Modern pedagoji eleştirel düşünceye öncelik verir.
+la didáctica | öğretim bilgisi, didaktik | isim (d) | La didáctica de las matemáticas ha cambiado mucho. | Matematik öğretimi çok değişti.
+el conductismo | davranışçılık | isim (e) | El conductismo se basa en premios y castigos. | Davranışçılık ödül ve cezaya dayanır.
+el cognitivismo | bilişselcilik | isim (e) | El cognitivismo estudia cómo procesamos la información. | Bilişselcilik bilgiyi nasıl işlediğimizi inceler.
+el aprendizaje significativo | anlamlı öğrenme | isim (e) | El aprendizaje significativo conecta lo nuevo con lo que ya sabemos. | Anlamlı öğrenme yeniyi bildiklerimizle ilişkilendirir.
+la metacognición | üstbiliş | isim (d) | La metacognición nos ayuda a aprender a aprender. | Üstbiliş öğrenmeyi öğrenmemize yardım eder.
+el andamiaje | iskele kurma (öğretimde destek) | isim (e) | El profesor ofrece andamiaje hasta que el alumno es autónomo. | Öğretmen öğrenci bağımsızlaşana kadar destek sağlar.
+la zona de desarrollo próximo | yakınsak gelişim alanı | isim (d) | La tarea debe estar en la zona de desarrollo próximo. | Görev yakınsak gelişim alanında olmalıdır.
+la andragogía | yetişkin eğitimi bilimi | isim (d) | La andragogía tiene en cuenta la experiencia del adulto. | Yetişkin eğitimi bilimi yetişkinin deneyimini dikkate alır.
+el currículo | müfredat | isim (e) | El nuevo currículo da más peso a las competencias. | Yeni müfredat yetkinliklere daha fazla ağırlık veriyor.
+## Öğretim yöntemleri
+el aprendizaje cooperativo | işbirlikli öğrenme | isim (e) | El aprendizaje cooperativo mejora la convivencia. | İşbirlikli öğrenme bir arada yaşamayı iyileştirir.
+el aprendizaje basado en proyectos | proje tabanlı öğrenme | isim (e) | Trabajan con aprendizaje basado en proyectos. | Proje tabanlı öğrenmeyle çalışıyorlar.
+el aula invertida | ters yüz sınıf | isim (d) | Con el aula invertida, los alumnos ven la teoría en casa. | Ters yüz sınıfta öğrenciler teoriyi evde izliyor.
+la gamificación | oyunlaştırma | isim (d) | La gamificación aumenta la motivación. | Oyunlaştırma motivasyonu artırır.
+la interdisciplinariedad | disiplinlerarasılık | isim (d) | El proyecto fomenta la interdisciplinariedad. | Proje disiplinlerarasılığı teşvik ediyor.
+la memorización | ezberleme | isim (d) | Critican la memorización sin comprensión. | Anlamadan ezberlemeyi eleştiriyorlar.
+la lección magistral | düz anlatım dersi | isim (d) | La lección magistral sigue siendo habitual en la universidad. | Düz anlatım dersi üniversitede hâlâ yaygın.
+el diseño curricular | müfredat tasarımı | isim (e) | Participa en el diseño curricular del centro. | Okulun müfredat tasarımına katılıyor.
+la atención a la diversidad | farklılıklara göre öğretim | isim (d) | La atención a la diversidad exige más profesores. | Farklılıklara göre öğretim daha fazla öğretmen gerektirir.
+el pensamiento computacional | bilgisayarca düşünme | isim (e) | Enseñan pensamiento computacional desde primaria. | İlkokuldan itibaren bilgisayarca düşünme öğretiyorlar.
 ## Okul yönetimi
-asamblea | kurul, meclis | isim (d) | El claustro aprobó el nuevo reglamento interno. | Öğretmenler kurulu yeni iç tüzüğü onayladı.
-directiva | yönetim kurulu, direktif | isim (d) | La directiva escolar coordina los recursos institucionales. | Okul yönetimi kurumsal kaynakları koordine eder.
-profesorado | akademik kadro, öğretmenler | isim (o) | El claustro de profesores debate sobre metodologías activas. | Akademik kurul aktif metodolojileri tartışıyor.
-conserjería | danışma, kapıcılık | isim (d) | La conserjería gestiona el acceso al edificio principal. | Danışma ana binaya erişimi yönetir.
-inscripción | kayıt, öğrenci sayısı | isim (d) | La matrícula anual incluye actividades extracurriculares. | Yıllık kayıt ders dışı etkinlikleri kapsar.
-aranceles | okul kayıt ücreti | isim (o) | La matrícula escolar aumentó este curso académico. | Okul kaydı bu akademik yılda arttı.
-legajo | dosya, evrak | isim (o) | El expediente administrativo contiene todos los informes. | İdari dosya tüm raporları içerir.
-expediente | dosya, sicil | isim (o) | El expediente académico refleja notas excelentes. | Akademik sicil mükemmel notları yansıtıyor.
-orientación | rehberlik, yönlendirme | isim (d) | La orientación vocacional ayuda en la elección profesional. | Mesleki rehberlik meslek seçiminde yardımcı olur.
-normativa | yönetmelik, mevzuat | isim (d) | La normativa vigente exige evaluaciones trimestrales. | Yürürlükteki yönetmelik üç aylık değerlendirmeler gerektirir.
-## Ölçme ve değerlendirme
-rúbrica | dereceli puanlama anahtarı, rubrik | isim (d) | La rúbrica especifica los criterios de calificación. | Dereceli puanlama anahtarı notlandırma ölçütlerini belirtir.
-calificación | not verme, derecelendirme | isim (d) | La calificación final contempla trabajos y exámenes. | Final notu ödevleri ve sınavları kapsar.
-heteroevaluación | dış değerlendirme, başkası tarafından değerlendirme | isim (d) | La heteroevaluación complementa la autoevaluación reflexiva. | Dış değerlendirme yansıtıcı öz değerlendirmeyi tamamlar.
-autoevaluación | öz değerlendirme | isim (d) | La autoevaluación fomenta la metacognición estudiantil. | Öz değerlendirme öğrenci üst bilişini teşvik eder.
-coevaluación | akran değerlendirmesi | isim (d) | La coevaluación enriquece la perspectiva crítica grupal. | Akran değerlendirmesi grup eleştirel bakış açısını zenginleştirir.
-cuestionario | anket, soru listesi | isim (o) | El cuestionario mide el grado de satisfacción docente. | Anket öğretmen memnuniyet derecesini ölçer.
-portafolio | öğrenci ürün seçkisi, portfolyo | isim (o) | El portafolio recopila evidencias del progreso continuo. | Portfolyo sürekli ilerlemenin kanıtlarını toplar.
-acreditación | akreditasyon, yetki belgesi | isim (d) | La acreditación internacional valida la calidad educativa. | Uluslararası akreditasyon eğitim kalitesini doğrular.
-baremo | puanlama cetveli, barem | isim (o) | El baremo establece puntos para becas de investigación. | Puanlama cetveli araştırma bursları için puanlar belirler.
-convalidación | denklik, ders saydırma | isim (d) | La convalidación de títulos extranjeros requiere trámites largos. | Yabancı diplomaların denkliği uzun işlemler gerektirir.
-## Sınıf içi etkileşim
-cooperación | iş birliği | isim (d) | La cooperación grupal mejora los resultados académicos. | Grup iş birliği akademik sonuçları iyileştirir.
-interacción | etkileşim | isim (d) | La interacción oral dinamiza las sesiones de clase. | Sözlü etkileşim ders oturumlarına canlılık kazandırır.
-mediación | arabuluculuk, rehberlik etme | isim (d) | La mediación escolar resuelve conflictos pacíficamente. | Okul arabuluculuğu çatışmaları barışçıl bir şekilde çözer.
-socialización | sosyalleşme | isim (d) | La socialización temprana beneficia el desarrollo infantil. | Erken sosyalleşme çocuk gelişimine fayda sağlar.
-retroalimentación | geri bildirim | isim (d) | La retroalimentación constructiva orienta al alumno. | Yapılandırıcı geri bildirim öğrenciye rehberlik eder.
-participación | katılım | isim (d) | La participación activa garantiza aprendizajes significativos. | Aktif katılım anlamlı öğrenmeleri garanti eder.
-motivación | motivasyon | isim (d) | La motivación intrínseca perdura a lo largo del tiempo. | İçsel motivasyon zamanla kalıcılığını korur.
-empatía | empati | isim (d) | La empatía docente genera un clima de confianza. | Öğretmen empatisi bir güven iklimi yaratır.
-asertividad | atılganlık, kendinden emin olma | isim (d) | La asertividad facilita expresar opiniones con respeto. | Atılganlık düşünceleri saygıyla ifade etmeyi kolaylaştırır.
-liderazgo | liderlik | isim (o) | El liderazgo pedagógico inspira a toda la comunidad. | Pedagojik liderlik tüm topluluğa ilham verir.
-## Özel eğitim ve kapsayıcılık
-inclusión | kapsayıcılık, dahil etme | isim (d) | La inclusión educativa garantiza igualdad de oportunidades. | Eğitimde kapsayıcılık fırsat eşitliğini garanti eder.
-diversidad | çeşitlilik | isim (d) | La diversidad enriquece el pensamiento del aula. | Çeşitlilik sınıfın düşünce yapısını zenginleştirir.
-adaptación | uyarlama, adaptasyon | isim (d) | La adaptación curricular atiende necesidades especiales. | Müfredat uyarlaması özel ihtiyaçları karşılar.
-discapacidad | engellilik | isim (d) | La discapacidad no limita el deseo de superación. | Engellilik kendini geliştirme arzusunu sınırlamaz.
-accesibilidad | erişilebilirlik | isim (d) | La accesibilidad universal beneficia a todos los estudiantes. | Evrensel erişilebilirlik tüm öğrencilere fayda sağlar.
-integración | bütünleştirme | isim (d) | La integración escolar promueve la convivencia armónica. | Okul bütünleştirmesi uyumlu bir arada yaşamayı teşvik eder.
-estimulación | uyarıcı eğitim, uyarım | isim (d) | La estimulación temprana optimiza funciones cognitivas. | Erken uyarım bilişsel işlevleri optimize eder.
-dislexia | disleksi | isim (d) | La dislexia requiere metodologías de lectura específicas. | Disleksi özel okuma yöntemleri gerektirir.
-superdotación | üstün zekalılık | isim (d) | La superdotación demanda programas de enriquecimiento. | Üstün zekalılık zenginleştirme programları talep eder.
-vulnerabilidad | kırılganlık | isim (d) | La vulnerabilidad social exige apoyo institucional firme. | Sosyal kırılganlık güçlü kurumsal destek gerektirir.
+el claustro | öğretmenler kurulu | isim (e) | El claustro aprobó el nuevo calendario. | Öğretmenler kurulu yeni takvimi onayladı.
+el consejo escolar | okul aile birliği kurulu | isim (e) | El consejo escolar incluye a padres y alumnos. | Okul kurulu velileri ve öğrencileri de kapsar.
+el jefe de estudios | müdür yardımcısı (eğitim) | isim (e) | El jefe de estudios organiza los horarios. | Eğitimden sorumlu müdür yardımcısı ders programlarını düzenliyor.
+el orientador | rehber öğretmen | isim (e) | El orientador le ayudó a elegir carrera. | Rehber öğretmen bölüm seçmesine yardım etti.
+la tutoría | rehberlik saati, danışmanlık | isim (d) | Los viernes tenemos una hora de tutoría. | Cuma günleri bir saat rehberlik dersimiz var.
+la ratio | sınıf mevcudu oranı | isim (d) | Piden bajar la ratio a veinte alumnos por aula. | Sınıf başına öğrenci sayısının yirmiye düşürülmesini istiyorlar.
+la jornada lectiva | ders saatleri | isim (d) | La jornada lectiva termina a las tres. | Ders saatleri üçte bitiyor.
+las actividades extraescolares | ders dışı etkinlikler | isim (çoğul) | Las actividades extraescolares son de pago. | Ders dışı etkinlikler ücretli.
+el interino | geçici kadrolu öğretmen | isim (e) | Es interino desde hace seis años. | Altı yıldır geçici kadrolu öğretmen.
+la vocación docente | öğretmenlik aşkı | isim (d) | Tiene una vocación docente extraordinaria. | Olağanüstü bir öğretmenlik aşkı var.
+## Değerlendirme
+la rúbrica | dereceli puanlama anahtarı | isim (d) | La rúbrica explica cómo se va a puntuar. | Puanlama anahtarı nasıl not verileceğini açıklıyor.
+la evaluación continua | sürekli değerlendirme | isim (d) | En esta asignatura hay evaluación continua. | Bu derste sürekli değerlendirme var.
+la evaluación formativa | biçimlendirici değerlendirme | isim (d) | La evaluación formativa sirve para mejorar, no para castigar. | Biçimlendirici değerlendirme cezalandırmak için değil, geliştirmek içindir.
+la autoevaluación | öz değerlendirme | isim (d) | La autoevaluación fomenta la reflexión. | Öz değerlendirme düşünmeyi teşvik eder.
+la coevaluación | akran değerlendirmesi | isim (d) | En la coevaluación los alumnos se corrigen entre ellos. | Akran değerlendirmesinde öğrenciler birbirlerini düzeltir.
+el portafolio | gelişim dosyası | isim (e) | El portafolio recoge todos los trabajos del curso. | Gelişim dosyası yıl boyunca yapılan tüm çalışmaları içerir.
+el suspenso | kalma notu | isim (e) | Sacó un suspenso en química. | Kimyadan kaldı.
+repetir curso | sınıfta kalmak | ifade | Repitió curso en segundo de la ESO. | Ortaokul ikinci sınıfta sınıfta kaldı.
+la nota de corte | taban puan | isim (d) | La nota de corte de Medicina es altísima. | Tıbbın taban puanı çok yüksek.
+la selectividad | üniversite giriş sınavı | isim (d) | Aprobó la selectividad con buena nota. | Üniversite giriş sınavını iyi bir notla geçti.
+## Belgeler ve işlemler
+la convalidación | denklik, ders saydırma | isim (d) | La convalidación del título tardó un año. | Diplomanın denklik işlemi bir yıl sürdü.
+convalidar | denkliğini tanımak, ders saydırmak | fiil | Le convalidaron tres asignaturas. | Üç dersini saydılar.
+la acreditación | akreditasyon | isim (d) | El máster tiene acreditación oficial. | Yüksek lisansın resmî akreditasyonu var.
+el baremo | puanlama cetveli | isim (e) | Según el baremo, la experiencia cuenta mucho. | Puanlama cetveline göre deneyim çok önemli.
+el certificado de notas | not dökümü | isim (e) | Pide el certificado de notas en secretaría. | Not dökümünü öğrenci işlerinden iste.
+la conserjería | kapı görevlisi odası, danışma | isim (d) | Deja el paquete en conserjería. | Paketi danışmaya bırak.
+el plazo de matrícula | kayıt süresi | isim (e) | El plazo de matrícula termina el viernes. | Kayıt süresi cuma günü bitiyor.
+la tasa académica | harç | isim (d) | Las tasas académicas han subido. | Harçlar arttı.
+el título homologado | denkliği onaylanmış diploma | isim (e) | Necesitas un título homologado para trabajar aquí. | Burada çalışmak için denkliği onaylanmış bir diplomaya ihtiyacın var.
+la calificación | not, derece | isim (d) | Obtuvo la calificación de sobresaliente. | Pekiyi derecesi aldı.
+## Sınıf ortamı
+el clima de aula | sınıf iklimi | isim (e) | El buen clima de aula favorece el aprendizaje. | İyi bir sınıf iklimi öğrenmeyi kolaylaştırır.
+la convivencia escolar | okulda bir arada yaşam | isim (d) | El plan de convivencia escolar previene conflictos. | Okulda bir arada yaşam planı çatışmaları önler.
+la mediación escolar | okul arabuluculuğu | isim (d) | Los alumnos mediadores participan en la mediación escolar. | Arabulucu öğrenciler okul arabuluculuğuna katılıyor.
+la retroalimentación | geri bildirim | isim (d) | Una buena retroalimentación ayuda a mejorar. | İyi bir geri bildirim gelişmeye yardım eder.
+la asertividad | girişkenlik, kendini ifade etme | isim (d) | Trabajan la asertividad en tutoría. | Rehberlik saatinde kendini ifade etme üzerine çalışıyorlar.
+la escucha activa | etkin dinleme | isim (d) | La escucha activa mejora la comunicación. | Etkin dinleme iletişimi iyileştirir.
+la participación activa | etkin katılım | isim (d) | Se valora la participación activa en clase. | Derse etkin katılım değerlendiriliyor.
+la motivación intrínseca | içsel motivasyon | isim (d) | La motivación intrínseca dura más que los premios. | İçsel motivasyon ödüllerden daha uzun sürer.
+la expectativa docente | öğretmen beklentisi | isim (d) | Las expectativas docentes influyen en el rendimiento. | Öğretmen beklentileri başarıyı etkiler.
+el liderazgo pedagógico | eğitsel liderlik | isim (e) | La directora ejerce un liderazgo pedagógico claro. | Müdür açık bir eğitsel liderlik sergiliyor.
+## Kapsayıcı eğitim
+la inclusión educativa | kapsayıcı eğitim | isim (d) | La inclusión educativa es un derecho. | Kapsayıcı eğitim bir haktır.
+la adaptación curricular | müfredat uyarlaması | isim (d) | Tiene una adaptación curricular en matemáticas. | Matematikte müfredat uyarlaması var.
+las necesidades educativas especiales | özel eğitim gereksinimleri | isim (çoğul) | El centro atiende a alumnos con necesidades educativas especiales. | Okul özel eğitim gereksinimi olan öğrencilere hizmet veriyor.
+el TDAH | dikkat eksikliği ve hiperaktivite bozukluğu | isim (e) | Le diagnosticaron TDAH a los ocho años. | Sekiz yaşında DEHB tanısı kondu.
+la superdotación | üstün zekâlılık | isim (d) | La superdotación también necesita atención especial. | Üstün zekâlılık da özel ilgi gerektirir.
+la atención temprana | erken müdahale | isim (d) | La atención temprana es clave en los primeros años. | Erken müdahale ilk yıllarda çok önemlidir.
+el profesor de apoyo | destek öğretmeni | isim (e) | El profesor de apoyo trabaja con pequeños grupos. | Destek öğretmeni küçük gruplarla çalışıyor.
+la estimulación temprana | erken uyarım | isim (d) | La estimulación temprana favorece el desarrollo. | Erken uyarım gelişimi destekler.
+la lengua de signos | işaret dili (resmî) | isim (d) | La intérprete traduce a lengua de signos. | Tercüman işaret diline çeviriyor.
+el aula de enlace | uyum sınıfı | isim (d) | Los alumnos extranjeros empiezan en el aula de enlace. | Yabancı öğrenciler uyum sınıfında başlıyor.
 ## Dijital eğitim
-plataforma | platform | isim (d) | La plataforma virtual centraliza los contenidos teóricos. | Sanal platform teorik içerikleri merkezi hale getirir.
-digitalización | dijitalleştirme | isim (d) | La digitalización moderniza la gestión administrativa. | Dijitalleştirme idari yönetimi modernize eder.
-interconectividad | birbirine bağlılık | isim (d) | La interconectividad global facilita el intercambio de datos. | Küresel bağlantılılık veri alışverişini kolaylaştırır.
-ciberseguridad | siber güvenlik | isim (d) | La ciberseguridad protege las cuentas institucionales. | Siber güvenlik kurumsal hesapları korur.
-alfabetización_digital | dijital okuryazarlık | isim (d) | La alfabetización digital previene riesgos en la red. | Dijital okuryazarlık ağdaki riskleri önler.
-virtualización | sanallaştırma | isim (d) | La virtualización de laboratorios optimiza recursos. | Laboratuvarların sanallaştırılması kaynakları optimize eder.
-programación | programlama | isim (d) | La programación estimula el pensamiento lógico computacional. | Programlama mantıksal hesaplama düşüncesini teşvik eder.
-conectividad | bağlantı, bağlanabilirlik | isim (d) | La conectividad estable resulta clave para clases online. | İstikrarlı bağlantı çevrim içi dersler için kilit önem taşır.
-automatización | otomasyon | isim (d) | La automatización evalúa test de opción múltiple. | Otomasyon çoktan seçmeli testleri değerlendirir.
-telemática | telematik, uzaktan iletişim | isim (d) | La telemática conecta aulas de diferentes continentes. | Telematik, farklı kıtalardaki sınıfları birbirine bağlar.
-## Eğitim politikaları ve reform
-legislación | yasama, mevzuat | isim (d) | La legislación educativa evoluciona según demandas sociales. | Eğitim mevzuatı toplumsal taleplere göre evrilir.
-financiación | finansman | isim (d) | La financiación pública garantiza educación gratuita y universal. | Kamu finansmanı ücretsiz ve evrensel eğitimi garanti eder.
-escolarización | okullaşma | isim (d) | La escolarización obligatoria abarca hasta la adolescencia. | Zorunlu okullaşma ergenliğe kadar kapsar.
-deserción | okulu bırakma | isim (d) | La deserción escolar preocupa a las autoridades educativas. | Okulu bırakma eğitim otoritelerini endişelendiriyor.
-sostenibilidad | sürdürülebilirlik | isim (d) | La sostenibilidad guía los proyectos escolares ecológicos. | Sürdürülebilirlik ekolojik okul projelerine rehberlik eder.
-globalización | küreselleşme | isim (d) | La globalización exige competencias interculturales sólidas. | Küreselleşme sağlam kültürlerarası yetkinlikler gerektirir.
-descentralización | merkeziyetsizlik | isim (d) | La descentralización administrativa otorga autonomía a los centros. | İdari merkeziyetsizlik okullara özerklik kazandırır.
-institucionalización | kurumsallaşma | isim (d) | La institucionalización consolida los proyectos pedagógicos. | Kurumsallaşma pedagojik projeleri pekiştirir.
-planificación | planlama | isim (d) | La planificación estratégica anticipa necesidades futuras. | Stratejik planlama gelecekteki ihtiyaçları öngörür.
-transparencia | şeffaflık | isim (d) | La transparencia administrativa fortalece la confianza ciudadana. | İdari şeffaflık vatandaş güvenini güçlendirir.
-## Bilimsel araştırma
-investigación | araştırma | isim (d) | La investigación educativa fundamenta nuevas prácticas. | Eğitim araştırması yeni uygulamaların temelini oluşturur.
-metodología | metodoloji, yöntem bilimi | isim (d) | La metodología cualitativa profundiza en vivencias subjetivas. | Nitel metodoloji öznel deneyimleri derinlemesine inceler.
-bibliografía | kaynakça | isim (d) | La bibliografía actualizada respalda el marco teórico. | Güncel kaynakça teorik çerçeveyi destekler.
-demostración | kanıtlama, gösteri | isim (d) | La demostración empírica valida la hipótesis inicial. | Empirik kanıt ilk hipotezi doğrular.
-conclusión | sonuç | isim (d) | La conclusión resume los hallazgos principales del estudio. | Sonuç, çalışmanın ana bulgularını özetler.
-experimentación | deneme, deney | isim (d) | La experimentación comprueba teorías pedagógicas. | Deneme yanılma pedagojik teorileri doğrular.
-divulgación | yayma, popülerleştirme | isim (d) | La divulgación científica acerca el saber a la sociedad. | Bilimsel yayma bilgiyi toplumla buluşturur.
-interpretación | yorumlama | isim (d) | La interpretación de datos requiere rigor analítico. | Veri yorumlama analitik titizlik gerektirir.
-fundamentación | temellendirme | isim (d) | La fundamentación teórica sostiene el proyecto final. | Teorik temellendirme bitirme projesini destekler.
-sistematización | sistemleştirme | isim (d) | La sistematización organiza experiencias pedagógicas exitosas. | Sistemleştirme başarılı pedagojik deneyimleri düzenler.
-## Yaşam boyu öğrenme
-actualización | günceleme, yenileme | isim (d) | La actualización profesional previene la obsolescencia laboral. | Mesleki güncelleme iş obsolasansını önler.
-perseverancia | azim, sebat | isim (d) | La perseverancia resulta indispensable para dominar disciplinas. | Azim disiplinlerde uzmanlaşmak için vazgeçilmezdir.
-superación | kendini aşma, üstesinden gelme | isim (d) | La superación personal impulsa el crecimiento continuo. | Kişisel gelişim sürekli büyümeyi tetikler.
-autonomía | özerklik | isim (d) | La autonomía fomenta la responsabilidad individual. | Özerklik bireysel sorumluluğu teşvik eder.
-curiosidad | merak | isim (d) | La curiosidad innata estimula el descubrimiento constante. | Doğuştan gelen merak sürekli keşfi teşvik eder.
-flexibilidad | esneklik | isim (d) | La flexibilidad mental facilita adaptarse a cambios rápidos. | Zihinsel esneklik hızlı değişimlere uyum sağlamayı kolaylaştırır.
-reflexión | yansıtma, düşünce | isim (d) | La reflexión crítica mejora la toma de decisiones. | Eleştirel düşünce karar vermeyi iyileştirir.
-dedicación | adanmışlık, özveri | isim (d) | La dedicación plena caracteriza a los grandes investigadores. | Tam adanmışlık büyük araştırmacıların karakteristiğidir.
-madurez | olgunluk | isim (d) | La madurez intelectual enriquece el debate académico. | Entelektüel olgunluk akademik tartışmayı zenginleştirir.
-trascendencia | aşkınlık, kalıcılık | isim (d) | La trascendencia del saber perdura generaciones enteras. | Bilginin kalıcılığı nesiller boyu sürer.
+la plataforma educativa | eğitim platformu | isim (d) | Los deberes se entregan en la plataforma educativa. | Ödevler eğitim platformunda teslim ediliyor.
+la educación a distancia | uzaktan eğitim | isim (d) | Estudia por educación a distancia. | Uzaktan eğitimle okuyor.
+la competencia digital | dijital yetkinlik | isim (d) | Los docentes necesitan formación en competencia digital. | Öğretmenlerin dijital yetkinlik eğitimine ihtiyacı var.
+la pizarra digital | akıllı tahta | isim (d) | Todas las aulas tienen pizarra digital. | Tüm sınıflarda akıllı tahta var.
+el recurso educativo abierto | açık eğitim kaynağı | isim (e) | Comparte sus materiales como recurso educativo abierto. | Materyallerini açık eğitim kaynağı olarak paylaşıyor.
+la clase en línea | çevrim içi ders | isim (d) | La clase en línea se cortó tres veces. | Çevrim içi ders üç kez kesildi.
+el aprendizaje híbrido | karma öğrenme | isim (e) | La universidad apuesta por el aprendizaje híbrido. | Üniversite karma öğrenmeye yatırım yapıyor.
+la brecha digital educativa | eğitimde dijital uçurum | isim (d) | La pandemia reveló la brecha digital educativa. | Pandemi eğitimdeki dijital uçurumu ortaya çıkardı.
+el entorno virtual de aprendizaje | sanal öğrenme ortamı | isim (e) | Todo el material está en el entorno virtual de aprendizaje. | Tüm materyal sanal öğrenme ortamında.
+el aprendizaje adaptativo | uyarlanabilir öğrenme | isim (e) | El aprendizaje adaptativo ajusta las tareas a cada alumno. | Uyarlanabilir öğrenme görevleri her öğrenciye göre ayarlar.
+## Eğitim sistemi
+la enseñanza obligatoria | zorunlu eğitim | isim (d) | La enseñanza obligatoria termina a los dieciséis. | Zorunlu eğitim on altı yaşında biter.
+la educación infantil | okul öncesi eğitim | isim (d) | La educación infantil no es obligatoria. | Okul öncesi eğitim zorunlu değil.
+la educación secundaria | ortaöğretim | isim (d) | La educación secundaria dura cuatro años. | Ortaöğretim dört yıl sürer.
+el bachillerato | lise (son iki yıl) | isim (e) | Hizo el bachillerato de ciencias. | Lisede fen alanında okudu.
+la formación profesional | meslek eğitimi | isim (d) | La formación profesional tiene mucha salida laboral. | Meslek eğitiminin iş bulma imkânı çok.
+la escuela pública | devlet okulu | isim (d) | Defiende la escuela pública de calidad. | Kaliteli devlet okulunu savunuyor.
+el colegio concertado | devlet destekli özel okul | isim (e) | Sus hijos van a un colegio concertado. | Çocukları devlet destekli bir özel okula gidiyor.
+la ley educativa | eğitim yasası | isim (d) | Cada gobierno aprueba una nueva ley educativa. | Her hükümet yeni bir eğitim yasası çıkarıyor.
+la tasa de abandono | okul terk oranı | isim (d) | La tasa de abandono ha bajado. | Okul terk oranı düştü.
+la escolarización | okullaşma | isim (d) | La escolarización es casi total. | Okullaşma neredeyse tam.
+## Yükseköğretim ve yaşam boyu öğrenme
+el grado universitario | lisans derecesi | isim (e) | El grado universitario dura cuatro años. | Lisans eğitimi dört yıl sürer.
+la tesis doctoral | doktora tezi | isim (d) | Está terminando la tesis doctoral. | Doktora tezini bitiriyor.
+la defensa de la tesis | tez savunması | isim (d) | La defensa de la tesis será en junio. | Tez savunması haziranda olacak.
+el tribunal de tesis | tez jürisi | isim (e) | El tribunal de tesis le dio cum laude. | Tez jürisi ona en yüksek derecenin verilmesini uygun gördü.
+la formación continua | sürekli eğitim | isim (d) | La empresa ofrece formación continua. | Şirket sürekli eğitim sunuyor.
+el aprendizaje permanente | yaşam boyu öğrenme | isim (e) | El aprendizaje permanente es necesario hoy. | Yaşam boyu öğrenme bugün zorunlu.
+el autoaprendizaje | kendi kendine öğrenme | isim (e) | El autoaprendizaje exige disciplina. | Kendi kendine öğrenme disiplin gerektirir.
+la fuerza de voluntad | irade gücü | isim (d) | Aprender un idioma requiere fuerza de voluntad. | Dil öğrenmek irade gücü gerektirir.
+la cultura del esfuerzo | emek kültürü | isim (d) | Algunos reclaman recuperar la cultura del esfuerzo. | Bazıları emek kültürünün geri kazanılmasını istiyor.
+la curiosidad intelectual | entelektüel merak | isim (d) | La curiosidad intelectual es el motor del aprendizaje. | Entelektüel merak öğrenmenin motorudur.

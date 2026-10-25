@@ -1,111 +1,111 @@
 # UNIT: Din, felsefe ve değerler | İnanç, ahlak, felsefi kavramlar
-## Teoloji ve inanç
-el dogma | dogma, katı inanç | isim (e) | El dogma limita la reflexión libre. | Dogma özgür düşünceyi sınırlar.
-la fe | inanç, itikat | isim (d) | Su fe inquebrantable inspiraba respeto. | Sarsılmaz inancı saygı uyandırıyordu.
-el credo | inanç sistemi, mezhep | isim (e) | Cada credo tiene sus propios ritos. | Her inanç sisteminin kendine özgü ayinleri vardır.
-el clérigo | din adamı, ruhban | isim (e) | El clérigo presidía la ceremonia litúrgica. | Din adamı ayin törenine başkanlık ediyordu.
-la divinidad | ilahilik, Tanrısallık | isim (d) | Buscaban la conexión con la divinidad. | İlahi olanla bağlantı arıyorlardı.
-el dogma religioso | dini dogma | isim (e) | Cuestionar el dogma religioso era peligroso. | Dini dogmayı sorgulamak tehlikeliydi.
-el alma | ruh | isim (d) | Creían en la inmortalidad del alma. | Ruhun ölümsüzlüğüne inanıyorlardı.
-el rezo | dua, ibadet | isim (e) | El rezo matutino traía paz interior. | Sabah duası iç huzur getiriyordu.
-el santuario | kutsal tapınak, mabet | isim (e) | Peregrinaban hacia el santuario antiguo. | Antik mabede doğru hac yolculuğu yapıyorlardı.
-el pecado | günah | isim (e) | Buscaban el perdón por cada pecado cometido. | İşlenen her günah için af arıyorlardı.
-## Ahlak ve erdem
-la moral | ahlak | isim (d) | Su moral intachable guiaba sus acciones. | Kusursuz ahlakı eylemlerine rehberlik ediyordu.
-la honestidad | dürüstlük | isim (d) | La honestidad valorábase por encima de todo. | Dürüstlük her şeyden üstün tutuluyordu.
-el vicio | kusur, kötü alışkanlık | isim (e) | Intentaba superar cada vicio personal. | Her kişisel kusurunun üstesinden gelmeye çalışıyordu.
-el deber moral | ahlaki görev | isim (e) | Ayudar al necesitado era su deber moral. | Muhtaca yardım etmek onun ahlaki göreviydi.
-la conciencia | vicdan, bilinç | isim (d) | Su conciencia estaba totalmente tranquila. | Vicdanı tamamen rahattı.
-el juicio ético | etik yargı | isim (e) | Emitió un juicio ético muy severo. | Çok sert bir etik yargıda bulundu.
-la bondad | iyilik, hayırseverlik | isim (d) | Su bondad conmovía a todo el vecindario. | İyiliği bütün mahalleyi duygulandırıyordu.
-la justicia | adalet | isim (d) | Exigían justicia para los más vulnerables. | En savunmasızlar için adalet talep ediyorlardı.
-la perversidad | kötülük, sapkınlık | isim (d) | Le costaba comprender tanta perversidad gratuita. | Bu kadar karşılıksız kötülüğü anlamakta zorlanıyordu.
-la rectitud | doğruluk, dürüstlük | isim (d) | Su rectitud moral era reconocida por todos. | Ahlaki dürüstlüğü herkes tarafından biliniyordu.
+## İnanç
+la fe | inanç, iman | isim (d) | Su fe le ayudó en los momentos difíciles. | İnancı zor anlarda ona yardım etti.
+creyente | inançlı, dindar | sıfat | Es creyente, pero no va a misa. | İnançlı ama ayine gitmiyor.
+ateo | ateist | sıfat | Se declara ateo desde joven. | Gençliğinden beri ateist olduğunu söylüyor.
+agnóstico | agnostik | sıfat | No es ateo, es agnóstico. | Ateist değil, agnostik.
+el alma | ruh | isim (d) | Muchas religiones creen en el alma. | Birçok din ruha inanır.
+rezar | dua etmek | fiil | Mi abuela reza todas las noches. | Büyükannem her gece dua eder.
+el pecado | günah | isim (e) | Para él, mentir es un pecado. | Ona göre yalan söylemek günahtır.
+sagrado | kutsal | sıfat | Este río es sagrado para ellos. | Bu nehir onlar için kutsal.
+el peregrino | hacı, hac yolcusu | isim (e) | Miles de peregrinos llegan cada año. | Her yıl binlerce hacı geliyor.
+la oración | dua | isim (d) | Rezó una oración antes de comer. | Yemekten önce bir dua okudu.
+## Din kurumları
+el santuario | kutsal mekân, türbe | isim (e) | El santuario está en lo alto de la montaña. | Kutsal mekân dağın tepesinde.
+la mezquita | cami | isim (d) | La mezquita de Córdoba es famosa en todo el mundo. | Kurtuba Camii tüm dünyada ünlüdür.
+la sinagoga | sinagog | isim (d) | En el barrio judío hay una antigua sinagoga. | Yahudi mahallesinde eski bir sinagog var.
+el obispo | piskopos | isim (e) | El obispo visitó la parroquia. | Piskopos cemaati ziyaret etti.
+el sacerdote | rahip | isim (e) | El sacerdote celebró la boda. | Rahip nikâhı kıydı.
+la monja | rahibe | isim (d) | Las monjas hacen dulces en el convento. | Rahibeler manastırda tatlı yapıyor.
+el convento | manastır (rahip/rahibe) | isim (e) | El convento tiene un claustro precioso. | Manastırın çok güzel bir avlusu var.
+la misa | ayin | isim (d) | La misa empieza a las doce. | Ayin saat on ikide başlıyor.
+el ritual | ritüel | isim (e) | Cada cultura tiene sus rituales funerarios. | Her kültürün kendi cenaze ritüelleri vardır.
+laico | laik | sıfat | España es un Estado aconfesional, no estrictamente laico. | İspanya resmî dini olmayan bir devlet, tam anlamıyla laik değil.
+## Ahlak
+la honestidad | dürüstlük | isim (d) | La honestidad es lo que más valoro. | En çok değer verdiğim şey dürüstlük.
+la moral | ahlak | isim (d) | Cada sociedad tiene su propia moral. | Her toplumun kendi ahlakı vardır.
+la hipocresía | ikiyüzlülük | isim (d) | Odia la hipocresía. | İkiyüzlülükten nefret ediyor.
+el vicio | kötü alışkanlık, ahlaki kusur | isim (e) | Fumar es su único vicio. | Sigara içmek onun tek kötü alışkanlığı.
+hipócrita | ikiyüzlü | sıfat | Es hipócrita criticar lo que tú mismo haces. | Kendi yaptığın şeyi eleştirmek ikiyüzlülüktür.
+el egoísmo | bencillik | isim (e) | Su egoísmo le dejó sin amigos. | Bencilliği onu arkadaşsız bıraktı.
+la avaricia | açgözlülük, hırs | isim (d) | La avaricia rompe el saco. | Açgözlülük çuvalı yırtar.
+la soberbia | kibir | isim (d) | La soberbia le impidió pedir ayuda. | Kibri yardım istemesini engelledi.
+la rectitud | dürüstlük, doğruluk | isim (d) | Todos admiran su rectitud. | Herkes dürüstlüğüne hayran.
+la integridad | dürüstlük, bütünlük | isim (d) | Es un juez de gran integridad. | Çok dürüst bir yargıç.
 ## Felsefi akımlar
-el existencialismo | varoluşçuluk | isim (e) | Estudiaba las bases del existencialismo francés. | Fransız varoluşçuluğunun temellerini inceliyordu.
-el estoicismo | stoacılık | isim (e) | Practicaba el estoicismo ante las adversidades. | Zorluklar karşısında stoacılığı uyguluyordu.
-el racionalizm | rasyonalizm | isim (e) | El racionalizm imperaba en su pensamiento lógico. | Mantıksal düşüncesinde rasyonalizm hakimdi.
-el empirismo | deneycilik, empirizm | isim (e) | Defendía el empirismo frente al dogmatismo. | Dogmatizme karşı deneyciliği savunuyordu.
-el idealizm | idealizm | isim (e) | Su obra reflejaba un profundo idealizm platónico. | Eseri derin bir Platoncu idealizmi yansıtıyordu.
-el escepticism | septisizm, kuşkuculuk | isim (e) | El escepticism metodológico ayudaba a dudar. | Yöntemsel kuşkuculuk şüphe etmeye yardım ediyordu.
-el nihilizm | nihilizm | isim (e) | Analizaba las raíces históricas del nihilizm. | Nihilizmin tarihi köklerini tahlil ediyordu.
-el humanizm | hümanizm | isim (e) | El humanizm renacentista revalorizó al individuo. | Rönesans hümanizmi bireye yeniden değer kazandırdı.
-el pragmatizm | pragmatizm | isim (e) | Aplicaba un riguroso pragmatizm en sus decisiones. | Kararlarında katı bir pragmatizm uyguluyordu.
-el dualizm | düalizm, ikicilik | isim (e) | Discutían sobre el dualizm mente y cuerpo. | Zihin ve beden ikiciliği üzerine tartışıyorlardı.
-## Varoluşsal sorgulama
-el sentido de la vida | hayatın anlamı | isim (e) | Buscaba incansablemente el sentido de la vida. | Hayatın anlamını yorulmadan arıyordu.
-la finitud | sonluluk | isim (d) | Aceptaba la finitud de la existencia humana. | İnsan varoluşunun sonluluğunu kabul ediyordu.
-el libre albedrio | özgür irade | isim (e) | Cuestionaba la existencia del libre albedrio. | Özgür iradenin varlığını sorguluyordu.
-el destino | kader, alın yazısı | isim (e) | Sentía que su destino ya estaba trazado. | Kaderinin çoktan çizilmiş olduğunu hissediyordu.
-la inmortalidad | ölümsüzlük | isim (d) | Aspiraba a alcanzar alguna forma de inmortalidad. | Bir tür ölümsüzlüğe ulaşmayı arzuluyordu.
-el sufrimiento | ıstırap, acı | isim (e) | Reflexionaba sobre el origen del sufrimiento. | Istırabın kökeni üzerine derinlemesine düşünüyordu.
-la verdad absoluta | mutlak hakikat | isim (d) | Dudaba de la existencia de la verdad absoluta. | Mutlak hakikatin varlığından kuşku duyuyordu.
-la trascendencia | aşkınlık, kalıcılık | isim (d) | Buscaba la trascendencia a través del arte. | Sanat aracılığıyla aşkınlığı arıyordu.
-la incertidumbre | belirsizlik | isim (d) | Navegaba con valentía en la incertidumbre. | Belirsizlik içinde cesaretle yol alıyordu.
-la nada | hiç, hiçlik | isim (d) | Temía enfrentarse al abismo de la nada. | Hiçliğin uçurumuyla yüzleşmekten korkuyordu.
-## Sosyal değerler
-la empatia | empati | isim (d) | La empatia fomenta relaciones humanas sanas. | Empati, sağlıklı insani ilişkileri teşvik eder.
-la tolerancia | hoşgörü | isim (d) | La tolerancia mutua garantiza la paz social. | Karşılıklı hoşgörü toplumsal barışı garanti eder.
-la fraternidad | dayanışma, kardeşlik | isim (d) | Demostraron gran fraternidad en la crisis. | Krizde büyük bir dayanışma sergilediler.
-la emancipación | özgürleşme, hürriyet | isim (d) | Luchaban por preservar su emancipación individual. | Bireysel özgürlüklerini korumak için savaşıyorlardı.
-la igualdad | eşitlik | isim (d) | Reclamaban igualdad de derechos para todos. | Herkes için eşit haklar talep ediyorlardı.
-la justicia social | sosyal adalet | isim (d) | Su meta principal era lograr la justicia social. | Ana hedefi sosyal adaleti sağlamaktı.
-el compromiso cívico | sorumluluk, vatandaşlık bilinci | isim (e) | Asumía con madurez su compromiso cívico diario. | Günlük vatandaşlık sorumluluğunu olgunlukla üstleniyordu.
-la labor conjunta | işbirliği | isim (d) | La labor conjunta internacional era indispensable. | Uluslararası işbirliği vazgeçilmezdi.
-la dignidad humana | insan onuru | isim (d) | Defendían intransigentemente la dignidad humana. | İnsan onurunu uzlaşmaz bir şekilde savunuyorlardı.
-la paz | barış | isim (d) | Abogaban firmemente por la paz mundial. | Dünya barışını kararlılıkla savunuyorlardı.
+el existencialismo | varoluşçuluk | isim (e) | El existencialismo habla de la libertad y la angustia. | Varoluşçuluk özgürlük ve kaygıdan söz eder.
+el estoicismo | stoacılık | isim (e) | El estoicismo enseña a aceptar lo que no controlamos. | Stoacılık kontrol edemediğimiz şeyleri kabullenmeyi öğretir.
+el racionalismo | rasyonalizm, akılcılık | isim (e) | El racionalismo confía en la razón. | Akılcılık akla güvenir.
+el empirismo | deneycilik | isim (e) | El empirismo se basa en la experiencia. | Deneycilik deneyime dayanır.
+el idealismo | idealizm | isim (e) | Su idealismo choca con la realidad. | İdealizmi gerçeklikle çatışıyor.
+el escepticismo | şüphecilik | isim (e) | Recibió la noticia con escepticismo. | Haberi şüpheyle karşıladı.
+el nihilismo | nihilizm, hiççilik | isim (e) | El nihilismo niega cualquier valor absoluto. | Nihilizm her türlü mutlak değeri reddeder.
+el humanismo | hümanizm | isim (e) | El humanismo pone al ser humano en el centro. | Hümanizm insanı merkeze koyar.
+el pragmatismo | pragmatizm, faydacılık | isim (e) | Actuó con pragmatismo. | Pragmatik davrandı.
+el materialismo | materyalizm, maddecilik | isim (e) | Critica el materialismo de la sociedad moderna. | Modern toplumun maddeciliğini eleştiriyor.
+## Varoluş soruları
+el sentido de la vida | hayatın anlamı | isim (e) | ¿Cuál es el sentido de la vida? | Hayatın anlamı nedir?
+el libre albedrío | özgür irade | isim (e) | ¿Existe realmente el libre albedrío? | Özgür irade gerçekten var mı?
+el más allá | öbür dünya | isim (e) | Muchas culturas creen en el más allá. | Birçok kültür öbür dünyaya inanır.
+la inmortalidad | ölümsüzlük | isim (d) | Los antiguos buscaban la inmortalidad. | Eskiler ölümsüzlüğü arıyordu.
+la muerte | ölüm | isim (d) | La filosofía también reflexiona sobre la muerte. | Felsefe ölüm üzerine de düşünür.
+la resignación | boyun eğme, tevekkül | isim (d) | Aceptó la noticia con resignación. | Haberi boyun eğerek kabul etti.
+el absurdo | absürt, saçma | isim (e) | Escribió un ensayo sobre el absurdo. | Absürt üzerine bir deneme yazdı.
+la trascendencia | aşkınlık | isim (d) | El arte busca una forma de trascendencia. | Sanat bir tür aşkınlık arar.
+la nada | hiçlik | isim (d) | Le daba miedo pensar en la nada. | Hiçliği düşünmek onu korkutuyordu.
+existir | var olmak | fiil | Pienso, luego existo. | Düşünüyorum, öyleyse varım.
+## Toplumsal değerler
+la fraternidad | kardeşlik | isim (d) | La fraternidad une a los pueblos. | Kardeşlik halkları birleştirir.
+el bien común | kamu yararı, ortak iyilik | isim (e) | Hay que pensar en el bien común. | Ortak iyiliği düşünmek gerekir.
+la caridad | hayırseverlik, sadaka | isim (d) | Vive de la caridad de los vecinos. | Komşularının hayırseverliğiyle geçiniyor.
+la beneficencia | hayır işleri | isim (d) | Organizaron una cena de beneficencia. | Bir hayır yemeği düzenlediler.
+la reciprocidad | karşılıklılık | isim (d) | La amistad se basa en la reciprocidad. | Dostluk karşılıklılığa dayanır.
+el civismo | vatandaşlık bilinci | isim (e) | Recoger la basura es una cuestión de civismo. | Çöpü toplamak vatandaşlık bilinci meselesidir.
+la generosidad | cömertlik | isim (d) | Agradecemos su generosidad. | Cömertliğiniz için teşekkür ederiz.
+la fidelidad | sadakat, vefa | isim (d) | Los perros son un símbolo de fidelidad. | Köpekler sadakatin simgesidir.
+la lealtad | sadakat | isim (d) | Valora mucho la lealtad de sus amigos. | Arkadaşlarının sadakatine çok değer verir.
+el altruista | özgeci kimse | isim (e) | Es un altruista: siempre piensa en los demás. | Özgeci biri: hep başkalarını düşünür.
 ## Etik ikilemler
-el dilema moral | ahlaki ikilem | isim (e) | Resolvió un complejo dilema moral con acierto. | Karmaşık bir ahlaki ikilemi başarıyla çözdü.
-el conflicto ético | etik çatışma | isim (e) | Analizaron el conflicto ético desde varios ángulos. | Etik çatışmayı çeşitli açılardan tahlil ettiler.
-la decisión difícil | zor karar | isim (d) | Tomar aquella decisión difícil requirió valor. | O zor kararı almak cesaret gerektiriyordu.
-la conciencia tranquila | rahat vicdan | isim (d) | Prefería dormir con la conciencia tranquila. | Vicdanı rahat bir şekilde uyumayı tercih ediyordu.
-la culpa | suçluluk, suç | isim (d) | Sentía una profunda culpa por su error. | Hatasından ötürü derin bir suçluluk hissediyordu.
-el arrepentimiento | pişmanlık | isim (e) | Su arrepentimiento sincero conmovió al jurado. | Samimi pişmanlığı jüriyi duygulandırdı.
-el perdón | affetme, bağışlama | isim (e) | Otorgar el perdón liberaba su propio espíritu. | Affetmek kendi ruhunu özgürleştiriyordu.
-la integridad | bütünlülük, doğruluk | isim (d) | Su integridad profesional jamás fue cuestionada. | Mesleki dürüstlüğü asla sorgulanmadı.
-el engaño | aldatmaca, kandırma | isim (e) | Odiaba cualquier tipo de engaño o mentira. | Her türlü aldatmaca veya yalandan nefret ederdi.
-la verdad | gerçek, doğru | isim (d) | Buscaba revelar la verdad cueste lo que cueste. | Ne pahasına olursa olsun gerçeği ortaya çıkarmaya çalışıyordu.
-## Epistemoloji
-el conocimiento | bilgi | isim (e) | El conocimiento científico requiere validación. | Bilimsel bilgi doğrulama gerektirir.
-la teoria | teori, kuram | isim (d) | Formuló una teoría revolucionaria sobre el cosmos. | Evren üzerine devrim niteliğinde bir teori formüle etti.
-la hipotesis | hipotez | isim (d) | Debían comprobar rigurosamente cada hipotesis. | Her hipotezi titizlikle doğrulamaları gerekiyordu.
-la evidencia | kanıt, delil | isim (d) | Presentaron evidencia contundente ante el comité. | Komite önünde çarpıcı kanıtlar sundular.
-el metodo cientifico | bilimsel yöntem | isim (e) | Seguían estrictamente el metodo cientifico. | Bilimsel yöntemi katı bir şekilde takip ediyorlardı.
-la percepcion | algı | isim (d) | La percepcion sensorial puede engañar a veces. | Duyu algısı bazen yanıltabilir.
-el razonamiento | akıl yürütme, muhakeme | isim (e) | Su razonamiento deductivo era impecable. | Tümdengelimsel akıl yürütmesi kusursuzdu.
-la logica | mantık | isim (d) | Estudiaba las leyes fundamentales de la logica. | Mantığın temel yasalarını çalışıyordu.
-el intelecto | zeka, entelektüel güç | isim (e) | Poseía un intelecto verdaderamente brillante. | Gerçekten parlak bir zekaya sahipti.
-la sabiduria | bilgelik | isim (d) | Los años de experiencia le otorgaron gran sabiduria. | Yılların deneyimi ona büyük bilgelik kazandırdı.
-## Metafizik ve varlık
-la metafisica | metafizik | isim (d) | Discutían sobre los problemas de la metafisica. | Metafizik problemleri üzerine tartışıyorlardı.
-el ser | varlık | isim (e) | Reflexionaba sobre la naturaleza del ser humano. | İnsan varlığının doğası üzerine düşünüyordu.
-la realidad | gerçeklik | isim (d) | Intentaba distinguir la ilusion de la realidad. | Yanılsamayı gerçeklikten ayırt etmeye çalışıyordu.
-el cosmos | evren, kozmos | isim (e) | El cosmos albergaba misterios insondables. | Evren anlaşılmaz sırlar barındırıyordu.
-la materia | madde | isim (d) | Investigaban la composicion basica de la materia. | Maddenin temel bileşimini araştırıyorlardı.
-el espiritu | ruh, tin | isim (e) | Cultivaba tanto el cuerpo como el espiritu. | Hem bedeni hem de ruhu besliyordu.
-la eternidad | sonsuzluk | isim (d) | Contemplaba la inmensidad de la eternidad. | Sonsuzluğun uçsuz bucaksızlığını seyrediyordu.
-el transcurso temporal | zaman, süreç | isim (e) | El transcurso temporal fluía inexorablemente para todos. | Zaman herkes için durmaksızın akıyordu.
-el espacio | uzay, mekan | isim (e) | Exploraban las dimensiones ocultas del espacio. | Uzayın gizli boyutlarını keşfediyorlardı.
-la esencia | öz | isim (d) | Buscaban capturar la esencia de las cosas. | Şeylerin özünü yakalamaya çalışıyorlardı.
-## Estetik ve değerler
-la belleza | güzellik | isim (d) | Contemplaba la belleza sublime del paisaje. | Manzaranın yüce güzelliğini seyrediyordu.
-el arte | sanat | isim (e) | Consideraba el arte como una forma de salvacion. | Sanatı bir kurtuluş biçimi olarak görüyordu.
-la armonia | uyum, armoni | isim (d) | Buscaba la armonia perfecta en sus composiciones. | Bestelerinde kusursuz uyumu arıyordu.
-la fealdad | çirkinlik | isim (d) | Analizaba el concepto de la fealdad en el arte modernista. | Modernist sanatta çirkinlik kavramını inceliyordu.
-el mérito estético | değer, estetik kıymet | isim (e) | Cuestionaba el mérito estético de aquella obra. | O eserin estetik değerini sorguluyordu.
-el gusto | zevk, beğeni | isim (e) | Su refinado gusto artistico era admirado por todos. | Rafine sanatsal zevki herkes tarafından hayranlıkla karşılanıyordu.
-la expresion | ifade | isim (d) | El cuadro era una poderosa expresion de angustia. | Tablo güçlü bir ıstırap ifadesiydi.
-la creacion | yaratım, eser | isim (d) | Disfrutaba del proceso de creacion literaria. | Edebi yaratım sürecinden zevk alıyordu.
-la inspiracion | esin, ilham | isim (d) | Encontraba su inspiracion paseando por la naturaleza. | İlhamını doğada yürüyüş yaparak buluyordu.
-la percepcion estetica | estetik algı | isim (d) | Desarrollaba una fina percepcion estetica. | İnce bir estetik algı geliştiriyordu.
-## Bilgelik ve yaşam felsefesi
-la placidez | dinginlik, huzur | isim (d) | Buscaba la placidez mental ante el caos diario. | Günlük kaos karşısında zihinsel dinginlik arıyordu.
-la templanza | ölçülülük, metanet | isim (d) | La templanza ayudaba a superar los excesos. | Ölçülülük aşırılıkların üstesinden gelmeye yardım ediyordu.
-la cautela | ihtiyat, sakınma | isim (d) | Actuaba siempre con suma cautela y prudencia. | Her zaman azami ihtiyat ve dikkatle hareket ediyordu.
-la fortaleza | güç, dayanıklılık | isim (d) | Su gran fortaleza interna inspiraba a los demas. | Büyük iç gücü başkalarına ilham veriyordu.
-la paciencia | sabır | isim (d) | Comprendio que la paciencia era fundamental. | Sabrın çok önemli olduğunu anladı.
-la reflexion | düşünce, tefekkür | isim (d) | Dedicaba horas a la reflexion profunda. | Derin düşünceye saatler ayırıyordu.
-el autodominio | öz denetim | isim (e) | El autodominio caracterizaba a los sabios antiguos. | Öz denetim eski bilgelerin karakteristik özelliğiydi.
-la autencidad | otantiklik, özgünlük | isim (d) | Defendia la autencidad frente a la hipocresia. | İki yüzlülüğe karşı özgünlüğü savunuyordu.
-el proposito | amaç, maksat | isim (e) | Hallar un proposito claro daba sentido a su andar. | Net bir amaç bulmak yürüyüşüne anlam veriyordu.
-la iluminacion | aydınlanma | isim (d) | Aspiraba a alcanzar la iluminacion espiritual. | Manevi aydınlanmaya ulaşmayı arzuluyordu.
+el dilema moral | ahlaki ikilem | isim (e) | Se enfrentó a un dilema moral. | Ahlaki bir ikilemle karşılaştı.
+la mentira piadosa | beyaz yalan | isim (d) | Le dijo una mentira piadosa para no hacerle daño. | Onu üzmemek için beyaz bir yalan söyledi.
+caer en la tentación | ayartılmak, günaha düşmek | ifade | Al final cayó en la tentación y se comió la tarta. | Sonunda dayanamayıp pastayı yedi.
+la redención | kurtuluş, kefaret | isim (d) | La novela trata de la redención de un criminal. | Roman bir suçlunun kurtuluşunu anlatıyor.
+la falsedad | sahtelik, yalan | isim (d) | Demostró la falsedad de la acusación. | Suçlamanın yalan olduğunu kanıtladı.
+la verdad | gerçek, doğru | isim (d) | Siempre dice la verdad. | Her zaman doğruyu söyler.
+el engaño | aldatma, kandırmaca | isim (e) | Descubrió el engaño demasiado tarde. | Kandırmacayı çok geç fark etti.
+lícito | meşru, izin verilen | sıfat | ¿Es lícito mentir para proteger a alguien? | Birini korumak için yalan söylemek meşru mu?
+el fin justifica los medios | amaç aracı meşrulaştırır | deyim | Él no cree que el fin justifique los medios. | O, amacın aracı meşrulaştırdığına inanmıyor.
+el mal menor | ehven-i şer, küçük kötülük | isim (e) | Eligieron el mal menor. | Ehven-i şerri seçtiler.
+## Bilgi felsefesi
+el conocimiento | bilgi | isim (e) | El conocimiento nos hace más libres. | Bilgi bizi daha özgür kılar.
+la certeza | kesinlik | isim (d) | No tenemos ninguna certeza. | Hiçbir kesinliğimiz yok.
+la ignorancia | cehalet | isim (d) | La ignorancia es la base del miedo. | Cehalet korkunun temelidir.
+la lucidez | berraklık, zihin açıklığı | isim (d) | A los noventa años mantiene su lucidez. | Doksan yaşında zihin açıklığını koruyor.
+el sentido común | sağduyu | isim (e) | Usa el sentido común. | Sağduyunu kullan.
+la verdad absoluta | mutlak gerçek | isim (d) | Nadie tiene la verdad absoluta. | Kimse mutlak gerçeğe sahip değil.
+la sabiduría | bilgelik | isim (d) | La sabiduría llega con los años. | Bilgelik yıllarla gelir.
+el relativismo | görecelik | isim (e) | El relativismo cultural rechaza juzgar otras culturas. | Kültürel görecelik başka kültürleri yargılamayı reddeder.
+la realidad | gerçeklik | isim (d) | La realidad supera a la ficción. | Gerçeklik kurguyu aşar.
+relativo | göreli | sıfat | Todo es relativo. | Her şey görelidir.
+## Varlık
+la metafísica | metafizik | isim (d) | La metafísica estudia la naturaleza de la realidad. | Metafizik gerçekliğin doğasını inceler.
+el ser humano | insan | isim (e) | El ser humano es un animal social. | İnsan sosyal bir hayvandır.
+la existencia | varoluş, varlık | isim (d) | Se preguntaba por el origen de la existencia. | Varoluşun kökenini sorguluyordu.
+la esencia | öz | isim (d) | La esencia del problema es otra. | Sorunun özü başka.
+el espíritu | ruh, tin | isim (e) | Cuida tanto el cuerpo como el espíritu. | Bedene de ruha da özen gösteriyor.
+la materia | madde | isim (d) | Todo está hecho de materia. | Her şey maddeden yapılmıştır.
+el cosmos | evren, kozmos | isim (e) | Los antiguos observaban el cosmos. | Eskiler evreni gözlemliyordu.
+la eternidad | sonsuzluk | isim (d) | Esperar diez minutos le pareció una eternidad. | On dakika beklemek ona sonsuzluk gibi geldi.
+la apariencia | görünüş | isim (d) | Las apariencias engañan. | Görünüş aldatıcıdır.
+concreto | somut | sıfat | Dame un ejemplo concreto. | Bana somut bir örnek ver.
+## Yaşam felsefesi
+la ecuanimidad | soğukkanlılık, tarafsız dinginlik | isim (d) | Juzgó el caso con ecuanimidad. | Davayı soğukkanlılıkla değerlendirdi.
+la templanza | ölçülülük | isim (d) | La templanza era una virtud para los griegos. | Ölçülülük Yunanlılar için bir erdemdi.
+la mesura | ölçü, itidal | isim (d) | Habla siempre con mesura. | Her zaman ölçülü konuşur.
+la frugalidad | tutumluluk, az ile yetinme | isim (d) | Vive con frugalidad en el campo. | Kırsalda az ile yetinerek yaşıyor.
+la autenticidad | sahicilik, özgünlük | isim (d) | Valoro la autenticidad de las personas. | İnsanların sahiciliğine değer veririm.
+la coherencia | tutarlılık | isim (d) | Hay coherencia entre lo que dice y lo que hace. | Söyledikleriyle yaptıkları arasında tutarlılık var.
+el hedonismo | hazcılık | isim (e) | El hedonismo busca el placer. | Hazcılık zevk peşindedir.
+el ascetismo | çilecilik | isim (e) | El ascetismo renuncia a los placeres. | Çilecilik zevklerden vazgeçer.
+el desapego | bağımsızlık, bağlanmama | isim (e) | El budismo enseña el desapego. | Budizm bağlanmamayı öğretir.
+vivir el momento | anı yaşamak | ifade | Intenta vivir el momento sin preocuparse tanto. | Bu kadar endişelenmeden anı yaşamaya çalışıyor.

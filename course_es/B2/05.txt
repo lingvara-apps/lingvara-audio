@@ -1,111 +1,111 @@
 # UNIT: Bilim ve araştırma | Bilimsel yöntem, akademik dil, keşifler
-## Akademik araştırma
-formular hipótesis | hipotez oluşturmak | ifade | Es necesario formular hipótesis antes del experimento. | Deneyden önce hipotez oluşturmak gereklidir.
-contrastar datos | verileri karşılaştırmak | ifade | Los investigadores deben contrastar datos rigurosamente. | Araştırmacılar verileri titizlikle karşılaştırmalıdır.
-publicar hallazgoss | bulguları yayımlamak | ifade | Van a publicar hallazgos en una revista indexada. | Bulguları endeksli bir dergide yayımlayacaklar.
-citar fuentes | kaynak göstermek | ifade | Es obligatorio citar fuentes en cualquier tesis. | Herhangi bir tezde kaynak göstermek zorunludur.
-revisar bibliografía | kaynakçayı gözden geçirmek | ifade | Debes revisar bibliografía previa sobre el tema. | Konu hakkındaki önceki kaynakçayı gözden geçirmelisin.
-analizar variables | değişkenleri analiz etmek | ifade | Es vital analizar variables independientes y dependientes. | Bağımsız ve bağımlı değişkenleri analiz etmek hayati önem taşır.
-redactar resumen | özet yazmak | ifade | Prefiere redactar resumen en inglés y en español. | Özeti İngilizce ve İspanyolca yazmayı tercih ediyor.
-sintetizar información | bilgiyi sentezlemek | ifade | Sabe sintetizar información compleja con claridad. | Karmaşık bilgileri net bir şekilde sentezlemeyi biliyor.
-defender tesis | tez savunmak | ifade | Mañana va a defender tesis doctoral ante el tribunal. | Yarın jüri önünde doktora tezi savunacak.
-reproducir resultados | sonuçları tekrarlamak/doğrulamak | ifade | Es difícil reproducir resultados sin la metodología exacta. | Tam metodoloji olmadan sonuçları tekrarlamak zordur.
-## Deney ve laboratuvar
-pipetear líquidos | sıvıları pipetlemek | ifade | Aprendió a pipetear líquidos con precisión milimétrica. | Milimetrik hassasiyetle sıvı pipetlemeyi öğrendi.
-centrifugar muestras | numuneleri santrifüjlemek | ifade | Van a centrifugar muestras a altas revoluciones. | Numuneleri yüksek devirde santrifüjleyecekler.
-cultivar bacterias | bakteri kültürü yetiştirmek | ifade | Necesita cultivar bacterias en placas de Petri estériles. | Steril Petri kaplarında bakteri kültürü yetiştirmesi gerekiyor.
-dosificar reactivos | reaktif dozajlamak | ifade | Hay que dosificar reactivos gota a gota. | Reaktifleri damla damla dozajlamak gerekir.
-medir pH | pH ölçmek | ifade | Usó el peachímetro para medir pH de la solución. | Solüsyonun pH'ını ölçmek için pH metre kullandı.
-destilar compuestos | bileşikleri damıtmak | ifade | Lograron destilar compuestos orgánicos complejos. | Karmaşık organik bileşikleri damıtmayı başardılar.
-titular disoluciones | çözeltileri titre etmek | ifade | Practicaron titular disoluciones en la clase práctica. | Uygulama dersinde çözeltileri titre etme alıştırması yaptılar.
-filtrar precipitados | çökeltileri süzmek | ifade | Es preciso filtrar precipitados antes del pesaje. | Tartımdan önce çökeltileri süzmek gereklidir.
-calibrar instrumentos | aletleri kalibre etmek | ifade | Deben calibrar instrumentos antes de cada ensayo. | Her denemeden önce aletleri kalibre etmeliler.
-esterilizar material | malzeme sterilize etmek | ifade | Van a esterilizar material de vidrio en el autoclave. | Otoklavda cam malzemeyi sterilize edecekler.
 ## Bilimsel yöntem
-plantear problema | sorun ortaya koymak | ifade | Lo primero es plantear problema de investigación claro. | İlk şey net bir araştırma sorunu ortaya koymaktır.
-observar fenómenos | olguları gözlemlemek | ifade | Empezó a observar fenómenos naturales con atención. | Doğal olayları dikkatle gözlemlemeye başladı.
-experimentar controladamente | kontrollü denemek | ifade | Prefieren experimentar controladamente en el laboratorio. | Laboratuvarda kontrollü denemeler yapmayı tercih ediyorlar.
-interpretar gráficos | grafik yorumlamak | ifade | Sabe interpretar gráficos estadísticos muy bien. | İstatistiksel grafikleri çok iyi yorumlamayı biliyor.
-extraer conclusiones | sonuç çıkarmak | ifade | Es hora de extraer conclusiones lógicas del estudio. | Çalışmadan mantıklı sonuçlar çıkarmanın zamanı geldi.
-validar modelo | modeli doğrulamak | ifade | Intentan validar modelo matemático con datos reales. | Matematiksel modeli gerçek verilerle doğrulamaya çalışıyorlar.
-refutar teoría | teoriyi çürütmek | ifade | Logró refutar teoría clásica con nuevas pruebas. | Yeni kanıtlarla klasik teoriyi çürütmeyi başardı.
-formular ley | yasa formüle etmek | ifade | Newton logró formular ley de gravitación universal. | Newton evrensel çekim yasasını formüle etmeyi başardı.
-generalizar resultados | sonuçları genelleştirmek | ifade | No se debe generalizar resultados precipitadamente. | Sonuçları aceleyle genelleştirmemek gerekir.
-documentar hallazgoss | bulguları belgelemek | ifade | Prometieron documentar hallazgoss sin omisiones. | Hiçbir ihmal olmaksızın bulguları belgelemeye söz verdiler.
-## Keşifler ve icatlar
-patentar invento | icat patentlemek | ifade | Decidió patentar invento en la oficina internacional. | İcadı uluslararası ofiste patentlemeye karar verdi.
-descubrir elemento | element keşfetmek | ifade | Lograron descubrir elemento químico desconocido. | Bilinmeyen bir kimyasal elementi keşfetmeyi başardılar.
-sintetizar fármaco | ilaç sentezlemek | ifade | Investigan cómo sintetizar fármaco contra la enfermedad. | Hastalığa karşı ilacın nasıl sentezleneceğini araştırıyorlar.
-mapear genoma | genom haritalamak | ifade | Científicos lograron mapear genoma humano completo. | Bilim insanları insan genomunun tamamını haritalamayı başardılar.
-explorar galaxia | galaksi keşfetmek/incelemek | ifade | Telescopios potentes ayudan a explorar galaxia distante. | Güçlü teleskoplar uzak galaksiyi incelemeye yardımcı olur.
-rastrear señales | sinyal izlemek | ifade | Antenas gigantes buscan rastrear señales extraterrestres. | Dev antenler uzaylı sinyallerini izlemeye çalışıyor.
-medir radiación | radyasyon ölçmek | ifade | Geigercounters sirven para medir radiación ambiental. | Geiger sayaçları çevresel radyasyonu ölçmeye yarar.
-analizar fósiles | fosil analiz etmek | ifade | Paleontólogos suelen analizar fósiles en excavaciones. | Paleontologlar genellikle kazılarda fosil analiz ederler.
-descodificar ADN | DNA şifresini çözmek | ifade | Biólogos lograron descodificar ADN antiguo. | Biyologlar eski DNA'nın şifresini çözmeyi başardılar.
-impulsar tecnología | teknolojiye ivme kazandırmak | ifade | Buscan impulsar tecnología cuántica en la industria. | Endüstride kuantum teknolojisine ivme kazandırmayı amaçlıyorlar.
-## Akademik dil ve sunum
-exponer ponencia | tebliğ sunmak | ifade | Le toca exponer ponencia en el congreso anual. | Kongrede tebliğ sunma sırası ona geldi.
-defender postura | duruşu savunmak | ifade | Debe defender postura con argumentos sólidos. | Duruşunu sağlam argümanlarla savunmalıdır.
-debatir ideas | fikir tartışmak | ifade | Es enriquecedor debatir ideas con colegas expertos. | Uzman meslektaşlarla fikir tartışmak zenginleştiricidir.
-redactar artículo | makale kaleme almak | ifade | Empezó a redactar artículo para publicación trimestral. | Üç aylık yayın için makale kaleme almaya başladı.
-citar autor | yazar alıntılamak | ifade | Es correcto citar autor original en el texto. | Metinde orijinal yazarı alıntılamak doğrudur.
-parafrasear texto | metni başka kelimelerle ifade etmek | ifade | Prefiere parafrasear texto en vez de copiarlo. | Metni kopyalamak yerine kendi cümleleriyle ifade etmeyi tercih ediyor.
-estructurar introducción | girişi yapılandırmak | ifade | Aprendió a estructurar introducción de manera atractiva. | Giriş bölümünü çekici bir şekilde yapılandırmayı öğrendi.
-argumentar premisas | önermeleri savunumak | ifade | Sabe argumentar premisas sin caer en contradicciones. | Çelişkilere düşmeden önermeleri savunmayı biliyor.
-concluir monografía | monografiyi sonuçlandırmak | ifade | Logró concluir monografía antes de la fecha límite. | Son tarihten önce monografiyi sonuçlandırmayı başardı.
-revisar estilo | üslubu gözden geçirmek | ifade | Editor se encarga de revisar estilo académico. | Editör akademik üslubu gözden geçirmekle görevlidir.
-## Bilim etiği
-respetar plagio | intihalden kaçınmak | ifade | Todos deben respetar plagio cero en sus trabajos. | Herkes çalışmalarında sıfır intihale uymalıdır.
-proteger datos | verileri korumak | ifade | Es obligatorio proteger datos personales de sujetos. | Deneklerin kişisel verilerini korumak zorunludur.
-garantizar anonimato | anonimliği garanti etmek | ifade | Prometieron garantizar anonimato a los encuestados. | Ankete katılanlara anonimliği garanti etmeye söz verdiler.
-obtener consentimiento | rıza almak | ifade | Hay que obtener consentimiento informado antes de empezar. | Başlamadan önce bilgilendirilmiş onam almak gerekir.
-evitar sesgo | yanlılıktan kaçınmak | ifade | Investigador debe evitar sesgo en sus observaciones. | Araştırmacı gözlemlerinde yanlılıktan kaçınmalıdır.
-transparentar financiación | finansmanı şeffaflastırmak | ifade | Decidieron transparentar financiación del proyecto científico. | Bilimsel projenin finansmanını şeffaflaştırmaya karar verdiler.
-publicar resultados negativos | olumsuz sonuçları yayımlamak | ifade | Es ético publicar resultados negativos también. | Olumsuz sonuçları da yayımlamak etiktir.
-compartir datos | veri paylaşmak | ifade | Fomentan compartir datos entre centros de investigación. | Araştırma merkezleri arasında veri paylaşımını teşvik ediyorlar.
-respetar sujetos | deneklere saygı duymak | ifade | Deben respetar sujetos de estudio en todo momento. | Her an çalışma deneklerine saygı duymalılar.
-cumplir normativa | yönetmeliğe uymak | ifade | Laboratorio debe cumplir normativa internacional vigente. | Laboratuvar yürürlükteki uluslararası yönetmeliğe uymalıdır.
-## Teknoloji ve inovasyon
-programar algoritmo | algoritma programlamak | ifade | Ingeniero sabe programar algoritmo de inteligencia artificial. | Mühendis yapay zeka algoritması programlamayı biliyor.
-simular proceso | süreci simüle etmek | ifade | Usan superordenador para simular proceso físico complejo. | Karmaşık fiziksel süreci simüle etmek için süper bilgisayar kullanıyorlar.
-optimizar código | kodu optimize etmek | ifade | Programador logró optimizar código para mayor velocidad. | Programcı daha yüksek hız için kodu optimize etmeyi başardı.
-conectar dispositivos | cihazları bağlamak | ifade | Red local permite conectar dispositivos inalámbricamente. | Yerel ağ, cihazları kablosuz olarak bağlamaya izin verir.
-analizar tráfico | trafiği analiz etmek | ifade | Especialista se dedica a analizar tráfico de red. | Uzman ağ trafiğini analiz etmeye odaklanıyor.
-desarrollar prototipo | prototip geliştirmek | ifade | Empresa va a desarrollar prototipo de coche eléctrico. | Şirket elektrikli araba prototipi geliştirecek.
-probar resistencia | dayanıklılık test etmek | ifade | Ingenieros deben probar resistencia de nuevos materiales. | Mühendisler yeni malzemelerin dayanıklılığını test etmelidir.
-automatizar tarea | görevi otomatikleştirmek | ifade | Buscan automatizar tarea repetitiva en la fábrica. | Fabrikadaki tekrarlayan görevi otomatikleştirmeyi amaçlıyorlar.
-implementar sistema | sistemi uygulamak | ifade | Van a implementar sistema operativo seguro pronto. | Yakında güvenli işletim sistemi uygulayacaklar.
-monitorear red | ağı izlemek | ifade | Técnicos deben monitorear red contra ciberataques. | Teknisyenler siber saldırılara karşı ağı izlemek zorundadır.
-## Uzay araştırmaları
-lanzar cohete | roket fırlatmak | ifade | Agencia espacial va a lanzar cohete hacia Marte. | Uzay ajansı Mars'a roket fırlatacak.
-orbitar planeta | gezegen yörüngesinde dönmek | ifade | Satélite artificial logró orbitar planeta con éxito. | Yapay uydu gezegen yörüngesinde başarıyla dönmeyi başardı.
-captar señales | sinyal yakalamak | ifade | Radiotelescopios sirven para captar señales del cosmos. | Radyoteleskoplar uzaydan sinyal yakalamaya yarar.
-analizar meteoritos | göktaşı analiz etmek | ifade | Científicos analizan meteoritos caídos en la Tierra. | Bilim insanları Dünya'ya düşen göktaşlarını analiz ediyor.
-explorar superficie | yüzeyi incelemek | ifade | Robot rover empezó a explorar superficie lunar. | Robot gezgin ay yüzeyini incelemeye başladı.
-estudiar cosmos | kozmosu incelemek | ifade | Astrofísicos dedican su vida a estudiar cosmos profundo. | Astrofizikliler hayatlarını derin kozmosu incelemeye adıyorlar.
-medir distancia | mesafe ölçmek | ifade | Usan años luz para medir distancia estelar. | Yıldız mesafesini ölçmek için ışık yılı kullanırlar.
-analizar espectro | tayf analizi yapmak | ifade | Espectroscopios ayudan a analizar espectro de estrellas. | Spektroskoplar yıldızların tayfını analiz etmeye yardımcı olur.
-detectar exoplaneta | ötegezegen tespit etmek | ifade | Telescopio espacial logró detectar exoplaneta habitable. | Uzay teleskobu yaşanabilir ötegezegen tespit etmeyi başardı.
-calcular trayectoria | yörünge hesaplamak | ifade | Matemáticos deben calcular trayectoria exacta de la nave. | Matematikçiler geminin tam yörüngesini hesaplamak zorundadır.
-## Veri bilimi
-procesar datos | veri işlemek | ifade | Big data permite procesar datos masivos rápidamente. | Büyük veri, büyük verileri hızla işlemeye olanak tanır.
-entrenar modelo | model eğitmek | ifade | Ingenieros de machine learning prefieren entrenar modelo con cuidado. | Makine öğrenimi mühendisleri modeli dikkatle eğitmeyi tercih eder.
-visualizar resultados | sonuçları görselleştirmek | ifade | Herramientas gráficas ayudan a visualizar resultados complejos. | Grafik araçları karmaşık sonuçları görselleştirmeye yardımcı olur.
-clasificar información | bilgiyi sınıflandırmak | ifade | Sistema automático sabe clasificar información por temas. | Otomatik sistem bilgileri konularına göre sınıflandırmayı biliyor.
-agrupar elementos | unsurları gruplamak | ifade | Algoritmo de clustering sirve para agrupar elementos similares. | Kümeleme algoritması benzer unsurları gruplamaya yarar.
-depurar base de datos | veritabanını temizlemek | ifade | Es fundamental depurar base de datos antes del análisis. | Analizden önce veritabanını temizlemek esastır.
-extraer patrones | örüntü çıkarmak | ifade | Redes neuronales ayudan a extraer patrones ocultos. | Sinir ağları gizli örüntüleri çıkarmaya yardımcı olur.
-evaluar precisión | doğruluğu değerlendirmek | ifade | Deben evaluar precisión del modelo predictivo periódicamente. | Tahmin modelinin doğruluğunu periyodik olarak değerlendirmelidirler.
-normalizar valores | değerleri normalleştirmek | ifade | Conviene normalizar valores numéricos antes de entrenar. | Eğitmeden önce sayısal değerleri normalleştirmek uygundur.
-interpretar métricas | metrikleri yorumlamak | ifade | Analista debe saber interpretar métricas de rendimiento. | Analist performans metriklerini yorumlamayı bilmelidir.
-## Bilim tarihi
-estudiar pasado | geçmişi incelemek | ifade | Historiadores de la ciencia dedican tiempo a estudiar pasado. | Bilim tarihçileri geçmişi incelemeye zaman ayırır.
-descubrir leyes | yasa keşfetmek | ifade | Galileo logró descubrir leyes del movimiento físico. | Galileo fiziksel hareket yasalarını keşfetmeyi başardı.
-revolucionar ciencia | bilimi devrimleştirmek | ifade | Einstein logró revolucionar ciencia con teoría de relatividad. | Einstein görelilik teorisiyle bilimi devrimleştirmeyi başardı.
-formular paradigma | paradigma formüle etmek | ifade | Thomas Kuhn ayudó a formular paradigma científico moderno. | Thomas Kuhn modern bilimsel paradigmayı formüle etmeye yardımcı oldu.
-cuestionar dogma | dogmayı sorgulamak | ifade | Científicos deben cuestionar dogma sin miedo. | Bilim insanları korkusuzca dogmayı sorgulamalıdır.
-difundir conocimiento | bilgiyi yaymak | ifade | Imprenta ayudó a difundir conocimiento por el mundo. | Matbaa, bilginin dünyaya yayılmasına yardımcı oldu.
-documentar inventos | icatları belgelemek | ifade | Museos guardan documentos para documentar inventos históricos. | Müzeler tarihi icatları belgelemek için belgeler saklar.
-analizar impacto | etkiyi analiz etmek | ifade | Es interesante analizar impacto social de la ciencia. | Bilimin toplumsal etkisini analiz etmek ilginçtir.
-reconocer mérito | liyakati tanımak | ifade | Academia suele reconocer mérito de investigadores destacados. | Akademi genellikle önde gelen araştırmacıların liyakatini tanır.
-legar conocimiento | bilgi miras bırakmak | ifade | Grandes sabios lograron legar conocimiento a la posteridad. | Büyük bilgeler gelecek nesillere bilgi miras bırakmayı başardı.
+el método científico | bilimsel yöntem | isim (e) | El método científico empieza con una pregunta. | Bilimsel yöntem bir soruyla başlar.
+plantear | ortaya koymak, öne sürmek | fiil | Planteamos una hipótesis sobre el sueño. | Uyku hakkında bir hipotez ortaya koyduk.
+la variable | değişken | isim (d) | Solo cambiamos una variable en cada prueba. | Her denemede yalnızca bir değişkeni değiştiriyoruz.
+el grupo de control | kontrol grubu | isim (e) | El grupo de control no recibió el medicamento. | Kontrol grubu ilacı almadı.
+contrastar | karşılaştırmak, sınamak | fiil | Hay que contrastar los datos con otras fuentes. | Verileri başka kaynaklarla karşılaştırmak gerekir.
+la evidencia | kanıt | isim (d) | No hay evidencia suficiente para afirmarlo. | Bunu söylemek için yeterli kanıt yok.
+refutar | çürütmek | fiil | El nuevo estudio refuta la teoría anterior. | Yeni çalışma önceki teoriyi çürütüyor.
+deducir (deduzco) | sonuç çıkarmak | fiil · düzensiz | De estos datos deducimos que el método funciona. | Bu verilerden yöntemin işe yaradığı sonucunu çıkarıyoruz.
+empírico | deneysel, ampirik | sıfat | Necesitamos pruebas empíricas. | Deneysel kanıtlara ihtiyacımız var.
+el margen de error | hata payı | isim (e) | El margen de error es del tres por ciento. | Hata payı yüzde üç.
+## Laboratuvarda
+el microscopio | mikroskop | isim (e) | Observamos las células con el microscopio. | Hücreleri mikroskopla inceledik.
+el tubo de ensayo | deney tüpü | isim (e) | Pon la muestra en el tubo de ensayo. | Numuneyi deney tüpüne koy.
+la bata | (laboratuvar) önlüğü | isim (d) | En el laboratorio siempre llevamos bata blanca. | Laboratuvarda hep beyaz önlük giyeriz.
+el reactivo | ayıraç, reaktif | isim (e) | Este reactivo cambia de color con el ácido. | Bu ayıraç asitle renk değiştiriyor.
+la célula | hücre | isim (d) | El cuerpo humano tiene billones de células. | İnsan vücudunda trilyonlarca hücre var.
+la bacteria | bakteri | isim (d) | Algunas bacterias son útiles para la salud. | Bazı bakteriler sağlık için yararlıdır.
+la sustancia | madde | isim (d) | Esta sustancia es tóxica. | Bu madde zehirlidir.
+el compuesto | bileşik | isim (e) | El agua es un compuesto de hidrógeno y oxígeno. | Su, hidrojen ve oksijenden oluşan bir bileşiktir.
+la mezcla | karışım | isim (d) | Calentamos la mezcla a cien grados. | Karışımı yüz dereceye kadar ısıttık.
+estéril | steril | sıfat | Todo el material debe estar estéril. | Bütün malzeme steril olmalı.
+## Veri ve istatistik
+la estadística | istatistik | isim (d) | La estadística ayuda a interpretar los datos. | İstatistik verileri yorumlamaya yardımcı olur.
+el porcentaje | yüzde, oran | isim (e) | Un alto porcentaje de jóvenes usa el móvil a diario. | Gençlerin büyük bir kısmı her gün telefon kullanıyor.
+el promedio | ortalama | isim (e) | El promedio de edad es de treinta años. | Yaş ortalaması otuz.
+la encuesta | anket | isim (d) | Hicimos una encuesta a mil personas. | Bin kişiyle anket yaptık.
+la tabla | tablo | isim (d) | Los resultados aparecen en la tabla dos. | Sonuçlar tablo ikide yer alıyor.
+la correlación | korelasyon, bağlantı | isim (d) | Hay una correlación entre dormir poco y el estrés. | Az uyumakla stres arasında bir bağlantı var.
+la probabilidad | olasılık | isim (d) | La probabilidad de lluvia es baja. | Yağmur olasılığı düşük.
+cuantitativo | nicel | sıfat | Es un estudio cuantitativo. | Bu nicel bir çalışma.
+cualitativo | nitel | sıfat | Usamos entrevistas para el análisis cualitativo. | Nitel analiz için görüşmeler kullandık.
+significativo | anlamlı, önemli | sıfat | La diferencia no es significativa. | Fark anlamlı değil.
+## Akademik yazım
+la publicación científica | bilimsel yayın | isim (d) | Tiene veinte publicaciones científicas. | Yirmi bilimsel yayını var.
+la revisión por pares | hakem değerlendirmesi | isim (d) | El artículo pasó la revisión por pares. | Makale hakem değerlendirmesinden geçti.
+citar | atıfta bulunmak, alıntı yapmak | fiil | Debes citar a los autores que usas. | Yararlandığın yazarlara atıfta bulunmalısın.
+la cita textual | doğrudan alıntı | isim (d) | Pon la cita textual entre comillas. | Doğrudan alıntıyı tırnak içine al.
+el plagio | intihal | isim (e) | El plagio es una falta muy grave. | İntihal çok ciddi bir ihlaldir.
+la introducción | giriş | isim (d) | La introducción presenta el problema. | Giriş bölümü sorunu ortaya koyar.
+la metodología | metodoloji | isim (d) | Explica bien la metodología del estudio. | Çalışmanın metodolojisini iyi açıkla.
+la nota a pie de página | dipnot | isim (d) | Añade una nota a pie de página. | Bir dipnot ekle.
+redactar | kaleme almak | fiil | Estoy redactando el último capítulo. | Son bölümü kaleme alıyorum.
+parafrasear | başka sözcüklerle anlatmak | fiil | Es mejor parafrasear que copiar. | Kopyalamaktansa başka sözcüklerle anlatmak daha iyi.
+## Kongre ve sunum
+el congreso | kongre | isim (e) | Presentó su trabajo en un congreso de biología. | Çalışmasını bir biyoloji kongresinde sundu.
+la ponencia | bildiri, tebliğ | isim (d) | Su ponencia duró veinte minutos. | Bildirisi yirmi dakika sürdü.
+el ponente | konuşmacı | isim (e) | El ponente respondió a todas las preguntas. | Konuşmacı bütün soruları yanıtladı.
+el simposio | sempozyum | isim (e) | Organizan un simposio sobre el clima. | İklim üzerine bir sempozyum düzenliyorlar.
+el póster científico | bilimsel poster | isim (e) | Presentamos un póster científico en el congreso. | Kongrede bilimsel bir poster sunduk.
+el turno de preguntas | soru-cevap bölümü | isim (e) | Ahora empieza el turno de preguntas. | Şimdi soru-cevap bölümü başlıyor.
+el auditorio | konferans salonu; dinleyiciler | isim (e) | El auditorio estaba lleno. | Salon doluydu.
+la comunidad científica | bilim camiası | isim (d) | La comunidad científica aceptó el descubrimiento. | Bilim camiası keşfi kabul etti.
+divulgar | yaymak, halka anlatmak | fiil | Le gusta divulgar la ciencia en internet. | Bilimi internette halka anlatmayı seviyor.
+la divulgación | popüler bilim, bilimin yaygınlaştırılması | isim (d) | Escribe libros de divulgación científica. | Popüler bilim kitapları yazıyor.
+## Bilim dalları
+la física cuántica | kuantum fiziği | isim (d) | La física cuántica estudia partículas muy pequeñas. | Kuantum fiziği çok küçük parçacıkları inceler.
+la neurociencia | sinirbilim | isim (d) | La neurociencia estudia el cerebro. | Sinirbilim beyni inceler.
+la psicología | psikoloji | isim (d) | Estudia psicología en Barcelona. | Barselona'da psikoloji okuyor.
+la sociología | sosyoloji | isim (d) | La sociología analiza la sociedad. | Sosyoloji toplumu inceler.
+la informática | bilgisayar bilimi | isim (d) | Mi hermano estudia informática. | Erkek kardeşim bilgisayar bilimi okuyor.
+la botánica | botanik | isim (d) | La botánica estudia las plantas. | Botanik bitkileri inceler.
+la zoología | zooloji | isim (d) | En zoología estudiamos los animales. | Zoolojide hayvanları inceleriz.
+la paleontología | paleontoloji | isim (d) | La paleontología estudia los fósiles. | Paleontoloji fosilleri inceler.
+la antropología | antropoloji | isim (d) | La antropología estudia las culturas humanas. | Antropoloji insan kültürlerini inceler.
+la filología | filoloji | isim (d) | Estudió filología hispánica. | İspanyol filolojisi okudu.
+## Bilim insanları
+el físico | fizikçi | isim (e) | El físico explicó la teoría con ejemplos. | Fizikçi teoriyi örneklerle açıkladı.
+el químico | kimyager | isim (e) | El químico analizó el agua del río. | Kimyager nehrin suyunu analiz etti.
+el biólogo | biyolog | isim (e) | El biólogo estudia las abejas. | Biyolog arıları inceliyor.
+el matemático | matematikçi | isim (e) | El matemático resolvió el problema. | Matematikçi problemi çözdü.
+el astrónomo | gökbilimci | isim (e) | El astrónomo descubrió un cometa nuevo. | Gökbilimci yeni bir kuyruklu yıldız keşfetti.
+el geólogo | jeolog | isim (e) | El geólogo estudia las rocas del volcán. | Jeolog yanardağın kayalarını inceliyor.
+el arqueólogo | arkeolog | isim (e) | El arqueólogo encontró una vasija antigua. | Arkeolog eski bir kap buldu.
+el becario | bursiyer, stajyer | isim (e) | El becario ayuda en el laboratorio. | Bursiyer laboratuvarda yardım ediyor.
+el catedrático | (kürsü sahibi) profesör | isim (e) | El catedrático dirige el departamento. | Profesör bölümü yönetiyor.
+el investigador principal | proje yürütücüsü | isim (e) | El investigador principal coordina el proyecto. | Proje yürütücüsü projeyi koordine ediyor.
+## Keşifler ve kavramlar
+el fósil | fosil | isim (e) | Encontraron un fósil de dinosaurio. | Bir dinozor fosili buldular.
+el átomo | atom | isim (e) | Todo está formado por átomos. | Her şey atomlardan oluşur.
+la molécula | molekül | isim (d) | Una molécula de agua es muy pequeña. | Bir su molekülü çok küçüktür.
+el gen | gen | isim (e) | Este gen influye en el color de los ojos. | Bu gen göz rengini etkiliyor.
+la radiación | radyasyon | isim (d) | La radiación puede ser peligrosa. | Radyasyon tehlikeli olabilir.
+la energía nuclear | nükleer enerji | isim (d) | La energía nuclear divide a la opinión pública. | Nükleer enerji kamuoyunu ikiye bölüyor.
+el elemento químico | kimyasal element | isim (e) | El oxígeno es un elemento químico. | Oksijen bir kimyasal elementtir.
+la tabla periódica | periyodik tablo | isim (d) | Memoricé la tabla periódica en el instituto. | Lisede periyodik tabloyu ezberledim.
+la partícula | parçacık | isim (d) | Los físicos estudian las partículas. | Fizikçiler parçacıkları inceler.
+el genoma | genom | isim (e) | Han secuenciado el genoma de una planta. | Bir bitkinin genomunu dizilediler.
+## Araştırma süreci
+la financiación | finansman | isim (d) | El proyecto necesita financiación. | Projenin finansmana ihtiyacı var.
+la convocatoria | çağrı, ilan (burs, proje) | isim (d) | Ha salido la convocatoria de becas. | Burs çağrısı yayımlandı.
+el equipo de investigación | araştırma ekibi | isim (e) | El equipo de investigación tiene diez miembros. | Araştırma ekibinin on üyesi var.
+la línea de investigación | araştırma alanı | isim (d) | Su línea de investigación es el cáncer. | Araştırma alanı kanser.
+el estudio de campo | saha çalışması | isim (e) | Hicimos un estudio de campo en la selva. | Yağmur ormanında saha çalışması yaptık.
+el ensayo clínico | klinik deney | isim (e) | El medicamento está en fase de ensayo clínico. | İlaç klinik deney aşamasında.
+el sujeto | denek; özne | isim (e) | Participaron cien sujetos en el estudio. | Çalışmaya yüz denek katıldı.
+el consentimiento | onay, rıza | isim (e) | Firmaron el consentimiento informado. | Bilgilendirilmiş onam formunu imzaladılar.
+el comité de ética | etik kurulu | isim (e) | El comité de ética aprobó el estudio. | Etik kurulu çalışmayı onayladı.
+replicar | (deneyi) tekrarlamak; karşılık vermek | fiil | Otros científicos replicaron el experimento. | Başka bilim insanları deneyi tekrarladı.
+## Bilimsel dil
+teórico | kuramsal | sıfat | Es un modelo teórico. | Bu kuramsal bir model.
+práctico | pratik, uygulamalı | sıfat | Hacemos clases prácticas los jueves. | Perşembeleri uygulamalı ders yapıyoruz.
+preciso | kesin, hassas | sıfat | Necesitamos un instrumento más preciso. | Daha hassas bir alete ihtiyacımız var.
+innovador | yenilikçi | sıfat | Es un enfoque muy innovador. | Çok yenilikçi bir yaklaşım.
+confirmar | doğrulamak | fiil | Los datos confirman la hipótesis. | Veriler hipotezi doğruluyor.
+cuestionar | sorgulamak | fiil | Hay que cuestionar las ideas aceptadas. | Kabul görmüş fikirleri sorgulamak gerekir.
+predecir (predigo) | öngörmek | fiil · düzensiz | El modelo predice el tiempo con precisión. | Model havayı doğru tahmin ediyor.
+aplicar | uygulamak | fiil | Aplicamos la teoría a casos reales. | Teoriyi gerçek vakalara uyguluyoruz.
+clasificar | sınıflandırmak | fiil | Clasificamos las plantas por familias. | Bitkileri ailelerine göre sınıflandırıyoruz.
+el criterio | ölçüt | isim (e) | ¿Qué criterio usaste para elegir? | Seçmek için hangi ölçütü kullandın?

@@ -1,111 +1,111 @@
 # UNIT: Resmî üslup | Bürokratik dil, resmî yazışma, kalıplar
-## Kurumsal İletişim
-estimado (estimada) | sayın (mektup hitabı) | sıfat | Estimado señor director, le escribo para... | Sayın müdür bey, size şu hususta yazıyorum...
-atentamente | saygılarımla | zarf | Atentamente, la gerencia de recursos humanos. | Saygılarımla, insan kaynakları yönetimi.
-cordialmente | içtenlikle, samimi saygılarla | zarf | Cordialmente, el comité ejecutivo. | İçtenlikle, yürütme kurulu.
-por medio de la presente | işbu vesileyle | ifade | Por medio de la presente se convoca... | İşbu vesileyle toplantıya çağrı yapılmaktadır...
-adjunto | ekte, ilişikte | sıfat | Adjunto encontrará el expediente requerido. | Ekte talep edilen dosyayı bulacaksınız.
-sirvase | lütfen (...nuz / ...niz) | fiil | Sírvase firmar el documento adjunto. | Lütfen ilişikteki belgeyi imzalayınız.
-notificar | bildirmek, tebliğ etmek | fiil | Cumplimos con notificar la resolución. | Kararı bildirmekle yükümlüyüz.
-convocatoria | çağrı, duyuru, ilansal davet | isim (d) | La convocatoria se publicó en el boletín. | Çağrı bültende yayımlandı.
-plazo legal | yasal süre | isim (o) | El plazo legal expira el viernes próximo. | Yasal süre gelecek cuma sona eriyor.
-comparecer | (resmî makam önünde) hazır bulunmak | fiil | El testigo debe comparecer ante el juez. | Tanık hâkimin huzurunda hazır bulunmalıdır.
-## Yazışma Kuralları
-remitente | gönderen, gönderici | isim (o) | Verifique los datos del remitente en el sobre. | Zarftaki gönderici bilgilerini doğrulayın.
-destinatario | alıcı | isim (o) | El destinatario firmó el acuse de recibo. | Alıcı alındı belgesini imzaladı.
-membrete | antet, başlık | isim (o) | El oficio oficial lleva el membrete del ministerio. | Resmî yazı bakanlığın antetini taşıyor.
-validar | onaylamak, geçerli kılmak | fiil | Debe validar el documento antes de enviarlo. | Göndermeden önce belgeyi onaylaması gerekiyor.
-expedir | düzenlemek, vermek (belge) | fiil | La autoridad competente se encarga de expedir... | Yetkili makam düzenlemekle yükümlüdür...
-certificación | tasdik, tasdikname, sertifikalandırma | isim (d) | Se requiere la certificación oficial de estudios. | Resmî öğrenim belgesi tasdiki gereklidir.
-instancia | dilekçe, resmi başvuru | isim (d) | Presentó la instancia en tiempo y forma. | Dilekçeyi zamanında ve usulüne uygun sundu.
-pliego | şartname, dosya kâğıdı | isim (o) | Deben leer el pliego de condiciones técnicas. | Teknik şartnameyi okumalısınız.
-decreto ley | kanun hükmünde kararname | isim (o) | El gobierno aprobó un nuevo decreto ley. | Hükümet yeni bir kanun hükmünde kararname onayladı.
-directriz | direktif, yönerge | isim (d) | Hay que atenerse estrictamente a la directriz. | Yönergeye kesinlikle uymak gerekir.
-## Resmî İfadeler ve Kalıplar
-en relación con | ...ile ilgili olarak, ...bağlamında | ifade | En relación con su consulta, informamos que... | Başvurunuzla ilgili olarak şunu bildiririz...
-a tenor de | ...gereğince, ...istinaden | ifade | A tenor de lo dispuesto en el artículo... | Madde hükmü gereğince...
-en virtud de | ...nedeniyle, ...mütevellit | ifade | En virtud de los poderes conferidos... | Verilen yetkiler mucibince...
-sin otro particular | başka bir husus kalmadığından | ifade | Sin otro particular, saluda a usted atentamente. | Başka bir husus kalmadığından saygılarımı sunarım.
-quedamos a su entera disposición | tamamen emrinizdeyiz | ifade | Quedamos a su entera disposición para cualquier... | Herhangi bir konuda tamamen emrinizdeyiz.
-por cuanto antecede | yukarıda arz edilen gerekçelerle | ifade | Por cuanto antecede, se desestima el recurso. | Yukarıda arz edilenler hasebiyle itiraz reddedilir.
-bajo apercibimiento de | ...uyarısıyla, ...ihtar olunur | ifade | Se requiere el pago bajo apercibimiento de... | Ödeme yapılması ihtar olunur, aksi takdirde...
-salvo error u omisión | hata veya eksiklik mahfuz olmak kaydıyla | ifade | Los datos reflejados son correctos, salvo error... | Belirtilen veriler doğrudur, hata veya eksiklik mahfuzdur.
-a los efectos oportunos | ilgili amaçlar doğrultusunda | ifade | Se expide el presente certificado a los efectos... | Bu belge ilgili amaçlar doğrultusunda düzenlenmiştir.
-hacer constar | kayda geçirmek, tutanağa geçirmek | fiil | Desea hacer constar su desacuerdo en el acta. | Tutanağa anlaşmazlığını geçirmek istiyor.
-## İdari Süreçler
-tramitación | işlem, takip, bürokratik süreç | isim (d) | La tramitación del expediente demora un mes. | Dosyanın işlemleri bir ay sürüyor.
-subsanación | eksikliklerin giderilmesi, düzeltme | isim (d) | Otorgaron un plazo para la subsanación de errores. | Hataların giderilmesi için süre tanıdılar.
-apercibimiento | ihtar, ikaz | isim (o) | El juez emitió un apercibimiento formal. | Hâkim resmi bir ihtar yayınladı.
-recurso | temyiz, itiraz başvurusu | isim (o) | Interpuso un recurso contra la sentencia. | Karara karşı bir temyiz başvurusunda bulundu.
-dictaminar | karar vermek, hüküm vermek | fiil | El tribunal va a dictaminar sobre el caso mañana. | Mahkeme yarın dava hakkında karar verecek.
-impugnar | itiraz etmek, hükümsüz kılmak | fiil | La defensa decidió impugnar el documento. | Savunma belgeye itiraz etme kararı aldı.
-anulatorio | hükümsüz kılan, iptal edici | sıfat | Presentaron un recurso anulatorio de la norma. | Kuralın iptaline yönelik bir başvuru sundular.
-caducidad | hükümsüzlük, zaman aşımı | isim (d) | Declararon la caducidad del procedimiento administrativo. | İdari işlemin zaman aşımına uğradığını ilan ettiler.
-jurisdicción | yargı yetkisi, yargı alanı | isim (d) | Este asunto excede nuestra jurisdicción local. | Bu konu yerel yargı yetkimizi aşmaktadır.
-contencioso | idari davalık, çekişmeli | sıfat | Abrieron la vía contenciosa en los tribunales. | Mahkemelerde idari dava yolunu açtılar.
-## Resmî Toplantılar
-sesión plenaria | genel kurul oturumu | isim (d) | La sesión plenaria comenzará a las diez. | Genel kurul oturumu saat onda başlayacak.
-quórum | toplantı yeter sayısı | isim (o) | No había quórum suficiente para votar. | Oylama için yeterli çoğunluk yoktu.
-orden del día | gündem | isim (o) | El primer punto del orden del día es... | Gündemin birinci maddesi...
-moción | önerge | isim (d) | Presentaron una moción de urgencia. | Acil kaydıyla bir önerge sundular.
-abstenerse | çekimser kalmak | fiil · dönüşlü | Tres delegados decidieron abstenerse. | Üç delege çekimser kalmaya karar verdi.
-enmienda | değişiklik önergesi, tadil | isim (d) | Discutieron cada enmienda al articulo. | Madde üzerindeki her değişiklik önergesini tartıştılar.
-dictamen | bilirkişi raporu, kurul kararı | isim (o) | La comisión emitirá su dictamen la próxima semana. | Komisyon raporunu gelecek hafta yayınlayacak.
-acta de la sesión | oturum tutanağı | isim (o) | El secretario leyó el acta de la sesión anterior. | Sekreter bir önceki oturumun tutanağını okudu.
-ratificación | onaylama, tasdik | isim (d) | Exigen la ratificación parlamentaria del tratado. | Antlaşmanın meclis tarafından onaylanmasını talep ediyorlar.
-impedir | engellemek, mani olmak | fiil | El presidente puede impedir la ley aprobada. | Başkan onaylanan yasayı engelleyebilir.
-## Hukuki Terimler
-precepto legal | yasal kural, kanun maddesi | isim (o) | Ese comportamiento infringe un precepto legal. | Bu davranış yasal bir kuralı ihlal ediyor.
-jurisprudencia | içtihat, yargı kararları bütünü | isim (d) | El abogado citó la jurisprudencia aplicable. | Avukat geçerli içtihatları örnek gösterdi.
-litigio | dava, hukuki uyuşmazlık | isim (o) | El litigio comercial duró varios años. | Ticari dava birkaç yıl sürdü.
-arbitraje | tahkim | isim (o) | Acordaron resolver el conflicto mediante arbitraje. | Uyuşmazlığı tahkim yoluyla çözmeyi kararlaştırdılar.
-laudo arbitral | tahkim kararı | isim (o) | El laudo arbitral es de cumplimiento obligatorio. | Tahkim kararının yerine getirilmesi zorunludur.
-indemnización | tazminat | isim (d) | Reclaman una justa indemnización por daños. | Zararlar için adil bir tazminat talep ediyorlar.
-responsabilidad civil | hukuki sorumluluk | isim (d) | Se determinó la responsabilidad civil de la empresa. | Şirketin hukuki sorumluluğu belirlendi.
-culpabilidad | kusurluluk, suçluluk | isim (d) | No se pudo probar la culpabilidad del acusado. | Sanığın suçluluğu kanıtlanamadı.
-presunción | karine, varsayım | isim (d) | Rige la presunción de inocencia en el proceso. | Süreçte masumiyet karinesi geçerlidir.
-testigo | tanık | isim (o) | El testigo declaró ante el tribunal con firmeza. | Tanık mahkeme önünde kararlılıkla ifade verdi.
-## Diplomatik Dil
-plenipotenciario | tam yetkili | sıfat | El embajador plenipotenciario firmó el tratado. | Tam yetkili büyükelçi anlaşmayı imzaladı.
-cancillería | dışişleri bakanlığı, büyükelçilik ofisi | isim (d) | La cancillería emitió un comunicado oficial. | Dışişleri bakanlığı resmi bir bildiri yayınladı.
-agregado | ataşe, katip | isim (o) | El agregado cultural organizó la exposición. | Kültür ataşesi sergiyi organize etti.
-ruptura diplomática | diplomatik ilişkilerin kesilmesi | isim (d) | El conflicto provocó una ruptura diplomática. | Çatışma diplomatik ilişkilerin kesilmesine yol açtı.
-asimilar | uyum sağlamak, özümsemek | fiil | Es difícil asimilar tantas normas nuevas. | Bu kadar yeni kuralı özümsemek zor.
-multilateral | çok taraflı | sıfat | Defendieron la cooperación multilateral. | Çok taraflı iş birliğini savundular.
-bilateral | ikili | sıfat | Mantuvieron una reunión bilateral secreta. | Gizli bir ikili toplantı gerçekleştirdiler.
-soberanía | egemenlik | isim (d) | Respetan la soberanía de los estados vecinos. | Komşu devletlerin egemenliğine saygı duyuyorlar.
-convención internacional | uluslararası sözleşme | isim (d) | Ratificaron la convención internacional sobre... | Uluslararası sözleşmeyi onayladılar.
-consenso | uzlaşı, fikir birliği | isim (o) | Buscaron un consenso entre todas las partes. | Tüm taraflar arasında bir uzlaşı aradılar.
-## Resmî Belgeler ve Sertifikalar
-compulsa | onaylı suret, aslı gibidir onayı | isim (d) | Necesitan la compulsa de los títulos académicos. | Akademik diplomaların aslı gibidir onaylanması gerekiyor.
-legalización | yasallaştırma, apostil onayı | isim (d) | El documento requiere la legalización consular. | Belge konsolosluk tasdiki gerektiriyor.
-testimonio notarial | noter tasdikli örnek | isim (o) | Adjuntaron un testimonio notarial del contrato. | Sözleşmenin noter tasdikli örneğini eklediler.
-plazo de validez | geçerlilik süresi | isim (o) | Verifique el plazo de validez del pasaporte. | Pasaportun geçerlilik süresini kontrol edin.
-vigencia | yürürlükte olma durumu, geçerlilik | isim (d) | La nueva ley entra en vigencia este mes. | Yeni yasa bu ay yürürlüğe giriyor.
-cláusula compromisoria | tahkim şartı | isim (d) | El contrato incluye una cláusula compromisoria. | Sözleşme bir tahkim şartı içeriyor.
-anexo | ek, ilave | isim (o) | Los detalles figuran en el anexo tercero. | Detaylar üçüncü ekte yer almaktadır.
-fe de erratas | yanlışlar cetveli, düzeltme metni | isim (d) | Publicaron una fe de erratas en el boletín. | Bülteste bir yanlışlar cetveli yayınladılar.
-copia fiel | aslına uygun kopya | isim (d) | Entregó una copia fiel del documento original. | Orijinal belgenin aslına uygun bir kopyasını teslim etti.
-membrete oficial | resmi antet | isim (o) | Utilizaron papel con membrete oficial del estado. | Devletin resmi antetli kağıdını kullandılar.
-## Kurumsal Prosedürler
-protocolario | protokol kurallarına uygun | sıfat | Fue un encuentro de carácter protocolario. | Protokol kurallarına uygun bir buluşma oldu.
-bureaucracia | bürokrasi | isim (d) | Intentan simplificar la burocracia excesiva. | Aşırı bürokrasiyi basitleştirmeye çalışıyorlar.
-jerarquía | hiyerarşi | isim (d) | Es necesario respetar la jerarquía institucional. | Kurumsal hiyerarşiye saygı duymak gereklidir.
-delegación de funciones | görev devri, yetki devri | isim (d) | La directiva aprobó la delegación de funciones. | Yönetim kurulu görev devrini onayladı.
-incompatibilidad | bağdaşmazlık, uyuşmazlık | isim (d) | Existe una incompatibilidad legal para el cargo. | Görev için yasal bir bağdaşmazlık söz konusudur.
-suspensión de empleo | görevden uzaklaştırma | isim (d) | Aplicaron una suspensión de empleo temporal. | Geçici bir görevden uzaklaştırma uyguladılar.
-expediente disciplinario | disiplin soruşturması | isim (o) | Abrieron un expediente disciplinario al empleado. | Çalışana bir disiplin soruşturması açtılar.
-amonestación | kınama, uyarı cezası | isim (d) | Recibió una amonestación escrita del director. | Müdürden yazılı bir kınama cezası aldı.
-cesantía | görevden alınma, işsiz kalma | isim (d) | Presentó su renuncia tras un periodo de cesantía. | Görevden ayrılma döneminin ardından istifasını sundu.
-indulto | af, cezayı affetme | isim (o) | Solicitaron el indulto presidencial para el reo. | Mahkûm için başkanlık af talebinde bulundular.
-## İdari Dilekçeler
-solicitud formal | resmi başvuru dilekçesi | isim (d) | Presentó una solicitud formal de licencia. | Resmi bir izin başvuru dilekçesi sundu.
-eximente | sorumluluğu kaldıran hal, hafifletici neden | isim (o) | El juez reconoció una circunstancia eximente. | Hâkim hafifletici bir durumu kabul etti.
-atenuante | hafifletici sebep | isim (o) | Consideraron los factores atenuantes del caso. | Davanın hafifletici faktörlerini dikkate aldılar.
-agravante | ağırlaştırıcı neden | isim (o) | La nocturnidad constituye un factor agravante. | Gece vakti işlenmesi ağırlaştırıcı bir neden oluşturur.
-prescripción | zaman aşımı (hukuki) | isim (d) | El delito ha alcanzado su prescripción legal. | Suç yasal zaman aşımına ulaştı.
-comprobación fiscal | mali denetim, vergi incelemesi | isim (d) | La empresa superó la comprobación fiscal anual. | Şirket yıllık mali denetimi başarıyla geçti.
-verificación de datos | veri doğrulama | isim (d) | Realizaron una verificación de datos rigurosa. | Titiz bir veri doğrulama işlemi gerçekleştirdiler.
-resolución administrativa | idari karar | isim (d) | La resolución administrativa fue notificada hoy. | İdari karar bugün tebliğ edildi.
-reclamación previa | ön itiraz, ön talep | isim (d) | Presentaron una reclamación previa al juicio. | Dava öncesi bir ön itiraz dilekçesi sundular.
-comparecencia | ifade verme, huzura çıkma | isim (d) | Su comparecencia es obligatoria el lunes. | Pazartesi günü huzura çıkması zorunludur.
+## Resmî mektup
+atentamente | saygılarımla | zarf | Atentamente, el departamento de personal. | Saygılarımla, personel departmanı.
+cordialmente | içtenlikle | zarf | Le saluda cordialmente, la directora. | İçten saygılarımla, müdür.
+por medio de la presente | işbu yazı ile | ifade | Por medio de la presente le comunicamos la decisión. | İşbu yazı ile kararı size bildiririz.
+sin otro particular | başka bir husus olmadığından | ifade | Sin otro particular, reciba un cordial saludo. | Başka bir husus olmadığından saygılarımı sunarım.
+quedamos a su entera disposición | her türlü konuda hizmetinizdeyiz | ifade | Quedamos a su entera disposición para cualquier consulta. | Her türlü sorunuz için hizmetinizdeyiz.
+en respuesta a su escrito | yazınıza cevaben | ifade | En respuesta a su escrito del día 3, le informamos de lo siguiente. | 3 tarihli yazınıza cevaben aşağıdakileri bildiririz.
+tengo el gusto de | -mekten memnuniyet duyarım | ifade | Tengo el gusto de invitarle a la inauguración. | Sizi açılışa davet etmekten memnuniyet duyarım.
+lamentamos comunicarle | üzülerek bildiririz | ifade | Lamentamos comunicarle que su solicitud ha sido rechazada. | Başvurunuzun reddedildiğini üzülerek bildiririz.
+le rogamos | rica ederiz | ifade | Le rogamos que confirme su asistencia. | Katılımınızı teyit etmenizi rica ederiz.
+sírvase | lütfen (resmî emir) | ifade | Sírvase firmar el documento adjunto. | Lütfen ekteki belgeyi imzalayınız.
+## Yazışma öğeleri
+el membrete | antet | isim (e) | La carta lleva el membrete del ministerio. | Mektupta bakanlığın anteti var.
+el anexo | ek | isim (e) | Los detalles figuran en el anexo II. | Ayrıntılar Ek II'de yer alıyor.
+el oficio | resmî yazı | isim (e) | Recibimos un oficio del juzgado. | Mahkemeden resmî bir yazı aldık.
+el interesado | ilgili kişi, başvuru sahibi | isim (e) | El interesado deberá presentar su DNI. | İlgili kişinin kimliğini ibraz etmesi gerekecek.
+el solicitante | başvuran | isim (e) | El solicitante debe ser mayor de edad. | Başvuranın reşit olması gerekir.
+el abajo firmante | aşağıda imzası bulunan | isim (e) | El abajo firmante declara que los datos son ciertos. | Aşağıda imzası bulunan, bilgilerin doğru olduğunu beyan eder.
+suscribir | imzalamak; abone olmak | fiil | Los representantes suscribieron el acuerdo. | Temsilciler anlaşmayı imzaladı.
+sellar | mühürlemek | fiil | Hay que sellar la copia en el registro. | Kopyayı evrak kayıtta mühürletmek gerekiyor.
+con fecha | ... tarihinde, tarihli | ifade | Con fecha 10 de abril se aprobó la norma. | Düzenleme 10 nisan tarihinde kabul edildi.
+en tiempo y forma | süresi içinde ve usulüne uygun | ifade | Presentó la documentación en tiempo y forma. | Belgeleri süresi içinde ve usulüne uygun sundu.
+## Resmî kalıplar
+bajo apercibimiento de | aksi hâlde ... uyarısıyla | ifade | Debe pagar en diez días, bajo apercibimiento de embargo. | On gün içinde ödemesi gerekir, aksi hâlde haciz uygulanır.
+salvo error u omisión | hata ve unutma hariç | ifade | El importe es de mil euros, salvo error u omisión. | Tutar, hata ve unutma hariç, bin avrodur.
+a los efectos oportunos | gereği için | ifade | Se expide este certificado a los efectos oportunos. | Bu belge gereği için düzenlenmiştir.
+a todos los efectos | her bakımdan | ifade | A todos los efectos, es su representante legal. | Her bakımdan onun yasal temsilcisidir.
+por cuanto antecede | yukarıda belirtilenlere dayanarak | ifade | Por cuanto antecede, se desestima la reclamación. | Yukarıda belirtilenlere dayanarak itiraz reddedilir.
+hacer constar | kayda geçirmek | ifade | Quiero hacer constar mi desacuerdo. | Muhalefetimi kayda geçirmek istiyorum.
+dar traslado | (bir belgeyi) iletmek | ifade | Se dará traslado del escrito a la otra parte. | Yazı karşı tarafa iletilecektir.
+obrar en poder de | -in elinde bulunmak | ifade | Los documentos obran en poder del juzgado. | Belgeler mahkemenin elinde bulunuyor.
+elevar | (üst makama) sunmak | fiil | Elevaron la propuesta al consejo. | Öneriyi kurula sundular.
+a la mayor brevedad posible | mümkün olan en kısa sürede | ifade | Le rogamos responda a la mayor brevedad posible. | Mümkün olan en kısa sürede yanıt vermenizi rica ederiz.
+## İdari işlemler
+la gestoría | resmî işlem takip bürosu | isim (d) | Una gestoría se encarga de mis impuestos. | Vergilerimle bir takip bürosu ilgileniyor.
+la convocatoria de ayudas | yardım çağrısı | isim (d) | Se ha abierto la convocatoria de ayudas al alquiler. | Kira yardımı başvuruları açıldı.
+la instancia | dilekçe | isim (d) | Presentó una instancia en el ayuntamiento. | Belediyeye bir dilekçe verdi.
+subsanar | (eksikliği) gidermek | fiil | Tiene diez días para subsanar los errores. | Hataları gidermek için on günü var.
+expedir (expido) | (belge) düzenlemek | fiil · düzensiz | El ayuntamiento expide el certificado en el acto. | Belediye belgeyi hemen düzenliyor.
+compulsar | aslı gibidir onayı yapmak | fiil | Debe compulsar las fotocopias de los títulos. | Diploma fotokopilerine aslı gibidir onayı yaptırması gerekiyor.
+la apostilla | apostil | isim (d) | El título necesita la apostilla de La Haya. | Diplomanın Lahey apostiline ihtiyacı var.
+el silencio administrativo | idarenin sessiz kalması (zımni karar) | isim (e) | Si no responden en tres meses, opera el silencio administrativo. | Üç ay içinde yanıt vermezlerse zımni karar oluşur.
+la sede electrónica | e-devlet portalı | isim (d) | Puedes hacer el trámite en la sede electrónica. | İşlemi e-devlet portalından yapabilirsin.
+el certificado digital | dijital sertifika | isim (e) | Necesitas un certificado digital para firmar. | İmzalamak için dijital sertifikaya ihtiyacın var.
+## İtiraz ve kararlar
+presentar alegaciones | itirazlarını sunmak | ifade | Tiene quince días para presentar alegaciones. | İtirazlarını sunmak için on beş günü var.
+el trámite de audiencia | dinlenme hakkı aşaması | isim (e) | Se abrió el trámite de audiencia a los vecinos. | Mahalle sakinlerine görüş bildirme aşaması açıldı.
+desestimar | reddetmek (talep) | fiil | El tribunal desestimó el recurso. | Mahkeme itirazı reddetti.
+estimar | kabul etmek (talep); takdir etmek | fiil | La administración estimó la reclamación. | İdare itirazı kabul etti.
+impugnar | itiraz etmek, hükümsüzlüğünü istemek | fiil | Decidieron impugnar la decisión. | Karara itiraz etmeye karar verdiler.
+el recurso de alzada | üst makama itiraz | isim (e) | Presentó un recurso de alzada ante el ministerio. | Bakanlığa üst makam itirazında bulundu.
+el recurso de reposición | aynı makama itiraz | isim (e) | Cabe recurso de reposición en el plazo de un mes. | Bir ay içinde aynı makama itiraz edilebilir.
+agotar la vía administrativa | idari yolları tüketmek | ifade | Hay que agotar la vía administrativa antes de ir a juicio. | Davaya gitmeden önce idari yolları tüketmek gerekir.
+la caducidad | süre aşımı (usul) | isim (d) | El expediente se archivó por caducidad. | Dosya süre aşımından kapatıldı.
+dictaminar | görüş bildirmek, karar vermek | fiil | La comisión dictaminará la próxima semana. | Komisyon gelecek hafta görüşünü bildirecek.
+## Toplantı dili
+la sesión plenaria | genel kurul oturumu | isim (d) | La sesión plenaria empezó con retraso. | Genel kurul oturumu gecikmeyle başladı.
+el quórum | yeter sayı | isim (e) | No hay quórum para votar. | Oylama için yeter sayı yok.
+la moción | önerge | isim (d) | Aprobaron una moción sobre el cambio climático. | İklim değişikliği hakkında bir önerge kabul ettiler.
+abstenerse (me abstengo) | çekimser kalmak | fiil · dönüşlü | Tres concejales se abstuvieron. | Üç meclis üyesi çekimser kaldı.
+someter a votación | oylamaya sunmak | ifade | La propuesta se sometió a votación. | Öneri oylamaya sunuldu.
+el turno de ruegos y preguntas | dilek ve sorular bölümü | isim (e) | En el turno de ruegos y preguntas habló un vecino. | Dilek ve sorular bölümünde bir mahalleli konuştu.
+levantar la sesión | oturumu kapatmak | ifade | El presidente levantó la sesión a las dos. | Başkan oturumu saat ikide kapattı.
+la ratificación | onay | isim (d) | El tratado espera la ratificación del parlamento. | Antlaşma parlamentonun onayını bekliyor.
+el acuerdo por unanimidad | oybirliğiyle karar | isim (e) | Se adoptó un acuerdo por unanimidad. | Oybirliğiyle karar alındı.
+el voto de calidad | (eşitlikte) başkanın belirleyici oyu | isim (e) | El presidente usó su voto de calidad. | Başkan belirleyici oyunu kullandı.
+## Belgeler
+el certificado de empadronamiento | ikametgâh belgesi | isim (e) | Pide el certificado de empadronamiento en el ayuntamiento. | İkametgâh belgesini belediyeden iste.
+la partida de nacimiento | doğum belgesi | isim (d) | Necesito una partida de nacimiento literal. | Tam suret doğum belgesine ihtiyacım var.
+el certificado de antecedentes | adli sicil kaydı | isim (e) | Para el puesto piden el certificado de antecedentes. | Pozisyon için adli sicil kaydı istiyorlar.
+la copia compulsada | onaylı suret | isim (d) | Adjunte una copia compulsada del título. | Diplomanın onaylı suretini ekleyiniz.
+el plazo de validez | geçerlilik süresi | isim (e) | Compruebe el plazo de validez del pasaporte. | Pasaportun geçerlilik süresini kontrol edin.
+la fe de erratas | düzeltme ilanı | isim (d) | El boletín publicó una fe de erratas. | Resmî gazete bir düzeltme ilanı yayımladı.
+el testimonio notarial | noter onaylı suret | isim (e) | Presentaron un testimonio notarial del poder. | Vekâletnamenin noter onaylı suretini sundular.
+la fe de vida | yaşam belgesi | isim (d) | Los pensionistas en el extranjero envían una fe de vida. | Yurt dışındaki emekliler yaşam belgesi gönderir.
+el padrón | nüfus kütüğü (belediye) | isim (e) | Hay que darse de alta en el padrón municipal. | Belediye nüfus kütüğüne kayıt olmak gerekiyor.
+la diligencia | şerh, tutanak kaydı | isim (d) | El funcionario extendió una diligencia en el documento. | Memur belgeye bir şerh düştü.
+## Disiplin
+el expediente disciplinario | disiplin soruşturması | isim (e) | Le abrieron un expediente disciplinario. | Hakkında disiplin soruşturması açıldı.
+la amonestación | kınama | isim (d) | Recibió una amonestación por escrito. | Yazılı kınama aldı.
+la suspensión de empleo y sueldo | işten ve maaştan uzaklaştırma | isim (d) | Le impusieron un mes de suspensión de empleo y sueldo. | Bir ay işten ve maaştan uzaklaştırma cezası verdiler.
+la incompatibilidad | görev bağdaşmazlığı | isim (d) | Hay incompatibilidad entre los dos cargos. | İki görev arasında bağdaşmazlık var.
+el apercibimiento | ihtar | isim (e) | Recibió un apercibimiento formal. | Resmî bir ihtar aldı.
+la falta grave | ağır disiplin suçu | isim (d) | Faltar sin justificar es una falta grave. | Mazeretsiz devamsızlık ağır disiplin suçudur.
+el cese | görevden alma | isim (e) | El ministro anunció el cese del director. | Bakan müdürün görevden alındığını açıkladı.
+cesar | görevden almak; sona ermek | fiil | Cesaron al jefe de prensa. | Basın sorumlusunu görevden aldılar.
+la toma de posesión | göreve başlama töreni | isim (d) | La toma de posesión será el lunes. | Göreve başlama töreni pazartesi olacak.
+el funcionario de carrera | kadrolu memur | isim (e) | Es funcionario de carrera desde 2010. | 2010'dan beri kadrolu memur.
+## Diplomatik dil
+plenipotenciario | tam yetkili | sıfat | Nombraron un ministro plenipotenciario. | Tam yetkili bir bakan atadılar.
+el agregado | ataşe | isim (e) | El agregado cultural organizó la exposición. | Kültür ataşesi sergiyi düzenledi.
+multilateral | çok taraflı | sıfat | Firmaron un acuerdo multilateral. | Çok taraflı bir anlaşma imzaladılar.
+protocolario | protokole ilişkin | sıfat | Fue una visita protocolaria. | Protokol gereği yapılmış bir ziyaretti.
+las cartas credenciales | güven mektupları | isim (çoğul) | El embajador presentó sus cartas credenciales. | Büyükelçi güven mektubunu sundu.
+el comunicado conjunto | ortak bildiri | isim (e) | Ambos gobiernos emitieron un comunicado conjunto. | İki hükümet ortak bir bildiri yayımladı.
+la nota verbal | sözlü nota (diplomatik) | isim (d) | El ministerio envió una nota verbal a la embajada. | Bakanlık büyükelçiliğe bir sözlü nota gönderdi.
+la persona non grata | istenmeyen kişi | isim (d) | Declararon persona non grata al diplomático. | Diplomatı istenmeyen kişi ilan ettiler.
+el canje de notas | nota teatisi | isim (e) | El acuerdo se formalizó mediante canje de notas. | Anlaşma nota teatisiyle resmîleştirildi.
+la inmunidad diplomática | diplomatik dokunulmazlık | isim (d) | Goza de inmunidad diplomática. | Diplomatik dokunulmazlığı var.
+## Resmî fiiller
+trasladar | iletmek; nakletmek | fiil | Trasladaremos su queja al departamento correspondiente. | Şikâyetinizi ilgili departmana ileteceğiz.
+notificar | tebliğ etmek | fiil | Le notificaron la multa por correo. | Para cezasını ona posta ile tebliğ ettiler.
+efectuar | yapmak, gerçekleştirmek | fiil | El pago se efectuará por transferencia. | Ödeme havale ile yapılacaktır.
+proceder a | -e geçmek, -i yapmak | fiil | Se procede a la lectura del acta. | Tutanağın okunmasına geçiliyor.
+cumplimentar | (form) doldurmak | fiil | Cumplimente el formulario con letra clara. | Formu okunaklı şekilde doldurunuz.
+acreditar | belgelemek | fiil | Debe acreditar su experiencia. | Deneyiminizi belgelemeniz gerekiyor.
+adjuntar documentación | belge eklemek | ifade | Es obligatorio adjuntar documentación. | Belge eklemek zorunludur.
+formalizar | resmîleştirmek | fiil | Formalizaron el contrato ante notario. | Sözleşmeyi noter huzurunda resmîleştirdiler.
+desempeñar | (görev) yürütmek | fiil | Desempeña el cargo de secretario. | Sekreterlik görevini yürütüyor.
+cursar | (talep) iletmek; (ders) okumak | fiil | Cursamos su solicitud al departamento. | Talebinizi ilgili departmana ilettik.

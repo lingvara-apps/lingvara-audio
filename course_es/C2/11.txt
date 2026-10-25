@@ -1,111 +1,111 @@
 # UNIT: Subjuntivo tetikleyen ifadeler | ojalá, es posible que, aunque…
-## Olasılık ve istek
-ojalá | keşke | ifade | Ojalá haga buen tiempo mañana. | Keşke yarın hava güzel olsa.
-quiera_dios | Allah korusun; inşallah | ifade | Quiera_dios que todo salga bien. | İnşallah her şey iyi gider.
-mal_grado | istemeye istemeye | ifade | Actúa con mal_grado aunque le paguen. | Parasını ödeseler bile istemeye istemeye hareket ediyor.
-supóngase | farz edilsin ki | ifade | Supóngase que no tengamos tiempo. | Zamanımız olmadığını farz edelim.
-temer_que | -den korkmak | ifade | Temo que lleguen tarde. | Geç kalmalarından korkuyorum.
-desear_que | -mesini istemek | ifade | Deseo que apruebes el examen. | Sınavı geçmeni istiyorum.
-esperar_que | -e umut etmek | ifade | Espero que me entiendas. | Beni anlamanı umuyorum.
-necesitar_que | -mesine ihtiyaç duymak | ifade | Necesito que me ayudes hoy. | Bugün bana yardım etmene ihtiyacım var.
-pedir_que | -mesini rica etmek | ifade | Pido que guarden silencio. | Sessiz olmalarını rica ediyorum.
-exigir_que | -mesini talep etmek | ifade | Exijo que me den explicaciones. | Bana açıklama yapmalarını talep ediyorum.
-## Şüphe ve ihtimal
-dudar_que | -diğinden şüphelenmek | ifade | Dudo que vengan hoy. | Bugün geleceklerinden şüpheliyim.
-negar_que | -diğini inkar etmek | ifade | Niego que hayan robado algo. | Bir şey çaldıklarını inkar ediyorum.
-improbabilidad | olasılık dışılık | isim (d) | La improbabilidad de que ocurra es alta. | Gerçekleşme olasılığı düşüktür.
-cabalgar_dudalar | kuşkulanmak | ifade | Cabalgan dudas sobre si ganaremos. | Kazanıp kazanmayacağımız konusunda kuşkular var.
-suponer_que | varsaymak | ifade | Supongamos que llueva toda la tarde. | Bütün öğleden sonra yağmur yağdığını varsayalım.
-creer_posible | mümkün görmek | ifade | No creo posible que terminen pronto. | Yakında bitireceklerini mümkün görmüyorum.
-parecer_mentira | inanılmaz gelmek | ifade | Parece mentira que no sepan esto. | Bunu bilmemeleri inanılmaz geliyor.
-resultar_dudoso | şüpheli görünmek | ifade | Resulta dudoso que acepten la oferta. | Teklifi kabul etmeleri şüpheli görünmüyor.
-ser_improbable | olası olmamak | ifade | Es improbable que nieve en julio. | Temmuzda kar yağması olası değildir.
-haber_indicios | belirtiler bulunmak | ifade | Hay indicios de que mientan. | Yalan söylediklerine dair belirtiler var.
-## Duygu ve tepki
-alegrarse_de_que | -e sevinmek | ifade | Me alegro de que estés aquí. | Burada olmana seviniyorum.
-sentir_que | -e üzülmek | ifade | Siento que te encuentres mal. | Kendini kötü hissetmene üzülüyorum.
-sorprenderse_de_que | -e şaşırmak | ifade | Me sorprende que no me saludes. | Beni selamlamamana şaşıyorum.
-molestarse_de_que | -e rahatsız olmak | ifade | Me molesta que hablen tanto. | Bu kadar çok konuşmalarından rahatsız oluyorum.
-temor_fundado | haklı korku | isim (o) | Hay temor fundado de que fracasen. | Başarısız olacaklarına dair haklı bir korku var.
-lamentar_que | -diğine hayıflanmak | ifade | Lamento que te hayas marchado. | Gitmiş olmana hayıflanıyorum.
-extrañarse_de_que | -e garipsemek | ifade | Me extraña que nadie conteste. | Kimsenin yanıt vermemesini garipsiyorum.
-entristecerse_de_que | -e üzülmek | ifade | Se entristece de que la ignoren. | Yok sayılmasına üzülüyorum.
-indignarse_de_que | -e öfkelenmek | ifade | Se indigna de que mian así. | Böyle yalan söylemelerine öfkeleniyor.
-gustar_que | hoşuna gitmek | ifade | Me gusta que leas tanto. | Bu kadar çok kitap okuman hoşuma gidiyor.
-## Emir ve yasak
-mandar_que | -mesini buyurmak | ifade | Manda que limpies la sala. | Salonu temizlemeni buyuruyor.
-prohibir_que | -meyi yasaklamak | ifade | Prohíbo que fumen aquí. | Burada sigara içilmesini yasaklıyorum.
-impedir_que | -e engel olmak | ifade | Impiden que entremos sin pase. | Kart olmadan girmemize engel oluyorlar.
-aconsejar_que | -mesini tavsiye etmek | ifade | Aconsejo que descanses un poco. | Biraz dinlenmeni tavsiye ediyorum.
-sugerir_que | -mesini önermek | ifade | Sugiero que vayamos al cine. | Sinemaya gitmemizi öneriyorum.
-recomendar_que | -mesini önermek | ifade | Recomiendo que leas este libro. | Bu kitabı okumanı öneriyorum.
-permitir_que | -e izin vermek | ifade | Permiten que juguemos fuera. | Dışarıda oynamamıza izin veriyorlar.
-rogar_que | -mesi için yalvarmak | ifade | Ruego que me perdones. | Beni affetmen için yalvarıyorum.
-insistir_que | -mekte ısrar etmek | ifade | Insisten en que paguemos ahora. | Şimdi ödeme yapmamızda ısrar ediyorlar.
-proponer_que | -meyi önermek | ifade | Propongo que empecemos ya. | Hemen başlamamızı öneriyorum.
-## Değerlendirme ve kanaat
-ser_bueno_que | -mesi iyi olmak | ifade | Es bueno que practiques cada día. | Her gün pratik yapman iyi bir şeydir.
-ser_necesario_que | -mesi gerek olmak | ifade | Es necesario que firmes hoy. | Bugün imzalaman gereklidir.
-ser_importante_que | -mesi önemli olmak | ifade | Es importante que llegues punctual. | Dakik gelmen önemlidir.
-ser_mejor_que | -mesi daha iyi olmak | ifade | Es mejor que nos vayamos ya. | Hemen gitmemiz daha iyidir.
-ser_conveniente_que | -mesi uygun olmak | ifade | Es conveniente que estudies más. | Daha çok çalışman uygundur.
-ser_justo_que | -mesi adil olmak | ifade | Es justo que premien tu esfuerzo. | Emeğini ödüllendirmeleri adildir.
-ser_lógico_que | -mesi mantıklı olmak | ifade | Es lógico que tengas dudas. | Kuşkularının olması mantıklıdır.
-ser_extraño_que | -mesi garip olmak | ifade | Es extraño que no hayan llamado. | Arama yapmış olmamaları gariptir.
-ser_evidente_que | -mesi aşikar olmak | ifade | Es evidente que mientes siempre. | Hep yalan söylediğin aşikardır.
-ser_cierto_que | -mesi doğru olmak | ifade | Es cierto que sepan la verdad. | Gerçeği bilmeleri doğrudur.
-## Koşul ve bağlaçlar
-salvo_que_llueva | yağmur yağmadıkça | bağlaç | Iremos salvo_que_llueva fuerte. | Şiddetli yağmur yağmadıkça gideceğiz.
-con_tal_de_que | -diği sürece, yeter ki | bağlaç | Te daré el dinero con_tal_de_que pagues. | Ödeme yapman koşuluyla parayı vereceğim.
-supuesto_que_llueva | yağması durumunda | bağlaç | Supuesto_que_llueva, quédate aquí. | Yağmur yağması durumunda burada kal.
-sin_que | -meksizin, -madan | bağlaç | Salió sin_que nadie le viese. | Kimse onu görmeden dışarı çıktı.
-antes_de_que | -den önce | bağlaç | Vuelve antes_de_que oscurezca. | Hava kararmadan önce geri dön.
-para_que | -mesi için | bağlaç | Estudió duro para_que aprobase. | Geçmesi için sıkı çalıştı.
-a_pesar_de_que | -e rağmen | bağlaç | Vinieron a_pesar_de_que nevaba. | Kar yağmasına rağmen geldiler.
-por_mucho_que | ne kadar ... -se de | bağlaç | Por_mucho_que insistas, diré no. | Ne kadar ısrar edersen et, hayır diyeceğim.
-cualquiera_que | her kim ki | zamir | Cualquiera_que venga será bienvenido. | Kim gelirse gelsin hoş karşılanacaktır.
-dondequiera_que | nereye olursa olsun | zarf | Iré dondequiera_que me llames. | Beni nereye çağırırsan oraya gideceğim.
-## Zaman ve gelecek
-en_cuanto | -irmez, -er etmez | zarf | En_cuanto llegues, avísame. | Varır varmaz bana haber ver.
-hasta_que | -e kadar | zarf | Esperaré hasta_que termines. | Sen bitirene kadar bekleyeceğim.
-tan_pronto_como | -er etmez | zarf | Tan_pronto_como amanezca, salimos. | Gün ağarır ağarmaz yola çıkıyoruz.
-después_de_que | -dikten sonra | bağlaç | Despúes_de_que comamos, saldremos. | Yemek yedikten sonra dışarı çıkacağız.
-a_medida_que | -dıkça | bağlaç | Creces a_medida_que lees más. | Daha çok okudukça büyüyorsun.
-mientras | -ken | bağlaç | Haz la cena mientras yo trabajo. | Ben çalışırken sen akşam yemeğini yap.
-siempre_que | -dığı sürece | bağlaç | Iremos siempre_que haga sol. | Güneş açtığı sürece gideceğiz.
-en_el_momento_que | -diğinde | bağlaç | Llámarme en_el_momento_que llegues. | Eve vardığında beni ara.
-apenas | -er etmez | zarf | Apenas amanezca, partiremos. | Gün ağarır ağarmaz yola çıkacağız.
-luego_que | -irmez | zarf | Luego_que termine, te llamo. | Bitirir bitirmez seni arayacağım.
-## Emir kipi olumsuz çekimi
-no_hagas | yapma | ifade | No_hagas ruido al entrar. | Girerken ses çıkarma.
-no_digas | söyleme | ifade | No_digas mentiras a tus padres. | Ailene yalanlar söyleme.
-no_vayas | gitme | ifade | No_vayas solo por la noche. | Gece vakti yalnız gitme.
-no_seas | olma | ifade | No_seas tan impaciente hoy. | Bugün bu kadar sabırsız olma.
-no_tengas | sahip olma | ifade | No_tengas miedo de preguntar. | Sormaktan korkma.
-no_salgas | dışarı çıkma | ifade | No_salgas sin abrigo al frío. | Soğukta paltosuz dışarı çıkma.
-no_comas | yeme | ifade | No_comas tanto dulce seguido. | Art arda bu kadar tatlı yeme.
-no_duermas | uyuma | ifade | No_duermas durante la clase. | Ders sırasında uyuma.
-no_pongas | koyma | ifade | No_pongas los pies en la mesa. | Ayaklarını masanın üzerine koyma.
-no_escuches | dinleme | ifade | No_escuches consejos malos. | Kötü tavsiyeleri dinleme.
-## Subjuntivo ve gerçek dışı
-ojalá_hubiera_sido | keşke olsaydı | ifade | Ojalá_hubiera_sido más fácil. | Keşke daha kolay olsaydı.
-si_fuera | eğer olsaydı | ifade | Si_fuera rico, viajaría más. | Zengin olsaydım, daha çok seyahat ederdim.
-si_hubiera_sabido | bilseydim | ifade | Si_hubiera_sabido, no habría venido. | Bilseydim, gelmezdim.
-como_si_fuera | sanki ... gibi | ifade | Habla como_si_fuera el jefe. | Sanki patronmuş gibi konuşuyor.
-caso_omiso | kulak ardı etme | isim (o) | Hacen caso omiso de lo que digo. | Söylediklerimi kulak ardı ediyorlar.
-quiera_el_cielo | Allah versin; inşallah | ifade | Quiera_el_cielo que volvamos a vernos. | İnşallah tekrar görüşürüz.
-valga_la_pena | değsin | ifade | Quiero que valga_la_pena el esfuerzo. | Çabaya değmesini istiyorum.
-dado_el_caso | o durum olursa | ifade | Dado_el_caso de que falte, avisa. | Olur da eksik olursa haber ver.
-quede_entre_nous | aramızda kalsın | ifade | Quede_entre_nosotros este secreto. | Bu sır aramızda kalsın.
-sea_como_sea | her halükarda | ifade | Sea_como_sea, lo haremos bien. | Her ne olursa olsun, bunu iyi yapacağız.
-## Alternatif bağlaçlar
-en_cualquier_caso | her halükarda | ifade | En_cualquier_caso, te apoyaremos. | Her durumda seni destekleyeceğiz.
-por_si_acaso | ne olur ne olmaz | ifade | Lleva paraguas por_si_acaso llueva. | Yağmur yağma ihtimaline karşı şemsiye al.
-a_efectos_de_que | amacıyla | bağlaç | Hablo alto a_efectos_de_que oigan. | Herkesin duyması amacıyla yüksek sesle konuşuyorum.
-con_la_mira_puesta | gözü önünde | ifade | Trabaja con_la_mira_puesta en el ascenso. | Terfi gözünün önünde çalışıyor.
-de_modo_que | öyle ki | bağlaç | Estudió mucho de_modo_que aprobó. | Öyle çok çalıştı ki sınavı geçti.
-a_fin_de_que | -mesi amacıyla | bağlaç | Vine a_fin_de_que me expliques. | Bana açıklaman amacıyla geldim.
-no_obstante_que | -e rağmen | bağlaç | Vinieron no_obstante_que hacía frío. | Soğuk olmasına rağmen geldiler.
-en_tanto_cuanto | -dığı sürece | bağlaç | Te ayudaré en_tanto_cuanto puedas. | Yapabildiğin sürece sana yardım edeceğim.
-a_cambio_de_que | karşılığında | bağlaç | Cuidaré al perro a_cambio_de_que viajes. | Seyahat etmen karşılığında köpeğe bakacağım.
-bajo_condición_de_que | şartıyla | bağlaç | Entrarás bajo_condición_de_que pagues. | Ödeme yapman şartıyla içeri gireceksin.
+## Dilek ve umut
+ojalá | keşke, inşallah (+ subjuntivo) | ünlem | Ojalá haga buen tiempo mañana. | İnşallah yarın hava güzel olur.
+quiera Dios que | Allah vere de | ifade | Quiera Dios que todo salga bien. | Allah vere de her şey yolunda gider.
+esperar que | -mesini ummak | ifade | Espero que me entiendas. | Beni anlamanı umarım.
+esperemos que | umalım ki | ifade | Esperemos que no llueva. | Umalım ki yağmur yağmasın.
+desear que | -mesini dilemek | ifade | Deseo que seas muy feliz. | Çok mutlu olmanı dilerim.
+ojalá hubiera | keşke ... olsaydı | ifade | Ojalá hubiera estudiado más. | Keşke daha çok çalışsaydım.
+estar deseando que | -i iple çekmek | ifade | Estoy deseando que lleguen las vacaciones. | Tatilin gelmesini iple çekiyorum.
+el deseo de que | ... arzusu | ifade | Tenía el deseo de que todo acabara pronto. | Her şeyin bir an önce bitmesini arzuluyordu.
+con la esperanza de que | ... umuduyla | ifade | Le escribió con la esperanza de que respondiera. | Cevap vermesi umuduyla ona yazdı.
+temer que | -mesinden korkmak | ifade | Temo que lleguen tarde. | Geç kalmalarından korkuyorum.
+## Etkileme fiilleri
+pedir que | -mesini istemek | ifade | Te pido que me escuches. | Beni dinlemeni istiyorum.
+exigir que | -mesini talep etmek | ifade | Exijo que me den una explicación. | Bana bir açıklama yapılmasını talep ediyorum.
+rogar que | -mesini rica etmek | ifade | Les ruego que apaguen el móvil. | Telefonlarınızı kapatmanızı rica ederim.
+aconsejar que | -mesini tavsiye etmek | ifade | Te aconsejo que descanses. | Dinlenmeni tavsiye ederim.
+sugerir que | -mesini önermek | ifade | Sugiero que lo dejemos para mañana. | Yarına bırakmamızı öneriyorum.
+proponer que | -meyi önermek | ifade | Propongo que empecemos ya. | Hemen başlamamızı öneriyorum.
+prohibir que | -meyi yasaklamak | ifade | Prohíben que se fume en el edificio. | Binada sigara içilmesini yasaklıyorlar.
+impedir que | -mesini engellemek | ifade | La lluvia impidió que saliéramos. | Yağmur çıkmamızı engelledi.
+permitir que | -mesine izin vermek | ifade | No permito que me hables así. | Benimle böyle konuşmana izin vermem.
+conseguir que | -mesini sağlamak | ifade | Consiguió que todos estuvieran de acuerdo. | Herkesin hemfikir olmasını sağladı.
+## Şüphe ve inkâr
+dudar que | -diğinden şüphe etmek | ifade | Dudo que venga a la fiesta. | Partiye geleceğinden şüpheliyim.
+negar que | -diğini inkâr etmek | ifade | Niega que haya estado allí. | Orada bulunduğunu inkâr ediyor.
+no creer que | -diğine inanmamak | ifade | No creo que sea tan difícil. | Bunun o kadar zor olduğunu sanmıyorum.
+no es que | ... değil ki | ifade | No es que no quiera, es que no puedo. | İstemediğimden değil, yapamıyorum.
+no parece que | ... gibi görünmüyor | ifade | No parece que vaya a mejorar. | İyileşecek gibi görünmüyor.
+es posible que | -mesi mümkün | ifade | Es posible que llegue tarde. | Geç kalmam mümkün.
+es probable que | muhtemelen | ifade | Es probable que nieve esta noche. | Bu gece muhtemelen kar yağacak.
+puede que | belki | ifade | Puede que tengas razón. | Belki haklısın.
+parece mentira que | ... inanılmaz | ifade | Parece mentira que ya tengas veinte años. | Yirmi yaşına gelmiş olman inanılmaz.
+acaso | belki, acaba | zarf | Acaso sea mejor esperar. | Belki beklemek daha iyidir.
+## Duygu tepkileri
+alegrarse de que | -mesine sevinmek | ifade | Me alegro de que hayas venido. | Gelmene sevindim.
+sentir que | -mesine üzülmek | ifade | Siento que no puedas quedarte. | Kalamamana üzüldüm.
+lamentar que | -mesine esef etmek | ifade | Lamentamos que haya tenido problemas. | Sorun yaşamanıza üzüldük.
+me extraña que | ... garibime gidiyor | ifade | Me extraña que no haya llamado. | Aramamış olması garibime gidiyor.
+me molesta que | ... beni rahatsız ediyor | ifade | Me molesta que me interrumpan. | Sözümün kesilmesi beni rahatsız ediyor.
+agradecer que | -mesine minnettar olmak | ifade | Te agradezco que me hayas ayudado. | Bana yardım ettiğin için teşekkür ederim.
+no soportar que | -mesine dayanamamak | ifade | No soporto que me mientan. | Bana yalan söylenmesine dayanamam.
+es una pena que | ... ne yazık | ifade | Es una pena que no puedas venir. | Gelememen ne yazık.
+temerse que | korkarım ki | ifade | Me temo que no hay entradas. | Korkarım ki bilet yok.
+indignar que | ... öfkelendirmek | ifade | Me indigna que traten así a los mayores. | Yaşlılara böyle davranılması beni öfkelendiriyor.
+## Değerlendirme
+es necesario que | -mesi gerekli | ifade | Es necesario que firmes aquí. | Burayı imzalaman gerekli.
+es importante que | -mesi önemli | ifade | Es importante que llegues puntual. | Zamanında gelmen önemli.
+es conveniente que | -mesi uygun olur | ifade | Es conveniente que reserves con antelación. | Önceden rezervasyon yapman uygun olur.
+es lógico que | -mesi doğal | ifade | Es lógico que estés nervioso. | Gergin olman doğal.
+es normal que | -mesi normal | ifade | Es normal que al principio cueste. | Başta zorlanmak normal.
+es raro que | -mesi tuhaf | ifade | Es raro que no haya nadie. | Kimsenin olmaması tuhaf.
+es justo que | -mesi adil | ifade | Es justo que cobren lo mismo. | Aynı ücreti almaları adil.
+más vale que | -sen iyi olur | ifade | Más vale que te des prisa. | Acele etsen iyi olur.
+basta con que | -mesi yeter | ifade | Basta con que me avises un día antes. | Bir gün önce haber vermen yeter.
+el hecho de que | ... olgusu | ifade | El hecho de que no conteste es preocupante. | Cevap vermemesi endişe verici.
+## Amaç ve koşul
+para que | -mesi için | bağlaç | Te lo explico para que lo entiendas. | Anlaman için sana açıklıyorum.
+a fin de que | -mesi amacıyla | bağlaç | Hablo despacio a fin de que todos me entiendan. | Herkes anlasın diye yavaş konuşuyorum.
+sin que | -meden | bağlaç | Salió sin que nadie lo viera. | Kimse görmeden çıktı.
+con tal de que | yeter ki | bağlaç | Te lo presto con tal de que me lo devuelvas. | Geri vermen şartıyla sana ödünç veririm.
+siempre que | -mesi şartıyla | bağlaç | Puedes ir siempre que vuelvas pronto. | Erken dönmen şartıyla gidebilirsin.
+a condición de que | -mesi koşuluyla | bağlaç | Acepto a condición de que me paguen antes. | Önceden ödemeleri koşuluyla kabul ediyorum.
+a cambio de que | karşılığında | bağlaç | Te ayudo a cambio de que me invites a cenar. | Beni yemeğe davet etmen karşılığında sana yardım ederim.
+por si | ne olur ne olmaz diye | bağlaç | Llévate el paraguas por si llueve. | Ne olur ne olmaz, şemsiyeyi yanına al.
+no vaya a ser que | ... diye (olmasın diye) | bağlaç | Cierra la ventana, no vaya a ser que entre agua. | Pencereyi kapat, su girmesin.
+por miedo a que | -mesi korkusuyla | bağlaç | No dijo nada por miedo a que se enfadaran. | Kızmalarından korktuğu için hiçbir şey söylemedi.
+## Zaman bağlaçları
+antes de que | -meden önce | bağlaç | Vuelve antes de que oscurezca. | Hava kararmadan dön.
+en cuanto | -er -mez | bağlaç | En cuanto llegues, llámame. | Varır varmaz beni ara.
+hasta que | -ene kadar | bağlaç | Esperaré hasta que termines. | Sen bitirene kadar bekleyeceğim.
+tan pronto como | -er -mez | bağlaç | Tan pronto como sepa algo, te aviso. | Bir şey öğrenir öğrenmez sana haber veririm.
+después de que | -dikten sonra | bağlaç | Hablaremos después de que se vayan. | Onlar gittikten sonra konuşuruz.
+a medida que | -dikçe | bağlaç | A medida que pasen los años, lo entenderás. | Yıllar geçtikçe anlayacaksın.
+cuando + subjuntivo | -diğinde (gelecek) | ifade | Cuando seas mayor, lo comprenderás. | Büyüdüğünde anlayacaksın.
+mientras + subjuntivo | -dığı sürece | ifade | Mientras vivas en esta casa, cumplirás las normas. | Bu evde yaşadığın sürece kurallara uyacaksın.
+apenas + subjuntivo | -er -mez (gelecek) | ifade | Apenas amanezca, saldremos. | Şafak söker sökmez yola çıkacağız.
+una vez que + subjuntivo | -dikten sonra (gelecek) | ifade | Una vez que firmes, no hay vuelta atrás. | İmzaladıktan sonra geri dönüş yok.
+## Taviz
+por mucho que | ne kadar ... -se de | bağlaç | Por mucho que insistas, no iré. | Ne kadar ısrar etsen de gitmeyeceğim.
+por más que | ne kadar ... -se de | bağlaç | Por más que lo intento, no me sale. | Ne kadar denesem de olmuyor.
+a pesar de que | -mesine rağmen | bağlaç | Iremos a pesar de que llueva. | Yağmur yağsa bile gideceğiz.
+aunque + subjuntivo | -se bile | ifade | Aunque me lo pidas de rodillas, no lo haré. | Diz çöküp yalvarsan bile yapmam.
+ni aunque | -se bile (asla) | ifade | No lo haría ni aunque me pagaran. | Para verseler bile yapmazdım.
+pase lo que pase | ne olursa olsun | ifade | Pase lo que pase, estaré contigo. | Ne olursa olsun yanında olacağım.
+digan lo que digan | ne derlerse desinler | ifade | Digan lo que digan, yo confío en ella. | Ne derlerse desinler, ona güveniyorum.
+cueste lo que cueste | neye mal olursa olsun | ifade | Lo conseguiré cueste lo que cueste. | Neye mal olursa olsun başaracağım.
+venga quien venga | kim gelirse gelsin | ifade | Venga quien venga, será bienvenido. | Kim gelirse gelsin hoş karşılanacak.
+sea como sea | her ne olursa | ifade | Sea como sea, hay que terminarlo hoy. | Ne olursa olsun bugün bitirmek gerekiyor.
+## Belirsiz öncüller
+quienquiera que | her kim ise | zamir | Quienquiera que sea, que espere. | Her kimse beklesin.
+dondequiera que | nerede olursa | zarf | Dondequiera que vayas, te encontraré. | Nereye gidersen git seni bulacağım.
+comoquiera que | nasıl olursa | zarf | Comoquiera que sea, no me convence. | Nasıl olursa olsun beni ikna etmiyor.
+cualquiera que | her ne/kim olursa | ifade | Cualquiera que sea tu decisión, la respetaré. | Kararın ne olursa olsun saygı duyacağım.
+lo que sea | her ne ise | ifade | Haré lo que sea necesario. | Ne gerekiyorsa yapacağım.
+que yo sepa | bildiğim kadarıyla | ifade | Que yo sepa, todavía no ha llegado. | Bildiğim kadarıyla henüz gelmedi.
+que yo recuerde | hatırladığım kadarıyla | ifade | Que yo recuerde, nunca ha estado aquí. | Hatırladığım kadarıyla buraya hiç gelmedi.
+buscar a alguien que | ... birini aramak | ifade | Buscamos a alguien que hable chino. | Çince konuşan birini arıyoruz.
+no hay nadie que | ... kimse yok | ifade | No hay nadie que lo sepa. | Bunu bilen kimse yok.
+no hay quien | ... mümkün değil | ifade | No hay quien lo entienda. | Onu anlamak mümkün değil.
+## Gerçek dışı ve karşılaştırma
+como si | sanki | bağlaç | Habla como si fuera el jefe. | Sanki patronmuş gibi konuşuyor.
+ni que | sanki ... (hayret) | ifade | ¡Ni que fueras mi madre! | Sanki annemsin!
+si hubiera sabido | bilseydim | ifade | Si hubiera sabido que venías, habría cocinado. | Geleceğini bilseydim yemek yapardım.
+de haberlo sabido | bilmiş olsaydım | ifade | De haberlo sabido, no habría venido. | Bilseydim gelmezdim.
+en el caso de que | -diği takdirde | bağlaç | En el caso de que no pueda, te avisaré. | Gelemediğim takdirde sana haber veririm.
+no porque | ... olduğu için değil | ifade | Lo hago no porque me obliguen, sino porque quiero. | Zorladıkları için değil, istediğim için yapıyorum.
+el que | ... olması (özne cümle) | ifade | El que no haya llamado me preocupa. | Aramamış olması beni endişelendiriyor.
+como no | ... -mezsen (tehdit) | ifade | Como no estudies, suspenderás. | Çalışmazsan kalırsın.
+de no ser así | aksi takdirde | ifade | Firme aquí; de no ser así, no podremos tramitarlo. | Burayı imzalayın; aksi takdirde işlem yapamayız.
+a no ser por | ... olmasa | ifade | A no ser por la lluvia, habríamos ido a la playa. | Yağmur olmasa plaja giderdik.

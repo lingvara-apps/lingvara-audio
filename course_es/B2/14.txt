@@ -1,6 +1,6 @@
 # UNIT: Sanayi ve tarım | Üretim, madencilik, inşaat, çiftçilik
 ## Maden ve enerji
-el yacimiento | maden yatağı, yatak | isim (e) | El yacimiento de cobre produce toneladas. | Bakır madeni tonlarca üretir.
+la mina | maden ocağı | isim (d) | La mina cerró hace veinte años. | Maden ocağı yirmi yıl önce kapandı.
 la perforación | sondaj, delme | isim (d) | La perforación alcanzó gran profundidad. | Sondaj büyük derinliğe ulaştı.
 el combustible fósil | fosil yakıt | isim (e) | El combustible fósil contamina bastante. | Fosil yakıt oldukça kirletir.
 la extracción minera | maden çıkarma, madencilik | isim (d) | La extracción minera requiere mucha maquinaria. | Maden çıkarma çok sayıda makine gerektirir.
@@ -33,47 +33,47 @@ la grúa torre | kule vinç | isim (d) | La grúa torre eleva materiales pesados
 el capataz | ustabaşı, formen | isim (e) | El capataz dirige a los obreros en la obra. | Ustabaşı şantiyedeki işçileri yönetiyor.
 la cimentación | temel, temele atma | isim (d) | La cimentación profunda previene hundimientos futuros. | Derin temel ilerideki çökmeleri önler.
 ## Tarım ve ziraat
-el tractor agrícola | tarım traktörü | isim (e) | El tractor agrícola surca la tierra húmeda. | Tarım traktörü nemli toprağı sürüyor.
-la cosecha anual | yıllık hasat | isim (d) | La cosecha anual superó todas las expectativas previas. | Yıllık hasat önceki tüm beklentileri aştı.
-el sistema de regadío | sulama sistemi | isim (e) | El sistema de regadío optimiza el agua disponible. | Sulama sistemi mevcut suyu optimize eder.
+el tractor | traktör | isim (e) | El tractor ara la tierra húmeda. | Traktör nemli toprağı sürüyor.
+la cosecha | hasat, rekolte | isim (d) | Este año la cosecha ha sido excelente. | Bu yıl hasat mükemmeldi.
+el regadío | sulu tarım, sulama | isim (e) | Sin regadío aquí no crece nada. | Sulama olmadan burada hiçbir şey yetişmez.
 el invernadero | sera | isim (e) | El invernadero protege los cultivos del frío extremo. | Sera ürünleri aşırı soğuktan korur.
-la abonadura | gübreleme | isim (d) | La abonadura orgánica mejora la calidad del suelo. | Organik gübreleme toprak kalitesini iyileştirir.
-el grano de trigo | buğday tanesi | isim (e) | El grano de trigo alimenta molinos harineros. | Buğday tanesi un değirmenlerini besler.
-la plaga de insectos | böcek istilası | isim (d) | La plaga de insectos arruinó la huerta entera. | Böcek istilası bütün tarlayı mahvetti.
+el abono | gübre | isim (e) | Usa abono orgánico en el huerto. | Bahçede organik gübre kullanıyor.
+el trigo | buğday | isim (e) | Castilla produce mucho trigo. | Kastilya çok buğday üretir.
+la plaga | zararlı istilası, salgın | isim (d) | Una plaga de langostas arruinó la cosecha. | Bir çekirge istilası hasadı mahvetti.
 el cultivo intensivo | yoğun tarım | isim (e) | El cultivo intensivo desgasta la tierra rápidamente. | Yoğun tarım toprağı hızla yıpratır.
-la herramienta de labranza | sürüm aleti, ziraat aleti | isim (d) | La herramienta de labranza requiere constante mantenimiento. | Ziraat aleti sürekli bakım gerektirir.
+el pesticida | tarım ilacı, pestisit | isim (e) | Cada vez se usan menos pesticidas. | Giderek daha az tarım ilacı kullanılıyor.
 el silo de grano | tahıl silosu | isim (e) | El silo de grano almacena toneladas de maíz. | Tahıl silosu tonlarca mısır depolar.
 ## Hayvancılık
-el ganado bovino | büyükbaş hayvan sürüsü | isim (e) | El ganado bovino pasta en praderas verdes. | Büyükbaş hayvan sürüsü yeşil çayırlarda otluyor.
-la granja lechera | süt çiftliği | isim (d) | La granja lechera produce quesos artesanales exquisitos. | Süt çiftliği enfes geleneksel peynirler üretir.
-el pienso compuesto | karma yem | isim (e) | El pienso compuesto alimenta a los cerdos blancos. | Karma yem beyaz domuzları besler.
-la cabaña ganadera | hayvancılık sektörü, hayvan varlığı | isim (d) | La cabaña ganadera nacional creció este año. | Ulusal hayvancılık varlığı bu yıl büyüdü.
+el ganado | sığır sürüsü, hayvan sürüsü | isim (e) | El ganado pasta en los prados. | Hayvanlar çayırlarda otluyor.
+la granja | çiftlik | isim (d) | Pasamos el verano en una granja. | Yazı bir çiftlikte geçirdik.
+el pienso | hayvan yemi | isim (e) | El precio del pienso ha subido mucho. | Hayvan yemi fiyatı çok arttı.
+la ganadería | hayvancılık | isim (d) | La ganadería es importante en el norte. | Kuzeyde hayvancılık önemlidir.
 el corral | kümes, avlu | isim (e) | El corral alberga gallinas ponedoras muy activas. | Kümes oldukça aktif yumurtlayan tavukları barındırır.
 la apicultura | arıcılık | isim (d) | La apicultura produce miel pura de montaña. | Arıcılık saf dağ balı üretir.
 el establo | ahır | isim (e) | El establo mantiene abrigados a los caballos. | Ahır atları sıcak tutuyor.
-la esquiladora | kırkma makinesi, yün kırkma makinesi | isim (d) | La esquiladora facilita el trabajo con ovejas. | Kırkma makinesi koyunlarla çalışmayı kolaylaştırır.
-el veterinario rural | kırsal veterineri | isim (e) | El veterinario rural atiende urgencias en granjas. | Kırsal veterineri çiftliklerdeki acil durumlara bakar.
+la colmena | arı kovanı | isim (d) | Tiene veinte colmenas en el monte. | Dağda yirmi arı kovanı var.
+ordeñar | sağmak | fiil | Ordeñan las vacas a las seis de la mañana. | İnekleri sabah altıda sağıyorlar.
 la pasteurización | pastörizasyon | isim (d) | La pasteurización elimina bacterias dañinas en la leche. | Pastörizasyon sütteki zararlı bakterileri yok eder.
 ## Ormancılık ve kereste
 la tala selectiva | seçici ağaç kesimi | isim (d) | La tala selectiva preserva el equilibrio forestal. | Seçici ağaç kesimi orman dengesini korur.
 el aserradero | kereste fabrikası | isim (e) | El aserradero corta troncos en tablones rectos. | Kereste fabrikası kütükleri düz kerestelere keser.
 la repoblación forestal | yeniden ağaçlandırma | isim (d) | La repoblación forestal revitaliza zonas devastadas. | Yeniden ağaçlandırma tahrip olmuş bölgeleri canlandırır.
-el tronco de pino | çam kütüğü | isim (e) | El tronco de pino pesa muchísimo en húmedo. | Çam kütüğü ıslakken çok ağırdır.
-la celulosa de papel | kağıt selülozu | isim (d) | La celulosa de papel alimenta las rotativas grandes. | Kağıt selülozu büyük matbaa makinelerini besler.
+la leña | odun | isim (d) | En invierno compramos leña para la chimenea. | Kışın şömine için odun alıyoruz.
+la celulosa | selüloz | isim (d) | El papel se fabrica con celulosa. | Kâğıt selülozdan üretilir.
 el guarda forestal | orman koruma memuru | isim (e) | El guarda forestal vigila posibles incendios estivales. | Orman koruma memuru olası yaz yangınlarını gözetler.
 la madera noble | değerli ahşap, sert kereste | isim (d) | La madera noble encarece los muebles clásicos. | Değerli ahşap klasik mobilyaları pahalılaştırır.
 el vivero forestal | orman fidanlığı | isim (e) | El vivero forestal cultiva miles de robles jóvenes. | Orman fidanlığı binlerce genç meşe yetiştirir.
 la resina de pino | çam reçinesi | isim (d) | La resina de pino sirve para fabricar barnices. | Çam reçinesi vernik üretmek için kullanılır.
-el bosque maderero | kereste ormanı | isim (e) | El bosque maderero aporta recursos económicos vitales. | Kereste ormanı hayati ekonomik kaynaklar sağlar.
+la deforestación ilegal | yasa dışı ormansızlaştırma | isim (d) | La deforestación ilegal destruye la selva. | Yasa dışı ormansızlaştırma yağmur ormanını yok ediyor.
 ## Balıkçılık ve su ürünleri
 el barco pesquero | balıkçı gemisi | isim (e) | El barco pesquero faena mar adentro hoy. | Balıkçı gemisi bugün açık denizde avlanıyor.
-la red de arrase | tığ ağı, tarla ağı | isim (d) | La red de arrase captura especies diversas del fondo. | Tığ ağı dipteki çeşitli türleri yakalar.
+la red de arrastre | trol ağı | isim (d) | La red de arrastre daña el fondo marino. | Trol ağı deniz tabanına zarar verir.
 la piscifactoría | balık çiftliği | isim (d) | La piscifactoría cría truchas en aguas limpias. | Balık çiftliği temiz sularda alabalık yetiştirir.
 el caladero | balık avlama yeri | isim (e) | El caladero tradicional atrae a muchos barcos. | Geleneksel avlanma yeri birçok gemiyi kendine çeker.
 la lonja de pescado | balık hali | isim (d) | La lonja de pescado subasta capturas frescas al amanecer. | Balık hali şafak vaktinde taze avları açık artırmayla satar.
-el puerto pesquero | balıkçı limanı | isim (e) | El puerto pesquero bulata actividad desde medianoche. | Balıkçı limanı gece yarısından beri hareketlidir.
+el puerto pesquero | balıkçı limanı | isim (e) | El puerto pesquero tiene actividad desde medianoche. | Balıkçı limanı gece yarısından beri hareketlidir.
 la veda de pesca | av yasağı | isim (d) | La veda de pesca protege la reproducción marina. | Av yasağı deniz üremesini korur.
-el marisco fresco | taze kabuklu deniz ürünü | isim (e) | El marisco fresco llega directo a los restaurantes. | Taze kabuklu deniz ürünü doğrudan restoranlara gelir.
+el marisco | deniz ürünleri (kabuklu) | isim (e) | En Galicia se come muy buen marisco. | Galiçya'da çok iyi deniz ürünü yenir.
 la flota atunera | ton balığı filosu | isim (d) | La flota atunera navega hacia aguas tropicales. | Ton balığı filosu tropikal sulara doğru yelken açıyor.
 el anzuelo | olta iğnesi | isim (e) | El anzuelo metálico atrapa peces grandes con facilidad. | Metal olta iğnesi büyük balıkları kolayca yakalar.
 ## Su ve atık yönetimi
@@ -98,14 +98,14 @@ el inventario rotativo | döner envanter | isim (e) | El inventario rotativo con
 la báscula camionera | kantar, kamyon baskülü | isim (d) | La báscula camionera pesa vehículos cargados a fondo. | Kantar tamamen yüklü araçları tartar.
 el operador logístico | lojistik operatörü | isim (e) | El operador logístico gestiona envíos internacionales complejos. | Lojistik operatörü karmaşık uluslararası sevkiyatları yönetir.
 la estantería industrial | sanayi tipi raf | isim (d) | La estantería industrial optimiza el espacio vertical disponible. | Sanayi tipi raf mevcut dikey alanı optimize eder.
-## Otomasyon ve teknoloji
-el autómata programable | programlanabilir mantıksal denetleyici | isim (e) | El autómata programable controla robots industriales complejos. | Programlanabilir mantıksal denetleyici karmaşık endüstriyel robotları kontrol eder.
-el sensor de presión | basınç sensörü | isim (e) | El sensor de presión detecta fallos en tuberías. | Basınç sensörü borulardaki arızaları algılar.
-la pantalla táctil industrial | endüstriyel dokunmatik ekran | isim (d) | La pantalla táctil industrial facilita ajustes rápidos. | Endüstriyel dokunmatik ekran hızlı ayarlamaları kolaylaştırır.
-el brazo mecánico | mekanik kol | isim (e) | El brazo mecánico suelda piezas con precisión milimétrica. | Mekanik kol parçaları milimetrik hassasiyetle kaynaklar.
-la válvula solenoide | selenoid valf | isim (d) | La válvula solenoide regula flujos de gas automáticamente. | Selenoid valf gaz akışlarını otomatik olarak düzenler.
-el variador de frecuencia | frekans konvertörü | isim (e) | El variador de frecuencia modera motores eléctricos industriales. | Frekans konvertörü endüstriyel elektrik motorlarını denetler.
-el panel de operador para máquinas | operatör kontrol paneli | isim (e) | El panel de operador para máquinas muestra datos operativos claros. | Operatör kontrol paneli net işletim verileri gösterir.
-el sistema SCADA | SCADA sistemi | isim (e) | El sistema SCADA supervisa procesos industriales remotos. | SCADA sistemi uzaktaki endüstriyel süreçleri denetler.
-la placa de circuito impreso | baskılı devre kartı | isim (d) | La placa de circuito impreso gobierna la maquinaria moderna. | Baskılı devre kartı modern makineleri yönetir.
-el relé térmico | termik röle | isim (e) | El relé térmico protege motores contra sobrecargas graves. | Termik röle motorları ağır aşırı yüklenmelere karşı korur.
+## Sektörler ve teknoloji
+la maquinaria | makine parkı, makineler | isim (d) | La fábrica renovó toda su maquinaria. | Fabrika tüm makinelerini yeniledi.
+el mantenimiento | bakım | isim (e) | El mantenimiento de las máquinas es diario. | Makinelerin bakımı her gün yapılır.
+la industria | sanayi, endüstri | isim (d) | La industria del automóvil emplea a miles de personas. | Otomotiv sanayii binlerce kişiyi istihdam ediyor.
+el brazo robótico | robot kol | isim (e) | El brazo robótico suelda las piezas. | Robot kol parçaları kaynak yapıyor.
+la producción en serie | seri üretim | isim (d) | La producción en serie abarató los coches. | Seri üretim arabaları ucuzlattı.
+el sector primario | birincil sektör | isim (e) | La agricultura y la pesca forman el sector primario. | Tarım ve balıkçılık birincil sektörü oluşturur.
+la agricultura | tarım | isim (d) | La agricultura emplea a menos gente que antes. | Tarım eskisinden daha az insan istihdam ediyor.
+el agricultor | çiftçi | isim (e) | Los agricultores esperan la lluvia. | Çiftçiler yağmuru bekliyor.
+el polígono industrial | sanayi bölgesi | isim (e) | La empresa está en un polígono industrial. | Şirket bir sanayi bölgesinde.
+la planta de reciclaje | geri dönüşüm tesisi | isim (d) | Llevan el plástico a una planta de reciclaje. | Plastiği bir geri dönüşüm tesisine götürüyorlar.

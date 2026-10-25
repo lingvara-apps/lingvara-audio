@@ -1,23 +1,23 @@
 # UNIT: Konuşma dili | Parçacıklar, ünlemler, gündelik argo
 ## Dolgu sözcükleri
 bueno | peki, yani, şey (doldurma sözcüğü) | ünlem | Bueno, no pasa nada en absoluto. | Peki, kesinlikle hiçbir sorun yok.
-o sea | yani, başka bir deyişle | ifade | O sea, la situación es compleja. | Yani durum oldukça karmaşık.
+en plan | şöyle, gibi (dolgu) | ifade | Estaba en plan "no me hables". | "Benimle konuşma" havasındaydı.
 pues | mademki, o halde, yani | bağlaç | Pues no tengo ninguna duda. | O halde hiç şüphem yok.
-osease | yani demek ki, yani | ifade | Osease, todo salió perfecto. | Yani demek ki her şey mükemmel gitti.
+ya te digo | aynen öyle, hem de nasıl | ifade | ¿Hace calor? —¡Ya te digo! | Sıcak mı? —Hem de nasıl!
 fíjate | şuna bak, baksana | ifade | Fíjate qué gran sorpresa. | Şuna bak ne büyük sürpriz.
 mira | bak, dinle | ifade | Mira, es una excelente idea. | Bak, bu mükemmel bir fikir.
 escucha | dinle, kulak ver | ifade | Escucha lo que te digo. | Sana söylediklerime kulak ver.
 oye | hey, dinle | ünlem | Oye, ¿tienes un minuto? | Hey, bir dakikan var mı?
-vaya | hayy, aman tanrım, pess | ünlem | Vaya, qué desastre total. | Aman tanrım, ne tam bir felaket.
-caramba | hayy, fesat, hayret | ünlem | Caramba, no me lo esperaba. | Hayret, bunu hiç beklemiyordum.
+vaya | vay, eyvah | ünlem | Vaya, qué desastre total. | Aman tanrım, ne tam bir felaket.
+caramba | vay canına, hayret | ünlem | Caramba, no me lo esperaba. | Hayret, bunu hiç beklemiyordum.
 ## Hitap ve onay
-chacho | dostum, koçum (yerel) | isim | Hola, chacho, ¿cómo andas? | Merhaba dostum, nasılsın?
-tío | kanka, abi (gündelik) | isim | Oye, tío, vámonos ya. | Hey kanka, hadi artık gidelim.
-hombre | dostum, ya (hitap) | ünlem | Hombre, no te preocupes tanto. | Dostum, o kadar endişelenme.
-mujer | kadın, ya (hitap) | ünlem | Mujer, ten paciencia. | Ya kadın, sabırlı ol.
+el chacho | dostum, koçum (Kanarya / Endülüs) | isim (e) | Hola, chacho, ¿cómo andas? | Selam koçum, nasılsın?
+macho | dostum, kardeşim (samimi hitap) | ünlem | Macho, qué calor hace hoy. | Kardeşim, bugün ne sıcak.
+chato | tatlım, canım (hitap) | ünlem | Gracias, chato, eres un sol. | Sağ ol tatlım, çok iyisin.
+nena | kızım, canım (hitap) | ünlem | Nena, ven a ver esto. | Kızım, gel şuna bak.
 claro que sí | kesinlikle, şüphesiz | ifade | ¿Vienes? —¡Claro que sí! | Geliyor musun? —Kesinlikle evet!
-ni hablar | lafı bile olmaz, asla | ifade | ¿Prestar dinero? —¡Ni hablar! | Para borç vermek mi? —Lafı bile olmaz!
-por supuesto | tabii ki, elbette | ifade | ¿Aceptas la propuesta? —Por supuesto. | Teklifi kabul ediyor musun? —Tabii ki.
+ni de coña | hayatta olmaz | ifade | ¿Saltar desde ahí? ¡Ni de coña! | Oradan atlamak mı? Hayatta olmaz!
+faltaría más | ne demek, elbette | ifade | ¿Puedo pasar? —¡Faltaría más! | Girebilir miyim? —Ne demek, elbette!
 efectivamente | gerçekten de, aynen | zarf | Efectivamente, era verdad. | Gerçekten de o doğruydu.
 exacto | aynen öyle, tam da öyle | sıfat | Exacto, has dado en el clavo. | Aynen öyle, tam üstüne bastın.
 negativo | olumsuz, hayır | sıfat | ¿Algún problema? —Negativo. | Herhangi bir sorun mu? —Olumsuz.
@@ -36,24 +36,24 @@ chulito | kendini beğenmiş, kibirli | sıfat | No seas tan chulito. | O kadar 
 madre mía | anacığım, allahım | ifade | Madre mía, qué altura. | Allahım, ne kadar da yüksek.
 anda ya | hadi canım, oradan | ifade | ¿Que ganaste? —¡Anda ya! | Kazandın mı? —Hadi canım!
 no me digas | hadi ya, yapma ya | ifade | Aprobé el examen. —¡No me digas! | Sınavı geçtim. —Hadi ya!
-estoy alucinando | halisülasyon görüyorum, şoke oldum | ifade | Estoy alucinando con esto. | Buna resmen şoke oldum.
+estoy alucinando | şoke oldum, inanamıyorum | ifade | Estoy alucinando con esto. | Buna resmen şoke oldum.
 me has dejado de piedra | beni taşa çevirdin, dondum kaldım | ifade | Tu noticia me ha dejado de piedra. | Haberiniz beni dondurdu kaldı.
 no me lo creo | inanmıyorum | ifade | No me lo creo todavía. | Hâlâ inanmıyorum buna.
 qué fuerte | ne kadar da ağır/şoke edici | ifade | Lo que pasó es muy fuerte. | Olanlar bayağı şoke edici.
-madre | ana, vah vah | ünlem | Madre, cuánta gente hay aquí. | Vah vah, burada ne çok insan var.
+qué va | ne gezer, hiç de değil | ifade | ¿Estás cansado? —¡Qué va! | Yorgun musun? —Ne gezer!
 valientes cosas | ne biçim işler | ifade | Valientes cosas pasan hoy. | Ne biçim işler oluyor bugün.
 jolines | hayy, aman ya (hafif küfür yerine) | ünlem | Jolines, se me olvidó la llave. | Aman ya, anahtarı unuttum.
 ## Kızgınlık ve hoşnutsuzluk
 menuda fauna | ne acayip tipler | ifade | En esa fiesta había menuda fauna. | O partide ne acayip tipler vardı.
 qué fastidio | ne sinir bozucu şey | ifade | Qué fastidio tener que esperar. | Beklemek zorunda olmak ne sinir bozucu.
-vete a freir espárragos | git işine, başımdan defol | ifade | Cansino, vete a freír espárragos. | Bıkkınlık verdin, git işine.
+vete a freír espárragos | git işine, başımdan defol | ifade | Pesado, vete a freír espárragos. | Bıkkınlık verdin, git işine.
 estoy hasta las narices | burnuma kadar geldim, bıktım | ifade | Estoy hasta las narices de mentiras. | Yalanlardan burnuma kadar geldim.
-vaya chasco | ne büyük hayal kırıklığı | ifade | El viaje fue un vaya chasco. | Yolculuk tam bir hayal kırıklığıydı.
+vaya chasco | ne büyük hayal kırıklığı | ifade | Llovió todo el fin de semana. ¡Vaya chasco! | Yolculuk tam bir hayal kırıklığıydı.
 qué lata | ne sıkıcı şey | ifade | Qué lata de conferencia. | Ne sıkıcı bir konferans.
 menudo rollo | ne sıkıcı laf kalabalığı | ifade | Su discurso fue menudo rollo. | Konuşması ne biçim sıkıcı laf kalabalığıydı.
 qué morro | ne yüzsüzlük | ifade | Qué morro tiene ese chico. | O çocukta ne yüzsüzlük var.
 estoy harto | bıktım usandım | ifade | Estoy harto de excusas. | Mazeretlerden bıktım usandım.
-vaya broma | ne berbat şaka | ifade | Menuda broma pesada. | Ne ağır berbat şaka.
+vaya broma | ne berbat şaka | ifade | ¿Me has escondido las llaves? Vaya broma. | Ne ağır berbat şaka.
 ## Argo ve günlük deyimler
 dar el toque | uyarmak, aramak (telefon) | ifade | Te doy el toque al llegar. | Vardığımda seni ararım.
 estar mosca | kıllanmak, şüphelenmek | ifade | El jefe está hoy muy mosca. | Patron bugün bayağı kıllı/şüpheci.
@@ -67,7 +67,7 @@ ser un panoli | saf, aptal olmak | ifade | No seas tan panoli con ellos. | Onlar
 pillar el tranquillo | işin püf noktasını kapmak | ifade | Ya pillé el tranquillo al programa. | Programın püf noktasını kaptım.
 ## Seslenmeler ve nidalar
 chis | psst (sessizlik için) | ünlem | Chis, no hagas tanto ruido. | Psst, o kadar gürültü yapma.
-puf | pوف (bunalım veya yorgunluk) | ünlem | Puf, qué día tan pesado. | Puf, ne kadar yorucu bir gündü.
+puf | pöf (bıkkınlık veya yorgunluk) | ünlem | Puf, qué día tan pesado. | Puf, ne kadar yorucu bir gündü.
 oh | oh, ah | ünlem | Oh, qué sorpresa tan grata. | Oh, ne hoş bir sürpriz.
 ay | ay, vah | ünlem | Ay, me duele la pierna. | Ay, bacağım ağrıyor.
 uy | uy (korku veya şaşkınlık) | ünlem | Uy, casi me caigo al suelo. | Uy, neredeyse yere düşüyordum.
@@ -77,35 +77,35 @@ hala | hadi, haydi | ünlem | Hala, todos a correr. | Haydi, herkes koşmaya.
 uf | uf (bunalım) | ünlem | Uf, no aguanto más calor. | Uf, daha fazla sıcaklığa katlanamıyorum.
 epa | hey, merhaba | ünlem | Epa, ¿dónde vas tan rápido? | Hey, nereye böyle hızlı hızlı gidiyorsun?
 ## Kısaltmalar ve kesmeler
-cole | okul (kısaltma) | isim | Voy corriendo al cole. | Okula koşa koşa gidiyorum.
-profe | hoca, öğretmen (kısaltma) | isim | El profe nos explicó todo. | Hoca bize her şeyi açıkladı.
-bici | bisiklet (kısaltma) | isim | Dejé la bici en el patio. | Bisikleti avluya bıraktım.
-peli | film (kısaltma) | isim | Vimos una peli muy buena. | Çok güzel bir film izledik.
-finde | hafta sonu (kısaltma) | isim | ¿Qué planes tienes para el finde? | Hafta sonu için ne planların var?
-mates | matematik (kısaltma) | isim | Odio los exámenes de mates. | Matematik sınavlarından nefret ediyorum.
-insti | lise (kısaltma) | isim | Quedamos en la puerta del insti. | Lisenin kapısında buluşuyoruz.
-boli | tükenmez kalem (kısaltma) | isim | ¿Me prestas tu boli azul? | Mavi tükenmez kalemini ödünç verir misin?
-bici_cleta | bisiklet | isim | Compré una bici nueva. | Yeni bir bisiklet satın aldım.
-ofi | ofis (kısaltma) | isim | Vuelvo enseguida a la ofi. | Hemen ofise dönüyorum.
+el cole | okul (çocuk dili) | isim (e) | Voy corriendo al cole. | Koşa koşa okula gidiyorum.
+el profe | hoca (kısaltma) | isim (e) | El profe nos explicó todo. | Hoca bize her şeyi anlattı.
+la bici | bisiklet (kısaltma) | isim (d) | Dejé la bici en el patio. | Bisikleti avluda bıraktım.
+la peli | film (kısaltma) | isim (d) | Vimos una peli muy buena. | Çok iyi bir film izledik.
+el finde | hafta sonu (kısaltma) | isim (e) | ¿Qué planes tienes para el finde? | Hafta sonu için ne planların var?
+las mates | matematik (kısaltma) | isim (çoğul) | Odio los exámenes de mates. | Matematik sınavlarından nefret ediyorum.
+el insti | lise (kısaltma) | isim (e) | Quedamos en la puerta del insti. | Lisenin kapısında buluşalım.
+el boli | tükenmez kalem (kısaltma) | isim (e) | ¿Me prestas tu boli azul? | Mavi tükenmezini ödünç verir misin?
+el cumple | doğum günü (kısaltma) | isim (e) | El sábado es mi cumple. | Cumartesi benim doğum günüm.
+la tele | televizyon (kısaltma) | isim (d) | No hay nada bueno en la tele. | Televizyonda iyi bir şey yok.
 ## Tepki kalıbı ve geçişler
 en fin | neyse, sonuçta | zarf | En fin, hay que seguir adelante. | Neyse, yola devam etmek lazım.
-a ver | bakalım, görelim | ifade | A ver qué pasa mañana. | Bakalım yarın ne olacak.
+y punto | o kadar, nokta | ifade | Te vas a la cama ahora y punto. | Şimdi yatağa gidiyorsun, o kadar.
 anda | hadi bakalım, yapma ya | ünlem | Anda, no me cuentes cuentos. | Hadi bakalım, bana masal anlatma.
 vamos | hadi, yani | ünlem | Vamos, no seas tan tímido. | Hadi, o kadar utangaç olma.
 venga | haydi, tamam | ünlem | Venga, terminemos ya. | Haydi, artık bitirelim.
 bueno pues | mademöyle, peki o halde | ifade | Bueno pues, nos vemos pronto. | Peki o halde, yakında görüşürüz.
-total | kısacası, sonuçta | zarf | Total, que perdimiz el vuelo. | Kısacası uçuşu kaçırdık.
+total | kısacası, sonuçta | zarf | Total, que perdimos el vuelo. | Kısacası uçuşu kaçırdık.
 hombre ya | artık yeter, pes doğrusu | ifade | Hombre ya, no abuses. | Artık yeter, abartma.
 vaya por dios | hay Allah, aman tanrım | ifade | Vaya por dios, se rompió. | Hay Allah, kırıldı.
 ya ves | öyle tabii, baksana | ifade | Ya ves cómo cambian las cosas. | İşlerin nasıl değiştiğine baksana.
 ## Doğaçlama ve hitap çeşitleri
-chiquillo | çocuk, delikanlı | isim | Ven aquí, chiquillo. | Buraya gel delikanlı.
-chaval | delikanlı, genç | isim | Es un chaval muy listo. | O çok akıllı bir genç.
-tía | kanka, kızım (hitap) | isim | Oye, tía, qué pasada. | Hey kızım, ne harika şey.
-che | hey, bak (araba / yöresel) | ünlem | Che, escucha un momento. | Hey, bir dakika dinle.
-quillo | dostum (güney İspanya) | isim | Qué pasa, quillo. | Ne haber dostum.
-veterano | kıdemli, deneyimli kimse | isim | Hola, veterano amigo. | Merhaba kıdemli dostum.
-pibe | çocuk, delikanlı | isim | Es un pibe simpático. | Sempatik bir çocuk.
-socio | ortak, dostum | isim | Tranquilo, socio. | Sakin ol dostum.
-maestro | üstat, usta | isim | Gracias por todo, maestro. | Her şey için teşekkürler üstat.
-jefe | patron, reis (samimi hitap) | isim | Dígame, jefe. | Söyleyin reis.
+el chiquillo | çocuk, ufaklık | isim (e) | Ven aquí, chiquillo. | Buraya gel, ufaklık.
+el chaval | delikanlı, genç | isim (e) | Es un chaval muy listo. | Çok zeki bir delikanlı.
+la peña | ahali, arkadaş grubu | isim (d) | Toda la peña se fue a la playa. | Bütün tayfa plaja gitti.
+che | hey, bak (Arjantin) | ünlem | Che, escucha un momento. | Hey, bir dakika dinle.
+el quillo | dostum (Endülüs) | isim (e) | ¿Qué pasa, quillo? | Ne var ne yok, dostum?
+majo | sevimli, cana yakın | sıfat | Tu hermano es muy majo. | Kardeşin çok cana yakın.
+el pibe | çocuk, delikanlı (Arjantin) | isim (e) | Es un pibe simpático. | Sevimli bir çocuk.
+cotilla | dedikoducu | sıfat | Mi vecina es muy cotilla. | Komşum çok dedikoducu.
+el cotilleo | dedikodu | isim (e) | No me interesan los cotilleos. | Dedikodular ilgimi çekmiyor.
+pringado | zavallı, enayi | sıfat | Siempre le toca al más pringado. | Hep en enayiye denk geliyor.

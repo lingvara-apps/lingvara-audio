@@ -1,111 +1,111 @@
 # UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
-## Biyoteknolojik gelişmeler
-la ingeniería genética | genetik mühendisliği | isim (d) | La ingeniería genética transforma la medicina actual. | Genetik mühendisliği güncel tıp bilimini dönüştürüyor.
-el clon | klon | isim (e) | Un clon celular requiere condiciones estériles óptimas. | Hücresel bir klon optimal steril koşullar gerektirir.
-mutar | mutasyona uğramak; değiştirmek | fiil | Las células pueden mutar bajo radiación intensa. | Hücreler yoğun radyasyon altında mutasyona uğrayabilir.
-la mutación genética | genetik mutasyon | isim (d) | Toda mutación genética altera la secuencia de ADN. | Her genetik mutasyon DNA dizilimini değiştirir.
-la clonación | klonlama | isim (d) | La clonación suscita debates éticos profundos. | Klonlama derin etik tartışmalar uyandırıyor.
-el gen | gen | isim (e) | Cada gen determina ciertos rasgos hereditarios. | Her gen belirli kalıtsal özellikleri belirler.
-la célula madre | kök hücre | isim (d) | Una célula madre regenera tejidos dañados. | Bir kök hücre hasarlı dokuları yeniler.
-clonar | klonlamak | fiil | Científicos lograron clonar un organismo complejo. | Bilim insanları karmaşık bir organizmayı klonlamayı başardı.
-el genoma humano | insan genomu | isim (e) | El genoma humano contiene miles de instrucciones. | İnsan genomu binlerce talimat barındırır.
-biotecnológico | biyoteknolojik | sıfat | Este avance biotecnológico revolucionará la agricultura. | Bu biyoteknolojik ilerleme tarımda devrim yaratacak.
-## Dijital dönüşüm
-la ciberdeliquencia | siber suç | isim (d) | La ciberdeliquencia amenaza las redes bancarias. | Siber suç bankacılık ağlarını tehdit ediyor.
-el bit | bit (bilişim) | isim (e) | Cada bit representa un valor binario básico. | Her bit temel ikili bir değeri temsil eder.
-la criptografía | kriptografi | isim (d) | La criptografía protege información clasificada. | Kriptografi gizli bilgileri korur.
-cifrar | şifrelemek | fiil | Debes cifrar tus archivos antes de enviarlos. | Dosyalarını göndermeden önce şifrelemelisin.
-descifrar | şifre çözmek | fiil | Es difícil descifrar este código informático. | Bu bilişim kodunun şifresini çözmek zor.
-la red neuronal | sinir ağı | isim (d) | Una red neuronal simula el cerebro humano. | Bir sinir ağı insan beyini simüle eder.
-el microchip | mikroçip | isim (e) | Un microchip avanzado controla el dispositivo. | Gelişmiş bir mikroçip cihazı kontrol ediyor.
-virtualizar | sanallaştırmak | fiil | Podemos virtualizar servidores físicos fácilmente. | Fiziksel sunucuları kolayca sanallaştırabiliriz.
-la ciberseguridad | siber güvenlik | isim (d) | La ciberseguridad requiere profesionales constantes. | Siber güvenlik sürekli profesyoneller gerektirir.
-el algoritmo predictivo | öngörücü algoritma | isim (e) | Un algoritmo predictivo anticipa tendencias de consumo. | Öngörücü bir algoritma tüketim trendlerini öngörür.
-## Yapay zekâ ve otomasyon
-la red pensante | yapay zekâ | isim (d) | La red pensante optimiza procesos complejos. | Yapay zekâ karmaşık süreçleri optimize eder.
-el androide | androit, insansı robot | isim (e) | Un androide realiza tareas domésticas repetitivas. | Bir androit tekrarlayan ev işlerini gerçekleştirir.
-automatizado | otomatize edilmiş, otomatik | sıfat | El proceso industrial está completamente automatizado. | Endüstriyel süreç tamamen otomatize edilmiştir.
-la cibernética | sibernetik | isim (d) | La cibernética estudia sistemas de control automático. | Sibernetik otomatik kontrol sistemlerini inceler.
-simular | simüle etmek | fiil | Supercomputadoras pueden simular fenómenos climáticos extremos. | Süper bilgisayarlar uç iklim olaylarını simüle edebilir.
-la mecanización | otomasyon | isim (d) | La mecanización industrial reduce costes operativos. | Endüstriyel otomasyon operasyonel maliyetleri düşürür.
-autónomo | özerk | sıfat | Un vehículo autónomo circula sin conductor humano. | Özerk bir araç insan sürücü olmadan dolaşır.
-el procesador | işlemci | isim (e) | Este procesador ejecuta millones de operaciones segundo. | Bu işlemci saniyede milyonlarca işlem yürütür.
-la robótica | robotik | isim (d) | La robótica avanza hacia aplicaciones médicas precisas. | Robotik, kesin tıbbi uygulamalara doğru ilerliyor.
-el sistema digital | dijital sistem | isim (e) | Un sistema digital procesa datos binarios rápidamente. | Bir dijital sistem ikili verileri hızla işler.
-## Uzay araştırmaları ve fizik
-la astrofísica | astrofizik | isim (d) | La astrofísica investiga el origen del universo. | Astrofizik evrenin kökenini araştırıyor.
-la galaxia lejana | uzak galaksi | isim (d) | Telescopios detectan luz de otra galaxia lejana. | Teleskoplar uzak başka bir galaksinin ışığını tespit ediyor.
-el visor estelar | uzay teleskobu | isim (e) | El visor estelar capta imágenes nítidas cósmicas. | Uzay teleskobu net kozmik görüntüler yakalıyor.
-la gravedad | yerçekimi | isim (d) | La gravedad mantiene planetas en sus órbitas. | Yerçekimi gezegenleri yörüngelerinde tutar.
-el asteroide | asteroit | isim (e) | Un asteroide masivo orbita cerca de Marte. | Devasa bir asteroit Mars yakınında yörüngede dönüyor.
-el firmamento | kozmos, evren | isim (e) | El vasto firmamento esconde innumerables misterios. | Uçsuz bucaksız kozmos sayısız sır saklıyor.
-la sonda | uzay sondası | isim (d) | Una sonda espacial explora los anillos saturninos. | Bir uzay sondası Satürn'ün halkalarını keşfediyor.
-la radiación cósmica | kozmik radyasyon | isim (d) | La radiación cósmica afecta satélites artificiales. | Kozmik radyasyon yapay uyduları etkiler.
-el agujero negro | kara delik | isim (e) | Un agujero negro absorbe materia circundante. | Bir kara delik çevreleyen maddeyi emer.
-el macrocosmos | evren | isim (e) | Nuestro macrocosmos se expande aceleradamente cada día. | Evrenimiz her geçen gün hızlanarak genişliyor.
-## Yenilenebilir enerji
-la fuerza fotovoltaica | güneş enerjisi | isim (d) | La fuerza fotovoltaica aprovecha paneles solares avanzados. | Güneş enerjisi gelişmiş güneş panellerinden yararlanır.
-el captador solar | güneş paneli | isim (e) | Cada captador solar genera electricidad limpia ecológica. | Her güneş paneli temiz, ekolojik elektrik üretir.
-renovable | yenilenebilir | sıfat | Debemos priorizar fuentes de energía renovable global. | Küresel olarak yenilenebilir enerji kaynaklarına öncelik vermeliyiz.
-la fuerza eólica | rüzgâr enerjisi | isim (d) | La fuerza eólica utiliza gigantescos aerogeneradores modernos. | Rüzgâr enerjisi devasa modern rüzgâr türbinleri kullanır.
-la turbina | türbin | isim (e) | Una turbina eólica transforma viento en corriente. | Bir rüzgâr türbini rüzgârı akıma dönüştürür.
-sostenible | sürdürülebilir | sıfat | Ciudades buscan un desarrollo urbano totalmente sostenible. | Şehirler tamamen sürdürülebilir bir kentsel gelişim arıyor.
-la ecoinnovación | ekoinovasyon | isim (d) | La ecoinnovación impulsa tecnologías verdes eficientes. | Ekoinovasyon verimli yeşil teknolojileri teşvik eder.
-el aerogenerador | rüzgâr türbini | isim (e) | Un aerogenerador produce energía limpia inagotable. | Bir rüzgâr türbini tükenmez temiz enerji üretir.
-ecológico | ekolojik | sıfat | Este material ecológico protege el medio ambiente. | Bu ekolojik malzeme çevreyi korur.
-la transición energética | enerji geçişi | isim (d) | La transición energética exige inversiones financieras fuertes. | Enerji geçişi güçlü finansal yatırımlar gerektirir.
-## Nanoteknoloji ve malzeme bilimi
-la nanotecnología | nanoteknoloji | isim (d) | La nanotecnología manipula materia a escala atómica. | Nanoteknoloji maddeyi atomik ölçekte manipüle eder.
-el nanomaterial | nanomateryal | isim (e) | Un nanomaterial posee propiedades físicas sorprendentes. | Bir nanomateryal şaşırtıcı fiziksel özelliklere sahiptir.
-molecular | moleküler | sıfat | La estructura molecular define propiedades del compuesto. | Moleküler yapı bileşiğin özelliklerini tanımlar.
-el átomo | atom | isim (e) | Cada átomo posee protones, neutrones y electrones. | Her atom proton, nötron ve elektronlara sahiptir.
-el nanotubo | nanotüp | isim (e) | Un nanotubo de carbono ofrece resistencia extrema. | Bir karbon nanotüp aşırı dayanıklılık sunar.
-la partícula | parçacık | isim (d) | Una partícula subatómica colisiona en el acelerador. | Bir altatomik parçacık hızlandırıcıda çarpışıyor.
-sintetizar | sentezlemek | fiil | Laboratorios pueden sintetizar nuevos compuestos químicos complejos. | Laboratuvarlar yeni karmaşık kimyasal bileşikleri sentezleyebilir.
-el polímero | polimer | isim (e) | Este polímero avanzado resiste temperaturas extremas. | Bu gelişmiş polimer uç sıcaklıklara direnç gösterir.
-el microscopio electrónico | elektron mikroskobu | isim (e) | Un microscopio electrónico visualiza estructuras virales diminutas. | Bir elektron mikroskobu minik viral yapıları görüntüler.
-la propiedad material | fiziksel özellik | isim (d) | Analizamos cada propiedad material del nuevo material. | Yeni malzemenin her fiziksel özelliğini analiz ediyoruz.
-## Bilimsel metodoloji
-la hipótesis científica | bilimsel hipotez | isim (d) | Toda hipótesis científica requiere experimentación rigurosa. | Her bilimsel hipotez titiz deneyler gerektirir.
-el experimento controlado | kontrollü deney | isim (e) | Realizamos un experimento controlado en laboratorio avanzado. | Gelişmiş laboratuvarda kontrollü bir deney gerçekleştiriyoruz.
-cerificar | doğrulamak | fiil | Científicos deben cerificar resultados antes de publicarlos. | Bilim insanları yayınlamadan önce sonuçları doğrulamalıdır.
-la teoría empírica | deneysel teori | isim (d) | Una teoría empírica se sustenta sobre datos. | Deneysel bir teori veriler üzerine dayanır.
-refutar | çürütmek | fiil | Nuevos datos pueden refutar teorías científicas establecidas. | Yeni veriler yerleşik bilimsel teorileri çürütebilir.
-la investigación aplicada | uygulamalı araştırma | isim (d) | La investigación aplicada resuelve problemas tecnológicos reales. | Uygulamalı araştırma gerçek teknolojik sorunları çözer.
-inspeccionar | analiz etmek | fiil | Expertos van a inspeccionar muestras biológicas complejas. | Uzmanlar karmaşık biyolojik örnekleri analiz edecek.
-el método científico | bilimsel yöntem | isim (e) | El método científico garantiza rigor analítico constante. | Bilimsel yöntem sürekli analitik titizliği garanti eder.
-contrastar | karşılaştırmak, kıyaslamak | fiil | Debemos contrastar datos obtenidos de fuentes diversas. | Farklı kaynaklardan elde edilen verileri karşılaştırmalıyız.
-la conclusión lógica | mantıksal sonuç | isim (d) | Extraemos una conclusión lógica tras exhaustiva observación. | Kapsamlı gözlem sonrasında mantıksal bir sonuç çıkarıyoruz.
-## Tıp teknolojileri
-la biónica | biyonik | isim (d) | La biónica diseña prótesis avanzadas controladas mentalmente. | Biyonik, zihinsel olarak kontrol edilen gelişmiş protezler tasarlar.
-la prótesis biónica | biyonik protez | isim (d) | Una prótesis biónica restaura movilidad al paciente. | Biyonik bir protez hastaya hareketlilik kazandırır.
-tererapéutico | terapötik, tedavi edici | sıfat | Este tratamiento farmacológico ofrece un efecto terapéutico óptimo. | Bu farmakolojik tedavi optimum terapötik etki sunar.
-el láser médico | tıbbi lazer | isim (e) | Un láser médico realiza cirugías oculares precisas. | Tıbbi bir lazer hassas göz ameliyatları gerçekleştirir.
-biomédico | biyomedikal | sıfat | Ingeniería biomédica diseña equipos hospitalarios innovadores. | Biyomedikal mühendisliği yenilikçi hastane ekipmanları tasarlar.
-el marcapasos | kalp pili | isim (e) | Un marcapasos regula latidos cardíacos de pacientes. | Bir kalp pili hastaların kalp atışlarını düzenler.
-la resonancia magnética | emar, manyetik rezonans | isim (d) | La resonancia magnética detecta lesiones cerebrales internas. | Manyetik rezonans iç beyin lezyonlarını tespit eder.
-el implante coclear | koklear implant | isim (e) | Un implante coclear ayuda recuperar audición perdida. | Bir koklear implant kaybedilen işitmenin geri kazanılmasına yardımcı olur.
-clínico | klinik | sıfat | Este ensayo clínico demuestra eficacia del fármaco. | Bu klinik deney ilacın etkililiğini kanıtlıyor.
-el escáner cerebral | beyin tarayıcısı | isim (e) | Un escáner cerebral mapea actividad neuronal compleja. | Bir beyin tarayıcısı karmaşık sinirsel aktiviteyi haritalandırır.
-## Dijital toplum ve etik
-la tecnoética | teknoetik | isim (d) | La tecnoética debate límites morales en tecnología. | Teknoetik, teknolojideki ahlaki sınırları tartışır.
-el dilema tecnológico | teknolojik ikilem | isim (e) | La inteligencia artificial plantea un dilema tecnológico profundo. | Yapay zekâ derin bir teknolojik ikilem ortaya koyuyor.
-vigilar | gözetlemek, denetlemek | fiil | Cámaras inteligentes pueden vigilar espacios públicos masivos. | Akıllı kameralar kalabalık kamusal alanları gözetleyebilir.
-la privacidad digital | dijital gizlilik | isim (d) | Proteger la privacidad digital es un derecho fundamental. | Dijital gizliliği korumak temel bir haktır.
-la falsa información | dezenformasyon | isim (d) | La falsa información digital manipula opiniones públicas fácilmente. | Dijital dezenformasyon kamuoyunu kolayca manipüle eder.
-el sesgo técnico | algoritmico önyargı | isim (e) | Un sesgo técnico discrimina minorías en procesos. | Algoritmik bir önyargı süreçlerde azınlıklara ayrımcılık yapar.
-vulnerar | ihlal etmek | fiil | Hackers intentan vulnerar sistemas de seguridad informática. | Korsanlar bilgisayar güvenlik sistemlerini ihlal etmeye çalışıyor.
-la brecha digital | dijital uçurum | isim (d) | La brecha digital separa comunidades rurales de urbanas. | Dijital uçurum kırsal toplulukları kentsel olanlardan ayırır.
-cibernético | siber | sıfat | Un ataque cibernético colapsó servidores gubernamentales importantes. | Bir siber saldırı önemli hükümet sunucularını çökertti.
-la soberanía tecnológica | teknolojik egemenlik | isim (d) | Países buscan garantizar su soberanía tecnológica nacional. | Ülkeler ulusal teknolojik egemenliklerini garanti etmeye çalışıyor.
-## Geleceğin teknolojileri
-la computación cuántica | kuantum hesaplama | isim (d) | La computación cuántica resolverá cálculos imposibles actuales. | Kuantum hesaplama günümüzün imkânsız hesaplamalarını çözecek.
-el procesador cuántico | kuantum bilgisayar | isim (e) | Un procesador cuántico procesa información a velocidades increíbles. | Bir kuantum bilgisayar inanılmaz hızlarda bilgi işler.
-cuántico | kuantum | sıfat | La física cuántica desafía nuestra intuición cotidiana. | Kuantum fiziği günlük sezgilerimize meydan okuyor.
-la teletransportación | ışınlanma, teletransportasyon | isim (d) | La teletransportación cuántica transfiere estados entre partículas. | Kuantum ışınlanma parçacıklar arasında durumlar aktarır.
-el holograma | hologram | isim (e) | Un proyector proyecta un holograma tridimensional flotante. | Bir projektör yüzen üç boyutlu bir hologram yansıtıyor.
-futurista | futuristik | sıfat | Esta ciudad futurista utiliza transportes aéreos magnéticos. | Bu futuristik şehir manyetik hava taşımacılığı kullanıyor.
-materializar | gerçekleştirmek, somutlaştırmak | fiil | Científicos esperan materializar proyectos espaciales ambiciosos. | Bilim insanları iddialı uzay projelerini gerçekleştirmeyi umuyor.
-el metaverso | metaverse, öteevren | isim (e) | El metaverso crea entornos virtuales interactivos inmersivos. | Metaverse, sürükleyici interaktif sanal ortamlar yaratır.
-perspicaz | akıllı | sıfat | Una red perspicaz optimiza distribución energética urbana. | Akıllı bir şebeke kentsel enerji dağıtımını optimize eder.
-la innovación disruptiva | yıkıcı inovasyon | isim (d) | Toda innovación disruptiva transforma mercados económicos globales. | Her yıkıcı inovasyon küresel ekonomik pazar yerlerini dönüştürür.
+## Biyoteknoloji
+la ingeniería genética | genetik mühendisliği | isim (d) | La ingeniería genética abre posibilidades enormes. | Genetik mühendisliği muazzam imkânlar sunuyor.
+la edición genética | gen düzenleme | isim (d) | La edición genética podría curar enfermedades hereditarias. | Gen düzenleme kalıtsal hastalıkları tedavi edebilir.
+la clonación | klonlama | isim (d) | La clonación humana está prohibida. | İnsan klonlaması yasak.
+clonar | klonlamak | fiil | Consiguieron clonar una oveja en los noventa. | Doksanlarda bir koyunu klonlamayı başardılar.
+la célula madre | kök hücre | isim (d) | Investigan con células madre para regenerar tejidos. | Doku yenilemek için kök hücrelerle araştırma yapıyorlar.
+transgénico | genetiği değiştirilmiş | sıfat | El maíz transgénico resiste a las plagas. | Genetiği değiştirilmiş mısır zararlılara dayanıklı.
+la secuenciación | dizileme | isim (d) | La secuenciación del genoma es cada vez más barata. | Genom dizilemesi giderek ucuzluyor.
+la terapia génica | gen tedavisi | isim (d) | La terapia génica ya se aplica en algunos pacientes. | Gen tedavisi bazı hastalarda uygulanıyor.
+la bioética | biyoetik | isim (d) | El comité de bioética rechazó el experimento. | Biyoetik kurulu deneyi reddetti.
+la mutación genética | genetik mutasyon | isim (d) | Una mutación genética explica la enfermedad. | Hastalığı bir genetik mutasyon açıklıyor.
+## Dijital güvenlik
+la ciberdelincuencia | siber suç | isim (d) | La ciberdelincuencia crece cada año. | Siber suçlar her yıl artıyor.
+la criptografía | kriptografi | isim (d) | La criptografía protege las comunicaciones. | Kriptografi iletişimi korur.
+cifrar | şifrelemek | fiil | Los mensajes se cifran de extremo a extremo. | Mesajlar uçtan uca şifreleniyor.
+descifrar | şifresini çözmek | fiil | Nadie pudo descifrar el código. | Kimse şifreyi çözemedi.
+el pirata informático | bilgisayar korsanı | isim (e) | Un pirata informático robó los datos de millones de usuarios. | Bir bilgisayar korsanı milyonlarca kullanıcının verisini çaldı.
+vulnerar | ihlal etmek, aşmak | fiil | Intentaron vulnerar el sistema de seguridad. | Güvenlik sistemini aşmaya çalıştılar.
+la brecha de seguridad | güvenlik açığı | isim (d) | La empresa reconoció una brecha de seguridad. | Şirket bir güvenlik açığını kabul etti.
+la biometría | biyometri | isim (d) | El móvil se desbloquea mediante biometría. | Telefon biyometrik doğrulamayla açılıyor.
+el cortafuegos | güvenlik duvarı | isim (e) | El cortafuegos bloqueó el acceso. | Güvenlik duvarı erişimi engelledi.
+la autenticación | kimlik doğrulama | isim (d) | Activa la autenticación en dos pasos. | İki adımlı kimlik doğrulamayı etkinleştir.
+## Yapay zekâ
+la red neuronal | sinir ağı | isim (d) | La red neuronal aprende a reconocer imágenes. | Sinir ağı görüntüleri tanımayı öğreniyor.
+el aprendizaje profundo | derin öğrenme | isim (e) | El aprendizaje profundo necesita enormes cantidades de datos. | Derin öğrenme muazzam miktarda veri gerektirir.
+los macrodatos | büyük veri | isim (çoğul) | Los macrodatos permiten predecir el comportamiento del consumidor. | Büyük veri tüketici davranışını tahmin etmeyi sağlar.
+el sesgo algorítmico | algoritmik önyargı | isim (e) | El sesgo algorítmico puede discriminar a minorías. | Algoritmik önyargı azınlıklara karşı ayrımcılık yapabilir.
+entrenar un modelo | model eğitmek | ifade | Entrenar un modelo de lenguaje consume mucha energía. | Bir dil modelini eğitmek çok enerji tüketir.
+la cibernética | sibernetik | isim (d) | La cibernética estudia los sistemas de control. | Sibernetik kontrol sistemlerini inceler.
+el androide | insansı robot | isim (e) | En la novela, un androide se enamora de una humana. | Romanda bir insansı robot bir insana âşık oluyor.
+el vehículo autónomo | sürücüsüz araç | isim (e) | El vehículo autónomo frenó a tiempo. | Sürücüsüz araç zamanında fren yaptı.
+la singularidad | tekillik | isim (d) | Algunos predicen la llegada de la singularidad tecnológica. | Bazıları teknolojik tekilliğin geleceğini öngörüyor.
+automatizado | otomatik hâle getirilmiş | sıfat | El almacén está totalmente automatizado. | Depo tamamen otomatik.
+## Bilişim altyapısı
+la computación en la nube | bulut bilişim | isim (d) | La empresa migró a la computación en la nube. | Şirket bulut bilişime geçti.
+el centro de datos | veri merkezi | isim (e) | Los centros de datos consumen mucha electricidad. | Veri merkezleri çok elektrik tüketir.
+el semiconductor | yarı iletken | isim (e) | Hay escasez de semiconductores. | Yarı iletken sıkıntısı var.
+el microchip | mikroçip | isim (e) | Cada tarjeta lleva un microchip. | Her kartta bir mikroçip var.
+virtualizar | sanallaştırmak | fiil | Virtualizamos todos los servidores. | Tüm sunucuları sanallaştırdık.
+la realidad aumentada | artırılmış gerçeklik | isim (d) | La app usa realidad aumentada para probar muebles. | Uygulama mobilya denemek için artırılmış gerçeklik kullanıyor.
+el internet de las cosas | nesnelerin interneti | isim (e) | El internet de las cosas conecta electrodomésticos. | Nesnelerin interneti ev aletlerini birbirine bağlar.
+la impresión 3D | 3D baskı | isim (d) | Fabrican prótesis con impresión 3D. | 3D baskıyla protez üretiyorlar.
+el código abierto | açık kaynak | isim (e) | Es un programa de código abierto. | Açık kaynaklı bir program.
+la obsolescencia programada | planlı eskitme | isim (d) | La obsolescencia programada genera residuos. | Planlı eskitme atık üretir.
+## Uzay
+la astrofísica | astrofizik | isim (d) | Estudió astrofísica en Canarias. | Kanarya Adaları'nda astrofizik okudu.
+el exoplaneta | ötegezegen | isim (e) | Descubrieron un exoplaneta parecido a la Tierra. | Dünya'ya benzeyen bir ötegezegen keşfettiler.
+la materia oscura | karanlık madde | isim (d) | Nadie ha observado directamente la materia oscura. | Karanlık maddeyi kimse doğrudan gözlemlemedi.
+la sonda espacial | uzay sondası | isim (d) | La sonda espacial llegó a Júpiter. | Uzay sondası Jüpiter'e ulaştı.
+orbitar | yörüngede dönmek | fiil | El satélite orbita a mil kilómetros. | Uydu bin kilometrede yörüngede dönüyor.
+el asteroide | asteroit | isim (e) | Un asteroide pasó cerca de la Tierra. | Bir asteroit Dünya'nın yakınından geçti.
+el año luz | ışık yılı | isim (e) | La estrella está a cien años luz. | Yıldız yüz ışık yılı uzakta.
+la ingravidez | yerçekimsizlik | isim (d) | Los astronautas viven en ingravidez. | Astronotlar yerçekimsiz ortamda yaşıyor.
+el lanzamiento espacial | uzay fırlatması | isim (e) | El lanzamiento espacial se retrasó por el viento. | Uzay fırlatması rüzgâr yüzünden ertelendi.
+la basura espacial | uzay çöpü | isim (d) | La basura espacial es un riesgo para los satélites. | Uzay çöpü uydular için bir risk.
+## Enerji
+la energía fotovoltaica | fotovoltaik enerji | isim (d) | La energía fotovoltaica es cada vez más barata. | Fotovoltaik enerji giderek ucuzluyor.
+la placa solar | güneş paneli | isim (d) | Instalaron placas solares en el tejado. | Çatıya güneş panelleri kurdular.
+el aerogenerador | rüzgâr türbini | isim (e) | Cada aerogenerador abastece a mil hogares. | Her rüzgâr türbini bin haneye enerji sağlıyor.
+la geotermia | jeotermal enerji | isim (d) | Islandia aprovecha mucho la geotermia. | İzlanda jeotermal enerjiden çok yararlanıyor.
+el hidrógeno verde | yeşil hidrojen | isim (e) | El hidrógeno verde podría sustituir al gas. | Yeşil hidrojen doğalgazın yerini alabilir.
+la fusión nuclear | nükleer füzyon | isim (d) | La fusión nuclear sería una fuente casi ilimitada. | Nükleer füzyon neredeyse sınırsız bir kaynak olurdu.
+el almacenamiento energético | enerji depolama | isim (e) | El reto es el almacenamiento energético. | Asıl zorluk enerji depolama.
+la red eléctrica | elektrik şebekesi | isim (d) | La red eléctrica soportó el pico de demanda. | Elektrik şebekesi talep zirvesine dayandı.
+la descarbonización | karbonsuzlaştırma | isim (d) | La descarbonización de la economía es urgente. | Ekonominin karbonsuzlaştırılması acil.
+la huella de carbono | karbon ayak izi | isim (d) | Quiere reducir su huella de carbono. | Karbon ayak izini azaltmak istiyor.
+## Malzeme bilimi
+el grafeno | grafen | isim (e) | El grafeno es más resistente que el acero. | Grafen çelikten daha dayanıklı.
+el nanomaterial | nanomalzeme | isim (e) | Los nanomateriales tienen propiedades sorprendentes. | Nanomalzemelerin şaşırtıcı özellikleri var.
+el polímero | polimer | isim (e) | El plástico es un polímero. | Plastik bir polimerdir.
+la aleación | alaşım | isim (d) | El bronce es una aleación de cobre y estaño. | Bronz bakır ve kalay alaşımıdır.
+sintetizar | sentezlemek | fiil | Sintetizaron una nueva molécula. | Yeni bir molekül sentezlediler.
+el acelerador de partículas | parçacık hızlandırıcı | isim (e) | El acelerador de partículas mide veintisiete kilómetros. | Parçacık hızlandırıcı yirmi yedi kilometre uzunluğunda.
+el microscopio electrónico | elektron mikroskobu | isim (e) | Lo observaron con un microscopio electrónico. | Onu elektron mikroskobuyla incelediler.
+la superconductividad | süperiletkenlik | isim (d) | La superconductividad se produce a temperaturas muy bajas. | Süperiletkenlik çok düşük sıcaklıklarda oluşur.
+biodegradable | biyolojik olarak parçalanabilen | sıfat | Las bolsas son biodegradables. | Poşetler biyolojik olarak parçalanabilir.
+el prototipo funcional | çalışan prototip | isim (e) | Presentaron un prototipo funcional. | Çalışan bir prototip sundular.
+## Bilimsel söylem
+la evidencia empírica | ampirik kanıt | isim (d) | No hay evidencia empírica que lo demuestre. | Bunu kanıtlayan ampirik bir kanıt yok.
+contrastable | doğrulanabilir | sıfat | Una teoría científica debe ser contrastable. | Bilimsel bir kuram doğrulanabilir olmalıdır.
+el consenso científico | bilimsel mutabakat | isim (e) | Existe un amplio consenso científico sobre el clima. | İklim konusunda geniş bir bilimsel mutabakat var.
+replicable | tekrarlanabilir | sıfat | Un experimento debe ser replicable. | Bir deney tekrarlanabilir olmalıdır.
+la investigación aplicada | uygulamalı araştırma | isim (d) | Financian sobre todo investigación aplicada. | Daha çok uygulamalı araştırmayı finanse ediyorlar.
+la investigación básica | temel araştırma | isim (d) | Sin investigación básica no hay innovación. | Temel araştırma olmadan yenilik olmaz.
+la divulgación científica | bilimi halka anlatma | isim (d) | Su canal de divulgación científica tiene millones de seguidores. | Bilim anlatıcılığı kanalının milyonlarca takipçisi var.
+la reproducibilidad | tekrarlanabilirlik | isim (d) | La crisis de reproducibilidad afecta a la psicología. | Tekrarlanabilirlik krizi psikolojiyi etkiliyor.
+el avance científico | bilimsel ilerleme | isim (e) | Es el mayor avance científico de la década. | On yılın en büyük bilimsel ilerlemesi.
+estadísticamente significativo | istatistiksel olarak anlamlı | ifade | La diferencia no es estadísticamente significativa. | Fark istatistiksel olarak anlamlı değil.
+## Tıp teknolojisi
+la biónica | biyonik | isim (d) | La biónica combina biología e ingeniería. | Biyonik biyoloji ile mühendisliği birleştirir.
+el implante | implant | isim (e) | Le pusieron un implante dental. | Ona diş implantı taktılar.
+el marcapasos | kalp pili | isim (e) | Lleva un marcapasos desde hace años. | Yıllardır kalp pili taşıyor.
+el implante coclear | koklear implant | isim (e) | El implante coclear le devolvió la audición. | Koklear implant işitmesini geri kazandırdı.
+la telemedicina | uzaktan tıp | isim (d) | La telemedicina llega a zonas rurales. | Uzaktan tıp kırsal bölgelere ulaşıyor.
+la nanomedicina | nanotıp | isim (d) | La nanomedicina podría atacar solo las células enfermas. | Nanotıp yalnızca hasta hücreleri hedefleyebilir.
+el láser | lazer | isim (e) | Le operaron la miopía con láser. | Miyopisini lazerle ameliyat ettiler.
+el diagnóstico por imagen | görüntüleme ile tanı | isim (e) | El diagnóstico por imagen ha avanzado mucho. | Görüntüleme ile tanı çok ilerledi.
+la cirugía robótica | robotik cerrahi | isim (d) | La cirugía robótica es menos invasiva. | Robotik cerrahi daha az invazivdir.
+invasivo | invaziv, girişimsel | sıfat | Es una técnica poco invasiva. | Az invaziv bir teknik.
+## Teknoloji ve toplum
+la tecnoética | teknoloji etiği | isim (d) | La tecnoética reflexiona sobre los límites de la innovación. | Teknoloji etiği yeniliğin sınırları üzerine düşünür.
+la soberanía tecnológica | teknolojik egemenlik | isim (d) | Europa busca su soberanía tecnológica. | Avrupa teknolojik egemenliğini arıyor.
+la tecnodependencia | teknoloji bağımlılığı | isim (d) | La tecnodependencia preocupa a los psicólogos. | Teknoloji bağımlılığı psikologları endişelendiriyor.
+la computación cuántica | kuantum hesaplama | isim (d) | La computación cuántica podría romper el cifrado actual. | Kuantum hesaplama mevcut şifrelemeyi kırabilir.
+el cúbit | kübit | isim (e) | Un cúbit puede ser cero y uno a la vez. | Bir kübit aynı anda hem sıfır hem bir olabilir.
+el holograma | hologram | isim (e) | El cantante apareció como un holograma. | Şarkıcı bir hologram olarak göründü.
+el metaverso | metaverse | isim (e) | Las empresas invierten en el metaverso. | Şirketler metaverse'e yatırım yapıyor.
+la innovación disruptiva | yıkıcı inovasyon | isim (d) | El móvil fue una innovación disruptiva. | Cep telefonu yıkıcı bir inovasyondu.
+futurista | fütüristik | sıfat | El edificio tiene un diseño futurista. | Binanın fütüristik bir tasarımı var.
+la alfabetización digital | dijital okuryazarlık | isim (d) | Hay cursos de alfabetización digital para mayores. | Yaşlılar için dijital okuryazarlık kursları var.

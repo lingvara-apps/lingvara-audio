@@ -1,111 +1,111 @@
 # UNIT: Aile ve ilişkiler | Evlilik, akrabalık, ebeveynlik, kuşaklar
-## Nikah
-el matrimonio | evlilik; karı koca | isim (e) | El matrimonio civil se celebró en mayo. | Sivil evlilik mayıs ayında kutlandı.
-la nupcialidad | evlilik oranı | isim (d) | La nupcialidad ha bajado notablemente este año. | Evlilik oranı bu yıl belirgin şekilde düştü.
-el desposorio | nişanlanma; evlenme sözü | isim (e) | Aquel antiguo desposorio unió ambas dinastías. | O eski nişanlanma her iki hanedanı birleştirdi.
-el esponsal | söz kesme; nişan | isim (e) | Firmaron el esponsal ante los testigos de honor. | Onursal tanıklar huzurunda söz kesmeyi imzaladılar.
-el casamiento | düğün; evlenme | isim (e) | El casamiento congregó a toda la parentela lejana. | Düğün tüm uzak akrabaları bir araya getirdi.
-el cónyuge | eş, karı veya koca | isim (e) | Cada cónyuge aportó sus ahorros al proyecto común. | Her eş ortak projeye birikimlerini yatırdı.
-el consorte | kral eşi; eş | isim (e) | El príncipe consorte inauguró el nuevo centro cultural. | Prens eşi yeni kültür merkezinin açılışını yaptı.
-el esponsales | nişan töreni | isim (çoğul) | Los esponsales duraron tres días enteros. | Nişan töreni tam üç gün sürdü.
-la nupcia | nikah, düğün | isim (d) | Celebraron la nupcia en una finca rústica. | Nikahı kır evinde kutladılar.
-el desposado | yeni evli kişi | isim (e) | El desposado sonreía junto a su amada compañera. | Yeni evli kişi sevdiği eşinin yanında gülümserdi.
-## Kan bağı
-el consanguíneo | kan bağı olan akraba | isim (e) | Ningún consanguíneo reclamó la vieja herencia familiar. | Hiçbir kan bağı olan akraba eski aile mirasından pay istemedi.
-la consanguinidad familiar | aile kan bağı, hısımlık | isim (d) | La consanguinidad familiar impedía legalmente aquel enlace. | Aile kan bağı o bağı yasal olarak engelliyordu.
-el linaje | soy, nesil, sülale | isim (e) | Su noble linaje se remonta al siglo quince. | Asil soyu on beşinci yüzyıla dayanıyor.
-la estirpe | soy, köken | isim (d) | Pertenecía a una ilustre estirpe de pensadores. | Seçkin bir düşünür soyundan geliyordu.
-el abolengo | asalet, atalar | isim (e) | Presumía siempre de su antiguo abolengo castellano. | Her zaman eski Kastilya asaletinden övgüyle bahsederdi.
-el tronco común | ortak atalar kökeni | isim (e) | Trazaron su árbol genealógico hasta un tronco común. | Soy ağacını ortak bir kökene kadar çizdiler.
-la rama familiar | aile kolu | isim (d) | Aquella rama familiar emigró hacia ultramar. | O aile kolu denizaşırı ülkelere göç etti.
-el tronco genealógico | soyağacı kök | isim (e) | El viejo tronco genealógico guardaba sorpresas. | Eski soyağacı kökü sürprizler barındırıyordu.
-el lazo sanguíneo | kan bağı bağı | isim (e) | El lazo sanguíneo unía a los lejanos primos. | Kan bağı uzak kuzenleri birbirine bağlıyordu.
-el nexo familiar | aile bağı | isim (e) | Ninguna distancia rompió el nexo familiar. | Hiçbir mesafe aile bağını koparmadı.
-## Akrabalık
-el consuegro | dünür (erkek) | isim (e) | El consuegro preparó un asado para los invitados. | Dünür misafirler için et mangal hazırladı.
-la consuegra | dünür (kadın) | isim (d) | La consuegra trajo un dulce típico de su tierra. | Dünür memleketine özgü tatlı getirdi.
-el concuñado | bacanak | isim (e) | El concuñado ayudó a pintar la fachada de la casa. | Bacanak evin cephesini boyamaya yardım etti.
-la concuñada | baldız; bacanağın eşi | isim (d) | La concuñada organizó la fiesta sorpresa de cumpleaños. | Baldız sürpriz doğum günü partisini organize etti.
-el ahijado | vaftiz çocuğu, manevi evlat | isim (e) | Su querido ahijado terminó la carrera con honores. | Sevgili vaftiz çocuğu okulu dereceyle bitirdi.
-la ahijada | vaftiz kızı | isim (d) | La ahijada recibió un hermoso reloj de oro. | Vaftiz kızı güzel bir altın saat aldı.
-el padrino de bautizo | vaftiz babası | isim (e) | El padrino de bautizo regaló un libro antiguo. | Vaftiz babası eski bir kitap hediye etti.
-la madrina de bautizo | vaftiz annesi | isim (d) | La madrina de bautizo acudió puntual a la ceremonia. | Vaftiz annesi törene zamanında geldi.
-el compadre | manevi baba, dost | isim (e) | El compadre saludó efusivamente al llegar al pueblo. | Manevi baba köye vardığında samimi bir şekilde selam verdi.
-la comadre | manevi anne, yakın kadın dost | isim (d) | La comadre compartió sus mejores consejos de vida. | Manevi anne en iyi yaşam tavsiyelerini paylaştı.
-## Ebeveynlik
-la paternidad | babalık | isim (d) | Asumió la paternidad con gran madurez y entrega. | Babalığı büyük olgunluk ve özveriyle üstlendi.
-la maternidad | analık, annelik | isim (d) | La maternidad transformó por completo su perspectiva vital. | Annelik yaşam bakış açısını tamamen değiştirdi.
-la filiación legal | yasal soybağı | isim (d) | La filiación legal quedó probada mediante análisis. | Yasal soybağı analizle kanıtlandı.
-la patria potestad | velayet hakkı | isim (d) | Los tribunales regularon detalladamente la patria potestad. | Mahkemeler velayet hakkını ayrıntılı olarak düzenledi.
-la tutela legal | yasal vesayet | isim (d) | Asumió la tutela legal de sus jóvenes sobrinos. | Genç yeğenlerinin yasal vesayetini üstlendi.
-el progenitor | ebeveyn, ata | isim (e) | Cada progenitor firmó la autorización escolar. | Her ebeveyn okul iznini imzaladı.
-la progenitora | biyolojik anne | isim (d) | La progenitora reclamó los derechos de custodia. | Biyolojik anne velayet haklarını talep etti.
-la crianza respetuosa | saygılı çocuk büyütme | isim (d) | Defendieron siempre una crianza respetuosa y empática. | Her zaman saygılı ve empatik bir çocuk büyütmeyi savundular.
-el apego seguro | güvenli bağlanma | isim (e) | El apego seguro favorece el desarrollo emocional infantil. | Güvenli bağlanma çocukların duygusal gelişimini destekler.
-la corresponsabilidad parental | ortak ebeveynlik sorumluluğu | isim (d) | La corresponsabilidad parental mejora la armonía doméstica. | Ortak ebeveynlik sorumluluğu ev içi uyumu artırır.
-## Soy ve nesiller
-la época generacional | kuşak dönemi, nesil | isim (d) | Cada época generacional aporta su propia visión del mundo. | Her kuşak dönemi dünyaya kendi bakış açısını getirir.
-el relevo generacional | kuşak değişimi | isim (e) | El relevo generacional revitalizó la empresa familiar. | Kuşak değişimi aile şirketine yeniden canlılık kazandırdı.
-la brecha entre edades | yaşlar arası uçurum | isim (d) | A veces surge cierta brecha entre edades distintas. | Bazen farklı yaşlar arasında belli bir uçurum ortaya çıkar.
-el patriarca familiar | aile reisi | isim (e) | El patriarca familiar reunía a todos los domingos. | Aile reisi herkesi pazar günleri toplardı.
-la matriarca venerable | saygıdeğer ana reis | isim (d) | La matriarca venerable contaba historias del pasado. | Saygıdeğer ana reis geçmişin hikayelerini anlatırdı.
-el antecesor | atalar, selef | isim (e) | Estudiaron los manuscritos firmados por su antecesor. | Selefinin imzaladığı el yazmalarını incelediler.
-la ascendencia ilustre | seçkin soy | isim (d) | Presumía con orgullo de su ascendencia ilustre. | Seçkin soyuyla gururla övünürdü.
-la descendencia directa | doğrudan soy | isim (d) | Toda su descendencia heredó el talento musical. | Tüm soyu müzik yeteneğini miras aldı.
-el heredero universal | evrensel mirasçı | isim (e) | Fue nombrado heredero universal de los bienes raíces. | Gayrimenkullerin evrensel mirasçısı olarak atandı.
-la estirpe milenaria | bin yıllık soy | isim (d) | Defendieron el legado de su estirpe milenaria. | Bin yıllık soylarının mirasını savundular.
-## Aile içi dinamikler
-la convivencia familiar | aile içi birlikte yaşam | isim (d) | La buena convivencia familiar requiere paciencia mutua. | İyi aile içi birlikte yaşam karşılıklı sabır gerektirir.
-el mutuo entendimiento | karşılıklı anlayış | isim (e) | El mutuo entendimiento resolvió viejos rencores. | Karşılıklı anlayış eski kırgınlıkları çözdü.
-el afecto sincero | içten sevgi | isim (e) | Mostraron un afecto sincero hacia los recién llegados. | Yeni gelenlere karşı içten bir sevgi gösterdiler.
-la complicidad hogareña | ev içi suç ortaklığı | isim (d) | Había una gran complicidad hogareña entre hermanos. | Kardeşler arasında büyük bir ev içi suç ortaklığı vardı.
-el apoyo incondicional | koşısuz destek | isim (e) | Recibió el apoyo incondicional de sus parientes cercanos. | Yakın akrabalarından koşulsuz destek aldı.
-la armonía doméstica | ev içi uyum | isim (d) | La paz y la armonía doméstica reinaban en el hogar. | Evde barış ve ev içi uyum hüküm sürüyordu.
-el respeto intergeneracional | kuşaklar arası saygı | isim (e) | Fomentaban el respeto intergeneracional en las tertulias. | Toplantılarda kuşaklar arası saygıyı teşvik ediyorlardı.
-la cohesión del clan | klanın bütünlüğü | isim (d) | La cohesión del clan superó todas las pruebas difíciles. | Klanın bütünlüğü tüm zor testleri aştı.
-el lazo afectivo | duygusal bağ | isim (e) | Fortalecieron el lazo afectivo mediante largas charlas. | Uzun sohbetler yoluyla duygusal bağı güçlendirdiler.
-la comprensión recíproca | karşılıklı anlayış | isim (d) | La comprensión recíproca evitó conflictos mayores. | Karşılıklı anlayış büyük çatışmaları önledi.
-## Evlilik sorunları
-el divorcio amistoso | dostane boşanma | isim (e) | Optaron por un divorcio amistoso ante el juez. | Hakim önünde dostane bir boşanmayı seçtiler.
-la separación legal | yasal ayrı yaşama | isim (d) | Firmaron la separación legal tras meses de diálogo. | Aylar süren diyalog sonrasında yasal ayrı yaşamayı imzaladılar.
-la nulidad matrimonial | evliliğin iptali | isim (d) | Solicitaron la nulidad matrimonial por motivos formales. | Biçimsel nedenlerle evliliğin iptalini talep ettiler.
-el conflicto conyugal | eşler arası çatışma | isim (e) | Superaron el conflicto conyugal con ayuda profesional. | Profesyonel yardımla eşler arası çatışmayı aştılar.
-la ruptura sentimental | duygusal kopuş | isim (d) | Aquella ruptura sentimental afectó a todo el entorno. | O duygusal kopuş tüm çevreyi etkiledi.
-la pensión alimenticia | nafaka | isim (d) | El juez fijó una justa pensión alimenticia mensual. | Hakim adil bir aylık nafaka belirledi.
-el régimen de visitas | görüş rejim, düzeni | isim (e) | Acordaron un flexible régimen de visitas para los hijos. | Çocuklar için esnek bir görüş düzeni üzerinde uzlaştılar.
-la mediación familiar | aile arabuluculuğu | isim (d) | La mediación familiar evitó un juicio largo y costoso. | Aile arabuluculuğu uzun ve masraflı bir davayı önledi.
-el desacuerdo doméstico | ev içi anlaşmazlık | isim (e) | Todo desacuerdo doméstico se resolvió hablando. | Her ev içi anlaşmazlık konuşarak çözüldü.
-la ruptura definitiva | kesin ayrılık | isim (d) | La ruptura definitiva entristeció a los más allegados. | Kesin ayrılık en yakınları üzdü.
+## Evlilik
+el noviazgo | nişanlılık, flört dönemi | isim (e) | Tuvieron un noviazgo de seis años. | Altı yıl sevgili kaldılar.
+pedir la mano | (evlilik için) el istemek | ifade | Le pidió la mano en una cena romántica. | Romantik bir akşam yemeğinde ona evlenme teklif etti.
+el anillo de compromiso | nişan yüzüğü | isim (e) | Le enseñó a todos el anillo de compromiso. | Nişan yüzüğünü herkese gösterdi.
+la boda civil | resmî nikâh | isim (d) | Hicieron una boda civil en el ayuntamiento. | Belediyede resmî nikâh kıydılar.
+la dama de honor | nedime | isim (d) | Su mejor amiga fue la dama de honor. | En yakın arkadaşı nedimesi oldu.
+el banquete | düğün yemeği, ziyafet | isim (e) | El banquete fue en una finca preciosa. | Düğün yemeği çok güzel bir çiftlik evinde yapıldı.
+la luna de miel | balayı | isim (d) | Se fueron de luna de miel a Japón. | Balayına Japonya'ya gittiler.
+el cónyuge | eş (resmî) | isim (e) | El cónyuge también tiene que firmar. | Eşin de imzalaması gerekiyor.
+la pareja de hecho | resmî kayıtlı birliktelik | isim (d) | No están casados, son pareja de hecho. | Evli değiller, resmî kayıtlı çiftler.
+las bodas de oro | ellinci evlilik yıldönümü | isim (çoğul) | Mis abuelos celebran sus bodas de oro. | Büyükannemle büyükbabam evliliklerinin ellinci yılını kutluyor.
 ## Geniş aile
-el patriarcado antiguo | eski ataerkil sistem | isim (e) | Aquel patriarcado antiguo regulaba toda la hacienda. | O eski ataerkil sistem tüm mal varlığını düzenliyordu.
-el matriarcado tribal | kabile anaerkilliği | isim (e) | Estudiaron las costumbres del matriarcado tribal andino. | And Dağları'ndaki kabile anaerkilliğinin geleneklerini incelediler.
-el clan familiar | aile klanı | isim (e) | Todo el clan familiar se reunía en las fiestas patronales. | Tüm aile klanı köy panayırında toplanırdı.
-la parentela lejana | uzak akraba grubu | isim (d) | Acudió mucha parentela lejana a la celebración grande. | Büyük kutlamaya çok sayıda uzak akraba geldi.
-el parentesco cercano | yakın akrabalık | isim (e) | El parentesco cercano facilitaba la ayuda mutua. | Yakın akrabalık karşılıklı yardımlaşmayı kolaylaştırıyordu.
-el lazo familiar lejano | uzak aile bağı | isim (e) | Descubrieron un lazo familiar lejano en los archivos. | Arşivlerde uzak bir aile bağı keşfettiler.
-la red de parientes | akraba ağı | isim (d) | Mantenían una amplia red de parientes por el mundo. | Dünyada geniş bir akraba ağı sürdürüyorlardı.
-el clan amplificado | genişletilmiş klan | isim (e) | El clan amplificado celebraba las cosechas juntos. | Genişletilmiş klan hasatları birlikte kutlardı.
-la familia extensa | geniş aile | isim (d) | La familia extensa vivía unida en el mismo valle. | Geniş aile aynı vadide bir arada yaşıyordu.
-el núcleo familiar | çekirdek aile | isim (e) | Su núcleo familiar era muy unido y solidario. | Çekirdek aileleri çok yakın ve dayanışmacıydı.
-## Ebeveyn rolleri
-el rol maternal | anne rolü | isim (e) | Desempeñó su rol maternal con infinita ternura. | Anne rolünü sonsuz bir şefkatle yerine getirdi.
-el rol paternal | baba rolü | isim (e) | Asumió el rol paternal guiando a los jóvenes. | Gençlere rehberlik ederek baba rolünü üstlendi.
-la guía educativa | eğitsel rehberlik | isim (d) | Ofrecieron una excelente guía educativa a sus hijos. | Çocuklarına mükemmel bir eğitsel rehberlik sundular.
-el ejemplo moral | ahlaki örnek | isim (e) | Su padre fue siempre un ejemplo moral inquebrantable. | Babası her zaman sarsılmaz bir ahlaki örnek oldu.
-la autoridad afectiva | sevgi dolu otorite | isim (d) | Combinaban la firmeza con la autoridad afectiva necesaria. | Kararlılığı gerekli sevgi dolu otoriteyle birleştiriyorlardı.
-el cuidado diario | günlük bakım | isim (e) | El cuidado diario fortalece el vínculo entre padres e hijos. | Günlük bakım, ebeveynler ve çocuklar arasındaki bağı güçlendirir.
-la protección familiar | aile koruması | isim (d) | Buscaban siempre la protección familiar ante los peligros. | Tehlikelere karşı her zaman aile korumasını arıyorlardı.
-el apoyo emocional | duygusal destek | isim (e) | El apoyo emocional resulta vital durante la adolescencia. | Duygusal destek ergenlik döneminde hayati önem taşır.
-la orientación formativa | eğitici yönlendirme | isim (d) | Su orientación formativa ayudó a elegir la carrera. | Eğitici yönlendirmesi meslek seçiminde yardımcı oldu.
-el compromiso paternal | baba olma taahhüdü | isim (e) | Demostró un firme compromiso paternal con los suyos. | Kendine yakın olanlara karşı sağlam bir baba olma taahhüdü gösterdi.
-## Akrabalık terimleri
-el familiar directo | doğrudan akraba | isim (e) | Solo acudió el familiar directo a la firma del acta. | Tutanak imzalamaya sadece doğrudan akraba katıldı.
-el pariente político | hısımlık akrabası, kayın akrabası | isim (e) | Invitó a cenar a varios parientes políticos este fin de semana. | Bu hafta sonu birkaç kayın akrabasını yemeğe davet etti.
-el miembro del clan | klan üyesi | isim (e) | Cada miembro del clan colaboraba en las tareas comunes. | Klanın her üyesi ortak işlerde işbirliği yapıyordu.
-el allegado fiel | sadık yakın dost | isim (e) | Solo los allegados fieles conocían el secreto familiar. | Sadece sadık yakınlar aile sırrını biliyordu.
-el convecino cercano | yakın komşu akraba | isim (e) | El convecino cercano ayudó a levantar la cerca de piedra. | Yakın komşu akraba taş çitin örülmesine yardım etti.
-el pariente lejano | uzak akraba | isim (e) | Recibió una carta inesperada de un pariente lejano. | Uzak bir akrabadan beklenmedik bir mektup aldı.
-el lazo de parentesco | akrabalık bağı | isim (e) | Demostraron el lazo de parentesco mediante documentos antiguos. | Eski belgelerle akrabalık bağını kanıtladılar.
-el miembro de la estirpe | soyun üyesi | isim (e) | Cada miembro de la estirpe guardaba las tradiciones. | Soyun her üyesi gelenekleri koruyordu.
-el consorte real | kraliyet eşi | isim (e) | El consorte real inauguró el nuevo museo nacional. | Kraliyet eşi yeni ulusal müzenin açılışını yaptı.
-el heredero directo | doğrudan mirasçı | isim (e) | El heredero directo asumió las responsabilidades del ducado. | Doğrudan mirasçı dükalığın sorumluluklarını üstlendi.
+el bisabuelo | büyük dede | isim (e) | Mi bisabuelo nació en 1910. | Büyük dedem 1910'da doğdu.
+el tatarabuelo | dedenin dedesi | isim (e) | No sé nada de mis tatarabuelos. | Büyük dedelerimin babaları hakkında hiçbir şey bilmiyorum.
+el primo segundo | ikinci dereceden kuzen | isim (e) | En la boda conocí a mis primos segundos. | Düğünde ikinci dereceden kuzenlerimle tanıştım.
+el consuegro | dünür (erkek) | isim (e) | Mi padre se lleva muy bien con su consuegro. | Babam dünürüyle çok iyi anlaşıyor.
+la consuegra | dünür (kadın) | isim (d) | La consuegra trajo un pastel casero. | Dünür hanım ev yapımı bir pasta getirdi.
+el concuñado | bacanak; eltinin/görümcenin eşi | isim (e) | Mi concuñado vive en Valencia. | Bacanağım Valensiya'da yaşıyor.
+los parientes políticos | evlilik yoluyla akrabalar | isim (çoğul) | Pasamos la Navidad con los parientes políticos. | Noel'i eşimin ailesiyle geçirdik.
+el pariente lejano | uzak akraba | isim (e) | Heredó una casa de un pariente lejano. | Uzak bir akrabasından bir ev miras kaldı.
+la familia extensa | geniş aile | isim (d) | En verano se reúne toda la familia extensa. | Yazın tüm geniş aile bir araya gelir.
+el árbol genealógico | soy ağacı | isim (e) | Estoy haciendo el árbol genealógico de mi familia. | Ailemin soy ağacını çıkarıyorum.
+## Aile tipleri
+el núcleo familiar | çekirdek aile | isim (e) | El núcleo familiar es cada vez más pequeño. | Çekirdek aile giderek küçülüyor.
+la familia numerosa | kalabalık aile (çok çocuklu) | isim (d) | Las familias numerosas tienen descuentos. | Çok çocuklu ailelerin indirimleri var.
+la familia monoparental | tek ebeveynli aile | isim (d) | Crece el número de familias monoparentales. | Tek ebeveynli ailelerin sayısı artıyor.
+la familia reconstituida | yeniden kurulan aile | isim (d) | En las familias reconstituidas hay hijos de varias parejas. | Yeniden kurulan ailelerde farklı ilişkilerden çocuklar olur.
+el padrastro | üvey baba | isim (e) | Se lleva muy bien con su padrastro. | Üvey babasıyla çok iyi anlaşıyor.
+la madrastra | üvey anne | isim (d) | En los cuentos la madrastra siempre es mala. | Masallarda üvey anne hep kötüdür.
+el hermanastro | üvey kardeş | isim (e) | Tiene dos hermanastros mayores. | İki büyük üvey kardeşi var.
+el hijastro | üvey oğul | isim (e) | Trata a su hijastro como a un hijo. | Üvey oğluna öz oğlu gibi davranıyor.
+el hijo único | tek çocuk | isim (e) | Como es hijo único, está muy mimado. | Tek çocuk olduğu için çok şımarık.
+el estado civil | medeni hâl | isim (e) | Indique su estado civil en el formulario. | Formda medeni hâlinizi belirtin.
+## Kardeşler
+el primogénito | ilk çocuk | isim (e) | El primogénito heredó la empresa. | Şirketi ilk çocuk devraldı.
+el benjamín | ailenin en küçüğü | isim (e) | Soy el benjamín de cinco hermanos. | Beş kardeşin en küçüğüyüm.
+el mellizo | çift yumurta ikizi | isim (e) | No se parecen nada, son mellizos. | Hiç benzemiyorlar, çift yumurta ikizleri.
+la rivalidad entre hermanos | kardeş rekabeti | isim (d) | La rivalidad entre hermanos es normal. | Kardeşler arası rekabet normaldir.
+salir a | -e çekmek (benzemek) | ifade | Ha salido a su abuela: igual de terca. | Büyükannesine çekmiş: o da aynı inatçı.
+llevarse años | yaş farkı olmak | ifade | Mi hermano y yo nos llevamos cuatro años. | Abimle aramızda dört yaş fark var.
+parecerse a | -e benzemek | fiil · dönüşlü | Se parece mucho a su padre. | Babasına çok benziyor.
+el parecido | benzerlik | isim (e) | Hay un gran parecido entre las dos hermanas. | İki kız kardeş arasında büyük bir benzerlik var.
+la oveja negra | ailenin yüz karası, kara koyun | deyim | Siempre fue la oveja negra de la familia. | Her zaman ailenin kara koyunuydu.
+de tal palo, tal astilla | armut dibine düşer | deyim | Toca el piano como su madre: de tal palo, tal astilla. | Annesi gibi piyano çalıyor: armut dibine düşer.
+## Ebeveynlik
+la paternidad | babalık | isim (d) | La paternidad le cambió la vida. | Babalık hayatını değiştirdi.
+la maternidad | annelik | isim (d) | Habla abiertamente de la maternidad. | Annelikten açıkça söz ediyor.
+la baja por paternidad | babalık izni | isim (d) | Se cogió la baja por paternidad completa. | Babalık izninin tamamını kullandı.
+la crianza | çocuk yetiştirme | isim (d) | Comparten la crianza de los niños. | Çocukların yetiştirilmesini paylaşıyorlar.
+criar | büyütmek, yetiştirmek | fiil | La criaron sus abuelos. | Onu büyükanne ve büyükbabası büyüttü.
+mimar | şımartmak, üstüne titremek | fiil | Los abuelos miman mucho a los nietos. | Büyükanneler ve büyükbabalar torunları çok şımartır.
+malcriado | şımarık, terbiyesiz | sıfat | Es un niño muy malcriado. | Çok şımarık bir çocuk.
+consentir (consiento) | şımartmak; izin vermek | fiil · düzensiz | No consientas tanto a tu hijo. | Oğlunu bu kadar şımartma.
+poner límites | sınır koymak | ifade | Es importante poner límites a los niños. | Çocuklara sınır koymak önemlidir.
+la conciliación familiar | iş-aile dengesi | isim (d) | La conciliación familiar sigue siendo difícil. | İş-aile dengesi hâlâ zor.
+## Evlat edinme ve hukuk
+la adopción | evlat edinme | isim (d) | El proceso de adopción duró tres años. | Evlat edinme süreci üç yıl sürdü.
+adoptivo | evlatlık; evlat edinen | sıfat | Sus padres adoptivos le contaron la verdad. | Onu evlat edinen ailesi ona gerçeği anlattı.
+la patria potestad | velayet hakkı | isim (d) | Los dos padres tienen la patria potestad. | İki ebeveynin de velayet hakkı var.
+la tutela | vasilik | isim (d) | Su tía asumió la tutela del menor. | Teyzesi çocuğun vasiliğini üstlendi.
+el progenitor | ebeveyn (resmî) | isim (e) | El formulario pide los datos de ambos progenitores. | Form her iki ebeveynin bilgilerini istiyor.
+el menor de edad | reşit olmayan | isim (e) | Los menores de edad necesitan autorización. | Reşit olmayanların izne ihtiyacı var.
+la pensión alimenticia | nafaka | isim (d) | Paga la pensión alimenticia cada mes. | Her ay nafaka ödüyor.
+el régimen de visitas | görüş düzeni | isim (e) | El juez estableció un régimen de visitas. | Hakim bir görüş düzeni belirledi.
+la mediación familiar | aile arabuluculuğu | isim (d) | La mediación familiar evitó el juicio. | Aile arabuluculuğu davayı önledi.
+el heredero | mirasçı | isim (e) | Su hija es la única heredera. | Kızı tek mirasçı.
+## Ayrılık
+separarse | ayrılmak | fiil · dönüşlü | Se separaron después de veinte años. | Yirmi yıl sonra ayrıldılar.
+el ex | eski eş, eski sevgili | isim (e) | Se lleva bien con su ex. | Eski eşiyle iyi anlaşıyor.
+la infidelidad | aldatma | isim (d) | La infidelidad rompió el matrimonio. | Aldatma evliliği bitirdi.
+la custodia compartida | ortak velayet | isim (d) | Tienen la custodia compartida de los niños. | Çocukların ortak velayetine sahipler.
+rehacer su vida | hayatını yeniden kurmak | ifade | Después del divorcio rehízo su vida. | Boşandıktan sonra hayatını yeniden kurdu.
+la viudez | dulluk | isim (d) | Lleva su viudez con mucha dignidad. | Dulluğunu büyük bir onurla taşıyor.
+viudo | dul | sıfat | Se quedó viudo muy joven. | Çok genç yaşta dul kaldı.
+el nido vacío | boş yuva sendromu | isim (e) | Cuando los hijos se fueron, sintieron el nido vacío. | Çocuklar gidince boş yuva sendromunu yaşadılar.
+independizarse | ayrı eve çıkmak, bağımsızlaşmak | fiil · dönüşlü | Se independizó a los veinticinco años. | Yirmi beş yaşında ayrı eve çıktı.
+emanciparse | bağımsızlığını kazanmak | fiil · dönüşlü | Es difícil emanciparse con sueldos tan bajos. | Bu kadar düşük maaşlarla bağımsızlaşmak zor.
+## Kuşaklar
+la brecha generacional | kuşak çatışması | isim (d) | La tecnología aumenta la brecha generacional. | Teknoloji kuşak farkını büyütüyor.
+el relevo generacional | kuşak değişimi | isim (e) | El campo necesita un relevo generacional. | Kırsalın kuşak değişimine ihtiyacı var.
+la tercera edad | yaşlılık dönemi | isim (d) | Hay actividades para la tercera edad. | Yaşlılar için etkinlikler var.
+el jubilado | emekli | isim (e) | Los jubilados se reúnen en el parque. | Emekliler parkta buluşuyor.
+heredar | miras almak | fiil | Heredó los ojos de su madre. | Gözlerini annesinden almış.
+la tradición familiar | aile geleneği | isim (d) | Hacer paella el domingo es una tradición familiar. | Pazar günü paella yapmak bir aile geleneğidir.
+la reunión familiar | aile toplantısı | isim (d) | Hubo una reunión familiar por el cumpleaños del abuelo. | Dedemin doğum günü için bir aile toplantısı yapıldı.
+la ascendencia | soy, köken | isim (d) | Tiene ascendencia italiana. | İtalyan kökenli.
+la estirpe | soy, sülale | isim (d) | Viene de una estirpe de marineros. | Denizci bir sülaleden geliyor.
+el clan | klan, aşiret | isim (e) | Todo el clan vino a la boda. | Bütün klan düğüne geldi.
+## Ev hayatı
+las tareas domésticas | ev işleri | isim (çoğul) | Se reparten las tareas domésticas. | Ev işlerini paylaşıyorlar.
+la corresponsabilidad | ortak sorumluluk | isim (d) | La corresponsabilidad en casa es fundamental. | Evde ortak sorumluluk esastır.
+el reparto | paylaşım, dağıtım | isim (e) | El reparto de tareas no es justo. | İş paylaşımı adil değil.
+el ahijado | vaftiz oğlu, manevi evlat | isim (e) | Le regaló una bicicleta a su ahijado. | Vaftiz oğluna bir bisiklet hediye etti.
+la manutención | geçim, bakım masrafı | isim (d) | Él se encarga de la manutención de sus padres. | Ailesinin geçimini o üstleniyor.
+el hogar | yuva, ev | isim (e) | Quiere formar un hogar. | Bir yuva kurmak istiyor.
+el ambiente familiar | aile ortamı | isim (e) | Creció en un ambiente familiar muy cariñoso. | Çok sevgi dolu bir aile ortamında büyüdü.
+educar | yetiştirmek, terbiye etmek | fiil | Educaron a sus hijos en el respeto. | Çocuklarını saygı içinde yetiştirdiler.
+la bronca | azar, fırça | isim (d) | Su madre le echó una bronca por llegar tarde. | Geç geldiği için annesi onu azarladı.
+la riña | atışma, kavga | isim (d) | Las riñas entre hermanos son normales. | Kardeşler arasındaki atışmalar normaldir.
+## Aile kutlamaları
+el bautizo | vaftiz töreni | isim (e) | Toda la familia vino al bautizo del bebé. | Bütün aile bebeğin vaftiz törenine geldi.
+el aniversario de boda | evlilik yıl dönümü | isim (e) | Celebraron su aniversario de boda en la playa. | Evlilik yıl dönümlerini sahilde kutladılar.
+la primera comunión | ilk komünyon | isim (d) | Mi sobrina hace la primera comunión en mayo. | Yeğenim mayısta ilk komünyonunu yapıyor.
+la despedida de soltero | bekârlığa veda partisi | isim (d) | Sus amigos le organizaron una despedida de soltero. | Arkadaşları ona bekârlığa veda partisi düzenledi.
+los recién casados | yeni evliler | isim (çoğul) | Los recién casados salieron de la iglesia entre aplausos. | Yeni evliler alkışlar arasında kiliseden çıktı.
+el convite | düğün yemeği, ziyafet | isim (e) | Después de la ceremonia hubo un convite en el jardín. | Törenden sonra bahçede bir ziyafet verildi.
+la tarta nupcial | düğün pastası | isim (d) | Los novios cortaron juntos la tarta nupcial. | Gelin ile damat düğün pastasını birlikte kesti.
+el ramo de novia | gelin buketi | isim (e) | La novia lanzó el ramo de novia a sus amigas. | Gelin buketini arkadaşlarına attı.
+la pedida de mano | kız isteme | isim (d) | La pedida de mano fue en casa de los abuelos. | Kız isteme büyükanne ile büyükbabanın evinde oldu.
+la fiesta sorpresa | sürpriz parti | isim (d) | Le preparamos una fiesta sorpresa por sus cincuenta años. | Ellinci yaşı için ona sürpriz parti hazırladık.

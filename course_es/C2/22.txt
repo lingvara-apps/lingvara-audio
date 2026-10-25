@@ -1,111 +1,111 @@
 # UNIT: Duyusal betimleme | Ses, ışık, renk, doku, tat ve koku nüansları
-## İşitsel algı
-timbre | tını | isim (d) | El timbre vocal de aquella mujer evocaba misterio. | O kadının ses tınısı gizem uyandırıyordu.
-estridencia | tiz ses, gürültü | isim (d) | La estridencia metálica alteró la paz matutina. | Metalik tiz ses sabahın huzurunu bozdu.
-murmullo | mırıltı, hışırtı | isim (e) | El murmullo fluvial arrullaba a los caminantes. | Nehir hışırtısı yürüyüşçüleri uyutuyordu.
-resonancia | yankı, rezonans | isim (d) | La resonancia acústica amplificaba cada nota. | Akustik yankı her notayı büyütüyordu.
-silbido | ıslık, fısıltı | isim (e) | Un silbido eólico cruzaba los ventanales altos. | Yüksek pencerelerden rüzgâr ıslığı geçiyordu.
-estrépito | gürültü, şamata | isim (e) | El estrépito sordo sacudió los cimientos pétreos. | Boğuk gürültü taştan temelleri sarstı.
-susurro | fısıltı, hışırtı | isim (e) | Un susurro quedo cruzaba la estancia oscura. | Karanlık odadan sessiz bir fısıltı geçiyordu.
-fragor | uğultu, çarpışma sesi | isim (e) | El fragor marino golpeaba los acantilados grises. | Deniz uğultusu gri kayalıklara çarpıyordu.
-resonar | yankılanmak | fiil | Las campanas hacían resonar su eco profundo. | Çanlar derin yankılarını inletiyordu.
-crepitar | çıtırdamak | fiil | Las astillas secas empezaron a crepitar alegremente. | Kuru kıymıklar neşeyle çıtırdamaya başladı.
-## Görsel algı
-luminancia | parlaklık, luminans | isim (d) | La alta luminancia cegaba a los visitantes. | Yüksek parlaklık ziyaretçileri kör ediyordu.
-penumbra | yarı karanlık, loşluk | isim (d) | La penumbra oculta guardaba secretos antiguos. | Gizli loşluk eski sırları saklıyordu.
-iridiscencia | yanardönerlik, renk oyunu | isim (d) | La iridiscencia tornasolada fascinaba al pintor. | Yanardöner renk oyunu ressamı büyüliyordu.
-opacidad | matlık, opaklık | isim (d) | La opacidad pétrea impedía ver el interior. | Taşın matlığı iç kısmı görmeyi engelliyordu.
-claroscuro | ışık-gölge düzeni | isim (e) | El claroscuro pictórico acentuaba el dramatismo. | Resimsel ışık-gölge dramatikliği artırıyordu.
-resplandor | parıltı, şafak ışığı | isim (e) | El resplandor auroral anunciaba el amanecer. | Şafak parıltısı gündoğumunu müjdeliyordu.
-claror | aydınlık, ışıldama | isim (e) | El claror matutino disipaba las sombras frías. | Sabah aydınlığı soğuk gölgeleri dağıtıyordu.
-brillo | parıltı, parlaklık | isim (e) | El brillo metálico destacaba bajo el foco cenital. | Metalik parlaklık tepe ışığı altında öne çıkıyordu.
-tonificar | tonlandırmak, canlandırmak | fiil | Debes tonificar los colores cálidos del lienzo. | Tuvaldeki sıcak renkleri canlandırmalısın.
-oscurecer | karartmak | fiil | Las nubes densas empezaron a oscurecer el horizonte. | Yoğun bulutlar ufku karartmaya başladı.
-## Renk tonları
-carmín | lâl rengi, koyu kırmızı | isim (e) | Un tono carmín invadió las mejillas cansadas. | Yorgun yanakları lâl rengi bir ton kapladı.
-añil | çividî, çivit mavisi | isim (e) | El tinte añil teñía las túnicas ceremoniales. | Çividî boya tören cübbelerini boyuyordu.
-malva | ebegümeci moru, leylak rengi | isim (e) | Los campos de malva decoraban el valle fértil. | Mor tırlar bereketli vadiyi süslüyordu.
-turquesa | turkuaz, firuze | isim (e) | El mar turquesa reflejaba la luz meridiana. | Turkuaz deniz öğle ışığını yansıtıyordu.
-esmeralda | zümrüt yeşili | isim (d) | Su mirada verde esmeralda cautivaba a todos. | Zümrüt yeşili bakışları herkesi büyüliyordu.
-ámbar | kehribar rengi | isim (e) | La resina de ámbar exudaba fragancias resinosas. | Kehribar reçinesi reçineli kokular salıyordu.
-ocre | aşı boyası rengi, oker | isim (e) | El tono ocre dominaba los muros antiguos. | Oker tonu eski duvarlara hakim oluyordu.
-cardenillo | verdigris, yeşil pas rengi | isim (e) | El cardenillo cubría las viejas estatuas de bronce. | Yeşil pas rengi eski tunç heykelleri kaplamıştı.
-colorear | renklendirmek | fiil | Prefiero colorear los bocetos con acuarelas suaves. | Taslakları yumuşak suluboyalarla renklendirmeyi tercih ederim.
-decolorar | rengini soldurmak | fiil | El sol estival suele decolorar las telas finas. | Yaz güneşi ince kumaşların rengini genellikle soldurur.
-## Dokusal özellikler
-aspereza | pürüzlülük, sertlik | isim (d) | La aspereza pétrea lastimaba las manos desnudas. | Taşın pürüzlülüğü çıplak elleri yaralıyordu.
-rugosidad | buruşukluk, pürüzlülük | isim (d) | La rugosidad corteza denotaba gran veteranía. | Kabuğun pürüzlülüğü büyük bir yaşlılık belirtiyordu.
-terciopelo | kadife doku | isim (e) | El tacto de terciopelo calmaba los nervios. | Kadife dokunuşu sinirleri yatıştırıyordu.
-tersura | pürüzsüzlük, yumuşaklık | isim (d) | La tersura epidérmica revelaba eterna juventud. | Cildin pürüzsüzlüğü ebedi gençliği ortaya koyuyordu.
-suavidad | yumuşaklık, okşayış | isim (d) | La suavidad sedosa acariciaba la piel delicada. | İpeksi yumuşaklık narin cildi okşuyordu.
-consistencia | kıvam, dayanıklılık | isim (d) | La consistencia gelatinosa espesaba el postre. | Jelatinimsi kıvam tatlıyı koyulaştırıyordu.
-viscosidad | viskozite, yapışkanlık | isim (d) | La viscosidad oleosa dificultaba la limpieza. | Yağlı viskozite temizliği zorlaştırıyordu.
-textura | doku | isim (d) | La textura rugosa aportaba realismo al relieve. | Pürüzlü doku kabartmaya gerçekçilik katıyordu.
-alisar | düzleştirmek, pürüzsüzleştirmek | fiil | Debes alisar la madera antes de aplicar el barniz. | Vernik sürmeden önce ahşabı pürüzsüzleştirmelisin.
-acariciar | okşamak, sevgiyle dokunmak | fiil | Solía acariciar las hojas tiernas de la planta. | Bitkinin taze yapraklarını okşamayı severdi.
-## Tat alma duyusu
-amargor | acılık, acı tat | isim (e) | El amargor intenso caracterizaba aquel fruto silvestre. | Yoğun acılık o yaban meyvesinin özelliğiydi.
-dulzor | tatlılık | isim (e) | El dulzor natural agradaba a los comensales. | Doğal tatlılık yemektekilerin hoşuna gidiyordu.
-acidez | asidilik, ekşilik | isim (d) | La acidez cítrica refrescaba las tardes estivales. | Narenciye asidiliği yaz akşamlarını serinletiyordu.
-salinidad | tuzluluk, tuz oranı | isim (d) | La alta salinidad impedía el desarrollo vegetal. | Yüksek tuzluluk bitki gelişimini engelliyordu.
-umami | umami, etsi lezzet | isim (e) | El gusto umami enriquecía el caldo tradicional. | Umami lezzeti geleneksel et suyunu zenginleştiriyordu.
-astringencia | büzücülük, burukluk | isim (d) | La astringencia frutal dejaba la lengua seca. | Meyve burukluğu dili kuru bırakıyordu.
-sabor | tat, lezzet | isim (e) | Buscaba un sabor auténtico en cada plato casero. | Her ev yemeğinde otantik bir lezzet arıyordu.
-gusto | tat, zevk | isim (e) | Su delicado gusto culinario era proverbial. | Onun narin mutfak zevki dillerde destandı.
-probar | tadına bakmak, denemek | fiil | Vinieron a probar las especialidades locales. | Yerel spesiyalitelerin tadına bakmaya geldiler.
-saborear | tat almak, zevkle yemek | fiil | Hay que saborear despacio cada bocado exquisito. | Her lezzetli lokmayı yavaşça tatmak gerekir.
-## Koku alma duyusu
-fragancia | hoş koku, güzel koku | isim (d) | La fragancia floral inundaba el patio andaluz. | Çiçek kokusu Endülüs avlusunu dolduruyordu.
-hedor | kötü koku, pis koku | isim (e) | El hedor nauseabundo emanaba del callejón oscuro. | Karanlık sokaktan mideleri bulandıran bir koku yayılıyordu.
-aroma | aroma, güzel koku | isim (e) | El aroma tostado despertaba apetitos dormidos. | Kavrulmuş aroma uykudaki iştahları uyandırıyordu.
-tufo | fena koku, duman kokusu | isim (e) | Un tufo rancio delataba el abandono del lugar. | Bayat bir koku yerin terk edildiğini ele veriyordu.
-perfume | parfüm, hoş koku | isim (e) | Su perfume sutil perduraba en el ambiente tibetano. | Onun hafif parfümü Tibet ortamında kalıyordu.
-emanación | yayılım, gaz çıkışı | isim (d) | La emanación sulfurosa indicaba actividad volcánica. | Kükürtlü gaz yayılımı volkanik aktivite belirtiyordu.
-pestilencia | veba, ağır koku | isim (d) | La pestilencia obligó a ventilar los aposentos. | Ağır koku odaların havalandırılmasını zorunlu kıldı.
-efluvio | eflüv, hoş koku yayılımı | isim (e) | Un efluvio balsámico calmaba los ánimos alterados. | Balsamik bir yayılım gergin ruhları sakinleştiriyordu.
-olfatear | koklamak, iz sürmek | fiil | El perro fiel empezó a olfatear el rastro húmedo. | Sadık köpek nemli izi koklamaya başladı.
-impregnar | sinmek, nüfuz etmek | fiil | El humo logró impregnar las cortinas de lino. | Duman keten perdeye sinmeyi başardı.
-## Hissiyat ve dokunma
-tacto | dokunma, dokunma duyusu | isim (e) | Su fino tacto apreciaba las suturas del tejido. | Onun ince dokunma duyusu kumaşın dikişlerini anlıyordu.
-palpación | elle muayene, dokunma | isim (d) | La palpación médica determinó la zona dolorida. | Tıbbi elle muayene ağrılı bölgeyi belirledi.
-contacto | temas, ilişki | isim (e) | El contacto térmico reveló fiebre muy alta. | Termal temas çok yüksek ateş olduğunu ortaya koydu.
-roce | sürtünme, hafif temas | isim (e) | El roce leve de sus manos provocó escalofríos. | Ellerinin hafif temesi ürperti yarattı.
-presión | basınç, baskı | isim (d) | Una leve presión bastaba para activar el mecanismo. | Mekanizmayı çalıştırmak için hafif bir basınç yetiyordu.
-vibración | titreşim | isim (d) | Sintió la sutil vibración del suelo bajo sus pies. | Ayaklarının altındaki toprağın hafif titreşimini hissetti.
-consunción | zayıflama, çöküntü | isim (d) | La consunción física preocupaba a sus allegados. | Fiziksel çöküntü yakınlarını endişelendiriyordu.
-sensibilidad | hassasiyet, duyarlılık | isim (d) | Su gran sensibilidad artística captaba matices únicos. | Büyük sanatsal duyarlılığı benzersiz tonları yakalıyordu.
-palpar | elleriyle yoklamak | fiil | Intentó palpar la superficie en la oscuridad total. | Tam karanlıkta yüzeyi elleriyle yoklamaya çalıştı.
-rozar | hafifçe değmek, sürtünmek | fiil | Las ramas bajas solían rozar los cristales sucios. | Alçak dallar kirli camlara hafifçe değiyordu.
-## Nüanslar ve kalite
-matiz | nüans, ince ayrım | isim (e) | Cada matiz cromático enriquecía la obra maestra. | Her renk nüansı başyapıtı zenginleştiriyordu.
-tenuidad | incelik, hafiflik | isim (d) | Su extrema tenuidad desconcertaba al auditorio. | Aşırı inceliği dinleyicileri şaşkına çeviriyordu.
-delicadeza | narinlik, zarafet | isim (d) | Trataba la porcelana antigua con gran delicadeza. | Eski porseleni büyük bir narinlikle tutuyordu.
-nitidez | netlik, berraklık | isim (d) | La nitidez visual permitía distinguir cada detalle. | Görsel netlik her detayı ayırt etmeyi sağlıyordu.
-plenitud | dolgunluk, eksiksizlik | isim (d) | Vivía en plena plenitud creativa y sensorial. | Yaratısal ve duyusal tam bir dolgunluk içinde yaşıyordu.
-esencia | öz, koku | isim (d) | Capturar la esencia floral requería alambique fino. | Çiçek özünü yakalamak ince imbi̇k gerektiriyordu.
-quintaesencia | özün özü, quintessence | isim (e) | Era la quintaesencia del refinamiento estético. | Estetik inceliğin özü niteliğindeydi.
-perfección | mükemmellik | isim (d) | Buscaba la perfección técnica en cada trazo diario. | Her günlük çizgide teknik mükemmellik arıyordu.
-tonalizar | nüanslandırmak, ton vermek | fiil | Es preciso tonalizar el concepto antes de publicarlo. | Yayınlamadan önce kavramı nüanslandırmak gereklidir.
-refinar | arıtmak, inceltmek | fiil | Lograron refinar los aceites esenciales con paciencia. | Sabırla uçucu yağları arıtmayı başardılar.
-## Estetik algı
-armonía | uyum, armoni | isim (d) | La armonía cromática conmovía al espectador. | Renk uyumu izleyiciyi duygulandırıyordu.
-proporción | oran, orantı | isim (d) | La perfecta proporción áurea guiaba el diseño. | Kusursuz altın oran tasarıma yön veriyordu.
-equilibrio | denge | isim (e) | El equilibrio visual aportaba calma inmediata. | Görsel denge anında huzur getiriyordu.
-fineza | zarafet, şıklık | isim (d) | Su natural fineza destacaba en el salón culto. | Doğal zarafeti kültürlü salonda öne çıkıyordu.
-sobriedad | sadelik, ölçülülük | isim (d) | La sobriedad formal caracterizaba su estilo literario. | Biçimsel sadelik edebi tarzını karakterize ediyordu.
-majestad | görkem, ihtişam | isim (d) | La majestad arquitectónica impresionaba a todos. | Mimari görkem herkesi etkiliyordu.
-gracia | zarafet, çekicilik | isim (d) | Su innegable gracia al moverse cautivaba siempre. | Hareket ederken inkar edilemez zarafeti hep büyülüyordu.
-belleza | güzellik | isim (d) | Contemplaba la belleza agreste del paisaje norteño. | Kuzey peyzajının vahşi güzelliğini seyrediyordu.
-embellecer | güzelleştirmek | fiil | Las luces tenues lograban embellecer la estancia. | Loş ışıklar odayı güzelleştirmeyi başarıyordu.
-cautivar | büyülemek, esir almak | fiil | Su voz melodiosa lograba cautivar al público. | Melodik sesi dinleyicileri büyülemeyi başarıyordu.
-## Karmaşık duyular
-sinestesia | sinestezi | isim (d) | Su rara sinestesia le hacía ver sonidos musicales. | Nadir sinestezisi müzikal sesleri görmesini sağlıyordu.
-percepción | algı, duyuş | isim (d) | La percepción sensorial varía según cada individuo. | Duyusal algı her bireye göre değişiklik gösterir.
-estímulo | uyarıcı, uyaran | isim (e) | Cada estímulo externo activaba múltiples sentidos. | Her dış uyaran birden fazla duyuyu harekete geçiriyordu.
-sensación | duyu, his | isim (d) | Una extraña sensación de frío invadió la sala. | Salona garip bir üşüme hissi yayıldı.
-experiencia | deneyim | isim (d) | Aquella vivencia amplió su experiencia estética. | O deneyim onun estetik birikimini genişletti.
-intuición | sezgi | isim (d) | Su fina intuición adivinaba matices ocultos. | İnce sezgisi gizli nüansları tahmin ediyordu.
-impresión | izlenim, etki | isim (d) | La primera impresión visual resultó imborrable. | İlk görsel izlenim silinmez nitelikteydi.
-conciencia | bilinç, farkındalık | isim (d) | Desarrolló una profunda conciencia ambiental. | Derin bir çevre bilinci geliştirdi.
-distinguir | ayırt etmek, fark etmek | fiil | Lograba distinguir los aromas más sutiles del vino. | Şarabın en hafif aromalarını ayırt etmeyi başarıyordu.
-experimentar | deneyimlemek, denemek | fiil | Empezó a experimentar con nuevas texturas táctiles. | Yeni dokunsal dokularla deneyler yapmaya başladı.
+## Sesler (isimler)
+el murmullo | mırıltı, uğultu | isim (e) | Se oía el murmullo del río. | Nehrin mırıltısı duyuluyordu.
+el fragor | gümbürtü | isim (e) | El fragor de la tormenta nos despertó. | Fırtınanın gümbürtüsü bizi uyandırdı.
+el estruendo | gürültü, patırtı | isim (e) | El edificio se derrumbó con gran estruendo. | Bina büyük bir gürültüyle çöktü.
+el retumbo | yankılanan gümbürtü | isim (e) | El retumbo del trueno hizo temblar los cristales. | Gök gürültüsünün yankısı camları titretti.
+el chirrido | gıcırtı | isim (e) | La puerta se abrió con un chirrido. | Kapı gıcırdayarak açıldı.
+el tintineo | şıngırtı | isim (e) | Se oía el tintineo de las copas. | Kadehlerin şıngırtısı duyuluyordu.
+el zumbido | vızıltı | isim (e) | El zumbido del mosquito no me dejaba dormir. | Sivrisineğin vızıltısı uyumama izin vermiyordu.
+el chasquido | çıtırtı, şaklama | isim (e) | Oí el chasquido de una rama. | Bir dalın çıtırtısını duydum.
+el eco | yankı | isim (e) | Su voz hacía eco en la cueva. | Sesi mağarada yankılanıyordu.
+la algarabía | şamata | isim (d) | En el patio había una algarabía de niños. | Avluda çocukların şamatası vardı.
+## Sesler (sıfatlar)
+la estridencia | tizlik, cırtlaklık | isim (d) | La estridencia de la alarma era insoportable. | Alarmın cırtlaklığı dayanılmazdı.
+estridente | cırtlak, tiz | sıfat | Tiene una risa estridente. | Cırtlak bir gülüşü var.
+ensordecedor | sağır edici | sıfat | El ruido de la obra era ensordecedor. | İnşaatın gürültüsü sağır ediciydi.
+atronador | gök gürültüsü gibi | sıfat | Recibió un aplauso atronador. | Gök gürültüsü gibi bir alkış aldı.
+melodioso | ahenkli | sıfat | Tiene una voz melodiosa. | Ahenkli bir sesi var.
+chirriante | gıcırtılı | sıfat | Las bisagras chirriantes necesitan aceite. | Gıcırtılı menteşelerin yağa ihtiyacı var.
+sonoro | tınılı, gür | sıfat | Soltó una carcajada sonora. | Gür bir kahkaha attı.
+la sonoridad | tınısallık | isim (d) | La sala tiene una sonoridad excelente. | Salonun akustiği mükemmel.
+crepitar | çıtırdamak | fiil | La leña crepitaba en la chimenea. | Odun şöminede çıtırdıyordu.
+la sordina | sessizlik; sürdin | isim (d) | Lo comentaron con sordina. | Bunu kısık sesle konuştular.
+## Işık
+la penumbra | alacakaranlık, loşluk | isim (d) | La habitación estaba en penumbra. | Oda loştu.
+el resplandor | parıltı, aydınlık | isim (e) | Se veía el resplandor del incendio. | Yangının aydınlığı görünüyordu.
+el destello | ani parıltı | isim (e) | Vi un destello en el cielo. | Gökyüzünde ani bir parıltı gördüm.
+el centelleo | pırıltı | isim (e) | El centelleo de las estrellas era precioso. | Yıldızların pırıltısı muhteşemdi.
+el halo | hale | isim (e) | La luna tenía un halo blanco. | Ayın çevresinde beyaz bir hale vardı.
+la bruma | pus, hafif sis | isim (d) | La bruma cubría el puerto. | Hafif sis limanı kaplıyordu.
+deslumbrante | göz kamaştırıcı | sıfat | La novia llevaba un vestido deslumbrante. | Gelin göz kamaştırıcı bir elbise giyiyordu.
+mortecino | sönük, cılız (ışık) | sıfat | Una luz mortecina iluminaba el pasillo. | Cılız bir ışık koridoru aydınlatıyordu.
+tenue | hafif, soluk | sıfat | Prefiero una luz tenue para leer. | Okumak için hafif bir ışığı tercih ederim.
+el claroscuro | ışık-gölge | isim (e) | El pintor domina el claroscuro. | Ressam ışık-gölgeye hâkim.
+## Renk ve görünüm
+el carmín | lal, koyu kırmızı | isim (e) | Llevaba los labios pintados de carmín. | Dudaklarını koyu kırmızıya boyamıştı.
+el añil | çivit mavisi | isim (e) | El cielo tenía un tono añil al anochecer. | Akşam gökyüzü çivit mavisiydi.
+el ocre | aşı boyası, toprak sarısı | isim (e) | Las casas del pueblo son de color ocre. | Köyün evleri toprak sarısı renginde.
+el bermellón | zincifre kırmızısı | isim (e) | Pintó la puerta de bermellón. | Kapıyı zincifre kırmızısına boyadı.
+el granate | bordo | isim (e) | Llevaba una bufanda granate. | Bordo bir atkı takıyordu.
+la iridiscencia | yanardönerlik | isim (d) | La iridiscencia de la burbuja era fascinante. | Baloncuğun yanardönerliği büyüleyiciydi.
+tornasolado | yanardöner | sıfat | Llevaba una tela tornasolada. | Yanardöner bir kumaş giyiyordu.
+translúcido | yarı saydam | sıfat | Las cortinas son translúcidas. | Perdeler yarı saydam.
+chillón | cırtlak (renk) | sıfat | No me gustan los colores chillones. | Cırtlak renkleri sevmem.
+desvaído | solgun, soluk | sıfat | La foto tenía colores desvaídos. | Fotoğrafın renkleri solgundu.
+## Doku
+la aspereza | pürüzlülük | isim (d) | Notó la aspereza de la piedra. | Taşın pürüzlülüğünü fark etti.
+la rugosidad | pürüzlülük, kırışıklık | isim (d) | La rugosidad de la corteza revela su edad. | Kabuğun pürüzlülüğü yaşını gösteriyor.
+la tersura | pürüzsüzlük | isim (d) | Le sorprendió la tersura de su piel. | Teninin pürüzsüzlüğü onu şaşırttı.
+la viscosidad | yapışkanlık, akışkanlık direnci | isim (d) | La miel tiene una gran viscosidad. | Balın yoğunluğu yüksek.
+sedoso | ipeksi | sıfat | Tiene el pelo sedoso. | Saçları ipeksi.
+aterciopelado | kadife gibi | sıfat | La piel del melocotón es aterciopelada. | Şeftalinin kabuğu kadife gibi.
+áspero | sert, pürüzlü | sıfat | Esta toalla es muy áspera. | Bu havlu çok sert.
+pegajoso | yapışkan | sıfat | Tengo las manos pegajosas. | Ellerim yapış yapış.
+esponjoso | süngerimsi, kabarık | sıfat | El bizcocho quedó muy esponjoso. | Kek çok kabarık oldu.
+grumoso | topaklı | sıfat | La salsa ha quedado grumosa. | Sos topaklı oldu.
+## Tat
+el amargor | acılık | isim (e) | No soporta el amargor del café. | Kahvenin acılığına dayanamıyor.
+el dulzor | tatlılık | isim (e) | El dulzor de la fruta era perfecto. | Meyvenin tatlılığı mükemmeldi.
+la acidez | ekşilik, asitlik | isim (d) | Este vino tiene buena acidez. | Bu şarabın asitliği iyi.
+la astringencia | burukluk | isim (d) | El caqui verde tiene mucha astringencia. | Ham hurmanın çok burukluğu var.
+el regusto | ağızda kalan tat | isim (e) | El vino deja un regusto a madera. | Şarap ağızda meşe tadı bırakıyor.
+empalagoso | aşırı tatlı, bıktırıcı | sıfat | Este pastel es demasiado empalagoso. | Bu pasta aşırı tatlı.
+insípido | tatsız | sıfat | La sopa está insípida. | Çorba tatsız.
+agrio | ekşi | sıfat | La leche está agria. | Süt ekşimiş.
+rancio | eskimiş, acımış (yağ) | sıfat | El aceite olía a rancio. | Yağ acımış kokuyordu.
+el umami | umami | isim (e) | El queso curado tiene mucho umami. | Olgun peynirde çok umami var.
+## Koku
+la fragancia | hoş koku | isim (d) | La fragancia de las rosas llenaba el jardín. | Güllerin kokusu bahçeyi dolduruyordu.
+el hedor | pis koku | isim (e) | Salía un hedor horrible del contenedor. | Konteynerden korkunç bir pis koku geliyordu.
+el tufo | ağır koku | isim (e) | Hay un tufo a tabaco en el coche. | Arabada ağır bir tütün kokusu var.
+el efluvio | yayılan koku | isim (e) | Llegaba un efluvio de jazmín. | Yasemin kokusu geliyordu.
+la pestilencia | leş kokusu | isim (d) | La pestilencia del basurero era insoportable. | Çöplüğün leş kokusu dayanılmazdı.
+la vaharada | ani koku, buhar dalgası | isim (d) | Al abrir el horno salió una vaharada de pan. | Fırını açınca bir ekmek kokusu dalgası çıktı.
+husmear | koklamak; burnunu sokmak | fiil | El perro husmeaba el suelo. | Köpek yeri kokluyordu.
+olfatear | koku almak | fiil | Los perros olfatean las maletas en el aeropuerto. | Köpekler havalimanında bavulları kokluyor.
+impregnar | sinmek | fiil | El olor a fritura impregnó la ropa. | Kızartma kokusu giysilere sindi.
+apestar | leş gibi kokmak | fiil | La cocina apesta a pescado. | Mutfak balık kokuyor.
+## Dokunma ve beden hisleri
+el tacto | dokunma duyusu | isim (e) | La tela es suave al tacto. | Kumaş dokununca yumuşak.
+palpar | elle yoklamak | fiil | Palpó la pared buscando el interruptor. | Duvarı elle yoklayarak düğmeyi aradı.
+rozar | hafifçe değmek | fiil | Su mano rozó la mía. | Eli elime hafifçe değdi.
+el cosquilleo | gıdıklanma hissi | isim (e) | Sentí un cosquilleo en el estómago. | Midemde bir gıdıklanma hissettim.
+el hormigueo | karıncalanma | isim (e) | Tengo un hormigueo en la pierna. | Bacağımda karıncalanma var.
+el pinchazo | ani batma (ağrı) | isim (e) | Sentí un pinchazo en la espalda. | Sırtımda bir batma hissettim.
+la quemazón | yanma hissi | isim (d) | Notaba una quemazón en la garganta. | Boğazında bir yanma hissediyordu.
+gélido | buz gibi | sıfat | Soplaba un viento gélido. | Buz gibi bir rüzgâr esiyordu.
+abrasador | kavurucu | sıfat | Hacía un calor abrasador. | Kavurucu bir sıcak vardı.
+la palpación | elle muayene | isim (d) | El médico detectó el bulto por palpación. | Doktor şişliği elle muayeneyle tespit etti.
+## İncelik ve nitelik
+la nitidez | netlik | isim (d) | La foto tiene una nitidez increíble. | Fotoğrafın netliği inanılmaz.
+la tenuidad | incelik, hafiflik | isim (d) | Le sorprendió la tenuidad de su voz. | Sesinin inceliği onu şaşırttı.
+la quintaesencia | özün özü | isim (d) | Es la quintaesencia de la elegancia. | Zarafetin özünün özü.
+la sobriedad | sadelik | isim (d) | La sobriedad del diseño es su mayor virtud. | Tasarımın sadeliği en büyük erdemi.
+la fineza | incelik, zarafet | isim (d) | Toca el piano con gran fineza. | Piyanoyu büyük bir incelikle çalıyor.
+la majestuosidad | görkem | isim (d) | Nos impresionó la majestuosidad de la catedral. | Katedralin görkemi bizi etkiledi.
+embellecer (embellezco) | güzelleştirmek | fiil · düzensiz | Las flores embellecen la plaza. | Çiçekler meydanı güzelleştiriyor.
+difuminar | bulanıklaştırmak, yumuşatmak | fiil | La niebla difuminaba los contornos. | Sis hatları bulanıklaştırıyordu.
+refinar | inceltmek, arıtmak | fiil | Refinó su estilo con los años. | Yıllar içinde üslubunu inceltti.
+decolorar | rengini soldurmak | fiil | El sol ha decolorado las cortinas. | Güneş perdelerin rengini soldurdu.
+## Duyusal izlenim
+la sensación de | ... hissi | ifade | Tengo la sensación de que alguien me mira. | Biri bana bakıyormuş gibi bir his var.
+el escalofrío de placer | haz ürpertisi | isim (e) | La música le provocó un escalofrío de placer. | Müzik ona bir haz ürpertisi yaşattı.
+a simple vista | ilk bakışta, çıplak gözle | ifade | A simple vista no se nota el arreglo. | İlk bakışta tamir fark edilmiyor.
+a ojos cerrados | gözü kapalı | ifade | Conozco el camino a ojos cerrados. | Yolu gözü kapalı bilirim.
+oler a gloria | mis gibi kokmak | ifade | Este guiso huele a gloria. | Bu yahni mis gibi kokuyor.
+saber a poco | az gelmek (tadı damakta kalmak) | ifade | El concierto me supo a poco. | Konser bana az geldi.
+ser un regalo para los sentidos | duyulara şölen olmak | ifade | Esta comida es un regalo para los sentidos. | Bu yemek duyulara bir şölen.
+erizarse la piel | tüyleri diken diken olmak | ifade | Se me erizó la piel al oírla cantar. | Onun şarkı söylediğini duyunca tüylerim diken diken oldu.
+hacerse un nudo en el estómago | midesine kramp girmek (heyecandan) | ifade | Se me hizo un nudo en el estómago. | Midem düğüm düğüm oldu.
+dejar huella | iz bırakmak | ifade | Aquel viaje dejó huella en mí. | O yolculuk bende iz bıraktı.

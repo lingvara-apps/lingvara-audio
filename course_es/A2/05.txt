@@ -2,10 +2,10 @@
 ## Vahşi hayvanlar
 el lobo | kurt | isim (e) | El lobo aúlla en el bosque oscuro. | Kurt karanlık ormanda uluyor.
 el zorro | tilki | isim (e) | El zorro busca comida entre los árboles. | Tilki ağaçların arasında yiyecek arıyor.
-el oso pardusco | bozayı | isim (e) | El oso pardusco duerme durante el invierno. | Bozayı kış boyunca uyuyor.
+el oso pardo | bozayı | isim (e) | El oso pardo duerme en invierno. | Bozayı kışın uyur.
 el ciervo | geyik | isim (e) | Un ciervo cruza el río rápidamente. | Bir geyik nehirden hızlıca karşıya geçiyor.
 el jabalí | yaban domuzu | isim (e) | El jabalí come raíces en la tierra húmeda. | Yaban domuzu nemli toprakta kök yiyor.
-el águila | kartal | isim (e) | El águila vuela muy alto sobre la montaña. | Kartal dağın üzerinde çok yüksekte uçuyor.
+el águila | kartal | isim (d) | El águila vuela muy alto sobre la montaña. | Kartal dağın üzerinde çok yüksekte uçuyor.
 la serpiente | yılan | isim (d) | Una serpiente verde descansa bajo el sol. | Yeşil bir yılan güneşin altında dinleniyor.
 el búho | baykuş | isim (e) | El búho canta por la noche en las ramas. | Baykuş gece dalda ötüyor.
 la ardilla | sincap | isim (d) | La ardilla pequeña sube por el tronco. | Küçük sincap gövdeden yukarı tırmanıyor.
@@ -17,63 +17,63 @@ el gallo | horoz | isim (e) | El gallo canta temprano por la mañana. | Horoz sa
 la gallina | tavuk | isim (d) | La gallina busca granos en el suelo. | Tavuk yerde taneler arıyor.
 el cordero | kuzu | isim (e) | El pequeño cordero corre con su madre. | Küçük kuzu annesiyle birlikte koşuyor.
 el burro | eşek | isim (e) | El burro viejo lleva la carga pesada. | Yaşlı eşek ağır yükü taşıyor.
-el pato | ördek | isim (d) | Un pato nada tranquilamente en el agua. | Bir ördek suda sakince yüzüyor.
+el pato | ördek | isim (e) | Un pato nada tranquilamente en el agua. | Bir ördek suda sakince yüzüyor.
 el cisne | kuğu | isim (e) | El cisne blanco nada cerca de la orilla. | Beyaz kuğu kıyıya yakın yüzüyor.
 la paloma | güvercin | isim (d) | Una paloma blanca vuela hacia el tejado. | Beyaz bir güvercin çatıya doğru uçuyor.
 la rana | kurbağa | isim (d) | La rana verde salta sobre las hojas. | Yeşil kurbağa yaprakların üzerine zıplıyor.
 ## Ağaçlar ve orman
 el pino | çam ağacı | isim (e) | El pino alto huele muy bien en primavera. | Uzun çam ağacı ilkbaharda çok güzel kokuyor.
-el roble | meşe | isim (e) | El roble antiguo da mucha sombra fresca. | Kadim meşe çok fazla serin gölge veriyor.
-la encina | meşe ağacı, holm meşesi | isim (d) | La encina crece fuerte en el campo seco. | Meşe ağacı kuru tarlada güçlü büyüyor.
+el roble | meşe | isim (e) | El roble antiguo da mucha sombra fresca. | Yaşlı meşe bol serin gölge yapıyor.
+la encina | pırnal meşesi | isim (d) | La encina crece fuerte en el campo seco. | Meşe ağacı kuru tarlada güçlü büyüyor.
 el olivo | zeytin ağacı | isim (e) | El viejo olivo tiene ramas muy gruesas. | Yaşlı zeytin ağacının çok kalın dalları var.
-el sauce | söğüt | isim (e) | El sauce llorón toca la superficie del agua. | Ağlayan söğüt suyun yüzeyine değiyor.
+el sauce | söğüt | isim (e) | El sauce llorón toca la superficie del agua. | Salkım söğüt suyun yüzeyine değiyor.
 el tronco | ağaç gövdesi | isim (e) | El tronco del árbol es muy ancho y duro. | Ağacın gövdesi çok geniş ve sert.
 la rama | dal | isim (d) | Una rama pequeña cae sobre el camino. | Küçük bir dal patikanın üzerine düşüyor.
 la hoja | yaprak | isim (d) | La hoja seca cae lentamente al suelo. | Kuru yaprak yavaşça yere düşüyor.
 la raíz | kök | isim (d) | La raíz profunda busca agua bajo la tierra. | Derin kök toprağın altında su arıyor.
-la corteza | kabuk | isim (e) | La corteza del pino es rugosa al tocarla. | Çamın kabuğu dokunulduğunda pürüzlüdür.
+la corteza | ağaç kabuğu | isim (d) | La corteza del pino es rugosa al tocarla. | Çamın kabuğu dokunulduğunda pürüzlüdür.
 ## Çiçekler ve bitkiler
 la margarita | papatya | isim (d) | Una margarita blanca crece en el prado. | Çayırda beyaz bir papatya büyüyor.
-la amapola | gelincik | isim (e) | La amapola roja brilla entre el trigo. | Kırmızı gelincik buğdayın arasında parlıyor.
+la amapola | gelincik | isim (d) | La amapola roja brilla entre el trigo. | Kırmızı gelincik buğdayın arasında parlıyor.
 el clavel | karanfil | isim (e) | El clavel rojo adorna el patio andaluz. | Kırmızı karanfil Endülüs avlusunu süslüyor.
 el girasol | ayçiçeği | isim (e) | El girasol grande mira siempre hacia el sol. | Büyük ayçiçeği her zaman güneşe bakıyor.
 el lirio | zambak | isim (e) | El lirio huele dulce en el jardín húmedo. | Zambak nemli bahçede tatlı kokuyor.
 el cactus | kaktüs | isim (e) | El cactus pequeño vive sin mucha agua. | Küçük kaktüs çok fazla su olmadan yaşıyor.
 el matorral | çalı, çalılık | isim (e) | Un conejo se esconde dentro del matorral. | Bir tavşan çalılığın içine saklanıyor.
 el hongo | mantar | isim (e) | El hongo venenoso crece bajo los árboles. | Zehirli mantar ağaçların altında büyüyor.
-la hierba fresca | taze ot | ifade | La hierba fresca cubre todo el valle. | Taze ot tüm vadiyi kaplıyor.
+el césped | çim | isim (e) | No pises el césped. | Çimlere basma.
 la espina | diken | isim (d) | La rosa tiene una espina muy afilada. | Gülün çok keskin bir dikeni var.
 ## Hava durumu ve gökyüzü
-el cielo azul | mavi gökyüzü | isim (e) | El cielo azul está completamente limpio hoy. | Mavi gökyüzü bugün tamamen masmavi.
+la niebla | sis | isim (d) | Hay mucha niebla en la carretera. | Yolda çok sis var.
 el trueno | gök gürültüsü | isim (e) | Un fuerte trueno asusta a los animales. | Güçlü bir gök gürültüsü hayvanları korkutuyor.
-el rayo | şimşek, yıldırım | isim (e) | Un rayo cruza el cielo oscuro de noche. | Bir şimşek gece karanlık gökyüzünü yarıyor.
+el rayo | yıldırım | isim (e) | Un rayo cruza el cielo oscuro de noche. | Bir şimşek gece karanlık gökyüzünü yarıyor.
 la tormenta | fırtına | isim (d) | La tormenta empieza con viento fuerte. | Fırtına güçlü rüzgarla başlıyor.
 el granizo | dolu | isim (e) | El granizo rompe algunas hojas de las plantas. | Dolu bitkilerin bazı yapraklarını kırıyor.
-el viento fuerte | güçlü rüzgar | ifade | El viento fuerte mueve las ramas altas. | Güçlü rüzgar yüksek dalları sallıyor.
-la neblina | sis | isim (d) | La neblina cubre la montaña por la mañana. | Sabah sis dağları kaplıyor.
+el relámpago | şimşek | isim (e) | Después del relámpago oímos el trueno. | Şimşekten sonra gök gürültüsünü duyduk.
+la neblina | pus, hafif sis | isim (d) | La neblina cubre la montaña por la mañana. | Sabahları pus dağı kaplıyor.
 el arco iris | gökkuşağı | isim (e) | Un hermoso arco iris aparece tras la lluvia. | Yağmurdan sonra güzel bir gökkuşağı beliriyor.
 la sequía | kuraklık | isim (d) | La larga sequía afecta mucho al campo. | Uzun kuraklık tarlayı çok etkiliyor.
-el clima templado | ılıman iklim | ifade | El clima templado es perfecto para vivir. | Ilıman iklim yaşamak için mükemmeldir.
+húmedo | nemli | sıfat | El aire está muy húmedo hoy. | Bugün hava çok nemli.
 ## Çevre ve doğa koruma
-la naturaleza | doğa | isim (d) | Debemos proteger toda la naturaleza virgen. | Tüm el değmemiş doğayı korumalıyız.
+el ecosistema | ekosistem | isim (e) | Los incendios dañan el ecosistema. | Yangınlar ekosisteme zarar veriyor.
 el medio ambiente | çevre | isim (e) | Cuidar el medio ambiente es tarea de todos. | Çevreyi korumak herkesin görevidir.
 la contaminación | kirlilik | isim (d) | La contaminación daña los ríos y el aire. | Kirlilik nehirlere ve havaya zarar veriyor.
 el reciclaje | geri dönüşüm | isim (e) | El reciclaje de papel ayuda a los bosques. | Kağıt geri dönüşümü ormanlara yardımcı oluyor.
-el bosque protegido | korunan orman | ifade | El bosque protegido tiene muchas especies raras. | Korunan ormanda pek çok nadir tür var.
+proteger (protejo) | korumak | fiil · düzensiz | Hay que proteger los bosques. | Ormanları korumak gerekir.
 la reserva natural | doğa rezervi | isim (d) | La reserva natural cuida a los animales raros. | Doğa rezervi nadir hayvanlara bakıyor.
 el residuo | atık, çöp | isim (e) | Cada residuo debe ir a su contenedor. | Her atık kendi konteynerine gitmeli.
 la energía solar | güneş enerjisi | ifade | La energía solar es limpia para el planeta. | Güneş enerjisi gezegen için temizdir.
-el peligro de extinción | nesli tükenme tehlikesi | ifade | Muchos animales están en peligro de extinción. | Birçok hayvan nesli tükenme tehlikesinde.
+en peligro de extinción | nesli tükenmekte | ifade | Muchos animales están en peligro de extinción. | Birçok hayvanın nesli tükenmekte.
 la deforestación | ormansızlaşma | isim (d) | La deforestación destruye el hogar de muchos. | Ormansızlaşma birçoğunun evini yok ediyor.
 ## Deniz ve kıyı yaşamı
 la ola | dalga | isim (d) | Una gran ola llega hasta la arena dorada. | Büyük bir dalga altın rengi kuma kadar ulaşıyor.
 la marea | gelgit | isim (d) | La marea alta cubre las rocas de la costa. | Yüksek gelgit sahilin kayalarını kaplıyor.
-la playa virgen | el değmemiş plaj | ifade | Encontramos una playa virgen muy bonita. | Çok güzel el değmemiş bir plaj bulduk.
+la roca | kaya | isim (d) | Los niños saltan desde la roca. | Çocuklar kayadan atlıyor.
 el arrecife | resif | isim (e) | El colorido arrecife tiene muchos peces. | Renkli resifte çok sayıda balık var.
 la concha | deniz kabuğu | isim (d) | Busco una concha bonita junto al agua. | Suyun yanında güzel bir deniz kabuğu arıyorum.
 la estrella de mar | denizyıldızı | isim (d) | Una pequeña estrella de mar descansa en la roca. | Küçük bir denizyıldızı kayada dinleniyor.
 el cangrejo | yengeç | isim (e) | Un cangrejo rojo camina por la arena mojada. | Kırmızı bir yengeç ıslak kumda yürüyor.
-el delfin | yunus | isim (e) | Un delfín salta alegremente cerca del barco. | Bir yunus teknenin yakınında neşeyle zıplıyor.
+el delfín | yunus | isim (e) | Un delfín salta alegremente cerca del barco. | Bir yunus teknenin yakınında neşeyle zıplıyor.
 la ballena | balina | isim (d) | Una gran ballena cruza el mar azul. | Büyük bir balina mavi denizi geçiyor.
 el tiburón | köpekbalığı | isim (e) | El tiburón nada silencioso bajo el agua. | Köpekbalığı su altında sessizce yüzüyor.
 ## Nehirler ve tatlı su
@@ -85,8 +85,8 @@ el manantial | pınar, kaynak | isim (e) | El agua fría sale directa del manant
 el cauce | nehir yatağı | isim (e) | El cauce seco espera la llegada de las lluvias. | Kuru nehir yatağı yağmurların gelmesini bekliyor.
 el pantano | bataklık, baraj gölü | isim (e) | El gran pantano abastece de agua a la ciudad. | Büyük baraj gölü şehre su sağlıyor.
 el vado | nehir geçidi | isim (e) | Cruzamos el vado con mucho cuidado. | Nehir geçidini çok dikkatli bir şekilde geçiyoruz.
-la corriente rápida | hızlı akıntı | ifade | La corriente rápida arrastra las hojas secas. | Hızlı akıntı kuru yaprakları sürükleyip götürüyor.
-el desborde | taşkın, taşma | isim (e) | El desborde del río inunda los campos bajos. | Nehrin taşması alçak tarlaları sular altında bırakıyor.
+la inundación | sel, su baskını | isim (d) | La inundación afectó a todo el pueblo. | Sel bütün köyü etkiledi.
+desbordarse | taşmak | fiil · dönüşlü | El río se desborda después de la tormenta. | Nehir fırtınadan sonra taşıyor.
 ## Gece gökyüzü ve uzay
 la estrella fugaz | kayan yıldız | ifade | Pido un deseo al ver una estrella fugaz. | Kayan yıldız gördüğümde bir dilek tutuyorum.
 la luna llena | dolunay | ifade | La luna llena brilla fuerte en la noche. | Dolunay gecede güçlü bir şekilde parlıyor.
@@ -96,16 +96,16 @@ el cometa | kuyruklu yıldız | isim (e) | Un brillante cometa cruza el espacio 
 el planeta | gezegen | isim (e) | La tierra es un hermoso planeta azul. | Dünya güzel mavi bir gezegendir.
 el satélite | uydu | isim (e) | La luna es el satélite natural de la tierra. | Ay, dünyanın doğal uydusudur.
 el eclipse | tutulma | isim (e) | El eclipse solar oscurece el día por momentos. | Güneş tutulması günü kısa süreliğine karartıyor.
-el universo | evren | isim (e) | El vasto universo guarda muchos misterios. | Genç evren birçok sırrı saklıyor.
-el cielo estrellado | yıldızlı gökyüzü | ifade | Miramos el cielo estrellado desde la colina. | Tepeden yıldızlı gökyüzüne bakıyoruz.
+el universo | evren | isim (e) | El vasto universo guarda muchos misterios. | Uçsuz bucaksız evren birçok sır saklıyor.
+el espacio | uzay; alan, yer | isim (e) | Los astronautas viajan al espacio. | Astronotlar uzaya gidiyor.
 ## Toprak ve yer şekilleri
 la colina | tepe | isim (d) | Subimos a la colina verde al atardecer. | Gün batımında yeşil tepeye tırmanıyoruz.
-el valle | vadi | isim (e) | El valle fértil produce mucha fruta fresca. | Verimli vadi çok fazla taze meyve üretiyor.
+la cumbre | zirve | isim (d) | Llegamos a la cumbre a mediodía. | Öğlen zirveye vardık.
 la cueva | mağara | isim (d) | Un oso duerme dentro de la cueva oscura. | Karanlık mağaranın içinde bir ayı uyuyor.
 el acantilado | uçurum | isim (e) | El camino pasa muy cerca del acantilado alto. | Yol yüksek uçurumun çok yakınından geçiyor.
 la llanura | ova | isim (d) | La llanura extensa no tiene árboles altos. | Geniş ovada yüksek ağaçlar yok.
 el desierto | çöl | isim (e) | El desierto cálido tiene mucha arena fina. | Sıcak çölün çok fazla ince kumu var.
-la peninsulita | küçük yarımada | isim (d) | La pequeña peninsulita entra en el mar. | Küçük yarımada denize doğru uzanıyor.
+la península | yarımada | isim (d) | España está en la península ibérica. | İspanya İber Yarımadası'nda.
 el golfo | körfez | isim (e) | Los barcos grandes entran seguros al golfo. | Büyük gemiler körfeze güvenli bir şekilde giriyor.
-el cabo | burun, karasaz | isim (e) | El faro antiguo se levanta sobre el cabo. | Eski deniz feneri burnun üzerinde yükseliyor.
-la gripta | yer çöküntüsü, yarık | isim (d) | Un pequeño temblor abre una grieta pequeña. | Küçük bir sarsıntı küçük bir yarık açıyor.
+el cabo | burun (coğrafya) | isim (e) | El faro antiguo se levanta sobre el cabo. | Eski deniz feneri burnun üzerinde yükseliyor.
+el terremoto | deprem | isim (e) | El terremoto despertó a todo el pueblo. | Deprem bütün köyü uyandırdı.

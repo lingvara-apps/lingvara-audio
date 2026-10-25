@@ -1,111 +1,111 @@
 # UNIT: Gençlik ve internet argosu | Sosyal medya, oyun, okul, arkadaşlar
-## Dijital yaşam ve sosyal medya
-el directo | canlı yayın | isim (e) | Hago un directo en Twitch esta tarde. | Bu öğleden sonra Twitch'te canlı yayın yapıyorum.
-el perfil falso | sahte profil | isim (e) | Cuidado con un perfil falso en la red. | Ağdaki sahte profile dikkat et.
-el meme viral | viral meme | isim (e) | El meme viral divierte a todo el mundo. | Viral meme herkesi eğlendiriyor.
-el influencer | influencer, etkileyici | isim (e) | El influencer publica un nuevo vídeo hoy. | Influencer bugün yeni bir video yayınlıyor.
-el directo grabado | kaydedilmiş yayın | isim (e) | Veo el directo grabado por la noche. | Kaydedilmiş yayını gece izliyorum.
-el filtro moderno | modern filtre | isim (e) | Añade un filtro moderno a su foto. | Fotoğrafına modern bir filtre ekliyor.
-el post destacado | öne çıkan gönderi | isim (e) | Leo el post destacado en su perfil. | Profilindeki öne çıkan gönderiyi okuyorum.
-el storie efímero | geçici hikaye | isim (e) | Publica un storie efímero antes de clase. | Dersten önce geçici bir hikaye paylaşıyor.
-el hashtag popular | popüler etiket | isim (e) | Usa un hashtag popular para ganar fama. | Ün kazanmak için popüler bir etiket kullanıyor.
-el seguidor fiel | sadık takipçi | isim (e) | Cada seguidor fiel comenta su publicación. | Her sadık takipçi gönderisine yorum yapıyor.
-## Çevrim içi oyun ve eğlence
-la partida online | çevrim içi oyun | isim (d) | Jugamos una partida online con amigos. | Arkadaşlarla çevrim içi bir oyun oynuyoruz.
-el videojuego de rol | rol yapma video oyunu | isim (e) | Este videojuego de rol es muy difícil. | Bu rol yapma video oyunu çok zor.
-el streamer famoso | ünlü yayıncı | isim (e) | El streamer famoso saluda a sus fans. | Ünlü yayıncı hayranlarını selamlıyor.
-el nivel superior | üst seviye | isim (e) | Subo al nivel superior en el juego. | Oyunda üst seviyeye çıkıyorum.
-el modo multijugador | çok oyunculu mod | isim (e) | Prefiero el modo multijugador con equipo. | Takımlı çok oyunculu modu tercih ediyorum.
-el gremio activo | aktif lonca | isim (e) | Nuestro gremio activo gana la batalla. | Aktif loncamız savaşı kazanıyorum.
-el mapa secreto | gizli harita | isim (e) | Descubro el mapa secreto del juego. | Oyunun gizli haritasını keşfediyorum.
-el trofeo virtual | sanal kupa | isim (e) | Obtengo un trofeo virtual muy raro. | Çok nadir bir sanal kupa elde ediyorum.
-el chat de voz | sesli sohbet | isim (e) | Usamos el chat de voz para coordinar tácticas. | Taktikleri koordine etmek için sesli sohbet kullanıyoruz.
-el servidor dedicado | adanmış sunucu | isim (e) | Este servidor dedicado funciona sin lag. | Bu adanmış sunucu takılmasız çalışıyor.
-## Okul ve dershane dili
-la clase magistral | ana ders | isim (d) | La clase magistral empieza a las ocho. | Ana ders saat sekizde başlıyor.
-el recreo largo | uzun teneffüs | isim (e) | Charlamos en el patio durante el recreo largo. | Uzun teneffüste avluda sohbet ediyoruz.
-la mochila escolar | okul sırt çantası | isim (d) | Lleno la mochila escolar con libros. | Okul sırt çantasını kitaplarla dolduruyorum.
-el cuaderno espiral | spiralli defter | isim (e) | Apunto notas en el cuaderno espiral. | Spiralli deftere notlar alıyorum.
-el examen parcial | ara sınav | isim (e) | El examen parcial resulta bastante duro. | Ara sınav oldukça zor geçiyor.
-el trabajo grupal | grup çalışması | isim (e) | Hacemos un trabajo grupal de historia. | Tarih konulu bir grup çalışması yapıyoruz.
-la nota final | final notu | isim (d) | Espero la nota final con impaciencia. | Sabırsızlıkla final notunu bekliyorum.
-el trimestre lectivo | eğitim dönemi | isim (e) | Este trimestre lectivo termina pronto. | Bu eğitim dönemi yakında bitiyor.
-el aula virtual | sanal sınıf | isim (d) | Entramos al aula virtual desde casa. | Evden sanal sınıfa giriyoruz.
-el profesor titular | kadrolu profesör | isim (e) | El profesor titular explica la lección. | Kadrolu profesör dersi anlatıyor.
-## Arkadaş grubu ve buluşmalar
-el grupo de amigos | arkadaş grubu | isim (e) | Nuestro grupo de amigos sale los sábados. | Arkadaş grubumuz cumartesi günleri dışarı çıkıyor.
-la charla informal | samimi sohbet | isim (d) | Disfrutamos una charla informal en el bar. | Barda samimi bir sohbetin tadını çıkarıyoruz.
-el plan improvisado | doğaçlama plan | isim (e) | Proponemos un plan improvisado para hoy. | Bugün için doğaçlama bir plan öneriyoruz.
-la fiesta exclusiva | özel parti | isim (d) | Organizamos una fiesta exclusiva para Ana. | Ana için özel bir parti organize ediyoruz.
-el bar tradicional | geleneksel bar | isim (e) | Quedamos en el bar tradicional de la esquina. | Köşedeki geleneksel barda buluşuyoruz.
-la salida nocturna | gece gezmesi | isim (d) | Planificamos una salida nocturna por el centro. | Merkezde bir gece gezmesi planlıyoruz.
-el chiste local | yerel şaka | isim (e) | Contamos un chiste local entre risas. | Gülüşmeler arasında bir yerel şaka anlatıyoruz.
-la broma pesada | ağır şaka | isim (d) | Nadie aprecia una broma pesada aquí. | Kimse burada ağır bir şakayı takdir etmiyor.
-el secreto compartido | paylaşılan sır | isim (e) | Guardamos un secreto compartido entre todos. | Hepimiz arasında paylaşılan bir sırrı saklıyoruz.
-la risa contagiosa | bulaşıcı gülüş | isim (d) | Su risa contagiosa alegra el ambiente. | Onun bulaşıcı gülüşü ortamı neşelendiriyor.
-## İnternet argosu ve kısaltmalar
-el acrónimo popular | popüler kısaltma | isim (e) | Usamos un acrónimo popular para escribir rápido. | Hızlı yazmak için popüler bir kısaltma kullanıyoruz.
-el emoticono divertido | eğlenceli ifade | isim (e) | Envía un emoticono divertido por chat. | Sohbette eğlenceli bir ifade gönderiyor.
-el tono irónico | ironik ton | isim (e) | Emplea un tono irónico en sus mensajes. | Mesajlarında ironik bir ton kullanıyor.
-el chiste malo | kötü şaka | isim (e) | Escribe un chiste malo en el grupo. | Grupta kötü bir şaka yazıyor.
-el slang moderno | modern argo | isim (e) | Conoce bien el slang moderno de los jóvenes. | Gençlerin modern argosunu iyi biliyor.
-el mensaje cifrado | şifreli mesaj | isim (e) | Manda un mensaje cifrado a su amigo. | Arkadaşına şifreli bir mesaj gönderiyor.
-el texto rápido | hızlı metin | isim (e) | Responde con un texto rápido al instante. | Anında hızlı bir metinle yanıt veriyor.
-el comentario ingenioso | zeki yorum | isim (e) | Deja un comentario ingenioso en el vídeo. | Videoya zeki bir yorum bırakıyor.
-el debate digital | dijital tartışma | isim (e) | Participa en un debate digital sobre música. | Müzik hakkında dijital bir tartışmaya katılıyor.
-el zasca sonoro | laf sokma | isim (e) | Da un zasca sonoro al usuario grosero. | Kaba kullanıcıya sesli bir laf sokuyor.
-## Günlük teknoloji terimleri
-el cargador portátil | taşınabilir şarj aleti | isim (e) | Llevo un cargador portátil en la mochila. | Sırt çantamda taşınabilir bir şarj aleti taşıyorum.
-el archivo pesado | ağır dosya | isim (e) | Descargo un archivo pesado por la noche. | Gece ağır bir dosya indiriyorum.
-el enlace roto | kırık bağlantı | isim (e) | Encuentro un enlace roto en la página. | Sayfada kırık bir bağlantı buluyorum.
-el sistema lento | yavaş sistem | isim (e) | Este sistema lento frustra mi trabajo. | Bu yavaş sistem işimi engelliyor.
-el disco principal | ana disk | isim (e) | Guardo fotos en el disco principal del equipo. | Fotoğrafları bilgisayarın ana diskine kaydediyorum.
-el cable USB | USB kablosu | isim (e) | Conecto el móvil con un cable USB. | Cep telefonunu USB kablosuyla bağlıyorum.
-el ratón óptico | optik fare | isim (e) | Uso un ratón óptico para jugar mejor. | Daha iyi oynamak için optik fare kullanıyorum.
-el teclado mecánico | mekanik klavye | isim (e) | Escribe rápido en el teclado mecánico. | Mekanik klavyede hızlı yazıyor.
-el monitor plano | düz monitör | isim (e) | Mira películas en el monitor plano. | Düz monitörde filmler izliyor.
-el altavoz inteligente | akıllı hoparlör | isim (e) | Pide música al altavoz inteligente. | Akıllı hoparlörden müzik istiyor.
-## Gençlik mekânları ve buluşma noktaları
-el parque central | merkezi park | isim (e) | Nos reunimos en el parque central a las cinco. | Saat beşte merkezi parkta buluşuyoruz.
-la plaza concurridas | kalabalık meydan | isim (d) | La plaza concurridas tiene mucha vida joven. | Kalabalık meydanda çok gençlik hayatı var.
-el gran bazar | büyük çarşı | isim (e) | Paseamos por el gran bazar tradicional. | Geleneksel büyük çarşıda geziniyoruz.
-el cine de barrio | mahalle sineması | isim (e) | Vamos al cine de barrio los viernes. | Cuma günleri mahalle sinemasına gidiyoruz.
-la cafetería moderna | modern kafeterya | isim (d) | Bebemos café en la cafetería moderna. | Modern kafeteryada kahve içiyoruz.
-el local nocturno | gece kulübü | isim (e) | Entramos al local nocturno con entradas VIP. | VIP biletlerle gece kulübüne giriyoruz.
-el skatepark municipal | belediye kaykay parkı | isim (e) | Practican saltos en el skatepark municipal. | Belediye kaykay parkında atlayışlar yapıyorlar.
-la sala de lectura | okuma salonu | isim (d) | Estudiamos juntos en la sala de lectura municipal. | Belediyenin okuma salonunda birlikte ders çalışıyoruz.
-el auditorio juvenil | gençlik oditoryumu | isim (e) | El concierto rock suena en el auditorio juvenil. | Rock konseri gençlik oditoryumunda çalıyor.
-la pista polideportiva | çok amaçlı spor sahası | isim (d) | Jugamos al fútbol en la pista polideportiva. | Çok amaçlı spor sahasında futbol oynuyoruz.
-## Duygular ve ruh halleri
-el agobio diario | günlük bunalım | isim (e) | Supera el agobio diario con música relajante. | Rahatlatıcı müzikle günlük bunalımın üstesinden geliyor.
-la euforia colectiva | toplu coşku | isim (d) | La victoria genera una euforia colectiva. | Zafer toplu bir coşku yaratıyor.
-el bajón anímico | moral düşüklüğü | isim (e) | Siente un bajón anímico tras el examen. | Sınavdan sonra bir moral düşüklüğü hissediyor.
-la motivación alta | yüksek motivasyon | isim (d) | Mantiene una motivación alta todo el año. | Bütün yıl boyunca yüksek motivasyonu koruyor.
-el estrés estudiantil | öğrenci stresi | isim (e) | Combate el estrés estudiantil haciendo deporte. | Spor yaparak öğrenci stresiyle mücadele ediyor.
-la apatía temporal | geçici ilgisizlik | isim (d) | Sufre una apatía temporal este fin de semana. | Bu hafta sonu geçici bir ilgisizlik yaşıyor.
-el entusiasmo juvenil | gençlik coşkusu | isim (e) | Su entusiasmo juvenil contagia al equipo. | Gençlik coşkusu ekibe bulaşıyor.
-la tensión nerviosa | sinirsel gerginlik | isim (d) | Nota la tensión nerviosa antes de hablar. | Konuşmadan önce sinirsel gerginliği fark ediyor.
-el alivio total | tam rahatlama | isim (e) | Experimenta el alivio total al acabar todo. | Her şey bittiğinde tam bir rahatlama yaşıyor.
-la calma chicha | yaprak kıpırdamaz durgunluk | isim (d) | Disfruta de la calma chicha de la tarde. | Öğleden sonra yaprak kıpırdamaz durgunluğun tadını çıkarıyor.
-## Eğlence ve etkinlik planlama
-el festival indie | bağımsız festival | isim (e) | Compramos entradas para el festival indie. | Bağımsız festival için biletler satın alıyoruz.
-la quedada grupal | grup buluşması | isim (d) | Proponemos una quedada grupal este domingo. | Bu pazar bir grup buluşması öneriyoruz.
-el concierto en vivo | canlı konser | isim (e) | Escuchamos un concierto en vivo increíble. | İnanılmaz bir canlı konser dinliyoruz.
-la fiesta temática | tematik parti | isim (d) | Preparamos disfraces para la fiesta temática. | Tematik parti için kostümler hazırlıyoruz.
-el viaje express | hızlı seyahat | isim (e) | Hacemos un viaje express a la costa. | Sahile hızlı bir seyahat yapıyoruz.
-la excursión urbana | şehir gezisi | isim (d) | Disfrutamos una excursión urbana muy divertida. | Çok eğlenceli bir şehir gezisinin tadını çıkarıyoruz.
-el torneo relámpago | yıldırım turnuva | isim (e) | Participamos en un torneo relámpago de videojuegos. | Video oyunu yıldırım turnuvasına katılyoruz.
-la cena conjunta | ortak akşam yemeği | isim (d) | Organizamos una cena conjunta en casa. | Evde ortak bir akşam yemeği organize ediyoruz.
-el maratón seriéfilo | dizi maratonu | isim (e) | Hacemos un maratón seriéfilo este sábado. | Bu cumartesi bir dizi maratonu yapıyoruz.
-la escapada rápida | hızlı kaçamak | isim (d) | Planeamos una escapada rápida a la montaña. | Dağa hızlı bir kaçamak planlıyoruz.
-## Sosyal medya dili ve trendler
-el reto viral | viral meydan okuma | isim (e) | Graba un reto viral para su canal de vídeo. | Video kanalı için viral bir meydan okuma kaydediyor.
-el directo compartido | ortak canlı yayın | isim (e) | Hace un directo compartido con su mejor amiga. | En iyi arkadaşıyla ortak bir canlı yayın yapıyor.
-el vídeo corto | kısa video | isim (e) | Sube un vídeo corto divertido a la plataforma. | Platforma eğlenceli bir kısa video yüklüyor.
-el comentario destacado | öne çıkan yorum | isim (e) | Su comentario destacado recibe muchos likes. | Öne çıkan yorumu çok sayıda beğeni alıyor.
-el diseño minimalista | minimalist tasarım | isim (e) | Prefiere un diseño minimalista para su perfil. | Profili için minimalist bir tasarımı tercih ediyor.
-el estilo casual | günlük tarz | isim (e) | Viste con un estilo casual muy cómodo. | Çok rahat günlük bir tarzla giyiniyor.
-el toque personal | kişisel dokunuş | isim (e) | Da un toque personal a su habitación. | Odasına kişisel bir dokunuş veriyor.
-el contenido exclusivo | özel içerik | isim (e) | Ofrece contenido exclusivo a suscriptores fieles. | Sadık abonelere özel içerik sunuyor.
-el formato digital | dijital format | isim (e) | Lee libros en un formato digital moderno. | Modern bir dijital formatta kitaplar okuyor.
-el espacio creativo | yaratıcı alan | isim (e) | Crea un espacio creativo en su propia casa. | Kendi evinde yaratıcı bir alan yaratıyor.
+## Sosyal medya eylemleri
+el directo | canlı yayın | isim (e) | Esta tarde hago un directo con mis seguidores. | Bu akşam takipçilerimle canlı yayın yapıyorum.
+hacerse viral | viral olmak | ifade | Su vídeo se hizo viral en un día. | Videosu bir günde viral oldu.
+dar like | beğenmek (sosyal medya) | ifade | Dale like si te ha gustado. | Beğendiysen beğen butonuna bas.
+stalkear | (sosyal medyada) gizlice takip etmek | fiil | Deja de stalkear a tu ex. | Eski sevgilini gizlice takip etmeyi bırak.
+etiquetar | etiketlemek | fiil | No me etiquetes en esa foto. | O fotoğrafta beni etiketleme.
+el selfi | özçekim | isim (e) | Se hizo un selfi delante del monumento. | Anıtın önünde özçekim yaptı.
+el pantallazo | ekran görüntüsü | isim (e) | Le mandé un pantallazo de la conversación. | Ona sohbetin ekran görüntüsünü gönderdim.
+el creador de contenido | içerik üreticisi | isim (e) | Quiere ser creador de contenido. | İçerik üreticisi olmak istiyor.
+monetizar | paraya çevirmek | fiil | Por fin ha monetizado su canal. | Sonunda kanalından para kazanmaya başladı.
+el hashtag | hashtag, etiket | isim (e) | Usa siempre el mismo hashtag. | Hep aynı hashtag'i kullanıyor.
+## Mesajlaşma
+el wasap | WhatsApp mesajı | isim (e) | Te mando un wasap cuando llegue. | Varınca sana mesaj atarım.
+wasapear | WhatsApp'tan yazışmak | fiil | Se pasan el día wasapeando. | Bütün gün mesajlaşıyorlar.
+el audio | sesli mesaj | isim (e) | Me mandó un audio de diez minutos. | Bana on dakikalık sesli mesaj gönderdi.
+el grupo de wasap | WhatsApp grubu | isim (e) | El grupo de wasap de la familia no para. | Ailenin WhatsApp grubu hiç susmuyor.
+el emoji | emoji | isim (e) | Contestó solo con un emoji. | Sadece bir emojiyle cevap verdi.
+dejar en visto | görüldüde bırakmak | ifade | Me dejó en visto y no contestó. | Beni görüldüde bıraktı ve cevap vermedi.
+hacer ghosting | ortadan kaybolmak (iletişimi kesmek) | ifade | Después de dos citas me hizo ghosting. | İki buluşmadan sonra ortadan kayboldu.
+el spoiler | sürprizbozan | isim (e) | ¡No me hagas spoiler de la serie! | Diziyle ilgili sürprizi bozma!
+estar en modo avión | dünyadan kopuk olmak | ifade | Hoy estoy en modo avión, no me escribas. | Bugün dünyadan kopuğum, bana yazma.
+el sticker | çıkartma (mesajlaşma) | isim (e) | Me contestó con un sticker de un gato. | Bana bir kedi çıkartmasıyla cevap verdi.
+## Oyun dünyası
+el gamer | oyuncu (video oyunu) | isim (e) | Es gamer y juega cada noche. | Oyuncu, her gece oynuyor.
+la partida | oyun, el (oyun turu) | isim (d) | ¿Echamos una partida? | Bir el oynayalım mı?
+el lag | gecikme (bağlantı) | isim (e) | Con este lag es imposible ganar. | Bu gecikmeyle kazanmak imkânsız.
+el noob | acemi oyuncu | isim (e) | No seas noob y cúbrete. | Acemilik yapma da kendini koru.
+petarlo | çok başarılı olmak, ortalığı yıkmak | fiil | Su nuevo vídeo lo está petando. | Yeni videosu ortalığı yıkıyor.
+chetado | aşırı güçlü (oyunda) | sıfat | Ese personaje está chetado. | O karakter aşırı güçlü.
+el streamer | yayıncı | isim (e) | El streamer jugó doce horas seguidas. | Yayıncı on iki saat aralıksız oynadı.
+el fandom | hayran kitlesi | isim (e) | El fandom de la serie es enorme. | Dizinin hayran kitlesi devasa.
+ser un crack | çok iyi olmak, efsane olmak | ifade | Eres un crack con los videojuegos. | Video oyunlarında efsanesin.
+el friki | inek, meraklı | isim (e) | Es un friki de la ciencia ficción. | Bilimkurgu meraklısı.
+## Okul argosu
+empollar | inek gibi çalışmak | fiil | Se pasó el finde empollando para el examen. | Hafta sonunu sınava inek gibi çalışarak geçirdi.
+el empollón | inek öğrenci | isim (e) | El empollón de la clase sacó un diez. | Sınıfın ineği on aldı.
+hacer pellas | okulu asmak | ifade | Hicieron pellas para ir a la playa. | Plaja gitmek için okulu astılar.
+la chuleta | kopya kâğıdı | isim (d) | Lo pillaron con una chuleta. | Kopya kâğıdıyla yakalandı.
+catear | (sınavdan) kalmak | fiil | Ha cateado matemáticas otra vez. | Matematikten yine kaldı.
+el cate | kalma notu | isim (e) | Me han puesto un cate en física. | Fizikten kaldım.
+la edad del pavo | ergenlik çağı | isim (d) | Mi hermano está en la edad del pavo. | Kardeşim ergenlik çağında.
+el pique | rekabet, atışma | isim (e) | Hay un pique entre las dos clases. | İki sınıf arasında bir rekabet var.
+picarse | gaza gelmek, alınmak | fiil · dönüşlü | Se picó porque le gané. | Onu yendiğim için alındı.
+el botellón | sokakta toplu içki içme | isim (e) | Prohibieron el botellón en el parque. | Parkta toplu içki içmeyi yasakladılar.
+## Arkadaş arası
+bro | kanka | ünlem | ¿Qué pasa, bro? | Naber kanka?
+la quedada | buluşma | isim (d) | Organizamos una quedada el sábado. | Cumartesi bir buluşma ayarladık.
+pillar | kapmak, anlamak; yakalamak | fiil | ¿Lo pillas o te lo explico otra vez? | Anladın mı yoksa tekrar açıklayayım mı?
+pillarse | (birine) abayı yakmak | fiil · dönüşlü | Se ha pillado de su compañera de piso. | Ev arkadaşına abayı yaktı.
+el crush | hoşlanılan kişi | isim (e) | Hoy he visto a mi crush en el metro. | Bugün hoşlandığım kişiyi metroda gördüm.
+vacilar | dalga geçmek | fiil | No te creo, me estás vacilando. | İnanmıyorum, dalga geçiyorsun.
+el vacile | şaka, dalga | isim (e) | Lo dijo de vacile, no te enfades. | Şaka olsun diye söyledi, kızma.
+el salseo | dedikodu, olay | isim (e) | En el grupo hay mucho salseo hoy. | Bugün grupta çok dedikodu var.
+el beef | atışma, kavga (internet) | isim (e) | Los dos raperos tienen beef. | İki rapçi arasında atışma var.
+chachi | süper | sıfat | ¡Qué plan más chachi! | Ne süper plan!
+## Ruh hâli
+estar de bajón | morali bozuk olmak | ifade | Estoy de bajón desde que se fue. | O gittiğinden beri moralim bozuk.
+estar rayado | kafası bozuk olmak | ifade | Estoy rayado con lo que me dijo. | Söylediği şeye kafam bozuk.
+rayarse | kafaya takmak | fiil · dönüşlü | No te rayes, no es para tanto. | Kafaya takma, o kadar da önemli değil.
+el mood | ruh hâli | isim (e) | Mi mood hoy: sofá y manta. | Bugünkü ruh hâlim: kanepe ve battaniye.
+la vibra | hava, enerji | isim (d) | Ese bar tiene buena vibra. | O barın havası iyi.
+cringe | utandırıcı | sıfat | Su vídeo bailando es muy cringe. | Dans ettiği video çok utandırıcı.
+dar cringe | insanı utandırmak | ifade | Me da cringe ver mis fotos de niño. | Çocukluk fotoğraflarıma bakmak beni utandırıyor.
+estar de chill | kafa dinlemek | ifade | Hoy estamos de chill en casa. | Bugün evde kafa dinliyoruz.
+random | rastgele, alakasız | sıfat | Me escribió un chico random. | Alakasız bir çocuk bana yazdı.
+mazo | çok (argo) | zarf | Esta canción me gusta mazo. | Bu şarkıyı çok seviyorum.
+## Övgü ve yergi
+no renta | değmez, işe yaramaz | ifade | No renta salir con este frío. | Bu soğukta dışarı çıkmaya değmez.
+flipante | inanılmaz | sıfat | El concierto fue flipante. | Konser inanılmazdı.
+cutre | kalitesiz, zevksiz | sıfat | El hotel era un poco cutre. | Otel biraz kalitesizdi.
+hortera de bolera | aşırı zevksiz | ifade | Esa camisa es hortera de bolera. | O gömlek aşırı zevksiz.
+pasarse tres pueblos | çok abartmak | ifade | Con ese comentario te has pasado tres pueblos. | O yorumla çok abarttın.
+un montón | bir sürü | ifade | Tengo un montón de deberes. | Bir sürü ödevim var.
+de locos | çılgınca | ifade | El tráfico estaba de locos. | Trafik çılgıncaydı.
+qué pasada | ne harika | ifade | ¡Qué pasada de vistas! | Manzara ne harika!
+qué palo | ne kötü, ne zahmetli | ifade | Qué palo tener que madrugar mañana. | Yarın erken kalkmak zorunda olmak ne kötü.
+ni de broma | asla, şakası bile olmaz | ifade | ¿Ir andando? ¡Ni de broma! | Yürüyerek mi gitmek? Asla!
+## İnternet kültürü
+el trol | trol | isim (e) | No le contestes, es un trol. | Ona cevap verme, trol o.
+la funa | linç kampanyası (internet) | isim (d) | Recibió una funa por un tuit antiguo. | Eski bir tweeti yüzünden linç edildi.
+el clickbait | tık tuzağı | isim (e) | Ese titular es puro clickbait. | O başlık tamamen tık tuzağı.
+el fake | sahte (haber, hesap) | isim (e) | Esa noticia es un fake. | O haber sahte.
+el tutorial | eğitim videosu | isim (e) | Aprendió a maquillarse con tutoriales. | Makyaj yapmayı eğitim videolarıyla öğrendi.
+el unboxing | kutu açılışı videosu | isim (e) | Graba un unboxing de cada móvil nuevo. | Her yeni telefonun kutu açılışını çekiyor.
+la colaboración pagada | ücretli iş birliği | isim (d) | Este vídeo es una colaboración pagada. | Bu video ücretli bir iş birliği.
+el algoritmo de recomendaciones | öneri algoritması | isim (e) | El algoritmo de recomendaciones me conoce demasiado. | Öneri algoritması beni fazla iyi tanıyor.
+la burbuja de filtro | filtre balonu | isim (d) | Las redes nos encierran en una burbuja de filtro. | Sosyal medya bizi bir filtre balonuna hapsediyor.
+el trending topic | gündem konusu | isim (e) | Su nombre fue trending topic todo el día. | Adı bütün gün gündemdeydi.
+## Gece hayatı ve eğlence
+salir de fiesta | eğlenmeye çıkmak | ifade | Este sábado salimos de fiesta. | Bu cumartesi eğlenmeye çıkıyoruz.
+el garito | bar (argo) | isim (e) | Conozco un garito con buena música. | İyi müzikli bir bar biliyorum.
+el cubata | kokteyl (rom-kola vb., argo) | isim (e) | Pidió un cubata en la barra. | Bardan bir kokteyl istedi.
+la cola de la discoteca | kulüp kapısındaki kuyruk | isim (d) | Esperamos una hora en la cola de la discoteca. | Kulüp kapısındaki kuyrukta bir saat bekledik.
+la resaca | akşamdan kalmalık | isim (d) | Tengo una resaca horrible. | Korkunç bir akşamdan kalmalığım var.
+pillar un taxi | taksi yakalamak | ifade | Pillamos un taxi a las cinco. | Saat beşte bir taksi yakaladık.
+irse de cañas | bira içmeye çıkmak | ifade | ¿Nos vamos de cañas después del trabajo? | İşten sonra bira içmeye gidelim mi?
+la caña | küçük fıçı bira | isim (d) | Pon dos cañas, por favor. | İki küçük bira lütfen.
+el after | sabaha kadar açık mekân | isim (e) | Terminaron en un after. | Sabaha kadar açık bir mekânda bitirdiler.
+de empalmada | uyumadan devam ederek | ifade | Fue a trabajar de empalmada. | Hiç uyumadan işe gitti.
+## Flört argosu
+ligar | flört edip birini tavlamak | fiil | Fue a la fiesta con la idea de ligar. | Partiye birini tavlamak niyetiyle gitti.
+el ligue | flört, kaçamak ilişki | isim (e) | No es su novia, solo es un ligue de verano. | O sevgilisi değil, sadece bir yaz flörtü.
+ghostear | ghostlamak, aniden ortadan kaybolmak | fiil | Salieron tres veces y luego él la ghosteó. | Üç kez buluştular, sonra adam onu ghostladı.
+tirar los tejos | kur yapmak, asılmak | ifade | Lleva toda la noche tirándole los tejos. | Bütün gece ona asılıyor.
+el chati | tatlım, canım (hitap) | isim (e) | ¿Qué tal, chati? ¿Vienes esta noche? | N'aber tatlım? Bu akşam geliyor musun?
+la cita a ciegas | görücü usulü buluşma, kör randevu | isim (d) | Su amiga le organizó una cita a ciegas. | Arkadaşı ona kör randevu ayarladı.
+liarse | (biriyle) takılmak, öpüşmek | fiil · dönüşlü | Se liaron en la fiesta de fin de curso. | Yıl sonu partisinde takıldılar.
+tontear | cilveleşmek | fiil | Se pasaron la clase tonteando. | Bütün ders boyunca cilveleştiler.
+el morreo | uzun öpüşme | isim (e) | Se dieron un morreo en mitad de la calle. | Sokağın ortasında uzun uzun öpüştüler.
+el pagafantas | arkadaş bölgesindeki saf âşık | isim (e) | Él la invita a todo, pero solo es su pagafantas. | Ona her şeyi ısmarlıyor ama sadece arkadaş bölgesindeki saf âşık.

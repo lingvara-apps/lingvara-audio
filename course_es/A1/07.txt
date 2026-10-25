@@ -69,7 +69,7 @@ el cuello | boyun | isim (e) | Tengo dolor de cuello. | Boynum ağrıyor.
 la mano | el | isim (d) | Dame la mano. | Elini ver.
 el brazo | kol | isim (e) | Me duele el brazo. | Kolum ağrıyor.
 la pierna | bacak | isim (d) | Tiene las piernas largas. | Bacakları uzun.
-el pie | ayak | isim (e) | Voy a pie al trabajo. | İşe yürüyerek gidiyorum.
+el tobillo | ayak bileği | isim (e) | Me torcí el tobillo jugando. | Oynarken ayak bileğimi burktum.
 el dedo | parmak | isim (e) | Me corté el dedo. | Parmağımı kestim.
 la espalda | sırt | isim (d) | Me duele la espalda. | Sırtım ağrıyor.
 el estómago | mide | isim (e) | Tengo dolor de estómago. | Midem ağrıyor.
@@ -80,7 +80,7 @@ el hombro | omuz | isim (e) | Llevo la bolsa en el hombro. | Çantayı omzumda t
 la salud | sağlık | isim (d) | La salud es lo más importante. | Sağlık her şeyden önemlidir.
 enfermo | hasta | sıfat | Hoy estoy enfermo. | Bugün hastayım.
 sano | sağlıklı | sıfat | Comer fruta es sano. | Meyve yemek sağlıklıdır.
-el dolor | ağrı | isim (d) | Tengo un dolor fuerte. | Şiddetli bir ağrım var.
+el dolor | ağrı | isim (e) | Tengo un dolor fuerte. | Şiddetli bir ağrım var.
 doler (duele) | ağrımak | fiil · düzensiz | ¿Te duele mucho? | Çok ağrıyor mu?
 la fiebre | ateş (hastalık) | isim (d) | El niño tiene fiebre. | Çocuğun ateşi var.
 el resfriado | soğuk algınlığı | isim (e) | Tengo un resfriado. | Soğuk algınlığım var.
@@ -106,6 +106,6 @@ Me lo llevo | Bunu alıyorum | ifade | Me gusta mucho, me lo llevo. | Çok beğe
 ¿Algo más? | Başka bir şey? | ifade | ¿Algo más, señora? | Başka bir şey, hanımefendi?
 el recibo | fiş; makbuz | isim (e) | ¿Me da el recibo, por favor? | Fişi verir misiniz lütfen?
 devolver (devuelvo) | iade etmek; geri vermek | fiil · düzensiz | Quiero devolver estos zapatos. | Bu ayakkabıları iade etmek istiyorum.
-la caja | kasa; kutu | isim (d) | Pague en la caja, por favor. | Lütfen kasada ödeyin.
+el cajero | kasiyer; bankamatik | isim (e) | El cajero me da el recibo. | Kasiyer bana fişi veriyor.
 la cola | kuyruk (sıra) | isim (d) | Hay mucha cola hoy. | Bugün çok kuyruk var.
 el descuento | indirim | isim (e) | Hay un descuento del veinte por ciento. | Yüzde yirmi indirim var.

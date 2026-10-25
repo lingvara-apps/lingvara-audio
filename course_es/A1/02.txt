@@ -22,23 +22,23 @@ la esposa | eş, karı | isim (d) | Su esposa lee el periódico. | Eşi gazeteyi
 el pariente | akraba | isim (e) | Muchos parientes vienen a la fiesta. | Birçok akraba partiye geliyor.
 la familia | aile | isim (d) | Nuestra familia es muy grande. | Ailemiz çok büyük.
 ## Meslekler 1
-el médico | doktor (erkek) | isim (e) | El médico ayuda a los enfermos. | Doktor hastara yardım ediyor.
+el médico | doktor (erkek) | isim (e) | El médico ayuda a los enfermos. | Doktor hastalara yardım ediyor.
 la médica | doktor (kadın) | isim (d) | La médica atiende a los pacientes. | Kadın doktor hastalarla ilgileniyor.
 el profesor | öğretmen (erkek) | isim (e) | El profesor explica la lección. | Öğretmen dersi açıklıyor.
 la profesora | öğretmen (kadın) | isim (d) | La profesora escribe en la pizarra. | Kadın öğretmen tahtaya yazıyor.
 el estudiante | öğrenci (erkek) | isim (e) | El estudiante lee un texto. | Öğrenci bir metin okuyor.
-la estudiante | öğrenci (kadın) | isim (d) | La estudiante aprende vocabulario. | Öğrenci kelime öğreniyor.
+el bombero | itfaiyeci | isim (e) | El bombero apaga el fuego. | İtfaiyeci yangını söndürüyor.
 el ingeniero | mühendis (erkek) | isim (e) | El ingeniero diseña un puente. | Mühendis bir köprü tasarlıyor.
 la ingeniera | mühendis (kadın) | isim (d) | La ingeniera revisa el plano. | Kadın mühendis planı inceliyor.
 el abogado | avukat (erkek) | isim (e) | El abogado habla con su cliente. | Avukat müvekkiliyle konuşuyor.
 la abogada | avukat (kadın) | isim (d) | La abogada prepara un documento. | Kadın avukat bir belge hazırlıyor.
 ## Meslekler 2
 el artista | sanatçı (erkek) | isim (e) | El artista pinta un cuadro hermoso. | Sanatçı güzel bir tablo boyuyor.
-la artista | sanatçı (kadın) | isim (d) | La artista expone su obra. | Kadın sanatçı eserini sergiliyor.
+el músico | müzisyen | isim (e) | El músico toca en la calle. | Müzisyen sokakta çalıyor.
 el escritor | yazar (erkek) | isim (e) | El escritor escribe una novela nueva. | Yazar yeni bir roman yazıyor.
 la escritora | yazar (kadın) | isim (d) | La escritora firma un libro. | Kadın yazar bir kitap imzalıyor.
 el periodista | gazeteci (erkek) | isim (e) | El periodista hace una entrevista. | Gazeteci bir röportaj yapıyor.
-la periodista | gazeteci (kadın) | isim (d) | La periodista busca información. | Kadın gazeteci bilgi arıyor.
+el conductor | şoför, sürücü | isim (e) | El conductor del autobús es amable. | Otobüs şoförü nazik.
 el cocinero | aşçı (erkek) | isim (e) | El cocinero prepara la cena. | Aşçı akşam yemeğini hazırlıyor.
 la cocinera | aşçı (kadın) | isim (d) | La cocinera prueba la salsa. | Kadın aşçı sosu tadıyor.
 el trabajador | işçi (erkek) | isim (e) | El trabajador arregla la puerta rota. | İşçi kırık kapıyı tamir ediyor.
@@ -63,13 +63,13 @@ perezoso | tembel | sıfat | El gato perezoso duerme todo el día. | Tembel kedi
 estudioso | çalışkan, dersine düşkün | sıfat | Mi hermana es una persona muy estudiosa. | Kız kardeşim dersine çok düşkün bir insan.
 curioso | meraklı | sıfat | El niño curioso hace muchas preguntas. | Meraklı çocuk çok soru soruyor.
 sociable | sosyal, arkadaş canlısı | sıfat | Ella es muy sociable y tiene muchos amigos. | O çok sosyal ve birçok arkadaşı var.
-timido | utangaç | sıfat | El chico tímido habla muy bajito. | Utangaç çocuk çok alçak sesle konuşuyor.
+tímido | utangaç | sıfat | El chico tímido habla muy bajito. | Utangaç çocuk çok alçak sesle konuşuyor.
 amiguero | arkadaşa düşkün, cana yakın | sıfat | Su hermano amiguero conoce a todo el barrio. | Cana yakın kardeşi bütün mahalleyi tanıyor.
 ## Fiziksel özellikler
 alto | uzun boylu | sıfat | Su padre es un hombre muy alto. | Babası çok uzun boylu bir adam.
 bajo | kısa boylu | sıfat | El hermano menor es bastante bajo. | Küçük erkek kardeş oldukça kısa boylu.
 gordo | şişman | sıfat | El perro come mucho y está gordo. | Köpek çok yemek yiyor ve şişman.
-delaco | zayıf | sıfat | El gato camina con paso ligero y está delgado. | Kedi hafif adımlarla yürür ve zayıftır.
+delgado | zayıf, ince | sıfat | Mi hermano es alto y delgado. | Erkek kardeşim uzun boylu ve zayıf.
 joven | genç | sıfat | Trabaja con un grupo de gente joven. | Genç insanlardan oluşan bir grup ile çalışıyor.
 viejo | yaşlı, eski | sıfat | El viejo reloj de la pared suena fuerte. | Duvardaki eski saat yüksek sesle çalıyor.
 guapo | yakışıklı, güzel | sıfat | El actor principal es muy guapo. | Başrol oyuncusu çok yakışıklı.
@@ -78,7 +78,7 @@ moreno | esmer | sıfat | La chica morena tiene ojos oscuros. | Esmer kızın ko
 rubio | sarışın | sıfat | El niño rubio juega con la pelota. | Sarışın çocuk top ile oynuyor.
 ## Duygular ve durumlar
 cansado | yorgun | sıfat | Vengo muy cansado del trabajo. | İşten çok yorgun geliyorum.
-malhumorado | huysuz, öfkeli | sıfat | Mi amigo está malhumorado y descansa. | Arkadaşım huysuz ve dinleniyor.
+malhumorado | huysuz, keyifsiz | sıfat | Por la mañana estoy malhumorado. | Sabahları huysuz olurum.
 ocupado | meşgul | sıfat | Hoy estoy muy ocupado con los informes. | Bugün raporlarla çok meşgulüm.
 libre | özgür, boş | sıfat | ¿Estás libre esta tarde? | Bu öğleden sonra boş musun?
 contento | memnun, mutlu | sıfat | Estoy contento con mi nuevo trabajo. | Yeni işimden memnunum.
@@ -99,7 +99,7 @@ la infancia | çocukluk | isim (d) | Recuerda con alegría su infancia. | Çocuk
 la juventud | gençlik | isim (d) | La juventud tiene mucha energía. | Gençliğin çok enerjisi var.
 la vejez | yaşlılık | isim (d) | Los abuelos disfrutan de su vejez. | Dede ve nineler yaşlılıklarının tadını çıkarıyor.
 ## Aile ilişkileri ve ev hayatı
-el pariente cercano | yakın akraba | isim (e) | El pariente cercano visita nuestra casa. | Yakın akraba evimizi ziyaret ediyor.
+la novia | kız arkadaş; nişanlı; gelin | isim (d) | Mi novia se llama Lucía. | Kız arkadaşımın adı Lucía.
 la suegra | kaynana, kayınvalide | isim (d) | La suegra prepara un pastel dulce. | Kayınvalide tatlı bir kek hazırlıyor.
 el suegro | kayınpeder | isim (e) | El suegro lee el diario en el salón. | Kayınpeder salonda gazete okuyor.
 la nuera | gelin | isim (d) | La nuera ayuda a poner la mesa. | Gelin sofrayı kurmaya yardım ediyor.

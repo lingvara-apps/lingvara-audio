@@ -1,111 +1,111 @@
 # UNIT: Ekonomi ve para | Finans, banka, piyasa, kişisel bütçe
-## Bütçe planlaması
-la planificación | planlama | isim (d) | La planificación mensual ayuda a ahorrar dinero. | Aylık planlama para biriktirmeye yardımcı olur.
-el sueldo neto | net maaş | isim (e) | El sueldo neto llega cada fin de mes. | Net maaş her ayın sonunda yatar.
-el gasto fijo | sabit gider | isim (e) | El alquiler es nuestro gasto fijo principal. | Kira ana sabit giderimizdir.
-el gasto variable | değişken gider | isim (e) | Controlar el gasto variable es muy importante. | Değişken gideri kontrol etmek çok önemlidir.
-el ahorro mensual | aylık birikim | isim (e) | Destinamos el veinte por ciento al ahorro mensual. | Yüzde yirmisini aylık birikime ayırıyoruz.
-el fondo de emergencia | acil durum fonu | isim (e) | Un fondo de emergencia da mucha tranquilidad. | Acil durum fonu büyük bir huzur verir.
-el capricho | keyfi harcama; kapris | isim (e) | Debemos evitar los pequeños caprichos diarios. | Küçük günlük keyfi harcamalardan kaçınmalıyız.
-el objetivo financiero | finansal hedef | isim (e) | Mi objetivo financiero es comprar una casa. | Finansal hedefim bir ev satın almak.
-la meta de ahorro | birikim hedefi | isim (d) | Cumplir la meta de ahorro requiere disciplina. | Birikim hedefini tutturmak disiplin gerektirir.
-el balance personal | kişisel bilanço | isim (e) | Hago el balance personal cada domingo. | Kişisel bilançoyu her pazar yaparım.
-## Banka işlemleri
-la entidad bancaria | banka kuruluşu, şubesi | isim (d) | La entidad bancaria abre por la mañana. | Banka şubesi sabahları açılır.
-el cajero humano | veznedar | isim (e) | El cajero humano atendió mi consulta con amabilidad. | Veznedar sorumuzu kibarca karşıladı.
-la tarjeta de débito | banka kartı | isim (d) | Pagué la compra con la tarjeta de débito. | Alışverişin ödemesini banka kartı ile yaptım.
-el número secreto | gizli numara, şifre | isim (e) | Nunca compartas tu número secreto con nadie. | Gizli numaranı asla hiç kimseyle paylaşma.
-la clave de acceso | erişim şifresi | isim (d) | Cambié la clave de acceso de mi banca online. | Çevrim içi bankacılığımın erişim şifresini değiştirdim.
-la transferencia bancaria | banka havalesi | isim (d) | Hice una transferencia bancaria para pagar el alquiler. | Kirayı ödemek için banka havalesi yaptım.
-el extracto de cuenta | hesap özeti | isim (e) | Revisé el extracto de cuenta en mi ordenador. | Bilgisayarımdan hesap özetini kontrol ettim.
-la comision bancaria | banka komisyonu | isim (d) | Esta operación no tiene ninguna comisión bancaria. | Bu işlemin hiçbir banka komisyonu yok.
-el descubierto | hesap eksi bakiyesi, açığı | isim (e) | Evitó el descubierto en su cuenta corriente. | Vadesiz hesabındaki eksi bakiyeden kaçındı.
-el préstamo personal | bireysel kredi | isim (e) | Solicitó un préstamo personal para reformar la cocina. | Mutfağı yenilemek için bireysel kredi başvurusunda bulundu.
-## Yatırım ve piyasa
-la inversion | yatırım | isim (d) | La inversion inmobiliaria ofrece buena rentabilidad. | Gayrimenkul yatırımı iyi bir getiri sunar.
-el mercado bursatil | borsa piyasası | isim (e) | El mercado bursatil registró una subida importante. | Borsa piyasası önemli bir yükseliş kaydetti.
-la accion | hisse senedi | isim (d) | Compró acciones de una empresa tecnológica famosa. | Ünlü bir teknoloji şirketinin hisse senetlerini satın aldı.
-el bono soberano | devlet tahvili | isim (e) | El bono soberano es una opción de bajo riesgo. | Devlet tahvili düşük riskli bir seçenektir.
-la rentabilidad anual | yıllık getiri | isim (d) | La rentabilidad anual superó nuestras expectativas. | Yıllık getiri beklentilerimizi aştı.
-el riesgo financiero | finansal risk | isim (e) | Todo inversionista debe evaluar el riesgo financiero. | Her yatırımcı finansal riski değerlendirmelidir.
-el fondo de inversion | yatırım fonu | isim (e) | Diversificar el fondo de inversion protege el capital. | Yatırım fonunu çeşitlendirmek sermayeyi korur.
-la inflacion | enflasyon | isim (d) | La inflacion reduce el poder adquisitivo de la gente. | Enflasyon halkın alım gücünü düşürür.
-el tipo de interés | faiz oranı | isim (e) | La máxima autoridad monetaria subió el tipo de interés. | En üst para otoritesi faiz oranını yükseltti.
-la divisa extranjera | yabancı para birimi, döviz | isim (d) | Cambiamos euros por otra divisa extranjera. | Avroları başka bir yabancı para birimiyle değiştirdik.
-## Alışveriş ve tüketim
-el consumo responsable | bilinçli tüketim | isim (e) | El consumo responsable ayuda a proteger el planeta. | Bilinçli tüketim gezegeni korumaya yardımcı olur.
-la oferta especial | özel teklif | isim (d) | Compré el abrigo aprovechando una oferta especial. | Montu özel bir tekliften yararlanarak satın aldım.
-la rebaja de precio | fiyat indirimi | isim (d) | La rebaja de precio atrajo a muchos clientes nuevos. | Fiyat indirimi birçok yeni müşteri çekti.
-el vale de descuento | indirim kuponu | isim (e) | Tengo un vale de descuento para la librería. | Kitabevi için bir indirim kuponum var.
-la garantia comercial | ticari garanti | isim (d) | El producto incluye una garantia comercial de dos años. | Ürün iki yıllık ticari garanti içeriyor.
-la factura legal | resmi fatura | isim (d) | Exigí la factura legal para cualquier reclamación futura. | Gelecekteki her türlü talep için resmi faturayı talep ettim.
-el tique de caja | kasa fişi | isim (e) | Guarda el tique de caja por si necesitas cambiar algo. | Bir şeyleri değiştirmen gerekirse kasa fişini sakla.
-la reclamacion formal | resmi şikayet | isim (d) | Presentó una reclamacion formal ante el establecimiento. | İşletmeye karşı resmi bir şikayette bulundu.
-el derecho del consumidor | tüketici hakkı | isim (e) | Conocer el derecho del consumidor es muy útil. | Tüketici hakkını bilmek çok faydalıdır.
-la devolucion del dinero | para iadesi | isim (d) | Pedi la devolucion del dinero porque el abrigo estaba roto. | Mont yırtık olduğu için para iadesi istedim.
-## Gelir kaynakları
-el ingreso extra | ek gelir | isim (e) | Da clases particulares como ingreso extra los fines de semana. | Hafta sonları ek gelir olarak özel ders veriyor.
-el trabajo autonomo | serbest meslek, serbest çalışma | isim (e) | El trabajo autonomo exige mucha organizacion propia. | Serbest çalışma büyük bir öz organizasyon gerektirir.
-la fuente de ingresos | gelir kaynağı | isim (d) | Diversificar la fuente de ingresos da mayor estabilidad. | Gelir kaynağını çeşitlendirmek daha büyük istikrar sağlar.
-el dividendo empresarial | şirket temettüsü | isim (e) | Recibió un jugoso dividendo empresarial a final de año. | Yıl sonunda cazip bir şirket temettüsü aldı.
-el alquiler mensual | aylık kira geliri | isim (e) | El alquiler mensual complementa su jubilación. | Aylık kira geliri emekliliğini tamamlıyor.
-la comision por ventas | satış komisyonu | isim (d) | Su sueldo base incluye una comision por ventas atractiva. | Temel maaşı çekici bir satış komisyonu içeriyor.
-el derecho de autor | telif hakkı | isim (e) | Cobra un derecho de autor por sus novelas publicadas. | Yayımlanan romanları için telif hakkı alıyor.
-la prestacion social | sosyal yardım | isim (d) | Solicito una prestacion social temporal por desempleo. | Geçici bir işsizlik sosyal yardımı başvurusunda bulundu.
-el subsidio estatal | devlet sübvansiyonu, desteği | isim (e) | Reciben un subsidio estatal para la calefacción. | Isıtma için devlet desteği alıyorlar.
-la beca de estudios | eğitim bursu | isim (d) | Obtuvo una beca de estudios para realizar un master. | Yüksek lisans yapmak için bir eğitim bursu kazandı.
-## Borçlar ve krediler
-la deuda pendiente | bekleyen borç | isim (d) | Pagare toda la deuda pendiente este mismo mes. | Bekleyen tüm borcu bu ay ödeyeceğim.
-el credito hipotecario | konut kredisi | isim (e) | Firmaron el credito hipotecario para su nueva casa. | Yeni evleri için konut kredisi sözleşmesini imzaladılar.
-el plazo de amortizacion | amortisman, geri ödeme süresi | isim (e) | El plazo de amortizacion del credito es de veinte años. | Kredinin geri ödeme süresi yirmi yıldır.
-la cuota mensual | aylık taksit | isim (d) | La cuota mensual del coche asciende a trecientos euros. | Arabanın aylık taksiti üç yüz avro tutuyor.
-el tipo fijo | sabit oran | isim (e) | Prefirieron un credito a tipo fijo para mayor seguridad. | Daha büyük güvenlik için sabit oranlı bir krediyi tercih ettiler.
-la comision de apertura | açılış komisyonu | isim (d) | El banco cobra una pequena comision de apertura. | Banka küçük bir açılış komisyonu alıyor.
-el avalista solidario | müteselsil kefil | isim (e) | Su padre actua como avalista solidario en el contrato. | Babası sözleşmede müteselsil kefil olarak hareket ediyor.
-el historial crediticio | kredi geçmişi | isim (e) | Un buen historial crediticio facilita conseguir dinero. | İyi bir kredi geçmişi para bulmayı kolaylaştırır.
-la morosidad bancaria | banka borç gecikmesi | isim (d) | La morosidad bancaria preocupa a los directivos. | Banka borç gecikmesi yöneticileri endişelendiriyor.
-la renegociacion de deuda | borç yeniden yapılandırılması | isim (d) | Lograron una renegociacion de deuda muy favorable. | Çok avantajlı bir borç yeniden yapılandırılması elde ettiler.
-## İş dünyası ve şirketler
-la compania multinacional | çok uluslu şirket | isim (d) | Trabaja como analista en una compania multinacional. | Çok uluslu bir şirkette analist olarak çalışıyor.
-el empresario exitoso | başarılı iş insanı | isim (e) | El empresario exitoso dono fondos para la biblioteca. | Başarılı iş insanı kütüphane için fon bağışladı.
-la pyme local | yerel KOBİ (küçük ve orta ölçekli işletme) | isim (d) | Apoyar a la pyme local dinamiza la economia urbana. | Yerel KOBİ'yi desteklemek şehir ekonomisini canlandırır.
-el departamento financiero | finans departmanı | isim (e) | Envie el informe contable al departamento financiero. | Muhasebe raporunu finans departmanına gönderdim.
-la junta de accionistas | hissedarlar kurulu | isim (d) | La junta de accionistas aprobo el balance anual. | Hissedarlar kurulu yıllık bilançoyu onayladı.
-el plan de negocios | iş planı | isim (e) | Presentaron un plan de negocios innovador al inversor. | Yatırımcıya yenilikçi bir iş planı sundular.
-el ejercicio comercial | ticari faaliyet dönemi | isim (e) | El ejercicio comercial cerro con beneficios netos. | Ticari faaliyet dönemi net kârla kapandı.
-la facturacion anual | yıllık faturalandırma, ciro | isim (d) | La facturacion anual de la empresa crecio un diez por ciento. | Şirketin yıllık cirosu yüzde on arttı.
-el margen de ganancia | kâr marjı | isim (e) | Debemos aumentar el margen de ganancia este ano. | Bu yıl kâr marjını artırmalıyız.
-la estrategia comercial | ticari strateji | isim (d) | Discutieron la nueva estrategia comercial en la reunion. | Toplantıda yeni ticari stratejiyi tartıştılar.
-## Ekonomi politikaları
-la maxima autoridad monetaria | en üst para otoritesi | isim (d) | La maxima autoridad monetaria regula el sistema de pagos. | En üst para otoritesi ödeme sistemini düzenler.
-la politica fiscal | maliye politikası | isim (e) | El gobierno anuncio una nueva politica fiscal estricta. | Hükümet yeni ve katı bir maliye politikası duyurdu.
-el presupuesto nacional | ulusal bütçe | isim (e) | El parlamento debate el presupuesto nacional del proximo ano. | Parlamento gelecek yılın ulusal bütçesini tartışıyor.
-el impuesto directo | dolaysız vergi | isim (e) | El impuesto directo grava las rentas de las personas. | Dolaysız vergi kişilerin gelirlerini vergilendirir.
-la tasa impositiva | vergi oranı | isim (d) | Modificaron la tasa impositiva para atraer inversiones. | Yatırımları çekmek için vergi oranını değiştirdiler.
-la recession economica | ekonomik durgunluk, resesyon | isim (d) | Superaron la recession economica con reformas estructurales. | Ekonomik durgunluğu yapısal reformlarla atlattılar.
-el crecimiento economico | ekonomik büyüme | isim (e) | El crecimiento economico genero nuevos puestos de trabajo. | Ekonomik büyüme yeni iş imkanları yarattı.
-la deuda soberana | kamu borcu, devlet borcu | isim (d) | Controlar la deuda soberana es vital para el estado. | Kamu borcunu kontrol etmek devlet için hayati önem taşır.
-el gasto publico | kamu harcaması | isim (e) | Reducir el gasto publico genero debate social. | Kamu harcamasını azaltmak sosyal tartışma yarattı.
-la balanza comercial | dış ticaret dengesi | isim (d) | La balanza comercial cerro con saldo positivo este trimestre. | Dış ticaret dengesi bu çeyrekte artı bakiye ile kapandı.
-## Dijital ekonomi
-la criptomoneda estable | stabil kripto para | isim (d) | Invirtio una pequena cantidad en una criptomoneda estable. | Stabil kripto para birimine küçük bir miktar yatırım yaptı.
-el dinero digital | dijital para | isim (e) | El uso de dinero digital reemplaza al efectivo tradicional. | Dijital para kullanımı geleneksel nakdin yerini alıyor.
-la pasarela de pago | ödeme geçidi | isim (d) | La tienda online instalo una nueva pasarela de pago. | Çevrim içi mağaza yeni bir ödeme geçidi kurdu.
-el comercio electronico | elektronik ticaret, e-ticaret | isim (e) | El comercio electronico no para de crecer globalmente. | Elektronik ticaret küresel olarak büyümekten vazgeçmiyor.
-la billetera virtual | sanal cüzdan | isim (d) | Pago las compras cotidianas usando su billetera virtual. | Günlük alışverişlerin ödemesini sanal cüzdanını kullanarak yapıyor.
-la transaccion digital | dijital işlem | isim (d) | Cada transaccion digital queda registrada de forma segura. | Her dijital işlem güvenli bir şekilde kaydedilir.
-la ciberseguridad financiera | finansal siber güvenlik | isim (d) | Invierten mucho en ciberseguridad financiera. | Finansal siber güvenceye çok yatırım yapıyorlar.
-el fraude electronico | elektronik dolandırıcılık | isim (e) | Debemos prevenir cualquier intento de fraude electronico. | Her türlü elektronik dolandırıcılık girişimini önlemeliyiz.
-la autorizacion certificada | onaylı yetkilendirme | isim (e) | Firmo el contrato oficial usando una autorizacion certificada. | Sertifikalı bir yetkilendirme kullanarak resmi sözleşmeyi imzaladı.
-la moneda virtual | sanal para | isim (d) | Analizan la regulacion legal de la moneda virtual. | Sanal paranın yasal düzenlemesini analiz ediyorlar.
-## Finansal okuryazarlık
-la educacion financiera | finansal eğitim | isim (d) | La educacion financiera deberia ensenarse en los colegios. | Finansal eğitim okullarda öğretilmelidir.
-el asesor economico | ekonomik danışman | isim (e) | Contrato a un asesor economico para gestionar su fortuna. | Servetini yönetmek için bir ekonomik danışman tuttu.
-la planificacion patrimonial | mal varlığı planlaması | isim (d) | Una buena planificacion patrimonial asegura el futuro familiar. | İyi bir mal varlığı planlaması aile geleceğini güvence altına alır.
-el riesgo calculado | hesaplanmış risk | isim (e) | Todo gran negocio requiere asumir un riesgo calculado. | Her büyük iş, hesaplanmış bir riski üstlenmeyi gerektirir.
-la independencia financiera | finansal bağımsızlık | isim (d) | Su meta principal es lograr la independencia financiera. | Temel hedefi finansal bağımsızlığı elde etmektir.
-el habito de ahorrar | biriktirme alışkanlığı | isim (e) | Fomentar el habito de ahorrar es clave desde joven. | Biriktirme alışkanlığını teşvik etmek genç yaştan itibaren anahtardır.
-la vision estrategica | stratejik vizyon | isim (d) | El director demuestra una gran vision estrategica. | Müdür büyük bir stratejik vizyon gösteriyor.
-el analisis de mercado | piyasa analizi | isim (e) | Realizo un analisis de mercado antes de lanzar el producto. | Ürünü piyasaya sürmeden önce bir piyasa analizi yaptı.
-el conocimiento basico | temel bilgi | isim (e) | Tener un conocimiento basico de economia ayuda muchisimo. | Temel ekonomi bilgisine sahip olmak çok yardımcı olur.
-la sabiduria popular | halk bilgeliği, ata sözü bilgeliği | isim (d) | La sabiduria popular aconseja no gastar mas de lo ingresado. | Halk bilgeliği, kazanılandan fazlasını harcamamayı tavsiye eder.
+## Kişisel bütçe
+el gasto fijo | sabit gider | isim (e) | El alquiler es nuestro mayor gasto fijo. | Kira en büyük sabit giderimiz.
+los ahorros | birikim | isim (çoğul) | Gasté todos mis ahorros en el viaje. | Bütün birikimimi yolculuğa harcadım.
+llegar a fin de mes | ayı çıkarmak, geçinmek | ifade | Con este sueldo no llego a fin de mes. | Bu maaşla ayı çıkaramıyorum.
+el capricho | kapris; keyfi harcama | isim (e) | Este bolso fue un capricho. | Bu çanta tamamen keyfi bir harcamaydı.
+derrochar | savurganca harcamak | fiil | No derroches el dinero en tonterías. | Parayı saçma şeylere harcama.
+ahorrador | tutumlu | sıfat | Mi madre es muy ahorradora. | Annem çok tutumludur.
+la economía doméstica | ev ekonomisi | isim (d) | Lleva muy bien la economía doméstica. | Ev ekonomisini çok iyi idare ediyor.
+la factura de la luz | elektrik faturası | isim (d) | La factura de la luz ha subido mucho. | Elektrik faturası çok arttı.
+el alquiler | kira | isim (e) | El alquiler sube cada año. | Kira her yıl artıyor.
+apretarse el cinturón | kemerleri sıkmak | deyim | Este año tenemos que apretarnos el cinturón. | Bu yıl kemerleri sıkmamız gerekiyor.
+## Banka
+la entidad bancaria | banka (kuruluşu) | isim (d) | Cambié de entidad bancaria. | Bankamı değiştirdim.
+la tarjeta de débito | banka kartı | isim (d) | Pago siempre con tarjeta de débito. | Hep banka kartıyla ödüyorum.
+la banca online | internet bankacılığı | isim (d) | Hago todo con la banca online. | Her şeyi internet bankacılığıyla yapıyorum.
+el extracto | hesap özeti | isim (e) | Revisa el extracto del mes. | Ayın hesap özetini kontrol et.
+la cuenta corriente | vadesiz hesap | isim (d) | Tengo una cuenta corriente y otra de ahorro. | Bir vadesiz bir de tasarruf hesabım var.
+domiciliar | otomatik ödeme talimatı vermek | fiil | Domicilié el recibo del gas. | Doğalgaz faturası için otomatik ödeme talimatı verdim.
+el descubierto | hesabın eksiye düşmesi | isim (e) | Tengo la cuenta en descubierto. | Hesabım eksiye düştü.
+el crédito | kredi | isim (e) | Pedimos un crédito para el coche. | Araba için kredi çektik.
+la cuota | taksit; aidat | isim (d) | Pago una cuota de doscientos euros al mes. | Ayda iki yüz avro taksit ödüyorum.
+a plazos | taksitle | ifade | Compré la nevera a plazos. | Buzdolabını taksitle aldım.
+## Piyasa ve yatırım
+el mercado de valores | borsa, menkul kıymetler piyasası | isim (e) | El mercado de valores cayó hoy. | Borsa bugün düştü.
+las acciones | hisse senetleri | isim (çoğul) | Compró acciones de una empresa española. | Bir İspanyol şirketinin hisselerini aldı.
+el inversor | yatırımcı | isim (e) | Los inversores están nerviosos. | Yatırımcılar tedirgin.
+la rentabilidad | getiri, kârlılık | isim (d) | Este fondo tiene poca rentabilidad. | Bu fonun getirisi düşük.
+la cotización | (borsa) değeri, kur | isim (d) | La cotización del euro subió ayer. | Avronun değeri dün yükseldi.
+la bajada | düşüş | isim (d) | La bajada de la bolsa preocupa a todos. | Borsadaki düşüş herkesi endişelendiriyor.
+el fondo de inversión | yatırım fonu | isim (e) | Invertí en un fondo de inversión. | Bir yatırım fonuna yatırım yaptım.
+el oro | altın | isim (e) | El oro es una inversión segura. | Altın güvenli bir yatırımdır.
+la divisa | döviz | isim (d) | El dólar es la divisa más usada. | Dolar en çok kullanılan döviz.
+el tipo de cambio | döviz kuru | isim (e) | ¿Cuál es el tipo de cambio hoy? | Bugün döviz kuru ne?
+## Ekonomi
+la economía | ekonomi | isim (d) | La economía del país crece despacio. | Ülke ekonomisi yavaş büyüyor.
+la inflación | enflasyon | isim (d) | La inflación sube los precios. | Enflasyon fiyatları yükseltiyor.
+la recesión | durgunluk, resesyon | isim (d) | El país salió de la recesión. | Ülke durgunluktan çıktı.
+el crecimiento | büyüme | isim (e) | El crecimiento económico fue del dos por ciento. | Ekonomik büyüme yüzde iki oldu.
+el paro | işsizlik (İspanya) | isim (e) | Mi primo está en el paro. | Kuzenim işsiz.
+el poder adquisitivo | alım gücü | isim (e) | Con la inflación perdemos poder adquisitivo. | Enflasyonla alım gücümüzü kaybediyoruz.
+el nivel de vida | yaşam standardı | isim (e) | El nivel de vida es alto en esta región. | Bu bölgede yaşam standardı yüksek.
+la riqueza | zenginlik | isim (d) | La riqueza está mal repartida. | Zenginlik adaletsiz dağılmış.
+la pobreza | yoksulluk | isim (d) | Muchas familias viven en la pobreza. | Birçok aile yoksulluk içinde yaşıyor.
+el PIB | GSYH (gayri safi yurt içi hasıla) | isim (e) | El PIB creció este año. | GSYH bu yıl arttı.
+## Tüketim
+consumir | tüketmek | fiil | Consumimos demasiada energía. | Çok fazla enerji tüketiyoruz.
+el cupón | kupon | isim (e) | Tengo un cupón de descuento. | İndirim kuponum var.
+la devolución | iade | isim (d) | Pedí la devolución del dinero. | Para iadesi istedim.
+el reembolso | geri ödeme | isim (e) | El reembolso tarda una semana. | Geri ödeme bir hafta sürüyor.
+la reclamación | şikâyet, talep | isim (d) | Hice una reclamación por el producto roto. | Bozuk ürün için şikâyette bulundum.
+el consumismo | tüketim çılgınlığı | isim (e) | El consumismo daña el planeta. | Tüketim çılgınlığı gezegene zarar veriyor.
+la compra online | internet alışverişi | isim (d) | La compra online es muy cómoda. | İnternet alışverişi çok rahat.
+el envío gratuito | ücretsiz kargo | isim (e) | El envío gratuito es para pedidos de más de treinta euros. | Ücretsiz kargo otuz avro üzeri siparişler için.
+el pedido | sipariş | isim (e) | Mi pedido llega mañana. | Siparişim yarın geliyor.
+la relación calidad-precio | fiyat-performans | isim (d) | Este móvil tiene buena relación calidad-precio. | Bu telefonun fiyat-performansı iyi.
+## Vergiler
+Hacienda | maliye, vergi dairesi | isim (d) | Hacienda revisa nuestras cuentas. | Maliye hesaplarımızı inceliyor.
+la declaración de la renta | gelir vergisi beyannamesi | isim (d) | Hago la declaración de la renta en mayo. | Gelir vergisi beyannamesini mayısta veriyorum.
+el IVA | KDV | isim (e) | El precio incluye el IVA. | Fiyata KDV dahil.
+la renta | gelir; kira | isim (d) | Paga impuestos según su renta. | Gelirine göre vergi ödüyor.
+el contribuyente | vergi mükellefi | isim (e) | Los contribuyentes pagan cada año. | Mükellefler her yıl ödeme yapar.
+desgravar | vergiden düşmek | fiil | Este gasto desgrava. | Bu harcama vergiden düşülebilir.
+el fraude fiscal | vergi kaçakçılığı | isim (e) | El fraude fiscal es un delito. | Vergi kaçakçılığı bir suçtur.
+la subvención | devlet desteği, hibe | isim (d) | Recibió una subvención para su negocio. | İşi için devlet desteği aldı.
+la ayuda | yardım | isim (d) | El gobierno da ayudas a las familias. | Hükümet ailelere yardım veriyor.
+el gasto público | kamu harcaması | isim (e) | El gasto público en educación aumentó. | Eğitime yönelik kamu harcaması arttı.
+## Dijital ödeme
+el pago | ödeme | isim (e) | El pago se hace por internet. | Ödeme internetten yapılıyor.
+pagar con el móvil | telefonla ödemek | ifade | Ahora pago con el móvil en todas partes. | Artık her yerde telefonla ödüyorum.
+el monedero electrónico | dijital cüzdan | isim (e) | Uso un monedero electrónico para compras pequeñas. | Küçük alışverişlerde dijital cüzdan kullanıyorum.
+la criptomoneda | kripto para | isim (d) | Las criptomonedas son muy volátiles. | Kripto paralar çok dalgalıdır.
+sin contacto | temassız | ifade | Pagué sin contacto con la tarjeta. | Kartla temassız ödedim.
+el fraude | dolandırıcılık | isim (e) | Cuidado con el fraude en internet. | İnternette dolandırıcılığa dikkat et.
+el comercio electrónico | e-ticaret | isim (e) | El comercio electrónico crece cada año. | E-ticaret her yıl büyüyor.
+la tienda online | internet mağazası | isim (d) | Compré las zapatillas en una tienda online. | Spor ayakkabıları bir internet mağazasından aldım.
+la verificación | doğrulama | isim (d) | El banco pide un código de verificación. | Banka doğrulama kodu istiyor.
+el efectivo | nakit | isim (e) | Cada vez usamos menos efectivo. | Giderek daha az nakit kullanıyoruz.
+## Gelir ve servet
+la paga extra | ikramiye | isim (d) | En diciembre cobramos la paga extra. | Aralıkta ikramiye alıyoruz.
+las ganancias | kazanç | isim (çoğul) | Las ganancias del año fueron buenas. | Yılın kazancı iyiydi.
+ganar dinero | para kazanmak | ifade | Quiere ganar dinero rápido. | Hızlıca para kazanmak istiyor.
+mantener (mantengo) | geçindirmek; korumak | fiil · düzensiz | Mantiene a toda su familia. | Bütün ailesini geçindiriyor.
+la propiedad | mülk; mülkiyet | isim (d) | Tiene varias propiedades en la costa. | Sahilde birkaç mülkü var.
+los bienes | mal varlığı | isim (çoğul) | Dejó todos sus bienes a sus hijos. | Bütün mal varlığını çocuklarına bıraktı.
+adinerado | varlıklı | sıfat | Viene de una familia adinerada. | Varlıklı bir aileden geliyor.
+pobre | yoksul; zavallı | sıfat | Creció en un barrio pobre. | Yoksul bir mahallede büyüdü.
+millonario | milyoner | sıfat | Si fuera millonario, viajaría por el mundo. | Milyoner olsam dünyayı gezerdim.
+la fortuna | servet; şans | isim (d) | Gastó una fortuna en su casa. | Evine bir servet harcadı.
+## Sigorta ve emeklilik
+la póliza | poliçe | isim (d) | Lee bien la póliza antes de firmar. | İmzalamadan önce poliçeyi iyice oku.
+la aseguradora | sigorta şirketi | isim (d) | La aseguradora pagó los daños. | Sigorta şirketi hasarı ödedi.
+asegurar | sigortalamak; güvence altına almak | fiil | Aseguré el coche a todo riesgo. | Arabaya kasko yaptırdım.
+el plan de pensiones | bireysel emeklilik planı | isim (e) | Tengo un plan de pensiones privado. | Özel bir bireysel emeklilik planım var.
+jubilarse | emekli olmak | fiil · dönüşlü | Mi padre se jubila el año que viene. | Babam gelecek yıl emekli oluyor.
+la indemnización | tazminat | isim (d) | Recibió una indemnización por el despido. | İşten çıkarıldığı için tazminat aldı.
+el siniestro | hasar (sigorta) | isim (e) | El seguro cubre el siniestro. | Sigorta hasarı karşılıyor.
+la cobertura | teminat; kapsama | isim (d) | Esta póliza tiene buena cobertura. | Bu poliçenin teminatı iyi.
+cotizar | prim ödemek (sosyal güvenlik) | fiil | Llevo quince años cotizando. | On beş yıldır prim ödüyorum.
+la Seguridad Social | Sosyal Güvenlik | isim (d) | La Seguridad Social paga las pensiones. | Emekli maaşlarını Sosyal Güvenlik ödüyor.
+## Para deyimleri
+costar un ojo de la cara | çok pahalı olmak | deyim | Este coche cuesta un ojo de la cara. | Bu araba ateş pahası.
+estar sin blanca | meteliksiz olmak | deyim | Estoy sin blanca hasta el lunes. | Pazartesiye kadar meteliksizim.
+tirar la casa por la ventana | parayı su gibi harcamak | deyim | En la boda tiraron la casa por la ventana. | Düğünde parayı su gibi harcadılar.
+salir caro | pahalıya patlamak | ifade | Ese error nos salió caro. | O hata bize pahalıya patladı.
+a buen precio | uygun fiyata | ifade | Compré el sofá a buen precio. | Kanepeyi uygun fiyata aldım.
+de segunda mano | ikinci el | ifade | Compré una bici de segunda mano. | İkinci el bir bisiklet aldım.
+regatear | pazarlık etmek | fiil | En el mercado puedes regatear. | Pazarda pazarlık edebilirsin.
+el chollo | kelepir (konuşma dili) | isim (e) | ¡Este vuelo es un chollo! | Bu uçuş tam kelepir!
+forrado | çok zengin (konuşma dili) | sıfat | Su tío está forrado. | Amcası para babası.
+pagar a medias | masrafı yarı yarıya ödemek | ifade | Pagamos la cena a medias. | Akşam yemeğini yarı yarıya ödedik.

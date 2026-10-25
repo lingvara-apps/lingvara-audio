@@ -8,8 +8,8 @@ el feedback | geri bildirim | isim (e) | El jefe dio un feedback positivo al equ
 el deadline | son teslim tarihi | isim (e) | El deadline del proyecto es el viernes. | Projenin son teslim tarihi cuma günü.
 el target | hedef kitle | isim (e) | Debemos definir bien el target del producto. | Ürünün hedef kitlesini iyi belirlemeliyiz.
 el management | yönetim | isim (e) | El management aprobó la nueva estrategia. | Yönetim yeni stratejiyi onayladı.
-el b2b | işletmeler arası ticaret | isim (e) | La empresa se centra en el sector b2b. | Şirket b2b sektörüne odaklanıyor.
-el b2c | tüketiciye yönelik ticaret | isim (e) | El modelo b2c requiere mucha publicidad. | B2c modeli çok fazla reklam gerektirir.
+la call | (iş) çağrısı, toplantı araması | isim (d) | Tengo una call con el cliente a las diez. | Saat onda müşteriyle bir görüşmem var.
+agendar | takvime koymak | fiil | Agendamos una reunión para el jueves. | Perşembe için bir toplantı ayarladık.
 ## Yazılım dili ve kodlama
 el commit | kod kaydetme, onaylama | isim (e) | Hice un commit antes de salir. | Çıkmadan önce bir kod kaydı yaptım.
 el merge | kod birleştirme | isim (e) | El merge causó algunos conflictos en el código. | Kod birleştirme, kodda bazı çakışmalara neden oldu.
@@ -19,29 +19,29 @@ el deploy | yayına alma, dağıtım | isim (e) | El deploy a producción será 
 el sprint | çevik geliştirme dönemi | isim (e) | Terminamos el sprint con éxito. | Çevik geliştirme dönemini başarıyla bitirdik.
 el back-end | arka uç | isim (e) | Ella trabaja como desarrolladora de back-end. | O, arka uç geliştiricisi olarak çalışıyor.
 el front-end | ön uç | isim (e) | El front-end debe ser muy intuitivo. | Ön ucun çok sezgisel olması gerekir.
-el stack | teknoloji yığın | isim (e) | Nuestro stack incluye Python y React. | Teknoloji yığınımız Python ve React'i içeriyor.
+el stack | teknoloji yığını | isim (e) | Nuestro stack incluye tres lenguajes de programación. | Teknoloji yığınımız üç programlama dili içeriyor.
 el script | betik, komut dosyası | isim (e) | Escribí un script para automatizar tareas. | Görevleri otomatikleştirmek için bir betik yazdım.
 ## Sunucu ve veri tabanı
 el cluster | küme, sunucu kümesi | isim (e) | El cluster maneja millones de peticiones. | Sunucu kümesi milyonlarca isteği yönetiyor.
 el backup | yedekleme | isim (e) | El backup automático se ejecuta de madrugada. | Otomatik yedekleme sabaha karşı çalışır.
 el uptime | çalışma süresi | isim (e) | El servidor tiene un uptime del noventa y nueve por ciento. | Sunucunun yüzde doksan dokuzluk bir çalışma süresi var.
 el log | günlük dosyası, kayıt | isim (e) | Revisé el log para buscar errores. | Hataları aramak için günlük dosyasını inceledim.
-el script de base de datos | veri tabanı betiği | ifade | Ejecuté el script de base de datos ayer. | Dün veri tabanı betiğini çalıştırdım.
+el entorno de pruebas | test ortamı | isim (e) | Probamos los cambios en el entorno de pruebas. | Değişiklikleri test ortamında denedik.
 el query | sorgu | isim (e) | La query tardó demasiado en responder. | Sorgunun yanıt vermesi çok uzun sürdü.
 el cache | önbellek | isim (e) | Limpiar el cache solucionó el problema. | Önbelleği temizlemek sorunu çözdü.
 el hosting | barındırma hizmeti | isim (e) | Contratamos un hosting más potente. | Daha güçlü bir barındırma hizmeti kiraladık.
 el dominio web | alan adı | isim (e) | El dominio web está registrado por dos años. | Alan adı iki yıllığına kaydedildi.
 el firewall | güvenlik duvarı | isim (e) | El firewall bloqueó el acceso sospechoso. | Güvenlik duvarı şüpheli erişimi engelledi.
-## Donanım ve ağlar
-el router | yönlendirici | isim (e) | Reinicié el router para recuperar la conexión. | Bağlantıyı yeniden kurmak için yönlendiriciyi yeniden başlattım.
+## Destek ve altyapı
+la incidencia | arıza kaydı, sorun | isim (d) | Abre una incidencia en el sistema. | Sistemde bir arıza kaydı aç.
 el switch | anahtar cihazı | isim (e) | El switch conecta todos los ordenadores de la oficina. | Anahtar cihazı ofisteki tüm bilgisayarları birbirine bağlıyor.
-el hardware | donanım | isim (e) | Actualizamos el hardware de los equipos. | Ekipmanların donanımını güncelledik.
+el ticket | destek talebi | isim (e) | El ticket lleva tres días sin respuesta. | Destek talebi üç gündür yanıtsız.
 el firmware | donanım yazılımı | isim (e) | Es necesario actualizar el firmware de la cámara. | Kameranın donanım yazılımını güncellemek gereklidir.
-el puerto | bağlantı noktası, port | isim (e) | El puerto USB dejó de funcionar. | USB bağlantı noktası çalışmayı durdurdu.
-el protocolo de red | ağ protokolü | ifade | Configuramos el protocolo de red de forma segura. | Ağ protokolünü güvenli bir şekilde yapılandırdık.
-el ancho de banda | bant genişliği | ifade | El ancho de banda actual es insuficiente. | Mevcut bant genişliği yetersizdir.
+el hotfix | acil yama | isim (e) | Subieron un hotfix a medianoche. | Gece yarısı acil bir yama yüklediler.
+el protocolo de red | ağ protokolü | isim (e) | Configuramos el protocolo de red de forma segura. | Ağ protokolünü güvenli bir şekilde yapılandırdık.
+el ancho de banda | bant genişliği | isim (e) | El ancho de banda actual es insuficiente. | Mevcut bant genişliği yetersizdir.
 el conector | bağlayıcı, soket | isim (e) | El conector de red está roto. | Ağ bağlayıcı kırık.
-el dispositivo | cihaz | isim (e) | Conectó un nuevo dispositivo al sistema. | Sisteme yeni bir cihaz bağladı.
+el informático | bilgisayarcı | isim (e) | Llama al informático, la impresora no funciona. | Bilgisayarcıyı ara, yazıcı çalışmıyor.
 el monitor | monitör, ekran | isim (e) | El monitor parpadea constantemente. | Monitör sürekli yanıp sönüyor.
 ## Siber güvenlik
 el malware | kötü amaçlı yazılım | isim (e) | El antivirus detectó un malware peligroso. | Antivirüs tehlikeli bir kötü amaçlı yazılım tespit etti.
@@ -53,7 +53,7 @@ el keylogger | tuş kaydedici | isim (e) | Descubrieron un keylogger en el tecla
 el sniffer | paket yakalayıcı | isim (e) | Usaron un sniffer para interceptar tráfico de red. | Ağ trafiğini ele geçirmek için paket yakalayıcı kullandılar.
 el honeypot | bal küpü (tuzak sunucu) | isim (e) | Instalaron un honeypot para cazar atacantes. | Saldırganları yakalamak için bir bal küpü kurdular.
 el proxy | vekil sunucu | isim (e) | Navegan a través de un proxy seguro. | Güvenli bir vekil sunucu üzerinden geziniyorlar.
-el certificado ssl | ssl sertifikası | ifade | El sitio web necesita renovar su certificado ssl. | Web sitesinin ssl sertifikasını yenilemesi gerekiyor.
+el certificado SSL | SSL sertifikası | isim (e) | La web necesita renovar su certificado SSL. | İnternet sitesinin SSL sertifikasını yenilemesi gerekiyor.
 ## Proje yönetimi metodolojileri
 el scrum | çevik çerçeve | isim (e) | Aplicamos scrum en el desarrollo del software. | Yazılım geliştirilmesinde çevik çerçeve uyguluyoruz.
 el kanban | görsel iş akışı tahtası | isim (e) | Usamos kanban para organizar las tareas diarias. | Günlük görevleri düzenlemek için görsel iş akışı tahtası kullanıyoruz.
@@ -66,46 +66,46 @@ el scope | proje kapsamı | isim (e) | Debemos evitar que el scope aumente sin c
 el kickoff | başlangıç toplantısı | isim (e) | El kickoff del proyecto será el lunes. | Projenin başlangıç toplantısı pazartesi günü olacak.
 el release | sürüm yayını | isim (e) | El release incluye nuevas funcionalidades. | Sürüm yayını yeni işlevler içeriyor.
 ## Kurumsal unvanlar ve roller
-el cto | teknoloji direktörü | isim (e) | El cto lideró la transformación digital. | Teknoloji direktörü dijital dönüşüme liderlik etti.
+el jefazo | büyük patron | isim (e) | El jefazo viene a la oficina mañana. | Büyük patron yarın ofise geliyor.
 el ceo | icra kurulu başkanı | isim (e) | El ceo anunció una expansión internacional. | İcra kurulu başkanı uluslararası bir genişleme duyurdu.
 el cfo | mali işler direktörü | isim (e) | El cfo revisó el presupuesto anual. | Mali işler direktörü yıllık bütçeyi inceledi.
-el coo | operasyon direktörü | isim (e) | El coo optimizó la cadena de suministro. | Operasyon direktörü tedarik zincirini optimize etti.
-el ciso | bilgi güvenliği direktörü | isim (e) | El ciso implementó nuevas políticas de seguridad. | Bilgi güvenliği direktörü yeni güvenlik politikaları uyguladı.
-el product manager | ürün yöneticísi | isim (e) | El product manager entrevistó a los usuarios. | Ürün yöneticisi kullanıcılarla röportaj yaptı.
+el mandamás | en yetkili kişi | isim (e) | Aquí el mandamás es el director financiero. | Burada en yetkili kişi mali işler direktörü.
+el trepa | kariyerci, yükselmek için her şeyi yapan | isim (e) | No te fíes de él, es un trepa. | Ona güvenme, yükselmek için her şeyi yapar.
+el product manager | ürün yöneticisi | isim (e) | El product manager entrevistó a los usuarios. | Ürün yöneticisi kullanıcılarla röportaj yaptı.
 el team lead | takım lideri | isim (e) | El team lead asignó las nuevas tareas. | Takım lideri yeni görevleri atadı.
 el junior | kıdemsiz çalışan | isim (e) | Contrataron a un programador junior. | Kıdemsiz bir programcı işe aldılar.
 el senior | kıdemli çalışan | isim (e) | El arquitecto senior diseñó la infraestructura. | Kıdemli mimar altyapıyı tasarladı.
 el freelancer | serbest çalışan | isim (e) | Prefiere trabajar como freelancer desde casa. | Evden serbest çalışan olarak çalışmayı tercih ediyor.
-## Finansal jargon ve para argosu
-el cash | nakit para | isim (e) | Prefieren pagos en cash para transacciones rápidas. | Hızlı işlemler için nakit ödemeleri tercih ediyorlar.
-el ftx | kripto borsa adı (jargonik) | isim (e) | Perdió dinero tras el colapso del ftx. | Ftx'in çöküşünden sonra para kaybetti.
-el exchange | kripto para borsası | isim (e) | Transfirió sus fondos a un exchange seguro. | Fonlarını güvenli bir kripto para borsasına aktardı.
-el holding | holding şirketi | isim (e) | El holding posee varias filiales tecnológicas. | Holding şirketi birkaç teknoloji yan kuruluşuna sahip.
+## Para argosu
+la guita | para (argo) | isim (d) | No tengo guita para el viaje. | Yolculuk için param yok.
+las pelas | para (argo, eski) | isim (çoğul) | Eso cuesta muchas pelas. | O çok para tutar.
+un pastón | bir servet | ifade | Se gastó un pastón en el coche. | Arabaya bir servet harcadı.
+costar un pico | epey pahalı olmak | ifade | La reforma nos ha costado un pico. | Tadilat bize epey pahalıya patladı.
 el cashflow | nakit akışı | isim (e) | El cashflow mensual es positivo este trimestre. | Aylık nakit akışı bu çeyrekte olumludur.
-el asset | varlık, kıymet | isim (e) | Diversificaron sus assets en diferentes mercados. | Varlıklarını farklı pazarlarda çeşitlendirdiler.
-el revenue | gelir, hasılat | isim (e) | El revenue anual superó las expectativas. | Yıllık gelir beklentileri aştı.
-el startup funding | girişim finansmanı | ifade | Consiguieron startup funding de inversores ángeles. | Melek yatırımcılardan girişim finansmanı aldılar.
-el venture capital | risk sermayesi | isim (e) | El fondo de venture capital financió la expansión. | Risk sermayesi fonu genişlemeyi finanse etti.
-el token | dijital token, jeton | isim (e) | Lanzaron un nuevo token en la red blockchain. | Blok zinciri ağında yeni bir token piyasaya sürdüler.
+estar forrado | zengin olmak, para içinde yüzmek | ifade | Su familia está forrada. | Ailesi para içinde yüzüyor.
+soltar la pasta | parayı bayılmak | ifade | Al final tuvo que soltar la pasta. | Sonunda parayı bayılmak zorunda kaldı.
+pagar a escote | hesabı paylaşmak | ifade | La cena la pagamos a escote. | Akşam yemeğinin hesabını paylaştık.
+el dinero negro | kara para, kayıt dışı para | isim (e) | Le pagaban parte del sueldo en dinero negro. | Maaşının bir kısmını kayıt dışı ödüyorlardı.
+pagar en negro | kayıt dışı ödemek | ifade | Es ilegal pagar en negro a los empleados. | Çalışanlara kayıt dışı ödeme yapmak yasa dışıdır.
 ## Pazarlama ve satış argosu
-el growth hacking | büyüme korsanlığı | isim (e) | Aplicaron tácticas de growth hacking para crecer rápido. | Hızlı büyümek için büyüme korsanlığı taktikleri uyguladılar.
-el lead | potansidel müşteri adayı | isim (e) | La campaña generó quinientos leads nuevos. | Kampanya beş yüz yeni potansiyel müşteri adayı üretti.
+el brainstorming | beyin fırtınası | isim (e) | Hicimos un brainstorming para el nombre del producto. | Ürünün adı için beyin fırtınası yaptık.
+el lead | potansiyel müşteri adayı | isim (e) | La campaña generó quinientos leads nuevos. | Kampanya beş yüz yeni potansiyel müşteri adayı üretti.
 el funnel | dönüşüm hunisi | isim (e) | Analizaron el funnel de ventas detalladamente. | Satış dönüşüm hunisini ayrıntılı olarak analiz ettiler.
-el bounce rate | hemen çıkma oranı | isim (e) | El sitio web tiene un bounce rate elevado. | Web sitesinin hemen çıkma oranı yüksek.
-el conversion rate | dönüşüm oranı | isim (e) | Mejorar la página aumentó el conversion rate. | Sayfayı geliştirmek dönüşüm oranını artırdı.
+el benchmark | kıyaslama | isim (e) | Hicimos un benchmark de la competencia. | Rakiplerin kıyaslamasını yaptık.
+el KPI | anahtar performans göstergesi | isim (e) | Cada equipo tiene sus propios KPI. | Her ekibin kendi performans göstergeleri var.
 el engagement | etkileşim oranı | isim (e) | Buscan aumentar el engagement en redes sociales. | Sosyal medyadaki etkileşim oranını artırmayı amaçlıyorlar.
-el click-through rate | tıklama oranı | isim (e) | El anuncio obtuvo un click-through rate excelente. | Reklam mükemmel bir tıklama oranı elde etti.
+el ROI | yatırım getirisi | isim (e) | La campaña tuvo un ROI muy bajo. | Kampanyanın yatırım getirisi çok düşüktü.
 el branding | marka bilinci oluşturma | isim (e) | Invirtieron mucho dinero en branding este año. | Bu yıl marka bilinci oluşturmaya çok para yatırdılar.
 el copywriting | metin yazarlığı | isim (e) | El copywriting persuasivo mejoró las ventas. | İkna edici metin yazarlığı satışları artırdı.
-el inbound marketing | içsel pazarlama | isim (e) | Apuestan por el inbound marketing para atraer clientes. | Müşteri çekmek için içsel pazarlamaya bahse giriyorlar.
-## İnovasyon ve gelecek teknolojileri
-el machine learning | makine öğrenimi | isim (e) | El machine learning predice tendencias de consumo. | Makine öğrenimi tüketim eğilimlerini tahmin ediyor.
-el deep learning | derin öğrenme | isim (e) | El deep learning procesa redes neuronales complejas. | Derin öğrenme karmaşık sinir ağlarını işler.
-el big data | büyük veri | isim (e) | Analizan big data para tomar decisiones estratégicas. | Stratejik kararlar almak için büyük veri analizi yapıyorlar.
-el iot (internet de las cosas) | nesnelerin interneti | isim (e) | El iot conecta electrodomésticos a internet. | Nesnelerin interneti ev aletlerini internete bağlar.
-el cloud computing | bulut bilişim | isim (e) | Migraron todos los servicios al cloud computing. | Tüm hizmetleri bulut bilişime taşıdılar.
-el edge computing | uç bilişim | isim (e) | El edge computing reduce la latencia de respuesta. | Uç bilişim yanıt gecikmesini azaltır.
-el open source | açık kaynak kodlu yazılım | isim (e) | Apoyan proyectos de open source globalmente. | Küresel olarak açık kaynak kodlu yazılım projelerini destekliyorlar.
-el saas | hizmet olarak yazılım | isim (e) | Venden software mediante un modelo saas. | Yazılımı hizmet olarak yazılım modeli aracılığıyla satıyorlar.
-el api | uygulama programlama arayüzü | isim (e) | Integraron una api de pago en la tienda online. | Çevrimiçi mağazaya bir ödeme uygulama programlama arayüzü entegre ettiler.
-el web3 | üçüncü nesil web | isim (e) | Investigan las tecnologías descentralizadas de web3. | Üçüncü nesil web'in merkeziyetsiz teknolojilerini araştırıyorlar.
+el know-how | uzmanlık bilgisi | isim (e) | La empresa compró su know-how. | Şirket onun uzmanlık bilgisini satın aldı.
+## Ofis argosu
+comerse un marrón | angarya işi üstlenmek | ifade | Siempre me como yo los marrones. | Angarya işler hep bana kalıyor.
+el enchufado | torpil ile işe giren | isim (e) | Es el enchufado del director. | Müdürün torpillisi.
+tener enchufe | torpili olmak | ifade | Consiguió el puesto porque tiene enchufe. | Torpili olduğu için o pozisyonu aldı.
+calentar la silla | işyerinde boş oturmak | ifade | No hace nada, solo calienta la silla. | Hiçbir şey yapmıyor, sadece sandalye ısıtıyor.
+escaquearse | işten kaytarmak | fiil · dönüşlü | Siempre se escaquea cuando hay trabajo. | İş olunca hep kaytarıyor.
+hacer puente | (bayramla hafta sonu arasını) köprü yapmak | ifade | Este jueves es fiesta, así que hacemos puente. | Bu perşembe tatil, o yüzden araya köprü yapıyoruz.
+ir hasta arriba | işten başını kaşıyamamak | ifade | Esta semana voy hasta arriba de trabajo. | Bu hafta işten başımı kaşıyamıyorum.
+montar un chiringuito | göstermelik iş kurmak | ifade | Montaron un chiringuito para cobrar subvenciones. | Teşvik almak için göstermelik bir iş kurdular.
+dar el pelotazo | büyük vurgun vurmak | ifade | Dio el pelotazo vendiendo su empresa. | Şirketini satarak büyük vurgun vurdu.
+la reunionitis | toplantı hastalığı | isim (d) | En esta empresa hay reunionitis. | Bu şirkette toplantı hastalığı var.

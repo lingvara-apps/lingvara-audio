@@ -2,9 +2,9 @@
 ## Diplomatik ilişkiler
 el embajador | büyükelçi | isim (e) | El embajador presentó sus credenciales al presidente. | Büyükelçi güven mektuplarını başkana sundu.
 la embajada | büyükelçilik | isim (d) | La embajada organizó una recepción oficial. | Büyükelçilik resmi bir resepsiyon düzenledi.
-el tratado | antlaşma, anlaşma | isim (o) | Ambos países firmaron un tratado de paz. | İki ülke bir barış antlaşması imzaladı.
-el pacto | pakt, uzlaşı | isim (o) | El pacto secreto fue revelado por la prensa. | Gizli uzlaşı basın tarafından açığa çıkarıldı.
-la cumbre | zirve | isim (d) | La cumbre internacional se celebra en Ginevra. | Uluslararası zirve Cenevre'de kutlanıyor.
+el tratado | antlaşma, anlaşma | isim (e) | Ambos países firmaron un tratado de paz. | İki ülke bir barış antlaşması imzaladı.
+el pacto | pakt, uzlaşı | isim (e) | El pacto secreto fue revelado por la prensa. | Gizli uzlaşı basın tarafından açığa çıkarıldı.
+la diplomacia | diplomasi | isim (d) | La diplomacia evitó una guerra. | Diplomasi bir savaşı önledi.
 la delegación | heyet, delegasyon | isim (d) | La delegación llegó anoche a la capital. | Heyet dün gece başkente vardı.
 el diplomático | diplomat | isim (e) | Un diplomático experimentado medió en el conflicto. | Deneyimli bir diplomat çatışmada arabuluculuk yaptı.
 la alianza | ittifak | isim (d) | La alianza militar garantiza la seguridad mutua. | Askeri ittifak karşılıklı güvenliği garanti ediyor.
@@ -13,99 +13,99 @@ el cónsul | konsolos | isim (e) | El cónsul atendió a los ciudadanos extranje
 ## Uluslararası kurumlar
 la organización | kuruluş, örgüt | isim (d) | La organización defiende los derechos humanos. | Kuruluş insan haklarını savunuyor.
 la convención | sözleşme, uluslararası kongre | isim (d) | La convención sobre el clima empezó hoy. | İklim sözleşmesi bugün başladı.
-el dictamen | karar, mütalaa | isim (o) | El consejo aprobó el dictamen por unanimidad. | Konsey kararı oy birliğiyle onayladı.
+el dictamen | görüş raporu, mütalaa | isim (e) | El consejo aprobó el dictamen por unanimidad. | Kurul görüş raporunu oy birliğiyle onayladı.
 la asamblea | meclis, genel kurul | isim (d) | La asamblea general votará el nuevo presupuesto. | Genel kurul yeni bütçeyi oylayacak.
 la corte | mahkeme, divan | isim (d) | La corte internacional dictó sentencia hoy. | Uluslararası divan bugün hüküm verdi.
-el consejo | konsey, kurul | isim (o) | El consejo de seguridad analiza la situación actual. | Güvenlik konseyi mevcut durumu analiz ediyor.
-la secretaría | sekreterya | isim (d) | La secretaría general preparó el informe anual. | Genel sekreterlik yıllık raporu hazırladı.
+el Consejo de Seguridad | Güvenlik Konseyi | isim (e) | El Consejo de Seguridad se reunió de urgencia. | Güvenlik Konseyi acil olarak toplandı.
+la secretaría general | genel sekreterlik | isim (d) | La secretaría general preparó el informe anual. | Genel sekreterlik yıllık raporu hazırladı.
 la federación | federasyon | isim (d) | La federación agrupa a varias naciones independientes. | Federasyon birkaç bağımsız ulusu bir araya getiriyor.
-el organismo | organizasyon, kurum | isim (o) | Este organismo regula el comercio internacional. | Bu kurum uluslararası ticareti düzenliyor.
-el comité | komite, komisyon | isim (o) | El comité investigará las irregularidades financieras. | Komite mali usulsüzlükleri soruşturacak.
+el organismo | organizasyon, kurum | isim (e) | Este organismo regula el comercio internacional. | Bu kurum uluslararası ticareti düzenliyor.
+el comité | komite, komisyon | isim (e) | El comité investigará las irregularidades financieras. | Komite mali usulsüzlükleri soruşturacak.
 ## Müzakere ve diyalog
-negociar | müzakere etmek | fiil | Las dos partes van a negociar la próxima semana. | İki taraf gelecek hafta müzakere edecek.
+el mediador | arabulucu | isim (e) | Un mediador neutral ayudó a las partes. | Tarafsız bir arabulucu taraflara yardımcı oldu.
 mediar | arabuluculuk yapmak | fiil | Un país neutral decidió mediar en la disputa. | Tarafsız bir ülke anlaşmazlıkta arabuluculuk yapmaya karar verdi.
 consensuar | ortak karara varmak | fiil | Es difícil consensuar medidas entre tantos estados. | Bu kadar devlet arasında önlemlerde ortak karara varmak zor.
 conciliar | uzlaştırmak | fiil | Buscan conciliar los intereses económicos y ecológicos. | Ekonomik ve ekolojik çıkarları uzlaştırmaya çalışıyorlar.
 ratificar | onaylamak | fiil | El parlamento debe ratificar el convenio firmado. | Parlamento imzalanan sözleşmeyi onaylamalıdır.
 rubricar | imzalamak, paraf etmek | fiil | Los ministros van a rubricar el acuerdo mañana. | Bakanlar anlaşmayı yarın imzalayacaklar.
 vetar | veto etmek | fiil | Una superpotencia puede vetar la decisión del consejo. | Bir süper güç konseyin kararını veto edebilir.
-proponer | önermek | fiil | El embajador vino a proponer una tregua temporal. | Büyükelçi geçici bir ateşkes önermeye geldi.
+el alto el fuego | ateşkes | isim (e) | Las partes acordaron un alto el fuego. | Taraflar ateşkes konusunda anlaştı.
 debatir | tartışmak, müzakere etmek | fiil | Los diputados van a debatir la ley de inmigración. | Milletvekilleri göç yasasını tartışacaklar.
-conciliar_intereses | çıkarları denkleştirmek | ifade | Lograron conciliar intereses opuestos con éxito. | Zıt çıkarları başarıyla denkleştirmeyi başardılar.
+el consenso | uzlaşı, mutabakat | isim (e) | Llegaron a un consenso tras días de diálogo. | Günlerce süren diyalogdan sonra uzlaşıya vardılar.
 ## Çatışmalar ve krizler
-la disputa_armada | silahlı çatışma | isim (d) | La disputa armada afectó a toda la región. | Silahlı çatışma tüm bölgeyi etkiledi.
-la coyuntura | kriz, elverişsiz durum | isim (d) | La coyuntura diplomática sorprendió a los analistas. | Diplomatik kriz analistleri şaşırttı.
-la tensión | gerginlik | isim (d) | La tensión fronteriza aumentó en los últimos días. | Sınır gerginliği son günlerde arttı.
+el conflicto armado | silahlı çatışma | isim (e) | El conflicto armado afectó a toda la región. | Silahlı çatışma tüm bölgeyi etkiledi.
+la coyuntura | konjonktür, şartlar | isim (d) | La coyuntura económica es difícil. | Ekonomik konjonktür zor.
+la escalada | tırmanma (gerginlik) | isim (d) | Temen una escalada de la violencia. | Şiddetin tırmanmasından korkuyorlar.
 la disputa | anlaşmazlık, çekişme | isim (d) | La disputa territorial continúa sin solución clara. | Toprak anlaşmazlığı net bir çözüm olmadan devam ediyor.
-la amenaza | tehdit | isim (d) | Rechazamos cualquier amenaza a la soberanía nacional. | Ulusal egemenliğe yönelik her türlü tehdidi reddediyoruz.
-la sanción | yaptırım | isim (d) | Impusieron duras sanciones económicas al régimen. | Rejime ağır ekonomik yaptırımlar uyguladılar.
-el embargo | ambargo | isim (o) | El embargo comercial paralizó la importación. | Ticari ambargo ithalatı felç etti.
+amenazar | tehdit etmek | fiil | Amenazaron con romper las negociaciones. | Müzakereleri bozmakla tehdit ettiler.
+sancionar | yaptırım uygulamak, cezalandırmak | fiil | Decidieron sancionar a las empresas implicadas. | İlgili şirketlere yaptırım uygulamaya karar verdiler.
+el embargo | ambargo | isim (e) | El embargo comercial paralizó la importación. | Ticari ambargo ithalatı felç etti.
 la ruptura | kopuş, bozulma | isim (d) | La ruptura de relaciones diplomáticas era inminente. | Diplomatik ilişkilerin kopması kaçınılmazdı.
 la confrontación | yüzleşme, çatışma | isim (d) | Evitaron una confrontación directa entre los ejércitos. | Ordular arasında doğrudan bir çatışmayı önlediler.
-el ultimátum | ültimatom | isim (o) | El gobierno emitió un ultimátum de cuarenta y ocho horas. | Hükümet kırk sekiz saatlik bir ültimatom yayınladı.
+el ultimátum | ültimatom | isim (e) | El gobierno emitió un ultimátum de cuarenta y ocho horas. | Hükümet kırk sekiz saatlik bir ültimatom yayınladı.
 ## Siyasi kavramlar
-la democracia | demokrasi | isim (d) | La democracia requiere transparencia y participación. | Demokrasi şeffaflık ve katılım gerektirir.
-la soberanía | egemenlık | isim (d) | Defienden la soberanía y la integridad territorial. | Egemenliği ve toprak bütünlüğünü savunuyorlar.
-el régimen | rejim | isim (o) | El régimen autoritario aisló al país del mundo. | Otoriter rejim ülkeyi dünyadan soyutladı.
+democrático | demokratik | sıfat | Vivimos en un sistema democrático. | Demokratik bir sistemde yaşıyoruz.
+la soberanía | egemenlik | isim (d) | Defienden la soberanía y la integridad territorial. | Egemenliği ve toprak bütünlüğünü savunuyorlar.
+el régimen | rejim | isim (e) | El régimen autoritario aisló al país del mundo. | Otoriter rejim ülkeyi dünyadan soyutladı.
 la dictadura | diktatörlük | isim (d) | La dictadura cayó tras una larga resistencia popular. | Diktatörlük uzun bir halk direnişinin ardından yıkıldı.
-la república | cumhuriyet | isim (o) | Proclamaron la república tras la caída del monarca. | Kralın düşüşünden sonra cumhuriyeti ilan ettiler.
+la república | cumhuriyet | isim (d) | Proclamaron la república tras la caída del monarca. | Kralın düşüşünden sonra cumhuriyeti ilan ettiler.
 la monarquía | monarşi | isim (d) | La monarquía constitucional garantiza la estabilidad política. | Anayasal monarşi siyasi istikrarı garanti ediyor.
-el parlamento | parlamento | isim (o) | El parlamento aprobó la nueva ley electoral. | Parlamento yeni seçim yasasını onayladı.
-la constitución | anayasa | isim (d) | La constitución protege los derechos fundamentales. | Anayasa temel hakları korur.
+el diputado | milletvekili | isim (e) | El diputado presentó una propuesta. | Milletvekili bir öneri sundu.
+el senado | senato | isim (e) | El senado aprobó la reforma. | Senato reformu onayladı.
 la reforma | reform | isim (d) | Proponen una profunda reforma del sistema judicial. | Yargı sisteminde derin bir reform öneriyorlar.
-la directriz | siyaset, izlenecek yol | isim (d) | La directriz exterior debe basarse en el diálogo. | Dış politika diyaloga dayanmalıdır.
+la política exterior | dış politika | isim (d) | La política exterior debe basarse en el diálogo. | Dış politika diyaloğa dayanmalıdır.
 ## Uluslararası hukuk
-el ordenamiento | hukuk düzeni, hak | isim (o) | El ordenamiento internacional regula las relaciones entre estados. | Uluslararası hukuk devletler arası ilişkileri düzenler.
-el tratado_bilateral | ikili anlaşma | isim (o) | Firmaron un tratado bilateral de cooperación técnica. | Teknik işbirliği üzerine ikili bir anlaşma imzaladılar.
-el privilegio | dokunulmazlık, ayrıcalık | isim (o) | Los diplomáticos gozan de privilegio diplomático. | Diplomatlar diplomatik dokunulmazlığa sahiptirler.
-la extradition | iade, suçlunun iadesi | isim (d) | Solicitaron la extradición del sospechoso principal. | Baş şüphelinin iadesini talep ettiler.
-el asilo | sığınma | isim (o) | Pidieron asilo político en la embajada extranjera. | Yabancı büyükelçilikte siyasi sığınma talebinde bulundular.
-el refugio | sığınak, mülteci durumu | isim (o) | Ofrecieron refugio a los civiles desplazados por la guerra. | Savaştan yerinden edilmiş sivillere sığınak sundular.
-el estatuto | tüzük, statü | isim (o) | El estatuto de Roma rige la corte penal internacional. | Roma tüzüğü uluslararası ceza mahkemesini yönetmektedir.
+el ordenamiento | hukuk düzeni | isim (e) | El ordenamiento internacional regula las relaciones entre estados. | Uluslararası hukuk devletler arası ilişkileri düzenler.
+bilateral | ikili, iki taraflı | sıfat | Firmaron un acuerdo bilateral de cooperación. | İkili bir iş birliği anlaşması imzaladılar.
+el privilegio | ayrıcalık | isim (e) | Los diplomáticos gozan de privilegios especiales. | Diplomatlar özel ayrıcalıklara sahiptir.
+la extradición | (suçlunun) iadesi | isim (d) | Solicitaron la extradición del sospechoso. | Şüphelinin iadesini talep ettiler.
+el asilo | sığınma | isim (e) | Pidieron asilo político en la embajada extranjera. | Yabancı büyükelçilikte siyasi sığınma talebinde bulundular.
+el refugio | sığınak, mülteci durumu | isim (e) | Ofrecieron refugio a los civiles desplazados por la guerra. | Savaştan yerinden edilmiş sivillere sığınak sundular.
+el estatuto | tüzük, statü | isim (e) | El estatuto de la organización fue reformado. | Kuruluşun tüzüğü değiştirildi.
 la jurisdicción | yargı yetkili alanı, yetki | isim (d) | Este caso está fuera de la jurisdicción nacional. | Bu dava ulusal yargı yetkisinin dışındadır.
-la demanda | dava, talep | isim (d) | Presentaron una demanda formal ante el tribunal. | Mahkemeye resmi bir dava sundular.
-la sentencia | hüküm, karar | isim (d) | La sentencia del tribunal fue justa e inapelable. | Mahkemenin hükmü adil ve temyizi kabil değildi.
+el litigio | uyuşmazlık, dava | isim (e) | El litigio entre los dos países duró años. | İki ülke arasındaki uyuşmazlık yıllarca sürdü.
+inapelable | kesin, itiraz edilemez | sıfat | La decisión del tribunal es inapelable. | Mahkemenin kararı kesindir.
 ## Jeopolitik ve güç dengeleri
 la geopolítica | jeopolitik | isim (d) | La geopolítica estudia el impacto del territorio en el poder. | Jeopolitik, toprağın güç üzerindeki etkisini inceler.
 la superpotencia | süper güç | isim (d) | La superpotencia busca mantener su influencia global. | Süper güç küresel etkisini sürdürmeye çalışıyor.
-el bloque | blok | isim (o) | El bloque occidental endureció su postura económica. | Batılı blok ekonomik duruşunu sertleştirdi.
-el influjo | etki, nüfuz | isim (o) | Ampliaron su esfera de influjo en el continente. | Kıtasal etki alanlarını genişlettiler.
+el bloque | blok | isim (e) | El bloque occidental endureció su postura económica. | Batılı blok ekonomik duruşunu sertleştirdi.
+el influjo | etki, nüfuz | isim (e) | Ampliaron su esfera de influjo en el continente. | Kıtasal etki alanlarını genişlettiler.
 la hegemonía | hegemonya | isim (d) | Luchan por evitar la hegemonía de una sola potencia. | Tek bir gücün hegemonyasını önlemek için mücadele ediyorlar.
-el contraste | rekabet, çekişme | isim (o) | El contraste tecnológico marca el siglo veintiuno. | Teknolojik rekabet yirmi birinci yüzyıla damgasını vuruyor.
-la tensión_geopolítica | jeopolitik gerginlık | isim (d) | La tensión geopolítica afecta a los mercados energéticos. | Jeopolitik gerginlik enerji piyasalarını etkiliyor.
-el equilibrio_de_poder | güç dengesi | isim (o) | Mantener el equilibrio de poder previene guerras mayores. | Güç dengesini korumak büyük savaşları önler.
+la potencia | (büyük) güç; kuvvet | isim (d) | Varias potencias compiten por la región. | Birkaç büyük güç bölge için rekabet ediyor.
+estratégico | stratejik | sıfat | El puerto tiene un valor estratégico. | Limanın stratejik bir değeri var.
+el equilibrio de poder | güç dengesi | isim (e) | Mantener el equilibrio de poder previene guerras. | Güç dengesini korumak savaşları önler.
 la desestabilización | istikrarsızlaştırma | isim (d) | Denunciaron planes de desestabilización gubernamental. | Hükümeti istikrarsızlaştırma planlarını kınadılar.
 la intervención | müdahale | isim (d) | La intervención militar fue criticada internacionalmente. | Askeri müdahale uluslararası alanda eleştirildi.
 ## Güvenlik ve savunma
-el amparo | güvenlik, himaye | isim (o) | El amparo nacional es prioridad absoluta del estado. | Ulusal güvenlik devletin mutlak önceliğidir.
-el desarme | silahsızlanma | isim (o) | Promueven tratados globales para acelerar el desarme. | Silahsızlanmayı hızlandırmak için küresel anlaşmaları teşvik ediyorlar.
-el arsenal | cephanelik | isim (o) | Redujeron su arsenal nuclear de forma verificable. | Nükleer cephaneliklerini doğrulanabilir şekilde azalttılar.
-el misil | füze | isim (o) | Probaron un nuevo sistema de defensa antimisiles. | Yeni bir füze savunma sistemi test ettiler.
-la base_militar | askeri üs | isim (d) | Acordaron el cierre gradual de la base militar. | Askeri üssün kademeli olarak kapatılmasında anlaştılar.
-la tutela | savunma, vesayet | isim (d) | El presupuesto de tutela aumentó este año. | Savunma bütçesi bu yıl arttı.
-el espionaj | casusluk | isim (o) | Descubrieron una red de espionaje industrial y político. | Endüstriyel ve siyasi bir casusluk ağı keşfettiler.
-el ciberataque | siber saldırı | isim (o) | Detectaron un ciberataque masivo contra infraestructura crítica. | Kritik altyapıya karşı masif bir siber saldırı tespit ettiler.
+la seguridad nacional | ulusal güvenlik | isim (d) | La seguridad nacional es una prioridad. | Ulusal güvenlik bir önceliktir.
+el desarme | silahsızlanma | isim (e) | Promueven tratados globales para acelerar el desarme. | Silahsızlanmayı hızlandırmak için küresel anlaşmaları teşvik ediyorlar.
+el arsenal | cephanelik | isim (e) | Redujeron su arsenal nuclear de forma verificable. | Nükleer cephaneliklerini doğrulanabilir şekilde azalttılar.
+el misil | füze | isim (e) | Probaron un nuevo sistema de defensa antimisiles. | Yeni bir füze savunma sistemi test ettiler.
+la base militar | askeri üs | isim (d) | Acordaron el cierre de la base militar. | Askeri üssün kapatılmasında anlaştılar.
+el ejército | ordu | isim (e) | El ejército ayudó tras las inundaciones. | Ordu sellerden sonra yardım etti.
+el espionaje | casusluk | isim (e) | Descubrieron una red de espionaje industrial. | Bir endüstriyel casusluk ağı ortaya çıkardılar.
+la ciberseguridad | siber güvenlik | isim (d) | Invierten mucho en ciberseguridad. | Siber güvenliğe çok yatırım yapıyorlar.
 la inteligencia | istihbarat | isim (d) | Los servicios de inteligencia previnieron el atentado. | İstihbarat servisleri saldırıyı önledi.
 la disuasión | caydırıcılık | isim (d) | La estrategia nuclear se basa en la disuasión mutua. | Nükleer strateji karşılıklı caydırıcılığa dayanmaktadır.
 ## İnsan hakları ve insani yardım
-el derecho_humano | insan hakları | isim (o) | Respetar cada derecho humano es obligación universal. | Her insan hakkına saygı duymak evrensel bir zorunluluktur.
-la organización_humanitaria | insani yardım kuruluşu | isim (d) | La organización humanitaria repartió alimentos en la zona. | İnsani yardım kuruluşu bölgede gıda dağıttı.
-el refugiado | mülteci | isim (e) | Acogieron a miles de refugiados que huían del hambre. | Açlıktan kaçan binlerce mülteciyi kabul ettiler.
-la ayuda | yardım | isim (d) | Enviaron ayuda médica urgente a las zonas afectadas. | Etkilenen bölgelere acil tıbbi yardım gönderdiler.
-la discriminación | ayrımcılık | isim (d) | Luchan contra toda forma de discriminación racial. | Her türlü ırk ayrımcılığına karşı mücadele ediyorlar.
+humanitario | insani | sıfat | La situación humanitaria es grave. | İnsani durum ciddi.
+la ayuda humanitaria | insani yardım | isim (d) | Enviaron ayuda humanitaria a la zona. | Bölgeye insani yardım gönderdiler.
+el desplazado | yerinden edilmiş kişi | isim (e) | Miles de desplazados viven en campamentos. | Binlerce yerinden edilmiş kişi kamplarda yaşıyor.
+el campamento | kamp | isim (e) | El campamento acoge a mil familias. | Kamp bin aileyi barındırıyor.
+la xenofobia | yabancı düşmanlığı | isim (d) | Luchan contra la xenofobia. | Yabancı düşmanlığına karşı mücadele ediyorlar.
 la persecución | zulüm, takibat | isim (d) | Huyó del país para escapar de la persecución política. | Siyasi zulümden kaçmak için ülkeden kaçtı.
 el comisionado | komiser, yüksek temsilci | isim (e) | El comisionado de la ONU visitó los campamentos. | BM yüksek komiseri kampları ziyaret etti.
-la libertad | özgürlük | isim (d) | Exigen libertad de expresión en todo el mundo. | Dünyanın her yerinde ifade özgürlüğü talep ediyorlar.
-la dignidad | haysiyet, onur | isim (d) | Todo ciudadano merece vivir con dignidad y respeto. | Her vatandaş onur ve saygıyla yaşamayı hak eder.
-el salvamento | kurtarma | isim (o) | Coordinaron el salvamento de los náufragos en altamar. | Açık denizdeki kazazedelerin kurtarılmasını koordine ettiler.
+el exilio | sürgün | isim (e) | Vivió diez años en el exilio. | On yıl sürgünde yaşadı.
+la cooperación internacional | uluslararası iş birliği | isim (d) | La cooperación internacional es necesaria. | Uluslararası iş birliği gerekli.
+el salvamento | kurtarma | isim (e) | Coordinaron el salvamento de los náufragos en altamar. | Açık denizdeki kazazedelerin kurtarılmasını koordine ettiler.
 ## Siyasi eylemler ve protestolar
-la protesta | protesto | isim (d) | La protesta ciudadana reunió a miles de personas. | Vatandaş protestosu binlerce insanı bir araya getirdi.
+manifestarse | gösteri yapmak | fiil · dönüşlü | Miles de personas se manifestaron en la capital. | Binlerce kişi başkentte gösteri yaptı.
 la manifestación | gösteri, yürüyüş | isim (d) | La manifestación pacífica recorrió el centro urbano. | Barışçıl gösteri şehir merkezini dolaştı.
-el paro | grev, iş bırakma | isim (o) | Los trabajadores del transporte convocaron paro general. | Ulaşım işçileri genel grev ilan etti.
-el boicoteo | boykot | isim (o) | Organizaron un boicoteo contra los productos contaminantes. | Kirletici ürünlere karşı boykot organize ettiler.
+la huelga general | genel grev | isim (d) | Los sindicatos convocaron una huelga general. | Sendikalar genel grev çağrısı yaptı.
+el boicoteo | boykot | isim (e) | Organizaron un boicoteo contra los productos contaminantes. | Kirletici ürünlere karşı boykot organize ettiler.
 la resistencia | direniş | isim (d) | La resistencia civil exigió cambios democráticos inmediatos. | Sivil direniş acil demokratik değişiklikler talep etti.
-la interdicción | sansür, yasaklama | isim (d) | Bloquearon el acceso a internet para imponer interdicción. | Sansür uygulamak için internet erişimini bloke ettiler.
+la libertad de prensa | basın özgürlüğü | isim (d) | La libertad de prensa es esencial. | Basın özgürlüğü esastır.
 el activista | aktivist | isim (e) | Un conocido activista denunció la corrupción estatal. | Tanınmış bir aktivist devlet yolsuzluğunu kınadı.
 la represión | baskı, şiddetle bastırma | isim (d) | Condenaron la represión violenta de las marchas. | Yürüyüşlerin şiddetle bastırılmasını kınadılar.
-el golpe | darbe | isim (o) | El golpe de estado interrumpió el proceso constitucional. | Darbe anayasal süreci kesti.
-la revolución | devrim | isim (d) | La revolución cambió radicalmente el sistema político. | Devrim siyasi sistemi kökten değiştirdi.
+el golpe de Estado | darbe | isim (e) | El golpe de Estado interrumpió el proceso constitucional. | Darbe anayasal süreci kesintiye uğrattı.
+la transición | geçiş (dönemi) | isim (d) | La transición a la democracia fue pacífica. | Demokrasiye geçiş barışçıl oldu.

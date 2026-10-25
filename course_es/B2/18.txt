@@ -1,111 +1,111 @@
 # UNIT: Soyut kavramlar | Süreç, neden, nicelik, nitelik, ilişki
-## Süreçler
-la mutación | mutasyon | isim (d) | La mutación genética altera la especie. | Genetik mutasyon türü değiştirir.
-la alteración | bozulma, değişiklik | isim (d) | Notaron una alteración extraña en el equipo. | Ekipmanda garip bir değişiklik fark ettiler.
-la progresión | ilerleyiş, gidişat | isim (d) | Observan la progresión constante del fenómeno. | Olayın sürekli ilerleyişini gözlemliyorlar.
-el devenir | olanlar, akış, gelecek | isim (e) | El devenir histórico condiciona nuestro presente. | Tarihsel akış şimdiki zamanımızı şekillendirir.
-la transición | geçiş | isim (d) | La transición energética requiere grandes fondos. | Enerji geçişi büyük fonlar gerektirir.
-el transcurso | akış, süre, geçip gitme | isim (e) | Durante el transcurso del año hubo cambios. | Yılın akışı sırasında değişiklikler oldu.
-la mutación de ideas | fikirlerin değişimi | isim (d) | Buscan una mutación profunda en el pensamiento. | Düşüncede derin bir değişim arıyorlar.
-el curso temporal | zamanın akışı | isim (e) | El curso temporal reveló nuevos datos. | Zamanın akışı yeni veriler ortaya çıkardı.
-el transcurso de la historia | tarihin akışı | isim (e) | El transcurso de la historia cambia las naciones. | Tarihin akışı ulusları değiştirir.
-la progresión aritmética | aritmetik ilerleyiş | isim (d) | Estudian la progresión aritmética de los números. | Sayıların aritmetik ilerleyişini inceliyorlar.
-## Sebepler ve etkenler
-el motivo | sebep, gerekçe | isim (e) | El motivo exacto sigue siendo desconocido. | Kesin sebep hala bilinmiyor.
-la causa | neden, etken | isim (d) | Investigan la causa principal del accidente. | Kazanın temel nedenini araştırıyorlar.
-el origen | köken, başlangıç | isim (e) | Desconocen el origen exacto de la palabra. | Kelimenin tam kökenini bilmiyorlar.
-el detonante | tetikleyici | isim (e) | Ese discurso fue el detonante de la protesta. | O konuşma protestonun tetikleyicisi oldu.
-la raíz profunda | derin kök | isim (d) | Analizan la raíz profunda del conflicto social. | Toplumsal çatışmanın derin kökünü analiz ediyorlar.
-el porqué | sebebi, nedeni | isim (e) | Nadie comprende el porqué de su repentino silencio. | Kimse ani sessizliğinin sebebini anlamıyor.
-la procedencia | menşe, nereden geldiği | isim (d) | Verifican la procedencia legal de los fondos. | Fonların yasal menşeini doğruluyorlar.
-el factor | etken, faktör | isim (e) | El clima es un factor determinante aquí. | İklim burada belirleyici bir faktördür.
-el móvil | güdü, hareket sebebi | isim (e) | La policía busca el móvil del crimen. | Polis suçun güdüsünü arıyor.
-la chispa | kıvılcım (mecazi sebep) | isim (d) | Una pequeña chispa encendió el debate. | Küçük bir kıvılcım tartışmayı ateşledi.
-## Nicelik ve miktar
-el volumen | hacim, miktar | isim (e) | El volumen de producción superó las previsiones. | Üretim hacmi tahminleri aştı.
-la cantidad | miktar | isim (d) | Requieren una gran cantidad de recursos. | Büyük miktarda kaynak gerektiriyorlar.
-la proporción | oran, orantı | isim (d) | Mantienen una proporción justa en el reparto. | Dağıtımda adil bir oran koruyorlar.
-la magnitud | büyüklük, önem derecesi | isim (d) | Comprendieron la magnitud real del problema. | Sorunun gerçek büyüklüğünü anladılar.
-la porción | parça, pay | isim (d) | Dividieron el terreno en partes iguales. | Araziyi eşit parçalara böldüler.
-la medida | ölçü, tedbir | isim (d) | Tomaron una medida drástica para ahorrar. | Tasarruf etmek için sert bir tedbir aldılar.
-la cifra | rakam, sayı | isim (d) | La cifra total sorprendió a los analistas. | Toplam rakam analistleri şaşırttı.
-el grado | derece, aşama | isim (e) | Alcanzó un alto grado de especialización. | Yüksek bir uzmanlaşma derecesine ulaştı.
-el índice | oran, endeks | isim (e) | Publicaron el índice oficial de desempleo. | Resmi işsizlik oranını yayınladılar.
-el montante | toplam miktar | isim (e) | El montante final incluye todos los impuestos. | Nihai toplam miktar tüm vergileri içerir.
-## Nitelik ve özellik
-la cualidad | nitelik, hususiyet | isim (d) | Su mayor cualidad es la paciencia infinita. | Onun en büyük niteliği sonsuz sabrıdır.
-la propiedad física | fiziksel özellik | isim (d) | Estudian una propiedad física singular. | Benzersiz bir fiziksel özelliği inceliyorlar.
-el atributo | nitelik, özellik | isim (e) | Le asignaron un atributo especial al archivo. | Dosyaya özel bir özellik atadılar.
-la índole | huy, karakter, nitelik | isim (d) | Discutieron asuntos de índole confidencial. | Gizli nitelikteki konuları tartıştılar.
-la condición | koşul, durum | isim (d) | Aceptó el puesto bajo una sola condición. | Görevi tek bir koşul altında kabul etti.
-el carácter | karakter, yapı | isim (e) | Su carácter firme ayuda en situaciones límite. | Sert yapısı sınır durumlarda yardımcı olur.
-la esencia pura | saf öz | isim (d) | Captaron la esencia pura de la cultura local. | Yerel kültürün saf özünü yakaladılar.
-la naturaleza intrínseca | içsel doğa | isim (d) | Analizan la naturaleza intrínseca del fenómeno. | Olayın içsel doğasını analiz ediyorlar.
-el perfil técnico | teknik profil | isim (e) | Buscan un perfil técnico muy específico. | Çok spesifik bir teknik profil arıyorlar.
-el rasgo distintivo | ayırt edici özellik | isim (e) | Su generosidad es su rasgo distintivo más notable. | Cömertliği onun en belirgin ayırt edici özelliğidir.
-## İlişkiler ve bağlar
-el vínculo | bağ, ilişki | isim (e) | Fortalecieron el vínculo comercial entre ambos países. | İki ülke arasındaki ticari bağı güçlendirdiler.
-la conexión | bağlantı | isim (d) | Hallaron una conexión directa entre los casos. | Vakalar arasında doğrudan bir bağlantı buldular.
-el nexo | bağ, köprü | isim (e) | El idioma común es el nexo principal. | Ortak dil ana köprüdür.
-la relación cercana | yakın ilişki | isim (d) | Examinan la relación cercana entre dieta y salud. | Diyet ve sağlık arasındaki yakın ilişkiyi inceliyorlar.
-la correlación | korelasyon, karşılıklı ilişki | isim (d) | Demostraron una clara correlación estadística. | Net bir istatistiksel korelasyon kanıtladılar.
-el lazo | bağ, ilişki | isim (e) | Mantienen lazos estrechos de cooperación. | Yakın işbirliği bağları sürdürüyorlar.
-la dependencia | bağımlılık | isim (d) | Redujeron la dependencia energética exterior. | Dış enerji bağımlılığını azalttılar.
-la afinidad cultural | kültürel yakınlık | isim (d) | Sienten una gran afinidad cultural por el arte clásico. | Klasik sanata büyük bir kültürel yakınlık duyuyorlar.
-la correspondencia | uyum, yazışma | isim (d) | Hay plena correspondencia entre los datos. | Veriler arasında tam bir uyum var.
-el nexo cultural | kültürel köprü | isim (e) | Actúan como un nexo cultural eficaz. | Etkili bir kültürel köprü gibi hareket ediyorlar.
-## Durumlar ve haller
-la situación coyuntural | konjonktürel durum | isim (d) | Analizan la compleja situación coyuntural actual. | Mevcut karmaşık ekonomik konjonktürü analiz ediyorlar.
-el panorama | görünüm, manzara, tablo | isim (e) | El panorama político cambió de repente. | Siyasi tablo aniden değişti.
-la tesitura | durum, konum | isim (d) | Se encuentran en una tesitura muy delicada. | Çok hassas bir durum içindeler.
-la circunstancia | durum, şart | isim (d) | Adaptaron el plan a cada circunstancia. | Planı her duruma uydurdular.
-el contexto | bağlam | isim (e) | Debes interpretar la frase en su contexto. | Cümleyi bağlamı içinde yorumlamalısın.
-el escenario actual | mevcut senaryo | isim (e) | Prevén un escenario favorable para el próximo año. | Gelecek yıl için elverişli bir ortam öngörüyorlar.
-la situación | durum | isim (d) | Controlan la situación de riesgo inminente. | Yaklaşan risk durumunu kontrol ediyorlar.
-el estatus | statü | isim (e) | Reclamaban un estatus legal reconocido. | Tanınmış bir yasal statü talep ediyorlardı.
-la postura firme | net tutum | isim (d) | Mantienen una postura firme ante las críticas. | Eleştiriler karşısında net bir tutum sergiliyorlar.
-el plano | düzlem, plan | isim (e) | Analizan el problema en el plano teórico. | Sorunu teorik düzlemde analiz ediyorlar.
-## Etkiler ve sonuçlar
-el impacto | etki | isim (e) | Estudian el impacto ambiental del proyecto. | Projenin çevresel etkisini inceliyorlar.
-la consecuencia | sonuç | isim (d) | Asumieron cada consecuencia de su decisión. | Kararlarının her sonucunu üstlendiler.
-el efecto | etki, sonuç | isim (e) | El fármaco mostró un efecto positivo inmediato. | İlaç hemen olumlu bir etki gösterdi.
-el resultado final | kesin sonuç | isim (e) | Publicaron el resultado definitivo del estudio. | Çalışmanın kesin sonucunu yayınladılar.
-el desenlace | son, netice | isim (e) | El desenlace de la novela sorprendió a todos. | Romanın sonu herkesi şaşırttı.
-el fruto | meyve, ürün (mecazi sonuç) | isim (e) | El éxito es fruto de un trabajo constante. | Başarı sürekli çalışmanın ürünüdür.
-la repercusión | yankı, etki | isim (d) | La noticia tuvo gran repercusión internacional. | Haber büyük uluslararası yankı uyandırdı.
-el saldo positivo | olumlu bilanço | isim (e) | El saldo final del año fue muy positivo. | Yılın nihai bilançosu çok olumlu oldu.
-la secuela | ardıl etki, kalıntı | isim (d) | Sufría secuelas leves tras el accidente. | Kazadan sonra hafif ardıl etkiler yaşıyordu.
-el epílogo | sonsöz, bitiş | isim (e) | Pusieron un epílogo brillante a su carrera. | Kariyerlerine parlak bir son söz koydular.
-## Yönelimler ve eğilimler
-la tendencia actual | mevcut trend | isim (d) | Detectan una nueva tendencia en el consumo. | Tüketimde yeni bir eğilim tespit ediyorlar.
-la inclinación | eğilim, meyil | isim (d) | Muestra una clara inclinación hacia la ciencia. | Bilime karşı net bir eğilim gösteriyor.
-el sesgo cognitivo | bilişsel yanılgı | isim (e) | Eliminaron cualquier sesgo cognitivo en la encuesta. | Anketteki her türlü bilişsel yanılgıyı ortadan kaldırdılar.
-la orientación estratégica | stratejik yönelim | isim (d) | Cambiaron la orientación estratégica del grupo. | Grubun stratejik yönelimini değiştirdiler.
-el rumbo | yön, rota | isim (e) | Modificaron el rumbo de la investigación. | Araştırmanın rotasını değiştirdiler.
-la propensión | yatkınlık | isim (d) | Notan cierta propensión al error humano. | İnsan hatasına belirli bir yatkınlık fark ediyorlar.
-el rumbo final | nihai rota | isim (e) | Cuestionan el concepto tradicional del rumbo final. | Nihai rotanın geleneksel kavramını sorguluyorlar.
-la deriva | akış, sürüklenme | isim (d) | Critican la deriva autoritaria del gobierno. | Hükümetin otoriter sürüklenmesini eleştiriyorlar.
-el vector | yönlendirici, vektör | isim (e) | Identificaron un vector clave de crecimiento. | Önemli bir büyüme vektörü belirlediler.
-la directriz técnica | teknik yönerge | isim (d) | Siguieron estrictamente cada directriz técnica. | Her teknik yönergeyi katı bir şekilde takip ettiler.
-## Değerler ve kavramlar
-el concepto | kavram | isim (e) | Explicaron un concepto abstracto muy difícil. | Çok zor soyut bir kavramı açıkladılar.
-la nocion | fikir, anlayış | isim (d) | Tenía una noción básica de la física cuántica. | Kuantum fiziği hakkında temel bir anlayışı vardı.
-el criterio | kriter, ölçüt | isim (e) | Aplicaron un criterio riguroso de selección. | Katı bir seçme ölçütü uyguladılar.
-el valor universal | evrensel değer | isim (e) | Defienden el valor universal de la cultura. | Kültürün evrensel değerini savunuyorlar.
-el principio ético | etik ilke | isim (e) | Actúan siempre bajo un principio ético sólido. | Her zaman sağlam bir etik ilke altında hareket ederler.
-la regla social | toplumsal kural | isim (d) | Establecieron una nueva regla de convivencia. | Yeni bir birlikte yaşam kuralı belirlediler.
-el postulado | postulat, varsayım | isim (e) | Cuestionan un postulado clásico de la física. | Fiziğin klasik bir varsayımını sorguluyorlar.
-el dogma ideológico | ideolojik dogma | isim (e) | Rechazan cualquier dogma ideológico estricto. | Her türlü katı ideolojik dogmayı reddediyorlar.
-la premisa falsa | yanlış öncül | isim (d) | Parten de una premisa totalmente falsa. | Tamamen yanlış bir öncülden yola çıkıyorlar.
-el ideal | ideal | isim (e) | Luchaban por un ideal social muy elevado. | Çok yüksek bir toplumsal ideal için savaşıyorlardı.
-## Sistemler ve yapılar
-el sistema político | siyasi sistem | isim (e) | Analizan el sistema político del país. | Ülkenin siyasi sistemini analiz ediyorlar.
-la estructura | yapı | isim (d) | Modificaron la estructura interna de la empresa. | Şirketin iç yapısını değiştirdiler.
-el esquema | şema, taslak | isim (e) | Presentaron un esquema claro del proyecto. | Projenin net bir şemasını sundular.
-la red pública | kamu ağı | isim (d) | Ampliaron la red pública de transporte urbano. | Kentsel ulaşım kamu ağını genişlettiler.
-el mecanismo | mekanizma | isim (e) | Descubrieron el mecanismo de defensa celular. | Hücresel savunma mekanizmasını keşfettiler.
-la base teórica | teorik temel | isim (d) | Sentaron la base teórica del estudio. | Çalışmanın teorik temelini attılar.
-el armazón | iskelet, çatı | isim (e) | Construyeron el armazón metálico del edificio. | Binanın metal iskeletini inşa ettiler.
-la red de contactos | iletişim ağı | isim (d) | Utilizan una amplia red de contactos profesionales. | Geniş bir profesyonel iletişim ağı kullanıyorlar.
-el mecanismo interno | iç mekanizma | isim (e) | Revisaron cada mecanismo interno de la máquina industrial. | Endüstriyel makinenin her iç mekanizmasını kontrol ettiler.
-la trama | örgü, kurgu | isim (d) | Desenredaron la compleja trama de la novela. | Romanın karmaşık kurgusunu çözdüler.
+## Süreç ve değişim
+la etapa | evre, aşama | isim (d) | Empieza una nueva etapa en su vida. | Hayatında yeni bir evre başlıyor.
+la alteración | değişiklik, bozulma | isim (d) | Hubo una alteración en el horario. | Programda bir değişiklik oldu.
+la progresión | ilerleme | isim (d) | La progresión del alumno es muy buena. | Öğrencinin ilerlemesi çok iyi.
+el devenir | akış, gidişat | isim (e) | Nadie sabe cuál será el devenir de la empresa. | Şirketin gidişatının ne olacağını kimse bilmiyor.
+el transcurso | süre, akış | isim (e) | En el transcurso de la reunión surgieron dudas. | Toplantı süresince şüpheler ortaya çıktı.
+la mutación | mutasyon, değişim | isim (d) | El virus ha sufrido una mutación. | Virüs bir mutasyon geçirdi.
+paulatino | yavaş yavaş olan, kademeli | sıfat | Hubo una mejora paulatina. | Kademeli bir iyileşme oldu.
+gradual | aşamalı | sıfat | El cambio será gradual. | Değişim aşamalı olacak.
+la continuidad | süreklilik | isim (d) | El nuevo director garantiza la continuidad del proyecto. | Yeni müdür projenin sürekliliğini garanti ediyor.
+el punto de partida | çıkış noktası | isim (e) | Este informe es nuestro punto de partida. | Bu rapor bizim çıkış noktamız.
+## Neden
+el motivo | sebep | isim (e) | ¿Cuál es el motivo de tu visita? | Ziyaretinin sebebi ne?
+la causa | neden | isim (d) | Todavía no conocen la causa del incendio. | Yangının nedenini henüz bilmiyorlar.
+el detonante | tetikleyici | isim (e) | La subida de precios fue el detonante de las protestas. | Fiyat artışı protestoların tetikleyicisi oldu.
+el porqué | neden, sebep (isim) | isim (e) | Nadie entiende el porqué de su decisión. | Kimse kararının nedenini anlamıyor.
+la procedencia | geldiği yer, köken | isim (d) | Hay que comprobar la procedencia del dinero. | Paranın nereden geldiğini kontrol etmek gerekir.
+el factor | etken | isim (e) | El precio es un factor decisivo. | Fiyat belirleyici bir etkendir.
+desencadenar | tetiklemek, başlatmak | fiil | Un comentario desencadenó la discusión. | Bir yorum tartışmayı başlattı.
+provocar | neden olmak, yol açmak | fiil | La lluvia provocó varios accidentes. | Yağmur birkaç kazaya yol açtı.
+a raíz de | -in ardından, -den dolayı | ifade | A raíz de la crisis, cerraron muchas tiendas. | Kriz yüzünden birçok mağaza kapandı.
+debido a | -den dolayı | ifade | El vuelo se canceló debido a la niebla. | Uçuş sis nedeniyle iptal edildi.
+## Nicelik
+el volumen | hacim; miktar | isim (e) | El volumen de trabajo ha aumentado. | İş hacmi arttı.
+la cantidad | miktar | isim (d) | Añade una pequeña cantidad de sal. | Az miktarda tuz ekle.
+la proporción | oran | isim (d) | La proporción de mujeres en la empresa es alta. | Şirkette kadınların oranı yüksek.
+la magnitud | büyüklük, boyut | isim (d) | No imaginaban la magnitud del problema. | Sorunun boyutunu tahmin edemiyorlardı.
+la cifra | rakam, sayı | isim (d) | Las cifras de paro han bajado. | İşsizlik rakamları düştü.
+el índice | oran, endeks; içindekiler | isim (e) | El índice de natalidad sigue bajando. | Doğum oranı düşmeye devam ediyor.
+el conjunto | bütün, küme | isim (e) | El conjunto de los datos es positivo. | Verilerin bütünü olumlu.
+la totalidad | tamamı, bütünü | isim (d) | Pagó la totalidad de la deuda. | Borcun tamamını ödedi.
+el montante | toplam tutar | isim (e) | El montante de la factura es de mil euros. | Faturanın toplam tutarı bin avro.
+el exceso | fazlalık, aşırılık | isim (e) | El exceso de azúcar es malo para la salud. | Fazla şeker sağlığa zararlıdır.
+## Nitelik
+la cualidad | nitelik, meziyet | isim (d) | La paciencia es su mejor cualidad. | Sabır onun en iyi meziyeti.
+la característica | özellik | isim (d) | Una característica de este móvil es su batería. | Bu telefonun bir özelliği bataryası.
+la peculiaridad | kendine özgülük, özellik | isim (d) | Cada región tiene sus peculiaridades. | Her bölgenin kendine özgü yanları var.
+el atributo | nitelik, sıfat | isim (e) | La fuerza es un atributo de este héroe. | Güç bu kahramanın bir niteliğidir.
+la índole | tür, nitelik | isim (d) | Son problemas de índole personal. | Bunlar kişisel nitelikli sorunlar.
+el rasgo distintivo | ayırt edici özellik | isim (e) | La sonrisa es su rasgo distintivo. | Gülümsemesi onun ayırt edici özelliği.
+inherente | doğasında olan, içkin | sıfat | El riesgo es inherente a cualquier negocio. | Risk her işin doğasında vardır.
+esencial | temel, olmazsa olmaz | sıfat | El agua es esencial para la vida. | Su yaşam için olmazsa olmazdır.
+secundario | ikincil | sıfat | Ese es un detalle secundario. | Bu ikincil bir ayrıntı.
+la complejidad | karmaşıklık | isim (d) | No subestimes la complejidad del asunto. | Meselenin karmaşıklığını küçümseme.
+## İlişki
+el nexo | bağ, bağlantı | isim (e) | No hay ningún nexo entre los dos casos. | İki dava arasında hiçbir bağlantı yok.
+el lazo | bağ | isim (e) | Los une un lazo muy fuerte. | Onları çok güçlü bir bağ birleştiriyor.
+la dependencia | bağımlılık | isim (d) | Hay que reducir la dependencia del petróleo. | Petrole bağımlılığı azaltmak gerekir.
+la correspondencia | uygunluk; yazışma | isim (d) | No hay correspondencia entre lo que dice y lo que hace. | Söyledikleriyle yaptıkları birbirini tutmuyor.
+la analogía | benzetme, analoji | isim (d) | Usó una analogía para explicar el concepto. | Kavramı açıklamak için bir benzetme kullandı.
+la semejanza | benzerlik | isim (d) | Hay una gran semejanza entre los dos idiomas. | İki dil arasında büyük bir benzerlik var.
+el contraste | zıtlık, karşıtlık | isim (e) | Me sorprendió el contraste entre la ciudad y el campo. | Şehir ile kır arasındaki zıtlık beni şaşırttı.
+en relación con | ile ilgili olarak | ifade | Tengo una pregunta en relación con el contrato. | Sözleşmeyle ilgili bir sorum var.
+estar relacionado con | ile bağlantılı olmak | ifade | Su enfermedad está relacionada con el estrés. | Hastalığı stresle bağlantılı.
+en función de | -e bağlı olarak, -e göre | ifade | El precio cambia en función de la demanda. | Fiyat talebe göre değişir.
+## Durum
+la situación | durum | isim (d) | La situación económica ha mejorado. | Ekonomik durum iyileşti.
+el panorama | görünüm, tablo | isim (e) | El panorama laboral no es muy bueno. | İş piyasasının görünümü pek iyi değil.
+la tesitura | zor durum, ikilem | isim (d) | Me encuentro en una tesitura difícil. | Zor bir durumdayım.
+la circunstancia | koşul, durum | isim (d) | En estas circunstancias no podemos firmar. | Bu koşullarda imza atamayız.
+el contexto | bağlam | isim (e) | Hay que leer la frase en su contexto. | Cümleyi bağlamı içinde okumak gerekir.
+el ámbito | alan, çevre | isim (e) | Es muy conocido en el ámbito académico. | Akademik çevrede çok tanınır.
+la dimensión | boyut | isim (d) | El problema tiene una dimensión social. | Sorunun toplumsal bir boyutu var.
+la perspectiva | bakış açısı, perspektif | isim (d) | Desde esta perspectiva, todo cambia. | Bu bakış açısından her şey değişiyor.
+el estatus | statü | isim (e) | El coche es para él un símbolo de estatus. | Araba onun için bir statü sembolü.
+el marco | çerçeve | isim (e) | El acuerdo se firmó en el marco de la cumbre. | Anlaşma zirve çerçevesinde imzalandı.
+## Sonuç
+el impacto | etki | isim (e) | El proyecto tendrá un gran impacto ambiental. | Projenin büyük bir çevresel etkisi olacak.
+la consecuencia | sonuç | isim (d) | Tendrás que aceptar las consecuencias. | Sonuçlarını kabul etmen gerekecek.
+el efecto | etki | isim (e) | El medicamento todavía no hace efecto. | İlaç henüz etki etmiyor.
+el desenlace | son, sonuç | isim (e) | El desenlace de la película es inesperado. | Filmin sonu beklenmedik.
+el fruto | ürün, meyve | isim (e) | El éxito es fruto de mucho trabajo. | Başarı çok çalışmanın ürünüdür.
+la repercusión | yankı | isim (d) | La noticia tuvo repercusión internacional. | Haber uluslararası yankı uyandırdı.
+la secuela | kalıcı hasar; devam filmi | isim (d) | El accidente le dejó secuelas. | Kaza onda kalıcı hasar bıraktı.
+de ahí que | bu yüzden (+subj.) | bağlaç | Llovía mucho; de ahí que llegaran tarde. | Çok yağmur yağıyordu; bu yüzden geç kaldılar.
+por consiguiente | dolayısıyla | ifade | No hay quórum; por consiguiente, se suspende la sesión. | Yeter sayı yok; dolayısıyla oturum ertelendi.
+surtir efecto | etkisini göstermek | ifade | Las medidas empiezan a surtir efecto. | Önlemler etkisini göstermeye başlıyor.
+## Eğilim
+la inclinación | eğilim | isim (d) | Desde niño mostró inclinación por la música. | Çocukluğundan beri müziğe eğilim gösterdi.
+el rumbo | yön, rota | isim (e) | La empresa ha cambiado de rumbo. | Şirket yön değiştirdi.
+la propensión | yatkınlık | isim (d) | Tiene propensión a resfriarse. | Soğuk algınlığına yatkınlığı var.
+la deriva | sürüklenme, gidişat | isim (d) | Le preocupa la deriva del debate. | Tartışmanın gidişatı onu endişelendiriyor.
+el patrón | örüntü, kalıp | isim (e) | Los datos siguen un patrón claro. | Veriler net bir örüntü izliyor.
+tender a (tiende) | -e eğilimli olmak | fiil · düzensiz | Los precios tienden a subir en verano. | Fiyatlar yazın artma eğilimindedir.
+la oscilación | dalgalanma, salınım | isim (d) | Las oscilaciones del precio del petróleo afectan a todos. | Petrol fiyatındaki dalgalanmalar herkesi etkiler.
+el declive | düşüş, gerileme | isim (e) | La industria textil está en declive. | Tekstil sektörü gerilemede.
+el alcance | kapsam, erim | isim (e) | Todavía no conocemos el alcance de los daños. | Hasarın kapsamını henüz bilmiyoruz.
+el umbral | eşik | isim (e) | Superó el umbral del dolor. | Acı eşiğini aştı.
+## Kavram
+el concepto | kavram | isim (e) | No entiendo bien este concepto. | Bu kavramı iyi anlamıyorum.
+la noción | kavram, fikir | isim (d) | No tiene ninguna noción de economía. | Ekonomi hakkında hiçbir fikri yok.
+el principio | ilke; başlangıç | isim (e) | Es una cuestión de principios. | Bu bir ilke meselesi.
+el postulado | varsayım, önerme | isim (e) | La teoría parte de tres postulados. | Kuram üç önermeden yola çıkar.
+el ideal | ülkü, ideal | isim (e) | Lucha por sus ideales. | İdealleri için mücadele ediyor.
+la excepción | istisna | isim (d) | Todos vinieron, con la excepción de Marta. | Marta dışında herkes geldi.
+la posibilidad | olasılık, imkân | isim (d) | Existe la posibilidad de que llueva. | Yağmur yağma ihtimali var.
+la necesidad | ihtiyaç, gereklilik | isim (d) | No hay necesidad de gritar. | Bağırmaya gerek yok.
+el azar | şans, tesadüf | isim (e) | Nos conocimos por azar. | Tesadüfen tanıştık.
+la coincidencia | tesadüf; uyuşma | isim (d) | ¡Qué coincidencia verte aquí! | Seni burada görmek ne tesadüf!
+## Yapı ve düzen
+el mecanismo | mekanizma | isim (e) | No conozco el mecanismo de este reloj. | Bu saatin mekanizmasını bilmiyorum.
+el armazón | iskelet, çatı | isim (e) | El armazón de la tienda es de aluminio. | Çadırın iskeleti alüminyum.
+el modelo | model, örnek | isim (e) | Es un modelo para los jóvenes. | Gençler için bir örnek.
+el orden | düzen, sıra | isim (e) | Pon los libros en orden alfabético. | Kitapları alfabetik sıraya koy.
+el caos | kaos | isim (e) | La ciudad era un caos después de la tormenta. | Fırtınadan sonra şehir kaos içindeydi.
+la simetría | simetri | isim (d) | El edificio tiene una simetría perfecta. | Binanın mükemmel bir simetrisi var.
+el límite | sınır | isim (e) | Mi paciencia tiene un límite. | Sabrımın bir sınırı var.
+la intensidad | yoğunluk, şiddet | isim (d) | La intensidad de la lluvia aumentó. | Yağmurun şiddeti arttı.
+la duración | süre | isim (d) | La duración del curso es de tres meses. | Kursun süresi üç ay.
+lo esencial | asıl önemli olan | ifade | Lo esencial es invisible a los ojos. | Asıl önemli olan gözle görülmez.

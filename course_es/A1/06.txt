@@ -44,8 +44,8 @@ la línea | hat | isim (d) | Coge la línea tres. | Üç numaralı hatta bin.
 coger (cojo) | binmek; almak | fiil | Cojo el metro cada día. | Her gün metroya binerim.
 el pasajero | yolcu | isim (e) | El autobús lleva cuarenta pasajeros. | Otobüs kırk yolcu taşıyor.
 ## Araçlar ve yol
-el coche | araba | isim (e) | Mi coche es pequeño. | Arabam küçük.
-la bicicleta | bisiklet | isim (d) | Lukas va en bicicleta. | Lukas bisikletle gidiyor.
+el camión | kamyon | isim (e) | El camión lleva fruta al mercado. | Kamyon pazara meyve taşıyor.
+la gasolinera | benzin istasyonu | isim (d) | Paramos en la gasolinera. | Benzin istasyonunda duruyoruz.
 la moto | motosiklet | isim (d) | Mi hermano tiene una moto. | Kardeşimin bir motosikleti var.
 el avión | uçak | isim (e) | Viajamos en avión a Sevilla. | Sevilla'ya uçakla gidiyoruz.
 el barco | gemi; tekne | isim (e) | El barco va a Mallorca. | Gemi Mallorca'ya gidiyor.
@@ -77,35 +77,35 @@ la oficina de turismo | turizm bürosu | isim (d) | Pregunta en la oficina de tu
 el equipaje | bagaj | isim (e) | Mi equipaje no ha llegado. | Bagajım gelmedi.
 perderse (me pierdo) | kaybolmak | fiil · dönüşlü | Siempre me pierdo en Madrid. | Madrid'de hep kayboluyorum.
 ## Doğa
-el mar | deniz | isim (e) | El mar está tranquilo hoy. | Deniz bugün sakin.
+el océano | okyanus | isim (e) | El océano Atlántico es enorme. | Atlas Okyanusu çok büyük.
 la playa | plaj | isim (d) | Vamos a la playa en agosto. | Ağustosta plaja gideriz.
-la montaña | dağ | isim (d) | Me gusta caminar por la montaña. | Dağda yürümeyi severim.
-el río | nehir | isim (e) | El río pasa por la ciudad. | Nehir şehrin içinden geçiyor.
+la sierra | sıradağlar; dağlık bölge | isim (d) | Vamos a la sierra el domingo. | Pazar günü dağlara gidiyoruz.
+el valle | vadi | isim (e) | El pueblo está en un valle verde. | Köy yeşil bir vadide.
 el lago | göl | isim (e) | El lago es muy bonito. | Göl çok güzel.
 el bosque | orman | isim (e) | Paseamos por el bosque. | Ormanda yürüyüş yapıyoruz.
 la isla | ada | isim (d) | Ibiza es una isla. | İbiza bir ada.
 el campo | kır; tarla | isim (e) | Mis abuelos viven en el campo. | Büyükannemle büyükbabam kırsalda yaşıyor.
-el sol | güneş | isim (e) | Hoy hace mucho sol. | Bugün çok güneşli.
-el cielo | gökyüzü | isim (e) | El cielo está despejado. | Gökyüzü açık.
+la naturaleza | doğa | isim (d) | Me encanta la naturaleza. | Doğaya bayılırım.
+la piedra | taş | isim (d) | El niño tira una piedra al agua. | Çocuk suya bir taş atıyor.
 ## Hava ve çevre
-la lluvia | yağmur | isim (d) | No me gusta la lluvia. | Yağmuru sevmem.
+el paisaje | manzara | isim (e) | ¡Qué paisaje tan bonito! | Ne güzel bir manzara!
 llover (llueve) | yağmur yağmak | fiil · düzensiz | Hoy llueve mucho. | Bugün çok yağmur yağıyor.
-la nieve | kar | isim (d) | Hay nieve en la sierra. | Dağlarda kar var.
+nevar (nieva) | kar yağmak | fiil · düzensiz | En invierno nieva en la sierra. | Kışın dağlarda kar yağar.
 el viento | rüzgâr | isim (e) | Hace mucho viento. | Çok rüzgâr var.
 la nube | bulut | isim (d) | Hay muchas nubes hoy. | Bugün çok bulut var.
 hace calor | hava sıcak | ifade | En Sevilla hace mucho calor. | Sevilla'da hava çok sıcak.
-la flor | çiçek | isim (d) | Estas flores son para ti. | Bu çiçekler senin için.
+la planta | bitki | isim (d) | Riego las plantas cada día. | Bitkileri her gün sularım.
 la arena | kum | isim (d) | La arena está caliente. | Kum sıcak.
 la hierba | çimen; ot | isim (d) | Nos sentamos en la hierba. | Çimenlere oturuyoruz.
-la estrella | yıldız | isim (d) | Esta noche hay muchas estrellas. | Bu gece çok yıldız var.
+hace frío | hava soğuk | ifade | En enero hace mucho frío. | Ocakta hava çok soğuk.
 ## Ülke ve dünya
-el país | ülke | isim (e) | España es un país bonito. | İspanya güzel bir ülke.
+la región | bölge | isim (d) | Galicia es una región muy verde. | Galiçya çok yeşil bir bölge.
 el pueblo | köy; kasaba | isim (e) | Mi pueblo es muy pequeño. | Köyüm çok küçük.
 la capital | başkent | isim (d) | Madrid es la capital. | Başkent Madrid'dir.
 la costa | kıyı; sahil | isim (d) | Vivimos en la costa. | Sahilde yaşıyoruz.
 el norte | kuzey | isim (e) | Bilbao está en el norte. | Bilbao kuzeyde.
 el sur | güney | isim (e) | Málaga está en el sur. | Málaga güneyde.
-el este | doğu | isim (e) | Valencia está en el este. | Valencia doğuda.
+el puerto | liman | isim (e) | El barco llega al puerto. | Gemi limana varıyor.
 el oeste | batı | isim (e) | El sol se pone por el oeste. | Güneş batıdan batar.
 el mundo | dünya | isim (e) | Quiero viajar por el mundo. | Dünyayı gezmek istiyorum.
-extranjero | yabancı | sıfat | Ana estudia en un país extranjero. | Ana yabancı bir ülkede okuyor.
+la frontera | sınır | isim (d) | Cruzamos la frontera en coche. | Sınırı arabayla geçiyoruz.

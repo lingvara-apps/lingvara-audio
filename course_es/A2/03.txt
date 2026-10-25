@@ -7,14 +7,14 @@ la tarjeta sanitaria | sağlık kartı, sigorta kartı | isim (d) | Muestre su t
 el centro de salud | sağlık ocağı | isim (e) | El centro de salud está abierto hasta las ocho. | Sağlık ocağı saat sekize kadar açık.
 urgencias | acil servis | isim (çoğul) | Llevaron al herido a urgencias rápidamente. | Yaralıyı hızlıca acil servise götürdüler.
 la ambulancia | ambulans | isim (d) | La sirena de la ambulancia suena en la avenida. | Caddede ambulansın siren sesi çalıyor.
-el enfermero | erkek hemşir | isim (e) | El enfermero tomó mi presión arterial con calma. | Erkek hemşir sakin bir şekilde tansiyonumu ölçtü.
-la enfermera | kadın hemşire | isim (d) | La enfermera desinfectó la herida con cuidado. | Hemşire yarayı dikkatlice dezenfekte etti.
+el enfermero | hemşire (erkek) | isim (e) | El enfermero me toma la tensión. | Hemşire tansiyonumu ölçüyor.
+la enfermera | hemşire | isim (d) | La enfermera limpia la herida con cuidado. | Hemşire yarayı dikkatle temizliyor.
 el paciente | hasta, hasta kişi | isim (e) | El paciente descansa en la habitación número diez. | Hasta on numaralı odada dinleniyor.
 ## Vücut ve ağrılar
 la garganta | boğaz | isim (d) | Me duele mucho la garganta al tragar agua. | Su yutarken boğazım çok ağrıyor.
 el pecho | göğüs, göğüs kafesi | isim (e) | Siente una presión extraña en el pecho. | Göğsünde garip bir baskı hissediyor.
 el abdomen | karın, batın | isim (e) | Siente un dolor agudo en el abdomen superior. | Üst karnında keskin bir ağrı hissediyor.
-la muela | azı dişi, diş | isim (d) | La muela picada necesita un empaste urgente. | Çürük az dişin acil dolguya ihtiyacı var.
+la muela | azı dişi, diş | isim (d) | La muela picada necesita un empaste urgente. | Çürük azı dişinin acil dolguya ihtiyacı var.
 el hueso | kemik | isim (e) | Se cayó de la bicicleta y se rompió un hueso. | Bisikletten düştü ve bir kemiğini kırdı.
 la articulación | eklem | isim (d) | Las articulaciones duelen con el frío del invierno. | Eklem yerleri kış soğuğuyla ağrıyor.
 el músculo | kas | isim (e) | Un buen estiramiento previene lesiones en el músculo. | İyi bir esneme kas yaralanmalarını önler.
@@ -23,7 +23,7 @@ el síntoma | belirti, semptom | isim (e) | ¿Desde cuándo tienes este síntoma
 la alergia | alerji | isim (d) | Sufre una fuerte alergia al polen en primavera. | İlkbaharda polene karşı güçlü bir alerji çekiyor.
 ## Hastalıklar ve durumlar
 la gripe | grip | isim (d) | Contrajo la gripe durante la temporada de lluvias. | Yağmur mevsiminde gribe yakalandı.
-la carraspera | boğaz gıcıklığı, hafif öksürük | isim (d) | Una carraspera leve le molesta al hablar en público. | Hafif bir boğaz gıcıklığı topluluk önünde konuşurken onu rahatsız ediyor.
+el catarro | nezle, soğuk algınlığı | isim (e) | Tengo catarro y me duele la cabeza. | Nezleyim ve başım ağrıyor.
 la temperatura alta | yüksek ateş | ifade | El niño tiene temperatura alta y necesita descansar. | Çocuğun yüksek ateşi var ve dinlenmesi gerekiyor.
 el mareo | baş dönmesi, deniz tutması | isim (e) | El viaje en barco le provocó un fuerte mareo. | Tekne yolculuğu ona şiddetli baş dönmesi yaptı.
 el vómito | kusma | isim (e) | Los vómitos cesaron después de beber suero oral. | Ağızdan serum içtikten sonra kusmalar durdu.
@@ -34,18 +34,18 @@ la ansiedad | kaygı, anksiyete | isim (d) | Respirar hondo reduce la ansiedad a
 el contagio | bulaşma, enfeksiyon | isim (e) | Evitar el contagio implica lavarse las manos a menudo. | Bulaşmayı önlemek elleri sık sık yıkamak anlamına geliyor.
 ## Tedavi ve muayene
 el diagnóstico | teşhis, tanı | isim (e) | El médico comunicó el diagnóstico con claridad. | Doktor teşhisi net bir şekilde iletti.
-la radiografía | röntgen | isim (d) | La radiografía muestra una fisura leve en el radio. | Röntgen, ön kol kemiğinde hafif bir çatlak gösteriyor.
-la inyección | iğne, enjeksiyon | isim (d) | Le teme a la inyección pero fue muy valiente. | İğneden korkuyor ama çok cesurdu.
-el análisis | tahlil, analiz | isim (e) | Los análisis de laboratorio llegaron esta sabah. | Laboratuvar tahlilleri bu sabah geldi.
-la operación | ameliyat, operasyon | isim (d) | La operación quirúrgica duró más de cuatro horas. | Cerrahi ameliyat dört saatten uzun sürdü.
+la radiografía | röntgen | isim (d) | La radiografía muestra que no hay fractura. | Röntgen kırık olmadığını gösteriyor.
+la inyección | iğne, enjeksiyon | isim (d) | Al niño le dan miedo las inyecciones. | Çocuk iğneden korkuyor.
+el análisis | tahlil, analiz | isim (e) | Los análisis de laboratorio llegaron esta mañana. | Laboratuvar tahlilleri bu sabah geldi.
+la operación | ameliyat | isim (d) | La operación duró cuatro horas. | Ameliyat dört saat sürdü.
 la cura | tedavi, yara sarma | isim (d) | La cura diaria evita infecciones en la herida. | Günlük yara bakımı yarada enfeksiyonu önler.
 el vendaje | sargı, bandaj | isim (e) | El fisioterapeuta ajustó el vendaje en su tobillo. | Fizyoterapist ayak bileğindeki sargıyı ayarladı.
 la tirita | yara bandı | isim (d) | Pon una tirita pequeña sobre el corte del dedo. | Parmağın kesiği üzerine küçük bir yara bandı yapıştır.
 el yeso | alçı | isim (e) | Llevará el yeso puesto durante seis semanas enteras. | Tam altı hafta boyunca alçıyı üzerinde taşıyacak.
 la rehabilitación | fizik tedavi, rehabilitasyon | isim (d) | Asiste a rehabilitación tres veces por semana. | Haftada üç kez fizik tedaviye gidiyor.
 ## Eczane ve ilaçlar
-el dispensario | eczane, dispanser | isim (e) | El dispensario de guardia abre toda la noche. | Nöbetçi eczane bütün gece açık.
-la gragea | draje, küçük hap | isim (d) | Tome una gragea cada ocho horas con agua. | Su ile sekiz saatte bir bir draje alın.
+la farmacia de guardia | nöbetçi eczane | isim (d) | La farmacia de guardia abre toda la noche. | Nöbetçi eczane bütün gece açık.
+el medicamento | ilaç | isim (e) | Toma este medicamento con agua. | Bu ilacı suyla al.
 el jarabe | şurup | isim (e) | Este jarabe dulce calma la tos persistente. | Bu tatlı şurup inatçı öksürüğü sakinleştiriyor.
 la pomada | merhem, krem | isim (d) | Extiende la pomada sobre la zona irritada suavemente. | Merhemi tahriş olmuş bölgeye nazikçe sür.
 la vitamina | vitamin | isim (d) | Tomar vitamina C fortalece las defensas naturales. | C vitamini almak doğal savunmayı güçlendirir.
@@ -57,7 +57,7 @@ la dosis | doz | isim (d) | Respete estrictamente la dosis indicada por el docto
 ## Acil durumlar ve yaralar
 el peligro | tehlike | isim (e) | Señalizaron la zona de peligro en la carretera. | Karayolundaki tehlike bölgesini işaretlediler.
 el rescate | kurtarma | isim (e) | El equipo de rescate encontró al excursionista perdido. | Kurtarma ekibi kaybolan doğa yürüyüşçüsünü buldu.
-el accidente | kaza | isim (e) | Un pequeño accidente paralizó el tráfico urbano. | Küçük bir kaza şehir trafikini felç etti.
+el accidente | kaza | isim (e) | Un pequeño accidente paralizó el tráfico urbano. | Küçük bir kaza şehir trafiğini felç etti.
 el incendio | yangın | isim (e) | Los bomberos extinguieron el incendio forestal a tiempo. | İtfaiyeciler orman yangınını zamanında söndürdüler.
 la herida | yara | isim (d) | Lavó la herida profunda con agua tibia y jabonosa. | Derin yarayı ılık sabunlu suyla yıkadı.
 la quemadura | yanık | isim (d) | Aplicó agua fría sobre la quemadura de la mano. | Elindeki yanığın üzerine soğuk su uyguladı.
@@ -69,21 +69,21 @@ el ahogamiento | boğulma | isim (e) | El socorrista actuó rápido ante un posi
 el dentista | diş hekimi | isim (e) | Visita al dentista cada seis meses sin falta. | Diş hekimini aksatmadan altı ayda bir ziyaret et.
 la clínica dental | diş kliniği | isim (d) | La clínica dental ofrece servicios de ortodoncia moderna. | Diş kliniği modern ortodonti hizmetleri sunuyor.
 la caries | diş çürüğü | isim (d) | Una mala higiene dental produce caries profundas. | Kötü diş hijyeni derin çürükler üretir.
-la corona | diş kaplaması, taç | isim (d) | Colocaron una corona protectora sobre el molar dañado. | Hasarlı az dişin üzerine koruyucu kaplama yerleştirdiler.
-la endodoncia | kanal tedavisi | isim (d) | La endodoncia salvó el diente de una extracción segura. | Kanal tedavisi dişi kesin bir çekimden kurtardı.
+la corona | diş kaplaması, taç | isim (d) | Colocaron una corona protectora sobre el molar dañado. | Hasarlı azı dişinin üzerine koruyucu kaplama yerleştirdiler.
+la endodoncia | kanal tedavisi | isim (d) | La endodoncia salvó mi diente. | Kanal tedavisi dişimi kurtardı.
 el empaste | diş dolgusu | isim (e) | El dentista hizo un empaste rápido y sin dolor. | Diş hekimi hızlı ve ağrısız bir dolgu yaptı.
 la encía | diş eti | isim (d) | Sangra un poco la encía al usar el hilo dental. | Diş ipi kullanırken diş eti biraz kanıyor.
 el aparato dental | diş teli, ortodontik aygıt | isim (e) | Lleva un aparato dental metálico para alinear dientes. | Dişleri düzeltmek için metal diş teli takıyor.
 la anestesia | anestezi, uyuşturma | isim (d) | La anestesia local evita cualquier molestia dental. | Yerel anestezi her türlü diş rahatsızlığını önler.
 la extracción | diş çekimi, çıkarma | isim (d) | La extracción de la muela del juicio fue exitosa. | Yirmilik dişin çekimi başarılı geçti.
 ## Sağlıklı yaşam
-el bienestar | refah, iyilik hali | isim (e) | El equilibrio emocional aporta un gran bienestar diario. | Duygusal denge büyük bir günlük refah kazandırır.
+el bienestar | refah, iyilik hali | isim (e) | El equilibrio emocional aporta un gran bienestar diario. | Duygusal denge günlük iyi oluşa büyük katkı sağlar.
 el reposo | dinlenme, istirahat | isim (e) | Un buen reposo nocturno renueva todas las energías. | İyi bir gece dinlenmesi tüm enerjileri yeniler.
 la relajación | gevşeme, rahatlama | isim (d) | La música suave ayuda a lograr una profunda relajación. | Yumuşak müzik derin bir rahatlama sağlamaya yardımcı olur.
 la hidratación | sıvı alımı, hidrasyon | isim (d) | La correcta hidratación mejora el rendimiento físico. | Doğru sıvı alımı fiziksel performansı artırır.
-la vitalidad | canlılık, hayat dolu olma | isim (d) | Desayunar frutas frescas devuelve la vitalidad matutina. | Taze meyvelerle kahvaltı yapmak sabah canlılığını geri getirir.
+el ejercicio | egzersiz; alıştırma | isim (e) | Hago ejercicio tres veces por semana. | Haftada üç kez egzersiz yapıyorum.
 el equilibrio | denge | isim (e) | Mantener el equilibrio físico requiere práctica constante. | Fiziksel dengeyi korumak sürekli pratik gerektirir.
-la longevidad | uzun ömürlülük | isim (d) | Una dieta mediterránea favorece la salud y longevidad. | Akdeniz diyeti sağlığı ve uzun ömürlülüğü destekler.
+la dieta | diyet, beslenme düzeni | isim (d) | Sigo una dieta sana y variada. | Sağlıklı ve çeşitli besleniyorum.
 la postura | duruş, postür | isim (d) | Corregir la postura al sentarse previene dolores lumbares. | Otururken duruşu düzeltmek bel ağrılarını önler.
 la inmunidad | bağışıklık | isim (d) | Dormir ocho horas diarias fortalece la inmunidad general. | Her gün sekiz saat uyumak genel bağışıklığı güçlendirir.
 el hábito | alışkanlık | isim (e) | Crear un hábito saludable requiere paciencia y constancia. | Sağlıklı bir alışkanlık oluşturmak sabır ve süreklilik gerektirir.
@@ -91,21 +91,21 @@ el hábito | alışkanlık | isim (e) | Crear un hábito saludable requiere paci
 el oftalmólogo | göz doktoru, göz hekimi | isim (e) | El oftalmólogo revisó la graduación de mis gafas. | Göz doktoru gözlüklerimin numarasını kontrol etti.
 la vista | görme, görüş, manzara | isim (d) | Las zanahorias aportan nutrientes que cuidan la vista. | Havuçlar göz sağlığını koruyan besinler sağlar.
 la miopía | miyopluk | isim (d) | La miopía le impide ver con nitidez objetos lejanos. | Miyopluk uzak nesneleri net görmesini engelliyor.
-el astigmatismo | astigmatizm | isim (e) | Diagnosticaron astigmatismo leve en su ojo derecho. | Sağ gözünde hafif astigmatizm teşhis ettiler.
+ciego | kör | sıfat | El perro guía a un hombre ciego. | Köpek kör bir adama rehberlik ediyor.
 la lente | mercek, kontakt lens | isim (d) | Prefiere usar lentes de contacto para hacer deporte. | Spor yaparken kontakt lens kullanmayı tercih ediyor.
 la montura | gözlük çerçevesi | isim (d) | Eligió una montura moderna y ligera de titanio. | Modern ve hafif titanyum bir çerçeve seçti.
 la lágrima | gözyaşı | isim (d) | Una lágrima resbaló por su mejilla tras la noticia. | Haberden sonra yanağından bir gözyaşı süzüldü.
-la pupila | göz bebeği | isim (e) | La pupila se dilumbra con poca luz en la habitación. | Odada az ışıkla göz bebeği büyüyor.
+la pupila | göz bebeği | isim (d) | La pupila se dilata con poca luz. | Göz bebeği az ışıkta büyür.
 la ceguera | körlük | isim (d) | Investigaciones avanzadas buscan prevenir la ceguera infantil. | İleri araştırmalar çocukluk körlüğünü önlemeyi amaçlıyor.
 el parpadeo | göz kırpma | isim (e) | El parpadeo constante protege el ojo de la sequedad. | Sürekli göz kırpma gözü kuruluktan korur.
 ## Sağlık personeli ve diğer
-el especialista en nutrición | beslenme uzmanı, diyetisyen | isim (e) | El especialista en nutrición diseñó un menú equilibrado. | Beslenme uzmanı dengeli bir menü tasarladı.
+el nutricionista | diyetisyen | isim (e) | El nutricionista me recomienda comer más fruta. | Diyetisyen bana daha çok meyve yememi öneriyor.
 el cirujano | cerrah | isim (e) | El cirujano principal lideró la compleja intervención. | Baş cerrah karmaşık müdahaleye liderlik etti.
 la comadrona | ebe | isim (d) | La comadrona acompañó a la madre durante el parto. | Ebe doğum boyunca anneye eşlik etti.
-el psiquiatra | psikiyatrat | isim (e) | El psiquiatra recetó un tratamiento adecuado al caso. | Psikiyatrist vakaya uygun bir tedavi reçete etti.
+el psiquiatra | psikiyatr | isim (e) | El psiquiatra recetó un tratamiento adecuado al caso. | Psikiyatrist vakaya uygun bir tedavi reçete etti.
 el psicólogo | psikolog | isim (e) | Las sesiones con el psicólogo mejoraron su ánimo. | Psikologla seanslar moralini düzeltti.
 el celador | hastane görevlisi, hastabakıcı | isim (e) | El celador trasladó la camilla hacia la sala de rayos. | Hastabakıcı sedyeyi röntgen odasına taşıdı.
 el farmacéutico | eczacı | isim (e) | El farmacéutico explicó cómo tomar el jarabe infantil. | Eczacı çocuk şurubunun nasıl alınacağını açıkladı.
-la mutua | özel sağlık sigortası kuruluşu | isim (d) | Su mutua cubre las consultas médicas privadas. | Özel sağlık sigortası özel doktor muayenelerini karşılıyor.
-la prevencion | önlem, koruma | isim (d) | La prevención temprana evita enfermedades graves futuras. | Erken önlem gelecekteki ciddi hastalıkları önler.
+el seguro médico | sağlık sigortası | isim (e) | Mi seguro médico cubre las consultas. | Sağlık sigortam muayeneleri karşılıyor.
+la prevención | önlem, koruma | isim (d) | La prevención temprana evita enfermedades graves futuras. | Erken önlem gelecekteki ciddi hastalıkları önler.
 la convalecencia | iyileşme dönemi, nakahat | isim (d) | Durante su convalecencia prefiere leer novelas tranquilas. | İyileşme döneminde sakin romanlar okumayı tercih ediyor.

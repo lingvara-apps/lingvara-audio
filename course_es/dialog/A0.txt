@@ -2,12 +2,12 @@
 ## Tanışma ve Selamlaşma
 A | ¡Hola! Buenos días. | Merhaba! Günaydın.
 B | ¡Hola! ¿Qué tal? | Merhaba! Nasılsın?
-A | Muy bien, gracias. ¿Y tú? | Çok teşekkürler, ya sen?
+A | Muy bien, gracias. ¿Y tú? | Çok iyiyim, teşekkürler. Ya sen?
 B | Estoy bien también. Me llamo Carlos. | Ben de iyiyim. Adım Carlos.
 A | Mucho gusto. Yo soy Maria. | Memnun oldum. Ben Maria.
-B | ¿Eres nueva en la isla? | Adada yeni misin?
-A | Sí, soy de España. | Evet, İspanya'dan geliyorum.
-B | ¡Qué bien! Bienvenida a la isla. | Ne güzel! Adaya hoş geldin.
+B | ¿Eres nueva en la ciudad? | Şehirde yeni misin?
+A | Sí, soy de Madrid. | Evet, Madrid'denim.
+B | ¡Qué bien! Bienvenida a Sevilla. | Ne güzel! Sevilla'ya hoş geldin.
 A | Muchas gracias, Carlos. | Çok teşekkür ederim, Carlos.
 B | De nada. ¡Hasta luego! | Rica ederim. Görüşmek üzere!
 
@@ -25,11 +25,11 @@ B | No, todo está claro. | Hayır, her şey açık.
 
 ## Günlük Yaşam ve Alışveriş
 A | Disculpe, ¿cuánto cuesta el pan? | Affedersiniz, ekmek ne kadar?
-B | El pan cuesta dos euros. | Ekmek iki euro.
+B | El pan cuesta dos euros. | Ekmek iki avro.
 A | Por favor, deme dos panes. | Lütfen bana iki ekmek verin.
 B | Aquí tiene. ¿Algo más? | Buyurun. Başka bir şey var mı?
 A | Sí, una botella de agua, por favor. | Evet, bir şişe su, lütfen.
-B | Son tres euros en total. | Toplam üç euro.
+B | Son cinco euros en total. | Toplam beş avro.
 A | Aquí tiene el dinero. ¡Gracias! | Parayı buyurun. Teşekkürler!
 B | Muchas gracias a usted. ¡Adiós! | Asıl ben teşekkür ederim. Hoşça kalın!
 A | ¡Que tenga un buen día! | İyi günler dilerim!
@@ -44,5 +44,5 @@ A | Perfecto. ¿Dónde exactamente? | Mükemmel. Tam olarak nerede?
 B | Cerca del café grande. | Büyük kafe yakınında.
 A | Entendido. Buenas noches, Carlos. | Anlaşıldı. İyi geceler, Carlos.
 B | Buenas noches, Maria. ¡Buen descanso! | İyi geceler, Maria. İyi dinlenmeler!
-A | ¡Hasta mañana! | Yarına kadar!
-B | ¡Hasta mañana, chao! | Yarına kadar, bay bay!
+A | ¡Hasta mañana! | Yarın görüşürüz!
+B | ¡Chao, hasta mañana! | Hoşça kal, yarın görüşürüz!

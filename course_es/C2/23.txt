@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## Borsa ve yatırım
+la cartera de valores | menkul kıymet portföyü | isim (d) | Diversificó su cartera de valores con bonos y acciones. | Menkul kıymet portföyünü tahvil ve hisselerle çeşitlendirdi.
+el dividendo | temettü | isim (e) | La empresa repartirá un dividendo extraordinario. | Şirket olağanüstü temettü dağıtacak.
+el accionista minoritario | azınlık hissedarı | isim (e) | Los accionistas minoritarios se opusieron a la fusión. | Azınlık hissedarları birleşmeye karşı çıktı.
+la minusvalía | değer kaybı (sermaye) | isim (d) | Vendió las acciones con una minusvalía considerable. | Hisseleri ciddi bir değer kaybıyla sattı.
+el derivado | türev ürün | isim (e) | Los derivados pueden multiplicar tanto las ganancias como las pérdidas. | Türev ürünler hem kazancı hem kaybı katlayabilir.
+el apalancamiento | kaldıraç (borçla yatırım) | isim (e) | Un apalancamiento excesivo llevó al fondo a la quiebra. | Aşırı kaldıraç fonu iflasa sürükledi.
+la venta en corto | açığa satış | isim (d) | La venta en corto apuesta por la caída de un valor. | Açığa satış bir hissenin düşüşüne oynar.
+el valor refugio | güvenli liman yatırım | isim (e) | En tiempos de crisis, el oro es un valor refugio. | Kriz zamanlarında altın güvenli limandır.
+la renta variable | hisse senedi piyasası, değişken getirili yatırım | isim (d) | La renta variable ofrece más rentabilidad y más riesgo. | Değişken getirili yatırım daha çok getiri ve risk sunar.
+la renta fija | sabit getirili yatırım | isim (d) | Los jubilados suelen preferir la renta fija. | Emekliler genellikle sabit getirili yatırımı tercih eder.
+## Vergi ve kredi
+el hecho imponible | vergiyi doğuran olay | isim (e) | La venta del inmueble constituye el hecho imponible. | Gayrimenkul satışı vergiyi doğuran olaydır.
+la base imponible | matrah | isim (d) | El impuesto se calcula sobre la base imponible. | Vergi matrah üzerinden hesaplanır.
+la exención | muafiyet | isim (d) | Las asociaciones benéficas gozan de exención fiscal. | Hayır kurumları vergi muafiyetinden yararlanır.
+el impuesto de sucesiones | veraset vergisi | isim (e) | Tuvo que pagar el impuesto de sucesiones al heredar la casa. | Evi miras alınca veraset vergisi ödemek zorunda kaldı.
+el crédito al consumo | tüketici kredisi | isim (e) | Pidió un crédito al consumo para comprar los muebles. | Mobilya almak için tüketici kredisi çekti.
+el interés compuesto | bileşik faiz | isim (e) | Gracias al interés compuesto, sus ahorros se duplicaron. | Bileşik faiz sayesinde birikimi ikiye katlandı.
+el diferencial | marj (faiz) | isim (e) | El banco aplica un diferencial del uno por ciento sobre el euríbor. | Banka euribor üzerine yüzde birlik marj uyguluyor.
+el periodo de carencia | ödemesiz dönem | isim (e) | El préstamo tiene un periodo de carencia de seis meses. | Kredinin altı aylık ödemesiz dönemi var.
+la usura | tefecilik | isim (d) | Cobrar esos intereses es pura usura. | Bu faizleri almak düpedüz tefecilik.
+el pagaré | senet | isim (e) | Firmó un pagaré a noventa días. | Doksan gün vadeli bir senet imzaladı.
+## Soyut fiiller I
+subyacer (subyace) | altında yatmak | fiil · düzensiz | Bajo su amabilidad subyace un gran resentimiento. | Nezaketinin altında büyük bir kırgınlık yatıyor.
+conllevar | beraberinde getirmek | fiil | El cargo conlleva una gran responsabilidad. | Görev beraberinde büyük bir sorumluluk getiriyor.
+propiciar | zemin hazırlamak | fiil | El diálogo propició un acuerdo. | Diyalog bir anlaşmaya zemin hazırladı.
+coadyuvar | katkıda bulunmak | fiil | Varios factores coadyuvaron al éxito del plan. | Birçok etken planın başarısına katkıda bulundu.
+dimanar | kaynaklanmak | fiil | Los problemas dimanan de una mala gestión. | Sorunlar kötü yönetimden kaynaklanıyor.
+entrañar | içermek, barındırmak (risk vb.) | fiil | La operación entraña ciertos riesgos. | Operasyon bazı riskler barındırıyor.
+suscitar | uyandırmak, yol açmak | fiil | La propuesta suscitó un intenso debate. | Öneri yoğun bir tartışmaya yol açtı.
+vertebrar | omurgasını oluşturmak | fiil | Tres ideas vertebran el ensayo. | Denemenin omurgasını üç fikir oluşturuyor.
+articular | ifade etmek, yapılandırmak | fiil | No supo articular una respuesta coherente. | Tutarlı bir yanıt ifade edemedi.
+plasmar | somutlaştırmak, yansıtmak | fiil | El pintor plasmó la luz del atardecer. | Ressam gün batımının ışığını tuvale yansıttı.
+## Soyut fiiller II
+soslayar | geçiştirmek, kaçınmak | fiil | El informe soslaya los datos incómodos. | Rapor rahatsız edici verileri geçiştiriyor.
+desentrañar | çözmek, içyüzünü anlamak | fiil | Los historiadores intentan desentrañar el misterio. | Tarihçiler gizemi çözmeye çalışıyor.
+refrendar | onaylamak | fiil | Los votantes refrendaron la reforma. | Seçmenler reformu onayladı.
+abogar por | savunmak, ...den yana olmak | ifade | La autora aboga por una educación más humana. | Yazar daha insancıl bir eğitimi savunuyor.
+redundar en | ...ile sonuçlanmak, ...e/a yansımak | ifade | La mejora redundará en beneficio de todos. | İyileştirme herkesin yararına olacak.
+incidir en | üzerinde durmak; etkilemek | ifade | El profesor incidió en la importancia del método. | Hoca yöntemin önemi üzerinde durdu.
+primar | ağır basmak, öncelik vermek | fiil | En esta empresa prima la calidad sobre la cantidad. | Bu şirkette kalite nicelikten önce gelir.
+supeditar | bağlı kılmak | fiil | Supeditó su respuesta a la aprobación del consejo. | Cevabını kurulun onayına bağladı.
+cotejar | karşılaştırmak | fiil | Cotejaron la copia con el original. | Kopyayı asılla karşılaştırdılar.
+esgrimir | (argüman) öne sürmek | fiil | Esgrimió razones de seguridad para cerrar el parque. | Parkı kapatmak için güvenlik gerekçelerini öne sürdü.
+## Entelektüel sıfatlar
+ineludible | kaçınılmaz | sıfat | Es una cita ineludible para los amantes del cine. | Sinemaseverler için kaçırılmaz bir buluşma.
+perentorio | acil, ertelenemez | sıfat | Recibió una orden perentoria de abandonar el edificio. | Binayı terk etmesi için ertelenemez bir emir aldı.
+subrepticio | gizlice yapılan | sıfat | Hubo un intento subrepticio de cambiar las reglas. | Kuralları gizlice değiştirme girişimi oldu.
+intrínseco | özünde var olan | sıfat | El valor intrínseco de la obra es indiscutible. | Eserin özündeki değer tartışılmaz.
+ostensible | açık, belirgin | sıfat | Hubo una mejora ostensible en sus notas. | Notlarında belirgin bir iyileşme oldu.
+fehaciente | kesin, inandırıcı (kanıt) | sıfat | No existe prueba fehaciente de su culpa. | Suçuna dair kesin bir kanıt yok.
+taxativo | kesin, net | sıfat | La norma es taxativa: no se admiten excepciones. | Kural net: istisna kabul edilmez.
+somero | yüzeysel, kısa | sıfat | Hizo un repaso somero de los resultados. | Sonuçları kısaca gözden geçirdi.
+plausible | makul, akla yatkın | sıfat | Es una explicación plausible del fenómeno. | Olguya dair akla yatkın bir açıklama.
+espurio | sahte, gayrimeşru | sıfat | Actuó movido por intereses espurios. | Gayrimeşru çıkarlarla hareket etti.
+## Kavramlar
+la dicotomía | ikilik | isim (d) | El libro supera la dicotomía entre razón y emoción. | Kitap akıl ile duygu arasındaki ikiliği aşıyor.
+la aporía | çıkmaz (felsefi) | isim (d) | El argumento conduce a una aporía. | Argüman bir çıkmaza varıyor.
+la idiosincrasia | kendine özgü karakter | isim (d) | Cada región tiene su propia idiosincrasia. | Her bölgenin kendine özgü bir karakteri var.
+el atavismo | atavizm, ilkel kalıntı | isim (e) | Aquel miedo era un atavismo de épocas remotas. | O korku uzak çağlardan kalma bir kalıntıydı.
+la entelequia | hayalî şey, soyut kurgu | isim (d) | Para muchos, la igualdad total es una entelequia. | Birçokları için tam eşitlik hayalî bir şey.
+la quimera | hayal, kuruntu | isim (d) | Perseguía la quimera de hacerse rico sin trabajar. | Çalışmadan zengin olma hayalinin peşindeydi.
+la panacea | her derde deva | isim (d) | La tecnología no es la panacea de la educación. | Teknoloji eğitimin her derdine deva değil.
+el desiderátum | en çok arzulanan şey, ideal | isim (e) | Una sanidad universal es el desiderátum de cualquier sociedad. | Evrensel sağlık hizmeti her toplumun ideali.
+el epítome | en tipik örnek, özet | isim (e) | Ese hotel es el epítome del lujo. | O otel lüksün en tipik örneği.
+la disyuntiva | ikilem | isim (d) | Se encontró ante la disyuntiva de quedarse o emigrar. | Kalmak ya da göç etmek ikilemiyle karşılaştı.
+## Tutum ve -izmler
+el eclecticismo | seçmecilik, eklektizm | isim (e) | El eclecticismo del arquitecto mezcla estilos de varias épocas. | Mimarın eklektizmi birçok dönemin üslubunu karıştırıyor.
+el maniqueísmo | iyi-kötü ikiciliği | isim (e) | El debate cayó en un maniqueísmo simplista. | Tartışma basit bir iyi-kötü ikiciliğine düştü.
+el voluntarismo | iradecilik, salt iyi niyete güvenme | isim (e) | El plan pecaba de voluntarismo y le faltaban recursos. | Plan salt iyi niyete dayanıyordu ve kaynakları yetersizdi.
+el paternalismo | babacılık, vesayetçilik | isim (e) | Los empleados rechazaban el paternalismo de la dirección. | Çalışanlar yönetimin vesayetçiliğini reddediyordu.
+el esencialismo | özcülük | isim (e) | La autora critica el esencialismo de ciertas teorías. | Yazar bazı teorilerin özcülüğünü eleştiriyor.
+el adanismo | her şeyi sıfırdan başlatma iddiası | isim (e) | El nuevo director pecó de adanismo e ignoró lo hecho antes. | Yeni müdür her şeyi sıfırdan başlatma hatasına düştü ve önceki işleri yok saydı.
+el buenismo | saf iyi niyetlilik (eleştirel) | isim (e) | Lo acusaron de buenismo por confiar en todos. | Herkese güvendiği için saf iyi niyetlilikle suçlandı.
+el cortoplacismo | kısa vadecilik | isim (e) | El cortoplacismo impide planificar el futuro. | Kısa vadecilik geleceği planlamayı engelliyor.
+el inmovilismo | değişime direnç, durağanlık | isim (e) | El inmovilismo de la institución frenó las reformas. | Kurumun değişime direnci reformları frenledi.
+el victimismo | mağduru oynama | isim (e) | Su victimismo constante cansa a todos. | Sürekli mağduru oynaması herkesi yoruyor.
+## İnsan tipleri I
+el diletante | heveskâr, amatör | isim (e) | Es un diletante que opina de arte sin haber estudiado. | Sanat okumadan sanat hakkında konuşan bir heveskâr.
+el advenedizo | sonradan görme | isim (e) | La vieja aristocracia despreciaba a los advenedizos. | Eski aristokrasi sonradan görmeleri küçümserdi.
+el arribista | her yolu mubah sayan kariyerist | isim (e) | Es un arribista capaz de todo por un ascenso. | Bir terfi için her şeyi yapabilecek bir kariyerist.
+el sicofante | dalkavuk, iftiracı | isim (e) | El rey estaba rodeado de sicofantes. | Kral dalkavuklarla çevriliydi.
+el demagogo | demagog | isim (e) | El demagogo prometía soluciones fáciles a todo. | Demagog her şeye kolay çözümler vaat ediyordu.
+el filisteo | kaba zevkli, sanattan anlamayan | isim (e) | Solo un filisteo despreciaría esta música. | Bu müziği ancak sanattan anlamayan biri küçümser.
+el iconoclasta | gelenek yıkıcı | isim (e) | Fue un iconoclasta que desafió todas las normas del género. | Türün bütün kurallarına meydan okuyan gelenek yıkıcı biriydi.
+el epígono | taklitçi takipçi | isim (e) | Sus epígonos nunca alcanzaron su talento. | Takipçileri onun yeteneğine hiç ulaşamadı.
+el neófito | acemi, yeni başlayan | isim (e) | El manual está pensado para neófitos. | El kitabı yeni başlayanlar için tasarlandı.
+el prosélito | taraftar, mürit | isim (e) | La nueva corriente ganó prosélitos rápidamente. | Yeni akım hızla taraftar kazandı.
+## İnsan tipleri II
+el sabelotodo | ukala, her şeyi bilen | isim (e) | Nadie soporta a ese sabelotodo en las reuniones. | Toplantılarda o ukalaya kimse katlanamıyor.
+el polímata | çok yönlü bilgin | isim (e) | Era un polímata: médico, músico y matemático. | Çok yönlü bir bilgindi: doktor, müzisyen ve matematikçi.
+el misántropo | insandan kaçan kişi | isim (e) | Con los años se volvió un misántropo. | Yıllar içinde insanlardan kaçan biri oldu.
+el hedonista | hazcı | isim (e) | Como buen hedonista, no renuncia a una buena cena. | İyi bir hazcı olarak güzel bir akşam yemeğinden vazgeçmez.
+el estoico | dirençli, metanetli kişi | isim (e) | Se comportó como un estoico ante la desgracia. | Felaket karşısında metanetli davrandı.
+el visionario | ileri görüşlü kişi | isim (e) | La consideraban una visionaria de la arquitectura. | Onu mimarlıkta ileri görüşlü biri sayıyorlardı.
+el abogado del diablo | şeytanın avukatı | isim (e) | Voy a hacer de abogado del diablo para probar tu idea. | Fikrini sınamak için şeytanın avukatlığını yapacağım.
+el gurú | guru, üstat | isim (e) | Se presenta como un gurú de la productividad. | Kendini verimlilik gurusu olarak tanıtıyor.
+el agorero | uğursuz kehanetçi, kötümser | isim (e) | Los agoreros anunciaban el fracaso del proyecto. | Kötümserler projenin başarısız olacağını söylüyordu.
+el aguafiestas | oyunbozan | isim (e) | No seas aguafiestas y quédate un rato más. | Oyunbozanlık yapma, biraz daha kal.
+## Latince ve akademik ifadeler
+sui generis | kendine özgü | ifade | Tiene un sentido del humor muy sui generis. | Çok kendine özgü bir mizah anlayışı var.
+in situ | yerinde | ifade | Los técnicos analizaron los daños in situ. | Teknisyenler hasarı yerinde inceledi.
+mutatis mutandis | gerekli değişiklikler yapılarak | ifade | El modelo puede aplicarse, mutatis mutandis, a otros países. | Model, gerekli değişiklikler yapılarak, başka ülkelere de uygulanabilir.
+per se | kendi başına, özünde | ifade | El dinero per se no da la felicidad. | Para kendi başına mutluluk getirmez.
+ex profeso | bilerek, özellikle | ifade | Vino ex profeso para hablar conmigo. | Özellikle benimle konuşmak için geldi.
+a fortiori | haydi haydi, evleviyetle | ifade | Si es caro para un adulto, a fortiori lo será para un estudiante. | Bir yetişkin için pahalıysa, bir öğrenci için haydi haydi pahalıdır.
+ad infinitum | sonsuza dek | ifade | Podríamos discutir ad infinitum sin llegar a nada. | Hiçbir sonuca varmadan sonsuza dek tartışabilirdik.
+stricto sensu | dar anlamda | ifade | Stricto sensu, no se trata de un delito. | Dar anlamda bu bir suç değil.
+ad hominem | kişiye yönelik (argüman) | ifade | En lugar de rebatir la idea, lanzó un ataque ad hominem. | Fikri çürütmek yerine kişiye yönelik bir saldırıda bulundu.
+quid pro quo | karşılıklı çıkar, bir şeye karşılık bir şey | ifade | El acuerdo fue un claro quid pro quo. | Anlaşma açık bir karşılıklı çıkar alışverişiydi.

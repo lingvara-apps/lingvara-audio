@@ -8,7 +8,7 @@ el atolón | atol, mercan adası | isim (e) | El remoto atolón coralino apenas 
 el promontorio | burun, dik tepe | isim (e) | El antiguo promontorio rocoso vigila la entrada al puerto natural. | Eski kayalık burun doğal limanın girişini gözetler.
 el fiordo | fiyort | isim (e) | El angosto fiordo penetra profundamente en la escarpada costa. | Dar fiyort sarp kıyının derinliklerine kadar sokulur.
 el precipicio | uçurum, sarp yar | isim (e) | La estrecha senda bordea un vertiginoso precipicio de granito. | Dar patika baş döndürücü bir granit uçurumun kenarından geçer.
-el glaciar | buzul | isim (e) | El antiguo glaciar retrocede debido al progresivo calentamiento térmico. | Eski buzul aşamalı termal ısınma yüzünden geri çekiliyor.
+la morrena | moren (buzul döküntüsü) | isim (d) | La morrena marca hasta dónde llegó el hielo. | Moren buzun nereye kadar ulaştığını gösterir.
 la cordillera | dağ silsilesi, sıradağ | isim (d) | La inmensa cordillera nevada atraviesa de norte a sur el continente. | Uçsuz bucaksız karlı sıradağ kıtayı kuzeyden güneye boydan boya geçer.
 ## Su kaynakları ve hidrografya
 el riachuelo | küçük dere, çay | isim (e) | Un claro riachuelo serpentea plácidamente entre los densos prados. | Berrak bir çay yoğun çayırların arasında sakince kıvrılır.
@@ -26,7 +26,7 @@ la falla | fay, kırık hattı | isim (d) | La activa falla geológica genera te
 el estrato | tabaka, katman | isim (e) | Cada estrato horizontal refleja una época geológica diferenciada. | Her yatay tabaka farklı bir jeolojik dönemi yansıtır.
 el magma | magma | isim (e) | El fluido magma asciende impulsado por las altas presiones internas. | Akışkan magma yüksek iç basınçların etkisiyle yukarı yükselir.
 el manto | manto katmanı, yer mantosu | isim (e) | La convección del manto terrestre desplaza las masas continentales. | Yer mantosunun taşınımı kıtasal kütleleri hareket ettirir.
-el seísmo | sarsıntı, sepi, deprem | isim (e) | El violento seísmo submarino originó una perturbación marina destructiva. | Şiddetli deniz depremi yıkıcı bir deniz karmaşasına yol açtı.
+el seísmo | deprem, sarsıntı | isim (e) | El violento seísmo submarino originó una perturbación marina destructiva. | Şiddetli deniz depremi yıkıcı bir deniz karmaşasına yol açtı.
 el cráter | krater, yanardağ ağzı | isim (e) | El cráter apagado ahora contiene una hermosa laguna volcánica. | Sönmüş krater şimdi güzel bir volkanik göl barındırmaktadır.
 la lava | lav, püskürük | isim (d) | La ardiente lava basáltica solidifica al contacto con el aire. | Kor halindeki bazalt lavı havayla temas edince katılaşır.
 el sedimento | tortul malzeme, çökelti | isim (e) | El sedimento arcilloso acumulado compacta tras millones de años. | Biriken killi çökelti milyonlarca yıl sonra sıkışıp katılaşır.
@@ -42,7 +42,7 @@ el ciclón | siklon, kasırga | isim (e) | El voraz ciclón atlántico derribó 
 la condensación | yoğunlaşma, buhar çökmesi | isim (d) | La rápida condensación del vapor origina bancos densos de niebla. | Buharın hızlı yoğunlaşması yoğun sis tabakalarına yol açar.
 la pluviosidad | yağış miktarı, yağışlılık | isim (d) | La reducida pluviosidad anual convierte la región en estepa desértica. | Düşük yıllık yağış miktarı bölgeyi çölümsü bozkıra çevirir.
 el anticiclón | yüksek basınç merkezi, antisiklon | isim (e) | Un persistente anticiclón invernal garantiza cielos despejados pero helados. | Kışın kalıcı bir antisiklon açık ama ayaz gökyüzünü garantiler.
-la ventisca | tipi, kar fırtınası | isim (d) | Una cegadora ventisca cegó a los excursionistas en el collado. | Kör edici bir tipi dağ geçidindeki doğa yürüyüşçülerini şaşırttı.
+la ventisca | tipi, kar fırtınası | isim (d) | Una ventisca repentina sorprendió a los excursionistas en el collado. | Kör edici bir tipi dağ geçidindeki doğa yürüyüşçülerini şaşırttı.
 ## Kartografi ve yönler
 el meridiano | meridyen | isim (e) | El meridiano cero sirve de referencia horaria para el mundo. | Sıfır meridyeni dünya için saat referansı işlevi görür.
 el paralelo | paralel daire, enlem çizgisi | isim (e) | Cada paralelo circunda la Tierra trazando círculos perpendiculares. | Her paralel yeryüzünü dik çemberler çizerek çevreler.
@@ -55,7 +55,7 @@ el acimut | azimut, yatay yön açısı | isim (e) | El navegante calculó el ac
 el hemisferio | yarım küre | isim (e) | Las estaciones se alternan según el hemisferio donde nos encontremos. | Mevsimler bulunduğumuz yarım küreye göre sırayla değişir.
 la altitud | rakım | isim (d) | La elevada altitud alpina exige una aclimatación respiratoria previa. | Yüksek alpin rakım önceden solunumsal uyum sağlamayı gerektirir.
 ## Çevre ve ekosistemler
-el ecosistema | ekosistem | isim (e) | El vulnerable ecosistema dunar precisa protección frente al turismo masivo. | Kırılgan kumul ekosistemi kitlesel turizme karşı korunmaya muhtaçtır.
+el nicho ecológico | ekolojik niş | isim (e) | Cada especie ocupa un nicho ecológico distinto. | Her tür farklı bir ekolojik nişe sahiptir.
 la biodiversidad | biyoçeşitlilik | isim (d) | Preservar la biodiversidad vegetal garantiza la estabilidad ecológica futura. | Bitki biyoçeşitliliğini muhafaza etmek gelecekteki ekolojik dengeyi güvenceye alır.
 la biosfera | biyosfer, canlı küre | isim (d) | La polución química transfronteriza daña irreversiblemente la biosfera compartida. | Sınır ötesi kimyasal kirlilik ortak biyosfere geri dönüşsüz zarar verir.
 el biotopo | biyotop, yaşam çevresi | isim (e) | Las marismas mareales forman un singular biotopo ornitológico costero. | Gelgit bataklıkları özgün bir kıyı ornitoloji biyotopu meydana getirir.
@@ -78,19 +78,19 @@ la vulcanología | volkan bilimi | isim (d) | La moderna vulcanología instrumen
 la sismología | sismoloji, deprem bilimi | isim (d) | Los avances de la sismología mejoran el diseño constructivo sismorresistente. | Sismolojideki ilerlemeler depreme dayanıklı yapı tasarımını geliştirir.
 ## Doğal afetler
 el cataclismo | büyük felaket, yer sarsıntısı | isim (e) | Un súbito cataclismo geológico sepultó la floreciente urbe portuaria. | Ani bir jeolojik büyük felaket gelişmekte olan liman kentini gömdü.
-la avalancha | çığ | isim (d) | El desprendimiento nival desató una furiosa avalancha ladera abajo. | Kar tabakasının kopması aşağı yamaçta öfkeli bir çığ tetikledi.
+el permafrost | donmuş toprak | isim (e) | El deshielo del permafrost libera metano. | Donmuş toprağın çözülmesi metan açığa çıkarır.
 el maremoto | deniz depremi, tsunamili sarsıntı | isim (e) | El maremoto abisal generó olas gigantescas que alcanzaron el litoral. | Derin deniz depremi kıyıya ulaşan devasa dalgalar üretti.
 el aluvión | seylap, moloz taşkını | isim (e) | Un violento aluvión de fango y piedras anegó las viviendas. | Şiddetli bir çamur ve taş taşkını evleri sular altında bıraktı.
 el deslizamiento | heyelan, kütle kayması | isim (e) | El deslizamiento masivo sepultó tramos enteros de la red viaria. | Kütlesel heyelan karayolu ağının koca kesimlerini gömdü.
 el estiaje | kurak dip seviyesi, su çekilmesi | isim (e) | El pronunciado estiaje otoñal secó casi por completo el cauce. | Sonbahardaki belirgin su çekilmesi nehir yatağını neredeyse kuruttu.
-la tempestad | boran, fırtına | isim (d) | La tempestad desatada arrancó ramas y zarandeó las naves ancladas. | Kopan boran dalları kopardı ve demirli gemileri hırpaladı.
+la tromba de agua | sağanak, hortum | isim (d) | Una tromba de agua inundó las calles en minutos. | Bir sağanak dakikalar içinde sokakları su bastı.
 el turbión | sağanak tufanı, kasırga | isim (e) | El repentino turbión descargó granizo grueso sobre los huertos frágiles. | Ani fırtına sağanağı narin bostanların üzerine iri dolu boşalttı.
 el desprendimiento | kaya düşmesi, toprak kayması | isim (e) | Un peligroso desprendimiento de peñascos cerró el túnel de montaña. | Tehlikeli bir kaya düşmesi dağ tünelini ulaşıma kapattı.
 el desastre | yıkım, felaket | isim (e) | Las autoridades coordinaron brigadas de auxilio tras el desastre. | Yetkililer felaketin ardından acil yardım ekiplerini koordine etti.
 ## Madenler ve taşlar
 el granito | granit | isim (e) | Esta catedral gótica fue construida con bloques macizos de granito. | Bu gotik katedral masif granit bloklarla inşa edilmiştir.
 la caliza | kireç taşı, kalker | isim (d) | El agua disuelve con facilidad los laberintos de roca caliza. | Su, kireç taşı kayasının labirentlerini kolaylıkla çözer.
-el mármol | mermer | isim (e) | Los antiguos escultores labraban finos relieves sobre pulido mármol blanco. | Eski heykeltıraşlar cilalı beyaz mermer üzerine ince kabartmalar işlerdi.
+la obsidiana | obsidyen, volkan camı | isim (d) | La obsidiana es un vidrio volcánico negro. | Obsidyen siyah bir volkan camıdır.
 la laja | yassı taş, şist levha | isim (d) | Cubrieron el rústico tejado montañés con placas de laja pizarra. | Köy dağ evinin çatısını yassı arduvaz taş plakalarıyla örttüler.
 el basalto | bazalt | isim (e) | La colada volcánica enfriada formó impresionantes columnas prismáticas de basalto. | Soğuyan volkanik akıntı etkileyici prizmatik bazalt sütunları meydana getirdi.
 la arcilla | kil | isim (d) | El suelo con abundante arcilla impermeable retiene charcos tras llover. | Bol geçirimsiz kil barındıran zemin yağmurdan sonra su birikintisi tutar.
@@ -102,7 +102,7 @@ el aljez | alçı taşı, jips | isim (e) | Las canteras de aljez abastecen de y
 la prospección | arama, yüzey taraması | isim (d) | La prospección geofísica superficial detectó yacimientos metálicos no explotados aún. | Yüzeyel jeofizik arama henüz işletilmemiş metalik yataklar tespit etti.
 el muestreo | örnekleme, numune alma | isim (e) | Realizaron un minucioso muestreo edáfico para evaluar la fertilidad natural. | Doğal verimliliği değerlendirmek için titiz bir toprak örneklemesi yaptılar.
 la datación | tarihlendirme, yaş tayini | isim (d) | La datación radiométrica confirmó la enorme antigüedad de las rocas. | Radyometrik yaş tayini kayaların devasa yaşını doğruladı.
-el sensor | algılayıcı, duyarga | isim (e) | Colocaron un sensor digital para medir las vibraciones tectónicas menores. | Küçük tektonik titreşimleri ölçmek için dijital bir algılayıcı yerleştirdiler.
+el pluviómetro | yağmur ölçer | isim (e) | El pluviómetro registró cien litros por metro cuadrado. | Yağmur ölçer metrekareye yüz litre kaydetti.
 la batimetría | batimetri, derinlik ölçümü | isim (d) | La batimetría submarina reveló profundas fosas en el fondo abisal. | Deniz altı derinlik ölçümü dipsiz dipte derin çukurlukları ortaya çıkardı.
 el croquis | topoğrafik kroki, taslak | isim (e) | El explorador trazó un croquis esquemático de las cavernas transitadas. | Kâşif geçilen mağaraların şematik bir krokisini çizdi.
 la cartografía | haritacılık | isim (d) | La cartografía digitalizada facilita el análisis espacial de cuencas hidrográficas. | Dijital haritacılık su havzalarının mekânsal analizini kolaylaştırır.

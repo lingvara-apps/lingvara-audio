@@ -5,22 +5,22 @@ B | Hola, buenos días. Me llamo Diego. ¿Y tú? | Merhaba, günaydın. Adım Di
 A | Soy Anna. Encantada de conocerte, Diego. | Ben Anna. Tanıştığımıza memnun oldum, Diego.
 B | Igualmente, Anna. ¿De dónde eres? | Ben de memnun oldum, Anna. Nerelisin?
 A | Soy de Alemania, pero ahora vivo en Madrid. | Almanyalıyım ama şimdi Madrid'de yaşıyorum.
-B | ¡Qué bien! ¿Hablas español muy bien? | Ne güzel! Çok iyi İspanyolca konuşuyor musun?
+B | ¡Qué bien! ¿Hablas español? | Ne güzel! İspanyolca konuşuyor musun?
 A | Un poco. Estoy aprendiendo poco a poco. | Biraz. Yavaş yavaş öğreniyorum.
 B | Lo hablas muy bien. ¿Trabajas aquí? | Çok iyi konuşuyorsun. Burada mı çalışıyorsun?
 A | Sí, trabajo en una oficina en el centro. | Evet, merkezde bir ofiste çalışıyorum.
-B | ¡Excelente! Mucho éxito con todo. | Harika! Her şeyde bol şans dilerim.
-## Kahve Dükkanında Sipariş
-A | Buenas tardes. Una mesa para dos, por favor. | Tünaydın. İki kişilik bir masa lütfen.
-B | Buenas tardes. Por aquí, por favor. ¿Qué desean? | Tünaydın. Buradan lütfen. Ne arzu edersiniz?
-A | Para mí un café con leche y un cruasán. | Benim için sütlü kahve ve bir kruvasan.
-B | Y para mí un té verde y agua mineral, gracias. | Ve benim için bir yeşil çay ve maden suyu, teşekkürler.
-A | ¿Tienen tarta de chocolate hoy? | Bugün çikolatalı kekiniz var mı?
-B | Sí, tenemos tarta fresca de chocolate. | Evet, taze çikolatalı kekimiz var.
-A | Perfecta. Una porción de tarta también, por favor. | Mükemmel. Bir dilim de kek lütfen.
-B | Muy bien. ¿Algo más para beber o comer? | Pekala. İçecek veya yiyecek başka bir şey var mı?
-A | No, eso es todo por ahora. Muchas gracias. | Hayır, şimdilik bu kadar. Çok teşekkürler.
-B | Enseguida traigo todo a vuestra mesa. | Her şeyi hemen masanıza getiriyorum.
+B | ¡Genial! Mucha suerte con todo. | Harika! Her şeyde bol şans.
+## Kafede
+A | ¿Nos sentamos en esta mesa? | Bu masaya oturalım mı?
+B | Sí, aquí hay mucha luz. ¿Qué quieres tomar? | Evet, burası çok aydınlık. Ne içmek istersin?
+A | Para mí un café con leche y un cruasán. | Ben sütlü kahve ve bir kruvasan alayım.
+B | Yo quiero un té verde y agua mineral. | Ben yeşil çay ve maden suyu istiyorum.
+A | ¿Tienen tarta de chocolate hoy? | Bugün çikolatalı pastaları var mı?
+B | Sí, mira, está allí, en la vitrina. | Evet, bak, orada, vitrinde.
+A | ¡Qué buena pinta! Voy a pedir un trozo. | Çok güzel görünüyor! Bir dilim sipariş edeceğim.
+B | Yo también. Llamo al camarero. | Ben de. Garsonu çağırıyorum.
+A | Hoy pago yo, ¿vale? | Bugün ben ödüyorum, tamam mı?
+B | Vale, muchas gracias. La próxima vez invito yo. | Tamam, çok teşekkürler. Bir dahaki sefere ben ısmarlarım.
 ## Şehirde Yol Tarifi Sorma
 A | Perdón, ¿dónde está la estación de tren? | Pardon, tren istasyonu nerede?
 B | Sigue todo recto por esta calle, por favor. | Lütfen bu sokaktan hep düz devam edin.

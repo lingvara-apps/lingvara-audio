@@ -1,55 +1,48 @@
-# TOPIC: İspanyolcada Şahıs Zamirleri | yo, tú, él, ella
-> İspanyolcada fiiller şahıslara göre çekimlenir, bu yüzden zamirleri bilmek temel oluşturur.
-> "Usted" sözcüğü resmi "siz" anlamında kullanılır ve 3. tekil şahıs gibi çekimlenir.
-> Çoğul erkek veya karışık gruplar için "nosotros" ve "ellos" tercih edilir.
-= yo soy estudiante | ben öğrenciyim
-= tú eres amigo | sen arkadaşsın
-= ella es profesora | o kadın öğretmen
-= nosotros somos de Turquía | biz Türkiye'deniz
-? İspanyolcada ben zamiri hangisidir? | yo | tú | él
-? Sen anlamına gelen gayriresmi zamir hangisidir? | tú | yo | usted
-? O (erkek) anlamına gelen zamir hangisidir? | él | ella | yo
-? Resmi siz anlamına gelen zamir hangisidir? | usted | tú | nosotros
-? Biz anlamına gelen çoğul zamir hangisidir? | nosotros | vosotros | ellos
-
-# TOPIC: Ser Fiili (Olmak) | soy, eres, es
-> Ser fiili kimlik, milliyet, meslek ve kişilik özelliklerini belirtmek için kullanılır.
-> "Yo soy" ben yım, "tú eres" sen sin, "él es" o dur anlamı verir.
-> Cümle kurarken özne zamiri düşebilir çünkü fiil çekimi zaten şahsı belirtir.
-= soy de Madrid | Madridliyim
-= tú eres muy simpático | sen çok sempatiksin
-= ella es médica | o kadın doktor
-= somos amigos | biz arkadaşız
-? Ben öğrenciyim cümlesinde ser fiilinin doğru çekimi hangisidir? | soy | eres | es
-? Sen Türkçelisin cümlesi için doğru ifade nedir? | tú eres turco | tú soy turco | tú es turco
-? O (erkek) mühendistir demek için hangi fiil kullanılır? | es | soy | eres
-? Biz mutluyuz cümlesinde ser fiili nasıl çekimlenir? | somos | sois | son
-? Ser fiilinin tú şahsına göre çekimi hangisidir? | eres | soy | es
-
-# TOPIC: İsimlerde Cinsiyet ve Çoğul Yapma | el libro, los libros
-> İspanyolcada tüm isimlerin bir cinsiyeti vardır; genellikle -o ile bitenler eril, -a ile bitenler dişil olur.
-> Eril isimler için "el" (çoğulda "los"), dişil isimler için "la" (çoğulda "las") artikeli kullanılır.
-> Kelime sesli harfle bitiyorsa çoğul yapmak için "-s", sessiz harfle bitiyorsa "-es" eki getirilir.
-= el libro y los libros | kitap ve kitaplar
-= la casa y las casas | ev ve evler
-= el profesor y los profesores | öğretmen ve öğretmenler
-= la ciudad y las ciudades | şehir ve şehirler
-? Eril tekil isimler için hangi artikel kullanılır? | el | la | los
-? Dişil tekil bir isim olan "casa" kelimesinin artikeli nedir? | la | el | los
-? Sesli harfle biten bir ismi çoğul yapmak için ne eklenir? | -s | -es | -os
-? Sessiz harfle biten "profesor" kelimesinin çoğul hali nasıldır? | profesores | profesors | profesora
-? Dişil çoğul isimler için hangi artikel kullanılır? | las | los | el
-
-# TOPIC: Temel Soru Zamirleri | qué, quién, dónde
-> İspanyolca soru cümlelerinde kelimelerin üzerine vurgu işareti (tide) konulur.
-> Soru cümleleri genellikle ters soru işaretiyle (¿) başlar ve normal soru işaretiyle (?) biter.
-> "Dónde" nerede, "qué" ne, "quién" kim anlamına gelir.
-= ¿qué es esto? | bu nedir?
-= ¿dónde está el libro? | kitap nerede?
-= ¿quién es él? | o kim?
-= ¿cómo estás? | nasılsın?
-? Ne anlamına gelen soru zamiri hangisidir? | qué | quién | dónde
-? Nerede anlamına gelen soru sözcüğü hangisidir? | dónde | qué | cómo
-? Kim anlamına gelen soru zamiri hangisidir? | quién | qué | dónde
-? İspanyolca soru cümlelerinin başında hangi noktalama işareti kullanılır? | ¿ | ¡ | .
-? Nasılsın demek için hangi soru kelimesi kullanılır? | cómo | qué | dónde
+# TOPIC: Artikeller: el, la, un, una | el libro, la casa, un gato
+> İspanyolcada her ismin bir cinsiyeti vardır: eril (el) ya da dişil (la). Çoğu zaman -o ile biten isimler eril, -a ile bitenler dişildir.
+> Belirsiz artikel "bir" anlamı verir: eril isimle un, dişil isimle una kullanılır: un perro, una mesa.
+> Bazı isimler kurala uymaz: el día, el mapa, la mano. Bu yüzden her ismi artikeliyle birlikte öğrenmek en iyisidir.
+= el libro, la casa | kitap, ev
+= un gato y una vaca | bir kedi ve bir inek
+= el día, la mano | gün, el
+? ___ libro es azul. | El | La | Una
+? Tengo ___ casa pequeña. | una | un | el
+? ___ mesa es grande. | La | El | Un
+? Veo ___ pájaro. | un | una | la
+? Hangisi doğru? | el día | la día | una día
+# TOPIC: ser fiili | yo soy, tú eres, él es
+> ser "olmak" demektir; kimlik, köken, meslek ve kalıcı özellikler için kullanılır: Soy Ana. Soy de Turquía.
+> Çekimi düzensizdir: yo soy, tú eres, él/ella/usted es, nosotros somos, vosotros sois, ellos/ellas/ustedes son.
+> Fiil şahsı zaten gösterdiği için zamir çoğu zaman söylenmez: Soy estudiante (= Yo soy estudiante).
+= Soy de Estambul. | İstanbulluyum.
+= ¿Eres estudiante? | Öğrenci misin?
+= Ellos son mis amigos. | Onlar benim arkadaşlarım.
+? Yo ___ Ali. | soy | eres | es
+? Tú ___ muy simpático. | eres | es | soy
+? Ella ___ médica. | es | son | eres
+? Nosotros ___ de México. | somos | sois | son
+? "Onlar öğretmen." | Ellos son profesores. | Ellos es profesores. | Ellos somos profesores.
+# TOPIC: Çoğul: -s ve -es | libro → libros, ciudad → ciudades
+> Ünlüyle biten isimler -s alır: casa → casas, libro → libros. Ünsüzle biten isimler -es alır: ciudad → ciudades, flor → flores.
+> Artikel de çoğul olur: el → los, la → las, un → unos, una → unas.
+> -z ile biten isimlerde z, c olur: lápiz → lápices, pez → peces.
+= los libros y las casas | kitaplar ve evler
+= unas flores rojas | birkaç kırmızı çiçek
+= dos lápices | iki kurşun kalem
+? el perro → los ___ | perros | perroes | perro
+? la ciudad → las ___ | ciudades | ciudads | ciudadas
+? el lápiz → los ___ | lápices | lápizes | lápizs
+? la flor → ___ flores | las | los | la
+? "Bazı kediler" | unos gatos | unos gatoes | unas gatos
+# TOPIC: este, ese, aquel | este libro, esa mesa, aquellos árboles
+> Yakındaki şey için este/esta (bu), biraz uzaktaki için ese/esa (şu), çok uzaktaki için aquel/aquella (o, ötedeki) kullanılır.
+> İşaret sıfatı ismin cinsiyetine ve sayısına uyar: este libro, esta mesa, estos libros, estas mesas.
+> Tek başına "bu (şey)" demek için esto, "şu (şey)" için eso kullanılır: ¿Qué es esto?
+= Este coche es nuevo. | Bu araba yeni.
+= Esas chicas son mis primas. | Şu kızlar benim kuzenlerim.
+= Aquella montaña es muy alta. | Ötedeki dağ çok yüksek.
+? ___ mesa es mía. (bu) | Esta | Este | Estos
+? ___ libros son caros. (bu) | Estos | Estas | Este
+? ¿Qué es ___? (bu şey) | esto | este | esta
+? ___ casas son bonitas. (şu) | Esas | Esos | Esa
+? ___ árbol es muy viejo. (ötedeki) | Aquel | Aquella | Aquellos

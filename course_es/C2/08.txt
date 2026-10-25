@@ -1,111 +1,111 @@
 # UNIT: Sokak dili | Gündelik kaba ama yaygın ifadeler, ünlemler (küfür yok)
-## Sövgü ve tepki
-recalcitrante | inatçı; dik başlı | sıfat | Ese chico es muy recalcitrante. | O çocuk çok inatçı.
-nefario | iğrenç; kötü | sıfat | Me parece un acto nefario. | Bana iğrenç bir eylem gibi geliyor.
-majadero | aptal; sersem | sıfat | No seas tan majadero, por favor. | Lütfen o kadar sersem olma.
-mendaz | yalancı | sıfat | Su testimonio resultó mendaz. | Onun ifadesi yalancı çıktı.
-zafio | kaba; görgüsüz | sıfat | Su comportamiento fue muy zafio. | Davranışı oldukça kabadaydı / görgüsüzdü.
-inane | boş; faydasız | sıfat | Hicieron un comentario inane. | Boş bir yorum yaptılar.
-necio | aptal; budala | sıfat | No alterques con un necio. | Budala biriyle atışma.
-memo | salak; aptal | sıfat | Se quedó con cara de memo. | Salak gibi kaldı.
-vacuo | boş; içi boş | sıfat | Fue un discurso sumamente vacuo. | Son derece boş bir konuşmaydı.
-verecundo | utangaç; sıkılgan | sıfat | Era un joven muy verecundo. | Çok utangaç bir gençti.
-## argo ve hitaplar
-chabacano | zevksiz; bayağı | sıfat | Aquella fiesta resultó muy chabacano. | O parti oldukça bayağı geçti.
-patán | kaba köylü; patavatsız | sıfat | Se comportó como un auténtico patán. | Gerçek bir patavatsız gibi davrandı.
-mastuerzo | aptal; budala (argo) | sıfat | ¡No digas tonterías, mastuerzo! | Saçma sapan şeyler söyleme, aptal!
-tontaina | aptalca davranan; saf | sıfat | Ese tontaina se cayó otra vez. | O saf yine düştü.
-pelma | sıkıcı; dırdırcı | sıfat | Qué tipo tan pelma eres hoy. | Bugün ne kadar sıkıcı bir adamsın.
-pesado | yılışık; bunaltıcı | sıfat | No seas tan pesado conmigo. | Bana karşı o kadar yılışık olma.
-borde | kaba; suratsız | sıfat | El dependiente fue muy borde. | Tezgahtar çok suratsızdı.
-ufano | kibirli; kendini beğenmiş | sıfat | Tiene una actitud muy ufana. | Kendini beğenmiş bir tavrı var.
-pasmarote | sersem; şaşkın | sıfat | Se quedó pasmarote al verle. | Onu görünce şaşkın gibi kaldı.
-gorrón | asalak; otlakçı | sıfat | Odia a la gente gorrón. | Otlakçı insanlardan nefret eder.
-## Şaşırma ve nida
-recontra | aşırı; çok (pekiştirme) | zarf | Estoy recontra cansado hoy. | Bugün aşırı derecede yorgunum.
-carambas | hayret; aman tanrım | ünlem | ¡Carambas, qué sorpresa! | Aman tanrım, ne sürpriz!
-arre | haydi; yürü (hayvan veya hızlı hareket) | ünlem | ¡Arre, caballo, más rápido! | Haydi at, daha hızlı!
-ox | kış; uzak dur (kovma) | ünlem | ¡Ox, fuera de aquí! | Kış, buradan defol!
-eco | aynen; haklısın (onay) | ifade | ¡Eco, eso mismo pensaba! | Aynen, tam da onu düşünüyordum!
-tate | dur; yakaladım (aniden anlama) | ünlem | ¡Tate, ya sé dónde está! | Dur, nerede olduğunu biliyorum!
-chisum | dedikoducu (bölgesel) | sıfat | Es un vecino muy chisum. | Çok dedikoducu bir komşu.
-zote | cahil; kafasız | sıfat | Resultó ser un zote total. | Tam bir kafasız çıktı.
-tontoelhabas | aptal (komik hakaret) | sıfat | No seas tontoelhabas, hombre. | Aptal olma, dostum.
-soplagaitas | boşboğaz; beceriksiz | sıfat | Ese soplagaitas arruinó todo. | O beceriksiz her şeyi mahvetti.
-## Kızgınlık ifadeleri
-aburar | yakmak; sinir etmek | fiil | Me hace aburar su actitud. | Tavrı beni sinir ediyor.
-zaherir | iğnelemek; eleştirmek | fiil | Le gusta zaherir a los demás. | Başkalarını iğnelemeyi sever.
-denostar | aşağılamak; sövmek | fiil | Empezó a denostar sin motivo. | Sebepsiz yere aşağılamaya başladı.
-escarnecer | alay etmek; hor görmek | fiil | No debes escarnecer al débil. | Zayıf kişiyle alay etmemelisin.
-vilipendiar | küçük düşürmek | fiil | Intentó vilipendiar su trabajo. | Onun işini küçük düşürmeye çalıştı.
-motejar | lakap takmak; suçlamak | fiil | Suele motejar a sus colegas. | Meslektaşlarına genellikle lakap takar.
-imprecar | beddua etmek; söylenmek | fiil | Empezó a imprecar en voz alta. | Yüksek sesle söylenmeye başladı.
-proferir | sarf etmek (kötü söz) | fiil | Logró proferir insultos graves. | Ağır hakaretler sarf etmeyi başardı.
-fustigar | kamçılamak; eleştirmek | fiil | La prensa va a fustigar el plan. | Basın planı eleştirecek.
-execrar | lanetlemek; iğrenmek | fiil | Debes execrar tales acciones. | Bu tür eylemleri lanetlemelisin.
-## Şüphe ve hor görme
-desacreditar | gözden düşürmek | fiil | Quieren desacreditar su prestigio. | Saygınlığını gözden düşürmek istiyorlar.
-menospreciar | küçümsemek | fiil | No debes menospreciar su consejo. | Onun tavsiyesini küçümsememelisin.
-despreciar | hor görmek; reddetmek | fiil | Decidió despreciar su oferta. | Onun teklifini reddetmeye karar verdi.
-infamar | lekelemek; adını çıkatmak | fiil | Buscan infamar su buena fama. | İyi adını lekelemeye çalışıyorlar.
-ultrajar | hakaret etmek; çiğnemek | fiil | Van a ultrajar la memoria. | Anıyı çiğneyecekler.
-vejar | eziyet etmek; küçük düşürmek | fiil | Nadie tiene derecho a vejar. | Hiç kimsenin küçük düşürmeye hakkı yoktur.
-mortificar | eziyet etmek; üzmek | fiil | Le gusta mortificar a su hermano. | Kardeşini üzmeyi sever.
-fadiga | yorgunluk; dert (bölgesel) | isim (d) | Siente mucha fadiga mental. | Zihinsel olarak çok dertli hissediyor.
-zacapela | gürültü; kavga | isim (d) | Se armó una gran zacapela. | Büyük bir kavga koptu.
-bronca | azarlama; kavga | isim (d) | Su jefe le armó una bronca. | Patronu ona bir fırça attı.
-## Gündelik tepki sözleri
-arrechucho | ani rahatsızlık; titreme | isim (e) | Le dio un pequeño arrechucho. | Ona küçük bir rahatsızlık geldi.
-zarpazo | pençe darbesi; kazık | isim (e) | Sufrió un zarpazo financiero. | Finansal bir darbe aldı.
-tarantantantán | sopa; dayak (şaka yollu) | isim (e) | Se ganó un tarantantantán. | Hak edilmiş bir sopa yedi.
-atrabiliario | hırçın; huysuz | sıfat | Tiene un carácter atrabiliario. | Huysuz bir karakteri var.
-desaborido | tatsız; kaba | sıfat | Fue un trato muy desaborido. | Oldukça tatsız bir muameleydi.
-zonzorrión | uyuşuk; aptal | sıfat | No seas tan zonzorrión hoy. | Bugün o kadar uyuşuk olma.
-papanatas | saf; alık | sıfat | Cayó como un papanatas. | Saf gibi tuzağa düştü.
-ademán | hareket; jest | isim (e) | Hizo un ademán de desprecio. | Küçümser bir jest yaptı.
-desaire | kabalık; yüz çevirme | isim (e) | Tomó su silencio como un desaire. | Sessizliğini bir kabalık olarak algıladı.
-desplante | saygısızlık; tersleme | isim (e) | Su respuesta fue un desplante. | Cevabı tam bir tersleme oldu.
-## Sert çıkışlar
-zahid | sofu; çilekeş | sıfat | Lleva una vida muy zahid. | Çok çilekeş bir hayat sürüyor.
-botarate | savurgan; delifişek | sıfat | Ese joven es un botarate. | O genç tam bir delifişek.
-calavera | serseri; âlemci | sıfat | Vivió como un viejo calavera. | Yaşlı bir serseri gibi yaşadı.
-perdulario | pasaklı; dağınık | sıfat | Es un hombre muy perdulario. | Oldukça pasaklı bir adamdır.
-zopenco | ahmak; budala | sıfat | No seas tan zopenco, por favor. | Lütfen o kadar ahmak olma.
-zambombo | kaba; beceriksiz | sıfat | Actuó como un zambombo. | Beceriksiz gibi hareket etti.
-tiquismiquis | titiz; huysuz (aşırı) | sıfat | Eres demasiado tiquismiquis. | Aşırı derecede titizsin.
-pedigüeño | dilenci ruhlu; sürekli isteyen | sıfat | Detesto a la gente pedigüeña. | Sürekli bir şeyler isteyen insanlardan nefret ederim.
-petulante | kendini beğenmiş | sıfat | Su tono fue muy petulante. | Tonu oldukça kendini beğenmişti.
-pedante | bilmiş; taslamacı | sıfat | Habla con aire de pedante. | Bilmiş bir havayla konuşuyor.
-## Hafif alaylı sözler
-fariseo | ikiyüzlü | sıfat | No seas un fariseo mentiroso. | Yalancı bir ikiyüzlü olma.
-zorrastrón | kurnaz; tilki | sıfat | Es un viejo zorrastrón. | O kurnaz bir ihtiyar.
-pícaro | çakal; kurnaz | sıfat | Actuó de forma muy pícara. | Oldukça çakalca hareket etti.
-chismoso | dedikoducu | sıfat | Es un empleado muy chismoso. | Çok dedikoducu bir çalışandır.
-rajado | korkak; cayvan | sıfat | Salió rajado al ver el problema. | Problemi görünce korkak gibi kaçtı.
-gallito | kabadayılık taslayan | sıfat | No vayas de gallito por aquí. | Buralarda kabadayılık taslama.
-fantoche | şımarık; gösterişçi | sıfat | Era un pobre fantoche ridículo. | Zavallı, gülünç bir gösterişçiydi.
-fanfarrón | palavracı; atıp tutan | sıfat | Es un fanfarrón insoportable. | Dayanılmaz bir palavracıdır.
-chafardero | ortalığı karıştıran | sıfat | No seas tan chafardero. | Ortalığı bu kadar karıştırma.
-zorrero | hilekar; kurnaz | sıfat | Demostró ser un tipo zorrero. | Kurnaz bir tip olduğunu gösterdi.
-## Tepki ve ünlemler
-rebufar | püskürmek; hırlamak | fiil | Empezó a rebufar de rabia. | Öfkeden hırlamaya başladı.
-resollar | soluk soluğa kalmak | fiil | Llegó a solas sin resollar. | Soluk soluğa yalnız geldi.
-bufar | köpürmek; öfkelenmek | fiil | El jefe empezó a bufar hoy. | Patron bugün köpürmeye başladı.
-refunfuñar | mızmızlanmak; söylenmek | fiil | Suele refunfuñar por todo. | Her şeye mızmızlanmayı sever.
-berrear | böğürmek; zırlamak | fiil | El niño empezó a berrear. | Çocuk zırlamaya başladı.
-chillar | bağırıp çağırmak | fiil | No hace falta chillar tanto. | O kadar bağırıp çağırmaya gerek yok.
-vociferar | haykırmak; bağırmak | fiil | Empezó a vociferar en la plaza. | Meydanda haykırmaya başladı.
-protestar | itiraz etmek; sızlanmak | fiil | Tiene costumbre de protestar. | Sürekli itiraz etme huyu var.
-patalear | tepinmek; ayak diremek | fiil | Empezó a patalear como un niño. | Çocuk gibi tepinmeye başladı.
-polemizar | atışmak; tartışmak | fiil | No quiero polemizar por tonterías. | Saçmalıklar yüzünden atışmak istemiyorum.
-## Kapanış ve argolu nitelemeler
-chabacanería | bayağılık; sevimsizlik | isim (d) | Odio semejante chabacanería. | Böyle bir bayağlıktan nefret ederim.
-grosería | kabalık; edepsizlik | isim (d) | Dijo una grosería inaceptable. | Kabul edilemez bir edepsizlik yaptı.
-impertinencia | saygısızlık; pot | isim (d) | Cometió una gran impertinencia. | Büyük bir saygısızlık yaptı.
-insolencia | küstahlık | isim (d) | No tolero tal insolencia. | Böyle bir küstahlığı hoş göremem.
-desvergüenza | utunmazlık; yüzsüzlük | isim (d) | Actuó con total desvergüenza. | Tam bir yüzsüzlükle hareket etti.
-desacato | saygısızlık; itaatsizlik | isim (e) | Fue acusado de desacato. | Saygısızlıktan suçlandı.
-desfachatez | utanmazlık; cüretkarlık | isim (d) | Qué tremenda desfachatez tiene. | Ne müthiş bir utanmazlığı var.
-barbaridad | saçmalık; aşırılık | isim (d) | Dijo una gran barbaridad. | Büyük bir saçmalık söyledi.
-fatualdad | aptallık; budalalık | isim (d) | No digas más fatualdades. | Artık budalalıklar söyleme.
-estupidez | aptallık | isim (d) | Fue una estupidez total. | Tam bir aptallıktı.
+## Hafif hakaretler
+memo | salak | sıfat | No seas memo, eso no funciona así. | Salak olma, o öyle çalışmıyor.
+zoquete | kalın kafalı | sıfat | Es un zoquete para las matemáticas. | Matematikte kalın kafalı.
+cenutrio | ahmak | sıfat | ¿Quién ha sido el cenutrio que ha cerrado la puerta? | Kapıyı kapatan ahmak kim?
+besugo | budala | sıfat | Discutir con ese besugo no sirve de nada. | O budalayla tartışmak hiçbir işe yaramaz.
+majadero | sersem | sıfat | ¡Majadero, casi me atropellas! | Sersem, az kalsın beni eziyordun!
+papanatas | saf, enayi | sıfat | Se lo creyó todo como un papanatas. | Enayi gibi her şeye inandı.
+botarate | delifişek | sıfat | Ese botarate se gastó todo en una noche. | O delifişek her şeyi bir gecede harcadı.
+caradura | yüzsüz | sıfat | ¡Qué caradura! Se ha colado en la fila. | Ne yüzsüz! Sıraya kaynak yaptı.
+sinvergüenza | utanmaz | sıfat | Es un sinvergüenza: nunca devuelve lo que pide. | Utanmazın teki: aldığını asla geri vermiyor.
+cagueta | korkak (argo) | sıfat | No seas cagueta y tírate a la piscina. | Korkaklık etme de havuza atla.
+## Sinir bozucu insanlar
+pelma | yapışkan, sıkıcı | sıfat | No seas pelma, ya te he dicho que no. | Yapışkanlık etme, sana hayır dedim zaten.
+ser un plasta | baş belası olmak | ifade | Mi vecino es un plasta, siempre quiere hablar. | Komşum baş belası, hep konuşmak istiyor.
+dar la brasa | başının etini yemek | ifade | Deja de darme la brasa con tu coche nuevo. | Yeni arabanla başımın etini yeme.
+dar la vara | dırdır etmek | ifade | Mis padres me dan la vara para que estudie. | Ailem ders çalışmam için dırdır ediyor.
+borde | ters, kaba | sıfat | El camarero fue muy borde con nosotros. | Garson bize karşı çok tersti.
+gorrón | otlakçı | sıfat | Nunca paga nada, es un gorrón. | Hiçbir şeyi ödemiyor, otlakçının teki.
+fanfarrón | palavracı | sıfat | No le hagas caso, es un fanfarrón. | Onu dinleme, palavracının teki.
+fardar | hava atmak | fiil | Le encanta fardar de coche. | Arabasıyla hava atmayı seviyor.
+ir de sobrado | ukalalık taslamak | ifade | Va de sobrado, pero no sabe nada. | Ukalalık taslıyor ama hiçbir şey bilmiyor.
+chulearse | kabadayılık taslamak | fiil · dönüşlü | No te chulees conmigo. | Bana kabadayılık taslama.
+## Öfke ve küskünlük
+cabrearse | çok sinirlenmek | fiil · dönüşlü | Se cabreó cuando vio la multa. | Cezayı görünce çok sinirlendi.
+el cabreo | öfke | isim (e) | Lleva un cabreo enorme. | Çok öfkeli.
+mosquearse | alınmak, bozulmak | fiil · dönüşlü | Se mosqueó porque no lo invitamos. | Onu davet etmediğimiz için bozuldu.
+el mosqueo | küskünlük | isim (e) | Todavía le dura el mosqueo. | Küskünlüğü hâlâ geçmedi.
+estar mosqueado | şüphelenmek, bozulmuş olmak | ifade | Está mosqueado con el jefe. | Patrona bozulmuş.
+liarla | ortalığı karıştırmak | fiil | ¡La has liado bien gorda! | Ortalığı fena karıştırdın!
+rajar | arkasından konuşmak | fiil | Siempre está rajando de sus compañeros. | Hep iş arkadaşlarının arkasından konuşuyor.
+jorobar | sinir etmek, bozmak | fiil | Me joroba que siempre llegue tarde. | Hep geç kalması sinirime dokunuyor.
+chafar | (planı) bozmak | fiil | La lluvia nos chafó la excursión. | Yağmur gezimizi bozdu.
+dar plantón | ekmek (randevuya gelmemek) | ifade | Me dio plantón y esperé una hora. | Beni ekti, bir saat bekledim.
+## Ünlemler
+ostras | vay be | ünlem | ¡Ostras, me he dejado las llaves! | Vay be, anahtarları unuttum!
+jo | ya, of | ünlem | ¡Jo, qué mala suerte! | Of, ne kötü şans!
+toma ya | işte bu! | ifade | ¡Toma ya! ¡Hemos ganado! | İşte bu! Kazandık!
+venga ya | hadi oradan | ifade | ¿Que te ha tocado la lotería? ¡Venga ya! | Piyango mu çıktı? Hadi oradan!
+vaya tela | ne iş ama | ifade | Vaya tela con el vecino de arriba. | Üst kattaki komşu ne iş ama.
+manda narices | pes doğrusu | ifade | Manda narices que tenga que pagar yo. | Benim ödemek zorunda olmam pes doğrusu.
+olé | bravo | ünlem | ¡Olé! ¡Qué bien bailas! | Bravo! Ne güzel dans ediyorsun!
+atiza | vay canına | ünlem | ¡Atiza, qué tarde es! | Vay canına, ne kadar geç olmuş!
+toma castaña | al sana! | ifade | Y le dijo que no. ¡Toma castaña! | Ve ona hayır dedi. Al sana!
+recórcholis | hay aksi (şakacı) | ünlem | ¡Recórcholis, se me ha olvidado! | Hay aksi, unuttum!
+## Karmaşa ve olay
+el follón | kargaşa, olay | isim (e) | Se montó un follón en la reunión. | Toplantıda olay çıktı.
+el jaleo | gürültü, karmaşa | isim (e) | ¿Qué es todo este jaleo? | Bütün bu gürültü de ne?
+el lío | karışıklık, iş | isim (e) | Me he metido en un lío. | Başımı belaya soktum.
+la chorrada | saçmalık | isim (d) | No digas chorradas. | Saçmalama.
+el rollo | sıkıcı şey; mesele | isim (e) | La película fue un rollo. | Film çok sıkıcıydı.
+el tostón | çok sıkıcı şey | isim (e) | La conferencia fue un tostón. | Konferans çok sıkıcıydı.
+el muermo | can sıkıntısı; sıkıcı kişi | isim (e) | Qué muermo de fiesta. | Ne sıkıcı parti.
+quedar fatal | rezil olmak | ifade | Quedé fatal al olvidar su nombre. | Adını unutunca rezil oldum.
+dar el cante | dikkat çekmek (kötü anlamda) | ifade | Con ese sombrero vas a dar el cante. | O şapkayla herkesin gözüne batacaksın.
+hacer el ridículo | gülünç duruma düşmek | ifade | No quiero hacer el ridículo en la boda. | Düğünde gülünç duruma düşmek istemiyorum.
+## Gitmek ve kaybolmak
+largarse | defolup gitmek | fiil · dönüşlü | ¡Lárgate de aquí! | Defol git buradan!
+abrirse | (argo) gitmek, sıvışmak | fiil · dönüşlü | Me abro, que es tarde. | Ben kaçıyorum, geç oldu.
+pasar de | umursamamak | ifade | Paso de ir a la fiesta. | Partiye gitmeyi takmıyorum.
+ni caso | hiç takma | ifade | Si te dice algo, ni caso. | Sana bir şey derse hiç takma.
+y a mí qué | bana ne | ifade | ¿Que se ha comprado un coche? ¿Y a mí qué? | Araba mı almış? Bana ne?
+palmar | (argo) ölmek; kaybetmek | fiil | Casi la palma con el accidente. | Kazada az kalsın ölüyordu.
+pringar | (zor işe) çatmak, kabak başına patlamak | fiil | Siempre pringo yo con los turnos de noche. | Gece vardiyaları hep bana kalıyor.
+estar frito | çok yorgun olmak; işi bitmiş olmak | ifade | Estoy frito, me voy a la cama. | Çok yorgunum, yatıyorum.
+estar tieso | meteliksiz olmak | ifade | Este mes estoy tieso. | Bu ay meteliksizim.
+estar fastidiado | keyifsiz, rahatsız olmak | ifade | Está fastidiado de la espalda. | Sırtı ağrıyor.
+## Tipler
+pijo | züppe | sıfat | Es un barrio muy pijo. | Çok züppe bir mahalle.
+macarra | kabadayı, külhanbeyi | sıfat | Se viste como un macarra. | Bir külhanbeyi gibi giyiniyor.
+cani | sokak tarzı genç (aşağılayıcı) | sıfat | Llevaba una gorra muy cani. | Çok sokak tarzı bir şapka takıyordu.
+el pavo | tip, adam (argo) | isim (e) | Un pavo me preguntó la hora. | Bir tip bana saati sordu.
+el menda | bu kul, ben (argo) | isim (e) | Y el menda tuvo que pagar todo. | Ve bu kulunuz her şeyi ödemek zorunda kaldı.
+la piba | kız (argo) | isim (d) | Conoció a una piba en el concierto. | Konserde bir kızla tanıştı.
+el quinqui | küçük suçlu (eski argo) | isim (e) | En la película salen quinquis de los ochenta. | Filmde seksenlerin küçük suçluları var.
+pirado | kaçık | sıfat | Tu vecino está pirado. | Komşun kaçık.
+colgado | kafası kopuk; ortada bırakılmış | sıfat | Me dejó colgado en el aeropuerto. | Beni havalimanında ortada bıraktı.
+flipado | kafası güzel; aşırı heyecanlı | sıfat | Está flipado con su nueva moto. | Yeni motoruna kafayı takmış.
+## Pekiştirme ve abartı
+mogollón | bir sürü; çok | zarf | Había mogollón de gente. | Bir sürü insan vardı.
+de la leche | müthiş; berbat | ifade | Hace un frío de la leche. | Müthiş bir soğuk var.
+que flipas | inanılmaz derecede | ifade | Cocina que flipas. | İnanılmaz yemek yapıyor.
+una pasada | harika bir şey | ifade | El concierto fue una pasada. | Konser harikaydı.
+cantidad de | bir sürü | ifade | Tengo cantidad de cosas que hacer. | Yapacak bir sürü işim var.
+cañero | sert, enerjik | sıfat | Pusieron música cañera. | Sert bir müzik çaldılar.
+currado | emek verilmiş | sıfat | El disfraz está muy currado. | Kostüme çok emek verilmiş.
+bestia | vahşi, ölçüsüz | sıfat | No seas bestia, que le haces daño. | Bu kadar sert olma, canını yakacaksın.
+la birra | bira (argo) | isim (d) | Vamos a tomar unas birras. | Gidip birkaç bira içelim.
+el bocata | sandviç (argo) | isim (e) | Me he traído un bocata de tortilla. | Yanıma omletli sandviç getirdim.
+## Eşyalar ve gece
+el cacharro | külüstür, alet | isim (e) | Este móvil es un cacharro. | Bu telefon külüstürün teki.
+el trasto | ıvır zıvır, eski eşya | isim (e) | El garaje está lleno de trastos. | Garaj eski eşyalarla dolu.
+el cachivache | öteberi | isim (e) | Guarda cachivaches en el cajón. | Çekmecede öteberi saklıyor.
+la cogorza | sarhoşluk | isim (d) | Se pilló una buena cogorza. | Bayağı sarhoş oldu.
+estar como una cuba | körkütük sarhoş olmak | ifade | Volvió a casa como una cuba. | Eve körkütük sarhoş döndü.
+el garrafón | kalitesiz içki | isim (e) | En ese bar sirven garrafón. | O barda kalitesiz içki veriyorlar.
+el pibón | çok güzel kız/erkek (argo) | isim (e) | Su novia es un pibón. | Kız arkadaşı çok güzel.
+el maromo | erkek arkadaş (argo) | isim (e) | Vino a la fiesta con su maromo. | Partiye sevgilisiyle geldi.
+el plantón | ekilme (randevu) | isim (e) | Me llevé un buen plantón. | Fena halde ekildim.
+alucinar | şaşırıp kalmak | fiil | Alucino con lo que me cuentas. | Anlattıklarına şaşırıp kaldım.
+## Yeme içme argosu
+el papeo | yemek, tıkınma (argo) | isim (e) | ¿Qué hay de papeo esta noche? | Bu akşam yemekte ne var?
+la priva | içki (argo) | isim (d) | Compraron la priva para la fiesta. | Parti için içkiyi aldılar.
+el chupito | shot, tek yudumluk içki | isim (e) | Al final de la cena nos invitaron a un chupito. | Yemeğin sonunda bize birer shot ikram ettiler.
+ir piripi | çakırkeyif olmak | ifade | Después de dos copas ya iba piripi. | İki kadehten sonra çakırkeyif olmuştu.
+la tajada | sarhoşluk (pillar una tajada) | isim (d) | Anoche pilló una tajada impresionante. | Dün gece müthiş sarhoş oldu.
+jalar | yemek, tıkınmak (argo) | fiil | Tengo un hambre... vamos a jalar algo. | Çok açım... gidip bir şeyler yiyelim.
+el rancho | kötü toplu yemek, kantin yemeği | isim (e) | En la mili el rancho era horrible. | Askerde yemek berbattı.
+la manduca | yiyecek, yemek (argo) | isim (d) | Trae la manduca, que tengo hambre. | Yiyecekleri getir, açım.
+el calimocho | şarap-kola karışımı | isim (e) | En las fiestas del pueblo beben calimocho. | Köy şenliklerinde şarap-kola içiyorlar.
+pimplar | içmek, kafayı çekmek | fiil | Se pasó la boda pimplando. | Bütün düğün boyunca içti.

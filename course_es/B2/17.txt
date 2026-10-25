@@ -9,17 +9,17 @@ la calzada | taşıt yolu, şose | isim (d) | Los operarios asfaltaron la calzad
 la mediana | orta refüj | isim (d) | Unos setos verdes dividen los dos sentidos en la mediana ajardinada. | Yeşillendirilmiş orta refüjdeki çitler iki yönü birbirinden ayırıyor.
 el viaducto | viyadük | isim (e) | Cruzamos el valle profundo a través de un impresionante viaducto ferroviario. | Derin vadiden etkileyici bir demiryolu viyadüğü üzerinden geçtik.
 el trazado | yol güzergâhı, hat planı | isim (e) | Los ingenieros rectificaron el trazado de la vía para eliminar curvas peligrosas. | Mühendisler tehlikeli virajları kaldırmak için yol güzergâhını düzeltti.
-el desnivel | eğim, kot farkı | isim (e) | La carretera de montaña presenta un pronunciado desnivel que exige marchas cortas. | Dağ yolu düşük vites gerektiren dik bir eğim sunuyor.
+la glorieta | göbek, döner kavşak | isim (d) | En la glorieta tienen prioridad los que ya están dentro. | Döner kavşakta içerideki araçların önceliği vardır.
 ## Trafik akışı ve yoğunluğu
 el embotellamiento | trafik sıkışıklığı | isim (e) | El embotellamiento en la circunvalación nos retuvo durante casi una hora. | Çevre yolundaki trafik sıkışıklığı bizi neredeyse bir saat rehin tuttu.
 la fluidez | akıcılık, kesintisiz akış | isim (d) | Los semáforos sincronizados mejoraron notablemente la fluidez del tránsito matutino. | Eşzamanlı trafik ışıkları sabah trafiğinin akıcılığını gözle görülür biçimde artırdı.
 el atasco monumental | devasa trafik tıkanıklığı | isim (e) | Un choque múltiple provocó un atasco monumental a la entrada de la capital. | Zincirleme bir çarpışma başkentin girişinde devasa bir trafik tıkanıklığına yol açtı.
 descongestionar | trafiği rahatlatmak, akışı açmak | fiil | Las nuevas vías radiales lograron descongestionar el tráfico del centro histórico. | Yeni çevre bağlantıları tarihi merkezin trafiğini rahatlatmayı başardı.
-la hora punta matinal | sabah yoğun saati | isim (d) | Conviene salir antes de casa para esquivar la hora punta matinal. | Sabah yoğun saatini atlatmak için evden daha erken çıkmak faydalı olur.
-la retención kilométrica | kilometrelerce uzanan kuyruk | isim (d) | Una avería en el carril central provocó una retención kilométrica en la autovía. | Orta şeritteki bir arıza otoyolda kilometrelerce uzanan bir araç kuyruğuna sebep oldu.
+el intermitente | sinyal lambası | isim (e) | Pon el intermitente antes de girar. | Dönmeden önce sinyal ver.
+la retención | yavaş akan trafik, kuyruk | isim (d) | Hay retenciones de diez kilómetros en la entrada de la ciudad. | Şehir girişinde on kilometrelik kuyruk var.
 el flujo vehicular | araç akışı | isim (e) | La policía municipal monitoriza el flujo vehicular mediante cámaras inteligentes. | Belediye polisi araç akışını akıllı kameralar vasıtasıyla izliyor.
 el desvío de tráfico | trafik yönlendirmesi, servis yolu | isim (e) | Seguimos el desvío de tráfico señalizado por las obras en la avenida. | Caddede süren çalışmalar nedeniyle işaretlenmiş olan servis yolunu takip ettik.
-el embotellamiento recurrente | kronik trafik sıkışıklığı | isim (e) | Los residentes exigen medidas drásticas contra el embotellamiento recurrente del barrio. | Semt sakinleri mahalledeki kronik trafik sıkışıklığına karşı köklü çözümler talep ediyor.
+el claxon | korna | isim (e) | No toques el claxon sin motivo. | Sebepsiz yere korna çalma.
 la saturación vial | yol doygunluğu, trafik kilitlenmesi | isim (d) | La saturación vial empeora notablemente en vísperas de festivos nacionales. | Yol doygunluğu ulusal bayram arifelerinde belirgin biçimde kötüleşiyor.
 ## Sürüş kuralları ve manevralar
 adelantar | sollamak | fiil | Está totalmente prohibido adelantar con línea continua en este tramo sin visibilidad. | Görüşün olmadığı bu kesimde düz çizgide araç sollamak kesinlikle yasaktır.
@@ -30,13 +30,13 @@ rebasar el límite | sınırı aşmak | ifade | Rebasar el límite de velocidad 
 maniobrar | manevra yapmak | fiil | Es complicado maniobrar con un vehículo tan largo en este callejón estrecho. | Bu dar sokakta böylesine uzun bir araçla manevra yapmak çok zordur.
 el cambio de sentido | u dönüşü | isim (e) | Realizó un cambio de sentido indebido y la patrulla lo sancionó al instante. | Hatalı bir u dönüşü yaptı ve devriye onu anında cezalandırdı.
 la distancia de seguridad | güvenli takip mesafesi | isim (d) | Con lluvia es imprescindible duplicar la distancia de seguridad entre coches. | Yağmurlu havalarda araçlar arasındaki güvenli takip mesafesini iki katına çıkarmak şarttır.
-el retrovisor interior | iç dikiz aynası | isim (e) | Ajusta el retrovisor interior antes de poner el motor en marcha. | Motoru çalıştırmadan önce iç dikiz aynasını kendine göre ayarla.
+el retrovisor | dikiz aynası | isim (e) | Mira por el retrovisor antes de cambiar de carril. | Şerit değiştirmeden önce dikiz aynasına bak.
 frenar en seco | aniden fren yapmak, zınk diye durmak | ifade | Tuvo que frenar en seco cuando un peatón cruzó de improviso la calzada. | Bir yaya aniden yola fırlayınca zınk diye fren yapmak zorunda kaldı.
 ## Araç mekaniği ve donanım
 el embrague | debriyaj | isim (e) | Pisa a fondo el embrague antes de meter la primera marcha con suavidad. | Yumuşakça birinci vitese takmadan önce debriyaja sonuna kadar bas.
 la caja de cambios | vites kutusu, şanzıman | isim (d) | La caja de cambios automática facilita enormemente la conducción en ciudad. | Otomatik şanzıman şehir içi sürüşü olağanüstü derecede kolaylaştırır.
 el capó | motor kaputu | isim (e) | Levantamos el capó para comprobar el nivel del líquido refrigerante. | Soğutma sıvısının seviyesini kontrol etmek için motor kaputunu kaldırdık.
-el maletero | bagaj | isim (e) | El maletero espacioso permite acomodar cuatro maletas grandes sin apreturas. | Geniş bagaj, dört büyük valizin sıkışmadan rahatça yerleşmesini sağlıyor.
+el radar | radar | isim (e) | El radar le pilló a ciento cincuenta. | Radar onu yüz elliyle yakaladı.
 el limpiaparabrisas | cam sileceği | isim (e) | Cambié las gomas del limpiaparabrisas porque dejaban rayas molestas en el cristal. | Camda rahatsız edici izler bıraktığı için cam sileceğinin lastiklerini değiştirdim.
 el parabrisas | ön cam | isim (e) | Una pequeña piedra suelta impactó contra el parabrisas y formó una grieta. | Fırlayan küçük bir taş ön cama çarptı ve bir çatlak oluşturdu.
 el tubo de escape | egzoz borusu | isim (e) | Salía humo denso por el tubo de escape debido a una mala combustión interna. | Kötü iç yanma sebebiyle egzoz borusundan yoğun bir duman çıkıyordu.
@@ -64,7 +64,7 @@ el convoy | tren katarı, konvoy | isim (e) | El convoy compuesto por seis vagon
 la flota de autobuses | otobüs filosu | isim (d) | El ayuntamiento renovó toda la flota de autobuses con modelos eléctricos no contaminantes. | Belediye tüm otobüs filosunu çevreyi kirletmeyen elektrikli modellerle yeniledi.
 el andén central | orta peron | isim (e) | Los pasajeros esperan la llegada del siguiente metro distribuidos por el andén central. | Yolcular bir sonraki metronun gelişini orta perona dağılmış biçimde bekliyorlar.
 el revisor de billetes | bilet denetçisi, kondüktör | isim (e) | El revisor de billetes subió en la estación intermedia para comprobar los abonos. | Bilet denetçisi abonmanları kontrol etmek için ara istasyonda bindi.
-el torno de acceso | turnike | isim (e) | Apoya la tarjeta sobre el lector magnético para desbloquear el torno de acceso. | Turnikenin kilidini açmak için kartı manyetik okuyucuya dokundur.
+el torno | turnike | isim (e) | Pasa la tarjeta para abrir el torno. | Turnikeyi açmak için kartı okut.
 ## Şehir içi hareketlilik ve mikromobilite
 el patinete eléctrico | elektrikli skuter | isim (e) | El uso del patinete eléctrico por las aceras peatonales está completamente vetado. | Yaya kaldırımlarında elektrikli skuter kullanımı tamamen yasaklanmıştır.
 la zona de bajas emisiones | düşük emisyon bölgesi | isim (d) | Solo los vehículos con etiqueta ambiental pueden circular por la zona de bajas emisiones. | Düşük emisyon bölgesinde yalnızca çevre etiketine sahip araçlar dolaşabilir.
@@ -86,7 +86,7 @@ el cambio de agujas | makas değişimi | isim (e) | El tren aminoró la marcha j
 el apeadero | küçük istasyon, durak | isim (e) | El tren de cercanías solo realiza paradas de un minuto en este modesto apeadero. | Banliyö treni bu mütevazı durakta yalnızca birer dakikalık duraklamalar yapar.
 el guardagujas | makasçı | isim (e) | Antiguamente el guardagujas accionaba las palancas manualmente desde una caseta. | Eskiden makasçı kollar vasıtasıyla makasları bir kulübeden elle çalıştırırdı.
 la topera | tampon, ray sonlandırıcı | isim (d) | El convoy frenó con total suavidad metros antes de alcanzar la topera final. | Tren katarı son tampondaki ray ucuna varmadan birkaç metre önce gayet yumuşakça durdu.
-el paso a nivel con barreras | bariyerli hemzemin geçit | isim (e) | Las alarmas sonaron al descender el paso a nivel con barreras sobre la vía. | Demiryolu üzerindeki bariyerli hemzemin geçit inerken alarmlar çaldı.
+el paso a nivel | hemzemin geçit | isim (e) | Las barreras del paso a nivel bajaron. | Hemzemin geçidin bariyerleri indi.
 ## Deniz ve nehir taşımacılığı
 el transbordador | feribot | isim (e) | Embarcamos el automóvil en el transbordador para cruzar el estrecho al atardecer. | Akşamüstü boğazı geçmek için otomobili feribota bindirdik.
 el atraque | yanaşma, bağlama | isim (e) | Las fuertes ráfagas complicaron la maniobra de atraque del crucero turístico. | Sert rüzgâr esintileri turistik kruvaziyerin yanaşma manevrasını zorlaştırdı.
@@ -97,14 +97,14 @@ el muelle de atraque | yanaşma iskelesi | isim (e) | Los estibadores descargaro
 naufragar | batmak, kazaya uğramak | fiil | El viejo carguero amenazaba con naufragar en medio del oleaje embravecido. | Eski yük gemisi kudurmuş dalgaların ortasında batma tehlikesiyle karşı karşıyaydı.
 el chaleco salvavidas | can yeleği | isim (e) | La tripulación explicó cómo colocarse correctamente el chaleco salvavidas de emergencia. | Mürettebat acil durum can yeleğinin nasıl doğru takılacağını anlattı.
 la esclusa | havuz, savak kapağı | isim (d) | La enorme esclusa permite que los barcos salven el desnivel entre canales fluviales. | Devasa savak havuzu gemilerin nehir kanalları arasındaki seviye farkını aşmasını sağlar.
-el salvavidas circular | can simidi | isim (e) | El marinero arrojó un salvavidas circular al agua para auxiliar al náufrago. | Denizci kazazedeye yardım etmek için suya yuvarlak bir can simidi fırlattı.
+el salvavidas | can simidi | isim (e) | El marinero lanzó un salvavidas al agua. | Denizci suya bir can simidi attı.
 ## Lojistik ve yük taşımacılığı
 el flete | navlun, navlun ücreti | isim (e) | El encarecimiento del combustible elevó notablemente el coste medio del flete marítimo. | Yakıtın pahalanması deniz navlun ücretinin ortalama maliyetini belirgin biçimde artırdı.
 la cadena de suministro global | küresel tedarik zinciri | isim (d) | La crisis internacional interrumpió de golpe la cadena de suministro global de piezas. | Uluslararası kriz parça tedarikindeki küresel tedarik zincirini bir anda sekteye uğrattı.
 el transporte intermodal | kombine taşımacılık | isim (e) | El transporte intermodal combina hábilmente ferrocarril y carretera para optimizar costes. | Kombine taşımacılık maliyetleri optimize etmek için demiryolu ile karayolunu ustaca birleştirir.
 la carga útil | faydalı yük, net taşıma kapasitesi | isim (d) | No podemos sobrepasar la carga útil permitida por el fabricante del furgón. | Minibüsün üreticisi tarafından izin verilen net taşıma kapasitesini aşamayız.
 el albarán de entrega | sevk irsaliyesi, teslim belgesi | isim (e) | El transportista solicitó una firma en el albarán de entrega antes de marcharse. | Taşımacı ayrılmadan önce sevk irsaliyesine bir imza istedi.
-la trazabilidad de envíos | gönderi takip edilebilirliği | isim (d) | Los códigos de barras facilitan la trazabilidad de envíos en tiempo real. | Barkodlar gönderilerin gerçek zamanlı takip edilebilirliğini kolaylaştırır.
+la trazabilidad | izlenebilirlik | isim (d) | Los códigos de barras permiten la trazabilidad de los envíos. | Barkodlar gönderilerin izlenebilirliğini sağlar.
 la flota de transporte | nakliye filosu | isim (d) | La empresa logística amplió su flota de transporte para cubrir rutas internacionales. | Lojistik şirketi uluslararası güzergâhları kapsamak için nakliye filosunu genişletti.
 el centro de distribución | dağıtım merkezi | isim (e) | Los paquetes se clasifican automáticamente dentro del enorme centro de distribución. | Paketler devasa dağıtım merkezi içinde otomatik olarak sınıflandırılıyor.
 el porte | taşıma ücreti, nakliye | isim (e) | El comprador asumirá el porte de las mercancías enviadas al extranjero. | Yurtdışına gönderilen malların nakliye ücretini alıcı üstlenecektir.

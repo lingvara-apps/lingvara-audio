@@ -1,111 +1,111 @@
 # UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
-## Dava türleri
-la denuncia | şikâyet, ihbar | isim (d) | Presentaron una denuncia formal ante el tribunal. | Mahkemeye resmi bir şikâyette bulundular.
-el litigio | uyuşmazlık, dava | isim (e) | El litigio comercial duró más de dos años. | Ticari uyuşmazlık iki yıldan uzun sürdü.
-el sumario preliminar | hazırlık soruşturması | ifade | El juez cerró el sumario preliminar tras recabar pruebas. | Yargıç, delilleri topladıktan sonra hazırlık soruşturmasını kapattı.
-la indemnización | tazminat | isim (d) | Exigen una indemnización por los daños causados. | Verilen zararlar için tazminat talep ediyorlar.
-la absolución | beraat | isim (d) | La defensa logró la absolución del acusado. | Savunma, sanığın beraatini elde etti.
-la condena | mahkûmiyet, ceza | isim (d) | La condena impuesta fue de cinco años de prisión. | Verilen ceza beş yıl hapis idi.
-la reclamación | talep, hak arama | isim (d) | Interpusieron una reclamación civil por incumplimiento. | Sözleşmeye uyulmadığı için medeni hukuk talebinde bulundular.
-el recurso de casación | temyiz başvurusu | ifade | Su letrado interpusor un recurso de casación ante la sala. | Avukatı daireye temyiz başvurusunda bulundu.
-el fallo | mahkeme kararı, hüküm | isim (e) | El fallo judicial se hará público este viernes. | Mahkeme kararı bu cuma kamuoyuna açıklanacak.
-el pleito | dava, hukuki çekişme | isim (e) | El pleito familiar afectó a toda la herencia. | Aile davası tüm mirası etkiledi.
-## Yargılama süreci
-el tribunal | mahkeme, yüksek yargı organı | isim (e) | El tribunal supremo dictaminó a favor del demandante. | Yüksek mahkeme, davacı lehine karar verdi.
-el leogado | hukuk müşaviri, vekil | isim (e) | El leogado expuso sus argumentos con gran claridad. | Hukuk vekili argümanlarını büyük bir netlikle sundu.
-el perito | bilirkişi, uzman | isim (e) | El perito caligráfico analizó la firma del documento. | Bilirkişi, belgedeki imzayı inceledi.
-el testigo | tanık | isim (e) | El testigo clave declaró protegido por la policía. | Kilit tanık, polis koruması altında ifade verdi.
-la audiencia oral | sözlü duruşma | ifade | La audiencia oral comenzará puntualmente a las nueve. | Sözlü duruşma saat dokuzda dakik bir şekilde başlayacak.
-la prueba | delil, kanıt | isim (d) | Aportaron nueva prueba documental al proceso. | Sürece yeni belge niteliğinde delil sundular.
-la vista preliminar | ön duruşma | ifade | En la vista preliminar se desestimaron varios cargos. | Ön duruşmada birkaç suçlama reddedildi.
-el jurado | jüri | isim (e) | El jurado emitió un veredicto unánime de culpabilidad. | Jüri oy birliğiyle suçluluk kararı verdi.
-el veredicto | mahkeme hükmü, jüri kararı | isim (e) | El veredicto establece una doctrina muy relevante. | Mahkeme hükmü çok önemli bir içtihat belirliyor.
-la jurisprudencia | içtihat, yargı kararları bütünü | isim (d) | Estudiaron la jurisprudencia aplicable al caso. | Davaya uygulanabilir içtihatları incelediler.
-## Suç ve ceza
-el delito | suç | isim (e) | Tipificaron el fraude fiscal como delito grave. | Vergi kaçakçılığını ağır suç olarak tanımladılar.
-la pena | ceza | isim (d) | La ley prevé una pena severa para este ilícito. | Yasa, bu yasadışı eylem için ağır bir ceza öngörüyor.
-la reclusión | hapis, mahpusluk | isim (d) | Fue sentenciado a reclusión perpetua sin fianza. | Kefaletsiz müebbet hapis cezasına mahkûm edildi.
-el reo | mahkûm, sanık | isim (e) | El reo mantuvo silencio durante todo el interrogatorio. | Mahkûm, tüm sorgu boyunca sessizliğini korudu.
-la fiscalía | savcılık | isim (d) | La fiscalía solicitó una pena mayor para el cabecilla. | Savcılık lider için daha ağır bir ceza talep etti.
-el ilícito | haksız fiil, yasadışı eylem | isim (e) | El tribunal declaró nulo el contrato por ilícito. | Mahkeme, haksız fiil nedeniyle sözleşmeyi hükümsüz ilan etti.
-la coacción | zorlama, baskı | isim (d) | Denunció haber sufrido coacción por parte de la empresa. | Şirket tarafından baskıya maruz kaldığını bildirdi.
-el fraude | sahtekarlık, dolandırıcılık | isim (e) | Investigaban una red compleja de fraude mercantil. | Karmaşık bir ticari dolandırıcılık ağını araştırıyorlardı.
-la extorsión | şantaj, gasp | isim (d) | Detuvieron a los sospechosos de extorsión continuada. | Sürekli şantaj şüphelilerini tutukladılar.
-la complicidad en delitos | suç delillerini gizleme, yataklık | ifade | Le imputaron cargos por complicidad en delitos graves. | Ağır suçlara yataklık etme suçlamasıyla haklarında suç duyurusunda bulunuldu.
+## Dava açma
+el demandante | davacı | isim (e) | El demandante reclama una indemnización. | Davacı tazminat talep ediyor.
+el demandado | davalı | isim (e) | El demandado no se presentó al juicio. | Davalı duruşmaya gelmedi.
+la querella | şikâyet dilekçesi (ceza) | isim (d) | Presentó una querella por calumnias. | İftira nedeniyle şikâyet dilekçesi verdi.
+interponer (interpongo) | (dava, itiraz) açmak, sunmak | fiil · düzensiz | Interpusieron un recurso contra la sentencia. | Karara karşı itiraz yoluna başvurdular.
+la apelación | istinaf, temyiz başvurusu | isim (d) | La apelación se resolverá en mayo. | İstinaf başvurusu mayısta karara bağlanacak.
+el recurso de casación | temyiz | isim (e) | Su abogado anunció un recurso de casación. | Avukatı temyize gideceğini açıkladı.
+el letrado | avukat (resmî) | isim (e) | El letrado de la defensa pidió la palabra. | Savunma avukatı söz istedi.
+los honorarios | avukatlık ücreti | isim (çoğul) | Los honorarios del abogado son muy altos. | Avukatın ücreti çok yüksek.
+la minuta | ücret dökümü (avukat) | isim (d) | El abogado le envió la minuta. | Avukat ona ücret dökümünü gönderdi.
+el colegiado | baroya kayıtlı (avukat, doktor) | isim (e) | Solo un abogado colegiado puede ejercer. | Sadece baroya kayıtlı bir avukat mesleği icra edebilir.
+## Yargılama
+el magistrado | yargıç (üst mahkeme) | isim (e) | La magistrada redactó la sentencia. | Yargıç kararı yazdı.
+el juez instructor | soruşturma hâkimi | isim (e) | El juez instructor citó a los testigos. | Soruşturma hâkimi tanıkları çağırdı.
+la vista oral | sözlü duruşma | isim (d) | La vista oral se celebrará en octubre. | Sözlü duruşma ekimde yapılacak.
+el jurado | jüri | isim (e) | El jurado declaró culpable al acusado. | Jüri sanığı suçlu buldu.
+el veredicto | jüri kararı | isim (e) | El veredicto fue unánime. | Karar oybirliğiyle alındı.
+el perito | bilirkişi | isim (e) | El perito analizó la firma del documento. | Bilirkişi belgedeki imzayı inceledi.
+la prueba pericial | bilirkişi raporu | isim (d) | La prueba pericial fue decisiva. | Bilirkişi raporu belirleyici oldu.
+la carga de la prueba | ispat yükü | isim (d) | La carga de la prueba corresponde a la acusación. | İspat yükü iddia makamına aittir.
+el auto | ara karar | isim (e) | El juez dictó un auto de prisión. | Hâkim tutuklama kararı verdi.
+la jurisprudencia | içtihat | isim (d) | Existe jurisprudencia abundante sobre este tema. | Bu konuda bol içtihat var.
+## Ceza soruşturması
+imputar | (suç) isnat etmek | fiil | Le imputan un delito de estafa. | Ona dolandırıcılık suçu isnat ediliyor.
+el investigado | şüpheli | isim (e) | El investigado se negó a declarar. | Şüpheli ifade vermeyi reddetti.
+la prisión preventiva | tutukluluk | isim (d) | El juez decretó prisión preventiva. | Hâkim tutukluluk kararı verdi.
+el interrogatorio | sorgu | isim (e) | El interrogatorio duró cuatro horas. | Sorgu dört saat sürdü.
+la coartada | mazeret (suç anında başka yerde olma) | isim (d) | Su coartada no convenció al juez. | Mazereti hâkimi ikna etmedi.
+el atestado | polis tutanağı | isim (e) | La policía redactó el atestado. | Polis tutanağı düzenledi.
+la orden de busca y captura | yakalama kararı | isim (d) | Hay una orden de busca y captura contra él. | Hakkında yakalama kararı var.
+los antecedentes penales | sabıka kaydı | isim (çoğul) | No tiene antecedentes penales. | Sabıka kaydı yok.
+el sobreseimiento | kovuşturmaya yer olmadığı kararı | isim (e) | El juez acordó el sobreseimiento del caso. | Hâkim kovuşturmaya yer olmadığına karar verdi.
+archivar | (dosyayı) kapatmak, arşivlemek | fiil | Archivaron la causa por falta de pruebas. | Dava delil yetersizliğinden kapatıldı.
+## Suçlar
+el cohecho | rüşvet | isim (e) | El funcionario fue condenado por cohecho. | Memur rüşvetten mahkûm edildi.
+la prevaricación | görevi kötüye kullanma | isim (d) | Acusan al alcalde de prevaricación. | Belediye başkanı görevi kötüye kullanmakla suçlanıyor.
+la malversación | zimmete para geçirme | isim (d) | Lo condenaron por malversación de fondos públicos. | Kamu fonlarını zimmetine geçirmekten mahkûm edildi.
+el blanqueo | aklama | isim (e) | La red se dedicaba al blanqueo de dinero. | Şebeke kara para aklamayla uğraşıyordu.
+la coacción | zorlama, cebir | isim (d) | Firmó bajo coacción. | Zorlama altında imzaladı.
+la extorsión | şantaj, haraç | isim (d) | Lo detuvieron por extorsión. | Şantajdan tutuklandı.
+el cómplice | suç ortağı | isim (e) | Detuvieron también a su cómplice. | Suç ortağını da yakaladılar.
+el ilícito | yasa dışı eylem | isim (e) | Cometió un ilícito administrativo. | İdari bir yasa dışı eylem gerçekleştirdi.
+reincidente | suçu tekrarlayan | sıfat | Es un delincuente reincidente. | Suçu tekrarlayan bir suçlu.
+el dolo | kast | isim (e) | No hubo dolo, sino negligencia. | Kast yoktu, ihmal vardı.
+## Ceza ve sonuç
+absolver (absuelvo) | beraat ettirmek | fiil · düzensiz | El tribunal absolvió al acusado. | Mahkeme sanığı beraat ettirdi.
+la absolución | beraat | isim (d) | La defensa pidió la absolución. | Savunma beraat talep etti.
+condenar | mahkûm etmek | fiil | Lo condenaron a tres años de cárcel. | Üç yıl hapse mahkûm edildi.
+la reclusión | hapis | isim (d) | Fue condenado a reclusión perpetua. | Müebbet hapse mahkûm edildi.
+el reo | hükümlü | isim (e) | El reo pidió el indulto. | Hükümlü af talebinde bulundu.
+la presunción de inocencia | masumiyet karinesi | isim (d) | Todo acusado goza de la presunción de inocencia. | Her sanık masumiyet karinesinden yararlanır.
+la legítima defensa | meşru müdafaa | isim (d) | Alegó legítima defensa. | Meşru müdafaa ileri sürdü.
+la negligencia | ihmal | isim (d) | El accidente se debió a una negligencia. | Kaza bir ihmalden kaynaklandı.
+prescribir | zamanaşımına uğramak; reçete etmek | fiil | El delito prescribió hace años. | Suç yıllar önce zamanaşımına uğradı.
+la tipicidad | suçun yasal tanıma uygunluğu | isim (d) | La defensa cuestionó la tipicidad de los hechos. | Savunma olayların suç tanımına uygunluğunu sorguladı.
 ## Medeni hukuk
-el acuerdo contractual | sözleşme, akit | ifade | Firmaron un acuerdo contractual bilateral de compraventa. | İkili bir alım satım sözleşmesi imzaladılar.
-la cláusula | madde, hüküm, bent | isim (d) | Una cláusula abusiva anulaba la garantía. | Haksız bir hüküm garantiyi geçersiz kılıyordu.
-el testamento | vasiyetname | isim (e) | Modificó su testamento ante notario público. | Vasiyetnamesini noter huzurunda değiştirdi.
-la herencia | miras | isim (d) | La partición de la herencia generó disputas familiares. | Mirasın paylaşımı aile içi anlaşmazlıklara yol açtı.
-el usufrujo | intifa hakkı, yararlanma hakkı | isim (e) | Conservaba el usufrujo vitalicio de la propiedad. | Mülkün ömür boyu intifa hakkını elinde tutuyordu.
-el avalista | kefil, garanti eden | isim (e) | El banco exigió un avalista solvente para el crédito. | Banka kredi için solvent bir kefil talep etti.
-la hipoteca | ipotek | isim (d) | Cancelaron la hipoteca tras liquidar la deuda total. | Toplam borcu kapattıktan sonra ipoteği kaldırdılar.
-el albacea | vasiyeti tenfiz memuru, tereke yöneticisi | isim (e) | El albacea cumplió fielmente las últimas voluntades. | Vasiyeti tenfiz memuru son istekleri sadakatle yerine getirdi.
-la nulidad | hükümsüzlük, iptal | isim (d) | Solicitaron la nulidad matrimonial por vicio de forma. | Şekil kusuru nedeniyle evliliğin iptalini talep ettiler.
-el patrimonio | mal varlığı, mülk, miras | isim (e) | Protegieron el patrimonio familiar mediante una fundación. | Bir vakıf aracılığıyla aile mal varlığını korudular.
-## Kanunlar ve haklar
-las directrices normativas | kural, norm | ifade | Esta directrices normativas regulan el comercio electrónico. | Bu hukuk kuralları elektronik ticareti düzenlemektedir.
-el precepto | yasal kural, ilke | isim (e) | Infringió un precepto fundamental de la ley orgánica. | Organik yasanın temel bir hükmünü ihlal etti.
-el decreto | kararname | isim (e) | El gobierno aprobó un decreto urgente sobre vivienda. | Hükümet, konut konusunda acil bir kararname onayladı.
-la legislación | mevzuat | isim (d) | Adaptaron la legislación local a los estándares europeos. | Yerel mevzuatı Avrupa standartlarına uyarladılar.
-las regulaciones estatutarias | tüzük, statü | ifade | Modificaron las regulaciones estatutarias de la sociedad mercantil. | Ticaret şirketinin tüzüğünü değiştirdiler.
-la potestad | yetki, kudret | isim (d) | El juez ejerce su potestad con total independencia. | Yargıç yetkisini tam bir bağımsızlıkla kullanır.
-las prerrogativas legales | hak, hukuk | ifade | Todo ciudadano tiene prerrogativas legales a la tutela judicial efectiva. | Her vatandaşın etkin yargısal koruma hakkı vardır.
-la prerrogativa de inmunidad | dokunulmazlık | ifade | Los diplomáticos gozan de prerrogativa de inmunidad en ciertos ámbitos. | Diplomatlar belirli alanlarda dokunulmazlığa sahiptir.
-la exoneración | muafiyet, borçtan kurtulma | isim (d) | Obtuvo la exoneración fiscal por inversión tecnológica. | Teknoloji yatırımı nedeniyle vergi muafiyeti elde etti.
-la vigencia | yürürlülük, geçerlilik | isim (d) | La ley entró en vigencia tras su publicación oficial. | Yasa, resmi yayınından sonra yürürlüğe girdi.
-## Hukuki belgeler
-el expediente notarial | belge | ifade | Validaron cada expediente notarial presentado. | Sunulan her noter onaylı belgeyi geçerli kıldılar.
-el poder | vekâletname, güç | isim (e) | Otorgó un poder notarial amplio a su representante. | Temsilcisine geniş kapsamlı bir noter vekâletnamesi verdi.
-la escritura | tapu sencedi, resmi senet | isim (d) | Firmaron la escritura pública de compra del solar. | Arsa alımının resmi tapu senedini imzaladılar.
-el acta | tutanak, zabıt | isim (d) | Levantaron acta detallada de los acuerdos adoptados. | Alınan kararların ayrıntılı bir tutanağını tuttular.
-la notificación | tebligat, bildirim | isim (d) | Recibió la notificación judicial en su domicilio fiscal. | Yargısal tebligatını vergi ikametgahında teslim aldı.
-los plazos legales | mühlet, süre | ifade | Los plazos legales para recurrir expiran este miércoles. | Temyiz için yasal süreler bu çarşamba sona eriyor.
-la póliza | poliçe | isim (d) | Revisaron cada cláusula de la póliza de seguros. | Sigorta poliçesinin her maddesini gözden geçirdiler.
-los expedientes administrativos | dosya, evrak | ifade | Archivaron los expedientes administrativos por falta de pruebas incriminatorias. | Suçlayıcı delil yetersizliğinden dosyaları kapattılar.
-la certificación | tasdik belgesi, onay | isim (d) | Presentó una certificación oficial de antecedentes penales. | Resmi bir sabıka kaydı tasdik belgesi sundu.
-el arancel | tarife, gümrigo vergisi | isim (e) | Modificaron el arancel aplicable a la importación textil. | Tekstil ithalatına uygulanacak tarifeyi değiştirdiler.
-## Avukatlık ve temsil
-el defensor legal | avukat | ifade | El defensor legal presentó una sólida coartada. | Savunma avukatı sağlam bir mazeret sundu.
-el colegiado | baro üyesi avukat | isim (e) | Todo abogado colegiado debe cumplir el código deontológico. | Her baro üyesi avukat meslek etiği kurallarına uymalıdır.
-la minuta | avukatlık ücreti hesabı, taslak | isim (d) | El letrado entregó la minuta detallada de sus honorarios. | Avukat, vekâlet ücretlerinin ayrıntılı dökümünü teslim etti.
-el patrocinio | hukuki himaye, sponsorluk | isim (e) | Aceptaron el patrocinio jurídico de la causa civil. | Medeni dava için hukuki himayeyi kabul ettiler.
-el asesoramiento | danışmanlık | isim (e) | Recibieron asesoramiento legal antes de firmar el pacto. | Anlaşmayı imzalamadan önce hukuki danışmanlık aldılar.
-la postura defensiva | savunma | ifade | Su postura defensiva se basó en la ausencia de dolo. | Savunması kastın bulunmamasına dayandı.
-el arbitraje | tahkim | isim (e) | Sometieron el conflicto mercantil a un arbitraje vinculante. | Ticari uyuşmazlığı bağlayıcı bir tahkime sundular.
-las labores de arbitraje | arabuluculuk | ifade | Las labores de arbitraje evitaron un costoso proceso judicial. | Arabuluculuk çalışmaları, masraflı bir yargı sürecini önledi.
-la recusación | reddi hâkim, hâkimin reddi | isim (d) | Presentaron recusación formal contra el magistrado ponente. | Rapor hazırlayan hâkime karşı resmi reddi hâkim talebinde bulundular.
-el mandato | yetki belgesi, görev | isim (e) | Actuó bajo el mandato expreso de la junta directiva. | Yönetim kurulunun açık yetkisi altında hareket etti.
-## Mülkiyet hakları
-el derecho de propiedad | mülkiyet | ifade | Reclamaron el derecho de propiedad legítima de los terrenos. | Arazilerin meşru mülkiyetini talep ettiler.
-el dominio | mülkiyet hakkı, hakimiyet | isim (e) | Adquirió el pleno dominio de la finca rústica. | Kırsal mülkün tam mülkiyet hakkını edindi.
-la posesión | zilyetlik, elinde bulundurma | isim (d) | Demostraron la posesión pacífica durante treinta años. | Otuz yıl boyunca barışçıl zilyetliği kanıtladılar.
-el usucapion | kazandırıcı zamanaşımı | isim (e) | Reclamaron la titularidad mediante usucapion ordinaria. | Olağan kazandırıcı zamanaşımı yoluyla mülkiyeti talep ettiler.
-la servidumbre | irtifak hakkı | isim (d) | Establecieron una servidumbre de paso en la finca. | Çiftlikte geçit irtifakı tesis ettiler.
-el gravamen | yükümlülük, ipotek yükü | isim (e) | La propiedad se transfirió libre de todo gravamen. | Mülk, her türlü yükümlülükten arınmış olarak devredildi.
-la desamortización | kamulaştırma, millileştirme | isim (d) | Aquel proceso histórico de desamortización transformó el campo. | Tarihî o kamulaştırma süreci kırsal alanı dönüştürdü.
-el dominio público | kamu malı | ifade | La zona costera pertenece inalienablemente al dominio público. | Kıyı şeridi devredilemez bir şekilde kamu malına aittir.
-el lanzamiento de vivienda | tahliye | ifade | Ejecutaron una orden de lanzamiento de vivienda por impago de alquiler. | Kira ödenmemesi nedeniyle tahliye emrini uyguladılar.
-el usufructuario | intifa hakkı sahibi | isim (e) | El usufructuario debe conservar la cosa con diligencia. | İntifa hakkı sahibi, şeyi özenle korumak zorundadır.
-## Uluslararası hukuk
-el acuerdo internacional | uluslararası antlaşma, sözleşme | ifade | Ratificaron el acuerdo internacional sobre derechos humanos. | İnsan haklarına ilişkin uluslararası antlaşmayı onayladılar.
-el pacto internacional | uluslararası sözleşme | ifade | El pacto internacional de Viena regula las relaciones consulares. | Viyana Sözleşmesi konsolosluk ilişkilerini düzenler.
-el diferendo internacional | uluslararası uyuşmazlık | ifade | Sometieron el diferendo internacional a arbitraje internacional. | Sınır uyuşmazlığını uluslararası tahkime götürdüler.
-la extradición | suçluların iadesi | isim (d) | Concedieron la extradición del presunto cabecilla mafioso. | Şüpheli mafya liderinin iadesini onayladılar.
-el refugio geopolítico | siyasi sığınma hakkı | ifade | Solicitó asilo político debido a persecución ideológica. | İdeolojik zulüm nedeniyle siyasi sığınma talebinde bulundu.
-el fuero | yetki alanı, yargı çevresi | isim (e) | Gozaban de un fuero especial por su alta magistratura. | Yüksek makamları nedeniyle özel bir yargı yetkisine sahiptiler.
-las directrices de soberanía | egemenidad | ifade | Defendieron las directrices de soberanía nacional ante injerencias externas. | Dış müdahalelere karşı ulusal egemenliği savundular.
-el protocolo | protokol, ek sözleşme | isim (e) | Firmaron un protocolo adicional sobre desarme nuclear. | Nükleer silahsızlanma üzerine ek bir protokol imzaladılar.
-la sanción internacional | uluslararası yaptırım | ifade | Impusieron una dura sanción económica al régimen. | Rejime sert bir ekonomik uluslararası yaptırım uyguladılar.
-el laudo | hakem kararı | isim (e) | El laudo arbitral resolvió el conflicto transfronterizo. | Hakem kararı sınır ötesi uyuşmazlığı çözüme kavuşturdu.
-## Hukuk felsefesi ve etik
-los principios de justicia | adalet | ifade | Los principios de justicia deben ser pronta, imparcial y gratuita. | Adalet hızlı, tarafsız ve ücretsiz olmalıdır.
-la equidad | hakkaniyet | isim (d) | El tribunal resolvió el caso aplicando criterios de equidad. | Mahkeme, hakkaniyet kriterlerini uygulayarak davayı çözdü.
-la legalidad | yasallık, hukuksallık | isim (d) | Actuaron en estricto apego al principio de legalidad. | Yasallık ilkesine sıkı sıkıya bağlı olarak hareket ettiler.
-el dogma jurídico | hukuki dogmatizm | ifade | Superaron el viejo dogma jurídico formalista. | Eski şekilci hukuki dogmatizmi aştılar.
-la deontología | meslek etiği, deontoloji | isim (d) | Infringió gravemente la deontología profesional exigida. | Gerekli meslek etiği kurallarını ağır şekilde ihlal etti.
-la licitud | yasallık, meşruiyet | isim (d) | Cuestionaron la licitud moral de la norma aplicada. | Uygulanan kuralın ahlaki meşruiyetini sorguladılar.
-la tipicidad | suçun kanunî unsurlarını taşıma | isim (d) | La defensa alegó la atipicidad de la conducta imputada. | Savunma, atfedilen eylemin suç tipine uymadığını öne sürdü.
-la culpabilidad | kusurluluk, suçluluk | isim (d) | Exigen probar la culpabilidad más allá de toda duda razonable. | Suçluluğun her türlü makul şüphenin ötesinde kanıtlanmasını talep ediyorlar.
-la impunidad institucional | cezasızlık | ifade | Luchan incansablemente contra la impunidad institucional. | Kurumsal cezasızlığa karşı yorulmaksızın mücadele ediyorlar.
-la retroactividad | geriye yürürlük | isim (d) | La ley penal más favorable tiene efecto de retroactividad. | Lehe olan ceza kanunu geriye yürüme etkisine sahiptir.
+el usufructo | intifa hakkı | isim (e) | La viuda tiene el usufructo de la casa. | Dul kadının evde intifa hakkı var.
+el usufructuario | intifa hakkı sahibi | isim (e) | El usufructuario puede vivir en la casa pero no venderla. | İntifa hakkı sahibi evde yaşayabilir ama satamaz.
+el albacea | vasiyeti yerine getiren kişi | isim (e) | Nombró albacea a su mejor amigo. | En yakın arkadaşını vasiyet yürütücüsü atadı.
+el avalista | kefil | isim (e) | El banco exigió un avalista. | Banka bir kefil istedi.
+la nulidad | hükümsüzlük | isim (d) | Pidieron la nulidad del contrato. | Sözleşmenin hükümsüzlüğünü talep ettiler.
+la cláusula abusiva | haksız şart | isim (d) | El juez anuló la cláusula abusiva. | Hâkim haksız şartı iptal etti.
+la escritura pública | resmî senet, tapu | isim (d) | Firmaron la escritura pública ante notario. | Resmî senedi noter huzurunda imzaladılar.
+la mayoría de edad | reşit olma yaşı | isim (d) | En España la mayoría de edad es a los dieciocho. | İspanya'da reşit olma yaşı on sekiz.
+la incapacitación | kısıtlama (hukuki) | isim (d) | La familia pidió su incapacitación. | Ailesi kısıtlanmasını talep etti.
+la indemnización por daños | zarar tazminatı | isim (d) | Recibió una indemnización por daños y perjuicios. | Maddi ve manevi tazminat aldı.
+## Mülkiyet
+la posesión | zilyetlik | isim (d) | Tiene la posesión del terreno desde hace años. | Yıllardır arazinin zilyedi.
+la usucapión | kazandırıcı zamanaşımı | isim (d) | Adquirió la finca por usucapión. | Araziyi kazandırıcı zamanaşımıyla edindi.
+la servidumbre | irtifak hakkı | isim (d) | Hay una servidumbre de paso por mi jardín. | Bahçemden geçiş irtifakı var.
+el gravamen | takyidat, yük | isim (e) | La casa está libre de gravámenes. | Evin üzerinde takyidat yok.
+la expropiación | kamulaştırma | isim (d) | La expropiación del terreno fue polémica. | Arazinin kamulaştırılması tartışmalı oldu.
+el dominio público | kamu malı | isim (e) | Las playas son de dominio público. | Plajlar kamu malıdır.
+el bien inmueble | taşınmaz mal | isim (e) | Heredó varios bienes inmuebles. | Birkaç taşınmaz mal miras aldı.
+la titularidad | sahiplik | isim (d) | Cambiaron la titularidad del coche. | Arabanın sahipliğini değiştirdiler.
+el registro de la propiedad | tapu sicili | isim (e) | Consulta el registro de la propiedad antes de comprar. | Satın almadan önce tapu siciline bak.
+el embargo preventivo | ihtiyati haciz | isim (e) | Decretaron un embargo preventivo de sus bienes. | Mallarına ihtiyati haciz konuldu.
+## Mevzuat
+el precepto | hüküm, kural | isim (e) | El precepto constitucional es claro. | Anayasa hükmü açık.
+el decreto | kararname | isim (e) | El gobierno aprobó un decreto ley. | Hükümet bir kanun hükmünde kararname çıkardı.
+la legislación | mevzuat | isim (d) | La legislación laboral ha cambiado. | İş mevzuatı değişti.
+entrar en vigor | yürürlüğe girmek | ifade | La ley entra en vigor mañana. | Yasa yarın yürürlüğe giriyor.
+derogar | yürürlükten kaldırmak | fiil | El parlamento derogó la ley. | Parlamento yasayı yürürlükten kaldırdı.
+la retroactividad | geriye yürüme | isim (d) | La ley no tiene retroactividad. | Yasanın geriye yürüme etkisi yok.
+la potestad | yetki | isim (d) | El juez tiene potestad para decidir. | Hâkimin karar verme yetkisi var.
+la prerrogativa | ayrıcalık, imtiyaz | isim (d) | Es una prerrogativa del presidente. | Bu cumhurbaşkanının bir ayrıcalığı.
+la exoneración | muafiyet, ibra | isim (d) | Obtuvo la exoneración de su deuda. | Borcundan ibra edildi.
+la seguridad jurídica | hukuki güvenlik | isim (d) | Las empresas necesitan seguridad jurídica. | Şirketler hukuki güvenliğe ihtiyaç duyar.
+## Uyuşmazlık çözümü
+el arbitraje | tahkim | isim (e) | Resolvieron el conflicto mediante arbitraje. | Anlaşmazlığı tahkim yoluyla çözdüler.
+el laudo | hakem kararı | isim (e) | El laudo es vinculante para ambas partes. | Hakem kararı her iki taraf için bağlayıcıdır.
+el acto de conciliación | uzlaştırma toplantısı | isim (e) | Antes del juicio hubo un acto de conciliación. | Davadan önce bir uzlaştırma toplantısı yapıldı.
+el acuerdo extrajudicial | mahkeme dışı uzlaşma | isim (e) | Llegaron a un acuerdo extrajudicial. | Mahkeme dışı uzlaşmaya vardılar.
+la recusación | hâkimin reddi | isim (d) | La defensa presentó la recusación del juez. | Savunma hâkimin reddi talebinde bulundu.
+la tutela judicial | yargısal koruma | isim (d) | Todos tienen derecho a la tutela judicial efectiva. | Herkesin etkili yargısal korumadan yararlanma hakkı vardır.
+el asesoramiento | danışmanlık | isim (e) | Necesitamos asesoramiento jurídico. | Hukuki danışmanlığa ihtiyacımız var.
+la notificación | tebligat | isim (d) | Recibió la notificación del juzgado. | Mahkemeden tebligat aldı.
+el emplazamiento | celp, davet | isim (e) | Recibió un emplazamiento para comparecer. | Hazır bulunması için celp aldı.
+comparecer (comparezco) | (mahkemede) hazır bulunmak | fiil · düzensiz | Debe comparecer ante el juez el lunes. | Pazartesi hâkimin huzuruna çıkması gerekiyor.
+## Hukuk ilkeleri
+la legalidad | hukuka uygunluk | isim (d) | El principio de legalidad es fundamental. | Hukuka uygunluk ilkesi temeldir.
+la licitud | meşruluk | isim (d) | Dudan de la licitud de las pruebas. | Delillerin hukuka uygunluğundan şüphe ediyorlar.
+la equidad | hakkaniyet | isim (d) | El juez resolvió con equidad. | Hâkim hakkaniyetle karar verdi.
+la deontología | meslek etiği | isim (d) | Violó la deontología profesional. | Meslek etiğini ihlal etti.
+el habeas corpus | habeas corpus (keyfî tutuklamaya karşı koruma) | isim (e) | El abogado solicitó un habeas corpus. | Avukat habeas corpus talebinde bulundu.
+la indefensión | savunma hakkından yoksunluk | isim (d) | Alegaron indefensión. | Savunma hakkından yoksun bırakıldıklarını ileri sürdüler.
+a tenor de | -e göre, uyarınca | ifade | A tenor de lo dispuesto en el artículo 5, la multa es válida. | 5. madde hükümleri uyarınca ceza geçerlidir.
+sin perjuicio de | -e halel gelmeksizin | ifade | Sin perjuicio de otras acciones legales, se impone una multa. | Diğer hukuki yollara halel gelmeksizin para cezası verilir.
+de oficio | re'sen, kendiliğinden | ifade | Le asignaron un abogado de oficio. | Ona re'sen bir avukat atandı.
+con arreglo a | -e uygun olarak | ifade | Actuaron con arreglo a la ley. | Yasaya uygun olarak hareket ettiler.

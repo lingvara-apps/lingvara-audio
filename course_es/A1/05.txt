@@ -25,7 +25,7 @@ el batido | milkshake; smoothie | isim (e) | Quiero un batido de chocolate. | Ç
 la fruta | meyve | isim (d) | Como fruta después de comer. | Yemekten sonra meyve yerim.
 la manzana | elma | isim (d) | Esta manzana es muy dulce. | Bu elma çok tatlı.
 el plátano | muz | isim (e) | Yuki come un plátano. | Yuki bir muz yiyor.
-la naranja | portakal | isim (d) | Las naranjas de Valencia son famosas. | Valencia portakalları ünlüdür.
+la piña | ananas | isim (d) | La piña es una fruta tropical. | Ananas tropikal bir meyvedir.
 la fresa | çilek | isim (d) | Me encantan las fresas. | Çilekleri çok severim.
 la uva | üzüm | isim (d) | Comemos doce uvas en Nochevieja. | Yılbaşı gecesi on iki üzüm yeriz.
 el limón | limon | isim (e) | El limón es muy ácido. | Limon çok ekşidir.
@@ -95,7 +95,7 @@ picante | acı (baharatlı) | sıfat | No me gusta la comida picante. | Acı yem
 amargo | acı (tat olarak) | sıfat | El café solo es amargo. | Sade kahve acıdır.
 ácido | ekşi | sıfat | Estas uvas son ácidas. | Bu üzümler ekşi.
 caliente | sıcak | sıfat | La sopa está muy caliente. | Çorba çok sıcak.
-frío | soğuk | sıfat | Quiero una cerveza fría. | Soğuk bir bira istiyorum.
+tibio | ılık | sıfat | El agua está tibia. | Su ılık.
 fresco | taze; serin | sıfat | El pescado es fresco. | Balık taze.
 delicioso | nefis | sıfat | La paella está deliciosa. | Paella nefis.
 ## Yemek fiilleri ve ifadeler

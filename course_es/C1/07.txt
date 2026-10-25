@@ -8,14 +8,14 @@ la saga | destansı nehir roman | isim (d) | La saga familiar abarca varias gene
 la hagiografía | azizler hayatı | isim (d) | La hagiografía relata la vida virtuosa de los santos. | Azizler hayatı, azizlerin erdemli yaşamını anlatır.
 la égloga | pastoral şiir | isim (d) | La égloga idealiza la vida rústica de los pastores. | Pastoral şiir, çobanların kırsal yaşamını idealize eder.
 el madrigal | aşk şiiri | isim (e) | El madrigal expresa afecto tierno con brevedad lírica. | Aşk şiiri, lirik bir kısalıkla şefkatli duyguyu ifade eder.
-la copla | halk türküsü | isim (d) | La copla popular transmite coplas rimadas de tradición oral. | Halk türküsü, sözlü geleneğin kafiyeli dizelerini aktarır.
+la copla | halk türküsü | isim (d) | La copla popular se transmite de generación en generación. | Halk türküsü kuşaktan kuşağa aktarılır.
 el entremés | kısa oyun | isim (e) | El entremés aliviaba la tensión dramática entre actos serios. | Kısa oyun, ciddi perdeler arasındaki dramatik gerilimi hafifletirdi.
 ## Yapısal unsurlar
 el clímax | doruk noktası | isim (e) | El clímax literario concentra la tensión máxima del relato. | Edebi doruk noktası, anlatının azami gerilimini yoğunlaştırır.
 la diégesis | diyetez, anlatı dünyası | isim (d) | La diégesis construye el universo ficcional de la trama. | Anlatı dünyası, kurgusal evreni inşa eder.
-el tópico | ortak tema | isim (e) | El tópico literario reaparece constantemente a lo largo de los siglos. | Edebi ortak tema, yüzyıllar boyunca sürekli yeniden ortaya çıkar.
+el leitmotiv | ana motif, leitmotiv | isim (e) | El mar es el leitmotiv de toda su obra. | Deniz tüm eserinin ana motifidir.
 la catarsis | katarsis, arınma | isim (d) | La tragedia clásica provoca la catarsis profunda en el público. | Klasik trajedi, seyircide derin bir arınma tetikler.
-el lema | şiar, düstur | isim (e) | El lema principal unifica la estructura narrativa entera. | Ana şiar bütün anlatı yapısını birleştirir.
+el epílogo | sonsöz | isim (e) | En el epílogo sabemos qué fue de los personajes. | Sonsözde karakterlere ne olduğunu öğreniyoruz.
 el arquetipo | arketipler | isim (e) | El arquetipo universal representa patrones fijos de conducta humana. | Evrensel arketip, sabit insan davranışı kalıplarını temsil eder.
 la analepsis | geriye dönüş | isim (d) | La analepsis rompe la linealidad cronológica mediante recuerdos. | Geriye dönüş, anılar aracılığıyla kronolojik çizgiselleyi kırar.
 la prolepsis | ileriye atlama | isim (d) | La prolepsis anticipa acontecimientos futuros de la trama. | İleriye atlama, olay örgüsünün gelecek olaylarını önceden bildirir.
@@ -33,13 +33,13 @@ la anáfora | yineleme | isim (d) | La anáfora repite palabras iniciales para e
 el polisíndeton | bağlaç yığılması | isim (e) | El polisíndeton multiplica conjunciones aportando solemnidad rítmica. | Bağlaç yığılması, ritmik ciddiyet katarak bağlaçları çoğaltır.
 el retruécano | söz oyunu | isim (e) | El retruécano invierte términos creando agudeza conceptual. | Söz oyunu, kavramsal zeka yaratarak terimleri tersine çevirir.
 ## Edebi akımlar
-el barroquismo | barokçuluk | isim (e) | El barroquismo recorta formas complejas con ornamentación excesiva. | Barokçuluk, aşırı süslemeyle karmaşık biçimleri keser.
+el barroquismo | barokçuluk | isim (e) | El barroquismo recarga el texto con ornamentación excesiva. | Barokçuluk metni aşırı süslemeyle yükler.
 el romanticismo | romantizm akımı | isim (e) | El romanticismo antepone la emoción subjetiva a la razón fría. | Romantizm, öznel duyguyu soğuk akıl karşısına koyar.
 el modernismo | modernizm | isim (e) | El modernismo renovó la estética hispánica buscando la belleza formal. | Modernizm, biçimsel güzellik arayarak Hispanik estetiği yeniledi.
 el criollismo | yerlicilik akımı | isim (e) | El criollismo retrata la vida campesina y la geografía americana. | Yerlicilik, köylü yaşamını ve Amerikan coğrafyasını resmeder.
 el vanguardismo | avangardizm | isim (e) | El vanguardismo rompió radicalmente con las normas estéticas tradicionales. | Avangardizm, geleneksel estetik kurallarla kökten biçimde koptu.
-el realismo mágico | büyücü gerçekçilik | isim (e) | El realismo mágico integra elementos sobrenaturales en entornos cotidianos. | Büyücü gerçekçilik, Doğaüstü unsurları günlük ortamlara entegre eder.
-el subjetivizm | öznelcilik akımı | isim (e) | El subjetivizm reflexiona sobre la libertad angustiosa del ser humano. | Öznelcilik, insanın bunaltıcı özgürlüğü üzerine düşünür.
+el realismo mágico | büyülü gerçekçilik | isim (e) | El realismo mágico integra elementos sobrenaturales en entornos cotidianos. | Büyülü gerçekçilik doğaüstü unsurları günlük ortamlara entegre eder.
+el costumbrismo | töre romanı akımı, kostumbrizm | isim (e) | El costumbrismo describe las costumbres de la vida cotidiana. | Kostumbrizm gündelik yaşamın törelerini betimler.
 el naturalismo | natüralizm | isim (e) | El naturalismo analiza científicamente la influencia del entorno social. | Natüralizm, toplumsal çevrenin etkisini bilimsel olarak inceler.
 el clasicismo | klasikçilik | isim (e) | El clasicismo imita modelos grecolatinos buscando la armonía perfecta. | Klasikçilik, mükemmel uyumu arayarak Greko-Romen modelleri taklit eder.
 el simbolismo | sembolizm | isim (e) | El simbolismo sugiere significados ocultos mediante correspondencias misteriosas. | Sembolizm, gizemli yazışmalar yoluyla gizli anlamlar önerir.
@@ -48,25 +48,25 @@ la hermenéutica | hermeneutik, yorum bilimi | isim (d) | La hermenéutica inter
 la semiótica | göstergebilim | isim (d) | La semiótica analiza sistemas de signos culturales en la comunicación. | Göstergebilim, iletişimdeki kültürel işaret sistemlerini analiz eder.
 la deconstrucción | dekonstrüksiyon | isim (d) | La deconstrucción subvierte jerarquías estables dentro del discurso analizado. | Dekonstrüksiyon, incelenen söylem içindeki kararlı hiyerarşileri sarsar.
 el estructuralismo | yapısalcılık | isim (e) | El estructuralismo estudia patrones invariantes subyacentes a los textos. | Yapısalcılık, metinlerin altında yatan değişmez kalıpları inceler.
-elocutio pública | topluluk önünde hitabet | isim (d) | La elocutio pública enseña técnicas persuasivas aplicadas al discurso. | Topluluk önünde hitabet, söyleme uygulanan ikna edici teknikleri öğretir.
+la retórica clásica | klasik retorik | isim (d) | La retórica clásica distinguía cinco partes del discurso. | Klasik retorik söylevin beş bölümünü ayırt ederdi.
 la intertextualidad | metinlerarasılık | isim (d) | La intertextualidad relaciona obras literarias mediante alusiones explícitas. | Metinlerarasılık, açık ima yoluyla edebi eserleri ilişkilendirir.
-la filología | filoloji | isim (d) | La filología estudia lenguas y culturas antiguas a través de manuscritos. | Filoloji, el yazmaları aracılığıyla eski dilleri ve kültürleri inceler.
-la estilística | biçembilim | isim (d) | La estilística examina la expressividad formal empleada por el autor. | Biçembilim, yazar tarafından kullanılan biçimsel anlatım gücünü inceler.
-la sociología | sosyoloji | isim (d) | La sociología literaria vincula la producción escrita con contextos socioeconómicos. | Edebi sosyoloji, yazılı üretimi sosyoekonomik bağlamlarla bağlar.
-la acotación | alımlama estetiği | isim (d) | La acotación valora el papel activo de lectores. | Alımlama estetiği, okurların etken rolünü değerler.
+la narratología | anlatıbilim | isim (d) | La narratología estudia la estructura de los relatos. | Anlatıbilim anlatıların yapısını inceler.
+la estilística | biçembilim | isim (d) | La estilística examina la expresividad formal empleada por el autor. | Biçembilim, yazar tarafından kullanılan biçimsel anlatım gücünü inceler.
+la crítica textual | metin eleştirisi | isim (d) | La crítica textual intenta reconstruir el texto original. | Metin eleştirisi özgün metni yeniden kurmaya çalışır.
+la acotación | sahne yönergesi | isim (d) | Las acotaciones indican cómo se mueven los actores. | Sahne yönergeleri oyuncuların nasıl hareket edeceğini gösterir.
 ## Metin çözümlemesi
-la polifonía textual | metinsel çok seslilik | isim (d) | La polifonía textual integra voces dispares sin anulaciones mutuas. | Metinsel çok seslilik, karşılıklı iptaller olmaksızın farklı sesleri bütünleştirir.
+el monólogo interior | iç monolog | isim (e) | La novela es un largo monólogo interior. | Roman uzun bir iç monologdur.
 la focalización | odaklaşma | isim (d) | La focalización define qué perspectiva narrativa filtra los hechos contados. | Odaklaşma, hangi anlatı perspektifinin anlatılan olayları süzdüğünü tanımlar.
 la deixis | deiksis, gösterme | isim (d) | La deixis sitúa espacialmente elementos referenciales dentro del enunciado. | Deiksis, göndergesel unsurları ifade içinde mekansal olarak konumlandırır.
 la modalidad | modalite | isim (d) | La modalidad refleja la actitud del emisor frente al contenido enunciado. | Modalite, göndericinin ifade edilen içeriğe karşı tutumunu yansıtır.
-la connotación | yan anlam | isim (d) | La connotación evoca asociaciones subjetivas más allá del significado denotativo. | Yan anlam, düz anlamın ötesinde öznel çağrışımlar uyandırır.
+el hipérbaton | devrik söz dizimi | isim (e) | El poeta usa el hipérbaton para mantener la rima. | Şair kafiyeyi korumak için devrik söz dizimi kullanıyor.
 la presuposición | ön varsayım | isim (d) | La presuposición activa información implícita aceptada por hablantes. | Ön varsayım, konuşmacılar tarafından kabul edilen örtük bilgiyi etkinleştirir.
 la isotopía | izotopi, anlam birliği | isim (d) | La isotopía garantiza la coherencia semántica mediante rasgos compartidos. | Anlam birliği, paylaşılan özellikler yoluyla anlamsal tutarlılığı garanti eder.
-la presuposición lógica | mantıksal ön varsayım | isim (d) | La presuposición lógica deduce premisas tácitas en argumentos complejos. | Mantıksal ön varsayım, karmaşık argümanlarda zımni önermeleri çıkarır.
+el encabalgamiento | dize aşırımı | isim (e) | El encabalgamiento rompe la pausa al final del verso. | Dize aşırımı dize sonundaki duraksamayı bozar.
 la polisemia | çok anlamlılık | isim (d) | La polisemia genera múltiples interpretaciones según el contexto literario. | Çok anlamlılık, edebi bağlama göre çoklu yorumlar üretir.
-la deixis temporal | zamansal deiksis | isim (d) | La deixis temporal ancla el discurso en coordenadas cronológicas precisas. | Zamansal deiksis, söylemi kesin kronolojik koordinatlarda demirler.
+la métrica | ölçü bilgisi, vezin | isim (d) | La métrica española cuenta sílabas. | İspanyol vezni heceleri sayar.
 ## Yayım ve eleştiri
-el manuscrito | el yazması | isim (e) | El investigador cotejó el manuscrito original con ediciones modernas. | Araştırmacı, orijinal el yazmasını modern baskılarla karşılaştırdı.
+el códice | el yazması kitap (kodeks) | isim (e) | El códice medieval se conserva en la biblioteca. | Ortaçağ kodeksi kütüphanede korunuyor.
 la edición crítica | eleştirel basım | isim (d) | La edición crítica establece el texto definitivo confrontando variantes históricas. | Eleştirel basım, tarihsel varyantları karşılaştırarak kesin metni oluşturur.
 el prólogo | önsöz | isim (e) | El prólogo contextualiza la obra ofreciendo claves interpretativas esenciales. | Önsöz, temel yorumlayıcı anahtarlar sunarak eseri bağlama oturtur.
 el colofón | sonnot, basım bilgisi | isim (e) | El colofón final detalla la imprenta y fecha exacta de tirada. | Sonnot, matbaayı ve tam baskı tarihini detaylandırır.
@@ -82,11 +82,11 @@ el narratario | anlatılan kişi | isim (e) | El narratario encarna el destinata
 el lector implícito | örtük okur | isim (e) | El lector implícito orienta la estrategia compositiva del autor creador. | Örtük okur, yaratıcı yazarın kompozisyon stratejisini yönlendirir.
 el pacto ficcional | kurgusal sözleşme | isim (e) | El pacto ficcional exige aceptar las reglas imaginarias del relato. | Kurgusal sözleşme, anlatının hayali kurallarını kabul etmeyi gerektirir.
 la ambigüedad intencional | kasıtlı belirsizlik | isim (d) | La ambigüedad intencional multiplica lecturas posibles estimulando el intelecto. | Kasıtlı belirsizlik, zekayı uyarıp olası okumaları çoğaltır.
-el punto de vista | bakış açısı | isim (e) | El punto de vista determina la limitación informativa del relato. | Bakış açısı, anlatının bilgi sınırlamasını belirler.
+el narrador omnisciente | her şeyi bilen anlatıcı | isim (e) | El narrador omnisciente conoce los pensamientos de todos. | Her şeyi bilen anlatıcı herkesin düşüncelerini bilir.
 la complicidad lectora | okurdaşlık | isim (d) | La complicidad lectora descifra dobles sentidos ocultos por el autor. | Okurdaşlık, yazar tarafından gizlenen gizli anlamları çözer.
-el lector omnisciente | her şeyi bilen okur | isim (e) | El lector omnisciente asume un conocimiento superior sobre los personajes. | Her şeyi bilen okur, karakterler hakkında üstün bir bilgi üstlenir.
-la verosimilitude | inandırıcılık | isim (d) | La verosimilitude interna persuade al lector de la lógica narrativa. | İç inandırıcılık, okuru anlatının mantığına ikna eder.
-el distanciamiento brechtiano | brechtçi mesafe | isim (e) | El distanciamiento brechtiano evita la identificación emocional ingenua del público. | Brechtçi mesafe, izleyicinin saf duygusal özdeşleşmesini önler.
+el antihéroe | antikahraman | isim (e) | El protagonista es un antihéroe cobarde y mentiroso. | Başkahraman korkak ve yalancı bir antikahraman.
+la verosimilitud | inandırıcılık | isim (d) | La verosimilitud interna convence al lector. | İç inandırıcılık okuru ikna eder.
+el alter ego | yazarın öteki beni | isim (e) | El protagonista es el alter ego del autor. | Başkahraman yazarın öteki benidir.
 ## Karşılaştırmalı edebiyat
 la influencia transcultural | kültürler arası etki | isim (d) | La influencia transcultural explica préstamos temáticos entre literaturas nacionales. | Kültürler arası etki, ulusal edebiyatlar arasındaki tematik ödünç almaları açıklar.
 el canon occidental | batı kanonu | isim (e) | El canon occidental agrupa obras consideradas fundamentales en la tradición. | Batı kanonu, gelenekte temel kabul edilen eserleri gruplar.
@@ -97,15 +97,15 @@ el mestizaje cultural | kültürel melezleşme | isim (e) | El mestizaje cultura
 la diáspora intelectual | entelektüel diaspora | isim (d) | La diáspora intelectual difunde corrientes estéticas por el mundo entero. | Entelektüel diaspora, estetik akımları tüm dünyaya yayar.
 el exotismo literario | edebi egzotizm | isim (e) | El exotismo literario idealiza escenarios remotos y culturas distantes. | Edebi egzotizm, uzak mekanları ve uzak kültürleri idealize eder.
 la periferia estética | estetik çevre | isim (d) | La periferia estética cuestiona el monopolio cultural de centros metropolitanos. | Estetik çevre, büyükşehir merkezlerinin kültürel tekelini sorgular.
-el cosmopolitizm | kozmopolitizm | isim (e) | El cosmopolitizm integra tradiciones universales en la narrativa local. | Kozmopolitizm, evrensel gelenekleri yerel anlatıya entegre eder.
+el cosmopolitismo | kozmopolitlik | isim (e) | El cosmopolitismo de su obra refleja sus viajes. | Eserinin kozmopolitliği yolculuklarını yansıtır.
 ## Eleştirel akımlar ve pratikler
 la recepción crítica | eleştirel alımlama | isim (d) | La recepción crítica valora el impacto público de la obra literaria. | Eleştirel alımlama, edebi eserin kamusal etkisini değerlendirir.
 el trasfondo ideológico | ideolojik arka plan | isim (e) | El trasfondo ideológico subyace oculto bajo la superficie formal. | İdeolojik arka plan, biçimsel yüzeyin altında gizli olarak yatar.
-la polifonía autoral | yazar çok sesliliği | isim (d) | La polifonía autoral diversifica las voces que sostienen el argumento. | Yazar çok sesliliği, argümanı destekleyen sesleri çeşitlendirir.
-la deconstrucción discursiva | söylemsel dekonstrüksiyon | isim (d) | La deconstrucción discursiva desarma los presupuestos aceptados dogmáticamente. | Söylemsel dekonstrüksiyon, dogmatik olarak kabul edilen önermeleri silahsızlandırır.
-la mímesis aristotélica | aristotelesçi mimesis | isim (d) | La mímesis aristotélica imita acciones humanas mediante la ficción artística. | Aristotelesçi mimesis, sanatsal kurgu aracılığıyla insan eylemlerini taklit eder.
+la autoficción | otokurmaca | isim (d) | Su última novela es una autoficción. | Son romanı bir otokurmaca.
+la picaresca | pikaresk | isim (d) | La picaresca narra las aventuras de un pícaro. | Pikaresk bir kurnaz serserinin maceralarını anlatır.
+la mímesis | taklit (sanatta), mimesis | isim (d) | La mímesis es la imitación de la realidad en el arte. | Mimesis sanatta gerçekliğin taklididir.
 el pacto autobiográfico | otobiyografik sözleşme | isim (e) | El pacto autobiográfico compromete la identidad verídica entre autor y narrador. | Otobiyografik sözleşme, yazar ile anlatıcı arasındaki gerçek kimliği taahhüt eder.
 la hibridación genérica | türsel melezleşme | isim (d) | La hibridación genérica funde rasgos propios de distintas modalidades literarias. | Türsel melezleşme, farklı edebi kiplerin kendi özelliklerini birleştirir.
-el ensayo ensayístico | deneme türü | isim (e) | El ensayo ensayístico reflexiona libremente sobre cuestiones intelectuales complejas. | Deneme türü, karmaşık entelektüel sorunlar üzerinde özgürce düşünür.
+el seudónimo | takma ad | isim (e) | Publicó sus primeras novelas con seudónimo. | İlk romanlarını takma adla yayımladı.
 la vanguardia histórica | tarihi avangart | isim (d) | La vanguardia histórica sacudió los cimientos artísticos del siglo veinte. | Tarihi avangart, yirminci yüzyılın sanatsal temellerini sarstı.
 la crítica sociológica | sosyolojik eleştiri | isim (d) | La crítica sociológica examina condicionamientos sociales presentes en la escritura. | Sosyolojik eleştiri, yazıda mevcut olan toplumsal koşullanmaları inceler.
