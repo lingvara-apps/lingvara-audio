@@ -1,0 +1,111 @@
+# UNIT: 自然与动物 | 动物、植物、天气、环境
+## 野生动物
+el lobo | 狼 | 狼在黑暗的森林里嚎叫。
+el zorro | 狐狸 | 狐狸在树林间寻找食物。
+el oso pardusco | 棕熊 | 棕熊在冬天里冬眠。
+el ciervo | 鹿 | 一头鹿迅速穿过河流。
+el jabalí | 野猪 | 野猪在湿润的泥土中寻找树根。
+el águila | 鹰 | 鹰在山脉上空飞得很高。
+la serpiente | 蛇 | 一条绿色的蛇在阳光下休息。
+el búho | 猫头鹰 | 猫头鹰夜间在树枝上鸣叫。
+la ardilla | 松鼠 | 小松鼠顺着树干往上爬。
+el murciélago | 蝙蝠 | 蝙蝠在天黑时飞出来。
+## 家畜与农场动物
+el toro | 公牛 | 壮硕的公牛在绿色的草地上。
+la cabra | 山羊 | 山羊攀登高高的岩石。
+el gallo | 公鸡 | 公鸡在清晨啼鸣。
+la gallina | 母鸡 | 母鸡在地上寻找谷粒。
+el cordero | 小羊羔 | 小羊羔跟在妈妈身边奔跑。
+el burro | 驴 | 老驴驮着沉重的货物。
+el pato | 鸭子 | 一只鸭子在水中平静地游着。
+el cisne | 天鹅 | 白天鹅在岸边附近游弋。
+la paloma | 鸽子 | 一只白鸽飞向屋顶。
+la rana | 青蛙 | 绿青蛙在树叶上跳跃。
+## 树木与森林
+el pino | 松树 | 高大的松树在春天散发出宜人的清香。
+el roble | 橡树 | 古老的橡树提供了大量阴凉。
+la encina | 冬青栎 | 冬青栎在干旱的土地上长得很茁壮。
+el olivo | 橄榄树 | 古老的橄榄树有着粗壮的树枝。
+el sauce | 柳树 | 垂柳轻触着水面。
+el tronco | 树干 | 树干非常粗壮坚硬。
+la rama | 树枝 | 一小截树枝掉落在小路上。
+la hoja | 叶子 | 枯叶慢慢飘落到地上。
+la raíz | 根 | 深邃的根系在地下寻找水分。
+la corteza | 树皮 | 松树的树皮摸起来很粗糙。
+## 花卉与植物
+la margarita | 小雏菊 | 草地上长出了一朵白色的小雏菊。
+la amapola | 虞美人 | 红色的虞美人在麦田里闪耀。
+el clavel | 石竹花 | 红色的石竹花装点着安达卢西亚庭院。
+el girasol | 向日葵 | 大向日葵总是朝着太阳。
+el lirio | 百合花 | 百合花在潮湿的花园里散发着甜美的芬芳。
+el cactus | 仙人掌 | 小仙人掌在缺水的情况下也能生存。
+el matorral | 灌木丛 | 一只兔子躲在灌木丛里。
+el hongo | 蘑菇 | 有毒的蘑菇生长在树木下方。
+la hierba fresca | 鲜草 | 新鲜的青草覆盖了整个山谷。
+la espina | 刺 | 玫瑰花有一根非常锋利的刺。
+## 天气与天空
+el cielo azul | 蓝天 | 今天的蓝天万里无云、一片晴朗。
+el trueno | 雷声 | 响亮的雷声吓坏了动物们。
+el rayo | 闪电 | 一道闪电划破了夜空。
+la tormenta | 风暴 | 风暴伴随着强风开始了。
+el granizo | 冰雹 | 冰雹打坏了植物的一些叶子。
+el viento fuerte | 强风 | 强风吹动着高处的树枝。
+la neblina | 薄雾 | 早晨的薄雾笼罩着山峰。
+el arco iris | 彩虹 | 雨后出现了一道美丽的彩虹。
+la sequía | 干旱 | 长期的干旱对农田影响很大。
+el clima templado | 温带气候 | 温带气候非常适合居住。
+## 环境与自然保护
+la naturaleza | 自然 | 我们必须保护所有未受破坏的自然环境。
+el medio ambiente | 环境 | 保护环境是每个人的责任。
+la contaminación | 污染 | 污染危害着河流与空气。
+el reciclaje | 回收利用 | 纸张回收利用对森林大有益处。
+el bosque protegido | 受保护森林 | 这片受保护的森林里有许多珍稀物种。
+la reserva natural | 自然保护区 | 自然保护区悉心照料着珍稀动物。
+el residuo | 废弃物 | 每种垃圾都应该扔进对应的垃圾桶里。
+la energía solar | 太阳能 | 太阳能对地球环境很清洁。
+el peligro de extinción | 濒临灭绝 | 许多动物正面临着灭绝的危险。
+la deforestación | 森林砍伐 | 森林砍伐摧毁了许多生物的家园。
+## 海洋与海岸生活
+la ola | 海浪 | 一个巨浪涌上了金色的沙滩。
+la marea | 潮汐 | 涨潮时海水淹没了海岸的岩石。
+la playa virgen | 原生态海滩 | 我们发现了一处非常美丽的原生态海滩。
+el arrecife | 礁石 | 色彩斑斓的珊瑚礁里有许多鱼儿。
+la concha | 贝壳 | 我在水边寻找美丽的贝壳。
+la estrella de mar | 海星 | 一只小海星静静地趴在岩石上。
+el cangrejo | 螃蟹 | 一只红色的螃蟹在湿润的沙滩上爬行。
+el delfin | 海豚 | 一只海豚在船边欢快地跳跃。
+la ballena | 鲸鱼 | 一头巨大的鲸鱼游过蔚蓝的大海。
+el tiburón | 鲨鱼 | 鲨鱼在水下悄无声息地游动。
+## 河流与淡水
+la cascada | 瀑布 | 今天的瀑布水流湍急、声势浩大。
+el arroyo | 小溪 | 清澈的小溪从山丘流淌而下。
+la orilla | 河岸 | 我们坐在绿色的河岸边。
+el estanque | 池塘 | 鸭子们在池塘里平静地游来游去。
+el manantial | 泉水 | 清凉的泉水直接从源头涌出。
+el cauce | 河床 | 干涸的河床正等待着雨水的到来。
+el pantano | 水库 | 巨大的水库为城市提供水源。
+el vado | 浅滩 | 我们非常小心地穿过了河流浅滩。
+la corriente rápida | 急流 | 急流冲走了干枯的树叶。
+el desborde | 泛滥 | 河水泛滥淹没了低洼的农田。
+## 夜空与太空
+la estrella fugaz | 流星 | 看到流星时我许了一个愿。
+la luna llena | 满月 | 满月在夜空中散发出皎洁的光芒。
+el lucero | 晨星 | 启明星在太阳升起之前闪烁。
+la galaxia | 星系 | 我们的星系拥有数百万颗恒星。
+el cometa | 彗星 | 一颗明亮的彗星划过遥远的太空。
+el planeta | 行星 | 地球是一颗美丽的蓝色行星。
+el satélite | 卫星 | 月球是地球的天然卫星。
+el eclipse | 日食 | 日食使白昼暂时变暗。
+el universo | 宇宙 | 浩瀚的宇宙隐藏着许多秘密。
+el cielo estrellado | 星空 | 我们从山丘上眺望繁星点点的夜空。
+## 土壤与地形
+la colina | 小山丘 | 日落时分我们登上了绿色的山丘。
+el valle | 山谷 | 肥沃的山谷盛产大量新鲜水果。
+la cueva | 洞穴 | 一只熊在黑暗的洞穴里睡觉。
+el acantilado | 悬崖 | 小路从高高的悬崖边紧邻着通过。
+la llanura | 平原 | 辽阔的平原上没有高大的树木。
+el desierto | 沙漠 | 炎热的沙漠里有着细腻的沙子。
+la peninsulita | 小半岛 | 这个狭长的小半岛伸入海中。
+el golfo | 海湾 | 大船安全地驶入海湾。
+el cabo | 海角 | 古老的灯塔矗立在海角之上。
+la gripta | 裂缝 | 一场小地震裂开了一道小缝隙。

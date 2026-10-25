@@ -1,0 +1,111 @@
+# UNIT: Technologie | Logiciel, sécurité, intelligence artificielle, espace
+## Monde du logiciel
+el código fuente | code source | Le programmeur analyse le code source sur son ordinateur.
+la compilación | compilation | La compilation du programme s'est terminée sans aucune erreur.
+el algoritmo | algorithme | Cet algorithme calcule le chemin le plus court très rapidement.
+la base de datos relacional | base de données relationnelle | Nous sauvegardons les informations clés dans la base de données relationnelle.
+el lenguaje de programación | langage de programmation | Python est un langage de programmation très populaire en ce moment.
+la función recursiva | fonction récursive | Comprendre cette fonction récursive demande pas mal de logique.
+el repositorio de código | dépôt de code | Nous téléversons les modifications récentes sur le dépôt de code.
+la variable global | variable globale | Il vaut mieux ne pas abuser de l'utilisation de la variable globale.
+el entorno virtual | environnement virtuel | Nous activons l'environnement virtuel avant d'installer les bibliothèques.
+el depurador de errores | débogueur | Le débogueur facilite la recherche de bogues cachés.
+## Cybersécurité
+la brecha de seguridad | faille de sécurité | Ils ont détecté une faille de sécurité dans le système central.
+el cortafuegos avanzado | pare-feu avancé | Le pare-feu avancé bloque les requêtes malveillantes externes.
+la encriptación de datos | chiffrement des données | Le chiffrement des données protège notre vie privée en ligne.
+el ataque cibernetic | cyberattaque | L'entreprise a résisté avec succès à une forte cyberattaque.
+la contraseña robusta | mot de passe robuste | Ils recommandent d'utiliser un mot de passe robuste pour chaque compte.
+el malware espía | logiciel espion | Un logiciel espion a affecté plusieurs ordinateurs du bureau.
+la autenticación de dos pasos | authentification à deux facteurs | Nous avons activé l'authentification à deux facteurs pour plus de sécurité.
+el acceso no autorizado | accès non autorisé | Le système a émis une alerte suite à un accès non autorisé.
+la vulnerabilidad crítica | vulnérabilité critique | Ils ont réparé la vulnérabilité critique avant le week-end.
+el analito forense digital | expert en criminalistique numérique | L'expert en criminalistique numérique a examiné le disque dur endommagé.
+## Intelligence artificielle et science des données
+la red neuronal artificial | réseau de neurones artificiel | Un réseau de neurones artificiel imite le cerveau humain.
+el aprendizaje profundo | apprentissage profond | L'apprentissage profond a révolutionné la reconnaissance visuelle.
+el modelo predictivo | modèle prédictif | Ce modèle prédictif anticipe les tendances du marché.
+la inteligencia artificial generativa | intelligence artificielle générative | L'intelligence artificielle générative crée des textes très naturels.
+el procesamiento del lenguaje natural | traitement automatique du langage naturel | Le traitement automatique du lenguaje naturel aide à traduire des textes.
+la muestra estadística | échantillon statistique | Ils ont sélectionné un large échantillon statistique pour l'étude.
+el sesgo algorítmico | biais algorithmique | Des chercheurs analysent comment réduire le biais algorithmique.
+la minería de datos | fouille de données | La fouille de données extrait des motifs utiles de grands volumes.
+el entrenamiento del modelo | entraînement du modèle | L'entraînement du modèle a duré plusieurs heures intenses.
+la inferencia rápida | inférence rapide | Ils cherchent à optimiser l'inférence rapide sur les appareils mobiles.
+## Espace et aérospatiale
+el telescopio espacial | télescope spatial | Le télescope spatial a capturé des galaxies très lointaines.
+la nave tripulada | vaisseau habité | Un nouveau vaisseau habité a décollé vers la station orbitale.
+el cohete propulsor | fusée propulseur | La fusée propulseur est tombée dans l'océan après s'être séparée.
+la órbita terrestre baja | orbite terrestre basse | De nombreux satellites opèrent sur l'orbite terrestre basse.
+el rover marciano | astromobile martien | L'astromobile martien analyse les roches de la surface rouge.
+la estación espacial internacional | station spatiale internationale | Des astronautes de plusieurs pays vivent dans la station spatiale internationale.
+el agujero negro supermasivo | trou noir supermassif | Ils ont détecté des ondes gravitationnelles près d'un trou noir supermassif.
+la atmósfera galáctica | atmosphère galactique | Ils étudient l'atmosphère galactique à la recherche de signaux étranges.
+el satélite meteorológico | satellite météorologique | Un satellite météorologique surveille les tempêtes tropicales.
+la sonda interplanetaria | sonde interplanétaire | La sonde interplanétaire a envoyé des données précieuses sur Jupiter.
+## Automatisation et robotique
+el brazo robótico industrial | bras robotisé industriel | Le bras robotisé industriel assemble des pièces avec précision.
+la línea de producción automatizada | ligne de production automatisée | La ligne de production automatisée accélère la fabrication de masse.
+el sensor de proximidad | capteur de proximité | Ce capteur de proximité évite au robot de heurter les murs.
+la placa base integrada | carte mère intégrée | Ils ont conçu une carte mère intégrée plus petite et plus légère.
+el circuito impreso flexible | circuit imprimé flexible | Le circuit imprimé flexible permet de plier les appareils modernes.
+la celda solar fotovoltaica | cellule solaire photovoltaïque | Une cellule solaire photovoltaïque transforme la lumière en énergie propre.
+el actuador neumático | actionneur pneumatique | L'actionneur pneumatique déplace la vanne avec de l'air sous pression.
+la interfaz hombre-máquina | interface homme-machine | Ils ont amélioré l'interface homme-machine pour faciliter son utilisation.
+el sistema embebido | système embarqué | Chaque appareil électroménager intelligent comprend un petit système embebido.
+la calibración automática | étalonnage automatique | L'étalonnage automatique garantit toujours des mesures exactes.
+## Cloud computing
+el servidor remoto | serveur distant | Nous hébergeons toutes les pages web sur un serveur distant rapide.
+la copia de seguridad en la nube | sauvegarde dans le nuage | Nous effectuons une sauvegarde dans le nuage chaque minuit.
+el almacenamiento virtual | stockage virtuel | Le stockage virtuel permet d'accéder aux fichiers de n'importe où.
+la infraestructura como servicio | infrastructure en tant que service | L'entreprise a loué une infrastructure en tant que service pour évoluer rapidement.
+el balanceador de carga | équilibreur de charge | Un équilibreur de charge répartit le trafic web efficacement.
+la plataforma escalable | plateforme évolutive | Ils ont développé une plateforme évolutive pour des millions d'utilisateurs.
+el contenedor docker | conteneur Docker | Ils utilisent un conteneur Docker pour isoler les applications web.
+la latencia de red | latence réseau | Réduire la latence réseau améliore l'expérience des appels vidéo.
+el protocolo seguro | protocole sécurisé | Ils ont configuré le protocole sécurisé pour transférer des données bancaires.
+la nube híbrida | nuage hybride | Ils ont opté pour un nuage hybride en combinant des serveurs locaux et externes.
+## Technologies mobiles
+el sistema operativo móvil | système d'exploitation mobile | Ce smartphone utilise un système d'exploitation mobile très fluide.
+la aplicación nativa | application native | Ils préfèrent développer une application native pour de meilleures performances.
+la pantalla táctil OLED | écran tactile OLED | L'écran tactile OLED offre des couleurs vives et des noirs purs.
+la conectividad 5G | connectivité 5G | La connectivité 5G permet des téléchargements ultra-rapides dans la rue.
+el sensor biométrico | capteur biométrique | Le capteur biométrique reconnaît l'empreinte digitale instantanément.
+la carga ultrarrápida | charge ultra-rapide | La technologie de charge ultra-rapide remplit la batterie en quelques minutes.
+el procesador multinúcleo | processeur multicœur | Un processeur multicœur exécute des tâches lourdes sans ramer.
+la memoria RAM LPDDR | mémoire vive LPDDR | Il intègre une mémoire vive LPDDR d'une grande vitesse et efficacité.
+el módulo fotográfico | module photo | Le module photo arrière comprend trois objectifs professionnels.
+la actualización de firmware | mise à jour du micrologiciel | Ils ont lancé une mise à jour du micrologiciel pour résoudre des bugs mineurs.
+## Internet des objets
+el dispositivo conectado | appareil connecté | Chaque appareil connecté émet des données vers le réseau domestique.
+el termostato inteligente | thermostat intelligent | Nous avons programmé le thermostat intelligent pour économiser de l'énergie au quotidien.
+la bombilla domótica | ampoule connectée | Nous contrôlons la couleur de l'ampoule connectée à la voix.
+el enchufe inalambrico | prise sans fil | Nous éteignons les appareils distants en utilisant une prise sans fil.
+la cerradura biométrica | serrure biométrique | La serrure biométrique ouvre la porte d'entrée avec votre empreinte.
+el asistente de voz | assistant vocal | L'assistant vocal répond aux questions sur la météo actuelle.
+la persiana automatizada | volet automatisé | Le volet automatisé descend tout seul lorsque le soleil se lève.
+el sensor de humedad ambiental | capteur d'humidité ambiante | Ce capteur d'humidité ambiante active l'arrosage du jardin.
+el timbre con cámara | sonnette avec caméra | La sonnette avec caméra montre qui sonne à la porte d'entrée.
+la pasarela domótica | passerelle domotique | La passerelle domotique coordonne tous les appareils intelligents ensemble.
+## Biotechnologie et génétique
+el secuenciador de ADN | séquenceur d'ADN | Le laboratoire a acquis un séquenceur d'ADN de dernière génération.
+la edición genética CRISPR | édition génétique CRISPR | La technique d'édition génétique CRISPR ouvre de nouveaux espoirs médicaux.
+el anticuerpo monoclonal | anticorps monoclonal | Ils ont développé un anticorps monoclonal spécifique contre le virus.
+la proteína recombinante | protéine recombinante | Ils produisent une protéine recombinante en utilisant des cultures cellulaires pures.
+el ensayo clínico avanzado | essai clinique avancé | Le médicament a réussi avec succès un essai clinique avancé.
+la terapia génica | thérapie génique | La thérapie génique cherche à corriger des mutations héréditaires graves.
+el bioinformático experto | bioinformaticien expert | Le bioinformaticien expert analyse des séquences génétiques complexes.
+la enzima modificada | enzyme modifiée | Ils ont créé une enzyme modifiée capable de dégrader rapidement les plastiques.
+el cultivo celular | culture cellulaire | Ils maintiennent la culture cellulaire dans des conditions stériles strictes.
+la molécula sintética | molécule synthétique | Ils ont synthétisé une molécule synthétique pour combattre des bactéries résistantes.
+## Informatique quantique
+el ordenador cuántico | ordinateur quantique | Un ordinateur quantique traite l'information en utilisant des qubits complexes.
+el cúbit superconductor | qubit supraconducteur | Le qubit supraconducteur nécessite des températures extrêmement basses.
+el entrelazamiento cuántico | intrication quantique | L'intrication quantique connecte des particules d'une manière mystérieuse.
+la criptografía poscuántica | cryptographie post-quantique | Ils font des recherches en cryptographie post-quantique pour protéger les futures données.
+el algoritmo de Shor | algorithme de Shor | Le célèbre algorithme de Shor factorise de grands nombres rapidement.
+la superposición cuántica | superposition quantique | La superposition quantique permet d'évaluer plusieurs états à la fois.
+el canal cuántico | canal quantique | Ils transmettent des clés secrètes via un canal quantique sécurisé.
+la decoherencia cuántica | décohérence quantique | La décohérence quantique détruit l'information fragile du qubit.
+el simulador cuántico | simulateur quantique | Un simulateur quantique aide à comprendre des molécules complexes.
+la supremacía cuántica | suprématie quantique | Ils ont annoncé un jalon historique en atteignant la suprématie quantique.

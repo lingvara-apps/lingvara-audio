@@ -1,0 +1,111 @@
+# UNIT: 科技 | 软件、安全、人工智能、太空
+## 软件世界
+el código fuente | 源代码 | 程序员在电脑上分析源代码。
+la compilación | 编译 | 程序的编译没有任何错误就完成了。
+el algoritmo | 算法 | 这个算法非常快地计算出最短路径。
+la base de datos relacional | 关系型数据库 | 我们将关键信息保存在关系型数据库中。
+el lenguaje de programación | 编程语言 | Python 现在是一门非常流行的编程语言。
+la función recursiva | 递归函数 | 理解这个递归函数需要相当强的逻辑能力。
+el repositorio de código | 代码仓库 | 我们将最近的修改上传到代码仓库。
+la variable global | 全局变量 | 最好不要滥用全局变量。
+el entorno virtual | 虚拟环境 | 我们在安装库之前激活了虚拟环境。
+el depurador de errores | 调试器 | 调试器有助于发现隐藏的错误。
+## 网络安全
+la brecha de seguridad | 安全漏洞 | 他们在核心系统中检测到一个安全漏洞。
+el cortafuegos avanzado | 高级防火墙 | 高级防火墙会阻止外部的恶意请求。
+la encriptación de datos | 数据加密 | 数据加密保护了我们的在线隐私。
+el ataque cibernetic | 网络攻击 | 公司成功抵御了一次强烈的网络攻击。
+la contraseña robusta | 强密码 | 建议每个账户都使用强密码。
+el malware espía | 间谍恶意软件 | 一款间谍恶意软件感染了办公室里的多台电脑。
+la autenticación de dos pasos | 双重身份验证 | 为了更高的安全性，我们启用了双重身份验证。
+el acceso no autorizado | 未授权访问 | 系统因未授权访问发出了警报。
+la vulnerabilidad crítica | 严重漏洞 | 他们在周末之前修复了严重漏洞。
+el analito forense digital | 数字取证分析师 | 数字取证分析师检查了损坏的硬盘。
+## 人工智能与数据科学
+la red neuronal artificial | 人工神经网络 | 人工神经网络模拟了人脑。
+el aprendizaje profundo | 深度学习 | 深度学习革新了视觉识别。
+el modelo predictivo | 预测模型 | 这个预测模型预见了市场趋势。
+la inteligencia artificial generativa | 生成式人工智能 | 生成式人工智能可以创造非常自然的文本。
+el procesamiento del lenguaje natural | 自然语言处理 | 自然语言处理有助于翻译文本。
+la muestra estadística | 统计样本 | 他们为研究选择了一个庞大的统计样本。
+el sesgo algorítmico | 算法偏见 | 研究人员正在分析如何减少算法偏见。
+la minería de datos | 数据挖掘 | 数据挖掘从海量数据中提取出有用的模式。
+el entrenamiento del modelo | 模型训练 | 模型训练经历了几个紧张的小时。
+la inferencia rápida | 快速推理 | 他们的目标是在移动设备上优化快速推理。
+## 太空与航空
+el telescopio espacial | 太空望远镜 | 太空望远镜拍摄到了非常遥远的星系。
+la nave tripulada | 载人航天器 | 一艘新的载人航天器向轨道空间站发射升空。
+el cohete propulsor | 助推火箭 | 助推火箭在分离后落入海洋。
+la órbita terrestre baja | 近地轨道 | 许多卫星在近地轨道运行。
+el rover marciano | 火星车 | 火星车正在分析红色表面上的岩石。
+la estación espacial internacional | 国际空间站 | 来自多个国家的宇航员生活在国际空间站上。
+el agujero negro supermasivo | 超大质量黑洞 | 他们在超大质量黑洞附近检测到了引力波。
+la atmósfera galáctica | 星系大气 | 他们研究星系大气是为了寻找奇怪的信号。
+el satélite meteorológico | 气象卫星 | 一颗气象卫星正在监视热带风暴。
+la sonda interplanetaria | 行星际探测器 | 行星际探测器发回了关于木星的宝贵数据。
+## 自动化与机器人
+el brazo robótico industrial | 工业机器人手臂 | 工业机器人手臂精确地组装零件。
+la línea de producción automatizada | 自动化生产线 | 自动化生产线加速了大规模制造。
+el sensor de proximidad | 接近传感器 | 这个接近传感器防止机器人撞墙。
+la placa base integrada | 集成主板 | 他们设计了一款更小、更轻的集成主板。
+el circuito impreso flexible | 柔性印刷电路 | 柔性印刷电路允许现代设备弯曲。
+la celda solar fotovoltaica | 光伏太阳能电池 | 光伏太阳能电池将光转化为清洁能源。
+el actuador neumático | 气动执行器 | 气动执行器用压缩空气移动闸门。
+la interfaz hombre-máquina | 人机界面 | 他们改进了人机界面以方便使用。
+el sistema embebido | 嵌入式系统 | 每个智能家电都包含一个小型嵌入式系统。
+la calibración automática | 自动校准 | 自动校准始终保证精确的测量。
+## 云计算
+el servidor remoto | 远程服务器 | 我们将所有网页托管在一个快速的远程服务器上。
+la copia de seguridad en la nube | 云备份 | 我们在每天午夜进行一次云备份。
+el almacenamiento virtual | 虚拟存储 | 虚拟存储允许从任何地方访问文件。
+la infraestructura como servicio | 基础设施即服务 | 公司租用了基础设施即服务以实现快速扩展。
+el balanceador de carga | 负载均衡器 | 负载均衡器高效地分发网页流量。
+la plataforma escalable | 可扩展平台 | 他们为数百万用户开发了一个可扩展平台。
+el contenedor docker | Docker 容器 | 他们使用 Docker 容器来隔离网络应用。
+la latencia de red | 网络延迟 | 降低网络延迟可以改善视频通话体验。
+el protocolo seguro | 安全协议 | 他们配置了安全协议来传输银行数据。
+la nube híbrida | 混合云 | 他们通过结合本地和外部服务器选择了混合云。
+## 移动技术
+el sistema operativo móvil | 移动操作系统 | 这款智能手机使用非常流畅的移动操作系统。
+la aplicación nativa | 本地应用 | 为了更好的性能，他们更倾向于开发本地应用。
+la pantalla táctil OLED | OLED 触控屏幕 | OLED 触控屏幕提供生动的色彩和纯正的黑色。
+la conectividad 5G | 5G 连接 | 5G 连接允许在街上进行超高速下载。
+el sensor biométrico | 生物识别传感器 | 生物识别传感器可以即时识别指纹。
+la carga ultrarrápida | 超快充 | 超快充技术可以在几分钟内充满电池。
+el procesador multinúcleo | 多核处理器 | 多核处理器在运行繁重任务时不会卡顿。
+la memoria RAM LPDDR | LPDDR 内存 | 它集成了一款速度和效率极高的 LPDDR 内存。
+el módulo fotográfico | 相机模组 | 后置相机模组包含三个专业镜头。
+la actualización de firmware | 固件更新 | 他们发布了固件更新以修复一些小错误。
+## 物联网
+el dispositivo conectado | 已连接设备 | 每个已连接设备都向家庭网络发送数据。
+el termostato inteligente | 智能恒温器 | 我们编程了智能恒温器以节省日常能源。
+la bombilla domótica | 智能灯泡 | 我们用声音控制智能灯泡的颜色。
+el enchufe inalambrico | 无线插座 | 我们使用无线插座关闭远处的电器。
+la cerradura biométrica | 生物识别锁 | 生物识别锁用你的指纹打开正门。
+el asistente de voz | 语音助手 | 语音助手回答关于当前天气的问题。
+la persiana automatizada | 自动百叶窗 | 太阳出来时，自动百叶窗会自动降下。
+el sensor de humedad ambiental | 环境湿度传感器 | 这个环境湿度传感器会启动花园灌溉。
+el timbre con cámara | 带摄像头的门铃 | 带摄像头的门铃显示是谁在敲正门。
+la pasarela domótica | 智能家居网关 | 智能家居网关协同管理所有智能设备。
+## 生物技术与遗传学
+el secuenciador de ADN | DNA 测序仪 | 实验室购置了一台新一代 DNA 测序仪。
+la edición genética CRISPR | CRISPR 基因编辑 | CRISPR 基因编辑技术带来了新的医学希望。
+el anticuerpo monoclonal | 单克隆抗体 | 他们开发了一种针对该病毒的特异性单克隆抗体。
+la proteína recombinante | 重组蛋白 | 他们利用纯细胞培养物生产重组蛋白。
+el ensayo clínico avanzado | 高级临床试验 | 该药物成功通过了一项高级临床试验。
+la terapia génica | 基因疗法 | 基因疗法旨在纠正严重的遗传突变。
+el bioinformático experto | 生物信息学专家 | 生物信息学专家分析复杂的基因序列。
+la enzima modificada | 修饰酶 | 他们创造了一种能够快速降解塑料的修饰酶。
+el cultivo celular | 细胞培养 | 他们在严格的无菌条件下维持细胞培养。
+la molécula sintética | 合成分子 | 他们合成了一种合成分子来对抗耐药菌。
+## 量子计算
+el ordenador cuántico | 量子计算机 | 量子计算机使用复杂的量子比特来处理信息。
+el cúbit superconductor | 超导量子比特 | 超导量子比特需要极其极端的低温。
+el entrelazamiento cuántico | 量子纠缠 | 量子纠缠以神秘的方式连接粒子。
+la criptografía poscuántica | 后量子密码学 | 他们研究后量子密码学以保护未来的数据。
+el algoritmo de Shor | 肖尔算法 | 著名的肖尔算法能快速对大数进行因式分解。
+la superposición cuántica | 量子叠加 | 量子叠加允许同时评估多种状态。
+el canal cuántico | 量子信道 | 他们通过安全的量子信道传输秘密密钥。
+la decoherencia cuántica | 量子退相干 | 量子退相干破坏了脆弱的量子比特信息。
+el simulador cuántico | 量子模拟器 | 量子模拟器有助于理解复杂的分子。
+la supremacía cuántica | 量子优越性 | 他们宣布了达到量子优越性的历史性里程碑。

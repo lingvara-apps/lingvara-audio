@@ -1,0 +1,111 @@
+# UNIT: Саяхат | Ұшақ, пойыз, қонақүй, экскурсия, құжаттар
+## Ұшу және әуежай
+facturar | багажды тіркеу | Debemos facturar las maletas ahora.
+la tarjeta de embarque | отырғызу талоны | Muestre su tarjeta de embarque en la puerta.
+el control de seguridad | қауіпсіздікті тексеру | El control de seguridad está muy concurrido hoy.
+la aduana | кеден | Pasamos por la aduana sin problemas.
+el mostrador | анықтама үстелі | Pregunte en el mostrador de información.
+la compañía aérea | әуе компаниясы | Nuestra compañía aérea cambió la hora del vuelo.
+la puerta de embarque | отырғызу қақпасы | El vuelo sale desde la puerta de embarque tres.
+el asiento de ventanilla | терезе жанындағы орын | Prefiero un asiento de ventanilla para ver el paisaje.
+perder el vuelo | рейстен қалып қою | No quiero perder el vuelo de la mañana.
+la escala | ұшу арасындағы аялдама | Tenemos una escala larga en Madrid.
+## Пойыз және автобус саяхаты
+el andén de pasajeros | платформа | El tren rápido espera en el andén de pasajeros cinco.
+el revisor | кондуктор | El revisor pide los billetes a los pasajeros.
+la estación de autobuses | автобус вокзалы | La estación de autobuses queda lejos del centro.
+el vagon | вагон | Nuestro asiento está en el tercer vagon.
+perder el tren | пойыздан қалып қою | Corre o vamos a perder el tren.
+el carril | жолақ | El autobús circula por su carril exclusivo.
+el trayecto | сапар | El trayecto en tren dura dos horas.
+el horario de salidas | жөнелту кестесі | Consulte el horario de salidas en la pantalla digital.
+el billete sencillo | бір жаққа жүру билеті | Compraré un billete sencillo para Valencia.
+la ventanilla de billetes | касса | Hay una cola larga en la ventanilla de billetes.
+## Қонақүй және орналасу
+la llave magnética | магнитті кілт | Aquí tiene la llave magnética de su habitación.
+la recepción | қабылдау бөлімі | Deje las llaves en la recepción antes de salir.
+la planta baja | бірінші қабат | Nuestra habitación está en la planta baja.
+el servicio de habitaciones | бөлме қызметі | Pedimos cena mediante el servicio de habitaciones.
+el albergue | хостел | Los jóvenes prefieren alojarse en un albergue barato.
+la estancia | тұру | Disfrutamos mucho nuestra estancia en el hotel.
+la propina al botones | портьеге берілетін шайпұл | Di una pequeña propina al botones por las maletas.
+el balcón con vistas | көрікті балкон | Cenamos en el balcón con vistas al mar.
+el cambio de divisas | валюта айырбастау | El hotel ofrece servicio de cambio de divisas.
+la salida del hotel | қонақүйден шығу уақыты | La hora límite para la salida del hotel es las doce.
+## Экскурсия және ашулар
+la excursión guiada | гидпен экскурсия | Contratamos una excursión guiada por la ciudad vieja.
+el folleto turístico | туристік буклет | Leí toda la información en el folleto turístico.
+el monumento histórico | тарихи ескерткіш | Visitamos un importante monumento histórico ayer.
+el plano de la ciudad | қала картасы | Un plano de la ciudad ayuda mucho a los viajeros.
+la catedral principal | бас собор | La catedral principal impresiona por su tamaño.
+el barrio antiguo | ескі квартал | Caminamos por las callejuelas del barrio antiguo.
+el mirador panorámico | панорамалық байқау алаңы | Desde el mirador panorámico se ve todo el valle.
+la oficina de información | ақпарат бюросы | Preguntamos por los museos en la oficina de información.
+la zona peatonal | жаяу жүргіншілер аймағы | Esta bonita calle pertenece a la zona peatonal.
+el recuerdo artesanal | қолөнер кәдесыйы | Compré un bonito recuerdo artesanal para mi madre.
+## Құжаттар мен ақша
+el documento de identidad | жеке куәлік | Lleve siempre su documento de identidad encima.
+el visado de entrada | кіру визасы | Necesitamos tramitar el visado de entrada con tiempo.
+la tarjeta de crédito | несие картасы | ¿Puedo pagar esta cuenta con tarjeta de crédito?
+el seguro médico | медициналық сақтандыру | Es obligatorio viajar con un seguro médico internacional.
+el cajero automático | банкомат | Necesito buscar un cajero automático cercano.
+la moneda local | жергілікті валюта | Es útil tener algo de moneda local en efectivo.
+el impreso oficial | ресми бланк | Rellenamos un impreso oficial en la frontera.
+la fotocopia compulsada | расталған көшірме | Presenté una fotocopia compulsada del pasaporte.
+el carné de conducir | жүргізуші куәлігі | Alquilamos un coche mostrando el carné de conducir.
+la factura detallada | толық есеп-шот | Pedí la factura detallada de todos los gastos.
+## Саяхат мәселелері
+el retraso del vuelo | ұшудың кешігуі | El retraso del vuelo nos obligó a esperar horas.
+la huelga de transportes | көлік жұмысшыларының ереуілі | La huelga de transportes complicó nuestros planes.
+la pérdida de equipaje | багажды жоғалту | Reclamé la pérdida de equipaje en el mostrador especial.
+el billete caducado | мерзімі өткен билет | No puedes viajar con un billete caducado.
+la cancelación imprevista | күтпеген жерден тоқтатылу | Hubo una cancelación imprevista debido al temporal.
+la avería técnica | техникалық ақаулық | Una avería técnica detuvo el tren en la vía.
+la multa por exceso | жылдамдықты асырғаны үшін айыппұл | Pagamos una multa por exceso de velocidad al conducir.
+el despiste con la hora | уақытты шатастыру | Un despiste con la hora casi nos hace perder el barco.
+el robo de cartera | әмиян ұрлау | Denuncié el robo de cartera en la comisaría local.
+el mal tiempo | қолайсыз ауа райы | El mal tiempo suspendió todas las salidas marítimas.
+## Көлік жалдау
+el coche de alquiler | жалға алынған көлік | Recogimos el coche de alquiler en el aeropuerto.
+el depósito de gasolina | бензин багы | Llenamos el depósito de gasolina antes de devolverlo.
+la tarifa diaria | тәуліктік тариф | La tarifa diaria incluye el seguro básico completo.
+el GPS integrado | кіріктірілген GPS | El coche nuevo cuenta con un GPS integrado muy útil.
+la sillita infantil | балалар орындығы | Pedimos una sillita infantil para nuestro hijo pequeño.
+el kilometraje ilimitado | шектеусіз километр | Elegimos la opción de kilometraje ilimitado.
+la franquicia del seguro | сақтандыру франшизасы | Leímos las condiciones sobre la franquicia del seguro.
+el carné internacional | халықаралық куәлік | Presenté mi carné internacional para conducir fuera.
+la devolución tardía | кешіктіріп қайтару | Cobran un recargo por la devolución tardía del vehículo.
+el parte de accidente | жол-көлік оқиғасы хаттамасы | Firmamos el parte de accidente tras el pequeño golpe.
+## Бағыт және көлік түрлері
+el cruce de caminos | жол айрығы | Giremos a la derecha en el siguiente cruce de caminos.
+la rotonda principal | басты айналма жол | Tome la segunda salida en la rotonda principal.
+el puente colgante | аспалы көпір | Cruzamos el río por un impresionante puente colgante.
+el túnel oscuro | қараңғы туннель | El tren atravesó un túnel oscuro durante varios minutos.
+la señal de tráfico | жол белгісі | Conviene prestar atención a cada señal de tráfico.
+el carril bici | велосипед жолағы | Hay un carril bici seguro junto a la gran avenida.
+el peaje de la autopista | ақылы жол төлемі | Pagamos el peaje de la autopista con tarjeta.
+el desvío provisional | уақытша айналма жол | Las obras obligan a tomar un desvío provisional.
+la parada facultativa | талап бойынша аялдама | Este autobús solo para en la parada facultativa si avisas.
+el semáforo en rojo | қызыл шам | Nos detuvimos al ver el semáforo en rojo.
+## Табиғат аясындағы саяхат және лагерь
+la zona de acampada | лагерь аймағы | Montamos nuestra zona de acampada cerca del río.
+el saco de dormir | ұйықтау қабы | Por la noche refresca, usa un buen saco de dormir.
+la mochila de montaña | туристік рюкзак | Llevo agua y comida en mi mochila de montaña.
+la cantimplora | тамақ құятын құты | Llené la cantimplora con agua fresca de la fuente.
+la linterna frontal | бас шамы | Necesitamos una linterna frontal para caminar de noche.
+la brújula magnética | магниттік компас | Comprobamos la ruta correcta con la brújula magnética.
+el bastón de trekking | треккинг таяғы | El bastón de trekking ayuda en las subidas pronunciadas.
+la navaja multiusos | әмбебап пышақ | Una navaja multiusos siempre resulta útil en el campo.
+el repelente de insectos | жәндіктерден қорғайтын құрал | Aplícate repelente de insectos antes de entrar al bosque.
+la estufa portátil | портативті плита | Cocinamos algo caliente con la estufa portátil.
+## Саяхат естеліктері мен оқиғалар
+el diario de viaje | саяхат күнделігі | Escribo mis impresiones diarias en el diario de viaje.
+la postal postal | ашықхат | Compré una bonita postal para enviar a mis abuelos.
+la cámara réflex | кәсіби фотоаппарат | Saqué fotos preciosas con mi cámara réflex.
+el mapa desplegable | бүктемелі карта | Abrimos el mapa desplegable sobre la mesa del café.
+el vídeo casero | үй видеосы | Grabamos un divertido vídeo casero durante el viaje.
+la anécdota divertida | қызықты оқиға | Contó una anécdota divertida sobre el tren perdido.
+el sello en el pasaporte | төлқұжаттағы мөр | Colecciono cada sello en el pasaporte como un trofeo.
+la sonrisa amable | жылы жымиыс | Una sonrisa amable abre muchas puertas al viajar.
+el momento inolvidable | ұмытылмас сәт | Ver la puesta de sol fue un momento inolvidable.
+la costumbre local | жергілікті әдет-ғұрып | Aprendí mucho sobre la costumbre local del pueblo.
