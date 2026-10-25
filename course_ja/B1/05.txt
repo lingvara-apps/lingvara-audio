@@ -1,0 +1,111 @@
+# UNIT: Sağlık ve psikoloji | Hastalık, tedavi, hastane, ruh sağlığı, sağlıklı yaşam
+## Hastalıklar
+感染 (kansen) | enfeksiyon, bulaşma | isim | 手をよく洗って、感染を防ぎましょう。 | Ellerimizi iyice yıkayarak bulaşmayı önleyelim.
+発作 (hossa) | kriz, nöbet | isim | 夜中に喘息の発作が起きて、病院に行った。 | Gece yarısı astım krizi geçirip hastaneye gittim.
+慢性 (mansei) | kronik | isim | 父は慢性の腰の病気に悩んでいる。 | Babam kronik bir bel rahatsızlığından muzdarip.
+急性 (kyūsei) | akut | isim | 急性の胃腸炎で、三日間仕事を休んだ。 | Akut mide-bağırsak iltihabı yüzünden üç gün işe gitmedim.
+高血圧 (kōketsuatsu) | yüksek tansiyon | isim | 高血圧の人は、塩分を控えたほうがいい。 | Tansiyonu yüksek olanlar tuzu azaltmalı.
+糖尿病 (tōnyōbyō) | şeker hastalığı | isim | 祖父は糖尿病なので、甘い物を食べられない。 | Dedem şeker hastası olduğu için tatlı yiyemiyor.
+貧血 (hinketsu) | kansızlık | isim | 朝礼の途中で、貧血で倒れてしまった。 | Sabah toplantısı sırasında kansızlıktan bayıldım.
+肺炎 (haien) | zatürre | isim | 風邪をこじらせて、肺炎になった。 | Soğuk algınlığım ağırlaşınca zatürreye dönüştü.
+腰痛 (yōtsū) | bel ağrısı | isim | 一日中座っているので、腰痛がひどい。 | Bütün gün oturduğum için bel ağrım çok kötü.
+肩こり (katakori) | omuz tutulması | isim | パソコン作業が多くて、肩こりがひどい。 | Bilgisayar başında çok çalıştığım için omuzlarım tutuluyor.
+## Tedavi
+診断 (shindan) | teşhis | isim | 医者の診断によると、ただの疲れだそうだ。 | Doktorun teşhisine göre sadece yorgunlukmuş.
+処方 (shohō) | reçete yazma | isim | 医者に処方された薬を毎日飲んでいる。 | Doktorun yazdığı ilacı her gün içiyorum.
+点滴 (tenteki) | serum | isim | 脱水症状で、病院で点滴を受けた。 | Susuz kaldığım için hastanede serum aldım.
+手当て (teate) | ilk yardım, pansuman; ödenek | isim | 転んだ子どもの傷の手当てをした。 | Düşen çocuğun yarasına pansuman yaptım.
+通院 (tsūin) | hastaneye düzenli gidiş | isim | 手術の後も、週に一回通院している。 | Ameliyattan sonra da haftada bir hastaneye gidiyorum.
+予防 (yobō) | önleme, korunma | isim | 風邪の予防には、うがいと手洗いが効果的だ。 | Soğuk algınlığından korunmak için gargara ve el yıkama etkilidir.
+予防接種 (yobō sesshu) | aşı | isim | 冬の前にインフルエンザの予防接種を受けた。 | Kıştan önce grip aşısı oldum.
+麻酔 (masui) | anestezi, narkoz | isim | 麻酔が効いているので、痛みは感じません。 | Anestezi etki ettiği için acı hissetmeyeceksiniz.
+リハビリ (rihabiri) | fizik tedavi, rehabilitasyon | isim | 足の骨折の後、三か月リハビリを続けた。 | Bacağım kırıldıktan sonra üç ay fizik tedaviye devam ettim.
+再発 (saihatsu) | nüksetme | isim | 再発しないように、薬は最後まで飲んでください。 | Hastalığın tekrarlamaması için ilacı sonuna kadar için.
+## Hastanede II
+医療 (iryō) | sağlık hizmeti, tıbbi bakım | isim | 日本の医療は質が高いと言われている。 | Japonya'daki sağlık hizmetlerinin kaliteli olduğu söylenir.
+病棟 (byōtō) | hastane koğuşu | isim | 母は三階の内科の病棟に入院している。 | Annem üçüncü kattaki dahiliye servisinde yatıyor.
+診療所 (shinryōjo) | klinik, sağlık ocağı | isim | 近所の小さな診療所で薬をもらった。 | Mahalledeki küçük klinikten ilaç aldım.
+救急 (kyūkyū) | acil | isim | 夜中に子どもが熱を出して、救急の窓口に行った。 | Gece yarısı çocuğun ateşi çıkınca acil servise gittik.
+医師 (ishi) | hekim, doktor | isim | 医師の指示に従って、一週間安静にした。 | Hekimin talimatına uyarak bir hafta istirahat ettim.
+看病 (kanbyō) | hasta bakımı | isim | 熱を出した夫を一晩中看病した。 | Ateşlenen eşime bütün gece baktım.
+面会 (menkai) | ziyaret, görüşme | isim | 面会時間は午後二時から七時までです。 | Ziyaret saatleri öğleden sonra ikiden yediye kadardır.
+主治医 (shujii) | sorumlu doktor | isim | 退院の日は主治医と相談して決めます。 | Taburcu günü sorumlu doktorla görüşülerek belirlenir.
+紹介状 (shōkaijō) | sevk mektubu | isim | 大きな病院に行くときは、紹介状があったほうがいい。 | Büyük hastaneye giderken sevk mektubu olması iyi olur.
+受診 (jushin) | muayene olma | isim | 症状が続く場合は、早めに受診してください。 | Belirtiler devam ederse erkenden muayene olun.
+## Ruh sağlığı
+精神 (seishin) | ruh, zihin | isim | 仕事のストレスで、精神的に疲れている。 | İş stresi yüzünden ruhen yorgunum.
+不眠 (fumin) | uykusuzluk | isim | 最近、不眠が続いて、昼間も眠い。 | Son zamanlarda uykusuzluk sürüyor, gündüz de uykum var.
+悩み (nayami) | dert, sıkıntı | isim | 何か悩みがあったら、いつでも話してね。 | Bir derdin olursa istediğin zaman anlat.
+孤独 (kodoku) | yalnızlık | isim | 一人暮らしを始めて、孤独を感じることが増えた。 | Yalnız yaşamaya başlayınca yalnızlık hissettiğim anlar arttı.
+疲労 (hirō) | yorgunluk, bitkinlik | isim | 疲労がたまって、何もする気になれない。 | Yorgunluk birikti, hiçbir şey yapasım yok.
+憂うつ (yūutsu) | kasvetli, karamsar | sıfat | 雨の月曜日は、なんとなく憂うつだ。 | Yağmurlu pazartesiler nedense iç karartıcıdır.
+カウンセリング (kaunseringu) | psikolojik danışmanlık | isim | 大学では無料でカウンセリングを受けられる。 | Üniversitede ücretsiz psikolojik danışmanlık alınabiliyor.
+心身 (shinshin) | beden ve ruh | isim | 温泉に入ると、心身ともにリラックスできる。 | Kaplıcaya girince hem beden hem ruh rahatlıyor.
+気分転換 (kibuntenkan) | kafa dağıtma | isim | 気分転換に、少し外を散歩してきます。 | Kafamı dağıtmak için biraz dışarıda yürüyüp geleceğim.
+癒やす (iyasu) | iyileştirmek, dinlendirmek | fiil | 猫と遊ぶと、心が癒やされる。 | Kediyle oynayınca ruhum dinleniyor.
+## Stres ve yük
+プレッシャー (puresshā) | baskı, stres | isim | 大事な試合の前で、プレッシャーを感じている。 | Önemli maçtan önce baskı hissediyorum.
+負担 (futan) | yük, külfet | isim | 親の介護が大きな負担になっている。 | Anne babanın bakımı büyük bir yük haline geldi.
+限界 (genkai) | sınır, limit | isim | 毎日の残業で、体力の限界を感じた。 | Her günkü fazla mesaiyle fiziksel sınırıma geldiğimi hissettim.
+無気力 (mukiryoku) | isteksizlik, bezginlik | isim | 長い休みの後、なんだか無気力になってしまった。 | Uzun tatilden sonra nedense bezginleştim.
+過労 (karō) | aşırı çalışma yorgunluğu | isim | 彼は過労で倒れて、一か月入院した。 | Aşırı çalışmaktan yığılıp bir ay hastanede yattı.
+燃え尽きる (moetsukiru) | tükenmek | fiil | 大きなプロジェクトが終わって、燃え尽きてしまった。 | Büyük proje bitince tükendim.
+追い詰める (oitsumeru) | köşeye sıkıştırmak | fiil | 自分を追い詰めすぎないで、たまには休んでね。 | Kendini fazla köşeye sıkıştırma, arada bir dinlen.
+抱え込む (kakaekomu) | içine atmak, tek başına yüklenmek | fiil | 問題を一人で抱え込まないで、誰かに相談しよう。 | Sorunları tek başına içine atma, birine danış.
+余裕 (yoyū) | rahatlık, fazladan zaman/pay | isim | 最近忙しくて、心に余裕がない。 | Son zamanlarda çok meşgulüm, kafam hiç rahat değil.
+解消 (kaishō) | giderme, ortadan kaldırma | isim | 私のストレス解消法は、カラオケで歌うことだ。 | Stres atma yöntemim karaokede şarkı söylemek.
+## Vücut işlevleri
+呼吸 (kokyū) | nefes alma, solunum | isim | 緊張したときは、ゆっくり深い呼吸をしてみて。 | Gerildiğinde yavaş ve derin nefes almayı dene.
+脈 (myaku) | nabız | isim | 看護師が私の脈を測った。 | Hemşire nabzımı ölçtü.
+消化 (shōka) | sindirim | isim | おかゆは消化がいいので、病気のときに食べる。 | Pirinç lapası kolay sindirildiği için hastayken yenir.
+免疫 (men'eki) | bağışıklık | isim | よく寝ると、免疫が強くなるそうだ。 | İyi uyumak bağışıklığı güçlendiriyormuş.
+体力 (tairyoku) | fiziksel güç, dayanıklılık | isim | 年をとって、体力が落ちてきた。 | Yaşlandıkça fiziksel gücüm azalmaya başladı.
+代謝 (taisha) | metabolizma | isim | 年齢とともに代謝が悪くなって、太りやすくなる。 | Yaş ilerledikçe metabolizma yavaşlar ve kilo almak kolaylaşır.
+神経 (shinkei) | sinir | isim | 試験の前は神経が高ぶって眠れない。 | Sınavdan önce sinirlerim gerilip uyuyamıyorum.
+血液 (ketsueki) | kan | isim | 健康診断で血液の検査をした。 | Sağlık kontrolünde kan tahlili yaptırdım.
+内臓 (naizō) | iç organlar | isim | お酒の飲みすぎは内臓に負担をかける。 | Aşırı alkol iç organlara yük bindirir.
+視力 (shiryoku) | görme gücü | isim | スマホの見すぎで視力が下がった。 | Telefona fazla bakmaktan gözlerim zayıfladı.
+## Sağlıklı alışkanlıklar
+生活習慣 (seikatsu shūkan) | yaşam alışkanlıkları | isim | 病気を防ぐには、生活習慣を見直すことが大切だ。 | Hastalıkları önlemek için yaşam alışkanlıklarını gözden geçirmek önemlidir.
+運動不足 (undō busoku) | hareketsizlik | isim | 在宅勤務になってから、運動不足が気になる。 | Evden çalışmaya başlayalı beri hareketsizlik beni düşündürüyor.
+筋トレ (kintore) | kas antrenmanı | isim | 毎晩寝る前に、十五分筋トレをしている。 | Her gece yatmadan önce on beş dakika kas çalışması yapıyorum.
+姿勢 (shisei) | duruş; tutum | isim | 姿勢が悪いと、肩や腰が痛くなる。 | Duruşun bozuksa omuzların ve belin ağrır.
+飲酒 (inshu) | alkol tüketimi | isim | 飲酒運転は絶対にしてはいけない。 | Alkollü araç kullanmak kesinlikle yasaktır.
+喫煙 (kitsuen) | sigara içme | isim | この建物の中での喫煙は禁止されています。 | Bu binanın içinde sigara içmek yasaktır.
+減量 (genryō) | kilo verme, azaltma | isim | 医者に言われて、五キロの減量に挑戦している。 | Doktor söyleyince beş kilo vermeye çalışıyorum.
+鍛える (kitaeru) | güçlendirmek, çalıştırmak | fiil | 毎朝走って、体を鍛えている。 | Her sabah koşarak vücudumu güçlendiriyorum.
+心がける (kokorogakeru) | özen göstermek, gayret etmek | fiil | 野菜を多く食べるように心がけている。 | Bol sebze yemeye özen gösteriyorum.
+早寝早起き (hayane hayaoki) | erken yatıp erken kalkmak | isim | 早寝早起きを続けたら、体の調子がよくなった。 | Erken yatıp erken kalkmayı sürdürünce kendimi daha iyi hissettim.
+## Belirtiler II
+震える (furueru) | titremek | fiil | 寒さで手が震えて、字がうまく書けない。 | Soğuktan ellerim titriyor, yazı yazamıyorum.
+しびれる (shibireru) | uyuşmak | fiil | 正座をしていたら、足がしびれてしまった。 | Dizüstü oturunca bacaklarım uyuştu.
+むくむ (mukumu) | şişmek (ödem) | fiil | 長いフライトの後は、足がむくみやすい。 | Uzun uçuşlardan sonra bacaklar kolay şişer.
+息切れ (ikigire) | nefes nefese kalma | isim | 階段を上っただけで息切れがする。 | Sadece merdiven çıkınca bile nefes nefese kalıyorum.
+発熱 (hatsunetsu) | ateşlenme | isim | 発熱がある場合は、出勤しないでください。 | Ateşiniz varsa işe gelmeyin lütfen.
+痛み (itami) | ağrı, acı | isim | 薬を飲んだら、痛みが少し治まった。 | İlacı içince ağrım biraz hafifledi.
+違和感 (iwakan) | tuhaflık hissi, rahatsızlık | isim | 朝から喉に違和感がある。 | Sabahtan beri boğazımda bir tuhaflık var.
+悪化 (akka) | kötüleşme | isim | 無理をしたせいで、症状が悪化した。 | Kendimi zorladığım için belirtilerim kötüleşti.
+ふらふら (furafura) | sendeleyerek, başı dönerek | zarf | 熱があって、立つとふらふらする。 | Ateşim var, ayağa kalkınca başım dönüyor.
+胸やけ (muneyake) | mide ekşimesi | isim | 揚げ物を食べすぎて、胸やけがする。 | Kızartmayı fazla kaçırınca midem ekşidi.
+## Sağlık sistemi ve toplum
+健康保険 (kenkō hoken) | sağlık sigortası | isim | 日本では、ほとんどの人が健康保険に入っている。 | Japonya'da insanların neredeyse tamamı sağlık sigortalıdır.
+医療費 (iryōhi) | sağlık harcaması | isim | 子どもの医療費は、市が負担してくれる。 | Çocukların sağlık harcamalarını belediye karşılıyor.
+薬剤師 (yakuzaishi) | eczacı | isim | 薬の飲み方は、薬剤師に聞いてください。 | İlacın nasıl kullanılacağını eczacıya sorun.
+介護 (kaigo) | bakım (yaşlı, engelli) | isim | 祖母の介護のために、母は仕事を辞めた。 | Annem büyükannemin bakımı için işini bıraktı.
+高齢者 (kōreisha) | yaşlı, ileri yaştaki kişi | isim | 日本では高齢者の数が年々増えている。 | Japonya'da yaşlıların sayısı yıldan yıla artıyor.
+障害 (shōgai) | engel; engellilik | isim | 障害のある人も暮らしやすい町を作りたい。 | Engelli insanların da rahat yaşayabileceği bir şehir kurmak istiyoruz.
+寿命 (jumyō) | ömür | isim | 日本人の平均寿命は世界でもトップクラスだ。 | Japonların ortalama ömrü dünyanın en yükseklerindendir.
+検診 (kenshin) | tarama muayenesi | isim | 年に一回、がんの検診を受けている。 | Yılda bir kez kanser taramasına giriyorum.
+献血 (kenketsu) | kan bağışı | isim | 駅前で献血に協力した。 | İstasyon önünde kan bağışına katıldım.
+臓器 (zōki) | organ | isim | 臓器を提供するかどうか、家族と話し合った。 | Organ bağışı yapıp yapmayacağımı ailemle konuştum.
+## Psikolojik kavramlar
+心理 (shinri) | psikoloji, ruh hâli | isim | 買い物をするときの客の心理を研究している。 | Alışveriş yaparken müşterilerin psikolojisini araştırıyorum.
+無意識 (muishiki) | bilinçsiz, farkında olmadan | isim | 緊張すると、無意識に髪を触ってしまう。 | Gerildiğimde farkında olmadan saçıma dokunuyorum.
+自尊心 (jisonshin) | özsaygı | isim | 人前で叱られて、自尊心が傷ついた。 | Herkesin önünde azarlanınca özsaygım incindi.
+劣等感 (rettōkan) | aşağılık duygusu | isim | 優秀な兄に、ずっと劣等感を持っていた。 | Başarılı ağabeyime karşı hep bir aşağılık duygusu taşıdım.
+意欲 (iyoku) | istek, şevk | isim | 新しい仕事に意欲を持って取り組んでいる。 | Yeni işime büyük bir şevkle sarıldım.
+本能 (honnō) | içgüdü | isim | 危険を感じると、動物は本能的に逃げる。 | Hayvanlar tehlike sezince içgüdüsel olarak kaçar.
+感覚 (kankaku) | his, duyu | isim | 寒くて、指の感覚がなくなった。 | Soğuktan parmaklarımı hissetmez oldum.
+記憶 (kioku) | hafıza, anı | isim | 子どものころの記憶は、あまり残っていない。 | Çocukluğuma dair pek bir anı kalmadı.
+欲求 (yokkyū) | arzu, ihtiyaç | isim | 疲れていると、甘い物への欲求が強くなる。 | Yorgunken tatlıya olan istek artar.
+思い込み (omoikomi) | önyargı, saplantılı inanç | isim | 「私には無理だ」というのは、ただの思い込みかもしれない。 | "Ben yapamam" düşüncesi belki sadece bir önyargıdır.
