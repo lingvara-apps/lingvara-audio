@@ -5,7 +5,7 @@ fondare | kurmak, tesis etmek | fiil | L'azienda è stata fondata dal nonno nel 
 il fondatore | kurucu | isim (e) | Il fondatore della cooperativa lavora ancora ogni giorno nei campi. | Kooperatifin kurucusu hâlâ her gün tarlalarda çalışıyor.
 la startup | yeni girişim şirketi | isim (d) | La sua startup sviluppa app per le persone anziane. | Girişimi yaşlı insanlar için uygulamalar geliştiriyor.
 il business plan | iş planı | isim (e) | Senza un business plan la banca non ti darà il prestito. | İş planı olmadan banka sana kredi vermez.
-la partita IVA | vergi numarası (serbest çalışan) | isim (d) | Per lavorare come freelance devo aprire la partita IVA. | Serbest çalışmak için vergi numarası açtırmam gerekiyor.
+il lavoratore autonomo | serbest çalışan | isim (e) | Come lavoratore autonomo devo pagare da solo i contributi. | Serbest çalışan olarak primlerimi kendim ödemek zorundayım.
 mettersi in proprio | kendi işini kurmak | ifade | Dopo dieci anni da dipendente ha deciso di mettersi in proprio. | On yıl maaşlı çalıştıktan sonra kendi işini kurmaya karar verdi.
 l'avviamento (e) | (iş yerinin) devir değeri; başlatma | isim (e) | Hanno venduto il bar compreso l'avviamento e la clientela. | Barı devir değeri ve müşterileriyle birlikte sattılar.
 l'incubatore (e) | kuluçka merkezi (girişim) | isim (e) | L'università ha un incubatore che aiuta i giovani imprenditori. | Üniversitenin genç girişimcilere yardım eden bir kuluçka merkezi var.
@@ -44,13 +44,13 @@ raggiungere (raggiunto) | ulaşmak | fiil · düzensiz | Quest'anno abbiamo ragg
 la tabella di marcia | yol haritası, zaman çizelgesi | isim (d) | Siamo in ritardo sulla tabella di marcia di due settimane. | Zaman çizelgesinin iki hafta gerisindeyiz.
 la resa | verim; teslim olma | isim (d) | La resa delle vigne quest'anno è stata ottima. | Bu yıl bağların verimi mükemmeldi.
 ## Profesyonel yazışma
-in allegato | ekte | ifade | In allegato le invio il preventivo richiesto. | Ekte istediğiniz fiyat teklifini gönderiyorum.
-cordiali saluti | saygılarımla | ifade | Resto in attesa di una sua risposta. Cordiali saluti, Anna Rossi. | Yanıtınızı bekliyorum. Saygılarımla, Anna Rossi.
-resto a disposizione | her türlü soru için hazırım | ifade | Per qualsiasi chiarimento resto a sua completa disposizione. | Her türlü açıklama için tamamen emrinizdeyim.
+in copia | bilgi (cc) olarak | ifade | Metti in copia anche il direttore quando scrivi al cliente. | Müşteriye yazarken müdürü de bilgi olarak ekle.
+un caro saluto | sevgiyle, selamlar (yarı resmî) | ifade | Grazie ancora per l'aiuto. Un caro saluto, Marco. | Yardımın için tekrar teşekkürler. Selamlar, Marco.
+al più presto | en kısa zamanda | ifade | Le risponderemo al più presto, entro due giorni lavorativi. | Size en kısa zamanda, iki iş günü içinde yanıt vereceğiz.
 in merito a | … hakkında, … ile ilgili | edat | Le scrivo in merito all'annuncio di lavoro pubblicato ieri. | Dün yayımlanan iş ilanıyla ilgili size yazıyorum.
 cortesemente | rica ederek, nazikçe | zarf | Le chiedo cortesemente di confermare la sua presenza. | Katılımınızı teyit etmenizi rica ediyorum.
-sollecitare | (bir şeyi) hatırlatıp istemek, sıkıştırmak | fiil | Ho dovuto sollecitare il pagamento della fattura tre volte. | Faturanın ödenmesini üç kez hatırlatmak zorunda kaldım.
-il sollecito | hatırlatma (ödeme, yanıt) | isim (e) | Abbiamo ricevuto un sollecito per la bolletta non pagata. | Ödenmemiş fatura için bir hatırlatma aldık.
+fare presente | dikkat çekmek, belirtmek | ifade | Vorrei farle presente che la consegna è in ritardo di una settimana. | Teslimatın bir hafta geciktiğini belirtmek isterim.
+il recapito | iletişim bilgisi, adres | isim (e) | Mi lascia un recapito telefonico per essere richiamata? | Geri aranmak için bir telefon numarası bırakır mısınız?
 confermare | onaylamak, teyit etmek | fiil | Mi può confermare l'orario dell'appuntamento di domani? | Yarınki randevunun saatini teyit edebilir misiniz?
 la conferma | onay, teyit | isim (d) | Riceverà una conferma della prenotazione via email. | Rezervasyon onayını e-postayla alacaksınız.
 l'oggetto (e) | konu (e-posta); nesne | isim (e) | Nell'oggetto della mail scrivi il numero della pratica. | E-postanın konusuna dosya numarasını yaz.
