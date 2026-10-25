@@ -2,13 +2,13 @@
 ## Yapay zekâ
 機械学習 (kikai gakushū) | makine öğrenmesi | isim | 機械学習を使えば、大量のデータから規則性を見つけ出せる。 | Makine öğrenmesiyle büyük verilerden düzenlilikler bulunabilir.
 深層学習 (shinsō gakushū) | derin öğrenme | isim | 深層学習の発展によって、音声認識の精度が飛躍的に向上した。 | Derin öğrenmenin gelişmesiyle ses tanımanın doğruluğu büyük bir sıçrama yaptı.
-生成AI (seisei ēai) | üretken yapay zekâ | isim | 生成AIで作られた画像の著作権をどう扱うかが議論されている。 | Üretken yapay zekâyla yapılan görsellerin telif hakkının nasıl ele alınacağı tartışılıyor.
+対話型人工知能 (taiwagata jinkō chinō) | sohbet tabanlı yapay zekâ | isim | 対話型人工知能が作った文章の著作権をどう扱うかが議論されている。 | Sohbet tabanlı yapay zekânın ürettiği metinlerin telif hakkının nasıl ele alınacağı tartışılıyor.
 大規模言語モデル (daikibo gengo moderu) | büyük dil modeli | isim | 大規模言語モデルは膨大な文章を学習して文を生成する。 | Büyük dil modelleri devasa metinlerden öğrenip cümle üretir.
-学習データ (gakushū dēta) | eğitim verisi | isim | 学習データに偏りがあると、AIの判断にも偏りが生じる。 | Eğitim verisi dengesizse yapay zekânın kararları da yanlı olur.
+学習データ (gakushū dēta) | eğitim verisi | isim | 学習データに偏りがあると、人工知能の判断にも偏りが生じる。 | Eğitim verisi dengesizse yapay zekânın kararları da yanlı olur.
 汎用人工知能 (han'yō jinkō chinō) | genel yapay zekâ | isim | 汎用人工知能がいつ実現するかについて、専門家の予測は分かれる。 | Genel yapay zekânın ne zaman gerçekleşeceği konusunda uzmanların tahminleri farklı.
 画像認識 (gazō ninshiki) | görüntü tanıma | isim | 画像認識の技術は、医療診断の分野でも活用されている。 | Görüntü tanıma teknolojisi tıbbi teşhiste de kullanılıyor.
 自然言語処理 (shizen gengo shori) | doğal dil işleme | isim | 自然言語処理の進歩で、機械翻訳がかなり自然になった。 | Doğal dil işlemedeki ilerleme sayesinde makine çevirisi epey doğallaştı.
-説明可能性 (setsumei kanōsei) | açıklanabilirlik | isim | 医療に使うAIには、判断の根拠を示す説明可能性が求められる。 | Tıpta kullanılan yapay zekânın kararlarının gerekçesini gösterebilmesi beklenir.
+説明可能性 (setsumei kanōsei) | açıklanabilirlik | isim | 医療に使う人工知能には、判断の根拠を示す説明可能性が求められる。 | Tıpta kullanılan yapay zekânın kararlarının gerekçesini gösterebilmesi beklenir.
 特異点 (tokuiten) | tekillik (teknolojik) | isim | 機械の知能が人間を超える技術的特異点は、本当に訪れるのだろうか。 | Makine zekâsının insanı aştığı teknolojik tekillik gerçekten gelecek mi?
 ## Biyoteknoloji
 遺伝子組み換え (idenshi kumikae) | genetik değişiklik (GDO) | isim | 遺伝子組み換え食品には表示義務が設けられている。 | Genetiği değiştirilmiş gıdalar için etiketleme zorunluluğu var.
@@ -19,7 +19,7 @@
 クローン (kurōn) | klon | isim | 哺乳類のクローンが初めて誕生したとき、世界は大きく揺れた。 | İlk memeli klon doğduğunda dünya büyük bir sarsıntı yaşadı.
 培養 (baiyō) | kültür (hücre/mikroorganizma üretme) | isim | 研究室では皮膚の細胞を培養して、やけどの治療に役立てている。 | Laboratuvarda deri hücreleri üretilip yanık tedavisinde kullanılıyor.
 生命倫理 (seimei rinri) | biyoetik | isim | 受精卵の操作には、生命倫理の観点から慎重な議論が必要だ。 | Döllenmiş yumurtaya müdahale biyoetik açısından dikkatli bir tartışma gerektirir.
-創薬 (sōyaku) | ilaç keşfi ve geliştirme | isim | AIの活用で、創薬にかかる期間が大幅に短縮されつつある。 | Yapay zekâ sayesinde ilaç geliştirme süresi ciddi biçimde kısalıyor.
+創薬 (sōyaku) | ilaç keşfi ve geliştirme | isim | 人工知能の活用で、創薬にかかる期間が大幅に短縮されつつある。 | Yapay zekâ sayesinde ilaç geliştirme süresi ciddi biçimde kısalıyor.
 微生物 (biseibutsu) | mikroorganizma | isim | 日本酒や味噌づくりには、さまざまな微生物の働きが欠かせない。 | Sake ve miso yapımında çeşitli mikroorganizmaların işlevi vazgeçilmezdir.
 ## Enerji
 太陽光発電 (taiyōkō hatsuden) | güneş enerjisinden elektrik üretimi | isim | 住宅の屋根に太陽光発電のパネルを設置する家庭が増えた。 | Evlerin çatısına güneş paneli kuran aileler arttı.
@@ -40,7 +40,7 @@
 仮想通貨 (kasō tsūka) | kripto para, sanal para | isim | 仮想通貨の価格は短期間で激しく変動することがある。 | Kripto para fiyatları kısa sürede sert dalgalanabilir.
 ビッグデータ (biggu dēta) | büyük veri | isim | 交通のビッグデータを分析して、渋滞の予測に役立てている。 | Trafiğe dair büyük verileri analiz edip tıkanıklık tahmininde kullanıyoruz.
 情報リテラシー (jōhō riterashī) | bilgi okuryazarlığı | isim | 子どもの頃から情報リテラシーを育てる教育が必要だ。 | Çocukluktan itibaren bilgi okuryazarlığını geliştiren bir eğitim gerekiyor.
-偽情報 (nisejōhō) | dezenformasyon | isim | 災害の直後には、偽情報がSNSで急速に広がりやすい。 | Afetlerin hemen ardından dezenformasyon sosyal medyada hızla yayılır.
+偽情報 (nisejōhō) | dezenformasyon | isim | 災害の直後には、偽情報がソーシャルメディアで急速に広がりやすい。 | Afetlerin hemen ardından dezenformasyon sosyal medyada hızla yayılır.
 フィルターバブル (firutā baburu) | filtre balonu | isim | フィルターバブルの中にいると、異なる意見に触れる機会が減る。 | Filtre balonunun içindeyken farklı görüşlerle karşılaşma fırsatı azalır.
 エコーチェンバー (ekō chenbā) | yankı odası | isim | 同じ考えの人ばかりと交流するとエコーチェンバー現象が起きる。 | Yalnızca aynı düşünen kişilerle iletişim kurunca yankı odası etkisi oluşur.
 ## Bilişim altyapısı
@@ -83,7 +83,7 @@
 最適化する (saitekika suru) | optimize etmek | fiil | 配送ルートを最適化して、燃料費を二割削減した。 | Teslimat rotalarını optimize ederek yakıt masrafını yüzde yirmi düşürdük.
 刷新する (sasshin suru) | baştan yenilemek | fiil | 二十年ぶりに社内の基幹システムを刷新した。 | Yirmi yıl sonra şirketin ana bilgi sistemini baştan yeniledik.
 陳腐化する (chinpuka suru) | eskimek, modası geçmek | fiil | 技術の進歩が速く、製品はすぐに陳腐化してしまう。 | Teknoloji hızla ilerlediği için ürünler çabucak eskiyor.
-凌駕する (ryōga suru) | aşmak, geride bırakmak | fiil | AIは囲碁の分野で人間の名人を凌駕した。 | Yapay zekâ Go oyununda insan ustaları geride bıraktı.
+凌駕する (ryōga suru) | aşmak, geride bırakmak | fiil | 人工知能は囲碁の分野で人間の名人を凌駕した。 | Yapay zekâ Go oyununda insan ustaları geride bıraktı.
 制御する (seigyo suru) | kontrol etmek, kumanda etmek | fiil | 工場のロボットはすべて一台のコンピューターで制御されている。 | Fabrikadaki robotların hepsi tek bir bilgisayardan kumanda ediliyor.
 解析する (kaiseki suru) | çözümlemek, analiz etmek | fiil | 事故の映像を解析して、原因の特定を急いでいる。 | Kaza görüntülerini çözümleyerek nedeni bir an önce bulmaya çalışıyorlar.
 搭載する (tōsai suru) | donatmak, (cihaza) yerleştirmek | fiil | 新型の車には自動ブレーキが標準で搭載されている。 | Yeni model araçlarda otomatik fren standart olarak bulunuyor.
@@ -105,7 +105,7 @@
 予防原則 (yobō gensoku) | ihtiyat ilkesi | isim | 予防原則に基づき、安全が確認されるまで使用を禁止した。 | İhtiyat ilkesi gereği güvenli olduğu kanıtlanana kadar kullanım yasaklandı.
 想定外 (sōteigai) | öngörülmemiş, hesapta olmayan | isim | 津波の高さは想定外だったと説明されたが、批判は収まらなかった。 | Tsunaminin yüksekliğinin öngörülemediği söylendi ama eleştiriler dinmedi.
 悪用 (akuyō) | kötüye kullanma | isim | 顔認証の技術が悪用されることを懸念する声もある。 | Yüz tanıma teknolojisinin kötüye kullanılmasından endişe edenler de var.
-諸刃の剣 (moroha no tsurugi) | iki ucu keskin kılıç | deyim | 便利なSNSも、使い方によっては諸刃の剣となる。 | Kullanışlı sosyal medya da kullanış biçimine göre iki ucu keskin bir kılıç olabilir.
-透明性 (tōmeisei) | şeffaflık | isim | AIの開発企業には、より高い透明性が求められている。 | Yapay zekâ geliştiren şirketlerden daha fazla şeffaflık bekleniyor.
+諸刃の剣 (moroha no tsurugi) | iki ucu keskin kılıç | deyim | 便利なソーシャルメディアも、使い方によっては諸刃の剣となる。 | Kullanışlı sosyal medya da kullanış biçimine göre iki ucu keskin bir kılıç olabilir.
+透明性 (tōmeisei) | şeffaflık | isim | 人工知能の開発企業には、より高い透明性が求められている。 | Yapay zekâ geliştiren şirketlerden daha fazla şeffaflık bekleniyor.
 人間中心 (ningen chūshin) | insan odaklı | isim | 技術は人間中心の考え方に立って設計されるべきだ。 | Teknoloji insan odaklı bir anlayışla tasarlanmalıdır.
 技術的失業 (gijutsuteki shitsugyō) | teknolojik işsizlik | isim | 自動化の進展による技術的失業への対策が急がれる。 | Otomasyonun yol açtığı teknolojik işsizliğe karşı acil önlemler gerekiyor.

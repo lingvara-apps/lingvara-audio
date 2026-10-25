@@ -25,13 +25,13 @@
 ブラッシュアップ (burasshuappu) | geliştirip cilalama | isim | 皆の意見をもとに、企画書をブラッシュアップした。 | Herkesin görüşlerine dayanarak proje önerisini geliştirip cilaladık.
 キャパ (kyapa) | kapasite (kişinin iş yükü sınırı) | isim | 今月はもう仕事が多すぎて、キャパオーバーだ。 | Bu ay iş çok fazla, kapasitemi aştı.
 ボトルネック (botorunekku) | darboğaz | isim | 承認の手続きが、作業全体のボトルネックになっている。 | Onay süreci bütün işin darboğazı hâline geldi.
-ソリューション (soryūshon) | çözüm (ticari ürün) | isim | 当社は中小企業向けのITソリューションを提供している。 | Şirketimiz küçük işletmelere bilişim çözümleri sunuyor.
+ソリューション (soryūshon) | çözüm (ticari ürün) | isim | 当社は中小企業向けの情報システムのソリューションを提供している。 | Şirketimiz küçük işletmelere bilişim çözümleri sunuyor.
 シナジー (shinajī) | sinerji | isim | 二つの事業を組み合わせて、シナジーを生み出したい。 | İki işi birleştirerek sinerji yaratmak istiyoruz.
 スキーム (sukīmu) | düzen, plan, model | isim | 新しい資金調達のスキームを検討している。 | Yeni bir finansman modeli üzerinde çalışıyoruz.
 プライオリティ (puraioriti) | öncelik | isim | プライオリティの高い案件から片付けていこう。 | Önceliği yüksek işlerden başlayarak bitirelim.
 ローンチ (rōnchi) | lansman, piyasaya sürme | isim | 新しいアプリのローンチは来月の予定だ。 | Yeni uygulamanın lansmanı gelecek ay yapılacak.
 マネタイズ (manetaizu) | paraya dönüştürme | isim | 利用者は増えたが、どうマネタイズするかが課題だ。 | Kullanıcı sayısı arttı ama nasıl gelire dönüştüreceğimiz sorun.
-KPI (kē pī ai) | temel performans göstergesi | isim | 部署ごとにKPIを設定し、毎月確認している。 | Her bölüm için performans göstergeleri belirleyip her ay kontrol ediyoruz.
+重要業績評価指標 (jūyō gyōseki hyōka shihyō) | temel performans göstergesi | isim | 部署ごとに重要業績評価指標を設定し、毎月確認している。 | Her bölüm için temel performans göstergeleri belirleyip her ay kontrol ediyoruz.
 ## İşyeri sorunları
 カスハラ (kasuhara) | müşteri tacizi (çalışana yönelik) | isim | 店員への理不尽な要求は、カスハラとして問題視されている。 | Çalışanlara yöneltilen mantıksız talepler müşteri tacizi olarak sorun sayılıyor.
 マタハラ (matahara) | hamilelik nedeniyle işyerinde taciz | isim | 妊娠を理由に降格させるのは、マタハラにあたる。 | Hamilelik gerekçesiyle rütbe düşürmek hamilelik tacizi sayılır.
@@ -58,7 +58,7 @@ KPI (kē pī ai) | temel performans göstergesi | isim | 部署ごとにKPIを�
 ログ (rogu) | kayıt dosyası (log) | isim | 障害の原因を探るため、サーバーのログを確認した。 | Arızanın nedenini bulmak için sunucu kayıtlarını inceledik.
 データベース (dētabēsu) | veritabanı | isim | 顧客の情報は、すべてデータベースで管理している。 | Müşteri bilgilerinin hepsini veritabanında yönetiyoruz.
 ソースコード (sōsu kōdo) | kaynak kod | isim | 他人の書いたソースコードを読むのは大変だ。 | Başkasının yazdığı kaynak kodu okumak zahmetli.
-システム障害 (shisutemu shōgai) | sistem arızası | isim | 銀行のシステム障害で、ATMが一日中使えなかった。 | Bankanın sistem arızası yüzünden ATM'ler bütün gün çalışmadı.
+システム障害 (shisutemu shōgai) | sistem arızası | isim | 銀行のシステム障害で、現金自動預け払い機が一日中使えなかった。 | Bankanın sistem arızası yüzünden ATM'ler bütün gün çalışmadı.
 ロールバック (rōrubakku) | önceki sürüme geri dönme | isim | 新バージョンに問題があったので、すぐにロールバックした。 | Yeni sürümde sorun çıkınca hemen önceki sürüme geri döndük.
 互換性 (gokansei) | uyumluluk | isim | 古いソフトとの互換性を保つのが難しい。 | Eski yazılımlarla uyumluluğu korumak zor.
 仮想化 (kasōka) | sanallaştırma | isim | サーバーを仮想化して、運用コストを下げた。 | Sunucuları sanallaştırarak işletme maliyetini düşürdük.
@@ -73,7 +73,7 @@ KPI (kē pī ai) | temel performans göstergesi | isim | 部署ごとにKPIを�
 技術的負債 (gijutsuteki fusai) | teknik borç | isim | 急いで作ったシステムが、大きな技術的負債になった。 | Aceleyle yapılan sistem büyük bir teknik borca dönüştü.
 車輪の再発明 (sharin no saihatsumei) | tekerleği yeniden icat etmek | ifade | 既存のライブラリを使えば、車輪の再発明をせずに済む。 | Var olan kütüphaneleri kullanırsak tekerleği yeniden icat etmeyiz.
 属人化 (zokujinka) | işin tek bir kişiye bağımlı hâle gelmesi | isim | 業務の属人化を防ぐため、手順書を作成した。 | İşin tek kişiye bağımlı kalmaması için prosedür belgesi hazırladık.
-多重下請け (tajū shitauke) | çok katmanlı taşeronluk | isim | IT業界の多重下請け構造が問題になっている。 | Bilişim sektöründeki çok katmanlı taşeron yapısı sorun oluyor.
+多重下請け (tajū shitauke) | çok katmanlı taşeronluk | isim | 情報技術の業界の多重下請け構造が問題になっている。 | Bilişim sektöründeki çok katmanlı taşeron yapısı sorun oluyor.
 尻拭い (shirinugui) | başkasının pisliğini temizleme | isim | 前任者のミスの尻拭いで、残業続きだ。 | Selefimin hatalarını temizlemekle uğraşırken hep fazla mesai yapıyorum.
 検収 (kenshū) | teslim kabul kontrolü | isim | 検収が終わるまで、代金は支払われない。 | Teslim kabul kontrolü bitene kadar ödeme yapılmaz.
 ## Para argosu
