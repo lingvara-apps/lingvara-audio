@@ -1,0 +1,55 @@
+# TOPIC: Sağdan sola yazı ve harflerin bağlanması | كِتَاب، بَيْت، دَار
+> Arapça sağdan sola yazılır ve kelimedeki harfler çoğu zaman birbirine bitişir; bu yüzden bir harfin başta, ortada ve sonda farklı biçimleri vardır.
+> Altı harf (ا د ذ ر ز و) kendinden sonraki harfe bağlanmaz; ardından gelen harf yeniden baş biçimiyle yazılır.
+> Büyük harf/küçük harf ayrımı yoktur.
+= كِتَاب (kitāb) | kitap
+= بَيْت (bayt) | ev
+= دَار (dār) | yurt, ev (د ve ر bağlanmaz)
+= وَرْدَة (warda) | gül (و ve ر'den sonra harfler ayrı başlar)
+? Arapça hangi yönde yazılır? | sağdan sola | soldan sağa | yukarıdan aşağıya
+? Hangi harf kendinden sonraki harfe bağlanmaz? | د | ب | س
+? Hangi harf sola bağlanmayanlardan biridir? | و | م | ل
+? Arapçada büyük harf var mıdır? | hayır | evet | yalnızca özel isimlerde
+? "ه" harfinin ortadaki biçimi hangisidir? | ـهـ | هـ | ـه
+
+# TOPIC: Harekeler: kısa ve uzun ünlüler | بَ بِ بُ، بَا بِي بُو
+> Kısa ünlüler harf olarak değil, harekelerle gösterilir: fetha (ـَ) "a", kesra (ـِ) "i", damme (ـُ) "u"; sükûn (ـْ) ünlü olmadığını gösterir.
+> Uzun ünlüler harfle yazılır: fetha + ا = ā, kesra + ي = ī, damme + و = ū.
+> Gündelik metinlerde harekeler çoğu zaman yazılmaz; öğrenirken tam harekeli metin okumak önemlidir.
+= بَ بِ بُ (ba, bi, bu) | kısa ünlüler
+= بَا بِي بُو (bā, bī, bū) | uzun ünlüler
+= كَتَبَ (kataba) | yazdı
+= قَلْب (qalb) | kalp (ل üzerinde sükûn)
+? Harfin altındaki küçük eğik çizginin adı nedir? | kesra | fetha | damme
+? "بُو" nasıl okunur? | bū | bā | bī
+? Sükûn ne gösterir? | harfin ünlüsüz okunduğunu | harfin iki kez okunduğunu | uzun ā sesini
+? Şedde (ـّ) ne yapar? | harfi ikiz okutur | harfi okutmaz | kelimeyi belirsiz yapar
+? "شُكْرًا" kelimesinin sonundaki tenvin nasıl okunur? | -an | -un | -in
+
+# TOPIC: Belirlilik takısı ال ve Güneş/Ay harfleri | الْقَمَر، الشَّمْس
+> "al-" takısı ismi belirli yapar (İngilizcedeki "the"); belirsiz isimler genellikle tenvinle biter: كِتَابٌ "bir kitap", الْكِتَابُ "kitap (o kitap)".
+> Ay harflerinden önce ل okunur: الْقَمَر (al-qamar). Güneş harflerinden önce ل okunmaz ve sonraki harf şedde alır: الشَّمْس (ash-shams).
+> Güneş harfleri: ت ث د ذ ر ز س ش ص ض ط ظ ل ن.
+= الْبَيْت (al-bayt) | ev (belirli)
+= الْقَمَر (al-qamar) | ay
+= الشَّمْس (ash-shams) | güneş
+= النُّور (an-nūr) | ışık
+? "الشَّمْس" kelimesinde ل okunur mu? | hayır | evet | yalnızca yazıda okunur
+? Hangisi bir Ay harfidir? | ب | س | ن
+? Hangisi bir Güneş harfidir? | ر | ك | م
+? "الدَّرْس" nasıl okunur? | ad-dars | al-dars | dars
+? "كِتَابٌ" ne anlama gelir? | bir kitap | o kitap | kitaplar
+
+# TOPIC: Eril ve dişil: te merbuta | طَالِب / طَالِبَة
+> Arapçada isimler ve sıfatlar eril ya da dişildir; Türkçede böyle bir ayrım yoktur.
+> Dişil isimlerin çoğu te merbuta (ة) ile biter; erilden dişil yapmak için genellikle ـَة eklenir: طَالِب → طَالِبَة.
+> Bazı dişil kelimelerde ة yoktur: شَمْس (güneş), أُمّ (anne), بِنْت (kız).
+= طَالِب / طَالِبَة (ṭālib / ṭāliba) | erkek öğrenci / kız öğrenci
+= مُعَلِّم / مُعَلِّمَة (muʿallim / muʿallima) | öğretmen (erkek / kadın)
+= مَدِينَة (madīna) | şehir (dişil)
+= بَيْت (bayt) | ev (eril)
+? "طَبِيب" (erkek doktor) kelimesinin dişili hangisidir? | طَبِيبَة | طَبِيبُون | طَبِيبَات
+? Te merbuta (ة) genellikle neyi gösterir? | dişil cinsiyeti | çoğulu | belirliliği
+? Hangisi dişildir? | مَدْرَسَة | كِتَاب | قَلَم
+? ة harfi kelimenin neresinde bulunur? | sonunda | başında | ortasında
+? Hangisi ة'siz olduğu hâlde dişildir? | شَمْس | بَاب | قَمَر
