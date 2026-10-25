@@ -25,9 +25,10 @@ jobs:
       - name: Install
         run: |
           E="kokoro piper supertonic whisper"
-          case "${{ matrix.c }}" in ja) E="$E misaki-ja";; zh) E="$E misaki-zh";; ko) E="$E melo";; esac
-          bash tts/install.sh $E 2>&1 | tail -30
+          case "${{ matrix.c }}" in ja) E="$E misaki-ja";; zh) E="$E misaki-zh";; esac
+          mkdir -p samples/${{ matrix.c }} && timeout 1500 bash tts/install.sh $E > samples/${{ matrix.c }}/install.log 2>&1; tail -30 samples/${{ matrix.c }}/install.log
       - name: Generate
+        timeout-minutes: 60
         run: python3 tts/samples.py ${{ matrix.c }} course_${{ matrix.c }} 2>&1 | grep -v -i warning | tail -150
       - uses: actions/upload-artifact@v4
         if: always()

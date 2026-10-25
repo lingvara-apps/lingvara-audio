@@ -41,10 +41,10 @@ CANDIDATES = {
     "zh": [("kokoro", v) for v in ["zf_xiaobei", "zf_xiaoxiao", "zm_yunjian", "zm_yunxi"]],
     "de": [("piper", v) for v in ["de_DE-kerstin-low", "de_DE-ramona-low", "de_DE-eva_k-x_low",
                                   "de_DE-thorsten-high", "de_DE-thorsten-medium"]] + [("supertonic", v) for v in ST],
-    "tr": [("piper", v) for v in ["tr_TR-dfki-medium", "tr_TR-fahrettin-medium", "tr_TR-fettah-medium"]]
+    "tr": [("piper", "auto:tr_TR")]
           + [("supertonic", v) for v in ST],
-    "ar": [("piper", "ar_JO-kareem-medium")] + [("supertonic", v) for v in ST],
-    "ko": [("supertonic", v) for v in ["F1", "F2", "F3", "F4", "F5", "M1", "M2", "M3", "M4", "M5"]] + [("melo", "KR")],
+    "ar": [("piper", "auto:ar_")] + [("supertonic", v) for v in ST],
+    "ko": [("supertonic", v) for v in ["F1", "F2", "F3", "F4", "F5", "M1", "M2", "M3", "M4", "M5"]],
 }
 WLANG = {"pt": "pt", "zh": "zh"}
 
@@ -96,11 +96,23 @@ def main():
     os.makedirs(f"{out}/candidates", exist_ok=True)
     json.dump(texts, open(f"{out}/texts.json", "w"), ensure_ascii=False, indent=1)
     loaded, made, log = {}, [], []
+    cands = []
     for eng, voice in CANDIDATES[c]:
+        if voice.startswith("auto:"):
+            import urllib.request
+            vj = json.load(urllib.request.urlopen(engines.Piper.HF + "voices.json"))
+            found = sorted(k for k in vj if k.startswith(voice[5:]))
+            log.append(f"piper voices for {voice[5:]}: {found}")
+            cands += [(eng, k) for k in found if not k.endswith("-x_low")]
+        else:
+            cands.append((eng, voice))
+    for eng, voice in cands:
         v, _, pitch = voice.partition("@")
         try:
             if eng not in loaded:
                 cfg = dict(CFG[c], engine=eng)
+                if eng == "supertonic":
+                    cfg["lang"] = c
                 loaded[eng] = engines.load(cfg)
             e = loaded[eng]
             for tid, txt in texts:
@@ -126,7 +138,10 @@ def main():
         lang = WLANG.get(c, c)
         res = {}
         for eng, voice, tid, txt, f, secs, dur in made:
-            segs, _ = wm.transcribe(f, language=lang, beam_size=1, vad_filter=False)
+            import subprocess, numpy as np
+            pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", f, "-f", "f32le", "-ac", "1", "-ar", "16000", "-"],
+                                 capture_output=True).stdout
+            segs, _ = wm.transcribe(np.frombuffer(pcm, dtype=np.float32), language=lang, beam_size=1, vad_filter=False)
             hyp = "".join(s.text for s in segs).strip()
             ref = extract.strip_reading(txt, c)
             sc = cer(normtxt(ref, c), normtxt(hyp, c))
