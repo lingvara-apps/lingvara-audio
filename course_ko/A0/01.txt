@@ -1,0 +1,135 @@
+# UNIT: Hangıl: sesli harfler ve ünsüzler | 21 sesli harf, 19 ünsüz, harflerin adları
+## Temel sesli harfler
+ㅏ (a) | a — "araba"daki a | harf · sesli | 아이 (ai) | çocuk
+ㅑ (ya) | ya — "yazı"daki ya; ㅏ'ya bir çizgi eklenir | harf · sesli | 야구 (yagu) | beyzbol
+ㅓ (eo) | ağız açık, dudaklar yuvarlanmadan söylenen o; o ile a arası | harf · sesli | 어머니 (eomeoni) | anne
+ㅕ (yeo) | y + ㅓ; "yo" ile "ya" arası | harf · sesli | 여자 (yeoja) | kadın
+ㅗ (o) | o — "okul"daki o, dudaklar yuvarlak | harf · sesli | 오이 (oi) | salatalık
+ㅛ (yo) | yo — "yol"daki yo | harf · sesli | 요리 (yori) | yemek pişirme
+ㅜ (u) | u — "uzun"daki u | harf · sesli | 우유 (uyu) | süt
+ㅠ (yu) | yu — "yumurta"daki yu | harf · sesli | 유리 (yuri) | cam
+ㅡ (eu) | Türkçe ı'ya çok yakın; dudaklar yayvan | harf · sesli | 그림 (geurim) | resim
+ㅣ (i) | i — "iki"deki i | harf · sesli | 이름 (ireum) | isim, ad
+## Birleşik sesli harfler
+ㅐ (ae) | açık e; günümüzde ㅔ ile neredeyse aynı okunur | harf · sesli | 개 (gae) | köpek
+ㅔ (e) | e — "el"deki e | harf · sesli | 게 (ge) | yengeç
+ㅒ (yae) | ye; az kullanılır | harf · sesli | 얘기 (yaegi) | sohbet; hikâye
+ㅖ (ye) | ye — "yeni"deki ye | harf · sesli | 예술 (yesul) | sanat
+ㅘ (wa) | ㅗ + ㅏ: dudaklar yuvarlak başlayan "va" (İng. w) | harf · sesli | 과자 (gwaja) | bisküvi, cips
+ㅙ (wae) | ㅗ + ㅐ: "ve" (İng. w ile) | harf · sesli | 왜 (wae) | neden
+ㅚ (oe) | yazımı ㅗ + ㅣ; bugün "ve" (İng. w ile) okunur | harf · sesli | 회사 (hoesa) | şirket
+ㅝ (wo) | ㅜ + ㅓ: "vo" (İng. w ile) | harf · sesli | 원 (won) | won (Kore parası)
+ㅞ (we) | ㅜ + ㅔ: "ve" (İng. w ile); nadir | harf · sesli | 웨이터 (weiteo) | garson
+ㅟ (wi) | ㅜ + ㅣ: "vi" (İng. w ile) | harf · sesli | 귀 (gwi) | kulak
+## Temel ünsüzler
+ㄱ (g/k) | başta k ile g arası, iki sesli arasında g, hece sonunda yutulmuş k; adı 기역 (giyeok) | harf · ünsüz | 가방 (gabang) | çanta
+ㄴ (n) | n — "nar"daki n; adı 니은 (nieun) | harf · ünsüz | 나무 (namu) | ağaç
+ㄷ (d/t) | başta t ile d arası, iki sesli arasında d; adı 디귿 (digeut) | harf · ünsüz | 다리 (dari) | bacak; köprü
+ㄹ (r/l) | iki sesli arasında tek vuruşlu r, hece sonunda l; adı 리을 (rieul) | harf · ünsüz | 라면 (ramyeon) | hazır erişte
+ㅁ (m) | m — "masa"daki m; adı 미음 (mieum) | harf · ünsüz | 머리 (meori) | baş; saç
+ㅂ (b/p) | başta p ile b arası, iki sesli arasında b; adı 비읍 (bieup) | harf · ünsüz | 바다 (bada) | deniz
+ㅅ (s) | s; ㅣ ve y'li seslilerden önce ş'ye yaklaşır; adı 시옷 (siot) | harf · ünsüz | 사과 (sagwa) | elma
+ㅇ (sessiz/ng) | hece başında okunmaz, hece sonunda genizden "ng"; adı 이응 (ieung) | harf · ünsüz | 강아지 (gangaji) | köpek yavrusu
+ㅈ (j) | c — "cam"daki c, başta ç'ye yakın; adı 지읒 (jieut) | harf · ünsüz | 지도 (jido) | harita
+ㅎ (h) | h — "hava"daki h; adı 히읗 (hieut) | harf · ünsüz | 하늘 (haneul) | gökyüzü
+## Nefesli ve gergin ünsüzler
+ㅊ (ch) | güçlü nefesle ç; adı 치읓 (chieut) | harf · ünsüz | 치마 (chima) | etek
+ㅋ (k) | güçlü nefesle k; adı 키읔 (kieuk) | harf · ünsüz | 코 (ko) | burun
+ㅌ (t) | güçlü nefesle t; adı 티읕 (tieut) | harf · ünsüz | 토끼 (tokki) | tavşan
+ㅍ (p) | güçlü nefesle p; adı 피읖 (pieup) | harf · ünsüz | 포도 (podo) | üzüm
+ㄲ (kk) | gergin k: nefes yok, gırtlak sıkı, sert ve kısa; adı 쌍기역 (ssanggiyeok) | harf · ünsüz | 꽃 (kkot) | çiçek
+ㄸ (tt) | gergin t: nefessiz, sert; adı 쌍디귿 (ssangdigeut) | harf · ünsüz | 딸기 (ttalgi) | çilek
+ㅃ (pp) | gergin p: nefessiz, sert; adı 쌍비읍 (ssangbieup) | harf · ünsüz | 빵 (ppang) | ekmek
+ㅆ (ss) | gergin, keskin s; adı 쌍시옷 (ssangsiot) | harf · ünsüz | 쌀 (ssal) | pirinç (çiğ)
+ㅉ (jj) | gergin c/ç: nefessiz, sert; adı 쌍지읒 (ssangjieut) | harf · ünsüz | 찌개 (jjigae) | Kore güveci
+ㅢ (ui) | ㅡ + ㅣ: hızlıca "ıi"; ünsüzden sonra i, iyelik eki olarak e okunur | harf · sesli | 의사 (uisa) | doktor
+# UNIT: Hece blokları ve son ünsüz | Heceyi kurmak, batchim, bağlama, ses değişimleri
+## Hece blokları
+가 (ga) | ünsüz + dik sesli yan yana yazılır: ㄱ + ㅏ | ses | 가수 (gasu) | şarkıcı
+고 (go) | ünsüz + yatay sesli alt alta yazılır: ㄱ + ㅗ | ses | 고기 (gogi) | et
+아 (a) | sesliyle başlayan hecede başa sessiz ㅇ yazılır: ㅇ + ㅏ | ses | 아침 (achim) | sabah
+누 (nu) | ㄴ + ㅜ alt alta: nu | ses | 누나 (nuna) | abla (erkek kardeşin dilinden)
+거 (geo) | ㄱ + ㅓ yan yana: geo | ses | 거울 (geoul) | ayna
+수 (su) | ㅅ + ㅜ alt alta: su | ses | 수박 (subak) | karpuz
+서 (seo) | ㅅ + ㅓ yan yana: seo | ses | 서울 (Seoul) | Seul
+과 (gwa) | ünsüz + birleşik sesli: ㄱ + ㅗ + ㅏ | ses | 과일 (gwail) | meyve
+뭐 (mwo) | ㅁ + ㅜ + ㅓ: mwo | ses | 뭐 (mwo) | ne?
+희 (hui) | ㅎ + ㅢ: ünsüzden sonra ㅢ "i" okunur, hi | ses | 희망 (huimang) | umut
+## Son ünsüz (batchim): yedi son ses
+-ㄱ (-k) | hece sonunda ㄱ yutulmuş, patlamayan k olur | ses | 책 (chaek) | kitap
+-ㄴ (-n) | hece sonunda n | ses | 산 (san) | dağ
+-ㅅ (-t) | hece sonunda ㅅ, ㄷ, ㅌ, ㅈ, ㅊ, ㅎ, ㅆ hepsi yutulmuş t okunur | ses | 옷 (ot) | giysi
+-ㄹ (-l) | hece sonunda l | ses | 물 (mul) | su
+-ㅁ (-m) | hece sonunda m | ses | 밤 (bam) | gece; kestane
+-ㅂ (-p) | hece sonunda yutulmuş p | ses | 밥 (bap) | pişmiş pilav; yemek
+-ㅇ (-ng) | hece sonunda genizden ng | ses | 방 (bang) | oda
+-ㅋ (-k) | hece sonunda ㅋ ve ㄲ de k okunur | ses | 부엌 (bueok) | mutfak
+-ㅈ (-t) | hece sonunda ㅈ de t okunur | ses | 낮 (nat) | gündüz
+-ㅍ (-p) | hece sonunda ㅍ de p okunur | ses | 앞 (ap) | ön
+## Bağlama ve çift son ünsüzler
+batchim + sesli | son ünsüz, sesliyle başlayan sonraki heceye kayar: 한국어 → han-gu-geo | ses | 한국어 (hangugeo) | Korece
+ㄱ + ㅇ | 음악 → eu-mak: ㄱ sonraki heceye geçer | ses | 음악 (eumak) | müzik
+ㅎ + sesli | sesliden önce son ㅎ okunmaz | ses | 좋아요 (joayo) | iyi; hoşuma gidiyor
+ㅆ + sesli | ㅆ sonraki heceye geçer: i-sseo-yo | ses | 있어요 (isseoyo) | var
+ㄺ (-k) | çift son ünsüz; tek başına k okunur | ses | 닭 (dak) | tavuk
+ㄻ (-m) | çift son ünsüz; m okunur | ses | 삶 (sam) | hayat
+ㄼ (-l) | çift son ünsüz; çoğunlukla l okunur | ses | 여덟 (yeodeol) | sekiz
+ㅄ (-p) | çift son ünsüz; p okunur, sesliden önce ikisi de duyulur | ses | 값 (gap) | fiyat
+ㄶ (-n) | n okunur, ㅎ sesliden önce düşer: 많아요 → ma-na-yo | ses | 많아요 (manayo) | çok
+ㄵ (-n) | n okunur, sesliden önce ikisi de duyulur | ses | 앉아요 (anjayo) | oturuyor
+## Ses değişimleri
+ㅂ + ㄴ → ㅁㄴ | p, n'den önce m olur: 합니다 → ham-ni-da | ses | 감사합니다 (gamsahamnida) | teşekkür ederim
+ㄱ + ㅁ → ㅇㅁ | k, m veya n'den önce ng olur | ses | 한국말 (hangungmal) | Korece (konuşma dili)
+ㅅ + ㅁ → ㄴㅁ | t sesi, m veya n'den önce n olur | ses | 거짓말 (geojinmal) | yalan
+ㄹ + ㄴ → ㄹㄹ | ㄹ ile ㄴ yan yana gelince ikisi de l olur | ses | 설날 (seollal) | Kore Yeni Yılı
+ㄴ + ㄹ → ㄹㄹ | ㄴ, ㄹ'den önce de l olur | ses | 연락 (yeollak) | haberleşme
+ㄱ + ㅎ → ㅋ | ㅎ yanındaki ㄱ, ㄷ, ㅂ, ㅈ nefesli olur | ses | 축하해요 (chukahaeyo) | tebrik ederim
+ㅎ + ㄷ → ㅌ | ㅎ'den sonra gelen ㄷ t olur: jo-ta | ses | 좋다 (jota) | iyi olmak
+ㄱ + ㄱ → ㄱㄲ | son ünsüzden sonraki ㄱ, ㄷ, ㅂ, ㅅ, ㅈ gerginleşir: hak-kkyo | ses | 학교 (hakgyo) | okul
+ㅌ + 이 → 치 | ㄷ/ㅌ + 이, ji/chi olur | ses | 같이 (gachi) | birlikte
+의 (e) | iyelik eki olarak ㅢ, e okunur | ses | 우리의 (uriui) | bizim
+## Üçlü ünsüz karşıtlığı ve zor sesliler
+ㅂ / ㅍ / ㅃ | düz, nefesli, gergin p: üçü farklı anlam verir | ses | 불 / 풀 / 뿔 (bul / pul / ppul) | ateş / ot / boynuz
+ㄷ / ㅌ / ㄸ | düz, nefesli, gergin t | ses | 달 / 탈 / 딸 (dal / tal / ttal) | ay / maske / kız evlat
+ㅈ / ㅊ / ㅉ | düz, nefesli, gergin c-ç | ses | 자다 / 차다 / 짜다 (jada / chada / jjada) | uyumak / soğuk olmak / tuzlu olmak
+ㅅ / ㅆ | düz s ile gergin s | ses | 사다 / 싸다 (sada / ssada) | satın almak / ucuz olmak
+ㄱ / ㄲ | düz k ile gergin k | ses | 굴 / 꿀 (gul / kkul) | istiridye / bal
+ㅓ / ㅗ | ㅓ dudaklar açık, ㅗ dudaklar yuvarlak | ses | 섬 / 솜 (seom / som) | ada / pamuk
+ㅡ / ㅜ | ㅡ dudaklar yayvan (ı), ㅜ yuvarlak (u) | ses | 들 / 둘 (deul / dul) | tarla / iki
+ㅐ / ㅔ | bugün neredeyse aynı okunur, yazımdan ayırt edilir | ses | 개 / 게 (gae / ge) | köpek / yengeç
+ㄹ- | kelime başındaki ㄹ, yabancı kelimelerde r okunur | ses | 라디오 (radio) | radyo
+시 | ㅅ + ㅣ, Türkçe "şi"ye yakın okunur | ses | 시장 (sijang) | pazar, çarşı
+# UNIT: İlk kelimeler | Çin kökenli sayılar, renkler, hayvanlar ve nesneler
+## Sayılar 1–10 (Çin kökenli)
+일 (il) | bir (Çin kökenli) | sayı | 일월은 추워요. (Irworeun chuwoyo.) | Ocak soğuktur.
+이 (i) | iki (Çin kökenli) | sayı | 이월에 만나요. (Iwore mannayo.) | Şubatta görüşelim.
+삼 (sam) | üç (Çin kökenli) | sayı | 삼월에 봄이 와요. (Samwore bomi wayo.) | Martta bahar gelir.
+사 (sa) | dört (Çin kökenli) | sayı | 사월에 꽃이 펴요. (Sawore kkochi pyeoyo.) | Nisanda çiçekler açar.
+오 (o) | beş (Çin kökenli) | sayı | 오 분만 기다려요. (O bunman gidaryeoyo.) | Sadece beş dakika bekleyin.
+육 (yuk) | altı (Çin kökenli) | sayı | 육 층에 살아요. (Yuk cheunge sarayo.) | Altıncı katta oturuyorum.
+칠 (chil) | yedi (Çin kökenli) | sayı | 칠 번 버스를 타요. (Chil beon beoseureul tayo.) | Yedi numaralı otobüse binerim.
+팔 (pal) | sekiz (Çin kökenli) | sayı | 팔월은 더워요. (Parworeun deowoyo.) | Ağustos sıcaktır.
+구 (gu) | dokuz (Çin kökenli) | sayı | 구 번 방이에요. (Gu beon bangieyo.) | Dokuz numaralı oda.
+십 (sip) | on (Çin kökenli) | sayı | 십 분 후에 와요. (Sip bun hue wayo.) | On dakika sonra geliyor.
+## Renkler
+빨간색 (ppalgansaek) | kırmızı | isim | 빨간색을 좋아해요. (Ppalgansaegeul joahaeyo.) | Kırmızıyı severim.
+파란색 (paransaek) | mavi | isim | 하늘이 파란색이에요. (Haneuri paransaegieyo.) | Gökyüzü mavi.
+노란색 (noransaek) | sarı | isim | 바나나는 노란색이에요. (Banananeun noransaegieyo.) | Muz sarıdır.
+초록색 (choroksaek) | yeşil | isim | 나무가 초록색이에요. (Namuga choroksaegieyo.) | Ağaç yeşil.
+검은색 (geomeunsaek) | siyah | isim | 검은색 가방이에요. (Geomeunsaek gabangieyo.) | Siyah bir çanta.
+흰색 (huinsaek) | beyaz | isim | 눈은 흰색이에요. (Nuneun huinsaegieyo.) | Kar beyazdır.
+회색 (hoesaek) | gri | isim | 고양이가 회색이에요. (Goyangiga hoesaegieyo.) | Kedi gri.
+분홍색 (bunhongsaek) | pembe | isim | 분홍색 꽃이 예뻐요. (Bunhongsaek kkochi yeppeoyo.) | Pembe çiçek güzel.
+갈색 (galsaek) | kahverengi | isim | 갈색 강아지예요. (Galsaek gangajiyeyo.) | Kahverengi bir köpek yavrusu.
+보라색 (borasaek) | mor | isim | 보라색 우산이 있어요. (Borasaek usani isseoyo.) | Mor bir şemsiyem var.
+## Hayvanlar ve nesneler
+강아지 (gangaji) | köpek yavrusu; köpek (sevimli) | isim | 강아지가 귀여워요. (Gangajiga gwiyeowoyo.) | Köpek yavrusu çok tatlı.
+고양이 (goyangi) | kedi | isim | 고양이가 자요. (Goyangiga jayo.) | Kedi uyuyor.
+새 (sae) | kuş | isim | 새가 노래해요. (Saega noraehaeyo.) | Kuş şarkı söylüyor.
+물고기 (mulgogi) | balık (canlı) | isim | 물고기가 많아요. (Mulgogiga manayo.) | Çok balık var.
+소 (so) | inek; sığır | isim | 소가 풀을 먹어요. (Soga pureul meogeoyo.) | İnek ot yiyor.
+책 (chaek) | kitap | isim | 책이 재미있어요. (Chaegi jaemiisseoyo.) | Kitap ilginç.
+볼펜 (bolpen) | tükenmez kalem | isim | 볼펜이 있어요? (Bolpeni isseoyo?) | Tükenmez kalemin var mı?
+의자 (uija) | sandalye | isim | 의자에 앉으세요. (Uijae anjeuseyo.) | Sandalyeye oturun.
+휴대폰 (hyudaepon) | cep telefonu | isim | 휴대폰이 어디 있어요? (Hyudaeponi eodi isseoyo?) | Cep telefonu nerede?
+가방 (gabang) | çanta | isim | 가방이 무거워요. (Gabangi mugeowoyo.) | Çanta ağır.
