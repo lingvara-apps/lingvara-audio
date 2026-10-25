@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yollar, sürüş, araçlar, trafik kuralları, toplu taşıma, kazalar
+## Yollar
+高速道路 (kōsoku dōro) | otoyol | isim | 高速道路を使えば、二時間で着く。 | Otoyolu kullanırsak iki saatte varırız.
+一般道 (ippandō) | normal yol | isim | 高速道路が混んでいたので、一般道で帰った。 | Otoyol kalabalık olduğu için normal yoldan döndük.
+車線 (shasen) | şerit | isim | 右の車線は、追い越しのためのものだ。 | Sağ şerit sollama içindir.
+路肩 (rokata) | yol kenarı, banket | isim | 車が故障して、路肩に止めた。 | Araba arızalanınca yol kenarına çektim.
+交通量 (kōtsūryō) | trafik yoğunluğu | isim | この道は、朝と夕方の交通量が多い。 | Bu yolda sabah ve akşam trafik yoğun.
+国道 (kokudō) | devlet karayolu | isim | 国道沿いに、大きな店がたくさんある。 | Devlet yolu boyunca çok sayıda büyük mağaza var.
+抜け道 (nukemichi) | kestirme yol | isim | 地元の人だけが知っている抜け道を通った。 | Sadece yerlilerin bildiği kestirme yoldan geçtik.
+カーブ (kābu) | viraj | isim | 山道は急なカーブが多いので、ゆっくり走ろう。 | Dağ yolunda keskin virajlar çok, yavaş gidelim.
+坂 (saka) | yokuş | isim | 雪の日は、坂で車が滑りやすい。 | Karlı günlerde araçlar yokuşta kolayca kayar.
+道幅 (michihaba) | yol genişliği | isim | この辺りは道幅が狭くて、車がすれ違えない。 | Bu civarda yollar dar, iki araba yan yana geçemiyor.
+## Araç kullanmak
+運転席 (untenseki) | sürücü koltuğu | isim | 日本の車は、運転席が右側にある。 | Japon arabalarında sürücü koltuğu sağdadır.
+助手席 (joshuseki) | ön yolcu koltuğu | isim | 助手席の友達が、地図を見てくれた。 | Ön koltuktaki arkadaşım haritaya baktı.
+後部座席 (kōbu zaseki) | arka koltuk | isim | 後部座席でも、シートベルトをしてください。 | Arka koltukta da emniyet kemeri takın.
+シートベルト (shītoberuto) | emniyet kemeri | isim | 車に乗ったら、まずシートベルトを締めよう。 | Arabaya binince önce emniyet kemerini tak.
+ハンドル (handoru) | direksiyon | isim | 雨の日は、ハンドルをしっかり握って運転する。 | Yağmurlu günlerde direksiyonu sıkıca tutarak sürerim.
+ブレーキ (burēki) | fren | isim | 子どもが飛び出してきて、急ブレーキをかけた。 | Bir çocuk aniden fırlayınca sert fren yaptım.
+アクセル (akuseru) | gaz pedalı | isim | 坂道では、アクセルを少し強く踏む。 | Yokuşta gaz pedalına biraz daha bastırırım.
+追い越し (oikoshi) | sollama | isim | この道は、追い越しが禁止されている。 | Bu yolda sollama yasaktır.
+車間距離 (shakan kyori) | takip mesafesi | isim | 高速道路では、車間距離を十分に取ってください。 | Otoyolda yeterli takip mesafesi bırakın.
+安全運転 (anzen unten) | güvenli sürüş | isim | 子どもを乗せているので、安全運転を心がけている。 | Çocuk taşıdığım için güvenli sürmeye özen gösteriyorum.
+## Araçlar
+乗用車 (jōyōsha) | binek otomobil | isim | 駐車場には、乗用車しか止められない。 | Otoparka sadece binek otomobiller park edebilir.
+トラック (torakku) | kamyon | isim | 大きなトラックが、荷物を運んでいる。 | Büyük bir kamyon yük taşıyor.
+パトカー (patokā) | polis arabası | isim | サイレンを鳴らしながら、パトカーが通った。 | Bir polis arabası siren çalarak geçti.
+消防車 (shōbōsha) | itfaiye aracı | isim | 火事の現場に、消防車が五台集まった。 | Yangın yerine beş itfaiye aracı geldi.
+軽自動車 (kei jidōsha) | küçük sınıf otomobil | isim | 田舎では、燃費のいい軽自動車が人気だ。 | Kırsalda yakıtı az olan küçük arabalar rağbet görüyor.
+自家用車 (jikayōsha) | özel araç | isim | 自家用車で通勤する人が多い町だ。 | Özel araçla işe gidenlerin çok olduğu bir kasaba.
+原付 (gentsuki) | küçük motosiklet (50cc) | isim | 高校生のとき、原付の免許を取った。 | Liseliyken küçük motosiklet ehliyeti aldım.
+車両 (sharyō) | araç; vagon | isim | この車両は、女性専用です。 | Bu vagon kadınlara özeldir.
+車体 (shatai) | araç gövdesi | isim | 事故で、車体に大きな傷がついた。 | Kazada aracın gövdesi büyük hasar aldı.
+大型車 (ōgatasha) | büyük araç | isim | この橋は、大型車は通れない。 | Bu köprüden büyük araçlar geçemez.
+## Trafik kuralları
+交通ルール (kōtsū rūru) | trafik kuralları | isim | 子どもたちに、交通ルールを教えた。 | Çocuklara trafik kurallarını öğrettim.
+標識 (hyōshiki) | trafik levhası | isim | 標識をよく見ないで、道を間違えた。 | Levhaya dikkatli bakmadığım için yolu şaşırdım.
+制限速度 (seigen sokudo) | hız sınırı | isim | この道の制限速度は、四十キロだ。 | Bu yolun hız sınırı kırk kilometre.
+一時停止 (ichiji teishi) | dur (levha) | isim | 一時停止の標識の前では、必ず止まろう。 | Dur levhasının önünde mutlaka durun.
+一方通行 (ippō tsūkō) | tek yön | isim | この道は一方通行なので、反対からは入れない。 | Bu yol tek yön, ters taraftan girilemez.
+通行止め (tsūkōdome) | yol kapalı | isim | 大雪のため、山の道は通行止めになっている。 | Yoğun kar nedeniyle dağ yolu kapalı.
+歩行者 (hokōsha) | yaya | isim | 横断歩道では、歩行者が優先だ。 | Yaya geçidinde öncelik yayalarındır.
+駐車禁止 (chūsha kinshi) | park yasağı | isim | 駅前は駐車禁止なので、少し離れた所に止めた。 | İstasyon önü park yasağı olduğu için biraz uzağa park ettim.
+飲酒運転 (inshu unten) | alkollü araç kullanma | isim | 飲酒運転は、重い罰の対象になる。 | Alkollü araç kullanmak ağır cezaya tabidir.
+信号無視 (shingō mushi) | kırmızı ışıkta geçme | isim | 信号無視をした自転車が、車にぶつかりそうになった。 | Kırmızıda geçen bir bisiklet az kalsın arabaya çarpıyordu.
+## Toplu taşıma
+公共交通機関 (kōkyō kōtsū kikan) | toplu taşıma | isim | 東京では、公共交通機関がとても便利だ。 | Tokyo'da toplu taşıma çok kullanışlıdır.
+路線 (rosen) | hat, güzergâh | isim | この駅には、三つの路線が通っている。 | Bu istasyondan üç hat geçiyor.
+運行 (unkō) | sefer, işletme | isim | 台風の影響で、バスの運行が止まった。 | Tayfun nedeniyle otobüs seferleri durdu.
+本数 (honsū) | sefer sayısı | isim | 田舎は、電車の本数が少ない。 | Kırsalda tren seferleri az.
+始発 (shihatsu) | ilk sefer | isim | 旅行の日は、始発の電車に乗った。 | Seyahat günü ilk trene bindim.
+ダイヤ (daiya) | sefer tarifesi | isim | 事故のため、電車のダイヤが乱れている。 | Kaza nedeniyle tren tarifesi aksadı.
+定期券 (teikiken) | aylık abonman kartı | isim | 通勤のために、三か月の定期券を買った。 | İşe gidip gelmek için üç aylık abonman aldım.
+乗車券 (jōshaken) | bilet (biniş) | isim | 新幹線には、乗車券と特急券が必要だ。 | Hızlı trene binmek için biniş bileti ve ekspres bileti gerekir.
+乗客 (jōkyaku) | yolcu | isim | 電車が急に止まって、乗客が驚いた。 | Tren aniden durunca yolcular şaşırdı.
+車掌 (shashō) | kondüktör | isim | 車掌が、次の駅の名前を案内した。 | Kondüktör bir sonraki istasyonun adını anons etti.
+## Kazalar ve sorunlar
+交通事故 (kōtsū jiko) | trafik kazası | isim | 交通事故で、道が三時間通れなかった。 | Trafik kazası yüzünden yol üç saat kapalı kaldı.
+追突 (tsuitotsu) | arkadan çarpma | isim | 信号で止まっていたら、後ろから追突された。 | Işıkta beklerken arkadan çarpıldım.
+接触 (sesshoku) | sürtme, temas | isim | 駐車場で、隣の車と軽く接触してしまった。 | Otoparkta yandaki arabaya hafifçe sürttüm.
+けが人 (keganin) | yaralı | isim | 幸い、事故でけが人は出なかった。 | Neyse ki kazada yaralanan olmadı.
+事故現場 (jiko genba) | kaza yeri | isim | 警察が事故現場を調べている。 | Polis kaza yerini inceliyor.
+パンク (panku) | lastik patlaması | isim | 自転車のタイヤがパンクして、押して帰った。 | Bisikletin lastiği patlayınca iterek eve döndüm.
+故障車 (koshōsha) | arızalı araç | isim | 故障車のせいで、高速道路が渋滞している。 | Arızalı bir araç yüzünden otoyolda trafik var.
+レッカー (rekkā) | çekici | isim | 動かなくなった車を、レッカーで運んでもらった。 | Çalışmayan arabayı çekiciyle taşıttım.
+渋滞情報 (jūtai jōhō) | trafik bilgisi | isim | 出発する前に、ラジオで渋滞情報を確認した。 | Yola çıkmadan önce radyodan trafik bilgisine baktım.
+あおり運転 (aori unten) | trafikte taciz (yakından takip) | isim | あおり運転は、重大な犯罪になる。 | Trafikte saldırgan sürüş ciddi bir suçtur.
+## Yolculuk planlamak
+移動 (idō) | hareket, yer değiştirme | isim | 東京の中の移動は、電車が一番速い。 | Tokyo içinde ulaşımda en hızlısı tren.
+交通費 (kōtsūhi) | yol masrafı | isim | 会社が、毎月の交通費を払ってくれる。 | Şirket her ayın yol masrafını karşılıyor.
+通学 (tsūgaku) | okula gidip gelme | isim | 弟は自転車で通学している。 | Kardeşim okula bisikletle gidip geliyor.
+乗り心地 (norigokochi) | sürüş konforu | isim | 新しいバスは、乗り心地がとてもいい。 | Yeni otobüsün konforu çok iyi.
+乗り場 (noriba) | biniş yeri, durak | isim | タクシー乗り場は、駅の東口にある。 | Taksi durağı istasyonun doğu çıkışında.
+経路 (keiro) | güzergâh | isim | アプリで、一番早い経路を調べた。 | Uygulamadan en hızlı güzergâha baktım.
+所要時間 (shoyō jikan) | gereken süre | isim | 空港までの所要時間は、約一時間です。 | Havalimanına kadar gereken süre yaklaşık bir saat.
+最寄り (moyori) | en yakın | isim | 最寄りの駅まで、歩いて十分です。 | En yakın istasyona yürüyerek on dakika.
+遠回り (tōmawari) | dolambaçlı yol | isim | 工事のせいで、遠回りしなければならなかった。 | İnşaat yüzünden dolambaçlı yoldan gitmek zorunda kaldık.
+近道 (chikamichi) | kestirme | isim | 公園の中を通るのが、駅への近道だ。 | Parkın içinden geçmek istasyona kestirme yol.
+## Ulaşım fiilleri
+発車する (hassha suru) | hareket etmek (araç) | fiil | 電車は、あと二分で発車します。 | Tren iki dakika sonra hareket edecek.
+停車する (teisha suru) | durmak (araç) | fiil | この電車は、各駅に停車します。 | Bu tren her istasyonda durur.
+乗り過ごす (norisugosu) | ineceği durağı kaçırmak | fiil | 本を読んでいて、駅を乗り過ごしてしまった。 | Kitap okurken ineceğim istasyonu kaçırdım.
+駆け込む (kakekomu) | koşarak girmek | fiil | 閉まるドアに駆け込むのは危険です。 | Kapanan kapıya koşarak binmek tehlikelidir.
+割り込む (warikomu) | araya girmek, sıraya kaynamak | fiil | 列に割り込む人がいて、腹が立った。 | Sıraya kaynayan biri olunca sinirlendim.
+走行する (sōkō suru) | seyretmek (araç) | fiil | この車は、一回の充電で五百キロ走行できる。 | Bu araç tek şarjla beş yüz kilometre gidebiliyor.
+合流する (gōryū suru) | katılmak, birleşmek | fiil | 高速道路に合流するときは、スピードを上げる。 | Otoyola katılırken hız artırılır.
+抜ける (nukeru) | (bir yerden) geçip çıkmak | fiil | トンネルを抜けると、海が見えた。 | Tünelden çıkınca deniz göründü.
+停める (tomeru) | park etmek, durdurmak | fiil | 店の前に、車を停めてもいいですか。 | Arabayı dükkânın önüne park edebilir miyim?
+バックする (bakku suru) | geri geri gitmek | fiil | 狭い道で、車をバックさせるのは難しい。 | Dar yolda arabayı geri geri sürmek zor.
+## Ulaşım altyapısı
+駅前 (ekimae) | istasyon önü | isim | 駅前のカフェで、友達と待ち合わせをした。 | İstasyon önündeki kafede arkadaşımla buluştum.
+ロータリー (rōtarī) | istasyon meydanı (döner kavşak) | isim | 駅のロータリーで、家族が迎えに来てくれた。 | Ailem beni istasyon meydanında karşıladı.
+駐輪場 (chūrinjō) | bisiklet parkı | isim | 自転車は、駅の駐輪場に止めている。 | Bisikletimi istasyonun bisiklet parkına bırakıyorum.
+高架 (kōka) | viyadük, yükseltilmiş hat | isim | 電車が高架の上を走っている。 | Tren yükseltilmiş hattın üzerinde gidiyor.
+地下道 (chikadō) | yeraltı geçidi | isim | 雨の日は、地下道を通って駅まで行く。 | Yağmurlu günlerde istasyona yeraltı geçidinden giderim.
+環状線 (kanjōsen) | çevre hattı | isim | 環状線に乗れば、町を一周できる。 | Çevre hattına binersen şehrin etrafını dolaşabilirsin.
+鉄道 (tetsudō) | demiryolu | isim | 日本の鉄道は、時間が正確なことで有名だ。 | Japon demiryolları dakikliğiyle ünlüdür.
+私鉄 (shitetsu) | özel demiryolu | isim | 実家へ行くには、私鉄を使うのが便利だ。 | Baba evime gitmek için özel demiryolu hattını kullanmak pratik.
+料金所 (ryōkinjo) | gişe (otoyol) | isim | 料金所の前で、車が長く並んでいた。 | Gişelerin önünde uzun araç kuyruğu vardı.
+サービスエリア (sābisu eria) | dinlenme tesisi | isim | サービスエリアで休憩して、うどんを食べた。 | Dinlenme tesisinde mola verip udon yedik.
+## Geleceğin ulaşımı
+次世代 (jisedai) | yeni nesil | isim | 次世代の電車は、もっと静かで速くなるそうだ。 | Yeni nesil trenler daha sessiz ve hızlı olacakmış.
+渋滞緩和 (jūtai kanwa) | trafiği rahatlatma | isim | 渋滞緩和のために、新しい道路が作られた。 | Trafiği rahatlatmak için yeni bir yol yapıldı.
+ライドシェア (raido shea) | araç paylaşımı (yolculuk) | isim | 海外では、ライドシェアがよく使われている。 | Yurt dışında yolculuk paylaşımı yaygın olarak kullanılıyor.
+カーシェア (kā shea) | araç paylaşımı (kiralama) | isim | 車を持たないで、カーシェアを使っている。 | Araba sahibi olmadan araç paylaşımı kullanıyorum.
+相乗り (ainori) | aynı araca birlikte binme | isim | 駅から同じ方向の人とタクシーに相乗りした。 | İstasyondan aynı yöne giden biriyle taksiyi paylaştım.
+空飛ぶ車 (soratobu kuruma) | uçan araba | isim | 空飛ぶ車の実験が、各地で行われている。 | Uçan araba denemeleri birçok yerde yapılıyor.
+燃費 (nenpi) | yakıt tüketimi | isim | この車は燃費がよくて、経済的だ。 | Bu araba az yakıyor, ekonomik.
+ハイブリッド (haiburiddo) | hibrit | isim | タクシーの多くが、ハイブリッドの車になった。 | Taksilerin çoğu hibrit araçlara dönüştü.
+充電スタンド (jūden sutando) | şarj istasyonu | isim | 高速道路にも、充電スタンドが増えてきた。 | Otoyollarda da şarj istasyonları arttı.
+交通網 (kōtsūmō) | ulaşım ağı | isim | 東京の交通網は、世界でも有数の複雑さだ。 | Tokyo'nun ulaşım ağı dünyanın en karmaşıklarından biridir.
