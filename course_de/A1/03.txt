@@ -1,0 +1,111 @@
+# UNIT: Sayılar ve zaman | Rakamlar, saat, günler, aylar
+## Sayılar 11–20
+elf | on bir | sayı | Der Zug fährt um elf Uhr. | Tren saat on birde kalkıyor.
+zwölf | on iki | sayı | Ein Jahr hat zwölf Monate. | Bir yılda on iki ay var.
+dreizehn | on üç | sayı | Mein Sohn ist dreizehn. | Oğlum on üç yaşında.
+vierzehn | on dört | sayı | Der Kurs hat vierzehn Teilnehmer. | Kursun on dört katılımcısı var.
+fünfzehn | on beş | sayı | Ich warte fünfzehn Minuten. | On beş dakika bekliyorum.
+sechzehn | on altı | sayı | Wir wohnen in Zimmer sechzehn. | On altı numaralı odada kalıyoruz.
+siebzehn | on yedi | sayı | Das Museum öffnet um siebzehn Uhr. | Müze saat on yedide açılıyor.
+achtzehn | on sekiz | sayı | Mit achtzehn darf man Auto fahren. | On sekiz yaşında araba kullanılabilir.
+neunzehn | on dokuz | sayı | Das kostet neunzehn Euro. | Bu on dokuz avro.
+zwanzig | yirmi | sayı | Die Party beginnt um zwanzig Uhr. | Parti saat yirmide başlıyor.
+## Onlar ve büyük sayılar
+null | sıfır | sayı | Meine Nummer beginnt mit null. | Numaram sıfırla başlıyor.
+dreißig | otuz | sayı | Es ist heute dreißig Grad warm. | Bugün hava otuz derece.
+vierzig | kırk | sayı | Mein Vater ist vierzig Jahre alt. | Babam kırk yaşında.
+fünfzig | elli | sayı | Ich habe nur fünfzig Euro. | Sadece elli avrom var.
+sechzig | altmış | sayı | Eine Stunde hat sechzig Minuten. | Bir saatte altmış dakika var.
+siebzig | yetmiş | sayı | Oma wird bald siebzig. | Ninem yakında yetmiş yaşına giriyor.
+achtzig | seksen | sayı | Das Auto fährt achtzig Kilometer pro Stunde. | Araba saatte seksen kilometre gidiyor.
+neunzig | doksan | sayı | Der Film dauert neunzig Minuten. | Film doksan dakika sürüyor.
+hundert | yüz | sayı | Das Haus ist hundert Jahre alt. | Ev yüz yaşında.
+tausend | bin | sayı | Die Stadt hat zehntausend Einwohner. | Şehrin on bin sakini var.
+## Sıra ve miktar
+erste | birinci, ilk | sıfat | Das ist mein erster Tag hier. | Burada ilk günüm.
+zweite | ikinci | sıfat | Wir wohnen im zweiten Stock. | İkinci katta oturuyoruz.
+dritte | üçüncü | sıfat | Nehmen Sie die dritte Straße links. | Soldan üçüncü sokağa girin.
+die Zahl (die Zahlen) | sayı, rakam | isim (d) | Sieben ist meine Lieblingszahl. | Yedi en sevdiğim sayı.
+die Nummer (die Nummern) | numara | isim (d) | Welche Nummer hat dein Haus? | Evinin numarası kaç?
+halb | yarım | sıfat | Ich nehme ein halbes Brot. | Yarım ekmek alıyorum.
+das Viertel (die Viertel) | çeyrek; semt | isim (o) | Es ist Viertel nach drei. | Saat üçü çeyrek geçiyor.
+die Hälfte (die Hälften) | yarı, yarısı | isim (d) | Die Hälfte der Klasse ist krank. | Sınıfın yarısı hasta.
+die Million (die Millionen) | milyon | isim (d) | Wien hat fast zwei Millionen Einwohner. | Viyana'nın neredeyse iki milyon sakini var.
+einmal | bir kez | zarf | Ich gehe einmal pro Woche schwimmen. | Haftada bir kez yüzmeye gidiyorum.
+## Saat
+die Uhrzeit (die Uhrzeiten) | saat (zaman olarak) | isim (d) | Welche Uhrzeit passt dir? | Hangi saat sana uyar?
+die Stunde (die Stunden) | saat (süre); ders saati | isim (d) | Ich arbeite acht Stunden am Tag. | Günde sekiz saat çalışıyorum.
+die Minute (die Minuten) | dakika | isim (d) | Warte bitte fünf Minuten. | Lütfen beş dakika bekle.
+die Sekunde (die Sekunden) | saniye | isim (d) | Einen Moment, nur eine Sekunde! | Bir dakika, sadece bir saniye!
+wie spät ist es? | saat kaç? | ifade | Entschuldigung, wie spät ist es? | Affedersiniz, saat kaç?
+um | saat …'de; etrafında | edat | Der Film beginnt um acht. | Film sekizde başlıyor.
+nach | geçe (saatte); …'e, …'a; sonra | edat | Es ist zehn nach vier. | Saat dördü on geçiyor.
+vor | kala (saatte); önünde; önce | edat | Es ist fünf vor zwölf. | Saat on ikiye beş var.
+pünktlich | dakik, tam zamanında | sıfat | Der Zug ist heute pünktlich. | Tren bugün zamanında.
+spät | geç | sıfat | Es ist schon spät. | Saat epey geç oldu.
+## Günün bölümleri
+der Morgen (die Morgen) | sabah | isim (e) | Am Morgen trinke ich Kaffee. | Sabahları kahve içerim.
+der Vormittag (die Vormittage) | öğleden önce | isim (e) | Am Vormittag habe ich Unterricht. | Öğleden önce dersim var.
+der Mittag (die Mittage) | öğle | isim (e) | Zu Mittag esse ich in der Kantine. | Öğlen yemekhanede yerim.
+der Nachmittag (die Nachmittage) | öğleden sonra | isim (e) | Am Nachmittag gehe ich spazieren. | Öğleden sonra yürüyüşe çıkarım.
+der Abend (die Abende) | akşam | isim (e) | Am Abend sehe ich fern. | Akşamları televizyon izlerim.
+die Nacht (die Nächte) | gece | isim (d) | In der Nacht ist es hier ruhig. | Gece burası sessiz.
+früh | erken | sıfat | Ich stehe früh auf. | Erken kalkarım.
+heute | bugün | zarf | Heute ist Freitag. | Bugün cuma.
+morgen | yarın | zarf | Morgen habe ich frei. | Yarın izinliyim.
+gestern | dün | zarf | Gestern war ich im Kino. | Dün sinemadaydım.
+## Haftanın günleri
+der Montag (die Montage) | pazartesi | isim (e) | Am Montag beginnt der Kurs. | Kurs pazartesi başlıyor.
+der Dienstag (die Dienstage) | salı | isim (e) | Am Dienstag gehe ich zum Arzt. | Salı günü doktora gidiyorum.
+der Mittwoch (die Mittwoche) | çarşamba | isim (e) | Mittwochs spiele ich Tennis. | Çarşambaları tenis oynarım.
+der Donnerstag (die Donnerstage) | perşembe | isim (e) | Wir treffen uns am Donnerstag. | Perşembe günü buluşuyoruz.
+der Freitag (die Freitage) | cuma | isim (e) | Am Freitag gehen wir tanzen. | Cuma günü dansa gidiyoruz.
+der Samstag (die Samstage) | cumartesi | isim (e) | Am Samstag gehe ich auf den Markt. | Cumartesi pazara gidiyorum.
+der Sonntag (die Sonntage) | pazar (gün) | isim (e) | Am Sonntag sind die Geschäfte zu. | Pazar günü dükkânlar kapalı.
+die Woche (die Wochen) | hafta | isim (d) | Ich habe zwei Wochen Urlaub. | İki hafta iznim var.
+das Wochenende (die Wochenenden) | hafta sonu | isim (o) | Was machst du am Wochenende? | Hafta sonu ne yapıyorsun?
+der Tag (die Tage) | gün | isim (e) | Das war ein schöner Tag. | Güzel bir gündü.
+## Aylar ve takvim
+der Januar | ocak (Avusturya'da: der Jänner) | isim (e) | Im Januar ist es sehr kalt. | Ocakta hava çok soğuk.
+der Februar | şubat | isim (e) | Im Februar ist Karneval. | Şubatta karnaval var.
+der März | mart | isim (e) | Mein Geburtstag ist im März. | Doğum günüm martta.
+der April | nisan | isim (e) | Im April regnet es oft. | Nisanda sık yağmur yağar.
+der Mai | mayıs | isim (e) | Im Mai blühen die Bäume. | Mayısta ağaçlar çiçek açar.
+der Juni | haziran | isim (e) | Im Juni sind die Tage lang. | Haziranda günler uzundur.
+der Monat (die Monate) | ay (takvim) | isim (e) | Ich bleibe einen Monat in Berlin. | Berlin'de bir ay kalıyorum.
+das Jahr (die Jahre) | yıl | isim (o) | Ich lerne seit zwei Jahren Deutsch. | İki yıldır Almanca öğreniyorum.
+das Datum (die Daten) | tarih (gün) | isim (o) | Welches Datum ist heute? | Bugün ayın kaçı?
+der Kalender (die Kalender) | takvim | isim (e) | Ich schreibe den Termin in den Kalender. | Randevuyu takvime yazıyorum.
+## Yaz ayları ve mevsimler
+der Juli | temmuz | isim (e) | Im Juli fahren wir ans Meer. | Temmuzda denize gidiyoruz.
+der August | ağustos | isim (e) | Im August ist es sehr heiß. | Ağustosta hava çok sıcak.
+der September | eylül | isim (e) | Im September beginnt die Schule. | Eylülde okul başlıyor.
+der Oktober | ekim | isim (e) | Im Oktober ist das Oktoberfest. | Ekimde Oktoberfest var.
+der November | kasım | isim (e) | Im November ist es oft neblig. | Kasımda sık sık sisli olur.
+der Dezember | aralık | isim (e) | Im Dezember gibt es Weihnachtsmärkte. | Aralıkta Noel pazarları kurulur.
+der Frühling (die Frühlinge) | ilkbahar | isim (e) | Im Frühling ist alles grün. | İlkbaharda her yer yeşildir.
+der Sommer (die Sommer) | yaz | isim (e) | Im Sommer gehen wir oft baden. | Yazın sık sık yüzmeye gideriz.
+der Herbst (die Herbste) | sonbahar | isim (e) | Im Herbst fallen die Blätter. | Sonbaharda yapraklar düşer.
+der Winter (die Winter) | kış | isim (e) | Im Winter fahren wir Ski. | Kışın kayak yaparız.
+## Ne sıklıkla, ne zaman
+immer | her zaman | zarf | Sie kommt immer pünktlich. | Her zaman zamanında gelir.
+oft | sık sık | zarf | Wir gehen oft ins Café. | Sık sık kafeye gideriz.
+manchmal | bazen | zarf | Manchmal koche ich türkisch. | Bazen Türk yemeği pişiririm.
+nie | asla, hiç | zarf | Ich trinke nie Alkohol. | Hiç alkol içmem.
+selten | nadiren | zarf | Wir sehen uns leider selten. | Maalesef nadiren görüşüyoruz.
+jetzt | şimdi | zarf | Ich habe jetzt keine Zeit. | Şimdi vaktim yok.
+bald | yakında | zarf | Der Bus kommt bald. | Otobüs birazdan gelir.
+später | daha sonra | zarf | Ich rufe dich später an. | Seni sonra ararım.
+schon | zaten, çoktan; bile | zarf | Bist du schon fertig? | Bitirdin mi bile?
+noch | hâlâ; daha | zarf | Ich bin noch im Büro. | Hâlâ ofisteyim.
+## Zaman ifadeleri
+die Zeit (die Zeiten) | zaman, vakit | isim (d) | Hast du heute Zeit? | Bugün vaktin var mı?
+der Termin (die Termine) | randevu | isim (e) | Ich habe einen Termin beim Arzt. | Doktordan randevum var.
+dauern | sürmek (zaman) | fiil | Die Fahrt dauert zwei Stunden. | Yolculuk iki saat sürüyor.
+beginnen (begann, begonnen) | başlamak | fiil · düzensiz | Der Unterricht beginnt um neun. | Ders dokuzda başlıyor.
+aufhören | bitmek; bırakmak | fiil | Der Regen hört gleich auf. | Yağmur birazdan diner.
+letzte | son; geçen | sıfat | Letzte Woche war ich in Salzburg. | Geçen hafta Salzburg'daydım.
+nächste | gelecek, bir sonraki | sıfat | Nächstes Jahr fliegen wir nach Izmir. | Seneye İzmir'e uçuyoruz.
+seit | …'den beri | edat | Ich wohne seit drei Jahren hier. | Üç yıldır burada oturuyorum.
+bis | …'e kadar | edat | Der Laden ist bis acht Uhr offen. | Dükkân saat sekize kadar açık.
+übermorgen | öbür gün | zarf | Übermorgen fliegen wir nach Hause. | Öbür gün eve uçuyoruz.
