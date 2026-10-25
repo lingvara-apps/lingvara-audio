@@ -1,0 +1,111 @@
+# UNIT: Philosophy and ethics | Branches of philosophy, moral theories, ethical debates
+## Branches of philosophy
+varlık felsefesi | ontology | isim | Varlık felsefesi, var olmanın ne anlama geldiğini ve nelerin gerçekten var olduğunu sorgular. | Ontology asks what it means to exist and which things really exist.
+bilgi felsefesi | epistemology | isim | Bilgi felsefesi, neyi nasıl bilebileceğimizi ve bilginin sınırlarını inceler. | Epistemology examines what we can know, how we can know it and the limits of knowledge.
+mantık | logic | isim | Mantık, doğru akıl yürütmenin kurallarını ve geçerli çıkarımın koşullarını araştırır. | Logic investigates the rules of correct reasoning and the conditions of valid inference.
+metafizik | metaphysics | isim | Ruhun ölümsüz olup olmadığı sorusu, metafiziğin en eski sorularından biridir. | The question of whether the soul is immortal is one of the oldest questions of metaphysics.
+ahlak felsefesi | moral philosophy | isim | Ahlak felsefesi, iyi ile kötüyü neye göre ayırt ettiğimizi sistemli biçimde tartışır. | Moral philosophy systematically discusses on what basis we distinguish good from evil.
+dil felsefesi | philosophy of language | isim | Dil felsefesi, sözcüklerin dünyadaki nesnelerle nasıl bir ilişki kurduğunu araştırır. | The philosophy of language investigates how words relate to objects in the world.
+bilim felsefesi | philosophy of science | isim | Bilim felsefesi, bir kuramı bilimsel kılan şeyin ne olduğunu sorgular. | The philosophy of science asks what it is that makes a theory scientific.
+zihin felsefesi | philosophy of mind | isim | Zihin felsefesinin temel sorusu, bilincin beyindeki fiziksel süreçlerle nasıl ilişkili olduğudur. | The basic question of the philosophy of mind is how consciousness relates to physical processes in the brain.
+fenomenoloji | phenomenology | isim | Fenomenoloji, şeylerin bilince nasıl göründüğünü önyargılardan arınmış bir gözle betimlemeye çalışır. | Phenomenology tries to describe how things appear to consciousness with an eye free of preconceptions.
+diyalektik | dialectic(s) | isim | Hegel'in diyalektiğinde her düşünce, karşıtıyla çatışarak daha yüksek bir sentezde birleşir. | In Hegel's dialectic, each idea clashes with its opposite and merges with it in a higher synthesis.
+## Key concepts
+töz | substance (philosophical) | isim | Spinoza'ya göre evrende yalnızca tek bir töz vardır ve her şey onun bir görünümüdür. | According to Spinoza, there is only one substance in the universe, and everything is an aspect of it.
+öz | essence | isim | Varoluşçulara göre insanın önceden belirlenmiş bir özü yoktur, onu kendi seçimleriyle oluşturur. | According to the existentialists, human beings have no predetermined essence but create it through their own choices.
+varoluş | existence | isim | Sartre, ünlü konferansında insanda varoluşun özden önce geldiğini savunur. | In his famous lecture, Sartre argues that in human beings existence precedes essence.
+bilinç | consciousness | isim | Bir makinenin gerçekten bilince sahip olup olamayacağı, günümüzün en çok tartışılan sorularından biri. | Whether a machine can really have consciousness is one of the most debated questions of our day.
+özgür irade | free will | isim | Bütün kararlarımız beynimizdeki kimyasal süreçlerle belirleniyorsa özgür iradeden söz edebilir miyiz? | If all our decisions are determined by chemical processes in the brain, can we speak of free will?
+belirlenimcilik | determinism | isim | Belirlenimcilik, her olayın kendinden önceki nedenlerin zorunlu bir sonucu olduğunu öne sürer. | Determinism claims that every event is the necessary result of the causes that came before it.
+sezgi | intuition | isim | Bazı düşünürler, ahlaki doğruları akıl yürütmeyle değil sezgiyle kavradığımızı savunur. | Some thinkers argue that we grasp moral truths through intuition rather than reasoning.
+önsel | a priori | sıfat | Matematiksel önermeler, deneyimden bağımsız olarak bilinebildikleri için önsel bilgi sayılır. | Mathematical propositions count as a priori knowledge, because they can be known independently of experience.
+sonsal | a posteriori | sıfat | Suyun yüz derecede kaynadığı bilgisi, gözleme dayandığı için sonsal bir bilgidir. | The knowledge that water boils at a hundred degrees is a posteriori, because it is based on observation.
+hakikat | truth (philosophical) | isim | Sokrates, hakikati bulmak için insanlarla sokakta saatlerce tartışmaktan çekinmezdi. | Socrates did not hesitate to argue with people in the street for hours in order to find the truth.
+## Schools of thought
+akılcılık | rationalism | isim | Akılcılık, gerçek bilginin duyulardan değil akıldan kaynaklandığını savunur. | Rationalism holds that true knowledge comes from reason rather than from the senses.
+deneycilik | empiricism | isim | Deneycilik akımına göre bütün bilgilerimiz eninde sonunda deneyime dayanır. | According to empiricism, all our knowledge is ultimately based on experience.
+idealizm | idealism | isim | İdealizm, gerçekliğin temelinde maddenin değil düşüncenin bulunduğunu öne sürer. | Idealism claims that thought, not matter, lies at the foundation of reality.
+maddecilik | materialism | isim | Maddecilik, zihin de dahil her şeyin sonuçta maddi süreçlerle açıklanabileceğini savunur. | Materialism holds that everything, including the mind, can ultimately be explained by material processes.
+varoluşçuluk | existentialism | isim | Varoluşçuluk, savaş sonrası kuşağın yalnızlık ve anlam arayışını derinden etkiledi. | Existentialism deeply influenced the post-war generation's loneliness and search for meaning.
+şüphecilik | scepticism | isim | Felsefi şüphecilik, kesin bilgiye ulaşmanın mümkün olup olmadığını sorgular. | Philosophical scepticism questions whether it is possible to attain certain knowledge.
+stoacılık | Stoicism | isim | Stoacılık, hayatta değiştiremeyeceğimiz şeyleri sükûnetle kabul etmemizi öğütler. | Stoicism advises us to accept calmly the things in life that we cannot change.
+nihilizm | nihilism | isim | Nihilizm, hayatın nesnel bir anlamı ya da değeri olmadığını ileri sürer. | Nihilism claims that life has no objective meaning or value.
+hümanizm | humanism | isim | Rönesans hümanizmi, insanı ve onun yaratıcı gücünü düşüncenin merkezine yerleştirdi. | Renaissance humanism placed the human being and human creativity at the centre of thought.
+pozitivizm | positivism | isim | Pozitivizm, yalnızca bilimsel yöntemle doğrulanabilen bilginin geçerli olduğunu savunur. | Positivism holds that only knowledge that can be verified by the scientific method is valid.
+## Moral theories
+erdem etiği | virtue ethics | isim | Erdem etiği, "ne yapmalıyım?" sorusu yerine "nasıl bir insan olmalıyım?" sorusunu sorar. | Instead of asking "what should I do?", virtue ethics asks "what kind of person should I be?".
+ödev etiği | deontology; duty ethics | isim | Ödev etiğine göre yalan söylemek, sonuçları ne olursa olsun yanlıştır. | According to duty ethics, lying is wrong whatever its consequences.
+sonuççuluk | consequentialism | isim | Sonuççuluk, bir eylemin doğruluğunu yalnızca yol açtığı sonuçlara göre değerlendirir. | Consequentialism judges the rightness of an action solely by the consequences it leads to.
+yararcılık | utilitarianism | isim | Yararcılık, en çok sayıda insana en büyük mutluluğu sağlayan eylemi doğru kabul eder. | Utilitarianism considers right the action that brings the greatest happiness to the greatest number of people.
+ahlaki görecelik | moral relativism | isim | Ahlaki göreceliğe göre doğru ve yanlış, kültürden kültüre değişen kavramlardır. | According to moral relativism, right and wrong are concepts that vary from culture to culture.
+kategorik buyruk | categorical imperative | isim | Kant'ın kategorik buyruğu, ancak herkes için yasa olmasını isteyebileceğin biçimde davranmanı söyler. | Kant's categorical imperative tells you to act only in a way that you could want to be a law for everyone.
+ahlak yasası | moral law | isim | Kant'a göre ahlak yasası, dışarıdan dayatılmaz; aklın kendisi tarafından konur. | According to Kant, the moral law is not imposed from outside; it is laid down by reason itself.
+mutlak | absolute | sıfat | Bazı düşünürler, her koşulda geçerli mutlak ahlaki kurallar bulunduğunu savunur. | Some thinkers argue that there are absolute moral rules that apply under all circumstances.
+altın kural | the golden rule | isim | "Sana yapılmasını istemediğin şeyi başkasına yapma" ilkesi, altın kural olarak bilinir. | The principle "do not do to others what you would not want done to you" is known as the golden rule.
+hazcılık | hedonism | isim | Hazcılık, hayatın en yüksek amacının haz almak ve acıdan kaçınmak olduğunu öne sürer. | Hedonism claims that the highest aim of life is to seek pleasure and avoid pain.
+## Ethical debates
+ötanazi | euthanasia | isim | Ötanazi, bazı ülkelerde belirli koşullarla yasal olsa da pek çok yerde yasaktır. | Although euthanasia is legal under certain conditions in some countries, it is banned in many places.
+hayvan hakları | animal rights | isim | Hayvan hakları savunucuları, kozmetik ürünlerin hayvanlar üzerinde test edilmesine karşı çıkıyor. | Animal rights advocates oppose the testing of cosmetic products on animals.
+idam cezası | death penalty; capital punishment | isim | İdam cezası, Türkiye'de 2004 yılında anayasadan tamamen çıkarılmıştır. | The death penalty was completely removed from the Turkish constitution in 2004.
+organ bağışı | organ donation | isim | Organ bağışı, bir kişinin ölümünden sonra birden fazla hayatı kurtarmasına imkân tanır. | Organ donation allows a person to save more than one life after their death.
+bilgilendirilmiş onam | informed consent | isim | Klinik araştırmalara katılan herkesten önceden bilgilendirilmiş onam alınması zorunludur. | It is mandatory to obtain informed consent in advance from everyone taking part in clinical research.
+çevre etiği | environmental ethics | isim | Çevre etiği, insanın doğa karşısındaki sorumluluklarını ve gelecek kuşaklara borcunu tartışır. | Environmental ethics discusses humanity's responsibilities towards nature and its debt to future generations.
+ahlaki ikilem | moral dilemma | isim | Hastasının sırrını saklamak ile başkalarını korumak arasında kalan doktor, ağır bir ahlaki ikilem yaşadı. | Caught between keeping her patient's secret and protecting others, the doctor faced a serious moral dilemma.
+gri alan | grey area | isim | Yasalar bu konuda net olmadığı için şirketin uygulaması hukuki bir gri alanda kalıyor. | Because the laws are not clear on this matter, the company's practice falls into a legal grey area.
+mesleki etik | professional ethics | isim | Gazeteciler, kaynaklarını korumayı mesleki etiğin vazgeçilmez bir kuralı olarak görür. | Journalists see protecting their sources as an indispensable rule of professional ethics.
+yapay zekâ etiği | AI ethics | isim | Yapay zekâ etiği, makinelerin verdiği kararlardan kimin sorumlu olacağını sorguluyor. | AI ethics questions who will be responsible for the decisions made by machines.
+## Virtues and vices
+erdem | virtue | isim | Aristoteles'e göre erdem, iki aşırı uç arasındaki doğru ortayı bulmaktır. | According to Aristotle, virtue consists in finding the right mean between two extremes.
+ölçülülük | temperance; moderation | isim | Antik filozoflar ölçülülüğü, insanın arzularını akla tabi kılması olarak tanımlar. | Ancient philosophers defined temperance as subordinating one's desires to reason.
+bilgelik | wisdom | isim | Bilgelik, yalnızca çok şey bilmek değil, bilgiyi doğru zamanda doğru biçimde kullanabilmektir. | Wisdom is not just knowing a great deal, but being able to use knowledge in the right way at the right time.
+açgözlülük | greed | isim | Masaldaki adam, açgözlülüğü yüzünden altın yumurtlayan tavuğunu da kaybetti. | The man in the fairy tale lost his goose that laid golden eggs because of his greed.
+haset | envy (malicious) | isim | Komşusunun başarısını bir türlü hazmedemeyen adamın içi hasetle doluydu. | The man, who simply could not stomach his neighbour's success, was full of envy.
+riyakârlık | hypocrisy | isim | Halk hikâyeleri, dindar görünüp kötülük yapanların riyakârlığını sık sık alaya alır. | Folk tales often mock the hypocrisy of those who appear pious but do evil.
+fazilet | virtue; moral excellence | isim | Eski metinlerde ilim ve fazilet, iyi bir yöneticinin en önemli nitelikleri olarak sayılır. | In old texts, learning and virtue are listed as the most important qualities of a good ruler.
+yüce gönüllülük | magnanimity | isim | Galip komutanın yenilen düşmana gösterdiği yüce gönüllülük, tarihe geçti. | The magnanimity shown by the victorious commander towards the defeated enemy went down in history.
+kötülük | evil; wickedness | isim | Filozoflar, her şeye gücü yeten iyi bir yaratıcı varsa dünyada neden kötülük olduğunu tartışmıştır. | Philosophers have debated why there is evil in the world if there is an all-powerful, good creator.
+ahlaki çöküş | moral decay | isim | Tarihçi, imparatorluğun yıkılmasını ekonomik nedenlerden çok ahlaki çöküşe bağlıyor. | The historian attributes the fall of the empire more to moral decay than to economic causes.
+## Logic and argument
+kıyas | syllogism | isim | "Bütün insanlar ölümlüdür; Sokrates insandır; öyleyse Sokrates ölümlüdür" klasik bir kıyas örneğidir. | "All men are mortal; Socrates is a man; therefore Socrates is mortal" is a classic example of a syllogism.
+paradoks | paradox | isim | "Bu cümle yanlıştır" ifadesi, doğru da yanlış da olamayan ünlü bir paradokstur. | The sentence "this sentence is false" is a famous paradox that can be neither true nor false.
+totoloji | tautology | isim | "Ya yağmur yağacak ya da yağmayacak" demek, her durumda doğru olan bir totolojidir. | Saying "either it will rain or it won't" is a tautology that is true in every case.
+aksiyom | axiom | isim | Öklid geometrisi, kanıtlanmadan doğru kabul edilen birkaç basit aksiyom üzerine kuruludur. | Euclidean geometry is built on a few simple axioms that are accepted as true without proof.
+çelişmezlik ilkesi | law of non-contradiction | isim | Çelişmezlik ilkesine göre bir şey aynı anda ve aynı bakımdan hem var hem yok olamaz. | According to the law of non-contradiction, something cannot both be and not be at the same time and in the same respect.
+düşünce deneyi | thought experiment | isim | Filozof, kişisel kimlik sorununu tartışmak için ilginç bir düşünce deneyi tasarladı. | The philosopher devised an interesting thought experiment to discuss the problem of personal identity.
+karşı örnek | counterexample | isim | Tek bir karşı örnek bile, "bütün kuğular beyazdır" genellemesini çürütmeye yeter. | A single counterexample is enough to refute the generalisation "all swans are white".
+temel varsayım | basic assumption | isim | Yazarın bütün kuramı, insanın doğası gereği bencil olduğu temel varsayımına dayanıyor. | The author's whole theory rests on the basic assumption that human beings are selfish by nature.
+mantıksal tutarlılık | logical consistency | isim | Bir felsefi sistemin değeri, büyük ölçüde mantıksal tutarlılığıyla ölçülür. | The value of a philosophical system is measured largely by its logical consistency.
+mantık hatası | logical error; fallacy | isim | Tartışmanın ortasında rakibinin yaptığı mantık hatasını hemen fark edip sakince açıkladı. | In the middle of the debate, she immediately noticed her opponent's logical error and calmly explained it.
+## Existence and meaning
+hayatın anlamı | the meaning of life | isim | Hayatın anlamı sorusu, insanlığın yüzyıllardır yanıt aradığı en temel sorudur. | The question of the meaning of life is the most fundamental question humanity has sought to answer for centuries.
+ölümlülük | mortality | isim | İnsanın kendi ölümlülüğünün farkında olması, felsefenin başlangıç noktalarından biridir. | Human awareness of one's own mortality is one of the starting points of philosophy.
+absürt | absurd | sıfat | Camus'ye göre insan, anlam arayışıyla sessiz evren arasındaki absürt durumun içindedir. | According to Camus, human beings are caught in the absurd situation between their search for meaning and a silent universe.
+yazgı | destiny; fate | isim | Antik tragedyalarda kahraman, ne yaparsa yapsın yazgısından kaçamaz. | In ancient tragedies, the hero cannot escape his destiny whatever he does.
+hiçlik | nothingness | isim | Şair, yalnızlık gecelerinde içine düştüğü hiçlik duygusunu dizelerine dökmüş. | The poet poured into his verse the sense of nothingness he fell into during lonely nights.
+sonsuzluk | infinity; eternity | isim | Gece gökyüzüne bakarken insan, evrenin sonsuzluğu karşısında kendini küçücük hissediyor. | Looking up at the night sky, one feels tiny before the infinity of the universe.
+ölümsüzlük | immortality | isim | Gılgamış Destanı, kahramanın ölümsüzlüğü arayışını anlatan en eski metinlerden biridir. | The Epic of Gilgamesh is one of the oldest texts recounting the hero's search for immortality.
+otantiklik | authenticity | isim | Varoluşçu düşünürler, başkalarının beklentilerine göre değil kendi seçimlerine göre yaşamayı otantiklik olarak tanımlar. | Existentialist thinkers define authenticity as living according to one's own choices rather than others' expectations.
+kendini gerçekleştirme | self-actualisation; self-fulfilment | isim | Ona göre kendini gerçekleştirme, yeteneklerini sonuna kadar geliştirip anlamlı bir iz bırakmaktı. | For him, self-fulfilment meant developing his talents to the full and leaving a meaningful mark.
+varoluşsal | existential | sıfat | Orta yaşa gelince işini bırakıp köye yerleşmesi, yaşadığı derin varoluşsal sorgulamanın sonucuydu. | His leaving his job and settling in a village in middle age was the result of a deep existential questioning.
+## Ideas from the history of philosophy
+ilk neden | first cause | isim | Aristoteles, evrendeki bütün hareketin kendisi hareket etmeyen bir ilk nedene dayandığını savundu. | Aristotle argued that all motion in the universe depends on a first cause which is itself unmoved.
+idealar dünyası | world of Forms (Plato) | isim | Platon'a göre duyularla algıladığımız nesneler, idealar dünyasındaki kusursuz örneklerin kopyalarıdır. | According to Plato, the objects we perceive with our senses are copies of perfect models in the world of Forms.
+mağara alegorisi | allegory of the cave | isim | Mağara alegorisinde zincirlenmiş insanlar, duvardaki gölgeleri gerçeğin kendisi sanır. | In the allegory of the cave, chained people mistake the shadows on the wall for reality itself.
+boş levha | blank slate; tabula rasa | isim | Locke'a göre insan zihni doğduğunda boş bir levhadır ve her şeyi deneyimle öğrenir. | According to Locke, the human mind is a blank slate at birth and learns everything through experience.
+doğa durumu | state of nature | isim | Hobbes, devletin olmadığı doğa durumunda herkesin herkese karşı savaşacağını düşünüyordu. | Hobbes believed that in the state of nature, without a state, there would be a war of all against all.
+erdemli şehir | the virtuous city (al-Farabi) | isim | Farabi, erdemli şehirde yöneticinin hem bilge hem de ahlaklı olması gerektiğini yazmıştır. | Al-Farabi wrote that in the virtuous city the ruler must be both wise and moral.
+Aydınlanma | the Enlightenment | isim | Aydınlanma düşünürleri, aklın ve bilimin insanlığı özgürleştireceğine inanıyordu. | Enlightenment thinkers believed that reason and science would set humanity free.
+skolastik felsefe | scholasticism | isim | Orta Çağ'ın skolastik felsefesi, inanç ile aklı uzlaştırmaya çalıştı. | The scholastic philosophy of the Middle Ages tried to reconcile faith and reason.
+sofist | sophist | isim | Antik Atina'da sofistler, para karşılığında gençlere ikna etme sanatını öğretirdi. | In ancient Athens, the sophists taught young people the art of persuasion in return for money.
+Sokratik yöntem | Socratic method | isim | Öğretmen, Sokratik yöntemle sorular sorarak öğrencilerin kendi yanlışlarını bulmalarını sağladı. | Using the Socratic method, the teacher asked questions that led the students to find their own mistakes.
+## The language of morality
+ahlaki | moral; ethical | sıfat | Şirketin yalnızca yasal değil ahlaki sorumlulukları da bulunduğunu unutmamak gerekir. | It must not be forgotten that the company has not only legal but also moral responsibilities.
+ahlak dışı | immoral | sıfat | Yoksulların çaresizliğinden kâr sağlamak, yasal olsa bile ahlak dışı bir davranıştır. | Profiting from the desperation of the poor is immoral behaviour, even if it is legal.
+hakkaniyet | equity; fairness | isim | Mirasın paylaşımında hakkaniyet gözetilmediğini düşünen kardeşler, mahkemeye başvurdu. | The siblings, who felt that fairness had not been observed in dividing the inheritance, went to court.
+kınamak | to condemn | fiil | Dernek, sokak hayvanlarına yapılan şiddeti sert bir dille kınadı. | The association condemned the violence against stray animals in strong terms.
+aklamak | to clear (one's name); to exonerate | fiil | Yıllar sonra bulunan yeni deliller, haksız yere suçlanan adamı tamamen akladı. | New evidence found years later completely exonerated the wrongly accused man.
+haklı çıkarmak | to justify; to vindicate | ifade | Amaç ne kadar yüce olursa olsun, masum insanlara verilen zararı haklı çıkaramaz. | However noble the aim, it cannot justify the harm done to innocent people.
+ilkeli | principled | sıfat | İlkeli bir gazeteci olarak hiçbir baskı karşısında haberinden vazgeçmedi. | As a principled journalist, she did not give up her story in the face of any pressure.
+vicdan azabı | pangs of conscience; remorse | isim | Arkadaşına yalan söylediği için günlerce vicdan azabı çekti. | He suffered pangs of conscience for days because he had lied to his friend.
+sorumluluk üstlenmek | to take responsibility | ifade | Takım kaptanı, kaybedilen maçın sorumluluğunu tek başına üstlendi. | The team captain took sole responsibility for the lost match.
+değerler sistemi | value system | isim | Her bireyin değerler sistemi, büyük ölçüde ailesi ve yetiştiği çevre tarafından şekillenir. | Each individual's value system is largely shaped by their family and the environment they grew up in.
