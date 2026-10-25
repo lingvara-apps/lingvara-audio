@@ -1,0 +1,111 @@
+# UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+## Mahkeme ve yargılama
+a audiência | duruşma | isim (d) | A audiência de conciliação foi marcada para o mês que vem. | Uzlaştırma duruşması gelecek aya ayarlandı.
+a instância | derece (mahkeme) | isim (d) | O réu foi absolvido em primeira instância, mas o promotor recorreu. | Sanık ilk derecede beraat etti ama savcı itiraz etti.
+o recurso | itiraz, kanun yolu | isim (e) | A defesa entrou com recurso no Tribunal de Justiça do estado. | Savunma eyalet adalet mahkemesine itiraz başvurusu yaptı.
+o processo judicial | dava | isim (e) | O processo judicial se arrastou por quase dez anos. | Dava neredeyse on yıl boyunca sürüncemede kaldı.
+a sentença | hüküm, karar (ilk derece) | isim (d) | A juíza leu a sentença diante de uma sala lotada. | Hâkim kararı tıklım tıklım dolu salonda okudu.
+o acórdão | üst mahkeme kararı | isim (e) | O acórdão do tribunal confirmou a decisão de primeira instância. | Üst mahkeme kararı ilk derece kararını onadı.
+a jurisprudência | içtihat | isim (d) | A jurisprudência sobre esse tema mudou bastante nos últimos anos. | Bu konudaki içtihat son yıllarda epey değişti.
+o trânsito em julgado | kesinleşme | isim (e) | A pena só pode ser executada após o trânsito em julgado. | Ceza ancak karar kesinleştikten sonra infaz edilebilir.
+a vara | daire (mahkeme birimi) | isim (d) | O caso tramita na segunda vara cível de Belo Horizonte. | Dava Belo Horizonte ikinci hukuk dairesinde görülüyor.
+o júri popular | halk jürisi | isim (e) | Crimes contra a vida são julgados pelo júri popular no Brasil. | Brezilya'da hayata karşı suçlar halk jürisi tarafından yargılanır.
+## Taraflar ve hukuk meslekleri
+o réu | sanık, davalı | isim (e) | O réu permaneceu em silêncio durante todo o interrogatório. | Sanık sorgu boyunca sessiz kaldı.
+o autor da ação | davacı | isim (e) | O autor da ação pede indenização por danos morais. | Davacı manevi tazminat talep ediyor.
+o promotor | savcı | isim (e) | O promotor pediu a condenação dos três acusados. | Savcı üç sanığın mahkûmiyetini istedi.
+o defensor público | kamu avukatı | isim (e) | Quem não pode pagar advogado tem direito a um defensor público. | Avukat tutamayan herkesin kamu avukatı hakkı vardır.
+o desembargador | istinaf hâkimi | isim (e) | O desembargador votou pela redução da pena. | İstinaf hâkimi cezanın indirilmesi yönünde oy kullandı.
+a testemunha | tanık | isim (d) | A principal testemunha não compareceu ao julgamento. | Baş tanık duruşmaya gelmedi.
+o perito | bilirkişi | isim (e) | O perito confirmou que a assinatura no documento era falsa. | Bilirkişi belgedeki imzanın sahte olduğunu doğruladı.
+o tabelião | noter | isim (e) | O tabelião reconheceu a firma do vendedor no cartório. | Noter satıcının imzasını noterlikte onayladı.
+o oficial de justiça | icra memuru, mübaşir | isim (e) | O oficial de justiça entregou a intimação pessoalmente. | Mübaşir tebligatı bizzat teslim etti.
+o litigante | dava tarafı | isim (e) | Cada litigante apresentou sua versão dos fatos ao juiz. | Her dava tarafı olayların kendi versiyonunu hâkime sundu.
+## Ceza hukuku
+o inquérito policial | polis soruşturması | isim (e) | O inquérito policial foi concluído e enviado ao Ministério Público. | Polis soruşturması tamamlanıp savcılığa gönderildi.
+a denúncia | iddianame; ihbar | isim (d) | O juiz aceitou a denúncia contra os ex-diretores da empresa. | Hâkim şirketin eski müdürlerine yönelik iddianameyi kabul etti.
+o flagrante | suçüstü | isim (e) | O ladrão foi preso em flagrante dentro da loja. | Hırsız mağazanın içinde suçüstü yakalandı.
+a prisão preventiva | tutukluluk | isim (d) | O juiz decretou a prisão preventiva do suspeito. | Hâkim şüphelinin tutuklanmasına karar verdi.
+a fiança | kefalet | isim (d) | Ele pagou fiança e vai responder ao processo em liberdade. | Kefalet ödedi ve davaya tutuksuz olarak devam edecek.
+o dolo | kast | isim (e) | A acusação precisa provar que houve dolo, e não apenas descuido. | İddia makamı yalnızca dikkatsizlik değil kast olduğunu kanıtlamalı.
+a imputabilidade | cezai ehliyet | isim (d) | O laudo psiquiátrico questionou a imputabilidade do acusado. | Psikiyatri raporu sanığın cezai ehliyetini sorguladı.
+a legítima defesa | meşru müdafaa | isim (d) | O tribunal reconheceu que ele agiu em legítima defesa. | Mahkeme onun meşru müdafaa ile hareket ettiğini kabul etti.
+a reincidência | tekerrür, suçu tekrarlama | isim (d) | A reincidência pesou no cálculo da pena. | Suçun tekrarlanması ceza hesabında ağır bastı.
+a delação premiada | itirafçılık (ödüllü) | isim (d) | Graças à delação premiada, a polícia identificou outros envolvidos. | İtirafçılık sayesinde polis diğer ilgilileri tespit etti.
+## Suç türleri
+o estelionato | dolandırıcılık | isim (e) | Ele foi condenado por estelionato após vender terrenos inexistentes. | Var olmayan arsaları sattıktan sonra dolandırıcılıktan mahkûm oldu.
+o peculato | zimmete para geçirme | isim (e) | O servidor respondeu por peculato ao desviar verbas da prefeitura. | Memur belediye fonlarını saptırdığı için zimmetten yargılandı.
+a lavagem de dinheiro | kara para aklama | isim (d) | A quadrilha usava lojas de fachada para lavagem de dinheiro. | Çete kara para aklamak için paravan dükkânlar kullanıyordu.
+o suborno | rüşvet | isim (e) | O fiscal recusou o suborno e denunciou o empresário. | Müfettiş rüşveti reddedip işadamını ihbar etti.
+a extorsão | şantaj, haraç | isim (d) | Os criminosos praticavam extorsão contra comerciantes do bairro. | Suçlular mahalledeki esnafa haraç kesiyordu.
+o latrocínio | gasp sırasında öldürme | isim (e) | O latrocínio é um dos crimes com pena mais alta no código. | Gasp sırasında öldürme kanunda cezası en ağır suçlardan biri.
+a falsidade ideológica | resmî belgede sahtecilik | isim (d) | Declarar renda falsa no documento configura falsidade ideológica. | Belgede sahte gelir beyan etmek resmî belgede sahtecilik sayılır.
+o homicídio culposo | taksirle öldürme | isim (e) | O motorista embriagado foi indiciado por homicídio culposo. | Sarhoş sürücü taksirle öldürmeden suçlandı.
+a calúnia | iftira | isim (d) | Acusar alguém falsamente de um crime é calúnia. | Birini haksız yere bir suçla itham etmek iftiradır.
+o contrabando | kaçakçılık | isim (e) | A polícia federal apreendeu cigarros de contrabando na fronteira. | Federal polis sınırda kaçak sigara ele geçirdi.
+## Medeni hukuk
+a ação civil | hukuk davası | isim (d) | Os moradores moveram uma ação civil contra a mineradora. | Bölge sakinleri maden şirketine karşı bir hukuk davası açtı.
+o ressarcimento | zararın tazmini, geri ödeme | isim (e) | A companhia aérea foi condenada ao ressarcimento das despesas da passageira. | Havayolu şirketi yolcunun masraflarını tazmin etmeye mahkûm edildi.
+os danos morais | manevi zarar | isim (çoğul) | A juíza fixou os danos morais em vinte mil reais. | Hâkim manevi zararı yirmi bin real olarak belirledi.
+a responsabilidade civil | hukuki sorumluluk | isim (d) | A responsabilidade civil do hospital ficou comprovada no laudo. | Hastanenin hukuki sorumluluğu raporla kanıtlandı.
+a usucapião | zamanaşımıyla mülk edinme | isim (d) | Após vinte anos na casa, a família entrou com pedido de usucapião. | Evde yirmi yıl oturduktan sonra aile zamanaşımıyla mülkiyet başvurusu yaptı.
+a prescrição | zamanaşımı | isim (d) | O crime prescreveu, e a prescrição impediu a punição. | Suç zamanaşımına uğradı ve zamanaşımı cezalandırmayı engelledi.
+a penhora | haciz | isim (d) | A justiça determinou a penhora do carro para pagar a dívida. | Mahkeme borcun ödenmesi için arabanın haczine karar verdi.
+a liminar | ihtiyati tedbir kararı | isim (d) | Uma liminar suspendeu a demolição do prédio histórico. | Bir ihtiyati tedbir kararı tarihî binanın yıkımını durdurdu.
+o despejo | tahliye | isim (e) | O inquilino recebeu uma ordem de despejo por falta de pagamento. | Kiracı ödeme yapmadığı için tahliye emri aldı.
+a posse | zilyetlik, fiilî kullanım | isim (d) | A posse não é a mesma coisa que a propriedade do imóvel. | Zilyetlik taşınmazın mülkiyetiyle aynı şey değildir.
+## Aile ve miras hukuku
+o inventário | tereke işlemleri | isim (e) | O inventário do avô demorou três anos para ser concluído. | Dedenin tereke işlemlerinin tamamlanması üç yıl sürdü.
+o herdeiro | mirasçı | isim (e) | Cada herdeiro recebeu uma parte igual do terreno. | Her mirasçı araziden eşit bir pay aldı.
+o espólio | tereke | isim (e) | O espólio inclui duas casas e uma fazenda em Goiás. | Tereke iki ev ve Goiás'ta bir çiftlik içeriyor.
+o testamento | vasiyetname | isim (e) | No testamento, ela deixou a biblioteca para a universidade. | Vasiyetnamesinde kütüphanesini üniversiteye bıraktı.
+a guarda compartilhada | ortak velayet | isim (d) | Depois do divórcio, o casal optou pela guarda compartilhada. | Boşanmadan sonra çift ortak velayeti seçti.
+a pensão alimentícia | nafaka | isim (d) | Ele paga pensão alimentícia aos dois filhos todos os meses. | İki çocuğuna her ay nafaka ödüyor.
+a tutela | vesayet | isim (d) | A tia obteve a tutela do sobrinho órfão. | Teyze öksüz yeğeninin vesayetini aldı.
+a união estável | resmî nikâhsız birliktelik | isim (d) | Eles registraram a união estável em cartório antes de comprar a casa. | Evi almadan önce birlikteliklerini noterde tescil ettirdiler.
+o regime de bens | mal rejimi | isim (e) | Antes do casamento, escolheram o regime de separação total de bens. | Evlilikten önce mal ayrılığı rejimini seçtiler.
+a partilha | paylaştırma (miras, mal) | isim (d) | A partilha dos bens gerou uma briga entre os irmãos. | Malların paylaştırılması kardeşler arasında kavgaya yol açtı.
+## Hukuki belgeler
+a procuração | vekâletname | isim (d) | Assinei uma procuração para minha irmã vender o apartamento. | Kız kardeşim daireyi satabilsin diye bir vekâletname imzaladım.
+a petição inicial | dava dilekçesi | isim (d) | O advogado protocolou a petição inicial no fórum ontem. | Avukat dava dilekçesini dün adliyeye sundu.
+a intimação | tebligat, çağrı | isim (d) | Recebi uma intimação para depor como testemunha. | Tanık olarak ifade vermem için bir çağrı aldım.
+o mandado de segurança | idari işlem iptal başvurusu | isim (e) | Os estudantes impetraram mandado de segurança contra a decisão da reitoria. | Öğrenciler rektörlük kararına karşı iptal başvurusunda bulundu.
+o habeas corpus | habeas corpus, tahliye talebi | isim (e) | A defesa impetrou habeas corpus para soltar o cliente. | Savunma müvekkilini serbest bıraktırmak için habeas corpus başvurusu yaptı.
+o laudo pericial | bilirkişi raporu | isim (e) | O laudo pericial apontou falha na manutenção do elevador. | Bilirkişi raporu asansör bakımında kusur saptadı.
+a certidão negativa | sicil kaydı yok belgesi | isim (d) | Para o concurso, é preciso apresentar certidão negativa criminal. | Sınav için adli sicil kaydı olmadığını gösteren belge sunmak gerekiyor.
+a escritura | tapu senedi (resmî) | isim (d) | Assinamos a escritura da casa no cartório de notas. | Evin tapu senedini noterde imzaladık.
+o boletim de ocorrência | olay tutanağı (polis) | isim (e) | Depois do assalto, fizemos um boletim de ocorrência na delegacia. | Soygundan sonra karakolda olay tutanağı tutturduk.
+o termo de compromisso | taahhütname | isim (e) | Os pais assinaram um termo de compromisso com a escola. | Veliler okulla bir taahhütname imzaladı.
+## Hukuki fiiller
+julgar | yargılamak | fiil | O tribunal vai julgar o caso na próxima semana. | Mahkeme davayı önümüzdeki hafta görecek.
+absolver | beraat ettirmek | fiil | Por falta de provas, o júri decidiu absolver a acusada. | Delil yetersizliğinden jüri sanığı beraat ettirmeye karar verdi.
+condenar | mahkûm etmek | fiil | A justiça condenou a empresa a reparar o dano ambiental. | Mahkeme şirketi çevresel zararı gidermeye mahkûm etti.
+recorrer | itiraz etmek (üst mahkemeye) | fiil | Os advogados vão recorrer da decisão ao Supremo. | Avukatlar karara karşı yüksek mahkemeye başvuracak.
+indiciar | suçlamak (soruşturmada) | fiil | A polícia indiciou o gerente por fraude fiscal. | Polis müdürü vergi kaçakçılığıyla suçladı.
+depor | ifade vermek | fiil · düzensiz | A vizinha vai depor sobre o que viu naquela noite. | Komşu kadın o gece gördükleri hakkında ifade verecek.
+impugnar | itiraz edip geçersizliğini istemek | fiil | O candidato impugnou o resultado da eleição sindical. | Aday sendika seçiminin sonucuna itiraz etti.
+revogar | yürürlükten kaldırmak | fiil | O novo decreto revoga a portaria publicada em março. | Yeni kararname martta yayımlanan yönetmeliği yürürlükten kaldırıyor.
+deferir | kabul etmek (talebi) | fiil | O juiz deferiu o pedido de adiamento da audiência. | Hâkim duruşmanın ertelenmesi talebini kabul etti.
+indeferir | reddetmek (talebi) | fiil | O tribunal indeferiu o pedido de liberdade provisória. | Mahkeme geçici tahliye talebini reddetti.
+## Cezalar ve infaz
+a pena privativa de liberdade | hapis cezası | isim (d) | A lei prevê pena privativa de liberdade de dois a oito anos. | Kanun iki ila sekiz yıl hapis cezası öngörüyor.
+o regime semiaberto | yarı açık cezaevi rejimi | isim (e) | Depois de cumprir parte da pena, ele passou ao regime semiaberto. | Cezasının bir kısmını çektikten sonra yarı açık rejime geçti.
+a liberdade condicional | şartlı tahliye | isim (d) | Ela obteve liberdade condicional por bom comportamento. | İyi hâlden şartlı tahliye aldı.
+a prestação de serviços à comunidade | kamu hizmeti cezası | isim (d) | O jovem foi condenado à prestação de serviços à comunidade. | Genç kamuya yararlı işte çalışma cezasına çarptırıldı.
+a tornozeleira eletrônica | elektronik kelepçe | isim (d) | O condenado cumpre prisão domiciliar com tornozeleira eletrônica. | Hükümlü cezasını elektronik kelepçeyle ev hapsinde çekiyor.
+a atenuante | hafifletici sebep | isim (d) | A confissão espontânea foi considerada uma atenuante. | Kendiliğinden itiraf hafifletici sebep sayıldı.
+a agravante | ağırlaştırıcı sebep | isim (d) | O uso de arma de fogo é uma agravante no crime de roubo. | Ateşli silah kullanımı soygun suçunda ağırlaştırıcı sebeptir.
+o indulto | af (cumhurbaşkanlığı) | isim (e) | O indulto de Natal beneficiou presos com doenças graves. | Noel affı ağır hastalığı olan mahkûmlardan yararlandı.
+a anistia | genel af | isim (d) | A anistia foi aprovada pelo Congresso depois de longo debate. | Genel af uzun bir tartışmanın ardından Kongre'de kabul edildi.
+o sistema prisional | ceza infaz sistemi | isim (e) | O relatório critica a superlotação do sistema prisional. | Rapor ceza infaz sistemindeki aşırı kalabalığı eleştiriyor.
+## Hukuki kalıplar
+nos termos da lei | kanun hükümleri uyarınca | ifade | O contrato será rescindido nos termos da lei vigente. | Sözleşme yürürlükteki kanun hükümleri uyarınca feshedilecek.
+salvo disposição em contrário | aksi kararlaştırılmadıkça | ifade | Salvo disposição em contrário, o prazo é de trinta dias corridos. | Aksi kararlaştırılmadıkça süre otuz takvim günüdür.
+data venia | saygıyla belirtmek gerekir ki (karşı görüşte) | ifade | Data venia, discordo do entendimento adotado pelo colega relator. | Saygıyla belirtmeliyim ki raportör meslektaşın görüşüne katılmıyorum.
+in dubio pro reo | şüpheden sanık yararlanır | ifade | Na dúvida, o juiz aplicou o princípio in dubio pro reo. | Şüphe hâlinde hâkim şüpheden sanık yararlanır ilkesini uyguladı.
+o ônus da prova | ispat yükü | isim (e) | O ônus da prova cabe a quem faz a acusação. | İspat yükü suçlamayı yapana düşer.
+a presunção de inocência | masumiyet karinesi | isim (d) | A presunção de inocência é garantida pela Constituição. | Masumiyet karinesi Anayasa ile güvence altındadır.
+o devido processo legal | hukuka uygun yargılama | isim (e) | Todo cidadão tem direito ao devido processo legal. | Her yurttaşın hukuka uygun yargılanma hakkı vardır.
+a coisa julgada | kesin hüküm | isim (d) | Não se pode discutir de novo uma questão já transformada em coisa julgada. | Kesin hükme bağlanmış bir mesele yeniden tartışılamaz.
+o segredo de justiça | gizlilik kararı (dava) | isim (e) | O processo corre em segredo de justiça para proteger as crianças. | Dava çocukları korumak için gizlilik kararıyla görülüyor.
+a revelia | gıyap | isim (d) | Como não compareceu, o réu foi julgado à revelia. | Duruşmaya gelmediği için sanık gıyabında yargılandı.
