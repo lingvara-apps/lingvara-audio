@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+機械学習 (kikai gakushū) | makine öğrenmesi | isim | 機械学習を使えば、大量のデータから規則性を見つけ出せる。 | Makine öğrenmesiyle büyük verilerden düzenlilikler bulunabilir.
+深層学習 (shinsō gakushū) | derin öğrenme | isim | 深層学習の発展によって、音声認識の精度が飛躍的に向上した。 | Derin öğrenmenin gelişmesiyle ses tanımanın doğruluğu büyük bir sıçrama yaptı.
+生成AI (seisei ēai) | üretken yapay zekâ | isim | 生成AIで作られた画像の著作権をどう扱うかが議論されている。 | Üretken yapay zekâyla yapılan görsellerin telif hakkının nasıl ele alınacağı tartışılıyor.
+大規模言語モデル (daikibo gengo moderu) | büyük dil modeli | isim | 大規模言語モデルは膨大な文章を学習して文を生成する。 | Büyük dil modelleri devasa metinlerden öğrenip cümle üretir.
+学習データ (gakushū dēta) | eğitim verisi | isim | 学習データに偏りがあると、AIの判断にも偏りが生じる。 | Eğitim verisi dengesizse yapay zekânın kararları da yanlı olur.
+汎用人工知能 (han'yō jinkō chinō) | genel yapay zekâ | isim | 汎用人工知能がいつ実現するかについて、専門家の予測は分かれる。 | Genel yapay zekânın ne zaman gerçekleşeceği konusunda uzmanların tahminleri farklı.
+画像認識 (gazō ninshiki) | görüntü tanıma | isim | 画像認識の技術は、医療診断の分野でも活用されている。 | Görüntü tanıma teknolojisi tıbbi teşhiste de kullanılıyor.
+自然言語処理 (shizen gengo shori) | doğal dil işleme | isim | 自然言語処理の進歩で、機械翻訳がかなり自然になった。 | Doğal dil işlemedeki ilerleme sayesinde makine çevirisi epey doğallaştı.
+説明可能性 (setsumei kanōsei) | açıklanabilirlik | isim | 医療に使うAIには、判断の根拠を示す説明可能性が求められる。 | Tıpta kullanılan yapay zekânın kararlarının gerekçesini gösterebilmesi beklenir.
+特異点 (tokuiten) | tekillik (teknolojik) | isim | 機械の知能が人間を超える技術的特異点は、本当に訪れるのだろうか。 | Makine zekâsının insanı aştığı teknolojik tekillik gerçekten gelecek mi?
+## Biyoteknoloji
+遺伝子組み換え (idenshi kumikae) | genetik değişiklik (GDO) | isim | 遺伝子組み換え食品には表示義務が設けられている。 | Genetiği değiştirilmiş gıdalar için etiketleme zorunluluğu var.
+ゲノム編集 (genomu henshū) | genom düzenleme | isim | ゲノム編集の技術で、病気に強い作物が開発された。 | Genom düzenleme teknolojisiyle hastalıklara dayanıklı ürünler geliştirildi.
+塩基配列 (enki hairetsu) | baz dizisi (DNA) | isim | ウイルスの塩基配列が解読され、ワクチンの開発が始まった。 | Virüsün baz dizisi çözülünce aşı geliştirme çalışmaları başladı.
+再生医療 (saisei iryō) | rejeneratif tıp | isim | 再生医療は、失われた組織や臓器の機能を取り戻すことを目指す。 | Rejeneratif tıp kaybedilen doku ve organların işlevini geri kazandırmayı amaçlar.
+幹細胞 (kansaibō) | kök hücre | isim | 幹細胞はさまざまな種類の細胞に分化する能力を持っている。 | Kök hücreler pek çok farklı hücre türüne dönüşebilme yeteneğine sahiptir.
+クローン (kurōn) | klon | isim | 哺乳類のクローンが初めて誕生したとき、世界は大きく揺れた。 | İlk memeli klon doğduğunda dünya büyük bir sarsıntı yaşadı.
+培養 (baiyō) | kültür (hücre/mikroorganizma üretme) | isim | 研究室では皮膚の細胞を培養して、やけどの治療に役立てている。 | Laboratuvarda deri hücreleri üretilip yanık tedavisinde kullanılıyor.
+生命倫理 (seimei rinri) | biyoetik | isim | 受精卵の操作には、生命倫理の観点から慎重な議論が必要だ。 | Döllenmiş yumurtaya müdahale biyoetik açısından dikkatli bir tartışma gerektirir.
+創薬 (sōyaku) | ilaç keşfi ve geliştirme | isim | AIの活用で、創薬にかかる期間が大幅に短縮されつつある。 | Yapay zekâ sayesinde ilaç geliştirme süresi ciddi biçimde kısalıyor.
+微生物 (biseibutsu) | mikroorganizma | isim | 日本酒や味噌づくりには、さまざまな微生物の働きが欠かせない。 | Sake ve miso yapımında çeşitli mikroorganizmaların işlevi vazgeçilmezdir.
+## Enerji
+太陽光発電 (taiyōkō hatsuden) | güneş enerjisinden elektrik üretimi | isim | 住宅の屋根に太陽光発電のパネルを設置する家庭が増えた。 | Evlerin çatısına güneş paneli kuran aileler arttı.
+風力発電 (fūryoku hatsuden) | rüzgâr enerjisinden elektrik üretimi | isim | 洋上風力発電は、海に囲まれた日本で期待が大きい。 | Denizlerle çevrili Japonya'da açık deniz rüzgâr santrallerinden beklenti büyük.
+原子力発電 (genshiryoku hatsuden) | nükleer enerji üretimi | isim | 原子力発電の是非をめぐって、国内の意見は大きく割れている。 | Nükleer enerjinin doğru olup olmadığı konusunda ülkedeki görüşler derin biçimde bölünmüş.
+地熱 (chinetsu) | jeotermal ısı | isim | 火山の多い日本は、地熱資源の量が世界でも上位にある。 | Volkanı bol olan Japonya jeotermal kaynak miktarında dünyada üst sıralarda.
+蓄電池 (chikudenchi) | akü, enerji depolama bataryası | isim | 停電に備えて、家庭用の蓄電池を購入した。 | Elektrik kesintisine karşı ev tipi bir batarya aldık.
+水素 (suiso) | hidrojen | isim | 水素は燃やしても二酸化炭素を出さない燃料として注目されている。 | Hidrojen yakıldığında karbondioksit salmayan bir yakıt olarak dikkat çekiyor.
+化石燃料 (kaseki nenryō) | fosil yakıt | isim | 化石燃料への依存を減らすことが、温暖化対策の鍵となる。 | Fosil yakıtlara bağımlılığı azaltmak küresel ısınmayla mücadelenin anahtarıdır.
+電力網 (denryokumō) | elektrik şebekesi | isim | 東日本と西日本では電力網の周波数が異なっている。 | Doğu ve Batı Japonya'da elektrik şebekesinin frekansı farklıdır.
+脱炭素 (datsutanso) | karbonsuzlaşma | isim | 脱炭素社会の実現に向け、産業構造の転換が求められている。 | Karbonsuz bir topluma ulaşmak için sanayi yapısının dönüşmesi gerekiyor.
+核融合 (kakuyūgō) | nükleer füzyon | isim | 核融合は「夢のエネルギー」と呼ばれ、各国で研究が進む。 | Nükleer füzyona "rüya enerji" deniyor ve birçok ülkede araştırmalar sürüyor.
+## Dijital toplum
+情報化社会 (jōhōka shakai) | bilgi toplumu | isim | 情報化社会では、情報を選び取る力がますます重要になる。 | Bilgi toplumunda bilgiyi seçip ayıklama yeteneği giderek önem kazanıyor.
+デジタル格差 (dejitaru kakusa) | dijital uçurum | isim | 高齢者のデジタル格差を解消するため、無料の講座が開かれている。 | Yaşlılardaki dijital uçurumu kapatmak için ücretsiz kurslar açılıyor.
+監視社会 (kanshi shakai) | gözetim toplumu | isim | 防犯カメラの増加は、監視社会への懸念も生んでいる。 | Güvenlik kameralarının artması gözetim toplumu kaygısını da doğuruyor.
+電子政府 (denshi seifu) | e-devlet | isim | 電子政府の整備で、多くの手続きが自宅からできるようになった。 | E-devletin kurulmasıyla birçok işlem evden yapılabilir hâle geldi.
+仮想通貨 (kasō tsūka) | kripto para, sanal para | isim | 仮想通貨の価格は短期間で激しく変動することがある。 | Kripto para fiyatları kısa sürede sert dalgalanabilir.
+ビッグデータ (biggu dēta) | büyük veri | isim | 交通のビッグデータを分析して、渋滞の予測に役立てている。 | Trafiğe dair büyük verileri analiz edip tıkanıklık tahmininde kullanıyoruz.
+情報リテラシー (jōhō riterashī) | bilgi okuryazarlığı | isim | 子どもの頃から情報リテラシーを育てる教育が必要だ。 | Çocukluktan itibaren bilgi okuryazarlığını geliştiren bir eğitim gerekiyor.
+偽情報 (nisejōhō) | dezenformasyon | isim | 災害の直後には、偽情報がSNSで急速に広がりやすい。 | Afetlerin hemen ardından dezenformasyon sosyal medyada hızla yayılır.
+フィルターバブル (firutā baburu) | filtre balonu | isim | フィルターバブルの中にいると、異なる意見に触れる機会が減る。 | Filtre balonunun içindeyken farklı görüşlerle karşılaşma fırsatı azalır.
+エコーチェンバー (ekō chenbā) | yankı odası | isim | 同じ考えの人ばかりと交流するとエコーチェンバー現象が起きる。 | Yalnızca aynı düşünen kişilerle iletişim kurunca yankı odası etkisi oluşur.
+## Bilişim altyapısı
+半導体 (handōtai) | yarı iletken | isim | 半導体の不足で、自動車の生産が一時止まった。 | Yarı iletken sıkıntısı yüzünden otomobil üretimi bir süre durdu.
+量子コンピューター (ryōshi konpyūtā) | kuantum bilgisayar | isim | 量子コンピューターは、従来の暗号を破る可能性があると言われる。 | Kuantum bilgisayarların mevcut şifreleri kırabileceği söyleniyor.
+演算 (enzan) | işlem, hesaplama (bilgisayar) | isim | このチップは一秒間に数兆回の演算を行うことができる。 | Bu çip saniyede trilyonlarca işlem yapabiliyor.
+処理能力 (shori nōryoku) | işlem gücü | isim | スマートフォンの処理能力は、昔の大型計算機を上回っている。 | Akıllı telefonların işlem gücü eski büyük bilgisayarları geride bırakıyor.
+通信網 (tsūshinmō) | iletişim ağı | isim | 山間部でも高速の通信網が整備されつつある。 | Dağlık bölgelerde de hızlı iletişim ağı kuruluyor.
+暗号化 (angōka) | şifreleme | isim | 送信されるデータはすべて暗号化されている。 | Gönderilen verilerin hepsi şifrelenmiş durumda.
+脆弱性 (zeijakusei) | güvenlik açığı, kırılganlık | isim | システムに深刻な脆弱性が見つかり、緊急の更新が配布された。 | Sistemde ciddi bir güvenlik açığı bulunduğu için acil güncelleme yayımlandı.
+生体認証 (seitai ninshō) | biyometrik doğrulama | isim | 指紋や顔を使った生体認証で、パスワードが不要になった。 | Parmak izi ve yüzle yapılan biyometrik doğrulama sayesinde şifreye gerek kalmadı.
+分散型 (bunsangata) | dağıtık, merkeziyetsiz | isim | 分散型のネットワークは、一部が故障しても全体が止まらない。 | Dağıtık ağlarda bir kısım bozulsa da bütün sistem durmaz.
+基盤 (kiban) | altyapı, temel | isim | デジタル社会の基盤となる通信設備に、国が投資している。 | Devlet dijital toplumun altyapısı olan iletişim tesislerine yatırım yapıyor.
+## Fizik kavramları
+素粒子 (soryūshi) | temel parçacık | isim | 素粒子の研究には、巨大な加速器が使われる。 | Temel parçacıkların araştırılmasında dev hızlandırıcılar kullanılır.
+相対性理論 (sōtaisei riron) | görelilik kuramı | isim | 相対性理論によれば、速く動くほど時間はゆっくり進む。 | Görelilik kuramına göre ne kadar hızlı hareket edersek zaman o kadar yavaş akar.
+量子力学 (ryōshi rikigaku) | kuantum mekaniği | isim | 量子力学の世界では、私たちの常識が通用しない。 | Kuantum mekaniğinin dünyasında sağduyumuz işe yaramaz.
+熱力学 (netsurikigaku) | termodinamik | isim | 熱力学の法則は、永久機関が不可能であることを示している。 | Termodinamik yasaları sürekli devinim makinesinin imkânsız olduğunu gösterir.
+電磁波 (denjiha) | elektromanyetik dalga | isim | 光も電波も、電磁波の一種である。 | Işık da radyo dalgaları da birer elektromanyetik dalgadır.
+放射線 (hōshasen) | radyasyon, ışınım | isim | 放射線は医療の検査や治療にも利用されている。 | Radyasyon tıbbi tetkik ve tedavilerde de kullanılıyor.
+真空 (shinkū) | boşluk, vakum | isim | 真空の中では、音は伝わらない。 | Boşlukta ses yayılmaz.
+質量 (shitsuryō) | kütle | isim | 物体の質量は、月の上でも地球の上でも変わらない。 | Bir cismin kütlesi Ay'da da Dünya'da da değişmez.
+光速 (kōsoku) | ışık hızı | isim | 光速を超えて移動できる物質は存在しないとされる。 | Işık hızını aşabilen bir madde olmadığı kabul edilir.
+波長 (hachō) | dalga boyu | isim | 光の色は波長の違いによって決まる。 | Işığın rengi dalga boyundaki farka göre belirlenir.
+## Uzay ve keşif
+宇宙探査 (uchū tansa) | uzay keşfi | isim | 宇宙探査には、国境を越えた協力が欠かせない。 | Uzay keşfi için sınırları aşan bir işbirliği şarttır.
+探査機 (tansaki) | uzay sondası | isim | 日本の探査機が小惑星の砂を地球に持ち帰った。 | Japon uzay sondası bir asteroitten topladığı kumu Dünya'ya getirdi.
+軌道 (kidō) | yörünge | isim | 衛星は予定どおり地球を回る軌道に乗った。 | Uydu planlandığı gibi Dünya etrafındaki yörüngesine oturdu.
+打ち上げ (uchiage) | fırlatma (roket) | isim | 天候不良のため、ロケットの打ち上げが延期された。 | Kötü hava nedeniyle roket fırlatması ertelendi.
+小惑星 (shōwakusei) | asteroit | isim | 小惑星が地球に衝突する確率は極めて低い。 | Bir asteroidin Dünya'ya çarpma olasılığı son derece düşük.
+銀河 (ginga) | galaksi | isim | 宇宙には数千億もの銀河があると考えられている。 | Evrende yüz milyarlarca galaksi olduğu düşünülüyor.
+重力波 (jūryokuha) | kütleçekim dalgası | isim | 重力波の観測は、天文学に新しい窓を開いた。 | Kütleçekim dalgalarının gözlenmesi astronomiye yeni bir pencere açtı.
+有人飛行 (yūjin hikō) | insanlı uçuş | isim | 月への有人飛行が半世紀ぶりに計画されている。 | Ay'a yarım asır sonra yeniden insanlı uçuş planlanıyor.
+宇宙ごみ (uchū gomi) | uzay çöpü | isim | 増え続ける宇宙ごみは、人工の衛星にとって大きな脅威だ。 | Sürekli artan uzay çöpü yapay uydular için büyük bir tehdit.
+天体 (tentai) | gök cismi | isim | 望遠鏡で新しい天体を発見した高校生が話題になった。 | Teleskopla yeni bir gök cismi keşfeden lise öğrencisi gündem oldu.
+## Teknoloji fiilleri
+実装する (jissō suru) | (sisteme) uygulamak, hayata geçirmek | fiil | 新しい機能をアプリに実装するまで三か月かかった。 | Yeni özelliği uygulamaya eklemek üç ay sürdü.
+代替する (daitai suru) | yerini almak, ikame etmek | fiil | 単純な事務作業の多くは、いずれ機械が代替するだろう。 | Basit büro işlerinin çoğunun yerini eninde sonunda makineler alacak.
+駆使する (kushi suru) | ustalıkla kullanmak | fiil | 最新の技術を駆使して、古い絵巻物を復元した。 | En yeni teknolojileri ustalıkla kullanarak eski bir resimli tomarı onardılar.
+最適化する (saitekika suru) | optimize etmek | fiil | 配送ルートを最適化して、燃料費を二割削減した。 | Teslimat rotalarını optimize ederek yakıt masrafını yüzde yirmi düşürdük.
+刷新する (sasshin suru) | baştan yenilemek | fiil | 二十年ぶりに社内の基幹システムを刷新した。 | Yirmi yıl sonra şirketin ana bilgi sistemini baştan yeniledik.
+陳腐化する (chinpuka suru) | eskimek, modası geçmek | fiil | 技術の進歩が速く、製品はすぐに陳腐化してしまう。 | Teknoloji hızla ilerlediği için ürünler çabucak eskiyor.
+凌駕する (ryōga suru) | aşmak, geride bırakmak | fiil | AIは囲碁の分野で人間の名人を凌駕した。 | Yapay zekâ Go oyununda insan ustaları geride bıraktı.
+制御する (seigyo suru) | kontrol etmek, kumanda etmek | fiil | 工場のロボットはすべて一台のコンピューターで制御されている。 | Fabrikadaki robotların hepsi tek bir bilgisayardan kumanda ediliyor.
+解析する (kaiseki suru) | çözümlemek, analiz etmek | fiil | 事故の映像を解析して、原因の特定を急いでいる。 | Kaza görüntülerini çözümleyerek nedeni bir an önce bulmaya çalışıyorlar.
+搭載する (tōsai suru) | donatmak, (cihaza) yerleştirmek | fiil | 新型の車には自動ブレーキが標準で搭載されている。 | Yeni model araçlarda otomatik fren standart olarak bulunuyor.
+## Ar-Ge ve yenilik
+技術革新 (gijutsu kakushin) | teknolojik yenilik | isim | 技術革新が生産性を高め、新しい産業を生み出す。 | Teknolojik yenilik verimliliği artırır ve yeni sektörler doğurur.
+産業革命 (sangyō kakumei) | sanayi devrimi | isim | 産業革命によって、人々の働き方は根本から変わった。 | Sanayi devrimiyle insanların çalışma biçimi kökten değişti.
+研究開発 (kenkyū kaihatsu) | araştırma-geliştirme (Ar-Ge) | isim | その会社は売上の一割を研究開発に投じている。 | O şirket cirosunun yüzde onunu Ar-Ge'ye ayırıyor.
+特許 (tokkyo) | patent | isim | 彼は新しい電池の構造について特許を取得した。 | Yeni bir pil yapısı için patent aldı.
+知的財産 (chiteki zaisan) | fikrî mülkiyet | isim | 知的財産を守るため、海外での模倣品対策を強化した。 | Fikrî mülkiyetimizi korumak için yurt dışındaki taklit ürünlere karşı önlemleri artırdık.
+先端技術 (sentan gijutsu) | ileri teknoloji | isim | この地域には先端技術の研究所が集まっている。 | Bu bölgede ileri teknoloji araştırma enstitüleri toplanmış.
+実用化 (jitsuyōka) | pratiğe geçirme, ticarîleşme | isim | 空飛ぶ車の実用化には、まだ多くの課題が残る。 | Uçan arabaların kullanıma girmesi için hâlâ çözülmesi gereken çok sorun var.
+試作品 (shisakuhin) | prototip | isim | 来月の展示会で、試作品を初めて公開する予定だ。 | Prototipi gelecek ayki fuarda ilk kez sergileyeceğiz.
+スタートアップ (sutātoappu) | girişim şirketi | isim | 大学発のスタートアップが、医療機器の分野で成功を収めた。 | Üniversiteden çıkan bir girişim tıbbi cihaz alanında başarı kazandı.
+産学連携 (sangaku renkei) | üniversite-sanayi işbirliği | isim | 産学連携によって、研究成果の実用化が早まった。 | Üniversite-sanayi işbirliğiyle araştırma sonuçları daha hızlı ürüne dönüştü.
+## Etik ve risk
+倫理的 (rinriteki) | etik | sıfat | 技術的に可能でも、倫理的に許されるとは限らない。 | Teknik olarak mümkün olsa bile etik açıdan kabul edilebilir olmayabilir.
+安全性 (anzensei) | güvenlik, emniyet düzeyi | isim | 自動運転車の安全性を確かめるため、公道での試験が続く。 | Sürücüsüz araçların güvenliğini doğrulamak için yol testleri sürüyor.
+持続可能性 (jizoku kanōsei) | sürdürülebilirlik | isim | 企業には利益だけでなく、持続可能性への配慮も求められる。 | Şirketlerden yalnızca kâr değil, sürdürülebilirliği gözetmeleri de bekleniyor.
+予防原則 (yobō gensoku) | ihtiyat ilkesi | isim | 予防原則に基づき、安全が確認されるまで使用を禁止した。 | İhtiyat ilkesi gereği güvenli olduğu kanıtlanana kadar kullanım yasaklandı.
+想定外 (sōteigai) | öngörülmemiş, hesapta olmayan | isim | 津波の高さは想定外だったと説明されたが、批判は収まらなかった。 | Tsunaminin yüksekliğinin öngörülemediği söylendi ama eleştiriler dinmedi.
+悪用 (akuyō) | kötüye kullanma | isim | 顔認証の技術が悪用されることを懸念する声もある。 | Yüz tanıma teknolojisinin kötüye kullanılmasından endişe edenler de var.
+諸刃の剣 (moroha no tsurugi) | iki ucu keskin kılıç | deyim | 便利なSNSも、使い方によっては諸刃の剣となる。 | Kullanışlı sosyal medya da kullanış biçimine göre iki ucu keskin bir kılıç olabilir.
+透明性 (tōmeisei) | şeffaflık | isim | AIの開発企業には、より高い透明性が求められている。 | Yapay zekâ geliştiren şirketlerden daha fazla şeffaflık bekleniyor.
+人間中心 (ningen chūshin) | insan odaklı | isim | 技術は人間中心の考え方に立って設計されるべきだ。 | Teknoloji insan odaklı bir anlayışla tasarlanmalıdır.
+技術的失業 (gijutsuteki shitsugyō) | teknolojik işsizlik | isim | 自動化の進展による技術的失業への対策が急がれる。 | Otomasyonun yol açtığı teknolojik işsizliğe karşı acil önlemler gerekiyor.
