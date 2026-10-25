@@ -1,0 +1,111 @@
+# UNIT: Saúde | Médico, sintomas, farmácia, emergência
+## Hospital e consulta
+la cita médica | consulta médica | Tenho uma consulta médica hoje à tarde.
+el especialista | médico especialista | O especialista vai analisar seus exames de sangue.
+la consulta | consultório, recepção | Esperamos a nossa vez no consultório do médico.
+la tarjeta sanitaria | cartão de saúde, cartão do SUS | Mostre o seu cartão de saúde na recepção.
+el centro de salud | posto de saúde, unidade básica de saúde | O posto de saúde está aberto até as oito.
+urgencias | pronto-socorro, emergência | Levaram o ferido para o pronto-socorro rapidamente.
+la ambulancia | ambulância | A sirene da ambulância está tocando na avenida.
+el enfermero | enfermeiro | O enfermero aferiu minha pressão arterial calmamente.
+la enfermera | enfermeira | A enfermeira desinfetou o ferimento com cuidado.
+el paciente | paciente, enfermo | O paciente descansa no quarto número dez.
+## Corpo e dores
+la garganta | garganta | Sinto muita dor na garganta ao engolir água.
+el pecho | peito, tórax | Ele sente uma pressão estranha no peito.
+el abdomen | abdômen, barriga | Sente uma dor aguda no abdômen superior.
+la muela | dente molar, dente | O dente molar com cárie precisa de uma obturação urgente.
+el hueso | osso | Ele caiu da bicicleta e quebradora um osso.
+la articulación | articulação | As articulações doem com o frio do inverno.
+el músculo | músculo | Um bom alongamento previne lesões no músculo.
+la sangre | sangue | Doar sangue é um ato de solidariedade muito importante.
+el síntoma | sintoma | Desde quando você tem este sintoma estranho?
+la alergia | alergia | Ela sofre de uma forte alergia a pólen na primavera.
+## Doenças e condições
+la gripe | gripe | Contraí a gripe durante a temporada de chuvas.
+la carraspera | pigarro, tosse leve | Um pigarro leve o incomoda ao falar em público.
+la temperatura alta | febre alta, temperatura alta | A criança está com febre alta e precisa descansar.
+el mareo | tontura, enjoo | A viagem de barco lhe causou uma forte tontura.
+el vómito | vômito | Os vômitos cessaram depois de beber soro oral.
+la diarrea | diarreia | A diarreia exige uma dieta leve e muita hidratação.
+el insomnio | insônia | O estresse no trabalho lhe causa insônia crônica.
+la depresión | depressão | Buscar ajuda profissional supera a depressão pouco a pouco.
+la ansiedad | ansiedade | Respirar fundo reduz a ansiedade antes de falar.
+el contagio | contágio, infecção | Evitar o contágio implica lavar as mãos com frequência.
+## Tratamento e exame
+el diagnóstico | diagnóstico | O médico comunicou o diagnóstico com clareza.
+la radiografía | radiografia, raio-X | A radiografia mostra uma fissura leve no rádio.
+la inyección | injeção | Ela tem medo de injeção, mas foi muito corajosa.
+el análisis | exame, análise laboratorial | Os exames de laboratório chegaram esta manhã.
+la operación | cirurgia, operação | A cirurgia durou mais de quatro horas.
+la cura | curativo, tratamento | O curativo diário evita infecções na ferida.
+el vendaje | bandagem, enfaixamento | O fisioterapeuta ajustou a bandagem no tornozelo dele.
+la tirita | curativo adesivo, band-aid | Coloque um curativo adesivo pequeno sobre o corte do dedo.
+el yeso | gesso | Ele vai usar o gesso por seis semanas inteiras.
+la rehabilitación | fisioterapia, reabilitação | Ele faz fisioterapia três vezes por semana.
+## Farmácia e remédios
+el dispensario | farmácia, dispensário | A farmácia de plantão fica aberta a noite toda.
+la gragea | drágea, pílula | Tome uma drágea a cada oito horas com água.
+el jarabe | xarope | Este xarope doce acalma a tosse persistente.
+la pomada | pomada, creme | Espalhe a pomada sobre a área irritada suavemente.
+la vitamina | vitamina | Tomar vitamina C fortalece as defesas naturais.
+el antibiótico | antibiótico | Os antibióticos exigem receita médica obrigatória.
+el analgésico | analgésico, remédio para dor | Um bom analgésico vai aliviar a dor de cabeça.
+la pastilla para dormir | remédio para dormir, pílula para dormir | Evite tomar um remédio para dormir sem supervisão.
+el prospecto | bula | Leia a bula antes de consumir este medicamento.
+la dosis | dose | Respeite estritamente a dose indicada pelo médico.
+## Situações de emergência e feridas
+el peligro | perigo | Sinalizaram a área de perigo na rodovia.
+el rescate | resgate | A equipe de resgate encontrou o excursionista perdido.
+el accidente | acidente | Um pequeno acidente paralisou o trânsito urbano.
+el incendio | incêndio | Os bombeiros extinguiram o incêndio florestal a tempo.
+la herida | ferida, ferimento | Ela lavou a ferida profunda com água morna e sabão.
+la quemadura | queimadura | Aplicou água fria sobre a queimadura na mão.
+el desmayo | desmaio | O calor intenso provocou um desmaio na praça.
+la hemorragia | hemorragia, sangramento | Pressionaram a área para estancar a hemorragia nasal.
+el veneno | veneno | Algumas plantas silvestres contêm um veneno potente.
+el ahogamiento | afogamento | O salva-vidas agiu rápido diante de um possível afogamento.
+## Dentista
+el dentista | dentista | Visite o dentista a cada seis meses sem falta.
+la clínica dental | clínica odontológica, clínica dentária | A clínica odontológica oferece serviços de ortodontia moderna.
+la caries | cárie | Uma higiene dentária ruim produz cáries profundas.
+la corona | coroa dentária, capa | Colocaram uma coroa protetora sobre o molar danificado.
+la endodoncia | canal, tratamento de canal | O tratamento de canal salvou o dente de uma extração certa.
+el empaste | obturação, restauração dentária | O dentista fez uma obturação rápida e sem dor.
+la encía | gengiva | A gengiva sangra um pouco ao usar o fio dental.
+el aparato dental | aparelho ortodôntico, aparelho nos dentes | Ele usa um aparelho ortodôntico metálico para alinhar os dentes.
+la anestesia | anestesia | A anestesia local evita qualquer incômodo dentário.
+la extracción | extração dentária, extração | A extração do dente do siso foi bem-sucedida.
+## Vida saudável
+el bienestar | bem-estar | O equilíbrio emocional proporciona um grande bem-estar diário.
+el reposo | repouso, descanso | Um bom repouso noturno renova todas as energias.
+la relajación | relaxamento | A música suave ajuda a alcançar um relaxamento profundo.
+la hidratación | hidratação | A hidratação correta melhora o rendimento físico.
+la vitalidad | vitalidade, energia | Tomar café da manhã com frutas frescas devolve a vitalidade matinal.
+el equilibrio | equilíbrio | Manter o equilíbrio físico exige prática constante.
+la longevidad | longevidade | Uma dieta mediterrânea favorece a saúde e a longevidade.
+la postura | postura | Corrigir a postura ao sentar previne dores lombares.
+la inmunidad | imunidade | Dormir oito horas diárias fortalece a imunidad geral.
+el hábito | hábito | Criar um hábito saudável exige paciência e constância.
+## Saúde dos olhos
+el oftalmólogo | oftalmólogo, médico dos olhos | O oftalmólogo conferiu o grau dos meus óculos.
+la vista | visão | As cenouras fornecem nutrientes que cuidam da visão.
+la miopía | miopia | A miopia o impede de ver com nitidez objetos distantes.
+el astigmatismo | astigmatismo | Diagnosticaram astigmatismo leve no olho direito dele.
+la lente | lente de contato, lente | Ele prefere usar lentes de contato para praticar esportes.
+la montura | armação de óculos, armação | Ela escolheu uma armação moderna e leve de titânio.
+la lágrima | lágrima | Uma lágrima escorreu pelo rosto dele após a notícia.
+la pupila | pupila | A pupila se dilata com pouca luz no quarto.
+la ceguera | cegueira | Pesquisas avançadas buscam prevenir a cegueira infantil.
+el parpadeo | piscar de olhos, pestanejo | O piscar de olhos constante protege o olho do ressecamento.
+## Profissionais de saúde e outros
+el especialista en nutrición | nutricionista | O nutricionista elaborou um cardápio equilibrado.
+el cirujano | cirurgião | O cirurgião principal liderou a intervenção complexa.
+la comadrona | parteira, doula | A parteira acompanhou a mãe durante o parto.
+el psiquiatra | psiquiatra | O psiquiatra receitou um tratamento adequado ao caso.
+el psicólogo | psicólogo | As sessões com o psicólogo melhoraram o ânimo dele.
+el celador | maqueiro, funcionário do hospital | O maqueiro levou a maca para a sala de raio-X.
+el farmacéutico | farmacêutico | O farmacêutico explicou como tomar o xarope infantil.
+la mutua | plano de saúde, seguro saúde privado | Seu plano de saúde cobre as consultas médicas particulares.
+la prevencion | prevenção | A prevenção precoce evita doenças graves no futuro.
+la convalecencia | convalescença, recuperação | Durante sua convalescença, ele prefere ler romances tranquilos.

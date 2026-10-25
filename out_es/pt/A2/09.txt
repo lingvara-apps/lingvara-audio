@@ -1,0 +1,111 @@
+# UNIT: Serviços e compras | Banco, correio, cabeleireiro, vestuário
+## Operações bancárias
+depositar | depositar | Quero depositar dinheiro na minha conta.
+transferir | transferir | Posso transferir fundos pela internet.
+firmar | assinar | Você deve assinar nesta linha branca.
+el documento | documento | Preciso deste documento oficial assinado.
+la cuenta bancaria | conta bancária | Abrir uma conta bancária leva pouco tempo.
+la moneda | moeda | Qual é a moeda deste país?
+el cajero | caixa [banco] | O caixa me entregou o dinheiro contado.
+el formulario | formulário | Preencha este formulário com seus dados.
+la firma | assinatura | Sua assinatura é obrigatória aqui.
+el banco central | banco central | O banco central regula a economia nacional.
+## Correios e encomendas
+el paquete postal | pacote postal | Este pacote postal pesa dois quilos.
+el sobre | envelope | Guardei a carta dentro do envelope branco.
+el remitente | remetente | Anote o remetente na parte superior.
+el cartero | carteiro | O carteiro trouxe cartas esta manhã.
+entregar | entregar | Eles vão entregar o pacote amanhã.
+la carta certificada | carta registrada | Envieis a carta registrada com aviso de recebimento.
+la dirección | endereço | Escreva o endereço correto no pacote.
+pesar | pesar | Vamos pesar a caixa na balança.
+el código postal | código postal, CEP | Qual é o código postal do seu bairro?
+la oficina postal | agência dos correios | A agência dos correios fecha às cinco.
+## Cabeleireiro e cuidados
+cortar el pelo | cortar o cabelo | Quero cortar o cabelo um pouco curto.
+teñir | tingir | Prefiro tingir meu cabelo de castanho.
+el champú nutritivo | shampoo nutritivo | Este shampoo nutritivo fortalece o cabelo.
+las tijeras | tesoura | O barbeiro usa tesouras muito afiadas.
+el secador de pelo | secador de cabelo | Conecte o secador de cabelo no banheiro.
+el corte | corte [cabelo] | Gostei muito deste novo corte.
+el tinte | tintura [cabelo] | A tintura natural não danifica o cabelo.
+peinar | pentear | Você deve pentear seu cabelo antes de sair.
+el espejo grande | espelho grande | O espelho grande está na parede.
+la cita previa | horário marcado, agendamento | Preciso de um horário marcado para amanhã.
+## Vestuário e moda
+probarse ropa | provar roupas | Quero provar roupas no provador.
+la chaqueta de cuero | jaqueta de couro | Ele comprou uma jaqueta de couro preta.
+el abrigo de lana | casaco de lã | Este casaco de lã esquenta bastante.
+la camisa de algodón | camisa de algodão | Prefiro a camisa de algodão fresco.
+los pantalones cortos | shorts, bermuda | No verão uso shorts confortáveis.
+el vestido largo | vestido longo | Ela está usando um vestido longo azul.
+la falda corta | saia curta | Esta saia curta é muito moderna.
+el sombrero de paja | chapéu de palha | Uso um chapéu de palha sob o sol.
+las botas de invierno | botas de inverno | Minhas botas de inverno são impermeáveis.
+la bufanda de lana | cachecol de lã | Proteja seu pescoço com o cachecol de lã.
+## Alfaiataria e consertos
+arreglar | ajustar, consertar | O alfaiate vai ajustar minha calça.
+encoger | encolher | Esta camisa pode encolher com água quente.
+alargar | alongar | Você pode alongar as mangas desta jaqueta?
+cortar las mangas | cortar as mangas | Vou cortar as mangas desta camisa.
+coser un botón | pregar um botão | Preciso pregar um botão no meu casaco.
+la aguja | agulha | Use uma agulha fina para este tecido.
+el hilo fuerte | linha forte | Este hilo forte não arrebenta fácil.
+el sastre | alfaiate | O alfaiate trabalha com muita precisão.
+la modista | costureira | A modista desenhou um vestido lindo.
+el remiendo | remendo | Ele fez um remendo invisível na calça.
+## Serviços de limpeza
+lavar en seco | lavar a seco | Prefiro lavar a seco este terno elegante.
+planchar la ropa | passar roupa | Você deve passar a roupa antes de guardá-la.
+la tintorería | lavanderia a seco | Deixei o casaco na lavanderia a seco local.
+la mancha | mancha | Esta mancha de café não sai fácil.
+limpiar a fondo | limpar profundamente | Vamos limpar profundamente toda a casa.
+el detergente | detergente | Este detergente protege as cores escuras.
+el suavizante | amaciante | Adicione amaciante para ficar com um cheiro bom.
+la tabla de planzar | tábua de passar | Monte a tábua de passar na sala.
+el tendedero | varal | Pendurei a roupa molhada no varal.
+la colada | lavagem de roupa | Hoje é dia de fazer a lavagem de roupa completa.
+## Reparo de eletrônicos
+reparar el teléfono | consertar o telefone | Eles podem consertar o telefone em uma hora.
+la pantalla táctil | tela sensível ao toque, tela tátil | A tela sensível ao toque não está respondendo bem hoje.
+la batería recargable | bateria recarregável | Esta bateria recarregável dura muito tempo.
+el cargador rápido | carregador rápido | Esqueci meu carregador rápido em casa.
+el técnico | técnico | O técnico revisou o notebook.
+la pieza de repuesto | peça de reposição | Procuramos uma peça de reposição original.
+el circuito | circuito | O circuito elétrico sofreu um dano.
+reiniciar | reiniciar | Tente reiniciar o dispositivo agora.
+la garantía | garantia | O produto tem dois anos de garantia.
+el engranaj | engrenagem | O mecanismo precisa de uma engrenagem nova.
+## Ótica e óculos
+graduar la vista | fazer exame de vista | Vou fazer exame de vista na ótica.
+las gafas de sol | óculos de sol | Uso óculos de sol contra o reflexo.
+la montura ligera | armação leve | Escolhi uma armação leve e confortável.
+la lente de contacto | lente de contato | Prefiro usar lente de contato para praticar esportes.
+el estuche | estojo [óculos] | Guarde seus óculos no estojo rígido.
+la graduación | grau [óculos] | Meu grau mudou este ano.
+el cristal antirreflejante | lente antirreflexo | Comprei lentes com camada antirreflexo.
+limpiar los cristales | limpar as lentes | Use um pano macio para limpar as lentes.
+el oculista | oftalmologista | O oftalmologista examinou meus olhos com calma.
+la agudeza visual | acuidade visual | Sua acuidade visual está excelente hoje.
+## Serviços de hotelaria e hospedagem
+hacer el check-in | fazer o check-in | Vamos fazer o check-in na recepção.
+pedir la llave | pedir a chave | Vou pedir a chave do nosso quarto.
+el servicio de despertador | serviço de despertador | Solicitei o serviço de despertador cedo.
+la propina generosa | gorjeta generosa | Ele deixou uma gorjeta generosa para o mensageiro.
+la estancia agradable | estadia agradável | Tivemos uma estadia agradável no hotel.
+la cama doble | cama de casal | Nosso quarto tem uma cama de casal.
+el folleto informativo | folheto informativo | Li o folheto informativo sobre a cidade.
+la salida anticipada | saída antecipada | Não podemos aceitar uma saída antecipada.
+la llave electrónica | chave eletrônica | Use esta chave eletrônica para abrir.
+el conserje | concierge, porteiro | O concierge nos ajudou com as malas.
+## Serviços de emergência e reparos
+llamar a la grúa | chamar o guincho | Tive que chamar o guincho por causa da pane.
+el taller mecánico | oficina mecânica | O carro está na oficina mecânica.
+la rueda pinchada | pneu furado | Troquei o pneu furado na estrada.
+el cerrajero | chaveiro [profissional] | Chamei o chaveiro porque perdi a chave.
+la fuga de agua | vazamento de água | Há um vazamento de água na cozinha.
+el electricista | eletricista | O eletricista consertou a tomada quebrada.
+romperse la tubería | cano estourar | O cano pode estourar com geadas.
+el servicio técnico | assistência técnica | Liguei para a assistência técnica da caldeira.
+el auxilio | socorro, ajuda | Pedimos socorro no meio da tempestade.
+la herramienta adecuada | ferramenta adequada | Preciso da ferramenta adequada para consertar.

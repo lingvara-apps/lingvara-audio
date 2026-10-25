@@ -1,0 +1,111 @@
+# UNIT: Health | Doctor, symptoms, pharmacy, emergency
+## Hospital and appointment
+la cita médica | medical appointment | I have a medical appointment this afternoon.
+el especialista | specialist | The specialist will review your blood tests.
+la consulta | doctor's office, consultation | We are waiting for our turn in the doctor's office.
+la tarjeta sanitaria | health card, insurance card | Show your health card at reception.
+el centro de salud | health center, clinic | The health center is open until eight.
+urgencias | emergency room | They took the injured person to the emergency room quickly.
+la ambulancia | ambulance | The ambulance siren is wailing on the avenue.
+el enfermero | male nurse | The male nurse calmly took my blood pressure.
+la enfermera | female nurse | The nurse carefully disinfected the wound.
+el paciente | patient | The patient is resting in room number ten.
+## Body and pain
+la garganta | throat | My throat hurts a lot when I swallow water.
+el pecho | chest | He feels a strange pressure in his chest.
+el abdomen | abdomen, belly | She feels a sharp pain in her upper abdomen.
+la muela | molar, back tooth | The decayed molar needs an urgent filling.
+el hueso | bone | He fell off his bicycle and broke a bone.
+la articulación | joint | The joints hurt with the winter cold.
+el músculo | muscle | A good stretch prevents muscle injury.
+la sangre | blood | Donating blood is a very important act of solidarity.
+el síntoma | symptom | Since when have you had this strange symptom?
+la alergia | allergy | She suffers from a strong pollen allergy in spring.
+## Illnesses and conditions
+la gripe | flu | I caught the flu during the rainy season.
+la carraspera | throat clearing, mild cough | A slight throat clearing bothers him when speaking in public.
+la temperatura alta | high fever | The child has a high fever and needs to rest.
+el mareo | dizziness, motion sickness | The boat trip caused him severe dizziness.
+el vómito | vomiting | The vomiting stopped after drinking oral rehydration salts.
+la diarrea | diarrhea | Diarrhea requires a bland diet and plenty of hydration.
+el insomnio | insomnia | Work stress causes him chronic insomnia.
+la depresión | depression | Seeking professional help overcomes depression little by little.
+la ansiedad | anxiety | Taking a deep breath reduces anxiety before speaking.
+el contagio | contagion, infection | Avoiding contagion involves washing your hands often.
+## Treatment and examination
+el diagnóstico | diagnosis | The doctor communicated the diagnosis clearly.
+la radiografía | X-ray | The X-ray shows a slight crack in the radius.
+la inyección | injection, shot | She is afraid of the injection, but she was very brave.
+el análisis | test, analysis | The laboratory tests arrived this morning.
+la operación | operation, surgery | The surgical operation lasted more than four hours.
+la cura | treatment, wound care | Daily wound care prevents infection.
+el vendaje | bandage, dressing | The physiotherapist adjusted the bandage on his ankle.
+la tirita | plaster, band-aid | Put a small plaster on the finger cut.
+el yeso | cast, plaster cast | He will wear the cast for six full weeks.
+la rehabilitación | physical therapy, rehabilitation | She attends physical therapy three times a week.
+## Pharmacy and medications
+el dispensario | pharmacy, dispensary | The duty pharmacy is open all night.
+la gragea | pill, dragee | Take one pill every eight hours with water.
+el jarabe | syrup | This sweet syrup soothes the persistent cough.
+la pomada | ointment, cream | Gently spread the ointment over the irritated area.
+la vitamina | vitamin | Taking vitamin C strengthens natural defenses.
+el antibiótico | antibiotic | Antibiotics require a mandatory medical prescription.
+el analgésico | painkiller, analgesic | A good painkiller will relieve the headache.
+la pastilla para dormir | sleeping pill | Avoid taking a sleeping pill without supervision.
+el prospecto | leaflet, package insert | Read the package insert before taking this medicine.
+la dosis | dose | Strictly follow the dose indicated by the doctor.
+## Emergencies and injuries
+el peligro | danger | They marked the danger zone on the road.
+el rescate | rescue | The rescue team found the lost hiker.
+el accidente | accident | A minor accident paralyzed urban traffic.
+el incendio | fire | The firefighters extinguished the forest fire in time.
+la herida | wound | She washed the deep wound with warm soapy water.
+la quemadura | burn | He applied cold water to the burn on his hand.
+el desmayo | fainting spell | The intense heat caused a fainting spell in the public square.
+la hemorragia | hemorrhage, bleeding | They pressed the area to stop the nosebleed.
+el veneno | poison | Some wild plants contain a potent poison.
+el ahogamiento | drowning | The lifeguard acted quickly in the face of a potential drowning.
+## Dentist
+el dentista | dentist | Visit the dentist every six months without fail.
+la clínica dental | dental clinic | The dental clinic offers modern orthodontics services.
+la caries | tooth decay, cavity | Poor dental hygiene causes deep cavities.
+la corona | crown, dental cap | They placed a protective crown over the damaged molar.
+la endodoncia | root canal | The root canal saved the tooth from certain extraction.
+el empaste | dental filling | The dentist did a quick and painless filling.
+la encía | gum | The gum bleeds a little when using dental floss.
+el aparato dental | braces, dental appliance | He wears metal braces to align his teeth.
+la anestesia | anesthesia, numbing | Local anesthesia prevents any dental discomfort.
+la extracción | extraction, tooth removal | The wisdom tooth extraction was successful.
+## Healthy living
+el bienestar | wellness, well-being | Emotional balance provides great daily well-being.
+el reposo | rest | A good night's rest renews all energy.
+la relajación | relaxation | Soft music helps achieve deep relaxation.
+la hidratación | hydration | Proper hydration improves physical performance.
+la vitalidad | vitality | Eating fresh fruit for breakfast brings back morning vitality.
+el equilibrio | balance | Maintaining physical balance requires constant practice.
+la longevidad | longevity | A Mediterranean diet promotes health and longevity.
+la postura | posture | Correcting your posture when sitting prevents lower back pain.
+la inmunidad | immunity | Sleeping eight hours a day strengthens overall immunity.
+el hábito | habit | Creating a healthy habit requires patience and perseverance.
+## Eye health
+el oftalmólogo | ophthalmologist, eye doctor | The ophthalmologist checked my eyeglass prescription.
+la vista | eyesight, vision | Carrots provide nutrients that protect eyesight.
+la miopía | nearsightedness, myopia | Myopia prevents him from seeing distant objects clearly.
+el astigmatismo | astigmatism | They diagnosed mild astigmatism in his right eye.
+la lente | lens, contact lens | He prefers to wear contact lenses for playing sports.
+la montura | eyeglass frame | She chose a modern, lightweight titanium frame.
+la lágrima | tear | A tear slipped down her cheek after the news.
+la pupila | pupil | The pupil dilates with low light in the room.
+la ceguera | blindness | Advanced research aims to prevent childhood blindness.
+el parpadeo | blinking | Constant blinking protects the eye from dryness.
+## Health staff and others
+el especialista en nutrición | nutritionist, dietician | The nutritionist designed a balanced menu.
+el cirujano | surgeon | The lead surgeon led the complex intervention.
+la comadrona | midwife | The midwife accompanied the mother during childbirth.
+el psiquiatra | psychiatrist | The psychiatrist prescribed a treatment appropriate for the case.
+el psicólogo | psychologist | Sessions with the psychologist improved his mood.
+el celador | orderly, hospital attendant | The orderly wheeled the stretcher to the X-ray room.
+el farmacéutico | pharmacist | The pharmacist explained how to take the children's syrup.
+la mutua | health insurance company | Her health insurance company covers private medical consultations.
+la prevencion | prevention | Early prevention avoids future serious illnesses.
+la convalecencia | convalescence, recovery period | During his recovery period, he prefers to read quiet novels.

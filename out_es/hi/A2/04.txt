@@ -1,0 +1,111 @@
+# UNIT: यात्रा | उड़ान, ट्रेन, होटल, भ्रमण, दस्तावेज़
+## उड़ान और हवाई अड्डा
+facturar | सामान बुक करना, चेक-इन करना | Debemos facturar las maletas ahora.
+la tarjeta de embarque | बोर्डिंग पास | Muestre su tarjeta de embarque en la puerta.
+el control de seguridad | सुरक्षा जाँच | El control de seguridad está muy concurrido hoy.
+la aduana | सीमा शुल्क, कस्टम | Pasamos por la aduana sin problemas.
+el mostrador | काउंटर, पूछताछ खिड़की | Pregunte en el mostrador de información.
+la compañía aérea | विमान compañía, एयरलाइंस | Nuestra compañía aérea cambió la hora del vuelo.
+la puerta de embarque | बोर्डिंग गेट | El vuelo sale desde la puerta de embarque tres.
+el asiento de ventanilla | खिड़की वाली सीट | Prefiero un asiento de ventanilla para ver el paisaje.
+perder el vuelo | उड़ान चूक जाना | No quiero perder el vuelo de la mañana.
+la escala | लेओवर, ठहराव | Tenemos una escala larga en Madrid.
+## ट्रेन और बस यात्रा
+el andén de pasajeros | प्लेटफॉर्म, पैसेंजर प्लेटफॉर्म | El tren rápido espera en el andén de pasajeros cinco.
+el revisor | टिकट कलेक्टर, कंडक्टर | El revisor pide los billetes a los pasajeros.
+la estación de autobuses | बस अड्डा, बस स्टेशन | La estación de autobuses queda lejos del centro.
+el vagon | रेल का डिब्बा, वैगन | Nuestro asiento está en el tercer vagon.
+perder el tren | ट्रेन छूटना | Corre o vamos a perder el tren.
+el carril | लेन, मार्ग | El autobús circula por su carril exclusivo.
+el trayecto | यात्रा, सफर | El trayecto en tren dura dos horas.
+el horario de salidas | प्रस्थान समय-सारणी | Consulte el horario de salidas en la pantalla digital.
+el billete sencillo | एक तरफ़ का टिकट | Compraré un billete sencillo para Valencia.
+la ventanilla de billetes | टिकट खिडकी | Hay una cola larga en la ventanilla de billetes.
+## होटल और आवास
+la llave magnética | मैग्नेटिक चाबी, की-कार्ड | Aquí tiene la llave magnética de su habitación.
+la recepción | रिसेप्शन, स्वागत कक्ष | Deje las llaves en la recepción antes de salir.
+la planta baja | भूतल, ग्राउंड फ्लोर | Nuestra habitación está en la planta baja.
+el servicio de habitaciones | रूम सर्विस | Pedimos cena mediante el servicio de habitaciones.
+el albergue | हॉस्टल, सराय | Los jóvenes prefieren alojarse en un albergue barato.
+la estancia | ठहराव, निवास | Disfrutamos mucho nuestra estancia en el hotel.
+la propina al botones | बेलबॉय की बख्शीश | Di una pequeña propina al botones por las maletas.
+el balcón con vistas | नज़ारे वाला बालकनी | Cenamos en el balcón con vistas al mar.
+el cambio de divisas | मुद्रा विनिमय, करेंसी एक्सचेंज | El hotel ofrece servicio de cambio de divisas.
+la salida del hotel | होटल से चेक-आउट | La hora límite para la salida del hotel es las doce.
+## भ्रमण और खोज
+la excursión guiada | गाइडेड टूर, निर्देशित भ्रमण | Contratamos una excursión guiada por la ciudad vieja.
+el folleto turístico | पर्यटक ब्रोशर, पम्फलेट | Leí toda la información en el folleto turístico.
+el monumento histórico | ऐतिहासिक स्मारक | Visitamos un importante monumento histórico ayer.
+el plano de la ciudad | शहर का नक्शा | Un plano de la ciudad ayuda mucho a los viajeros.
+la catedral principal | मुख्य कैथेड्रल, मुख्य गिरजाघर | La catedral principal impresiona por su tamaño.
+el barrio antiguo | पुराना मोहल्ला, ऐतिहासिक क्षेत्र | Caminamos por las callejuelas del barrio antiguo.
+el mirador panorámico | पैनोरमिक व्यूपॉइंट, दृश्य बिंदु | Desde el mirador panorámico se ve todo el valle.
+la oficina de información | सूचना केंद्र, जानकारी कार्यालय | Preguntamos por los museos en la oficina de información.
+la zona peatonal | पैदल यात्री क्षेत्र, ज़ोन | Esta bonita calle pertenece a la zona peatonal.
+el recuerdo artesanal | हस्तशिल्प souvenir, हस्तशिल्प स्मृति चिन्ह | Compraré un bonito recuerdo artesanal para mi madre.
+## दस्तावेज़ और पैसे
+el documento de identidad | पहचान पत्र, आईडी | Lleve siempre su documento de identidad encima.
+el visado de entrada | प्रवेश वीज़ा, एंट्री वीज़ा | Necesitamos tramitar el visado de entrada con tiempo.
+la tarjeta de crédito | क्रेडिट कार्ड | ¿Puedo pagar esta cuenta con tarjeta de crédito?
+el seguro médico | स्वास्थ्य बीमा, मेडिकल इंश्योरेंस | Es obligatorio viajar con un seguro médico internacional.
+el cajero automático | एटीएम | Necesito buscar un cajero automático cercano.
+la moneda local | स्थानीय मुद्रा | Es útil tener algo de moneda local en efectivo.
+el impreso oficial | आधिकारिक फॉर्म | Rellenamos un impreso oficial en la frontera.
+la fotocopia compulsada | सत्यापित फोटोकॉपी | Presenté una fotocopia compulsada del pasaporte.
+el carné de conducir | ड्राइविंग लाइसेंस | Alquilamos un coche mostrando el carné de conducir.
+la factura detallada | विस्तृत बिल, इन्वॉयस | Pedí la factura detallada de todos los gastos.
+## यात्रा संबंधी समस्याएं
+el retraso del vuelo | उड़ान में देरी | El retraso del vuelo nos obligó a esperar horas.
+la huelga de transportes | सार्वजनिक परिवहन हड़ताल | La huelga de transportes complicó nuestros planes.
+la pérdida de equipaje | सामान खोना | Reclamé la pérdida de equipaje en el mostrador especial.
+el billete caducado | एक्सपायर्ड टिकट, पुराना टिकट | No puedes viajar con un billete caducado.
+la cancelación imprevista | अप्रत्याशित रद्दीकरण | Hubo una cancelación imprevista debido al temporal.
+la avería técnica | तकनीकी खराबी | Una avería técnica detuvo el tren en la vía.
+la multa por exceso | ओवरस्पीडिंग जुर्माना | Pagamos una multa por exceso de velocidad al conducir.
+el despiste con la hora | समय की चूक, भ्रम | Un despiste con la hora casi nos hace perder el barco.
+el robo de cartera | पॉकेटमार चोरी, बटुआ चोरी | Denuncié el robo de cartera en la comisaría local.
+el mal tiempo | खराब मौसम | El mal tiempo suspendió todas las salidas marítimas.
+## कार किराया
+el coche de alquiler | किराए की कार | Recogimos el coche de alquiler en el aeropuerto.
+el depósito de gasolina | पेट्रोल टैंक | Llenamos el depósito de gasolina antes de devolverlo.
+la tarifa diaria | दैनिक शुल्क, प्रतिदिन किराया | La tarifa diaria incluye el seguro básico completo.
+el GPS integrado | इनबिल्ट जीपीएस, एकीकृत जीपीएस | El coche nuevo cuenta con un GPS integrado muy útil.
+la sillita infantil | बच्चों की कार सीट | Pedimos una sillita infantil para nuestro hijo pequeño.
+el kilometraje ilimitado | असीमित माइलेज | Elegimos la opción de kilometraje ilimitado.
+la franquicia del seguro | बीमा डिडक्टिबल्स, बीमा कटौती | Leímos las condiciones sobre la franquicia del seguro.
+el carné internacional | अंतर्राष्ट्रीय ड्राइविंग परमिट | Presenté mi carné internacional para conducir fuera.
+la devolución tardía | देर से वापसी | Cobran un recargo por la devolución tardía del vehículo.
+el parte de accidente | दुर्घटना रिपोर्ट, एक्सीडेंट रिपोर्ट | Firmamos el parte de accidente tras el pequeño golpe.
+## दिशा और परिवहन के साधन
+el cruce de caminos | चौराहा, मार्ग क्रॉसिंग | Giremos a la derecha en el siguiente cruce de caminos.
+la rotonda principal | मुख्य गोलचक्कर, रोटरी | Tome la segunda salida en la rotonda principal.
+el puente colgante | झूला पुल, सस्पेंशन ब्रिज | Cruzamos el río por un impresionante puente colgante.
+el túnel oscuro | अंधेरी सुरंग | El tren atravesó un túnel oscuro durante varios minutos.
+la señal de tráfico | यातायात संकेत, ट्रैफिक साइन | Conviene prestar atención a cada señal de tráfico.
+el carril bici | साइकिल ट्रैक, साइकिल लेन | Hay un carril bici seguro junto a la gran avenida.
+el peaje de la autopista | हाईवे टोल, एक्सप्रेसवे टोल | Pagamos el peaje de la autopista con tarjeta.
+el desvío provisional | अस्थायी डायवर्जन | Las obras obligan a tomar un desvío provisional.
+la parada facultativa | वैकल्पिक स्टॉप, मांग पर रुकना | Este autobús solo para en la parada facultativa si avisas.
+el semáforo en rojo | लाल बत्ती, लाल सिग्नल | Nos detuvimos al ver el semáforo en rojo.
+## प्रकृति यात्रा और कैंपिंग
+la zona de acampada | कैंपसाइट, तंबुओं का क्षेत्र | Montamos nuestra zona de acampada cerca del río.
+el saco de dormir | स्लीपिंग बैग, सोने का थैला | Por la noche refresca, usa un buen saco de dormir.
+la mochila de montaña | ट्रेकिंग बैग, माउंटेन बैकपैक | Llevo agua y comida en mi mochila de montaña.
+la cantimplora | पानी की बोतल, केंटीन | Llené la cantimplora con agua fresca de la fuente.
+la linterna frontal | हेडलैंप, माथे की टॉर्च | Necesitamos una linterna frontal para caminar de noche.
+la brújula magnética | चुंबकीय कम्पास, दिशासूचक | Comprobamos la ruta correcta con la brújula magnética.
+el bastón de trekking | ट्रेकिंग पोल, छड़ी | El bastón de trekking ayuda en las subidas pronunciadas.
+la navaja multiusos | मल्टीटूल चाकू, स्विस आर्मी नाइफ | Una navaja multiusos siempre resulta útil en el campo.
+el repelente de insectos | कीट नाशक, मच्छर भगाने की क्रीम | Aplícate repelente de insectos antes de entrar al bosque.
+la estufa portátil | पोर्टेबल स्टोव, कैंप चूल्हा | Cocinamos algo caliente con la estufa portátil.
+## यात्रा की यादें और कहानियां
+el diario de viaje | यात्रा डायरी, ट्रैवल लॉग | Escribo mis impresiones diarias en el diario de viaje.
+la postal postal | पोस्टकार्ड, पत्रकार्ड | Compré una bonita postal para enviar a mis abuelos.
+la cámara réflex | डीएसएलआर कैमरा, प्रोफेशनल कैमरा | Saqué fotos preciosas con mi cámara réflex.
+el mapa desplegable | फोल्ड होने वाला नक्शा | Abrimos el mapa desplegable sobre la mesa del café.
+el vídeo casero | होम वीडियो, घरेलू वीडियो | Grabamos un divertido vídeo casero durante el viaje.
+la anécdota divertida | मजेदार किस्सा | Contó una anécdota divertida sobre el tren perdido.
+el sello en el pasaporte | पासपोर्ट स्टाम्प, मुहर | Colecciono cada sello en el pasaporte como un trofeo.
+la sonrisa amable | प्यारी मुस्कान, मिलनसार मुस्कान | Una sonrisa amable abre muchas puertas al viajar.
+el momento inolvidable | अविस्मरणीय पल | Ver la puesta de sol fue un momento inolvidable.
+la costumbre local | स्थानीय रीति-रिवाज, संस्कृति | Aprendí mucho sobre la costumbre local del pueblo.

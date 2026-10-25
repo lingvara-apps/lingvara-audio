@@ -1,0 +1,111 @@
+# UNIT: सेवाएँ और खरीदारी | बैंक, कूरियर, हज्जाम, कपड़े
+## बैंकिंग लेनदेन
+depositar | जमा करना | Quiero depositar dinero en mi cuenta.
+transferir | पैसे भेजना, ट्रांसफर करना | Puedo transferir fondos por internet.
+firmar | हस्ताक्षर करना | Debe firmar en esta línea blanca.
+el documento | दस्तावेज़ | Necesito este documento oficial firmado.
+la cuenta bancaria | बैंक खाता | Abrir una cuenta bancaria toma poco tiempo.
+la moneda | मुद्रा | ¿Cuál es la moneda de este país?
+el cajero | कैशियर, खजांची | El cajero me entregó el dinero contado.
+el formulario | फॉर्म | Rellene este formulario con sus datos.
+la firma | हस्ताक्षर | Su firma es obligatoria aquí.
+el banco central | केंद्रीय बैंक | El banco central regula la economía nacional.
+## डाक और कूरियर
+el paquete postal | कूरियर पैकेज | Este paquete postal pesa dos kilos.
+el sobre | लिफाफा | Guardé la carta dentro del sobre blanco.
+el remitente | प्रेषक | Anote el remitente en la parte superior.
+el cartero | डाकिया | El cartero trajo cartas esta mañana.
+entregar | सौंपना, डिलीवर करना | Van a entregar el paquete mañana.
+la carta certificada | रसीदी पत्र, रजिस्ट्री पत्र | Envié la carta certificada con acuse.
+la dirección | पता | Escriba la dirección correcta en el paquete.
+pesar | वजन तोलना | Vamos a pesar la caja en la báscula.
+el código postal | पिन कोड, डाक सूचक संख्या | ¿Cuál es el código postal de tu barrio?
+la oficina postal | डाकघर | La oficina postal cierra a las cinco.
+## सैलून और सौंदर्य
+cortar el pelo | बाल काटना | Quiero cortar el pelo un poco corto.
+teñir | बाल रंगना | Prefiero teñir mi cabello de castaño.
+el champú nutritivo | पोषण देने वाला शैम्पू | Este champú nutritivo fortalece el cabello.
+las tijeras | कैंची | El barbero usa tijeras muy afiladas.
+el secador de pelo | हेयर ड्रायर | Enchufa el secador de pelo en el baño.
+el corte | हेयरकट, बाल कटाई | Me gusta mucho este nuevo corte.
+el tinte | हेयर डाई, बालों का रंग | El tinte natural no daña el pelo.
+peinar | बाल झाड़ना, कंघी करना | Debes peinar tu cabello antes de salir.
+el espejo grande | बड़ा शीशा | El espejo grande está en la pared.
+la cita previa | अग्रिम अपॉइंटमेंट, पूर्व निर्धारित मुलाकात | Necesito una cita previa para mañana.
+## कपड़े और फ़ैशन
+probarse ropa | कपड़े आज़माना | Quiero probarse ropa en el probador.
+la chaqueta de cuero | चमड़े की जैकेट | Compró una chaqueta de cuero negra.
+el abrigo de lana | ऊनी कोट | Este abrigo de lana abriga bastante.
+la camisa de algodón | सूती कमीज़ | Prefiero la camisa de algodón fresco.
+los pantalones cortos | शॉर्ट्स, निक्कर | En verano uso pantalones cortos cómodos.
+el vestido largo | लंबी पोशाक | Ella lleva un vestido largo azul.
+la falda corta | छोटी स्कर्ट | Esta falda corta es muy moderna.
+el sombrero de paja | स्ट्रॉ हैट, घास की टोपी | Llevo un sombrero de paja bajo el sol.
+las botas de invierno | सर्दियों के जूते, विंटर बूट्स | Mis botas de invierno son impermeables.
+la bufanda de lana | ऊनी मफलर | Protégete el cuello con la bufanda de lana.
+## दर्ज़ी और मरम्मत
+arreglar | ठीक करना, सुधारना | El sastre va a arreglar mi pantalón.
+encoger | सिकुड़ना | Esta camisa puede encoger con agua caliente.
+alargar | लंबा करना | ¿Puede alargar las mangas de esta chaqueta?
+cortar las mangas | आस्तीन काटना | Voy a cortar las mangas de esta camisa.
+coser un botón | बटन सिलना | Necesito coser un botón en mi abrigo.
+la aguja | सुई | Usa una aguja fina para este tejido.
+el hilo fuerte | मजबूत धागा | Este hilo fuerte no se rompe fácil.
+el sastre | दर्ज़ी | El sastre trabaja con mucha precisión.
+la modista | महिला दर्ज़ी | La modista diseñó un vestido hermoso.
+el remiendo | पैबंद, रफू | Hizo un remiendo invisible en el pantalón.
+## सफाई सेवाएँ
+lavar en seco | ड्राई क्लीन करना | Prefiero lavar en seco este traje elegante.
+planchar la ropa | कपड़े प्रेस करना | Debes planchar la ropa antes de guardarla.
+la tintorería | ड्राई क्लीनर | Dejé el abrigo en la tintorería local.
+la mancha | दाग | Esta mancha de café no sale fácil.
+limpiar a fondo | गहरी सफाई करना | Vamos a limpiar a fondo toda la casa.
+el detergente | डिटर्जेंट, धोने का पाउडर | Este detergente cuida los colores oscuros.
+el suavizante | फैब्रिक सॉफ़्नर, कपड़े मुलायम करने वाला तरल | Añade suavizante para que huela bien.
+la tabla de planzar | इस्त्री मेज, आयरन बोर्ड | Monta la tabla de planzar en el salón.
+el tendedero | कपड़े सुखाने की रस्सी या स्टैंड | Colgué la ropa mojada en el tendedero.
+la colada | धुलाई के कपड़े | Hoy toca hacer la colada completa.
+## इलेक्ट्रॉनिक मरम्मत
+reparar el teléfono | फोन ठीक करना | Pueden reparar el teléfono en una hora.
+la pantalla táctil | टचस्क्रीन | La pantalla táctil no responde bien hoy.
+la batería recargable | रिचार्जेबल बैटरी | Esta batería recargable dura mucho tiempo.
+el cargador rápido | फास्ट चार्जर | Olvidé mi cargador rápido en casa.
+el técnico | तकनीशियन | El técnico revisó el ordenador portátil.
+la pieza de repuesto | स्पेयर पार्ट, रिज़र्व पुर्जा | Buscamos una pieza de repuesto original.
+el circuito | सर्किट | El circuito eléctrico sufrió un daño.
+reiniciar | रीबूट करना, पुनः आरंभ करना | Intenta reiniciar el dispositivo ahora.
+la garantía | वारंटी | El producto tiene dos años de garantía.
+el engranaj | गियर, दांतेदार पहिया | El mecanismo necesita un engranaj nuevo.
+## ऑप्टिकल और चश्मे
+graduar la vista | दृष्टि परीक्षण कराना | Voy a graduar la vista en la óptica.
+las gafas de sol | धूप का चश्मा | Llevo gafas de sol contra el brillo.
+la montura ligera | हल्की फ्रेम | Elegí una montura ligera y cómoda.
+la lente de contacto | कॉन्टैक्ट लेंस | Prefiero usar lente de contacto para hacer deporte.
+el estuche | चश्मे का डिब्बा | Guarda tus gafas en el estuche duro.
+la graduación | नंबर (आँखों का), पावर | Mi graduación ha cambiado este año.
+el cristal antirreflejante | एंटी-रिफ्लेक्टिव लेंस | Compré cristales con capa antirreflejante.
+limpiar los cristales | कांच साफ करना | Usa un paño suave para limpiar los cristales.
+el oculista | नेत्र विशेषज्ञ | El oculista examinó mis ojos con calma.
+la agudeza visual | दृष्टि तीक्ष्णता | Su agudeza visual es excelente hoy.
+## होटल और आवास सेवाएँ
+hacer el check-in | चेक-इन करना | Vamos a hacer el check-in en recepción.
+pedir la llave | चाबी मांगना | Voy a pedir la llave de nuestra habitación.
+el servicio de despertador | वेक-अप कॉल सेवा | Solicité el servicio de despertador temprano.
+la propina generosa | उदार बख्शीश | Dejó una propina generosa al maletero.
+la estancia agradable | सुखद प्रवास | Tuvimos una estancia agradable en el hotel.
+la cama doble | डबल बेड | Nuestra habitación tiene una cama doble.
+el folleto informativo | सूचना पुस्तिका, ब्रोशर | Leí el folleto informativo sobre la ciudad.
+la salida anticipada | समय से पहले चेक-आउट | No podemos aceptar una salida anticipada.
+la llave electrónica | इलेक्ट्रॉनिक चाबी | Usa esta llave electrónica para abrir.
+el conserje | दरबान, कंसीयर्ज | El conserje nos ayudó con las maletas.
+## आपातकालीन सेवाएँ और मरम्मत
+llamar a la grúa | क्रेन को बुलाना | Tuve que llamar a la grúa por la avería.
+el taller mecánico | ऑटो गैराज | El coche está en el taller mecánico.
+la rueda pinchada | पंक्चर टायर | Cambié la rueda pinchada en la carretera.
+el cerrajero | तालासाफ, चाबी बनाने वाला | Llamé al cerrajero porque perdí la llave.
+la fuga de agua | पानी का रिसाव | Hay una fuga de agua en la cocina.
+el electricista | इलेक्ट्रीशियन, बिजली वाला | El electricista arregló el enchufe roto.
+romperse la tubería | पाइप फटना | Puede romperse la tubería con heladas.
+el servicio técnico | तकनीकी सेवा | Llamé al servicio técnico de la caldera.
+el auxilio | सहायता, मदद | Pedimos auxilio en medio de la tormenta.
+la herramienta adecuada | उपयुक्त औजार | Necesito la herramienta adecuada para reparar.

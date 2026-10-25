@@ -1,0 +1,111 @@
+# UNIT: Services and shopping | Bank, courier, hairdresser, clothing
+## Banking operations
+depositar | deposit money | I want to deposit money into my account.
+transferir | transfer funds | I can transfer funds online.
+firmar | sign | You must sign on this white line.
+el documento | document, official paper | I need this signed official document.
+la cuenta bancaria | bank account | Opening a bank account takes a little time.
+la moneda | currency, coin | What is the currency of this country?
+el cajero | cashier, teller | The cashier handed me the counted money.
+el formulario | form | Fill out this form with your details.
+la firma | signature | Your signature is mandatory here.
+el banco central | central bank | The central bank regulates the national economy.
+## Post office and courier
+el paquete postal | postal package, parcel | This postal package weighs two kilos.
+el sobre | envelope | I kept the letter inside the white envelope.
+el remitente | sender | Write the sender at the top.
+el cartero | postman, mail carrier | The postman brought letters this morning.
+entregar | deliver | They are going to deliver the package tomorrow.
+la carta certificada | registered letter | I sent the registered letter with receipt.
+la dirección | address | Write the correct address on the package.
+pesar | weigh | We are going to weigh the box on the scale.
+el código postal | postal code, zip code | What is the postal code of your neighborhood?
+la oficina postal | post office | The post office closes at five.
+## Hairdressing and grooming
+cortar el pelo | cut hair | I want to get my hair cut a bit short.
+teñir | dye hair, color hair | I prefer to dye my hair brown.
+el champú nutritivo | nourishing shampoo | This nourishing shampoo strengthens the hair.
+las tijeras | scissors, shears | The barber uses very sharp scissors.
+el secador de pelo | hair dryer | Plug in the hair dryer in the bathroom.
+el corte | haircut, cut | I really like this new haircut.
+el tinte | hair dye, tint | Natural hair dye does not damage the hair.
+peinar | comb, style hair | You must comb your hair before going out.
+el espejo grande | large mirror | The large mirror is on the wall.
+la cita previa | advance appointment | I need an advance appointment for tomorrow.
+## Clothing and fashion
+probarse ropa | try on clothes | I want to try on clothes in the fitting room.
+la chaqueta de cuero | leather jacket | She bought a black leather jacket.
+el abrigo de lana | wool coat | This wool coat keeps you quite warm.
+la camisa de algodón | cotton shirt | I prefer the cool cotton shirt.
+los pantalones cortos | shorts | In summer I wear comfortable shorts.
+el vestido largo | long dress | She is wearing a long blue dress.
+la falda corta | short skirt | This short skirt is very modern.
+el sombrero de paja | straw hat | I am wearing a straw hat under the sun.
+las botas de invierno | winter boots | My winter boots are waterproof.
+la bufanda de lana | wool scarf | Protect your neck with the wool scarf.
+## Tailoring and repairs
+arreglar | mend, alter | The tailor is going to alter my trousers.
+encoger | shrink | This shirt can shrink in hot water.
+alargar | lengthen | Can you lengthen the sleeves of this jacket?
+cortar las mangas | shorten the sleeves | I am going to shorten the sleeves of this shirt.
+coser un botón | sew on a button | I need to sew on a button on my coat.
+la aguja | needle | Use a fine needle for this fabric.
+el hilo fuerte | strong thread | This strong thread does not break easily.
+el sastre | tailor [male] | The tailor works with great precision.
+la modista | dressmaker, tailor [female] | The dressmaker designed a beautiful dress.
+el remiendo | patch, mend | He made an invisible patch on the trousers.
+## Cleaning services
+lavar en seco | dry clean | I prefer to dry clean this elegant suit.
+planchar la ropa | iron clothes | You must iron the clothes before putting them away.
+la tintorería | dry cleaner's | I left the coat at the local dry cleaner's.
+la mancha | stain | This coffee stain does not come out easily.
+limpiar a fondo | clean thoroughly | We are going to clean the whole house thoroughly.
+el detergente | detergent | This detergent protects dark colors.
+el suavizante | fabric softener | Add fabric softener so it smells nice.
+la tabla de planzar | ironing board | Set up the ironing board in the living room.
+el tendedero | clothesline, drying rack | I hung the wet clothes on the drying rack.
+la colada | laundry | Today is the day to do a full load of laundry.
+## Electronics repair
+reparar el teléfono | repair the phone | They can repair the phone in an hour.
+la pantalla táctil | touchscreen | The touchscreen is not responding well today.
+la batería recargable | rechargeable battery | This rechargeable battery lasts a long time.
+el cargador rápido | fast charger | I forgot my fast charger at home.
+el técnico | technician | The technician checked the laptop.
+la pieza de repuesto | spare part | We are looking for an original spare part.
+el circuito | circuit | The electrical circuit suffered damage.
+reiniciar | reboot, restart | Try to restart the device now.
+la garantía | warranty, guarantee | The product has a two-year warranty.
+el engranaj | gear | The mechanism needs a new gear.
+## Optics and eyewear
+graduar la vista | test eyesight, check vision | I am going to have my eyesight tested at the optician's.
+las gafas de sol | sunglasses | I am wearing sunglasses against the glare.
+la montura ligera | light frame | I chose a light and comfortable frame.
+la lente de contacto | contact lens | I prefer to use a contact lens for playing sports.
+el estuche | glasses case | Keep your glasses in the hard case.
+la graduación | prescription [eyewear], grade | My eye prescription has changed this year.
+el cristal antirreflejante | anti-reflective lens | I bought lenses with an anti-reflective coating.
+limpiar los cristales | clean the lenses | Use a soft cloth to clean the lenses.
+el oculista | eye doctor, optometrist | The eye doctor examined my eyes calmly.
+la agudeza visual | visual acuity | Your visual acuity is excellent today.
+## Hotel and accommodation services
+hacer el check-in | check in | We are going to check in at reception.
+pedir la llave | ask for the key | I am going to ask for the key to our room.
+el servicio de despertador | wake-up call service | I requested the early wake-up call service.
+la propina generosa | generous tip | He left a generous tip for the bellboy.
+la estancia agradable | pleasant stay | We had a pleasant stay at the hotel.
+la cama doble | double bed | Our room has a double bed.
+el folleto informativo | informative brochure | I read the informative brochure about the city.
+la salida anticipada | early departure | We cannot accept an early departure.
+la llave electrónica | electronic key | Use this electronic key to open.
+el conserje | concierge, receptionist | The concierge helped us with the suitcases.
+## Emergency services and repairs
+llamar a la grúa | call a tow truck | I had to call a tow truck because of the breakdown.
+el taller mecánico | auto repair shop, garage | The car is at the auto repair shop.
+la rueda pinchada | flat tire | I changed the flat tire on the road.
+el cerrajero | locksmith | I called the locksmith because I lost the key.
+la fuga de agua | water leak | There is a water leak in the kitchen.
+el electricista | electrician | The electrician fixed the broken socket.
+romperse la tubería | burst the pipe, pipe breaking | The pipe can burst with freezing temperatures.
+el servicio técnico | technical service | I requested the boiler technical service.
+el auxilio | help, assistance | We asked for help in the middle of the storm.
+la herramienta adecuada | right tool | I need the right tool to make repairs.

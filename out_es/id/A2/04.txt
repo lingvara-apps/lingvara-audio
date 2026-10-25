@@ -1,0 +1,111 @@
+# UNIT: Perjalanan | Pesawat, kereta, hotel, tamasya, dokumen
+## Penerbangan dan Bandara
+facturar | mendaftarkan bagasi, lapor masuk | Kita harus mendaftarkan bagasi sekarang.
+la tarjeta de embarque | kartu boarding, tiket naik pesawat | Tunjukkan kartu boarding Anda di gerbang.
+el control de seguridad | pemeriksaan keamanan | Pemeriksaan keamanan sangat ramai hari ini.
+la aduana | bea cukai | Kami melewati bea cukai tanpa masalah.
+el mostrador | konter, loket | Tanyakan di konter informasi.
+la compañía aérea | maskapai penerbangan | Maskapai penerbangan kami mengubah waktu penerbangan.
+la puerta de embarque | gerbang keberangkatan | Penerbangan berangkat dari gerbang keberangkatan tiga.
+el asiento de ventanilla | kursi dekat jendela | Saya lebih suka kursi dekat jendela untuk melihat pemandangan.
+perder el vuelo | ketinggalan pesawat | Aku tidak ingin ketinggalan penerbangan pagi.
+la escala | transit, perhentian antara | Kami punya waktu transit yang lama di Madrid.
+## Perjalanan Kereta dan Bus
+el andén de pasajeros | peron penumpang, peron | Kereta cepat menunggu di peron penumpang lima.
+el revisor | kondektur, pemeriksa tiket | Kondektur meminta tiket dari para penumpang.
+la estación de autobuses | terminal bus | Terminal bus letaknya jauh dari pusat kota.
+el vagon | gerbong kereta | Kursi kami berada di gerbong ketiga.
+perder el tren | ketinggalan kereta | Berlarilah atau kita akan ketinggalan kereta.
+el carril | jalur khusus, lajur | Bus berjalan di jalur khususnya sendiri.
+el trayecto | perjalanan, rute | Perjalanan dengan kereta memakan waktu dua jam.
+el horario de salidas | jadwal keberangkatan | Periksalah jadwal keberangkatan di layar digital.
+el billete sencillo | tiket sekali jalan | Aku akan membeli tiket sekali jalan ke Valencia.
+la ventanilla de billetes | loket tiket | Ada antrean panjang di loket tiket.
+## Hotel dan Akomodasi
+la llave magnética | kunci kartu, kunci magnetik | Ini kunci kartu kamar Anda.
+la recepción | resepsionis, meja depan | Tinggalkan kunci di resepsionis sebelum pergi.
+la planta baja | lantai dasar | Kamar kami berada di lantai dasar.
+el servicio de habitaciones | layanan kamar | Kami memesan makan malam melalui layanan kamar.
+el albergue | hostel, penginapan murah | Kaum muda lebih suka menginap di hostel yang murah.
+la estancia | masa menginap, tinggal | Kami sangat menikmati masa menginap kami di hotel.
+la propina al botones | tip bellboy | Aku memberikan sedikit tip kepada bellboy untuk koper-koper itu.
+el balcón con vistas | balkon pemandangan | Kami makan malam di balkon dengan pemandangan laut.
+el cambio de divisas | penukaran mata uang | Hotel ini menyediakan layanan penukaran mata uang.
+la salida del hotel | waktu keluar hotel, check-out | Batas waktu untuk keluar hotel adalah pukul dua belas.
+## Tamasya dan Penjelajahan
+la excursión guiada | tur berpandu, tamasya berpandu | Kami menyewa tur berpandu keliling kota tua.
+el folleto turístico | brosur pariwisata | Aku membaca semua informasi di brosur pariwisata.
+el monumento histórico | monumen bersejarah | Kami mengunjungi monumen bersejarah yang penting kemarin.
+el plano de la ciudad | peta kota | Peta kota sangat membantu para pelancong.
+la catedral principal | katedral utama | Katedral utama mengesankan karena ukurannya.
+el barrio antiguo | kawasan kota tua, lingkungan lama | Kami berjalan-jalan di gang-gang kawasan kota tua.
+el mirador panorámico | geladak pantau panorama, titik pandang | Dari titik pandang panorama, seluruh lembah terlihat.
+la oficina de información | kantor informasi, pusat informasi | Kami bertanya tentang museum-museum di kantor informasi.
+la zona peatonal | zona pejalan kaki | Jalan yang indah ini termasuk dalam zona pejalan kaki.
+el recuerdo artesanal | suvenir kerajinan tangan | Aku membeli suvenir kerajinan tangan yang indah untuk ibuku.
+## Dokumen dan Uang
+el documento de identidad | kartu identitas, tanda pengenal | Selalu bawa kartu identitas Anda.
+el visado de entrada | visa masuk | Kita perlu mengurus visa masuk jauh-jauh hari.
+la tarjeta de crédito | kartu kredit | Bisakah saya membayar tagihan ini dengan kartu kredit?
+el seguro médico | asuransi kesehatan | Bepergian dengan asuransi kesehatan internasional hukumnya wajib.
+el cajero automático | anjungan tunai mandiri, ATM | Aku perlu mencari ATM terdekat.
+la moneda local | mata uang lokal | Berguna untuk memiliki sedikit uang tunai dalam mata uang lokal.
+el impreso oficial | formulir resmi | Kami mengisi formulir resmi di perbatasan.
+la fotocopia compulsada | salinan tersertifikasi, fotokopi legalisir | Aku menyerahkan salinan tersertifikasi dari paspor tersebut.
+el carné de conducir | surat izin mengemudi, SIM | Kami menyewa mobil dengan menunjukkan surat izin mengemudi.
+la factura detallada | faktur terperinci, nota terperinci | Aku meminta faktur terperinci dari semua pengeluaran.
+## Masalah Perjalanan
+el retraso del vuelo | keterlambatan penerbangan | Keterlambatan penerbangan memaksa kami menunggu selama berjam-jam.
+la huelga de transportes | pemogokan transportasi umum | Pemogokan transportasi umum memperumit rencana kami.
+la pérdida de equipaje | kehilangan bagasi | Aku mengajukan klaim kehilangan bagasi di konter khusus.
+el billete caducado | tiket kedaluwarsa | Kamu tidak bisa bepergian dengan tiket kedaluwarsa.
+la cancelación imprevista | pembatalan tak terduga | Terjadi pembatalan tak terduga akibat badai.
+la avería técnica | gangguan teknis | Gangguan teknis menghentikan kereta di jalur.
+la multa por exceso | denda ngebut, denda batas kecepatan | Kami membayar denda karena mengemudi melebihi batas kecepatan.
+el despiste con la hora | salah waktu, kekeliruan waktu | Kekeliruan waktu hampir membuat kami ketinggalan kapal.
+el robo de cartera | pencurian dompet | Aku melaporkan pencurian dompet di kantor polisi setempat.
+el mal tiempo | cuaca buruk | Cuaca buruk menangguhkan semua keberangkatan laut.
+## Sewa Mobil
+el coche de alquiler | mobil sewaan | Kami mengambil mobil sewaan di bandara.
+el depósito de gasolina | tangki bensin | Kami mengisi penuh tangki bensin sebelum mengembalikannya.
+la tarifa diaria | tarif harian | Tarif harian sudah mencakup asuransi dasar penuh.
+el GPS integrado | GPS bawaan, GPS terintegrasi | Mobil baru ini dilengkapi dengan GPS bawaan yang sangat berguna.
+la sillita infantil | kursi anak | Kami meminta kursi anak untuk putra kecil kami.
+el kilometraje ilimitado | kilometer tak terbatas | Kami memilih opsi kilometer tak terbatas.
+la franquicia del seguro | kelebihan tanggungan asuransi, risiko sendiri | Kami membaca ketentuan mengenai kelebihan tanggungan asuransi.
+el carné internacional | surat izin mengemudi internasional | Aku menunjukkan surat izin mengemudi internasional milikku untuk mengemudi di luar negeri.
+la devolución tardía | pengembalian terlambat | Mereka mengenakan biaya tambahan untuk pengembalian kendaraan yang terlambat.
+el parte de accidente | laporan kecelakaan | Kami menandatangani laporan kecelakaan setelah benturan kecil itu.
+## Arah dan Transportasi
+el cruce de caminos | persimpangan jalan | Beloklah ke kanan di persimpangan jalan berikutnya.
+la rotonda principal | bundaran utama | Ambil pintu keluar kedua di bundaran utama.
+el puente colgante | jembatan gantung | Kami menyeberangi sungai melalui jembatan gantung yang mengesankan.
+el túnel oscuro | terowongan gelap | Kereta melewati terowongan gelap selama beberapa menit.
+la señal de tráfico | rambu lalu lintas | Sebaiknya perhatikan setiap rambu lalu lintas.
+el carril bici | jalur sepeda | Ada jalur sepeda yang aman di sebelah jalan raya besar.
+el peaje de la autopista | tol jalan raya, pembayaran tol | Kami membayar tol jalan raya dengan kartu.
+el desvío provisional | pengalihan sementara | Pekerjaan jalan memaksa pengemudi mengambil pengalihan sementara.
+la parada facultativa | halte pilihan, pemberhentian opsional | Bus ini hanya berhenti di halte pilihan jika Anda memberi tahu.
+el semáforo en rojo | lampu merah | Kami berhenti saat melihat lampu merah.
+## Alam dan Berkemah
+la zona de acampada | area perkemahan | Kami mendirikan area perkemahan kami dekat sungai.
+el saco de dormir | kantong tidur | Malam hari terasa dingin, gunakan kantong tidur yang bagus.
+la mochila de montaña | ransel gunung | Aku membawa air dan makanan di ransel gunungku.
+la cantimplora | labu air, botol minum lapangan | Aku mengisi botol minum lapangan dengan air segar dari mata air.
+la linterna frontal | lampu kepala | Kami membutuhkan lampu kepala untuk berjalan pada malam hari.
+la brújula magnética | kompas magnetik | Kami memeriksa rute yang benar dengan kompas magnetik.
+el bastón de trekking | tongkat hiking | Tongkat hiking membantu saat mendaki tanjakan terjal.
+la navaja multiusos | pisau lipat serbaguna | Pisau lipat serbaguna selalu berguna di alam bebas.
+el repelente de insectos | losion anti-serangga, obat nyamuk | Oleskan losion anti-serangga sebelum memasuki hutan.
+la estufa portátil | kompor portabel | Kami memasak sesuatu yang hangat dengan kompor portabel.
+## Kenangan dan Cerita Perjalanan
+el diario de viaje | buku harian perjalanan | Aku menulis kesan harian di buku harian perjalanan.
+la postal postal | kartu pos | Aku membeli kartu pos yang indah untuk dikirim ke kakek-nenekku.
+la cámara réflex | kamera DSLR, kamera SLR | Aku mengambil foto-foto indah dengan kamera DSLR-ku.
+el mapa desplegable | peta lipat | Kami membuka peta lipat di atas meja kafe.
+el vídeo casero | video rumah | Kami merekam video rumah yang lucu selama perjalanan.
+la anécdota divertida | cerita lucu, anekdot lucu | Dia menceritakan sebuah cerita lucu tentang kereta yang ketinggalan.
+el sello en el pasaporte | stempel paspor | Aku mengoleksi setiap stempel di paspor seperti sebuah trofi.
+la sonrisa amable | senyum ramah | Senyum ramah membuka banyak pintu saat bepergian.
+el momento inolvidable | momen tak terlupakan | Menyaksikan matahari terbenam adalah momen tak terlupakan.
+la costumbre local | adat istiadat setempat | Aku belajar banyak tentang adat istiadat setempat di desa itu.

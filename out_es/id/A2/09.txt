@@ -1,0 +1,111 @@
+# UNIT: Layanan dan Belanja | Bank, kurir, salon, pakaian
+## Perbankan
+depositar | menyetor uang | Saya ingin menyetor uang ke rekening saya.
+transferir | mentransfer | Saya bisa mentransfer dana melalui internet.
+firmar | menandatangani | Anda harus menandatangani di garis putih ini.
+el documento | dokumen | Saya membutuhkan dokumen resmi yang bertanda tangan ini.
+la cuenta bancaria | rekening bank | Membuka rekening bank membutuhkan waktu singkat.
+la moneda | mata uang | Apa mata uang negara ini?
+el cajero | kasir | Kasir menyerahkan uang yang sudah dihitung kepada saya.
+el formulario | formulir | Isilah formulir ini dengan data Anda.
+la firma | tanda tangan | Tanda tangan Anda wajib di sini.
+el banco central | bank sentral | Bank sentral mengatur ekonomi nasional.
+## Pos dan Kurir
+el paquete postal | paket pos | Paket pos ini beratnya dua kilo.
+el sobre | amplop | Saya menyimpan surat di dalam amplop putih.
+el remitente | pengirim | Catat pengirim di bagian atas.
+el cartero | tukang pos | Tukang pos membawa surat-surat pagi ini.
+entregar | mengantar | Mereka akan mengantar paket besok.
+la carta certificada | surat tercatat | Saya mengirim surat tercatat dengan tanda terima.
+la dirección | alamat | Tulis alamat yang benar pada paket.
+pesar | menimbang | Kami akan menimbang kotak itu di timbangan.
+el código postal | kode pos | Apa kode pos lingkunganmu?
+la oficina postal | kantor pos | Kantor pos tutup pukul lima.
+## Salon dan Perawatan
+cortar el pelo | potong rambut | Saya ingin memotong rambut sedikit pendek.
+teñir | mengecat | Saya lebih suka mengecat rambut saya menjadi cokelat.
+el champú nutritivo | sampo penutrisi | Sampo penutrisi ini menguatkan rambut.
+las tijeras | gunting | Tukang cukur itu menggunakan gunting yang sangat tajam.
+el secador de pelo | pengering rambut | Colokkan pengering rambut di kamar mandi.
+el corte | potongan rambut | Saya sangat menyukai potongan rambut baru ini.
+el tinte | pewarna rambut | Pewarna alami tidak merusak rambut.
+peinar | menyisir | Kamu harus menyisir rambutmu sebelum pergi.
+el espejo grande | cermin besar | Cermin besar itu ada di dinding.
+la cita previa | janji temu | Saya memerlukan janji temu untuk besok.
+## Pakaian dan Mode
+probarse ropa | mencoba pakaian | Saya ingin mencoba pakaian di kamar pas.
+la chaqueta de cuero | jaket kulit | Dia membeli jaket kulit hitam.
+el abrigo de lana | mantel wol | Mantel wol ini cukup menghangatkan.
+la camisa de algodón | kemeja katun | Saya lebih suka kemeja katun yang sejuk.
+los pantalones cortos | celana pendek | Di musim panas, saya memakai celana pendek yang nyaman.
+el vestido largo | gaun panjang | Dia mengenakan gaun panjang biru.
+la falda corta | rok pendek | Rok pendek ini sangat modern.
+el sombrero de paja | topi jerami | Saya memakai topi jerami di bawah terik matahari.
+las botas de invierno | sepatu bot musim dingin | Sepatu bot musim dingin saya kedap air.
+la bufanda de lana | syal wol | Lindungi lehermu dengan syal wol.
+## Penjahit dan Perbaikan
+arreglar | memperbaiki | Penjahit akan memperbaiki celana saya.
+encoger | menyusut | Kemeja ini bisa menyusut jika terkena air panas.
+alargar | memanjangkan | Bisakah Anda memanjangkan lengan jaket ini?
+cortar las mangas | memotong lengan baju | Saya akan memotong lengan kemeja ini.
+coser un botón | menjahit kancing | Saya perlu menjahit kancing pada mantel saya.
+la aguja | jarum | Gunakan jarum yang tipis untuk kain ini.
+el hilo fuerte | benang kuat | Benang kuat ini tidak mudah putus.
+el sastre | penjahit pria | Penjahit bekerja dengan sangat presisi.
+la modista | penjahit wanita | Penjahit wanita itu mendesain gaun yang indah.
+el remiendo | tambalan | Dia membuat tambalan tak kasat mata pada celana itu.
+## Layanan Kebersihan
+lavar en seco | cuci kering | Saya lebih suka mencuci kering setelan elegan ini.
+planchar la ropa | menyetrika pakaian | Kamu harus menyetrika pakaian sebelum menyimpannya.
+la tintorería | binatu cuci kering | Saya meninggalkan mantel di binatu lokal.
+la mancha | noda | Noda kopi ini tidak mudah hilang.
+limpiar a fondo | membersihkan secara menyeluruh | Kami akan membersihkan seluruh rumah secara menyeluruh.
+el detergente | detergen | Detergen ini merawat warna gelap.
+el suavizante | pelembut pakaian | Tambahkan pelembut agar berbau harum.
+la tabla de planzar | papan setrika | Pasang papan setrika di ruang tamu.
+el tendedero | jemuran | Saya menggantung pakaian basah di jemuran.
+la colada | cucian | Hari ini waktunya mencuci pakaian lengkap.
+## Perbaikan Elektronik
+reparar el teléfono | memperbaiki telepon | Mereka dapat memperbaiki telepon dalam waktu satu jam.
+la pantalla táctil | layar sentuh | Layar sentuh tidak merespons dengan baik hari ini.
+la batería recargable | baterai isi ulang | Baterai isi ulang ini bertahan lama.
+el cargador rápido | pengisi daya cepat | Saya lupa pengisi daya cepat saya di rumah.
+el técnico | teknisi | Teknisi memeriksa laptop tersebut.
+la pieza de repuesto | suku cadang | Kami mencari suku cadang asli.
+el circuito | sirkuit | Sirkuit listrik mengalami kerusakan.
+reiniciar | memulai ulang | Coba mulai ulang perangkat sekarang.
+la garantía | garansi | Produk ini memiliki garansi dua tahun.
+el engranaj | roda gigi | Mekanisme ini membutuhkan roda gigi baru.
+## Optik dan Kacamata
+graduar la vista | tes penglihatan | Saya akan melakukan tes penglihatan di optik.
+las gafas de sol | kacamata hitam | Saya memakai kacamata hitam untuk menangkal silau.
+la montura ligera | bingkai ringan | Saya memilih bingkai yang ringan dan nyaman.
+la lente de contacto | lensa kontak | Saya lebih suka menggunakan lensa kontak untuk berolahraga.
+el estuche | kotak kacamata | Simpan kacamata Anda di dalam kotak yang keras.
+la graduación | ukuran kacamata | Ukuran kacamata saya telah berubah tahun ini.
+el cristal antirreflejante | lensa anti-refleksi | Saya membeli lensa dengan lapisan anti-refleksi.
+limpiar los cristales | membersihkan kaca | Gunakan kain lembut untuk membersihkan kaca.
+el oculista | dokter mata | Dokter mata memeriksa mata saya dengan tenang.
+la agudeza visual | ketajaman visual | Ketajaman visual Anda sangat luar biasa hari ini.
+## Hotel dan Layanan Akomodasi
+hacer el check-in | melapor masuk | Kami akan melapor masuk di resepsionis.
+pedir la llave | meminta kunci | Saya akan meminta kunci kamar kami.
+el servicio de despertador | layanan bangun tidur | Saya meminta layanan bangun tidur pagi.
+la propina generosa | tip besar | Dia meninggalkan tip besar kepada petugas pelayan.
+la estancia agradable | menginap yang menyenangkan | Kami menikmati masa menginap yang menyenangkan di hotel.
+la cama doble | tempat tidur ganda | Kamar kami memiliki tempat tidur ganda.
+el folleto informativo | brosur informasi | Saya membaca brosur informasi tentang kota tersebut.
+la salida anticipada | keluar lebih awal | Kami tidak dapat menerima keluar lebih awal.
+la llave electrónica | kunci elektronik | Gunakan kunci elektronik ini untuk membuka.
+el conserje | petugas konter | Petugas membantu kami membawakan koper.
+## Layanan Darurat dan Perbaikan
+llamar a la grúa | memanggil derek | Saya harus memanggil derek karena kerusakan mobil.
+el taller mecánico | bengkel mobil | Mobil itu berada di bengkel mobil.
+la rueda pinchada | ban kempes | Saya mengganti ban kempes di jalan.
+el cerrajero | tukang kunci | Saya memanggil tukang kunci karena saya kehilangan kunci.
+la fuga de agua | kebocoran air | Ada kebocoran air di dapur.
+el electricista | tukang listrik | Tukang listrik memperbaiki colokan yang rusak.
+romperse la tubería | pipa pecah | Pipa bisa pecah akibat cuaca dingin.
+el servicio técnico | layanan teknis | Saya menelepon layanan teknis ketel uap.
+el auxilio | bantuan | Kami meminta bantuan di tengah badai.
+la herramienta adecuada | alat yang tepat | Saya memerlukan alat yang tepat untuk memperbaiki.

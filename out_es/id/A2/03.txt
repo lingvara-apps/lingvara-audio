@@ -1,0 +1,111 @@
+# UNIT: Kesehatan | Dokter, gejala, apotek, keadaan darurat
+## Rumah sakit dan janji temu
+la cita médica | janji temu dengan dokter | Saya punya janji temu dengan dokter sore ini.
+el especialista | dokter spesialis | Dokter spesialis akan memeriksa hasil tes darahmu.
+la consulta | ruang praktik dokter, konsultasi | Kami menunggu giliran kami di ruang praktik dokter.
+la tarjeta sanitaria | kartu kesehatan, kartu BPJS | Tunjukkan kartu kesehatanmu di bagian resepsionis.
+el centro de salud | puskesmas | Puskesmas buka sampai pukul delapan.
+urgencias | unit gawat darurat, IGD | Mereka membawa orang yang terluka itu ke IGD dengan cepat.
+la ambulancia | ambulans | Sirene ambulans berbunyi di jalan raya.
+el enfermero | perawat pria | Perawat pria itu mengukur tekanan darahku dengan tenang.
+la enfermera | perawat wanita | Perawat wanita itu mendesinfeksi luka dengan hati-hati.
+el paciente | pasien | Pasien itu beristirahat di kamar nomor sepuluh.
+## Tubuh dan rasa sakit
+la garganta | tenggorokan | Tenggorokanku sangat sakit saat menelan air.
+el pecho | dada | Dia merasakan tekanan yang aneh di dadanya.
+el abdomen | perut | Dia merasakan nyeri tajam di bagian perut atas.
+la muela | gigi geraham | Gigi geraham yang berlubang itu membutuhkan penambalan segera.
+el hueso | tulang | Dia jatuh dari sepeda dan patah tulang.
+la articulación | sendi | Sendi-sendi terasa sakit akibat dinginnya musim dingin.
+el músculo | otot | Peregangan yang baik mencegah cedera otot.
+la sangre | darah | Mendonorkan darah adalah tindakan solidaritas yang sangat penting.
+el síntoma | gejala | Sejak kapan kamu mengalami gejala aneh ini?
+la alergia | alergi | Dia menderita alergi serbuk sari yang parah di musim semi.
+## Penyakit dan kondisi
+la gripe | flu, influenza | Dia terserang flu selama musim hujan.
+la carraspera | tenggorokan gatal, batuk ringan | Tenggorokan yang gatal membuatnya terganggu saat berbicara di depan umum.
+la temperatura alta | demam tinggi | Anak itu demam tinggi dan harus istirahat.
+el mareo | pusing, mabuk laut | Perjalanan dengan kapal membuat kepalanya sangat pusing.
+el vómito | muntah | Muntah-muntah berhenti setelah minum cairan elektrolit.
+la diarrea | diare | Diare memerlukan makanan lunak dan banyak cairan.
+el insomnio | insomnia, susah tidur | Stres kerja menyebabkan dia mengalami insomnia kronis.
+la depresión | depresi | Mencari bantuan profesional sedikit demi sedikit mengatasi depresi.
+la ansiedad | kecemasan | Tarik napas dalam-dalam mengurangi kecemasan sebelum berbicara.
+el contagio | penularan, infeksi | Mencegah penularan berarti sering mencuci tangan.
+## Pengobatan dan pemeriksaan
+el diagnóstico | diagnosis | Dokter mengomunikasikan diagnosis dengan jelas.
+la radiografía | rontgen, sinar-X | Hasil rontgen menunjukkan sedikit retakan pada tulang radius.
+la inyección | suntikan | Dia takut disuntik tetapi sangat berani.
+el análisis | tes laboratorium, analisis | Hasil tes laboratorium datang pagi ini.
+la operación | operasi | Operasi bedah itu berlangsung lebih dari empat jam.
+la cura | perawatan luka | Perawatan luka setiap hari mencegah infeksi pada luka.
+el vendaje | perban, pembalut | Fisioterapis menyesuaikan perban di pergelangan kakinya.
+la tirita | plester luka | Tempelkan plester kecil di atas luka di jari itu.
+el yeso | gips | Dia akan memakai gips selama enam minggu penuh.
+la rehabilitación | fisioterapi, rehabilitasi | Dia pergi ke fisioterapi tiga kali seminggu.
+## Apotek dan obat-obatan
+el dispensario | apotek, dispenser obat | Apotek yang bertugas buka sepanjang malam.
+la gragea | pil dragee, tablet kecil | Minumlah satu pil setiap delapan jam dengan air.
+el jarabe | sirup obat | Sirup manis ini meredakan batuk yang membandel.
+la pomada | salep, krim | Oleskan salep pada area yang teriritasi dengan lembut.
+la vitamina | vitamin | Mengonsumsi vitamin C memperkuat pertahanan alami tubuh.
+el antibiótico | antibiotik | Antibiotik memerlukan resep dokter yang wajib.
+el analgésico | pereda nyeri, analgesik | Pereda nyeri yang baik akan meredakan sakit kepala.
+la pastilla para dormir | pil tidur | Hindari minum pil tidur tanpa pengawasan.
+el prospecto | brosur obat, prospektus | Bacalah brosur obat sebelum mengonsumsi obat ini.
+la dosis | dosis | Patuhi secara ketat dosis yang dianjurkan oleh dokter.
+## Keadaan darurat dan luka
+el peligro | bahaya | Mereka menandai area bahaya di jalan raya.
+el rescate | penyelamatan | Tim penyelamat menemukan pendaki yang hilang itu.
+el accidente | kecelakaan | Kecelakaan kecil melumpuhkan lalu lintas perkotaan.
+el incendio | kebakaran | Petugas pemadam kebakaran memadamkan kebakaran hutan tepat waktu.
+la herida | luka | Dia mencuci luka yang dalam dengan air hangat dan sabun.
+la quemadura | luka bakar | Dia mengoleskan air dingin pada luka bakar di tangannya.
+el desmayo | pingsan | Panas terik menyebabkan orang pingsan di alun-alun.
+la hemorragia | pendarahan | Mereka menekan area tersebut untuk menghentikan pendarahan hidung.
+el veneno | racun | Beberapa tanaman liar mengandung racun yang kuat.
+el ahogamiento | tenggelam | Penjaga pantai bertindak cepat menghadapi potensi orang tenggelam.
+## Dokter gigi
+el dentista | dokter gigi | Kunjungi dokter gigi setiap enam bulan tanpa gagal.
+la clínica dental | klinik gigi | Klinik gigi ini menawarkan layanan ortodonti modern.
+la caries | gigi berlubang, karies | Kebersihan gigi yang buruk menghasilkan gigi berlubang yang dalam.
+la corona | mahkota gigi, selubung gigi | Mereka memasang mahkota pelindung di atas gigi geraham yang rusak.
+la endodoncia | perawatan saluran akar | Perawatan saluran akar menyelamatkan gigi dari pencabutan yang pasti.
+el empaste | tambalan gigi | Dokter gigi melakukan penambalan dengan cepat dan tanpa rasa sakit.
+la encía | gusi | Gusinya sedikit berdarah saat menggunakan benang gigi.
+el aparato dental | kawat gigi, alat ortodonti | Dia memakai kawat gigi logam untuk merapikan giginya.
+la anestesia | obat bius, anestesi | Anestesi lokal menghindari segala ketidaknyamanan pada gigi.
+la extracción | pencabutan gigi | Pencabutan gigi bungsu berjalan sukses.
+## Hidup sehat
+el bienestar | kesejahteraan | Keseimbangan emosional memberikan kesejahteraan harian yang luar biasa.
+el reposo | istirahat | Istirahat malam yang baik memperbarui seluruh energi.
+la relajación | relaksasi, ketenangan | Musik lembut membantu mencapai relaksasi yang mendalam.
+la hidratación | hidrasi, asupan cairan | Hidrasi yang benar meningkatkan performa fisik.
+la vitalidad | vitalitas, kesegaran | Sarapan buah segar mengembalikan vitalitas pagi hari.
+el equilibrio | keseimbangan | Menjaga keseimbangan fisik membutuhkan latihan yang konstan.
+la longevidad | umur panjang | Diet Mediterania mendukung kesehatan dan umur panjang.
+la postura | postur tubuh, posisi duduk | Memperbaiki postur saat duduk mencegah nyeri punggung bawah.
+la inmunidad | kekebalan tubuh | Tidur delapan jam sehari memperkuat kekebalan tubuh secara umum.
+el hábito | kebiasaan | Membentuk kebiasaan sehat membutuhkan kesabaran dan ketekunan.
+## Kesehatan mata
+el oftalmólogo | dokter mata | Dokter mata memeriksa ukuran kacamata saya.
+la vista | penglihatan, pandangan | Wortel menyediakan nutrisi yang merawat penglihatan.
+la miopía | rabun jauh, miopia | Miopia menghalanginya melihat benda jauh dengan jelas.
+el astigmatismo | astigmatisme | Mereka mendiagnosis astigmatisme ringan pada mata kanannya.
+la lente | lensa kontak, lensa | Dia lebih suka menggunakan lensa kontak untuk berolahraga.
+la montura | bingkai kacamata | Dia memilih bingkai titanium yang modern dan ringan.
+la lágrima | air mata | Air mata mengalir di pipinya setelah mendengar berita itu.
+la pupila | pupil mata | Pupil mata membesar dengan sedikit cahaya di dalam ruangan.
+la ceguera | kebutaan | Penelitian tingkat lanjut berupaya mencegah kebutaan pada anak.
+el parpadeo | kedipan mata | Kedipan mata yang konstan melindungi mata dari kekeringan.
+## Tenaga kesehatan dan lainnya
+el especialista en nutrición | ahli gizi, nutrisionis | Ahli gizi merancang menu yang seimbang.
+el cirujano | ahli bedah, dokter bedah | Dokter bedah utama memimpin operasi yang rumit itu.
+la comadrona | bidan | Bidan mendampingi ibu selama proses persalinan.
+el psiquiatra | psikiater | Psikiater meresepkan pengobatan yang sesuai dengan kasus tersebut.
+el psicólogo | psikolog | Sesi bersama psikolog memperbaiki suasana hatinya.
+el celador | petugas rumah sakit, pemawa brankar | Petugas rumah sakit memindahkan brankar ke ruang rontgen.
+el farmacéutico | apoteker | Apoteker menjelaskan cara meminum sirup anak tersebut.
+la mutua | asuransi kesehatan swasta | Asuransi kesehatan swasta menanggung konsultasi dokter pribadi.
+la prevencion | pencegahan | Pencegahan dini menghindari penyakit serius di masa depan.
+la convalecencia | masa pemulihan | Selama masa pemulihan, dia lebih suka membaca novel yang tenang.
