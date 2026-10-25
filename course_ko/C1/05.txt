@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+기계 학습 (gigye hakseup) | makine öğrenmesi | isim | 기계 학습은 데이터에서 규칙을 스스로 찾아내는 기술이다. | Makine öğrenmesi verilerden kuralları kendi kendine bulan bir teknolojidir.
+심층 학습 (simcheung hakseup) | derin öğrenme | isim | 심층 학습의 발전으로 음성 인식의 정확도가 크게 높아졌다. | Derin öğrenmenin gelişmesiyle ses tanımanın doğruluğu büyük ölçüde arttı.
+신경망 (singyeongmang) | sinir ağı | isim | 인공 신경망은 인간 뇌의 구조에서 영감을 얻었다. | Yapay sinir ağları insan beyninin yapısından esinlenmiştir.
+알고리즘 (algorijeum) | algoritma | isim | 추천 알고리즘이 사용자의 취향을 지나치게 좁힌다는 지적이 있다. | Öneri algoritmalarının kullanıcının zevkini aşırı daralttığı yönünde eleştiriler var.
+학습 데이터 (hakseup deiteo) | eğitim verisi | isim | 학습 데이터에 편향이 있으면 인공지능의 판단도 왜곡된다. | Eğitim verisinde yanlılık varsa yapay zekânın kararları da çarpıtılır.
+생성형 (saengseonghyeong) | üretken (yapay zekâ) | isim | 생성형 인공지능은 글과 그림을 순식간에 만들어 낸다. | Üretken yapay zekâ yazı ve resmi bir anda ortaya çıkarır.
+자율 주행 (jayul juhaeng) | otonom sürüş | isim | 자율 주행 차량의 사고 책임을 누가 질지는 아직 불분명하다. | Otonom araçların kazalarında sorumluluğun kime ait olacağı hâlâ belirsiz.
+편향 (pyeonhyang) | yanlılık, önyargı (sistematik) | isim | 채용 프로그램의 성별 편향 문제가 드러나 사용이 중단되었다. | İşe alım programındaki cinsiyet yanlılığı ortaya çıkınca kullanımı durduruldu.
+연산 (yeonsan) | hesaplama, işlem | isim | 이 칩은 일 초에 수조 번의 연산을 처리한다. | Bu çip saniyede trilyonlarca işlem yapar.
+초거대 (chogeodae) | devasa ölçekli (model) | isim | 초거대 모델을 훈련하려면 막대한 전력이 필요하다. | Devasa ölçekli bir modeli eğitmek için muazzam miktarda elektrik gerekir.
+## Dijital toplum
+디지털 격차 (dijiteol gyeokcha) | dijital uçurum | isim | 노년층의 디지털 격차를 줄이기 위한 교육이 확대되고 있다. | Yaşlıların dijital uçurumunu azaltmak için eğitimler yaygınlaşıyor.
+초연결 사회 (choyeongyeol sahoe) | hiper bağlantılı toplum | isim | 초연결 사회에서는 작은 오류도 전체 시스템에 영향을 줄 수 있다. | Hiper bağlantılı toplumda küçük bir hata bile bütün sistemi etkileyebilir.
+플랫폼 노동 (peullaetpom nodong) | platform emeği | isim | 배달 앱의 확산으로 플랫폼 노동자가 급증했다. | Teslimat uygulamalarının yaygınlaşmasıyla platform işçileri hızla arttı.
+빅데이터 (bikdeiteo) | büyük veri | isim | 시는 교통 빅데이터를 분석해 버스 노선을 조정했다. | Belediye trafik büyük verisini analiz edip otobüs hatlarını yeniden düzenledi.
+감시 사회 (gamsi sahoe) | gözetim toplumu | isim | 도시 곳곳의 카메라를 두고 감시 사회에 대한 우려가 나온다. | Şehrin her yanındaki kameralar yüzünden gözetim toplumu kaygıları dile getiriliyor.
+디지털 전환 (dijiteol jeonhwan) | dijital dönüşüm | isim | 코로나 이후 기업의 디지털 전환이 빨라졌다. | Pandemiden sonra şirketlerin dijital dönüşümü hızlandı.
+가상 현실 (gasang hyeonsil) | sanal gerçeklik | isim | 의대생들은 가상 현실로 수술 과정을 연습한다. | Tıp öğrencileri ameliyat sürecini sanal gerçeklikle çalışıyor.
+증강 현실 (jeunggang hyeonsil) | artırılmış gerçeklik | isim | 증강 현실 안내판에 휴대폰을 대면 유적지의 옛 모습이 나타난다. | Artırılmış gerçeklik panosuna telefonu tutunca tarihî alanın eski hâli beliriyor.
+사물 인터넷 (samul inteonet) | nesnelerin interneti | isim | 사물 인터넷 덕분에 밖에서도 집 안의 보일러를 켤 수 있다. | Nesnelerin interneti sayesinde dışarıdan da evdeki kombiyi açabilirsin.
+정보 과잉 (jeongbo gwaing) | bilgi bolluğu, bilgi yükü | isim | 정보 과잉 시대에는 무엇을 읽지 않을지 정하는 것도 능력이다. | Bilgi bolluğu çağında neyi okumayacağına karar vermek de bir beceridir.
+## Siber güvenlik
+암호화 (amhohwa) | şifreleme | isim | 모든 메시지는 종단 간 암호화로 보호된다. | Bütün mesajlar uçtan uca şifrelemeyle korunur.
+유출 (yuchul) | sızıntı (bilgi) | isim | 고객 정보 유출 사고로 회사가 거액의 과징금을 물었다. | Müşteri bilgisi sızıntısı yüzünden şirket yüklü bir idari para cezası ödedi.
+취약점 (chwiyakjeom) | güvenlik açığı, zayıf nokta | isim | 연구원이 프로그램의 보안 취약점을 발견해 제조사에 알렸다. | Bir araştırmacı programdaki güvenlik açığını bulup üreticiye bildirdi.
+피싱 (pising) | oltalama (phishing) | isim | 택배 문자로 위장한 피싱 사기가 기승을 부리고 있다. | Kargo mesajı kılığına girmiş oltalama dolandırıcılığı yayılıyor.
+랜섬웨어 (raenseomweeo) | fidye yazılımı | isim | 병원 전산망이 랜섬웨어에 감염되어 진료가 중단되었다. | Hastanenin bilgisayar ağına fidye yazılımı bulaşınca muayeneler durdu.
+인증 (injeung) | kimlik doğrulama | isim | 보안을 위해 이중 인증을 설정해 두세요. | Güvenlik için iki aşamalı doğrulamayı açık tutun.
+방화벽 (banghwabyeok) | güvenlik duvarı | isim | 회사 방화벽 때문에 일부 사이트에 접속할 수 없다. | Şirketin güvenlik duvarı yüzünden bazı sitelere girilemiyor.
+악성 코드 (akseong kodeu) | kötü amaçlı yazılım | isim | 출처가 불분명한 파일을 열었다가 악성 코드에 감염되었다. | Kaynağı belirsiz bir dosyayı açınca kötü amaçlı yazılım bulaştı.
+블록체인 (beullokchein) | blokzincir | isim | 블록체인 기술은 거래 기록의 위조를 어렵게 만든다. | Blokzincir teknolojisi işlem kayıtlarının sahtelenmesini zorlaştırır.
+사이버 공격 (saibeo gonggyeok) | siber saldırı | isim | 정부 기관을 노린 사이버 공격이 잇따르고 있다. | Devlet kurumlarını hedef alan siber saldırılar art arda geliyor.
+## Biyoteknoloji
+유전자 편집 (yujeonja pyeonjip) | gen düzenleme | isim | 유전자 편집 기술은 난치병 치료에 새로운 희망을 주고 있다. | Gen düzenleme teknolojisi tedavisi zor hastalıklar için yeni bir umut veriyor.
+유전체 (yujeonche) | genom | isim | 인간 유전체 분석 비용이 지난 이십 년 동안 크게 떨어졌다. | İnsan genomu analizinin maliyeti son yirmi yılda büyük ölçüde düştü.
+줄기세포 (julgisepo) | kök hücre | isim | 연구진은 줄기세포로 손상된 연골을 재생하는 데 성공했다. | Araştırmacılar kök hücreyle hasarlı kıkırdağı yenilemeyi başardı.
+복제 (bokje) | klonlama; kopya | isim | 동물 복제는 여전히 윤리적 논란을 낳고 있다. | Hayvan klonlaması hâlâ etik tartışmalara yol açıyor.
+유전자 변형 (yujeonja byeonhyeong) | genetiği değiştirilmiş | isim | 유전자 변형 농산물에는 반드시 표시를 해야 한다. | Genetiği değiştirilmiş tarım ürünleri mutlaka etiketlenmelidir.
+임상 시험 (imsang siheom) | klinik deney | isim | 신약은 세 단계의 임상 시험을 통과해야 출시될 수 있다. | Yeni bir ilaç ancak üç aşamalı klinik deneyi geçerse piyasaya çıkabilir.
+바이오 의약품 (baio uiyakpum) | biyolojik ilaç | isim | 바이오 의약품 산업은 고부가 가치 분야로 주목받고 있다. | Biyolojik ilaç sektörü yüksek katma değerli bir alan olarak ilgi görüyor.
+염기 서열 (yeomgi seoyeol) | baz dizisi (DNA) | isim | 바이러스의 염기 서열이 공개되자 백신 개발이 본격화되었다. | Virüsün baz dizisi yayımlanınca aşı geliştirme çalışmaları hız kazandı.
+생명 윤리 (saengmyeong yulli) | biyoetik | isim | 배아 연구는 생명 윤리 위원회의 승인을 받아야 한다. | Embriyo araştırmaları biyoetik kurulunun onayını almak zorundadır.
+면역 반응 (myeonyeok baneung) | bağışıklık tepkisi | isim | 백신은 몸에 면역 반응을 일으켜 항체를 만들게 한다. | Aşı vücutta bağışıklık tepkisi uyandırıp antikor üretmesini sağlar.
+## Enerji
+재생 에너지 (jaesaeng eneoji) | yenilenebilir enerji | isim | 정부는 재생 에너지 비중을 삼십 퍼센트까지 늘리겠다고 밝혔다. | Hükümet yenilenebilir enerjinin payını yüzde otuza çıkaracağını açıkladı.
+화석 연료 (hwaseok yeollyo) | fosil yakıt | isim | 화석 연료에 대한 의존을 줄이는 것이 기후 대응의 핵심이다. | Fosil yakıtlara bağımlılığı azaltmak iklim mücadelesinin özüdür.
+원자력 발전 (wonjaryeok baljeon) | nükleer enerji üretimi | isim | 원자력 발전의 안전성을 두고 찬반 논쟁이 계속되고 있다. | Nükleer enerjinin güvenliği konusunda lehte ve aleyhte tartışmalar sürüyor.
+태양광 (taeyanggwang) | güneş enerjisi (fotovoltaik) | isim | 아파트 베란다에 소형 태양광 패널을 설치하는 가구가 늘었다. | Apartman balkonuna küçük güneş paneli kuran haneler arttı.
+풍력 (pungnyeok) | rüzgâr enerjisi | isim | 바다 위에 거대한 풍력 발전 단지가 조성되고 있다. | Denizin üstünde devasa bir rüzgâr enerjisi santrali kuruluyor.
+수소 (suso) | hidrojen | isim | 수소 연료 전지 버스가 시내를 달리기 시작했다. | Hidrojen yakıt hücreli otobüsler şehirde çalışmaya başladı.
+탄소 중립 (tanso jungnip) | karbon nötr | isim | 이 기업은 이천오십 년까지 탄소 중립을 달성하겠다고 선언했다. | Bu şirket 2050'ye kadar karbon nötr olacağını ilan etti.
+온실가스 (onsilgaseu) | sera gazı | isim | 온실가스 배출량을 줄이지 않으면 기온 상승을 막을 수 없다. | Sera gazı salımını azaltmazsak sıcaklık artışını durduramayız.
+전력망 (jeollyeongmang) | elektrik şebekesi | isim | 폭염으로 전력 수요가 급증해 전력망에 과부하가 걸렸다. | Sıcak hava dalgasıyla elektrik talebi fırlayınca şebeke aşırı yüklendi.
+배터리 수명 (baeteori sumyeong) | pil ömrü | isim | 전기차의 배터리 수명은 주행 습관에 따라 달라진다. | Elektrikli aracın pil ömrü sürüş alışkanlığına göre değişir.
+## Bilimin temel kavramları
+입자 (ipja) | parçacık | isim | 빛은 파동이면서 동시에 입자의 성질을 지닌다. | Işık hem dalga hem de parçacık özelliği taşır.
+분자 (bunja) | molekül | isim | 물 분자는 수소 원자 두 개와 산소 원자 하나로 이루어져 있다. | Su molekülü iki hidrojen ve bir oksijen atomundan oluşur.
+원자 (wonja) | atom | isim | 원자는 다시 양성자, 중성자, 전자로 나뉜다. | Atom de proton, nötron ve elektrona ayrılır.
+양자 (yangja) | kuantum | isim | 양자 컴퓨터는 특정 계산에서 기존 컴퓨터를 압도한다. | Kuantum bilgisayarlar belirli hesaplarda klasik bilgisayarları geride bırakır.
+상대성 이론 (sangdaeseong iron) | görelilik kuramı | isim | 상대성 이론에 따르면 빠르게 움직일수록 시간이 느리게 흐른다. | Görelilik kuramına göre hızla hareket ettikçe zaman daha yavaş akar.
+진화론 (jinhwaron) | evrim kuramı | isim | 진화론은 생물학 전체를 꿰뚫는 핵심 이론이다. | Evrim kuramı biyolojinin tamamını kesen temel kuramdır.
+촉매 (chongmae) | katalizör | isim | 이 사건은 사회 변화의 촉매 역할을 했다. | Bu olay toplumsal değişimde katalizör rolü oynadı.
+화학 반응 (hwahak baneung) | kimyasal tepkime | isim | 철이 녹스는 것도 일종의 화학 반응이다. | Demirin paslanması da bir tür kimyasal tepkimedir.
+진공 (jingong) | boşluk, vakum | isim | 우주는 거의 진공 상태라서 소리가 전달되지 않는다. | Uzay neredeyse boşluk olduğundan ses iletilmez.
+물질 (muljil) | madde | isim | 우주의 대부분은 아직 정체를 알 수 없는 물질로 채워져 있다. | Evrenin büyük kısmı hâlâ ne olduğu bilinmeyen maddeyle dolu.
+## Teknolojik gelişme
+혁신 (hyeoksin) | yenilik, inovasyon | isim | 기술 혁신은 생산성을 높이는 가장 큰 원동력이다. | Teknolojik yenilik verimliliği artıran en büyük itici güçtür.
+상용화 (sangyonghwa) | ticarileştirme | isim | 이 배터리 기술은 오 년 안에 상용화될 전망이다. | Bu pil teknolojisinin beş yıl içinde ticarileşmesi bekleniyor.
+첨단 기술 (cheomdan gisul) | ileri teknoloji | isim | 이 도시는 첨단 기술 기업을 유치하기 위해 산업 단지를 조성했다. | Bu şehir ileri teknoloji şirketlerini çekmek için sanayi bölgesi kurdu.
+원천 기술 (woncheon gisul) | çekirdek teknoloji (temel patent) | isim | 원천 기술이 없으면 해외에 막대한 사용료를 내야 한다. | Çekirdek teknolojin yoksa yurt dışına yüklü lisans ücreti ödemek zorunda kalırsın.
+특허 (teukeo) | patent | isim | 그 회사는 경쟁사를 특허 침해 혐의로 고소했다. | O şirket rakibini patent ihlali iddiasıyla dava etti.
+연구 개발 (yeongu gaebal) | araştırma-geliştirme (Ar-Ge) | isim | 한국은 국내 총생산 대비 연구 개발 투자 비율이 높은 편이다. | Kore'nin GSYH'ye oranla Ar-Ge yatırımı yüksek sayılır.
+고도화 (godohwa) | ileri düzeye taşıma, yükseltme | isim | 산업 구조의 고도화가 시급한 과제로 꼽힌다. | Sanayi yapısının ileri düzeye taşınması acil bir görev olarak görülüyor.
+융합 (yunghap) | yakınsama, kaynaşma (disiplinler) | isim | 정보 기술과 의학의 융합으로 원격 진료가 가능해졌다. | Bilişim ve tıbbın kaynaşmasıyla uzaktan muayene mümkün hâle geldi.
+파급 효과 (pageup hyogwa) | yayılma etkisi, domino etkisi | isim | 반도체 산업의 성장은 다른 산업에도 큰 파급 효과를 미친다. | Yarı iletken sektörünün büyümesi başka sektörlere de güçlü bir yayılma etkisi yapar.
+시제품 (sijepum) | prototip | isim | 연구팀은 접을 수 있는 화면의 시제품을 공개했다. | Araştırma ekibi katlanabilir ekranın prototipini tanıttı.
+## Uzay
+인공위성 (ingongwiseong) | yapay uydu | isim | 기상 관측용 인공위성이 성공적으로 궤도에 진입했다. | Hava gözlem uydusu başarıyla yörüngeye girdi.
+발사체 (balsache) | fırlatma aracı, roket | isim | 순수 국내 기술로 만든 발사체가 발사에 성공했다. | Tamamen yerli teknolojiyle yapılan fırlatma aracı başarıyla fırlatıldı.
+궤도 (gwedo) | yörünge | isim | 달은 약 이십칠 일에 걸쳐 지구 궤도를 한 바퀴 돈다. | Ay, yaklaşık yirmi yedi günde Dünya çevresindeki yörüngesini bir kez tamamlar.
+탐사선 (tamsaseon) | uzay sondası | isim | 무인 탐사선이 화성 표면의 사진을 보내왔다. | İnsansız uzay sondası Mars yüzeyinin fotoğraflarını gönderdi.
+무중력 (mujungnyeok) | ağırlıksızlık | isim | 우주 정거장의 무중력 상태에서는 물방울이 공처럼 떠다닌다. | Uzay istasyonundaki ağırlıksız ortamda su damlaları top gibi süzülür.
+행성 (haengseong) | gezegen | isim | 태양계에는 여덟 개의 행성이 있다. | Güneş sisteminde sekiz gezegen vardır.
+은하 (eunha) | galaksi | isim | 우리 은하에는 수천억 개의 별이 있다. | Bizim galaksimizde yüz milyarlarca yıldız var.
+소행성 (sohaengseong) | asteroit | isim | 과학자들은 지구에 접근하는 소행성을 꾸준히 추적하고 있다. | Bilim insanları Dünya'ya yaklaşan asteroitleri sürekli izliyor.
+관측 (gwancheuk) | gözlem (gökbilim, hava) | isim | 그날 밤은 구름이 없어 별 관측에 최적이었다. | O gece bulut olmadığından yıldız gözlemi için mükemmeldi.
+천체 (cheonche) | gök cismi | isim | 고대인들은 천체의 움직임으로 계절을 알았다. | Eski insanlar mevsimleri gök cisimlerinin hareketinden anlardı.
+## Teknolojinin etkileri
+자동화 (jadonghwa) | otomasyon | isim | 공장 자동화로 단순 반복 업무가 크게 줄었다. | Fabrika otomasyonuyla basit tekrarlı işler epey azaldı.
+일자리 대체 (iljari daeche) | işlerin makinelerce devralınması | isim | 인공지능으로 인한 일자리 대체가 현실이 되고 있다. | Yapay zekâ kaynaklı iş kaybı gerçeğe dönüşüyor.
+오남용 (onamyong) | kötüye ve yanlış kullanım | isim | 기술의 오남용을 막기 위한 법적 장치가 필요하다. | Teknolojinin kötüye kullanımını önlemek için yasal düzenlemeler gerekli.
+의존도 (uijondo) | bağımlılık derecesi | isim | 청소년의 스마트폰 의존도가 갈수록 높아지고 있다. | Gençlerin akıllı telefon bağımlılığı giderek artıyor.
+역기능 (yeokgineung) | olumsuz işlev, zararlı yan | isim | 인터넷의 역기능으로 악성 댓글과 가짜 뉴스가 꼽힌다. | İnternetin zararlı yanları olarak nefret yorumları ve sahte haberler sayılır.
+순기능 (sungineung) | olumlu işlev, yararlı yan | isim | 소셜 미디어는 정보 공유라는 순기능도 분명히 가지고 있다. | Sosyal medyanın bilgi paylaşımı gibi yararlı bir yanı da elbette var.
+규제 (gyuje) | düzenleme, kısıtlama | isim | 지나친 규제가 신산업의 성장을 가로막는다는 주장도 있다. | Aşırı düzenlemelerin yeni sektörlerin büyümesini engellediği de iddia ediliyor.
+윤리적 쟁점 (yullijeok jaengjeom) | etik mesele | isim | 자율 무기는 심각한 윤리적 쟁점을 안고 있다. | Otonom silahlar ciddi etik meseleler barındırıyor.
+기술 격차 (gisul gyeokcha) | teknoloji açığı | isim | 선진국과 개발도상국 사이의 기술 격차가 벌어지고 있다. | Gelişmiş ülkelerle gelişmekte olan ülkeler arasındaki teknoloji açığı büyüyor.
+양날의 검 (yangnarui geom) | iki ucu keskin kılıç | deyim | 인공지능은 인류에게 양날의 검이 될 수 있다. | Yapay zekâ insanlık için iki ucu keskin bir kılıç olabilir.
+## Teknoloji fiilleri
+구현하다 (guhyeonhada) | hayata geçirmek, gerçekleştirmek | fiil | 이 앱은 복잡한 기능을 간단한 화면으로 구현했다. | Bu uygulama karmaşık işlevleri sade bir ekranla hayata geçirdi.
+탑재하다 (tapjaehada) | donatmak, yüklemek (cihaza) | fiil | 신형 휴대폰에는 인공지능 비서 기능이 탑재되었다. | Yeni model telefona yapay zekâ asistan özelliği yüklendi.
+연동하다 (yeondonghada) | entegre etmek, senkronize etmek | fiil | 이 시계는 휴대폰과 연동하여 건강 정보를 기록한다. | Bu saat telefonla senkronize olup sağlık bilgilerini kaydeder.
+축적하다 (chukjeokada) | biriktirmek | fiil | 이 회사는 이십 년간 축적한 데이터를 바탕으로 서비스를 만든다. | Bu şirket yirmi yılda biriktirdiği verilere dayanarak hizmet üretiyor.
+가속화하다 (gasokhwahada) | hızlandırmak | fiil | 전염병은 원격 근무의 확산을 가속화했다. | Salgın uzaktan çalışmanın yayılmasını hızlandırdı.
+대체하다 (daechehada) | yerini almak, ikame etmek | fiil | 무인 계산대가 점원의 일을 빠르게 대체하고 있다. | Self servis kasalar kasiyerlerin işinin yerini hızla alıyor.
+최적화하다 (choejeokhwahada) | optimize etmek | fiil | 배송 경로를 최적화하자 연료비가 십 퍼센트 줄었다. | Teslimat güzergâhını optimize edince yakıt gideri yüzde on azaldı.
+접목하다 (jeommokada) | harmanlamak, aşılamak (iki alanı) | fiil | 그는 전통 공예에 첨단 기술을 접목해 새로운 제품을 만들었다. | Geleneksel zanaata ileri teknolojiyi aşılayarak yeni bir ürün yaptı.
+고안하다 (goanhada) | tasarlamak, icat etmek | fiil | 세종 시대의 학자들은 비의 양을 재는 기구를 고안했다. | Kral Sejong döneminin bilginleri yağış miktarını ölçen bir alet tasarladı.
+진화하다 (jinhwahada) | evrimleşmek, gelişmek | fiil | 휴대폰은 단순한 통화 기기에서 생활의 중심으로 진화했다. | Cep telefonu basit bir konuşma cihazından hayatın merkezine dönüştü.
