@@ -56,7 +56,7 @@ le titre de séjour | oturma izni | isim (e) | Mon titre de séjour expire en ma
 renouveler | yenilemek | fiil | Je dois renouveler mon passeport. | Pasaportumu yenilemem lazım.
 ## Yolculuk eylemleri
 faire sa valise | bavulunu hazırlamak | ifade | Je fais ma valise ce soir. | Bavulumu bu akşam hazırlıyorum.
-se perdre (perdu) | kaybolmak | fiil · dönüşlü | Nous nous sommes perdus dans Venise. | Venedik'te kaybolduk.
+se renseigner | bilgi almak | fiil · dönüşlü | Je me renseigne sur les horaires des trains. | Tren saatleri hakkında bilgi alıyorum.
 découvrir (découvert) | keşfetmek | fiil · düzensiz | J'aime découvrir de nouvelles villes. | Yeni şehirler keşfetmeyi severim.
 emporter | yanına almak, götürmek | fiil | Emporte un pull, il fait frais le soir. | Yanına bir kazak al, akşamları serin oluyor.
 bronzer | bronzlaşmak | fiil | Elle bronze sur la plage. | Plajda bronzlaşıyor.
@@ -96,7 +96,7 @@ historique | tarihî | sıfat | Le centre historique est magnifique. | Tarihî m
 pittoresque | pitoresk, resim gibi | sıfat | C'est un village pittoresque. | Resim gibi bir köy.
 inoubliable | unutulmaz | sıfat | Ce voyage était inoubliable ! | Bu yolculuk unutulmazdı!
 animé | canlı, hareketli | sıfat | Le soir, la place est très animée. | Akşamları meydan çok hareketli.
-désert | ıssız, boş | sıfat | La plage est déserte en hiver. | Kışın plaj ıssız.
+bondé | tıklım tıklım, çok kalabalık | sıfat | En août, la plage est bondée. | Ağustosta plaj tıklım tıklım.
 international | uluslararası | sıfat | C'est un aéroport international. | Burası uluslararası bir havalimanı.
 ## Yolculukta sorunlar
 perdre (perdu) | kaybetmek | fiil · düzensiz | J'ai perdu mon passeport ! | Pasaportumu kaybettim!
