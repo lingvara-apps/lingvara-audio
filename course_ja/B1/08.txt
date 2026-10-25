@@ -1,0 +1,111 @@
+# UNIT: Ekonomi ve para | Ekonomi, bankacılık, yatırım, kişisel bütçe, ticaret
+## Ekonominin durumu
+景気 (keiki) | ekonomik durum, piyasa havası | isim | 最近、景気がよくなってきたと言われている。 | Son zamanlarda ekonominin düzelmeye başladığı söyleniyor.
+不景気 (fukeiki) | durgunluk, ekonomik sıkıntı | isim | 不景気で、ボーナスが出なかった。 | Ekonomik durgunluk yüzünden ikramiye verilmedi.
+物価 (bukka) | fiyatlar, hayat pahalılığı | isim | 東京は物価が高くて、生活が大変だ。 | Tokyo'da hayat pahalı, geçinmek zor.
+値上がり (neagari) | fiyat artışı | isim | 野菜の値上がりが家計に響いている。 | Sebze fiyatlarındaki artış aile bütçesini etkiliyor.
+値下がり (nesagari) | fiyat düşüşü | isim | ガソリンの値下がりで、ドライブに出かける人が増えた。 | Benzin ucuzlayınca arabayla gezmeye çıkanlar arttı.
+インフレ (infure) | enflasyon | isim | インフレが続いて、お金の価値が下がっている。 | Enflasyon sürdükçe paranın değeri düşüyor.
+円高 (endaka) | yenin değer kazanması | isim | 円高のおかげで、海外旅行が安くなった。 | Yen değer kazandığı için yurt dışı seyahatleri ucuzladı.
+円安 (en'yasu) | yenin değer kaybetmesi | isim | 円安で、輸入品の値段が上がっている。 | Yen değer kaybettiği için ithal ürünlerin fiyatı artıyor.
+成長 (seichō) | büyüme | isim | この国の経済は、毎年五パーセント成長している。 | Bu ülkenin ekonomisi her yıl yüzde beş büyüyor.
+不況 (fukyō) | resesyon, kriz | isim | 不況の時代でも、よく売れる商品はある。 | Kriz dönemlerinde bile iyi satan ürünler vardır.
+## Bankacılık
+金融 (kin'yū) | finans | isim | 兄は東京の金融会社で働いている。 | Ağabeyim Tokyo'da bir finans şirketinde çalışıyor.
+金利 (kinri) | faiz oranı | isim | 今は金利が低いので、銀行に預けてもあまり増えない。 | Şu an faiz oranları düşük, bankaya yatırsan da pek artmıyor.
+利息 (risoku) | faiz (miktar) | isim | 一年間預けても、利息は数百円だった。 | Bir yıl bankada tutsam da faizi birkaç yüz yen oldu.
+融資 (yūshi) | kredi, finansman | isim | 店を開くために、銀行から融資を受けた。 | Dükkân açmak için bankadan kredi aldım.
+ローン (rōn) | kredi borcu | isim | 車のローンが、あと二年残っている。 | Araba kredisinin iki yılı daha var.
+返済 (hensai) | geri ödeme | isim | 毎月十万円ずつ返済している。 | Her ay yüz bin yen geri ödüyorum.
+送金 (sōkin) | para havalesi | isim | 毎月、国の家族に送金している。 | Her ay memleketteki aileme para gönderiyorum.
+外貨 (gaika) | döviz | isim | 空港の銀行で外貨に両替した。 | Havalimanındaki bankada döviz bozdurdum.
+為替 (kawase) | döviz kuru, havale | isim | 為替の動きが毎日ニュースで報じられている。 | Döviz kurlarındaki hareketler her gün haberlerde veriliyor.
+審査 (shinsa) | değerlendirme, inceleme | isim | クレジットカードの審査に一週間かかった。 | Kredi kartı başvurusunun incelenmesi bir hafta sürdü.
+## Yatırım ve varlık
+投資 (tōshi) | yatırım | isim | 将来のために、少しずつ投資を始めた。 | Gelecek için azar azar yatırım yapmaya başladım.
+株 (kabu) | hisse senedi | isim | 父は若いころから株を買っている。 | Babam gençliğinden beri hisse senedi alıyor.
+資産 (shisan) | varlık, servet | isim | 資産を守るために、専門家に相談した。 | Varlıklarımı korumak için bir uzmana danıştım.
+運用 (un'yō) | değerlendirme, işletme (para) | isim | 貯金をどう運用するか迷っている。 | Birikimimi nasıl değerlendireceğime karar veremiyorum.
+財産 (zaisan) | mal mülk, servet | isim | 祖父は財産を全部、子どもたちに分けた。 | Dedem bütün mal varlığını çocuklarına paylaştırdı.
+損 (son) | zarar | isim | 安い物を買って、すぐ壊れたら損だよ。 | Ucuz bir şey alıp hemen bozulursa zarar edersin.
+得 (toku) | kazanç, kâr | isim | まとめて買ったほうが得です。 | Toplu almak daha kârlı.
+リスク (risuku) | risk | isim | 投資には必ずリスクがある。 | Yatırımın mutlaka bir riski vardır.
+貯蓄 (chochiku) | tasarruf, birikim | isim | 日本人は貯蓄が好きだと言われる。 | Japonların birikim yapmayı sevdiği söylenir.
+不動産 (fudōsan) | gayrimenkul | isim | 親から受け継いだ不動産を売ることにした。 | Anne babamdan kalan gayrimenkulü satmaya karar verdim.
+## Aile bütçesi
+家計 (kakei) | ev bütçesi | isim | 物価が上がって、家計が苦しい。 | Fiyatlar artınca ev bütçesi zorlandı.
+収入 (shūnyū) | gelir | isim | 転職して、収入が少し増えた。 | İş değiştirince gelirim biraz arttı.
+支出 (shishutsu) | gider, harcama | isim | 毎月の支出を書き出して、無駄を探した。 | Aylık harcamalarımı yazıp gereksiz olanları aradım.
+出費 (shuppi) | masraf | isim | 今月は結婚式が二つあって、出費が多い。 | Bu ay iki düğün var, masraf çok.
+家計簿 (kakeibo) | ev hesap defteri | isim | 母は毎日、家計簿をつけている。 | Annem her gün ev hesap defterini tutar.
+収支 (shūshi) | gelir-gider dengesi | isim | 今月の収支は、ぎりぎりプラスだった。 | Bu ay gelir-gider dengesi zar zor artıda kaldı.
+赤字 (akaji) | açık, zarar | isim | 旅行でお金を使いすぎて、今月は赤字だ。 | Seyahatte fazla para harcayınca bu ay açık verdim.
+黒字 (kuroji) | kâr, fazla | isim | 店は三年目にやっと黒字になった。 | Dükkân üçüncü yılında nihayet kâra geçti.
+やりくり (yarikuri) | idare etme, geçinme | isim | 少ない給料で、なんとかやりくりしている。 | Az maaşla bir şekilde idare ediyorum.
+浪費 (rōhi) | israf, savurganlık | isim | ゲームに時間とお金を浪費してしまった。 | Oyuna zaman ve para israf ettim.
+## Vergi ve devlet
+所得 (shotoku) | gelir (vergilendirilen) | isim | 所得が多い人ほど、税金も多く払う。 | Geliri yüksek olan daha çok vergi öder.
+所得税 (shotokuzei) | gelir vergisi | isim | 所得税は給料から自動的に引かれている。 | Gelir vergisi maaştan otomatik olarak kesiliyor.
+年金 (nenkin) | emekli maaşı | isim | 祖父母は年金で生活している。 | Büyükannemle büyükbabam emekli maaşıyla geçiniyor.
+税務署 (zeimusho) | vergi dairesi | isim | 書類を出しに税務署へ行った。 | Evrak teslim etmek için vergi dairesine gittim.
+確定申告 (kakutei shinkoku) | yıllık vergi beyannamesi | isim | フリーランスなので、毎年確定申告をしている。 | Serbest çalıştığım için her yıl vergi beyannamesi veriyorum.
+控除 (kōjo) | indirim (vergiden düşme) | isim | 医療費が多いと、税金の控除が受けられる。 | Sağlık harcamaları fazlaysa vergi indirimi alınabilir.
+財政 (zaisei) | kamu maliyesi | isim | 市の財政が厳しくて、図書館が閉まることになった。 | Belediyenin maliyesi kötü olunca kütüphane kapanacak.
+補助金 (hojokin) | sübvansiyon, devlet desteği | isim | 太陽光パネルを付けると、市から補助金が出る。 | Güneş paneli takarsanız belediyeden destek veriliyor.
+給付 (kyūfu) | ödeme, yardım (resmî) | isim | 子どもがいる家庭に、国から給付金が出た。 | Çocuklu ailelere devletten yardım parası verildi.
+公共料金 (kōkyō ryōkin) | faturalar (elektrik, su vb.) | isim | 公共料金は口座から自動で払っている。 | Faturaları hesabımdan otomatik ödüyorum.
+## Tüketim
+消費者 (shōhisha) | tüketici | isim | 消費者の声を聞いて、新しい商品を作った。 | Tüketicilerin sesine kulak verip yeni bir ürün geliştirdik.
+購入 (kōnyū) | satın alma | isim | チケットの購入はネットでお願いします。 | Biletleri internetten satın alın lütfen.
+価格 (kakaku) | fiyat | isim | 同じ商品でも、店によって価格が違う。 | Aynı ürünün fiyatı bile dükkândan dükkâna değişir.
+定価 (teika) | liste fiyatı | isim | この本は定価の半額で買えた。 | Bu kitabı liste fiyatının yarısına aldım.
+割高 (waridaka) | nispeten pahalı | sıfat | コンビニは便利だけど、スーパーより割高だ。 | Market zincirleri kullanışlı ama süpermarketten pahalı.
+割安 (wariyasu) | nispeten ucuz | sıfat | 大きいサイズのほうが割安です。 | Büyük boy daha hesaplı.
+特売 (tokubai) | özel indirimli satış | isim | 土曜日はスーパーで卵の特売がある。 | Cumartesi süpermarkette yumurta indirimi var.
+衝動買い (shōdōgai) | anlık alışveriş | isim | セールで衝動買いをして、後悔した。 | İndirimde düşünmeden alışveriş yapıp pişman oldum.
+お得 (otoku) | kârlı, avantajlı | sıfat | 今ならセットで買うとお得ですよ。 | Şimdi set halinde alırsanız avantajlı olur.
+品質 (hinshitsu) | kalite | isim | 少し高くても、品質のいい物を選びたい。 | Biraz pahalı olsa da kaliteli olanı seçmek isterim.
+## Ödemeler
+紙幣 (shihei) | kâğıt para | isim | 日本の紙幣には有名な人の顔が描かれている。 | Japon kâğıt paralarında tanınmış kişilerin portreleri var.
+硬貨 (kōka) | madenî para | isim | この自動販売機は、古い硬貨が使えない。 | Bu otomat eski madenî paraları kabul etmiyor.
+金額 (kingaku) | tutar | isim | 請求書の金額が間違っていた。 | Faturadaki tutar yanlıştı.
+費用 (hiyō) | masraf, maliyet | isim | 留学の費用は、全部でいくらぐらいかかりますか。 | Yurt dışında eğitimin masrafı toplam ne kadar tutar?
+代金 (daikin) | bedel, ücret | isim | 商品の代金は、届いたときに払います。 | Ürünün bedelini teslim alırken ödeyeceğim.
+料金 (ryōkin) | ücret, tarife | isim | 携帯電話の料金プランを変えた。 | Cep telefonu tarifemi değiştirdim.
+経費 (keihi) | gider, masraf (iş) | isim | タクシー代は会社の経費で落とせる。 | Taksi ücreti şirket gideri olarak gösterilebilir.
+前払い (maebarai) | peşin ödeme | isim | この教室は、授業料が前払いになっている。 | Bu kursta ders ücreti peşin ödeniyor.
+後払い (atobarai) | sonradan ödeme | isim | ネットで買った服を後払いで注文した。 | İnternetten aldığım kıyafeti sonradan ödemeli sipariş ettim.
+引き落とし (hikiotoshi) | otomatik ödeme (hesaptan çekim) | isim | 家賃は毎月二十七日に口座から引き落としされる。 | Kira her ayın yirmi yedisinde hesaptan otomatik çekiliyor.
+## Ticaret
+貿易 (bōeki) | dış ticaret | isim | 日本とトルコの貿易は年々増えている。 | Japonya ile Türkiye arasındaki ticaret yıldan yıla artıyor.
+輸出 (yushutsu) | ihracat | isim | この会社は車の部品を海外に輸出している。 | Bu şirket yurt dışına araba parçası ihraç ediyor.
+輸入 (yunyū) | ithalat | isim | 日本は食べ物の多くを輸入に頼っている。 | Japonya yiyeceklerinin büyük kısmında ithalata bağımlı.
+関税 (kanzei) | gümrük vergisi | isim | 関税が上がって、輸入ワインが高くなった。 | Gümrük vergisi artınca ithal şaraplar pahalandı.
+流通 (ryūtsū) | dağıtım, piyasada dolaşım | isim | 新しい紙幣の流通が始まった。 | Yeni banknotlar tedavüle girdi.
+小売 (kouri) | perakende | isim | 姉は小売の会社で店長をしている。 | Ablam bir perakende şirketinde mağaza müdürü.
+卸売 (oroshiuri) | toptan satış | isim | 卸売の市場は朝早くから開いている。 | Toptancı hali sabahın erken saatinden açık.
+物流 (butsuryū) | lojistik | isim | ネット通販が増えて、物流の仕事が忙しくなった。 | İnternet alışverişi artınca lojistik işleri yoğunlaştı.
+仕入れる (shiireru) | (satmak için) mal almak | fiil | 店長は毎朝、市場で魚を仕入れている。 | Dükkân sahibi her sabah balık halinden mal alıyor.
+商売 (shōbai) | ticaret, iş | isim | 駅の近くなので、商売がうまくいっている。 | İstasyona yakın olduğu için işler iyi gidiyor.
+## Parayla ilgili fiiller
+稼ぐ (kasegu) | kazanmak (para) | fiil | 学費を稼ぐために、夜もアルバイトをしている。 | Okul ücretimi kazanmak için geceleri de çalışıyorum.
+費やす (tsuiyasu) | harcamak (zaman, para) | fiil | この本を書くのに、五年を費やした。 | Bu kitabı yazmak için beş yıl harcadım.
+支払う (shiharau) | ödemek | fiil | 代金は来月末までに支払ってください。 | Bedeli gelecek ayın sonuna kadar ödeyin lütfen.
+値切る (negiru) | pazarlık yapmak (fiyat kırmak) | fiil | 市場で値切ったら、少し安くしてくれた。 | Pazarda pazarlık edince biraz indirim yaptılar.
+請求する (seikyū suru) | talep etmek, fatura etmek | fiil | 修理の代金として三万円を請求された。 | Tamir ücreti olarak otuz bin yen istendi.
+無駄遣い (mudazukai) | gereksiz harcama | isim | 無駄遣いをやめて、貯金を増やしたい。 | Boşa para harcamayı bırakıp birikimimi artırmak istiyorum.
+使い果たす (tsukaihatasu) | tüketmek, hepsini harcamak | fiil | 旅行で貯金を使い果たしてしまった。 | Seyahatte bütün birikimimi harcadım.
+出し合う (dashiau) | ortaklaşa para koymak | fiil | みんなでお金を出し合って、先生にプレゼントを買った。 | Hep birlikte para toplayıp öğretmene hediye aldık.
+浮く (uku) | (para) artmak, cepte kalmak | fiil | 自転車で通勤したら、交通費が浮いた。 | Bisikletle işe gidince yol parası cebimde kaldı.
+もうける (mōkeru) | kâr etmek | fiil | 彼は古い車を売って、ずいぶんもうけたらしい。 | Eski arabaları satıp epey kâr etmiş galiba.
+## Refah ve eşitsizlik
+貧困 (hinkon) | yoksulluk | isim | 世界には貧困に苦しむ子どもがまだたくさんいる。 | Dünyada hâlâ yoksullukla boğuşan pek çok çocuk var.
+格差 (kakusa) | uçurum, eşitsizlik | isim | 都会と地方の収入の格差が広がっている。 | Büyük şehirlerle taşra arasındaki gelir uçurumu büyüyor.
+豊か (yutaka) | zengin, bolluk içinde | sıfat | 豊かな生活は、お金だけで決まるものではない。 | Zengin bir hayat yalnızca parayla ölçülmez.
+貧しい (mazushii) | yoksul | sıfat | 祖父は貧しい村で生まれ育った。 | Dedem yoksul bir köyde doğup büyüdü.
+裕福 (yūfuku) | varlıklı | sıfat | 彼女は裕福な家庭で育ったが、とても謙虚だ。 | Varlıklı bir ailede büyüdü ama çok alçakgönüllü.
+失業 (shitsugyō) | işsizlik | isim | 工場が閉まって、多くの人が失業した。 | Fabrika kapanınca pek çok kişi işsiz kaldı.
+倒産 (tōsan) | iflas | isim | 不況で取引先の会社が倒産した。 | Kriz yüzünden iş yaptığımız şirket iflas etti.
+物不足 (monobusoku) | mal kıtlığı | isim | 災害の後、店では物不足が続いた。 | Afetten sonra dükkânlarda mal kıtlığı sürdü.
+生活水準 (seikatsu suijun) | yaşam standardı | isim | この五十年で、生活水準は大きく上がった。 | Son elli yılda yaşam standardı büyük ölçüde yükseldi.
+安定 (antei) | istikrar | isim | 安定した仕事を見つけて、両親を安心させたい。 | İstikrarlı bir iş bulup annemle babamı rahatlatmak istiyorum.
