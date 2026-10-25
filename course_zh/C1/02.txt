@@ -1,0 +1,111 @@
+# UNIT: Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+## Şirket yönetimi
+董事会 (dǒngshìhuì) | yönetim kurulu | isim | 这项投资计划需要提交董事会审议。 | Bu yatırım planının yönetim kurulunun onayına sunulması gerekiyor.
+股东 (gǔdōng) | hissedar, ortak | isim | 公司每年召开一次股东大会。 | Şirket her yıl bir kez hissedarlar genel kurulu toplar.
+监事会 (jiānshìhuì) | denetim kurulu | isim | 监事会负责监督董事和高管的履职情况。 | Denetim kurulu, yöneticilerin görevlerini nasıl yerine getirdiğini denetler.
+法定代表人 (fǎdìng dàibiǎorén) | yasal temsilci | isim | 合同必须由公司的法定代表人签字。 | Sözleşme şirketin yasal temsilcisi tarafından imzalanmalı.
+高管 (gāoguǎn) | üst düzey yönetici | isim | 公司的几位高管同时宣布辞职。 | Şirketin birkaç üst düzey yöneticisi aynı anda istifasını açıkladı.
+治理 (zhìlǐ) | yönetişim; yönetmek | isim | 完善的公司治理结构是企业长远发展的保障。 | Sağlam bir kurumsal yönetişim yapısı şirketin uzun vadeli gelişiminin güvencesidir.
+决策层 (juécècéng) | karar alma kademesi | isim | 这个方案最终还要由决策层拍板。 | Bu planın son onayını yine karar alma kademesi verecek.
+架构 (jiàgòu) | yapı, örgütlenme şeması | isim | 公司调整了组织架构，撤销了两个部门。 | Şirket örgüt yapısını değiştirip iki departmanı kaldırdı.
+授权 (shòuquán) | yetki vermek | fiil | 未经总经理授权，任何人不得对外发布信息。 | Genel müdür yetki vermeden kimse dışarıya bilgi açıklayamaz.
+问责 (wènzé) | hesap sormak, sorumlu tutmak | fiil | 出现重大失误时，必须追究相关负责人的责任，严格问责。 | Ciddi bir hata olduğunda ilgili sorumlulardan mutlaka hesap sorulmalıdır.
+## Strateji ve büyüme
+愿景 (yuànjǐng) | vizyon | isim | 公司的愿景是成为行业内最受信赖的品牌。 | Şirketin vizyonu sektörün en güvenilir markası olmak.
+布局 (bùjú) | konumlanmak, stratejik yerleşim yapmak | fiil | 这家企业很早就开始在海外市场布局。 | Bu şirket yurt dışı pazarlarda çok erkenden konumlanmaya başladı.
+转型 (zhuǎnxíng) | dönüşüm geçirmek | fiil | 传统制造业正面临向数字化转型的压力。 | Geleneksel imalat sektörü dijital dönüşüm baskısıyla karşı karşıya.
+整合 (zhěnghé) | bütünleştirmek, birleştirmek | fiil | 我们需要整合现有资源，避免重复投入。 | Mükerrer harcamayı önlemek için mevcut kaynakları bütünleştirmemiz gerekiyor.
+并购 (bìnggòu) | birleşme ve satın alma | isim | 这次并购让公司的市场份额翻了一番。 | Bu birleşme ve satın alma şirketin pazar payını ikiye katladı.
+扩张 (kuòzhāng) | genişlemek, büyümek | fiil | 盲目扩张导致公司资金链断裂。 | Plansız büyüme şirketin nakit akışının kopmasına yol açtı.
+核心竞争力 (héxīn jìngzhēnglì) | temel rekabet gücü | isim | 技术创新是我们的核心竞争力。 | Teknolojik yenilik bizim temel rekabet gücümüzdür.
+可行性 (kěxíngxìng) | fizibilite, uygulanabilirlik | isim | 项目启动前必须进行可行性研究。 | Proje başlamadan önce mutlaka fizibilite çalışması yapılmalı.
+落地 (luòdì) | hayata geçmek, uygulamaya konmak | fiil | 再好的战略，不能落地也只是空谈。 | En iyi strateji bile hayata geçirilemezse boş laftan ibarettir.
+统筹 (tǒngchóu) | bütüncül planlamak, eşgüdümlemek | fiil | 这次活动由市场部统筹安排。 | Bu etkinliğin genel planlaması pazarlama departmanınca yapılıyor.
+## Finansal raporlama
+财报 (cáibào) | mali rapor | isim | 公司昨天发布了第三季度财报。 | Şirket dün üçüncü çeyrek mali raporunu yayımladı.
+资产负债表 (zīchǎn fùzhàibiǎo) | bilanço | isim | 从资产负债表来看，公司的负债率偏高。 | Bilançoya bakılırsa şirketin borçluluk oranı yüksek.
+营收 (yíngshōu) | ciro, faaliyet geliri | isim | 今年上半年公司营收同比增长了百分之十二。 | Bu yılın ilk yarısında şirketin cirosu geçen yılın aynı dönemine göre yüzde on iki arttı.
+净利润 (jìnglìrùn) | net kâr | isim | 虽然销售额上升了，但净利润却下降了。 | Satışlar artmasına rağmen net kâr düştü.
+毛利率 (máolìlǜ) | brüt kâr marjı | isim | 原材料涨价使毛利率受到了明显影响。 | Hammadde fiyatlarının artması brüt kâr marjını belirgin biçimde etkiledi.
+现金流 (xiànjīnliú) | nakit akışı | isim | 对初创企业来说，现金流比利润更重要。 | Yeni kurulan şirketler için nakit akışı kârdan daha önemlidir.
+审计 (shěnjì) | denetim yapmak (mali) | fiil | 年报必须经过独立会计师事务所审计。 | Yıllık rapor bağımsız bir muhasebe firması tarafından denetlenmelidir.
+折旧 (zhéjiù) | amortisman | isim | 这台设备每年按百分之十计提折旧。 | Bu ekipmana her yıl yüzde on amortisman ayrılıyor.
+负债 (fùzhài) | borç, yükümlülük | isim | 公司的短期负债已经超过了流动资产。 | Şirketin kısa vadeli borçları dönen varlıklarını çoktan aştı.
+盈亏 (yíngkuī) | kâr ve zarar | isim | 这家分店开业两年才实现盈亏平衡。 | Bu şube açıldıktan ancak iki yıl sonra başa baş noktasına ulaştı.
+## Muhasebe ve bütçe
+核算 (hésuàn) | hesaplamak, muhasebeleştirmek | fiil | 每个项目的成本都要单独核算。 | Her projenin maliyeti ayrı ayrı hesaplanmalı.
+报销 (bàoxiāo) | masraf beyanıyla geri almak | fiil | 出差的交通费可以凭发票报销。 | İş seyahatindeki ulaşım masrafları fatura karşılığında geri alınabilir.
+账目 (zhàngmù) | hesap kayıtları | isim | 新来的会计发现账目有几处对不上。 | Yeni gelen muhasebeci hesap kayıtlarında birkaç tutarsızlık buldu.
+开支 (kāizhī) | harcama, gider | isim | 公司决定压缩不必要的行政开支。 | Şirket gereksiz idari harcamaları kısmaya karar verdi.
+拨款 (bōkuǎn) | ödenek; ödenek ayırmak | isim | 市政府为这个项目追加了一笔拨款。 | Belediye bu projeye ek bir ödenek ayırdı.
+结算 (jiésuàn) | hesap kapatmak, tahsilat-ödeme yapmak | fiil | 货款每月月底统一结算。 | Mal bedelleri her ay sonunda toplu olarak kapatılır.
+税前 (shuìqián) | vergi öncesi, brüt | sıfat | 这份工作的税前月薪是两万元。 | Bu işin vergi öncesi aylık maaşı yirmi bin yuan.
+应收账款 (yīngshōu zhàngkuǎn) | alacaklar (ticari) | isim | 应收账款太多，会给公司带来坏账风险。 | Alacakların fazla olması şirket için şüpheli alacak riski doğurur.
+预支 (yùzhī) | avans almak | fiil | 他向公司预支了一个月的工资。 | Şirketten bir aylık maaşını avans olarak aldı.
+超支 (chāozhī) | bütçeyi aşmak | fiil | 由于材料涨价，工程已经超支了百分之二十。 | Malzeme zamları yüzünden inşaat bütçeyi yüzde yirmi aştı.
+## Sözleşmeler
+签订 (qiāndìng) | (anlaşma) imzalamak, akdetmek | fiil | 双方于今天上午正式签订了合作协议。 | Taraflar bu sabah iş birliği anlaşmasını resmen imzaladı.
+条款 (tiáokuǎn) | madde, hüküm | isim | 签字之前，请仔细阅读每一项条款。 | İmzalamadan önce lütfen her maddeyi dikkatle okuyun.
+甲方 (jiǎfāng) | birinci taraf, işveren taraf | isim | 甲方有权在验收不合格时拒绝付款。 | İşveren taraf, kabul muayenesi başarısız olursa ödemeyi reddetme hakkına sahiptir.
+乙方 (yǐfāng) | ikinci taraf, yüklenici taraf | isim | 乙方应在三十日内完成全部工程。 | Yüklenici taraf tüm işi otuz gün içinde tamamlamalıdır.
+违约 (wéiyuē) | sözleşmeyi ihlal etmek | fiil | 如果一方违约，另一方可以要求赔偿损失。 | Taraflardan biri sözleşmeyi ihlal ederse diğeri zararının tazminini isteyebilir.
+违约金 (wéiyuējīn) | cezai şart bedeli | isim | 延期交货要按每天千分之五支付违约金。 | Teslimatta gecikme olursa günlük binde beş cezai şart ödenir.
+生效 (shēngxiào) | yürürlüğe girmek | fiil | 本合同自双方签字盖章之日起生效。 | Bu sözleşme tarafların imza ve mühür koyduğu tarihte yürürlüğe girer.
+履行 (lǚxíng) | (yükümlülüğü) yerine getirmek | fiil | 双方都应当认真履行合同义务。 | Her iki taraf da sözleşmeden doğan yükümlülüklerini titizlikle yerine getirmelidir.
+补充协议 (bǔchōng xiéyì) | ek protokol | isim | 关于付款方式，双方另行签订了补充协议。 | Ödeme şekli konusunda taraflar ayrıca bir ek protokol imzaladı.
+解除 (jiěchú) | feshetmek, ortadan kaldırmak | fiil | 由于对方长期拖欠货款，我们决定解除合同。 | Karşı taraf mal bedelini uzun süre ödemediği için sözleşmeyi feshetmeye karar verdik.
+## Müzakere
+意向书 (yìxiàngshū) | niyet mektubu | isim | 双方先签了一份合作意向书，具体细节以后再谈。 | Taraflar önce bir iş birliği niyet mektubu imzaladı, ayrıntılar daha sonra konuşulacak.
+磋商 (cuōshāng) | müzakere etmek, istişare etmek | fiil | 经过三轮磋商，双方终于达成一致。 | Üç tur müzakerenin ardından taraflar sonunda uzlaştı.
+议价 (yìjià) | pazarlık etmek | fiil | 大宗采购通常还有议价的空间。 | Toplu alımlarda genellikle hâlâ pazarlık payı vardır.
+底线 (dǐxiàn) | kırmızı çizgi, en alt sınır | isim | 这个价格是我们的底线，不能再低了。 | Bu fiyat bizim en alt sınırımız, daha aşağı inemeyiz.
+报价 (bàojià) | fiyat teklifi vermek | fiil | 请您在周五之前给我们报价。 | Lütfen cumaya kadar bize fiyat teklifi verin.
+双赢 (shuāngyíng) | kazan-kazan | isim | 我们追求的是长期合作和双赢。 | Hedefimiz uzun vadeli iş birliği ve kazan-kazan durumu.
+共识 (gòngshí) | ortak görüş, mutabakat | isim | 在交货时间上，双方还没有达成共识。 | Teslim süresi konusunda taraflar henüz mutabakata varmadı.
+搁置 (gēzhì) | askıya almak, rafa kaldırmak | fiil | 由于资金不足，这个项目暂时被搁置了。 | Fon yetersizliği nedeniyle bu proje şimdilik rafa kaldırıldı.
+敲定 (qiāodìng) | kesinleştirmek, karara bağlamak | fiil | 合作细节下周就能敲定。 | İş birliğinin ayrıntıları gelecek hafta kesinleşebilir.
+筹码 (chóumǎ) | pazarlık kozu | isim | 独家技术是我们谈判中最大的筹码。 | Bize özgü teknoloji, müzakeredeki en büyük kozumuz.
+## İnsan kaynakları
+编制 (biānzhì) | kadro | isim | 这个部门的编制只有十五个人。 | Bu departmanın kadrosu yalnızca on beş kişilik.
+绩效 (jìxiào) | performans | isim | 年终奖金与个人绩效直接挂钩。 | Yıl sonu primi doğrudan bireysel performansa bağlı.
+考核 (kǎohé) | değerlendirmek (personel) | fiil | 新员工试用期满后要接受考核。 | Yeni çalışanlar deneme süresi dolunca değerlendirmeye alınır.
+晋升 (jìnshēng) | terfi etmek | fiil | 她入职三年就晋升为部门经理。 | İşe girdikten üç yıl sonra departman müdürlüğüne terfi etti.
+薪酬 (xīnchóu) | ücret ve yan haklar | isim | 公司正在重新设计薪酬体系。 | Şirket ücret sistemini yeniden tasarlıyor.
+裁员 (cáiyuán) | personel çıkarmak, işten çıkarma | fiil | 受经济形势影响，不少企业开始裁员。 | Ekonomik koşullar yüzünden birçok şirket personel çıkarmaya başladı.
+试用期 (shìyòngqī) | deneme süresi | isim | 试用期一般为三个月。 | Deneme süresi genellikle üç aydır.
+猎头 (liètóu) | yönetici avcısı (headhunter) | isim | 有猎头打电话给他，推荐了一个高薪职位。 | Bir yönetici avcısı onu arayıp yüksek maaşlı bir pozisyon önerdi.
+离职 (lízhí) | işten ayrılmak | fiil | 离职前要提前三十天书面通知公司。 | İşten ayrılmadan otuz gün önce şirkete yazılı bildirimde bulunmak gerekir.
+竞业限制 (jìngyè xiànzhì) | rekabet yasağı | isim | 根据竞业限制条款，他两年内不能去竞争对手公司工作。 | Rekabet yasağı maddesine göre iki yıl boyunca rakip şirkette çalışamaz.
+## Toplantı ve yazışma
+议程 (yìchéng) | gündem | isim | 会议议程已经提前发到大家的邮箱里了。 | Toplantı gündemi önceden herkesin e-postasına gönderildi.
+纪要 (jìyào) | toplantı tutanağı | isim | 请小李负责整理这次会议的纪要。 | Bu toplantının tutanağını Xiao Li hazırlasın lütfen.
+备忘录 (bèiwànglù) | muhtıra, not | isim | 双方签署了一份合作备忘录。 | Taraflar bir iş birliği muhtırası imzaladı.
+抄送 (chāosòng) | bilgi (CC) olarak göndermek | fiil | 这封邮件请抄送给财务部。 | Bu e-postayı lütfen muhasebe departmanına da bilgi olarak gönderin.
+汇报 (huìbào) | (üste) rapor vermek | fiil | 每周一上午各部门负责人要向总经理汇报工作。 | Her pazartesi sabahı departman sorumluları genel müdüre işleri raporlar.
+牵头 (qiāntóu) | öncülük etmek, başı çekmek | fiil | 这个跨部门项目由技术部牵头负责。 | Bu departmanlar arası projeye teknik departman öncülük ediyor.
+对接 (duìjiē) | koordine olmak, irtibat kurmak | fiil | 具体细节请您直接和我们的项目经理对接。 | Ayrıntılar için lütfen doğrudan proje müdürümüzle irtibat kurun.
+落实 (luòshí) | uygulamaya koymak, somutlaştırmak | fiil | 会上定下的措施要尽快落实到位。 | Toplantıda alınan önlemler bir an önce eksiksiz uygulanmalı.
+跟进 (gēnjìn) | takip etmek, peşini bırakmamak | fiil | 这个客户的需求请你继续跟进。 | Bu müşterinin taleplerini takip etmeye devam et lütfen.
+函件 (hánjiàn) | resmî yazı, mektup | isim | 对方的函件已经转交法务部处理。 | Karşı tarafın resmî yazısı işlem için hukuk departmanına iletildi.
+## Pazarlama ve tedarik
+市场份额 (shìchǎng fèn'é) | pazar payı | isim | 新产品上市后，公司的市场份额稳步上升。 | Yeni ürün piyasaya çıktıktan sonra şirketin pazar payı istikrarlı biçimde arttı.
+渠道 (qúdào) | kanal (satış, dağıtım) | isim | 我们正在拓展线上销售渠道。 | Çevrim içi satış kanallarımızı genişletiyoruz.
+客户群 (kèhùqún) | müşteri kitlesi | isim | 这款产品的目标客户群是三十岁以下的年轻人。 | Bu ürünün hedef müşteri kitlesi otuz yaş altı gençler.
+品牌形象 (pǐnpái xíngxiàng) | marka imajı | isim | 一次质量事故就可能毁掉多年建立的品牌形象。 | Tek bir kalite skandalı yıllarca oluşturulan marka imajını yıkabilir.
+推广 (tuīguǎng) | tanıtmak, yaygınlaştırmak | fiil | 公司计划明年在南方市场大力推广这款茶饮。 | Şirket gelecek yıl bu çay içeceğini güney pazarında yoğun biçimde tanıtmayı planlıyor.
+细分市场 (xìfēn shìchǎng) | pazar segmenti | isim | 小企业更适合专注于某个细分市场。 | Küçük işletmeler için belirli bir pazar segmentine odaklanmak daha uygundur.
+分销 (fēnxiāo) | dağıtım yapmak (ticari) | fiil | 这家公司负责在西北五省分销我们的产品。 | Bu firma ürünlerimizin kuzeybatıdaki beş eyalette dağıtımını üstleniyor.
+供应链 (gōngyìngliàn) | tedarik zinciri | isim | 疫情期间，全球供应链受到了严重冲击。 | Salgın döneminde küresel tedarik zinciri ciddi bir darbe aldı.
+库存 (kùcún) | stok | isim | 年底前我们要尽量清理库存。 | Yıl sonundan önce stokları olabildiğince eritmemiz gerekiyor.
+采购 (cǎigòu) | satın almak (kurumsal), tedarik etmek | fiil | 所有办公用品都由行政部统一采购。 | Tüm büro malzemeleri idari departman tarafından toplu olarak satın alınır.
+## Risk ve uyum
+合规 (héguī) | mevzuata uygunluk | isim | 公司专门成立了合规部门。 | Şirket özel olarak bir mevzuat uyum departmanı kurdu.
+风控 (fēngkòng) | risk kontrolü | isim | 银行加强了对小额贷款的风控。 | Banka küçük kredilerde risk kontrolünü sıkılaştırdı.
+内控 (nèikòng) | iç kontrol | isim | 这起贪污案暴露出公司内控制度的漏洞。 | Bu zimmet olayı şirketin iç kontrol sistemindeki açıkları ortaya çıkardı.
+尽职调查 (jìnzhí diàochá) | durum tespiti (due diligence) | isim | 收购之前，律师团队做了详细的尽职调查。 | Satın almadan önce avukat ekibi ayrıntılı bir durum tespiti yaptı.
+披露 (pīlù) | kamuya açıklamak, ifşa etmek | fiil | 上市公司必须及时披露重大信息。 | Halka açık şirketler önemli bilgileri zamanında kamuya açıklamak zorundadır.
+违规 (wéiguī) | kurallara aykırı davranmak | fiil | 他因违规操作被公司开除了。 | Kurallara aykırı işlem yaptığı için şirketten kovuldu.
+整改 (zhěnggǎi) | düzeltici önlem almak | fiil | 检查组要求工厂在一个月内整改完毕。 | Denetim ekibi fabrikadan bir ay içinde tüm düzeltici önlemleri tamamlamasını istedi.
+舞弊 (wǔbì) | hile, usulsüzlük | isim | 审计人员在账目中发现了财务舞弊的迹象。 | Denetçiler hesap kayıtlarında mali hile izlerine rastladı.
+利益冲突 (lìyì chōngtū) | çıkar çatışması | isim | 为了避免利益冲突，他主动退出了评标小组。 | Çıkar çatışmasından kaçınmak için ihale değerlendirme ekibinden kendiliğinden çekildi.
+透明度 (tòumíngdù) | şeffaflık | isim | 公众要求提高政府采购的透明度。 | Halk kamu alımlarında şeffaflığın artırılmasını istiyor.
