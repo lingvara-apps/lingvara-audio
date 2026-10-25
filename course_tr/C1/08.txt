@@ -1,0 +1,111 @@
+# UNIT: Architecture and construction | Design, structural systems, the building site, installations
+## Design and planning
+mimari proje | architectural design; architectural drawings | isim | Mimari proje belediye tarafından onaylanmadan şantiyede hiçbir imalata başlanamaz. | No construction work can begin on site until the architectural drawings have been approved by the municipality.
+statik proje | structural design; structural drawings | isim | İnşaat mühendisi, statik projede kolon ölçülerini depreme göre yeniden hesapladı. | The civil engineer recalculated the column dimensions in the structural drawings for earthquake loads.
+vaziyet planı | site plan | isim | Vaziyet planında binanın arsa üzerindeki konumu ve bahçe düzenlemesi gösteriliyor. | The site plan shows the building's position on the plot and the layout of the garden.
+kesit | section (drawing) | isim | Kesit çizimi, binanın kat yüksekliklerini ve merdiven düzenini açıkça gösteriyor. | The section drawing clearly shows the building's storey heights and staircase layout.
+cephe kaplaması | façade cladding | isim | Binanın taş görünümlü cephe kaplaması, mahallenin tarihî dokusuyla uyumlu seçildi. | The building's stone-effect façade cladding was chosen to match the historic fabric of the neighbourhood.
+ölçek | scale | isim | Bu plan bir bölü yüz ölçekte çizildiği için her santimetre bir metreye karşılık geliyor. | Since this plan is drawn at a scale of one to a hundred, each centimetre corresponds to one metre.
+maket | scale model | isim | Mimarlık öğrencileri, tasarladıkları müze binasının maketini kartondan yaptılar. | The architecture students made a cardboard scale model of the museum building they had designed.
+yapı ruhsatı | building permit | isim | Belediye, eksik belgeler nedeniyle yapı ruhsatı vermeyi iki ay erteledi. | Because of missing documents, the municipality delayed issuing the building permit for two months.
+imar planı | zoning plan; development plan | isim | Yeni imar planıyla bu bölgede en fazla beş katlı bina yapılmasına izin veriliyor. | Under the new zoning plan, buildings of no more than five storeys are permitted in this area.
+iskân izni | occupancy permit | isim | Bina tamamlandı ama iskân izni alınmadığı için daireler henüz teslim edilemiyor. | The building is finished, but the flats cannot be handed over yet because no occupancy permit has been obtained.
+## The structural system
+taşıyıcı sistem | load-bearing system; structural system | isim | Binanın taşıyıcı sistemi, betonarme kolonlar ve perde duvarlardan oluşuyor. | The building's structural system consists of reinforced concrete columns and shear walls.
+kolon | column | isim | Zemin kattaki dükkânı genişletmek için bir kolonun kesilmesi bütün binayı tehlikeye attı. | Cutting a column to enlarge the ground-floor shop put the whole building in danger.
+kiriş | beam | isim | Salonun ortasından geçen kalın kiriş, tavanın yükünü kolonlara aktarıyor. | The thick beam running across the middle of the living room transfers the ceiling load to the columns.
+döşeme | slab; floor | isim | Döşeme betonu döküldükten sonra en az bir hafta boyunca sulanması gerekiyor. | After the slab concrete has been poured, it needs to be kept wet for at least a week.
+perde duvar | shear wall | isim | Deprem bölgelerinde perde duvarlar, binanın yatay yüklere karşı direncini artırır. | In earthquake zones, shear walls increase a building's resistance to lateral loads.
+temel | foundation | isim | Zemin zayıf olduğu için binanın temeli derin kazıklar üzerine oturtuldu. | Because the ground was weak, the building's foundation was placed on deep piles.
+radye temel | raft foundation | isim | Zemin etüdünün sonucuna göre bu yapı için radye temel uygun görüldü. | According to the results of the soil survey, a raft foundation was considered suitable for this structure.
+betonarme | reinforced concrete | isim | Türkiye'deki konutların büyük çoğunluğu betonarme olarak inşa ediliyor. | The great majority of homes in Turkey are built of reinforced concrete.
+çelik konstrüksiyon | steel structure | isim | Fabrika binası, hızlı kurulabilmesi için çelik konstrüksiyon olarak tasarlandı. | The factory building was designed as a steel structure so that it could be erected quickly.
+donatı | reinforcement (rebar) | isim | Kontrol mühendisi, beton dökülmeden önce kirişlerdeki donatıyı tek tek kontrol etti. | Before the concrete was poured, the inspecting engineer checked the reinforcement in the beams one by one.
+## Building materials
+hazır beton | ready-mixed concrete | isim | Hazır beton kamyonları, sabahın erken saatlerinde şantiyeye gelmeye başladı. | The ready-mixed concrete trucks began arriving at the site early in the morning.
+kalıp | formwork; mould | isim | Kalıp ustaları, kolonların ahşap kalıplarını iki gün içinde hazırladı. | The formwork carpenters prepared the timber formwork for the columns within two days.
+gazbeton | aerated concrete block | isim | Duvarlarda hafif ve yalıtımı iyi olduğu için gazbeton kullanılmasına karar verildi. | It was decided to use aerated concrete blocks for the walls because they are light and well insulating.
+sıva | plaster; render | isim | İç duvarların sıvası kurumadan boya yapılırsa yüzeyde çatlaklar oluşabilir. | If the interior walls are painted before the plaster has dried, cracks may form on the surface.
+şap | screed | isim | Parke döşenmeden önce zemine düzgün bir şap atılması gerekiyor. | A smooth screed needs to be laid on the floor before the parquet is fitted.
+agrega | aggregate | isim | Betonun dayanımı, kullanılan agreganın kalitesine ve temizliğine doğrudan bağlıdır. | The strength of concrete depends directly on the quality and cleanliness of the aggregate used.
+çimento | cement | isim | Kış aylarında çimento torbalarının nemden korunması için üstleri brandayla örtülüyor. | In the winter months, the cement bags are covered with tarpaulin to protect them from damp.
+inşaat demiri | rebar; reinforcing steel | isim | İnşaat demiri fiyatlarındaki ani artış, müteahhitlerin maliyet hesaplarını altüst etti. | The sudden rise in rebar prices upset the contractors' cost calculations.
+briket | concrete block; breeze block | isim | Bahçe duvarı, ucuz ve dayanıklı olduğu için briketle örüldü. | The garden wall was built with concrete blocks because they are cheap and durable.
+kireç | lime | isim | Eski taş binaların restorasyonunda çimento yerine kireç harcı tercih ediliyor. | In the restoration of old stone buildings, lime mortar is preferred to cement.
+## The building site
+şantiye | construction site | isim | Şantiyeye baret ve iş ayakkabısı olmadan girmek kesinlikle yasaktır. | It is strictly forbidden to enter the construction site without a hard hat and safety shoes.
+şantiye şefi | site manager | isim | Şantiye şefi, her sabah ekiplerle kısa bir toplantı yaparak günün işlerini dağıtıyor. | Every morning, the site manager holds a short meeting with the teams and assigns the day's tasks.
+taşeron | subcontractor | isim | Elektrik ve sıhhi tesisat işleri, ana yüklenici tarafından taşeron firmalara verildi. | The electrical and plumbing work was given to subcontractors by the main contractor.
+hafriyat | excavation; earthworks | isim | Hafriyat sırasında bulunan antik kalıntılar yüzünden inşaat aylarca durduruldu. | Construction was halted for months because of ancient remains found during the excavation.
+iş makinesi | heavy machinery | isim | Dar sokaklar nedeniyle büyük iş makinelerinin şantiyeye ulaşması oldukça zor oldu. | Because of the narrow streets, it was very difficult for the heavy machinery to reach the site.
+vinç | crane | isim | Kule vinci, çelik kirişleri on beşinci kata kadar dikkatle kaldırdı. | The tower crane carefully lifted the steel beams up to the fifteenth floor.
+iş güvenliği | occupational safety | isim | İş güvenliği uzmanı, iskelelerde emniyet kemeri takmayan işçileri uyardı. | The occupational safety specialist warned workers who were not wearing safety harnesses on the scaffolding.
+baret | hard hat; safety helmet | isim | Ziyaretçilere de şantiye girişinde birer baret ve yelek veriliyor. | Visitors are also given a hard hat and a vest at the entrance to the site.
+puantaj | timesheet; attendance record | isim | Ay sonunda işçilerin puantajı kontrol edilip maaşları buna göre hesaplanıyor. | At the end of the month, the workers' timesheets are checked and their wages are calculated accordingly.
+metraj | quantity take-off; bill of quantities | isim | Teklif hazırlamadan önce projeden ayrıntılı bir metraj çıkarmamız gerekiyor. | Before preparing a bid, we need to draw up a detailed bill of quantities from the drawings.
+## Building services
+sıhhi tesisat | plumbing | isim | Eski binanın sıhhi tesisatı tamamen yenilenmeden daireler kiraya verilemez. | The flats cannot be let until the old building's plumbing has been completely renewed.
+mekanik tesisat | mechanical installations (HVAC) | isim | Hastane projelerinde mekanik tesisat, toplam maliyetin önemli bir bölümünü oluşturur. | In hospital projects, mechanical installations make up a significant part of the total cost.
+yangın tesisatı | fire protection system | isim | Alışveriş merkezinin yangın tesisatı, açılıştan önce itfaiye tarafından test edildi. | The shopping centre's fire protection system was tested by the fire brigade before the opening.
+topraklama | earthing; grounding | isim | Elektrikçi, binadaki topraklama hattının düzgün çalışmadığını tespit etti. | The electrician found that the earthing line in the building was not working properly.
+elektrik panosu | electrical distribution board | isim | Elektrik panosundaki sigortalardan biri attığı için mutfakta elektrik kesildi. | The power went off in the kitchen because one of the fuses in the distribution board tripped.
+yerden ısıtma | underfloor heating | isim | Yerden ısıtma sistemi, radyatörlere göre odayı daha dengeli bir şekilde ısıtıyor. | The underfloor heating system heats the room more evenly than radiators do.
+ısı pompası | heat pump | isim | Yeni villalarda ısınma ve soğutma için ısı pompası kullanılması planlanıyor. | It is planned to use heat pumps for heating and cooling in the new villas.
+ısı yalıtımı | thermal insulation | isim | Dış cepheye yapılan ısı yalıtımı, doğalgaz faturalarımızı neredeyse yarıya indirdi. | The thermal insulation applied to the outside walls almost halved our gas bills.
+su yalıtımı | waterproofing | isim | Bodrumdaki rutubet, temel yapılırken su yalıtımının ihmal edilmesinden kaynaklanıyor. | The damp in the basement is the result of the waterproofing having been neglected when the foundation was built.
+rögar | manhole; inspection chamber | isim | Şiddetli yağmurda sokaktaki rögarlar taştı ve bodrum katları su bastı. | In the heavy rain, the manholes in the street overflowed and the basements flooded.
+## Earthquake engineering
+deprem yönetmeliği | seismic code | isim | Yeni deprem yönetmeliği, yüksek binalar için çok daha sıkı tasarım kuralları getiriyor. | The new seismic code introduces much stricter design rules for tall buildings.
+zemin etüdü | soil survey; geotechnical investigation | isim | Zemin etüdü yapılmadan temel tipine karar vermek büyük bir sorumsuzluk olur. | Deciding on the type of foundation without a soil survey would be highly irresponsible.
+sıvılaşma | liquefaction | isim | Kıyıya yakın kumlu zeminlerde deprem sırasında sıvılaşma riski oldukça yüksektir. | On sandy soils near the coast, the risk of liquefaction during an earthquake is quite high.
+güçlendirme | (structural) strengthening; retrofitting | isim | Okul binası, yıkılmak yerine kapsamlı bir güçlendirme çalışmasıyla depreme hazır hâle getirildi. | Instead of being demolished, the school building was made earthquake-ready through extensive retrofitting.
+sismik izolatör | seismic isolator | isim | Yeni hastanenin altına yerleştirilen sismik izolatörler, deprem sarsıntısını büyük ölçüde sönümlüyor. | The seismic isolators installed under the new hospital largely absorb the earthquake's shaking.
+yapı denetimi | building inspection | isim | Yapı denetimi firması, beton numunelerinin dayanımını laboratuvarda test ettirdi. | The building inspection firm had the strength of the concrete samples tested in a laboratory.
+riskli yapı | building at risk (seismically) | isim | Riskli yapı raporu alınan eski apartmanın sakinleri, üç ay içinde binayı boşaltmak zorunda. | The residents of the old block, which was declared a building at risk, must vacate it within three months.
+taşıma gücü | bearing capacity | isim | Zeminin taşıma gücü düşük olduğu için binanın kat sayısı azaltıldı. | Because the soil's bearing capacity was low, the number of storeys in the building was reduced.
+yük | load | isim | Kar yükünü hesaba katmayan çatı, ilk ağır kışta çökme tehlikesi geçirdi. | The roof, which had not taken the snow load into account, was in danger of collapsing in the first harsh winter.
+göçmek | to collapse; to cave in | fiil | Eski madenin tavanı göçünce bölgede bütün çalışmalar durduruldu. | When the roof of the old mine caved in, all work in the area was stopped.
+## Traditional architecture
+kubbe | dome | isim | Caminin devasa kubbesi, içerisi hiçbir sütunla bölünmeden geniş bir alanı örtüyor. | The mosque's enormous dome covers a vast space inside without being divided by a single column.
+tonoz | vault | isim | Bodrumdaki tuğla tonoz, yüzyıllardır üstündeki binanın yükünü sorunsuz taşıyor. | The brick vault in the basement has carried the load of the building above it without problems for centuries.
+sütun | column (architectural); pillar | isim | Antik tapınaktan geriye yalnızca birkaç mermer sütun ayakta kalmış. | Only a few marble columns of the ancient temple remain standing.
+revak | portico; colonnade | isim | Medresenin avlusunu çevreleyen revaklar, öğrencileri yağmurdan ve güneşten koruyordu. | The porticoes surrounding the madrasa's courtyard protected the students from rain and sun.
+avlu | courtyard | isim | Eski Mardin evlerinde odalar, ortadaki taş avluya açılır. | In old Mardin houses, the rooms open onto the stone courtyard in the middle.
+cumba | bay window (oriel) | isim | Ahşap cumbalı İstanbul evleri, sokağa doğru taşan çıkmalarıyla tanınır. | Wooden Istanbul houses with oriel windows are known for their projections overhanging the street.
+mukarnas | muqarnas (honeycomb vaulting) | isim | Taç kapının üst kısmını süsleyen mukarnaslar, taşa işlenmiş bir dantel gibi görünüyor. | The muqarnas decorating the top of the portal look like lace carved into stone.
+kervansaray | caravanserai | isim | Selçuklu döneminde ticaret yolları üzerine kurulan kervansaraylar, tüccarlara güvenli konaklama sağlardı. | The caravanserais built on trade routes in the Seljuk period provided merchants with safe lodging.
+külliye | mosque complex | isim | Külliyede cami, medrese, hamam ve aşevi bir arada bulunurdu. | A mosque complex used to include a mosque, a madrasa, a bathhouse and a soup kitchen together.
+taç kapı | monumental portal | isim | Selçuklu medresesinin taş oymalı taç kapısı, dönemin işçiliğinin en güzel örneklerindendir. | The carved stone portal of the Seljuk madrasa is one of the finest examples of the craftsmanship of the time.
+## Parts of a building
+saçak | eaves | isim | Geniş saçaklar, ahşap cepheyi yağmurdan koruyarak evin ömrünü uzatıyor. | The wide eaves extend the life of the house by protecting the wooden façade from rain.
+korkuluk | railing; balustrade | isim | Balkon korkuluğunun alçak olması, küçük çocuklar için ciddi bir tehlike oluşturuyor. | The low balcony railing poses a serious danger for young children.
+merdiven boşluğu | stairwell | isim | Merdiven boşluğundan yükselen duman, yangının bodrumda başladığını gösteriyordu. | The smoke rising from the stairwell showed that the fire had started in the basement.
+asma kat | mezzanine | isim | Dükkânın asma katı, küçük bir depo ve ofis olarak kullanılıyor. | The shop's mezzanine is used as a small storeroom and office.
+giydirme cephe | curtain wall | isim | Gökdelenin camdan giydirme cephesi, güneşli günlerde bütün şehri yansıtıyor. | On sunny days, the skyscraper's glass curtain wall reflects the whole city.
+lento | lintel | isim | Kapı ve pencere boşluklarının üstüne, duvarın yükünü taşıması için betonarme lentolar konuldu. | Reinforced concrete lintels were placed above the door and window openings to carry the load of the wall.
+denizlik | windowsill | isim | Annem, mutfak penceresinin mermer denizliğine fesleğen saksıları dizmiş. | My mother has lined up pots of basil on the marble windowsill of the kitchen window.
+çatı arası | attic; loft | isim | Eski eşyalarımızı, taşınırken kullanmak üzere çatı arasına kaldırdık. | We put our old belongings away in the attic to use when we move.
+teras | terrace | isim | Binanın geniş terası, yazın akşam yemekleri için mükemmel bir mekân oldu. | The building's spacious terrace became a perfect spot for dinners in the summer.
+kat yüksekliği | storey height; floor-to-ceiling height | isim | Eski apartmanlarda kat yüksekliği genellikle yeni binalardakinden çok daha fazladır. | In old apartment buildings, the storey height is usually much greater than in new buildings.
+## Contracts and project management
+ihale | tender | isim | Köprü projesi için açılan ihaleye yedi büyük inşaat şirketi teklif verdi. | Seven large construction companies submitted bids in the tender for the bridge project.
+yaklaşık maliyet | estimated cost | isim | İdarenin hesapladığı yaklaşık maliyet, verilen tekliflerin hepsinden daha düşük çıktı. | The estimated cost calculated by the authority turned out to be lower than all of the bids received.
+hakediş | progress payment | isim | Bu ayın hakedişi ödenmeyince taşeron, işçilerini şantiyeden çekmekle tehdit etti. | When this month's progress payment was not made, the subcontractor threatened to withdraw his workers from the site.
+iş programı | work schedule | isim | Kış aylarındaki gecikmeler yüzünden iş programının baştan revize edilmesi gerekti. | Because of delays during the winter months, the work schedule had to be revised from scratch.
+revizyon | revision | isim | İşveren son anda mutfak yerini değiştirince projede büyük bir revizyon yapıldı. | When the client changed the location of the kitchen at the last minute, a major revision was made to the design.
+imalat | construction work; fabrication | isim | Kaba inşaat bitti, şimdi ince imalatlara yani sıva, boya ve döşemeye geçiyoruz. | The shell is finished, so now we are moving on to finishing works: plaster, paint and flooring.
+keşif artışı | cost increase over the original estimate | isim | Zemindeki beklenmedik sorunlar yüzünden projede yüzde yirmilik bir keşif artışı oldu. | Because of unexpected ground problems, the project's cost rose twenty percent over the original estimate.
+geçici kabul | provisional acceptance | isim | Geçici kabulde tespit edilen eksiklikler, kesin kabule kadar giderilmek zorunda. | Deficiencies identified at provisional acceptance must be remedied before final acceptance.
+kesin kabul | final acceptance | isim | Kesin kabulün yapılmasıyla birlikte yüklenicinin teminat mektubu iade edildi. | With final acceptance, the contractor's letter of guarantee was returned.
+birim fiyat | unit price | isim | Kazı işleri, metreküp başına belirlenen birim fiyat üzerinden ödeniyor. | Excavation work is paid at the unit price set per cubic metre.
+## Urban development
+kentsel tasarım | urban design | isim | Kentsel tasarım projesiyle sahil şeridi yayalar ve bisikletliler için yeniden düzenlendi. | Through the urban design project, the waterfront was redesigned for pedestrians and cyclists.
+yapı adası | city block | isim | Bu yapı adasındaki eski binaların hepsi, ortak bir projeyle birlikte yenilenecek. | All the old buildings in this city block will be renewed together under a joint project.
+yeşil bina | green building | isim | Yağmur suyu toplayan ve güneş enerjisi kullanan yeşil bina, uluslararası bir sertifika aldı. | The green building, which collects rainwater and uses solar power, received an international certificate.
+arsa payı | share of the land | isim | Her daire sahibinin tapuda, dairesinin büyüklüğüne göre belirlenen bir arsa payı bulunur. | On the title deed, each flat owner has a share of the land determined by the size of the flat.
+ana yüklenici | main contractor | isim | Ana yüklenici, binayı söz verdiği tarihten altı ay sonra ancak teslim edebildi. | The main contractor could only hand over the building six months after the date it had promised.
+peyzaj | landscaping | isim | Sitenin peyzaj düzenlemesinde yerli ve az su isteyen bitkiler tercih edildi. | Native, low-water plants were preferred in the landscaping of the housing complex.
+restorasyon | restoration | isim | Tarihî hanın restorasyonu, özgün malzemeye sadık kalınarak beş yılda tamamlandı. | The restoration of the historic inn was completed in five years, remaining faithful to the original materials.
+tescilli yapı | listed building | isim | Tescilli yapılarda pencere değiştirmek için bile koruma kurulundan izin alınması gerekiyor. | In listed buildings, permission from the conservation board is needed even to replace a window.
+kaçak yapı | illegal construction; unlicensed building | isim | Dere yatağına inşa edilen kaçak yapılar, sel sırasında büyük hasar gördü. | The illegal buildings constructed in the stream bed were badly damaged during the flood.
+siluet | skyline; silhouette | isim | Tarihî yarımadanın camilerle süslü silueti, her yıl milyonlarca turisti büyülüyor. | The skyline of the historic peninsula, adorned with mosques, enchants millions of tourists every year.
