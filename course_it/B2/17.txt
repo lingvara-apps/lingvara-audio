@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Yol türleri
+la strada statale | devlet karayolu | isim (d) | La strada statale attraversa tutti i paesi della valle. | Devlet karayolu vadideki bütün köylerden geçiyor.
+la superstrada | ekspres yol (paralı olmayan) | isim (d) | Con la superstrada arrivi a Firenze senza pagare il pedaggio. | Ekspres yolla otoyol ücreti ödemeden Floransa'ya varırsın.
+la tangenziale | çevre yolu (şehir) | isim (d) | La mattina la tangenziale di Milano è sempre bloccata. | Sabahları Milano çevre yolu hep tıkalı.
+la carreggiata | şerit (yol); yol yüzeyi | isim (d) | Un camion ha perso il carico in mezzo alla carreggiata. | Bir kamyon yükünü yolun ortasına düşürdü.
+la corsia di emergenza | emniyet şeridi | isim (d) | È vietato viaggiare sulla corsia di emergenza. | Emniyet şeridinde ilerlemek yasak.
+lo svincolo | kavşak çıkışı, bağlantı yolu | isim (e) | Prendi lo svincolo per l'aeroporto dopo il ponte. | Köprüden sonra havalimanı bağlantı yoluna gir.
+il cavalcavia | üst geçit (araç) | isim (e) | Hanno chiuso il cavalcavia per lavori di manutenzione. | Üst geçidi bakım çalışmaları için kapattılar.
+la strada sterrata | toprak yol | isim (d) | Per arrivare all'agriturismo c'è un chilometro di strada sterrata. | Çiftlik otele varmak için bir kilometrelik toprak yol var.
+il viadotto | viyadük | isim (e) | L'autostrada passa su un viadotto altissimo. | Otoyol çok yüksek bir viyadüğün üzerinden geçiyor.
+il sottopasso | alt geçit | isim (e) | Usa il sottopasso per attraversare la stazione. | İstasyonu geçmek için alt geçidi kullan.
+## Aracın parçaları
+lo sterzo | direksiyon sistemi | isim (e) | Il meccanico ha controllato lo sterzo e i freni. | Tamirci direksiyon sistemini ve frenleri kontrol etti.
+il freno | fren | isim (e) | I freni della bici non funzionano bene. | Bisikletin frenleri iyi çalışmıyor.
+l'acceleratore (e) | gaz pedalı | isim (e) | In salita devi premere di più l'acceleratore. | Yokuşta gaz pedalına daha çok basmalısın.
+la frizione | debriyaj | isim (d) | Alla scuola guida ho imparato a usare la frizione. | Sürücü kursunda debriyaj kullanmayı öğrendim.
+lo specchietto | dikiz aynası | isim (e) | Prima di cambiare corsia guarda nello specchietto. | Şerit değiştirmeden önce dikiz aynasına bak.
+il cofano | kaput | isim (e) | Il fumo usciva dal cofano della macchina. | Duman arabanın kaputundan çıkıyordu.
+il bagagliaio | bagaj (araba) | isim (e) | Metti le valigie nel bagagliaio, io guido. | Valizleri bagaja koy, ben sürüyorum.
+il parabrezza | ön cam | isim (e) | Un sasso ha rotto il parabrezza in autostrada. | Otoyolda bir taş ön camı kırdı.
+il tergicristallo | silecek | isim (e) | Con questa pioggia il tergicristallo non basta. | Bu yağmurda silecek yetmiyor.
+il clacson | korna | isim (e) | A Napoli tutti suonano il clacson continuamente. | Napoli'de herkes sürekli korna çalıyor.
+## Sürüş
+sorpassare | sollamak | fiil | Non sorpassare mai in curva, è pericolosissimo. | Virajda asla sollama, çok tehlikeli.
+il sorpasso | sollama | isim (e) | Il sorpasso a destra in autostrada è vietato. | Otoyolda sağdan sollama yasak.
+accelerare | hızlanmak | fiil | Attenzione, il semaforo è già giallo, non accelerare! | Dikkat, ışık sarıya döndü, hızlanma!
+rallentare | yavaşlamak | fiil | Rallenta, c'è una scuola qui vicino. | Yavaşla, burada yakında bir okul var.
+sterzare | direksiyon kırmak | fiil | Ha sterzato all'ultimo momento per evitare il gatto. | Kediye çarpmamak için son anda direksiyon kırdı.
+la retromarcia | geri vites | isim (d) | Metti la retromarcia ed esci piano dal garage. | Geri vitese tak ve garajdan yavaşça çık.
+svoltare | dönmek (yol) | fiil | Dopo il ponte, al secondo semaforo svolta a sinistra. | Köprüden sonra ikinci ışıkta sola dön.
+immettersi (immesso) | (ana yola) girmek | fiil · dönüşlü | Fai attenzione quando ti immetti in autostrada. | Otoyola girerken dikkat et.
+la precedenza | geçiş üstünlüğü | isim (d) | All'incrocio devi dare la precedenza a chi viene da destra. | Kavşakta sağdan gelene yol vermelisin.
+accostare | kenara çekmek | fiil | Il vigile ci ha fatto segno di accostare. | Trafik polisi bize kenara çekmemiz için işaret etti.
+## Trafik kuralları
+il codice della strada | karayolları trafik kanunu | isim (e) | Il nuovo codice della strada prevede multe più alte. | Yeni trafik kanunu daha yüksek cezalar öngörüyor.
+il limite di velocità | hız sınırı | isim (e) | In città il limite di velocità è di cinquanta chilometri orari. | Şehirde hız sınırı saatte elli kilometre.
+l'autovelox (e) | hız radarı | isim (e) | L'autovelox mi ha fotografato mentre andavo a novanta. | Hız radarı ben doksanla giderken fotoğrafımı çekti.
+il senso unico | tek yön | isim (e) | Questa via è a senso unico, devi fare il giro. | Bu sokak tek yön, etrafından dolaşmalısın.
+il senso vietato | girilmez (yön) | isim (e) | Non vedi il cartello? È senso vietato! | Levhayı görmüyor musun? Girilmez yazıyor!
+il tasso alcolemico | kandaki alkol oranı | isim (e) | Con un tasso alcolemico alto si perde la patente. | Kandaki alkol oranı yüksekse ehliyete el konur.
+i punti della patente | ehliyet puanı | isim (e) | Per l'eccesso di velocità gli hanno tolto cinque punti della patente. | Hız ihlali yüzünden ehliyetinden beş puan düştüler.
+il bollo auto | motorlu taşıtlar vergisi | isim (e) | Il bollo auto si paga ogni anno in tabaccheria. | Motorlu taşıtlar vergisi her yıl tütüncüde ödenir.
+il casco | kask | isim (e) | In moto il casco è obbligatorio anche per brevi tragitti. | Motosiklette kısa yolculuklarda bile kask zorunlu.
+la carta di circolazione | araç ruhsatı | isim (d) | Il vigile mi ha chiesto la patente e la carta di circolazione. | Trafik polisi benden ehliyet ve araç ruhsatı istedi.
+## Kazalar ve arızalar
+il tamponamento | arkadan çarpma | isim (e) | C'è stato un tamponamento a catena in tangenziale. | Çevre yolunda zincirleme bir arkadan çarpma kazası oldu.
+lo scontro | çarpışma | isim (e) | Nello scontro tra due auto nessuno si è fatto male. | İki araba arasındaki çarpışmada kimse yaralanmadı.
+scontrarsi | çarpışmak | fiil · dönüşlü | Due motorini si sono scontrati all'incrocio. | İki motosiklet kavşakta çarpıştı.
+travolgere (travolto) | çarpıp sürüklemek, ezmek | fiil · düzensiz | Un'auto ha travolto un cartello stradale. | Bir araba bir trafik levhasına çarpıp devirdi.
+il pedone | yaya | isim (e) | I pedoni hanno sempre la precedenza sulle strisce. | Yaya geçidinde öncelik her zaman yayaların.
+la constatazione amichevole | kaza tespit tutanağı | isim (d) | Dopo l'incidente abbiamo compilato la constatazione amichevole. | Kazadan sonra kaza tespit tutanağını doldurduk.
+il carro attrezzi | çekici | isim (e) | Il carro attrezzi ha portato la macchina dal meccanico. | Çekici arabayı tamirciye götürdü.
+forare | patlatmak (lastik), delmek | fiil | Abbiamo forato una gomma sulla strada sterrata. | Toprak yolda bir lastiği patlattık.
+rimanere a secco | benzinsiz kalmak | deyim | Siamo rimasti a secco a dieci chilometri dal distributore. | Benzinliğe on kilometre kala benzinsiz kaldık.
+la ruota di scorta | stepne | isim (d) | Per fortuna nel bagagliaio c'era la ruota di scorta. | Neyse ki bagajda stepne vardı.
+## Araç türleri
+l'utilitaria (d) | küçük şehir arabası | isim (d) | Per la città basta un'utilitaria piccola ed economica. | Şehir için küçük ve ekonomik bir araba yeter.
+il SUV | SUV, arazi tipi araç | isim (e) | I SUV consumano più delle macchine normali. | SUV'lar normal arabalardan fazla yakıyor.
+la station wagon | steyşın vagon | isim (d) | Con tre figli abbiamo bisogno di una station wagon. | Üç çocukla bir steyşın vagona ihtiyacımız var.
+il camion | kamyon | isim (e) | Il camion consegna la frutta al mercato alle cinque. | Kamyon meyveyi saat beşte pazara teslim ediyor.
+il tir | tır | isim (e) | In autostrada i tir occupano tutta la corsia di destra. | Otoyolda tırlar bütün sağ şeridi kaplıyor.
+l'auto elettrica (d) | elektrikli araba | isim (d) | Ricarico l'auto elettrica di notte nel garage. | Elektrikli arabayı gece garajda şarj ediyorum.
+l'ibrida (d) | hibrit araba | isim (d) | Abbiamo comprato un'ibrida per consumare meno benzina. | Daha az benzin yakmak için bir hibrit araba aldık.
+il camper | motorlu karavan | isim (e) | D'estate giriamo l'Europa in camper. | Yazın Avrupa'yı karavanla geziyoruz.
+la roulotte | çekme karavan | isim (d) | Al campeggio c'erano tende e roulotte. | Kamp alanında çadırlar ve çekme karavanlar vardı.
+il ciclomotore | moped | isim (e) | A quattordici anni si può guidare il ciclomotore. | On dört yaşında moped kullanılabilir.
+## Toplu taşıma
+il biglietto integrato | aktarmalı bilet | isim (e) | Con il biglietto integrato puoi usare bus e metro. | Aktarmalı biletle otobüs ve metroyu kullanabilirsin.
+obliterare | (bileti) damgalatmak | fiil | Ricordati di obliterare il biglietto prima di salire. | Binmeden önce bileti damgalatmayı unutma.
+la soppressione | iptal (sefer) | isim (d) | Per lo sciopero è prevista la soppressione di molti treni. | Grev nedeniyle birçok tren seferinin iptali öngörülüyor.
+soppresso | iptal edilmiş | sıfat | Il treno delle sette è stato soppresso. | Saat yedi treni iptal edildi.
+il vagone | vagon | isim (e) | Il vagone ristorante è in fondo al treno. | Yemekli vagon trenin sonunda.
+il deposito bagagli | emanet bagaj | isim (e) | Lasciamo le valigie al deposito bagagli e visitiamo la città. | Valizleri emanete bırakıp şehri gezelim.
+la banchina | peron; rıhtım | isim (d) | Aspettavo il treno sulla banchina sotto la pioggia. | Treni yağmurun altında peronda bekliyordum.
+il trasporto pubblico | toplu taşıma | isim (e) | Il trasporto pubblico in città funziona bene. | Şehirde toplu taşıma iyi işliyor.
+la tratta | hat parçası, güzergâh bölümü | isim (d) | La tratta tra Roma e Napoli è chiusa per lavori. | Roma ile Napoli arasındaki hat çalışma nedeniyle kapalı.
+il convoglio | tren dizisi, konvoy | isim (e) | Il convoglio è fermo in galleria da mezz'ora. | Tren yarım saattir tünelde duruyor.
+## Bisiklet ve yaya
+il ciclista | bisikletli | isim (e) | I ciclisti devono avere le luci accese di notte. | Bisikletlilerin gece ışıkları açık olmalı.
+la catena | zincir | isim (d) | È caduta la catena della bicicletta in salita. | Yokuşta bisikletin zinciri çıktı.
+il lucchetto | asma kilit | isim (e) | Lega sempre la bici con un lucchetto robusto. | Bisikleti her zaman sağlam bir kilitle bağla.
+la rastrelliera | bisiklet park yeri | isim (d) | Davanti all'università c'è una grande rastrelliera. | Üniversitenin önünde büyük bir bisiklet park yeri var.
+pedonale | yayalara ait | sıfat | Il ponte pedonale collega il parco al centro. | Yaya köprüsü parkı merkeze bağlıyor.
+l'attraversamento pedonale (e) | yaya geçidi | isim (e) | Il nuovo attraversamento pedonale è illuminato di notte. | Yeni yaya geçidi gece aydınlatılıyor.
+la mobilità dolce | yürüyüş ve bisikletle ulaşım | isim (d) | Il comune promuove la mobilità dolce con nuove piste. | Belediye yeni yollarla yaya ve bisiklet ulaşımını teşvik ediyor.
+il pedale | pedal | isim (e) | Un pedale della bici si è rotto. | Bisikletin bir pedalı kırıldı.
+il manubrio | gidon | isim (e) | Tieni il manubrio con tutte e due le mani! | Gidonu iki elinle tut!
+la bici elettrica | elektrikli bisiklet | isim (d) | Con la bici elettrica le salite non mi fanno più paura. | Elektrikli bisikletle yokuşlar artık beni korkutmuyor.
+## Hava ve deniz yolu
+la pista | pist | isim (d) | L'aereo è fermo sulla pista per il maltempo. | Uçak kötü hava nedeniyle pistte bekliyor.
+la torre di controllo | kontrol kulesi | isim (d) | La torre di controllo ha autorizzato il decollo. | Kontrol kulesi kalkışa izin verdi.
+l'atterraggio (e) | iniş | isim (e) | L'atterraggio è stato un po' brusco per il vento. | İniş rüzgâr yüzünden biraz sert oldu.
+il decollo | kalkış | isim (e) | Durante il decollo bisogna spegnere i telefoni. | Kalkış sırasında telefonları kapatmak gerekir.
+il molo | iskele (liman) | isim (e) | La barca è ormeggiata al molo vicino al faro. | Tekne deniz fenerinin yanındaki iskeleye bağlı.
+il porto turistico | yat limanı | isim (e) | Nel porto turistico ci sono barche di tutti i paesi. | Yat limanında her ülkeden tekneler var.
+la barca a vela | yelkenli | isim (d) | Abbiamo noleggiato una barca a vela per una settimana. | Bir haftalığına bir yelkenli kiraladık.
+salpare | demir almak | fiil | La nave salperà da Genova alle otto di sera. | Gemi akşam sekizde Cenova'dan demir alacak.
+ormeggiare | (tekneyi) bağlamak | fiil | Abbiamo ormeggiato la barca in una piccola baia. | Tekneyi küçük bir koya bağladık.
+il naufragio | gemi kazası, batma | isim (e) | Il museo racconta un famoso naufragio del Novecento. | Müze yirminci yüzyılın ünlü bir gemi kazasını anlatıyor.
+## Ulaşım politikası
+la viabilità | trafik akışı, yol düzeni | isim (d) | Per il concerto ci saranno modifiche alla viabilità. | Konser nedeniyle trafik düzeninde değişiklikler olacak.
+la mobilità | ulaşım, hareketlilik | isim (d) | Da qualche anno la città investe nella mobilità sostenibile. | Birkaç yıldır şehir sürdürülebilir ulaşıma yatırım yapıyor.
+la congestione | sıkışıklık (trafik) | isim (d) | La congestione del traffico peggiora d'estate. | Trafik sıkışıklığı yazın kötüleşiyor.
+l'infrastruttura (d) | altyapı | isim (d) | Il Sud ha bisogno di infrastrutture migliori. | Güney'in daha iyi altyapıya ihtiyacı var.
+i lavori stradali | yol çalışması | isim (e) | Per i lavori stradali la via è chiusa fino a giugno. | Yol çalışması nedeniyle sokak hazirana kadar kapalı.
+la deviazione | sapma, alternatif güzergâh | isim (d) | Per arrivare in centro, seguite la deviazione indicata dai cartelli. | Merkeze varmak için levhalarla gösterilen alternatif güzergâhı izleyin.
+il car pooling | araç paylaşımı (yolculuk) | isim (e) | Con il car pooling vado al lavoro con due colleghi. | Araç paylaşımıyla iki iş arkadaşımla işe gidiyorum.
+la targa | plaka | isim (d) | Il testimone ha ricordato la targa della macchina. | Tanık arabanın plakasını hatırladı.
+le targhe alterne | tek-çift plaka uygulaması | isim (d) | Con le targhe alterne oggi circolano solo le auto pari. | Tek-çift plaka uygulamasıyla bugün sadece çift plakalılar trafiğe çıkabiliyor.
+il parcheggio di scambio | aktarma otoparkı | isim (e) | Lascio la macchina al parcheggio di scambio e prendo la metro. | Arabayı aktarma otoparkına bırakıp metroya biniyorum.
