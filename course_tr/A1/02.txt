@@ -1,0 +1,111 @@
+# UNIT: Family and people | Relatives, professions, character
+## Close family
+aile | family | isim | Ailem Ankara'da yaşıyor. | My family lives in Ankara.
+anne | mother; mum | isim | Annem çok güzel yemek yapar. | My mum is a great cook.
+baba | father; dad | isim | Babam bir bankada çalışıyor. | My dad works at a bank.
+kardeş | sibling; brother or sister | isim | Benim iki kardeşim var. | I have two siblings.
+abla | older sister | isim | Ablam benden beş yaş büyük. | My older sister is five years older than me.
+abi | older brother | isim | Abim Almanya'da okuyor. | My older brother studies in Germany.
+oğul | son | isim | Oğlum yedi yaşında. | My son is seven.
+kız | girl; daughter | isim | Kızları çok tatlı. | Their daughter is very sweet.
+çocuk | child | isim | Parkta çok çocuk var. | There are lots of children in the park.
+bebek | baby | isim | Bebek şimdi uyuyor. | The baby is sleeping now.
+## Grandparents and relatives
+dede | grandfather | isim | Dedem köyde yaşıyor. | My grandfather lives in a village.
+babaanne | grandmother (father's mother) | isim | Babaannem harika börek yapar. | My grandma makes wonderful börek.
+anneanne | grandmother (mother's mother) | isim | Yazın anneannemde kalıyoruz. | In summer we stay at my grandma's.
+torun | grandchild | isim | Ayşe Hanım'ın üç torunu var. | Mrs Ayşe has three grandchildren.
+amca | uncle (father's brother) | isim | Amcam bize geliyor. | My uncle is coming to see us.
+dayı | uncle (mother's brother) | isim | Dayım İzmir'de oturuyor. | My uncle lives in Izmir.
+teyze | aunt (mother's sister) | isim | Teyzem çok komik biri. | My aunt is a very funny person.
+hala | aunt (father's sister) | isim | Halam bize hediye getirdi. | My aunt brought us a present.
+kuzen | cousin | isim | Kuzenim Diego Madrid'den geldi. | My cousin Diego came from Madrid.
+yeğen | nephew; niece | isim | Yeğenim üniversiteye başladı. | My nephew has started university.
+## Partners and relations
+eş | husband; wife; spouse | isim | Eşim de öğretmen. | My wife is a teacher too.
+koca | husband | isim | Kocası çok iyi bir insan. | Her husband is a very good person.
+nişanlı | fiancé; fiancée; engaged | isim | Nişanlım Japonya'dan geliyor. | My fiancée is coming from Japan.
+sevgili | boyfriend; girlfriend | isim | Onun sevgilisi var mı? | Does she have a boyfriend?
+gelin | bride; daughter-in-law | isim | Gelin çok mutlu görünüyor. | The bride looks very happy.
+damat | groom; son-in-law | isim | Damat biraz heyecanlı. | The groom is a bit nervous.
+akraba | relative | isim | Bayramda akrabalarımıza gideriz. | During the holiday we visit our relatives.
+erkek kardeş | brother | isim | Erkek kardeşim on yaşında. | My brother is ten.
+kız kardeş | sister | isim | Kız kardeşim doktor olmak istiyor. | My sister wants to be a doctor.
+ikiz | twin | isim | Onlar ikiz, çok benziyorlar. | They're twins, they look very alike.
+## People around us
+insan | person; human; people | isim | Burada insanlar çok sıcak. | People here are very warm.
+kişi | person (for counting) | isim | Masada altı kişi var. | There are six people at the table.
+adam | man | isim | O adam kim? | Who is that man?
+kadın | woman | isim | Kapıda bir kadın bekliyor. | A woman is waiting at the door.
+erkek | male; man; boy | isim | Sınıfta beş erkek var. | There are five boys in the class.
+arkadaş | friend | isim | Yuki benim en iyi arkadaşım. | Yuki is my best friend.
+komşu | neighbour | isim | Komşumuz bize tatlı getirdi. | Our neighbour brought us a dessert.
+misafir | guest | isim | Akşam misafirimiz var. | We have guests this evening.
+bey | Mr (after a first name) | isim | Mehmet Bey burada mı? | Is Mr Mehmet here?
+hanım | Mrs; Ms (after a first name) | isim | Zeynep Hanım toplantıda. | Ms Zeynep is in a meeting.
+## Jobs (1)
+meslek | profession; occupation | isim | Mesleğiniz ne? | What do you do for a living?
+doktor | doctor | isim | Doktor şimdi geliyor. | The doctor is coming now.
+hemşire | nurse | isim | Hemşire çok yardımcı oldu. | The nurse was very helpful.
+mühendis | engineer | isim | Omar bir inşaat mühendisi. | Omar is a civil engineer.
+avukat | lawyer | isim | Kız kardeşi avukat. | His sister is a lawyer.
+polis | police; police officer | isim | Köşede bir polis var. | There's a police officer on the corner.
+aşçı | cook; chef | isim | Bu restoranın aşçısı çok iyi. | This restaurant's chef is very good.
+garson | waiter; waitress | isim | Garson, hesap lütfen! | Waiter, the bill please!
+şoför | driver | isim | Otobüs şoförü çok nazik. | The bus driver is very polite.
+satıcı | seller; salesperson | isim | Satıcı bana indirim yaptı. | The seller gave me a discount.
+## Jobs (2)
+iş | work; job | isim | Yeni bir iş buldum. | I found a new job.
+işçi | worker | isim | Fabrikada yüz işçi çalışıyor. | A hundred workers work in the factory.
+memur | civil servant; official | isim | Babam devlet memuru. | My father is a civil servant.
+müdür | manager; director; principal | isim | Müdür şimdi toplantıda. | The manager is in a meeting now.
+çiftçi | farmer | isim | Dedem çiftçiydi. | My grandfather was a farmer.
+berber | barber | isim | Cumartesi berbere gidiyorum. | I'm going to the barber's on Saturday.
+kasap | butcher | isim | Kasaptan et aldım. | I bought meat from the butcher's.
+terzi | tailor | isim | Terzi pantolonumu kısalttı. | The tailor shortened my trousers.
+emekli | retired; pensioner | sıfat | Annem geçen yıl emekli oldu. | My mum retired last year.
+işsiz | unemployed | sıfat | Kardeşim şu an işsiz. | My brother is unemployed at the moment.
+## Appearance
+güzel | beautiful; pretty; nice | sıfat | Ne güzel bir gün! | What a beautiful day!
+yakışıklı | handsome | sıfat | Damat çok yakışıklı. | The groom is very handsome.
+uzun boylu | tall | sıfat | Lukas çok uzun boylu. | Lukas is very tall.
+kısa boylu | short (person) | sıfat | Ben biraz kısa boyluyum. | I'm a bit short.
+şişman | fat; overweight | sıfat | Kedimiz biraz şişman. | Our cat is a bit fat.
+zayıf | thin; slim; weak | sıfat | O çok zayıf, az yiyor. | She's very thin, she eats little.
+sarışın | blond; fair-haired | sıfat | Sarışın kız kim? | Who's the blond girl?
+esmer | dark-haired; dark-skinned | sıfat | Ali esmer ve uzun boylu. | Ali is dark-haired and tall.
+genç | young; young person | sıfat | Öğretmenimiz çok genç. | Our teacher is very young.
+yaşlı | old (person); elderly | sıfat | Yaşlı adam bankta oturuyor. | The old man is sitting on the bench.
+## Character (1)
+iyi | good; well | sıfat | Ayşe çok iyi bir insan. | Ayşe is a very good person.
+kötü | bad | sıfat | Bugün kötü bir gün. | Today is a bad day.
+akıllı | clever; smart | sıfat | Bu köpek çok akıllı. | This dog is very clever.
+çalışkan | hard-working | sıfat | Maria çalışkan bir öğrenci. | Maria is a hard-working student.
+tembel | lazy | sıfat | Pazar günü çok tembelim. | I'm very lazy on Sundays.
+kibar | polite; kind | sıfat | Garson çok kibardı. | The waiter was very polite.
+komik | funny | sıfat | Bu film çok komik. | This film is very funny.
+sakin | calm; quiet | sıfat | Babam her zaman sakin. | My dad is always calm.
+utangaç | shy | sıfat | Küçük kızım biraz utangaç. | My little daughter is a bit shy.
+neşeli | cheerful | sıfat | Teyzem hep neşeli. | My aunt is always cheerful.
+## Character (2)
+sabırlı | patient | sıfat | Öğretmen olmak için sabırlı olmalısın. | You must be patient to be a teacher.
+cömert | generous | sıfat | Dedem çok cömert bir insan. | My grandfather is a very generous man.
+dürüst | honest | sıfat | Dürüst ol, beğendin mi? | Be honest, did you like it?
+sevimli | cute; lovable | sıfat | Ne sevimli bir bebek! | What a cute baby!
+sıcakkanlı | warm; friendly | sıfat | Türkler çok sıcakkanlı. | Turkish people are very friendly.
+konuşkan | talkative | sıfat | Yeni komşumuz çok konuşkan. | Our new neighbour is very talkative.
+sessiz | quiet; silent | sıfat | Kütüphane çok sessiz. | The library is very quiet.
+ciddi | serious | sıfat | Müdürümüz çok ciddi. | Our manager is very serious.
+meraklı | curious | sıfat | Çocuklar çok meraklı. | Children are very curious.
+sinirli | angry; irritable | sıfat | Bugün neden sinirlisin? | Why are you so irritable today?
+## Life and relationships
+doğmak | to be born | fiil | Ben 1998'de doğdum. | I was born in 1998.
+büyümek | to grow up; to grow | fiil | Ben Bursa'da büyüdüm. | I grew up in Bursa.
+evlenmek | to get married | fiil | Onlar geçen yaz evlendi. | They got married last summer.
+tanışmak | to meet; to get to know | fiil | Biz üniversitede tanıştık. | We met at university.
+yaşamak | to live | fiil | Kuzenim Kanada'da yaşıyor. | My cousin lives in Canada.
+ölmek (ölür) | to die | fiil · düzensiz | Kedimiz geçen yıl öldü. | Our cat died last year.
+sevmek | to love; to like | fiil | Ailemi çok seviyorum. | I love my family very much.
+benzemek | to look like; to resemble | fiil | Sen annene çok benziyorsun. | You look a lot like your mother.
+tanımak | to know (a person); to recognise | fiil | Onu tanıyor musun? | Do you know him?
+bakmak | to look; to look after | fiil | Anneannem bebeğe bakıyor. | My grandma is looking after the baby.
