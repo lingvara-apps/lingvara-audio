@@ -1,14 +1,14 @@
 # UNIT: İnsan ve ilişkiler | Kişilik, aile, davranış, duygular
 ## Olumlu özellikler
 bienveillant | iyi niyetli, şefkatli | sıfat | Notre voisine est une femme très bienveillante avec les enfants. | Komşumuz çocuklara karşı çok şefkatli bir kadın.
-chaleureux | sıcakkanlı, samimi | sıfat | Ses parents m'ont réservé un accueil très chaleureux. | Ailesi beni çok sıcak bir şekilde karşıladı.
+chaleureux (chaleureuse) | sıcakkanlı, samimi | sıfat | Ses parents m'ont réservé un accueil très chaleureux. | Ailesi beni çok sıcak bir şekilde karşıladı.
 attentionné | düşünceli, ilgili | sıfat | Mon mari est très attentionné quand je suis malade. | Kocam ben hastayken çok ilgilidir.
 fiable | güvenilir | sıfat | J'ai besoin d'un collègue fiable pour ce projet important. | Bu önemli proje için güvenilir bir iş arkadaşına ihtiyacım var.
 serviable | yardımsever | sıfat | Le gardien de l'immeuble est toujours souriant et serviable. | Apartman görevlisi her zaman güler yüzlü ve yardımseverdir.
 reconnaissant | minnettar, müteşekkir | sıfat | Je te suis vraiment reconnaissant pour ton aide hier. | Dün yardımın için sana gerçekten minnettarım.
 tolérant | hoşgörülü | sıfat | Il faut être tolérant avec les opinions des autres. | Başkalarının fikirlerine karşı hoşgörülü olmak gerekir.
 débrouillard | becerikli, işini bilen | sıfat | Camille est débrouillarde, elle trouve toujours une solution. | Camille beceriklidir, her zaman bir çözüm bulur.
-ambitieux | hırslı, iddialı | sıfat | Ce jeune ingénieur est ambitieux et veut diriger une équipe. | Bu genç mühendis hırslı ve bir ekip yönetmek istiyor.
+ambitieux (ambitieuse) | hırslı, iddialı | sıfat | Ce jeune ingénieur est ambitieux et veut diriger une équipe. | Bu genç mühendis hırslı ve bir ekip yönetmek istiyor.
 spontané | içten, doğal; kendiliğinden | sıfat | Les enfants sont souvent plus spontanés que les adultes. | Çocuklar çoğu zaman yetişkinlerden daha doğaldır.
 ## Olumsuz özellikler
 arrogant | kibirli | sıfat | Depuis sa promotion, il est devenu un peu arrogant. | Terfisinden beri biraz kibirli oldu.
@@ -16,10 +16,10 @@ hypocrite | ikiyüzlü | sıfat | Je déteste les gens hypocrites qui sourient d
 radin | cimri | sıfat | Ne sois pas radin, laisse un pourboire au serveur ! | Cimrilik etme, garsona bahşiş bırak!
 maladroit | sakar, beceriksiz | sıfat | Je suis si maladroit que j'ai encore cassé un verre. | O kadar sakarım ki yine bir bardak kırdım.
 autoritaire | otoriter, buyurgan | sıfat | Son père était un homme sévère et assez autoritaire. | Babası sert ve oldukça otoriter bir adamdı.
-capricieux | kaprisli, nazlı | sıfat | Cet enfant capricieux refuse de manger ses légumes. | Bu kaprisli çocuk sebzelerini yemeyi reddediyor.
-menteur | yalancı | sıfat | Personne ne la croit plus, elle est trop menteuse. | Artık kimse ona inanmıyor, çok yalancı.
+capricieux (capricieuse) | kaprisli, nazlı | sıfat | Cet enfant capricieux refuse de manger ses légumes. | Bu kaprisli çocuk sebzelerini yemeyi reddediyor.
+menteur (menteuse) | yalancı | sıfat | Personne ne la croit plus, elle est trop menteuse. | Artık kimse ona inanmıyor, çok yalancı.
 lâche | korkak | sıfat | Il a été lâche de ne pas défendre son ami. | Arkadaşını savunmaması korkaklıktı.
-vaniteux | kendini beğenmiş | sıfat | Il est si vaniteux qu'il se regarde dans chaque vitrine. | O kadar kendini beğenmiş ki her vitrinde kendine bakıyor.
+vaniteux (vaniteuse) | kendini beğenmiş | sıfat | Il est si vaniteux qu'il se regarde dans chaque vitrine. | O kadar kendini beğenmiş ki her vitrinde kendine bakıyor.
 susceptible | alıngan | sıfat | Fais attention à tes mots, Omar est très susceptible. | Sözlerine dikkat et, Omar çok alıngandır.
 ## Akrabalık
 la belle-famille | eşin ailesi, kayın aile | isim (d) | Nous passons Noël chez ma belle-famille en Alsace. | Noel'i Alsas'ta eşimin ailesinin yanında geçiriyoruz.
@@ -96,7 +96,7 @@ vieillir | yaşlanmak | fiil | Mon chien vieillit, il dort presque toute la jour
 mûrir | olgunlaşmak | fiil | Elle a beaucoup mûri depuis son année à l'étranger. | Yurt dışındaki yılından beri çok olgunlaştı.
 le décès | vefat, ölüm | isim (e) | Après le décès de son mari, elle a vendu la maison. | Kocasının vefatından sonra evi sattı.
 le veuf | dul erkek | isim (e) | Mon voisin est veuf depuis dix ans et vit seul. | Komşum on yıldır dul ve yalnız yaşıyor.
-majeur | reşit; büyük, önemli | sıfat | En France, on est majeur à dix-huit ans. | Fransa'da on sekiz yaşında reşit olunur.
+majeur (majeure) | reşit; büyük, önemli | sıfat | En France, on est majeur à dix-huit ans. | Fransa'da on sekiz yaşında reşit olunur.
 la génération | kuşak, nesil | isim (d) | Trois générations vivent sous le même toit dans cette ferme. | Bu çiftlikte üç kuşak aynı çatı altında yaşıyor.
 ## Kişiliği anlatmak
 la personnalité | kişilik | isim (d) | Elle a une forte personnalité et dit ce qu'elle pense. | Güçlü bir kişiliği var ve düşündüğünü söyler.
@@ -106,6 +106,6 @@ la qualité | nitelik, meziyet; kalite | isim (d) | La patience est une qualité
 le point fort | güçlü yan | isim (e) | Quel est votre point fort, selon vos collègues ? | İş arkadaşlarınıza göre güçlü yanınız nedir?
 sûr de soi | kendinden emin | ifade | Pendant l'entretien, essaie de paraître sûr de toi. | Mülakat sırasında kendinden emin görünmeye çalış.
 réservé | çekingen, ağırbaşlı | sıfat | Au début, Yuki semble réservée, mais elle est très drôle. | Başta Yuki çekingen görünür ama çok komiktir.
-discret | ketum, ağzı sıkı; göze batmayan | sıfat | Tu peux lui dire ton secret, elle est très discrète. | Sırrını ona söyleyebilirsin, çok ağzı sıkıdır.
+discret (discrète) | ketum, ağzı sıkı; göze batmayan | sıfat | Tu peux lui dire ton secret, elle est très discrète. | Sırrını ona söyleyebilirsin, çok ağzı sıkıdır.
 extraverti | dışa dönük | sıfat | Mon cousin est extraverti et adore les grandes fêtes. | Kuzenim dışa dönüktür ve büyük partilere bayılır.
 mûr | olgun; (meyve) olmuş | sıfat | Pour un garçon de quinze ans, il est très mûr. | On beş yaşında bir çocuk için çok olgun.

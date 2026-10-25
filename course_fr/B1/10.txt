@@ -9,7 +9,7 @@ l'interface (f) | arayüz | isim (d) | L'interface de cette application est simp
 le système d'exploitation | işletim sistemi | isim (e) | Mon vieil ordinateur ne supporte plus le nouveau système d'exploitation. | Eski bilgisayarım yeni işletim sistemini artık desteklemiyor.
 l'icône (f) | simge, ikon | isim (d) | Cliquez sur l'icône en forme d'engrenage pour ouvrir les réglages. | Ayarları açmak için dişli çark şeklindeki simgeye tıklayın.
 la fonctionnalité | özellik, işlev | isim (d) | Cette mise à jour ajoute plusieurs fonctionnalités très utiles. | Bu güncelleme birkaç çok yararlı özellik ekliyor.
-intuitif | kolay anlaşılır, sezgisel | sıfat | Même ma grand-mère utilise ce téléphone, il est très intuitif. | Büyükannem bile bu telefonu kullanıyor, çok kolay anlaşılır.
+intuitif (intuitive) | kolay anlaşılır, sezgisel | sıfat | Même ma grand-mère utilise ce téléphone, il est très intuitif. | Büyükannem bile bu telefonu kullanıyor, çok kolay anlaşılır.
 ## İnternet
 le haut débit | geniş bant (internet) | isim (e) | Dans ce village de montagne, il n'y a pas encore le haut débit. | Bu dağ köyünde henüz geniş bant internet yok.
 la fibre | fiber internet; lif | isim (d) | Depuis qu'on a la fibre, les films ne coupent plus. | Fiber internet geldiğinden beri filmler artık kesilmiyor.
@@ -20,7 +20,7 @@ l'onglet (m) | sekme | isim (e) | J'ai toujours vingt onglets ouverts sur mon na
 l'historique de navigation (m) | tarama geçmişi | isim (e) | Pense à effacer ton historique de navigation sur l'ordinateur de la bibliothèque. | Kütüphane bilgisayarındaki tarama geçmişini silmeyi unutma.
 le cookie | çerez | isim (e) | Chaque site me demande si j'accepte les cookies. | Her site çerezleri kabul edip etmediğimi soruyor.
 le favori | yer imi; favori | isim (e) | J'ai ajouté le site de recettes dans mes favoris. | Tarif sitesini yer imlerime ekledim.
-le débit | hız (internet); akış | isim (e) | Le débit est très faible le soir quand tout le monde regarde des séries. | Akşam herkes dizi izlediğinde internet hızı çok düşük oluyor.
+la bande passante | bant genişliği | isim (d) | Le soir, quand tout le monde regarde des séries, la bande passante baisse. | Akşam herkes dizi izlediğinde bant genişliği düşüyor.
 ## Güvenlik
 l'antivirus (m) | antivirüs | isim (e) | Installe un bon antivirus avant de télécharger des fichiers. | Dosya indirmeden önce iyi bir antivirüs kur.
 le pare-feu | güvenlik duvarı | isim (e) | Le pare-feu de l'entreprise bloque certains sites de jeux. | Şirketin güvenlik duvarı bazı oyun sitelerini engelliyor.

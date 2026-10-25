@@ -9,7 +9,7 @@ le déroulement | gidişat, seyir | isim (e) | Le professeur explique le déroul
 se dérouler | geçmek, cereyan etmek | fiil · dönüşlü | La cérémonie se déroulera dans le jardin du château. | Tören şatonun bahçesinde yapılacak.
 l'aboutissement (m) | sonuç, varılan nokta | isim (e) | Ce livre est l'aboutissement de dix ans de recherches. | Bu kitap on yıllık araştırmaların sonucu.
 l'achèvement (m) | tamamlanma | isim (e) | L'achèvement des travaux est prévu pour le mois de juin. | Çalışmaların tamamlanması haziran ayına planlanıyor.
-progressif | aşamalı, kademeli | sıfat | Le retour au travail sera progressif après l'opération. | Ameliyattan sonra işe dönüş kademeli olacak.
+progressif (progressive) | aşamalı, kademeli | sıfat | Le retour au travail sera progressif après l'opération. | Ameliyattan sonra işe dönüş kademeli olacak.
 ## Neden ve sonuç
 la cause | neden, sebep; dava | isim (d) | La police cherche encore la cause de l'incendie. | Polis yangının nedenini hâlâ araştırıyor.
 la conséquence | sonuç | isim (d) | Cette décision aura des conséquences graves pour l'entreprise. | Bu kararın şirket için ciddi sonuçları olacak.
@@ -39,7 +39,7 @@ l'aspect (m) | yön, görünüş | isim (e) | Nous avons étudié tous les aspec
 le critère | ölçüt | isim (e) | Le prix n'est pas le seul critère pour choisir un appartement. | Bir daire seçmek için fiyat tek ölçüt değil.
 la particularité | özellik, ayrıcalık | isim (d) | La particularité de ce village, ce sont ses maisons colorées. | Bu köyün özelliği rengârenk evleri.
 spécifique | özgül, özel | sıfat | Ce poste demande des compétences spécifiques en informatique. | Bu pozisyon bilişimde özel yetkinlikler gerektiriyor.
-essentiel | temel, esas | sıfat | L'eau est essentielle à la vie sur Terre. | Su Dünya'daki yaşam için temeldir.
+essentiel (essentielle) | temel, esas | sıfat | L'eau est essentielle à la vie sur Terre. | Su Dünya'daki yaşam için temeldir.
 secondaire | ikincil, önemsiz | sıfat | Ce détail est secondaire, concentrons-nous sur l'essentiel. | Bu ayrıntı ikincil, esasa odaklanalım.
 l'importance (f) | önem | isim (d) | Les parents mesurent mal l'importance du sommeil pour les enfants. | Ebeveynler uykunun çocuklar için önemini pek kavrayamıyor.
 la nuance de sens | anlam farkı | isim (d) | Il existe une petite nuance de sens entre ces deux mots. | Bu iki kelime arasında küçük bir anlam farkı var.
@@ -75,7 +75,7 @@ probable | muhtemel | sıfat | Il est probable que le train aura du retard ce so
 improbable | olasılık dışı, pek olası olmayan | sıfat | Une victoire de notre équipe semble très improbable. | Takımımızın galibiyeti pek olası görünmüyor.
 inévitable | kaçınılmaz | sıfat | Avec cette tempête, les retards sont inévitables. | Bu fırtınayla gecikmeler kaçınılmaz.
 indispensable | vazgeçilmez, mutlaka gerekli | sıfat | Un bon dictionnaire est indispensable pour traduire ce texte. | Bu metni çevirmek için iyi bir sözlük mutlaka gerekli.
-optionnel | isteğe bağlı, seçmeli | sıfat | La visite du musée est optionnelle, mais très conseillée. | Müze gezisi isteğe bağlı ama çok tavsiye ediliyor.
+optionnel (optionnelle) | isteğe bağlı, seçmeli | sıfat | La visite du musée est optionnelle, mais très conseillée. | Müze gezisi isteğe bağlı ama çok tavsiye ediliyor.
 ## Zaman kavramları
 la durée | süre | isim (d) | La durée du contrat est de deux ans. | Sözleşmenin süresi iki yıl.
 la période | dönem | isim (d) | C'était une période très heureuse de ma vie. | Hayatımın çok mutlu bir dönemiydi.
@@ -84,7 +84,7 @@ simultané | eş zamanlı | sıfat | Les deux concerts ont lieu de façon simult
 antérieur | önceki | sıfat | Ce document est antérieur à la Révolution française. | Bu belge Fransız Devrimi'nden önceye ait.
 ultérieur | sonraki | sıfat | La réunion est reportée à une date ultérieure. | Toplantı ileri bir tarihe ertelendi.
 provisoire | geçici | sıfat | Ce bureau est une solution provisoire pendant les travaux. | Bu ofis çalışmalar süresince geçici bir çözüm.
-définitif | kesin, nihai | sıfat | Les résultats définitifs du concours seront publiés demain. | Yarışmanın kesin sonuçları yarın açıklanacak.
+définitif (définitive) | kesin, nihai | sıfat | Les résultats définitifs du concours seront publiés demain. | Yarışmanın kesin sonuçları yarın açıklanacak.
 désormais | bundan böyle, artık | zarf | Désormais, le magasin sera ouvert le dimanche matin. | Bundan böyle mağaza pazar sabahları açık olacak.
 auparavant | önceden, daha önce | zarf | Auparavant, cette rue était beaucoup plus calme. | Önceden bu sokak çok daha sakindi.
 ## Soyut fiiller
