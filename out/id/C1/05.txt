@@ -1,0 +1,111 @@
+# UNIT: Wacana sains dan teknologi | Kecerdasan buatan, bioteknologi, energi, masyarakat digital
+## Kecerdasan buatan
+generative | generatif | Alat generatif sekarang dapat membuat gambar yang realistis dari deskripsi singkat.
+reinforcement learning | pembelajaran penguatan | Melalui pembelajaran penguatan, program tersebut belajar sendiri cara bermain catur.
+deep learning | pembelajaran mendalam | Pembelajaran mendalam telah mengubah pengenalan suara selama dekade terakhir.
+training data | data pelatihan | Jika data pelatihan bias, keputusan model juga akan bias.
+language model | model bahasa | Model bahasa dapat meringkas laporan panjang dalam beberapa detik.
+hallucination | halusinasi AI | Selalu periksa sumbernya, karena halusinasi AI dapat terlihat sangat meyakinkan.
+virtual assistant | asisten virtual | Asisten virtual menjawab sebagian besar pertanyaan tentang bagasi yang hilang.
+robotics | robotika | Lukas sedang menempuh studi master di bidang robotika dan sistem kendali.
+computer vision | penglihatan komputer | Penglihatan komputer memungkinkan mobil mengidentifikasi pejalan kaki di malam hari.
+fine-tune | menyempurnakan | Tim menyempurnakan model tersebut pada ribuan laporan medis.
+## Data dan komputasi
+big data | data besar | Pengecer menggunakan data besar untuk memprediksi apa yang akan dibeli pelanggan berikutnya.
+cloud computing | komputasi awan | Komputasi awan memungkinkan perusahaan kecil menyewa daya pemrosesan alih-alih membeli server.
+processing power | daya pemrosesan | Melatih model seperti itu membutuhkan jumlah daya pemrosesan yang sangat besar.
+quantum computing | komputasi kuantum | Komputasi kuantum suatu hari nanti dapat memecahkan metode enkripsi saat ini.
+encryption | enkripsi | Enkripsi ujung ke ujung berarti hanya pengirim dan penerima yang dapat membaca pesan.
+throughput | kapasitas throughput | Chip baru tersebut menggandakan kapasitas throughput server perusahaan.
+latency | latensi | Latensi rendah sangat penting untuk game online dan bedah jarak jauh.
+semiconductor | semikonduktor | Kekurangan semikonduktor global menunda produksi mobil selama berbulan-bulan.
+data centre | pusat data | Pusat data yang baru menggunakan air laut untuk mendinginkan servernya.
+computational | komputasional | Model komputasional membantu para ilmuwan memprediksi bagaimana virus akan menyebar.
+## Biyoteknoloji
+biotechnology | bioteknologi | Bioteknologi kini menjadi salah satu sektor yang tumbuh paling cepat di wilayah ini.
+genome | genom | Para ilmuwan telah memetakan seluruh genom tanaman gandum.
+gene editing | penyuntingan gen | Penyuntingan gen memunculkan pertanyaan sulit tentang apa yang alami.
+stem cell | sel punca | Penelitian sel punca menawarkan harapan bagi pasien dengan cedera tulang belakang.
+cloning | kloning | Banyak negara telah melarang kloning manusia.
+transgenic | transgenik | Tanaman transgenik tetap kontroversial di sebagian wilayah Eropa.
+sequencing | pengurutan DNA | Biaya pengurutan DNA telah turun drastis dalam waktu dua puluh tahun.
+enzyme | enzim | Enzim ini menguraikan plastik jauh lebih cepat daripada yang diperkirakan para ilmuwan.
+synthetic biology | biologi sintetis | Biologi sintetis bertujuan merancang organisme yang dapat menghasilkan bahan bakar.
+gene therapy | terapi gen | Terapi gen memulihkan sebagian penglihatan beberapa pasien dalam uji klinis tersebut.
+## Teknologi medis
+biomarker | biomarker | Para peneliti menemukan biomarker yang dapat menandakan penyakit tersebut bertahun-tahun sebelumnya.
+diagnostics | diagnostik | Metode diagnostik yang lebih cepat dapat menyelamatkan ribuan nyawa setiap tahun.
+bionic | bionik | Atlet tersebut berlari dengan kaki bionik yang menyesuaikan dengan setiap langkah.
+prosthesis (prostheses) | protesis | Protesis baru tersebut merespons langsung sinyal dari otot.
+implant | implan | Implan kecil membantu pasien mengendalikan tremor di tangannya.
+telemedicine | telemedis | Telemedis memungkinkan penduduk desa berkonsultasi dengan spesialis tanpa harus bepergian.
+nanotechnology | nanoteknologi | Nanoteknologi dapat memungkinkan obat mencapai sel kanker secara langsung.
+medical imaging | pencitraan medis | Kemajuan dalam pencitraan medis telah membuat banyak operasi menjadi jauh lebih tidak invasif.
+precision medicine | kedokteran presisi | Kedokteran presisi menyesuaikan pengobatan dengan profil genetik setiap pasien.
+clinical trial | uji klinis | Vaksin tersebut kini memasuki tahap akhir uji klinisnya.
+## Sumber energi
+photovoltaic | fotovoltaik | Panel fotovoltaik kini menutupi atap seluruh pabrik.
+solar farm | ladang surya | Ladang surya raksasa kini berdiri di bekas lokasi tambang batu bara.
+power grid | jaringan listrik | Jaringan listrik berjuang untuk mengatasi gelombang panas yang tiba-tiba.
+fission | fisi | Pembangkit listrik tenaga nuklir saat ini menghasilkan energi melalui fisi.
+fusion | fusi | Fusi menjanjikan energi yang hampir tak terbatas, tetapi masih puluhan tahun lagi.
+hydrogen | hidrogen | Beberapa kereta di Eropa utara sudah berjalan menggunakan hidrogen.
+fuel cell | sel bahan bakar | Bus tersebut didukung oleh sel bahan bakar yang hanya memancarkan air.
+energy storage | penyimpanan energi | Penyimpanan energi yang murah adalah kepingan yang hilang dalam teka-teki terbarukan.
+geothermal | panas bumi | Islandia menghangatkan sebagian besar rumahnya dengan energi panas bumi.
+tidal power | tenaga pasang surut | Teluk yang sempit adalah lokasi yang ideal untuk menghasilkan tenaga pasang surut.
+## Karbon dan efisiensi
+emissions trading | perdagangan emisi | Perdagangan emisi memungkinkan perusahaan membeli dan menjual izin untuk mencemari lingkungan.
+decarbonise | mendekarbonisasi | Industri berat adalah sektor yang paling sulit untuk didekarbonisasi.
+carbon capture | penangkapan karbon | Teknologi penangkapan karbon masih terlalu mahal untuk sebagian besar pembangkit listrik.
+carbon offset | kompensasi karbon | Diego membeli kompensasi karbon setiap kali ia melakukan penerbangan jarak jauh.
+smart meter | meteran pintar | Meteran pintar menunjukkan secara persis berapa banyak listrik yang kita gunakan setiap jam.
+retrofit | memasang retrofit | Dewan berencana memasang retrofit pada apartemen lama dengan insulasi yang lebih baik.
+electric vehicle | kendaraan listrik | Penjualan kendaraan listrik meningkat dua kali lipat di negara tersebut tahun lalu.
+charging station | stasiun pengisian daya | Masih belum ada stasiun pengisian daya di jalan tol antara kedua kota tersebut.
+biofuel | bahan bakar nabati | Para kritikus berpendapat bahwa menanam tanaman untuk bahan bakar nabati menaikkan harga pangan.
+energy-efficient | hemat energi | Perangkat yang hemat energi harganya lebih mahal tetapi menghemat uang dalam jangka panjang.
+## Masyarakat digital
+smart city | kota cerdas | Di kota cerdas, sensor menyesuaikan lampu lalu lintas sesuai dengan lalu lintas waktu nyata.
+connectivity | konektivitas | Konektivitas yang buruk di daerah pedesaan membuat pekerjaan jarak jauh hampir tidak mungkin dilakukan.
+e-government | pemerintahan elektronik | Berkat layanan pemerintahan elektronik, Emre memperpanjang SIM-nya dalam sepuluh menit.
+gig economy | ekonomi gig | Banyak kurir pengiriman dalam ekonomi gig tidak memiliki cuti berbayar.
+digital literacy | literasi digital | Sekolah harus mengajarkan literasi digital di samping membaca dan matematika.
+attention economy | ekonomi perhatian | Dalam ekonomi perhatian, aplikasi bersaing untuk mendapatkan setiap menit dari hari kita.
+soundbite | kutipan suara singkat | Temuan ilmiah yang kompleks seringkali direduksi menjadi satu kutipan suara singkat di berita.
+content moderation | moderasi konten | Moderasi konten di platform besar seringkali dilakukan oleh pekerja yang dibayar rendah.
+screen time | waktu layar | Dokter merekomendasikan untuk membatasi waktu layar bagi anak kecil.
+digital footprint | jejak digital | Segala sesuatu yang kamu posting secara online menambah jejak digital permanenmu.
+## Keamanan siber
+spyware | perangkat mata-mata | Penyelidik menemukan perangkat mata-mata yang disembunyikan di ponsel jurnalis tersebut.
+botnet | botnet | Penjahat menggunakan botnet dari router rumah yang terinfeksi untuk mengirim spam.
+denial-of-service attack | serangan penolakan layanan | Serangan penolakan layanan membuat situs web kementerian offline selama berjam-jam.
+penetration testing | pengujian penetrasi | Bank tersebut mempekerjakan peretas etis untuk melakukan pengujian penetrasi setiap tahun.
+zero-day | kerentanan hari nol | Penyerang mengeksploitasi kerentanan hari nol sebelum pengembang bahkan tahu kerentanan itu ada.
+biometric | biometrik | Pemeriksaan biometrik seperti sidik jari kini umum dilakukan di kontrol perbatasan.
+hacktivist | hacktivis | Sekelompok hacktivis merusak situs web perusahaan sebagai bentuk protes.
+end-to-end | ujung ke ujung | Perlindungan ujung ke ujung berarti tidak seorang pun di antaranya dapat membaca file-filemu.
+vulnerability | kerentanan | Insinyur merilis pembaruan untuk memperbaiki kerentanan serius di aplikasi tersebut.
+backdoor | pintu belakang | Para ahli memperingatkan bahwa pintu belakang bagi polisi juga dapat digunakan oleh penjahat.
+## Teknologi luar angkasa
+launch vehicle | kendaraan peluncur | Kendaraan peluncur tersebut membawa tiga satelit cuaca ke luar angkasa sekaligus.
+reusable | dapat digunakan kembali | Roket yang dapat digunakan kembali telah memangkas biaya mencapai luar angkasa secara drastis.
+payload | muatan | Muatan roket tersebut mencakup teleskop kecil yang dibuat oleh para siswa.
+low Earth orbit | orbit rendah Bumi | Ribuan satelit kecil kini mengelilingi planet ini di orbit rendah Bumi.
+space debris | sampah antariksa | Bahkan sepotong kecil sampah antariksa dapat merusak satelit secara serius.
+propulsion | sistem propulsi | Insinyur sedang menguji bentuk baru sistem propulsi listrik untuk misi luar angkasa dalam.
+geostationary | geostasioner | Satelit geostasioner tetap berada di atas titik yang sama di garis khatulistiwa.
+space probe | wahana antariksa | Wahana antariksa tersebut mengirimkan kembali gambar rinci tentang cincin Saturnus.
+re-entry | masuk kembali ke atmosfer | Perisai panas kapsul harus bertahan dari panas ekstrem saat masuk kembali ke atmosfer.
+microgravity | mikrogravitasi | Tanaman yang ditanam dalam mikrogravitasi mengembangkan akarnya ke arah yang tidak terduga.
+## Inovasi dan etika
+proof of concept | bukti konsep | Uji coba kecil tersebut berfungsi sebagai bukti konsep untuk desain baterai baru.
+prototype | prototipe | Para insinyur menguji prototipe pertama di terowongan angin.
+game-changer | pengubah permainan | Baterai murah bisa menjadi pengubah permainan bagi desa-desa terpencil.
+cutting-edge | mutakhir | Laboratorium ini dilengkapi dengan mikroskop mutakhir dari beberapa negara.
+legacy system | sistem warisan | Bank tersebut masih menjalankan pembayarannya pada sistem warisan dari tahun delapan puluhan.
+early adopter | pengadopsi awal | Sebagai pengadopsi awal, Yuki membeli headset tersebut pada hari pertama penjualan.
+research and development | penelitian dan pengembangan | Perusahaan menghabiskan seperlima pendapatannya untuk penelitian dan pengembangan.
+dual-use | kegunaan ganda | Kontrol ekspor berlaku untuk teknologi kegunaan ganda seperti drone canggih.
+algorithmic bias | bias algoritmik | Para ahli memperingatkan bahwa bias algoritmik dapat menyebabkan keputusan perekrutan yang tidak adil.
+precautionary principle | prinsip kehati-hatian | Berdasarkan prinsip kehati-hatian, bahan kimia baru harus dibuktikan keamanannya terlebih dahulu.
