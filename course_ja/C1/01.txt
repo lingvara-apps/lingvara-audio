@@ -1,0 +1,111 @@
+# UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+## Argümanın yapısı
+前提 (zentei) | öncül, ön kabul | isim | 前提が誤っていれば、そこから導かれる結論もすべて疑わしくなる。 | Öncül yanlışsa ondan çıkarılan sonuçların hepsi şüpheli hâle gelir.
+命題 (meidai) | önerme | isim | この命題が真であることを証明するのは容易ではない。 | Bu önermenin doğru olduğunu kanıtlamak kolay değildir.
+論拠 (ronkyo) | dayanak, gerekçe | isim | 筆者の主張には十分な論拠が示されていない。 | Yazarın savı için yeterli dayanak gösterilmemiş.
+帰結 (kiketsu) | sonuç, varılan nokta | isim | 少子化は長年の政策の当然の帰結だと言える。 | Doğum oranının düşmesi uzun yıllık politikaların doğal sonucu sayılabilir.
+論旨 (ronshi) | ana fikir, tezin özü | isim | 論旨が明確でないため、読者は途中で混乱してしまう。 | Ana fikir net olmadığı için okur yarı yolda kafası karışıyor.
+論点 (ronten) | tartışma noktası | isim | 議論の論点を三つに整理してから発表を始めた。 | Tartışma noktalarını üçe ayırdıktan sonra sunuma başladı.
+推論 (suiron) | çıkarım, akıl yürütme | isim | 限られたデータからの推論には慎重であるべきだ。 | Sınırlı verilerden çıkarım yaparken temkinli olmak gerekir.
+妥当性 (datōsei) | geçerlilik, yerindelik | isim | 調査方法の妥当性について審査員から質問が出た。 | Jüriden araştırma yönteminin geçerliliğine dair bir soru geldi.
+整合性 (seigōsei) | tutarlılık | isim | 第二章と第四章の記述に整合性が欠けている。 | İkinci ve dördüncü bölümdeki anlatımlar arasında tutarlılık eksik.
+反証 (hanshō) | karşı kanıt, çürütme | isim | 科学的な理論は反証が可能でなければならない。 | Bilimsel bir kuram çürütülebilir olmalıdır.
+## Akademik fiiller
+論じる (ronjiru) | tartışmak, ele almak (yazıda) | fiil | 本稿では都市化が家族構造に与えた影響を論じる。 | Bu makalede kentleşmenin aile yapısına etkisini ele alıyoruz.
+考察する (kōsatsu suru) | incelemek, irdelemek | fiil | 実験結果を先行研究と比較しながら考察する。 | Deney sonuçlarını önceki çalışmalarla karşılaştırarak irdeliyoruz.
+検証する (kenshō suru) | sınamak, doğrulamak | fiil | 仮説を検証するために三年間の追跡調査を行った。 | Hipotezi sınamak için üç yıllık bir izleme çalışması yaptık.
+立証する (risshō suru) | ispatlamak, kanıtlamak | fiil | 二つの現象の因果関係を立証するのは非常に難しい。 | İki olgu arasındaki nedensellik bağını kanıtlamak çok zordur.
+提唱する (teishō suru) | ileri sürmek, savunmak (kuram) | fiil | その学者は新しい言語習得理論を提唱した。 | O bilim insanı yeni bir dil edinimi kuramı ileri sürdü.
+言及する (genkyū suru) | değinmek, söz etmek | fiil | 著者は結論部で倫理的な問題にも言及している。 | Yazar sonuç kısmında etik sorunlara da değiniyor.
+敷衍する (fuen suru) | açımlamak, genişleterek açıklamak | fiil | 前章の議論を敷衍して、より一般的な原理を示したい。 | Önceki bölümdeki tartışmayı genişleterek daha genel bir ilke ortaya koymak istiyorum.
+概観する (gaikan suru) | genel hatlarıyla gözden geçirmek | fiil | まず、この分野の研究史を簡単に概観しておこう。 | Önce bu alanın araştırma tarihini kısaca gözden geçirelim.
+補完する (hokan suru) | tamamlamak, eksiğini gidermek | fiil | 質的調査は量的調査の弱点を補完する役割を持つ。 | Nitel araştırma nicel araştırmanın zayıf yönlerini tamamlama işlevi görür.
+裏付ける (urazukeru) | desteklemek, teyit etmek | fiil | 新たに発見された史料が彼の説を裏付けている。 | Yeni bulunan tarihî belgeler onun görüşünü destekliyor.
+## Araştırma süreci
+先行研究 (senkō kenkyū) | önceki çalışmalar, literatür | isim | 先行研究を十分に調べずに独自性を主張するのは危険だ。 | Önceki çalışmaları iyice incelemeden özgünlük iddia etmek tehlikelidir.
+文献 (bunken) | kaynak, literatür | isim | 江戸時代の農村に関する文献を図書館で集めている。 | Edo dönemi köyleriyle ilgili kaynakları kütüphanede topluyorum.
+被験者 (hikensha) | denek, katılımcı | isim | 被験者には実験の目的をあらかじめ説明しなかった。 | Deneklere deneyin amacı önceden açıklanmadı.
+標本 (hyōhon) | örneklem; numune | isim | 標本の数が少なすぎて、結果を一般化することはできない。 | Örneklem çok küçük olduğundan sonuçlar genellenemez.
+変数 (hensū) | değişken | isim | 年齢と収入という二つの変数の関係を分析した。 | Yaş ve gelir olmak üzere iki değişken arasındaki ilişkiyi inceledik.
+有意差 (yūisa) | anlamlı fark (istatistik) | isim | 二つのグループの間に統計的な有意差は認められなかった。 | İki grup arasında istatistiksel olarak anlamlı bir fark bulunmadı.
+再現性 (saigensei) | tekrarlanabilirlik | isim | 再現性のない実験結果は学界では信用されない。 | Tekrarlanamayan deney sonuçlarına bilim dünyasında güvenilmez.
+査読 (sadoku) | hakem değerlendirmesi | isim | 投稿した論文は現在、二名の専門家による査読を受けている。 | Gönderdiğim makale şu an iki uzmanın hakem değerlendirmesinde.
+学術誌 (gakujutsushi) | akademik dergi | isim | 彼女の研究成果は国際的な学術誌に掲載された。 | Onun araştırma bulguları uluslararası bir akademik dergide yayımlandı.
+実証 (jisshō) | kanıtlama, ampirik doğrulama | isim | 理論だけでなく、データによる実証が求められている。 | Yalnız kuram değil, verilerle kanıtlama da bekleniyor.
+## Akademik yazının bölümleri
+序論 (joron) | giriş bölümü | isim | 序論では研究の背景と目的を簡潔に述べる。 | Giriş bölümünde araştırmanın arka planı ve amacı kısaca anlatılır.
+本論 (honron) | ana bölüm, gelişme | isim | 本論は三つの章から構成されている。 | Ana bölüm üç kısımdan oluşuyor.
+結語 (ketsugo) | kapanış sözü, son söz | isim | 結語において、筆者は今後の研究の方向性を示した。 | Yazar son sözde gelecekteki araştırmaların yönünü gösterdi.
+要旨 (yōshi) | özet (makale özeti) | isim | 論文には四百字以内の要旨を添えてください。 | Makaleye dört yüz karakteri geçmeyen bir özet ekleyin.
+謝辞 (shaji) | teşekkür bölümü | isim | 謝辞には指導教員と協力者の名前が記されていた。 | Teşekkür bölümünde danışman hocanın ve katkı verenlerin adları yazılıydı.
+脚注 (kyakuchū) | dipnot | isim | 引用の出典はすべて脚注に明記する必要がある。 | Alıntıların tüm kaynakları dipnotta açıkça belirtilmelidir.
+引用 (in'yō) | alıntı | isim | 他人の文章を引用する際は、必ず出典を示すこと。 | Başkasının metninden alıntı yaparken kaynak mutlaka gösterilmelidir.
+参考文献 (sankō bunken) | kaynakça | isim | 参考文献は著者名のあいうえお順に並べてください。 | Kaynakçayı yazar adlarına göre alfabetik sırayla dizin.
+付録 (furoku) | ek (kitap/tez eki) | isim | アンケートの質問項目は巻末の付録に収めた。 | Anketin sorularını kitabın sonundaki eke koydum.
+凡例 (hanrei) | açıklamalar, kullanım notları; lejant | isim | 記号の意味については本書冒頭の凡例を参照されたい。 | İşaretlerin anlamı için kitabın başındaki açıklamalara bakınız.
+## Akademik bağlantı kalıpları
+換言すれば (kangen sureba) | başka bir deyişle | ifade | 換言すれば、この制度は高齢者の孤立を防ぐためのものである。 | Başka bir deyişle, bu sistem yaşlıların yalnızlaşmasını önlemek içindir.
+一概に (ichigai ni) | toptan, genelleyerek (olumsuzla) | zarf | 若者の読書離れを一概にスマートフォンのせいにはできない。 | Gençlerin kitaptan uzaklaşmasını toptan akıllı telefonlara bağlayamayız.
+〜の観点から (no kanten kara) | ... açısından | ifade | 環境保護の観点から、この開発計画には問題が多い。 | Çevre koruma açısından bu kalkınma planında çok sorun var.
+〜に起因する (ni kiin suru) | ...den kaynaklanmak | ifade | 事故の多くは運転者の不注意に起因するものだ。 | Kazaların çoğu sürücülerin dikkatsizliğinden kaynaklanır.
+〜に依拠する (ni ikyo suru) | ...e dayanmak | ifade | 本研究は主に聞き取り調査のデータに依拠している。 | Bu çalışma esas olarak sözlü görüşme verilerine dayanıyor.
+〜に即して (ni sokushite) | ...e uygun olarak, ...e göre | ifade | 理論ではなく現場の実態に即して考えるべきだ。 | Kurama değil, sahadaki gerçek duruma göre düşünmeliyiz.
+〜を契機に (o keiki ni) | ...vesilesiyle, ...den itibaren | ifade | 明治維新を契機に、日本の教育制度は大きく変わった。 | Meiji Restorasyonu vesilesiyle Japonya'nın eğitim sistemi büyük ölçüde değişti.
+〜と相まって (to aimatte) | ...ile birleşerek, ...ile birlikte | ifade | 円安と好天が相まって、観光客の数は過去最高となった。 | Yenin değer kaybı ve güzel havanın birleşmesiyle turist sayısı rekor kırdı.
+〜に鑑みて (ni kangamite) | ...göz önünde bulundurarak | ifade | 過去の事例に鑑みて、慎重な判断が求められる。 | Geçmişteki örnekler göz önüne alındığında temkinli bir karar gerekiyor.
+〜はさておき (wa sateoki) | ...bir yana | ifade | 費用の問題はさておき、まず計画の実現可能性を検討しよう。 | Maliyet meselesi bir yana, önce planın uygulanabilirliğini inceleyelim.
+## Bilimsel kavramlar
+枠組み (wakugumi) | çerçeve | isim | 従来の理論的枠組みでは、この現象を説明しきれない。 | Geleneksel kuramsal çerçeve bu olguyu tam açıklayamıyor.
+範疇 (hanchū) | kategori, kapsam | isim | その問題はもはや経済学の範疇を超えている。 | Bu sorun artık iktisadın kapsamını aşıyor.
+体系 (taikei) | sistem, düzenli bütün | isim | 彼は生涯をかけて独自の哲学体系を築き上げた。 | Ömrünü vererek kendine özgü bir felsefe sistemi kurdu.
+普遍性 (fuhensei) | evrensellik | isim | この物語が今も読まれるのは、その主題に普遍性があるからだ。 | Bu öykünün hâlâ okunması konusunun evrensel olmasındandır.
+蓋然性 (gaizensei) | olasılık, muhtemellik | isim | 目撃証言から見て、事故説の蓋然性が高いと判断された。 | Tanık ifadelerine bakılarak kaza ihtimalinin yüksek olduğuna karar verildi.
+相関 (sōkan) | korelasyon, karşılıklı ilişki | isim | 睡眠時間と学業成績の間には強い相関が見られた。 | Uyku süresi ile ders başarısı arasında güçlü bir korelasyon görüldü.
+因果関係 (inga kankei) | neden-sonuç ilişkisi | isim | 相関があるからといって、因果関係があるとは限らない。 | Korelasyon olması, neden-sonuç ilişkisi olduğu anlamına gelmez.
+定量的 (teiryōteki) | nicel | sıfat | 効果を定量的に評価するための指標を作成した。 | Etkiyi nicel olarak değerlendirmek için bir gösterge oluşturduk.
+定性的 (teiseiteki) | nitel | sıfat | インタビューで得た定性的なデータも重視している。 | Görüşmelerden elde edilen nitel verilere de önem veriyoruz.
+概念化 (gainenka) | kavramsallaştırma | isim | 「居場所」という感覚を概念化する試みは少ない。 | "Ait olunan yer" duygusunu kavramsallaştırma girişimleri azdır.
+## Değerlendirme ve eleştiri
+恣意的 (shiiteki) | keyfî | sıfat | データの選び方が恣意的だと批判されても仕方がない。 | Verilerin seçilişi keyfî diye eleştirilse haksız sayılmaz.
+主観的 (shukanteki) | öznel | sıfat | この評価は主観的な印象に頼りすぎている。 | Bu değerlendirme öznel izlenimlere fazlasıyla dayanıyor.
+客観性 (kyakkansei) | nesnellik | isim | 研究者自身が当事者である場合、客観性の確保が課題となる。 | Araştırmacının kendisi işin tarafıysa nesnelliği sağlamak sorun olur.
+偏り (katayori) | yanlılık, dengesizlik | isim | 回答者の年齢層に大きな偏りがあることがわかった。 | Katılımcıların yaş gruplarında büyük bir dengesizlik olduğu anlaşıldı.
+飛躍 (hiyaku) | sıçrama (mantıkta kopukluk); atılım | isim | その結論は論理の飛躍だと言わざるを得ない。 | Bu sonucun bir mantık sıçraması olduğunu söylemek zorundayız.
+短絡的 (tanrakuteki) | aceleci, basite indirgeyen | sıfat | 犯罪の原因をゲームだけに求めるのは短絡的だ。 | Suçun nedenini yalnızca oyunlarda aramak basite indirgemektir.
+説得力 (settokuryoku) | ikna gücü | isim | 具体例が加わったことで、論文の説得力が増した。 | Somut örnekler eklenince makalenin ikna gücü arttı.
+斬新 (zanshin) | yepyeni, çığır açan | sıfat | 彼の斬新な発想は、当初は学界で理解されなかった。 | Onun yepyeni fikirleri başlangıçta bilim çevrelerinde anlaşılmadı.
+精緻 (seichi) | titiz, ince işlenmiş | sıfat | 精緻な分析によって、従来の通説が覆された。 | İnce bir analizle yerleşik görüş çürütüldü.
+網羅的 (mōrateki) | kapsamlı, eksiksiz | sıfat | この辞典は江戸時代の語彙を網羅的に収録している。 | Bu sözlük Edo dönemi sözcüklerini eksiksiz biçimde içeriyor.
+## Veri ve analiz
+母集団 (boshūdan) | evren, ana kütle (istatistik) | isim | 標本が母集団を正しく代表しているかを確認する必要がある。 | Örneklemin evreni doğru temsil edip etmediğini kontrol etmek gerekir.
+平均値 (heikinchi) | ortalama değer | isim | 一部の極端な数値が平均値を大きく押し上げている。 | Bazı uç değerler ortalamayı epey yukarı çekiyor.
+中央値 (chūōchi) | medyan, ortanca | isim | 所得の分析では、平均値より中央値のほうが実態に近い。 | Gelir analizinde ortanca, ortalamadan daha gerçekçidir.
+標準偏差 (hyōjun hensa) | standart sapma | isim | 標準偏差が大きいほど、データのばらつきが大きいことを示す。 | Standart sapma büyüdükçe verilerin dağınıklığı da büyüktür.
+外れ値 (hazurechi) | aykırı değer | isim | 外れ値を除外した上で、もう一度計算し直した。 | Aykırı değerleri çıkardıktan sonra hesabı yeniden yaptık.
+推移 (suii) | seyir, değişim (zaman içinde) | isim | 過去二十年間の出生数の推移をグラフで示す。 | Son yirmi yılda doğum sayısının seyrini grafikle gösteriyoruz.
+分布 (bunpu) | dağılım | isim | この植物の分布は本州の山岳地帯に限られている。 | Bu bitkinin dağılımı Honşu'nun dağlık bölgeleriyle sınırlı.
+誤差 (gosa) | hata payı, sapma | isim | 測定には常にある程度の誤差が伴うものだ。 | Ölçümde her zaman bir miktar hata payı bulunur.
+回帰分析 (kaiki bunseki) | regresyon analizi | isim | 回帰分析を用いて、所得が健康に及ぼす影響を推定した。 | Regresyon analizi kullanarak gelirin sağlık üzerindeki etkisini tahmin ettik.
+抽出 (chūshutsu) | seçme, örnekleme; özüt çıkarma | isim | 全国の有権者から三千人を無作為に抽出した。 | Ülke genelindeki seçmenlerden rastgele üç bin kişi seçtik.
+## Akademik dünya
+学会 (gakkai) | bilimsel kurultay; bilim derneği | isim | 来月、京都で開かれる学会で研究成果を発表する。 | Gelecek ay Kyoto'daki kongrede araştırma sonuçlarımı sunacağım.
+紀要 (kiyō) | (üniversite) bülten, yıllık dergi | isim | 修士論文の一部を大学の紀要に投稿した。 | Yüksek lisans tezimin bir kısmını üniversitenin bültenine gönderdim.
+助教 (jokyō) | araştırma görevlisi (doktoralı) | isim | 彼女は博士号を取得した後、母校の助教に採用された。 | Doktorasını aldıktan sonra mezun olduğu üniversitede göreve alındı.
+学位論文 (gakui ronbun) | tez (diploma tezi) | isim | 学位論文の提出期限まで、あと二か月しかない。 | Tez teslim tarihine yalnızca iki ay kaldı.
+博士課程 (hakase katei) | doktora programı | isim | 博士課程に進むかどうか、まだ迷っている。 | Doktoraya devam edip etmeyeceğime hâlâ karar veremedim.
+共同研究 (kyōdō kenkyū) | ortak araştırma | isim | 海外の大学との共同研究が今年から始まった。 | Yurt dışındaki bir üniversiteyle ortak araştırma bu yıl başladı.
+研究費 (kenkyūhi) | araştırma bütçesi, fon | isim | 研究費の申請書類を作成するのに一週間かかった。 | Araştırma fonu başvuru belgelerini hazırlamak bir hafta sürdü.
+剽窃 (hyōsetsu) | intihal | isim | 論文の一部に剽窃の疑いがあるとして調査が始まった。 | Makalenin bir kısmında intihal şüphesi olduğu için soruşturma başladı.
+業績 (gyōseki) | başarılar, akademik çalışmalar | isim | 彼の業績は国内外で高く評価されている。 | Onun çalışmaları yurt içinde ve dışında büyük takdir görüyor.
+碩学 (sekigaku) | büyük âlim | isim | 国学の碩学として知られた人物の旧居が公開された。 | Ulusal bilimlerin büyük âlimi olarak tanınan kişinin eski evi ziyarete açıldı.
+## Sonuç ve tartışma
+総括 (sōkatsu) | genel değerlendirme, toparlama | isim | 最終章では、これまでの議論を総括する。 | Son bölümde şimdiye kadarki tartışmayı toparlıyoruz.
+展望 (tenbō) | gelecek görünümü, perspektif | isim | 論文の最後に今後の研究の展望を述べた。 | Makalenin sonunda gelecekteki araştırmaların perspektifini anlattım.
+知見 (chiken) | bulgu, bilgi birikimi | isim | 本研究で得られた知見は、教育現場でも活用できる。 | Bu çalışmada elde edilen bulgular okullarda da kullanılabilir.
+含意 (gan'i) | ima, örtük anlam | isim | この結果が持つ政策上の含意について考察したい。 | Bu sonucun politika açısından imalarını irdelemek istiyorum.
+示唆 (shisa) | işaret, ima, öneri | isim | 調査結果は、制度の見直しが必要であることを示唆している。 | Araştırma sonuçları sistemin gözden geçirilmesi gerektiğine işaret ediyor.
+今後の課題 (kongo no kadai) | gelecekteki görevler, açık konular | ifade | 対象地域を広げることが今後の課題である。 | Araştırma bölgesini genişletmek gelecekte yapılacak işlerden biridir.
+留保 (ryūho) | çekince, ihtiyat kaydı | isim | 筆者はいくつかの留保をつけた上で、この説を支持している。 | Yazar birkaç çekince koyarak bu görüşü destekliyor.
+結論づける (ketsuronzukeru) | sonucuna varmak | fiil | 調査団は、事故の主な原因は設計ミスだったと結論づけた。 | Araştırma heyeti kazanın asıl nedeninin tasarım hatası olduğu sonucuna vardı.
+一般化 (ippanka) | genelleme | isim | 一つの事例から安易な一般化をすることは避けるべきだ。 | Tek bir örnekten kolaycı genellemeler yapmaktan kaçınmalıyız.
+寄与 (kiyo) | katkı | isim | 本研究は地域史の解明に寄与するものと考えられる。 | Bu çalışmanın yerel tarihin aydınlatılmasına katkı sağlayacağı düşünülüyor.
