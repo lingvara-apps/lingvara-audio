@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
+## Bankada
+a conta corrente | vadesiz hesap | isim (d) | Abri uma conta corrente no banco. | Bankada vadesiz hesap açtım.
+a poupança | tasarruf hesabı; birikim | isim (d) | Guardo dinheiro na poupança. | Paramı tasarruf hesabında tutuyorum.
+sacar | para çekmek | fiil | Preciso sacar cem reais. | Yüz real çekmem lazım.
+o saque | para çekme | isim (e) | O limite de saque é mil reais. | Para çekme limiti bin real.
+depositar | yatırmak (para) | fiil | Depositei o cheque ontem. | Çeki dün yatırdım.
+o depósito | para yatırma; depo | isim (e) | O depósito cai amanhã. | Yatırılan para yarın hesaba geçer.
+a transferência | havale, transfer | isim (d) | Fiz a transferência pelo celular. | Havaleyi telefondan yaptım.
+o caixa eletrônico | bankamatik | isim (e) | O caixa eletrônico está sem dinheiro. | Bankamatikte para yok.
+a senha | şifre | isim (d) | Digite sua senha, por favor. | Şifrenizi girin, lütfen.
+o extrato | hesap dökümü | isim (e) | Quero ver o extrato do mês. | Bu ayın hesap dökümünü görmek istiyorum.
+## Kredi ve kartlar
+o cartão de crédito | kredi kartı | isim (e) | Aceitam cartão de crédito? | Kredi kartı geçiyor mu?
+o cartão de débito | banka kartı | isim (e) | Pago tudo no cartão de débito. | Her şeyi banka kartıyla öderim.
+o empréstimo | kredi, borç (bankadan) | isim (e) | Pedimos um empréstimo para a casa. | Ev için kredi çektik.
+os juros | faiz | isim (çoğul) | Os juros do cartão são altíssimos. | Kartın faizi çok yüksek.
+a parcela | taksit | isim (d) | Paguei a última parcela da geladeira. | Buzdolabının son taksitini ödedim.
+a fatura | fatura, ekstre (kart) | isim (d) | A fatura do cartão vence dia dez. | Kart ekstresinin son günü ayın onu.
+o limite | limit, sınır | isim (e) | Meu cartão não tem mais limite. | Kartımın limiti doldu.
+à vista | peşin | ifade | Se pagar à vista, tem desconto. | Peşin öderseniz indirim var.
+a taxa de câmbio | döviz kuru | isim (d) | A taxa de câmbio mudou hoje. | Döviz kuru bugün değişti.
+o dólar | dolar | isim (e) | Quanto está o dólar hoje? | Dolar bugün kaç?
+## Kargo ve posta
+a encomenda | paket, kargo; sipariş | isim (d) | Minha encomenda chegou! | Paketim geldi!
+a entrega | teslimat | isim (d) | A entrega é grátis acima de cem reais. | Yüz realin üstünde teslimat ücretsiz.
+o remetente | gönderen | isim (e) | Escreva o nome do remetente atrás. | Gönderenin adını arkaya yaz.
+o destinatário | alıcı | isim (e) | O destinatário não estava em casa. | Alıcı evde değildi.
+o CEP | posta kodu | isim (e) | Qual é o CEP da sua rua? | Sokağının posta kodu ne?
+o selo | pul | isim (e) | Coloque o selo no envelope. | Pulu zarfa yapıştır.
+a carta | mektup; iskambil kâğıdı | isim (d) | Recebi uma carta da minha avó. | Ninemden bir mektup aldım.
+rastrear | takip etmek (kargo) | fiil | Posso rastrear o pacote pelo site. | Paketi siteden takip edebilirim.
+o frete | kargo ücreti | isim (e) | O frete é mais caro que o produto! | Kargo ücreti üründen pahalı!
+a caixa postal | posta kutusu | isim (d) | Tenho uma caixa postal no correio. | Postanede bir posta kutum var.
+## Kuaför ve güzellik
+o salão de beleza | güzellik salonu | isim (e) | Ela vai ao salão de beleza toda sexta. | Her cuma güzellik salonuna gidiyor.
+o corte de cabelo | saç kesimi | isim (e) | Gostei do seu corte de cabelo! | Saç kesimini beğendim!
+a franja | kâkül, perçem | isim (d) | Quero cortar a franja. | Kâkülümü kestirmek istiyorum.
+tingir | boyamak (saç, kumaş) | fiil | Ela tingiu o cabelo de ruivo. | Saçını kızıla boyattı.
+a escova | fön; fırça | isim (d) | Vou fazer escova para a festa. | Parti için fön çektireceğim.
+a manicure | manikürcü; manikür | isim (d) | A manicure atende aos sábados. | Manikürcü cumartesileri çalışıyor.
+a unha | tırnak | isim (d) | Pintei as unhas de vermelho. | Tırnaklarımı kırmızıya boyadım.
+o esmalte | oje | isim (e) | Qual cor de esmalte você quer? | Hangi renk oje istersin?
+a barbearia | berber dükkânı | isim (d) | A barbearia nova é muito boa. | Yeni berber dükkânı çok iyi.
+aparar | düzeltmek (uçlarını almak) | fiil | Só quero aparar as pontas. | Sadece uçlarını aldırmak istiyorum.
+## Giysiler II
+a jaqueta | ceket, mont | isim (d) | A jaqueta de couro é cara. | Deri ceket pahalı.
+o terno | takım elbise | isim (e) | Ele usou terno no casamento. | Düğünde takım elbise giydi.
+a gravata | kravat | isim (d) | Não precisa de gravata hoje. | Bugün kravata gerek yok.
+o moletom | eşofman üstü, sweatshirt | isim (e) | Leve um moletom, à noite esfria. | Bir sweatshirt al, akşam serinliyor.
+a cueca | erkek külodu, boxer | isim (d) | Comprei um pacote de cuecas. | Bir paket boxer aldım.
+o sutiã | sütyen | isim (e) | A loja vende sutiã e pijama. | Mağaza sütyen ve pijama satıyor.
+a bota | bot, çizme | isim (d) | No Sul uso bota no inverno. | Güneyde kışın bot giyerim.
+o maiô | mayo (tek parça) | isim (e) | Ela nada de maiô. | Mayoyla yüzüyor.
+o uniforme | üniforma | isim (e) | As crianças usam uniforme na escola. | Çocuklar okulda üniforma giyiyor.
+o cachecol | atkı | isim (e) | Em Gramado precisei de cachecol. | Gramado'da atkıya ihtiyacım oldu.
+## Kumaşlar ve takılar
+o algodão | pamuk | isim (e) | A camiseta é cem por cento algodão. | Tişört yüzde yüz pamuk.
+a lã | yün | isim (d) | Minha avó faz meias de lã. | Ninem yün çorap örüyor.
+o couro | deri | isim (e) | O sapato é de couro legítimo. | Ayakkabı hakiki deri.
+a seda | ipek | isim (d) | O vestido é de seda. | Elbise ipek.
+o tecido | kumaş | isim (e) | Comprei tecido para fazer cortinas. | Perde yapmak için kumaş aldım.
+o ouro | altın | isim (e) | O anel é de ouro branco. | Yüzük beyaz altından.
+a prata | gümüş | isim (d) | Ela usa joias de prata. | Gümüş takılar takıyor.
+o anel | yüzük | isim (e) | Ele me deu um anel de noivado. | Bana nişan yüzüğü verdi.
+o colar | kolye | isim (e) | Que colar bonito! | Ne güzel bir kolye!
+o brinco | küpe | isim (e) | Perdi um brinco na praia. | Plajda bir küpemi kaybettim.
+## Hizmet veren dükkânlar
+a lavanderia | çamaşırhane, kuru temizleme | isim (d) | Levei o terno à lavanderia. | Takım elbiseyi kuru temizlemeye götürdüm.
+a costureira | terzi (kadın) | isim (d) | A costureira ajustou a calça. | Terzi pantolonu daralttı.
+o chaveiro | çilingir; anahtarlık | isim (e) | Chame um chaveiro, perdi a chave. | Bir çilingir çağır, anahtarı kaybettim.
+a ótica | gözlükçü | isim (d) | Fiz meus óculos na ótica da esquina. | Gözlüğümü köşedeki gözlükçüde yaptırdım.
+a papelaria | kırtasiye | isim (d) | Compre cadernos na papelaria. | Kırtasiyeden defter al.
+a livraria | kitapçı | isim (d) | A livraria tem um café dentro. | Kitapçının içinde bir kafe var.
+a floricultura | çiçekçi | isim (d) | Comprei rosas na floricultura. | Çiçekçiden gül aldım.
+o sapateiro | ayakkabı tamircisi | isim (e) | O sapateiro trocou a sola da bota. | Ayakkabıcı botun tabanını değiştirdi.
+a joalheria | kuyumcu | isim (d) | A joalheria fica no shopping. | Kuyumcu AVM'de.
+a loja de conveniência | market (benzinlikte) | isim (d) | Comprei água na loja de conveniência. | Benzinlikteki marketten su aldım.
+## Alışveriş işlemleri
+devolver | iade etmek, geri vermek | fiil | Quero devolver este produto. | Bu ürünü iade etmek istiyorum.
+a troca | değişim | isim (d) | A troca é em até trinta dias. | Değişim otuz gün içinde yapılır.
+embrulhar | paketlemek (hediye) | fiil | Pode embrulhar para presente? | Hediye paketi yapabilir misiniz?
+pechinchar | pazarlık yapmak | fiil | Na feira dá para pechinchar. | Pazarda pazarlık yapılabiliyor.
+encomendar | sipariş etmek | fiil | Encomendei um bolo para a festa. | Parti için pasta sipariş ettim.
+faltar | eksik olmak | fiil | Falta um botão na camisa. | Gömlekte bir düğme eksik.
+sobrar | artmak, fazla kalmak | fiil | Sobrou dinheiro no fim do mês. | Ay sonunda para arttı.
+a garantia | garanti | isim (d) | A televisão tem um ano de garantia. | Televizyonun bir yıl garantisi var.
+a nota fiscal | fatura (resmî) | isim (d) | Peça sempre a nota fiscal. | Her zaman fatura iste.
+a etiqueta | etiket | isim (d) | O preço está na etiqueta. | Fiyat etiketin üstünde.
+## Müşteri hizmetleri
+o atendimento | hizmet, müşteri hizmeti | isim (e) | O atendimento aqui é ótimo. | Buradaki hizmet harika.
+o atendente | görevli, müşteri temsilcisi | isim (e) | A atendente foi muito educada. | Görevli çok kibardı.
+a fila | kuyruk, sıra | isim (d) | A fila do banco está enorme. | Bankadaki kuyruk çok uzun.
+o horário de funcionamento | çalışma saatleri | isim (e) | Qual é o horário de funcionamento? | Çalışma saatleri ne?
+aberto | açık | sıfat | A farmácia fica aberta vinte e quatro horas. | Eczane yirmi dört saat açık.
+fechado | kapalı | sıfat | O banco está fechado no domingo. | Banka pazar günü kapalı.
+o balcão | tezgâh, gişe | isim (e) | Pergunte no balcão de informações. | Danışma tezgâhına sor.
+o serviço | hizmet; iş | isim (e) | O serviço de entrega é rápido. | Teslimat hizmeti hızlı.
+o orçamento | fiyat teklifi; bütçe | isim (e) | Pedi um orçamento para pintar a casa. | Evi boyatmak için fiyat teklifi istedim.
+agendar | randevu almak, planlamak | fiil | Quero agendar um horário. | Randevu almak istiyorum.
+## Ürünü tanımlama
+gratuito | ücretsiz | sıfat | A entrada no museu é gratuita. | Müzeye giriş ücretsiz.
+de graça | bedava | ifade | Aqui o café é de graça. | Burada kahve bedava.
+esgotado | tükenmiş | sıfat | Os ingressos estão esgotados. | Biletler tükendi.
+disponível | mevcut, müsait | sıfat | Esse modelo está disponível em azul. | Bu modelin mavisi mevcut.
+usado | kullanılmış, ikinci el | sıfat | Comprei um carro usado. | İkinci el bir araba aldım.
+original | orijinal, asıl | sıfat | Essa bolsa é original? | Bu çanta orijinal mi?
+falsificado | sahte | sıfat | O relógio era falsificado. | Saat sahteydi.
+elegante | şık | sıfat | Você está muito elegante hoje. | Bugün çok şıksın.
+na moda | moda olan | ifade | Essa cor está na moda. | Bu renk moda.
+fora de moda | modası geçmiş | ifade | Essa calça está fora de moda. | Bu pantolonun modası geçti.

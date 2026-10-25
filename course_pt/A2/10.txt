@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Cihazlar, internet, sosyal medya, sorunlar
+## Cihazlar
+o celular | cep telefonu | isim (e) | Meu celular está sem bateria. | Telefonumun şarjı bitti.
+o tablet | tablet | isim (e) | As crianças assistem desenho no tablet. | Çocuklar tablette çizgi film izliyor.
+o notebook | dizüstü bilgisayar | isim (e) | Levo o notebook para o trabalho. | Dizüstü bilgisayarı işe götürüyorum.
+o fone de ouvido | kulaklık | isim (e) | Esqueci o fone de ouvido em casa. | Kulaklığı evde unuttum.
+o carregador | şarj aleti | isim (e) | Você tem um carregador para me emprestar? | Bana ödünç verecek şarj aletin var mı?
+o cabo | kablo | isim (e) | Esse cabo não funciona. | Bu kablo çalışmıyor.
+a tela | ekran | isim (d) | A tela do celular quebrou. | Telefonun ekranı kırıldı.
+o teclado | klavye | isim (e) | O teclado não tem a letra ç. | Klavyede ç harfi yok.
+o mouse | fare (bilgisayar) | isim (e) | O mouse parou de funcionar. | Fare çalışmaz oldu.
+o pen drive | USB bellek | isim (e) | Salvei as fotos no pen drive. | Fotoğrafları USB belleğe kaydettim.
+## İnternet
+a internet | internet | isim (d) | A internet está lenta hoje. | İnternet bugün yavaş.
+o wi-fi | kablosuz internet | isim (e) | Qual é a senha do wi-fi? | Wi-fi şifresi ne?
+o site | web sitesi | isim (e) | Comprei a passagem pelo site. | Bileti siteden aldım.
+a página | sayfa | isim (d) | Abra a página inicial. | Ana sayfayı aç.
+o link | bağlantı | isim (e) | Te mando o link agora. | Bağlantıyı şimdi gönderiyorum.
+baixar | indirmek | fiil | Baixe o aplicativo do banco. | Bankanın uygulamasını indir.
+conectar | bağlamak, bağlanmak | fiil | Não consigo conectar no wi-fi. | Wi-fi'ye bağlanamıyorum.
+o navegador | tarayıcı | isim (e) | Atualize o navegador. | Tarayıcıyı güncelle.
+pesquisar | aramak, araştırmak | fiil | Vou pesquisar na internet. | İnternette araştıracağım.
+a conexão | bağlantı (internet) | isim (d) | A conexão caiu. | Bağlantı koptu.
+## Sosyal medya
+a rede social | sosyal medya ağı | isim (d) | Ela passa horas nas redes sociais. | Sosyal medyada saatler geçiriyor.
+o perfil | profil | isim (e) | Mudei a foto do meu perfil. | Profil fotoğrafımı değiştirdim.
+a postagem | gönderi, paylaşım | isim (d) | Sua postagem teve muitas curtidas. | Gönderin çok beğeni aldı.
+postar | paylaşmak, göndermek | fiil | Ele posta fotos de comida todo dia. | Her gün yemek fotoğrafı paylaşıyor.
+curtir | beğenmek; keyfini çıkarmak | fiil | Curti sua foto da praia. | Plaj fotoğrafını beğendim.
+compartilhar | paylaşmak | fiil | Compartilhe o vídeo com seus amigos. | Videoyu arkadaşlarınla paylaş.
+o seguidor | takipçi | isim (e) | Ela tem mil seguidores. | Bin takipçisi var.
+seguir | takip etmek; izlemek | fiil · düzensiz | Siga a gente nas redes! | Bizi sosyal medyada takip edin!
+comentar | yorum yapmak | fiil | Todo mundo comentou a foto. | Herkes fotoğrafa yorum yaptı.
+o vídeo | video | isim (e) | Gravei um vídeo do show. | Konserin videosunu çektim.
+## Telefonda
+o aplicativo | uygulama | isim (e) | Uso um aplicativo para aprender português. | Portekizce öğrenmek için bir uygulama kullanıyorum.
+a notificação | bildirim | isim (d) | Desligue as notificações à noite. | Gece bildirimleri kapat.
+o áudio | sesli mesaj | isim (e) | Ele manda áudios de cinco minutos! | Beş dakikalık sesli mesajlar atıyor!
+a chamada de vídeo | görüntülü arama | isim (d) | Faço chamada de vídeo com minha mãe. | Annemle görüntülü konuşuyorum.
+o contato | kişi (rehberde); iletişim | isim (e) | Salvei seu contato. | Numaranı kaydettim.
+salvar | kaydetmek; kurtarmak | fiil | Salve o arquivo antes de fechar. | Kapatmadan önce dosyayı kaydet.
+desligar | kapatmak (cihaz, telefon) | fiil | Desligue o celular no cinema. | Sinemada telefonu kapat.
+carregar | şarj etmek; taşımak | fiil | Preciso carregar o celular. | Telefonu şarj etmem lazım.
+o modo avião | uçak modu | isim (e) | Coloque o celular no modo avião. | Telefonu uçak moduna al.
+o print | ekran görüntüsü | isim (e) | Tirei um print da conversa. | Konuşmanın ekran görüntüsünü aldım.
+## Bilgisayarda
+digitar | yazmak (klavyeyle) | fiil | Digite seu e-mail aqui. | E-postanı buraya yaz.
+clicar | tıklamak | fiil | Clique no botão verde. | Yeşil düğmeye tıkla.
+deletar | silmek | fiil | Deletei a foto sem querer. | Fotoğrafı istemeden sildim.
+copiar | kopyalamak | fiil | Copie o texto. | Metni kopyala.
+colar | yapıştırmak | fiil | Agora cole aqui. | Şimdi buraya yapıştır.
+atualizar | güncellemek | fiil | O celular está atualizando. | Telefon güncelleniyor.
+reiniciar | yeniden başlatmak | fiil | Reinicie o computador. | Bilgisayarı yeniden başlat.
+o usuário | kullanıcı | isim (e) | Qual é o seu nome de usuário? | Kullanıcı adın ne?
+o sistema | sistem | isim (e) | O sistema está fora do ar. | Sistem çalışmıyor.
+a atualização | güncelleme | isim (d) | Há uma atualização disponível. | Bir güncelleme mevcut.
+## Teknik sorunlar
+travar | donmak (cihaz) | fiil | O computador travou de novo. | Bilgisayar yine dondu.
+o erro | hata | isim (e) | Aparece uma mensagem de erro. | Bir hata mesajı çıkıyor.
+o defeito | arıza, kusur | isim (e) | A máquina veio com defeito. | Makine arızalı geldi.
+sem sinal | çekmiyor, sinyal yok | ifade | Aqui no sítio fico sem sinal. | Burada, çiftlik evinde telefon çekmiyor.
+lento | yavaş | sıfat | Meu notebook está muito lento. | Dizüstü bilgisayarım çok yavaş.
+o golpe | dolandırıcılık; darbe | isim (e) | Cuidado, essa mensagem é golpe! | Dikkat, bu mesaj dolandırıcılık!
+hackear | hacklemek | fiil | Hackearam a conta dele. | Hesabını hacklediler.
+a falha | arıza, aksaklık | isim (d) | Houve uma falha no sistema. | Sistemde bir aksaklık oldu.
+funcionar | çalışmak (cihaz) | fiil | A impressora não funciona. | Yazıcı çalışmıyor.
+estragado | bozuk; bozulmuş | sıfat | O fone está estragado. | Kulaklık bozuk.
+## Online alışveriş
+o carrinho | alışveriş sepeti; araba (küçük) | isim (e) | Tenho três coisas no carrinho. | Sepette üç ürünüm var.
+o cadastro | kayıt (üyelik) | isim (e) | Faça o cadastro no site. | Siteye kaydol.
+cadastrar-se | kaydolmak | fiil · dönüşlü | Me cadastrei no aplicativo. | Uygulamaya kaydoldum.
+o código | kod | isim (e) | Digite o código que chegou por SMS. | SMS ile gelen kodu gir.
+o QR code | karekod | isim (e) | Pague com o QR code. | Karekodla öde.
+a avaliação | değerlendirme, puan | isim (d) | O restaurante tem ótimas avaliações. | Restoranın çok iyi değerlendirmeleri var.
+o cupom | kupon | isim (e) | Usei um cupom de desconto. | İndirim kuponu kullandım.
+o login | giriş (hesaba) | isim (e) | Faça login com seu e-mail. | E-postanla giriş yap.
+a assinatura | abonelik; imza | isim (d) | Cancelei a assinatura do streaming. | Dijital platform aboneliğini iptal ettim.
+o entregador | kurye | isim (e) | O entregador chegou com a pizza. | Kurye pizzayla geldi.
+## Dijital medya
+o streaming | dijital yayın platformu | isim (e) | Vejo séries no streaming. | Dizileri dijital platformda izliyorum.
+o podcast | podcast | isim (e) | Ouço um podcast no caminho. | Yolda bir podcast dinliyorum.
+a playlist | çalma listesi | isim (d) | Fiz uma playlist de bossa nova. | Bir bossa nova çalma listesi yaptım.
+o canal | kanal | isim (e) | Ele tem um canal de culinária. | Bir yemek kanalı var.
+o influenciador | fenomen, influencer | isim (e) | A influenciadora fala de viagens. | Fenomen seyahatlerden bahsediyor.
+ao vivo | canlı (yayın) | ifade | O jogo passa ao vivo. | Maç canlı yayınlanıyor.
+o episódio | bölüm (dizi) | isim (e) | Falta um episódio para acabar. | Bitmesine bir bölüm kaldı.
+o meme | caps, meme | isim (e) | Esse meme é muito engraçado. | Bu caps çok komik.
+a selfie | özçekim | isim (d) | Vamos tirar uma selfie! | Hadi bir özçekim yapalım!
+o emoji | emoji | isim (e) | Ela responde só com emoji. | Sadece emojiyle cevap veriyor.
+## Teknoloji dünyası
+a tecnologia | teknoloji | isim (d) | A tecnologia muda muito rápido. | Teknoloji çok hızlı değişiyor.
+o robô | robot | isim (e) | O robô limpa o chão da casa. | Robot evin yerlerini temizliyor.
+a inteligência artificial | yapay zekâ | isim (d) | Uso inteligência artificial no trabalho. | İşte yapay zekâ kullanıyorum.
+a máquina | makine | isim (d) | A máquina de café quebrou. | Kahve makinesi bozuldu.
+o dispositivo | cihaz | isim (e) | Desligue todos os dispositivos. | Bütün cihazları kapat.
+digital | dijital | sıfat | Hoje tudo é digital. | Bugün her şey dijital.
+eletrônico | elektronik | sıfat | Vendem aparelhos eletrônicos aqui. | Burada elektronik cihaz satılıyor.
+virtual | sanal | sıfat | Fizemos uma reunião virtual. | Sanal bir toplantı yaptık.
+os dados | veriler | isim (çoğul) | Proteja seus dados pessoais. | Kişisel verilerini koru.
+a privacidade | gizlilik, mahremiyet | isim (d) | Leia a política de privacidade. | Gizlilik politikasını oku.
+## Güvenlik
+a segurança | güvenlik | isim (d) | A segurança da conta é importante. | Hesap güvenliği önemli.
+o antivírus | antivirüs | isim (e) | Instale um bom antivírus. | İyi bir antivirüs kur.
+bloquear | engellemek; kilitlemek | fiil | Bloqueei aquele número. | O numarayı engelledim.
+desbloquear | kilidi açmak | fiil | Use o dedo para desbloquear. | Kilidi açmak için parmağını kullan.
+o backup | yedek (veri) | isim (e) | Faça backup das fotos. | Fotoğrafları yedekle.
+denunciar | şikâyet etmek, ihbar etmek | fiil | Denunciei o perfil falso. | Sahte profili şikâyet ettim.
+privado | özel, gizli | sıfat | Minha conta é privada. | Hesabım gizli.
+público | herkese açık; kamu | sıfat | O perfil dela é público. | Onun profili herkese açık.
+o spam | istenmeyen e-posta | isim (e) | O e-mail foi para o spam. | E-posta spam klasörüne düştü.
+confirmar | onaylamak, teyit etmek | fiil | Confirme seu endereço de e-mail. | E-posta adresini onayla.
