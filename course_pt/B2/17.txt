@@ -1,0 +1,111 @@
+# UNIT: Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+## Arabanın parçaları
+o volante | direksiyon | isim (e) | Segure o volante com as duas mãos, principalmente na estrada. | Özellikle otoyolda direksiyonu iki elinle tut.
+o freio | fren | isim (e) | O freio falhou e o carro bateu no muro. | Fren tutmadı ve araba duvara çarptı.
+o acelerador | gaz pedalı | isim (e) | Ele pisou no acelerador assim que o sinal abriu. | Işık yanar yanmaz gaza bastı.
+a embreagem | debriyaj | isim (d) | Carro automático não tem pedal de embreagem. | Otomatik arabada debriyaj pedalı yoktur.
+a marcha | vites | isim (d) | Na subida, é melhor dirigir em segunda marcha. | Yokuşta ikinci viteste gitmek daha iyidir.
+o motor | motor | isim (e) | O motor começou a fazer um barulho estranho na serra. | Motor dağ yolunda tuhaf bir ses çıkarmaya başladı.
+o porta-malas | bagaj (araba) | isim (e) | Não cabe mais nada no porta-malas, nem uma sacola. | Bagaja artık hiçbir şey sığmıyor, bir poşet bile.
+o para-brisa | ön cam | isim (e) | Uma pedra rachou o para-brisa na rodovia. | Otoyolda bir taş ön camı çatlattı.
+o retrovisor | dikiz aynası | isim (e) | Olhe sempre no retrovisor antes de mudar de faixa. | Şerit değiştirmeden önce her zaman dikiz aynasına bak.
+a buzina | korna | isim (d) | Em São Paulo, a buzina não para um minuto. | São Paulo'da korna bir dakika bile susmuyor.
+## Sürüş
+a autoescola | sürücü kursu | isim (d) | Fiz vinte aulas na autoescola antes da prova prática. | Uygulama sınavından önce sürücü kursunda yirmi ders aldım.
+a baliza | paralel park | isim (d) | Reprovei no exame porque errei a baliza. | Paralel parkı yanlış yaptığım için sınavda kaldım.
+a ultrapassagem | sollama | isim (d) | A ultrapassagem em curva causou o acidente. | Virajda sollama kazaya yol açtı.
+a contramão | ters yön | isim (d) | Um motorista bêbado entrou na contramão da avenida. | Sarhoş bir sürücü caddede ters yöne girdi.
+a mão única | tek yön | isim (d) | A rua da escola virou mão única no ano passado. | Okulun sokağı geçen yıl tek yön oldu.
+a curva | viraj | isim (d) | Diminua a velocidade antes da curva, a pista está molhada. | Virajdan önce hızını düşür, yol ıslak.
+o cruzamento | kavşak | isim (e) | O cruzamento da avenida com a rua do mercado é perigoso. | Caddenin pazar sokağıyla kesiştiği kavşak tehlikeli.
+a rotatória | göbekli kavşak | isim (d) | Na rotatória, pegue a segunda saída para o centro. | Göbekli kavşakta merkez için ikinci çıkışı al.
+a lombada | hız kesici tümsek | isim (d) | A prefeitura colocou uma lombada na frente da escola. | Belediye okulun önüne bir hız kesici tümsek koydu.
+o acostamento | emniyet şeridi | isim (e) | O caminhão parou no acostamento com o pneu furado. | Kamyon lastiği patlak hâlde emniyet şeridinde durdu.
+## Trafik kuralları
+o código de trânsito | karayolları trafik kanunu | isim (e) | O código de trânsito proíbe usar o celular ao volante. | Trafik kanunu direksiyondayken telefon kullanmayı yasaklıyor.
+a infração | ihlal | isim (d) | Estacionar em vaga de idoso é uma infração grave. | Yaşlılara ayrılmış yere park etmek ağır bir ihlaldir.
+o limite de velocidade | hız sınırı | isim (e) | O limite de velocidade na cidade é de sessenta quilômetros por hora. | Şehir içinde hız sınırı saatte altmış kilometre.
+o radar | radar (hız) | isim (e) | Passei rápido demais pelo radar e chegou a multa. | Radardan çok hızlı geçtim ve ceza geldi.
+o guarda de trânsito | trafik polisi | isim (e) | O guarda de trânsito organizou o fluxo depois do acidente. | Trafik polisi kazadan sonra akışı düzenledi.
+o bafômetro | alkolmetre | isim (e) | Na blitz, todos os motoristas fizeram o teste do bafômetro. | Denetimde bütün sürücülere alkolmetre testi yapıldı.
+a lei seca | alkollü araç kullanma yasağı | isim (d) | Com a lei seca, quem bebe não pode dirigir de jeito nenhum. | Alkol yasasıyla içen kişi hiçbir şekilde araç kullanamaz.
+o excesso de velocidade | aşırı hız | isim (e) | O excesso de velocidade é a principal causa de acidentes na rodovia. | Aşırı hız otoyoldaki kazaların başlıca nedenidir.
+a sinalização | trafik işaretleri | isim (d) | A estrada nova ainda não tem sinalização. | Yeni yolda henüz trafik işaretleri yok.
+o reboque | çekici, çekme | isim (e) | O carro estacionado em local proibido foi levado pelo reboque. | Yasak yere park edilmiş araba çekiciyle götürüldü.
+## Toplu taşıma
+a baldeação | aktarma | isim (d) | Para chegar ao aeroporto, é preciso fazer baldeação na estação central. | Havalimanına gitmek için merkez istasyonda aktarma yapmak gerekiyor.
+a catraca | turnike | isim (d) | O cartão não funcionou e fiquei preso na catraca. | Kart çalışmadı ve turnikede kaldım.
+o cobrador | biletçi (otobüs) | isim (e) | Em algumas cidades, o ônibus ainda tem cobrador. | Bazı şehirlerde otobüslerde hâlâ biletçi var.
+o bilhete único | ortak toplu taşıma kartı | isim (e) | Com o bilhete único, posso pegar dois ônibus pagando um. | Ortak kartla bir ücret ödeyip iki otobüse binebiliyorum.
+o horário de pico | yoğun saat | isim (e) | No horário de pico, o metrô fica completamente lotado. | Yoğun saatte metro tamamen doluyor.
+o itinerário | güzergâh | isim (e) | O itinerário do ônibus mudou por causa da obra. | Otobüsün güzergâhı inşaat yüzünden değişti.
+a lotação | dolmuş, minibüs | isim (d) | No bairro, a lotação é mais rápida que o ônibus. | Mahallede dolmuş otobüsten daha hızlı.
+o terminal rodoviário | otobüs terminali | isim (e) | O terminal rodoviário fica lotado nas vésperas de feriado. | Otobüs terminali bayram arifelerinde tıklım tıklım oluyor.
+o passe livre | ücretsiz geçiş hakkı | isim (e) | Estudantes e idosos têm passe livre nos ônibus da cidade. | Öğrenciler ve yaşlılar şehir otobüslerinde ücretsiz biniyor.
+o ponto final | son durak | isim (e) | Dormi no ônibus e só acordei no ponto final. | Otobüste uyuyakaldım ve ancak son durakta uyandım.
+## Araçlar
+o veículo | araç | isim (e) | Os veículos pesados não podem circular no centro de dia. | Ağır araçlar gündüz merkezde dolaşamaz.
+o automóvel | otomobil | isim (e) | O número de automóveis na cidade dobrou em dez anos. | Şehirdeki otomobil sayısı on yılda ikiye katlandı.
+a caminhonete | kamyonet, pikap | isim (d) | O fazendeiro dirige uma caminhonete velha e barulhenta. | Çiftlik sahibi eski ve gürültülü bir kamyonet kullanıyor.
+a carreta | tır | isim (d) | Uma carreta tombou e fechou a rodovia por horas. | Bir tır devrildi ve otoyolu saatlerce kapattı.
+a van | minibüs (van) | isim (d) | Fomos de van do aeroporto até a pousada. | Havalimanından pansiyona minibüsle gittik.
+o patinete | scooter | isim (e) | Os patinetes elétricos se espalharam pelas calçadas da cidade. | Elektrikli scooterlar şehrin kaldırımlarına yayıldı.
+a balsa | feribot | isim (d) | Pegamos a balsa para atravessar até a ilha. | Adaya geçmek için feribota bindik.
+o carro de aplicativo | uygulamadan çağrılan araç | isim (e) | Chamei um carro de aplicativo porque estava chovendo muito. | Çok yağmur yağdığı için uygulamadan bir araba çağırdım.
+o micro-ônibus | midibüs | isim (e) | Um micro-ônibus leva os turistas até a cachoeira. | Bir midibüs turistleri şelaleye götürüyor.
+o helicóptero | helikopter | isim (e) | O ferido foi levado de helicóptero para o hospital. | Yaralı helikopterle hastaneye götürüldü.
+## Yollar
+a pista | yol, pist; şerit | isim (d) | A pista estava escorregadia por causa do óleo. | Yağ yüzünden yol kaygandı.
+a faixa | şerit | isim (d) | Fique na faixa da direita se for mais devagar. | Daha yavaş gidiyorsan sağ şeritte kal.
+o túnel | tünel | isim (e) | O túnel liga os dois lados da montanha. | Tünel dağın iki yakasını birbirine bağlıyor.
+o anel viário | çevre yolu | isim (e) | O anel viário tirou os caminhões do centro da cidade. | Çevre yolu kamyonları şehir merkezinden çıkardı.
+a marginal | nehir kenarı otoyolu | isim (d) | A marginal ficou alagada depois da chuva forte. | Şiddetli yağmurdan sonra nehir kenarı yolu su altında kaldı.
+o estacionamento | otopark | isim (e) | O estacionamento do shopping cobra por hora. | AVM'nin otoparkı saatlik ücret alıyor.
+a estrada de terra | toprak yol | isim (d) | Para chegar à cachoeira, são vinte quilômetros de estrada de terra. | Şelaleye varmak için yirmi kilometre toprak yol var.
+a duplicação | yolun çift şeride çıkarılması | isim (d) | A duplicação da rodovia vai reduzir os acidentes. | Otoyolun genişletilmesi kazaları azaltacak.
+a via expressa | ekspres yol | isim (d) | A via expressa liga o aeroporto ao centro em vinte minutos. | Ekspres yol havalimanını merkeze yirmi dakikada bağlıyor.
+o parquímetro | park sayacı | isim (e) | O parquímetro aceita cartão e pagamento pelo celular. | Park sayacı kart ve telefonla ödeme kabul ediyor.
+## Kazalar ve arızalar
+a batida | çarpışma (hafif kaza) | isim (d) | Foi só uma batida leve, ninguém se machucou. | Sadece hafif bir çarpışmaydı, kimse yaralanmadı.
+a colisão | çarpışma | isim (d) | A colisão entre os dois ônibus deixou vinte feridos. | İki otobüsün çarpışması yirmi yaralıya yol açtı.
+o atropelamento | araba çarpması (yayaya) | isim (e) | O número de atropelamentos caiu depois da nova faixa de pedestres. | Yeni yaya geçidinden sonra yayalara çarpma sayısı düştü.
+o capotamento | takla atma (araç) | isim (e) | O capotamento aconteceu numa curva perigosa da serra. | Takla atma dağdaki tehlikeli bir virajda gerçekleşti.
+o engavetamento | zincirleme kaza | isim (e) | A neblina causou um engavetamento com doze carros. | Sis on iki arabanın karıştığı zincirleme bir kazaya neden oldu.
+o pneu furado | patlak lastik | isim (e) | Trocamos o pneu furado no meio da estrada. | Patlak lastiği yolun ortasında değiştirdik.
+o guincho | çekici aracı | isim (e) | O guincho demorou três horas para chegar. | Çekici gelmek için üç saat gecikti.
+a pane | arıza | isim (d) | O carro teve uma pane elétrica e não ligou mais. | Arabada elektrik arızası oldu ve bir daha çalışmadı.
+a oficina mecânica | oto tamirhanesi | isim (d) | Deixei o carro na oficina mecânica para trocar o óleo. | Yağını değiştirmesi için arabayı tamirhaneye bıraktım.
+o vazamento de óleo | yağ kaçağı | isim (e) | O mecânico encontrou um vazamento de óleo no motor. | Tamirci motorda bir yağ kaçağı buldu.
+## Sürüş fiilleri
+frear | fren yapmak | fiil | Ele freou bruscamente quando o cachorro atravessou a rua. | Köpek yolu geçince ani fren yaptı.
+acelerar | hızlanmak, gaza basmak | fiil | Não acelere quando o sinal estiver amarelo. | Sarı ışıkta gaza basma.
+ultrapassar | sollamak; aşmak | fiil | Na rodovia, é proibido ultrapassar em faixa contínua. | Otoyolda düz çizgide sollamak yasaktır.
+buzinar | korna çalmak | fiil | Os motoristas buzinaram por causa do trânsito parado. | Duran trafik yüzünden sürücüler korna çaldı.
+manobrar | manevra yapmak | fiil | Tive dificuldade para manobrar o carro na garagem apertada. | Dar garajda arabayla manevra yapmakta zorlandım.
+atropelar | (araçla) çarpmak | fiil | Um ciclista foi atropelado na avenida principal. | Ana caddede bir bisikletliye araba çarptı.
+capotar | takla atmak (araç) | fiil | O carro capotou, mas o motorista saiu sem ferimentos. | Araba takla attı ama sürücü yara almadan çıktı.
+abastecer | yakıt almak | fiil | Vamos abastecer antes de pegar a estrada. | Yola çıkmadan önce yakıt alalım.
+dar ré | geri vites yapmak | ifade | Ele deu ré sem olhar e bateu no poste. | Bakmadan geri geri gitti ve direğe çarptı.
+dar seta | sinyal vermek | ifade | Dê seta antes de virar, por favor. | Dönmeden önce sinyal ver lütfen.
+## Ulaşım sıfatları
+congestionado | sıkışık (trafik) | sıfat | A ponte está congestionada desde as seis da manhã. | Köprü sabah altıdan beri sıkışık.
+engarrafado | tıkalı (trafik) | sıfat | Na sexta-feira, a saída da cidade fica toda engarrafada. | Cuma günü şehirden çıkış tamamen tıkanıyor.
+interditado | trafiğe kapalı | sıfat | A estrada ficou interditada por causa do deslizamento. | Yol toprak kayması yüzünden trafiğe kapatıldı.
+esburacado | çukurlarla dolu | sıfat | A rua esburacada estragou a suspensão do carro. | Çukurlarla dolu sokak arabanın süspansiyonunu bozdu.
+intenso | yoğun | sıfat | O tráfego está intenso na saída para o litoral. | Sahile çıkışta trafik yoğun.
+rodoviário | karayolu | sıfat | O transporte rodoviário domina o comércio no Brasil. | Brezilya'da ticarete karayolu taşımacılığı hâkim.
+ferroviário | demiryolu | sıfat | O Brasil tem uma malha ferroviária pequena para o seu tamanho. | Brezilya'nın büyüklüğüne göre demiryolu ağı küçük.
+aéreo | hava (yolu) | sıfat | O transporte aéreo ficou mais barato nos últimos anos. | Hava taşımacılığı son yıllarda ucuzladı.
+marítimo | deniz (yolu) | sıfat | O transporte marítimo leva a soja até a China. | Deniz taşımacılığı soyayı Çin'e kadar götürüyor.
+alternativo | alternatif | sıfat | Pegamos um caminho alternativo para fugir do trânsito. | Trafikten kaçmak için alternatif bir yol kullandık.
+## Yoldaki insanlar ve ifadeler
+o caminhoneiro | kamyon şoförü | isim (e) | Os caminhoneiros passam semanas longe de casa. | Kamyon şoförleri haftalarca evden uzakta kalıyor.
+o motoqueiro | motosikletli | isim (e) | O motoqueiro passou entre os carros a toda velocidade. | Motosikletli arabaların arasından son hızla geçti.
+o frentista | pompacı | isim (e) | O frentista completou o tanque e calibrou os pneus. | Pompacı depoyu doldurdu ve lastiklerin havasını ayarladı.
+o motorista de aplicativo | uygulama şoförü | isim (e) | O motorista de aplicativo conhecia todos os atalhos da cidade. | Uygulama şoförü şehrin bütün kestirmelerini biliyordu.
+o barbeiro | acemi şoför (argo); berber | isim (e) | Que barbeiro! Ele parou no meio do cruzamento. | Ne acemi şoför! Kavşağın ortasında durdu.
+pisar fundo | gaza yüklenmek | deyim | Na estrada vazia, ele pisou fundo e quase levou multa. | Boş yolda gaza yüklendi ve neredeyse ceza yiyordu.
+furar o sinal | kırmızı ışıkta geçmek | ifade | O motorista furou o sinal e quase atropelou uma senhora. | Sürücü kırmızı ışıkta geçti ve neredeyse yaşlı bir kadına çarpıyordu.
+dar uma fechada | önünü kesmek (trafikte) | ifade | Um carro me deu uma fechada e quase bati. | Bir araba önümü kesti ve neredeyse çarpıyordum.
+ficar preso no trânsito | trafikte sıkışıp kalmak | ifade | Fiquei preso no trânsito e perdi o começo do filme. | Trafikte sıkışıp kaldım ve filmin başını kaçırdım.
+a hora do rush | trafiğin en yoğun saati | isim (d) | Evito dirigir na hora do rush, prefiro o metrô. | Trafiğin en yoğun saatinde araba kullanmaktan kaçınırım, metroyu tercih ederim.
