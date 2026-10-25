@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+深度学习 (shēndù xuéxí) | derin öğrenme | isim | 深度学习让图像识别的准确率大幅提高。 | Derin öğrenme görüntü tanımanın doğruluğunu büyük ölçüde artırdı.
+神经网络 (shénjīng wǎngluò) | sinir ağı | isim | 这个神经网络有上百层结构。 | Bu sinir ağı yüzlerce katmandan oluşuyor.
+大模型 (dàmóxíng) | büyük dil modeli, büyük model | isim | 训练一个大模型需要消耗大量电力。 | Büyük bir modeli eğitmek muazzam miktarda elektrik tüketir.
+训练数据 (xùnliàn shùjù) | eğitim verisi | isim | 训练数据中的偏见会被模型继承下来。 | Eğitim verisindeki önyargılar modele de aktarılır.
+生成式 (shēngchéngshì) | üretken (yapay zekâ) | sıfat | 生成式人工智能可以根据文字描述创作图片。 | Üretken yapay zekâ metin açıklamalarına göre görsel oluşturabilir.
+算力 (suànlì) | hesaplama gücü | isim | 算力已经成为衡量一个国家科技实力的新指标。 | Hesaplama gücü bir ülkenin teknoloji gücünü ölçen yeni bir gösterge oldu.
+参数 (cānshù) | parametre | isim | 这个模型拥有上千亿个参数。 | Bu model yüz milyarlarca parametreye sahip.
+智能体 (zhìnéngtǐ) | yapay zekâ ajanı | isim | 未来的智能体可以独立完成复杂的多步骤任务。 | Gelecekteki yapay zekâ ajanları karmaşık çok adımlı görevleri tek başına yürütebilecek.
+图灵测试 (Túlíng cèshì) | Turing testi | isim | 图灵测试用来判断机器能否表现出与人相似的智能。 | Turing testi bir makinenin insana benzer zekâ gösterip gösteremeyeceğini sınamak için kullanılır.
+自然语言处理 (zìrán yǔyán chǔlǐ) | doğal dil işleme | isim | 机器翻译是自然语言处理最经典的应用之一。 | Makine çevirisi doğal dil işlemenin en klasik uygulamalarından biridir.
+## Veri ve yazılım altyapısı
+大数据 (dàshùjù) | büyük veri | isim | 交通部门利用大数据预测高峰时段的拥堵情况。 | Ulaşım idaresi yoğun saatlerdeki trafiği tahmin etmek için büyük veriden yararlanıyor.
+云计算 (yúnjìsuàn) | bulut bilişim | isim | 越来越多的中小企业把业务迁移到云计算平台上。 | Giderek daha fazla KOBİ işlerini bulut bilişim platformlarına taşıyor.
+数据挖掘 (shùjù wājué) | veri madenciliği | isim | 通过数据挖掘，商家可以发现顾客的消费规律。 | Veri madenciliği sayesinde satıcılar müşterilerin alışveriş eğilimlerini keşfedebilir.
+存储 (cúnchǔ) | depolamak (veri) | fiil | 这些医疗数据必须加密存储。 | Bu tıbbi veriler şifreli olarak depolanmalıdır.
+带宽 (dàikuān) | bant genişliği | isim | 视频会议对网络带宽要求比较高。 | Görüntülü toplantılar yüksek bant genişliği gerektirir.
+分布式 (fēnbùshì) | dağıtık | sıfat | 分布式系统中，即使一台服务器出故障，服务也不会中断。 | Dağıtık sistemlerde bir sunucu arızalansa bile hizmet kesilmez.
+开源 (kāiyuán) | açık kaynaklı | sıfat | 这个开源项目吸引了全世界的程序员参与。 | Bu açık kaynak proje dünyanın dört bir yanından programcıların katılımını çekti.
+接口 (jiēkǒu) | arayüz (API) | isim | 两个系统之间通过标准接口交换数据。 | İki sistem standart bir arayüz üzerinden veri alışverişi yapıyor.
+迭代 (diédài) | yinelemek, sürüm güncellemek | fiil | 这款应用每两周迭代一次。 | Bu uygulama iki haftada bir yeni sürüme güncelleniyor.
+漏洞 (lòudòng) | açık (güvenlik), boşluk | isim | 工程师连夜修复了系统中的安全漏洞。 | Mühendisler sistemdeki güvenlik açığını gece boyunca çalışıp kapattı.
+## Biyoteknoloji
+基因编辑 (jīyīn biānjí) | gen düzenleme | isim | 基因编辑技术为治疗遗传病带来了希望。 | Gen düzenleme teknolojisi kalıtsal hastalıkların tedavisi için umut getirdi.
+克隆 (kèlóng) | klonlamak | fiil | 科学家第一次成功克隆了哺乳动物。 | Bilim insanları bir memeliyi ilk kez başarıyla klonladı.
+干细胞 (gànxìbāo) | kök hücre | isim | 干细胞具有分化成多种细胞的能力。 | Kök hücreler pek çok farklı hücreye dönüşebilme yeteneğine sahiptir.
+转基因 (zhuǎnjīyīn) | genetiği değiştirilmiş | sıfat | 关于转基因食品是否安全，争论一直没有停止。 | Genetiği değiştirilmiş gıdaların güvenli olup olmadığı tartışması hiç dinmedi.
+基因组 (jīyīnzǔ) | genom | isim | 人类基因组计划绘制出了人类全部基因的图谱。 | İnsan Genom Projesi insanın tüm genlerinin haritasını çıkardı.
+测序 (cèxù) | dizilemek (gen) | fiil | 现在给一个人的全部基因测序只需要几天时间。 | Artık bir insanın tüm genlerini dizilemek yalnızca birkaç gün sürüyor.
+酶 (méi) | enzim | isim | 研究人员改造了这种酶，使它能够分解塑料。 | Araştırmacılar bu enzimi plastiği parçalayabilecek şekilde değiştirdi.
+合成生物学 (héchéng shēngwùxué) | sentetik biyoloji | isim | 合成生物学试图像设计机器一样设计生命系统。 | Sentetik biyoloji yaşam sistemlerini makine tasarlar gibi tasarlamaya çalışır.
+靶向 (bǎxiàng) | hedefe yönelik | sıfat | 靶向药物只攻击癌细胞，副作用相对较小。 | Hedefe yönelik ilaçlar yalnızca kanser hücrelerine saldırdığı için yan etkileri görece azdır.
+生物制药 (shēngwù zhìyào) | biyofarmasötik | isim | 这座城市正在大力发展生物制药产业。 | Bu şehir biyofarmasötik sanayisini hızla geliştiriyor.
+## Enerji dönüşümü
+可再生能源 (kězàishēng néngyuán) | yenilenebilir enerji | isim | 可再生能源在电力结构中的比重逐年上升。 | Yenilenebilir enerjinin elektrik üretimindeki payı her yıl artıyor.
+光伏 (guāngfú) | fotovoltaik, güneş paneli | isim | 西北地区建起了大片光伏电站。 | Kuzeybatı bölgesinde geniş güneş enerjisi santralleri kuruldu.
+风电 (fēngdiàn) | rüzgâr elektriği | isim | 沿海省份正在大规模建设海上风电。 | Kıyı eyaletlerinde büyük ölçekli deniz üstü rüzgâr santralleri kuruluyor.
+核聚变 (hé jùbiàn) | nükleer füzyon | isim | 可控核聚变被视为人类的终极能源。 | Kontrollü nükleer füzyon insanlığın nihai enerji kaynağı olarak görülüyor.
+储能 (chǔnéng) | enerji depolama | isim | 储能技术是解决风电和光伏不稳定问题的关键。 | Enerji depolama teknolojisi rüzgâr ve güneş enerjisinin kararsızlık sorununu çözmenin anahtarıdır.
+氢能 (qīngnéng) | hidrojen enerjisi | isim | 氢能被认为是重工业减排的重要方向。 | Hidrojen enerjisi ağır sanayide emisyon azaltımının önemli bir yönü kabul ediliyor.
+化石燃料 (huàshí ránliào) | fosil yakıt | isim | 减少对化石燃料的依赖是能源转型的核心。 | Fosil yakıtlara bağımlılığı azaltmak enerji dönüşümünün özüdür.
+电网 (diànwǎng) | elektrik şebekesi | isim | 夏季用电高峰给电网带来了巨大压力。 | Yazın elektrik tüketimi zirvesi şebeke üzerinde büyük bir baskı oluşturdu.
+能效 (néngxiào) | enerji verimliliği | isim | 新标准对家用电器的能效提出了更高要求。 | Yeni standart ev aletlerinin enerji verimliliğine daha yüksek gereklilikler getirdi.
+碳中和 (tàn zhōnghé) | karbon nötrlüğü | isim | 许多国家都提出了实现碳中和的时间表。 | Pek çok ülke karbon nötrlüğüne ulaşmak için bir takvim açıkladı.
+## Dijital toplum
+数字鸿沟 (shùzì hónggōu) | dijital uçurum | isim | 很多老年人因为数字鸿沟而无法使用网上服务。 | Pek çok yaşlı dijital uçurum yüzünden çevrim içi hizmetleri kullanamıyor.
+信息茧房 (xìnxī jiǎnfáng) | bilgi kozası, yankı odası | isim | 长期只看推荐内容，人很容易陷入信息茧房。 | Uzun süre yalnızca önerilen içeriklere bakan kişi kolayca bir bilgi kozasına hapsolur.
+算法推荐 (suànfǎ tuījiàn) | algoritmik öneri | isim | 算法推荐让用户越来越难看到不同的观点。 | Algoritmik öneriler kullanıcıların farklı görüşleri görmesini giderek zorlaştırıyor.
+注意力经济 (zhùyìlì jīngjì) | dikkat ekonomisi | isim | 在注意力经济时代，耸人听闻的标题更容易被点击。 | Dikkat ekonomisi çağında sansasyonel başlıklar daha kolay tıklanıyor.
+数字经济 (shùzì jīngjì) | dijital ekonomi | isim | 数字经济已经成为拉动增长的新引擎。 | Dijital ekonomi büyümeyi sürükleyen yeni bir motor hâline geldi.
+网络暴力 (wǎngluò bàolì) | siber zorbalık | isim | 她因为一条评论遭受了严重的网络暴力。 | Bir yorum yüzünden ağır bir siber zorbalığa maruz kaldı.
+沉迷 (chénmí) | (bir şeye) kapılmak, bağımlı olmak | fiil | 不少青少年沉迷于短视频，无法自拔。 | Pek çok genç kısa videolara kapılıp kendini kurtaramıyor.
+数字原住民 (shùzì yuánzhùmín) | dijital yerli | isim | 这一代孩子是真正的数字原住民。 | Bu kuşağın çocukları gerçek anlamda dijital yerliler.
+虚拟 (xūnǐ) | sanal | sıfat | 虚拟世界里的友谊也可能非常真诚。 | Sanal dünyadaki dostluklar da çok samimi olabilir.
+线上线下 (xiànshàng xiànxià) | çevrim içi ve çevrim dışı | ifade | 这家书店采用线上线下相结合的经营模式。 | Bu kitabevi çevrim içi ve çevrim dışı satışı birleştiren bir model izliyor.
+## Siber güvenlik
+数据泄露 (shùjù xièlòu) | veri sızıntısı | isim | 这起数据泄露事件涉及上千万用户。 | Bu veri sızıntısı olayı on milyonlarca kullanıcıyı etkiledi.
+加密 (jiāmì) | şifrelemek | fiil | 聊天记录在传输过程中全程加密。 | Sohbet kayıtları aktarım boyunca baştan sona şifreleniyor.
+网络攻击 (wǎngluò gōngjī) | siber saldırı | isim | 银行系统昨晚遭到了大规模网络攻击。 | Banka sistemi dün gece büyük çaplı bir siber saldırıya uğradı.
+防火墙 (fánghuǒqiáng) | güvenlik duvarı | isim | 公司的防火墙拦截了大量可疑访问。 | Şirketin güvenlik duvarı çok sayıda şüpheli erişimi engelledi.
+身份认证 (shēnfèn rènzhèng) | kimlik doğrulama | isim | 登录时需要进行两步身份认证。 | Giriş yaparken iki aşamalı kimlik doğrulama gerekiyor.
+钓鱼网站 (diàoyú wǎngzhàn) | oltalama sitesi | isim | 这个钓鱼网站伪装成银行页面骗取密码。 | Bu oltalama sitesi banka sayfası kılığına girip şifre çalıyordu.
+恶意软件 (èyì ruǎnjiàn) | kötü amaçlı yazılım | isim | 下载来路不明的文件很容易感染恶意软件。 | Kaynağı belirsiz dosyaları indirmek kolayca kötü amaçlı yazılım bulaşmasına yol açar.
+个人信息 (gèrén xìnxī) | kişisel veri | isim | 应用不得超范围收集用户的个人信息。 | Uygulamalar kullanıcıların kişisel verilerini gereğinden fazla toplayamaz.
+监控 (jiānkòng) | izlemek, gözetlemek | fiil | 系统会实时监控异常登录行为。 | Sistem olağan dışı girişleri gerçek zamanlı olarak izliyor.
+人脸识别 (rénliǎn shíbié) | yüz tanıma | isim | 小区门口装了人脸识别系统，居民刷脸就能进门。 | Site girişine yüz tanıma sistemi kuruldu, sakinler yüzlerini okutarak girebiliyor.
+## Akıllı üretim ve donanım
+自动驾驶 (zìdòng jiàshǐ) | otonom sürüş | isim | 自动驾驶汽车已经在部分城市开始试运营。 | Otonom araçlar bazı şehirlerde deneme amaçlı hizmete başladı.
+无人机 (wúrénjī) | insansız hava aracı, dron | isim | 农民用无人机给庄稼喷洒农药。 | Çiftçiler ekinlere dronla ilaç püskürtüyor.
+传感器 (chuángǎnqì) | sensör, algılayıcı | isim | 桥梁上安装了几百个传感器，实时监测结构安全。 | Köprüye yapısal güvenliği anlık izlemek için yüzlerce sensör yerleştirildi.
+物联网 (wùliánwǎng) | nesnelerin interneti | isim | 通过物联网，家里的电器都可以用手机控制。 | Nesnelerin interneti sayesinde evdeki tüm cihazlar telefonla kontrol edilebiliyor.
+智能制造 (zhìnéng zhìzào) | akıllı üretim | isim | 这家工厂通过智能制造把生产效率提高了一倍。 | Bu fabrika akıllı üretimle verimliliğini iki katına çıkardı.
+芯片 (xīnpiàn) | çip | isim | 高端芯片的设计和制造难度极大。 | Üst düzey çiplerin tasarımı ve üretimi son derece zordur.
+半导体 (bàndǎotǐ) | yarı iletken | isim | 半导体产业是现代信息技术的基础。 | Yarı iletken sanayisi modern bilgi teknolojisinin temelidir.
+集成电路 (jíchéng diànlù) | entegre devre | isim | 一块指甲大小的集成电路上有几十亿个晶体管。 | Tırnak büyüklüğündeki bir entegre devrede milyarlarca transistör bulunur.
+激光雷达 (jīguāng léidá) | lidar | isim | 激光雷达帮助车辆精确感知周围环境。 | Lidar aracın çevresini hassas biçimde algılamasına yardım eder.
+自动化 (zìdònghuà) | otomasyon | isim | 自动化程度越高，对普通工人的需求就越少。 | Otomasyon düzeyi arttıkça sıradan işçiye duyulan ihtiyaç azalıyor.
+## İnovasyon ve bilim politikası
+科研经费 (kēyán jīngfèi) | araştırma fonu | isim | 政府今年大幅增加了基础研究的科研经费。 | Hükümet bu yıl temel araştırmaların fonunu büyük ölçüde artırdı.
+成果转化 (chéngguǒ zhuǎnhuà) | araştırma sonuçlarının ürüne dönüştürülmesi | isim | 很多实验室的发明止步于论文，难以实现成果转化。 | Birçok laboratuvar buluşu makalede kalıyor, ürüne dönüşemiyor.
+知识产权 (zhīshi chǎnquán) | fikrî mülkiyet hakları | isim | 保护知识产权就是保护创新。 | Fikrî mülkiyet haklarını korumak yeniliği korumaktır.
+专利 (zhuānlì) | patent | isim | 这家公司去年申请了两千多项专利。 | Bu şirket geçen yıl iki binden fazla patent başvurusu yaptı.
+产学研 (chǎn xué yán) | sanayi-üniversite-araştırma iş birliği | isim | 产学研合作能加快新技术的推广应用。 | Sanayi-üniversite-araştırma iş birliği yeni teknolojilerin yaygınlaşmasını hızlandırır.
+前沿 (qiányán) | öncü alan, en ileri nokta | isim | 这个实验室一直站在量子研究的前沿。 | Bu laboratuvar kuantum araştırmalarında hep en önde yer alıyor.
+颠覆性 (diānfùxìng) | yıkıcı, çığır açan | sıfat | 智能手机是一项颠覆性的发明。 | Akıllı telefon çığır açan bir icattır.
+瓶颈 (píngjǐng) | darboğaz | isim | 电池容量仍是电动汽车发展的瓶颈。 | Batarya kapasitesi elektrikli araçların gelişiminde hâlâ bir darboğaz.
+卡脖子 (qiǎ bózi) | kritik noktada eli kolu bağlı kalmak (teknoloji bağımlılığı) | deyim | 我们必须突破关键技术，避免被人卡脖子。 | Başkalarına muhtaç kalmamak için kilit teknolojilerde atılım yapmalıyız.
+自主创新 (zìzhǔ chuàngxīn) | özgün yenilik, yerli inovasyon | isim | 自主创新能力决定了一个企业能走多远。 | Özgün yenilik kapasitesi bir şirketin ne kadar ileri gidebileceğini belirler.
+## Teknoloji etiği
+伦理 (lúnlǐ) | etik | isim | 人类胚胎研究引发了严重的伦理争议。 | İnsan embriyosu araştırmaları ciddi etik tartışmalara yol açtı.
+算法偏见 (suànfǎ piānjiàn) | algoritmik önyargı | isim | 算法偏见可能导致招聘中的性别歧视。 | Algoritmik önyargı işe alımda cinsiyet ayrımcılığına yol açabilir.
+可解释性 (kějiěshìxìng) | açıklanabilirlik | isim | 医疗领域的人工智能尤其需要可解释性。 | Tıp alanındaki yapay zekâ özellikle açıklanabilirlik gerektirir.
+滥用 (lànyòng) | kötüye kullanmak | fiil | 人脸识别技术一旦被滥用，后果不堪设想。 | Yüz tanıma teknolojisi bir kez kötüye kullanılırsa sonuçları düşünülemeyecek kadar ağır olur.
+监管 (jiānguǎn) | denetlemek, düzenlemek (resmî) | fiil | 新技术发展太快，监管往往跟不上。 | Yeni teknolojiler o kadar hızlı gelişiyor ki denetim çoğu zaman yetişemiyor.
+风险评估 (fēngxiǎn pínggū) | risk değerlendirmesi | isim | 新产品上市前必须进行全面的风险评估。 | Yeni ürünler piyasaya çıkmadan önce kapsamlı bir risk değerlendirmesinden geçmelidir.
+双刃剑 (shuāngrènjiàn) | iki tarafı keskin kılıç | deyim | 技术是一把双刃剑，既能造福人类，也能带来灾难。 | Teknoloji iki tarafı keskin bir kılıçtır; insanlığa hem fayda hem felaket getirebilir.
+失控 (shīkòng) | kontrolden çıkmak | fiil | 有人担心超级智能有一天会失控。 | Bazıları süper zekânın bir gün kontrolden çıkacağından endişe ediyor.
+知情同意 (zhīqíng tóngyì) | bilgilendirilmiş onam | isim | 参与临床试验前，患者必须签署知情同意书。 | Klinik denemeye katılmadan önce hasta bilgilendirilmiş onam formu imzalamalıdır.
+技术中立 (jìshù zhōnglì) | teknolojinin tarafsızlığı | isim | 也有学者认为，所谓技术中立只是一种幻想。 | Kimi akademisyenlere göre teknolojinin tarafsızlığı denilen şey yalnızca bir yanılsamadır.
+## Temel bilimlerde ufuklar
+量子计算 (liàngzǐ jìsuàn) | kuantum hesaplama | isim | 量子计算有望破解目前最复杂的密码。 | Kuantum hesaplamanın bugünkü en karmaşık şifreleri kırması bekleniyor.
+纳米技术 (nàmǐ jìshù) | nanoteknoloji | isim | 纳米技术在医学和材料领域有广泛应用。 | Nanoteknolojinin tıp ve malzeme alanlarında geniş uygulamaları var.
+超导 (chāodǎo) | süperiletkenlik | isim | 超导材料在极低温度下电阻会变为零。 | Süperiletken malzemelerin direnci çok düşük sıcaklıkta sıfıra iner.
+石墨烯 (shímòxī) | grafen | isim | 石墨烯被称为"新材料之王"。 | Grafen "yeni malzemelerin kralı" olarak anılıyor.
+粒子 (lìzǐ) | parçacık | isim | 物理学家在实验中发现了一种新的粒子。 | Fizikçiler deneyde yeni bir parçacık keşfetti.
+加速器 (jiāsùqì) | hızlandırıcı | isim | 这台加速器的周长超过二十公里。 | Bu hızlandırıcının çevresi yirmi kilometreyi aşıyor.
+暗物质 (àn wùzhì) | karanlık madde | isim | 宇宙中大部分物质可能是看不见的暗物质。 | Evrendeki maddenin büyük kısmı görünmeyen karanlık madde olabilir.
+引力波 (yǐnlìbō) | kütle çekim dalgası | isim | 科学家首次直接探测到了引力波。 | Bilim insanları kütle çekim dalgalarını ilk kez doğrudan saptadı.
+相对论 (xiāngduìlùn) | görelilik kuramı | isim | 相对论彻底改变了人们对时间和空间的理解。 | Görelilik kuramı insanların zaman ve uzay anlayışını kökten değiştirdi.
+模拟 (mónǐ) | simüle etmek, modellemek | fiil | 科学家用超级计算机模拟了星系的形成过程。 | Bilim insanları süper bilgisayarla galaksilerin oluşum sürecini simüle etti.
