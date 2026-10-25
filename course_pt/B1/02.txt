@@ -1,0 +1,111 @@
+# UNIT: İş dünyası | Şirket, kariyer, toplantı, müzakere
+## Şirketin yapısı
+a empresa familiar | aile şirketi | isim (d) | A empresa familiar passou do avô para os netos. | Aile şirketi dededen torunlara geçti.
+a filial | şube | isim (d) | Vão abrir uma filial nova em Belo Horizonte. | Belo Horizonte'de yeni bir şube açacaklar.
+o departamento | departman, bölüm | isim (e) | Ela trabalha no departamento financeiro há cinco anos. | Beş yıldır finans departmanında çalışıyor.
+a diretoria | yönetim kurulu, müdürlük | isim (d) | A diretoria aprovou o novo projeto ontem à tarde. | Yönetim dün öğleden sonra yeni projeyi onayladı.
+o sócio | ortak (şirket sahibi) | isim (e) | Ele abriu um restaurante com dois sócios de Fortaleza. | Fortaleza'lı iki ortakla bir restoran açtı.
+o fornecedor | tedarikçi | isim (e) | O fornecedor atrasou a entrega das peças de novo. | Tedarikçi parçaların teslimatını yine geciktirdi.
+o parceiro | iş ortağı (kurum) | isim (e) | A loja tem parceiros que entregam em toda a cidade. | Mağazanın şehrin her yerine teslimat yapan iş ortakları var.
+a multinacional | çok uluslu şirket | isim (d) | O Diego conseguiu um emprego numa multinacional alemã. | Diego bir Alman çok uluslu şirketinde iş buldu.
+o colaborador | çalışan, personel | isim (e) | A empresa ofereceu um curso de inglês aos colaboradores. | Şirket çalışanlarına İngilizce kursu sundu.
+o estagiário | stajyer | isim (e) | O estagiário novo aprende rápido e faz muitas perguntas. | Yeni stajyer çabuk öğreniyor ve çok soru soruyor.
+## Kariyer
+o processo seletivo | işe alım süreci | isim (e) | O processo seletivo tem três etapas e uma dinâmica de grupo. | İşe alım sürecinde üç aşama ve bir grup çalışması var.
+candidatar-se | başvurmak, aday olmak | fiil · dönüşlü | Eu me candidatei a uma vaga de analista em Curitiba. | Curitiba'da bir analist pozisyonuna başvurdum.
+o recrutador | işe alım uzmanı | isim (e) | A recrutadora me ligou para marcar a segunda entrevista. | İşe alım uzmanı ikinci mülakatı ayarlamak için beni aradı.
+a qualificação | nitelik, yeterlilik | isim (d) | Ele tem boa qualificação, mas pouca experiência prática. | İyi niteliklere sahip ama pratik deneyimi az.
+a formação | eğitim geçmişi | isim (d) | Qual é a sua formação? Sou formada em administração. | Eğitim geçmişin ne? İşletme mezunuyum.
+o requisito | şart, gereklilik | isim (e) | Falar inglês fluente é um requisito para essa vaga. | Akıcı İngilizce bu pozisyon için bir şart.
+promover | terfi ettirmek | fiil | A Camila foi promovida a coordenadora depois de um ano. | Camila bir yıl sonra koordinatörlüğe terfi etti.
+o treinamento | eğitim (hizmet içi) | isim (e) | Os novos funcionários fazem um treinamento de duas semanas. | Yeni çalışanlar iki haftalık bir eğitim alıyor.
+a demissão | işten çıkarılma; istifa | isim (d) | Muitas demissões aconteceram na fábrica depois da crise. | Krizden sonra fabrikada pek çok işten çıkarma yaşandı.
+pedir demissão | istifa etmek | ifade | Ele pediu demissão para abrir o próprio negócio. | Kendi işini kurmak için istifa etti.
+## Toplantılar
+o tópico | konu başlığı, madde | isim (e) | Vamos passar para o próximo tópico da reunião. | Toplantının bir sonraki maddesine geçelim.
+a anotação | not (yazılı) | isim (d) | Fiz várias anotações durante a reunião com o cliente. | Müşteriyle toplantı sırasında birçok not aldım.
+o participante | katılımcı | isim (e) | Todos os participantes devem ligar a câmera na chamada. | Tüm katılımcılar görüşmede kameralarını açmalı.
+a videoconferência | video konferans | isim (d) | Fizemos uma videoconferência com a equipe de Lisboa. | Lizbon ekibiyle bir video konferans yaptık.
+a proposta | teklif, öneri | isim (d) | O cliente aceitou a nossa proposta sem mudanças. | Müşteri teklifimizi hiç değiştirmeden kabul etti.
+debater | tartışmak, müzakere etmek | fiil | Vamos debater as ideias de todos antes de decidir. | Karar vermeden önce herkesin fikirlerini tartışalım.
+o consenso | uzlaşı, fikir birliği | isim (e) | Depois de duas horas, chegamos a um consenso. | İki saat sonra fikir birliğine vardık.
+sugerir | önermek | fiil | Posso sugerir uma solução mais barata para o problema? | Soruna daha ucuz bir çözüm önerebilir miyim?
+o cronograma | zaman çizelgesi, takvim | isim (e) | O cronograma do projeto está atrasado duas semanas. | Projenin takvimi iki hafta gecikmede.
+a prioridade | öncelik | isim (d) | A prioridade agora é terminar o relatório para o cliente. | Şu an öncelik müşteri için raporu bitirmek.
+## Müzakere
+negociar | pazarlık etmek, müzakere etmek | fiil | Conseguimos negociar um preço melhor com o fornecedor. | Tedarikçiyle daha iyi bir fiyat için anlaştık.
+a negociação | müzakere | isim (d) | A negociação com o sindicato durou a noite toda. | Sendikayla müzakere bütün gece sürdü.
+o acordo | anlaşma | isim (e) | As duas empresas assinaram um acordo de parceria. | İki şirket bir ortaklık anlaşması imzaladı.
+a contraproposta | karşı teklif | isim (d) | O cliente recusou o preço e fez uma contraproposta. | Müşteri fiyatı reddetti ve karşı teklif yaptı.
+ceder | taviz vermek | fiil | Nenhum dos lados queria ceder durante a reunião. | Toplantı boyunca hiçbir taraf taviz vermek istemedi.
+insistir | ısrar etmek | fiil | Ele insistiu em receber metade do valor adiantado. | Tutarın yarısını peşin almakta ısrar etti.
+fechar negócio | anlaşmaya varmak, iş bağlamak | ifade | Depois de muita conversa, fechamos negócio na sexta. | Uzun konuşmalardan sonra cuma günü anlaşmaya vardık.
+o impasse | çıkmaz | isim (e) | A negociação chegou a um impasse sobre o prazo de entrega. | Müzakere teslim süresi konusunda çıkmaza girdi.
+a condição | koşul, şart | isim (d) | Aceito a proposta com uma condição: pagamento em dia. | Teklifi bir şartla kabul ediyorum: ödemenin zamanında yapılması.
+a vantagem | avantaj, fayda | isim (d) | A grande vantagem desse contrato é a flexibilidade. | Bu sözleşmenin büyük avantajı esnekliği.
+## Ofiste günlük işler
+bater o ponto | işe giriş-çıkış kaydı yapmak | ifade | Esqueci de bater o ponto quando saí para o almoço. | Öğle yemeğine çıkarken kart basmayı unuttum.
+encaminhar | iletmek, yönlendirmek | fiil | Você pode encaminhar esse e-mail para o setor jurídico? | Bu e-postayı hukuk birimine iletebilir misin?
+cumprir | yerine getirmek, uymak | fiil | A equipe cumpriu todas as metas do trimestre. | Ekip çeyreğin tüm hedeflerini gerçekleştirdi.
+distribuir | dağıtmak, paylaştırmak | fiil | Um bom gerente sabe distribuir as tarefas entre a equipe. | İyi bir yönetici görevleri ekibe dağıtmayı bilir.
+a demanda | iş yükü, talep | isim (d) | Neste mês a demanda está alta e ninguém tira folga. | Bu ay iş yükü fazla ve kimse izin almıyor.
+o retorno | geri dönüş, yanıt | isim (e) | Ainda estou esperando o retorno do cliente sobre o orçamento. | Teklif hakkında hâlâ müşteriden dönüş bekliyorum.
+a pendência | bekleyen iş, eksik | isim (d) | Antes das férias, preciso resolver todas as pendências. | Tatilden önce bekleyen tüm işleri halletmem lazım.
+o andamento | gidişat, ilerleyiş | isim (e) | O chefe pediu um resumo do andamento do projeto. | Şef projenin gidişatıyla ilgili bir özet istedi.
+a sobrecarga | aşırı iş yükü | isim (d) | A sobrecarga de trabalho está deixando todos cansados. | Aşırı iş yükü herkesi yoruyor.
+o rodízio | nöbetleşe çalışma, rotasyon | isim (e) | A equipe faz rodízio para trabalhar aos sábados. | Ekip cumartesileri nöbetleşe çalışıyor.
+## Satış ve pazarlama
+a venda | satış | isim (d) | As vendas aumentaram muito no Dia das Mães. | Anneler Günü'nde satışlar çok arttı.
+o produto | ürün | isim (e) | A empresa vai lançar três produtos novos este ano. | Şirket bu yıl üç yeni ürün piyasaya sürecek.
+a marca | marka | isim (d) | Eles criaram uma marca de roupas com tecidos reciclados. | Geri dönüştürülmüş kumaşlarla bir giyim markası kurdular.
+o consumidor | tüketici | isim (e) | O consumidor brasileiro adora comprar em parcelas. | Brezilyalı tüketici taksitle almaya bayılır.
+o público-alvo | hedef kitle | isim (e) | O público-alvo da campanha são jovens universitários. | Kampanyanın hedef kitlesi genç üniversite öğrencileri.
+a campanha | kampanya | isim (d) | A campanha de Natal começou já em novembro. | Noel kampanyası daha kasımda başladı.
+a estratégia | strateji | isim (d) | Precisamos de uma estratégia nova para as redes sociais. | Sosyal medya için yeni bir stratejiye ihtiyacımız var.
+divulgar | tanıtmak, duyurmak | fiil | Eles usam vídeos curtos para divulgar o restaurante. | Restoranı tanıtmak için kısa videolar kullanıyorlar.
+a concorrência | rekabet | isim (d) | A concorrência entre os aplicativos de entrega é enorme. | Teslimat uygulamaları arasındaki rekabet çok büyük.
+o faturamento | ciro, hasılat | isim (e) | O faturamento da loja dobrou depois da reforma. | Mağazanın cirosu tadilattan sonra ikiye katlandı.
+## Çalışma hakları
+a carteira assinada | sigortalı (kayıtlı) iş | ifade | Finalmente consegui um emprego com carteira assinada. | Sonunda sigortalı bir iş buldum.
+o décimo terceiro | ikramiye maaş (13. maaş) | isim (e) | Vou usar o décimo terceiro para pagar as dívidas. | 13. maaşı borçlarımı ödemek için kullanacağım.
+o seguro-desemprego | işsizlik maaşı | isim (e) | Enquanto procura emprego, ele recebe o seguro-desemprego. | İş ararken işsizlik maaşı alıyor.
+o autônomo | serbest çalışan | isim (e) | Como autônomo, ele mesmo paga a previdência. | Serbest çalışan olarak sosyal güvenlik primini kendisi ödüyor.
+a indenização | tazminat | isim (d) | Ele recebeu uma boa indenização quando foi demitido. | İşten çıkarıldığında iyi bir tazminat aldı.
+o aviso prévio | ihbar süresi | isim (e) | Ela pediu demissão e cumpriu trinta dias de aviso prévio. | İstifa etti ve otuz günlük ihbar süresini doldurdu.
+a licença-maternidade | doğum izni | isim (d) | A licença-maternidade dela termina no mês que vem. | Onun doğum izni gelecek ay bitiyor.
+o sindicato | sendika | isim (e) | O sindicato conseguiu um reajuste para os bancários. | Sendika banka çalışanları için zam elde etti.
+a greve | grev | isim (d) | Os motoristas de ônibus entraram em greve hoje cedo. | Otobüs şoförleri bu sabah greve girdi.
+o piso salarial | taban maaş | isim (e) | O piso salarial dos professores subiu este ano. | Öğretmenlerin taban maaşı bu yıl yükseldi.
+## İş hayatı sıfatları
+produtivo | verimli | sıfat | Trabalho de manhã porque sou mais produtivo cedo. | Sabahları çalışırım çünkü erken saatlerde daha verimliyim.
+proativo | inisiyatif alan, proaktif | sıfat | Procuramos alguém proativo, que resolva problemas sozinho. | Sorunları kendi başına çözen, inisiyatif alan birini arıyoruz.
+competente | yetkin, ehil | sıfat | A nova diretora é muito competente e organizada. | Yeni müdire çok yetkin ve düzenli.
+qualificado | nitelikli, kalifiye | sıfat | Está difícil encontrar mão de obra qualificada na região. | Bölgede kalifiye iş gücü bulmak zorlaşıyor.
+experiente | deneyimli, tecrübeli | sıfat | Um engenheiro experiente vai liderar a obra. | İnşaatı deneyimli bir mühendis yönetecek.
+remunerado | ücretli | sıfat | O estágio é remunerado e dura um ano. | Staj ücretli ve bir yıl sürüyor.
+temporário | geçici | sıfat | Ele conseguiu um trabalho temporário no fim do ano. | Yıl sonunda geçici bir iş buldu.
+lucrativo | kârlı | sıfat | Vender açaí na praia pode ser um negócio lucrativo. | Plajda açaí satmak kârlı bir iş olabilir.
+comercial | ticari | sıfat | O horário comercial vai das oito às dezoito horas. | Mesai saatleri sekizden on sekize kadar.
+administrativo | idari | sıfat | Ela cuida da parte administrativa da clínica. | Kliniğin idari işlerine o bakıyor.
+## İş fiilleri
+administrar | yönetmek, idare etmek | fiil | A família administra a pousada há três gerações. | Aile pansiyonu üç kuşaktır işletiyor.
+gerenciar | yönetmek (yönetici olarak) | fiil | Ele gerencia uma equipe de quinze pessoas. | On beş kişilik bir ekibi yönetiyor.
+coordenar | koordine etmek | fiil | A Sofia coordena os eventos da empresa no Brasil. | Sofia şirketin Brezilya'daki etkinliklerini koordine ediyor.
+supervisionar | denetlemek, gözetmek | fiil | O engenheiro supervisiona a obra todas as manhãs. | Mühendis şantiyeyi her sabah denetliyor.
+lançar | piyasaya sürmek | fiil | A editora vai lançar o livro na Bienal do Rio. | Yayınevi kitabı Rio Kitap Fuarı'nda piyasaya sürecek.
+expandir | genişletmek | fiil | A rede de padarias quer expandir para o Nordeste. | Fırın zinciri Kuzeydoğu'ya genişlemek istiyor.
+terceirizar | taşerona vermek, dış kaynak kullanmak | fiil | Muitas empresas terceirizam o serviço de limpeza. | Pek çok şirket temizlik hizmetini dışarıdan alıyor.
+capacitar | yetiştirmek, eğitmek | fiil | O programa capacita jovens para o primeiro emprego. | Program gençleri ilk işlerine hazırlıyor.
+assumir | üstlenmek | fiil | Ela vai assumir a gerência quando o chefe se aposentar. | Şef emekli olunca müdürlüğü o üstlenecek.
+executar | yürütmek, uygulamak | fiil | A equipe executou o plano exatamente como combinado. | Ekip planı tam kararlaştırıldığı gibi uyguladı.
+## İş hayatı deyimleri
+vestir a camisa | kendini işine adamak | deyim | Ele veste a camisa da empresa e nunca reclama. | Kendini şirkete adamış, hiç şikâyet etmez.
+correr atrás | peşinden koşmak, çabalamak | deyim | Se você quer esse emprego, precisa correr atrás. | O işi istiyorsan peşinden koşman lazım.
+dar conta de | üstesinden gelmek | ifade | Não sei se vou dar conta de tanto trabalho sozinho. | Bu kadar işin tek başıma üstesinden gelebilir miyim bilmiyorum.
+bater a meta | hedefi tutturmak | ifade | A equipe de vendas bateu a meta pela primeira vez. | Satış ekibi ilk kez hedefi tutturdu.
+pôr a mão na massa | işe girişmek, kolları sıvamak | deyim | Chega de planejar, agora é hora de pôr a mão na massa. | Plan yapmak yeter, artık işe girişme zamanı.
+arregaçar as mangas | paçaları sıvamak | deyim | Todo mundo arregaçou as mangas para terminar o evento. | Etkinliği bitirmek için herkes paçaları sıvadı.
+fazer um bico | ek iş yapmak | ifade | Nos fins de semana ele faz um bico como garçom. | Hafta sonları garson olarak ek iş yapıyor.
+ganhar a vida | geçimini sağlamak | ifade | Ela ganha a vida vendendo artesanato na feira. | Geçimini pazarda el işi satarak sağlıyor.
+subir na vida | hayatta yükselmek | deyim | Ele estudou à noite e conseguiu subir na vida. | Gece okuyup hayatta yükselmeyi başardı.
+estar por dentro | bir şeyden haberdar olmak | ifade | Você está por dentro das mudanças no escritório? | Ofisteki değişikliklerden haberin var mı?
