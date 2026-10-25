@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa, hava
+## Şehirde yerler
+町 (machi) | kasaba; şehir, mahalle | isim | この町は静かです。(Kono machi wa shizuka desu.) | Bu kasaba sessiz.
+駅 (eki) | istasyon | isim | 駅はどこですか。(Eki wa doko desu ka.) | İstasyon nerede?
+銀行 (ginkō) | banka | isim | 銀行は三時までです。(Ginkō wa sanji made desu.) | Banka saat üçe kadar açık.
+郵便局 (yūbinkyoku) | postane | isim | 郵便局で切手を買います。(Yūbinkyoku de kitte o kaimasu.) | Postaneden pul alıyorum.
+病院 (byōin) | hastane | isim | 病院へ行きます。(Byōin e ikimasu.) | Hastaneye gidiyorum.
+学校 (gakkō) | okul | isim | 学校は八時からです。(Gakkō wa hachiji kara desu.) | Okul sekizde başlıyor.
+図書館 (toshokan) | kütüphane | isim | 図書館で勉強します。(Toshokan de benkyō shimasu.) | Kütüphanede ders çalışırım.
+公園 (kōen) | park | isim | 公園を散歩します。(Kōen o sanpo shimasu.) | Parkta yürüyüş yapıyorum.
+会社 (kaisha) | şirket | isim | 会社は新宿にあります。(Kaisha wa Shinjuku ni arimasu.) | Şirket Shinjuku'da.
+ホテル (hoteru) | otel | isim | ホテルを予約しました。(Hoteru o yoyaku shimashita.) | Otel rezervasyonu yaptım.
+## Daha fazla yer
+神社 (jinja) | Şinto tapınağı | isim | お正月に神社へ行きます。(Oshōgatsu ni jinja e ikimasu.) | Yeni yılda tapınağa gideriz.
+お寺 (o-tera) | Budist tapınağı | isim | 京都にはお寺が多いです。(Kyōto ni wa o-tera ga ōi desu.) | Kyoto'da çok tapınak var.
+美術館 (bijutsukan) | sanat müzesi | isim | 美術館で絵を見ます。(Bijutsukan de e o mimasu.) | Sanat müzesinde resimlere bakıyorum.
+映画館 (eigakan) | sinema salonu | isim | 映画館は駅の前です。(Eigakan wa eki no mae desu.) | Sinema istasyonun önünde.
+交番 (kōban) | polis kulübesi | isim | 交番で道を聞きます。(Kōban de michi o kikimasu.) | Polis kulübesinde yolu soruyorum.
+デパート (depāto) | büyük mağaza | isim | デパートで服を買います。(Depāto de fuku o kaimasu.) | Büyük mağazadan kıyafet alıyorum.
+空港 (kūkō) | havalimanı | isim | 空港までバスで行きます。(Kūkō made basu de ikimasu.) | Havalimanına otobüsle gidiyorum.
+大学 (daigaku) | üniversite | isim | 姉は大学で働いています。(Ane wa daigaku de hataraite imasu.) | Ablam üniversitede çalışıyor.
+建物 (tatemono) | bina | isim | あの建物は何ですか。(Ano tatemono wa nan desu ka.) | Şu bina ne?
+港 (minato) | liman | isim | 港に大きい船があります。(Minato ni ōkii fune ga arimasu.) | Limanda büyük bir gemi var.
+## Yol tarifi
+右 (migi) | sağ | isim | 右に曲がってください。(Migi ni magatte kudasai.) | Sağa dönün lütfen.
+左 (hidari) | sol | isim | 銀行は左にあります。(Ginkō wa hidari ni arimasu.) | Banka solda.
+まっすぐ (massugu) | dümdüz, doğru | zarf | まっすぐ行ってください。(Massugu itte kudasai.) | Dümdüz gidin lütfen.
+角 (kado) | köşe | isim | 次の角を右です。(Tsugi no kado o migi desu.) | Bir sonraki köşeden sağa.
+信号 (shingō) | trafik ışığı | isim | 信号を渡ってください。(Shingō o watatte kudasai.) | Trafik ışığından karşıya geçin.
+道 (michi) | yol | isim | 道がわかりません。(Michi ga wakarimasen.) | Yolu bilmiyorum.
+交差点 (kōsaten) | kavşak | isim | 交差点に交番があります。(Kōsaten ni kōban ga arimasu.) | Kavşakta polis kulübesi var.
+曲がる (magaru) | dönmek (sağa, sola) | fiil | そこを左に曲がります。(Soko o hidari ni magarimasu.) | Oradan sola dönüyorsunuz.
+渡る (wataru) | karşıya geçmek | fiil | 橋を渡ります。(Hashi o watarimasu.) | Köprüden geçiyorum.
+向こう (mukō) | karşı taraf, öte | isim | 駅は川の向こうです。(Eki wa kawa no mukō desu.) | İstasyon nehrin karşısında.
+## Yönler ve mesafe
+北 (kita) | kuzey | isim | 北海道は日本の北にあります。(Hokkaidō wa Nihon no kita ni arimasu.) | Hokkaido Japonya'nın kuzeyinde.
+南 (minami) | güney | isim | 沖縄は南にあります。(Okinawa wa minami ni arimasu.) | Okinawa güneyde.
+東 (higashi) | doğu | isim | 東口で会いましょう。(Higashiguchi de aimashō.) | Doğu çıkışında buluşalım.
+西 (nishi) | batı | isim | 太陽は西に沈みます。(Taiyō wa nishi ni shizumimasu.) | Güneş batıda batar.
+遠い (tōi) | uzak | sıfat | 学校は遠いです。(Gakkō wa tōi desu.) | Okul uzak.
+近い (chikai) | yakın | sıfat | 駅は近いですか。(Eki wa chikai desu ka.) | İstasyon yakın mı?
+地図 (chizu) | harita | isim | 地図を見せてください。(Chizu o misete kudasai.) | Haritayı gösterir misiniz?
+場所 (basho) | yer | isim | ここはいい場所ですね。(Koko wa ii basho desu ne.) | Burası güzel bir yer.
+入口 (iriguchi) | giriş | isim | 入口はあちらです。(Iriguchi wa achira desu.) | Giriş şu tarafta.
+出口 (deguchi) | çıkış | isim | 出口はどこですか。(Deguchi wa doko desu ka.) | Çıkış nerede?
+## Toplu taşıma
+電車 (densha) | tren (banliyö, şehir içi) | isim | 電車で会社へ行きます。(Densha de kaisha e ikimasu.) | İşe trenle gidiyorum.
+地下鉄 (chikatetsu) | metro | isim | 地下鉄は便利です。(Chikatetsu wa benri desu.) | Metro kullanışlı.
+バス (basu) | otobüs | isim | バスを待っています。(Basu o matte imasu.) | Otobüs bekliyorum.
+タクシー (takushī) | taksi | isim | タクシーを呼びましょう。(Takushī o yobimashō.) | Taksi çağıralım.
+新幹線 (shinkansen) | hızlı tren | isim | 新幹線は速いです。(Shinkansen wa hayai desu.) | Hızlı tren çok hızlı.
+切符 (kippu) | bilet | isim | 切符を買いました。(Kippu o kaimashita.) | Bilet aldım.
+乗る (noru) | binmek | fiil | バスに乗ります。(Basu ni norimasu.) | Otobüse biniyorum.
+降りる (oriru) | inmek (araçtan) | fiil | 次の駅で降ります。(Tsugi no eki de orimasu.) | Bir sonraki istasyonda iniyorum.
+乗り換える (norikaeru) | aktarma yapmak | fiil | 東京駅で乗り換えます。(Tōkyō-eki de norikaemasu.) | Tokyo istasyonunda aktarma yapıyorum.
+〜行き (-yuki) | ... istikametli | isim | これは大阪行きですか。(Kore wa Ōsaka-yuki desu ka.) | Bu Osaka'ya mı gidiyor?
+## Araçlar ve yol
+車 (kuruma) | araba | isim | 父は車で行きます。(Chichi wa kuruma de ikimasu.) | Babam arabayla gidiyor.
+自転車 (jitensha) | bisiklet | isim | 自転車で学校へ行きます。(Jitensha de gakkō e ikimasu.) | Okula bisikletle giderim.
+バイク (baiku) | motosiklet | isim | 兄はバイクが好きです。(Ani wa baiku ga suki desu.) | Ağabeyim motosikleti sever.
+飛行機 (hikōki) | uçak | isim | 飛行機で日本へ行きます。(Hikōki de Nihon e ikimasu.) | Japonya'ya uçakla gidiyorum.
+船 (fune) | gemi, tekne | isim | 船で島へ行きます。(Fune de shima e ikimasu.) | Adaya gemiyle gidiyoruz.
+歩く (aruku) | yürümek | fiil | 駅まで歩きます。(Eki made arukimasu.) | İstasyona kadar yürüyorum.
+運転する (unten suru) | araba sürmek | fiil · düzensiz | 車を運転しますか。(Kuruma o unten shimasu ka.) | Araba kullanır mısın?
+止まる (tomaru) | durmak | fiil | バスが止まりました。(Basu ga tomarimashita.) | Otobüs durdu.
+駐車場 (chūshajō) | otopark | isim | 駐車場はありますか。(Chūshajō wa arimasu ka.) | Otopark var mı?
+道路 (dōro) | yol, cadde | isim | 道路が混んでいます。(Dōro ga konde imasu.) | Yol kalabalık.
+## Gitmek ve gelmek
+行く (iku) | gitmek | fiil · düzensiz | 明日、京都へ行きます。(Ashita, Kyōto e ikimasu.) | Yarın Kyoto'ya gidiyorum.
+来る (kuru) | gelmek | fiil · düzensiz | 友達が家に来ます。(Tomodachi ga ie ni kimasu.) | Arkadaşım eve geliyor.
+帰る (kaeru) | dönmek (eve, ülkeye) | fiil | 六時に家に帰ります。(Rokuji ni ie ni kaerimasu.) | Altıda eve dönüyorum.
+着く (tsuku) | varmak, ulaşmak | fiil | 何時に着きますか。(Nanji ni tsukimasu ka.) | Saat kaçta varıyorsun?
+出かける (dekakeru) | dışarı çıkmak | fiil | 母は出かけています。(Haha wa dekakete imasu.) | Annem dışarıda.
+急ぐ (isogu) | acele etmek | fiil | 急いでください。(Isoide kudasai.) | Acele edin lütfen.
+遅れる (okureru) | gecikmek, geç kalmak | fiil | 電車が遅れています。(Densha ga okurete imasu.) | Tren rötarlı.
+待つ (matsu) | beklemek | fiil | 駅で待っています。(Eki de matte imasu.) | İstasyonda bekliyorum.
+戻る (modoru) | geri dönmek | fiil | すぐ戻ります。(Sugu modorimasu.) | Hemen dönüyorum.
+通る (tōru) | geçmek (içinden, önünden) | fiil | このバスは駅を通りますか。(Kono basu wa eki o tōrimasu ka.) | Bu otobüs istasyondan geçiyor mu?
+## Gezi
+旅行 (ryokō) | seyahat, gezi | isim | 夏に旅行します。(Natsu ni ryokō shimasu.) | Yazın seyahat ediyorum.
+観光 (kankō) | turistik gezi | isim | 京都で観光しました。(Kyōto de kankō shimashita.) | Kyoto'yu gezdim.
+荷物 (nimotsu) | bagaj, eşya, paket | isim | 荷物が重いです。(Nimotsu ga omoi desu.) | Bagaj ağır.
+写真 (shashin) | fotoğraf | isim | 写真を撮ってもいいですか。(Shashin o tottemo ii desu ka.) | Fotoğraf çekebilir miyim?
+お土産 (omiyage) | hediyelik eşya (seyahat dönüşü) | isim | 家族にお土産を買います。(Kazoku ni omiyage o kaimasu.) | Aileme hediyelik eşya alıyorum.
+温泉 (onsen) | kaplıca | isim | 温泉に入りたいです。(Onsen ni hairitai desu.) | Kaplıcaya girmek istiyorum.
+旅館 (ryokan) | geleneksel Japon oteli | isim | 旅館に泊まります。(Ryokan ni tomarimasu.) | Ryokan'da kalıyoruz.
+外国 (gaikoku) | yabancı ülke | isim | 外国へ行ったことがありますか。(Gaikoku e itta koto ga arimasu ka.) | Yurt dışına gittin mi hiç?
+予定 (yotei) | plan, program | isim | 明日の予定は何ですか。(Ashita no yotei wa nan desu ka.) | Yarınki planın ne?
+案内 (annai) | rehberlik, yol gösterme | isim | 町を案内します。(Machi o annai shimasu.) | Size şehri gezdireyim.
+## Doğa
+山 (yama) | dağ | isim | 富士山は高い山です。(Fujisan wa takai yama desu.) | Fuji yüksek bir dağdır.
+川 (kawa) | nehir, dere | isim | 川で泳ぎます。(Kawa de oyogimasu.) | Nehirde yüzüyorum.
+海 (umi) | deniz | isim | 夏は海へ行きます。(Natsu wa umi e ikimasu.) | Yazın denize gideriz.
+湖 (mizuumi) | göl | isim | 湖がきれいです。(Mizuumi ga kirei desu.) | Göl çok güzel.
+森 (mori) | orman | isim | 森の中を歩きます。(Mori no naka o arukimasu.) | Ormanda yürüyoruz.
+島 (shima) | ada | isim | 日本には島がたくさんあります。(Nihon ni wa shima ga takusan arimasu.) | Japonya'da çok ada var.
+空 (sora) | gökyüzü | isim | 今日は空がきれいです。(Kyō wa sora ga kirei desu.) | Bugün gökyüzü çok güzel.
+花 (hana) | çiçek | isim | 母に花をあげます。(Haha ni hana o agemasu.) | Anneme çiçek veriyorum.
+木 (ki) | ağaç | isim | 大きい木の下で休みます。(Ōkii ki no shita de yasumimasu.) | Büyük bir ağacın altında dinleniyoruz.
+桜 (sakura) | kiraz çiçeği | isim | 桜の花がとてもきれいです。(Sakura no hana ga totemo kirei desu.) | Kiraz çiçekleri çok güzel.
+## Hava durumu
+天気 (tenki) | hava (durumu) | isim | 今日はいい天気です。(Kyō wa ii tenki desu.) | Bugün hava güzel.
+晴れ (hare) | açık hava, güneşli | isim | 明日は晴れです。(Ashita wa hare desu.) | Yarın hava açık.
+雨 (ame) | yağmur | isim | 雨が降っています。(Ame ga futte imasu.) | Yağmur yağıyor.
+雪 (yuki) | kar | isim | 北海道は雪が多いです。(Hokkaidō wa yuki ga ōi desu.) | Hokkaido'da çok kar yağar.
+曇り (kumori) | bulutlu | isim | 今日は曇りです。(Kyō wa kumori desu.) | Bugün hava bulutlu.
+風 (kaze) | rüzgâr | isim | 風が強いです。(Kaze ga tsuyoi desu.) | Rüzgâr sert.
+暑い (atsui) | sıcak (hava) | sıfat | 今日はとても暑いです。(Kyō wa totemo atsui desu.) | Bugün hava çok sıcak.
+寒い (samui) | soğuk (hava) | sıfat | 冬は寒いです。(Fuyu wa samui desu.) | Kış soğuk.
+暖かい (atatakai) | ılık, sıcacık | sıfat | 今日は暖かいですね。(Kyō wa atatakai desu ne.) | Bugün hava ılık, değil mi?
+涼しい (suzushii) | serin | sıfat | 秋は涼しいです。(Aki wa suzushii desu.) | Sonbahar serin.

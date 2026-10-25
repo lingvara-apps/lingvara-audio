@@ -1,0 +1,111 @@
+# UNIT: Alışveriş ve giyim | Para, renkler, kıyafetler, vücut, sağlık
+## Para ve fiyat
+お金 (okane) | para | isim | お金がありません。(Okane ga arimasen.) | Param yok.
+円 (en) | yen | isim | これは五百円です。(Kore wa gohyaku en desu.) | Bu beş yüz yen.
+高い (takai) | pahalı; yüksek | sıfat | この時計は高いです。(Kono tokei wa takai desu.) | Bu saat pahalı.
+安い (yasui) | ucuz | sıfat | この店は安いです。(Kono mise wa yasui desu.) | Bu dükkân ucuz.
+買う (kau) | satın almak | fiil | 新しい靴を買いました。(Atarashii kutsu o kaimashita.) | Yeni ayakkabı aldım.
+売る (uru) | satmak | fiil | あの店で野菜を売っています。(Ano mise de yasai o utte imasu.) | O dükkânda sebze satılıyor.
+払う (harau) | ödemek | fiil | カードで払います。(Kādo de haraimasu.) | Kartla ödüyorum.
+値段 (nedan) | fiyat | isim | 値段はいくらですか。(Nedan wa ikura desu ka.) | Fiyatı ne kadar?
+財布 (saifu) | cüzdan | isim | 財布を忘れました。(Saifu o wasuremashita.) | Cüzdanımı unuttum.
+買い物 (kaimono) | alışveriş | isim | 週末に買い物をします。(Shūmatsu ni kaimono o shimasu.) | Hafta sonu alışveriş yaparım.
+## Mağazada
+店 (mise) | dükkân, mağaza | isim | この店は何時までですか。(Kono mise wa nanji made desu ka.) | Bu dükkân saat kaça kadar açık?
+コンビニ (konbini) | 24 saat açık market | isim | コンビニは便利です。(Konbini wa benri desu.) | Marketler çok kullanışlı.
+スーパー (sūpā) | süpermarket | isim | スーパーで野菜を買います。(Sūpā de yasai o kaimasu.) | Süpermarketten sebze alırım.
+売り場 (uriba) | reyon, satış bölümü | isim | 靴売り場は三階です。(Kutsu uriba wa sangai desu.) | Ayakkabı reyonu üçüncü katta.
+レジ (reji) | kasa | isim | レジはあちらです。(Reji wa achira desu.) | Kasa şu tarafta.
+袋 (fukuro) | poşet, torba | isim | 袋はいりません。(Fukuro wa irimasen.) | Poşete gerek yok.
+カード (kādo) | kart (kredi kartı vb.) | isim | カードは使えますか。(Kādo wa tsukaemasu ka.) | Kart geçiyor mu?
+現金 (genkin) | nakit | isim | 現金で払います。(Genkin de haraimasu.) | Nakit ödüyorum.
+おつり (otsuri) | para üstü | isim | おつりは二百円です。(Otsuri wa nihyaku en desu.) | Para üstü iki yüz yen.
+セール (sēru) | indirim | isim | 今、セールをしています。(Ima, sēru o shite imasu.) | Şu an indirim var.
+## Daha fazla renk
+色 (iro) | renk | isim | 何色が好きですか。(Naniiro ga suki desu ka.) | Hangi rengi seversin?
+水色 (mizuiro) | açık mavi | isim | 水色のシャツを買いました。(Mizuiro no shatsu o kaimashita.) | Açık mavi bir gömlek aldım.
+金色 (kin'iro) | altın rengi | isim | 金色の時計です。(Kin'iro no tokei desu.) | Altın rengi bir saat.
+銀色 (gin'iro) | gümüş rengi | isim | 銀色の車がほしいです。(Gin'iro no kuruma ga hoshii desu.) | Gümüş rengi bir araba istiyorum.
+オレンジ色 (orenjiiro) | turuncu | isim | オレンジ色のかばんです。(Orenjiiro no kaban desu.) | Turuncu bir çanta.
+紺色 (kon'iro) | lacivert | isim | 制服は紺色です。(Seifuku wa kon'iro desu.) | Okul forması lacivert.
+濃い (koi) | koyu; yoğun | sıfat | 濃い青が好きです。(Koi ao ga suki desu.) | Koyu maviyi severim.
+薄い (usui) | açık (renk); ince | sıfat | 薄いピンクのセーターです。(Usui pinku no sētā desu.) | Açık pembe bir kazak.
+派手 (hade) | gösterişli, cafcaflı | sıfat | その服は派手ですね。(Sono fuku wa hade desu ne.) | O kıyafet çok gösterişli.
+地味 (jimi) | sade, gösterişsiz | sıfat | 地味な色が好きです。(Jimi na iro ga suki desu.) | Sade renkleri severim.
+## Kıyafetler
+服 (fuku) | kıyafet, giysi | isim | 新しい服を買いました。(Atarashii fuku o kaimashita.) | Yeni kıyafet aldım.
+シャツ (shatsu) | gömlek | isim | 白いシャツを着ます。(Shiroi shatsu o kimasu.) | Beyaz gömlek giyiyorum.
+Tシャツ (tīshatsu) | tişört | isim | 夏はTシャツを着ます。(Natsu wa tīshatsu o kimasu.) | Yazın tişört giyerim.
+ズボン (zubon) | pantolon | isim | 黒いズボンをはきます。(Kuroi zubon o hakimasu.) | Siyah pantolon giyiyorum.
+スカート (sukāto) | etek | isim | 長いスカートが好きです。(Nagai sukāto ga suki desu.) | Uzun etekleri severim.
+ワンピース (wanpīsu) | elbise | isim | 赤いワンピースを着ています。(Akai wanpīsu o kite imasu.) | Kırmızı bir elbise giyiyor.
+セーター (sētā) | kazak | isim | 寒いからセーターを着ます。(Samui kara sētā o kimasu.) | Soğuk olduğu için kazak giyiyorum.
+コート (kōto) | palto, kaban | isim | コートを脱いでください。(Kōto o nuide kudasai.) | Paltonuzu çıkarın lütfen.
+下着 (shitagi) | iç çamaşırı | isim | 下着を洗います。(Shitagi o araimasu.) | İç çamaşırlarını yıkıyorum.
+着物 (kimono) | kimono | isim | お正月に着物を着ます。(Oshōgatsu ni kimono o kimasu.) | Yeni yılda kimono giyeriz.
+## Ayakkabı ve aksesuar
+靴 (kutsu) | ayakkabı | isim | 玄関で靴を脱いでください。(Genkan de kutsu o nuide kudasai.) | Girişte ayakkabılarınızı çıkarın lütfen.
+靴下 (kutsushita) | çorap | isim | 靴下に穴があります。(Kutsushita ni ana ga arimasu.) | Çorabımda delik var.
+帽子 (bōshi) | şapka | isim | 帽子をかぶります。(Bōshi o kaburimasu.) | Şapka takıyorum.
+かばん (kaban) | çanta | isim | このかばんは軽いです。(Kono kaban wa karui desu.) | Bu çanta hafif.
+ネクタイ (nekutai) | kravat | isim | 父にネクタイをあげます。(Chichi ni nekutai o agemasu.) | Babama kravat hediye ediyorum.
+手袋 (tebukuro) | eldiven | isim | 冬は手袋をします。(Fuyu wa tebukuro o shimasu.) | Kışın eldiven takarım.
+マフラー (mafurā) | atkı | isim | 暖かいマフラーですね。(Atatakai mafurā desu ne.) | Ne sıcak bir atkı.
+指輪 (yubiwa) | yüzük | isim | きれいな指輪ですね。(Kirei na yubiwa desu ne.) | Ne güzel bir yüzük.
+ベルト (beruto) | kemer | isim | ベルトが長いです。(Beruto ga nagai desu.) | Kemer uzun.
+浴衣 (yukata) | yukata (yazlık pamuklu kimono) | isim | 夏祭りで浴衣を着ます。(Natsu matsuri de yukata o kimasu.) | Yaz festivalinde yukata giyeriz.
+## Giyinmek
+着る (kiru) | giymek (üst beden) | fiil | コートを着てください。(Kōto o kite kudasai.) | Paltonu giy lütfen.
+脱ぐ (nugu) | çıkarmak (giysi) | fiil | ここで靴を脱ぎます。(Koko de kutsu o nugimasu.) | Burada ayakkabılar çıkarılır.
+はく (haku) | giymek (alt beden, ayakkabı) | fiil | 新しい靴をはきます。(Atarashii kutsu o hakimasu.) | Yeni ayakkabılarımı giyiyorum.
+かぶる (kaburu) | takmak (şapka) | fiil | 子供が帽子をかぶっています。(Kodomo ga bōshi o kabutte imasu.) | Çocuk şapka takmış.
+サイズ (saizu) | beden, ölçü | isim | Mサイズはありますか。(Emu saizu wa arimasu ka.) | M beden var mı?
+大きい (ōkii) | büyük | sıfat | このシャツは大きいです。(Kono shatsu wa ōkii desu.) | Bu gömlek büyük.
+小さい (chiisai) | küçük | sıfat | この靴は小さいです。(Kono kutsu wa chiisai desu.) | Bu ayakkabı küçük.
+長い (nagai) | uzun | sıfat | このズボンは長いです。(Kono zubon wa nagai desu.) | Bu pantolon uzun.
+短い (mijikai) | kısa | sıfat | このスカートは短いです。(Kono sukāto wa mijikai desu.) | Bu etek kısa.
+似合う (niau) | yakışmak | fiil | その色はよく似合いますね。(Sono iro wa yoku niaimasu ne.) | O renk sana çok yakışıyor.
+## Vücut I
+体 (karada) | vücut | isim | 体に気をつけてください。(Karada ni ki o tsukete kudasai.) | Kendinize dikkat edin.
+頭 (atama) | baş, kafa | isim | 頭が痛いです。(Atama ga itai desu.) | Başım ağrıyor.
+顔 (kao) | yüz | isim | 顔を洗います。(Kao o araimasu.) | Yüzümü yıkıyorum.
+目 (me) | göz | isim | 彼女は目が大きいです。(Kanojo wa me ga ōkii desu.) | Onun gözleri büyük.
+耳 (mimi) | kulak | isim | 猫の耳はかわいいです。(Neko no mimi wa kawaii desu.) | Kedinin kulakları sevimli.
+鼻 (hana) | burun | isim | 象は鼻が長いです。(Zō wa hana ga nagai desu.) | Filin hortumu uzundur.
+口 (kuchi) | ağız | isim | 口を開けてください。(Kuchi o akete kudasai.) | Ağzınızı açın lütfen.
+歯 (ha) | diş | isim | 毎晩歯を磨きます。(Maiban ha o migakimasu.) | Her akşam dişlerimi fırçalarım.
+髪 (kami) | saç | isim | 妹は髪が長いです。(Imōto wa kami ga nagai desu.) | Kız kardeşimin saçı uzun.
+首 (kubi) | boyun | isim | 首が痛いです。(Kubi ga itai desu.) | Boynum ağrıyor.
+## Vücut II
+手 (te) | el | isim | 手を洗いましょう。(Te o araimashō.) | Ellerimizi yıkayalım.
+腕 (ude) | kol | isim | 腕が疲れました。(Ude ga tsukaremashita.) | Kolum yoruldu.
+指 (yubi) | parmak | isim | 指を切りました。(Yubi o kirimashita.) | Parmağımı kestim.
+足 (ashi) | ayak; bacak | isim | 足が痛いです。(Ashi ga itai desu.) | Ayağım ağrıyor.
+肩 (kata) | omuz | isim | 肩が重いです。(Kata ga omoi desu.) | Omuzlarım ağır.
+背中 (senaka) | sırt | isim | 背中がかゆいです。(Senaka ga kayui desu.) | Sırtım kaşınıyor.
+お腹 (onaka) | karın | isim | お腹が痛いです。(Onaka ga itai desu.) | Karnım ağrıyor.
+胸 (mune) | göğüs | isim | 胸が苦しいです。(Mune ga kurushii desu.) | Göğsüm sıkışıyor.
+膝 (hiza) | diz | isim | 膝をけがしました。(Hiza o kega shimashita.) | Dizimi yaraladım.
+声 (koe) | ses (insan sesi) | isim | 大きい声で話してください。(Ōkii koe de hanashite kudasai.) | Yüksek sesle konuşun lütfen.
+## Hastalık
+病気 (byōki) | hastalık; hasta | isim | 母は病気です。(Haha wa byōki desu.) | Annem hasta.
+風邪 (kaze) | soğuk algınlığı, nezle | isim | 風邪をひきました。(Kaze o hikimashita.) | Nezle oldum.
+熱 (netsu) | ateş (hastalık) | isim | 熱があります。(Netsu ga arimasu.) | Ateşim var.
+痛い (itai) | ağrıyan, acıyan | sıfat | 歯が痛いです。(Ha ga itai desu.) | Dişim ağrıyor.
+薬 (kusuri) | ilaç | isim | 薬を飲んでください。(Kusuri o nonde kudasai.) | İlacınızı için lütfen.
+疲れる (tsukareru) | yorulmak | fiil | 今日はとても疲れました。(Kyō wa totemo tsukaremashita.) | Bugün çok yoruldum.
+休む (yasumu) | dinlenmek; izin almak | fiil | 今日は会社を休みます。(Kyō wa kaisha o yasumimasu.) | Bugün işe gitmiyorum.
+気分 (kibun) | keyif, kendini hissetme | isim | 気分が悪いです。(Kibun ga warui desu.) | Kendimi kötü hissediyorum.
+咳 (seki) | öksürük | isim | 咳が出ます。(Seki ga demasu.) | Öksürüyorum.
+けが (kega) | yara, sakatlık | isim | けがをしました。(Kega o shimashita.) | Yaralandım.
+## Sağlıklı kalmak
+健康 (kenkō) | sağlık; sağlıklı | isim | 健康が一番大切です。(Kenkō ga ichiban taisetsu desu.) | Sağlık her şeyden önemli.
+具合 (guai) | durum, sağlık durumu | isim | 具合はどうですか。(Guai wa dō desu ka.) | Nasıl hissediyorsunuz?
+治る (naoru) | iyileşmek | fiil | 風邪が治りました。(Kaze ga naorimashita.) | Nezlem geçti.
+眠い (nemui) | uykulu | sıfat | 今日はとても眠いです。(Kyō wa totemo nemui desu.) | Bugün çok uykum var.
+お大事に (odaiji ni) | geçmiş olsun | ifade | 風邪ですか。お大事に。(Kaze desu ka. Odaiji ni.) | Nezle misin? Geçmiş olsun.
+気をつける (ki o tsukeru) | dikkat etmek | ifade | 車に気をつけてください。(Kuruma ni ki o tsukete kudasai.) | Arabalara dikkat edin.
+運動 (undō) | egzersiz, spor | isim | 毎日運動します。(Mainichi undō shimasu.) | Her gün egzersiz yaparım.
+汗 (ase) | ter | isim | 汗をかきました。(Ase o kakimashita.) | Terledim.
+マスク (masuku) | maske | isim | 電車でマスクをします。(Densha de masuku o shimasu.) | Trende maske takarım.
+涙 (namida) | gözyaşı | isim | 涙が出ました。(Namida ga demashita.) | Gözlerim yaşardı.

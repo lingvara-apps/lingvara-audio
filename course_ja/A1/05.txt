@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, Japon yemekleri, market, restoran, tatlar
+## Temel yiyecekler
+ご飯 (gohan) | pilav, pişmiş pirinç; yemek | isim | 毎日ご飯を食べます。(Mainichi gohan o tabemasu.) | Her gün pilav yerim.
+パン (pan) | ekmek | isim | 朝はパンを食べます。(Asa wa pan o tabemasu.) | Sabahları ekmek yerim.
+肉 (niku) | et | isim | 肉が好きです。(Niku ga suki desu.) | Eti severim.
+魚 (sakana) | balık | isim | 日本人は魚をよく食べます。(Nihonjin wa sakana o yoku tabemasu.) | Japonlar çok balık yer.
+野菜 (yasai) | sebze | isim | 野菜を食べてください。(Yasai o tabete kudasai.) | Sebze yiyin lütfen.
+果物 (kudamono) | meyve | isim | どんな果物が好きですか。(Donna kudamono ga suki desu ka.) | Ne tür meyveleri seversin?
+卵 (tamago) | yumurta | isim | 卵を二つ使います。(Tamago o futatsu tsukaimasu.) | İki yumurta kullanıyorum.
+米 (kome) | pirinç (çiğ) | isim | 米を買いました。(Kome o kaimashita.) | Pirinç aldım.
+食べ物 (tabemono) | yiyecek | isim | 好きな食べ物は何ですか。(Suki na tabemono wa nan desu ka.) | En sevdiğin yiyecek ne?
+料理 (ryōri) | yemek; mutfak (yemek kültürü) | isim | 日本料理はおいしいです。(Nihon ryōri wa oishii desu.) | Japon mutfağı çok lezzetli.
+## İçecekler
+水 (mizu) | su | isim | 水を一杯ください。(Mizu o ippai kudasai.) | Bir bardak su lütfen.
+お茶 (o-cha) | çay (genelde Japon yeşil çayı) | isim | お茶をどうぞ。(O-cha o dōzo.) | Buyurun çay.
+緑茶 (ryokucha) | yeşil çay | isim | 緑茶は体にいいです。(Ryokucha wa karada ni ii desu.) | Yeşil çay sağlığa iyidir.
+紅茶 (kōcha) | siyah çay | isim | 紅茶にミルクを入れます。(Kōcha ni miruku o iremasu.) | Siyah çaya süt koyarım.
+コーヒー (kōhī) | kahve | isim | 毎朝コーヒーを飲みます。(Maiasa kōhī o nomimasu.) | Her sabah kahve içerim.
+牛乳 (gyūnyū) | süt | isim | 子供は牛乳が好きです。(Kodomo wa gyūnyū ga suki desu.) | Çocuk sütü sever.
+ジュース (jūsu) | meyve suyu; gazlı içecek | isim | オレンジジュースをください。(Orenji jūsu o kudasai.) | Portakal suyu lütfen.
+ビール (bīru) | bira | isim | 冷たいビールを飲みます。(Tsumetai bīru o nomimasu.) | Soğuk bira içiyorum.
+お酒 (o-sake) | alkollü içki; sake | isim | お酒は飲みません。(O-sake wa nomimasen.) | Alkol içmem.
+飲み物 (nomimono) | içecek | isim | 飲み物は何がいいですか。(Nomimono wa nani ga ii desu ka.) | İçecek olarak ne istersin?
+## Kahvaltı ve öğünler
+朝ご飯 (asagohan) | kahvaltı | isim | 朝ご飯を食べましたか。(Asagohan o tabemashita ka.) | Kahvaltı yaptın mı?
+昼ご飯 (hirugohan) | öğle yemeği | isim | 昼ご飯は弁当です。(Hirugohan wa bentō desu.) | Öğle yemeğim bento.
+晩ご飯 (bangohan) | akşam yemeği | isim | 晩ご飯は七時です。(Bangohan wa shichiji desu.) | Akşam yemeği yedide.
+味噌汁 (misoshiru) | miso çorbası | isim | 朝、味噌汁を飲みます。(Asa, misoshiru o nomimasu.) | Sabah miso çorbası içerim.
+納豆 (nattō) | nattō (fermente soya) | isim | 納豆が食べられますか。(Nattō ga taberaremasu ka.) | Nattō yiyebiliyor musun?
+トースト (tōsuto) | kızarmış ekmek | isim | トーストを一枚食べます。(Tōsuto o ichimai tabemasu.) | Bir dilim kızarmış ekmek yerim.
+バター (batā) | tereyağı | isim | パンにバターを塗ります。(Pan ni batā o nurimasu.) | Ekmeğe tereyağı sürerim.
+ジャム (jamu) | reçel | isim | いちごのジャムが好きです。(Ichigo no jamu ga suki desu.) | Çilek reçelini severim.
+ヨーグルト (yōguruto) | yoğurt | isim | 毎朝ヨーグルトを食べます。(Maiasa yōguruto o tabemasu.) | Her sabah yoğurt yerim.
+チーズ (chīzu) | peynir | isim | このチーズはおいしいです。(Kono chīzu wa oishii desu.) | Bu peynir çok lezzetli.
+## Japon yemekleri
+寿司 (sushi) | suşi | isim | 寿司を食べに行きましょう。(Sushi o tabe ni ikimashō.) | Suşi yemeye gidelim.
+ラーメン (rāmen) | ramen (et sulu erişte) | isim | このラーメンは辛いです。(Kono rāmen wa karai desu.) | Bu ramen acı.
+うどん (udon) | udon (kalın buğday eriştesi) | isim | 昼はうどんにします。(Hiru wa udon ni shimasu.) | Öğlen udon yiyeceğim.
+そば (soba) | soba (karabuğday eriştesi) | isim | 冷たいそばが好きです。(Tsumetai soba ga suki desu.) | Soğuk sobayı severim.
+天ぷら (tenpura) | tempura (hamura bulanmış kızartma) | isim | えびの天ぷらをください。(Ebi no tenpura o kudasai.) | Karides tempura lütfen.
+おにぎり (onigiri) | pirinç topu | isim | コンビニでおにぎりを買います。(Konbini de onigiri o kaimasu.) | Marketten onigiri alırım.
+弁当 (bentō) | yemek kutusu, bento | isim | 母が弁当を作ります。(Haha ga bentō o tsukurimasu.) | Annem bento hazırlar.
+焼き鳥 (yakitori) | tavuk şiş | isim | 焼き鳥とビールをください。(Yakitori to bīru o kudasai.) | Tavuk şiş ve bira lütfen.
+カレー (karē) | Japon köri | isim | 今晩はカレーです。(Konban wa karē desu.) | Bu akşam köri var.
+刺身 (sashimi) | çiğ balık dilimleri | isim | 刺身は新鮮です。(Sashimi wa shinsen desu.) | Saşimi taze.
+## Meyve ve sebze
+りんご (ringo) | elma | isim | 青森のりんごは有名です。(Aomori no ringo wa yūmei desu.) | Aomori'nin elmaları ünlüdür.
+みかん (mikan) | mandalina | isim | 冬はみかんを食べます。(Fuyu wa mikan o tabemasu.) | Kışın mandalina yeriz.
+バナナ (banana) | muz | isim | バナナを一本ください。(Banana o ippon kudasai.) | Bir muz lütfen.
+いちご (ichigo) | çilek | isim | いちごが大好きです。(Ichigo ga daisuki desu.) | Çileğe bayılırım.
+ぶどう (budō) | üzüm | isim | このぶどうは甘いです。(Kono budō wa amai desu.) | Bu üzüm tatlı.
+トマト (tomato) | domates | isim | トマトを切ります。(Tomato o kirimasu.) | Domatesi doğruyorum.
+じゃがいも (jagaimo) | patates | isim | じゃがいもを茹でます。(Jagaimo o yudemasu.) | Patatesleri haşlıyorum.
+玉ねぎ (tamanegi) | soğan | isim | 玉ねぎが目にしみます。(Tamanegi ga me ni shimimasu.) | Soğan gözümü yakıyor.
+キャベツ (kyabetsu) | lahana | isim | とんかつにキャベツが付きます。(Tonkatsu ni kyabetsu ga tsukimasu.) | Tonkatsu'nun yanında lahana gelir.
+にんじん (ninjin) | havuç | isim | にんじんは嫌いです。(Ninjin wa kirai desu.) | Havuçtan hoşlanmam.
+## Et, balık ve temel malzemeler
+鶏肉 (toriniku) | tavuk eti | isim | 鶏肉を焼きます。(Toriniku o yakimasu.) | Tavuk eti pişiriyorum.
+豚肉 (butaniku) | domuz eti | isim | 豚肉は食べません。(Butaniku wa tabemasen.) | Domuz eti yemem.
+牛肉 (gyūniku) | sığır eti | isim | 牛肉は高いです。(Gyūniku wa takai desu.) | Sığır eti pahalı.
+えび (ebi) | karides | isim | えびが好きです。(Ebi ga suki desu.) | Karidesi severim.
+豆腐 (tōfu) | tofu, soya peyniri | isim | 味噌汁に豆腐を入れます。(Misoshiru ni tōfu o iremasu.) | Miso çorbasına tofu koyarım.
+塩 (shio) | tuz | isim | 塩を少し入れます。(Shio o sukoshi iremasu.) | Biraz tuz koyuyorum.
+砂糖 (satō) | şeker | isim | コーヒーに砂糖を入れますか。(Kōhī ni satō o iremasu ka.) | Kahvene şeker koyar mısın?
+醤油 (shōyu) | soya sosu | isim | 寿司に醤油をつけます。(Sushi ni shōyu o tsukemasu.) | Suşiyi soya sosuna batırırım.
+油 (abura) | yağ (sıvı) | isim | 油で揚げます。(Abura de agemasu.) | Yağda kızartıyorum.
+胡椒 (koshō) | karabiber | isim | 胡椒を取ってください。(Koshō o totte kudasai.) | Karabiberi uzatır mısın?
+## Restoranda
+レストラン (resutoran) | restoran | isim | 駅の前にレストランがあります。(Eki no mae ni resutoran ga arimasu.) | İstasyonun önünde restoran var.
+食堂 (shokudō) | lokanta; yemekhane | isim | 大学の食堂は安いです。(Daigaku no shokudō wa yasui desu.) | Üniversitenin yemekhanesi ucuz.
+喫茶店 (kissaten) | kahvehane, kafe | isim | 喫茶店でコーヒーを飲みます。(Kissaten de kōhī o nomimasu.) | Kafede kahve içiyorum.
+メニュー (menyū) | menü | isim | メニューを見せてください。(Menyū o misete kudasai.) | Menüyü görebilir miyim?
+注文する (chūmon suru) | sipariş vermek | fiil · düzensiz | ラーメンを注文しました。(Rāmen o chūmon shimashita.) | Ramen sipariş ettim.
+席 (seki) | yer, koltuk | isim | 窓の近くの席がいいです。(Mado no chikaku no seki ga ii desu.) | Pencere kenarında bir yer olsun.
+お会計 (o-kaikei) | hesap | isim | すみません、お会計お願いします。(Sumimasen, o-kaikei onegaishimasu.) | Affedersiniz, hesap lütfen.
+いらっしゃいませ (irasshaimase) | hoş geldiniz (dükkânda) | ifade | いらっしゃいませ。何名様ですか。(Irasshaimase. Nanmei-sama desu ka.) | Hoş geldiniz. Kaç kişisiniz?
+おすすめ (osusume) | tavsiye, önerilen | isim | おすすめは何ですか。(Osusume wa nan desu ka.) | Ne tavsiye edersiniz?
+〜をください (o kudasai) | ... lütfen, ... verir misiniz | ifade | コーヒーをください。(Kōhī o kudasai.) | Kahve lütfen.
+## Tatlar
+おいしい (oishii) | lezzetli | sıfat | このケーキはおいしいです。(Kono kēki wa oishii desu.) | Bu pasta çok lezzetli.
+まずい (mazui) | tatsız, kötü (tat) | sıfat | このコーヒーはまずいです。(Kono kōhī wa mazui desu.) | Bu kahvenin tadı kötü.
+甘い (amai) | tatlı | sıfat | このりんごは甘いです。(Kono ringo wa amai desu.) | Bu elma tatlı.
+辛い (karai) | acı (biber) | sıfat | カレーは少し辛いです。(Karē wa sukoshi karai desu.) | Köri biraz acı.
+しょっぱい (shoppai) | tuzlu | sıfat | スープがしょっぱいです。(Sūpu ga shoppai desu.) | Çorba tuzlu.
+酸っぱい (suppai) | ekşi | sıfat | レモンは酸っぱいです。(Remon wa suppai desu.) | Limon ekşi.
+苦い (nigai) | acı (kahve gibi) | sıfat | この薬は苦いです。(Kono kusuri wa nigai desu.) | Bu ilaç acı.
+熱い (atsui) | sıcak (dokunulan şey) | sıfat | お茶が熱いです。(O-cha ga atsui desu.) | Çay sıcak.
+冷たい (tsumetai) | soğuk (dokunulan şey) | sıfat | 冷たい水をください。(Tsumetai mizu o kudasai.) | Soğuk su lütfen.
+味 (aji) | tat | isim | このスープは味が薄いです。(Kono sūpu wa aji ga usui desu.) | Bu çorbanın tadı hafif.
+## Yemek yemek
+食べる (taberu) | yemek (fiil) | fiil | 朝ご飯を食べます。(Asagohan o tabemasu.) | Kahvaltı yaparım.
+飲む (nomu) | içmek | fiil | お茶を飲みます。(O-cha o nomimasu.) | Çay içiyorum.
+作る (tsukuru) | yapmak, hazırlamak | fiil | 母がカレーを作ります。(Haha ga karē o tsukurimasu.) | Annem köri yapıyor.
+焼く (yaku) | pişirmek (ızgara, fırın) | fiil | 魚を焼きます。(Sakana o yakimasu.) | Balık ızgara yapıyorum.
+好き (suki) | sevilen, hoşa giden | sıfat | 私はすしが好きです。(Watashi wa sushi ga suki desu.) | Suşiyi severim.
+大好き (daisuki) | çok sevilen | sıfat | チョコレートが大好きです。(Chokorēto ga daisuki desu.) | Çikolataya bayılırım.
+嫌い (kirai) | sevilmeyen | sıfat | 納豆が嫌いです。(Nattō ga kirai desu.) | Nattō'yu sevmem.
+お腹がすく (onaka ga suku) | acıkmak | ifade | お腹がすきました。(Onaka ga sukimashita.) | Acıktım.
+喉が渇く (nodo ga kawaku) | susamak | ifade | 喉が渇きました。(Nodo ga kawakimashita.) | Susadım.
+残す (nokosu) | bırakmak, artırmak (yemeği) | fiil | ご飯を残さないでください。(Gohan o nokosanaide kudasai.) | Yemeğini bırakma lütfen.
+## Tatlılar ve atıştırmalıklar
+お菓子 (okashi) | şekerleme, atıştırmalık | isim | お菓子を買いました。(Okashi o kaimashita.) | Atıştırmalık aldım.
+ケーキ (kēki) | pasta, kek | isim | 誕生日にケーキを食べます。(Tanjōbi ni kēki o tabemasu.) | Doğum gününde pasta yeriz.
+アイスクリーム (aisukurīmu) | dondurma | isim | 夏はアイスクリームがいいです。(Natsu wa aisukurīmu ga ii desu.) | Yazın dondurma iyi gider.
+チョコレート (chokorēto) | çikolata | isim | チョコレートを一つどうぞ。(Chokorēto o hitotsu dōzo.) | Bir çikolata buyur.
+和菓子 (wagashi) | geleneksel Japon tatlısı | isim | 和菓子とお茶は合います。(Wagashi to o-cha wa aimasu.) | Japon tatlısı çayla iyi gider.
+だんご (dango) | pirinç unu köftesi (tatlı) | isim | 花見でだんごを食べます。(Hanami de dango o tabemasu.) | Çiçek seyrinde dango yeriz.
+もち (mochi) | pirinç keki | isim | お正月にもちを食べます。(Oshōgatsu ni mochi o tabemasu.) | Yeni yılda mochi yeriz.
+せんべい (senbei) | pirinç krakeri | isim | せんべいは硬いです。(Senbei wa katai desu.) | Pirinç krakeri serttir.
+クッキー (kukkī) | kurabiye | isim | クッキーを焼きました。(Kukkī o yakimashita.) | Kurabiye pişirdim.
+おやつ (oyatsu) | ara öğün, atıştırma | isim | 三時はおやつの時間です。(Sanji wa oyatsu no jikan desu.) | Saat üç atıştırma vakti.
