@@ -1,0 +1,135 @@
+# UNIT: İtalyan alfabesi | 21 harf, yabancı harfler ve aksanlı ünlüler
+## A – L
+A a | a — "araba"daki a; harfin adı "a" | harf · sesli | amico | arkadaş
+B b | b — "baba"daki b; harfin adı "bi" | harf · ünsüz | barca | kayık
+C c | a, o, u önünde k; e, i önünde ç; harfin adı "ci" (çi) | harf · ünsüz | casa | ev
+D d | d — dil ucu dişlere değer; harfin adı "di" | harf · ünsüz | dente | diş
+E e | e — açık è ve kapalı é olmak üzere iki tür e vardır; harfin adı "e" | harf · sesli | erba | ot
+F f | f — "fil"deki f; harfin adı "effe" | harf · ünsüz | fiume | nehir
+G g | a, o, u önünde g; e, i önünde c ("cam"daki c); harfin adı "gi" (ci) | harf · ünsüz | gelato | dondurma
+H h | hiç okunmaz; yalnızca ch, gh içinde k ve g'yi sert tutar; harfin adı "acca" (akka) | harf · ünsüz | hotel | otel
+I i | i — "iki"deki i; harfin adı "i" | harf · sesli | isola | ada
+L l | l — her zaman ince l, "lale"deki gibi; harfin adı "elle" | harf · ünsüz | luna | ay
+## M – V
+M m | m — "masa"daki m; harfin adı "emme" | harf · ünsüz | mare | deniz
+N n | n — "nar"daki n; harfin adı "enne" | harf · ünsüz | naso | burun
+O o | o — açık ò ve kapalı ó olmak üzere iki tür o vardır; harfin adı "o" | harf · sesli | occhio | göz
+P p | p — Türkçeden daha yumuşak, nefes vermeden; harfin adı "pi" | harf · ünsüz | pane | ekmek
+Q q | k — hep "qu" olarak yazılır ve "kv" gibi okunur; harfin adı "cu" (ku) | harf · ünsüz | quadro | tablo
+R r | dil ucuyla titreyen r, Türkçedekinden daha belirgin; harfin adı "erre" | harf · ünsüz | rosa | gül
+S s | genelde s; iki ünlü arasında çoğu zaman z; harfin adı "esse" | harf · ünsüz | sole | güneş
+T t | t — Türkçeden daha yumuşak, nefes vermeden; harfin adı "ti" | harf · ünsüz | torre | kule
+U u | u — "uzun"daki u; harfin adı "u" | harf · sesli | uva | üzüm
+V v | v — "vazo"daki v; harfin adı "vu" ya da "vi" | harf · ünsüz | vino | şarap
+## Z, yabancı harfler ve aksanlar
+Z z | "ts" ya da "dz" okunur; harfin adı "zeta" (dzeta) | harf · ünsüz | zucchero | şeker
+J j | yalnızca yabancı kelimelerde, çoğunlukla "c"; harfin adı "i lunga" | harf · ünsüz | judo | judo
+K k | k — yalnızca yabancı kelimelerde; harfin adı "cappa" (kappa) | harf · ünsüz | kiwi | kivi
+W w | yabancı kelimelerde u ya da v; harfin adı "doppia vu" | harf · ünsüz | weekend | hafta sonu
+X x | ks — yalnızca yabancı ve bilimsel kelimelerde; harfin adı "ics" (iks) | harf · ünsüz | xilofono | ksilofon
+Y y | i gibi okunur, yabancı kelimelerde; harfin adı "ipsilon" | harf · ünsüz | yogurt | yoğurt
+à | sondaki vurgulu a; aksan, vurgunun son hecede olduğunu gösterir | harf · sesli | città | şehir
+è | açık ve vurgulu e, ağzı biraz daha açarak | harf · sesli | caffè | kahve
+é | kapalı ve vurgulu e, Türkçe e'ye daha yakın | harf · sesli | perché | neden
+ì ò ù | sondaki vurgulu i, o, u; vurgu son heceye düşer | harf · sesli | però | ama
+# UNIT: Zor sesler | c ve g, gli, gn, sc, çift ünsüzler, s ve z, vurgu
+## C ve G: sert mi yumuşak mı?
+ce, ci | Türkçe "çe", "çi" | ses | cena | akşam yemeği
+ca, co, cu | Türkçe k: "ka", "ko", "ku" | ses | cuore | kalp
+che, chi | h okunmaz, sert k: "ke", "ki" | ses | chiesa | kilise
+cia, cio, ciu | i okunmaz: "ça", "ço", "çu" | ses | ciao | merhaba
+ge, gi | Türkçe "ce", "ci" | ses | gente | insanlar
+ga, go, gu | Türkçe g: "ga", "go", "gu" | ses | gola | boğaz
+ghe, ghi | h okunmaz, sert g: "ge", "gi" | ses | spaghetti | spagetti
+gia, gio, giu | i okunmaz: "ca", "co", "cu" | ses | giorno | gün
+qua, que, qui | u kaynaşır: "kva", "kve", "kvi" | ses | quaderno | defter
+gua, gue, gui | u kaynaşır: "gva", "gve", "gvi" | ses | guanto | eldiven
+## gli, gn ve sc
+gli | Türkçede yok: dilin ortası damağa yapışır, "lyi" gibi | ses | gli amici | arkadaşlar
+glia, glie, glio | i okunmaz, yumuşak "lya", "lye", "lyo" | ses | famiglia | aile
+gn | Türkçede yok, "nya" gibi: dilin ortası damağa | ses | bagno | banyo
+gla, gle, glo | bazı kelimelerde sert g + l, Türkçedeki gibi | ses | inglese | İngilizce
+sce, sci | Türkçe ş: "şe", "şi" | ses | pesce | balık
+scia, scio, sciu | i okunmaz: "şa", "şo", "şu" | ses | sciarpa | atkı
+sca, sco, scu | s + k: "ska", "sko", "sku" | ses | scuola | okul
+sche, schi | h okunmaz, s + k: "ske", "ski" | ses | schiena | sırt
+sb, sd, sg, sv | b, d, g, v önündeki s, z gibi okunur | ses | sbaglio | hata
+cce, cci | uzun ç: "çç", önceki heceye takılır | ses | faccia | yüz
+## Çift ünsüzler
+tt | çift ünsüzü tut ve kısa bir an bekle: "gat-to" | ses | gatto | kedi
+ll | l'yi uzatarak oku: "bel-la" | ses | bella | güzel
+nn | n'yi uzat: "an-no"; tek n ile anlam değişebilir | ses | anno | yıl
+pp | p'de dudakları bir an kapalı tut: "trop-po" | ses | troppo | çok fazla
+ss | her zaman sert ve uzun s, asla z olmaz | ses | passo | adım
+mm | m'yi uzat: "mam-ma" | ses | mamma | anne
+rr | uzun titrek r | ses | terra | toprak; dünya
+zz | uzun "ts" ya da "dz" | ses | pizza | pizza
+cca, cco, ccu | uzun k: "bok-ka" | ses | bocca | ağız
+gge, ggi | uzun c: "oc-ci" | ses | oggi | bugün
+## S, Z, ünlü birleşimleri ve vurgu
+s (ünlü arası) | Kuzey'de z, Güney'de s gibi; ikisi de doğru | ses | rosa | gül
+s- (kelime başı) | ünlüden önce her zaman sert s | ses | sale | tuz
+z (ts) | çoğu kelimede "ts" | ses | grazie | teşekkürler
+z (dz) | bazı kelimelerde yumuşak "dz", özellikle kelime başında | ses | zero | sıfır
+ie | "ye" gibi tek hecede | ses | piede | ayak
+uo | "vo" gibi tek hecede | ses | uomo | adam
+ai, au, ei | iki ünlü kaynaşır: "ay", "au", "ey" | ses | auto | araba
+vurgu: sondan ikinci hece | kelimelerin çoğunda vurgu sondan ikinci hecededir: a-MI-co | ses | amico | arkadaş
+vurgu: sondan üçüncü hece | bazı kelimelerde vurgu daha geridedir: TA-vo-lo | ses | tavolo | masa
+vurgu: son hece | yazıda aksan varsa vurgu sondadır: u-ni-ver-si-TÀ | ses | università | üniversite
+# UNIT: İlk kelimeler | Sayılar 1–10, renkler, hayvanlar, nesneler, doğa
+## Sayılar 1–10
+uno | bir | sayı | Ho uno zaino. | Bir sırt çantam var.
+due | iki | sayı | Due caffè, per favore. | İki kahve, lütfen.
+tre | üç | sayı | Ho tre fratelli. | Üç kardeşim var.
+quattro | dört | sayı | Sono le quattro. | Saat dört.
+cinque | beş | sayı | Cinque euro, grazie. | Beş avro, teşekkürler.
+sei | altı | sayı | Abbiamo sei gatti. | Altı kedimiz var.
+sette | yedi | sayı | La settimana ha sette giorni. | Haftada yedi gün var.
+otto | sekiz | sayı | Lavoro otto ore. | Sekiz saat çalışıyorum.
+nove | dokuz | sayı | Mia figlia ha nove anni. | Kızım dokuz yaşında.
+dieci | on | sayı | Conto fino a dieci. | Ona kadar sayıyorum.
+## Renkler
+rosso | kırmızı | sıfat | La mela è rossa. | Elma kırmızı.
+blu | mavi, lacivert | sıfat | Il mare è blu. | Deniz mavi.
+verde | yeşil | sıfat | L'erba è verde. | Çimen yeşil.
+giallo | sarı | sıfat | Il limone è giallo. | Limon sarı.
+bianco | beyaz | sıfat | Ho un gatto bianco. | Beyaz bir kedim var.
+nero | siyah | sıfat | Il caffè è nero. | Kahve siyah.
+grigio | gri | sıfat | Oggi il cielo è grigio. | Bugün gökyüzü gri.
+marrone | kahverengi | sıfat | Il mio cane è marrone. | Köpeğim kahverengi.
+arancione | turuncu | sıfat | La palla è arancione. | Top turuncu.
+rosa | pembe | sıfat | Giulia ha una borsa rosa. | Giulia'nın pembe bir çantası var.
+## Hayvanlar
+il cane | köpek | isim (e) | Il cane è grande. | Köpek büyük.
+il gatto | kedi | isim (e) | Il gatto dorme molto. | Kedi çok uyur.
+l'uccello (e) | kuş | isim (e) | L'uccello canta. | Kuş ötüyor.
+il pesce | balık | isim (e) | Ho un pesce rosso. | Kırmızı bir balığım var.
+il cavallo | at | isim (e) | Il cavallo corre veloce. | At hızlı koşuyor.
+la mucca | inek | isim (d) | La mucca mangia l'erba. | İnek ot yiyor.
+il topo | fare | isim (e) | Il topo è piccolo. | Fare küçük.
+il coniglio | tavşan | isim (e) | Sofia ha un coniglio. | Sofia'nın bir tavşanı var.
+l'orso (e) | ayı | isim (e) | L'orso vive nel bosco. | Ayı ormanda yaşar.
+il leone | aslan | isim (e) | Il leone è forte. | Aslan güçlüdür.
+## Nesneler
+il libro | kitap | isim (e) | Leggo un libro. | Bir kitap okuyorum.
+la penna | tükenmez kalem | isim (d) | Hai una penna? | Kalemin var mı?
+la matita | kurşun kalem | isim (d) | La matita è blu. | Kurşun kalem mavi.
+il quaderno | defter | isim (e) | Apri il quaderno. | Defteri aç.
+lo zaino | sırt çantası | isim (e) | Il mio zaino è nero. | Sırt çantam siyah.
+la macchina | araba | isim (d) | La macchina è nuova. | Araba yeni.
+la bicicletta | bisiklet | isim (d) | Vado in bicicletta. | Bisikletle gidiyorum.
+la palla | top | isim (d) | Il bambino gioca a palla. | Çocuk top oynuyor.
+l'ombrello (e) | şemsiye | isim (e) | Prendi l'ombrello! | Şemsiyeyi al!
+la scatola | kutu | isim (d) | La scatola è vuota. | Kutu boş.
+## Doğa
+il sole | güneş | isim (e) | Oggi c'è il sole. | Bugün hava güneşli.
+la luna | ay (gökyüzündeki) | isim (d) | La luna è bella. | Ay çok güzel.
+la stella | yıldız | isim (d) | Vedo una stella. | Bir yıldız görüyorum.
+il mare | deniz | isim (e) | Abito vicino al mare. | Denize yakın oturuyorum.
+il fiume | nehir | isim (e) | Il fiume è lungo. | Nehir uzun.
+la montagna | dağ | isim (d) | Amo la montagna. | Dağı çok severim.
+il cielo | gökyüzü | isim (e) | Il cielo è azzurro. | Gökyüzü masmavi.
+il fiore | çiçek | isim (e) | Questo fiore è giallo. | Bu çiçek sarı.
+l'albero (e) | ağaç | isim (e) | L'albero è molto alto. | Ağaç çok yüksek.
+la pioggia | yağmur | isim (d) | Mi piace la pioggia. | Yağmuru severim.
