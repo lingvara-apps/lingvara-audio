@@ -1,0 +1,111 @@
+# UNIT: Sanayi ve tarım | Üretim, madencilik, inşaat, çiftçilik
+## Sanayi
+a indústria | sanayi | isim (d) | A indústria automobilística emprega milhares de pessoas no ABC. | Otomotiv sanayisi ABC bölgesinde binlerce kişiye iş veriyor.
+a fábrica | fabrika | isim (d) | A fábrica de chocolate abre as portas para visitas escolares. | Çikolata fabrikası okul ziyaretlerine kapılarını açıyor.
+a produção | üretim | isim (d) | A produção de carros caiu por falta de peças importadas. | İthal parça eksikliği yüzünden araba üretimi düştü.
+a linha de produção | üretim hattı | isim (d) | A linha de produção parou por causa de uma falha elétrica. | Üretim hattı bir elektrik arızası yüzünden durdu.
+a montadora | otomobil fabrikası | isim (d) | A montadora vai lançar um modelo elétrico no Brasil. | Otomobil fabrikası Brezilya'da elektrikli bir model çıkaracak.
+o operário | fabrika işçisi | isim (e) | Os operários pararam a fábrica pedindo aumento de salário. | İşçiler zam talebiyle fabrikada iş bıraktı.
+o polo industrial | sanayi bölgesi | isim (e) | O polo industrial de Manaus produz motos e eletrônicos. | Manaus sanayi bölgesi motosiklet ve elektronik ürünler üretiyor.
+o galpão | depo, hangar | isim (e) | A empresa alugou um galpão enorme perto da rodovia. | Şirket otoyolun yakınında kocaman bir depo kiraladı.
+a manufatura | imalat | isim (d) | A manufatura de calçados é forte no Rio Grande do Sul. | Ayakkabı imalatı Rio Grande do Sul'da güçlüdür.
+a mão de obra | iş gücü | isim (d) | Falta mão de obra qualificada no setor de tecnologia. | Teknoloji sektöründe nitelikli iş gücü eksik.
+## Üretim süreci
+fabricar | imal etmek | fiil | A empresa fabrica móveis com madeira de reflorestamento. | Şirket ağaçlandırma alanlarından gelen kerestelerle mobilya imal ediyor.
+produzir | üretmek | fiil | O estado de Minas produz muito leite e queijo. | Minas eyaleti çok miktarda süt ve peynir üretiyor.
+embalar | paketlemek | fiil | As frutas são embaladas e enviadas para a Europa. | Meyveler paketlenip Avrupa'ya gönderiliyor.
+o produto final | nihai ürün | isim (e) | O produto final passa por vários testes antes de sair. | Nihai ürün çıkmadan önce birçok testten geçiyor.
+o controle de qualidade | kalite kontrol | isim (e) | O controle de qualidade encontrou um defeito no lote. | Kalite kontrol partide bir kusur buldu.
+o lote | parti (ürün); arsa | isim (e) | A empresa recolheu um lote de remédios com problema. | Şirket sorunlu bir parti ilacı geri topladı.
+o componente | bileşen, parça | isim (e) | A maioria dos componentes eletrônicos da fábrica vem da Ásia. | Fabrikanın elektronik bileşenlerinin çoğu Asya'dan geliyor.
+o insumo | girdi (üretim) | isim (e) | O preço dos insumos agrícolas subiu com o dólar. | Tarımsal girdilerin fiyatı dolarla birlikte yükseldi.
+a sucata | hurda | isim (d) | O ferro-velho compra sucata de metal por quilo. | Hurdacı metal hurdayı kiloyla alıyor.
+a esteira | taşıma bandı; koşu bandı | isim (d) | As caixas passam pela esteira até o caminhão. | Kutular taşıma bandından kamyona kadar geçiyor.
+## Madencilik ve enerji
+a mineração | madencilik | isim (d) | A mineração é a principal atividade econômica da região. | Madencilik bölgenin başlıca ekonomik faaliyetidir.
+o subsolo | yeraltı | isim (e) | O subsolo da região é rico em minérios. | Bölgenin yeraltı madenler açısından zengin.
+o garimpo | maden arama (yasa dışı) | isim (e) | O garimpo ilegal contaminou os rios com mercúrio. | Yasa dışı maden arama nehirleri cıvayla kirletti.
+o garimpeiro | altın arayıcısı | isim (e) | Os garimpeiros entraram na terra indígena sem autorização. | Altın arayıcıları izinsiz olarak yerli topraklarına girdi.
+a extração | çıkarma, çıkarım | isim (d) | A extração de areia dos rios é controlada por lei. | Nehirlerden kum çıkarma yasayla denetleniyor.
+extrair | çıkarmak (yeraltından) | fiil | A empresa extrai petróleo a sete mil metros de profundidade. | Şirket yedi bin metre derinlikten petrol çıkarıyor.
+a barragem | baraj | isim (d) | O rompimento da barragem destruiu vilas inteiras. | Barajın yıkılması bütün köyleri yok etti.
+a refinaria | rafineri | isim (d) | A refinaria transforma o petróleo em gasolina e diesel. | Rafineri petrolü benzine ve dizele dönüştürüyor.
+a plataforma de petróleo | petrol platformu | isim (d) | Ele trabalha quinze dias seguidos numa plataforma de petróleo. | Bir petrol platformunda on beş gün aralıksız çalışıyor.
+o ferro | demir | isim (e) | O Brasil é um dos maiores exportadores de ferro do mundo. | Brezilya dünyanın en büyük demir ihracatçılarından biri.
+## İnşaat
+a construção civil | inşaat sektörü | isim (d) | A construção civil voltou a contratar depois da crise. | İnşaat sektörü krizden sonra yeniden işe alıma başladı.
+o arquiteto | mimar | isim (e) | O arquiteto projetou uma casa com muita luz natural. | Mimar bol doğal ışık alan bir ev tasarladı.
+o servente de pedreiro | duvarcı yardımcısı | isim (e) | Ele começou como servente de pedreiro e hoje é mestre. | Duvarcı yardımcısı olarak başladı, bugün usta.
+o capacete | baret, kask | isim (e) | É obrigatório usar capacete dentro do canteiro. | Şantiye içinde baret takmak zorunludur.
+o guindaste | vinç | isim (e) | O guindaste levantou as vigas até o último andar. | Vinç kirişleri son kata kadar kaldırdı.
+a demolição | yıkım | isim (d) | A demolição do viaduto fechou a avenida por um mês. | Viyadüğün yıkımı caddeyi bir ay kapattı.
+o loteamento | parselleme, arsa projesi | isim (e) | Compraram um terreno num loteamento novo fora da cidade. | Şehir dışındaki yeni bir arsa projesinden arsa aldılar.
+o terreno | arsa | isim (e) | Meu pai comprou um terreno para construir a casa própria. | Babam kendi evini yapmak için bir arsa aldı.
+a pavimentação | yol kaplama | isim (d) | A pavimentação da estrada de terra vai acabar com a poeira. | Toprak yolun kaplanması tozu bitirecek.
+o asfalto | asfalt | isim (e) | Com o calor, o asfalto da rua parece derreter. | Sıcakta sokağın asfaltı eriyecek gibi.
+## Tarım
+a agricultura | tarım | isim (d) | A agricultura familiar produz boa parte dos alimentos do país. | Aile tarımı ülkenin gıdasının büyük kısmını üretiyor.
+o agronegócio | tarım işletmeciliği | isim (e) | O agronegócio responde por uma parte grande das exportações. | Tarım işletmeciliği ihracatın büyük bir kısmını oluşturuyor.
+a lavoura | ekili tarla | isim (d) | A geada destruiu metade da lavoura de café. | Don kahve tarlalarının yarısını mahvetti.
+a plantação | ekim alanı, plantasyon | isim (d) | A plantação de morangos atrai turistas no inverno. | Çilek tarlası kışın turist çekiyor.
+o plantio | ekim (dikim) | isim (e) | O plantio da soja começa com as primeiras chuvas. | Soya ekimi ilk yağmurlarla başlar.
+a colheita | hasat | isim (d) | Durante a colheita, a família toda ajuda na roça. | Hasat sırasında bütün aile tarlada yardım ediyor.
+a safra | rekolte, mahsul | isim (d) | A safra de laranja deste ano foi recorde. | Bu yılki portakal rekoltesi rekor kırdı.
+a irrigação | sulama | isim (d) | Sem irrigação, seria impossível plantar uvas no sertão. | Sulama olmadan Sertão'da üzüm yetiştirmek imkânsız olurdu.
+o trator | traktör | isim (e) | O trator quebrou bem no meio da colheita. | Traktör tam hasadın ortasında bozuldu.
+a enxada | çapa | isim (d) | Meu avô ainda trabalha na horta com uma enxada antiga. | Dedem hâlâ eski bir çapayla bahçede çalışıyor.
+## Tarım ürünleri
+a soja | soya | isim (d) | O Brasil é o maior produtor de soja do mundo. | Brezilya dünyanın en büyük soya üreticisi.
+a cana-de-açúcar | şeker kamışı | isim (d) | A cana-de-açúcar é usada para fazer açúcar e etanol. | Şeker kamışı şeker ve etanol üretmek için kullanılır.
+o trigo | buğday | isim (e) | O Brasil ainda importa boa parte do trigo que consome. | Brezilya tükettiği buğdayın büyük kısmını hâlâ ithal ediyor.
+o cacau | kakao | isim (e) | O sul da Bahia ficou famoso pelas fazendas de cacau. | Bahia'nın güneyi kakao çiftlikleriyle ünlendi.
+o eucalipto | okaliptüs | isim (e) | As plantações de eucalipto abastecem a indústria de papel. | Okaliptüs plantasyonları kâğıt sanayisini besliyor.
+a erva-mate | mate otu | isim (d) | A erva-mate é cultivada no Sul para fazer chimarrão. | Mate otu Güney'de chimarrão yapmak için yetiştirilir.
+o girassol | ayçiçeği | isim (e) | Os campos de girassol ficam lindos no fim do verão. | Ayçiçeği tarlaları yaz sonunda çok güzel olur.
+a pimenta-do-reino | karabiber | isim (d) | O Pará é um grande produtor de pimenta-do-reino. | Pará büyük bir karabiber üreticisi.
+o guaraná | guarana | isim (e) | O guaraná nasce em cachos vermelhos na Amazônia. | Guarana Amazon'da kırmızı salkımlar hâlinde yetişir.
+a borracha natural | doğal kauçuk | isim (d) | A borracha natural vem da seringueira, uma árvore amazônica. | Doğal kauçuk bir Amazon ağacı olan kauçuk ağacından gelir.
+## Hayvancılık
+a pecuária | hayvancılık | isim (d) | A pecuária ocupa grandes áreas no Centro-Oeste. | Hayvancılık Orta Batı'da geniş alanlar kaplıyor.
+o gado | sığır, büyükbaş hayvan | isim (e) | O gado pasta solto nas fazendas do Pantanal. | Sığırlar Pantanal çiftliklerinde serbestçe otluyor.
+o rebanho | sürü | isim (e) | O rebanho de ovelhas atravessou a estrada devagar. | Koyun sürüsü yolu yavaşça geçti.
+o curral | ağıl | isim (e) | De manhã, o vaqueiro leva as vacas para o curral. | Sabahleyin kovboy inekleri ağıla götürüyor.
+o pasto | mera | isim (e) | Com a seca, o pasto ficou amarelo e seco. | Kuraklıkla mera sarardı ve kurudu.
+a ordenha | sağım | isim (d) | A ordenha das vacas começa às quatro da manhã. | İneklerin sağımı sabah dörtte başlar.
+o vaqueiro | sığırtmaç, kovboy | isim (e) | O vaqueiro nordestino usa roupa de couro para se proteger. | Kuzeydoğulu sığırtmaç korunmak için deri giysiler giyer.
+a granja | tavuk çiftliği | isim (d) | A granja produz milhares de ovos por dia. | Tavuk çiftliği günde binlerce yumurta üretiyor.
+o frigorífico | mezbaha ve et işleme tesisi | isim (e) | O frigorífico exporta carne para mais de cem países. | Et işleme tesisi yüzden fazla ülkeye et ihraç ediyor.
+o peão | çiftlik işçisi | isim (e) | Os peões da fazenda acordam antes do sol nascer. | Çiftlik işçileri güneş doğmadan uyanır.
+## Tarım ve sanayi fiilleri
+cultivar | yetiştirmek | fiil | Eles cultivam café orgânico nas montanhas do Espírito Santo. | Espírito Santo dağlarında organik kahve yetiştiriyorlar.
+semear | tohum ekmek | fiil | Os agricultores semeiam o milho no começo das chuvas. | Çiftçiler mısırı yağmurların başında eker.
+irrigar | sulamak | fiil | Usamos água da chuva para irrigar a horta. | Bahçeyi sulamak için yağmur suyu kullanıyoruz.
+arar | sürmek (toprak) | fiil | Antes do plantio, é preciso arar a terra. | Ekimden önce toprağı sürmek gerekir.
+adubar | gübrelemek | fiil | Ela aduba as plantas com restos de comida da cozinha. | Bitkilerini mutfak artıklarıyla gübreliyor.
+pulverizar | ilaçlamak (püskürterek) | fiil | O avião pulverizou a plantação e o vento levou o veneno. | Uçak tarlayı ilaçladı ve rüzgâr zehri taşıdı.
+ordenhar | sağmak | fiil | Na fazenda do meu tio, aprendi a ordenhar vaca. | Amcamın çiftliğinde inek sağmayı öğrendim.
+industrializar | sanayileştirmek | fiil | O governo quer industrializar a produção de cacau na região. | Hükümet bölgedeki kakao üretimini sanayileştirmek istiyor.
+minerar | maden çıkarmak | fiil | A empresa recebeu licença para minerar na serra. | Şirket dağda maden çıkarmak için izin aldı.
+estocar | stoklamak | fiil | Os produtores estocam o café esperando preços melhores. | Üreticiler daha iyi fiyat bekleyerek kahveyi stokluyor.
+## Sanayi ve tarım sıfatları
+industrial | sanayi, endüstriyel | sıfat | O lixo industrial precisa de um tratamento especial. | Endüstriyel atıkların özel bir arıtmaya ihtiyacı var.
+agrícola | tarımsal | sıfat | A feira agrícola mostra as máquinas mais modernas do setor. | Tarım fuarı sektörün en modern makinelerini sergiliyor.
+orgânico | organik | sıfat | Toda semana compro verduras orgânicas direto do produtor. | Her hafta organik sebzeleri doğrudan üreticiden alıyorum.
+mecanizado | makineleşmiş | sıfat | A colheita da cana hoje é quase toda mecanizada. | Şeker kamışı hasadı bugün neredeyse tamamen makineyle yapılıyor.
+artesanal | el yapımı, zanaat usulü | sıfat | O queijo artesanal da Serra da Canastra é famoso. | Serra da Canastra'nın el yapımı peyniri ünlüdür.
+sazonal | mevsimlik | sıfat | Na colheita da uva, há muito trabalho sazonal. | Üzüm hasadında çok sayıda mevsimlik iş var.
+têxtil | tekstil | sıfat | A indústria têxtil de Santa Catarina exporta para vários países. | Santa Catarina tekstil sanayisi birçok ülkeye ihracat yapıyor.
+siderúrgico | demir çelik (sanayisi) | sıfat | O polo siderúrgico de Minas gera muitos empregos. | Minas'taki demir çelik bölgesi çok sayıda iş yaratıyor.
+metalúrgico | metalurji | sıfat | Ele trabalhou trinta anos numa empresa metalúrgica. | Otuz yıl bir metalurji şirketinde çalıştı.
+agroecológico | agroekolojik | sıfat | A cooperativa vende produtos agroecológicos na feira de sábado. | Kooperatif cumartesi pazarında agroekolojik ürünler satıyor.
+## Kırsal hayat
+o fazendeiro | çiftlik sahibi | isim (e) | O fazendeiro contratou mais trabalhadores para a colheita. | Çiftlik sahibi hasat için daha fazla işçi tuttu.
+o produtor rural | tarım üreticisi | isim (e) | O produtor rural depende muito do clima. | Tarım üreticisi büyük ölçüde iklime bağlıdır.
+o lavrador | rençper, toprağı işleyen | isim (e) | O lavrador trabalha a terra de sol a sol. | Rençper sabahtan akşama toprağı işler.
+o boia-fria | gündelikçi tarım işçisi | isim (e) | Os boias-frias saem de madrugada para cortar cana. | Gündelikçi tarım işçileri şeker kamışı kesmek için gece yarısından sonra yola çıkar.
+o latifúndio | büyük toprak mülkü | isim (e) | O latifúndio ocupa terras enormes e improdutivas. | Büyük toprak mülkü uçsuz bucaksız ve verimsiz araziler kaplıyor.
+a reforma agrária | toprak reformu | isim (d) | A reforma agrária distribuiu terras para famílias sem-terra. | Toprak reformu topraksız ailelere arazi dağıttı.
+a cooperativa | kooperatif | isim (d) | A cooperativa de leite ajuda os pequenos produtores a vender. | Süt kooperatifi küçük üreticilerin satış yapmasına yardım ediyor.
+a agricultura familiar | aile tarımı | isim (d) | A agricultura familiar abastece as escolas com merenda fresca. | Aile tarımı okulları taze yemekle besliyor.
+o chão de fábrica | üretim sahası | isim (e) | O diretor começou a carreira no chão de fábrica. | Müdür kariyerine üretim sahasında başladı.
+a entressafra | hasat arası dönem | isim (d) | Na entressafra, o preço do tomate costuma subir. | Hasat arası dönemde domatesin fiyatı genellikle yükselir.
