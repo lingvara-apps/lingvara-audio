@@ -1,0 +1,111 @@
+# UNIT: Coğrafya ve jeoloji | Yer şekilleri, sular, iklim kuşakları, harita
+## Yer şekilleri
+o planalto | plato, yayla | isim (e) | Brasília foi construída no Planalto Central, a mil metros de altitude. | Brasília bin metre yükseklikte Orta Plato'da kuruldu.
+a planície | ova | isim (d) | A planície costeira é ocupada por plantações de cana. | Kıyı ovası şeker kamışı tarlalarıyla kaplı.
+a serra | sıradağ | isim (d) | A Serra do Mar separa o litoral paulista do planalto. | Serra do Mar, São Paulo kıyısını platodan ayırır.
+a chapada | masa dağ, düz tepeli yayla | isim (d) | A chapada tem paredões de pedra e cachoeiras escondidas. | Masa dağın taş duvarları ve gizli şelaleleri var.
+a encosta | yamaç | isim (d) | As casas da encosta correm risco durante as chuvas fortes. | Yamaçtaki evler şiddetli yağmurlarda risk altında.
+o cume | doruk, zirve | isim (e) | Chegamos ao cume do Pico da Bandeira antes do nascer do sol. | Gün doğmadan Pico da Bandeira'nın zirvesine vardık.
+o desfiladeiro | dar boğaz, kanyon geçidi | isim (e) | A estrada passa por um desfiladeiro estreito e perigoso. | Yol dar ve tehlikeli bir boğazdan geçiyor.
+a depressão relativa | çöküntü alanı (deniz seviyesinin üstünde) | isim (d) | A depressão relativa fica abaixo do nível das terras ao redor. | Çöküntü alanı çevresindeki arazinin seviyesinin altında kalır.
+o relevo | yeryüzü şekilleri, topoğrafya | isim (e) | O relevo acidentado dificulta a construção de estradas. | Engebeli arazi yol yapımını zorlaştırıyor.
+o altiplano | yüksek plato | isim (e) | No altiplano andino, o ar é rarefeito e frio. | And yüksek platosunda hava seyrek ve soğuk.
+## Kıyı ve deniz
+a costa recortada | girintili çıkıntılı kıyı | isim (d) | A costa recortada do sul da Bahia esconde praias quase desertas. | Bahia'nın güneyindeki girintili çıkıntılı kıyı neredeyse ıssız plajlar saklıyor.
+a enseada | küçük koy | isim (d) | Os barcos de pesca se abrigam numa enseada tranquila. | Balıkçı tekneleri sakin bir koyda barınıyor.
+a restinga | kıyı kumul ormanı | isim (d) | A vegetação de restinga protege as dunas da erosão. | Kıyı kumul bitki örtüsü kumulları erozyona karşı korur.
+a falésia | falez, kıyı uçurumu | isim (d) | As falésias coloridas de Morro Branco atraem muitos visitantes. | Morro Branco'nun renkli falezleri çok ziyaretçi çekiyor.
+o recife | resif | isim (e) | Os recifes de coral de Porto de Galinhas formam piscinas naturais. | Porto de Galinhas'ın mercan resifleri doğal havuzlar oluşturur.
+o arquipélago | takımada | isim (e) | O arquipélago de Fernando de Noronha é uma área protegida. | Fernando de Noronha takımadası koruma altındaki bir alandır.
+a península | yarımada | isim (d) | A península de Itapagipe fica dentro da baía de Salvador. | Itapagipe yarımadası Salvador koyunun içinde yer alır.
+o istmo | kıstak | isim (e) | Um istmo estreito liga a ilha ao continente. | Dar bir kıstak adayı anakaraya bağlıyor.
+a maré | gelgit | isim (d) | Na maré baixa, dá para caminhar até a ilha. | Cezir sırasında adaya yürüyerek gidilebiliyor.
+a plataforma continental | kıta sahanlığı | isim (d) | O petróleo está na plataforma continental, longe da costa. | Petrol kıyıdan uzakta, kıta sahanlığında bulunuyor.
+## Akarsular ve göller
+a bacia hidrográfica | havza | isim (d) | A bacia hidrográfica do Amazonas é a maior do planeta. | Amazon havzası gezegenin en büyüğüdür.
+o afluente | kol (nehir) | isim (e) | O rio Negro é um importante afluente do Amazonas. | Rio Negro Amazon'un önemli bir koludur.
+o divisor de águas | su bölümü çizgisi | isim (e) | A serra funciona como divisor de águas entre duas grandes bacias. | Sıradağ iki büyük havza arasında su bölümü çizgisi işlevi görür.
+a foz | nehir ağzı | isim (d) | Na foz do rio, a água doce se mistura com o mar. | Nehir ağzında tatlı su denizle karışır.
+o estuário | haliç | isim (e) | O estuário é rico em nutrientes e vida marinha. | Haliç besin maddesi ve deniz canlıları bakımından zengindir.
+o igarapé | dar orman deresi (Amazon) | isim (e) | Navegamos de canoa por um igarapé no meio da floresta. | Ormanın ortasında bir orman deresinde kanoyla ilerledik.
+a correnteza | akıntı | isim (d) | A correnteza forte arrastou o barco para longe da margem. | Güçlü akıntı tekneyi kıyıdan uzağa sürükledi.
+a corredeira | çağlayan, akıntılı kısım | isim (d) | Os turistas desceram as corredeiras de bote. | Turistler akıntılı kesimleri botla indi.
+o aquífero | akifer, yeraltı su kaynağı | isim (e) | O aquífero Guarani abastece cidades de quatro países. | Guarani akiferi dört ülkenin şehirlerine su sağlıyor.
+a várzea | taşkın ovası | isim (d) | Na época das cheias, a várzea fica completamente alagada. | Taşkın mevsiminde taşkın ovası tamamen sular altında kalır.
+## İklim kuşakları
+o clima equatorial | ekvatoral iklim | isim (e) | O clima equatorial é quente e úmido o ano inteiro. | Ekvatoral iklim bütün yıl sıcak ve nemlidir.
+o clima tropical | tropikal iklim | isim (e) | O clima tropical tem uma estação seca e outra chuvosa. | Tropikal iklimin bir kurak, bir de yağışlı mevsimi vardır.
+o clima semiárido | yarı kurak iklim | isim (e) | No clima semiárido do sertão, a chuva é rara e irregular. | Sertão'nun yarı kurak ikliminde yağmur seyrek ve düzensizdir.
+o clima subtropical | astropikal iklim | isim (e) | O clima subtropical do Sul traz invernos frios e geadas. | Güneyin astropikal iklimi soğuk kışlar ve don getirir.
+o clima temperado | ılıman iklim | isim (e) | Portugal tem clima temperado com influência do Atlântico. | Portekiz Atlantik etkili ılıman bir iklime sahiptir.
+a latitude | enlem | isim (d) | Quanto maior a latitude, menor a temperatura média. | Enlem arttıkça ortalama sıcaklık düşer.
+a longitude | boylam | isim (d) | A longitude ajuda a calcular os fusos horários. | Boylam saat dilimlerini hesaplamaya yardımcı olur.
+a altitude | rakım | isim (d) | Por causa da altitude, Campos do Jordão é fria no inverno. | Rakımı nedeniyle Campos do Jordão kışın soğuktur.
+a amplitude térmica | sıcaklık farkı | isim (d) | No deserto, a amplitude térmica entre dia e noite é enorme. | Çölde gece ile gündüz arasındaki sıcaklık farkı çok büyüktür.
+a massa de ar | hava kütlesi | isim (d) | Uma massa de ar polar derrubou as temperaturas no Sul. | Bir kutup hava kütlesi güneyde sıcaklıkları düşürdü.
+## Brezilya biyomları
+o ecótono | geçiş kuşağı (iki biyom arası) | isim (e) | O agreste é um ecótono entre a Mata Atlântica e a caatinga. | Agreste, Atlantik Ormanı ile caatinga arasında bir geçiş kuşağıdır.
+a savana | savan | isim (d) | A savana brasileira tem árvores tortas e cascas grossas. | Brezilya savanında eğri ağaçlar ve kalın kabuklar görülür.
+o agreste | agreste (yarı nemli geçiş bölgesi) | isim (e) | No agreste pernambucano, as feiras reúnem gente de toda a região. | Pernambuco'nun agreste bölgesinde pazarlar bütün yöreden insanları bir araya getirir.
+a área alagável | taşkına açık alan | isim (d) | Na área alagável, o gado é levado para lugares altos na cheia. | Taşkına açık alanda büyükbaş hayvanlar sel zamanı yüksek yerlere götürülür.
+o remanescente florestal | kalıntı orman parçası | isim (e) | Restam poucos remanescentes florestais da vegetação original do litoral. | Kıyının özgün bitki örtüsünden pek az kalıntı orman parçası kaldı.
+os pampas | pampalar (bozkır) | isim (çoğul) | Nos pampas gaúchos, a criação de gado é tradicional. | Rio Grande do Sul pampalarında hayvancılık gelenekseldir.
+a floresta tropical | tropikal yağmur ormanı | isim (d) | A floresta tropical regula as chuvas de boa parte do continente. | Tropikal yağmur ormanı kıtanın büyük bölümünün yağışlarını düzenler.
+o dossel | orman tacı (ağaç tepeleri katmanı) | isim (e) | Muitos animais vivem no dossel e nunca descem ao chão. | Birçok hayvan orman tacında yaşar ve hiç yere inmez.
+a vegetação rasteira | yer örtüsü (alçak bitki) | isim (d) | A vegetação rasteira cobre o solo nos campos do Sul. | Güneydeki çayırlarda alçak bitki örtüsü toprağı kaplar.
+a mata ciliar | nehir kenarı ormanı | isim (d) | A mata ciliar protege as margens dos rios contra a erosão. | Nehir kenarı ormanı kıyıları erozyona karşı korur.
+## Jeoloji
+a rocha | kayaç | isim (d) | A rocha do Pão de Açúcar tem milhões de anos. | Pão de Açúcar'ın kayacı milyonlarca yıllık.
+a rocha sedimentar | tortul kayaç | isim (d) | Os fósseis de peixes aparecem geralmente em camadas de rocha sedimentar. | Balık fosilleri genellikle tortul kayaç katmanlarında görülür.
+o granito | granit | isim (e) | As calçadas antigas da cidade são feitas de granito. | Şehrin eski kaldırımları granitten yapılmış.
+o calcário | kireçtaşı | isim (e) | As cavernas se formam quando a água dissolve o calcário. | Mağaralar su kireçtaşını eritince oluşur.
+o minério de ferro | demir cevheri | isim (e) | Minas Gerais é famosa pela extração de minério de ferro. | Minas Gerais demir cevheri çıkarımıyla ünlüdür.
+a jazida | maden yatağı | isim (d) | Encontraram uma nova jazida de nióbio no interior. | İç bölgede yeni bir niyobyum yatağı buldular.
+o sedimento | tortu | isim (e) | O rio deposita sedimentos que tornam a várzea fértil. | Nehir taşkın ovasını verimli kılan tortular bırakır.
+a voçoroca | derin erozyon yarığı | isim (d) | Uma voçoroca enorme ameaça engolir a estrada de terra. | Devasa bir erozyon yarığı toprak yolu yutmakla tehdit ediyor.
+o intemperismo | ayrışma (kayaç) | isim (e) | O intemperismo transforma rocha em solo ao longo do tempo. | Ayrışma zamanla kayacı toprağa dönüştürür.
+a camada | katman | isim (d) | Cada camada de rocha conta uma parte da história da Terra. | Her kayaç katmanı Dünya tarihinin bir bölümünü anlatır.
+## Levha tektoniği
+a placa tectônica | tektonik levha | isim (d) | O Brasil fica no meio de uma placa tectônica estável. | Brezilya kararlı bir tektonik levhanın ortasında yer alır.
+a falha geológica | fay hattı | isim (d) | A cidade foi construída sobre uma falha geológica ativa. | Şehir aktif bir fay hattı üzerine kurulmuş.
+o abalo sísmico | sarsıntı | isim (e) | Um pequeno abalo sísmico foi sentido no interior do Ceará. | Ceará'nın iç kesimlerinde küçük bir sarsıntı hissedildi.
+o epicentro | dış merkez | isim (e) | O epicentro do terremoto foi a cem quilômetros da costa. | Depremin dış merkezi kıyıdan yüz kilometre uzaktaydı.
+a magnitude | büyüklük (deprem) | isim (d) | O tremor teve magnitude de quatro graus na escala Richter. | Sarsıntının büyüklüğü Richter ölçeğine göre dört idi.
+o vulcanismo | volkanizma | isim (e) | O vulcanismo formou as ilhas dos Açores no meio do Atlântico. | Volkanizma Atlantik'in ortasında Azor adalarını oluşturdu.
+a lava | lav | isim (d) | A lava solidificada formou as praias negras da ilha. | Katılaşmış lav adanın siyah plajlarını oluşturdu.
+a erupção | patlama (yanardağ) | isim (d) | A última erupção do vulcão aconteceu no século dezenove. | Yanardağın son patlaması on dokuzuncu yüzyılda oldu.
+o maremoto | deniz depremi, dev dalga | isim (e) | O maremoto de 1755 atingiu Lisboa logo depois do terremoto. | 1755 dev dalgası depremden hemen sonra Lizbon'u vurdu.
+a deriva continental | kıtaların kayması | isim (d) | A deriva continental explica o encaixe entre a América do Sul e a África. | Kıtaların kayması Güney Amerika ile Afrika'nın birbirine uymasını açıklar.
+## Harita ve kartografya
+a cartografia | haritacılık | isim (d) | A cartografia portuguesa foi essencial para as navegações. | Portekiz haritacılığı deniz keşifleri için vazgeçilmezdi.
+a rosa dos ventos | rüzgârgülü (pusula) | isim (d) | A rosa dos ventos no canto do mapa indica o norte. | Haritanın köşesindeki rüzgârgülü kuzeyi gösteriyor.
+a curva de nível | eş yükselti eğrisi | isim (d) | As curvas de nível mostram a inclinação do terreno. | Eş yükselti eğrileri arazinin eğimini gösterir.
+o hemisfério | yarımküre | isim (e) | No hemisfério sul, o Natal acontece no verão. | Güney yarımkürede Noel yazın kutlanır.
+o trópico | dönence | isim (e) | São Paulo fica praticamente sobre o Trópico de Capricórnio. | São Paulo neredeyse Oğlak Dönencesi'nin üzerinde yer alır.
+o meridiano | meridyen | isim (e) | O meridiano de Greenwich divide o mundo em leste e oeste. | Greenwich meridyeni dünyayı doğu ve batı olarak ikiye ayırır.
+o equador | ekvator | isim (e) | A cidade de Macapá é cortada pela linha do equador. | Macapá şehrini ekvator çizgisi kesiyor.
+a projeção cartográfica | harita projeksiyonu | isim (d) | Toda projeção cartográfica distorce alguma parte do mundo. | Her harita projeksiyonu dünyanın bir kısmını çarpıtır.
+o georreferenciamento | coğrafi konumlandırma | isim (e) | O georreferenciamento das fazendas ajuda a controlar o desmatamento. | Çiftliklerin coğrafi konumlandırılması ormansızlaşmayı denetlemeye yardımcı olur.
+as coordenadas geográficas | coğrafi koordinatlar | isim (çoğul) | Anote as coordenadas geográficas do ponto de encontro. | Buluşma noktasının coğrafi koordinatlarını not et.
+## Meteoroloji
+o anticiclone | yüksek basınç alanı | isim (e) | Um anticiclone sobre o oceano bloqueia a chegada das chuvas. | Okyanus üzerindeki bir yüksek basınç alanı yağmurların gelişini engelliyor.
+a umidade relativa | bağıl nem | isim (d) | A umidade relativa do ar ficou abaixo de vinte por cento em Brasília. | Brasília'da havadaki bağıl nem yüzde yirminin altına düştü.
+a precipitação | yağış | isim (d) | A precipitação anual na Amazônia passa de dois mil milímetros. | Amazon'da yıllık yağış iki bin milimetreyi aşar.
+a seca prolongada | uzun süreli kuraklık | isim (d) | A seca prolongada baixou o nível dos reservatórios do Sudeste. | Uzun süreli kuraklık Güneydoğudaki barajların seviyesini düşürdü.
+a cerração | koyu sis | isim (d) | A cerração na serra fechou a estrada durante toda a manhã. | Dağdaki koyu sis bütün sabah boyunca yolu kapattı.
+o vendaval | fırtına (şiddetli rüzgâr) | isim (e) | O vendaval derrubou árvores e destelhou casas. | Fırtına ağaçları devirdi ve evlerin çatılarını uçurdu.
+o ciclone extratropical | ekstratropikal siklon | isim (e) | Um ciclone extratropical atingiu a costa de Santa Catarina. | Bir ekstratropikal siklon Santa Catarina kıyısını vurdu.
+a nevasca | kar fırtınası | isim (d) | Uma nevasca rara cobriu de branco as cidades altas de Santa Catarina. | Nadir bir kar fırtınası Santa Catarina'nın yüksek kasabalarını beyaza bürüdü.
+o El Niño | El Niño | isim (e) | O El Niño costuma trazer seca ao Nordeste brasileiro. | El Niño genellikle Brezilya'nın Kuzeydoğusuna kuraklık getirir.
+a previsão meteorológica | hava tahmini (resmî) | isim (d) | A previsão meteorológica indica temporais à tarde. | Hava tahmini öğleden sonra sağanak gösteriyor.
+## Coğrafi fiil ve sıfatlar
+desaguar | dökülmek (nehir denize) | fiil | O rio Amazonas deságua no oceano Atlântico perto do equador. | Amazon nehri ekvatorun yakınında Atlas Okyanusu'na dökülür.
+transbordar | taşmak | fiil | Depois de três dias de chuva, o rio transbordou e invadiu as ruas. | Üç günlük yağmurdan sonra nehir taştı ve sokakları bastı.
+assorear | tortuyla dolmak (nehir yatağı) | fiil | O desmatamento das margens fez o rio assorear rapidamente. | Kıyıların ormansızlaşması nehir yatağının hızla tortuyla dolmasına yol açtı.
+desertificar | çölleşmek, çölleştirmek | fiil | O uso excessivo do solo pode desertificar regiões inteiras. | Toprağın aşırı kullanımı bütün bölgeleri çölleştirebilir.
+árido | kurak | sıfat | O interior árido do Nordeste depende de cisternas para ter água. | Kuzeydoğunun kurak iç kesimleri su için sarnıçlara bağımlı.
+acidentado | engebeli | sıfat | O terreno acidentado da serra exige motoristas experientes. | Dağlık bölgenin engebeli arazisi deneyimli sürücüler gerektirir.
+íngreme | dik (yokuş) | sıfat | A trilha íngreme até a cachoeira leva quase duas horas. | Şelaleye giden dik patika neredeyse iki saat sürüyor.
+fértil | verimli (toprak) | sıfat | A terra roxa do Paraná é extremamente fértil. | Paraná'nın kızıl toprağı son derece verimlidir.
+continental | kıtasal | sıfat | Com dimensões continentais, o Brasil tem paisagens muito diversas. | Kıta büyüklüğündeki Brezilya çok çeşitli manzaralara sahiptir.
+insular | adaya ait, ada | sıfat | A população insular depende do barco para chegar ao continente. | Ada nüfusu anakaraya ulaşmak için tekneye bağımlı.
