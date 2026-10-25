@@ -1,0 +1,111 @@
+# UNIT: Arquitetura e construção | Projeto, sistema estrutural, canteiro de obras, instalações
+## Design arquitetônico
+façade | fachada | A fachada original de pedra foi preservada, enquanto o interior foi completamente reconstruído.
+elevation | elevação, fachada (desenho) | A elevação norte mostra como as janelas se alinham com os andares atrás delas.
+cross-section | corte, seção transversal | Um corte através do edifício revela o andar técnico oculto acima do saguão.
+site plan | plano de locação, planta de locação | O plano de locação marca cada árvore que deve ser protegida durante as obras.
+atrium (atria) | átrio, saguão interno | A luz natural entra nos escritórios através de um átrio com cobertura de vidro.
+mezzanine | mezanino | O arquiteto adicionou um mezanino para aproveitar o pé-direito alto.
+courtyard | pátio interno, pátio | Os apartamentos estão dispostos em torno de um pátio silencioso plantado com oliveiras.
+cornice | cornija, cimalha | Uma seção da cornija em desmoronamento caiu na calçada no inverno passado.
+parapet | parapeito | O terraço da cobertura é cercado por um parapeito baixo de tijolos.
+colonnade | colunata, peristilo | Os visitantes entram no museu através de uma longa colunata voltada para o rio.
+## Estilos e elementos arquitetônicos
+buttress | contraforte, arCO-botante | Contrafortes maciços de pedra impedem que as paredes da catedral se inclinem para fora.
+vault | abóbada | O teto da adega antiga é uma abóbada baixa de tijolos.
+spire | torre espiral, pináculo | A torre da igreja pode ser vista de quase todos os cantos da vila.
+keystone | chave de abóbada, pedra de fecho | Sem a chave de abóbada no topo, todo o arco desabaria.
+gable | empenas, frontão pontiagudo | Cada casa na rua tem uma empena íngreme voltada para o canal.
+pediment | frontão | A entrada do banco é coroada por um frontão triangular com figuras esculpidas.
+cupola | cúpula, lanternim | Uma pequena cúpula no telhado permite a entrada de luz na escadaria central.
+minimalist | minimalista | Camille prefere interiores minimalistas com paredes nuas e muito poucos móveis.
+ornate | ornamentado, rebuscado | As varandas ornamentadas do teatro foram restauradas usando os desenhos originais.
+brutalist | brutalista | Alguns moradores adoram a biblioteca brutalista, enquanto outros acham seu concreto aparente deprimente.
+## Projeto e licitação
+invitation to tender | convite para licitação, chamada pública | Cinco firmas responderam ao convite para licitação da nova ala do hospital.
+bill of quantities | planilha de quantidades, orçamento descritivo | Cada item da planilha de quantidades deve ser precificado antes do prazo final.
+specification | especificação técnica, caderno de encargos | A especificação técnica exige painéis resistentes ao fogo em todas as paredes dos corredores.
+feasibility study | estudo de viabilidade | O estudo de viabilidade concluiu que o antigo armazém poderia ser convertido em apartamentos.
+as-built drawing | projeto como construído, desenho as-built | O cliente pediu desenhos as-built mostrando exatamente onde cada tubo foi instalado.
+variation order | ordem de alteração, termo aditivo | Nenhum trabalho extra deve começar até que a ordem de alteração seja assinada.
+subcontractor | subempreiteiro, subcontratado | O trabalho elétrico foi entregue a um subempreiteiro especializado.
+cost overrun | estouro de orçamento, custo excedente | Atrasos nas entregas de aço levaram a um sério estouro de orçamento.
+progress payment | medição de progresso, pagamento por etapa | A equipe do canteiro prepara a medição mensal na última sexta-feira de cada mês.
+liquidated damages | indenização contratual por atraso, multa rescisória | Se a entrega atrasar, o empreiteiro deve pagar indenização por atraso para cada dia.
+## Sistema estrutural
+load-bearing wall | parede estrutural, parede de carga | Você simplesmente não pode derrubar uma parede estrutural sem adicionar uma viga de aço.
+beam | viga | Rachaduras apareceram ao longo da viga principal após a adição do andar extra.
+slab | laje | Os engenheiros verificaram a espessura da laje antes de aprovar o maquinário pesado.
+footing | sapatas, fundação rasa | Cada coluna repousa sobre uma sapata de concreto armada com cerca de dois metros de largura.
+cantilever | balanço, estrutura em balanço | A varanda é um balanço que se projeta três metros além da parede.
+lintel | verga | Uma verga de concreto atravessa o topo da nova abertura de porta.
+truss | treliça | Treliças de madeira sustentam o telhado do ginásio esportivo sem colunas internas.
+shear wall | parede de cisalhamento, parede de contravevento | Paredes de cisalhamento ajudam a torre a resistir a ventos fortes e terremotos.
+deflection | deflexão, flecha | A deflexão do piso sob carga total permaneceu dentro dos limites aceitáveis.
+load-bearing capacity | capacidade de carga | Os engenheiros testaram a capacidade de carga da ponte antiga antes de reabri-la.
+## Materiais de construção
+rebar | vergalhão, aço para armadura | Os trabalhadores amarraram o vergalhão com arame antes de o concreto ser derramado.
+formwork | fôrma, molde de concreto | A fôrma pode ser removida assim que o concreto ganhar resistência suficiente.
+ready-mixed concrete | concreto usinado, concreto pronto | A qualidade do concreto usinado tem um efeito direto na resistência da estrutura.
+mortar | argamassa | A argamassa velha entre as pedras teve de ser raspada e substituída.
+stucco | estuque, reboco externo | As paredes externas precisam de duas demãos de estuque antes de poderem ser pintadas.
+screed | contrapiso, argamassa de nivelamento | Ninguém pode caminhar sobre o contrapiso fresco por pelo menos dois dias.
+precast | pré-moldado, pré-fabricado | Painéis de concreto pré-moldado permitiram que a escola fosse concluída em um único verão.
+timber frame | estrutura de madeira, enxaimel | Casas com estrutura de madeira são rápidas de construir e mantêm bem o calor.
+girder | viga mestra, perfil metálico estrutural | Uma enorme viga mestra foi içada para o lugar acima da entrada do shopping center.
+waterproofing | impermeabilização | A impermeabilização deficiente no porão levou a manchas de umidade em todas as paredes.
+## Terraplanagem e solo
+earthworks | terraplanagem, serviços de terra | Os trabalhos de terraplanagem para o estacionamento subterrâneo levaram quase três meses.
+backfill | reaterro | A vala foi fechada com reaterro compactado assim que os tubos foram testados.
+pile | estaca de fundação | Como o solo é macio, a torre repousa sobre estacas cravadas a quarenta metros de profundidade.
+retaining wall | muro de arrimo | Um muro de arrimo impede que a encosta deslize para a estrada.
+groundwater | lençol freático, água subterrânea | As bombas funcionaram dia e noite porque o lençol freático continuava inundando a escavação.
+soil investigation | sondagem de solo, investigação geotécnica | A sondagem de solo revelou uma camada de argila logo abaixo da superfície.
+compaction | compactação | A compactação adequada de cada camada evita que a estrada afunde mais tarde.
+trench | vala, trincheira | A equipe de Ali cavou uma vala estreita para a nova rede principal de água.
+dewatering | rebaixamento do lençol freático, esgotamento | O rebaixamento do lençol freático teve de continuar até que as fundações estivessem completamente vedadas.
+differential settlement | recalque diferencial | O recalque diferencial causou o surgimento de rachaduras nas paredes da casa antiga.
+## Vida no canteiro de obras
+site manager | mestre de obras, gerente de canteiro | O gerente de canteiro caminha por todo o projeto todas as manhãs antes das oito.
+hard hat | capacete de segurança | Os visitantes não têm permissão para passar pelo portão sem capacete de segurança.
+high-visibility vest | colete refletivo, colete de alta visibilidade | Todos no canteiro devem usar colete refletivo perto de veículos em movimento.
+toolbox talk | diálogo diário de segurança, reunião de caixa de ferramentas | A reunião de segurança de hoje concentrou-se no trabalho seguro em altura.
+site office | escritório de canteiro | A reunião semanal de coordenação é realizada no escritório de canteiro às segundas-feiras.
+hoist | elevador de carga, talha | Os materiais são transportados para os andares superiores por um elevador de carga temporário.
+pour | concretagem, lançamento de concreto | A concretagem da laje do terceiro andar começou ao amanhecer e terminou após o anoitecer.
+curing | cura do concreto | Em clima quente, a cura cuidadosa evita que o concreto trinca.
+snag list | lista de pendências, lista de inconformidades | A lista de pendências ainda inclui azulejos soltos e uma porta que não fecha.
+handover | entrega de obra, repasse | A entrega do edifício ao cliente está planejada para o final de abril.
+## Instalações mecânicas
+ductwork | dutos de ventilação, tubulação de ar | Os dutos de ventilação ficam ocultos acima de um teto rebaixado em cada escritório.
+riser | prumada, coluna de instalações | Todos os tubos de água e gás passam por uma prumada vertical ao lado do elevador.
+HVAC | sistema HVAC, climatização | O sistema HVAC responde por quase metade do consumo de energia do edifício.
+sprinkler system | sistema de sprinklers, sistema de combate a incêndio | Um sistema de sprinklers apagou o fogo antes que ele atingisse o armazém.
+drainage | drenagem, sistema de escoamento | A drenagem deficiente ao redor das fundações fez com que a água se acumulasse após cada tempestade.
+manhole | poço de visita, bueiro | Um trabalhador desceu pelo poço de visita para inspecionar o esgoto entupido.
+stopcock | registro de fechamento, válvula de interrupção | Antes de trocar a torneira, Lukas fechou o registro sob a pia.
+underfloor heating | piso aquecido, calefação de piso | O piso aquecido mantém os pisos de pedra quentes mesmo em janeiro.
+air handling unit | unidade de tratamento de ar, UTA | A unidade de tratamento de ar no telhado fornece ar fresco para todos os seis andares.
+plumbing | encanamento, instalações hidráulicas | O encanamento do prédio antigo teve de ser substituído de alto a baixo.
+## Eletricidade e segurança contra incêndio
+wiring | fiação elétrica, cablagem | O inspetor descobriu que grande parte da fiação tinha mais de quarenta anos.
+switchboard | quadro elétrico, painel de distribuição | Cada circuito do edifício está identificado no quadro elétrico principal.
+circuit breaker | disjuntor | O disjuntor disparou assim que o novo forno foi ligado.
+earthing | aterramento elétrico | Um aterramento defeituoso pode transformar uma pia de metal em um grave perigo.
+conduit | eletroduto, conduíte | Os cabos passam por um eletroduto de plástico embutido nas paredes.
+cable tray | leito para cabos, canaleta de cabos | Linhas pesadas de energia são assentadas em leitos para cabos ao longo do teto do porão.
+fire door | porta corta-fogo | Uma porta corta-fogo nunca deve ser mantida aberta com uma cadeira.
+fire escape | escada de incêndio externa | O hotel antigo foi intimado a instalar uma escada de incêndio externa.
+smoke detector | detector de fumaça | Um detector de fumaça está instalado em cada sala e corredor.
+emergency lighting | iluminação de emergência | A iluminação de emergência é testada uma vez por mês pela equipe de instalações.
+## Acabamentos e processo de entrega
+finishing works | serviços de acabamento, acabamentos | A estrutura está pronta, mas os acabamentos levarão mais seis meses.
+drywall | drywall, parede de gesso acartonado | Os escritórios são divididos por divisórias de drywall que podem ser movidas depois.
+cladding | revestimento de fachada, revestimento externo | Após o incêndio, todo o revestimento inflamável foi removido da torre.
+joinery | marcenaria | A marcenaria sob medida na biblioteca foi feita por uma oficina local.
+grout | rejunte, argamassa de rejuntamento | Sofia escolheu um rejunte cinza escuro para que os azulejos do banheiro fiquem limpos por mais tempo.
+skirting board | rodapé | Os pintores protegeram os rodapés com fita antes de começar nas paredes.
+sealant | selante, silicone vedante | Um cordão de selante de silicone impede a entrada de água na fenda ao redor da janela.
+occupancy permit | habite-se, licença de ocupação | Os moradores não podem se mudar até que o habite-se seja emitido.
+defects liability period | prazo de garantia de obra, período de responsabilidade por vícios | Qualquer vazamento encontrado durante o prazo de garantia deve ser reparado às custas do empreiteiro.
+commissioning | comissionamento | O comissionamento do sistema de aquecimento revelou duas bombas defeituosas.

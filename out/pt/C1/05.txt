@@ -1,0 +1,111 @@
+# UNIT: Discurso sobre ciência e tecnologia | Inteligência artificial, biotecnologia, energia, sociedade digital
+## Inteligência artificial
+generative | gerador, gerativa | Ferramentas gerativas agora podem criar imagens realistas a partir de uma breve descrição.
+reinforcement learning | aprendizado por reforço | Por meio do aprendizado por reforço, o programa aprendeu sozinho a jogar xadrez.
+deep learning | aprendizado profundo | O aprendizado profundo transformou o reconhecimento de fala na última década.
+training data | dados de treinamento | Se os dados de treinamento forem tendenciosos, as decisões do modelo também serão.
+language model | modelo de linguagem | O modelo de linguagem pode resumir um relatório longo em poucos segundos.
+hallucination | alucinação (erro de IA) | Sempre verifique as fontes, pois uma alucinação pode parecer muito convincente.
+virtual assistant | assistente virtual | O assistente virtual responde à maioria das perguntas sobre bagagem perdida.
+robotics | robótica | Lukas está cursando mestrado em robótica e sistemas de controle.
+computer vision | visão computacional | A visão computacional permite que o carro identifique pedestres à noite.
+fine-tune | ajustar com precisão, refinar | A equipe ajustou o modelo com precisão usando milhares de relatórios médicos.
+## Veri ve hesaplama
+big data | big data, grandes volumes de dados | Os varejistas usam big data para prever o que os clientes comprarão em seguida.
+cloud computing | computação em nuvem | A computação em nuvem permite que pequenas empresas aluguem poder de processamento em vez de comprar servidores.
+processing power | poder de processamento | Treinar um modelo assim exige quantidades enormes de poder de processamento.
+quantum computing | computação quântica | A computação quântica um dia poderá quebrar os métodos de criptografia atuais.
+encryption | criptografia | A criptografia de ponta a ponta significa que apenas o remetente e o destinatário podem ler as mensagens.
+throughput | vazão, taxa de transferência | Os novos chips dobraram a vazão dos servidores da empresa.
+latency | latência | A baixa latência é crucial para jogos online e cirurgias remotas.
+semiconductor | semicondutor | Uma escassez global de semicondutores atrasou a produção de carros por meses.
+data centre | data center, centro de dados | O novo data center usa água do mar para resfriar seus servidores.
+computational | computacional | Modelos computacionais ajudaram os cientistas a prever como o vírus se espalharia.
+## Biyoteknoloji
+biotechnology | biotecnologia | A biotecnologia agora é um dos setores de crescimento mais rápido na região.
+genome | genoma | Os cientistas mapearam todo o genoma da planta de trigo.
+gene editing | edição genética | A edição genética levanta perguntas difíceis sobre o que é natural.
+stem cell | célula-tronco | A pesquisa com células-tronco oferece esperança a pacientes com lesões na medula espinhal.
+cloning | clonagem | Muitos países proibiram a clonagem de seres humanos.
+transgenic | transgênico | Culturas transgênicas continuam controversas em partes da Europa.
+sequencing | sequenciamento | O custo do sequenciamento de DNA caiu drasticamente em vinte anos.
+enzyme | enzima | Esta enzima decompõe o plástico muito mais rápido do que os cientistas esperavam.
+synthetic biology | biologia sintética | A biologia sintética visa projetar organismos capazes de produzir combustível.
+gene therapy | terapia gênica | A terapia gênica restaurou parcialmente a visão de vários pacientes no estudo clínico.
+## Tıp teknolojisi
+biomarker | biomarcador | Os pesquisadores encontraram um biomarcador que pode sinalizar a doença anos antes.
+diagnostics | diagnósticos, métodos de diagnóstico | Diagnósticos mais rápidos poderiam salvar milhares de vidas todos os anos.
+bionic | biônico | O atleta corre com uma perna biônica que se ajusta a cada passo.
+prosthesis (prostheses) | prótese | A nova prótese responde diretamente aos sinais dos músculos.
+implant | implante | Um pequeno implante ajuda o paciente a controlar o tremor nas mãos.
+telemedicine | telemedicina | A telemedicina permite que os moradores de vilarejos consultem especialistas sem viajar.
+nanotechnology | nanotecnologia | A nanotecnologia pode permitir que medicamentos cheguem diretamente às células cancerígenas.
+medical imaging | imagem médica | Os avanços na imagem médica tornaram muitas cirurgias muito menos invasivas.
+precision medicine | medicina de precisão | A medicina de precisão adapta o tratamento ao perfil genético de cada paciente.
+clinical trial | ensaio clínico, pesquisa clínica | A vacina está agora entrando na fase final de seu ensaio clínico.
+## Enerji kaynakları
+photovoltaic | fotovoltaico | Painéis fotovoltaicos agora cobrem o telhado de toda a fábrica.
+solar farm | usina solar, fazenda solar | Uma enorme usina solar agora se ergue onde costumava ser a antiga mina de carvão.
+power grid | rede elétrica | A rede elétrica lutou para lidar com a onda de calor repentina.
+fission | fissão | As usinas nucleares de hoje produzem energia por meio de fissión.
+fusion | fusão | A fusão promete energia quase ilimitada, mas ainda está a décadas de distância.
+hydrogen | hidrogênio | Alguns trens no norte da Europa já funcionam a hidrogênio.
+fuel cell | célula de combustível | O ônibus é movido por uma célula de combustível que emite apenas água.
+energy storage | armazenamento de energia | O armazenamento de energia barato é a peça que falta no quebra-cabeça renovável.
+geothermal | geotérmico | A Islandia aquece a maioria de suas casas com energia geotérmica.
+tidal power | energia maremotriz, energia das marés | A baía estreita é um local ideal para gerar energia maremotriz.
+## Karbon ve verimlilik
+emissions trading | comércio de emissões | O comércio de emissões permite que as empresas comprem e vendam licenças para poluir.
+decarbonise | descarbonizar | A indústria pesada é o setor mais difícil de descarbonizar.
+carbon capture | captura de carbono | A tecnologia de captura de carbono ainda é muito cara para a maioria das usinas de energia.
+carbon offset | compensação de carbono | Diego compra uma compensação de carbono toda vez que faz um voo de longa distância.
+smart meter | medidor inteligente | O medidor inteligente mostra exatamente quanta eletricidade usamos a cada hora.
+retrofit | modernizar, adaptar (edifícios ou sistemas) | O conselho planeja modernizar antigos apartamentos com melhor isolamento.
+electric vehicle | veículo elétrico | As vendas de veículos elétricos dobraram no país no ano passado.
+charging station | estação de recarga, posto de carregamento | Ainda não há nenhuma estação de recarga na rodovia entre as duas cidades.
+biofuel | biocombustível | Os críticos argumentam que cultivar plantações para biocombustível aumenta os preços dos alimentos.
+energy-efficient | eficiente em termos energéticos | Aparelhos eficientes em termos energéticos custam mais, mas economizam dinheiro a longo prazo.
+## Dijital toplum
+smart city | cidade inteligente | Em uma cidade inteligente, os sensores ajustam os semáforos de acordo com o tráfego em tempo real.
+connectivity | conectividade | A conectividade precária em áreas rurais torna o trabalho remoto quase impossível.
+e-government | governo eletrônico, e-gov | Graças aos serviços de governo eletrônico, Emre renovou sua carteira de motorista em dez minutos.
+gig economy | economia dos bicos, gig economy | Muitos entregadores na economia dos bicos não têm férias remuneradas.
+digital literacy | letramento digital | As escolas deveriam ensinar o letramento digital junto com leitura e matemática.
+attention economy | economia da atenção | Na economia da atenção, os aplicativos competem por cada minuto do nosso dia.
+soundbite | citação sonora de efeito, frase de efeito | Descobertas científicas complexas geralmente são reduzidas a uma única frase de efeito nos telejornais.
+content moderation | moderação de conteúdo | A moderação de conteúdo em grandes plataformas geralmente é feita por trabalhadores mal pagos.
+screen time | tempo de tela | Os médicos recomendam limitar o tempo de tela para crianças pequenas.
+digital footprint | pegada digital | Tudo o que você posta online se soma à sua pegada digital permanente.
+## Siber güvenlik
+spyware | spyware, software espía | Os investigadores encontraram spyware oculto no telefone do jornalista.
+botnet | botnet, rede de computadores zumbis | Os criminosos usaram uma botnet de roteadores domésticos infectados para enviar spam.
+denial-of-service attack | ataque de negação de serviço | Um ataque de negação de serviço tirou o site do ministério do ar por horas.
+penetration testing | teste de intrusão, pentest | O banco contrata hackers éticos para realizar testes de intrusão todos os anos.
+zero-day | dia zero, zero-day (falha) | Os invasores exploraram uma falha de dia zero antes mesmo que os desenvolvedores soubessem de sua existência.
+biometric | biométrico | Verificações biométricas, como impressões digitais, agora são comuns no controle de fronteiras.
+hacktivist | hacktivista | Um grupo de hacktivistas desfigurou o site da empresa em protesto.
+end-to-end | de ponta a ponta | A proteção de ponta a ponta significa que ninguém no meio pode ler seus arquivos.
+vulnerability | vulnerabilidade | Os engenheiros lançaram uma atualização para corrigir uma grave vulnerabilidade no aplicativo.
+backdoor | backdoor, porta dos fundos | Os especialistas alertaram que uma porta dos fundos para a polícia também poderia ser usada por criminosos.
+## Uzay teknolojisi
+launch vehicle | veículo lançador, foguete lançador | O veículo lançador levou três satélites meteorológicos para o espaço de uma só vez.
+reusable | reutilizável | Foguetes reutilizáveis reduziram drasticamente o custo de alcançar o espaço.
+payload | carga útil | A carga útil do foguete incluía um pequeno telescópio construído por estudantes.
+low Earth orbit | órbita baixa da Terra | Milhares de pequenos satélites agora orbitam o planeta na órbita baixa da Terra.
+space debris | detrito espacial, lixo espacial | Até mesmo um pequeno pedaço de detrito espacial pode danificar seriamente um satélite.
+propulsion | propulsão | Os engenheiros estão testando uma nova forma de propulsão elétrica para missões no espaço profundo.
+geostationary | geoestacionário | Um satélite geoestacionário permanece acima do mesmo ponto na linha do equador.
+space probe | sonda espacial | A sonda espacial enviou imagens detalhadas dos anéis de Saturno.
+re-entry | reentrada | O escudo térmico da cápsula deve suportar o calor extremo da reentrada.
+microgravity | microgravidade | Plantas cultivadas em microgravidade desenvolvem raízes em direções inesperadas.
+## İnovasyon ve etik
+proof of concept | prova de conceito | O pequeno teste serviu como prova de conceito para o novo design de bateria.
+prototype | protótipo | Os engenheiros testaram o primeiro protótipo em um túnel de vento.
+game-changer | marco revolucionário, jogo virado | Baterias baratas podem ser um marco revolucionário para vilarejos remotos.
+cutting-edge | de ponta | O laboratório está equipado com microscópios de ponta de vários países.
+legacy system | sistema legado | O banco ainda executa seus pagamentos em um sistema legado dos anos oitenta.
+early adopter | pioneiro na adoção, early adopter | Como um adotante pioneiro, Yuki comprou o headset no primeiro dia de vendas.
+research and development | pesquisa e desenvolvimento (P&D) | A firma gasta um quinto de sua renda em pesquisa e desenvolvimento.
+dual-use | de duplo uso (civil e militar) | Controles de exportação se aplicam a tecnologias de duplo uso, como drones avançados.
+algorithmic bias | viés algorítmico | Os especialistas alertam que o viés algorítmico pode levar a decisões de contratação injustas.
+precautionary principle | princípio da precaução | Sob o princípio da precaução, novos produtos químicos devem primeiro ter sua segurança comprovada.

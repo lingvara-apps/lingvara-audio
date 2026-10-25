@@ -1,0 +1,111 @@
+# UNIT: Jargão de Escritório e TI | gíria corporativa, linguagem de software, gíria financeira
+## Clichês corporativos
+synergy | sinergia, integração (clichê) | A gerência vive falando em sinergia, mas os dois departamentos ainda se recusam a compartilhar dados.
+pain point | ponto crítico, dor do cliente | Nossa pesquisa mostra que a entrega lenta é o maior ponto crítico dos clientes.
+buy-in | adesão, apoio (jargão) | Sem a adesão da equipe sênior, o novo sistema nunca vai funcionar.
+deliverable | entrega, resultado a entregar | A primeira entrega é um relatório completo sobre o feedback dos clientes até sexta-feira.
+boil the ocean | tentar o impossível, dar um passo maior que a perna | Vamos nos focar em um mercado primeiro; não adianta tentar dar um passo maior que a perna.
+circle back | retomar um assunto depois | Boa pergunta, Omar; podemos retomar esse assunto depois da revisão do orçamento?
+low-hanging fruit | frutos fáceis, vitórias fáceis | Antes de redesenhar o site inteiro, vamos pegar os frutos fáceis e consertar os links quebrados.
+move the needle | fazer a diferença, trazer resultados expressivos | Um logo novo é legal, mas não vai fazer muita diferença nas vendas.
+paradigm shift | mudança de paradigma | O trabalho remoto causou uma mudança de paradigma em como as empresas pensam sobre escritórios.
+value-add | valor agregado (jargão) | Nosso verdadeiro valor agregado é o suporte pessoal que damos a cada cliente após a venda.
+## Jargão de reuniões
+drill down | aprofundar-se em detalhes | Vamos nos aprofundar nos números e descobrir qual região está perdendo dinheiro.
+deep dive | análise aprofundada, mergulho profundo | Semana que vem faremos uma análise aprofundada sobre por que os clientes cancelam suas assinaturas.
+take something offline | discutir em particular, tirar de pauta | Isso está ficando detalhado demais para todo mundo, então vamos discutir isso em particular.
+ping | mandar uma mensagem rápida | É só me mandar uma mensagem rápida quando o arquivo estiver pronto e eu reviso na hora.
+heads-up | aviso prévio, toque | Valeu pelo aviso prévio sobre a auditoria; vou preparar os arquivos hoje à noite.
+all-hands | reunião geral da empresa | O CEO anunciou a fusão em uma reunião geral na quinta-feira de manhã.
+parking lot | lista de pendências para depois (reunião) | É um bom ponto, mas vamos colocar na lista de pendências e voltar à pauta.
+alignment | alinhamento (jargão) | Precisamos de total alinhamento entre vendas e marketing antes de a campanha começar.
+run it up the flagpole | testar a recepção de uma ideia | É só uma ideia rascunhada, mas vamos testá-la para ver quem apoia.
+bikeshedding | perder tempo com detalhes irrelevantes | Passamos quarenta minutos discutindo detalhes irrelevantes sobre a cor de um botão que ninguém vai notar.
+## Gíria do escritório
+water-cooler chat | conversa de corredor, fofoca de escritório | A maior parte das notícias reais nesta empresa se espalha em conversas de corredor.
+hot-desking | sistema de mesas rotativas | Desde a mudança para o sistema de mesas rotativas, ninguém consegue achar uma mesa perto da janela.
+busywork | trabalho de fachada, linguiça | A estagiária passou a primeira semana fazendo trabalho de fachada, como organizar arquivos antigos.
+presenteeism | presenteísmo (ficar no trabalho mesmo doente) | O presenteísmo é um problema real: as pessoas vêm doentes só para serem vistas em suas mesas.
+jobsworth | funcionário inflexível que segue regras à risca | Um funcionário inflexível na recepção não quis me deixar entrar sem o crachá de visitante.
+pen-pusher | burocrata, funcionário que só mexe com papéis | Ele odeia ser tratado como um mero burocrata quando tem diploma de engenharia.
+wage slave | escravo do salário (gíria) | Omar se sentia como um escravo do salário, trabalhando sessenta horas por semana para uma empresa de que não gostava.
+grind | rotina extenuante, labuta | De volta à rotina extenuante amanhã, infelizmente.
+clock-watcher | funcionário que só pensa na hora de ir embora | Diego é um verdadeiro relogiero; o casaco dele está vestido faltando cinco para as cinco todo dia.
+dogsbody | faz-tudo, pau para toda obra | Como o membro mais novo da equipe, fui o faz-tudo de todo mundo por meses.
+## Gíria de carreira e gestão
+golden handcuffs | algemas de ouro (benefícios para reter funcionários) | O plano de bônus funciona como algemas de ouro: se você sair cedo, perde tudo.
+golden parachute | paraquedas dourado (indenização milionária para executivos) | Os acionistas ficaram furiosos com o paraquedas dourado do CEO após a falha na fusão.
+high-flyer | funcionário brilhante e de rápido crescimento | Ali era visto como um funcionário brilhante e virou gerente antes dos trinta.
+deadwood | peso morto, funcionários improdutivos | O novo diretor prometeu cortar o peso morto de cada departamento.
+rightsizing | redimensionamento (termo corporativo para demissões) | O memorando chamava de redimensionamento, mas todo mundo sabia que significava demissões.
+glass ceiling | teto de vidro | Ela foi a primeira mulher na empresa a romper o teto de vidro.
+rainmaker | "fazedor de chuva", quem traz grandes negócios | Todo escritório de advocacia quer um "fazedor de chuva" que traga grandes clientes.
+corner office | sala da diretoria, escritório de luxo | Depois de quinze anos de trabalho duro, Emre finalmente conseguiu a sala da diretoria.
+yes-man | puxa-saco, lambe-botas | O novo gerente se cercou de puxa-saco que nunca o questionavam.
+garden leave | afastamento remunerado (durante aviso prévio) | Após pedir demissão, Yuki foi colocada em afastamento remunerado para não levar clientes para a concorrência.
+## Linguagem de desenvolvimento de software
+codebase | base de código | A base de código é tão antiga que ninguém ousa mexer no módulo de pagamento.
+refactor | refatorar, reorganizar o código | Antes de adicionar novos recursos, devemos refatorar essa função bagunçada.
+legacy code | código legado | Maria passou o sprint inteiro desatando o nó de um código legado escrito quinze anos atrás.
+technical debt | dívida técnica | Cada atalho que tomamos agora aumenta nossa dívida técnica mais tarde.
+hotfix | correção rápida, hotfix | Lançamos um hotfix à meia-noite depois que a página de login parou de funcionar.
+roll back | reverter para uma versão anterior | A atualização travou o aplicativo, então tivemos que reverter para a versão anterior.
+deploy | colocar em produção, implantar | Nunca fazemos deploy às sextas-feiras, porque ninguém quer consertar bugs no fim de semana.
+pull request | solicitação de pull, pull request | Por favor, abra um pull request para que o resto da equipe possa revisar suas alterações.
+backlog | fila de tarefas, backlog | O backlog agora tem mais de trezentos chamados que ninguém olhou.
+scope creep | aumento descontrolado do escopo | Graças ao aumento descontrolado do escopo, um projeto de duas semanas já levou quatro meses.
+## Erros e depuração
+edge case | caso limite, situação atípica | O app funciona bem até alguém digitar um nome com apóstrofe, um clássico caso limite.
+workaround | contorno, solução alternativa | Ainda não há correção, mas há um contorno: exporte o arquivo como texto primeiro.
+kludge | solução remendada, gambiarra | O sistema inteiro se segura por uma gambiarra que só a Camille entende.
+spaghetti code | código macarrônico, código confuso | Ninguém quer dar manutenção naquele código macarrônico, então ele não é atualizado há anos.
+regression | regressão (erro que reaparece) | A nova atualização introduziu uma regressão: o botão de exportar não funciona mais.
+race condition | condição de corrida | Descobriu-se que as travas aleatórias eram causadas por uma condição de corrida entre duas threads.
+memory leak | vazamento de memória | Depois de algumas horas o servidor fica lento, o que sugere um vazamento de memória.
+stack trace | rastro da pilha, stack trace | Cole o rastro da pilha completo no chamado para podermos ver onde falhou.
+rubber duck debugging | depuração com patinho de borracha | A depuração com patinho de borracha funciona: explicar o código em voz alta geralmente revela o erro.
+dogfooding | uso interno do próprio produto | O uso interno do produto nos ajudou a achar dezenas de bugs irritantes antes dos clientes.
+## Suporte de TI e jargão de usuários
+power user | usuário avançado | Usuários avançados querem atalhos de teclado, e não botões mais coloridos.
+end user | usuário final | A interface deve ser simples o suficiente para um usuário final sem treinamento técnico.
+technophobe | tecnofóbico, aversivo à tecnologia | Meu tio é um tecnofóbico convicto que ainda se recusa a ter um smartphone.
+factory reset | redefinição de fábrica | Se nada mais funcionar, uma redefinição de fábrica vai apagar o celular e reiniciá-lo do zero.
+admin rights | privilégios de administrador (plural) | Você não pode instalar esse software sem privilégios de administrador no seu notebook.
+outage | queda de serviço, pane | Uma pane de seis horas deixou milhares de clientes sem conseguir acessar suas contas.
+sysadmin | administrador de sistemas | Peça para o administrador de sistemas redefinir sua senha; ela é a única com acesso.
+helpdesk | suporte técnico, helpdesk | Abri um chamado no suporte técnico, mas eles ainda não responderam.
+user error | erro do usuário | O engenheiro sorriu educadamente e disse que o problema era erro do usuário.
+turn it off and on again | desligar e religar (clichê de suporte) | Antes de ligar para o suporte, você já tentou desligar e religar?
+## Mundo das startups
+unicorn | unicórnio (startup avaliada em mais de 1 bilhão) | Em três anos, o pequeno aplicativo de entrega de comida tinha virado um unicórnio.
+angel investor | investidor-anjo | Um engenheiro aposentado se tornou o primeiro investidor-anjo deles, investindo cinquenta mil libras.
+runway | autonomia de caixa, fôlego financeiro | Com nossas economias atuais, temos cerca de oito meses de fôlego financeiro.
+burn rate | taxa de consumo de caixa | Os investidores estavam preocupados com a taxa de consumo de caixa da empresa de dois milhões por mês.
+bootstrap | crescer sem capital externo, por conta própria | Eles tocaram o negócio por conta própria direto da mesa da cozinha nos primeiros dois anos.
+seed round | rodada semente | Os fundadores arrecadaram meio milhão na rodada semente.
+exit strategy | estratégia de saída | Todo investidor fazia a mesma pergunta: qual é a sua estratégia de saída?
+scale up | escalar, expandir em larga escala | O desafio agora é escalar a produção sem perder qualidade.
+disrupt | revolucionar, romper o mercado | Cada nova startup afirma que vai revolucionar um setor inteiro.
+minimum viable product | produto mínimo viável (MVP) | Lance um produto mínimo viável primeiro, depois melhore-o com base no feedback real.
+## Gíria financeira
+dough | grana, bufunfa (gíria) | Ele está fazendo uma grana preta desde que começou a trabalhar como autônomo.
+a pretty penny | uma nota preta, uma fortuna | Restaurar aquela fazenda antiga deve ter custado uma fortuna para eles.
+nickel-and-dime | esfolar, cobrar taxas por cada detalhe | Companhias aéreas low cost esfolam os passageiros cobrando taxa por tudo, de assento a lanche.
+peanuts | mixaria, valor irrisório | Os estagiários daquela agência trabalham muitas horas e ganham uma mixaria.
+rolling in it | nadando em dinheiro | Desde que vendeu sua empresa, Diego tem nadado em dinheiro.
+hard up | liso, sem um tostão | Eles estavam muito liso quando as crianças eram pequenas.
+cash-in-hand | pagamento em dinheiro vivo (por fora) | Nos fins de semana ele faz bicos pagos em dinheiro vivo, como pintar apartamentos e consertar cercas.
+pony up | desembolsar, pagar a conta | Se você quiser os recursos premium, vai ter que desembolsar mais dez dólares por mês.
+break the bank | custar uma fortuna, quebrar o cofrinho | Um fim de semana no litoral não vai custar uma fortuna se reservarmos cedo.
+cheapskate | pão-duro, muquirana | Não seja tão pão-duro; é a sua vez de pagar o café.
+## Gíria corporativa e cotidiana sobre dinheiro
+rainy day fund | reserva para emergências, pé de meia | O conserto do carro saiu direto do nosso pé de meia para emergências.
+highway robbery | assalto à mão armada, preço abusivo | Doze dólares por um sanduíche no aeroporto é um assalto à mão armada.
+creative accounting | contabilidade criativa | Os lucros pareciam impressionantes, mas eram em sua maioria resultado de contabilidade criativa.
+ballpark figure | valor aproximado, estimativa | Não preciso de um orçamento exato, só me dê uma estimativa.
+back-of-the-envelope | cálculo de padaria, conta rápida | Um cálculo de padaria rápido mostra que o plano não vai dar lucro.
+bean counter | contador chato, focado em centavos | Os contadores obcecados por custos na matriz cortaram nosso orçamento de treinamento de novo.
+cook the books | fraudar a contabilidade, falsificar balanços | O diretor financeiro foi preso por falsificar balanços por anos.
+slush fund | caixa dois, fundo secreto | Os investigadores descobriram um caixa dois secreto usado para subornar autoridades.
+kickback | propina, comissão ilegal | O empreiteiro foi acusado de pagar propinas para ganhar o contrato do hospital.
+fat cat | marajá, executivo ganancioso | Os funcionários ficaram irritados porque os marajás do conselho ganharam bônus enquanto os salários foram congelados.
