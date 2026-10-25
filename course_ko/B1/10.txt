@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım
+소프트웨어 (sopeuteuweeo) | yazılım | isim | 새 소프트웨어를 설치했더니 컴퓨터가 빨라졌다. | Yeni yazılımı kurunca bilgisayar hızlandı.
+하드웨어 (hadeuweeo) | donanım | isim | 게임을 하려면 하드웨어 사양이 높아야 한다. | Oyun oynamak için donanım özelliklerinin yüksek olması gerekir.
+운영 체제 (unyeong cheje) | işletim sistemi | isim | 운영 체제를 최신 버전으로 바꿨다. | İşletim sistemini en son sürüme geçirdim.
+코딩 (koding) | kodlama | isim | 요즘은 초등학생도 학교에서 코딩을 배운다. | Bu aralar ilkokul öğrencileri bile okulda kodlama öğreniyor.
+개발자 (gaebalja) | yazılımcı, geliştirici | isim | 그는 게임 회사에서 개발자로 일하고 있다. | Bir oyun şirketinde yazılımcı olarak çalışıyor.
+버전 (beojeon) | sürüm | isim | 이 앱은 예전 버전이 더 쓰기 편했다. | Bu uygulamanın eski sürümü kullanmaya daha elverişliydi.
+버그 (beogeu) | yazılım hatası | isim | 개발팀이 밤새 버그를 고쳤다. | Geliştirme ekibi bütün gece hataları düzeltti.
+서버 (seobeo) | sunucu | isim | 접속자가 몰려서 서버가 다운되었다. | Kullanıcılar akın edince sunucu çöktü.
+클라우드 (keullaudeu) | bulut (depolama) | isim | 사진은 모두 클라우드에 저장해 두었다. | Fotoğrafların hepsini buluta kaydettim.
+용량 (yongnyang) | kapasite, boyut (dosya) | isim | 파일 용량이 너무 커서 메일로 보낼 수 없다. | Dosya boyutu çok büyük olduğu için e-postayla gönderemiyorum.
+## Bilgisayar kullanımı
+실행하다 (silhaenghada) | çalıştırmak (program) | fiil | 프로그램을 실행하자마자 화면이 멈췄다. | Programı çalıştırır çalıştırmaz ekran dondu.
+종료하다 (jongnyohada) | kapatmak, sonlandırmak | fiil | 작업이 끝나면 프로그램을 종료해 주세요. | İşiniz bitince programı kapatın lütfen.
+재부팅하다 (jaebutinghada) | yeniden başlatmak | fiil | 컴퓨터가 느려서 재부팅했더니 괜찮아졌다. | Bilgisayar yavaşlayınca yeniden başlattım, düzeldi.
+단축키 (danchukki) | kısayol tuşu | isim | 단축키를 쓰면 작업 속도가 훨씬 빨라진다. | Kısayol tuşlarını kullanırsan iş hızın çok artar.
+바탕화면 (batanghwamyeon) | masaüstü | isim | 바탕화면에 파일이 너무 많아서 정리했다. | Masaüstünde çok fazla dosya olduğu için düzenledim.
+아이콘 (aikon) | simge | isim | 휴지통 아이콘을 누르면 파일이 삭제된다. | Çöp kutusu simgesine basarsan dosya silinir.
+압축 파일 (apchuk pail) | sıkıştırılmış dosya | isim | 사진이 많아서 압축 파일로 묶어서 보냈다. | Fotoğraflar çok olduğu için sıkıştırılmış dosya yapıp gönderdim.
+커서 (keoseo) | imleç | isim | 커서를 문장 끝에 놓고 글을 이어 쓰세요. | İmleci cümlenin sonuna koyup yazmaya devam edin.
+탭 (taep) | sekme | isim | 인터넷 창에 탭을 너무 많이 열어 놓았다. | İnternet tarayıcısında çok fazla sekme açtım.
+붙여넣다 (butyeoneota) | yapıştırmak (bilgisayarda) | fiil | 주소를 복사해서 메시지 창에 붙여넣었다. | Adresi kopyalayıp mesaj penceresine yapıştırdım.
+## Siber güvenlik
+해커 (haekeo) | bilgisayar korsanı | isim | 해커가 회사 홈페이지에 침입했다. | Bir bilgisayar korsanı şirketin web sitesine sızdı.
+보이스피싱 (boiseupising) | telefon dolandırıcılığı | isim | 은행이라고 하면서 돈을 요구하면 보이스피싱일 가능성이 높다. | Banka olduklarını söyleyip para isterlerse telefon dolandırıcılığı olma ihtimali yüksek.
+스팸 메일 (seupaem meil) | istenmeyen e-posta | isim | 하루에도 스팸 메일이 수십 통씩 온다. | Günde onlarca istenmeyen e-posta geliyor.
+백신 프로그램 (baeksin peurogeuraem) | antivirüs programı | isim | 백신 프로그램으로 컴퓨터를 정기적으로 검사하세요. | Bilgisayarınızı antivirüs programıyla düzenli tarayın.
+도용하다 (doyonghada) | çalıp kullanmak (kimlik, hesap) | fiil | 누군가 내 이름을 도용해서 계정을 만들었다. | Biri adımı kullanarak hesap açmış.
+침입하다 (chimipada) | izinsiz girmek, sızmak | fiil | 도둑이 창문을 깨고 집에 침입했다. | Hırsız camı kırıp eve izinsiz girdi.
+사이버 범죄 (saibeo beomjoe) | siber suç | isim | 사이버 범죄는 국경을 넘어 일어난다. | Siber suçlar sınırları aşarak işlenir.
+스미싱 (seumising) | SMS dolandırıcılığı | isim | 택배 문자처럼 보이는 스미싱에 주의하세요. | Kargo mesajı gibi görünen SMS dolandırıcılığına dikkat edin.
+지문 인식 (jimun insik) | parmak izi tanıma | isim | 지문 인식으로 휴대폰 잠금을 푼다. | Telefonun kilidini parmak iziyle açıyorum.
+잠금 (jamgeum) | kilit (ekran, cihaz) | isim | 노트북을 두고 자리를 비울 때는 화면 잠금을 해 두세요. | Dizüstü bilgisayarınızı bırakıp kalkarken ekranı kilitleyin.
+## Yapay zekâ
+챗봇 (chaetbot) | sohbet botu | isim | 고객센터에 전화하는 대신 챗봇에게 물어봤다. | Müşteri hizmetlerini aramak yerine sohbet botuna sordum.
+음성 인식 (eumseong insik) | ses tanıma | isim | 음성 인식 기능으로 운전 중에도 문자를 보낼 수 있다. | Ses tanıma özelliğiyle araba sürerken bile mesaj gönderebilirsin.
+번역기 (beonyeokgi) | çeviri programı | isim | 번역기를 쓰면 편하지만 가끔 이상하게 번역된다. | Çeviri programı kullanmak kolay ama bazen tuhaf çeviriyor.
+생성하다 (saengseonghada) | oluşturmak, üretmek | fiil | 인공지능이 몇 초 만에 그림을 생성했다. | Yapay zekâ birkaç saniyede bir resim oluşturdu.
+명령 (myeongnyeong) | komut, emir | isim | 로봇은 사람의 명령에 따라 움직인다. | Robot insanın komutlarına göre hareket eder.
+기계 번역 (gigye beonyeok) | makine çevirisi | isim | 기계 번역의 수준이 몇 년 사이에 크게 높아졌다. | Makine çevirisinin kalitesi birkaç yılda çok yükseldi.
+예측하다 (yecheukada) | tahmin etmek, öngörmek | fiil | 인공지능으로 내일의 교통량을 예측한다. | Yapay zekâyla yarının trafik yoğunluğu tahmin ediliyor.
+판단하다 (pandanhada) | yargıya varmak, karar vermek | fiil | 기계가 사람처럼 옳고 그름을 판단할 수 있을까? | Makineler insan gibi doğruyu yanlışı ayırt edebilir mi?
+인간 (ingan) | insan, insanoğlu | isim | 인공지능이 인간의 일을 모두 대신할 수는 없다. | Yapay zekâ insanın bütün işlerini üstlenemez.
+대신하다 (daesinhada) | yerini almak, yerine yapmak | fiil | 요즘은 로봇이 식당에서 서빙을 대신한다. | Bu aralar lokantalarda servisi robotlar yapıyor.
+## Uzay
+우주선 (ujuseon) | uzay aracı | isim | 우주선이 무사히 지구로 돌아왔다. | Uzay aracı sağ salim Dünya'ya döndü.
+우주 비행사 (uju bihaengsa) | astronot | isim | 어릴 때 꿈은 우주 비행사가 되는 것이었다. | Küçükken hayalim astronot olmaktı.
+로켓 (roket) | roket | isim | 로켓이 굉음과 함께 하늘로 솟아올랐다. | Roket büyük bir gürültüyle göğe yükseldi.
+발사하다 (balsahada) | fırlatmak | fiil | 한국은 자체 기술로 만든 로켓을 발사했다. | Kore kendi teknolojisiyle yaptığı roketi fırlattı.
+화성 (hwaseong) | Mars | isim | 과학자들은 화성에 물이 있었는지 연구하고 있다. | Bilim insanları Mars'ta su olup olmadığını araştırıyor.
+태양계 (taeyanggye) | güneş sistemi | isim | 태양계에서 가장 큰 행성은 목성이다. | Güneş sistemindeki en büyük gezegen Jüpiter'dir.
+별자리 (byeoljari) | takımyıldız; burç | isim | 시골 밤하늘에서 별자리를 찾아보았다. | Kırsaldaki gece göğünde takımyıldızları aradık.
+우주 정거장 (uju jeonggeojang) | uzay istasyonu | isim | 우주 정거장에서는 몸이 둥둥 떠다닌다. | Uzay istasyonunda vücut havada süzülür.
+외계인 (oegyein) | uzaylı | isim | 그 영화는 외계인이 지구에 오는 이야기다. | O film uzaylıların Dünya'ya gelişini anlatıyor.
+달 탐사 (dal tamsa) | ay keşfi | isim | 달 탐사를 위해 여러 나라가 경쟁하고 있다. | Ay'ı keşfetmek için birçok ülke yarışıyor.
+## Cihazlar
+스마트 워치 (seumateu wochi) | akıllı saat | isim | 스마트 워치로 하루 걸음 수를 확인한다. | Akıllı saatle günlük adım sayımı kontrol ediyorum.
+드론 (deuron) | drone, insansız hava aracı | isim | 드론으로 찍은 바다 영상이 정말 멋있다. | Drone ile çekilen deniz videosu gerçekten harika.
+가전제품 (gajeonjepum) | ev aletleri, beyaz eşya | isim | 이사하면서 가전제품을 새로 장만했다. | Taşınırken ev aletlerini yeniledik.
+기기 (gigi) | cihaz, alet | isim | 이 기기는 사용법이 간단해서 노인들도 쉽게 쓴다. | Bu cihazın kullanımı basit olduğu için yaşlılar da kolayca kullanıyor.
+장치 (jangchi) | düzenek, aygıt | isim | 이 차에는 졸음운전을 막는 장치가 있다. | Bu arabada uykulu sürüşü önleyen bir düzenek var.
+센서 (senseo) | sensör, algılayıcı | isim | 사람이 지나가면 센서가 작동해서 불이 켜진다. | Biri geçince sensör devreye girip ışık yanıyor.
+보조 배터리 (bojo baeteori) | taşınabilir şarj cihazı, powerbank | isim | 여행할 때는 보조 배터리를 꼭 챙긴다. | Seyahat ederken taşınabilir şarj cihazını mutlaka yanıma alırım.
+리모컨 (rimokeon) | uzaktan kumanda | isim | 리모컨이 어디 갔는지 한참 찾았다. | Kumandanın nereye gittiğini uzun süre aradım.
+무선 연결 (museon yeongyeol) | kablosuz bağlantı | isim | 무선 연결이 끊겨서 스피커 소리가 멈췄다. | Kablosuz bağlantı kopunca hoparlörün sesi kesildi.
+무선 충전 (museon chungjeon) | kablosuz şarj | isim | 무선 충전 패드에 휴대폰을 올려 두기만 하면 된다. | Telefonu kablosuz şarj pedinin üstüne koyman yeterli.
+## İletişim ağları
+통신 (tongsin) | iletişim, haberleşme | isim | 산속이라 통신이 잘 안 된다. | Dağın içi olduğu için çekim pek iyi değil.
+통신사 (tongsinsa) | telekom şirketi, operatör | isim | 통신사를 바꾸면 요금을 할인해 준대요. | Operatör değiştirirsen ücrette indirim yapıyorlarmış.
+네트워크 (neteuwokeu) | ağ, şebeke | isim | 네트워크 장애로 카드 결제가 안 되고 있다. | Ağ arızası yüzünden kartla ödeme yapılamıyor.
+신호 (sinho) | sinyal | isim | 지하에서는 휴대폰 신호가 약하다. | Yer altında telefon sinyali zayıf.
+요금제 (yogeumje) | tarife | isim | 데이터를 많이 써서 무제한 요금제로 바꿨다. | Çok internet kullandığım için sınırsız tarifeye geçtim.
+로밍 (roming) | yurt dışı dolaşım | isim | 해외에 가기 전에 로밍을 신청했다. | Yurt dışına gitmeden önce dolaşım hizmetine başvurdum.
+전파 (jeonpa) | radyo dalgası; yayılma | isim | 이 장비는 전파를 이용해서 위치를 찾는다. | Bu cihaz radyo dalgalarını kullanarak konum buluyor.
+스트리밍 (seuteuriming) | canlı akış, yayın akışı | isim | 요즘은 음악을 다운로드하지 않고 스트리밍으로 듣는다. | Bu aralar müziği indirmeden canlı akışla dinliyoruz.
+온라인 수업 (ollain sueop) | çevrimiçi ders | isim | 눈이 많이 와서 오늘은 온라인 수업으로 바뀌었다. | Çok kar yağdığı için bugün ders çevrimiçine alındı.
+원격 (wongyeok) | uzaktan | isim | 기술자가 원격으로 내 컴퓨터를 고쳐 주었다. | Teknisyen bilgisayarımı uzaktan onardı.
+## Teknoloji ve toplum
+편리성 (pyeolliseong) | kullanışlılık, kolaylık | isim | 이 제품은 편리성 때문에 인기가 많다. | Bu ürün kullanışlılığı nedeniyle çok popüler.
+정보화 사회 (jeongbohwa sahoe) | bilgi toplumu | isim | 정보화 사회에서는 정보를 고르는 능력이 중요하다. | Bilgi toplumunda bilgiyi seçme becerisi önemlidir.
+비대면 (bidaemyeon) | yüz yüze olmayan, temassız | isim | 은행 업무도 이제는 비대면으로 처리할 수 있다. | Banka işleri de artık yüz yüze gelmeden halledilebiliyor.
+키오스크 (kioseukeu) | sipariş kiosku, self servis ekran | isim | 할머니는 키오스크로 주문하는 것을 어려워하신다. | Büyükannem self servis ekranla sipariş vermekte zorlanıyor.
+무인 가게 (muin gage) | personelsiz dükkân | isim | 동네에 아이스크림을 파는 무인 가게가 생겼다. | Mahallede dondurma satan personelsiz bir dükkân açıldı.
+디지털 소외 (dijiteol sooe) | dijital dışlanma | isim | 노인들의 디지털 소외 문제를 해결하기 위한 교육이 열렸다. | Yaşlıların dijital dışlanma sorununu çözmek için eğitim düzenlendi.
+디지털 디톡스 (dijiteol ditokseu) | dijital arınma | isim | 주말에는 휴대폰을 끄고 디지털 디톡스를 한다. | Hafta sonları telefonu kapatıp dijital arınma yapıyorum.
+첨단 (cheomdan) | ileri, son teknoloji | isim | 이 병원은 첨단 의료 장비를 갖추고 있다. | Bu hastane son teknoloji tıbbi cihazlarla donatılmış.
+신기술 (singisul) | yeni teknoloji | isim | 신기술이 나오면 일상생활이 크게 바뀐다. | Yeni teknolojiler çıkınca günlük hayat büyük ölçüde değişir.
+낙후되다 (nakudoeda) | geri kalmak, çağın gerisinde kalmak | fiil | 낙후된 시설을 고치는 데 많은 돈이 들었다. | Geri kalmış tesisleri onarmak çok paraya mal oldu.
+## Teknik eylemler
+개발하다 (gaebalhada) | geliştirmek | fiil | 그 회사는 노인을 위한 앱을 개발했다. | O şirket yaşlılar için bir uygulama geliştirdi.
+설계하다 (seolgyehada) | tasarlamak (teknik) | fiil | 이 다리는 지진에도 견디도록 설계되었다. | Bu köprü depreme de dayanacak şekilde tasarlandı.
+작동하다 (jakdonghada) | çalışmak (makine) | fiil | 세탁기가 갑자기 작동하지 않는다. | Çamaşır makinesi birden çalışmıyor.
+조작하다 (jojakada) | kullanmak (cihaz); manipüle etmek | fiil | 이 기계는 버튼 하나로 쉽게 조작할 수 있다. | Bu makine tek bir düğmeyle kolayca kullanılabiliyor.
+점검하다 (jeomgeomhada) | kontrol etmek, bakım yapmak | fiil | 엘리베이터를 점검하는 동안 계단을 이용해 주세요. | Asansör bakımı yapılırken merdiveni kullanın lütfen.
+교체하다 (gyochehada) | değiştirmek (parça) | fiil | 배터리가 오래돼서 새것으로 교체했다. | Pil eskidiği için yenisiyle değiştirdim.
+복구하다 (bokguhada) | kurtarmak, geri yüklemek | fiil | 지워진 사진을 복구하는 프로그램이 있다. | Silinen fotoğrafları kurtaran bir program var.
+동기화하다 (donggihwahada) | eşitlemek, senkronize etmek | fiil | 휴대폰과 노트북의 일정을 동기화했다. | Telefon ile dizüstü bilgisayarın takvimlerini eşitledim.
+내려받다 (naeryeobatda) | indirmek (dosya) | fiil | 홈페이지에서 신청서 양식을 내려받으세요. | Başvuru formunu web sitesinden indirin.
+전송하다 (jeonsonghada) | göndermek, aktarmak (veri) | fiil | 사진을 컴퓨터로 전송하는 데 시간이 오래 걸렸다. | Fotoğrafları bilgisayara aktarmak uzun sürdü.
+## Teknoloji kavramları
+반도체 (bandoche) | yarı iletken | isim | 반도체는 거의 모든 전자 제품에 들어간다. | Yarı iletkenler neredeyse bütün elektronik ürünlerde bulunur.
+회로 (hoero) | devre | isim | 물이 들어가서 회로에 문제가 생겼다. | Su girdiği için devrede sorun çıktı.
+디스플레이 (diseupeullei) | ekran (teknik) | isim | 새 휴대폰은 디스플레이가 더 크고 선명하다. | Yeni telefonun ekranı daha büyük ve net.
+해상도 (haesangdo) | çözünürlük | isim | 해상도가 높은 카메라로 찍으니 사진이 선명하다. | Yüksek çözünürlüklü kamerayla çekince fotoğraf net çıkıyor.
+전자파 (jeonjapa) | elektromanyetik dalga | isim | 자기 전에 휴대폰을 머리맡에 두면 전자파가 걱정된다. | Yatmadan önce telefonu başucuna koyunca elektromanyetik dalgalar endişelendiriyor.
+산업 혁명 (saneop hyeongmyeong) | sanayi devrimi | isim | 증기 기관은 산업 혁명을 이끌었다. | Buhar makinesi sanayi devrimine öncülük etti.
+기술력 (gisullyeok) | teknolojik yetkinlik | isim | 그 회사는 뛰어난 기술력으로 세계 시장에 진출했다. | O şirket üstün teknolojik yetkinliğiyle dünya pazarına açıldı.
+정밀하다 (jeongmilhada) | hassas, ince işçilikli | sıfat | 시계는 아주 정밀한 기계이다. | Saat çok hassas bir makinedir.
+부품 (bupum) | parça (makine) | isim | 부품이 없어서 수리하는 데 일주일이 걸린대요. | Parça olmadığı için tamir bir hafta sürecekmiş.
+전원 (jeonwon) | güç kaynağı, açma-kapama | isim | 전원 버튼을 길게 누르면 꺼집니다. | Güç düğmesine uzun basarsanız kapanır.
