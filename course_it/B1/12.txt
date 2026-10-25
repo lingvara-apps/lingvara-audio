@@ -2,7 +2,7 @@
 ## Kanunlar ve kurallar
 legale | yasal | sıfat | In Italia è legale guidare la macchina a diciotto anni. | İtalya'da on sekiz yaşında araba kullanmak yasal.
 illegale | yasa dışı | sıfat | Scaricare film da internet senza pagare è illegale. | İnternetten para ödemeden film indirmek yasa dışıdır.
-vietato | yasak | sıfat | È vietato fumare in tutti i locali pubblici. | Kapalı kamusal mekânların hepsinde sigara içmek yasak.
+vietato | yasaklanmış | sıfat | È vietato fumare in tutti i locali pubblici. | Kapalı kamusal mekânların hepsinde sigara içmek yasak.
 l'obbligo (e) (gli obblighi) | zorunluluk | isim (e) | In moto c'è l'obbligo del casco anche in città. | Motosiklette şehir içinde de kask zorunluluğu var.
 il divieto | yasak | isim (e) | Non hai visto il divieto di sosta davanti al garage? | Garajın önündeki park yasağı levhasını görmedin mi?
 la norma | kural, norm | isim (d) | Le nuove norme sulla sicurezza entrano in vigore a gennaio. | Yeni güvenlik kuralları ocakta yürürlüğe giriyor.
@@ -44,15 +44,15 @@ la querela | şikâyet (dava açmak için) | isim (d) | Ha sporto querela contro
 la difesa | savunma | isim (d) | La difesa ha presentato nuove prove al giudice. | Savunma hâkime yeni deliller sundu.
 la giuria | jüri | isim (d) | La giuria del concorso ha scelto il vincitore. | Yarışma jürisi kazananı seçti.
 ## Cezalar
-la condanna | mahkûmiyet, ceza | isim (d) | La condanna è di cinque anni di reclusione. | Mahkûmiyet beş yıl hapis cezası.
+la condanna | mahkûmiyet | isim (d) | La condanna è di cinque anni di reclusione. | Mahkûmiyet beş yıl hapis cezası.
 condannare | mahkûm etmek; kınamak | fiil | Il giudice lo ha condannato a pagare un risarcimento. | Hâkim onu tazminat ödemeye mahkûm etti.
-la pena | ceza; acı | isim (d) | Per questo reato la pena può arrivare a dieci anni. | Bu suç için ceza on yıla kadar çıkabilir.
-il carcere | cezaevi, hapishane | isim (e) | Ha passato tre anni in carcere per una rapina. | Bir soygun yüzünden üç yıl hapis yattı.
+la pena | ceza (süresi); acı | isim (d) | Per questo reato la pena può arrivare a dieci anni. | Bu suç için ceza on yıla kadar çıkabilir.
+il carcere | cezaevi | isim (e) | Ha passato tre anni in carcere per una rapina. | Bir soygun yüzünden üç yıl hapis yattı.
 il detenuto | tutuklu, hükümlü | isim (e) | In carcere i detenuti possono studiare e lavorare. | Cezaevinde hükümlüler okuyup çalışabiliyor.
 l'ergastolo (e) | müebbet hapis | isim (e) | Per l'omicidio è stato condannato all'ergastolo. | Cinayet nedeniyle müebbet hapse mahkûm edildi.
 la cauzione | kefalet | isim (d) | È uscito di prigione dopo aver pagato la cauzione. | Kefaleti ödedikten sonra hapisten çıktı.
 evadere (evaso) | (hapisten) kaçmak | fiil · düzensiz | Due detenuti sono evasi durante la notte. | İki mahkûm gece cezaevinden kaçtı.
-la prigione | hapishane | isim (d) | Il vecchio castello è stato una prigione per due secoli. | Eski kale iki yüzyıl boyunca hapishane olarak kullanıldı.
+la prigione | zindan, hapishane | isim (d) | Il vecchio castello è stato una prigione per due secoli. | Eski kale iki yüzyıl boyunca hapishane olarak kullanıldı.
 scontare | çekmek (ceza) | fiil | Ha scontato la sua pena e ora lavora in un ristorante. | Cezasını çekti, şimdi bir restoranda çalışıyor.
 ## Güvenlik güçleri
 il commissariato | karakol | isim (e) | Per denunciare il furto sono andato al commissariato. | Hırsızlığı bildirmek için karakola gittim.
@@ -60,7 +60,7 @@ l'agente (e) | memur, ajan | isim (e) | Un agente di polizia mi ha aiutato a tro
 la pattuglia | devriye | isim (d) | Di notte una pattuglia passa nel quartiere ogni ora. | Gece mahalleden her saat bir devriye geçiyor.
 l'ordine pubblico (e) | kamu düzeni | isim (e) | Durante la partita la polizia controlla l'ordine pubblico. | Maç sırasında polis kamu düzenini denetliyor.
 la guardia | bekçi, muhafız | isim (d) | La guardia del museo ci ha chiesto di non toccare. | Müze bekçisi bizden dokunmamamızı istedi.
-la caserma | kışla; karakol (jandarma) | isim (d) | La caserma dei carabinieri è vicino al municipio. | Jandarma karakolu belediye binasının yanında.
+la caserma | kışla; jandarma karakolu | isim (d) | La caserma dei carabinieri è vicino al municipio. | Jandarma karakolu belediye binasının yanında.
 la volante | polis devriye aracı | isim (d) | La volante è arrivata in pochi minuti dopo la chiamata. | Polis aracı aramadan birkaç dakika sonra geldi.
 il posto di blocco | yol kontrol noktası | isim (e) | Al posto di blocco ci hanno chiesto patente e libretto. | Yol kontrol noktasında bizden ehliyet ve ruhsat istediler.
 la divisa | üniforma | isim (d) | I poliziotti in divisa controllano la stazione. | Üniformalı polisler istasyonu denetliyor.
@@ -96,11 +96,11 @@ ingiusto | haksız, adaletsiz | sıfat | La punizione mi è sembrata davvero ing
 l'uguaglianza (d) | eşitlik | isim (d) | La costituzione garantisce l'uguaglianza di tutti i cittadini. | Anayasa bütün vatandaşların eşitliğini güvence altına alır.
 la discriminazione | ayrımcılık | isim (d) | La legge vieta ogni forma di discriminazione sul lavoro. | Yasa iş yerinde her türlü ayrımcılığı yasaklıyor.
 discriminare | ayrımcılık yapmak | fiil | Non si può discriminare un candidato per la sua età. | Bir adaya yaşı yüzünden ayrımcılık yapılamaz.
-la parità | eşitlik (hak, ücret) | isim (d) | Le lavoratrici chiedono la parità di stipendio con i colleghi. | Kadın çalışanlar erkek meslektaşlarıyla eşit maaş istiyor.
+la parità | denklik, hak eşitliği | isim (d) | Le lavoratrici chiedono la parità di stipendio con i colleghi. | Kadın çalışanlar erkek meslektaşlarıyla eşit maaş istiyor.
 la corruzione | yolsuzluk | isim (d) | Il funzionario è stato arrestato per corruzione. | Memur yolsuzluktan tutuklandı.
 ## Toplum ve göç
 l'immigrazione (d) | göç (gelen) | isim (d) | L'immigrazione ha cambiato la vita di molte città italiane. | Göç birçok İtalyan şehrinin hayatını değiştirdi.
-l'emigrazione (d) | göç (giden) | isim (d) | Nel Novecento l'emigrazione verso l'America era molto forte. | Yirminci yüzyılda Amerika'ya göç çok yoğundu.
+l'emigrazione (d) | dışarıya göç | isim (d) | Nel Novecento l'emigrazione verso l'America era molto forte. | Yirminci yüzyılda Amerika'ya göç çok yoğundu.
 l'immigrato (e) | göçmen | isim (e) | Molti immigrati lavorano nell'agricoltura del Sud. | Birçok göçmen Güney'de tarımda çalışıyor.
 il rifugiato | mülteci | isim (e) | L'associazione aiuta i rifugiati a imparare l'italiano. | Dernek mültecilerin İtalyanca öğrenmesine yardım ediyor.
 la frontiera | sınır (ülke) | isim (d) | Alla frontiera con la Svizzera c'era una lunga coda. | İsviçre sınırında uzun bir kuyruk vardı.

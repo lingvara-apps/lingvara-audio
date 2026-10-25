@@ -38,7 +38,7 @@ prendere appunti | not almak | ifade | Durante la riunione Marta prende appunti 
 convocare | toplantıya çağırmak | fiil | Il capo ha convocato tutti alle dieci in sala. | Patron herkesi saat onda salona çağırdı.
 rinviare | ertelemek | fiil | Purtroppo dobbiamo rinviare la riunione a giovedì. | Maalesef toplantıyı perşembeye ertelememiz gerekiyor.
 intervenire (intervenuto) | söz almak; müdahale etmek | fiil · düzensiz | Posso intervenire un momento su questo punto? | Bu konuda bir dakika söz alabilir miyim?
-prendere la parola | söz almak | ifade | Alla fine della riunione ha preso la parola Ali. | Toplantının sonunda Ali söz aldı.
+prendere la parola | konuşmaya başlamak (toplantıda) | ifade | Alla fine della riunione ha preso la parola Ali. | Toplantının sonunda Ali söz aldı.
 la videoconferenza | video konferans | isim (d) | Facciamo una videoconferenza con il cliente di Madrid. | Madridli müşteriyle video konferans yapıyoruz.
 riassumere (riassunto) | özetlemek | fiil · düzensiz | Puoi riassumere in breve i risultati del trimestre? | Çeyreğin sonuçlarını kısaca özetleyebilir misin?
 approvare | onaylamak | fiil | Il consiglio ha approvato il progetto all'unanimità. | Kurul projeyi oybirliğiyle onayladı.
@@ -81,10 +81,10 @@ la busta paga | maaş bordrosu | isim (d) | Controlla bene la busta paga alla fi
 lordo | brüt | sıfat | Lo stipendio lordo è molto diverso da quello netto. | Brüt maaş net maaştan çok farklı.
 netto | net | sıfat | Nel nuovo lavoro guadagno milleottocento euro netti al mese. | Yeni işimde ayda net bin sekiz yüz euro kazanıyorum.
 la tredicesima | on üçüncü maaş (aralık ikramiyesi) | isim (d) | Con la tredicesima compro i regali di Natale. | On üçüncü maaşla Noel hediyelerini alıyorum.
-i contributi | prim, sigorta primleri | isim (e) | Il datore di lavoro paga i contributi per la pensione. | İşveren emeklilik primlerini ödüyor.
+i contributi | sigorta primleri | isim (e) | Il datore di lavoro paga i contributi per la pensione. | İşveren emeklilik primlerini ödüyor.
 il premio | ödül; prim | isim (e) | A fine anno i venditori migliori ricevono un premio. | Yıl sonunda en iyi satıcılar prim alıyor.
 la retribuzione | ücret | isim (d) | La retribuzione è adeguata all'esperienza del candidato. | Ücret adayın deneyimine uygundur.
-il compenso | ücret, karşılık | isim (e) | Per la traduzione hanno offerto un compenso di trecento euro. | Çeviri için üç yüz euro ücret teklif ettiler.
+il compenso | karşılık, hizmet bedeli | isim (e) | Per la traduzione hanno offerto un compenso di trecento euro. | Çeviri için üç yüz euro ücret teklif ettiler.
 la liquidazione | kıdem tazminatı | isim (d) | Quando lascia l'azienda riceve anche la liquidazione. | Şirketten ayrılınca kıdem tazminatını da alıyor.
 il buono pasto | yemek kartı, yemek çeki | isim (e) | L'azienda ci dà un buono pasto per ogni giorno lavorato. | Şirket her çalışılan gün için bize yemek çeki veriyor.
 ## Çalışma ortamı

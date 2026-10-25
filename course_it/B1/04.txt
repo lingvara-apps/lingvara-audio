@@ -12,11 +12,11 @@ la rubrica | köşe yazısı, bölüm; adres defteri | isim (d) | Leggo sempre l
 la copertina | kapak | isim (d) | Sulla copertina della rivista c'è una foto di Venezia. | Derginin kapağında bir Venedik fotoğrafı var.
 ## Gazetecilik
 l'inviato (e) | muhabir (yerinde) | isim (e) | L'inviato racconta in diretta la situazione dopo l'alluvione. | Muhabir selden sonraki durumu canlı yayında anlatıyor.
-il reportage | röportaj (yerinde haber), belgesel yazı | isim (e) | Ha scritto un reportage sui pescatori della Sardegna. | Sardinyalı balıkçılar üzerine bir belgesel yazı yazdı.
+il reportage | yerinde haber, belgesel yazı | isim (e) | Ha scritto un reportage sui pescatori della Sardegna. | Sardinyalı balıkçılar üzerine bir belgesel yazı yazdı.
 la cronaca | (yerel) haber; olaylar | isim (d) | Nella pagina di cronaca si parla dell'incidente in autostrada. | Haber sayfasında otoyoldaki kazadan söz ediliyor.
 l'intervista (d) | röportaj, mülakat | isim (d) | Nell'intervista l'architetto parla del suo nuovo progetto. | Röportajda mimar yeni projesinden bahsediyor.
 intervistare | röportaj yapmak | fiil | Il giornalista ha intervistato alcuni abitanti del quartiere. | Gazeteci mahalle sakinlerinden bazılarıyla röportaj yaptı.
-il corrispondente | muhabir (yurt dışında) | isim (e) | È corrispondente da Parigi per un giornale di Roma. | Romalı bir gazetenin Paris muhabiri.
+il corrispondente | yabancı ülke muhabiri | isim (e) | È corrispondente da Parigi per un giornale di Roma. | Romalı bir gazetenin Paris muhabiri.
 l'inchiesta (d) | soruşturma; araştırmacı haber | isim (d) | Un'inchiesta del giornale ha scoperto molti problemi in ospedale. | Gazetenin araştırması hastanede birçok sorun ortaya çıkardı.
 riportare | aktarmak, haber vermek; geri getirmek | fiil | Tutti i giornali riportano la stessa notizia questa mattina. | Bu sabah bütün gazeteler aynı haberi veriyor.
 lo scoop | özel haber, atlatma haber | isim (e) | Quella giovane giornalista ha fatto uno scoop incredibile. | O genç gazeteci inanılmaz bir atlatma haber yaptı.
@@ -61,8 +61,8 @@ il pettegolezzo | dedikodu | isim (e) | Le riviste di pettegolezzi parlano solo 
 lo scandalo | skandal | isim (e) | Lo scandalo è uscito su tutti i giornali nazionali. | Skandal bütün ulusal gazetelerde çıktı.
 il sondaggio | anket, kamuoyu yoklaması | isim (e) | Secondo un sondaggio, i giovani leggono sempre meno giornali. | Bir ankete göre gençler giderek daha az gazete okuyor.
 l'evento (e) | olay, etkinlik | isim (e) | Il concerto in piazza è stato l'evento dell'estate. | Meydandaki konser yazın olayıydı.
-il caso | olay, vaka; tesadüf | isim (e) | Il caso del furto al museo è ancora aperto. | Müzedeki hırsızlık vakası hâlâ çözülmedi.
-la vicenda | olay, mesele | isim (d) | Tutta la vicenda è stata raccontata in un documentario. | Bütün olay bir belgeselde anlatıldı.
+il caso | vaka; tesadüf | isim (e) | Il caso del furto al museo è ancora aperto. | Müzedeki hırsızlık vakası hâlâ çözülmedi.
+la vicenda | mesele, hikâye | isim (d) | Tutta la vicenda è stata raccontata in un documentario. | Bütün olay bir belgeselde anlatıldı.
 l'opinione pubblica (d) | kamuoyu | isim (d) | L'opinione pubblica è divisa sul nuovo parcheggio in centro. | Kamuoyu merkezdeki yeni otopark konusunda bölünmüş durumda.
 il retroscena | perde arkası | isim (e) | Il libro racconta i retroscena del festival di Sanremo. | Kitap Sanremo festivalinin perde arkasını anlatıyor.
 ## Reklamcılık
@@ -86,7 +86,7 @@ abbonarsi | abone olmak | fiil · dönüşlü | Mi sono abbonata alla versione d
 l'audiolibro (e) | sesli kitap | isim (e) | In macchina ascolto un audiolibro invece della radio. | Arabada radyo yerine sesli kitap dinliyorum.
 la visualizzazione | görüntülenme | isim (d) | Il suo ultimo video ha superato un milione di visualizzazioni. | Son videosu bir milyon görüntülenmeyi geçti.
 scorrere (scorso) | kaydırmak; akmak | fiil · düzensiz | Passo troppo tempo a scorrere le notizie sul telefono. | Telefonda haberleri kaydırarak çok fazla zaman geçiriyorum.
-l'edizione (d) | baskı; sayı; bülten | isim (d) | L'edizione serale del telegiornale inizia alle otto. | Haber bülteninin akşam baskısı saat sekizde başlıyor.
+l'edizione (d) | baskı; sayı (yayın) | isim (d) | L'edizione serale del telegiornale inizia alle otto. | Haber bülteninin akşam baskısı saat sekizde başlıyor.
 ## Medyada kullanılan fiiller
 diffondere (diffuso) | yaymak | fiil · düzensiz | La notizia si è diffusa in pochi minuti su internet. | Haber birkaç dakikada internette yayıldı.
 annunciare | duyurmak, ilan etmek | fiil | Il sindaco ha annunciato l'apertura di un nuovo parco. | Belediye başkanı yeni bir parkın açılışını duyurdu.
@@ -108,4 +108,4 @@ il pregiudizio | önyargı | isim (e) | Dobbiamo cercare di leggere le notizie s
 la polemica | tartışma, polemik | isim (d) | Le parole dell'allenatore hanno creato una grande polemica. | Antrenörün sözleri büyük bir polemik yarattı.
 polemico | polemikçi, tartışmacı | sıfat | Non essere sempre così polemico, ascolta anche gli altri! | Hep bu kadar tartışmacı olma, başkalarını da dinle!
 schierarsi | taraf tutmak, saf tutmak | fiil · dönüşlü | Il giornale non vuole schierarsi con nessuno dei due candidati. | Gazete iki adaydan hiçbirinin tarafını tutmak istemiyor.
-il dibattito | tartışma, münazara | isim (e) | In tv c'è stato un dibattito sul futuro delle città. | Televizyonda şehirlerin geleceği üzerine bir tartışma programı oldu.
+il dibattito | münazara, açık oturum | isim (e) | In tv c'è stato un dibattito sul futuro delle città. | Televizyonda şehirlerin geleceği üzerine bir tartışma programı oldu.

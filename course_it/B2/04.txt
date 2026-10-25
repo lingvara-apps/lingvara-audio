@@ -6,8 +6,8 @@ il Medioevo | Orta Çağ | isim (e) | Nel Medioevo molte città italiane erano c
 l'età moderna (d) | Yeni Çağ | isim (d) | L'età moderna inizia di solito con la scoperta dell'America. | Yeni Çağ genellikle Amerika'nın keşfiyle başlatılır.
 il Novecento | yirminci yüzyıl | isim (e) | Il Novecento è stato un secolo di grandi cambiamenti. | Yirminci yüzyıl büyük değişimlerin yüzyılı oldu.
 il secolo | yüzyıl | isim (e) | Questa chiesa è stata costruita nel dodicesimo secolo. | Bu kilise on ikinci yüzyılda inşa edildi.
-l'epoca (d) | devir, çağ | isim (d) | All'epoca dei nonni non c'era la televisione in ogni casa. | Dedelerimizin devrinde her evde televizyon yoktu.
-l'era (d) | çağ, devir | isim (d) | Viviamo nell'era digitale, tutto passa dallo schermo. | Dijital çağda yaşıyoruz, her şey ekrandan geçiyor.
+l'epoca (d) | devir, zaman | isim (d) | All'epoca dei nonni non c'era la televisione in ogni casa. | Dedelerimizin devrinde her evde televizyon yoktu.
+l'era (d) | çağ (dönem) | isim (d) | Viviamo nell'era digitale, tutto passa dallo schermo. | Dijital çağda yaşıyoruz, her şey ekrandan geçiyor.
 il periodo | dönem | isim (e) | Quel periodo della storia italiana è stato molto difficile. | İtalyan tarihinin o dönemi çok zordu.
 la dinastia | hanedan | isim (d) | La dinastia dei Savoia ha regnato sull'Italia fino al 1946. | Savoia hanedanı 1946'ya kadar İtalya'yı yönetti.
 ## Antik Roma
@@ -31,7 +31,7 @@ la peste | veba | isim (d) | La peste del Trecento uccise un terzo della popolaz
 il vassallo | vasal, tebaa | isim (e) | Il vassallo doveva fedeltà al suo signore. | Vasal efendisine sadakat borçluydu.
 il mercante | tüccar | isim (e) | I mercanti veneziani commerciavano con l'Oriente. | Venedikli tüccarlar Doğu ile ticaret yapıyordu.
 la repubblica marinara | denizci cumhuriyet | isim (d) | Genova e Venezia erano potenti repubbliche marinare. | Cenova ve Venedik güçlü denizci cumhuriyetlerdi.
-l'abbazia (d) | manastır (büyük), abbey | isim (d) | L'abbazia fu per secoli un centro di studio e di preghiera. | Manastır yüzyıllarca bir ilim ve ibadet merkezi oldu.
+l'abbazia (d) | başrahiplik (büyük manastır) | isim (d) | L'abbazia fu per secoli un centro di studio e di preghiera. | Manastır yüzyıllarca bir ilim ve ibadet merkezi oldu.
 ## Rönesans ve keşifler
 l'esploratore (e) | kâşif | isim (e) | Molti esploratori italiani navigarono per i re di Spagna e Portogallo. | Birçok İtalyan kâşif İspanya ve Portekiz kralları için yelken açtı.
 la navigazione | denizcilik, seyrüsefer | isim (d) | Nel Quattrocento la navigazione divenne più sicura grazie alla bussola. | On beşinci yüzyılda pusula sayesinde denizcilik daha güvenli hale geldi.
@@ -106,6 +106,6 @@ la lapide | anıt taşı, mezar taşı | isim (d) | Una lapide ricorda la casa n
 tramandare | kuşaktan kuşağa aktarmak | fiil | La ricetta è stata tramandata di madre in figlia. | Tarif anneden kıza aktarıldı.
 la leggenda | efsane | isim (d) | Secondo la leggenda, Roma fu fondata da Romolo e Remo. | Efsaneye göre Roma, Romulus ve Remus tarafından kuruldu.
 leggendario | efsanevi | sıfat | La sfida tra le due città è diventata leggendaria. | İki şehir arasındaki rekabet efsanevi hale geldi.
-il mito | mit, efsane | isim (e) | I miti greci raccontano storie di dei ed eroi. | Yunan mitleri tanrıların ve kahramanların hikâyelerini anlatır.
+il mito | mit | isim (e) | I miti greci raccontano storie di dei ed eroi. | Yunan mitleri tanrıların ve kahramanların hikâyelerini anlatır.
 il cimelio | hatıra eşya (tarihî) | isim (e) | Il museo conserva cimeli della prima guerra mondiale. | Müze Birinci Dünya Savaşı'ndan hatıra eşyalar saklıyor.
 il papato | papalık | isim (e) | Per secoli il papato governò una parte dell'Italia centrale. | Papalık yüzyıllarca Orta İtalya'nın bir bölümünü yönetti.

@@ -45,7 +45,7 @@ il fondo | fon; dip | isim (e) | Ho messo una parte dei risparmi in un fondo pen
 redditizio | kârlı | sıfat | Il bed and breakfast si è rivelato un'attività redditizia. | Pansiyon kârlı bir iş çıktı.
 ## Vergiler
 la tassa | vergi, harç | isim (d) | Ogni anno pago la tassa sui rifiuti al comune. | Her yıl belediyeye çöp vergisi ödüyorum.
-l'imposta (d) | vergi | isim (d) | Sulla seconda casa si paga un'imposta più alta. | İkinci evde daha yüksek bir vergi ödeniyor.
+l'imposta (d) | resmî vergi (gelir, emlak) | isim (d) | Sulla seconda casa si paga un'imposta più alta. | İkinci evde daha yüksek bir vergi ödeniyor.
 l'IVA (d) | KDV | isim (d) | Il prezzo indicato è comprensivo di IVA. | Belirtilen fiyata KDV dahildir.
 la dichiarazione dei redditi | vergi beyannamesi | isim (d) | A giugno devo presentare la dichiarazione dei redditi. | Haziranda vergi beyannamemi vermem gerekiyor.
 il reddito | gelir | isim (e) | Le famiglie con un reddito basso ricevono un aiuto. | Düşük gelirli aileler yardım alıyor.
@@ -91,7 +91,7 @@ l'ipoteca (d) | ipotek | isim (d) | Sulla casa c'è ancora un'ipoteca della banc
 la liquidità | nakit, likidite | isim (d) | L'azienda ha problemi di liquidità e paga in ritardo. | Şirketin nakit sorunu var, ödemeleri geç yapıyor.
 il bilancio | bilanço | isim (e) | Il bilancio dell'anno si chiude con un piccolo utile. | Yılın bilançosu küçük bir kârla kapanıyor.
 l'utile (e) | kâr | isim (e) | Gli utili vengono divisi tra i soci a fine anno. | Kâr yıl sonunda ortaklar arasında paylaştırılıyor.
-il profitto | kâr, kazanç | isim (e) | Per molte aziende il profitto è più importante di tutto. | Birçok şirket için kâr her şeyden önemli.
+il profitto | kazanç, getiri | isim (e) | Per molte aziende il profitto è più importante di tutto. | Birçok şirket için kâr her şeyden önemli.
 il ricavo | hasılat, gelir | isim (e) | I ricavi della stagione estiva sono stati ottimi. | Yaz sezonunun hasılatı mükemmeldi.
 in attivo | kârda, artıda | ifade | Dopo due anni difficili il bilancio è finalmente in attivo. | İki zor yıldan sonra bilanço nihayet artıda.
 il finanziatore | yatırımcı, finansör | isim (e) | Cerchiamo un finanziatore per il nostro progetto di app. | Uygulama projemiz için bir finansör arıyoruz.
