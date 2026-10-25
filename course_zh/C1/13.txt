@@ -1,0 +1,111 @@
+# UNIT: Felsefe ve etik | Felsefe dalları, ahlak kuramları, etik tartışmalar
+## Felsefenin dalları
+形而上学 (xíng'érshàngxué) | metafizik | isim | 形而上学探讨的是世界的终极本质。 | Metafizik dünyanın nihai özünü inceler.
+本体论 (běntǐlùn) | ontoloji, varlık bilimi | isim | "什么是真正存在的"是本体论的核心问题。 | "Gerçekte var olan nedir?" sorusu ontolojinin temel sorusudur.
+认识论 (rènshílùn) | epistemoloji, bilgi kuramı | isim | 认识论研究知识的来源、范围和可靠性。 | Bilgi kuramı bilginin kaynağını, sınırlarını ve güvenilirliğini inceler.
+逻辑学 (luójíxué) | mantık bilimi | isim | 亚里士多德被认为是形式逻辑学的创始人。 | Aristoteles biçimsel mantığın kurucusu kabul edilir.
+伦理学 (lúnlǐxué) | etik (felsefe dalı), ahlak felsefesi | isim | 伦理学关心的是"我们应该怎样生活"。 | Ahlak felsefesi "Nasıl yaşamalıyız?" sorusuyla ilgilenir.
+政治哲学 (zhèngzhì zhéxué) | siyaset felsefesi | isim | 政治哲学讨论国家权力的正当性从何而来。 | Siyaset felsefesi devlet iktidarının meşruiyetinin nereden geldiğini tartışır.
+现象学 (xiànxiàngxué) | fenomenoloji | isim | 现象学主张"回到事物本身"。 | Fenomenoloji "şeylerin kendisine dönmeyi" savunur.
+心灵哲学 (xīnlíng zhéxué) | zihin felsefesi | isim | 心灵哲学试图回答意识与大脑之间的关系。 | Zihin felsefesi bilinç ile beyin arasındaki ilişkiyi yanıtlamaya çalışır.
+方法论 (fāngfǎlùn) | yöntembilim | isim | 这本书在方法论上有重要的创新。 | Bu kitap yöntembilim açısından önemli yenilikler içeriyor.
+存在主义 (cúnzài zhǔyì) | varoluşçuluk | isim | 存在主义认为人首先存在，然后才定义自己。 | Varoluşçuluğa göre insan önce var olur, sonra kendini tanımlar.
+## Temel kavramlar
+存在 (cúnzài) | varlık; var olmak | isim | 笛卡尔从"我思"推出了"我"的存在。 | Descartes "düşünüyorum"dan yola çıkarak "ben"in varlığını çıkarsadı.
+实体 (shítǐ) | töz | isim | 斯宾诺莎认为宇宙中只有一个实体。 | Spinoza'ya göre evrende yalnızca tek bir töz vardır.
+理性 (lǐxìng) | akıl, rasyonellik | isim | 启蒙思想家相信人的理性能够认识世界。 | Aydınlanma düşünürleri insan aklının dünyayı kavrayabileceğine inanıyordu.
+感性 (gǎnxìng) | duyusallık, duyusal | isim | 认识从感性开始，然后上升到理性。 | Bilgi duyusallıkla başlar, ardından akla yükselir.
+先验 (xiānyàn) | aşkın, deneyim öncesi (a priori) | sıfat | 康德认为时间和空间是先验的直观形式。 | Kant'a göre zaman ve mekân deneyim öncesi sezgi biçimleridir.
+经验主义 (jīngyàn zhǔyì) | deneycilik, ampirizm | isim | 经验主义认为一切知识都来源于经验。 | Deneycilik tüm bilginin deneyimden geldiğini savunur.
+唯物主义 (wéiwù zhǔyì) | maddecilik | isim | 唯物主义认为物质是第一性的。 | Maddecilik, maddenin birincil olduğunu öne sürer.
+唯心主义 (wéixīn zhǔyì) | idealizm (felsefi) | isim | 唯心主义强调精神或意识的决定作用。 | İdealizm ruhun ya da bilincin belirleyici rolünü vurgular.
+主体 (zhǔtǐ) | özne | isim | 在认识过程中，人是主体，世界是客体。 | Bilme sürecinde insan özne, dünya nesnedir.
+客体 (kètǐ) | nesne (felsefi) | isim | 主体和客体的关系是认识论的基本问题。 | Özne ile nesne arasındaki ilişki bilgi kuramının temel sorunudur.
+## Mantık ve akıl yürütme
+三段论 (sānduànlùn) | tasım (kıyas) | isim | "人都会死，苏格拉底是人，所以苏格拉底会死"是一个三段论。 | "Bütün insanlar ölümlüdür, Sokrates insandır, öyleyse Sokrates ölümlüdür" bir tasımdır.
+谬误 (miùwù) | safsata, mantık hatası | isim | 这个论证犯了以偏概全的谬误。 | Bu akıl yürütme aceleci genelleme safsatasına düşüyor.
+诡辩 (guǐbiàn) | laf cambazlığı, sofistlik | isim | 他的话听起来有道理，其实是诡辩。 | Sözleri mantıklı gibi geliyor ama aslında laf cambazlığı.
+循环论证 (xúnhuán lùnzhèng) | kısır döngülü kanıtlama | isim | 用结论来证明前提，就是循环论证。 | Öncülü sonuçla kanıtlamaya çalışmak kısır döngülü bir kanıtlamadır.
+充分条件 (chōngfèn tiáojiàn) | yeter koşul | isim | 努力是成功的必要条件，但不是充分条件。 | Çaba başarı için gerek koşuldur ama yeter koşul değildir.
+必要条件 (bìyào tiáojiàn) | gerek koşul | isim | 有水是生命存在的必要条件。 | Suyun varlığı yaşamın var olmasının gerek koşuludur.
+矛盾律 (máodùnlǜ) | çelişmezlik ilkesi | isim | 根据矛盾律，一个命题不能同时既真又假。 | Çelişmezlik ilkesine göre bir önerme aynı anda hem doğru hem yanlış olamaz.
+反证法 (fǎnzhèngfǎ) | olmayana ergi yöntemi | isim | 数学老师用反证法证明了根号二是无理数。 | Matematik öğretmeni ikinin karekökünün irrasyonel olduğunu olmayana ergi yöntemiyle kanıtladı.
+二律背反 (èrlǜ bèifǎn) | antinomi | isim | 康德揭示了理性在思考无限时会陷入二律背反。 | Kant, aklın sonsuzu düşünürken antinomilere düştüğünü gösterdi.
+归谬法 (guīmiùfǎ) | saçmaya indirgeme | isim | 他用归谬法指出，对方的观点推到最后会变得荒谬。 | Saçmaya indirgeme yöntemiyle karşı tarafın görüşünün sonuna kadar götürülünce saçmalaşacağını gösterdi.
+## Ahlak kuramları
+功利主义 (gōnglì zhǔyì) | faydacılık | isim | 功利主义追求最大多数人的最大幸福。 | Faydacılık en çok sayıda insanın en büyük mutluluğunu hedefler.
+义务论 (yìwùlùn) | ödev etiği, deontoloji | isim | 义务论认为，有些行为无论结果如何都是错的。 | Ödev etiğine göre bazı eylemler sonucu ne olursa olsun yanlıştır.
+美德伦理 (měidé lúnlǐ) | erdem etiği | isim | 美德伦理关注的是"做一个什么样的人"。 | Erdem etiği "nasıl bir insan olmalı" sorusuna odaklanır.
+相对主义 (xiāngduì zhǔyì) | görecilik | isim | 道德相对主义认为对错标准因文化而异。 | Ahlaki görecilik doğru ve yanlışın ölçütünün kültürden kültüre değiştiğini savunur.
+利己主义 (lìjǐ zhǔyì) | bencillik (egoizm) | isim | 极端的利己主义会破坏社会信任。 | Aşırı bencillik toplumsal güveni yıkar.
+利他主义 (lìtā zhǔyì) | özgecilik (altruizm) | isim | 献血是利他主义行为的典型例子。 | Kan bağışı özgeci davranışın tipik bir örneğidir.
+道德律令 (dàodé lǜlìng) | ahlak buyruğu | isim | 康德的道德律令要求人永远把他人当作目的。 | Kant'ın ahlak buyruğu insanın başkalarını her zaman amaç olarak görmesini ister.
+后果主义 (hòuguǒ zhǔyì) | sonuççuluk | isim | 后果主义只根据行为的结果来判断对错。 | Sonuççuluk doğru ile yanlışı yalnızca eylemin sonucuna göre değerlendirir.
+契约论 (qìyuēlùn) | sözleşmecilik | isim | 契约论认为道德规则来自人们之间的相互约定。 | Sözleşmecilik ahlak kurallarının insanlar arası karşılıklı anlaşmalardan doğduğunu savunur.
+良知 (liángzhī) | vicdan, doğuştan iyi bilgi | isim | 王阳明主张"致良知"，即把内心的良知推广到行动中。 | Wang Yangming "vicdanı gerçekleştirme"yi, yani içteki vicdanı eyleme yansıtmayı savundu.
+## Etik tartışmalar
+安乐死 (ānlèsǐ) | ötanazi | isim | 安乐死是否应该合法化，至今争议很大。 | Ötanazinin yasallaşıp yasallaşmaması gerektiği bugün hâlâ çok tartışmalı.
+动物权利 (dòngwù quánlì) | hayvan hakları | isim | 越来越多的人开始关注动物权利问题。 | Giderek daha fazla insan hayvan hakları konusuna ilgi duyuyor.
+电车难题 (diànchē nántí) | tramvay ikilemi | isim | 电车难题考验的是我们对生命价值的判断。 | Tramvay ikilemi, yaşamın değerine ilişkin yargılarımızı sınar.
+道德困境 (dàodé kùnjìng) | ahlaki ikilem | isim | 医生有时会面临救谁不救谁的道德困境。 | Doktorlar bazen kimi kurtaracakları konusunda ahlaki bir ikilemle karşılaşır.
+生命伦理 (shēngmìng lúnlǐ) | biyoetik | isim | 基因技术的发展给生命伦理提出了全新的问题。 | Gen teknolojisinin gelişmesi biyoetiğe yepyeni sorular getirdi.
+自由意志 (zìyóu yìzhì) | özgür irade | isim | 如果一切都是注定的，那自由意志还存在吗？ | Her şey önceden belirlenmişse özgür irade hâlâ var mıdır?
+道德责任 (dàodé zérèn) | ahlaki sorumluluk | isim | 企业不仅有法律责任，也有道德责任。 | Şirketlerin yalnızca hukuki değil ahlaki sorumlulukları da vardır.
+正当性 (zhèngdàngxìng) | haklılık, meşruluk | isim | 目的的正当性并不能证明手段的正当性。 | Amacın haklı olması aracın haklı olduğunu kanıtlamaz.
+程序正义 (chéngxù zhèngyì) | usul adaleti | isim | 没有程序正义，就很难保证结果的公正。 | Usul adaleti olmadan sonucun adil olması pek güvence altına alınamaz.
+人格尊严 (réngé zūnyán) | insan onuru | isim | 任何制度都应当尊重人的人格尊严。 | Her düzen insan onuruna saygı göstermelidir.
+## Klasik Çin düşünce okulları
+儒家 (Rújiā) | Konfüçyüsçülük | isim | 儒家思想对东亚社会产生了深远影响。 | Konfüçyüsçü düşünce Doğu Asya toplumlarını derinden etkiledi.
+道家 (Dàojiā) | Taoculuk (felsefe okulu) | isim | 道家主张顺应自然，反对过多的人为干预。 | Taocu okul doğaya uymayı savunur, aşırı insan müdahalesine karşı çıkar.
+法家 (Fǎjiā) | Legalizm (Yasacılar okulu) | isim | 法家主张用严格的法律治理国家。 | Yasacılar okulu devletin katı yasalarla yönetilmesini savunur.
+墨家 (Mòjiā) | Mohizm | isim | 墨家提倡"兼爱"和"非攻"。 | Mohizm "ayrımsız sevgi" ve "saldırmazlık" ilkelerini savunur.
+仁 (rén) | insanseverlik, erdem (Konfüçyüsçü) | isim | 孔子把"仁"看作最高的道德原则。 | Konfüçyüs "insanseverliği" en yüksek ahlak ilkesi olarak görürdü.
+义 (yì) | doğruluk, hakkaniyet (erdem) | isim | 孟子说，生和义不能兼得时，要舍生取义。 | Mencius'a göre yaşam ile doğruluk bir arada olamıyorsa doğruluk için yaşamdan vazgeçilmelidir.
+礼 (lǐ) | adap, ritüel düzen | isim | 儒家认为"礼"能够维持社会的秩序。 | Konfüçyüsçüler "adabın" toplum düzenini koruyabileceğine inanır.
+道 (dào) | Tao, yol (felsefi ilke) | isim | 老子说："道可道，非常道。" | Laozi şöyle der: "Söylenebilen Tao, ebedî Tao değildir."
+无为 (wúwéi) | eylemsizlik, zorlamadan eylem | isim | "无为而治"并不是什么都不做，而是不违背自然。 | "Eylemsizlikle yönetmek" hiçbir şey yapmamak değil, doğaya aykırı davranmamaktır.
+中庸 (zhōngyōng) | orta yol, ölçülülük | isim | 中庸之道强调做事不偏不倚、恰到好处。 | Orta yol öğretisi işleri taraf tutmadan ve tam kıvamında yapmayı vurgular.
+## Çin düşüncesinde kavramlar
+阴阳 (yīnyáng) | yin ve yang | isim | 古人用阴阳来解释万物的变化。 | Eskiler her şeyin değişimini yin ve yang ile açıklardı.
+天人合一 (tiānrén héyī) | insan ile göğün birliği | deyim | 天人合一的思想强调人与自然的和谐。 | İnsan ile göğün birliği düşüncesi insanla doğa arasındaki uyumu vurgular.
+知行合一 (zhīxíng héyī) | bilgi ile eylemin birliği | deyim | 王阳明提出了"知行合一"的主张。 | Wang Yangming "bilgi ile eylemin birliği" ilkesini ortaya koydu.
+修身 (xiūshēn) | kendini yetiştirmek (ahlaken) | fiil | 儒家认为，修身是齐家、治国的基础。 | Konfüçyüsçülüğe göre kendini yetiştirmek aileyi düzenlemenin ve devleti yönetmenin temelidir.
+性善论 (xìngshànlùn) | insan doğasının iyiliği öğretisi | isim | 孟子的性善论认为人生来就有善良的本性。 | Mencius'un öğretisine göre insan doğuştan iyi bir doğaya sahiptir.
+性恶论 (xìng'èlùn) | insan doğasının kötülüğü öğretisi | isim | 荀子的性恶论强调后天教育的重要性。 | Xunzi'nin insan doğasının kötülüğü öğretisi sonradan verilen eğitimin önemini vurgular.
+格物致知 (géwù zhìzhī) | şeyleri inceleyerek bilgiye ulaşmak | deyim | 朱熹主张通过格物致知来认识天理。 | Zhu Xi göksel ilkeyi şeyleri inceleyip bilgiye ulaşarak kavramayı savundu.
+和而不同 (hé ér bù tóng) | farklı kalarak uyum içinde olmak | deyim | 君子和而不同，小人同而不和。 | Erdemli insan farklı kalarak uyum içinde olur, bayağı insan ise aynılaşır ama uyum sağlamaz.
+理学 (lǐxué) | Yeni Konfüçyüsçülük (İlke okulu) | isim | 宋明理学对后世的教育制度影响很大。 | Song-Ming dönemi İlke okulu sonraki dönemlerin eğitim sistemini çok etkiledi.
+心学 (xīnxué) | Gönül okulu (Wang Yangming öğretisi) | isim | 心学认为"心即理"，真理就在人的内心。 | Gönül okulu "gönül ilkenin ta kendisidir" der; hakikat insanın içindedir.
+## Felsefi akımlar
+怀疑论 (huáiyílùn) | kuşkuculuk | isim | 怀疑论者认为我们无法获得确定无疑的知识。 | Kuşkucular kesin bilgiye ulaşamayacağımızı düşünür.
+实用主义 (shíyòng zhǔyì) | pragmatizm | isim | 实用主义以实际效果作为检验真理的标准。 | Pragmatizm pratik sonucu hakikatin ölçütü olarak alır.
+虚无主义 (xūwú zhǔyì) | nihilizm | isim | 尼采对虚无主义进行了深刻的分析。 | Nietzsche nihilizmi derinlemesine çözümledi.
+决定论 (juédìnglùn) | belirlenimcilik | isim | 决定论认为一切事件都有其必然的原因。 | Belirlenimcilik her olayın zorunlu bir nedeni olduğunu savunur.
+二元论 (èryuánlùn) | ikicilik (düalizm) | isim | 笛卡尔的二元论把心灵和身体看作两种不同的实体。 | Descartes'ın ikiciliği zihin ve bedeni iki ayrı töz olarak görür.
+一元论 (yīyuánlùn) | tekçilik (monizm) | isim | 一元论认为世界只有一个根本的本原。 | Tekçilik dünyanın tek bir temel ilkesi olduğunu savunur.
+辩证法 (biànzhèngfǎ) | diyalektik | isim | 黑格尔的辩证法强调事物在矛盾中发展。 | Hegel'in diyalektiği şeylerin çelişki içinde geliştiğini vurgular.
+人文主义 (rénwén zhǔyì) | hümanizm | isim | 文艺复兴时期的人文主义把人放在了中心位置。 | Rönesans hümanizmi insanı merkeze koydu.
+启蒙运动 (qǐméng yùndòng) | Aydınlanma hareketi | isim | 启蒙运动倡导用理性反对迷信和专制。 | Aydınlanma hareketi akılla batıl inanca ve mutlakiyetçiliğe karşı çıkmayı savundu.
+不可知论 (bùkězhīlùn) | bilinemezcilik | isim | 不可知论者认为某些终极问题人类永远无法回答。 | Bilinemezciler bazı nihai soruların insanlarca asla yanıtlanamayacağını düşünür.
+## Hakikat ve bilgi
+真理 (zhēnlǐ) | hakikat, doğru | isim | 实践是检验真理的唯一标准。 | Uygulama, hakikati sınamanın tek ölçütüdür.
+客观性 (kèguānxìng) | nesnellik | isim | 历史学家应该尽可能保持客观性。 | Tarihçiler olabildiğince nesnel kalmalıdır.
+主观性 (zhǔguānxìng) | öznellik | isim | 审美判断不可避免地带有主观性。 | Estetik yargılar kaçınılmaz olarak öznellik taşır.
+直觉 (zhíjué) | sezgi | isim | 有时候直觉比理性分析更可靠。 | Bazen sezgi akılcı çözümlemeden daha güvenilirdir.
+证伪 (zhèngwěi) | yanlışlamak | fiil | 波普尔认为，科学理论必须是可以被证伪的。 | Popper'a göre bilimsel kuramlar yanlışlanabilir olmalıdır.
+确定性 (quèdìngxìng) | kesinlik | isim | 在一个充满变化的时代，人们渴望确定性。 | Değişimle dolu bir çağda insanlar kesinliğe hasret duyuyor.
+相对性 (xiāngduìxìng) | görelilik | isim | 美的标准具有一定的相对性。 | Güzelliğin ölçütlerinin belli bir göreliliği vardır.
+假象 (jiǎxiàng) | yanıltıcı görünüş | isim | 经济繁荣只是一种假象，背后隐藏着危机。 | Ekonomik refah yalnızca yanıltıcı bir görünüş, ardında kriz gizleniyor.
+本原 (běnyuán) | ilk ilke, arkhe | isim | 古希腊哲学家泰勒斯认为水是万物的本原。 | Antik Yunan filozofu Thales suyun her şeyin ilk ilkesi olduğunu düşünüyordu.
+悖谬 (bèimiù) | saçma, akla aykırı | sıfat | 这种说法在逻辑上是悖谬的。 | Bu iddia mantıksal olarak akla aykırı.
+## Düşünme eylemleri
+思辨 (sībiàn) | spekülatif düşünme, derin akıl yürütme | isim | 这本书充满了哲学思辨。 | Bu kitap felsefi akıl yürütmelerle dolu.
+反思 (fǎnsī) | üzerine düşünmek, eleştirel değerlendirmek | fiil | 失败之后，我们要认真反思原因。 | Başarısızlıktan sonra nedenleri üzerine ciddiyetle düşünmeliyiz.
+推演 (tuīyǎn) | çıkarsamak, adım adım türetmek | fiil | 他从几个简单的公理推演出了整个体系。 | Birkaç basit aksiyomdan bütün sistemi adım adım türetti.
+阐释 (chǎnshì) | yorumlamak, açımlamak | fiil | 不同时代的学者对《论语》有不同的阐释。 | Farklı dönemlerin bilginleri Konuşmalar'ı farklı biçimlerde yorumlamıştır.
+思索 (sīsuǒ) | düşünüp taşınmak | fiil | 他坐在窗前，默默地思索着人生的意义。 | Pencerenin önünde oturup sessizce hayatın anlamı üzerine düşünüp taşınıyordu.
+沉思 (chénsī) | derin düşünceye dalmak | fiil | 老教授听完问题，沉思了很久才回答。 | Yaşlı profesör soruyu dinledikten sonra uzun süre derin düşünceye daldı, sonra yanıt verdi.
+领悟 (lǐngwù) | kavramak, idrak etmek | fiil | 经历了这么多，他终于领悟到了家人的重要。 | Bunca şeyi yaşadıktan sonra sonunda ailenin önemini idrak etti.
+顿悟 (dùnwù) | aniden aydınlanmak | fiil | 禅宗强调人可以在一瞬间顿悟。 | Zen Budizmi insanın bir anda aydınlanabileceğini vurgular.
+参透 (cāntòu) | özüne nüfuz etmek | fiil | 他用了半辈子才参透这个道理。 | Bu hakikatin özüne ancak ömrünün yarısını harcayarak nüfuz edebildi.
+诘问 (jiéwèn) | sorguya çekmek, sıkıştırarak sormak | fiil | 苏格拉底常常在街头诘问路人，让他们发现自己的无知。 | Sokrates sık sık sokakta yoldan geçenleri sorguya çekip onlara cahilliklerini fark ettirirdi.
