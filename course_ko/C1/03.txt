@@ -1,0 +1,111 @@
+# UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+## Yargılama süreci
+공판 (gongpan) | duruşma (ceza davası) | isim | 첫 공판은 다음 달 십오 일에 열릴 예정이다. | İlk duruşmanın gelecek ayın on beşinde yapılması planlanıyor.
+기소하다 (gisohada) | iddianame düzenlemek, dava açmak (savcı) | fiil | 검찰은 그를 사기 혐의로 기소했다. | Savcılık onun hakkında dolandırıcılık suçlamasıyla iddianame düzenledi.
+검찰 (geomchal) | savcılık | isim | 검찰은 회사 본사를 압수 수색했다. | Savcılık şirketin genel merkezinde arama ve el koyma yaptı.
+피고인 (pigoin) | sanık | isim | 피고인은 법정에서 모든 혐의를 부인했다. | Sanık mahkemede bütün suçlamaları reddetti.
+원고 (wongo) | davacı | isim | 법원은 원고의 청구를 일부 받아들였다. | Mahkeme davacının talebini kısmen kabul etti.
+피고 (pigo) | davalı | isim | 피고는 원고에게 위자료로 천만 원을 지급하라는 판결을 받았다. | Davalı, davacıya tazminat olarak on milyon won ödemeye mahkûm edildi.
+변론 (byeollon) | savunma, sözlü yargılama | isim | 변호사는 최후 변론에서 피고인의 사정을 호소했다. | Avukat son savunmasında sanığın durumunu anlattı.
+선고하다 (seongohada) | (hüküm, ceza) açıklamak, vermek | fiil | 재판부는 피고인에게 징역 삼 년을 선고했다. | Mahkeme heyeti sanığa üç yıl hapis cezası verdi.
+항소하다 (hangsohada) | istinafa başvurmak, üst mahkemeye taşımak | fiil | 그는 일심 판결에 불복하여 항소했다. | İlk derece kararına itiraz ederek istinafa başvurdu.
+상고하다 (sanggohada) | temyize gitmek (Yargıtay) | fiil | 변호인단은 대법원에 상고하겠다고 밝혔다. | Avukat ekibi Yargıtay'a temyize gideceklerini açıkladı.
+## Ceza soruşturması
+피의자 (piuija) | şüpheli | isim | 경찰은 피의자를 사흘 만에 검거했다. | Polis şüpheliyi üç gün içinde yakaladı.
+혐의 (hyeomui) | suçlama, şüphe | isim | 그는 뇌물을 받은 혐의로 조사를 받고 있다. | Rüşvet almak şüphesiyle soruşturuluyor.
+구속되다 (gusokdoeda) | tutuklanmak | fiil | 도주 우려가 있어 피의자가 구속되었다. | Kaçma şüphesi olduğu için şüpheli tutuklandı.
+영장 (yeongjang) | müzekkere, emir (tutuklama, arama) | isim | 법원은 검찰이 청구한 체포 영장을 발부했다. | Mahkeme savcılığın istediği yakalama müzekkeresini çıkardı.
+기각되다 (gigakdoeda) | reddedilmek (talep, dava) | fiil | 증거 부족으로 구속 영장 청구가 기각되었다. | Delil yetersizliğinden tutuklama talebi reddedildi.
+무죄 (mujoe) | beraat, suçsuz | isim | 십 년 만의 재심에서 그는 무죄 판결을 받았다. | On yıl sonraki yeniden yargılamada beraat etti.
+유죄 (yujoe) | suçlu, mahkûmiyet | isim | 배심원단은 만장일치로 유죄 평결을 내렸다. | Jüri oy birliğiyle suçlu kararı verdi.
+집행 유예 (jipaeng yuye) | ertelenmiş ceza | isim | 초범이라는 점이 고려되어 집행 유예가 선고되었다. | İlk suçu olduğu dikkate alınarak cezası ertelendi.
+징역 (jingyeok) | hapis cezası | isim | 그는 징역 오 년에 처해졌다. | Beş yıl hapis cezasına çarptırıldı.
+압수 수색 (apsu susaek) | arama ve el koyma | isim | 수사관들이 사무실을 압수 수색하여 서류를 확보했다. | Müfettişler ofiste arama yapıp belgelere el koydu.
+## Medeni hukuk
+민법 (minbeop) | medeni kanun | isim | 민법에 따르면 만 십구 세가 되면 성년이 된다. | Medeni kanuna göre on dokuz yaşını dolduran kişi reşit olur.
+손해 배상 (sonhae baesang) | tazminat | isim | 피해자는 회사를 상대로 손해 배상을 청구했다. | Mağdur şirkete karşı tazminat talep etti.
+소송을 제기하다 (sosongeul jegihada) | dava açmak | ifade | 주민들은 공장을 상대로 환경 피해 소송을 제기했다. | Mahalle sakinleri fabrikaya karşı çevre zararı davası açtı.
+채권자 (chaegwonja) | alacaklı | isim | 회사가 파산하자 채권자들이 몰려들었다. | Şirket iflas edince alacaklılar akın etti.
+채무자 (chaemuja) | borçlu | isim | 채무자가 기한 내에 돈을 갚지 않으면 재산이 압류될 수 있다. | Borçlu süresi içinde ödemezse mallarına haciz konabilir.
+상속 (sangsok) | miras, veraset | isim | 형제들은 부모님의 재산 상속 문제로 오랫동안 다퉜다. | Kardeşler anne babalarının mirası yüzünden uzun süre çekiştiler.
+소유권 (soyugwon) | mülkiyet hakkı | isim | 토지의 소유권을 둘러싼 분쟁이 법정으로 번졌다. | Arazinin mülkiyeti üzerine çıkan anlaşmazlık mahkemeye taşındı.
+양육권 (yangyukgwon) | velayet | isim | 이혼 후 양육권은 어머니에게 돌아갔다. | Boşanmanın ardından velayet anneye verildi.
+위자료 (wijaryo) | manevi tazminat; nafaka benzeri ödeme | isim | 법원은 남편에게 위자료 삼천만 원을 지급하라고 판결했다. | Mahkeme kocanın otuz milyon won manevi tazminat ödemesine hükmetti.
+조정 (jojeong) | arabuluculuk, uzlaştırma | isim | 두 사람은 소송 대신 조정을 통해 갈등을 해결했다. | İkisi davaya gitmek yerine arabuluculukla anlaşmazlığı çözdü.
+## Delil ve tanıklık
+증거 (jeunggeo) | delil, kanıt | isim | 결정적인 증거가 나오면서 수사가 급진전되었다. | Kesin bir delil ortaya çıkınca soruşturma hızla ilerledi.
+증인 (jeungin) | tanık | isim | 사건 현장을 목격한 증인이 법정에 출석했다. | Olay yerini gören tanık mahkemeye geldi.
+증언하다 (jeungeonhada) | tanıklık etmek | fiil | 그녀는 피고인이 그날 밤 집에 있었다고 증언했다. | Sanığın o gece evde olduğuna tanıklık etti.
+진술 (jinsul) | ifade (resmî beyan) | isim | 피의자의 진술이 처음과 계속 달라졌다. | Şüphelinin ifadesi ilkinden sürekli farklılaştı.
+자백하다 (jabaekada) | itiraf etmek | fiil | 끈질긴 조사 끝에 그는 범행을 자백했다. | Israrlı sorgunun sonunda suçunu itiraf etti.
+물증 (muljeung) | maddi delil | isim | 심증은 있지만 물증이 없어서 기소하기 어렵다. | Kanaat var ama maddi delil olmadığından iddianame düzenlemek zor.
+정황 증거 (jeonghwang jeunggeo) | dolaylı delil | isim | 정황 증거만으로 유죄를 확정하기에는 무리가 있다. | Yalnızca dolaylı delillerle mahkûmiyete karar vermek zorlama olur.
+위증 (wijeung) | yalan tanıklık | isim | 법정에서 거짓말을 하면 위증죄로 처벌받는다. | Mahkemede yalan söyleyen yalan tanıklıktan cezalandırılır.
+신문하다 (sinmunhada) | sorgulamak (mahkemede) | fiil | 검사는 증인을 두 시간 동안 신문했다. | Savcı tanığı iki saat boyunca sorguladı.
+목격자 (mokgyeokja) | görgü tanığı | isim | 경찰은 사고 목격자를 찾는 현수막을 내걸었다. | Polis kazanın görgü tanıklarını arayan bir pankart astı.
+## Hukuki kalıplar
+법에 저촉되다 (beobe jeochokdoeda) | kanuna aykırı düşmek | ifade | 이러한 광고 방식은 현행법에 저촉될 수 있다. | Bu reklam yöntemi yürürlükteki kanuna aykırı düşebilir.
+법적 효력 (beopjeok hyoryeok) | hukuki geçerlilik | isim | 서명이 없는 계약서는 법적 효력이 없다. | İmzasız sözleşmenin hukuki geçerliliği yoktur.
+적법하다 (jeokbeopada) | yasaya uygun olmak | sıfat | 수사 과정이 적법했는지를 두고 논란이 일었다. | Soruşturma sürecinin yasaya uygun olup olmadığı tartışma yarattı.
+위법 (wibeop) | hukuka aykırılık, yasa dışılık | isim | 법원은 시의 결정에 위법 사항이 있다고 판단했다. | Mahkeme belediyenin kararında hukuka aykırılık olduğuna hükmetti.
+관할 (gwanhal) | yetki alanı | isim | 이 사건은 서울중앙지방법원의 관할에 속한다. | Bu dava Seul Merkez Asliye Mahkemesinin yetki alanına giriyor.
+공소 시효 (gongso sihyo) | dava zamanaşımı | isim | 공소 시효가 지나 범인을 처벌할 수 없게 되었다. | Zamanaşımı dolduğu için suçlu cezalandırılamaz hâle geldi.
+판례 (pallye) | içtihat, emsal karar | isim | 이번 판결은 앞으로 비슷한 사건의 중요한 판례가 될 것이다. | Bu karar gelecekte benzer davalar için önemli bir emsal olacak.
+소급 적용 (sogeup jeogyong) | geriye dönük uygulama | isim | 형벌 법규는 원칙적으로 소급 적용되지 않는다. | Ceza hükümleri ilke olarak geriye dönük uygulanmaz.
+법적 구속력 (beopjeok gusongnyeok) | hukuki bağlayıcılık | isim | 이 권고안은 법적 구속력이 없지만 상징적 의미가 크다. | Bu tavsiye kararının hukuki bağlayıcılığı yok ama simgesel anlamı büyük.
+단서 조항 (danseo johang) | şart maddesi, istisna hükmü | isim | 계약서 끝에 붙은 단서 조항이 문제가 되었다. | Sözleşmenin sonuna eklenen istisna hükmü sorun oldu.
+## Mahkemeler ve hukukçular
+헌법 재판소 (heonbeop jaepanso) | Anayasa Mahkemesi | isim | 헌법 재판소는 그 법률 조항이 위헌이라고 결정했다. | Anayasa Mahkemesi o kanun maddesinin anayasaya aykırı olduğuna karar verdi.
+대법원 (daebeobwon) | Yargıtay, yüksek mahkeme | isim | 사건은 결국 대법원까지 올라갔다. | Dava sonunda Yargıtay'a kadar çıktı.
+지방 법원 (jibang beobwon) | asliye mahkemesi, bölge mahkemesi | isim | 그 사건의 일심 재판은 지방 법원에서 진행되었다. | O davanın ilk derece yargılaması asliye mahkemesinde yapıldı.
+법정 (beopjeong) | mahkeme salonu | isim | 판사가 들어오자 법정 안이 조용해졌다. | Hâkim girince mahkeme salonu sessizleşti.
+재판부 (jaepanbu) | mahkeme heyeti | isim | 재판부는 피고인의 반성 태도를 고려해 형량을 줄였다. | Mahkeme heyeti sanığın pişmanlığını göz önünde tutarak cezayı indirdi.
+배심원 (baesimwon) | jüri üyesi | isim | 한국에서도 국민 참여 재판에서는 배심원이 의견을 낸다. | Kore'de de halkın katıldığı yargılamalarda jüri üyeleri görüş bildirir.
+판사 (pansa) | hâkim | isim | 판사는 양측의 주장을 끝까지 경청했다. | Hâkim iki tarafın iddialarını sonuna kadar dinledi.
+국선 변호인 (gukseon byeonhoin) | devletin atadığı avukat, zorunlu müdafi | isim | 변호사를 선임할 형편이 안 되어 국선 변호인이 배정되었다. | Avukat tutacak durumu olmadığından ona devlet tarafından avukat atandı.
+법조인 (beopjoin) | hukukçu (hâkim, savcı, avukat) | isim | 그는 삼대째 법조인을 배출한 집안에서 자랐다. | Üç kuşaktır hukukçu yetiştiren bir ailede büyüdü.
+사법부 (sabeopbu) | yargı erki | isim | 사법부의 독립은 민주주의의 기본 원칙이다. | Yargının bağımsızlığı demokrasinin temel ilkesidir.
+## Suçlar
+사기죄 (sagijoe) | dolandırıcılık suçu | isim | 그는 투자자들을 속인 사기죄로 징역형을 받았다. | Yatırımcıları kandırdığı için dolandırıcılık suçundan hapis cezası aldı.
+절도 (jeoldo) | hırsızlık | isim | 그는 상습 절도로 여러 번 처벌받은 적이 있다. | Alışkanlık hâline gelmiş hırsızlıktan birkaç kez ceza almıştı.
+폭행 (pokaeng) | darp, saldırı | isim | 술집에서 시비가 붙어 폭행 사건으로 번졌다. | Barda çıkan tartışma darp olayına dönüştü.
+뇌물 (noemul) | rüşvet | isim | 공무원이 업자로부터 뇌물을 받다가 적발되었다. | Bir memur müteahhitten rüşvet alırken yakalandı.
+위조 (wijo) | sahtecilik | isim | 그는 서류를 위조해 대출을 받으려 했다. | Belgeleri sahteleyerek kredi almaya çalıştı.
+명예 훼손 (myeongye hweson) | hakaret, itibar zedeleme | isim | 인터넷에 허위 사실을 올렸다가 명예 훼손으로 고소당했다. | İnternete asılsız bilgi koyduğu için itibar zedelemeden şikâyet edildi.
+협박 (hyeopbak) | tehdit | isim | 그는 돈을 요구하는 협박 문자를 받았다. | Para isteyen bir tehdit mesajı aldı.
+과실 (gwasil) | ihmal, kusur | isim | 운전자의 과실이 사고의 주된 원인으로 밝혀졌다. | Sürücünün ihmalinin kazanın başlıca nedeni olduğu anlaşıldı.
+공범 (gongbeom) | suç ortağı | isim | 경찰은 달아난 공범을 쫓고 있다. | Polis kaçan suç ortağının peşinde.
+고소장 (gosojang) | şikâyet dilekçesi (suç duyurusu) | isim | 그는 자신을 비방한 사람을 상대로 경찰에 고소장을 냈다. | Kendisine iftira atan kişi hakkında polise şikâyet dilekçesi verdi.
+## Haklar
+기본권 (gibongwon) | temel haklar | isim | 헌법은 모든 국민의 기본권을 보장한다. | Anayasa tüm vatandaşların temel haklarını güvence altına alır.
+침해하다 (chimhaehada) | ihlal etmek | fiil | 동의 없는 촬영은 개인의 초상권을 침해하는 행위이다. | İzinsiz çekim, kişinin görüntü hakkını ihlal eden bir eylemdir.
+묵비권 (mukbigwon) | susma hakkı | isim | 피의자는 조사 내내 묵비권을 행사했다. | Şüpheli sorgu boyunca susma hakkını kullandı.
+무죄 추정의 원칙 (mujoe chujeongui wonchik) | masumiyet karinesi | ifade | 무죄 추정의 원칙에 따라 판결 전까지는 범인으로 단정해서는 안 된다. | Masumiyet karinesi gereği karar çıkana kadar kimse suçlu ilan edilemez.
+초상권 (chosanggwon) | görüntü hakkı | isim | 연예인의 사진을 무단으로 쓰면 초상권 침해가 될 수 있다. | Ünlülerin fotoğrafını izinsiz kullanmak görüntü hakkı ihlali olabilir.
+청구하다 (cheongguhada) | talep etmek (resmî) | fiil | 그는 부당 해고에 대해 밀린 임금을 청구했다. | Haksız işten çıkarma nedeniyle birikmiş ücretlerini talep etti.
+행사하다 (haengsahada) | (hak, yetki) kullanmak | fiil | 국민은 선거를 통해 주권을 행사한다. | Halk egemenliğini seçim yoluyla kullanır.
+보장하다 (bojanghada) | güvence altına almak | fiil | 법은 근로자의 단결권을 보장하고 있다. | Kanun işçilerin örgütlenme hakkını güvence altına alıyor.
+권익 (gwonik) | hak ve çıkarlar | isim | 이 단체는 소비자의 권익 보호를 위해 활동한다. | Bu dernek tüketicilerin hak ve çıkarlarını korumak için çalışıyor.
+구제 (guje) | (hukuki) çare, telafi | isim | 피해자 구제를 위한 특별법이 마련되었다. | Mağdurlara çare sağlamak için özel bir kanun hazırlandı.
+## Ceza ve infaz
+벌금 (beolgeum) | para cezası | isim | 그는 음주 운전으로 벌금 오백만 원을 냈다. | Alkollü araç kullandığı için beş milyon won para cezası ödedi.
+형량 (hyeongnyang) | ceza miktarı | isim | 시민들은 범죄에 비해 형량이 너무 가볍다며 분노했다. | Vatandaşlar cezanın suça göre çok hafif olduğunu söyleyip öfkelendi.
+감형 (gamhyeong) | ceza indirimi | isim | 그는 피해자와 합의하여 감형을 받았다. | Mağdurla uzlaştığı için ceza indirimi aldı.
+가석방 (gaseokbang) | şartlı tahliye | isim | 모범수로 인정받아 형기를 일 년 남기고 가석방되었다. | Örnek mahkûm sayılıp cezasının bitmesine bir yıl kala şartlı tahliye edildi.
+사면 (samyeon) | af | isim | 광복절을 맞아 특별 사면이 단행되었다. | Kurtuluş Günü vesilesiyle özel af ilan edildi.
+교도소 (gyodoso) | cezaevi | isim | 그는 교도소에서 검정고시를 준비해 합격했다. | Cezaevinde dışarıdan bitirme sınavına hazırlanıp geçti.
+수감되다 (sugamdoeda) | hapse girmek, cezaevine konmak | fiil | 그는 이십 년 가까이 수감되어 있다가 풀려났다. | Yirmi yıla yakın hapis yattıktan sonra serbest bırakıldı.
+전과 (jeongwa) | sabıka | isim | 전과가 있으면 일부 직업을 갖기 어렵다. | Sabıkası olan biri bazı mesleklere zor girer.
+재범 (jaebeom) | suçun tekrarı, mükerrir suç | isim | 교정 교육은 재범을 막는 데 효과가 있다. | Islah eğitimi suçun tekrarını önlemede etkilidir.
+처벌하다 (cheobeolhada) | cezalandırmak | fiil | 법은 아동 학대를 엄하게 처벌하도록 정하고 있다. | Kanun çocuk istismarının ağır biçimde cezalandırılmasını öngörüyor.
+## Mevzuat fiilleri
+제정하다 (jejeonghada) | (kanun) çıkarmak, yürürlüğe koymak | fiil | 국회는 개인 정보 보호법을 새로 제정했다. | Meclis yeni bir kişisel verileri koruma kanunu çıkardı.
+개정하다 (gaejeonghada) | değiştirmek (kanunu) | fiil | 시대 변화에 맞게 낡은 법률을 개정해야 한다. | Eskimiş kanunlar zamanın değişimine göre değiştirilmeli.
+폐지하다 (pyejihada) | yürürlükten kaldırmak | fiil | 그 나라는 수십 년 전에 사형 제도를 폐지했다. | O ülke onlarca yıl önce idam cezasını kaldırdı.
+시행되다 (sihaengdoeda) | yürürlüğe girmek | fiil | 새 법은 내년 일월 일 일부터 시행된다. | Yeni kanun gelecek yıl bir ocaktan itibaren yürürlüğe girecek.
+공포하다 (gongpohada) | (kanunu) ilan etmek, yayımlamak | fiil | 개정된 법률은 공포한 날부터 효력이 생긴다. | Değiştirilen kanun yayımlandığı günden itibaren geçerlilik kazanır.
+위반하다 (wibanhada) | ihlal etmek, çiğnemek | fiil | 교통 법규를 위반하면 벌점이 부과된다. | Trafik kurallarını çiğneyene ceza puanı verilir.
+준수하다 (junsuhada) | uymak (kurala, kanuna) | fiil | 모든 직원은 회사의 보안 규정을 준수해야 한다. | Bütün çalışanlar şirketin güvenlik kurallarına uymak zorundadır.
+규정하다 (gyujeonghada) | düzenlemek, hükme bağlamak | fiil | 헌법은 대통령의 임기를 오 년으로 규정하고 있다. | Anayasa cumhurbaşkanının görev süresini beş yıl olarak hükme bağlamıştır.
+부과하다 (bugwahada) | (vergi, ceza) uygulamak, yüklemek | fiil | 정부는 수입품에 높은 관세를 부과했다. | Hükümet ithal mallara yüksek gümrük vergisi uyguladı.
+면제되다 (myeonjedoeda) | muaf tutulmak | fiil | 장애가 있는 사람은 일부 세금이 면제된다. | Engelli bireyler bazı vergilerden muaf tutulur.

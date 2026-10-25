@@ -42,7 +42,7 @@
 수익성 (suikseong) | kârlılık | isim | 수익성이 낮은 사업부는 정리하기로 했다. | Kârlılığı düşük birimleri kapatma kararı aldık.
 원가 (wonga) | maliyet | isim | 원자재 가격이 올라 제품 원가 부담이 커졌다. | Hammadde fiyatları yükselince ürün maliyeti yükü arttı.
 예산 집행 (yesan jipaeng) | bütçe harcaması, bütçenin kullanımı | isim | 예산 집행이 투명하게 이루어졌는지 점검이 필요하다. | Bütçe harcamasının şeffaf yapılıp yapılmadığı denetlenmeli.
-실적 (siljeok) | performans, sonuçlar | isim | 영업팀은 이번 달 실적 목표를 초과 달성했다. | Satış ekibi bu ayki performans hedefini aştı.
+매출 총이익 (maechul chongiik) | brüt kâr | isim | 매출 총이익은 매출액에서 매출 원가를 뺀 금액이다. | Brüt kâr, satış hasılatından satılan malın maliyetinin çıkarılmasıyla bulunur.
 ## Sözleşmeler
 계약을 체결하다 (gyeyageul chegyeolhada) | sözleşme imzalamak, akdetmek | ifade | 양사는 오늘 오전 공급 계약을 체결했다. | İki şirket bu sabah tedarik sözleşmesi imzaladı.
 조항 (johang) | madde, hüküm | isim | 계약서의 모든 조항을 꼼꼼히 읽고 서명하십시오. | Sözleşmenin bütün maddelerini dikkatle okuyup öyle imzalayın.
@@ -60,7 +60,7 @@
 제휴 (jehyu) | ortaklık, iş birliği | isim | 그 은행은 통신사와 제휴하여 새로운 카드를 출시했다. | O banka bir telekom şirketiyle ortaklık kurarak yeni bir kart çıkardı.
 입찰 (ipchal) | ihale, teklif verme | isim | 다리 건설 공사 입찰에 열두 개 업체가 참여했다. | Köprü inşaatı ihalesine on iki firma katıldı.
 낙찰되다 (nakchaldoeda) | ihaleyi kazanmak, ihale üzerinde kalmak | fiil | 가장 낮은 가격을 써낸 업체가 낙찰되었다. | En düşük fiyatı veren firma ihaleyi kazandı.
-견적서 (gyeonjeokseo) | fiyat teklifi belgesi | isim | 세 군데에서 견적서를 받아 비교해 보았다. | Üç yerden fiyat teklifi alıp karşılaştırdık.
+단가 (danga) | birim fiyat | isim | 대량으로 주문하면 단가를 낮춰 주겠다고 했다. | Toplu sipariş verirsek birim fiyatı düşüreceklerini söylediler.
 협상력 (hyeopsangnyeok) | pazarlık gücü | isim | 공급업체가 하나뿐이라 우리의 협상력이 약할 수밖에 없다. | Tek bir tedarikçi olduğundan pazarlık gücümüz zayıf kalmak zorunda.
 타결되다 (tagyeoldoeda) | (müzakere) sonuçlanmak, uzlaşmaya varılmak | fiil | 몇 달을 끌던 임금 협상이 마침내 타결되었다. | Aylardır süren ücret görüşmeleri sonunda uzlaşmayla sonuçlandı.
 결렬되다 (gyeollyeoldoeda) | (müzakere) çıkmaza girmek, kopmak | fiil | 양측의 입장 차이가 커서 협상이 결렬되었다. | İki tarafın görüş farkı büyük olduğu için müzakereler koptu.
@@ -70,8 +70,8 @@
 성과급 (seonggwageup) | performans primi | isim | 목표를 달성한 부서에는 성과급이 지급된다. | Hedefe ulaşan birimlere performans primi ödenir.
 정규직 (jeonggyujik) | kadrolu, süresiz sözleşmeli | isim | 그는 이 년간의 계약직 끝에 정규직으로 전환되었다. | İki yıl sözleşmeli çalıştıktan sonra kadroya geçti.
 비정규직 (bijeonggyujik) | geçici, sözleşmeli çalışan | isim | 비정규직 근로자의 처우 개선이 시급한 과제로 떠올랐다. | Geçici işçilerin koşullarının iyileştirilmesi acil bir mesele olarak öne çıktı.
-복리 후생 (bongni husaeng) | yan haklar, sosyal haklar | isim | 이 회사는 연봉은 평범하지만 복리 후생이 매우 좋다. | Bu şirketin maaşı sıradan ama yan hakları çok iyi.
-연차 (yeoncha) | yıllık izin | isim | 남은 연차를 몰아서 다음 달에 여행을 가려고 한다. | Kalan yıllık iznimi toplayıp gelecek ay seyahate çıkmayı düşünüyorum.
+상여금 (sangyeogeum) | ikramiye | isim | 이 회사는 명절마다 기본급의 절반을 상여금으로 준다. | Bu şirket her bayramda temel maaşın yarısını ikramiye olarak verir.
+임금 체불 (imgeum chebul) | ücretlerin ödenmemesi, maaş gecikmesi | isim | 공사가 중단되면서 노동자들의 임금 체불 문제가 심각해졌다. | İnşaat durunca işçilerin maaşlarının ödenmemesi sorunu ciddileşti.
 해고하다 (haegohada) | işten çıkarmak | fiil | 회사는 경영 악화를 이유로 직원 일부를 해고했다. | Şirket kötüleşen durumu gerekçe göstererek çalışanların bir kısmını işten çıkardı.
 인력 (illyeok) | insan gücü, personel | isim | 숙련된 인력이 부족해서 공장 가동률이 떨어졌다. | Kalifiye eleman eksikliği yüzünden fabrikanın kapasite kullanımı düştü.
 조직 개편 (jojik gaepyeon) | organizasyon değişikliği | isim | 대대적인 조직 개편으로 부서가 세 개로 통합되었다. | Kapsamlı organizasyon değişikliğiyle birimler üçe indirildi.
@@ -79,12 +79,12 @@
 ## Kurumsal yazışma
 품의서 (pumuiseo) | onay talep yazısı | isim | 장비를 구매하려면 먼저 품의서를 작성해 승인을 받아야 한다. | Ekipman almak için önce onay talep yazısı hazırlayıp onay almak gerekir.
 기안하다 (gianhada) | (resmî yazı) taslağını hazırlamak | fiil | 신입 사원이 기안한 문서를 팀장이 검토했다. | Yeni çalışanın hazırladığı yazı taslağını ekip lideri inceledi.
-결재 (gyeoljae) | (amirin) onayı, imza onayı | isim | 이 건은 부장님 결재가 나야 진행할 수 있습니다. | Bu iş müdürün onayı çıkınca yürütülebilir.
-공문 (gongmun) | resmî yazı | isim | 교육청에서 각 학교에 공문을 발송했다. | Milli eğitim müdürlüğü her okula resmî yazı gönderdi.
+상신하다 (sangsinhada) | (üst makama) arz etmek, onaya sunmak | fiil | 검토가 끝난 기획안을 본부장에게 상신했다. | İncelemesi biten proje önerisini bölüm başkanının onayına sundum.
+회람 (hoeram) | sirküler, dolaşıma sunulan yazı | isim | 새로운 보안 지침이 전 부서에 회람으로 돌았다. | Yeni güvenlik talimatı tüm birimlere sirküler olarak dağıtıldı.
 첨부하다 (cheombuhada) | ekte göndermek, eklemek | fiil | 회의 자료를 첨부하오니 확인 부탁드립니다. | Toplantı belgelerini ekte sunuyorum, incelemenizi rica ederim.
 회신 (hoesin) | yanıt, cevap yazısı | isim | 금요일까지 회신을 주시면 감사하겠습니다. | Cuma gününe kadar yanıt verirseniz minnettar olurum.
 수신 (susin) | alıcı; alma | isim | 이 메일은 수신 확인이 되지 않았다. | Bu e-postanın alındığı teyit edilmedi.
-참조 (chamjo) | bilgi (CC); başvurma | isim | 팀장님도 참조로 넣어서 메일을 보내 주세요. | E-postayı ekip liderini de bilgi olarak ekleyerek gönderin.
+숨은 참조 (sumeun chamjo) | gizli bilgi (BCC) | isim | 외부 업체 주소는 숨은 참조로 넣어 서로 보이지 않게 하세요. | Dış firmaların adreslerini gizli bilgiye ekleyin ki birbirlerini görmesinler.
 보고 체계 (bogo chegye) | raporlama hiyerarşisi | isim | 보고 체계가 복잡해서 의사 결정이 늦어진다. | Raporlama hiyerarşisi karmaşık olduğundan karar alma gecikiyor.
 의사 결정 (uisa gyeoljeong) | karar alma | isim | 수평적인 조직일수록 의사 결정 속도가 빠르다. | Yatay örgütlerde karar alma hızı daha yüksektir.
 ## Kurumsal fiiller
@@ -95,7 +95,7 @@
 절감하다 (jeolgamhada) | tasarruf etmek, düşürmek (maliyet) | fiil | 자동화로 인건비를 크게 절감할 수 있었다. | Otomasyonla işçilik maliyetini önemli ölçüde düşürebildik.
 유치하다 (yuchihada) | çekmek (yatırım, turist) | fiil | 시는 외국인 투자를 유치하기 위해 세금 혜택을 제공한다. | Belediye yabancı yatırım çekmek için vergi avantajı sağlıyor.
 창출하다 (changchulhada) | yaratmak, oluşturmak | fiil | 새 공장은 천 개 이상의 일자리를 창출할 것으로 기대된다. | Yeni fabrikanın binden fazla iş yaratması bekleniyor.
-달성하다 (dalseonghada) | ulaşmak (hedefe), başarmak | fiil | 우리는 마침내 연간 수출 목표를 달성했다. | Sonunda yıllık ihracat hedefimize ulaştık.
+견인하다 (gyeoninhada) | sürüklemek, (büyümeyi) çekmek | fiil | 반도체 수출이 올해 경제 성장을 견인했다. | Bu yıl ekonomik büyümeyi yarı iletken ihracatı sürükledi.
 위임하다 (wiimhada) | yetki devretmek | fiil | 사장은 일상적인 업무 결정을 각 팀장에게 위임했다. | Patron günlük iş kararlarını her ekip liderine devretti.
 이관하다 (igwanhada) | devretmek, aktarmak (işi, yetkiyi) | fiil | 해당 업무는 다음 달부터 본사로 이관된다. | İlgili iş gelecek aydan itibaren merkeze devrediliyor.
 ## Risk ve uyum
