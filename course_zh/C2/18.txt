@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+## Mahkeme belgeleri ve taraflar
+当事人 (dāngshìrén) | taraf (davada) | isim | 法院通知双方当事人下周出庭。 | Mahkeme iki tarafa gelecek hafta duruşmaya çıkmalarını bildirdi.
+诉状 (sùzhuàng) | dava dilekçesi | isim | 律师帮他写好了诉状，递交给法院。 | Avukat onun dava dilekçesini hazırlayıp mahkemeye sundu.
+起诉书 (qǐsùshū) | iddianame | isim | 检察院向法院提交了起诉书。 | Savcılık mahkemeye iddianame sundu.
+判决书 (pànjuéshū) | gerekçeli karar | isim | 判决书详细列出了法院认定的事实。 | Gerekçeli karar mahkemenin kabul ettiği olguları ayrıntılı olarak sıralıyor.
+管辖 (guǎnxiá) | yargı yetkisi; yetki alanı | isim | 这起纠纷应该由合同签订地的法院管辖。 | Bu uyuşmazlıkta yargı yetkisi sözleşmenin imzalandığı yerin mahkemesine aittir.
+证据链 (zhèngjùliàn) | delil zinciri | isim | 检方已经形成了完整的证据链。 | İddia makamı eksiksiz bir delil zinciri oluşturdu.
+庭外和解 (tíngwài héjiě) | mahkeme dışı uzlaşma | isim | 双方最终达成了庭外和解。 | Taraflar sonunda mahkeme dışında uzlaştı.
+缺席判决 (quēxí pànjué) | gıyabi hüküm | isim | 被告拒不到庭，法院作出了缺席判决。 | Davalı duruşmaya gelmeyince mahkeme gıyabi hüküm verdi.
+诉求 (sùqiú) | talep (hukuki ya da toplumsal) | isim | 法院支持了原告的大部分诉求。 | Mahkeme davacının taleplerinin çoğunu kabul etti.
+答辩状 (dábiànzhuàng) | cevap dilekçesi | isim | 被告应在十五日内提交答辩状。 | Davalı on beş gün içinde cevap dilekçesini sunmalıdır.
+## Suç ve soruşturma jargonu
+案发 (ànfā) | olay meydana gelmek (suç) | fiil | 案发当晚，他声称自己一直在家。 | Olayın meydana geldiği gece evde olduğunu iddia ediyor.
+涉案 (shè'àn) | davaya karışmış | sıfat | 警方冻结了涉案资金。 | Polis davaya konu olan paraları dondurdu.
+犯罪团伙 (fànzuì tuánhuǒ) | suç çetesi | isim | 警方一举摧毁了这个犯罪团伙。 | Polis bu suç çetesini tek hamlede çökertti.
+共犯 (gòngfàn) | suç ortağı | isim | 他供出了另外两名共犯。 | Diğer iki suç ortağını ele verdi.
+主犯 (zhǔfàn) | asıl fail | isim | 主犯被判处十五年有期徒刑。 | Asıl fail on beş yıl hapis cezasına çarptırıldı.
+从犯 (cóngfàn) | yardım eden fail, ikincil fail | isim | 从犯可以从轻处罚。 | İkincil faillere daha hafif ceza verilebilir.
+赃款 (zāngkuǎn) | suçtan elde edilen para | isim | 警方追回了大部分赃款。 | Polis suçtan elde edilen paranın büyük kısmını geri aldı.
+赃物 (zāngwù) | çalıntı mal | isim | 他把赃物藏在了朋友家里。 | Çalıntı malları arkadaşının evine saklamıştı.
+不在场证明 (bù zàichǎng zhèngmíng) | olay yerinde bulunmadığına dair kanıt | isim | 嫌疑人提供了不在场证明。 | Şüpheli olay yerinde bulunmadığını gösteren bir kanıt sundu.
+作案动机 (zuò'àn dòngjī) | suç saiki | isim | 警方正在调查嫌疑人的作案动机。 | Polis şüphelinin suç saikini araştırıyor.
+## Ceza infazı
+服刑 (fúxíng) | cezasını çekmek | fiil | 他在监狱里服刑八年。 | Hapiste sekiz yıl cezasını çekti.
+假释 (jiǎshì) | şartlı tahliye | isim | 由于表现良好，他获得了假释。 | İyi hâlinden dolayı şartlı tahliye edildi.
+减刑 (jiǎnxíng) | ceza indirimi | isim | 他因立功表现获得减刑。 | Soruşturmaya katkısından dolayı cezası indirildi.
+刑满释放 (xíngmǎn shìfàng) | cezası bitip tahliye olmak | ifade | 刑满释放后，他开了一家小餐馆。 | Cezası bitip tahliye olunca küçük bir lokanta açtı.
+通缉 (tōngjī) | arananlar listesine almak | fiil | 警方正在全国通缉这名逃犯。 | Polis bu kaçağı ülke çapında arıyor.
+引渡 (yǐndù) | iade etmek (suçlu) | fiil | 两国签署了引渡条约。 | İki ülke suçluların iadesi anlaşması imzaladı.
+羁押 (jīyā) | tutuklu tutmak | fiil | 他已被羁押了三个月。 | Üç aydır tutuklu.
+看守所 (kānshǒusuǒ) | tutukevi | isim | 嫌疑人目前被关押在看守所。 | Şüpheli şu anda tutukevinde tutuluyor.
+赦免 (shèmiǎn) | affetmek (ceza) | fiil | 新国王即位后赦免了一批囚犯。 | Yeni kral tahta çıktıktan sonra bir grup mahkûmu affetti.
+坦白从宽 (tǎnbái cóngkuān) | itiraf edene ceza hafifletilir | deyim | 坦白从宽，抗拒从严。 | İtiraf edene hafif, direnene ağır davranılır.
+## Diplomasi jargonu
+外交豁免权 (wàijiāo huòmiǎnquán) | diplomatik dokunulmazlık | isim | 这名外交官享有外交豁免权。 | Bu diplomat diplomatik dokunulmazlığa sahip.
+国书 (guóshū) | güven mektubu (büyükelçinin) | isim | 新任大使向总统递交了国书。 | Yeni büyükelçi güven mektubunu cumhurbaşkanına sundu.
+断交 (duànjiāo) | diplomatik ilişkileri kesmek | fiil | 两国因为边境冲突而断交。 | İki ülke sınır çatışması yüzünden ilişkilerini kesti.
+斡旋 (wòxuán) | arabuluculuk yapmak | fiil | 在第三国的斡旋下，双方恢复了谈判。 | Üçüncü bir ülkenin arabuluculuğuyla taraflar müzakerelere döndü.
+驱逐 (qūzhú) | sınır dışı etmek | fiil | 该国驱逐了两名外国外交官。 | O ülke iki yabancı diplomatı sınır dışı etti.
+不受欢迎的人 (bù shòu huānyíng de rén) | istenmeyen kişi (persona non grata) | isim | 他被宣布为不受欢迎的人，限期离境。 | İstenmeyen kişi ilan edildi ve belirli süre içinde ülkeyi terk etmesi istendi.
+特使 (tèshǐ) | özel temsilci | isim | 总统派特使前往该国协调。 | Cumhurbaşkanı koordinasyon için o ülkeye özel bir temsilci gönderdi.
+互惠 (hùhuì) | karşılıklı yarar | isim | 两国签订了互惠贸易协定。 | İki ülke karşılıklı yarara dayalı bir ticaret anlaşması imzaladı.
+最惠国待遇 (zuìhuìguó dàiyù) | en çok kayrılan ülke statüsü | isim | 双方相互给予最惠国待遇。 | Taraflar birbirine en çok kayrılan ülke statüsü tanıdı.
+外交辞令 (wàijiāo cílìng) | diplomatik dil, kaçamak resmî ifade | isim | 他的回答只是外交辞令，没有实质内容。 | Yanıtı yalnızca diplomatik bir dildi, özünde hiçbir şey yoktu.
+## Teşhis
+病理 (bìnglǐ) | patoloji | isim | 最终诊断要等病理检查结果。 | Kesin teşhis için patoloji sonuçlarını beklemek gerekiyor.
+病灶 (bìngzào) | hastalık odağı, lezyon | isim | 片子上可以看到肺部有一个小病灶。 | Filmde akciğerde küçük bir lezyon görülüyor.
+活检 (huójiǎn) | biyopsi | isim | 医生建议做一次活检。 | Doktor bir biyopsi yapılmasını önerdi.
+阳性 (yángxìng) | pozitif (test) | sıfat | 他的检测结果呈阳性。 | Test sonucu pozitif çıktı.
+阴性 (yīnxìng) | negatif (test) | sıfat | 复查结果是阴性，大家都松了一口气。 | Kontrol sonucu negatif çıkınca herkes rahat bir nefes aldı.
+鉴别诊断 (jiànbié zhěnduàn) | ayırıcı tanı | isim | 这两种病症状相似，需要做鉴别诊断。 | Bu iki hastalığın belirtileri benzer, ayırıcı tanı gerekiyor.
+预后 (yùhòu) | prognoz, hastalığın seyri beklentisi | isim | 早期发现的话，这种病预后很好。 | Erken fark edilirse bu hastalığın prognozu çok iyidir.
+综合征 (zōnghézhēng) | sendrom | isim | 他被诊断出患有慢性疲劳综合征。 | Kronik yorgunluk sendromu teşhisi kondu.
+体征 (tǐzhēng) | fizik bulgu | isim | 病人的生命体征目前平稳。 | Hastanın yaşamsal bulguları şu an stabil.
+既往史 (jìwǎngshǐ) | geçmiş hastalık öyküsü | isim | 医生详细询问了病人的既往史。 | Doktor hastanın geçmiş hastalık öyküsünü ayrıntılı olarak sordu.
+## Tedavi yöntemleri
+透析 (tòuxī) | diyaliz | isim | 他每周要去医院做三次透析。 | Haftada üç kez hastaneye diyalize gidiyor.
+微创 (wēichuàng) | minimal invaziv | sıfat | 微创手术恢复得比较快。 | Minimal invaziv ameliyatların iyileşmesi daha hızlıdır.
+免疫疗法 (miǎnyì liáofǎ) | immünoterapi | isim | 免疫疗法为一些癌症患者带来了新希望。 | İmmünoterapi bazı kanser hastalarına yeni bir umut getirdi.
+康复训练 (kāngfù xùnliàn) | rehabilitasyon egzersizleri | isim | 手术后他坚持做了半年康复训练。 | Ameliyattan sonra altı ay boyunca rehabilitasyon egzersizlerine devam etti.
+介入治疗 (jièrù zhìliáo) | girişimsel tedavi | isim | 医生决定采用介入治疗。 | Doktor girişimsel tedaviye karar verdi.
+止血 (zhǐxuè) | kanamayı durdurmak | fiil | 护士迅速为伤员止血。 | Hemşire yaralının kanamasını hızla durdurdu.
+截肢 (jiézhī) | uzuv kesmek, ampütasyon | fiil | 由于感染严重，医生不得不为他截肢。 | Enfeksiyon çok ağır olduğu için doktorlar uzvunu kesmek zorunda kaldı.
+支架 (zhījià) | stent | isim | 他的心脏血管里放了两个支架。 | Kalp damarlarına iki stent takıldı.
+起搏器 (qǐbóqì) | kalp pili | isim | 爷爷装了心脏起搏器以后，身体好多了。 | Dede kalp pili taktırdıktan sonra çok daha iyi oldu.
+抗凝 (kàngníng) | pıhtılaşmayı önleyici | sıfat | 手术后要服用抗凝药物。 | Ameliyattan sonra pıhtılaşmayı önleyici ilaç kullanılmalı.
+## Tıbbi aletler
+听诊器 (tīngzhěnqì) | stetoskop | isim | 医生用听诊器听了听我的肺部。 | Doktor stetoskopla akciğerlerimi dinledi.
+血压计 (xuèyājì) | tansiyon aleti | isim | 家里最好备一台电子血压计。 | Evde dijital bir tansiyon aleti bulundurmak iyi olur.
+呼吸机 (hūxījī) | solunum cihazı (ventilatör) | isim | 病人目前依靠呼吸机维持呼吸。 | Hasta şu an solunum cihazıyla nefes alıyor.
+胃镜 (wèijìng) | gastroskopi | isim | 做胃镜之前要空腹八个小时。 | Gastroskopiden önce sekiz saat aç kalmak gerekir.
+手术刀 (shǒushùdāo) | neşter | isim | 这位外科医生拿了三十年手术刀。 | Bu cerrah otuz yıldır neşter tutuyor.
+针头 (zhēntóu) | iğne ucu | isim | 用过的针头必须放进专门的容器。 | Kullanılmış iğne uçları özel kaba atılmalıdır.
+拐杖 (guǎizhàng) | koltuk değneği, baston | isim | 他腿受伤了，只能拄着拐杖走路。 | Bacağı yaralandığı için ancak koltuk değneğiyle yürüyebiliyor.
+除颤器 (chúchànqì) | defibrilatör | isim | 很多地铁站都配备了自动除颤器。 | Pek çok metro istasyonunda otomatik defibrilatör bulunuyor.
+监护仪 (jiānhùyí) | hasta monitörü | isim | 监护仪上的数字突然开始下降。 | Hasta monitöründeki rakamlar birden düşmeye başladı.
+导管 (dǎoguǎn) | kateter | isim | 医生通过导管把药物送到病变部位。 | Doktor ilacı kateterle hastalıklı bölgeye ulaştırdı.
+## Hastane jargonu
+住院部 (zhùyuànbù) | yatan hasta servisi | isim | 住院部在医院的后楼。 | Yatan hasta servisi hastanenin arka binasında.
+病危通知 (bìngwēi tōngzhī) | hastanın ağır durumda olduğuna dair bildirim | isim | 医院给家属下了病危通知。 | Hastane yakınlara hastanın ağır durumda olduğunu bildirdi.
+查房 (cháfáng) | vizite çıkmak | fiil | 主任每天早上八点查房。 | Servis şefi her sabah sekizde viziteye çıkıyor.
+医嘱 (yīzhǔ) | doktor talimatı | isim | 请严格按照医嘱服药。 | Lütfen ilaçları doktor talimatına harfiyen uyarak kullanın.
+无菌 (wújùn) | steril | sıfat | 手术室必须保持无菌环境。 | Ameliyathane steril tutulmak zorundadır.
+隔离病房 (gélí bìngfáng) | izolasyon odası | isim | 传染病人被安排在隔离病房。 | Bulaşıcı hastalığı olan hastalar izolasyon odasına alındı.
+住院医师 (zhùyuàn yīshī) | asistan hekim | isim | 她是这家医院的住院医师，经常值夜班。 | Bu hastanede asistan hekim, sık sık gece nöbeti tutuyor.
+护士站 (hùshìzhàn) | hemşire bankosu | isim | 有需要的话，可以按铃呼叫护士站。 | İhtiyacınız olursa zile basıp hemşire bankosunu çağırabilirsiniz.
+家属签字 (jiāshǔ qiānzì) | hasta yakınının imzası | isim | 手术前需要家属签字同意。 | Ameliyattan önce hasta yakınının onay imzası gerekir.
+陪护 (péihù) | refakat etmek (hastaya) | fiil | 老人住院期间，子女轮流陪护。 | Yaşlı adam hastanede kaldığı sürece çocukları sırayla ona refakat etti.
+## Hastalık kavramları
+慢性病 (mànxìngbìng) | kronik hastalık | isim | 高血压是一种常见的慢性病。 | Yüksek tansiyon yaygın bir kronik hastalıktır.
+转移 (zhuǎnyí) | metastaz yapmak; yer değiştirmek | fiil | 幸运的是，癌细胞还没有转移。 | Neyse ki kanser hücreleri henüz yayılmamış.
+病毒性 (bìngdúxìng) | viral | sıfat | 这是一种病毒性感冒，抗生素没有用。 | Bu viral bir grip, antibiyotik işe yaramaz.
+遗传病 (yíchuánbìng) | kalıtsal hastalık | isim | 这种遗传病在近亲结婚的家庭中更常见。 | Bu kalıtsal hastalık akraba evliliği yapılan ailelerde daha sık görülür.
+罕见病 (hǎnjiànbìng) | nadir hastalık | isim | 很多罕见病至今没有有效的治疗方法。 | Birçok nadir hastalığın bugün hâlâ etkili bir tedavisi yok.
+耐药性 (nàiyàoxìng) | ilaç direnci | isim | 滥用抗生素会导致细菌产生耐药性。 | Antibiyotiklerin gelişigüzel kullanılması bakterilerde ilaç direncine yol açar.
+潜伏期 (qiánfúqī) | kuluçka dönemi | isim | 这种病毒的潜伏期一般为三到七天。 | Bu virüsün kuluçka dönemi genellikle üç ila yedi gündür.
+传染源 (chuánrǎnyuán) | bulaş kaynağı | isim | 控制传染源是防止疫情扩散的关键。 | Bulaş kaynağını kontrol altına almak salgının yayılmasını önlemenin anahtarıdır.
+早期筛查 (zǎoqī shāichá) | erken tarama | isim | 定期做早期筛查，可以及时发现癌症。 | Düzenli erken tarama kanserin zamanında fark edilmesini sağlar.
+病程 (bìngchéng) | hastalığın süreci | isim | 这种病的病程一般为两周。 | Bu hastalığın süreci genellikle iki haftadır.
+## Adli tıp ve sağlık hukuku
+法医 (fǎyī) | adli tıp uzmanı | isim | 法医在现场进行了初步检验。 | Adli tıp uzmanı olay yerinde ilk incelemeyi yaptı.
+尸检 (shījiǎn) | otopsi | isim | 尸检结果显示，死者死于心脏病突发。 | Otopsi sonucu ölümün ani kalp krizinden kaynaklandığını gösterdi.
+医疗事故 (yīliáo shìgù) | tıbbi hata (malpraktis) | isim | 经鉴定，这起事件不属于医疗事故。 | İnceleme sonucunda bu olayın tıbbi hata olmadığı belirlendi.
+医疗纠纷 (yīliáo jiūfēn) | tıbbi uyuşmazlık | isim | 医院设立了专门处理医疗纠纷的部门。 | Hastane tıbbi uyuşmazlıklarla ilgilenen özel bir birim kurdu.
+伤残等级 (shāngcán děngjí) | maluliyet derecesi | isim | 根据伤残等级，他获得了相应的赔偿。 | Maluliyet derecesine göre ilgili tazminatı aldı.
+死因 (sǐyīn) | ölüm nedeni | isim | 警方正在调查死者的死因。 | Polis ölüm nedenini araştırıyor.
+毒理 (dúlǐ) | toksikoloji | isim | 毒理检测发现死者体内有安眠药成分。 | Toksikoloji incelemesinde ölünün vücudunda uyku ilacı bulundu.
+精神鉴定 (jīngshén jiàndìng) | akıl sağlığı raporu | isim | 法院决定对被告人进行精神鉴定。 | Mahkeme sanığın akıl sağlığının incelenmesine karar verdi.
+病假条 (bìngjiàtiáo) | hastalık raporu (iş için) | isim | 请假需要医院开的病假条。 | İzin almak için hastaneden alınmış hastalık raporu gerekiyor.
+体检报告 (tǐjiǎn bàogào) | sağlık kontrolü raporu | isim | 入职前需要提交体检报告。 | İşe başlamadan önce sağlık kontrolü raporu sunmak gerekiyor.
