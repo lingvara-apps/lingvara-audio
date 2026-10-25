@@ -1,0 +1,111 @@
+# UNIT: Tecnologia | Software, segurança, inteligência artificial, espaço
+## Mundo do software
+el código fuente | código-fonte | O programador analisa o código-fonte em seu computador.
+la compilación | compilação | A compilação do programa terminou sem nenhum erro.
+el algoritmo | algoritmo | Este algoritmo calcula a rota mais curta muito rápido.
+la base de datos relacional | banco de dados relacional | Salvamos a informação chave no banco de dados relacional.
+el lenguaje de programación | linguagem de programação | Python é uma linguagem de programação muito popular agora.
+la función recursiva | função recursiva | Compreender esta função recursiva exige bastante lógica.
+el repositorio de código | repositório de código | Enviamos as modificações recentes para o repositório de código.
+la variable global | variável global | É melhor não abusar do uso da variável global.
+el entorno virtual | ambiente virtual | Ativamos o ambiente virtual antes de instalar as bibliotecas.
+el depurador de errores | depurador de erros [software] | O depurador de erros facilita encontrar falhas ocultas.
+## Cibersegurança
+la brecha de seguridad | brecha de segurança | Detectaram uma brecha de segurança no sistema central.
+el cortafuegos avanzado | firewall avançado | O firewall avançado bloqueia requisições maliciosas externas.
+la encriptación de datos | criptografia de dados | A criptografia de dados protege nossa privacidade online.
+el ataque cibernetic | ataque cibernético | A empresa resistiu com sucesso a um forte ataque cibernético.
+la contraseña robusta | senha forte | Recomiendan usar uma senha forte para cada conta.
+el malware espía | spyware [malware espia] | Um spyware afetou vários computadores do escritório.
+la autenticación de dos pasos | autenticação de dois fatores | Ativamos a autenticação de dois fatores por maior segurança.
+el acceso no autorizado | acesso não autorizado | O sistema emitiu um alerta por um acesso não autorizado.
+la vulnerabilidad crítica | vulnerabilidade crítica | Repararam a vulnerabilidad crítica antes do fim de semana.
+el analito forense digital | perito forense digital | O perito forense digital examinou o disco rígido danificado.
+## Inteligência artificial e ciência de dados
+la red neuronal artificial | rede neural artificial | Uma rede neural artificial imita o cérebro humano.
+el aprendizaje profundo | aprendizado profundo | O aprendizado profundo revolucionou o reconhecimento visual.
+el modelo predictivo | modelo preditivo | Este modelo preditivo antecipa as tendências do mercado.
+la inteligencia artificial generativa | inteligência artificial generativa | A inteligência artificial generativa cria textos muito naturais.
+el procesamiento del lenguaje natural | processamento de linguagem natural | O processamento de linguagem natural ajuda a traduzir textos.
+la muestra estadística | amostra estatística | Selecionaram uma amostra estatística ampla para o estudo.
+el sesgo algorítmico | viés algorítmico | Pesquisadores analisam como reduzir o viés algorítmico.
+la minería de datos | mineração de dados | A mineração de dados extrai padrões úteis de grandes volumes.
+el entrenamiento del modelo | treinamento do modelo | O treinamento do modelo demorou várias horas intensas.
+la inferencia rápida | inferência rápida | Buscam otimizar a inferência rápida em dispositivos móveis.
+## Espaço e aviação
+el telescopio espacial | telescópio espacial | O telescópio espacial capturou galáxias muito distantes.
+la nave tripulada | nave tripulada | Uma nova nave tripulada decolou em direção à estação orbital.
+el cohete propulsor | foguete propulsor | O foguete propulsor caiu no oceano após se separar.
+la órbita terrestre baja | órbita terrestre baixa | Muitos satélites operam na órbita terrestre baixa.
+el rover marciano | rover marciano | O rover marciano analisa rochas na superfície vermelha.
+la estación espacial internacional | estação espacial internacional | Astronautas de vários países vivem na estação espacial internacional.
+el agujero negro supermasivo | buraco negro supermassivo | Detectaram ondas gravitacionais perto de um buraco negro supermassivo.
+la atmósfera galáctica | atmosfera galáctica | Estudam a atmosfera galáctica em busca de sinais estranhos.
+el satélite meteorológico | satélite meteorológico | Um satélite meteorológico vigia as tempestades tropicais.
+la sonda interplanetaria | sonda interplanetária | A sonda interplanetária enviou dados valiosos sobre Júpiter.
+## Automação e robótica
+el brazo robótico industrial | braço robótico industrial | O braço robótico industrial monta peças com precisão.
+la línea de producción automatizada | linha de produção automatizada | A linha de produção automatizada acelera a fabricação em massa.
+el sensor de proximidad | sensor de proximidade | Este sensor de proximidade evita que o robô bata contra paredes.
+la placa base integrada | placa-mãe integrada | Projetaram uma placa-mãe integrada menor e mais leve.
+el circuito impreso flexible | circuito impresso flexível | O circuito impresso flexível permite dobrar dispositivos modernos.
+la celda solar fotovoltaica | célula solar fotovoltaica | Uma célula solar fotovoltaica transforma luz em energia limpa.
+el actuador neumático | atuador pneumático | O atuador pneumático move a comporta com ar pressurizado.
+la interfaz hombre-máquina | interface homem-máquina | Melhoraram a interface homem-máquina para facilitar seu uso.
+el sistema embebido | sistema embutido | Cada eletrodoméstico inteligente inclui um pequeno sistema embebido.
+la calibración automática | calibração automática | A calibração automática garante medições exatas sempre.
+## Computação em nuvem
+el servidor remoto | servidor remoto | Hospedamos todas as páginas web em um servidor remoto rápido.
+la copia de seguridad en la nube | backup na nuvem | Realizamos um backup na nuvem toda meia-noite.
+el almacenamiento virtual | armazenamento virtual | O armazenamento virtual permite acessar arquivos de qualquer lugar.
+la infraestructura como servicio | infraestrutura como serviço | A empresa contratou infraestrutura como serviço para escalar rápido.
+el balanceador de carga | balanceador de carga | Um balanceador de carga distribui o tráfego web eficientemente.
+la plataforma escalable | plataforma escalável | Desenvolveram uma plataforma escalável para milhões de usuários.
+el contenedor docker | container docker | Usam um container docker para isolar aplicações web.
+la latencia de red | latência de rede | Reduzir a latência de rede melhora a experiência de videochamada.
+el protocolo seguro | protocolo seguro | Configuraram o protocolo seguro para transferir dados bancários.
+la nube híbrida | nuvem híbrida | Optaram por uma nuvem híbrida combinando servidores locais e externos.
+## Tecnologias móveis
+el sistema operativo móvil | sistema operacional móvel | Este smartphone utiliza um sistema operacional móvel muito fluido.
+la aplicación nativa | aplicativo nativo | Preferem desenvolver um aplicativo nativo para melhor desempenho.
+la pantalla táctil OLED | tela sensível ao toque OLED | A tela sensível ao toque OLED oferece cores vivas e pretos puros.
+la conectividad 5G | conectividade 5G | A conectividade 5G permite downloads ultrarrápidos na rua.
+el sensor biométrico | sensor biométrico | O sensor biométrico reconhece a impressão digital instantaneamente.
+la carga ultrarrápida | carga ultrarrápida | A tecnologia de carga ultrarrápida enche a bateria em minutos.
+el procesador multinúcleo | processador multi-core | Um processador multi-core executa tarefas pesadas sem travar.
+la memoria RAM LPDDR | memória RAM LPDDR | Incorpora uma memória RAM LPDDR de grande velocidade e eficiência.
+el módulo fotográfico | módulo de câmera | O módulo de câmera traseiro inclui três lentes profissionais.
+la actualización de firmware | atualização de firmware | Lançaram uma atualização de firmware para solucionar falhas menores.
+## Internet das coisas
+el dispositivo conectado | dispositivo conectado | Cada dispositivo conectado emite dados para a rede doméstica.
+el termostato inteligente | termostato inteligente | Programamos o termostato inteligente para economizar energia diária.
+la bombilla domótica | lâmpada inteligente | Controlamos a cor da lâmpada inteligente através da voz.
+el enchufe inalambrico | tomada sem fio | Desligamos os aparelhos distantes usando uma tomada sem fio.
+la cerradura biométrica | fechadura biométrica | A fechadura biométrica abre a porta principal com a sua impressão digital.
+el asistente de voz | assistente de voz | O assistente de voz responde perguntas sobre o clima atual.
+la persiana automatizada | persiana automatizada | A persiana automatizada desce sozinha quando o sol sai.
+el sensor de humedad ambiental | sensor de umidade ambiental | Este sensor de umidade ambiental ativa a irrigação do jardim.
+el timbre con cámara | campainha com câmera | A campainha com câmera mostra quem chama na porta principal.
+la pasarela domótica | gateway residencial inteligente | O gateway residencial inteligente coordena todos os aparelhos inteligentes juntos.
+## Biotecnologia e genética
+el secuenciador de ADN | sequenciador de DNA | O laboratório adquiriu um sequenciador de DNA de última geração.
+la edición genética CRISPR | edição genética CRISPR | A técnica de edição genética CRISPR abre novas esperanzas médicas.
+el anticuerpo monoclonal | anticorpo monoclonal | Desenvolveram um anticorpo monoclonal específico contra o vírus.
+la proteína recombinante | proteína recombinante | Produzem proteína recombinante usando culturas celulares puras.
+el ensayo clínico avanzado | ensaio clínico avançado | O fármaco superou com sucesso um ensaio clínico avançado.
+la terapia génica | terapia gênica | A terapia gênica busca corrigir mutações hereditarias graves.
+el bioinformático experto | bioinformata especialista | O bioinformata especialista analisa sequências genéticas complexas.
+la enzima modificada | enzima modificada | Criaram uma enzima modificada capaz de degradar plásticos rapidamente.
+el cultivo celular | cultura celular | Mantêm a cultura celular em condições estéreis estritas.
+la molécula sintética | molécula sintética | Sintetizaram uma molécula sintética para combater bactérias resistentes.
+## Computação quântica
+el ordenador cuántico | computador quântico | Um computador quântico processa informação usando cúbits complexos.
+el cúbit superconductor | cúbit supercondutor | O cúbit supercondutor requer temperaturas extremadamente baixas.
+el entrelazamiento cuántico | emaranhamento quântico | O emaranhamento quântico conecta partículas de forma misteriosa.
+la criptografía poscuántica | criptografia pós-quântica | Investigam em criptografia pós-quântica para proteger futuros dados.
+el algoritmo de Shor | algoritmo de Shor | O famoso algoritmo de Shor fatoriza números grandes rapidamente.
+la superposición cuántica | superposição quântica | A superposição quântica permite avaliar múltiplos estados ao mesmo tempo.
+el canal cuántico | canal quântico | Transmitem chaves secretas mediante um canal quântico seguro.
+la decoherencia cuántica | decoerência quântica | A decoerência quântica destrói a frágil informação do cúbit.
+el simulador cuántico | simulador quântico | Um simulador quântico ajuda a entender moléculas complexas.
+la supremacía cuántica | supremacia quântica | Anunciaram um marco histórico alcançando a supremacia quântica.

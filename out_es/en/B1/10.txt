@@ -1,0 +1,111 @@
+# UNIT: Technology | Software, security, artificial intelligence, space
+## Software world
+el código fuente | source code | The programmer analyzes the source code on their computer.
+la compilación | compilation | The compilation of the program finished without any errors.
+el algoritmo | algorithm | This algorithm calculates the shortest route very quickly.
+la base de datos relacional | relational database | We store key information in the relational database.
+el lenguaje de programación | programming language | Python is a very popular programming language nowadays.
+la función recursiva | recursive function | Understanding this recursive function requires quite a bit of logic.
+el repositorio de código | code repository | We upload recent modifications to the code repository.
+la variable global | global variable | It is better not to overuse the global variable.
+el entorno virtual | virtual environment | We activate the virtual environment before installing the libraries.
+el depurador de errores | debugger | The debugger makes it easy to find hidden bugs.
+## Cyber security
+la brecha de seguridad | security breach | They detected a security breach in the central system.
+el cortafuegos avanzado | advanced firewall | The advanced firewall blocks external malicious requests.
+la encriptación de datos | data encryption | Data encryption protects our online privacy.
+el ataque cibernetic | cyberattack | The company successfully resisted a strong cyberattack.
+la contraseña robusta | strong password | They recommend using a strong password for each account.
+el malware espía | spyware | Spyware affected several computers in the office.
+la autenticación de dos pasos | two-factor authentication | We activated two-factor authentication for greater security.
+el acceso no autorizado | unauthorized access | The system issued an alert for unauthorized access.
+la vulnerabilidad crítica | critical vulnerability | They fixed the critical vulnerability before the weekend.
+el analito forense digital | digital forensics analyst | The digital forensics analyst examined the damaged hard drive.
+## Artificial intelligence and data science
+la red neuronal artificial | artificial neural network | An artificial neural network mimics the human brain.
+el aprendizaje profundo | deep learning | Deep learning revolutionized visual recognition.
+el modelo predictivo | predictive model | This predictive model anticipates market trends.
+la inteligencia artificial generativa | generative artificial intelligence | Generative artificial intelligence creates very natural texts.
+el procesamiento del lenguaje natural | natural language processing | Natural language processing helps to translate texts.
+la muestra estadística | statistical sample | They selected a large statistical sample for the study.
+el sesgo algorítmico | algorithmic bias | Researchers are analyzing how to reduce algorithmic bias.
+la minería de datos | data mining | Data mining extracts useful patterns from large volumes.
+el entrenamiento del modelo | model training | Model training took several intense hours.
+la inferencia rápida | fast inference | They aim to optimize fast inference on mobile devices.
+## Space and aviation
+el telescopio espacial | space telescope | The space telescope captured very distant galaxies.
+la nave tripulada | crewed spacecraft | A new crewed spacecraft took off toward the orbital station.
+el cohete propulsor | booster rocket | The booster rocket fell into the ocean after separating.
+la órbita terrestre baja | low Earth orbit | Many satellites operate in low Earth orbit.
+el rover marciano | Mars rover | The Mars rover analyzes rocks on the red surface.
+la estación espacial internacional | International Space Station | Astronauts from various countries live on the International Space Station.
+el agujero negro supermasivo | supermassive black hole | They detected gravitational waves near a supermassive black hole.
+la atmósfera galáctica | galactic atmosphere | They are studying the galactic atmosphere in search of strange signals.
+el satélite meteorológico | meteorological satellite | A meteorological satellite monitors tropical storms.
+la sonda interplanetaria | interplanetary probe | The interplanetary probe sent valuable data about Jupiter.
+## Automation and robotics
+el brazo robótico industrial | industrial robotic arm | The industrial robotic arm assembles parts with precision.
+la línea de producción automatizada | automated production line | The automated production line speeds up mass manufacturing.
+el sensor de proximidad | proximity sensor | This proximity sensor prevents the robot from crashing into walls.
+la placa base integrada | integrated motherboard | They designed a smaller and lighter integrated motherboard.
+el circuito impreso flexible | flexible printed circuit | The flexible printed circuit allows modern devices to be folded.
+la celda solar fotovoltaica | photovoltaic solar cell | A photovoltaic solar cell transforms light into clean energy.
+el actuador neumático | pneumatic actuator | The pneumatic actuator moves the gate with pressurized air.
+la interfaz hombre-máquina | human-machine interface | They improved the human-machine interface to make it easier to use.
+el sistema embebido | embedded system | Every smart home appliance includes a small embedded system.
+la calibración automática | automatic calibration | Automatic calibration always guarantees accurate measurements.
+## Cloud computing
+el servidor remoto | remote server | We host all web pages on a fast remote server.
+la copia de seguridad en la nube | cloud backup | We perform a cloud backup every midnight.
+el almacenamiento virtual | virtual storage | Virtual storage allows access to files from anywhere.
+la infraestructura como servicio | infrastructure as a service | The company hired infrastructure as a service to scale quickly.
+el balanceador de carga | load balancer | A load balancer distributes web traffic efficiently.
+la plataforma escalable | scalable platform | They developed a scalable platform for millions of users.
+el contenedor docker | Docker container | They use a Docker container to isolate web applications.
+la latencia de red | network latency | Reducing network latency improves the video calling experience.
+el protocolo seguro | secure protocol | They configured the secure protocol to transfer banking data.
+la nube híbrida | hybrid cloud | They opted for a hybrid cloud, combining local and external servers.
+## Mobile technologies
+el sistema operativo móvil | mobile operating system | This smartphone uses a very smooth mobile operating system.
+la aplicación nativa | native app | They prefer to develop a native app for better performance.
+la pantalla táctil OLED | OLED touchscreen | The OLED touchscreen offers vivid colors and pure blacks.
+la conectividad 5G | 5G connectivity | 5G connectivity allows ultra-fast downloads on the go.
+el sensor biométrico | biometric sensor | The biometric sensor instantly recognizes the fingerprint.
+la carga ultrarrápida | ultra-fast charging | Ultra-fast charging technology fills the battery in minutes.
+el procesador multinúcleo | multicore processor | A multicore processor executes heavy tasks without lagging.
+la memoria RAM LPDDR | LPDDR RAM | It incorporates high-speed and efficient LPDDR RAM.
+el módulo fotográfico | camera module | The rear camera module includes three professional lenses.
+la actualización de firmware | firmware update | They released a firmware update to fix minor bugs.
+## Internet of things
+el dispositivo conectado | connected device | Every connected device transmits data to the home network.
+el termostato inteligente | smart thermostat | We programmed the smart thermostat to save daily energy.
+la bombilla domótica | smart bulb | We control the color of the smart bulb using our voice.
+el enchufe inalambrico | wireless plug | We turn off distant appliances using a wireless plug.
+la cerradura biométrica | biometric lock | The biometric lock opens the front door with your fingerprint.
+el asistente de voz | voice assistant | The voice assistant answers questions about the current weather.
+la persiana automatizada | automated roller shutter | The automated roller shutter goes down by itself when the sun comes out.
+el sensor de humedad ambiental | ambient humidity sensor | This ambient humidity sensor triggers the garden irrigation.
+el timbre con cámara | video doorbell | The video doorbell shows who is knocking at the front door.
+la pasarela domótica | smart home gateway | The smart home gateway coordinates all smart appliances together.
+## Biotechnology and genetics
+el secuenciador de ADN | DNA sequencer | The lab acquired a next-generation DNA sequencer.
+la edición genética CRISPR | CRISPR gene editing | The CRISPR gene editing technique opens up new medical hopes.
+el anticuerpo monoclonal | monoclonal antibody | They developed a specific monoclonal antibody against the virus.
+la proteína recombinante | recombinant protein | They produce recombinant protein using pure cell cultures.
+el ensayo clínico avanzado | advanced clinical trial | The drug successfully passed an advanced clinical trial.
+la terapia génica | gene therapy | Gene therapy aims to correct severe hereditary mutations.
+el bioinformático experto | expert bioinformatician | The expert bioinformatician analyzes complex genetic sequences.
+la enzima modificada | modified enzyme | They created a modified enzyme capable of rapidly degrading plastics.
+el cultivo celular | cell culture | They maintain the cell culture under strict sterile conditions.
+la molécula sintética | synthetic molecule | They synthesized a synthetic molecule to combat resistant bacteria.
+## Quantum computing
+el ordenador cuántico | quantum computer | A quantum computer processes information using complex qubits.
+el cúbit superconductor | superconducting qubit | The superconducting qubit requires extremely low temperatures.
+el entrelazamiento cuántico | quantum entanglement | Quantum entanglement connects particles in a mysterious way.
+la criptografía poscuántica | post-quantum cryptography | They are researching post-quantum cryptography to protect future data.
+el algoritmo de Shor | Shor's algorithm | The famous Shor's algorithm quickly factorizes large numbers.
+la superposición cuántica | quantum superposition | Quantum superposition allows evaluating multiple states at once.
+el canal cuántico | quantum channel | They transmit secret keys via a secure quantum channel.
+la decoherencia cuántica | quantum decoherence | Quantum decoherence destroys the fragile qubit information.
+el simulador cuántico | quantum simulator | A quantum simulator helps understand complex molecules.
+la supremacía cuántica | quantum supremacy | They announced a historic milestone by achieving quantum supremacy.

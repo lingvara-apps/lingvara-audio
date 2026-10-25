@@ -1,0 +1,111 @@
+# UNIT: प्रौद्योगिकी | सॉफ्टवेयर, सुरक्षा, कृत्रिम बुद्धिमत्ता, अंतरिक्ष
+## सॉफ्टवेयर की दुनिया
+el código fuente | स्रोत कोड | El programador analiza el código fuente en su ordenador.
+la compilación | संकलन | La compilación del programa finalizó sin ningún error.
+el algoritmo | एल्गोरिदम | Este algoritmo calcula la ruta más corta muy rápido.
+la base de datos relacional | संबंधपरक डेटाबेस | Guardamos la información clave en la base de datos relacional.
+el lenguaje de programación | प्रोग्रामिंग भाषा | Python es un lenguaje de programación muy popular ahora.
+la función recursiva | पुनरावर्ती फ़ंक्शन | Comprender esta función recursiva requiere bastante lógica.
+el repositorio de código | कोड रिपॉजिटरी | Subimos las modificaciones recientes al repositorio de código.
+la variable global | वैश्विक चर | Es mejor no abusar del uso de la variable global.
+el entorno virtual | वर्चुअल वातावरण | Activamos el entorno virtual antes de instalar las librerías.
+el depurador de errores | बग हटाने वाला (डीबगर) | El depurador de errores facilita hallar fallos ocultos.
+## साइबर सुरक्षा
+la brecha de seguridad | सुरक्षा उल्लंघन | Detectaron una brecha de seguridad en el sistema central.
+el cortafuegos avanzado | उन्नत फ़ायरवॉल | El cortafuegos avanzado bloquea peticiones maliciosas externas.
+la encriptación de datos | डेटा एन्क्रिप्शन | La encriptación de datos protege nuestra privacidad en línea.
+el ataque cibernetic | साइबर हमला | La empresa resistió con éxito un fuerte ataque cibernético.
+la contraseña robusta | मजबूत पासवर्ड | Recomiendan usar una contraseña robusta para cada cuenta.
+el malware espía | स्पायवेयर मैलवेयर | Un malware espía afectó varios equipos de la oficina.
+la autenticación de dos pasos | दो-चरणीय प्रमाणीकरण | Activamos la autenticación de dos pasos por mayor seguridad.
+el acceso no autorizado | अनधिकृत पहुंच | El sistema emitió una alerta por un acceso no autorizado.
+la vulnerabilidad crítica | गंभीर कमज़ोरी | Repararon la vulnerabilidad crítica antes del fin de semana.
+el analito forense digital | डिजिटल फ़ोरेंसिक विश्लेषक | El analista forense digital examinó el disco duro dañado.
+## कृत्रिम बुद्धिमत्ता और डेटा विज्ञान
+la red neuronal artificial | कृत्रिम तंत्रिका नेटवर्क | Una red neuronal artificial imita el cerebro humano.
+el aprendizaje profundo | गहन शिक्षण | El aprendizaje profundo revolucionó el reconocimiento visual.
+el modelo predictivo | पूर्वानुमान मॉडल | Este modelo predictivo anticipa las tendencias del mercado.
+la inteligencia artificial generativa | जनरेटिव एआई | La inteligencia artificial generativa crea textos muy naturales.
+el procesamiento del lenguaje natural | प्राकृतिक भाषा प्रसंस्करण | El procesamiento del lenguaje natural ayuda a traducir textos.
+la muestra estadística | सांख्यिकीय नमूना | Seleccionaron una muestra estadística amplia para el estudio.
+el sesgo algorítmico | एल्गोरिथम पूर्वाग्रह | Investigadores analizan cómo reducir el sesgo algorítmico.
+la minería de datos | डेटा माइनिंग | La minería de datos extrae patrones útiles de grandes volúmenes.
+el entrenamiento del modelo | मॉडल प्रशिक्षण | El entrenamiento del modelo tardó varias horas intensas.
+la inferencia rápida | त्वरित निष्कर्ष | Buscan optimizar la inferencia rápida en dispositivos móviles.
+## अंतरिक्ष और विमानन
+el telescopio espacial | अंतरिक्ष दूरबीन | El telescopio espacial capturó galaxias muy lejanas.
+la nave tripulada | चालक दल वाला अंतरिक्ष यान | Una nueva nave tripulada despegó hacia la estación orbital.
+el cohete propulsor | बूस्टर रॉकेट | El cohete propulsor cayó en el océano tras separarse.
+la órbita terrestre baja | निचली कक्षा की पृथ्वी | Muchos satélites operan en la órbita terrestre baja.
+el rover marciano | मंगल रोवर | El rover marciano analiza rocas en la superficie roja.
+la estación espacial internacional | अंतर्राष्ट्रीय अंतरिक्ष स्टेशन | Astronautas de varios países viven en la estación espacial internacional.
+el agujero negro supermasivo | सुपरमैसिव ब्लैक होल | Detectaron ondas gravitacionales cerca de un agujero negro supermasivo.
+la atmósfera galáctica | गैलेक्टिक वायुमंडल | Estudian la atmósfera galáctica en busca de señales extrañas.
+el satélite meteorológico | मौसम उपग्रह | Un satélite meteorológico vigila las tormentas tropicales.
+la sonda interplanetaria | अंतरग्रहीय जांच | La sonda interplanetaria envió datos valiosos sobre Júpiter.
+## स्वचालन और रोबोटिक्स
+el brazo robótico industrial | औद्योगिक रोबोटिक बांह | El brazo robótico industrial ensambla piezas con precisión.
+la línea de producción automatizada | स्वचालित उत्पादन लाइन | La línea de producción automatizada acelera la fabricación masiva.
+el sensor de proximidad | प्रॉक्सिमिटी सेंसर | Este sensor de proximidad evita que el robot choque contra muros.
+la placa base integrada | एकीकृत मदरबोर्ड | Diseñaron una placa base integrada más pequeña y ligera.
+el circuito impreso flexible | लचीला मुद्रित सर्किट | El circuito impreso flexible permite doblar dispositivos modernos.
+la celda solar fotovoltaica | फोटोवोल्टिक सौर सेल | Una celda solar fotovoltaica transforma luz en energía limpia.
+el actuador neumático | न्यूमेटिक एक्चुएटर | El actuador neumático mueve la compuerta con aire a presión.
+la interfaz hombre-máquina | मानव-मशीन इंटरफ़ेस | Mejoraron la interfaz hombre-máquina para facilitar su uso.
+el sistema embebido | एम्बेडेड सिस्टम | Cada electrodoméstico inteligente incluye un pequeño sistema embebido.
+la calibración automática | स्वचालित अंशांकन | La calibración automática garantiza mediciones exactas siempre.
+## क्लाउड कंप्यूटिंग
+el servidor remoto | रिमोट सर्वर | Alojamos todas las páginas web en un servidor remoto rápido.
+la copia de seguridad en la nube | क्लाउड बैकअप | Realizamos una copia de seguridad en la nube cada medianoche.
+el almacenamiento virtual | वर्चुअल स्टोरेज | El almacenamiento virtual permite acceder a archivos desde cualquier lugar.
+la infraestructura como servicio | इंफ्रास्ट्रक्चर-एज़-ए-सर्विस | La empresa contrató infraestructura como servicio para escalar rápido.
+el balanceador de carga | लोड बैलेंसर | Un balanceador de carga reparte el tráfico web eficientemente.
+la plataforma escalable | स्केलेबल प्लेटफॉर्म | Desarrollaron una plataforma escalable para millones de usuarios.
+el contenedor docker | डॉकर कंटेनर | Usan un contenedor docker para aislar aplicaciones web.
+la latencia de red | नेटवर्क विलंबता | Reducir la latencia de red mejora la experiencia de videollamada.
+el protocolo seguro | सुरक्षित प्रोटोकॉल | Configuraron el protocolo seguro para transferir datos bancarios.
+la nube híbrida | हाइब्रिड क्लाउड | Optaron por una nube híbrida combinando servidores locales y externos.
+## मोबाइल प्रौद्योगिकियां
+el sistema operativo móvil | मोबाइल ऑपरेटिंग सिस्टम | Este teléfono inteligente utiliza un sistema operativo móvil muy fluido.
+la aplicación nativa | मूल ऐप | Prefieren desarrollar una aplicación nativa para mejor rendimiento.
+la pantalla táctil OLED | OLED टचस्क्रीन | La pantalla táctil OLED ofrece colores vivos y negros puros.
+la conectividad 5G | 5जी कनेक्टिविटी | La conectividad 5G permite descargas ultrarrápidas en la calle.
+el sensor biométrico | बायोमेट्रिक सेंसर | El sensor biométrico reconoce la huella digital al instante.
+la carga ultrarrápida | अल्ट्रा-फ़ास्ट चार्जिंग | La tecnología de carga ultrarrápida llena la batería en minutos.
+el procesador multinúcleo | मल्टी-कोर प्रोसेसर | Un procesador multinúcleo ejecuta tareas pesadas sin trabarse.
+la memoria RAM LPDDR | एलपीडीडीडीडीआर रैम | Incorpora una memoria RAM LPDDR de gran velocidad y eficiencia.
+el módulo fotográfico | कैमरा मॉड्यूल | El módulo fotográfico trasero incluye tres lentes profesionales.
+la actualización de firmware | फ़र्मवेयर अपडेट | Lanzaron una actualización de firmware para solucionar fallos menores.
+## इंटरनेट ऑफ थिंग्स
+el dispositivo conectado | जुड़ा हुआ उपकरण | Cada dispositivo conectado emite datos hacia la red doméstica.
+el termostato inteligente | स्मार्ट थर्मोस्टेट | Programamos el termostato inteligente para ahorrar energía diaria.
+la bombilla domótica | स्मार्ट बल्ब | Controlamos el color de la bombilla domótica mediante la voz.
+el enchufe inalambrico | वायरलेस प्लग | Apagamos los aparatos distantes usando un enchufe inalámbrico.
+la cerradura biométrica | बायोमेट्रिक ताला | La cerradura biométrica abre la puerta principal con tu huella.
+el asistente de voz | वॉयस असिस्टेंट | El asistente de voz responde preguntas sobre el tiempo actual.
+la persiana automatizada | स्वचालित ब्लाइंड्स | La persiana automatizada baja sola cuando sale el sol.
+el sensor de humedad ambiental | पर्यावरण आर्द्रता सेंसर | Este sensor de humedad ambiental activa el riego del jardín.
+el timbre con cámara | वीडियो डोरबेल | El timbre con cámara muestra quién llama a la puerta principal.
+la pasarela domótica | स्मार्ट होम गेटवे | La pasarela domótica coordina todos los aparatos inteligentes juntos.
+## जैव प्रौद्योगिकी और आनुवंशिकी
+el secuenciador de ADN | डीएनए सीक्वेसर | El laboratorio adquirió un secuenciador de ADN de última generación.
+la edición genética CRISPR | CRISPR जीन संपादन | La técnica de edición genética CRISPR abre nuevas esperanzas médicas.
+el anticuerpo monoclonal | मोनोक्लोनल एंटीबॉडी | Desarrollaron un anticuerpo monoclonal específico contra el virus.
+la proteína recombinante | पुनः संयोजक प्रोटीन | Producen proteína recombinante usando cultivos celulares puros.
+el ensayo clínico avanzado | उन्नत नैदानिक परीक्षण | El fármaco superó con éxito un ensayo clínico avanzado.
+la terapia génica | जीन थेरेपी | La terapia génica busca corregir mutaciones hereditarias graves.
+el bioinformático experto | बायोइन्फॉर्मेटिक्स विशेषज्ञ | El bioinformático experto analiza secuencias genéticas complejas.
+la enzima modificada | संशोधित एंजाइम | Crearon una enzima modificada capaz de degradar plásticos rápidamente.
+el cultivo celular | कोशिका संवर्धन | Mantienen el cultivo celular en condiciones estériles estrictas.
+la molécula sintética | सिंथेटिक अणु | Sintetizaron una molécula sintética para combatir bacterias resistentes.
+## क्वांटम कंप्यूटिंग
+el ordenador cuántico | क्वांटम कंप्यूटर | Un ordenador cuántico procesa información usando cúbits complejos.
+el cúbit superconductor | सुपरकंडक्टिंग क्यूबिट | El cúbit superconductor requiere temperaturas extremadamente bajas.
+el entrelazamiento cuántico | क्वांटम उलझाव | El entrelazamiento cuántico conecta partículas de forma misteriosa.
+la criptografía poscuántica | पोस्ट-क्वांटम क्रिप्टोग्राफी | Investigan en criptografía poscuántica para proteger futuros datos.
+el algoritmo de Shor | शोर का एल्गोरिदम | El famoso algoritmo de Shor factoriza números grandes rápidamente.
+la superposición cuántica | क्वांटम सुपरपोजिशन | La superposición cuántica permite evaluar múltiples estados a la vez.
+el canal cuántico | क्वांटम चैनल | Transmiten claves secretas mediante un canal cuántico seguro.
+la decoherencia cuántica | क्वांटम डिहेरेंस | La decoherencia cuántica destruye la fragil información del cúbit.
+el simulador cuántico | क्वांटम सिम्युलेटर | Un simulador cuántico ayuda a entender moléculas complejas.
+la supremacía cuántica | क्वांटम सर्वोच्चता | Anunciaron un hito histórico alcanzando la supremacía cuántica.

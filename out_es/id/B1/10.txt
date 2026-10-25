@@ -1,0 +1,111 @@
+# UNIT: Teknologi | Perangkat lunak, keamanan, kecerdasan buatan, antariksa
+## Dunia perangkat lunak
+el código fuente | kode sumber | Pemrogram menganalisis kode sumber di komputernya.
+la compilación | kompilasi | Kompilasi program selesai tanpa ada kesalahan.
+el algoritmo | algoritma | Algoritma ini menghitung rute terpendek dengan sangat cepat.
+la base de datos relacional | basis data relasional | Kami menyimpan informasi penting di dalam basis data relasional.
+el lenguaje de programación | bahasa pemrograman | Python sekarang adalah bahasa pemrograman yang sangat populer.
+la función recursiva | fungsi rekursif | Memahami fungsi rekursif ini membutuhkan banyak logika.
+el repositorio de código | repositori kode | Kami mengunggah modifikasi terbaru ke repositori kode.
+la variable global | variabel global | Lebih baik tidak menyalahgunakan penggunaan variabel global.
+el entorno virtual | lingkungan virtual | Kami mengaktifkan lingkungan virtual sebelum memasang pustaka-pustaka.
+el depurador de errores | pengawakodean, pencari kesalahan | Pengawakodean memudahkan pencarian kutu tersembunyi.
+## Keamanan siber
+la brecha de seguridad | celah keamanan | Mereka mendeteksi celah keamanan di sistem pusat.
+el cortafuegos avanzado | firewall tingkat lanjut | Firewall tingkat lanjut memblokir permintaan berbahaya dari luar.
+la encriptación de datos | enkripsi data | Enkripsi data melindungi privasi kita saat daring.
+el ataque cibernetic | serangan siber | Perusahaan berhasil menahan serangan siber yang kuat.
+la contraseña robusta | kata sandi kuat | Mereka menyarankan penggunaan kata sandi kuat untuk setiap akun.
+el malware espía | malware mata-mata | Malware mata-mata memengaruhi beberapa komputer di kantor.
+la autenticación de dos pasos | otentikasi dua faktor | Kami mengaktifkan otentikasi dua faktor demi keamanan ekstra.
+el acceso no autorizado | akses tidak sah | Sistem mengeluarkan peringatan karena adanya akses tidak sah.
+la vulnerabilidad crítica | kerentanan kritis | Mereka memperbaiki kerentanan kritis sebelum akhir pekan.
+el analito forense digital | analis forensik digital | Analis forensik digital memeriksa diska keras yang rusak.
+## Kecerdasan buatan dan sains data
+la red neuronal artificial | jaringan saraf tiruan | Jaringan saraf tiruan meniru otak manusia.
+el aprendizaje profundo | pembelajaran mendalam | Pembelajaran mendalam merevolusi pengenalan visual.
+el modelo predictivo | model prediktif | Model prediktif ini mengantisipasi tren pasar.
+la inteligencia artificial generativa | kecerdasan buatan generatif | Kecerdasan buatan generatif menciptakan teks yang sangat natural.
+el procesamiento del lenguaje natural | pemrosesan bahasa alami | Pemrosesan bahasa alami membantu menerjemahkan teks.
+la muestra estadística | sampel statistik | Mereka memilih sampel statistik yang luas untuk penelitian tersebut.
+el sesgo algorítmico | bias algoritma | Para peneliti menganalisis cara mengurangi bias algoritma.
+la minería de datos | penambangan data | Penambangan data mengekstrak pola yang berguna dari volume besar.
+el entrenamiento del modelo | pelatihan model | Pelatihan model memakan waktu beberapa jam yang intensif.
+la inferencia rápida | inferensi cepat | Mereka berupaya mengoptimalkan inferensi cepat pada perangkat seluler.
+## Antariksa dan penerbangan
+el telescopio espacial | teleskop luar angkasa | Teleskop luar angkasa menangkap galaksi-galaksi yang sangat jauh.
+la nave tripulada | pesawat antariksa berawak | Pesawat antariksa berawak yang baru meluncur menuju stasiun orbital.
+el cohete propulsor | roket pendorong | Roket pendorong jatuh ke samudra setelah terpisah.
+la órbita terrestre baja | orbit bumi rendah | Banyak satelit beroperasi di orbit bumi rendah.
+el rover marciano | penjelajah Mars | Penjelajah Mars menganalisis batuan di permukaan merah tersebut.
+la estación espacial internacional | stasiun luar angkasa internasional | Astronot dari berbagai negara tinggal di stasiun luar angkasa internasional.
+el agujero negro supermasivo | lubang hitam supermasif | Mereka mendeteksi gelombang gravitasi di dekat lubang hitam supermasif.
+la atmósfera galáctica | atmosfer galaksi | Mereka mempelajari atmosfer galaksi untuk mencari sinyal-sinyal aneh.
+el satélite meteorológico | satelit meteorologi | Satelit meteorologi memantau badai tropis.
+la sonda interplanetaria | wahana antariksa antarplanet | Wahana antariksa antarplanet mengirimkan data berharga tentang Jupiter.
+## Otomatisasi dan robotika
+el brazo robótico industrial | lengan robot industri | Lengan robot industri merakit komponen dengan presisi.
+la línea de producción automatizada | jalur produksi otomatis | Jalur produksi otomatis mempercepat manufaktur massal.
+el sensor de proximidad | sensor jarak | Sensor jarak ini mencegah robot menabrak dinding.
+la placa base integrada | papan induk terintegrasi | Mereka merancang papan induk terintegrasi yang lebih kecil dan ringan.
+el circuito impreso flexible | sirkuit cetak fleksibel | Sirkuit cetak fleksibel memungkinkan perangkat modern untuk ditekuk.
+la celda solar fotovoltaica | sel surya fotovoltaik | Sel surya fotovoltaik mengubah cahaya menjadi energi bersih.
+el actuador neumático | aktuator pneumatik | Aktuator pneumatik menggerakkan katup dengan udara bertekanan.
+la interfaz hombre-máquina | antarmuka manusia-mesin | Mereka menyempurnakan antarmuka manusia-mesin untuk mempermudah penggunaannya.
+el sistema embebido | sistem tertanam | Setiap perkakas rumah tangga cerdas mencakup sistem tertanam yang kecil.
+la calibración automática | kalibrasi otomatis | Kalibrasi otomatis menjamin pengukuran yang selalu akurat.
+## Komputasi awan
+el servidor remoto | server jarak jauh | Kami menghosting semua halaman web di server jarak jauh yang cepat.
+la copia de seguridad en la nube | cadangan awan | Kami melakukan pencadangan awan setiap tengah malam.
+el almacenamiento virtual | penyimpanan virtual | Penyimpanan virtual memungkinkan akses berkas dari mana saja.
+la infraestructura como servicio | infrastruktur sebagai layanan | Perusahaan menyewa infrastruktur sebagai layanan untuk berskala cepat.
+el balanceador de carga | penyeimbang beban | Penyeimbang beban mendistribusikan lalu lintas web secara efisien.
+la plataforma escalable | platform berskala | Mereka mengembangkan platform berskala untuk jutaan pengguna.
+el contenedor docker | wadah docker | Mereka menggunakan wadah docker untuk mengisolasi aplikasi web.
+la latencia de red | latensi jaringan | Mengurangi latensi jaringan meningkatkan pengalaman panggilan video.
+el protocolo seguro | protokol aman | Mereka mengonfigurasikan protokol aman untuk mentransfer data perbankan.
+la nube híbrida | awan hibrida | Mereka memilih awan hibrida dengan menggabungkan server lokal dan eksternal.
+## Teknologi seluler
+el sistema operativo móvil | sistem operasi seluler | Ponsel cerdas ini menggunakan sistem operasi seluler yang sangat mulus.
+la aplicación nativa | aplikasi natif | Mereka lebih suka mengembangkan aplikasi natif demi performa yang lebih baik.
+la pantalla táctil OLED | layar sentuh OLED | Layar sentuh OLED menawarkan warna yang cerah dan hitam pekat.
+la conectividad 5G | konektivitas 5G | Konektivitas 5G memungkinkan pengunduhan supercepat di jalan.
+el sensor biométrico | sensor biometrik | Sensor biometrik mengenali sidik jari seketika.
+la carga ultrarrápida | pengisian daya supercepat | Teknologi pengisian daya supercepat mengisi baterai dalam hitungan menit.
+el procesador multinúcleo | prosesor multi-inti | Prosesor multi-inti menjalankan tugas berat tanpa tersendat.
+la memoria RAM LPDDR | memori RAM LPDDR | Ini menggabungkan memori RAM LPDDR dengan kecepatan dan efisiensi tinggi.
+el módulo fotográfico | modul kamera | Modul kamera belakang mencakup tiga lensa profesional.
+la actualización de firmware | pembaruan firmware | Mereka meluncurkan pembaruan firmware untuk memperbaiki gangguan kecil.
+## Internet untuk Segala
+el dispositivo conectado | perangkat terhubung | Setiap perangkat terhubung memancarkan data ke jaringan rumah.
+el termostato inteligente | termostat cerdas | Kami memprogram termostat cerdas untuk menghemat energi harian.
+la bombilla domótica | bohlam lampu cerdas | Kami mengontrol warna bohlam lampu cerdas menggunakan suara.
+el enchufe inalambrico | colokan nirkabel | Kami mematikan perangkat yang jauh dengan menggunakan colokan nirkabel.
+la cerradura biométrica | kunci biometrik | Kunci biometrik membuka pintu depan dengan sidik jari Anda.
+el asistente de voz | asisten suara | Asisten suara menjawab pertanyaan tentang cuaca saat ini.
+la persiana automatizada | tirai otomatis | Tirai otomatis turun sendiri saat matahari terbit.
+el sensor de humedad ambiental | sensor kelembapan lingkungan | Sensor kelembapan lingkungan ini mengaktifkan penyiraman taman.
+el timbre con cámara | bel pintu berkamera | Bel pintu berkamera menunjukkan siapa yang mengetuk pintu depan.
+la pasarela domótica | gerbang rumah pintar | Gerbang rumah pintar mengoordinasikan semua perangkat cerdas secara bersamaan.
+## Bioteknologi dan genetika
+el secuenciador de ADN | pengurut DNA | Laboratorium tersebut memperoleh pengurut DNA generasi terbaru.
+la edición genética CRISPR | penyuntingan gen CRISPR | Teknik penyuntingan gen CRISPR membuka harapan medis baru.
+el anticuerpo monoclonal | antibodi monoklonal | Mereka mengembangkan antibodi monoklonal spesifik terhadap virus tersebut.
+la proteína recombinante | protein rekombinan | Mereka memproduksi protein rekombinan menggunakan kultur sel murni.
+el ensayo clínico avanzado | uji klinis tingkat lanjut | Obat tersebut berhasil melewati uji klinis tingkat lanjut.
+la terapia génica | terapi gen | Terapi gen berupaya memperbaiki mutasi keturunan yang parah.
+el bioinformático experto | ahli bioinformatika | Ahli bioinformatika menganalisis sekuens genetik yang kompleks.
+la enzima modificada | enzim modifikasi | Mereka menciptakan enzim modifikasi yang mampu menguraikan plastik dengan cepat.
+el cultivo celular | kultur sel | Mereka memelihara kultur sel dalam kondisi steril yang ketat.
+la molécula sintética | molekul sintetis | Mereka mensintesis molekul sintetis untuk melawan bakteri yang resistan.
+## Komputasi kuantum
+el ordenador cuántico | komputer kuantum | Komputer kuantum memproses informasi menggunakan kubit kompleks.
+el cúbit superconductor | kubit superkonduktor | Kubit superkonduktor membutuhkan suhu yang sangat rendah.
+el entrelazamiento cuántico | keterikatan kuantum | Keterikatan kuantum menghubungkan partikel-partikel dengan cara yang misterius.
+la criptografía poscuántica | kriptografi pasca-kuantum | Mereka meneliti kriptografi pasca-kuantum untuk melindungi data masa depan.
+el algoritmo de Shor | algoritma Shor | Algoritma Shor yang terkenal memfaktorkan angka besar dengan cepat.
+la superposición cuántica | superposisi kuantum | Superposisi kuantum memungkinkan evaluasi beberapa keadaan sekaligus.
+el canal cuántico | saluran kuantum | Mereka mentransmisikan kunci rahasia melalui saluran kuantum yang aman.
+la decoherencia cuántica | dekoherensi kuantum | Dekoherensi kuantum menghancurkan informasi kubit yang rapuh.
+el simulador cuántico | simulator kuantum | Simulator kuantum membantu memahami molekul yang kompleks.
+la supremacía cuántica | supremasi kuantum | Mereka mengumumkan tonggak sejarah dengan mencapai supremasi kuantum.
