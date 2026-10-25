@@ -1,0 +1,111 @@
+# UNIT: Xidmətlər və alış-veriş | Bank, kargo, bərbər, geyim
+## Bankda
+bank account | bank hesabı | Mən bank hesabı açmaq istəyirəm.
+cash machine | bankomat | Buranın yaxınlığında bankomat varmı?
+withdraw (withdrew, withdrawn) | pul çəkmək | Bir az pul çəkməliyəm.
+coin | qəpik (metal pul) | Parkomat üçün bir az qəpiyə ehtiyacım var.
+loan | kredit | Ev almaq üçün kredit götürdülər.
+balance | balans | Balansınızı onlayn yoxlaya bilərsiniz.
+exchange rate | valyuta məzənnəsi | Bugünkü valyuta məzənnəsi necədir?
+banknote | kağız pul, əskininas | Bankomat yalnız iyirmi avroluq əskininaslar verir.
+transfer | pul köçürmək | Pulu bu gün köçürə bilərsənmi?
+savings | yığım, əmanət | O, yığımlarını bankda saxlayır.
+## Kargo və posta
+parcel | bağlama, poska | Bu səhər sənə bağlama gəldi.
+postcode | poçt indeksi | Poçt indeksiniz nədir?
+envelope | zərf | Maktubu zərfin içinə qoy.
+stamp | poçt markası | Bu məktublar üçün iki markaya ehtiyacım var.
+deliver | çatdırmaq | Gecə yarısına qədər pizza çatdırırlar.
+delivery | çatdırılma | Otuz sterlindənsə yuxarı sifarişlərdə çatdırılma pulsuzdur.
+courier | kuryer | Kuryer qapıda gözləyir.
+sender | göndərən | Qutunun üstündə göndərənin adı yoxdur.
+receive | almaq, qəbul etmək | Məktubumu aldınmı?
+track | izləmək | Bağlamanızı onlayn izləyə bilərsiniz.
+## Bərbərdə
+hairdresser | qadın bərbəri | Bərbərim kıvırcık saçlarla çox yaxşı işləyir.
+barber | kişi bərbəri | Ömər hər iki həftədən bir bərbərə gedir.
+haircut | saç kəsimi | Saçımı kəsdirməliyəm.
+fringe | çətir, perçem | Daha qısa çətir istəyirəm, zəhmət olmasa.
+dye | saç boyamaq | Sofiya saçını qırmızıya boyadı.
+shave | üz qırxmaq | O, hər səhər üzünü qırxır.
+hairbrush | saç fırçası | Mariya yeni saç fırçası aldı.
+trim | ucunu kəsmək | Sadəcə uclarını düzəldin, zəhmət olmasa.
+blow-dry | fön çəkmək | Saçımaya fön çəkə bilərsinizmi?
+hairstyle | saç düzümü | Yeni saç düzümümü bəyəndinmi?
+## Xidmətlər
+dry cleaner's | təmizləmə evi, kimyəvi təmizləmə | Kostyumumu kimyəvi təmizləməyə aparacağam.
+launderette | camaşırxana | Küncdə camaşırxana var.
+locksmith | çilingər | Açarlarımı itirdim, ona görə çilingər çağırdım.
+tailor | dərzi | Dərzi şalvarımı qısaltdı.
+customer | müştəri | Dükanın çoxlu daimi müştərisi var.
+opening hours | iş saatları | Şənbə günü iş saatları necədir?
+optician | optik, gözlük satıcısı | Yeni eynəyə ehtiyacım var, ona görə optikə gedirəm.
+photocopy | surət, fotokopi | Bu səhifənin surətini çıxara bilərəmmi?
+florist | çiçəkçi | Ömər çiçəkçidən qızılgül aldı.
+staff | heyət, işçilər | Buranın işçiləri çox köməksevərdir.
+## Telefon xətti
+voicemail | səsli mesaj | Bu səhər sənə səsli mesaj buraxdım.
+top up | balans artırmaq | Telefonuma balans artırmalıyam.
+signal | şəbəkə, siqnal | Dağlarda telefon çəkmir.
+data | mobil internet | Bu ay heç mobil internetim qalmayıb.
+bill | hesabat, faktura | Bu ay telefon fakturası çox yüksəkdir.
+monthly | aylıq | Aylıq ödəniş on beş dollardır.
+unlimited | limiti olmayan, sınırsız | Sınırsız zənglərim və mesajlarım var.
+roaming | rouminq, səyyar əlaqə | Səyahət edərkən rouminqi söndür.
+tariff | tarif | Bu tarif tələbələr üçün daha ucuzdur.
+text | mesaj yazmaq | Evə çatan kimi mənə mesaj yaz.
+## Ticarət mərkəzində
+shopping centre | ticarət mərkəzi | Yeni ticarət mərkəzi bazar ertəsi açılır.
+escalator | eskalator | İkinci mərtəbəyə eskalatorla qalx.
+department store | univermaq | Bu univermaqda hər şeyi tapa bilərsən.
+changing room | soyunub-geyinmə kabini | Soyunub-geyinmə kabinləri haradadır?
+food court | yemək zonası | Yemək zonasında görüşək.
+bargain | sərfəli alış | Bu pencək əsl sərfəli alış idi.
+shopping bag | bazar çantası | Ömər üç ağır bazar çantası daşıyır.
+car park | avtodayanacaq | Avtodayanacaq yenə doludur.
+window shopping | vitrinlərə tamaşa etmək | Şənbə günü vitrinlərə tamaşa etməyə getdik.
+trolley | alış-veriş arabası | Bir alış-veriş arabası ala bilərsənmi, zəhmət olmasa?
+## Ödənişlər
+receipt | qəbz | Qəbzi saxlayın, zəhmət olmasa.
+change | qalıq pul, xırda | Buyurun, qalıq pulunuz.
+contactless | təmassız | Təmassız ödəniş edə bilərəmmi?
+refund | pulun qaytarılması | Bu ayaqqabılar üçün pulun qaytarılmasını istəyirəm.
+instalment | hissə-hissə ödəniş, taksit | Divanın pulunu altı aya ödədik.
+afford | gücü çatmaq (maddi) | Yeni avtomobil almağa gücüm çatmaz.
+owe | borclu olmaq | Sənə on dollar borcluyam.
+tip | bakhşiş | Ofisianta bakhşiş buraxdıq.
+price tag | qiymət etiketi | Bu çantanin üstündə qiymət etiketi yoxdur.
+total | cəmi | Cəmi qırx beş sterlindir.
+## Geyimlər 2
+blouse | bluz | Mariya ağ bluz geyinib.
+cardigan | kardan, jaket | Bir kardan götür, axşam soyuq olur.
+waistcoat | jilet | Toya jilet geyinmişdi.
+tracksuit | idman kostyumu | Evdə idman kostyumu geyinirəm.
+pyjamas | pijama | Uşaqlar artıq pijamalarını geyinib.
+swimsuit | çimərlik geyimi, mayo | Mayonu unutma!
+tights | kalgotka | Qış üçün qara kalgotka aldı.
+trainers | idman ayaqqabısı | Bu idman ayaqqabıları çox rahatdır.
+sandals | sandal | Yayda yalnız sandal geyinirəm.
+slippers | ev başmaqları | Başmaqlarını geyin, döşəmə soyuqdur.
+## Parçalar və naxışlar
+cotton | pambıq | Bu köynək pambıqdan hazirlanıb.
+wool | yun | Yun kazak insanı isti saxlayır.
+silk | ipək | Hədiyyə olaraq ipək yaylıq aldı.
+leather | dəri | Dəri pencək istəyirəm.
+denim | cins parça | Cins pencəklərin dəbi heç vaxt keçmir.
+striped | zolaqlı | O, mavi zolaqlı köynək geyinib.
+checked | damalı | Damalı ətəyinizi çox bəyəndim.
+spotted | xallı | Körpənin xallı papaqı var.
+plain | düz rəngli, sadə | Sadə tişörtlərə üstünlük verirəm.
+pattern | naxış | Bu donun naxışı çox gözəldir.
+## Mağaza ifadələri
+try on | geyinib yoxlamaq | Bu donu geyinib yoxlaya bilərəmmi?
+baggy | boş, gen | O, gen şalvar geyinməyi xoşlayır.
+suit | yaraşmaq | Bu rəng sənə həqiqətən yaraşır.
+go with (went, gone) | uyğun gəlmək | Bu kəmər ayaqqabılarıma uyğundurmu?
+in stock | anbarda olan | Bu model anbarda varmı?
+out of stock | bitmiş, anbarda yoxdur | Bağışlayın, həmin ölçü bitib.
+just looking | sadəcə baxıram | Xeyr, təşəkkürlər, sadəcə baxıram.
+exchange | dəyişdirmək | Bu köynəyi daha böyüyü ilə dəyişə bilərəmmi?
+loose | boş (geyim) | Bu şalvar çox boşdur.
+tight | dar | Ayaqqabılar bir az dardır.
