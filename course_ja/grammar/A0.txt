@@ -1,0 +1,47 @@
+# TOPIC: Japoncanın üç yazısı | ひらがな、カタカナ、漢字
+> Japonca üç yazıyı birlikte kullanır: hiragana (Japonca kelimeler ve ekler), katakana (yabancı kökenli kelimeler ve isimler) ve kanji (anlam taşıyan Çin kökenli karakterler).
+> Bir cümlede üçü de görülebilir. Kelimeler arasında boşluk bırakılmaz; cümle sonunda 。 kullanılır.
+= わたしは アンナです。(Watashi wa Anna desu.) | Ben Anna'yım.
+= コーヒーを ください。(Kōhī o kudasai.) | Kahve lütfen.
+= 日本は きれいです。(Nihon wa kirei desu.) | Japonya çok güzel.
+? "コーヒー" kelimesi hangi yazıyla yazılmıştır? | katakana | hiragana | kanji
+? Yabancı kökenli kelimeler genellikle hangi yazıyla yazılır? | katakana | hiragana | kanji
+? Japonca cümlenin sonuna hangi işaret konur? | 。 | ． | ！
+? "わたし" kelimesi hangi yazıyla yazılmıştır? | hiragana | katakana | kanji
+? "日本" (Nihon) hangi yazıyla yazılmıştır? | kanji | hiragana | katakana
+
+# TOPIC: Uzun sesler ve küçük っ | おかあさん、きって、コーヒー
+> Japoncada sesli harfin uzunluğu anlamı değiştirir: おばさん (obasan, teyze) ile おばあさん (obāsan, büyükanne) farklı kelimelerdir. Hiraganada uzunluk bir sesli eklenerek, katakanada ー çizgisiyle gösterilir.
+> Küçük っ / ッ okunmaz; sonraki ünsüzü ikizler ve kısa bir duraklama yaratır: きて (kite, gel) ile きって (kitte, pul) farklıdır.
+= おかあさん (okāsan) | anne
+= きって (kitte) | posta pulu
+= コーヒー (kōhī) | kahve
+? "obāsan" (büyükanne) nasıl yazılır? | おばあさん | おばさん | おばさあん
+? Katakanada uzun sesi gösteren işaret hangisidir? | ー | っ | ゛
+? "kitte" (pul) nasıl yazılır? | きって | きて | きいて
+? Küçük っ nasıl okunur? | okunmaz, sonraki ünsüzü ikizler | "tsu" diye okunur | "u" diye okunur
+? "bīru" (bira) nasıl yazılır? | ビール | ビル | ビイル
+
+# TOPIC: "X wa Y desu" — ilk cümle | わたしは がくせいです
+> "A は B です" kalıbı "A, B'dir" anlamına gelir. は burada "wa" okunur ve konuyu gösterir; です cümleyi kibar bir şekilde bitirir.
+> Olumsuz için です yerine じゃありません (ja arimasen) kullanılır. Türkçedeki gibi yüklem sona gelir.
+= わたしは がくせいです。(Watashi wa gakusei desu.) | Ben öğrenciyim.
+= これは ほんです。(Kore wa hon desu.) | Bu bir kitap.
+= わたしは せんせいじゃありません。(Watashi wa sensei ja arimasen.) | Ben öğretmen değilim.
+? "Ben Yuki'yim." → わたし ... ゆきです。 | は | を | が
+? Konu edatı は bu kalıpta nasıl okunur? | wa | ha | o
+? "Bu bir kitap." doğru cümle hangisidir? | これは ほんです。 | ほんは これです。 | これを ほんです。
+? "Öğrenci değilim." → がくせい ... | じゃありません | です | ですか
+? Japonca cümlede yüklem (です) nerede durur? | sonda | başta | ortada
+
+# TOPIC: Soru sormak: か | がくせいですか
+> Bir cümleyi soru yapmak için sonuna か eklenir; soru işareti şart değildir. Ses sonda hafifçe yükselir.
+> Cevapta はい (evet) veya いいえ (hayır) kullanılır. Soru kelimeleri (なん, だれ, どこ) cümlede sorulan şeyin yerine gelir.
+= がくせいですか。(Gakusei desu ka.) | Öğrenci misin?
+= はい、がくせいです。(Hai, gakusei desu.) | Evet, öğrenciyim.
+= これは なんですか。(Kore wa nan desu ka.) | Bu ne?
+? "Öğretmen misiniz?" → せんせいです ... | か | ね | よ
+? "Evet" anlamına gelen kelime hangisidir? | はい | いいえ | どうぞ
+? "Bu ne?" → これは ... ですか。 | なん | だれ | どこ
+? "O kim?" → あのひとは ... ですか。 | だれ | なん | いつ
+? "Hayır" anlamına gelen kelime hangisidir? | いいえ | はい | ええ
