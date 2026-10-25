@@ -1,0 +1,111 @@
+# UNIT: Language and Linguistics | Grammar, translation, language learning
+## Parts of speech
+dil bilgisi | grammar | isim | Türkçenin dil bilgisi düzenli olduğu için kuralları öğrenmek zevkli. | Because Turkish grammar is regular, learning the rules is enjoyable.
+fiil | verb | isim | Türkçede fiil genellikle cümlenin sonunda yer alır. | In Turkish, the verb usually comes at the end of the sentence.
+sıfat | adjective | isim | Sıfatlar Türkçede her zaman niteledikleri ismin önüne gelir. | In Turkish, adjectives always come before the noun they describe.
+belirteç | adverb (linguistics) | isim | "Hızlıca" kelimesi, fiilin nasıl yapıldığını anlatan bir belirteçtir. | The word "hızlıca" is an adverb describing how the action is done.
+zamir | pronoun | isim | Türkçede özne zamiri çoğu zaman söylenmez çünkü fiil kişiyi gösterir. | In Turkish the subject pronoun is often left out because the verb shows the person.
+edat | postposition | isim | "Gibi", "için" ve "kadar" Türkçede en sık kullanılan edatlardandır. | "Gibi", "için" and "kadar" are among the most frequently used postpositions in Turkish.
+bağlaç | conjunction | isim | "Ama" ve "fakat" aynı anlama gelen iki bağlaçtır. | "Ama" and "fakat" are two conjunctions with the same meaning.
+yapım eki | derivational suffix | isim | "-lik" yapım eki, "göz" kelimesinden "gözlük" kelimesini türetir. | The derivational suffix "-lik" forms the word "gözlük" from "göz".
+çekim eki | inflectional suffix | isim | Çekim ekleri kelimenin anlamını değil, cümledeki görevini değiştirir. | Inflectional suffixes change not the meaning of a word but its function in the sentence.
+sözcük kökü | word root | isim | "Gözlükçü" kelimesinin sözcük kökü "göz"dür. | The root of the word "gözlükçü" is "göz".
+## Sentence grammar
+tekil | singular | sıfat | Türkçede sayılardan sonra gelen isim tekil kalır, "üç kitap" denir. | In Turkish, a noun after a number stays singular: you say "üç kitap".
+çoğul | plural | sıfat | Çoğul eki "-ler" veya "-lar", ünlü uyumuna göre seçilir. | The plural suffix "-ler" or "-lar" is chosen according to vowel harmony.
+özne | subject (grammar) | isim | "Kedi sütü içti" cümlesinde özne "kedi"dir. | In the sentence "Kedi sütü içti", the subject is "kedi".
+yüklem | predicate | isim | Türkçe cümlelerde yüklem genellikle en sonda bulunur. | In Turkish sentences, the predicate is usually found at the very end.
+nesne | object (grammar) | isim | Belirli nesneler Türkçede "-ı" ekini alır: "kitabı okudum". | Definite objects in Turkish take the "-ı" suffix: "kitabı okudum".
+cümle | sentence | isim | Öğretmen, her yeni kelimeyle bir cümle kurmamızı istedi. | The teacher asked us to make a sentence with each new word.
+soru cümlesi | question; interrogative sentence | isim | Soru cümlelerinde "mi" eki ayrı yazılır ama ünlü uyumuna uyar. | In questions, the particle "mi" is written separately but follows vowel harmony.
+kip | mood; tense form | isim | Dilek kipi, bir isteği veya olasılığı anlatmak için kullanılır. | The optative mood is used to express a wish or a possibility.
+ünlü uyumu | vowel harmony | isim | Ünlü uyumu sayesinde Türkçe kelimeler kulağa çok ahenkli gelir. | Thanks to vowel harmony, Turkish words sound very harmonious.
+ünsüz yumuşaması | consonant softening | isim | "Kitap" kelimesi ünsüz yumuşaması yüzünden "kitabı" olur. | The word "kitap" becomes "kitabı" because of consonant softening.
+## Sounds and spelling
+telaffuz | pronunciation | isim | "Ğ" harfinin telaffuzu yabancı öğrenciler için başta çok kafa karıştırıcı. | The pronunciation of the letter "ğ" is very confusing for foreign learners at first.
+tonlama | intonation | isim | Aynı cümle, tonlamaya göre soru ya da şaşırma anlamı taşıyabilir. | The same sentence can be a question or an exclamation of surprise depending on intonation.
+hece | syllable | isim | Türkçede kelimeler genellikle yazıldığı gibi hecelere ayrılır. | In Turkish, words are usually divided into syllables just as they're written.
+ünlü | vowel | isim | Türkçede sekiz ünlü vardır ve bunlar ince ve kalın olarak ikiye ayrılır. | Turkish has eight vowels, which are divided into front and back vowels.
+ünsüz | consonant | isim | Türkçe kelimeler genellikle iki ünsüzle başlamaz, bu yüzden "istasyon" denir. | Turkish words don't usually begin with two consonants, which is why it's "istasyon".
+imla | spelling; orthography | isim | Annem mektuplarımı okurken hep imla hatalarımı düzeltirdi. | When reading my letters, my mother always corrected my spelling mistakes.
+yazım kuralı | spelling rule | isim | "De" bağlacının ayrı yazılması, en çok karıştırılan yazım kurallarından biri. | Writing the conjunction "de" separately is one of the most commonly confused spelling rules.
+kesme işareti | apostrophe | isim | Özel isimlere gelen ekler kesme işaretiyle ayrılır: "Ankara'da". | Suffixes added to proper nouns are separated with an apostrophe: "Ankara'da".
+büyük harf | capital letter | isim | Cümleye her zaman büyük harfle başlamayı unutmayın. | Don't forget to always start a sentence with a capital letter.
+okunuş | pronunciation; reading | isim | Bu sözlükte her kelimenin yanında okunuşu da verilmiş. | In this dictionary, the pronunciation is given next to each word.
+## Words and meaning
+sözcük | word | isim | Türkçede Fransızcadan geçmiş pek çok sözcük vardır. | There are many words in Turkish that have come from French.
+eş anlamlı | synonym; synonymous | sıfat | "Kırmızı" ve "al" kelimeleri eş anlamlı olarak kullanılabilir. | The words "kırmızı" and "al" can be used as synonyms.
+zıt anlamlı | antonym; opposite | sıfat | Öğretmen, "sıcak" kelimesinin zıt anlamlısını sorunca herkes "soğuk" dedi. | When the teacher asked for the opposite of "sıcak", everyone said "soğuk".
+eş sesli | homonym; homophone | sıfat | "Yüz" kelimesi eş seslidir: hem bir sayı hem de bir organ anlamına gelir. | The word "yüz" is a homonym: it means both a number and a part of the body.
+gerçek anlam | literal meaning | isim | "Göz atmak" deyiminin gerçek anlamıyla hiçbir ilgisi yok. | The idiom "göz atmak" has nothing to do with its literal meaning.
+yan anlam | connotation; secondary meaning | isim | "Ağır" kelimesinin "ciddi" gibi bir yan anlamı da vardır. | The word "ağır" also has a secondary meaning, such as "serious".
+kelime dağarcığı | vocabulary | isim | Kitap okumak, kelime dağarcığını geliştirmenin en etkili yoludur. | Reading books is the most effective way to build your vocabulary.
+kısaltma | abbreviation | isim | "TBMM" kısaltması, Türkiye Büyük Millet Meclisi anlamına gelir. | The abbreviation "TBMM" stands for the Grand National Assembly of Turkey.
+terim | term | isim | Tıp öğrencileri ilk yıl yüzlerce Latince terim ezberliyor. | In their first year, medical students memorise hundreds of Latin terms.
+ödünç kelime | loanword | isim | "Otobüs" ve "televizyon" Türkçedeki ödünç kelimelere güzel bir örnek. | "Otobüs" and "televizyon" are good examples of loanwords in Turkish.
+## Translation
+çeviri | translation | isim | Bu romanın Türkçe çevirisi aslı kadar güzel olmuş. | The Turkish translation of this novel is as good as the original.
+çevirmek | to translate; to turn | fiil | Annesinin yemek tariflerini İngilizceye çevirip bir kitap hâline getirdi. | She translated her mother's recipes into English and turned them into a book.
+kaynak dil | source language | isim | İyi bir çevirmen, kaynak dildeki kültürel ayrıntıları da bilmelidir. | A good translator should also know the cultural details of the source language.
+hedef dil | target language | isim | Çevirmenler genellikle kendi ana dillerini hedef dil olarak tercih eder. | Translators usually prefer their own mother tongue as the target language.
+birebir çeviri | word-for-word translation | isim | Deyimleri birebir çeviri yaparak aktarmak çoğu zaman komik sonuçlar verir. | Translating idioms word for word often produces funny results.
+serbest çeviri | free translation | isim | Şiir çevirisinde serbest çeviri, anlamı ve duyguyu korumak için daha uygun olabilir. | In translating poetry, a free translation may be better for preserving meaning and feeling.
+anlam kaybı | loss of meaning | isim | Kelime oyunlarını başka dile aktarırken anlam kaybı yaşanması kaçınılmaz. | When word plays are transferred to another language, some loss of meaning is unavoidable.
+sözlü çeviri | interpreting | isim | Konferanslarda sözlü çeviri yapmak büyük bir dikkat ve hız gerektirir. | Interpreting at conferences requires great concentration and speed.
+simultane çeviri | simultaneous interpreting | isim | Toplantıda kulaklıklardan simultane çeviri dinleyerek konuşmacıları anladık. | At the meeting we understood the speakers by listening to simultaneous interpreting through headphones.
+yeminli tercüman | sworn translator | isim | Diplomanızın tercümesini yeminli bir tercümana yaptırmanız gerekiyor. | You need to have your diploma translated by a sworn translator.
+## Learning languages
+ana dil | mother tongue | isim | Ana dili Türkçe olan öğrenciler Azerice metinleri kolayca anlayabiliyor. | Students whose mother tongue is Turkish can easily understand Azerbaijani texts.
+ikinci dil | second language | isim | Çocuklar ikinci bir dili yetişkinlerden çok daha kolay öğrenir. | Children learn a second language much more easily than adults.
+iki dilli | bilingual | sıfat | Annesi Alman, babası Türk olduğu için iki dilli büyüdü. | Because his mother is German and his father Turkish, he grew up bilingual.
+seviye | level | isim | Dil kursuna başlamadan önce seviyenizi belirlemek için bir sınava giriyorsunuz. | Before starting the language course, you take a test to determine your level.
+akıcılık | fluency | isim | Akıcılık kazanmak için hata yapmaktan korkmadan konuşmak gerekiyor. | To gain fluency, you need to speak without fear of making mistakes.
+dil becerisi | language skill | isim | Okuma, yazma, dinleme ve konuşma dört temel dil becerisidir. | Reading, writing, listening and speaking are the four basic language skills.
+dinlediğini anlama | listening comprehension | isim | Sınavın dinlediğini anlama bölümünde iki kısa diyalog dinledik. | In the listening comprehension part of the exam, we listened to two short dialogues.
+konuşma pratiği | speaking practice | isim | Konuşma pratiği yapmak için her hafta Türk arkadaşlarımla buluşuyorum. | I meet my Turkish friends every week for speaking practice.
+dil değişimi | language exchange | isim | Bir dil değişimi uygulamasında tanıştığımız İspanyol kızla şimdi çok iyi arkadaşız. | We're now good friends with the Spanish girl we met on a language exchange app.
+kendi kendine öğrenmek | to teach oneself | fiil | Japoncayı hiç kursa gitmeden, kendi kendine öğrenmiş. | He taught himself Japanese without ever going to a course.
+## Languages and dialects
+lehçe | dialect; related language | isim | Azerice ve Türkmence, Türkçeye çok yakın lehçeler olarak kabul edilir. | Azerbaijani and Turkmen are considered languages very close to Turkish.
+şive | regional accent | isim | Karadeniz şivesiyle konuşan arkadaşımı ilk başta anlamakta zorlandım. | At first I had trouble understanding my friend, who speaks with a Black Sea accent.
+yerel ağız | local dialect | isim | Her köyün kendine özgü bir yerel ağzı ve kelimeleri var. | Every village has its own local dialect and words.
+dil ailesi | language family | isim | Türkçe ve Macarca aynı dil ailesinden mi, dilbilimciler hâlâ tartışıyor. | Linguists still debate whether Turkish and Hungarian belong to the same language family.
+Türk dilleri | the Turkic languages | isim | Türk dilleri Balkanlar'dan Sibirya'ya kadar geniş bir coğrafyada konuşuluyor. | The Turkic languages are spoken over a wide area from the Balkans to Siberia.
+resmî dil | official language | isim | İsviçre'nin dört resmî dili var: Almanca, Fransızca, İtalyanca ve Romanşça. | Switzerland has four official languages: German, French, Italian and Romansh.
+azınlık dili | minority language | isim | Bazı ülkelerde azınlık dilleri okullarda seçmeli ders olarak öğretiliyor. | In some countries minority languages are taught as optional subjects in schools.
+ölü dil | dead language | isim | Latince ölü bir dil olsa da tıp ve hukuk terimlerinde yaşamaya devam ediyor. | Although Latin is a dead language, it lives on in medical and legal terms.
+ortak dil | common language; lingua franca | isim | Farklı ülkelerden gelen öğrenciler arasında ortak dil İngilizceydi. | The common language among the students from different countries was English.
+argo | slang | isim | Gençlerin kullandığı argo, her birkaç yılda bir tamamen değişiyor. | The slang young people use changes completely every few years.
+## Ways of speaking
+konuşma dili | spoken language; colloquial speech | isim | Ders kitabındaki Türkçe ile sokaktaki konuşma dili arasında büyük farklar var. | There are big differences between textbook Turkish and the colloquial speech on the street.
+yazı dili | written language | isim | Osmanlı döneminde yazı dili, halkın konuştuğu dilden oldukça farklıydı. | In the Ottoman period, the written language was quite different from the language people spoke.
+siz diye hitap etmek | to address someone formally | fiil | Türkiye'de yaşça büyük ve tanımadığınız kişilere siz diye hitap etmek gerekir. | In Turkey you should address older people and strangers formally with "siz".
+anlatım bozukluğu | faulty expression | isim | Öğretmen, kompozisyonumdaki anlatım bozukluklarını kırmızı kalemle işaretledi. | The teacher marked the faulty expressions in my essay with a red pen.
+dil yanlışı | language error | isim | Televizyonda sık sık yapılan dil yanlışları dil bilimcileri rahatsız ediyor. | The language errors often made on television bother linguists.
+ifade biçimi | way of expressing | isim | Aynı fikri farklı ifade biçimleriyle anlatmak dili zenginleştirir. | Expressing the same idea in different ways enriches the language.
+söyleyiş | delivery; way of saying | isim | Şairin söyleyişi o kadar etkileyiciydi ki salonda çıt çıkmadı. | The poet's delivery was so captivating that there wasn't a sound in the hall.
+lafı ağzında gevelemek | to hum and haw; to mumble | deyim | Lafı ağzında geveleme de ne istediğini açıkça söyle. | Stop humming and hawing and say clearly what you want.
+kekelemek | to stutter | fiil | Heyecanlandığı zaman biraz kekeliyor ama konuşmaktan çekinmiyor. | When she gets nervous she stutters a little, but she isn't shy about speaking.
+fısıldamak | to whisper | fiil | Kütüphanede arkadaşına bir şey sormak için kulağına fısıldadı. | In the library she whispered in her friend's ear to ask him something.
+## Linguistics
+dilbilim | linguistics | isim | Dilbilim, dillerin yapısını ve nasıl değiştiğini bilimsel olarak inceler. | Linguistics studies the structure of languages and how they change scientifically.
+dilbilimci | linguist | isim | Dilbilimciler, dünyadaki dillerin yarısının bu yüzyılda kaybolabileceğini söylüyor. | Linguists say that half the world's languages could disappear this century.
+ses bilgisi | phonetics; phonology | isim | Ses bilgisi dersinde Türkçedeki ünlülerin ağızda nasıl çıktığını öğrendik. | In phonetics class we learned how Turkish vowels are produced in the mouth.
+anlam bilimi | semantics | isim | Anlam bilimi, kelimelerin ve cümlelerin anlamlarını inceleyen bir alandır. | Semantics is a field that studies the meanings of words and sentences.
+söz dizimi | syntax | isim | Türkçenin söz dizimi İngilizceden çok farklı, fiil sona geliyor. | Turkish syntax is very different from English; the verb comes at the end.
+köken | origin; root | isim | Pek çok Türkçe kelimenin kökeni Orta Asya'ya kadar uzanıyor. | The origin of many Turkish words goes back to Central Asia.
+etimoloji | etymology | isim | "Çay" kelimesinin etimolojisi bizi Çince bir kelimeye götürüyor. | The etymology of the word "çay" leads us to a Chinese word.
+dil edinimi | language acquisition | isim | Dil edinimi üzerine yapılan çalışmalar, bebeklerin seslere çok erken tepki verdiğini gösteriyor. | Studies on language acquisition show that babies respond to sounds very early.
+dil evrimi | language change; evolution of language | isim | Dil evrimi yavaş bir süreçtir ama yüz yıl önceki metinlerde bile farklar görülür. | Language change is a slow process, but differences can be seen even in texts from a century ago.
+alfabe | alphabet | isim | Türk alfabesinde "q", "w" ve "x" harfleri bulunmaz. | The Turkish alphabet doesn't have the letters "q", "w" and "x".
+## The Turkish language
+eklemeli dil | agglutinative language | isim | Türkçe eklemeli bir dil olduğu için tek bir kelime uzun bir cümleye karşılık gelebilir. | Because Turkish is agglutinative, a single word can correspond to a long sentence.
+Osmanlıca | Ottoman Turkish | isim | Dedemin sandığında Osmanlıca yazılmış eski mektuplar bulduk. | We found old letters written in Ottoman Turkish in my grandfather's chest.
+Arapça | Arabic | isim | "Kitap" ve "kalem" kelimeleri Türkçeye Arapçadan geçmiştir. | The words "kitap" and "kalem" came into Turkish from Arabic.
+Farsça | Persian | isim | "Pazar" ve "hafta" gibi gündelik kelimeler Farsçadan gelmiştir. | Everyday words such as "pazar" and "hafta" come from Persian.
+yabancı kökenli | of foreign origin | sıfat | Türkçedeki yabancı kökenli kelimelerin çoğu artık tamamen yerleşmiş durumda. | Most of the words of foreign origin in Turkish have now become fully established.
+dil devrimi | language reform | isim | Dil devrimiyle birlikte birçok Arapça ve Farsça kelimenin yerine Türkçe karşılıklar bulundu. | With the language reform, Turkish equivalents were found for many Arabic and Persian words.
+öz Türkçe | pure Turkish (native vocabulary) | isim | "Okul" ve "öğrenci" gibi kelimeler öz Türkçe köklerden türetilmiştir. | Words such as "okul" and "öğrenci" were derived from native Turkish roots.
+Türk Dil Kurumu | the Turkish Language Association | isim | Bir kelimenin doğru yazılışını Türk Dil Kurumu'nun sözlüğünden kontrol edebilirsiniz. | You can check the correct spelling of a word in the Turkish Language Association's dictionary.
+kelime türetmek | to coin words | fiil | Türkçede eklerle yeni kelime türetmek çok kolaydır. | In Turkish it's very easy to coin new words with suffixes.
+deyim | idiom | isim | "Etekleri zil çalmak" deyimi çok sevinmek anlamına gelir. | The idiom "etekleri zil çalmak" means to be overjoyed.
