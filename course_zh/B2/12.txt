@@ -1,0 +1,111 @@
+# UNIT: Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
+## Dilbilim
+语言学 (yǔyánxué) | dilbilim | isim | 她在大学研究汉语语言学。 | Üniversitede Çince dilbilimi üzerine araştırma yapıyor.
+词汇 (cíhuì) | sözcük dağarcığı | isim | 这本书的词汇对初学者来说太难了。 | Bu kitabın kelimeleri yeni başlayanlar için çok zor.
+语义 (yǔyì) | anlam (dilbilim) | isim | 同一个词在不同句子里的语义可能不同。 | Aynı kelimenin farklı cümlelerdeki anlamı farklı olabilir.
+语境 (yǔjìng) | bağlam | isim | 这个词的意思要根据语境来判断。 | Bu kelimenin anlamına bağlama göre karar vermek gerekir.
+方言 (fāngyán) | lehçe, ağız | isim | 中国有很多方言，比如粤语和上海话。 | Çin'de Kantonca ve Şanghay ağzı gibi pek çok lehçe var.
+普通话 (pǔtōnghuà) | standart Çince (Mandarin) | isim | 他的普通话说得很标准。 | Standart Çincesi çok düzgün.
+母语 (mǔyǔ) | ana dil | isim | 我的母语是土耳其语。 | Ana dilim Türkçe.
+外语 (wàiyǔ) | yabancı dil | isim | 学一门外语可以打开一个新世界。 | Bir yabancı dil öğrenmek yeni bir dünyanın kapısını açar.
+语系 (yǔxì) | dil ailesi | isim | 土耳其语属于突厥语系。 | Türkçe Türk dil ailesine aittir.
+语种 (yǔzhǒng) | dil (türü) | isim | 这个网站提供二十多个语种的翻译。 | Bu site yirmiden fazla dilde çeviri sunuyor.
+## Sözcük türleri ve cümle öğeleri
+名词 (míngcí) | isim (dil bilgisi) | isim | “桌子”是一个名词。 | "Masa" bir isimdir.
+动词 (dòngcí) | fiil (dil bilgisi) | isim | 这个句子里的动词是“喜欢”。 | Bu cümledeki fiil "sevmek".
+形容词 (xíngróngcí) | sıfat (dil bilgisi) | isim | 汉语的形容词可以直接做谓语。 | Çincede sıfatlar doğrudan yüklem olabilir.
+副词 (fùcí) | zarf (dil bilgisi) | isim | “很”和“非常”都是副词。 | "Hen" ve "feichang" ikisi de zarftır.
+代词 (dàicí) | zamir (dil bilgisi) | isim | “他”和“她”都是代词，发音也一样。 | "Ta" (o, erkek) ve "ta" (o, kadın) ikisi de zamirdir, okunuşları da aynıdır.
+介词 (jiècí) | edat (dil bilgisi) | isim | “在”有时候是动词，有时候是介词。 | "Zai" bazen fiil, bazen edattır.
+连词 (liáncí) | bağlaç (dil bilgisi) | isim | “因为”和“所以”是常用的连词。 | "Yinwei" ve "suoyi" sık kullanılan bağlaçlardır.
+量词 (liàngcí) | sayı sözcüğü (ölçü sözcüğü) | isim | 学汉语最难的地方之一是量词。 | Çince öğrenmenin en zor yanlarından biri ölçü sözcükleridir.
+主语 (zhǔyǔ) | özne | isim | 这个句子的主语是谁？ | Bu cümlenin öznesi kim?
+宾语 (bīnyǔ) | nesne | isim | 在“我喝茶”里，“茶”是宾语。 | "Çay içiyorum" cümlesinde "çay" nesnedir.
+## Yazı sistemi
+笔画 (bǐhuà) | çizgi (karakterde) | isim | 这个字有十五笔画，太难写了。 | Bu karakterin on beş çizgisi var, yazması çok zor.
+笔顺 (bǐshùn) | çizgi sırası | isim | 写汉字的时候要注意笔顺。 | Karakter yazarken çizgi sırasına dikkat etmek gerekir.
+偏旁 (piānpáng) | karakter bileşeni | isim | 很多和水有关的字都有三点水这个偏旁。 | Suyla ilgili pek çok karakterde "üç damla su" bileşeni bulunur.
+部首 (bùshǒu) | kök (sözlükte arama) | isim | 查字典的时候可以按部首查。 | Sözlükte ararken köke göre bakabilirsin.
+繁体字 (fántǐzì) | geleneksel karakterler | isim | 台湾和香港使用繁体字。 | Tayvan ve Hong Kong'da geleneksel karakterler kullanılıyor.
+简体字 (jiǎntǐzì) | basitleştirilmiş karakterler | isim | 中国大陆使用简体字。 | Çin anakarasında basitleştirilmiş karakterler kullanılıyor.
+拼音 (pīnyīn) | pinyin (Latin harfli okunuş) | isim | 初学者可以先学拼音。 | Yeni başlayanlar önce pinyin öğrenebilir.
+声调 (shēngdiào) | ton (ses) | isim | 汉语有四个声调，声调不同，意思也不同。 | Çincede dört ton vardır; ton farklıysa anlam da farklıdır.
+错别字 (cuòbiézì) | yanlış yazılmış karakter | isim | 他的作文里有好几个错别字。 | Kompozisyonunda birkaç yanlış yazılmış karakter var.
+标点符号 (biāodiǎn fúhào) | noktalama işaretleri | isim | 写文章要正确使用标点符号。 | Yazı yazarken noktalama işaretlerini doğru kullanmak gerekir.
+## Çeviri
+口译 (kǒuyì) | sözlü çeviri | isim | 她在国际会议上做口译。 | Uluslararası konferanslarda sözlü çeviri yapıyor.
+笔译 (bǐyì) | yazılı çeviri | isim | 我更喜欢做笔译，因为时间比较充足。 | Yazılı çeviriyi daha çok severim, çünkü zaman daha bol.
+同声传译 (tóngshēng chuányì) | simültane çeviri | isim | 同声传译是压力最大的工作之一。 | Simültane çeviri en stresli işlerden biridir.
+译者 (yìzhě) | çevirmen (eserin) | isim | 这本小说的译者翻译得非常好。 | Bu romanın çevirmeni çok iyi bir çeviri yapmış.
+原文 (yuánwén) | asıl metin | isim | 如果可以的话，最好读原文。 | Mümkünse en iyisi metni aslından okumak.
+译文 (yìwén) | çeviri metni | isim | 这篇译文和原文的意思有些出入。 | Bu çeviri metni ile asıl metnin anlamı arasında bazı farklar var.
+直译 (zhíyì) | kelimesi kelimesine çeviri | isim | 成语不能直译，要翻译出它的意思。 | Deyimler kelimesi kelimesine çevrilemez, anlamının aktarılması gerekir.
+意译 (yìyì) | serbest çeviri, anlam çevirisi | isim | 这个句子用意译更自然。 | Bu cümle serbest çeviriyle daha doğal olur.
+术语 (shùyǔ) | terim | isim | 翻译医学文章需要了解很多专业术语。 | Tıbbi makale çevirmek pek çok uzmanlık terimini bilmeyi gerektirir.
+对应 (duìyìng) | karşılık gelmek | fiil | 有些汉语词在土耳其语里没有对应的词。 | Bazı Çince kelimelerin Türkçede karşılığı yoktur.
+## Dil öğrenmek
+熟练 (shúliàn) | becerikli, ustalaşmış | sıfat | 他能熟练地使用三种语言。 | Üç dili ustalıkla kullanabiliyor.
+流利 (liúlì) | akıcı | sıfat | 她的汉语说得非常流利。 | Çinceyi çok akıcı konuşuyor.
+口语 (kǒuyǔ) | konuşma dili | isim | 我的阅读还可以，但是口语不太好。 | Okumam fena değil ama konuşmam pek iyi değil.
+书面语 (shūmiànyǔ) | yazı dili | isim | 这个词是书面语，平时说话很少用。 | Bu kelime yazı dilinde kullanılır, günlük konuşmada pek kullanılmaz.
+写作 (xiězuò) | yazma (beceri) | isim | 写作是学外语最难的部分之一。 | Yazma, yabancı dil öğrenmenin en zor kısımlarından biridir.
+词汇量 (cíhuìliàng) | kelime hazinesi | isim | 多读书可以扩大词汇量。 | Çok kitap okumak kelime hazinesini genişletir.
+语感 (yǔgǎn) | dil sezgisi | isim | 多听多说可以培养语感。 | Çok dinleyip çok konuşmak dil sezgisini geliştirir.
+沉浸 (chénjìn) | kendini kaptırmak, içine dalmak | fiil | 在中国生活一年，他完全沉浸在汉语环境里。 | Çin'de geçirdiği bir yılda kendini tamamen Çince ortamına kaptırdı.
+母语者 (mǔyǔzhě) | anadili konuşur | isim | 和母语者聊天是提高口语的好方法。 | Ana dili konuşurlarla sohbet etmek konuşmayı geliştirmenin iyi bir yoludur.
+语言环境 (yǔyán huánjìng) | dil ortamı | isim | 没有语言环境，学外语会比较难。 | Dil ortamı olmadan yabancı dil öğrenmek oldukça zor olur.
+## Sözcükler ve anlam
+同义词 (tóngyìcí) | eş anlamlı | isim | “高兴”和“快乐”是同义词吗？ | "Gaoxing" ile "kuaile" eş anlamlı mı?
+反义词 (fǎnyìcí) | zıt anlamlı | isim | “大”的反义词是“小”。 | "Büyük"ün zıt anlamlısı "küçük"tür.
+近义词 (jìnyìcí) | yakın anlamlı | isim | 这两个近义词的用法不太一样。 | Bu iki yakın anlamlı kelimenin kullanımı pek aynı değil.
+多音字 (duōyīnzì) | birden çok okunuşu olan karakter | isim | “行”是一个多音字，有两种读音。 | "Xing/hang" birden çok okunuşu olan bir karakterdir, iki okunuşu var.
+谐音 (xiéyīn) | sesteşlik, ses benzerliği | isim | 因为“四”和“死”谐音，很多人不喜欢这个数字。 | "Dört" ile "ölüm" sesteş olduğu için pek çok kişi bu sayıyı sevmez.
+成语 (chéngyǔ) | dört karakterli deyim | isim | 很多成语后面都有一个历史故事。 | Pek çok deyimin arkasında tarihî bir hikâye vardır.
+俗语 (súyǔ) | halk deyişi | isim | 俗语说：“早起的鸟儿有虫吃。” | Halk arasında "Erken kalkan yol alır" denir.
+歇后语 (xiēhòuyǔ) | iki bölümlü espirili deyiş | isim | 歇后语很有意思，但是外国人很难懂。 | İki bölümlü deyişler çok eğlencelidir ama yabancıların anlaması zordur.
+外来词 (wàiláicí) | alıntı kelime | isim | “咖啡”和“沙发”都是外来词。 | "Kahve" ve "kanepe" ikisi de alıntı kelimelerdir.
+缩写 (suōxiě) | kısaltma | isim | “北大”是“北京大学”的缩写。 | "Beida", "Pekin Üniversitesi"nin kısaltmasıdır.
+## İletişim ve konuşma
+交际 (jiāojì) | iletişim, sosyal ilişki | isim | 学语言的目的是为了交际。 | Dil öğrenmenin amacı iletişim kurmaktır.
+口头 (kǒutóu) | sözlü | sıfat | 老师口头通知了考试时间。 | Öğretmen sınav saatini sözlü olarak duyurdu.
+书面 (shūmiàn) | yazılı | sıfat | 请你提交一份书面申请。 | Lütfen yazılı bir başvuru yapın.
+用词 (yòngcí) | kelime seçimi | isim | 这篇文章用词很准确。 | Bu yazının kelime seçimi çok isabetli.
+语调 (yǔdiào) | tonlama | isim | 他说话的语调有点儿奇怪。 | Konuşmasındaki tonlama biraz tuhaf.
+口音 (kǒuyīn) | aksan | isim | 他说普通话带一点儿南方口音。 | Standart Çinceyi hafif güney aksanıyla konuşuyor.
+结巴 (jiēba) | kekeleme; kekelemek | fiil | 他一紧张说话就结巴。 | Heyecanlanınca konuşurken kekeliyor.
+含糊 (hánhu) | belirsiz, muğlak | sıfat | 他的回答很含糊，我没听明白。 | Cevabı çok muğlaktı, anlayamadım.
+清晰 (qīngxī) | net, açık | sıfat | 这位老师发音很清晰。 | Bu öğretmenin telaffuzu çok net.
+寒暄 (hánxuān) | hal hatır sormak | fiil | 两个人寒暄了几句就开始谈工作。 | İkisi birkaç laf hal hatır sorduktan sonra işe geçti.
+## Dil sınavları ve alıştırmalar
+水平考试 (shuǐpíng kǎoshì) | yeterlilik sınavı | isim | 她下个月要参加汉语水平考试。 | Gelecek ay Çince yeterlilik sınavına girecek.
+等级 (děngjí) | seviye, derece | isim | 这个考试一共有六个等级。 | Bu sınav toplam altı seviyeden oluşuyor.
+听写 (tīngxiě) | dikte | isim | 今天的听写我全写对了。 | Bugünkü diktede hepsini doğru yazdım.
+造句 (zàojù) | cümle kurmak | fiil | 请用“虽然……但是……”造句。 | Lütfen "suiran... danshi..." ile cümle kurun.
+改错 (gǎicuò) | hata düzeltmek | fiil | 老师让我们给这篇文章改错。 | Öğretmen bu metindeki hataları düzeltmemizi istedi.
+填空 (tiánkòng) | boşluk doldurma | fiil | 第一部分是填空题，比较简单。 | İlk bölüm boşluk doldurma, oldukça kolay.
+选择题 (xuǎnzétí) | çoktan seçmeli soru | isim | 这次考试一共有五十道选择题。 | Bu sınavda toplam elli çoktan seçmeli soru var.
+作文 (zuòwén) | kompozisyon | isim | 这次作文的题目是“我的家乡”。 | Bu seferki kompozisyonun konusu "Memleketim".
+朗读 (lǎngdú) | sesli okumak | fiil | 每天早上大声朗读课文对发音很有帮助。 | Her sabah ders metnini yüksek sesle okumak telaffuza çok yardımcı olur.
+默写 (mòxiě) | ezberden yazmak | fiil | 老师要求我们默写这首古诗。 | Öğretmen bu klasik şiiri ezberden yazmamızı istedi.
+## Dille ilgili eylemler
+拼写 (pīnxiě) | hecelemek, imla | fiil | 这个英文单词你拼写错了。 | Bu İngilizce kelimeyi yanlış yazdın.
+念 (niàn) | okumak (sesli) | fiil | 这个字怎么念？ | Bu karakter nasıl okunuyor?
+读音 (dúyīn) | okunuş | isim | 这个字有两个读音。 | Bu karakterin iki okunuşu var.
+描述 (miáoshù) | betimlemek | fiil | 请你描述一下那个人的样子。 | Lütfen o kişinin görünüşünü tarif et.
+讲述 (jiǎngshù) | anlatmak (hikâye, olay) | fiil | 这部电影讲述了一个普通家庭的故事。 | Bu film sıradan bir ailenin hikâyesini anlatıyor.
+概述 (gàishù) | genel olarak anlatmak | fiil | 第一章概述了中国历史的发展。 | Birinci bölüm Çin tarihinin gelişimini genel hatlarıyla anlatıyor.
+转述 (zhuǎnshù) | (başkasının sözünü) aktarmak | fiil | 他把老师的话转述给了我们。 | Öğretmenin sözlerini bize aktardı.
+复述 (fùshù) | yeniden anlatmak | fiil | 听完故事以后，请用自己的话复述一遍。 | Hikâyeyi dinledikten sonra lütfen kendi sözlerinle yeniden anlat.
+形容 (xíngróng) | tarif etmek, nitelemek | fiil | 我不知道怎么形容我现在的心情。 | Şu anki ruh hâlimi nasıl tarif edeceğimi bilmiyorum.
+称呼 (chēnghu) | hitap etmek; hitap | fiil | 我应该怎么称呼您？ | Size nasıl hitap etmeliyim?
+## Dil ve toplum
+双语 (shuāngyǔ) | iki dilli | sıfat | 他们的孩子从小在双语环境中长大。 | Çocukları küçüklükten beri iki dilli bir ortamda büyüdü.
+网络用语 (wǎngluò yòngyǔ) | internet dili | isim | 很多网络用语老年人都看不懂。 | Pek çok internet terimini yaşlılar anlamıyor.
+流行语 (liúxíngyǔ) | moda deyim, popüler ifade | isim | 每年都会出现很多新的流行语。 | Her yıl pek çok yeni popüler ifade ortaya çıkıyor.
+文言文 (wényánwén) | klasik Çince (yazı dili) | isim | 中学语文课要学很多文言文。 | Ortaokulda Çince dersinde pek çok klasik Çince metin okunuyor.
+白话文 (báihuàwén) | modern yazı dili (konuşma diline dayalı) | isim | 白话文比文言文容易懂多了。 | Modern yazı dili klasik Çinceden çok daha kolay anlaşılır.
+濒危语言 (bīnwēi yǔyán) | yok olma tehlikesindeki dil | isim | 世界上有很多濒危语言需要保护。 | Dünyada korunması gereken pek çok yok olma tehlikesindeki dil var.
+通用 (tōngyòng) | genel kullanımdaki, ortak | sıfat | 英语是国际上最通用的语言之一。 | İngilizce uluslararası alanda en yaygın kullanılan dillerden biridir.
+官方语言 (guānfāng yǔyán) | resmî dil | isim | 联合国有六种官方语言。 | Birleşmiş Milletler'in altı resmî dili vardır.
+语言障碍 (yǔyán zhàng'ài) | dil engeli | isim | 刚出国的时候，语言障碍是最大的问题。 | Yurt dışına ilk çıktığımda en büyük sorun dil engeliydi.
+文字 (wénzì) | yazı (sistemi) | isim | 汉字是世界上最古老的文字之一。 | Çince karakterler dünyanın en eski yazılarından biridir.
