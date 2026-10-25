@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Uzman doktorlar
+der Internist (die Internisten) | dahiliyeci | isim (e) | Wegen der Magenprobleme hat mich mein Hausarzt zum Internisten geschickt. | Mide sorunlarım yüzünden aile hekimim beni dahiliyeciye gönderdi.
+der Kardiologe (die Kardiologen) | kardiyolog | isim (e) | Der Kardiologe hat ein EKG gemacht und mein Herz untersucht. | Kardiyolog EKG çekti ve kalbimi muayene etti.
+der Neurologe (die Neurologen) | nörolog | isim (e) | Bei häufiger Migräne sollte man zu einer Neurologin gehen. | Sık migrende bir nöroloğa gitmek gerekir.
+der Hautarzt (die Hautärzte) | cildiye uzmanı | isim (e) | Wegen des Ausschlags habe ich einen Termin beim Hautarzt. | Döküntü yüzünden cildiye uzmanından randevum var.
+der Chirurg (die Chirurgen) | cerrah | isim (e) | Die Chirurgin hat die schwierige Operation sehr gut gemacht. | Cerrah zor ameliyatı çok iyi yaptı.
+der HNO-Arzt (die HNO-Ärzte) | kulak burun boğaz uzmanı | isim (e) | Bei Ohrenschmerzen geht man am besten zum HNO-Arzt. | Kulak ağrısında en iyisi kulak burun boğaz uzmanına gitmektir.
+der Gynäkologe (die Gynäkologen) | kadın doğum uzmanı | isim (e) | Während der Schwangerschaft geht sie regelmäßig zum Gynäkologen. | Hamilelik boyunca düzenli olarak kadın doğum uzmanına gidiyor.
+der Radiologe (die Radiologen) | radyolog | isim (e) | Der Radiologe hat die Röntgenbilder genau ausgewertet. | Radyolog röntgen filmlerini dikkatle değerlendirdi.
+der Psychiater (die Psychiater) | psikiyatr | isim (e) | Bei schweren Depressionen kann ein Psychiater Medikamente verschreiben. | Ağır depresyonlarda bir psikiyatr ilaç yazabilir.
+der Urologe (die Urologen) | ürolog | isim (e) | Ab fünfzig sollten Männer regelmäßig zum Urologen gehen. | Elli yaşından itibaren erkekler düzenli olarak ürologa gitmeli.
+## Ciddi hastalıklar
+die Lungenentzündung (die Lungenentzündungen) | zatürre | isim (d) | Mit einer Lungenentzündung musste er zwei Wochen im Krankenhaus bleiben. | Zatürre yüzünden iki hafta hastanede kalması gerekti.
+das Asthma | astım | isim (o) | Seit ihrer Kindheit leidet sie an Asthma und hat immer ein Spray dabei. | Çocukluğundan beri astım hastası ve yanında hep sprey taşıyor.
+die Demenz | demans, bunama | isim (d) | Meine Großmutter hat Demenz und erkennt uns manchmal nicht mehr. | Büyükannemde demans var ve bazen bizi tanımıyor.
+die Hepatitis | hepatit | isim (d) | Gegen bestimmte Formen der Hepatitis kann man sich impfen lassen. | Hepatitin bazı türlerine karşı aşı yaptırılabilir.
+die Epilepsie | sara, epilepsi | isim (d) | Menschen mit Epilepsie können mit Medikamenten oft normal leben. | Epilepsi hastaları ilaçlarla çoğu zaman normal yaşayabilir.
+die Leukämie | lösemi | isim (d) | Dank einer Knochenmarkspende hat das Kind die Leukämie überlebt. | Kemik iliği bağışı sayesinde çocuk lösemiyi atlattı.
+die Arthrose | kireçlenme | isim (d) | Wegen Arthrose im Knie kann mein Vater nicht mehr wandern. | Dizindeki kireçlenme yüzünden babam artık yürüyüşe çıkamıyor.
+der Bluthochdruck | yüksek tansiyon | isim (e) | Gegen Bluthochdruck helfen Sport und weniger Salz im Essen. | Yüksek tansiyona karşı spor ve yemekte daha az tuz iyi gelir.
+die Herzschwäche | kalp yetmezliği | isim (d) | Wegen seiner Herzschwäche darf er keinen schweren Sport mehr machen. | Kalp yetmezliği yüzünden artık ağır spor yapamıyor.
+unheilbar | tedavisi olmayan | sıfat | Die Krankheit galt früher als unheilbar, heute gibt es Medikamente. | Hastalık eskiden tedavi edilemez sayılırdı, bugün ilaçlar var.
+## Teşhis yöntemleri
+der Ultraschall | ultrason | isim (e) | Beim Ultraschall hat die Ärztin das Baby zum ersten Mal gesehen. | Doktor bebeği ultrasonda ilk kez gördü.
+die Computertomografie | bilgisayarlı tomografi | isim (d) | Nach dem Sturz wurde eine Computertomografie vom Kopf gemacht. | Düşmeden sonra kafanın bilgisayarlı tomografisi çekildi.
+das EKG (die EKGs) | EKG | isim (o) | Vor der Operation muss noch ein EKG gemacht werden. | Ameliyattan önce bir EKG daha çekilmesi gerekiyor.
+die Biopsie (die Biopsien) | biyopsi | isim (d) | Erst nach der Biopsie wissen wir, ob der Knoten gutartig ist. | Yumrunun iyi huylu olup olmadığını ancak biyopsiden sonra bileceğiz.
+das Blutbild (die Blutbilder) | kan tablosu | isim (o) | Ihr Blutbild ist in Ordnung, nur das Eisen ist etwas niedrig. | Kan tablonuz normal, sadece demir biraz düşük.
+die Früherkennung | erken teşhis | isim (d) | Die Früherkennung von Krebs kann Leben retten. | Kanserin erken teşhisi hayat kurtarabilir.
+der Laborwert (die Laborwerte) | tahlil değeri | isim (e) | Die Laborwerte haben sich seit dem letzten Mal deutlich verbessert. | Tahlil değerleri geçen seferden bu yana belirgin şekilde iyileşti.
+die Zweitmeinung (die Zweitmeinungen) | ikinci görüş | isim (d) | Vor einer großen Operation sollte man eine Zweitmeinung einholen. | Büyük bir ameliyattan önce ikinci bir görüş almak gerekir.
+gutartig | iyi huylu | sıfat | Zum Glück war der Tumor gutartig und konnte entfernt werden. | Neyse ki tümör iyi huyluydu ve alınabildi.
+bösartig | kötü huylu | sıfat | Ein bösartiger Tumor muss schnell behandelt werden. | Kötü huylu bir tümör hızla tedavi edilmeli.
+## Tedavi yöntemleri
+die Chemotherapie (die Chemotherapien) | kemoterapi | isim (d) | Während der Chemotherapie hat sie alle Haare verloren. | Kemoterapi sırasında bütün saçlarını kaybetti.
+die Bestrahlung (die Bestrahlungen) | ışın tedavisi | isim (d) | Nach der Operation folgen noch sechs Wochen Bestrahlung. | Ameliyattan sonra altı hafta daha ışın tedavisi var.
+die Transplantation (die Transplantationen) | nakil | isim (d) | Seit der Transplantation lebt er mit einem neuen Herzen. | Nakilden beri yeni bir kalple yaşıyor.
+die Dialyse | diyaliz | isim (d) | Dreimal pro Woche muss mein Onkel zur Dialyse. | Amcamın haftada üç kez diyalize gitmesi gerekiyor.
+die Infusion (die Infusionen) | serum, damar yolu tedavisi | isim (d) | Im Krankenhaus bekam sie eine Infusion gegen die Austrocknung. | Hastanede susuz kalmaya karşı serum aldı.
+die Reha | rehabilitasyon | isim (d) | Nach dem Unfall war er drei Wochen in der Reha. | Kazadan sonra üç hafta rehabilitasyondaydı.
+die Nachsorge | tedavi sonrası takip | isim (d) | Zur Nachsorge muss sie alle drei Monate zur Kontrolle. | Tedavi sonrası takip için üç ayda bir kontrole gitmesi gerekiyor.
+die Kur (die Kuren) | kür, kaplıca tedavisi | isim (d) | Die Krankenkasse bezahlt meiner Mutter eine Kur an der Ostsee. | Sağlık sigortası anneme Baltık kıyısında bir kür tedavisi ödüyor.
+die Akupunktur | akupunktur | isim (d) | Gegen ihre Rückenschmerzen hat ihr die Akupunktur sehr geholfen. | Sırt ağrılarına karşı akupunktur ona çok yardımcı oldu.
+die Schmerztherapie | ağrı tedavisi | isim (d) | In der Schmerztherapie lernen Patienten, mit chronischen Schmerzen zu leben. | Ağrı tedavisinde hastalar kronik ağrılarla yaşamayı öğreniyor.
+## Ameliyat
+der Operationssaal (die Operationssäle) | ameliyathane | isim (e) | Der Patient wird gerade in den Operationssaal gebracht. | Hasta şu anda ameliyathaneye götürülüyor.
+nähen | dikmek | fiil | Die Wunde am Kinn musste mit drei Stichen genäht werden. | Çenedeki yaranın üç dikişle dikilmesi gerekti.
+die Narbe (die Narben) | yara izi | isim (d) | Von der Operation ist nur eine kleine Narbe am Bauch geblieben. | Ameliyattan karında sadece küçük bir yara izi kaldı.
+die Vollnarkose | genel anestezi | isim (d) | Für die Operation am Knie bekommt er eine Vollnarkose. | Diz ameliyatı için genel anestezi alacak.
+die örtliche Betäubung | lokal anestezi | ifade | Der Zahn wird unter örtlicher Betäubung gezogen. | Diş lokal anestezi altında çekiliyor.
+der Anästhesist (die Anästhesisten) | anestezi uzmanı | isim (e) | Vor der Operation spricht der Anästhesist mit dem Patienten. | Ameliyattan önce anestezi uzmanı hastayla konuşuyor.
+entfernen | çıkarmak, almak | fiil | Bei der Operation wurde ihr der Blinddarm entfernt. | Ameliyatta apandisi alındı.
+die Komplikation (die Komplikationen) | komplikasyon | isim (d) | Die Operation am Herzen verlief zum Glück ohne Komplikationen. | Kalp ameliyatı neyse ki komplikasyonsuz geçti.
+die Genesung | iyileşme, şifa bulma | isim (d) | Wir wünschen Ihnen eine schnelle und vollständige Genesung. | Size hızlı ve tam bir iyileşme diliyoruz.
+der Notfalleingriff (die Notfalleingriffe) | acil müdahale | isim (e) | Nach dem Unfall war ein Notfalleingriff nötig. | Kazadan sonra acil müdahale gerekti.
+## İlaçlar
+das Präparat (die Präparate) | müstahzar, ilaç | isim (o) | Dieses Präparat ist nur mit Rezept in der Apotheke erhältlich. | Bu ilaç eczanede sadece reçeteyle alınabilir.
+das Schmerzmittel (die Schmerzmittel) | ağrı kesici | isim (o) | Nach der Zahnbehandlung habe ich ein Schmerzmittel genommen. | Diş tedavisinden sonra bir ağrı kesici aldım.
+das Beruhigungsmittel (die Beruhigungsmittel) | sakinleştirici | isim (o) | Vor dem Flug nimmt sie manchmal ein leichtes Beruhigungsmittel. | Uçuştan önce bazen hafif bir sakinleştirici alıyor.
+verträglich | iyi tolere edilen | sıfat | Das neue Medikament ist besser verträglich als das alte. | Yeni ilaç eskisinden daha iyi tolere ediliyor.
+die Unverträglichkeit (die Unverträglichkeiten) | intolerans | isim (d) | Wegen einer Unverträglichkeit darf sie keine Milch trinken. | İntolerans yüzünden süt içemiyor.
+das Generikum (die Generika) | eşdeğer ilaç | isim (o) | Das Generikum wirkt genauso, ist aber viel günstiger. | Eşdeğer ilaç aynı şekilde etki ediyor ama çok daha ucuz.
+verschreibungspflichtig | reçeteye tabi | sıfat | Antibiotika sind in Deutschland und Österreich verschreibungspflichtig. | Antibiyotikler Almanya ve Avusturya'da reçeteye tabidir.
+die Tagesdosis (die Tagesdosen) | günlük doz | isim (d) | Überschreiten Sie bei diesem Medikament nie die empfohlene Tagesdosis. | Bu ilaçta önerilen günlük dozu asla aşmayın.
+das Placebo (die Placebos) | plasebo | isim (o) | Auch ein Placebo kann manchmal eine positive Wirkung haben. | Bir plasebonun bile bazen olumlu bir etkisi olabilir.
+die Einnahme | (ilaç) kullanımı, alımı | isim (d) | Die Einnahme der Tabletten sollte immer nach dem Essen erfolgen. | Tabletler her zaman yemekten sonra alınmalı.
+## Halk sağlığı
+das Gesundheitsamt (die Gesundheitsämter) | sağlık müdürlüğü | isim (o) | Das Gesundheitsamt kontrolliert regelmäßig die Restaurants der Stadt. | Sağlık müdürlüğü şehrin restoranlarını düzenli olarak denetliyor.
+die Epidemie (die Epidemien) | salgın | isim (d) | Im Mittelalter starben bei Epidemien oft ganze Dörfer aus. | Orta Çağ'da salgınlarda çoğu zaman bütün köyler yok oldu.
+die Ansteckung | bulaşma | isim (d) | Häufiges Händewaschen mit Seife schützt gut vor Ansteckung. | Sabunla sık el yıkamak bulaşmaya karşı iyi korur.
+die Quarantäne | karantina | isim (d) | Nach der Reise musste die ganze Familie zehn Tage in Quarantäne. | Seyahatten sonra bütün aile on gün karantinaya girmek zorunda kaldı.
+die Hygiene | hijyen | isim (d) | In Krankenhäusern ist gute Hygiene besonders wichtig. | Hastanelerde iyi hijyen özellikle önemlidir.
+die Impfpflicht | aşı zorunluluğu | isim (d) | Für Kinder in der Kita gilt eine Impfpflicht gegen Masern. | Kreşteki çocuklar için kızamığa karşı aşı zorunluluğu var.
+die Maske (die Masken) | maske | isim (d) | Im Wartezimmer müssen die Patienten eine Maske tragen. | Bekleme odasında hastaların maske takması gerekiyor.
+die Volkskrankheit (die Volkskrankheiten) | yaygın hastalık | isim (d) | Rückenschmerzen gelten in Deutschland längst als echte Volkskrankheit. | Sırt ağrıları Almanya'da yaygın bir hastalık sayılır.
+die Lebenserwartung | ortalama ömür | isim (d) | Die Lebenserwartung in der Schweiz gehört zu den höchsten der Welt. | İsviçre'deki ortalama ömür dünyanın en yükseklerinden.
+die Sterblichkeit | ölüm oranı | isim (d) | Durch bessere Medizin ist die Sterblichkeit von Babys stark gesunken. | Daha iyi tıp sayesinde bebek ölüm oranı çok düştü.
+## Hasta hakları
+die Schweigepflicht | sır saklama yükümlülüğü | isim (d) | Ärzte haben eine Schweigepflicht und dürfen nichts weitererzählen. | Doktorların sır saklama yükümlülüğü var ve hiçbir şey anlatamazlar.
+die Patientenverfügung (die Patientenverfügungen) | hasta vasiyetnamesi | isim (d) | In einer Patientenverfügung legt man fest, welche Behandlung man möchte. | Hasta vasiyetnamesinde hangi tedaviyi istediğinizi belirlersiniz.
+die Einwilligung (die Einwilligungen) | onay, rıza | isim (d) | Für die Operation braucht der Arzt Ihre schriftliche Einwilligung. | Ameliyat için doktorun yazılı onayınıza ihtiyacı var.
+der Behandlungsfehler (die Behandlungsfehler) | tıbbi hata | isim (e) | Nach einem Behandlungsfehler hat die Familie das Krankenhaus verklagt. | Tıbbi bir hatadan sonra aile hastaneye dava açtı.
+die Krankenakte (die Krankenakten) | hasta dosyası | isim (d) | Die Ergebnisse aller Untersuchungen stehen in Ihrer Krankenakte. | Bütün muayenelerin sonuçları hasta dosyanızda yazıyor.
+der Heilungsverlauf | iyileşme süreci | isim (e) | Der Heilungsverlauf nach der Operation ist bisher sehr positiv. | Ameliyattan sonraki iyileşme süreci şimdiye kadar çok olumlu.
+das Spenderorgan (die Spenderorgane) | bağış organı | isim (o) | Viele Patienten warten jahrelang auf ein passendes Spenderorgan. | Birçok hasta yıllarca uygun bir bağış organı bekliyor.
+die Pflegestufe (die Pflegestufen) | bakım derecesi | isim (d) | Nach dem Schlaganfall bekam meine Oma eine höhere Pflegestufe. | İnmeden sonra büyükanneme daha yüksek bir bakım derecesi verildi.
+die Vorsorgevollmacht (die Vorsorgevollmachten) | sağlık vekâletnamesi | isim (d) | Mit einer Vorsorgevollmacht darf meine Tochter für mich entscheiden. | Bir sağlık vekâletnamesiyle kızım benim adıma karar verebilir.
+die Behinderung (die Behinderungen) | engellilik | isim (d) | Menschen mit Behinderung sollen überall gleiche Chancen haben. | Engelli insanların her yerde eşit fırsatlara sahip olması gerekir.
+## İleri belirtiler
+akut | akut, ani | sıfat | Bei akuten Schmerzen in der Brust sollte man sofort den Notruf wählen. | Göğüste ani ağrıda hemen acil numarası aranmalı.
+die Atemnot | nefes darlığı | isim (d) | Nach wenigen Stufen bekommt er schon Atemnot. | Birkaç basamaktan sonra bile nefes darlığı çekiyor.
+der Juckreiz | kaşıntı | isim (e) | Die Salbe hilft schnell gegen den starken Juckreiz. | Merhem şiddetli kaşıntıya karşı çabuk yardımcı oluyor.
+die Schwellung (die Schwellungen) | şişlik | isim (d) | Gegen die Schwellung am Knöchel hilft Kühlen mit Eis. | Ayak bileğindeki şişliğe karşı buzla soğutmak iyi gelir.
+das Taubheitsgefühl | uyuşma hissi | isim (o) | Seit dem Unfall hat sie ein Taubheitsgefühl in zwei Fingern. | Kazadan beri iki parmağında uyuşma hissi var.
+die Herzrhythmusstörung (die Herzrhythmusstörungen) | kalp ritim bozukluğu | isim (d) | Bei einer Herzrhythmusstörung schlägt das Herz unregelmäßig. | Kalp ritim bozukluğunda kalp düzensiz atar.
+der Kreislaufkollaps | dolaşım çöküşü, bayılma | isim (e) | Bei der großen Hitze erlitt eine Besucherin einen Kreislaufkollaps. | Büyük sıcakta bir ziyaretçi fenalaşıp bayıldı.
+der Schüttelfrost | titreme nöbeti | isim (e) | Mit hohem Fieber und Schüttelfrost lag er im Bett. | Yüksek ateş ve titreme nöbetiyle yatakta yatıyordu.
+erbrechen (erbrach, erbrochen) | kusmak | fiil · düzensiz | Das Kind hat in der Nacht zweimal erbrochen. | Çocuk gece iki kez kustu.
+die Atemwegserkrankung (die Atemwegserkrankungen) | solunum yolu hastalığı | isim (d) | Im Winter nehmen Atemwegserkrankungen bei Kindern stark zu. | Kışın çocuklarda solunum yolu hastalıkları çok artar.
+## Hastanede çalışanlar
+der Rettungsdienst | ambulans hizmeti | isim (e) | Der Rettungsdienst war nach acht Minuten am Unfallort. | Ambulans hizmeti sekiz dakika sonra kaza yerindeydi.
+die Hebamme (die Hebammen) | ebe | isim (d) | Die Hebamme besucht die junge Mutter nach der Geburt zu Hause. | Ebe doğumdan sonra genç anneyi evde ziyaret ediyor.
+der Oberarzt (die Oberärzte) | başhekim yardımcısı, kıdemli doktor | isim (e) | Der Oberarzt kommt heute Nachmittag zur Visite. | Kıdemli doktor bugün öğleden sonra viziteye geliyor.
+der Assistenzarzt (die Assistenzärzte) | asistan doktor | isim (e) | Als Assistenzarzt arbeitet er oft zwölf Stunden am Stück. | Asistan doktor olarak sık sık on iki saat aralıksız çalışıyor.
+die Visite (die Visiten) | vizite | isim (d) | Bei der Visite fragt der Arzt jeden Patienten nach seinem Befinden. | Vizitede doktor her hastaya nasıl olduğunu soruyor.
+die Arzthelferin (die Arzthelferinnen) | tıbbi sekreter | isim (d) | Die Arzthelferin hat mir einen neuen Termin gegeben. | Tıbbi sekreter bana yeni bir randevu verdi.
+der Pfleger (die Pfleger) | hasta bakıcı | isim (e) | Der Pfleger hilft den alten Menschen beim Essen und Waschen. | Hasta bakıcı yaşlılara yemekte ve yıkanmada yardım ediyor.
+die Schichtarbeit | vardiyalı çalışma | isim (d) | Schichtarbeit im Krankenhaus ist sehr anstrengend für die Familie. | Hastanede vardiyalı çalışma aile için çok yorucu.
+das Ärzteteam (die Ärzteteams) | doktor ekibi | isim (o) | Ein Ärzteteam aus drei Ländern hat die Operation durchgeführt. | Üç ülkeden bir doktor ekibi ameliyatı gerçekleştirdi.
+der Pflegenotstand | bakım personeli krizi | isim (e) | Wegen des Pflegenotstands müssen manche Stationen schließen. | Bakım personeli krizi yüzünden bazı servisler kapanmak zorunda.
