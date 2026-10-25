@@ -1,0 +1,111 @@
+# UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
+## Çekirdek aile
+家人 (jiārén) | aile fertleri | isim | 我很想我的家人。(Wǒ hěn xiǎng wǒ de jiārén.) | Ailemi çok özlüyorum.
+爸爸 (bàba) | baba | isim | 我爸爸是老师。(Wǒ bàba shì lǎoshī.) | Babam öğretmen.
+妈妈 (māma) | anne | isim | 妈妈在做饭。(Māma zài zuò fàn.) | Annem yemek yapıyor.
+哥哥 (gēge) | ağabey | isim | 我哥哥比我高。(Wǒ gēge bǐ wǒ gāo.) | Ağabeyim benden uzun.
+姐姐 (jiějie) | abla | isim | 姐姐在大学工作。(Jiějie zài dàxué gōngzuò.) | Ablam üniversitede çalışıyor.
+弟弟 (dìdi) | erkek kardeş (küçük) | isim | 我弟弟八岁。(Wǒ dìdi bā suì.) | Erkek kardeşim sekiz yaşında.
+妹妹 (mèimei) | kız kardeş (küçük) | isim | 妹妹喜欢画画。(Mèimei xǐhuan huà huà.) | Kız kardeşim resim yapmayı sever.
+儿子 (érzi) | oğul | isim | 他们有一个儿子。(Tāmen yǒu yí ge érzi.) | Onların bir oğlu var.
+女儿 (nǚ'ér) | kız evlat | isim | 她女儿很聪明。(Tā nǚ'ér hěn cōngming.) | Kızı çok zeki.
+孩子 (háizi) | çocuk | isim | 孩子们在公园玩。(Háizimen zài gōngyuán wán.) | Çocuklar parkta oynuyor.
+## Geniş aile
+爷爷 (yéye) | dede (babanın babası) | isim | 爷爷每天早上喝茶。(Yéye měitiān zǎoshang hē chá.) | Dedem her sabah çay içer.
+奶奶 (nǎinai) | babaanne | isim | 奶奶做的饺子很好吃。(Nǎinai zuò de jiǎozi hěn hǎochī.) | Babaannemin yaptığı mantı çok lezzetli.
+外公 (wàigōng) | dede (annenin babası) | isim | 外公住在农村。(Wàigōng zhù zài nóngcūn.) | Dedem köyde yaşıyor.
+外婆 (wàipó) | anneanne | isim | 我常常给外婆打电话。(Wǒ chángcháng gěi wàipó dǎ diànhuà.) | Anneannemi sık sık ararım.
+叔叔 (shūshu) | amca; (çocuk dilinde) amca, bey | isim | 叔叔，谢谢您！(Shūshu, xièxie nín!) | Amca, teşekkür ederim!
+阿姨 (āyí) | teyze; (çocuk dilinde) teyze, hanım | isim | 阿姨，您好！(Āyí, nín hǎo!) | Merhaba teyze!
+丈夫 (zhàngfu) | koca, eş | isim | 她丈夫是工程师。(Tā zhàngfu shì gōngchéngshī.) | Kocası mühendis.
+妻子 (qīzi) | karı, eş | isim | 他妻子是日本人。(Tā qīzi shì Rìběn rén.) | Karısı Japon.
+父母 (fùmǔ) | anne baba | isim | 我父母住在伊斯坦布尔。(Wǒ fùmǔ zhù zài Yīsītǎnbù'ěr.) | Annemle babam İstanbul'da yaşıyor.
+兄弟姐妹 (xiōngdì jiěmèi) | kardeşler | isim | 你有兄弟姐妹吗？(Nǐ yǒu xiōngdì jiěmèi ma?) | Kardeşin var mı?
+## İnsanlar
+男人 (nánrén) | erkek, adam | isim | 那个男人是谁？(Nàge nánrén shì shéi?) | O adam kim?
+女人 (nǚrén) | kadın | isim | 那个女人是我的老师。(Nàge nǚrén shì wǒ de lǎoshī.) | O kadın benim öğretmenim.
+男孩 (nánhái) | erkek çocuk, oğlan | isim | 这个男孩十岁了。(Zhège nánhái shí suì le.) | Bu oğlan on yaşına girdi.
+女孩 (nǚhái) | kız çocuk | isim | 那个女孩唱歌很好听。(Nàge nǚhái chàng gē hěn hǎotīng.) | O kız çok güzel şarkı söylüyor.
+老人 (lǎorén) | yaşlı insan | isim | 公园里有很多老人。(Gōngyuán li yǒu hěn duō lǎorén.) | Parkta birçok yaşlı var.
+年轻人 (niánqīngrén) | genç insan | isim | 年轻人都喜欢上网。(Niánqīngrén dōu xǐhuan shàngwǎng.) | Gençlerin hepsi internette gezinmeyi sever.
+小孩 (xiǎohái) | küçük çocuk | isim | 小孩不能喝酒。(Xiǎohái bù néng hē jiǔ.) | Küçük çocuklar içki içemez.
+邻居 (línjū) | komşu | isim | 我的邻居很友好。(Wǒ de línjū hěn yǒuhǎo.) | Komşum çok cana yakın.
+客人 (kèrén) | misafir; müşteri | isim | 今天家里有客人。(Jīntiān jiā li yǒu kèrén.) | Bugün evde misafir var.
+人们 (rénmen) | insanlar | isim | 春节的时候，人们都回家。(Chūnjié de shíhou, rénmen dōu huí jiā.) | Bahar Bayramı'nda herkes evine döner.
+## Meslekler 1
+医生 (yīshēng) | doktor | isim | 我妈妈是医生。(Wǒ māma shì yīshēng.) | Annem doktor.
+护士 (hùshi) | hemşire | isim | 护士对病人很好。(Hùshi duì bìngrén hěn hǎo.) | Hemşire hastalara çok iyi davranıyor.
+司机 (sījī) | şoför, sürücü | isim | 出租车司机很热情。(Chūzūchē sījī hěn rèqíng.) | Taksi şoförü çok sıcakkanlı.
+工人 (gōngrén) | işçi | isim | 工人们在盖楼。(Gōngrénmen zài gài lóu.) | İşçiler bina inşa ediyor.
+警察 (jǐngchá) | polis | isim | 有问题可以问警察。(Yǒu wèntí kěyǐ wèn jǐngchá.) | Sorun olursa polise sorabilirsin.
+服务员 (fúwùyuán) | garson; görevli | isim | 服务员，请给我菜单。(Fúwùyuán, qǐng gěi wǒ càidān.) | Garson, menüyü verir misiniz?
+厨师 (chúshī) | aşçı | isim | 这个厨师做川菜。(Zhège chúshī zuò chuāncài.) | Bu aşçı Sichuan yemekleri yapıyor.
+农民 (nóngmín) | çiftçi | isim | 农民在田里工作。(Nóngmín zài tián li gōngzuò.) | Çiftçiler tarlada çalışıyor.
+律师 (lǜshī) | avukat | isim | 她想当律师。(Tā xiǎng dāng lǜshī.) | O avukat olmak istiyor.
+工程师 (gōngchéngshī) | mühendis | isim | 奥马尔是土木工程师。(Àomǎ'ěr shì tǔmù gōngchéngshī.) | Omar inşaat mühendisi.
+## Meslekler 2
+老板 (lǎobǎn) | patron | isim | 我们老板今天不在。(Wǒmen lǎobǎn jīntiān bú zài.) | Patronumuz bugün yok.
+经理 (jīnglǐ) | müdür | isim | 王经理在开会。(Wáng jīnglǐ zài kāihuì.) | Müdür Wang toplantıda.
+记者 (jìzhě) | gazeteci, muhabir | isim | 记者问了很多问题。(Jìzhě wèn le hěn duō wèntí.) | Muhabir çok soru sordu.
+演员 (yǎnyuán) | oyuncu, aktör | isim | 他是一个电影演员。(Tā shì yí ge diànyǐng yǎnyuán.) | O bir sinema oyuncusu.
+歌手 (gēshǒu) | şarkıcı | isim | 她想当歌手。(Tā xiǎng dāng gēshǒu.) | O şarkıcı olmak istiyor.
+画家 (huàjiā) | ressam | isim | 我叔叔是画家。(Wǒ shūshu shì huàjiā.) | Amcam ressam.
+作家 (zuòjiā) | yazar | isim | 这个作家写了很多书。(Zhège zuòjiā xiě le hěn duō shū.) | Bu yazar çok kitap yazdı.
+售货员 (shòuhuòyuán) | satış görevlisi, tezgâhtar | isim | 售货员帮我找衣服。(Shòuhuòyuán bāng wǒ zhǎo yīfu.) | Satış görevlisi kıyafet bulmama yardım etti.
+导游 (dǎoyóu) | rehber (tur) | isim | 导游带我们去长城。(Dǎoyóu dài wǒmen qù Chángchéng.) | Rehber bizi Çin Seddi'ne götürüyor.
+运动员 (yùndòngyuán) | sporcu | isim | 他是一个游泳运动员。(Tā shì yí ge yóuyǒng yùndòngyuán.) | O bir yüzücü.
+## Dış görünüş
+高 (gāo) | uzun (boy); yüksek | sıfat | 我弟弟很高。(Wǒ dìdi hěn gāo.) | Erkek kardeşim çok uzun.
+矮 (ǎi) | kısa (boy) | sıfat | 我比姐姐矮一点儿。(Wǒ bǐ jiějie ǎi yìdiǎnr.) | Ablamdan biraz kısayım.
+胖 (pàng) | şişman | sıfat | 我的猫有点儿胖。(Wǒ de māo yǒudiǎnr pàng.) | Kedim biraz şişman.
+瘦 (shòu) | zayıf, ince | sıfat | 他最近瘦了。(Tā zuìjìn shòu le.) | O son zamanlarda zayıfladı.
+漂亮 (piàoliang) | güzel, hoş | sıfat | 你的裙子真漂亮！(Nǐ de qúnzi zhēn piàoliang!) | Eteğin ne güzel!
+帅 (shuài) | yakışıklı | sıfat | 她男朋友很帅。(Tā nánpéngyou hěn shuài.) | Onun erkek arkadaşı çok yakışıklı.
+可爱 (kě'ài) | sevimli, tatlı | sıfat | 这个宝宝真可爱！(Zhège bǎobao zhēn kě'ài!) | Bu bebek ne kadar tatlı!
+年轻 (niánqīng) | genç | sıfat | 我们的老师很年轻。(Wǒmen de lǎoshī hěn niánqīng.) | Öğretmenimiz çok genç.
+老 (lǎo) | yaşlı; eski | sıfat | 我的狗已经老了。(Wǒ de gǒu yǐjīng lǎo le.) | Köpeğim artık yaşlandı.
+长得 (zhǎng de) | görünüşü ... olmak | fiil | 她长得很像妈妈。(Tā zhǎng de hěn xiàng māma.) | Annesine çok benziyor.
+## Karakter
+好 (hǎo) | iyi | sıfat | 他是一个好人。(Tā shì yí ge hǎo rén.) | O iyi bir insan.
+坏 (huài) | kötü; bozuk | sıfat | 我的手机坏了。(Wǒ de shǒujī huài le.) | Telefonum bozuldu.
+聪明 (cōngming) | zeki, akıllı | sıfat | 这个孩子很聪明。(Zhège háizi hěn cōngming.) | Bu çocuk çok zeki.
+认真 (rènzhēn) | ciddi, özenli | sıfat | 她学习很认真。(Tā xuéxí hěn rènzhēn.) | O derslerine çok özen gösteriyor.
+热情 (rèqíng) | sıcakkanlı, misafirperver | sıfat | 中国人很热情。(Zhōngguó rén hěn rèqíng.) | Çinliler çok sıcakkanlı.
+友好 (yǒuhǎo) | dostça, cana yakın | sıfat | 新同事都很友好。(Xīn tóngshì dōu hěn yǒuhǎo.) | Yeni iş arkadaşlarının hepsi çok cana yakın.
+安静 (ānjìng) | sessiz, sakin | sıfat | 图书馆里很安静。(Túshūguǎn li hěn ānjìng.) | Kütüphane çok sessiz.
+有意思 (yǒu yìsi) | ilginç, eğlenceli | sıfat | 这本书很有意思。(Zhè běn shū hěn yǒu yìsi.) | Bu kitap çok ilginç.
+懒 (lǎn) | tembel | sıfat | 周末我很懒。(Zhōumò wǒ hěn lǎn.) | Hafta sonları çok tembelim.
+努力 (nǔlì) | çalışkan; çabalamak | sıfat | 卢卡斯工作很努力。(Lúkǎsī gōngzuò hěn nǔlì.) | Lukas çok çalışkan.
+## Duygular
+快乐 (kuàilè) | mutlu, neşeli | sıfat | 祝你新年快乐！(Zhù nǐ xīnnián kuàilè!) | Yeni yılın kutlu olsun!
+开心 (kāixīn) | mutlu, keyifli | sıfat | 今天玩得很开心。(Jīntiān wán de hěn kāixīn.) | Bugün çok eğlendik.
+难过 (nánguò) | üzgün | sıfat | 别难过，明天会更好。(Bié nánguò, míngtiān huì gèng hǎo.) | Üzülme, yarın daha iyi olacak.
+生气 (shēngqì) | kızmak, sinirlenmek | fiil | 妈妈生气了。(Māma shēngqì le.) | Annem kızdı.
+累 (lèi) | yorgun | sıfat | 我今天太累了。(Wǒ jīntiān tài lèi le.) | Bugün çok yorgunum.
+害怕 (hàipà) | korkmak | fiil | 我妹妹害怕狗。(Wǒ mèimei hàipà gǒu.) | Kız kardeşim köpeklerden korkar.
+着急 (zháojí) | telaşlanmak, endişelenmek | sıfat | 别着急，慢慢说。(Bié zháojí, mànmàn shuō.) | Telaşlanma, yavaş yavaş anlat.
+担心 (dānxīn) | merak etmek, endişelenmek | fiil | 妈妈很担心你。(Māma hěn dānxīn nǐ.) | Annen senin için çok endişeleniyor.
+伤心 (shāngxīn) | kalbi kırık, çok üzgün | sıfat | 她哭得很伤心。(Tā kū de hěn shāngxīn.) | Çok üzgün bir şekilde ağladı.
+无聊 (wúliáo) | sıkıcı; canı sıkılmış | sıfat | 这个电影太无聊了。(Zhège diànyǐng tài wúliáo le.) | Bu film çok sıkıcı.
+## İlişkiler
+爱 (ài) | sevmek, aşk | fiil | 我爱你。(Wǒ ài nǐ.) | Seni seviyorum.
+结婚 (jiéhūn) | evlenmek | fiil | 他们去年结婚了。(Tāmen qùnián jiéhūn le.) | Geçen yıl evlendiler.
+男朋友 (nánpéngyou) | erkek arkadaş, sevgili | isim | 她的男朋友是俄罗斯人。(Tā de nánpéngyou shì Éluósī rén.) | Onun erkek arkadaşı Rus.
+女朋友 (nǚpéngyou) | kız arkadaş, sevgili | isim | 我女朋友在莫斯科。(Wǒ nǚpéngyou zài Mòsīkē.) | Kız arkadaşım Moskova'da.
+关系 (guānxi) | ilişki | isim | 我们的关系很好。(Wǒmen de guānxi hěn hǎo.) | Aramız çok iyi.
+见面 (jiànmiàn) | buluşmak, görüşmek | fiil | 我们明天下午见面吧。(Wǒmen míngtiān xiàwǔ jiànmiàn ba.) | Yarın öğleden sonra buluşalım.
+帮助 (bāngzhù) | yardım etmek; yardım | fiil | 谢谢你的帮助！(Xièxie nǐ de bāngzhù!) | Yardımın için teşekkürler!
+照顾 (zhàogù) | bakmak, ilgilenmek | fiil | 她在家照顾孩子。(Tā zài jiā zhàogù háizi.) | O evde çocuğa bakıyor.
+同事 (tóngshì) | iş arkadaşı | isim | 我和同事一起吃午饭。(Wǒ hé tóngshì yìqǐ chī wǔfàn.) | İş arkadaşımla birlikte öğle yemeği yiyorum.
+家庭 (jiātíng) | aile (kurum olarak) | isim | 他有一个幸福的家庭。(Tā yǒu yí ge xìngfú de jiātíng.) | Onun mutlu bir ailesi var.
+## Hayat evreleri
+出生 (chūshēng) | doğmak | fiil | 我在安卡拉出生。(Wǒ zài Ānkǎlā chūshēng.) | Ankara'da doğdum.
+长大 (zhǎngdà) | büyümek | fiil | 我在农村长大。(Wǒ zài nóngcūn zhǎngdà.) | Köyde büyüdüm.
+年纪 (niánjì) | yaş (genellikle büyükler için) | isim | 您多大年纪了？(Nín duō dà niánjì le?) | Kaç yaşındasınız efendim?
+小学生 (xiǎoxuéshēng) | ilkokul öğrencisi | isim | 我弟弟是小学生。(Wǒ dìdi shì xiǎoxuéshēng.) | Erkek kardeşim ilkokul öğrencisi.
+中学生 (zhōngxuéshēng) | ortaokul veya lise öğrencisi | isim | 很多中学生学英语。(Hěn duō zhōngxuéshēng xué Yīngyǔ.) | Birçok ortaokul öğrencisi İngilizce öğreniyor.
+大学生 (dàxuéshēng) | üniversite öğrencisi | isim | 我姐姐是大学生。(Wǒ jiějie shì dàxuéshēng.) | Ablam üniversite öğrencisi.
+宝宝 (bǎobao) | bebek; tatlım | isim | 宝宝在睡觉。(Bǎobao zài shuìjiào.) | Bebek uyuyor.
+退休 (tuìxiū) | emekli olmak | fiil | 我爷爷已经退休了。(Wǒ yéye yǐjīng tuìxiū le.) | Dedem emekli oldu.
+生活 (shēnghuó) | hayat, yaşam; yaşamak | isim | 我很喜欢这里的生活。(Wǒ hěn xǐhuan zhèlǐ de shēnghuó.) | Buradaki hayatı çok seviyorum.
+姓名 (xìngmíng) | ad soyad | isim | 请在这里写你的姓名。(Qǐng zài zhèlǐ xiě nǐ de xìngmíng.) | Lütfen ad soyadınızı buraya yazın.
