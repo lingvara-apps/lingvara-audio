@@ -1,0 +1,45 @@
+# DIALOG: Lavanta Vadisi'nin Salonlarında | Fransızca C2 konuşmaları: münazara, edebiyat, ironi, iş müzakeresi | Mathilde | Karim
+## Edebiyat salonunda münazara
+A | Avouez, cher ami, que ce roman primé n'est qu'un exercice de style, brillant mais creux. | Kabul edin sevgili dostum, bu ödüllü roman parlak ama içi boş bir üslup alıştırmasından ibaret.
+B | Je m'inscris en faux contre cette lecture : sous la virtuosité, il y a une véritable méditation sur l'exil. | Bu okumaya kesinlikle karşı çıkıyorum: ustalığın altında sürgün üzerine gerçek bir tefekkür var.
+A | Une méditation, soit, mais noyée sous des phrases ampoulées qui lassent le lecteur dès la page vingt. | Bir tefekkür, olsun, ama okuru daha yirminci sayfada bıktıran şişirilmiş cümlelerin altında boğulmuş.
+B | Vous confondez ampleur et emphase ; ses périodes rappellent plutôt Proust que les rhéteurs de salon. | Genişlikle tumturağı karıştırıyorsunuz; uzun cümleleri salon hatiplerinden çok Proust'u hatırlatıyor.
+A | Proust ! Vous n'y allez pas de main morte. Encore faudrait-il qu'il ait quelque chose à dire. | Proust mu! Hiç yumuşak davranmıyorsunuz. Yine de söyleyecek bir şeyinin olması gerekirdi.
+B | Relisez le dernier chapitre : la scène du port, d'une sobriété poignante, dément toutes vos objections. | Son bölümü yeniden okuyun: liman sahnesi, yürek burkan yalınlığıyla bütün itirazlarınızı yalanlıyor.
+A | Je vous concède ce chapitre-là ; c'est bien le seul où l'auteur ne cherche pas à briller. | O bölümü size teslim ediyorum; yazarın parlamaya çalışmadığı tek bölüm o zaten.
+B | Voilà qui est plus nuancé ! Vous finirez par l'aimer, fût-ce à votre corps défendant. | İşte bu daha ölçülü! İsteseniz de istemeseniz de sonunda onu seveceksiniz.
+A | N'y comptez pas trop. Mais je reconnais que notre querelle a quelque chose de cornélien. | Pek ummayın. Ama tartışmamızın Corneille'e yaraşır bir yanı olduğunu kabul ediyorum.
+B | Alors poursuivons-la autour d'un verre ; la nuit, dit-on, porte conseil. | O hâlde bir kadeh eşliğinde sürdürelim; derler ki sabah ola hayrola.
+## İnce ironi
+A | Tiens, Karim ! Tu arrives à l'heure, quel exploit ! Faut-il prévenir la presse ? | Bak sen, Karim! Zamanında geldin, ne büyük başarı! Basına haber verelim mi?
+B | Raille tant que tu voudras ; c'est toi qui m'avais donné la mauvaise adresse la dernière fois. | İstediğin kadar alay et; geçen sefer bana yanlış adresi veren sendin.
+A | Détail sans importance ! Un esprit aussi brillant que le tien aurait dû deviner la bonne. | Önemsiz bir ayrıntı! Senin gibi parlak bir zekâ doğrusunu tahmin etmeliydi.
+B | Merci du compliment, il est si rare que je vais l'encadrer au-dessus de mon bureau. | İltifatın için teşekkürler, o kadar nadir ki onu çerçeveletip masamın üstüne asacağım.
+A | Ne le prends pas mal, c'était évidemment du second degré. | Yanlış anlama, apaçık ironiydi.
+B | Je sais bien ; avec toi, le premier degré est une espèce en voie de disparition. | Biliyorum; seninle düz anlam nesli tükenmekte olan bir tür.
+A | Touché ! Bon, trêve de plaisanteries, as-tu lu le rapport que je t'ai envoyé ? | Vurdun! Neyse, şakayı bırakalım, sana gönderdiğim raporu okudun mu?
+B | Je l'ai parcouru, et sans vouloir polémiquer, la conclusion me paraît un peu tirée par les cheveux. | Göz gezdirdim ve polemiğe girmek istemem ama sonuç bana biraz zorlama göründü.
+A | Tirée par les cheveux ? Elle repose sur trois ans d'enquête, mon cher ! | Zorlama mı? Üç yıllık bir araştırmaya dayanıyor, sevgili dostum!
+B | Justement, c'est là que le bât blesse : trois ans de données pour une seule page de conclusions. | İşte sorun da burada: tek sayfalık bir sonuç için üç yıllık veri.
+## İş müzakeresi
+A | Monsieur Haddad, je ne vous cacherai pas que votre offre nous a laissés quelque peu perplexes. | Bay Haddad, teklifinizin bizi biraz şaşkına çevirdiğini sizden saklamayacağım.
+B | J'entends bien, Madame, mais elle tient compte de la conjoncture et du risque que nous prenons. | Anlıyorum hanımefendi, ama teklif konjonktürü ve aldığımız riski göz önünde bulunduruyor.
+A | Le risque, certes ; encore faudrait-il qu'il justifie une marge aussi confortable. | Risk, elbette; yine de bu kadar rahat bir kâr marjını haklı çıkarması gerekir.
+B | Si vous me permettez, nos concurrents pratiquent des tarifs bien plus élevés pour une qualité moindre. | İzninizle, rakiplerimiz daha düşük bir kalite için çok daha yüksek fiyatlar uyguluyor.
+A | Peut-être, mais nous ne saurions accepter ces conditions en l'état. | Belki, ama bu koşulları bu hâliyle kabul edemeyiz.
+B | Que proposeriez-vous, dans ce cas, pour que nous trouvions un terrain d'entente ? | Bu durumda bir uzlaşma noktası bulmamız için ne önerirdiniz?
+A | Une remise de huit pour cent, assortie d'un délai de paiement à quatre-vingt-dix jours. | Doksan günlük ödeme vadesiyle birlikte yüzde sekiz indirim.
+B | Huit pour cent, c'est beaucoup ; coupons la poire en deux : cinq pour cent et soixante jours. | Yüzde sekiz çok fazla; ortada buluşalım: yüzde beş ve altmış gün.
+A | Va pour cinq pour cent, à condition que la clause de révision des prix soit supprimée. | Yüzde beş olsun, fiyat revizyon maddesinin kaldırılması koşuluyla.
+B | Marché conclu. Je vous fais parvenir un avenant dans les meilleurs délais. | Anlaştık. Size en kısa sürede bir sözleşme eki iletiyorum.
+## Gece sohbeti: dil ve kimlik
+A | Tu sais ce qui me frappe, Karim ? Tu ne parles pas le même français à Montréal qu'à Paris. | Beni ne şaşırtıyor biliyor musun Karim? Montreal'de Paris'tekiyle aynı Fransızcayı konuşmuyorsun.
+B | Évidemment ! Là-bas, je dis « magasiner » et « char » sans même y penser. | Elbette! Orada hiç düşünmeden « alışveriş yapmak » için magasiner, « araba » için char diyorum.
+A | Et à Alger, chez ta grand-mère, tu passes sans doute à l'arabe au milieu des phrases. | Cezayir'de, büyükannenin evinde de herhalde cümlelerin ortasında Arapçaya geçiyorsun.
+B | Bien sûr, c'est notre façon d'être ; l'alternance des langues n'a rien d'un défaut. | Tabii ki, bu bizim varoluş biçimimiz; diller arasında geçiş yapmak hiç de kusur değil.
+A | Pourtant, certains puristes y voient encore une menace pour la langue de Molière. | Yine de bazı saflık yanlıları hâlâ bunu Molière'in dili için bir tehdit olarak görüyor.
+B | Qu'ils se rassurent : une langue qui emprunte est une langue qui vit. | İçleri rahat olsun: ödünç alan dil yaşayan dildir.
+A | Tu as l'art de retourner les arguments ; on croirait entendre un avocat. | Argümanları tersine çevirme sanatına sahipsin; insan bir avukat dinliyor sanır.
+B | Que veux-tu, la francophonie m'a appris que le français a mille visages. | Ne yaparsın, Frankofon dünya bana Fransızcanın bin yüzü olduğunu öğretti.
+A | Alors portons un toast à tous ces visages, de Dakar à Bruxelles et de Genève à Québec ! | O hâlde Dakar'dan Brüksel'e, Cenevre'den Quebec'e bütün bu yüzlere kadeh kaldıralım!
+B | À la tienne, et vive la langue, quels que soient ses accents ! | Şerefe, aksanı ne olursa olsun yaşasın dil!
