@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve planlama
+der Bauherr (die Bauherren) | iş sahibi, yapı sahibi | isim (e) | Der Bauherr wünscht sich große Fenster nach Süden und ein flaches Dach. | İş sahibi güneye bakan büyük pencereler ve düz bir çatı istiyor.
+der Entwurf (die Entwürfe) | tasarım, taslak | isim (e) | Der preisgekrönte Entwurf sieht einen offenen Platz vor dem Rathaus vor. | Ödüllü tasarım belediye binasının önünde açık bir meydan öngörüyor.
+der Grundriss (die Grundrisse) | kat planı | isim (e) | Der Grundriss der Wohnung ist offen und ohne unnötige Flure gestaltet. | Dairenin kat planı açık ve gereksiz koridorlar olmadan tasarlanmış.
+der Lageplan (die Lagepläne) | vaziyet planı | isim (e) | Auf dem Lageplan sind die Grenzen des Grundstücks genau eingezeichnet. | Vaziyet planında arsanın sınırları tam olarak çizilmiş.
+der Querschnitt (die Querschnitte) | kesit | isim (e) | Der Querschnitt zeigt deutlich, wie die Decke auf den Wänden aufliegt. | Kesit, döşemenin duvarlara nasıl oturduğunu açıkça gösteriyor.
+die Baugenehmigung (die Baugenehmigungen) | yapı ruhsatı | isim (d) | Ohne Baugenehmigung darf mit den Arbeiten auf dem Grundstück nicht begonnen werden. | Yapı ruhsatı olmadan arsadaki çalışmalara başlanamaz.
+der Bebauungsplan (die Bebauungspläne) | imar planı | isim (e) | Laut Bebauungsplan sind in diesem Viertel höchstens drei Geschosse erlaubt. | İmar planına göre bu mahallede en fazla üç kata izin veriliyor.
+der Maßstab (die Maßstäbe) | ölçek | isim (e) | Die Ausführungspläne werden üblicherweise im Maßstab eins zu fünfzig gezeichnet. | Uygulama projeleri genellikle bire elli ölçekte çizilir.
+die Ausführungsplanung | uygulama projesi | isim (d) | In der Ausführungsplanung werden alle Details für die Handwerker festgelegt. | Uygulama projesinde ustalar için tüm detaylar belirlenir.
+der Statiker (die Statiker) | statik mühendisi | isim (e) | Der Statiker muss prüfen, ob die alte Decke die zusätzliche Last trägt. | Statik mühendisi eski döşemenin ek yükü taşıyıp taşımadığını kontrol etmeli.
+## Taşıyıcı sistem
+das Tragwerk (die Tragwerke) | taşıyıcı sistem | isim (o) | Das Tragwerk der Halle besteht aus schlanken Stahlträgern und Glas. | Salonun taşıyıcı sistemi ince çelik kirişlerden ve camdan oluşuyor.
+die Statik | statik | isim (d) | Wegen Problemen mit der Statik musste der Turm vorübergehend gesperrt werden. | Statik sorunlar nedeniyle kule geçici olarak kapatılmak zorunda kaldı.
+tragend | taşıyıcı | sıfat | Diese Wand ist tragend und darf auf keinen Fall entfernt werden. | Bu duvar taşıyıcıdır ve kesinlikle kaldırılmamalıdır.
+der Träger (die Träger) | kiriş | isim (e) | Ein neuer Stahlträger ersetzt die alte Wand zwischen Küche und Wohnzimmer. | Yeni bir çelik kiriş mutfak ile oturma odası arasındaki eski duvarın yerini alıyor.
+die Stütze (die Stützen) | kolon, destek | isim (d) | Im Erdgeschoss wird die Last über vier Stützen aus Stahlbeton abgeleitet. | Zemin katta yük betonarme dört kolon üzerinden aktarılıyor.
+die Geschossdecke (die Geschossdecken) | kat döşemesi | isim (d) | Die Geschossdecke wurde als massive Platte aus Stahlbeton ausgeführt. | Kat döşemesi masif betonarme plak olarak uygulandı.
+die Bewehrung (die Bewehrungen) | donatı | isim (d) | Vor dem Betonieren kontrolliert der Bauleiter die Bewehrung sehr genau. | Beton dökülmeden önce şantiye şefi donatıyı çok dikkatli kontrol ediyor.
+die Last (die Lasten) | yük | isim (d) | Im Winter muss das Dach auch eine erhebliche Last durch Schnee tragen. | Kışın çatının kar nedeniyle önemli bir yükü de taşıması gerekir.
+die Auskragung (die Auskragungen) | konsol çıkma | isim (d) | Die weite Auskragung des Balkons stellte die Ingenieure vor eine Herausforderung. | Balkonun geniş konsol çıkması mühendisler için bir sınav oldu.
+die Dehnungsfuge (die Dehnungsfugen) | genleşme derzi | isim (d) | Dehnungsfugen verhindern Risse, wenn sich der Beton bei Hitze ausdehnt. | Genleşme derzleri beton sıcakta genleştiğinde çatlakları önler.
+## Yapı malzemeleri
+der Stahlbeton | betonarme | isim (e) | Die meisten Hochhäuser der Stadt wurden in Stahlbeton errichtet. | Şehrin yüksek binalarının çoğu betonarme olarak inşa edildi.
+der Ziegel (die Ziegel) | tuğla; kiremit | isim (e) | Die alten Fabrikgebäude im Hafen sind aus roten Ziegeln gemauert. | Limandaki eski fabrika binaları kırmızı tuğlalarla örülmüş.
+der Mörtel | harç | isim (e) | Der Maurer mischt den Mörtel direkt neben der Baustelle an. | Duvarcı harcı doğrudan şantiyenin yanında karıştırıyor.
+der Zement | çimento | isim (e) | Die Herstellung von Zement verursacht große Mengen an Kohlendioxid. | Çimento üretimi büyük miktarda karbondioksit salımına neden olur.
+das Brettschichtholz | lamine ahşap | isim (o) | Das sechsstöckige Bürogebäude in Wien besteht fast vollständig aus Brettschichtholz. | Viyana'daki altı katlı ofis binası neredeyse tamamen lamine ahşaptan yapılmış.
+der Dämmstoff (die Dämmstoffe) | yalıtım malzemesi | isim (e) | Als Dämmstoff verwendete man Holzfaserplatten statt herkömmlicher Kunststoffe. | Yalıtım malzemesi olarak geleneksel plastikler yerine ahşap lifi levhalar kullanıldı.
+der Estrich (die Estriche) | şap | isim (e) | Der frische Estrich muss mehrere Wochen trocknen, bevor das Parkett verlegt wird. | Taze şap, parke döşenmeden önce birkaç hafta kurumalıdır.
+der Putz | sıva | isim (e) | An der Fassade bröckelt der alte Putz bereits an vielen Stellen ab. | Cephede eski sıva şimdiden birçok yerde dökülüyor.
+die Gipskartonplatte (die Gipskartonplatten) | alçıpan levha | isim (d) | Die Trennwände im Büro wurden schnell mit Gipskartonplatten errichtet. | Ofisteki bölme duvarlar alçıpan levhalarla hızlıca yapıldı.
+der Naturstein (die Natursteine) | doğal taş | isim (e) | Der Platz ist mit hellem Naturstein aus einem Steinbruch im Tessin gepflastert. | Meydan Ticino'daki bir taş ocağından çıkan açık renkli doğal taşla döşenmiş.
+## Temel ve zemin
+das Fundament (die Fundamente) | temel | isim (o) | Für das Fundament wurde ein über drei Meter tiefes Loch ausgehoben. | Temel için üç metreden derin bir çukur kazıldı.
+die Baugrube (die Baugruben) | temel kazısı çukuru | isim (d) | In der Baugrube stießen die Arbeiter auf Reste einer römischen Mauer. | İşçiler temel çukurunda bir Roma duvarının kalıntılarına rastladı.
+das Baugrundgutachten (die Baugrundgutachten) | zemin etüdü raporu | isim (o) | Das Baugrundgutachten empfiehlt wegen des weichen Bodens eine Pfahlgründung. | Zemin etüdü raporu yumuşak zemin nedeniyle kazıklı temel öneriyor.
+die Pfahlgründung (die Pfahlgründungen) | kazıklı temel | isim (d) | Viele Häuser in Hamburg stehen auf einer Pfahlgründung aus Holz. | Hamburg'daki birçok ev ahşap kazıklı temel üzerinde duruyor.
+die Wasserhaltung | yeraltı suyu drenajı (şantiye) | isim (d) | Wegen des hohen Grundwasserspiegels ist eine aufwendige Wasserhaltung in der Baugrube nötig. | Yüksek yeraltı suyu seviyesi nedeniyle temel çukurunda masraflı bir su drenajı gerekiyor.
+die Bodenplatte (die Bodenplatten) | radye temel, zemin plağı | isim (d) | Die Bodenplatte wurde an einem einzigen Tag in einem Stück betoniert. | Radye temel tek bir günde tek parça hâlinde döküldü.
+die Abdichtung (die Abdichtungen) | su yalıtımı | isim (d) | Eine fehlerhafte Abdichtung führte zu feuchten Wänden im Keller. | Hatalı su yalıtımı bodrumda duvarların nemlenmesine yol açtı.
+der Aushub | hafriyat | isim (e) | Der Aushub wird mit Lastwagen zu einer nahegelegenen Deponie gebracht. | Hafriyat kamyonlarla yakındaki bir döküm sahasına götürülüyor.
+die Setzung (die Setzungen) | oturma (zemin) | isim (d) | Ungleichmäßige Setzungen haben Risse in der Fassade des Altbaus verursacht. | Düzensiz oturmalar eski binanın cephesinde çatlaklara neden oldu.
+die Verdichtung (die Verdichtungen) | sıkıştırma (zemin); yoğunlaştırma | isim (d) | Vor dem Einbau der Bodenplatte ist eine sorgfältige Verdichtung des Untergrunds nötig. | Radye temelden önce alt zeminin özenle sıkıştırılması gerekir.
+## Şantiye
+die Baustelleneinrichtung (die Baustelleneinrichtungen) | şantiye kurulumu | isim (d) | Zur Baustelleneinrichtung gehören Container, Kran, Zaun und Lagerflächen für Material. | Şantiye kurulumuna konteynerler, vinç, çit ve malzeme depolama alanları dahildir.
+der Bauleiter (die Bauleiter) | şantiye şefi | isim (e) | Der Bauleiter koordiniert täglich die Arbeit von sieben verschiedenen Gewerken. | Şantiye şefi her gün yedi farklı iş kolunun çalışmasını koordine ediyor.
+das Gewerk (die Gewerke) | iş kolu, iş kalemi | isim (o) | Elektriker und Installateure gehören zu den wichtigsten Gewerken im Innenausbau. | Elektrikçiler ve tesisatçılar iç yapı işlerindeki en önemli iş kolları arasındadır.
+das Gerüst (die Gerüste) | iskele | isim (o) | Für die Sanierung der Fassade wurde ein Gerüst um das ganze Haus aufgebaut. | Cephe yenilemesi için evin etrafına iskele kuruldu.
+der Baukran (die Baukräne) | inşaat vinci | isim (e) | Der Baukran hebt die schweren Fertigteile bis in den zehnten Stock. | İnşaat vinci ağır prefabrik parçaları onuncu kata kadar kaldırıyor.
+der Bauzeitenplan (die Bauzeitenpläne) | iş programı | isim (e) | Wegen des langen Winters ist der Bauzeitenplan völlig durcheinandergeraten. | Uzun kış nedeniyle iş programı tamamen altüst oldu.
+das Richtfest (die Richtfeste) | çatı bayramı (kaba inşaat bitimi kutlaması) | isim (o) | Beim Richtfest wird traditionell ein Kranz auf den Dachstuhl gesetzt. | Çatı bayramında geleneksel olarak çatı iskeletine bir çelenk konur.
+der Rohbau (die Rohbauten) | kaba inşaat | isim (e) | Der Rohbau soll noch vor Weihnachten fertiggestellt werden. | Kaba inşaatın Noel'den önce tamamlanması planlanıyor.
+die Arbeitssicherheit | iş güvenliği | isim (d) | Auf jeder Baustelle hat die Arbeitssicherheit oberste Priorität. | Her şantiyede iş güvenliği en yüksek önceliğe sahiptir.
+der Polier (die Poliere) | şantiye ustabaşı | isim (e) | Der Polier erklärt den neuen Arbeitern die Abläufe auf der Baustelle. | Ustabaşı yeni işçilere şantiyedeki süreçleri anlatıyor.
+## Sıhhi tesisat ve ısıtma
+die Haustechnik | bina tesisatı | isim (d) | Die Kosten für die Haustechnik machen fast ein Drittel des Budgets aus. | Bina tesisatının maliyeti bütçenin neredeyse üçte birini oluşturuyor.
+die Sanitärinstallation (die Sanitärinstallationen) | sıhhi tesisat | isim (d) | Die gesamte Sanitärinstallation im Altbau musste erneuert werden. | Eski binadaki sıhhi tesisatın tamamının yenilenmesi gerekti.
+die Fußbodenheizung (die Fußbodenheizungen) | yerden ısıtma | isim (d) | Die Fußbodenheizung sorgt für eine angenehme und gleichmäßige Wärme. | Yerden ısıtma hoş ve eşit bir sıcaklık sağlıyor.
+die Lüftungsanlage (die Lüftungsanlagen) | havalandırma sistemi | isim (d) | Eine Lüftungsanlage mit Wärmerückgewinnung spart im Passivhaus viel Energie. | Isı geri kazanımlı bir havalandırma sistemi pasif evde çok enerji tasarrufu sağlar.
+das Abwasserrohr (die Abwasserrohre) | atık su borusu | isim (o) | Ein verstopftes Abwasserrohr hat den Keller unter Wasser gesetzt. | Tıkanmış bir atık su borusu bodrumu su bastırdı.
+der Heizkessel (die Heizkessel) | kombi, ısıtma kazanı | isim (e) | Der alte Heizkessel im Keller ist über dreißig Jahre alt. | Bodrumdaki eski ısıtma kazanı otuz yaşından büyük.
+die Steigleitung (die Steigleitungen) | düşey hat, kolon hattı | isim (d) | Die Steigleitungen verlaufen in einem Schacht neben dem Treppenhaus. | Kolon hatları merdiven boşluğunun yanındaki bir şafttan geçiyor.
+der Schacht (die Schächte) | şaft, kuyu | isim (e) | Alle Leitungen werden in einem zentralen Schacht nach oben geführt. | Tüm hatlar merkezî bir şafttan yukarı çıkarılıyor.
+die Dämmung (die Dämmungen) | yalıtım | isim (d) | Eine gute Dämmung der Außenwände senkt die Heizkosten erheblich. | Dış duvarların iyi yalıtımı ısıtma giderlerini önemli ölçüde düşürür.
+die Wärmebrücke (die Wärmebrücken) | ısı köprüsü | isim (d) | An Wärmebrücken bildet sich im Winter oft Schimmel. | Kışın ısı köprülerinde sıklıkla küf oluşur.
+## Elektrik ve bina teknolojisi
+die Elektroinstallation (die Elektroinstallationen) | elektrik tesisatı | isim (d) | Die Elektroinstallation darf nur von einem zugelassenen Fachbetrieb ausgeführt werden. | Elektrik tesisatı yalnızca yetkili bir firma tarafından yapılabilir.
+der Sicherungskasten (die Sicherungskästen) | sigorta kutusu | isim (e) | Nach dem Kurzschluss musste ich im Sicherungskasten die Sicherung wieder einschalten. | Kısa devreden sonra sigorta kutusunda sigortayı yeniden açmam gerekti.
+der Blitzschutz | yıldırımdan korunma sistemi | isim (e) | Hohe Gebäude müssen mit einem wirksamen Blitzschutz ausgestattet sein. | Yüksek binaların etkili bir yıldırımdan korunma sistemiyle donatılması gerekir.
+die Gebäudeautomation | bina otomasyonu | isim (d) | Dank Gebäudeautomation lassen sich Licht und Heizung zentral steuern. | Bina otomasyonu sayesinde ışık ve ısıtma merkezden kontrol edilebiliyor.
+der Brandschutz | yangından korunma | isim (e) | Beim Brandschutz gelten für Schulen besonders strenge Vorschriften. | Okullar için yangından korunmada özellikle sıkı kurallar geçerlidir.
+der Fluchtweg (die Fluchtwege) | kaçış yolu | isim (e) | Fluchtwege müssen jederzeit frei und deutlich gekennzeichnet sein. | Kaçış yolları her zaman açık ve belirgin biçimde işaretlenmiş olmalıdır.
+die Sprinkleranlage (die Sprinkleranlagen) | yağmurlama sistemi (yangın) | isim (d) | In der Tiefgarage wurde eine automatische Sprinkleranlage installiert. | Kapalı otoparka otomatik bir yağmurlama sistemi kuruldu.
+der Aufzugsschacht (die Aufzugsschächte) | asansör boşluğu | isim (e) | Der Aufzugsschacht wurde nachträglich an der Rückseite des Gebäudes angebaut. | Asansör boşluğu sonradan binanın arka tarafına eklendi.
+das Leerrohr (die Leerrohre) | boş boru (kablo için) | isim (o) | Wir haben vorsorglich Leerrohre für spätere Kabel in die Wände gelegt. | İleride kablo çekmek için duvarlara önceden boş borular döşedik.
+die Photovoltaikanlage (die Photovoltaikanlagen) | güneş enerjisi sistemi | isim (d) | Die Photovoltaikanlage auf dem Dach deckt den Strombedarf der Schule. | Çatıdaki güneş enerjisi sistemi okulun elektrik ihtiyacını karşılıyor.
+## İç mekân ve bitirme işleri
+der Innenausbau | iç yapı işleri | isim (e) | Der Innenausbau dauert oft länger als der eigentliche Rohbau. | İç yapı işleri çoğu zaman kaba inşaattan daha uzun sürer.
+der Fliesenleger (die Fliesenleger) | fayansçı | isim (e) | Der Fliesenleger hat das Bad in nur drei Tagen komplett gefliest. | Fayansçı banyoyu sadece üç günde tamamen döşedi.
+die Trockenbauwand (die Trockenbauwände) | kuru duvar, alçıpan duvar | isim (d) | Mit einer Trockenbauwand lässt sich das große Zimmer schnell teilen. | Kuru duvarla büyük oda hızlıca bölünebilir.
+die Zwischendecke (die Zwischendecken) | asma tavan | isim (d) | Hinter der Zwischendecke im Büro verlaufen die Lüftungskanäle und zahlreiche Kabel. | Ofisteki asma tavanın arkasından havalandırma kanalları ve çok sayıda kablo geçiyor.
+die Fensterbank (die Fensterbänke) | denizlik | isim (d) | Auf der breiten Fensterbank stehen im Sommer viele Kräutertöpfe. | Geniş denizlikte yazın birçok ot saksısı duruyor.
+die Zarge (die Zargen) | kasa (kapı, pencere) | isim (d) | Die Tür passt nicht, weil die Zarge schief eingebaut wurde. | Kasa eğri takıldığı için kapı oturmuyor.
+die Abnahme (die Abnahmen) | teslim alma, kabul | isim (d) | Bei der Abnahme der Wohnung wurden mehrere Mängel protokolliert. | Dairenin teslim alınmasında birkaç kusur tutanağa geçirildi.
+der Baumangel (die Baumängel) | yapı kusuru | isim (e) | Der Gutachter stellte erhebliche Baumängel an der Dachkonstruktion fest. | Bilirkişi çatı konstrüksiyonunda ciddi yapı kusurları tespit etti.
+die Fuge (die Fugen) | derz | isim (d) | Die Fugen zwischen den Fliesen müssen nach dem Verlegen gründlich verfüllt werden. | Fayanslar arasındaki derzler döşemeden sonra iyice doldurulmalıdır.
+der Anstrich (die Anstriche) | boya katı, boya | isim (e) | Ein frischer Anstrich lässt das alte Treppenhaus wieder freundlich wirken. | Taze bir boya eski merdiven boşluğunu yeniden sevimli gösteriyor.
+## Mimari üslup ve tarih
+die Gotik | Gotik | isim (d) | Der Kölner Dom ist eines der berühmtesten Bauwerke der Gotik. | Köln Katedrali Gotik dönemin en ünlü yapılarından biridir.
+der Barock | Barok | isim (e) | Die prachtvollen Klöster an der Donau stammen größtenteils aus dem Barock. | Tuna kıyısındaki görkemli manastırların çoğu Barok döneminden kalma.
+der Jugendstil | Jugendstil, Art Nouveau | isim (e) | Wien besitzt zahlreiche Wohnhäuser mit verspielten Fassaden im Jugendstil. | Viyana'da Art Nouveau tarzında oyunbaz cepheli çok sayıda konut var.
+das Bauhaus | Bauhaus | isim (o) | Das Bauhaus prägte mit seiner klaren Formensprache die moderne Architektur weltweit. | Bauhaus sade biçim diliyle dünya çapında modern mimariye damgasını vurdu.
+das Fachwerkhaus (die Fachwerkhäuser) | ahşap iskeletli ev (yarı ahşap) | isim (o) | Die Altstadt ist bekannt für ihre bunten Fachwerkhäuser aus dem Mittelalter. | Eski şehir Orta Çağ'dan kalma rengârenk ahşap iskeletli evleriyle tanınır.
+die Fassade (die Fassaden) | cephe | isim (d) | Die gläserne Fassade spiegelt bei Sonnenuntergang den ganzen Fluss. | Cam cephe gün batımında tüm nehri yansıtıyor.
+das Gewölbe (die Gewölbe) | tonoz, kemerli tavan | isim (o) | Im Keller des Klosters ist ein mittelalterliches Gewölbe gut erhalten. | Manastırın bodrumunda Orta Çağ'dan kalma bir tonoz iyi korunmuş.
+der Denkmalschutz | anıt koruma, sit statüsü | isim (e) | Weil das Haus unter Denkmalschutz steht, dürfen die Fenster nicht verändert werden. | Ev koruma altında olduğu için pencereler değiştirilemez.
+der Plattenbau (die Plattenbauten) | prefabrik panel bina | isim (e) | In Ostberlin wurden in den siebziger Jahren viele Plattenbauten errichtet. | Doğu Berlin'de yetmişli yıllarda birçok prefabrik panel bina inşa edildi.
+der Erker (die Erker) | cumba | isim (e) | Vom Erker im ersten Stock hat man einen schönen Blick auf den Marktplatz. | Birinci kattaki cumbadan pazar meydanına güzel bir manzara var.
+## İhale ve maliyet
+die Ausschreibung (die Ausschreibungen) | ihale ilanı | isim (d) | Die öffentliche Ausschreibung für den Bau der neuen Brücke endet im März. | Yeni köprünün yapımı için kamu ihalesi martta sona eriyor.
+das Leistungsverzeichnis (die Leistungsverzeichnisse) | iş kalemleri listesi, keşif | isim (o) | Im Leistungsverzeichnis ist jede einzelne Arbeit mit Menge und Einheit beschrieben. | Keşif listesinde her bir iş miktar ve birimiyle tanımlanmış.
+der Generalunternehmer (die Generalunternehmer) | genel yüklenici | isim (e) | Als Generalunternehmer übernimmt die Firma die Verantwortung für alle Gewerke. | Firma genel yüklenici olarak tüm iş kollarının sorumluluğunu üstleniyor.
+der Nachtrag (die Nachträge) | ek iş, ek sözleşme | isim (e) | Für die zusätzlichen Arbeiten am Dach stellte die Firma einen Nachtrag. | Firma çatıdaki ek işler için bir ek iş talebi sundu.
+die Kostenschätzung (die Kostenschätzungen) | maliyet tahmini | isim (d) | Die erste Kostenschätzung lag weit unter den tatsächlichen Baukosten. | İlk maliyet tahmini gerçek inşaat maliyetlerinin çok altındaydı.
+das Aufmaß (die Aufmaße) | yerinde ölçüm, metraj | isim (o) | Nach dem Aufmaß auf der Baustelle wird die Schlussrechnung erstellt. | Şantiyedeki metrajdan sonra kesin hesap hazırlanıyor.
+der Subunternehmer (die Subunternehmer) | taşeron | isim (e) | Für die Fassadenarbeiten wurde ein Subunternehmer aus Polen beauftragt. | Cephe işleri için Polonyalı bir taşeron görevlendirildi.
+die Bauverzögerung (die Bauverzögerungen) | inşaat gecikmesi | isim (d) | Lieferengpässe beim Stahl führten auf mehreren Baustellen zu monatelangen Bauverzögerungen. | Çelikteki tedarik darboğazları birçok şantiyede aylarca süren inşaat gecikmelerine yol açtı.
+die Schlussrechnung (die Schlussrechnungen) | kesin hesap, son fatura | isim (d) | Die Schlussrechnung wurde vom Bauherrn erst nach langer Prüfung bezahlt. | Kesin hesap iş sahibi tarafından ancak uzun bir incelemeden sonra ödendi.
+die Bürgschaft (die Bürgschaften) | teminat, kefalet | isim (d) | Der Auftraggeber verlangt eine Bürgschaft über fünf Prozent der Auftragssumme. | İşveren sözleşme bedelinin yüzde beşi tutarında teminat istiyor.
