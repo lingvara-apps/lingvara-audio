@@ -1,0 +1,111 @@
+# UNIT: Eğitim ve bilim | Üniversite, araştırma, bilim dalları, bilimsel dil
+## Üniversite hayatı
+入試 (nyūshi) | giriş sınavı | isim | 大学の入試に向けて、毎日図書館で勉強している。 | Üniversite giriş sınavı için her gün kütüphanede çalışıyorum.
+新入生 (shinnyūsei) | yeni öğrenci | isim | 四月になると、キャンパスは新入生でにぎやかになる。 | Nisan gelince kampüs yeni öğrencilerle şenlenir.
+学期 (gakki) | dönem, sömestr | isim | 今学期は授業が多くて、アルバイトをする時間がない。 | Bu dönem ders çok, yarı zamanlı işe vaktim yok.
+学年 (gakunen) | sınıf, öğretim yılı | isim | 弟と私は二つ学年が違う。 | Kardeşimle aramda iki sınıf fark var.
+履修 (rishū) | ders alma, derse kayıt | isim | 来週までに履修する科目を登録しなければならない。 | Gelecek haftaya kadar alacağım dersleri kaydettirmem gerekiyor.
+休講 (kyūkō) | dersin iptali | isim | 先生が病気で、今日の授業は休講になった。 | Hoca hasta olduğu için bugünkü ders iptal edildi.
+ゼミ (zemi) | seminer dersi | isim | 三年生からゼミに入って、専門の研究を始める。 | Üçüncü sınıftan itibaren seminer grubuna girip alan araştırmasına başlanır.
+大学院 (daigakuin) | lisansüstü okul | isim | 卒業後は大学院に進んで、研究を続けたい。 | Mezun olduktan sonra yüksek lisansa geçip araştırmaya devam etmek istiyorum.
+学位 (gakui) | akademik derece | isim | 姉はアメリカの大学で学位を取った。 | Ablam Amerika'daki bir üniversitede diploma aldı.
+卒業論文 (sotsugyō ronbun) | bitirme tezi | isim | 卒業論文のテーマがなかなか決まらない。 | Bitirme tezimin konusunu bir türlü belirleyemiyorum.
+## Öğrenme yolları
+暗記 (anki) | ezberleme | isim | 単語を暗記するのは苦手だ。 | Kelime ezberlemekte zorlanıyorum.
+集中 (shūchū) | odaklanma, yoğunlaşma | isim | 静かな場所のほうが勉強に集中できる。 | Sessiz bir yerde derse daha iyi odaklanabiliyorum.
+努力 (doryoku) | çaba | isim | 毎日の努力が、やがて大きな力になる。 | Her günkü çaba zamanla büyük bir güce dönüşür.
+身につける (mi ni tsukeru) | edinmek, kazanmak (beceri) | deyim | 留学して、本物の英語を身につけたい。 | Yurt dışında okuyup gerçek İngilizceyi edinmek istiyorum.
+学習 (gakushū) | öğrenim, çalışma | isim | このアプリを使えば、楽しく語学の学習ができる。 | Bu uygulamayla dil öğrenimi eğlenceli hale geliyor.
+独学 (dokugaku) | kendi kendine öğrenme | isim | 彼はプログラミングを独学で身につけた。 | Programlamayı kendi kendine öğrendi.
+自習 (jishū) | bireysel çalışma | isim | 先生が来られないので、今日は自習になった。 | Öğretmen gelemediği için bugün serbest çalışma yapıldı.
+塾 (juku) | dershane | isim | 弟は週に三回、駅前の塾に通っている。 | Kardeşim haftada üç kez istasyon önündeki dershaneye gidiyor.
+補習 (hoshū) | telafi dersi, ek ders | isim | 成績が悪かったので、夏休みに補習を受けた。 | Notlarım kötü olduğu için yaz tatilinde ek derse girdim.
+解く (toku) | çözmek | fiil | この数学の問題は難しくて、誰も解けなかった。 | Bu matematik sorusu çok zordu, kimse çözemedi.
+## Sınav ve not
+出題 (shutsudai) | soru sorma, sınava soru koyma | isim | 今回の試験は教科書から多く出題された。 | Bu sınavda soruların çoğu ders kitabından soruldu.
+採点 (saiten) | not verme, puanlama | isim | 先生は徹夜でテストの採点をしたそうだ。 | Öğretmen sabaha kadar sınav kâğıtlarını okumuş.
+満点 (manten) | tam not | isim | 漢字のテストで初めて満点を取った。 | Kanji sınavından ilk kez tam not aldım.
+平均 (heikin) | ortalama | isim | クラスの平均点は七十点だった。 | Sınıfın ortalaması yetmiş puandı.
+偏差値 (hensachi) | standart başarı puanı | isim | 日本の高校生は模試の偏差値をとても気にする。 | Japon lise öğrencileri deneme sınavlarındaki başarı puanını çok önemser.
+不合格 (fugōkaku) | başarısızlık, kalma | isim | 一度は不合格だったが、翌年もう一度挑戦した。 | Bir kez kaldım ama ertesi yıl yeniden denedim.
+解答 (kaitō) | cevap, çözüm | isim | 解答用紙に名前を書くのを忘れないでください。 | Cevap kâğıdına adınızı yazmayı unutmayın.
+問い (toi) | soru | isim | 次の問いに日本語で答えなさい。 | Aşağıdaki soruları Japonca cevaplayınız.
+正解 (seikai) | doğru cevap | isim | 十問のうち八問が正解だった。 | On sorudan sekizi doğruydu.
+追試 (tsuishi) | bütünleme sınavı | isim | 風邪で試験を休んだので、来週追試を受ける。 | Grip yüzünden sınava giremediğim için gelecek hafta telafi sınavına gireceğim.
+## Araştırma yapmak
+調査 (chōsa) | inceleme, anket, araştırma | isim | 学生の生活について、アンケート調査を行った。 | Öğrencilerin yaşamı hakkında anket araştırması yaptık.
+実験 (jikken) | deney | isim | 理科の授業で、水を使った実験をした。 | Fen dersinde suyla bir deney yaptık.
+分析 (bunseki) | analiz | isim | 集めたデータを分析するのに一か月かかった。 | Topladığımız verileri analiz etmek bir ay sürdü.
+仮説 (kasetsu) | hipotez | isim | 実験の結果、私たちの仮説は正しいことが分かった。 | Deneyin sonucunda hipotezimizin doğru olduğu anlaşıldı.
+観察 (kansatsu) | gözlem | isim | 夏休みにアサガオの観察日記をつけた。 | Yaz tatilinde sabah sefası çiçeğini gözlem günlüğü tuttum.
+証明 (shōmei) | kanıtlama, ispat | isim | その理論はまだ証明されていない。 | O teori henüz kanıtlanmadı.
+発見 (hakken) | keşif | isim | この発見は医学の歴史を大きく変えた。 | Bu keşif tıp tarihini büyük ölçüde değiştirdi.
+記録 (kiroku) | kayıt; rekor | isim | 実験の結果は毎回ノートに記録している。 | Deney sonuçlarını her seferinde deftere kaydediyorum.
+出典 (shutten) | kaynak (alıntının) | isim | レポートに使った図の出典を必ず書いてください。 | Raporda kullandığınız şekillerin kaynağını mutlaka yazın.
+統計 (tōkei) | istatistik | isim | 統計によると、一人暮らしの高齢者が増えている。 | İstatistiklere göre yalnız yaşayan yaşlıların sayısı artıyor.
+## Bilim dalları
+化学 (kagaku) | kimya | isim | 化学の実験では、必ず安全眼鏡をかけてください。 | Kimya deneylerinde mutlaka koruyucu gözlük takın.
+医学 (igaku) | tıp bilimi | isim | 医学の進歩で、人間の寿命が延びた。 | Tıptaki ilerlemeyle insan ömrü uzadı.
+工学 (kōgaku) | mühendislik | isim | 兄は大学で機械工学を専攻している。 | Ağabeyim üniversitede makine mühendisliği okuyor.
+経済学 (keizaigaku) | iktisat | isim | 経済学の授業で、物の値段が決まる仕組みを学んだ。 | İktisat dersinde fiyatların nasıl belirlendiğini öğrendik.
+心理学 (shinrigaku) | psikoloji | isim | 人の気持ちに興味があって、心理学を勉強している。 | İnsanların duygularına ilgi duyduğum için psikoloji okuyorum.
+哲学 (tetsugaku) | felsefe | isim | 哲学の本は難しいけれど、考えるきっかけになる。 | Felsefe kitapları zor ama düşünmeye vesile oluyor.
+天文学 (tenmongaku) | astronomi | isim | 星が好きで、将来は天文学を研究したい。 | Yıldızları sevdiğim için ileride astronomi alanında araştırma yapmak istiyorum.
+文学 (bungaku) | edebiyat | isim | 日本文学の中では、特に古い物語が好きだ。 | Japon edebiyatında özellikle eski öyküleri severim.
+社会学 (shakaigaku) | sosyoloji | isim | 社会学では、家族や地域の変化を研究する。 | Sosyolojide aile ve yerel toplulukların değişimi incelenir.
+言語学 (gengogaku) | dilbilim | isim | 言語学を学んで、日本語とトルコ語の似ている点に気づいた。 | Dilbilim okuyunca Japonca ile Türkçenin benzer yönlerini fark ettim.
+## Bilimsel kavramlar
+現象 (genshō) | olay, fenomen | isim | 虹は光が水の粒で曲がって起こる現象だ。 | Gökkuşağı ışığın su damlalarında kırılmasıyla oluşan bir olaydır.
+原因 (gen'in) | neden, sebep | isim | 事故の原因はまだ分かっていない。 | Kazanın nedeni henüz bilinmiyor.
+要素 (yōso) | öğe, unsur | isim | 成功にはいくつかの要素が必要だ。 | Başarı için birkaç unsur gereklidir.
+性質 (seishitsu) | özellik, nitelik | isim | 水は温度によって性質が変わる。 | Suyun özellikleri sıcaklığa göre değişir.
+法則 (hōsoku) | yasa, kural (bilimsel) | isim | 物が下に落ちるのは自然の法則だ。 | Cisimlerin aşağı düşmesi bir doğa yasasıdır.
+理論 (riron) | kuram, teori | isim | 理論と実際は違うことがよくある。 | Teori ile pratik çoğu zaman farklıdır.
+物質 (busshitsu) | madde | isim | この物質は熱を加えると色が変わる。 | Bu madde ısıtıldığında renk değiştirir.
+構造 (kōzō) | yapı | isim | 日本の古い寺は、地震に強い構造になっている。 | Japonya'nın eski tapınakları depreme dayanıklı bir yapıya sahiptir.
+変化 (henka) | değişim | isim | 最近、気温の変化が激しい。 | Son zamanlarda sıcaklık değişimleri çok sert.
+特徴 (tokuchō) | özellik, karakteristik | isim | この植物の特徴は、葉が夜に閉じることだ。 | Bu bitkinin özelliği yapraklarının geceleri kapanmasıdır.
+## Ölçmek ve hesaplamak
+測る (hakaru) | ölçmek | fiil | 毎朝、体温と血圧を測っている。 | Her sabah ateşimi ve tansiyonumu ölçüyorum.
+計算 (keisan) | hesap, hesaplama | isim | 電卓を使わないで計算できますか。 | Hesap makinesi kullanmadan hesaplayabilir misiniz?
+数値 (sūchi) | sayısal değer | isim | 検査の数値は正常だった。 | Tahlil değerleri normaldi.
+長さ (nagasa) | uzunluk | isim | この橋の長さは約二キロです。 | Bu köprünün uzunluğu yaklaşık iki kilometredir.
+重さ (omosa) | ağırlık | isim | 荷物の重さは二十キロまでです。 | Bagaj ağırlığı en fazla yirmi kilodur.
+面積 (menseki) | alan, yüzölçümü | isim | 日本の面積はトルコの半分ぐらいだ。 | Japonya'nın yüzölçümü Türkiye'nin yarısı kadardır.
+体積 (taiseki) | hacim | isim | 箱の体積を求める問題が出た。 | Bir kutunun hacmini bulma sorusu çıktı.
+温度 (ondo) | sıcaklık | isim | 部屋の温度を二十五度に設定した。 | Odanın sıcaklığını yirmi beş dereceye ayarladım.
+速度 (sokudo) | hız | isim | この道路では速度を落としてください。 | Bu yolda hızınızı düşürün lütfen.
+倍 (bai) | kat | isim | この町の人口は二十年前の二倍になった。 | Bu kasabanın nüfusu yirmi yıl öncekinin iki katına çıktı.
+## Doğa bilimleri
+細胞 (saibō) | hücre | isim | 人間の体は数十兆個の細胞でできている。 | İnsan vücudu on trilyonlarca hücreden oluşur.
+遺伝 (iden) | kalıtım | isim | 背の高さは遺伝の影響が大きいと言われる。 | Boy uzunluğunda kalıtımın etkisi büyük deniyor.
+酸素 (sanso) | oksijen | isim | 高い山の上では酸素が少ない。 | Yüksek dağların tepesinde oksijen azdır.
+二酸化炭素 (nisanka tanso) | karbondioksit | isim | 植物は二酸化炭素を吸って、酸素を出す。 | Bitkiler karbondioksit alıp oksijen verir.
+元素 (genso) | element | isim | 授業で元素の名前を全部覚えさせられた。 | Derste bütün elementlerin adlarını ezberletildi.
+重力 (jūryoku) | yerçekimi | isim | 月の重力は地球の六分の一しかない。 | Ay'ın çekim kuvveti Dünya'nınkinin altıda biri kadardır.
+電流 (denryū) | elektrik akımı | isim | 濡れた手で触ると、電流が流れて危ない。 | Islak elle dokunursan akım geçer, tehlikelidir.
+原子 (genshi) | atom | isim | すべての物は小さな原子からできている。 | Her şey küçük atomlardan oluşur.
+分子 (bunshi) | molekül | isim | 水の分子は水素と酸素でできている。 | Su molekülü hidrojen ve oksijenden oluşur.
+進化 (shinka) | evrim, gelişim | isim | 鳥は恐竜から進化したと考えられている。 | Kuşların dinozorlardan evrimleştiği düşünülüyor.
+## Akademik yazı
+要約 (yōyaku) | özet | isim | この記事を二百字で要約してください。 | Bu makaleyi iki yüz karakterle özetleyin.
+図表 (zuhyō) | şekil ve tablo | isim | 図表を使うと、説明が分かりやすくなる。 | Şekil ve tablo kullanınca anlatım daha anlaşılır olur.
+本文 (honbun) | ana metin | isim | 本文の中で、実験の方法を詳しく説明してください。 | Ana metinde deneyin yöntemini ayrıntılı açıklayın.
+参考 (sankō) | başvuru, referans | isim | 先輩のレポートを参考にして書いた。 | Kıdemli öğrencinin raporunu örnek alarak yazdım.
+根拠 (konkyo) | dayanak, gerekçe | isim | その意見には何か根拠がありますか。 | O görüşün bir dayanağı var mı?
+述べる (noberu) | ifade etmek, belirtmek | fiil | 最後に、自分の考えを簡単に述べてください。 | Son olarak kendi düşüncenizi kısaca belirtin.
+示す (shimesu) | göstermek | fiil | このグラフは人口の変化を示している。 | Bu grafik nüfus değişimini gösteriyor.
+考察 (kōsatsu) | inceleme, irdeleme | isim | 実験の結果について考察を加えた。 | Deney sonuçları üzerine bir irdeleme ekledim.
+段落 (danraku) | paragraf | isim | 一つの段落には、一つのテーマを書くようにしよう。 | Her paragrafta tek bir konu yazmaya özen gösterelim.
+目的 (mokuteki) | amaç | isim | この研究の目的は、睡眠と記憶の関係を調べることだ。 | Bu araştırmanın amacı uyku ile hafıza arasındaki ilişkiyi incelemektir.
+## Okul sistemi
+義務教育 (gimu kyōiku) | zorunlu eğitim | isim | 日本の義務教育は小学校と中学校の九年間だ。 | Japonya'da zorunlu eğitim ilkokul ve ortaokuldan oluşan dokuz yıldır.
+学歴 (gakureki) | eğitim geçmişi | isim | 学歴よりも実力を大切にする会社が増えている。 | Diplomadan çok yeteneğe önem veren şirketler artıyor.
+教員 (kyōin) | öğretmen, öğretim elemanı | isim | 母は中学校の教員として三十年働いた。 | Annem ortaokulda öğretmen olarak otuz yıl çalıştı.
+校舎 (kōsha) | okul binası | isim | 古い校舎が取り壊されて、新しくなった。 | Eski okul binası yıkılıp yenilendi.
+制服 (seifuku) | okul üniforması | isim | 日本の高校生の多くは制服を着て学校に行く。 | Japon lise öğrencilerinin çoğu okula üniformayla gider.
+部活 (bukatsu) | okul kulübü faaliyeti | isim | 中学のときはバスケットボールの部活に入っていた。 | Ortaokuldayken basketbol kulübündeydim.
+入学式 (nyūgakushiki) | okula başlama töreni | isim | 桜が咲く中で入学式が行われた。 | Okula başlama töreni kiraz çiçekleri arasında yapıldı.
+学園祭 (gakuensai) | okul festivali | isim | 学園祭でクラスのみんなとカフェを開いた。 | Okul festivalinde sınıf arkadaşlarımla bir kafe açtık.
+進学 (shingaku) | üst okula geçme | isim | 高校卒業後の進学先をまだ迷っている。 | Liseden sonra hangi okula gideceğime hâlâ karar veremedim.
+保護者 (hogosha) | veli | isim | 来週の土曜日に保護者会があります。 | Gelecek cumartesi veli toplantısı var.
