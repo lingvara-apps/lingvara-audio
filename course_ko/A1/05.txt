@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, Kore yemekleri, tatlar
+## Temel yiyecekler
+음식 (eumsik) | yemek, yiyecek | isim | 한국 음식을 좋아해요. (Hanguk eumsigeul joahaeyo.) | Kore yemeklerini severim.
+밥 (bap) | pişmiş pilav; yemek, öğün | isim | 밥 먹었어요? (Bap meogeosseoyo?) | Yemek yedin mi?
+빵 (ppang) | ekmek | isim | 아침에 빵을 먹어요. (Achime ppangeul meogeoyo.) | Sabahları ekmek yerim.
+고기 (gogi) | et | isim | 저는 고기를 안 먹어요. (Jeoneun gogireul an meogeoyo.) | Ben et yemem.
+생선 (saengseon) | balık (yemek olarak) | isim | 생선을 구워요. (Saengseoneul guwoyo.) | Balık ızgara yapıyorum.
+계란 (gyeran) | yumurta | isim | 계란 두 개를 삶아요. (Gyeran du gaereul salmayo.) | İki yumurta haşlıyorum.
+국 (guk) | çorba (et suyu, sulu) | isim | 국이 뜨거워요. (Gugi tteugeowoyo.) | Çorba çok sıcak.
+반찬 (banchan) | banchan, ara yemekler (pilavın yanında) | isim | 반찬이 정말 많아요. (Banchani jeongmal manayo.) | Gerçekten çok yan yemek var.
+김치 (gimchi) | kimchi (fermente lahana turşusu) | isim | 김치가 좀 매워요. (Gimchiga jom maewoyo.) | Kimchi biraz acı.
+라면 (ramyeon) | hazır erişte (ramyeon) | isim | 밤에 라면을 끓여요. (Bame ramyeoneul kkeuryeoyo.) | Gece ramyeon pişiriyorum.
+## İçecekler
+물 (mul) | su | isim | 물 한 병 주세요. (Mul han byeong juseyo.) | Bir şişe su lütfen.
+커피 (keopi) | kahve | isim | 아이스 커피 주세요. (Aiseu keopi juseyo.) | Buzlu kahve lütfen.
+녹차 (nokcha) | yeşil çay | isim | 녹차를 자주 마셔요. (Nokchareul jaju masyeoyo.) | Sık sık yeşil çay içerim.
+우유 (uyu) | süt | isim | 우유에 시리얼을 넣어요. (Uyue sirieoreul neoeoyo.) | Sütün içine gevrek koyuyorum.
+주스 (juseu) | meyve suyu | isim | 오렌지 주스 한 잔 주세요. (Orenji juseu han jan juseyo.) | Bir bardak portakal suyu lütfen.
+맥주 (maekju) | bira | isim | 치킨하고 맥주를 먹어요. (Chikinhago maekjureul meogeoyo.) | Kızarmış tavukla bira içiyoruz.
+술 (sul) | alkollü içki | isim | 저는 술을 못 마셔요. (Jeoneun sureul mot masyeoyo.) | Ben içki içemem.
+소주 (soju) | soju (Kore içkisi) | isim | 소주는 한국의 술이에요. (Sojuneun Hangugui surieyo.) | Soju Kore'nin içkisidir.
+음료수 (eumnyosu) | içecek (meşrubat) | isim | 음료수는 뭘로 하시겠어요? (Eumnyosuneun mwollo hasigesseoyo?) | İçecek olarak ne alırsınız?
+얼음 (eoreum) | buz | isim | 얼음 넣어 드릴까요? (Eoreum neoeo deurilkkayo?) | Buz koyayım mı?
+## Meyveler
+과일 (gwail) | meyve | isim | 과일을 매일 먹어요. (Gwaireul maeil meogeoyo.) | Her gün meyve yerim.
+사과 (sagwa) | elma | isim | 사과가 달아요. (Sagwaga darayo.) | Elma tatlı.
+바나나 (banana) | muz | isim | 바나나 한 송이를 샀어요. (Banana han songireul sasseoyo.) | Bir salkım muz aldım.
+딸기 (ttalgi) | çilek | isim | 딸기 케이크를 좋아해요. (Ttalgi keikeureul joahaeyo.) | Çilekli pastayı severim.
+포도 (podo) | üzüm | isim | 포도가 아주 싱싱해요. (Podoga aju singsinghaeyo.) | Üzümler çok taze.
+수박 (subak) | karpuz | isim | 여름에는 수박이 최고예요. (Yeoreumeneun subagi choegoyeyo.) | Yazın karpuz bir numara.
+귤 (gyul) | mandalina | isim | 겨울에 귤을 많이 먹어요. (Gyeoure gyureul mani meogeoyo.) | Kışın çok mandalina yeriz.
+복숭아 (boksunga) | şeftali | isim | 복숭아 향이 좋아요. (Boksunga hyangi joayo.) | Şeftalinin kokusu güzel.
+감 (gam) | trabzon hurması | isim | 가을에는 감이 맛있어요. (Gaeureneun gami masisseoyo.) | Sonbaharda hurma lezzetli olur.
+레몬 (remon) | limon | isim | 레몬이 너무 셔요. (Remoni neomu syeoyo.) | Limon çok ekşi.
+## Sebzeler
+채소 (chaeso) | sebze | isim | 채소를 많이 드세요. (Chaesoreul mani deuseyo.) | Bol sebze yiyin.
+감자 (gamja) | patates | isim | 감자를 삶았어요. (Gamjareul salmasseoyo.) | Patates haşladım.
+고구마 (goguma) | tatlı patates | isim | 겨울에 군고구마를 먹어요. (Gyeoure gungogumareul meogeoyo.) | Kışın közlenmiş tatlı patates yeriz.
+양파 (yangpa) | soğan | isim | 양파를 썰어요. (Yangpareul sseoreoyo.) | Soğan doğruyorum.
+마늘 (maneul) | sarımsak | isim | 한국 음식에는 마늘이 많아요. (Hanguk eumsigeneun maneuri manayo.) | Kore yemeklerinde çok sarımsak var.
+당근 (danggeun) | havuç | isim | 토끼가 당근을 먹어요. (Tokkiga danggeuneul meogeoyo.) | Tavşan havuç yiyor.
+오이 (oi) | salatalık | isim | 오이가 시원해요. (Oiga siwonhaeyo.) | Salatalık serinletici.
+배추 (baechu) | Çin lahanası | isim | 배추로 김치를 만들어요. (Baechuro gimchireul mandeureoyo.) | Çin lahanasıyla kimchi yapılır.
+고추 (gochu) | biber (acı) | isim | 이 고추는 아주 매워요. (I gochuneun aju maewoyo.) | Bu biber çok acı.
+토마토 (tomato) | domates | isim | 토마토로 주스를 만들어요. (Tomatoro juseureul mandeureoyo.) | Domatesten meyve suyu yapıyorum.
+## Kore yemekleri
+비빔밥 (bibimbap) | bibimbap (karışık sebzeli pilav) | isim | 전주 비빔밥이 유명해요. (Jeonju bibimbabi yumyeonghaeyo.) | Jeonju bibimbabı ünlüdür.
+불고기 (bulgogi) | bulgogi (marine edilmiş ızgara et) | isim | 불고기는 달고 맛있어요. (Bulgogineun dalgo masisseoyo.) | Bulgogi tatlı ve lezzetli.
+김밥 (gimbap) | kimbap (yosunlu pilav rulosu) | isim | 소풍 갈 때 김밥을 싸요. (Sopung gal ttae gimbabeul ssayo.) | Pikniğe giderken kimbap hazırlarız.
+떡볶이 (tteokbokki) | tteokbokki (acılı pirinç keki) | isim | 떡볶이는 길거리 음식이에요. (Tteokbokkineun gilgeori eumsigieyo.) | Tteokbokki bir sokak yemeğidir.
+삼겹살 (samgyeopsal) | samgyeopsal (ızgara domuz pastırması) | isim | 친구들과 삼겹살을 구워요. (Chingudeulgwa samgyeopsareul guwoyo.) | Arkadaşlarla samgyeopsal pişiriyoruz.
+냉면 (naengmyeon) | naengmyeon (soğuk erişte) | isim | 여름에는 냉면이 좋아요. (Yeoreumeneun naengmyeoni joayo.) | Yazın soğuk erişte iyi gider.
+된장찌개 (doenjangjjigae) | soya fasulyesi ezmeli güveç | isim | 된장찌개 하나 주세요. (Doenjangjjigae hana juseyo.) | Bir doenjang güveci lütfen.
+김치찌개 (gimchijjigae) | kimchi güveci | isim | 김치찌개가 얼큰해요. (Gimchijjigaega eolkeunhaeyo.) | Kimchi güveci acılı ve doyurucu.
+떡 (tteok) | pirinç keki (tteok) | isim | 명절에 떡을 먹어요. (Myeongjeore tteogeul meogeoyo.) | Bayramlarda pirinç keki yeriz.
+치킨 (chikin) | kızarmış tavuk | isim | 치킨을 배달시켰어요. (Chikineul baedalsikyeosseoyo.) | Kızarmış tavuk sipariş ettik.
+## Restoranda
+식당 (sikdang) | lokanta, restoran | isim | 이 식당은 싸고 맛있어요. (I sikdangeun ssago masisseoyo.) | Bu lokanta ucuz ve lezzetli.
+메뉴 (menyu) | menü | isim | 메뉴 좀 보여 주세요. (Menyu jom boyeo juseyo.) | Menüyü görebilir miyim?
+주문하다 (jumunhada) | sipariş vermek | fiil | 주문하시겠어요? (Jumunhasigesseoyo?) | Sipariş vermek ister misiniz?
+계산하다 (gyesanhada) | hesabı ödemek; hesaplamak | fiil | 제가 계산할게요. (Jega gyesanhalgeyo.) | Hesabı ben ödeyeyim.
+자리 (jari) | yer, koltuk | isim | 창가 자리 있어요? (Changga jari isseoyo?) | Pencere kenarında yer var mı?
+예약하다 (yeyakada) | rezervasyon yapmak | fiil | 저녁 일곱 시로 예약했어요. (Jeonyeok ilgop siro yeyakaesseoyo.) | Akşam yediye rezervasyon yaptım.
+포장 (pojang) | paket (götürmek için) | isim | 포장해 주세요. (Pojanghae juseyo.) | Paket yapar mısınız?
+배달 (baedal) | eve servis, teslimat | isim | 배달 음식을 시켜요. (Baedal eumsigeul sikyeoyo.) | Eve yemek sipariş ediyoruz.
+맛집 (matjip) | lezzetiyle ünlü mekân | isim | 이 근처에 맛집이 있어요? (I geuncheoe matjibi isseoyo?) | Buralarda meşhur bir lokanta var mı?
+더 (deo) | daha; biraz daha | zarf | 반찬 좀 더 주세요. (Banchan jom deo juseyo.) | Biraz daha yan yemek verir misiniz?
+## Tatlar
+맛 (mat) | tat, lezzet | isim | 맛이 어때요? (Masi eottaeyo?) | Tadı nasıl?
+맛있다 (masitda) | lezzetli olmak | sıfat | 정말 맛있어요! (Jeongmal masisseoyo!) | Gerçekten lezzetli!
+맛없다 (madeopda) | lezzetsiz olmak | sıfat | 이 빵은 맛없어요. (I ppangeun madeopseoyo.) | Bu ekmek lezzetsiz.
+맵다 (maepda) | acı olmak (매워요) | sıfat | 떡볶이가 너무 매워요. (Tteokbokkiga neomu maewoyo.) | Tteokbokki çok acı.
+짜다 (jjada) | tuzlu olmak | sıfat | 국이 좀 짜요. (Gugi jom jjayo.) | Çorba biraz tuzlu.
+달다 (dalda) | tatlı olmak | sıfat | 이 커피는 너무 달아요. (I keopineun neomu darayo.) | Bu kahve çok tatlı.
+시다 (sida) | ekşi olmak | sıfat | 김치가 익어서 셔요. (Gimchiga igeoseo syeoyo.) | Kimchi olgunlaştığı için ekşi.
+싱겁다 (singgeopda) | tatsız tuzsuz olmak (싱거워요) | sıfat | 찌개가 좀 싱거워요. (Jjigaega jom singgeowoyo.) | Güveç biraz tuzsuz.
+뜨겁다 (tteugeopda) | sıcak olmak (dokununca; 뜨거워요) | sıfat | 커피가 뜨거워요. 조심하세요. (Keopiga tteugeowoyo. Josimhaseyo.) | Kahve sıcak. Dikkat edin.
+차갑다 (chagapda) | soğuk olmak (dokununca; 차가워요) | sıfat | 물이 차가워요. (Muri chagawoyo.) | Su soğuk.
+## Yemek yemek
+먹다 (meokda) | yemek | fiil | 점심에 비빔밥을 먹었어요. (Jeomsime bibimbabeul meogeosseoyo.) | Öğlen bibimbap yedim.
+마시다 (masida) | içmek | fiil | 물을 많이 마셔요. (Mureul mani masyeoyo.) | Çok su içerim.
+배고프다 (baegopeuda) | acıkmak, aç olmak | sıfat | 배고파요. 밥 먹어요. (Baegopayo. Bap meogeoyo.) | Acıktım. Yemek yiyelim.
+배부르다 (baebureuda) | tok olmak (배불러요) | sıfat | 많이 먹어서 배불러요. (Mani meogeoseo baebulleoyo.) | Çok yedim, doydum.
+목마르다 (mongmareuda) | susamak (목말라요) | sıfat | 너무 목말라요. (Neomu mongmallayo.) | Çok susadım.
+드시다 (deusida) | yemek, içmek (saygılı) | fiil | 할아버지, 진지 드세요. (Harabeoji, jinji deuseyo.) | Dedeciğim, yemeğinizi buyurun.
+식사 (siksa) | yemek, öğün (resmî) | isim | 식사하셨어요? (Siksahasyeosseoyo?) | Yemek yediniz mi?
+간식 (gansik) | ara öğün, atıştırmalık | isim | 오후에 간식을 먹어요. (Ohue gansigeul meogeoyo.) | Öğleden sonra atıştırırım.
+맛보다 (matboda) | tadına bakmak | fiil | 한번 맛보세요. (Hanbeon matboseyo.) | Bir tadına bakın.
+요리 (yori) | yemek; yemek pişirme | isim | 요리가 제 취미예요. (Yoriga je chwimiyeyo.) | Yemek yapmak benim hobim.
+## Market ve malzemeler
+마트 (mateu) | süpermarket | isim | 마트에서 장을 봐요. (Mateueseo jangeul bwayo.) | Süpermarkette alışveriş yapıyorum.
+시장 (sijang) | pazar, çarşı | isim | 시장에서 채소를 사요. (Sijangeseo chaesoreul sayo.) | Pazardan sebze alırım.
+편의점 (pyeonuijeom) | gece gündüz açık market | isim | 편의점은 이십사 시간 열어요. (Pyeonuijeomeun isipsa sigan yeoreoyo.) | Market yirmi dört saat açık.
+장보다 (jangboda) | pazar alışverişi yapmak | fiil | 주말에 엄마와 장봐요. (Jumare eommawa jangbwayo.) | Hafta sonu annemle alışverişe gidiyorum.
+봉투 (bongtu) | poşet; zarf | isim | 봉투 필요하세요? (Bongtu piryohaseyo?) | Poşet ister misiniz?
+쌀 (ssal) | pirinç (çiğ) | isim | 쌀 십 킬로를 샀어요. (Ssal sip killoreul sasseoyo.) | On kilo pirinç aldım.
+소금 (sogeum) | tuz | isim | 소금을 조금 넣으세요. (Sogeumeul jogeum neoeuseyo.) | Biraz tuz koyun.
+설탕 (seoltang) | şeker | isim | 커피에 설탕을 안 넣어요. (Keopie seoltangeul an neoeoyo.) | Kahveye şeker koymam.
+기름 (gireum) | yağ; benzin | isim | 기름을 조금 두르세요. (Gireumeul jogeum dureuseyo.) | Tavaya biraz yağ dökün.
+간장 (ganjang) | soya sosu | isim | 간장에 찍어 드세요. (Ganjange jjigeo deuseyo.) | Soya sosuna batırarak yiyin.
+## Kahvaltı ve tatlılar
+치즈 (chijeu) | peynir | isim | 빵에 치즈를 넣어요. (Ppange chijeureul neoeoyo.) | Ekmeğe peynir koyuyorum.
+버터 (beoteo) | tereyağı | isim | 토스트에 버터를 발라요. (Toseuteue beoteoreul ballayo.) | Tosta tereyağı sürüyorum.
+잼 (jaem) | reçel | isim | 딸기잼이 달아요. (Ttalgijaemi darayo.) | Çilek reçeli tatlı.
+시리얼 (sirieol) | kahvaltılık gevrek | isim | 아이들은 시리얼을 좋아해요. (Aideureun sirieoreul joahaeyo.) | Çocuklar gevrek sever.
+토스트 (toseuteu) | tost; kızarmış ekmek | isim | 길에서 토스트를 사 먹어요. (Gireseo toseuteureul sa meogeoyo.) | Sokakta tost alıp yiyorum.
+과자 (gwaja) | bisküvi, cips, atıştırmalık | isim | 과자를 너무 많이 먹었어요. (Gwajareul neomu mani meogeosseoyo.) | Çok fazla abur cubur yedim.
+케이크 (keikeu) | pasta, kek | isim | 생일 케이크를 샀어요. (Saengil keikeureul sasseoyo.) | Doğum günü pastası aldım.
+아이스크림 (aiseukeurim) | dondurma | isim | 아이스크림이 녹아요. (Aiseukeurimi nogayo.) | Dondurma eriyor.
+초콜릿 (chokollit) | çikolata | isim | 초콜릿은 너무 달아요. (Chokolliseun neomu darayo.) | Çikolata çok tatlı.
+빙수 (bingsu) | bingsu (tatlı buz tatlısı) | isim | 여름에 팥빙수를 먹어요. (Yeoreume patbingsureul meogeoyo.) | Yazın kırmızı fasulyeli bingsu yeriz.
