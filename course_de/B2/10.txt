@@ -1,0 +1,111 @@
+# UNIT: Spor ve boş zaman | Spor dalları, müsabaka, antrenman, hobiler
+## Spor dalları
+die Leichtathletik | atletizm | isim (d) | In der Leichtathletik gibt es Disziplinen wie Laufen, Springen und Werfen. | Atletizmde koşu, atlama ve atma gibi branşlar vardır.
+das Turnen | jimnastik | isim (o) | Schon mit fünf Jahren ging meine Tochter zum Turnen. | Kızım daha beş yaşında jimnastiğe gidiyordu.
+der Handball | hentbol | isim (e) | Handball ist in Deutschland nach Fußball sehr beliebt. | Hentbol Almanya'da futboldan sonra çok popüler.
+der Volleyball | voleybol | isim (e) | Im Sommer spielen wir am Strand gern Volleyball. | Yazın sahilde voleybol oynamayı severiz.
+das Eishockey | buz hokeyi | isim (o) | In der Schweiz und in Österreich ist Eishockey ein Volkssport. | İsviçre ve Avusturya'da buz hokeyi bir halk sporudur.
+der Langlauf | kayaklı koşu | isim (e) | Im Winter macht mein Vater jedes Wochenende Langlauf im Schwarzwald. | Babam kışın her hafta sonu Kara Orman'da kayaklı koşu yapıyor.
+das Rudern | kürek sporu | isim (o) | Rudern auf dem See ist ein gutes Training für den ganzen Körper. | Gölde kürek çekmek bütün vücut için iyi bir antrenmandır.
+das Boxen | boks | isim (o) | Seit einem Jahr geht sie zweimal pro Woche zum Boxen. | Bir yıldır haftada iki kez boksa gidiyor.
+der Kampfsport (die Kampfsportarten) | dövüş sporu | isim (e) | Judo und Karate sind beliebte Kampfsportarten für Kinder. | Judo ve karate çocuklar için popüler dövüş sporlarıdır.
+die Sportart (die Sportarten) | spor dalı | isim (d) | Welche Sportart würdest du gern einmal ausprobieren? | Hangi spor dalını bir kez denemek isterdin?
+## Müsabakalar
+der Wettkampf (die Wettkämpfe) | yarışma, müsabaka | isim (e) | Vor dem ersten Wettkampf war die junge Schwimmerin sehr nervös. | Genç yüzücü ilk müsabakasından önce çok gergindi.
+das Turnier (die Turniere) | turnuva | isim (o) | Unsere Mannschaft hat das Turnier ohne eine einzige Niederlage gewonnen. | Takımımız turnuvayı tek bir yenilgi almadan kazandı.
+das Finale (die Finale) | final | isim (o) | Im Finale stehen sich zwei Teams aus Österreich gegenüber. | Finalde Avusturya'dan iki takım karşı karşıya geliyor.
+das Halbfinale (die Halbfinale) | yarı final | isim (o) | Leider hat unser Verein im Halbfinale knapp verloren. | Kulübümüz maalesef yarı finalde kıl payı kaybetti.
+sich qualifizieren | elemeyi geçmek | fiil · dönüşlü | Die Nationalmannschaft hat sich für die Weltmeisterschaft qualifiziert. | Milli takım dünya şampiyonasına katılma hakkı kazandı.
+der Titel (die Titel) | unvan, şampiyonluk | isim (e) | Der Verein hat den Titel schon zum dritten Mal gewonnen. | Kulüp şampiyonluğu üçüncü kez kazandı.
+der Pokal (die Pokale) | kupa | isim (e) | Der Kapitän hielt den Pokal stolz in die Höhe. | Kaptan kupayı gururla havaya kaldırdı.
+der Konkurrent (die Konkurrenten) | rakip | isim (e) | Im Ziel lag sie nur eine Sekunde vor ihrer größten Konkurrentin. | Bitişte en büyük rakibinin sadece bir saniye önündeydi.
+der Rückstand | geride olma, fark | isim (e) | Nach der Halbzeit hat das Team den Rückstand noch aufgeholt. | Takım devre arasından sonra farkı yine de kapattı.
+ausscheiden (schied aus, ausgeschieden) | elenmek | fiil · düzensiz | Der Favorit ist schon in der ersten Runde ausgeschieden. | Favori takım daha ilk turda elendi.
+## Futbol
+der Schiedsrichter (die Schiedsrichter) | hakem | isim (e) | Der Schiedsrichter hat das Tor wegen Abseits nicht gegeben. | Hakem golü ofsayt yüzünden vermedi.
+das Foul (die Fouls) | faul | isim (o) | Nach dem harten Foul musste der Spieler vom Platz. | Sert fauldan sonra oyuncu sahayı terk etmek zorunda kaldı.
+der Elfmeter (die Elfmeter) | penaltı | isim (e) | In der letzten Minute verschoss der Stürmer einen Elfmeter. | Son dakikada forvet bir penaltıyı kaçırdı.
+das Abseits | ofsayt | isim (o) | Kannst du mir bitte die Abseitsregel einfach erklären? | Bana ofsayt kuralını basitçe açıklayabilir misin?
+die Halbzeit (die Halbzeiten) | devre | isim (d) | Zur Halbzeit stand es zwei zu null für die Gäste. | Devre arasında skor deplasman takımı lehine iki sıfırdı.
+die Verlängerung (die Verlängerungen) | uzatma | isim (d) | Das Spiel ging in die Verlängerung und dann ins Elfmeterschießen. | Maç uzatmaya, sonra da penaltı atışlarına gitti.
+der Torwart (die Torwarte) | kaleci | isim (e) | Der Torwart hat im Spiel drei Elfmeter gehalten. | Kaleci maçta üç penaltı kurtardı.
+der Stürmer (die Stürmer) | forvet | isim (e) | Der neue Stürmer hat in seinem ersten Spiel zwei Tore geschossen. | Yeni forvet ilk maçında iki gol attı.
+der Verteidiger (die Verteidiger) | defans oyuncusu | isim (e) | Die Verteidiger haben den Ball im letzten Moment geklärt. | Defans oyuncuları topu son anda uzaklaştırdı.
+der Anpfiff | başlama düdüğü | isim (e) | Schon kurz nach dem Anpfiff fiel das erste Tor. | Başlama düdüğünden kısa süre sonra ilk gol geldi.
+## Antrenman
+die Kondition | kondisyon | isim (d) | Für einen Marathon braucht man eine sehr gute Kondition. | Bir maraton için çok iyi bir kondisyon gerekir.
+die Ausdauer | dayanıklılık | isim (d) | Mit regelmäßigem Joggen verbessert man seine Ausdauer. | Düzenli koşuyla insan dayanıklılığını artırır.
+das Krafttraining | kuvvet antrenmanı | isim (o) | Zweimal pro Woche mache ich im Fitnessstudio Krafttraining. | Haftada iki kez spor salonunda kuvvet antrenmanı yapıyorum.
+das Aufwärmen | ısınma | isim (o) | Ohne Aufwärmen kann man sich beim Sport leicht verletzen. | Isınmadan spor yaparken kolayca sakatlanılabilir.
+sich dehnen | esneme yapmak | fiil · dönüşlü | Nach dem Laufen sollte man sich immer gut dehnen. | Koştuktan sonra her zaman iyice esneme yapmak gerekir.
+der Trainingsplan (die Trainingspläne) | antrenman programı | isim (e) | Der Trainer hat für jeden Spieler einen eigenen Trainingsplan erstellt. | Antrenör her oyuncu için ayrı bir antrenman programı hazırladı.
+die Fitness | form, zindelik | isim (d) | Für seine Fitness fährt er jeden Tag mit dem Rad zur Arbeit. | Formda kalmak için her gün işe bisikletle gidiyor.
+das Intervalltraining | aralıklı antrenman | isim (o) | Beim Intervalltraining wechseln sich schnelle und langsame Phasen ab. | Aralıklı antrenmanda hızlı ve yavaş evreler birbirini izler.
+die Leistungssteigerung | performans artışı | isim (d) | Nach drei Monaten Training sieht man eine deutliche Leistungssteigerung. | Üç aylık antrenmandan sonra belirgin bir performans artışı görülüyor.
+die Regeneration | toparlanma | isim (d) | Schlaf ist für die Regeneration nach dem Sport sehr wichtig. | Uyku sporun ardından toparlanma için çok önemlidir.
+## Başarı ve rekor
+der Rekord (die Rekorde) | rekor | isim (e) | Die Läuferin hat einen neuen deutschen Rekord aufgestellt. | Koşucu yeni bir Almanya rekoru kırdı.
+der Weltmeister (die Weltmeister) | dünya şampiyonu | isim (e) | Mit zwanzig Jahren wurde er zum ersten Mal Weltmeister. | Yirmi yaşında ilk kez dünya şampiyonu oldu.
+die Medaille (die Medaillen) | madalya | isim (d) | Bei den Spielen holte das kleine Land drei Medaillen. | Küçük ülke oyunlarda üç madalya kazandı.
+der Sieger (die Sieger) | galip, kazanan | isim (e) | Der Sieger des Rennens bekommt einen Pokal und tausend Euro. | Yarışın galibi bir kupa ve bin euro alıyor.
+der Verlierer (die Verlierer) | kaybeden | isim (e) | Auch die Verlierer wurden vom Publikum mit Applaus gefeiert. | Kaybedenler de seyirci tarafından alkışlarla kutlandı.
+die Bestzeit (die Bestzeiten) | en iyi derece | isim (d) | Beim Stadtlauf ist sie eine persönliche Bestzeit gelaufen. | Şehir koşusunda kişisel en iyi derecesini yaptı.
+die Olympischen Spiele | Olimpiyat Oyunları | ifade | Die Olympischen Spiele finden alle vier Jahre statt. | Olimpiyat Oyunları dört yılda bir yapılır.
+die Weltmeisterschaft (die Weltmeisterschaften) | dünya şampiyonası | isim (d) | Während der Weltmeisterschaft schauen alle zusammen im Biergarten. | Dünya şampiyonası sırasında herkes bira bahçesinde birlikte izliyor.
+der Profi (die Profis) | profesyonel | isim (e) | Mit achtzehn Jahren wurde der Tennisspieler Profi. | Tenisçi on sekiz yaşında profesyonel oldu.
+der Amateur (die Amateure) | amatör | isim (e) | In unserem Verein spielen nur Amateure, aber mit viel Freude. | Kulübümüzde sadece amatörler oynuyor ama büyük bir keyifle.
+## Spor ahlakı ve sakatlık
+die Sportverletzung (die Sportverletzungen) | spor yaralanması | isim (d) | Die häufigste Sportverletzung beim Fußball betrifft das Knie. | Futbolda en sık spor yaralanması dizde olur.
+das Doping | doping | isim (o) | Wegen Doping wurde dem Radfahrer der Titel aberkannt. | Bisikletçinin şampiyonluğu doping yüzünden geri alındı.
+die Fairness | centilmenlik, adil oyun | isim (d) | Fairness ist im Sport genauso wichtig wie der Sieg. | Sporda centilmenlik zafer kadar önemlidir.
+die Rote Karte | kırmızı kart | ifade | Nach dem groben Foul zeigte der Schiedsrichter die Rote Karte. | Kaba fauldan sonra hakem kırmızı kart gösterdi.
+sperren | cezalandırmak (men etmek); kapatmak | fiil | Der Spieler wurde für drei Spiele gesperrt. | Oyuncu üç maç men cezası aldı.
+die Sperre (die Sperren) | men cezası | isim (d) | Nach der Sperre darf er endlich wieder spielen. | Men cezasından sonra nihayet yeniden oynayabilir.
+schummeln | hile yapmak | fiil | Beim Kartenspielen schummelt mein kleiner Bruder immer. | Küçük kardeşim kart oynarken hep hile yapar.
+der Teamgeist | takım ruhu | isim (e) | Ohne Teamgeist gewinnt man kein großes Turnier. | Takım ruhu olmadan büyük bir turnuva kazanılmaz.
+der Kreuzbandriss (die Kreuzbandrisse) | çapraz bağ yırtığı | isim (e) | Nach einem Kreuzbandriss fällt die Spielerin sechs Monate aus. | Çapraz bağ yırtığından sonra oyuncu altı ay sahalardan uzak kalacak.
+verletzungsbedingt | sakatlık nedeniyle | sıfat | Die Torhüterin fehlt verletzungsbedingt für mehrere Wochen. | Kaleci sakatlık nedeniyle birkaç hafta yok.
+## Hobiler
+der Modellbau | maket yapımı | isim (e) | Mein Opa beschäftigt sich seit Jahren mit Modellbau. | Dedem yıllardır maket yapımıyla uğraşıyor.
+töpfern | çömlek yapmak | fiil | Im Kurs haben wir eigene Tassen und Teller getöpfert. | Kursta kendi fincan ve tabaklarımızı yaptık.
+das Brettspiel (die Brettspiele) | kutu oyunu | isim (o) | Am Sonntag spielen wir mit der Familie gern ein Brettspiel. | Pazar günleri ailecek kutu oyunu oynamayı severiz.
+das Schach | satranç | isim (o) | Mein Sohn spielt seit zwei Jahren im Schachverein. | Oğlum iki yıldır satranç kulübünde oynuyor.
+das Puzzle (die Puzzles) | yapboz | isim (o) | Für das Puzzle mit tausend Teilen brauchten wir eine Woche. | Bin parçalık yapboz için bir haftaya ihtiyacımız oldu.
+häkeln | tığ işi yapmak | fiil | Meine Tante häkelt für jedes Baby in der Familie eine Decke. | Teyzem ailedeki her bebek için tığla bir battaniye örüyor.
+die Handarbeit (die Handarbeiten) | el işi | isim (d) | Diese Tischdecke ist eine wunderschöne Handarbeit aus Tirol. | Bu masa örtüsü Tirol'den harika bir el işi.
+das Heimwerken | ev tamiratı hobisi | isim (o) | Heimwerken ist bei vielen Deutschen ein beliebtes Hobby. | Ev tamiratı birçok Alman'ın sevdiği bir hobidir.
+das Kartenspiel (die Kartenspiele) | iskambil oyunu | isim (o) | Jass ist ein typisches Kartenspiel in der Schweiz. | Jass İsviçre'ye özgü tipik bir iskambil oyunudur.
+der Zeitvertreib | vakit geçirme uğraşı | isim (e) | Lesen ist im Winter mein liebster Zeitvertreib. | Kışın en sevdiğim vakit geçirme uğraşı okumaktır.
+## Doğa ve kış sporları
+das Bergsteigen | dağcılık | isim (o) | Bergsteigen ist gefährlich, wenn man die Route nicht gut kennt. | Rotayı iyi bilmeyen biri için dağcılık tehlikelidir.
+das Tauchen | dalış | isim (o) | Im Urlaub in Ägypten haben wir einen Kurs im Tauchen gemacht. | Mısır tatilinde bir dalış kursuna katıldık.
+das Kajak (die Kajaks) | kano | isim (o) | Mit dem Kajak sind wir zwei Tage auf der Donau gefahren. | Kanoyla iki gün Tuna'da yol aldık.
+der Skilift (die Skilifte) | teleski | isim (e) | Am Skilift mussten wir fast eine halbe Stunde warten. | Teleskide neredeyse yarım saat beklememiz gerekti.
+die Piste (die Pisten) | kayak pisti | isim (d) | Die schwarze Piste ist nur für sehr gute Skifahrer. | Siyah pist sadece çok iyi kayakçılar içindir.
+das Snowboard (die Snowboards) | snowboard | isim (o) | Mein Sohn fährt lieber Snowboard als Ski. | Oğlum kayaktan çok snowboard yapmayı seviyor.
+das Mountainbike (die Mountainbikes) | dağ bisikleti | isim (o) | Mit dem Mountainbike fahren wir die steilen Waldwege hinunter. | Dağ bisikletiyle dik orman yollarından aşağı iniyoruz.
+das Gleitschirmfliegen | yamaç paraşütü | isim (o) | Beim Gleitschirmfliegen hat man eine fantastische Aussicht auf die Alpen. | Yamaç paraşütünde Alplere harika bir manzara vardır.
+der Rodel (die Rodel) | kızak | isim (e) | Mit dem Rodel fahren die Kinder den kleinen Hügel hinunter. | Çocuklar kızakla küçük tepeden aşağı kayıyor.
+die Skihütte (die Skihütten) | kayak kulübesi | isim (d) | Mittags essen wir in der Skihütte einen Kaiserschmarrn. | Öğlen kayak kulübesinde Kaiserschmarrn yiyoruz.
+## Taraftar ve seyirci
+anfeuern | tezahürat yapmak | fiil | Die Fans feuerten ihre Mannschaft bis zur letzten Minute an. | Taraftarlar takımlarına son dakikaya kadar tezahürat yaptı.
+jubeln | sevinçle bağırmak | fiil | Nach dem Tor jubelte das ganze Stadion. | Golden sonra bütün stadyum sevinçle bağırdı.
+pfeifen (pfiff, gepfiffen) | ıslık çalmak; düdük çalmak | fiil · düzensiz | Die Zuschauer pfiffen, weil der Schiedsrichter kein Foul gab. | Hakem faul vermediği için seyirciler ıslık çaldı.
+die Fankurve (die Fankurven) | taraftar tribünü | isim (d) | In der Fankurve war die Stimmung das ganze Spiel über toll. | Taraftar tribününde atmosfer bütün maç boyunca harikaydı.
+das Trikot (die Trikots) | forma | isim (o) | Zum Geburtstag hat er ein Trikot seines Lieblingsvereins bekommen. | Doğum günü için en sevdiği kulübün formasını aldı.
+die Saison (die Saisons) | sezon | isim (d) | Am Ende der Saison stand der Verein auf dem ersten Platz. | Sezon sonunda kulüp birinci sıradaydı.
+der Spieltag (die Spieltage) | maç günü, hafta | isim (e) | Am letzten Spieltag entscheidet sich, wer Meister wird. | Kimin şampiyon olacağı son haftada belli olacak.
+der Anhänger (die Anhänger) | taraftar, destekçi | isim (e) | Tausende Anhänger begleiteten die Mannschaft zum Auswärtsspiel. | Binlerce taraftar takıma deplasman maçında eşlik etti.
+das Heimspiel (die Heimspiele) | iç saha maçı | isim (o) | Das nächste Heimspiel ist schon seit Wochen ausverkauft. | Bir sonraki iç saha maçının biletleri haftalardır tükendi.
+die Tabelle anführen | ligde lider olmak | ifade | Seit drei Wochen führt unser Verein die Tabelle an. | Kulübümüz üç haftadır ligde lider.
+## Boş zaman etkinlikleri
+die Freizeitgestaltung | boş zamanı değerlendirme | isim (d) | Die Stadt bietet Jugendlichen viele Angebote zur Freizeitgestaltung. | Belediye gençlere boş zamanı değerlendirme için birçok olanak sunuyor.
+der Freizeitpark (die Freizeitparks) | eğlence parkı | isim (e) | In den Ferien fahren wir mit den Kindern in einen Freizeitpark. | Tatilde çocuklarla bir eğlence parkına gidiyoruz.
+der Spieleabend (die Spieleabende) | oyun akşamı | isim (e) | Jeden Freitag gibt es bei uns einen Spieleabend mit Freunden. | Her cuma bizde arkadaşlarla bir oyun akşamı oluyor.
+das Ausflugsziel (die Ausflugsziele) | gezi yeri | isim (o) | Der Königssee ist ein beliebtes Ausflugsziel in Bayern. | Königssee Bavyera'da sevilen bir gezi yeridir.
+der Stammtisch (die Stammtische) | müdavim masası, düzenli buluşma | isim (e) | Jeden Donnerstag trifft sich der Stammtisch im Gasthaus am Markt. | Müdavimler her perşembe pazar yerindeki lokantada buluşuyor.
+der Sportverein (die Sportvereine) | spor kulübü | isim (e) | In unserem Dorf gibt es einen Sportverein mit fünf Abteilungen. | Köyümüzde beş branşlı bir spor kulübü var.
+die Freizeitaktivität (die Freizeitaktivitäten) | boş zaman etkinliği | isim (d) | Wandern ist in Österreich die beliebteste Freizeitaktivität. | Doğa yürüyüşü Avusturya'da en sevilen boş zaman etkinliğidir.
+der Kurzurlaub (die Kurzurlaube) | kısa tatil | isim (e) | Für einen Kurzurlaub fahren wir übers Wochenende nach Prag. | Kısa bir tatil için hafta sonu Prag'a gidiyoruz.
+die Kletterhalle (die Kletterhallen) | tırmanma salonu | isim (d) | Wenn es regnet, gehen wir lieber in die Kletterhalle. | Yağmur yağınca tırmanma salonuna gitmeyi tercih ediyoruz.
+der Tanzkurs (die Tanzkurse) | dans kursu | isim (e) | Vor der Hochzeit haben wir zusammen einen Tanzkurs gemacht. | Düğünden önce birlikte bir dans kursuna gittik.
