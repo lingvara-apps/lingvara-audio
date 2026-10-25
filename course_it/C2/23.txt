@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## Borsa terimleri
+il titolo azionario | hisse senedi | isim (e) | Ha investito i risparmi in titoli azionari di aziende energetiche. | Birikimlerini enerji şirketlerinin hisse senetlerine yatırdı.
+il buono fruttifero | faizli tasarruf bonosu | isim (e) | La nonna regalava ai nipoti un buono fruttifero postale per ogni compleanno. | Büyükanne torunlarına her doğum gününde postanenin faizli tasarruf bonosunu hediye ederdi.
+la cedola | kupon (tahvil faizi) | isim (d) | Ogni sei mesi l'obbligazione paga una cedola del due per cento. | Tahvil her altı ayda bir yüzde iki kupon ödüyor.
+la plusvalenza | sermaye kazancı, değer artışı | isim (d) | Vendendo l'appartamento dopo dieci anni ha realizzato una notevole plusvalenza. | Daireyi on yıl sonra satarak kayda değer bir değer artışı kazancı elde etti.
+la minusvalenza | değer kaybı (zarar) | isim (d) | La vendita delle azioni ha generato una minusvalenza di mille euro. | Hisselerin satışı bin avroluk bir değer kaybı doğurdu.
+il listino | borsa kotasyonu, fiyat listesi | isim (e) | La società entrerà nel listino di Piazza Affari il mese prossimo. | Şirket gelecek ay Milano borsasının kotasyonuna girecek.
+l'offerta pubblica d'acquisto (d) | halka açık satın alma teklifi | isim (d) | Il gruppo francese ha lanciato un'offerta pubblica d'acquisto sulla banca. | Fransız grup banka için halka açık bir satın alma teklifi başlattı.
+la capitalizzazione | piyasa değeri | isim (d) | La capitalizzazione dell'azienda ha superato i dieci miliardi. | Şirketin piyasa değeri on milyarı aştı.
+l'agenzia di rating (d) | kredi derecelendirme kuruluşu | isim (d) | L'agenzia di rating ha abbassato il giudizio sul debito del paese. | Kredi derecelendirme kuruluşu ülkenin borç notunu düşürdü.
+lo spread | getiri farkı (spread) | isim (e) | Lo spread tra titoli italiani e tedeschi preoccupa i mercati. | İtalyan ve Alman tahvilleri arasındaki getiri farkı piyasaları endişelendiriyor.
+## Vergilendirme
+l'imponibile (e) | vergi matrahı | isim (e) | L'imponibile si calcola sottraendo le spese deducibili dal reddito. | Vergi matrahı indirilebilir giderler gelirden düşülerek hesaplanır.
+l'aliquota (d) | vergi oranı | isim (d) | Il governo ha ridotto l'aliquota per i redditi più bassi. | Hükümet en düşük gelirler için vergi oranını düşürdü.
+lo scaglione di reddito | gelir dilimi | isim (e) | Nel sistema italiano ogni scaglione di reddito ha un'aliquota diversa. | İtalyan sisteminde her gelir diliminin farklı bir vergi oranı var.
+la no tax area | vergiden muaf gelir eşiği | isim (d) | Chi guadagna meno di ottomila euro rientra nella no tax area. | Sekiz bin avrodan az kazananlar vergiden muaf gelir eşiğine girer.
+l'imposta sul valore aggiunto (d) | katma değer vergisi | isim (d) | L'imposta sul valore aggiunto in Italia è del ventidue per cento. | İtalya'da katma değer vergisi yüzde yirmi ikidir.
+il gettito | vergi hasılatı | isim (e) | Il gettito fiscale è aumentato grazie alla lotta all'evasione. | Vergi hasılatı kaçakçılıkla mücadele sayesinde arttı.
+la cedolare secca | kira gelirinde sabit oranlı vergi | isim (d) | Molti proprietari scelgono la cedolare secca sugli affitti. | Pek çok mal sahibi kira gelirlerinde sabit oranlı vergiyi seçiyor.
+l'imposta sul reddito (d) | gelir vergisi | isim (d) | L'imposta sul reddito è progressiva e cresce con il guadagno. | Gelir vergisi artan oranlıdır ve kazançla birlikte büyür.
+il sostituto d'imposta | stopaj yapan (işveren) | isim (e) | Il datore di lavoro agisce come sostituto d'imposta e trattiene le tasse. | İşveren stopaj sorumlusu olarak vergileri keser.
+l'elusione fiscale (d) | vergiden yasal kaçınma | isim (d) | L'elusione fiscale sfrutta le lacune della legge senza violarla. | Vergiden kaçınma yasayı çiğnemeden boşluklarından yararlanır.
+## Kredi ve borçlanma
+il tasso annuo effettivo globale | yıllık toplam maliyet oranı | isim (e) | Prima di firmare, confronta il tasso annuo effettivo globale delle varie offerte. | İmzalamadan önce farklı tekliflerin yıllık toplam maliyet oranını karşılaştır.
+il piano di ammortamento | geri ödeme planı | isim (e) | La banca ci ha consegnato il piano di ammortamento del mutuo. | Banka bize konut kredisinin geri ödeme planını verdi.
+la fideiussione | kefalet | isim (d) | Per il prestito la banca ha chiesto una fideiussione dei genitori. | Kredi için banka annesiyle babasının kefaletini istedi.
+il fido bancario | banka kredi limiti | isim (e) | L'azienda ha ottenuto un fido bancario per pagare i fornitori. | Şirket tedarikçileri ödemek için bir banka kredi limiti aldı.
+il merito creditizio | kredi notu, kredibilite | isim (e) | Con un buon merito creditizio si ottengono tassi migliori. | İyi bir kredi notuyla daha iyi faiz oranları alınır.
+il garante | kefil | isim (e) | Per affittare l'appartamento serviva un garante con reddito fisso. | Daireyi kiralamak için sabit gelirli bir kefil gerekiyordu.
+la sofferenza bancaria | sorunlu kredi, takipteki alacak | isim (d) | Le sofferenze bancarie sono cresciute durante la crisi. | Kriz sırasında takipteki alacaklar arttı.
+il microcredito | mikrokredi | isim (e) | Il microcredito aiuta le donne a aprire piccole attività. | Mikrokredi kadınların küçük işletmeler açmasına yardım ediyor.
+la surroga del mutuo | kredi taşıma (başka bankaya) | isim (d) | Con la surroga del mutuo abbiamo ottenuto un tasso più basso. | Kredi taşımayla daha düşük bir faiz oranı elde ettik.
+il finanziamento a tasso zero | sıfır faizli kredi | isim (e) | Il negozio offre un finanziamento a tasso zero per gli elettrodomestici. | Mağaza beyaz eşyalar için sıfır faizli kredi sunuyor.
+## Yatırım ve birikim
+il portafoglio titoli | menkul kıymet portföyü | isim (e) | Il consulente ha riequilibrato il mio portafoglio titoli. | Danışman menkul kıymet portföyümü yeniden dengeledi.
+la diversificazione | çeşitlendirme | isim (d) | Secondo gli esperti, la diversificazione riduce il rischio degli investimenti. | Uzmanlara göre çeşitlendirme yatırımların riskini azaltır.
+il fondo comune d'investimento | yatırım fonu | isim (e) | Ogni mese versa cento euro in un fondo comune d'investimento. | Her ay bir yatırım fonuna yüz avro yatırıyor.
+il piano di accumulo | birikim planı | isim (e) | Con un piano di accumulo si investe una piccola cifra ogni mese. | Birikim planıyla her ay küçük bir miktar yatırılır.
+la previdenza complementare | bireysel emeklilik | isim (d) | Molti giovani aderiscono alla previdenza complementare per il futuro. | Pek çok genç gelecek için bireysel emekliliğe katılıyor.
+il consulente finanziario | finansal danışman | isim (e) | Prima di investire ho chiesto consiglio a un consulente finanziario. | Yatırım yapmadan önce bir finansal danışmana danıştım.
+la propensione al rischio | risk iştahı | isim (d) | La sua propensione al rischio è bassa: preferisce i titoli di Stato. | Risk iştahı düşük, devlet tahvillerini tercih ediyor.
+l'orizzonte temporale (e) | yatırım vadesi | isim (e) | Con un orizzonte temporale lungo si possono tollerare più oscillazioni. | Uzun bir yatırım vadesiyle daha fazla dalgalanma tolere edilebilir.
+il conto titoli | menkul kıymet hesabı | isim (e) | Per comprare azioni bisogna aprire un conto titoli in banca. | Hisse almak için bankada bir menkul kıymet hesabı açmak gerekir.
+l'interesse composto (e) | bileşik faiz | isim (e) | Grazie all'interesse composto i risparmi crescono nel tempo. | Bileşik faiz sayesinde birikimler zamanla büyür.
+## Soyut fiiller
+ascrivere (ascritto) | atfetmek, saymak | fiil · düzensiz | Il successo va ascritto soprattutto al lavoro di squadra. | Başarı her şeyden önce ekip çalışmasına atfedilmelidir.
+inficiare | geçersiz kılmak, zayıflatmak | fiil | Un errore nei dati potrebbe inficiare l'intera ricerca. | Verilerdeki bir hata bütün araştırmayı geçersiz kılabilir.
+avallare | onaylamak, desteklemek | fiil | Il consiglio non ha voluto avallare una scelta così rischiosa. | Kurul bu kadar riskli bir seçimi onaylamak istemedi.
+comprovare | kanıtlamak, belgelemek | fiil | I documenti comprovano la sua presenza a Roma quel giorno. | Belgeler o gün Roma'da bulunduğunu kanıtlıyor.
+suffragare | desteklemek (kanıtla) | fiil | Fino a oggi nessun dato scientifico serio suffraga questa teoria. | Bugüne kadar hiçbir ciddi bilimsel veri bu kuramı desteklemiyor.
+enucleare | özünü çıkarmak, ortaya koymak | fiil | Il saggio enuclea i punti essenziali del pensiero di Vico. | Deneme Vico'nun düşüncesinin temel noktalarını ortaya koyuyor.
+esplicare | yerine getirmek, göstermek (etki) | fiil | Il farmaco esplica la sua azione dopo circa un'ora. | İlaç etkisini yaklaşık bir saat sonra gösterir.
+sottendere (sotteso) | altında yatmak, içermek | fiil · düzensiz | Dietro la sua proposta si sottende un'idea di società diversa. | Önerisinin altında farklı bir toplum fikri yatıyor.
+permeare | işlemek, nüfuz etmek | fiil | Il pessimismo permea tutte le poesie dell'ultima raccolta. | Karamsarlık son derlemenin bütün şiirlerine işlemiş.
+scaturire | kaynaklanmak, doğmak | fiil | Dal lungo dibattito pubblico sono scaturite proposte molto interessanti. | Uzun kamusal tartışmadan çok ilginç öneriler doğdu.
+## Soyut sıfatlar
+intrinseco | özünde olan, içkin | sıfat | Il valore intrinseco dell'opera supera di molto il suo prezzo. | Eserin özündeki değer fiyatını çok aşıyor.
+ineludibile | kaçınılmaz | sıfat | Il confronto con il passato è un passaggio ineludibile. | Geçmişle yüzleşmek kaçınılmaz bir aşamadır.
+precipuo | başlıca, asıl | sıfat | Lo scopo precipuo dell'associazione è la tutela del paesaggio. | Derneğin başlıca amacı peyzajın korunmasıdır.
+pregnante | anlam yüklü, yoğun | sıfat | Il film si chiude con un'immagine pregnante e silenziosa. | Film anlam yüklü ve sessiz bir görüntüyle bitiyor.
+emblematico | simgesel, örnek niteliğinde | sıfat | La sua storia è emblematica delle difficoltà dei giovani italiani. | Onun öyküsü İtalyan gençlerinin zorluklarının simgesidir.
+cogente | bağlayıcı, zorlayıcı | sıfat | Le norme europee sono cogenti per tutti gli Stati membri. | Avrupa kuralları bütün üye devletler için bağlayıcıdır.
+aleatorio | belirsiz, rastlantısal | sıfat | Il guadagno di un artista è spesso aleatorio e irregolare. | Bir sanatçının kazancı çoğu zaman belirsiz ve düzensizdir.
+latente | gizli, örtük | sıfat | Tra i due fratelli c'era un conflitto latente da anni. | İki kardeş arasında yıllardır örtük bir çatışma vardı.
+ambivalente | çift değerli, ikircikli | sıfat | Ha un rapporto ambivalente con la città in cui è nato. | Doğduğu şehirle ikircikli bir ilişkisi var.
+contingente | geçici, duruma bağlı | sıfat | Le difficoltà attuali sono contingenti e non strutturali. | Mevcut zorluklar yapısal değil, geçicidir.
+## Soyut kavramlar
+il paradigma | paradigma | isim (e) | La scoperta di Galileo segnò un cambio di paradigma nella scienza. | Galileo'nun keşfi bilimde bir paradigma değişikliğine işaret etti.
+la tassonomia | sınıflandırma bilimi | isim (d) | Linneo creò una tassonomia ancora usata per piante e animali. | Linnaeus bitkiler ve hayvanlar için hâlâ kullanılan bir sınıflandırma yarattı.
+l'antinomia (d) | çatışkı, iki zıt yargı | isim (d) | Il filosofo analizza l'antinomia tra libertà e sicurezza. | Filozof özgürlük ile güvenlik arasındaki çatışkıyı inceliyor.
+la dicotomia | ikilik, ikiye bölünme | isim (d) | Il libro supera la vecchia dicotomia tra natura e cultura. | Kitap doğa ile kültür arasındaki eski ikiliği aşıyor.
+la ratio | gerekçe, temel mantık (hukuk) | isim (d) | La ratio della norma è proteggere i consumatori più deboli. | Kuralın temel mantığı en zayıf tüketicileri korumaktır.
+l'epifenomeno (e) | ikincil olgu, yan görüngü | isim (e) | Secondo l'autore la crisi politica è un epifenomeno di quella economica. | Yazara göre siyasi kriz ekonomik krizin ikincil bir görüngüsüdür.
+l'entropia (d) | entropi, düzensizlik | isim (d) | Nel romanzo la famiglia scivola lentamente verso l'entropia. | Romanda aile yavaş yavaş düzensizliğe doğru kayıyor.
+la serendipità | rastlantısal keşif, şans eseri bulma | isim (d) | La penicillina fu scoperta per serendipità in un laboratorio disordinato. | Penisilin dağınık bir laboratuvarda şans eseri keşfedildi.
+l'idiosincrasia (d) | kişisel tuhaflık; tahammülsüzlük | isim (d) | Ha una vera idiosincrasia per le riunioni inutili. | Gereksiz toplantılara karşı gerçek bir tahammülsüzlüğü var.
+il sostrato | alt katman, temel | isim (e) | Il dialetto conserva un sostrato di parole di origine greca. | Lehçe Yunanca kökenli sözcüklerden oluşan bir alt katmanı koruyor.
+## Entelektüel tipler
+il dotto | âlim, bilgin | isim (e) | I dotti del Cinquecento scrivevano ancora in latino. | On altıncı yüzyıl bilginleri hâlâ Latince yazıyordu.
+il visionario | vizyoner, hayalperest | isim (e) | Tutti lo prendevano per un visionario, ma le sue idee si sono realizzate. | Herkes onu hayalperest sanıyordu ama fikirleri gerçekleşti.
+l'iconoclasta (e) | ikonoklast, put kırıcı | isim (e) | Il giovane regista è un iconoclasta che sfida ogni tradizione. | Genç yönetmen her geleneğe meydan okuyan bir put kırıcı.
+l'epigono (e) | taklitçi ardıl | isim (e) | Dopo il grande maestro vennero solo epigoni senza originalità. | Büyük ustadan sonra yalnızca özgünlükten yoksun taklitçiler geldi.
+il neofita | acemi, yeni katılan | isim (e) | Da neofita del golf, ha perso dieci palline nella prima buca. | Golfe yeni başlayan biri olarak ilk delikte on top kaybetti.
+il pedante | ukala, kılı kırk yaran bilgiç | isim (e) | Quel pedante corregge ogni accento nelle email dei colleghi. | O bilgiç meslektaşlarının e-postalarındaki her vurguyu düzeltiyor.
+il velleitario | hayalperest, gerçekleşmez işlere kalkışan | isim (e) | È un velleitario che progetta mille cose e non ne finisce nessuna. | Bin bir şey tasarlayıp hiçbirini bitirmeyen bir hayalperest.
+l'arrivista (e) | kariyerist, her yolu mubah gören | isim (e) | L'arrivista non si fa scrupoli pur di salire di grado. | Kariyerist rütbe atlamak için hiçbir şeyden çekinmez.
+il parvenu | sonradan görme | isim (e) | Il parvenu ostentava la sua ricchezza con macchine e gioielli. | Sonradan görme zenginliğini arabalar ve mücevherlerle gösteriyordu.
+il sofista | safsatacı, laf cambazı | isim (e) | Non discutere con lui: è un sofista e ribalta ogni argomento. | Onunla tartışma, laf cambazıdır, her argümanı tersine çevirir.
+## Latince entelektüel kalıplar
+ipso facto | kendiliğinden, o anda | ifade | Chi non paga la quota viene escluso ipso facto dall'associazione. | Aidatını ödemeyen dernekten kendiliğinden çıkarılır.
+de facto | fiilen | ifade | Il vicedirettore è de facto il vero capo dell'azienda. | Müdür yardımcısı fiilen şirketin gerçek patronu.
+a fortiori | haydi haydi, evleviyetle | ifade | Se è difficile per un esperto, a fortiori lo sarà per un principiante. | Bir uzman için zorsa, bir acemi için haydi haydi zordur.
+in nuce | tohum hâlinde, özünde | ifade | Nel primo romanzo ci sono già in nuce tutti i temi della sua opera. | İlk romanında eserinin bütün temaları tohum hâlinde zaten var.
+sui generis | kendine özgü | ifade | È un museo sui generis, dedicato agli strumenti musicali rotti. | Kırık çalgılara ayrılmış kendine özgü bir müze.
+tout court | düpedüz, kısaca | ifade | Non è un buon politico: è un affarista tout court. | İyi bir politikacı değil, düpedüz bir iş bitirici.
+ad hoc | özel olarak, bu amaçla | ifade | Il comune ha creato una commissione ad hoc per il centenario. | Belediye yüzüncü yıl için özel bir komisyon kurdu.
+a latere | yanında, ek olarak | ifade | A latere del convegno si terrà una mostra fotografica. | Kongreye ek olarak bir fotoğraf sergisi düzenlenecek.
+grosso modo | kabaca, aşağı yukarı | ifade | Grosso modo, il progetto costerà due milioni di euro. | Proje kabaca iki milyon avroya mal olacak.
+vexata quaestio | çokça tartışılmış sorun | ifade | L'origine del nome della città è una vexata quaestio tra gli storici. | Şehrin adının kökeni tarihçiler arasında çokça tartışılmış bir sorundur.
+## Ekonomi düşüncesi
+il liberismo | ekonomik liberalizm, serbest piyasacılık | isim (e) | Il liberismo sostiene il minimo intervento dello Stato nell'economia. | Ekonomik liberalizm devletin ekonomiye asgari müdahalesini savunur.
+il keynesismo | Keynesçilik | isim (e) | Durante la crisi molti governi tornarono al keynesismo e alla spesa pubblica. | Kriz sırasında pek çok hükümet Keynesçiliğe ve kamu harcamalarına döndü.
+il mercantilismo | merkantilizm | isim (e) | Il mercantilismo puntava ad accumulare oro attraverso le esportazioni. | Merkantilizm ihracat yoluyla altın biriktirmeyi hedefliyordu.
+il neoliberismo | neoliberalizm | isim (e) | Il dibattito sul neoliberismo divide economisti e sociologi. | Neoliberalizm tartışması ekonomistleri ve sosyologları bölüyor.
+la decrescita | küçülme (ekonomik büyüme karşıtı akım) | isim (d) | I teorici della decrescita propongono di consumare meno e meglio. | Küçülme kuramcıları daha az ve daha iyi tüketmeyi öneriyor.
+l'economia circolare (d) | döngüsel ekonomi | isim (d) | L'economia circolare trasforma i rifiuti in nuove risorse. | Döngüsel ekonomi atıkları yeni kaynaklara dönüştürür.
+il prodotto interno lordo | gayrisafi yurt içi hasıla | isim (e) | Il prodotto interno lordo è cresciuto dell'uno per cento. | Gayrisafi yurt içi hasıla yüzde bir büyüdü.
+la mano invisibile | görünmez el | isim (d) | Adam Smith parlò della mano invisibile che regola il mercato. | Adam Smith piyasayı düzenleyen görünmez elden söz etti.
+il costo opportunità | fırsat maliyeti | isim (e) | Il costo opportunità di studiare è il guadagno a cui si rinuncia. | Okumanın fırsat maliyeti vazgeçilen kazançtır.
+l'azzardo morale (e) | ahlaki tehlike | isim (e) | Salvare sempre le banche crea un problema di azzardo morale. | Bankaları her zaman kurtarmak bir ahlaki tehlike sorunu yaratır.
