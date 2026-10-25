@@ -1,0 +1,111 @@
+# UNIT: Kent hayatı ve konut | Ev bulmak, mahalle, şehir sorunları
+## Ev aramak
+매물 (maemul) | satılık/kiralık ev ilanı | isim | 역 근처에는 괜찮은 매물이 거의 없다. | İstasyonun yakınında doğru dürüst kiralık ev neredeyse yok.
+집값 (jipgap) | konut fiyatları | isim | 서울 집값이 너무 올라서 집을 사기 힘들다. | Seul'de konut fiyatları çok arttığı için ev almak zor.
+내 집 마련 (nae jip maryeon) | ev sahibi olmak | ifade | 결혼 후 내 집 마련을 위해 열심히 저축했다. | Evlendikten sonra ev sahibi olmak için sıkı para biriktirdik.
+청약 (cheongyak) | konut başvurusu (kuralı) | isim | 새 아파트 청약에 당첨되어서 너무 기뻤다. | Yeni apartman kurasını kazandığım için çok sevindim.
+분양 (bunyang) | konut satışı (yeni proje) | isim | 내년 봄에 그 단지의 분양이 시작된다. | Gelecek ilkbaharda o sitenin satışları başlayacak.
+입주하다 (ipjuhada) | (yeni eve) yerleşmek | fiil | 새 아파트에 입주하는 날만 기다리고 있다. | Yeni daireye yerleşeceğimiz günü dört gözle bekliyorum.
+이사철 (isacheol) | taşınma mevsimi | isim | 봄 이사철에는 이삿짐 센터 예약이 어렵다. | İlkbahardaki taşınma mevsiminde nakliyeciden yer bulmak zor.
+공인중개사 (gonginjunggaesa) | emlakçı (lisanslı) | isim | 공인중개사와 함께 집을 세 군데 보러 다녔다. | Emlakçıyla birlikte üç ev gezdik.
+계약금 (gyeyakgeum) | kaparo, ön ödeme | isim | 마음에 드는 집이 있어서 바로 계약금을 걸었다. | Beğendiğim bir ev olunca hemen kaparo verdim.
+잔금 (jangeum) | kalan ödeme | isim | 잔금은 이사하는 날 치르기로 했다. | Kalan ödemeyi taşınma günü yapmaya karar verdik.
+## Evin özellikleri
+평수 (pyeongsu) | ev büyüklüğü (pyeong cinsinden) | isim | 아이가 태어나서 평수가 더 넓은 집으로 옮겼다. | Çocuk doğunca daha geniş bir eve geçtik.
+방음 (bangeum) | ses yalıtımı | isim | 이 원룸은 방음이 잘 안 돼서 옆집 소리가 다 들린다. | Bu stüdyo dairenin ses yalıtımı kötü, yan dairenin her sesi duyuluyor.
+채광 (chaegwang) | gün ışığı alma | isim | 거실 창이 커서 채광이 아주 좋아요. | Salonun penceresi büyük olduğu için çok güzel güneş alıyor.
+구조 (gujo) | yapı, plan (ev) | isim | 방 구조가 특이해서 가구 배치가 어렵다. | Odanın yapısı tuhaf olduğu için mobilya yerleştirmek zor.
+복층 (bokcheung) | dubleks | isim | 복층 오피스텔은 천장이 높아서 넓어 보인다. | Dubleks rezidans dairelerin tavanı yüksek olduğu için geniş görünür.
+집수리 (jipsuri) | ev tamiri | isim | 오래된 집을 사서 집수리를 하느라 돈이 많이 들었다. | Eski bir ev alıp tamir ettirmek çok paraya mal oldu.
+낡다 (nakda) | eskimek, yıpranmak | fiil | 집이 많이 낡아서 수리할 곳이 많다. | Ev epey eskidiği için tamir edilecek çok yer var.
+단열 (danyeol) | ısı yalıtımı | isim | 단열이 잘된 집은 겨울에 난방비가 적게 든다. | Isı yalıtımı iyi olan evde kışın ısınma masrafı az olur.
+수납공간 (sunapgonggan) | depolama alanı, dolap yeri | isim | 이 집은 작지만 수납공간이 많아서 깔끔하다. | Bu ev küçük ama depolama alanı çok olduğu için derli toplu.
+옥상 (oksang) | çatı (teras) | isim | 여름밤에 옥상에서 고기를 구워 먹었다. | Yaz gecesi çatıda et pişirip yedik.
+## Mahalle
+상가 (sangga) | çarşı, dükkânlar bölümü | isim | 아파트 상가에 편의점과 미용실이 있다. | Sitenin çarşısında market ve kuaför var.
+학군 (hakgun) | okul bölgesi | isim | 학군이 좋은 동네는 집값이 비싸다. | Okul bölgesi iyi olan mahallelerde ev fiyatları pahalıdır.
+편의 시설 (pyeonui siseol) | sosyal tesisler, kolaylıklar | isim | 집 근처에 병원, 마트 같은 편의 시설이 다 있다. | Evin yakınında hastane, market gibi her türlü tesis var.
+산책로 (sanchaengno) | yürüyüş yolu | isim | 강을 따라 산책로가 잘 만들어져 있다. | Nehir boyunca güzel bir yürüyüş yolu yapılmış.
+골목 (golmok) | ara sokak | isim | 이 골목에는 작은 카페들이 모여 있다. | Bu ara sokakta küçük kafeler toplanmış.
+재래시장 (jaeraesijang) | geleneksel pazar | isim | 재래시장은 마트보다 싸고 인심도 좋다. | Geleneksel pazar marketten ucuz, esnafı da cömert.
+인심 (insim) | insanların cömertliği, gönül zenginliği | isim | 시골은 인심이 좋아서 이웃끼리 음식을 나눈다. | Kırsalda insanlar cömert olduğu için komşular yemek paylaşır.
+치안 (chian) | asayiş, güvenlik | isim | 그 동네는 치안이 좋아서 밤에도 안전하다. | O mahallede asayiş iyi olduğu için gece de güvenli.
+번화가 (beonhwaga) | işlek cadde, eğlence bölgesi | isim | 주말이면 번화가는 젊은이들로 북적인다. | Hafta sonları işlek caddeler gençlerle dolup taşar.
+주택가 (jutaekga) | yerleşim bölgesi | isim | 조용한 주택가에 작은 빵집이 문을 열었다. | Sakin bir yerleşim bölgesinde küçük bir fırın açıldı.
+## Şehir sorunları
+교통 체증 (gyotong chejeung) | trafik sıkışıklığı | isim | 출근 시간에는 교통 체증이 심해서 지하철을 탄다. | İşe gidiş saatinde trafik çok sıkışık olduğu için metroya binerim.
+주차난 (juchanan) | park yeri sıkıntısı | isim | 오래된 동네일수록 주차난이 심하다. | Mahalle ne kadar eskiyse park sorunu o kadar büyük.
+주택난 (jutaengnan) | konut sıkıntısı | isim | 대도시의 주택난을 해결하기 위해 신도시를 만들었다. | Büyükşehirlerdeki konut sıkıntısını çözmek için yeni şehirler kuruldu.
+인구 밀도 (ingu mildo) | nüfus yoğunluğu | isim | 서울은 인구 밀도가 매우 높은 도시다. | Seul nüfus yoğunluğu çok yüksek bir şehirdir.
+범죄 (beomjoe) | suç | isim | 가로등을 늘리자 범죄가 줄었다. | Sokak lambaları artırılınca suç azaldı.
+노숙자 (nosukja) | evsiz | isim | 추운 겨울에 노숙자들을 위한 쉼터가 문을 열었다. | Soğuk kışta evsizler için barınak açıldı.
+혼잡하다 (honjapada) | kalabalık, karmaşık (trafik) | sıfat | 명절 연휴에는 고속도로가 몹시 혼잡하다. | Bayram tatilinde otoyollar çok kalabalık olur.
+과밀 (gwamil) | aşırı kalabalık, aşırı yoğunluk | isim | 학생 수가 너무 많아서 교실 과밀 문제가 생겼다. | Öğrenci sayısı çok fazla olduğu için sınıflar aşırı kalabalıklaştı.
+빈집 (binjip) | boş ev, terk edilmiş ev | isim | 시골에는 사람이 떠나서 빈집이 늘고 있다. | Kırsalda insanlar göç ettiği için boş evler artıyor.
+불법 주차 (bulbeop jucha) | yasak park | isim | 불법 주차 때문에 소방차가 들어가지 못했다. | Yasak park yüzünden itfaiye aracı giremedi.
+## Şehir planlaması
+도시 계획 (dosi gyehoek) | şehir planlaması | isim | 도시 계획을 세울 때 녹지를 충분히 확보해야 한다. | Şehir planı yapılırken yeterince yeşil alan ayrılmalı.
+원주민 (wonjumin) | eski sakinler, yerli halk | isim | 동네가 개발되면서 원주민들이 하나둘 떠났다. | Mahalle imara açılınca eski sakinler birer birer ayrıldı.
+고층 건물 (gocheung geonmul) | yüksek bina | isim | 바닷가에 고층 건물이 들어서서 경치가 가려졌다. | Sahile yüksek binalar dikilince manzara kapandı.
+신도시 (sindosi) | yeni kurulan şehir, uydu kent | isim | 신도시는 길이 넓고 공원이 많다. | Yeni kurulan şehirlerin yolları geniş, parkları çoktur.
+기반 시설 (giban siseol) | altyapı | isim | 인구가 늘어나는데 기반 시설이 부족하다. | Nüfus artıyor ama altyapı yetersiz.
+상하수도 (sanghasudo) | su ve kanalizasyon şebekesi | isim | 마을에 상하수도 공사가 진행 중이다. | Köyde su ve kanalizasyon şebekesi çalışması sürüyor.
+공사 (gongsa) | inşaat, yapım işi | isim | 앞 건물 공사 때문에 아침부터 시끄럽다. | Karşı binadaki inşaat yüzünden sabahtan beri gürültü var.
+공사장 (gongsajang) | şantiye | isim | 공사장 근처를 지날 때는 안전모를 써야 한다. | Şantiyenin yakınından geçerken baret takmak gerekir.
+허물다 (heomulda) | yıkmak, devirmek (허물어요) | fiil | 낡은 담장을 허물고 꽃밭을 만들었다. | Eski duvarı yıkıp çiçek bahçesi yaptık.
+들어서다 (deureoseoda) | kurulmak, inşa edilmek; içeri girmek | fiil | 빈 땅에 대형 쇼핑몰이 들어섰다. | Boş araziye büyük bir alışveriş merkezi kuruldu.
+## Kamu hizmetleri
+민원 (minwon) | dilekçe, vatandaş başvurusu/şikâyeti | isim | 주민들이 소음 문제로 구청에 민원을 넣었다. | Sakinler gürültü sorunu yüzünden ilçe belediyesine şikâyette bulundu.
+보건소 (bogeonso) | sağlık ocağı | isim | 보건소에서 무료로 독감 주사를 맞았다. | Sağlık ocağında ücretsiz grip aşısı oldum.
+소방서 (sobangseo) | itfaiye | isim | 화재 신고를 받고 소방서에서 오 분 만에 출동했다. | Yangın ihbarı alınınca itfaiye beş dakikada yola çıktı.
+파출소 (pachulso) | karakol (küçük) | isim | 지갑을 주워서 근처 파출소에 맡겼다. | Bir cüzdan bulup yakındaki karakola teslim ettim.
+종량제 봉투 (jongnyangje bongtu) | ücretli çöp torbası | isim | 일반 쓰레기는 종량제 봉투에 담아 버려야 한다. | Genel çöpler ücretli çöp torbasına konup atılmalı.
+복지관 (bokjigwan) | sosyal hizmet merkezi | isim | 복지관에서 어르신들에게 점심을 대접한다. | Sosyal hizmet merkezinde yaşlılara öğle yemeği ikram ediliyor.
+공중화장실 (gongjunghwajangsil) | umumi tuvalet | isim | 한국의 공중화장실은 대부분 무료이고 깨끗하다. | Kore'deki umumi tuvaletlerin çoğu ücretsiz ve temizdir.
+무인 택배함 (muin taekbaeham) | otomatik kargo dolabı | isim | 집에 없을 때는 무인 택배함으로 택배를 받는다. | Evde olmadığımda kargoyu otomatik kargo dolabından alırım.
+공영 주차장 (gongyeong juchajang) | belediye otoparkı | isim | 시장 옆 공영 주차장은 한 시간에 천 원이다. | Pazarın yanındaki belediye otoparkı saati bin won.
+관공서 (gwangongseo) | resmî daire | isim | 관공서는 주말에 문을 닫는다. | Resmî daireler hafta sonu kapalıdır.
+## Apartman sitesinde yaşam
+단지 (danji) | site (apartman kompleksi) | isim | 우리 아파트 단지 안에는 작은 공원이 있다. | Apartman sitemizin içinde küçük bir park var.
+동 (dong) | blok (sitede bina numarası) | isim | 저는 백오 동에 살아요. | Ben 105. blokta oturuyorum.
+호 (ho) | daire numarası | isim | 택배를 보낼 때 동과 호수를 정확히 써 주세요. | Kargo gönderirken blok ve daire numarasını doğru yazın.
+경비원 (gyeongbiwon) | bekçi, güvenlik görevlisi | isim | 경비원 아저씨가 택배를 대신 받아 주셨다. | Güvenlik görevlisi amca kargoyu benim yerime teslim aldı.
+입주민 (ipjumin) | site sakini | isim | 입주민 회의에서 주차 문제를 논의했다. | Site sakinleri toplantısında otopark sorununu konuştuk.
+공용 공간 (gongyong gonggan) | ortak kullanım alanı | isim | 복도는 공용 공간이니까 물건을 두지 마세요. | Koridor ortak alan, oraya eşya bırakmayın.
+공동 현관 (gongdong hyeongwan) | bina giriş kapısı | isim | 공동 현관 비밀번호를 몰라서 밖에서 기다렸다. | Bina giriş kapısının şifresini bilmediğim için dışarıda bekledim.
+지하 주차장 (jiha juchajang) | kapalı otopark (yer altı) | isim | 비가 와도 지하 주차장이 있어서 편하다. | Yağmur yağsa da yer altı otoparkı olduğu için rahat.
+우편함 (upyeonham) | posta kutusu | isim | 우편함에 관리비 고지서가 와 있었다. | Posta kutusuna aidat bildirimi gelmişti.
+반상회 (bansanghoe) | komşular toplantısı | isim | 한 달에 한 번 반상회를 열어 동네 일을 의논한다. | Ayda bir komşular toplantısı yapıp mahalle işlerini konuşuruz.
+## Şehir ve taşra
+도심 (dosim) | şehir merkezi | isim | 도심의 높은 빌딩 사이로 해가 졌다. | Şehir merkezindeki yüksek binaların arasından güneş battı.
+외곽 (oegwak) | şehrin dışı, çeper | isim | 집값 때문에 도시 외곽으로 이사하는 사람이 많다. | Ev fiyatları yüzünden şehrin dışına taşınan çok kişi var.
+수도권 (sudogwon) | başkent bölgesi (Seul ve çevresi) | isim | 인구의 절반 정도가 수도권에 살고 있다. | Nüfusun yaklaşık yarısı başkent bölgesinde yaşıyor.
+지방 도시 (jibang dosi) | taşra şehri | isim | 지방 도시에서 올라온 학생들은 주로 기숙사에 산다. | Taşra şehirlerinden gelen öğrenciler çoğunlukla yurtta kalır.
+농촌 (nongchon) | kırsal, tarım köyü | isim | 농촌에서는 젊은 사람을 찾아보기 힘들다. | Köylerde genç insan görmek zor.
+어촌 (eochon) | balıkçı köyü | isim | 어촌 마을에서 갓 잡은 생선으로 회를 먹었다. | Balıkçı köyünde yeni tutulmuş balıktan çiğ balık yedik.
+귀농 (gwinong) | şehirden köye dönüp çiftçilik yapma | isim | 아버지는 퇴직 후 귀농해서 사과 농사를 지으신다. | Babam emekli olduktan sonra köye dönüp elma yetiştiriyor.
+전원주택 (jeonwonjutaek) | kırsal müstakil ev | isim | 은퇴하면 마당이 있는 전원주택에서 살고 싶다. | Emekli olunca bahçeli bir kır evinde yaşamak istiyorum.
+상경하다 (sanggyeonghada) | (taşradan) başkente gelmek | fiil | 그는 스무 살에 꿈을 안고 상경했다. | Yirmi yaşında hayallerle başkente geldi.
+소도시 (sodosi) | küçük şehir | isim | 소도시는 조용하고 물가가 싸서 살기 편하다. | Küçük şehirler sakin ve ucuz olduğu için yaşamak rahat.
+## Taşınma ve yerleşme
+전입 신고 (jeonip singo) | adres kaydı (yeni yere) | isim | 이사한 뒤 이 주 안에 전입 신고를 해야 한다. | Taşındıktan sonra iki hafta içinde adres kaydı yaptırmak gerekir.
+이사 업체 (isa eopche) | nakliye firması | isim | 이사 업체 세 곳에서 견적을 받아 봤다. | Üç nakliye firmasından fiyat aldım.
+포장 이사 (pojang isa) | paketlemeli nakliye | isim | 포장 이사를 하면 짐을 싸지 않아도 돼서 편하다. | Paketlemeli nakliyede eşya toplamak gerekmediği için rahat.
+짐 정리 (jim jeongni) | eşya yerleştirme, düzenleme | isim | 이사하고 일주일이 지났는데 아직 짐 정리를 못 했다. | Taşınalı bir hafta oldu ama hâlâ eşyaları yerleştiremedim.
+정착하다 (jeongchakada) | yerleşmek, kök salmak | fiil | 여러 도시를 옮겨 다니다가 부산에 정착했다. | Birçok şehri dolaştıktan sonra Busan'a yerleştim.
+이삿날 (isannal) | taşınma günü | isim | 이삿날 아침부터 비가 와서 고생했다. | Taşınma günü sabahtan yağmur yağınca çok zorlandık.
+입주 청소 (ipju cheongso) | taşınma öncesi temizlik | isim | 새집에 들어가기 전에 입주 청소를 맡겼다. | Yeni eve girmeden önce taşınma temizliği yaptırdık.
+새집 (saejip) | yeni ev | isim | 새집으로 이사하니 기분이 상쾌하다. | Yeni eve taşınınca ferahladım.
+손 없는 날 (son eomneun nal) | uğurlu gün (taşınma için) | ifade | 어머니는 꼭 손 없는 날에 이사해야 한다고 하셨다. | Annem mutlaka uğurlu bir günde taşınmamız gerektiğini söyledi.
+터전 (teojeon) | yuva, yaşam alanı | isim | 이 마을은 우리 가족의 삶의 터전이다. | Bu köy ailemizin yaşam yuvasıdır.
+## Yaşanacak yeri anlatmak
+쾌적하다 (kwaejeokada) | ferah, konforlu | sıfat | 공기가 맑고 조용해서 쾌적한 동네다. | Havası temiz ve sessiz olduğu için ferah bir mahalle.
+아늑하다 (aneukada) | sıcak ve rahat, şirin | sıfat | 작은 방이지만 조명 덕분에 아늑하다. | Küçük bir oda ama aydınlatma sayesinde sıcacık.
+비좁다 (bijopda) | dar, sıkışık | sıfat | 네 식구가 살기에는 집이 너무 비좁다. | Dört kişilik bir aile için ev çok dar.
+널찍하다 (neoljjikada) | geniş ferah | sıfat | 거실이 널찍해서 친구들을 초대하기 좋다. | Salon geniş olduğu için arkadaş çağırmaya uygun.
+한적하다 (hanjeokada) | sakin, ıssız | sıfat | 주말에는 한적한 시골길을 드라이브한다. | Hafta sonları sakin köy yollarında araba sürerim.
+북적이다 (bukjeogida) | kaynamak, kalabalık olmak | fiil | 시장은 명절을 앞두고 사람들로 북적였다. | Pazar bayram öncesinde insanlarla kaynıyordu.
+붐비다 (bumbida) | kalabalık olmak, tıklım tıklım olmak | fiil | 출근 시간 지하철은 늘 붐빈다. | İşe gidiş saatinde metro hep tıklım tıklımdır.
+외지다 (oejida) | kuytu, ücra | sıfat | 그 펜션은 외진 곳에 있어서 차가 없으면 가기 힘들다. | O tatil evi ücra bir yerde olduğu için araba olmadan gitmek zor.
+살기 좋다 (salgi jota) | yaşamaya elverişli | ifade | 이 도시는 공원이 많아서 살기 좋다. | Bu şehir parkları çok olduğu için yaşamaya elverişli.
+정들다 (jeongdeulda) | alışıp bağlanmak (yere, insana) | fiil | 십 년 동안 살아서 이 동네에 많이 정들었다. | On yıl yaşadığım için bu mahalleye çok bağlandım.
