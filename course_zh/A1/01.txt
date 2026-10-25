@@ -1,111 +1,111 @@
 # UNIT: Tanışma ve temel ifadeler | Selamlaşma, zamirler, soru kelimeleri
-## Selamlaşma ifadeleri
-早上好 (zǎoshang hǎo) | günaydın | ifade | 早上好，老师！(Zǎoshang hǎo, lǎoshī!) | Günaydın öğretmenim!
-晚安 (wǎn'ān) | iyi geceler | ifade | 大家晚安。(Dàjiā wǎn'ān.) | Herkese iyi geceler.
-再见 (zàijiàn) | hoşça kal, güle güle | ifade | 朋友，再见。(Péngyǒu, zàijiàn.) | Hoşça kal arkadaşım.
-明天见 (míngtiān jiàn) | yarın görüşürüz | ifade | 明天见，同学们。(Míngtiān jiàn, tóngxuémen.) | Yarın görüşürüz öğrenciler.
-久违 (jiǔwéi) | uzun zaman oldu | ifade | 好久不见，久违了。(Hǎojiǔ bùjiàn, jiǔwéi le.) | Uzun zamandır görüşmüyorduk, uzun zaman oldu.
-欢迎 (huānyíng) | hoş geldiniz, hoş geldin | fiil | 欢迎光临。(Huānyíng guānglín.) | Hoş geldiniz.
-保重 (bǎozhòng) | kendine iyi bak | ifade | 路上小心，保重。(Lùshang xiǎoxīn, bǎozhòng.) | Yolda dikkat et, kendine iyi bak.
-最近 (zuìjìn) | son zamanlarda, bu ara | zarf | 最近怎么样？(Zuìjìn zěnmeyàng?) | Son zamanlar nasıl gidiyor?
-一路平安 (yīlù píng'ān) | iyi yolculuklar, kazasız belasız | ifade | 祝你一路平安。(Zhù nǐ yīlù píng'ān.) | Sana iyi yolculuklar dilerim.
-好久不见 (hǎojiǔ bùjiàn) | uzun zamandır görüşmedik | ifade | 嗨，好久不见！(Hāi, hǎojiǔ bùjiàn!) | Hey, uzun zamandır görüşmedik!
+## Selamlaşma
+早上好 (zǎoshang hǎo) | günaydın | ifade | 早上好，王老师！(Zǎoshang hǎo, Wáng lǎoshī!) | Günaydın Wang Hocam!
+下午好 (xiàwǔ hǎo) | tünaydın, iyi günler | ifade | 下午好，欢迎来我家。(Xiàwǔ hǎo, huānyíng lái wǒ jiā.) | İyi günler, evime hoş geldiniz.
+晚上好 (wǎnshang hǎo) | iyi akşamlar | ifade | 晚上好，大家都来了吗？(Wǎnshang hǎo, dàjiā dōu lái le ma?) | İyi akşamlar, herkes geldi mi?
+晚安 (wǎn'ān) | iyi geceler | ifade | 妈妈，晚安！(Māma, wǎn'ān!) | İyi geceler anne!
+明天见 (míngtiān jiàn) | yarın görüşürüz | ifade | 好，我们明天见。(Hǎo, wǒmen míngtiān jiàn.) | Tamam, yarın görüşürüz.
+一会儿见 (yíhuìr jiàn) | birazdan görüşürüz | ifade | 我先走了，一会儿见！(Wǒ xiān zǒu le, yíhuìr jiàn!) | Ben önden gidiyorum, birazdan görüşürüz!
+好久不见 (hǎojiǔ bú jiàn) | uzun zamandır görüşmedik | ifade | 李明，好久不见！(Lǐ Míng, hǎojiǔ bú jiàn!) | Li Ming, görüşmeyeli uzun zaman oldu!
+欢迎 (huānyíng) | hoş geldin(iz); ağırlamak | fiil | 欢迎你来北京！(Huānyíng nǐ lái Běijīng!) | Pekin'e hoş geldin!
+喂 (wéi) | alo (telefonda) | ünlem | 喂，你好，是安娜吗？(Wéi, nǐ hǎo, shì Ānnà ma?) | Alo, merhaba, Anna mı?
+拜拜 (báibái) | bay bay, hoşça kal (samimi) | ünlem | 拜拜，路上小心！(Báibái, lùshang xiǎoxīn!) | Bay bay, yolda dikkatli ol!
 ## Nezaket sözleri
-对不起 (duìbuqǐ) | özür dilerim, affedersiniz | ifade | 对不起，我迟到了。(Duìbuqǐ, wǒ chídào le.) | Özür dilerim, geç kaldım.
-没关系 (méi guānxi) | sorun değil, önemli değil | ifade | 没关系，别担心。(Méi guānxi, bié dānxīn.) | Sorun değil, endişelenme.
-不客气 (bù kèqi) | rica ederim, bir şey değil | ifade | 谢谢你。— 不客气。(Xièxie nǐ. — Bù kèqi.) | Teşekkürler. — Rica ederim.
-劳驾 (láojià) | affedersiniz, zahmet olacak | ifade | 劳驾，让一下。(Láojià, ràng yīxià.) | Affedersiniz, biraz izin verin.
-不好意思 (bù hǎoyìsi) | kusura bakmayın, utanç duymak | ifade | 不好意思，打扰了。(Bù hǎoyìsi, dǎrǎo le.) | Kusura bakmayın, rahatsız ettim.
-借光 (jièguāng) | izin verin geçeyim, müsaade ederseniz | ifade | 借光，我要过去。(Jièguāng, wǒ yào guòqù.) | Müsaade ederseniz geçeceğim.
-请进 (qǐng jìn) | içeri buyurun | ifade | 欢迎，请进！(Huānyíng, qǐng jìn!) | Hoş geldiniz, içeri buyurun!
-请坐 (qǐng zuò) | buyurun oturun | ifade | 大家请坐。(Dàjiā qǐng zuò.) | Herkes buyursun otursun.
-麻烦 (máfán) | zahmet vermek, sorun | fiil | 麻烦你了。(Máfán nǐ le.) | Sana zahmet verdim.
-不用谢 (bùyòng xiè) | bir şey değil, teşekkür etmeye gerek yok | ifade | 太谢谢了。— 不用谢。(Tài xièxie le. — Bùyòng xiè.) | Çok teşekkürler. — Bir şey değil.
+请 (qǐng) | lütfen; buyurun; davet etmek | fiil | 请喝茶。(Qǐng hē chá.) | Buyurun, çay için.
+请问 (qǐngwèn) | affedersiniz, bir şey sorabilir miyim | ifade | 请问，洗手间在哪儿？(Qǐngwèn, xǐshǒujiān zài nǎr?) | Affedersiniz, tuvalet nerede?
+请进 (qǐng jìn) | içeri buyurun | ifade | 门开着，请进！(Mén kāi zhe, qǐng jìn!) | Kapı açık, içeri buyurun!
+请坐 (qǐng zuò) | buyurun oturun | ifade | 你好，请坐。(Nǐ hǎo, qǐng zuò.) | Merhaba, buyurun oturun.
+不好意思 (bù hǎoyìsi) | kusura bakmayın; mahcubum | ifade | 不好意思，我听不懂。(Bù hǎoyìsi, wǒ tīng bu dǒng.) | Kusura bakmayın, anlamıyorum.
+不用谢 (búyòng xiè) | teşekküre gerek yok | ifade | 不用谢，这是小事。(Búyòng xiè, zhè shì xiǎo shì.) | Teşekküre gerek yok, ufak bir şey.
+没事 (méishì) | bir şey yok, sorun değil | ifade | 没事，你别担心。(Méishì, nǐ bié dānxīn.) | Sorun yok, merak etme.
+别客气 (bié kèqi) | çekinme, estağfurullah | ifade | 别客气，多吃点儿！(Bié kèqi, duō chī diǎnr!) | Çekinme, bol bol ye!
+麻烦 (máfan) | zahmet vermek; zahmetli | fiil | 麻烦你帮我一下。(Máfan nǐ bāng wǒ yíxià.) | Zahmet olacak, bana biraz yardım eder misin?
+打扰 (dǎrǎo) | rahatsız etmek | fiil | 对不起，打扰你了。(Duìbuqǐ, dǎrǎo nǐ le.) | Özür dilerim, seni rahatsız ettim.
 ## Kişi zamirleri
-他们 (tāmen) | onlar (erkekler veya karışık grup) | zamir | 他们是学生。(Tāmen shì xuésheng.) | Onlar öğrenci.
-她们 (tāmen) | onlar (kadınlar) | zamir | 她们在唱歌。(Tāmen zài chànggē.) | Onlar şarkı söylüyorlar.
-我们 (wǒmen) | biz | zamir | 我们爱学习。(Wǒmen ài xuéxí.) | Biz öğrenmeyi seviyoruz.
-你们 (nǐmen) | siz (çoğul) | zamir | 你们好！(Nǐmen hǎo!) | Merhaba sizler! (Merhaba!)
-大众 (dàzhòng) | halk, kitle | isim | 大众需要真相。(Dàzhòng xūyào zhēnxiàng.) | Halk gerçeğe ihtiyaç duyar.
-自己 (zìjǐ) | kendi, kendisi | zamir | 我自己去。(Wǒ zìjǐ qù.) | Kendim gideceğim.
-别人 (biérén) | başkası, diğer insanlar | isim | 不要打扰别人。(Bùyào dǎrǎo biérén.) | Başkalarını rahatsız etme.
-群众 (qúnzhòng) | kitle, halk | isim | 群众在等。(Qúnzhòng zài děng.) | Halk bekliyor.
-人类 (rénlèi) | insanlık, insan | isim | 人类很伟大。(Rénlèi hěn wěidà.) | İnsanlık çok yücedir.
-社群 (shèqún) | topluluk, toplumsal grup | isim | 这个社群很活跃。(Zhège shèqún hěn huóyuè.) | Bu topluluk çok aktif.
-## Soru zamirleri
-什么 (shénme) | ne | zamir | 这是什么？(Zhè shì shénme?) | Bu nedir?
-谁 (shéi) | kim | zamir | 那个人是谁？(Nàge rén shì shéi?) | O kişi kim?
-哪儿 (nǎr) | nerede | zamir | 你在哪儿？(Nǐ zài nǎr?) | Neredesin?
-哪里 (nǎlǐ) | nere, neresi | zamir | 你的家在哪哪里？(Nǐ de jiā zài nǎlǐ?) | Eviniz nerede?
-怎么 (zěnme) | nasıl | zarf | 这个怎么用？(Zhège zěnme yòng?) | Bu nasıl kullanılır?
-怎么样 (zěnmeyàng) | nasıl (durum), nasıl oluverir | ifade | 天气怎么样？(Tiānqì zěnmeyàng?) | Hava nasıl?
-多少 (duōshao) | kaç, ne kadar | zamir | 这件多少钱？(Zhè jiàn duōshao qián?) | Bu kaç para?
-几 (jǐ) | kaç (10'dan küçük sayılar için) | zamir | 你几岁？(Nǐ jǐ suì?) | Kaç yaşındasın?
-为什么 (wèishénme) | neden, niçin | zamir | 你为什么哭？(Nǐ wèishénme kū?) | Neden ağlıyorsun?
-哪 (nǎ) | hangi | zamir | 你是哪国人？(Nǐ shì nǎ guórén?) | Hangi ülkesensin?
-## Sifatlar ve durumlar
-高兴 (gāoxìng) | mutlu, sevinçli | sıfat | 我很高兴。(Wǒ hěn gāoxìng.) | Çok mutluyum.
-累 (lèi) | yorgun | sıfat | 今天我很累。(Jīntiān wǒ hěn lèi.) | Bugün çok yorgunum.
-忙 (máng) | meşgul | sıfat | 爸爸工作很忙。(Bàba gōngzuò hěn máng.) | Baba işinde çok meşgul.
-快 (kuài) | hızlı, çabuk | sıfat | 火车很快。(Huǒchē hěn kuài.) | Tren çok hızlı.
-慢 (màn) | yavaş | sıfat | 请走慢一点。(Qǐng zǒu màn yīdiǎn.) | Lütfen biraz yavaş yürü.
-冷 (lěng) | soğuk | sıfat | 冬天很冷。(Dōngtiān hěn lěng.) | Kış çok soğuk.
-热 (rè) | sıcak | sıfat | 夏天很热。(Xiàtiān hěn rè.) | Yaz çok sıcak.
-正确 (zhèngquè) | doğru, isabetli | sıfat | 你的答案正确。(Nǐ de dá'àn zhèngquè.) | Cevabın doğru.
-错 (cuò) | yanlış, hatalı | sıfat | 这个答案错了。(Zhège dá'àn cuò le.) | Bu cevap yanlıştı.
-优良 (yōuliáng) | iyi, mükemmel | sıfat | 这是一个优良习惯。(Zhè shì yīgè yōuliáng xíguàn.) | Bu iyi bir alışkanlıktır.
-## Aile ve insanlar
-爸爸 (bàba) | baba | isim | 我爸爸是医生。(Wǒ bàba shì yīshēng.) | Babam doktor.
-妈妈 (māma) | anne | isim | 妈妈在做饭。(Māma zài zuòfàn.) | Anne yemek yapıyor.
-哥哥 (gēge) | ağabey | isim | 我有一个哥哥。(Wǒ yǒu yīgè gēge.) | Bir ağabeyim var.
-姐姐 (jiějie) | abla | isim | 姐姐喜欢猫。(Jiějie xǐhuan māo.) | Abla kedileri sever.
-弟弟 (dìdi) | erkek kardeş | isim | 弟弟在上学。(Dìdi zài shàngxué.) | Erkek kardeş okula gidiyor.
-妹妹 (mèimei) | kız kardeş | isim | 妹妹很可爱。(Mèimei hěn kě'ài.) | Kız kardeş çok sevimli.
-儿子 (érzi) | oğul | isim | 这是我的儿子。(Zhè shì wǒ de érzi.) | Bu benim oğlum.
-女儿 (nǚ'ér) | kız evlat | isim | 她的女儿很聪明。(Tā de nǚ'ér hěn cōngmíng.) | Onun kızı çok akıllı.
-丈夫 (zhàngfu) | koca, eş | isim | 她的丈夫是经理。(Tā de zhàngfu shì jīnglǐ.) | Eşi müdürdür.
-妻子 (qīzi) | karı, eş | isim | 这是他的妻子。(Zhè shì tā de qīzi.) | Bu onun eşidir.
-## Meslekler ve unvanlar
-医生 (yīshēng) | doktor, hekim | isim | 那个医生很好。(Nàge yīshēng hěn hǎo.) | O doktor çok iyi.
-学生 (xuésheng) | öğrenci | isim | 教室里有很多学生。(Jiàoshì lǐ yǒu hěnduō xuésheng.) | Sınıfta çok öğrenci var.
-老师 (lǎoshī) | öğretmen | isim | 老师在教汉语。(Lǎoshī zài jiāo hànyǔ.) | Öğretmen Çince öğretiyor.
-工人 (gōngrén) | işçi | isim | 他是一个工人。(Tā shì yīgè gōngrén.) | O bir işçi.
-农民 (nóngmín) | çiftçi | isim | 农民在种地。(Nóngmín zài zhòng dì.) | Çiftçi tarla sürüyor.
-经理 (jīnglǐ) | müdür, yönetici | isim | 经理不在办公室。(Jīnglǐ bú zài bàngōngshì.) | Müdür ofiste değil.
-老板 (lǎobǎn) | patron, esnaf | isim | 老板人很好。(Lǎobǎn rén hěn hǎo.) | Patron iyi bir insan.
-司机 (sījī) | şoför, sürücü | isim | 那个司机开得很稳。(Nàge sījī kāi de hěn wěn.) | O şoför çok dengeli sürüyor.
-护士 (hùshi) | hemşire | isim | 护士在照顾病人。(Hùshi zài zhàogù bìngrén.) | Hemşire hastaya bakıyor.
-警察 (jǐngchá) | polis | isim | 警察帮了我们。(Jǐngchá bāng le wǒmen.) | Polis bize yardım etti.
-## Ev ve çevre
-家 (jiā) | ev, aile | isim | 我爱我的家。(Wǒ ài wǒ de jiā.) | Evimi seviyorum.
-房间 (fángjiān) | oda | isim | 我的房间很大。(Wǒ de fángjiān hěn dà.) | Odam çok büyük.
-客厅 (kètīng) | oturma odası, salon | isim | 我们在客厅聊天。(Wǒmen zài kètīng liáotiān.) | Salon sohbet ediyoruz.
-厨房 (chúfáng) | mutfak | isim | 妈妈在厨房忙。(Māma zài chúfáng máng.) | Anne mutfakta meşgul.
-学校 (xuéxiào) | okul | isim | 学校离这儿很近。(Xuéxiào lí zhèr hěn jìn.) | Okul buradan çok yakın.
-医院 (yīyuàn) | hastane | isim | 附近有一家医院。(Fùjìn yǒu yījiā yīyuàn.) | Yakında bir hastane var.
-商店 (shāngdiàn) | dükkan, mağaza | isim | 我去商店买水。(Wǒ qù shāngdiàn mǎi shuǐ.) | Dükkana su alımına gidiyorum.
-公园 (gōngyuán) | park | isim | 公园里有很多树。(Gōngyuán lǐ yǒu hěnduō shù.) | Parkta çok ağaç var.
-路 (lù) | yol | isim | 这条路通向哪儿？(Zhè tiáo lù tōngxiàng nǎr?) | Bu yol nereye çıkıyor?
-城市 (chéngshì) | şehir | isim | 北京是一个大城市。(Běijīng shì yīgè dà chéngshì.) | Pekin büyük bir şehirdir.
-## Zaman kavramları
-今天 (jīntiān) | bugün | isim | 今天天气很好。(Jīntiān tiānqì hěn hǎo.) | Bugün hava çok iyi.
-明天 (míngtiān) | yarın | isim | 明天我有考试。(Míngtiān wǒ yǒu kǎoshì.) | Yarın sınavım var.
-昨天 (zuótiān) | dün | isim | 昨天我去了北京。(Zuótiān wǒ qù le Běijīng.) | Dün Pekin'e gittim.
-现在 (xiànzài) | şimdi | zarf | 你现在在哪儿？(Nǐ xiànzài zài nǎr?) | Şimdi neredesin?
-时候 (shíhou) | zaman, ...için iken | isim | 我小时候很调皮。(Wǒ xiǎoshíhou hěn tiáopí.) | Çocukken çok yaramazdım.
-年 (nián) | yıl, sene | isim | 今年是兔年。(Jīnnián shì tù nián.) | Bu yıl tavşan yılı.
-月份 (yuèfèn) | takvim ayı | isim | 这个月份很冷。(Zhège yuèfèn hěn lěng.) | Bu ay çok soğuktur.
-日期 (rìqī) | tarih, gün | isim | 今天是几月几日？(Jīntiān shì jǐ yuè jǐ rì?) | Bugün hangi ayın kaçı?
-小时 (xiǎoshí) | saat (süre) | isim | 我学了两个小时。(Wǒ xué le liǎng gè xiǎoshí.) | İki saat çalıştım.
-分钟 (fēnzhōng) | dakika | isim | 请等五分钟。(Qǐng děng wǔ fēnzhōng.) | Lütfen beş dakika bekleyin.
-## Temel fiiller
-有 (yǒu) | var, sahip olmak | fiil | 我有一只猫。(Wǒ yǒu yī zhī māo.) | Bir kedim var.
-是 (shì) | olmak (-dir, -dür) | fiil | 他是我的朋友。(Tā shì wǒ de péngyǒu.) | O benim arkadaşım.
-去 (qù) | gitmek | fiil | 我去学校。(Wǒ qù xuéxiào.) | Okula gidiyorum.
-来 (lái) | gelmek | fiil | 你什么时候来？(Nǐ shénme shíhou lái?) | Ne zaman geleceksin?
-做 (zuò) | yapmak, etmek | fiil |你在做什么？(Nǐ zài zuò shénme?) | Ne yapıyorsun?
-进食 (jìnshí) | yemek yemek, beslenmek | fiil | 大家都来进食。(Dàjiā dōu lái jìnshí.) | Herkes yemek yemeye geliyor.
-饮用 (yǐnyòng) | içmek (su vb.) | fiil | 请饮用纯净水。(Qǐng yǐnyòng chúnjìngshuǐ.) | Lütfen saf su içiniz.
-阅览 (yuèlǎn) | okumak, göz gezdirmek | fiil | 读者在阅览室阅览。(Dúzhě zài yuèlǎnshì yuèlǎn.) | Okuyucu okuma salonunda okuyor.
-聆听 (língtīng) | dikkatle dinlemek | fiil | 聆听大自然的音乐。(Língtīng dàzìrán de yīnyuè.) | Doğanın müziğini dinle.
-表述 (biǎoshù) | ifade etmek, dile getirmek | fiil | 请用汉语表述意见。(Qǐng yòng hànyǔ biǎoshù yìjiàn.) | Lütfen görüşü Çince ifade edin.
+您 (nín) | siz (saygılı tekil) | zamir | 您贵姓？(Nín guì xìng?) | Soyadınız nedir efendim?
+他 (tā) | o (erkek) | zamir | 他是我哥哥。(Tā shì wǒ gēge.) | O benim ağabeyim.
+她 (tā) | o (kadın) | zamir | 她叫玛丽亚。(Tā jiào Mǎlìyà.) | Onun adı Maria.
+它 (tā) | o (hayvan, eşya) | zamir | 这是我的猫，它很小。(Zhè shì wǒ de māo, tā hěn xiǎo.) | Bu benim kedim, o çok küçük.
+我们 (wǒmen) | biz | zamir | 我们是同学。(Wǒmen shì tóngxué.) | Biz sınıf arkadaşıyız.
+你们 (nǐmen) | siz (çoğul) | zamir | 你们好！(Nǐmen hǎo!) | Merhaba hepinize!
+他们 (tāmen) | onlar | zamir | 他们都是医生。(Tāmen dōu shì yīshēng.) | Onların hepsi doktor.
+她们 (tāmen) | onlar (kadınlar) | zamir | 她们是姐妹。(Tāmen shì jiěmèi.) | Onlar kız kardeş.
+咱们 (zánmen) | biz (konuşulan kişi dahil) | zamir | 咱们走吧！(Zánmen zǒu ba!) | Hadi gidelim!
+大家 (dàjiā) | herkes | zamir | 大家好，我叫阿里。(Dàjiā hǎo, wǒ jiào Ālǐ.) | Herkese merhaba, benim adım Ali.
+## Tanışma
+叫 (jiào) | adı ... olmak; çağırmak | fiil | 你叫什么名字？(Nǐ jiào shénme míngzi?) | Adın ne?
+名字 (míngzi) | ad, isim | isim | 我的名字是索菲亚。(Wǒ de míngzi shì Suǒfēiyà.) | Benim adım Sofia.
+姓 (xìng) | soyadı; soyadı ... olmak | fiil | 我姓张。(Wǒ xìng Zhāng.) | Soyadım Zhang.
+认识 (rènshi) | tanımak; tanışmak | fiil | 很高兴认识你。(Hěn gāoxìng rènshi nǐ.) | Tanıştığımıza çok memnun oldum.
+高兴 (gāoxìng) | memnun, sevinçli | sıfat | 我今天很高兴。(Wǒ jīntiān hěn gāoxìng.) | Bugün çok mutluyum.
+介绍 (jièshào) | tanıştırmak; tanıtmak | fiil | 我来介绍一下。(Wǒ lái jièshào yíxià.) | İzin verin, tanıştırayım.
+朋友 (péngyou) | arkadaş | isim | 他是我的好朋友。(Tā shì wǒ de hǎo péngyou.) | O benim iyi arkadaşım.
+先生 (xiānsheng) | bay, bey; koca | isim | 刘先生，您好！(Liú xiānsheng, nín hǎo!) | Merhaba Liu Bey!
+女士 (nǚshì) | bayan, hanımefendi | isim | 陈女士是我的老师。(Chén nǚshì shì wǒ de lǎoshī.) | Chen Hanım benim öğretmenim.
+同学 (tóngxué) | sınıf arkadaşı; okul arkadaşı | isim | 由纪是我的同学。(Yóujì shì wǒ de tóngxué.) | Yuki benim sınıf arkadaşım.
+## Ülkeler ve diller
+国家 (guójiā) | ülke | isim | 你是哪个国家的人？(Nǐ shì nǎge guójiā de rén?) | Hangi ülkedensin?
+中国 (Zhōngguó) | Çin | isim | 我想去中国。(Wǒ xiǎng qù Zhōngguó.) | Çin'e gitmek istiyorum.
+土耳其 (Tǔ'ěrqí) | Türkiye | isim | 埃姆雷来自土耳其。(Āimǔléi láizì Tǔ'ěrqí.) | Emre Türkiye'den geliyor.
+英国 (Yīngguó) | İngiltere | isim | 他在英国学习。(Tā zài Yīngguó xuéxí.) | O İngiltere'de okuyor.
+德国 (Déguó) | Almanya | isim | 卢卡斯是德国人。(Lúkǎsī shì Déguó rén.) | Lukas Alman.
+俄罗斯 (Éluósī) | Rusya | isim | 俄罗斯冬天很冷。(Éluósī dōngtiān hěn lěng.) | Rusya'da kışın hava çok soğuk.
+日本 (Rìběn) | Japonya | isim | 由纪的家在日本。(Yóujì de jiā zài Rìběn.) | Yuki'nin evi Japonya'da.
+汉语 (Hànyǔ) | Çince | isim | 我在学汉语。(Wǒ zài xué Hànyǔ.) | Çince öğreniyorum.
+中文 (Zhōngwén) | Çince (dil ve yazı) | isim | 你会说中文吗？(Nǐ huì shuō Zhōngwén ma?) | Çince konuşabiliyor musun?
+英语 (Yīngyǔ) | İngilizce | isim | 她的英语很好。(Tā de Yīngyǔ hěn hǎo.) | Onun İngilizcesi çok iyi.
+## Soru kelimeleri
+什么 (shénme) | ne | zamir | 这是什么？(Zhè shì shénme?) | Bu ne?
+谁 (shéi) | kim | zamir | 他是谁？(Tā shì shéi?) | O kim?
+哪 (nǎ) | hangi | zamir | 你喜欢哪本书？(Nǐ xǐhuan nǎ běn shū?) | Hangi kitabı seviyorsun?
+哪儿 (nǎr) | nerede, nereye | zamir | 你去哪儿？(Nǐ qù nǎr?) | Nereye gidiyorsun?
+怎么 (zěnme) | nasıl; neden | zamir | 这个字怎么读？(Zhège zì zěnme dú?) | Bu karakter nasıl okunur?
+怎么样 (zěnmeyàng) | nasıl; ne dersin | zamir | 你最近怎么样？(Nǐ zuìjìn zěnmeyàng?) | Son zamanlarda nasılsın?
+为什么 (wèi shénme) | neden, niçin | zamir | 你为什么学汉语？(Nǐ wèi shénme xué Hànyǔ?) | Neden Çince öğreniyorsun?
+几 (jǐ) | kaç (küçük sayılar) | zamir | 你家有几口人？(Nǐ jiā yǒu jǐ kǒu rén?) | Ailen kaç kişi?
+多少 (duōshao) | ne kadar, kaç | zamir | 这个多少钱？(Zhège duōshao qián?) | Bu ne kadar?
+吗 (ma) | soru edatı (mi?) | edat | 你是老师吗？(Nǐ shì lǎoshī ma?) | Öğretmen misin?
+## Kısa cevaplar
+对 (duì) | doğru; evet | sıfat | 对，我是北京人。(Duì, wǒ shì Běijīng rén.) | Evet, Pekinliyim.
+错 (cuò) | yanlış; hata | sıfat | 这个字写错了。(Zhège zì xiě cuò le.) | Bu karakter yanlış yazılmış.
+好的 (hǎo de) | tamam, peki | ifade | 好的，我马上来。(Hǎo de, wǒ mǎshàng lái.) | Tamam, hemen geliyorum.
+行 (xíng) | olur, tamam | sıfat | 明天去，行吗？(Míngtiān qù, xíng ma?) | Yarın gitsek olur mu?
+可以 (kěyǐ) | -ebilmek (izin); olur | fiil | 我可以坐这儿吗？(Wǒ kěyǐ zuò zhèr ma?) | Buraya oturabilir miyim?
+当然 (dāngrán) | elbette, tabii | zarf | 当然可以！(Dāngrán kěyǐ!) | Tabii ki olur!
+没问题 (méi wèntí) | sorun değil, olur | ifade | 没问题，我帮你。(Méi wèntí, wǒ bāng nǐ.) | Sorun değil, sana yardım ederim.
+真的 (zhēn de) | gerçekten; sahiden mi | ifade | 真的吗？太好了！(Zhēn de ma? Tài hǎo le!) | Gerçekten mi? Harika!
+知道 (zhīdào) | bilmek (bilgi) | fiil | 我不知道他的名字。(Wǒ bù zhīdào tā de míngzi.) | Onun adını bilmiyorum.
+明白 (míngbai) | anlamak; açık, anlaşılır | fiil | 我明白你的意思。(Wǒ míngbai nǐ de yìsi.) | Ne demek istediğini anlıyorum.
+## Sınıfta
+老师 (lǎoshī) | öğretmen | isim | 我们的老师很好。(Wǒmen de lǎoshī hěn hǎo.) | Öğretmenimiz çok iyi.
+学生 (xuésheng) | öğrenci | isim | 这个班有二十个学生。(Zhège bān yǒu èrshí ge xuésheng.) | Bu sınıfta yirmi öğrenci var.
+学校 (xuéxiào) | okul | isim | 我们的学校很大。(Wǒmen de xuéxiào hěn dà.) | Okulumuz çok büyük.
+上课 (shàngkè) | derse girmek; ders başlamak | fiil | 我们八点上课。(Wǒmen bā diǎn shàngkè.) | Saat sekizde derse giriyoruz.
+下课 (xiàkè) | ders bitmek | fiil | 下课以后去吃饭吧。(Xiàkè yǐhòu qù chīfàn ba.) | Dersten sonra yemeğe gidelim.
+问题 (wèntí) | soru; sorun | isim | 老师，我有一个问题。(Lǎoshī, wǒ yǒu yí ge wèntí.) | Hocam, bir sorum var.
+回答 (huídá) | cevap vermek; cevap | fiil | 请回答我的问题。(Qǐng huídá wǒ de wèntí.) | Lütfen soruma cevap verin.
+汉字 (Hànzì) | Çince karakter | isim | 汉字很难写。(Hànzì hěn nán xiě.) | Çince karakterleri yazmak çok zor.
+课 (kè) | ders | isim | 今天有三节课。(Jīntiān yǒu sān jié kè.) | Bugün üç ders var.
+作业 (zuòyè) | ödev | isim | 你做作业了吗？(Nǐ zuò zuòyè le ma?) | Ödevini yaptın mı?
+## Küçük ama önemli kelimeler
+呢 (ne) | ya ...? (soru edatı) | edat | 我很好，你呢？(Wǒ hěn hǎo, nǐ ne?) | Ben iyiyim, ya sen?
+吧 (ba) | öneri edatı (-elim, -sana) | edat | 我们一起去吧。(Wǒmen yìqǐ qù ba.) | Birlikte gidelim.
+的 (de) | -in (iyelik), -ki | edat | 这是我的书。(Zhè shì wǒ de shū.) | Bu benim kitabım.
+也 (yě) | de, da | zarf | 我也是学生。(Wǒ yě shì xuésheng.) | Ben de öğrenciyim.
+都 (dōu) | hepsi, hep | zarf | 我们都喜欢喝茶。(Wǒmen dōu xǐhuan hē chá.) | Hepimiz çay içmeyi severiz.
+和 (hé) | ve, ile | bağlaç | 我和奥马尔是朋友。(Wǒ hé Àomǎ'ěr shì péngyou.) | Omar ile ben arkadaşız.
+很 (hěn) | çok | zarf | 今天很热。(Jīntiān hěn rè.) | Bugün çok sıcak.
+太 (tài) | fazla, aşırı | zarf | 这个太贵了！(Zhège tài guì le!) | Bu çok pahalı!
+还 (hái) | hâlâ; daha, ayrıca | zarf | 他还在睡觉。(Tā hái zài shuìjiào.) | O hâlâ uyuyor.
+一起 (yìqǐ) | birlikte | zarf | 我们一起学习吧。(Wǒmen yìqǐ xuéxí ba.) | Birlikte çalışalım.
+## Kendinden bahsetmek
+岁 (suì) | yaş | isim | 我今年二十五岁。(Wǒ jīnnián èrshíwǔ suì.) | Bu yıl yirmi beş yaşındayım.
+今年 (jīnnián) | bu yıl | isim | 你今年多大？(Nǐ jīnnián duō dà?) | Bu yıl kaç yaşındasın?
+住 (zhù) | oturmak, yaşamak (bir yerde) | fiil | 我住在上海。(Wǒ zhù zài Shànghǎi.) | Şanghay'da oturuyorum.
+电话 (diànhuà) | telefon | isim | 我给你打电话。(Wǒ gěi nǐ dǎ diànhuà.) | Seni telefonla ararım.
+号码 (hàomǎ) | numara | isim | 你的手机号码是多少？(Nǐ de shǒujī hàomǎ shì duōshao?) | Cep telefonu numaran kaç?
+生日 (shēngrì) | doğum günü | isim | 生日快乐！(Shēngrì kuàilè!) | Doğum günün kutlu olsun!
+爱好 (àihào) | hobi | isim | 你的爱好是什么？(Nǐ de àihào shì shénme?) | Hobin ne?
+喜欢 (xǐhuan) | sevmek, hoşlanmak | fiil | 我喜欢看书。(Wǒ xǐhuan kàn shū.) | Kitap okumayı severim.
+地址 (dìzhǐ) | adres | isim | 请写一下你的地址。(Qǐng xiě yíxià nǐ de dìzhǐ.) | Lütfen adresini yaz.
+自己 (zìjǐ) | kendi, kendisi | zamir | 我自己做饭。(Wǒ zìjǐ zuò fàn.) | Yemeğimi kendim yaparım.
