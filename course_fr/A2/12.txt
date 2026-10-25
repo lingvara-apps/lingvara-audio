@@ -1,0 +1,111 @@
+# UNIT: Eğitim ve toplum | Okul, üniversite, resmî işler, şehir, bağlaçlar
+## Okulda
+la classe | sınıf | isim (d) | Il y a vingt-cinq élèves dans la classe. | Sınıfta yirmi beş öğrenci var.
+l'élève (m) | öğrenci (okul) | isim (e) | Cet élève est très curieux. | Bu öğrenci çok meraklı.
+le cours | ders | isim (e) | Le cours de français commence à dix heures. | Fransızca dersi saat onda başlıyor.
+la leçon | ders (konu) | isim (d) | Apprends ta leçon pour demain. | Yarın için dersini çalış.
+les devoirs | ödev | isim (çoğul) | Tu as fini tes devoirs ? | Ödevlerini bitirdin mi?
+l'examen (m) | sınav | isim (e) | J'ai un examen de maths lundi. | Pazartesi matematik sınavım var.
+la note | not; nota | isim (d) | J'ai eu une bonne note en histoire. | Tarihten iyi not aldım.
+la récréation | teneffüs | isim (d) | Les enfants jouent pendant la récréation. | Çocuklar teneffüste oynuyor.
+le cartable | okul çantası | isim (e) | Son cartable est très lourd. | Okul çantası çok ağır.
+la matière | ders (branş); madde | isim (d) | Quelle est ta matière préférée ? | En sevdiğin ders hangisi?
+## Dersler
+les mathématiques | matematik | isim (çoğul) | Les mathématiques, c'est difficile pour moi. | Matematik benim için zor.
+l'histoire (f) | tarih; hikâye | isim (d) | J'aime l'histoire de France. | Fransa tarihini severim.
+la géographie | coğrafya | isim (d) | En géographie, on étudie les fleuves. | Coğrafyada nehirleri öğreniyoruz.
+la physique | fizik | isim (d) | Le professeur de physique est sévère. | Fizik öğretmeni sert.
+la chimie | kimya | isim (d) | On fait une expérience en chimie. | Kimyada bir deney yapıyoruz.
+la biologie | biyoloji | isim (d) | Elle veut étudier la biologie. | Biyoloji okumak istiyor.
+la philosophie | felsefe | isim (d) | Au lycée, on étudie la philosophie. | Lisede felsefe okunur.
+l'informatique (f) | bilgisayar bilimi, bilişim | isim (d) | Mon fils adore l'informatique. | Oğlum bilişime bayılıyor.
+l'éducation physique (f) | beden eğitimi | isim (d) | On a éducation physique le jeudi. | Perşembe günleri beden eğitimi dersimiz var.
+les sciences | fen bilimleri | isim (çoğul) | Elle est forte en sciences. | Fen derslerinde iyi.
+## Üniversite
+l'université (f) | üniversite | isim (d) | Il étudie à l'université de Montréal. | Montreal Üniversitesi'nde okuyor.
+la faculté | fakülte | isim (d) | La faculté de médecine est en centre-ville. | Tıp fakültesi şehir merkezinde.
+l'étudiant (m) | üniversite öğrencisi | isim (e) | Les étudiants mangent au restaurant universitaire. | Öğrenciler yemekhanede yiyor.
+le diplôme | diploma | isim (e) | Elle a eu son diplôme en juin. | Diplomasını haziranda aldı.
+la licence | lisans (üç yıllık üniversite); ehliyet, izin | isim (d) | Je suis en deuxième année de licence. | Lisansın ikinci yılındayım.
+le master | yüksek lisans | isim (e) | Après la licence, je fais un master. | Lisanstan sonra yüksek lisans yapıyorum.
+l'amphithéâtre (m) | amfi, büyük derslik | isim (e) | Le cours a lieu dans l'amphithéâtre B. | Ders B amfisinde yapılıyor.
+la bourse | burs; borsa | isim (d) | Il a obtenu une bourse pour étudier en France. | Fransa'da okumak için burs aldı.
+s'inscrire (inscrit) | kaydolmak | fiil · dönüşlü | Je me suis inscrit à un cours de français. | Bir Fransızca kursuna kaydoldum.
+le baccalauréat | bakalorya (lise bitirme sınavı) | isim (e) | Ma sœur passe le baccalauréat cette année. | Kız kardeşim bu yıl bakalorya sınavına giriyor.
+## Öğrenmek ve öğretmek
+réviser | tekrar etmek, çalışmak (sınava) | fiil | Je révise pour l'examen de demain. | Yarınki sınava çalışıyorum.
+passer un examen | sınava girmek | ifade | Je passe un examen de français vendredi. | Cuma Fransızca sınavına giriyorum.
+échouer | başarısız olmak | fiil | Il a échoué à son examen de conduite. | Sürüş sınavında kaldı.
+enseigner | öğretmek | fiil | Elle enseigne l'anglais dans un collège. | Bir ortaokulda İngilizce öğretiyor.
+corriger | düzeltmek; okumak (sınav kâğıdı) | fiil | Le professeur corrige les copies. | Öğretmen sınav kâğıtlarını okuyor.
+traduire (traduit) | çevirmek (dil) | fiil · düzensiz | Tu peux traduire cette phrase en turc ? | Bu cümleyi Türkçeye çevirebilir misin?
+résumer | özetlemek | fiil | Résume le texte en cinq lignes. | Metni beş satırda özetle.
+mémoriser | ezberlemek, akılda tutmak | fiil | J'utilise des cartes pour mémoriser les mots. | Kelimeleri akılda tutmak için kartlar kullanıyorum.
+par cœur | ezbere | ifade | Je connais ce poème par cœur. | Bu şiiri ezbere biliyorum.
+prendre des notes | not almak | ifade | Je prends des notes pendant le cours. | Derste not alıyorum.
+## Okul eşyaları
+la trousse | kalem kutusu | isim (d) | Mes crayons sont dans ma trousse. | Kalemlerim kalem kutumda.
+la gomme | silgi | isim (d) | Tu me prêtes ta gomme ? | Silgini bana ödünç verir misin?
+la règle | cetvel; kural | isim (d) | Trace une ligne avec la règle. | Cetvelle bir çizgi çiz.
+le feutre | keçeli kalem | isim (e) | Les enfants dessinent avec des feutres. | Çocuklar keçeli kalemlerle resim yapıyor.
+les ciseaux | makas | isim (çoğul) | Attention avec les ciseaux ! | Makasla dikkatli ol!
+la colle | yapıştırıcı | isim (d) | Il me faut de la colle. | Yapıştırıcıya ihtiyacım var.
+le dictionnaire | sözlük | isim (e) | Cherche le mot dans le dictionnaire. | Kelimeyi sözlükte ara.
+le manuel | ders kitabı; kılavuz | isim (e) | Ouvrez le manuel à la page vingt. | Ders kitabını yirminci sayfadan açın.
+le taille-crayon | kalemtıraş | isim (e) | Mon taille-crayon est cassé. | Kalemtıraşım kırık.
+le surligneur | fosforlu kalem | isim (e) | Je souligne les mots importants au surligneur. | Önemli kelimeleri fosforlu kalemle işaretliyorum.
+## Resmî işler
+l'administration (f) | idare, yönetim; resmî daireler | isim (d) | L'administration française est compliquée. | Fransız bürokrasisi karmaşık.
+la démarche | işlem, prosedür | isim (d) | Quelles sont les démarches pour avoir un visa ? | Vize almak için işlemler neler?
+la préfecture | valilik | isim (d) | Je vais à la préfecture pour mon titre de séjour. | Oturma iznim için valiliğe gidiyorum.
+le justificatif de domicile | ikametgâh belgesi | isim (e) | Il faut un justificatif de domicile récent. | Yeni tarihli bir ikametgâh belgesi gerekiyor.
+la photocopie | fotokopi | isim (d) | Apportez une photocopie de votre passeport. | Pasaportunuzun fotokopisini getirin.
+le tampon | mühür, damga | isim (e) | Il manque un tampon sur ce document. | Bu belgede bir mühür eksik.
+la signature | imza | isim (d) | Votre signature, ici, s'il vous plaît. | İmzanız buraya lütfen.
+officiel (officielle) | resmî | sıfat | C'est un document officiel. | Bu resmî bir belge.
+la file d'attente | bekleme sırası, kuyruk | isim (d) | La file d'attente est très longue. | Bekleme sırası çok uzun.
+le certificat | belge, sertifika | isim (e) | Le médecin m'a donné un certificat. | Doktor bana bir belge verdi.
+## Şehir ve toplum
+le citoyen | vatandaş | isim (e) | Chaque citoyen peut voter à dix-huit ans. | Her vatandaş on sekiz yaşında oy kullanabilir.
+la population | nüfus | isim (d) | La population de la ville augmente. | Şehrin nüfusu artıyor.
+l'habitant (m) | sakin, oturan | isim (e) | Ce village a cinq cents habitants. | Bu köyün beş yüz sakini var.
+la commune | belde, belediye (Fransa'da en küçük idari birim) | isim (d) | Notre commune est petite. | Beldemiz küçük.
+le maire | belediye başkanı | isim (e) | Le maire marie les couples à la mairie. | Belediye başkanı çiftleri belediyede evlendiriyor.
+l'élection (f) | seçim | isim (d) | Les élections ont lieu en mai. | Seçimler mayısta yapılıyor.
+voter | oy vermek | fiil | Je vote pour la première fois. | İlk kez oy kullanıyorum.
+la loi | kanun, yasa | isim (d) | Tout le monde doit respecter la loi. | Herkes kanuna uymalı.
+le droit | hak; hukuk | isim (e) | Les enfants ont des droits. | Çocukların hakları vardır.
+l'association (f) | dernek | isim (d) | Elle travaille dans une association d'aide aux animaux. | Hayvanlara yardım eden bir dernekte çalışıyor.
+## Kamu hizmetleri
+la médiathèque | kütüphane ve medya merkezi | isim (d) | J'emprunte des films à la médiathèque. | Medya merkezinden film ödünç alıyorum.
+le jardin public | halk bahçesi, park | isim (e) | Les retraités se promènent dans le jardin public. | Emekliler halk bahçesinde yürüyüş yapıyor.
+la crèche | kreş | isim (d) | Le bébé va à la crèche le matin. | Bebek sabahları kreşe gidiyor.
+l'école maternelle (f) | anaokulu | isim (d) | Ma fille entre à l'école maternelle en septembre. | Kızım eylülde anaokuluna başlıyor.
+le collège | ortaokul | isim (e) | Mon fils est en troisième au collège. | Oğlum ortaokul son sınıfta.
+le lycée | lise | isim (e) | Le lycée est à côté de la gare. | Lise istasyonun yanında.
+la maison de retraite | huzurevi | isim (d) | Ma grand-tante vit dans une maison de retraite. | Büyük teyzem huzurevinde yaşıyor.
+le service public | kamu hizmeti | isim (e) | La poste est un service public. | Posta bir kamu hizmetidir.
+la salle des fêtes | düğün salonu, belediye toplantı salonu | isim (d) | La soirée a lieu à la salle des fêtes. | Gece belediye salonunda yapılıyor.
+le centre culturel | kültür merkezi | isim (e) | Il y a un concert au centre culturel. | Kültür merkezinde bir konser var.
+## Bağlaçlar
+pourtant | yine de, oysa | zarf | Il fait froid, pourtant il porte un t-shirt. | Hava soğuk, yine de tişört giyiyor.
+cependant | ancak, bununla birlikte | zarf | Le film est long, cependant il est intéressant. | Film uzun, ancak ilginç.
+alors que | -iken, oysa | bağlaç | Il dort alors que tout le monde travaille. | Herkes çalışırken o uyuyor.
+pendant que | -dığı sırada | bağlaç | Je cuisine pendant que tu mets la table. | Sen sofrayı kurarken ben yemek yapıyorum.
+dès que | -ir -mez | bağlaç | Appelle-moi dès que tu arrives. | Varır varmaz beni ara.
+lorsque | -dığında | bağlaç | Lorsque j'étais petit, j'habitais à Tunis. | Küçükken Tunus'ta yaşıyordum.
+puisque | madem, -dığına göre | bağlaç | Puisque tu es là, aide-moi ! | Madem buradasın, bana yardım et!
+par contre | buna karşılık, ama | zarf | Le restaurant est cher, par contre c'est très bon. | Restoran pahalı, ama çok lezzetli.
+en effet | gerçekten de, nitekim | zarf | Il est fatigué ; en effet, il a mal dormi. | Yorgun; nitekim kötü uyudu.
+c'est pourquoi | bu yüzden | ifade | Il pleut, c'est pourquoi je prends le bus. | Yağmur yağıyor, bu yüzden otobüse biniyorum.
+## Bağlayıcı ifadeler
+finalement | sonunda, nihayetinde | zarf | Finalement, nous sommes restés à la maison. | Sonunda evde kaldık.
+d'un côté | bir yandan | ifade | D'un côté, c'est cher ; de l'autre, c'est pratique. | Bir yandan pahalı, öte yandan kullanışlı.
+par exemple | örneğin | ifade | J'aime les fruits, par exemple les pommes. | Meyveleri severim, örneğin elmaları.
+c'est-à-dire | yani, demek ki | ifade | Il arrive lundi, c'est-à-dire dans trois jours. | Pazartesi, yani üç gün sonra geliyor.
+en plus | üstelik, ayrıca | ifade | Il est gentil, et en plus il est drôle. | Nazik, üstelik komik.
+sinon | yoksa, aksi hâlde | bağlaç | Dépêche-toi, sinon on va rater le train. | Acele et, yoksa treni kaçıracağız.
+ni... ni | ne ... ne | bağlaç | Je ne bois ni café ni thé. | Ne kahve ne çay içerim.
+soit... soit | ya ... ya | bağlaç | On mange soit des pâtes, soit du riz. | Ya makarna ya pilav yiyeceğiz.
+grâce à | sayesinde | edat | J'ai trouvé du travail grâce à toi. | Senin sayende iş buldum.
+à cause de | yüzünden | edat | Le train est en retard à cause de la neige. | Tren kar yüzünden gecikti.
