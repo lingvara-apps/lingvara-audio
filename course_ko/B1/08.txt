@@ -1,0 +1,111 @@
+# UNIT: Ekonomi ve para | Finans, banka, piyasa, kişisel bütçe
+## Ekonominin temelleri
+경제 (gyeongje) | ekonomi | isim | 관광 산업은 그 나라 경제에 큰 도움이 된다. | Turizm sektörü o ülkenin ekonomisine büyük katkı sağlar.
+경기가 풀리다 (gyeonggiga pullida) | ekonomi canlanmak, piyasa açılmak | ifade | 경기가 풀리면 가게 매출도 좀 나아질 거예요. | Piyasa açılınca dükkânın satışları da biraz düzelir.
+물가 (mulga) | fiyatlar, hayat pahalılığı | isim | 서울은 물가가 비싸서 생활비가 많이 든다. | Seul'de fiyatlar yüksek olduğu için geçim masrafı çok tutuyor.
+소비 (sobi) | tüketim | isim | 연말에는 소비가 늘어나는 경향이 있다. | Yıl sonunda tüketim artma eğilimindedir.
+소비자 (sobija) | tüketici | isim | 소비자들은 가격보다 품질을 더 따진다. | Tüketiciler fiyattan çok kaliteye bakıyor.
+생산 (saengsan) | üretim | isim | 공장이 멈추면서 자동차 생산이 줄었다. | Fabrika durunca otomobil üretimi azaldı.
+공급 (gonggeup) | arz, tedarik | isim | 배추 공급이 부족해서 김장 비용이 올랐다. | Lahana arzı yetersiz olduğu için kışlık kimchi masrafı arttı.
+수요 (suyo) | talep | isim | 여름에는 에어컨 수요가 크게 늘어난다. | Yazın klimaya olan talep büyük ölçüde artar.
+가치 (gachi) | değer | isim | 이 그림의 가치는 시간이 갈수록 높아질 것이다. | Bu tablonun değeri zaman geçtikçe artacak.
+하락하다 (harakada) | düşmek (fiyat, değer) | fiil | 집값이 작년보다 조금 하락했다. | Ev fiyatları geçen yıla göre biraz düştü.
+## Bankacılık
+예금 (yegeum) | mevduat | isim | 은행에 예금을 해 두면 이자가 조금 붙는다. | Bankaya mevduat yatırırsan biraz faiz işler.
+적금 (jeokgeum) | birikim hesabı (düzenli yatırımlı) | isim | 결혼 자금을 모으려고 매달 적금을 붓고 있다. | Düğün parası biriktirmek için her ay birikim hesabına para yatırıyorum.
+금리 (geumni) | faiz oranı | isim | 금리가 오르면 대출 이자 부담도 커진다. | Faiz oranları yükselince kredi faizi yükü de artar.
+원금 (wongeum) | anapara | isim | 이 상품은 원금이 보장되니까 안전해요. | Bu üründe anapara garantili olduğu için güvenli.
+만기 (mangi) | vade sonu | isim | 적금 만기가 되면 그 돈으로 여행을 갈 거예요. | Birikim hesabının vadesi dolunca o parayla seyahate gideceğim.
+담보 (dambo) | teminat | isim | 집을 담보로 은행에서 돈을 빌렸다. | Evi teminat göstererek bankadan borç aldı.
+신용 (sinyong) | kredi notu, itibar | isim | 카드 대금을 늦게 내면 신용이 떨어진다. | Kart borcunu geç ödersen kredi notun düşer.
+연체되다 (yeonchedoeda) | gecikmek (ödeme) | fiil | 휴대폰 요금이 두 달째 연체되었다. | Telefon faturası iki aydır gecikmede.
+창구 (changgu) | gişe | isim | 은행 창구 앞에 사람들이 줄을 서 있다. | Banka gişesinin önünde insanlar sıraya girmiş.
+예금주 (yegeumju) | hesap sahibi | isim | 송금하기 전에 예금주 이름을 꼭 확인하세요. | Para göndermeden önce hesap sahibinin adını mutlaka kontrol edin.
+## Yatırım ve piyasa
+주식 (jusik) | hisse senedi | isim | 요즘 젊은 사람들도 주식에 관심이 많다. | Bu aralar gençler de hisse senedine çok ilgi duyuyor.
+투자하다 (tujahada) | yatırım yapmak | fiil | 그는 월급의 일부를 꾸준히 투자하고 있다. | Maaşının bir kısmını düzenli olarak yatırıma yönlendiriyor.
+투자자 (tujaja) | yatırımcı | isim | 그 회사의 발표에 투자자들이 실망했다. | O şirketin açıklaması yatırımcıları hayal kırıklığına uğrattı.
+가상 화폐 (gasang hwapye) | kripto para | isim | 가상 화폐는 가격 변동이 너무 심하다. | Kripto paraların fiyat dalgalanması çok şiddetli.
+수익 (suik) | kazanç, getiri | isim | 작년에 투자로 꽤 많은 수익을 냈다. | Geçen yıl yatırımdan epey kazanç elde etti.
+펀드 (peondeu) | yatırım fonu | isim | 은행 직원이 새로 나온 펀드를 추천했다. | Banka çalışanı yeni çıkan bir yatırım fonu önerdi.
+증권사 (jeunggwonsa) | aracı kurum | isim | 주식을 사려면 증권사 계좌를 먼저 만들어야 한다. | Hisse almak için önce aracı kurumda hesap açmak gerekir.
+폭락하다 (pongnakada) | çakılmak, sert düşmek | fiil | 나쁜 소식이 나오자 주가가 폭락했다. | Kötü haber gelince hisse fiyatları çakıldı.
+급등하다 (geupdeunghada) | fırlamak, hızla yükselmek | fiil | 기름값이 급등하면서 택시 요금도 올랐다. | Akaryakıt fiyatları fırlayınca taksi ücretleri de arttı.
+시세 (sise) | piyasa fiyatı, kur | isim | 금 시세가 매일 조금씩 바뀐다. | Altının piyasa fiyatı her gün biraz değişir.
+## Kişisel bütçe
+가계부 (gagyebu) | ev bütçe defteri | isim | 매일 가계부를 쓰니까 쓸데없는 지출이 줄었다. | Her gün bütçe defteri tutunca gereksiz harcamalar azaldı.
+지출 (jichul) | harcama, gider | isim | 이번 달은 병원비 때문에 지출이 많았다. | Bu ay hastane masrafları yüzünden harcamalar fazlaydı.
+고정비 (gojeongbi) | sabit gider | isim | 월세와 통신비 같은 고정비부터 줄여 보세요. | Kira ve iletişim gibi sabit giderlerden başlayarak kısmayı deneyin.
+재테크 (jaetekeu) | birikimi değerlendirme, para yönetimi | isim | 사회 초년생을 위한 재테크 강의를 들었다. | İş hayatına yeni başlayanlar için para yönetimi dersi dinledim.
+비상금 (bisanggeum) | acil durum parası | isim | 지갑 안쪽에 비상금을 조금 넣어 두었다. | Cüzdanın iç gözüne biraz acil durum parası koydum.
+소득 (sodeuk) | gelir | isim | 소득이 늘었지만 물가도 올라서 생활은 비슷하다. | Gelirim arttı ama fiyatlar da yükseldi, hayatım aşağı yukarı aynı.
+빚 (bit) | borç | isim | 그는 오 년 만에 빚을 모두 갚았다. | Beş yılda bütün borcunu ödedi.
+갚다 (gapda) | (borcu) ödemek, geri vermek | fiil | 지난번에 빌린 돈은 다음 주에 갚을게요. | Geçen sefer ödünç aldığım parayı gelecek hafta geri vereceğim.
+공과금 (gonggwageum) | faturalar (elektrik, su, gaz) | isim | 공과금은 자동 이체로 내고 있어요. | Faturaları otomatik ödeme talimatıyla ödüyorum.
+지출 내역 (jichul naeyeok) | harcama dökümü | isim | 카드 앱에서 이번 달 지출 내역을 확인했다. | Kart uygulamasından bu ayın harcama dökümünü kontrol ettim.
+## Tüketim ve alışveriş
+충동구매 (chungdonggumae) | anlık satın alma (dürtüsel) | isim | 세일 기간에는 충동구매를 하기 쉽다. | İndirim dönemlerinde dürtüsel alışveriş yapmak kolaydır.
+정가 (jeongga) | etiket fiyatı | isim | 이 책은 정가보다 십 퍼센트 싸게 샀다. | Bu kitabı etiket fiyatından yüzde on ucuza aldım.
+반값 (bangap) | yarı fiyat | isim | 마감 시간이 되면 빵을 반값에 판다. | Kapanış saatinde ekmekleri yarı fiyatına satıyorlar.
+가성비 (gaseongbi) | fiyat-performans oranı | isim | 이 식당은 가성비가 좋아서 학생들이 많이 온다. | Bu lokanta fiyatına göre iyi olduğu için öğrenciler çok geliyor.
+구매하다 (gumaehada) | satın almak | fiil | 온라인으로 구매하면 배송비가 무료입니다. | İnternetten satın alırsanız kargo ücretsiz.
+품질 (pumjil) | kalite | isim | 값이 좀 비싸도 품질이 좋은 제품을 고른다. | Fiyatı biraz pahalı olsa da kaliteli ürünü seçerim.
+최저가 (choejeoga) | en düşük fiyat | isim | 여러 사이트를 비교해서 최저가로 샀다. | Birkaç siteyi karşılaştırıp en düşük fiyata aldım.
+사치 (sachi) | lüks, israf | isim | 사치를 부리지 않고 검소하게 사는 것이 그의 원칙이다. | Lükse kaçmadan tutumlu yaşamak onun ilkesi.
+명품 (myeongpum) | lüks marka ürün | isim | 명품 가방 대신 여행에 돈을 쓰고 싶다. | Lüks çanta yerine parayı seyahate harcamak istiyorum.
+결제 수단 (gyeolje sudan) | ödeme yöntemi | isim | 요즘은 현금보다 모바일 결제 수단을 많이 쓴다. | Bu aralar nakit yerine mobil ödeme yöntemleri çok kullanılıyor.
+## Ticaret
+수출 (suchul) | ihracat | isim | 반도체는 한국의 가장 중요한 수출 품목이다. | Yarı iletkenler Kore'nin en önemli ihracat kalemidir.
+수입 (suip) | ithalat; gelir | isim | 이 과일은 대부분 외국에서 수입한 것이다. | Bu meyvelerin çoğu yurt dışından ithal edilmiş.
+무역 (muyeok) | dış ticaret | isim | 두 나라는 무역을 통해 서로 발전해 왔다. | İki ülke dış ticaret sayesinde birlikte gelişti.
+관세 (gwanse) | gümrük vergisi | isim | 해외 직구 금액이 많으면 관세를 내야 한다. | Yurt dışı alışveriş tutarı yüksekse gümrük vergisi ödemen gerekir.
+원자재 (wonjajae) | hammadde | isim | 원자재 가격이 올라서 제품 가격도 인상되었다. | Hammadde fiyatları arttığı için ürün fiyatları da yükseltildi.
+유통 (yutong) | dağıtım | isim | 유통 과정이 복잡하면 소비자 가격이 비싸진다. | Dağıtım süreci karmaşıksa tüketici fiyatı pahalılaşır.
+물류 (mullyu) | lojistik | isim | 명절 전에는 물류 센터가 매우 바쁘다. | Bayram öncesinde lojistik merkezleri çok yoğun olur.
+상인 (sangin) | tüccar, esnaf | isim | 시장 상인들이 손님을 부르는 소리가 활기차다. | Pazardaki esnafın müşteri çağıran sesleri canlı.
+도매 (domae) | toptan satış | isim | 동대문 시장에서는 옷을 도매로 살 수 있다. | Dongdaemun pazarında toptan giysi alınabilir.
+소매업 (somaeeop) | perakendecilik | isim | 도매로 사서 소매업을 하면 차익을 남길 수 있다. | Toptan alıp perakendecilik yaparsan fark kazanabilirsin.
+## İşletmeler ve istihdam
+자영업자 (jayeongeopja) | serbest meslek sahibi, esnaf | isim | 경기가 나빠서 자영업자들이 어려움을 겪고 있다. | Ekonomi kötü olduğu için esnaf zorluk yaşıyor.
+소상공인 (sosanggongin) | küçük işletme sahibi | isim | 정부가 소상공인을 위한 대출 제도를 마련했다. | Hükümet küçük işletme sahipleri için kredi sistemi hazırladı.
+대기업 (daegieop) | büyük şirket, holding | isim | 많은 청년들이 대기업에 들어가고 싶어 한다. | Birçok genç büyük şirketlere girmek istiyor.
+중소기업 (jungsogieop) | KOBİ, küçük ve orta ölçekli işletme | isim | 중소기업도 복지가 좋은 곳이 늘고 있다. | Sosyal hakları iyi olan KOBİ'ler de artıyor.
+공기업 (gonggieop) | kamu iktisadi kuruluşu | isim | 공기업은 안정적이어서 취업 준비생들에게 인기가 많다. | Kamu kuruluşları istikrarlı olduğu için iş arayanlar arasında popüler.
+노동자 (nodongja) | işçi | isim | 노동자의 권리를 보호하는 법이 필요하다. | İşçilerin haklarını koruyan yasalar gereklidir.
+고용 (goyong) | istihdam | isim | 새 공장이 생기면서 지역의 고용이 늘었다. | Yeni fabrika açılınca bölgede istihdam arttı.
+실업 (sireop) | işsizlik | isim | 청년 실업 문제가 갈수록 심각해지고 있다. | Genç işsizliği sorunu giderek ciddileşiyor.
+실업률 (sireomnyul) | işsizlik oranı | isim | 지난달 실업률이 조금 낮아졌다. | Geçen ay işsizlik oranı biraz düştü.
+일자리 (iljari) | iş imkânı, istihdam alanı | isim | 새 공장이 들어서면 일자리가 천 개 정도 생긴다. | Yeni fabrika kurulursa bin kadar iş imkânı doğacak.
+## Vergi ve kamu ödemeleri
+소득세 (sodeukse) | gelir vergisi | isim | 월급에서 소득세가 자동으로 빠져나간다. | Gelir vergisi maaştan otomatik olarak kesiliyor.
+부가가치세 (bugagachise) | katma değer vergisi (KDV) | isim | 메뉴 가격에는 부가가치세가 포함되어 있다. | Menü fiyatlarına KDV dahildir.
+연말정산 (yeonmaljeongsan) | yıl sonu vergi mahsuplaşması | isim | 연말정산으로 세금을 조금 돌려받았다. | Yıl sonu vergi mahsuplaşmasıyla biraz vergi geri aldım.
+연금 (yeongeum) | emekli maaşı | isim | 할아버지는 연금으로 생활하신다. | Dedem emekli maaşıyla geçiniyor.
+보험료 (boheomnyo) | sigorta primi | isim | 나이가 들수록 보험료가 비싸진다. | Yaş ilerledikçe sigorta primleri pahalılaşır.
+납부하다 (napbuhada) | ödemek (vergi, harç) | fiil | 자동차세는 이번 달 말까지 납부해야 합니다. | Araç vergisi bu ayın sonuna kadar ödenmelidir.
+공제 (gongje) | kesinti, indirim (vergiden) | isim | 의료비는 세금 공제를 받을 수 있다. | Sağlık harcamaları için vergi indirimi alınabilir.
+환급 (hwangeup) | iade (vergi, ücret) | isim | 잘못 낸 세금을 환급받으려면 신청서를 내야 한다. | Hatalı ödenen vergiyi geri almak için başvuru yapmak gerekir.
+지원금 (jiwongeum) | destek ödemesi, hibe | isim | 정부는 출산 가정에 지원금을 준다. | Hükümet doğum yapan ailelere destek ödemesi veriyor.
+복지 (bokji) | refah, sosyal yardım | isim | 노인 복지를 위한 예산이 늘어났다. | Yaşlıların refahı için ayrılan bütçe arttı.
+## Ekonomik durumlar
+불황 (bulhwang) | durgunluk, ekonomik kriz | isim | 불황이 길어지면서 문을 닫는 가게가 많아졌다. | Durgunluk uzadıkça kapanan dükkânlar çoğaldı.
+호황 (hohwang) | ekonomik canlılık, refah dönemi | isim | 그때는 경제가 호황이라서 취직이 쉬웠다. | O zamanlar ekonomi canlı olduğu için iş bulmak kolaydı.
+경기 침체 (gyeonggi chimche) | ekonomik durgunluk | isim | 전문가들은 내년에도 경기 침체가 계속될 거라고 본다. | Uzmanlar gelecek yıl da ekonomik durgunluğun süreceğini düşünüyor.
+인플레이션 (inpeulleisyeon) | enflasyon | isim | 인플레이션 때문에 돈의 가치가 떨어졌다. | Enflasyon yüzünden paranın değeri düştü.
+파산하다 (pasanhada) | iflas etmek | fiil | 무리하게 사업을 넓히다가 회사가 파산했다. | İşini aşırı büyütmeye çalışırken şirket iflas etti.
+부도 (budo) | karşılıksız çıkma, iflas (şirket) | isim | 거래처의 부도로 우리 회사도 피해를 입었다. | Müşteri firmanın iflası yüzünden şirketimiz de zarar gördü.
+회복세 (hoebokse) | toparlanma eğilimi | isim | 수출이 늘면서 경제가 회복세를 보이고 있다. | İhracat artınca ekonomi toparlanma eğilimi gösteriyor.
+경제 성장률 (gyeongje seongjangnyul) | ekonomik büyüme oranı | isim | 올해 경제 성장률은 이 퍼센트로 예상된다. | Bu yılın ekonomik büyüme oranının yüzde iki olması bekleniyor.
+저출산 (jeochulsan) | düşük doğum oranı | isim | 저출산은 장기적으로 경제에 큰 영향을 준다. | Düşük doğum oranı uzun vadede ekonomiyi büyük ölçüde etkiler.
+고물가 (gomulga) | yüksek fiyatlar, pahalılık | isim | 고물가 시대에 외식을 줄이는 사람이 많다. | Pahalılık döneminde dışarıda yemeyi azaltan çok kişi var.
+## Para ile ilgili fiiller ve ifadeler
+벌다 (beolda) | (para) kazanmak | fiil | 아르바이트로 번 돈으로 노트북을 샀다. | Yarı zamanlı işte kazandığım parayla dizüstü bilgisayar aldım.
+아깝다 (akkapda) | yazık olmak, harcamaya kıyamamak (아까워요) | sıfat | 다 먹지도 않을 음식에 돈을 쓰기 아까워요. | Hepsini yemeyeceğim yemeğe para harcamaya kıyamıyorum.
+넉넉하다 (neongneokada) | bol, yeterli | sıfat | 이번 달은 보너스를 받아서 돈이 넉넉하다. | Bu ay ikramiye aldığım için param bol.
+빠듯하다 (ppadeutada) | ancak yetecek kadar, kıt | sıfat | 월급이 빠듯해서 저축할 돈이 없다. | Maaşım ancak yettiği için biriktirecek param yok.
+쪼들리다 (jjodeullida) | sıkışmak (parasal olarak) | fiil | 월말이 되면 늘 돈에 쪼들린다. | Ay sonu gelince hep paraca sıkışırım.
+모자라다 (mojarada) | yetmemek, eksik olmak | fiil | 계산하려는데 돈이 천 원 모자랐다. | Ödemeye çalışırken bin won eksik kaldı.
+남다 (namda) | artmak, kalmak (geriye) | fiil | 여행 경비를 계산해 보니 오만 원이 남았다. | Seyahat masrafını hesaplayınca elli bin won arttı.
+꾸다 (kkuda) | ödünç almak (para) | fiil | 급해서 친구한테 돈을 좀 꿨다. | Acil olduğu için arkadaşımdan biraz borç aldım.
+쏘다 (ssoda) | ısmarlamak (konuşma dili) | fiil | 오늘 월급날이니까 저녁은 내가 쏠게! | Bugün maaş günü, akşam yemeği benden!
+더치페이 (deochipei) | hesabı bölüşme (Alman usulü) | isim | 친구들끼리는 보통 더치페이를 해요. | Arkadaşlar arasında genelde hesabı bölüşürüz.
