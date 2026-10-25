@@ -1,0 +1,111 @@
+# UNIT: Arsitektur dan konstruksi | Desain, struktur penahan, lokasi proyek, instalasi
+## Desain arsitektur
+façade | fasad, bagian depan | Fasad batu aslinya dilestarikan sementara bagian dalamnya dibangun ulang sepenuhnya.
+elevation | gambar tampak depan, elevasi | Gambar tampak depan sisi utara menunjukkan bagaimana jendela sejajar dengan lantai di belakangnya.
+cross-section | penampang melintang | Penampang melintang bangunan memperlihatkan lantai servis tersembunyi di atas lobi.
+site plan | denah lokasi, tata letak | Denah lokasi menandai setiap pohon yang harus dilindungi selama pekerjaan berlangsung.
+atrium (atria) | atrium | Cahaya alami masuk ke dalam kantor melalui atrium beratap kaca.
+mezzanine | lantai mezanin | Arsitek menambahkan lantai mezanin untuk memanfaatkan langit-langit yang tinggi.
+courtyard | halaman dalam | Apartemen-apartemen tersebut disusun mengelilingi halaman dalam yang tenang dan ditanami pohon zaitun.
+cornice | kornis, lis profil | Bagian dari kornis yang rapuh jatuh ke trotoar musim dingin lalu.
+parapet | dinding parapet, pagar pembatas atap | Teras atap dikelilingi oleh dinding parapet bata yang rendah.
+colonnade | deretan tiang, selasar bertiang | Pengunjung memasuki museum melalui deretan tiang panjang yang menghadap ke sungai.
+## Gaya dan elemen arsitektur
+buttress | penopang dinding, buttres | Penopang batu yang masif mencegah dinding katedral miring ke luar.
+vault | langit-langit kubah, vaul | Langit-langit ruang bawah tanah yang lama berupa kubah bata rendah.
+spire | menara runcing | Menara runcing gereja dapat dilihat dari hampir setiap sudut desa.
+keystone | batu kunci | Tanpa batu kunci di bagian atas, seluruh lengkungan akan runtuh.
+gable | dinding gable, atap pelana | Setiap rumah di jalan itu memiliki dinding gable curam yang menghadap ke kanal.
+pediment | pedimen | Pintu masuk bank dimahkotai oleh pedimen segitiga dengan ukiran figur.
+cupola | kubah kecil, kupola | Kubah kecil di atas atap memasukkan cahaya ke tangga utama.
+minimalist | minimalis | Camille lebih menyukai interior minimalis dengan dinding polos dan sangat sedikit perabotan.
+ornate | berukir rumit, sarat hiasan | Balkon teater yang sarat hiasan dipulihkan menggunakan gambar aslinya.
+brutalist | brutalis | Beberapa warga menyukai perpustakaan bergaya brutalis, sementara yang lain menganggap beton mentahnya suram.
+## Proyek dan tender
+invitation to tender | undangan tender, panggilan lelang | Lima perusahaan menanggapi undangan tender untuk sayap rumah sakit baru.
+bill of quantities | daftar kuantitas, daftar volume pekerjaan | Setiap item dalam daftar kuantitas harus diberi harga sebelum tenggat waktu.
+specification | spesifikasi teknis | Spesifikasi teknis mewajibkan panel tahan api di setiap dinding koridor.
+feasibility study | studi kelayakan | Studi kelayakan menyimpulkan bahwa gudang lama dapat diubah menjadi apartemen.
+as-built drawing | gambar terbangun, gambar as-built | Klien meminta gambar terbangun yang menunjukkan secara persis di mana setiap pipa diletakkan.
+variation order | perintah perubahan pekerjaan, variasi pesanan | Tidak boleh ada pekerjaan tambahan yang dimulai sebelum perintah perubahan ditandatangani.
+subcontractor | subkontraktor, pemborong sub | Pekerjaan kelistrikan diserahkan kepada subkontraktor spesialis.
+cost overrun | pembengkakan biaya | Keterlambatan pengiriman baja menyebabkan pembengkakan biaya yang serius.
+progress payment | pembayaran termin, pembayaran kemajuan kerja | Tim lapangan menyiapkan pembayaran termin bulanan pada hari Jumat terakhir setiap bulan.
+liquidated damages | denda keterlambatan | Jika penyerahan terlambat, kontraktor harus membayar denda keterlambatan untuk setiap harinya.
+## Sistem struktur
+load-bearing wall | dinding penahan beban | Kamu tidak bisa begitu saja merobohkan dinding penahan beban tanpa menambahkan balok baja.
+beam | balok struktural, balok | Retakan muncul di sepanjang balok utama setelah lantai tambahan ditambahkan.
+slab | pelat lantai | Insinyur memeriksa ketebalan pelat lantai sebelum menyetujui alat berat.
+footing | fondasi tapak | Setiap kolom bertumpu pada fondasi tapak bertulang yang lebarnya sekitar dua meter.
+cantilever | konsol, kantilever | Balkon tersebut adalah struktur konsol yang menjorok tiga meter melewati dinding.
+lintel | ambang pintu, lintel | Balok lintel beton membentang di bagian atas bukaan pintu baru.
+truss | rangka batang, kuda-kuda | Kuda-kuda kayu menopang atap aula olahraga tanpa ada kolom internal.
+shear wall | dinding geser | Dinding geser membantu menara menahan angin kencang dan gempa bumi.
+deflection | kelendutan, defleksi | Kelendutan lantai di bawah beban penuh tetap berada dalam batas yang dapat diterima.
+load-bearing capacity | kapasitas beban, daya dukung | Insinyur menguji kapasitas beban jembatan lama sebelum membukanya kembali.
+## Bahan bangunan
+rebar | besi beton, tulangan baja | Para pekerja mengikat besi beton bersama-sama dengan kawat sebelum beton dituang.
+formwork | bekisting, cetakan beton | Bekisting dapat dilepas setelah beton mencapai kekuatan yang cukup.
+ready-mixed concrete | beton siap pakai | Kualitas beton siap pakai memiliki efek langsung pada kekuatan struktur.
+mortar | adukan semen, mortar | Mortar lama di antara batu-batu harus dikerok dan diganti.
+stucco | plesteran luar, stuko | Dinding luar membutuhkan dua lapis plesteran luar sebelum bisa dicat.
+screed | lapisan lantai dasar, screed | Tidak seorang pun boleh berjalan di atas screed yang masih basah selama setidaknya dua hari.
+precast | pracetak | Panel beton pracetak memungkinkan sekolah selesai dalam satu musim panas saja.
+timber frame | rangka kayu | Rumah berangka kayu cepat dibangun dan menjaga panas dengan baik.
+girder | balok induk, gelagar | Gelagar besar diangkat ke tempatnya di atas pintu masuk pusat perbelanjaan.
+waterproofing | kedap air, pelapis anti air | Sistem kedap air yang buruk di ruang bawah tanah menyebabkan bercak lembap di setiap dinding.
+## Tanah dan pekerjaan tanah
+earthworks | pekerjaan tanah | Pekerjaan tanah untuk tempat parkir bawah tanah memakan waktu hampir tiga bulan.
+backfill | urugan kembali | Parit ditutup dengan urugan kembali yang dipadatkan setelah pipa diuji.
+pile | tiang pancang | Karena tanahnya lunak, menara ini berdiri di atas tiang pancang yang ditancapkan sedalam empat puluh meter.
+retaining wall | dinding penahan tanah | Dinding penahan tanah menghentikan lereng bukit agar tidak longsor ke jalan.
+groundwater | air tanah | Pompa bekerja siang dan malam karena air tanah terus membanjiri lubang galian.
+soil investigation | penyelidikan tanah | Penyelidikan tanah mengungkapkan lapisan tanah liat tepat di bawah permukaan.
+compaction | pemadatan tanah | Pemadatan yang benar pada setiap lapisan mencegah jalan amblas di kemudian hari.
+trench | parit | Tim Ali menggali parit sempit untuk pipa air utama yang baru.
+dewatering | dewatering, pengeringan air tanah | Pekerjaan pengeringan harus dilanjutkan sampai fondasi benar-benar kedap air.
+differential settlement | penurunan tidak seragam | Penurunan tidak seragam menyebabkan retakan muncul di dinding rumah tua.
+## Kehidupan di lokasi proyek
+site manager | manajer proyek, pengawas lapangan | Manajer proyek berkeliling ke seluruh proyek setiap pagi sebelum pukul delapan.
+hard hat | helm pengaman, helm proyek | Pengunjung tidak diizinkan melewati gerbang tanpa mengenakan helm pengaman.
+high-visibility vest | rompi keselamatan, rompi reflektif | Setiap orang di lokasi proyek harus mengenakan rompi keselamatan di dekat kendaraan yang bergerak.
+toolbox talk | briefing keselamatan kerja | Briefing keselamatan kerja hari ini berfokus pada bekerja dengan aman di ketinggian.
+site office | kantor lapangan | Rapat koordinasi mingguan diadakan di kantor lapangan pada hari Senin.
+hoist | derek barang, hoist | Bahan-bahan diangkut ke lantai atas menggunakan hoist sementara.
+pour | pengecoran beton | Pengecoran untuk pelat lantai tingkat tiga dimulai saat fajar dan selesai setelah gelap.
+curing | perawatan beton, curing | Dalam cuaca panas, perawatan beton yang cermat mencegah beton retak.
+snag list | daftar cacat, daftar kekurangan | Daftar cacat masih menyisakan ubin yang longgar dan pintu yang tidak mau menutup.
+handover | serah terima | Serah terima bangunan kepada klien direncanakan pada akhir April.
+## Instalasi mekanikal
+ductwork | saluran udara, ducting | Saluran udara tersembunyi di atas langit-langit gantung di setiap kantor.
+riser | shaft utilitas, jalur pipa vertikal | Semua pipa air dan gas melewati shaft utilitas vertikal di sebelah lift.
+HVAC | tata udara, sistem HVAC | Sistem HVAC menyumbang hampir setengah dari konsumsi energi bangunan.
+sprinkler system | sistem pemadam kebakaran otomatis, sprinkler | Sistem sprinkler memadamkan api sebelum mencapai gudang.
+drainage | sistem drainase, saluran pembuangan | Drainase yang buruk di sekitar fondasi menyebabkan air terkumpul setiap kali badai.
+manhole | lubang kontrol, manhole | Seorang pekerja turun ke lubang kontrol untuk memeriksa saluran pembuangan yang tersumbat.
+stopcock | katup penutup air, kran utama | Sebelum mengganti keran, Lukas mematikan katup penutup di bawah wastafel.
+underfloor heating | pemanas lantai | Pemanas lantai menjaga lantai batu tetap hangat bahkan di bulan Januari.
+air handling unit | unit pengolah udara | Unit pengolah udara di atas atap menyuplai udara segar ke seluruh enam lantai.
+plumbing | instalasi plambing, perpipaan | Plambing di gedung lama harus diganti dari atas sampai bawah.
+## Kelistrikan dan keselamatan kebakaran
+wiring | instalasi kabel, pengawatan | Inspektur menemukan bahwa sebagian besar instalasi kabel sudah berusia lebih dari empat puluh tahun.
+switchboard | panel listrik utama | Setiap sirkuit di dalam bangunan diberi label pada panel listrik utama.
+circuit breaker | pemutus arus, sekring otomatis | Pemutus arus terputus begitu oven baru dinyalakan.
+earthing | pembumian, arde | Pembumian yang rusak dapat mengubah wastafel logam menjadi bahaya yang serius.
+conduit | pipa pelindung kabel, konduit | Kabel-kabel melewati pipa pelindung plastik yang ditanam di dalam dinding.
+cable tray | rak kabel, baki kabel | Jalur kabel daya berat diletakkan di atas rak kabel di sepanjang langit-langit ruang bawah tanah.
+fire door | pintu darurat kebakaran, pintu tahan api | Pintu darurat kebakaran tidak boleh diganjal terbuka dengan kursi.
+fire escape | tangga darurat kebakaran | Hotel tua tersebut diperintahkan untuk memasang tangga darurat kebakaran eksternal.
+smoke detector | detektor asap | Detektor asap dipasang di setiap ruangan dan koridor.
+emergency lighting | lampu darurat | Lampu darurat diuji sebulan sekali oleh tim fasilitas.
+## Pekerjaan finishing dan proses serah terima
+finishing works | pekerjaan akhir, pekerjaan finishing | Struktur utamanya sudah selesai, tetapi pekerjaan finishing akan memakan waktu enam bulan lagi.
+drywall | dinding kering, papan gipsum | Kantor-kantor dipisahkan oleh partisi dinding kering yang dapat dipindahkan nanti.
+cladding | pelapis dinding luar, kladding | Setelah kebakaran, semua pelapis dinding luar yang mudah terbakar dilepas dari menara.
+joinery | pekerjaan kayu, mebel terpasang | Pekerjaan kayu khusus di perpustakaan dibuat oleh bengkel lokal.
+grout | nat ubin, pengisi celah ubin | Sofia memilih nat ubin berwarna abu-abu tua agar ubin kamar mandi tetap bersih lebih lama.
+skirting board | papan kaki dinding, sokkel | Para pengecat melindungi papan kaki dinding dengan selotip sebelum mulai mengecat dinding.
+sealant | sealant, silikon penyegel | Garis sealant silikon mencegah air masuk ke celah di sekitar jendela.
+occupancy permit | izin laik fungsi, surat izin huni | Penghuni tidak dapat pindah sampai izin laik fungsi diterbitkan.
+defects liability period | masa pemeliharaan cacat, masa retensi | Setiap kebocoran yang ditemukan selama masa pemeliharaan cacat harus diperbaiki atas biaya kontraktor.
+commissioning | pengujian sistem, komisioning | Komisioning sistem pemanas mengungkapkan dua pompa yang rusak.

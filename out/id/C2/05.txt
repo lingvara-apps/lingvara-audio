@@ -1,0 +1,111 @@
+# UNIT: Istilah Kantor dan IT | Slang perusahaan, bahasa perangkat lunak, slang uang
+## Kiasan perusahaan
+synergy | sinergi, kekuatan bersama | Management keeps talking about synergy, but the two departments still refuse to share data.
+pain point | masalah utama, titik kesulitan | Our research shows that slow delivery is the customers' biggest pain point.
+buy-in | dukungan, keterlibatan | Without buy-in from the senior staff, the new system will never work.
+deliverable | hasil kerja, luaran | The first deliverable is a full report on customer feedback by Friday.
+boil the ocean | melakukan hal yang mustahil, mencoba hal terlalu besar | Let's focus on one market first; there's no point trying to boil the ocean.
+circle back | kembali membahas nanti | Good question, Omar; can we circle back to that after the budget review?
+low-hanging fruit | peluang mudah, buah yang mudah diraih | Before redesigning the whole site, let's pick the low-hanging fruit and fix the broken links.
+move the needle | membawa perubahan nyata | A new logo is nice, but it won't really move the needle on sales.
+paradigm shift | pergeseran paradigma, perubahan mendasar | Remote work has caused a paradigm shift in how companies think about offices.
+value-add | nilai tambah | Our real value-add is the personal support we give every customer after the sale.
+## Istilah rapat
+drill down | mendalami, meneliti lebih detail | Let's drill down into the numbers and find out which region is losing money.
+deep dive | analisis mendalam, peninjauan teliti | Next week we'll do a deep dive into why customers cancel their subscriptions.
+take something offline | membahas di luar rapat | This is getting too detailed for everyone, so let's take it offline.
+ping | mengirim pesan singkat, menghubungi | Just ping me when the file is ready and I'll review it straight away.
+heads-up | peringatan dini, informasi awal | Thanks for the heads-up about the audit; I'll get the files ready tonight.
+all-hands | rapat seluruh karyawan | The CEO announced the merger at an all-hands on Thursday morning.
+parking lot | daftar topik ditunda | That's a good point, but let's put it in the parking lot and get back to the agenda.
+alignment | keselarasan, kesamaan pandangan | We need full alignment between sales and marketing before the campaign starts.
+run it up the flagpole | menguji ide ke publik | It's only a rough idea, but let's run it up the flagpole and see who salutes.
+bikeshedding | memperdebatkan hal sepele | We spent forty minutes bikeshedding over the colour of a button nobody will notice.
+## Slang kehidupan kantor
+water-cooler chat | obrolan ringan kantor, gosip | Most of the real news in this company spreads through water-cooler chat.
+hot-desking | sistem meja kerja bebas | Since the move to hot-desking, nobody can find a desk near the window.
+busywork | pekerjaan sibuk tapi tak berguna | The intern spent her first week doing busywork like sorting old files.
+presenteeism | hadir di kantor meski sakit | Presenteeism is a real problem: people come in sick just to be seen at their desks.
+jobsworth | pegawai kaku taat aturan | Some jobsworth at the front desk wouldn't let me in without a visitor badge.
+pen-pusher | pegawai administratif, kutu buku administrasi | He hates being treated like a pen-pusher when he has an engineering degree.
+wage slave | budak korporat, buruh bergaji rendah | Omar felt like a wage slave, working sixty hours a week for a company he didn't care about.
+grind | pekerjaan membosankan dan melelahkan | Back to the daily grind tomorrow, I'm afraid.
+clock-watcher | pekerja yang menunggu jam pulang | Diego is a real clock-watcher; his coat is on at five to five every day.
+dogsbody | pesuruh, pekerja serabutan | As the newest member of the team, I was everybody's dogsbody for months.
+## Slang karier dan manajemen
+golden handcuffs | fasilitas pengikat karyawan | The bonus scheme works like golden handcuffs: if you leave early, you lose everything.
+golden parachute | pesangon mewah eksekutif | Shareholders were furious about the CEO's golden parachute after the merger failed.
+high-flyer | karyawan berprestasi tinggi, bintang baru | Ali was seen as a high-flyer and became a manager before he was thirty.
+deadwood | pegawai tidak produktif, beban kantor | The new director promised to cut the deadwood from every department.
+rightsizing | perampingan perusahaan | The memo called it rightsizing, but everyone knew it meant layoffs.
+glass ceiling | batasan karier tak terlihat | She was the first woman in the firm to break through the glass ceiling.
+rainmaker | pencari klien besar, pembawa keuntungan | Every law firm wants a rainmaker who brings in big clients.
+corner office | kantor sudut, posisi pimpinan | After fifteen years of hard work, Emre finally got the corner office.
+yes-man | penjilat, bawahan penurut | The new manager surrounded himself with yes-men who never questioned him.
+garden leave | cuti berbayar saat masa pemberhentian | After resigning, Yuki was put on garden leave so she couldn't take clients to a rival.
+## Bahasa pengembangan perangkat lunak
+codebase | basis kode, kumpulan kode | The codebase is so old that nobody dares to touch the payment module.
+refactor | merapikan kode | Before adding new features, we should refactor this messy function.
+legacy code | kode lama peninggalan | Maria spent the whole sprint untangling legacy code written fifteen years ago.
+technical debt | utang teknis | Every shortcut we take now adds to our technical debt later.
+hotfix | perbaikan cepat darurat | We pushed a hotfix at midnight after the login page stopped working.
+roll back | kembali ke versi sebelumnya | The update crashed the app, so we had to roll back to the previous version.
+deploy | merilis ke server utama | We never deploy on Fridays, because nobody wants to fix bugs at the weekend.
+pull request | permintaan penarikan kode | Please open a pull request so the rest of the team can review your changes.
+backlog | daftar tugas tertunda | The backlog now has over three hundred tickets that nobody has looked at.
+scope creep | perluasan cakupan proyek tak terkendali | Thanks to scope creep, a two-week project has now taken four months.
+## Bug dan debugging
+edge case | kasus batas, kondisi khusus | The app works fine until someone enters a name with an apostrophe, a classic edge case.
+workaround | solusi sementara | There's no fix yet, but there is a workaround: export the file as text first.
+kludge | solusi tambal sulam | The whole system is held together by a kludge that only Camille understands.
+spaghetti code | kode rumit berantakan | Nobody wants to maintain that spaghetti code, so it hasn't been updated in years.
+regression | kemunduran fungsi, bug baru | The new update introduced a regression: the export button no longer works.
+race condition | kondisi balapan (masalah sinkronisasi) | The random crashes turned out to be caused by a race condition between two threads.
+memory leak | kebocoran memori | After a few hours the server slows down, which suggests a memory leak.
+stack trace | jejak tumpukan galat | Please paste the full stack trace into the ticket so we can see where it failed.
+rubber duck debugging | metode debugging bebek karet | Rubber duck debugging works: explaining the code aloud often reveals the mistake.
+dogfooding | menggunakan produk sendiri | Dogfooding helped us find dozens of annoying bugs before customers did.
+## Dukungan IT dan slang pengguna
+power user | pengguna mahir | Power users want keyboard shortcuts, not more colourful buttons.
+end user | pengguna akhir | The interface must be simple enough for an end user with no technical training.
+technophobe | orang gagap teknologi | My uncle is a proud technophobe who still refuses to own a smartphone.
+factory reset | setel ulang pabrik | If nothing else works, a factory reset will wipe the phone and start it fresh.
+admin rights | hak akses administrator | You can't install that software without admin rights on your laptop.
+outage | pemadaman, gangguan layanan | A six-hour outage left thousands of customers unable to access their accounts.
+sysadmin | administrator sistem | Ask the sysadmin to reset your password; she's the only one with access.
+helpdesk | pusat bantuan, layanan dukungan | I've raised a ticket with the helpdesk, but they haven't replied yet.
+user error | kesalahan pengguna | The engineer smiled politely and said the problem was user error.
+turn it off and on again | matikan lalu nyalakan lagi | Before calling support, have you tried turning it off and on again?
+## Dunia rintisan
+unicorn | perusahaan rintisan bernilai miliaran dolar | Within three years the little food-delivery app had become a unicorn.
+angel investor | investor malaikat, penyandang dana awal | A retired engineer became their first angel investor, putting in fifty thousand pounds.
+runway | masa bertahan hidup finansial | With our current savings we have about eight months of runway left.
+burn rate | tingkat pembakaran kas | Investors were worried by the company's burn rate of two million a month.
+bootstrap | mendanai mandiri tanpa investor | They bootstrapped the business from their kitchen table for the first two years.
+seed round | putaran pendanaan awal | The founders raised half a million in their seed round.
+exit strategy | strategi keluar investasi | Every investor asked the same question: what's your exit strategy?
+scale up | memperbesar skala usaha | The challenge now is to scale up production without losing quality.
+disrupt | mendobrak industri, mengubah pasar | Every new startup claims it will disrupt an entire industry.
+minimum viable product | produk minimum layak (MVP) | Launch a minimum viable product first, then improve it based on real feedback.
+## Slang uang
+dough | uang, duit | He's making serious dough since he started freelancing.
+a pretty penny | biaya yang sangat mahal | Restoring that old farmhouse must have cost them a pretty penny.
+nickel-and-dime | memeras uang sedikit demi sedikit | Budget airlines nickel-and-dime passengers with fees for everything from seats to snacks.
+peanuts | uang sangat sedikit, bayaran murah | Interns at that agency work long hours and get paid peanuts.
+rolling in it | bergelimang harta, sangat kaya | Since selling his company, Diego has been absolutely rolling in it.
+hard up | kekurangan uang, melarat | They were very hard up when the children were small.
+cash-in-hand | pembayaran tunai tanpa pajak | At weekends he does cash-in-hand jobs like painting flats and fixing fences.
+pony up | membayar terpaksa | If you want the premium features, you'll have to pony up another ten dollars a month.
+break the bank | menguras tabungan, sangat mahal | A weekend by the sea won't break the bank if we book early.
+cheapskate | orang pelit, kikir | Don't be such a cheapskate; it's your turn to buy the coffee.
+## Slang keuangan perusahaan dan sehari-hari
+rainy day fund | dana darurat | The car repairs came straight out of our rainy day fund.
+highway robbery | harga tidak masuk akal, penipuan | Twelve dollars for a sandwich at the airport is highway robbery.
+creative accounting | manipulasi pembukuan | The profits looked impressive, but they were mostly the result of creative accounting.
+ballpark figure | angka perkiraan kasar | I don't need an exact quote, just give me a ballpark figure.
+back-of-the-envelope | perhitungan kilat di atas kertas | A quick back-of-the-envelope calculation shows the plan won't be profitable.
+bean counter | akuntan kaku, pengikut angka | The bean counters at head office cut our training budget again.
+cook the books | memanipulasi laporan keuangan | The finance director was arrested for cooking the books for years.
+slush fund | dana rahasia tak resmi | Investigators discovered a secret slush fund used to pay off officials.
+kickback | uang suap, komisi ilegal | The contractor was accused of paying kickbacks to win the hospital contract.
+fat cat | eksekutif rakus bergaji raksasa | Staff were angry that the fat cats on the board got bonuses while wages were frozen.
