@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+## Kahvaltı
+la colazione | kahvaltı | isim (d) | A colazione bevo un cappuccino. | Kahvaltıda bir kapuçino içerim.
+il pane | ekmek | isim (e) | Il pane è fresco. | Ekmek taze.
+il burro | tereyağı | isim (e) | Pane, burro e marmellata. | Ekmek, tereyağı ve reçel.
+la marmellata | reçel, marmelat | isim (d) | La marmellata di albicocche è buona. | Kayısı reçeli lezzetli.
+il latte | süt | isim (e) | Il bambino beve il latte. | Çocuk süt içiyor.
+il cornetto | kruvasan (İtalyan usulü) | isim (e) | Un cappuccino e un cornetto, grazie. | Bir kapuçino ve bir kruvasan, teşekkürler.
+il cappuccino | kapuçino | isim (e) | Il cappuccino si beve la mattina. | Kapuçino sabah içilir.
+lo zucchero | şeker | isim (e) | Il caffè senza zucchero, per favore. | Kahve şekersiz olsun, lütfen.
+il miele | bal | isim (e) | Metto il miele nel tè. | Çaya bal koyuyorum.
+l'uovo (e) (le uova) | yumurta | isim (e) | Mangio due uova. | İki yumurta yiyorum.
+## İçecekler
+l'acqua (d) | su | isim (d) | Vorrei un bicchiere d'acqua. | Bir bardak su istiyorum.
+il caffè | kahve; kafe | isim (e) | Prendiamo un caffè al bar? | Barda bir kahve içelim mi?
+il tè | çay | isim (e) | Ali beve il tè turco. | Ali Türk çayı içiyor.
+il succo di frutta | meyve suyu | isim (e) | Un succo di frutta, per favore. | Bir meyve suyu, lütfen.
+il vino | şarap | isim (e) | Il vino toscano è famoso. | Toskana şarabı ünlüdür.
+la birra | bira | isim (d) | Una birra fresca, grazie. | Soğuk bir bira, teşekkürler.
+la spremuta | taze sıkılmış meyve suyu | isim (d) | Una spremuta d'arancia, per favore. | Bir taze portakal suyu, lütfen.
+il ghiaccio | buz | isim (e) | Senza ghiaccio, grazie. | Buzsuz olsun, teşekkürler.
+la bibita | meşrubat, soğuk içecek | isim (d) | I ragazzi bevono una bibita. | Gençler meşrubat içiyor.
+bere (bevuto) | içmek | fiil · düzensiz | Bevo molta acqua. | Çok su içerim.
+## Meyveler
+la mela | elma | isim (d) | Mangio una mela al giorno. | Günde bir elma yerim.
+la pera | armut | isim (d) | La pera è matura. | Armut olgun.
+la banana | muz | isim (d) | La scimmia mangia una banana. | Maymun muz yiyor.
+l'arancia (d) | portakal | isim (d) | Le arance siciliane sono dolci. | Sicilya portakalları tatlıdır.
+il limone | limon | isim (e) | Il tè con il limone, per favore. | Limonlu çay, lütfen.
+la fragola | çilek | isim (d) | Amo il gelato alla fragola. | Çilekli dondurmaya bayılırım.
+l'uva (d) | üzüm | isim (d) | L'uva è dolce. | Üzüm tatlı.
+la pesca | şeftali | isim (d) | Questa pesca è molto succosa. | Bu şeftali çok sulu.
+la ciliegia (le ciliegie) | kiraz | isim (d) | Le ciliegie sono rosse. | Kirazlar kırmızı.
+il melone | kavun | isim (e) | Prosciutto e melone d'estate. | Yazın jambon ve kavun.
+## Sebzeler
+il pomodoro | domates | isim (e) | I pomodori sono maturi. | Domatesler olgun.
+la patata | patates | isim (d) | Faccio le patate al forno. | Fırında patates yapıyorum.
+la cipolla | soğan | isim (d) | Taglio la cipolla. | Soğanı doğruyorum.
+l'aglio (e) | sarımsak | isim (e) | Metti poco aglio! | Az sarımsak koy!
+la carota | havuç | isim (d) | Il coniglio mangia una carota. | Tavşan havuç yiyor.
+l'insalata (d) | salata; marul | isim (d) | Un'insalata mista, per favore. | Karışık bir salata, lütfen.
+il fagiolo | fasulye | isim (e) | La zuppa di fagioli è calda. | Fasulye çorbası sıcak.
+la zucchina | kabak | isim (d) | Compro due zucchine. | İki kabak alıyorum.
+il peperone | biber (dolmalık) | isim (e) | Il peperone rosso è dolce. | Kırmızı biber tatlı.
+la melanzana | patlıcan | isim (d) | La parmigiana si fa con le melanzane. | Parmigiana patlıcanla yapılır.
+## Et, peynir ve temel gıdalar
+la carne | et | isim (d) | Non mangio la carne. | Et yemem.
+il pollo | tavuk (yemek) | isim (e) | Il pollo è nel forno. | Tavuk fırında.
+il prosciutto | jambon | isim (e) | Un panino con il prosciutto. | Jambonlu bir sandviç.
+il formaggio | peynir | isim (e) | L'Italia ha tanti formaggi. | İtalya'nın çok çeşit peyniri var.
+il riso | pirinç; pilav | isim (e) | Compro un chilo di riso. | Bir kilo pirinç alıyorum.
+la pasta | makarna; hamur işi | isim (d) | Mangiamo la pasta ogni giorno. | Her gün makarna yeriz.
+l'olio (e) | yağ; zeytinyağı | isim (e) | L'olio d'oliva è buonissimo. | Zeytinyağı çok güzel.
+il sale | tuz | isim (e) | Manca il sale. | Tuzu eksik.
+il pepe | karabiber | isim (e) | Sale e pepe, per favore. | Tuz ve karabiber, lütfen.
+la farina | un | isim (d) | Per la pizza serve la farina. | Pizza için un lazım.
+## Markette
+il supermercato | süpermarket | isim (e) | Il supermercato è aperto. | Süpermarket açık.
+il mercato | pazar (açık hava) | isim (e) | Il sabato vado al mercato. | Cumartesi pazara giderim.
+fare la spesa | alışveriş yapmak (gıda) | ifade | Oggi faccio la spesa. | Bugün market alışverişi yapıyorum.
+il chilo | kilo | isim (e) | Un chilo di pomodori, per favore. | Bir kilo domates, lütfen.
+l'etto (e) | yüz gram | isim (e) | Due etti di prosciutto, grazie. | İki yüz gram jambon, teşekkürler.
+il sacchetto | poşet | isim (e) | Vuole un sacchetto? | Poşet ister misiniz?
+il carrello | alışveriş arabası | isim (e) | Il carrello è pieno. | Araba dolu.
+la cassa | kasa | isim (d) | Pago alla cassa. | Kasada ödüyorum.
+fresco (freschi) | taze; serin | sıfat | Il pesce è fresco? | Balık taze mi?
+la bottiglia | şişe | isim (d) | Una bottiglia di vino rosso. | Bir şişe kırmızı şarap.
+## Restoranda
+il ristorante | restoran | isim (e) | Conosco un buon ristorante. | İyi bir restoran biliyorum.
+la trattoria | aile lokantası, esnaf lokantası | isim (d) | Mangiamo in trattoria? | Lokantada mı yiyelim?
+il menù | menü | isim (e) | Posso vedere il menù? | Menüye bakabilir miyim?
+prenotare | rezervasyon yapmak | fiil | Prenoto un tavolo per due. | İki kişilik masa ayırtıyorum.
+ordinare | sipariş vermek | fiil | Siete pronti per ordinare? | Sipariş vermeye hazır mısınız?
+l'antipasto (e) | başlangıç, meze | isim (e) | Come antipasto prendo la bruschetta. | Başlangıç olarak bruschetta alıyorum.
+il contorno | garnitür, yan yemek | isim (e) | Come contorno, patate. | Yanında patates.
+il piatto del giorno | günün yemeği | ifade | Qual è il piatto del giorno? | Günün yemeği ne?
+il conto | hesap | isim (e) | Il conto, per favore! | Hesap lütfen!
+il coperto | servis ücreti (masa başı) | isim (e) | Il coperto costa due euro. | Servis ücreti iki avro.
+## İtalyan yemekleri
+la pizza | pizza | isim (d) | La pizza napoletana è la migliore. | Napoli pizzası en iyisidir.
+gli spaghetti | spagetti | isim (e) | Mangio gli spaghetti al pomodoro. | Domatesli spagetti yiyorum.
+la lasagna | lazanya | isim (d) | La domenica la mamma fa la lasagna. | Pazar günleri annem lazanya yapar.
+il risotto | risotto (İtalyan pirinç yemeği) | isim (e) | Il risotto alla milanese è giallo. | Milano usulü risotto sarıdır.
+il gelato | dondurma | isim (e) | Un gelato al pistacchio, per favore. | Antep fıstıklı bir dondurma, lütfen.
+il tiramisù | tiramisu | isim (e) | Il tiramisù è il mio dolce preferito. | Tiramisu en sevdiğim tatlı.
+la mozzarella | mozzarella peyniri | isim (d) | Pomodoro e mozzarella, che buono! | Domates ve mozzarella, ne güzel!
+il parmigiano | parmesan peyniri | isim (e) | Metti il parmigiano sulla pasta. | Makarnanın üstüne parmesan koy.
+il pesto | pesto sosu (fesleğenli) | isim (e) | Il pesto viene da Genova. | Pesto Cenova'dan gelir.
+la bruschetta | bruschetta (kızarmış ekmek) | isim (d) | La bruschetta ha pomodoro e aglio. | Bruschetta'da domates ve sarımsak var.
+## Tatlar
+dolce | tatlı | sıfat | La torta è troppo dolce. | Pasta çok tatlı.
+salato | tuzlu | sıfat | La zuppa è salata. | Çorba tuzlu.
+amaro | acı (tat, kahve gibi) | sıfat | Il caffè amaro non mi piace. | Şekersiz acı kahveyi sevmem.
+piccante | acı, baharatlı (biber gibi) | sıfat | Questo sugo è piccante. | Bu sos acı.
+acido | ekşi | sıfat | Il limone è acido. | Limon ekşi.
+buono | iyi; lezzetli | sıfat | Che buono questo pane! | Bu ekmek ne güzel!
+cattivo | kötü; kötü tadı olan | sıfat | Il latte è cattivo. | Sütün tadı kötü.
+delizioso | nefis, çok lezzetli | sıfat | La cena è deliziosa. | Akşam yemeği nefis.
+cotto | pişmiş | sıfat | La pasta è cotta. | Makarna pişti.
+crudo | çiğ | sıfat | Non mangio il pesce crudo. | Çiğ balık yemem.
+## Yemek zamanı
+mangiare | yemek, yemek yemek | fiil | Mangiamo insieme? | Birlikte yiyelim mi?
+avere fame | acıkmak, aç olmak | ifade | Ho fame! | Acıktım!
+avere sete | susamak | ifade | Hai sete? | Susadın mı?
+assaggiare | tadına bakmak | fiil | Assaggia questo formaggio! | Bu peynirin tadına bak!
+il pranzo | öğle yemeği | isim (e) | Il pranzo è all'una. | Öğle yemeği saat birde.
+la cena | akşam yemeği | isim (d) | La cena è pronta! | Akşam yemeği hazır!
+la merenda | ara öğün (ikindi) | isim (d) | I bambini fanno merenda. | Çocuklar ara öğün yapıyor.
+buon appetito | afiyet olsun | ifade | Buon appetito a tutti! | Herkese afiyet olsun!
+cin cin | şerefe | ünlem | Cin cin, alla salute! | Şerefe, sağlığımıza!
+il cibo | yiyecek, yemek | isim (e) | Il cibo italiano è famoso. | İtalyan yemekleri ünlüdür.
