@@ -35,7 +35,7 @@ jobs:
           echo "n=$n" >> $GITHUB_OUTPUT
           echo "shards=$(python3 -c "print(list(range($s)))")" >> $GITHUB_OUTPUT
       - uses: actions/upload-artifact@v4
-        with: {name: plan, path: "texts.json\ntodo.json"}
+        with: {name: plan, path: "texts.json\ntexts.json.male.json\ntodo.json"}
   gen:
     needs: plan
     if: needs.plan.outputs.n != '0'
@@ -82,6 +82,6 @@ jobs:
           done
           echo "uploading ${#up[@]} changed packs"
           if [ ${#up[@]} -gt 0 ]; then printf '%s\n' "${up[@]}" | xargs -n 20 gh release upload audio-$C -R $R --clobber; fi
-          gh release upload audio-$C -R $R --clobber packs/manifest.json packs/missing.json
+          gh release upload audio-$C -R $R --clobber packs/manifest.json packs/missing.json packs/build.json
           for f in old/*.zip; do [ -e "$f" ] || continue; b=$(basename $f); [ -f packs/$b ] || gh release delete-asset audio-$C $b -R $R -y; done
           echo "### audio-$C" >> $GITHUB_STEP_SUMMARY; python3 -c "import json;m=json.load(open('packs/manifest.json'));print(f\"{sum(v['files'] for k,v in m.items() if not k.startswith('_'))} clips, {sum(v['size'] for k,v in m.items() if not k.startswith('_'))/1e6:.1f} MB, missing {m['_missing']}\")" >> $GITHUB_STEP_SUMMARY

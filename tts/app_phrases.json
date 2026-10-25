@@ -1,0 +1,102 @@
+{
+ "es": [
+  "¡Hola! Hablemos español.",
+  "¡Muy bien!",
+  "¡Genial!",
+  "¡Excelente!",
+  "¡Perfecto!",
+  "¡Bravo!",
+  "¡Fantástico!",
+  "¡Hola"
+ ],
+ "de": [
+  "Hallo! Lass uns Deutsch sprechen.",
+  "Super!",
+  "Sehr gut!",
+  "Toll!",
+  "Prima!",
+  "Klasse!",
+  "Perfekt!",
+  "Hallo"
+ ],
+ "fr": [
+  "Bonjour ! Parlons français.",
+  "Bravo !",
+  "Super !",
+  "Excellent !",
+  "Parfait !",
+  "Génial !",
+  "Très bien !",
+  "Bonjour"
+ ],
+ "it": [
+  "Ciao! Parliamo italiano.",
+  "Bravo!",
+  "Ottimo!",
+  "Perfetto!",
+  "Benissimo!",
+  "Fantastico!",
+  "Eccellente!",
+  "Ciao"
+ ],
+ "pt": [
+  "Olá! Vamos falar português.",
+  "Muito bem!",
+  "Ótimo!",
+  "Perfeito!",
+  "Excelente!",
+  "Incrível!",
+  "Mandou bem!",
+  "Olá"
+ ],
+ "ja": [
+  "こんにちは！日本語を話しましょう。",
+  "よくできました！",
+  "すごい！",
+  "完璧！",
+  "いいね！",
+  "その調子！",
+  "お見事！",
+  "こんにちは"
+ ],
+ "ko": [
+  "안녕하세요! 한국어로 이야기해요.",
+  "잘했어요!",
+  "훌륭해요!",
+  "완벽해요!",
+  "최고예요!",
+  "대단해요!",
+  "좋아요!",
+  "안녕하세요"
+ ],
+ "zh": [
+  "你好！我们说中文吧。",
+  "太棒了！",
+  "很好！",
+  "完美！",
+  "厉害！",
+  "真棒！",
+  "好极了！",
+  "你好"
+ ],
+ "tr": [
+  "Merhaba! Haydi Türkçe konuşalım.",
+  "Aferin!",
+  "Harika!",
+  "Süper!",
+  "Mükemmel!",
+  "Bravo!",
+  "Çok iyi!",
+  "Merhaba"
+ ],
+ "ar": [
+  "مرحبا! هيا نتكلم العربية.",
+  "أحسنت!",
+  "ممتاز!",
+  "رائع!",
+  "عظيم!",
+  "برافو!",
+  "جميل جدًا!",
+  "مرحبا"
+ ]
+}

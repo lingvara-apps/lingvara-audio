@@ -105,7 +105,7 @@ def main():
             e = loaded[eng]
             for tid, txt in texts:
                 t0 = time.time()
-                a, sr = e.synth(extract.spoken(txt), v)
+                a, sr = e.synth(extract.spoken(txt, c), v)
                 f = f"{out}/candidates/{eng}_{voice.replace('@', '_p')}_{tid}.mp3"
                 engines.encode(a, sr, f, 1.0 if tid.startswith("w") else 0.92, float(pitch or 1))
                 made.append((eng, voice, tid, txt, f, round(time.time() - t0, 2), round(len(a) / sr, 2)))
@@ -128,7 +128,7 @@ def main():
         for eng, voice, tid, txt, f, secs, dur in made:
             segs, _ = wm.transcribe(f, language=lang, beam_size=1, vad_filter=False)
             hyp = "".join(s.text for s in segs).strip()
-            ref = extract.strip_reading(txt)
+            ref = extract.strip_reading(txt, c)
             sc = cer(normtxt(ref, c), normtxt(hyp, c))
             res.setdefault((eng, voice), []).append(sc)
             log.append(f"{eng:10s} {voice:24s} {tid} cer={sc:.3f} synth={secs}s dur={dur}s | {ref} → {hyp}")
