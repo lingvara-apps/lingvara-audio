@@ -1,0 +1,111 @@
+# UNIT: Ev hayatı | Kiralama, taşınma, tamir, mobilya, komşular, faturalar
+## Ev kiralamak
+家賃 (yachin) | kira | isim | 家賃は毎月八万円です。(Yachin wa maitsuki hachiman en desu.) | Kira her ay seksen bin yen.
+大家 (ōya) | ev sahibi | isim | 大家さんはとても親切です。(Ōya-san wa totemo shinsetsu desu.) | Ev sahibi çok nazik.
+不動産屋 (fudōsan'ya) | emlakçı | isim | 不動産屋でアパートを探しました。(Fudōsan'ya de apāto o sagashimashita.) | Emlakçıda daire aradım.
+敷金 (shikikin) | depozito | isim | 敷金は家賃の二か月分です。(Shikikin wa yachin no nikagetsubun desu.) | Depozito iki aylık kira tutarında.
+礼金 (reikin) | ev sahibine verilen teşekkür parası | isim | この部屋は礼金がありません。(Kono heya wa reikin ga arimasen.) | Bu odada teşekkür parası yok.
+間取り (madori) | oda planı, daire düzeni | isim | この部屋の間取りはいいですね。(Kono heya no madori wa ii desu ne.) | Bu dairenin planı güzel.
+物件 (bukken) | emlak, mülk (kiralık/satılık) | isim | 駅の近くの物件を探しています。(Eki no chikaku no bukken o sagashite imasu.) | İstasyona yakın bir ev arıyorum.
+徒歩 (toho) | yürüyerek | isim | 駅から徒歩五分です。(Eki kara toho gofun desu.) | İstasyondan yürüyerek beş dakika.
+管理費 (kanrihi) | aidat | isim | 管理費は家賃に入っていますか。(Kanrihi wa yachin ni haitte imasu ka.) | Aidat kiraya dahil mi?
+更新 (kōshin) | yenileme (sözleşme) | isim | 来月、契約の更新があります。(Raigetsu, keiyaku no kōshin ga arimasu.) | Gelecek ay sözleşme yenilemesi var.
+## Taşınma
+引っ越し (hikkoshi) | taşınma | isim | 引っ越しは日曜日です。(Hikkoshi wa nichiyōbi desu.) | Taşınma pazar günü.
+段ボール (danbōru) | karton koli | isim | 段ボールに本を入れます。(Danbōru ni hon o iremasu.) | Kitapları kolilere koyuyorum.
+荷造り (nizukuri) | eşya toplama, paketleme | isim | 一日中、荷造りをしました。(Ichinichijū, nizukuri o shimashita.) | Bütün gün eşya topladım.
+運ぶ (hakobu) | taşımak | fiil | 冷蔵庫を二人で運びました。(Reizōko o futari de hakobimashita.) | Buzdolabını iki kişi taşıdık.
+新居 (shinkyo) | yeni ev | isim | 新居に友達を招待しました。(Shinkyo ni tomodachi o shōtai shimashita.) | Yeni evime arkadaşlarımı davet ettim.
+粗大ごみ (sodai gomi) | büyük eşya çöpü | isim | 古いソファーは粗大ごみに出します。(Furui sofā wa sodai gomi ni dashimasu.) | Eski kanepeyi büyük eşya çöpüne çıkarıyorum.
+業者 (gyōsha) | firma, hizmet şirketi | isim | 引っ越しの業者を頼みました。(Hikkoshi no gyōsha o tanomimashita.) | Nakliye firması tuttum.
+詰める (tsumeru) | doldurmak, sıkıştırmak | fiil | 服を箱に詰めます。(Fuku o hako ni tsumemasu.) | Kıyafetleri kutuya dolduruyorum.
+届け出 (todokede) | bildirim (resmî) | isim | 市役所に住所の届け出をします。(Shiyakusho ni jūsho no todokede o shimasu.) | Belediyeye adres bildirimi yapıyorum.
+見学 (kengaku) | yerinde inceleme, ziyaret | isim | 明日、部屋の見学に行きます。(Ashita, heya no kengaku ni ikimasu.) | Yarın evi görmeye gidiyorum.
+## Bozuldu! Tamir
+故障 (koshō) | arıza | isim | エレベーターが故障しています。(Erebētā ga koshō shite imasu.) | Asansör arızalı.
+壊れる (kowareru) | bozulmak, kırılmak | fiil | 洗濯機が壊れました。(Sentakuki ga kowaremashita.) | Çamaşır makinesi bozuldu.
+壊す (kowasu) | bozmak, kırmak | fiil | 子供がおもちゃを壊しました。(Kodomo ga omocha o kowashimashita.) | Çocuk oyuncağı kırdı.
+修理 (shūri) | tamir | isim | 自転車を修理に出しました。(Jitensha o shūri ni dashimashita.) | Bisikleti tamire verdim.
+直る (naoru) | düzelmek, tamir olmak | fiil | テレビが直りました。(Terebi ga naorimashita.) | Televizyon düzeldi.
+漏れる (moreru) | sızmak | fiil | 台所で水が漏れています。(Daidokoro de mizu ga morete imasu.) | Mutfakta su sızıyor.
+詰まる (tsumaru) | tıkanmak | fiil | トイレが詰まりました。(Toire ga tsumarimashita.) | Tuvalet tıkandı.
+電池 (denchi) | pil | isim | 時計の電池が切れました。(Tokei no denchi ga kiremashita.) | Saatin pili bitti.
+電球 (denkyū) | ampul | isim | 電球を替えてください。(Denkyū o kaete kudasai.) | Ampulü değiştirin lütfen.
+工具 (kōgu) | alet, el aleti | isim | 工具を貸してくれる？(Kōgu o kashite kureru?) | Aletlerini ödünç verir misin?
+## Mobilya ve ev aletleri
+家具 (kagu) | mobilya | isim | 新しい家具を買いました。(Atarashii kagu o kaimashita.) | Yeni mobilya aldım.
+家電 (kaden) | ev aletleri (elektrikli) | isim | 家電は駅前の店で買います。(Kaden wa ekimae no mise de kaimasu.) | Elektrikli eşyaları istasyon önündeki dükkândan alırım.
+引き出し (hikidashi) | çekmece | isim | はさみは引き出しの中です。(Hasami wa hikidashi no naka desu.) | Makas çekmecenin içinde.
+食器棚 (shokkidana) | vitrin, tabak dolabı | isim | 食器棚にコップがあります。(Shokkidana ni koppu ga arimasu.) | Tabak dolabında bardaklar var.
+クローゼット (kurōzetto) | gömme dolap (elbise) | isim | コートはクローゼットに入れます。(Kōto wa kurōzetto ni iremasu.) | Paltoyu gardıroba koyuyorum.
+照明 (shōmei) | aydınlatma | isim | この部屋は照明が暗いです。(Kono heya wa shōmei ga kurai desu.) | Bu odanın aydınlatması loş.
+じゅうたん (jūtan) | halı | isim | 居間にじゅうたんを敷きました。(Ima ni jūtan o shikimashita.) | Oturma odasına halı serdim.
+座椅子 (zaisu) | bacaksız sandalye (yer sandalyesi) | isim | 和室で座椅子に座ります。(Washitsu de zaisu ni suwarimasu.) | Japon odasında yer sandalyesine otururum.
+ちゃぶ台 (chabudai) | alçak yemek masası | isim | ちゃぶ台で晩ご飯を食べます。(Chabudai de bangohan o tabemasu.) | Alçak masada akşam yemeği yeriz.
+枕 (makura) | yastık | isim | この枕は硬すぎます。(Kono makura wa katasugimasu.) | Bu yastık çok sert.
+## Komşular
+近所 (kinjo) | mahalle, civar | isim | 近所にいいパン屋があります。(Kinjo ni ii pan'ya ga arimasu.) | Mahallede iyi bir fırın var.
+挨拶 (aisatsu) | selamlaşma, selam | isim | 引っ越したら近所に挨拶します。(Hikkoshitara kinjo ni aisatsu shimasu.) | Taşınınca komşulara selam vermeye gideriz.
+迷惑 (meiwaku) | rahatsızlık, zahmet | isim | 近所に迷惑をかけないでください。(Kinjo ni meiwaku o kakenaide kudasai.) | Komşuları rahatsız etmeyin.
+騒音 (sōon) | gürültü | isim | 工事の騒音がひどいです。(Kōji no sōon ga hidoi desu.) | İnşaatın gürültüsü berbat.
+苦情 (kujō) | şikâyet | isim | 隣の人から苦情が来ました。(Tonari no hito kara kujō ga kimashita.) | Yan komşudan şikâyet geldi.
+回覧板 (kairanban) | mahalle duyuru panosu (elden ele) | isim | 回覧板を隣に回します。(Kairanban o tonari ni mawashimasu.) | Duyuru panosunu yan komşuya iletiyorum.
+自治会 (jichikai) | mahalle derneği | isim | 自治会の会議に出ました。(Jichikai no kaigi ni demashita.) | Mahalle derneğinin toplantısına katıldım.
+お互い (otagai) | birbirimiz, karşılıklı | isim | お互いに助け合いましょう。(Otagai ni tasukeaimashō.) | Birbirimize yardım edelim.
+交流 (kōryū) | etkileşim, kaynaşma | isim | 近所の人との交流が楽しいです。(Kinjo no hito to no kōryū ga tanoshii desu.) | Komşularla kaynaşmak keyifli.
+うるさい (urusai) | gürültülü; can sıkıcı | sıfat | 上の部屋がうるさいです。(Ue no heya ga urusai desu.) | Üst kat çok gürültülü.
+## Faturalar ve tesisat
+水道 (suidō) | şebeke suyu | isim | 水道の水は飲めますか。(Suidō no mizu wa nomemasu ka.) | Musluk suyu içilir mi?
+ガス (gasu) | gaz (doğalgaz) | isim | ガスを止めてから出かけます。(Gasu o tomete kara dekakemasu.) | Gazı kapattıktan sonra çıkarım.
+電気代 (denkidai) | elektrik faturası | isim | 夏は電気代が高いです。(Natsu wa denkidai ga takai desu.) | Yazın elektrik faturası yüksek.
+光熱費 (kōnetsuhi) | ısınma ve aydınlatma giderleri | isim | 光熱費は月一万円ぐらいです。(Kōnetsuhi wa tsuki ichiman en gurai desu.) | Faturalar ayda on bin yen kadar.
+請求書 (seikyūsho) | fatura | isim | 請求書がポストに入っていました。(Seikyūsho ga posuto ni haitte imashita.) | Fatura posta kutusundaydı.
+暖房 (danbō) | ısıtma, kalorifer | isim | 寒いから暖房をつけよう。(Samui kara danbō o tsukeyō.) | Hava soğuk, kaloriferi açalım.
+冷房 (reibō) | soğutma | isim | 冷房が強すぎます。(Reibō ga tsuyosugimasu.) | Soğutma çok fazla.
+停電 (teiden) | elektrik kesintisi | isim | 台風で停電しました。(Taifū de teiden shimashita.) | Tayfun yüzünden elektrikler kesildi.
+節電 (setsuden) | elektrik tasarrufu | isim | 夏は節電しましょう。(Natsu wa setsuden shimashō.) | Yazın elektrik tasarrufu yapalım.
+蛇口 (jaguchi) | musluk | isim | 蛇口から水がぽたぽた落ちます。(Jaguchi kara mizu ga potapota ochimasu.) | Musluktan su damlıyor.
+## Binada
+ベランダ (beranda) | balkon | isim | ベランダで洗濯物を干します。(Beranda de sentakumono o hoshimasu.) | Balkonda çamaşır asarım.
+物置 (monooki) | depo, kiler | isim | 古い自転車は物置にあります。(Furui jitensha wa monooki ni arimasu.) | Eski bisiklet depoda.
+廊下 (rōka) | koridor | isim | 廊下を走らないでください。(Rōka o hashiranaide kudasai.) | Koridorda koşmayın lütfen.
+地下 (chika) | bodrum, yer altı | isim | 地下に駐車場があります。(Chika ni chūshajō ga arimasu.) | Bodrumda otopark var.
+屋上 (okujō) | çatı katı (teras) | isim | 屋上から花火が見えます。(Okujō kara hanabi ga miemasu.) | Çatıdan havai fişekler görünüyor.
+エレベーター (erebētā) | asansör | isim | エレベーターで十階まで上がります。(Erebētā de jukkai made agarimasu.) | Asansörle onuncu kata çıkıyorum.
+郵便受け (yūbinuke) | posta kutusu (evdeki) | isim | 郵便受けに手紙が入っています。(Yūbinuke ni tegami ga haitte imasu.) | Posta kutusunda mektup var.
+門 (mon) | bahçe kapısı, avlu kapısı | isim | 門の前で待っています。(Mon no mae de matte imasu.) | Bahçe kapısının önünde bekliyorum.
+車庫 (shako) | garaj | isim | 車を車庫に入れます。(Kuruma o shako ni iremasu.) | Arabayı garaja koyuyorum.
+インターホン (intāhon) | diyafon | isim | インターホンが鳴りました。(Intāhon ga narimashita.) | Diyafon çaldı.
+## Evde fiiller
+暮らす (kurasu) | yaşamak, hayatını sürdürmek | fiil | 家族四人で暮らしています。(Kazoku yonin de kurashite imasu.) | Dört kişilik ailemle yaşıyorum.
+飾る (kazaru) | süslemek | fiil | 玄関に花を飾りました。(Genkan ni hana o kazarimashita.) | Girişi çiçeklerle süsledim.
+掛ける (kakeru) | asmak | fiil | 壁にカレンダーを掛けます。(Kabe ni karendā o kakemasu.) | Duvara takvim asıyorum.
+敷く (shiku) | sermek | fiil | 和室に布団を敷きます。(Washitsu ni futon o shikimasu.) | Japon odasına yatak seriyorum.
+付ける (tsukeru) | açmak (ışık); takmak | fiil | 暗いから電気を付けて。(Kurai kara denki o tsukete.) | Karanlık, ışığı aç.
+消す (kesu) | kapatmak (ışık); silmek | fiil | 寝る前にテレビを消します。(Neru mae ni terebi o keshimasu.) | Yatmadan önce televizyonu kapatırım.
+汚す (yogosu) | kirletmek | fiil | 新しい服を汚してしまいました。(Atarashii fuku o yogoshite shimaimashita.) | Yeni kıyafetimi kirlettim.
+取り替える (torikaeru) | değiştirmek (yenisiyle) | fiil | タオルを取り替えます。(Taoru o torikaemasu.) | Havluları değiştiriyorum.
+並べる (naraberu) | dizmek, sıralamak | fiil | テーブルに皿を並べてください。(Tēburu ni sara o narabete kudasai.) | Masaya tabakları diz lütfen.
+移す (utsusu) | taşımak, yerini değiştirmek | fiil | ソファーを窓の近くに移しました。(Sofā o mado no chikaku ni utsushimashita.) | Kanepeyi pencerenin yanına taşıdım.
+## Nasıl bir ev?
+快適 (kaiteki) | konforlu, rahat | sıfat | 新しい部屋はとても快適です。(Atarashii heya wa totemo kaiteki desu.) | Yeni oda çok konforlu.
+日当たり (hiatari) | güneş alma | isim | この部屋は日当たりがいいです。(Kono heya wa hiatari ga ii desu.) | Bu oda iyi güneş alıyor.
+清潔 (seiketsu) | temiz, hijyenik | sıfat | ホテルの部屋は清潔でした。(Hoteru no heya wa seiketsu deshita.) | Otel odası tertemizdi.
+居心地 (igokochi) | bir yerde kendini rahat hissetme | isim | この喫茶店は居心地がいいです。(Kono kissaten wa igokochi ga ii desu.) | Bu kafe çok rahat.
+住みやすい (sumiyasui) | yaşaması kolay | sıfat | この町は住みやすいです。(Kono machi wa sumiyasui desu.) | Bu kasabada yaşamak kolay.
+新築 (shinchiku) | yeni yapılmış (bina) | isim | 新築のマンションに引っ越しました。(Shinchiku no manshon ni hikkoshimashita.) | Yeni yapılmış bir apartmana taşındım.
+中古 (chūko) | ikinci el | isim | 中古の車を買いました。(Chūko no kuruma o kaimashita.) | İkinci el araba aldım.
+安全 (anzen) | güvenli; güvenlik | sıfat | この辺りは夜も安全です。(Kono atari wa yoru mo anzen desu.) | Bu civar gece de güvenli.
+防犯 (bōhan) | suç önleme, güvenlik | isim | 防犯のために鍵を二つ付けました。(Bōhan no tame ni kagi o futatsu tsukemashita.) | Güvenlik için iki kilit taktım.
+家庭 (katei) | aile ortamı, yuva | isim | 明るい家庭で育ちました。(Akarui katei de sodachimashita.) | Neşeli bir ailede büyüdüm.
+## Bahçe ve balkon
+植木 (ueki) | saksı bitkisi, bahçe bitkisi | isim | ベランダに植木を置いています。(Beranda ni ueki o oite imasu.) | Balkonda saksı bitkileri var.
+水やり (mizuyari) | sulama | isim | 毎朝、花に水やりをします。(Maiasa, hana ni mizuyari o shimasu.) | Her sabah çiçekleri sularım.
+芝生 (shibafu) | çim | isim | 芝生に入らないでください。(Shibafu ni hairanaide kudasai.) | Çimlere basmayın.
+花壇 (kadan) | çiçek tarhı | isim | 花壇にチューリップを植えました。(Kadan ni chūrippu o uemashita.) | Çiçek tarhına lale diktim.
+植える (ueru) | dikmek (bitki) | fiil | 庭に桜の木を植えました。(Niwa ni sakura no ki o uemashita.) | Bahçeye kiraz ağacı diktik.
+抜く (nuku) | çekip çıkarmak, sökmek | fiil | 庭の草を抜きます。(Niwa no kusa o nukimasu.) | Bahçedeki otları yoluyorum.
+雑草 (zassō) | yabani ot | isim | 雑草がすぐ伸びます。(Zassō ga sugu nobimasu.) | Yabani otlar çabucak uzuyor.
+鉢 (hachi) | saksı | isim | 鉢に花を植えます。(Hachi ni hana o uemasu.) | Saksıya çiçek dikiyorum.
+洗濯物 (sentakumono) | çamaşır (yıkanacak/yıkanmış) | isim | 雨だから洗濯物を入れて。(Ame dakara sentakumono o irete.) | Yağmur yağıyor, çamaşırları içeri al.
+物干し (monohoshi) | çamaşır askısı | isim | 物干しにシーツを掛けます。(Monohoshi ni shītsu o kakemasu.) | Çarşafı çamaşır askısına asıyorum.

@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, belgeler, gezi, Japonya'da yerler
+## Havalimanında
+便 (bin) | sefer, uçuş | isim | 十時の便で出発します。(Jūji no bin de shuppatsu shimasu.) | Saat ondaki uçuşla yola çıkıyorum.
+搭乗券 (tōjōken) | biniş kartı | isim | 搭乗券を見せてください。(Tōjōken o misete kudasai.) | Biniş kartınızı gösterin lütfen.
+出発 (shuppatsu) | kalkış, hareket | isim | 出発は午前九時です。(Shuppatsu wa gozen kuji desu.) | Kalkış sabah dokuzda.
+到着 (tōchaku) | varış | isim | 到着が三十分遅れます。(Tōchaku ga sanjuppun okuremasu.) | Varış otuz dakika gecikecek.
+国際線 (kokusaisen) | dış hatlar | isim | 国際線のターミナルはどこですか。(Kokusaisen no tāminaru wa doko desu ka.) | Dış hatlar terminali nerede?
+国内線 (kokunaisen) | iç hatlar | isim | 国内線で札幌へ行きます。(Kokunaisen de Sapporo e ikimasu.) | İç hatlarla Sapporo'ya gidiyorum.
+窓側 (madogawa) | cam kenarı | isim | 窓側の席をお願いします。(Madogawa no seki o onegaishimasu.) | Cam kenarı bir koltuk lütfen.
+通路側 (tsūrogawa) | koridor tarafı | isim | 通路側の方が楽です。(Tsūrogawa no hō ga raku desu.) | Koridor tarafı daha rahat.
+離陸 (ririku) | kalkış (uçağın havalanması) | isim | 飛行機はもうすぐ離陸します。(Hikōki wa mōsugu ririku shimasu.) | Uçak birazdan kalkıyor.
+着陸 (chakuriku) | iniş (uçağın) | isim | 成田空港に着陸しました。(Narita kūkō ni chakuriku shimashita.) | Narita Havalimanı'na indik.
+## Belgeler ve sınır
+パスポート (pasupōto) | pasaport | isim | パスポートをなくしました。(Pasupōto o nakushimashita.) | Pasaportumu kaybettim.
+ビザ (biza) | vize | isim | 日本のビザが必要ですか。(Nihon no biza ga hitsuyō desu ka.) | Japonya vizesi gerekiyor mu?
+身分証明書 (mibun shōmeisho) | kimlik belgesi | isim | 身分証明書を持っていますか。(Mibun shōmeisho o motte imasu ka.) | Kimliğiniz yanınızda mı?
+税関 (zeikan) | gümrük | isim | 税関で荷物を開けました。(Zeikan de nimotsu o akemashita.) | Gümrükte bavulu açtım.
+入国 (nyūkoku) | ülkeye giriş | isim | 入国の目的は観光です。(Nyūkoku no mokuteki wa kankō desu.) | Giriş amacım turizm.
+出国 (shukkoku) | ülkeden çıkış | isim | 出国の手続きをします。(Shukkoku no tetsuzuki o shimasu.) | Çıkış işlemlerini yapıyorum.
+申告 (shinkoku) | beyan | isim | 申告するものはありません。(Shinkoku suru mono wa arimasen.) | Beyan edecek bir şeyim yok.
+両替 (ryōgae) | döviz bozdurma | isim | 空港で円に両替しました。(Kūkō de en ni ryōgae shimashita.) | Havalimanında yene çevirdim.
+保険 (hoken) | sigorta | isim | 旅行の保険に入りました。(Ryokō no hoken ni hairimashita.) | Seyahat sigortası yaptırdım.
+手続き (tetsuzuki) | işlem, prosedür | isim | 手続きに時間がかかります。(Tetsuzuki ni jikan ga kakarimasu.) | İşlemler zaman alıyor.
+## Trenle seyahat
+指定席 (shiteiseki) | numaralı koltuk | isim | 新幹線の指定席を取りました。(Shinkansen no shiteiseki o torimashita.) | Hızlı trende numaralı koltuk aldım.
+自由席 (jiyūseki) | numarasız koltuk | isim | 自由席は三号車です。(Jiyūseki wa sangōsha desu.) | Numarasız koltuklar üç numaralı vagonda.
+改札 (kaisatsu) | bilet gişesi, turnike | isim | 改札の前で待っています。(Kaisatsu no mae de matte imasu.) | Turnikelerin önünde bekliyorum.
+ホーム (hōmu) | peron | isim | 三番ホームから出ます。(Sanban hōmu kara demasu.) | Üç numaralı perondan kalkıyor.
+時刻表 (jikokuhyō) | sefer tarifesi | isim | 時刻表を確認しましょう。(Jikokuhyō o kakunin shimashō.) | Sefer tarifesine bakalım.
+往復 (ōfuku) | gidiş-dönüş | isim | 京都まで往復でいくらですか。(Kyōto made ōfuku de ikura desu ka.) | Kyoto'ya gidiş-dönüş ne kadar?
+片道 (katamichi) | tek yön | isim | 片道の切符をください。(Katamichi no kippu o kudasai.) | Tek yön bir bilet lütfen.
+終電 (shūden) | son tren | isim | 終電に乗り遅れました。(Shūden ni noriokuremashita.) | Son treni kaçırdım.
+特急 (tokkyū) | ekspres tren | isim | 特急なら一時間で着きます。(Tokkyū nara ichijikan de tsukimasu.) | Ekspresle bir saatte varılır.
+各駅停車 (kakueki teisha) | her durakta duran tren | isim | 各駅停車は時間がかかります。(Kakueki teisha wa jikan ga kakarimasu.) | Her durakta duran tren uzun sürer.
+## Otelde
+フロント (furonto) | resepsiyon (otel) | isim | 鍵はフロントに預けてください。(Kagi wa furonto ni azukete kudasai.) | Anahtarı resepsiyona bırakın lütfen.
+チェックイン (chekkuin) | giriş işlemi (otel) | isim | チェックインは三時からです。(Chekkuin wa sanji kara desu.) | Giriş saat üçten itibaren.
+チェックアウト (chekkuauto) | çıkış işlemi (otel) | isim | チェックアウトは何時ですか。(Chekkuauto wa nanji desu ka.) | Çıkış saat kaçta?
+泊まる (tomaru) | konaklamak, kalmak | fiil | 友達の家に泊まりました。(Tomodachi no ie ni tomarimashita.) | Arkadaşımın evinde kaldım.
+一泊 (ippaku) | bir gece (konaklama) | isim | 一泊いくらですか。(Ippaku ikura desu ka.) | Bir gecesi ne kadar?
+空室 (kūshitsu) | boş oda | isim | 今晩、空室はありますか。(Konban, kūshitsu wa arimasu ka.) | Bu gece boş odanız var mı?
+朝食付き (chōshokutsuki) | kahvaltı dahil | isim | このプランは朝食付きです。(Kono puran wa chōshokutsuki desu.) | Bu paket kahvaltı dahil.
+民宿 (minshuku) | pansiyon (aile işletmesi) | isim | 海の近くの民宿に泊まりました。(Umi no chikaku no minshuku ni tomarimashita.) | Deniz kenarında bir pansiyonda kaldık.
+宿泊 (shukuhaku) | konaklama | isim | 宿泊は二名様ですか。(Shukuhaku wa nimei-sama desu ka.) | İki kişi mi kalacaksınız?
+貴重品 (kichōhin) | değerli eşya | isim | 貴重品は金庫に入れてください。(Kichōhin wa kinko ni irete kudasai.) | Değerli eşyalarınızı kasaya koyun.
+## Gezip görmek
+名所 (meisho) | görülecek yer | isim | 京都には名所が多いです。(Kyōto ni wa meisho ga ōi desu.) | Kyoto'da görülecek çok yer var.
+景色 (keshiki) | manzara | isim | 山の上からの景色は最高です。(Yama no ue kara no keshiki wa saikō desu.) | Dağın tepesinden manzara harika.
+見物 (kenbutsu) | gezip görme, seyir | isim | 町を見物しましょう。(Machi o kenbutsu shimashō.) | Şehri gezip görelim.
+ツアー (tsuā) | tur | isim | 富士山のツアーに参加しました。(Fujisan no tsuā ni sanka shimashita.) | Fuji Dağı turuna katıldım.
+ガイド (gaido) | rehber (kişi) | isim | ガイドさんの説明は面白かったです。(Gaido-san no setsumei wa omoshirokatta desu.) | Rehberin anlatımı ilginçti.
+世界遺産 (sekai isan) | Dünya Mirası | isim | 法隆寺は世界遺産です。(Hōryūji wa sekai isan desu.) | Hōryū Tapınağı Dünya Mirası'dır.
+城 (shiro) | kale, şato | isim | 姫路城はとてもきれいです。(Himejijō wa totemo kirei desu.) | Himeji Kalesi çok güzel.
+祭り (matsuri) | festival, şenlik | isim | 夏祭りに行きましょう。(Natsu matsuri ni ikimashō.) | Yaz festivaline gidelim.
+入場料 (nyūjōryō) | giriş ücreti | isim | 入場料は五百円です。(Nyūjōryō wa gohyaku en desu.) | Giriş ücreti beş yüz yen.
+記念 (kinen) | hatıra, anma | isim | 記念に写真を撮りましょう。(Kinen ni shashin o torimashō.) | Hatıra olarak fotoğraf çekelim.
+## Japonya'da yerler
+東京 (Tōkyō) | Tokyo | isim | 東京は日本の首都です。(Tōkyō wa Nihon no shuto desu.) | Tokyo Japonya'nın başkentidir.
+京都 (Kyōto) | Kyoto | isim | 京都で古いお寺を見ました。(Kyōto de furui o-tera o mimashita.) | Kyoto'da eski tapınakları gördüm.
+大阪 (Ōsaka) | Osaka | isim | 大阪の食べ物はおいしいです。(Ōsaka no tabemono wa oishii desu.) | Osaka'nın yemekleri çok lezzetli.
+北海道 (Hokkaidō) | Hokkaido | isim | 冬の北海道でスキーをしました。(Fuyu no Hokkaidō de sukī o shimashita.) | Kışın Hokkaido'da kayak yaptım.
+沖縄 (Okinawa) | Okinawa | isim | 沖縄の海はとてもきれいです。(Okinawa no umi wa totemo kirei desu.) | Okinawa'nın denizi çok güzel.
+富士山 (Fujisan) | Fuji Dağı | isim | 新幹線から富士山が見えました。(Shinkansen kara Fujisan ga miemashita.) | Hızlı trenden Fuji Dağı göründü.
+奈良 (Nara) | Nara | isim | 奈良の公園には鹿がいます。(Nara no kōen ni wa shika ga imasu.) | Nara'nın parkında geyikler var.
+広島 (Hiroshima) | Hiroşima | isim | 広島でお好み焼きを食べました。(Hiroshima de okonomiyaki o tabemashita.) | Hiroşima'da okonomiyaki yedim.
+九州 (Kyūshū) | Kyuşu (ada) | isim | 九州は温泉が多いです。(Kyūshū wa onsen ga ōi desu.) | Kyuşu'da çok kaplıca var.
+首都 (shuto) | başkent | isim | トルコの首都はアンカラです。(Toruko no shuto wa Ankara desu.) | Türkiye'nin başkenti Ankara'dır.
+## Yolculuk fiilleri
+迷う (mayou) | yolunu kaybetmek; kararsız kalmak | fiil | 駅で道に迷いました。(Eki de michi ni mayoimashita.) | İstasyonda yolumu kaybettim.
+乗り遅れる (noriokureru) | (aracı) kaçırmak | fiil | バスに乗り遅れました。(Basu ni noriokuremashita.) | Otobüsü kaçırdım.
+寄り道 (yorimichi) | yolda bir yere uğrama | isim | 帰りに寄り道しよう。(Kaeri ni yorimichi shiyō.) | Dönüşte bir yere uğrayalım.
+見送る (miokuru) | yolcu etmek, uğurlamak | fiil | 空港で友達を見送りました。(Kūkō de tomodachi o miokurimashita.) | Havalimanında arkadaşımı uğurladım.
+訪ねる (tazuneru) | ziyaret etmek | fiil | 京都の友達を訪ねます。(Kyōto no tomodachi o tazunemasu.) | Kyoto'daki arkadaşımı ziyaret edeceğim.
+楽しむ (tanoshimu) | keyfini çıkarmak | fiil | 旅行を楽しんでください。(Ryokō o tanoshinde kudasai.) | Seyahatin keyfini çıkarın.
+預ける (azukeru) | emanet etmek, bırakmak | fiil | 荷物をホテルに預けました。(Nimotsu o hoteru ni azukemashita.) | Bavulları otele emanet ettim.
+向かう (mukau) | -e doğru gitmek, yönelmek | fiil | 今、駅に向かっています。(Ima, eki ni mukatte imasu.) | Şu an istasyona doğru gidiyorum.
+経由 (keiyu) | aktarmalı, üzerinden | isim | ドバイ経由で日本へ行きます。(Dobai keiyu de Nihon e ikimasu.) | Japonya'ya Dubai aktarmalı gidiyorum.
+滞在 (taizai) | kalış, ikamet (geçici) | isim | 日本に二週間滞在します。(Nihon ni nishūkan taizai shimasu.) | Japonya'da iki hafta kalacağım.
+## Bavul ve eşyalar
+スーツケース (sūtsukēsu) | valiz | isim | スーツケースが重すぎます。(Sūtsukēsu ga omosugimasu.) | Valiz çok ağır.
+リュック (ryukku) | sırt çantası | isim | リュック一つで旅行します。(Ryukku hitotsu de ryokō shimasu.) | Tek bir sırt çantasıyla seyahat ederim.
+忘れ物 (wasuremono) | unutulan eşya | isim | 忘れ物はありませんか。(Wasuremono wa arimasen ka.) | Unuttuğunuz bir şey var mı?
+落とし物 (otoshimono) | kayıp eşya (düşürülen) | isim | 落とし物を交番に届けました。(Otoshimono o kōban ni todokemashita.) | Bulduğum kayıp eşyayı polise teslim ettim.
+日焼け止め (hiyakedome) | güneş kremi | isim | 海では日焼け止めを塗ります。(Umi de wa hiyakedome o nurimasu.) | Denizde güneş kremi sürerim.
+着替え (kigae) | yedek kıyafet | isim | 着替えを三日分持って行きます。(Kigae o mikkabun motte ikimasu.) | Üç günlük yedek kıyafet götürüyorum.
+ガイドブック (gaidobukku) | rehber kitap | isim | ガイドブックでレストランを探します。(Gaidobukku de resutoran o sagashimasu.) | Rehber kitaptan restoran arıyorum.
+観光案内所 (kankō annaijo) | turist danışma bürosu | isim | 観光案内所で地図をもらいました。(Kankō annaijo de chizu o moraimashita.) | Turist danışmadan harita aldım.
+コインロッカー (koinrokkā) | bozuk parayla çalışan dolap | isim | 駅のコインロッカーに荷物を入れます。(Eki no koinrokkā ni nimotsu o iremasu.) | Bavulumu istasyondaki dolaba koyuyorum.
+カメラ (kamera) | fotoğraf makinesi | isim | カメラを忘れました。(Kamera o wasuremashita.) | Fotoğraf makinemi unuttum.
+## Mesafe ve süre
+距離 (kyori) | mesafe | isim | 駅までの距離はどのくらいですか。(Eki made no kyori wa dono kurai desu ka.) | İstasyona mesafe ne kadar?
+約 (yaku) | yaklaşık | zarf | 東京から大阪まで約五百キロです。(Tōkyō kara Ōsaka made yaku gohyakkiro desu.) | Tokyo'dan Osaka'ya yaklaşık beş yüz kilometre.
+〜くらい (kurai) | kadar, civarında | edat | 歩いて十分くらいです。(Aruite juppun kurai desu.) | Yürüyerek on dakika kadar.
+かかる (kakaru) | (zaman, para) tutmak, sürmek | fiil | 空港まで一時間かかります。(Kūkō made ichijikan kakarimasu.) | Havalimanına bir saat sürüyor.
+〜間 (-kan) | süre (... boyunca) | isim | 三日間京都にいました。(Mikkakan Kyōto ni imashita.) | Üç gün Kyoto'daydım.
+日帰り (higaeri) | günübirlik | isim | 日帰りで鎌倉へ行きました。(Higaeri de Kamakura e ikimashita.) | Günübirlik Kamakura'ya gittim.
+夜行バス (yakō basu) | gece otobüsü | isim | 夜行バスは安いです。(Yakō basu wa yasui desu.) | Gece otobüsü ucuz.
+混む (komu) | kalabalık olmak | fiil | 週末の電車は混んでいます。(Shūmatsu no densha wa konde imasu.) | Hafta sonu trenler kalabalık.
+空く (aku) | boşalmak, boş olmak | fiil | この席は空いていますか。(Kono seki wa aite imasu ka.) | Bu koltuk boş mu?
+時差 (jisa) | saat farkı | isim | トルコと日本の時差は六時間です。(Toruko to Nihon no jisa wa rokujikan desu.) | Türkiye ile Japonya arasında altı saat fark var.
+## Yurt dışında
+海外 (kaigai) | yurt dışı | isim | 初めて海外旅行に行きます。(Hajimete kaigai ryokō ni ikimasu.) | İlk kez yurt dışına seyahat ediyorum.
+国内 (kokunai) | yurt içi | isim | 今年は国内を旅行します。(Kotoshi wa kokunai o ryokō shimasu.) | Bu yıl yurt içinde geziyorum.
+文化 (bunka) | kültür | isim | 日本の文化に興味があります。(Nihon no bunka ni kyōmi ga arimasu.) | Japon kültürüne ilgim var.
+言語 (gengo) | dil, lisan | isim | 世界には言語がたくさんあります。(Sekai ni wa gengo ga takusan arimasu.) | Dünyada çok sayıda dil var.
+現地 (genchi) | yerel, o yer | isim | 現地の料理を食べてみたいです。(Genchi no ryōri o tabete mitai desu.) | Yerel yemekleri denemek istiyorum.
+旅行者 (ryokōsha) | gezgin, turist | isim | 京都は旅行者が多いです。(Kyōto wa ryokōsha ga ōi desu.) | Kyoto'da çok turist var.
+大使館 (taishikan) | büyükelçilik | isim | トルコ大使館はどこですか。(Toruko taishikan wa doko desu ka.) | Türkiye Büyükelçiliği nerede?
+体験 (taiken) | deneyim (yaşanan) | isim | 着物を着る体験をしました。(Kimono o kiru taiken o shimashita.) | Kimono giyme deneyimi yaşadım.
+思い出 (omoide) | anı, hatıra | isim | 日本の旅行はいい思い出です。(Nihon no ryokō wa ii omoide desu.) | Japonya gezisi güzel bir anı.
+通じる (tsūjiru) | anlaşılmak; ulaşmak (telefon) | fiil | 私の日本語が通じました。(Watashi no Nihongo ga tsūjimashita.) | Japoncamla anlaşabildim.
