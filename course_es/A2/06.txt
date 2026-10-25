@@ -1,0 +1,111 @@
+# UNIT: Ev hayatı | Kiralama, tamir, mobilya, komşular
+## Kiralık ev arama
+alquilar | kiralamak | fiil | Queremos alquilar un piso cerca del parque. | Parkın yakınında bir daire kiralamak istiyoruz.
+el inmueble | taşınmaz; mülk | isim (e) | Este inmueble tiene tres dormitorios grandes. | Bu taşınmazın üç büyük yatak odası var.
+el arrendador | ev sahibi; kiraya veren | isim (e) | El arrendador firmó el documento ayer. | Kiraya veren belgeyi dün imzaladı.
+el arrendatario | kiracı | isim (e) | El arrendatario cuida muy bien la vivienda. | Kiracı konuta çok iyi bakıyor.
+la vivienda | konut; ev | isim (d) | Buscamos una vivienda digna y moderna. | Çağdaş ve düzgün bir konut arıyoruz.
+amueblado | mobilyalı; eşyalı | sıfat | El piso está totalmente amueblado. | Daire tamamen mobilyalıdır.
+luminoso | aydınlık; bol ışıklı | sıfat | La sala es muy luminosa por las tardes. | Salon öğleden sonraları çok aydınlıktır.
+céntrico | merkezi | sıfat | Prefiero un piso céntrico y bien comunicado. | Merkezi ve ulaşımı kolay bir daire tercih ederim.
+la mensualidad | aylık ücret; aylık kira | isim (d) | Pagamos la mensualidad el primer día del mes. | Aylık kirayı ayın ilk günü ödüyoruz.
+compartir piso | ev paylaşmak; evi biriyle paylaşmak | ifade | Diego decidió compartir piso con dos estudiantes. | Diego iki öğrenciyle ev paylaşmaya karar verdi.
+## Evin bölümleri ve alanları
+el salón | salon; oturma odası | isim (e) | Nos reunimos en el salón para ver una película. | Film izlemek için salonda toplandık.
+el dormitorio | yatak odası | isim (e) | El dormitorio principal tiene una ventana grande. | Ebeveyn yatak odasının büyük bir penceresi var.
+el comedor | yemek odası | isim (e) | Cenamos juntos en el comedor todos los días. | Her gün yemek odasında birlikte akşam yemeği yeriz.
+la terraza | teras | isim (d) | Tomamos café en la terraza bajo el sol. | Güneşin altında terasta kahve içiyoruz.
+el patio | avlu; iç avlu | isim (e) | Las plantas crecen felices en el patio interior. | Bitkiler iç avluda neşeyle büyüyor.
+el trastero | ardiye; kiler odası | isim (e) | Guardamos las maletas viejas en el trastero. | Eski valizleri ardiyede saklıyoruz.
+el desván | tavan arası | isim (e) | Hay cajas polvorientas en el desván. | Tavan arasında tozlu kutular var.
+el recibidor | antre; giriş | isim (e) | Dejé las llaves sobre la mesa del recibidor. | Anahtarları antredeki masanın üzerine bıraktım.
+la despensa | kiler | isim (d) | La despensa está llena de alimentos secos. | Kiler kuru gıdalarla dolu.
+el lavadero | çamaşır odası; çamaşırlık | isim (e) | Instalaron la lavadora en el lavadero exterior. | Çamaşır makinesini dış çamaşır odasına kurdular.
+## Mobilyalar ve dekorasyon
+el perchero | askılık; vestiyer | isim (e) | Cuelga tu chaqueta en el perchero cerca de la puerta. | Ceketini kapının yanındaki askılığa as.
+el taburete | tabure | isim (e) | Me senté en un taburete alto en la cocina. | Mutfakta yüksek bir tabureye oturdum.
+el colchón | şilte; yatak | isim (e) | Compramos un colchón nuevo muy cómodo. | Çok rahat yeni bir yatak şiltesi aldık.
+el aparador | büfe; konsol | isim (e) | Guardamos la vajilla buena en el aparador. | İyi yemek takımını konsolda saklıyoruz.
+la vitrina | vitrin; camlı dolap | isim (d) | Los vasos de cristal están en la vitrina. | Kristal bardaklar vitrindedir.
+el estor | stor perde; rulo perde | isim (e) | Bajé el estor para tapar la luz del sol. | Güneş ışığını kesmek için stor perdeyi indirdim.
+el zapatero | ayakkabılık | isim (e) | Pon tus botas dentro del zapatero del pasillo. | Çizmelerini koridordaki ayakkabılığın içine koy.
+la mesita | sehpa; küçük masa | isim (d) | Hay una taza de té sobre la mesita. | Sehpanın üzerinde bir fincan çay var.
+el biombo | paravan | isim (e) | Colocaron un biombo para separar los espacios. | Alanları ayırmak için bir paravan koydular.
+la funda | kılıf; örtü | isim (d) | Lavé la funda de los cojines esta mañana. | Yastıkların kılıfını bu sabah yıkadım.
+## Mutfak ve banyo donanımı
+la campana extractora | davlumbaz; aspiratör | isim (d) | Enciende la campana extractora mientras cocinas pescado. | Balık pişirirken davlumbazı aç.
+la vitrocerámica | cam seramik ocak; elektrikli ocak | isim (d) | Limpié la vitrocerámica con una esponja suave. | Cam seramik ocağı yumuşak bir süngerle temizledim.
+la batidora | blender; çırpıcı | isim (d) | Preparo puré de verduras con la batidora. | Blender ile sebze püresi hazırlıyorum.
+el hervidor | su ısıtıcısı; ketıl | isim (e) | El hervidor calienta el agua en dos minutos. | Su ısıtıcısı suyu iki dakikada kaynatır.
+el calentador | şofben; su ısıtıcısı | isim (e) | El calentador de gas funciona correctamente. | Gazlı şofben düzgün çalışıyor.
+el bidé | bide | isim (e) | El cuarto de baño tiene ducha y bidé. | Banyoda duş ve bide var.
+el exprimidor | narenciye sıkacağı | isim (e) | Usamos el exprimidor para hacer zumo de naranja. | Portakal suyu yapmak için narenciye sıkacağını kullanıyoruz.
+la mampara | duşakabin camı; bölme | isim (d) | Instalaron una mampara de cristal en la ducha. | Duşa cam bir duşakabin taktılar.
+el desagüe | su gideri; tahliye deliği | isim (e) | El agua baja despacio por el desagüe. | Su giderden yavaşça akıyor.
+el toallero | havluluk | isim (e) | Colgué las toallas limpias en el toallero. | Temiz havluları havluluğa astım.
+## Ev işleri ve temizlik
+ventilar | havalandırmak | fiil | Hay que ventilar la habitación cada mañana. | Her sabah odayı havalandırmak gerekir.
+desempolvar | tozunu almak | fiil | Voy a desempolvar los estantes con cuidado. | Rafların tozunu dikkatlice alacağım.
+la fregona | yer paspası; vileda | isim (d) | Limpió el suelo de la cocina con la fregona. | Mutfak zeminini paspasla temizledi.
+la bayeta | temizlik bezi | isim (d) | Pasa una bayeta húmeda por la mesa. | Masanın üzerinden nemli bir temizlik beziyle geç.
+el estropajo | bulaşık süngeri; bulaşık teli | isim (e) | Usa este estropajo para frotar las cazuelas. | Tencereleri ovalamak için bu bulaşık süngerini kullan.
+la esponja | sünger | isim (d) | Limpié los azulejos del baño con una esponja. | Banyo fayanslarını bir süngerle temizledim.
+tender la ropa | çamaşır asmak | ifade | Subo a la azotea para tender la ropa. | Çamaşır asmak için çatı terasına çıkıyorum.
+doblar la ropa | çamaşırları katlamak | ifade | Ayúdame a doblar la ropa limpia, por favor. | Temiz çamaşırları katlamama yardım et lütfen.
+la lejía | çamaşır suyu | isim (d) | Desinfectamos el suelo con un poco de lejía. | Zemini biraz çamaşır suyuyla dezenfekte ediyoruz.
+la suciedad | kir; pislik | isim (d) | Quitamos toda la suciedad acumulada tras la fiesta. | Partiden sonra biriken tüm kiri temizledik.
+## Ev tamiratı ve arızalar
+estropearse | bozulmak | fiil · dönüşlü | El aparato de aire suele estropearse en verano. | Klima cihazı genellikle yazın bozulur.
+atascarse | tıkanmak | fiil · dönüşlü | La tubería del baño volvió a atascarse anoche. | Banyo borusu dün gece yine tıkandı.
+desatascar | tıkanıklığını açmak | fiil | Intentamos desatascar el lavabo con agua caliente. | Lavabonun tıkanıklığını sıcak suyla açmaya çalıştık.
+gotear | damlatmak; damlamak | fiil | El grifo de la bañera empezó a gotear. | Küvetin musluğu damlatmaya başladı.
+fundirse | patlamak; erimek | fiil · dönüşlü | Se fundió la bombilla del pasillo esta tarde. | Koridordaki ampul bu öğleden sonra patladı.
+chirriar | gıcırdamak | fiil | La puerta del salón no para de chirriar. | Salonun kapısı gıcırdamadan durmuyor.
+el moho | küf | isim (e) | Hay moho negro en la pared de la cocina. | Mutfak duvarında siyah küf var.
+la grieta | çatlak; yarık | isim (d) | Vimos una grieta fina en el techo del piso. | Dairenin tavanında ince bir çatlak gördük.
+el apagón | elektrik kesintisi | isim (e) | Hubo un apagón general en todo el barrio. | Bütün mahallede genel bir elektrik kesintisi oldu.
+el albañil | duvar ustası; inşaat ustası | isim (e) | Llamamos al albañil para reparar el muro dañado. | Hasarlı duvarı onarması için duvar ustasını çağırdık.
+## Tamir aletleri ve gereçler
+el martillo | çekiç | isim (e) | Clavé un cuadro en la pared con el martillo. | Çekiçle duvara bir tablo çaktım.
+el destornillador | tornavida | isim (e) | Pásame el destornillador para apretar esta mesa. | Bu masayı sıkmak için bana tornavidayı uzat.
+el tornillo | vida; cıvata | isim (e) | Falta un tornillo para montar esta estantería. | Bu rafı monte etmek için bir vida eksik.
+el clavo | çivi | isim (e) | Ten cuidado con ese clavo oxidado en la madera. | Tahtadaki o paslı çiviye dikkat et.
+el taladro | matkap | isim (e) | Hizo un agujero en la pared con el taladro. | Matkapla duvarda bir delik açtı.
+la sierra | testere | isim (d) | Cortó la tabla de madera con una sierra de mano. | Tahta levhayı bir el testeresiyle kesti.
+los alicates | pense | isim (çoğul) | Usó los alicates para doblar el alambre metálico. | Metal teli bükmek için penseyi kullandı.
+la tuerca | somun | isim (d) | Aprieta bien la tuerca para fijar la rueda. | Tekerleği sabitlemek için somunu iyice sık.
+la cinta métrica | şerit metre | isim (d) | Medí el ancho de la puerta con la cinta métrica. | Kapının genişliğini şerit metre ile ölçtüm.
+la llave inglesa | İngiliz anahtarı; kurbağacık | isim (d) | Necesito una llave inglesa para apretar la tuerca. | Somunu sıkmak için bir İngiliz anahtarına ihtiyacım var.
+## Apartman ve ortak alanlar
+el ascensor | asansör | isim (e) | Subimos al cuarto piso en el ascensor. | Dördüncü kata asansörle çıktık.
+el buzón | posta kutusu | isim (e) | Hay varias cartas bancarias en mi buzón. | Posta kutumda birkaç banka mektubu var.
+el portal | bina girişi; apartman kapısı | isim (e) | Esperé a mi amigo delante del portal. | Arkadaşımı apartman girişinin önünde bekledim.
+el interfono | diyafon | isim (e) | Llamé por el interfono para que me abrieran. | Bana kapıyı açmaları için diyafona bastım.
+la azotea | çatı terası; dam | isim (d) | Subimos a la azotea para contemplar la puesta de sol. | Gün batımını seyretmek için çatı terasına çıktık.
+el rellano | kat sahanlığı | isim (e) | Saludé a mi vecina en el rellano del piso. | Katta sahanlıkta komşuma selam verdim.
+la fachada | bina cephesi | isim (d) | Pintaron la fachada del edificio de color claro. | Binanın cephesini açık renge boyadılar.
+la plaza de garaje | otopark yeri | isim (d) | El alquiler incluye una plaza de garaje subterránea. | Kiraya yer altı otopark yeri dahildir.
+los gastos de comunidad | apartman aidatı; ortak giderler | isim (çoğul) | Pagamos los gastos de comunidad cada trimestre. | Apartman aidatını üç ayda bir ödüyoruz.
+la portería | kapıcı kulübesi; danışma | isim (d) | Dejé un paquete urgente en la portería. | Kapıcı dairesine acil bir paket bıraktım.
+## Komşuluk ilişkileri ve kurallar
+convivir | bir arada yaşamak | fiil | Es importante convivir con amabilidad y paciencia. | Nezaket ve sabırla bir arada yaşamak önemlidir.
+molestar | rahatsız etmek | fiil | La música alta suele molestar a los vecinos. | Yüksek sesli müzik genellikle komşuları rahatsız eder.
+la molestia | rahatsızlık | isim (d) | Perdón por la molestia ocasionada durante la reforma. | Tadilat sırasında verilen rahatsızlık için özür dilerim.
+saludar | selam vermek; selamlaşmak | fiil | Solemos saludar cordialmente a los nuevos vecinos. | Yeni komşulara içtenlikle selam vermeyi adet ediniriz.
+cordial | samimi; içten | sıfat | Mantenemos un trato cordial con toda la comunidad. | Tüm apartman sakinleriyle samimi bir ilişki sürdürüyoruz.
+el aviso previo | önceden bildirim; uyarı | isim (e) | El administrador envió un aviso previo sobre las obras. | Yönetici tadilatla ilgili önceden bir bildirim gönderdi.
+el horario de descanso | dinlenme saatleri | isim (e) | Debemos respetar el horario de descanso nocturno. | Gece dinlenme saatlerine saygı göstermeliyiz.
+la comunidad de propietarios | kat malikleri kurulu; apartman yönetimi | isim (d) | La comunidad de propietarios aprobó arreglar el tejado. | Kat malikleri kurulu çatının onarılmasını onayladı.
+el presidente de la comunidad | apartman yöneticisi | isim (e) | El presidente de la comunidad convocó una junta extraordinaria. | Apartman yöneticisi olağanüstü bir toplantı çağrısı yaptı.
+la norma de convivencia | ortak yaşam kuralı; apartman kuralı | isim (d) | Todos firmaron la norma de convivencia del edificio. | Herkes binanın ortak yaşam kuralını imzaladı.
+## Taşınma ve yerleşme
+mudarse | taşınmak | fiil · dönüşlü | Mi familia va a mudarse a un piso más grande. | Ailem daha büyük bir daireye taşınacak.
+trasladarse | yer değiştirmek; taşınmak | fiil · dönüşlü | Decidieron trasladarse a Valencia por motivos laborales. | İş nedeniyle Valensiya'ya taşınmaya karar verdiler.
+embalar | kolilemek; paketlemek | fiil | Empezamos a embalar los libros en cajas resistentes. | Kitapları dayanıklı kutulara kolilemeye başladık.
+desembalar | kolileri açmak; ambalajdan çıkarmak | fiil | Pasamos toda la tarde desembalando platos en la cocina. | Bütün öğleden sonrayı mutfakta tabakların paketlerini açarak geçirdik.
+instalarse | yerleşmek | fiil · dönüşlü | Nos llevó una semana instalarnos en el nuevo hogar. | Yeni yuvamıza yerleşmemiz bir hafta sürdü.
+cargar | yüklemek | fiil | Los operarios van a cargar los muebles en el camión. | Görevliler mobilyaları kamyona yükleyecekler.
+el camión de mudanzas | nakliye kamyonu | isim (e) | El camión de mudanzas llegó puntual por la mañana. | Nakliye kamyonu sabah tam vaktinde geldi.
+la furgoneta | kamyonet; nakliye aracı | isim (d) | Alquilamos una furgoneta para transportar las plantas. | Bitkileri taşımak için bir kamyonet kiraladık.
+la cinta de embalar | koli bandı | isim (d) | Necesito más cinta de embalar para cerrar este paquete. | Bu paketi kapatmak için daha fazla koli bandına ihtiyacım var.
+las pertenencias | şahsi eşyalar; eşyalar | isim (çoğul) | Guardó todas sus pertenencias con mucho cuidado. | Bütün şahsi eşyalarını büyük bir özenle sakladı.
