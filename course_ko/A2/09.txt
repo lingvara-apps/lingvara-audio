@@ -13,7 +13,7 @@
 ## Ödeme
 잔액 (janaek) | bakiye | isim | 교통카드 잔액이 부족해요. (Gyotongkadeu janaegi bujokaeyo.) | Ulaşım kartının bakiyesi yetersiz.
 금액 (geumaek) | tutar, meblağ | isim | 결제 금액을 확인해 주세요. (Gyeolje geumaegeul hwaginhae juseyo.) | Ödeme tutarını kontrol edin.
-지불하다 (jiburhada) | ödemek | fiil | 숙박비는 현금으로 지불했어요. (Sukbakbineun hyeongeumeuro jiburhaesseoyo.) | Konaklama ücretini nakit ödedim.
+지불하다 (jibulhada) | ödemek | fiil | 숙박비는 현금으로 지불했어요. (Sukbakbineun hyeongeumeuro jibulhaesseoyo.) | Konaklama ücretini nakit ödedim.
 결제하다 (gyeoljehada) | ödeme yapmak (kartla, online) | fiil | 휴대폰으로 결제할 수 있어요. (Hyudaeponeuro gyeoljehal su isseoyo.) | Cep telefonuyla ödeme yapabilirsiniz.
 할부 (halbu) | taksit | isim | 삼 개월 할부로 해 주세요. (Sam gaewol halburo hae juseyo.) | Üç taksit yapın lütfen.
 일시불 (ilsibul) | tek çekim | isim | 일시불로 결제할게요. (Ilsibullo gyeoljehalgeyo.) | Tek çekim ödeyeceğim.
@@ -62,7 +62,7 @@
 세차 (secha) | araba yıkama | isim | 주말에 세차를 했어요. (Jumare sechareul haesseoyo.) | Hafta sonu arabayı yıkattım.
 정비소 (jeongbiso) | oto tamirhanesi | isim | 차가 고장 나서 정비소에 갔어요. (Chaga gojang naseo jeongbisoe gasseoyo.) | Araba bozulunca tamirhaneye gittim.
 안경점 (angyeongjeom) | gözlükçü | isim | 안경점에서 새 안경을 맞췄어요. (Angyeongjeomeseo sae angyeongeul matchwosseoyo.) | Gözlükçüde yeni gözlük yaptırdım.
-꽃집 (kkotjip) | çiçekçi | isim | 꽃집에서 장미 한 다발을 샀어요. (Kkotjibeseo jangmi han darareul sasseoyo.) | Çiçekçiden bir demet gül aldım.
+꽃집 (kkotjip) | çiçekçi | isim | 꽃집에서 장미 한 다발을 샀어요. (Kkotjibeseo jangmi han dabareul sasseoyo.) | Çiçekçiden bir demet gül aldım.
 빵집 (ppangjip) | fırın, pastane | isim | 아침마다 빵집 앞에서 좋은 냄새가 나요. (Achimmada ppangjip apeseo joeun naemsaega nayo.) | Her sabah fırının önünde güzel koku olur.
 철물점 (cheolmuljeom) | nalbur | isim | 철물점에서 못을 샀어요. (Cheolmuljeomeseo moseul sasseoyo.) | Nalburdan çivi aldım.
 ## Giysiler
@@ -100,7 +100,7 @@
 사은품 (saeunpum) | promosyon hediyesi | isim | 화장품을 사서 사은품을 받았어요. (Hwajangpumeul saseo saeunpumeul badasseoyo.) | Kozmetik alınca yanında hediye verdiler.
 ## Hizmet almak
 맡기다 (matgida) | emanet etmek, bırakmak | fiil | 짐을 호텔에 맡겼어요. (Jimeul hotere matgyeosseoyo.) | Bavulu otele emanet ettim.
-찾아가다 (chajagada) | gidip almak; ziyarete gitmek | fiil | 세탁물은 내일 찾아가세요. (Setakmureun naeil chajagaseyo.) | Çamaşırlarınızı yarın gelip alın.
+찾아가다 (chajagada) | gidip almak; ziyarete gitmek | fiil | 세탁물은 내일 찾아가세요. (Setangmureun naeil chajagaseyo.) | Çamaşırlarınızı yarın gelip alın.
 번호표 (beonhopyo) | sıra numarası fişi | isim | 은행에서 번호표를 뽑았어요. (Eunhaengeseo beonhopyoreul ppobasseoyo.) | Bankada sıra numarası aldım.
 차례 (charye) | sıra | isim | 이제 제 차례예요. (Ije je charyeyeyo.) | Şimdi sıra bende.
 줄을 서다 (jureul seoda) | sıraya girmek | ifade | 맛집 앞에서 한 시간 줄을 섰어요. (Matjip apeseo han sigan jureul seosseoyo.) | Ünlü lokantanın önünde bir saat sıra bekledik.

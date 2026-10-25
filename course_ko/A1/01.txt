@@ -35,7 +35,7 @@
 ## İşaret sözcükleri ve hitap
 이것 (igeot) | bu (şey) | zamir | 이것은 뭐예요? (Igeoseun mwoyeyo?) | Bu ne?
 그것 (geugeot) | o (şey; dinleyene yakın) | zamir | 그것 좀 보여 주세요. (Geugeot jom boyeo juseyo.) | Onu bana gösterir misiniz?
-저것 (jeogeot) | şu, o (uzaktaki şey) | zamir | 저것은 남산 타워예요. (Jeogeoseun Namsan Taweoyeyo.) | Şu, Namsan Kulesi.
+저것 (jeogeot) | şu, o (uzaktaki şey) | zamir | 저것은 남산 타워예요. (Jeogeoseun Namsan Tawoyeyo.) | Şu, Namsan Kulesi.
 여기 (yeogi) | burası; burada | zamir | 여기가 우리 집이에요. (Yeogiga uri jibieyo.) | Burası bizim ev.
 거기 (geogi) | orası (dinleyenin yanı) | zamir | 거기 날씨는 어때요? (Geogi nalssineun eottaeyo?) | Orada hava nasıl?
 저기 (jeogi) | şurası; şurada (uzak) | zamir | 저기 버스가 와요. (Jeogi beoseuga wayo.) | Şurada otobüs geliyor.
@@ -66,7 +66,7 @@
 전화번호 (jeonhwabeonho) | telefon numarası | isim | 전화번호가 몇 번이에요? (Jeonhwabeonhoga myeot beonieyo?) | Telefon numaran kaç?
 주소 (juso) | adres | isim | 주소를 여기에 쓰세요. (Jusoreul yeogie sseuseyo.) | Adresi buraya yazın.
 ## Ülkeler ve diller
-나라 (nara) | ülke | isim | 한국은 아름다운 나라예요. (Hangugeun areumdaun naraeyo.) | Kore güzel bir ülke.
+나라 (nara) | ülke | isim | 한국은 아름다운 나라예요. (Hangugeun areumdaun narayeyo.) | Kore güzel bir ülke.
 한국 (Hanguk) | Kore (Güney Kore) | isim | 한국에 처음 왔어요. (Hanguge cheoeum wasseoyo.) | Kore'ye ilk kez geldim.
 튀르키예 (Twireukiye) | Türkiye | isim | 튀르키예에서 왔어요. (Twireukiyeeseo wasseoyo.) | Türkiye'den geldim.
 한국어 (hangugeo) | Korece | isim | 한국어는 재미있어요. (Hangugeoneun jaemiisseoyo.) | Korece eğlenceli.

@@ -28,7 +28,7 @@
 남향 (namhyang) | güneye bakan | isim | 남향 집이라서 햇볕이 잘 들어요. (Namhyang jibiraseo haetbyeochi jal deureoyo.) | Güneye bakan bir ev olduğu için çok güneş alıyor.
 평 (pyeong) | pyeong (yaklaşık 3,3 m²) | isim | 우리 집은 이십오 평이에요. (Uri jibeun isibo pyeongieyo.) | Evimiz yirmi beş pyeong.
 신축 (sinchuk) | yeni yapılmış (bina) | isim | 신축 아파트라서 깨끗해요. (Sinchuk apateuraseo kkaekkeutaeyo.) | Yeni yapılmış bir apartman olduğu için temiz.
-풀옵션 (puroption) | eşyalı (tüm beyaz eşya dahil) | isim | 풀옵션 원룸이라서 냉장고도 있어요. (Puroption wollumiraseo naengjanggodo isseoyo.) | Eşyalı stüdyo olduğu için buzdolabı da var.
+풀옵션 (puropsyeon) | eşyalı (tüm beyaz eşya dahil) | isim | 풀옵션 원룸이라서 냉장고도 있어요. (Puropsyeon wollumiraseo naengjanggodo isseoyo.) | Eşyalı stüdyo olduğu için buzdolabı da var.
 주차장 (juchajang) | otopark | isim | 주차장이 넓어서 좋아요. (Juchajangi neolbeoseo joayo.) | Otopark geniş olduğu için iyi.
 보안 (boan) | güvenlik | isim | 이 건물은 보안이 철저해요. (I geonmureun boani cheoljeohaeyo.) | Bu binanın güvenliği çok sıkı.
 전망 (jeonmang) | manzara; gelecek beklentisi | isim | 이 집은 전망이 좋아요. (I jibeun jeonmangi joayo.) | Bu evin manzarası güzel.
@@ -77,7 +77,7 @@
 사이좋다 (saijota) | arası iyi olmak | sıfat | 우리 이웃들은 사이좋게 지내요. (Uri iutdeureun saijoke jinaeyo.) | Komşularımızın arası iyi.
 집들이 (jipdeuri) | ev yemeği (yeni eve taşınma daveti) | isim | 토요일에 집들이를 해요. (Toyoire jipdeurireul haeyo.) | Cumartesi yeni evimizde davet veriyoruz.
 ## Evdeki sorunlar
-벌레 (beolle) | böcek, haşere | isim | 부엌에 벌레가 나왔어요. (Bueoge beollega nawasseoyo.) | Mutfakta böcek çıktı.
+벌레 (beolle) | böcek, haşere | isim | 부엌에 벌레가 나왔어요. (Bueoke beollega nawasseoyo.) | Mutfakta böcek çıktı.
 곰팡이 (gompangi) | küf | isim | 욕실 벽에 곰팡이가 생겼어요. (Yoksil byeoge gompangiga saenggyeosseoyo.) | Banyo duvarında küf oluştu.
 냄새 (naemsae) | koku | isim | 맛있는 냄새가 나요. (Masinneun naemsaega nayo.) | Güzel bir koku geliyor.
 습기 (seupgi) | nem, rutubet | isim | 장마철에는 습기가 많아요. (Jangmacheoreneun seupgiga manayo.) | Yağmur mevsiminde çok nem olur.
