@@ -28,10 +28,10 @@ a sapata | tekil temel (pabuç) | isim (d) | Em solo firme, a sapata é a soluç
 a sondagem | zemin etüdü, sondaj | isim (d) | A sondagem revelou água a apenas dois metros da superfície. | Zemin etüdü yüzeyin yalnızca iki metre altında su olduğunu gösterdi.
 a escavação | kazı | isim (d) | A escavação do subsolo levou mais tempo que o previsto. | Bodrumun kazısı öngörülenden uzun sürdü.
 o aterro | dolgu | isim (e) | O bairro foi construído sobre um aterro à beira da baía. | Mahalle koy kıyısındaki bir dolgu üzerine kuruldu.
-o recalque | oturma (zemin) | isim (e) | O recalque diferencial causou trincas nas paredes. | Farklı oturma duvarlarda çatlaklara neden oldu.
+o recalque | oturma (zemin) | isim (e) | O recalque diferencial da fundação causou trincas nas paredes. | Temelin farklı oturması duvarlarda çatlaklara neden oldu.
 a contenção | istinat yapısı, iksa | isim (d) | Uma parede de contenção protege o prédio do deslizamento. | Bir istinat duvarı binayı heyelana karşı koruyor.
 o rebaixamento do lençol | yeraltı suyu düşürme | isim (e) | O rebaixamento do lençol exigiu bombas funcionando dia e noite. | Yeraltı suyunu düşürmek gece gündüz çalışan pompalar gerektirdi.
-a terraplenagem | hafriyat ve tesviye | isim (d) | A terraplenagem do terreno durou duas semanas. | Arazinin hafriyat ve tesviyesi iki hafta sürdü.
+a terraplenagem | hafriyat ve tesviye | isim (d) | A terraplenagem do terreno inteiro durou duas semanas. | Bütün arazinin hafriyat ve tesviyesi iki hafta sürdü.
 ## Malzemeler
 o cimento | çimento | isim (e) | Os sacos de cimento precisam ficar longe da umidade. | Çimento torbaları nemden uzak durmalı.
 a argamassa | harç | isim (d) | O pedreiro preparou a argamassa para assentar os tijolos. | Duvarcı tuğlaları örmek için harç hazırladı.
@@ -48,7 +48,7 @@ o canteiro de obras | şantiye sahası | isim (e) | O canteiro de obras precisa 
 o mestre de obras | şantiye şefi (usta başı) | isim (e) | O mestre de obras organiza as equipes logo cedo. | Usta başı ekipleri sabahın erken saatinde düzenler.
 o empreiteiro | yüklenici, müteahhit | isim (e) | O empreiteiro prometeu entregar o prédio em dezoito meses. | Müteahhit binayı on sekiz ayda teslim etmeye söz verdi.
 a construtora | inşaat şirketi | isim (d) | A construtora venceu a licitação para a nova escola. | İnşaat şirketi yeni okul ihalesini kazandı.
-o cronograma físico-financeiro | iş ve ödeme programı | isim (e) | O cronograma físico-financeiro mostra atraso na estrutura. | İş ve ödeme programı kaba inşaatta gecikme gösteriyor.
+o cronograma físico-financeiro | iş ve ödeme programı | isim (e) | O cronograma físico-financeiro mostra atraso na etapa de estrutura. | İş ve ödeme programı kaba inşaat aşamasında gecikme gösteriyor.
 a medição | hakediş ölçümü | isim (d) | A fiscalização faz a medição dos serviços no fim do mês. | Kontrol teşkilatı ay sonunda işlerin hakediş ölçümünü yapıyor.
 o diário de obra | şantiye günlüğü | isim (e) | Toda chuva forte é registrada no diário de obra. | Her şiddetli yağmur şantiye günlüğüne kaydedilir.
 a licitação | ihale | isim (d) | A licitação da ponte foi suspensa por suspeita de fraude. | Köprü ihalesi dolandırıcılık şüphesiyle askıya alındı.
@@ -96,7 +96,7 @@ assentar | döşemek, örmek (tuğla, karo) | fiil | O pedreiro levou dois dias 
 rebocar | sıvamak | fiil | Depois de rebocar as paredes, a equipe começou a pintura. | Duvarları sıvadıktan sonra ekip boyaya başladı.
 escorar | desteklemek, payanda vurmak | fiil | Foi preciso escorar a parede antiga antes da demolição. | Yıkımdan önce eski duvara payanda vurmak gerekti.
 nivelar | tesviye etmek, düzlemek | fiil | É preciso nivelar o terreno antes de marcar as fundações. | Temelleri işaretlemeden önce araziyi tesviye etmek gerekir.
-demolir | yıkmak | fiil | A prefeitura mandou demolir o prédio condenado. | Belediye çürük binanın yıkılmasını emretti.
+demolir | yıkmak | fiil | A prefeitura mandou demolir o prédio condenado pela Defesa Civil. | Belediye Sivil Savunma'nın oturulamaz ilan ettiği binanın yıkılmasını emretti.
 vistoriar | denetlemek, muayene etmek | fiil | Os bombeiros vão vistoriar o prédio antes do habite-se. | İtfaiye iskân izninden önce binayı denetleyecek.
 ## Mimari ve mekân
 o vão livre | açıklık (kolonsuz) | isim (e) | O museu tem um vão livre de setenta metros sob o edifício. | Müzenin binanın altında yetmiş metrelik kolonsuz bir açıklığı var.

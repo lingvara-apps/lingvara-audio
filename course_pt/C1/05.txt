@@ -41,7 +41,7 @@ o letramento digital | dijital okuryazarlık | isim (e) | A escola incluiu letra
 a economia de plataforma | platform ekonomisi | isim (d) | Motoristas de aplicativo fazem parte da economia de plataforma. | Uygulama sürücüleri platform ekonomisinin bir parçası.
 a conectividade | bağlantı (ağ) | isim (d) | A conectividade no interior da Amazônia ainda é precária. | Amazon'un iç kesimlerinde bağlantı hâlâ yetersiz.
 a curadoria algorítmica | algoritmik içerik seçimi | isim (d) | A curadoria algorítmica decide o que vemos no feed todos os dias. | Algoritmik içerik seçimi her gün akışta ne göreceğimize karar veriyor.
-a transformação digital | dijital dönüşüm | isim (d) | A transformação digital chegou também aos cartórios. | Dijital dönüşüm noterliklere de ulaştı.
+a transformação digital | dijital dönüşüm | isim (d) | A transformação digital chegou também aos cartórios do interior. | Dijital dönüşüm taşradaki noterliklere de ulaştı.
 o trabalho remoto | uzaktan çalışma | isim (e) | O trabalho remoto permitiu que ela voltasse a morar no interior. | Uzaktan çalışma onun yeniden taşrada yaşamasını sağladı.
 ## Biyoteknoloji
 a biotecnologia | biyoteknoloji | isim (d) | A biotecnologia brasileira desenvolveu sementes resistentes à seca. | Brezilya biyoteknolojisi kuraklığa dayanıklı tohumlar geliştirdi.
@@ -53,7 +53,7 @@ o biocombustível | biyoyakıt | isim (e) | O etanol de cana é o biocombustíve
 a bioprospecção | biyolojik kaynak araştırması | isim (d) | A bioprospecção na floresta busca novas moléculas para remédios. | Ormandaki biyolojik kaynak araştırmaları ilaçlar için yeni moleküller arıyor.
 o laboratório de ponta | ileri teknoloji laboratuvarı | isim (e) | A universidade inaugurou um laboratório de ponta em Campinas. | Üniversite Campinas'ta ileri teknoloji bir laboratuvar açtı.
 a vacina de RNA | RNA aşısı | isim (d) | A vacina de RNA foi desenvolvida em tempo recorde. | RNA aşısı rekor sürede geliştirildi.
-a biossegurança | biyogüvenlik | isim (d) | O laboratório segue normas rígidas de biossegurança. | Laboratuvar sıkı biyogüvenlik kurallarına uyuyor.
+a biossegurança | biyogüvenlik | isim (d) | O laboratório segue normas muito rígidas de biossegurança. | Laboratuvar çok sıkı biyogüvenlik kurallarına uyuyor.
 ## Genetik
 o genoma | genom | isim (e) | Cientistas sequenciaram o genoma de uma árvore da Mata Atlântica. | Bilim insanları Atlantik Ormanı'ndaki bir ağacın genomunu dizilediler.
 a sequência genética | genetik dizi | isim (d) | A sequência genética do vírus foi publicada em poucos dias. | Virüsün genetik dizisi birkaç gün içinde yayımlandı.
@@ -92,9 +92,9 @@ o satélite | uydu | isim (e) | O satélite brasileiro monitora o desmatamento e
 a órbita | yörünge | isim (d) | A estação espacial completa uma órbita a cada noventa minutos. | Uzay istasyonu her doksan dakikada bir yörüngeyi tamamlar.
 o lançamento | fırlatma | isim (e) | O lançamento do foguete foi adiado por causa do mau tempo. | Roketin fırlatılması kötü hava yüzünden ertelendi.
 a física quântica | kuantum fiziği | isim (d) | A física quântica descreve o comportamento das partículas minúsculas. | Kuantum fiziği çok küçük parçacıkların davranışını tanımlar.
-a partícula | parçacık | isim (d) | O acelerador colide partículas a velocidades altíssimas. | Hızlandırıcı parçacıkları çok yüksek hızlarda çarpıştırır.
+a partícula | parçacık | isim (d) | O acelerador faz partículas colidirem a velocidades altíssimas. | Hızlandırıcı parçacıkları çok yüksek hızlarda çarpıştırır.
 a gravidade | yerçekimi | isim (d) | Na Lua, a gravidade é cerca de seis vezes menor. | Ay'da yerçekimi yaklaşık altı kat daha azdır.
-o supercondutor | süperiletken | isim (e) | Um supercondutor conduz eletricidade sem perder energia. | Süperiletken elektriği enerji kaybetmeden iletir.
+o supercondutor | süperiletken | isim (e) | Um supercondutor conduz eletricidade praticamente sem perder energia. | Süperiletken elektriği neredeyse hiç enerji kaybetmeden iletir.
 a nanotecnologia | nanoteknoloji | isim (d) | A nanotecnologia permite criar materiais mais leves e resistentes. | Nanoteknoloji daha hafif ve dayanıklı malzemeler yaratmayı sağlar.
 o semicondutor | yarı iletken | isim (e) | A falta de semicondutores atrasou a produção de carros. | Yarı iletken sıkıntısı otomobil üretimini geciktirdi.
 o radiotelescópio | radyo teleskobu | isim (e) | O radiotelescópio capta sinais de galáxias muito distantes. | Radyo teleskobu çok uzak galaksilerden gelen sinyalleri yakalar.
@@ -104,7 +104,7 @@ patentear | patent almak | fiil | A universidade patenteou um novo método para 
 digitalizar | dijitalleştirmek | fiil | O arquivo nacional está digitalizando documentos do século dezoito. | Ulusal arşiv on sekizinci yüzyıl belgelerini dijitalleştiriyor.
 automatizar | otomatikleştirmek | fiil | O banco automatizou quase todo o atendimento ao cliente. | Banka müşteri hizmetlerinin neredeyse tamamını otomatikleştirdi.
 calibrar | kalibre etmek, ayarlamak | fiil | É preciso calibrar os sensores antes de cada medição. | Her ölçümden önce sensörleri kalibre etmek gerekir.
-replicar | tekrarlamak (deneyi) | fiil | Outros laboratórios não conseguiram replicar o experimento. | Diğer laboratuvarlar deneyi tekrarlayamadı.
+replicar | tekrarlamak (deneyi) | fiil | Outros laboratórios não conseguiram replicar o experimento original. | Diğer laboratuvarlar özgün deneyi tekrarlayamadı.
 sequenciar | dizilemek | fiil | Levou apenas uma semana para sequenciar o novo vírus. | Yeni virüsü dizilemek yalnızca bir hafta sürdü.
 monitorar | izlemek, takip etmek | fiil | Sensores monitoram o nível dos rios durante as chuvas. | Sensörler yağmurlar sırasında nehirlerin seviyesini izliyor.
 mitigar | hafifletmek, azaltmak | fiil | As novas regras pretendem mitigar os riscos da inteligência artificial. | Yeni kurallar yapay zekânın risklerini azaltmayı amaçlıyor.

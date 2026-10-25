@@ -29,7 +29,7 @@ a foz | nehir ağzı | isim (d) | Na foz do rio, a água doce se mistura com o m
 o estuário | haliç | isim (e) | O estuário é rico em nutrientes e vida marinha. | Haliç besin maddesi ve deniz canlıları bakımından zengindir.
 o igarapé | dar orman deresi (Amazon) | isim (e) | Navegamos de canoa por um igarapé no meio da floresta. | Ormanın ortasında bir orman deresinde kanoyla ilerledik.
 a correnteza | akıntı | isim (d) | A correnteza forte arrastou o barco para longe da margem. | Güçlü akıntı tekneyi kıyıdan uzağa sürükledi.
-a corredeira | çağlayan, akıntılı kısım | isim (d) | Os turistas desceram as corredeiras de bote. | Turistler akıntılı kesimleri botla indi.
+a corredeira | çağlayan, akıntılı kısım | isim (d) | Os turistas desceram as corredeiras do rio de bote. | Turistler nehrin akıntılı kesimlerini botla indi.
 o aquífero | akifer, yeraltı su kaynağı | isim (e) | O aquífero Guarani abastece cidades de quatro países. | Guarani akiferi dört ülkenin şehirlerine su sağlıyor.
 a várzea | taşkın ovası | isim (d) | Na época das cheias, a várzea fica completamente alagada. | Taşkın mevsiminde taşkın ovası tamamen sular altında kalır.
 ## İklim kuşakları
@@ -93,11 +93,11 @@ a umidade relativa | bağıl nem | isim (d) | A umidade relativa do ar ficou aba
 a precipitação | yağış | isim (d) | A precipitação anual na Amazônia passa de dois mil milímetros. | Amazon'da yıllık yağış iki bin milimetreyi aşar.
 a seca prolongada | uzun süreli kuraklık | isim (d) | A seca prolongada baixou o nível dos reservatórios do Sudeste. | Uzun süreli kuraklık Güneydoğudaki barajların seviyesini düşürdü.
 a cerração | koyu sis | isim (d) | A cerração na serra fechou a estrada durante toda a manhã. | Dağdaki koyu sis bütün sabah boyunca yolu kapattı.
-o vendaval | fırtına (şiddetli rüzgâr) | isim (e) | O vendaval derrubou árvores e destelhou casas. | Fırtına ağaçları devirdi ve evlerin çatılarını uçurdu.
+o vendaval | fırtına (şiddetli rüzgâr) | isim (e) | O vendaval da noite derrubou árvores e destelhou casas. | Gece çıkan fırtına ağaçları devirdi ve evlerin çatılarını uçurdu.
 o ciclone extratropical | ekstratropikal siklon | isim (e) | Um ciclone extratropical atingiu a costa de Santa Catarina. | Bir ekstratropikal siklon Santa Catarina kıyısını vurdu.
 a nevasca | kar fırtınası | isim (d) | Uma nevasca rara cobriu de branco as cidades altas de Santa Catarina. | Nadir bir kar fırtınası Santa Catarina'nın yüksek kasabalarını beyaza bürüdü.
 o El Niño | El Niño | isim (e) | O El Niño costuma trazer seca ao Nordeste brasileiro. | El Niño genellikle Brezilya'nın Kuzeydoğusuna kuraklık getirir.
-a previsão meteorológica | hava tahmini (resmî) | isim (d) | A previsão meteorológica indica temporais à tarde. | Hava tahmini öğleden sonra sağanak gösteriyor.
+a previsão meteorológica | hava tahmini (resmî) | isim (d) | A previsão meteorológica indica temporais no fim da tarde. | Hava tahmini akşamüstü sağanak gösteriyor.
 ## Coğrafi fiil ve sıfatlar
 desaguar | dökülmek (nehir denize) | fiil | O rio Amazonas deságua no oceano Atlântico perto do equador. | Amazon nehri ekvatorun yakınında Atlas Okyanusu'na dökülür.
 transbordar | taşmak | fiil | Depois de três dias de chuva, o rio transbordou e invadiu as ruas. | Üç günlük yağmurdan sonra nehir taştı ve sokakları bastı.

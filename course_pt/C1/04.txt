@@ -19,7 +19,7 @@ a hegemonia | hegemonya | isim (d) | A hegemonia de uma potência raramente dura
 o poder executivo | yürütme | isim (e) | O poder executivo é responsável por administrar o país. | Yürütme ülkeyi yönetmekten sorumludur.
 o poder legislativo | yasama | isim (e) | O poder legislativo elabora e aprova as leis. | Yasama yasaları hazırlar ve kabul eder.
 o poder judiciário | yargı | isim (e) | O poder judiciário deve ser independente dos outros poderes. | Yargı diğer erklerden bağımsız olmalıdır.
-a descentralização | yerinden yönetim, adem-i merkeziyet | isim (d) | A descentralização transferiu recursos para os municípios. | Yerinden yönetim kaynakları belediyelere aktardı.
+a descentralização | yerinden yönetim, adem-i merkeziyet | isim (d) | A descentralização transferiu recursos e responsabilidades para os municípios. | Yerinden yönetim kaynakları ve sorumlulukları belediyelere aktardı.
 o aparelho estatal | devlet aygıtı | isim (e) | O aparelho estatal cresceu muito ao longo do século vinte. | Devlet aygıtı yirminci yüzyıl boyunca çok büyüdü.
 ## Seçim sistemleri
 o sufrágio universal | genel oy hakkı | isim (e) | O sufrágio universal foi uma conquista lenta em muitos países. | Genel oy hakkı birçok ülkede yavaş elde edilmiş bir kazanımdı.
@@ -62,7 +62,7 @@ o referendo | referandum | isim (e) | O referendo confirmou a lei aprovada pelo 
 a militância | aktivizm, militanlık | isim (d) | Ela começou na militância estudantil ainda no ensino médio. | Öğrenci aktivizmine daha lisedeyken başladı.
 o abaixo-assinado | imza kampanyası, dilekçe | isim (e) | O abaixo-assinado reuniu cem mil assinaturas em uma semana. | İmza kampanyası bir haftada yüz bin imza topladı.
 a mobilização | seferberlik, harekete geçme | isim (d) | A mobilização dos moradores impediu o fechamento do posto de saúde. | Sakinlerin harekete geçmesi sağlık ocağının kapanmasını engelledi.
-o orçamento participativo | katılımcı bütçe | isim (e) | Porto Alegre ficou conhecida pelo orçamento participativo. | Porto Alegre katılımcı bütçe uygulamasıyla tanındı.
+o orçamento participativo | katılımcı bütçe | isim (e) | Porto Alegre ficou conhecida no mundo pelo orçamento participativo. | Porto Alegre katılımcı bütçe uygulamasıyla dünyada tanındı.
 a representatividade | temsil gücü | isim (d) | Muitos questionam a representatividade das mulheres no parlamento. | Pek çok kişi kadınların parlamentodaki temsil gücünü sorguluyor.
 o eleitorado | seçmen kitlesi | isim (e) | O eleitorado jovem é cada vez mais disputado pelos candidatos. | Genç seçmen kitlesi adaylar arasında giderek daha çok çekişme konusu.
 ## Güvenlik ve savunma
@@ -85,11 +85,11 @@ a governabilidade | yönetilebilirlik | isim (d) | Sem maioria no Congresso, a g
 a crise institucional | kurumsal kriz | isim (d) | O conflito entre os poderes gerou uma crise institucional. | Erkler arasındaki çatışma kurumsal bir krize yol açtı.
 a renúncia | istifa; feragat | isim (d) | A renúncia do ministro surpreendeu até os aliados. | Bakanın istifası müttefiklerini bile şaşırttı.
 a transição | geçiş | isim (d) | A transição de governo foi feita de forma pacífica. | Hükümet geçişi barışçıl biçimde yapıldı.
-o clientelismo | kayırmacılık | isim (e) | O clientelismo troca favores por apoio eleitoral. | Kayırmacılık seçim desteği karşılığında iyilik yapmaktır.
+o clientelismo | kayırmacılık | isim (e) | O clientelismo troca favores pessoais por apoio eleitoral. | Kayırmacılık kişisel iyilikleri seçim desteğiyle takas eder.
 o fisiologismo | çıkar siyaseti | isim (e) | Críticos acusam o parlamento de praticar o fisiologismo em troca de cargos. | Eleştirmenler parlamentoyu makam karşılığında çıkar siyaseti yapmakla suçluyor.
 ## Siyasal fiiller ve ifadeler
 governar | yönetmek (ülke) | fiil | É difícil governar um país com dimensões continentais. | Kıta büyüklüğünde bir ülkeyi yönetmek zordur.
-legislar | yasa yapmak | fiil | Compete ao Congresso legislar sobre direito penal. | Ceza hukuku alanında yasa yapmak Kongre'nin yetkisindedir.
+legislar | yasa yapmak | fiil | Compete ao Congresso Nacional legislar sobre direito penal. | Ceza hukuku alanında yasa yapmak Ulusal Kongre'nin yetkisindedir.
 promulgar | ilan edip yürürlüğe koymak | fiil | A Constituição foi promulgada em outubro de 1988. | Anayasa Ekim 1988'de ilan edildi.
 destituir | görevden almak | fiil | O conselho decidiu destituir o presidente da associação. | Kurul derneğin başkanını görevden almaya karar verdi.
 empossar | göreve başlatmak (yemin ettirerek) | fiil | O novo prefeito será empossado no primeiro dia de janeiro. | Yeni belediye başkanı ocağın ilk günü göreve başlayacak.

@@ -15,8 +15,8 @@ o réu | sanık, davalı | isim (e) | O réu permaneceu em silêncio durante tod
 o autor da ação | davacı | isim (e) | O autor da ação pede indenização por danos morais. | Davacı manevi tazminat talep ediyor.
 o promotor | savcı | isim (e) | O promotor pediu a condenação dos três acusados. | Savcı üç sanığın mahkûmiyetini istedi.
 o defensor público | kamu avukatı | isim (e) | Quem não pode pagar advogado tem direito a um defensor público. | Avukat tutamayan herkesin kamu avukatı hakkı vardır.
-o desembargador | istinaf hâkimi | isim (e) | O desembargador votou pela redução da pena. | İstinaf hâkimi cezanın indirilmesi yönünde oy kullandı.
-a testemunha | tanık | isim (d) | A principal testemunha não compareceu ao julgamento. | Baş tanık duruşmaya gelmedi.
+o desembargador | istinaf hâkimi | isim (e) | O desembargador votou pela redução da pena do réu. | İstinaf hâkimi sanığın cezasının indirilmesi yönünde oy kullandı.
+a testemunha | tanık | isim (d) | A principal testemunha do caso não compareceu ao julgamento. | Davanın baş tanığı duruşmaya gelmedi.
 o perito | bilirkişi | isim (e) | O perito confirmou que a assinatura no documento era falsa. | Bilirkişi belgedeki imzanın sahte olduğunu doğruladı.
 o tabelião | noter | isim (e) | O tabelião reconheceu a firma do vendedor no cartório. | Noter satıcının imzasını noterlikte onayladı.
 o oficial de justiça | icra memuru, mübaşir | isim (e) | O oficial de justiça entregou a intimação pessoalmente. | Mübaşir tebligatı bizzat teslim etti.
@@ -30,7 +30,7 @@ a fiança | kefalet | isim (d) | Ele pagou fiança e vai responder ao processo e
 o dolo | kast | isim (e) | A acusação precisa provar que houve dolo, e não apenas descuido. | İddia makamı yalnızca dikkatsizlik değil kast olduğunu kanıtlamalı.
 a imputabilidade | cezai ehliyet | isim (d) | O laudo psiquiátrico questionou a imputabilidade do acusado. | Psikiyatri raporu sanığın cezai ehliyetini sorguladı.
 a legítima defesa | meşru müdafaa | isim (d) | O tribunal reconheceu que ele agiu em legítima defesa. | Mahkeme onun meşru müdafaa ile hareket ettiğini kabul etti.
-a reincidência | tekerrür, suçu tekrarlama | isim (d) | A reincidência pesou no cálculo da pena. | Suçun tekrarlanması ceza hesabında ağır bastı.
+a reincidência | tekerrür, suçu tekrarlama | isim (d) | A reincidência pesou bastante no cálculo final da pena. | Suçun tekrarlanması nihai ceza hesabında epey ağır bastı.
 a delação premiada | itirafçılık (ödüllü) | isim (d) | Graças à delação premiada, a polícia identificou outros envolvidos. | İtirafçılık sayesinde polis diğer ilgilileri tespit etti.
 ## Suç türleri
 o estelionato | dolandırıcılık | isim (e) | Ele foi condenado por estelionato após vender terrenos inexistentes. | Var olmayan arsaları sattıktan sonra dolandırıcılıktan mahkûm oldu.
@@ -68,7 +68,7 @@ a partilha | paylaştırma (miras, mal) | isim (d) | A partilha dos bens gerou u
 ## Hukuki belgeler
 a procuração | vekâletname | isim (d) | Assinei uma procuração para minha irmã vender o apartamento. | Kız kardeşim daireyi satabilsin diye bir vekâletname imzaladım.
 a petição inicial | dava dilekçesi | isim (d) | O advogado protocolou a petição inicial no fórum ontem. | Avukat dava dilekçesini dün adliyeye sundu.
-a intimação | tebligat, çağrı | isim (d) | Recebi uma intimação para depor como testemunha. | Tanık olarak ifade vermem için bir çağrı aldım.
+a intimação | tebligat, çağrı | isim (d) | Recebi uma intimação para depor como testemunha na semana que vem. | Gelecek hafta tanık olarak ifade vermem için bir çağrı aldım.
 o mandado de segurança | idari işlem iptal başvurusu | isim (e) | Os estudantes impetraram mandado de segurança contra a decisão da reitoria. | Öğrenciler rektörlük kararına karşı iptal başvurusunda bulundu.
 o habeas corpus | habeas corpus, tahliye talebi | isim (e) | A defesa impetrou habeas corpus para soltar o cliente. | Savunma müvekkilini serbest bıraktırmak için habeas corpus başvurusu yaptı.
 o laudo pericial | bilirkişi raporu | isim (e) | O laudo pericial apontou falha na manutenção do elevador. | Bilirkişi raporu asansör bakımında kusur saptadı.
@@ -90,10 +90,10 @@ indeferir | reddetmek (talebi) | fiil | O tribunal indeferiu o pedido de liberda
 ## Cezalar ve infaz
 a pena privativa de liberdade | hapis cezası | isim (d) | A lei prevê pena privativa de liberdade de dois a oito anos. | Kanun iki ila sekiz yıl hapis cezası öngörüyor.
 o regime semiaberto | yarı açık cezaevi rejimi | isim (e) | Depois de cumprir parte da pena, ele passou ao regime semiaberto. | Cezasının bir kısmını çektikten sonra yarı açık rejime geçti.
-a liberdade condicional | şartlı tahliye | isim (d) | Ela obteve liberdade condicional por bom comportamento. | İyi hâlden şartlı tahliye aldı.
+a liberdade condicional | şartlı tahliye | isim (d) | Ela obteve liberdade condicional por bom comportamento na prisão. | Cezaevindeki iyi hâli sayesinde şartlı tahliye aldı.
 a prestação de serviços à comunidade | kamu hizmeti cezası | isim (d) | O jovem foi condenado à prestação de serviços à comunidade. | Genç kamuya yararlı işte çalışma cezasına çarptırıldı.
 a tornozeleira eletrônica | elektronik kelepçe | isim (d) | O condenado cumpre prisão domiciliar com tornozeleira eletrônica. | Hükümlü cezasını elektronik kelepçeyle ev hapsinde çekiyor.
-a atenuante | hafifletici sebep | isim (d) | A confissão espontânea foi considerada uma atenuante. | Kendiliğinden itiraf hafifletici sebep sayıldı.
+a atenuante | hafifletici sebep | isim (d) | A confissão espontânea do réu foi considerada uma atenuante. | Sanığın kendiliğinden itirafı hafifletici sebep sayıldı.
 a agravante | ağırlaştırıcı sebep | isim (d) | O uso de arma de fogo é uma agravante no crime de roubo. | Ateşli silah kullanımı soygun suçunda ağırlaştırıcı sebeptir.
 o indulto | af (cumhurbaşkanlığı) | isim (e) | O indulto de Natal beneficiou presos com doenças graves. | Noel affı ağır hastalığı olan mahkûmlardan yararlandı.
 a anistia | genel af | isim (d) | A anistia foi aprovada pelo Congresso depois de longo debate. | Genel af uzun bir tartışmanın ardından Kongre'de kabul edildi.

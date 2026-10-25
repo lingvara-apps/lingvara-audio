@@ -13,7 +13,7 @@ a literatura de cordel | cordel edebiyatı | isim (d) | A literatura de cordel m
 ## Anlatı yapısı
 o enredo | olay örgüsü | isim (e) | O enredo é simples, mas a linguagem é extremamente rica. | Olay örgüsü basit ama dil son derece zengin.
 a trama | kurgu, entrika | isim (d) | A trama se complica quando a irmã desaparecida volta. | Kayıp kız kardeş geri dönünce kurgu karmaşıklaşıyor.
-o desfecho | son, sonuç (anlatıda) | isim (e) | O desfecho trágico deixou muitos leitores revoltados. | Trajik son birçok okuru isyan ettirdi.
+o desfecho | son, sonuç (anlatıda) | isim (e) | O desfecho trágico do livro deixou muitos leitores revoltados. | Kitabın trajik sonu birçok okuru isyan ettirdi.
 o clímax | doruk noktası | isim (e) | O clímax da história acontece durante a enchente. | Öykünün doruk noktası sel sırasında yaşanıyor.
 o flashback | geriye dönüş | isim (e) | O autor usa o flashback para revelar o passado do herói. | Yazar kahramanın geçmişini ortaya koymak için geriye dönüş kullanıyor.
 o desenlace | düğümün çözülmesi | isim (e) | O desenlace revela que o narrador sabia de tudo desde o início. | Düğümün çözülmesi anlatıcının en başından beri her şeyi bildiğini gösteriyor.
@@ -80,7 +80,7 @@ a vanguarda | öncü akım, avangart | isim (d) | A vanguarda europeia influenci
 a crítica literária | edebiyat eleştirisi | isim (d) | A crítica literária recebeu o romance com entusiasmo. | Edebiyat eleştirisi romanı coşkuyla karşıladı.
 a resenha | tanıtım yazısı, kitap eleştirisi | isim (d) | Escrevi uma resenha do livro para o suplemento cultural. | Kültür ekine kitabın tanıtım yazısını yazdım.
 o cânone | kanon | isim (e) | A obra dela entrou no cânone da literatura brasileira. | Onun eseri Brezilya edebiyatının kanonuna girdi.
-a obra-prima | başyapıt | isim (d) | Grande Sertão: Veredas é considerada uma obra-prima. | Grande Sertão: Veredas bir başyapıt kabul edilir.
+a obra-prima | başyapıt | isim (d) | O romance Grande Sertão: Veredas é considerado uma obra-prima. | Grande Sertão: Veredas romanı bir başyapıt kabul edilir.
 a tiragem | baskı adedi | isim (d) | A primeira tiragem de cinco mil exemplares esgotou em um mês. | Beş bin nüshalık ilk baskı bir ayda tükendi.
 o exemplar | nüsha | isim (e) | Encontrei um exemplar raro da primeira edição num sebo. | Bir sahafta ilk baskının nadir bir nüshasını buldum.
 o sebo | sahaf | isim (e) | Passo horas nos sebos do centro procurando livros antigos. | Eski kitap aramak için merkezdeki sahaflarda saatler geçiriyorum.
@@ -107,5 +107,5 @@ interpretar | yorumlamak | fiil | Cada geração interpreta Dom Casmurro de um j
 parodiar | parodisini yapmak | fiil | Os modernistas parodiaram poemas românticos com muito humor. | Modernistler romantik şiirlerin parodisini bolca mizahla yaptı.
 ressignificar | yeniden anlamlandırmak | fiil | A autora ressignifica mitos indígenas em contos urbanos. | Yazar yerli mitlerini kentsel öykülerde yeniden anlamlandırıyor.
 esmiuçar | didik didik incelemek | fiil | A professora esmiuçou cada metáfora do poema na aula. | Öğretmen derste şiirdeki her metaforu didik didik inceledi.
-consagrar | ün kazandırmak, yerleşik kılmak | fiil | O prêmio consagrou a jovem escritora moçambicana. | Ödül genç Mozambikli yazara ün kazandırdı.
+consagrar | ün kazandırmak, yerleşik kılmak | fiil | O prêmio internacional consagrou a jovem escritora moçambicana. | Uluslararası ödül genç Mozambikli yazara ün kazandırdı.
 plagiar | intihal etmek | fiil | O escritor foi acusado de plagiar trechos de um romance esquecido. | Yazar unutulmuş bir romandan pasajlar intihal etmekle suçlandı.

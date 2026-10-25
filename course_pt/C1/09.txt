@@ -16,7 +16,7 @@ a classe média | orta sınıf | isim (d) | A classe média cresceu nas grandes 
 a mobilidade social | toplumsal hareketlilik | isim (d) | A educação pública é um motor de mobilidade social. | Devlet eğitimi toplumsal hareketliliğin itici gücüdür.
 a concentração de renda | gelir yoğunlaşması | isim (d) | A concentração de renda no país ainda é uma das maiores do mundo. | Ülkedeki gelir yoğunlaşması hâlâ dünyadaki en yükseklerden biri.
 a vulnerabilidade social | sosyal kırılganlık | isim (d) | Famílias em vulnerabilidade social recebem apoio do governo. | Sosyal açıdan kırılgan aileler hükümetten destek alıyor.
-a marginalização | ötekileştirme, dışlanma | isim (d) | A marginalização dos migrantes dificulta a integração. | Göçmenlerin dışlanması uyumu zorlaştırıyor.
+a marginalização | ötekileştirme, dışlanma | isim (d) | A marginalização dos migrantes dificulta a sua integração na cidade. | Göçmenlerin dışlanması şehre uyumlarını zorlaştırıyor.
 o privilégio | ayrıcalık | isim (e) | Reconhecer o próprio privilégio é o primeiro passo para o debate. | Kendi ayrıcalığını tanımak tartışmanın ilk adımıdır.
 a elite | seçkinler | isim (d) | A elite econômica controlava as terras e o comércio. | Ekonomik seçkinler toprakları ve ticareti kontrol ediyordu.
 o coeficiente de Gini | Gini katsayısı | isim (e) | O coeficiente de Gini mede o grau de desigualdade de renda. | Gini katsayısı gelir eşitsizliğinin derecesini ölçer.
@@ -46,7 +46,7 @@ o relativismo cultural | kültürel görecelik | isim (e) | O relativismo cultur
 ## Kent sosyolojisi
 a periferia | kent çeperi, varoş | isim (d) | Os jovens da periferia criaram saraus de poesia nos bares. | Çeper mahallelerinin gençleri barlarda şiir akşamları düzenledi.
 a gentrificação | soylulaştırma | isim (d) | A gentrificação expulsou antigos moradores do centro histórico. | Soylulaştırma eski sakinleri tarihî merkezden itti.
-a segregação espacial | mekânsal ayrışma | isim (d) | Os condomínios fechados reforçam a segregação espacial. | Kapalı siteler mekânsal ayrışmayı pekiştiriyor.
+a segregação espacial | mekânsal ayrışma | isim (d) | Os condomínios fechados reforçam a segregação espacial nas metrópoles. | Kapalı siteler büyük şehirlerde mekânsal ayrışmayı pekiştiriyor.
 o êxodo rural | kırdan kente göç | isim (e) | O êxodo rural acelerou o crescimento das metrópoles. | Kırdan kente göç büyük şehirlerin büyümesini hızlandırdı.
 o assentamento | yerleşim (topraksız köylüler için) | isim (e) | No assentamento, as famílias plantam feijão e mandioca. | Yerleşim alanında aileler fasulye ve maniyok ekiyor.
 o mutirão | imece | isim (e) | Com um mutirão, os vizinhos construíram a creche do bairro. | Komşular imeceyle mahallenin kreşini inşa etti.
@@ -71,7 +71,7 @@ o núcleo familiar | çekirdek aile | isim (e) | O núcleo familiar tradicional 
 o arranjo familiar | aile düzeni, aile biçimi | isim (e) | Famílias de um só responsável são um arranjo familiar comum. | Tek ebeveynli aileler yaygın bir aile biçimidir.
 o gênero | toplumsal cinsiyet | isim (e) | Os estudos de gênero analisam a divisão das tarefas domésticas. | Toplumsal cinsiyet çalışmaları ev işlerinin paylaşımını inceliyor.
 o patriarcado | ataerkillik | isim (e) | O patriarcado influenciou leis e costumes por séculos. | Ataerkillik yüzyıllar boyunca yasaları ve âdetleri etkiledi.
-a religiosidade | dindarlık | isim (d) | A religiosidade popular mistura devoção e festa. | Halk dindarlığı bağlılık ile şenliği harmanlar.
+a religiosidade | dindarlık | isim (d) | A religiosidade popular mistura devoção, música e festa. | Halk dindarlığı bağlılığı, müziği ve şenliği harmanlar.
 o associativismo | dernekçilik, örgütlenme | isim (e) | O associativismo fortaleceu os pequenos agricultores da região. | Örgütlenme bölgedeki küçük çiftçileri güçlendirdi.
 a sociabilidade | toplumsallık, sosyallik | isim (d) | O boteco é um espaço tradicional de sociabilidade masculina. | Meyhane geleneksel bir erkek sosyalleşme mekânıdır.
 o laço afetivo | duygusal bağ | isim (e) | Os laços afetivos com os vizinhos são fortes nas cidades pequenas. | Küçük kasabalarda komşularla duygusal bağlar güçlüdür.
@@ -101,8 +101,8 @@ a triangulação | üçgenleme (yöntem) | isim (d) | A triangulação de métod
 ## Sosyolojik fiil ve sıfatlar
 naturalizar | doğallaştırmak (olağan saymak) | fiil | Não podemos naturalizar a desigualdade como se fosse inevitável. | Eşitsizliği kaçınılmazmış gibi doğallaştıramayız.
 estigmatizar | damgalamak | fiil | A mídia muitas vezes estigmatiza os moradores das favelas. | Medya çoğu zaman favela sakinlerini damgalıyor.
-marginalizar | dışlamak, ötekileştirmek | fiil | Políticas mal planejadas podem marginalizar grupos inteiros. | Kötü planlanmış politikalar bütün grupları dışlayabilir.
-segregar | ayırmak, ayrıştırmak | fiil | O antigo regulamento segregava funcionários por origem. | Eski yönetmelik çalışanları kökenlerine göre ayırıyordu.
+marginalizar | dışlamak, ötekileştirmek | fiil | Políticas públicas mal planejadas podem marginalizar grupos inteiros. | Kötü planlanmış kamu politikaları bütün grupları dışlayabilir.
+segregar | ayırmak, ayrıştırmak | fiil | O antigo regulamento da fábrica segregava funcionários por origem. | Fabrikanın eski yönetmeliği çalışanları kökenlerine göre ayırıyordu.
 empoderar | güçlendirmek (toplumsal) | fiil | O projeto busca empoderar mulheres artesãs do sertão. | Proje sertão'daki zanaatkâr kadınları güçlendirmeyi amaçlıyor.
 hegemônico | egemen, baskın | sıfat | O discurso hegemônico muitas vezes silencia as vozes de grupos minoritários. | Egemen söylem çoğu zaman azınlık gruplarının seslerini susturur.
 periférico | çeperdeki, ikincil | sıfat | Os bairros periféricos recebem bem menos investimento público que o centro. | Çeper mahalleler merkezden çok daha az kamu yatırımı alıyor.
