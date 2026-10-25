@@ -1,0 +1,111 @@
+# UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+## Mahkeme ve taraflar
+最高裁判所 (saikō saibansho) | Yüksek Mahkeme (Yargıtay) | isim | 最高裁判所は二審の判決を支持し、上告を退けた。 | Yüksek Mahkeme ikinci derece kararını onayladı ve temyizi reddetti.
+地方裁判所 (chihō saibansho) | asliye mahkemesi (bölge mahkemesi) | isim | この事件の第一審は東京地方裁判所で行われた。 | Bu davanın ilk derece yargılaması Tokyo bölge mahkemesinde yapıldı.
+検察官 (kensatsukan) | savcı | isim | 検察官は被告人に懲役五年を求刑した。 | Savcı sanık için beş yıl hapis cezası istedi.
+原告 (genkoku) | davacı | isim | 原告は隣人による騒音の被害を訴えている。 | Davacı komşusunun gürültüsünden zarar gördüğünü ileri sürüyor.
+被告 (hikoku) | davalı (hukuk davasında) | isim | 被告の会社は製品の欠陥を最後まで認めなかった。 | Davalı şirket ürünündeki kusuru sonuna kadar kabul etmedi.
+被告人 (hikokunin) | sanık (ceza davasında) | isim | 被告人は法廷で一貫して無実を主張した。 | Sanık mahkemede baştan sona masum olduğunu savundu.
+弁護人 (bengonin) | müdafi | isim | 弁護人は証拠の信用性に強い疑問を呈した。 | Müdafi delillerin güvenilirliğine ciddi şüpheyle yaklaştı.
+裁判員 (saiban'in) | halk yargıcı (Japonya'da seçilen vatandaş hâkim) | isim | 一般市民から選ばれた裁判員が、裁判官とともに量刑を決める。 | Vatandaşlar arasından seçilen halk yargıçları hâkimlerle birlikte cezayı belirler.
+書記官 (shokikan) | zabıt kâtibi | isim | 書記官が法廷でのやり取りを正確に記録している。 | Zabıt kâtibi duruşmadaki konuşmaları eksiksiz kaydediyor.
+当事者 (tōjisha) | taraf, ilgili kişi | isim | 紛争の当事者同士が直接話し合うことは少なかった。 | Uyuşmazlığın tarafları doğrudan pek az görüştü.
+## Yargılama süreci
+起訴 (kiso) | iddianame düzenleme, dava açma (savcılık) | isim | 検察は証拠不十分として、男性を起訴しなかった。 | Savcılık delil yetersizliği nedeniyle adam hakkında dava açmadı.
+公判 (kōhan) | duruşma (ceza) | isim | 初公判で、被告人は起訴内容を全面的に否認した。 | İlk duruşmada sanık suçlamaların tamamını reddetti.
+審理 (shinri) | yargılama, inceleme | isim | 審理は予想以上に長引き、判決は来年に持ち越された。 | Yargılama beklenenden uzun sürdü ve karar gelecek yıla kaldı.
+口頭弁論 (kōtō benron) | sözlü yargılama, duruşmada savunma | isim | 次回の口頭弁論は三月十日に開かれる予定だ。 | Bir sonraki sözlü duruşma 10 Mart'ta yapılacak.
+控訴 (kōso) | istinaf (birinci derece kararına itiraz) | isim | 判決を不服として、弁護側は直ちに控訴した。 | Karara itiraz eden savunma hemen istinafa başvurdu.
+上告 (jōkoku) | temyiz (yüksek mahkemeye) | isim | 高等裁判所の判決に対し、原告は上告する方針を示した。 | Davacı yüksek mahkeme kararına karşı temyize gideceğini belirtti.
+差し戻し (sashimodoshi) | bozup geri gönderme (alt mahkemeye) | isim | 最高裁は審理が不十分だとして、事件を高裁に差し戻した。 | Yüksek Mahkeme yargılamayı yetersiz bulup dosyayı bölge mahkemesine geri gönderdi.
+結審 (kesshin) | duruşmanın tamamlanması | isim | 裁判は本日結審し、判決は来月言い渡される。 | Yargılama bugün tamamlandı, karar gelecek ay açıklanacak.
+判例 (hanrei) | içtihat, emsal karar | isim | 過去の判例に照らせば、今回の請求は認められにくい。 | Geçmiş içtihatlara bakılırsa bu talebin kabul edilmesi zor.
+確定判決 (kakutei hanketsu) | kesinleşmiş hüküm | isim | 確定判決が出た事件を再び裁くことはできない。 | Kesinleşmiş hükmü olan bir dava yeniden yargılanamaz.
+## Ceza hukuku
+被疑者 (higisha) | şüpheli (soruşturma aşamasında) | isim | 警察は被疑者の自宅から多数の書類を持ち出した。 | Polis şüphelinin evinden çok sayıda belge çıkardı.
+送検 (sōken) | dosyanın savcılığa sevki | isim | 男は窃盗の疑いで書類送検された。 | Adam hırsızlık şüphesiyle dosyası savcılığa gönderildi.
+勾留 (kōryū) | tutukluluk | isim | 裁判所は証拠隠滅の恐れがあるとして勾留を認めた。 | Mahkeme delil karartma tehlikesi olduğundan tutukluluğa hükmetti.
+保釈 (hoshaku) | kefaletle salıverme | isim | 被告人は保釈金を納付し、昨夜保釈された。 | Sanık kefalet ücretini yatırıp dün gece serbest bırakıldı.
+執行猶予 (shikkō yūyo) | ertelenmiş ceza | isim | 被告人には懲役二年、執行猶予三年の判決が下った。 | Sanığa iki yıl hapis cezası verildi ve ceza üç yıl ertelendi.
+懲役 (chōeki) | ağır hapis (çalışma yükümlü hapis) | isim | 詐欺グループの主犯に懲役八年の実刑が言い渡された。 | Dolandırıcılık çetesinin elebaşına sekiz yıl hapis cezası verildi.
+時効 (jikō) | zamanaşımı | isim | その事件はすでに時効を迎え、責任を問うことはできない。 | O olay zamanaşımına uğradı, artık kimse sorumlu tutulamaz.
+正当防衛 (seitō bōei) | meşru müdafaa | isim | 裁判所は男性の行為を正当防衛と認め、無罪とした。 | Mahkeme adamın eylemini meşru müdafaa sayıp beraat ettirdi.
+黙秘権 (mokuhiken) | susma hakkı | isim | 被疑者は取り調べで黙秘権を行使し、何も話さなかった。 | Şüpheli sorguda susma hakkını kullanarak hiçbir şey söylemedi.
+冤罪 (enzai) | haksız mahkûmiyet | isim | 二十年後、DNA鑑定によって冤罪であったことが判明した。 | Yirmi yıl sonra DNA incelemesiyle haksız yere mahkûm edildiği ortaya çıktı.
+## Suç türleri
+窃盗 (settō) | hırsızlık | isim | 店舗での窃盗の被害額は年々増えている。 | Mağazalardaki hırsızlıkların zarar tutarı yıldan yıla artıyor.
+背任 (hainin) | görevi kötüye kullanma, güveni kötüye kullanma | isim | 元理事長は不正な融資を行ったとして背任の罪に問われた。 | Eski başkan usulsüz kredi verdiği için görevi kötüye kullanmakla yargılandı.
+横領 (ōryō) | zimmete geçirme | isim | 経理担当の社員が会社の資金を横領していた。 | Muhasebeden sorumlu çalışan şirketin parasını zimmetine geçirmişti.
+収賄 (shūwai) | rüşvet alma | isim | 元市長が収賄の容疑で逮捕された。 | Eski belediye başkanı rüşvet alma şüphesiyle tutuklandı.
+贈賄 (zōwai) | rüşvet verme | isim | 建設会社の社長も贈賄の罪に問われている。 | İnşaat şirketinin patronu da rüşvet vermekle suçlanıyor.
+脅迫 (kyōhaku) | tehdit | isim | 男はインターネット上で脅迫の書き込みを繰り返していた。 | Adam internette tekrar tekrar tehdit içerikli mesajlar yazıyordu.
+恐喝 (kyōkatsu) | şantaj, haraç alma | isim | 少年たちは同級生から金を恐喝したとして補導された。 | Gençler sınıf arkadaşlarından zorla para aldıkları için gözaltına alındı.
+傷害 (shōgai) | yaralama | isim | 口論の末に相手を殴り、傷害の罪で起訴された。 | Tartışmanın sonunda karşısındakini dövdüğü için yaralamadan yargılandı.
+放火 (hōka) | kundaklama | isim | 消防は火災の原因を放火とみて調べている。 | İtfaiye yangının kundaklama olabileceğini düşünerek inceliyor.
+偽造 (gizō) | sahtecilik | isim | 旅券を偽造した疑いで、外国籍の男が調べを受けている。 | Pasaport sahteciliği şüphesiyle yabancı uyruklu bir adam sorgulanıyor.
+## Medeni hukuk
+民法 (minpō) | medeni kanun, medeni hukuk | isim | 民法の改正により、成年年齢が十八歳に引き下げられた。 | Medeni kanundaki değişiklikle reşit olma yaşı on sekize indirildi.
+債権 (saiken) | alacak hakkı | isim | 銀行は回収できない債権を大量に抱えている。 | Banka tahsil edemediği çok sayıda alacağı elinde tutuyor.
+債務 (saimu) | borç, yükümlülük | isim | 父親の死後、家族は思いがけない債務を負うことになった。 | Babanın ölümünden sonra aile beklenmedik borçlarla karşılaştı.
+相続 (sōzoku) | miras, mirasa konma | isim | 土地の相続をめぐって兄弟の間で争いが起きた。 | Arazinin mirası yüzünden kardeşler arasında anlaşmazlık çıktı.
+遺言 (yuigon) | vasiyet | isim | 祖父は全財産を地元の学校に寄付するという遺言を残した。 | Dedem bütün mal varlığını yerel okula bağışlama vasiyeti bıraktı.
+親権 (shinken) | velayet | isim | 離婚後、子どもの親権は母親が持つことになった。 | Boşanmanın ardından çocuğun velayeti anneye verildi.
+所有権 (shoyūken) | mülkiyet hakkı | isim | 土地の所有権を証明する書類が見つからない。 | Arazinin mülkiyetini kanıtlayan belgeler bulunamıyor.
+賃貸借 (chintaishaku) | kira ilişkisi, kira sözleşmesi | isim | 賃貸借契約の更新時に家賃の値上げを求められた。 | Kira sözleşmesi yenilenirken kira artışı talep edildi.
+損害賠償 (songai baishō) | tazminat | isim | 被害者の家族は運転者に損害賠償を求めて提訴した。 | Mağdurun ailesi tazminat için sürücüye dava açtı.
+慰謝料 (isharyō) | manevi tazminat | isim | 裁判所は精神的苦痛に対する慰謝料の支払いを命じた。 | Mahkeme yaşanan acı için manevi tazminat ödenmesine hükmetti.
+## Hukuki kavramlar
+条文 (jōbun) | kanun metni, madde metni | isim | 条文の解釈をめぐって、専門家の意見が分かれている。 | Kanun maddesinin yorumu konusunda uzmanların görüşleri ayrılıyor.
+法令 (hōrei) | mevzuat | isim | 企業は関連する法令を常に確認しておく必要がある。 | Şirketler ilgili mevzuatı her zaman takip etmelidir.
+施行 (shikō) | yürürlüğe girme | isim | 新しい個人情報保護法は来年四月から施行される。 | Yeni kişisel verilerin korunması kanunu gelecek nisanda yürürlüğe girecek.
+違憲 (iken) | anayasaya aykırılık | isim | 最高裁は、その規定を違憲とする初めての判断を示した。 | Yüksek Mahkeme bu hükmün anayasaya aykırı olduğuna ilk kez karar verdi.
+管轄 (kankatsu) | yetki alanı | isim | この種の紛争は家庭裁判所の管轄に属する。 | Bu tür uyuşmazlıklar aile mahkemesinin yetki alanına girer.
+効力 (kōryoku) | geçerlilik, hukuki etki | isim | 署名のない遺言書は法的な効力を持たない。 | İmzasız bir vasiyetnamenin hukuki geçerliliği yoktur.
+要件 (yōken) | şart, koşul (hukuki) | isim | 申請者は在留資格の要件をすべて満たしている。 | Başvuran oturma izninin tüm şartlarını karşılıyor.
+法人 (hōjin) | tüzel kişi | isim | 法人であっても刑事責任を問われる場合がある。 | Tüzel kişiler de bazen cezai sorumluluk taşıyabilir.
+無効 (mukō) | geçersiz, hükümsüz | isim | 強迫によって結ばれた契約は無効とされる。 | Tehditle yapılan bir sözleşme hükümsüz sayılır.
+法の支配 (hō no shihai) | hukukun üstünlüğü | ifade | 法の支配は民主主義社会の根幹をなす原則である。 | Hukukun üstünlüğü demokratik toplumun temel ilkesidir.
+## Kanun dilinin kalıpları
+〜に係る (ni kakaru) | ...e ilişkin | ifade | 本件に係る費用は、すべて申請者の負担とする。 | Bu işe ilişkin tüm masraflar başvurana aittir.
+〜に準じる (ni junjiru) | ...e göre, ...e kıyasen uygulanmak | ifade | 臨時職員の待遇は正職員に準じるものとする。 | Geçici personelin hakları kadrolu personele kıyasen belirlenir.
+〜を除き (o nozoki) | ...hariç | ifade | 祝日を除き、窓口は毎日午前九時から開いている。 | Resmî tatiller hariç gişe her gün sabah dokuzda açılır.
+〜の限りでない (no kagiri de nai) | ...bu hüküm uygulanmaz | ifade | ただし、正当な理由がある場合はこの限りでない。 | Ancak haklı bir neden varsa bu hüküm uygulanmaz.
+〜に該当する (ni gaitō suru) | ...kapsamına girmek | ifade | 彼の行為は刑法上の詐欺罪に該当すると判断された。 | Onun eyleminin ceza kanunundaki dolandırıcılık suçunun kapsamına girdiğine karar verildi.
+〜とみなす (to minasu) | ...saymak, ...kabul etmek | ifade | 期限までに回答がない場合は、同意したものとみなす。 | Süresi içinde cevap verilmezse onaylanmış sayılır.
+〜に処する (ni shosuru) | ...cezasına çarptırmak | ifade | この規定に違反した者は、五十万円以下の罰金に処する。 | Bu hükmü ihlal eden beş yüz bin yene kadar para cezasına çarptırılır.
+並びに (narabi ni) | ve (resmî, üst düzey bağlaç) | bağlaç | 氏名並びに住所を正確に記入してください。 | Ad ve adresinizi doğru biçimde yazınız.
+及び (oyobi) | ve (resmî) | bağlaç | 申請書及び身分証明書の写しを提出すること。 | Başvuru formu ve kimlik fotokopisi teslim edilmelidir.
+若しくは (moshiku wa) | veya (resmî, alt düzey) | bağlaç | 三年以下の懲役若しくは百万円以下の罰金に処する。 | Üç yıla kadar hapis veya bir milyon yene kadar para cezası verilir.
+## Hukuki fiiller
+提訴する (teiso suru) | dava açmak | fiil | 住民たちは工事の差し止めを求めて国を提訴した。 | Sakinler inşaatın durdurulması için devlete dava açtı.
+告訴する (kokuso suru) | suç duyurusunda bulunmak | fiil | 彼女は名誉を傷つけられたとして、元同僚を告訴した。 | Onurunun zedelendiğini söyleyerek eski iş arkadaşı hakkında suç duyurusunda bulundu.
+棄却する (kikyaku suru) | (esastan) reddetmek | fiil | 裁判所は原告の請求をすべて棄却した。 | Mahkeme davacının tüm taleplerini reddetti.
+却下する (kyakka suru) | usulden reddetmek | fiil | 提出期限を過ぎていたため、申し立ては却下された。 | Süre geçtiği için başvuru usulden reddedildi.
+認定する (nintei suru) | tespit etmek, kabul etmek (resmî) | fiil | 裁判所は会社側に過失があったと認定した。 | Mahkeme şirket tarafının kusurlu olduğunu tespit etti.
+科す (kasu) | (ceza) vermek, uygulamak | fiil | 違反した業者には重い罰金が科された。 | Kurala uymayan işletmeye ağır para cezası verildi.
+執行する (shikkō suru) | infaz etmek, uygulamak | fiil | 判決が確定した後、刑が執行される。 | Karar kesinleştikten sonra ceza infaz edilir.
+差し押さえる (sashiosaeru) | haciz koymak | fiil | 税金を滞納したため、自宅が差し押さえられた。 | Vergi borcunu ödemediği için evine haciz konuldu.
+申し立てる (mōshitateru) | resmen başvurmak, itiraz etmek | fiil | 判決に不服があれば、二週間以内に異議を申し立てることができる。 | Karara itiraz edenler iki hafta içinde başvurabilir.
+免除する (menjo suru) | muaf tutmak | fiil | 収入の少ない学生は授業料の一部を免除される。 | Geliri düşük öğrenciler harcın bir kısmından muaf tutulur.
+## Delil ve soruşturma
+供述 (kyōjutsu) | ifade (resmî beyan) | isim | 容疑者の供述には矛盾する点がいくつもあった。 | Şüphelinin ifadesinde birçok çelişkili nokta vardı.
+自白 (jihaku) | itiraf | isim | 強要された自白には証拠能力が認められない。 | Zorla alınan itirafın delil değeri kabul edilmez.
+物証 (busshō) | maddi delil | isim | 犯行を裏付ける物証は何一つ見つからなかった。 | Suçu doğrulayan tek bir maddi delil bile bulunamadı.
+状況証拠 (jōkyō shōko) | dolaylı delil, emare | isim | 直接の証拠はなく、状況証拠だけで有罪とされた。 | Doğrudan delil yoktu, yalnızca dolaylı delillerle suçlu bulundu.
+鑑定 (kantei) | bilirkişi incelemesi | isim | 筆跡鑑定の結果、遺言書は本人が書いたものと判明した。 | El yazısı incelemesi vasiyetnamenin bizzat yazıldığını gösterdi.
+偽証 (gishō) | yalan tanıklık | isim | 法廷で偽証した証人は、刑事罰を受けることがある。 | Mahkemede yalan tanıklık eden kişi ceza alabilir.
+立件 (rikken) | dava açılabilecek hâle getirme, dosya kurma | isim | 証拠が足りず、警察は事件の立件を断念した。 | Delil yetersiz olduğundan polis dosyayı davaya dönüştürmekten vazgeçti.
+押収 (ōshū) | el koyma, müsadere | isim | 捜査員は事務所からパソコン十台を押収した。 | Soruşturmacılar bürodan on bilgisayara el koydu.
+捜索 (sōsaku) | arama (hukuki); arama-tarama | isim | 裁判所の令状に基づき、自宅の捜索が行われた。 | Mahkeme kararına dayanarak evde arama yapıldı.
+事情聴取 (jijō chōshu) | (tanık olarak) ifadesine başvurma | isim | 警察は事故を目撃した通行人から事情聴取をした。 | Polis kazayı gören yayalardan bilgi aldı.
+## Yargı sistemi
+司法 (shihō) | yargı | isim | 司法の独立は民主主義に欠かせない。 | Yargı bağımsızlığı demokrasi için vazgeçilmezdir.
+立法 (rippō) | yasama | isim | 立法の役割を担うのは国会である。 | Yasama görevini meclis üstlenir.
+三権分立 (sanken bunritsu) | kuvvetler ayrılığı | isim | 三権分立によって、権力の集中が防がれている。 | Kuvvetler ayrılığı sayesinde iktidarın tek elde toplanması önleniyor.
+司法試験 (shihō shiken) | hukuk mesleğine giriş sınavı | isim | 彼女は三度目の挑戦で司法試験に合格した。 | Üçüncü denemesinde hukuk mesleği sınavını geçti.
+法曹 (hōsō) | hukukçular (hâkim, savcı, avukat) | isim | 法曹を目指す若者は法科大学院で学ぶことが多い。 | Hukuk mesleğini hedefleyen gençler genellikle hukuk yüksek okulunda okur.
+公証人 (kōshōnin) | noter | isim | 公正証書を作るために公証人役場へ行った。 | Resmî senet düzenletmek için notere gittim.
+法廷 (hōtei) | mahkeme salonu | isim | 判決が読み上げられると、法廷は静まり返った。 | Karar okununca mahkeme salonunu derin bir sessizlik kapladı.
+陪審 (baishin) | jüri (sistemi) | isim | 日本では戦前の一時期、陪審制度が導入されていた。 | Japonya'da savaş öncesinde bir dönem jüri sistemi uygulanmıştı.
+法治国家 (hōchi kokka) | hukuk devleti | isim | 法治国家では、権力者も法の下にある。 | Hukuk devletinde iktidardakiler de kanunun altındadır.
+司法取引 (shihō torihiki) | itirafçılık anlaşması, savcılıkla pazarlık | isim | 司法取引に応じた元幹部が、組織の不正を証言した。 | Savcılıkla anlaşan eski yönetici örgütün usulsüzlüklerini anlattı.
