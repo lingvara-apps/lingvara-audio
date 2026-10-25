@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve tasarım
+le maître d'ouvrage | iş sahibi, işveren | isim (e) | Le maître d'ouvrage a validé le budget définitif de la future médiathèque. | İş sahibi gelecekteki medya kütüphanesinin kesin bütçesini onayladı.
+le maître d'œuvre | proje yöneticisi (tasarım ve denetim) | isim (e) | Le maître d'œuvre coordonne les entreprises et contrôle la bonne exécution des travaux. | Proje yöneticisi firmaları koordine eder ve işlerin doğru yapılmasını denetler.
+l'avant-projet (m) | ön proje | isim (e) | L'avant-projet sommaire présente les grandes options architecturales du bâtiment. | Özet ön proje binanın başlıca mimari seçeneklerini sunar.
+le permis de construire | yapı ruhsatı | isim (e) | Le permis de construire a été accordé après six mois d'instruction. | Yapı ruhsatı altı aylık bir inceleme sürecinin ardından verildi.
+le plan de masse | vaziyet planı | isim (e) | Le plan de masse montre l'implantation du bâtiment sur la parcelle. | Vaziyet planı binanın parsel üzerindeki yerleşimini gösterir.
+la coupe longitudinale | boyuna kesit | isim (d) | La coupe longitudinale révèle la hauteur sous plafond de chaque niveau. | Boyuna kesit her katın tavan yüksekliğini gösteriyor.
+l'élévation (f) | görünüş (cephe çizimi) | isim (d) | L'élévation de la façade sud doit être modifiée pour respecter le règlement local. | Güney cephesinin görünüşü yerel imar yönetmeliğine uymak için değiştirilmeli.
+le métré | metraj | isim (e) | Le métré permet d'estimer précisément les quantités de matériaux nécessaires. | Metraj gerekli malzeme miktarlarını kesin olarak tahmin etmeyi sağlar.
+le devis quantitatif | keşif özeti, metrajlı teklif | isim (e) | Chaque entreprise doit remettre un devis quantitatif détaillé avant la fin du mois. | Her firma ay sonundan önce ayrıntılı bir metrajlı teklif sunmalı.
+la maquette numérique | BIM modeli, dijital yapı modeli | isim (d) | La maquette numérique permet de détecter les conflits entre réseaux avant le chantier. | Dijital yapı modeli şantiyeden önce tesisatlar arasındaki çakışmaları tespit etmeyi sağlar.
+## Taşıyıcı sistem
+le gros œuvre | kaba inşaat | isim (e) | Le gros œuvre devrait être achevé avant les premières gelées. | Kaba inşaatın ilk donlardan önce bitmesi bekleniyor.
+la structure porteuse | taşıyıcı sistem | isim (d) | La structure porteuse est entièrement réalisée en béton armé. | Taşıyıcı sistem tamamen betonarme olarak yapıldı.
+le poteau | kolon | isim (e) | Les poteaux du rez-de-chaussée supportent des charges considérables. | Zemin katın kolonları çok büyük yükler taşıyor.
+la poutre | kiriş | isim (d) | Une fissure inquiétante est apparue sur la poutre principale. | Ana kirişte endişe verici bir çatlak belirdi.
+la dalle | döşeme, plak | isim (d) | La dalle du troisième étage sera coulée lundi prochain. | Üçüncü katın döşemesi gelecek pazartesi dökülecek.
+le voile | perde duvar | isim (e) | Les voiles en béton assurent la stabilité du bâtiment face au vent. | Beton perde duvarlar binanın rüzgâra karşı stabilitesini sağlar.
+le linteau | lento | isim (e) | Un linteau en béton surmonte chaque ouverture de la façade. | Cephedeki her açıklığın üzerinde betondan bir lento bulunuyor.
+le contreventement | rüzgâr bağlantısı, çapraz destek | isim (e) | Le contreventement métallique empêche la déformation de la charpente. | Çelik çapraz destekler çatı iskeletinin şekil değiştirmesini önler.
+la descente de charges | yük aktarımı hesabı | isim (d) | L'ingénieur a vérifié la descente de charges jusqu'aux fondations. | Mühendis yük aktarımını temellere kadar kontrol etti.
+le porte-à-faux | konsol, çıkma | isim (e) | Le balcon en porte-à-faux s'avance de trois mètres au-dessus du jardin. | Konsol balkon bahçenin üzerine üç metre uzanıyor.
+## Temel ve zemin
+les fondations | temeller | isim (çoğul) | Les fondations profondes reposent sur des pieux de vingt mètres. | Derin temeller yirmi metrelik kazıklara oturuyor.
+l'étude de sol (f) | zemin etüdü | isim (d) | L'étude de sol a révélé la présence d'argile gonflante sous la parcelle. | Zemin etüdü parselin altında şişen kil bulunduğunu ortaya koydu.
+le terrassement | hafriyat, toprak işleri | isim (e) | Les travaux de terrassement ont commencé avec deux pelleteuses. | Hafriyat işleri iki ekskavatörle başladı.
+le pieu | kazık | isim (e) | Chaque pieu est foré puis rempli de béton armé. | Her kazık delinip ardından betonarmeyle dolduruluyor.
+la semelle filante | sürekli temel | isim (d) | Les murs porteurs reposent sur une semelle filante en béton. | Taşıyıcı duvarlar betondan bir sürekli temele oturuyor.
+le radier | radye temel | isim (e) | Sur un sol aussi médiocre, un radier général s'impose. | Bu kadar zayıf bir zeminde radye temel kaçınılmaz.
+le tassement | oturma (zeminde) | isim (e) | Un tassement différentiel peut provoquer des fissures dans les murs. | Farklı oturma duvarlarda çatlaklara yol açabilir.
+le sol porteur | taşıyıcı zemin | isim (e) | Le sol porteur n'a été atteint qu'à douze mètres de profondeur. | Taşıyıcı zemine ancak on iki metre derinlikte ulaşıldı.
+le rabattement de nappe | yeraltı suyunun düşürülmesi | isim (e) | Un rabattement de nappe est nécessaire pour creuser le parking souterrain. | Yeraltı otoparkını kazmak için yeraltı suyunun düşürülmesi gerekiyor.
+le soutènement | iksa, istinat | isim (e) | Un mur de soutènement retient les terres le long de la route. | Yol boyunca bir istinat duvarı toprağı tutuyor.
+## Beton ve çelik
+le béton armé | betonarme | isim (e) | Le béton armé associe la résistance à la compression du béton et celle de l'acier à la traction. | Betonarme betonun basınç dayanımıyla çeliğin çekme dayanımını birleştirir.
+le coffrage | kalıp (beton) | isim (e) | Le coffrage sera retiré une fois que le béton aura suffisamment durci. | Kalıp beton yeterince sertleştikten sonra sökülecek.
+le ferraillage | demir donatı | isim (e) | Le contrôleur a vérifié le ferraillage avant le coulage de la dalle. | Denetçi döşeme dökülmeden önce donatıyı kontrol etti.
+l'armature (f) | donatı | isim (d) | Les armatures doivent respecter un enrobage minimal de trois centimètres. | Donatılar en az üç santimetrelik bir pas payına uymalıdır.
+le coulage | (beton) dökme | isim (e) | Le coulage du béton a été reporté à cause des fortes pluies. | Beton dökümü şiddetli yağmurlar nedeniyle ertelendi.
+la toupie | transmikser | isim (d) | Trois toupies attendaient devant le chantier dès sept heures du matin. | Sabah yediden itibaren şantiyenin önünde üç transmikser bekliyordu.
+le décoffrage | kalıp sökümü | isim (e) | Le décoffrage a révélé quelques nids de cailloux sur le voile. | Kalıp sökümü perde duvarda birkaç çakıl yuvası ortaya çıkardı.
+la charpente métallique | çelik yapı iskeleti | isim (d) | La charpente métallique de la halle a été montée en deux semaines. | Halin çelik iskeleti iki haftada monte edildi.
+le béton précontraint | öngerilmeli beton | isim (e) | Ce pont est construit en poutres de béton précontraint. | Bu köprü öngerilmeli beton kirişlerle inşa edilmiş.
+l'éprouvette (f) | numune (deney) | isim (d) | Les éprouvettes de béton seront écrasées en laboratoire à vingt-huit jours. | Beton numuneleri yirmi sekizinci günde laboratuvarda kırılacak.
+## Şantiye organizasyonu
+le conducteur de travaux | şantiye şefi | isim (e) | Le conducteur de travaux organise chaque matin la répartition des équipes. | Şantiye şefi her sabah ekiplerin dağılımını düzenler.
+le chef de chantier | saha şefi, ustabaşı | isim (e) | Le chef de chantier a interdit l'accès à la zone de levage. | Saha şefi kaldırma alanına girişi yasakladı.
+le chemin critique | kritik yol | isim (e) | Tout retard sur le chemin critique repousse la date de livraison finale. | Kritik yoldaki her gecikme nihai teslim tarihini erteler.
+la réunion de chantier | şantiye koordinasyon toplantısı | isim (d) | La réunion de chantier hebdomadaire a lieu tous les jeudis à neuf heures. | Haftalık şantiye koordinasyon toplantısı her perşembe saat dokuzda yapılır.
+le journal de chantier | şantiye günlüğü | isim (e) | Le conducteur de travaux note chaque incident dans le journal de chantier. | Şantiye şefi her olayı şantiye günlüğüne kaydeder.
+l'ordre de service (m) | iş emri, işe başlama emri | isim (e) | L'ordre de service fixe la date officielle de démarrage des travaux. | İşe başlama emri işlerin resmî başlangıç tarihini belirler.
+les travaux supplémentaires | ek işler | isim (çoğul) | Les travaux supplémentaires doivent être validés par écrit avant exécution. | Ek işler yapılmadan önce yazılı olarak onaylanmalıdır.
+la réception des travaux | geçici kabul | isim (d) | La réception des travaux a été prononcée avec quelques réserves mineures. | Geçici kabul birkaç küçük çekinceyle yapıldı.
+la levée des réserves | eksiklerin giderilmesi | isim (d) | La levée des réserves doit intervenir dans un délai de trente jours. | Eksiklerin giderilmesi otuz günlük bir süre içinde yapılmalıdır.
+le coordonnateur sécurité | iş güvenliği koordinatörü | isim (e) | Le coordonnateur sécurité a imposé le port du harnais sur la toiture. | İş güvenliği koordinatörü çatıda emniyet kemeri takılmasını zorunlu kıldı.
+## Şantiye ekipmanı
+la grue à tour | kule vinç | isim (d) | La grue à tour sera démontée dès la fin du gros œuvre. | Kule vinç kaba inşaat biter bitmez sökülecek.
+l'échafaudage (m) | iskele | isim (e) | Depuis trois mois, un échafaudage entoure entièrement la façade de l'immeuble. | Üç aydır bir iskele binanın cephesini tamamen sarıyor.
+la pelleteuse | ekskavatör, kepçe | isim (d) | La pelleteuse a heurté une canalisation de gaz pendant la fouille. | Ekskavatör kazı sırasında bir gaz borusuna çarptı.
+la bétonnière | betoniyer | isim (d) | Pour ce petit muret, une simple bétonnière suffira. | Bu alçak duvar için basit bir betoniyer yeterli olacak.
+la nacelle élévatrice | personel yükseltici platform | isim (d) | Les électriciens travaillent depuis une nacelle élévatrice à dix mètres du sol. | Elektrikçiler yerden on metre yükseklikteki bir yükseltici platformda çalışıyor.
+le marteau-piqueur | kırıcı (pnömatik) | isim (e) | Le bruit du marteau-piqueur exaspère les riverains depuis une semaine. | Kırıcının gürültüsü bir haftadır civar sakinlerini çileden çıkarıyor.
+la base vie | şantiye konteyner kampı (işçi tesisleri) | isim (d) | La base vie comprend des vestiaires, un réfectoire et des sanitaires. | Şantiye konteyner kampında soyunma odaları, yemekhane ve tuvaletler var.
+la palissade | şantiye çiti, perde | isim (d) | Des fresques d'enfants décorent la palissade du chantier. | Çocukların yaptığı resimler şantiye çitini süslüyor.
+le niveau laser | lazer nivo | isim (e) | Le géomètre utilise un niveau laser pour vérifier l'horizontalité de la dalle. | Harita mühendisi döşemenin yataylığını kontrol etmek için lazer nivo kullanıyor.
+l'équipement de protection individuelle (m) | kişisel koruyucu donanım | isim (e) | Le port de l'équipement de protection individuelle est obligatoire sur tout le site. | Kişisel koruyucu donanım kullanmak bütün alanda zorunludur.
+## Duvar, çatı ve cephe
+le mur porteur | taşıyıcı duvar | isim (e) | On ne peut pas abattre ce mur porteur sans installer une poutre. | Bir kiriş koymadan bu taşıyıcı duvarı yıkamayız.
+la cloison | bölme duvar | isim (d) | Une simple cloison en plaques de plâtre sépare les deux bureaux. | İki ofisi alçı levhadan basit bir bölme duvar ayırıyor.
+le parpaing | briket | isim (e) | Les murs du garage sont montés en parpaings de vingt centimètres. | Garajın duvarları yirmi santimlik briketle örülüyor.
+la maçonnerie | duvarcılık, kâgir yapı | isim (d) | La maçonnerie en pierre de taille donne son caractère à la vieille ville. | Kesme taş kâgir yapı eski şehre karakterini veriyor.
+la toiture-terrasse | teras çatı | isim (d) | La toiture-terrasse sera végétalisée pour améliorer l'isolation et retenir l'eau de pluie. | Teras çatı yalıtımı iyileştirmek ve yağmur suyunu tutmak için bitkilendirilecek.
+l'étanchéité (f) | su yalıtımı | isim (d) | Un défaut d'étanchéité provoque des infiltrations dans le sous-sol. | Bir su yalıtımı kusuru bodrumda sızıntılara yol açıyor.
+le bardage | cephe kaplaması | isim (e) | Le bardage en bois de mélèze vieillira en prenant une teinte argentée. | Karaçam ahşabından cephe kaplaması zamanla gümüşi bir renk alacak.
+le mur-rideau | giydirme cephe | isim (e) | La tour de bureaux est entièrement habillée d'un mur-rideau en verre. | Ofis kulesi tamamen camdan bir giydirme cepheyle kaplı.
+l'isolation thermique par l'extérieur (f) | dış cephe ısı yalıtımı (mantolama) | isim (d) | L'isolation thermique par l'extérieur a réduit la facture de chauffage de moitié. | Mantolama ısıtma faturasını yarı yarıya düşürdü.
+le pont thermique | ısı köprüsü | isim (e) | Ce pont thermique au niveau des balcons provoque de la condensation. | Balkonlardaki bu ısı köprüsü yoğuşmaya yol açıyor.
+## Tesisat
+les corps d'état secondaires | ince işler (taşeron kalemleri) | isim (çoğul) | Les corps d'état secondaires interviennent après la mise hors d'eau du bâtiment. | İnce işler binanın su almaz hâle gelmesinden sonra başlar.
+la plomberie | sıhhi tesisat | isim (d) | La plomberie de l'immeuble ancien doit être entièrement refaite. | Eski binanın sıhhi tesisatının tamamen yenilenmesi gerekiyor.
+le génie climatique | iklimlendirme tesisatı (mekanik tesisat) | isim (e) | Le lot génie climatique représente un tiers du coût total du bâtiment. | İklimlendirme tesisatı kalemi binanın toplam maliyetinin üçte birini oluşturuyor.
+la ventilation mécanique contrôlée | kontrollü mekanik havalandırma | isim (d) | La ventilation mécanique contrôlée renouvelle l'air sans ouvrir les fenêtres. | Kontrollü mekanik havalandırma pencereleri açmadan havayı yeniler.
+la gaine technique | tesisat şaftı | isim (d) | Tous les réseaux passent par une gaine technique verticale. | Bütün tesisatlar dikey bir tesisat şaftından geçiyor.
+le tableau électrique | elektrik panosu | isim (e) | Le tableau électrique doit être remplacé pour respecter les normes actuelles. | Elektrik panosu mevcut standartlara uyması için değiştirilmeli.
+le chemin de câbles | kablo tavası | isim (e) | Les électriciens fixent le chemin de câbles sous le plafond du parking. | Elektrikçiler kablo tavasını otopark tavanının altına sabitliyor.
+la colonne montante | kolon hattı (dikey tesisat) | isim (d) | La colonne montante d'eau dessert tous les appartements de l'immeuble. | Su kolon hattı binadaki bütün dairelere hizmet ediyor.
+l'évacuation des eaux usées (f) | atık su tahliyesi | isim (d) | L'évacuation des eaux usées est raccordée au réseau public. | Atık su tahliyesi kamu şebekesine bağlanmış durumda.
+le désenfumage | duman tahliyesi | isim (e) | Le système de désenfumage s'est déclenché pendant l'exercice d'incendie. | Duman tahliye sistemi yangın tatbikatı sırasında devreye girdi.
+## Bitirme işleri
+le second œuvre | ince inşaat | isim (e) | Les travaux de second œuvre commenceront dès que le bâtiment sera hors d'eau. | İnce inşaat işleri bina su almaz hâle gelir gelmez başlayacak.
+le ragréage | tesviye şapı | isim (e) | Un ragréage est nécessaire avant la pose du parquet. | Parke döşenmeden önce bir tesviye şapı gerekli.
+la chape | şap | isim (d) | La chape doit sécher plusieurs semaines avant la pose du carrelage. | Fayans döşenmeden önce şapın birkaç hafta kuruması gerekir.
+l'enduit (m) | sıva | isim (e) | L'enduit de façade s'est décollé à cause de l'humidité. | Cephe sıvası nem nedeniyle döküldü.
+la plaque de plâtre | alçı levha | isim (d) | Les cloisons sont réalisées en plaques de plâtre sur ossature métallique. | Bölme duvarlar metal iskelet üzerine alçı levhadan yapılıyor.
+le faux plafond | asma tavan | isim (e) | Le faux plafond dissimule les gaines de ventilation. | Asma tavan havalandırma kanallarını gizliyor.
+la menuiserie extérieure | dış doğrama | isim (d) | La menuiserie extérieure en aluminium sera posée la semaine prochaine. | Alüminyum dış doğrama gelecek hafta takılacak.
+le joint de dilatation | genleşme derzi | isim (e) | Un joint de dilatation sépare les deux parties du bâtiment. | Bir genleşme derzi binanın iki kısmını ayırıyor.
+le calfeutrement | derz dolgusu, sızdırmazlık | isim (e) | Le calfeutrement des fenêtres limite les pertes de chaleur. | Pencerelerin sızdırmazlığının sağlanması ısı kayıplarını sınırlıyor.
+la mise hors d'eau | su almaz hâle getirme (çatının kapanması) | isim (d) | La mise hors d'eau est une étape clé avant l'hiver. | Binanın su almaz hâle getirilmesi kıştan önce kilit bir aşamadır.
+## İnşaat fiilleri
+couler | (beton) dökmek | fiil | Nous coulerons les fondations dès que le ferraillage sera validé. | Donatı onaylanır onaylanmaz temelleri dökeceğiz.
+coffrer | kalıp kurmak | fiil | Les ouvriers ont coffré les poteaux du premier étage hier. | İşçiler dün birinci katın kolon kalıplarını kurdu.
+ferrailler | donatı bağlamak, demir işini yapmak | fiil | Une équipe de quatre ouvriers a ferraillé toute la dalle en deux jours. | Dört işçilik bir ekip bütün döşemenin donatısını iki günde bağladı.
+terrasser | hafriyat yapmak | fiil | L'entreprise doit terrasser deux mille mètres cubes de terre. | Firmanın iki bin metreküp toprak hafriyatı yapması gerekiyor.
+maçonner | örmek (duvar) | fiil | Le maçon a maçonné le muret en pierres sèches de la région. | Duvarcı alçak duvarı bölgenin kuru taşlarıyla ördü.
+araser | düzlemek, aynı seviyeye getirmek | fiil | Il faut araser le mur à la hauteur prévue avant de poser la charpente. | Çatı iskeletini kurmadan önce duvarı öngörülen yükseklikte düzlemek gerekir.
+ravaler | (cepheyi) yenilemek | fiil | La copropriété a décidé de ravaler la façade de l'immeuble. | Kat malikleri binanın cephesini yenilemeye karar verdi.
+démolir | yıkmak | fiil | L'ancienne usine sera démolie pour laisser place à un écoquartier. | Eski fabrika bir ekolojik mahalleye yer açmak için yıkılacak.
+réhabiliter | restore etmek, yeniden kullanıma kazandırmak | fiil | La ville réhabilite les anciens entrepôts du port en logements. | Şehir limandaki eski depoları konuta dönüştürerek yeniden kazandırıyor.
+réceptionner | teslim almak (işi) | fiil | Le maître d'ouvrage refuse de réceptionner l'ouvrage en l'état. | İş sahibi yapıyı bu hâliyle teslim almayı reddediyor.
