@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+## Kahvaltı
+le petit-déjeuner | kahvaltı | isim (e) | Le petit-déjeuner est prêt ! | Kahvaltı hazır!
+le pain | ekmek | isim (e) | Je prends du pain et du fromage. | Ekmek ve peynir alıyorum.
+le beurre | tereyağı | isim (e) | Tu veux du beurre ? | Tereyağı ister misin?
+la confiture | reçel | isim (d) | J'adore la confiture de fraises. | Çilek reçeline bayılırım.
+le croissant | kruvasan | isim (e) | Un croissant, s'il vous plaît. | Bir kruvasan lütfen.
+le lait | süt | isim (e) | Les enfants boivent du lait. | Çocuklar süt içiyor.
+le café | kahve; kafe | isim (e) | Un café noir, merci. | Sade bir kahve, teşekkürler.
+le thé | çay | isim (e) | Je bois du thé le matin. | Sabahları çay içerim.
+le jus | meyve suyu | isim (e) | Un jus d'orange, s'il te plaît. | Bir portakal suyu lütfen.
+l'œuf (m) | yumurta | isim (e) | Je mange deux œufs. | İki yumurta yiyorum.
+## Öğünler
+le déjeuner | öğle yemeği | isim (e) | Le déjeuner est à midi. | Öğle yemeği saat on ikide.
+le dîner | akşam yemeği | isim (e) | On prépare le dîner ensemble. | Akşam yemeğini birlikte hazırlıyoruz.
+le repas | yemek, öğün | isim (e) | Le repas du dimanche est long. | Pazar yemeği uzun sürer.
+le goûter | ikindi kahvaltısı (çocuklar için) | isim (e) | Pour le goûter, une tartine. | İkindi için bir dilim ekmek.
+manger | yemek | fiil | On mange à quelle heure ? | Saat kaçta yiyoruz?
+boire (bu) | içmek | fiil · düzensiz | Tu bois quelque chose ? | Bir şey içer misin?
+avoir faim | acıkmak, aç olmak | ifade | J'ai très faim ! | Çok acıktım!
+avoir soif | susamak | ifade | Tu as soif ? | Susadın mı?
+le plat | yemek (tabak); servis tabağı | isim (e) | C'est un plat sénégalais. | Bu bir Senegal yemeği.
+la cantine | yemekhane | isim (d) | Les enfants mangent à la cantine. | Çocuklar yemekhanede yiyor.
+## Market
+le fromage | peynir | isim (e) | La France a beaucoup de fromages. | Fransa'da çok çeşit peynir var.
+la viande | et | isim (d) | Je ne mange pas de viande. | Et yemem.
+le poulet | tavuk | isim (e) | Ce soir, on mange du poulet. | Bu akşam tavuk yiyoruz.
+le jambon | jambon | isim (e) | Un sandwich au jambon ? | Jambonlu sandviç mi?
+la baguette | baget ekmek | isim (d) | Deux baguettes, s'il vous plaît. | İki baget lütfen.
+le riz | pirinç; pilav | isim (e) | Je fais du riz avec le poulet. | Tavuğun yanına pilav yapıyorum.
+les pâtes | makarna | isim (çoğul) | Les enfants adorent les pâtes. | Çocuklar makarnaya bayılır.
+la soupe | çorba | isim (d) | La soupe est trop chaude. | Çorba çok sıcak.
+le sucre | şeker | isim (e) | Tu prends du sucre ? | Şeker alır mısın?
+le sel | tuz | isim (e) | Passe-moi le sel, s'il te plaît. | Tuzu uzatır mısın lütfen?
+## Meyveler
+la pomme | elma | isim (d) | Je mange une pomme. | Bir elma yiyorum.
+la banane | muz | isim (d) | La banane est jaune. | Muz sarı.
+la poire | armut | isim (d) | Cette poire est très bonne. | Bu armut çok lezzetli.
+la fraise | çilek | isim (d) | Les fraises arrivent en mai. | Çilekler mayısta çıkar.
+le raisin | üzüm | isim (e) | J'aime le raisin noir. | Siyah üzümü severim.
+la cerise | kiraz | isim (d) | Les cerises sont rouges. | Kirazlar kırmızı.
+le citron | limon | isim (e) | Un thé au citron ? | Limonlu çay mı?
+la pêche | şeftali | isim (d) | Cette pêche est sucrée. | Bu şeftali tatlı.
+l'abricot (m) | kayısı | isim (e) | Les abricots de Malatya sont célèbres. | Malatya kayısısı ünlüdür.
+le fruit | meyve | isim (e) | Je mange un fruit par jour. | Günde bir meyve yerim.
+## Sebzeler
+le légume | sebze | isim (e) | Mange tes légumes, Théo ! | Sebzelerini ye Théo!
+la tomate | domates | isim (d) | Les tomates sont mûres. | Domatesler olgun.
+la pomme de terre | patates | isim (d) | Je pèle les pommes de terre. | Patatesleri soyuyorum.
+la carotte | havuç | isim (d) | Le lapin mange une carotte. | Tavşan bir havuç yiyor.
+l'oignon (m) | soğan | isim (e) | Coupe l'oignon, s'il te plaît. | Soğanı doğrar mısın lütfen?
+l'ail (m) | sarımsak | isim (e) | Il y a de l'ail dans la sauce. | Sosta sarımsak var.
+le poivron | dolmalık biber | isim (e) | J'achète un poivron vert. | Bir yeşil biber alıyorum.
+le concombre | salatalık | isim (e) | Une salade de concombre ? | Salatalık salatası mı?
+le champignon | mantar | isim (e) | J'adore la pizza aux champignons. | Mantarlı pizzaya bayılırım.
+l'aubergine (f) | patlıcan | isim (d) | L'aubergine est violette. | Patlıcan mor.
+## İçecekler
+l'eau (f) | su | isim (d) | Je bois beaucoup d'eau. | Çok su içerim.
+l'eau minérale (f) | maden suyu; şişe suyu | isim (d) | Une eau minérale, s'il vous plaît. | Bir şişe su lütfen.
+le vin | şarap | isim (e) | Le vin de Bordeaux est connu. | Bordeaux şarabı ünlüdür.
+la bière | bira | isim (d) | Il commande une bière. | Bir bira sipariş ediyor.
+le chocolat | çikolata; sıcak çikolata | isim (e) | Un chocolat chaud, s'il te plaît. | Bir sıcak çikolata lütfen.
+la limonade | gazoz; limonata | isim (d) | Les enfants boivent de la limonade. | Çocuklar gazoz içiyor.
+le sirop | şurup (suyla içilen) | isim (e) | Un sirop de menthe pour Inès. | Inès'e bir naneli şurup.
+le glaçon | buz küpü | isim (e) | Avec des glaçons ? | Buzlu mu?
+la boisson | içecek | isim (d) | Quelle boisson tu veux ? | Hangi içeceği istersin?
+le cidre | elma şarabı, sidr | isim (e) | En Bretagne, on boit du cidre. | Bretanya'da sidr içilir.
+## Restoran
+le restaurant | restoran | isim (e) | On va au restaurant ce soir ? | Bu akşam restorana gidelim mi?
+la carte | menü (yemek listesi); kart; harita | isim (d) | La carte, s'il vous plaît. | Menüyü alabilir miyim lütfen?
+le menu | fiks menü | isim (e) | Je prends le menu à quinze euros. | On beş avroluk menüyü alıyorum.
+l'addition (f) | hesap (restoranda) | isim (d) | L'addition, s'il vous plaît ! | Hesap lütfen!
+commander | sipariş vermek | fiil | Vous voulez commander ? | Sipariş vermek ister misiniz?
+réserver | rezervasyon yapmak, ayırtmak | fiil | Je réserve une table pour deux. | İki kişilik masa ayırtıyorum.
+l'entrée (f) | başlangıç yemeği; giriş | isim (d) | Comme entrée, une salade. | Başlangıç olarak bir salata.
+le plat principal | ana yemek | isim (e) | Le plat principal est du poisson. | Ana yemek balık.
+le dessert | tatlı (yemek sonu) | isim (e) | Et comme dessert ? | Tatlı olarak ne alırsınız?
+le pourboire | bahşiş | isim (e) | On laisse un pourboire ? | Bahşiş bırakalım mı?
+## Tatlar
+bon (bonne) | iyi; lezzetli | sıfat | Ce gâteau est très bon ! | Bu pasta çok lezzetli!
+mauvais | kötü | sıfat | Ce café est mauvais. | Bu kahve kötü.
+délicieux (délicieuse) | nefis, çok lezzetli | sıfat | La tarte est délicieuse. | Turta nefis.
+sucré | tatlı; şekerli | sıfat | Je n'aime pas le thé sucré. | Şekerli çayı sevmem.
+salé | tuzlu | sıfat | La soupe est trop salée. | Çorba çok tuzlu.
+épicé | baharatlı, acı | sıfat | Ce plat est épicé. | Bu yemek acı.
+amer (amère) | acı (tat) | sıfat | Le café sans sucre est amer. | Şekersiz kahve acıdır.
+chaud | sıcak | sıfat | Attention, c'est chaud ! | Dikkat, sıcak!
+froid | soğuk | sıfat | Je veux une boisson froide. | Soğuk bir içecek istiyorum.
+frais (fraîche) | taze; serin | sıfat | Le poisson est frais. | Balık taze.
+## Fransız lezzetleri
+le gâteau | pasta, kek | isim (e) | C'est un gâteau au chocolat. | Bu çikolatalı bir pasta.
+la crêpe | krep | isim (d) | On mange des crêpes en février. | Şubatta krep yenir.
+la tarte | turta, tart | isim (d) | Ma grand-mère fait une tarte aux pommes. | Büyükannem elmalı turta yapıyor.
+la glace | dondurma; buz; ayna | isim (d) | Une glace à la vanille ? | Vanilyalı dondurma mı?
+la madeleine | madlen keki | isim (d) | Les madeleines sont petites et douces. | Madlenler küçük ve yumuşaktır.
+le biscuit | bisküvi | isim (e) | Tu veux un biscuit ? | Bisküvi ister misin?
+la quiche | kiş (tuzlu tart) | isim (d) | La quiche lorraine est connue. | Lorraine kişi ünlüdür.
+le yaourt | yoğurt | isim (e) | Je mange un yaourt nature. | Sade yoğurt yiyorum.
+le bonbon | şeker (yenilen) | isim (e) | Pas trop de bonbons, Hugo ! | Çok fazla şeker yeme Hugo!
+le croque-monsieur | tost (jambonlu peynirli) | isim (e) | Un croque-monsieur et une salade. | Bir tost ve bir salata.
+## Miktarlar
+le kilo | kilo | isim (e) | Un kilo de tomates, s'il vous plaît. | Bir kilo domates lütfen.
+le gramme | gram | isim (e) | Deux cents grammes de fromage. | İki yüz gram peynir.
+le litre | litre | isim (e) | Un litre de lait. | Bir litre süt.
+le morceau | parça, dilim | isim (e) | Un morceau de gâteau ? | Bir dilim pasta?
+la tranche | dilim | isim (d) | Trois tranches de jambon. | Üç dilim jambon.
+le paquet | paket | isim (e) | Un paquet de biscuits. | Bir paket bisküvi.
+un peu | biraz | zarf | Un peu de sucre ? | Biraz şeker?
+beaucoup | çok; çok fazla | zarf | Il y a beaucoup de monde. | Çok kalabalık.
+assez | yeterince; oldukça | zarf | J'ai assez mangé. | Yeterince yedim.
+trop | fazla, çok fazla | zarf | C'est trop cher. | Bu çok pahalı.

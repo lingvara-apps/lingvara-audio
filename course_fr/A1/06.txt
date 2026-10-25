@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa
+## Şehirde
+la ville | şehir | isim (d) | Lyon est une belle ville. | Lyon güzel bir şehir.
+le village | köy | isim (e) | Mes grands-parents habitent dans un village. | Büyükannemler bir köyde oturuyor.
+le quartier | mahalle, semt | isim (e) | Mon quartier est calme. | Mahallem sakin.
+la rue | sokak, cadde | isim (d) | J'habite rue des Lilas. | Leylak Sokağı'nda oturuyorum.
+la place | meydan; yer; koltuk | isim (d) | On se retrouve sur la place. | Meydanda buluşalım.
+le centre-ville | şehir merkezi | isim (e) | Le centre-ville est à dix minutes. | Şehir merkezi on dakika uzaklıkta.
+le parc | park | isim (e) | Les enfants jouent au parc. | Çocuklar parkta oynuyor.
+le pont | köprü | isim (e) | Ce pont est très vieux. | Bu köprü çok eski.
+le musée | müze | isim (e) | Le musée est fermé le lundi. | Müze pazartesileri kapalı.
+l'église (f) | kilise | isim (d) | L'église est sur la place. | Kilise meydanda.
+## Binalar ve dükkânlar
+la banque | banka | isim (d) | La banque ouvre à neuf heures. | Banka saat dokuzda açılır.
+la poste | postane | isim (d) | Je vais à la poste. | Postaneye gidiyorum.
+la pharmacie | eczane | isim (d) | Il y a une pharmacie près d'ici ? | Yakında bir eczane var mı?
+l'hôpital (m) | hastane | isim (e) | Ma mère travaille à l'hôpital. | Annem hastanede çalışıyor.
+l'école (f) | okul | isim (d) | L'école est à côté du parc. | Okul parkın yanında.
+la mairie | belediye binası | isim (d) | Ils se marient à la mairie. | Belediyede evleniyorlar.
+le marché | pazar (açık hava) | isim (e) | Le marché est le samedi matin. | Pazar cumartesi sabahı kurulur.
+le supermarché | süpermarket | isim (e) | Le supermarché ferme à vingt heures. | Süpermarket saat yirmide kapanır.
+la boulangerie | fırın, ekmekçi | isim (d) | Je passe à la boulangerie. | Fırına uğruyorum.
+la gare | tren istasyonu, gar | isim (d) | La gare est loin d'ici ? | İstasyon buraya uzak mı?
+## Yön sormak
+à droite | sağda; sağa | zarf | Tournez à droite. | Sağa dönün.
+à gauche | solda; sola | zarf | La poste est à gauche. | Postane solda.
+tout droit | dümdüz | zarf | Continuez tout droit. | Dümdüz devam edin.
+tourner | dönmek; çevirmek | fiil | Tu tournes au feu. | Işıktan dönüyorsun.
+traverser | karşıya geçmek | fiil | Traversez la place. | Meydanı geçin.
+continuer | devam etmek | fiil | Continue jusqu'au pont. | Köprüye kadar devam et.
+le coin | köşe | isim (e) | Le café est au coin de la rue. | Kafe sokağın köşesinde.
+le plan | şehir haritası; plan | isim (e) | Tu as un plan de la ville ? | Şehir haritan var mı?
+le nord | kuzey | isim (e) | Lille est dans le nord. | Lille kuzeyde.
+le sud | güney | isim (e) | J'adore le sud de la France. | Fransa'nın güneyine bayılırım.
+## Toplu taşıma
+le bus | otobüs | isim (e) | Je prends le bus. | Otobüse biniyorum.
+le métro | metro | isim (e) | Le métro est rapide. | Metro hızlı.
+le tram | tramvay | isim (e) | Le tram passe toutes les cinq minutes. | Tramvay her beş dakikada bir geçer.
+le train | tren | isim (e) | Le train pour Bordeaux part à midi. | Bordeaux treni öğlen kalkıyor.
+l'avion (m) | uçak | isim (e) | Je vais à Montréal en avion. | Montreal'e uçakla gidiyorum.
+le taxi | taksi | isim (e) | On prend un taxi ? | Taksiye binelim mi?
+la station | durak, istasyon (metro) | isim (d) | Descends à la station Bastille. | Bastille istasyonunda in.
+l'arrêt (m) | durak (otobüs, tramvay) | isim (e) | L'arrêt de bus est là. | Otobüs durağı orada.
+le billet | bilet; banknot | isim (e) | Un billet pour Marseille, s'il vous plaît. | Marsilya'ya bir bilet lütfen.
+le ticket | bilet (metro, otobüs); fiş | isim (e) | J'ai perdu mon ticket de métro. | Metro biletimi kaybettim.
+## Hareket fiilleri
+aller (allé) | gitmek | fiil · düzensiz | Je vais au travail à pied. | İşe yürüyerek gidiyorum.
+partir (parti) | gitmek, ayrılmak; hareket etmek | fiil · düzensiz | Le bus part dans deux minutes. | Otobüs iki dakika sonra kalkıyor.
+arriver | varmak, gelmek | fiil | Le train arrive à quai. | Tren perona giriyor.
+prendre (pris) | almak; binmek | fiil · düzensiz | Je prends le métro tous les jours. | Her gün metroya biniyorum.
+monter | binmek; çıkmak | fiil | Monte dans la voiture ! | Arabaya bin!
+descendre (descendu) | inmek | fiil · düzensiz | Je descends au prochain arrêt. | Bir sonraki durakta iniyorum.
+conduire (conduit) | araba sürmek | fiil · düzensiz | Mon frère conduit bien. | Ağabeyim iyi araba kullanır.
+marcher | yürümek; çalışmak (alet) | fiil | J'aime marcher en ville. | Şehirde yürümeyi severim.
+attendre (attendu) | beklemek | fiil · düzensiz | J'attends le bus. | Otobüsü bekliyorum.
+rentrer | eve dönmek | fiil | Je rentre à sept heures. | Saat yedide eve dönüyorum.
+## Seyahat
+le voyage | yolculuk, seyahat | isim (e) | Bon voyage, Diego ! | İyi yolculuklar Diego!
+voyager | seyahat etmek | fiil | J'aime voyager en train. | Trenle seyahat etmeyi severim.
+les vacances | tatil | isim (çoğul) | Les vacances commencent demain ! | Tatil yarın başlıyor!
+la valise | bavul | isim (d) | Ma valise est lourde. | Bavulum ağır.
+le passeport | pasaport | isim (e) | N'oublie pas ton passeport ! | Pasaportunu unutma!
+l'hôtel (m) | otel | isim (e) | L'hôtel est près de la mer. | Otel denize yakın.
+le touriste | turist | isim (e) | Il y a beaucoup de touristes à Paris. | Paris'te çok turist var.
+visiter | gezmek, ziyaret etmek (yer) | fiil | Nous visitons le château. | Şatoyu geziyoruz.
+le séjour | kalış, konaklama | isim (e) | Bon séjour à Nice ! | Nice'te iyi tatiller!
+la plage | plaj, kumsal | isim (d) | On va à la plage cet après-midi. | Bu öğleden sonra plaja gidiyoruz.
+## Doğa
+la forêt | orman | isim (d) | On se promène dans la forêt. | Ormanda yürüyüş yapıyoruz.
+le lac | göl | isim (e) | Le lac d'Annecy est très beau. | Annecy Gölü çok güzel.
+l'île (f) | ada | isim (d) | La Corse est une île. | Korsika bir adadır.
+la campagne | kırsal, taşra | isim (d) | Le week-end, on va à la campagne. | Hafta sonu kırsala gidiyoruz.
+la colline | tepe | isim (d) | La maison est sur la colline. | Ev tepenin üstünde.
+le champ | tarla | isim (e) | Les vaches sont dans le champ. | İnekler tarlada.
+la nature | doğa | isim (d) | J'aime la nature. | Doğayı severim.
+l'herbe (f) | ot, çimen | isim (d) | On s'assoit dans l'herbe. | Çimenlere oturuyoruz.
+la pierre | taş | isim (d) | Le pont est en pierre. | Köprü taştan yapılmış.
+la vallée | vadi | isim (d) | La vallée est pleine de lavande. | Vadi lavantayla dolu.
+## Hava durumu
+le temps | hava (durumu); zaman | isim (e) | Quel temps fait-il ? | Hava nasıl?
+il fait beau | hava güzel | ifade | Aujourd'hui, il fait beau. | Bugün hava güzel.
+il fait mauvais | hava kötü | ifade | Il fait mauvais en Bretagne. | Bretanya'da hava kötü.
+il pleut | yağmur yağıyor | ifade | Il pleut, prends ton parapluie. | Yağmur yağıyor, şemsiyeni al.
+il neige | kar yağıyor | ifade | Il neige à la montagne. | Dağda kar yağıyor.
+le vent | rüzgâr | isim (e) | Il y a du vent aujourd'hui. | Bugün rüzgârlı.
+le nuage | bulut | isim (e) | Il y a des nuages dans le ciel. | Gökyüzünde bulutlar var.
+l'orage (m) | fırtına (gök gürültülü) | isim (e) | Il y a un orage ce soir. | Bu akşam fırtına var.
+la température | sıcaklık | isim (d) | La température baisse. | Sıcaklık düşüyor.
+le degré | derece | isim (e) | Il fait trente degrés ! | Hava otuz derece!
+## Yol ve mesafe
+ici | burada; buraya | zarf | J'habite ici. | Burada oturuyorum.
+là | orada; burada | zarf | Pose ton sac là. | Çantanı oraya koy.
+là-bas | orada, ötede | zarf | La gare est là-bas. | İstasyon ötede.
+partout | her yerde | zarf | Il y a du monde partout. | Her yer kalabalık.
+dehors | dışarıda | zarf | Les enfants jouent dehors. | Çocuklar dışarıda oynuyor.
+le kilomètre | kilometre | isim (e) | La plage est à deux kilomètres. | Plaj iki kilometre uzakta.
+le chemin | yol, patika | isim (e) | Tu connais le chemin ? | Yolu biliyor musun?
+la route | yol, karayolu | isim (d) | La route est longue. | Yol uzun.
+le trottoir | kaldırım | isim (e) | Marche sur le trottoir ! | Kaldırımda yürü!
+le feu | trafik ışığı; ateş | isim (e) | Le feu est rouge, attends ! | Işık kırmızı, bekle!
+## Taşıtlar ve yolculuk yerleri
+la moto | motosiklet | isim (d) | Mon cousin a une moto. | Kuzenimin bir motosikleti var.
+le bateau | gemi, tekne | isim (e) | On va en Corse en bateau. | Korsika'ya gemiyle gidiyoruz.
+le camion | kamyon | isim (e) | Le camion est très grand. | Kamyon çok büyük.
+à pied | yürüyerek, yaya | ifade | Je vais à l'école à pied. | Okula yürüyerek gidiyorum.
+l'aéroport (m) | havalimanı | isim (e) | L'aéroport est loin du centre. | Havalimanı merkeze uzak.
+le port | liman | isim (e) | Le port de Marseille est grand. | Marsilya limanı büyük.
+le parking | otopark | isim (e) | Le parking est plein. | Otopark dolu.
+l'essence (f) | benzin | isim (d) | Il n'y a plus d'essence. | Benzin kalmadı.
+le permis de conduire | ehliyet | isim (e) | J'ai mon permis de conduire ! | Ehliyetimi aldım!
+le quai | peron; rıhtım | isim (e) | Le train part du quai trois. | Tren üç numaralı perondan kalkıyor.
