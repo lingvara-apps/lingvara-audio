@@ -1,0 +1,135 @@
+# UNIT: The Turkish alphabet | 29 letters, ç ğ ı ö ş ü, the dotted and dotless i, the circumflex
+## Letters A – H
+A a | like the "a" in "father", but short; letter name "a" | harf · sesli | araba | car
+B b | like the "b" in "boy"; letter name "be" | harf · ünsüz | balık | fish
+C c | always like the "j" in "jam", never like "k" or "s"; letter name "ce" (jeh) | harf · ünsüz | cep | pocket
+Ç ç | like the "ch" in "church"; letter name "çe" (cheh) | harf · ünsüz | çay | tea
+D d | like the "d" in "day"; letter name "de" | harf · ünsüz | deniz | sea
+E e | like the "e" in "bed"; letter name "e" | harf · sesli | ev | house
+F f | like the "f" in "fun"; letter name "fe" | harf · ünsüz | fincan | cup
+G g | always hard like the "g" in "go", never like "gem"; letter name "ge" | harf · ünsüz | gece | night
+Ğ ğ | "soft g": never starts a word and is not really pronounced; it lengthens the vowel before it; letter name "yumuşak ge" | harf · ünsüz | dağ | mountain
+H h | like the "h" in "hat", always pronounced, even at the end of a word; letter name "he" | harf · ünsüz | hayır | no
+## Letters I – P
+I ı | dotless i: like the "a" in "about" or the "e" in "roses", lips relaxed and unrounded; letter name "ı" | harf · sesli | ılık | lukewarm
+İ i | dotted i: like the "ee" in "see", but short; the capital keeps its dot: İ | harf · sesli | ip | rope
+J j | like the "s" in "measure"; rare, mostly in words from French | harf · ünsüz | jilet | razor blade
+K k | like the "k" in "kite"; letter name "ke" | harf · ünsüz | kapı | door
+L l | light like the "l" in "leaf" next to e, i, ö, ü; darker like in "ball" next to a, ı, o, u; letter name "le" | harf · ünsüz | limon | lemon
+M m | like the "m" in "man"; letter name "me" | harf · ünsüz | masa | table
+N n | like the "n" in "no"; letter name "ne" | harf · ünsüz | nar | pomegranate
+O o | like the "o" in "more", short and pure, never "ow"; letter name "o" | harf · sesli | okul | school
+Ö ö | say the "e" in "bed" while rounding your lips (like German ö); letter name "ö" | harf · sesli | ördek | duck
+P p | like the "p" in "pen"; letter name "pe" | harf · ünsüz | para | money
+## Letters R – Z and the circumflex
+R r | a quick tap of the tongue, as in Spanish "pero"; at the end of a word it sounds softer, almost whispered; letter name "re" | harf · ünsüz | resim | picture
+S s | always like the "s" in "sun", never like "z"; letter name "se" | harf · ünsüz | su | water
+Ş ş | like the "sh" in "ship"; letter name "şe" (sheh) | harf · ünsüz | şeker | sugar
+T t | like the "t" in "top"; letter name "te" | harf · ünsüz | tuz | salt
+U u | like the "oo" in "food", but short; letter name "u" | harf · sesli | uçak | plane
+Ü ü | say the "ee" in "see" while rounding your lips (like German ü or French u); letter name "ü" | harf · sesli | üzüm | grapes
+V v | like the "v" in "very", but softer, with the lips barely touching; letter name "ve" | harf · ünsüz | vapur | ferry
+Y y | always a consonant, like the "y" in "yes"; letter name "ye" | harf · ünsüz | yol | road
+Z z | like the "z" in "zoo"; letter name "ze" | harf · ünsüz | zeytin | olive
+Â â | circumflex (şapka): makes a vowel long or softens the k, g or l before it; not a separate letter; Turkish has no q, w or x | harf · sesli | kâğıt | paper
+# UNIT: Special sounds and vowel harmony | Front and back vowels, harmony in suffixes, soft ğ, tricky consonants, stress
+## Front and back vowels
+a, ı, o, u | back vowels: made at the back of the mouth; they sound "deep" | ses | kutu | box
+e, i, ö, ü | front vowels: made at the front of the mouth; they sound "bright" | ses | gömlek | shirt
+ı | relax your tongue and lips and say the "a" of "sofa"; keep it short | ses | kırk | forty
+i / ı | the dot changes the word: "kil" (clay) and "kıl" (hair) are different words | ses | ışık | light
+ö | round your lips as for "o", then say "e" without moving them | ses | köprü | bridge
+ü | round your lips as for "u", then say "i" without moving them | ses | gül | rose
+o / ö | "on" means ten, "ön" means front: listen for the brighter ö | ses | ön | front
+u / ü | "uç" means tip, "üç" means three: listen for the brighter ü | ses | dün | yesterday
+aa, ee | a double vowel is said long, often with a tiny break: "sa-at" | ses | saat | hour; clock
+pure vowels | Turkish vowels never glide: "ben" is not "bain", "yol" is not "yowl" | ses | ders | lesson
+## Vowel harmony
+-lar / -ler | plural: after a, ı, o, u add -lar; after e, i, ö, ü add -ler | ses | kitaplar | books
+-ı / -i / -u / -ü | four-way harmony: a, ı → ı; e, i → i; o, u → u; ö, ü → ü | ses | evi | his house
+-da / -de | "in, at, on": the vowel follows the last vowel of the word | ses | evde | at home
+-dan / -den | "from": the same two-way harmony | ses | okuldan | from school
+-ta / -te | after the hard consonants ç f h k p s ş t, the d of a suffix becomes t | ses | parkta | in the park
+mı / mi / mu / mü | the question word is written separately but still follows harmony | ses | güzel mi? | is it nice?
+-lı / -li / -lu / -lü | "with": four-way harmony | ses | şekerli | with sugar
+-sız / -siz / -suz / -süz | "without": four-way harmony | ses | sütsüz | without milk
+saat → saatler | some borrowed words break harmony and take front-vowel suffixes | ses | saatler | hours; clocks
+-yor | the present tense ending never changes; only the vowel before it harmonises | ses | geliyor | he is coming
+## Soft ğ and tricky consonants
+ağ, ığ, oğ, uğ | after a back vowel, ğ just makes the vowel longer: "ağaç" sounds like "aaaç" | ses | ağaç | tree
+eğ, iğ, öğ, üğ | after a front vowel, ğ sounds like a light "y": "değil" sounds like "deyil" | ses | değil | not
+-ğ (end) | at the end of a word, ğ lengthens the last vowel: "yağ" sounds like "yaa" | ses | yağ | oil; fat
+c / ç | "cam" (glass) has a "j" sound, "çam" (pine) has a "ch" sound | ses | çam | pine
+s / ş | "su" (water) and "şu" (that) are different words | ses | şişe | bottle
+j / c | j is soft like "measure", c is hard like "jam" | ses | garaj | garage
+r (end) | a final r is soft and slightly breathy, almost like "rh" | ses | kar | snow
+h (middle, end) | h is always heard, even in the middle or at the end of a word | ses | sabah | morning
+v (after o, u) | between vowels and after o or u, v sounds lighter, close to English "w" | ses | tavuk | chicken
+kâ, gâ, lâ | a circumflex after k, g or l adds a light "y": "kâr" sounds like "kyar" | ses | dükkân | shop
+## Stress and spelling rules
+final stress | most Turkish words are stressed on the last syllable: ka-LEM | ses | kalem | pen
+moving stress | when you add a suffix, the stress moves to the new last syllable: a-ra-ba-LAR | ses | arabalar | cars
+place-name stress | most place names are stressed earlier: AN-ka-ra, i-STAN-bul | ses | Ankara | Ankara
+negative -ma / -me | the syllable before -ma or -me is stressed: GEL-me-dim | ses | gelmedim | I didn't come
+adverb stress | many adverbs and question words stress the first syllable: ŞİM-di, NE-re-de | ses | şimdi | now
+double consonants | double letters are held a little longer: an-ne | ses | anne | mother
+p ç t k → b c d ğ | before a vowel, a final p, ç, t or k often softens: kitap → kitabı | ses | kitabı | his book
+buffer y, n, s | when two vowels meet, a y (or n, s) is inserted: araba + ı → arabayı | ses | arabayı | the car (as object)
+apostrophe | suffixes on names are separated with an apostrophe: Ankara'da | ses | İzmir'de | in Izmir
+İ / I capitals | i becomes İ and ı becomes I in capitals: İstanbul, Irmak | ses | İstanbul | Istanbul
+# UNIT: First words | Numbers 1–10, colours, animals, things, food and drink
+## Numbers 1–10
+bir | one | sayı | Bir simit, lütfen. | One simit, please.
+iki | two | sayı | İki kedim var. | I have two cats.
+üç | three | sayı | Üç elma aldım. | I bought three apples.
+dört | four | sayı | Biz dört kişiyiz. | There are four of us.
+beş | five | sayı | Saat beşte geliyorum. | I'm coming at five.
+altı | six | sayı | Kızım altı yaşında. | My daughter is six.
+yedi | seven | sayı | Bir haftada yedi gün var. | There are seven days in a week.
+sekiz | eight | sayı | Dün sekiz saat uyudum. | I slept eight hours yesterday.
+dokuz | nine | sayı | Ders dokuzda başlıyor. | The lesson starts at nine.
+on | ten | sayı | On dakika bekle. | Wait ten minutes.
+## Colours
+kırmızı | red | sıfat | Kırmızı bir elma. | A red apple.
+mavi | blue | sıfat | Deniz bugün çok mavi. | The sea is very blue today.
+sarı | yellow | sıfat | Sarı bir taksi geldi. | A yellow taxi came.
+yeşil | green | sıfat | Yeşil çay sever misin? | Do you like green tea?
+beyaz | white | sıfat | Beyaz kedi uyuyor. | The white cat is sleeping.
+siyah | black | sıfat | Siyah bir ceket. | A black jacket.
+turuncu | orange (colour) | sıfat | Turuncu çanta senin mi? | Is the orange bag yours?
+mor | purple | sıfat | Mor çiçekler çok güzel. | Purple flowers are very pretty.
+pembe | pink | sıfat | Pembe bir elbise aldı. | She bought a pink dress.
+kahverengi | brown | sıfat | Kahverengi bir köpek. | A brown dog.
+## Animals
+kedi | cat | isim | Kedi koltukta uyuyor. | The cat is sleeping on the sofa.
+köpek | dog | isim | Köpek havlıyor. | The dog is barking.
+kuş | bird | isim | Ağaçta bir kuş var. | There's a bird in the tree.
+balık | fish | isim | Balık suda yaşar. | Fish live in water.
+at | horse | isim | At çok hızlı koşuyor. | The horse runs very fast.
+inek | cow | isim | İnek süt verir. | The cow gives milk.
+tavuk | chicken; hen | isim | Tavuk yumurtluyor. | The hen is laying eggs.
+koyun | sheep | isim | Koyunlar dağda. | The sheep are on the mountain.
+fare | mouse | isim | Mutfakta bir fare var! | There's a mouse in the kitchen!
+aslan | lion | isim | Aslan güçlü bir hayvan. | The lion is a strong animal.
+## Things
+kitap | book | isim | Bu kitap çok güzel. | This book is very good.
+kalem | pen; pencil | isim | Kalemin var mı? | Do you have a pen?
+masa | table | isim | Masa çok büyük. | The table is very big.
+sandalye | chair | isim | Sandalyeye otur. | Sit on the chair.
+kapı | door | isim | Kapıyı kapat, lütfen. | Close the door, please.
+pencere | window | isim | Pencere açık. | The window is open.
+telefon | phone | isim | Telefonun çalıyor. | Your phone is ringing.
+anahtar | key | isim | Anahtar nerede? | Where is the key?
+çanta | bag | isim | Çantam çok ağır. | My bag is very heavy.
+saat | hour; clock; watch | isim | Saat kaç? | What time is it?
+## Food and drink
+su | water | isim | Bir bardak su, lütfen. | A glass of water, please.
+çay | tea | isim | Çay ister misin? | Would you like some tea?
+kahve | coffee | isim | Bir Türk kahvesi içelim. | Let's have a Turkish coffee.
+ekmek | bread | isim | Ekmek taze mi? | Is the bread fresh?
+süt | milk | isim | Süt soğuk. | The milk is cold.
+elma | apple | isim | Elma çok tatlı. | The apple is very sweet.
+peynir | cheese | isim | Beyaz peynir severim. | I like white cheese.
+yumurta | egg | isim | Kahvaltıda iki yumurta yedim. | I ate two eggs at breakfast.
+simit | simit (sesame bread ring) | isim | Sabah simit yedik. | We had simit in the morning.
+çorba | soup | isim | Çorba çok sıcak. | The soup is very hot.
