@@ -1,0 +1,111 @@
+# UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
+## Çekirdek aile
+die Familie (die Familien) | aile | isim (d) | Meine Familie wohnt in Köln. | Ailem Köln'de oturuyor.
+die Eltern | anne baba, ebeveynler | isim (çoğul) | Meine Eltern kommen aus Izmir. | Annemle babam İzmirli.
+der Vater (die Väter) | baba | isim (e) | Mein Vater ist Busfahrer. | Babam otobüs şoförü.
+die Mutter (die Mütter) | anne | isim (d) | Meine Mutter kocht sehr gut. | Annem çok güzel yemek yapar.
+der Bruder (die Brüder) | erkek kardeş; ağabey | isim (e) | Mein Bruder ist zwanzig. | Erkek kardeşim yirmi yaşında.
+die Schwester (die Schwestern) | kız kardeş; abla | isim (d) | Meine Schwester studiert in Wien. | Kız kardeşim Viyana'da okuyor.
+die Geschwister | kardeşler | isim (çoğul) | Hast du Geschwister? | Kardeşin var mı?
+der Sohn (die Söhne) | oğul | isim (e) | Ihr Sohn heißt Felix. | Oğlunun adı Felix.
+die Tochter (die Töchter) | kız evlat | isim (d) | Unsere Tochter geht in die Schule. | Kızımız okula gidiyor.
+das Kind (die Kinder) | çocuk | isim (o) | Sie haben zwei Kinder. | İki çocukları var.
+## Geniş aile
+die Großeltern | büyükanne ve büyükbaba | isim (çoğul) | Am Sonntag besuchen wir die Großeltern. | Pazar günü büyükannemlerle büyükbabamları ziyaret ediyoruz.
+der Opa (die Opas) | dede | isim (e) | Mein Opa ist achtzig Jahre alt. | Dedem seksen yaşında.
+die Oma (die Omas) | nine, babaanne, anneanne | isim (d) | Oma backt einen Apfelkuchen. | Ninem elmalı kek yapıyor.
+der Onkel (die Onkel) | amca, dayı, enişte | isim (e) | Mein Onkel wohnt in Bern. | Amcam Bern'de oturuyor.
+die Tante (die Tanten) | hala, teyze, yenge | isim (d) | Meine Tante hat drei Katzen. | Teyzemin üç kedisi var.
+der Cousin (die Cousins) | kuzen (erkek) | isim (e) | Mein Cousin spielt Fußball. | Kuzenim futbol oynuyor.
+die Cousine (die Cousinen) | kuzen (kız) | isim (d) | Meine Cousine heiratet im Mai. | Kuzenim mayısta evleniyor.
+der Enkel (die Enkel) | erkek torun; torun | isim (e) | Die Oma spielt mit ihrem Enkel. | Nine torunuyla oynuyor.
+der Neffe (die Neffen) | erkek yeğen | isim (e) | Mein Neffe ist noch ein Baby. | Yeğenim daha bebek.
+die Nichte (die Nichten) | kız yeğen | isim (d) | Meine Nichte lernt Klavier. | Yeğenim piyano öğreniyor.
+## İnsanlar
+der Mann (die Männer) | adam, erkek; koca | isim (e) | Der Mann dort ist mein Nachbar. | Oradaki adam komşum.
+die Frau (die Frauen) | kadın; eş; Bayan (hitap) | isim (d) | Das ist meine Frau Selin. | Bu eşim Selin.
+das Baby (die Babys) | bebek | isim (o) | Das Baby lacht. | Bebek gülüyor.
+der Junge (die Jungen) | erkek çocuk, oğlan | isim (e) | Der Junge heißt Elias. | Oğlanın adı Elias.
+das Mädchen (die Mädchen) | kız çocuk | isim (o) | Das Mädchen liest ein Buch. | Kız bir kitap okuyor.
+der Freund (die Freunde) | arkadaş (erkek); erkek arkadaş | isim (e) | Ben ist mein bester Freund. | Ben en iyi arkadaşım.
+die Freundin (die Freundinnen) | arkadaş (kız); kız arkadaş | isim (d) | Ich gehe mit meiner Freundin ins Kino. | Kız arkadaşımla sinemaya gidiyorum.
+der Mensch (die Menschen) | insan | isim (e) | Hier leben viele Menschen. | Burada çok insan yaşıyor.
+die Leute | insanlar, millet | isim (çoğul) | Die Leute hier sind sehr nett. | Buradaki insanlar çok nazik.
+der Nachbar (die Nachbarn) | komşu | isim (e) | Unser Nachbar hat einen Hund. | Komşumuzun bir köpeği var.
+## Medeni durum ve aile olayları
+verheiratet | evli | sıfat | Bist du verheiratet? | Evli misin?
+ledig | bekâr | sıfat | Nein, ich bin ledig. | Hayır, bekârım.
+geschieden | boşanmış | sıfat | Meine Eltern sind geschieden. | Annemle babam boşanmış.
+heiraten | evlenmek | fiil | Mia und Deniz heiraten im Juni. | Mia ile Deniz haziranda evleniyor.
+die Hochzeit (die Hochzeiten) | düğün | isim (d) | Die Hochzeit ist in einem Schloss. | Düğün bir şatoda.
+der Geburtstag (die Geburtstage) | doğum günü | isim (e) | Wann hast du Geburtstag? | Doğum günün ne zaman?
+geboren | doğmuş, doğumlu | sıfat | Ich bin in Ankara geboren. | Ankara'da doğdum.
+das Paar (die Paare) | çift | isim (o) | Sie sind ein schönes Paar. | Güzel bir çiftler.
+zusammen | birlikte | zarf | Wir essen zusammen. | Birlikte yemek yiyoruz.
+allein | yalnız, tek başına | zarf | Mein Opa wohnt allein. | Dedem yalnız yaşıyor.
+## Meslekler
+der Lehrer (die Lehrer) | öğretmen (erkek) | isim (e) | Herr Braun ist Lehrer. | Braun Bey öğretmen.
+die Ärztin (die Ärztinnen) | doktor (kadın) | isim (d) | Meine Mutter ist Ärztin. | Annem doktor.
+der Ingenieur (die Ingenieure) | mühendis | isim (e) | Kerem arbeitet als Ingenieur. | Kerem mühendis olarak çalışıyor.
+der Krankenpfleger (die Krankenpfleger) | hemşire (erkek), hasta bakıcı | isim (e) | Der Krankenpfleger ist sehr freundlich. | Hemşire çok güler yüzlü.
+der Verkäufer (die Verkäufer) | satıcı, tezgâhtar | isim (e) | Der Verkäufer hilft mir. | Satıcı bana yardım ediyor.
+die Kellnerin (die Kellnerinnen) | garson (kadın) | isim (d) | Die Kellnerin bringt die Karte. | Garson menüyü getiriyor.
+der Koch (die Köche) | aşçı | isim (e) | Der Koch macht Schnitzel. | Aşçı şnitzel yapıyor.
+die Polizistin (die Polizistinnen) | polis (kadın) | isim (d) | Die Polizistin zeigt uns den Weg. | Polis bize yolu gösteriyor.
+der Student (die Studenten) | üniversite öğrencisi (erkek) | isim (e) | Tim ist Student in Leipzig. | Tim Leipzig'de üniversite öğrencisi.
+die Schülerin (die Schülerinnen) | öğrenci (okul, kız) | isim (d) | Lea ist eine gute Schülerin. | Lea iyi bir öğrenci.
+## İş ve meslek
+der Beruf (die Berufe) | meslek | isim (e) | Was sind Sie von Beruf? | Mesleğiniz ne?
+arbeiten | çalışmak | fiil | Ich arbeite in einem Hotel. | Bir otelde çalışıyorum.
+die Arbeit (die Arbeiten) | iş; çalışma | isim (d) | Die Arbeit macht mir Spaß. | İşimi seviyorum.
+der Kollege (die Kollegen) | iş arkadaşı | isim (e) | Mein Kollege kommt aus Polen. | İş arkadaşım Polonyalı.
+die Firma (die Firmen) | şirket, firma | isim (d) | Die Firma ist in Hamburg. | Şirket Hamburg'da.
+der Chef (die Chefs) | patron, şef | isim (e) | Mein Chef ist heute nicht da. | Patronum bugün yok.
+der Bäcker (die Bäcker) | fırıncı | isim (e) | Der Bäcker beginnt um vier Uhr. | Fırıncı saat dörtte işe başlıyor.
+der Mechaniker (die Mechaniker) | tamirci, makinist | isim (e) | Der Mechaniker repariert das Auto. | Tamirci arabayı tamir ediyor.
+der Taxifahrer (die Taxifahrer) | taksi şoförü | isim (e) | Der Taxifahrer kennt die Stadt gut. | Taksi şoförü şehri iyi tanıyor.
+die Architektin (die Architektinnen) | mimar (kadın) | isim (d) | Die Architektin zeichnet ein Haus. | Mimar bir ev çiziyor.
+## Görünüş
+groß | büyük; uzun boylu | sıfat | Mein Bruder ist sehr groß. | Ağabeyim çok uzun boylu.
+klein | küçük; kısa boylu | sıfat | Unsere Wohnung ist klein. | Dairemiz küçük.
+jung | genç | sıfat | Die Lehrerin ist noch jung. | Öğretmen daha genç.
+alt | yaşlı; eski | sıfat | Wie alt bist du? | Kaç yaşındasın?
+schlank | zayıf, ince | sıfat | Sie ist groß und schlank. | Uzun boylu ve ince.
+dick | şişman; kalın | sıfat | Unser Kater ist ein bisschen dick. | Erkek kedimiz biraz şişman.
+blond | sarışın | sıfat | Das Mädchen hat blonde Haare. | Kızın sarı saçları var.
+hübsch | güzel, hoş, sevimli | sıfat | Das ist ein hübsches Kleid. | Bu hoş bir elbise.
+das Haar (die Haare) | saç; kıl | isim (o) | Er hat kurze, dunkle Haare. | Kısa, koyu renk saçları var.
+die Brille (die Brillen) | gözlük | isim (d) | Ich brauche eine neue Brille. | Yeni bir gözlüğe ihtiyacım var.
+## Karakter
+nett | kibar, sevimli, iyi | sıfat | Deine Schwester ist sehr nett. | Kız kardeşin çok sevimli.
+freundlich | güler yüzlü, dostça | sıfat | Die Verkäuferin ist freundlich. | Satıcı kadın güler yüzlü.
+lustig | komik, eğlenceli | sıfat | Mein Onkel ist immer lustig. | Amcam hep eğlencelidir.
+ruhig | sakin, sessiz | sıfat | Mein Vater ist ein ruhiger Mensch. | Babam sakin bir insan.
+fleißig | çalışkan | sıfat | Ahmet ist sehr fleißig. | Ahmet çok çalışkan.
+faul | tembel | sıfat | Am Sonntag bin ich faul. | Pazar günleri tembelimdir.
+intelligent | zeki | sıfat | Das Kind ist sehr intelligent. | Çocuk çok zeki.
+sympathisch | sempatik, cana yakın | sıfat | Ich finde ihn sympathisch. | Onu sempatik buluyorum.
+ehrlich | dürüst | sıfat | Sei bitte ehrlich zu mir. | Lütfen bana karşı dürüst ol.
+höflich | nazik, terbiyeli | sıfat | Die Kinder sind sehr höflich. | Çocuklar çok terbiyeli.
+## Kişisel bilgiler
+das Formular (die Formulare) | form | isim (o) | Bitte füllen Sie das Formular aus. | Lütfen formu doldurun.
+ausfüllen | doldurmak (form) | fiil | Ich fülle den Antrag aus. | Başvuruyu dolduruyorum.
+der Geburtsort (die Geburtsorte) | doğum yeri | isim (e) | Mein Geburtsort ist Trabzon. | Doğum yerim Trabzon.
+die Telefonnummer (die Telefonnummern) | telefon numarası | isim (d) | Wie ist deine Telefonnummer? | Telefon numaran ne?
+die E-Mail (die E-Mails) | e-posta | isim (d) | Ich schreibe dir eine E-Mail. | Sana bir e-posta yazıyorum.
+männlich | erkek, eril | sıfat | Kreuzen Sie an: männlich oder weiblich. | İşaretleyin: erkek mi kadın mı.
+weiblich | kadın, dişil | sıfat | Das Wort „Katze“ ist weiblich. | "Katze" kelimesi dişildir.
+der Familienstand | medeni hâl | isim (e) | Familienstand: verheiratet. | Medeni hâl: evli.
+unterschreiben (unterschrieb, unterschrieben) | imzalamak | fiil · düzensiz | Bitte unterschreiben Sie hier. | Lütfen buraya imza atın.
+die Staatsangehörigkeit (die Staatsangehörigkeiten) | vatandaşlık, uyruk | isim (d) | Meine Staatsangehörigkeit ist türkisch. | Uyruğum Türk.
+## Aile içinde
+lieben | sevmek (aşkla) | fiil | Ich liebe meine Familie. | Ailemi seviyorum.
+kennen (kannte, gekannt) | tanımak, bilmek | fiil · düzensiz | Kennst du meinen Bruder? | Ağabeyimi tanıyor musun?
+besuchen | ziyaret etmek | fiil | Wir besuchen heute unsere Tante. | Bugün teyzemizi ziyaret ediyoruz.
+helfen (half, geholfen) | yardım etmek | fiil · düzensiz | Ich helfe meiner Mutter. | Anneme yardım ediyorum.
+sich kümmern | ilgilenmek, bakmak | fiil · dönüşlü | Sie kümmert sich um die Kinder. | Çocuklarla o ilgileniyor.
+streiten (stritt, gestritten) | kavga etmek, tartışmak | fiil · düzensiz | Die Geschwister streiten oft. | Kardeşler sık sık kavga ediyor.
+anrufen (rief an, angerufen) | telefonla aramak | fiil · düzensiz | Ich rufe meine Oma an. | Ninemi arıyorum.
+feiern | kutlamak | fiil | Wir feiern Omas Geburtstag. | Ninemin doğum gününü kutluyoruz.
+gratulieren | tebrik etmek | fiil | Ich gratuliere dir zum Geburtstag! | Doğum gününü kutlarım!
+vermissen | özlemek | fiil | Ich vermisse meine Familie. | Ailemi özlüyorum.
