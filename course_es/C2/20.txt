@@ -1,0 +1,111 @@
+# UNIT: Retorik ve hitabet | Hitabet sanatı, söz sanatları, tartışma, safsatalar, sunum dili
+## Retorik temelleri
+elocutio | ifade biçimi, sözcük seçimi ve süsleme sanatı | isim (d) | La elocutio requiere un dominio absoluto de la lengua. | Sözcük seçimi ve ifade biçimi dilin kusursuz hâkimiyetini gerektirir.
+inventio | düşünce bulma, argüman üretme aşaması | isim (d) | La inventio es el primer paso del discurso clásico. | Düşünce bulma ve argüman üretme klasik söylevin ilk adımıdır.
+dispositio | argümanları ve bölümleri sıraya koyma planı | isim (d) | Una buena dispositio garantiza la claridad persuasiva. | İyi bir düzenleme planı ikna edici netliği garanti eder.
+memoria | hitabette sunumu ezberleme ve akılda tutma becerisi | isim (d) | La memoria es clave para discursos sin notas. | Hafıza, notsuz yapılan konuşmalar için anahtardır.
+actio | konuşma sırasında beden dili ve ses tonu kullanımı | isim (d) | La actio incluye gestos y modulación vocal. | Beden dili ve ses tonu kullanımı jestleri ve ses modülasyonunu içerir.
+exordium | dinleyicinin dikkatini çeken konuşma giriş bölümü | isim (o) | El exordium debe cautivar al público desde el inicio. | Dinleyiciyi ilk andan büyüleyen giriş bölümü çok önemlidir.
+narratio | olayları veya konunun özünü aktaran anlatı kısmı | isim (d) | Una narratio concisa facilita la comprensión general. | Özlü bir anlatı kısmı genel kavramayı kolaylaştırır.
+peroratio | konuşmayı etkileyici biçimde bitiren sonuç bölümü | isim (d) | La peroratio emociona profundamente a los oyentes. | Sonuç bölümü dinleyicileri derinden duygulandırır.
+aptum | duruma ve dinleyiciye uygun üslup seçme ilkesi | isim (o) | El aptum exige adaptar el tono a la audiencia. | Duruma uygun üslup seçme ilkesi tonu kitleye uyarlamayı gerektirir.
+elocuencia | sözü etkili, akıcı ve ikna edici söyleme yeteneği | isim (d) | Su gran elocuencia cautivó a los diputados en el hemiciclo. | Büyük etkili söyleme yeteneği parlamentodaki milletvekillerini büyüledi.
+## Söz sanatları ve figürler
+metáfora | benzetme edatı kullanmadan yapılan örtük benzetme | isim (d) | Su metáfora sobre el tiempo resultó muy poética. | Zaman hakkındaki örtük benzetmesi oldukça şiirsel oldu.
+metonimia | bir kavramı yakın ilişkili başka adla ifade etme sanatı | isim (d) | Usó la metonimia al decir que leyó todo Cervantes. | Bütün Cervantes'i okuduğunu söylerken ad aktarması kullandı.
+hipérbole | anlatımı güçlendirmek için yapılan aşırı abartma | isim (d) | Esa hipérbole exageraba demasiado los hechos reales. | Bu abartma gerçek olayları fazlasıyla abartıyordu.
+alegoría | soyut bir kavramı somut varlıklarla simgeleme sanatı | isim (d) | Su cuidada alegoría explicaba la complejidad del alma. | Özenli alegorisi ruhun karmaşıklığını açıklıyordu.
+antítesis | birbirine zıt iki fikri veya kavramı yan yana getirme | isim (d) | La antítesis entre luz y oscuridad enriquece el texto. | Işık ve karanlık arasındaki zıtlıklar metni zenginleştirir.
+anáfora | art arda gelen cümlelerin aynı kelimeyle başlaması | isim (d) | La anáfora poética acentuaba el ritmo de la declamación. | Şiirsel yineleme şiir okumanın ritmini vurguluyordu.
+polisíndeton | bağlaçları sıkça kullanarak anlatıma yoğunluk katma | isim (o) | El polisíndeton ralentiza la lectura y aporta solemnidad. | Sık bağlaç kullanımı okumayı yavaşlatır ve ağırlık katar.
+oxímoron | birbirine zıt iki kelimenin bir arada kullanılması | isim (o) | Su silencio elocuente formaba un bello oxímoron. | Etkili sessizliği güzel bir tezat oluşturuyordu.
+sinekdoche | bütün yerine parça veya parça yerine bütün kullanma | isim (d) | Empleó la sinekdoche al referirse a las velas del puerto. | Limandaki yelkenlerden söz ederken parça-bütün ilişkisi kullandı.
+aliteración | aynı seslerin yinelenmesiyle ahenk oluşturma sanatı | isim (d) | La aliteración imitaba el murmullo constante del arroyo. | Ses yinelemesi derenin sürekli mırıltısını taklit ediyordu.
+## Tartışma teknikleri ve mantık
+refutación | karşı tarafın tezlerini çürütme ve geçersiz kılma | isim (d) | Su rigurosa refutación desmanteló los argumentos rivales. | Titiz çürütme çalışması rakip argümanları sarstı.
+concesión | tartışmada rakibin haklı olduğu bir noktayı kabul etme | isim (d) | Hizo una pequeña concesión antes de relanzar su ataque. | Saldırısını yenilemeden önce küçük bir taviz verdi.
+retorsión | rakibin argümanını kendi aleyhine ustaca çevirme | isim (d) | La hábil retorsión sorprendió al ponente en el estrado. | Ustaca argümanı çevirme kürsüdeki konuşmacıyı şaşırttı.
+diferenciación | kavramlar arasındaki ince farkları net biçimde ayırma | isim (d) | Es vital establecer una diferenciación entre ley y justicia. | Yasa ile adalet arasında ince bir ayrım yapmak hayati önem taşır.
+reticencia | söylenmesi gerekeni yarım bırakıp ima etme sanatı | isim (d) | Su calculada reticencia generó gran expectación política. | Hesaplı ima sanatı büyük siyasi beklenti yarattı.
+premisas | mantıksal bir çıkarımın dayandığı temel önermeler | isim (çoğul) | Sus premisas lógicas conducían a una conclusión errónea. | Mantıksal önermeleri yanlış bir sonuca yol açıyordu.
+dialéctica | tez ve antitez çatışmasından yeni sentez üretme | isim (d) | La dialéctica platónica busca siempre la verdad última. | Felsefi diyalektik her zaman nihai hakikati arar.
+silogismo | iki önermeden zorunlu sonuç çıkarma akıl yürütmesi | isim (o) | El clásico silogismo aristotélico resulta impecable. | Klasik Aristo tasdiki kusursuz sonuç verir.
+corolario | kanıtlanan bir önermeden çıkarılan doğal sonuç | isim (o) | Aquella victoria fue el corolario lógico de su esfuerzo. | O zafer, çabalarının mantıksal doğal sonucuydu.
+comprobación | kesin delillerle bir tezin doğruluğunu kanıtlama | isim (d) | Su rigurosa comprobación convenció al tribunal académico. | Titiz kanıtlama akademik jüriyi ikna etti.
+## Safsatalar ve mantık hataları
+falacia | kulağa mantıklı gelen fakat yanıltıcı mantık hatası | isim (d) | Su discurso estaba plagado de sutiles falacias formales. | Konuşması ince safsatalarla doluydu.
+ad_hominem | fikri değil doğrudan kişinin kendisine yönelik saldırı | isim (o) | Un argumento ad_hominem descalifica al adversario sin razón. | Kişiye saldırı argümanı rakibi haksız yere gözden düşürür.
+ad_populum | çoğunluğun kabulüne dayanarak doğru olduğunu savunan | isim (o) | La falacia ad_populum apela engañosamente a las masas. | Halkı arkaya alma safsatası kitlelere aldatıcı şekilde seslenir.
+ad_verecundiam | otoriteye körü körüne dayanarak yapılan yanılgı | isim (o) | Incurrió en falacia ad_verecundiam al citar a falsos expertos. | Sahte uzmanlardan alıntı yaparak otorite safsatasına düştü.
+ad_ignorantiam | kanıtlanamamış durumu doğru kabul eden safsata | isim (o) | La falacia ad_ignorantiam presupone validez por falta de pruebas. | Kanıt yokluğundan dolayı doğruluk varsayan safsatadır.
+hombre_de_paja | rakibin argümanını çarpıtıp zayıflatma taktiği | isim (o) | Usó la táctica del hombre_de_paja para ridiculizar al rival. | Rakibi küçük düşürmek için çarpıtılmış argüman taktiği kullandı.
+falso_dilema | sadece iki seçenek varmış gibi sunan hatalı mantık | isim (o) | Su argumento incurría claramente en un falso dilema político. | Argümanı açıkça sahte ikilem hatasına düşüyordu.
+generalizacion | yetersiz örnekten yola çıkarak genelleme yapma | isim (d) | Una apresurada generalización arruina cualquier estudio serio. | Aceleci genelleme her türlü ciddi çalışmayı mahveder.
+peticion_de_principio | kanıtlanması gerekeni baştan doğru kabul eden hata | isim (d) | Su premisa principal contenía una petición_de_principio. | Ana önermesi döngüsel kanıtlama hatası barındırıyordu.
+causa_falsa | raslantısal ardışıklığı neden-sonuç sanma hatası | isim (d) | La falacia de causa falsa confunde correlación con origen. | Yanlış neden safsatası korelasyonu kökenle karıştırır.
+## Sunum dili ve hitabet akışı
+paso | bölümler veya fikirler arasında akıcı geçiş sağlama | isim (o) | Un buen paso mantiene el interés de un auditorio exigente. | İyi bir geçiş talepkar dinleyici kitlesinin ilgisini canlı tutar.
+modulación | konuşurken ses yüksekliğini ve tonunu ayarlama | isim (d) | La adecuada modulación vocal evita la monotonía verbal. | Uygun ses tonu ayarı sözlü tekdüzeliği önler.
+énfasis | önemli kelimelerin üzerine basarak vurgu yapma | isim (o) | Puso especial énfasis en los datos económicos clave. | Temel ekonomik verilerin üzerine özel bir vurgu yaptı.
+proyección | sesin arka sıralara kadar net ve güçlü ulaşması | isim (d) | Su excelente proyección vocal llenaba todo el anfiteatro. | Mükemmel ses projeksiyonu tüm amfitiyatroyu dolduruyordu.
+discurso | topluluk önünde yapılan planlı ve resmi konuşma | isim (o) | Pronunció un discurso memorable sobre la libertad de prensa. | Basın özgürlüğü üzerine unutulmaz bir konuşma yaptı.
+orador | etkili ve ikna edici konuşma yapma yeteneğine sahip kişi | isim (o) | El carismático orador cautivó a los delegados internacionales. | Karizmatik konuşmacı uluslararası delegeleri büyüledi.
+auditorio | konuşmayı dinlemek için toplanan insan topluluğu | isim (o) | El auditorio aplaudió de pie tras las palabras finales. | Dinleyici kitlesi kapanış sözlerinin ardından ayakta alkışladı.
+tesis | savunulan, kanıtlanmaya çalışılan ana düşünce | isim (d) | Su tesis doctoral revolucionó los estudios filológicos. | Doktora tezi filoloji çalışmalarında devrim yarattı.
+argumento | bir tezi kanıtlamak veya desteklemek için öne sürülen | isim (o) | Presentó un sólido argumento respaldado por estadísticas. | İstatistiklerle desteklenen sağlam bir argüman sundu.
+ponencia | kongre veya sempozyumda sunulan resmi bildiri | isim (d) | Su brillante ponencia abrió el debate sobre la inteligencia. | Parlak bildirisi yapay zeka üzerine tartışmayı başlattı.
+## İkna ve psikolojik etkiler
+ethos | konuşmacının güvenilirliği ve karakter saygınlığı | isim (o) | Un fuerte ethos personal fortalece cualquier propuesta ética. | Güçlü konuşmacı güvenilirliği her etik öneriyi güçlendirir.
+pathos | dinleyicilerde duygusal tepki ve coşku uyandırma | isim (o) | El apasionado pathos conmovió hondamente a los presentes. | Tutkulu duygusal hitabet oradakileri derinden sarstı.
+logos | mantıksal kanıtlar ve akıl yürütmeye dayalı ikna gücü | isim (o) | Su discurso combinaba hábilmente el pathos y el riguroso logos. | Konuşması duyguyu ve titiz mantıksal argümanı ustaca birleştiriyordu.
+persuasión | başkalarının düşünce ve davranışlarını etkileme sanatı | isim (d) | La sutil persuasión requiere empatía y argumentos sólidos. | İnce ikna yeteneği empati ve sağlam argümanlar gerektirir.
+credibilidad | başkaları tarafından güvenilir ve dürüst bulunma | isim (d) | Perdió toda credibilidad tras contradecir sus propias promesas. | Kendi sözleriyle çeliştikten sonra tüm güvenilirliğini kaybetti.
+carisma | çevresindekileri büyüleme ve etkileme çekiciliği | isim (o) | Su natural carisma facilitó el acuerdo entre ambas partes. | Doğal çekiciliği iki taraf arasındaki anlaşmayı kolaylaştırdı.
+empatía_humana | dinleyicinin duygularını anlama ve bağ kurma yetisi | isim (d) | Demostró gran empatía_humana al conectar con las inquietudes ajenas. | Başkalarının kaygılarıyla bağ kurarak büyük empati gösterdi.
+asertividad_verbal | haklarını ve düşüncelerini özgüvenle savunma becerisi | isim (d) | La asertividad_verbal ayuda a debatir sin caer en la agresividad. | Özgüvenli iletişim saldırganlığa düşmeden tartışmaya yardımcı olur.
+influencia | başkalarının kararlarını dolaylı yoldan yönlendirme | isim (d) | Su silenciosa influencia cambió el rumbo de la asamblea. | Sessiz etkisi meclisin gidişatını değiştirdi.
+prestigio | toplumda kazanılan saygınlık ve itibar yüksekliği | isim (o) | Su indiscutible prestigio académico avalaba cada afirmación. | Tartışmasız akademik itibarı her iddiasını destekliyordu.
+## Münazara ve akademik tartışma
+debate | farklı görüşlerin kurallar çerçevesinde çarpışması | isim (o) | El debate televisivo analizó las reformas fiscales urgentes. | Televizyon tartışması acil mali reformları inceledi.
+réplica | karşı tarafın iddiasına verilen anlık ve keskin yanıt | isim (d) | Su aguda réplica dejó sin argumentos al portavoz rival. | Keskin yanıtı rakip sözcüyü argümansız bıraktı.
+duplica | yapılan réplica işlemine verilen ikinci ve son yanıt | isim (d) | La tajante duplica cerró definitivamente el turno de palabra. | Kesin ikinci yanıt söz hakkını kesin olarak kapattı.
+moderador | tartışmayı yönlendiren ve kuralları uygulayan hakem | isim (o) | El imparcial moderador exigió respeto a los tiempos asignados. | Tarafsız moderatör verilen sürelere saygı gösterilmesini istedi.
+intervención | tartışma sırasında söz alarak fikir beyan etme | isim (d) | Su breve intervención aclaró un malentendido importante. | Kısa söz alışı önemli bir yanlış anlamayı netleştirdi.
+postura | bir mesele karşısında takınılan temel görüş tavrı | isim (d) | Su intransigente postura bloqueó cualquier entendimiento. | Uzlaşmaz görüş tavrı her türlü anlaşmayı bloke etti.
+armonización | tarafların uzlaşarak ortak noktada buluşması süreci | isim (d) | Buscaron una difícil armonización tras horas de áspera discusión. | Saatlerce süren sert tartışmanın ardından zor bir uzlaşı aradılar.
+divergencia | görüşler ve fikirler arasındaki belirgin ayrılık | isim (d) | La profunda divergencia ideológica dificultó el tratado. | Derin ideolojik görüş ayrılığı anlaşmayı zorlaştırdı.
+argumentación | savunulan fikirleri mantıksal bağlarla örme süreci | isim (d) | Su compleja argumentación exigía atención extrema del público. | Karmaşık argümantasyon süreci dinleyicilerden aşırı dikkat gerektiriyordu.
+controversia | kamuoyunda geniş yankı uyandıran sert fikir ayrılığı | isim (d) | La nueva ley educativa generó una enorme controversia social. | Yeni eğitim yasası devasa bir toplumsal tartışma yarattı.
+## Hitabet ve ikna stratejileri
+preparación | başarılı bir sunum için yapılan kapsamlı hazırlık | isim (d) | La cuidadosa preparación garantiza el éxito del orador. | Özenli hazırlık, konuşmacının başarısını garanti eder.
+argumentario | savunulacak ana fikirlerin ve verilerin listesi | isim (o) | El partido repartió un nuevo argumentario entre sus líderes. | Parti, liderleri arasında yeni bir argüman listesi dağıttı.
+estrategia | hedefe ulaşmak için izlenen akılcı planlama yolu | isim (d) | Su estudiada estrategia comunicativa neutralizó al oponente. | Üzerinde çalışılmış iletişim stratejisi rakibi etkisiz kıldı.
+táctica | anlık durumlara göre uygulanan kısa vadeli hamle | isim (d) | Cambió de táctica al ver la firme oposición del jurado. | Jürinin katı muhalefetini görünce taktik değiştirdi.
+coherencia | düşünceler, sözler ve eylemler arasındaki tutarlılık | isim (d) | Su inquebrachable coherencia ideológica le granjeó respeto. | Sarsılmaz ideolojik tutarlılığı ona saygı kazandırdı.
+elocuente | sözü etkileyici ve akıcı söyleyen konuşmacı tarzı | sıfat | Ofreció una respuesta muy elocuente ante las críticas. | Eleştirilere karşılık son derece etkileyici bir yanıt verdi.
+persuasivo | karşısındakini inandırma ve ikna etme yetisi olan | sıfat | Su tono persuasivo convenció a los inversores extranjeros. | İkna edici tonu yabancı yatırımcıları ikna etti.
+convincente | şüpheye yer bırakmayacak kadar güçlü ve inandırıcı | sıfat | Presentó pruebas tan convincentes que nadie pudo replicar. | Hiç kimsenin itiraz edemeyeceği kadar inandırıcı kanıtlar sundu.
+articulado | fikirleri ve cümleleri kusursuz bağlayan ifade | sıfat | Su discurso perfectamente articulado fascinó a los doctores. | Kusursuz biçimde bağlanmış konuşması doktorları büyüledi.
+argumentado | sağlam temellere ve kanıtlara dayandırılmış fikir | sıfat | Entregó un informe rigurosamente argumentado al decano. | Dekana titizlikle temellendirilmiş bir rapor teslim etti.
+## Sözlü anlatım türleri
+conferencia | uzman bir kişinin belirli konuda verdiği bilgi dersi | isim (d) | La magistral conferencia sobre retórica duró dos horas. | Retorik üzerine ana ders konferansı iki saat sürdü.
+disertación | bilimsel veya felsefi konuyu derinlemesine inceleme | isim (d) | Su docta disertación analizó la filosofía del lenguaje. | Bilimsel incelemesi dil felsefesini derinlemesine analiz etti.
+alocución | yetkili bir kişinin topluluğa yaptığı kısa konuşma | isim (d) | El presidente leyó una solemne alocución desde el balcón. | Başkan balkondan resmi ve kısa bir konuşma okudu.
+sermón | dini veya ahlaki öğütler içeren toplu hitap türü | isim (o) | El viejo párroco pronunció un sermón lleno de sabiduría. | Yaşlı papaz bilgelik dolu bir vaaz verdi.
+panegírico | övgü düzmek amacıyla yapılan coşkulu hitabet türü | isim (o) | Leyó un emotivo panegírico en honor al maestro fallecido. | Vefat eden ustanın onuruna duygulu bir övgü konuşması okudu.
+oratoria | toplum önünde güzel ve etkili konuşma yapma sanatı | isim (d) | La clásica oratoria griega sentó las bases de la moderna. | Klasik Yunan hitabet sanatı modern sanatın temellerini attı.
+declamación | şiir veya metni vurgu ve tonlamayla okuma sanatı | isim (d) | Su magistral declamación de los versos emocionó a todos. | Mısraları usta işi okuma sanatı herkesi duygulandırdı.
+recitación | şiirleri ezberden uyumlu bir ses tonuyla okuma işi | isim (d) | La delicada recitación poética cerró el solemne acto cultural. | Zarif şiir okuma etkinliği resmi kültürel töreni kapattı.
+monólogo | tiyatroda tek kişinin kendi kendine yaptığı konuşma | isim (o) | El actor principal interpretó un monólogo shakespeariano. | Başrol oyuncusu bir Shakespeare monologu sahneledi.
+diálogo | iki veya daha fazla kişinin karşılıklı konuşması | isim (o) | El fructífero diálogo político destrabó la crisis institucional. | Verimli siyasi diyalog kurumsal krizin kilidini açtı.
+## Retorik terimleri ve zirvesi
+acroasis | antik dönemde sadece seçkin öğrencilere ders anlatımı | isim (d) | La esotérica acroasis exigía conocimientos previos profundos. | Ezoterik ders anlatımı derin ön bilgi gerektiriyordu.
+topoi | hitabette sıkça kullanılan ortak argüman kalıpları | isim (çoğul) | Los clásicos topoi facilitaban la improvisación oratoria. | Klasik argüman kalıpları doğaçlama konuşmayı kolaylaştırıyordu.
+exégesis | metinleri derinlemesine inceleyip açıklama yöntemi | isim (d) | Su rigurosa exégesis bíblica reveló matices insospechados. | Titiz metin incelemesi beklenmedik nüansları ortaya çıkardı.
+hermenéutica | metinlerin anlamını ve yorumlama ilkelerini inceleme | isim (d) | La compleja hermenéutica descifra los símbolos ocultos. | Karmaşık yorum bilimi gizli sembollerin şifresini çözer.
+semántica | kelimelerin ve cümlelerin anlam boyutunu inceleme | isim (d) | La moderna semántica estudia el significado en su contexto. | Modern anlambilim anlamı kendi bağlamında inceler.
+pragmática | dilin kullanım bağlamını ve iletişim işlevini inceleme | isim (d) | La pragmática analiza cómo el contexto modifica el sentido. | Edimbilim bağlamın anlamı nasıl değiştirdiğini inceler.
+estilística | edebi metinlerin üslup özelliklerini inceleyen dal | isim (d) | Su brillante tesis doctoral se centró en la estilística. | Parlak doktora tezi biçem bilimi üzerine odaklandı.
+taxonomía | kavramları ve terimleri mantıksal sınıflara ayırma | isim (d) | La exhaustiva taxonomía facilitó el estudio de las falacias. | Kapsamlı sınıflandırma safsataların incelenmesini kolaylaştırdı.
+gnoseología | bilginin kaynağını, doğasını ve sınırlarını inceleme | isim (d) | La compleja gnoseología cuestiona los fundamentos lógicos. | Karmaşık bilgi felsefesi mantıksal temelleri sorgular.
+modelo_conceptual | bir bilim dalının kabul ettiği örnek modeller bütünü | isim (o) | Su disruptiva teoría creó un nuevo modelo_conceptual retórico. | Yıkıcı teorisi yeni bir retorik model yarattı.

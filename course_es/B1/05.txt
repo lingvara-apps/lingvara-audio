@@ -1,0 +1,111 @@
+# UNIT: Sağlık ve psikoloji | Hastalık, tedavi, ruh sağlığı
+## Fiziksel rahatsızlıklar
+el catarro | nezle, hafif soğukalgınlığı | isim (e) | El catarro me dura tres días. | Nezle bende üç gün sürer.
+la bronquitis | bronşit | isim (d) | La bronquitis le fatiga mucho al respirar. | Bronşit nefes alırken onu çok yoruyor.
+el insomnio crónico | kronik uykusuzluk | isim (e) | El insomnio crónico afecta su concentración. | Kronik uykusuzluk onun konsantrasyonunu etkiliyor.
+la migraña | migren | isim (d) | La migraña fuerte le obligó a apagar las luces. | Şiddetli migren ona ışıkları söndürmeye mecbur bıraktı.
+la tos persistente | inatçı öksürük | isim (d) | La tos persistente no le deja dormir por la noche. | İnatçı öksürük gece uyumasına izin vermiyor.
+la fiebre alta | yüksek ateş | isim (d) | La fiebre alta requiere descanso absoluto. | Yüksek ateş mutlak dinlenme gerektirir.
+el mareo matutino | sabah baş dönmesi | isim (e) | El mareo matutino suele pasar tras desayunar. | Sabah baş dönmesi genellikle kahvaltıdan sonra geçer.
+la alergia estacional | mevsimsel alerji | isim (d) | La alergia estacional provoca estornudos constantes. | Mevsimsel alerji sürekli hapşırmaya neden oluyor.
+el dolor muscular | kas ağrısı | isim (e) | El dolor muscular disminuye con masajes suaves. | Kas ağrısı hafif masajlarla azalır.
+la fatiga extrema | aşırı yorgunluk | isim (d) | La fatiga extrema indica falta de descanso. | Aşırı yorgunluk dinlenme eksikliğine işaret eder.
+## Tıbbi tedavi ve muayene
+la radiografía torácica | göğüs röntgeni | isim (d) | La radiografía torácica muestra los pulmones limpios. | Göğüs röntgeni temiz akciğerleri gösteriyor.
+el análisis clínico | klinik tahlil | isim (e) | El análisis clínico ayuda a detectar carencias. | Klinik tahlil eksiklikleri tespit etmeye yardımcı olur.
+la consulta médica | doktor muayenesi, tıbbi danışma | isim (d) | La consulta médica empieza a las nueve en punto. | Doktor muayenesi tam dokuzda başlıyor.
+la receta magistral | majistral reçete | isim (d) | La receta magistral incluye componentes específicos. | Majistral reçete belirli bileşenler içeriyor.
+la farmacia de guardia | nöbetçi eczane | isim (d) | La farmacia de guardia está abierta toda la noche. | Nöbetçi eczane bütün gece açık.
+la inyección intramuscular | kas içi enjeksiyon | isim (d) | La inyección intramuscular actúa con rapidez. | Kas içi enjeksiyon hızla etki eder.
+el vendaje elástico | elastik sargı, bandaj | isim (e) | El vendaje elástico protege la muñeca lesionada. | Elastik sargı yaralı bileği korur.
+la pastilla efervescente | efervesan (suda eriyen) tablet | isim (d) | La pastilla efervescente se disuelve en agua fría. | Efervesan tablet soğuk suda çözünür.
+la operación quirúrgica | cerrahi ameliyat | isim (d) | La operación quirúrgica duró más de cuatro horas. | Cerrahi ameliyat dört saatten fazla sürdü.
+el tratamiento preventivo | koruyucu tedavi | isim (e) | El tratamiento preventivo fortalece el sistema inmune. | Koruyucu tedavi bağışıklık sistemini güçlendirir.
+## Ruh sağlığı ve duygular
+la ansiedad generalizada | yaygın anksiyete, kaygı | isim (d) | La ansiedad generalizada requiere apoyo psicológico. | Yaygın anksiyete psikolojik destek gerektirir.
+el estrés laboral | iş stresi | isim (e) | El estrés laboral afecta la calidad del sueño. | İş stresi uyku kalitesini etkiler.
+la depresión leve | hafif depresyon | isim (d) | La depresión leve mejora con caminatas diarias. | Hafif depresyon günlük yürüyüşlerle iyileşir.
+la autoestima baja | düşük özgüven | isim (d) | La autoestima baja frena el desarrollo personal. | Düşük özgüven kişisel gelişimini engeller.
+la calma interior | iç huzur | isim (d) | La calma interior se cultiva mediante la meditación. | İç huzur meditasyon yoluyla yetiştirilir.
+la motivación personal | kişisel motivasyon | isim (d) | La motivación personal impulsa nuevos proyectos. | Kişisel motivasyon yeni projeleri harekete geçirir.
+el equilibrio mental | zihinsel denge | isim (e) | El equilibrio mental es clave para el bienestar. | Zihinsel denge esenlik için anahtardır.
+la tristeza profunda | derin üzüntü | isim (d) | La tristeza profunda necesita tiempo de asimilación. | Derin üzüntü sindirme zamanı gerektirir.
+la alegría compartida | paylaşılan sevinç | isim (d) | La alegría compartida multiplica el entusiasmo. | Paylaşılan sevinç coşkuyu katlar.
+el optimismo constante | sürekli iyimserlik | isim (e) | El optimismo constante ayuda a superar obstáculos. | Sürekli iyimserlik engelleri aşmaya yardımcı olur.
+## Sağlıklı yaşam tarzı
+la dieta equilibrada | dengeli beslenme, diyet | isim (d) | La dieta equilibrada incluye frutas y verduras frescas. | Dengeli diyet taze meyve ve sebze içerir.
+la hidratación adecuada | yeterli hidrasyon, su tüketimi | isim (d) | La hidratación adecuada previene dolores de cabeza. | Yeterli su tüketimi baş ağrılarını önler.
+el descanso nocturno | gece dinlenmesi | isim (e) | El descanso nocturno regenera el organismo por completo. | Gece dinlenmesi organizmayı tamamen yeniler.
+la actividad física | fiziksel aktivite | isim (d) | La actividad física fortalece el corazón. | Fiziksel aktivite kalbi güçlendirir.
+el hábito saludable | sağlıklı alışkanlık | isim (e) | El hábito saludable previene múltiples dolencias. | Sağlıklı alışkanlık birden fazla rahatsızlığı önler.
+la postura correcta | doğru duruş | isim (d) | La postura correcta evita dolores de espalda. | Doğru duruş sırt ağrılarından kaçınmayı sağlar.
+la respiración profunda | derin nefes alma | isim (d) | La respiración profunda reduce la tensión acumulada. | Derin nefes alma biriken gerginliği azaltır.
+el bienestar integral | bütünsel esenlik | isim (e) | El bienestar integral abarca cuerpo y mente. | Bütünsel esenlik beden ve zihni kapsar.
+la energía vital | yaşam enerjisi | isim (d) | La energía vital aumenta con el sol matutino. | Yaşam enerjisi sabah güneşiyle artar.
+la salud mental | ruh sağlığı | isim (d) | La salud mental importa tanto como la física. | Ruh sağlığı fiziksel olan kadar önemlidir.
+## Alternatif tıp ve bakım
+la acupuntura china | Çin akupunkturu | isim (d) | La acupuntura china alivia dolores crónicos eficaces. | Çin akupunkturu etkili bir şekilde kronik ağrıları hafifletir.
+la infusión relajante | rahatlatıcı bitki çayı | isim (d) | La infusión relajante ayuda a conciliar el sueño. | Rahatlatıcı bitki çayı uykuya dalmaya yardımcı olur.
+el aceite esencial | uçucu yağ, esansiyel yağ | isim (e) | El aceite esencial de lavanda calma los nervios. | Lavanta uçucu yağı sinirleri sakinleştirir.
+la terapia floral | çiçek terapisi | isim (d) | La terapia floral equilibra las emociones sutiles. | Çiçek terapisi ince duyguları dengeler.
+el masaje descontracturante | kas gevşetici masaj | isim (e) | El masaje descontracturante elimina nudos en la espalda. | Kas gevşetici masaj sırtındaki düğümleri ortadan kaldırır.
+la meditación guiada | rehberli meditasyon | isim (d) | La meditación guiada despeja la mente confusa. | Rehberli meditasyon kafası karışık zihni temizler.
+el baño termal | kaplıca banyosu | isim (e) | El baño termal relaja la musculatura entera. | Kaplıca banyosu tüm kas sistemini rahatlatır.
+la homeopatía suave | hafif homeopati | isim (d) | La homeopatía suave trata síntomas leves naturalmente. | Hafif homeopati hafif belirtileri doğal olarak tedavi eder.
+el remedio casero | ev yapımı çare | isim (e) | El remedio casero alivia la garganta irritada. | Ev yapımı çare tahriş olmuş boğazı rahatlatır.
+la aromaterapi natural | doğal aromaterapi | isim (d) | La aromaterapi natural mejora el estado anímico. | Doğal aromaterapi ruh halini iyileştirir.
+## Hastane ve acil durumlar
+la urgencia hospitalaria | hastane acil servisi | isim (d) | La urgencia hospitalaria atiende casos graves veinticuatro horas. | Hastane acil servisi yirmi dört saat boyunca ağır vakalarla ilgilenir.
+la ambulancia medicalizada | donanımlı ambulans | isim (d) | La ambulancia medicalizada llegó en pocos minutos. | Donanımlı ambulans birkaç dakika içinde geldi.
+el quirófano estéril | steril ameliyathane | isim (e) | El quirófano estéril garantiza máxima seguridad higiénica. | Steril ameliyathane maksimum hijyenik güvenlik garanti eder.
+la sala de espera | bekleme salonu | isim (d) | La sala de espera estaba llena de pacientes impacientes. | Bekleme salonu sabırsız hastalarla doluydu.
+el parte médico | sağlık raporu, tıbbi rapor | isim (e) | El parte médico confirma su baja laboral temporal. | Tıbbi rapor geçici iş göremezliğini onaylıyor.
+la cama ortopédica | ortopedik yatak | isim (d) | La cama ortopédica facilita la recuperación postoperatoria. | Ortopedik yatak ameliyat sonrası iyileşmeyi kolaylaştırır.
+el suero intravenoso | damar içi serum | isim (e) | El suero intravenoso aporta sales y líquidos rápidamente. | Damar içi serum hızla tuz ve sıvı sağlar.
+la camilla rodante | tekerlekli sedye | isim (d) | La camilla rodante trasladó al herido con cuidado. | Tekerlekli sedye yaralıyı dikkatle taşıdı.
+el personal sanitario | sağlık personeli | isim (e) | El personal sanitario trabaja con vocación infinita. | Sağlık personeli sonsuz bir meslek aşkıyla çalışır.
+la unidad intensiva | yoğun bakım ünitesi | isim (d) | La unidad intensiva vigila constantes vitales constantemente. | Yoğun bakım ünitesi hayati bulguları sürekli izler.
+## Doktor ve hasta diyalogları
+el síntoma principal | ana belirti, başlıca semptom | isim (e) | El síntoma principal consiste en fiebre y tos. | Ana belirti ateş ve öksürükten ibarettir.
+el diagnóstico médico | tıbbi teşhis | isim (e) | El diagnóstico médico resultó ser una bronquitis leve. | Tıbbi teşhis hafif bir bronşit çıktı.
+la pauta farmacéutica | ilaç kullanım düzeni | isim (d) | La pauta farmacéutica indica tomar una cápsula diaria. | İlaç kullanım düzeni günde bir kapsül alınmasını belirtiyor.
+la dosis recomendada | önerilen doz | isim (d) | La dosis recomendada no debe superarse nunca. | Önerilen doz asla aşılmamalıdır.
+el efecto secundario | yan etki | isim (e) | El efecto secundario puede incluir somnolencia leve. | Yan etki hafif uyku hali içerebilir.
+la evolución favorable | olumlu seyir, iyileşme eğilimi | isim (d) | La evolución favorable demuestra la eficacia del tratamiento. | Olumlu seyir tedavinin etkililiğini kanıtlıyor.
+la revisión periódica | periyodik kontrol | isim (d) | La revisión periódica previene sorpresas desagradables. | Periyodik kontrol hoş olmayan sürprizleri önler.
+el alta médica | taburcu izni, hastaneden çıkış | isim (e) | El alta médica llegará tras el último análisis. | Taburcu izni son tahlilden sonra verilecek.
+la dolencia crónica | kronik rahatsızlık | isim (d) | La dolencia crónica requiere paciencia y constancia. | Kronik rahatsızlık sabır ve istikrar gerektirir.
+el historial clínico | klinik geçmiş, tıbbi geçmiş | isim (e) | El historial clínico refleja alergias previas conocidas. | Klinik geçmiş daha önceden bilinen alerjileri yansıtıyor.
+## Beslenme ve sağlık
+el nutriente esencial | temel besin öğesi | isim (e) | El nutriente esencial fortalece huesos y músculos. | Temel besin öğesi kemikleri ve kasları güçlendirir.
+la vitamina natural | doğal vitamin | isim (d) | La vitamina natural abunda en frutas frescas de temporada. | Doğal vitamin taze mevsim meyvelerinde bolca bulunur.
+el mineral necesario | gerekli mineral | isim (e) | El mineral necesario previene la fatiga crónica. | Gerekli mineral kronik yorgunluğu önler.
+la fibra dietética | diyet lifi, posa | isim (d) | La fibra dietética mejora la digestión diaria. | Diyet lifi günlük sindirimi iyileştirir.
+el aceite de oliva virgen | sızma zeytinyağı | isim (e) | El aceite de oliva virgen cuida el sistema circulatorio. | Sızma zeytinyağı dolaşım sistemini korur.
+el antioxidante potente | güçlü antioksidan | isim (e) | El antioxidante potente frena el envejecimiento celular. | Güçlü antioksidan hücre yaşlanmasını frenler.
+la proteína vegetal | bitkisel protein | isim (d) | La proteína vegetal nutre los tejidos sin pesadez. | Bitkisel protein dokuları ağırlaşmadan besler.
+el azúcar refinado | rafine şeker | isim (e) | El azúcar refinado conviene reducirlo al mínimo. | Rafine şekeri minimuma indirmek uygundur.
+la porción moderada | ölçülü porsiyon | isim (d) | La porción moderada ayuda a mantener el peso ideal. | Ölçülü porsiyon ideal kiloyu korumaya yardımcı olur.
+el consumo ético | etik tüketim | isim (e) | El consumo ético beneficia al cuerpo y al entorno. | Etik tüketim bedene ve çevreye fayda sağlar.
+## Yaşlılık ve bakım
+la vejez honrosa | onurlu yaşlılık | isim (d) | La vejez honrosa merece atención y respeto social. | Onurlu yaşlılık sosyal ilgi ve saygıyı hak eder.
+el centro geriátrico | huzurevi, yaşlı bakım merkezi | isim (e) | El centro geriátrico ofrece actividades adaptadas diariamente. | Huzurevi her gün uyarlanmış etkinlikler sunar.
+la dependencia moderada | orta derecede bağımlılık | isim (d) | La dependencia moderada necesita ayuda puntual en casa. | Orta derecede bağımlılık evde ara sıra yardım gerektirir.
+la movilidad reducida | kısıtlı hareketlilik | isim (d) | La movilidad reducida requiere rampas y ascensores amplios. | Kısıtlı hareketlilik rampalar ve geniş asansörler gerektirir.
+el bastón ortopédico | ortopedik baston | isim (e) | El bastón ortopédico aporta estabilidad al caminar. | Ortopedik baston yürürken denge sağlar.
+la memoria frágil | zayıf hafıza | isim (d) | La memoria frágil es típica en ciertas etapas avanzadas. | Zayıf hafıza belirli ileri aşamalarda tipiktir.
+el cuidador profesional | profesyonel bakıcı | isim (e) | El cuidador profesional asiste con paciencia infinita. | Profesyonel bakıcı sonsuz sabırla yardım eder.
+la asistencia domiciliaria | evde bakım hizmeti | isim (d) | La asistencia domiciliaria facilita la vida cotidiana de mayores. | Evde bakım hizmeti yaşlıların günlük yaşamını kolaylaştırır.
+la pensión contributiva | prim gününe bağlı emekli maaşı | isim (d) | La pensión contributiva garantiza tranquilidad económica básica. | Emekli maaşı temel ekonomik huzuru garanti eder.
+la compañía constante | sürekli yoldaşlık, sürekli birliktelik | isim (d) | La compañía constante previene la soledad no deseada. | Sürekli birliktelik istenmeyen yalnızlığı önler.
+## Kaza ve ilk yardım
+la herida abierta | açık yara | isim (d) | La herida abierta requiere desinfección inmediata con alcohol. | Açık yara alkolle derhal dezenfekte edilmeyi gerektirir.
+la quemadura leve | hafif yanık | isim (d) | La quemadura leve cede bajo el agua fría del grifo. | Hafif yanık soğuk musluk suyu altında geçer.
+el botiquín básico | temel ilk yardım çantası | isim (e) | El botiquín básico incluye gasas, tiritas y antiséptico. | Temel ilk yardım çantasında gazlı bez, yara bandı ve antiseptik bulunur.
+la fractura ósea | kemik kırığı | isim (d) | La fractura ósea precisa inmovilización urgente con férula. | Kemik kırığı atelle acil hareketsizleştirmeyi gerektirir.
+el desmayo repentino | ani bayılma | isim (e) | El desmayo repentino suele deberse a bajadas de tensión. | Ani bayılma genellikle tansiyon düşmesinden kaynaklanır.
+la hemorragia nasal | burun kanaması | isim (d) | La hemorragia nasal se frena presionando suavemente la nariz. | Burun kanaması burna hafifçe bastırılarak durdurulur.
+el golpe fuerte | sert darbe | isim (e) | El golpe fuerte en la cabeza necesita observación médica. | Kafaya alınan sert darbe tıbbi gözlem gerektirir.
+la intoxicación alimentaria | gıda zehirlenmesi | isim (d) | La intoxicación alimentaria provoca fuertes dolores estomacales. | Gıda zehirlenmesi şiddetli mide ağrılarına yol açar.
+el socorrista titulado | sertifikalı ilk yardımcımız, sertifikalı cankurtaran | isim (e) | El socorrista titulado actuó con rapidez y eficacia. | Sertifikalı ilk yardımcımız hızlı ve etkili bir şekilde davrandı.
+la maniobra de resucitación | canlandırma manevrası, suni teneffüs manevrası | isim (d) | La maniobra de resucitación salvó al bañista en apuros. | Canlandırma manevrası zor durumdaki yüzücüyü kurtardı.

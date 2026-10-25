@@ -1,0 +1,71 @@
+# TOPIC: İspanyolca İsimlerde Cinsiyet ve Artikeller | el libro, la casa
+> İspanyolca isimler eril (masculino) ya da dişil (femenino) olarak ikiye ayrılır. Genellikle '-o' ile bitenler eril, '-a' ile bitenler dişil kabul edilir.
+> Belirli artikeller eril için 'el', dişil için 'la' şeklindedir ve kelimenin önüne gelir. Çoğul yapılırken 'el' yerine 'los', 'la' yerine 'las' kullanılır.
+= El libro está sobre la mesa. | Kitap masanın üzerindedir.
+= La casa tiene un jardín grande. | Evin büyük bir bahçesi var.
+= Los niños juegan en el parque. | Çocuklar parkta oynuyor.
+? İspanyolcada "masa" kelimesinin dişil olduğunu düşünürsek hangi artikel kullanılır? | la | el | los
+? "El libro" ifadesinin çoğul ve eril hali hangisidir? | los libros | las libros | el libros
+? Hangisi tipik olarak eril bir isim sonu ekidir? | -o | -a | -ción
+? "La casa" ifadesinin çoğul hali nasıldır? | las casas | los casas | la casas
+? Hangisi dişil bir artikeldir? | la | el | los
+
+# TOPIC: Şahıs Zamirleri | yo, tú, él, ella
+> İspanyolcada cümle kurarken özne zamirleri (yo, tú, él, ella, nosotros, vosotros, ellos, ellas) fiil çekimlerini belirler.
+> Günlük konuşmada genellikle zamirler düşer çünkü fiil çekimi kimden bahsedildiğini zaten gösterir.
+= Yo estudio español todos los días. | Her gün İspanyolca çalışıyorum.
+= Tú hablas muy bien inglés. | Sen çok iyi İngilizce konuşuyorsun.
+= Ella trabaja en una oficina moderna. | O, modern bir ofiste çalışıyor.
+? "Ben" anlamına gelen İspanyolca şahıs zamiri hangisidir? | yo | tú | él
+? "Sen" anlamına gelen İspanyolca şahıs zamiri hangisidir? | tú | yo | ella
+? "O (erkek)" anlamındaki zamir hangisidir? | él | ella | yo
+? "Biz" anlamına gelen şahıs zamiri hangisidir? | nosotros | vosotros | ellos
+? "Onlar (kadınlar)" anlamındaki zamir hangisidir? | ellas | ellos | vosotros
+
+# TOPIC: Düzenli -ar Fiillerinin Şimdiki Zaman Çekimi | hablar, trabajar
+> İspanyolcada birinci grup düzenli fiiller '-ar' ile biter (örneğin hablar, trabajar, estudiar).
+> Şimdiki zamanda kök aynı kalır ve kişi ekleri (-o, -as, -a, -amos, -áis, -an) eklenir.
+= Yo hablo español con mi amigo. | Arkadaşımla İspanyolca konuşuyorum.
+= Tú trabajas demasiado en la oficina. | Ofiste çok fazla çalışıyorsun.
+= Nosotros estudiamos en la misma escuela. | Biz aynı okulda okuyoruz.
+? "Hablar" (konuşmak) fiilinin "yo" (ben) zamiriyle çekimi hangisidir? | hablo | hablas | habla
+? "Trab trabajar" (çalışmak) fiilinin "tú" zamiriyle çekimi hangisidir? | trabajas | trabajo | trabaja
+? "Estudiar" fiilinin "nosotros" (biz) zamiriyle çekimi nasıldır? | estudiamos | estudian | estudiáis
+? "-ar" ile biten düzenli bir fiilin "él" zamiriyle son eki ne olur? | -a | -o | -an
+? "Ellos" zamiriyle çekimlenen bir fiilin son eki genellikle nedir? | -an | -amos | -as
+
+# TOPIC: Ser ve Estar Fiilleri (Olmak) | soy, estás, es
+> İspanyolcada "olmak" anlamını veren iki temel fiil vardır: Ser (kalıcı durum, kimlik, köken) ve Estar (geçici durum, konum).
+> "Ser" (soy, eres, es, somos, sois, son) ve "Estar" (estoy, estás, está, estamos, estáis, están) düzensiz çekilir.
+= Yo soy profesor de español. | Ben İspanyolca öğretmeniyim.
+= Madrid está en el centro de España. | Madrid, İspanya'nın merkezindedir.
+= Nosotros estamos muy felices hoy. | Bugün çok mutluyuz.
+? Kimlik ve meslek belirtirken hangi fiil kullanılır? | ser | estar | tener
+? Geçici bir konum veya ruh hali belirtirken hangi fiil kullanılır? | estar | ser | hablar
+? "Yo ___ estudiante" cümlesinde boşluğa ne gelmelidir? | soy | estoy | es
+? "El libro ___ en la mesa" cümlesinde konum belirttiği için hangi fiil uygundur? | está | es | soy
+? "Nosotros" için "ser" fiilinin çekimi hangisidir? | somos | sois | son
+
+# TOPIC: Soru Kelimeleri | qué, dónde, cómo, quién
+> İspanyolcada soru sormak için soru kelimeleri (qué, dónde, cómo, quién, cuándo, cuánto) kullanılır ve soru cümlelerinde vurgu işareti (tilde) bulunur.
+> İspanyolca soru cümlelerinin başında ters soru işareti (¿) kullanılır.
+= ¿Cómo te llamas? — Me llamo Ali. | Adın ne? — Adım Ali.
+= ¿Dónde vive tu familia? | Ailen nerede yaşıyor?
+= ¿Qué hora es ahora? | Saat şu an kaç?
+? "Nerede" anlamına gelen soru kelimesi hangisidir? | dónde | qué | cómo
+? "Nasıl" anlamına gelen soru zamiri hangisidir? | cómo | quién | dónde
+? "Ne" veya "Ne tür" anlamındaki soru kelimesi hangisidir? | qué | dónde | cuándo
+? İspanyolcada soru cümlelerinin başında hangi işaret kullanılır? | ¿ | ? | ¡
+? "Kim" anlamına gelen soru kelimesi hangisidir? | quién | qué | dónde
+
+# TOPIC: İşaret Sıfatları | este, esta, estos, estas
+> Yakınımızdaki nesneleri ve kişileri göstermek için işaret sıfatları (este, esta, estos, estas) kullanılır.
+> İşaret sıfatlarıniteledikleri ismin cinsiyetine ve sayılarına uyum sağlar.
+= Este libro es muy interesante. | Bu kitap çok ilginç.
+= Esta mesa es nueva y bonita. | Bu masa yeni ve güzel.
+= Estos zapatos son muy cómodos. | Bu ayakkabılar çok rahat.
+? "Bu (eril, tekil)" anlamına gelen işaret sıfatı hangisidir? | este | esta | estos
+? "Bu (dişil, tekil)" anlamına gelen işaret sıfatı hangisidir? | esta | este | estas
+? "Bu (eril, çoğul)" anlamına gelen işaret sıfatı hangisidir? | estos | este | estas
+? "Esta" kelimesi hangi tür isimlerle kullanılır? | dişil tekil | eril tekil | dişil çoğul
+? "Bu kitap" ifadesinin İspanyolca karşılığı hangisidir? | este libro | esta libro | estos libro
