@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
+## Doktorda
+عِيَادَة (ʿiyāda) | muayenehane, klinik | isim (d) | عِيَادَةُ الطَّبِيبِ فِي الطَّابِقِ الثَّالِثِ. (ʿIyādatu ṭ-ṭabībi fī ṭ-ṭābiqi th-thālith.) | Doktorun muayenehanesi üçüncü katta.
+فَحَصَ (faḥaṣa) | muayene etmek, incelemek (geniş z.: يَفْحَصُ) | fiil | فَحَصَ الطَّبِيبُ عَيْنَيَّ. (Faḥaṣa ṭ-ṭabību ʿaynayya.) | Doktor gözlerimi muayene etti.
+مَرَض (maraḍ) | hastalık (çoğ. أَمْرَاض) | isim (e) | هٰذَا الْمَرَضُ لَيْسَ خَطِيرًا. (Hādhā l-maraḍu laysa khaṭīran.) | Bu hastalık ciddi değil.
+عِلَاج (ʿilāj) | tedavi; ilaç | isim (e) | الْعِلَاجُ يَسْتَغْرِقُ أُسْبُوعًا. (Al-ʿilāju yastaghriqu ʾusbūʿan.) | Tedavi bir hafta sürüyor.
+عَالَجَ (ʿālaja) | tedavi etmek (geniş z.: يُعَالِجُ) | fiil | عَالَجَتْنِي طَبِيبَةٌ مَاهِرَةٌ. (ʿĀlajatnī ṭabībatun māhira.) | Beni usta bir doktor tedavi etti.
+وَصْفَةٌ طِبِّيَّة (waṣfatun ṭibbiyya) | reçete | isim (d) | لَا أَبِيعُ هٰذَا الدَّوَاءَ بِدُونِ وَصْفَةٍ طِبِّيَّةٍ. (Lā ʾabīʿu hādhā d-dawāʾa bi-dūni waṣfatin ṭibbiyya.) | Bu ilacı reçetesiz satmam.
+نَصَحَ (naṣaḥa) | öğüt vermek, tavsiye etmek (geniş z.: يَنْصَحُ) | fiil | نَصَحَنِي الطَّبِيبُ بِالرَّاحَةِ. (Naṣaḥanī ṭ-ṭabību bi-r-rāḥa.) | Doktor bana dinlenmemi tavsiye etti.
+شُفِيَ (shufiya) | iyileşmek, şifa bulmak (geniş z.: يُشْفَى) | fiil · düzensiz | شُفِيَ أَخِي تَمَامًا. (Shufiya ʾakhī tamāman.) | Kardeşim tamamen iyileşti.
+طَبِيبُ أَسْنَان (ṭabību ʾasnān) | diş hekimi | isim (e) | عِنْدِي مَوْعِدٌ عِنْدَ طَبِيبِ الْأَسْنَانِ. (ʿIndī mawʿidun ʿinda ṭabībi l-ʾasnān.) | Diş hekiminde randevum var.
+تَحْلِيل (taḥlīl) | tahlil; analiz (çoğ. تَحَالِيل) | isim (e) | طَلَبَ الطَّبِيبُ تَحْلِيلَ دَمٍ. (Ṭalaba ṭ-ṭabību taḥlīla dam.) | Doktor kan tahlili istedi.
+## Belirtiler
+حُمَّى (ḥummā) | ateş, humma | isim (d) | عِنْدَ الطِّفْلِ حُمَّى. (ʿInda ṭ-ṭifli ḥummā.) | Çocuğun ateşi var.
+تَقَيَّأَ (taqayyaʾa) | kusmak (geniş z.: يَتَقَيَّأُ) | fiil | تَقَيَّأَ مَرَّتَيْنِ فِي اللَّيْلِ. (Taqayyaʾa marratayni fī l-layl.) | Gece iki kez kustu.
+دُوَار (duwār) | baş dönmesi | isim (e) | أَشْعُرُ بِدُوَارٍ. (ʾAshʿuru bi-duwār.) | Başım dönüyor.
+إِسْهَال (ʾishāl) | ishal | isim (e) | عِنْدَهُ إِسْهَالٌ مُنْذُ أَمْسِ. (ʿIndahu ʾishālun mundhu ʾams.) | Dünden beri ishal.
+غَثَيَان (ghathayān) | mide bulantısı | isim (e) | أَشْعُرُ بِغَثَيَانٍ فِي السَّيَّارَةِ. (ʾAshʿuru bi-ghathayānin fī s-sayyāra.) | Arabada midem bulanıyor.
+اِلْتِهَاب (iltihāb) | iltihap, enfeksiyon | isim (e) | عِنْدِي الْتِهَابٌ فِي الْحَلْقِ. (ʿIndī ltihābun fī l-ḥalq.) | Boğazımda iltihap var.
+حَكَّة (ḥakka) | kaşıntı | isim (d) | عِنْدِي حَكَّةٌ فِي يَدِي. (ʿIndī ḥakkatun fī yadī.) | Elimde kaşıntı var.
+عَطَسَ (ʿaṭasa) | hapşırmak (geniş z.: يَعْطِسُ) | fiil | يَعْطِسُ كَثِيرًا فِي الرَّبِيعِ. (Yaʿṭisu kathīran fī r-rabīʿ.) | İlkbaharda çok hapşırır.
+ضَعِيف (ḍaʿīf) | zayıf, halsiz; güçsüz | sıfat | أَشْعُرُ أَنَّنِي ضَعِيفٌ الْيَوْمَ. (ʾAshʿuru ʾannanī ḍaʿīfun al-yawm.) | Bugün kendimi halsiz hissediyorum.
+تَوَرَّمَ (tawarrama) | şişmek (geniş z.: يَتَوَرَّمُ) | fiil | تَوَرَّمَتْ قَدَمِي. (Tawarramat qadamī.) | Ayağım şişti.
+## Eczanede
+صَيْدَلِيَّة (ṣaydaliyya) | eczane | isim (d) | الصَّيْدَلِيَّةُ مَفْتُوحَةٌ طُولَ اللَّيْلِ. (Aṣ-ṣaydaliyyatu maftūḥatun ṭūla l-layl.) | Eczane bütün gece açık.
+حَبَّة (ḥabba) | hap, tablet; tane | isim (d) | خُذْ حَبَّةً بَعْدَ كُلِّ وَجْبَةٍ. (Khudh ḥabbatan baʿda kulli wajba.) | Her öğünden sonra bir hap al.
+شَرَاب (sharāb) | şurup; içecek | isim (e) | هٰذَا شَرَابٌ لِلسُّعَالِ. (Hādhā sharābun li-s-suʿāl.) | Bu öksürük şurubu.
+مَرْهَم (marham) | merhem | isim (e) | ضَعِ الْمَرْهَمَ عَلَى الْجُرْحِ. (Ḍaʿi l-marhama ʿalā l-jurḥ.) | Merhemi yaranın üstüne sür.
+قَطْرَة (qaṭra) | damla (çoğ. قَطَرَات) | isim (d) | قَطْرَةٌ لِلْعَيْنِ مَرَّتَيْنِ فِي الْيَوْمِ. (Qaṭratun li-l-ʿayni marratayni fī l-yawm.) | Göz damlası günde iki kez.
+ضِمَادَة (ḍimāda) | sargı, bandaj | isim (d) | لَفَّتِ الْمُمَرِّضَةُ الضِّمَادَةَ. (Laffati l-mumarriḍatu ḍ-ḍimāda.) | Hemşire sargıyı sardı.
+جُرْعَة (jurʿa) | doz (çoğ. جُرَع) | isim (d) | لَا تَأْخُذْ جُرْعَةً كَبِيرَةً. (Lā taʾkhudh jurʿatan kabīra.) | Büyük doz alma.
+مُسَكِّن (musakkin) | ağrı kesici | isim (e) | أَحْتَاجُ إِلَى مُسَكِّنٍ لِلصُّدَاعِ. (ʾAḥtāju ʾilā musakkinin li-ṣ-ṣudāʿ.) | Baş ağrısı için ağrı kesiciye ihtiyacım var.
+مُضَادّ حَيَوِيّ (muḍādd ḥayawiyy) | antibiyotik | isim (e) | لَا تَأْخُذِ الْمُضَادَّ الْحَيَوِيَّ بِلَا طَبِيبٍ. (Lā taʾkhudhi l-muḍādda l-ḥayawiyya bi-lā ṭabīb.) | Doktorsuz antibiyotik alma.
+لَاصِقٌ طِبِّيّ (lāṣiqun ṭibbiyy) | yara bandı | isim (e) | ضَعْ لَاصِقًا طِبِّيًّا عَلَى إِصْبَعِكَ. (Ḍaʿ lāṣiqan ṭibbiyyan ʿalā ʾiṣbaʿik.) | Parmağına yara bandı yapıştır.
+## Vücut III: iç organlar
+دَم (dam) | kan (çoğ. دِمَاء) | isim (e) | تَبَرَّعْتُ بِالدَّمِ أَمْسِ. (Tabarraʿtu bi-d-dami ʾams.) | Dün kan bağışladım.
+عَظْم (ʿaẓm) | kemik (çoğ. عِظَام) | isim (e) | الْحَلِيبُ مُفِيدٌ لِلْعِظَامِ. (Al-ḥalību mufīdun li-l-ʿiẓām.) | Süt kemiklere faydalı.
+مَعِدَة (maʿida) | mide | isim (d) | مَعِدَتِي تُؤْلِمُنِي بَعْدَ الْأَكْلِ. (Maʿidatī tuʾlimunī baʿda l-ʾakl.) | Yemekten sonra midem ağrıyor.
+رِئَة (riʾa) | akciğer | isim (d) | التَّدْخِينُ يَضُرُّ الرِّئَتَيْنِ. (At-tadkhīnu yaḍurru r-riʾatayn.) | Sigara akciğerlere zarar verir.
+كَبِد (kabid) | karaciğer | isim (d) | الْكَبِدُ عُضْوٌ مُهِمٌّ. (Al-kabidu ʿuḍwun muhimm.) | Karaciğer önemli bir organdır.
+كُلْيَة (kulya) | böbrek | isim (d) | يُعَانِي مِنْ مَشَاكِلَ فِي الْكُلْيَةِ. (Yuʿānī min mashākila fī l-kulya.) | Böbrek sorunları yaşıyor.
+جِلْد (jild) | deri, cilt | isim (e) | الشَّمْسُ تَضُرُّ الْجِلْدَ. (Ash-shamsu taḍurru l-jild.) | Güneş cilde zarar verir.
+عَضَلَة (ʿaḍala) | kas (çoğ. عَضَلَات) | isim (d) | عَضَلَاتِي تُؤْلِمُنِي بَعْدَ التَّمْرِينِ. (ʿAḍalātī tuʾlimunī baʿda t-tamrīn.) | Antrenmandan sonra kaslarım ağrıyor.
+دِمَاغ (dimāgh) | beyin | isim (e) | النَّوْمُ مُهِمٌّ لِلدِّمَاغِ. (An-nawmu muhimmun li-d-dimāgh.) | Uyku beyin için önemli.
+رُكْبَة (rukba) | diz (çoğ. رُكَب) | isim (d) | سَقَطْتُ وَجَرَحْتُ رُكْبَتِي. (Saqaṭtu wa-jaraḥtu rukbatī.) | Düştüm ve dizimi yaraladım.
+## Acil durum
+طَوَارِئ (ṭawāriʾ) | acil durum; acil servis | isim (çoğul) | اِتَّصِلْ بِالطَّوَارِئِ فَوْرًا! (Ittaṣil bi-ṭ-ṭawāriʾi fawran!) | Hemen acil servisi ara!
+إِسْعَاف (ʾisʿāf) | ambulans; ilk yardım | isim (e) | وَصَلَتْ سَيَّارَةُ الْإِسْعَافِ بِسُرْعَةٍ. (Waṣalat sayyāratu l-ʾisʿāfi bi-surʿa.) | Ambulans hızla geldi.
+حَادِث (ḥādith) | kaza, olay (çoğ. حَوَادِث) | isim (e) | وَقَعَ حَادِثٌ فِي الشَّارِعِ. (Waqaʿa ḥādithun fī sh-shāriʿ.) | Sokakta bir kaza oldu.
+جُرْح (jurḥ) | yara (çoğ. جُرُوح) | isim (e) | الْجُرْحُ صَغِيرٌ، لَا تَقْلَقْ. (Al-jurḥu ṣaghīr, lā taqlaq.) | Yara küçük, endişelenme.
+جَرِيح (jarīḥ) | yaralı (çoğ. جَرْحَى) | sıfat | لَيْسَ هُنَاكَ جَرْحَى. (Laysa hunāka jarḥā.) | Yaralı yok.
+النَّجْدَة (an-najda) | imdat!; yardım | ünlem | النَّجْدَةَ! سَاعِدُونِي! (An-najdata! Sāʿidūnī!) | İmdat! Yardım edin!
+خَطَر (khaṭar) | tehlike (çoğ. أَخْطَار) | isim (e) | اِنْتَبِهْ، هُنَاكَ خَطَرٌ! (Intabih, hunāka khaṭar!) | Dikkat, tehlike var!
+خَطِير (khaṭīr) | tehlikeli; ciddi | sıfat | حَالَتُهُ لَيْسَتْ خَطِيرَةً. (Ḥālatuhu laysat khaṭīra.) | Durumu ciddi değil.
+حَرِيق (ḥarīq) | yangın (çoğ. حَرَائِق) | isim (e) | شَبَّ حَرِيقٌ فِي الْمَطْبَخِ. (Shabba ḥarīqun fī l-maṭbakh.) | Mutfakta yangın çıktı.
+أَنْقَذَ (ʾanqadha) | kurtarmak (geniş z.: يُنْقِذُ) | fiil | أَنْقَذَ الشَّابُّ الطِّفْلَ مِنَ الْبَحْرِ. (ʾAnqadha sh-shābbu ṭ-ṭifla mina l-baḥr.) | Genç, çocuğu denizden kurtardı.
+## Sağlıklı yaşam
+صِحِّيّ (ṣiḥḥiyy) | sağlıklı; sağlıkla ilgili | sıfat | أَكْلُ الْخُضَارِ صِحِّيٌّ. (ʾAklu l-khuḍāri ṣiḥḥiyy.) | Sebze yemek sağlıklı.
+رِيَاضَة (riyāḍa) | spor | isim (d) | أُمَارِسُ الرِّيَاضَةَ ثَلَاثَ مَرَّاتٍ أُسْبُوعِيًّا. (ʾUmārisu r-riyāḍata thalātha marrātin ʾusbūʿiyyan.) | Haftada üç kez spor yapıyorum.
+وَزْن (wazn) | ağırlık, kilo (çoğ. أَوْزَان) | isim (e) | زَادَ وَزْنِي فِي الْعُطْلَةِ. (Zāda waznī fī l-ʿuṭla.) | Tatilde kilo aldım.
+حِمْيَة (ḥimya) | diyet, perhiz | isim (d) | أَنَا عَلَى حِمْيَةٍ هٰذَا الشَّهْرَ. (ʾAnā ʿalā ḥimyatin hādhā sh-shahr.) | Bu ay diyetteyim.
+تَدْخِين (tadkhīn) | sigara içme | isim (e) | التَّدْخِينُ مَمْنُوعٌ هُنَا. (At-tadkhīnu mamnūʿun hunā.) | Burada sigara içmek yasak.
+دَخَّنَ (dakhkhana) | sigara içmek (geniş z.: يُدَخِّنُ) | fiil | تَوَقَّفَ أَبِي عَنِ التَّدْخِينِ وَلَمْ يَعُدْ يُدَخِّنُ. (Tawaqqafa ʾabī ʿani t-tadkhīni wa-lam yaʿud yudakhkhin.) | Babam sigarayı bıraktı, artık içmiyor.
+لِيَاقَة (liyāqa) | kondisyon, form | isim (d) | لِيَاقَتُهُ الْبَدَنِيَّةُ مُمْتَازَةٌ. (Liyāqatuhu l-badaniyyatu mumtāza.) | Fiziksel kondisyonu mükemmel.
+تَمْرِين (tamrīn) | egzersiz, alıştırma (çoğ. تَمَارِين) | isim (e) | هٰذَا التَّمْرِينُ سَهْلٌ. (Hādhā t-tamrīnu sahl.) | Bu egzersiz kolay.
+نَشَاط (nashāṭ) | aktivite, faaliyet; canlılık (çoğ. أَنْشِطَة) | isim (e) | الْمَشْيُ نَشَاطٌ مُفِيدٌ. (Al-mashyu nashāṭun mufīd.) | Yürüyüş faydalı bir aktivite.
+مُضِرّ (muḍirr) | zararlı | sıfat | السُّكَّرُ الْكَثِيرُ مُضِرٌّ. (As-sukkaru l-kathīru muḍirr.) | Fazla şeker zararlı.
+## Hastalıklar
+سُكَّرِيّ (sukkariyy) | şeker hastalığı, diyabet | isim (e) | جَدِّي مُصَابٌ بِالسُّكَّرِيِّ. (Jaddī muṣābun bi-s-sukkariyy.) | Dedem şeker hastası.
+ضَغْطُ الدَّم (ḍaghṭu d-dam) | tansiyon, kan basıncı | isim (e) | ضَغْطُ دَمِهَا مُرْتَفِعٌ. (Ḍaghṭu damihā murtafiʿ.) | Tansiyonu yüksek.
+حَسَاسِيَّة (ḥasāsiyya) | alerji; hassasiyet | isim (d) | عِنْدِي حَسَاسِيَّةٌ مِنَ الْفُولِ السُّودَانِيِّ. (ʿIndī ḥasāsiyyatun mina l-fūli s-sūdāniyy.) | Yer fıstığına alerjim var.
+إِنْفِلُوَنْزَا (ʾinfluwanzā) | grip | isim (d) | أُصِبْتُ بِالْإِنْفِلُوَنْزَا فِي الشِّتَاءِ. (ʾUṣibtu bi-l-ʾinfluwanzā fī sh-shitāʾ.) | Kışın gribe yakalandım.
+عَدْوَى (ʿadwā) | bulaşma, enfeksiyon | isim (d) | اِغْسِلْ يَدَيْكَ لِتَجَنُّبِ الْعَدْوَى. (Ighsil yadayka li-tajannubi l-ʿadwā.) | Bulaşmayı önlemek için ellerini yıka.
+فَيْرُوس (fayrūs) | virüs (çoğ. فَيْرُوسَات) | isim (e) | هٰذَا الْفَيْرُوسُ يَنْتَشِرُ بِسُرْعَةٍ. (Hādhā l-fayrūsu yantashiru bi-surʿa.) | Bu virüs hızla yayılıyor.
+كَسْر (kasr) | kırık | isim (e) | عِنْدَهُ كَسْرٌ فِي السَّاقِ. (ʿIndahu kasrun fī s-sāq.) | Bacağında kırık var.
+مُعْدٍ (muʿdī) | bulaşıcı (belirli: الْمُعْدِي) | sıfat | هَلْ هٰذَا الْمَرَضُ مُعْدٍ؟ (Hal hādhā l-maraḍu muʿdin?) | Bu hastalık bulaşıcı mı?
+مُزْمِن (muzmin) | kronik, süreğen | sıfat | عِنْدَهَا أَلَمٌ مُزْمِنٌ فِي الظَّهْرِ. (ʿIndahā ʾalamun muzminun fī ẓ-ẓahr.) | Kronik sırt ağrısı var.
+تَسَمُّم (tasammum) | zehirlenme | isim (e) | أُصِيبَ بِتَسَمُّمٍ غِذَائِيٍّ. (ʾUṣība bi-tasammumin ghidhāʾiyy.) | Gıda zehirlenmesi geçirdi.
+## Hastanede
+عَمَلِيَّة (ʿamaliyya) | ameliyat; işlem | isim (d) | نَجَحَتِ الْعَمَلِيَّةُ وَالْحَمْدُ لِلّٰهِ. (Najaḥati l-ʿamaliyyatu wa-l-ḥamdu lillāh.) | Ameliyat başarılı geçti, çok şükür.
+جَرَّاح (jarrāḥ) | cerrah | isim (e) | الْجَرَّاحُ مَشْهُورٌ جِدًّا. (Al-jarrāḥu mashhūrun jiddan.) | Cerrah çok ünlü.
+أَشِعَّة (ʾashiʿʿa) | röntgen; ışınlar | isim (d) | نَحْتَاجُ إِلَى صُورَةِ أَشِعَّةٍ. (Naḥtāju ʾilā ṣūrati ʾashiʿʿa.) | Bir röntgen filmine ihtiyacımız var.
+إِبْرَة (ʾibra) | iğne (çoğ. إِبَر) | isim (d) | لَا أُحِبُّ الْإِبَرَ. (Lā ʾuḥibbu l-ʾibar.) | İğneleri sevmem.
+تَطْعِيم (taṭʿīm) | aşı, aşılama | isim (e) | أَخَذَ الطِّفْلُ التَّطْعِيمَ. (ʾAkhadha ṭ-ṭiflu t-taṭʿīm.) | Bebek aşısını oldu.
+كُرْسِيٌّ مُتَحَرِّك (kursiyyun mutaḥarrik) | tekerlekli sandalye | isim (e) | يَحْتَاجُ إِلَى كُرْسِيٍّ مُتَحَرِّكٍ. (Yaḥtāju ʾilā kursiyyin mutaḥarrik.) | Tekerlekli sandalyeye ihtiyacı var.
+نَتِيجَة (natīja) | sonuç (çoğ. نَتَائِج) | isim (d) | نَتِيجَةُ التَّحْلِيلِ جَيِّدَةٌ. (Natījatu t-taḥlīli jayyida.) | Tahlil sonucu iyi.
+تَأْمِينٌ صِحِّيّ (taʾmīnun ṣiḥḥiyy) | sağlık sigortası | isim (e) | هَلْ عِنْدَكَ تَأْمِينٌ صِحِّيٌّ؟ (Hal ʿindaka taʾmīnun ṣiḥḥiyy?) | Sağlık sigortan var mı?
+مُخْتَبَر (mukhtabar) | laboratuvar | isim (e) | أَرْسَلُوا الدَّمَ إِلَى الْمُخْتَبَرِ. (ʾArsalū d-dama ʾilā l-mukhtabar.) | Kanı laboratuvara gönderdiler.
+نَزِيف (nazīf) | kanama | isim (e) | تَوَقَّفَ النَّزِيفُ. (Tawaqqafa n-nazīf.) | Kanama durdu.
+## Hastalıkla ilgili fiiller
+مَرِضَ (mariḍa) | hastalanmak (geniş z.: يَمْرَضُ) | fiil | مَرِضَتْ أُمِّي الْأُسْبُوعَ الْمَاضِيَ. (Mariḍat ʾummī l-ʾusbūʿa l-māḍī.) | Annem geçen hafta hastalandı.
+تَأَلَّمَ (taʾallama) | acı çekmek (geniş z.: يَتَأَلَّمُ) | fiil | يَتَأَلَّمُ الْمَرِيضُ كَثِيرًا. (Yataʾallamu l-marīḍu kathīran.) | Hasta çok acı çekiyor.
+آلَمَ (ʾālama) | acıtmak, ağrıtmak (geniş z.: يُؤْلِمُ) | fiil · düzensiz | أَيْنَ يُؤْلِمُكَ؟ (ʾAyna yuʾlimuk?) | Neren ağrıyor?
+أُصِيبَ (ʾuṣība) | yakalanmak (hastalığa); yaralanmak (بِ ile) | fiil · düzensiz | أُصِيبَ اللَّاعِبُ فِي الْمُبَارَاةِ. (ʾUṣība l-lāʿibu fī l-mubārāh.) | Oyuncu maçta sakatlandı.
+جُرِحَ (juriḥa) | yaralanmak (edilgen) | fiil | جُرِحَ ثَلَاثَةُ أَشْخَاصٍ فِي الْحَادِثِ. (Juriḥa thalāthatu ʾashkhāṣin fī l-ḥādith.) | Kazada üç kişi yaralandı.
+تَحَسَّنَ (taḥassana) | iyileşmek, düzelmek (geniş z.: يَتَحَسَّنُ) | fiil | تَحَسَّنَتْ حَالَتُهُ كَثِيرًا. (Taḥassanat ḥālatuhu kathīran.) | Durumu çok düzeldi.
+اِلْتَوَى (iltawā) | burkulmak (geniş z.: يَلْتَوِي) | fiil · düzensiz | اِلْتَوَى كَاحِلِي أَثْنَاءَ الْجَرْيِ. (Iltawā kāḥilī ʾathnāʾa l-jary.) | Koşarken bileğim burkuldu.
+بَلَعَ (balaʿa) | yutmak (geniş z.: يَبْلَعُ) | fiil | لَا أَسْتَطِيعُ أَنْ أَبْلَعَ الْحَبَّةَ. (Lā ʾastaṭīʿu ʾan ʾablaʿa l-ḥabba.) | Hapı yutamıyorum.
+تَنَفَّسَ (tanaffasa) | nefes almak (geniş z.: يَتَنَفَّسُ) | fiil | تَنَفَّسْ بِعُمْقٍ. (Tanaffas bi-ʿumq.) | Derin nefes al.
+اِسْتَشَارَ (istashāra) | danışmak (geniş z.: يَسْتَشِيرُ) | fiil · düzensiz | اِسْتَشِرْ طَبِيبَكَ أَوَّلًا. (Istashir ṭabībaka ʾawwalan.) | Önce doktoruna danış.
+## Bedenin durumu
+سَلِيم (salīm) | sağlam, sağlıklı | sıfat | الْحَمْدُ لِلّٰهِ، الطِّفْلُ سَلِيمٌ. (Al-ḥamdu lillāh, aṭ-ṭiflu salīm.) | Çok şükür, çocuk sağ salim.
+قَوِيّ (qawiyy) | güçlü, kuvvetli (çoğ. أَقْوِيَاء) | sıfat | جَدِّي مَا زَالَ قَوِيًّا. (Jaddī mā zāla qawiyyan.) | Dedem hâlâ güçlü.
+حَامِل (ḥāmil) | hamile | sıfat | زَوْجَتِي حَامِلٌ فِي الشَّهْرِ السَّابِعِ. (Zawjatī ḥāmilun fī sh-shahri s-sābiʿ.) | Eşim yedi aylık hamile.
+شَاحِب (shāḥib) | solgun, benzi atmış | sıfat | وَجْهُكَ شَاحِبٌ، هَلْ أَنْتَ بِخَيْرٍ؟ (Wajhuka shāḥib, hal ʾanta bi-khayr?) | Yüzün solgun, iyi misin?
+مُصَاب (muṣāb) | yaralı; (bir hastalığa) yakalanmış | sıfat | اللَّاعِبُ مُصَابٌ فِي رُكْبَتِهِ. (Al-lāʿibu muṣābun fī rukbatih.) | Oyuncu dizinden sakat.
+مُرْتَاح (murtāḥ) | rahat, dinlenmiş | sıfat | أَشْعُرُ أَنَّنِي مُرْتَاحٌ الْآنَ. (ʾAshʿuru ʾannanī murtāḥun al-ʾān.) | Şimdi kendimi rahat hissediyorum.
+أَعْمَى (ʾaʿmā) | kör, görme engelli (kadın: عَمْيَاء) | sıfat | يَقْرَأُ الْأَعْمَى بِطَرِيقَةِ بْرَايْل. (Yaqraʾu l-ʾaʿmā bi-ṭarīqati Brāyl.) | Görme engelli kişi Braille ile okur.
+أَصَمّ (ʾaṣamm) | sağır, işitme engelli (kadın: صَمَّاء) | sıfat | جَارِي أَصَمُّ وَيَتَكَلَّمُ بِالْإِشَارَةِ. (Jārī ʾaṣammu wa-yatakallamu bi-l-ʾishāra.) | Komşum işitme engelli, işaret diliyle konuşuyor.
+ذُو إِعَاقَة (dhū ʾiʿāqa) | engelli (kadın: ذَاتُ إِعَاقَة) | sıfat | هٰذَا الْمَكَانُ لِذَوِي الْإِعَاقَةِ. (Hādhā l-makānu li-dhawī l-ʾiʿāqa.) | Bu yer engelliler için.
+خَفِيف (khafīf) | hafif | sıfat | عِنْدِي زُكَامٌ خَفِيفٌ. (ʿIndī zukāmun khafīf.) | Hafif bir nezlem var.
