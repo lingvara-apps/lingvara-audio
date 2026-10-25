@@ -1,0 +1,111 @@
+# UNIT: Memarlıq və tikinti | Layihə, daşıyıcı sistem, tikinti meydançası, kommunikasiya
+## Memarlıq dizaynı
+façade | fasad | Orijinal daş fasad qorunub saxlandı, daxili hissə isə tamamilə yenidən tikildi.
+elevation | görünüş (çizim) | Şimal görünüşü pencerelerin arkandakı qatlarla necə uyğunlaşdığını göstərir.
+cross-section | kəsik | Binadan alınan kəsik lobinin üstündəki gizli texniki mərtəbəni üzə çıxarır.
+site plan | baş plan | Baş plan işlər zamanı qorunmalı olan hər bir ağacı qeyd edir.
+atrium (atria) | atrium; daxili həyət | Şüşə damlı atriumdan ofislərə təbii işıq dolur.
+mezzanine | antresol; asma mərtəbə | Memar hündür tavanlardan istifadə etmək üçün asma mərtəbə əlavə etdi.
+courtyard | həyət | Mənzillər zeytin ağacları əkilmiş sakit həyətin ətrafında yerləşdirilib.
+cornice | korniş; saçaq | Uçulub-tökülən saçağın bir hissəsi keçən qış səkiyə düşdü.
+parapet | parapet; məhəccər | Çatı terrası alçaq kərpic parapetlə əhatə olunub.
+colonnade | sütunlu dəhliz; revak | Ziyarətçilər muzeyə çaya baxan uzun sütunlu dəhlizdən daxil olurlar.
+## Memarlıq üslubları və elementləri
+buttress | kontrfors; dayaq | Nəhəng daş dayaqlar katedralın divarlarının çölə əyilməsinin qarşısını alır.
+vault | tonoz | Köhnə zirzəminin tavanı alçaq kərpic tonozdur.
+spire | sivri qüllə | Kilsənin sivri qülləsi kəndin demək olar ki, hər küncündən görünür.
+keystone | kilid daşı | Yuxarıdakı kilid daşı olmasa, bütün kəmər uçardı.
+gable | qalxanvari divar; alınlıq | Küçədəki hər evin kanala baxan dik qalxanvari divarı var.
+pediment | pediment; üçbucaqlı alınlıq | Bankın girişinin üzərində oyma figurlu üçbucaqlı pediment ucalır.
+cupola | günbəzcik; fənər | Çatüdakı kiçik günbəzcik mərkəzi pilləkənə işıq salır.
+minimalist | minimalist; sadə | Kamil çılpaq divarları və çox az mebeli olan sadə interyerlərə üstünlük verir.
+ornate | bəzəkli; naxışlı | Teatrın bəzəkli eyvanları orijinal çizimlərdən istifadə olunaraq bərpa edildi.
+brutalist | brutalist; kobud beton üslublu | Bəzi sakinlər brutalist kitabxananı sevir, digərləri isə onun xam betonunu darıxdırıcı hesab edir.
+## Layihə və tender
+invitation to tender | tender dəvəti | Beş şirkət yeni xəstəxana korpusu üçün edilən tender dəvətinə cavab verdi.
+bill of quantities | həcm cədvəli; xərclər smetası | Həcm cədvəlindəki hər bir bənd son tarixə qədər qiymətləndirilməlidir.
+specification | texniki şərtnamə | Texniki şərtnamə hər bir dəhliz divarında yanğına davamlı panellərin olmasını tələb edir.
+feasibility study | iqtisadi əsaslandırma | İqtisadi əsaslandırma tədqiqatı göstərdi ki, köhnə anbar mənzilə çevrilə bilər.
+as-built drawing | icra çizimi; faktiki vəziyyət planı | Sifarişçi hər bir borunun tam olaraq hara çəkildiyini göstərən icra çizimlərini tələb etdi.
+variation order | dəyişiklik əmri; əlavə iş tapşırığı | Dəyişiklik əmri imzalanana qədər heç bir əlavə işə başlanılmamalıdır.
+subcontractor | subpodratçı; daşqurum | Elektrik işləri ixtisaslaşmış subpodratçıya həvalə edildi.
+cost overrun | büdcə aşımı; xərc aşılması | Polad tədarükündəki gecikmələr ciddi büdcə aşımına səbəb oldu.
+progress payment | yerinə yetirilmiş işlərin ödənişi; hakediş | Tikinti heyəti aylıq ödəniş sənədini hər ayın son cümə günü hazırlayır.
+liquidated damages | dəbbə pulu; gecikmə cəriməsi | Təhvil gecikərsə, podratçı hər gün üçün gecikmə cəriməsi ödəməlidir.
+## Taşıyıcı sistem
+load-bearing wall | daşınan divar; yükdaşıyan divar | Polad tir əlavə etmədən yükdaşıyan divarı sadəcə sökə bilməzsiniz.
+beam | tir; balke | Əlavə mərtəbə tikildikdən sonra əsas tir boyunca çatlar əmələ gəldi.
+slab | beton plitə; döşəmə örtüyü | Mühəndislər ağır texnikanı təsdiqləməzdən əvvəl döşəmə plitəsinin qalınlığını yoxladılar.
+footing | təməl pəncəsi; tək təməl | Hər bir sütun təxminən iki metr enində dəmir-beton tək təməl üzərində dayanır.
+cantilever | konsol | Eyvan divardan üç metr çölə çıxan konsoldur.
+lintel | bənd; pəncərə üstü tiri | Beton lintel yeni qapı boşluğunun yuxarı hissəsini əhatə edir.
+truss | ferma; qəfəsli tir | Taxta fermalar idman zalının çatını daxili sütunlar olmadan saxlayır.
+shear wall | divar paneli; sərtlik divarı | Sərtlik divarları qüllənin güclü küləklərə və zəlzələlərə tab gətirməsinə kömək edir.
+deflection | əyilmə; sallanma | Tam yük altında döşəmənin əyilməsi məqbul hədlər daxilində qaldı.
+load-bearing capacity | yükdaşıma qabiliyyəti | Mühəndislər köhnə körpünü yenidən açmazdan əvvəl onun yükdaşıma qabiliyyətini sınadılar.
+## Tikinti materialları
+rebar | armatur; inşaat dəmiri | İşçilər beton tökülməzdən əvvəl armaturları məftillə bir-inə bağladılar.
+formwork | qəlib | Beton kifayət qədər möhkəmlik qazandıqdan sonra qəlib sökülə bilər.
+ready-mixed concrete | hazır beton | Hazır betonun keyfiyyəti konstruksiyanın möhkəmliyinə birbaşa təsir göstərir.
+mortar | məhlul; hörgü məhlulu | Daşlar arasındakı köhnə hörgü məhlulu qazılıb təmizlənməli və yenilənməli idi.
+stucco | stuko; xarici suvaq | Xarici divarlar boyanmazdan əvvəl iki qat suvağa ehtiyac duyur.
+screed | şap; döşəmə hamarlayıcı qat | Ən azı iki gün heç kim təzə şap üzərində gəzməməlidir.
+precast | yığma; prefabrikat | Yığma beton panellər məktəbin bir yay mövsümündə bitməsinə imkan verdi.
+timber frame | taxta karkas | Taxta karkas evlər tez tikilir və istiliyi yaxşı saxlayır.
+girder | polad tir; qoşa tircik | Alışveriş mərkəzinin girişinin üzərinə nəhəng polad tir qaldırıldı.
+waterproofing | su təcridi; hidroizolyasiya | Zirzəmidə zəif hidroizolyasiya hər divarda nəm ləkələrinə səbəb oldu.
+## Zemin və hafriyat
+earthworks | torpaq işləri; qazıntı | Yeraltı avtomobil dayanacağı üçün torpaq işləri təxminən üç ay çəkdi.
+backfill | əks dolğu | Borular sınaqdan keçirildikdən sonra xəndək sıxlaşdırılmış əks dolğu ilə bağlandı.
+pile | svay; paya | Zemin yumşaq olduğundan qüllə qırx metr dərinliyə çaxılmış svaylar üzərində dayanır.
+retaining wall | istinad divarı | İstinad divarı yamacın yola sürüşməsinin qarşısını alır.
+groundwater | yeraltı su | Yeraltı su çuxuru daim basdığı üçün nasoslar gecə-gündüz işlədi.
+soil investigation | mühəndis-geoloji tədqiqat | Zemin etüdü səthinin dərhal altında bir gil təbəqəsi olduğunu aşkar etdi.
+compaction | sıxlaşdırma | Hər bir təbəqənin düzgün sıxlaşdırılması yolun sonradan çökməsinin qarşısını alır.
+trench | xəndək; arx | Əlinin komandası yeni su xətti üçün dar bir xəndək qazdı.
+dewatering | suyun çəkilməsi; suyun aşağı salınması | Təməllər tamamilə izolyasiya olunana qədər suyun çəkilməsi davam etdirilməli idi.
+differential settlement | qeyri-bərabər çöküntü | Qeyri-bərabər çöküntü köhnə evin divarlarında çatlar əmələ gəlməsinə səbəb oldu.
+## Şantiye hayatı
+site manager | tikinti rəisi; sahə rəisi | Sahə rəisi hər səhər saat səkkizdən əvvəl bütün layihəni gəzir.
+hard hat | dəbilqə; qoruyucu papa | Ziyarətçilərin dəbilqə olmadan darvazadan keçməsinə icazə verilmir.
+high-visibility vest | əksetdirən jilet | Tikinti meydançasındakı hər kəs hərəkət edən nəqliyyat vasitələrinin yaxınlığında əksetdirən jilet geyinməlidir.
+toolbox talk | təhlükəsizlik təlimatı | Bugünkü təhlükəsizlik təlimatı hündürlükdə təhlükəsiz işləməyə yönəldilmişdi.
+site office | sahə ofisi | Həftəlik koordinasiya iclası bazar ertəsi günləri sahə ofisində keçirilir.
+hoist | yük qaldırıcısı; tikinti lifti | Materiallar müvəqqəti yük qaldırıcısı vasitəsilə yuxarı mərtəbələrə daşınır.
+pour | beton tökülməsi | Üçüncü mərtəbənin plitəsi üçün beton tökülməsi sübh tezdən başladı və hava qaraldıqdan sonra bitdi.
+curing | betonun nəmləndirilməsi; qulluq | İsti havada diqqətli qulluq betonun çatlamasının qarşısını alır.
+snag list | qüsurlar siyahısı | Qüsurlar siyahısına hələ də boşalmış kafel və bağlanmayan qapı daxildir.
+handover | obyektin təhvil verilməsi | Binanın sifarişçiyə təhvil verilməsi aprel ayının sonuna planlaşdırılır.
+## Mekanik tesisat
+ductwork | havalandırma kanalları | Havalandırma kanalları hər bir ofisdə asma tavanın üzərində gizlədilib.
+riser | kommunikasiya şaxtası; şaquli boru xətti | Bütün su və qaz boruları liftin yanındakı şaquli kommunikasiya şaxtasından keçir.
+HVAC | istilik, havalandırma və kondisioner sistemi | İKLİM (HVAC) sistemi binanın enerji sərfiyyatının təxminən yarısını təşkil edir.
+sprinkler system | çiləyici yanğınsöndürmə sistemi | Çiləyici sistemi anbara çatmamış yanğını söndürdü.
+drainage | drenaj; su drenaj sistemi | Təməllərin ətrafındakı zəif drenaj hər fırtınadan sonra suyun yığılmasına səbəb oldu.
+manhole | baxış quyusu; lyuk | Bir işçi tutulmuş kanalizasiyanı yoxlamaq üçün baxış quyusuna düşdü.
+stopcock | kran; kəsici vana | Lukas kranı dəyişdirməzdən əvvəl moyqanın altındakı kəsici vananı bağladı.
+underfloor heating | isti döşəmə | İsti döşəmə yanvar ayında belə daş döşəmələri isti saxlayır.
+air handling unit | mərkəzi kondisioner; hava işləmə qurğusu | Damdakı hava işləmə qurğusu bütün altı mərtəbəni təmiz hava ilə təmin edir.
+plumbing | santexnika | Köhnə binadakı santexnika sistemi başdan-başa dəyişdirilməli idi.
+## Elektrik və yangın güvenliği
+wiring | elektrik naqilləri; kabel çəkilişi | Müfəttiş naqillərin böyük hissəsinin qırx ildən çox olduğunu aşkar etdi.
+switchboard | paylayıcı lövhə; elektrik paneli | Binadakı hər bir dövrə əsas elektrik panelində qeyd olunub.
+circuit breaker | avtomat açar; qoruyucu açar | Yeni soba işə düşən kimi avtomat açar açıldı.
+earthing | torpaqlama | Nasaz torpaqlama metal moyqanı ciddi təhlükəyə çevirə bilər.
+conduit | kabel borusu | Kabellər divarlara basdırılmış plastik kabel borularından keçir.
+cable tray | kabel kanalı; kabel dərəsi | Ağır güc xətləri zirzəmi tavanı boyunca kabel kanallarına düzülür.
+fire door | yanğın qapısı | Yanğın qapısı heç vaxt stulla açıq saxlanılmamalıdır.
+fire escape | yanğın nərdivanı | Köhnə otelə xarici yanğın nərdivanı quraşdırmaq əmr edildi.
+smoke detector | tüstü detektoru | Hər otaqda və dəhlizdə tüstü detektoru quraşdırılıb.
+emergency lighting | qəza işıqlandırılması | Qəza işıqlandırılması təsərrüfat qrupu tərəfindən ayda bir dəfə yoxlanılır.
+## İnce işler ve teslim süreci
+finishing works | bitirmə işləri | Konstruksiya hazırdır, lakin bitirmə işləri daha altı ay çəkəcək.
+drywall | gipsokarton; alçipan | Ofislər sonradan dəyişdirilə bilən alçipan aşırım divarları ilə bölünmüşdür.
+cladding | fasad üzlükləri; çöl örtüyü | Yanğından sonra qüllədən bütün yanğınsöndürən üzlüklər söküldü.
+joinery | taxta məmulatları; dülgər işləri | Kitabxanadakı sifarişli taxta məmulatları yerli emalatxana tərəfindən hazırlanıb.
+grout | derz dolğusu; plitə arası dolğu | Sofiya tünd boz derz dolğusu seçdi ki, vanna otağının plitələri daha uzun müddət təmiz qalsın.
+skirting board | süpürgelik; döşəmə kənarlığı | Rəssamlar divarlara başlamazdan əvvəl süpürgelikləri lentlə qorudular.
+sealant | герметик; mastik | Bir sıra silikon mastik pəncərə ətrafındakı boşluğa suyun girməsinin qarşısını alır.
+occupancy permit | yaşayış icazəsi; binanın istismara verilməsi aktı | İstifadə icazəsi verilənə qədər sakinlər köçə bilməzlər.
+defects liability period | qüsurların aradan qaldırılması müddəti | Qüsurların aradan qaldırılması müddətində tapılan hər hansı sızıntı podratçının hesabına təmir edilməlidir.
+commissioning | istismara vermə; sazlama | İstilik sisteminin istismara verilməsi iki nasaz nasosu üzə çıxardı.

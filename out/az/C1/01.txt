@@ -1,0 +1,111 @@
+# UNIT: Akademik diskurs | Elmi yazı, arqument, akademik qəliblər
+## Akademik proses
+monograph | monoqrafiya | Şimali dəniz üzrə orta əsr ticarət yolları haqqında monoqrafiya nəşr etdirdi.
+dissertation | doktorluq dissertasiyası | Ömər sahil eroziyası üzrə dissertasiyasını yazmağa dörd il sərf etdi.
+peer review | rəy vermə prosesi | Məqalə iki mərhələli rəydən sonra nəhayət qəbul olundu.
+viva | dissertasiya müdafiəsi | Onun müdafiəsi iyunun ikinci həftəsinə təyin edilib.
+tenure | daimi akademik vəzifə | On il dərs dedikdən sonra nəhayət daimi ştat aldı.
+citation | sitat, istinad | Hər bir istinad jurnalın tələb etdiyi üsluba uyğun olmalıdır.
+bibliography | ədəbiyyat siyahısı | Biblioqrafiya qırx səhifədən çox davam edir.
+footnote | səhifəaltı qeyd | Müəllif termini on ikinci səhifədəki qısa qeyddə izah edir.
+appendix (appendices) | əlavə | Anketin tam mətni sondakı əlavədə verilib.
+symposium (symposia) | simpozium | Yuki ilkin tapıntılarını Lissabondakı beynəlxalq simpoziumda təqdim etdi.
+## Məntiq və arqument
+line of reasoning | düşüncə tərzi, mühakimə xətti | İkinci fəsildə onun mühakimə xəttini izləməkdə çətinlik çəkirəm.
+inference | nəticəçıxarma, çıxarış | Belə məhdud məlumatlardan onun çıxardığı nəticə olduqca cəsarətli görünür.
+logical leap | məntiqi sıçrayış | Tək bir sorğudan universal qanuna keçmək böyük bir məntiqi sıçrayışdır.
+induction | induksiya | Əksər elmi qanunlara təkrar müşahidələrdən induksiya yolu ilə gəlinir.
+syllogism | sillogizm | Mühazirəçi dərsi ölümlülük haqqında klassik sillogizmlə başladı.
+fallacy | məntiqi xəta, səhv fikir | Fikrin özü əvəzinə danışanı günahlandırmaq geniş yayılmış məntiqi xətadır.
+sweeping generalisation | ümumiləşdirmə, şablon hökm | Bütün tələbələrin statistikanı sevmədiyini söyləmək böyük bir ümumiləşdirmədir.
+red herring | diqqəti yayındıran məqam | Maliyyələşmə ilə bağlı sual əsas məsələdən diqqəti yayındıran bir məqam idi.
+corollary | labüd nəticə | Qiymətlərin qalxması qıtlığın labüd nəticəsidir.
+tautology | totologiya | Pulsuz hədiyyələrin heç bir şeyə başa gəlmədiyini demək totologiyadır.
+## Tədqiqat üsulu
+methodology | metodologiya | Rəyçilər nəticələrdən çox metodologiyanı sual altinə qoydular.
+hypothesis (hypotheses) | hipotez | Məlumatlar ilkin hipotezimizi dəstəkləmədi.
+variable | dəyişən | Yaş, gəlir və təhsili ayrı dəyişənlər kimi nəzarətdə saxladıq.
+sample size | seçmə həcmi | Belə kiçik seçmə həcmi ilə nəticələri ümumiləşdirmək mümkün deyil.
+control group | nəzarət qrupu | Nəzarət qrupundakı iştirakçılara heç bir müalicə tətbiq olunmadı.
+longitudinal | lonqitüdinal, uzunmüddətli | Uzunmüddətli tədqiqat eyni ailələri iyirmi il ərzində izlədi.
+qualitative | keyfiyyət yönümlü | Layihə keyfiyyət yönümlü müsahibələri geniş onlayn sorğu ilə birləşdirir.
+quantitative | kəmiyyət yönümlü | Yalnız kəmiyyət üsulları insanların vərdişlərini niyə dəyişdiyini izah edə bilmədi.
+replicate | təkrarlamaq (təcrübəni) | Digər laboratoriyalar indiyə qədər təcrübəni təkrarlaya bilməyiblər.
+fieldwork | səhra tədqiqatı | Dieqo səhra tədqiqatını sahilboyu kiçik balıqçı kəndlərində apardı.
+## Məlumat və təhlil
+dataset | verilənlər bazası | Tədqiqatçılar bütün verilənlər bazasını ictimaiyyət üçün açıq etdilər.
+variance | dispersiya, variasiya | İki qrup arasındakı dispersiya komandanın gözlədiyindən daha böyük idi.
+causation | səbəbiyyət | Müəlliflər korrelyasiyanı səbəbiyyətlə səhv salmamağa diqqət edirlər.
+outlier | kənarlaşma, anomal göstərici | Bir kənarlaşma ortalamanı təhrif etdi, ona görə də onu analizdən çıxardıq.
+statistically significant | statistik cəhətdən əhəmiyyətli | İki qrup arasındakı fərq statistik cəhətdən əhəmiyyətli deyildi.
+margin of error | xəta payı | Sorğunun üç faiz bəndi həddində xəta payı var.
+standard deviation | standart kənarlaşma | Kiçik standart kənarlaşma nəticələrin əksəriyyətinin ortalamaya yaxın olduğunu bildirir.
+skew | təhrif etmək | Bir neçə həddən artıq varlı ev təsərrüfatı gəlir rəqəmlərini təhrif edə bilər.
+extrapolate | ekstrapolyasiya etmək, ümumiləşdirmək | Bir mövsümün məlumatlarını növbəti onilliyə şamil etmək risklidir.
+anomaly | anomaliya, sapma | Əvvəlcə komanda qəribə göstəricini kiçik bir anomaliya kimi qiymətləndirmədi.
+## İddia və sübut feilləri
+posit | irəli sürmək | Nəzəriyyə irəli sürür ki, dil rəngləri qavrama tərzimizi formalaşdırır.
+purport | iddia etmək, görsənmək | Tədqiqat yuxu ilə yaddaş arasında əlaqə olduğunu iddia edir.
+bear out (bore, borne) | təsdiqləmək | Son tapıntılar Yukinin illər əvvəl şübhələndiyi məqamı təsdiqləyir.
+corroborate | təsdiq etmək, əsaslandırmaq | İki müstəqil şahid onun hadisələr versiyasını təsdiq edir.
+invalidate | qüvvədən salmaq, etibarsız etmək | Seçmədəki tək bir səhv bütün təcrübəni etibarsız edə bilər.
+bolster | gücləndirmək, dəstəkləmək | Dieqo arqumentini gücləndirmək üçün üç yeni nümunə araşdırması əlavə etdi.
+attest | təsdiq etmək, şahidlik etmək | Sağ qalmış yüzlərlə məktub onların uzun dostluğuna şahidlik edir.
+allege | sübutsuz iddia etmək | Tənqidçilər iddia edirlər ki, rəqəmlər daha müsbət görünsün deyə dəyişdirilib.
+vindicate | haqlı çıxarmaq | Son tapıntılar onun mübahisəli nəzəriyyəsini haqlı çıxarır kimi görünür.
+debunk | mifləri çürüdən | Sənədli film pəhrizlə bağlı bir çox populyar mifləri çürütməyi qarşısına məqsəd qoyur.
+## Təhlil və şərh feilləri
+scrutinise | diqqətlə yoxlamaq | Komitə yekun hesabatın hər səhifəsini diqqətlə yoxlayacaq.
+elucidate | işıqlandırmaq, aydınlaşdırmaq | İkinci fəsil iqlimlə miqrasiya arasındakı əlaqəni aydınlaşdırır.
+delineate | cizgilərini çəkmək, təsvir etmək | Giriş hissəsi tədqiqatın əhatə dairəsini açıq şəkildə müəyyənləşdirir.
+juxtapose | yanaşı qoymaq | Müəllif ailəyə münasibətdə şəhər və kənd görüşlərini yanaşı qoyur.
+synthesise | sintez etmək | Yaxşı icmal onilliklərin tədqiqatlarını aydın mənzərədə sintez etməlidir.
+conceptualise | konseptuallaşdırmaq | Müəllif yaddaşı fərdi deyil, sosial proses kimi konseptuallaşdırır.
+construe | yozmaq, şərh etmək | Onun səssizliyi komitənin qalan hissəsi tərəfindən razılıq kimi yozuldu.
+expound | ətraflı izah etmək | Son mühazirəsində o, mənəvi məsuliyyət haqqında fikirlərini ətraflı izah etdi.
+problematise | problemləşdirmək | Son tədqiqatlar təbiət və mədəniyyət arasındakı sadə bölgünü problemləşdirir.
+contextualise | kontekstə oturtmaq | Bu məktubları dövrün siyasəti kontekstində oturtmaq vacibdir.
+## Nəzəriyyə və anlayış
+paradigm | paradigma | Kuantum nəzəriyyəsi elmi პარադigmada dərin bir dönüş nöqtəsi oldu.
+framework | çərçivə | Tədqiqat iqtisadiyyatdan götürülmüş nəzəri çərçivədən istifadə edir.
+construct | sosial konstrukt, qurğu | Bir çox sosioloq uşaqlığı sosial konstrukt kimi görür.
+axiom | aksiom | Bütün sistem bir ovuc sadə aksioma əsaslanır.
+postulate | postulat, ilkin şərt | Nəzəriyyənin ikinci postulatı hələ də çox mübahisəlidir.
+dichotomy | dixotomiya, ikitərəflilik | Kitab ağıl ilə duyğu arasındakı yanlış dixotomiyaya meydan oxuyur.
+nuance | nüans, incəlik | Tərbiyə orijinal şeirin nüanslarının çoxunu itirir.
+discourse | diskurs | Ekoloji məsələlər artıq bir çox ölkədə ictimai diskursa hakimdir.
+epistemology | epistemologiya | Epistemologiya dərsi hər hansı bir şeyi qəti şəkildə necə bilə biləcəyimizi soruşur.
+taxonomy | taksonomiya, təsnifat | Tədqiqatçılar öyrənmə çətinlikləri üçün yeni təsnifat təklif etdilər.
+## Ehtiyatlı dil
+arguably | demək olar ki, mübahisəsiz | Bu, əslində əsrin ən mühüm kəşfidir.
+ostensibly | görünüşdə, zahirən | Görüş zahirən maliyyələşmə ilə bağlı idi, lakin heç kim puldan danışmadı.
+presumably | güman ki | Əlyazma güman ki, on səkkizinci əsrin əvvəllərində yazılmışdır.
+tentative | ilkin, ehtiyatlı | Bunlar yalnız məlumatların ilk ilinə əsaslanan ilkin nəticələrdir.
+speculative | spekulyativ, ehtimala əsaslanan | Bu mərhələdə model üçün hər hansı bir izahat əsasən spekulyativ olaraq qalır.
+conceivably | ehtimal etmək olar ki | Təsir kiçik uşaqlarda ehtimal ki, daha güclü ola bilər.
+to some extent | müəyyən dərəcədə | Nəticələr müəyyən dərəcədə müəllimlərin uzun müddətdir şübhələndiklərini təsdiqləyir.
+it would appear that | belə görünür ki | Belə görünür ki, virus quru havada daha yavaş yayılır.
+by and large | ümumilikdə | Ümumilikdə, tələbələr yeni kursa müsbət reaksiya verdilər.
+caveat | xəbərdarlıq, qeyd-şərt | Vacib qeyd-şərtlərdən biri odur ki, bütün iştirakçılar universitet tələbələri idi.
+## Akademik sifətlər
+empirical | empirik, təcrübi | Bu populyar iddianı dəstəkləyən az sayda empirik sübut var.
+rigorous | sərt, tələbkar | Yeni dərman təsdiqlənməzdən əvvəl ciddi sınaqlardan keçdi.
+salient | diqqəti cəlb edən, əsas | Məlumatların ən diqqəti cəlb edən xüsusiyyəti 2009-cu ildəki kəskin düşüşdür.
+cogent | inandırıcı, tutarlı | O, yoxlalanma səviyyəsini ölçmə tərzimizi dəyişdirmək üçün inandırıcı arqument gətirdi.
+seminal | təməlqoyucu, çığır açan | Onun yaddaşla bağlı təməlqoyucu məqaləsinə hələ də minlərlə tədqiqatçı istinad edir.
+inconclusive | qəti olmayan, nəticəsiz | Sınaq nəticələri qəti deyildi, ona görə də daha böyük tədqiqat planlaşdırılır.
+interdisciplinary | fənlərarası | Mərkəz biologiya və kompüter elmləri arasında fənlərarası tədqiqatları təşviq edir.
+peripheral | ikinci dərəcəli, kənar | Bu suallar kitabın əsas arqumenti üçün ikinci dərəcəlidir.
+robust | etibarlı, dayanıqlı | Nəticələr bir neçə müxtəlif ölkədə dayanıqlı olduğunu sübut etdi.
+spurious | saxta, yanıltıcı | İki tendensiya arasındakı görünən əlaqənin yanıltıcı olduğu ortaya çıxdı.
+## Akademik qəliblər
+in light of | işığında | Bu tapıntılar işığında siyasət yenidən nəzərdən keçirilməlidir.
+with regard to | ilə əlaqədar | Maliyyələşmə ilə əlaqədar universitet əlavə dəstək verəcəyini vəd edib.
+notwithstanding | baxmayaraq | Məhdudiyyətlərinə baxmayaraq, tədqiqat dəyərli anlayışlar təqdim edir.
+vis-a-vis | nisbətən, qarşısında | Məqalə kiçik dövlətlərin daha böyük qonşuları qarşısındakı mövqeyini araşdırır.
+inter alia | digərləri ilə yanaşı | Hesabat digərləri ilə yanaşı mənzil, nəqliyyat və ictimai səhiyyəni əhatə edir.
+it is worth noting that | qeyd etmək yerinə düşər ki | Qeyd etmək yerinə düşər ki, sorğu böhrandan əvvəl aparılmışdır.
+to put it another way | başqa sözlə desək | Başqa sözlə desək, ucuz variant uzunmüddətli dövrdə daha baha başa gələ bilər.
+as outlined above | yuxarıda qeyd olunduğu kimi | Yuxarıda qeyd olunduğu kimi, metodun üç əsas mərhələsi var.
+this paper argues that | bu məqalə iddia edir ki | Bu məqalə iddia edir ki, erkən ikidillilik diqqəti yaxşılaşdırır.
+further research is needed | əlavə tədqiqatlara ehtiyac var | Bu nəticələri yaşlı yetişkinlərdə təsdiqləmək üçün əlavə tədqiqatlara ehtiyac var.

@@ -1,0 +1,111 @@
+# UNIT: Texnologiya | Proqram təminatı, təhlükəsizlik, süni intellekt, kosmos
+## Proqram və aparat təminatı
+hardware | aparat təminatı, avadanlıq | Proqram yaxşı işləyir, amma aparat təminatında problem var.
+operating system | əməliyyat sistemi | Mənim köhnə noutbukum ən son əməliyyat sistemini işlədə bilmir.
+plug-in | plagin, qoşma | Bu səhifədə videoları oxutmaq üçün pulsuz bir plagin əlavə etməlisiniz.
+patch | yamaq, düzəliş paketi | Şirkət dünən gecə oyun üçün təhlükəsizlik yamağı buraxdı.
+user-friendly | istifadəçi üçün rahat, anlaşıqlı | Yeni rezervasiya sistemi köhnəsindən xeyli daha rahatdır.
+interface | interfeys | Nənəm yeni telefonunun sadə interfeysini bəyənir.
+open-source | açıq mənbəli | Bir çox universitet pulsuz olduğu üçün açıq mənbəli proqramlardan istifadə edir.
+source code | mənbə kodu | Tərtibatçılar hər kəs təkmilləşdirə bilsin deyə mənbə kodunu paylaşdılar.
+app store | tətbiq mağazası | Tətbiq mağazasında minlərlə dil öyrənmə tətbiqi tapa bilərsiniz.
+beta | beta versiyası | Rəsmi buraxılışdan əvvəl beta versiyasını yalnız bir neçə yüz istifadəçi sınaqdan keçirə bilər.
+## Proqramlaşdırma
+code | kod | Omar bütün onlayn mağazanın kodunu bir aya yazdı.
+developer | tərtibatçı, layihəçi | Anna kiçik bir şirkətdə mobil tətbiq tərtibatçısı kimi işləyir.
+coder | kod yazan, proqramçı | Dieqo pulsuz videolara baxaraq öz-özünə kod yazmağı öyrəndi.
+programming language | proqramlaşdırma dili | Yeni başlayan biri ilk olaraq hansı proqramlaşdırma dilini öyrənməlidir?
+debug | sazlamaq, səhvləri aradan qaldırmaq | Proqramındakı səhvləri aradan qaldırmaq Lukasın bütün günortasını aldı.
+syntax | sintaksis | Tək bir çatışmayan mötərizə sintaksis xətasına səbəb olmaq üçün kifayətdir.
+loop | dövr, ilgək | Proqram dövrə düşdü və heç dayanmadı.
+database | məlumat bazası | Bütün müştəri sifarişləri təhlükəsiz məlumat bazasında saxlanılır.
+server | server | Server işini dayandırdığı üçün sayt saatlarla əlçatmaz oldu.
+cloud storage | bulud yaddaşı | Telefonumu itirərəm deyə bütün şəkillərimi bulud yaddaşında saxlayıram.
+## Kibertəhlükəsizlik
+cybersecurity | kibertəhlükəsizlik | Banklar hər il kibertəhlükəsizliyə milyonlar xərcləyirlər.
+malware | zərərli proqram | O əlavə faylı açmayın; tərkibində zərərli proqram ola bilər.
+ransomware | fidyə proqramı | Fidyə proqramı bütün faylları blokladı və cinayətkarlar pul tələb etdilər.
+firewall | qoruyucu divar, fayrvol | Şirkətin qoruyucu divarı əksər şübhəli veb-saytları bloklayır.
+encrypt | şifrələmək | Tətbiq başqa heç kim oxuya bilməsin deyə mesajlarınızı şifrələyir.
+phishing | fişinq, fırıldaqçılıq | Bank məlumatlarınızı istəyən həmin mesaj bir fişinq cəhdidir.
+two-factor authentication | iki faktorlu identifikasiya | Hesabınızı daha təhlükəsiz etmək üçün iki faktorlu identifikasiyanı aktivləşdirin.
+cyberattack | kiberhücum | Kiberhücum xəstəxananın kompüter sistemini iki gün müddətinə sıradan çıxardı.
+hack into | sındırıb girmək, icazəsiz daxil olmaq | Dünən gecə kimsə mənim e-poçt hesabıma girməyə çalışdı.
+data breach | məlumat sızması | Məlumat sızmasından sonra bütün istifadəçilərdən şifrələrini dəyişdirmələri istənildi.
+## Süni intellekt
+artificial intelligence | süni intellekt | Süni intellekt həkimlərin xəstəliklərə diaqnoz qoyma tərzini dəyişir.
+robot | robot | Bu fabrikdə ağır yüklərin çoxunu robotlar qaldırır.
+machine learning | maşın öyrənməsi | Maşın öyrənməsi tətbiqin əl yazınızı tanımasına kömək edir.
+automate | avtomatlaşdırmaq | Faktura prosesini avtomatlaşdırdıq və bu, bizə hər həftə saatlarla vaxt qazandırır.
+chatbot | çatbot | Bankın çatbotu sualıma bir neçə saniyəyə cavab verdi.
+voice assistant | səsli köməkçi | Yemək bişirərkən səsli köməkçimdən taymer qurmasını istəyirəm.
+predict | proqnozlaşdırmaq, əvvəlcədən görmək | Proqram müştərilərin növbəti dəfə hansı məhsulları alacağını proqnozlaşdıra bilir.
+facial recognition | sifətin tanınması | Bəzi hava limanları pasportları əllə yoxlamaq əvəzinə sifətin tanınması sistemindən istifadə edir.
+neural network | neyron şəbəkəsi | Neyron şəbəkəsi milyonlarla nümunəyə baxaraq öyrənir.
+generate | hasil etmək, yaratmaq | Bu alət istənilən uzun məqalənin qısa xülasəsini yarada bilər.
+## İnternet və şəbəkə
+network | şəbəkə | Ofisdəki bütün kompüterlər tək bir şəbəkəyə qoşulub.
+router | router, yönləndirici | İnternet kəsilsə, routeri söndürüb yandırmağı yoxlayın.
+hotspot | giriş nöqtəsi, hotspot | Qatarda işləmək üçün telefonumu giriş nöqtəsi kimi istifadə etdim.
+bandwidth | buraxılış zolağı, bant genişliyi | Videozənglər çox buraxılış zolağı tələb edir, ona görə də bağlantı zəifləyir.
+broadband | genişzolaqlı internet | Bəzi kənd yerlərində sürətli genişzolaqlı internet hələ də yoxdur.
+cache | keş, keş yaddaş | Əgər səhifə hələ də köhnə məlumatları göstərirsə, keşi təmizləyin.
+pop-up | açılan pəncərə | Bu səhifəyə hər dəfə daxil olanda bezdirici açılan pəncərələr çıxır.
+hyperlink | keçid, hiperlink | Təsdiqləmək üçün e-poçtun altındakı keçidə klikləyin.
+buffer | buferlənmək, fasilələrlə yüklənmək | Bağlantı çox zəif olduğu üçün film fasilələrlə yüklənirdi.
+backup | ehtiyat nüsxə | Tənzimləmələri dəyişdirməzdən əvvəl həmişə işinizin ehtiyat nüsxəsini çıxarın.
+## Cihazlar
+battery life | batareya ömrü | Bu telefonun batareya ömrü təxminən iki gündür.
+wearable | geyilə bilən | Geyilə bilən cihazlar siz yatarkən ürək döyüntünüzü izləyə bilər.
+headset | qulaqlıqlı mikrofon | Küyü azaltmaq üçün onlayn dərslər zamanı qulaqlıqlı mikrofondan istifadə edin.
+sensor | sensor, ötürücü | Kimsə otağa girəndə sensor işıqları yandırır.
+processor | prosessor | Yeni modelin daha sürətli prosessoru və daha yaxşı kamerası var.
+memory card | yaddaş kartı | Fotokameramın yaddaş kartı tətil şəkilləri ilə doludur.
+smart speaker | ağıllı dinamik | Mətbəxdəki ağıllı dinamikdən xəbərləri səsləndirməsini istəyirik.
+earbuds | simsiz qulaqlıq, qulaqdaxili qulaqlıq | Yuki avtobusda podkastları həmişə qulaqdaxili qulaqlıqla dinləyir.
+stylus | stilus, sensor qələm | Rəssamlar planşetlərdə tez-tez xüsusi stilusla rəsm çəkirlər.
+trackpad | trekpad, sensor panel | Siçandan istifadə etməyə üstünlük verirəm, çünki trekpad çox həssasdır.
+## Kosmos
+astronaut | astronavt | Astronavt kosmik stansiyada altı ay yaşadı.
+spacecraft | kosmik aparat, kosmik gəmi | Kosmik aparat təxminən yeddi aya Marsa çatacaq.
+rocket | raket | Minlərlə insan raketin sahildən göyə yüksəlməsini izlədi.
+satellite | peyk | Hava peykləri hər saat bizə buludların yeni şəkillərini göndərir.
+planet | planet | Yupiter günəş sistemimizdəki ən böyük planetdir.
+space station | kosmik stansiya | Bəzən kosmik stansiyanı Yerdən adi gözlə görmək olar.
+lift-off | havaya qalxma, start | Güclü külək səbəbindən start iki saat təxirə salındı.
+countdown | gerisayma | Buraxılışdan əvvəl bütün izdiham gerisaymaya qoşuldu.
+launch pad | buraxılış meydançası | Raket uçuşdan əvvəl üç gün buraxılış meydançasında qaldı.
+mission control | uçuşu idarəetmə mərkəzi | Uçuşu idarəetmə mərkəzi bir neçə dəqiqəlik kosmik aparatla əlaqəni itirdi.
+## Kosmik tədqiqatlar
+universe | kainat | Alimlər kainatın təxminən on dörd milyard yaşında olduğuna inanırlar.
+solar system | günəş sistemi | Günəş sistemimizdə səkkiz planet var.
+mission | missiya, xüsusi tapşırıq | Asteroiddən süxur toplamaq missiyası böyük bir uğur idi.
+asteroid | asteroid | Kiçik bir asteroid Yerlə Ay arasından təhlükəsiz şəkildə keçdi.
+black hole | qara dəlik | Qara dəlikdən hətta işıq belə qaça bilməz.
+spacewalk | açıq kosmosa çıxış | İki astronavt altı saatlıq açıq kosmosa çıxış zamanı günəş panelini təmir etdi.
+lunar | Aya aid, Ay | Ayın səthi incə boz tozla örtülmüşdür.
+crater | krater | Nəhəng krater milyonlarla il əvvəl düşən bir qaya parçası tərəfindən yaranmışdır.
+rover | rover, planetoxod | Planetoxod illərdir Marsdan fotoşəkillər göndərir.
+exoplanet | ekzoplanet | Astronomlar su ola biləcək bir ekzoplanet kəşf ediblər.
+## Texnoloji fellər
+innovate | innovasiya etmək, yenilik etmək | Kiçik şirkətlər çox vaxt böyüklərdən daha tez yenilik edirlər.
+revolutionise | inqilab etmək, kökündən dəyişmək | Ağıllı telefonlar fotoşəkil çəkmək və paylaşmaq tərzimizdə inqilab etdi.
+troubleshoot | nasazlığı aradan qaldırmaq | Mühəndis bütün səhəri şəbəkədəki nasazlığı aradan qaldırmağa sərf etdi.
+configure | konfiqurasiya etmək, nizamlamaq | İstifadə etməzdən əvvəl printeri konfiqurasiya etməlisiniz.
+access | daxil olmaq, çıxış əldə etmək | İnterneti olan istənilən kompüterdən fayllarınıza daxil ola bilərsiniz.
+sync | sinxronlaşdırmaq | Telefonum təqvimimi avtomatik olaraq noutbukumla sinxronlaşdırır.
+reboot | yenidən başlatmaq | Əgər kompüter yenə donarsa, sadəcə onu yenidən başladın.
+customise | fərdiləşdirmək, özünə uyğunlaşdırmaq | Tətbiqi öz rəngləriniz və səslərinizlə fərdiləşdirə bilərsiniz.
+digitise | rəqəmsallaşdırmaq | Kitabxana bütün köhnə xəritələrini və məktublarını rəqəmsallaşdırır.
+malfunction | nasaz işləmək, xarab olmaq | Siqnalizasiyada nasazlıq yarandı və gecənin ortasında işə düşdü.
+## Texnologiya və cəmiyyət
+state-of-the-art | ən müasir, son texnologiyalı | Yeni xəstəxana ən müasir tibbi avadanlıqlarla doludur.
+obsolete | köhnəlmiş, sıradan çıxmış | Faks aparatları illər əvvəl əksər ofislərdə köhnəlmiş hala gəldi.
+virtual reality | virtual reallıq | Virtual reallıq sayəsində tələbələr qədim şəhərləri gəzə bilirlər.
+augmented reality | artırılmış reallıq | Bu tətbiq mebelləri otağınızda göstərmək üçün artırılmış reallıqdan istifadə edir.
+tech-savvy | texnologiyanı yaxşı bilən | Texnologiyanı yaxşı bilən bacımqızı yeni telefonumu beş dəqiqəyə quraşdırdı.
+surveillance | müşahidə, nəzarət | Şəhərin demək olar ki, hər küncündə müşahidə kameraları var.
+internet of things | əşyaların interneti | Əşyaların interneti sayəsində soyuducum özü süd sifariş edə bilir.
+smart home | ağıllı ev | Ağıllı evdə istilik sistemini telefonunuzla idarə edə bilərsiniz.
+digital detox | rəqəmsal detoks | Kamil dağlarda bir həftəlik rəqəmsal detoks etdi.
+deepfake | dipfeyk | Dipfeyk o qədər real görünürdü ki, bir çox insan ona inandı.

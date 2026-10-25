@@ -1,0 +1,111 @@
+# UNIT: Ofis və İT jarqonu | Korporativ jarqon, proqram təminatı dili, pul jarqonu
+## Korporativ klişelər
+synergy | sinerji, ortaq güc | Management keeps talking about synergy, but the two departments still refuse to share data.
+pain point | problemli nöqteyi-nəzər, müştərinin dərdi | Our research shows that slow delivery is the customers' biggest pain point.
+buy-in | könüllü dəstək, razılıq | Without buy-in from the senior staff, the new system will never work.
+deliverable | təhvil veriləcək iş, nəticə | The first deliverable is a full report on customer feedback by Friday.
+boil the ocean | mümkünsüzü sınamaq, hər şeyi eyni anda etməyə çalışmaq | Let's focus on one market first; there's no point trying to boil the ocean.
+circle back | məsələyə yenidən qayıtmaq | Good question, Omar; can we circle back to that after the budget review?
+low-hanging fruit | asan qənimət, ən sadə imkanlar | Before redesigning the whole site, let's pick the low-hanging fruit and fix the broken links.
+move the needle | nəzərəçarpacaq irəliləyiş əldə etmək | A new logo is nice, but it won't really move the needle on sales.
+paradigm shift | köklü dünyagörüşü dəyişikliyi | Remote work has caused a paradigm shift in how companies think about offices.
+value-add | əlavə dəyər | Our real value-add is the personal support we give every customer after the sale.
+## Toplantı jarqonu
+drill down | detallara varmaq | Let's drill down into the numbers and find out which region is losing money.
+deep dive | ətraflı araşdırma | Next week we'll do a deep dive into why customers cancel their subscriptions.
+take something offline | müzakirəni iclasdan kənara çıxarmaq | This is getting too detailed for everyone, so let's take it offline.
+ping | qısa mesaj göndərmək | Just ping me when the file is ready and I'll review it straight away.
+heads-up | əvvəlcədən xəbərdarlıq | Thanks for the heads-up about the audit; I'll get the files ready tonight.
+all-hands | bütün əməkdaşların iştirak etdiyi iclas | The CEO announced the merger at an all-hands on Thursday morning.
+parking lot | sonraya saxlanılan məsələlər siyahısı | That's a good point, but let's put it in the parking lot and get back to the agenda.
+alignment | həmrəylik, qarşılıqlı razılaşma | We need full alignment between sales and marketing before the campaign starts.
+run it up the flagpole | fikrini sınaqdan keçirib reaksiyaları yoxlamaq | It's only a rough idea, but let's run it up the flagpole and see who salutes.
+bikeshedding | önəmsiz detallar üzərində uzun-uzadı mübahisə etmək | We spent forty minutes bikeshedding over the colour of a button nobody will notice.
+## Ofis həyatı jarqonu
+water-cooler chat | dəhliz söhbəti, ofis dedi-qodusu | Most of the real news in this company spreads through water-cooler chat.
+hot-desking | sabit iş masası olmayan rejim | Since the move to hot-desking, nobody can find a desk near the window.
+busywork | mənasız məşğuliyyət, formal iş | The intern spent her first week doing busywork like sorting old files.
+presenteeism | xəstə ola-ola işə gəlmə, görkəm üçün işləmə | Presenteeism is a real problem: people come in sick just to be seen at their desks.
+jobsworth | həddindən artıq qayda-qanun güdən məmur | Some jobsworth at the front desk wouldn't let me in without a visitor badge.
+pen-pusher | kağızbaz məmur, bürokrat | He hates being treated like a pen-pusher when he has an engineering degree.
+wage slave | muzdlu qul | Omar felt like a wage slave, working sixty hours a week for a company he didn't care about.
+grind | ağır və darıxdırıcı iş | Back to the daily grind tomorrow, I'm afraid.
+clock-watcher | iş vaxtının bitməsini səbirsizliklə gözləyən işçi | Diego is a real clock-watcher; his coat is on at five to five every day.
+dogsbody | hər cür qara işi görən fəhlə | As the newest member of the team, I was everybody's dogsbody for months.
+## Karyera və idarəetmə jarqonu
+golden handcuffs | işçini şirkətə bağlayan sərfəli imtiyazlar | The bonus scheme works like golden handcuffs: if you leave early, you lose everything.
+golden parachute | rəhbər işçiyə verilən böyük təzminat | Shareholders were furious about the CEO's golden parachute after the merger failed.
+high-flyer | sürətlə irəliləyən istedadlı işçi | Ali was seen as a high-flyer and became a manager before he was thirty.
+deadwood | faydasız işçi heyəti | The new director promised to cut the deadwood from every department.
+rightsizing | ixtisar, ştatların optimallaşdırılması | The memo called it rightsizing, but everyone knew it meant layoffs.
+glass ceiling | şüşə tavan | She was the first woman in the firm to break through the glass ceiling.
+rainmaker | şirkətə böyük gəlir gətirən şəxs | Every law firm wants a rainmaker who brings in big clients.
+corner office | rəhbərlik otağı | After fifteen years of hard work, Emre finally got the corner office.
+yes-man | başı ilə hər şeyə razı olan dalkavuq | The new manager surrounded himself with yes-men who never questioned him.
+garden leave | işdən çıxarkən evdə oturub maaş alma | After resigning, Yuki was put on garden leave so she couldn't take clients to a rival.
+## Proqram təminatı dili
+codebase | kod bazası | The codebase is so old that nobody dares to touch the payment module.
+refactor | kodu yenidən qurmaq | Before adding new features, we should refactor this messy function.
+legacy code | köhnə miras kod | Maria spent the whole sprint untangling legacy code written fifteen years ago.
+technical debt | texniki borc | Every shortcut we take now adds to our technical debt later.
+hotfix | operativ düzəliş | We pushed a hotfix at midnight after the login page stopped working.
+roll back | əvvəlki versiyaya qayıtmaq | The update crashed the app, so we had to roll back to the previous version.
+deploy | proqramı serverə quraşdırmaq | We never deploy on Fridays, because nobody wants to fix bugs at the weekend.
+pull request | kod birləşdirmə sorğusu | Please open a pull request so the rest of the team can review your changes.
+backlog | gözləmədə olan tapşırıqlar siyahısı | The backlog now has over three hundred tickets that nobody has looked at.
+scope creep | layihə həcminin nəzarətsiz şəkildə böyüməsi | Thanks to scope creep, a two-week project has now taken four months.
+## Xətalar və səhvlərin aradan qaldırılması
+edge case | ekstremal vəziyyət | The app works fine until someone enters a name with an apostrophe, a classic edge case.
+workaround | müvəqqəti çıxış yolu | There's no fix yet, but there is a workaround: export the file as text first.
+kludge | quraşdırma (müvəqqəti və səliqəsiz həll) | The whole system is held together by a kludge that only Camille understands.
+spaghetti code | xaotik, dolaşıq kod | Nobody wants to maintain that spaghetti code, so it hasn't been updated in years.
+regression | funksiyanın sıradan çıxması xətası | The new update introduced a regression: the export button no longer works.
+race condition | resurs uğrunda yarış xətası | The random crashes turned out to be caused by a race condition between two threads.
+memory leak | yaddaş sızması | After a few hours the server slows down, which suggests a memory leak.
+stack trace | xəta yığını hesabatı | Please paste the full stack trace into the ticket so we can see where it failed.
+rubber duck debugging | səslə düşünərək səhvi tapma üsulu | Rubber duck debugging works: explaining the code aloud often reveals the mistake.
+dogfooding | öz məhsulundan şəxsən istifadə etmə | Dogfooding helped us find dozens of annoying bugs before customers did.
+## İT dəstək və istifadəçi jarqonu
+power user | təcrübəli istifadəçi | Power users want keyboard shortcuts, not more colourful buttons.
+end user | son istifadəçi | The interface must be simple enough for an end user with no technical training.
+technophobe | texnologiyadan qorxan şəxs | My uncle is a proud technophobe who still refuses to own a smartphone.
+factory reset | zavod parametrlərinə qaytarılma | If nothing else works, a factory reset will wipe the phone and start it fresh.
+admin rights | inzibatçı hüquqları | You can't install that software without admin rights on your laptop.
+outage | texniki kəsilmə, işləməmə halı | A six-hour outage left thousands of customers unable to access their accounts.
+sysadmin | sistem inzibatçısı | Ask the sysadmin to reset your password; she's the only one with access.
+helpdesk | texniki dəstək xidməti | I've raised a ticket with the helpdesk, but they haven't replied yet.
+user error | istifadəçi səhvi | The engineer smiled politely and said the problem was user error.
+turn it off and on again | söndürüb yenidən yandırmaq | Before calling support, have you tried turning it off and on again?
+## Startap dünyası
+unicorn | milyard dollardan çox dəyəri olan startap | Within three years the little food-delivery app had become a unicorn.
+angel investor | mələk investor | A retired engineer became their first angel investor, putting in fifty thousand pounds.
+runway | maliyyə ehtiyatının yetərlilik müddəti | With our current savings we have about eight months of runway left.
+burn rate | kapitalın xərclənmə sürəti | Investors were worried by the company's burn rate of two million a month.
+bootstrap | xarici investisiya olmadan öz vəsaiti ilə biznes qurmaq | They bootstrapped the business from their kitchen table for the first two years.
+seed round | ilkin investisiya mərhələsi | The founders raised half a million in their seed round.
+exit strategy | biznesdən çıxış strategiyası | Every investor asked the same question: what's your exit strategy?
+scale up | miqyası genişləndirmək | The challenge now is to scale up production without losing quality.
+disrupt | bazarı kökündən dəyişdirmək | Every new startup claims it will disrupt an entire industry.
+minimum viable product | minimal işlək məhsul | Launch a minimum viable product first, then improve it based on real feedback.
+## Pul jarqonu
+dough | böyük pul, var-dövlət | He's making serious dough since he started freelancing.
+a pretty penny | kifayət qədər çox pul | Restoring that old farmhouse must have cost them a pretty penny.
+nickel-and-dime | xırda xərclərlə pul qoparmaq | Budget airlines nickel-and-dime passengers with fees for everything from seats to snacks.
+peanuts | üç qəpik, çox az pul | Interns at that agency work long hours and get paid peanuts.
+rolling in it | pul içində üzmək | Since selling his company, Diego has been absolutely rolling in it.
+hard up | maddi sıxıntı çəkən | They were very hard up when the children were small.
+cash-in-hand | əldən, sənədsiz ödəniş | At weekends he does cash-in-hand jobs like painting flats and fixing fences.
+pony up | məcburiyyətdən pulu ödəmək | If you want the premium features, you'll have to pony up another ten dollars a month.
+break the bank | büdcəni sarsıtmaq, çox baha olmaq | A weekend by the sea won't break the bank if we book early.
+cheapskate | xəsis, simic | Don't be such a cheapskate; it's your turn to buy the coffee.
+## Pulun korporativ və gündəlik jarqonu
+rainy day fund | qara gün üçün ehtiyat pul | The car repairs came straight out of our rainy day fund.
+highway robbery | açıq-aşkar soyğunçuluq (çox baha qiymət) | Twelve dollars for a sandwich at the airport is highway robbery.
+creative accounting | maliyyə fırıldaqçılığı, rəqəm oyunları | The profits looked impressive, but they were mostly the result of creative accounting.
+ballpark figure | təxmini rəqəm | I don't need an exact quote, just give me a ballpark figure.
+back-of-the-envelope | səthi, əlyazma şəklində hesablanmış | A quick back-of-the-envelope calculation shows the plan won't be profitable.
+bean counter | xırdaçı mühasib | The bean counters at head office cut our training budget again.
+cook the books | sənədlərdə saxtakarlıq etmək | The finance director was arrested for cooking the books for years.
+slush fund | gizli qara kassa | Investigators discovered a secret slush fund used to pay off officials.
+kickback | gizli komisyon, rüşvət | The contractor was accused of paying kickbacks to win the hospital contract.
+fat cat | dövlətli məmur, kef çəkən varlı rəhbər | Staff were angry that the fat cats on the board got bonuses while wages were frozen.

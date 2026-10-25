@@ -1,0 +1,111 @@
+# UNIT: Elm və texnologiya | Süni intellekt, biotexnologiya, energetika, rəqəmsal cəmiyyət
+## Süni intellekt
+generative | generativ, yaradıcı | Generative tools can now create realistic images from a short description.
+reinforcement learning | gücləndirmə ilə öyrənmə | Through reinforcement learning, the program taught itself to play chess.
+deep learning | dərin öyrənmə | Deep learning has transformed speech recognition over the past decade.
+training data | təlim verilənləri | If the training data is biased, the model's decisions will be biased too.
+language model | dil modeli | The language model can summarise a long report in a few seconds.
+hallucination | süni intellekt uydurması | Always check the sources, because a hallucination can look very convincing.
+virtual assistant | sanal köməkçi | The virtual assistant answers most questions about lost luggage.
+robotics | robototexnika | Lukas is doing a master's degree in robotics and control systems.
+computer vision | kompüter görməsi | Computer vision allows the car to identify pedestrians at night.
+fine-tune | incə tənzimləmək | The team fine-tuned the model on thousands of medical reports.
+## Verilənlər və hesablama
+big data | böyük verilənlər | Retailers use big data to predict what customers will buy next.
+cloud computing | bulud hesablamaları | Cloud computing lets small firms rent processing power instead of buying servers.
+processing power | emal gücü | Training such a model requires enormous amounts of processing power.
+quantum computing | kvant hesablamaları | Quantum computing could one day break today's encryption methods.
+encryption | şifrələmə | End-to-end encryption means that only the sender and receiver can read messages.
+throughput | ötürmə qabiliyyəti, məlumat emalı sürəti | The new chips doubled the throughput of the company's servers.
+latency | gecikmə müddəti | Low latency is crucial for online games and remote surgery.
+semiconductor | yarıkeçirici | A global shortage of semiconductors delayed car production for months.
+data centre | məlumat mərkəzi | The new data centre uses seawater to cool its servers.
+computational | hesablamalı | Computational models helped the scientists predict how the virus would spread.
+## Biotexnologiya
+biotechnology | biotexnologiya | Biotechnology is now one of the fastest-growing sectors in the region.
+genome | genom | Scientists have mapped the entire genome of the wheat plant.
+gene editing | gen redaktəsi | Gene editing raises difficult questions about what is natural.
+stem cell | kök hüceyrə | Stem cell research offers hope to patients with spinal injuries.
+cloning | klonlama | Many countries have banned the cloning of human beings.
+transgenic | transgen | Transgenic crops remain controversial in parts of Europe.
+sequencing | ardıcıllığın təyini, sekvensiya | The cost of DNA sequencing has fallen dramatically in twenty years.
+enzyme | ferment, enzim | This enzyme breaks down plastic much faster than scientists expected.
+synthetic biology | sintetik biologiya | Synthetic biology aims to design organisms that can produce fuel.
+gene therapy | gen terapiyası | Gene therapy restored partial sight to several patients in the trial.
+## Tibb texnologiyası
+biomarker | biomarker, bioloji marker | Researchers found a biomarker that may signal the disease years earlier.
+diagnostics | diaqnostika | Faster diagnostics could save thousands of lives every year.
+bionic | bionik | The athlete runs with a bionic leg that adjusts to every step.
+prosthesis (prostheses) | protez | The new prosthesis responds directly to signals from the muscles.
+implant | implant | A tiny implant helps the patient control tremors in his hands.
+telemedicine | teletibb | Telemedicine allows villagers to consult specialists without travelling.
+nanotechnology | nanotexnologiya | Nanotechnology may allow drugs to reach cancer cells directly.
+medical imaging | tibbi görüntüləmə | Advances in medical imaging have made many operations far less invasive.
+precision medicine | dəqiq təbabət, fərdiləşdirilmiş tibb | Precision medicine tailors treatment to each patient's genetic profile.
+clinical trial | klinik sınaq | The vaccine is now entering the final stage of its clinical trial.
+## Enerji mənbələri
+photovoltaic | fotovoltaik | Photovoltaic panels now cover the roof of the entire factory.
+solar farm | günəş parkı, günəş elektrik stansiyası | A huge solar farm now stands where the old coal mine used to be.
+power grid | elektrik şəbəkəsi | The power grid struggled to cope with the sudden heatwave.
+fission | nüvə bölünməsi, fisyon | Today's nuclear plants produce energy through fission.
+fusion | nüvə birləşməsi, füzyon | Fusion promises almost limitless energy, but it remains decades away.
+hydrogen | hidrogen | Some trains in northern Europe already run on hydrogen.
+fuel cell | yanacaq elementi | The bus is powered by a fuel cell that emits only water.
+energy storage | enerji saxlanması, enerji anbarı | Cheap energy storage is the missing piece in the renewable puzzle.
+geothermal | geotermal | Iceland heats most of its homes with geothermal energy.
+tidal power | qab-çəkilmə enerjisi | The narrow bay is an ideal location for generating tidal power.
+## Karbon və səmərəlilik
+emissions trading | emissiya ticarəti | Emissions trading lets companies buy and sell permits to pollute.
+decarbonise | karbondan azad etmək, karbonsuzlaşdırmaq | Heavy industry is the hardest sector to decarbonise.
+carbon capture | karbon tutma | Carbon capture technology is still too expensive for most power plants.
+carbon offset | karbon kompensasiyası | Diego buys a carbon offset every time he takes a long-haul flight.
+smart meter | ağıllı sayğac | The smart meter shows exactly how much electricity we use each hour.
+retrofit | modernləşdirmək, yenidən təchiz etmək | The council plans to retrofit old flats with better insulation.
+electric vehicle | elektrikli avtomobil | Sales of electric vehicles doubled in the country last year.
+charging station | enerji doldurma stansiyası | There is still no charging station on the motorway between the two cities.
+biofuel | bioməhsul yanacağı, bioyanacaq | Critics argue that growing crops for biofuel raises food prices.
+energy-efficient | enerjiyə qənaət edən, enerji səmərəli | Energy-efficient appliances cost more but save money in the long run.
+## Rəqəmsal cəmiyyət
+smart city | ağıllı şəhər | In a smart city, sensors adjust traffic lights according to real-time traffic.
+connectivity | əlaqə imkanı, qoşulma | Poor connectivity in rural areas makes remote work almost impossible.
+e-government | elektron hökumət | Thanks to e-government services, Emre renewed his licence in ten minutes.
+gig economy | gig iqtisadiyyatı, səkkədən-səkkəyə iş iqtisadiyyatı | Many delivery riders in the gig economy have no paid holidays.
+digital literacy | rəqəmsal savadlılıq | Schools should teach digital literacy alongside reading and maths.
+attention economy | diqqət iqtisadiyyatı | In the attention economy, apps compete for every minute of our day.
+soundbite | qısa sitat, diqqətçəkən parça | Complex scientific findings are often reduced to a single soundbite on the news.
+content moderation | məzmun moderatorluğu | Content moderation on large platforms is often done by underpaid workers.
+screen time | ekran vaxtı | Doctors recommend limiting screen time for young children.
+digital footprint | rəqəmsal iz | Everything you post online adds to your permanent digital footprint.
+## Kiberəminlük
+spyware | casus proqram təminatı | Investigators found spyware hidden on the journalist's phone.
+botnet | botnet, bot şəbəkəsi | Criminals used a botnet of infected home routers to send spam.
+denial-of-service attack | xidmətdən imtina hücumu | A denial-of-service attack took the ministry's website offline for hours.
+penetration testing | sızma testi | The bank hires ethical hackers to carry out penetration testing every year.
+zero-day | sıfırıncı gün [açıq] | Attackers exploited a zero-day flaw before the developers even knew it existed.
+biometric | biometrik | Biometric checks such as fingerprints are now common at border control.
+hacktivist | haktivist | A group of hacktivists defaced the company's website in protest.
+end-to-end | ucdan-uca | End-to-end protection means no one in between can read your files.
+vulnerability | zəiflik, təhlükəsizlik boşluğu | Engineers released an update to fix a serious vulnerability in the app.
+backdoor | arxa qapı [gizli giriş] | Experts warned that a backdoor for the police could also be used by criminals.
+## Kosmos texnologiyası
+launch vehicle | daşıyıcı raket | The launch vehicle carried three weather satellites into space at once.
+reusable | təkrar istifadə oluna bilən | Reusable rockets have cut the cost of reaching space dramatically.
+payload | faydalı yük | The rocket's payload included a small telescope built by students.
+low Earth orbit | aşağı Yer orbiti | Thousands of small satellites now circle the planet in low Earth orbit.
+space debris | kosmik zibil | Even a tiny piece of space debris can seriously damage a satellite.
+propulsion | reaktiv mühərrik, dartı sistemi | Engineers are testing a new form of electric propulsion for deep-space missions.
+geostationary | geostasionar | A geostationary satellite stays above the same point on the equator.
+space probe | kosmos zondurucusu, kosmik zond | The space probe sent back detailed images of Saturn's rings.
+re-entry | yenidən daxilolma | The capsule's heat shield must survive the extreme heat of re-entry.
+microgravity | mikroqravitasiya | Plants grown in microgravity develop roots in unexpected directions.
+## İnnovasiya və etika
+proof of concept | konsepsiyanın sübutu | The small trial served as a proof of concept for the new battery design.
+prototype | prototip | The engineers tested the first prototype in a wind tunnel.
+game-changer | hər şeyi dəyişən hadisə, dönüş nöqtəsi | Cheap batteries could be a game-changer for remote villages.
+cutting-edge | ən müasir, qabaqcıl | The lab is equipped with cutting-edge microscopes from several countries.
+legacy system | köhnəlmiş sistem | The bank still runs its payments on a legacy system from the eighties.
+early adopter | erkən istifadəçi, yeniliyi ilk tətbiq edən | As an early adopter, Yuki bought the headset on the first day of sales.
+research and development | tədqiqat və inkişaf | The firm spends a fifth of its income on research and development.
+dual-use | ikili təyinatlı | Export controls apply to dual-use technologies such as advanced drones.
+algorithmic bias | alqoritmik qərəz | Experts warn that algorithmic bias can lead to unfair hiring decisions.
+precautionary principle | ehtiyat tədbiri prinsipi | Under the precautionary principle, new chemicals must be proven safe first.

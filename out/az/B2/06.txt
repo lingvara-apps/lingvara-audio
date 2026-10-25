@@ -1,0 +1,100 @@
+# UNIT: Tibb | Mütəxəssislər, ciddi xəstəliklər, müalicə, ictimai səhiyyə
+## Tibb mütəxəssisləri
+cardiologist | kardioloq | Döş qəfəsindəki ağrılardan sonra Ömər kardioloqa göndərildi.
+paediatrician | pediatr | Pediatrımız müayinələr zamanı həmişə uşaqları gülddürür.
+dermatologist | dermatoloq | Həmin qəribə xalı dermatoloqa göstərməlisən.
+neurologist | nevroloq | Nevroloq hər hansı zədəni yoxlamaq üçün MRT təyin etdi.
+anaesthetist | anestezioloq | Anestezioloq həmin səhər nəsə yeyib-yemədiyimi soruşdu.
+radiologist | radioloq | Radioloq şəkillərə bu gün günortadan sonra baxacaq.
+general practitioner | ailə həkimi | Britaniyada adətən əvvəlcə ailə həkimi ilə görüşürsən.
+midwife (midwives) | mamaça | Mamaça uzun gecə boyu Yukinin yanında qaldı.
+oncologist | onkoloq | Onkoloq müalicə variantlarını çox səbirlə izah etdi.
+ophthalmologist | oftalmoloq | Oftalmoloq Dieqonun oxumaq üçün eynəyə ehtiyacı olduğunu dedi.
+## Xəstəxanada
+inpatient | yatan xəstə | Xəstəxana eyni vaxtda beş yüzə qədər yatan xəstə qəbul edə bilər.
+isolation ward | təcrid şöbəsi | Viruslu xəstələr təcrid şöbəsinə köçürüldü.
+bedside | çarpayı kənarı | Qızı bütün gecə çarpayısının kənarında oturdu.
+hospice | hospis | O, son həftələrini dəniz kənarındakı sakit hospisdə keçirdi.
+triage | triaj | Triajda tibb bacıları kimin əvvəlcə köməyə ehtiyacı olduğuna qərar verirlər.
+ward round | həkim viziti | Həkimlər səhər vizitində hər bir xəstəni müzakirə edirlər.
+referral | göndəriş | Mütəxəssisə görünmək üçün həkimindən göndəriş almalısan.
+life support | süni nəfəs aparatı | Qəzadan sonra o, bir həftə boyu süni nəfəs aparatına qoşulu saxlanıldı.
+on call | növbətçi | Dr. Sofiya bu həftəsonu növbətçidir, ona görə də heç yana gedə bilmir.
+critical condition | ağır vəziyyət | Sürücü hələ də xəstəxanada ağır vəziyyətdədir.
+## Ciddi xəstəliklər
+tumour | şiş | Xoşbəxtlikdən şişin zərərsiz olduğu üzə çıxdı.
+stroke | insult | İnsult keçirdikdən sonra Dieqonun atası yenidən yeriməyi öyrənməli oldu.
+dementia | demensiya | Babasında demensiya var və tez-tez onun adını unudur.
+malignant | bədxassəli | Testlər törəmənin bədxassəli olmadığını göstərdi.
+leukaemia | leykoz | Leykozlu uşaqların bir çoxu indi tamamilə sağalır.
+epilepsy | epilepsiya | Epilepsiya xəstələri adətən dərman vasitəsilə normal həyat sürə bilirlər.
+arthritis | artrit | Nənəmin artriti soyuq və nəm havada daha da pisləşir.
+tuberculosis | vərəm | Vərəm bir vaxtlar ən çox yayılmış ölüm səbəblərindən biri idi.
+pneumonia | sətəlcəm | Soyuqdəymə kimi başlayan şey tezliklə sətəlcəmə çevrildi.
+kidney failure | böyrək çatışmazlığı | Böyrək çatışmazlığı olan xəstələrə tez-tez mütəmadi dializ lazım olur.
+## Əlamətlər və diaqnoz
+biopsy (biopsies) | biopsiya | Həkim hər hansı ciddi bir şeyi istisna etmək üçün biopsiya götürdü.
+blood pressure | qan təzyiqi | Çox duz qan təzyiqini artıra bilər.
+prognosis (prognoses) | xəstəliyin gedişatı | Yeni dərman sayəsində xəstəliyin gedişatı indi çox daha yaxşıdır.
+misdiagnosis (misdiagnoses) | səhv diaqnoz | Səhv diaqnoz onun müalicəsini bir neçə ay gecikdirdi.
+ultrasound | ultrasəs müayinəsi | Ultrasəs müayinəsi körpənin normal böyüdüyünü göstərdi.
+blood sample | qan nümunəsi | Tibb bacısı Ananın qolundan qan nümunəsi götürdü.
+heart rate | ürək döyüntüsü tezliyi | Stress testi zamanı onun ürək döyüntüsü sürətlə artdı.
+cholesterol | xolesterol | Daha az qızardılmış yemək yemək xolesterolunuzu aşağı salmağa kömək edə bilər.
+asymptomatic | simptomsuz | Virusa yoluxmuş bir çox insan tamamilə simptomsuzdur.
+blood count | qan analizi nəticələri | Qan göstəricilərinin aşağı olması niyə bu qədər yorğun hiss etdiyini izah edə bilər.
+## Müalicə və əməliyyat
+surgery (surgeries) | cərrahi əməliyyat | Xizək qəzasından sonra o, dizindən əməliyyat olunmalıdır.
+keyhole surgery | laparoskopik əməliyyat | Laparoskopik əməliyyat yalnız bir neçə kiçik çapıq buraxır.
+chemotherapy | kimyaterapiya | O, kimyaterapiya zamanı saçlarını itirdi, lakin ruhdan düşmədi.
+radiotherapy | şüa terapiyası | Əməliyyatdan sonra o, altı həftə şüa terapiyası aldı.
+physiotherapy | fizioterapiya | Həftələrlə davam edən fizioterapiya qolunu yenidən işlətməsinə kömək etdi.
+transplant | orqan köçürülməsi | İllərlə dializdən sonra Ömər nəhayət böyrək köçürülməsi əməliyyatı keçirdi.
+incision | cərrahi kəsik | Müasir texnikalar cərrahlara çox daha kiçik kəsik etməyə imkan verir.
+amputate | amputasiya etmək | Cəld müalicə sayəsində həkimlər onun ayağını kəsməli olmadılar.
+convalesce | qüvvəsini bərpa etmək | Əməliyyatdan sonra o, qüvvəsini bərpa etmək üçün kəndə getdi.
+remission | remissiya | İki illik müalicədən sonra onun xəstəliyi remissiyadadır.
+## Dərmanlar
+prescribe | resept yazmaq | Həkim səpgi üçün daha güclü bir krem resepti yazdı.
+dosage | doza | Uşaqlara dərman verməzdən əvvəl dozanı diqqətlə yoxlayın.
+capsule | kapsul | Hər yeməkdən sonra su ilə bir kapsul udun.
+antihistamine | antihistaminik | Mariya saman qızdırmasına görə hər yaz allergiya əleyhinə dərman qəbul edir.
+syringe | şpris | Tibb bacısı şprisi doldurub işığa tutaraq yoxladı.
+insulin | insülin | Əli qan şəkərini tənzimləmək üçün hər yeməkdən əvvəl insülin vurdurur.
+sedative | sakitləşdirici | Xəstəyə prosedirdən əvvəl yüngül sakitləşdirici verildi.
+overdose | həddindən artıq doza | Təsadüfən qəbul edilmiş artıq doza həddindən artıq təhlükəli ola bilər.
+allergic reaction | allergik reaksiya | Onun yeni dərmana qarşı ciddi allergik reaksiyası oldu.
+over-the-counter | reseptsiz satılan | Reseptsiz satılan soyuqdəymə dərmanlarının əksəriyyəti yalnız əlamətləri aradan qaldırır.
+## Yoluxucu xəstəliklər
+airborne | hava-damcı yolu ilə yayılan | Virus hava yolu ilə yayıldığı üçün maska taxmaq kömək edə bilər.
+epidemic | epidemiya | Qəsəbə həmin qış ciddi qrip epidemiyası ilə üzləşdi.
+pandemic | pandemiya | Pandemiya milyonlarla insanın iş tərzini dəyişdi.
+outbreak | qəfil yayılma | Səhiyyə rəsmiləri kütləvi qida zəhərlənməsinin yayılmasını araşdırırlar.
+immune system | immun sistemi | Yaxşı yuxu immun sistemini güclü saxlamağa kömək edir.
+quarantine | karantin | Sərnişinlər iki həftə karantində saxlanıldılar.
+vaccinate | peyvənd etmək | Əksər uşaqlar erkən yaşda qızılcaya qarşı peyvənd olunurlar.
+transmit | ötürmək | Xəstəlik çirklənmiş su vasitəsilə ötürülür.
+bacteria (bacterium) | bakteriyalar | Zərərli bakteriyalardan qurtulmaq üçün əllərinizi yuyun.
+incubation period | inkubasiya dövrü | Xəstəliyin inkubasiya dövrü təxminən on gündür.
+## Zədələr və təcili vəziyyət
+fracture | sümük sınığı | Müayinə zamanı biləyində sınıq aşkar edildi.
+dislocate | oynağın yerindən çıxması | Əmrə reqbi oynayarkən çiynini çıxartdı.
+swelling | şişkinlik | Şişkinliyi azaltmaq üçün topuğunuza bir qədər buz qoyun.
+splint | şina | Təcili yardım əməkdaşı oğlanın sınmış barmağına atel qoydu.
+plaster cast | gips sarğısı | Kamil altı həftə gipsdə gəzmək məcburiyyətində qaldı.
+concussion | beyin silkələnməsi | Başını vurduqdan sonra oyunçu beyin silkələnməsi üçün yoxlanıldı.
+tourniquet | turnikət | O, qansızmanı dayandırmaq üçün kəmərindən turnikət kimi istifadə etdi.
+resuscitate | reanimasiya etmək | Təcili yardım əməkdaşları çimərlikdə üzgüçünü həyata qaytarmağa nail oldular.
+life-saving | həyatqurtaran | Hər məktəbdə defibrilator kimi həyatqurtaran avadanlıq olmalıdır.
+emergency room | təcili yardım şöbəsi | Biz dörd saat təcili yardım şöbəsində gözlədik.
+## İctimai səhiyyə
+public health | ictimai səhiyyə | Təmiz içməli su ictimai səhiyyə üçün vacibdir.
+epidemiology | epidemiologiya | Epidemiologiya xəstəliklərin əhali arasında necə yayıldığını öyrənir.
+mortality | ölüm nisbəti | Körpə ölüm nisbəti bir çox ölkələrdə kəskin şəkildə azalıb.
+sedentary | oturaq | Oturaq həyat tərzi bir çox xəstəliklərin riskini artırır.
+screening | skrininq | Əllidən yuxarı hər kəsə pulsuz xərçəng skrininqi təklif olunur.
+hygiene | gigiyena | Mətbəxdə zəif gigiyena insanları xəstələndirə bilər.
+sanitation | sanitariya | Daha yaxşı sanitariya şəraiti istənilən dərmandan daha çox həyat xilas edib.
+preventive | profilaktik | Profilaktik tibb adətən xəstəliyi müalicə etməkdən daha ucuz başa gəlir.
+healthcare | səhiyyə xidməti | Hər kəsin əlçatan səhiyyə xidmətinə çıxışı olmalıdır.
+well-being | rifah | Müntəzəm gəzintilər həm fiziki, həm də zehni rifah üçün faydalıdır.
