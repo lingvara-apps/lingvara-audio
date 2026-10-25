@@ -1,0 +1,111 @@
+# UNIT: Mutfakta | Yemek pişirme, mutfak aletleri, Japon mutfağı, meyve-sebze, beslenme
+## Pişirme yöntemleri
+煮る (niru) | haşlamak, kaynatarak pişirmek | fiil | 野菜を醤油で煮ます。(Yasai o shōyu de nimasu.) | Sebzeleri soya sosunda pişiriyorum.
+炊く (taku) | (pirinç) pişirmek | fiil | 毎朝ご飯を炊きます。(Maiasa gohan o takimasu.) | Her sabah pilav pişiririm.
+揚げる (ageru) | kızartmak (bol yağda) | fiil | 鶏肉を油で揚げます。(Toriniku o abura de agemasu.) | Tavuğu yağda kızartıyorum.
+炒める (itameru) | sotelemek | fiil | 玉ねぎを炒めてください。(Tamanegi o itamete kudasai.) | Soğanları soteleyin.
+蒸す (musu) | buharda pişirmek | fiil | 魚を蒸して食べます。(Sakana o mushite tabemasu.) | Balığı buharda pişirip yerim.
+茹でる (yuderu) | suda haşlamak | fiil | 卵を十分茹でます。(Tamago o juppun yudemasu.) | Yumurtayı on dakika haşlıyorum.
+混ぜる (mazeru) | karıştırmak | fiil | 卵と砂糖をよく混ぜます。(Tamago to satō o yoku mazemasu.) | Yumurtayla şekeri iyice karıştırıyorum.
+剥く (muku) | soymak | fiil | りんごの皮を剥きます。(Ringo no kawa o mukimasu.) | Elmanın kabuğunu soyuyorum.
+温める (atatameru) | ısıtmak | fiil | スープを温めてください。(Sūpu o atatamete kudasai.) | Çorbayı ısıtır mısın?
+冷やす (hiyasu) | soğutmak | fiil | ビールを冷やしておきます。(Bīru o hiyashite okimasu.) | Biraları soğutuyorum.
+## Mutfak aletleri
+包丁 (hōchō) | mutfak bıçağı | isim | この包丁はよく切れます。(Kono hōchō wa yoku kiremasu.) | Bu bıçak çok iyi keser.
+まな板 (manaita) | kesme tahtası | isim | まな板の上で野菜を切ります。(Manaita no ue de yasai o kirimasu.) | Kesme tahtasında sebze doğruyorum.
+炊飯器 (suihanki) | pirinç pişirici | isim | 炊飯器でご飯を炊きます。(Suihanki de gohan o takimasu.) | Pilavı pirinç pişiricide yaparım.
+やかん (yakan) | çaydanlık (su ısıtma) | isim | やかんでお湯を沸かします。(Yakan de oyu o wakashimasu.) | Çaydanlıkta su kaynatıyorum.
+蓋 (futa) | kapak | isim | 鍋に蓋をしてください。(Nabe ni futa o shite kudasai.) | Tencerenin kapağını kapatın.
+ボウル (bōru) | kâse (karıştırma) | isim | ボウルに小麦粉を入れます。(Bōru ni komugiko o iremasu.) | Kâseye un koyuyorum.
+おたま (otama) | kepçe | isim | おたまで味噌汁をよそいます。(Otama de misoshiru o yosoimasu.) | Kepçeyle miso çorbası koyuyorum.
+オーブン (ōbun) | fırın (mutfak) | isim | オーブンでパンを焼きます。(Ōbun de pan o yakimasu.) | Fırında ekmek pişiriyorum.
+お椀 (owan) | çorba kâsesi (ahşap) | isim | 味噌汁をお椀に入れます。(Misoshiru o owan ni iremasu.) | Miso çorbasını kâseye koyuyorum.
+湯のみ (yunomi) | çay bardağı (kulpsuz) | isim | 湯のみでお茶を飲みます。(Yunomi de o-cha o nomimasu.) | Çayı kulpsuz fincanda içerim.
+## Japon mutfağı
+和食 (washoku) | Japon yemeği | isim | 和食は体にいいと言われています。(Washoku wa karada ni ii to iwarete imasu.) | Japon yemeklerinin sağlıklı olduğu söylenir.
+だし (dashi) | dashi (balık-yosun suyu) | isim | 味噌汁はだしが大切です。(Misoshiru wa dashi ga taisetsu desu.) | Miso çorbasında dashi önemlidir.
+海苔 (nori) | nori (yosun yaprağı) | isim | おにぎりに海苔を巻きます。(Onigiri ni nori o makimasu.) | Onigiriyi nori ile sarıyorum.
+梅干し (umeboshi) | erik turşusu | isim | 梅干しはとても酸っぱいです。(Umeboshi wa totemo suppai desu.) | Erik turşusu çok ekşidir.
+丼 (donburi) | kâsede pilav üstü yemek | isim | 昼ご飯に丼を食べました。(Hirugohan ni donburi o tabemashita.) | Öğle yemeğinde donburi yedim.
+すき焼き (sukiyaki) | sukiyaki (et ve sebze güveci) | isim | 冬は家族ですき焼きを食べます。(Fuyu wa kazoku de sukiyaki o tabemasu.) | Kışın ailece sukiyaki yeriz.
+お好み焼き (okonomiyaki) | okonomiyaki (Japon kreps-omleti) | isim | 大阪のお好み焼きは有名です。(Ōsaka no okonomiyaki wa yūmei desu.) | Osaka'nın okonomiyakisi ünlüdür.
+たこ焼き (takoyaki) | ahtapotlu hamur topları | isim | 屋台でたこ焼きを食べよう。(Yatai de takoyaki o tabeyō.) | Tezgâhtan takoyaki yiyelim.
+味噌 (miso) | miso (soya fasulyesi ezmesi) | isim | 味噌は大豆から作ります。(Miso wa daizu kara tsukurimasu.) | Miso soya fasulyesinden yapılır.
+抹茶 (matcha) | maça (toz yeşil çay) | isim | 抹茶のアイスが好きです。(Matcha no aisu ga suki desu.) | Maçalı dondurmayı severim.
+## Meyveler
+桃 (momo) | şeftali | isim | 夏の桃は甘いです。(Natsu no momo wa amai desu.) | Yazın şeftaliler tatlıdır.
+梨 (nashi) | Japon armudu | isim | 日本の梨は水が多いです。(Nihon no nashi wa mizu ga ōi desu.) | Japon armudu çok sulu.
+柿 (kaki) | Trabzon hurması | isim | 秋は柿がおいしいです。(Aki wa kaki ga oishii desu.) | Sonbaharda hurmalar çok lezzetli.
+すいか (suika) | karpuz | isim | 夏はすいかを食べます。(Natsu wa suika o tabemasu.) | Yazın karpuz yeriz.
+メロン (meron) | kavun | isim | このメロンは高いです。(Kono meron wa takai desu.) | Bu kavun pahalı.
+レモン (remon) | limon | isim | 紅茶にレモンを入れます。(Kōcha ni remon o iremasu.) | Çaya limon koyarım.
+さくらんぼ (sakuranbo) | kiraz (meyve) | isim | さくらんぼは六月が旬です。(Sakuranbo wa rokugatsu ga shun desu.) | Kirazın mevsimi haziran.
+パイナップル (painappuru) | ananas | isim | 沖縄のパイナップルは甘いです。(Okinawa no painappuru wa amai desu.) | Okinawa'nın ananasları tatlıdır.
+ゆず (yuzu) | yuzu (Japon narenciyesi) | isim | ゆずの香りが好きです。(Yuzu no kaori ga suki desu.) | Yuzu kokusunu severim.
+栗 (kuri) | kestane | isim | 秋に栗ご飯を作ります。(Aki ni kurigohan o tsukurimasu.) | Sonbaharda kestaneli pilav yaparım.
+## Sebzeler
+大根 (daikon) | Japon turpu | isim | 大根をおろします。(Daikon o oroshimasu.) | Turpu rendeliyorum.
+きゅうり (kyūri) | salatalık | isim | きゅうりでサラダを作ります。(Kyūri de sarada o tsukurimasu.) | Salatalıkla salata yapıyorum.
+なす (nasu) | patlıcan | isim | なすを焼いて食べます。(Nasu o yaite tabemasu.) | Patlıcanı közleyip yerim.
+ねぎ (negi) | pırasa, yeşil soğan | isim | ラーメンにねぎを入れます。(Rāmen ni negi o iremasu.) | Ramene yeşil soğan koyarım.
+ほうれん草 (hōrensō) | ıspanak | isim | ほうれん草は鉄分が多いです。(Hōrensō wa tetsubun ga ōi desu.) | Ispanakta çok demir var.
+ピーマン (pīman) | yeşil biber | isim | 子供はピーマンが嫌いです。(Kodomo wa pīman ga kirai desu.) | Çocuklar yeşil biberi sevmez.
+かぼちゃ (kabocha) | balkabağı | isim | かぼちゃのスープを作りました。(Kabocha no sūpu o tsukurimashita.) | Balkabağı çorbası yaptım.
+しいたけ (shiitake) | şiitake mantarı | isim | 鍋にしいたけを入れます。(Nabe ni shiitake o iremasu.) | Güvece şiitake mantarı koyuyorum.
+もやし (moyashi) | fasulye filizi | isim | もやしは安くて便利です。(Moyashi wa yasukute benri desu.) | Fasulye filizi ucuz ve pratik.
+ごぼう (gobō) | dulavratotu kökü | isim | ごぼうは日本でよく食べます。(Gobō wa Nihon de yoku tabemasu.) | Dulavratotu kökü Japonya'da çok yenir.
+## Tarif ve ölçü
+材料 (zairyō) | malzeme | isim | 材料を全部用意しました。(Zairyō o zenbu yōi shimashita.) | Bütün malzemeleri hazırladım.
+作り方 (tsukurikata) | yapılışı | isim | カレーの作り方を教えて。(Karē no tsukurikata o oshiete.) | Körinin yapılışını öğret bana.
+レシピ (reshipi) | tarif | isim | 母のレシピでケーキを焼きました。(Haha no reshipi de kēki o yakimashita.) | Annemin tarifiyle pasta yaptım.
+大さじ (ōsaji) | yemek kaşığı (ölçü) | isim | 醤油を大さじ二杯入れます。(Shōyu o ōsaji nihai iremasu.) | İki yemek kaşığı soya sosu koyuyorum.
+小さじ (kosaji) | çay kaşığı (ölçü) | isim | 塩を小さじ一杯入れます。(Shio o kosaji ippai iremasu.) | Bir çay kaşığı tuz koyuyorum.
+適量 (tekiryō) | yeterince, kararınca | isim | 胡椒は適量です。(Koshō wa tekiryō desu.) | Karabiber kararınca.
+量 (ryō) | miktar | isim | この店は量が多いです。(Kono mise wa ryō ga ōi desu.) | Bu dükkânın porsiyonları büyük.
+強火 (tsuyobi) | yüksek ateş | isim | 強火で三分炒めます。(Tsuyobi de sanpun itamemasu.) | Yüksek ateşte üç dakika soteliyorum.
+中火 (chūbi) | orta ateş | isim | 中火で十分焼きます。(Chūbi de juppun yakimasu.) | Orta ateşte on dakika pişiriyorum.
+弱火 (yowabi) | kısık ateş | isim | 弱火で二十分煮ます。(Yowabi de nijuppun nimasu.) | Kısık ateşte yirmi dakika pişiriyorum.
+## Beslenme
+栄養 (eiyō) | beslenme, besin değeri | isim | 野菜は栄養があります。(Yasai wa eiyō ga arimasu.) | Sebzeler besleyicidir.
+食事 (shokuji) | yemek, öğün | isim | 一日三回食事をします。(Ichinichi sankai shokuji o shimasu.) | Günde üç öğün yerim.
+ビタミン (bitamin) | vitamin | isim | 果物にはビタミンが多いです。(Kudamono ni wa bitamin ga ōi desu.) | Meyvelerde çok vitamin var.
+たんぱく質 (tanpakushitsu) | protein | isim | 卵はたんぱく質が多いです。(Tamago wa tanpakushitsu ga ōi desu.) | Yumurtada çok protein var.
+カロリー (karorī) | kalori | isim | このケーキはカロリーが高いです。(Kono kēki wa karorī ga takai desu.) | Bu pastanın kalorisi yüksek.
+脂肪 (shibō) | yağ (vücutta, besinde) | isim | 脂肪の少ない肉を選びます。(Shibō no sukunai niku o erabimasu.) | Az yağlı et seçiyorum.
+バランス (baransu) | denge | isim | バランスのいい食事をしましょう。(Baransu no ii shokuji o shimashō.) | Dengeli beslenelim.
+偏る (katayoru) | dengesiz olmak, tek yönlü olmak | fiil | 一人暮らしは食事が偏ります。(Hitorigurashi wa shokuji ga katayorimasu.) | Yalnız yaşayınca beslenme dengesizleşir.
+食べ過ぎ (tabesugi) | aşırı yeme | isim | 昨日は食べ過ぎました。(Kinō wa tabesugimashita.) | Dün çok fazla yedim.
+菜食 (saishoku) | vejetaryen beslenme | isim | 姉は菜食で肉を食べません。(Ane wa saishoku de niku o tabemasen.) | Ablam vejetaryen, et yemiyor.
+## Tat ve doku
+柔らかい (yawarakai) | yumuşak | sıfat | この肉はとても柔らかいです。(Kono niku wa totemo yawarakai desu.) | Bu et çok yumuşak.
+硬い (katai) | sert | sıfat | このパンは硬いです。(Kono pan wa katai desu.) | Bu ekmek sert.
+新鮮 (shinsen) | taze | sıfat | この魚は新鮮です。(Kono sakana wa shinsen desu.) | Bu balık taze.
+生 (nama) | çiğ; canlı (yayın) | isim | 生の魚は食べられますか。(Nama no sakana wa taberaremasu ka.) | Çiğ balık yiyebiliyor musun?
+さっぱり (sappari) | hafif, ferah (tat) | zarf | 夏はさっぱりした料理がいいです。(Natsu wa sappari shita ryōri ga ii desu.) | Yazın hafif yemekler iyi gider.
+こってり (kotteri) | ağır, yağlı ve yoğun (tat) | zarf | このラーメンはこってりしています。(Kono rāmen wa kotteri shite imasu.) | Bu ramen ağır ve yoğun.
+脂っこい (aburakkoi) | yağlı | sıfat | 脂っこい料理は苦手です。(Aburakkoi ryōri wa nigate desu.) | Yağlı yemeklerden hoşlanmam.
+香り (kaori) | koku (hoş), aroma | isim | コーヒーのいい香りがします。(Kōhī no ii kaori ga shimasu.) | Güzel bir kahve kokusu var.
+焦げる (kogeru) | yanmak (yemek) | fiil | 魚が焦げてしまいました。(Sakana ga kogete shimaimashita.) | Balık yandı.
+腐る (kusaru) | bozulmak, çürümek | fiil | 牛乳が腐っています。(Gyūnyū ga kusatte imasu.) | Süt bozulmuş.
+## Yemek kültürü
+定食 (teishoku) | tabldot (set menü) | isim | 昼は魚の定食にします。(Hiru wa sakana no teishoku ni shimasu.) | Öğlen balıklı set menü alacağım.
+おかず (okazu) | ana yemeğin yanındaki yemekler | isim | 今日のおかずは何？(Kyō no okazu wa nani?) | Bugün yemekte ne var?
+主食 (shushoku) | temel besin | isim | 日本人の主食は米です。(Nihonjin no shushoku wa kome desu.) | Japonların temel besini pirinçtir.
+大盛り (ōmori) | büyük porsiyon | isim | ご飯を大盛りにしてください。(Gohan o ōmori ni shite kudasai.) | Pilavı büyük porsiyon yapın lütfen.
+おかわり (okawari) | bir porsiyon daha | isim | ご飯のおかわりをください。(Gohan no okawari o kudasai.) | Bir tabak daha pilav lütfen.
+食べ放題 (tabehōdai) | açık büfe (sınırsız yemek) | isim | このレストランは食べ放題です。(Kono resutoran wa tabehōdai desu.) | Bu restoranda sınırsız yemek var.
+居酒屋 (izakaya) | izakaya (Japon meyhanesi) | isim | 仕事の後で居酒屋に行きます。(Shigoto no ato de izakaya ni ikimasu.) | İşten sonra izakayaya gideriz.
+回転寿司 (kaitenzushi) | bantlı suşi restoranı | isim | 回転寿司は安くて楽しいです。(Kaitenzushi wa yasukute tanoshii desu.) | Bantlı suşi restoranları ucuz ve eğlenceli.
+一人前 (ichininmae) | bir kişilik porsiyon | isim | 餃子を一人前ください。(Gyōza o ichininmae kudasai.) | Bir porsiyon gyoza lütfen.
+持ち帰り (mochikaeri) | paket (götürmek için) | isim | 持ち帰りでお願いします。(Mochikaeri de onegaishimasu.) | Paket olsun lütfen.
+## Tahıl ve baharat
+麺 (men) | erişte, makarna | isim | 日本にはいろいろな麺があります。(Nihon ni wa iroiro na men ga arimasu.) | Japonya'da çeşit çeşit erişte var.
+豆 (mame) | fasulye, bakla | isim | 豆のスープを作りました。(Mame no sūpu o tsukurimashita.) | Fasulye çorbası yaptım.
+酢 (su) | sirke | isim | 寿司のご飯には酢を入れます。(Sushi no gohan ni wa su o iremasu.) | Suşi pilavına sirke konur.
+みりん (mirin) | mirin (tatlı pirinç şarabı) | isim | 煮物にみりんを少し入れます。(Nimono ni mirin o sukoshi iremasu.) | Haşlamaya biraz mirin koyarım.
+わさび (wasabi) | vasabi | isim | わさびは辛いので少しだけ。(Wasabi wa karai node sukoshi dake.) | Vasabi acı olduğu için sadece biraz.
+生姜 (shōga) | zencefil | isim | 紅茶に生姜を入れて飲みます。(Kōcha ni shōga o irete nomimasu.) | Çaya zencefil koyup içiyorum.
+にんにく (ninniku) | sarımsak | isim | にんにくを細かく切ります。(Ninniku o komakaku kirimasu.) | Sarımsağı ince ince doğruyorum.
+ごま (goma) | susam | isim | サラダにごまをかけます。(Sarada ni goma o kakemasu.) | Salataya susam serpiyorum.
+唐辛子 (tōgarashi) | kırmızı biber (acı) | isim | 唐辛子を入れすぎました。(Tōgarashi o iresugimashita.) | Çok fazla acı biber koydum.
+小麦粉 (komugiko) | un | isim | 天ぷらには小麦粉を使います。(Tenpura ni wa komugiko o tsukaimasu.) | Tempurada un kullanılır.
