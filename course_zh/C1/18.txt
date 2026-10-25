@@ -1,0 +1,111 @@
+# UNIT: Resmî üslup | Bürokratik dil, resmî yazışma, kalıplar
+## Resmî yazı türleri
+公文 (gōngwén) | resmî yazı | isim | 公文的格式和用语都有严格的规定。 | Resmî yazıların biçimi ve dili sıkı kurallara bağlıdır.
+来函 (láihán) | gelen yazı | isim | 贵公司的来函已经收到，我们将尽快答复。 | Şirketinizden gelen yazı tarafımıza ulaştı, en kısa sürede yanıt vereceğiz.
+复函 (fùhán) | cevabi yazı | isim | 请于本月底前给对方单位发出复函。 | Lütfen bu ay sonuna kadar karşı kuruma cevabi yazı gönderin.
+请示 (qǐngshì) | (üst makamdan) talimat istemek | fiil | 这件事我做不了主，需要向领导请示。 | Bu konuda karar veremem, amirlerden talimat istemem gerekiyor.
+批复 (pīfù) | (üst makamın) yazılı onay yanıtı | isim | 我们的申请已经得到了上级的批复。 | Başvurumuz üst makamdan yazılı onay aldı.
+批示 (pīshì) | (üst makamın) yazılı talimatı, şerh | isim | 局长在报告上作了重要批示。 | Genel müdür raporun üzerine önemli bir talimat yazdı.
+红头文件 (hóngtóu wénjiàn) | resmî genelge (kırmızı başlıklı belge) | isim | 这项规定是以红头文件的形式下发的。 | Bu kural kırmızı başlıklı resmî bir genelge olarak gönderildi.
+会议纪要 (huìyì jìyào) | toplantı karar özeti | isim | 会议纪要经领导审阅后再印发。 | Toplantı karar özeti amirler tarafından incelendikten sonra çoğaltılıp dağıtılacak.
+介绍信 (jièshàoxìn) | tanıtım yazısı (kurumdan) | isim | 去外单位调研，需要带上单位的介绍信。 | Başka bir kurumda inceleme yapmak için kendi kurumunun tanıtım yazısını götürmek gerekir.
+申请书 (shēnqǐngshū) | dilekçe, başvuru yazısı | isim | 请把申请书和相关材料一起交到办公室。 | Lütfen başvuru yazısını ilgili belgelerle birlikte büroya teslim edin.
+## Hitap ve kapanış kalıpları
+贵司 (guìsī) | şirketiniz (saygılı) | zamir | 感谢贵司长期以来的支持与合作。 | Şirketinizin uzun süredir sürdürdüğü destek ve iş birliği için teşekkür ederiz.
+贵方 (guìfāng) | tarafınız (saygılı) | zamir | 贵方提出的方案我们正在认真研究。 | Tarafınızca önerilen planı titizlikle inceliyoruz.
+我司 (wǒsī) | şirketimiz (resmî) | zamir | 我司将按合同约定按时交货。 | Şirketimiz malları sözleşmede kararlaştırıldığı gibi zamanında teslim edecektir.
+本单位 (běn dānwèi) | kurumumuz | zamir | 兹证明张华同志系本单位职工。 | Zhang Hua'nın kurumumuz çalışanı olduğunu tasdik ederiz.
+此致 (cǐzhì) | (mektup sonu) ...e sunulur | ifade | 此致，敬礼！ | Saygılarımla arz ederim.
+敬礼 (jìnglǐ) | saygılar (mektup kapanışı); selam vermek | ifade | 信的结尾写上"此致敬礼"是传统的格式。 | Mektubun sonuna "saygılarımla arz ederim" yazmak geleneksel biçimdir.
+顺颂商祺 (shùnsòng shāngqí) | işlerinizde başarılar dileriz (ticari mektup kapanışı) | ifade | 以上事项，请予协助。顺颂商祺！ | Yukarıdaki hususlarda yardımınızı rica ederiz. İşlerinizde başarılar dileriz!
+谨 (jǐn) | saygıyla, hürmetle | zarf | 谨代表公司全体员工向您表示衷心的感谢。 | Şirketin tüm çalışanları adına size saygıyla en içten teşekkürlerimizi sunarız.
+敬请 (jìngqǐng) | saygıyla rica etmek | fiil | 敬请各位来宾准时出席。 | Değerli konuklarımızın zamanında teşrif etmelerini saygıyla rica ederiz.
+恳请 (kěnqǐng) | içtenlikle rica etmek, yalvarırcasına istemek | fiil | 恳请各位专家对本书提出宝贵意见。 | Değerli uzmanlardan bu kitap hakkında görüşlerini bildirmelerini içtenlikle rica ederiz.
+## Duyuru kalıpları
+兹 (zī) | işbu, şimdi (resmî yazı başı) | zarf | 兹定于本月十五日召开全体职工大会。 | İşbu yazıyla, tüm çalışanlar genel toplantısının bu ayın on beşinde yapılmasına karar verilmiştir.
+特此通知 (tècǐ tōngzhī) | işbu yazıyla duyurulur | ifade | 请各部门做好准备工作。特此通知。 | Tüm birimlerin hazırlıklarını tamamlaması rica olunur. İşbu yazıyla duyurulur.
+现将 (xiànjiāng) | şimdi ... (aşağıda) sunulmuştur | ifade | 现将有关事项通知如下。 | İlgili hususlar aşağıda bildirilmiştir.
+如下 (rúxià) | aşağıdaki gibi | ifade | 具体安排如下：上午开会，下午参观。 | Ayrıntılı program aşağıdaki gibidir: sabah toplantı, öğleden sonra ziyaret.
+即日起 (jírì qǐ) | bugünden itibaren | ifade | 本规定自即日起施行。 | İşbu yönetmelik bugünden itibaren yürürlüğe girer.
+届时 (jièshí) | o zaman, belirlenen tarihte | zarf | 开幕式定于下周一举行，届时请各位准时出席。 | Açılış töreni gelecek pazartesi yapılacak; o gün herkesin zamanında katılması rica olunur.
+务必 (wùbì) | mutlaka, kesinlikle | zarf | 请各位务必在周五前提交材料。 | Herkesin belgeleri cumadan önce mutlaka teslim etmesi rica olunur.
+收悉 (shōuxī) | alınıp okunmuştur | fiil | 你单位三月五日的来函收悉。 | Kurumunuzun 5 Mart tarihli yazısı alınıp okunmuştur.
+知悉 (zhīxī) | bilgi edinmek, haberdar olmak | fiil | 以上内容，请相关人员知悉。 | Yukarıdaki hususlar ilgililerin bilgisine sunulur.
+函告 (hángào) | yazıyla bildirmek | fiil | 如有变动，我们会另行函告。 | Herhangi bir değişiklik olursa ayrıca yazıyla bildireceğiz.
+## Yazışma süreci
+报批 (bàopī) | onaya sunmak | fiil | 这个项目方案已经报批，正在等待审核。 | Bu proje planı onaya sunuldu, incelemenin sonucu bekleniyor.
+备案 (bèi'àn) | kayda geçirmek (resmî kurumda) | fiil | 新开的网站必须先到有关部门备案。 | Yeni açılan siteler önce ilgili kuruma kaydettirilmelidir.
+签发 (qiānfā) | imzalayıp yayımlamak | fiil | 这份通知由局长亲自签发。 | Bu bildirim bizzat genel müdür tarafından imzalanıp yayımlandı.
+下达 (xiàdá) | (aşağıya) iletmek, tebliğ etmek | fiil | 上级已经下达了今年的生产任务。 | Üst makam bu yılın üretim hedeflerini tebliğ etti.
+抄报 (chāobào) | üst makama bilgi için göndermek | fiil | 本通知抄报市政府办公室。 | Bu bildirimin bir sureti bilgi için belediye başkanlık bürosuna gönderilir.
+印发 (yìnfā) | basıp dağıtmak | fiil | 学校印发了新的学生管理规定。 | Okul yeni öğrenci yönetmeliğini basıp dağıttı.
+主送 (zhǔsòng) | asıl muhatap olarak göndermek | fiil | 这份文件主送各区教育局。 | Bu belge asıl muhatap olarak tüm ilçe milli eğitim müdürlüklerine gönderilmiştir.
+告知 (gàozhī) | bildirmek, haber vermek | fiil | 如有疑问，请及时告知我们。 | Herhangi bir sorunuz olursa lütfen zamanında bize bildirin.
+回执 (huízhí) | alındı belgesi, dönüş formu | isim | 请家长在回执上签字后交给班主任。 | Velilerin dönüş formunu imzalayıp sınıf öğretmenine vermesi rica olunur.
+编号 (biānhào) | numara, sıra numarası | isim | 每份合同都有唯一的编号。 | Her sözleşmenin kendine özgü bir numarası vardır.
+## Bürokratik eylem dili
+贯彻 (guànchè) | (ilke, politika) hayata geçirmek | fiil | 各单位要认真贯彻会议精神。 | Tüm kurumlar toplantının ruhunu titizlikle hayata geçirmelidir.
+责成 (zéchéng) | görevlendirmek, sorumlu kılmak | fiil | 市政府责成有关部门立即调查此事。 | Belediye ilgili birimleri konuyu derhâl soruşturmakla görevlendirdi.
+督促 (dūcù) | takip edip sıkıştırmak, teşvik etmek | fiil | 班主任每天督促学生按时完成作业。 | Sınıf öğretmeni öğrencilerin ödevlerini zamanında bitirmesini her gün takip ediyor.
+完善 (wánshàn) | iyileştirmek, eksiksiz hâle getirmek | fiil | 我们要不断完善售后服务体系。 | Satış sonrası hizmet sistemimizi sürekli iyileştirmeliyiz.
+健全 (jiànquán) | sağlam, eksiksiz; sağlamlaştırmak | fiil | 要进一步健全社会保障制度。 | Sosyal güvenlik sistemi daha da sağlamlaştırılmalıdır.
+推进 (tuījìn) | ilerletmek, yürütmek | fiil | 城市更新工作正在稳步推进。 | Kentsel yenileme çalışmaları istikrarlı biçimde ilerliyor.
+审议 (shěnyì) | görüşüp incelemek (kurul) | fiil | 代表们正在审议政府工作报告。 | Temsilciler hükümetin çalışma raporunu görüşüp inceliyor.
+切实 (qièshí) | fiilen, somut olarak | zarf | 要切实解决群众反映强烈的问题。 | Halkın yoğun şikâyet ettiği sorunlar somut olarak çözülmelidir.
+妥善 (tuǒshàn) | uygun ve yerinde biçimde | sıfat | 对受灾群众要妥善安置。 | Afetzedeler uygun biçimde yerleştirilmelidir.
+遵照 (zūnzhào) | uyarınca hareket etmek | fiil | 请各部门遵照执行。 | Tüm birimlerin gereğini yapması rica olunur.
+## Davet ve nezaket dili
+承蒙 (chéngméng) | lütfuna mazhar olmak | fiil | 承蒙您的关照，我们的项目进展得非常顺利。 | İlginiz sayesinde projemiz çok iyi ilerliyor.
+惠存 (huìcún) | (hediye kitap vb.) lütfen kabul ediniz | fiil | 他在书的扉页上写道："王老师惠存"。 | Kitabın ilk sayfasına şunu yazdı: "Wang Hocama saygıyla sunulur."
+拨冗 (bōrǒng) | yoğunluğu arasında vakit ayırmak | fiil | 感谢各位领导拨冗出席今天的活动。 | Yoğun programlarına rağmen bugünkü etkinliğe katılan tüm yöneticilere teşekkür ederiz.
+莅临 (lìlín) | teşrif etmek | fiil | 热烈欢迎各位专家莅临指导。 | Rehberlik etmek üzere teşrif eden tüm uzmanlara içtenlikle hoş geldiniz diyoruz.
+光临 (guānglín) | şeref vermek, buyurmak (müşteriye) | fiil | 欢迎光临，请问几位？ | Hoş geldiniz, kaç kişisiniz?
+垂询 (chuíxún) | (sizin) bilgi almanız, danışmanız | fiil | 如有疑问，欢迎来电垂询。 | Sorularınız için bizi aramanızdan memnuniyet duyarız.
+恭候 (gōnghòu) | saygıyla beklemek | fiil | 我们将在会场门口恭候您的光临。 | Teşrifinizi salon girişinde saygıyla bekliyor olacağız.
+鼎力相助 (dǐnglì xiāngzhù) | büyük bir destekle yardım etmek | deyim | 这次活动能圆满成功，离不开各位的鼎力相助。 | Bu etkinliğin başarıyla tamamlanması hepinizin büyük desteği sayesinde oldu.
+主办 (zhǔbàn) | düzenlemek (asıl düzenleyici) | fiil | 本次论坛由市文化局主办。 | Bu forum il kültür müdürlüğü tarafından düzenlenmektedir.
+承办 (chéngbàn) | yürütmek, organizasyonunu üstlenmek | fiil | 比赛由一家体育公司承办。 | Yarışmanın organizasyonunu bir spor şirketi üstlendi.
+## Gerekçe ve dayanak kalıpları
+为此 (wèicǐ) | bu amaçla, bu nedenle | bağlaç | 近年来交通事故频发，为此，我们制定了新的管理办法。 | Son yıllarda trafik kazaları sıklaştı; bu nedenle yeni bir yönetmelik hazırladık.
+据此 (jùcǐ) | buna dayanarak | bağlaç | 调查组查明了事故原因，并据此提出了整改意见。 | İnceleme ekibi kazanın nedenini belirledi ve buna dayanarak düzeltici öneriler sundu.
+按照 (ànzhào) | -e göre, uyarınca | edat | 请按照规定的格式填写表格。 | Lütfen formu belirlenen biçime göre doldurun.
+参照 (cānzhào) | esas alarak, örnek alarak | fiil | 本办法参照国家有关标准制定。 | Bu yönetmelik ilgili ulusal standartlar esas alınarak hazırlanmıştır.
+基于 (jīyú) | -e dayanarak | edat | 基于以上分析，我们建议暂停这个项目。 | Yukarıdaki analize dayanarak bu projenin askıya alınmasını öneriyoruz.
+本着 (běnzhe) | ilkesiyle, anlayışıyla | edat | 双方本着互利共赢的原则开展合作。 | Taraflar karşılıklı yarar ilkesiyle iş birliği yürütüyor.
+就此 (jiùcǐ) | bu noktada; bu konuda | zarf | 关于赔偿问题，双方将就此进一步协商。 | Tazminat meselesinde taraflar bu konuda daha fazla görüşecek.
+对此 (duìcǐ) | buna (karşı), bu konuda | zarf | 对此，公司发言人表示暂不回应。 | Bu konuda şirket sözcüsü şimdilik yorum yapmayacaklarını söyledi.
+遵循 (zūnxún) | (ilkeye) uymak, izlemek | fiil | 科学研究必须遵循客观规律。 | Bilimsel araştırma nesnel yasalara uymalıdır.
+依托 (yītuō) | dayanmak, -den yararlanmak | fiil | 这个小镇依托当地的温泉资源发展旅游业。 | Bu kasaba turizmini yerel kaplıca kaynaklarına dayanarak geliştiriyor.
+## Belgeler ve arşiv
+正本 (zhèngběn) | asıl nüsha | isim | 合同一式两份，双方各执一份正本。 | Sözleşme iki nüsha düzenlenmiştir, her taraf birer asıl nüsha alır.
+副本 (fùběn) | suret, kopya nüsha | isim | 请把会议记录的副本发给每位参会者。 | Lütfen toplantı tutanağının suretini her katılımcıya gönderin.
+抄件 (chāojiàn) | bilgi nüshası | isim | 这份文件的抄件已经送达各相关部门。 | Bu belgenin bilgi nüshaları tüm ilgili birimlere ulaştırıldı.
+存档 (cúndàng) | arşive kaldırmak, dosyalamak | fiil | 所有审批材料都要存档备查。 | Tüm onay belgeleri ileride incelenmek üzere dosyalanmalıdır.
+归档 (guīdàng) | (belgeyi) arşivlemek | fiil | 项目结束后，资料要及时整理归档。 | Proje bittikten sonra belgeler zamanında düzenlenip arşivlenmelidir.
+加盖 (jiāgài) | (mühür) basmak | fiil | 证明材料必须加盖单位公章才有效。 | Belgeler ancak kurum mührü basıldığında geçerlidir.
+骑缝章 (qífèngzhāng) | sayfa birleşim mührü | isim | 多页合同要在页与页之间加盖骑缝章。 | Çok sayfalı sözleşmelerde sayfaların birleşim yerine mühür basılmalıdır.
+落款 (luòkuǎn) | imza ve tarih kısmı | isim | 信的落款处要写上日期和姓名。 | Mektubun imza kısmına tarih ve ad yazılmalıdır.
+文号 (wénhào) | evrak sayı numarası | isim | 引用文件时请注明文号。 | Belgelere atıfta bulunurken lütfen evrak sayı numarasını belirtin.
+密级 (mìjí) | gizlilik derecesi | isim | 这份文件的密级是"内部"，不得外传。 | Bu belgenin gizlilik derecesi "hizmete özel", dışarıya verilemez.
+## Onay ve ret dili
+准予 (zhǔnyǔ) | izin vermek, onaylamak (resmî) | fiil | 经审核，准予登记。 | İnceleme sonucunda tescile izin verilmiştir.
+不予 (bùyǔ) | vermemek, ... yapılmaz | fiil | 材料不全的申请一律不予受理。 | Belgeleri eksik başvurular istisnasız kabul edilmez.
+批准 (pīzhǔn) | onaylamak | fiil | 他的辞职申请已经被公司批准了。 | İstifa dilekçesi şirket tarafından onaylandı.
+暂缓 (zànhuǎn) | geçici olarak ertelemek | fiil | 由于资金问题，该工程暂缓施工。 | Fon sorunu nedeniyle inşaat geçici olarak ertelendi.
+原则上 (yuánzéshang) | ilke olarak, prensipte | zarf | 原则上不允许带宠物进入，导盲犬除外。 | Prensipte evcil hayvanlarla girilmesine izin verilmez, rehber köpekler hariçtir.
+另行通知 (lìngxíng tōngzhī) | ayrıca bildirilecek | ifade | 考试的具体时间另行通知。 | Sınavın kesin saati ayrıca bildirilecektir.
+一律 (yīlǜ) | istisnasız, hepsi | zarf | 外来车辆一律不得入内。 | Dışarıdan gelen araçların hiçbiri içeri giremez.
+概不 (gàibù) | hiçbir şekilde ... değil | zarf | 商品售出，概不退换。 | Satılan mal hiçbir şekilde geri alınmaz ve değiştirilmez.
+逾期 (yúqī) | süresi geçmiş, vadesi aşılmış | fiil | 逾期不交费的，将按规定收取滞纳金。 | Süresinde ödeme yapmayanlardan kurala göre gecikme cezası alınacaktır.
+届满 (jièmǎn) | (görev süresi) dolmak | fiil | 本届委员会任期届满，将进行换届选举。 | Bu dönem kurulun görev süresi doldu, yenileme seçimi yapılacak.
+## Bürokrasi eleştirisi
+办事处 (bànshìchù) | temsilcilik, irtibat bürosu | isim | 公司在西安设立了一个办事处。 | Şirket Xi'an'da bir irtibat bürosu açtı.
+办事大厅 (bànshì dàtīng) | hizmet salonu | isim | 市民可以到政务办事大厅一次性办好所有手续。 | Vatandaşlar tüm işlemlerini kamu hizmet salonunda tek seferde halledebilir.
+一站式 (yīzhànshì) | tek duraklı, tek noktadan | sıfat | 新开的服务中心为企业提供一站式服务。 | Yeni açılan hizmet merkezi şirketlere tek noktadan hizmet sunuyor.
+走程序 (zǒu chéngxù) | prosedürü işletmek | ifade | 这件事虽然简单，但也得走程序。 | Bu iş basit olsa da prosedürü işletmek gerekiyor.
+推诿 (tuīwěi) | sorumluluğu başkasına atmak | fiil | 几个部门互相推诿，问题一直没人解决。 | Birkaç birim sorumluluğu birbirine attı, sorunu kimse çözmedi.
+扯皮 (chěpí) | lafı uzatıp işi yokuşa sürmek | fiil | 为了一点小事，两个部门扯皮了一个月。 | Küçük bir mesele yüzünden iki birim bir ay boyunca işi yokuşa sürdü.
+官腔 (guānqiāng) | resmî ve soğuk ağız | isim | 他一开口就是官腔，听着让人很不舒服。 | Ağzını açtığı an resmî ve soğuk bir dille konuşuyor, dinleyeni rahatsız ediyor.
+繁文缛节 (fánwén rùjié) | gereksiz formaliteler | deyim | 办个小小的执照也要经过这么多繁文缛节。 | Ufacık bir ruhsat için bile bu kadar gereksiz formaliteden geçmek gerekiyor.
+形式主义 (xíngshì zhǔyì) | şekilcilik | isim | 这种检查只是走过场，是典型的形式主义。 | Bu denetim göstermelik, tipik bir şekilcilik.
+文山会海 (wénshān huìhǎi) | evrak dağları ve toplantı denizi | deyim | 基层干部常常被淹没在文山会海之中。 | Yerel yöneticiler çoğu zaman evrak dağları ve toplantı denizinde boğuluyor.
