@@ -1,41 +1,41 @@
-BAŞARISIZ course_es/C1/21.txt: ["line 41: 'echar más leña al fuego' already used elsewhere in the course — choose another word", "line 47: 'estar entre la espada y la pared' already used elsewhere in the course — choose another word", "line 67: 'dar gato por liebre a alguien' already used elsewhere in the course — choose another word"]
-course_es/C1/22.txt: deneme 1, 19 hata
-course_es/C2/01.txt: deneme 1, 9 hata
-course_es/C2/01.txt: deneme 2, 9 hata
-course_es/C2/01.txt: deneme 3, 2 hata
-BAŞARISIZ course_es/C2/01.txt: ["line 58: 'la elocución' already used elsewhere in the course — choose another word", "line 78: 'el registro' already used elsewhere in the course — choose another word"]
-course_es/C2/03.txt: deneme 1, 16 hata
-course_es/C2/03.txt: deneme 2, 7 hata
-course_es/C2/03.txt: deneme 3, 6 hata
-BAŞARISIZ course_es/C2/03.txt: ["line 22: 'elegante' already used elsewhere in the course — choose another word", "line 25: 'sagaz' already used elsewhere in the course — choose another word", "line 58: 'simpático' already used elsewhere in the course — choose another word"]
-course_es/C2/07.txt: deneme 1, 38 hata
-429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
+günlük sınır: anahtar #9 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+course_es/B1/11.txt: deneme 2, 22 hata
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+günlük sınır: anahtar #1 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #4 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #5 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
 günlük sınır: anahtar #10 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
-course_es/C2/07.txt: deneme 2, 40 hata
-429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
-course_es/C2/07.txt: deneme 3, 40 hata
-BAŞARISIZ course_es/C2/07.txt: ["line 3: 'la primicia' already used elsewhere in the course — choose another word", "line 4: 'el sumario' already used elsewhere in the course — choose another word", "line 5: 'el titular' already used elsewhere in the course — choose another word"]
-course_es/C2/09.txt: deneme 1, 5 hata
-course_es/C2/12.txt: deneme 1, 36 hata
-course_es/C2/12.txt: deneme 2, 23 hata
-429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
-course_es/C2/12.txt: deneme 3, 7 hata
-BAŞARISIZ course_es/C2/12.txt: ["line 74: 'llevar la batuta' already used elsewhere in the course — choose another word", "line 80: 'hacer mella' already used elsewhere in the course — choose another word", "line 81: 'costar un ojo de la cara' already used elsewhere in the course — choose another word"]
-course_es/C2/14.txt: deneme 1, 19 hata
-course_es/C2/14.txt: deneme 2, 4 hata
-course_es/C2/14.txt: deneme 3, 1 hata
-BAŞARISIZ course_es/C2/14.txt: ["line 109: 'la paciencia todo lo alcanza' already used elsewhere in the course — choose another word"]
-course_es/C2/15.txt: deneme 1, 21 hata
-course_es/C2/15.txt: deneme 2, 4 hata
-course_es/C2/18.txt: deneme 1, 2 hata
-course_es/C2/21.txt: deneme 1, 19 hata
-course_es/C2/21.txt: deneme 2, 14 hata
-429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
-course_es/C2/21.txt: deneme 3, 14 hata
-BAŞARISIZ course_es/C2/21.txt: ["line 4: 'merodear' already used elsewhere in the course — choose another word", "line 6: 'deambular' already used elsewhere in the course — choose another word", "line 37: 'vociferar' already used elsewhere in the course — choose another word"]
-429 dakikalık: anahtar #9 ['GenerateContentInputTokensPerModelPerMinute-FreeTier'] limit=250000
-course_es/C2/23.txt: deneme 1, 31 hata
-course_es/C2/23.txt: deneme 2, 10 hata
-course_es/C2/23.txt: deneme 3, 4 hata
-BAŞARISIZ course_es/C2/23.txt: ["line 67: 'la gnoseología' already used elsewhere in the course — choose another word", "line 91: 'la gobernanza' already used elsewhere in the course — choose another word", "line 92: 'el organigrama' already used elsewhere in the course — choose another word"]
-14
+HTTP 404 anahtar #10: {
+günlük sınır: anahtar #10 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+course_es/B1/11.txt: deneme 3, 22 hata
+BAŞARISIZ course_es/B1/11.txt: ["line 6: 'el tomo' already used elsewhere in the course — choose another word", "line 15: 'el ritmo' already used elsewhere in the course — choose another word", "line 25: 'la pantalla' already used elsewhere in the course — choose another word"]
+429 dakikalık: anahtar #1 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+günlük sınır: anahtar #10 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+429 dakikalık: anahtar #11 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+HTTP 404 anahtar #11: {
+429 dakikalık: anahtar #11 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+course_es/B2/02.txt: deneme 1, 43 hata
+günlük sınır: anahtar #1 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #7 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+429 dakikalık: anahtar #9 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=15
+günlük sınır: anahtar #11 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+429 dakikalık: anahtar #11 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+günlük sınır: anahtar #11 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+429 dakikalık: anahtar #12 ['GenerateRequestsPerMinutePerProjectPerModel-FreeTier'] limit=5
+HTTP 404 anahtar #12: {
+günlük sınır: anahtar #12 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #12 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+günlük sınır: anahtar #7 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #7 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+course_es/B2/02.txt: deneme 2, 22 hata
+günlük sınır: anahtar #9 gemini-flash-lite-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=500
+günlük sınır: anahtar #11 gemini-flash-latest ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+günlük sınır: anahtar #12 gemini-3.8-flash ['GenerateRequestsPerDayPerProjectPerModel-FreeTier'] limit=20
+0
