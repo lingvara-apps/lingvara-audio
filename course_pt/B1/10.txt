@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Donanım
+o processador | işlemci | isim (e) | Esse notebook tem um processador rápido para editar vídeos. | Bu dizüstünün video düzenlemek için hızlı bir işlemcisi var.
+a memória | bellek, hafıza | isim (d) | O celular está lento porque a memória está cheia. | Telefonun hafızası dolu olduğu için yavaş.
+o disco rígido | sabit disk | isim (e) | Perdi todas as fotos quando o disco rígido queimou. | Sabit disk yanınca bütün fotoğraflarımı kaybettim.
+o monitor | monitör, ekran | isim (e) | Trabalho com dois monitores para ver tudo ao mesmo tempo. | Her şeyi aynı anda görmek için iki monitörle çalışıyorum.
+o roteador | modem, yönlendirici | isim (e) | Desliga o roteador e liga de novo para ver se volta. | Modemi kapatıp tekrar aç, bakalım düzelecek mi.
+a webcam | web kamerası | isim (d) | A webcam do computador não funciona na videochamada. | Bilgisayarın web kamerası görüntülü aramada çalışmıyor.
+o microfone | mikrofon | isim (e) | Seu microfone está desligado, ninguém está te ouvindo. | Mikrofonun kapalı, kimse seni duymuyor.
+a caixa de som | hoparlör | isim (d) | Levamos uma caixa de som pequena para a praia. | Plaja küçük bir hoparlör götürdük.
+o servidor | sunucu | isim (e) | O site ficou fora do ar por causa de um problema no servidor. | Sunucudaki bir sorun yüzünden site çöktü.
+o hardware | donanım | isim (e) | O problema não é o programa, é o hardware antigo. | Sorun program değil, eski donanım.
+## Yazılım
+o software | yazılım | isim (e) | A empresa comprou um software novo para controlar o estoque. | Şirket stok takibi için yeni bir yazılım aldı.
+o sistema operacional | işletim sistemi | isim (e) | Preciso atualizar o sistema operacional do computador. | Bilgisayarın işletim sistemini güncellemem lazım.
+a versão | sürüm | isim (d) | A versão nova do aplicativo está cheia de erros. | Uygulamanın yeni sürümü hatalarla dolu.
+a linguagem de programação | programlama dili | isim (d) | Ele aprendeu sua primeira linguagem de programação aos quinze anos. | İlk programlama dilini on beş yaşında öğrendi.
+programar | programlamak, kod yazmak | fiil | Minha filha aprendeu a programar jogos simples na escola. | Kızım okulda basit oyunlar programlamayı öğrendi.
+o desenvolvedor | yazılım geliştirici | isim (e) | Os desenvolvedores trabalham de casa três dias por semana. | Yazılım geliştiriciler haftada üç gün evden çalışıyor.
+a configuração | ayar | isim (d) | Você muda o idioma nas configurações do celular. | Dili telefonun ayarlarından değiştirirsin.
+configurar | ayarlamak, kurmak | fiil | Meu neto configurou a televisão nova para mim. | Torunum yeni televizyonu benim için ayarladı.
+a função | işlev, özellik | isim (d) | Essa câmera tem uma função para fotos noturnas. | Bu kameranın gece fotoğrafları için bir özelliği var.
+o tutorial | eğitim videosu, kılavuz | isim (e) | Aprendi a trocar a tela do celular com um tutorial. | Telefon ekranını değiştirmeyi bir eğitim videosuyla öğrendim.
+## İnternet
+a banda larga | geniş bant internet | isim (d) | A banda larga ainda não chegou a muitas áreas rurais. | Geniş bant internet pek çok kırsal bölgeye henüz ulaşmadı.
+a fibra óptica | fiber optik | isim (d) | Com a fibra óptica, a internet ficou muito mais rápida. | Fiber optikle internet çok daha hızlı oldu.
+o provedor | internet sağlayıcısı | isim (e) | Liguei para o provedor porque a internet caiu de novo. | İnternet yine kesildiği için sağlayıcıyı aradım.
+o buscador | arama motoru | isim (e) | Digitei o nome do restaurante no buscador e achei o endereço. | Restoranın adını arama motoruna yazıp adresi buldum.
+o download | indirme | isim (e) | O download do jogo vai levar mais de uma hora. | Oyunun indirilmesi bir saatten fazla sürecek.
+o upload | yükleme | isim (e) | O upload do vídeo parou na metade por causa da conexão. | Videonun yüklenmesi bağlantı yüzünden yarıda kaldı.
+o armazenamento | depolama alanı | isim (e) | Paguei por mais armazenamento para guardar as fotos. | Fotoğrafları saklamak için ek depolama alanına para ödedim.
+a aba | sekme | isim (d) | Tenho vinte abas abertas e não acho a que eu preciso. | Yirmi sekme açık ve ihtiyacım olanı bulamıyorum.
+a página inicial | ana sayfa | isim (d) | A notícia está na página inicial do portal. | Haber portalın ana sayfasında.
+o tráfego | trafik (veri) | isim (e) | O tráfego no site dobrou depois da campanha. | Kampanyadan sonra sitenin trafiği ikiye katlandı.
+## Siber güvenlik
+o hacker | bilgisayar korsanı | isim (e) | Um hacker conseguiu entrar no sistema da loja. | Bir bilgisayar korsanı mağazanın sistemine girmeyi başardı.
+invadir | izinsiz girmek, ele geçirmek | fiil | Invadiram minha conta e mandaram mensagens estranhas aos amigos. | Hesabıma girip arkadaşlarıma tuhaf mesajlar gönderdiler.
+a invasão | izinsiz giriş, saldırı | isim (d) | A invasão do sistema expôs dados de milhares de clientes. | Sisteme izinsiz giriş binlerce müşterinin verilerini açığa çıkardı.
+a fraude | dolandırıcılık, sahtekârlık | isim (d) | O banco bloqueou o cartão por suspeita de fraude. | Banka dolandırıcılık şüphesiyle kartı bloke etti.
+o golpista | dolandırıcı | isim (e) | O golpista fingiu ser do banco para pedir a senha. | Dolandırıcı şifreyi istemek için bankadan arıyormuş gibi yaptı.
+clonar | kopyalamak (hesap, kart) | fiil | Clonaram o cartão do meu pai num posto de gasolina. | Babamın kartını bir benzin istasyonunda kopyaladılar.
+a verificação em duas etapas | iki adımlı doğrulama | isim (d) | Ative a verificação em duas etapas para proteger a conta. | Hesabını korumak için iki adımlı doğrulamayı etkinleştir.
+o código de verificação | doğrulama kodu | isim (e) | Nunca passe o código de verificação para ninguém. | Doğrulama kodunu asla kimseye verme.
+o cibercrime | siber suç | isim (e) | A polícia criou um setor só para investigar cibercrimes. | Polis yalnızca siber suçları soruşturmak için bir birim kurdu.
+o anonimato | anonimlik | isim (e) | Na internet, o anonimato deixa algumas pessoas agressivas. | İnternette anonimlik bazı insanları saldırgan yapıyor.
+## Yapay zekâ ve yenilikler
+o assistente virtual | sanal asistan | isim (e) | Peço ao assistente virtual para tocar música na cozinha. | Mutfakta sanal asistandan müzik açmasını istiyorum.
+o chatbot | sohbet botu | isim (e) | O chatbot da loja respondeu minha dúvida em segundos. | Mağazanın sohbet botu sorumu saniyeler içinde yanıtladı.
+a realidade virtual | sanal gerçeklik | isim (d) | Com os óculos de realidade virtual, parecia que eu estava voando. | Sanal gerçeklik gözlüğüyle uçuyormuşum gibi hissettim.
+a realidade aumentada | artırılmış gerçeklik | isim (d) | O museu usa realidade aumentada para mostrar os dinossauros. | Müze dinozorları göstermek için artırılmış gerçeklik kullanıyor.
+o reconhecimento de voz | ses tanıma | isim (e) | O reconhecimento de voz ainda erra muito com sotaques. | Ses tanıma şivelerde hâlâ çok hata yapıyor.
+a tradução automática | otomatik çeviri | isim (d) | A tradução automática ajuda, mas às vezes fica muito estranha. | Otomatik çeviri yardımcı oluyor ama bazen çok tuhaf oluyor.
+o comando | komut | isim (e) | O robô aspirador obedece a comandos de voz. | Robot süpürge sesli komutlara uyuyor.
+gerar | üretmek, oluşturmak | fiil | O programa consegue gerar imagens a partir de um texto. | Program bir metinden görüntü oluşturabiliyor.
+o drone | dron | isim (e) | Filmamos o casamento na praia com um drone. | Plajdaki düğünü bir dronla çektik.
+a impressão 3D | üç boyutlu baskı | isim (d) | Com impressão 3D, o hospital criou peças para próteses. | Hastane üç boyutlu baskıyla protez parçaları üretti.
+## Uzay
+o espaço | uzay | isim (e) | Ela sonha em ir ao espaço desde criança. | Çocukluğundan beri uzaya gitmeyi hayal ediyor.
+o universo | evren | isim (e) | O universo é tão grande que é difícil de imaginar. | Evren o kadar büyük ki hayal etmek zor.
+a galáxia | galaksi | isim (d) | Existem bilhões de galáxias além da nossa. | Bizimkinin ötesinde milyarlarca galaksi var.
+o sistema solar | güneş sistemi | isim (e) | Júpiter é o maior planeta do sistema solar. | Jüpiter güneş sistemindeki en büyük gezegendir.
+o planeta | gezegen | isim (e) | Todos nós precisamos cuidar melhor do nosso planeta. | Hepimizin gezegenimize daha iyi bakması gerekiyor.
+o astronauta | astronot | isim (e) | O astronauta passou seis meses fora da Terra. | Astronot altı ayı Dünya dışında geçirdi.
+o foguete | roket | isim (e) | O foguete foi lançado da base de Alcântara, no Maranhão. | Roket Maranhão'daki Alcântara üssünden fırlatıldı.
+a nave espacial | uzay gemisi | isim (d) | A nave espacial vai levar quatro pessoas até a Lua. | Uzay gemisi dört kişiyi Ay'a götürecek.
+a estação espacial | uzay istasyonu | isim (d) | Dá para ver a estação espacial passando no céu à noite. | Geceleri uzay istasyonunun gökyüzünden geçtiği görülebiliyor.
+o telescópio | teleskop | isim (e) | Com o telescópio, vimos os anéis de Saturno. | Teleskopla Satürn'ün halkalarını gördük.
+## Gök cisimleri
+o cometa | kuyruklu yıldız | isim (e) | Esse cometa só passa perto da Terra a cada setenta anos. | Bu kuyruklu yıldız Dünya'nın yakınından yetmiş yılda bir geçer.
+o meteoro | göktaşı (meteor) | isim (e) | Vimos um meteoro brilhante cruzar o céu do sertão. | Sertão'nun gökyüzünü kesen parlak bir göktaşı gördük.
+o asteroide | asteroit | isim (e) | Os cientistas acompanham um asteroide que vai passar perto. | Bilim insanları yakından geçecek bir asteroidi takip ediyor.
+o eclipse | tutulma | isim (e) | Muita gente subiu no morro para ver o eclipse da lua. | Ay tutulmasını görmek için pek çok kişi tepeye çıktı.
+a estrela cadente | kayan yıldız | isim (d) | Quando vir uma estrela cadente, faça um pedido. | Kayan bir yıldız görünce bir dilek tut.
+a lua cheia | dolunay | isim (d) | A lua cheia iluminava toda a praia naquela noite. | O gece dolunay bütün plajı aydınlatıyordu.
+o buraco negro | kara delik | isim (e) | Nem a luz consegue escapar de um buraco negro. | Işık bile bir kara delikten kaçamaz.
+a constelação | takımyıldız | isim (d) | O Cruzeiro do Sul é a constelação da bandeira brasileira. | Güney Haçı Brezilya bayrağındaki takımyıldızdır.
+a Via Láctea | Samanyolu | isim (d) | Longe da cidade, dá para ver a Via Láctea a olho nu. | Şehirden uzakta Samanyolu çıplak gözle görülebilir.
+a atmosfera | atmosfer | isim (d) | A atmosfera protege a Terra de pequenos meteoros. | Atmosfer Dünya'yı küçük göktaşlarından korur.
+## Teknoloji fiilleri
+acessar | erişmek, girmek | fiil | Não consigo acessar meu e-mail pelo celular. | Telefondan e-postama giremiyorum.
+navegar | gezinmek (internette) | fiil | Passei a tarde navegando em sites de viagem. | Öğleden sonrayı seyahat sitelerinde gezinerek geçirdim.
+armazenar | depolamak | fiil | A empresa armazena os dados em servidores no Brasil. | Şirket verileri Brezilya'daki sunucularda depoluyor.
+sincronizar | eşitlemek, senkronize etmek | fiil | O relógio sincroniza automaticamente com o celular. | Saat telefonla otomatik olarak eşitleniyor.
+desconectar | bağlantıyı kesmek | fiil | Nas férias, quero me desconectar do trabalho por completo. | Tatilde işten tamamen kopmak istiyorum.
+formatar | biçimlendirmek, sıfırlamak | fiil | O técnico precisou formatar o computador por causa do vírus. | Teknisyen virüs yüzünden bilgisayarı sıfırlamak zorunda kaldı.
+desinstalar | kaldırmak (program) | fiil | Desinstalei o jogo porque estava gastando muita bateria. | Oyunu çok pil harcadığı için kaldırdım.
+rodar | çalıştırmak (program) | fiil | Esse computador velho não roda os jogos novos. | Bu eski bilgisayar yeni oyunları çalıştırmıyor.
+restaurar | geri yüklemek | fiil | Troquei de celular e consegui restaurar as conversas pelo backup. | Telefonumu değiştirdim ve konuşmaları yedekten geri yüklemeyi başardım.
+inovar | yenilik yapmak | fiil | As empresas que não inovam acabam perdendo clientes. | Yenilik yapmayan şirketler sonunda müşteri kaybeder.
+## Teknoloji sıfatları
+tecnológico | teknolojik | sıfat | O polo tecnológico de Recife atrai muitas empresas. | Recife'deki teknoloji merkezi pek çok şirketi çekiyor.
+inovador | yenilikçi | sıfat | O projeto inovador usa lixo para produzir energia. | Yenilikçi proje çöpü enerji üretmek için kullanıyor.
+avançado | gelişmiş, ileri | sıfat | O hospital da cidade comprou equipamentos muito avançados. | Şehrin hastanesi çok gelişmiş cihazlar satın aldı.
+automático | otomatik | sıfat | A porta automática abriu antes de eu chegar. | Otomatik kapı ben gelmeden açıldı.
+sem fio | kablosuz | sıfat | Comprei um fone sem fio para correr na praia. | Sahilde koşmak için kablosuz bir kulaklık aldım.
+portátil | taşınabilir | sıfat | Levo um carregador portátil em todas as viagens. | Her yolculukta taşınabilir bir şarj cihazı götürürüm.
+obsoleto | eskimiş, modası geçmiş | sıfat | Esse modelo de celular já está obsoleto. | Bu telefon modeli artık eskidi.
+compatível | uyumlu | sıfat | O carregador novo não é compatível com o meu celular. | Yeni şarj cihazı telefonumla uyumlu değil.
+intuitivo | kolay anlaşılır, sezgisel | sıfat | O aplicativo é tão intuitivo que minha avó usa sozinha. | Uygulama o kadar kolay ki büyükannem tek başına kullanıyor.
+conectado | bağlı, çevrim içi | sıfat | Os jovens passam o dia todo conectados às redes. | Gençler bütün gün sosyal ağlara bağlı kalıyor.
+## Dijital hayat
+a inovação | yenilik, inovasyon | isim (d) | A inovação é o foco principal da nova empresa. | Yeni şirketin ana odağı yenilik.
+a startup | girişim şirketi | isim (d) | Ela trabalha numa startup de entregas em Florianópolis. | Florianópolis'te bir teslimat girişim şirketinde çalışıyor.
+o nômade digital | dijital göçebe | isim (e) | Como nômade digital, ele trabalha de uma praia diferente a cada mês. | Dijital göçebe olarak her ay farklı bir plajdan çalışıyor.
+o tempo de tela | ekran süresi | isim (e) | Os pais limitam o tempo de tela das crianças. | Ebeveynler çocukların ekran süresini sınırlıyor.
+o vício em celular | telefon bağımlılığı | isim (e) | O vício em celular atrapalha o sono de muitos adolescentes. | Telefon bağımlılığı pek çok gencin uykusunu bozuyor.
+o modo escuro | karanlık mod | isim (e) | Uso o modo escuro para cansar menos os olhos à noite. | Geceleri gözlerim daha az yorulsun diye karanlık modu kullanıyorum.
+o perfil falso | sahte profil | isim (e) | Alguém criou um perfil falso com as minhas fotos. | Biri benim fotoğraflarımla sahte bir profil oluşturdu.
+cair a internet | internetin kesilmesi | ifade | Caiu a internet bem no meio da minha reunião. | Toplantımın tam ortasında internet kesildi.
+dar pau | çökmek, bozulmak (cihaz) | deyim | O computador deu pau e perdi o trabalho todo. | Bilgisayar çöktü ve bütün çalışmamı kaybettim.
+ficar sem bateria | şarjı bitmek | ifade | Fiquei sem bateria e não consegui chamar o carro. | Şarjım bitti ve araba çağıramadım.
