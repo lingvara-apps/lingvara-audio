@@ -1,0 +1,111 @@
+# UNIT: Sağlık ve psikoloji | Hastalık, tedavi, ruh sağlığı
+## Belirtiler
+o sintoma | belirti | isim (e) | Febre e dor no corpo são sintomas comuns da dengue. | Ateş ve vücut ağrısı dengenin yaygın belirtileridir.
+a coceira | kaşıntı | isim (d) | A picada do mosquito deixou uma coceira terrível. | Sivrisinek ısırığı korkunç bir kaşıntı bıraktı.
+a falta de ar | nefes darlığı | isim (d) | Se sentir falta de ar, procure um médico logo. | Nefes darlığı hissedersen hemen bir doktora git.
+o calafrio | titreme, ürperti | isim (e) | Ele teve calafrios a noite toda por causa da febre. | Ateş yüzünden bütün gece titredi.
+a cólica | sancı, kramp | isim (d) | O bebê chorou de cólica até de madrugada. | Bebek gaz sancısından sabaha karşıya kadar ağladı.
+a azia | mide yanması | isim (d) | Sempre tenho azia quando como feijoada à noite. | Akşam feijoada yiyince hep midem yanar.
+a fraqueza | halsizlik, güçsüzlük | isim (d) | Depois da gripe, fiquei com muita fraqueza nas pernas. | Gripten sonra bacaklarımda çok halsizlik kaldı.
+a enxaqueca | migren | isim (d) | Quando tenho enxaqueca, preciso ficar no escuro. | Migrenim tuttuğunda karanlıkta kalmam gerekir.
+a insônia | uykusuzluk | isim (d) | O estresse do trabalho está me dando insônia. | İş stresi bende uykusuzluk yapıyor.
+o mal-estar | rahatsızlık, keyifsizlik | isim (e) | Ela sentiu um mal-estar e saiu mais cedo da aula. | Bir rahatsızlık hissetti ve dersten erken çıktı.
+## Hastalıklar
+a virose | viral enfeksiyon | isim (d) | O médico disse que é só uma virose e vai passar. | Doktor bunun sadece bir virüs olduğunu ve geçeceğini söyledi.
+a pneumonia | zatürre | isim (d) | Meu avô ficou internado uma semana com pneumonia. | Dedem zatürre yüzünden bir hafta hastanede yattı.
+a bronquite | bronşit | isim (d) | A poeira da obra piorou a bronquite da minha filha. | İnşaatın tozu kızımın bronşitini kötüleştirdi.
+a rinite | rinit, alerjik nezle | isim (d) | Com a mudança de tempo, minha rinite sempre ataca. | Hava değişince rinitim hep azar.
+a sinusite | sinüzit | isim (d) | A sinusite me dá uma dor forte na testa. | Sinüzit alnımda şiddetli bir ağrı yapıyor.
+a conjuntivite | göz iltihabı | isim (d) | Metade da turma pegou conjuntivite na mesma semana. | Sınıfın yarısı aynı hafta göz iltihabı kaptı.
+a catapora | su çiçeği | isim (d) | Tive catapora aos seis anos e lembro da coceira. | Altı yaşında su çiçeği geçirdim, kaşıntısını hatırlıyorum.
+o sarampo | kızamık | isim (e) | A vacina protege as crianças contra o sarampo. | Aşı çocukları kızamığa karşı korur.
+a intoxicação alimentar | gıda zehirlenmesi | isim (d) | Comemos camarão estragado e pegamos uma intoxicação alimentar. | Bozuk karides yedik ve gıda zehirlenmesi geçirdik.
+a gastrite | gastrit | isim (d) | Por causa da gastrite, ele evita café e pimenta. | Gastrit yüzünden kahve ve acıdan kaçınıyor.
+## Tedavi
+o diagnóstico | teşhis | isim (e) | O diagnóstico só sai depois dos exames de amanhã. | Teşhis ancak yarınki tahlillerden sonra konulacak.
+a fisioterapia | fizik tedavi | isim (d) | Depois da cirurgia no joelho, fiz três meses de fisioterapia. | Diz ameliyatından sonra üç ay fizik tedavi gördüm.
+o repouso | istirahat | isim (e) | O médico recomendou repouso absoluto por uma semana. | Doktor bir hafta tam istirahat önerdi.
+a recuperação | iyileşme | isim (d) | A recuperação foi mais rápida do que todos esperavam. | İyileşme herkesin beklediğinden daha hızlı oldu.
+o check-up | genel sağlık kontrolü | isim (e) | Faço um check-up completo uma vez por ano. | Yılda bir kez tam bir sağlık kontrolü yaptırırım.
+o exame de sangue | kan tahlili | isim (e) | Para o exame de sangue, você precisa estar em jejum. | Kan tahlili için aç karnına olman gerekiyor.
+a anestesia | anestezi, uyuşturma | isim (d) | O dentista aplicou anestesia antes de tirar o dente. | Diş hekimi dişi çekmeden önce uyuşturma yaptı.
+os pontos | dikiş | isim (çoğul) | Ele levou cinco pontos na testa depois da queda. | Düşmeden sonra alnına beş dikiş atıldı.
+o efeito colateral | yan etki | isim (e) | Esse remédio pode ter sono como efeito colateral. | Bu ilacın yan etkisi olarak uyku yapabilir.
+a internação | hastaneye yatış | isim (d) | A internação durou quatro dias por causa da infecção. | Enfeksiyon yüzünden hastanede yatış dört gün sürdü.
+## Sağlık fiilleri
+diagnosticar | teşhis koymak | fiil | A médica diagnosticou uma infecção no ouvido. | Doktor kulakta enfeksiyon teşhisi koydu.
+receitar | reçete yazmak | fiil | O médico receitou um antibiótico por sete dias. | Doktor yedi günlük bir antibiyotik yazdı.
+tratar | tedavi etmek | fiil | Esse hospital é referência para tratar queimaduras graves. | Bu hastane ağır yanıkları tedavi etmede bir merkezdir.
+operar | ameliyat etmek | fiil | O cirurgião vai operar o joelho dele na segunda-feira. | Cerrah pazartesi onun dizini ameliyat edecek.
+recuperar-se | iyileşmek, toparlanmak | fiil · dönüşlü | Ela já se recuperou da cirurgia e voltou ao trabalho. | Ameliyattan iyileşti ve işine döndü.
+aliviar | hafifletmek | fiil | Um chá de camomila ajuda a aliviar a dor de barriga. | Papatya çayı karın ağrısını hafifletmeye yardım eder.
+prevenir | önlemek | fiil | Lavar as mãos é a melhor forma de prevenir doenças. | Elleri yıkamak hastalıkları önlemenin en iyi yoludur.
+engolir | yutmak | fiil | Minha garganta está tão inflamada que dói para engolir. | Boğazım o kadar iltihaplı ki yutkunurken acıyor.
+inflamar | iltihaplanmak | fiil | O corte no dedo inflamou porque não limpei direito. | Parmağımdaki kesik düzgün temizlemediğim için iltihaplandı.
+contaminar | bulaştırmak, kirletmek | fiil | A água contaminada deixou muitas pessoas doentes na vila. | Kirli su köyde pek çok kişiyi hasta etti.
+## Ruh sağlığı
+a depressão | depresyon | isim (d) | Ela tratou a depressão com terapia e apoio da família. | Depresyonunu terapi ve aile desteğiyle tedavi etti.
+a síndrome do pânico | panik bozukluk | isim (d) | Com síndrome do pânico, ele evitava lugares cheios. | Panik bozukluğu yüzünden kalabalık yerlerden kaçınıyordu.
+o transtorno | bozukluk (ruhsal) | isim (e) | O transtorno de ansiedade é mais comum do que parece. | Kaygı bozukluğu göründüğünden daha yaygın.
+o trauma | travma | isim (e) | Depois do assalto, ela ficou com trauma de andar sozinha. | Soygundan sonra yalnız yürümekle ilgili travma yaşadı.
+a autoestima | özsaygı, özgüven | isim (d) | Elogios sinceros ajudam a melhorar a autoestima das crianças. | Samimi övgüler çocukların özgüvenini artırmaya yardım eder.
+o esgotamento | tükenmişlik | isim (e) | Trabalhar setenta horas por semana levou ao esgotamento. | Haftada yetmiş saat çalışmak tükenmişliğe yol açtı.
+a crise de ansiedade | kaygı krizi | isim (d) | Ele teve uma crise de ansiedade antes da apresentação. | Sunumdan önce bir kaygı krizi geçirdi.
+o luto | yas | isim (e) | A família ainda está de luto pela morte da avó. | Aile hâlâ büyükannenin ölümünün yasını tutuyor.
+a terapia | terapi | isim (d) | Faço terapia toda quinta-feira depois do trabalho. | Her perşembe işten sonra terapiye gidiyorum.
+o bem-estar | iyi oluş, esenlik | isim (e) | A empresa criou um programa de bem-estar para os funcionários. | Şirket çalışanlar için bir iyi oluş programı başlattı.
+## Uzmanlar ve belgeler
+o psicólogo | psikolog | isim (e) | Conversar com um psicólogo me ajudou muito no luto. | Bir psikologla konuşmak yas sürecimde bana çok yardım etti.
+o psiquiatra | psikiyatrist | isim (e) | O psiquiatra ajustou a dose do remédio dela. | Psikiyatrist onun ilaç dozunu ayarladı.
+o terapeuta | terapist | isim (e) | Minha terapeuta me ensinou exercícios de respiração. | Terapistim bana nefes egzersizleri öğretti.
+o nutricionista | diyetisyen | isim (e) | A nutricionista montou uma dieta com frutas da estação. | Diyetisyen mevsim meyveleriyle bir diyet hazırladı.
+o fisioterapeuta | fizyoterapist | isim (e) | O fisioterapeuta passou exercícios para fortalecer as costas. | Fizyoterapist sırtı güçlendirmek için egzersizler verdi.
+o clínico geral | pratisyen hekim | isim (e) | Primeiro você passa no clínico geral e depois no especialista. | Önce pratisyen hekime, sonra uzmana gidiyorsun.
+a sessão | seans | isim (d) | Cada sessão de terapia dura cinquenta minutos. | Her terapi seansı elli dakika sürer.
+o acompanhamento | takip (tedavi) | isim (e) | Depois da alta, ela continua com acompanhamento médico. | Taburcu olduktan sonra doktor takibi devam ediyor.
+o calmante | sakinleştirici | isim (e) | Ele tomou um calmante antes do voo longo. | Uzun uçuştan önce bir sakinleştirici aldı.
+o atestado médico | doktor raporu | isim (e) | Entreguei o atestado médico no RH para justificar a falta. | Devamsızlığımı açıklamak için doktor raporunu insan kaynaklarına verdim.
+## Sağlıklı yaşam
+a alimentação | beslenme | isim (d) | Uma boa alimentação começa com um café da manhã equilibrado. | İyi beslenme dengeli bir kahvaltıyla başlar.
+o sedentarismo | hareketsiz yaşam | isim (e) | O sedentarismo é um problema sério entre os jovens. | Hareketsiz yaşam gençler arasında ciddi bir sorun.
+a obesidade | obezite | isim (d) | A obesidade infantil aumentou nas grandes cidades. | Büyük şehirlerde çocuk obezitesi arttı.
+o colesterol | kolesterol | isim (e) | Meu pai precisa controlar o colesterol e comer menos fritura. | Babamın kolesterolünü kontrol etmesi ve daha az kızartma yemesi gerekiyor.
+a hidratação | sıvı alımı | isim (d) | No calor de Cuiabá, a hidratação é fundamental. | Cuiabá'nın sıcağında yeterli sıvı almak çok önemli.
+o alongamento | esneme hareketi | isim (e) | Faça alongamento antes e depois da corrida. | Koşudan önce ve sonra esneme hareketleri yap.
+a musculação | ağırlık çalışması | isim (d) | Ela faz musculação três vezes por semana na academia. | Spor salonunda haftada üç kez ağırlık çalışıyor.
+a qualidade de vida | yaşam kalitesi | isim (d) | Ele mudou para o interior em busca de qualidade de vida. | Daha iyi bir yaşam kalitesi için taşraya taşındı.
+a prevenção | önleme, korunma | isim (d) | A campanha de prevenção ao câncer começa em outubro. | Kanserden korunma kampanyası ekimde başlıyor.
+o condicionamento físico | fiziksel kondisyon | isim (e) | Para fazer essa trilha, você precisa de bom condicionamento físico. | Bu parkuru yürümek için iyi bir kondisyona ihtiyacın var.
+## Sağlık sıfatları
+contagioso | bulaşıcı | sıfat | A gripe é contagiosa, então fique em casa hoje. | Grip bulaşıcıdır, bu yüzden bugün evde kal.
+crônico | kronik, süreğen | sıfat | Ela sofre de dor crônica nas costas há anos. | Yıllardır kronik sırt ağrısı çekiyor.
+leve | hafif | sıfat | Foi só um acidente leve, ninguém se machucou. | Sadece hafif bir kazaydı, kimse yaralanmadı.
+agudo | akut, şiddetli | sıfat | Ele sentiu uma dor aguda no lado direito da barriga. | Karnının sağ tarafında keskin bir ağrı hissetti.
+alérgico | alerjik, alerjisi olan | sıfat | Sou alérgico a camarão, então não posso comer moqueca. | Karidese alerjim var, o yüzden moqueca yiyemem.
+deprimido | depresif, bunalımda | sıfat | Depois que perdeu o emprego, ele ficou deprimido. | İşini kaybettikten sonra bunalıma girdi.
+estressado | stresli | sıfat | Ando muito estressado com a mudança de casa. | Ev taşıma yüzünden çok stresliyim.
+exausto | bitkin | sıfat | Cheguei exausto depois de doze horas de plantão. | On iki saatlik nöbetten sonra bitkin geldim.
+doloroso | acı verici | sıfat | O tratamento foi longo e doloroso, mas deu certo. | Tedavi uzun ve acı vericiydi ama işe yaradı.
+sedentário | hareketsiz | sıfat | Quem trabalha sentado o dia todo tende a ser sedentário. | Bütün gün oturarak çalışanlar hareketsiz olmaya meyillidir.
+## İlk yardım
+os primeiros socorros | ilk yardım | isim (çoğul) | Todo professor deveria fazer um curso de primeiros socorros. | Her öğretmen bir ilk yardım kursu almalı.
+a pressão arterial | tansiyon | isim (d) | A enfermeira mediu a minha pressão arterial na entrada. | Hemşire girişte tansiyonumu ölçtü.
+o pulso | nabız; bilek | isim (e) | O socorrista verificou o pulso do homem caído. | İlk yardım görevlisi yere düşen adamın nabzını kontrol etti.
+engasgar | boğazına bir şey kaçmak | fiil | O bebê engasgou com um pedaço de banana. | Bebeğin boğazına bir parça muz kaçtı.
+a fratura | kırık | isim (d) | O raio-x mostrou uma fratura no braço esquerdo. | Röntgen sol kolda bir kırık gösterdi.
+torcer o pé | ayağını burkmak | ifade | Torci o pé descendo a escada da rodoviária. | Otogarın merdiveninden inerken ayağımı burktum.
+o gesso | alçı | isim (e) | Ela vai ficar com o braço no gesso por um mês. | Kolu bir ay alçıda kalacak.
+a muleta | koltuk değneği | isim (d) | Depois da fratura, ele andou de muletas por semanas. | Kırıktan sonra haftalarca koltuk değnekleriyle yürüdü.
+o socorrista | ilk yardım görevlisi | isim (e) | Os socorristas chegaram em dez minutos ao local do acidente. | İlk yardım ekipleri kaza yerine on dakikada ulaştı.
+a picada | sokma, ısırık (böcek) | isim (d) | A picada de abelha deixou o meu braço vermelho. | Arı sokması kolumu kızarttı.
+## Sağlık ifadeleri
+cair de cama | yatağa düşmek | deyim | Caí de cama com uma gripe forte na semana passada. | Geçen hafta şiddetli bir gripten yatağa düştüm.
+ficar de molho | evde dinlenmek, istirahat etmek | deyim | O médico mandou eu ficar de molho por três dias. | Doktor üç gün evde dinlenmemi söyledi.
+estar um caco | perişan olmak | deyim | Depois da mudança, eu estou um caco. | Taşınmadan sonra perişan hâldeyim.
+recuperar o fôlego | soluklanmak | ifade | Paramos no meio da subida para recuperar o fôlego. | Yokuşun ortasında soluklanmak için durduk.
+levantar o astral | moral vermek, keyfini yerine getirmek | deyim | Uma tarde na praia sempre levanta o meu astral. | Plajda bir öğleden sonra hep keyfimi yerine getirir.
+estar para baixo | morali bozuk olmak | ifade | Ela está para baixo desde que o cachorro morreu. | Köpeği öldüğünden beri morali bozuk.
+ter uma recaída | nüksetmek, hastalığı tekrarlamak | ifade | Ele saiu da cama cedo demais e teve uma recaída. | Yataktan çok erken kalktı ve hastalığı nüksetti.
+estar em forma | formda olmak | ifade | Meu avô tem setenta anos e está em ótima forma. | Dedem yetmiş yaşında ve çok formda.
+respirar fundo | derin nefes almak | ifade | Antes de responder, respire fundo e conte até dez. | Cevap vermeden önce derin bir nefes al ve ona kadar say.
+marcar uma consulta | randevu almak (doktor) | ifade | Liguei para a clínica para marcar uma consulta com a dermatologista. | Cildiyeciden randevu almak için kliniği aradım.
