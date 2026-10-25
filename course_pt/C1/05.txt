@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+o aprendizado de máquina | makine öğrenmesi | isim (e) | O aprendizado de máquina já ajuda médicos a detectar tumores. | Makine öğrenmesi şimdiden doktorlara tümör tespitinde yardım ediyor.
+a rede neural | sinir ağı | isim (d) | A rede neural foi treinada com milhões de imagens de satélite. | Sinir ağı milyonlarca uydu görüntüsüyle eğitildi.
+o modelo de linguagem | dil modeli | isim (e) | O modelo de linguagem responde perguntas em vários idiomas. | Dil modeli birçok dilde soruları yanıtlıyor.
+o ajuste fino | ince ayar (model eğitiminde) | isim (e) | O ajuste fino adaptou o modelo ao vocabulário jurídico brasileiro. | İnce ayar modeli Brezilya hukuk terminolojisine uyarladı.
+a automação | otomasyon | isim (d) | A automação mudou completamente o trabalho nos portos. | Otomasyon limanlardaki işi tamamen değiştirdi.
+o viés algorítmico | algoritmik yanlılık | isim (e) | Pesquisadores alertam para o viés algorítmico em sistemas de contratação. | Araştırmacılar işe alım sistemlerindeki algoritmik yanlılığa dikkat çekiyor.
+a alucinação | halüsinasyon (yapay zekâ) | isim (d) | A alucinação acontece quando o sistema inventa informações falsas. | Halüsinasyon, sistem yanlış bilgi uydurduğunda ortaya çıkar.
+o reconhecimento facial | yüz tanıma | isim (e) | O uso de reconhecimento facial em estádios gerou polêmica. | Stadyumlarda yüz tanıma kullanımı tartışma yarattı.
+a robótica | robotik | isim (d) | O curso de robótica atrai cada vez mais estudantes de engenharia. | Robotik dersi giderek daha fazla mühendislik öğrencisini çekiyor.
+a interface | arayüz | isim (d) | A nova interface permite conversar com o computador por voz. | Yeni arayüz bilgisayarla sesle konuşmayı sağlıyor.
+## Veri ve algoritmalar
+a mineração de dados | veri madenciliği | isim (d) | A mineração de dados revelou padrões de consumo inesperados. | Veri madenciliği beklenmedik tüketim kalıplarını ortaya çıkardı.
+o banco de dados | veritabanı | isim (e) | O banco de dados reúne informações de todos os hospitais do estado. | Veritabanı eyaletteki bütün hastanelerin bilgilerini topluyor.
+os metadados | üstveri | isim (çoğul) | Os metadados revelam quando e onde a foto foi tirada. | Üstveri fotoğrafın ne zaman ve nerede çekildiğini ortaya koyuyor.
+o processamento | işleme | isim (e) | O processamento das imagens leva poucos segundos no servidor. | Görüntülerin işlenmesi sunucuda birkaç saniye sürüyor.
+a computação em nuvem | bulut bilişim | isim (d) | A computação em nuvem reduziu os custos de infraestrutura da empresa. | Bulut bilişim şirketin altyapı maliyetlerini düşürdü.
+a capacidade de processamento | işlem gücü | isim (d) | A capacidade de processamento dos celulares cresceu enormemente. | Cep telefonlarının işlem gücü muazzam biçimde arttı.
+o código-fonte | kaynak kodu | isim (e) | O código-fonte do programa está disponível para qualquer pessoa. | Programın kaynak kodu herkesin kullanımına açık.
+a criptografia | şifreleme | isim (d) | A criptografia protege as mensagens contra leitura indevida. | Şifreleme mesajları yetkisiz okumaya karşı korur.
+a simulação | benzetim, simülasyon | isim (d) | A simulação mostrou como a ponte reagiria a ventos fortes. | Benzetim köprünün kuvvetli rüzgârlara nasıl tepki vereceğini gösterdi.
+a escalabilidade | ölçeklenebilirlik | isim (d) | A escalabilidade do sistema foi testada com milhões de usuários. | Sistemin ölçeklenebilirliği milyonlarca kullanıcıyla test edildi.
+## Siber güvenlik ve mahremiyet
+a proteção de dados | veri koruma | isim (d) | A lei de proteção de dados exige transparência das empresas. | Veri koruma yasası şirketlerden şeffaflık istiyor.
+o vazamento de dados | veri sızıntısı | isim (e) | O vazamento de dados expôs informações de milhões de clientes. | Veri sızıntısı milyonlarca müşterinin bilgilerini açığa çıkardı.
+o ataque hacker | siber saldırı | isim (e) | Um ataque hacker tirou do ar o site da prefeitura. | Bir siber saldırı belediyenin sitesini çökertti.
+o golpe virtual | internet dolandırıcılığı | isim (e) | Idosos são as principais vítimas de golpe virtual pelo celular. | Yaşlılar telefon üzerinden yapılan internet dolandırıcılığının başlıca kurbanları.
+a autenticação | kimlik doğrulama | isim (d) | A autenticação em dois fatores torna a conta mais segura. | İki aşamalı kimlik doğrulama hesabı daha güvenli kılar.
+a vulnerabilidade | güvenlik açığı; savunmasızlık | isim (d) | Os técnicos corrigiram a vulnerabilidade antes que fosse explorada. | Teknisyenler güvenlik açığını istismar edilmeden önce kapattı.
+o rastreamento | izleme, takip | isim (e) | Muitos aplicativos fazem rastreamento da localização sem avisar. | Birçok uygulama haber vermeden konum takibi yapıyor.
+a vigilância digital | dijital gözetim | isim (d) | O livro discute os riscos da vigilância digital nas cidades. | Kitap şehirlerdeki dijital gözetimin risklerini tartışıyor.
+o consentimento | rıza, onay | isim (e) | Nenhum dado pode ser coletado sem o consentimento do usuário. | Kullanıcının rızası olmadan hiçbir veri toplanamaz.
+o firewall | güvenlik duvarı | isim (e) | O firewall bloqueou milhares de tentativas de acesso suspeitas. | Güvenlik duvarı binlerce şüpheli erişim girişimini engelledi.
+## Dijital toplum
+a inclusão digital | dijital kapsayıcılık | isim (d) | O projeto de inclusão digital levou internet a aldeias indígenas. | Dijital kapsayıcılık projesi yerli köylerine internet götürdü.
+a exclusão digital | dijital dışlanma | isim (d) | A exclusão digital ficou evidente durante as aulas remotas. | Uzaktan eğitim sırasında dijital dışlanma açıkça görüldü.
+o deepfake | deepfake, sahte video | isim (e) | Um deepfake do apresentador circulou nas redes durante a campanha. | Kampanya sırasında sunucunun sahte bir videosu ağlarda dolaştı.
+a bolha informacional | bilgi balonu | isim (d) | A bolha informacional faz as pessoas verem só o que confirma suas ideias. | Bilgi balonu insanların yalnızca fikirlerini doğrulayanı görmesine yol açar.
+o letramento digital | dijital okuryazarlık | isim (e) | A escola incluiu letramento digital no currículo do ensino médio. | Okul lise müfredatına dijital okuryazarlığı ekledi.
+a economia de plataforma | platform ekonomisi | isim (d) | Motoristas de aplicativo fazem parte da economia de plataforma. | Uygulama sürücüleri platform ekonomisinin bir parçası.
+a conectividade | bağlantı (ağ) | isim (d) | A conectividade no interior da Amazônia ainda é precária. | Amazon'un iç kesimlerinde bağlantı hâlâ yetersiz.
+a curadoria algorítmica | algoritmik içerik seçimi | isim (d) | A curadoria algorítmica decide o que vemos no feed todos os dias. | Algoritmik içerik seçimi her gün akışta ne göreceğimize karar veriyor.
+a transformação digital | dijital dönüşüm | isim (d) | A transformação digital chegou também aos cartórios. | Dijital dönüşüm noterliklere de ulaştı.
+o trabalho remoto | uzaktan çalışma | isim (e) | O trabalho remoto permitiu que ela voltasse a morar no interior. | Uzaktan çalışma onun yeniden taşrada yaşamasını sağladı.
+## Biyoteknoloji
+a biotecnologia | biyoteknoloji | isim (d) | A biotecnologia brasileira desenvolveu sementes resistentes à seca. | Brezilya biyoteknolojisi kuraklığa dayanıklı tohumlar geliştirdi.
+o transgênico | GDO'lu ürün | isim (e) | A rotulagem de transgênicos é obrigatória nos supermercados. | GDO'lu ürünlerin etiketlenmesi süpermarketlerde zorunludur.
+a clonagem | klonlama | isim (d) | A clonagem de animais levanta questões éticas complexas. | Hayvanların klonlanması karmaşık etik sorular doğuruyor.
+a célula-tronco | kök hücre | isim (d) | Pesquisas com célula-tronco podem tratar lesões na medula. | Kök hücre araştırmaları omurilik hasarlarını tedavi edebilir.
+a fermentação | fermantasyon, mayalanma | isim (d) | A fermentação da mandioca produz bebidas tradicionais indígenas. | Maniyokun fermantasyonu geleneksel yerli içecekleri üretir.
+o biocombustível | biyoyakıt | isim (e) | O etanol de cana é o biocombustível mais usado no Brasil. | Şeker kamışı etanolü Brezilya'da en çok kullanılan biyoyakıttır.
+a bioprospecção | biyolojik kaynak araştırması | isim (d) | A bioprospecção na floresta busca novas moléculas para remédios. | Ormandaki biyolojik kaynak araştırmaları ilaçlar için yeni moleküller arıyor.
+o laboratório de ponta | ileri teknoloji laboratuvarı | isim (e) | A universidade inaugurou um laboratório de ponta em Campinas. | Üniversite Campinas'ta ileri teknoloji bir laboratuvar açtı.
+a vacina de RNA | RNA aşısı | isim (d) | A vacina de RNA foi desenvolvida em tempo recorde. | RNA aşısı rekor sürede geliştirildi.
+a biossegurança | biyogüvenlik | isim (d) | O laboratório segue normas rígidas de biossegurança. | Laboratuvar sıkı biyogüvenlik kurallarına uyuyor.
+## Genetik
+o genoma | genom | isim (e) | Cientistas sequenciaram o genoma de uma árvore da Mata Atlântica. | Bilim insanları Atlantik Ormanı'ndaki bir ağacın genomunu dizilediler.
+a sequência genética | genetik dizi | isim (d) | A sequência genética do vírus foi publicada em poucos dias. | Virüsün genetik dizisi birkaç gün içinde yayımlandı.
+a edição genética | gen düzenleme | isim (d) | A edição genética pode eliminar doenças hereditárias no futuro. | Gen düzenleme gelecekte kalıtsal hastalıkları ortadan kaldırabilir.
+a mutação | mutasyon | isim (d) | Uma pequena mutação tornou a bactéria resistente ao antibiótico. | Küçük bir mutasyon bakteriyi antibiyotiğe dirençli hâle getirdi.
+a hereditariedade | kalıtım | isim (d) | A hereditariedade explica por que alguns traços passam entre gerações. | Kalıtım bazı özelliklerin kuşaktan kuşağa neden geçtiğini açıklar.
+o cromossomo | kromozom | isim (e) | O ser humano tem vinte e três pares de cromossomos. | İnsanın yirmi üç çift kromozomu vardır.
+o gene | gen | isim (e) | Os pesquisadores identificaram o gene ligado à doença rara. | Araştırmacılar nadir hastalıkla bağlantılı geni belirledi.
+o teste de DNA | DNA testi | isim (e) | O teste de DNA confirmou a paternidade depois de anos. | DNA testi yıllar sonra babalığı doğruladı.
+a terapia gênica | gen tedavisi | isim (d) | A terapia gênica ofereceu esperança a crianças com doenças raras. | Gen tedavisi nadir hastalığı olan çocuklara umut verdi.
+a biodiversidade genética | genetik çeşitlilik | isim (d) | A biodiversidade genética da mandioca é enorme na Amazônia. | Amazon'da maniyokun genetik çeşitliliği muazzamdır.
+## Enerji kaynakları
+a matriz energética | enerji karması | isim (d) | A matriz energética brasileira depende muito das hidrelétricas. | Brezilya'nın enerji karması büyük ölçüde hidroelektrik santrallerine dayanıyor.
+a usina hidrelétrica | hidroelektrik santrali | isim (d) | A usina hidrelétrica alagou uma área enorme de floresta. | Hidroelektrik santrali çok büyük bir orman alanını sular altında bıraktı.
+a usina nuclear | nükleer santral | isim (d) | Angra dos Reis abriga a única usina nuclear do país. | Angra dos Reis ülkenin tek nükleer santraline ev sahipliği yapıyor.
+o combustível fóssil | fosil yakıt | isim (e) | A queima de combustível fóssil é a maior causa do aquecimento global. | Fosil yakıt yakılması küresel ısınmanın en büyük nedenidir.
+o pré-sal | tuz altı petrol rezervleri | isim (e) | A exploração do pré-sal exige tecnologia de águas profundas. | Tuz altı rezervlerinin işletilmesi derin su teknolojisi gerektirir.
+a rede elétrica | elektrik şebekesi | isim (d) | A rede elétrica não suportou a demanda durante a onda de calor. | Elektrik şebekesi sıcak hava dalgası sırasında talebi kaldıramadı.
+o apagão | genel elektrik kesintisi | isim (e) | O apagão deixou vários estados sem luz por horas. | Genel elektrik kesintisi birkaç eyaleti saatlerce elektriksiz bıraktı.
+a termelétrica | termik santral | isim (d) | Em anos de seca, as termelétricas são ligadas e a conta sobe. | Kurak yıllarda termik santraller devreye girer ve fatura artar.
+o gás natural | doğal gaz | isim (e) | O gás natural chega às indústrias por um longo gasoduto. | Doğal gaz sanayiye uzun bir boru hattıyla ulaşıyor.
+a eficiência energética | enerji verimliliği | isim (d) | O selo de eficiência energética ajuda o consumidor a escolher. | Enerji verimliliği etiketi tüketicinin seçim yapmasına yardımcı olur.
+## Enerji geçişi
+a transição energética | enerji dönüşümü | isim (d) | A transição energética exige investimentos em energia limpa. | Enerji dönüşümü temiz enerjiye yatırım gerektirir.
+a energia eólica | rüzgâr enerjisi | isim (d) | O Nordeste lidera a produção de energia eólica no Brasil. | Kuzeydoğu Brezilya'da rüzgâr enerjisi üretiminde başı çekiyor.
+o painel solar | güneş paneli | isim (e) | Instalamos painéis solares no telhado e a conta caiu muito. | Çatıya güneş panelleri kurduk ve fatura çok düştü.
+o hidrogênio verde | yeşil hidrojen | isim (e) | O porto do Ceará quer se tornar um polo de hidrogênio verde. | Ceará limanı bir yeşil hidrojen merkezi olmak istiyor.
+a descarbonização | karbonsuzlaştırma | isim (d) | A descarbonização da indústria pesada é o maior desafio. | Ağır sanayinin karbonsuzlaştırılması en büyük zorluktur.
+a pegada de carbono | karbon ayak izi | isim (d) | Viajar de avião aumenta muito a pegada de carbono. | Uçakla seyahat etmek karbon ayak izini çok artırır.
+o armazenamento de energia | enerji depolama | isim (e) | O armazenamento de energia em baterias ainda é caro. | Enerjinin bataryalarda depolanması hâlâ pahalı.
+o veículo elétrico | elektrikli araç | isim (e) | A venda de veículos elétricos dobrou no último ano. | Elektrikli araç satışları geçen yıl iki katına çıktı.
+a neutralidade de carbono | karbon nötrlüğü | isim (d) | A empresa promete atingir a neutralidade de carbono até 2040. | Şirket 2040'a kadar karbon nötrlüğüne ulaşmayı vaat ediyor.
+a geração distribuída | dağıtık üretim (enerji) | isim (d) | A geração distribuída permite que famílias vendam energia à rede. | Dağıtık üretim ailelerin şebekeye enerji satmasını sağlar.
+## Uzay ve fizik
+o satélite | uydu | isim (e) | O satélite brasileiro monitora o desmatamento em tempo real. | Brezilya uydusu ormansızlaşmayı gerçek zamanlı izliyor.
+a órbita | yörünge | isim (d) | A estação espacial completa uma órbita a cada noventa minutos. | Uzay istasyonu her doksan dakikada bir yörüngeyi tamamlar.
+o lançamento | fırlatma | isim (e) | O lançamento do foguete foi adiado por causa do mau tempo. | Roketin fırlatılması kötü hava yüzünden ertelendi.
+a física quântica | kuantum fiziği | isim (d) | A física quântica descreve o comportamento das partículas minúsculas. | Kuantum fiziği çok küçük parçacıkların davranışını tanımlar.
+a partícula | parçacık | isim (d) | O acelerador colide partículas a velocidades altíssimas. | Hızlandırıcı parçacıkları çok yüksek hızlarda çarpıştırır.
+a gravidade | yerçekimi | isim (d) | Na Lua, a gravidade é cerca de seis vezes menor. | Ay'da yerçekimi yaklaşık altı kat daha azdır.
+o supercondutor | süperiletken | isim (e) | Um supercondutor conduz eletricidade sem perder energia. | Süperiletken elektriği enerji kaybetmeden iletir.
+a nanotecnologia | nanoteknoloji | isim (d) | A nanotecnologia permite criar materiais mais leves e resistentes. | Nanoteknoloji daha hafif ve dayanıklı malzemeler yaratmayı sağlar.
+o semicondutor | yarı iletken | isim (e) | A falta de semicondutores atrasou a produção de carros. | Yarı iletken sıkıntısı otomobil üretimini geciktirdi.
+o radiotelescópio | radyo teleskobu | isim (e) | O radiotelescópio capta sinais de galáxias muito distantes. | Radyo teleskobu çok uzak galaksilerden gelen sinyalleri yakalar.
+## Bilim-teknoloji fiilleri
+desenvolver | geliştirmek | fiil | A equipe desenvolveu um sensor barato para medir a qualidade do ar. | Ekip hava kalitesini ölçmek için ucuz bir sensör geliştirdi.
+patentear | patent almak | fiil | A universidade patenteou um novo método para tratar água. | Üniversite suyu arıtmak için yeni bir yöntemin patentini aldı.
+digitalizar | dijitalleştirmek | fiil | O arquivo nacional está digitalizando documentos do século dezoito. | Ulusal arşiv on sekizinci yüzyıl belgelerini dijitalleştiriyor.
+automatizar | otomatikleştirmek | fiil | O banco automatizou quase todo o atendimento ao cliente. | Banka müşteri hizmetlerinin neredeyse tamamını otomatikleştirdi.
+calibrar | kalibre etmek, ayarlamak | fiil | É preciso calibrar os sensores antes de cada medição. | Her ölçümden önce sensörleri kalibre etmek gerekir.
+replicar | tekrarlamak (deneyi) | fiil | Outros laboratórios não conseguiram replicar o experimento. | Diğer laboratuvarlar deneyi tekrarlayamadı.
+sequenciar | dizilemek | fiil | Levou apenas uma semana para sequenciar o novo vírus. | Yeni virüsü dizilemek yalnızca bir hafta sürdü.
+monitorar | izlemek, takip etmek | fiil | Sensores monitoram o nível dos rios durante as chuvas. | Sensörler yağmurlar sırasında nehirlerin seviyesini izliyor.
+mitigar | hafifletmek, azaltmak | fiil | As novas regras pretendem mitigar os riscos da inteligência artificial. | Yeni kurallar yapay zekânın risklerini azaltmayı amaçlıyor.
+disruptivo | çığır açan, yıkıcı (yenilik) | sıfat | O aplicativo foi considerado disruptivo para o setor de transportes. | Uygulama ulaşım sektörü için çığır açıcı kabul edildi.
