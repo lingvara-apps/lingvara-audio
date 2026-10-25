@@ -1,111 +1,111 @@
 # UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
-## Aile üyeleri
-la madre (le madri) | anne | isim (d) | La madre cucina per la famiglia. | Anne aile için yemek pişiriyor.
-il padre (i padri) | baba | isim (e) | Il padre lavora in ufficio. | Baba ofiste çalışıyor.
-il figlio (i figli) | oğul | isim (e) | Il figlio gioca nel parco. | Oğul parkta oynuyor.
-la figlia (le figlie) | kız evlat | isim (d) | La figlia legge un bel libro. | Kız güzel bir kitap okuyor.
-il fratello (i fratelli) | erkek kardeş | isim (e) | Il fratello maggiore studia medicina. | Büyük erkek kardeş tıp okuyor.
-la sorella (le sorelle) | kız kardeş | isim (d) | La sorella minore suona il piano. | Küçük kız kardeş piyano çalıyor.
-il nonno (i nonni) | büyükbaba, dede | isim (e) | Il nonno racconta una vecchia storia. | Dede eski bir hikaye anlatıyor.
-la nonna (le nonne) | büyükanne, nine | isim (d) | La nonna prepara una torta dolce. | nine tatlı bir kek hazırlıyor.
-lo zio (gli zii) | amca, dayı | isim (e) | Lo zio arriva per le feste. | Amca tatiller için geliyor.
-la zia (le zie) | hala, teyze | isim (d) | La zia pianta i fiori in giardino. | Teyze bahçeye çiçek dikiyor.
-## Akrabalar ve yakınlar
-il cugino (i cugini) | kuzen (erkek) | isim (e) | Il cugino abita a Firenze. | Kuzen Floransa'da yaşıyor.
-la cugina (le cugine) | kuzen (kadın) | isim (d) | La cugina studia all'università. | Kuzen üniversitede okuyor.
-il nipote (i nipoti) | yeğen, torun | isim (e) | Il nipote aiuta il nonno. | Torun dedeye yardım ediyor.
-la nipote (le nipoti) | kız yeğen, kız torun | isim (d) | La nipote gioca con la bambola. | Kız torun bebekle oynuyor.
-il marito (i mariti) | koca, eş | isim (e) | Il marito porta i fiori alla moglie. | Koca eşine çiçek getiriyor.
-la moglie (le mogli) | eş, karısı | isim (d) | La moglie lavora come dottoressa. | Eş doktor olarak çalışıyor.
-il genitore (i genitori) | ebeveyn | isim (e) | I genitori amano molto i figli. | Ebeveynler çocukları çok sever.
-il parente (i parenti) | akraba | isim (e) | Molti parenti partecipano alla festa. | Birçok akraba partiye katılıyor.
-la famiglia (le famiglie) | aile | isim (d) | La famiglia cena insieme ogni sera. | Aile her akşam birlikte yemek yiyor.
-il matrimonio (i matrimoni) | evlilik, düğün | isim (e) | Il matrimonio è sabato prossimo. | Düğün önümüzdeki cumartesi.
-## Meslekler
-il medico (i medici) | doktor | isim (e) | Il medico cura i pazienti malati. | Doktor hasta hastaları tedavi ediyor.
-l'infermiere (m) (gli infermieri) | hemşire | isim (e) | L'infermiere aiuta il dottore in ospedale. | Hemşire hastanede doktora yardım ediyor.
-l'insegnante (gli insegnanti) | öğretmen | isim (e) | L'insegnante spiega la lezione agli studenti. | Öğretmen dersi öğrencilere anlatıyor.
-lo studente (gli studenti) | öğrenci | isim (e) | Lo studente impara la nuova lingua. | Öğrenci yeni dili öğreniyor.
-l'avvocato (gli avvocati) | avukat | isim (e) | L'avvocato parla con il cliente. | Avukat müvekkil ile konuşuyor.
-l'ingegnere (gli ingegneri) | mühendis | isim (e) | L'ingegnere progetta un nuovo ponte. | Mühendis yeni bir köprü tasarlıyor.
-il cuoco (i cuochi) | aşçı | isim (e) | Il cuoco prepara una cena deliziosa. | Aşçı lezzetli bir akşam yemeği hazırlıyor.
-il cameriere (i camerieri) | garson | isim (e) | Il cameriere porta il menu al tavolo. | Garson masaya menüyü getiriyor.
-il negoziante (i negozianti) | dükkancı, esnaf | isim (e) | Il negoziante apre la porta del negozio. | Esnaf dükkanın kapısını açıyor.
-il pittore (i pittori) | ressam | isim (e) | Il pittore dipinge un bellissimo paesaggio. | Ressam çok güzel bir manzara resmediyor.
-## İş ve çalışma
-il lavoro (i lavori) | iş, çalışma | isim (e) | Il lavoro comincia presto la mattina. | İş sabah erkenden başlar.
-l'ufficio (gli uffici) | ofis, büro | isim (e) | L'ufficio si trova al secondo piano. | Ofis ikinci katta yer alıyor.
-il capo (i capi) | patron, şef | isim (e) | Il capo firma i documenti importanti. | Patron önemli belgeleri imzalıyor.
-il collega (i colleghi) | iş arkadaşı | isim (e) | Il collega offre un caffè al bar. | İş arkadaşı barda kahve ısmarlıyor.
-la riunione (le riunioni) | toplantı | isim (d) | La riunione dura circa un'ora. | Toplantı yaklaşık bir saat sürüyor.
-lo stipendio (gli stipendi) | maaş | isim (e) | Lo stipendio arriva alla fine del mese. | Maaş ay sonunda geliyor.
-la pausa (le pause) | mola, ara | isim (d) | La pausa pranzo dura un'ora. | Öğle molası bir saat sürüyor.
-il progetto (i projeler) | proje | isim (e) | Il progetto richiede molto tempo. | Proje çok zaman gerektiriyor.
-il contratto (i contratti) | sözleşme | isim (e) | Il contratto di lavoro è firmato. | İş sözleşmesi imzalandı.
-la ditta (le ditte) | şirket, firma | isim (d) | La ditta esporta prodotti in tutto il mondo. | Şirket tüm dünyaya ürün ihraç ediyor.
-## Karakter özellikleri
-gentile | nazik, kibar | sıfat | La signora è molto gentile con tutti. | Hanımefendi herkese karşı çok nazik.
-intelligente | zeki, akıllı | sıfat | Il ragazzo intelligente risolve il problema. | Zeki çocuk problemi çözüyor.
-simpatico | sempatik, sevimli | sıfat | La nuova amica è molto simpatica. | Yeni kız arkadaş çok sempatik.
-tranquillo | sakin | sıfat | Il parco è un luogo tranquillo e verde. | Park sakin ve yeşil bir yerdir.
-allegro | neşeli, şen | sıfat | I bambini allegri cantano allegramente. | Neşeli çocuklar neşeyle şarkı söylüyor.
-serio | ciddi | sıfat | Il professore ha un'aria seria oggi. | Profesörün bugün ciddi bir havası var.
-onesto | dürüst | sıfat | L'uomo onesto restituisce il portafoglio. | Dürüst adam cüzdanı iade ediyor.
-generoso | cömert | sıfat | Il signor Rossi è generoso con i poveri. | Bay Rossi yoksullara karşı cömerttir.
-timido | utangaç | sıfat | Il bambino timido parla a voce bassa. | Utangaç çocuk alçak sesle konuşuyor.
-robusto | gürbüz, sağlam | sıfat | L'atleta robusto solleva il peso pesante. | Güçlü atlet ağır ağırlığı kaldırıyor.
+## Aile bireyleri
+la famiglia | aile | isim (d) | La mia famiglia è grande. | Ailem kalabalık.
+la madre | anne | isim (d) | Mia madre è insegnante. | Annem öğretmen.
+il padre | baba | isim (e) | Mio padre lavora in banca. | Babam bankada çalışıyor.
+il genitore | ebeveyn; anne ya da baba | isim (e) | I miei genitori abitano a Bari. | Annemle babam Bari'de oturuyor.
+il figlio | oğul; çocuk (evlat) | isim (e) | Hanno due figli. | İki çocukları var.
+la figlia | kız evlat | isim (d) | Mia figlia studia a Bologna. | Kızım Bologna'da okuyor.
+il fratello | erkek kardeş; ağabey | isim (e) | Ho un fratello più grande. | Bir ağabeyim var.
+la sorella | kız kardeş; abla | isim (d) | Mia sorella si chiama Marta. | Kız kardeşimin adı Marta.
+il marito | koca, eş | isim (e) | Suo marito è di Palermo. | Kocası Palermolu.
+la moglie (le mogli) | karı, eş | isim (d) | Mia moglie è medico. | Eşim doktor.
+## Geniş aile ve akrabalar
+il nonno | dede, büyükbaba | isim (e) | Il nonno racconta storie. | Dedem hikâyeler anlatıyor.
+la nonna | nine, babaanne, anneanne | isim (d) | La nonna fa la pasta in casa. | Ninem makarnayı evde yapıyor.
+lo zio | amca; dayı; enişte | isim (e) | Mio zio abita a Genova. | Amcam Cenova'da oturuyor.
+la zia | hala; teyze; yenge | isim (d) | La zia arriva domenica. | Teyzem pazar günü geliyor.
+il cugino | kuzen (erkek) | isim (e) | Mio cugino ha dieci anni. | Kuzenim on yaşında.
+la cugina | kuzen (kız) | isim (d) | Mia cugina vive in Francia. | Kuzenim Fransa'da yaşıyor.
+il nipote | torun; yeğen | isim (e) | Il nonno gioca con il nipote. | Dede torunuyla oynuyor.
+la mamma | anne (samimi) | isim (d) | Mamma, ho fame! | Anne, acıktım!
+il papà | baba (samimi) | isim (e) | Il mio papà è simpatico. | Babam çok sevimli.
+il parente | akraba | isim (e) | A Natale vediamo i parenti. | Noel'de akrabalarımızı görürüz.
+## Meslekler 1
+il medico (i medici) | doktor, hekim | isim (e) | Il medico lavora in ospedale. | Doktor hastanede çalışıyor.
+l'infermiere (e) | hemşire, hasta bakıcı (erkek) | isim (e) | L'infermiere è molto gentile. | Hemşire çok nazik.
+l'insegnante (e) | öğretmen | isim (e) | L'insegnante spiega la lezione. | Öğretmen dersi anlatıyor.
+lo studente | öğrenci (erkek) | isim (e) | Lo studente fa una domanda. | Öğrenci bir soru soruyor.
+l'avvocato (e) | avukat | isim (e) | Mio fratello fa l'avvocato. | Ağabeyim avukatlık yapıyor.
+l'ingegnere (e) | mühendis | isim (e) | Emre è ingegnere a Milano. | Emre Milano'da mühendis.
+il cuoco (i cuochi) | aşçı | isim (e) | Il cuoco prepara la cena. | Aşçı akşam yemeğini hazırlıyor.
+il barista | barmen; kafede kahve yapan kişi | isim (e) | Il barista fa un ottimo caffè. | Barmen çok güzel kahve yapıyor.
+il commesso | tezgâhtar, satış elemanı | isim (e) | Il commesso è molto gentile. | Tezgâhtar çok nazik.
+il poliziotto | polis memuru | isim (e) | Il poliziotto aiuta un turista. | Polis bir turiste yardım ediyor.
+## Meslekler 2
+l'architetto (e) | mimar | isim (e) | L'architetto disegna una casa. | Mimar bir ev çiziyor.
+il giornalista | gazeteci | isim (e) | Il giornalista scrive un articolo. | Gazeteci bir makale yazıyor.
+l'autista (e) | şoför | isim (e) | L'autista dell'autobus è giovane. | Otobüs şoförü genç.
+il contadino | çiftçi, köylü | isim (e) | Il contadino lavora in campagna. | Çiftçi kırsalda çalışıyor.
+il meccanico | tamirci, araba ustası | isim (e) | Il meccanico ripara la macchina. | Tamirci arabayı tamir ediyor.
+il farmacista | eczacı | isim (e) | Chiedi al farmacista. | Eczacıya sor.
+l'impiegato (e) | memur, büro çalışanı | isim (e) | Diego è impiegato in banca. | Diego bankada memur.
+il parrucchiere | kuaför, berber | isim (e) | Vado dal parrucchiere sabato. | Cumartesi kuaföre gidiyorum.
+il pittore | ressam; boyacı | isim (e) | Il pittore dipinge il mare. | Ressam denizi resmediyor.
+il lavoro | iş; meslek | isim (e) | Che lavoro fai? | Ne iş yapıyorsun?
+## Kişilik ve karakter 1
+simpatico (simpatici) | sempatik, sevimli | sıfat | Matteo è molto simpatico. | Matteo çok sevimli.
+gentile | kibar, nazik | sıfat | Grazie, sei gentile. | Teşekkürler, naziksin.
+allegro | neşeli | sıfat | Francesca è sempre allegra. | Francesca hep neşelidir.
+timido | utangaç, çekingen | sıfat | Mio figlio è un po' timido. | Oğlum biraz utangaç.
+intelligente | zeki, akıllı | sıfat | È una ragazza intelligente. | Zeki bir kız.
+bravo | becerikli, iyi; aferin | sıfat | Sei bravo in matematica. | Matematikte iyisin.
+pigro | tembel | sıfat | Il mio gatto è pigro. | Kedim tembel.
+sincero | samimi, dürüst, içten | sıfat | Voglio un amico sincero. | Samimi bir arkadaş istiyorum.
+divertente | eğlenceli, komik | sıfat | Il film è divertente. | Film eğlenceli.
+serio | ciddi | sıfat | Il professore è serio. | Hoca ciddi biri.
+## Kişilik ve karakter 2
+antipatico (antipatici) | antipatik, sevimsiz | sıfat | Quel cameriere è antipatico. | O garson sevimsiz.
+calmo | sakin | sıfat | Il nonno è sempre calmo. | Dedem hep sakindir.
+nervoso | gergin, sinirli | sıfat | Prima dell'esame sono nervoso. | Sınavdan önce gerginim.
+generoso | cömert | sıfat | La zia è molto generosa. | Teyzem çok cömert.
+curioso | meraklı | sıfat | I bambini sono curiosi. | Çocuklar meraklıdır.
+onesto | dürüst | sıfat | Ali è un uomo onesto. | Ali dürüst bir adam.
+paziente | sabırlı | sıfat | Devi essere paziente. | Sabırlı olmalısın.
+sportivo | sporcu, sporu seven | sıfat | Luca è molto sportivo. | Luca çok sporcu biri.
+maleducato | kaba, terbiyesiz | sıfat | Non essere maleducato! | Kaba olma!
+coraggioso | cesur | sıfat | Il piccolo drago è coraggioso. | Küçük ejderha cesur.
 ## Fiziksel özellikler
-alto | uzun boylu | sıfat | Il giocatore di basket è molto alto. | Basketbol oyuncusu çok uzun boyludur.
-basso | kısa boylu, alçak | sıfat | La porta della vecchia casa è bassa. | Eski evin kapısı alçaktır.
-giovane | genç | sıfat | Una giovane donna legge il giornale. | Genç bir kadın gazete okuyor.
-magro | zayıf | sıfat | Il gatto magro cerca qualcosa da mangiare. | Zayıf kedi yiyecek bir şey arıyor.
-grasso | şişman, yağlı | sıfat | Il cibo grasso non fa bene alla salute. | Yağlı yemek sağlığa iyi gelmez.
-piacevole | hoş, sevimli | sıfat | Roma è una città molto piacevole. | Roma çok güzel bir şehirdir.
-brutto | çirkin, kötü | sıfat | Il tempo brutto rovina la gita. | Kötü hava gezeyi mahvediyor.
-forte | güçlü, kuvvetli | sıfat | Il vento forte muove i rami degli alberi. | Güçlü rüzgar ağaçların dallarını hareket ettiriyor.
-lento | yavaş | sıfat | La tartaruga è un animale molto lento. | Kaplumbağa çok yavaş bir hayvandır.
-veloce | hızlı | sıfat | Il treno veloce arriva in orario. | Hızlı tren zamanında varıyor.
+alto | uzun boylu; yüksek | sıfat | Mio fratello è alto. | Ağabeyim uzun boylu.
+basso | kısa boylu; alçak | sıfat | La nonna è bassa. | Ninem kısa boylu.
+magro | zayıf | sıfat | Il cane è magro. | Köpek zayıf.
+grasso | şişman; yağlı | sıfat | Il gatto è un po' grasso. | Kedi biraz şişman.
+biondo | sarışın | sıfat | Camille ha i capelli biondi. | Camille'in saçları sarı.
+castano | kestane rengi (saç, göz) | sıfat | Ho gli occhi castani. | Gözlerim kahverengi.
+carino | şirin, hoş, tatlı | sıfat | Che bambino carino! | Ne tatlı bir çocuk!
+brutto | çirkin; kötü | sıfat | Oggi il tempo è brutto. | Bugün hava kötü.
+forte | güçlü, kuvvetli | sıfat | Diego è molto forte. | Diego çok güçlü.
+i capelli | saç | isim (e) | Ha i capelli lunghi. | Saçları uzun.
+## Duygular ve durumlar
+contento | memnun, hoşnut | sıfat | Sono contento di vederti. | Seni gördüğüme sevindim.
+felice | mutlu | sıfat | Oggi sono molto felice. | Bugün çok mutluyum.
+triste | üzgün, hüzünlü | sıfat | Perché sei triste? | Neden üzgünsün?
+stanco (stanchi) | yorgun | sıfat | La sera sono stanco. | Akşamları yorgunum.
+arrabbiato | kızgın, öfkeli | sıfat | Papà è arrabbiato con me. | Babam bana kızgın.
+preoccupato | endişeli | sıfat | La mamma è preoccupata. | Annem endişeli.
+annoiato | canı sıkılmış | sıfat | Sono annoiato, usciamo? | Canım sıkıldı, çıkalım mı?
+innamorato | âşık | sıfat | Marco è innamorato di Sara. | Marco, Sara'ya âşık.
+sorpreso | şaşırmış | sıfat | Sono sorpreso dalla notizia. | Habere şaşırdım.
+emozionato | heyecanlı | sıfat | Siamo emozionati per il viaggio. | Yolculuk için heyecanlıyız.
 ## Yaş ve hayat evreleri
-la vita (le vite) | hayat, yaşam | isim (d) | La vita di campagna è molto tranquilla. | Köy hayatı çok sakindir.
-la nascita (le nascite) | doğum | isim (d) | La nascita del bambino porta grande gioia. | Bebeğin doğumu büyük sevinç getiriyor.
-l'infanzia (f) | çocukluk | isim (d) | Ricordo con affetto la mia infanzia. | Çocukluğumu sevgiyle hatırlıyorum.
-la giovinezza | gençlik | isim (d) | La giovinezza è il momento dei sogni. | Gençlik hayallerin zamanıdır.
-la vecchiaia | yaşlılık | isim (d) | La vecchiaia porta saggezza ed esperienza. | Yaşlılık bilgelik ve deneyim getirir.
-la morte (le morti) | ölüm | isim (d) | La morte è una parte inevitabile della vita. | Ölüm hayatın kaçınılmaz bir parçasıdır.
-la persona (le persone) | kişi, insan | isim (d) | Molte persone camminano lungo la strada. | Birçok insan cadde boyunca yürür.
-la gente | halk, insanlar | isim (d) | La gente applaude alla fine dello spettacolo. | İnsanlar gösterinin sonunda alkışlıyor.
-l'uomo (gli uomini) | adam, erkek | isim (e) | L'uomo legge il giornale sulla panchina. | Adam bankta gazete okuyor.
-la donna (le donne) | kadın | isim (d) | La donna compra la verdura fresca al mercato. | Kadın pazardan taze sebze satın alıyor.
-## İletişim ve ilişkiler
-l'amicizia (le amicizie) | dostluk, arkadaşlık | isim (d) | L'amicizia vera dura per tutta la vita. | Gerçek dostluk bütün hayat boyu sürer.
-l'amore (gli amori) | aşk, sevgi | isim (e) | L'amore rende il mondo migliore. | Aşk dünyayı daha güzel kılıyor.
-la simpatia | sempati, hoşlanma | isim (d) | Tra di loro c'è una grande simpatia. | Aralarında büyük bir sempati var.
-il rispetto | saygı | isim (e) | Il rispetto reciproco è molto importante. | Karşılıklı saygı çok önemlidir.
-l'aiuto (gli aiuti) | yardım | isim (e) | Chiedo un piccolo aiuto al mio amico. | Arkadaşımdan küçük bir yardım istiyorum.
-il favore (i favori) | iyilik, lütuf | isim (e) | Posso chiederti un favore personale? | Sana kişisel bir iyilik isteyebilir miyim?
-la promessa (le promesse) | söz, vaat | isim (d) | Una promessa deve essere sempre mantenuta. | Bir söz her zaman tutulmalıdır.
-il segreto (i segreti) | sır | isim (e) | Non posso raccontare questo segreto a nessuno. | Bu sırrı kimseye anlatamam.
-la discussione (le discussioni) | tartışma | isim (d) | La discussione finisce in modo pacifico. | Tartışma barışçıl bir şekilde bitiyor.
-la pace | barış | isim (d) | Tutti i popoli del mondo vogliono la pace. | Dünyadaki tüm halklar barış istiyor.
-## Sosyal yaşam
-la festa (le feste) | parti, bayram | isim (d) | La festa di compleanno è molto divertente. | Doğum günü partisi çok eğlencelidir.
-l'invito (gli inviti) | davet | isim (e) | Accetto con piacere il vostro invito. | Davetinizi memnuniyetle kabul ediyorum.
-l'ospite (gli ospiti) | konuk, misafir | isim (e) | Gli ospiti arrivano puntuali alla cena. | Misafirler yemeğe zamanında geliyor.
-il regalo (i regali) | hediye | isim (e) | Il regalo piace molto al festeggiato. | Hediye kutlanan kişinin çok hoşuna gidiyor.
-la musica (le musiche) | müzik | isim (d) | La musica classica rilassa la mente. | Klasik müzik zihni dinlendirir.
-il ballo (i balli) | dans | isim (e) | Il ballo tradizionale è molto colorato. | Geleneksel dans çok renklidir.
-la canzone (le canzoni) | şarkı | isim (d) | Questa canzone italiana è molto popolare. | Bu İtalyan şarkısı çok popülerdir.
-il sorriso (i sorrisi) | gülümseme | isim (e) | Un bel sorriso apre tutte le porte. | Güzel bir gülümseme tüm kapıları açar.
-la risata (le risate) | kahkaha | isim (d) | Si sente una grande risata nella stanza. | Odada büyük bir kahkaha duyuluyor.
-il tempo libero | boş zaman | isim (e) | Nel tempo libero leggo libri storici. | Boş zamanımda tarihi kitaplar okuyorum.
-## Duygular ve ruh hali
-la gioia (le gioie) | neşe, sevinç | isim (d) | La nascita porta una grande gioia in casa. | Doğum eve büyük bir neşe getiriyor.
-la tristezza | üzüntü | isim (d) | La musica triste esprime la sua tristezza. | Üzgün müzik onun üzüntüsünü ifade ediyor.
-la rabbia | öfke, kızgınlık | isim (d) | La rabbia non risolve mai nessun problema. | Öfke asla hiçbir sorunu çözmez.
-la paura (le paure) | korku | isim (d) | Il bambino ha paura del buio della notte. | Çocuğun gecenin karanlığından korkusu var.
-la sorpresa (le sorprese) | sürpriz | isim (d) | La festa a sorpresa piace molto a tutti. | Sürpriz parti herkesin çok hoşuna gidiyor.
-la speranza (le speranze) | umut | isim (d) | La speranza è l'ultima a morire sempre. | Umut hep en son ölür.
-la fortuna (le fortune) | şans, talih | isim (d) | Ho tanta fortuna di avere amici sinceri. | Samimi arkadaşlara sahip olduğum için çok şanslıyım.
-la noia | can sıkıntısı | isim (d) | Leggere un libro interessante elimina la noia. | İlginç bir kitap okumak can sıkıntısını giderir.
-la stanchezza | yorgunluk | isim (d) | La stanchezza si sente dopo una lunga corsa. | Uzun bir koşunun sonra yorgunluk hissedilir.
-l'entusiasmo (gli entusiasmi) | coşku, heves | isim (e) | L'entusiasmo dei giovani contagia tutti noi. | Gençlerin coşkusu hepimize bulaşıyor.
+il bambino | çocuk (erkek); bebek | isim (e) | Il bambino gioca in giardino. | Çocuk bahçede oynuyor.
+la bambina | kız çocuk | isim (d) | La bambina ha cinque anni. | Kız çocuğu beş yaşında.
+il ragazzo | genç, delikanlı; erkek arkadaş | isim (e) | Quel ragazzo è mio cugino. | O genç benim kuzenim.
+la ragazza | kız, genç kız; kız arkadaş | isim (d) | La ragazza legge un libro. | Genç kız kitap okuyor.
+l'uomo (e) (gli uomini) | adam, erkek; insan | isim (e) | Quell'uomo è il mio vicino. | O adam benim komşum.
+la donna | kadın | isim (d) | La donna parla al telefono. | Kadın telefonla konuşuyor.
+giovane | genç | sıfat | Mia madre è ancora giovane. | Annem hâlâ genç.
+anziano | yaşlı | sıfat | Aiuto un signore anziano. | Yaşlı bir beye yardım ediyorum.
+la gente | insanlar, halk | isim (d) | In piazza c'è molta gente. | Meydanda çok insan var.
+nascere (nato) | doğmak | fiil · düzensiz | Sono nato a Izmir. | İzmir'de doğdum.
+## Aile ilişkileri
+il fidanzato | erkek arkadaş, sevgili; nişanlı | isim (e) | Il suo fidanzato è spagnolo. | Sevgilisi İspanyol.
+la fidanzata | kız arkadaş, sevgili; nişanlı | isim (d) | Vado al cinema con la mia fidanzata. | Kız arkadaşımla sinemaya gidiyorum.
+la coppia | çift | isim (d) | Sono una bella coppia. | Çok güzel bir çift oluyorlar.
+il matrimonio | düğün; evlilik | isim (e) | Il matrimonio è a giugno. | Düğün haziranda.
+sposarsi | evlenmek | fiil · dönüşlü | Ci sposiamo l'anno prossimo. | Seneye evleniyoruz.
+volere bene | sevmek (aile, arkadaş sevgisi) | ifade | Ti voglio bene, nonna. | Seni seviyorum nine.
+l'amore (e) | aşk, sevgi | isim (e) | L'amore è importante. | Sevgi önemlidir.
+single | bekâr | sıfat | Mio cugino è single. | Kuzenim bekâr.
+divorziato | boşanmış | sıfat | I miei zii sono divorziati. | Amcamla yengem boşanmış.
+crescere | büyümek; yetiştirmek | fiil | I bambini crescono in fretta. | Çocuklar çabuk büyüyor.
