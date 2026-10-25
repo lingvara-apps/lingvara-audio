@@ -1,0 +1,111 @@
+# UNIT: Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+## Yapay zekâ
+l'apprendimento automatico (e) | makine öğrenmesi | isim (e) | L'apprendimento automatico permette ai sistemi di migliorare analizzando enormi quantità di dati. | Makine öğrenmesi sistemlerin devasa veri miktarlarını analiz ederek gelişmesini sağlar.
+la rete neurale | sinir ağı | isim (d) | La rete neurale è stata addestrata con milioni di immagini mediche. | Sinir ağı milyonlarca tıbbi görüntüyle eğitildi.
+addestrare | eğitmek (model, hayvan) | fiil | Per addestrare il modello servono dati di qualità e molta potenza di calcolo. | Modeli eğitmek için kaliteli veri ve büyük işlem gücü gerekir.
+il modello linguistico | dil modeli | isim (e) | Il modello linguistico genera testi coerenti ma talvolta inventa i fatti. | Dil modeli tutarlı metinler üretiyor ama bazen olguları uyduruyor.
+l'automazione (d) | otomasyon | isim (d) | L'automazione delle fabbriche ha trasformato profondamente il lavoro operaio. | Fabrikaların otomasyonu işçi emeğini derinden dönüştürdü.
+la potenza di calcolo | işlem gücü | isim (d) | La potenza di calcolo dei computer raddoppiava ogni due anni circa. | Bilgisayarların işlem gücü yaklaşık her iki yılda bir ikiye katlanıyordu.
+l'allucinazione (d) | halüsinasyon (yapay zekâ) | isim (d) | Gli esperti chiamano allucinazione la risposta inventata da un sistema di intelligenza artificiale. | Uzmanlar bir yapay zekâ sisteminin uydurduğu yanıta halüsinasyon diyor.
+il riconoscimento facciale | yüz tanıma | isim (e) | L'uso del riconoscimento facciale negli spazi pubblici solleva dubbi sulla privacy. | Kamusal alanlarda yüz tanıma kullanımı mahremiyet konusunda kuşkular doğuruyor.
+la guida autonoma | otonom sürüş | isim (d) | I veicoli a guida autonoma vengono sperimentati su alcune strade di Torino. | Otonom sürüşlü araçlar Torino'daki bazı yollarda deneniyor.
+l'interfaccia (d) | arayüz | isim (d) | L'interfaccia del programma è stata ridisegnata per essere più intuitiva. | Programın arayüzü daha sezgisel olması için yeniden tasarlandı.
+## Veri ve algoritmalar
+l'algoritmo (e) | algoritma | isim (e) | L'algoritmo decide quali notizie mostrare a ciascun utente della piattaforma. | Algoritma platformun her kullanıcısına hangi haberlerin gösterileceğine karar veriyor.
+i big data | büyük veri | isim (çoğul) | Le aziende sanitarie usano i big data per prevedere la diffusione delle epidemie. | Sağlık kuruluşları salgınların yayılmasını öngörmek için büyük veriyi kullanıyor.
+la banca dati | veri tabanı | isim (d) | La banca dati nazionale raccoglie le informazioni su tutti i beni culturali. | Ulusal veri tabanı tüm kültür varlıklarına dair bilgileri topluyor.
+l'elaborazione (d) | işleme | isim (d) | L'elaborazione dei dati personali richiede il consenso esplicito dell'interessato. | Kişisel verilerin işlenmesi ilgilinin açık rızasını gerektirir.
+il pregiudizio algoritmico | algoritmik önyargı | isim (e) | Un pregiudizio algoritmico può penalizzare alcuni candidati nelle selezioni di lavoro. | Algoritmik bir önyargı iş seçimlerinde bazı adayları dezavantajlı duruma düşürebilir.
+la tracciabilità | izlenebilirlik | isim (d) | La blockchain garantisce la tracciabilità di ogni passaggio della filiera. | Blokzincir tedarik zincirindeki her aşamanın izlenebilirliğini güvence altına alıyor.
+il cloud | bulut (bilişim) | isim (e) | Tutti i documenti dell'ufficio sono archiviati nel cloud e accessibili ovunque. | Ofisin bütün belgeleri bulutta saklanıyor ve her yerden erişilebiliyor.
+l'open source (e) | açık kaynak | isim (e) | Molte università preferiscono l'open source per ridurre i costi delle licenze. | Pek çok üniversite lisans maliyetlerini düşürmek için açık kaynağı tercih ediyor.
+la crittografia | şifreleme bilimi, kriptografi | isim (d) | La crittografia protegge le comunicazioni bancarie da accessi non autorizzati. | Kriptografi bankacılık iletişimini yetkisiz erişimlere karşı korur.
+l'anonimizzazione (d) | anonimleştirme | isim (d) | Prima della pubblicazione è necessaria l'anonimizzazione completa dei dati clinici. | Yayından önce klinik verilerin tamamen anonimleştirilmesi gerekir.
+## Biyoteknoloji
+la biotecnologia | biyoteknoloji | isim (d) | La biotecnologia offre nuove soluzioni per l'agricoltura e la medicina. | Biyoteknoloji tarım ve tıp için yeni çözümler sunuyor.
+l'organismo geneticamente modificato (e) | genetiği değiştirilmiş organizma | isim (e) | In Italia la coltivazione di organismi geneticamente modificati è vietata. | İtalya'da genetiği değiştirilmiş organizmaların yetiştirilmesi yasak.
+la cellula staminale | kök hücre | isim (d) | La ricerca sulle cellule staminali potrebbe rigenerare tessuti danneggiati. | Kök hücre araştırmaları hasarlı dokuları yenileyebilir.
+la clonazione | klonlama | isim (d) | La clonazione di una pecora negli anni Novanta suscitò un enorme dibattito etico. | Doksanlarda bir koyunun klonlanması büyük bir etik tartışma yarattı.
+il vaccino a mRNA | mRNA aşısı | isim (e) | Il vaccino a mRNA è stato sviluppato in tempi straordinariamente brevi. | mRNA aşısı olağanüstü kısa bir sürede geliştirildi.
+la bioetica | biyoetik | isim (d) | Il comitato di bioetica ha espresso un parere sulla sperimentazione umana. | Biyoetik kurulu insan üzerinde deneyle ilgili bir görüş bildirdi.
+la sperimentazione clinica | klinik deney | isim (d) | La sperimentazione clinica del nuovo farmaco coinvolge tremila pazienti. | Yeni ilacın klinik deneyine üç bin hasta katılıyor.
+il brevetto | patent | isim (e) | L'università ha depositato un brevetto per un nuovo materiale biodegradabile. | Üniversite biyolojik olarak çözünebilen yeni bir malzeme için patent başvurusu yaptı.
+il biocarburante | biyoyakıt | isim (e) | Il biocarburante prodotto dagli scarti agricoli riduce le emissioni dei camion. | Tarım atıklarından üretilen biyoyakıt kamyonların emisyonlarını azaltıyor.
+la nanotecnologia | nanoteknoloji | isim (d) | La nanotecnologia permette di costruire materiali più leggeri e resistenti. | Nanoteknoloji daha hafif ve dayanıklı malzemeler üretmeyi sağlıyor.
+## Genetik
+il genoma | genom | isim (e) | Il sequenziamento del genoma umano fu completato all'inizio del secolo. | İnsan genomunun dizilenmesi yüzyılın başında tamamlandı.
+il sequenziamento | dizileme | isim (e) | Il sequenziamento del virus ha permesso di individuare le varianti più pericolose. | Virüsün dizilenmesi en tehlikeli varyantların belirlenmesini sağladı.
+la mutazione | mutasyon | isim (d) | Una sola mutazione genetica può causare una malattia ereditaria rara. | Tek bir genetik mutasyon nadir bir kalıtsal hastalığa yol açabilir.
+ereditario | kalıtsal | sıfat | Alcune forme di sordità hanno un'origine ereditaria ben documentata. | Bazı sağırlık türlerinin iyi belgelenmiş kalıtsal bir kökeni var.
+il cromosoma | kromozom | isim (e) | Ogni cellula umana contiene ventitré coppie di cromosomi. | Her insan hücresi yirmi üç çift kromozom içerir.
+l'editing genetico (e) | gen düzenleme | isim (e) | L'editing genetico apre possibilità terapeutiche ma anche gravi interrogativi morali. | Gen düzenleme tedavi olanakları açıyor ama ciddi ahlaki sorular da doğuruyor.
+la predisposizione genetica | genetik yatkınlık | isim (d) | Una predisposizione genetica non significa che la malattia si svilupperà. | Genetik yatkınlık hastalığın mutlaka gelişeceği anlamına gelmez.
+il patrimonio genetico | genetik miras | isim (e) | Gli scienziati studiano il patrimonio genetico delle antiche popolazioni sarde. | Bilim insanları eski Sardinya halklarının genetik mirasını inceliyor.
+la biodiversità | biyoçeşitlilik | isim (d) | La perdita di biodiversità minaccia la sicurezza alimentare del pianeta. | Biyoçeşitlilik kaybı gezegenin gıda güvenliğini tehdit ediyor.
+il ceppo | suş; soy | isim (e) | I ricercatori hanno isolato un nuovo ceppo del batterio resistente agli antibiotici. | Araştırmacılar bakterinin antibiyotiğe dirençli yeni bir suşunu ayırdı.
+## Enerji
+la transizione energetica | enerji dönüşümü | isim (d) | La transizione energetica richiede investimenti enormi nelle reti elettriche. | Enerji dönüşümü elektrik şebekelerine muazzam yatırımlar gerektiriyor.
+il fotovoltaico | fotovoltaik (güneş enerjisi) | isim (e) | Il fotovoltaico sui tetti delle scuole copre metà del loro fabbisogno. | Okul çatılarındaki güneş panelleri ihtiyaçlarının yarısını karşılıyor.
+l'eolico (e) | rüzgâr enerjisi | isim (e) | L'eolico offshore è ancora poco sviluppato lungo le coste italiane. | Açık deniz rüzgâr enerjisi İtalya kıyılarında henüz pek gelişmemiş.
+la geotermia | jeotermal enerji | isim (d) | In Toscana la geotermia produce elettricità fin dall'inizio del Novecento. | Toskana'da jeotermal enerji yirminci yüzyılın başından beri elektrik üretiyor.
+l'idrogeno verde (e) | yeşil hidrojen | isim (e) | L'idrogeno verde potrebbe alimentare in futuro le acciaierie e i treni. | Yeşil hidrojen gelecekte çelik fabrikalarını ve trenleri besleyebilir.
+la fusione nucleare | nükleer füzyon | isim (d) | La fusione nucleare promette energia quasi illimitata, ma resta sperimentale. | Nükleer füzyon neredeyse sınırsız enerji vaat ediyor ama hâlâ deneysel.
+il fabbisogno energetico | enerji ihtiyacı | isim (e) | Il fabbisogno energetico del paese cresce soprattutto durante l'estate. | Ülkenin enerji ihtiyacı özellikle yazın artıyor.
+l'efficienza energetica (d) | enerji verimliliği | isim (d) | Gli incentivi premiano chi migliora l'efficienza energetica della propria casa. | Teşvikler evinin enerji verimliliğini artıranları ödüllendiriyor.
+il combustibile fossile | fosil yakıt | isim (e) | L'Unione europea vuole ridurre drasticamente la dipendenza dai combustibili fossili. | Avrupa Birliği fosil yakıtlara bağımlılığı kökten azaltmak istiyor.
+l'accumulo (e) | depolama (enerji) | isim (e) | I sistemi di accumulo permettono di usare di notte l'energia solare. | Depolama sistemleri güneş enerjisinin gece kullanılmasını sağlıyor.
+## Dijital toplum
+il divario digitale | dijital uçurum | isim (e) | Il divario digitale tra città e montagna resta ancora molto ampio. | Şehirle dağ köyleri arasındaki dijital uçurum hâlâ çok geniş.
+l'alfabetizzazione digitale (d) | dijital okuryazarlık | isim (d) | I corsi di alfabetizzazione digitale sono rivolti soprattutto agli anziani. | Dijital okuryazarlık kursları özellikle yaşlılara yönelik.
+la disinformazione | dezenformasyon | isim (d) | La disinformazione si diffonde più velocemente delle notizie verificate. | Dezenformasyon doğrulanmış haberlerden daha hızlı yayılıyor.
+la bolla di filtraggio | filtre balonu | isim (d) | La bolla di filtraggio ci espone soltanto a opinioni simili alle nostre. | Filtre balonu bizi yalnızca bizimkilere benzer görüşlerle karşılaştırır.
+la sorveglianza di massa | kitlesel gözetim | isim (d) | Molti giuristi temono una sorveglianza di massa senza adeguati controlli. | Pek çok hukukçu yeterli denetimi olmayan bir kitlesel gözetimden korkuyor.
+il lavoro agile | esnek/uzaktan çalışma | isim (e) | Dopo la pandemia il lavoro agile è diventato normale in molti uffici. | Pandemiden sonra esnek çalışma birçok ofiste olağan hâle geldi.
+la dipendenza da schermo | ekran bağımlılığı | isim (d) | Gli psicologi studiano la dipendenza da schermo negli adolescenti. | Psikologlar ergenlerde ekran bağımlılığını inceliyor.
+la cittadinanza digitale | dijital vatandaşlık | isim (d) | La scuola deve insegnare anche i principi della cittadinanza digitale. | Okul dijital vatandaşlığın ilkelerini de öğretmeli.
+l'identità digitale (d) | dijital kimlik | isim (d) | Con l'identità digitale si accede a tutti i servizi della pubblica amministrazione. | Dijital kimlikle kamu yönetiminin tüm hizmetlerine erişiliyor.
+la piattaforma | platform | isim (d) | La piattaforma conta milioni di utenti attivi in tutta Europa. | Platformun bütün Avrupa'da milyonlarca aktif kullanıcısı var.
+## Siber güvenlik
+la sicurezza informatica aziendale | kurumsal siber güvenlik | isim (d) | Abbiamo raddoppiato il budget per la sicurezza informatica aziendale. | Kurumsal siber güvenlik bütçesini ikiye katladık.
+l'attacco informatico (e) | siber saldırı | isim (e) | Un attacco informatico ha bloccato per giorni i servizi dell'ospedale. | Bir siber saldırı hastanenin hizmetlerini günlerce durdurdu.
+il ransomware | fidye yazılımı | isim (e) | Il ransomware ha cifrato tutti i file e i criminali chiedono un riscatto. | Fidye yazılımı bütün dosyaları şifreledi ve suçlular fidye istiyor.
+il phishing | oltalama | isim (e) | Il phishing sfrutta email apparentemente ufficiali per rubare le credenziali. | Oltalama, kimlik bilgilerini çalmak için resmî görünen e-postalardan yararlanır.
+la vulnerabilità | güvenlik açığı | isim (d) | Gli esperti hanno scoperto una vulnerabilità grave nel sistema operativo. | Uzmanlar işletim sisteminde ciddi bir güvenlik açığı keşfetti.
+l'autenticazione a due fattori (d) | iki faktörlü kimlik doğrulama | isim (d) | Attivate l'autenticazione a due fattori per proteggere l'account aziendale. | Kurumsal hesabı korumak için iki faktörlü kimlik doğrulamayı etkinleştirin.
+la violazione dei dati | veri ihlali | isim (d) | La violazione dei dati ha esposto gli indirizzi di migliaia di clienti. | Veri ihlali binlerce müşterinin adresini ortaya çıkardı.
+le credenziali | kimlik bilgileri | isim (çoğul) | Non condividete mai le vostre credenziali, neppure con i colleghi. | Kimlik bilgilerinizi asla, iş arkadaşlarınızla bile paylaşmayın.
+il firewall | güvenlik duvarı | isim (e) | Il firewall blocca automaticamente il traffico proveniente da indirizzi sospetti. | Güvenlik duvarı şüpheli adreslerden gelen trafiği otomatik olarak engelliyor.
+la patch | yama (yazılım) | isim (d) | Il produttore ha rilasciato una patch urgente per correggere il difetto. | Üretici kusuru gidermek için acil bir yama yayımladı.
+## Uzay ve fizik
+l'esplorazione spaziale (d) | uzay araştırmaları | isim (d) | L'esplorazione spaziale ha prodotto numerose tecnologie di uso quotidiano. | Uzay araştırmaları günlük kullanımda birçok teknoloji üretti.
+la sonda spaziale | uzay sondası | isim (d) | La sonda spaziale ha raggiunto Marte dopo un viaggio di sette mesi. | Uzay sondası yedi aylık bir yolculuğun ardından Mars'a ulaştı.
+l'orbita (d) | yörünge | isim (d) | La stazione spaziale compie un'orbita completa intorno alla Terra in novanta minuti. | Uzay istasyonu Dünya çevresindeki tam yörüngesini doksan dakikada tamamlıyor.
+l'acceleratore di particelle (e) | parçacık hızlandırıcı | isim (e) | Il più grande acceleratore di particelle del mondo si trova vicino a Ginevra. | Dünyanın en büyük parçacık hızlandırıcısı Cenevre yakınında bulunuyor.
+la meccanica quantistica | kuantum mekaniği | isim (d) | La meccanica quantistica descrive il comportamento delle particelle subatomiche. | Kuantum mekaniği atom altı parçacıkların davranışını betimler.
+la relatività | görelilik | isim (d) | La teoria della relatività ha cambiato la nostra idea di spazio e tempo. | Görelilik kuramı uzay ve zaman fikrimizi değiştirdi.
+il buco nero | kara delik | isim (e) | La prima immagine di un buco nero è stata pubblicata nel 2019. | Bir kara deliğin ilk görüntüsü 2019'da yayımlandı.
+la microgravità | mikro yerçekimi | isim (d) | In condizioni di microgravità le ossa degli astronauti perdono densità. | Mikro yerçekimi koşullarında astronotların kemikleri yoğunluk kaybeder.
+il telescopio spaziale | uzay teleskobu | isim (e) | Il telescopio spaziale ha fotografato galassie lontanissime e antichissime. | Uzay teleskobu çok uzak ve çok eski galaksilerin fotoğrafını çekti.
+il computer quantistico | kuantum bilgisayar | isim (e) | Un computer quantistico potrebbe risolvere problemi oggi impossibili. | Bir kuantum bilgisayar bugün imkânsız olan sorunları çözebilir.
+## Bilim ve toplum
+l'innovazione dirompente (d) | yıkıcı yenilik | isim (d) | Lo smartphone è un esempio classico di innovazione dirompente. | Akıllı telefon yıkıcı yeniliğin klasik bir örneğidir.
+il principio di precauzione | ihtiyat ilkesi | isim (e) | Il principio di precauzione impone cautela quando i rischi non sono noti. | İhtiyat ilkesi riskler bilinmediğinde temkinli olmayı gerektirir.
+la ricerca di base | temel araştırma | isim (d) | Senza la ricerca di base non ci sarebbero le applicazioni di domani. | Temel araştırma olmadan yarının uygulamaları olmazdı.
+la fuga dei cervelli | beyin göçü | isim (d) | La fuga dei cervelli priva l'Italia di molti giovani ricercatori. | Beyin göçü İtalya'yı pek çok genç araştırmacıdan yoksun bırakıyor.
+il trasferimento tecnologico | teknoloji transferi | isim (e) | L'ufficio di trasferimento tecnologico aiuta i ricercatori a creare start-up. | Teknoloji transferi ofisi araştırmacılara start-up kurmalarında yardım ediyor.
+la divulgazione scientifica | bilimi halka anlatma | isim (d) | La divulgazione scientifica in televisione ha una lunga tradizione in Italia. | Televizyonda bilimi halka anlatmanın İtalya'da uzun bir geleneği var.
+il negazionismo scientifico | bilim inkârcılığı | isim (e) | Il negazionismo scientifico si diffonde spesso attraverso le reti sociali. | Bilim inkârcılığı sık sık sosyal ağlar aracılığıyla yayılıyor.
+l'obsolescenza programmata (d) | planlı eskitme | isim (d) | L'obsolescenza programmata rende i dispositivi inutilizzabili dopo pochi anni. | Planlı eskitme cihazları birkaç yıl sonra kullanılamaz hâle getiriyor.
+la tecnofobia | teknoloji korkusu | isim (d) | La tecnofobia di alcuni anziani nasce spesso dalla paura di sbagliare. | Bazı yaşlıların teknoloji korkusu çoğu zaman hata yapma korkusundan doğuyor.
+pionieristico | öncü, çığır açan | sıfat | Negli anni Sessanta l'Olivetti realizzò un calcolatore davvero pionieristico. | Altmışlı yıllarda Olivetti gerçekten öncü bir hesap makinesi üretti.
+## Teknoloji fiilleri
+digitalizzare | dijitalleştirmek | fiil | La biblioteca sta digitalizzando migliaia di manoscritti medievali. | Kütüphane binlerce Orta Çağ elyazmasını dijitalleştiriyor.
+brevettare | patentini almak | fiil | Il giovane ingegnere ha brevettato un sistema per filtrare l'acqua piovana. | Genç mühendis yağmur suyunu süzen bir sistemin patentini aldı.
+cifrare | şifrelemek | fiil | Il programma cifra automaticamente ogni messaggio prima dell'invio. | Program her mesajı göndermeden önce otomatik olarak şifreliyor.
+decifrare | şifresini çözmek | fiil | I matematici riuscirono a decifrare i codici segreti durante la guerra. | Matematikçiler savaş sırasında gizli şifreleri çözmeyi başardı.
+geolocalizzare | konumunu belirlemek | fiil | L'applicazione geolocalizza i mezzi pubblici in tempo reale. | Uygulama toplu taşıma araçlarının konumunu anlık olarak belirliyor.
+miniaturizzare | minyatürleştirmek | fiil | L'industria elettronica continua a miniaturizzare i componenti dei circuiti. | Elektronik sanayi devre bileşenlerini küçültmeyi sürdürüyor.
+collaudare | test etmek (teslimden önce) | fiil | Prima della consegna dobbiamo collaudare ogni macchinario della linea. | Teslimattan önce hattaki her makineyi test etmemiz gerekiyor.
+interfacciarsi | bağlantı kurmak, entegre olmak | fiil · dönüşlü | Il nuovo software deve interfacciarsi con i sistemi già esistenti. | Yeni yazılım mevcut sistemlerle entegre olmalı.
+virtualizzare | sanallaştırmak | fiil | Abbiamo virtualizzato i server per ridurre i consumi del centro dati. | Veri merkezinin tüketimini azaltmak için sunucuları sanallaştırdık.
+implementabile | uygulanabilir | sıfat | La soluzione proposta è elegante ma difficilmente implementabile su larga scala. | Önerilen çözüm zarif ama büyük ölçekte zor uygulanabilir.
