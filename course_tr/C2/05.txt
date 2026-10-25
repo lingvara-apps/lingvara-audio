@@ -1,0 +1,111 @@
+# UNIT: Office and IT jargon | Corporate slang, the language of software, money slang
+## Corporate buzzwords
+aksiyon almak | to take action (office jargon) | ifade | Müşteri şikâyetleri arttı, bu konuda acilen aksiyon almamız gerekiyor. | Customer complaints have increased, and we need to take action on this urgently.
+deadline | deadline (office jargon) | isim | Projenin deadline'ı cuma, ama ekip hâlâ test aşamasını bitiremedi. | The project's deadline is Friday, but the team still hasn't finished the testing phase.
+feedback | feedback (office jargon) | isim | Sunumunla ilgili feedback'imi toplantıdan sonra yazılı olarak ileteceğim. | I'll send you my feedback on your presentation in writing after the meeting.
+brief vermek | to brief (office jargon) | ifade | Müşteri, yeni kampanya için ajansa ayrıntılı bir brief verdi. | The client gave the agency a detailed brief for the new campaign.
+follow etmek | to follow up (office jargon) | ifade | Siparişin durumunu sen follow eder misin, ben bu hafta çok yoğunum. | Could you follow up on the status of the order? I'm very busy this week.
+join olmak | to join (a call; office jargon) | ifade | Saat ondaki toplantıya beş dakika geç join olacağım, şu an trafikteyim. | I'll join the ten o'clock meeting five minutes late; I'm in traffic right now.
+check etmek | to check (office jargon) | ifade | Göndermeden önce rakamları bir kez daha check eder misin? | Could you check the figures once more before sending?
+beyin fırtınası | brainstorming | isim | Yeni ürünün adını bulmak için bütün ekip bir saatlik beyin fırtınası yaptı. | The whole team held an hour-long brainstorming session to come up with a name for the new product.
+sinerji yaratmak | to create synergy | ifade | Yönetim, pazarlama ile satış departmanlarını birleştirerek sinerji yaratmayı umuyor. | Management hopes to create synergy by merging the marketing and sales departments.
+kazan-kazan | win-win | sıfat | Uzun süren görüşmelerin sonunda her iki taraf için kazan-kazan bir anlaşmaya varıldı. | At the end of lengthy talks, a win-win agreement was reached for both sides.
+## Office life
+plaza dili | office jargon (lit. tower-block language) | isim | Türkçe ile İngilizceyi karıştıran plaza dili, sosyal medyada sık sık alay konusu oluyor. | Office jargon that mixes Turkish and English is often mocked on social media.
+beyaz yakalı | white-collar | sıfat | Ekonomik kriz, ilk kez beyaz yakalı çalışanları da ciddi biçimde etkiledi. | For the first time, the economic crisis seriously affected white-collar workers too.
+mavi yakalı | blue-collar | sıfat | Fabrikadaki mavi yakalı işçiler, vardiya düzeninin değişmesine itiraz etti. | The blue-collar workers at the factory objected to the change in the shift system.
+ofis siyaseti | office politics | isim | Ofis siyasetiyle uğraşmaktan yorulup kendi küçük işini kurmaya karar verdi. | Tired of dealing with office politics, she decided to set up her own small business.
+yağcı | crawler; bootlicker | sıfat | Yağcı bir meslektaş, müdürün her fikrini daha söylenmeden alkışlıyor. | A bootlicking colleague applauds every one of the manager's ideas before they are even finished.
+kahve molası | coffee break | isim | En iyi fikirler bazen toplantılarda değil, kahve molasındaki sohbetlerde ortaya çıkıyor. | The best ideas sometimes come up not in meetings but in conversations during the coffee break.
+açık ofis | open-plan office | isim | Açık ofiste herkesin telefon konuşmalarını duymak, odaklanmayı epey zorlaştırıyor. | In an open-plan office, hearing everyone's phone calls makes it quite hard to concentrate.
+home office | working from home (office jargon) | isim | Şirket, haftada iki gün home office çalışmaya izin veriyor. | The company allows people to work from home two days a week.
+mesaiye kalmak | to work overtime; to stay late | ifade | Ay sonu raporları yüzünden bu hafta her gün mesaiye kaldık. | We stayed late every day this week because of the month-end reports.
+pazartesi sendromu | Monday blues | isim | Pazartesi sendromunu atlatmak için sabah ofise erkenden gelip kahvemi sakin sakin içiyorum. | To get over the Monday blues, I come to the office early and drink my coffee in peace.
+## Software development
+bug | bug (software) | isim | Uygulamanın yeni sürümündeki bir bug, kullanıcıların giriş yapmasını engelliyor. | A bug in the new version of the app is preventing users from logging in.
+deploy etmek | to deploy (software jargon) | ifade | Yeni özellikleri cuma akşamı deploy etmemek ekibin yazılı olmayan kuralıdır. | Not deploying new features on a Friday evening is the team's unwritten rule.
+commit atmak | to commit (code) | ifade | Değişiklikleri test etmeden commit atınca bütün sistem çöktü. | When he committed the changes without testing them, the whole system went down.
+merge etmek | to merge (code) | ifade | İki geliştiricinin kodunu merge ederken birçok çakışma çıktı. | When merging the two developers' code, a lot of conflicts came up.
+sürüm çıkmak | to release a version | ifade | Ekip, kullanıcı geri bildirimlerine göre her iki haftada bir yeni sürüm çıkıyor. | The team releases a new version every two weeks based on user feedback.
+sprint | sprint (agile development) | isim | Bu sprintte ödeme sistemiyle ilgili hataları düzeltmeye odaklanacağız. | In this sprint we'll focus on fixing the bugs related to the payment system.
+backlog | backlog | isim | Backlog'daki işler o kadar birikti ki önceliklendirme toplantısı yapmamız gerekiyor. | The tasks in the backlog have piled up so much that we need a prioritisation meeting.
+kod incelemesi | code review | isim | Kıdemli yazılımcı, kod incelemesinde güvenlik açığına yol açabilecek bir hata buldu. | During the code review, the senior developer found an error that could have caused a security vulnerability.
+hotfix | hotfix | isim | Sistem çökünce gece yarısı acil bir hotfix yayımlamak zorunda kaldık. | When the system crashed, we had to release an urgent hotfix at midnight.
+refactor etmek | to refactor | ifade | Eski kodu refactor etmeden yeni özellik eklemek her seferinde daha zor oluyor. | Adding new features without refactoring the old code gets harder every time.
+## IT support
+format atmak | to reformat (a computer) | ifade | Bilgisayar virüs kapınca teknik servis bütün diske format attı. | When the computer got a virus, the technician reformatted the whole drive.
+reset atmak | to reset; to restart | ifade | Bütün sabah uğraştıktan sonra modeme reset atınca internet bağlantısı sonunda düzeldi. | After struggling all morning, when I reset the modem the internet connection finally came back.
+mavi ekran | blue screen (of death) | isim | Sunumun tam ortasında bilgisayar mavi ekran verdi ve her şey gitti. | Right in the middle of the presentation, the computer showed the blue screen and everything was lost.
+ticket açmak | to open a (support) ticket | ifade | Şifren çalışmıyorsa bilgi işleme bir ticket açman gerekiyor. | If your password isn't working, you need to open a ticket with IT.
+şifre sıfırlamak | to reset a password | ifade | Üç kez yanlış giriş yapınca hesabım kilitlendi ve şifremi sıfırlamak zorunda kaldım. | After three wrong attempts my account was locked, and I had to reset my password.
+VPN | VPN | isim | Şirket ağına evden bağlanmak için önce VPN'i açmanız gerekiyor. | To connect to the company network from home, you first need to turn on the VPN.
+uzak masaüstü | remote desktop | isim | Teknik destek uzmanı, uzak masaüstü bağlantısıyla bilgisayarımdaki sorunu çözdü. | The support technician solved the problem on my computer via a remote desktop connection.
+yama | patch (software); patch (fabric) | isim | Güvenlik açığını kapatmak için yazılım şirketi acil bir yama yayımladı. | The software company released an urgent patch to close the security hole.
+yazılım güncellemesi | software update | isim | Dün geceki yazılım güncellemesinden sonra ofisteki yazıcı bilgisayarı tanımamaya başladı. | After last night's software update, the office printer stopped recognising the computer.
+sistem yöneticisi | system administrator | isim | Sistem yöneticisi, bakım çalışması nedeniyle sunucuların gece iki saat kapalı olacağını duyurdu. | The system administrator announced that the servers would be down for two hours at night for maintenance.
+## Startup culture
+startup | start-up (company) | isim | Üniversiteden üç arkadaş, tarım alanında yapay zekâ kullanan bir startup kurdu. | Three friends from university founded a start-up using artificial intelligence in agriculture.
+unicorn | unicorn (start-up valued over a billion dollars) | isim | Yerli oyun şirketi, değeri bir milyar doları aşınca ülkenin ilk unicorn'larından biri oldu. | When its value exceeded a billion dollars, the domestic gaming company became one of the country's first unicorns.
+MVP | minimum viable product | isim | Yatırımcılara göstermek için önce basit bir MVP hazırlayıp kullanıcılarla test ettik. | We first built a simple minimum viable product and tested it with users to show to investors.
+pivot yapmak | to pivot (change business direction) | ifade | İlk fikir tutmayınca şirket pivot yapıp kurumsal müşterilere yöneldi. | When the first idea didn't take off, the company pivoted and turned to corporate clients.
+exit yapmak | to exit (sell a start-up) | ifade | Kurucular, şirketi beş yıl sonra büyük bir teknoloji firmasına satarak exit yaptı. | After five years, the founders exited by selling the company to a large tech firm.
+tohum yatırım | seed investment | isim | Genç girişimciler, ilk prototip için melek yatırımcılardan tohum yatırım aldı. | The young entrepreneurs received seed investment from angel investors for their first prototype.
+kullanıcı edinimi | user acquisition | isim | Şirketin bu yılki en büyük gideri, reklama dayalı kullanıcı edinimi oldu. | The company's biggest expense this year was advertising-driven user acquisition.
+nakit yakmak | to burn cash | ifade | Hızla büyümeye çalışan şirket, ayda milyonlarca lira nakit yakıyor. | The company, which is trying to grow fast, is burning millions of lira in cash every month.
+yatırımcı sunumu | pitch deck; investor pitch | isim | Danışmanlar, yatırımcı sunumunu en fazla on slayta indirmemiz gerektiğini söylediler. | The advisers told us we needed to cut our investor pitch down to ten slides at most.
+çalışma kültürü | work culture | isim | Şirketin rahat çalışma kültürü, genç yazılımcılar için önemli bir çekim nedeni. | The company's relaxed work culture is an important draw for young developers.
+## Money slang
+mangır | dosh; dough (slang for money) | isim | Ay sonu geldi, kira da ödendi, cepte hiç mangır kalmadı. | It's the end of the month, the rent's been paid, and there's no dough left in my pocket.
+papel | banknote; bill (slang, old) | isim | Adam cebinden bir tomar papel çıkarıp masaya koydu. | The man took a wad of banknotes out of his pocket and put it on the table.
+yüzlük | hundred-lira note | isim | Bakkal, yüzlüğün üstünü verecek bozuk parası olmadığını söyledi. | The grocer said he didn't have the small change to break a hundred-lira note.
+ellilik | fifty-lira note | isim | Çocuğa bayram harçlığı olarak yepyeni bir ellilik verdi. | He gave the child a brand-new fifty-lira note as festival pocket money.
+para babası | moneybags; tycoon | isim | Şehrin en büyük para babalarından biri, eski sinemayı satın alıp otele çevirdi. | One of the city's biggest moneybags bought the old cinema and turned it into a hotel.
+para kırmak | to make a killing; to rake it in | deyim | Yaz sezonu boyunca sahildeki küçük dondurmacı resmen para kırıyor. | Throughout the summer season, the little ice-cream seller on the beach is literally raking it in.
+cepten yemek | to live off one's savings | deyim | İşini kaybedeli altı ay oldu, o zamandan beri cepten yiyor. | It's been six months since he lost his job, and he's been living off his savings ever since.
+parsayı toplamak | to scoop the pool; to reap the profit | deyim | Herkes kriz yüzünden zarar ederken o, ucuz alıp pahalı satarak parsayı topladı. | While everyone lost money because of the crisis, he scooped the pool by buying cheap and selling dear.
+çil çil | brand-new and shiny (of coins or notes) | sıfat | Dedem bayramlarda bize hep çil çil bozuk paralar dağıtırdı. | At festival time, my grandfather always handed out shiny new coins to us.
+tıkır tıkır | like clockwork; smoothly | zarf | Yeni sistem kurulduktan sonra ödemeler tıkır tıkır işlemeye başladı. | After the new system was installed, payments began to run like clockwork.
+## Pay and payroll
+net maaş | net salary | isim | Vergiler ve kesintilerden sonra elime geçen net maaş, beklediğimden çok düşük. | The net salary I take home after taxes and deductions is much lower than I expected.
+brüt maaş | gross salary | isim | İş ilanında yazan rakam brüt maaş olduğu için ilk maaşımı görünce şaşırdım. | Since the figure in the job advert was the gross salary, I was surprised when I saw my first pay.
+yol parası | travel allowance | isim | Şirket, maaşa ek olarak her ay yol parası da ödüyor. | In addition to the salary, the company pays a travel allowance every month.
+yemek kartı | meal card; luncheon voucher | isim | Öğle yemeklerini çoğunlukla şirketin verdiği yemek kartıyla ödüyoruz. | We mostly pay for our lunches with the meal card the company gives us.
+performans primi | performance bonus | isim | Satış hedeflerini aşan ekip, yıl sonunda yüklü bir performans primi aldı. | The team that exceeded its sales targets received a hefty performance bonus at the end of the year.
+maaş pazarlığı | salary negotiation | isim | İş teklifini almadan önce maaş pazarlığında kendimi küçümsememeye çalıştım. | Before accepting the job offer, I tried not to undersell myself in the salary negotiation.
+vergi dilimi | tax bracket | isim | Yılın son aylarında üst vergi dilimine girince maaşım belirgin şekilde azaldı. | When I moved into a higher tax bracket in the last months of the year, my salary fell noticeably.
+ele geçen | take-home pay | isim | Bütün kesintilerden sonra ele geçen para, kirayı bile zor karşılıyor. | After all the deductions, the take-home pay barely covers the rent.
+sigorta primi | social security contribution | isim | İşveren, çalışanların sigorta primlerini her ay düzenli olarak yatırmak zorundadır. | The employer must pay employees' social security contributions regularly every month.
+zam oranı | rate of pay rise | isim | Bu yılki zam oranı enflasyonun altında kaldığı için çalışanlar memnun değil. | The employees are unhappy because this year's pay rise was below inflation.
+## E-mail and meeting clichés
+ekte bulabilirsiniz | please find attached | ifade | Talep ettiğiniz raporu ekte bulabilirsiniz, sorularınız olursa lütfen yazın. | Please find attached the report you requested; if you have any questions, please write.
+cc'ye eklemek | to cc (someone) | ifade | Bu e-postaya müdürü de cc'ye ekler misin, haberi olsun. | Could you cc the manager on this e-mail too, so that he knows?
+toplantı daveti | meeting invitation | isim | Herkese yarın sabah için bir toplantı daveti gönderdim, lütfen kabul edin. | I've sent everyone a meeting invitation for tomorrow morning; please accept it.
+aynı sayfada olmak | to be on the same page | deyim | Projeye başlamadan önce hepimizin aynı sayfada olduğundan emin olmak istiyorum. | Before we start the project, I want to make sure we're all on the same page.
+dönüş yapmak | to get back (to someone) (office jargon) | ifade | Teklifinizi inceleyip en geç perşembe günü size dönüş yapacağım. | I'll review your proposal and get back to you by Thursday at the latest.
+müsaitlik durumu | availability | isim | Gelecek haftaki müsaitlik durumunuzu paylaşırsanız bir toplantı ayarlayalım. | If you share your availability for next week, let's arrange a meeting.
+hatırlatma maili | reminder e-mail | isim | Son başvuru tarihinden bir gün önce bütün katılımcılara hatırlatma maili gönderildi. | A reminder e-mail was sent to all participants one day before the application deadline.
+ilgili birim | the relevant department | isim | Kayıtlarımıza göre şikâyetiniz, incelenmek üzere dün ilgili birime iletilmiştir. | According to our records, your complaint was forwarded to the relevant department yesterday for review.
+yazılı teyit | written confirmation | isim | Sipariş vermeden önce müşteriden fiyat için yazılı teyit almayı unutma. | Don't forget to get written confirmation of the price from the customer before placing the order.
+kısa bir görüşme | a quick call; a short meeting | isim | Konuyu e-postayla uzatmak yerine yarın kısa bir görüşme yapalım mı? | Rather than dragging this out by e-mail, shall we have a quick call tomorrow?
+## New ways of working
+hibrit çalışma | hybrid working | isim | Salgından sonra pek çok şirket kalıcı olarak hibrit çalışma modeline geçti. | After the pandemic, many companies switched permanently to a hybrid working model.
+dijital göçebe | digital nomad | isim | Dijital göçebe olarak çalışan yazılımcı, son bir yılda beş farklı ülkede yaşadı. | The developer, who works as a digital nomad, has lived in five different countries over the past year.
+yan iş | side job; side hustle | isim | Maaşı yetmediği için hafta sonları yan iş olarak fotoğrafçılık yapıyor. | Because his salary isn't enough, he does photography as a side job at weekends.
+iş-yaşam dengesi | work-life balance | isim | Genç çalışanlar, iş seçerken maaş kadar iş-yaşam dengesine de önem veriyor. | Young employees value work-life balance as much as salary when choosing a job.
+kariyer molası | career break | isim | İki yıl yoğun çalıştıktan sonra dünyayı gezmek için bir yıllık kariyer molası verdi. | After two years of intense work, she took a year's career break to travel the world.
+sessiz istifa | quiet quitting | isim | Uzmanlar, sessiz istifanın aslında tükenmişliğe karşı bir savunma olduğunu söylüyor. | Experts say that quiet quitting is actually a defence against burnout.
+istifa dalgası | wave of resignations | isim | Yeni yönetimin gelmesiyle şirkette büyük bir istifa dalgası yaşandı. | With the arrival of the new management, there was a big wave of resignations at the company.
+ofise dönüş | return to the office | isim | Şirketin ofise dönüş kararı, evden çalışmaya alışmış çalışanları rahatsız etti. | The company's decision to return to the office upset employees who had got used to working from home.
+proje bazlı | project-based | sıfat | Kalıcı bir kadroya geçmek yerine proje bazlı çalışmayı tercih ediyor. | Rather than taking a permanent post, she prefers to work on a project basis.
+mesai dışı | outside working hours | sıfat | Mesai dışı saatlerde gelen e-postalara cevap vermemek, yeni şirket politikası oldu. | Not replying to e-mails received outside working hours has become the new company policy.
+## Digital marketing jargon
+SEO | SEO (search engine optimisation) | isim | Sitemizin SEO'sunu geliştirdikten sonra arama sonuçlarında ilk sayfaya çıktık. | After improving our site's SEO, we made it onto the first page of search results.
+dönüşüm oranı | conversion rate | isim | Ödeme sayfası sadeleştirilince sitenin dönüşüm oranı iki katına çıktı. | When the checkout page was simplified, the site's conversion rate doubled.
+tıklama oranı | click-through rate | isim | Yeni reklam görselinin tıklama oranı, eskisinden çok daha yüksek çıktı. | The click-through rate of the new ad image turned out much higher than the old one.
+hedefleme | targeting | isim | Doğru hedefleme sayesinde reklam bütçesini yarıya indirip daha fazla müşteriye ulaştık. | Thanks to accurate targeting, we halved the advertising budget and reached more customers.
+görünürlük | visibility | isim | Küçük işletmeler, internetteki görünürlüklerini artırmak için sosyal medyaya yatırım yapıyor. | Small businesses are investing in social media to increase their online visibility.
+içerik stratejisi | content strategy | isim | Markanın yeni içerik stratejisi, ürün yerine müşterilerin hikâyelerini öne çıkarıyor. | The brand's new content strategy highlights customers' stories rather than the product.
+veri odaklı | data-driven | sıfat | Yeni pazarlama müdürü, bütün kararların veri odaklı alınması gerektiğini savunuyor. | The new marketing manager argues that all decisions should be data-driven.
+KPI | KPI (key performance indicator) | isim | Her ekibin çeyrek başında belirlenen KPI'ları, yıl sonu primlerini doğrudan etkiliyor. | Each team's KPIs, set at the start of the quarter, directly affect year-end bonuses.
+gösterge paneli | dashboard | isim | Satış müdürü, gün boyunca gösterge panelindeki rakamları anlık olarak takip ediyor. | The sales manager tracks the figures on the dashboard in real time throughout the day.
+A/B testi | A/B test | isim | İki farklı başlığı A/B testiyle denedik, kısa olanı çok daha fazla tıklandı. | We tried two different headlines with an A/B test, and the shorter one got far more clicks.
