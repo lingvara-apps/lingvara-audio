@@ -1,0 +1,111 @@
+# UNIT: Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+## Yargı kurumları ve kişiler
+审判长 (shěnpànzhǎng) | mahkeme başkanı | isim | 审判长宣布现在开庭。 | Mahkeme başkanı duruşmanın başladığını ilan etti.
+合议庭 (héyìtíng) | heyet (toplu mahkeme) | isim | 这起案件由三名法官组成合议庭审理。 | Bu dava üç hâkimden oluşan bir heyet tarafından görülüyor.
+陪审员 (péishěnyuán) | halktan bilirkişi yargıç, jüri üyesi | isim | 人民陪审员与法官享有同等的表决权。 | Halk adına görev yapan yargıç üyeler hâkimlerle eşit oy hakkına sahiptir.
+书记员 (shūjìyuán) | zabıt kâtibi | isim | 书记员负责记录庭审的全过程。 | Zabıt kâtibi duruşmanın tamamını kayda geçirir.
+检察院 (jiǎncháyuàn) | savcılık | isim | 检察院决定对他提起公诉。 | Savcılık onun hakkında kamu davası açmaya karar verdi.
+检察官 (jiǎncháguān) | savcı | isim | 检察官当庭宣读了起诉书。 | Savcı iddianameyi duruşmada okudu.
+公诉人 (gōngsùrén) | iddia makamı temsilcisi | isim | 公诉人建议法庭对被告人从重处罚。 | İddia makamı mahkemeden sanığa ağır ceza verilmesini istedi.
+辩护人 (biànhùrén) | müdafi, savunma avukatı | isim | 辩护人认为现有证据不足以定罪。 | Müdafi mevcut delillerin mahkûmiyet için yeterli olmadığını savundu.
+原告 (yuángào) | davacı | isim | 原告要求被告赔礼道歉并赔偿损失。 | Davacı, davalının özür dilemesini ve zararı tazmin etmesini talep etti.
+被告 (bèigào) | davalı; sanık | isim | 被告对原告提出的事实没有异议。 | Davalı, davacının ileri sürdüğü olgulara itiraz etmedi.
+## Yargılama süreci
+立案 (lì'àn) | dava kaydı açmak, soruşturma başlatmak | fiil | 法院审查后决定立案。 | Mahkeme inceleme sonrasında davayı kayda almaya karar verdi.
+受理 (shòulǐ) | (davayı, başvuruyu) kabul etmek | fiil | 本院依法受理了这起合同纠纷案。 | Mahkememiz bu sözleşme uyuşmazlığı davasını kanuna uygun olarak kabul etti.
+开庭 (kāitíng) | duruşma açmak | fiil | 这个案子定于下月十号开庭。 | Bu davanın duruşması gelecek ayın onuna belirlendi.
+庭审 (tíngshěn) | duruşma, yargılama | isim | 庭审持续了将近八个小时。 | Duruşma yaklaşık sekiz saat sürdü.
+传唤 (chuánhuàn) | celp etmek, mahkemeye çağırmak | fiil | 法院依法传唤了两名关键证人。 | Mahkeme iki önemli tanığı usulüne uygun olarak celp etti.
+出庭 (chūtíng) | duruşmaya çıkmak | fiil | 证人因病无法出庭作证。 | Tanık hastalığı nedeniyle tanıklık etmek için duruşmaya çıkamadı.
+举证 (jǔzhèng) | delil sunmak | fiil | 原告应当对自己的主张承担举证责任。 | Davacı kendi iddiası için ispat yükünü taşımalıdır.
+质证 (zhìzhèng) | delili tartışmak, delile itiraz etmek | fiil | 所有证据都必须经过当庭质证。 | Bütün deliller duruşmada tartışılmak zorundadır.
+回避 (huíbì) | (hâkimin) davadan çekilmesi | fiil | 审判员与当事人有亲属关系的，应当回避。 | Taraflardan biriyle akrabalığı olan hâkim davadan çekilmelidir.
+休庭 (xiūtíng) | duruşmaya ara vermek | fiil | 审判长宣布休庭二十分钟。 | Mahkeme başkanı duruşmaya yirmi dakika ara verdiğini açıkladı.
+## Karar ve kanun yolları
+判决 (pànjué) | hüküm, karar (mahkeme) | isim | 法院当庭作出了一审判决。 | Mahkeme ilk derece kararını duruşmada açıkladı.
+裁定 (cáidìng) | ara karar vermek | fiil | 法院裁定冻结被告的银行账户。 | Mahkeme davalının banka hesabının dondurulmasına karar verdi.
+上诉 (shàngsù) | istinafa/temyize başvurmak | fiil | 被告人不服一审判决，提出了上诉。 | Sanık ilk derece kararını kabul etmeyip üst mahkemeye başvurdu.
+驳回 (bóhuí) | reddetmek (talebi) | fiil | 二审法院驳回上诉，维持原判。 | İkinci derece mahkemesi başvuruyu reddederek ilk kararı onadı.
+终审 (zhōngshěn) | kesin hüküm, son yargılama | isim | 我国实行两审终审制。 | Ülkemizde iki dereceli kesin yargılama sistemi uygulanıyor.
+维持原判 (wéichí yuánpàn) | ilk kararı onamak | ifade | 经过审理，高级法院决定维持原判。 | İnceleme sonucunda yüksek mahkeme ilk kararı onamaya karar verdi.
+撤销 (chèxiāo) | iptal etmek, bozmak | fiil | 由于程序违法，原判决被撤销。 | Usule aykırılık nedeniyle ilk karar bozuldu.
+发回重审 (fāhuí chóngshěn) | yeniden yargılanmak üzere geri göndermek | ifade | 上级法院认为事实不清，将案件发回重审。 | Üst mahkeme olayların açık olmadığını düşünerek davayı yeniden görülmek üzere geri gönderdi.
+申诉 (shēnsù) | şikâyet başvurusu yapmak (kesinleşmiş karara) | fiil | 他坚持自己是冤枉的，多次向上级法院申诉。 | Haksız yere suçlandığında ısrar edip üst mahkemeye defalarca başvurdu.
+强制执行 (qiángzhì zhíxíng) | cebri icra | isim | 被告拒不履行判决，原告申请法院强制执行。 | Davalı karara uymayınca davacı mahkemeden cebri icra talep etti.
+## Ceza hukuku
+刑事 (xíngshì) | cezai | sıfat | 这已经不是民事纠纷，而是刑事案件了。 | Bu artık hukuki bir anlaşmazlık değil, bir ceza davası.
+罪名 (zuìmíng) | suç tanımı, isnat edilen suç | isim | 他被以诈骗罪的罪名提起公诉。 | Hakkında dolandırıcılık suçlamasıyla kamu davası açıldı.
+量刑 (liàngxíng) | ceza miktarını belirlemek | fiil | 法官在量刑时考虑了他的认罪态度。 | Hâkim cezayı belirlerken onun suçu kabul etmesini dikkate aldı.
+有期徒刑 (yǒuqī túxíng) | süreli hapis cezası | isim | 他被判处有期徒刑五年。 | Beş yıl hapis cezasına çarptırıldı.
+无期徒刑 (wúqī túxíng) | müebbet hapis | isim | 主犯被判处无期徒刑。 | Ana fail müebbet hapis cezasına çarptırıldı.
+缓刑 (huǎnxíng) | ertelenmiş ceza | isim | 考虑到他是初犯，法院对他宣告缓刑。 | İlk suçu olduğu göz önüne alınarak cezası ertelendi.
+罚金 (fájīn) | adli para cezası | isim | 除了判刑以外，他还被处以十万元罚金。 | Hapis cezasının yanı sıra yüz bin yuan adli para cezasına da çarptırıldı.
+从轻 (cóngqīng) | hafifletici yönde (ceza) | zarf | 鉴于他有立功表现，法院决定从轻处罚。 | Soruşturmaya katkısı göz önüne alınarak mahkeme cezasını hafifletti.
+自首 (zìshǒu) | teslim olmak (suçlu) | fiil | 案发后第三天，他主动到公安局自首。 | Olaydan üç gün sonra kendiliğinden emniyete gidip teslim oldu.
+累犯 (lěifàn) | tekerrür, mükerrir suçlu | isim | 累犯应当从重处罚。 | Mükerrir suçlulara ağırlaştırılmış ceza verilmelidir.
+## Suç türleri
+盗窃 (dàoqiè) | hırsızlık yapmak | fiil | 他因多次盗窃电动车被抓获。 | Defalarca elektrikli bisiklet çaldığı için yakalandı.
+诈骗 (zhàpiàn) | dolandırmak | fiil | 这个团伙通过假冒客服电话诈骗老人。 | Bu çete sahte müşteri hizmetleri aramalarıyla yaşlıları dolandırıyordu.
+贪污 (tānwū) | zimmete para geçirmek | fiil | 这名官员利用职务之便贪污公款三百万元。 | Bu memur görevini kötüye kullanarak üç milyon yuan kamu parasını zimmetine geçirdi.
+受贿 (shòuhuì) | rüşvet almak | fiil | 他因受贿罪被判处十年有期徒刑。 | Rüşvet almak suçundan on yıl hapis cezasına çarptırıldı.
+行贿 (xínghuì) | rüşvet vermek | fiil | 为了拿到工程，这家公司多次向官员行贿。 | Bu şirket ihaleyi almak için görevlilere defalarca rüşvet verdi.
+故意伤害 (gùyì shānghài) | kasten yaralama | isim | 他因故意伤害他人被警方刑事拘留。 | Başkasını kasten yaraladığı için polis tarafından gözaltına alındı.
+过失 (guòshī) | taksir, ihmal | isim | 这起火灾是由于管理人员的过失造成的。 | Bu yangın yöneticilerin ihmali yüzünden çıktı.
+绑架 (bǎngjià) | adam kaçırmak | fiil | 罪犯绑架了一名商人，索要巨额赎金。 | Suçlular bir iş insanını kaçırıp yüklü bir fidye istedi.
+走私 (zǒusī) | kaçakçılık yapmak | fiil | 海关查获了一批走私的珍稀动物制品。 | Gümrük, kaçak olarak getirilmiş bir parti nadir hayvan ürününe el koydu.
+洗钱 (xǐqián) | kara para aklamak | fiil | 这家公司被怀疑替犯罪集团洗钱。 | Bu şirketin bir suç örgütü adına kara para akladığından şüpheleniliyor.
+## Soruşturma
+侦查 (zhēnchá) | soruşturmak (cezai) | fiil | 案件目前仍在侦查阶段，细节不便透露。 | Dava şu an hâlâ soruşturma aşamasında, ayrıntılar açıklanamıyor.
+拘留 (jūliú) | gözaltına almak | fiil | 酒后驾车的司机被依法拘留十五天。 | Alkollü araç kullanan sürücü kanun gereği on beş gün gözaltında tutuldu.
+逮捕 (dàibǔ) | tutuklamak | fiil | 检察院批准逮捕了三名犯罪嫌疑人。 | Savcılık üç şüphelinin tutuklanmasını onayladı.
+取保候审 (qǔbǎo hòushěn) | adli kontrolle serbest bırakılma | isim | 他的律师为他申请了取保候审。 | Avukatı onun için adli kontrol şartıyla serbest bırakılma talebinde bulundu.
+嫌疑人 (xiányírén) | şüpheli | isim | 警方已经锁定了一名嫌疑人。 | Polis bir şüpheliyi belirledi bile.
+证人 (zhèngrén) | tanık | isim | 唯一的证人改变了自己的说法。 | Tek tanık ifadesini değiştirdi.
+证词 (zhèngcí) | tanık ifadesi | isim | 两名证人的证词互相矛盾。 | İki tanığın ifadeleri birbiriyle çelişiyor.
+物证 (wùzhèng) | maddi delil | isim | 现场提取的物证已经送去鉴定。 | Olay yerinden toplanan maddi deliller incelemeye gönderildi.
+口供 (kǒugòng) | ifade (zanlının) | isim | 光有口供而没有其他证据，不能定罪。 | Yalnızca zanlının ifadesiyle, başka delil olmadan mahkûmiyet verilemez.
+搜查 (sōuchá) | arama yapmak | fiil | 警察持搜查证对他的住所进行了搜查。 | Polis arama izniyle onun evinde arama yaptı.
+## Medeni hukuk
+民事 (mínshì) | hukuki (medeni hukuka ilişkin) | sıfat | 这类纠纷一般通过民事诉讼解决。 | Bu tür anlaşmazlıklar genellikle hukuk davasıyla çözülür.
+诉讼 (sùsòng) | dava, yargılama | isim | 他们不想打官司，希望在诉讼外和解。 | Mahkemeye gitmek istemiyorlar, dava dışında uzlaşmayı umuyorlar.
+债权 (zhàiquán) | alacak hakkı | isim | 公司破产后，债权人纷纷申报债权。 | Şirket iflas edince alacaklılar birer birer alacaklarını bildirdi.
+债务 (zhàiwù) | borç (hukuki) | isim | 夫妻共同债务应当由双方共同偿还。 | Eşlerin ortak borcu iki tarafça birlikte ödenmelidir.
+侵权 (qīnquán) | hak ihlali yapmak | fiil | 未经许可使用他人照片属于侵权行为。 | Başkasının fotoğrafını izinsiz kullanmak hak ihlalidir.
+索赔 (suǒpéi) | tazminat talep etmek | fiil | 消费者向商家索赔五万元。 | Tüketici satıcıdan elli bin yuan tazminat talep etti.
+继承 (jìchéng) | miras almak | fiil | 三个子女平均继承了父母的房产。 | Üç çocuk anne babalarının evini eşit olarak miras aldı.
+遗嘱 (yízhǔ) | vasiyetname | isim | 老人去世前在公证处立了遗嘱。 | Yaşlı adam ölmeden önce noterde vasiyetname düzenledi.
+监护 (jiānhù) | vesayet altında tutmak | fiil | 父母是未成年子女的法定监护人。 | Anne baba, reşit olmayan çocukların yasal vasisidir.
+抚养权 (fǔyǎngquán) | velayet hakkı | isim | 离婚后，孩子的抚养权判给了母亲。 | Boşanmadan sonra çocuğun velayeti anneye verildi.
+## Mülkiyet ve borçlar hukuku
+所有权 (suǒyǒuquán) | mülkiyet hakkı | isim | 房屋的所有权以不动产登记为准。 | Konutun mülkiyeti tapu kaydına göre belirlenir.
+产权 (chǎnquán) | mülkiyet (özellikle taşınmaz, fikrî) | isim | 这套房子的产权还有纠纷，最好别买。 | Bu dairenin mülkiyetiyle ilgili hâlâ anlaşmazlık var, almasan iyi olur.
+物权 (wùquán) | ayni hak | isim | 物权法保护的是人对物的直接支配权。 | Ayni haklar hukuku kişinin eşya üzerindeki doğrudan hâkimiyetini korur.
+抵押 (dǐyā) | ipotek etmek, rehin vermek | fiil | 他把房子抵押给银行，贷了一笔款。 | Evini bankaya ipotek edip kredi çekti.
+担保 (dānbǎo) | kefil olmak, teminat vermek | fiil | 我可以为这笔贷款提供担保。 | Bu kredi için teminat verebilirim.
+租赁 (zūlìn) | kiralama (hukuki) | isim | 租赁合同期满后，承租人有优先续租权。 | Kira sözleşmesi sona erince kiracının öncelikli yenileme hakkı vardır.
+无效 (wúxiào) | geçersiz, hükümsüz | sıfat | 违反法律强制性规定的合同无效。 | Kanunun emredici hükümlerine aykırı sözleşmeler geçersizdir.
+不可抗力 (bùkě kànglì) | mücbir sebep | isim | 因不可抗力不能履行合同的，可以免除责任。 | Mücbir sebeple sözleşme yerine getirilemezse sorumluluk kalkabilir.
+时效 (shíxiào) | zamanaşımı süresi | isim | 这笔债务已经超过了诉讼时效。 | Bu borcun dava zamanaşımı süresi çoktan doldu.
+公证 (gōngzhèng) | noter onayı yapmak | fiil | 这份协议最好去公证一下。 | Bu anlaşmayı notere onaylatsanız iyi olur.
+## Hukuki kalıplar
+依法 (yīfǎ) | kanuna göre, yasal olarak | zarf | 对于违法行为，必须依法严肃处理。 | Kanuna aykırı davranışlar yasaya göre ciddiyetle ele alınmalıdır.
+依照 (yīzhào) | uyarınca, gereğince | edat | 依照本法第十二条的规定，处以罚款。 | Bu kanunun on ikinci maddesi uyarınca para cezası verilir.
+不得 (bùdé) | -emez, yasaktır | fiil | 任何单位和个人不得非法收集他人信息。 | Hiçbir kurum veya kişi başkalarının bilgilerini yasa dışı yollarla toplayamaz.
+予以 (yǔyǐ) | (bir işlemi) uygulamak, vermek | fiil | 对表现突出的员工应予以表彰。 | Üstün başarı gösteren çalışanlar ödüllendirilmelidir.
+视为 (shìwéi) | sayılmak, kabul edilmek | fiil | 逾期未答复的，视为同意。 | Süresi içinde yanıt verilmezse kabul edilmiş sayılır.
+特此 (tècǐ) | işbu (yazıyla), bu vesileyle | zarf | 特此通知，请各部门遵照执行。 | İşbu yazıyla bildirilir; tüm birimlerin gereğini yapması rica olunur.
+本法 (běnfǎ) | işbu kanun | zamir | 本法自公布之日起施行。 | İşbu kanun yayımı tarihinde yürürlüğe girer.
+除外 (chúwài) | hariç tutulur, istisnadır | fiil | 本店商品七天内可以退换，食品除外。 | Mağazamızdaki ürünler yedi gün içinde iade edilebilir, gıdalar hariçtir.
+酌情 (zhuóqíng) | duruma göre takdiren | zarf | 情节较轻的，可以酌情减轻处罚。 | Hafif durumlarda ceza takdiren indirilebilir.
+若干 (ruògān) | birtakım, bir miktar | sayı | 关于进一步加强食品安全工作的若干意见。 | Gıda güvenliği çalışmalarının daha da güçlendirilmesine ilişkin birtakım görüşler.
+## Hukuk devleti ve haklar
+法治 (fǎzhì) | hukukun üstünlüğü, hukuk devleti | isim | 法治是现代国家治理的基本方式。 | Hukukun üstünlüğü modern devlet yönetiminin temel yoludur.
+合法权益 (héfǎ quányì) | yasal hak ve çıkarlar | isim | 消费者的合法权益受法律保护。 | Tüketicilerin yasal hak ve çıkarları kanunla korunur.
+正当防卫 (zhèngdàng fángwèi) | meşru müdafaa | isim | 法院认定他的行为属于正当防卫。 | Mahkeme onun eyleminin meşru müdafaa olduğuna hükmetti.
+无罪推定 (wúzuì tuīdìng) | masumiyet karinesi | isim | 无罪推定是现代刑事司法的基本原则。 | Masumiyet karinesi modern ceza adaletinin temel ilkesidir.
+仲裁 (zhòngcái) | tahkim | isim | 双方约定，发生争议时提交仲裁委员会仲裁。 | Taraflar, uyuşmazlık çıkması hâlinde tahkim kuruluna başvurmayı kararlaştırdı.
+调解 (tiáojiě) | arabuluculuk yapmak | fiil | 在法官的调解下，兄弟俩终于和解了。 | Hâkimin arabuluculuğuyla iki kardeş sonunda barıştı.
+司法 (sīfǎ) | yargı, adli | isim | 司法公正是社会公平正义的最后一道防线。 | Yargı adaleti, toplumsal adaletin son savunma hattıdır.
+宪法 (xiànfǎ) | anayasa | isim | 宪法是国家的根本大法。 | Anayasa devletin temel kanunudur.
+冤案 (yuān'àn) | adli hata, haksız mahkûmiyet | isim | 经过重新调查，这起二十年前的冤案终于得到平反。 | Yeniden yapılan soruşturmayla yirmi yıl önceki bu haksız mahkûmiyet nihayet düzeltildi.
+法律援助 (fǎlǜ yuánzhù) | adli yardım | isim | 经济困难的当事人可以申请法律援助。 | Maddi durumu kötü olan taraflar adli yardım talep edebilir.
