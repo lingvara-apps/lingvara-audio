@@ -19,7 +19,7 @@ vidimare | onaylamak, mühürlemek | fiil | Il registro deve essere vidimato dal
 autenticare | tasdik etmek | fiil | In comune possono autenticare la firma sul documento di vendita. | Belediyede satış belgesindeki imza tasdik edilebilir.
 notificare | tebliğ etmek | fiil | L'atto è stato notificato al destinatario tramite posta certificata. | İşlem alıcıya kayıtlı elektronik posta yoluyla tebliğ edildi.
 rilasciare | vermek, düzenlemek (belge) | fiil | Il passaporto viene rilasciato dalla questura in circa un mese. | Pasaport emniyet müdürlüğü tarafından yaklaşık bir ayda veriliyor.
-sollecitare | hatırlatmak, acele ettirmek | fiil | Ho dovuto sollecitare più volte l'ufficio per avere una risposta. | Yanıt alabilmek için daireye birkaç kez hatırlatmada bulunmak zorunda kaldım.
+dare corso a | işleme koymak, yürütmek | ifade | L'ufficio non può dare corso alla domanda senza la firma del richiedente. | Daire başvurucunun imzası olmadan başvuruyu işleme koyamaz.
 pervenire (pervenuto) | ulaşmak (resmî) | fiil · düzensiz | Le domande dovranno pervenire entro il trenta settembre. | Başvuruların otuz eylüle kadar ulaşması gerekir.
 ## Mektup açılış ve kapanışları
 Pregiatissimo | Çok değerli (resmî hitap) | sıfat | Pregiatissimo professore, la ringrazio per la sua cortese disponibilità. | Çok değerli hocam, nazik ilginiz için size teşekkür ederim.
@@ -27,11 +27,11 @@ Egregio | Sayın (erkeğe, resmî) | sıfat | Egregio avvocato, le invio in alle
 Spettabile | Sayın (kurumlara) | sıfat | Spettabile ditta, vi chiediamo un preventivo per la fornitura di carta. | Sayın firma, kâğıt tedariki için bir fiyat teklifi rica ediyoruz.
 alla cortese attenzione di | ... dikkatine | ifade | La lettera è indirizzata alla cortese attenzione del responsabile acquisti. | Mektup satın alma sorumlusunun dikkatine yazılmıştır.
 distinti saluti | saygılarımla | ifade | Restando in attesa di una vostra risposta, porgo distinti saluti. | Yanıtınızı beklerken saygılarımı sunarım.
-cordiali saluti | içten selamlarımla | ifade | Grazie ancora per la collaborazione e cordiali saluti da tutto l'ufficio. | İş birliğiniz için tekrar teşekkürler, bütün ofisten içten selamlar.
+voglia gradire i migliori saluti | en iyi dileklerimi kabul buyurun | ifade | Ringraziandola per l'attenzione, voglia gradire i migliori saluti. | İlginiz için teşekkür eder, en iyi dileklerimi kabul buyurmanızı rica ederim.
 in attesa di un cortese riscontro | nazik yanıtınızı bekleyerek | ifade | In attesa di un cortese riscontro, rimango a disposizione per chiarimenti. | Nazik yanıtınızı beklerken açıklamalar için hazırda bulunuyorum.
 con osservanza | hürmetlerimle | ifade | La lettera al prefetto si chiudeva con la formula con osservanza. | Valiye yazılan mektup "hürmetlerimle" kalıbıyla bitiyordu.
 la ringrazio anticipatamente | şimdiden teşekkür ederim | ifade | La ringrazio anticipatamente per l'attenzione che vorrà dedicarmi. | Bana ayıracağınız ilgi için şimdiden teşekkür ederim.
-resto a disposizione | hizmetinizdeyim, her zaman ulaşabilirsiniz | ifade | Per qualsiasi ulteriore informazione o chiarimento, resto a disposizione. | Her türlü ek bilgi veya açıklama için hizmetinizdeyim.
+le porgo i sensi della mia stima | en derin saygılarımı sunarım | ifade | Nella speranza di un suo riscontro, le porgo i sensi della mia stima. | Yanıtınızı umarak en derin saygılarımı sunarım.
 ## Resmî yazışma kalıpları
 in riferimento a | ... ile ilgili olarak | edat | In riferimento alla vostra email del tre marzo, vi comunichiamo quanto segue. | Üç mart tarihli e-postanızla ilgili olarak size şunları bildiririz.
 con la presente | işbu yazı ile | ifade | Con la presente si comunica la chiusura degli uffici per inventario. | İşbu yazı ile envanter nedeniyle dairelerin kapalı olacağı bildirilir.
@@ -39,7 +39,7 @@ facendo seguito a | ... devamı olarak | ifade | Facendo seguito alla nostra tel
 si comunica che | ... bildirilir | ifade | Si comunica che lo sportello resterà chiuso lunedì per lavori. | Gişenin pazartesi günü çalışma nedeniyle kapalı kalacağı bildirilir.
 si prega di | ... rica olunur | ifade | Si prega di non lasciare bagagli incustoditi nella sala d'attesa. | Bekleme salonunda bavulların sahipsiz bırakılmaması rica olunur.
 la Signoria Vostra | Zatıâliniz (çok resmî) | ifade | Si invita la Signoria Vostra a presentarsi presso i nostri uffici. | Zatıâlinizin bürolarımıza gelmesi rica olunur.
-in allegato | ekte | ifade | In allegato trova il modulo compilato e la ricevuta del pagamento. | Ekte doldurulmuş formu ve ödeme makbuzunu bulabilirsiniz.
+si trasmette in copia | ilişikte bir örneği gönderilmiştir | ifade | Si trasmette in copia il verbale della seduta del dodici maggio. | On iki mayıs oturumunun tutanağının bir örneği ilişikte gönderilmiştir.
 entro e non oltre | en geç | ifade | Il pagamento va effettuato entro e non oltre il quindici del mese. | Ödeme en geç ayın on beşine kadar yapılmalıdır.
 in data odierna | bugün itibarıyla | ifade | In data odierna è stata trasmessa la documentazione richiesta. | İstenen belgeler bugün itibarıyla iletildi.
 a stretto giro | çok kısa sürede | ifade | Vi daremo una risposta definitiva a stretto giro di posta. | Size çok kısa sürede kesin bir yanıt vereceğiz.
@@ -66,7 +66,7 @@ l'ufficio protocollo (e) | evrak kayıt bürosu | isim (e) | Consegni la domanda
 l'ente previdenziale (e) | sosyal güvenlik kurumu | isim (e) | L'ente previdenziale calcola la pensione in base ai contributi versati. | Sosyal güvenlik kurumu emekli maaşını ödenen primlere göre hesaplar.
 la soprintendenza | (kültür varlıklarını) koruma müdürlüğü | isim (d) | La soprintendenza ha bloccato i lavori dopo la scoperta di reperti antichi. | Koruma müdürlüğü antik buluntular keşfedilince çalışmaları durdurdu.
 ## Resmî belgeler
-la partita IVA | vergi numarası (serbest meslek, işletme) | isim (d) | Per lavorare come libero professionista bisogna aprire la partita IVA. | Serbest meslek sahibi olarak çalışmak için vergi numarası açtırmak gerekir.
+la carta d'identità elettronica | elektronik kimlik kartı | isim (d) | La carta d'identità elettronica si richiede in comune con un appuntamento. | Elektronik kimlik kartı belediyeden randevuyla istenir.
 il visto d'ingresso | giriş vizesi | isim (e) | Per alcuni paesi extraeuropei serve un visto d'ingresso. | Avrupa dışındaki bazı ülkelerden gelenler için giriş vizesi gerekir.
 lo stato di famiglia | aile nüfus kayıt örneği | isim (e) | Lo stato di famiglia indica tutte le persone residenti nella stessa abitazione. | Aile nüfus kayıt örneği aynı konutta ikamet eden herkesi gösterir.
 la visura camerale | ticaret sicil kaydı | isim (d) | Prima di firmare abbiamo controllato la visura camerale del fornitore. | İmzalamadan önce tedarikçinin ticaret sicil kaydını kontrol ettik.
@@ -96,7 +96,7 @@ l'esonero (e) | muafiyet (görevden) | isim (e) | Lo studente ha ottenuto l'eson
 l'esenzione (d) | muafiyet (ödemeden) | isim (d) | Gli anziani con basso reddito hanno diritto all'esenzione dal ticket sanitario. | Düşük gelirli yaşlıların sağlık katkı payından muafiyet hakkı var.
 la graduatoria | sıralama listesi | isim (d) | La graduatoria definitiva del concorso sarà pubblicata a dicembre. | Sınavın kesin sıralama listesi aralıkta yayımlanacak.
 la decadenza | (haktan) düşme | isim (d) | Il mancato pagamento comporta la decadenza dal beneficio. | Ödeme yapılmaması yardımdan düşmeye yol açar.
-il sollecito | hatırlatma, ihtar | isim (e) | Dopo tre solleciti l'ufficio ha finalmente risposto alla mia richiesta. | Üç hatırlatmanın ardından daire nihayet talebime yanıt verdi.
+il silenzio-assenso | zımni onay (yanıtsızlık onay sayılır) | isim (e) | Per il silenzio-assenso, se il comune non risponde in sessanta giorni, la domanda è accolta. | Zımni onay ilkesine göre belediye altmış günde yanıt vermezse başvuru kabul edilmiş sayılır.
 il diniego | ret (resmî) | isim (e) | Contro il diniego del permesso si può presentare ricorso al tribunale. | İznin reddine karşı mahkemeye başvurulabilir.
 ## Unvanlar ve hitaplar
 Sua Eccellenza | Ekselansları | ifade | Sua Eccellenza l'ambasciatore riceverà la delegazione domani alle dieci. | Ekselansları büyükelçi heyeti yarın saat onda kabul edecek.
