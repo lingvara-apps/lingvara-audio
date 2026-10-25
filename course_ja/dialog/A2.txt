@@ -1,0 +1,45 @@
+# DIALOG: İş, sağlık ve seyahat | Japonca A2: resmî ve samimi konuşmalar | Aiko | Omar
+## Ofiste sabah
+A | オマルさん、おはようございます。昨日の会議の資料、もう見ましたか。(Omaru-san, ohayō gozaimasu. Kinō no kaigi no shiryō, mō mimashita ka.) | Günaydın Omar. Dünkü toplantının dokümanlarına baktın mı?
+B | おはようございます。まだなんです。今朝、電車が遅れて遅刻しそうでした。(Ohayō gozaimasu. Mada nan desu. Kesa, densha ga okurete chikoku shisō deshita.) | Günaydın. Henüz bakmadım. Bu sabah tren gecikti, neredeyse geç kalıyordum.
+A | 大変でしたね。締め切りは金曜日までなので、大丈夫ですよ。(Taihen deshita ne. Shimekiri wa kin'yōbi made na node, daijōbu desu yo.) | Zor olmuş. Son teslim cuma, sorun yok.
+B | ありがとうございます。何か手伝えることはありますか。(Arigatō gozaimasu. Nanika tetsudaeru koto wa arimasu ka.) | Teşekkürler. Yardım edebileceğim bir şey var mı?
+A | じゃあ、この書類をコピーしてもらえますか。(Jā, kono shorui o kopī shite moraemasu ka.) | O zaman bu evrakı fotokopi çekebilir misin?
+B | はい、何部必要ですか。(Hai, nanbu hitsuyō desu ka.) | Tabii, kaç kopya gerekiyor?
+A | 十部お願いします。午後の打ち合わせで使います。(Jūbu onegaishimasu. Gogo no uchiawase de tsukaimasu.) | On kopya lütfen. Öğleden sonraki görüşmede kullanacağız.
+B | 承知しました。すぐやります。(Shōchi shimashita. Sugu yarimasu.) | Anlaşıldı. Hemen yapıyorum.
+A | 助かります。終わったら、メールで連絡してください。(Tasukarimasu. Owattara, mēru de renraku shite kudasai.) | Çok iyi olur. Bitince bana e-postayla haber ver.
+B | わかりました。お昼は一緒に食べませんか。(Wakarimashita. O-hiru wa issho ni tabemasen ka.) | Tamam. Öğle yemeğini birlikte yiyelim mi?
+## Hastayım, gelemiyorum
+B | もしもし、愛子さん。オマルです。(Moshimoshi, Aiko-san. Omaru desu.) | Alo Aiko, ben Omar.
+A | あ、オマルさん。声が変ですね。どうしたんですか。(A, Omaru-san. Koe ga hen desu ne. Dō shita n desu ka.) | Ah Omar. Sesin tuhaf. Ne oldu?
+B | 昨日の夜から熱があって、喉も痛いんです。(Kinō no yoru kara netsu ga atte, nodo mo itai n desu.) | Dün geceden beri ateşim var, boğazım da ağrıyor.
+A | それは大変。インフルエンザかもしれませんね。(Sore wa taihen. Infuruenza kamo shiremasen ne.) | Çok kötü. Grip olabilirsin.
+B | ええ、それで今日は会社を休みたいんですが。(Ē, sorede kyō wa kaisha o yasumitai n desu ga.) | Evet, o yüzden bugün işe gelmesem diyorum.
+A | もちろんです。部長には私から伝えておきます。(Mochiron desu. Buchō ni wa watashi kara tsutaete okimasu.) | Elbette. Bölüm müdürüne ben iletirim.
+B | すみません。病院に行ってから、また連絡します。(Sumimasen. Byōin ni itte kara, mata renraku shimasu.) | Kusura bakma. Hastaneye gittikten sonra yine haber veririm.
+A | 無理しないで、ゆっくり休んでください。(Muri shinaide, yukkuri yasunde kudasai.) | Kendini zorlama, iyice dinlen.
+B | ありがとうございます。助かります。(Arigatō gozaimasu. Tasukarimasu.) | Çok teşekkürler. Çok yardımcı oldun.
+A | お大事に。(Odaiji ni.) | Geçmiş olsun.
+## Kyoto gezisi planı
+A | ねえ、来月の連休、何か予定ある？(Nē, raigetsu no renkyū, nanika yotei aru?) | Baksana, gelecek ayki uzun tatilde bir planın var mı?
+B | 特にないよ。どこか行きたいね。(Toku ni nai yo. Dokoka ikitai ne.) | Özel bir planım yok. Bir yerlere gitmek isterim.
+A | 京都はどう？紅葉がきれいな季節だよ。(Kyōto wa dō? Kōyō ga kirei na kisetsu da yo.) | Kyoto nasıl? Sonbahar yapraklarının en güzel olduğu mevsim.
+B | いいね！でも、連休だからホテルは混んでいるかな。(Ii ne! Demo, renkyū dakara hoteru wa konde iru kana.) | Harika! Ama uzun tatil olduğu için oteller dolu olabilir mi acaba?
+A | 早めに予約すれば大丈夫だと思う。旅館に泊まってみたいな。(Hayame ni yoyaku sureba daijōbu da to omou. Ryokan ni tomatte mitai na.) | Erkenden rezervasyon yaparsak sorun olmaz bence. Bir ryokan'da kalmak istiyorum.
+B | 賛成！新幹線のチケットは僕が調べるよ。(Sansei! Shinkansen no chiketto wa boku ga shiraberu yo.) | Katılıyorum! Hızlı tren biletlerine ben bakarım.
+A | ありがとう。じゃあ、私は行きたいお寺のリストを作るね。(Arigatō. Jā, watashi wa ikitai o-tera no risuto o tsukuru ne.) | Teşekkürler. O zaman ben de gitmek istediğimiz tapınakların listesini yaparım.
+B | 着物を着て写真を撮るのはどう？(Kimono o kite shashin o toru no wa dō?) | Kimono giyip fotoğraf çekmeye ne dersin?
+A | 楽しそう！絶対やろう。(Tanoshisō! Zettai yarō.) | Çok eğlenceli olur! Kesinlikle yapalım.
+B | よし、決まりだね。楽しみだな。(Yoshi, kimari da ne. Tanoshimi da na.) | Tamam, karar verdik. Sabırsızlanıyorum.
+## Ryokan'da
+B | すみません、予約したオマルです。チェックインをお願いします。(Sumimasen, yoyaku shita Omaru desu. Chekkuin o onegaishimasu.) | Affedersiniz, rezervasyonlu Omar. Giriş yapmak istiyoruz.
+A | わあ、この旅館、すごく素敵だね。畳の部屋だよ。(Wā, kono ryokan, sugoku suteki da ne. Tatami no heya da yo.) | Vay, bu ryokan çok hoş. Tatamili oda.
+B | 窓から庭が見えるね。静かで居心地がいい。(Mado kara niwa ga mieru ne. Shizuka de igokochi ga ii.) | Pencereden bahçe görünüyor. Sakin ve çok rahat.
+A | 晩ご飯は七時からだって。その前に温泉に入ろうか。(Bangohan wa shichiji kara datte. Sono mae ni onsen ni hairō ka.) | Akşam yemeği yedideymiş. Ondan önce kaplıcaya girelim mi?
+B | いいね。浴衣はどこにあるのかな。(Ii ne. Yukata wa doko ni aru no kana.) | Olur. Yukatalar nerede acaba?
+A | 押し入れの中にあったよ。サイズもちょうどいい。(Oshiire no naka ni atta yo. Saizu mo chōdo ii.) | Dolabın içindeymiş. Bedeni de tam.
+B | 明日は朝早く起きて、お寺に行こう。(Ashita wa asa hayaku okite, o-tera ni ikō.) | Yarın sabah erkenden kalkıp tapınağa gidelim.
+A | うん。混む前に行ったほうがいいね。(Un. Komu mae ni itta hō ga ii ne.) | Evet. Kalabalık olmadan gitsek iyi olur.
+B | 本当にいい旅館だね。誘ってくれてありがとう。(Hontō ni ii ryokan da ne. Sasotte kurete arigatō.) | Gerçekten çok güzel bir ryokan. Beni çağırdığın için teşekkürler.
+A | どういたしまして。いい思い出になりそうだね。(Dōitashimashite. Ii omoide ni narisō da ne.) | Rica ederim. Güzel bir anı olacak gibi.
