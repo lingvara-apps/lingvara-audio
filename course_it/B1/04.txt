@@ -39,7 +39,7 @@ l'hashtag (e) | etiket (hashtag) | isim (e) | Usa l'hashtag del festival per con
 virale | viral, hızla yayılan | sıfat | Il video del gatto che suona il piano è diventato virale. | Piyano çalan kedinin videosu viral oldu.
 il contenuto | içerik | isim (e) | Pubblica contenuti sulla cucina siciliana ogni settimana. | Her hafta Sicilya mutfağıyla ilgili içerik paylaşıyor.
 taggare | etiketlemek | fiil | Non taggarmi in quella foto, sono venuto malissimo! | O fotoğrafta beni etiketleme, çok kötü çıkmışım!
-la piattaforma | platform | isim (d) | Questa piattaforma permette di seguire corsi online gratuiti. | Bu platform ücretsiz çevrimiçi kurslar izlemeyi sağlıyor.
+l'iscritto (e) | abone, üye | isim (e) | Il canale di cucina di Yuki ha ventimila iscritti. | Yuki'nin yemek kanalının yirmi bin abonesi var.
 la condivisione | paylaşım | isim (d) | La condivisione di dati personali online può essere pericolosa. | Kişisel verilerin internette paylaşılması tehlikeli olabilir.
 il meme | mim, caps | isim (e) | Mi ha mandato un meme divertentissimo sugli esami. | Bana sınavlarla ilgili çok komik bir caps gönderdi.
 segnalare | bildirmek, şikâyet etmek | fiil | Ho segnalato il commento offensivo agli amministratori della pagina. | Saldırgan yorumu sayfa yöneticilerine bildirdim.
@@ -47,7 +47,7 @@ segnalare | bildirmek, şikâyet etmek | fiil | Ho segnalato il commento offensi
 l'informazione (d) | bilgi; haber alma | isim (d) | Per avere informazioni corrette bisogna leggere fonti diverse. | Doğru bilgi edinmek için farklı kaynaklar okumak gerekir.
 informarsi | bilgi edinmek | fiil · dönüşlü | Prima di votare è importante informarsi bene sui programmi. | Oy vermeden önce programlar hakkında iyi bilgi edinmek önemli.
 la bufala | asılsız haber, palavra | isim (d) | Questa storia sui social è una bufala, non è vera. | Sosyal medyadaki bu hikâye asılsız, doğru değil.
-la disinformazione | dezenformasyon | isim (d) | La disinformazione corre veloce sui social network. | Dezenformasyon sosyal ağlarda hızla yayılıyor.
+ingannare | aldatmak, kandırmak | fiil | Certi titoli sono scritti apposta per ingannare i lettori. | Bazı başlıklar okurları kandırmak için bilerek yazılıyor.
 esagerare | abartmak | fiil | Certi giornali esagerano sempre i problemi per vendere di più. | Bazı gazeteler daha çok satmak için sorunları hep abartıyor.
 la censura | sansür | isim (d) | In alcuni paesi la censura controlla anche internet. | Bazı ülkelerde sansür interneti de denetliyor.
 smentire | yalanlamak | fiil | Il comune ha smentito la notizia della chiusura del museo. | Belediye müzenin kapanacağı haberini yalanladı.
@@ -83,7 +83,7 @@ il microfono | mikrofon | isim (e) | Avvicinati al microfono, così ti sentono t
 il blog | blog | isim (e) | Nel suo blog racconta i viaggi in bicicletta per l'Italia. | Blogunda İtalya'daki bisiklet yolculuklarını anlatıyor.
 la newsletter | bülten (e-posta) | isim (d) | Mi sono iscritto alla newsletter del museo per gli eventi. | Etkinlikler için müzenin e-posta bültenine kaydoldum.
 abbonarsi | abone olmak | fiil · dönüşlü | Mi sono abbonata alla versione digitale del quotidiano. | Gazetenin dijital sürümüne abone oldum.
-l'algoritmo (e) | algoritma | isim (e) | L'algoritmo ti mostra solo i contenuti che ti piacciono. | Algoritma sana sadece sevdiğin içerikleri gösteriyor.
+l'audiolibro (e) | sesli kitap | isim (e) | In macchina ascolto un audiolibro invece della radio. | Arabada radyo yerine sesli kitap dinliyorum.
 la visualizzazione | görüntülenme | isim (d) | Il suo ultimo video ha superato un milione di visualizzazioni. | Son videosu bir milyon görüntülenmeyi geçti.
 scorrere (scorso) | kaydırmak; akmak | fiil · düzensiz | Passo troppo tempo a scorrere le notizie sul telefono. | Telefonda haberleri kaydırarak çok fazla zaman geçiriyorum.
 l'edizione (d) | baskı; sayı; bülten | isim (d) | L'edizione serale del telegiornale inizia alle otto. | Haber bülteninin akşam baskısı saat sekizde başlıyor.

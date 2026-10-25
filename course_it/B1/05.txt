@@ -1,0 +1,111 @@
+# UNIT: Sağlık ve psikoloji | Hastalık, tedavi, ruh sağlığı
+## Hastalıklar
+la malattia | hastalık | isim (d) | È una malattia rara, ma si può curare bene. | Nadir bir hastalık ama iyi tedavi edilebiliyor.
+l'infezione (d) | enfeksiyon | isim (d) | Il medico mi ha dato un antibiotico per l'infezione. | Doktor enfeksiyon için bana antibiyotik verdi.
+il diabete | şeker hastalığı, diyabet | isim (e) | Mio nonno ha il diabete e non mangia dolci. | Dedemde şeker hastalığı var, tatlı yemiyor.
+l'asma (d) | astım | isim (d) | Chi soffre d'asma deve evitare il fumo e la polvere. | Astımı olanlar sigara dumanından ve tozdan kaçınmalı.
+l'infarto (e) | kalp krizi | isim (e) | Dopo l'infarto ha cambiato completamente stile di vita. | Kalp krizinden sonra yaşam tarzını tamamen değiştirdi.
+il tumore | tümör | isim (e) | Per fortuna il tumore è stato scoperto in tempo. | Neyse ki tümör zamanında fark edildi.
+la bronchite | bronşit | isim (d) | Ogni inverno mia figlia prende la bronchite. | Kızım her kış bronşite yakalanıyor.
+contagioso | bulaşıcı | sıfat | Resta a casa, l'influenza è molto contagiosa nei primi giorni. | Evde kal, grip ilk günlerde çok bulaşıcı.
+cronico | kronik, süregen | sıfat | Soffre di un mal di schiena cronico da anni. | Yıllardır kronik bir sırt ağrısı çekiyor.
+l'epidemia (d) | salgın | isim (d) | Nel Seicento un'epidemia di peste colpì Milano. | On yedinci yüzyılda bir veba salgını Milano'yu vurdu.
+## Belirtiler
+la stanchezza | yorgunluk | isim (d) | Da settimane sento una grande stanchezza anche al mattino. | Haftalardır sabahları bile büyük bir yorgunluk hissediyorum.
+l'insonnia (d) | uykusuzluk | isim (d) | Lo stress mi causa insonnia prima degli esami. | Stres sınavlardan önce bende uykusuzluğa yol açıyor.
+il brivido | titreme, ürperti | isim (e) | Ho la febbre alta e ho i brividi di freddo. | Ateşim yüksek ve soğuktan titriyorum.
+il crampo | kramp | isim (e) | Durante la partita mi è venuto un crampo alla gamba. | Maç sırasında bacağıma kramp girdi.
+il gonfiore | şişlik | isim (e) | Metti del ghiaccio per ridurre il gonfiore alla caviglia. | Ayak bileğindeki şişliği azaltmak için buz koy.
+l'infiammazione (d) | iltihap | isim (d) | Il dentista dice che ho un'infiammazione alla gengiva. | Diş hekimi diş etimde iltihap olduğunu söylüyor.
+la vertigine | baş dönmesi | isim (d) | Quando mi alzo velocemente ho spesso le vertigini. | Hızlı kalktığımda sık sık başım dönüyor.
+peggiorare | kötüleşmek | fiil | Se la tosse peggiora, torna subito dal medico. | Öksürük kötüleşirse hemen doktora geri dön.
+lo starnuto | hapşırık | isim (e) | In primavera, per l'allergia, faccio mille starnuti al giorno. | İlkbaharda alerji yüzünden günde bin kez hapşırıyorum.
+debole | zayıf, güçsüz | sıfat | Dopo l'influenza mi sento ancora un po' debole. | Gripten sonra kendimi hâlâ biraz güçsüz hissediyorum.
+## Tedavi
+la terapia | tedavi, terapi | isim (d) | La terapia dura tre settimane e poi facciamo un controllo. | Tedavi üç hafta sürüyor, sonra kontrol yapıyoruz.
+il trattamento | tedavi, işlem | isim (e) | Questo trattamento funziona bene per i problemi della pelle. | Bu tedavi cilt sorunları için iyi işliyor.
+il vaccino | aşı | isim (e) | Il vaccino contro l'influenza si fa in autunno. | Grip aşısı sonbaharda yapılır.
+vaccinarsi | aşı olmak | fiil · dönüşlü | Prima del viaggio in Africa mi sono vaccinato. | Afrika yolculuğundan önce aşı oldum.
+la dose | doz | isim (d) | Non superare la dose indicata dal medico. | Doktorun belirttiği dozu aşma.
+l'effetto collaterale (e) | yan etki | isim (e) | Questo farmaco può avere effetti collaterali come la nausea. | Bu ilacın bulantı gibi yan etkileri olabilir.
+la convalescenza | nekahat, iyileşme dönemi | isim (d) | Dopo l'operazione serve un mese di convalescenza. | Ameliyattan sonra bir aylık iyileşme dönemi gerekiyor.
+la riabilitazione | rehabilitasyon | isim (d) | Dopo l'incidente ha fatto sei mesi di riabilitazione. | Kazadan sonra altı ay rehabilitasyon gördü.
+il ricovero | hastaneye yatış | isim (e) | Il ricovero in ospedale è durato solo due giorni. | Hastanede yatış sadece iki gün sürdü.
+l'anestesia (d) | anestezi, uyuşturma | isim (d) | Il dentista mi ha fatto l'anestesia prima di togliere il dente. | Diş hekimi dişi çekmeden önce bana uyuşturma yaptı.
+## Hastanede
+la sala operatoria | ameliyathane | isim (d) | Il paziente è in sala operatoria da tre ore. | Hasta üç saattir ameliyathanede.
+la barella | sedye | isim (d) | Hanno portato il ferito in ospedale su una barella. | Yaralıyı sedyeyle hastaneye götürdüler.
+la flebo | serum | isim (d) | In ospedale gli hanno messo una flebo per due giorni. | Hastanede ona iki gün serum taktılar.
+il prelievo | kan alma | isim (e) | Per il prelievo del sangue bisogna essere a digiuno. | Kan alımı için aç karnına olmak gerekiyor.
+la cartella clinica | hasta dosyası | isim (d) | Il medico legge la cartella clinica prima della visita. | Doktor muayeneden önce hasta dosyasını okuyor.
+il primario | başhekim, servis şefi | isim (e) | Il primario di cardiologia passa in reparto ogni mattina. | Kardiyoloji servis şefi her sabah servise uğrar.
+l'ecografia (d) | ultrason | isim (d) | All'ecografia hanno visto che aspetta due gemelli. | Ultrasonda ikiz beklediğini gördüler.
+la sedia a rotelle | tekerlekli sandalye | isim (d) | Dopo l'operazione si muove ancora con la sedia a rotelle. | Ameliyattan sonra hâlâ tekerlekli sandalyeyle hareket ediyor.
+la stampella | koltuk değneği | isim (d) | Con la gamba rotta cammino con le stampelle. | Kırık bacakla koltuk değnekleriyle yürüyorum.
+il gesso | alçı; tebeşir | isim (e) | Ho il braccio nel gesso per un mese. | Bir ay boyunca kolum alçıda.
+## Yaralanmalar
+la frattura | kırık | isim (d) | La radiografia mostra una piccola frattura al polso. | Röntgen bilekte küçük bir kırık gösteriyor.
+la distorsione | burkulma | isim (d) | Giocando a calcio mi sono fatto una distorsione alla caviglia. | Futbol oynarken ayak bileğimi burktum.
+slogarsi | çıkmak (eklem), burkmak | fiil · dönüşlü | L'anno scorso, sciando sulle Dolomiti, si è slogato una spalla. | Geçen yıl Dolomitler'de kayak yaparken omzu çıktı.
+il livido | morluk | isim (e) | Ho un livido sulla gamba, ma non ricordo come. | Bacağımda bir morluk var ama nasıl olduğunu hatırlamıyorum.
+la cicatrice | yara izi | isim (d) | Ha una piccola cicatrice sopra l'occhio sinistro. | Sol gözünün üstünde küçük bir yara izi var.
+i punti | dikiş (yara) | isim (e) | Al pronto soccorso mi hanno dato cinque punti sul dito. | Acilde parmağıma beş dikiş attılar.
+la scottatura | yanık (güneş, sıcak) | isim (d) | Dopo una giornata al mare ho una brutta scottatura. | Denizde geçen bir günün ardından kötü bir güneş yanığım var.
+scottarsi | yanmak (sıcakla, güneşle) | fiil · dönüşlü | Attento a non scottarti con la pentola bollente! | Sıcak tencereyle elini yakmamaya dikkat et!
+la puntura | sokma (böcek); iğne | isim (d) | Una puntura d'ape può essere pericolosa per chi è allergico. | Arı sokması alerjisi olanlar için tehlikeli olabilir.
+soccorrere (soccorso) | yardımına koşmak, kurtarmak | fiil · düzensiz | Due passanti hanno soccorso l'uomo caduto dalla bici. | İki yoldan geçen bisikletten düşen adamın yardımına koştu.
+## Ruh sağlığı
+la salute mentale | ruh sağlığı | isim (d) | Oggi si parla di più della salute mentale dei giovani. | Bugün gençlerin ruh sağlığından daha çok söz ediliyor.
+la depressione | depresyon | isim (d) | Ha sofferto di depressione dopo la perdita del lavoro. | İşini kaybettikten sonra depresyon geçirdi.
+depresso | depresif, bunalımlı | sıfat | Da quando si è trasferito è un po' depresso. | Taşındığından beri biraz bunalımda.
+l'esaurimento nervoso (e) | sinir krizi, tükenmişlik | isim (e) | Per il troppo lavoro ha avuto un esaurimento nervoso. | Aşırı çalışmaktan sinir krizi geçirdi.
+il disturbo | rahatsızlık, bozukluk | isim (e) | I disturbi del sonno sono molto comuni tra gli studenti. | Uyku bozuklukları öğrenciler arasında çok yaygın.
+l'attacco di panico (e) | panik atak | isim (e) | In metropolitana ha avuto un attacco di panico. | Metroda panik atak geçirdi.
+lo psichiatra | psikiyatrist | isim (e) | Lo psichiatra le ha prescritto una cura per l'ansia. | Psikiyatrist ona kaygı için bir tedavi yazdı.
+lo psicoterapeuta | psikoterapist | isim (e) | Vado da uno psicoterapeuta una volta alla settimana. | Haftada bir kez bir psikoterapiste gidiyorum.
+la fobia | fobi | isim (d) | Ha la fobia dei ragni e non entra in cantina. | Örümcek fobisi var, mahzene girmiyor.
+l'autostima (d) | özgüven, öz saygı | isim (d) | Lo sport l'ha aiutata ad avere più autostima. | Spor onun daha fazla özgüven kazanmasına yardım etti.
+## Zihin ve duygular
+la mente | zihin, akıl | isim (d) | Leggere tiene la mente attiva anche da anziani. | Okumak yaşlılıkta bile zihni canlı tutar.
+la motivazione | motivasyon | isim (d) | Mi manca la motivazione per andare in palestra. | Spor salonuna gitmek için motivasyonum eksik.
+l'emozione (d) | duygu, heyecan | isim (d) | È difficile parlare delle proprie emozioni con gli altri. | Kendi duygularını başkalarıyla konuşmak zor.
+la reazione | tepki | isim (d) | La sua reazione alla notizia mi ha sorpreso. | Habere verdiği tepki beni şaşırttı.
+reagire | tepki vermek | fiil | Non sapevo come reagire alle sue parole. | Sözlerine nasıl tepki vereceğimi bilmiyordum.
+affrontare | yüzleşmek, üstesinden gelmeye çalışmak | fiil | Bisogna affrontare i problemi invece di scappare. | Kaçmak yerine sorunlarla yüzleşmek gerekir.
+sopportare | katlanmak, tahammül etmek | fiil | Non sopporto più il rumore dei vicini di notte. | Komşuların gece gürültüsüne artık tahammül edemiyorum.
+elaborare | işlemek; hazırlamak | fiil | Ci vuole tempo per elaborare un lutto. | Bir yası işlemek zaman alır.
+la consapevolezza | farkındalık | isim (d) | La meditazione aumenta la consapevolezza di sé. | Meditasyon öz farkındalığı artırır.
+il benessere | iyi oluş, refah | isim (e) | Camminare ogni giorno è importante per il benessere psicologico. | Her gün yürümek psikolojik iyi oluş için önemli.
+## Sağlıklı yaşam
+lo stile di vita | yaşam tarzı | isim (e) | Uno stile di vita sano allunga la vita. | Sağlıklı bir yaşam tarzı ömrü uzatır.
+la prevenzione | önleme, koruyucu hekimlik | isim (d) | La prevenzione è la cura migliore per molte malattie. | Önleme birçok hastalık için en iyi tedavidir.
+prevenire (prevenuto) | önlemek | fiil · düzensiz | Lavarsi spesso le mani aiuta a prevenire le infezioni. | Elleri sık yıkamak enfeksiyonları önlemeye yardımcı olur.
+sedentario | hareketsiz | sıfat | Chi fa un lavoro sedentario dovrebbe camminare di più. | Hareketsiz bir iş yapan kişi daha çok yürümeli.
+l'attività fisica (d) | fiziksel aktivite | isim (d) | I medici consigliano mezz'ora di attività fisica al giorno. | Doktorlar günde yarım saat fiziksel aktivite öneriyor.
+il sovrappeso | fazla kilo | isim (e) | Il medico dice che sono un po' in sovrappeso. | Doktor biraz fazla kilolu olduğumu söylüyor.
+l'obesità (d) | obezite | isim (d) | L'obesità infantile è un problema in molti paesi. | Çocukluk çağı obezitesi birçok ülkede bir sorun.
+il colesterolo | kolesterol | isim (e) | Con l'olio d'oliva tengo basso il colesterolo. | Zeytinyağıyla kolesterolümü düşük tutuyorum.
+equilibrato | dengeli | sıfat | La dieta mediterranea è varia ed equilibrata. | Akdeniz diyeti çeşitli ve dengelidir.
+la dipendenza | bağımlılık | isim (d) | La dipendenza dal telefono è sempre più diffusa. | Telefon bağımlılığı giderek yaygınlaşıyor.
+## Sağlık sistemi
+il servizio sanitario | sağlık hizmeti (sistemi) | isim (e) | In Italia il servizio sanitario nazionale è pubblico. | İtalya'da ulusal sağlık sistemi kamuya aittir.
+il ticket | katkı payı (sağlık) | isim (e) | Per la visita specialistica ho pagato un ticket di trenta euro. | Uzman muayenesi için otuz euro katkı payı ödedim.
+la guardia medica | nöbetçi doktor | isim (d) | Di notte puoi chiamare la guardia medica. | Gece nöbetçi doktoru arayabilirsin.
+la lista d'attesa | bekleme listesi | isim (d) | Per la risonanza c'è una lista d'attesa di due mesi. | MR için iki aylık bir bekleme listesi var.
+l'impegnativa (d) | sevk kâğıdı | isim (d) | Il medico di base mi ha fatto l'impegnativa per il cardiologo. | Aile hekimim kardiyoloğa sevk kâğıdımı yazdı.
+la mutua | sağlık sigortası (halk dilinde) | isim (d) | Questo farmaco non è passato dalla mutua, costa tanto. | Bu ilaç sigorta kapsamında değil, çok pahalı.
+la sanità | sağlık (sektörü) | isim (d) | Il governo ha promesso più soldi per la sanità pubblica. | Hükümet kamu sağlığına daha fazla para sözü verdi.
+la farmacia di turno | nöbetçi eczane | isim (d) | Di domenica cerco sempre la farmacia di turno su internet. | Pazar günleri nöbetçi eczaneyi hep internette ararım.
+il bugiardino | prospektüs (ilaç) | isim (e) | Prima di prendere la medicina leggi bene il bugiardino. | İlacı almadan önce prospektüsü iyice oku.
+donare il sangue | kan bağışlamak | ifade | Mio padre va a donare il sangue due volte all'anno. | Babam yılda iki kez kan bağışlamaya gidiyor.
+## Uyku ve dinlenme
+l'incubo (e) | kâbus | isim (e) | Stanotte ho fatto un incubo terribile e mi sono svegliato. | Bu gece korkunç bir kâbus gördüm ve uyandım.
+russare | horlamak | fiil | Mio marito russa così forte che non riesco a dormire. | Kocam o kadar yüksek sesle horluyor ki uyuyamıyorum.
+il sonnifero | uyku ilacı | isim (e) | Non prendere sonniferi senza parlare con il medico. | Doktorla konuşmadan uyku ilacı alma.
+il pisolino | şekerleme, kısa uyku | isim (e) | Dopo pranzo il nonno fa sempre un pisolino sul divano. | Öğle yemeğinden sonra dedem hep kanepede şekerleme yapar.
+la meditazione | meditasyon | isim (d) | Faccio dieci minuti di meditazione prima di andare al lavoro. | İşe gitmeden önce on dakika meditasyon yapıyorum.
+respirare | nefes almak | fiil | In montagna, lontano dal traffico, si respira un'aria pulitissima. | Dağda, trafikten uzakta, tertemiz bir hava soluyorsun.
+il respiro | nefes | isim (e) | Fai un respiro profondo e conta fino a dieci. | Derin bir nefes al ve ona kadar say.
+il battito cardiaco | kalp atışı | isim (e) | Dopo la corsa il battito cardiaco è molto veloce. | Koşudan sonra kalp atışı çok hızlı.
+il riposo | dinlenme, istirahat | isim (e) | Il medico mi ha ordinato tre giorni di riposo assoluto. | Doktor bana üç gün tam istirahat verdi.
+riposante | dinlendirici | sıfat | Una settimana in montagna è stata davvero riposante. | Dağda bir hafta gerçekten dinlendirici oldu.
