@@ -1,135 +1,135 @@
-# UNIT: Portekiz alfabesi | 26 harf, til ve aksan işaretleri
-## A – I
-A a | a — "araba"daki a | harf · sesli | avião | uçak
-B b | b — "baba"daki b | harf · ünsüz | banana | muz
-C c | a, o, u önünde k; e, i önünde s | harf · ünsüz | carro | araba
-Ç ç | ç — "çay"daki ç; c'nin altı çengelli hali | harf · ünsüz | maçã | elma
-D d | d — "dede"deki d | harf · ünsüz | dado | zar
-E e | e — açık veya kapalı e | harf · sesli | estrela | yıldız
-F f | f — "fil"deki f | harf · ünsüz | foca | fok
-G g | a, o, u önünde g; e, i önünde j | harf · ünsüz | gato | kedi
-H h | kelime başında sessizdir | harf · ünsüz | hora | saat
-I i | i — "iki"deki i | harf · sesli | igreja | kilise
-## J – R
-J j | j — "jandarma"daki j | harf · ünsüz | janela | pencere
-K k | k — yabancı kelimelerde | harf · ünsüz | koala | koala
-L l | l — kelime sonunda u gibi okunur | harf · ünsüz | lua | ay
-M m | m — "masa"daki m | harf · ünsüz | mala | bavul
-N n | n — "nar"daki n | harf · ünsüz | navio | gemi
-O o | o — açık veya kapalı o | harf · sesli | ovo | yumurta
-P p | p — "para"daki p | harf · ünsüz | pato | ördek
-Q q | k — her zaman "qu" ile yazılır | harf · ünsüz | quadro | tablo
-R r | hırıltılı h veya tek vuruşlu r | harf · ünsüz | rádio | radyo
-S s | s — kelime başında s, aralarda z | harf · ünsüz | sol | güneş
-## S – Z ve özel harfler
-T t | t — "tas"taki t | harf · ünsüz | trem | tren
-U u | u — "uzun"daki u | harf · sesli | uva | üzüm
-V v | v — "vazo"daki v | harf · ünsüz | vaca | inek
-W w | yabancı kelimelerde v veya u | harf · ünsüz | wafer | gofret
-X x | ş, ks, z veya s sesleri | harf · ünsüz | xícara | fincan
-Y y | i sesi verir | harf · sesli | yak | yak
-Z z | z — "zafer"deki z | harf · ünsüz | zebra | zebra
-Ã ã | genizcil a sesi, til işareti | harf · sesli | ã | ã harfi
-Õ õ | genizcil o sesi | harf · sesli | õ | õ harfi
-Ç ç | ç engelli harf özeti | harf · ünsüz | ação | eylem
-# UNIT: Zor sesler ve ekler | Nazal sesler, çatı, lh ve nh
-## Nazal sesler ve lh
-am | am — genizcil an sesi | ses | lâmpada | lamba
-an | an — genizcil an sesi | ses | anjo | melek
-em | em — genizcil en sesi | ses | tempo | zaman
-en | en — genizcil en sesi | ses | pente | tarak
-im | im — genizcil in sesi | ses | limão | limon
-in | in — genizcil in sesi | ses | inverno | kış
-om | om — genizcil om sesi | ses | pombo | güvercin
-on | on — genizcil on sesi | ses | onda | dalga
-um | um — genizcil um sesi | ses | umbigo | göbek
-un | un — genizcil un sesi | ses | untar | yağlamak
-## Nh, lh ve çatı sesleri
-lh | ly — "milyon"daki ly sesi | ses | olho | göz
-nh | ny — "künye"deki ny sesi | ses | ninho | yuva
-ss | s — sert s sesi | ses | osso | kemik
-rr | hırıltılı çift r sesi | ses | carro | araba
-ch | ş — "şaşkın"daki ş sesi | ses | chuva | yağmur
-ão | ao — genizcil ão sesi | ses | pão | ekmek
-ões | oens — çoğul genizcil ses | ses | aviões | uçaklar
-ães | aens — çoğul genizcil ses | ses | cães | köpekler
-ui | uy — hızlı u-i birleşimi | ses | muito | çok
-ei | ey — hızlı e-i birleşimi | ses | leite | süt
-## Çift sesler ve vurgular
-au | av — hızlı a-u birleşimi | ses | pau | sopa
-eu | ev — hızlı e-u birleşimi | ses | meu | benim
-oi | oy — hızlı o-i birleşimi | ses | boi | öküz
-ou | o — kapalı o sesi | ses | sou | ben (im)
-ia | ya — hızlı i-a birleşimi | ses | pia | evye
-ie | ye — hızlı i-e birleşimi | ses | diego | diago
-io | yo — hızlı i-o birleşimi | ses | pio | cıvıltı
-ua | va — hızlı u-a birleşimi | ses | gua | su (eki)
-ue | ve — hızlı u-e birleşimi | ses | régua | cetvel
-uo | vo — hızlı u-o birleşimi | ses | árduo | çetin
-# UNIT: İlk kelimeler | Sayılar, renkler ve temel nesneler
-## Sayılar bir – on
-1 | bir | sayı | um | bir
-2 | iki | sayı | dois | iki
-3 | üç | sayı | três | üç
-4 | dört | sayı | quatro | dört
-5 | beş | sayı | cinco | beş
-6 | altı | sayı | seis | altı
-7 | yedi | sayı | sete | yedi
-8 | sekiz | sayı | oito | sekiz
-9 | dokuz | sayı | nove | dokuz
-10 | on | sayı | dez | on
-## Renkler ve doğa
-vermelhi | kırmızı | sıfat | vermelho | kırmızı
-azul | mavi | sıfat | azul | mavi
-amarela | sarı | sıfat | amarelo | sarı
-verde | yeşil | sıfat | verde | yeşil
-preto | siyah | sıfat | preto | siyah
-branco | beyaz | sıfat | branco | beyaz
-marrom | kahverengi | sıfat | marrom | kahverengi
-rosa | pembe | sıfat | rosa | pembe
-sol | güneş | isim (e) | sol | güneş
-lua | ay | isim (d) | lua | ay
-## Temel ev eşyaları
-cadeira | sandalye | isim (d) | cadeira | sandalye
-mesa | masa | isim (d) | mesa | masa
-porta | kapı | isim (d) | porta | kapı
-janela | pencere | isim (d) | janela | pencere
-livro | kitap | isim (e) | livro | kitap
-cadernos | defter | isim (e) | caderno | defter
-caneta | tükenmez kalem | isim (d) | caneta | kalem
-lápis | kurşun kalem | isim (e) | lápis | kurşun kalem
-papel | kağıt | isim (e) | papel | kağıt
-telefone | telefon | isim (e) | telefone | telefon
-## Hayvanlar ve meyveler
-gato | kedi | isim (e) | gato | kedi
-cão | köpek | isim (e) | cão | köpek
-passaro | kuş | isim (e) | pássaro | kuş
-peixe | balık | isim (e) | peixe | balık
-maçã | elma | isim (d) | maçã | elma
-banana | muz | isim (d) | banana | muz
-laranja | portakal | isim (d) | laranja | portakal
-limão | limon | isim (e) | limão | limon
-morango | çilek | isim (e) | morango | çilek
-uva | üzüm | isim (d) | uva | üzüm
-## Günlük basit nesneler
-chapéu | şapka | isim (e) | chapéu | şapka
-camisa | gömlek | isim (d) | camisa | gömlek
-calça | pantolon | isim (d) | calça | pantolon
-sapato | ayakkabı | isim (e) | sapato | ayakkabı
-bolsa | çanta | isim (d) | bolsa | çanta
-relojo | saat | isim (e) | relógio | saat
-chave | anahtar | isim (d) | chave | anahtar
-óculos | gözlük | isim (çoğul) | óculos | gözlük
-anel | yüzük | isim (e) | anel | yüzük
-brinco | küpe | isim (e) | brinco | küpe
-## Ekstra temel nesneler
-caneca | kupa | isim (d) | caneca | kupa
-prato | tabak | isim (e) | prato | tabak
-garfo | çatal | isim (e) | garfo | çatal
-faca | bıçak | isim (d) | faca | bıçak
-colher | kaşık | isim (d) | colher | kaşık
-copo | bardak | isim (e) | copo | bardak
-quarto | yoda | isim (e) | quarto | oda
-cama | yatak | isim (d) | cama | yatak
-tapete | halı | isim (e) | tapete | halı
-lâmpada | lamba | isim (d) | lâmpada | lamba
+# UNIT: Portekiz alfabesi | 26 harf, ç, til, aksan ve şapka işaretleri
+## A – J
+A a | a — "araba"daki a; vurgusuz sonda daha kısa ve kapalı; harfin adı "a" | harf · sesli | água | su
+B b | b — "baba"daki b; harfin adı "bê" (be) | harf · ünsüz | bola | top
+C c | a, o, u önünde k; e, i önünde s; harfin adı "cê" (se) | harf · ünsüz | casa | ev
+D d | d — "dede"deki d; i sesinden önce "c" olur: dia = "ciya"; harfin adı "dê" (de) | harf · ünsüz | dedo | parmak
+E e | kapalı e ya da açık e; vurgusuz sonda "i" okunur: nome = "nomi"; harfin adı "é" | harf · sesli | escola | okul
+F f | f — "fil"deki f; harfin adı "efe" | harf · ünsüz | festa | parti; eğlence
+G g | a, o, u önünde g; e, i önünde "jilet"teki j; harfin adı "gê" (je) | harf · ünsüz | gelo | buz
+H h | hiç okunmaz; harfin adı "agá" | harf · ünsüz | hotel | otel
+I i | i — "iki"deki i; harfin adı "i" | harf · sesli | ilha | ada
+J j | j — "jilet"teki j, asla c değil; harfin adı "jota" | harf · ünsüz | janela | pencere
+## K – T
+K k | k — yalnızca yabancı kökenli kelimelerde; harfin adı "cá" (ka) | harf · ünsüz | karaokê | karaoke
+L l | l — ince l; hece sonunda "u" okunur: Brasil = "Braziu"; harfin adı "éle" | harf · ünsüz | lago | göl
+M m | m — "masa"daki m; hece sonunda önceki ünlüyü genizden okutur; harfin adı "eme" | harf · ünsüz | mão | el
+N n | n — "nar"daki n; hece sonunda önceki ünlüyü genizden okutur; harfin adı "ene" | harf · ünsüz | navio | gemi
+O o | kapalı o ya da açık o; vurgusuz sonda "u" okunur: gato = "gatu"; harfin adı "ó" | harf · sesli | ovo | yumurta
+P p | p — "para"daki p, hafif; harfin adı "pê" (pe) | harf · ünsüz | pato | ördek
+Q q | k — hep "qu" olarak yazılır, çoğunlukla u okunmaz; harfin adı "quê" (ke) | harf · ünsüz | queijo | peynir
+R r | kelime başında hırıltılı h ("hırka"daki h); ünlü arasında tek vuruşlu r; harfin adı "erre" (ehi) | harf · ünsüz | rua | sokak
+S s | s — "su"daki s; iki ünlü arasında z okunur; harfin adı "esse" (esi) | harf · ünsüz | sapo | kurbağa
+T t | t — hafif t; i sesinden önce "ç" olur: tia = "çiya"; harfin adı "tê" (te) | harf · ünsüz | tatu | armadillo
+## U – Z ve işaretler
+U u | u — "uzun"daki u; harfin adı "u" | harf · sesli | uva | üzüm
+V v | v — "vazo"daki v; harfin adı "vê" (ve) | harf · ünsüz | vela | mum
+W w | yabancı kelimelerde u ya da v; harfin adı "dáblio" | harf · ünsüz | windsurfe | rüzgâr sörfü
+X x | çoğunlukla ş; bazı kelimelerde ks, z ya da s; harfin adı "xis" (şis) | harf · ünsüz | xícara | fincan
+Y y | i — yalnızca yabancı kelimelerde; harfin adı "ípsilon" | harf · sesli | hobby | hobi
+Z z | z — "zil"deki z; kelime sonunda s okunur; harfin adı "zê" (ze) | harf · ünsüz | zero | sıfır
+Ç ç | s — yalnızca a, o, u önünde; c'nin çengelli hâli, adı "cê-cedilha" | harf · ünsüz | coração | kalp
+ã õ | til (~): a ve o genizden, burundan hava verilerek okunur | harf · sesli | maçã | elma
+á é í ó ú | akut aksan: vurgu bu hecede; é ve ó açık okunur | harf · sesli | café | kahve
+â ê ô | şapka (^): vurgu bu hecede; ê ve ô kapalı okunur | harf · sesli | você | sen
+# UNIT: Zor sesler | Genizden sesler, lh-nh, r ve rr, Brezilya'ya özgü di-ti, sondaki -e ve -o
+## Genizden okunan sesler
+ão | "aun" gibi, burundan; n tam söylenmez | ses | pão | ekmek
+ãe | "ayn" gibi, burundan | ses | mãe | anne
+õe | "oyn" gibi, burundan | ses | lições | dersler
+ã | genizden kısa "an" | ses | irmã | kız kardeş
+am, an | ünsüzden önce genizden "an"; m ve n tam söylenmez | ses | campo | tarla; kır
+em, en | ünsüzden önce genizden "en" | ses | tempo | zaman; hava durumu
+im, in | genizden "in" | ses | jardim | bahçe
+om, on | genizden "on" | ses | bom | iyi
+um, un | genizden "un" | ses | mundo | dünya
+-em | kelime sonunda "eyn" gibi, burundan | ses | também | de, da; dahi
+## lh, nh, ch, x ve s sesleri
+lh | "ly" — "milyon"daki ly gibi tek ses | ses | filho | oğul
+nh | "ny" — "künye"deki ny gibi tek ses | ses | vinho | şarap
+ch | ş — "şeker"deki ş | ses | chuva | yağmur
+x | çoğunlukla ş | ses | peixe | balık
+j, ge, gi | "jilet"teki j | ses | gente | insanlar
+ce, ci, ç | s — "sabun"daki s | ses | praça | meydan
+ss | çift s her zaman sert s | ses | massa | makarna; hamur
+-s- | iki ünlü arasındaki tek s, z okunur | ses | mesa | masa
+-s | kelime sonunda s; Rio de Janeiro'da ş gibi | ses | dois | iki
+que, qui | k okunur, u okunmaz: "ke", "ki" | ses | quero | istiyorum
+## R ve L sesleri
+r- | kelime başında hırıltılı h, "hırka"daki gibi | ses | rio | nehir
+rr | ünlüler arasında hırıltılı h | ses | carro | araba
+-r- | ünlüler arasında tek vuruşlu r, Türkçe "ara"daki gibi | ses | caro | pahalı
+-r | fiil sonunda çok hafif h ya da hiç duyulmaz | ses | falar | konuşmak
+r + ünsüz | hece sonunda hafif h; bazı bölgelerde yumuşak r | ses | porta | kapı
+nr | n'den sonra gelen r de hırıltılı h olur | ses | genro | damat
+pr, br, tr | ünsüzle birleşen r tek vuruşlu | ses | prato | tabak
+-l | hece sonunda "u" okunur | ses | Brasil | Brezilya
+-al, -el, -ol | "au", "eu", "ou" gibi biter | ses | papel | kâğıt
+h | hiç okunmaz | ses | hoje | bugün
+## Brezilya'ya özgü sesler ve ünlüler
+di | "ci" — "cimri"deki c gibi | ses | dia | gün
+ti | "çi" — "çiçek"teki ç gibi | ses | tia | teyze; hala
+-de | kelime sonunda "ci" okunur | ses | cidade | şehir
+-te | kelime sonunda "çi" okunur | ses | leite | süt
+-e | vurgusuz sonda "i" okunur | ses | nome | isim; ad
+-o | vurgusuz sonda "u" okunur | ses | livro | kitap
+é | açık e, ağzı geniş açarak | ses | pé | ayak
+ê | kapalı e, Türkçe "e"den biraz dar | ses | três | üç
+ó | açık o, ağzı geniş açarak | ses | avó | büyükanne
+ô | kapalı o, dudaklar yuvarlak ve dar | ses | avô | büyükbaba
+# UNIT: İlk kelimeler | Sayılar 1–10, renkler, Brezilya hayvanları, nesneler, doğa
+## Sayılar 1–10
+um | bir | sayı | Tenho um irmão. | Bir erkek kardeşim var.
+dois | iki | sayı | Dois cafés, por favor. | İki kahve, lütfen.
+três | üç | sayı | Tenho três gatos. | Üç kedim var.
+quatro | dört | sayı | São quatro horas. | Saat dört.
+cinco | beş | sayı | Cinco reais, por favor. | Beş real, lütfen.
+seis | altı | sayı | Acordo às seis. | Altıda uyanırım.
+sete | yedi | sayı | A semana tem sete dias. | Haftanın yedi günü var.
+oito | sekiz | sayı | Trabalho oito horas. | Sekiz saat çalışıyorum.
+nove | dokuz | sayı | Minha filha tem nove anos. | Kızım dokuz yaşında.
+dez | on | sayı | Conto até dez. | Ona kadar sayıyorum.
+## Renkler
+vermelho | kırmızı | sıfat | O carro é vermelho. | Araba kırmızı.
+azul | mavi | sıfat | O mar é azul. | Deniz mavi.
+verde | yeşil | sıfat | A bandeira é verde. | Bayrak yeşil.
+amarelo | sarı | sıfat | O sol é amarelo. | Güneş sarı.
+branco | beyaz | sıfat | Tenho um gato branco. | Beyaz bir kedim var.
+preto | siyah | sıfat | Quero um café preto. | Sade bir kahve istiyorum.
+cinza | gri | sıfat | Hoje o céu está cinza. | Bugün gökyüzü gri.
+marrom | kahverengi | sıfat | Meu cachorro é marrom. | Köpeğim kahverengi.
+laranja | turuncu | sıfat | A bola é laranja. | Top turuncu.
+rosa | pembe | sıfat | Ana usa uma blusa rosa. | Ana pembe bir bluz giyiyor.
+## Hayvanlar
+o cachorro | köpek | isim (e) | O cachorro é grande. | Köpek büyük.
+o gato | kedi | isim (e) | O gato dorme muito. | Kedi çok uyur.
+o pássaro | kuş | isim (e) | O pássaro canta. | Kuş ötüyor.
+o peixe | balık | isim (e) | O peixe nada no rio. | Balık nehirde yüzüyor.
+o cavalo | at | isim (e) | O cavalo corre rápido. | At hızlı koşuyor.
+a vaca | inek | isim (d) | A vaca come capim. | İnek ot yiyor.
+o macaco | maymun | isim (e) | O macaco está na árvore. | Maymun ağaçta.
+a onça | jaguar | isim (d) | A onça vive na floresta. | Jaguar ormanda yaşar.
+o papagaio | papağan | isim (e) | O papagaio é verde. | Papağan yeşil.
+a tartaruga | kaplumbağa | isim (d) | A tartaruga é lenta. | Kaplumbağa yavaş.
+## Nesneler
+o livro | kitap | isim (e) | Leio um livro. | Bir kitap okuyorum.
+a caneta | tükenmez kalem | isim (d) | Você tem uma caneta? | Tükenmez kalemin var mı?
+o lápis | kurşun kalem | isim (e) | O lápis é azul. | Kurşun kalem mavi.
+o caderno | defter | isim (e) | Abra o caderno. | Defteri aç.
+a mochila | sırt çantası | isim (d) | Minha mochila é preta. | Sırt çantam siyah.
+o carro | araba | isim (e) | Meu carro é velho. | Arabam eski.
+a bicicleta | bisiklet | isim (d) | Vou de bicicleta. | Bisikletle gidiyorum.
+a bola | top | isim (d) | O menino joga bola. | Çocuk top oynuyor.
+o guarda-chuva | şemsiye | isim (e) | Leve o guarda-chuva. | Şemsiyeyi yanına al.
+a caixa | kutu | isim (d) | A caixa está vazia. | Kutu boş.
+## Doğa
+o sol | güneş | isim (e) | Hoje tem sol. | Bugün hava güneşli.
+a lua | ay (gökyüzündeki) | isim (d) | A lua está linda. | Ay çok güzel.
+a estrela | yıldız | isim (d) | Vejo uma estrela. | Bir yıldız görüyorum.
+o mar | deniz | isim (e) | Moro perto do mar. | Denize yakın oturuyorum.
+o rio | nehir | isim (e) | O rio é muito largo. | Nehir çok geniş.
+a praia | plaj; sahil | isim (d) | Vamos à praia! | Plaja gidelim!
+a árvore | ağaç | isim (d) | A árvore é alta. | Ağaç uzun.
+a flor | çiçek | isim (d) | Que flor bonita! | Ne güzel bir çiçek!
+a chuva | yağmur | isim (d) | A chuva está forte. | Yağmur şiddetli.
+o céu | gökyüzü | isim (e) | O céu está azul. | Gökyüzü mavi.

@@ -1,111 +1,111 @@
 # UNIT: Tanışma ve temel ifadeler | Selamlaşma, zamirler, soru kelimeleri
 ## Selamlaşma
-o olá | merhaba, selam | ünlem | ¡Hola, Sofia! ¿Cómo estás? | Selam Sofia! Nasılsın?
-bom dia | günaydın | ifade | Bom dia, professor. | Günaydın hocam.
-boa tarde | tünaydın, iyi günler (öğleden sonra) | ifade | Boa tarde, meu amigo. | İyi günler dostum.
-boa noite | iyi akşamlar, iyi geceler | ifade | Boa noite, até amanhã. | İyi geceler, yarın görüşürüz.
-adeus | hoşça kal | ünlem | Adeus, Lucas, boa viagem. | Hoşça kal Lucas, iyi yolculuklar.
-até logo | görüşürüz, sonra görüşürüz | ifade | Bem, até logo, Maria. | Pekala, görüşürüz Maria.
-até amanhã | yarın görüşürüz | ifade | Vou embora. Até amanhã! | Gidiyorum. Yarın görüşürüz!
-tudo bem | nasılsın, her şey yolunda mı | ifade | Olá, Diego, tudo bem? | Merhaba Diego, her şey yolunda mı?
-prazer em o conhecer (e) | tanıştığımıza memnun oldum | ifade | Sou Omar. Prazer em o conhecer. | Ben Omar. Tanıştığımıza memnun oldum.
-bem-vindo (e) | hoş geldin | sıfat | Bem-vindo ao Brasil, Ali! | Brezilya'ya hoş geldin Ali!
+oi | selam | ünlem | Oi, Ana! Tudo bem? | Selam Ana! Nasılsın?
+olá | merhaba | ünlem | Olá, meu nome é Emre. | Merhaba, benim adım Emre.
+bom dia | günaydın | ifade | Bom dia, dona Maria! | Günaydın Maria Hanım!
+boa tarde | iyi günler (öğleden sonra) | ifade | Boa tarde, posso entrar? | İyi günler, girebilir miyim?
+boa noite | iyi akşamlar; iyi geceler | ifade | Boa noite, durma bem. | İyi geceler, iyi uyu.
+tchau | hoşça kal; görüşürüz | ünlem | Tchau, até sexta! | Hoşça kal, cumaya görüşürüz!
+até logo | sonra görüşürüz | ifade | Tenho que ir, até logo! | Gitmem lazım, sonra görüşürüz!
+até amanhã | yarın görüşürüz | ifade | Boa noite e até amanhã. | İyi geceler, yarın görüşürüz.
+tudo bem? | nasılsın?; her şey yolunda mı? | ifade | Oi, Pedro, tudo bem? | Selam Pedro, nasılsın?
+prazer | memnun oldum | ifade | Eu sou a Júlia. Prazer! | Ben Júlia. Memnun oldum!
 ## Nezaket
-obrigado (e) | teşekkürler (erkek söylerse) | ünlem | Muito obrigado por tudo. | Her şey için çok teşekkürler.
-obrigada (d) | teşekkürler (kadın söylerse) | ünlem | Obrigada pela ajuda. | Yardımın için teşekkürler.
-por favor | lütfen | ifade | Um café, por favor. | Bir kahve lütfen.
-de nada | rica ederim, bir şey değil | ifade | Obrigado. — De nada. | Teşekkürler. — Rica ederim.
-desculpa | pardon, özür dilerim | ünlem | Desculpa, não entendo. | Pardon, anlamıyorum.
-sinto muito | üzgünüm, kusura bakma | ifade | Sinto muito, não posso. | Üzgünüm, yapamam.
-com licença | affedersiniz, izninizle | ifade | Com licença, onde fica o metrô? | Affedersiniz, metro nerede?
-sim | evet | zarf | Sim, sou da Turquia. | Evet, Türkiye'denim.
+obrigado | teşekkürler (kadın söylerse: obrigada) | ünlem | Muito obrigado pela ajuda. | Yardımın için çok teşekkürler.
+por favor | lütfen | ifade | Um café, por favor. | Bir kahve, lütfen.
+de nada | rica ederim | ifade | Obrigada! — De nada. | Teşekkürler! — Rica ederim.
+desculpe | özür dilerim; pardon | ünlem | Desculpe, foi sem querer. | Özür dilerim, istemeden oldu.
+com licença | affedersiniz; izninizle | ifade | Com licença, posso passar? | Affedersiniz, geçebilir miyim?
+sinto muito | çok üzgünüm | ifade | Sinto muito pelo seu avô. | Deden için çok üzgünüm.
+sim | evet | zarf | Sim, eu falo inglês. | Evet, İngilizce konuşuyorum.
 não | hayır; değil | zarf | Não, obrigado. | Hayır, teşekkürler.
-combinado | tamam, olur | ünlem | Às cinco horas? — Combinado. | Saat beşte mi? — Tamam.
+tá bom | tamam, olur | ifade | Às oito? Tá bom. | Saat sekizde mi? Tamam.
+imagina | ne demek, önemli değil | ünlem | Obrigado, viu? — Imagina! | Teşekkürler, ha! — Ne demek!
 ## Kişi zamirleri
-eu | ben | zamir | Eu sou Yuki. | Ben Yuki'yim.
-tu | sen (samimi) | zamir | E tu, como te chamas? | Ya sen, adın ne?
-ele | o (erkek) | zamir | Ele é meu amigo Lukas. | O benim arkadaşım Lukas.
-ela | o (kadın) | zamir | Ela é do Brasil. | O Brezilyalı.
-o senhor | siz (erkek için resmî) | zamir | O senhor é o professor? | Öğretmen siz misiniz?
-a senhora | siz (kadın için resmî) | zamir | A senhora é muito amable. | Siz çok naziksiniz.
-nós | biz | zamir | Nós moramos em Salvador. | Biz Salvador'da yaşıyoruz.
-vocês | siz (çoğul) | zamir | Vocês são estudantes? | Siz öğrenci misiniz?
-eles | onlar (erkek veya karışık) | zamir | Eles são brasileiros. | Onlar Brezilyalı.
-elas | onlar (sadece kadın) | zamir | Elas falam português. | Onlar Portekizce konuşuyor.
+eu | ben | zamir | Eu sou da Turquia. | Ben Türkiye'denim.
+você | sen | zamir | Você é muito simpático. | Sen çok cana yakınsın.
+ele | o (erkek) | zamir | Ele se chama Rafael. | Onun adı Rafael.
+ela | o (kadın) | zamir | Ela é minha amiga. | O benim arkadaşım.
+nós | biz | zamir | Nós moramos em Recife. | Biz Recife'de oturuyoruz.
+a gente | biz (konuşma dili) | zamir | A gente vai ao cinema. | Biz sinemaya gidiyoruz.
+vocês | siz (çoğul) | zamir | Vocês são irmãos? | Siz kardeş misiniz?
+eles | onlar (erkek ya da karışık) | zamir | Eles são de Lisboa. | Onlar Lizbonlu.
+elas | onlar (yalnız kadınlar) | zamir | Elas estudam juntas. | Onlar birlikte ders çalışıyor.
+o senhor | siz (beyefendi, resmî); bey | zamir | O senhor precisa de ajuda? | Yardıma ihtiyacınız var mı?
 ## Soru kelimeleri
-o que | ne | zamir | O que é isto? | Bu nedir?
-quem | kim | zamir | Quem é aquela mulher? | Şu kadın kim?
-onde | nerede | zarf | Onde fica o hotel? | Otel nerede?
-quando | ne zaman | zarf | Quando começa a aula? | Ders ne zaman başlıyor?
-como | nasıl | zarf | Como você está? | Nasılsın?
-por que | neden, niçin | edat | Por que você estuda português? | Neden Portekizce çalışıyorsun?
-quanto (e) | ne kadar | zamir | Quanto custa este livro? | Bu kitap ne kadar?
-qual | hangi | zamir | Qual é o seu nome? | Adınız nedir?
-para onde | nereye | ifade | Para onde você vai? | Nereye gidiyorsun?
-de onde | nereden | ifade | De onde você é? | Nerelisin?
-## Temel filler
-ser (foi) | olmak | fiil · düzensiz | Eu sou engenheiro. | Ben mühendisim.
-estar (estive) | olmak, bulunmak (geçici durum) | fiil · düzensiz | Estou muito cansado. | Çok yorgunum.
-ter (tive) | sahip olmak | fiil · düzensiz | Tenho dois irmãos. | İki erkek kardeşim var.
-fazer (fiz) | yapmak | fiil · düzensiz | O que você faz? | Ne iş yapıyorsun?
-ir (fui) | gitmek | fiil · düzensiz | Vou ao mercado. | Markete gidiyorum.
-vir (vim) | gelmek | fiil · düzensiz | Venho de Istambul. | İstanbul'dan geliyorum.
-falar | konuşmak | fiil | Ela fala inglês e espanhol. | O İngilizce ve İspanyolca konuşuyor.
-morar | yaşamak, ikamet etmek | fiil | Onde você mora? | Nerede yaşıyorsun?
-gostar | hoşlanmak, sevmek | fiil | Gosto de música brasileira. | Brezilya müziğini seviyorum.
-trabalhar | çalışmak | fiil | Trabalho em um banco. | Bir bankada çalışıyorum.
-## Tanışma ifadeleri
-o nome | ad, isim | isim (e) | Meu nome é Anna. | Benim adım Anna.
-o sobrenome | soyadı | isim (e) | Qual é o seu sobrenome? | Soyadınız nedir?
-a idade | yaş | isim (d) | Qual é a sua idade? | Yaşınız kaç?
-a nacionalidade | milliyet | isim (d) | Qual é a sua nacionalidade? | Milliyetiniz nedir?
-o país | ülke | isim (e) | A Turquia é um belo país. | Türkiye güzel bir ülke.
-a cidade | şehir | isim (d) | Lisboa é uma cidade histórica. | Lizbon tarihi bir şehir.
-o idioma | dil | isim (e) | Quantos idiomas você fala? | Kaç dil konuşuyorsun?
-a profissión | meslek | isim (d) | Qual é a sua profissão? | Mesleğiniz nedir?
-o estudante | öğrenci | isim (e) | Ele é um bom estudante. | O iyi bir öğrenci.
-o amigo | arkadaş | isim (e) | Este é meu melhor amigo. | Bu benim en iyi arkadaşım.
-## Sınıf nesneleri
-o livro | kitap | isim (e) | Abra o livro na página dez. | Kitabı onuncu sayfaya açın.
-o caderno | defter | isim (e) | Escrevo notas no meu caderno. | Defterime notlar yazıyorum.
-a caneta | tükenmez kalem | isim (d) | Tem uma caneta azul? | Mavi kalemin var mı?
-o lápis | kurşun kalem | isim (e) | Uso lápis para desenhar. | Çizim yapmak için kurşun kalem kullanıyorum.
-a borracha | silgi | isim (d) | Preciso de uma borracha. | Bir silgiye ihtiyacım var.
-o papel | kağıt | isim (e) | Dê-me uma folha de papel. | Bana bir yaprak kağıt ver.
-a mesa | masa | isim (d) | O livro está sobre a mesa. | Kitap masanın üzerinde.
-a cadeira | sandalye | isim (d) | Sente-se nesta cadeira, por favor. | Lütfen bu sandalyeye oturun.
-a porta | kapı | isim (d) | Por favor, feche a porta. | Lütfen kapıyı kapatın.
-a janela | pencere | isim (d) | Abra a janela, faz calor. | Pencereyi aç, hava sıcak.
-## Günlük nesneler
-o telefone | telefon | isim (e) | O meu telefone está na mesa. | Telefonum masanın üstünde.
-a chave | anahtar | isim (d) | Onde estão as chaves de casa? | Evin anahtarları nerede?
-a bolsa | çanta | isim (d) | Minha bolsa é preta. | Çantam siyah.
-o relógio | saat | isim (e) | Que horas o relógio marca? | Saat kaçı gösteriyor?
-o dinheiro | para | isim (e) | Não tenho dinheiro comigo. | Yanımda para yok.
-o óculos | gözlük | isim (e) | Onde deixei meus óculos? | Gözlüğümü nereye bıraktım?
-o guarda-chuva | şemsiye | isim (e) | Leve o guarda-chuva, vai chover. | Şemsiyeyi al, yağmur yağacak.
-o carro | araba | isim (e) | O carro vermelho é rápido. | Kırmızı araba hızlı.
-a casa | ev | isim (d) | Vou para casa agora. | Şimdi eve gidiyorum.
-o computador | bilgisayar | isim (e) | Trabalho com um computador portátil. | Dizüstü bilgisayarla çalışıyorum.
-## Temel sıfatlar
-bom (e) | iyi | sıfat | Este café é muito bom. | Bu kahve çok iyi.
-mau (e) | kötü | sıfat | Hoje o tempo está mau. | Bugün hava kötü.
-grande | büyük | sıfat | São Paulo é uma cidade grande. | Sao Paulo büyük bir şehir.
-pequeno (e) | küçük | sıfat | Moro em uma casa pequena. | Küçük bir evde yaşıyorum.
-novo (e) | yeni, genç | sıfat | Comprei um carro novo. | Yeni bir araba satın aldım.
-velho (e) | eski, yaşlı | sıfat | Este livro é muito velho. | Bu kitap çok eski.
-bonito (e) | güzel | sıfat | O Rio de Janeiro é muito bonito. | Rio de Janeiro çok güzel.
-fácil | kolay | sıfat | O português é uma língua fácil. | Portekizce kolay bir dildir.
-difícil | zor | sıfat | A gramática não é tão difícil. | Dilbilgisi o kadar zor değil.
-feliz | mutlu | sıfat | Estou muito feliz hoje. | Bugün çok mutluyum.
-## Sayılar bir ila on
-um (e) | bir | sayı | Tenho um irmão e uma irmã. | Bir erkek ve bir kız kardeşim var.
-dois (e) | iki | sayı | Eles têm dois carros. | Onların iki arabası var.
-três | üç | sayı | São três horas da tarde. | Öğleden sonra saat üç.
-quatro | dört | sayı | A mesa tem quatro cadeiras. | Masanın dört sandalyesi var.
-cinco | beş | sayı | Trabalho cinco dias por semana. | Haftada beş gün çalışıyorum.
-seis | altı | sayı | O livro tem seis capítulos. | Kitabın altı bölümü var.
-sete | yedi | sayı | A semana tem sete dias. | Haftanın yedi günü var.
-oito | sekiz | sayı | Acordo às oito da manhã. | Sabah saat sekizde uyanıyorum.
-nove | dokuz | sayı | O curso dura nove meses. | Kurs dokuz ay sürüyor.
-dez | on | sayı | Tenho dez reais na carteira. | Cüzdanımda on real var.
+o que | ne | zamir | O que é isso? | Bu ne?
+quem | kim | zamir | Quem é aquele menino? | Şu çocuk kim?
+onde | nerede | zarf | Onde você mora? | Nerede oturuyorsun?
+quando | ne zaman | zarf | Quando é a festa? | Parti ne zaman?
+como | nasıl | zarf | Como você se chama? | Adın ne?
+por que | neden, niçin | zarf | Por que você está triste? | Neden üzgünsün?
+qual | hangi; hangisi | zamir | Qual é o seu telefone? | Telefon numaran ne?
+quanto | ne kadar; kaç | zamir | Quanto custa isso? | Bu ne kadar?
+de onde | nereden; nereli | zarf | De onde você é? | Nerelisin?
+aonde | nereye | zarf | Aonde vocês vão? | Nereye gidiyorsunuz?
+## Kendini tanıtma
+o nome | ad, isim | isim (e) | Qual é o seu nome? | Adın ne?
+o sobrenome | soyadı | isim (e) | Meu sobrenome é Costa. | Soyadım Costa.
+chamar-se | adı ... olmak | fiil · dönüşlü | Eu me chamo Yuki. | Benim adım Yuki.
+ser | olmak (kalıcı); -dir | fiil · düzensiz | Eu sou engenheiro. | Ben mühendisim.
+estar | olmak (geçici); bulunmak | fiil · düzensiz | Estou cansado hoje. | Bugün yorgunum.
+morar | oturmak, yaşamak (bir yerde) | fiil | Moro em São Paulo. | São Paulo'da oturuyorum.
+a idade | yaş | isim (d) | Qual é a sua idade? | Kaç yaşındasın?
+o aniversário | doğum günü | isim (e) | Hoje é meu aniversário! | Bugün benim doğum günüm!
+solteiro | bekâr | sıfat | Ele ainda é solteiro. | O hâlâ bekâr.
+casado | evli | sıfat | Minha irmã é casada. | Ablam evli.
+## Ülkeler ve diller
+o país | ülke | isim (e) | O Brasil é um país enorme. | Brezilya kocaman bir ülke.
+o Brasil | Brezilya | isim (e) | Eu moro no Brasil. | Brezilya'da yaşıyorum.
+Portugal | Portekiz | isim (e) | Lisboa fica em Portugal. | Lizbon Portekiz'de.
+a Turquia | Türkiye | isim (d) | Sou da Turquia. | Türkiye'denim.
+brasileiro | Brezilyalı | sıfat | A música brasileira é linda. | Brezilya müziği çok güzel.
+português | Portekizli; Portekizce | sıfat | Falo um pouco de português. | Biraz Portekizce konuşuyorum.
+turco | Türk; Türkçe | sıfat | Meu amigo é turco. | Arkadaşım Türk.
+estrangeiro | yabancı | sıfat | Ela é estrangeira aqui. | O burada yabancı.
+a língua | dil (lisan); dil (organ) | isim (d) | Português é uma língua bonita. | Portekizce güzel bir dil.
+falar | konuşmak | fiil | Você fala inglês? | İngilizce konuşuyor musun?
+## İşaret ve yer
+isto | bu (şey, bende) | zamir | Isto é para você. | Bu senin için.
+isso | bu, şu (şey, sende) | zamir | Isso é muito caro. | Bu çok pahalı.
+aquilo | o, şu (uzaktaki şey) | zamir | O que é aquilo ali? | Oradaki şey ne?
+este | bu (yakındaki) | zamir | Este livro é meu. | Bu kitap benim.
+esse | bu, şu | zamir | Esse ônibus vai para o centro? | Bu otobüs merkeze gidiyor mu?
+aquele | o, şu (uzaktaki) | zamir | Aquele prédio é alto. | Şu bina yüksek.
+aqui | burada; buraya | zarf | Venha aqui, por favor. | Buraya gel, lütfen.
+aí | orada (sende); oraya | zarf | Você está aí? | Orada mısın?
+ali | şurada | zarf | O banheiro é ali. | Tuvalet şurada.
+lá | orada (uzakta) | zarf | Minha família mora lá. | Ailem orada yaşıyor.
+## Kısa cevaplar
+claro | tabii, elbette | zarf | Claro, pode entrar! | Tabii, girebilirsin!
+com certeza | kesinlikle | ifade | Com certeza, eu vou. | Kesinlikle geliyorum.
+talvez | belki | zarf | Talvez amanhã. | Belki yarın.
+também | de, da; dahi | zarf | Eu também sou estudante. | Ben de öğrenciyim.
+mais ou menos | şöyle böyle | ifade | Tudo bem? — Mais ou menos. | Nasılsın? — Şöyle böyle.
+tudo | her şey | zamir | Tudo está pronto. | Her şey hazır.
+nada | hiçbir şey | zamir | Não tenho nada. | Hiçbir şeyim yok.
+ótimo | harika, çok iyi | sıfat | Ótimo, até amanhã! | Harika, yarın görüşürüz!
+legal | güzel, hoş, harika (konuşma dili) | sıfat | Que legal, parabéns! | Ne güzel, tebrikler!
+que pena | ne yazık | ifade | Você não vem? Que pena! | Gelmiyor musun? Ne yazık!
+## Sınıfta
+a aula | ders (saati) | isim (d) | A aula começa às nove. | Ders dokuzda başlıyor.
+o aluno | öğrenci (okulda) | isim (e) | O aluno faz uma pergunta. | Öğrenci bir soru soruyor.
+a palavra | kelime | isim (d) | Não conheço essa palavra. | Bu kelimeyi bilmiyorum.
+a frase | cümle | isim (d) | Leia a frase, por favor. | Cümleyi oku, lütfen.
+a pergunta | soru | isim (d) | Posso fazer uma pergunta? | Bir soru sorabilir miyim?
+a resposta | cevap | isim (d) | A resposta está certa. | Cevap doğru.
+o exemplo | örnek | isim (e) | Você pode dar um exemplo? | Bir örnek verebilir misin?
+entender | anlamak | fiil | Não entendo a pergunta. | Soruyu anlamıyorum.
+repetir | tekrar etmek | fiil | Pode repetir, por favor? | Tekrar eder misiniz, lütfen?
+saber | bilmek | fiil · düzensiz | Eu não sei a resposta. | Cevabı bilmiyorum.
+## Konuşma kalıpları
+como se diz...? | ... nasıl denir? | ifade | Como se diz "kedi" em português? | Portekizce "kedi" nasıl denir?
+o que significa...? | ... ne demek? | ifade | O que significa "saudade"? | "Saudade" ne demek?
+mais devagar | daha yavaş | ifade | Fale mais devagar, por favor. | Daha yavaş konuş, lütfen.
+de novo | yeniden, tekrar | ifade | Pode falar de novo? | Tekrar söyler misin?
+um pouco | biraz | ifade | Eu falo um pouco de português. | Biraz Portekizce konuşuyorum.
+bem-vindo | hoş geldin | sıfat | Bem-vindo ao Brasil! | Brezilya'ya hoş geldin!
+parabéns | tebrikler; doğum günün kutlu olsun | ünlem | Parabéns pelo seu aniversário! | Doğum günün kutlu olsun!
+boa sorte | iyi şanslar | ifade | Boa sorte na prova! | Sınavda iyi şanslar!
+boa viagem | iyi yolculuklar | ifade | Tchau, boa viagem! | Hoşça kal, iyi yolculuklar!
+a saudade | özlem, hasret | isim (d) | Tenho saudade de você. | Seni özledim.
