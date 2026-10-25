@@ -1,0 +1,111 @@
+# UNIT: Sağlık ve psikoloji | Hastalık, tedavi, ruh sağlığı
+## Hastalıklar
+질병 (jilbyeong) | hastalık | isim | 손을 자주 씻으면 많은 질병을 예방할 수 있다. | Elleri sık yıkarsan birçok hastalığı önleyebilirsin.
+질환 (jilhwan) | rahatsızlık, hastalık (tıbbi) | isim | 할아버지는 심장 질환으로 치료를 받고 계신다. | Dedem kalp rahatsızlığı nedeniyle tedavi görüyor.
+암 (am) | kanser | isim | 담배는 폐암의 가장 큰 원인이다. | Sigara akciğer kanserinin en büyük nedenidir.
+당뇨병 (dangnyobyeong) | şeker hastalığı | isim | 당뇨병이 있으면 단 음식을 조심해야 한다. | Şeker hastalığın varsa tatlı yiyeceklere dikkat etmelisin.
+고혈압 (gohyeorap) | yüksek tansiyon | isim | 짠 음식을 많이 먹으면 고혈압에 걸리기 쉽다. | Çok tuzlu yemek yersen yüksek tansiyona yakalanman kolaylaşır.
+비만 (biman) | obezite | isim | 어린이 비만이 사회 문제가 되고 있다. | Çocuk obezitesi toplumsal bir soruna dönüşüyor.
+감염되다 (gamyeomdoeda) | enfekte olmak, bulaşmak | fiil | 상처가 감염되지 않도록 깨끗하게 관리하세요. | Yaranın enfekte olmaması için temiz tutun.
+전염병 (jeonyeombyeong) | bulaşıcı hastalık | isim | 전염병이 돌면 사람이 많은 곳을 피하는 게 좋다. | Bulaşıcı hastalık yayıldığında kalabalık yerlerden kaçınmak iyidir.
+염증 (yeomjeung) | iltihap | isim | 목에 염증이 생겨서 침을 삼키기 힘들어요. | Boğazımda iltihap oluştu, yutkunmak zor.
+빈혈 (binhyeol) | kansızlık | isim | 빈혈이 있어서 갑자기 일어나면 어지러워요. | Kansızlığım olduğu için aniden kalkınca başım dönüyor.
+## Belirtiler
+통증 (tongjeung) | ağrı | isim | 허리 통증이 심해서 오래 앉아 있을 수가 없다. | Bel ağrım şiddetli olduğu için uzun süre oturamıyorum.
+오한 (ohan) | titreme (ateşle) | isim | 열이 나고 오한이 들어서 이불을 덮고 누웠다. | Ateşim çıkıp titremeye başlayınca yorganı örtüp uzandım.
+메스껍다 (meseukkeopda) | midesi bulanmak (메스꺼워요) | sıfat | 배를 오래 탔더니 속이 메스꺼워요. | Uzun süre gemide kalınca midem bulandı.
+숨이 차다 (sumi chada) | nefes nefese kalmak | ifade | 계단을 조금만 올라가도 숨이 차요. | Birkaç basamak çıksam bile nefes nefese kalıyorum.
+저리다 (jeorida) | uyuşmak, karıncalanmak | fiil | 오래 무릎을 꿇고 앉았더니 다리가 저렸다. | Uzun süre diz çöküp oturunca bacaklarım uyuştu.
+결리다 (gyeollida) | (kas) tutulmak, sancımak | fiil | 잠을 잘못 자서 목이 결려요. | Ters yattığım için boynum tutuldu.
+피로 (piro) | yorgunluk | isim | 충분히 자도 피로가 풀리지 않아요. | Yeterince uyusam da yorgunluğum geçmiyor.
+식욕 (sigyok) | iştah | isim | 감기에 걸려서 식욕이 하나도 없어요. | Grip olduğum için hiç iştahım yok.
+불면증 (bulmyeonjeung) | uykusuzluk hastalığı | isim | 스트레스 때문에 불면증이 생겼다. | Stres yüzünden uykusuzluk sorunu başladı.
+두드러기 (dudeureogi) | kurdeşen | isim | 새우를 먹고 나서 온몸에 두드러기가 났다. | Karides yedikten sonra bütün vücudumda kurdeşen çıktı.
+## Tedavi
+치료하다 (chiryohada) | tedavi etmek | fiil | 이 병은 일찍 발견하면 쉽게 치료할 수 있다. | Bu hastalık erken fark edilirse kolayca tedavi edilebilir.
+처방하다 (cheobanghada) | reçete yazmak | fiil | 의사가 항생제를 처방해 주었다. | Doktor antibiyotik reçete etti.
+복용하다 (bogyonghada) | (ilaç) kullanmak, içmek | fiil | 이 약은 하루 세 번 식후에 복용하세요. | Bu ilacı günde üç kez yemekten sonra kullanın.
+물리 치료 (mulli chiryo) | fizik tedavi | isim | 수술 후에 한 달 동안 물리 치료를 받았다. | Ameliyattan sonra bir ay fizik tedavi gördüm.
+재활 (jaehwal) | rehabilitasyon | isim | 그 선수는 재활 훈련을 마치고 경기에 복귀했다. | O sporcu rehabilitasyon antrenmanını bitirip maçlara döndü.
+침을 맞다 (chimeul matda) | akupunktur yaptırmak | ifade | 발목을 삐어서 한의원에서 침을 맞았어요. | Bileğimi burktuğum için geleneksel Kore tıbbı kliniğinde akupunktur yaptırdım.
+한약 (hanyak) | geleneksel Kore bitkisel ilacı | isim | 어머니가 몸에 좋다고 한약을 지어 주셨다. | Annem vücuda iyi geldiğini söyleyip bitkisel ilaç hazırlattı.
+예방 접종 (yebang jeopjong) | aşı (aşılama) | isim | 겨울이 오기 전에 독감 예방 접종을 맞으세요. | Kış gelmeden önce grip aşısı olun.
+완치되다 (wanchidoeda) | tamamen iyileşmek | fiil | 꾸준히 치료를 받아서 병이 완치되었다. | Düzenli tedavi görerek hastalığım tamamen iyileşti.
+효과 (hyogwa) | etki | isim | 이 약은 효과가 빨리 나타나요. | Bu ilacın etkisi çabuk görülür.
+## Hastanede
+의료진 (uiryojin) | sağlık ekibi | isim | 의료진의 빠른 대처로 환자가 목숨을 건졌다. | Sağlık ekibinin hızlı müdahalesiyle hasta hayatta kaldı.
+병실 (byeongsil) | hasta odası | isim | 할머니는 육 인실 병실에 입원해 계신다. | Büyükannem altı kişilik bir hasta odasında yatıyor.
+병문안 (byeongmunan) | hasta ziyareti | isim | 퇴근 후에 동료 병문안을 다녀왔다. | İş çıkışı hasta olan iş arkadaşımı ziyarete gittim.
+보호자 (bohoja) | refakatçi, veli | isim | 수술 동의서에는 보호자의 서명이 필요합니다. | Ameliyat onay formunda refakatçinin imzası gerekir.
+진료 (jillyo) | muayene ve tedavi | isim | 토요일에는 오전에만 진료를 합니다. | Cumartesi günleri sadece öğleden önce muayene yapılır.
+건강 검진 (geongang geomjin) | sağlık kontrolü, check-up | isim | 회사에서 매년 무료로 건강 검진을 해 준다. | Şirket her yıl ücretsiz sağlık kontrolü yaptırıyor.
+내시경 (naesigyeong) | endoskopi | isim | 위 내시경을 받기 전날 밤에는 굶어야 한다. | Mide endoskopisinden önceki gece aç kalmak gerekir.
+엑스레이 (ekseurei) | röntgen | isim | 엑스레이를 찍어 보니 뼈에 금이 가 있었다. | Röntgen çekilince kemikte çatlak olduğu görüldü.
+혈액 검사 (hyeoraek geomsa) | kan tahlili | isim | 혈액 검사 결과는 다음 주에 나옵니다. | Kan tahlili sonucu gelecek hafta çıkacak.
+수액 (suaek) | serum | isim | 탈수가 심해서 응급실에서 수액을 맞았다. | Su kaybı ağır olduğu için acilde serum takıldı.
+## Ruh sağlığı
+정신 건강 (jeongsin geongang) | ruh sağlığı | isim | 몸 건강만큼 정신 건강도 중요하다. | Beden sağlığı kadar ruh sağlığı da önemlidir.
+우울증 (uuljeung) | depresyon | isim | 우울증은 치료를 받으면 좋아질 수 있는 병이다. | Depresyon tedavi edilince iyileşebilen bir hastalıktır.
+불안감 (burangam) | kaygı hissi | isim | 시험을 앞두고 불안감 때문에 잠을 못 잤다. | Sınav öncesi kaygıdan uyuyamadım.
+공황 장애 (gonghwang jangae) | panik bozukluk | isim | 공황 장애가 있는 사람은 지하철을 타기 힘들어한다. | Panik bozukluğu olan kişiler metroya binmekte zorlanır.
+상담하다 (sangdamhada) | danışmak, görüşmek (uzmana) | fiil | 고민이 있으면 전문가와 상담해 보세요. | Bir derdiniz varsa uzmana danışın.
+상담사 (sangdamsa) | danışman, terapist | isim | 학교 상담사가 학생들의 고민을 들어 준다. | Okul danışmanı öğrencilerin dertlerini dinler.
+무기력하다 (mugiryeokada) | halsiz, isteksiz, takatsiz | sıfat | 요즘 아무것도 하기 싫고 무기력해요. | Bu aralar hiçbir şey yapmak istemiyorum, takatsizim.
+자존감 (jajongam) | öz saygı, kendine değer verme | isim | 칭찬을 많이 받은 아이는 자존감이 높다. | Çok övgü alan çocukların öz saygısı yüksektir.
+번아웃 (beonaut) | tükenmişlik | isim | 쉬지 않고 일하다가 결국 번아웃이 왔다. | Durmadan çalışınca sonunda tükenmişlik yaşadım.
+정신과 (jeongsingwa) | psikiyatri | isim | 요즘은 정신과에 가는 것을 부끄러워하지 않는다. | Bu aralar psikiyatriye gitmekten utanılmıyor.
+## Stresle baş etmek
+해소하다 (haesohada) | gidermek, atmak (stres) | fiil | 저는 운동으로 스트레스를 해소해요. | Ben stresimi sporla atarım.
+휴식 (hyusik) | dinlenme, mola | isim | 일하는 중간중간에 짧은 휴식을 취하세요. | Çalışırken arada kısa molalar verin.
+여유 (yeoyu) | rahatlık, boş zaman, nefes alacak vakit | isim | 바빠서 커피 한 잔 마실 여유도 없다. | Öyle meşgulüm ki bir fincan kahve içecek vaktim bile yok.
+명상 (myeongsang) | meditasyon | isim | 아침마다 십 분씩 명상을 하면 마음이 편해진다. | Her sabah on dakika meditasyon yapınca içim rahatlıyor.
+기분 전환 (gibun jeonhwan) | moral tazeleme, kafa dağıtma | isim | 기분 전환 겸 머리를 짧게 잘랐다. | Kafa dağıtmak için saçımı kısa kestirdim.
+힐링 (hilling) | ruhsal dinlenme, iyileşme | isim | 이번 여행은 나에게 진정한 힐링이 되었다. | Bu seyahat benim için gerçek bir ruhsal dinlenme oldu.
+조절하다 (jojeolhada) | ayarlamak, kontrol etmek | fiil | 화가 나도 감정을 조절하는 법을 배워야 한다. | Sinirlensen bile duygularını kontrol etmeyi öğrenmelisin.
+견디다 (gyeondida) | dayanmak, katlanmak | fiil | 힘든 시기를 잘 견디면 좋은 날이 올 거예요. | Zor dönemlere iyi dayanırsan güzel günler gelecek.
+지치다 (jichida) | bitkin düşmek, yorulmak | fiil | 하루 종일 일해서 너무 지쳤어요. | Bütün gün çalıştığım için çok bitkinim.
+쌓이다 (ssaida) | birikmek | fiil | 일이 쌓여서 주말에도 쉬지 못했다. | İşler biriktiği için hafta sonu da dinlenemedim.
+## Sağlıklı yaşam
+생활 습관 (saenghwal seupgwan) | yaşam alışkanlıkları | isim | 나쁜 생활 습관이 병을 만든다. | Kötü yaşam alışkanlıkları hastalığa yol açar.
+수면 (sumyeon) | uyku | isim | 하루 일곱 시간 이상의 수면이 필요하다. | Günde yedi saatten fazla uyku gerekir.
+숙면 (sungmyeon) | derin uyku | isim | 자기 전에 휴대폰을 보면 숙면을 취하기 어렵다. | Yatmadan önce telefona bakarsan derin uyuyamazsın.
+금연 (geumyeon) | sigarayı bırakma; sigara içilmez | isim | 새해 목표로 금연을 결심했다. | Yeni yıl hedefi olarak sigarayı bırakmaya karar verdim.
+금주 (geumju) | içkiyi bırakma | isim | 건강이 나빠져서 의사가 금주를 권했다. | Sağlığım bozulunca doktor içkiyi bırakmamı önerdi.
+과로 (gwaro) | aşırı çalışma | isim | 그는 과로로 쓰러져서 병원에 실려 갔다. | Aşırı çalışmaktan yığılıp hastaneye kaldırıldı.
+면역력 (myeonyeongnyeok) | bağışıklık | isim | 잠을 잘 자야 면역력이 높아진다. | İyi uyumak bağışıklığı güçlendirir.
+체력 (cheryeok) | fiziksel dayanıklılık, kondisyon | isim | 등산을 꾸준히 했더니 체력이 좋아졌다. | Düzenli dağ yürüyüşüyle kondisyonum arttı.
+유산소 운동 (yusanso undong) | aerobik egzersiz, kardiyo | isim | 살을 빼려면 유산소 운동을 해야 한다. | Kilo vermek için kardiyo yapmak gerekir.
+근력 운동 (geullyeok undong) | kuvvet antrenmanı | isim | 나이가 들수록 근력 운동이 중요하다. | Yaş ilerledikçe kuvvet antrenmanı önem kazanır.
+## Vücut ve işlevleri
+신체 (sinche) | beden, vücut | isim | 규칙적인 운동은 신체와 정신 모두에 좋다. | Düzenli egzersiz hem beden hem zihin için iyidir.
+혈관 (hyeolgwan) | damar | isim | 기름진 음식은 혈관 건강에 좋지 않다. | Yağlı yiyecekler damar sağlığına iyi gelmez.
+신경 (singyeong) | sinir | isim | 손가락 신경을 다쳐서 감각이 없다. | Parmağımdaki sinir zarar gördüğü için his yok.
+호흡 (hoheup) | solunum, nefes alma | isim | 긴장될 때는 천천히 호흡을 해 보세요. | Gerildiğinizde yavaşça nefes alıp vermeyi deneyin.
+맥박 (maekbak) | nabız | isim | 운동을 하면 맥박이 빨라진다. | Spor yapınca nabız hızlanır.
+체중 (chejung) | vücut ağırlığı | isim | 한 달 만에 체중이 오 킬로그램 줄었다. | Bir ayda vücut ağırlığım beş kilo azaldı.
+관절 (gwanjeol) | eklem | isim | 비가 오면 할머니는 관절이 쑤신다고 하신다. | Yağmur yağınca büyükannem eklemlerinin sızladığını söyler.
+척추 (cheokchu) | omurga | isim | 바르게 앉지 않으면 척추에 무리가 간다. | Düzgün oturmazsan omurgana yük biner.
+간 (gan) | karaciğer | isim | 술을 많이 마시면 간이 나빠진다. | Çok içki içersen karaciğerin bozulur.
+신장 (sinjang) | böbrek | isim | 물을 충분히 마시는 것이 신장 건강에 좋다. | Yeterince su içmek böbrek sağlığına iyi gelir.
+## Yaralanma ve ilk yardım
+응급 처치 (eunggeup cheochi) | ilk yardım | isim | 응급 처치 방법을 미리 배워 두면 도움이 된다. | İlk yardımı önceden öğrenmek işe yarar.
+부상 (busang) | yaralanma, sakatlık | isim | 그 선수는 부상 때문에 이번 시즌을 쉬었다. | O sporcu sakatlığı yüzünden bu sezonu kaçırdı.
+골절 (goljeol) | kırık (kemik) | isim | 스키를 타다가 넘어져서 다리 골절을 당했다. | Kayak yaparken düşüp bacağımı kırdım.
+출혈 (chulhyeol) | kanama | isim | 출혈이 심하면 상처 부위를 세게 눌러야 한다. | Kanama şiddetliyse yaralı bölgeye sıkıca bastırmak gerekir.
+붕대 (bungdae) | sargı bezi | isim | 간호사가 다친 손에 붕대를 감아 주었다. | Hemşire yaralı elime sargı sardı.
+삐다 (ppida) | burkmak | fiil | 계단에서 내려오다가 발목을 삐었다. | Merdivenden inerken bileğimi burktum.
+멍 (meong) | morluk | isim | 책상에 부딪혀서 무릎에 멍이 들었다. | Masaya çarpınca dizimde morluk oluştu.
+소독하다 (sodokada) | dezenfekte etmek | fiil | 상처를 소독한 다음에 연고를 바르세요. | Yarayı dezenfekte ettikten sonra merhem sürün.
+기절하다 (gijeolhada) | bayılmak | fiil | 너무 더운 날 줄을 서 있다가 한 사람이 기절했다. | Çok sıcak bir günde sırada bekleyen biri bayıldı.
+심폐 소생술 (simpye sosaengsul) | kalp masajı, CPR | isim | 그는 심폐 소생술로 쓰러진 사람을 살렸다. | Kalp masajıyla yere yığılan adamı kurtardı.
+## Psikolojik durumlar
+의욕 (uiyok) | istek, şevk | isim | 칭찬을 들으니 공부할 의욕이 생겼다. | Övgü duyunca ders çalışma isteğim arttı.
+집착 (jipchak) | takıntı | isim | 지나친 집착은 관계를 망칠 수 있다. | Aşırı takıntı ilişkiyi mahvedebilir.
+열등감 (yeoldeunggam) | aşağılık duygusu | isim | 형과 비교당하면서 열등감을 느꼈다. | Abimle kıyaslandıkça kendimi aşağılık hissettim.
+충격 (chunggyeok) | şok | isim | 그 소식을 듣고 큰 충격을 받았다. | O haberi duyunca büyük bir şok yaşadım.
+상실감 (sangsilgam) | kayıp duygusu | isim | 반려견이 죽은 뒤 깊은 상실감에 빠졌다. | Köpeği öldükten sonra derin bir kayıp duygusuna kapıldı.
+안정 (anjeong) | huzur, istikrar, dinginlik | isim | 수술 후에는 충분한 안정이 필요합니다. | Ameliyattan sonra yeterli dinlenme ve sükûnet gerekir.
+감정 기복 (gamjeong gibok) | ruh hâli dalgalanması | isim | 사춘기에는 감정 기복이 심할 수 있다. | Ergenlikte ruh hâli dalgalanmaları şiddetli olabilir.
+중독 (jungdok) | bağımlılık; zehirlenme | isim | 스마트폰 중독을 막기 위해 사용 시간을 정했다. | Akıllı telefon bağımlılığını önlemek için kullanım süresi belirledim.
+회피하다 (hoepihada) | kaçınmak, kaçmak | fiil | 문제를 회피하기만 하면 해결되지 않는다. | Sorundan sadece kaçarsan çözülmez.
+자신감 (jasingam) | özgüven | isim | 발표 연습을 많이 해서 자신감이 생겼다. | Sunum provasını çok yapınca özgüvenim arttı.
