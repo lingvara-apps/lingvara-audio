@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+## Yargılama jargonu
+os autos | dava dosyası | isim (çoğul) | O advogado pediu vista dos autos para preparar a defesa. | Avukat savunmayı hazırlamak için dava dosyasını incelemek istedi.
+a peça processual | dava belgesi, dilekçe | isim (d) | Cada peça processual deve seguir as normas do tribunal. | Her dava belgesi mahkemenin kurallarına uymalıdır.
+a contestação | cevap dilekçesi | isim (d) | A empresa tem quinze dias para apresentar a contestação. | Şirketin cevap dilekçesi sunmak için on beş günü var.
+a tutela antecipada | ön hukuki koruma kararı | isim (d) | O juiz concedeu tutela antecipada para garantir o tratamento do paciente. | Hâkim hastanın tedavisini güvenceye almak için ön koruma kararı verdi.
+o agravo | ara karara itiraz | isim (e) | A defesa interpôs um agravo contra a decisão do juiz. | Savunma hâkimin kararına karşı ara karar itirazında bulundu.
+a apelação | istinaf başvurusu | isim (d) | A apelação será julgada pela câmara criminal do tribunal. | İstinaf başvurusu mahkemenin ceza dairesince karara bağlanacak.
+os embargos de declaração | açıklama talebi (karar hakkında) | isim (çoğul) | Os advogados opuseram embargos de declaração por causa de uma contradição na sentença. | Avukatlar karardaki bir çelişki nedeniyle açıklama talebinde bulundu.
+a sustentação oral | sözlü savunma | isim (d) | Na sustentação oral, a advogada falou por quinze minutos. | Sözlü savunmada avukat on beş dakika konuştu.
+a pauta de julgamento | duruşma gündemi | isim (d) | O caso entrou na pauta de julgamento da próxima semana. | Dava gelecek haftanın duruşma gündemine girdi.
+o relator | raportör hâkim | isim (e) | O relator votou pela absolvição, mas foi vencido. | Raportör hâkim beraat yönünde oy kullandı ama azınlıkta kaldı.
+## Ceza soruşturması
+o indiciado | şüpheli (soruşturmada) | isim (e) | O indiciado foi ouvido na delegacia por três horas. | Şüphelinin ifadesi karakolda üç saat boyunca alındı.
+o exame de corpo de delito | adli muayene | isim (e) | A vítima fez exame de corpo de delito logo após a agressão. | Mağdur saldırının hemen ardından adli muayeneden geçti.
+a materialidade | suçun maddi varlığı | isim (d) | A perícia técnica comprovou a materialidade do crime ambiental. | Teknik inceleme çevre suçunun maddi varlığını kanıtladı.
+a autoria | faillik | isim (d) | A polícia ainda investiga a autoria do incêndio. | Polis yangının failini hâlâ araştırıyor.
+o álibi | sav, başka yerde bulunduğuna dair kanıt | isim (e) | O suspeito tinha um álibi: estava num show naquela noite. | Şüphelinin bir savı vardı: o gece bir konserdeydi.
+a cena do crime | olay yeri | isim (d) | Os peritos isolaram a cena do crime durante horas. | Uzmanlar olay yerini saatlerce kordon altına aldı.
+a perícia criminal | kriminal inceleme | isim (d) | A perícia criminal encontrou digitais na maçaneta da porta. | Kriminal inceleme kapının kolunda parmak izi buldu.
+a reconstituição | olayın yeniden canlandırılması | isim (d) | A reconstituição do crime foi feita na presença do juiz. | Suçun yeniden canlandırılması hâkimin huzurunda yapıldı.
+o mandado de prisão | tutuklama müzekkeresi | isim (e) | A polícia cumpriu o mandado de prisão logo cedo. | Polis tutuklama müzekkeresini sabah erkenden yerine getirdi.
+a busca e apreensão | arama ve el koyma | isim (d) | A operação de busca e apreensão recolheu computadores e documentos. | Arama ve el koyma operasyonunda bilgisayarlar ve belgeler toplandı.
+## Suç türleri
+a injúria | hakaret | isim (d) | Chamar o vizinho de ladrão no grupo configurou injúria. | Komşuya grupta hırsız demek hakaret suçunu oluşturdu.
+a difamação | itibar zedeleme | isim (d) | A atriz processou o site de fofocas por difamação. | Oyuncu dedikodu sitesine itibar zedeleme davası açtı.
+o furto qualificado | nitelikli hırsızlık | isim (e) | Arrombar a janela transformou o caso em furto qualificado. | Pencereyi zorlamak olayı nitelikli hırsızlığa dönüştürdü.
+o sequestro relâmpago | kısa süreli kaçırma (para çekmek için) | isim (e) | Ele foi vítima de um sequestro relâmpago e obrigado a sacar dinheiro. | Kısa süreli bir kaçırmanın kurbanı oldu ve para çekmeye zorlandı.
+a receptação | çalıntı mal edinme | isim (d) | O dono da loja foi preso por receptação de celulares roubados. | Dükkân sahibi çalıntı telefon satın almaktan tutuklandı.
+o abuso de autoridade | yetkiyi kötüye kullanma | isim (e) | O delegado responde a processo por abuso de autoridade. | Komiser yetkiyi kötüye kullanmaktan yargılanıyor.
+a prevaricação | görevi ihmal (kişisel çıkar için) | isim (d) | O fiscal foi acusado de prevaricação por ignorar as irregularidades. | Müfettiş usulsüzlükleri görmezden gelerek görevini ihmal etmekle suçlandı.
+a concussão | memurun haraç alması | isim (d) | O servidor foi condenado por concussão ao exigir dinheiro dos comerciantes. | Memur esnaftan para talep ettiği için zorla haraç almaktan mahkûm oldu.
+o falso testemunho | yalancı tanıklık | isim (e) | A testemunha mentiu e vai responder por falso testemunho. | Tanık yalan söyledi ve yalancı tanıklıktan yargılanacak.
+a apropriação indébita | emniyeti suistimal | isim (d) | O síndico ficou com o dinheiro do condomínio e responde por apropriação indébita. | Site yöneticisi sitenin parasını cebine attı ve emniyeti suistimalden yargılanıyor.
+## Diplomasi jargonu
+a nota diplomática | diplomatik nota | isim (d) | O governo enviou uma nota diplomática pedindo explicações. | Hükümet açıklama isteyen bir diplomatik nota gönderdi.
+as credenciais | güven mektubu | isim (çoğul) | O novo embaixador apresentou as credenciais ao presidente. | Yeni büyükelçi güven mektubunu cumhurbaşkanına sundu.
+o agrément | agreman (büyükelçi onayı) | isim (e) | O país anfitrião concedeu o agrément ao novo embaixador. | Ev sahibi ülke yeni büyükelçiye agreman verdi.
+a imunidade diplomática | diplomatik dokunulmazlık | isim (d) | Por ter imunidade diplomática, o adido não pôde ser preso. | Diplomatik dokunulmazlığı olduğu için ataşe tutuklanamadı.
+a mala diplomática | diplomatik çanta | isim (d) | A mala diplomática não pode ser revistada pela alfândega. | Diplomatik çanta gümrükte aranamaz.
+a persona non grata | istenmeyen kişi | isim (d) | O diplomata foi declarado persona non grata e teve de sair do país. | Diplomat istenmeyen kişi ilan edildi ve ülkeyi terk etmek zorunda kaldı.
+o adido | ataşe | isim (e) | O adido cultural organizou uma mostra de cinema brasileiro. | Kültür ataşesi bir Brezilya sineması gösterisi düzenledi.
+o encarregado de negócios | maslahatgüzar | isim (e) | Na ausência do embaixador, o encarregado de negócios assumiu a embaixada. | Büyükelçinin yokluğunda maslahatgüzar elçiliğin başına geçti.
+o protocolo diplomático | diplomatik protokol | isim (e) | O protocolo diplomático define a ordem dos convidados no jantar. | Diplomatik protokol akşam yemeğindeki konukların sırasını belirler.
+a ratificação | onaylama (antlaşmanın) | isim (d) | O tratado ainda aguarda a ratificação pelo parlamento nacional. | Antlaşma hâlâ ulusal parlamentonun onayını bekliyor.
+## Teşhis
+a anamnese | anamnez, hasta öyküsü | isim (d) | A anamnese revelou que o paciente fumava havia trinta anos. | Hasta öyküsü hastanın otuz yıldır sigara içtiğini ortaya koydu.
+o quadro clínico | klinik tablo | isim (e) | O quadro clínico do paciente é estável, mas exige atenção. | Hastanın klinik tablosu stabil ama dikkat gerektiriyor.
+o diagnóstico diferencial | ayırıcı tanı | isim (e) | O diagnóstico diferencial descartou a dengue e confirmou a gripe. | Ayırıcı tanı dang hummasını dışladı ve gribi doğruladı.
+a etiologia | etiyoloji, hastalığın nedeni | isim (d) | A etiologia da doença ainda não foi esclarecida. | Hastalığın nedeni henüz aydınlatılamadı.
+a comorbidade | eşlik eden hastalık | isim (d) | Pacientes com comorbidades graves têm prioridade na vacinação. | Ciddi eşlik eden hastalığı olanlar aşılamada önceliklidir.
+a sintomatologia | semptomatoloji, belirtiler bütünü | isim (d) | A sintomatologia era típica de uma infecção respiratória. | Belirtiler bütünü tipik bir solunum yolu enfeksiyonuna işaret ediyordu.
+o exame físico | fizik muayene | isim (e) | No exame físico, o médico notou um inchaço no abdômen. | Fizik muayenede doktor karında bir şişlik fark etti.
+os sinais vitais | yaşamsal bulgular | isim (çoğul) | A enfermeira verifica os sinais vitais a cada quatro horas. | Hemşire yaşamsal bulguları her dört saatte bir kontrol ediyor.
+a queixa principal | ana şikâyet | isim (d) | A queixa principal da paciente era dor de cabeça constante. | Hastanın ana şikâyeti sürekli baş ağrısıydı.
+o histórico familiar | aile öyküsü | isim (e) | O histórico familiar de diabetes aumenta o risco da doença. | Ailede diyabet öyküsü hastalık riskini artırır.
+## Tedavi
+a terapêutica | tedavi yöntemi | isim (d) | A nova terapêutica reduziu o tempo de internação. | Yeni tedavi yöntemi hastanede yatış süresini kısalttı.
+o protocolo de tratamento | tedavi protokolü | isim (e) | O hospital seguiu o protocolo de tratamento recomendado pelo ministério. | Hastane bakanlığın önerdiği tedavi protokolünü izledi.
+a dosagem | dozaj | isim (d) | O médico ajustou a dosagem do remédio depois dos exames. | Doktor tahlillerden sonra ilacın dozajını ayarladı.
+a intubação | entübasyon | isim (d) | O paciente precisou de intubação por causa da falta de ar. | Hasta nefes darlığı nedeniyle entübasyona ihtiyaç duydu.
+a nebulização | buhar tedavisi | isim (d) | A criança fez nebulização para aliviar a crise de asma. | Çocuk astım krizini hafifletmek için buhar tedavisi aldı.
+o soro fisiológico | serum fizyolojik | isim (e) | A enfermeira aplicou soro fisiológico na veia do paciente. | Hemşire hastanın damarına serum fizyolojik verdi.
+a sutura | dikiş (cerrahi) | isim (d) | A sutura do corte na mão levou oito pontos. | Eldeki kesiğin dikişinde sekiz dikiş atıldı.
+a punção | ponksiyon, iğneyle sıvı alma | isim (d) | A punção lombar ajudou a confirmar o diagnóstico. | Bel ponksiyonu tanının doğrulanmasına yardımcı oldu.
+a drenagem | drenaj, akıtma | isim (d) | Depois da cirurgia, foi feita a drenagem do líquido acumulado. | Ameliyattan sonra biriken sıvının drenajı yapıldı.
+a profilaxia | koruyucu tedavi | isim (d) | Antes da viagem à Amazônia, fizemos profilaxia contra a malária. | Amazon yolculuğundan önce sıtmaya karşı koruyucu tedavi aldık.
+## Tıbbi araçlar
+o estetoscópio | stetoskop | isim (e) | A médica auscultou o pulmão com o estetoscópio. | Doktor akciğeri stetoskopla dinledi.
+o esfigmomanômetro | tansiyon aleti | isim (e) | O esfigmomanômetro digital mede a pressão em segundos. | Dijital tansiyon aleti tansiyonu saniyeler içinde ölçer.
+o bisturi | neşter | isim (e) | O cirurgião pediu o bisturi e começou a operação. | Cerrah neşteri istedi ve ameliyata başladı.
+a seringa | şırınga | isim (d) | Cada vacina é aplicada com uma seringa descartável. | Her aşı tek kullanımlık bir şırıngayla yapılır.
+o cateter | kateter | isim (e) | O cateter foi colocado na veia do braço esquerdo. | Kateter sol koldaki damara yerleştirildi.
+o desfibrilador | defibrilatör | isim (e) | O segurança usou o desfibrilador e salvou o torcedor. | Güvenlik görevlisi defibrilatörü kullanıp taraftarı kurtardı.
+o oxímetro | oksimetre | isim (e) | O oxímetro de dedo mostrou baixa saturação de oxigênio. | Parmak oksimetresi düşük oksijen doygunluğu gösterdi.
+o torniquete | turnike | isim (e) | O socorrista fez um torniquete para conter o sangramento da perna. | Sağlık görevlisi bacaktaki kanamayı durdurmak için turnike yaptı.
+o respirador | solunum cihazı | isim (e) | Durante a pandemia, o hospital comprou vinte respiradores novos. | Pandemi sırasında hastane yirmi yeni solunum cihazı satın aldı.
+a pinça cirúrgica | cerrahi pens | isim (d) | A enfermeira entregou a pinça cirúrgica ao médico. | Hemşire cerrahi pensi doktora uzattı.
+## Hastalık terimleri
+a anemia | kansızlık | isim (d) | A anemia pode causar cansaço e falta de ar. | Kansızlık yorgunluk ve nefes darlığına yol açabilir.
+a insuficiência renal | böbrek yetmezliği | isim (d) | A insuficiência renal obriga o paciente a fazer hemodiálise. | Böbrek yetmezliği hastayı diyalize girmeye zorluyor.
+a arritmia | ritim bozukluğu | isim (d) | O exame detectou uma arritmia leve no coração. | Muayene kalpte hafif bir ritim bozukluğu saptadı.
+a apendicite | apandisit | isim (d) | Ele foi operado às pressas por causa de uma apendicite. | Apandisit nedeniyle aceleyle ameliyat edildi.
+a cirrose | siroz | isim (d) | A cirrose pode ser causada pelo consumo excessivo de álcool. | Siroz aşırı alkol tüketiminden kaynaklanabilir.
+a hérnia de disco | bel fıtığı | isim (d) | A hérnia de disco obrigou o pedreiro a parar de trabalhar. | Bel fıtığı duvarcıyı çalışmayı bırakmaya zorladı.
+o glaucoma | glokom, göz tansiyonu | isim (e) | O glaucoma pode levar à cegueira se não for tratado. | Glokom tedavi edilmezse körlüğe yol açabilir.
+a osteoporose | kemik erimesi | isim (d) | A osteoporose é mais comum em mulheres depois da menopausa. | Kemik erimesi menopozdan sonra kadınlarda daha yaygındır.
+a embolia | embolizm, damar tıkanması | isim (d) | Uma embolia pulmonar exige atendimento imediato no pronto-socorro. | Akciğer embolisi acil serviste hemen müdahale gerektirir.
+a sepse | sepsis, kan zehirlenmesi | isim (d) | Sem antibióticos, a infecção evoluiu para uma sepse grave. | Antibiyotik verilmeyince enfeksiyon ağır bir kan zehirlenmesine dönüştü.
+## Tıbbi fiil ve sıfatlar
+palpar | elle muayene etmek | fiil | O médico palpou o abdômen do paciente com cuidado. | Doktor hastanın karnını dikkatle elle muayene etti.
+prescrever | reçete etmek | fiil | A dermatologista prescreveu uma pomada para a alergia. | Dermatolog alerji için bir merhem reçete etti.
+intubar | entübe etmek | fiil | A equipe teve que intubar o paciente na emergência. | Ekip hastayı acilde entübe etmek zorunda kaldı.
+drenar | sıvıyı akıtmak, drene etmek | fiil | O cirurgião drenou o abscesso e o paciente melhorou. | Cerrah apseyi drene etti ve hasta iyileşti.
+nebulizar | buhar tedavisi uygulamak | fiil | A mãe nebuliza o filho toda noite durante o inverno. | Anne kış boyunca her gece çocuğuna buhar tedavisi uyguluyor.
+clinicar | hekimlik yapmak | fiil | Ele clinicou por quarenta anos numa cidade do interior. | Kırk yıl boyunca taşrada bir kasabada hekimlik yaptı.
+regredir | gerilemek (hastalık) | fiil | Com o novo tratamento, o tumor regrediu bastante em seis meses. | Yeni tedaviyle tümör altı ayda epey geriledi.
+agudizar-se | akutlaşmak, şiddetlenmek | fiil · dönüşlü | A dor no estômago se agudizou durante a madrugada. | Mide ağrısı gece boyunca şiddetlendi.
+a intercorrência | beklenmedik komplikasyon | isim (d) | Felizmente, a cirurgia ocorreu sem nenhuma intercorrência grave. | Neyse ki ameliyat hiçbir ciddi komplikasyon olmadan gerçekleşti.
+refratário | tedaviye dirençli | sıfat | O paciente tem uma epilepsia refratária aos remédios comuns. | Hastanın olağan ilaçlara dirençli bir epilepsisi var.
+## Adli tıp ve tıp hukuku
+a medicina legal | adli tıp | isim (d) | O corpo foi levado ao instituto de medicina legal. | Ceset adli tıp enstitüsüne götürüldü.
+o médico-legista | adli tıp uzmanı | isim (e) | O médico-legista confirmou a hora aproximada da morte. | Adli tıp uzmanı yaklaşık ölüm saatini doğruladı.
+a necropsia | otopsi | isim (d) | A necropsia revelou envenenamento por monóxido de carbono. | Otopsi karbonmonoksit zehirlenmesini ortaya çıkardı.
+o atestado de óbito | ölüm belgesi | isim (e) | A família precisou do atestado de óbito para o inventário. | Ailenin tereke işlemleri için ölüm belgesine ihtiyacı oldu.
+o erro médico | hekim hatası | isim (e) | O hospital foi condenado por erro médico na cirurgia. | Hastane ameliyattaki hekim hatası nedeniyle mahkûm edildi.
+a negligência médica | tıbbi ihmal | isim (d) | A família acusa o plantonista de negligência médica. | Aile nöbetçi doktoru tıbbi ihmalle suçluyor.
+a interdição judicial | kısıtlılık kararı | isim (d) | A interdição judicial passou a gestão dos bens para a filha. | Kısıtlılık kararıyla malların yönetimi kızına geçti.
+a exumação | mezardan çıkarma | isim (d) | O juiz autorizou a exumação para um novo exame de DNA. | Hâkim yeni bir DNA testi için mezarın açılmasına izin verdi.
+a causa mortis | ölüm nedeni | isim (d) | A causa mortis ainda depende do resultado dos exames. | Ölüm nedeni hâlâ tahlil sonuçlarına bağlı.
+o sigilo médico | hekimlik gizliliği | isim (e) | O sigilo médico protege as informações do paciente. | Hekimlik gizliliği hastanın bilgilerini korur.
