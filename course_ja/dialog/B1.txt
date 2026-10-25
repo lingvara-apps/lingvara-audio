@@ -1,0 +1,45 @@
+# DIALOG: Şehirde yeni bir hayat | Japonca B1: ev arama, sağlık, iş ve afet hazırlığı | Yui | Emre
+## Birlikte ev ilanlarına bakmak
+B | 結衣さん、ちょっと相談があるんだけど。引っ越しを考えているんだ。 | Yui, sana danışmak istediğim bir şey var. Taşınmayı düşünüyorum.
+A | そうなんだ。今の部屋、何か問題があるの？ | Öyle mi? Şimdiki evinde bir sorun mu var?
+B | 会社から遠すぎて、通勤に一時間半もかかるんだよ。 | Şirkete çok uzak, işe gidip gelmek tam bir buçuk saat sürüyor.
+A | それは大変だね。予算はどのくらい？ | Bu çok yorucu. Bütçen ne kadar?
+B | 家賃は七万円以内がいいな。駅から近ければ、狭くてもかまわない。 | Kira yetmiş bin yenin altında olsun. İstasyona yakınsa küçük olsa da olur.
+A | このサイト、見て。駅から徒歩五分で、南向きの角部屋だって。 | Şu siteye bak. İstasyona beş dakika yürüme mesafesinde, güneye bakan bir köşe daireymiş.
+B | よさそうだね。でも、築三十年って書いてあるよ。 | İyi görünüyor. Ama otuz yıllık bina yazıyor.
+A | 去年リフォームされたらしいから、中はきれいだと思うよ。 | Geçen yıl tadilattan geçmiş galiba, içi temizdir bence.
+B | 保証人がいないんだけど、外国人でも借りられるかな。 | Kefilim yok, yabancılar da kiralayabilir mi acaba?
+A | 保証会社を使えば大丈夫なはず。週末、一緒に内見に行こうか。 | Kefalet şirketi kullanırsan sorun olmaz herhalde. Hafta sonu birlikte gezmeye gidelim mi?
+## Uyku sorunları
+B | 結衣さん、最近元気がないみたいだけど、大丈夫？ | Yui, son zamanlarda keyifsiz görünüyorsun, iyi misin?
+A | 実は、ここ二週間ぐらい、夜なかなか眠れないの。 | Aslında son iki haftadır geceleri bir türlü uyuyamıyorum.
+B | それは大変だね。何か悩みでもあるの？ | Çok zor olmalı. Seni düşündüren bir şey mi var?
+A | 新しいプロジェクトのプレッシャーかな。夜中に仕事のことを考えてしまうんだ。 | Galiba yeni projenin baskısı. Gece yarısı iş düşünüp duruyorum.
+B | 寝る前にスマホを見ていない？画面の光は睡眠によくないらしいよ。 | Yatmadan önce telefona bakıyor musun? Ekran ışığı uykuya iyi gelmiyormuş.
+A | 確かに、ベッドでずっとニュースを読んでいるかも。 | Haklısın, belki yatakta sürekli haber okuyorum.
+B | 気分転換に、週末は一緒に温泉に行かない？少しはリラックスできると思うよ。 | Kafa dağıtmak için hafta sonu birlikte kaplıcaya gidelim mi? Biraz rahatlarsın diye düşünüyorum.
+A | いいね。でも、それでも眠れなかったら、病院に行ったほうがいいかな。 | İyi fikir. Ama yine de uyuyamazsam hastaneye gitsem mi acaba?
+B | うん、無理しないで、早めに受診したほうがいいよ。一人で抱え込まないでね。 | Evet, kendini zorlama, erkenden muayene olmak iyi olur. Her şeyi tek başına içine atma.
+A | ありがとう。エムレに話したら、少しすっきりした。 | Teşekkürler. Emre'ye anlatınca biraz ferahladım.
+## Toplantıda fikir ayrılığı
+A | では、新商品の宣伝について、意見を聞かせてください。 | O halde yeni ürünün tanıtımı hakkında görüşlerinizi duyalım.
+B | 個人的には、テレビのコマーシャルより、ネットの広告に予算を使うべきだと思います。 | Kişisel olarak bütçeyi televizyon reklamından çok internet reklamlarına harcamamız gerektiğini düşünüyorum.
+A | なるほど。その理由を説明していただけますか。 | Anlıyorum. Bunun nedenini açıklar mısınız?
+B | 若い客は、ほとんどテレビを見ないからです。調査の結果もそれを示しています。 | Çünkü genç müşteriler neredeyse hiç televizyon izlemiyor. Anket sonuçları da bunu gösteriyor.
+A | 確かに一理ありますね。ただ、年配のお客様も大切にしなければなりません。 | Kuşkusuz haklılık payı var. Ancak yaşlı müşterilerimizi de ihmal etmemeliyiz.
+B | おっしゃる通りです。では、両方を組み合わせるのはどうでしょうか。 | Haklısınız. O zaman ikisini birleştirmeye ne dersiniz?
+A | いい案ですね。予算の割合をどうするか、もう少し検討しましょう。 | İyi bir fikir. Bütçeyi nasıl paylaştıracağımızı biraz daha değerlendirelim.
+B | 承知しました。来週までに、具体的な案をまとめておきます。 | Anlaşıldı. Gelecek haftaya kadar somut bir öneri hazırlayacağım.
+A | お願いします。決定は部長と相談したうえで行います。 | Lütfen. Kararı müdürle görüştükten sonra vereceğiz.
+B | 分かりました。資料ができ次第、皆さんにお送りします。 | Anladım. Belgeler hazır olur olmaz herkese göndereceğim.
+## Depreme hazırlık
+B | 昨日の夜の地震、びっくりしたね。震度四だったって。 | Dün geceki deprem çok korkuttu. Dört şiddetindeymiş.
+A | 本当に。棚から本が落ちてきて、目が覚めちゃった。 | Gerçekten. Raftan kitaplar düşünce uyandım.
+B | 僕の国でも地震は多いけど、日本は備えがしっかりしているよね。 | Benim ülkemde de deprem çok olur ama Japonya'da hazırlıklar çok sağlam.
+A | うん。でも、私はまだ非常食も準備していないの。 | Evet. Ama ben hâlâ acil durum yiyeceği bile hazırlamadım.
+B | 水と食べ物は、少なくとも三日分あったほうがいいらしいよ。 | Su ve yiyeceğin en az üç günlük olması gerekiyormuş.
+A | 家具も壁に固定しておかないと危ないよね。 | Mobilyaları da duvara sabitlemezsek tehlikeli, değil mi?
+B | そうだね。それから、近くの避難所がどこにあるか、確かめておこう。 | Evet. Bir de yakındaki toplanma yerinin nerede olduğunu öğrenelim.
+A | 区役所のサイトに地図が載っているはずだよ。今調べてみる。 | Belediyenin sitesinde harita olmalı. Şimdi bakayım.
+B | 週末、一緒に防災用品を買いに行かない？ | Hafta sonu birlikte afet malzemesi almaya gidelim mi?
+A | いいね。一人だとつい後回しにしちゃうから、助かる。 | Olur. Tek başıma olunca hep erteliyorum, iyi olur.
