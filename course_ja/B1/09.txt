@@ -1,0 +1,111 @@
+# UNIT: Kent hayatı ve konut | Ev bulmak, mahalle, şehir yaşamı, şehir sorunları, kamu hizmetleri
+## Ev aramak
+賃貸 (chintai) | kiralık | isim | 結婚するまでは、賃貸のマンションに住むつもりだ。 | Evlenene kadar kiralık bir dairede oturmayı düşünüyorum.
+持ち家 (mochiie) | kendi evi (mülk) | isim | 持ち家と賃貸、どちらが得だと思いますか。 | Ev sahibi olmak mı kiracılık mı, sizce hangisi daha kârlı?
+内見 (naiken) | evi gezip görme | isim | 週末に三つの部屋を内見する予定だ。 | Hafta sonu üç daireyi gezmeyi planlıyorum.
+築年数 (chikunensū) | binanın yaşı | isim | 築年数は古いけれど、中はきれいにリフォームされている。 | Bina eski ama içi güzelce yenilenmiş.
+駅近 (ekichika) | istasyona yakın | isim | 駅近の物件は人気があって、すぐに決まってしまう。 | İstasyona yakın evler çok aranıyor, hemen kapılıyor.
+仲介 (chūkai) | aracılık | isim | 不動産屋に仲介の手数料を払った。 | Emlakçıya aracılık ücreti ödedim.
+入居 (nyūkyo) | eve yerleşme | isim | 来月一日から入居できるそうです。 | Gelecek ayın birinden itibaren taşınabilirmişiz.
+退去 (taikyo) | evi boşaltma | isim | 退去する一か月前までに、大家さんに連絡が必要だ。 | Evden çıkmadan en az bir ay önce ev sahibine haber vermek gerekir.
+保証人 (hoshōnin) | kefil | isim | 部屋を借りるのに、保証人が必要だと言われた。 | Daireyi kiralamak için kefil gerektiği söylendi.
+住宅 (jūtaku) | konut | isim | この辺りは新しい住宅がどんどん建っている。 | Bu civarda sürekli yeni konutlar yapılıyor.
+## Evin özellikleri
+南向き (minamimuki) | güneye bakan | isim | 南向きの部屋なので、冬でも暖かい。 | Oda güneye baktığı için kışın bile sıcak.
+角部屋 (kadobeya) | köşe daire | isim | 角部屋は窓が多くて、明るい。 | Köşe dairelerde pencere çok olduğu için aydınlıktır.
+防音 (bōon) | ses yalıtımı | isim | ピアノを弾くので、防音の部屋を探している。 | Piyano çaldığım için ses yalıtımlı bir oda arıyorum.
+収納 (shūnō) | depolama alanı, dolap | isim | この部屋は収納が少なくて、物が片付かない。 | Bu odada dolap az, eşyalar toplanmıyor.
+設備 (setsubi) | donanım, tesisat | isim | 古いアパートだが、設備は新しい。 | Eski bir apartman ama donanımı yeni.
+オートロック (ōtorokku) | otomatik kilitli giriş | isim | 一人暮らしの女性には、オートロックのマンションが人気だ。 | Yalnız yaşayan kadınlar arasında otomatik kilitli binalar çok rağbet görüyor.
+洋室 (yōshitsu) | Batı tarzı oda | isim | 和室を洋室に変えて、ベッドを置いた。 | Japon tarzı odayı Batı tarzına çevirip yatak koydum.
+ワンルーム (wanrūmu) | stüdyo daire | isim | 学生時代は、狭いワンルームに住んでいた。 | Öğrenciyken küçük bir stüdyo dairede oturuyordum.
+家具付き (kagutsuki) | eşyalı | isim | 短い間だけなので、家具付きの部屋を借りた。 | Kısa bir süre için olduğundan eşyalı bir oda kiraladım.
+二世帯住宅 (nisetai jūtaku) | iki kuşaklık ev | isim | 両親と一緒に、二世帯住宅に住んでいる。 | Annemle babamla birlikte iki kuşaklık bir evde oturuyoruz.
+## Mahalle hayatı
+町内 (chōnai) | mahalle içi | isim | 日曜日の朝、町内の掃除がある。 | Pazar sabahı mahalle temizliği var.
+住民 (jūmin) | sakin, halk | isim | 住民の意見を聞いて、公園が作られた。 | Sakinlerin görüşleri alınarak park yapıldı.
+下町 (shitamachi) | eski halk mahallesi | isim | 東京の下町には、昔ながらの店が残っている。 | Tokyo'nun eski mahallelerinde geleneksel dükkânlar hâlâ duruyor.
+路地 (roji) | ara sokak | isim | 細い路地の奥に、小さなおいしい店がある。 | Dar bir ara sokağın sonunda küçük ve lezzetli bir lokanta var.
+坂道 (sakamichi) | yokuş | isim | 家の前の坂道は、自転車で上るのが大変だ。 | Evin önündeki yokuşu bisikletle çıkmak zor.
+公民館 (kōminkan) | halk merkezi | isim | 公民館で毎週、料理教室が開かれている。 | Halk merkezinde her hafta yemek kursu düzenleniyor.
+銭湯 (sentō) | mahalle hamamı | isim | 家のお風呂が壊れたので、銭湯に行った。 | Evdeki banyo bozulunca mahalle hamamına gittim.
+回覧板 (kairanban) | mahalle duyuru panosu (elden ele dolaşan) | isim | 回覧板で、祭りのお知らせが回ってきた。 | Elden ele dolaşan duyuru panosuyla festival haberi geldi.
+顔見知り (kaomishiri) | yüz aşinalığı olan kişi | isim | 毎朝同じ電車に乗るので、何人か顔見知りがいる。 | Her sabah aynı trene bindiğim için birkaç tanıdık yüz var.
+町並み (machinami) | sokakların görünümü | isim | 昔の町並みが残る地区を散歩した。 | Eski sokak dokusunun korunduğu semtte yürüdüm.
+## Şehirde yaşam
+都市 (toshi) | şehir, kent | isim | 世界の大きな都市では、家賃がどんどん高くなっている。 | Dünyanın büyük şehirlerinde kiralar giderek yükseliyor.
+大都市 (daitoshi) | büyükşehir | isim | 大都市は便利だが、いつも人が多くて疲れる。 | Büyükşehirler kullanışlı ama hep kalabalık olduğu için yorucu.
+人混み (hitogomi) | kalabalık | isim | 人混みが苦手なので、休日は家にいることが多い。 | Kalabalıktan hoşlanmadığım için tatil günleri çoğunlukla evdeyim.
+都心 (toshin) | şehir merkezi | isim | 都心まで電車で三十分の所に住んでいる。 | Şehir merkezine trenle otuz dakika uzaklıkta oturuyorum.
+高層ビル (kōsō biru) | gökdelen | isim | 駅の周りに高層ビルが次々と建った。 | İstasyonun çevresine art arda gökdelenler dikildi.
+再開発 (saikaihatsu) | kentsel dönüşüm | isim | 駅前の再開発で、古い商店街がなくなった。 | İstasyon önündeki kentsel dönüşümle eski çarşı ortadan kalktı.
+通勤ラッシュ (tsūkin rasshu) | işe gidiş saatindeki yoğunluk | isim | 通勤ラッシュを避けて、早めに家を出ている。 | Sabah yoğunluğundan kaçmak için evden erken çıkıyorum.
+一人暮らし (hitorigurashi) | yalnız yaşama | isim | 大学に入ってから、一人暮らしを始めた。 | Üniversiteye girince tek başıma yaşamaya başladım.
+地価 (chika) | arsa fiyatı | isim | 新しい駅ができて、この辺りの地価が上がった。 | Yeni istasyon açılınca bu civarda arsa fiyatları yükseldi.
+物騒 (bussō) | tehlikeli, güvensiz | sıfat | 最近この辺りは物騒だから、夜は気をつけて。 | Son zamanlarda bu civar güvenli değil, geceleri dikkat et.
+## Şehir sorunları
+過密 (kamitsu) | aşırı yoğunluk | isim | 都市の過密が、さまざまな問題を生んでいる。 | Şehirlerdeki aşırı yoğunluk çeşitli sorunlara yol açıyor.
+過疎 (kaso) | nüfus erimesi | isim | 過疎の村では、学校が次々に閉校している。 | Nüfusu azalan köylerde okullar birer birer kapanıyor.
+空き家 (akiya) | boş ev | isim | 日本では空き家が増えて、問題になっている。 | Japonya'da boş evler artıyor ve sorun haline geliyor.
+少子化 (shōshika) | doğum oranının düşmesi | isim | 少子化で、子ども向けの店が減っている。 | Doğum oranı düşünce çocuklara yönelik dükkânlar azalıyor.
+高齢化 (kōreika) | nüfusun yaşlanması | isim | この町は高齢化が進んで、若い人が少ない。 | Bu kasabada nüfus yaşlandı, genç az.
+犯罪 (hanzai) | suç | isim | 街灯を増やしてから、犯罪が減った。 | Sokak lambaları artırıldıktan sonra suçlar azaldı.
+不足 (fusoku) | eksiklik, yetersizlik | isim | 夏になると、水不足が心配される。 | Yaz gelince su sıkıntısından endişe ediliyor.
+待機児童 (taiki jidō) | kreş sırası bekleyen çocuk | isim | 都会では、待機児童の問題がまだ解決していない。 | Büyük şehirlerde kreşte yer bekleyen çocuk sorunu hâlâ çözülmedi.
+公害 (kōgai) | çevre kirliliği (sanayi) | isim | この地域は昔、工場の公害に苦しんだ。 | Bu bölge eskiden fabrika kirliliğinden çok çekti.
+放置自転車 (hōchi jitensha) | terk edilmiş bisiklet | isim | 駅前の放置自転車が、市によって撤去された。 | İstasyon önündeki sahipsiz bisikletler belediye tarafından kaldırıldı.
+## Altyapı
+下水道 (gesuidō) | kanalizasyon | isim | 古い下水道を直す工事が始まった。 | Eski kanalizasyonu onarma çalışması başladı.
+歩道 (hodō) | kaldırım | isim | 歩道を自転車で走るのは危ない。 | Kaldırımda bisiklet sürmek tehlikelidir.
+横断歩道 (ōdan hodō) | yaya geçidi | isim | 道を渡るときは、横断歩道を使ってください。 | Yolu geçerken yaya geçidini kullanın lütfen.
+歩道橋 (hodōkyō) | yaya üst geçidi | isim | 大きな道路なので、歩道橋を渡らなければならない。 | Geniş bir yol olduğu için üst geçitten geçmek gerekiyor.
+街灯 (gaitō) | sokak lambası | isim | この道は街灯が少なくて、夜は暗い。 | Bu yolda sokak lambası az, geceleri karanlık.
+踏切 (fumikiri) | hemzemin geçit | isim | 踏切の前で、電車が通るのを待った。 | Hemzemin geçidin önünde trenin geçmesini bekledim.
+線路 (senro) | tren rayı | isim | 線路に入るのは大変危険です。 | Raylara girmek son derece tehlikelidir.
+工事 (kōji) | inşaat, yapım işi | isim | 隣で工事をしていて、朝からうるさい。 | Yan tarafta inşaat var, sabahtan beri gürültülü.
+整備 (seibi) | düzenleme, bakım | isim | 川沿いに自転車道が整備された。 | Nehir kenarına bisiklet yolu yapıldı.
+施設 (shisetsu) | tesis | isim | この町には、スポーツの施設がたくさんある。 | Bu kasabada çok sayıda spor tesisi var.
+## Kamu hizmetleri
+区役所 (kuyakusho) | ilçe belediyesi | isim | 引っ越したら、十四日以内に区役所に届けてください。 | Taşındıktan sonra on dört gün içinde ilçe belediyesine bildirin.
+保健所 (hokenjo) | halk sağlığı merkezi | isim | 犬を飼い始めたら、保健所に登録が必要だ。 | Köpek beslemeye başlayınca sağlık merkezine kayıt gerekiyor.
+消防署 (shōbōsho) | itfaiye istasyonu | isim | 近くの消防署で、子ども向けの見学会があった。 | Yakındaki itfaiye istasyonunda çocuklar için bir gezi düzenlendi.
+保育園 (hoikuen) | kreş | isim | 娘を保育園に預けてから、会社に行く。 | Kızımı kreşe bıraktıktan sonra işe gidiyorum.
+公営住宅 (kōei jūtaku) | kamu konutu | isim | 公営住宅は家賃が安いので、応募が多い。 | Kamu konutlarının kirası ucuz olduğu için başvuru çok.
+自治体 (jichitai) | yerel yönetim | isim | ごみの出し方は、自治体によって違う。 | Çöp atma kuralları yerel yönetime göre değişir.
+住民税 (jūminzei) | yerel sakin vergisi | isim | 六月に住民税の通知が届いた。 | Haziranda yerel vergi bildirimi geldi.
+転入 (tennyū) | (bir yere) taşınıp kayıt olma | isim | 転入の手続きには、パスポートが必要です。 | Taşınma kaydı için pasaport gereklidir.
+転出 (tenshutsu) | (bir yerden) taşınma kaydı | isim | 前の市役所で転出の届けを出してきた。 | Eski belediyeye gidip taşınma bildirimini yaptım.
+役場 (yakuba) | kasaba/köy belediyesi | isim | 村の役場で、子育ての相談ができる。 | Köy belediyesinde çocuk yetiştirmeyle ilgili danışmanlık alınabilir.
+## Evde fiiller II
+住み替える (sumikaeru) | ev değiştirmek | fiil | 子どもが生まれたので、広い家に住み替えた。 | Çocuğumuz doğunca daha büyük bir eve geçtik.
+建てる (tateru) | inşa etmek, yapmak | fiil | いつか海の近くに家を建てたい。 | Bir gün deniz kenarında bir ev yaptırmak istiyorum.
+建て替える (tatekaeru) | yıkıp yeniden yapmak | fiil | 古くなった実家を建て替えることになった。 | Eskiyen baba evini yıkıp yeniden yapmaya karar verdik.
+リフォーム (rifōmu) | tadilat | isim | 台所をリフォームして、使いやすくなった。 | Mutfağı tadilattan geçirince kullanışlı hale geldi.
+改装 (kaisō) | yenileme | isim | 駅前の本屋は改装のため、一か月休業する。 | İstasyon önündeki kitapçı yenileme nedeniyle bir ay kapalı olacak.
+貸し出す (kashidasu) | kiraya vermek, ödünç vermek | fiil | 使っていない部屋を旅行者に貸し出している。 | Kullanmadığım odayı gezginlere kiraya veriyorum.
+片付く (katazuku) | toplanmak, düzene girmek | fiil | 引っ越しの荷物がやっと片付いた。 | Taşınma eşyaları nihayet yerleşti.
+散らかす (chirakasu) | dağıtmak | fiil | 子どもがおもちゃを部屋中に散らかしている。 | Çocuk oyuncakları bütün odaya dağıtıyor.
+溜まる (tamaru) | birikmek | fiil | 忙しくて、洗濯物が溜まってしまった。 | Meşguliyetten çamaşırlar birikti.
+塞ぐ (fusagu) | tıkamak, kapatmak | fiil | 大きな荷物が廊下を塞いでいる。 | Büyük bir eşya koridoru kapatıyor.
+## Komşuluk kuralları
+共用 (kyōyō) | ortak kullanım | isim | 廊下や階段は共用の部分なので、物を置かないでください。 | Koridor ve merdivenler ortak alan olduğu için eşya bırakmayın.
+騒ぐ (sawagu) | gürültü yapmak | fiil | 夜遅くに部屋で騒がないでください。 | Gece geç saatte odada gürültü yapmayın lütfen.
+ペット可 (petto ka) | evcil hayvan kabul edilir | isim | 猫がいるので、ペット可のアパートを探している。 | Kedim olduğu için evcil hayvana izin veren bir daire arıyorum.
+迷惑をかける (meiwaku o kakeru) | rahatsızlık vermek | deyim | 近所の人に迷惑をかけないように気をつけている。 | Komşulara rahatsızlık vermemeye dikkat ediyorum.
+気配り (kikubari) | özen, düşüncelilik | isim | 彼女は周りへの気配りができる人だ。 | O, etrafındakileri düşünen biridir.
+トラブル (toraburu) | sorun, anlaşmazlık | isim | ごみの出し方で、隣の人とトラブルになった。 | Çöp atma yüzünden komşuyla sorun yaşadık.
+管理人 (kanrinin) | apartman görevlisi | isim | 電球が切れたので、管理人さんに連絡した。 | Ampul yandığı için apartman görevlisine haber verdim.
+住人 (jūnin) | sakin, oturan | isim | このマンションの住人は、お年寄りが多い。 | Bu binanın sakinlerinin çoğu yaşlı.
+お隣さん (otonari-san) | yan komşu | isim | お隣さんから、田舎の野菜をいただいた。 | Yan komşumuz köyden gelen sebzelerden verdi.
+生活音 (seikatsuon) | gündelik yaşam sesleri | isim | 古いアパートは、上の階の生活音がよく聞こえる。 | Eski apartmanlarda üst katın gündelik sesleri iyi duyulur.
+## Şehir ve taşra
+地方都市 (chihō toshi) | taşra şehri | isim | 大学を出て、地方都市の会社に就職した。 | Üniversiteden sonra bir taşra şehrindeki şirkette işe girdim.
+移住 (ijū) | göç, yerleşme | isim | 東京から北海道に移住する人が増えている。 | Tokyo'dan Hokkaido'ya yerleşenler artıyor.
+農村 (nōson) | tarım köyü | isim | 夏休みに、農村で田植えを体験した。 | Yaz tatilinde bir köyde pirinç dikimi deneyimledim.
+漁村 (gyoson) | balıkçı köyü | isim | 小さな漁村で、とれたての魚を食べた。 | Küçük bir balıkçı köyünde taze tutulmuş balık yedik.
+田園 (den'en) | kırlar, tarlalar | isim | 車窓から、広い田園の風景が見えた。 | Pencereden geniş tarlaların manzarası göründü.
+田舎暮らし (inakagurashi) | taşra hayatı | isim | 退職したら、田舎暮らしをしたいと思っている。 | Emekli olunca kırsalda yaşamak istiyorum.
+地域社会 (chiiki shakai) | yerel topluluk | isim | 地域社会とのつながりが、子育てには大切だ。 | Çocuk yetiştirirken yerel toplulukla bağ önemlidir.
+人口減少 (jinkō genshō) | nüfus azalması | isim | 人口減少で、バスの本数が減った。 | Nüfus azalınca otobüs seferleri seyreldi.
+交通の便 (kōtsū no ben) | ulaşım kolaylığı | deyim | ここは交通の便がいいので、どこへ行くにも楽だ。 | Burada ulaşım kolay, her yere rahatça gidiliyor.
+住み慣れる (suminareru) | bir yere alışmak (yaşayarak) | fiil | 住み慣れた町を離れるのは寂しい。 | Alıştığın şehirden ayrılmak hüzünlüdür.
