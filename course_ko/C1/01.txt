@@ -1,0 +1,111 @@
+# UNIT: Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+## Tez ve kanıtlama
+논지 (nonji) | ana fikir, tez (bir yazının savunduğu görüş) | isim | 이 논문의 논지는 서론에서 명확하게 제시되어 있다. | Bu makalenin tezi giriş bölümünde açıkça ortaya konmuştur.
+명제 (myeongje) | önerme | isim | 그는 모든 인간은 평등하다는 명제에서 논의를 출발한다. | O, tartışmaya bütün insanların eşit olduğu önermesinden başlar.
+전제 (jeonje) | öncül, ön kabul | isim | 잘못된 전제에서 출발한 논증은 설득력을 잃기 마련이다. | Yanlış bir öncülden yola çıkan akıl yürütme ikna gücünü yitirir.
+논거 (nongeo) | dayanak, argümanın gerekçesi | isim | 필자는 세 가지 논거를 들어 자신의 주장을 뒷받침했다. | Yazar, iddiasını üç dayanakla destekledi.
+입증하다 (ipjeunghada) | kanıtlamak, ispat etmek | fiil | 연구진은 실험을 통해 새로운 이론을 입증했다. | Araştırma ekibi deney yoluyla yeni kuramı kanıtladı.
+반증하다 (banjeunghada) | yanlışlamak, aksini kanıtlamak | fiil | 단 하나의 예외만으로도 그 가설을 반증할 수 있다. | Tek bir istisna bile o hipotezi yanlışlamaya yeter.
+뒷받침하다 (dwitbatchimhada) | desteklemek (kanıtla) | fiil | 이 자료는 우리의 주장을 충분히 뒷받침한다. | Bu veriler iddiamızı yeterince destekliyor.
+논증 (nonjeung) | akıl yürütme, kanıtlama | isim | 그의 논증은 논리적으로 빈틈이 없어 보였다. | Onun akıl yürütmesi mantıksal olarak kusursuz görünüyordu.
+가설을 세우다 (gaseoreul seuda) | hipotez kurmak | ifade | 연구자는 먼저 가설을 세우고 이를 검증할 방법을 고안했다. | Araştırmacı önce bir hipotez kurdu, sonra onu sınayacak bir yöntem tasarladı.
+귀결 (gwigyeol) | sonuç, varılan nokta | isim | 이러한 결과는 앞선 논의의 자연스러운 귀결이라 할 수 있다. | Bu sonuç, önceki tartışmanın doğal bir sonucu sayılabilir.
+## Veri ve analiz
+표본 (pyobon) | örneklem | isim | 표본의 크기가 작아 결과를 일반화하기 어렵다. | Örneklem küçük olduğu için sonuçları genellemek zordur.
+변수 (byeonsu) | değişken | isim | 연구진은 나이와 소득을 주요 변수로 설정했다. | Araştırmacılar yaş ve geliri temel değişkenler olarak belirledi.
+상관관계 (sanggwangwangye) | korelasyon, ilişki | isim | 수면 시간과 학업 성취도 사이에는 뚜렷한 상관관계가 나타났다. | Uyku süresi ile akademik başarı arasında belirgin bir korelasyon görüldü.
+인과관계 (ingwagwangye) | nedensellik ilişkisi | isim | 상관관계가 곧 인과관계를 의미하는 것은 아니다. | Korelasyon, doğrudan nedensellik anlamına gelmez.
+유의미하다 (yuuimihada) | anlamlı olmak (istatistiksel) | sıfat | 두 집단 간에 통계적으로 유의미한 차이가 발견되었다. | İki grup arasında istatistiksel olarak anlamlı bir fark bulundu.
+추이 (chui) | eğilim, seyir | isim | 지난 십 년간의 출생률 추이를 그래프로 나타냈다. | Son on yılın doğum oranı seyrini grafikle gösterdik.
+분포 (bunpo) | dağılım | isim | 응답자의 연령 분포는 비교적 고르게 나타났다. | Katılımcıların yaş dağılımı oldukça dengeli çıktı.
+편차 (pyeoncha) | sapma | isim | 지역별 편차가 커서 평균값만으로는 실상을 알기 어렵다. | Bölgesel sapma büyük olduğundan yalnızca ortalamayla gerçeği anlamak zordur.
+수치 (suchi) | sayısal değer, rakam | isim | 보고서에 제시된 수치는 실제보다 다소 과장되어 있다. | Raporda verilen rakamlar gerçeğe göre biraz abartılı.
+오차 (ocha) | hata payı, ölçüm hatası | isim | 이번 조사의 오차 범위는 플러스마이너스 삼 퍼센트이다. | Bu araştırmanın hata payı artı eksi yüzde üçtür.
+## Akademik fiiller I
+고찰하다 (gochalhada) | incelemek, derinlemesine ele almak | fiil | 본 연구는 조선 후기 상업의 발달 과정을 고찰한다. | Bu çalışma, Joseon döneminin sonlarında ticaretin gelişim sürecini inceliyor.
+규명하다 (gyumyeonghada) | aydınlatmak, açığa çıkarmak | fiil | 사고의 원인을 규명하기 위해 전문가들이 투입되었다. | Kazanın nedenini aydınlatmak için uzmanlar görevlendirildi.
+도출하다 (dochulhada) | (sonuç) çıkarmak, elde etmek | fiil | 우리는 설문 결과에서 몇 가지 시사점을 도출했다. | Anket sonuçlarından birkaç çıkarım elde ettik.
+검증하다 (geomjeunghada) | doğrulamak, sınamak | fiil | 새로운 치료법의 효과를 검증하려면 시간이 더 필요하다. | Yeni tedavinin etkisini doğrulamak için daha fazla zaman gerekiyor.
+시사하다 (sisahada) | işaret etmek, ima etmek | fiil | 이 결과는 교육 정책의 변화가 필요함을 시사한다. | Bu sonuç, eğitim politikasında değişiklik gerektiğine işaret ediyor.
+상정하다 (sangjeonghada) | varsaymak; (gündeme) getirmek | fiil | 이 모형은 소비자가 합리적으로 행동한다고 상정한다. | Bu model, tüketicinin rasyonel davrandığını varsayar.
+간과하다 (gangwahada) | göz ardı etmek, gözden kaçırmak | fiil | 기존 연구는 문화적 요인을 간과하는 경향이 있었다. | Önceki çalışmalar kültürel etkenleri göz ardı etme eğilimindeydi.
+재고하다 (jaegohada) | yeniden düşünmek, gözden geçirmek | fiil | 이 문제에 대한 기존의 시각을 재고할 필요가 있다. | Bu soruna dair yerleşik bakış açısını yeniden düşünmek gerekiyor.
+밝히다 (bakida) | ortaya koymak, açıklamak | fiil | 연구진은 이 유전자가 노화와 관련이 있음을 밝혔다. | Araştırmacılar bu genin yaşlanmayla ilişkili olduğunu ortaya koydu.
+논하다 (nonhada) | tartışmak, ele almak (yazıda) | fiil | 이 장에서는 근대화의 명암을 논하고자 한다. | Bu bölümde modernleşmenin aydınlık ve karanlık yanlarını tartışmak istiyoruz.
+## Akademik fiiller II
+기인하다 (giinhada) | kaynaklanmak | fiil | 이 갈등은 서로 다른 가치관에서 기인한 것으로 보인다. | Bu çatışmanın farklı değer yargılarından kaynaklandığı görülüyor.
+비롯되다 (birotdoeda) | doğmak, kaynağını almak | fiil | 오늘날의 민주주의 개념은 고대 그리스에서 비롯되었다. | Bugünkü demokrasi kavramı Antik Yunan'dan doğmuştur.
+수렴하다 (suryeomhada) | bir noktada birleşmek; (görüş) toplamak | fiil | 여러 연구의 결과가 하나의 결론으로 수렴하고 있다. | Pek çok çalışmanın sonucu tek bir yargıda birleşiyor.
+상충하다 (sangchunghada) | çelişmek, çatışmak | fiil | 경제 성장과 환경 보호라는 목표가 서로 상충할 때가 많다. | Ekonomik büyüme ve çevre koruma hedefleri sık sık birbiriyle çatışır.
+부합하다 (buhapada) | uymak, örtüşmek | fiil | 실험 결과는 이론적 예측과 정확히 부합했다. | Deney sonuçları kuramsal tahminle tam olarak örtüştü.
+기술하다 (gisulhada) | betimlemek, tasvir etmek (yazıyla) | fiil | 이 책은 당시 서민들의 생활을 자세히 기술하고 있다. | Bu kitap dönemin halkının yaşamını ayrıntılı biçimde betimliyor.
+인용하다 (inyonghada) | alıntılamak, atıfta bulunmak | fiil | 다른 사람의 글을 인용할 때에는 반드시 출처를 밝혀야 한다. | Başkasının yazısından alıntı yaparken mutlaka kaynak gösterilmelidir.
+열거하다 (yeolgeohada) | sıralamak, tek tek saymak | fiil | 그는 개혁이 필요한 이유를 하나하나 열거했다. | Reformun neden gerekli olduğunu tek tek sıraladı.
+귀납하다 (gwinapada) | tümevarmak | fiil | 수많은 관찰 사례로부터 일반 법칙을 귀납해 냈다. | Sayısız gözlem örneğinden genel bir yasayı tümevarımla çıkardı.
+연역하다 (yeonyeokada) | tümdengelmek | fiil | 일반 원리에서 개별적인 결론을 연역하는 것이 수학의 방식이다. | Genel ilkeden tekil sonuçlar tümdengelmek matematiğin yöntemidir.
+## Argümanın yapısı
+반론 (ballon) | karşı görüş, itiraz | isim | 저자는 예상되는 반론에도 미리 답변을 해 두었다. | Yazar beklenen itirazlara da önceden cevap vermiş.
+논박하다 (nonbakada) | çürütmek | fiil | 그는 상대의 주장을 조목조목 논박했다. | O, karşı tarafın iddiasını madde madde çürüttü.
+쟁점 (jaengjeom) | tartışma konusu, ihtilaf noktası | isim | 이번 토론의 핵심 쟁점은 재원 마련 방안이었다. | Bu tartışmanın ana ihtilaf noktası finansman yöntemiydi.
+타당성 (tadangseong) | geçerlilik, yerindelik | isim | 연구 방법의 타당성에 대해 의문이 제기되었다. | Araştırma yönteminin geçerliliği konusunda soru işaretleri doğdu.
+설득력 (seoldeungnyeok) | ikna gücü | isim | 구체적인 사례가 빠져 있어서 주장의 설득력이 떨어진다. | Somut örnekler eksik olduğundan iddianın ikna gücü zayıf.
+논리적 비약 (nollijeok biyak) | mantık sıçraması | ifade | 몇 개의 사례만으로 전체를 판단하는 것은 논리적 비약이다. | Birkaç örnekle bütün hakkında hüküm vermek bir mantık sıçramasıdır.
+모순 (mosun) | çelişki | isim | 그의 두 주장 사이에는 명백한 모순이 존재한다. | Onun iki iddiası arasında açık bir çelişki var.
+일관성 (ilgwanseong) | tutarlılık | isim | 글 전체에 걸쳐 용어를 일관성 있게 사용해야 한다. | Terimler metnin tamamında tutarlı biçimde kullanılmalıdır.
+허점 (heojeom) | açık, zayıf nokta | isim | 심사위원은 논문의 방법론에서 몇 가지 허점을 지적했다. | Jüri üyesi tezin yönteminde birkaç zayıf nokta olduğunu belirtti.
+반박의 여지가 없다 (banbagui yeojiga eopda) | tartışmaya kapalı olmak, çürütülemez | ifade | 그 증거는 반박의 여지가 없을 만큼 명확했다. | O kanıt itiraz edilemeyecek kadar açıktı.
+## Akademik yazının bölümleri
+서론 (seoron) | giriş (bölümü) | isim | 서론에서는 연구의 배경과 목적을 간략히 밝힌다. | Giriş bölümünde araştırmanın arka planı ve amacı kısaca belirtilir.
+본론 (bollon) | ana bölüm, gelişme | isim | 본론에서는 수집한 자료를 바탕으로 분석을 진행했다. | Ana bölümde toplanan verilere dayanarak analiz yapıldı.
+각주 (gakju) | dipnot | isim | 인용한 문헌의 출처는 각주로 표시해 주십시오. | Alıntılanan kaynakları lütfen dipnotla gösterin.
+참고 문헌 (chamgo munheon) | kaynakça | isim | 참고 문헌 목록은 저자 이름의 가나다순으로 정리한다. | Kaynakça, yazar adlarının alfabetik sırasına göre düzenlenir.
+초록 (chorok) | özet (makale özeti) | isim | 학회에 발표하려면 먼저 이백 자 내외의 초록을 제출해야 한다. | Kongrede sunum yapmak için önce iki yüz harf civarında bir özet göndermek gerekir.
+학술지 (haksulji) | akademik dergi | isim | 그의 논문이 국제 학술지에 게재되었다. | Onun makalesi uluslararası bir akademik dergide yayımlandı.
+투고하다 (tugohada) | (dergiye) makale göndermek | fiil | 그녀는 지난달 학술지에 논문을 투고하고 심사를 기다리고 있다. | Geçen ay dergiye makale gönderdi ve hakem sürecini bekliyor.
+게재되다 (gejaedoeda) | yayımlanmak (dergide) | fiil | 그 칼럼은 주요 일간지에 게재되어 큰 반향을 일으켰다. | O köşe yazısı önemli bir günlük gazetede yayımlanıp büyük yankı uyandırdı.
+표절 (pyojeol) | intihal | isim | 표절이 확인되면 학위가 취소될 수도 있다. | İntihal tespit edilirse diploma iptal edilebilir.
+부록 (burok) | ek (kitap/rapor eki) | isim | 설문지 원본은 부록에 실어 두었다. | Anket formunun aslını eke koyduk.
+## Kavramsal terimler
+담론 (damnon) | söylem | isim | 환경 문제는 이제 사회 전반의 주요 담론이 되었다. | Çevre sorunu artık toplumun genelinde başlıca söylemlerden biri oldu.
+범주 (beomju) | kategori, ulam | isim | 이 작품은 기존의 장르 범주로는 분류하기 어렵다. | Bu eser mevcut tür kategorilerine göre sınıflandırılmaya pek uymuyor.
+패러다임 (paereodaim) | paradigma | isim | 인터넷의 등장은 소통의 패러다임을 완전히 바꾸어 놓았다. | İnternetin ortaya çıkışı iletişim paradigmasını tamamen değiştirdi.
+맥락 (maengnak) | bağlam | isim | 이 발언은 당시의 역사적 맥락 속에서 이해해야 한다. | Bu söz o dönemin tarihsel bağlamı içinde anlaşılmalıdır.
+측면 (cheungmyeon) | yön, boyut, cephe | isim | 그 정책은 경제적 측면에서는 성공했지만 사회적으로는 논란을 낳았다. | O politika ekonomik açıdan başarılı oldu ama toplumsal açıdan tartışma yarattı.
+차원 (chawon) | boyut, düzey | isim | 이 문제는 개인의 차원을 넘어 국가적 차원에서 다뤄야 한다. | Bu sorun bireysel düzeyi aşıp ulusal düzeyde ele alınmalı.
+체계 (chegye) | sistem, düzen | isim | 한글은 매우 과학적인 문자 체계로 평가받는다. | Hangıl son derece bilimsel bir yazı sistemi olarak değerlendirilir.
+개념 (gaenyeom) | kavram | isim | 학생들에게 추상적인 개념을 쉽게 설명하는 일은 쉽지 않다. | Öğrencilere soyut kavramları kolayca açıklamak kolay değildir.
+틀 (teul) | çerçeve, kalıp | isim | 그는 기존의 틀에서 벗어난 새로운 해석을 내놓았다. | Mevcut çerçevenin dışına çıkan yeni bir yorum ortaya koydu.
+층위 (cheungwi) | katman, düzey (analiz) | isim | 언어 분석은 음운, 형태, 통사 등 여러 층위에서 이루어진다. | Dil çözümlemesi ses, biçim, sözdizimi gibi pek çok katmanda yapılır.
+## Akademik kalıplar
+주목하다 (jumokada) | dikkat çekmek, odaklanmak | fiil | 본 연구는 특히 청년층의 소비 행태에 주목한다. | Bu çalışma özellikle gençlerin tüketim davranışlarına odaklanıyor.
+비추어 보다 (bichueo boda) | ışığında değerlendirmek | ifade | 지금까지의 경험에 비추어 보면 이번 계획도 쉽지 않을 것이다. | Şimdiye kadarki deneyimler ışığında bu planın da kolay olmayacağı anlaşılıyor.
+국한되다 (gukandoeda) | sınırlı kalmak | fiil | 이 현상은 특정 지역에 국한되지 않고 전국적으로 나타난다. | Bu olgu belirli bir bölgeyle sınırlı kalmayıp tüm ülkede görülüyor.
+맞물리다 (manmullida) | iç içe geçmek, birbirine bağlanmak | fiil | 경기 침체와 인구 감소가 맞물리면서 지방 경제가 어려워졌다. | Ekonomik durgunluk ve nüfus azalması iç içe geçince yerel ekonomi zorlaştı.
+논의의 여지가 있다 (nonuiui yeojiga itda) | tartışmaya açık olmak | ifade | 이 해석이 옳은지에 대해서는 아직 논의의 여지가 있다. | Bu yorumun doğru olup olmadığı hâlâ tartışmaya açık.
+한계를 지니다 (hangyereul jinida) | sınırlılık taşımak | ifade | 본 연구는 표본이 서울에 한정되었다는 한계를 지닌다. | Bu çalışma, örneklemin Seul ile sınırlı olması gibi bir sınırlılık taşımaktadır.
+시사하는 바가 크다 (sisahaneun baga keuda) | çok şey anlatmak, önemli dersler içermek | ifade | 이 사례는 오늘날의 도시 계획에 시사하는 바가 크다. | Bu örnek, bugünün şehir planlaması için önemli dersler içeriyor.
+이를 바탕으로 (ireul batangeuro) | buna dayanarak | ifade | 먼저 선행 연구를 검토하고 이를 바탕으로 연구 문제를 설정하였다. | Önce önceki çalışmalar incelendi, buna dayanarak araştırma sorusu belirlendi.
+-에 관한 (-e gwanhan) | ile ilgili, hakkında | edat | 그는 조선 시대 여성의 지위에 관한 책을 집필 중이다. | Joseon dönemi kadınının statüsü hakkında bir kitap yazıyor.
+-에 따르면 (-e ttareumyeon) | -e göre | edat | 최근 조사에 따르면 일인 가구가 꾸준히 늘고 있다. | Son araştırmaya göre tek kişilik haneler istikrarlı biçimde artıyor.
+## Nitelik bildiren sözcükler
+객관적 (gaekgwanjeok) | nesnel | sıfat | 연구자는 자료를 최대한 객관적으로 해석하려고 노력해야 한다. | Araştırmacı verileri olabildiğince nesnel yorumlamaya çalışmalıdır.
+주관적 (jugwanjeok) | öznel | sıfat | 예술 작품에 대한 평가는 어느 정도 주관적일 수밖에 없다. | Sanat eserlerine dair değerlendirme bir ölçüde öznel olmak zorundadır.
+보편적 (bopyeonjeok) | evrensel, genel | sıfat | 인권은 시대와 장소를 초월하는 보편적 가치이다. | İnsan hakları zamanı ve mekânı aşan evrensel bir değerdir.
+포괄적 (pogwaljeok) | kapsamlı | sıfat | 정부는 저출산 문제에 대한 포괄적인 대책을 발표했다. | Hükümet düşük doğurganlık sorununa dair kapsamlı önlemler açıkladı.
+체계적 (chegyejeok) | sistematik | sıfat | 자료를 체계적으로 정리해 두면 나중에 분석하기 편하다. | Verileri sistematik biçimde düzenlersen sonra analiz etmek kolay olur.
+실증적 (siljeungjeok) | ampirik, olgusal | sıfat | 이론만으로는 부족하고 실증적인 연구가 뒷받침되어야 한다. | Kuram tek başına yetmez, ampirik araştırmalarla desteklenmelidir.
+비판적 (bipanjeok) | eleştirel | sıfat | 정보가 넘치는 시대일수록 비판적 사고가 중요하다. | Bilginin taştığı bir çağda eleştirel düşünce daha da önemlidir.
+정량적 (jeongnyangjeok) | nicel | sıfat | 만족도를 정량적으로 측정하기 위해 오점 척도를 사용했다. | Memnuniyeti nicel olarak ölçmek için beşli ölçek kullandık.
+정성적 (jeongseongjeok) | nitel | sıfat | 심층 면접과 같은 정성적 방법은 개인의 경험을 깊이 이해하게 해 준다. | Derinlemesine görüşme gibi nitel yöntemler bireysel deneyimi derinden anlamayı sağlar.
+추상적 (chusangjeok) | soyut | sıfat | 그의 설명은 너무 추상적이어서 이해하기 어려웠다. | Açıklaması fazla soyut olduğu için anlamak zordu.
+## Araştırma süreci
+선행 연구 (seonhaeng yeongu) | önceki çalışmalar, literatür | isim | 선행 연구를 꼼꼼히 검토해야 연구의 독창성을 확보할 수 있다. | Önceki çalışmaları titizlikle incelemek, araştırmanın özgünlüğünü sağlamak için şarttır.
+방법론 (bangbeomnon) | yöntem bilimi, metodoloji | isim | 두 학자는 같은 주제를 다루지만 방법론에서 큰 차이를 보인다. | İki akademisyen aynı konuyu ele alıyor ama metodolojide büyük farklılık gösteriyor.
+대조군 (daejogun) | kontrol grubu | isim | 실험군과 대조군의 결과를 비교한 결과 뚜렷한 차이가 있었다. | Deney grubu ile kontrol grubunun sonuçları karşılaştırıldığında belirgin bir fark vardı.
+재현성 (jaehyeonseong) | tekrarlanabilirlik | isim | 다른 연구실에서도 같은 결과가 나와야 재현성이 인정된다. | Başka laboratuvarlarda da aynı sonuç çıkmalı ki tekrarlanabilirlik kabul edilsin.
+측정하다 (cheukjeonghada) | ölçmek | fiil | 연구진은 참가자들의 스트레스 수준을 매주 측정했다. | Araştırmacılar katılımcıların stres düzeyini her hafta ölçtü.
+관찰 (gwanchal) | gözlem | isim | 이 이론은 오랜 기간에 걸친 현장 관찰에서 나온 것이다. | Bu kuram uzun süreli saha gözlemlerinden doğdu.
+연구 윤리 (yeongu yulli) | araştırma etiği | isim | 참가자의 동의 없이 개인 정보를 사용하는 것은 연구 윤리에 어긋난다. | Katılımcının onayı olmadan kişisel bilgilerini kullanmak araştırma etiğine aykırıdır.
+학위 (hagwi) | akademik derece, diploma | isim | 그는 오랜 연구 끝에 마침내 박사 학위를 취득했다. | Uzun bir araştırmanın ardından nihayet doktora derecesini aldı.
+지도 교수 (jido gyosu) | danışman hoca | isim | 논문 주제를 정하기 전에 지도 교수와 충분히 상의하세요. | Tez konusunu belirlemeden önce danışman hocanızla iyice görüşün.
+학계 (hakgye) | akademi, bilim çevreleri | isim | 그 발견은 학계에 큰 파장을 불러일으켰다. | O keşif bilim çevrelerinde büyük dalgalanma yarattı.
