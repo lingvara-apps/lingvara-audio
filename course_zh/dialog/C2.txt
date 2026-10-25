@@ -1,0 +1,45 @@
+# DIALOG: Ustalık yolunda | Çince C2 konuşmaları: çayevi, münazara, hastane, veda | Su Wan | Kerem
+## Çayevinde bir sohbet
+A | 克雷姆，来，尝尝这壶刚泡好的龙井。这可是今年的明前茶，一年也就这几天能喝到。 | Kerem, gel, şu yeni demlenmiş Longjing'i bir tat. Bu yılın Qingming öncesi çayı; yılda ancak birkaç gün içilebiliyor.
+B | 好香啊！清香扑鼻，入口有一种淡淡的甘甜。难怪人们说"品茶如品人生"。 | Ne güzel kokuyor! Hafif ve ferah bir koku, ağızda da hafif bir tatlılık bırakıyor. "Çay tatmak hayatı tatmaktır" demeleri boşuna değilmiş.
+A | 你这话说得有意思。来中国这么多年，你倒是越来越有中国味儿了。 | Güzel söyledin. Bunca yıldır Çin'desin, giderek daha da Çinli oluyorsun.
+B | 哪里哪里，只是耳濡目染罢了。不过说实话，刚来的时候，我连"之乎者也"都分不清。 | Estağfurullah, sadece görüp işiterek öğrendim. Ama doğrusu ilk geldiğimde eski yazı dilini hiç ayırt edemiyordum.
+A | 学语言就像这壶茶，急不得。第一泡苦涩，第二泡醇厚，到第三泡才回味无穷。 | Dil öğrenmek bu çay gibidir, acele edilmez. İlk demlik buruk, ikincisi dolgun, ancak üçüncüsünde tadı damakta kalır.
+B | 您这个比喻真是一语中的。我现在大概在第二泡吧，知道得越多，越觉得自己学得浅薄。 | Bu benzetmeniz tam on ikiden vurdu. Ben şu an galiba ikinci demlikteyim; öğrendikçe bildiklerimin ne kadar sığ olduğunu daha iyi anlıyorum.
+A | 这就对了。学无止境嘛。苏东坡说"腹有诗书气自华"，读书多了，气质自然就不一样。 | İşte doğru olan bu. Öğrenmenin sonu yoktur. Su Dongpo "İçinde şiir ve kitap olanın duruşu kendiliğinden parlar" der; çok okuyanın duruşu da farklı olur.
+B | 说到苏东坡，我最近在读他的词。"人有悲欢离合，月有阴晴圆缺"，写得太透彻了。 | Su Dongpo demişken, son zamanlarda onun şiirlerini okuyorum. "İnsanın sevinci de acısı da, buluşması da ayrılığı da vardır; ayın da dolunayı da hilali" dizesi ne kadar derin.
+A | 是啊，他一生几经沉浮，却始终豁达。这份心境，比他的文采更值得学习。 | Evet, hayatı boyunca defalarca yükselip düştü ama hep geniş gönüllü kaldı. Bu iç dünyası edebî yeteneğinden bile daha çok örnek alınmaya değer.
+B | 受教了。今天跟您喝这一壶茶，胜读十年书。 | Çok şey öğrendim. Bugün sizinle bu çayı içmek on yıl kitap okumaktan daha değerliydi.
+## Bir televizyon tartışması
+A | 各位观众晚上好。今天的辩题是："人工智能会不会让人类失去创造力？"首先请反方嘉宾克雷姆先生发言。 | Değerli izleyiciler, iyi akşamlar. Bugünkü tartışma konumuz: "Yapay zekâ insanlığın yaratıcılığını yok eder mi?" Önce karşı görüşteki konuğumuz Kerem Bey'e söz veriyorum.
+B | 谢谢主持人。恕我直言，"人工智能扼杀创造力"这种说法未免有些危言耸听。工具本身并无善恶，关键在于人如何使用。 | Teşekkürler. Açık konuşmamı bağışlayın ama "yapay zekâ yaratıcılığı öldürüyor" iddiası biraz korkutmaya yönelik. Aracın kendisi iyi ya da kötü değildir; asıl mesele insanın onu nasıl kullandığıdır.
+A | 可是有观众认为，学生用人工智能写作文，久而久之就不会独立思考了。您怎么回应？ | Ama bazı izleyiciler öğrencilerin kompozisyonlarını yapay zekâya yazdırırsa zamanla bağımsız düşünemeyeceklerini söylüyor. Buna nasıl yanıt verirsiniz?
+B | 这个担忧不无道理，但不能以偏概全。当年计算器普及的时候，也有人说孩子们不会算术了，事实并非如此。 | Bu endişenin haklı bir yanı yok değil ama bir örnekten genelleme yapılmamalı. Hesap makinesi yaygınlaştığında da çocukların aritmetiği unutacağı söylenmişti, gerçek öyle olmadı.
+A | 但计算器只是计算，人工智能却能"创作"。这两者恐怕不能相提并论吧？ | Ama hesap makinesi yalnızca hesap yapar, yapay zekâ ise "yaratabiliyor". Bu ikisi aynı kefeye konamaz herhalde?
+B | 您说得对，二者确有本质区别。正因为如此，我们才更需要重新界定什么是"创造"。与其恐惧，毋宁反思教育的方式。 | Haklısınız, ikisi arasında özsel bir fark var. Tam da bu yüzden "yaratma"nın ne olduğunu yeniden tanımlamamız gerekiyor. Korkmaktansa eğitim yöntemlerini sorgulamak daha doğru.
+A | 有意思。那么具体而言，教育应该如何调整？ | İlginç. Peki somut olarak eğitim nasıl değişmeli?
+B | 简言之，从"给答案"转向"提问题"。机器擅长回答，而提出好问题的能力，恰恰是人类最宝贵的。 | Kısacası "cevap vermekten" "soru sormaya" geçmeli. Makineler cevap vermekte ustadır; iyi soru sorabilme yeteneği ise tam da insanın en değerli yanıdır.
+A | 这个观点很中肯。不过正方嘉宾显然还有话要说，我们稍后继续这场唇枪舌剑。 | Bu görüş çok yerinde. Ancak destekleyen taraftaki konuğumuzun da söyleyecekleri var gibi; bu söz düellosuna birazdan devam edeceğiz.
+B | 好的，我洗耳恭听。真理越辩越明嘛。 | Tabii, can kulağıyla dinliyorum. Hakikat tartıştıkça aydınlanır.
+## Hastane koridorunda
+A | 您是病人家属吧？我是他的主治医生。手术很顺利，不过病人还需要在监护室观察两天。 | Hastanın yakını mısınız? Ben onun sorumlu doktoruyum. Ameliyat çok iyi geçti ama hastanın iki gün daha yoğun bakımda gözlem altında kalması gerekiyor.
+B | 谢天谢地！大夫，那病理结果出来了吗？我们一家人这几天寝食难安。 | Çok şükür! Doktor bey, patoloji sonucu çıktı mı? Ailecek bu günlerde ne uyuyabiliyoruz ne yemek yiyebiliyoruz.
+A | 我理解你们的心情。好消息是，活检结果显示是良性的，没有转移。 | Ne hissettiğinizi anlıyorum. İyi haber şu ki biyopsi sonucu iyi huylu çıktı, yayılma yok.
+B | 太好了，这下我们总算吃了定心丸。那术后需要注意些什么？ | Harika, sonunda içimiz rahatladı. Peki ameliyat sonrası nelere dikkat etmemiz gerekiyor?
+A | 头两周饮食要清淡，按时服用抗凝药，每周来门诊复查一次。一定要严格遵照医嘱。 | İlk iki hafta hafif yemek yesin, pıhtılaşmayı önleyici ilacı zamanında alsın, haftada bir kontrole gelsin. Doktor talimatlarına mutlaka harfiyen uyulmalı.
+B | 明白。我父亲脾气倔，平时不太听劝，这次我一定盯着他。 | Anladım. Babam inatçıdır, normalde pek söz dinlemez ama bu sefer onu yakından takip edeceğim.
+A | 老人家嘛，可以理解。不过康复训练也很关键，出院以后最好每天坚持散散步。 | Yaşlı insandır, anlaşılır. Ama rehabilitasyon egzersizleri de çok önemli; taburcu olduktan sonra her gün düzenli yürüyüş yapması iyi olur.
+B | 好的。说实话，这次多亏了您，真不知道该怎么感谢才好。 | Tamam. Doğrusu bu sefer hep sizin sayenizde oldu, size nasıl teşekkür edeceğimi bilemiyorum.
+A | 您太客气了，治病救人是我们的本分。有什么问题，随时到护士站找我们。 | Çok naziksiniz, hastayı iyileştirmek bizim görevimiz. Bir sorun olursa her zaman hemşire bankosundan bize ulaşabilirsiniz.
+B | 好的，那就不打扰您了。您辛苦了，多保重！ | Tamam, sizi daha fazla meşgul etmeyeyim. Emeğinize sağlık, kendinize iyi bakın!
+## Veda yemeği
+A | 来，克雷姆，这杯我敬你！五年了，咱们一起熬过多少个通宵，说走就要走了。 | Hadi Kerem, bu kadeh senin şerefine! Beş yıl oldu, birlikte nice gece sabahladık, şimdi gidiyorsun işte.
+B | 别这么说，又不是生离死别。天下无不散之筵席，再说现在交通这么方便，想见面随时都能见。 | Öyle deme, ölüm ayrılığı değil ya. Her güzel şeyin bir sonu var; hem artık ulaşım bu kadar kolayken istediğimiz an görüşürüz.
+A | 话虽如此，心里还是空落落的。你走了，咱们组可就少了一个开心果。 | Öyle olsa da içim bomboş. Sen gidince ekibimiz bir neşe kaynağını kaybediyor.
+B | 哈哈，你就别给我戴高帽了。倒是你，以后别动不动就熬夜，身体是革命的本钱。 | Hah, beni pohpohlamayı bırak. Asıl sen bundan sonra her fırsatta sabahlama; sağlık her şeyin sermayesi.
+A | 知道了知道了，你比我妈还唠叨。对了，回伊斯坦布尔以后有什么打算？ | Tamam tamam, annemden bile çok söyleniyorsun. Bu arada İstanbul'a dönünce ne yapmayı düşünüyorsun?
+B | 先休息一段时间，然后想自己干点事。做了这么多年项目，也该独当一面了。 | Önce bir süre dinleneceğim, sonra kendi işimi yapmak istiyorum. Bunca yıl proje yaptım, artık bir işi tek başıma yürütme zamanı geldi.
+A | 有志者事竟成！你要是开公司，我第一个去给你捧场。 | Azimli olan başarır! Şirket kurarsan seni ilk desteklemeye gelen ben olurum.
+B | 一言为定！到时候你可别放我鸽子。 | Söz mü? O zaman sakın beni ekme.
+A | 放心吧，我说话算话。来，为了友谊，干了这杯！ | Merak etme, sözümün eriyim. Hadi, dostluğumuza, bu kadeh dibine kadar!
+B | 干杯！青山不改，绿水长流，咱们后会有期！ | Şerefe! Dağlar yerinde, sular akmaya devam ediyor; elbet yine görüşeceğiz!
