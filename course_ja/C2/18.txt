@@ -1,0 +1,111 @@
+# UNIT: Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+## Mahkeme jargonu
+主文 (shubun) | hüküm fıkrası (kararın sonucu) | isim | 裁判長は、まず判決の主文を読み上げた。 | Mahkeme başkanı önce kararın hüküm fıkrasını okudu.
+判決理由 (hanketsu riyū) | gerekçeli karar | isim | 判決理由の中で、裁判所は被告の反省を考慮したと述べた。 | Gerekçeli kararda mahkeme sanığın pişmanlığını dikkate aldığını belirtti.
+求刑 (kyūkei) | (savcının) ceza talebi | isim | 検察の求刑は、懲役十年だった。 | Savcılığın ceza talebi on yıl hapisti.
+量刑 (ryōkei) | cezanın belirlenmesi | isim | 量刑が重すぎるとして、弁護側は控訴した。 | Ceza fazla ağır bulunduğu için savunma istinafa başvurdu.
+情状酌量 (jōjō shakuryō) | hafifletici sebepler | isim | 情状酌量の余地があるとして、刑が軽くなった。 | Hafifletici sebepler bulunduğu için ceza hafifletildi.
+実刑 (jikkei) | ertelenmeyen hapis cezası | isim | 被告人には、執行猶予のつかない実刑判決が下された。 | Sanığa ertelenmeyen bir hapis cezası verildi.
+無期懲役 (muki chōeki) | müebbet hapis | isim | 犯人には、無期懲役の判決が言い渡された。 | Faile müebbet hapis cezası verildi.
+再審 (saishin) | yargılamanın yenilenmesi | isim | 新たな証拠が見つかり、再審が決定した。 | Yeni deliller bulununca yargılamanın yenilenmesine karar verildi.
+証人尋問 (shōnin jinmon) | tanık sorgusu | isim | 次回の公判では、目撃者の証人尋問が行われる。 | Bir sonraki duruşmada görgü tanığının sorgusu yapılacak.
+異議あり (igi ari) | itiraz ediyorum! | ifade | 弁護人が「異議あり」と声を上げた。 | Müdafi "İtiraz ediyorum!" diye sesini yükseltti.
+## Suç jargonu
+前科 (zenka) | sabıka | isim | 男には、窃盗の前科が三件あった。 | Adamın üç hırsızlık sabıkası vardı.
+余罪 (yozai) | diğer suçlar (henüz yargılanmamış) | isim | 警察は、男の余罪についても調べている。 | Polis adamın başka suçlarını da araştırıyor.
+共犯 (kyōhan) | suç ortaklığı | isim | 共犯の疑いで、さらに二人が逮捕された。 | Suç ortaklığı şüphesiyle iki kişi daha tutuklandı.
+主犯 (shuhan) | asıl fail, elebaşı | isim | 主犯の男は、海外に逃亡したとみられる。 | Asıl failin yurt dışına kaçtığı düşünülüyor.
+未遂 (misui) | teşebbüs (suçta) | isim | 強盗は未遂に終わり、犯人はその場で取り押さえられた。 | Soygun teşebbüste kaldı, fail olay yerinde yakalandı.
+常習犯 (jōshūhan) | mükerrir suçlu | isim | 彼は万引きの常習犯として知られていた。 | Mağaza hırsızlığını alışkanlık hâline getirmiş biri olarak biliniyordu.
+現行犯 (genkōhan) | suçüstü | isim | 男は、すりの現行犯で逮捕された。 | Adam yankesicilik yaparken suçüstü yakalandı.
+指名手配 (shimei tehai) | aranan (yakalama kararı çıkarılmış) | isim | 指名手配されていた容疑者が、ついに捕まった。 | Hakkında yakalama kararı olan şüpheli sonunda yakalandı.
+身柄 (migara) | (bir kişinin) kendisi, şahsı (gözaltı bağlamında) | isim | 容疑者の身柄は、警察署に移された。 | Şüpheli emniyet müdürlüğüne nakledildi.
+アリバイ (aribai) | suç anında başka yerde olduğunun kanıtı | isim | 容疑者には、事件の夜のアリバイがあった。 | Şüphelinin olay gecesi başka yerde olduğuna dair kanıtı vardı.
+## Diplomasi
+外交儀礼 (gaikō girei) | diplomatik protokol | isim | 外交儀礼に従い、首脳は空港で出迎えられた。 | Diplomatik protokol gereği devlet başkanı havalimanında karşılandı.
+領事館 (ryōjikan) | konsolosluk | isim | パスポートをなくし、領事館で再発行してもらった。 | Pasaportumu kaybedince konsolosluktan yenisini aldım.
+親書 (shinsho) | (devlet başkanının) özel mektubu | isim | 大統領の親書が、外相を通じて首相に手渡された。 | Devlet başkanının özel mektubu dışişleri bakanı aracılığıyla başbakana verildi.
+共同声明 (kyōdō seimei) | ortak bildiri | isim | 会談の後、両国は共同声明を発表した。 | Görüşmenin ardından iki ülke ortak bir bildiri yayımladı.
+首脳会談 (shunō kaidan) | zirve görüşmesi | isim | 首脳会談では、貿易問題が主な議題となった。 | Zirve görüşmesinde ticaret sorunları ana gündem maddesi oldu.
+批准 (hijun) | onaylama (antlaşma) | isim | 条約は、国会の批准を経て発効した。 | Antlaşma meclisin onayından geçerek yürürlüğe girdi.
+内政干渉 (naisei kanshō) | iç işlerine karışma | isim | 他国の選挙に口を出すのは、内政干渉にあたる。 | Başka ülkenin seçimine karışmak iç işlerine müdahale sayılır.
+経済制裁 (keizai seisai) | ekonomik yaptırım | isim | 国際社会は、その国に経済制裁を科した。 | Uluslararası toplum o ülkeye ekonomik yaptırım uyguladı.
+大使召還 (taishi shōkan) | büyükelçiyi geri çağırma | isim | 関係の悪化を受けて、政府は大使召還を決めた。 | İlişkilerin kötüleşmesi üzerine hükümet büyükelçiyi geri çağırdı.
+亡命 (bōmei) | siyasi sığınma | isim | その作家は、迫害を逃れて外国に亡命した。 | O yazar zulümden kaçıp yabancı bir ülkeye sığındı.
+## Uluslararası hukuk
+国際法 (kokusaihō) | uluslararası hukuk | isim | 他国の領土への攻撃は、国際法に違反する。 | Başka bir ülkenin topraklarına saldırmak uluslararası hukuka aykırıdır.
+領有権 (ryōyūken) | egemenlik hakkı (toprak) | isim | 二つの国が、小さな島の領有権を主張している。 | İki ülke küçük bir ada üzerinde egemenlik hakkı iddia ediyor.
+排他的経済水域 (haitateki keizai suiiki) | münhasır ekonomik bölge | isim | 外国の漁船が、排他的経済水域で操業していた。 | Yabancı balıkçı teknesi münhasır ekonomik bölgede avlanıyordu.
+外交特権 (gaikō tokken) | diplomatik dokunulmazlık | isim | 外交官は外交特権により、逮捕されることがない。 | Diplomatlar diplomatik dokunulmazlık sayesinde tutuklanamaz.
+引き渡し (hikiwatashi) | iade (suçlu iadesi); teslim | isim | 政府は、逃亡した容疑者の引き渡しを求めた。 | Hükümet kaçan şüphelinin iadesini talep etti.
+難民条約 (nanmin jōyaku) | mülteci sözleşmesi | isim | 日本も、難民条約に加盟している。 | Japonya da mülteci sözleşmesine taraftır.
+人道支援 (jindō shien) | insani yardım | isim | 紛争地域に、食料や医薬品などの人道支援が送られた。 | Çatışma bölgesine gıda ve ilaç gibi insani yardım gönderildi.
+休戦協定 (kyūsen kyōtei) | ateşkes anlaşması | isim | 長い戦いの末、両軍は休戦協定に署名した。 | Uzun savaşın ardından iki ordu ateşkes anlaşması imzaladı.
+和平交渉 (wahei kōshō) | barış görüşmeleri | isim | 第三国の仲介で、和平交渉が始まった。 | Üçüncü bir ülkenin arabuluculuğuyla barış görüşmeleri başladı.
+安全保障理事会 (anzen hoshō rijikai) | Güvenlik Konseyi | isim | 安全保障理事会で、緊急会合が開かれた。 | Güvenlik Konseyi'nde acil bir toplantı yapıldı.
+## Teşhis
+視診 (shishin) | gözle muayene | isim | 皮膚科では、まず視診で発疹の状態を確認する。 | Dermatolojide önce döküntünün durumu gözle muayene edilir.
+触診 (shokushin) | elle muayene, palpasyon | isim | 医師は触診で、お腹のしこりに気づいた。 | Doktor elle muayenede karındaki şişliği fark etti.
+聴診器 (chōshinki) | steteskop | isim | 医師は聴診器を当てて、胸の音を聞いた。 | Doktor steteskobu dayayıp göğüs seslerini dinledi.
+所見 (shoken) | bulgu (muayene) | isim | レントゲンでは、特に異常な所見はなかった。 | Röntgende özellikle anormal bir bulgu yoktu.
+既往歴 (kiōreki) | hastalık geçmişi | isim | 問診票には、既往歴を詳しく書いてください。 | Hasta formuna geçmiş hastalıklarınızı ayrıntılı yazın.
+予後 (yogo) | prognoz, hastalığın seyri | isim | 早期に発見されたため、予後は良好だ。 | Erken teşhis edildiği için seyri iyi.
+鑑別診断 (kanbetsu shindan) | ayırıcı tanı | isim | 似た症状の病気が多いため、鑑別診断が重要になる。 | Benzer belirtili hastalık çok olduğu için ayırıcı tanı önemlidir.
+確定診断 (kakutei shindan) | kesin teşhis | isim | 精密な検査を経て、ようやく確定診断が下された。 | Ayrıntılı tetkiklerden sonra nihayet kesin teşhis konuldu.
+誤診 (goshin) | yanlış teşhis | isim | 誤診によって、治療の開始が遅れてしまった。 | Yanlış teşhis yüzünden tedaviye geç başlandı.
+セカンドオピニオン (sekando opinion) | ikinci görüş (başka doktordan) | isim | 手術の前に、別の病院でセカンドオピニオンを求めた。 | Ameliyattan önce başka bir hastaneden ikinci görüş aldım.
+## Tetkikler
+生検 (seiken) | biyopsi | isim | 組織の一部を取って、生検に回した。 | Dokudan bir parça alıp biyopsiye gönderdik.
+内視鏡 (naishikyō) | endoskop | isim | 内視鏡で、胃の中を詳しく調べた。 | Endoskopla midenin içini ayrıntılı inceledik.
+超音波検査 (chōonpa kensa) | ultrason muayenesi | isim | 妊婦健診では、超音波検査で赤ちゃんの様子を見る。 | Hamilelik kontrolünde ultrasonla bebeğin durumuna bakılır.
+心電図 (shindenzu) | elektrokardiyogram, EKG | isim | 胸の痛みを訴えたので、すぐに心電図をとった。 | Göğüs ağrısından yakınınca hemen EKG çektik.
+造影剤 (zōeizai) | kontrast madde | isim | 造影剤を使うと、血管の様子がはっきり映る。 | Kontrast madde kullanılınca damarlar net görünür.
+腫瘍マーカー (shuyō mākā) | tümör belirteci | isim | 血液検査で、腫瘍マーカーの数値が少し高かった。 | Kan tahlilinde tümör belirteci değeri biraz yüksekti.
+病理検査 (byōri kensa) | patoloji incelemesi | isim | 摘出した組織は、病理検査で良性と判明した。 | Çıkarılan dokunun patoloji incelemesinde iyi huylu olduğu anlaşıldı.
+人間ドック (ningen dokku) | kapsamlı sağlık taraması (check-up) | isim | 四十歳を過ぎてから、毎年人間ドックを受けている。 | Kırkımı geçtiğimden beri her yıl kapsamlı sağlık taraması yaptırıyorum.
+検体 (kentai) | numune (tıbbi) | isim | 採取した検体を、検査センターに送った。 | Alınan numuneyi tahlil merkezine gönderdik.
+血中濃度 (kecchū nōdo) | kandaki yoğunluk | isim | 薬の血中濃度を測って、量を調整する。 | İlacın kandaki yoğunluğu ölçülüp doz ayarlanır.
+## Tedavi
+服薬指導 (fukuyaku shidō) | ilaç kullanım danışmanlığı | isim | 薬局で、薬剤師から服薬指導を受けた。 | Eczanede eczacıdan ilaç kullanımı hakkında bilgi aldım.
+対症療法 (taishō ryōhō) | belirtilere yönelik tedavi | isim | 風邪には特効薬がなく、対症療法が中心になる。 | Nezlenin kesin ilacı olmadığı için tedavi belirtilere yöneliktir.
+根治 (konji) | kökten iyileşme | isim | 早期発見なら、根治も十分に可能だ。 | Erken teşhis edilirse kökten iyileşme pekâlâ mümkün.
+寛解 (kankai) | remisyon (hastalığın gerilemesi) | isim | 治療の結果、病気は寛解の状態にある。 | Tedavi sonucunda hastalık remisyonda.
+化学療法 (kagaku ryōhō) | kemoterapi | isim | 手術の後、半年間の化学療法を受けた。 | Ameliyattan sonra altı ay kemoterapi gördü.
+放射線治療 (hōshasen chiryō) | radyoterapi | isim | がんの種類によっては、放射線治療が効果的だ。 | Kanser türüne göre radyoterapi etkili olabilir.
+緩和ケア (kanwa kea) | palyatif bakım | isim | 緩和ケアは、患者の苦痛を和らげることを目的とする。 | Palyatif bakım hastanın acılarını hafifletmeyi amaçlar.
+延命治療 (enmei chiryō) | yaşamı uzatma tedavisi | isim | 祖父は、延命治療を望まないと家族に伝えていた。 | Dedem yaşamı uzatma tedavisi istemediğini ailesine söylemişti.
+経過観察 (keika kansatsu) | gözlem altında tutma, takip | isim | 今のところ治療は必要なく、経過観察となった。 | Şimdilik tedaviye gerek yok, takip edilecek.
+余命 (yomei) | kalan ömür | isim | 彼は余命半年と告げられても、仕事を続けた。 | Altı aylık ömrü kaldığı söylense de çalışmayı sürdürdü.
+## Ameliyat ve tıbbi araçlar
+執刀 (shittō) | ameliyatı yapma (neşter tutma) | isim | 手術は、ベテランの外科医が執刀した。 | Ameliyatı kıdemli bir cerrah yaptı.
+局所麻酔 (kyokusho masui) | lokal anestezi | isim | 歯の治療は、局所麻酔で行われた。 | Diş tedavisi lokal anesteziyle yapıldı.
+縫合 (hōgō) | dikiş (cerrahi) | isim | 傷口を五針縫合した。 | Yaraya beş dikiş atıldı.
+切開 (sekkai) | kesi, açma (cerrahi) | isim | 腹部を小さく切開して、手術を行った。 | Karında küçük bir kesi açılarak ameliyat yapıldı.
+摘出 (tekishutsu) | çıkarma (organ, doku) | isim | 手術で、胆石を摘出した。 | Ameliyatla safra taşları çıkarıldı.
+メス (mesu) | neşter | isim | 外科医はメスを手に取り、慎重に切り始めた。 | Cerrah neşteri alıp dikkatle kesmeye başladı.
+鉗子 (kanshi) | forseps, pens | isim | 手術中、看護師が鉗子を医師に手渡した。 | Ameliyat sırasında hemşire pensi doktora uzattı.
+人工呼吸器 (jinkō kokyūki) | solunum cihazı | isim | 重症の患者は、人工呼吸器につながれていた。 | Ağır hasta solunum cihazına bağlıydı.
+心肺蘇生 (shinpai sosei) | kalp-akciğer canlandırma | isim | 救急隊が到着するまで、通行人が心肺蘇生を行った。 | Ambulans gelene kadar yoldan geçen biri kalp masajı yaptı.
+臓器提供 (zōki teikyō) | organ bağışı | isim | 彼は免許証の裏で、臓器提供の意思を示している。 | Ehliyetinin arkasında organ bağışı isteğini belirtmiş.
+## Hastane terimleri
+救急搬送 (kyūkyū hansō) | ambulansla hastaneye götürme | isim | 熱中症で、高齢者が次々と救急搬送された。 | Sıcak çarpması yüzünden yaşlılar art arda ambulansla hastaneye kaldırıldı.
+病床 (byōshō) | hasta yatağı (kapasite) | isim | 感染の拡大で、病床が足りなくなった。 | Salgının yayılmasıyla hastane yatakları yetersiz kaldı.
+付き添い (tsukisoi) | refakat, refakatçi | isim | 入院中の母に、交代で付き添いをした。 | Hastanedeki anneme sırayla refakat ettik.
+担当医 (tantōi) | sorumlu doktor | isim | 手術の日程について、担当医から説明があった。 | Ameliyat tarihi hakkında sorumlu doktor bilgi verdi.
+看護師長 (kangoshichō) | başhemşire | isim | 看護師長が、病棟の看護師たちをまとめている。 | Başhemşire servisteki hemşireleri yönetiyor.
+カルテ (karute) | hasta dosyası | isim | 医師は、カルテに診察の内容を記録した。 | Doktor muayene bilgilerini hasta dosyasına kaydetti.
+診療科 (shinryōka) | poliklinik bölümü | isim | どの診療科を受診すればいいか、受付で尋ねた。 | Hangi bölüme muayene olmam gerektiğini danışmaya sordum.
+院内感染 (innai kansen) | hastane enfeksiyonu | isim | 院内感染を防ぐため、面会が制限されている。 | Hastane enfeksiyonunu önlemek için ziyaretler kısıtlanıyor.
+面会謝絶 (menkai shazetsu) | ziyaretçi kabul edilmez | isim | 父は手術直後で、しばらく面会謝絶だった。 | Babam ameliyattan yeni çıktığı için bir süre ziyaretçi kabul edilmedi.
+医療過誤 (iryō kago) | tıbbi hata | isim | 医療過誤をめぐって、病院が訴えられた。 | Tıbbi hata nedeniyle hastaneye dava açıldı.
+## Tıbbi durumlar
+急変 (kyūhen) | (durumun) aniden kötüleşmesi | isim | 夜中に容体が急変し、家族が呼ばれた。 | Gece yarısı durumu aniden kötüleşince aile çağrıldı.
+持病 (jibyō) | süregen hastalık, eski dert | isim | 祖父には、心臓の持病がある。 | Dedemin süregen bir kalp rahatsızlığı var.
+ポリープ (porīpu) | polip | isim | 内視鏡検査で、大腸に小さなポリープが見つかった。 | Endoskopide kalın bağırsakta küçük bir polip bulundu.
+良性 (ryōsei) | iyi huylu | isim | 検査の結果、しこりは良性だとわかった。 | Tahlil sonucunda kitlenin iyi huylu olduğu anlaşıldı.
+悪性 (akusei) | kötü huylu | isim | 悪性の場合は、早めに手術が必要になる。 | Kötü huyluysa erkenden ameliyat gerekir.
+転移 (ten'i) | metastaz, yayılma | isim | 幸い、がんの転移は見られなかった。 | Neyse ki kanserin yayıldığı görülmedi.
+梗塞 (kōsoku) | enfarktüs | isim | 父は脳梗塞で倒れたが、早い処置で回復した。 | Babam beyin enfarktüsü geçirdi ama erken müdahaleyle iyileşti.
+動脈硬化 (dōmyaku kōka) | damar sertliği | isim | 喫煙は動脈硬化の大きな原因となる。 | Sigara damar sertliğinin başlıca nedenlerindendir.
+痙攣 (keiren) | kasılma, kramp, nöbet | isim | 高熱で、子どもが痙攣を起こした。 | Yüksek ateş yüzünden çocuk havale geçirdi.
+壊死 (eshi) | nekroz, doku ölümü | isim | 血流が止まり、組織の一部が壊死していた。 | Kan akışı durunca dokunun bir kısmı ölmüştü.
