@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Uzman hekimler ve bölümler
+전문의 (jeonmunui) | uzman hekim | isim | 그 병원에는 각 분야의 전문의가 있다. | O hastanede her alanın uzman hekimi var.
+신경과 (singyeonggwa) | nöroloji | isim | 두통이 계속돼서 신경과 진료를 예약했다. | Baş ağrım sürünce nöroloji randevusu aldım.
+신경외과 (singyeongoegwa) | beyin ve sinir cerrahisi | isim | 허리 디스크 때문에 신경외과에서 수술을 받았다. | Bel fıtığı yüzünden beyin ve sinir cerrahisinde ameliyat oldum.
+성형외과 (seonghyeongoegwa) | plastik cerrahi | isim | 화상 흉터를 치료하러 성형외과에 다닌다. | Yanık izini tedavi ettirmek için plastik cerrahiye gidiyorum.
+재활의학과 (jaehwaruihakgwa) | fizik tedavi ve rehabilitasyon bölümü | isim | 사고 후에 재활의학과에서 걷는 연습을 했다. | Kazadan sonra rehabilitasyon bölümünde yürüme çalışması yaptım.
+가정의학과 (gajeonguihakgwa) | aile hekimliği | isim | 어디가 아픈지 모를 때는 가정의학과에 먼저 가 보세요. | Nerenizin ağrıdığını bilmiyorsanız önce aile hekimine gidin.
+응급의학과 (eunggeubuihakgwa) | acil tıp | isim | 응급의학과 의사들은 밤에도 쉬지 못한다. | Acil tıp doktorları gece de dinlenemez.
+한의사 (hanuisa) | geleneksel Kore tıbbı hekimi | isim | 한의사는 맥을 짚어 보고 몸 상태를 설명해 주었다. | Geleneksel tıp hekimi nabzımı yoklayıp vücudumun durumunu anlattı.
+수의사 (suuisa) | veteriner | isim | 강아지가 아파서 수의사에게 데려갔다. | Köpeğim hastalanınca veterinere götürdüm.
+주치의 (juchiui) | tedaviyi üstlenen doktor | isim | 주치의 선생님이 다음 주에 퇴원해도 된다고 하셨다. | Doktorum gelecek hafta taburcu olabileceğimi söyledi.
+## Ciddi hastalıklar
+뇌졸중 (noejoljung) | felç, inme | isim | 뇌졸중은 빨리 치료할수록 후유증이 적다. | İnme ne kadar erken tedavi edilirse kalıcı hasar o kadar az olur.
+심장마비 (simjangmabi) | kalp krizi | isim | 그는 운동 중에 심장마비로 쓰러졌다. | Spor yaparken kalp kriziyle yere yığıldı.
+치매 (chimae) | bunama, demans | isim | 할머니가 치매에 걸리셔서 가족을 잘 못 알아보신다. | Büyükannem demansa yakalandığı için aileyi pek tanıyamıyor.
+폐렴 (pyeryeom) | zatürre | isim | 감기가 폐렴으로 번져서 입원했다. | Grip zatürreye dönüşünce hastaneye yattım.
+결핵 (gyeolhaek) | verem | isim | 결핵은 기침을 통해 다른 사람에게 옮을 수 있다. | Verem öksürük yoluyla başkalarına bulaşabilir.
+간염 (ganyeom) | hepatit | isim | 간염 예방 주사를 맞았는지 확인해 보세요. | Hepatit aşısı olup olmadığınızı kontrol edin.
+백혈병 (baekyeolbyeong) | lösemi | isim | 그 아이는 백혈병을 이겨 내고 다시 학교에 다닌다. | O çocuk lösemiyi yenip yeniden okula gidiyor.
+관절염 (gwanjeoryeom) | eklem iltihabı, artrit | isim | 관절염 때문에 할아버지는 계단을 오르기 힘들어하신다. | Dedem artrit yüzünden merdiven çıkmakta zorlanıyor.
+천식 (cheonsik) | astım | isim | 천식이 있는 사람은 미세먼지가 심한 날 조심해야 한다. | Astımı olanlar ince tozun yoğun olduğu günlerde dikkat etmeli.
+위염 (wiyeom) | gastrit | isim | 스트레스와 불규칙한 식사로 위염이 생겼다. | Stres ve düzensiz beslenme yüzünden gastrit oldum.
+## Teşhis
+소견 (sogyeon) | (tıbbi) görüş, bulgu | isim | 의사의 소견에 따르면 큰 문제는 없다고 한다. | Doktorun görüşüne göre büyük bir sorun yokmuş.
+판정 (panjeong) | karar, sonuç (resmî tespit) | isim | 그는 검사 결과 완치 판정을 받았다. | Tetkik sonucunda tamamen iyileştiği tespit edildi.
+양성 (yangseong) | pozitif; iyi huylu | isim | 검사에서 양성이 나와서 바로 격리되었다. | Testte pozitif çıktığı için hemen karantinaya alındı.
+음성 (eumseong) | negatif (test) | isim | 다행히 독감 검사는 음성으로 나왔다. | Neyse ki grip testi negatif çıktı.
+종양 (jongyang) | tümör | isim | 다행히 종양이 크지 않아서 간단하게 제거했다. | Neyse ki tümör büyük olmadığı için basitçe alındı.
+초기 (chogi) | erken evre, başlangıç | isim | 암은 초기에 발견하면 완치율이 높다. | Kanser erken evrede fark edilirse iyileşme oranı yüksektir.
+말기 (malgi) | son evre | isim | 그는 말기 판정을 받고도 희망을 잃지 않았다. | Son evre teşhisi aldıktan sonra da umudunu kaybetmedi.
+재발 (jaebal) | nüks, yeniden ortaya çıkma | isim | 수술 후에도 재발을 막기 위해 정기적으로 검사를 받는다. | Ameliyattan sonra da nüksü önlemek için düzenli kontrole gidiyor.
+전이 (jeoni) | metastaz, yayılma | isim | 다행히 다른 장기로 전이되지 않았다. | Neyse ki başka organlara yayılmamış.
+정밀 검사 (jeongmil geomsa) | ayrıntılı tetkik | isim | 혈액 검사 결과가 좋지 않아서 정밀 검사를 받기로 했다. | Kan tahlili sonucu iyi çıkmayınca ayrıntılı tetkik yaptırmaya karar verdim.
+## Tedavi yöntemleri
+항암 치료 (hangam chiryo) | kemoterapi | isim | 항암 치료 때문에 머리카락이 많이 빠졌다. | Kemoterapi yüzünden saçlarım çok döküldü.
+방사선 치료 (bangsaseon chiryo) | radyoterapi | isim | 수술 후에 한 달 동안 방사선 치료를 받았다. | Ameliyattan sonra bir ay radyoterapi gördüm.
+투석 (tuseok) | diyaliz | isim | 신장이 나빠서 일주일에 세 번 투석을 받는다. | Böbrekleri kötü olduğu için haftada üç kez diyalize giriyor.
+이식 (isik) | nakil | isim | 그는 형에게서 간 이식을 받았다. | Ağabeyinden karaciğer nakli aldı.
+장기 기증 (janggi gijeung) | organ bağışı | isim | 그녀는 장기 기증을 약속하는 서약서에 서명했다. | Organ bağışı taahhüt belgesini imzaladı.
+마취 (machwi) | anestezi, uyuşturma | isim | 마취에서 깨어나니 수술이 이미 끝나 있었다. | Anesteziden uyandığımda ameliyat çoktan bitmişti.
+봉합하다 (bonghapada) | dikiş atmak | fiil | 의사가 찢어진 이마를 다섯 바늘 봉합했다. | Doktor yarılan alnıma beş dikiş attı.
+깁스 (gipseu) | alçı (kırıkta) | isim | 팔이 부러져서 한 달 동안 깁스를 했다. | Kolum kırıldığı için bir ay alçıda kaldı.
+입원 치료 (ibwon chiryo) | yatarak tedavi | isim | 증상이 심해서 입원 치료가 필요하다고 했다. | Belirtiler ağır olduğu için yatarak tedavi gerektiği söylendi.
+통원 치료 (tongwon chiryo) | ayakta tedavi | isim | 다행히 통원 치료만 받으면 된다고 한다. | Neyse ki sadece ayakta tedavi yeterliymiş.
+## İlaçlar
+항생제 (hangsaengje) | antibiyotik | isim | 항생제는 의사가 처방한 기간 동안 끝까지 먹어야 한다. | Antibiyotikler doktorun yazdığı süre boyunca sonuna kadar alınmalı.
+처방약 (cheobangyak) | reçeteli ilaç | isim | 처방약은 약국에서 처방전이 있어야 살 수 있다. | Reçeteli ilaçlar eczanede ancak reçeteyle alınabilir.
+복용량 (bogyongnyang) | doz (ilaç miktarı) | isim | 아이에게 약을 줄 때는 복용량을 꼭 확인하세요. | Çocuğa ilaç verirken dozunu mutlaka kontrol edin.
+진정제 (jinjeongje) | sakinleştirici | isim | 환자가 너무 흥분해서 진정제를 놓았다. | Hasta çok heyecanlandığı için sakinleştirici yapıldı.
+수면제 (sumyeonje) | uyku ilacı | isim | 수면제에 의존하지 않고 자려고 노력한다. | Uyku ilacına bağımlı olmadan uyumaya çalışıyorum.
+백신 (baeksin) | aşı | isim | 새로운 백신이 개발되어 접종이 시작되었다. | Yeni bir aşı geliştirildi ve aşılama başladı.
+주사기 (jusagi) | şırınga | isim | 사용한 주사기는 반드시 따로 버려야 한다. | Kullanılmış şırıngalar mutlaka ayrı atılmalı.
+물약 (muryak) | şurup, sıvı ilaç | isim | 아이들은 알약보다 물약을 더 쉽게 먹는다. | Çocuklar haptan çok şurubu daha kolay içer.
+효능 (hyoneung) | etkinlik, fayda (ilaç) | isim | 이 약은 두통에 효능이 뛰어나다. | Bu ilaç baş ağrısında çok etkilidir.
+내성 (naeseong) | direnç (ilaca), bağışıklık | isim | 항생제를 자주 먹으면 내성이 생길 수 있다. | Sık antibiyotik kullanırsan direnç gelişebilir.
+## Halk sağlığı
+공중 보건 (gongjung bogeon) | halk sağlığı | isim | 깨끗한 물은 공중 보건의 기본이다. | Temiz su halk sağlığının temelidir.
+위생 (wisaeng) | hijyen | isim | 음식점은 위생 관리를 철저히 해야 한다. | Lokantalar hijyene titizlikle dikkat etmeli.
+감염병 (gamyeombyeong) | bulaşıcı hastalık (resmî) | isim | 감염병을 예방하려면 손을 자주 씻어야 한다. | Bulaşıcı hastalıklardan korunmak için elleri sık yıkamak gerekir.
+방역 (bangyeok) | salgın önleme, dezenfeksiyon | isim | 공항에서 철저한 방역이 이루어지고 있다. | Havalimanında sıkı salgın önlemleri uygulanıyor.
+격리 (gyeongni) | karantina, tecrit | isim | 그는 해외에서 돌아와 일주일 동안 격리되었다. | Yurt dışından dönünce bir hafta karantinaya alındı.
+유행하다 (yuhaenghada) | salgın olmak, yaygınlaşmak; moda olmak | fiil | 요즘 독감이 유행하고 있으니 조심하세요. | Bu aralar grip salgını var, dikkat edin.
+확진 (hwakjin) | kesin teşhis (hastalık) | isim | 그는 확진 판정을 받고 바로 치료를 시작했다. | Kesin teşhis konunca hemen tedaviye başladı.
+거리 두기 (geori dugi) | sosyal mesafe | isim | 그 시기에는 거리 두기 때문에 모임을 할 수 없었다. | O dönemde sosyal mesafe yüzünden buluşma yapılamıyordu.
+손 소독제 (son sodokje) | el dezenfektanı | isim | 건물 입구마다 손 소독제가 놓여 있다. | Her bina girişinde el dezenfektanı bulunuyor.
+접종률 (jeopjongnyul) | aşılanma oranı | isim | 노인들의 독감 백신 접종률이 높아졌다. | Yaşlıların grip aşısı olma oranı arttı.
+## Sağlık sistemi
+종합 병원 (jonghap byeongwon) | genel hastane | isim | 큰 수술은 종합 병원에서 받는 게 좋다. | Büyük ameliyatları genel hastanede olmak iyidir.
+대학 병원 (daehak byeongwon) | üniversite hastanesi | isim | 대학 병원은 예약하고 몇 달을 기다려야 한다. | Üniversite hastanesinde randevu alıp aylarca beklemek gerekir.
+의원 (uiwon) | muayenehane, klinik (küçük) | isim | 동네 의원에서 감기약을 처방받았다. | Mahalledeki klinikten grip ilacı reçetesi aldım.
+진료비 (jillyobi) | muayene ücreti | isim | 주말에는 진료비가 조금 더 비싸다. | Hafta sonu muayene ücreti biraz daha pahalı.
+의료비 (uiryobi) | sağlık harcaması | isim | 나이가 들수록 의료비 부담이 커진다. | Yaş ilerledikçe sağlık harcamalarının yükü artar.
+의료 사고 (uiryo sago) | tıbbi hata, malpraktis | isim | 의료 사고를 막기 위해 수술 전에 여러 번 확인한다. | Tıbbi hataları önlemek için ameliyattan önce birçok kez kontrol yapılır.
+간병인 (ganbyeongin) | hasta bakıcı | isim | 낮에는 간병인이 할아버지를 돌봐 주신다. | Gündüzleri hasta bakıcı dedeme bakıyor.
+요양 병원 (yoyang byeongwon) | bakımevi hastanesi | isim | 할머니는 요양 병원에서 지내신다. | Büyükannem bir bakımevi hastanesinde kalıyor.
+외래 (oerae) | poliklinik (ayakta hasta) | isim | 외래 진료는 오후 다섯 시까지입니다. | Poliklinik muayeneleri akşam beşe kadar.
+병상 (byeongsang) | hastane yatağı | isim | 환자가 많아서 병상이 부족하다. | Hasta çok olduğu için yatak yetersiz.
+## Tıbbi tetkik ve aletler
+청진기 (cheongjingi) | stetoskop | isim | 의사가 청진기로 내 가슴 소리를 들었다. | Doktor stetoskopla göğsümü dinledi.
+체온계 (cheongye) | termometre | isim | 열이 나는 것 같아서 체온계로 재 봤다. | Ateşim var gibi olunca termometreyle ölçtüm.
+혈압계 (hyeorapgye) | tansiyon aleti | isim | 할아버지는 매일 아침 혈압계로 혈압을 재신다. | Dedem her sabah tansiyon aletiyle tansiyonunu ölçüyor.
+심전도 (simjeondo) | elektrokardiyogram (EKG) | isim | 가슴이 답답해서 심전도 검사를 받았다. | Göğsümde sıkışma olunca EKG çektirdim.
+초음파 (choeumpa) | ultrason | isim | 초음파 사진으로 아기의 얼굴을 처음 봤다. | Ultrason görüntüsünde bebeğin yüzünü ilk kez gördüm.
+채혈 (chaehyeol) | kan alma | isim | 아침을 굶고 채혈을 하러 병원에 갔다. | Kahvaltı yapmadan kan aldırmak için hastaneye gittim.
+소변 검사 (sobyeon geomsa) | idrar tahlili | isim | 건강 검진에는 소변 검사도 포함되어 있다. | Sağlık kontrolüne idrar tahlili de dahil.
+조직 검사 (jojik geomsa) | biyopsi | isim | 혹이 발견되어서 조직 검사를 하기로 했다. | Bir yumru bulununca biyopsi yapılmasına karar verildi.
+시력 검사 (siryeok geomsa) | göz muayenesi | isim | 안경을 맞추기 전에 시력 검사를 했다. | Gözlük yaptırmadan önce göz muayenesi oldum.
+청력 (cheongnyeok) | işitme gücü | isim | 시끄러운 곳에서 오래 일하면 청력이 나빠진다. | Gürültülü yerde uzun süre çalışırsan işitme gücün azalır.
+## Hastalığın seyri
+위독하다 (widokada) | ağır hasta, durumu kritik | sıfat | 할아버지가 위독하시다는 연락을 받고 급히 내려갔다. | Dedemin durumunun kritik olduğu haberini alınca aceleyle memlekete gittim.
+호전되다 (hojeondoeda) | düzelmek, iyiye gitmek | fiil | 새 약을 쓴 후에 상태가 많이 호전되었다. | Yeni ilacı kullandıktan sonra durumu çok düzeldi.
+의식을 잃다 (uisigeul ilta) | bilincini kaybetmek | ifade | 환자는 사고 직후 의식을 잃고 병원으로 옮겨졌다. | Hasta kazadan hemen sonra bilincini kaybedip hastaneye kaldırıldı.
+혼수상태 (honsusangtae) | koma | isim | 그는 한 달 동안 혼수상태에 있다가 깨어났다. | Bir ay komada kaldıktan sonra uyandı.
+고비 (gobi) | kritik dönem, eşik | isim | 의사는 오늘 밤이 가장 큰 고비라고 했다. | Doktor bu gecenin en kritik eşik olduğunu söyledi.
+완쾌하다 (wankwaehada) | tamamen iyileşmek | fiil | 빨리 완쾌하시기를 바랍니다. | Bir an önce tamamen iyileşmenizi dilerim.
+후유증 (huyujeung) | kalıcı etki, sekel | isim | 교통사고 후유증으로 아직도 허리가 아프다. | Trafik kazasının kalıcı etkisiyle belim hâlâ ağrıyor.
+합병증 (hapbyeongjeung) | komplikasyon | isim | 당뇨병은 여러 합병증을 일으킬 수 있다. | Şeker hastalığı çeşitli komplikasyonlara yol açabilir.
+만성 (manseong) | kronik | isim | 그는 만성 피로에 시달리고 있다. | Kronik yorgunluktan muzdarip.
+급성 (geupseong) | akut | isim | 급성 맹장염으로 응급 수술을 받았다. | Akut apandisit yüzünden acil ameliyat oldu.
+## Tıp eğitimi ve gelişmeler
+신약 (sinyak) | yeni ilaç | isim | 그 회사는 치매 치료 신약을 개발 중이다. | O şirket demans tedavisi için yeni bir ilaç geliştiriyor.
+의대 (uidae) | tıp fakültesi | isim | 의대에 들어가려면 성적이 아주 좋아야 한다. | Tıp fakültesine girmek için notların çok iyi olması gerekir.
+간호학 (ganhohak) | hemşirelik | isim | 동생은 대학에서 간호학을 공부하고 있다. | Kardeşim üniversitede hemşirelik okuyor.
+의료 봉사 (uiryo bongsa) | gönüllü sağlık hizmeti | isim | 의사들이 시골 마을로 의료 봉사를 떠났다. | Doktorlar köylere gönüllü sağlık hizmetine gitti.
+오진 (ojin) | yanlış teşhis | isim | 오진 때문에 치료 시기를 놓칠 뻔했다. | Yanlış teşhis yüzünden az kalsın tedavi zamanını kaçırıyordum.
+진료 기록 (jillyo girok) | hasta kaydı | isim | 병원을 옮길 때는 진료 기록을 가져가야 한다. | Hastane değiştirirken hasta kayıtlarını götürmek gerekir.
+의료 기기 (uiryo gigi) | tıbbi cihaz | isim | 이 회사는 첨단 의료 기기를 수출한다. | Bu şirket ileri teknoloji tıbbi cihazlar ihraç ediyor.
+원격 진료 (wongyeok jillyo) | uzaktan muayene | isim | 섬 주민들은 원격 진료로 도시의 의사를 만난다. | Ada sakinleri şehirdeki doktorla uzaktan muayeneyle görüşüyor.
+예방 의학 (yebang uihak) | koruyucu hekimlik | isim | 예방 의학은 병이 생기기 전에 막는 것을 중요하게 여긴다. | Koruyucu hekimlik hastalığı ortaya çıkmadan önlemeyi önemser.
+의사 면허 (uisa myeonheo) | doktorluk diploması (lisans) | isim | 그는 의사 면허를 따고 시골 병원에서 일을 시작했다. | Doktorluk lisansını alıp bir köy hastanesinde çalışmaya başladı.
