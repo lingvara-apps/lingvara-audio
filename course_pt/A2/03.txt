@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
+## Doktorda
+a consulta | muayene, randevu (doktor) | isim (d) | Marquei uma consulta para amanhã. | Yarın için muayene randevusu aldım.
+o consultório | muayenehane | isim (e) | O consultório fica no segundo andar. | Muayenehane ikinci katta.
+o paciente | hasta (doktorun) | isim (e) | O médico atende vinte pacientes por dia. | Doktor günde yirmi hasta bakıyor.
+o exame | tahlil, tetkik; sınav | isim (e) | Preciso fazer um exame de sangue. | Kan tahlili yaptırmam gerekiyor.
+a receita | reçete; yemek tarifi | isim (d) | Esse remédio só com receita. | Bu ilaç sadece reçeteyle.
+examinar | muayene etmek | fiil | A médica examina a garganta dele. | Doktor onun boğazını muayene ediyor.
+o tratamento | tedavi | isim (e) | O tratamento dura duas semanas. | Tedavi iki hafta sürüyor.
+a clínica | klinik | isim (d) | Ela trabalha numa clínica particular. | Özel bir klinikte çalışıyor.
+o posto de saúde | sağlık ocağı | isim (e) | A vacina é de graça no posto de saúde. | Aşı sağlık ocağında ücretsiz.
+o especialista | uzman (doktor) | isim (e) | Preciso ver um especialista em pele. | Bir cildiye uzmanına görünmem lazım.
+## Belirtiler
+a dor de cabeça | baş ağrısı | isim (d) | Estou com uma dor de cabeça forte. | Şiddetli bir baş ağrım var.
+a dor de garganta | boğaz ağrısı | isim (d) | Tomei sorvete e fiquei com dor de garganta. | Dondurma yedim, boğazım ağrıdı.
+o enjoo | mide bulantısı | isim (e) | Sinto enjoo quando viajo de barco. | Tekneyle gidince midem bulanıyor.
+a tontura | baş dönmesi | isim (d) | Senti tontura no calor. | Sıcakta başım döndü.
+a diarreia | ishal | isim (d) | A criança está com diarreia. | Çocukta ishal var.
+a alergia | alerji | isim (d) | Tenho alergia a camarão. | Karidese alerjim var.
+vomitar | kusmak | fiil | O menino vomitou no carro. | Oğlan arabada kustu.
+espirrar | hapşırmak | fiil | Espirro muito na primavera. | İlkbaharda çok hapşırırım.
+coçar | kaşınmak; kaşımak | fiil | A picada do mosquito coça muito. | Sivrisinek ısırığı çok kaşınıyor.
+inchado | şiş, şişmiş | sıfat | Meu pé está inchado. | Ayağım şişmiş.
+## Hastalıklar ve yaralar
+a doença | hastalık | isim (d) | É uma doença comum no verão. | Yazın sık görülen bir hastalık.
+a infecção | enfeksiyon | isim (d) | Ele tem uma infecção no ouvido. | Kulağında enfeksiyon var.
+o vírus | virüs | isim (e) | É um vírus, vai passar logo. | Virüs, yakında geçer.
+a dengue | dang humması | isim (d) | O mosquito transmite a dengue. | Sivrisinek dang hummasını bulaştırır.
+a pressão alta | yüksek tansiyon | isim (d) | Meu avô tem pressão alta. | Dedemin tansiyonu yüksek.
+o diabetes | şeker hastalığı | isim (e) | Quem tem diabetes evita açúcar. | Şeker hastaları şekerden kaçınır.
+a asma | astım | isim (d) | Ela usa bombinha por causa da asma. | Astımı yüzünden inhaler kullanıyor.
+a ferida | yara | isim (d) | Limpe a ferida com água. | Yarayı suyla temizle.
+o corte | kesik | isim (e) | Foi só um corte pequeno. | Sadece küçük bir kesikti.
+a queimadura | yanık | isim (d) | Passei pomada na queimadura. | Yanığa merhem sürdüm.
+## Eczanede
+o comprimido | hap, tablet | isim (e) | Tome um comprimido de oito em oito horas. | Sekiz saatte bir hap al.
+a pomada | merhem | isim (d) | Passe a pomada duas vezes ao dia. | Merhemi günde iki kez sür.
+o xarope | şurup | isim (e) | Esse xarope é bom para tosse. | Bu şurup öksürüğe iyi gelir.
+a injeção | iğne, enjeksiyon | isim (d) | A criança tem medo de injeção. | Çocuk iğneden korkuyor.
+a vacina | aşı | isim (d) | Você tomou a vacina da gripe? | Grip aşısı oldun mu?
+o curativo | yara bandı, pansuman | isim (e) | Coloque um curativo no dedo. | Parmağına yara bandı yapıştır.
+o colírio | göz damlası | isim (e) | Pingue o colírio nos olhos à noite. | Göz damlasını akşam gözlerine damlat.
+o termômetro | termometre | isim (e) | O termômetro marca trinta e nove graus. | Termometre otuz dokuz dereceyi gösteriyor.
+a dose | doz | isim (d) | Não tome mais que a dose indicada. | Belirtilen dozdan fazla alma.
+o antibiótico | antibiyotik | isim (e) | O antibiótico precisa de receita. | Antibiyotik reçete gerektirir.
+## Acil durum
+a emergência | acil durum | isim (d) | Em caso de emergência, ligue 192. | Acil durumda 192'yi ara.
+a ambulância | ambulans | isim (d) | A ambulância chegou em dez minutos. | Ambulans on dakikada geldi.
+o acidente | kaza | isim (e) | Houve um acidente na estrada. | Yolda bir kaza oldu.
+socorro | imdat | ünlem | Socorro! Alguém me ajude! | İmdat! Biri yardım etsin!
+o pronto-socorro | acil servis | isim (e) | Levamos ele ao pronto-socorro. | Onu acil servise götürdük.
+ferido | yaralı | sıfat | Duas pessoas ficaram feridas. | İki kişi yaralandı.
+grave | ciddi, ağır | sıfat | Felizmente não é nada grave. | Neyse ki ciddi bir şey değil.
+desmaiar | bayılmak | fiil | Ela desmaiou por causa do calor. | Sıcaktan bayıldı.
+sangrar | kanamak | fiil | Seu nariz está sangrando. | Burnun kanıyor.
+o sangue | kan | isim (e) | Ele doa sangue todo ano. | Her yıl kan bağışlıyor.
+## İç organlar
+o coração | kalp; yürek | isim (e) | O coração bate rápido depois de correr. | Koştuktan sonra kalp hızlı atar.
+o estômago | mide | isim (e) | Estou com dor de estômago. | Midem ağrıyor.
+o pulmão | akciğer | isim (e) | Fumar faz mal ao pulmão. | Sigara akciğere zarar verir.
+o fígado | karaciğer | isim (e) | Álcool faz mal ao fígado. | Alkol karaciğere zararlı.
+o rim | böbrek | isim (e) | Beba água para proteger os rins. | Böbreklerini korumak için su iç.
+o osso | kemik | isim (e) | O cachorro está com um osso. | Köpeğin ağzında bir kemik var.
+a pele | cilt, deri | isim (d) | Use protetor para cuidar da pele. | Cildini korumak için güneş kremi kullan.
+a garganta | boğaz | isim (d) | Minha garganta está seca. | Boğazım kurumuş.
+o peito | göğüs | isim (e) | Sinto uma pressão no peito. | Göğsümde bir baskı hissediyorum.
+o cérebro | beyin | isim (e) | O cérebro precisa de descanso. | Beynin dinlenmeye ihtiyacı var.
+## Sağlıklı yaşam
+saudável | sağlıklı | sıfat | Ela come de forma saudável. | Sağlıklı besleniyor.
+a dieta | diyet; beslenme düzeni | isim (d) | Estou de dieta desde janeiro. | Ocaktan beri diyetteyim.
+o exercício | egzersiz; alıştırma | isim (e) | Faço exercício três vezes por semana. | Haftada üç kez egzersiz yaparım.
+emagrecer | kilo vermek | fiil | Ele emagreceu cinco quilos. | Beş kilo verdi.
+engordar | kilo almak | fiil | Engordei nas férias. | Tatilde kilo aldım.
+o peso | ağırlık, kilo | isim (e) | Qual é o seu peso? | Kaç kilosun?
+fumar | sigara içmek | fiil | É proibido fumar aqui. | Burada sigara içmek yasak.
+o cigarro | sigara | isim (e) | Ele quer largar o cigarro. | Sigarayı bırakmak istiyor.
+o álcool | alkol | isim (e) | Não beba álcool com remédio. | İlaçla birlikte alkol içme.
+o sono | uyku | isim (e) | Oito horas de sono são importantes. | Sekiz saatlik uyku önemlidir.
+## Sağlık fiilleri
+sentir | hissetmek | fiil · düzensiz | Como você se sente hoje? | Bugün kendini nasıl hissediyorsun?
+doer | ağrımak, acımak | fiil | Onde dói? | Neren ağrıyor?
+tossir | öksürmek | fiil · düzensiz | Ele tossiu a noite toda. | Bütün gece öksürdü.
+respirar | nefes almak | fiil | Respire fundo, por favor. | Derin nefes alın, lütfen.
+cuidar-se | kendine bakmak | fiil · dönüşlü | Se cuida, viu? | Kendine iyi bak, tamam mı?
+curar | iyileştirmek, tedavi etmek | fiil | Esse remédio cura a infecção. | Bu ilaç enfeksiyonu iyileştirir.
+piorar | kötüleşmek | fiil | A tosse piorou à noite. | Öksürük akşam kötüleşti.
+sarar | iyileşmek (yara) | fiil | A ferida já sarou. | Yara iyileşti bile.
+quebrar | kırmak; bozulmak | fiil | Ele quebrou a perna jogando bola. | Top oynarken bacağını kırdı.
+torcer | burkmak; tutmak (takım) | fiil | Torci o tornozelo na escada. | Merdivende bileğimi burktum.
+## Hastanede
+a cirurgia | ameliyat; cerrahi | isim (d) | A cirurgia correu bem. | Ameliyat iyi geçti.
+internar | hastaneye yatırmak | fiil | O médico decidiu internar o paciente. | Doktor hastayı yatırmaya karar verdi.
+a enfermaria | koğuş; revir | isim (d) | Ele está na enfermaria do terceiro andar. | Üçüncü kattaki koğuşta.
+a maca | sedye | isim (d) | Levaram o ferido na maca. | Yaralıyı sedyeyle götürdüler.
+o plantão | nöbet | isim (e) | A médica está de plantão hoje. | Doktor bugün nöbetçi.
+a visita | ziyaret; ziyaretçi | isim (d) | O horário de visita é das duas às quatro. | Ziyaret saati ikiden dörde kadar.
+o raio-x | röntgen | isim (e) | O raio-x mostrou o osso quebrado. | Röntgen kırık kemiği gösterdi.
+o resultado | sonuç | isim (e) | O resultado do exame sai amanhã. | Tahlil sonucu yarın çıkıyor.
+o soro | serum | isim (e) | Ela tomou soro no hospital. | Hastanede serum aldı.
+a operação | operasyon, ameliyat; işlem | isim (d) | A operação durou três horas. | Ameliyat üç saat sürdü.
+## Beden ve ruh hâli
+grávida | hamile | sıfat | Minha irmã está grávida de gêmeos. | Kız kardeşim ikiz bebeğe hamile.
+fraco | zayıf, güçsüz | sıfat | Depois da gripe fiquei fraco. | Gripten sonra halsiz kaldım.
+forte | güçlü; şiddetli | sıfat | Ele é forte como um touro. | Boğa gibi güçlü.
+pálido | solgun | sıfat | Você está pálida, tudo bem? | Benzin solgun, iyi misin?
+passar mal | fenalaşmak | ifade | Passei mal depois do jantar. | Akşam yemeğinden sonra fenalaştım.
+ficar bom | iyileşmek | ifade | Logo você fica bom! | Yakında iyileşirsin!
+o estresse | stres | isim (e) | O estresse faz mal à saúde. | Stres sağlığa zararlı.
+o cansaço | yorgunluk | isim (e) | Sinto um cansaço enorme. | Müthiş bir yorgunluk hissediyorum.
+a ansiedade | kaygı, anksiyete | isim (d) | Respirar fundo ajuda com a ansiedade. | Derin nefes almak kaygıya iyi gelir.
+a saúde mental | ruh sağlığı | isim (d) | A saúde mental também é importante. | Ruh sağlığı da önemlidir.

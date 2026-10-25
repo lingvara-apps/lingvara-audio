@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
+## Havalimanında
+o voo | uçuş | isim (e) | O voo para Lisboa está atrasado. | Lizbon uçuşu rötarlı.
+o embarque | biniş | isim (e) | O embarque começa às dez. | Biniş onda başlıyor.
+o portão | kapı (biniş); bahçe kapısı | isim (e) | O embarque é no portão doze. | Biniş on iki numaralı kapıdan.
+o check-in | check-in, giriş işlemi | isim (e) | Fiz o check-in pela internet. | Check-in'i internetten yaptım.
+a bagagem | bagaj | isim (d) | Minha bagagem não chegou. | Bagajım gelmedi.
+a bagagem de mão | el bagajı | isim (d) | Só levo bagagem de mão. | Sadece el bagajı götürüyorum.
+decolar | havalanmak, kalkmak (uçak) | fiil | O avião decola em cinco minutos. | Uçak beş dakika içinde kalkıyor.
+pousar | inmek (uçak) | fiil | Pousamos em Recife às seis. | Saat altıda Recife'ye indik.
+o passageiro | yolcu | isim (e) | Os passageiros devem apertar o cinto. | Yolcular kemerlerini bağlamalı.
+a escala | aktarma | isim (d) | O voo faz escala em São Paulo. | Uçuş São Paulo'da aktarma yapıyor.
+## Belgeler ve sınır
+o visto | vize | isim (e) | Turcos precisam de visto para o Brasil? | Türkler Brezilya için vize gerekir mi?
+a identidade | kimlik | isim (d) | Mostre sua identidade, por favor. | Kimliğinizi gösterin, lütfen.
+o RG | kimlik kartı (Brezilya) | isim (e) | Esqueci meu RG em casa. | Kimliğimi evde unuttum.
+a alfândega | gümrük | isim (d) | Passamos pela alfândega rapidamente. | Gümrükten hızla geçtik.
+a imigração | pasaport kontrolü; göç | isim (d) | A fila da imigração está enorme. | Pasaport kontrolündeki kuyruk çok uzun.
+o formulário | form | isim (e) | Preencha este formulário. | Bu formu doldurun.
+preencher | doldurmak (form) | fiil | Preenchi a ficha do hotel. | Otel formunu doldurdum.
+o seguro | sigorta | isim (e) | Você fez seguro de viagem? | Seyahat sigortası yaptırdın mı?
+a fronteira | sınır | isim (d) | Foz do Iguaçu fica na fronteira. | Foz do Iguaçu sınırda.
+válido | geçerli | sıfat | Seu passaporte ainda é válido? | Pasaportun hâlâ geçerli mi?
+## Otelde
+a recepção | resepsiyon | isim (d) | Deixe a chave na recepção. | Anahtarı resepsiyona bırak.
+o hóspede | otel misafiri | isim (e) | O hotel tem cem hóspedes. | Otelde yüz misafir var.
+a diária | gecelik ücret | isim (d) | A diária custa trezentos reais. | Gecelik ücret üç yüz real.
+a pousada | pansiyon | isim (d) | Ficamos numa pousada em Paraty. | Paraty'de bir pansiyonda kaldık.
+o albergue | hostel | isim (e) | O albergue é barato e animado. | Hostel ucuz ve hareketli.
+o elevador | asansör | isim (e) | O elevador está quebrado. | Asansör bozuk.
+a piscina | yüzme havuzu | isim (d) | A piscina fecha às dez. | Havuz onda kapanıyor.
+o frigobar | mini bar | isim (e) | Tem água no frigobar. | Mini barda su var.
+o check-out | çıkış işlemi | isim (e) | O check-out é até o meio-dia. | Çıkış en geç öğlen.
+hospedar-se | konaklamak | fiil · dönüşlü | Vou me hospedar perto da praia. | Plaja yakın konaklayacağım.
+## Otobüs ve tren yolculuğu
+a rodoviária | otogar | isim (d) | O ônibus sai da rodoviária às oito. | Otobüs otogardan sekizde kalkıyor.
+a plataforma | peron | isim (d) | O trem para na plataforma dois. | Tren iki numaralı perona yanaşıyor.
+a ida | gidiş | isim (d) | Comprei só a ida. | Sadece gidiş aldım.
+a volta | dönüş | isim (d) | A volta é no domingo. | Dönüş pazar günü.
+o vagão | vagon | isim (e) | Nosso vagão é o número cinco. | Vagonumuz beş numara.
+o destino | varış yeri; kader | isim (e) | Qual é o seu destino final? | Son varış noktanız neresi?
+a partida | kalkış; maç | isim (d) | A partida é às sete da manhã. | Kalkış sabah yedide.
+a chegada | varış | isim (d) | A chegada está prevista para as três. | Varış saat üçte bekleniyor.
+o atraso | gecikme, rötar | isim (e) | Desculpem o atraso. | Gecikme için özür dileriz.
+a linha | hat; çizgi | isim (d) | Pegue a linha azul do metrô. | Metronun mavi hattına bin.
+## Gezip görmek
+o ponto turístico | turistik yer | isim (e) | O Pão de Açúcar é um ponto turístico. | Şeker Somunu Dağı turistik bir yer.
+o guia | rehber | isim (e) | O guia fala inglês e espanhol. | Rehber İngilizce ve İspanyolca konuşuyor.
+a excursão | tur, gezi | isim (d) | Fizemos uma excursão aos Lençóis. | Lençóis'e bir tur yaptık.
+o monumento | anıt | isim (e) | O monumento fica no centro da praça. | Anıt meydanın ortasında.
+a vista | manzara | isim (d) | Que vista linda daqui de cima! | Buradan ne güzel bir manzara!
+o centro histórico | tarihî merkez | isim (e) | O centro histórico de Olinda é lindo. | Olinda'nın tarihî merkezi çok güzel.
+a lembrança | hediyelik eşya; anı | isim (d) | Comprei uma lembrança para minha mãe. | Anneme bir hediyelik eşya aldım.
+o cartão-postal | kartpostal | isim (e) | Mandei um cartão-postal para a vovó. | Nineme kartpostal gönderdim.
+o mirante | seyir terası | isim (e) | Do mirante se vê toda a cidade. | Seyir terasından bütün şehir görünüyor.
+o roteiro | gezi planı, güzergâh | isim (e) | Já fiz o roteiro da viagem. | Seyahat planını çoktan yaptım.
+## Plajda
+a onda | dalga | isim (d) | As ondas estão grandes hoje. | Bugün dalgalar büyük.
+o guarda-sol | plaj şemsiyesi | isim (e) | Aluguei um guarda-sol na praia. | Plajda bir şemsiye kiraladım.
+a canga | plaj örtüsü, pareo | isim (d) | Ela sentou na canga. | Pareosunun üstüne oturdu.
+o quiosque | sahil büfesi | isim (e) | Vamos comer no quiosque? | Sahil büfesinde yiyelim mi?
+o salva-vidas | cankurtaran | isim (e) | Nade perto do salva-vidas. | Cankurtaranın yakınında yüz.
+mergulhar | dalmak | fiil | Mergulhamos em Fernando de Noronha. | Fernando de Noronha'da dalış yaptık.
+bronzear-se | bronzlaşmak | fiil · dönüşlü | Ela gosta de se bronzear. | Bronzlaşmayı seviyor.
+o surfe | sörf | isim (e) | Ele pratica surfe todo dia. | Her gün sörf yapıyor.
+a concha | deniz kabuğu | isim (d) | A menina junta conchas na areia. | Kız kumda deniz kabuğu topluyor.
+a cadeira de praia | şezlong, plaj sandalyesi | isim (d) | Leve a cadeira de praia. | Plaj sandalyesini götür.
+## Seyahat fiilleri
+embarcar | binmek (uçak, gemi) | fiil | Embarcamos às onze da noite. | Gece on birde bindik.
+desembarcar | inmek (yolcu) | fiil | Desembarque pela porta da frente. | Ön kapıdan inin.
+fazer as malas | bavul hazırlamak | ifade | Ainda não fiz as malas! | Bavulları daha hazırlamadım!
+perder-se | kaybolmak | fiil · dönüşlü | Nos perdemos no centro da cidade. | Şehir merkezinde kaybolduk.
+explorar | keşfetmek | fiil | Quero explorar a Chapada Diamantina. | Chapada Diamantina'yı keşfetmek istiyorum.
+aproveitar | tadını çıkarmak; değerlendirmek | fiil | Aproveite as férias! | Tatilin tadını çıkar!
+partir | yola çıkmak, ayrılmak | fiil | O navio parte ao meio-dia. | Gemi öğlen kalkıyor.
+trocar dinheiro | döviz bozdurmak | ifade | Onde posso trocar dinheiro? | Nerede döviz bozdurabilirim?
+pedir informação | bilgi istemek, yol sormak | ifade | Vou pedir informação ao policial. | Polise yol soracağım.
+acampar | kamp yapmak | fiil | Acampamos perto do rio. | Nehrin yakınında kamp yaptık.
+## Yolda
+a carteira de motorista | ehliyet | isim (d) | Você tem carteira de motorista? | Ehliyetin var mı?
+o pneu | lastik (araba) | isim (e) | O pneu furou na estrada. | Yolda lastik patladı.
+a gasolina | benzin | isim (d) | A gasolina está cara. | Benzin pahalı.
+o pedágio | otoyol gişesi, geçiş ücreti | isim (e) | Há três pedágios até Santos. | Santos'a kadar üç gişe var.
+a rodovia | otoyol | isim (d) | A rodovia está engarrafada. | Otoyol tıkalı.
+o GPS | navigasyon cihazı | isim (e) | O GPS mandou virar à direita. | Navigasyon sağa dönmemizi söyledi.
+a placa | tabela; plaka | isim (d) | Siga as placas para o centro. | Merkez tabelalarını takip et.
+encher o tanque | depoyu doldurmak | ifade | Vamos encher o tanque antes de sair. | Çıkmadan depoyu dolduralım.
+a velocidade | hız | isim (d) | Respeite a velocidade máxima. | Azami hıza uy.
+o quilômetro | kilometre | isim (e) | Faltam vinte quilômetros. | Yirmi kilometre kaldı.
+## Seyahatte sorunlar
+o problema | sorun | isim (e) | Tivemos um problema com o voo. | Uçuşla ilgili bir sorun yaşadık.
+a reclamação | şikâyet | isim (d) | Quero fazer uma reclamação. | Şikâyette bulunmak istiyorum.
+o cancelamento | iptal | isim (e) | O cancelamento foi por causa da chuva. | İptal yağmur yüzündendi.
+o reembolso | para iadesi | isim (e) | Pedi o reembolso da passagem. | Bilet parasının iadesini istedim.
+o furto | hırsızlık (gizlice) | isim (e) | Cuidado com furtos na praia. | Plajda hırsızlığa dikkat.
+roubar | çalmak | fiil | Roubaram meu celular no metrô. | Metroda telefonumu çaldılar.
+o achados e perdidos | kayıp eşya bürosu | isim (e) | Procure no achados e perdidos. | Kayıp eşya bürosuna bak.
+a embaixada | büyükelçilik | isim (d) | A embaixada fica em Brasília. | Büyükelçilik Brasília'da.
+lotado | tıklım tıklım, dolu | sıfat | O ônibus está lotado. | Otobüs tıklım tıklım.
+o assalto | soygun | isim (e) | Houve um assalto na rua ontem. | Dün sokakta soygun oldu.
+## Seyahat izlenimleri
+inesquecível | unutulmaz | sıfat | Foi uma viagem inesquecível. | Unutulmaz bir yolculuktu.
+maravilhoso | harika, muhteşem | sıfat | O pôr do sol é maravilhoso. | Gün batımı muhteşem.
+perigoso | tehlikeli | sıfat | Esse bairro é perigoso à noite. | Bu mahalle geceleri tehlikeli.
+lindo | çok güzel | sıfat | Que praia linda! | Ne güzel bir plaj!
+cheio | dolu; tok | sıfat | O hotel está cheio. | Otel dolu.
+vazio | boş | sıfat | A praia estava vazia de manhã. | Plaj sabah boştu.
+histórico | tarihî | sıfat | Ouro Preto é uma cidade histórica. | Ouro Preto tarihî bir şehir.
+de férias | tatilde | ifade | Estou de férias até segunda. | Pazartesiye kadar tatildeyim.
+a alta temporada | yüksek sezon | isim (d) | Na alta temporada tudo é mais caro. | Yüksek sezonda her şey daha pahalı.
+o mochileiro | sırt çantalı gezgin | isim (e) | O albergue está cheio de mochileiros. | Hostel sırt çantalı gezginlerle dolu.
