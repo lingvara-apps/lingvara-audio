@@ -1,0 +1,111 @@
+# UNIT: Doğa ve hayvanlar | Hayvanlar, bitkiler, hava, çevre
+## Çiftlikte
+a fazenda | çiftlik | isim (d) | Meu tio tem uma fazenda em Goiás. | Amcamın Goiás'ta bir çiftliği var.
+o porco | domuz | isim (e) | O porco está na lama. | Domuz çamurda.
+a galinha | tavuk (canlı) | isim (d) | A galinha bota ovos todo dia. | Tavuk her gün yumurtlar.
+o galo | horoz | isim (e) | O galo canta às cinco da manhã. | Horoz sabah beşte öter.
+a ovelha | koyun | isim (d) | As ovelhas comem no campo. | Koyunlar tarlada otluyor.
+o boi | öküz | isim (e) | O boi puxa a carroça. | Öküz arabayı çekiyor.
+a cabra | keçi | isim (d) | O leite de cabra é forte. | Keçi sütü ağır.
+o burro | eşek | isim (e) | O burro carrega a lenha. | Eşek odun taşıyor.
+o pato | ördek | isim (e) | Os patos nadam no lago. | Ördekler gölde yüzüyor.
+o coelho | tavşan | isim (e) | O coelho come cenoura. | Tavşan havuç yiyor.
+## Vahşi hayvanlar
+o leão | aslan | isim (e) | O leão é o rei dos animais. | Aslan hayvanların kralıdır.
+o elefante | fil | isim (e) | O elefante tem uma memória ótima. | Filin hafızası çok iyidir.
+o tigre | kaplan | isim (e) | O tigre dorme na sombra. | Kaplan gölgede uyuyor.
+o urso | ayı | isim (e) | O urso gosta de mel. | Ayı balı sever.
+o lobo | kurt | isim (e) | O lobo vive em grupo. | Kurt sürü hâlinde yaşar.
+a cobra | yılan | isim (d) | Cuidado, tem uma cobra ali! | Dikkat, orada bir yılan var!
+o jacaré | timsah (kayman) | isim (e) | Vimos jacarés no Pantanal. | Pantanal'da timsah gördük.
+a girafa | zürafa | isim (d) | A girafa tem o pescoço comprido. | Zürafanın boynu uzundur.
+a raposa | tilki | isim (d) | A raposa é muito esperta. | Tilki çok kurnazdır.
+o tubarão | köpekbalığı | isim (e) | Há tubarões nesta praia? | Bu plajda köpekbalığı var mı?
+## Brezilya'nın hayvanları
+o tucano | tukan | isim (e) | O tucano tem um bico enorme. | Tukanın kocaman bir gagası var.
+a arara | ara papağanı | isim (d) | A arara azul é muito rara. | Mavi ara papağanı çok nadir.
+o bicho-preguiça | tembel hayvan | isim (e) | O bicho-preguiça dorme na árvore. | Tembel hayvan ağaçta uyuyor.
+a capivara | kapibara | isim (d) | A capivara vive perto da água. | Kapibara suya yakın yaşar.
+o boto | Amazon yunusu | isim (e) | O boto-cor-de-rosa vive no rio Amazonas. | Pembe yunus Amazon Nehri'nde yaşar.
+o beija-flor | sinekkuşu | isim (e) | O beija-flor visita as flores. | Sinekkuşu çiçekleri ziyaret ediyor.
+a baleia | balina | isim (d) | Em julho dá para ver baleias na Bahia. | Temmuzda Bahia'da balina görülebilir.
+o golfinho | yunus | isim (e) | Os golfinhos pulam no mar. | Yunuslar denizde zıplıyor.
+a piranha | pirana | isim (d) | A piranha tem dentes afiados. | Piranaların keskin dişleri vardır.
+o tamanduá | karıncayiyen | isim (e) | O tamanduá come formigas. | Karıncayiyen karınca yer.
+## Böcekler
+o inseto | böcek | isim (e) | No verão há muitos insetos. | Yazın çok böcek olur.
+a formiga | karınca | isim (d) | Tem formiga no açúcar! | Şekerde karınca var!
+a abelha | arı | isim (d) | A abelha faz mel. | Arı bal yapar.
+a mosca | sinek | isim (d) | Feche a janela, entrou uma mosca. | Pencereyi kapat, bir sinek girdi.
+o mosquito | sivrisinek | isim (e) | Os mosquitos me picaram a noite toda. | Sivrisinekler bütün gece beni ısırdı.
+a borboleta | kelebek | isim (d) | Uma borboleta azul pousou na flor. | Mavi bir kelebek çiçeğe kondu.
+a aranha | örümcek | isim (d) | Tenho medo de aranha. | Örümcekten korkarım.
+a barata | hamamböceği | isim (d) | Vi uma barata na cozinha! | Mutfakta bir hamamböceği gördüm!
+a minhoca | solucan | isim (d) | A minhoca vive na terra. | Solucan toprakta yaşar.
+o bicho | hayvan; böcek (konuşma dili) | isim (e) | Que bicho é esse? | Bu ne hayvanı?
+## Bitkiler
+a planta | bitki | isim (d) | Tenho muitas plantas na varanda. | Balkonda çok bitkim var.
+a folha | yaprak; sayfa | isim (d) | As folhas caem no outono. | Sonbaharda yapraklar dökülür.
+o galho | dal | isim (e) | O macaco pula de galho em galho. | Maymun daldan dala atlıyor.
+a raiz | kök | isim (d) | A árvore tem raízes profundas. | Ağacın derin kökleri var.
+a semente | tohum | isim (d) | Plantei sementes de girassol. | Ayçiçeği tohumu ektim.
+a grama | çim | isim (d) | Não pise na grama. | Çimlere basmayın.
+o mato | çalılık, yabani otlar | isim (e) | O quintal está cheio de mato. | Avlu yabani otlarla dolu.
+a palmeira | palmiye | isim (d) | Há palmeiras na avenida. | Bulvarda palmiyeler var.
+o coqueiro | hindistancevizi ağacı | isim (e) | Descansamos à sombra do coqueiro. | Hindistancevizi ağacının gölgesinde dinlendik.
+o ipê | ipe ağacı | isim (e) | Em agosto o ipê fica amarelo. | Ağustosta ipe ağacı sararır.
+## Hava olayları
+a tempestade | fırtına | isim (d) | Vem uma tempestade forte aí. | Şiddetli bir fırtına geliyor.
+o trovão | gök gürültüsü | isim (e) | O cachorro tem medo de trovão. | Köpek gök gürültüsünden korkar.
+o relâmpago | şimşek | isim (e) | Vi um relâmpago no céu. | Gökyüzünde bir şimşek gördüm.
+a neve | kar | isim (d) | Às vezes cai neve no Sul. | Güneyde bazen kar yağar.
+a neblina | sis | isim (d) | Há muita neblina na serra. | Dağlık bölgede çok sis var.
+o arco-íris | gökkuşağı | isim (e) | Olha o arco-íris depois da chuva! | Yağmurdan sonraki gökkuşağına bak!
+a garoa | çisenti | isim (d) | São Paulo é a terra da garoa. | São Paulo çisentinin şehridir.
+a seca | kuraklık | isim (d) | A seca no sertão é muito forte. | İç bölgede kuraklık çok şiddetli.
+a enchente | sel | isim (d) | A enchente destruiu muitas casas. | Sel birçok evi yıktı.
+a previsão do tempo | hava tahmini | isim (d) | A previsão do tempo diz que vai esfriar. | Hava tahmini havanın soğuyacağını söylüyor.
+## Çevre
+o meio ambiente | çevre | isim (e) | Precisamos proteger o meio ambiente. | Çevreyi korumamız gerekiyor.
+a poluição | kirlilik | isim (d) | A poluição do ar é um problema. | Hava kirliliği bir sorun.
+poluir | kirletmek | fiil | As fábricas poluem o rio. | Fabrikalar nehri kirletiyor.
+reciclar | geri dönüştürmek | fiil | Aqui a gente recicla o lixo. | Biz burada çöpü geri dönüştürüyoruz.
+o lixo | çöp | isim (e) | Não jogue lixo na praia. | Plaja çöp atma.
+proteger | korumak | fiil | O parque protege as onças. | Park jaguarları koruyor.
+o desmatamento | ormansızlaşma | isim (e) | O desmatamento ameaça a floresta. | Ormansızlaşma ormanı tehdit ediyor.
+o plástico | plastik | isim (e) | Evite usar plástico. | Plastik kullanmaktan kaçın.
+a energia | enerji | isim (d) | A energia solar é limpa. | Güneş enerjisi temizdir.
+sustentável | sürdürülebilir | sıfat | Queremos uma cidade sustentável. | Sürdürülebilir bir şehir istiyoruz.
+## Yeryüzü
+o mundo | dünya | isim (e) | Quero conhecer o mundo todo. | Bütün dünyayı görmek istiyorum.
+a terra | toprak; kara; Dünya | isim (d) | A terra aqui é vermelha. | Buradaki toprak kırmızı.
+o oceano | okyanus | isim (e) | O Brasil fica no oceano Atlântico. | Brezilya Atlas Okyanusu kıyısında.
+o continente | kıta | isim (e) | A América do Sul é um continente. | Güney Amerika bir kıtadır.
+o vale | vadi | isim (e) | O vale é verde e tranquilo. | Vadi yeşil ve sakin.
+o deserto | çöl | isim (e) | Os Lençóis parecem um deserto. | Lençóis bir çöle benziyor.
+o vulcão | yanardağ | isim (e) | No Brasil não há vulcões ativos. | Brezilya'da aktif yanardağ yok.
+a caverna | mağara | isim (d) | Visitamos uma caverna enorme. | Kocaman bir mağarayı gezdik.
+a lagoa | lagün, küçük göl | isim (d) | Corremos em volta da lagoa. | Gölün etrafında koştuk.
+o Pantanal | Pantanal (sulak alan) | isim (e) | O Pantanal tem muitos pássaros. | Pantanal'da çok kuş var.
+## Evcil hayvanlar
+o animal de estimação | evcil hayvan | isim (e) | Você tem animal de estimação? | Evcil hayvanın var mı?
+a ração | mama (hayvan) | isim (d) | Compre ração para o gato. | Kediye mama al.
+o veterinário | veteriner | isim (e) | Levei o cachorro ao veterinário. | Köpeği veterinere götürdüm.
+latir | havlamak | fiil | O cachorro do vizinho late à noite. | Komşunun köpeği geceleri havlıyor.
+miar | miyavlamak | fiil | O gato mia quando tem fome. | Kedi acıkınca miyavlar.
+morder | ısırmak | fiil | Ele não morde, pode fazer carinho. | Isırmaz, sevebilirsin.
+voar | uçmak | fiil | Os pássaros voam para o sul. | Kuşlar güneye uçuyor.
+alimentar | beslemek | fiil | Não alimente os macacos! | Maymunları beslemeyin!
+adotar | sahiplenmek; benimsemek | fiil | Adotamos um gato de rua. | Bir sokak kedisi sahiplendik.
+o rabo | kuyruk | isim (e) | O cachorro abana o rabo. | Köpek kuyruk sallıyor.
+## Doğayı tanımlama
+selvagem | vahşi, yabani | sıfat | A onça é um animal selvagem. | Jaguar vahşi bir hayvandır.
+doméstico | evcil; ev ile ilgili | sıfat | O gato é um animal doméstico. | Kedi evcil bir hayvandır.
+venenoso | zehirli | sıfat | Essa cobra é venenosa. | Bu yılan zehirli.
+raro | nadir | sıfat | É uma flor muito rara. | Çok nadir bir çiçek.
+enorme | kocaman, devasa | sıfat | A baleia é enorme. | Balina kocaman.
+minúsculo | minicik | sıfat | A formiga é minúscula. | Karınca minicik.
+natural | doğal | sıfat | O suco é cem por cento natural. | Meyve suyu yüzde yüz doğal.
+seco | kuru | sıfat | O ar está muito seco. | Hava çok kuru.
+molhado | ıslak | sıfat | Minha roupa está molhada. | Kıyafetim ıslak.
+a espécie | tür | isim (d) | Há muitas espécies de pássaros aqui. | Burada birçok kuş türü var.

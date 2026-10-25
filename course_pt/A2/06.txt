@@ -1,0 +1,111 @@
+# UNIT: Ev hayatı | Kiralama, tamir, mobilya, komşular
+## Kiralama
+o inquilino | kiracı | isim (e) | O inquilino paga o aluguel no dia cinco. | Kiracı kirayı ayın beşinde ödüyor.
+o proprietário | mülk sahibi, ev sahibi | isim (e) | O proprietário mora no Rio. | Ev sahibi Rio'da oturuyor.
+o dono | sahip | isim (e) | Quem é o dono deste cachorro? | Bu köpeğin sahibi kim?
+o condomínio | site; aidat | isim (e) | O condomínio tem piscina e academia. | Sitede havuz ve spor salonu var.
+o fiador | kefil | isim (e) | Para alugar, preciso de um fiador. | Kiralamak için bir kefile ihtiyacım var.
+a imobiliária | emlak ofisi | isim (d) | Fui à imobiliária ver apartamentos. | Daire bakmak için emlakçıya gittim.
+o corretor | emlakçı; komisyoncu | isim (e) | O corretor mostrou três casas. | Emlakçı üç ev gösterdi.
+mobiliado | eşyalı | sıfat | Procuro um quarto mobiliado. | Eşyalı bir oda arıyorum.
+o anúncio | ilan | isim (e) | Vi o anúncio na internet. | İlanı internette gördüm.
+a mudança | taşınma; değişiklik | isim (d) | A mudança é no sábado. | Taşınma cumartesi.
+## Ev tipleri ve bölümleri
+o sobrado | iki katlı ev | isim (e) | Eles moram num sobrado antigo. | Eski bir iki katlı evde oturuyorlar.
+a kitnet | stüdyo daire | isim (d) | Aluguei uma kitnet perto da faculdade. | Fakülteye yakın bir stüdyo daire kiraladım.
+a cobertura | çatı katı dairesi | isim (d) | A cobertura tem vista para o mar. | Çatı katının deniz manzarası var.
+o porão | bodrum | isim (e) | Guardamos as caixas no porão. | Kutuları bodrumda saklıyoruz.
+o sótão | çatı arası | isim (e) | Há coisas velhas no sótão. | Çatı arasında eski eşyalar var.
+o telhado | çatı | isim (e) | O gato está no telhado. | Kedi çatıda.
+o muro | duvar (dış), bahçe duvarı | isim (e) | O muro da casa é alto. | Evin bahçe duvarı yüksek.
+a cerca | çit | isim (d) | Pintamos a cerca de branco. | Çiti beyaza boyadık.
+a campainha | kapı zili | isim (d) | A campainha tocou. | Kapı zili çaldı.
+o interfone | diafon | isim (e) | O porteiro me chamou pelo interfone. | Kapıcı beni diafondan aradı.
+## Tamir
+consertar | tamir etmek | fiil | Preciso consertar a geladeira. | Buzdolabını tamir ettirmem lazım.
+quebrado | bozuk; kırık | sıfat | O chuveiro está quebrado. | Duş bozuk.
+o vazamento | sızıntı | isim (e) | Há um vazamento na cozinha. | Mutfakta bir sızıntı var.
+vazar | sızdırmak, akmak | fiil | A torneira está vazando. | Musluk damlatıyor.
+entupido | tıkalı | sıfat | A pia está entupida. | Lavabo tıkalı.
+a ferramenta | alet | isim (d) | Onde estão as ferramentas? | Aletler nerede?
+o martelo | çekiç | isim (e) | Me empresta o martelo? | Çekici bana ödünç verir misin?
+o prego | çivi | isim (e) | Coloque um prego na parede. | Duvara bir çivi çak.
+o parafuso | vida | isim (e) | Falta um parafuso na cadeira. | Sandalyede bir vida eksik.
+a chave de fenda | tornavida | isim (d) | Use a chave de fenda pequena. | Küçük tornavidayı kullan.
+## Mobilya ve dekor
+a cortina | perde | isim (d) | Feche a cortina, o sol está forte. | Perdeyi kapat, güneş çok güçlü.
+a almofada | minder, kırlent | isim (d) | O sofá tem almofadas coloridas. | Kanepede renkli kırlentler var.
+o abajur | abajur | isim (e) | Acendo o abajur para ler. | Okumak için abajuru yakarım.
+o vaso | vazo; saksı | isim (e) | Coloque as flores no vaso. | Çiçekleri vazoya koy.
+a cômoda | şifonyer | isim (d) | As camisetas estão na cômoda. | Tişörtler şifonyerde.
+o criado-mudo | komodin | isim (e) | O celular está no criado-mudo. | Telefon komodinin üstünde.
+o berço | beşik, bebek karyolası | isim (e) | O bebê dorme no berço. | Bebek beşikte uyuyor.
+a rede | hamak; ağ | isim (d) | No Nordeste muita gente dorme em rede. | Kuzeydoğu'da birçok kişi hamakta uyur.
+o banquinho | tabure | isim (e) | Suba no banquinho para pegar a caixa. | Kutuyu almak için tabureye çık.
+a prateleira | raf | isim (d) | Os temperos estão na prateleira. | Baharatlar rafta.
+## Komşuluk
+o síndico | site yöneticisi | isim (e) | Reclame com o síndico. | Site yöneticisine şikâyet et.
+o porteiro | kapıcı | isim (e) | O porteiro recebe as encomendas. | Kapıcı paketleri teslim alıyor.
+a portaria | giriş, kapıcı odası | isim (d) | Deixei a chave na portaria. | Anahtarı girişteki kapıcıya bıraktım.
+o barulho | gürültü | isim (e) | Que barulho é esse? | Bu gürültü ne?
+barulhento | gürültülü | sıfat | Meu vizinho é muito barulhento. | Komşum çok gürültücü.
+incomodar | rahatsız etmek | fiil | Desculpe incomodar tão tarde. | Bu kadar geç rahatsız ettiğim için özür dilerim.
+a regra | kural | isim (d) | As regras do prédio estão no elevador. | Binanın kuralları asansörde.
+o salão de festas | parti salonu (sitede) | isim (e) | A festa vai ser no salão de festas. | Parti sitenin parti salonunda olacak.
+a vizinhança | komşular; çevre | isim (d) | A vizinhança aqui é ótima. | Buradaki komşular harika.
+a lei do silêncio | sessizlik saatleri kuralı | isim (d) | Depois das dez vale a lei do silêncio. | Ondan sonra sessizlik kuralı geçerli.
+## Evde yapılanlar
+mudar-se | taşınmak | fiil · dönüşlü | Nós nos mudamos para Curitiba. | Curitiba'ya taşındık.
+instalar | kurmak, takmak | fiil | O técnico vai instalar o chuveiro. | Teknisyen duşu takacak.
+pintar | boyamak | fiil | Vamos pintar a sala de verde. | Salonu yeşile boyayacağız.
+decorar | süslemek, dekore etmek; ezberlemek | fiil | Ela decorou o quarto do bebê. | Bebek odasını o süsledi.
+montar | kurmak, monte etmek | fiil | Montei o armário sozinho. | Dolabı tek başıma kurdum.
+trocar | değiştirmek | fiil | Preciso trocar a lâmpada. | Ampulü değiştirmem lazım.
+guardar | saklamak; kaldırmak | fiil | Guarde os brinquedos na caixa. | Oyuncakları kutuya kaldır.
+pendurar | asmak | fiil | Pendure o quadro aqui. | Tabloyu buraya as.
+empurrar | itmek | fiil | Me ajude a empurrar o sofá. | Kanepeyi itmeme yardım et.
+puxar | çekmek | fiil | Puxe a porta para abrir. | Açmak için kapıyı çek.
+## Faturalar
+a conta de luz | elektrik faturası | isim (d) | A conta de luz veio alta. | Elektrik faturası yüksek geldi.
+a conta de água | su faturası | isim (d) | Já paguei a conta de água. | Su faturasını ödedim bile.
+o gás | gaz | isim (e) | Acabou o gás do fogão. | Ocağın gazı bitti.
+o botijão | tüp (gaz) | isim (e) | Precisamos comprar um botijão novo. | Yeni bir tüp almamız lazım.
+o IPTU | emlak vergisi (Brezilya) | isim (e) | O IPTU vence em fevereiro. | Emlak vergisinin son günü şubatta.
+a taxa | harç, ücret | isim (d) | Tem uma taxa de limpeza. | Bir temizlik ücreti var.
+o encanamento | su tesisatı | isim (e) | O encanamento do prédio é velho. | Binanın tesisatı eski.
+a falta de luz | elektrik kesintisi | isim (d) | Teve falta de luz ontem à noite. | Dün gece elektrik kesildi.
+a caixa-d'água | su deposu | isim (d) | A caixa-d'água fica no telhado. | Su deposu çatıda.
+o esgoto | kanalizasyon | isim (e) | O esgoto está entupido. | Kanalizasyon tıkalı.
+## Evi tanımlama
+espaçoso | geniş, ferah | sıfat | A sala é bem espaçosa. | Salon epey ferah.
+aconchegante | sıcacık, şirin | sıfat | Que casa aconchegante! | Ne sıcacık bir ev!
+arejado | havadar | sıfat | O quarto é claro e arejado. | Oda aydınlık ve havadar.
+moderno | modern | sıfat | A cozinha é moderna. | Mutfak modern.
+antigo | eski, antika | sıfat | Moramos num prédio antigo. | Eski bir binada oturuyoruz.
+reformado | yenilenmiş, tadilattan geçmiş | sıfat | O banheiro foi reformado. | Banyo yenilendi.
+abafado | havasız, boğucu | sıfat | O quarto está abafado. | Oda havasız.
+bagunçado | dağınık | sıfat | Meu quarto está bagunçado. | Odam dağınık.
+arrumado | toplu, düzenli | sıfat | A casa está toda arrumada. | Ev tertemiz toplanmış.
+o térreo | zemin kat | isim (e) | Moro no térreo. | Zemin katta oturuyorum.
+## Ev güvenliği
+a fechadura | kilit | isim (d) | A fechadura está emperrada. | Kilit sıkışmış.
+o cadeado | asma kilit | isim (e) | Coloque um cadeado no portão. | Bahçe kapısına asma kilit tak.
+o alarme | alarm | isim (e) | O alarme disparou de madrugada. | Alarm sabaha karşı çaldı.
+trancar | kilitlemek | fiil | Não esqueça de trancar a porta. | Kapıyı kilitlemeyi unutma.
+destrancar | kilidini açmak | fiil | Não consigo destrancar a porta. | Kapının kilidini açamıyorum.
+a grade | parmaklık | isim (d) | As janelas têm grade. | Pencerelerde parmaklık var.
+o ladrão | hırsız | isim (e) | O ladrão entrou pela janela. | Hırsız pencereden girdi.
+a câmera | kamera | isim (d) | O prédio tem câmeras. | Binada kameralar var.
+seguro | güvenli; emin | sıfat | Este bairro é seguro. | Bu mahalle güvenli.
+o extintor | yangın söndürücü | isim (e) | O extintor fica no corredor. | Yangın söndürücü koridorda.
+## Bahçe
+a mangueira | hortum; mango ağacı | isim (d) | Regue as plantas com a mangueira. | Bitkileri hortumla sula.
+o canteiro | çiçek tarhı | isim (e) | Plantei rosas no canteiro. | Tarha gül diktim.
+plantar | dikmek, ekmek | fiil | Vamos plantar uma árvore. | Bir ağaç dikelim.
+a horta | sebze bahçesi | isim (d) | Temos alface na horta. | Bahçemizde marul var.
+a churrasqueira | mangal, barbekü yeri | isim (d) | A casa tem churrasqueira no quintal. | Evin avlusunda mangal yeri var.
+o gramado | çimenlik | isim (e) | As crianças correm no gramado. | Çocuklar çimenlikte koşuyor.
+a sombra | gölge | isim (d) | Vamos sentar na sombra. | Gölgeye oturalım.
+o adubo | gübre | isim (e) | Coloque adubo na terra. | Toprağa gübre koy.
+o pátio | avlu | isim (e) | A escola tem um pátio grande. | Okulun büyük bir avlusu var.
+a lenha | odun | isim (d) | Precisamos de lenha para a fogueira. | Ateş için oduna ihtiyacımız var.
