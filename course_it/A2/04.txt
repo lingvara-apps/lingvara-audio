@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
+## Uçak ve havalimanı
+il volo | uçuş | isim (e) | Il volo per Istanbul è alle otto. | İstanbul uçuşu saat sekizde.
+il check-in | check-in, uçuş kaydı | isim (e) | Faccio il check-in online. | Check-in'i internetten yapıyorum.
+la carta d'imbarco | biniş kartı | isim (d) | Ecco la mia carta d'imbarco. | İşte biniş kartım.
+il bagaglio | bagaj | isim (e) | Il mio bagaglio pesa venti chili. | Bagajım yirmi kilo.
+il bagaglio a mano | el bagajı | isim (e) | Ho solo un bagaglio a mano. | Sadece bir el bagajım var.
+l'uscita (d) | çıkış; (havalimanında) kapı | isim (d) | L'imbarco è all'uscita dodici. | Biniş on iki numaralı kapıda.
+atterrare | iniş yapmak | fiil | L'aereo atterra a Pisa. | Uçak Pisa'ya iniyor.
+decollare | kalkış yapmak, havalanmak | fiil | Decolliamo tra cinque minuti. | Beş dakika sonra kalkıyoruz.
+il pilota | pilot | isim (e) | Il pilota saluta i passeggeri. | Pilot yolcuları selamlıyor.
+il posto | yer, koltuk; mekân | isim (e) | Vorrei un posto vicino al finestrino. | Pencere kenarında bir yer istiyorum.
+## Tren ve otobüs
+la biglietteria | bilet gişesi | isim (d) | La biglietteria è chiusa. | Bilet gişesi kapalı.
+l'andata (d) | gidiş | isim (d) | Un biglietto di sola andata, per favore. | Yalnız gidiş bir bilet, lütfen.
+il ritorno | dönüş | isim (e) | Il ritorno è domenica sera. | Dönüş pazar akşamı.
+la carrozza | vagon | isim (d) | Il mio posto è nella carrozza cinque. | Yerim beşinci vagonda.
+convalidare | (bileti) onaylatmak, damgalatmak | fiil | Prima di salire, convalida il biglietto. | Binmeden önce bileti damgalat.
+la coincidenza | aktarma (bağlantılı sefer) | isim (d) | Ho perso la coincidenza a Bologna. | Bologna'da aktarmayı kaçırdım.
+cambiare | değiştirmek; aktarma yapmak | fiil | A Firenze devi cambiare treno. | Floransa'da tren değiştirmelisin.
+il pullman | şehirlerarası otobüs | isim (e) | Il pullman per Siena parte da qui. | Siena otobüsü buradan kalkıyor.
+il capolinea | son durak | isim (e) | Scendo al capolinea. | Son durakta iniyorum.
+il controllore | kondüktör, biletçi | isim (e) | Il controllore chiede i biglietti. | Kondüktör biletleri istiyor.
+## Otelde
+la camera singola | tek kişilik oda | isim (d) | Vorrei una camera singola. | Tek kişilik bir oda istiyorum.
+la camera doppia | iki kişilik oda | isim (d) | La camera doppia costa ottanta euro. | İki kişilik oda seksen avro.
+la reception | resepsiyon | isim (d) | Lascio la chiave alla reception. | Anahtarı resepsiyona bırakıyorum.
+la prenotazione | rezervasyon | isim (d) | Ho una prenotazione a nome Demir. | Demir adına rezervasyonum var.
+incluso | dahil | sıfat | La colazione è inclusa? | Kahvaltı dahil mi?
+la mezza pensione | yarım pansiyon | isim (d) | Prendiamo la mezza pensione. | Yarım pansiyon alıyoruz.
+l'ostello (e) | hostel, gençlik yurdu | isim (e) | Dormo in un ostello economico. | Ucuz bir hostelde kalıyorum.
+disponibile | müsait, mevcut | sıfat | Avete una camera disponibile? | Boş odanız var mı?
+la tassa di soggiorno | konaklama vergisi | isim (d) | A Venezia si paga la tassa di soggiorno. | Venedik'te konaklama vergisi ödenir.
+il letto matrimoniale | çift kişilik yatak | isim (e) | La camera ha un letto matrimoniale. | Odada çift kişilik yatak var.
+## Gezi ve keşif
+il monumento | anıt | isim (e) | Roma è piena di monumenti. | Roma anıtlarla dolu.
+la visita guidata | rehberli tur | isim (d) | La visita guidata dura due ore. | Rehberli tur iki saat sürüyor.
+il castello | kale, şato | isim (e) | Visitiamo un castello medievale. | Ortaçağdan kalma bir kaleyi geziyoruz.
+la torre | kule | isim (d) | La torre di Pisa è pendente. | Pisa Kulesi eğik.
+la rovina | harabe, kalıntı | isim (d) | A Pompei ci sono rovine antiche. | Pompei'de antik kalıntılar var.
+il centro storico | tarihî merkez, eski şehir | isim (e) | Il centro storico è chiuso alle macchine. | Tarihî merkez arabalara kapalı.
+la foto (le foto) | fotoğraf | isim (d) | Ci fai una foto, per favore? | Bize bir fotoğraf çeker misiniz, lütfen?
+l'ingresso (e) | giriş | isim (e) | L'ingresso è gratuito la domenica. | Pazar günleri giriş ücretsiz.
+il duomo | katedral, başkilise | isim (e) | Il duomo di Milano è enorme. | Milano Katedrali kocaman.
+la fontana | çeşme, fıskiye | isim (d) | Lancio una moneta nella fontana. | Çeşmeye bozuk para atıyorum.
+## Belgeler ve para
+la carta d'identità | kimlik kartı | isim (d) | Mostri la carta d'identità, per favore. | Kimliğinizi gösterin, lütfen.
+il visto | vize | isim (e) | Ho bisogno del visto? | Vizeye ihtiyacım var mı?
+la dogana | gümrük | isim (d) | Alla dogana controllano le valigie. | Gümrükte bavulları kontrol ediyorlar.
+scaduto | süresi dolmuş | sıfat | Il mio passaporto è scaduto! | Pasaportumun süresi dolmuş!
+rinnovare | yenilemek | fiil | Devo rinnovare la carta d'identità. | Kimlik kartımı yenilemem lazım.
+il cambio | döviz bürosu; kur; değişim | isim (e) | Il cambio in aeroporto è caro. | Havalimanındaki döviz bürosu pahalı.
+la valuta | döviz, para birimi | isim (d) | Qual è la valuta in Svizzera? | İsviçre'de para birimi ne?
+il bancomat | bankamatik, ATM; banka kartı | isim (e) | C'è un bancomat qui vicino? | Yakında bankamatik var mı?
+l'assicurazione (d) | sigorta | isim (d) | Hai l'assicurazione di viaggio? | Seyahat sigortan var mı?
+dichiarare | beyan etmek | fiil | Ha qualcosa da dichiarare? | Beyan edeceğiniz bir şey var mı?
+## Yolculuk sorunları
+cancellato | iptal edilmiş | sıfat | Il volo è cancellato. | Uçuş iptal edildi.
+smarrire | kaybetmek (eşya) | fiil | Ho smarrito la valigia. | Valizimi kaybettim.
+perdersi (perso) | kaybolmak, yolunu kaybetmek | fiil · dönüşlü | Ci siamo persi a Venezia. | Venedik'te kaybolduk.
+rubare | çalmak (hırsızlık) | fiil | Mi hanno rubato il portafoglio. | Cüzdanımı çaldılar.
+il ladro | hırsız | isim (e) | Il ladro è scappato. | Hırsız kaçtı.
+il furto | hırsızlık | isim (e) | Voglio denunciare un furto. | Bir hırsızlığı bildirmek istiyorum.
+la coda | kuyruk, sıra | isim (d) | Al museo c'è una lunga coda. | Müzede uzun bir kuyruk var.
+il rimborso | geri ödeme, para iadesi | isim (e) | Chiedo il rimborso del biglietto. | Biletin parasının iadesini istiyorum.
+il reclamo | şikâyet (resmî) | isim (e) | Faccio un reclamo alla compagnia. | Şirkete şikâyette bulunuyorum.
+la denuncia | şikâyet, ihbar (polise) | isim (d) | Faccio la denuncia alla polizia. | Polise şikâyette bulunuyorum.
+## Araç kiralama ve yol
+noleggiare | kiralamak (araç, eşya) | fiil | Noleggiamo una macchina in Sicilia. | Sicilya'da araba kiralıyoruz.
+il noleggio | kiralama | isim (e) | Il noleggio costa trenta euro al giorno. | Kiralama günlük otuz avro.
+la cintura di sicurezza | emniyet kemeri | isim (d) | Allacciate la cintura di sicurezza! | Emniyet kemerlerinizi bağlayın!
+fare il pieno | depoyu doldurmak | ifade | Prima di partire faccio il pieno. | Yola çıkmadan önce depoyu dolduruyorum.
+il distributore | benzin istasyonu | isim (e) | Il distributore è chiuso di notte. | Benzin istasyonu gece kapalı.
+la gomma | lastik; silgi | isim (d) | Abbiamo una gomma a terra. | Lastiğimiz patladı.
+il casello | otoyol gişesi | isim (e) | Paghiamo al casello. | Gişede ödüyoruz.
+il pedaggio | otoyol ücreti | isim (e) | Il pedaggio per Roma è caro. | Roma'ya otoyol ücreti pahalı.
+la multa | para cezası | isim (d) | Ho preso una multa per velocità. | Hız cezası yedim.
+il navigatore | navigasyon cihazı | isim (e) | Il navigatore dice di girare a destra. | Navigasyon sağa dönmemizi söylüyor.
+## Yön bulma
+la direzione | yön | isim (d) | Siamo nella direzione giusta? | Doğru yönde miyiz?
+l'indicazione (d) | işaret, tarif | isim (d) | Seguiamo le indicazioni per il centro. | Merkez tabelalarını takip edelim.
+il cartello | tabela, levha | isim (e) | Il cartello dice "Firenze 20 km". | Tabelada "Floransa 20 km" yazıyor.
+seguire | takip etmek, izlemek | fiil | Segui quella macchina! | O arabayı takip et!
+proseguire | devam etmek (yola) | fiil | Prosegua dritto per due chilometri. | İki kilometre düz devam edin.
+tornare indietro | geri dönmek | ifade | Abbiamo sbagliato strada, torniamo indietro. | Yolu şaşırdık, geri dönelim.
+la rotonda | göbek, döner kavşak | isim (d) | Alla rotonda prendi la seconda uscita. | Göbekte ikinci çıkıştan çık.
+il chilometro | kilometre | isim (e) | Mancano dieci chilometri. | On kilometre kaldı.
+la distanza | mesafe, uzaklık | isim (d) | Qual è la distanza da Roma a Napoli? | Roma ile Napoli arası ne kadar?
+in fondo | dibinde, sonunda | ifade | Il bagno è in fondo a destra. | Tuvalet en sonda sağda.
+## Doğa gezisi ve kamp
+il campeggio | kamp, kamp alanı | isim (e) | D'estate andiamo in campeggio. | Yazın kampa gideriz.
+il sacco a pelo | uyku tulumu | isim (e) | Il sacco a pelo è caldo. | Uyku tulumu sıcak.
+il sentiero | patika | isim (e) | Il sentiero porta al lago. | Patika göle çıkıyor.
+l'escursione (d) | doğa yürüyüşü, gezi | isim (d) | Facciamo un'escursione in montagna. | Dağda bir yürüyüş yapıyoruz.
+il rifugio | dağ evi, sığınak | isim (e) | Dormiamo in un rifugio sulle Dolomiti. | Dolomitler'de bir dağ evinde kalıyoruz.
+la torcia (le torce) | el feneri | isim (d) | Porta la torcia per la notte. | Gece için el fenerini getir.
+il fuoco | ateş | isim (e) | Accendiamo il fuoco. | Ateşi yakalım.
+la cima | zirve, tepe | isim (d) | Finalmente siamo in cima! | Sonunda zirvedeyiz!
+arrampicarsi | tırmanmak | fiil · dönüşlü | Il gatto si arrampica sull'albero. | Kedi ağaca tırmanıyor.
+la borraccia (le borracce) | matara | isim (d) | Riempio la borraccia alla fontana. | Matarayı çeşmeden dolduruyorum.
+## Yolculuk anıları
+il ricordo | anı, hatıra | isim (e) | Ho un bel ricordo di quel viaggio. | O yolculuktan güzel bir anım var.
+l'avventura (d) | macera | isim (d) | Il viaggio è stato un'avventura. | Yolculuk bir macera oldu.
+indimenticabile | unutulmaz | sıfat | È stata una vacanza indimenticabile. | Unutulmaz bir tatildi.
+il viaggio di nozze | balayı | isim (e) | Il viaggio di nozze è in Puglia. | Balayı Puglia'da.
+all'estero | yurt dışında, yurt dışına | ifade | Mia sorella vive all'estero. | Kız kardeşim yurt dışında yaşıyor.
+il souvenir | hatıra eşya | isim (e) | Compro un souvenir per la mamma. | Annem için hatıra eşya alıyorum.
+la nostalgia | özlem, hasret | isim (d) | Ho nostalgia di casa. | Evimi özledim.
+abbronzarsi | bronzlaşmak | fiil · dönüşlü | Al mare mi abbronzo subito. | Denizde hemen bronzlaşırım.
+rilassarsi | rahatlamak, dinlenmek | fiil · dönüşlü | In vacanza voglio solo rilassarmi. | Tatilde sadece rahatlamak istiyorum.
+scoprire (scoperto) | keşfetmek | fiil · düzensiz | Mi piace scoprire posti nuovi. | Yeni yerler keşfetmeyi severim.

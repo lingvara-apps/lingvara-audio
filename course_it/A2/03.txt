@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
+## Hastane ve randevu
+la visita | muayene; ziyaret | isim (d) | Ho una visita alle nove. | Saat dokuzda muayenem var.
+il paziente | hasta (doktorun hastası) | isim (e) | Il paziente aspetta il medico. | Hasta doktoru bekliyor.
+l'ambulatorio (e) | muayenehane, poliklinik | isim (e) | L'ambulatorio apre alle otto. | Poliklinik sekizde açılıyor.
+la sala d'attesa | bekleme salonu | isim (d) | La sala d'attesa è piena. | Bekleme salonu dolu.
+il medico di base | aile hekimi | isim (e) | Prima vai dal medico di base. | Önce aile hekimine git.
+la tessera sanitaria | sağlık kartı | isim (d) | Ha la tessera sanitaria? | Sağlık kartınız var mı?
+lo specialista | uzman doktor | isim (e) | Devo andare da uno specialista. | Bir uzmana gitmem gerekiyor.
+la clinica | klinik, özel hastane | isim (d) | La clinica è in centro. | Klinik merkezde.
+ricoverare | hastaneye yatırmak | fiil | Hanno ricoverato il nonno ieri. | Dedemi dün hastaneye yatırdılar.
+il controllo | kontrol, check-up | isim (e) | Faccio un controllo ogni anno. | Her yıl check-up yaptırırım.
+## Vücut ve iç organlar
+il petto | göğüs | isim (e) | Ho un dolore al petto. | Göğsümde ağrı var.
+lo stomaco | mide | isim (e) | Ho mal di stomaco. | Midem ağrıyor.
+il cuore | kalp | isim (e) | Il cuore batte forte. | Kalp hızlı atıyor.
+il polmone | akciğer | isim (e) | Il fumo fa male ai polmoni. | Sigara akciğerlere zararlı.
+la gola | boğaz | isim (d) | Mi fa male la gola. | Boğazım ağrıyor.
+la pelle | cilt, deri | isim (d) | Ho la pelle secca. | Cildim kuru.
+l'osso (e) (le ossa) | kemik | isim (e) | Il cane mangia un osso. | Köpek kemik yiyor.
+il sangue | kan | isim (e) | Domani faccio le analisi del sangue. | Yarın kan tahlili yaptırıyorum.
+il muscolo | kas | isim (e) | Dopo la corsa mi fanno male i muscoli. | Koşudan sonra kaslarım ağrıyor.
+la caviglia | ayak bileği | isim (d) | Ho la caviglia gonfia. | Ayak bileğim şiş.
+## Belirtiler ve hastalıklar
+l'influenza (d) | grip | isim (d) | Ho l'influenza da tre giorni. | Üç gündür gribim.
+l'allergia (d) | alerji | isim (d) | Ho un'allergia ai gatti. | Kedilere alerjim var.
+la nausea | mide bulantısı | isim (d) | In nave ho la nausea. | Gemide midem bulanıyor.
+il dolore | ağrı, acı | isim (e) | Ho un dolore alla spalla. | Omzumda ağrı var.
+il sintomo | belirti | isim (e) | Quali sono i sintomi? | Belirtiler neler?
+il virus | virüs | isim (e) | È solo un virus, passa presto. | Sadece bir virüs, çabuk geçer.
+vomitare | kusmak | fiil | Il bambino ha vomitato. | Çocuk kustu.
+starnutire | hapşırmak | fiil | In primavera starnutisco sempre. | İlkbaharda hep hapşırırım.
+tossire | öksürmek | fiil | Tossisco tutta la notte. | Bütün gece öksürüyorum.
+gonfio | şiş, şişmiş | sıfat | Ho il piede gonfio. | Ayağım şiş.
+## Tedavi ve muayene
+la pressione | tansiyon; basınç | isim (d) | Il medico misura la pressione. | Doktor tansiyonu ölçüyor.
+la ricetta | reçete; yemek tarifi | isim (d) | Per questo farmaco serve la ricetta. | Bu ilaç için reçete gerekiyor.
+l'analisi (d) | tahlil, test | isim (d) | Le analisi sono perfette. | Tahliller mükemmel.
+la radiografia | röntgen | isim (d) | Facciamo una radiografia al braccio. | Kolun röntgenini çekelim.
+curare | tedavi etmek | fiil | Il dottore cura i bambini. | Doktor çocukları tedavi ediyor.
+la cura | tedavi; bakım | isim (d) | La cura dura una settimana. | Tedavi bir hafta sürüyor.
+l'operazione (d) | ameliyat; işlem | isim (d) | L'operazione è andata bene. | Ameliyat iyi geçti.
+l'iniezione (d) | iğne, enjeksiyon | isim (d) | L'infermiere fa un'iniezione. | Hemşire iğne yapıyor.
+la diagnosi | teşhis | isim (d) | La diagnosi è semplice. | Teşhis basit.
+prescrivere (prescritto) | (ilaç) yazmak | fiil · düzensiz | Il medico mi prescrive un antibiotico. | Doktor bana antibiyotik yazıyor.
+## Eczanede
+la compressa | tablet, hap | isim (d) | Prenda una compressa dopo i pasti. | Yemeklerden sonra bir tablet alın.
+lo sciroppo | şurup | isim (e) | Lo sciroppo per la tosse è dolce. | Öksürük şurubu tatlı.
+la pomata | merhem | isim (d) | Metti la pomata sulla mano. | Eline merhem sür.
+il cerotto | yara bandı | isim (e) | Hai un cerotto? | Yara bandın var mı?
+l'antibiotico (e) | antibiyotik | isim (e) | L'antibiotico si prende per sei giorni. | Antibiyotik altı gün alınır.
+la goccia (le gocce) | damla | isim (d) | Prendo dieci gocce la sera. | Akşamları on damla alıyorum.
+il termometro | termometre, derece | isim (e) | Il termometro segna trentotto. | Derece otuz sekizi gösteriyor.
+il farmaco (i farmaci) | ilaç | isim (e) | Questo farmaco è senza ricetta. | Bu ilaç reçetesiz.
+la benda | sargı, bandaj | isim (d) | Il farmacista mi dà una benda. | Eczacı bana sargı bezi veriyor.
+a stomaco vuoto | aç karnına | ifade | Non prendere il farmaco a stomaco vuoto. | İlacı aç karnına alma.
+## Acil durumlar
+il pronto soccorso | acil servis | isim (e) | Andiamo subito al pronto soccorso! | Hemen acile gidelim!
+l'ambulanza (d) | ambulans | isim (d) | Chiamate un'ambulanza! | Ambulans çağırın!
+l'emergenza (d) | acil durum | isim (d) | È un'emergenza, aiutateci! | Acil durum, yardım edin!
+l'incidente (e) | kaza | isim (e) | C'è stato un incidente in autostrada. | Otoyolda bir kaza oldu.
+la ferita | yara | isim (d) | La ferita non è grave. | Yara ciddi değil.
+ferito | yaralı | sıfat | Ci sono due persone ferite. | İki yaralı var.
+aiuto | imdat; yardım | ünlem | Aiuto! Mi sono perso! | İmdat! Kayboldum!
+svenire | bayılmak | fiil · düzensiz | Fa caldo e una signora sviene. | Hava sıcak ve bir kadın bayılıyor.
+sanguinare | kanamak | fiil | Il naso mi sanguina. | Burnum kanıyor.
+rompersi (rotto) | kırılmak; (kemiğini) kırmak | fiil · dönüşlü | Mi sono rotto una gamba sciando. | Kayak yaparken bacağımı kırdım.
+## Diş hekiminde
+il dentista | diş hekimi | isim (e) | Ho paura del dentista. | Diş hekiminden korkuyorum.
+il mal di denti | diş ağrısı | isim (e) | Ho un terribile mal di denti. | Korkunç bir diş ağrım var.
+la carie | diş çürüğü | isim (d) | Il dentista trova una carie. | Diş hekimi bir çürük buluyor.
+l'otturazione (d) | dolgu | isim (d) | Oggi faccio un'otturazione. | Bugün dolgu yaptırıyorum.
+la gengiva | diş eti | isim (d) | Mi sanguinano le gengive. | Diş etlerim kanıyor.
+il filo interdentale | diş ipi | isim (e) | Uso il filo interdentale ogni sera. | Her akşam diş ipi kullanırım.
+l'apparecchio (e) | diş teli; cihaz | isim (e) | Mia figlia porta l'apparecchio. | Kızım diş teli takıyor.
+lavarsi i denti | dişlerini fırçalamak | ifade | Lavati i denti prima di dormire! | Yatmadan önce dişlerini fırçala!
+il sorriso | gülümseme | isim (e) | Ha un bel sorriso. | Güzel bir gülümsemesi var.
+sensibile | hassas, duyarlı | sıfat | Ho i denti sensibili al freddo. | Dişlerim soğuğa hassas.
+## Sağlıklı yaşam
+la dieta | diyet, beslenme düzeni | isim (d) | Da lunedì sono a dieta. | Pazartesiden itibaren diyetteyim.
+fare sport | spor yapmak | ifade | Faccio sport tre volte a settimana. | Haftada üç kez spor yaparım.
+dimagrire | zayıflamak, kilo vermek | fiil | Voglio dimagrire tre chili. | Üç kilo vermek istiyorum.
+ingrassare | kilo almak, şişmanlamak | fiil | D'inverno ingrasso sempre. | Kışın hep kilo alırım.
+il peso | ağırlık, kilo | isim (e) | Controllo il peso ogni settimana. | Her hafta kilomu kontrol ederim.
+sano | sağlıklı | sıfat | Mangio cibo sano. | Sağlıklı besleniyorum.
+fumare | sigara içmek | fiil | Qui non si può fumare. | Burada sigara içilmez.
+smettere (smesso) | bırakmak (alışkanlık) | fiil · düzensiz | Ho smesso di fumare un anno fa. | Bir yıl önce sigarayı bıraktım.
+la vitamina | vitamin | isim (d) | Le arance hanno molta vitamina C. | Portakallarda çok C vitamini var.
+il sonno | uyku | isim (e) | Ho sonno, vado a letto. | Uykum var, yatıyorum.
+## Göz ve kulak
+la vista | görme; manzara | isim (d) | Il nonno ha problemi di vista. | Dedemin görme sorunu var.
+l'oculista (e) | göz doktoru | isim (e) | Vado dall'oculista domani. | Yarın göz doktoruna gidiyorum.
+la lente a contatto | kontakt lens | isim (d) | Porto le lenti a contatto. | Kontakt lens takıyorum.
+miope | miyop | sıfat | Sono miope, non vedo lontano. | Miyobum, uzağı göremiyorum.
+cieco (ciechi) | kör | sıfat | Il cane aiuta un uomo cieco. | Köpek kör bir adama yardım ediyor.
+sordo | sağır | sıfat | Parla forte, il nonno è sordo. | Yüksek sesle konuş, dedem sağır.
+l'udito (e) | işitme | isim (e) | I gatti hanno un ottimo udito. | Kedilerin işitmesi çok iyidir.
+il collirio | göz damlası | isim (e) | Metto il collirio due volte al giorno. | Günde iki kez göz damlası damlatıyorum.
+il prurito | kaşıntı | isim (e) | Ho prurito agli occhi. | Gözlerim kaşınıyor.
+la palpebra | göz kapağı | isim (d) | Ho la palpebra gonfia. | Göz kapağım şiş.
+## Sağlık personeli ve kalıplar
+il chirurgo (i chirurghi) | cerrah | isim (e) | Il chirurgo opera domani. | Cerrah yarın ameliyat ediyor.
+il pediatra | çocuk doktoru | isim (e) | Porto mio figlio dal pediatra. | Oğlumu çocuk doktoruna götürüyorum.
+lo psicologo (gli psicologi) | psikolog | isim (e) | Parlo con uno psicologo. | Bir psikologla konuşuyorum.
+il fisioterapista | fizyoterapist | isim (e) | Il fisioterapista mi aiuta con la schiena. | Fizyoterapist sırtım için bana yardım ediyor.
+il ginecologo (i ginecologi) | kadın doğum doktoru | isim (e) | Ha un appuntamento dal ginecologo. | Kadın doğum doktorundan randevusu var.
+dove le fa male? | neresi ağrıyor? (resmî) | ifade | Signora, dove le fa male? | Hanımefendi, neresi ağrıyor?
+mi gira la testa | başım dönüyor | ifade | Mi gira la testa, mi siedo. | Başım dönüyor, oturuyorum.
+essere in forma | formda olmak | ifade | Il nonno è ancora in forma. | Dedem hâlâ formda.
+riprendersi (ripreso) | toparlanmak, kendine gelmek | fiil · dönüşlü | Dopo l'influenza mi riprendo piano piano. | Gripten sonra yavaş yavaş toparlanıyorum.
+la guarigione | iyileşme | isim (d) | Auguri di pronta guarigione! | Acil şifalar dilerim!
