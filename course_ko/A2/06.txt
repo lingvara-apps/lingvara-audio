@@ -1,0 +1,111 @@
+# UNIT: Ev hayatı | Ev tipleri, kiralama, tamir, dekorasyon, komşular
+## Ev tipleri
+주택 (jutaek) | konut, ev | isim | 이 동네에는 주택이 많아요. (I dongneeneun jutaegi manayo.) | Bu mahallede çok müstakil konut var.
+단독 주택 (dandok jutaek) | müstakil ev | isim | 마당이 있는 단독 주택에 살고 싶어요. (Madangi inneun dandok jutaege salgo sipeoyo.) | Bahçeli müstakil bir evde yaşamak istiyorum.
+빌라 (billa) | az katlı apartman (villa) | isim | 저는 삼 층짜리 빌라에 살아요. (Jeoneun sam cheungjjari billae sarayo.) | Üç katlı küçük bir apartmanda oturuyorum.
+원룸 (wollum) | stüdyo daire (tek oda) | isim | 학교 앞 원룸을 구했어요. (Hakgyo ap wollumeul guhaesseoyo.) | Okulun önünde stüdyo daire buldum.
+오피스텔 (opiseutel) | ofis-konut (officetel) | isim | 회사 근처 오피스텔에 살아요. (Hoesa geuncheo opiseutere sarayo.) | Şirketin yakınında bir officetel'de oturuyorum.
+기숙사 (gisuksa) | yurt | isim | 첫 학기에는 기숙사에서 살았어요. (Cheot hakgieneun gisuksaeseo sarasseoyo.) | İlk dönem yurtta kaldım.
+하숙 (hasuk) | pansiyonda yemekli kalma | isim | 대학교 근처에서 하숙을 해요. (Daehakgyo geuncheoeseo hasugeul haeyo.) | Üniversitenin yakınında pansiyonda kalıyorum.
+고시원 (gosiwon) | gosiwon (çok küçük kiralık oda) | isim | 고시원 방은 아주 좁아요. (Gosiwon bangeun aju jobayo.) | Gosiwon odaları çok dar.
+동네 (dongne) | mahalle | isim | 우리 동네는 조용하고 깨끗해요. (Uri dongneneun joyonghago kkaekkeutaeyo.) | Mahallemiz sakin ve temiz.
+이웃집 (iutjip) | komşu evi | isim | 이웃집 아이들이 놀러 왔어요. (Iutjip aideuri nolleo wasseoyo.) | Komşunun çocukları oynamaya geldi.
+## Kiralama
+월세 (wolse) | aylık kira | isim | 월세가 오십만 원이에요. (Wolsega osimman wonieyo.) | Aylık kira beş yüz bin won.
+전세 (jeonse) | jeonse (büyük depozitolu kiralama) | isim | 한국에는 전세라는 제도가 있어요. (Hangugeneun jeonseraneun jedoga isseoyo.) | Kore'de jeonse denen bir sistem var.
+보증금 (bojeunggeum) | depozito | isim | 보증금은 천만 원이에요. (Bojeunggeumeun cheonman wonieyo.) | Depozito on milyon won.
+집주인 (jipjuin) | ev sahibi | isim | 집주인에게 연락했어요. (Jipjuinege yeollakaesseoyo.) | Ev sahibine haber verdim.
+세입자 (seipja) | kiracı | isim | 세입자를 구하고 있어요. (Seipjareul guhago isseoyo.) | Kiracı arıyoruz.
+부동산 (budongsan) | emlakçı; gayrimenkul | isim | 부동산에서 집을 몇 군데 봤어요. (Budongsaneseo jibeul myeot gunde bwasseoyo.) | Emlakçıyla birkaç ev gördüm.
+계약서 (gyeyakseo) | sözleşme (belge) | isim | 계약서를 꼼꼼히 읽으세요. (Gyeyakseoreul kkomkkomhi ilgeuseyo.) | Sözleşmeyi dikkatlice okuyun.
+이사하다 (isahada) | taşınmak | fiil | 다음 주에 새집으로 이사해요. (Daeum jue saejibeuro isahaeyo.) | Gelecek hafta yeni eve taşınıyoruz.
+이삿짐 (isatjim) | taşınma eşyası | isim | 이삿짐 센터에 연락했어요. (Isatjim senteoe yeollakaesseoyo.) | Nakliye firmasını aradım.
+관리비 (gwallibi) | aidat | isim | 관리비에 인터넷이 포함돼요? (Gwallibie inteonesi pohamdwaeyo?) | Aidata internet dahil mi?
+## Ev arama
+조건 (jogeon) | koşul, şart | isim | 이 집은 조건이 좋아요. (I jibeun jogeoni joayo.) | Bu evin koşulları iyi.
+교통 (gyotong) | ulaşım, trafik | isim | 이 동네는 교통이 편리해요. (I dongneneun gyotongi pyeollihaeyo.) | Bu mahallede ulaşım rahat.
+역세권 (yeoksegwon) | metroya yürüme mesafesindeki bölge | isim | 역세권 집은 비싸요. (Yeoksegwon jibeun bissayo.) | Metroya yakın evler pahalı.
+남향 (namhyang) | güneye bakan | isim | 남향 집이라서 햇볕이 잘 들어요. (Namhyang jibiraseo haetbyeochi jal deureoyo.) | Güneye bakan bir ev olduğu için çok güneş alıyor.
+평 (pyeong) | pyeong (yaklaşık 3,3 m²) | isim | 우리 집은 이십오 평이에요. (Uri jibeun isibo pyeongieyo.) | Evimiz yirmi beş pyeong.
+신축 (sinchuk) | yeni yapılmış (bina) | isim | 신축 아파트라서 깨끗해요. (Sinchuk apateuraseo kkaekkeutaeyo.) | Yeni yapılmış bir apartman olduğu için temiz.
+풀옵션 (puroption) | eşyalı (tüm beyaz eşya dahil) | isim | 풀옵션 원룸이라서 냉장고도 있어요. (Puroption wollumiraseo naengjanggodo isseoyo.) | Eşyalı stüdyo olduğu için buzdolabı da var.
+주차장 (juchajang) | otopark | isim | 주차장이 넓어서 좋아요. (Juchajangi neolbeoseo joayo.) | Otopark geniş olduğu için iyi.
+보안 (boan) | güvenlik | isim | 이 건물은 보안이 철저해요. (I geonmureun boani cheoljeohaeyo.) | Bu binanın güvenliği çok sıkı.
+전망 (jeonmang) | manzara; gelecek beklentisi | isim | 이 집은 전망이 좋아요. (I jibeun jeonmangi joayo.) | Bu evin manzarası güzel.
+## Tamir
+수리하다 (surihada) | tamir etmek, onarmak | fiil | 보일러를 수리했어요. (Boilleoreul surihaesseoyo.) | Kombiyi tamir ettirdim.
+새다 (saeda) | sızmak, akmak | fiil | 천장에서 물이 새요. (Cheonjangeseo muri saeyo.) | Tavandan su sızıyor.
+막히다 (makida) | tıkanmak; (yol) sıkışmak | fiil | 싱크대가 막혔어요. (Singkeudaega makyeosseoyo.) | Lavabo tıkandı.
+깨지다 (kkaejida) | kırılmak (cam vb.) | fiil | 창문 유리가 깨졌어요. (Changmun yuriga kkaejyeosseoyo.) | Pencere camı kırıldı.
+망가지다 (manggajida) | bozulmak, mahvolmak | fiil | 우산이 바람에 망가졌어요. (Usani barame manggajyeosseoyo.) | Şemsiye rüzgârda bozuldu.
+기사 (gisa) | teknisyen; şoför | isim | 수리 기사님이 오후에 오세요. (Suri gisanimi ohue oseyo.) | Tamirci öğleden sonra geliyor.
+공구 (gonggu) | alet (el aleti) | isim | 공구 상자가 어디 있어요? (Gonggu sangjaga eodi isseoyo?) | Alet kutusu nerede?
+망치 (mangchi) | çekiç | isim | 망치로 못을 박았어요. (Mangchiro moseul bagasseoyo.) | Çiviyi çekiçle çaktım.
+드라이버 (deuraibeo) | tornavida | isim | 드라이버 좀 빌려줄래요? (Deuraibeo jom billyeojullaeyo?) | Tornavidanı ödünç verir misin?
+배관 (baegwan) | tesisat (boru) | isim | 배관이 오래돼서 바꿔야 해요. (Baegwani oraedwaeseo bakkwoya haeyo.) | Borular eskidiği için değiştirmek gerekiyor.
+## Dekorasyon
+인테리어 (interieo) | iç dekorasyon | isim | 인테리어를 새로 했어요. (Interieoreul saero haesseoyo.) | Evin dekorasyonunu yeniledik.
+벽지 (byeokji) | duvar kâğıdı | isim | 하얀 벽지로 바꿨어요. (Hayan byeokjiro bakkwosseoyo.) | Beyaz duvar kâğıdıyla değiştirdik.
+조명 (jomyeong) | aydınlatma | isim | 조명이 따뜻한 느낌이에요. (Jomyeongi ttatteutan neukkimieyo.) | Aydınlatma sıcak bir his veriyor.
+카펫 (kapet) | halı | isim | 거실에 카펫을 깔았어요. (Geosire kapeseul kkarasseoyo.) | Salona halı serdik.
+액자 (aekja) | çerçeve (resim) | isim | 가족사진을 액자에 넣었어요. (Gajoksajineul aekjae neoeosseoyo.) | Aile fotoğrafını çerçeveye koydum.
+수납장 (sunapjang) | saklama dolabı | isim | 수납장이 있어서 방이 깔끔해요. (Sunapjangi isseoseo bangi kkalkkeumhaeyo.) | Saklama dolabı olduğu için oda derli toplu.
+신발장 (sinbaljang) | ayakkabılık | isim | 신발은 신발장에 넣어 주세요. (Sinbareun sinbaljange neoeo juseyo.) | Ayakkabıları ayakkabılığa koyun.
+장식하다 (jangsikada) | süslemek | fiil | 크리스마스트리를 장식했어요. (Keuriseumaseuteurireul jangsikaesseoyo.) | Noel ağacını süsledik.
+꾸미다 (kkumida) | düzenlemek, süslemek | fiil | 제 방을 예쁘게 꾸몄어요. (Je bangeul yeppeuge kkumyeosseoyo.) | Odamı güzelce düzenledim.
+배치하다 (baechihada) | yerleştirmek | fiil | 소파를 창문 옆에 배치했어요. (Sopareul changmun yeope baechihaesseoyo.) | Kanepeyi pencerenin yanına yerleştirdik.
+## Ev sistemleri ve aletler
+가스레인지 (gaseureinji) | gazlı ocak | isim | 가스레인지 불을 꼭 끄세요. (Gaseureinji bureul kkok kkeuseyo.) | Ocağın ateşini mutlaka kapatın.
+오븐 (obeun) | fırın | isim | 오븐에 빵을 구웠어요. (Obeune ppangeul guwosseoyo.) | Fırında ekmek pişirdim.
+식기세척기 (sikgisecheokgi) | bulaşık makinesi | isim | 식기세척기가 있어서 편해요. (Sikgisecheokgiga isseoseo pyeonhaeyo.) | Bulaşık makinesi olduğu için rahat.
+정수기 (jeongsugi) | su arıtma cihazı | isim | 정수기 물을 마셔요. (Jeongsugi mureul masyeoyo.) | Arıtma cihazının suyunu içiyorum.
+보일러 (boilleo) | kombi | isim | 추워서 보일러를 켰어요. (Chuwoseo boilleoreul kyeosseoyo.) | Soğuk olduğu için kombiyi açtım.
+난방 (nanbang) | ısıtma | isim | 이 집은 난방이 잘돼요. (I jibeun nanbangi jaldwaeyo.) | Bu evin ısıtması iyi.
+수도 (sudo) | su tesisatı, musluk suyu | isim | 수도에서 물이 안 나와요. (Sudoeseo muri an nawayo.) | Musluktan su gelmiyor.
+가스 (gaseu) | gaz (doğalgaz) | isim | 가스 냄새가 나요! (Gaseu naemsaega nayo!) | Gaz kokusu var!
+콘센트 (konsenteu) | priz | isim | 콘센트가 침대 옆에 있어요. (Konsenteuga chimdae yeope isseoyo.) | Priz yatağın yanında.
+형광등 (hyeonggwangdeung) | floresan lamba | isim | 형광등이 깜빡거려요. (Hyeonggwangdeungi kkamppakgeoryeoyo.) | Floresan lamba yanıp sönüyor.
+## Komşular
+층간 소음 (cheunggan soeum) | katlar arası gürültü | isim | 층간 소음 때문에 잠을 못 자요. (Cheunggan soeum ttaemune jameul mot jayo.) | Üst kattan gelen gürültü yüzünden uyuyamıyorum.
+인사하다 (insahada) | selamlaşmak | fiil | 엘리베이터에서 이웃과 인사해요. (Ellibeiteoeseo iutgwa insahaeyo.) | Asansörde komşularla selamlaşırım.
+경비실 (gyeongbisil) | güvenlik kulübesi (apartman) | isim | 택배는 경비실에 맡겨 주세요. (Taekbaeneun gyeongbisire matgyeo juseyo.) | Kargoyu güvenliğe bırakın lütfen.
+관리 사무소 (gwalli samuso) | site yönetim ofisi | isim | 관리 사무소에서 안내 방송을 했어요. (Gwalli samusoeseo annae bangsongeul haesseoyo.) | Site yönetimi anons yaptı.
+택배 (taekbae) | kargo paketi | isim | 택배가 문 앞에 와 있어요. (Taekbaega mun ape wa isseoyo.) | Kargo kapının önüne gelmiş.
+초인종 (choinjong) | kapı zili | isim | 누가 초인종을 눌렀어요. (Nuga choinjongeul nulleosseoyo.) | Biri kapı zilini çaldı.
+불평하다 (bulpyeonghada) | şikâyet etmek | fiil | 이웃이 소음에 대해 불평했어요. (Iusi soeume daehae bulpyeonghaesseoyo.) | Komşu gürültüden şikâyet etti.
+이사떡 (isatteok) | taşınma keki (komşulara dağıtılan) | isim | 이사 와서 이웃에게 이사떡을 돌렸어요. (Isa waseo iusege isatteogeul dollyeosseoyo.) | Taşınınca komşulara pirinç keki dağıttık.
+사이좋다 (saijota) | arası iyi olmak | sıfat | 우리 이웃들은 사이좋게 지내요. (Uri iutdeureun saijoke jinaeyo.) | Komşularımızın arası iyi.
+집들이 (jipdeuri) | ev yemeği (yeni eve taşınma daveti) | isim | 토요일에 집들이를 해요. (Toyoire jipdeurireul haeyo.) | Cumartesi yeni evimizde davet veriyoruz.
+## Evdeki sorunlar
+벌레 (beolle) | böcek, haşere | isim | 부엌에 벌레가 나왔어요. (Bueoge beollega nawasseoyo.) | Mutfakta böcek çıktı.
+곰팡이 (gompangi) | küf | isim | 욕실 벽에 곰팡이가 생겼어요. (Yoksil byeoge gompangiga saenggyeosseoyo.) | Banyo duvarında küf oluştu.
+냄새 (naemsae) | koku | isim | 맛있는 냄새가 나요. (Masinneun naemsaega nayo.) | Güzel bir koku geliyor.
+습기 (seupgi) | nem, rutubet | isim | 장마철에는 습기가 많아요. (Jangmacheoreneun seupgiga manayo.) | Yağmur mevsiminde çok nem olur.
+정전 (jeongjeon) | elektrik kesintisi | isim | 어젯밤에 정전이 됐어요. (Eojetbame jeongjeoni dwaesseoyo.) | Dün gece elektrikler kesildi.
+단수 (dansu) | su kesintisi | isim | 내일 오전에 단수가 있어요. (Naeil ojeone dansuga isseoyo.) | Yarın sabah su kesintisi var.
+소음 (soeum) | gürültü | isim | 공사 소음이 너무 심해요. (Gongsa soeumi neomu simhaeyo.) | İnşaat gürültüsü çok fazla.
+바퀴벌레 (bakwibeolle) | hamamböceği | isim | 바퀴벌레가 나와서 깜짝 놀랐어요. (Bakwibeollega nawaseo kkamjjak nollasseoyo.) | Hamamböceği çıkınca çok korktum.
+환기시키다 (hwangisikida) | havalandırmak | fiil | 요리하고 나서 환기시켜요. (Yorihago naseo hwangisikyeoyo.) | Yemek yaptıktan sonra havalandırırım.
+얼룩지다 (eollukjida) | lekelenmek | fiil | 벽이 얼룩졌어요. (Byeogi eollukjyeosseoyo.) | Duvar lekelendi.
+## Eşyaları taşımak
+짐을 싸다 (jimeul ssada) | bavul/eşya toplamak | ifade | 이사 때문에 짐을 싸고 있어요. (Isa ttaemune jimeul ssago isseoyo.) | Taşınma yüzünden eşyaları topluyorum.
+풀다 (pulda) | açmak (paket); çözmek | fiil | 이삿짐을 아직 다 못 풀었어요. (Isatjimeul ajik da mot pureosseoyo.) | Taşınma eşyalarını henüz açamadım.
+옮기다 (omgida) | taşımak, yerini değiştirmek | fiil | 책상을 창가로 옮겼어요. (Chaeksangeul changgaro omgyeosseoyo.) | Masayı pencere kenarına taşıdım.
+걸다 (geolda) | asmak; (telefon) açmak | fiil | 벽에 시계를 걸었어요. (Byeoge sigyereul georeosseoyo.) | Duvara saat astım.
+붙이다 (buchida) | yapıştırmak | fiil | 문에 메모를 붙였어요. (Mune memoreul buchyeosseoyo.) | Kapıya not yapıştırdım.
+떼다 (tteda) | sökmek, koparmak | fiil | 벽에 붙은 스티커를 뗐어요. (Byeoge buteun seutikeoreul ttesseoyo.) | Duvardaki çıkartmayı söktüm.
+채우다 (chaeuda) | doldurmak | fiil | 냉장고를 음식으로 채웠어요. (Naengjanggoreul eumsigeuro chaewosseoyo.) | Buzdolabını yiyecekle doldurdum.
+비우다 (biuda) | boşaltmak | fiil | 쓰레기통 좀 비워 주세요. (Sseuregitong jom biwo juseyo.) | Çöp kutusunu boşaltır mısın?
+쌓다 (ssata) | üst üste koymak, yığmak | fiil | 상자를 구석에 쌓았어요. (Sangjareul guseoge ssaasseoyo.) | Kutuları köşeye yığdım.
+들다 (deulda) | kaldırmak, taşımak (elde); (masraf) tutmak | fiil | 이 상자 좀 같이 들어 주세요. (I sangja jom gachi deureo juseyo.) | Bu kutuyu birlikte kaldıralım lütfen.
+## Ev ve aile hayatı
+식구 (sikgu) | hane halkı, aile fertleri | isim | 우리 집 식구는 다섯 명이에요. (Uri jip sikguneun daseot myeongieyo.) | Evimizde beş kişiyiz.
+가정 (gajeong) | aile, yuva | isim | 행복한 가정을 만들고 싶어요. (Haengbokan gajeongeul mandeulgo sipeoyo.) | Mutlu bir yuva kurmak istiyorum.
+살림 (sallim) | ev idaresi, ev işleri | isim | 혼자 살림을 하니까 힘들어요. (Honja sallimeul hanikka himdeureoyo.) | Evi tek başıma idare etmek zor.
+초대하다 (chodaehada) | davet etmek | fiil | 친구들을 집에 초대했어요. (Chingudeureul jibe chodaehaesseoyo.) | Arkadaşlarımı eve davet ettim.
+방문하다 (bangmunhada) | ziyaret etmek | fiil | 이번 주말에 할머니 댁을 방문해요. (Ibeon jumare halmeoni daegeul bangmunhaeyo.) | Bu hafta sonu büyükannemi ziyaret ediyorum.
+머물다 (meomulda) | kalmak (geçici) | fiil | 친구 집에 며칠 머물렀어요. (Chingu jibe myeochil meomulleosseoyo.) | Arkadaşımın evinde birkaç gün kaldım.
+지내다 (jinaeda) | vakit geçirmek; yaşamak | fiil | 방학을 어떻게 지냈어요? (Banghageul eotteoke jinaesseoyo?) | Tatili nasıl geçirdin?
+집안 (jiban) | evin içi; aile (soy) | isim | 집안 분위기가 따뜻해요. (Jiban bunwigiga ttatteutaeyo.) | Evin havası sıcak.
+자취 (jachwi) | tek başına yaşama (öğrenci) | isim | 대학교 때 자취를 했어요. (Daehakgyo ttae jachwireul haesseoyo.) | Üniversitedeyken tek başıma yaşadım.
+독립하다 (dongnipada) | bağımsız olmak, ayrı eve çıkmak | fiil | 서른 살에 부모님 집에서 독립했어요. (Seoreun sare bumonim jibeseo dongnipaesseoyo.) | Otuz yaşında ailemin evinden ayrıldım.
