@@ -1,0 +1,111 @@
+# UNIT: Kent hayatı ve konut | Ev bulmak, mahalle, şehir sorunları
+## Kiralık ev aramak
+房源 (fángyuán) | satılık/kiralık ev ilanı | isim | 这个网站上的房源信息很多，但不一定都是真的。 | Bu sitede çok sayıda ev ilanı var ama hepsi gerçek olmayabilir.
+户型 (hùxíng) | daire tipi, plan | isim | 这套房子户型很好，每个房间都有窗户。 | Bu dairenin planı çok iyi, her odanın penceresi var.
+两室一厅 (liǎng shì yì tīng) | iki oda bir salon | ifade | 我们租了一套两室一厅的房子。 | İki oda bir salon bir daire kiraladık.
+采光 (cǎiguāng) | gün ışığı alma | isim | 这间卧室朝南，采光特别好。 | Bu yatak odası güneye bakıyor, çok iyi ışık alıyor.
+楼层 (lóucéng) | kat | isim | 这栋楼一共有三十个楼层。 | Bu bina toplam otuz katlı.
+地段 (dìduàn) | konum, semt | isim | 这套公寓地段好，离地铁站很近。 | Bu dairenin konumu iyi, metro istasyonuna çok yakın.
+房价 (fángjià) | konut fiyatı | isim | 这几年大城市的房价涨得太快了。 | Son yıllarda büyük şehirlerde konut fiyatları çok hızlı arttı.
+租金 (zūjīn) | kira bedeli | isim | 市中心的租金比郊区贵一倍。 | Şehir merkezindeki kiralar banliyödekinin iki katı.
+租期 (zūqī) | kira süresi | isim | 我们的租期是一年，明年三月到期。 | Kira süremiz bir yıl, gelecek mart ayında doluyor.
+押一付三 (yā yī fù sān) | bir depozito, üç ay peşin kira | ifade | 这里租房一般是押一付三。 | Burada ev kiralarken genelde bir ay depozito ve üç ay peşin kira istenir.
+## Ev satın almak
+新房 (xīnfáng) | yeni ev | isim | 他们结婚前买了一套新房。 | Evlenmeden önce yeni bir ev aldılar.
+二手房 (èrshǒufáng) | ikinci el konut | isim | 二手房虽然旧一点，但是价格便宜。 | İkinci el konutlar biraz eski olsa da fiyatları ucuz.
+楼盘 (lóupán) | konut projesi | isim | 这个新楼盘明年才能交房。 | Bu yeni konut projesi ancak gelecek yıl teslim edilecek.
+开发商 (kāifāshāng) | müteahhit, geliştirici firma | isim | 开发商承诺小区里会建一所小学。 | Müteahhit sitenin içine bir ilkokul yapılacağına söz verdi.
+房产证 (fángchǎnzhèng) | tapu | isim | 买房以后要去办房产证。 | Ev aldıktan sonra tapu çıkarmak gerekir.
+过户 (guòhù) | tapu devri yapmak | fiil | 房子已经过户到他儿子名下了。 | Ev oğlunun adına devredildi.
+业主 (yèzhǔ) | ev sahibi (mülk sahibi) | isim | 小区的业主们正在开会讨论停车问题。 | Site sakinleri otopark sorununu konuşmak için toplantı yapıyor.
+交房 (jiāofáng) | evi teslim etmek | fiil | 开发商说年底以前一定交房。 | Müteahhit evlerin yıl sonundan önce mutlaka teslim edileceğini söyledi.
+精装修 (jīngzhuāngxiū) | anahtar teslim (tam dekorasyonlu) | sıfat | 这是精装修的房子，可以直接入住。 | Bu ev tam dekorasyonlu, hemen taşınılabilir.
+毛坯房 (máopīfáng) | kaba inşaat hâlindeki daire | isim | 买毛坯房的话，还要花很多钱装修。 | Kaba inşaat bir daire alırsan dekorasyona da çok para harcaman gerekir.
+## Bina ve konut türleri
+别墅 (biéshù) | villa | isim | 他们在郊区买了一栋带花园的别墅。 | Banliyöde bahçeli bir villa aldılar.
+平房 (píngfáng) | tek katlı ev | isim | 我小时候住在一个小平房里。 | Küçükken tek katlı küçük bir evde yaşardım.
+高层 (gāocéng) | yüksek katlı (bina) | sıfat | 城市里到处都是高层住宅。 | Şehirde her yer yüksek katlı konutlarla dolu.
+住宅 (zhùzhái) | konut, mesken | isim | 这一片以前是工厂，现在都是住宅。 | Burası eskiden fabrikaydı, şimdi tamamen konut.
+单元 (dānyuán) | blok, giriş (apartman) | isim | 我住在三号楼二单元五零一。 | 3 numaralı binanın 2. girişinde, 501 numarada oturuyorum.
+顶楼 (dǐnglóu) | en üst kat | isim | 住顶楼夏天会比较热。 | En üst katta oturmak yazın oldukça sıcak olur.
+地下室 (dìxiàshì) | bodrum | isim | 我们把旧家具都放在地下室了。 | Eski mobilyaların hepsini bodruma koyduk.
+走廊 (zǒuláng) | koridor | isim | 请不要把自行车放在走廊里。 | Lütfen bisikletinizi koridora bırakmayın.
+大厅 (dàtīng) | lobi, salon | isim | 我在酒店大厅等你。 | Seni otelin lobisinde bekliyorum.
+门牌号 (ménpáihào) | kapı numarası | isim | 快递员找不到你家的门牌号。 | Kurye evinin kapı numarasını bulamıyor.
+## Mahallede
+街道 (jiēdào) | sokak; mahalle idaresi | isim | 这条街道又干净又安静。 | Bu sokak hem temiz hem sakin.
+街坊 (jiēfang) | mahalleli, komşular | isim | 老街坊们每天下午在树下下棋。 | Mahallenin eski sakinleri her öğleden sonra ağacın altında satranç oynuyor.
+周边 (zhōubiān) | çevre, civar | isim | 小区周边有超市、医院和学校。 | Sitenin çevresinde süpermarket, hastane ve okul var.
+配套 (pèitào) | tamamlayıcı tesisler | isim | 这个新区的生活配套还不太完善。 | Bu yeni bölgenin yaşam tesisleri henüz tam değil.
+绿地 (lǜdì) | yeşil alan | isim | 小区里的绿地面积很大，适合孩子玩。 | Sitedeki yeşil alan çok geniş, çocukların oynaması için uygun.
+快递柜 (kuàidìguì) | kargo dolabı | isim | 你的包裹放在楼下的快递柜里了。 | Paketin aşağıdaki kargo dolabına bırakıldı.
+小卖部 (xiǎomàibù) | bakkal, büfe | isim | 学校旁边的小卖部卖很多零食。 | Okulun yanındaki büfe bir sürü atıştırmalık satıyor.
+居委会 (jūwěihuì) | mahalle komitesi | isim | 有什么问题可以去找居委会帮忙。 | Bir sorun olursa mahalle komitesinden yardım isteyebilirsin.
+健身器材 (jiànshēn qìcái) | spor aletleri | isim | 公园里有很多免费的健身器材。 | Parkta çok sayıda ücretsiz spor aleti var.
+路灯 (lùdēng) | sokak lambası | isim | 这条路晚上没有路灯，很不安全。 | Bu yolda geceleri sokak lambası yok, hiç güvenli değil.
+## Şehir sorunları
+拥堵 (yōngdǔ) | (trafik) tıkanıklığı | sıfat | 上下班时间，这条路特别拥堵。 | İşe gidiş-dönüş saatlerinde bu yol çok tıkalı olur.
+高峰 (gāofēng) | yoğun saat, zirve | isim | 早高峰的时候，地铁里人挤人。 | Sabah yoğun saatte metroda insanlar üst üste.
+停车位 (tíngchēwèi) | park yeri | isim | 在市中心找停车位非常难。 | Şehir merkezinde park yeri bulmak çok zor.
+路况 (lùkuàng) | yol durumu | isim | 出发前先看看路况，别走堵车的路。 | Yola çıkmadan önce yol durumuna bak, trafiğin sıkışık olduğu yoldan gitme.
+违章 (wéizhāng) | kural ihlali yapmak | fiil | 在这里违章停车会被罚款。 | Buraya kurallara aykırı park edenler ceza alır.
+拆迁 (chāiqiān) | yıkıp yeniden yerleştirmek (kentsel dönüşüm) | fiil | 这片老房子明年要拆迁了。 | Bu eski evler gelecek yıl kentsel dönüşüm için yıkılacak.
+流浪 (liúlàng) | evsiz dolaşmak, başıboş olmak | fiil | 很多人自愿照顾流浪的小猫小狗。 | Pek çok kişi sokak kedileri ve köpekleriyle gönüllü olarak ilgileniyor.
+犯罪 (fànzuì) | suç işlemek; suç | fiil | 这个地区的犯罪事件越来越少了。 | Bu bölgedeki suç olayları giderek azalıyor.
+人口密度 (rénkǒu mìdù) | nüfus yoğunluğu | isim | 香港的人口密度非常高。 | Hong Kong'un nüfus yoğunluğu çok yüksek.
+城中村 (chéngzhōngcūn) | şehir içindeki köy (gecekondu bölgesi) | isim | 很多刚来的年轻人住在城中村，因为房租便宜。 | Yeni gelen pek çok genç kiralar ucuz olduğu için şehir içindeki eski köy mahallelerinde yaşıyor.
+## Şehir planlaması
+基础设施 (jīchǔ shèshī) | altyapı | isim | 政府投入大量资金改善农村的基础设施。 | Hükümet kırsal altyapıyı iyileştirmek için büyük kaynak ayırdı.
+规划 (guīhuà) | planlama; planlamak | isim | 这座城市的规划很合理。 | Bu şehrin planlaması çok makul.
+建设 (jiànshè) | inşa etmek, kurmak | fiil | 这里正在建设一座新的体育馆。 | Burada yeni bir spor salonu inşa ediliyor.
+施工 (shīgōng) | inşaat yapmak | fiil | 前方道路施工，请绕行。 | İleride yol çalışması var, lütfen başka yoldan gidin.
+工地 (gōngdì) | şantiye | isim | 工地上的工人每天早上七点开始干活。 | Şantiyedeki işçiler her sabah yedide işe başlıyor.
+修建 (xiūjiàn) | yapmak, inşa etmek (yol, köprü) | fiil | 这座大桥修建了三年。 | Bu köprünün yapımı üç yıl sürdü.
+拆 (chāi) | sökmek, yıkmak | fiil | 那栋老楼上个月被拆了。 | O eski bina geçen ay yıkıldı.
+扩建 (kuòjiàn) | genişletmek (yapı) | fiil | 机场明年要扩建，增加一个航站楼。 | Havalimanı gelecek yıl genişletilecek, bir terminal daha eklenecek.
+下水道 (xiàshuǐdào) | kanalizasyon | isim | 下大雨的时候，下水道常常被堵住。 | Şiddetli yağmurda kanalizasyon sık sık tıkanıyor.
+人行道 (rénxíngdào) | kaldırım | isim | 汽车不能停在人行道上。 | Arabalar kaldırıma park edemez.
+## Ev hizmetleri ve güvenlik
+燃气费 (ránqìfèi) | doğalgaz faturası | isim | 冬天的燃气费比夏天高很多。 | Kışın doğalgaz faturası yazınkinden çok daha yüksek.
+物业费 (wùyèfèi) | aidat | isim | 我们小区的物业费每个月三百块。 | Sitemizin aidatı aylık üç yüz yuan.
+宽带 (kuāndài) | geniş bant internet | isim | 搬家以后我得重新装宽带。 | Taşındıktan sonra interneti yeniden bağlatmam gerekiyor.
+保洁 (bǎojié) | temizlik (hizmeti); temizlikçi | isim | 我每周请保洁阿姨来打扫一次。 | Haftada bir temizlikçi kadın çağırıp evi temizletiyorum.
+搬家公司 (bānjiā gōngsī) | nakliyat firması | isim | 我们找了一家搬家公司帮忙搬东西。 | Eşyaları taşımak için bir nakliyat firması tuttuk.
+维修工 (wéixiūgōng) | tamirci | isim | 空调坏了，我已经打电话叫维修工了。 | Klima bozuldu, tamirciyi aradım bile.
+抄表 (chāobiǎo) | sayaç okumak | fiil | 每个月都有人来抄表。 | Her ay biri gelip sayaçları okuyor.
+门禁 (ménjìn) | giriş kontrol sistemi | isim | 没有门禁卡就进不了小区。 | Giriş kartı olmadan siteye girilemiyor.
+防盗门 (fángdàomén) | çelik kapı | isim | 为了安全，我们家换了一个新的防盗门。 | Güvenlik için evimize yeni bir çelik kapı taktırdık.
+楼道 (lóudào) | merdiven boşluğu, bina koridoru | isim | 楼道里的灯坏了，晚上很黑。 | Merdiven boşluğunun lambası bozuk, geceleri çok karanlık.
+## Şehirde yaşamak
+都市 (dūshì) | metropol, büyük şehir | isim | 很多年轻人喜欢大都市的生活。 | Pek çok genç büyük şehir hayatını sever.
+城镇 (chéngzhèn) | kasaba ve şehirler | isim | 越来越多的农民搬到了城镇。 | Giderek daha fazla çiftçi kasaba ve şehirlere taşındı.
+郊外 (jiāowài) | şehir dışı, kır | isim | 周末我们开车去郊外呼吸新鲜空气。 | Hafta sonu temiz hava almak için arabayla şehir dışına çıktık.
+乡村 (xiāngcūn) | kırsal kesim, köy | isim | 退休以后，他想回乡村生活。 | Emekli olduktan sonra kırsala dönüp yaşamak istiyor.
+进城 (jìnchéng) | şehre gitmek | fiil | 奶奶每个月进城看一次病。 | Babaannem ayda bir doktora görünmek için şehre iner.
+定居 (dìngjū) | yerleşmek | fiil | 他大学毕业后在上海定居了。 | Üniversiteden mezun olduktan sonra Şanghay'a yerleşti.
+落户 (luòhù) | ikamet kaydı yaptırmak, yerleşmek | fiil | 在大城市落户并不容易。 | Büyük şehirde ikamet kaydı yaptırmak hiç kolay değil.
+户口 (hùkǒu) | nüfus/ikamet kaydı | isim | 他的户口还在老家。 | İkamet kaydı hâlâ memleketinde.
+北漂 (běipiāo) | Pekin'e çalışmaya gelen göçmen | isim | 他在北京当了五年北漂，最后回老家了。 | Pekin'de beş yıl gurbetçi olarak çalıştı, sonunda memleketine döndü.
+打工 (dǎgōng) | ücretli çalışmak (gurbette) | fiil | 他十八岁就去南方打工了。 | On sekiz yaşında çalışmak için güneye gitti.
+## Komşuluk
+邻里 (línlǐ) | komşuluk, komşular | isim | 这个小区的邻里关系特别好。 | Bu sitedeki komşuluk ilişkileri çok iyi.
+和睦 (hémù) | uyumlu, huzurlu (ilişki) | sıfat | 他们一家人生活得非常和睦。 | Aile olarak çok huzurlu yaşıyorlar.
+串门 (chuànmén) | komşuya oturmaya gitmek | fiil | 以前大家常常互相串门，现在很少了。 | Eskiden herkes birbirine sık sık oturmaya giderdi, şimdi pek az.
+纠纷 (jiūfēn) | anlaşmazlık, ihtilaf | isim | 他们因为停车位发生了纠纷。 | Park yeri yüzünden aralarında anlaşmazlık çıktı.
+业主群 (yèzhǔqún) | site sakinleri grubu (mesajlaşma) | isim | 停水的通知已经发到业主群里了。 | Su kesintisi duyurusu site sakinleri grubuna gönderildi.
+互助 (hùzhù) | yardımlaşmak | fiil | 邻居之间应该互相帮助，互助互爱。 | Komşular birbirine yardım etmeli, yardımlaşıp birbirini sevmeli.
+照应 (zhàoying) | göz kulak olmak | fiil | 我出差的时候，邻居会帮我照应一下家里。 | İş seyahatindeyken komşum evime göz kulak oluyor.
+远亲不如近邻 (yuǎnqīn bùrú jìnlín) | yakın komşu uzak akrabadan iyidir | atasözü | 远亲不如近邻，有事还是邻居帮得上忙。 | Yakın komşu uzak akrabadan iyidir; bir şey olunca yardıma yine komşular yetişir.
+隔音 (géyīn) | ses yalıtımı | isim | 这栋楼的隔音不好，能听到邻居说话。 | Bu binanın ses yalıtımı kötü, komşuların konuşması duyuluyor.
+和气 (héqi) | güler yüzlü, nazik | sıfat | 楼下的大爷对人很和气，见面总是笑着打招呼。 | Alt kattaki amca herkese karşı çok güler yüzlü, karşılaşınca hep gülümseyerek selam verir.
+## Evlerin nitelikleri
+老旧 (lǎojiù) | eski, köhne | sıfat | 政府正在改造这些老旧小区。 | Hükümet bu eski siteleri yeniliyor.
+简陋 (jiǎnlòu) | basit, derme çatma | sıfat | 他们住的房子很简陋，只有一张床和一张桌子。 | Oturdukları ev çok basit, sadece bir yatak ve bir masa var.
+狭小 (xiáxiǎo) | dar, küçük | sıfat | 这个房间太狭小了，放不下两张床。 | Bu oda çok dar, iki yatak sığmıyor.
+便利 (biànlì) | elverişli, kullanışlı | sıfat | 这里交通便利，买东西也很方便。 | Burada ulaşım elverişli, alışveriş de çok kolay.
+偏远 (piānyuǎn) | uzak, ücra | sıfat | 他在一个偏远的山村当老师。 | Ücra bir dağ köyünde öğretmenlik yapıyor.
+嘈杂 (cáozá) | gürültülü | sıfat | 我住在马路边，环境很嘈杂。 | Ana caddenin kenarında oturuyorum, çevre çok gürültülü.
+通风 (tōngfēng) | havalandırmak, havadar | fiil | 每天早上开窗通风半小时。 | Her sabah pencereyi açıp yarım saat havalandırırım.
+阴暗 (yīn'àn) | karanlık ve kasvetli | sıfat | 地下室又阴暗又潮湿。 | Bodrum hem karanlık hem rutubetli.
+现代化 (xiàndàihuà) | modern, modernleşme | sıfat | 这是一座非常现代化的城市。 | Burası çok modern bir şehir.
+宜居 (yíjū) | yaşanabilir | sıfat | 这座城市被评为最宜居的城市之一。 | Bu şehir en yaşanabilir şehirlerden biri seçildi.
