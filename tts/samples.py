@@ -114,6 +114,7 @@ def main():
         try:
             if eng not in loaded:
                 cfg = dict(CFG[c], engine=eng.replace("kokoro11", "kokoro"))
+                cfg.pop("model", None)
                 if eng == "kokoro11":
                     cfg["model"] = "v1.1-zh"
                 if eng == "supertonic":
