@@ -1,0 +1,111 @@
+# UNIT: Söylem bağlayıcıları | İleri bağlaçlar, açıklama, yapı ve görüş belirteçleri
+## Ekleme
+de surcroît | üstelik, buna ek olarak | ifade | Le projet est coûteux et, de surcroît, techniquement très risqué. | Proje pahalı ve üstelik teknik açıdan çok riskli.
+qui plus est | dahası, üstelik | ifade | Elle parle quatre langues et, qui plus est, elle les écrit parfaitement. | Dört dil konuşuyor, dahası hepsini kusursuz yazıyor.
+au demeurant | zaten, bununla birlikte | ifade | Cette proposition, au demeurant fort intéressante, arrive trop tard. | Zaten oldukça ilginç olan bu öneri çok geç geliyor.
+en sus | ayrıca, fazladan | ifade | Les frais de livraison sont facturés en sus du prix indiqué. | Teslimat ücreti belirtilen fiyata ek olarak faturalandırılıyor.
+voire | hatta | zarf | Cette réforme prendra des mois, voire des années, avant de porter ses fruits. | Bu reform meyvesini vermeden önce aylar, hatta yıllar sürecek.
+sans compter que | üstelik, bir de … olduğunu hesaba katmazsak | ifade | Le trajet est long, sans compter que les trains sont souvent en retard. | Yolculuk uzun, üstelik trenler de sık sık rötar yapıyor.
+à cela s'ajoute | buna bir de … ekleniyor | ifade | Le chômage augmente ; à cela s'ajoute une forte hausse des prix. | İşsizlik artıyor; buna bir de fiyatlardaki güçlü artış ekleniyor.
+de même | aynı şekilde | ifade | Les élèves doivent respecter le règlement ; de même, les professeurs. | Öğrenciler yönetmeliğe uymalı; aynı şekilde öğretmenler de.
+pareillement | aynı biçimde | zarf | Bonne soirée à vous ! Merci, et à vous pareillement. | Size iyi akşamlar! Teşekkürler, size de aynı şekilde.
+ajoutons que | şunu da ekleyelim ki | ifade | Le logement est vaste ; ajoutons que le loyer reste très raisonnable pour le quartier. | Konut geniş; şunu da ekleyelim ki kira semte göre oldukça makul.
+## Karşıtlık
+or | oysa, ne var ki | bağlaç | Il prétend avoir été chez lui ; or, un témoin l'a vu au café. | Evde olduğunu iddia ediyor; oysa bir tanık onu kahvede görmüş.
+pour autant | yine de, bununla birlikte | ifade | Il a beaucoup travaillé sans pour autant obtenir de promotion. | Çok çalıştı, yine de terfi alamadı.
+il n'en demeure pas moins que | yine de şu bir gerçek ki | ifade | Les chiffres s'améliorent ; il n'en demeure pas moins que la situation reste fragile. | Rakamlar iyileşiyor; yine de durumun kırılgan olduğu bir gerçek.
+a contrario | aksine, tersinden | zarf | A contrario, une politique trop restrictive freinerait l'innovation. | Aksine, fazla kısıtlayıcı bir politika yeniliği frenlerdi.
+à l'inverse | tersine | ifade | Les villes se densifient ; à l'inverse, les campagnes se vident. | Şehirler yoğunlaşıyor; tersine kırsal kesimler boşalıyor.
+en contrepartie | karşılığında | ifade | L'entreprise offre un bon salaire ; en contrepartie, elle exige une grande disponibilité. | Şirket iyi bir maaş veriyor; karşılığında büyük bir esneklik istiyor.
+alors même que | tam da … iken | ifade | Il a démissionné alors même qu'on allait lui proposer une promotion. | Tam ona terfi önerilecekken istifa etti.
+quoique | -sa da, -diği hâlde | bağlaç | Quoique fatiguée, elle a tenu à terminer son rapport le soir même. | Yorgun olsa da raporunu aynı akşam bitirmekte ısrar etti.
+si … soit-il | ne kadar … olursa olsun | ifade | Si talentueux soit-il, il ne pourra pas réussir sans travailler. | Ne kadar yetenekli olursa olsun, çalışmadan başarılı olamaz.
+à l'opposé | buna karşın, öte yandan | ifade | À l'opposé, ses collègues défendent une approche beaucoup plus prudente. | Buna karşın meslektaşları çok daha temkinli bir yaklaşımı savunuyor.
+## Ödün
+certes | elbette, kuşkusuz (… ama) | zarf | Certes, le prix est élevé, mais la qualité est exceptionnelle. | Kuşkusuz fiyat yüksek, ama kalite olağanüstü.
+encore que | gerçi, -se de | bağlaç | Le spectacle était réussi, encore que la fin m'ait un peu déçu. | Gösteri başarılıydı, gerçi sonu beni biraz hayal kırıklığına uğrattı.
+quand bien même | -se bile | bağlaç | Quand bien même il s'excuserait, je ne lui ferais plus confiance. | Özür dilese bile artık ona güvenmem.
+si tant est que | eğer gerçekten … ise | ifade | Nous partirons à l'aube, si tant est que le temps le permette. | Hava gerçekten izin verirse şafakta yola çıkacağız.
+sans pour autant | ama yine de … -meden | ifade | On peut critiquer le projet sans pour autant rejeter toutes ses idées. | Bütün fikirlerini reddetmeden de proje eleştirilebilir.
+toujours est-il que | her ne olursa olsun, şu kesin ki | ifade | Je ne sais pas qui a raison ; toujours est-il que le travail n'est pas fait. | Kimin haklı olduğunu bilmiyorum; şu kesin ki iş yapılmamış.
+il est vrai que | doğrudur ki | ifade | Il est vrai que les débuts ont été difficiles, mais tout va mieux. | Başlangıcın zor olduğu doğru, ama her şey daha iyi gidiyor.
+admettons que | diyelim ki, kabul edelim ki | ifade | Admettons que vous ayez raison : que proposez-vous concrètement ? | Diyelim ki haklısınız: somut olarak ne öneriyorsunuz?
+quitte à | -mek pahasına da olsa | ifade | Je préfère dire la vérité, quitte à le décevoir. | Onu hayal kırıklığına uğratmak pahasına da olsa gerçeği söylemeyi tercih ederim.
+tout … que | ne kadar … olsa da | ifade | Tout ministre qu'il est, il doit respecter la loi comme chacun. | Bakan da olsa herkes gibi yasaya uymak zorunda.
+## Neden
+dans la mesure où | -diği ölçüde, -diği için | ifade | Dans la mesure où le budget est limité, il faut faire des choix. | Bütçe sınırlı olduğundan seçim yapmak gerekiyor.
+de par | gereği, nedeniyle (resmî) | edat | De par sa position géographique, la ville a toujours été un carrefour commercial. | Coğrafi konumu nedeniyle şehir her zaman bir ticaret kavşağı oldu.
+compte tenu de | göz önüne alındığında | edat | Compte tenu des circonstances, la cérémonie est reportée. | Koşullar göz önüne alındığında tören ertelendi.
+à la faveur de | -den yararlanarak, sayesinde | edat | Les prisonniers se sont évadés à la faveur de la nuit. | Mahkûmlar gecenin karanlığından yararlanarak kaçtı.
+sous l'effet de | etkisiyle | edat | Sous l'effet de la chaleur, les rails se sont déformés. | Sıcaklığın etkisiyle raylar eğrildi.
+imputable à | -e yüklenebilir, -den kaynaklanan | sıfat | Selon les experts, le retard du chantier est entièrement imputable au fournisseur. | Uzmanlara göre şantiyedeki gecikme tamamen tedarikçiden kaynaklanıyor.
+étant entendu que | şu anlaşılarak ki | ifade | Vous pouvez partir plus tôt, étant entendu que le travail sera terminé. | İşin bitirileceği anlaşılarak daha erken çıkabilirsiniz.
+par voie de conséquence | dolayısıyla, bunun sonucunda | ifade | Les exportations ont chuté et, par voie de conséquence, l'emploi industriel a reculé. | İhracat düştü ve bunun sonucunda sanayi istihdamı geriledi.
+du moment que | madem ki, -dikçe | ifade | Du moment que tu es heureux, le reste n'a pas d'importance. | Sen mutlu olduğun sürece gerisinin önemi yok.
+en raison même de | tam da … nedeniyle | ifade | Le projet a échoué en raison même de son ambition excessive. | Proje tam da aşırı iddiası nedeniyle başarısız oldu.
+## Sonuç
+dès lors | bu durumda, o andan itibaren | zarf | Les preuves sont accablantes ; dès lors, sa culpabilité ne fait aucun doute. | Kanıtlar ezici; bu durumda suçluluğu hiç kuşku götürmüyor.
+partant | dolayısıyla (edebî) | zarf | Il avait perdu toute sa fortune, partant tous ses amis de jadis. | Bütün servetini yitirmişti, dolayısıyla eski dostlarının hepsini de.
+de ce fait | bu nedenle | ifade | La route est fermée ; de ce fait, il faut faire un détour par le village. | Yol kapalı; bu nedenle köyden dolaşmak gerekiyor.
+aussi a-t-il | bu yüzden (o) … (devrik yapı) | ifade | Il était gravement malade ; aussi a-t-il décidé de rester chez lui. | Ağır hastaydı; bu yüzden evde kalmaya karar verdi.
+il s'ensuit que | bundan … sonucu çıkar | ifade | Les deux angles sont égaux ; il s'ensuit que le triangle est isocèle. | İki açı eşit; bundan üçgenin ikizkenar olduğu sonucu çıkar.
+à telle enseigne que | o derece ki | ifade | Il était épuisé, à telle enseigne qu'il s'est endormi en pleine réunion. | O derece bitkindi ki toplantının ortasında uyuyakaldı.
+de là | buradan, işte bu yüzden | ifade | Il a grandi au bord de la mer ; de là son amour pour la voile. | Deniz kenarında büyüdü; yelkene olan sevgisi de buradan geliyor.
+en définitive | sonuçta, nihayetinde | ifade | En définitive, le comité a choisi la solution la moins coûteuse. | Sonuçta kurul en az maliyetli çözümü seçti.
+somme toute | sonuç olarak, her şey hesaba katıldığında | ifade | Somme toute, ce voyage s'est plutôt bien passé malgré la pluie. | Her şey hesaba katıldığında, yağmura rağmen bu yolculuk oldukça iyi geçti.
+il en résulte que | bunun sonucu olarak | ifade | La demande a chuté ; il en résulte que les prix ont baissé. | Talep düştü; bunun sonucu olarak fiyatlar geriledi.
+## Açıklama ve örnek
+à savoir | yani, şöyle ki | ifade | Trois pays ont voté contre, à savoir la France, la Belgique et le Luxembourg. | Üç ülke, yani Fransa, Belçika ve Lüksemburg karşı oy kullandı.
+en l'occurrence | bu durumda, söz konusu olayda | ifade | Le responsable, en l'occurrence le directeur, devra rendre des comptes. | Sorumlu, bu durumda müdür, hesap vermek zorunda kalacak.
+entre autres | diğerlerinin yanı sıra | ifade | Le festival accueille, entre autres, des artistes sénégalais et haïtiens. | Festival, diğerlerinin yanı sıra, Senegalli ve Haitili sanatçıları ağırlıyor.
+pour ainsi dire | adeta, deyim yerindeyse | ifade | Il n'a pour ainsi dire rien mangé depuis trois jours. | Üç gündür adeta hiçbir şey yemedi.
+soit | yani, başka bir deyişle | bağlaç | Le voyage coûte mille euros, soit environ deux mois de loyer. | Yolculuk bin avro tutuyor, yani yaklaşık iki aylık kira.
+à titre d'exemple | örnek olarak | ifade | À titre d'exemple, la ville a planté dix mille arbres en un an. | Örnek olarak, şehir bir yılda on bin ağaç dikti.
+pour le dire autrement | başka türlü söylemek gerekirse | ifade | Pour le dire autrement, le projet est abandonné jusqu'à nouvel ordre. | Başka türlü söylemek gerekirse, proje yeni bir karara kadar rafa kaldırıldı.
+c'est le cas de | … için de geçerlidir | ifade | Plusieurs espèces sont menacées ; c'est le cas de l'ours des Pyrénées. | Birkaç tür tehdit altında; Pirene ayısı için de durum böyle.
+notons que | belirtelim ki | ifade | Notons que cette méthode avait déjà été testée sans succès en 1990. | Belirtelim ki bu yöntem 1990'da da başarısız biçimde denenmişti.
+à cet effet | bu amaçla | ifade | Un formulaire a été créé à cet effet sur le site de la mairie. | Belediyenin sitesinde bu amaçla bir form oluşturuldu.
+## Metin yapısı
+d'une part | bir yandan | ifade | D'une part, il faut réduire les coûts ; d'autre part, il faut investir. | Bir yandan maliyetleri düşürmek, öte yandan yatırım yapmak gerekiyor.
+d'autre part | öte yandan; ayrıca | ifade | Le projet est trop cher ; d'autre part, il arrive trop tard. | Proje çok pahalı; ayrıca çok geç geliyor.
+en dernier lieu | son olarak | ifade | En dernier lieu, nous évoquerons les perspectives d'avenir du secteur. | Son olarak sektörün gelecek beklentilerine değineceğiz.
+dans un premier temps | ilk aşamada | ifade | Dans un premier temps, nous analyserons les causes de la crise. | İlk aşamada krizin nedenlerini çözümleyeceğiz.
+dans un second temps | ikinci aşamada | ifade | Dans un second temps, nous proposerons des solutions concrètes. | İkinci aşamada somut çözümler önereceğiz.
+par la suite | daha sonra | ifade | Il a d'abord été professeur, puis il est devenu écrivain par la suite. | Önce öğretmen oldu, daha sonra da yazar.
+en somme | kısacası, özetle | ifade | En somme, le bilan de l'année est plutôt positif. | Özetle, yılın bilançosu oldukça olumlu.
+pour conclure | sonuç olarak, toparlarsak | ifade | Pour conclure, je remercie chaleureusement tous les participants. | Toparlarsak, tüm katılımcılara içtenlikle teşekkür ederim.
+tout compte fait | her şey göz önüne alındığında | ifade | Tout compte fait, je préfère rester ici plutôt que de déménager. | Her şey göz önüne alındığında taşınmaktansa burada kalmayı tercih ederim.
+venons-en à | gelelim … konusuna | ifade | Venons-en maintenant à la question essentielle : le financement. | Şimdi asıl konuya, finansmana gelelim.
+## Görüş belirteçleri
+à mon sens | bence, kanımca | ifade | À mon sens, cette décision est prématurée et mal préparée. | Kanımca bu karar erken alınmış ve iyi hazırlanmamış.
+selon toute vraisemblance | büyük olasılıkla | ifade | Selon toute vraisemblance, le suspect a quitté le pays la veille. | Büyük olasılıkla şüpheli bir gün önce ülkeyi terk etti.
+à n'en pas douter | hiç kuşkusuz | ifade | Ce roman sera, à n'en pas douter, l'un des succès de l'automne. | Bu roman hiç kuşkusuz sonbaharın başarılarından biri olacak.
+de toute évidence | apaçık ki | ifade | De toute évidence, personne n'avait lu le rapport avant la réunion. | Apaçık ki toplantıdan önce kimse raporu okumamıştı.
+il va sans dire que | söylemeye gerek yok ki | ifade | Il va sans dire que vos frais de déplacement seront remboursés. | Söylemeye gerek yok ki yol masraflarınız ödenecek.
+à vrai dire | açıkçası, doğrusu | ifade | À vrai dire, je ne m'attendais pas à un tel succès. | Doğrusu böyle bir başarı beklemiyordum.
+à proprement parler | tam anlamıyla | ifade | Ce n'est pas, à proprement parler, une erreur, mais une maladresse. | Bu tam anlamıyla bir hata değil, bir beceriksizlik.
+sans conteste | tartışmasız | ifade | Elle est sans conteste la meilleure joueuse de sa génération. | Tartışmasız kuşağının en iyi oyuncusu.
+à l'évidence | açıkça, belli ki | ifade | À l'évidence, le gouvernement a sous-estimé l'ampleur du problème. | Belli ki hükümet sorunun boyutunu küçümsedi.
+qu'on le veuille ou non | istesek de istemesek de | ifade | Qu'on le veuille ou non, le numérique transforme tous les métiers. | İstesek de istemesek de dijitalleşme bütün meslekleri dönüştürüyor.
+## Konu ve bağlam
+quant à | -e gelince | edat | Quant à moi, je préfère ne pas me prononcer sur ce sujet. | Bana gelince, bu konuda görüş bildirmemeyi tercih ederim.
+s'agissant de | söz konusu … olunca | edat | S'agissant de la sécurité, aucun compromis n'est acceptable. | Söz konusu güvenlik olunca hiçbir uzlaşma kabul edilemez.
+pour ce qui est de | … konusuna gelince | ifade | Pour ce qui est du budget, nous en discuterons la semaine prochaine. | Bütçe konusuna gelince, onu gelecek hafta konuşacağız.
+au regard de | açısından, karşısında | edat | Au regard de la loi, ce contrat n'a aucune valeur. | Yasa açısından bu sözleşmenin hiçbir değeri yok.
+sur le plan de | … bakımından | ifade | Sur le plan de la santé publique, cette mesure est indispensable. | Halk sağlığı bakımından bu önlem vazgeçilmez.
+en matière de | … alanında, … konusunda | edat | En matière d'éducation, la région est en avance sur le reste du pays. | Eğitim alanında bölge ülkenin geri kalanından ileride.
+à l'égard de | -e karşı, … hakkında | edat | Il s'est montré très injuste à l'égard de ses collaborateurs. | Çalışma arkadaşlarına karşı çok haksız davrandı.
+vis-à-vis de | -e karşı, -e göre | edat | Elle se sent responsable vis-à-vis de ses jeunes collègues. | Genç meslektaşlarına karşı kendini sorumlu hissediyor.
+en ce sens | bu anlamda | ifade | En ce sens, la crise a aussi été une occasion de se réinventer. | Bu anlamda kriz aynı zamanda kendini yeniden icat etmek için bir fırsat oldu.
+à ce titre | bu sıfatla, bu bakımdan | ifade | Elle préside l'association et, à ce titre, signe tous les contrats. | Derneğin başkanı ve bu sıfatla bütün sözleşmeleri imzalıyor.
+## Koşul ve zaman
+pour peu que | yeter ki, azıcık … -se | ifade | Pour peu qu'il fasse beau, la terrasse sera pleine à midi. | Hava azıcık güzel olsa teras öğlen dolu olur.
+dès lors que | -dığı andan itibaren, mademki | ifade | Dès lors que le contrat est signé, il engage les deux parties. | Sözleşme imzalandığı andan itibaren iki tarafı bağlar.
+sitôt que | -er -mez | bağlaç | Sitôt que la nouvelle fut connue, la foule envahit les rues. | Haber duyulur duyulmaz kalabalık sokakları doldurdu.
+à mesure que | -dikçe | bağlaç | À mesure que la nuit tombait, le froid devenait plus vif. | Gece çöktükçe soğuk daha da keskinleşiyordu.
+au fur et à mesure | yavaş yavaş, -dikçe | ifade | Je range les dossiers au fur et à mesure que je les traite. | Dosyaları işledikçe yerlerine kaldırıyorum.
+faute de quoi | aksi takdirde | ifade | Payez avant le dix, faute de quoi des pénalités seront appliquées. | Ayın onundan önce ödeyin, aksi takdirde cezalar uygulanacak.
+moyennant | karşılığında, … ile | edat | Moyennant un petit supplément, vous pouvez choisir votre siège. | Küçük bir ek ücret karşılığında koltuğunuzu seçebilirsiniz.
+sous réserve que | -mek koşuluyla | ifade | Le prêt sera accordé sous réserve que vous fournissiez une garantie. | Kredi bir teminat sunmanız koşuluyla verilecek.
+dans l'éventualité où | olası … durumunda | ifade | Dans l'éventualité où le vol serait annulé, vous seriez remboursé. | Olası bir uçuş iptali durumunda paranız iade edilir.
+à peine … que | henüz … ki | ifade | À peine était-il sorti qu'il s'est mis à pleuvoir à verse. | Henüz dışarı çıkmıştı ki bardaktan boşanırcasına yağmur başladı.
