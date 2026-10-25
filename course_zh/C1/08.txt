@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve çizimler
+图纸 (túzhǐ) | çizim, proje paftası | isim | 施工前，所有图纸都要经过审查。 | İnşaata başlamadan önce tüm çizimlerin incelemeden geçmesi gerekir.
+施工图 (shīgōngtú) | uygulama projesi | isim | 设计院下周才能提交全部施工图。 | Tasarım bürosu tüm uygulama projelerini ancak gelecek hafta teslim edebilecek.
+效果图 (xiàoguǒtú) | görselleştirme, render | isim | 从效果图上看，这栋楼的外立面很漂亮。 | Görselleştirmeye bakılırsa bu binanın dış cephesi çok güzel.
+平面图 (píngmiàntú) | kat planı | isim | 请把三层的平面图打印出来给我。 | Üçüncü katın planını yazdırıp bana verir misin?
+剖面图 (pōumiàntú) | kesit çizimi | isim | 从剖面图可以清楚地看到楼梯的结构。 | Kesit çiziminde merdivenin yapısı açıkça görülüyor.
+立面图 (lìmiàntú) | görünüş çizimi (cephe) | isim | 南立面图上的窗户尺寸标错了。 | Güney görünüş çizimindeki pencere ölçüleri yanlış yazılmış.
+比例尺 (bǐlìchǐ) | ölçek | isim | 这张总平面图的比例尺是一比五百。 | Bu vaziyet planının ölçeği bire beş yüz.
+招标 (zhāobiāo) | ihaleye çıkmak | fiil | 这个项目将在下个月公开招标。 | Bu proje gelecek ay açık ihaleye çıkacak.
+投标 (tóubiāo) | ihaleye teklif vermek | fiil | 共有七家公司参加了这次投标。 | Bu ihaleye toplam yedi firma teklif verdi.
+工程造价 (gōngchéng zàojià) | yapım maliyeti, keşif bedeli | isim | 由于钢材涨价，工程造价比预算高出了不少。 | Çelik fiyatlarının artması yüzünden yapım maliyeti bütçeyi epey aştı.
+## Taşıyıcı sistem
+承重墙 (chéngzhòngqiáng) | taşıyıcı duvar | isim | 承重墙绝对不能随便拆除。 | Taşıyıcı duvar asla gelişigüzel yıkılamaz.
+梁 (liáng) | kiriş | isim | 这根梁出现了明显的裂缝，需要加固。 | Bu kirişte belirgin bir çatlak oluştu, güçlendirilmesi gerekiyor.
+柱 (zhù) | kolon, sütun | isim | 大厅中间的两根柱影响了空间布局。 | Salonun ortasındaki iki kolon mekân düzenini olumsuz etkiliyor.
+楼板 (lóubǎn) | döşeme (kat) | isim | 楼板的厚度设计为一百二十毫米。 | Döşeme kalınlığı yüz yirmi milimetre olarak tasarlandı.
+剪力墙 (jiǎnlìqiáng) | perde duvar | isim | 高层住宅大多采用剪力墙结构。 | Yüksek konut binalarının çoğunda perde duvarlı sistem kullanılır.
+框架结构 (kuàngjià jiégòu) | çerçeve (karkas) sistem | isim | 这栋教学楼是钢筋混凝土框架结构。 | Bu derslik binası betonarme çerçeve sistemle yapılmış.
+钢结构 (gāngjiégòu) | çelik yapı | isim | 体育馆的屋顶采用了大跨度钢结构。 | Spor salonunun çatısında geniş açıklıklı çelik yapı kullanıldı.
+荷载 (hèzài) | yük (yapısal) | isim | 设计时必须考虑风荷载和雪荷载。 | Tasarımda rüzgâr ve kar yükü mutlaka hesaba katılmalıdır.
+跨度 (kuàdù) | açıklık | isim | 这座桥的主跨度达到了一千米。 | Bu köprünün ana açıklığı bin metreye ulaştı.
+抗震 (kàngzhèn) | depreme dayanıklı | sıfat | 这一地区的建筑必须按八度抗震设防。 | Bu bölgedeki yapılar sekizinci derece depreme dayanıklı olacak şekilde tasarlanmalıdır.
+## Zemin ve temel
+地基 (dìjī) | temel zemini | isim | 地基处理不好，房子迟早会出问题。 | Temel zemini iyi hazırlanmazsa bina er geç sorun çıkarır.
+桩基 (zhuāngjī) | kazıklı temel | isim | 由于土质松软，这里只能采用桩基。 | Zemin yumuşak olduğu için burada ancak kazıklı temel kullanılabilir.
+基坑 (jīkēng) | temel çukuru | isim | 雨季施工要特别注意基坑的排水。 | Yağmur mevsiminde çalışırken temel çukurunun drenajına özellikle dikkat edilmeli.
+土方 (tǔfāng) | hafriyat, toprak işleri | isim | 土方工程预计两周内完成。 | Hafriyat işlerinin iki hafta içinde bitmesi bekleniyor.
+回填 (huítián) | geri dolgu yapmak | fiil | 地下室外墙防水做好以后才能回填。 | Bodrum dış duvarının su yalıtımı bittikten sonra geri dolgu yapılabilir.
+沉降 (chénjiàng) | oturma (zemin) | isim | 监测数据显示，大楼的沉降在允许范围之内。 | İzleme verileri binanın oturmasının izin verilen sınırlar içinde olduğunu gösteriyor.
+地下水位 (dìxià shuǐwèi) | yeraltı su seviyesi | isim | 这里地下水位很高，必须先降水才能开挖。 | Burada yeraltı su seviyesi çok yüksek, kazıdan önce su seviyesinin düşürülmesi gerekiyor.
+勘察 (kānchá) | zemin etüdü yapmak, keşif yapmak | fiil | 设计之前，必须对场地进行详细的地质勘察。 | Tasarımdan önce arazide ayrıntılı bir jeolojik etüt yapılmalıdır.
+承载力 (chéngzàilì) | taşıma gücü | isim | 这层土的承载力不能满足设计要求。 | Bu zemin tabakasının taşıma gücü tasarım gereksinimlerini karşılamıyor.
+挡土墙 (dǎngtǔqiáng) | istinat duvarı | isim | 暴雨过后，山脚下的挡土墙出现了裂缝。 | Sağanaktan sonra dağ eteğindeki istinat duvarında çatlaklar oluştu.
+## Yapı malzemeleri
+钢筋 (gāngjīn) | inşaat demiri | isim | 柱子里的钢筋间距不符合图纸要求。 | Kolondaki demirlerin aralığı çizimdeki gerekliliklere uymuyor.
+混凝土 (hùnníngtǔ) | beton | isim | 这批混凝土的强度没有达到设计标准。 | Bu parti betonun dayanımı tasarım standardına ulaşmadı.
+水泥 (shuǐní) | çimento | isim | 冬季施工要选用早强型水泥。 | Kışın yapılan inşaatta erken dayanım kazanan çimento seçilmeli.
+砂浆 (shājiāng) | harç | isim | 砌墙用的砂浆要随拌随用。 | Duvar örmekte kullanılan harç karıldığı anda kullanılmalıdır.
+砌块 (qìkuài) | duvar bloğu | isim | 内隔墙采用轻质加气混凝土砌块。 | İç bölme duvarlarında hafif gazbeton bloklar kullanılıyor.
+预制构件 (yùzhì gòujiàn) | prefabrik eleman | isim | 预制构件在工厂生产，运到现场直接吊装。 | Prefabrik elemanlar fabrikada üretilip sahaya getirilerek doğrudan vinçle yerleştirilir.
+型钢 (xínggāng) | profil çelik | isim | 这个车间的屋架是用型钢焊接而成的。 | Bu atölyenin çatı makası profil çelikten kaynakla yapıldı.
+骨料 (gǔliào) | agrega | isim | 混凝土骨料中的含泥量不能超标。 | Beton agregasındaki kil oranı sınırı aşmamalıdır.
+外加剂 (wàijiājì) | katkı maddesi (beton) | isim | 加入外加剂可以延长混凝土的凝结时间。 | Katkı maddesi eklemek betonun priz süresini uzatabilir.
+保温材料 (bǎowēn cáiliào) | ısı yalıtım malzemesi | isim | 外墙保温材料必须达到防火等级要求。 | Dış cephe ısı yalıtım malzemesi yangın sınıfı gerekliliklerini karşılamalıdır.
+## Şantiye ve ekipman
+施工现场 (shīgōng xiànchǎng) | şantiye sahası | isim | 进入施工现场必须佩戴安全帽。 | Şantiye sahasına girerken baret takmak zorunludur.
+脚手架 (jiǎoshǒujià) | iskele | isim | 大风天气严禁在脚手架上作业。 | Şiddetli rüzgârda iskele üzerinde çalışmak kesinlikle yasaktır.
+塔吊 (tǎdiào) | kule vinç | isim | 工地上同时有三台塔吊在运转。 | Şantiyede aynı anda üç kule vinç çalışıyor.
+挖掘机 (wājuéjī) | ekskavatör | isim | 挖掘机一早就开始挖基坑了。 | Ekskavatör sabah erkenden temel çukurunu kazmaya başladı.
+搅拌车 (jiǎobànchē) | beton mikseri | isim | 混凝土搅拌车因为堵车晚到了一个小时。 | Beton mikseri trafik yüzünden bir saat geç geldi.
+泵车 (bèngchē) | beton pompası | isim | 二十层以上的浇筑需要用高压泵车。 | Yirminci katın üzerindeki dökümler için yüksek basınçlı beton pompası gerekir.
+安全帽 (ānquánmào) | baret | isim | 他的安全帽上写着"安全第一"。 | Baretinin üzerinde "Önce güvenlik" yazıyor.
+围挡 (wéidǎng) | şantiye çiti, perde | isim | 工地四周都设置了两米多高的围挡。 | Şantiyenin dört bir yanına iki metreyi aşkın yükseklikte çit kuruldu.
+吊装 (diàozhuāng) | vinçle kaldırıp yerleştirmek | fiil | 钢梁吊装作业时，下方严禁站人。 | Çelik kirişler vinçle yerleştirilirken altında durmak kesinlikle yasaktır.
+工棚 (gōngpéng) | şantiye barakası | isim | 工人们中午就在工棚里休息。 | İşçiler öğlen şantiye barakasında dinleniyor.
+## Uygulama süreçleri
+浇筑 (jiāozhù) | beton dökmek | fiil | 这层楼板计划明天凌晨开始浇筑。 | Bu kat döşemesinin betonunun yarın sabaha karşı dökülmesi planlanıyor.
+振捣 (zhèndǎo) | vibratörle sıkıştırmak | fiil | 混凝土浇筑后要及时振捣，避免出现蜂窝。 | Beton döküldükten sonra boşluk oluşmaması için hemen vibratörle sıkıştırılmalıdır.
+养护 (yǎnghù) | kür yapmak; bakım yapmak | fiil | 混凝土浇筑后至少要洒水养护七天。 | Beton döküldükten sonra en az yedi gün sulanarak kür yapılmalıdır.
+砌筑 (qìzhù) | duvar örmek | fiil | 二层的隔墙下周开始砌筑。 | İkinci kattaki bölme duvarları gelecek hafta örülmeye başlanacak.
+放线 (fàngxiàn) | aplikasyon yapmak (ölçüp işaretlemek) | fiil | 测量员正在现场放线，确定建筑的位置。 | Topograf sahada aplikasyon yapıp binanın yerini belirliyor.
+绑扎 (bǎngzā) | (demiri) bağlamak | fiil | 工人们正在绑扎底板钢筋。 | İşçiler radye temel demirlerini bağlıyor.
+支模 (zhīmú) | kalıp kurmak | fiil | 支模之前要先检查钢筋是否合格。 | Kalıp kurmadan önce demirlerin uygun olup olmadığı kontrol edilmelidir.
+拆模 (chāimú) | kalıp sökmek | fiil | 混凝土强度不够时，绝对不能提前拆模。 | Beton yeterli dayanıma ulaşmadan kalıp kesinlikle erken sökülmemelidir.
+焊接 (hànjiē) | kaynak yapmak | fiil | 高空焊接作业必须有专人监护。 | Yüksekte kaynak işi mutlaka bir gözetmen eşliğinde yapılmalıdır.
+封顶 (fēngdǐng) | kaba inşaatı tamamlamak (son kat) | fiil | 这栋大楼比计划提前一个月封顶。 | Bu binanın kaba inşaatı plandan bir ay önce tamamlandı.
+## Tesisat
+给排水 (jǐpáishuǐ) | sıhhi tesisat (temiz ve atık su) | isim | 给排水管道要在地面施工前预埋好。 | Sıhhi tesisat boruları zemin işlerinden önce gömülmüş olmalıdır.
+暖通 (nuǎntōng) | ısıtma-havalandırma (mekanik tesisat) | isim | 暖通工程师正在调整空调系统。 | Mekanik tesisat mühendisi klima sistemini ayarlıyor.
+强电 (qiángdiàn) | kuvvetli akım | isim | 强电和弱电的线管必须分开敷设。 | Kuvvetli akım ve zayıf akım boruları ayrı döşenmelidir.
+弱电 (ruòdiàn) | zayıf akım | isim | 网络、监控和门禁都属于弱电系统。 | Ağ, güvenlik kamerası ve giriş kontrolü zayıf akım sistemine girer.
+喷淋 (pēnlín) | yağmurlama (sprinkler) sistemi | isim | 地下车库按规范必须安装自动喷淋系统。 | Yönetmeliğe göre yeraltı otoparkına otomatik sprinkler sistemi kurulması zorunludur.
+风管 (fēngguǎn) | hava kanalı | isim | 吊顶里的风管和水管位置有冲突。 | Asma tavandaki hava kanalı ile su borusunun yerleri çakışıyor.
+配电箱 (pèidiànxiāng) | elektrik dağıtım panosu | isim | 每层楼都设有一个配电箱。 | Her katta bir elektrik dağıtım panosu bulunuyor.
+排污 (páiwū) | atık su tahliyesi | isim | 新小区的排污管道接入了市政管网。 | Yeni sitenin atık su boruları belediye şebekesine bağlandı.
+地暖 (dìnuǎn) | yerden ısıtma | isim | 北方新建住宅普遍安装了地暖。 | Kuzeydeki yeni konutlarda yerden ısıtma yaygın olarak kuruluyor.
+管线综合 (guǎnxiàn zōnghé) | tesisat koordinasyonu | isim | 通过管线综合，我们提前发现了二十多处碰撞。 | Tesisat koordinasyonu sayesinde yirmiden fazla çakışmayı önceden tespit ettik.
+## Proje yönetimi
+监理 (jiānlǐ) | yapı denetimi, kontrol mühendisliği | isim | 隐蔽工程必须经过监理验收才能继续施工。 | Gizli kalacak işler yapı denetimi onayından geçmeden işe devam edilemez.
+总承包 (zǒngchéngbāo) | genel yüklenicilik | isim | 我们公司是这个项目的总承包单位。 | Şirketimiz bu projenin genel yüklenicisi.
+分包 (fēnbāo) | taşerona vermek | fiil | 机电安装部分分包给了一家专业公司。 | Elektromekanik montaj işi uzman bir firmaya taşeron olarak verildi.
+工期 (gōngqī) | iş süresi, inşaat süresi | isim | 合同规定的工期是十八个月。 | Sözleşmede belirtilen iş süresi on sekiz ay.
+竣工 (jùngōng) | inşaatı bitirmek, işi teslime hazır hâle getirmek | fiil | 这座大桥预计明年年底竣工。 | Bu köprünün gelecek yıl sonunda tamamlanması bekleniyor.
+验收 (yànshōu) | kabul muayenesi yapmak | fiil | 工程验收合格后才能交付使用。 | İş ancak kabul muayenesinden geçtikten sonra kullanıma teslim edilebilir.
+工程变更 (gōngchéng biàngēng) | proje değişikliği | isim | 业主提出的工程变更导致工期延长了两个月。 | İşverenin talep ettiği proje değişikliği iş süresini iki ay uzattı.
+现场签证 (xiànchǎng qiānzhèng) | sahada onaylanan ek iş tutanağı | isim | 这些额外的工作量都需要办理现场签证。 | Bu ek iş miktarlarının hepsi için sahada ek iş tutanağı düzenlenmesi gerekiyor.
+进度款 (jìndùkuǎn) | hakediş ödemesi | isim | 业主已经拖欠了两个月的进度款。 | İşveren iki aylık hakediş ödemesini geciktirdi.
+总工程师 (zǒnggōngchéngshī) | teknik müdür, baş mühendis | isim | 方案需要总工程师签字后才能实施。 | Yöntem planı ancak teknik müdür imzaladıktan sonra uygulanabilir.
+## Bina elemanları ve ince işler
+幕墙 (mùqiáng) | giydirme cephe | isim | 这栋写字楼的外立面全部采用玻璃幕墙。 | Bu ofis binasının dış cephesi tamamen cam giydirme cepheyle kaplı.
+外墙 (wàiqiáng) | dış duvar | isim | 外墙涂料要选择耐候性好的产品。 | Dış duvar boyası için hava koşullarına dayanıklı ürün seçilmeli.
+吊顶 (diàodǐng) | asma tavan | isim | 走廊的吊顶下周开始安装。 | Koridorun asma tavanı gelecek hafta takılmaya başlanacak.
+地坪 (dìpíng) | zemin kaplaması, şap | isim | 车库地坪采用耐磨的环氧树脂。 | Otopark zemininde aşınmaya dayanıklı epoksi kullanıldı.
+防水层 (fángshuǐcéng) | su yalıtım katmanı | isim | 卫生间的防水层做完后要做闭水试验。 | Banyonun su yalıtım katmanı bittikten sonra su tutma testi yapılmalıdır.
+门窗 (ménchuāng) | doğrama (kapı ve pencere) | isim | 门窗安装完以后才能开始室内抹灰。 | İç sıva ancak doğramalar takıldıktan sonra başlayabilir.
+抹灰 (mǒhuī) | sıva yapmak | fiil | 墙面抹灰要分层进行，每层不能太厚。 | Duvar sıvası katman katman yapılmalı, her katman çok kalın olmamalı.
+涂料 (túliào) | boya (inşaat) | isim | 室内一律使用环保涂料。 | İç mekânlarda istisnasız çevre dostu boya kullanılıyor.
+隔墙 (géqiáng) | bölme duvar | isim | 这两个房间之间只有一道轻质隔墙。 | Bu iki oda arasında yalnızca hafif bir bölme duvar var.
+保温层 (bǎowēncéng) | yalıtım katmanı | isim | 屋面保温层的厚度不能少于十厘米。 | Çatı yalıtım katmanının kalınlığı on santimetreden az olmamalıdır.
+## Geleneksel Çin mimarisi
+斗拱 (dǒugǒng) | dougong (konsol başlık sistemi) | isim | 斗拱是中国古代木结构建筑的独特构件。 | Dougong, eski Çin ahşap mimarisine özgü bir yapı elemanıdır.
+榫卯 (sǔnmǎo) | zıvana-geçme birleşimi | isim | 这座木塔全靠榫卯连接，没有用一根铁钉。 | Bu ahşap pagoda tamamen geçme birleşimlerle yapılmış, tek bir çivi kullanılmamış.
+飞檐 (fēiyán) | kalkık saçak | isim | 古寺的飞檐高高翘起，像鸟儿展翅一样。 | Eski tapınağın kalkık saçakları kanat açan bir kuş gibi yukarı kıvrılıyor.
+园林 (yuánlín) | klasik bahçe (peyzaj sanatı) | isim | 苏州园林以小中见大的造园手法闻名。 | Suzhou bahçeleri küçük alanda büyüklük duygusu yaratan düzenleme tekniğiyle ünlüdür.
+牌坊 (páifāng) | anıtsal tak kapı | isim | 村口立着一座明代的石牌坊。 | Köyün girişinde Ming döneminden kalma taş bir anıt kapı duruyor.
+回廊 (huíláng) | dolanan revak | isim | 雨天可以沿着回廊走遍整个院子。 | Yağmurlu günlerde revak boyunca yürüyerek bütün avluyu dolaşabilirsin.
+土楼 (tǔlóu) | tulou (toprak kale-ev) | isim | 福建土楼是客家人聚族而居的独特建筑。 | Fujian tulouları Hakka halkının topluca yaşadığı özgün yapılardır.
+照壁 (zhàobì) | giriş perdesi duvarı | isim | 大门对面的照壁上刻着精美的浮雕。 | Ana kapının karşısındaki perde duvarında zarif kabartmalar oyulmuş.
+中轴线 (zhōngzhóuxiàn) | ana eksen (simetri ekseni) | isim | 故宫的主要建筑都排列在一条中轴线上。 | Yasak Şehir'in ana yapılarının hepsi tek bir eksen üzerinde dizilmiştir.
+雕梁画栋 (diāoliáng huàdòng) | oymalı kirişler, boyalı direkler (görkemli yapı) | deyim | 这座老宅雕梁画栋，可以想见主人当年的富贵。 | Bu eski konağın oymalı kirişleri ve boyalı direkleri, sahibinin bir zamanki zenginliğini gözler önüne seriyor.
