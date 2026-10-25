@@ -1,0 +1,111 @@
+# UNIT: Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
+## Sözcük türleri
+das Substantiv (die Substantive) | isim (dilbilgisi) | isim (o) | Im Deutschen schreibt man jedes Substantiv mit einem großen Buchstaben. | Almancada her isim büyük harfle yazılır.
+das Verb (die Verben) | fiil | isim (o) | Im Hauptsatz steht das konjugierte Verb immer an zweiter Stelle. | Ana cümlede çekimli fiil her zaman ikinci sıradadır.
+das Adjektiv (die Adjektive) | sıfat (dilbilgisi) | isim (o) | Vor einem Substantiv bekommt das Adjektiv im Deutschen eine Endung. | Almancada sıfat bir isimden önce gelince ek alır.
+das Adverb (die Adverbien) | zarf (dilbilgisi) | isim (o) | Wörter wie „gestern“ und „hier“ sind Adverbien. | "Dün" ve "burada" gibi kelimeler zarftır.
+die Präposition (die Präpositionen) | edat | isim (d) | Nach der Präposition „mit“ steht immer der Dativ. | "Mit" edatından sonra her zaman datif gelir.
+das Pronomen (die Pronomen) | zamir | isim (o) | In diesem Satz ersetzt das Pronomen „er“ den Namen. | Bu cümlede "er" zamiri ismin yerini alıyor.
+die Konjunktion (die Konjunktionen) | bağlaç (dilbilgisi) | isim (d) | Die Konjunktion „weil“ schickt das Verb ans Ende des Satzes. | "Weil" bağlacı fiili cümlenin sonuna gönderir.
+der Kasus (die Kasus) | hâl (dilbilgisi) | isim (e) | Das Deutsche hat vier Kasus: Nominativ, Akkusativ, Dativ und Genitiv. | Almancada dört hâl vardır: yalın, belirtme, yönelme ve tamlayan.
+die Endung (die Endungen) | ek, son ek | isim (d) | Die richtige Endung hängt vom Geschlecht des Nomens ab. | Doğru ek ismin cinsiyetine bağlıdır.
+das Geschlecht (die Geschlechter) | cinsiyet | isim (o) | Das Geschlecht eines Nomens muss man einfach mitlernen. | Bir ismin cinsiyetini kelimeyle birlikte öğrenmek gerekir.
+## Cümle yapısı
+der Hauptsatz (die Hauptsätze) | ana cümle | isim (e) | Ein Hauptsatz kann auch ohne Nebensatz allein stehen. | Bir ana cümle yan cümle olmadan da tek başına durabilir.
+der Nebensatz (die Nebensätze) | yan cümle | isim (e) | Im Nebensatz mit „weil“ steht das Verb immer am Ende. | "Weil" ile kurulan yan cümlede fiil her zaman sondadır.
+das Subjekt (die Subjekte) | özne | isim (o) | In dem Satz „Anna liest“ ist Anna das Subjekt. | "Anna okuyor" cümlesinde Anna öznedir.
+das Objekt (die Objekte) | nesne | isim (o) | Das direkte Objekt steht im Deutschen im Akkusativ. | Almancada doğrudan nesne belirtme hâlindedir.
+das Prädikat (die Prädikate) | yüklem | isim (o) | Das Prädikat eines Satzes besteht oft aus mehreren Verben. | Bir cümlenin yüklemi çoğu zaman birkaç fiilden oluşur.
+die Satzstellung | cümlede sözcük dizilişi | isim (d) | Die Satzstellung im Deutschen ist für Lernende oft schwierig. | Almancadaki sözcük dizilişi öğrenenler için çoğu zaman zordur.
+das Komma (die Kommas) | virgül | isim (o) | Vor „dass“ steht im Deutschen immer ein Komma. | Almancada "dass"tan önce her zaman virgül olur.
+die Zeichensetzung | noktalama | isim (d) | Bei der Zeichensetzung mache ich immer noch viele Fehler. | Noktalamada hâlâ çok hata yapıyorum.
+das Ausrufezeichen (die Ausrufezeichen) | ünlem işareti | isim (o) | Nach einem Befehl steht im Deutschen oft ein Ausrufezeichen. | Almancada bir emirden sonra çoğu zaman ünlem işareti gelir.
+das Fragezeichen (die Fragezeichen) | soru işareti | isim (o) | Am Ende einer Frage steht natürlich ein Fragezeichen. | Bir sorunun sonunda tabii ki soru işareti olur.
+## Telaffuz ve ses
+die Aussprache | telaffuz | isim (d) | Ihre Aussprache ist so gut, dass man sie für eine Deutsche hält. | Telaffuzu o kadar iyi ki onu Alman sanıyorlar.
+aussprechen (sprach aus, ausgesprochen) | telaffuz etmek | fiil · düzensiz | Wie spricht man dieses Wort richtig aus? | Bu kelime doğru nasıl telaffuz edilir?
+der Akzent (die Akzente) | aksan | isim (e) | Er spricht perfekt Deutsch, aber mit einem leichten Akzent. | Mükemmel Almanca konuşuyor ama hafif bir aksanla.
+die Betonung (die Betonungen) | vurgu | isim (d) | Bei diesem Wort liegt die Betonung auf der zweiten Silbe. | Bu kelimede vurgu ikinci hecede.
+der Laut (die Laute) | ses | isim (e) | Den Laut „ch“ gibt es im Türkischen nicht. | "Ch" sesi Türkçede yoktur.
+die Silbe (die Silben) | hece | isim (d) | Das lange Wort „Kartoffelsalat“ hat insgesamt fünf Silben. | Uzun "Kartoffelsalat" kelimesinin toplam beş hecesi var.
+der Vokal (die Vokale) | ünlü | isim (e) | Lange und kurze Vokale ändern oft die Bedeutung eines Wortes. | Uzun ve kısa ünlüler çoğu zaman bir kelimenin anlamını değiştirir.
+der Konsonant (die Konsonanten) | ünsüz | isim (e) | Am Wortende klingt der Konsonant „d“ wie ein „t“. | Kelime sonunda "d" ünsüzü "t" gibi okunur.
+der Umlaut (die Umlaute) | umlaut (ä, ö, ü) | isim (e) | Die Umlaute ö und ü kennen Türken schon aus ihrer Sprache. | Türkler ö ve ü umlautlarını kendi dillerinden zaten tanır.
+undeutlich | anlaşılmaz, net olmayan | sıfat | Am Telefon sprach er so undeutlich, dass ich nichts verstand. | Telefonda o kadar anlaşılmaz konuştu ki hiçbir şey anlamadım.
+## Kelime bilgisi
+der Wortschatz | kelime hazinesi | isim (e) | Durch das Lesen von Romanen wird der Wortschatz größer. | Roman okuyarak kelime hazinesi genişler.
+die Vokabel (die Vokabeln) | kelime (öğrenilecek) | isim (d) | Jeden Abend lerne ich zwanzig neue Vokabeln mit der App. | Her akşam uygulamayla yirmi yeni kelime öğreniyorum.
+das Synonym (die Synonyme) | eş anlamlı | isim (o) | Das Wort „anfangen“ ist ein gutes Synonym für „beginnen“. | "Anfangen" kelimesi "beginnen" için iyi bir eş anlamlıdır.
+das Gegenteil (die Gegenteile) | zıt anlam, karşıt | isim (o) | Das Gegenteil von „laut“ ist im Deutschen das Wort „leise“. | Almancada "laut" kelimesinin zıttı "leise" kelimesidir.
+die Bedeutung (die Bedeutungen) | anlam | isim (d) | Dieses Wort hat je nach Situation zwei Bedeutungen. | Bu kelimenin duruma göre iki anlamı var.
+die Redewendung (die Redewendungen) | deyim, kalıp söz | isim (d) | Diese Redewendung benutzt man nur in der Umgangssprache. | Bu deyim sadece konuşma dilinde kullanılır.
+das Fremdwort (die Fremdwörter) | yabancı kökenli kelime | isim (o) | Im Deutschen gibt es viele Fremdwörter aus dem Englischen. | Almancada İngilizceden gelen birçok yabancı kelime var.
+der Begriff (die Begriffe) | kavram, terim | isim (e) | Diesen Begriff habe ich noch nie gehört, was bedeutet er? | Bu terimi hiç duymadım, ne anlama geliyor?
+das Wörterbuch (die Wörterbücher) | sözlük | isim (o) | Im Wörterbuch stehen bei jedem Nomen Artikel und Plural. | Sözlükte her ismin yanında artikel ve çoğul yazılıdır.
+die Abkürzung (die Abkürzungen) | kısaltma | isim (d) | „Usw.“ ist die Abkürzung für „und so weiter“. | "Usw." "ve benzeri"nin kısaltmasıdır.
+## Çeviri
+übersetzen | çevirmek | fiil | Kannst du mir diesen Brief vom Amt ins Türkische übersetzen? | Resmî daireden gelen bu mektubu bana Türkçeye çevirebilir misin?
+der Übersetzer (die Übersetzer) | çevirmen | isim (e) | Die Übersetzerin hat schon über dreißig Romane übersetzt. | Çevirmen şimdiden otuzdan fazla roman çevirdi.
+der Dolmetscher (die Dolmetscher) | tercüman (sözlü) | isim (e) | Beim Gericht hilft ein Dolmetscher dem Angeklagten. | Mahkemede sanığa bir tercüman yardım ediyor.
+dolmetschen | sözlü tercüme yapmak | fiil | Auf der Konferenz dolmetscht sie zwischen Deutsch und Arabisch. | Konferansta Almanca ile Arapça arasında sözlü tercüme yapıyor.
+die Zielsprache (die Zielsprachen) | hedef dil | isim (d) | Man übersetzt am besten in die eigene Muttersprache als Zielsprache. | En iyisi hedef dil olarak kendi ana diline çeviri yapmaktır.
+die Ausgangssprache (die Ausgangssprachen) | kaynak dil | isim (d) | Die Ausgangssprache des Textes ist Englisch, die Zielsprache Deutsch. | Metnin kaynak dili İngilizce, hedef dili Almanca.
+sinngemäß | anlamca, özetle | sıfat | Er sagte sinngemäß, dass er mit dem Plan nicht zufrieden ist. | Özetle plandan memnun olmadığını söyledi.
+die Fachübersetzung (die Fachübersetzungen) | teknik çeviri | isim (d) | Für die Fachübersetzung medizinischer Texte braucht man viel Wissen. | Tıbbi metinlerin teknik çevirisi için çok bilgi gerekir.
+beglaubigte Übersetzung | yeminli çeviri | ifade | Für das Amt brauche ich eine beglaubigte Übersetzung meines Diploms. | Resmî daire için diplomamın yeminli çevirisine ihtiyacım var.
+unübersetzbar | çevrilemez | sıfat | Manche Wörter wie „Gemütlichkeit“ gelten als fast unübersetzbar. | "Gemütlichkeit" gibi bazı kelimeler neredeyse çevrilemez sayılır.
+## Dil öğrenme
+die Muttersprache (die Muttersprachen) | ana dil | isim (d) | Meine Muttersprache ist Türkisch, aber ich träume oft auf Deutsch. | Ana dilim Türkçe ama sık sık Almanca rüya görüyorum.
+die Zweitsprache (die Zweitsprachen) | ikinci dil | isim (d) | Für viele Kinder in Berlin ist Deutsch die Zweitsprache. | Berlin'deki birçok çocuk için Almanca ikinci dildir.
+fließend | akıcı | sıfat | Nach drei Jahren in Wien spricht sie fließend Deutsch. | Viyana'da üç yıldan sonra akıcı Almanca konuşuyor.
+der Muttersprachler (die Muttersprachler) | ana dili konuşan | isim (e) | Am besten übt man mit einem Muttersprachler. | En iyisi ana dili konuşan biriyle pratik yapmaktır.
+der Sprachkurs (die Sprachkurse) | dil kursu | isim (e) | Im Sprachkurs sind Leute aus zwölf verschiedenen Ländern. | Dil kursunda on iki farklı ülkeden insanlar var.
+die Sprachkenntnisse | dil bilgisi (beceri) | isim (çoğul) | Für die Stelle sind gute Sprachkenntnisse in Englisch nötig. | Pozisyon için iyi düzeyde İngilizce bilgisi gerekli.
+das Sprachtandem (die Sprachtandems) | dil değişim partnerliği | isim (o) | Im Sprachtandem lerne ich Deutsch und sie lernt Türkisch. | Dil değişiminde ben Almanca öğreniyorum, o da Türkçe öğreniyor.
+die Sprachbarriere (die Sprachbarrieren) | dil engeli | isim (d) | Am Anfang war die Sprachbarriere das größte Problem. | Başlangıçta dil engeli en büyük sorundu.
+der Lernerfolg (die Lernerfolge) | öğrenme başarısı | isim (e) | Kleine Lernerfolge motivieren mich jeden Tag, weiterzumachen. | Küçük öğrenme başarıları beni her gün devam etmeye motive ediyor.
+mehrsprachig | çok dilli | sıfat | Unsere Kinder wachsen mehrsprachig mit drei Sprachen auf. | Çocuklarımız üç dille çok dilli büyüyor.
+## Lehçeler ve dil çeşitleri
+der Dialekt (die Dialekte) | lehçe, şive | isim (e) | Den bayerischen Dialekt verstehe ich leider kaum. | Bavyera lehçesini maalesef neredeyse hiç anlamıyorum.
+die Mundart (die Mundarten) | yöre ağzı | isim (d) | In den Dörfern spricht man noch die alte Mundart. | Köylerde hâlâ eski yöre ağzı konuşuluyor.
+das Hochdeutsch | standart Almanca | isim (o) | In der Schule lernen die Kinder Hochdeutsch. | Çocuklar okulda standart Almanca öğreniyor.
+das Schweizerdeutsch | İsviçre Almancası | isim (o) | Schweizerdeutsch klingt für Deutsche oft wie eine fremde Sprache. | İsviçre Almancası Almanlara çoğu zaman yabancı bir dil gibi gelir.
+das Plattdeutsch | Aşağı Almanca | isim (o) | Im Norden sprechen manche ältere Menschen noch Plattdeutsch. | Kuzeyde bazı yaşlılar hâlâ Aşağı Almanca konuşuyor.
+die Umgangssprache | konuşma dili | isim (d) | In der Umgangssprache sagt man oft „ne“ statt „nein“. | Konuşma dilinde sık sık "nein" yerine "ne" denir.
+die Standardsprache | standart dil | isim (d) | In Nachrichten spricht man immer die Standardsprache. | Haberlerde her zaman standart dil konuşulur.
+die Jugendsprache | gençlik dili | isim (d) | Die Jugendsprache meiner Kinder verstehe ich oft nicht mehr. | Çocuklarımın gençlik dilini çoğu zaman artık anlamıyorum.
+der Slang | argo | isim (e) | In amerikanischen Serien gibt es viel Slang. | Amerikan dizilerinde çok argo var.
+die Amtssprache (die Amtssprachen) | resmî dil | isim (d) | Die Schweiz hat vier Amtssprachen, darunter auch Rätoromanisch. | İsviçre'nin aralarında Retoromancanın da bulunduğu dört resmî dili var.
+## Yazım ve imla
+die Rechtschreibung | yazım, imla | isim (d) | In der Prüfung zählt auch die Rechtschreibung. | Sınavda yazım da önemli.
+der Buchstabe (die Buchstaben) | harf | isim (e) | Das deutsche Alphabet hat sechsundzwanzig Buchstaben und dazu noch ß. | Alman alfabesinde yirmi altı harf ve ayrıca ß var.
+die Großschreibung | büyük harfle yazım | isim (d) | Die Großschreibung von Nomen ist typisch für Deutsch. | İsimlerin büyük harfle yazılması Almancaya özgüdür.
+der Rechtschreibfehler (die Rechtschreibfehler) | yazım hatası | isim (e) | In deinem Brief sind nur zwei kleine Rechtschreibfehler. | Mektubunda sadece iki küçük yazım hatası var.
+das Alphabet (die Alphabete) | alfabe | isim (o) | Das türkische Alphabet hat insgesamt neunundzwanzig verschiedene Buchstaben. | Türk alfabesinde toplam yirmi dokuz farklı harf var.
+leserlich | okunaklı | sıfat | Bitte schreiben Sie Ihren Namen leserlich in Druckbuchstaben. | Lütfen adınızı okunaklı şekilde büyük harflerle yazın.
+die Silbentrennung | heceleme (satır sonu) | isim (d) | Die Silbentrennung am Zeilenende macht das Programm automatisch. | Satır sonundaki heceye bölmeyi program otomatik yapıyor.
+das Diktat (die Diktate) | dikte | isim (o) | Morgen schreiben die Schüler ein Diktat über den Herbst. | Öğrenciler yarın sonbahar hakkında bir dikte yazacak.
+der Tippfehler (die Tippfehler) | yazım hatası (klavye) | isim (e) | In der E-Mail an den Chef war ein peinlicher Tippfehler. | Patrona giden e-postada utandırıcı bir yazım hatası vardı.
+die Anführungszeichen | tırnak işareti | isim (çoğul) | Wörtliche Rede steht im Deutschen in Anführungszeichen. | Almancada doğrudan konuşma tırnak işareti içinde yazılır.
+## İletişim
+die Kommunikation | iletişim | isim (d) | Gute Kommunikation ist im Team das Wichtigste. | Ekipte iyi iletişim en önemli şeydir.
+kommunizieren | iletişim kurmak | fiil | Mit den Kollegen in Japan kommunizieren wir auf Englisch. | Japonya'daki meslektaşlarla İngilizce iletişim kuruyoruz.
+die Verständigung | anlaşma, iletişim | isim (d) | Die Verständigung mit den Nachbarn klappt auch ohne viele Worte. | Komşularla anlaşma çok fazla söze gerek kalmadan da işliyor.
+sich verständigen | anlaşmak (iletişimde) | fiil · dönüşlü | Im Urlaub haben wir uns mit Händen und Füßen verständigt. | Tatilde elle kolla anlaştık.
+nonverbal | sözsüz | sıfat | Ein großer Teil unserer Kommunikation ist eigentlich nonverbal. | İletişimimizin büyük bir kısmı aslında sözsüzdür.
+die Gestik | jestler | isim (d) | Italiener benutzen beim Sprechen oft eine lebhafte Gestik. | İtalyanlar konuşurken çoğu zaman canlı jestler kullanır.
+die Mimik | yüz ifadeleri | isim (d) | An ihrer Mimik sah ich sofort, dass sie wütend war. | Yüz ifadesinden kızgın olduğunu hemen anladım.
+die Gebärdensprache (die Gebärdensprachen) | işaret dili | isim (d) | Meine Kollegin hat Gebärdensprache gelernt, um mit Gehörlosen zu sprechen. | Meslektaşım işitme engellilerle konuşmak için işaret dili öğrendi.
+der Tonfall | ses tonu | isim (e) | Am Tonfall merkt man, ob jemand etwas ernst meint. | Ses tonundan birinin bir şeyi ciddi söyleyip söylemediği anlaşılır.
+die Ausdrucksweise (die Ausdrucksweisen) | anlatım tarzı | isim (d) | Seine Ausdrucksweise ist für einen Brief an die Bank zu locker. | Anlatım tarzı bankaya yazılan bir mektup için fazla rahat.
+## Dilbilim
+die Sprachwissenschaft | dilbilim | isim (d) | Sie hat Sprachwissenschaft an der Universität Zürich studiert. | Zürih Üniversitesi'nde dilbilim okudu.
+der Linguist (die Linguisten) | dilbilimci | isim (e) | Linguisten untersuchen, wie sich Sprachen mit der Zeit verändern. | Dilbilimciler dillerin zamanla nasıl değiştiğini inceliyor.
+die Ausnahme (die Ausnahmen) | istisna | isim (d) | Keine Regel ohne Ausnahme, das gilt besonders für Deutsch. | İstisnasız kural olmaz, bu özellikle Almanca için geçerli.
+das Lehnwort (die Lehnwörter) | alıntı kelime | isim (o) | „Fenster“ ist ein altes Lehnwort aus dem Lateinischen. | "Fenster" Latinceden alınmış eski bir kelimedir.
+die Sprachfamilie (die Sprachfamilien) | dil ailesi | isim (d) | Deutsch und Englisch gehören zur gleichen Sprachfamilie. | Almanca ve İngilizce aynı dil ailesine aittir.
+der Wortstamm (die Wortstämme) | kelime kökü | isim (e) | Die Wörter „fahren“ und „Fahrt“ haben den gleichen Wortstamm. | "Fahren" ve "Fahrt" kelimelerinin kökü aynı.
+die Wortbildung | kelime türetme | isim (d) | Durch Wortbildung entstehen im Deutschen sehr lange Wörter. | Almancada kelime türetmeyle çok uzun kelimeler oluşur.
+das Kompositum (die Komposita) | birleşik kelime | isim (o) | „Kühlschrank“ ist ein Kompositum aus „kühl“ und „Schrank“. | "Kühlschrank", "kühl" ve "Schrank"tan oluşan birleşik bir kelimedir.
+der Sprachwandel | dil değişimi | isim (e) | Der Sprachwandel zeigt sich besonders bei jungen Leuten. | Dil değişimi özellikle gençlerde kendini gösterir.
+die Etymologie | köken bilimi | isim (d) | Die Etymologie erklärt, woher ein Wort ursprünglich kommt. | Köken bilimi bir kelimenin aslen nereden geldiğini açıklar.
