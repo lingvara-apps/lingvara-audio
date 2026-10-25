@@ -1,0 +1,111 @@
+# UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+## Borsa
+大盘 (dàpán) | genel piyasa (endeks) | isim | 今天大盘下跌了百分之二。 | Bugün genel piyasa yüzde iki düştü.
+指数 (zhǐshù) | endeks | isim | 上证指数连续三天上涨。 | Şanghay endeksi üç gün üst üste yükseldi.
+成交量 (chéngjiāoliàng) | işlem hacmi | isim | 节前市场成交量明显萎缩。 | Bayram öncesi piyasada işlem hacmi belirgin biçimde daraldı.
+跌停 (diētíng) | taban fiyata düşmek | fiil | 受利空消息影响，这只股票开盘就跌停了。 | Olumsuz haber nedeniyle bu hisse açılışta taban fiyata indi.
+散户 (sǎnhù) | küçük yatırımcı | isim | 市场大跌时，最受伤的往往是散户。 | Piyasa sert düştüğünde en çok zarar gören genellikle küçük yatırımcılardır.
+机构投资者 (jīgòu tóuzīzhě) | kurumsal yatırımcı | isim | 机构投资者手里掌握着大量资金。 | Kurumsal yatırımcıların elinde büyük miktarda sermaye bulunur.
+市盈率 (shìyínglǜ) | fiyat/kazanç oranı | isim | 这家公司的市盈率高达八十倍。 | Bu şirketin fiyat/kazanç oranı seksen kata ulaştı.
+退市 (tuìshì) | borsadan çıkarılmak | fiil | 连续亏损三年后，这只股票被强制退市。 | Üç yıl üst üste zarar ettikten sonra bu hisse zorla borsadan çıkarıldı.
+股息 (gǔxī) | temettü | isim | 这家银行每年都向股东发放股息。 | Bu banka her yıl hissedarlarına temettü dağıtıyor.
+做空 (zuòkōng) | açığa satış yapmak | fiil | 有基金在大量做空这家公司的股票。 | Bazı fonlar bu şirketin hisselerinde yoğun açığa satış yapıyor.
+## Türev ürünler ve risk
+期权 (qīquán) | opsiyon | isim | 公司用股票期权来激励核心员工。 | Şirket kilit çalışanlarını hisse opsiyonlarıyla teşvik ediyor.
+杠杆 (gànggǎn) | kaldıraç | isim | 加杠杆投资可能带来巨大的风险。 | Kaldıraçlı yatırım büyük riskler doğurabilir.
+对冲 (duìchōng) | riskten korunmak (hedge) | fiil | 企业通过期货来对冲原材料价格波动的风险。 | Şirketler hammadde fiyat dalgalanması riskinden vadeli işlemlerle korunur.
+融券 (róngquàn) | ödünç hisse alımı (açığa satış için) | isim | 投资者可以通过融券来做空股票。 | Yatırımcılar ödünç hisse alarak açığa satış yapabilir.
+国债 (guózhài) | devlet tahvili | isim | 很多老年人喜欢购买国债，因为风险低。 | Pek çok yaşlı riski düşük olduğu için devlet tahvili almayı sever.
+做多 (zuòduō) | uzun pozisyon almak (yükseliş beklentisi) | fiil | 他看好新能源行业，坚定做多。 | Yeni enerji sektörüne güveniyor, kararlılıkla uzun pozisyon alıyor.
+波动率 (bōdònglǜ) | oynaklık | isim | 最近市场的波动率明显上升。 | Son dönemde piyasanın oynaklığı belirgin biçimde arttı.
+套利 (tàolì) | arbitraj yapmak | fiil | 他利用两个市场的价差进行套利。 | İki piyasa arasındaki fiyat farkından arbitraj yapıyor.
+风险敞口 (fēngxiǎn chǎngkǒu) | risk pozisyonu, maruz kalınan risk | isim | 银行需要控制对房地产行业的风险敞口。 | Banka konut sektörüne karşı maruz kaldığı riski kontrol etmeli.
+流动性 (liúdòngxìng) | likidite | isim | 央行向市场注入了大量流动性。 | Merkez bankası piyasaya yüklü miktarda likidite enjekte etti.
+## Vergi
+个税 (gèshuì) | gelir vergisi (bireysel) | isim | 新政策提高了个税的起征点。 | Yeni politika gelir vergisinin başlangıç eşiğini yükseltti.
+增值税 (zēngzhíshuì) | katma değer vergisi | isim | 这件商品的价格已经包含增值税。 | Bu ürünün fiyatına KDV dâhil.
+所得税 (suǒdéshuì) | kazanç vergisi | isim | 企业所得税的税率是百分之二十五。 | Kurumlar vergisi oranı yüzde yirmi beştir.
+税率 (shuìlǜ) | vergi oranı | isim | 政府下调了小微企业的税率。 | Hükümet küçük işletmelerin vergi oranını düşürdü.
+偷税 (tōushuì) | vergi kaçırmak | fiil | 这家公司因偷税被罚款上千万元。 | Bu şirket vergi kaçırdığı için on milyonlarca yuan para cezasına çarptırıldı.
+漏税 (lòushuì) | vergiyi eksik ödemek | fiil | 由于会计失误，公司漏税了一笔钱。 | Muhasebe hatası yüzünden şirket vergisinin bir kısmını eksik ödedi.
+避税 (bìshuì) | vergiden kaçınmak (yasal yollarla) | fiil | 一些跨国公司通过海外子公司避税。 | Bazı çok uluslu şirketler yurt dışındaki iştirakleri üzerinden vergiden kaçınıyor.
+退税 (tuìshuì) | vergi iadesi | isim | 外国游客购物后可以申请退税。 | Yabancı turistler alışverişten sonra vergi iadesi talep edebilir.
+纳税人 (nàshuìrén) | vergi mükellefi | isim | 纳税人有权了解税款的用途。 | Vergi mükellefleri vergilerin nereye harcandığını bilme hakkına sahiptir.
+减免 (jiǎnmiǎn) | indirim ve muafiyet (vergi, harç) | fiil | 政府对受灾企业减免了部分税费。 | Hükümet afetten etkilenen şirketlerin vergi ve harçlarında indirim ve muafiyet uyguladı.
+## Kredi
+按揭 (ànjiē) | konut kredisi (ipotekli) | isim | 他们用按揭的方式买了一套房子。 | Konut kredisiyle bir daire aldılar.
+抵押贷款 (dǐyā dàikuǎn) | ipotekli kredi | isim | 这家小企业靠抵押贷款维持运营。 | Bu küçük işletme ipotekli krediyle ayakta duruyor.
+信用评级 (xìnyòng píngjí) | kredi notu | isim | 评级机构下调了该国的信用评级。 | Derecelendirme kuruluşu o ülkenin kredi notunu düşürdü.
+征信 (zhēngxìn) | kredi sicili | isim | 逾期还款会影响个人征信。 | Gecikmeli ödeme kişisel kredi sicilini etkiler.
+授信 (shòuxìn) | kredi limiti tanımak | fiil | 银行向这家企业授信五亿元。 | Banka bu şirkete beş yüz milyon yuan kredi limiti tanıdı.
+违约率 (wéiyuēlǜ) | temerrüt oranı | isim | 经济下行时，贷款违约率往往上升。 | Ekonomi yavaşlarken kredi temerrüt oranları genellikle yükselir.
+担保人 (dānbǎorén) | kefil | isim | 申请这笔贷款需要一名担保人。 | Bu krediye başvurmak için bir kefil gerekiyor.
+展期 (zhǎnqī) | vade uzatımı | isim | 公司向银行申请贷款展期。 | Şirket bankadan kredi vadesinin uzatılmasını talep etti.
+再融资 (zàiróngzī) | yeniden finansman | isim | 利率下降后，很多人选择再融资。 | Faizler düşünce pek çok kişi yeniden finansmanı tercih etti.
+信用额度 (xìnyòng édù) | kredi limiti (kart) | isim | 银行提高了他的信用额度。 | Banka kredi kartı limitini yükseltti.
+## Makroekonomi
+通货紧缩 (tōnghuò jǐnsuō) | deflasyon | isim | 通货紧缩会抑制消费和投资。 | Deflasyon tüketimi ve yatırımı baskılar.
+量化宽松 (liànghuà kuānsōng) | parasal genişleme | isim | 央行宣布实施新一轮量化宽松政策。 | Merkez bankası yeni bir parasal genişleme turu açıkladı.
+滞胀 (zhìzhàng) | stagflasyon | isim | 七十年代，很多西方国家陷入了滞胀。 | Yetmişlerde pek çok Batı ülkesi stagflasyona saplandı.
+经济周期 (jīngjì zhōuqī) | konjonktür döngüsü | isim | 企业要学会应对经济周期的变化。 | Şirketler konjonktür döngüsündeki değişimlerle başa çıkmayı öğrenmeli.
+软着陆 (ruǎnzhuólù) | yumuşak iniş (ekonomi) | isim | 政府希望经济实现软着陆。 | Hükümet ekonominin yumuşak iniş yapmasını umuyor.
+硬着陆 (yìngzhuólù) | sert iniş (ekonomi) | isim | 专家担心房地产市场会出现硬着陆。 | Uzmanlar konut piyasasında sert iniş yaşanmasından endişe ediyor.
+刺激政策 (cìjī zhèngcè) | teşvik politikası | isim | 政府出台了一系列消费刺激政策。 | Hükümet bir dizi tüketimi teşvik politikası açıkladı.
+基准利率 (jīzhǔn lìlǜ) | politika faizi | isim | 央行维持基准利率不变。 | Merkez bankası politika faizini sabit tuttu.
+降息 (jiàngxī) | faiz indirmek | fiil | 为了刺激经济，央行宣布降息。 | Ekonomiyi canlandırmak için merkez bankası faiz indirdi.
+加息 (jiāxī) | faiz artırmak | fiil | 为了抑制通胀，不少国家的央行连续加息。 | Enflasyonu frenlemek için pek çok ülkenin merkez bankası art arda faiz artırdı.
+## Soyut fiiller I
+解构 (jiěgòu) | yapıbozuma uğratmak | fiil | 这部电影解构了传统的英雄形象。 | Bu film geleneksel kahraman imgesini yapıbozuma uğratıyor.
+建构 (jiàngòu) | inşa etmek (kuramsal) | fiil | 每个人都在用语言建构自己的世界。 | Herkes kendi dünyasını dille inşa eder.
+重塑 (chóngsù) | yeniden biçimlendirmek | fiil | 数字技术正在重塑我们的生活方式。 | Dijital teknoloji yaşam biçimimizi yeniden biçimlendiriyor.
+演进 (yǎnjìn) | evrilmek, gelişmek | fiil | 语言是随着社会不断演进的。 | Dil toplumla birlikte sürekli evrilir.
+嬗变 (shànbiàn) | dönüşüm geçirmek (yazı dili) | fiil | 这本书梳理了中国家庭观念的嬗变。 | Bu kitap Çin'deki aile anlayışının dönüşümünü inceliyor.
+衍生 (yǎnshēng) | türemek, ortaya çıkmak | fiil | 网络时代衍生出了许多新词。 | İnternet çağı pek çok yeni sözcüğün türemesine yol açtı.
+契合 (qìhé) | örtüşmek, uyuşmak | fiil | 这个方案与公司的发展战略高度契合。 | Bu plan şirketin gelişim stratejisiyle büyük ölçüde örtüşüyor.
+映射 (yìngshè) | yansıtmak, aksettirmek | fiil | 文学作品往往映射着时代的精神。 | Edebî eserler çoğu zaman dönemin ruhunu yansıtır.
+承载 (chéngzài) | taşımak (anlam, değer) | fiil | 这座老桥承载着几代人的记忆。 | Bu eski köprü birkaç kuşağın anılarını taşıyor.
+彰显 (zhāngxiǎn) | açıkça göstermek, öne çıkarmak | fiil | 这座建筑彰显了城市的文化底蕴。 | Bu yapı şehrin kültürel birikimini açıkça gösteriyor.
+## Soyut fiiller II
+凸显 (tūxiǎn) | belirginleşmek, öne çıkmak | fiil | 人口老龄化问题日益凸显。 | Nüfusun yaşlanması sorunu giderek belirginleşiyor.
+折射 (zhéshè) | yansıtmak (dolaylı olarak) | fiil | 这件小事折射出社会诚信的缺失。 | Bu küçük olay toplumdaki güven eksikliğini yansıtıyor.
+蕴含 (yùnhán) | içinde barındırmak | fiil | 这句简单的话蕴含着深刻的道理。 | Bu basit söz derin bir hakikati içinde barındırıyor.
+消解 (xiāojiě) | çözündürmek, ortadan kaldırmak | fiil | 幽默可以消解紧张的气氛。 | Mizah gergin havayı dağıtabilir.
+遮蔽 (zhēbì) | örtmek, gölgelemek | fiil | 繁荣的表象遮蔽了深层的问题。 | Refahın görüntüsü derindeki sorunları örtüyor.
+规训 (guīxùn) | disipline etmek (Foucault) | fiil | 福柯研究了现代社会如何规训身体。 | Foucault modern toplumun bedeni nasıl disipline ettiğini inceledi.
+赋予 (fùyǔ) | vermek, yüklemek (anlam, hak) | fiil | 宪法赋予公民言论自由的权利。 | Anayasa vatandaşlara ifade özgürlüğü hakkı tanır.
+异化 (yìhuà) | yabancılaşma | isim | 马克思讨论了劳动的异化问题。 | Marx emeğin yabancılaşması sorununu tartıştı.
+物化 (wùhuà) | şeyleştirmek | fiil | 消费社会容易把人物化。 | Tüketim toplumu insanı kolayca şeyleştirir.
+内化 (nèihuà) | içselleştirmek | fiil | 孩子会把父母的价值观内化为自己的观念。 | Çocuklar anne babalarının değerlerini içselleştirip kendi düşünceleri hâline getirir.
+## Soyut kavramlar
+内在 (nèizài) | içkin, içsel | sıfat | 真正的美是内在的。 | Gerçek güzellik içseldir.
+外在 (wàizài) | dışsal | sıfat | 不要只看一个人的外在条件。 | Bir insanın yalnızca dışsal özelliklerine bakma.
+机理 (jīlǐ) | işleyiş mekanizması | isim | 科学家正在研究这种疾病的发病机理。 | Bilim insanları bu hastalığın ortaya çıkış mekanizmasını inceliyor.
+谱系 (pǔxì) | soy ağacı; soybilim | isim | 他梳理了中国思想史的谱系。 | Çin düşünce tarihinin soy ağacını çıkardı.
+主体间性 (zhǔtǐjiānxìng) | özneler arasılık | isim | 交流的意义建立在主体间性的基础上。 | İletişimin anlamı özneler arasılık temeline dayanır.
+向度 (xiàngdù) | boyut, yön (felsefi) | isim | 这部作品具有多重的思想向度。 | Bu eserin çok katmanlı düşünsel boyutları var.
+场域 (chǎngyù) | alan (Bourdieu'nün "champ" kavramı) | isim | 布迪厄认为，每个场域都有自己的规则。 | Bourdieu'ye göre her alanın kendi kuralları vardır.
+话语 (huàyǔ) | söylem | isim | 媒体话语影响着公众对事件的理解。 | Medya söylemi kamuoyunun olayları anlayışını etkiler.
+现代性 (xiàndàixìng) | modernlik | isim | 这部小说反思了中国的现代性问题。 | Bu roman Çin'in modernlik sorununu sorguluyor.
+合理性 (hélǐxìng) | akla uygunluk, makullük | isim | 我们需要论证这项政策的合理性。 | Bu politikanın makullüğünü temellendirmemiz gerekiyor.
+## Entelektüel sıfatlar
+晦涩 (huìsè) | anlaşılması güç, kapalı | sıfat | 这本哲学书的语言太晦涩了。 | Bu felsefe kitabının dili çok kapalı.
+艰深 (jiānshēn) | zor ve derin | sıfat | 这些艰深的理论需要反复研读。 | Bu zor ve derin kuramların tekrar tekrar okunması gerekir.
+精深 (jīngshēn) | derinlemesine ustalık | sıfat | 他在古文字研究方面造诣精深。 | Eski yazılar konusunda derinlemesine bir ustalığa sahip.
+浅显 (qiǎnxiǎn) | basit ve anlaşılır | sıfat | 老师用浅显的语言解释了复杂的概念。 | Öğretmen karmaşık kavramları basit ve anlaşılır bir dille açıkladı.
+繁复 (fánfù) | karmaşık ve ayrıntılı | sıfat | 这幅画的图案十分繁复。 | Bu tablonun desenleri son derece karmaşık ve ayrıntılı.
+缜密 (zhěnmì) | titiz ve sıkı (düşünce) | sıfat | 他思维缜密，很少出错。 | Düşüncesi titiz ve sıkı, nadiren hata yapar.
+独到 (dúdào) | özgün, kendine has | sıfat | 她对这个问题有独到的见解。 | Bu konuda kendine has görüşleri var.
+偏颇 (piānpō) | taraflı, dengesiz | sıfat | 这种评价未免有些偏颇。 | Bu değerlendirme biraz taraflı.
+中肯 (zhòngkěn) | yerinde, isabetli (eleştiri) | sıfat | 他提出的意见很中肯。 | Öne sürdüğü görüşler çok yerinde.
+犀利 (xīlì) | keskin (söz, kalem) | sıfat | 这位评论家的文笔十分犀利。 | Bu eleştirmenin kalemi son derece keskin.
+## İnsan tipleri
+理想主义者 (lǐxiǎng zhǔyìzhě) | idealist | isim | 他是个理想主义者，总想改变世界。 | İdealist biridir, hep dünyayı değiştirmek ister.
+现实主义者 (xiànshí zhǔyìzhě) | gerçekçi kişi | isim | 作为一个现实主义者，她更关心眼前的问题。 | Gerçekçi biri olarak önündeki sorunlarla daha çok ilgileniyor.
+完美主义者 (wánměi zhǔyìzhě) | mükemmeliyetçi | isim | 他是个完美主义者，一点小错都不能容忍。 | Mükemmeliyetçi biridir, en ufak hataya bile tahammül edemez.
+机会主义者 (jīhuì zhǔyìzhě) | fırsatçı | isim | 这个机会主义者哪边有利就站哪边。 | Bu fırsatçı nerede çıkar görürse o tarafa geçer.
+实用主义者 (shíyòng zhǔyìzhě) | pragmatist | isim | 她是个实用主义者，只关心方法是否有效。 | Pragmatist biridir, yalnızca yöntemin işe yarayıp yaramadığına bakar.
+悲观主义者 (bēiguān zhǔyìzhě) | karamsar | isim | 悲观主义者在每个机会中都看到困难。 | Karamsar kişi her fırsatta bir zorluk görür.
+乐观主义者 (lèguān zhǔyìzhě) | iyimser | isim | 乐观主义者在每个困难中都看到机会。 | İyimser kişi her zorlukta bir fırsat görür.
+怀疑论者 (huáiyílùnzhě) | kuşkucu | isim | 作为一个怀疑论者，他对什么都要求证据。 | Kuşkucu biri olarak her şey için kanıt istiyor.
+犬儒 (quǎnrú) | sinik | isim | 他变成了一个犬儒，对一切都冷嘲热讽。 | Sinik biri oldu, her şeyle alay ediyor.
+知识分子 (zhīshi fènzǐ) | aydın, entelektüel | isim | 知识分子应当承担社会责任。 | Aydınlar toplumsal sorumluluk üstlenmelidir.
