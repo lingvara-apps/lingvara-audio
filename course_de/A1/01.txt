@@ -1,0 +1,111 @@
+# UNIT: Tanışma ve temel ifadeler | Selamlaşma, zamirler, soru kelimeleri
+## Selamlaşma
+hallo | merhaba, selam | ünlem | Hallo, Anna! Wie geht es dir? | Merhaba Anna! Nasılsın?
+guten morgen | günaydın | ifade | Guten Morgen, Herr Müller. | Günaydın Müller Bey.
+guten tag | iyi günler | ifade | Guten Tag, Frau Schmidt. | İyi günler Schmidt Hanım.
+guten abend | iyi akşamlar | ifade | Guten Abend, meine Damen und Herren. | İyi akşamlar hanımlar ve beyler.
+gute nacht | iyi geceler | ifade | Gute nacht, schlaf gut. | İyi geceler, iyi uykular.
+tschüss | hoşça kal, güle güle | ünlem | Tschüss, Emre, bis bald. | Hoşça kal Emre, yakında görüşürüz.
+auf wiedersehen | hoşça kalınız, allahaısmarladık | ifade | Auf Wiedersehen, Frau Wagner. | Allahaısmarladık Wagner Hanım.
+bis bald | yakında görüşürüz | ifade | Tschüss, bis bald in Berlin. | Güle güle, yakında Berlin'de görüşürüz.
+bis morgen | yarın görüşürüz | ifade | Wir sehen uns. Bis morgen! | Görüşürüz. Yarın görüşürüz!
+wie geht es dir | nasılsın | ifade | Hallo Lukas, wie geht es dir? | Merhaba Lukas, nasılsın?
+## Nezaket
+danke | teşekkürler | ünlem | Danke für deine Hilfe. | Yardımın için teşekkürler.
+bitte | lütfen, rica ederim | ünlem | Ein Wasser, bitte. | Bir su, lütfen.
+gern geschehen | rica ederim, bir şey değil | ifade | Danke schön. — Gern geschehen. | Çok teşekkürler. — Rica ederim.
+entschuldigung | affedersiniz, özür dilerim | ünlem | Entschuldigung, wo ist der Bahnhof? | Affedersiniz, tren istasyonu nerede?
+es tut mir leid | üzgünüm, kusura bakma | ifade | Es tut mir leid, ich habe keine Zeit. | Üzgünüm, vaktim yok.
+ja | evet | zarf | Ja, ich komme aus der Türkei. | Evet, Türkiye'den geliyorum.
+nein | hayır | zarf | Nein, danke. | Hayır, teşekkürler.
+bitte schön | buyurun | ifade | Hier ist dein Kaffee. — Bitte schön. | İşte kahven. — Buyurun.
+prost | şerefe | ünlem | Prost auf unseren Erfolg! | Başarımıza şerefe!
+guten appetit | afiyet olsun | ifade | Das Essen ist fertig. Guten Appetit! | Yemek hazır. Afiyet olsun!
+## Kişi zamirleri
+ich | ben | zamir | Ich bin Anna. | Ben Anna'yım.
+du | sen | zamir | Wo wohnst du, Emre? | Nerede yaşıyorsun Emre?
+er | o (erkek) | zamir | Er heißt Lukas. | Onun adı Lukas.
+die frau | o (kadın / bayan anlamında) | isim (d) | Die Frau kommt aus München. | O kadın Münihli.
+es | o (nötr) | zamir | Das ist bir Buch. Es ist neu. | Bu bir kitap. O yeni.
+wir | biz | zamir | Wir lernen Deutsch. | Biz Almanca öğreniyoruz.
+ihr | siz (çoğul samimi) | zamir | Woher kommt ihr, Kinder? | Nereden geliyorsunuz çocuklar?
+die leute | onlar, insanlar | isim (çoğul) | Die Leute wohnen in Hamburg. | Onlar Hamburg'da yaşıyorlar.
+die formalität | resmî hitap | isim (d) | Wie heißen Sie, bitte? (Formell) | Adınız nedir, lütfen?
+man | insan, biri (genel özne) | zamir | Hier spricht man Deutsch. | Burada Almanca konuşulur.
+## Fiil "sein" (olmak)
+sein | olmak | fiil · düzensiz | Ich möchte Arzt sein. | Doktor olmak istiyorum.
+ich bin | ben ...yım / ...im | ifade | Ich bin müde. | Yorgunum.
+du bist | sen ...sın / ...sin | ifade | Du bist sehr nett. | Çok naziksin.
+er ist | o ...dır / ...dir | ifade | Er ist mein Bruder. | O benim erkek kardeşim.
+wir sind | biz ...yız / ...yiz | ifade | Wir sind Studenten. | Biz öğrenciyiz.
+ihr seid | siz ...sınız / ...siniz | ifade | Ihr seid klug. | Siz zekisiniz.
+die gruppe ist | grup ...dır (onlar anlamında) | ifade | Die Gruppe ist aus Wien. | Onlar Viyana'dandırlar.
+der gast ist | misafir ...dır (resmî) | ifade | Der Gast ist herzlich willkommen. | İçtenlikle hoş geldiniz.
+bist du | misin / misin? (soru) | ifade | Bist du bereit? | Hazır mısın?
+sind wir | miyiz / miyiz? (soru) | ifade | Sind wir zu spät? | Geç mi kaldık?
+## Soru kelimeleri
+wer | kim | zamir | Wer ist das? | Bu kim?
+was | ne | zamir | Was machst du? | Ne yapıyorsun?
+wo | nerede | zarf | Wo wohnst du? | Nerede yaşıyorsun?
+woher | nereden | zarf | Woher kommst du? | Nereden geliyorsun?
+wohin | nereye | zarf | Wohin gehst du? | Nereye gidiyorsun?
+wann | ne zaman | zarf | Wann kommst du? | Ne zaman geliyorsun?
+wie | nasıl | zarf | Wie heißt du? | Adın ne?
+warum | neden, niçin | zarf | Warum lernst du Deutsch? | Neden Almanca öğreniyorsun?
+wie viel | ne kadar | ifade | Wie viel kostet das? | Bu ne kadar tutuyor?
+welcher | hangi | sıfat | Welcher Tag ist heute? | Bugün hangi gün?
+## Temel fiiller
+haben | sahip olmak | fiil · düzensiz | Ich habe einen Hund. | Bir köpeğim var.
+machen | yapmak | fiil | Was machen wir heute? | Bugün ne yapacağız?
+gehen | gitmek | fiil · düzensiz | Ich gehe nach Hause. | Eve gidiyorum.
+kommen | gelmek | fiil · düzensiz | Woher kommen Sie? | Nereden geliyorsunuz?
+wohnen | ikamet etmek, yaşamak | fiil | Ich wohne in Frankfurt. | Frankfurt'ta yaşıyorum.
+sprechen | konuşmak | fiil · düzensiz | Sprichst du Deutsch? | Almanca konuşuyor musun?
+lernen | öğrenmek | fiil | Wir lernen Spanisch. | İspanyolca öğreniyoruz.
+lesen | okumak | fiil · düzensiz | Sie liest ein Buch. | O bir kitap okuyor.
+schreiben | yazmak | fiil · düzensiz | Er schreibt einen Brief. | O bir mektup yazıyor.
+sehen | görmek | fiil · düzensiz | Ich sehe dich. | Seni görüyorum.
+## Sıfatlar
+gut | iyi | sıfat | Das ist eine gute Idee. | Bu iyi bir fikir.
+schlecht | kötü | sıfat | Das Wetter ist heute schlecht. | Hava bugün kötü.
+groß | büyük, uzun | sıfat | Berlin ist eine große Stadt. | Berlin büyük bir şehridir.
+klein | küçük | sıfat | Die Katze ist klein. | Kedi küçük.
+neu | yeni | sıfat | Mein Auto ist neu. | Arabam yeni.
+alt | eski, yaşlı | sıfat | Das Haus ist sehr alt. | Ev çok eski.
+schön | güzel | sıfat | Das ist ein schönes Bild. | Bu güzel bir resim.
+kalt | soğuk | sıfat | Im Winter ist es kalt. | Kışın hava soğuktur.
+warm | ılık, sıcak | sıfat | Der Kaffee ist noch warm. | Kahve hala ılık.
+schnell | hızlı | sıfat | Der Zug ist sehr schnell. | Tren çok hızlı.
+## Günlük nesneler
+das Buch | kitap | isim (o) | Ich lese ein Buch. | Bir kitap okuyorum.
+der Tisch | masa | isim (e) | Das Buch liegt auf dem Tisch. | Kitap masanın üzerinde.
+der Stuhl | sandalye | isim (e) | Setzen Sie sich auf den Stuhl. | Sandalyeye oturun.
+das Fenster | pencere | isim (o) | Mach bitte das Fenster auf. | Lütfen pencereyi aç.
+die Tür | kapı | isim (d) | Die Tür ist geschlossen. | Kapı kapalı.
+der Stift | kalem | isim (e) | Hast du einen Stift für mich? | Benim için bir kalem var mı?
+das Heft | defter | isim (o) | Schreib das in dein Heft. | Bunu defterine yaz.
+die Tasche | çanta | isim (d) | Meine Tasche ist schwer. | Çantam ağır.
+das Handy | cep telefonu | isim (o) | Wo ist mein Handy? | Cep telefonum nerede?
+der Computer | bilgisayar | isim (e) | Er arbeitet am Computer. | Bilgisayarda çalışıyor.
+## Aile
+die Familie | aile | isim (d) | Meine Familie lebt in Izmir. | Ailem İzmir'de yaşıyor.
+die Mutter | anne | isim (d) | Meine Mutter kocht gern. | Annem yemek pişirmeyi sever.
+der Vater | baba | isim (e) | Mein Vater liest die Zeitung. | Babam gazete okuyor.
+die Schwester | kız kardeş | isim (d) | Ich habe eine Schwester. | Bir kız kardeşim var.
+der Bruder | erkek kardeş | isim (e) | Sein Bruder ist Arzt. | Onun erkek kardeşi doktor.
+das Kind | çocuk | isim (o) | Das Kind spielt im Park. | Çocuk parkta oynuyor.
+die Eltern | ebeveynler, anne baba | isim (çoğul) | Meine Eltern reisen gern. | Ailem seyahat etmeyi sever.
+die Großeltern | büyükanne ve büyükbaba | isim (çoğul) | Unsere Großeltern wohnen auf dem Land. | Büyük anne ve babamız köyde yaşıyor.
+die Tante | teyze, hala | isim (d) | Meine Tante wohnt in Köln. | Teyzem Köln'de yaşıyor.
+der Onkel | amca, dayı | isim (e) | Mein Onkel ist sehr lustig. | Amcam çok eğlenceli.
+## Sayılar (1-10)
+eins | bir | sayı | Ich habe nur eins. | Yalnızca bir tane var.
+zwei | iki | sayı | Wir haben zwei Katzen. | İki kedimiz var.
+drei | üç | sayı | Sie hat drei Brüder. | Onun üç erkek kardeşi var.
+vier | dört | sayı | Es ist vier Uhr. | Saat dört.
+fünf | beş | sayı | Die Woche hat fünf Tage. | Haftanın beş günü var.
+sechs | altı | sayı | Er kommt um sechs Uhr. | Saat altıda geliyor.
+sieben | yedi | sayı | Die Katze hat sieben Leben. | Kedinin yedi canlısı var.
+acht | sekiz | sayı | Ich arbeite acht Stunden. | Sekiz saat çalışıyorum.
+neun | dokuz | sayı | Es ist neun Grad kalt. | Hava dokuz derece soğuk.
+zehn | on | sayı | Das Kind ist zehn Jahre alt. | Çocuk on yaşında.
