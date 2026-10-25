@@ -1,0 +1,87 @@
+name: tts-multi
+# Generates course audio for one course and publishes it as GitHub Release "audio-<course>".
+# Re-runs only generate clips whose key is not in the current release (force=true regenerates all).
+on:
+  workflow_dispatch:
+    inputs:
+      course: {description: "Course code (es, de, fr, it, pt, ja, ko, zh, tr, ar)", required: true}
+      shards: {description: "Max parallel shards", default: "16"}
+      force: {description: "Regenerate every clip", type: boolean, default: false}
+permissions:
+  contents: write
+concurrency:
+  group: tts-multi-${{ inputs.course }}
+  cancel-in-progress: false
+env:
+  C: ${{ inputs.course }}
+  GH_TOKEN: ${{ github.token }}
+  R: ${{ github.repository }}
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    outputs:
+      n: ${{ steps.p.outputs.n }}
+      shards: ${{ steps.p.outputs.shards }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "tts", fetch-depth: 1}
+      - id: p
+        run: |
+          git fetch -q --depth=1 origin tr-gemini && git archive FETCH_HEAD course_$C | tar -x
+          python3 tts/extract.py $C course_$C texts.json
+          mkdir old && (gh release download audio-$C -R $R -D old 2>/dev/null || echo "no previous release")
+          n=$(python3 tts/pack.py plan $C texts.json old todo.json ${{ inputs.force && '1' || '0' }} | tee /dev/stderr | awk '{print $(NF-2)}')
+          s=$(( (n + 1199) / 1200 )); [ $s -gt ${{ inputs.shards }} ] && s=${{ inputs.shards }}; [ $s -lt 1 ] && s=1
+          echo "n=$n" >> $GITHUB_OUTPUT
+          echo "shards=$(python3 -c "print(list(range($s)))")" >> $GITHUB_OUTPUT
+      - uses: actions/upload-artifact@v4
+        with: {name: plan, path: "texts.json\ntodo.json"}
+  gen:
+    needs: plan
+    if: needs.plan.outputs.n != '0'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.shards) }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "tts", fetch-depth: 1}
+      - uses: actions/download-artifact@v4
+        with: {name: plan}
+      - name: Install engine
+        run: bash tts/install.sh $(python3 -c "import json;c=json.load(open('tts/langs.json'))['$C'];print(c['engine'],c.get('g2p',''))") 2>&1 | tail -20
+      - name: Generate
+        run: python3 tts/gen_multi.py $C todo.json ${{ matrix.shard }} ${{ strategy.job-total }} out 2>&1 | grep -v -i warning | tail -80
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: "clips-${{ matrix.shard }}", path: out, retention-days: 3}
+  pack:
+    needs: [plan, gen]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "tts", fetch-depth: 1}
+      - uses: actions/download-artifact@v4
+        with: {path: art}
+      - name: Pack
+        run: |
+          mkdir old && (gh release download audio-$C -R $R -D old 2>/dev/null || true)
+          python3 tts/pack.py pack $C art/plan/texts.json old art packs
+      - name: Publish release audio-${{ inputs.course }}
+        run: |
+          gh release view audio-$C -R $R >/dev/null 2>&1 || gh release create audio-$C -R $R --title "Audio: $C" \
+            --notes "Lingvara course audio for '$C' (tts/langs.json). One zip per pack + manifest.json. Built by tts-multi.yml."
+          up=()
+          for z in packs/*.zip; do
+            b=$(basename $z)
+            if [ -f old/$b ] && cmp -s old/$b $z; then continue; fi
+            up+=("$z")
+          done
+          echo "uploading ${#up[@]} changed packs"
+          if [ ${#up[@]} -gt 0 ]; then printf '%s\n' "${up[@]}" | xargs -n 20 gh release upload audio-$C -R $R --clobber; fi
+          gh release upload audio-$C -R $R --clobber packs/manifest.json packs/missing.json
+          for f in old/*.zip; do [ -e "$f" ] || continue; b=$(basename $f); [ -f packs/$b ] || gh release delete-asset audio-$C $b -R $R -y; done
+          echo "### audio-$C" >> $GITHUB_STEP_SUMMARY; python3 -c "import json;m=json.load(open('packs/manifest.json'));print(f\"{sum(v['files'] for k,v in m.items() if not k.startswith('_'))} clips, {sum(v['size'] for k,v in m.items() if not k.startswith('_'))/1e6:.1f} MB, missing {m['_missing']}\")" >> $GITHUB_STEP_SUMMARY
