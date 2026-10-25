@@ -1,0 +1,111 @@
+# UNIT: Bilim ve araştırma | Bilimsel yöntem, akademik dil, keşifler
+## Bilimsel yöntem
+a observação | gözlem | isim (d) | A observação das aves durou três meses no Pantanal. | Kuşların gözlemi Pantanal'da üç ay sürdü.
+a experimentação | deney yapma | isim (d) | A experimentação com animais é cada vez mais controlada. | Hayvanlar üzerinde deney yapma giderek daha sıkı denetleniyor.
+a verificação | doğrulama | isim (d) | Os dados passaram por uma verificação independente. | Veriler bağımsız bir doğrulamadan geçti.
+a comprovação | kanıtlama, ispat | isim (d) | Ainda não há comprovação científica de que o chá cura gripe. | Çayın gribi iyileştirdiğine dair henüz bilimsel bir kanıt yok.
+a previsão | öngörü, tahmin | isim (d) | A previsão dos cientistas se confirmou dez anos depois. | Bilim insanlarının öngörüsü on yıl sonra doğrulandı.
+o teste | test, deneme | isim (e) | O novo remédio ainda está na fase de testes. | Yeni ilaç hâlâ test aşamasında.
+o grupo de controle | kontrol grubu | isim (e) | O grupo de controle recebeu apenas água com açúcar. | Kontrol grubuna yalnızca şekerli su verildi.
+o procedimento | işlem, prosedür | isim (e) | Todos devem seguir o mesmo procedimento no laboratório. | Laboratuvarda herkes aynı prosedürü izlemeli.
+a replicação | tekrarlama (deney) | isim (d) | A replicação do estudo em outro país teve resultados diferentes. | Çalışmanın başka bir ülkede tekrarlanması farklı sonuçlar verdi.
+o parâmetro | parametre, ölçüt | isim (e) | Mudamos um parâmetro e o resultado do teste mudou. | Bir parametreyi değiştirdik ve test sonucu değişti.
+## Akademik yayın
+o estudo | çalışma (araştırma) | isim (e) | Um estudo recente mostrou os benefícios da caminhada diária. | Yakın tarihli bir çalışma günlük yürüyüşün faydalarını gösterdi.
+o artigo científico | bilimsel makale | isim (e) | Ela publicou seu primeiro artigo científico aos vinte e quatro anos. | İlk bilimsel makalesini yirmi dört yaşında yayımladı.
+a revista científica | bilimsel dergi | isim (d) | A descoberta saiu numa importante revista científica internacional. | Keşif önemli bir uluslararası bilim dergisinde yayımlandı.
+a publicação | yayın | isim (d) | A publicação dos resultados está prevista para o próximo ano. | Sonuçların yayımlanması gelecek yıl için planlanıyor.
+a bibliografia | kaynakça | isim (d) | A bibliografia do curso tem livros em português e inglês. | Dersin kaynakçasında Portekizce ve İngilizce kitaplar var.
+o coautor | ortak yazar | isim (e) | Ele é coautor de um livro sobre as aves do Cerrado. | Cerrado kuşları hakkındaki bir kitabın ortak yazarı.
+a pesquisa de campo | saha araştırması | isim (d) | A pesquisa de campo foi feita em comunidades ribeirinhas. | Saha araştırması nehir kıyısındaki topluluklarda yapıldı.
+o projeto de pesquisa | araştırma projesi | isim (e) | O projeto de pesquisa recebeu financiamento por três anos. | Araştırma projesi üç yıllık finansman aldı.
+a iniciação científica | lisans öğrencisi araştırma programı | isim (d) | Na faculdade, ela fez iniciação científica em química. | Üniversitede kimya alanında öğrenci araştırma programına katıldı.
+o simpósio | sempozyum | isim (e) | O simpósio reuniu pesquisadores de todo o país. | Sempozyum ülkenin her yerinden araştırmacıları bir araya getirdi.
+## Keşifler ve icatlar
+a invenção | icat | isim (d) | A invenção do avião mudou a forma de viajar. | Uçağın icadı seyahat etme biçimini değiştirdi.
+o inventor | mucit | isim (e) | O inventor apresentou uma máquina que limpa rios. | Mucit nehirleri temizleyen bir makine tanıttı.
+inventar | icat etmek | fiil | Quem inventou o chuveiro elétrico foi um brasileiro. | Elektrikli duşu icat eden bir Brezilyalıydı.
+a patente | patent | isim (d) | A universidade registrou a patente do novo material. | Üniversite yeni malzemenin patentini tescil ettirdi.
+o avanço | ilerleme, gelişme | isim (e) | Os avanços da medicina aumentaram a expectativa de vida. | Tıptaki ilerlemeler yaşam beklentisini artırdı.
+o progresso | ilerleme | isim (e) | O progresso da pesquisa depende de mais investimento. | Araştırmanın ilerlemesi daha fazla yatırıma bağlı.
+o feito | başarı, kahramanlık | isim (e) | Pousar na Lua foi um feito histórico da humanidade. | Ay'a inmek insanlığın tarihî bir başarısıydı.
+o pioneiro | öncü | isim (e) | Ele foi um pioneiro no estudo das doenças tropicais. | Tropik hastalıkların incelenmesinde bir öncüydü.
+o prêmio Nobel | Nobel ödülü | isim (e) | Ela sonha em ganhar o prêmio Nobel de química um dia. | Bir gün Nobel kimya ödülünü kazanmayı hayal ediyor.
+a penicilina | penisilin | isim (d) | A descoberta da penicilina foi quase um acidente de laboratório. | Penisilinin keşfi neredeyse bir laboratuvar kazasıydı.
+## Fizik ve kimya
+a força | kuvvet, güç | isim (d) | A força da correnteza arrastou o barco para longe. | Akıntının gücü tekneyi uzağa sürükledi.
+a massa | kütle | isim (d) | Um objeto tem a mesma massa na Terra e na Lua. | Bir cismin kütlesi Dünya'da ve Ay'da aynıdır.
+o átomo | atom | isim (e) | Tudo o que existe é formado por átomos. | Var olan her şey atomlardan oluşur.
+a molécula | molekül | isim (d) | Uma molécula de água tem dois átomos de hidrogênio. | Bir su molekülünde iki hidrojen atomu vardır.
+o ácido | asit | isim (e) | O suco de limão tem ácido cítrico. | Limon suyunda sitrik asit bulunur.
+a pressão | basınç | isim (d) | No fundo do mar, a pressão da água é enorme. | Denizin dibinde suyun basıncı muazzamdır.
+a radiação | radyasyon, ışınım | isim (d) | O protetor solar protege a pele da radiação ultravioleta. | Güneş kremi cildi morötesi ışınımdan korur.
+o magnetismo | manyetizma | isim (e) | A bússola funciona graças ao magnetismo da Terra. | Pusula Dünya'nın manyetizması sayesinde çalışır.
+a eletricidade | elektrik | isim (d) | A eletricidade chegou à vila só nos anos noventa. | Elektrik köye ancak doksanlı yıllarda geldi.
+a densidade | yoğunluk | isim (d) | O óleo flutua porque tem densidade menor que a água. | Yağ sudan düşük yoğunlukta olduğu için yüzer.
+## Biyoloji
+o organismo | organizma | isim (e) | O organismo humano precisa de água para funcionar. | İnsan organizmasının çalışması için suya ihtiyacı vardır.
+a bactéria | bakteri | isim (d) | Algumas bactérias são boas para o nosso intestino. | Bazı bakteriler bağırsaklarımız için faydalıdır.
+o fungo | mantar (organizma) | isim (e) | O fungo se espalhou pela parede úmida do banheiro. | Mantar banyonun nemli duvarına yayıldı.
+o micro-organismo | mikroorganizma | isim (e) | Os micro-organismos do solo ajudam as plantas a crescer. | Topraktaki mikroorganizmalar bitkilerin büyümesine yardım eder.
+os seres vivos | canlılar | isim (çoğul) | Todos os seres vivos dependem do sol de alguma forma. | Tüm canlılar bir şekilde güneşe bağımlıdır.
+a evolução | evrim | isim (d) | A teoria da evolução explica a diversidade das espécies. | Evrim teorisi türlerin çeşitliliğini açıklar.
+a seleção natural | doğal seçilim | isim (d) | Pela seleção natural, sobrevivem os mais adaptados. | Doğal seçilimle en iyi uyum sağlayanlar hayatta kalır.
+a reprodução | üreme | isim (d) | A reprodução das tartarugas acontece nas praias do Nordeste. | Kaplumbağaların üremesi Kuzeydoğu plajlarında gerçekleşir.
+o ciclo de vida | yaşam döngüsü | isim (e) | O ciclo de vida da borboleta tem quatro fases. | Kelebeğin yaşam döngüsü dört evreden oluşur.
+o parasita | parazit | isim (e) | O parasita vive dentro do intestino do animal. | Parazit hayvanın bağırsağında yaşar.
+## Matematik ve veriler
+a equação | denklem | isim (d) | O aluno resolveu a equação em menos de um minuto. | Öğrenci denklemi bir dakikadan kısa sürede çözdü.
+a porcentagem | yüzde | isim (d) | Qual é a porcentagem de jovens que leem jornal? | Gazete okuyan gençlerin yüzdesi ne kadar?
+a proporção | oran | isim (d) | A proporção de mulheres na engenharia aumentou. | Mühendislikte kadınların oranı arttı.
+o gráfico | grafik | isim (e) | O gráfico mostra o aumento das chuvas desde 1990. | Grafik 1990'dan beri yağışlardaki artışı gösteriyor.
+a tabela | tablo, çizelge | isim (d) | Os resultados estão na tabela no fim do relatório. | Sonuçlar raporun sonundaki tabloda.
+a soma | toplam; toplama | isim (d) | A soma de todos os gastos passou de mil reais. | Bütün harcamaların toplamı bin reali geçti.
+a subtração | çıkarma | isim (d) | Meu filho já sabe fazer subtração com números grandes. | Oğlum büyük sayılarla çıkarma yapmayı biliyor artık.
+a multiplicação | çarpma | isim (d) | A tabuada ajuda as crianças a aprender a multiplicação. | Çarpım tablosu çocukların çarpmayı öğrenmesine yardım eder.
+a fração | kesir | isim (d) | Metade é a fração que representa um dividido por dois. | Yarım, bir bölü ikiyi gösteren kesirdir.
+a estimativa | tahmin, kestirim | isim (d) | Pela estimativa, a obra vai custar dois milhões. | Tahmine göre inşaat iki milyona mal olacak.
+## Araştırma fiilleri
+testar | test etmek | fiil | A empresa testou o carro elétrico nas estradas do sertão. | Şirket elektrikli arabayı Sertão yollarında test etti.
+constatar | tespit etmek | fiil | Os médicos constataram uma melhora rápida nos pacientes. | Doktorlar hastalarda hızlı bir iyileşme tespit etti.
+classificar | sınıflandırmak | fiil | O biólogo classificou mais de cem espécies de besouros. | Biyolog yüzden fazla böcek türünü sınıflandırdı.
+estimar | tahmin etmek | fiil | Os cientistas estimam que a floresta tem milhões de espécies. | Bilim insanları ormanda milyonlarca tür olduğunu tahmin ediyor.
+prever | öngörmek | fiil | É difícil prever quando vai acontecer o próximo terremoto. | Bir sonraki depremin ne zaman olacağını öngörmek zor.
+formular | formüle etmek, oluşturmak | fiil | O grupo formulou uma nova teoria sobre o clima. | Grup iklim hakkında yeni bir kuram oluşturdu.
+elaborar | hazırlamak, geliştirmek | fiil | A equipe elaborou um plano para proteger as nascentes. | Ekip su kaynaklarını korumak için bir plan hazırladı.
+descobrir | keşfetmek, bulmak | fiil | Os pesquisadores descobriram uma nova espécie de sapo. | Araştırmacılar yeni bir kurbağa türü keşfetti.
+quantificar | ölçmek, sayısallaştırmak | fiil | É difícil quantificar o impacto da música na saúde. | Müziğin sağlık üzerindeki etkisini ölçmek zor.
+isolar | ayrıştırmak, yalıtmak | fiil | Os cientistas conseguiram isolar o vírus em laboratório. | Bilim insanları virüsü laboratuvarda ayrıştırmayı başardı.
+## Bilimsel sıfatlar
+experimental | deneysel | sıfat | O tratamento ainda é experimental e não está nos hospitais. | Tedavi hâlâ deneysel ve hastanelerde yok.
+rigoroso | titiz, sıkı | sıfat | O controle de qualidade da vacina é muito rigoroso. | Aşının kalite kontrolü çok sıkı.
+sistemático | sistematik | sıfat | Fizemos uma revisão sistemática de todos os estudos anteriores. | Önceki bütün çalışmaların sistematik bir incelemesini yaptık.
+comprovado | kanıtlanmış | sıfat | É um fato comprovado que fumar faz mal à saúde. | Sigara içmenin sağlığa zararlı olduğu kanıtlanmış bir gerçek.
+hipotético | varsayımsal | sıfat | Vamos pensar num caso hipotético para entender a regra. | Kuralı anlamak için varsayımsal bir durum düşünelim.
+estatístico | istatistiksel | sıfat | A diferença entre os grupos não foi estatisticamente relevante. | Gruplar arasındaki fark istatistiksel olarak anlamlı değildi.
+aplicado | uygulamalı | sıfat | Ele trabalha com matemática aplicada à economia. | Ekonomiye uygulanan matematik üzerine çalışıyor.
+fundamental | temel, çok önemli | sıfat | A água é fundamental para qualquer forma de vida. | Su her yaşam biçimi için temel önemdedir.
+inconclusivo | sonuçsuz, kesin olmayan | sıfat | Os primeiros testes foram inconclusivos e precisaram ser repetidos. | İlk testler kesin sonuç vermedi ve tekrarlanmaları gerekti.
+significativo | anlamlı, kayda değer | sıfat | Houve uma redução significativa da poluição no rio. | Nehirdeki kirlilikte kayda değer bir azalma oldu.
+## Bilim insanları
+o físico | fizikçi | isim (e) | O físico explicou a teoria de um jeito que todos entenderam. | Fizikçi kuramı herkesin anlayacağı şekilde açıkladı.
+o químico | kimyager | isim (e) | A química trabalha no controle de qualidade de uma fábrica. | Kimyager bir fabrikada kalite kontrolünde çalışıyor.
+o biólogo | biyolog | isim (e) | O biólogo passou um ano estudando os botos do rio Negro. | Biyolog bir yıl boyunca Negro Nehri'nin yunuslarını inceledi.
+o matemático | matematikçi | isim (e) | O matemático resolveu um problema que tinha cem anos. | Matematikçi yüz yıllık bir problemi çözdü.
+o astrônomo | gökbilimci | isim (e) | Os astrônomos observaram uma estrela nova perto da Via Láctea. | Gökbilimciler Samanyolu yakınında yeni bir yıldız gözlemledi.
+o geólogo | jeolog | isim (e) | O geólogo analisou as rochas da chapada. | Jeolog yaylanın kayalarını inceledi.
+o meteorologista | meteorolog | isim (e) | A meteorologista previu chuva forte para o fim de semana. | Meteorolog hafta sonu için şiddetli yağış öngördü.
+o instituto de pesquisa | araştırma enstitüsü | isim (e) | O instituto de pesquisa estuda as doenças tropicais desde 1900. | Araştırma enstitüsü 1900'den beri tropik hastalıkları inceliyor.
+a comunidade científica | bilim camiası | isim (d) | A comunidade científica comemorou a nova descoberta. | Bilim camiası yeni keşfi kutladı.
+o divulgador científico | bilimi yaygınlaştıran kişi | isim (e) | O divulgador científico explica física em vídeos curtos. | Bilim iletişimcisi fiziği kısa videolarla anlatıyor.
+## Bilim ifadeleri
+em teoria | teoride | ifade | Em teoria, o plano funciona, mas nunca foi testado. | Teoride plan işe yarıyor ama hiç test edilmedi.
+à risca | harfiyen | ifade | Siga o protocolo à risca para não contaminar as amostras. | Numuneleri kirletmemek için protokole harfiyen uyun.
+a olho nu | çıplak gözle | ifade | Esse planeta pode ser visto a olho nu ao amanhecer. | Bu gezegen şafakta çıplak gözle görülebilir.
+por tentativa e erro | deneme yanılmayla | ifade | Ele aprendeu a consertar computadores por tentativa e erro. | Bilgisayar tamir etmeyi deneme yanılmayla öğrendi.
+pôr à prova | sınamak | ifade | O novo motor foi posto à prova numa corrida de mil quilômetros. | Yeni motor bin kilometrelik bir yarışta sınandı.
+tirar a prova dos nove | sağlamasını yapmak | deyim | Refaça a conta para tirar a prova dos nove. | Sağlamasını yapmak için hesabı tekrarla.
+ir a fundo | derinine inmek | ifade | A cientista quer ir a fundo na questão da água. | Bilim insanı su meselesinin derinine inmek istiyor.
+em larga escala | geniş çapta | ifade | A vacina começou a ser produzida em larga escala. | Aşı geniş çapta üretilmeye başlandı.
+passo a passo | adım adım | ifade | O professor explicou o experimento passo a passo. | Öğretmen deneyi adım adım açıkladı.
+de ponta | son teknoloji, ileri düzey | ifade | O hospital usa equipamentos de ponta nas cirurgias. | Hastane ameliyatlarda son teknoloji cihazlar kullanıyor.
