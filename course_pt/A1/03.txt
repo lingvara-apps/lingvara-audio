@@ -1,0 +1,111 @@
+# UNIT: Sayılar ve zaman | Rakamlar, saat, günler, aylar
+## Sayılar 11-20
+onze | on bir | sayı | Tenho onze anos. | On bir yaşındayım.
+doze | on iki | sayı | O livro tem doze capítulos. | Kitabın on iki bölümü var.
+treze | on üç | sayı | O trem chega às treze horas. | Tren saat on üçte varıyor.
+quatorze | on dört | sayı | Comprei quatorze laranjas. | On dört portakal satın aldım.
+quinze | on beş | sayı | A aula começa às quinze. | Ders saat on beşte başlıyor.
+dezesseis | on altı | sayı | Ela tem dezesseis bonecas. | Onun on altı bebeği var.
+dezessete | on yedi | sayı | O ônibus tem dezessete lugares. | Otobüste on yedi koltuk var.
+dezoito | on sekiz | sayı | Ele trabalha dezoito horas por semana. | O haftada on sekiz saat çalışıyor.
+dezenove | on dokuz | sayı | O prédio tem dezenove andares. | Binanın on dokuz katı var.
+vinte | yirmi | sayı | A blusa custa vinte reais. | Bluz yirmi real tutuyor.
+## Onluklar
+trinta | otuz | sayı | O período de março tem trinta dias. | Mart ayı otuz gündür.
+quarenta | kırk | sayı | Meu tio tem quarenta anos. | Amcam kırk yaşında.
+cinquenta | elli | sayı | O hotel tem cinquenta quartos. | Otelin elli odası var.
+sessenta | altmış | sayı | Uma hora tem sessenta minutos. | Bir saat altmış dakikadır.
+setenta | yetmiş | sayı | A avó tem setenta anos. | Büyükanne yetmiş yaşında.
+oitenta | seksen | sayı | O museu tem oitenta pinturas. | Müzede seksen tablo var.
+noventa | doksan | sayı | O avô tem noventa anos. | Büyükbaba doksan yaşında.
+cem | yüz | sayı | A cidade tem cem anos. | Şehir yüz yaşında.
+duzentos | iki yüz | sayı | O dicionário tem duzentos páginas. | Sözlüğün iki yüz sayfası var.
+mil | bin | sayı | O estádio tem mil lugares. | Stadyumun bin yeri var.
+## Haftanın günleri
+a segunda-feira | pazartesi | isim (d) | Na segunda-feira começo a trabalhar. | Pazartesi günü çalışmaya başlıyorum.
+a terça-feira | salı | isim (d) | A reunião é na terça-feira. | Toplantı salı günü.
+a quarta-feira | çarşamba | isim (d) | Vamos ao cinema na quarta-feira. | Çarşamba günü sinemaya gidiyoruz.
+a quinta-feira | perşembe | isim (d) | Tenho aula de piano na quinta-feira. | Perşembe günü piyano dersim var.
+a sexta-feira | cuma | isim (d) | A festa é na sexta-feira. | Parti cuma günü.
+o sábado | cumartesi | isim (e) | No sábado fico em casa. | Cumartesi günü evde kalıyorum.
+o domingo | pazar | isim (e) | O mercado fecha no domingo. | Pazar günü market kapalı.
+o dia útil | hafta içi | isim (e) | O banco abre no dia útil. | Banka hafta içi açılır.
+o fim de semana | hafta sonu | isim (e) | O que fazes no fim de semana? | Hafta sonu ne yapıyorsun?
+diariamente | günlük olarak | zarf | O jornal sai diariamente. | Gazete günlük olarak çıkıyor.
+## Aylar
+o janeiro | ocak | isim (e) | Janeiro é o primeiro período do ano. | Ocak yılın ilk ayıdır.
+o fevereiro | şubat | isim (e) | O carnaval é em fevereiro. | Karnaval şubat ayındadır.
+o março | mart | isim (e) | Em março começa a primavera. | Mart ayında ilkbahar başlar.
+o abril | nisan | isim (e) | Em abril chove muito em Lisboa. | Nisan ayında Lizbon'da çok yağmur yağar.
+o maio | mayıs | isim (e) | O meu aniversário é em maio. | Doğum günüm mayıs ayında.
+o junho | haziran | isim (e) | Em junho os dias são longos. | Haziran ayında günler uzundur.
+o julho | temmuz | isim (e) | Viajamos para a praia em julho. | Temmuz ayında sahile seyahat ediyoruz.
+o agosto | ağustos | isim (e) | Agosto é um período muito quente. | Ağustos çok sıcak bir aydır.
+o setembro | eylül | isim (e) | Em setembro as crianças voltam à escola. | Eylül ayında çocuklar okula döner.
+o outubro | ekim | isim (e) | As folhas caem em outubro. | Yapraklar ekim ayında dökülür.
+## Diğer aylar ve mevsimler
+o novembro | kasım | isim (e) | Em novembro o tempo esfria. | Kasım ayında hava soğur.
+o dezembro | aralık | isim (e) | O Natal é em dezembro. | Noel aralık ayındadır.
+a estação | mevsim | isim (d) | Qual é a tua estação favorita? | En sevdiğin mevsim hangisi?
+a primavera | ilkbahar | isim (d) | A primavera traz muitas flores. | İlkbahar birçok çiçek getirir.
+o verão | yaz | isim (e) | No verão vamos nadar no mar. | Yazın denizde yüzmeye gideriz.
+o outono | sonbahar | isim (e) | O outono pinta as árvores de amarelo. | Sonbahar ağaçları sarıya boyar.
+o inverno | kış | isim (e) | No inverno usamos casacos grossos. | Kışın kalın montlar giyeriz.
+o período | ay (süreç) | isim (e) | Este período tem trinta e um dias. | Bu ay otuz bir gündür.
+o ciclo | yıl (döngü) | isim (e) | O ciclo tem doze meses. | Yılın on iki ayı vardır.
+a data | tarih | isim (d) | Qual é a data de hoje? | Bugünün tarihi nedir?
+## Zaman birimleri
+o segundo | saniye | isim (e) | Espere apenas um segundo. | Sadece bir saniye bekleyin.
+o momento | an | isim (e) | Estou ocupado neste momento. | Şu anda meşgulüm.
+o tempo | saat (süre) | isim (e) | O voo dura duas horas. | Uçuş iki saat sürüyor.
+o trecho | dönem | isim (e) | Este é um trecho difícil. | Bu zor bir dönem.
+o século | yüzyıl | isim (e) | Vivemos no século XXI. | Yirmi birinci yüzyılda yaşıyoruz.
+o futuro | gelecek | isim (e) | Pensamos no futuro com esperança. | Geleceğe umutla bakıyoruz.
+o passado | geçmiş | isim (e) | O passado ensina lições importantes. | Geçmiş önemli dersler öğretir.
+o instante | şimdi (an) | isim (e) | O importante é viver o instante. | Önemli olan şimdiyi yaşamaktır.
+a eternidad | sonsuzluk | isim (d) | O amor parece uma eternidad. | Aşk sonsuzluk gibi görünür.
+a frequência | sıklık | isim (d) | Qual é a frequência do trem? | Trenin sıklığı nedir?
+## Saatler ve zaman zarfları
+cedo | erken | zarf | Acordo cedo todos os dias. | Her gün erken uyanırım.
+tarde | geç | zarf | Cheguei tarde ao trabalho. | İşe geç ulaştım.
+pontual | dakik | sıfat | O professor é sempre pontual. | Öğretmen her zaman dakiktir.
+brevemente | yakında | zarf | Nos veremos brevemente. | Yakında görüşeceğiz.
+frequentemente | sık sık | zarf | Visito os meus avós frequentemente. | Büyükannemi ve büyükbabamı sık sık ziyaret ederim.
+raramente | nadiren | zarf | Raramente como doces. | Nadiren tatlı yerim.
+ontem | dün | zarf | Ontem fomos ao teatro. | Dün tiyatroya gittik.
+amanhã | yarın | zarf | Amanhã faremos uma viagem. | Yarın bir yolculuk yapacağız.
+imediatamente | hemen | zarf | Preciso da resposta imediatamente. | Hemen cevaba ihtiyacım var.
+atrasado | geç kalmış | sıfat | O trem está atrasado. | Tren gecikti.
+## Sıklık ve süre
+breve | kısa | sıfat | Fizemos uma breve paragem. | Kısa bir mola verdik.
+eterno | sonsuz | sıfat | Não há nada eterno. | Sonsuz olan hiçbir şey yoktur.
+constante | sürekli | sıfat | Há um barulho constante na rua. | Sokakta sürekli bir gürültü var.
+continuo | kesintisiz | sıfat | A chuva é contínua hoje. | Bugün yağmur kesintisiz.
+periódico | dönemsel | sıfat | Recebemos um relatório periódico. | Dönemsel bir rapor alıyoruz.
+habitual | alışılagelmiş | sıfat | Este é o meu caminho habitual. | Bu benim alışılagelmiş yolum.
+anual | yıllık | sıfat | Temos uma reunião anual. | Yıllık bir toplantımız var.
+mensal | aylık | sıfat | O pagamento é mensal. | Ödeme aylık.
+diário | günlük | sıfat | Leio o jornal diário. | Günlük gazeteyi okuyorum.
+pontualidade | dakiklik | isim (d) | A pontualidade é muito importante. | Dakiklik çok önemlidir.
+## Takvim e planlama
+o calendário | takvim | isim (e) | Olho para o calendário na parede. | Duvardaki takvime bakıyorum.
+a agenda | ajanda | isim (d) | Anoto tudo na minha agenda. | Her şeyi ajandama not ediyorum.
+o horário | program, tarife | isim (e) | O horário dos trens mudou. | Trenlerin tarifesi değişti.
+o plano | plan | isim (e) | Temos um bom plano para o fim de semana. | Hafta sonu için iyi bir planımız var.
+o prazo | vade, süre | isim (e) | O prazo termina na sexta-feira. | Vade cuma günü sona eriyor.
+a data limite | son tarih | isim (d) | A data limite para inscrição é hoje. | Kayıt için son tarih bugün.
+o compromisso | buluşma | isim (e) | O nosso compromisso é às dez horas. | Buluşmamız saat onda.
+a reunião | toplantı | isim (d) | A reunião dura uma hora. | Toplantı bir saat sürüyor.
+a pausa | mola | isim (d) | Fazemos uma pausa para o café. | Kahve için bir mola veriyoruz.
+o evento | etkinlik | isim (e) | O evento começa no sábado. | Etkinlik cumartesi günü başlıyor.
+## Zaman akışı
+o amanhecer | şafak | isim (e) | Acordamos com o amanhecer. | Şafak vakti uyanıyoruz.
+o período diurno | gün | isim (e) | O período diurno está muito bonito. | Gün çok güzel.
+a tarde | öğleden sonra | isim (d) | Trabalhamos toda a tarde. | Bütün öğleden sonra çalışıyoruz.
+a noite | gece | isim (d) | As estrelas brilham à noite. | Yıldızlar gece parlar.
+a meia-noite | gece yarısı | isim (d) | O filme termina à meia-noite. | Film gece yarısı biter.
+o crepúsculo | alacakaranlık | isim (e) | O sol desaparece no crepúsculo. | Güneş alacakaranlıkta kaybolur.
+a hora certa | tam zamanında | ifade | Chegamos à hora certa. | Tam zamanında vardık.
+a pressa | acele | isim (d) | Não tens pressa, temos tempo. | Acelen yok, vaktimiz var.
+o compasso | tempo (müzik/ritim) | isim (e) | A música tem um compasso alegre. | Müziğin neşeli bir temposu var.
+a duração | süre | isim (d) | Qual é a duração do filme? | Filmin süresi ne kadar?
