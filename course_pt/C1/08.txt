@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve tasarım
+o projeto arquitetônico | mimari proje | isim (e) | O projeto arquitetônico foi aprovado pela prefeitura sem alterações. | Mimari proje belediye tarafından değişiklik yapılmadan onaylandı.
+a planta baixa | kat planı | isim (d) | Na planta baixa, a cozinha aparece integrada à sala. | Kat planında mutfak salonla birleşik görünüyor.
+o corte transversal | enine kesit | isim (e) | O corte transversal mostra a altura de cada pavimento do edifício. | Enine kesit binanın her katının yüksekliğini gösteriyor.
+a fachada | cephe | isim (d) | A fachada de azulejos portugueses foi totalmente restaurada. | Portekiz çinileriyle kaplı cephe tamamen restore edildi.
+a maquete | maket | isim (d) | Os estudantes apresentaram a maquete do novo museu. | Öğrenciler yeni müzenin maketini sundu.
+o memorial descritivo | teknik şartname, proje açıklaması | isim (e) | O memorial descritivo detalha todos os materiais da obra. | Teknik şartname inşaattaki bütün malzemeleri ayrıntılıyor.
+a cota | kot, ölçü (çizimde) | isim (d) | Confira a cota do piso acabado antes de instalar as portas. | Kapıları takmadan önce bitmiş döşeme kotunu kontrol edin.
+a compatibilização de projetos | projelerin koordinasyonu | isim (d) | A compatibilização de projetos evitou conflitos entre vigas e tubulações. | Projelerin koordinasyonu kirişlerle borular arasındaki çakışmaları önledi.
+o pé-direito | kat yüksekliği (tavan) | isim (e) | O apartamento antigo tem pé-direito de quase quatro metros. | Eski dairenin tavan yüksekliği neredeyse dört metre.
+o alvará de construção | yapı ruhsatı | isim (e) | Sem o alvará de construção, a obra não pode começar. | Yapı ruhsatı olmadan inşaat başlayamaz.
+## Taşıyıcı sistem
+a estrutura | taşıyıcı sistem, yapı | isim (d) | A estrutura do prédio é de concreto armado. | Binanın taşıyıcı sistemi betonarmedir.
+a viga | kiriş | isim (d) | A viga principal sustenta o peso de toda a laje. | Ana kiriş bütün döşemenin yükünü taşıyor.
+o pilar | kolon | isim (e) | Um pilar foi reforçado depois que surgiram rachaduras. | Çatlaklar ortaya çıkınca bir kolon güçlendirildi.
+a laje | döşeme (beton plak) | isim (d) | A concretagem da laje do terceiro andar será amanhã. | Üçüncü katın döşeme betonu yarın dökülecek.
+o concreto armado | betonarme | isim (e) | O concreto armado combina a resistência do aço e do concreto. | Betonarme çeliğin ve betonun dayanımını birleştirir.
+o vergalhão | inşaat demiri | isim (e) | O preço do vergalhão subiu e atrasou várias obras. | İnşaat demirinin fiyatı yükseldi ve birçok inşaatı geciktirdi.
+a armadura | donatı | isim (d) | O engenheiro conferiu a armadura antes da concretagem. | Mühendis beton dökümünden önce donatıyı kontrol etti.
+a carga | yük | isim (d) | Os cálculos consideram a carga do vento e das pessoas. | Hesaplar rüzgâr yükünü ve insan yükünü dikkate alıyor.
+o balanço | konsol, çıkma | isim (e) | A varanda em balanço parece flutuar sobre o jardim. | Konsol balkon bahçenin üzerinde süzülüyormuş gibi görünüyor.
+a junta de dilatação | genleşme derzi | isim (d) | A junta de dilatação evita fissuras causadas pelo calor. | Genleşme derzi sıcaklığın yol açtığı çatlakları önler.
+## Temel ve zemin
+a fundação | temel | isim (d) | A fundação profunda foi necessária por causa do solo argiloso. | Killi zemin nedeniyle derin temel gerekti.
+a estaca | kazık | isim (d) | As estacas chegam a vinte metros de profundidade. | Kazıklar yirmi metre derinliğe kadar iniyor.
+a sapata | tekil temel (pabuç) | isim (d) | Em solo firme, a sapata é a solução mais econômica. | Sağlam zeminde tekil temel en ekonomik çözümdür.
+a sondagem | zemin etüdü, sondaj | isim (d) | A sondagem revelou água a apenas dois metros da superfície. | Zemin etüdü yüzeyin yalnızca iki metre altında su olduğunu gösterdi.
+a escavação | kazı | isim (d) | A escavação do subsolo levou mais tempo que o previsto. | Bodrumun kazısı öngörülenden uzun sürdü.
+o aterro | dolgu | isim (e) | O bairro foi construído sobre um aterro à beira da baía. | Mahalle koy kıyısındaki bir dolgu üzerine kuruldu.
+o recalque | oturma (zemin) | isim (e) | O recalque diferencial causou trincas nas paredes. | Farklı oturma duvarlarda çatlaklara neden oldu.
+a contenção | istinat yapısı, iksa | isim (d) | Uma parede de contenção protege o prédio do deslizamento. | Bir istinat duvarı binayı heyelana karşı koruyor.
+o rebaixamento do lençol | yeraltı suyu düşürme | isim (e) | O rebaixamento do lençol exigiu bombas funcionando dia e noite. | Yeraltı suyunu düşürmek gece gündüz çalışan pompalar gerektirdi.
+a terraplenagem | hafriyat ve tesviye | isim (d) | A terraplenagem do terreno durou duas semanas. | Arazinin hafriyat ve tesviyesi iki hafta sürdü.
+## Malzemeler
+o cimento | çimento | isim (e) | Os sacos de cimento precisam ficar longe da umidade. | Çimento torbaları nemden uzak durmalı.
+a argamassa | harç | isim (d) | O pedreiro preparou a argamassa para assentar os tijolos. | Duvarcı tuğlaları örmek için harç hazırladı.
+o tijolo | tuğla | isim (e) | As casas antigas da vila são de tijolo aparente. | Köydeki eski evler sıvasız tuğladandır.
+o bloco de concreto | beton briket | isim (e) | As paredes internas serão de bloco de concreto. | İç duvarlar beton briketten olacak.
+a brita | mıcır, kırma taş | isim (d) | O caminhão descarregou brita e areia na frente da obra. | Kamyon şantiyenin önüne mıcır ve kum boşalttı.
+o aço | çelik | isim (e) | A cobertura do galpão tem estrutura metálica de aço. | Deponun çatısında çelik taşıyıcı sistem var.
+o gesso acartonado | alçıpan | isim (e) | As divisórias do escritório são de gesso acartonado. | Ofisin bölme duvarları alçıpandan.
+a impermeabilização | su yalıtımı | isim (d) | A impermeabilização da laje de cobertura evita infiltrações no último andar. | Çatı döşemesinin su yalıtımı son kattaki sızıntıları önler.
+o isolamento térmico | ısı yalıtımı | isim (e) | O isolamento térmico reduz o gasto com ar-condicionado. | Isı yalıtımı klima harcamasını azaltır.
+o vidro temperado | temperli cam | isim (e) | O guarda-corpo da escada é de vidro temperado. | Merdiven korkuluğu temperli camdan.
+## Şantiye organizasyonu
+o canteiro de obras | şantiye sahası | isim (e) | O canteiro de obras precisa estar sempre limpo e sinalizado. | Şantiye sahası her zaman temiz ve işaretli olmalı.
+o mestre de obras | şantiye şefi (usta başı) | isim (e) | O mestre de obras organiza as equipes logo cedo. | Usta başı ekipleri sabahın erken saatinde düzenler.
+o empreiteiro | yüklenici, müteahhit | isim (e) | O empreiteiro prometeu entregar o prédio em dezoito meses. | Müteahhit binayı on sekiz ayda teslim etmeye söz verdi.
+a construtora | inşaat şirketi | isim (d) | A construtora venceu a licitação para a nova escola. | İnşaat şirketi yeni okul ihalesini kazandı.
+o cronograma físico-financeiro | iş ve ödeme programı | isim (e) | O cronograma físico-financeiro mostra atraso na estrutura. | İş ve ödeme programı kaba inşaatta gecikme gösteriyor.
+a medição | hakediş ölçümü | isim (d) | A fiscalização faz a medição dos serviços no fim do mês. | Kontrol teşkilatı ay sonunda işlerin hakediş ölçümünü yapıyor.
+o diário de obra | şantiye günlüğü | isim (e) | Toda chuva forte é registrada no diário de obra. | Her şiddetli yağmur şantiye günlüğüne kaydedilir.
+a licitação | ihale | isim (d) | A licitação da ponte foi suspensa por suspeita de fraude. | Köprü ihalesi dolandırıcılık şüphesiyle askıya alındı.
+o orçamento de obra | yaklaşık maliyet, keşif | isim (e) | O orçamento de obra subiu por causa do preço do aço. | İnşaat keşif bedeli çelik fiyatı yüzünden yükseldi.
+o aditivo de prazo | süre uzatımı (sözleşme) | isim (e) | A chuva excessiva justificou um aditivo de prazo. | Aşırı yağmur süre uzatımını haklı kıldı.
+## İş makineleri ve ekipman
+a betoneira | beton karıştırıcı | isim (d) | A betoneira quebrou e a concretagem teve que parar. | Beton karıştırıcı bozuldu ve beton dökümü durmak zorunda kaldı.
+a grua | kule vinç | isim (d) | A grua levanta as vigas metálicas até o último andar. | Kule vinç çelik kirişleri son kata kadar kaldırıyor.
+a retroescavadeira | kazıcı yükleyici | isim (d) | A retroescavadeira abriu a vala para a tubulação. | Kazıcı yükleyici boru hattı için hendeği açtı.
+o andaime | iskele | isim (e) | Os pintores trabalham sobre um andaime na fachada. | Boyacılar cephedeki bir iskelede çalışıyor.
+o caminhão-betoneira | transmikser | isim (e) | O caminhão-betoneira chegou com trinta minutos de atraso. | Transmikser otuz dakika gecikmeyle geldi.
+o vibrador de concreto | beton vibratörü | isim (e) | Sem o vibrador de concreto, ficariam bolhas de ar na peça. | Beton vibratörü olmasa elemanda hava boşlukları kalırdı.
+a fôrma | kalıp | isim (d) | As fôrmas de madeira foram retiradas depois de vinte e um dias. | Ahşap kalıplar yirmi bir gün sonra söküldü.
+o escoramento | dikme, payandalama | isim (e) | O escoramento da laje só pode sair quando o concreto curar. | Döşemenin dikmeleri ancak beton priz alınca sökülebilir.
+a trena | şerit metre | isim (d) | O topógrafo conferiu as medidas com uma trena a laser. | Topoğraf ölçüleri lazer metreyle kontrol etti.
+o prumo | çekül | isim (e) | O pedreiro usa o prumo para deixar a parede bem vertical. | Duvarcı duvarı tam dik yapmak için çekül kullanır.
+## Tesisat
+as instalações elétricas | elektrik tesisatı | isim (çoğul) | As instalações elétricas antigas não aguentavam o chuveiro elétrico. | Eski elektrik tesisatı elektrikli duşu kaldıramıyordu.
+as instalações hidrossanitárias | sıhhi tesisat | isim (çoğul) | O projeto de instalações hidrossanitárias prevê reúso da água da chuva. | Sıhhi tesisat projesi yağmur suyunun yeniden kullanılmasını öngörüyor.
+o quadro de distribuição | elektrik dağıtım panosu | isim (e) | Cada apartamento tem seu próprio quadro de distribuição. | Her dairenin kendi dağıtım panosu var.
+o eletroduto | kablo borusu | isim (e) | Os eletrodutos passam por dentro da laje antes da concretagem. | Kablo boruları beton dökülmeden önce döşemenin içinden geçirilir.
+a prumada | düşey tesisat hattı (şaft) | isim (d) | A prumada de esgoto atravessa todos os andares do prédio. | Atık su düşey hattı binanın bütün katlarından geçiyor.
+a fossa séptica | fosseptik | isim (d) | Nas casas de praia sem rede pública, usa-se fossa séptica. | Kamu şebekesi olmayan yazlıklarda fosseptik kullanılır.
+o aterramento | topraklama | isim (e) | O aterramento protege os moradores contra choques elétricos. | Topraklama sakinleri elektrik çarpmasına karşı korur.
+a caixa d'água | su deposu | isim (d) | A caixa d'água fica no alto para garantir pressão nas torneiras. | Su deposu musluklarda basınç sağlamak için yüksekte durur.
+o sistema de combate a incêndio | yangın söndürme sistemi | isim (e) | O sistema de combate a incêndio inclui hidrantes e sprinklers. | Yangın söndürme sistemi hidrantları ve sprinkleri içerir.
+a climatização | iklimlendirme | isim (d) | A climatização do shopping consome muita energia elétrica. | Alışveriş merkezinin iklimlendirmesi çok elektrik tüketiyor.
+## İnce işler
+o reboco | sıva | isim (e) | O reboco precisa secar bem antes da pintura. | Sıva boyadan önce iyice kurumalı.
+o contrapiso | şap | isim (e) | O contrapiso foi nivelado para receber o porcelanato. | Şap porselen karo döşenmesi için düzlendi.
+o revestimento | kaplama | isim (e) | O revestimento cerâmico do banheiro vai até o teto. | Banyonun seramik kaplaması tavana kadar çıkıyor.
+o rejunte | derz dolgusu | isim (e) | O rejunte escuro esconde melhor a sujeira do piso. | Koyu derz dolgusu zemindeki kiri daha iyi gizler.
+a esquadria | doğrama (kapı-pencere) | isim (d) | As esquadrias de alumínio foram instaladas no último mês. | Alüminyum doğramalar son ay takıldı.
+o forro | asma tavan | isim (e) | O forro de gesso esconde a tubulação do ar-condicionado. | Alçı asma tavan klima borularını gizliyor.
+a massa corrida | alçı macunu | isim (d) | Duas demãos de massa corrida deixaram a parede bem lisa. | İki kat alçı macunu duvarı pürüzsüz hâle getirdi.
+a demão | kat (boya) | isim (d) | A parede precisou de três demãos de tinta. | Duvara üç kat boya gerekti.
+o acabamento | ince iş, son işçilik | isim (e) | O acabamento ficou impecável e o cliente adorou. | İnce işçilik kusursuz oldu ve müşteri bayıldı.
+a infiltração | sızıntı, rutubet | isim (d) | A infiltração no teto apareceu depois das chuvas de março. | Tavandaki sızıntı mart yağmurlarından sonra ortaya çıktı.
+## İş güvenliği ve inşaat fiilleri
+o equipamento de proteção individual | kişisel koruyucu donanım | isim (e) | Ninguém entra na obra sem equipamento de proteção individual. | Kişisel koruyucu donanım olmadan kimse şantiyeye girmez.
+o cinto de segurança tipo paraquedista | paraşüt tipi emniyet kemeri | isim (e) | No trabalho em altura, o cinto de segurança tipo paraquedista é obrigatório. | Yüksekte çalışmada paraşüt tipi emniyet kemeri zorunludur.
+o acidente de trabalho | iş kazası | isim (e) | A empresa registrou zero acidente de trabalho neste ano. | Şirket bu yıl sıfır iş kazası kaydetti.
+concretar | beton dökmek | fiil | Vamos concretar a laje amanhã cedo, se não chover. | Yağmur yağmazsa döşemeyi yarın erkenden dökeceğiz.
+assentar | döşemek, örmek (tuğla, karo) | fiil | O pedreiro levou dois dias para assentar o piso da cozinha. | Duvarcı mutfak zeminini döşemek için iki gün harcadı.
+rebocar | sıvamak | fiil | Depois de rebocar as paredes, a equipe começou a pintura. | Duvarları sıvadıktan sonra ekip boyaya başladı.
+escorar | desteklemek, payanda vurmak | fiil | Foi preciso escorar a parede antiga antes da demolição. | Yıkımdan önce eski duvara payanda vurmak gerekti.
+nivelar | tesviye etmek, düzlemek | fiil | É preciso nivelar o terreno antes de marcar as fundações. | Temelleri işaretlemeden önce araziyi tesviye etmek gerekir.
+demolir | yıkmak | fiil | A prefeitura mandou demolir o prédio condenado. | Belediye çürük binanın yıkılmasını emretti.
+vistoriar | denetlemek, muayene etmek | fiil | Os bombeiros vão vistoriar o prédio antes do habite-se. | İtfaiye iskân izninden önce binayı denetleyecek.
+## Mimari ve mekân
+o vão livre | açıklık (kolonsuz) | isim (e) | O museu tem um vão livre de setenta metros sob o edifício. | Müzenin binanın altında yetmiş metrelik kolonsuz bir açıklığı var.
+o pilotis | pilotiler (zemin kat taşıyıcı ayaklar) | isim (e) | Os prédios modernistas de Brasília se apoiam em pilotis. | Brasília'nın modernist binaları pilotilerin üzerinde yükselir.
+o cobogó | cobogó (delikli dekoratif blok) | isim (e) | A parede de cobogó deixa o vento passar e protege do sol. | Cobogó duvar rüzgârı geçirir ve güneşten korur.
+o brise-soleil | güneş kırıcı | isim (e) | O brise-soleil da fachada reduz o calor nos escritórios. | Cephedeki güneş kırıcı ofislerdeki sıcağı azaltıyor.
+o telhado colonial | kiremitli sömürge tarzı çatı | isim (e) | O telhado colonial de telhas de barro é comum em Paraty. | Toprak kiremitli sömürge tarzı çatı Paraty'de yaygındır.
+o urbanismo | şehircilik | isim (e) | O urbanismo de Brasília foi planejado a partir de dois eixos. | Brasília'nın şehirciliği iki eksen üzerinden planlandı.
+o retrofit | yenileme (eski binayı modernleştirme) | isim (e) | O retrofit transformou o antigo hotel em apartamentos. | Yenileme eski oteli dairelere dönüştürdü.
+o tombamento | koruma altına alma (tescil) | isim (e) | O tombamento impede a demolição do casarão histórico. | Tescil tarihî konağın yıkılmasını engelliyor.
+a acessibilidade | erişilebilirlik | isim (d) | A reforma incluiu rampas para garantir a acessibilidade. | Tadilat erişilebilirliği sağlamak için rampaları da kapsadı.
+o habite-se | iskân izni | isim (e) | Sem o habite-se, os moradores não podem se mudar. | İskân izni olmadan sakinler taşınamaz.
