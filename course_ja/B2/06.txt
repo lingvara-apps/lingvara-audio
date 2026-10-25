@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlıklar, ciddi hastalıklar, tedavi, tahliller, ilaçlar, halk sağlığı
+## Uzmanlık alanları
+小児科 (shōnika) | çocuk hastalıkları | isim | 子どもが熱を出したので、小児科に連れて行った。 | Çocuğun ateşi çıkınca çocuk doktoruna götürdüm.
+眼科 (ganka) | göz hastalıkları | isim | 目がかゆくて、眼科で診てもらった。 | Gözüm kaşınınca göz doktoruna muayene oldum.
+耳鼻科 (jibika) | kulak burun boğaz | isim | 花粉症がひどくて、耳鼻科に通っている。 | Saman nezlem çok kötü, KBB'ye gidip geliyorum.
+皮膚科 (hifuka) | dermatoloji | isim | 肌が赤くなったので、皮膚科で薬をもらった。 | Cildim kızarınca dermatologdan ilaç aldım.
+整形外科 (seikei geka) | ortopedi | isim | 膝を痛めて、整形外科でレントゲンを撮った。 | Dizimi incitince ortopedide röntgen çektirdim.
+産婦人科 (sanfujinka) | kadın doğum | isim | 妊娠が分かって、産婦人科に行った。 | Hamile olduğumu öğrenince kadın doğum uzmanına gittim.
+精神科 (seishinka) | psikiyatri | isim | 眠れない日が続いて、精神科を受診した。 | Uykusuz günler sürünce psikiyatriste muayene oldum.
+専門医 (senmon'i) | uzman doktor | isim | 近所の医者に、専門医を紹介してもらった。 | Mahalledeki doktor beni bir uzmana yönlendirdi.
+研修医 (kenshūi) | asistan doktor | isim | 研修医のころは、ほとんど家に帰れなかった。 | Asistan doktorken neredeyse eve gidemiyordum.
+獣医 (jūi) | veteriner | isim | 犬の具合が悪くて、獣医に診てもらった。 | Köpeğim rahatsızlanınca veterinere götürdüm.
+## Ciddi hastalıklar
+がん (gan) | kanser | isim | がんは早く見つければ、治る可能性が高い。 | Kanser erken bulunursa iyileşme olasılığı yüksektir.
+脳卒中 (nōsotchū) | inme, felç | isim | 祖父は脳卒中で倒れたが、命は助かった。 | Dedem inme geçirdi ama hayatı kurtuldu.
+心臓病 (shinzōbyō) | kalp hastalığı | isim | 心臓病を防ぐには、塩分を控えることが大切だ。 | Kalp hastalığını önlemek için tuzu azaltmak önemlidir.
+認知症 (ninchishō) | demans, bunama | isim | 祖母は認知症で、最近は家族の名前も忘れてしまう。 | Büyükannemde demans var, son zamanlarda aile üyelerinin adlarını bile unutuyor.
+結核 (kekkaku) | verem | isim | 昔、結核は治らない病気だと思われていた。 | Eskiden verem tedavi edilemeyen bir hastalık sanılırdı.
+腫瘍 (shuyō) | tümör | isim | 検査で小さな腫瘍が見つかったが、良性だった。 | Tahlilde küçük bir tümör bulundu ama iyi huyluydu.
+白血病 (hakketsubyō) | lösemi | isim | 白血病の患者のために、骨髄の提供者を探している。 | Lösemi hastaları için kemik iliği bağışçısı aranıyor.
+うつ病 (utsubyō) | depresyon | isim | うつ病は、誰でもなる可能性がある病気だ。 | Depresyon herkesin yakalanabileceği bir hastalıktır.
+難病 (nanbyō) | tedavisi zor hastalık | isim | 彼女は難病と闘いながら、明るく生きている。 | Tedavisi zor bir hastalıkla mücadele ederken neşeyle yaşıyor.
+心筋梗塞 (shinkin kōsoku) | kalp krizi | isim | 父は胸の痛みを訴えて、心筋梗塞と診断された。 | Babam göğüs ağrısından şikâyet edince kalp krizi teşhisi kondu.
+## Tedavi ve ameliyat
+投薬 (tōyaku) | ilaç verme | isim | 投薬だけで治るかどうか、様子を見ましょう。 | Sadece ilaçla iyileşip iyileşmeyeceğine bakalım.
+抗生物質 (kōsei busshitsu) | antibiyotik | isim | 抗生物質は、最後まで飲み切ってください。 | Antibiyotiği sonuna kadar içip bitirin.
+抗がん剤 (kōganzai) | kemoterapi ilacı | isim | 抗がん剤の治療で、髪が抜けてしまった。 | Kemoterapi tedavisinde saçlarım döküldü.
+移植 (ishoku) | nakil | isim | 弟は腎臓の移植を受けて、元気になった。 | Kardeşim böbrek nakli olup sağlığına kavuştu.
+輸血 (yuketsu) | kan nakli | isim | 手術中に、大量の輸血が必要になった。 | Ameliyat sırasında büyük miktarda kan nakli gerekti.
+透析 (tōseki) | diyaliz | isim | 祖父は週に三回、病院で透析を受けている。 | Dedem haftada üç kez hastanede diyalize giriyor.
+切除 (setsujo) | çıkarma (ameliyatla) | isim | 胃の一部を切除する手術を受けた。 | Midemin bir kısmını aldıran bir ameliyat geçirdim.
+縫う (nuu) | dikmek | fiil | 指を深く切って、五針縫った。 | Parmağımı derin kesince beş dikiş atıldı.
+治癒 (chiyu) | şifa, iyileşme | isim | 傷の治癒には、一か月ほどかかるそうだ。 | Yaranın iyileşmesi bir ay kadar sürecekmiş.
+術後 (jutsugo) | ameliyat sonrası | isim | 術後の経過は順調だと、医者に言われた。 | Doktor ameliyat sonrası iyileşmenin yolunda gittiğini söyledi.
+## Tahliller ve teşhis
+血液検査 (ketsueki kensa) | kan tahlili | isim | 血液検査の前は、何も食べないでください。 | Kan tahlilinden önce bir şey yemeyin.
+レントゲン (rentogen) | röntgen | isim | 胸のレントゲンを撮ったが、異常はなかった。 | Göğüs röntgeni çektirdim ama bir sorun çıkmadı.
+精密検査 (seimitsu kensa) | ayrıntılı tetkik | isim | 健康診断の結果、精密検査を受けることになった。 | Sağlık kontrolünün sonucunda ayrıntılı tetkik yaptırmam gerekti.
+早期発見 (sōki hakken) | erken teşhis | isim | 病気は早期発見が何より大切だ。 | Hastalıklarda her şeyden önemlisi erken teşhistir.
+陽性 (yōsei) | pozitif | isim | 検査の結果が陽性だったので、一週間家にいた。 | Test sonucu pozitif çıkınca bir hafta evde kaldım.
+陰性 (insei) | negatif | isim | 再検査で陰性になって、ほっとした。 | Tekrar testte negatif çıkınca rahatladım.
+異常 (ijō) | anormallik | isim | 心臓に異常は見つかりませんでした。 | Kalpte bir anormallik bulunmadı.
+正常 (seijō) | normal | isim | 血圧は正常な範囲に戻った。 | Tansiyon normal aralığa döndü.
+診察券 (shinsatsuken) | hasta kartı | isim | 受付で診察券と保険証を出してください。 | Kayıtta hasta kartınızı ve sigorta kartınızı verin.
+問診 (monshin) | hasta öyküsü alma | isim | 問診票に、今の症状を詳しく書いた。 | Hasta formuna mevcut şikâyetlerimi ayrıntılı yazdım.
+## Hastalığın seyri
+発症 (hasshō) | hastalığın başlaması | isim | 発症してから三日以内に、病院に行ってください。 | Belirtiler başladıktan sonra üç gün içinde hastaneye gidin.
+重症 (jūshō) | ağır vaka | isim | 事故にあった人は、重症で病院に運ばれた。 | Kazazede ağır yaralı olarak hastaneye kaldırıldı.
+軽症 (keishō) | hafif vaka | isim | 幸い軽症で、家で休めば治るそうだ。 | Neyse ki hafif bir vakaymış, evde dinlenirse iyileşecekmiş.
+合併症 (gappeishō) | komplikasyon | isim | 糖尿病は、さまざまな合併症を起こすことがある。 | Şeker hastalığı çeşitli komplikasyonlara yol açabilir.
+後遺症 (kōishō) | kalıcı hasar, sekel | isim | 事故の後遺症で、今も足が少し痛む。 | Kazanın kalıcı etkisiyle bacağım hâlâ biraz ağrıyor.
+潜伏期間 (senpuku kikan) | kuluçka dönemi | isim | この病気の潜伏期間は、約一週間だ。 | Bu hastalığın kuluçka dönemi yaklaşık bir haftadır.
+完治 (kanchi) | tamamen iyileşme | isim | 骨折が完治するまで、運動は控えてください。 | Kırık tamamen iyileşene kadar spordan uzak durun.
+危篤 (kitoku) | ölüm döşeğinde, ağır durumda | isim | 祖父が危篤だと聞いて、急いで病院へ向かった。 | Dedemin durumunun çok ağır olduğunu duyunca aceleyle hastaneye koştum.
+容体 (yōdai) | hastanın durumu | isim | 患者の容体は、今は安定している。 | Hastanın durumu şu an stabil.
+経過 (keika) | seyir, gidişat | isim | 一か月後に、経過を見るためにもう一度来てください。 | Bir ay sonra durumu görmek için tekrar gelin.
+## Halk sağlığı
+公衆衛生 (kōshū eisei) | halk sağlığı | isim | 公衆衛生の向上で、多くの病気が減った。 | Halk sağlığının iyileşmesiyle pek çok hastalık azaldı.
+衛生 (eisei) | hijyen | isim | 食べ物を扱う店では、衛生に特に気をつけている。 | Gıdayla uğraşan dükkânlarda hijyene özellikle dikkat ediliyor.
+感染者 (kansensha) | enfekte kişi | isim | 冬になって、インフルエンザの感染者が増えている。 | Kış gelince grip vakaları artıyor.
+ワクチン (wakuchin) | aşı | isim | 新しいワクチンの開発には、何年もかかる。 | Yeni bir aşının geliştirilmesi yıllar sürer.
+集団 (shūdan) | grup, toplu | isim | 学校で集団の食中毒が起きた。 | Okulda toplu gıda zehirlenmesi yaşandı.
+隔離 (kakuri) | karantina, ayırma | isim | 感染した患者は、別の部屋に隔離された。 | Enfekte hastalar ayrı bir odaya alındı.
+消毒 (shōdoku) | dezenfeksiyon | isim | 店の入口で、手の消毒をお願いします。 | Dükkân girişinde ellerinizi dezenfekte edin lütfen.
+蔓延 (man'en) | yayılma, salgın hale gelme | isim | 病気の蔓延を防ぐために、学校が休みになった。 | Hastalığın yayılmasını önlemek için okullar tatil edildi.
+手洗い (tearai) | el yıkama | isim | 外から帰ったら、手洗いとうがいをしよう。 | Dışarıdan dönünce elini yıka ve gargara yap.
+保健 (hoken) | sağlık (koruyucu) | isim | 学校の保健室で、少し休ませてもらった。 | Okulun revirinde biraz dinlenmeme izin verdiler.
+## Sağlık çalışanları ve yerler
+看護 (kango) | hemşirelik, hasta bakımı | isim | 母は長年、看護の仕事を続けてきた。 | Annem yıllardır hemşirelik yapıyor.
+医療従事者 (iryō jūjisha) | sağlık çalışanı | isim | 医療従事者の皆さんに、心から感謝したい。 | Bütün sağlık çalışanlarına içtenlikle teşekkür etmek istiyorum.
+救急隊員 (kyūkyū taiin) | acil sağlık ekibi | isim | 救急隊員が、すぐに応急手当てをしてくれた。 | Acil ekibi hemen ilk yardım yaptı.
+集中治療室 (shūchū chiryōshitsu) | yoğun bakım | isim | 手術の後、父は二日間集中治療室にいた。 | Ameliyattan sonra babam iki gün yoğun bakımda kaldı.
+手術室 (shujutsushitsu) | ameliyathane | isim | 手術室の前で、家族は静かに待っていた。 | Aile ameliyathanenin önünde sessizce bekliyordu.
+外来 (gairai) | poliklinik, ayakta tedavi | isim | 外来の受付は、午前十一時までです。 | Poliklinik kayıtları sabah on bire kadardır.
+総合病院 (sōgō byōin) | genel hastane | isim | 町の総合病院には、二十以上の科がある。 | Kasabanın genel hastanesinde yirmiyi aşkın bölüm var.
+製薬会社 (seiyaku gaisha) | ilaç şirketi | isim | 兄は製薬会社で、新しい薬の研究をしている。 | Ağabeyim bir ilaç şirketinde yeni ilaçlar üzerine araştırma yapıyor.
+介護士 (kaigoshi) | bakım personeli | isim | 介護士の仕事は大変だが、やりがいがある。 | Bakım personelliği zor ama tatmin edici bir iş.
+理学療法士 (rigaku ryōhōshi) | fizyoterapist | isim | 理学療法士と一緒に、歩く練習をしている。 | Fizyoterapistle birlikte yürüme çalışması yapıyorum.
+## İlaçlar
+鎮痛剤 (chintsūzai) | ağrı kesici | isim | 歯が痛くて、鎮痛剤を飲んだ。 | Dişim ağrıyınca ağrı kesici içtim.
+解熱剤 (genetsuzai) | ateş düşürücü | isim | 熱が三十八度を超えたら、解熱剤を使ってください。 | Ateş otuz sekizi geçerse ateş düşürücü kullanın.
+睡眠薬 (suimin'yaku) | uyku ilacı | isim | 睡眠薬に頼らないで眠れるようになりたい。 | Uyku ilacına bağlı kalmadan uyuyabilmek istiyorum.
+漢方薬 (kanpōyaku) | geleneksel bitkisel ilaç | isim | 祖母は風邪をひくと、漢方薬を飲む。 | Büyükannem nezle olunca geleneksel bitkisel ilaç içer.
+市販薬 (shihan'yaku) | reçetesiz ilaç | isim | 市販薬で治らなければ、病院に行ったほうがいい。 | Reçetesiz ilaçla geçmezse hastaneye gitmek daha iyi.
+用量 (yōryō) | doz | isim | 子どもには、大人の半分の用量で十分です。 | Çocuklar için yetişkin dozunun yarısı yeterli.
+服用 (fukuyō) | ilaç kullanma | isim | この薬は、一日三回食後に服用してください。 | Bu ilacı günde üç kez yemekten sonra kullanın.
+効き目 (kikime) | etki, tesir | isim | この薬は効き目が早いが、眠くなる。 | Bu ilaç çabuk etki ediyor ama uyku yapıyor.
+塗り薬 (nurigusuri) | merhem | isim | 虫に刺されたところに、塗り薬をつけた。 | Böcek sokan yere merhem sürdüm.
+粉薬 (konagusuri) | toz ilaç | isim | 子どものころ、苦い粉薬が大嫌いだった。 | Çocukken acı toz ilaçlardan nefret ederdim.
+## Vücut ve risk faktörleri
+体質 (taishitsu) | bünye | isim | 私は太りやすい体質なので、食事に気をつけている。 | Kilo almaya yatkın bir bünyem var, yemeğime dikkat ediyorum.
+抵抗力 (teikōryoku) | direnç | isim | 疲れていると、病気への抵抗力が弱くなる。 | Yorgunken hastalıklara karşı direnç düşer.
+血管 (kekkan) | damar | isim | 年をとると、血管が硬くなりやすい。 | Yaşlandıkça damarlar sertleşmeye yatkın olur.
+血糖値 (kettōchi) | kan şekeri | isim | 甘い物を食べすぎて、血糖値が上がった。 | Fazla tatlı yiyince kan şekerim yükseldi.
+コレステロール (koresuterōru) | kolesterol | isim | 卵を食べすぎると、コレステロールが心配だ。 | Fazla yumurta yiyince kolesterolden endişe ediyorum.
+体脂肪 (taishibō) | vücut yağı | isim | 毎朝、体重と体脂肪を測っている。 | Her sabah kilomu ve vücut yağımı ölçüyorum.
+骨密度 (kotsumitsudo) | kemik yoğunluğu | isim | 年をとると、骨密度が下がって骨折しやすくなる。 | Yaşlandıkça kemik yoğunluğu düşer ve kırık riski artar.
+心拍数 (shinpakusū) | kalp atış hızı | isim | 走った後は、心拍数が百五十まで上がった。 | Koştuktan sonra kalp atışım yüz elliye çıktı.
+体内 (tainai) | vücut içi | isim | 水をたくさん飲むと、体内の悪いものが出ていく。 | Bol su içince vücuttaki zararlı maddeler atılır.
+生活習慣病 (seikatsu shūkanbyō) | yaşam tarzı hastalıkları | isim | 生活習慣病を防ぐには、毎日の運動が欠かせない。 | Yaşam tarzı hastalıklarını önlemek için günlük egzersiz şart.
+## Tıp fiilleri
+患う (wazurau) | hastalığa yakalanmak, muzdarip olmak | fiil | 祖母は長い間、心臓の病気を患っていた。 | Büyükannem uzun süre kalp hastalığından muzdaripti.
+処置する (shochi suru) | müdahale etmek | fiil | 医者がすぐに傷を処置してくれた。 | Doktor yaraya hemen müdahale etti.
+施す (hodokosu) | uygulamak | fiil | 最新の治療を施しても、回復は難しかった。 | En yeni tedavi uygulansa da iyileşmek zordu.
+蘇生 (sosei) | canlandırma | isim | 救急隊員の蘇生で、男性は意識を取り戻した。 | Acil ekibinin canlandırma müdahalesiyle adam bilincini geri kazandı.
+延命 (enmei) | hayatı uzatma | isim | 延命の治療を受けるかどうか、家族で話し合った。 | Hayatı uzatan tedaviyi alıp almayacağımızı ailece konuştuk.
+命を救う (inochi o sukuu) | hayat kurtarmak | deyim | 医者になって、多くの命を救いたい。 | Doktor olup pek çok hayat kurtarmak istiyorum.
+見舞う (mimau) | (hasta) ziyaret etmek | fiil | 入院している友達を見舞いに行った。 | Hastanede yatan arkadaşımı ziyarete gittim.
+衰える (otoroeru) | zayıflamak, gerilemek | fiil | 年をとって、記憶力が衰えてきた。 | Yaşlandıkça hafızam zayıflamaya başladı.
+和らげる (yawarageru) | hafifletmek | fiil | 温かいお風呂は、筋肉の痛みを和らげる。 | Sıcak banyo kas ağrılarını hafifletir.
+弱る (yowaru) | güçsüzleşmek | fiil | 長い入院で、足がすっかり弱ってしまった。 | Uzun süre hastanede yatınca bacaklarım iyice güçsüzleşti.
