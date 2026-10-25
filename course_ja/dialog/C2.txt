@@ -1,0 +1,45 @@
+# DIALOG: İnce üslup ve gerçek hayat | Japonca C2: söyleşi, kriz yönetimi, Kansai ağzı ve taziye | Kaori | Emre
+## Bir yazarla radyo söyleşisi
+A | 本日は、新作を上梓されたばかりの先生にお越しいただきました。ようこそいらっしゃいました。 | Bugün yeni kitabını yayımlamış olan yazarımızı ağırlıyoruz. Hoş geldiniz.
+B | お招きいただき、恐縮です。拙い作品ですが、手に取ってくださった方々には感謝の念に堪えません。 | Davetiniz için teşekkür ederim. Mütevazı bir eser ama okuyanlara minnettarlığımı anlatamam.
+A | ご謙遜を。批評家の間では、先生の最高傑作との呼び声も高いですよ。 | Alçakgönüllülük ediyorsunuz. Eleştirmenler arasında en büyük eseriniz olduğu söyleniyor.
+B | いやいや、身に余るお言葉です。ただ、構想から脱稿まで十年かかりましたので、思い入れはひとしおです。 | Yok canım, hak etmediğim sözler. Ama tasarımdan bitirmeye on yıl sürdüğü için bağlılığım bambaşka.
+A | 舞台は明治の港町ですね。なぜこの時代を選ばれたのでしょうか。 | Eser Meiji döneminde bir liman kasabasında geçiyor. Neden bu dönemi seçtiniz?
+B | 文明開化の光と影、とでも申しましょうか。新しいものに沸き立つ一方で、置き去りにされた人々がいた。そこに惹かれたんです。 | Batılılaşmanın aydınlık ve karanlık yüzü diyebiliriz. Yeniliklerle coşan bir toplumun yanında geride bırakılan insanlar da vardı. Beni çeken buydu.
+A | 主人公の老いた漁師の、寡黙ながらも凛とした佇まいが印象的でした。 | Az konuşan ama vakur duruşlu yaşlı balıkçı kahraman çok etkileyiciydi.
+B | 彼には、私の祖父の面影を投影しています。多くを語らない人でしたが、背中で生き方を教えてくれました。 | Ona dedemin hayalini yansıttım. Çok konuşmayan biriydi ama yaşayışıyla bana yol gösterdi.
+A | 最後に、これから作品を読まれる方へ一言いただけますか。 | Son olarak, eseri okuyacak olanlara bir şey söyler misiniz?
+B | 行間に込めたものを、それぞれの人生に照らして味わっていただければ、作者冥利に尽きます。 | Satır aralarına koyduklarımı kendi hayatlarına göre tadarlarsa bir yazar için bundan büyük mutluluk olamaz.
+## Kriz toplantısı
+A | 例の不具合の件、ネットではすでに炎上していますね。今日中に会見を開くべきではないでしょうか。 | Malum arıza konusu internette şimdiden infial yarattı. Bugün içinde basın toplantısı yapmamız gerekmez mi?
+B | 拙速は禁物です。事実関係を確認しないまま会見に臨めば、かえって火に油を注ぎかねません。 | Aceleye getirmek tehlikeli. Olguları doğrulamadan basının karşısına çıkarsak yangına körükle gitmiş oluruz.
+A | とはいえ、沈黙を続けると、隠蔽していると受け取られる恐れがあります。 | Yine de sessiz kalmayı sürdürürsek bir şeyleri örtbas ediyoruz gibi algılanabilir.
+B | おっしゃる通りです。ではまず、現時点で判明している事実だけを、ホームページで速やかに公表しましょう。 | Haklısınız. O hâlde önce şu an bilinen olguları web sitemizde derhâl açıklayalım.
+A | 謝罪文の文言はどうしますか。「遺憾に思う」では、他人事のように聞こえませんか。 | Özür metninin ifadesi ne olacak? "Üzüntü verici" demek başkasının derdiymiş gibi durmaz mı?
+B | 同感です。「ご迷惑をおかけし、深くお詫び申し上げます」と、主語を明確にすべきでしょう。 | Katılıyorum. "Verdiğimiz rahatsızlık için derin özür dileriz" diye öznesi net olmalı.
+A | 記者からの想定問答も、今夜中に作っておきます。責任の所在を問われるのは必至ですから。 | Gazetecilerin muhtemel sorularına cevapları da bu gece hazırlarım. Sorumluluğun kimde olduğunun sorulacağı kesin.
+B | お願いします。ただし、言い逃れと取られるような曖昧な表現は、一切避けてください。 | Rica ederim. Ancak kaçamak sanılacak belirsiz ifadelerden kesinlikle kaçının.
+A | 承知しました。再発防止策の骨子も、併せて盛り込みます。 | Anlaşıldı. Tekrarını önleme tedbirlerinin ana hatlarını da ekleyeceğim.
+B | 助かります。誠意ある対応こそが、失った信頼を取り戻す唯一の道ですからね。 | Çok iyi olur. Kaybedilen güveni geri kazanmanın tek yolu içtenlikle davranmak.
+## Kansaili arkadaşla
+A | 久しぶりやなあ。元気にしてた？東京の暮らしにはもう慣れたん？ | Uzun zaman oldu! İyi misin? Tokyo hayatına alıştın mı artık?
+B | まあ、ぼちぼちかな。でも満員電車だけは、何年経ってもしんどいわ。 | Eh, idare eder. Ama tıklım tıklım trenlere yıllar geçse de dayanamıyorum.
+A | ほんまにな。こっちはこっちで、相変わらずのんびりしてるで。 | Aynen öyle. Burada da her şey eskisi gibi ağır ağır gidiyor.
+B | ところで、この前言うてた店、行ってみたで。めっちゃうまかったわ。 | Bu arada geçen sefer bahsettiğin dükkâna gittim. Çok lezzetliydi.
+A | せやろ？あそこのお好み焼きは、ほんまにほかとはちゃうねん。 | Değil mi ama? Oranın okonomiyakisi gerçekten başka yerlere benzemiyor.
+B | せやけど、値段見てびっくりしたわ。ちょっと高ない？ | Ama fiyatı görünce şaşırdım. Biraz pahalı değil mi?
+A | なに言うてんねん。あの味であの値段やったら、安いもんやで。 | Ne diyorsun ya. O lezzete o fiyat ucuz bile.
+B | まあ、確かにな。ほな今度は、二人で行こか。 | Eh, haklısın galiba. O zaman bir dahakine beraber gidelim.
+A | ええな。来月そっちに出張あるから、その時にでも寄るわ。 | Olur. Gelecek ay oraya iş seyahatim var, o zaman uğrarım.
+B | ほんま？ほな、楽しみにしてるで。また連絡してな。 | Gerçekten mi? O zaman dört gözle bekliyorum. Yine haber ver.
+## Taziye ziyareti
+A | このたびは、誠にご愁傷様でございます。突然のことで、何と申し上げてよいか。 | Başınız sağ olsun. Çok ani oldu, ne diyeceğimi bilemiyorum.
+B | わざわざお越しいただき、ありがとうございます。父も喜んでいると思います。 | Zahmet edip geldiğiniz için teşekkür ederim. Babam da memnun olmuştur.
+A | お父様には、新入社員の頃から一方ならぬお世話になりました。 | Babanız işe yeni başladığım günlerden beri bana çok büyük iyilikler yaptı.
+B | 父はよく、あなたのことを話していました。見込みのある若者だと。 | Babam sizden sık sık bahsederdi. Geleceği parlak bir genç diye.
+A | もったいないお言葉です。教えていただいたことは、今も胸に刻んでおります。 | Hak etmediğim sözler. Bana öğrettiklerini hâlâ yüreğimde taşıyorum.
+B | 最期は苦しむこともなく、眠るように息を引き取りました。 | Son anlarında acı çekmeden, uyur gibi göçüp gitti.
+A | それがせめてもの救いでございます。どうか、ご無理をなさいませんように。 | Bu hiç değilse bir teselli. Lütfen kendinizi fazla yormayın.
+B | お気遣いありがとうございます。四十九日が過ぎるまでは、何かと慌ただしくて。 | İlginiz için teşekkürler. Kırk dokuzuncu gün geçene kadar işler hep telaşlı.
+A | 何か私にできることがありましたら、遠慮なくお申し付けください。 | Yapabileceğim bir şey olursa lütfen çekinmeden söyleyin.
+B | 心強いお言葉、痛み入ります。父に代わって、厚く御礼申し上げます。 | Güç veren sözleriniz için mahcubum. Babam adına en içten teşekkürlerimi sunarım.
