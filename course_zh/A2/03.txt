@@ -1,0 +1,111 @@
+# UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
+## Hastanede
+病人 (bìngrén) | hasta | isim | 医生在给病人看病。(Yīshēng zài gěi bìngrén kànbìng.) | Doktor hastayı muayene ediyor.
+大夫 (dàifu) | doktor (konuşma dili) | isim | 大夫，我的孩子发烧了。(Dàifu, wǒ de háizi fāshāo le.) | Doktor bey, çocuğumun ateşi var.
+挂号 (guàhào) | (hastanede) sıra numarası almak, kayıt olmak | fiil | 看病要先挂号。(Kànbìng yào xiān guàhào.) | Muayene için önce kayıt yaptırmak gerekir.
+科 (kē) | (hastanede) bölüm, servis | isim | 我应该挂哪个科？(Wǒ yīnggāi guà nǎge kē?) | Hangi bölüme kayıt yaptırmalıyım?
+诊所 (zhěnsuǒ) | klinik, muayenehane | isim | 我家附近有一个小诊所。(Wǒ jiā fùjìn yǒu yí ge xiǎo zhěnsuǒ.) | Evimin yakınında küçük bir klinik var.
+急诊 (jízhěn) | acil servis | isim | 他半夜去看了急诊。(Tā bànyè qù kàn le jízhěn.) | Gece yarısı acil servise gitti.
+住院 (zhùyuàn) | hastaneye yatmak | fiil | 奶奶住院一个星期了。(Nǎinai zhùyuàn yí ge xīngqī le.) | Babaannem bir haftadır hastanede yatıyor.
+出院 (chūyuàn) | taburcu olmak | fiil | 医生说他明天可以出院。(Yīshēng shuō tā míngtiān kěyǐ chūyuàn.) | Doktor yarın taburcu olabileceğini söyledi.
+手术 (shǒushù) | ameliyat | isim | 手术很成功。(Shǒushù hěn chénggōng.) | Ameliyat çok başarılı geçti.
+病房 (bìngfáng) | hasta odası, koğuş | isim | 病房里要保持安静。(Bìngfáng li yào bǎochí ānjìng.) | Hasta odasında sessiz olmak gerekir.
+## Belirtiler
+头疼 (tóuténg) | baş ağrısı; başı ağrımak | fiil | 我从早上开始头疼。(Wǒ cóng zǎoshang kāishǐ tóuténg.) | Sabahtan beri başım ağrıyor.
+头晕 (tóuyūn) | başı dönmek | fiil | 我站起来就头晕。(Wǒ zhàn qǐlai jiù tóuyūn.) | Ayağa kalkınca başım dönüyor.
+拉肚子 (lā dùzi) | ishal olmak | fiil | 我昨天吃坏了，一直拉肚子。(Wǒ zuótiān chī huài le, yìzhí lā dùzi.) | Dün yediğim bir şey dokundu, sürekli ishalim.
+恶心 (ěxin) | midesi bulanmak | sıfat | 坐船的时候我觉得恶心。(Zuò chuán de shíhou wǒ juéde ěxin.) | Teknedeyken midem bulanıyor.
+过敏 (guòmǐn) | alerji; alerjisi olmak | fiil | 我对花生过敏。(Wǒ duì huāshēng guòmǐn.) | Yer fıstığına alerjim var.
+流鼻涕 (liú bítì) | burnu akmak | fiil | 我感冒了，一直流鼻涕。(Wǒ gǎnmào le, yìzhí liú bítì.) | Üşüttüm, burnum sürekli akıyor.
+吐 (tù) | kusmak | fiil | 孩子吃完饭就吐了。(Háizi chī wán fàn jiù tù le.) | Çocuk yemekten sonra kustu.
+发炎 (fāyán) | iltihaplanmak | fiil | 你的嗓子发炎了。(Nǐ de sǎngzi fāyán le.) | Boğazın iltihaplanmış.
+难受 (nánshòu) | rahatsız, kötü hissetmek | sıfat | 我胃里很难受。(Wǒ wèi li hěn nánshòu.) | Midem çok rahatsız.
+出汗 (chū hàn) | terlemek | fiil | 他发烧，一直出汗。(Tā fāshāo, yìzhí chū hàn.) | Ateşi var, sürekli terliyor.
+## Eczanede
+药店 (yàodiàn) | eczane | isim | 药店晚上十点关门。(Yàodiàn wǎnshang shí diǎn guānmén.) | Eczane akşam onda kapanıyor.
+药片 (yàopiàn) | tablet, hap | isim | 每次吃两片药片。(Měi cì chī liǎng piàn yàopiàn.) | Her seferinde iki tablet alın.
+感冒药 (gǎnmàoyào) | soğuk algınlığı ilacı | isim | 我想买一点儿感冒药。(Wǒ xiǎng mǎi yìdiǎnr gǎnmàoyào.) | Biraz soğuk algınlığı ilacı almak istiyorum.
+处方 (chǔfāng) | reçete | isim | 这种药需要医生的处方。(Zhè zhǒng yào xūyào yīshēng de chǔfāng.) | Bu ilaç için doktor reçetesi gerekiyor.
+副作用 (fùzuòyòng) | yan etki | isim | 这个药有副作用吗？(Zhège yào yǒu fùzuòyòng ma?) | Bu ilacın yan etkisi var mı?
+吃药 (chī yào) | ilaç almak | fiil | 别忘了吃药。(Bié wàng le chī yào.) | İlacını almayı unutma.
+维生素 (wéishēngsù) | vitamin | isim | 橙子里有很多维生素。(Chéngzi li yǒu hěn duō wéishēngsù.) | Portakalda bol vitamin var.
+创可贴 (chuāngkětiē) | yara bandı | isim | 你有创可贴吗？我的手破了。(Nǐ yǒu chuāngkětiē ma? Wǒ de shǒu pò le.) | Yara bandın var mı? Elim kesildi.
+体温计 (tǐwēnjì) | derece, termometre | isim | 用体温计量一下体温。(Yòng tǐwēnjì liáng yíxià tǐwēn.) | Termometreyle ateşini bir ölç.
+饭后 (fàn hòu) | yemekten sonra | ifade | 这个药饭后吃。(Zhège yào fàn hòu chī.) | Bu ilaç yemekten sonra alınır.
+## Acil durum
+救命 (jiùmìng) | imdat! | ünlem | 救命啊！有人掉进水里了！(Jiùmìng a! Yǒu rén diào jìn shuǐ li le!) | İmdat! Biri suya düştü!
+救护车 (jiùhùchē) | ambulans | isim | 快叫救护车！(Kuài jiào jiùhùchē!) | Çabuk ambulans çağırın!
+着火 (zháohuǒ) | yangın çıkmak | fiil | 楼下着火了！(Lóu xià zháohuǒ le!) | Alt katta yangın çıktı!
+报警 (bàojǐng) | polise haber vermek | fiil | 我的包被偷了，我要报警。(Wǒ de bāo bèi tōu le, wǒ yào bàojǐng.) | Çantam çalındı, polise haber vereceğim.
+危险 (wēixiǎn) | tehlikeli; tehlike | sıfat | 这里很危险，别过去！(Zhèlǐ hěn wēixiǎn, bié guòqu!) | Burası çok tehlikeli, oraya gitme!
+小心 (xiǎoxīn) | dikkat etmek; dikkatli | fiil | 小心！车来了！(Xiǎoxīn! Chē lái le!) | Dikkat et! Araba geliyor!
+流血 (liú xiě) | kanamak | fiil | 他的头在流血。(Tā de tóu zài liú xiě.) | Başı kanıyor.
+摔倒 (shuāidǎo) | düşmek (yere) | fiil | 爷爷在楼梯上摔倒了。(Yéye zài lóutī shang shuāidǎo le.) | Dedem merdivende düştü.
+紧急 (jǐnjí) | acil | sıfat | 这是紧急情况！(Zhè shì jǐnjí qíngkuàng!) | Bu acil bir durum!
+安全 (ānquán) | güvenli; güvenlik | sıfat | 开车要注意安全。(Kāichē yào zhùyì ānquán.) | Araba kullanırken güvenliğe dikkat etmek gerekir.
+## Vücudun içi
+心脏 (xīnzàng) | kalp (organ) | isim | 他的心脏不太好。(Tā de xīnzàng bú tài hǎo.) | Kalbi pek iyi değil.
+胃 (wèi) | mide | isim | 我胃疼，不想吃东西。(Wǒ wèi téng, bù xiǎng chī dōngxi.) | Midem ağrıyor, bir şey yemek istemiyorum.
+肺 (fèi) | akciğer | isim | 抽烟对肺不好。(Chōuyān duì fèi bù hǎo.) | Sigara akciğerlere zararlı.
+骨头 (gǔtou) | kemik | isim | 小狗喜欢吃骨头。(Xiǎo gǒu xǐhuan chī gǔtou.) | Köpekçikler kemik yemeyi sever.
+血 (xuè) | kan | isim | 医生给我验了血。(Yīshēng gěi wǒ yàn le xuè.) | Doktor kan tahlili yaptı.
+肌肉 (jīròu) | kas | isim | 跑步以后肌肉很疼。(Pǎobù yǐhòu jīròu hěn téng.) | Koştuktan sonra kaslarım çok ağrıyor.
+大脑 (dànǎo) | beyin | isim | 睡觉能让大脑休息。(Shuìjiào néng ràng dànǎo xiūxi.) | Uyku beynin dinlenmesini sağlar.
+牙齿 (yáchǐ) | diş | isim | 他的牙齿很白。(Tā de yáchǐ hěn bái.) | Dişleri bembeyaz.
+手腕 (shǒuwàn) | bilek | isim | 我打球的时候伤了手腕。(Wǒ dǎ qiú de shíhou shāng le shǒuwàn.) | Top oynarken bileğimi incittim.
+膝盖 (xīgài) | diz | isim | 爬山以后膝盖疼。(Pá shān yǐhòu xīgài téng.) | Dağa tırmandıktan sonra dizim ağrıyor.
+## Sağlıklı yaşam
+减肥 (jiǎnféi) | kilo vermek, zayıflamak | fiil | 她在减肥，不吃晚饭。(Tā zài jiǎnféi, bù chī wǎnfàn.) | Kilo veriyor, akşam yemeği yemiyor.
+营养 (yíngyǎng) | besin, beslenme | isim | 鸡蛋很有营养。(Jīdàn hěn yǒu yíngyǎng.) | Yumurta çok besleyicidir.
+睡眠 (shuìmián) | uyku | isim | 好的睡眠对健康很重要。(Hǎo de shuìmián duì jiànkāng hěn zhòngyào.) | İyi uyku sağlık için çok önemli.
+抽烟 (chōuyān) | sigara içmek | fiil | 这里不能抽烟。(Zhèlǐ bù néng chōuyān.) | Burada sigara içilmez.
+戒烟 (jièyān) | sigarayı bırakmak | fiil | 我爸爸去年戒烟了。(Wǒ bàba qùnián jièyān le.) | Babam geçen yıl sigarayı bıraktı.
+健身 (jiànshēn) | fitness, spor salonunda çalışmak | fiil | 我每周去健身三次。(Wǒ měi zhōu qù jiànshēn sān cì.) | Haftada üç kez spor salonuna giderim.
+体重 (tǐzhòng) | kilo, vücut ağırlığı | isim | 你的体重是多少？(Nǐ de tǐzhòng shì duōshao?) | Kaç kilosun?
+饮食 (yǐnshí) | beslenme, yeme içme | isim | 他很注意饮食。(Tā hěn zhùyì yǐnshí.) | Beslenmesine çok dikkat ediyor.
+保持 (bǎochí) | korumak, sürdürmek | fiil | 运动可以保持健康。(Yùndòng kěyǐ bǎochí jiànkāng.) | Spor sağlığı korur.
+预防 (yùfáng) | önlemek | fiil | 多洗手可以预防感冒。(Duō xǐ shǒu kěyǐ yùfáng gǎnmào.) | Sık el yıkamak soğuk algınlığını önler.
+## Doktorla konuşmak
+症状 (zhèngzhuàng) | belirti | isim | 你有什么症状？(Nǐ yǒu shénme zhèngzhuàng?) | Ne gibi belirtilerin var?
+严重 (yánzhòng) | ciddi, ağır | sıfat | 别担心，不太严重。(Bié dānxīn, bú tài yánzhòng.) | Merak etme, pek ciddi değil.
+恢复 (huīfù) | iyileşmek, eski hâline gelmek | fiil | 他恢复得很快。(Tā huīfù de hěn kuài.) | Çok çabuk iyileşiyor.
+治疗 (zhìliáo) | tedavi etmek; tedavi | fiil | 这种病可以治疗。(Zhè zhǒng bìng kěyǐ zhìliáo.) | Bu hastalık tedavi edilebilir.
+结果 (jiéguǒ) | sonuç | isim | 检查结果出来了吗？(Jiǎnchá jiéguǒ chūlai le ma?) | Tahlil sonuçları çıktı mı?
+正常 (zhèngcháng) | normal | sıfat | 你的血压很正常。(Nǐ de xuèyā hěn zhèngcháng.) | Tansiyonunuz gayet normal.
+注意 (zhùyì) | dikkat etmek | fiil | 最近要注意休息。(Zuìjìn yào zhùyì xiūxi.) | Bu aralar dinlenmeye dikkat etmelisin.
+建议 (jiànyì) | önermek; öneri | fiil | 医生建议我多喝水。(Yīshēng jiànyì wǒ duō hē shuǐ.) | Doktor bol su içmemi önerdi.
+情况 (qíngkuàng) | durum | isim | 病人的情况怎么样？(Bìngrén de qíngkuàng zěnmeyàng?) | Hastanın durumu nasıl?
+原因 (yuányīn) | sebep | isim | 头疼的原因是什么？(Tóuténg de yuányīn shì shénme?) | Baş ağrısının sebebi ne?
+## Hastalıklar
+疾病 (jíbìng) | hastalık | isim | 运动可以预防很多疾病。(Yùndòng kěyǐ yùfáng hěn duō jíbìng.) | Spor birçok hastalığı önleyebilir.
+流感 (liúgǎn) | grip | isim | 冬天容易得流感。(Dōngtiān róngyì dé liúgǎn.) | Kışın grip olmak kolaydır.
+肺炎 (fèiyán) | zatürre | isim | 他得了肺炎，住院了。(Tā dé le fèiyán, zhùyuàn le.) | Zatürre oldu, hastaneye yattı.
+高血压 (gāoxuèyā) | yüksek tansiyon | isim | 有高血压的人要少吃盐。(Yǒu gāoxuèyā de rén yào shǎo chī yán.) | Yüksek tansiyonu olanlar az tuz yemeli.
+糖尿病 (tángniàobìng) | şeker hastalığı | isim | 她外公有糖尿病。(Tā wàigōng yǒu tángniàobìng.) | Onun dedesinin şeker hastalığı var.
+传染 (chuánrǎn) | bulaşmak | fiil | 感冒会传染，你戴上口罩吧。(Gǎnmào huì chuánrǎn, nǐ dài shang kǒuzhào ba.) | Soğuk algınlığı bulaşıcıdır, maske tak.
+感染 (gǎnrǎn) | enfeksiyon kapmak | fiil | 伤口感染了。(Shāngkǒu gǎnrǎn le.) | Yara enfeksiyon kaptı.
+失眠 (shīmián) | uykusuzluk çekmek | fiil | 最近压力大，我常常失眠。(Zuìjìn yālì dà, wǒ chángcháng shīmián.) | Son zamanlarda stres yüzünden sık sık uykusuzluk çekiyorum.
+心脏病 (xīnzàngbìng) | kalp hastalığı | isim | 他有心脏病，不能太累。(Tā yǒu xīnzàngbìng, bù néng tài lèi.) | Kalp hastası, fazla yorulmamalı.
+病毒 (bìngdú) | virüs | isim | 感冒是病毒引起的。(Gǎnmào shì bìngdú yǐnqǐ de.) | Soğuk algınlığına virüs neden olur.
+## Diş ve göz
+牙医 (yáyī) | diş hekimi | isim | 我明天要去看牙医。(Wǒ míngtiān yào qù kàn yáyī.) | Yarın diş hekimine gitmem gerekiyor.
+拔牙 (bá yá) | diş çekmek | fiil | 我怕拔牙。(Wǒ pà bá yá.) | Diş çektirmekten korkuyorum.
+补牙 (bǔ yá) | dolgu yaptırmak | fiil | 我上周去补牙了。(Wǒ shàng zhōu qù bǔ yá le.) | Geçen hafta dolgu yaptırdım.
+牙疼 (yá téng) | diş ağrısı | isim | 牙疼不是病，疼起来真要命。(Yá téng bú shì bìng, téng qǐlai zhēn yàomìng.) | Diş ağrısı hastalık değil ama tuttu mu insanı öldürür.
+视力 (shìlì) | görme gücü | isim | 我的视力越来越差。(Wǒ de shìlì yuè lái yuè chà.) | Görme gücüm giderek kötüleşiyor.
+近视 (jìnshì) | miyop | sıfat | 很多学生都近视。(Hěn duō xuésheng dōu jìnshì.) | Birçok öğrenci miyop.
+隐形眼镜 (yǐnxíng yǎnjìng) | kontakt lens | isim | 她不戴眼镜，戴隐形眼镜。(Tā bú dài yǎnjìng, dài yǐnxíng yǎnjìng.) | Gözlük değil, kontakt lens takıyor.
+眼药水 (yǎnyàoshuǐ) | göz damlası | isim | 这个眼药水一天用三次。(Zhège yǎnyàoshuǐ yì tiān yòng sān cì.) | Bu göz damlası günde üç kez kullanılır.
+听力 (tīnglì) | işitme; dinleme | isim | 爷爷的听力不太好。(Yéye de tīnglì bú tài hǎo.) | Dedemin kulakları pek iyi duymuyor.
+洗牙 (xǐ yá) | diş temizliği yaptırmak | fiil | 医生建议每年洗一次牙。(Yīshēng jiànyì měi nián xǐ yí cì yá.) | Doktor yılda bir diş temizliği öneriyor.
+## Yaralanmalar
+受伤 (shòushāng) | yaralanmak | fiil | 他踢球的时候受伤了。(Tā tī qiú de shíhou shòushāng le.) | Futbol oynarken yaralandı.
+骨折 (gǔzhé) | kemik kırılması | fiil | 她的腿骨折了。(Tā de tuǐ gǔzhé le.) | Bacağı kırıldı.
+扭伤 (niǔshāng) | burkulmak | fiil | 我跑步的时候扭伤了脚。(Wǒ pǎobù de shíhou niǔshāng le jiǎo.) | Koşarken ayağım burkuldu.
+撞 (zhuàng) | çarpmak | fiil | 我的头撞到门上了。(Wǒ de tóu zhuàng dào mén shang le.) | Başımı kapıya çarptım.
+伤口 (shāngkǒu) | yara | isim | 伤口不要碰水。(Shāngkǒu búyào pèng shuǐ.) | Yaraya su değdirme.
+绷带 (bēngdài) | sargı bezi, bandaj | isim | 护士给我包上了绷带。(Hùshi gěi wǒ bāo shang le bēngdài.) | Hemşire yarama bandaj sardı.
+肿 (zhǒng) | şişmek; şiş | sıfat | 我的脚肿了。(Wǒ de jiǎo zhǒng le.) | Ayağım şişti.
+痒 (yǎng) | kaşınmak | sıfat | 我的皮肤很痒。(Wǒ de pífū hěn yǎng.) | Cildim çok kaşınıyor.
+疼痛 (téngtòng) | ağrı, sızı | isim | 这个药可以减少疼痛。(Zhège yào kěyǐ jiǎnshǎo téngtòng.) | Bu ilaç ağrıyı azaltır.
+消毒 (xiāodú) | dezenfekte etmek | fiil | 先给伤口消毒。(Xiān gěi shāngkǒu xiāodú.) | Önce yarayı dezenfekte et.
