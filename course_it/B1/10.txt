@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım
+il sistema operativo | işletim sistemi | isim (e) | Devo aggiornare il sistema operativo del mio portatile. | Dizüstü bilgisayarımın işletim sistemini güncellemem gerekiyor.
+installare | kurmak, yüklemek | fiil | Ho installato un nuovo programma per modificare le foto. | Fotoğrafları düzenlemek için yeni bir program kurdum.
+disinstallare | kaldırmak (program) | fiil | Disinstalla le app che non usi, così liberi memoria. | Kullanmadığın uygulamaları kaldır, böylece bellek açarsın.
+la versione | sürüm; versiyon | isim (d) | La nuova versione dell'app è molto più veloce. | Uygulamanın yeni sürümü çok daha hızlı.
+il malfunzionamento | arıza, düzgün çalışmama | isim (e) | Per un malfunzionamento del sistema i treni sono in ritardo. | Sistemdeki bir arıza yüzünden trenler gecikmeli.
+compatibile | uyumlu | sıfat | Questo programma non è compatibile con il mio computer vecchio. | Bu program eski bilgisayarımla uyumlu değil.
+il formato | biçim, format | isim (e) | Mandami il documento in formato PDF, per favore. | Belgeyi lütfen PDF formatında gönder.
+il salvataggio | kaydetme; kurtarma | isim (e) | Il salvataggio automatico mi ha salvato tutto il lavoro. | Otomatik kaydetme bütün çalışmamı kurtardı.
+salvare | kaydetmek; kurtarmak | fiil | Ricordati di salvare il file prima di chiudere. | Kapatmadan önce dosyayı kaydetmeyi unutma.
+la licenza | lisans; izin | isim (d) | La licenza del programma scade alla fine dell'anno. | Programın lisansı yıl sonunda sona eriyor.
+## Programlama
+il linguaggio di programmazione | programlama dili | isim (e) | Ho imparato il mio primo linguaggio di programmazione a quindici anni. | İlk programlama dilimi on beş yaşında öğrendim.
+lo sviluppatore | yazılım geliştirici | isim (e) | Lo sviluppatore sta correggendo un errore nell'app. | Geliştirici uygulamadaki bir hatayı düzeltiyor.
+sviluppare | geliştirmek | fiil | Il nostro team sviluppa app per le scuole. | Ekibimiz okullar için uygulamalar geliştiriyor.
+l'informatico (e) | bilgisayar uzmanı | isim (e) | Mio cugino fa l'informatico in una banca di Milano. | Kuzenim Milano'da bir bankada bilgisayar uzmanı olarak çalışıyor.
+testare | test etmek | fiil | Prima del lancio dobbiamo testare il gioco con gli utenti. | Lansmandan önce oyunu kullanıcılarla test etmeliyiz.
+il prototipo | prototip, ilk örnek | isim (e) | Gli ingegneri hanno presentato il prototipo della nuova auto. | Mühendisler yeni arabanın prototipini tanıttı.
+la funzione | işlev, fonksiyon | isim (d) | Questa funzione permette di tradurre il testo automaticamente. | Bu işlev metni otomatik olarak çevirmeyi sağlıyor.
+la funzionalità | özellik, işlevsellik | isim (d) | L'aggiornamento aggiunge nuove funzionalità alla fotocamera. | Güncelleme kameraya yeni özellikler ekliyor.
+il codice sorgente | kaynak kod | isim (e) | Il codice sorgente del programma è aperto a tutti. | Programın kaynak kodu herkese açık.
+il bug | yazılım hatası | isim (e) | Gli utenti hanno trovato un bug nell'ultima versione. | Kullanıcılar son sürümde bir yazılım hatası buldu.
+## Dijital güvenlik
+l'hacker (e) | bilgisayar korsanı | isim (e) | Un hacker è entrato nel sistema dell'ospedale. | Bir bilgisayar korsanı hastanenin sistemine girdi.
+la violazione | ihlal | isim (d) | C'è stata una violazione dei dati di migliaia di clienti. | Binlerce müşterinin verilerinde bir ihlal yaşandı.
+il furto d'identità | kimlik hırsızlığı | isim (e) | Il furto d'identità online è sempre più comune. | İnternette kimlik hırsızlığı giderek yaygınlaşıyor.
+l'autenticazione (d) | kimlik doğrulama | isim (d) | Attiva l'autenticazione a due fattori per il tuo account. | Hesabın için iki adımlı kimlik doğrulamayı etkinleştir.
+il codice di verifica | doğrulama kodu | isim (e) | Ti arriverà un codice di verifica via SMS. | Sana SMS ile bir doğrulama kodu gelecek.
+sospetto | şüpheli | sıfat | Non aprire link sospetti nelle email sconosciute. | Tanımadığın e-postalardaki şüpheli bağlantıları açma.
+lo spam | istenmeyen e-posta | isim (e) | Ricevo ogni giorno decine di email di spam. | Her gün onlarca istenmeyen e-posta alıyorum.
+bloccare | engellemek, bloke etmek | fiil | Ho bloccato quel numero perché mi chiamava sempre. | O numarayı engelledim çünkü beni sürekli arıyordu.
+il truffatore | dolandırıcı | isim (e) | Il truffatore fingeva di essere un impiegato della banca. | Dolandırıcı banka çalışanıymış gibi davranıyordu.
+infettare | virüs bulaştırmak | fiil | Un file allegato ha infettato tutti i computer dell'ufficio. | Ekli bir dosya ofisteki bütün bilgisayarlara virüs bulaştırdı.
+## Yapay zekâ
+l'assistente vocale (e) | sesli asistan | isim (e) | Chiedo all'assistente vocale che tempo farà domani. | Sesli asistana yarın havanın nasıl olacağını soruyorum.
+il chatbot | sohbet robotu | isim (e) | Sul sito della banca risponde prima un chatbot. | Bankanın sitesinde önce bir sohbet robotu yanıt veriyor.
+automatizzare | otomatikleştirmek | fiil | Il nuovo software automatizza le fatture e i pagamenti. | Yeni yazılım faturaları ve ödemeleri otomatikleştiriyor.
+generare | üretmek, oluşturmak | fiil | Questo programma genera immagini partendo da una descrizione. | Bu program bir tariften yola çıkarak görsel üretiyor.
+il modello | model; örnek | isim (e) | Il modello linguistico risponde in molte lingue diverse. | Dil modeli birçok farklı dilde yanıt veriyor.
+prevedere (previsto) | öngörmek, tahmin etmek | fiil · düzensiz | È difficile prevedere come cambierà il lavoro nei prossimi anni. | Önümüzdeki yıllarda işin nasıl değişeceğini öngörmek zor.
+il comando vocale | sesli komut | isim (e) | In macchina uso i comandi vocali per chiamare. | Arabada aramak için sesli komutları kullanıyorum.
+la traduzione automatica | makine çevirisi | isim (d) | La traduzione automatica è utile, ma a volte sbaglia. | Makine çevirisi faydalı ama bazen hata yapıyor.
+imitare | taklit etmek | fiil | Il programma sa imitare la voce di una persona. | Program bir insanın sesini taklit edebiliyor.
+umanoide | insansı | sıfat | Al museo della scienza c'è un robot umanoide che parla. | Bilim müzesinde konuşan insansı bir robot var.
+## Uzay
+l'universo (e) | evren | isim (e) | Nell'universo ci sono miliardi di galassie. | Evrende milyarlarca galaksi var.
+la galassia | galaksi | isim (d) | La nostra galassia si chiama Via Lattea. | Bizim galaksimizin adı Samanyolu.
+il sistema solare | Güneş Sistemi | isim (e) | Giove è il pianeta più grande del sistema solare. | Jüpiter Güneş Sistemi'nin en büyük gezegeni.
+la missione | görev, misyon | isim (d) | La missione su Marte durerà più di due anni. | Mars görevi iki yıldan fazla sürecek.
+il razzo | roket | isim (e) | Il razzo è partito alle sei di mattina dalla base. | Roket sabah altıda üsten kalktı.
+la navicella | uzay aracı, kapsül | isim (d) | La navicella è tornata sulla Terra con tre astronauti. | Uzay kapsülü üç astronotla Dünya'ya döndü.
+la stazione spaziale | uzay istasyonu | isim (d) | Un'astronauta italiana ha vissuto sei mesi sulla stazione spaziale. | İtalyan bir astronot uzay istasyonunda altı ay yaşadı.
+la cometa | kuyruklu yıldız | isim (d) | La cometa sarà visibile a occhio nudo la prossima settimana. | Kuyruklu yıldız gelecek hafta çıplak gözle görülebilecek.
+l'asteroide (e) | asteroit | isim (e) | Un piccolo asteroide passerà vicino alla Terra domani. | Küçük bir asteroit yarın Dünya'nın yakınından geçecek.
+il telescopio | teleskop | isim (e) | Con il telescopio abbiamo visto gli anelli di Saturno. | Teleskopla Satürn'ün halkalarını gördük.
+## Cihazlar
+lo smartphone | akıllı telefon | isim (e) | Ormai usiamo lo smartphone anche per pagare il caffè. | Artık kahve ödemek için bile akıllı telefonu kullanıyoruz.
+lo smartwatch | akıllı saat | isim (e) | Lo smartwatch conta i miei passi e il battito. | Akıllı saat adımlarımı ve nabzımı sayıyor.
+l'auricolare (e) | kulak içi kulaklık | isim (e) | Ho perso un auricolare sull'autobus stamattina. | Bu sabah otobüste kulaklığımın tekini kaybettim.
+il touchscreen | dokunmatik ekran | isim (e) | Con i guanti il touchscreen del telefono non funziona. | Eldivenle telefonun dokunmatik ekranı çalışmıyor.
+la fotocamera | fotoğraf makinesi; telefon kamerası | isim (d) | La fotocamera del nuovo telefono fa foto bellissime di notte. | Yeni telefonun kamerası gece çok güzel fotoğraflar çekiyor.
+la webcam | web kamerası | isim (d) | Accendi la webcam, così ti vediamo durante la lezione. | Web kamerasını aç, böylece derste seni görelim.
+l'altoparlante (e) | hoparlör | isim (e) | Dall'altoparlante della stazione annunciano un ritardo. | İstasyonun hoparlöründen bir gecikme duyuruluyor.
+il router | modem, yönlendirici | isim (e) | Se internet non va, prova a spegnere il router. | İnternet çalışmıyorsa modemi kapatmayı dene.
+il processore | işlemci | isim (e) | Questo computer ha un processore molto potente per i giochi. | Bu bilgisayarın oyunlar için çok güçlü bir işlemcisi var.
+l'hard disk (e) | sabit disk | isim (e) | Tutte le mie foto sono su un hard disk esterno. | Bütün fotoğraflarım harici bir sabit diskte.
+## İnternet
+il browser | tarayıcı | isim (e) | Il sito funziona meglio con un browser aggiornato. | Site güncel bir tarayıcıyla daha iyi çalışıyor.
+la banda larga | geniş bant | isim (d) | In molti paesini di montagna manca ancora la banda larga. | Pek çok dağ köyünde hâlâ geniş bant internet yok.
+la fibra | fiber (internet); lif | isim (d) | Da quando abbiamo la fibra, i film non si bloccano più. | Fiber internetimiz olduğundan beri filmler artık takılmıyor.
+offline | çevrimdışı | sıfat | Puoi scaricare le mappe e usarle offline in montagna. | Haritaları indirip dağda çevrimdışı kullanabilirsin.
+il server | sunucu | isim (e) | Il sito non funziona perché il server è sovraccarico. | Sunucu aşırı yüklendiği için site çalışmıyor.
+il dominio | alan adı; egemenlik | isim (e) | Abbiamo comprato il dominio per il sito del ristorante. | Restoranın sitesi için alan adını satın aldık.
+il cookie | çerez | isim (e) | Quasi ogni sito ti chiede di accettare i cookie. | Neredeyse her site çerezleri kabul etmeni istiyor.
+la cronologia | geçmiş (tarayıcı); kronoloji | isim (d) | Ho cancellato la cronologia del browser sul computer dell'ufficio. | Ofis bilgisayarında tarayıcı geçmişini sildim.
+il segnalibro | yer imi; kitap ayracı | isim (e) | Salva la pagina nei segnalibri per ritrovarla facilmente. | Sayfayı kolayca tekrar bulmak için yer imlerine kaydet.
+il caricamento | yükleme | isim (e) | Il caricamento del video richiede ancora qualche minuto. | Videonun yüklenmesi birkaç dakika daha sürüyor.
+## Bilgisayar işlemleri
+incollare | yapıştırmak | fiil | Copia il testo e incollalo nel messaggio. | Metni kopyala ve mesaja yapıştır.
+selezionare | seçmek | fiil | Seleziona le foto che vuoi stampare e premi invio. | Basmak istediğin fotoğrafları seç ve enter'a bas.
+trascinare | sürüklemek | fiil | Trascina il file nella cartella dei documenti. | Dosyayı belgeler klasörüne sürükle.
+digitare | (klavyeyle) yazmak, tuşlamak | fiil | Digita il codice di quattro cifre sul tastierino. | Dört haneli kodu tuş takımına gir.
+formattare | biçimlendirmek | fiil | Prima di vendere il computer, devi formattare il disco. | Bilgisayarı satmadan önce diski biçimlendirmen gerekiyor.
+comprimere (compresso) | sıkıştırmak | fiil · düzensiz | Comprimi le foto prima di mandarle per email. | Fotoğrafları e-postayla göndermeden önce sıkıştır.
+il cursore | imleç | isim (e) | Sposta il cursore alla fine della riga e scrivi. | İmleci satırın sonuna götür ve yaz.
+l'icona (d) | simge | isim (d) | Clicca sull'icona verde in alto a destra. | Sağ üstteki yeşil simgeye tıkla.
+rinominare | yeniden adlandırmak | fiil | Ho rinominato tutti i file con la data di oggi. | Bütün dosyaları bugünün tarihiyle yeniden adlandırdım.
+la scorciatoia | kısayol | isim (d) | Con questa scorciatoia da tastiera risparmi molto tempo. | Bu klavye kısayoluyla çok zaman kazanırsın.
+## Teknoloji ve toplum
+la digitalizzazione | dijitalleşme | isim (d) | La digitalizzazione degli uffici pubblici procede lentamente. | Kamu dairelerinin dijitalleşmesi yavaş ilerliyor.
+obsoleto | eskimiş, modası geçmiş | sıfat | Dopo cinque anni il telefono era già obsoleto. | Telefon beş yıl sonra zaten eskimişti.
+all'avanguardia | çağın ilerisinde, son teknoloji | ifade | Il nuovo ospedale della città ha macchinari all'avanguardia. | Şehrin yeni hastanesinde son teknoloji cihazlar var.
+tecnologico | teknolojik | sıfat | I ragazzi di oggi sono molto più tecnologici dei genitori. | Bugünün gençleri anne babalarından çok daha teknolojik.
+il progresso | ilerleme | isim (e) | Il progresso tecnologico ha cambiato il nostro modo di lavorare. | Teknolojik ilerleme çalışma şeklimizi değiştirdi.
+la realtà virtuale | sanal gerçeklik | isim (d) | Con la realtà virtuale puoi visitare il Colosseo antico. | Sanal gerçeklikle antik Kolezyum'u gezebilirsin.
+la realtà aumentata | artırılmış gerçeklik | isim (d) | L'app usa la realtà aumentata per provare i mobili in casa. | Uygulama mobilyaları evde denemek için artırılmış gerçeklik kullanıyor.
+l'innovazione (d) | yenilik, inovasyon | isim (d) | L'innovazione è fondamentale per le piccole imprese. | Yenilik küçük işletmeler için temel önemde.
+innovativo | yenilikçi | sıfat | Hanno avuto un'idea innovativa per riciclare la plastica. | Plastiği geri dönüştürmek için yenilikçi bir fikirleri oldu.
+l'e-commerce (e) | e-ticaret | isim (e) | Con l'e-commerce molti negozi vendono in tutto il mondo. | E-ticaretle birçok dükkân bütün dünyaya satış yapıyor.
+## Elektronik ve icatlar
+l'inventore (e) | mucit | isim (e) | L'inventore della radio era un italiano di Bologna. | Radyonun mucidi Bolognalı bir İtalyandı.
+il microchip | mikroçip | isim (e) | Il veterinario ha messo il microchip al nostro cane. | Veteriner köpeğimize mikroçip taktı.
+il sensore | sensör, algılayıcı | isim (e) | La luce si accende da sola grazie a un sensore. | Işık bir sensör sayesinde kendiliğinden yanıyor.
+il circuito | devre; pist | isim (e) | Il tecnico ha trovato un problema nel circuito elettrico. | Teknisyen elektrik devresinde bir sorun buldu.
+wireless | kablosuz | sıfat | Ho comprato una tastiera wireless per il tablet. | Tablet için kablosuz bir klavye aldım.
+il laser | lazer | isim (e) | Il medico ha usato il laser per l'operazione agli occhi. | Doktor göz ameliyatı için lazer kullandı.
+la stampa 3D | 3D baskı | isim (d) | Con la stampa 3D si possono creare pezzi di ricambio. | 3D baskıyla yedek parçalar üretilebiliyor.
+il componente | parça, bileşen | isim (e) | I componenti del computer arrivano da paesi diversi. | Bilgisayarın parçaları farklı ülkelerden geliyor.
+l'elettronica (d) | elektronik | isim (d) | Al centro commerciale c'è un negozio di elettronica enorme. | Alışveriş merkezinde devasa bir elektronik mağazası var.
+il collaudo | test, deneme (kabul) | isim (e) | Il nuovo treno ha superato il collaudo ed è pronto. | Yeni tren testleri geçti ve hazır.
