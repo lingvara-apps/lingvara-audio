@@ -2,11 +2,11 @@
 ## Proje ve planlama
 der Bauherr (die Bauherren) | iş sahibi, yapı sahibi | isim (e) | Der Bauherr wünscht sich große Fenster nach Süden und ein flaches Dach. | İş sahibi güneye bakan büyük pencereler ve düz bir çatı istiyor.
 der Entwurf (die Entwürfe) | tasarım, taslak | isim (e) | Der preisgekrönte Entwurf sieht einen offenen Platz vor dem Rathaus vor. | Ödüllü tasarım belediye binasının önünde açık bir meydan öngörüyor.
-der Grundriss (die Grundrisse) | kat planı | isim (e) | Der Grundriss der Wohnung ist offen und ohne unnötige Flure gestaltet. | Dairenin kat planı açık ve gereksiz koridorlar olmadan tasarlanmış.
+die Grundrisszeichnung (die Grundrisszeichnungen) | kat planı çizimi | isim (d) | Auf der Grundrisszeichnung sind alle tragenden Wände dunkel hervorgehoben. | Kat planı çiziminde tüm taşıyıcı duvarlar koyu renkle vurgulanmış.
 der Lageplan (die Lagepläne) | vaziyet planı | isim (e) | Auf dem Lageplan sind die Grenzen des Grundstücks genau eingezeichnet. | Vaziyet planında arsanın sınırları tam olarak çizilmiş.
 der Querschnitt (die Querschnitte) | kesit | isim (e) | Der Querschnitt zeigt deutlich, wie die Decke auf den Wänden aufliegt. | Kesit, döşemenin duvarlara nasıl oturduğunu açıkça gösteriyor.
 die Baugenehmigung (die Baugenehmigungen) | yapı ruhsatı | isim (d) | Ohne Baugenehmigung darf mit den Arbeiten auf dem Grundstück nicht begonnen werden. | Yapı ruhsatı olmadan arsadaki çalışmalara başlanamaz.
-der Bebauungsplan (die Bebauungspläne) | imar planı | isim (e) | Laut Bebauungsplan sind in diesem Viertel höchstens drei Geschosse erlaubt. | İmar planına göre bu mahallede en fazla üç kata izin veriliyor.
+der Flächennutzungsplan (die Flächennutzungspläne) | arazi kullanım planı, nazım imar planı | isim (e) | Der Flächennutzungsplan der Gemeinde weist das Gebiet als Gewerbefläche aus. | Belediyenin arazi kullanım planı bölgeyi ticari alan olarak gösteriyor.
 der Maßstab (die Maßstäbe) | ölçek | isim (e) | Die Ausführungspläne werden üblicherweise im Maßstab eins zu fünfzig gezeichnet. | Uygulama projeleri genellikle bire elli ölçekte çizilir.
 die Ausführungsplanung | uygulama projesi | isim (d) | In der Ausführungsplanung werden alle Details für die Handwerker festgelegt. | Uygulama projesinde ustalar için tüm detaylar belirlenir.
 der Statiker (die Statiker) | statik mühendisi | isim (e) | Der Statiker muss prüfen, ob die alte Decke die zusätzliche Last trägt. | Statik mühendisi eski döşemenin ek yükü taşıyıp taşımadığını kontrol etmeli.
@@ -57,7 +57,7 @@ der Polier (die Poliere) | şantiye ustabaşı | isim (e) | Der Polier erklärt 
 ## Sıhhi tesisat ve ısıtma
 die Haustechnik | bina tesisatı | isim (d) | Die Kosten für die Haustechnik machen fast ein Drittel des Budgets aus. | Bina tesisatının maliyeti bütçenin neredeyse üçte birini oluşturuyor.
 die Sanitärinstallation (die Sanitärinstallationen) | sıhhi tesisat | isim (d) | Die gesamte Sanitärinstallation im Altbau musste erneuert werden. | Eski binadaki sıhhi tesisatın tamamının yenilenmesi gerekti.
-die Fußbodenheizung (die Fußbodenheizungen) | yerden ısıtma | isim (d) | Die Fußbodenheizung sorgt für eine angenehme und gleichmäßige Wärme. | Yerden ısıtma hoş ve eşit bir sıcaklık sağlıyor.
+die Flächenheizung (die Flächenheizungen) | yüzeyden ısıtma (yerden/duvardan) | isim (d) | Eine Flächenheizung im Boden oder in der Wand sorgt für gleichmäßige Wärme. | Zeminde ya da duvarda yüzeyden ısıtma eşit bir sıcaklık sağlar.
 die Lüftungsanlage (die Lüftungsanlagen) | havalandırma sistemi | isim (d) | Eine Lüftungsanlage mit Wärmerückgewinnung spart im Passivhaus viel Energie. | Isı geri kazanımlı bir havalandırma sistemi pasif evde çok enerji tasarrufu sağlar.
 das Abwasserrohr (die Abwasserrohre) | atık su borusu | isim (o) | Ein verstopftes Abwasserrohr hat den Keller unter Wasser gesetzt. | Tıkanmış bir atık su borusu bodrumu su bastırdı.
 der Heizkessel (die Heizkessel) | kombi, ısıtma kazanı | isim (e) | Der alte Heizkessel im Keller ist über dreißig Jahre alt. | Bodrumdaki eski ısıtma kazanı otuz yaşından büyük.
