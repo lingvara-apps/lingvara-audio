@@ -1,0 +1,111 @@
+# UNIT: Kent hayatı ve konut | Ev bulmak, mahalle, şehir sorunları
+## Ev aramak
+l'immobile (e) | gayrimenkul, mülk | isim (e) | L'agenzia vende immobili in tutta la provincia di Bari. | Ajans Bari ilinin her yerinde gayrimenkul satıyor.
+la villetta | müstakil ev, villa | isim (d) | Sognano una villetta con giardino fuori città. | Şehir dışında bahçeli bir müstakil ev hayal ediyorlar.
+la mansarda | çatı katı | isim (d) | Abito in una mansarda piccola ma molto luminosa. | Küçük ama çok aydınlık bir çatı katında oturuyorum.
+il posto auto | otopark yeri | isim (e) | L'appartamento ha anche un posto auto nel cortile. | Dairenin avluda bir otopark yeri de var.
+il trilocale | iki oda bir salon daire | isim (e) | Cerchiamo un trilocale vicino a una scuola elementare. | İlkokula yakın iki oda bir salon bir daire arıyoruz.
+l'attico (e) | çatı dairesi, penthouse | isim (e) | Dall'attico si vede tutta la città fino al mare. | Çatı dairesinden denize kadar bütün şehir görünüyor.
+spazioso | geniş, ferah | sıfat | La cucina è spaziosa e c'è posto per un tavolo grande. | Mutfak geniş, büyük bir masaya yer var.
+l'arredamento (e) | mobilya, döşeme | isim (e) | L'arredamento è moderno, ma il divano è scomodo. | Döşeme modern ama kanepe rahatsız.
+la metratura | metrekare (büyüklük) | isim (d) | Qual è la metratura esatta della casa? | Evin tam metrekaresi ne kadar?
+abitabile | oturulabilir, yaşanabilir | sıfat | La cucina abitabile è comoda per una famiglia con bambini. | Yemek yenebilen geniş mutfak çocuklu bir aile için kullanışlı.
+## Kiralama ve satın alma
+il deposito cauzionale | depozito | isim (e) | Il deposito cauzionale è di due mensilità d'affitto. | Depozito iki aylık kira tutarında.
+il preavviso | ön bildirim (süre) | isim (e) | Per lasciare la casa serve un preavviso di tre mesi. | Evden çıkmak için üç ay önceden haber vermek gerekiyor.
+la proprietà | mülk; mülkiyet | isim (d) | Questa casa è di proprietà della mia famiglia da cent'anni. | Bu ev yüz yıldır ailemizin mülkü.
+l'acquirente (e) | alıcı | isim (e) | L'acquirente ha chiesto uno sconto per i lavori da fare. | Alıcı yapılacak tadilatlar için indirim istedi.
+la compravendita | alım satım | isim (d) | La compravendita della casa si conclude dal notaio. | Evin alım satımı noterde tamamlanır.
+l'agente immobiliare (e) | emlakçı | isim (e) | L'agente immobiliare ci ha mostrato quattro appartamenti in un giorno. | Emlakçı bize bir günde dört daire gösterdi.
+la provvigione | komisyon (emlak, satış) | isim (d) | L'agenzia chiede una provvigione del tre per cento. | Ajans yüzde üç komisyon istiyor.
+lo sfratto | tahliye (kiracı) | isim (e) | Non pagava l'affitto da mesi e ha ricevuto lo sfratto. | Aylardır kira ödemiyordu ve tahliye kararı aldı.
+il subaffitto | alt kiralama | isim (e) | Il subaffitto senza il permesso del proprietario è vietato. | Ev sahibinin izni olmadan alt kiralama yasak.
+il coinquilino | ev arkadaşı | isim (e) | Il mio coinquilino cucina benissimo, mangiamo spesso insieme. | Ev arkadaşım çok iyi yemek yapıyor, sık sık birlikte yiyoruz.
+## Tadilat ve bakım
+ristrutturare | tadilat yapmak, yenilemek | fiil | Abbiamo comprato una vecchia casa da ristrutturare in campagna. | Kırda yenilenmesi gereken eski bir ev aldık.
+la ristrutturazione | tadilat, renovasyon | isim (d) | La ristrutturazione del bagno è durata più del previsto. | Banyonun tadilatı beklenenden uzun sürdü.
+imbiancare | badana yapmak, beyaza boyamak | fiil | Questo fine settimana imbianchiamo le pareti della camera. | Bu hafta sonu yatak odasının duvarlarını boyuyoruz.
+rifare (rifatto) | yeniden yapmak, yenilemek | fiil · düzensiz | Quest'estate vogliamo rifare completamente la cucina. | Bu yaz mutfağı tamamen yenilemek istiyoruz.
+la caldaia | kombi, kazan | isim (d) | La caldaia si è rotta proprio a gennaio! | Kombi tam da ocakta bozuldu!
+la tubatura | boru tesisatı | isim (d) | Le tubature sono vecchie e perdono acqua. | Borular eski ve su kaçırıyor.
+l'infisso (e) | doğrama (pencere, kapı) | isim (e) | Con i nuovi infissi la casa è molto più calda. | Yeni doğramalarla ev çok daha sıcak.
+la muffa | küf | isim (d) | In bagno c'è la muffa sul soffitto per l'umidità. | Banyoda nemden dolayı tavanda küf var.
+la crepa | çatlak | isim (d) | Dopo il terremoto è apparsa una crepa nel muro. | Depremden sonra duvarda bir çatlak belirdi.
+la manutenzione | bakım | isim (d) | La manutenzione della caldaia va fatta ogni anno. | Kombinin bakımı her yıl yapılmalı.
+## Mahalle
+il vicinato | komşuluk, komşular | isim (e) | Nel nostro palazzo c'è un buon rapporto di vicinato. | Binamızda iyi bir komşuluk ilişkisi var.
+il rione | semt, mahalle (tarihî) | isim (e) | Trastevere è uno dei rioni più famosi di Roma. | Trastevere Roma'nın en ünlü semtlerinden biri.
+la località | yer, mevki, bölge | isim (d) | Abbiamo affittato una casa in una località di montagna. | Dağlık bir bölgede bir ev kiraladık.
+il centro abitato | yerleşim yeri | isim (e) | Nel centro abitato il limite di velocità è cinquanta. | Yerleşim yerinde hız sınırı elli.
+residenziale | konut (bölgesi) | sıfat | È una zona residenziale tranquilla, senza negozi né locali. | Dükkânı ve eğlence mekânı olmayan sakin bir konut bölgesi.
+popolare | halk; sevilen, popüler | sıfat | Sono cresciuto in un quartiere popolare di Napoli. | Napoli'nin bir halk mahallesinde büyüdüm.
+vivace | canlı, hareketli | sıfat | Il quartiere universitario è vivace anche di notte. | Üniversite semti gece de hareketli.
+malfamato | kötü şöhretli | sıfat | Di sera evito quella strada, è un po' malfamata. | Akşamları o sokaktan kaçınırım, biraz kötü şöhretli.
+il degrado | bakımsızlık, çöküntü | isim (e) | Gli abitanti si lamentano del degrado del parco. | Sakinler parkın bakımsızlığından şikâyet ediyor.
+la riqualificazione | kentsel dönüşüm, iyileştirme | isim (d) | La riqualificazione della vecchia fabbrica ha creato un museo. | Eski fabrikanın dönüşümüyle bir müze oluşturuldu.
+## Belediye hizmetleri
+l'illuminazione (d) | aydınlatma | isim (d) | Nella nostra via l'illuminazione è insufficiente di notte. | Sokağımızda gece aydınlatma yetersiz.
+la fognatura | kanalizasyon | isim (d) | Dopo il temporale la fognatura non riesce a scaricare l'acqua. | Fırtınadan sonra kanalizasyon suyu boşaltamıyor.
+l'acquedotto (e) | su şebekesi; su kemeri | isim (e) | Per lavori all'acquedotto domani manca l'acqua tutto il giorno. | Su şebekesindeki çalışmalar yüzünden yarın bütün gün su yok.
+la nettezza urbana | belediye temizlik işleri | isim (d) | La nettezza urbana passa a raccogliere i rifiuti ogni mattina. | Belediye temizlik ekibi her sabah çöpleri toplamaya geliyor.
+il consiglio comunale | belediye meclisi | isim (e) | Il consiglio comunale ha approvato il nuovo piano del traffico. | Belediye meclisi yeni trafik planını onayladı.
+comunale | belediyeye ait | sıfat | La piscina comunale è aperta anche d'estate. | Belediye havuzu yazın da açık.
+l'assessore (e) | belediye meclis üyesi (bir alandan sorumlu) | isim (e) | L'assessore alla cultura ha presentato il programma dell'estate. | Kültürden sorumlu meclis üyesi yaz programını sundu.
+il verde pubblico | kamusal yeşil alan | isim (e) | In questo quartiere manca il verde pubblico per i bambini. | Bu mahallede çocuklar için yeşil alan eksik.
+l'arredo urbano (e) | kent mobilyası | isim (e) | Il comune ha rinnovato l'arredo urbano della piazza. | Belediye meydanın kent mobilyalarını yeniledi.
+la panchina | bank | isim (d) | Gli anziani chiacchierano seduti sulla panchina del parco. | Yaşlılar parktaki bankta oturup sohbet ediyor.
+## Şehir sorunları
+l'ingorgo (e) (gli ingorghi) | trafik sıkışıklığı | isim (e) | Ogni mattina c'è un ingorgo all'entrata della città. | Her sabah şehir girişinde trafik sıkışıklığı oluyor.
+la criminalità | suç oranı, suç | isim (d) | Negli ultimi anni la criminalità in centro è diminuita. | Son yıllarda merkezde suç oranı azaldı.
+il vandalismo | vandalizm | isim (e) | Le panchine rotte sono un atto di vandalismo. | Kırık banklar bir vandalizm eylemi.
+il graffito | grafiti, duvar yazısı | isim (e) | Il muro della stazione è pieno di graffiti colorati. | İstasyonun duvarı renkli grafitilerle dolu.
+la sporcizia | pislik, kir | isim (d) | La sporcizia nelle strade attira topi e gabbiani. | Sokaklardaki pislik fareleri ve martıları çekiyor.
+il sovraffollamento | aşırı kalabalık | isim (e) | Il sovraffollamento degli autobus è un problema quotidiano. | Otobüslerin aşırı kalabalığı günlük bir sorun.
+la buca | çukur | isim (d) | Con la bici sono caduto per colpa di una buca. | Bisikletle bir çukur yüzünden düştüm.
+il senzatetto | evsiz | isim (e) | D'inverno i volontari portano coperte ai senzatetto. | Kışın gönüllüler evsizlere battaniye götürüyor.
+la sicurezza | güvenlik | isim (d) | I cittadini chiedono più sicurezza nelle strade di notte. | Vatandaşlar geceleri sokaklarda daha fazla güvenlik istiyor.
+il caro affitti | yüksek kiralar (sorunu) | isim (e) | Gli studenti protestano contro il caro affitti nelle città universitarie. | Öğrenciler üniversite şehirlerindeki yüksek kiraları protesto ediyor.
+## Şehir içi ulaşım
+il monopattino | (elektrikli) scooter | isim (e) | Molti giovani vanno al lavoro con il monopattino elettrico. | Pek çok genç işe elektrikli scooterla gidiyor.
+la zona a traffico limitato | trafiğe kısıtlı bölge | isim (d) | Senza permesso non puoi entrare nella zona a traffico limitato. | İzin olmadan trafiğe kısıtlı bölgeye giremezsin.
+il parchimetro | park sayacı | isim (e) | Il parchimetro accetta solo monete, non ho spiccioli! | Park sayacı yalnızca madeni para alıyor, bozuk param yok!
+il bike sharing | bisiklet paylaşımı | isim (e) | Con il bike sharing attraverso il centro in dieci minuti. | Bisiklet paylaşımıyla merkezi on dakikada geçiyorum.
+l'ora di punta (d) | trafiğin yoğun olduğu saat | isim (d) | All'ora di punta la metropolitana è piena come un uovo. | Yoğun saatte metro tıklım tıklım dolu.
+la corsia preferenziale | otobüs şeridi | isim (d) | I taxi possono usare la corsia preferenziale degli autobus. | Taksiler otobüs şeridini kullanabiliyor.
+la navetta | servis aracı, mekik | isim (d) | Una navetta gratuita collega l'albergo all'aeroporto. | Ücretsiz bir servis aracı oteli havalimanına bağlıyor.
+il pendolarismo | şehirlerarası günlük gidiş geliş | isim (e) | Il pendolarismo tra Milano e Bergamo è molto diffuso. | Milano ile Bergamo arasında her gün gidip gelmek çok yaygın.
+il tragitto | yol, güzergâh (gidiş) | isim (e) | Il tragitto da casa all'ufficio dura quaranta minuti. | Evden ofise yol kırk dakika sürüyor.
+la circonvallazione | çevre yolu | isim (d) | Prendi la circonvallazione per evitare il traffico del centro. | Merkezin trafiğinden kaçınmak için çevre yolunu kullan.
+## Bina
+il pianterreno | zemin kat | isim (e) | Al pianterreno del palazzo c'è una farmacia. | Binanın zemin katında bir eczane var.
+l'androne (e) | bina girişi, hol | isim (e) | Le biciclette non si possono lasciare nell'androne. | Bisikletler bina girişinde bırakılamaz.
+il lucernario | çatı penceresi | isim (e) | In mansarda entra la luce da un grande lucernario. | Çatı katına büyük bir çatı penceresinden ışık giriyor.
+il portico | revak, kemeraltı | isim (e) | A Bologna puoi camminare sotto i portici anche quando piove. | Bologna'da yağmur yağarken bile revakların altında yürüyebilirsin.
+la ringhiera | korkuluk, parmaklık | isim (d) | Tieniti alla ringhiera, le scale sono ripide. | Korkuluğa tutun, merdivenler dik.
+la grondaia | yağmur oluğu | isim (d) | La grondaia è piena di foglie e l'acqua cade sul balcone. | Yağmur oluğu yaprakla dolu, su balkona akıyor.
+l'amministratore di condominio (e) | site/apartman yöneticisi | isim (e) | Ho scritto all'amministratore di condominio per l'ascensore rotto. | Bozuk asansör için apartman yöneticisine yazdım.
+la scala antincendio | yangın merdiveni | isim (d) | In caso di emergenza usate la scala antincendio sul retro. | Acil durumda arkadaki yangın merdivenini kullanın.
+la recinzione | çit, çevre duvarı | isim (d) | Il cane non può uscire, la recinzione è alta. | Köpek dışarı çıkamaz, çit yüksek.
+il cancello | bahçe kapısı | isim (e) | Ricordati di chiudere il cancello quando esci con la macchina. | Arabayla çıkarken bahçe kapısını kapatmayı unutma.
+## Komşuluk ilişkileri
+il regolamento | yönetmelik, kurallar | isim (e) | Il regolamento del condominio vieta i rumori dopo le dieci. | Apartman yönetmeliği saat ondan sonra gürültüyü yasaklıyor.
+il baccano | gürültü patırtı | isim (e) | I ragazzi del terzo piano fanno un baccano incredibile. | Üçüncü kattaki gençler inanılmaz bir gürültü yapıyor.
+la quiete | sükûnet, huzur | isim (d) | Abbiamo lasciato la città per la quiete della campagna. | Kırların sükûneti için şehirden ayrıldık.
+invadente | işgüzar, haddini aşan | sıfat | La vicina è gentile ma un po' invadente con le domande. | Komşu kibar ama sorularıyla biraz işgüzar.
+cordiale | samimi, sıcak | sıfat | Il portiere è sempre cordiale e saluta tutti per nome. | Kapıcı her zaman samimidir, herkesi adıyla selamlar.
+tenere d'occhio | göz kulak olmak | deyim | Puoi tenere d'occhio la casa mentre siamo in vacanza? | Biz tatildeyken eve göz kulak olabilir misin?
+il ficcanaso | burnunu her şeye sokan kişi | isim (e) | Non fare il ficcanaso, non sono affari tuoi! | Burnunu her şeye sokma, seni ilgilendirmez!
+la bacheca | ilan panosu | isim (d) | Gli avvisi del condominio sono sulla bacheca all'ingresso. | Apartman duyuruları girişteki ilan panosunda.
+l'assemblea (d) | genel kurul, toplantı | isim (d) | All'assemblea di condominio abbiamo discusso del tetto. | Apartman toplantısında çatıyı konuştuk.
+rispettoso | saygılı | sıfat | I nuovi inquilini sono rispettosi e molto silenziosi. | Yeni kiracılar saygılı ve çok sessiz.
+## Şehir ve taşra
+la metropoli | büyük şehir, metropol | isim (d) | Dopo anni in una metropoli, cercava un posto più tranquillo. | Büyük bir şehirde geçen yıllardan sonra daha sakin bir yer arıyordu.
+la cittadina | küçük şehir, kasaba | isim (d) | Abitiamo in una cittadina tranquilla vicino al lago di Garda. | Garda Gölü yakınlarında sakin bir kasabada oturuyoruz.
+la provincia | il; taşra | isim (d) | Sono nata in provincia di Lecce, in un piccolo paese. | Lecce iline bağlı küçük bir kasabada doğdum.
+rurale | kırsal | sıfat | Nelle zone rurali i servizi pubblici sono più lontani. | Kırsal bölgelerde kamu hizmetleri daha uzakta.
+urbano | kentsel, şehirle ilgili | sıfat | Il traffico urbano è il problema principale della città. | Kent içi trafik şehrin ana sorunu.
+il paesino | küçük köy, kasabacık | isim (e) | Mia nonna vive in un paesino di trecento abitanti. | Büyükannem üç yüz nüfuslu küçük bir köyde yaşıyor.
+il ritmo | tempo, ritim | isim (e) | In città il ritmo di vita è troppo veloce per me. | Şehirde hayatın temposu benim için fazla hızlı.
+la qualità della vita | yaşam kalitesi | isim (d) | Trento è spesso prima per la qualità della vita. | Trento yaşam kalitesinde sık sık birinci oluyor.
+caotico | karmaşık, kaotik | sıfat | Napoli è caotica, ma piena di vita e di energia. | Napoli kaotik ama hayat ve enerji dolu.
+a misura d'uomo | insan ölçeğinde, yaşanabilir | ifade | Mi piace vivere in una città a misura d'uomo. | İnsan ölçeğinde, yaşanabilir bir şehirde yaşamayı seviyorum.
