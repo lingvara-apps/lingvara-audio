@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa
+## Şehirde
+a cidade | şehir | isim (d) | Salvador é uma cidade antiga. | Salvador eski bir şehir.
+o centro | merkez, şehir merkezi | isim (e) | Trabalho no centro. | Merkezde çalışıyorum.
+a rua | sokak, cadde | isim (d) | Moro nesta rua. | Bu sokakta oturuyorum.
+a avenida | bulvar | isim (d) | A avenida Paulista é famosa. | Paulista Bulvarı meşhurdur.
+a praça | meydan | isim (d) | Tem uma feira na praça. | Meydanda bir pazar var.
+o bairro | semt, mahalle | isim (e) | Meu bairro é tranquilo. | Mahallem sakin.
+o parque | park | isim (e) | Corro no parque de manhã. | Sabahları parkta koşarım.
+a ponte | köprü | isim (d) | A ponte é muito longa. | Köprü çok uzun.
+o shopping | alışveriş merkezi | isim (e) | Vamos ao shopping no sábado? | Cumartesi AVM'ye gidelim mi?
+a esquina | köşe (sokak) | isim (d) | A padaria fica na esquina. | Fırın köşede.
+## Şehirdeki yerler
+o banco | banka; bank | isim (e) | O banco fecha às quatro. | Banka dörtte kapanıyor.
+a farmácia | eczane | isim (d) | Tem uma farmácia aqui perto? | Yakında eczane var mı?
+o hospital | hastane | isim (e) | O hospital fica longe. | Hastane uzakta.
+a escola | okul | isim (d) | A escola começa às sete. | Okul yedide başlıyor.
+a igreja | kilise | isim (d) | A igreja é muito antiga. | Kilise çok eski.
+o museu | müze | isim (e) | O museu abre aos domingos. | Müze pazarları açık.
+o correio | postane | isim (e) | Vou ao correio mandar uma carta. | Mektup göndermek için postaneye gidiyorum.
+a biblioteca | kütüphane | isim (d) | Estudo na biblioteca. | Kütüphanede ders çalışıyorum.
+o hotel | otel | isim (e) | O hotel fica perto da praia. | Otel plaja yakın.
+o cinema | sinema | isim (e) | Vamos ao cinema hoje? | Bugün sinemaya gidelim mi?
+## Yön sorma
+à direita | sağda; sağa | ifade | Vire à direita. | Sağa dön.
+à esquerda | solda; sola | ifade | O banco fica à esquerda. | Banka solda.
+em frente | karşıda; düz ileri | ifade | Siga em frente. | Düz devam et.
+reto | dosdoğru, düz | zarf | Vá reto até a praça. | Meydana kadar dümdüz git.
+longe | uzak; uzakta | zarf | O aeroporto é longe? | Havalimanı uzak mı?
+virar | dönmek | fiil | Vire na segunda rua. | İkinci sokaktan dön.
+atravessar | karşıdan karşıya geçmek | fiil | Atravesse a rua com cuidado. | Caddeden dikkatle karşıya geç.
+o mapa | harita | isim (e) | Você tem um mapa da cidade? | Şehir haritan var mı?
+o endereço | adres | isim (e) | Qual é o seu endereço? | Adresin ne?
+o sinal | trafik ışığı; işaret | isim (e) | Pare no sinal vermelho. | Kırmızı ışıkta dur.
+## Toplu taşıma
+o ônibus | otobüs | isim (e) | Pego o ônibus às sete. | Yedide otobüse binerim.
+o metrô | metro | isim (e) | O metrô é rápido. | Metro hızlı.
+o trem | tren | isim (e) | O trem sai às dez. | Tren onda kalkıyor.
+o táxi | taksi | isim (e) | Vamos de táxi. | Taksiyle gidelim.
+o avião | uçak | isim (e) | O avião chega à noite. | Uçak akşam iniyor.
+o barco | tekne, kayık | isim (e) | Vamos à ilha de barco. | Adaya tekneyle gidiyoruz.
+o ponto de ônibus | otobüs durağı | isim (e) | O ponto de ônibus é ali. | Otobüs durağı şurada.
+a estação | istasyon; mevsim | isim (d) | Desço na próxima estação. | Bir sonraki istasyonda iniyorum.
+a passagem | bilet (yolculuk) | isim (d) | A passagem custa cinco reais. | Bilet beş real.
+o aeroporto | havalimanı | isim (e) | Te levo ao aeroporto. | Seni havalimanına götürürüm.
+## Hareket fiilleri
+ir | gitmek | fiil · düzensiz | Vou para casa agora. | Şimdi eve gidiyorum.
+vir | gelmek | fiil · düzensiz | Você vem à festa? | Partiye geliyor musun?
+chegar | varmak, gelmek | fiil | Chego às oito. | Sekizde varıyorum.
+sair | çıkmak, ayrılmak | fiil · düzensiz | Saio de casa cedo. | Evden erken çıkarım.
+voltar | dönmek, geri gelmek | fiil | Volto amanhã. | Yarın dönüyorum.
+entrar | girmek | fiil | Pode entrar! | Girebilirsin!
+subir | çıkmak; binmek | fiil | Suba no ônibus pela frente. | Otobüse önden bin.
+descer | inmek | fiil | Desço no ponto final. | Son durakta inerim.
+andar | yürümek; gezmek | fiil | Gosto de andar na praia. | Sahilde yürümeyi severim.
+pegar | almak; binmek (araca) | fiil | Vou pegar um táxi. | Taksiye bineceğim.
+## Seyahat
+a viagem | yolculuk, seyahat | isim (d) | A viagem foi ótima. | Yolculuk harikaydı.
+viajar | seyahat etmek | fiil | Gosto de viajar sozinho. | Yalnız seyahat etmeyi severim.
+as férias | tatil | isim (çoğul) | Nas férias vou para a Bahia. | Tatilde Bahia'ya gidiyorum.
+o turista | turist | isim (e) | O Rio tem muitos turistas. | Rio'da çok turist var.
+a mala | bavul | isim (d) | Minha mala é pesada. | Bavulum ağır.
+o passaporte | pasaport | isim (e) | Não esqueça o passaporte! | Pasaportu unutma!
+a foto | fotoğraf | isim (d) | Tire uma foto nossa! | Bizim bir fotoğrafımızı çek!
+visitar | ziyaret etmek, gezmek | fiil | Quero visitar Ouro Preto. | Ouro Preto'yu gezmek istiyorum.
+o passeio | gezinti | isim (e) | Vamos fazer um passeio de barco? | Tekne gezisi yapalım mı?
+a reserva | rezervasyon | isim (d) | Tenho uma reserva no hotel. | Otelde rezervasyonum var.
+## Doğa
+a natureza | doğa | isim (d) | Adoro a natureza. | Doğaya bayılırım.
+a montanha | dağ | isim (d) | A montanha é muito alta. | Dağ çok yüksek.
+a floresta | orman | isim (d) | A floresta amazônica é enorme. | Amazon ormanı devasa.
+o lago | göl | isim (e) | Nadamos no lago. | Gölde yüzüyoruz.
+a ilha | ada | isim (d) | Florianópolis é uma ilha. | Florianópolis bir ada.
+a cachoeira | şelale | isim (d) | A cachoeira é linda. | Şelale çok güzel.
+o campo | kır, tarla; saha | isim (e) | Meus avós moram no campo. | Dedemle ninem kırsalda yaşıyor.
+a areia | kum | isim (d) | A areia está quente. | Kum sıcak.
+a pedra | taş | isim (d) | Cuidado com as pedras! | Taşlara dikkat et!
+o morro | tepe | isim (e) | Subimos o morro a pé. | Tepeye yürüyerek çıktık.
+## Hava durumu
+o calor | sıcaklık, sıcak hava | isim (e) | Que calor hoje! | Bugün ne sıcak!
+o frio | soğuk hava | isim (e) | Estou com frio. | Üşüyorum.
+o vento | rüzgâr | isim (e) | Hoje tem muito vento. | Bugün çok rüzgâr var.
+a nuvem | bulut | isim (d) | O céu tem poucas nuvens. | Gökyüzünde az bulut var.
+nublado | bulutlu | sıfat | O dia está nublado. | Hava bulutlu.
+ensolarado | güneşli | sıfat | Amanhã vai ser ensolarado. | Yarın güneşli olacak.
+chover | yağmur yağmak | fiil | Vai chover à tarde. | Öğleden sonra yağmur yağacak.
+a temperatura | sıcaklık (derece) | isim (d) | A temperatura está alta. | Sıcaklık yüksek.
+o grau | derece | isim (e) | Hoje faz trinta graus. | Bugün otuz derece.
+úmido | nemli | sıfat | Manaus é muito úmida. | Manaus çok nemli.
+## Trafik
+o trânsito | trafik | isim (e) | O trânsito em São Paulo é terrível. | São Paulo'da trafik berbat.
+a estrada | karayolu, yol | isim (d) | A estrada para a praia é boa. | Plaja giden yol iyi.
+dirigir | araba sürmek | fiil | Você sabe dirigir? | Araba kullanmayı biliyor musun?
+estacionar | park etmek | fiil | Não pode estacionar aqui. | Buraya park edilmez.
+a moto | motosiklet | isim (d) | Ele vai de moto para o trabalho. | İşe motosikletle gidiyor.
+o caminhão | kamyon | isim (e) | O caminhão é muito grande. | Kamyon çok büyük.
+o pedestre | yaya | isim (e) | O pedestre espera no sinal. | Yaya ışıkta bekliyor.
+a calçada | kaldırım | isim (d) | Ande na calçada! | Kaldırımda yürü!
+a faixa de pedestres | yaya geçidi | isim (d) | Atravesse na faixa de pedestres. | Yaya geçidinden karşıya geç.
+o posto de gasolina | benzin istasyonu | isim (e) | Pare no posto de gasolina. | Benzin istasyonunda dur.
+## Brezilya'yı tanıyalım
+o estado | eyalet; devlet | isim (e) | O Brasil tem vinte e seis estados. | Brezilya'nın yirmi altı eyaleti var.
+a capital | başkent | isim (d) | Brasília é a capital do Brasil. | Brasília Brezilya'nın başkenti.
+o litoral | sahil şeridi | isim (e) | O litoral brasileiro é enorme. | Brezilya sahil şeridi çok uzun.
+o interior | taşra, iç bölge | isim (e) | Ela é do interior de Goiás. | O, Goiás'ın taşrasından.
+a região | bölge | isim (d) | O Sul é uma região fria. | Güney soğuk bir bölge.
+o Nordeste | Kuzeydoğu (Brezilya bölgesi) | isim (e) | O Nordeste tem praias lindas. | Kuzeydoğu'nun güzel plajları var.
+a Amazônia | Amazonya | isim (d) | A Amazônia tem muitos rios. | Amazonya'da çok nehir var.
+o morador | sakin, oturan | isim (e) | Os moradores são simpáticos. | Mahalle sakinleri cana yakın.
+famoso | ünlü | sıfat | O Cristo Redentor é famoso. | Kurtarıcı İsa heykeli ünlüdür.
+turístico | turistik | sıfat | Gramado é uma cidade turística. | Gramado turistik bir şehir.

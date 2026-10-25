@@ -1,0 +1,111 @@
+# UNIT: Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+## Temel yiyecekler
+a comida | yemek, yiyecek | isim (d) | A comida baiana é deliciosa. | Bahia yemekleri çok lezzetli.
+o pão | ekmek | isim (e) | Compro pão todo dia. | Her gün ekmek alırım.
+o arroz | pirinç; pilav | isim (e) | Arroz com feijão, por favor. | Pilav ve fasulye, lütfen.
+o feijão | fasulye | isim (e) | O feijão está pronto. | Fasulye hazır.
+a carne | et | isim (d) | Eu não como carne. | Et yemem.
+o frango | tavuk (yemek) | isim (e) | Hoje tem frango assado. | Bugün fırında tavuk var.
+o ovo | yumurta | isim (e) | Quero dois ovos fritos. | İki sahanda yumurta istiyorum.
+o queijo | peynir | isim (e) | Minas tem queijo famoso. | Minas'ın meşhur peyniri var.
+a manteiga | tereyağı | isim (d) | Pão com manteiga, por favor. | Tereyağlı ekmek, lütfen.
+o macarrão | makarna | isim (e) | As crianças adoram macarrão. | Çocuklar makarnaya bayılır.
+## İçecekler
+a água | su | isim (d) | Um copo de água gelada, por favor. | Bir bardak soğuk su, lütfen.
+o café | kahve | isim (e) | O café brasileiro é forte. | Brezilya kahvesi sert.
+o leite | süt | isim (e) | A criança bebe leite. | Çocuk süt içiyor.
+o suco | meyve suyu | isim (e) | Um suco de manga, por favor. | Bir mango suyu, lütfen.
+o chá | çay | isim (e) | Você quer chá ou café? | Çay mı kahve mi istersin?
+a cerveja | bira | isim (d) | Ele pede uma cerveja gelada. | Soğuk bir bira istiyor.
+o vinho | şarap | isim (e) | O vinho português é bom. | Portekiz şarabı güzel.
+o refrigerante | gazlı içecek | isim (e) | Não bebo refrigerante. | Gazlı içecek içmem.
+a bebida | içecek | isim (d) | Qual bebida você quer? | Hangi içeceği istersin?
+a água de coco | hindistancevizi suyu | isim (d) | Na praia tomo água de coco. | Plajda hindistancevizi suyu içerim.
+## Meyveler
+a banana | muz | isim (d) | O macaco come banana. | Maymun muz yiyor.
+a maçã | elma | isim (d) | Uma maçã por dia. | Günde bir elma.
+o abacaxi | ananas | isim (e) | O abacaxi está doce. | Ananas tatlı.
+a manga | mango | isim (d) | Adoro manga madura. | Olgun mangoya bayılırım.
+o mamão | papaya | isim (e) | Como mamão no café da manhã. | Kahvaltıda papaya yerim.
+a uva | üzüm | isim (d) | As uvas são verdes. | Üzümler yeşil.
+o morango | çilek | isim (e) | O bolo tem morango. | Kekte çilek var.
+o limão | limon; misket limonu | isim (e) | Suco de limão sem açúcar. | Şekersiz limonata.
+a melancia | karpuz | isim (d) | A melancia é grande. | Karpuz büyük.
+o abacate | avokado | isim (e) | No Brasil o abacate é doce. | Brezilya'da avokado tatlı yenir.
+## Sebzeler
+o tomate | domates | isim (e) | A salada tem tomate. | Salatada domates var.
+a batata | patates | isim (d) | Quero batata frita. | Patates kızartması istiyorum.
+a cebola | soğan | isim (d) | Corte a cebola. | Soğanı doğra.
+o alho | sarımsak | isim (e) | O arroz leva alho. | Pilava sarımsak konur.
+a cenoura | havuç | isim (d) | O coelho come cenoura. | Tavşan havuç yiyor.
+a alface | marul | isim (d) | Compre uma alface. | Bir marul al.
+o pepino | salatalık | isim (e) | O pepino está fresco. | Salatalık taze.
+o milho | mısır | isim (e) | Na festa junina tem milho. | Haziran şenliğinde mısır olur.
+a mandioca | manyok | isim (d) | A mandioca frita é gostosa. | Manyok kızartması lezzetli.
+a abóbora | balkabağı | isim (d) | A sopa de abóbora está quente. | Balkabağı çorbası sıcak.
+## Kahvaltı
+o café da manhã | kahvaltı | isim (e) | O café da manhã está na mesa. | Kahvaltı masada.
+o pão de queijo | peynirli ekmek (Brezilya'ya özgü) | isim (e) | O pão de queijo é de Minas. | Pão de queijo Minas'tan.
+a tapioca | tapyoka krepi | isim (d) | Quero uma tapioca com coco. | Hindistancevizli bir tapyoka istiyorum.
+o presunto | jambon | isim (e) | Sanduíche de presunto e queijo. | Jambonlu peynirli sandviç.
+a geleia | reçel | isim (d) | Gosto de geleia de morango. | Çilek reçelini severim.
+o iogurte | yoğurt | isim (e) | Como iogurte com frutas. | Meyveli yoğurt yerim.
+o mel | bal | isim (e) | Chá com mel é bom. | Ballı çay güzel.
+o açúcar | şeker | isim (e) | Café sem açúcar, por favor. | Şekersiz kahve, lütfen.
+a torrada | kızarmış ekmek | isim (d) | Quero uma torrada com manteiga. | Tereyağlı bir kızarmış ekmek istiyorum.
+o cuscuz | mısır unu keki (kuskus) | isim (e) | No Nordeste se come cuscuz. | Kuzeydoğu'da kuskus yenir.
+## Öğünler ve yemekler
+o almoço | öğle yemeği | isim (e) | O almoço é ao meio-dia. | Öğle yemeği öğlen.
+o jantar | akşam yemeği | isim (e) | O jantar está pronto! | Akşam yemeği hazır!
+o lanche | ara öğün, atıştırmalık | isim (e) | Levo um lanche para a escola. | Okula atıştırmalık götürüyorum.
+a sopa | çorba | isim (d) | A sopa está muito quente. | Çorba çok sıcak.
+a salada | salata | isim (d) | Quero uma salada verde. | Yeşil salata istiyorum.
+a feijoada | feijoada (siyah fasulyeli et yemeği) | isim (d) | Sábado tem feijoada. | Cumartesi feijoada var.
+o churrasco | mangal, ızgara et | isim (e) | Domingo vamos fazer churrasco. | Pazar mangal yapacağız.
+a sobremesa | tatlı (yemek sonu) | isim (d) | Qual é a sobremesa? | Tatlı ne?
+o bolo | kek, pasta | isim (e) | A avó faz bolo de fubá. | Büyükanne mısır unu keki yapıyor.
+o sorvete | dondurma | isim (e) | Quero sorvete de chocolate. | Çikolatalı dondurma istiyorum.
+## Market ve pazar
+o supermercado | süpermarket | isim (e) | Vou ao supermercado. | Süpermarkete gidiyorum.
+a feira | semt pazarı | isim (d) | A feira é na quarta. | Pazar çarşamba günü kuruluyor.
+a padaria | fırın, unlu mamuller dükkânı | isim (d) | A padaria abre às seis. | Fırın altıda açılıyor.
+o açougue | kasap dükkânı | isim (e) | Compro carne no açougue. | Eti kasaptan alırım.
+o quilo | kilo | isim (e) | Um quilo de tomate, por favor. | Bir kilo domates, lütfen.
+o pacote | paket | isim (e) | Um pacote de arroz. | Bir paket pirinç.
+a lata | teneke kutu | isim (d) | Uma lata de milho. | Bir kutu mısır.
+a sacola | alışveriş poşeti | isim (d) | Precisa de sacola? | Poşet ister misiniz?
+a dúzia | düzine | isim (d) | Uma dúzia de ovos, por favor. | Bir düzine yumurta, lütfen.
+fresco | taze; serin | sıfat | O peixe está fresco. | Balık taze.
+## Restoranda
+o restaurante | restoran | isim (e) | O restaurante está cheio. | Restoran dolu.
+o cardápio | menü | isim (e) | O cardápio, por favor. | Menü, lütfen.
+a conta | hesap | isim (d) | A conta, por favor. | Hesap, lütfen.
+a gorjeta | bahşiş | isim (d) | A gorjeta é dez por cento. | Bahşiş yüzde on.
+o pedido | sipariş | isim (e) | Seu pedido está pronto. | Siparişiniz hazır.
+pedir | istemek; sipariş vermek | fiil · düzensiz | Vou pedir uma pizza. | Bir pizza sipariş edeceğim.
+reservar | rezervasyon yapmak | fiil | Quero reservar uma mesa. | Bir masa ayırtmak istiyorum.
+o prato do dia | günün yemeği | isim (e) | Qual é o prato do dia? | Günün yemeği ne?
+a porção | porsiyon | isim (d) | Uma porção de batata frita. | Bir porsiyon patates kızartması.
+a lanchonete | büfe, kafeterya | isim (d) | A lanchonete vende pastel. | Büfe pastel satıyor.
+## Tatlar
+gostoso | lezzetli, tatlı (konuşma dili) | sıfat | Que bolo gostoso! | Ne lezzetli bir kek!
+delicioso | çok lezzetli, nefis | sıfat | A moqueca está deliciosa. | Moqueca nefis olmuş.
+doce | tatlı | sıfat | O brigadeiro é muito doce. | Brigadeiro çok tatlı.
+salgado | tuzlu | sıfat | A sopa está salgada. | Çorba tuzlu.
+amargo | acı (tat) | sıfat | O café está amargo. | Kahve acı.
+azedo | ekşi | sıfat | O limão é azedo. | Limon ekşi.
+apimentado | acılı (biberli) | sıfat | A comida baiana é apimentada. | Bahia yemekleri acılı.
+quente | sıcak | sıfat | O café está quente. | Kahve sıcak.
+frio | soğuk | sıfat | A água está fria. | Su soğuk.
+o sabor | tat, lezzet | isim (e) | Qual sabor de sorvete? | Dondurma hangi tat?
+## Yemek fiilleri
+comer | yemek | fiil | Eu como muita fruta. | Çok meyve yerim.
+beber | içmek | fiil | Beba mais água! | Daha çok su iç!
+tomar | içmek; almak | fiil | Vamos tomar um café? | Bir kahve içelim mi?
+provar | tatmak; denemek | fiil | Prove o pão de queijo! | Pão de queijo'yu tat!
+almoçar | öğle yemeği yemek | fiil | Almoço com meus colegas. | İş arkadaşlarımla öğle yemeği yerim.
+jantar | akşam yemeği yemek | fiil | Vamos jantar fora hoje? | Bu akşam dışarıda yiyelim mi?
+a fome | açlık | isim (d) | Estou com fome. | Acıktım.
+a sede | susuzluk | isim (d) | Estou com muita sede. | Çok susadım.
+servir | servis etmek | fiil · düzensiz | O garçom serve o vinho. | Garson şarabı servis ediyor.
+preparar | hazırlamak | fiil | Ela prepara o almoço. | Öğle yemeğini hazırlıyor.

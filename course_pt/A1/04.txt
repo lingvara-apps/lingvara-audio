@@ -1,0 +1,111 @@
+# UNIT: Ev ve eşyalar | Odalar, mobilya, mutfak, ev işleri
+## Ev ve bina
+a casa | ev | isim (d) | Minha casa é amarela. | Evim sarı.
+o apartamento | daire, apartman dairesi | isim (e) | Moro num apartamento pequeno. | Küçük bir dairede oturuyorum.
+o prédio | bina | isim (e) | O prédio tem dez andares. | Bina on katlı.
+o andar | kat | isim (e) | Em que andar você mora? | Kaçıncı katta oturuyorsun?
+a porta | kapı | isim (d) | Feche a porta, por favor. | Kapıyı kapat, lütfen.
+a janela | pencere | isim (d) | Abra a janela, está calor. | Pencereyi aç, hava sıcak.
+a parede | duvar | isim (d) | A parede é branca. | Duvar beyaz.
+o teto | tavan | isim (e) | O teto da sala é alto. | Salonun tavanı yüksek.
+o chão | yer, zemin | isim (e) | O gato dorme no chão. | Kedi yerde uyuyor.
+a escada | merdiven | isim (d) | Suba a escada devagar. | Merdiveni yavaş çık.
+## Odalar
+o quarto | yatak odası; oda | isim (e) | Meu quarto é pequeno. | Odam küçük.
+a sala | salon, oturma odası | isim (d) | A família está na sala. | Aile salonda.
+a cozinha | mutfak | isim (d) | A mãe está na cozinha. | Annem mutfakta.
+o banheiro | banyo; tuvalet | isim (e) | Onde fica o banheiro? | Tuvalet nerede?
+o jardim | bahçe (çiçekli) | isim (e) | Temos flores no jardim. | Bahçede çiçeklerimiz var.
+a varanda | balkon, veranda | isim (d) | Tomo café na varanda. | Balkonda kahve içiyorum.
+o corredor | koridor | isim (e) | O banheiro fica no corredor. | Banyo koridorda.
+a garagem | garaj | isim (d) | O carro está na garagem. | Araba garajda.
+o quintal | arka bahçe, avlu | isim (e) | As crianças brincam no quintal. | Çocuklar avluda oynuyor.
+a área de serviço | çamaşır odası | isim (d) | A máquina fica na área de serviço. | Makine çamaşır odasında.
+## Mobilya
+a mesa | masa | isim (d) | O jantar está na mesa. | Akşam yemeği masada.
+a cadeira | sandalye | isim (d) | Pegue uma cadeira. | Bir sandalye al.
+o sofá | kanepe | isim (e) | O sofá é muito confortável. | Kanepe çok rahat.
+a cama | yatak | isim (d) | Vou para a cama cedo. | Erken yatarım.
+o armário | dolap | isim (e) | A roupa está no armário. | Giysiler dolapta.
+a estante | kitaplık, raf | isim (d) | Os livros estão na estante. | Kitaplar kitaplıkta.
+o tapete | halı | isim (e) | O tapete é da Turquia. | Halı Türkiye'den.
+a poltrona | koltuk | isim (d) | Meu avô lê na poltrona. | Dedem koltukta okuyor.
+a gaveta | çekmece | isim (d) | As chaves estão na gaveta. | Anahtarlar çekmecede.
+o espelho | ayna | isim (e) | Ela se olha no espelho. | Aynada kendine bakıyor.
+## Mutfak
+a geladeira | buzdolabı | isim (d) | O leite está na geladeira. | Süt buzdolabında.
+o fogão | ocak (fırınlı) | isim (e) | O feijão está no fogão. | Fasulye ocakta.
+o forno | fırın | isim (e) | O bolo está no forno. | Kek fırında.
+o micro-ondas | mikrodalga fırın | isim (e) | Esquente a comida no micro-ondas. | Yemeği mikrodalgada ısıt.
+a pia | evye, lavabo | isim (d) | A louça está na pia. | Bulaşıklar evyede.
+a panela | tencere | isim (d) | A panela está quente! | Tencere sıcak!
+a frigideira | tava | isim (d) | Frite o ovo na frigideira. | Yumurtayı tavada kızart.
+a torneira | musluk | isim (d) | Feche a torneira. | Musluğu kapat.
+a lixeira | çöp kutusu | isim (d) | Jogue o papel na lixeira. | Kâğıdı çöp kutusuna at.
+a cafeteira | kahve makinesi | isim (d) | A cafeteira está ligada. | Kahve makinesi açık.
+## Sofra
+o prato | tabak; yemek | isim (e) | O prato está limpo. | Tabak temiz.
+o copo | bardak | isim (e) | Um copo de água, por favor. | Bir bardak su, lütfen.
+a xícara | fincan | isim (d) | Quer uma xícara de café? | Bir fincan kahve ister misin?
+o garfo | çatal | isim (e) | Preciso de um garfo. | Bir çatala ihtiyacım var.
+a faca | bıçak | isim (d) | Cuidado com a faca! | Bıçağa dikkat et!
+a colher | kaşık | isim (d) | Coma a sopa com a colher. | Çorbayı kaşıkla iç.
+o guardanapo | peçete | isim (e) | Pode me dar um guardanapo? | Bana bir peçete verir misin?
+a toalha de mesa | masa örtüsü | isim (d) | A toalha de mesa é azul. | Masa örtüsü mavi.
+a garrafa | şişe | isim (d) | Abra a garrafa de água. | Su şişesini aç.
+a tigela | kase | isim (d) | O açaí vem numa tigela. | Açaí bir kasede geliyor.
+## Banyo ve yatak odası
+o chuveiro | duş | isim (e) | O chuveiro está frio. | Duş soğuk.
+a toalha | havlu | isim (d) | Preciso de uma toalha limpa. | Temiz bir havluya ihtiyacım var.
+o sabonete | sabun | isim (e) | O sabonete tem cheiro bom. | Sabun güzel kokuyor.
+a escova de dentes | diş fırçası | isim (d) | Esqueci a escova de dentes. | Diş fırçamı unuttum.
+o travesseiro | yastık | isim (e) | Este travesseiro é macio. | Bu yastık yumuşak.
+o cobertor | battaniye | isim (e) | Está frio, pegue um cobertor. | Hava soğuk, bir battaniye al.
+o lençol | çarşaf | isim (e) | Troco o lençol no sábado. | Çarşafı cumartesi değiştiririm.
+o vaso sanitário | klozet | isim (e) | O vaso sanitário está quebrado. | Klozet bozuk.
+a banheira | küvet | isim (d) | O hotel tem banheira. | Otelde küvet var.
+o despertador | çalar saat | isim (e) | O despertador toca às seis. | Çalar saat altıda çalıyor.
+## Elektrik ve ev aletleri
+a luz | ışık; elektrik | isim (d) | Apague a luz, por favor. | Işığı söndür, lütfen.
+a lâmpada | ampul; lamba | isim (d) | A lâmpada queimou. | Ampul yandı.
+a tomada | priz | isim (d) | Onde tem uma tomada? | Nerede priz var?
+a televisão | televizyon | isim (d) | A televisão está ligada. | Televizyon açık.
+o ventilador | vantilatör | isim (e) | Ligue o ventilador, está quente. | Vantilatörü aç, sıcak.
+o ar-condicionado | klima | isim (e) | O quarto tem ar-condicionado. | Odada klima var.
+a máquina de lavar | çamaşır makinesi | isim (d) | A roupa está na máquina de lavar. | Çamaşırlar makinede.
+a chave | anahtar | isim (d) | Perdi a chave de casa. | Ev anahtarını kaybettim.
+o controle remoto | kumanda | isim (e) | Cadê o controle remoto? | Kumanda nerede?
+o ferro de passar | ütü | isim (e) | O ferro de passar está quente. | Ütü sıcak.
+## Ev işleri
+limpar | temizlemek | fiil | Limpo a casa no sábado. | Evi cumartesi temizlerim.
+lavar | yıkamak | fiil | Eu lavo a louça. | Bulaşıkları ben yıkarım.
+arrumar | toplamak, düzenlemek | fiil | Arrume o seu quarto! | Odanı topla!
+varrer | süpürmek (süpürgeyle) | fiil | Ele varre a cozinha. | O mutfağı süpürüyor.
+cozinhar | yemek pişirmek | fiil | Meu marido cozinha bem. | Kocam iyi yemek yapar.
+passar | ütülemek; geçmek | fiil | Ela passa as camisas. | Gömlekleri ütülüyor.
+a faxina | genel temizlik | isim (d) | Hoje é dia de faxina. | Bugün temizlik günü.
+a louça | bulaşık | isim (d) | A louça está suja. | Bulaşıklar kirli.
+a bagunça | dağınıklık | isim (d) | Que bagunça no seu quarto! | Odan ne kadar dağınık!
+sujo | kirli | sıfat | O chão está sujo. | Yer kirli.
+## Konum edatları
+em | -de, -da; içinde | edat | O livro está na mesa. | Kitap masada.
+em cima de | üstünde | edat | O gato está em cima do sofá. | Kedi kanepenin üstünde.
+embaixo de | altında | edat | O sapato está embaixo da cama. | Ayakkabı yatağın altında.
+dentro de | içinde | edat | O leite está dentro da geladeira. | Süt buzdolabının içinde.
+fora de | dışında | edat | O cachorro dorme fora de casa. | Köpek evin dışında uyuyor.
+ao lado de | yanında | edat | A farmácia fica ao lado do banco. | Eczane bankanın yanında.
+atrás de | arkasında | edat | O jardim fica atrás da casa. | Bahçe evin arkasında.
+na frente de | önünde | edat | Te espero na frente do prédio. | Seni binanın önünde beklerim.
+entre | arasında | edat | A cadeira está entre as mesas. | Sandalye masaların arasında.
+perto de | yakınında | edat | Moro perto da praia. | Plajın yakınında oturuyorum.
+## Evi tanımlama
+grande | büyük | sıfat | A sala é grande. | Salon büyük.
+pequeno | küçük | sıfat | A cozinha é pequena. | Mutfak küçük.
+novo | yeni | sıfat | O prédio é novo. | Bina yeni.
+confortável | rahat, konforlu | sıfat | A cama é confortável. | Yatak rahat.
+limpo | temiz | sıfat | O banheiro está limpo. | Banyo temiz.
+escuro | karanlık; koyu | sıfat | O corredor é escuro. | Koridor karanlık.
+iluminado | aydınlık | sıfat | O apartamento é bem iluminado. | Daire çok aydınlık.
+silencioso | sessiz | sıfat | A rua é silenciosa. | Sokak sessiz.
+alugar | kiralamak | fiil | Quero alugar um apartamento. | Bir daire kiralamak istiyorum.
+o aluguel | kira | isim (e) | O aluguel é muito caro. | Kira çok pahalı.
