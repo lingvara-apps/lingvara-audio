@@ -1,0 +1,111 @@
+# UNIT: Science and technology discourse | Artificial intelligence, biotechnology, energy, digital society
+## Artificial intelligence
+makine öğrenmesi | machine learning | isim | Makine öğrenmesi sayesinde sistem, her yeni veriden ders çıkararak tahminlerini iyileştiriyor. | Thanks to machine learning, the system improves its predictions by learning from each new piece of data.
+derin öğrenme | deep learning | isim | Derin öğrenme yöntemleri, tıbbi görüntülerdeki küçük tümörleri bile fark edebiliyor. | Deep learning methods can detect even small tumours in medical images.
+yapay sinir ağı | artificial neural network | isim | Yapay sinir ağları, beynin bilgi işleme biçiminden esinlenerek tasarlanmıştır. | Artificial neural networks were designed with inspiration from the way the brain processes information.
+algoritma | algorithm | isim | Bu algoritma, kullanıcıların geçmiş tercihlerine bakarak yeni ürünler öneriyor. | This algorithm recommends new products by looking at users' past preferences.
+büyük dil modeli | large language model | isim | Büyük dil modelleri, milyarlarca sözcükten oluşan metinler üzerinde eğitiliyor. | Large language models are trained on texts made up of billions of words.
+eğitim verisi | training data | isim | Eğitim verisi dengesiz olursa modelin kararları da kaçınılmaz olarak taraflı olur. | If the training data are unbalanced, the model's decisions will inevitably be biased too.
+algoritmik önyargı | algorithmic bias | isim | Araştırmacılar, işe alım yazılımlarındaki algoritmik önyargıyı ortadan kaldırmanın yollarını arıyor. | Researchers are looking for ways to eliminate algorithmic bias in recruitment software.
+otomasyon | automation | isim | Otomasyonun yaygınlaşması, bazı mesleklerin tamamen ortadan kalkmasına yol açabilir. | The spread of automation may cause some professions to disappear completely.
+insansı robot | humanoid robot | isim | Fuarda sergilenen insansı robot, ziyaretçilerin sorularını birkaç dilde yanıtladı. | The humanoid robot displayed at the fair answered visitors' questions in several languages.
+özerk | autonomous | sıfat | Özerk araçların trafiğe çıkabilmesi için hukuki düzenlemelerin de tamamlanması gerekiyor. | For autonomous vehicles to take to the road, legal regulations also need to be completed.
+## Data and privacy
+büyük veri | big data | isim | Belediye, trafik sıkışıklığını azaltmak için büyük veri analizlerinden yararlanıyor. | The municipality is using big data analysis to reduce traffic congestion.
+veri madenciliği | data mining | isim | Veri madenciliği, alışveriş kayıtlarındaki gizli örüntüleri ortaya çıkarmak için kullanılıyor. | Data mining is used to uncover hidden patterns in shopping records.
+kişisel veri | personal data | isim | Şirketler, kişisel verileri kullanıcının açık rızası olmadan üçüncü kişilerle paylaşamaz. | Companies may not share personal data with third parties without the user's explicit consent.
+anonimleştirmek | to anonymise | fiil | Hastanedeki hasta kayıtları, araştırmacılarla paylaşılmadan önce titizlikle anonimleştiriliyor. | The hospital's patient records are carefully anonymised before being shared with researchers.
+gözetim | surveillance | isim | Kentlerdeki kamera sayısının artması, gözetim ile mahremiyet arasındaki dengeyi tartışmaya açtı. | The increase in the number of cameras in cities has opened the balance between surveillance and privacy to debate.
+dijital ayak izi | digital footprint | isim | İnternette yaptığımız her arama, ardımızda silinmesi zor bir dijital ayak izi bırakıyor. | Every search we make online leaves behind a digital footprint that is hard to erase.
+çerez | cookie (web) | isim | Siteye girer girmez çerezleri kabul edip etmediğimizi soran bir pencere açıldı. | As soon as we entered the site, a window opened asking whether we accepted cookies.
+şifreleme | encryption | isim | Uçtan uca şifreleme, mesajların yalnızca gönderen ve alıcı tarafından okunmasını sağlar. | End-to-end encryption ensures that messages can be read only by the sender and the recipient.
+açık kaynak | open source | isim | Açık kaynak yazılımlar, dünyanın her yerinden gönüllü geliştiricilerin katkısıyla büyüyor. | Open-source software grows through contributions from volunteer developers all over the world.
+bulut bilişim | cloud computing | isim | Bulut bilişim, küçük şirketlerin pahalı sunucular satın almadan büyümesini kolaylaştırdı. | Cloud computing has made it easier for small companies to grow without buying expensive servers.
+## Biotechnology
+gen düzenleme | gene editing | isim | Gen düzenleme teknikleri, kalıtsal hastalıkların tedavisinde yeni bir umut doğurdu. | Gene editing techniques have raised new hope for treating hereditary diseases.
+genom | genome | isim | İnsan genomunun haritalanması, tıp tarihinde bir dönüm noktası olarak kabul edilir. | The mapping of the human genome is regarded as a turning point in the history of medicine.
+DNA dizilimi | DNA sequencing | isim | DNA dizilimi artık birkaç gün içinde ve eskisinden çok daha ucuza yapılabiliyor. | DNA sequencing can now be done within a few days and far more cheaply than before.
+kök hücre | stem cell | isim | Kök hücre tedavileri, hasar görmüş dokuların onarılmasında umut verici sonuçlar veriyor. | Stem cell therapies are producing promising results in repairing damaged tissue.
+klonlamak | to clone | fiil | Bilim insanları, bir memeliyi ilk kez klonladıklarında büyük etik tartışmalar başladı. | When scientists cloned a mammal for the first time, major ethical debates began.
+genetiği değiştirilmiş | genetically modified | sıfat | Genetiği değiştirilmiş ürünlerin etiketlenmesi, pek çok ülkede yasal bir zorunluluktur. | The labelling of genetically modified products is a legal requirement in many countries.
+biyoetik | bioethics | isim | Biyoetik kurulu, deneyin insan sağlığı açısından risk taşıyıp taşımadığını değerlendirecek. | The bioethics committee will assess whether the experiment poses a risk to human health.
+biyoteknoloji | biotechnology | isim | Biyoteknoloji şirketleri, kuraklığa dayanıklı buğday çeşitleri geliştirmek için çalışıyor. | Biotechnology companies are working to develop drought-resistant varieties of wheat.
+mutasyon | mutation | isim | Virüsün geçirdiği yeni bir mutasyon, aşıların etkinliğini azaltabilir. | A new mutation in the virus could reduce the effectiveness of the vaccines.
+laboratuvar ortamında | in laboratory conditions; in vitro | ifade | Laboratuvar ortamında üretilen et, yakında bazı restoranların menüsüne girebilir. | Meat produced in the laboratory may soon appear on the menus of some restaurants.
+## Energy
+enerji dönüşümü | energy transition | isim | Kömürden temiz kaynaklara geçişi kapsayan enerji dönüşümü, büyük yatırımlar gerektiriyor. | The energy transition from coal to clean sources requires major investment.
+kurulu güç | installed capacity | isim | Ülkenin rüzgâr santrallerindeki kurulu güç, son beş yılda iki katına çıktı. | The installed capacity of the country's wind farms has doubled in the last five years.
+nükleer santral | nuclear power plant | isim | Nükleer santrallerin güvenliği, özellikle deprem bölgelerinde ciddi bir tartışma konusudur. | The safety of nuclear power plants is a serious matter of debate, especially in earthquake zones.
+karbon nötr | carbon-neutral | sıfat | Şehir yönetimi, toplu taşıma sistemini 2040 yılına kadar karbon nötr hâle getirmeyi hedefliyor. | The city administration aims to make the public transport system carbon-neutral by 2040.
+karbon salımı | carbon emissions | isim | Ulaşım sektörü, kentlerdeki karbon salımının en büyük kaynaklarından biridir. | The transport sector is one of the largest sources of carbon emissions in cities.
+enerji verimliliği | energy efficiency | isim | Binaların yalıtılması, enerji verimliliğini artırmanın en ucuz yollarından biridir. | Insulating buildings is one of the cheapest ways of increasing energy efficiency.
+enerji depolama | energy storage | isim | Güneş ve rüzgârın kesintili olması, enerji depolama sorununu her zamankinden önemli hâle getirdi. | The intermittent nature of solar and wind power has made energy storage more important than ever.
+hidrojen | hydrogen | isim | Yeşil hidrojen, ağır sanayide fosil yakıtların yerini alabilecek bir seçenek olarak görülüyor. | Green hydrogen is seen as an option that could replace fossil fuels in heavy industry.
+elektrik şebekesi | power grid | isim | Eski elektrik şebekesi, yenilenebilir kaynaklardan gelen dalgalı üretimi taşımakta zorlanıyor. | The old power grid is struggling to cope with the fluctuating output from renewable sources.
+jeotermal | geothermal | sıfat | Batı Anadolu'daki jeotermal kaynaklar hem elektrik üretiminde hem seracılıkta kullanılıyor. | Geothermal resources in western Anatolia are used both for electricity generation and in greenhouse farming.
+## Digital society
+dijital uçurum | digital divide | isim | Kırsal bölgelerde internet erişiminin zayıf olması, dijital uçurumu derinleştiriyor. | Poor internet access in rural areas is deepening the digital divide.
+dijital okuryazarlık | digital literacy | isim | Okullarda dijital okuryazarlık dersleri, öğrencilere sahte haberleri ayırt etmeyi öğretiyor. | Digital literacy lessons in schools teach pupils how to recognise fake news.
+doğruluk kontrolü | fact-checking | isim | Deprem sonrasında yayılan asılsız haberler, bağımsız doğruluk kontrolü platformlarınca tek tek yalanlandı. | The baseless reports that spread after the earthquake were refuted one by one by independent fact-checking platforms.
+dezenformasyon | disinformation | isim | Dezenformasyonla mücadele için bazı platformlar şüpheli paylaşımları etiketlemeye başladı. | To combat disinformation, some platforms have started labelling suspicious posts.
+yankı odası | echo chamber | isim | Yalnızca kendisi gibi düşünenleri takip eden kullanıcılar, bir yankı odasına hapsolabilir. | Users who only follow people who think like them can become trapped in an echo chamber.
+siber zorbalık | cyberbullying | isim | Okul yönetimi, siber zorbalığa maruz kalan öğrenciler için bir destek hattı kurdu. | The school management set up a support line for pupils exposed to cyberbullying.
+ekran bağımlılığı | screen addiction | isim | Uzmanlar, küçük çocuklarda ekran bağımlılığının dil gelişimini olumsuz etkileyebileceğini söylüyor. | Experts say that screen addiction in young children may adversely affect language development.
+hibrit eğitim | blended learning | isim | Üniversite, derslerin bir kısmını yüz yüze, bir kısmını çevrim içi yürüten hibrit eğitim modeline geçti. | The university switched to a blended learning model, running some classes face to face and some online.
+dijitalleşme | digitalisation | isim | Kamu hizmetlerinin dijitalleşmesi, vatandaşların resmî işlemlerini evden yapmasını sağladı. | The digitalisation of public services has enabled citizens to complete official procedures from home.
+bilgi toplumu | information society | isim | Bilgi toplumunda en değerli sermaye, nitelikli bilgiye erişebilme ve onu işleyebilme becerisidir. | In the information society, the most valuable capital is the ability to access and process quality information.
+## Research and innovation
+Ar-Ge | R&D (research and development) | isim | Şirket, cirosunun yüzde sekizini her yıl Ar-Ge faaliyetlerine ayırıyor. | Every year, the company devotes eight percent of its turnover to R&D activities.
+inovasyon | innovation | isim | İnovasyon, yalnızca yeni ürünler değil yeni iş yapma biçimleri de demektir. | Innovation means not only new products but also new ways of doing business.
+fikri mülkiyet | intellectual property | isim | Genç mühendis, geliştirdiği su arıtma cihazının fikri mülkiyet haklarını korumak için başvuruda bulundu. | The young engineer applied to protect the intellectual property rights of the water purification device she had developed.
+prototip | prototype | isim | Ekip, düşük maliyetli solunum cihazının ilk prototipini üç haftada tamamladı. | The team completed the first prototype of the low-cost ventilator in three weeks.
+teknoloji transferi | technology transfer | isim | Üniversitedeki teknoloji transferi ofisi, akademisyenlerin buluşlarını sanayiyle buluşturuyor. | The university's technology transfer office connects academics' inventions with industry.
+girişim sermayesi | venture capital | isim | Yerli bir oyun şirketi, yabancı fonlardan önemli miktarda girişim sermayesi topladı. | A domestic gaming company raised a significant amount of venture capital from foreign funds.
+teknopark | technology park | isim | Teknoparktaki girişimler, vergi avantajlarından yararlanarak daha hızlı büyüyebiliyor. | Start-ups in the technology park can grow faster by benefiting from tax advantages.
+ticarileştirmek | to commercialise | fiil | Üniversitede geliştirilen yeni pil teknolojisini ticarileştirmek için bir şirket kuruldu. | A company was founded to commercialise the new battery technology developed at the university.
+kuluçka merkezi | business incubator | isim | Kuluçka merkezi, yeni kurulan şirketlere ücretsiz ofis ve danışmanlık desteği veriyor. | The incubator provides newly founded companies with free office space and mentoring.
+ölçeklenebilir | scalable | sıfat | Yatırımcılar, kısa sürede binlerce kullanıcıya ulaşabilecek ölçeklenebilir iş modelleri arıyor. | Investors are looking for scalable business models that can quickly reach thousands of users.
+## Computing
+işlem gücü | processing power | isim | Yeni yapay zekâ modellerini eğitmek, devasa bir işlem gücü gerektiriyor. | Training new AI models requires enormous processing power.
+yarı iletken | semiconductor | isim | Küresel ölçekte yaşanan yarı iletken kıtlığı, otomobil üretimini aylarca yavaşlattı. | The global semiconductor shortage slowed down car production for months.
+kuantum bilgisayar | quantum computer | isim | Kuantum bilgisayarların bugünkü şifreleme yöntemlerini tehdit edebileceği düşünülüyor. | It is thought that quantum computers could threaten today's encryption methods.
+mikroişlemci | microprocessor | isim | Günümüzde sıradan bir çamaşır makinesinde bile küçük bir mikroişlemci bulunuyor. | Nowadays, even an ordinary washing machine contains a small microprocessor.
+veri merkezi | data centre | isim | Büyük veri merkezleri, soğutma için ciddi miktarda su ve enerji tüketiyor. | Large data centres consume considerable amounts of water and energy for cooling.
+bant genişliği | bandwidth | isim | Evden çalışanların artmasıyla birlikte daha yüksek bant genişliğine ihtiyaç duyuluyor. | With more people working from home, higher bandwidth is needed.
+gecikme süresi | latency | isim | Çevrim içi oyunlarda gecikme süresinin düşük olması büyük avantaj sağlar. | In online games, having low latency gives a great advantage.
+arayüz | interface | isim | Uygulamanın sade arayüzü, yaşlı kullanıcıların bile kolayca alışmasını sağladı. | The app's simple interface allowed even elderly users to get used to it easily.
+işletim sistemi | operating system | isim | Telefonun işletim sistemi güncellendikten sonra bazı uygulamalar açılmaz oldu. | After the phone's operating system was updated, some apps stopped opening.
+nesnelerin interneti | Internet of Things | isim | Nesnelerin interneti sayesinde buzdolabı, eksilen ürünleri telefonunuza bildirebiliyor. | Thanks to the Internet of Things, the fridge can notify your phone of products that are running out.
+## Space and physics
+yörünge | orbit | isim | Yerli olarak üretilen uydu, başarıyla yörüngesine yerleştirildi ve sinyal göndermeye başladı. | The domestically built satellite was successfully placed in orbit and began sending signals.
+fırlatma | launch | isim | Kötü hava koşulları nedeniyle roketin fırlatılması iki gün ertelendi. | The rocket launch was postponed for two days because of bad weather.
+uzay istasyonu | space station | isim | Uluslararası Uzay İstasyonu'ndaki astronotlar, bitkilerin yer çekimsiz ortamda büyümesini inceliyor. | Astronauts on the International Space Station are studying how plants grow in zero gravity.
+karanlık madde | dark matter | isim | Evrenin büyük bölümünü oluşturduğu düşünülen karanlık madde, hâlâ doğrudan gözlemlenemedi. | Dark matter, thought to make up most of the universe, has still not been directly observed.
+kara delik | black hole | isim | Gökbilimciler, bir kara deliğin ilk fotoğrafını çekmeyi başardıklarında büyük heyecan yaşandı. | There was great excitement when astronomers succeeded in taking the first photograph of a black hole.
+ışık yılı | light year | isim | Bu yıldızın ışığı, bize ulaşana kadar dört yüz ışık yılı yol katediyor. | The light of this star travels four hundred light years before it reaches us.
+parçacık hızlandırıcı | particle accelerator | isim | Fizikçiler, parçacık hızlandırıcıda atom altı parçacıkları neredeyse ışık hızında çarpıştırıyor. | Physicists collide subatomic particles at almost the speed of light in the particle accelerator.
+kütle çekimi | gravity; gravitation | isim | Ay'ın kütle çekimi, okyanuslardaki gelgit olayının başlıca nedenidir. | The Moon's gravity is the main cause of the tides in the oceans.
+gözlemevi | observatory | isim | Doğu Anadolu'daki dağların zirvesine yeni ve büyük bir gözlemevi kuruldu. | A large new observatory has been built on the summit of mountains in eastern Anatolia.
+uzay sondası | space probe | isim | Uzay sondası, yıllar süren yolculuğun ardından gezegenin yakın çekim fotoğraflarını gönderdi. | After a journey lasting years, the space probe sent back close-up photographs of the planet.
+## Cyber risks
+siber saldırı | cyberattack | isim | Hastanenin sistemlerine yapılan siber saldırı, randevuların günlerce aksamasına yol açtı. | The cyberattack on the hospital's systems disrupted appointments for days.
+fidye yazılımı | ransomware | isim | Fidye yazılımı, şirketin bütün dosyalarını şifreleyip açmak için para talep etti. | The ransomware encrypted all the company's files and demanded money to unlock them.
+kimlik avı | phishing | isim | Bankanızdan geliyormuş gibi görünen bu e-posta, tipik bir kimlik avı girişimidir. | This e-mail that seems to come from your bank is a typical phishing attempt.
+veri ihlali | data breach | isim | Yaşanan veri ihlali sonucunda milyonlarca müşterinin bilgileri internete sızdı. | As a result of the data breach, the information of millions of customers was leaked online.
+sahte video | deepfake video | isim | Yapay zekâyla üretilen sahte videoları gerçeklerinden ayırt etmek giderek zorlaşıyor. | It is becoming increasingly difficult to distinguish AI-generated deepfake videos from real ones.
+güvenlik açığı | security vulnerability | isim | Yazılımdaki güvenlik açığı fark edilir edilmez acil bir güncelleme yayımlandı. | As soon as the security vulnerability in the software was noticed, an urgent update was released.
+iki aşamalı doğrulama | two-factor authentication | isim | Hesabınızı korumak için mutlaka iki aşamalı doğrulamayı etkinleştirin. | Be sure to enable two-factor authentication to protect your account.
+kötü amaçlı yazılım | malware | isim | Bilinmeyen sitelerden indirilen dosyalar, bilgisayara kötü amaçlı yazılım bulaştırabilir. | Files downloaded from unknown sites can infect the computer with malware.
+güvenlik duvarı | firewall | isim | Şirketin güvenlik duvarı, şüpheli bağlantıların hepsini otomatik olarak engelliyor. | The company's firewall automatically blocks all suspicious connections.
+siber güvenlik uzmanı | cybersecurity specialist | isim | Bankalar, artan saldırılar nedeniyle her yıl daha fazla siber güvenlik uzmanı istihdam ediyor. | Because of the growing number of attacks, banks employ more cybersecurity specialists every year.
+## Talking about innovation
+paradigma değişimi | paradigm shift | isim | Kuantum fiziği, bilim tarihinde gerçek bir paradigma değişimine yol açmıştır. | Quantum physics brought about a genuine paradigm shift in the history of science.
+devrim niteliğinde | revolutionary | ifade | Akıllı telefonlar, iletişim alışkanlıklarımızda devrim niteliğinde değişikliklere yol açtı. | Smartphones have led to revolutionary changes in our communication habits.
+yaygınlaşmak | to become widespread | fiil | Elektrikli araçlar yaygınlaştıkça şarj istasyonlarına olan ihtiyaç da artıyor. | As electric vehicles become more widespread, the need for charging stations grows too.
+ivme kazanmak | to gain momentum | ifade | Salgından sonra uzaktan çalışmaya geçiş büyük bir ivme kazandı. | After the pandemic, the shift to remote working gained great momentum.
+son teknoloji | state-of-the-art | ifade | Yeni hastane, son teknoloji görüntüleme cihazlarıyla donatılmış durumda. | The new hospital is equipped with state-of-the-art imaging devices.
+hayata geçirmek | to put into practice; to implement | ifade | Belediye, akıllı ulaşım projesini önümüzdeki yıl hayata geçirmeyi planlıyor. | The municipality plans to implement the smart transport project next year.
+kullanıcı dostu | user-friendly | sıfat | Uygulamanın kullanıcı dostu tasarımı, kısa sürede milyonlarca kişiye ulaşmasını sağladı. | The app's user-friendly design enabled it to reach millions of people in a short time.
+işlevsellik | functionality | isim | Tasarımcılar, estetik ile işlevsellik arasında doğru dengeyi kurmaya çalışıyor. | Designers try to strike the right balance between aesthetics and functionality.
+döngüsel ekonomi | circular economy | isim | Döngüsel ekonomide ürünler, atık olmak yerine onarılarak ve yeniden işlenerek kullanılmaya devam eder. | In a circular economy, products stay in use through repair and recycling instead of becoming waste.
+dönüştürücü | transformative | sıfat | Yapay zekânın eğitim üzerindeki dönüştürücü etkisi henüz tam olarak anlaşılmış değil. | The transformative impact of AI on education is not yet fully understood.
