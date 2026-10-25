@@ -20,7 +20,7 @@
 閉める (shimeru) | kapatmak | fiil | ドアを閉めてください。(Doa o shimete kudasai.) | Kapıyı kapatın lütfen.
 始まる (hajimaru) | başlamak | fiil | 授業は九時に始まります。(Jugyō wa kuji ni hajimarimasu.) | Ders dokuzda başlıyor.
 終わる (owaru) | bitmek | fiil | 仕事は六時に終わります。(Shigoto wa rokuji ni owarimasu.) | İş altıda bitiyor.
-置く (oku) | koymak, bırakmak | fiil | かばんはここに置いてください。(Kaban wa koko ni oite kudasai.) | Çantayı buraya koyun lütfen.
+できる (dekiru) | yapabilmek; hazır olmak | fiil | 日本語が少しできます。(Nihongo ga sukoshi dekimasu.) | Biraz Japonca konuşabiliyorum.
 ## Günlük rutin
 起きる (okiru) | uyanmak, kalkmak | fiil | 毎朝七時に起きます。(Maiasa shichiji ni okimasu.) | Her sabah yedide kalkarım.
 寝る (neru) | uyumak, yatmak | fiil | 十一時に寝ます。(Jūichiji ni nemasu.) | On birde yatarım.
@@ -30,7 +30,7 @@
 目覚まし時計 (mezamashi dokei) | çalar saat | isim | 目覚まし時計が鳴りました。(Mezamashi dokei ga narimashita.) | Çalar saat çaldı.
 準備 (junbi) | hazırlık | isim | 旅行の準備をします。(Ryokō no junbi o shimasu.) | Seyahat hazırlığı yapıyorum.
 散歩 (sanpo) | yürüyüş, gezinti | isim | 夕方、犬と散歩します。(Yūgata, inu to sanpo shimasu.) | Akşamüstü köpekle yürüyüş yaparım.
-昼寝 (hirune) | öğle uykusu, şekerleme | isim | 日曜日は昼寝をします。(Nichiyōbi wa hirune o shimasu.) | Pazar günleri şekerleme yaparım.
+始める (hajimeru) | başlamak, başlatmak | fiil | 九時に仕事を始めます。(Kuji ni shigoto o hajimemasu.) | Saat dokuzda işe başlarım.
 生活 (seikatsu) | yaşam, hayat (günlük) | isim | 日本の生活は楽しいです。(Nihon no seikatsu wa tanoshii desu.) | Japonya'daki hayat eğlenceli.
 ## Çalışmak ve öğrenmek
 働く (hataraku) | çalışmak (işte) | fiil | 銀行で働いています。(Ginkō de hataraite imasu.) | Bankada çalışıyorum.
@@ -39,7 +39,7 @@
 教える (oshieru) | öğretmek; söylemek | fiil | 英語を教えています。(Eigo o oshiete imasu.) | İngilizce öğretiyorum.
 覚える (oboeru) | ezberlemek; hatırlamak | fiil | 漢字を覚えます。(Kanji o oboemasu.) | Kanji ezberliyorum.
 忘れる (wasureru) | unutmak | fiil | 宿題を忘れました。(Shukudai o wasuremashita.) | Ödevimi unuttum.
-答える (kotaeru) | cevap vermek | fiil | 質問に答えてください。(Shitsumon ni kotaete kudasai.) | Soruya cevap verin lütfen.
+問題 (mondai) | soru, problem | isim | この問題は難しいです。(Kono mondai wa muzukashii desu.) | Bu soru zor.
 授業 (jugyō) | ders (sınıfta) | isim | 今日は授業がありません。(Kyō wa jugyō ga arimasen.) | Bugün ders yok.
 調べる (shiraberu) | araştırmak, bakmak | fiil | 辞書で調べます。(Jisho de shirabemasu.) | Sözlükten bakıyorum.
 考える (kangaeru) | düşünmek (üzerinde) | fiil | よく考えてください。(Yoku kangaete kudasai.) | İyice düşünün lütfen.
@@ -54,16 +54,16 @@
 取る (toru) | almak, tutmak | fiil | 塩を取ってください。(Shio o totte kudasai.) | Tuzu uzatır mısınız?
 貸す (kasu) | ödünç vermek | fiil | ペンを貸してください。(Pen o kashite kudasai.) | Kaleminizi ödünç verir misiniz?
 借りる (kariru) | ödünç almak | fiil | 図書館で本を借ります。(Toshokan de hon o karimasu.) | Kütüphaneden kitap alırım.
-## İletişim
+## Vermek, almak, iletişim
 呼ぶ (yobu) | çağırmak; seslenmek | fiil | 名前を呼びました。(Namae o yobimashita.) | Adını seslendim.
 送る (okuru) | göndermek | fiil | 母にメールを送ります。(Haha ni mēru o okurimasu.) | Anneme e-posta gönderiyorum.
-届く (todoku) | ulaşmak, gelmek (gönderi) | fiil | 荷物が届きました。(Nimotsu ga todokimashita.) | Paket geldi.
+くれる (kureru) | vermek (bana, bize) | fiil | 姉がケーキをくれました。(Ane ga kēki o kuremashita.) | Ablam bana pasta verdi.
 返す (kaesu) | geri vermek | fiil | 本を返します。(Hon o kaeshimasu.) | Kitabı geri veriyorum.
-頼む (tanomu) | rica etmek, istemek | fiil | 友達に仕事を頼みました。(Tomodachi ni shigoto o tanomimashita.) | Arkadaşımdan bir iş rica ettim.
+あげる (ageru) | vermek (başkasına) | fiil | 友達に本をあげました。(Tomodachi ni hon o agemashita.) | Arkadaşıma kitap verdim.
 約束 (yakusoku) | söz; randevu | isim | 明日、友達と約束があります。(Ashita, tomodachi to yakusoku ga arimasu.) | Yarın arkadaşımla sözleştim.
 手紙 (tegami) | mektup | isim | 祖母に手紙を書きます。(Sobo ni tegami o kakimasu.) | Büyükanneme mektup yazıyorum.
 連絡する (renraku suru) | haber vermek, iletişime geçmek | fiil · düzensiz | 後で連絡します。(Ato de renraku shimasu.) | Sonra haber veririm.
-伝える (tsutaeru) | iletmek, aktarmak | fiil | 先生に伝えてください。(Sensei ni tsutaete kudasai.) | Öğretmene iletin lütfen.
+もらう (morau) | almak (birinden) | fiil | 母から手紙をもらいました。(Haha kara tegami o moraimashita.) | Annemden mektup aldım.
 説明する (setsumei suru) | açıklamak | fiil · düzensiz | 道を説明します。(Michi o setsumei shimasu.) | Yolu tarif ediyorum.
 ## İstekler ve duygular
 欲しい (hoshii) | istenen (bir şeyi istemek) | sıfat | 新しいスマホが欲しいです。(Atarashii sumaho ga hoshii desu.) | Yeni bir akıllı telefon istiyorum.

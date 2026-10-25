@@ -21,17 +21,17 @@
 現金 (genkin) | nakit | isim | 現金で払います。(Genkin de haraimasu.) | Nakit ödüyorum.
 おつり (otsuri) | para üstü | isim | おつりは二百円です。(Otsuri wa nihyaku en desu.) | Para üstü iki yüz yen.
 セール (sēru) | indirim | isim | 今、セールをしています。(Ima, sēru o shite imasu.) | Şu an indirim var.
-## Daha fazla renk
+## Renkler ve nitelikler
 色 (iro) | renk | isim | 何色が好きですか。(Naniiro ga suki desu ka.) | Hangi rengi seversin?
 水色 (mizuiro) | açık mavi | isim | 水色のシャツを買いました。(Mizuiro no shatsu o kaimashita.) | Açık mavi bir gömlek aldım.
-金色 (kin'iro) | altın rengi | isim | 金色の時計です。(Kin'iro no tokei desu.) | Altın rengi bir saat.
-銀色 (gin'iro) | gümüş rengi | isim | 銀色の車がほしいです。(Gin'iro no kuruma ga hoshii desu.) | Gümüş rengi bir araba istiyorum.
-オレンジ色 (orenjiiro) | turuncu | isim | オレンジ色のかばんです。(Orenjiiro no kaban desu.) | Turuncu bir çanta.
-紺色 (kon'iro) | lacivert | isim | 制服は紺色です。(Seifuku wa kon'iro desu.) | Okul forması lacivert.
+重い (omoi) | ağır | sıfat | このかばんは重いです。(Kono kaban wa omoi desu.) | Bu çanta ağır.
+軽い (karui) | hafif | sıfat | このコートは軽くて暖かいです。(Kono kōto wa karukute atatakai desu.) | Bu palto hafif ve sıcak.
+強い (tsuyoi) | güçlü, sert | sıfat | 今日は風が強いですね。(Kyō wa kaze ga tsuyoi desu ne.) | Bugün rüzgâr sert, değil mi?
+弱い (yowai) | zayıf, güçsüz | sıfat | 私はお酒に弱いです。(Watashi wa o-sake ni yowai desu.) | Alkole dayanıksızımdır.
 濃い (koi) | koyu; yoğun | sıfat | 濃い青が好きです。(Koi ao ga suki desu.) | Koyu maviyi severim.
 薄い (usui) | açık (renk); ince | sıfat | 薄いピンクのセーターです。(Usui pinku no sētā desu.) | Açık pembe bir kazak.
-派手 (hade) | gösterişli, cafcaflı | sıfat | その服は派手ですね。(Sono fuku wa hade desu ne.) | O kıyafet çok gösterişli.
-地味 (jimi) | sade, gösterişsiz | sıfat | 地味な色が好きです。(Jimi na iro ga suki desu.) | Sade renkleri severim.
+有名 (yūmei) | ünlü | sıfat | この店のケーキは有名です。(Kono mise no kēki wa yūmei desu.) | Bu dükkânın pastası ünlüdür.
+大切 (taisetsu) | önemli, değerli | sıfat | これは大切な写真です。(Kore wa taisetsu na shashin desu.) | Bu değerli bir fotoğraf.
 ## Kıyafetler
 服 (fuku) | kıyafet, giysi | isim | 新しい服を買いました。(Atarashii fuku o kaimashita.) | Yeni kıyafet aldım.
 シャツ (shatsu) | gömlek | isim | 白いシャツを着ます。(Shiroi shatsu o kimasu.) | Beyaz gömlek giyiyorum.
