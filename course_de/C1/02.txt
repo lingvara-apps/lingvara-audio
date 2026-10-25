@@ -16,7 +16,7 @@ die Umstrukturierung (die Umstrukturierungen) | yeniden yapılanma | isim (d) | 
 das Kerngeschäft | ana iş alanı | isim (o) | Das Unternehmen will sich künftig wieder stärker auf sein Kerngeschäft konzentrieren. | Şirket gelecekte yeniden ana iş alanına daha çok odaklanmak istiyor.
 die Wettbewerbsfähigkeit | rekabet gücü | isim (d) | Die hohen Energiekosten gefährden zunehmend die Wettbewerbsfähigkeit vieler Industriebetriebe im Land. | Yüksek enerji maliyetleri ülkedeki birçok sanayi işletmesinin rekabet gücünü giderek daha çok tehlikeye atıyor.
 die Marktposition (die Marktpositionen) | pazar konumu | isim (d) | Durch die Übernahme konnte die Firma ihre Marktposition deutlich ausbauen. | Satın alma sayesinde firma pazar konumunu belirgin şekilde güçlendirebildi.
-delegieren | devretmek, yetki vermek | fiil | Eine gute Führungskraft delegiert Aufgaben, statt alles selbst zu erledigen. | İyi bir yönetici her şeyi kendisi yapmak yerine görevleri devreder.
+verschlanken | sadeleştirmek, küçültmek (yapı) | fiil | Der Konzern will seine Verwaltung verschlanken und überflüssige Hierarchien abbauen. | Şirket idari yapısını sadeleştirmek ve gereksiz hiyerarşileri kaldırmak istiyor.
 priorisieren | önceliklendirmek | fiil | Wir müssen die Projekte nach ihrer Dringlichkeit klar priorisieren. | Projeleri aciliyetlerine göre net biçimde önceliklendirmeliyiz.
 die Führungsebene (die Führungsebenen) | yönetim kademesi | isim (d) | Auf der obersten Führungsebene sind Frauen noch immer unterrepräsentiert. | En üst yönetim kademesinde kadınlar hâlâ yeterince temsil edilmiyor.
 das Leitbild (die Leitbilder) | kurum vizyonu, temel ilkeler | isim (o) | Nachhaltigkeit ist ein zentraler Bestandteil unseres neuen Leitbilds. | Sürdürülebilirlik yeni kurumsal ilkelerimizin temel bir parçasıdır.
@@ -25,7 +25,7 @@ die Synergie (die Synergien) | sinerji | isim (d) | Von der Fusion erhoffen sich
 die Bilanz (die Bilanzen) | bilanço | isim (d) | Die Bilanz zum Jahresende weist einen deutlichen Gewinn aus. | Yıl sonu bilançosu belirgin bir kâr gösteriyor.
 die Gewinn-und-Verlust-Rechnung | gelir tablosu, kâr-zarar tablosu | isim (d) | In der Gewinn-und-Verlust-Rechnung werden Erträge und Aufwendungen gegenübergestellt. | Gelir tablosunda gelirler ve giderler karşılaştırılır.
 der Jahresabschluss (die Jahresabschlüsse) | yıl sonu mali tabloları | isim (e) | Der Jahresabschluss muss von einem unabhängigen Prüfer testiert werden. | Yıl sonu mali tabloları bağımsız bir denetçi tarafından onaylanmalıdır.
-der Umsatz (die Umsätze) | ciro, satış hasılatı | isim (e) | Im dritten Quartal stieg der Umsatz um rund acht Prozent. | Üçüncü çeyrekte ciro yaklaşık yüzde sekiz arttı.
+der Jahresüberschuss (die Jahresüberschüsse) | yıllık net kâr | isim (e) | Der Jahresüberschuss fiel wegen hoher Sonderkosten niedriger aus als erwartet. | Yıllık net kâr yüksek olağanüstü giderler nedeniyle beklenenden düşük çıktı.
 die Rendite (die Renditen) | getiri | isim (d) | Anleger erwarten von dieser Investition eine Rendite von mindestens fünf Prozent. | Yatırımcılar bu yatırımdan en az yüzde beş getiri bekliyor.
 die Abschreibung (die Abschreibungen) | amortisman | isim (d) | Hohe Abschreibungen auf Maschinen haben den Gewinn deutlich geschmälert. | Makinelerdeki yüksek amortismanlar kârı belirgin biçimde azalttı.
 die Verbindlichkeit (die Verbindlichkeiten) | borç, yükümlülük | isim (d) | Die kurzfristigen Verbindlichkeiten des Konzerns sind im Vorjahr stark gestiegen. | Şirketin kısa vadeli borçları geçen yıl çok arttı.
@@ -37,15 +37,15 @@ die Vertragspartei (die Vertragsparteien) | sözleşme tarafı | isim (d) | Beid
 die Klausel (die Klauseln) | madde, hüküm (sözleşme) | isim (d) | Diese Klausel schließt jede Haftung für indirekte Schäden ausdrücklich aus. | Bu madde dolaylı zararlar için her türlü sorumluluğu açıkça hariç tutuyor.
 die Vertragsstrafe (die Vertragsstrafen) | cezai şart | isim (d) | Bei verspäteter Lieferung wird eine Vertragsstrafe von zehntausend Euro fällig. | Geç teslimatta on bin avroluk bir cezai şart doğar.
 die Laufzeit (die Laufzeiten) | süre, geçerlilik süresi | isim (d) | Der Mietvertrag hat eine feste Laufzeit von fünf Jahren. | Kira sözleşmesinin beş yıllık sabit bir süresi var.
-die Kündigungsfrist (die Kündigungsfristen) | fesih bildirim süresi | isim (d) | Die Kündigungsfrist beträgt drei Monate zum Ende eines Quartals. | Fesih bildirim süresi bir çeyreğin sonuna kadar üç aydır.
+die Schriftform | yazılı şekil şartı | isim (d) | Änderungen dieses Vertrags bedürfen zu ihrer Wirksamkeit ausdrücklich der Schriftform. | Bu sözleşmedeki değişikliklerin geçerli olması için açıkça yazılı şekil şartı aranır.
 das Kleingedruckte | küçük puntolu kısım, sözleşmenin ayrıntıları | isim (o) | Lesen Sie vor der Unterschrift unbedingt auch das Kleingedruckte. | İmzalamadan önce mutlaka küçük puntolu kısmı da okuyun.
 die Gewährleistung (die Gewährleistungen) | ayıba karşı tekeffül, garanti yükümlülüğü | isim (d) | Die gesetzliche Gewährleistung beträgt in Deutschland zwei Jahre. | Almanya'da yasal ayıp sorumluluğu iki yıldır.
 die Haftung (die Haftungen) | sorumluluk, mesuliyet | isim (d) | Für Schäden durch unsachgemäße Nutzung übernimmt der Hersteller keine Haftung. | Üretici, uygunsuz kullanımdan doğan zararlar için sorumluluk kabul etmez.
 rechtsverbindlich | hukuken bağlayıcı | sıfat | Erst mit beiden Unterschriften wird die Vereinbarung rechtsverbindlich. | Anlaşma ancak iki imzayla hukuken bağlayıcı hâle gelir.
-unbefristet | süresiz, belirsiz süreli | sıfat | Nach zwei Jahren wurde ihr befristeter Vertrag endlich in einen unbefristeten umgewandelt. | İki yılın ardından süreli sözleşmesi nihayet süresiz bir sözleşmeye dönüştürüldü.
+nichtig | hükümsüz, geçersiz | sıfat | Eine sittenwidrige Klausel ist nichtig und entfaltet keinerlei rechtliche Wirkung. | Ahlaka aykırı bir madde hükümsüzdür ve hiçbir hukuki sonuç doğurmaz.
 ## Müzakere ve anlaşma
 die Verhandlungsposition (die Verhandlungspositionen) | müzakere konumu | isim (d) | Durch das zweite Angebot hat sich unsere Verhandlungsposition erheblich verbessert. | İkinci teklif sayesinde müzakere konumumuz önemli ölçüde iyileşti.
-das Zugeständnis (die Zugeständnisse) | taviz, ödün | isim (o) | Ohne Zugeständnisse auf beiden Seiten wird es keine Einigung geben. | İki taraf da ödün vermezse anlaşma olmayacak.
+der Kompromissvorschlag (die Kompromissvorschläge) | uzlaşma önerisi | isim (e) | Am späten Abend legte die Vermittlerin einen tragfähigen Kompromissvorschlag vor. | Arabulucu gece geç saatte uygulanabilir bir uzlaşma önerisi sundu.
 die Absichtserklärung (die Absichtserklärungen) | niyet mektubu, mutabakat | isim (d) | Die Unternehmen unterzeichneten zunächst nur eine unverbindliche Absichtserklärung. | Şirketler önce sadece bağlayıcı olmayan bir niyet mektubu imzaladı.
 der Vertragsabschluss (die Vertragsabschlüsse) | sözleşmenin imzalanması | isim (e) | Nach monatelangen Gesprächen steht der Vertragsabschluss nun unmittelbar bevor. | Aylar süren görüşmelerin ardından sözleşmenin imzalanması artık çok yakın.
 nachverhandeln | yeniden müzakere etmek | fiil | Der Lieferant möchte die Preise wegen gestiegener Rohstoffkosten nachverhandeln. | Tedarikçi artan hammadde maliyetleri yüzünden fiyatları yeniden müzakere etmek istiyor.
@@ -55,18 +55,18 @@ handelseinig werden | anlaşmaya varmak (ticari) | ifade | Nach zähen Verhandlu
 die Rahmenvereinbarung (die Rahmenvereinbarungen) | çerçeve anlaşma | isim (d) | Die Rahmenvereinbarung regelt die Zusammenarbeit für die nächsten drei Jahre. | Çerçeve anlaşma önümüzdeki üç yıl için iş birliğini düzenliyor.
 der Interessenkonflikt (die Interessenkonflikte) | çıkar çatışması | isim (e) | Wegen eines Interessenkonflikts nahm sie an der Abstimmung nicht teil. | Çıkar çatışması nedeniyle oylamaya katılmadı.
 ## Personel ve insan kaynakları
-die Personalabteilung (die Personalabteilungen) | insan kaynakları departmanı | isim (d) | Bewerbungen richten Sie bitte direkt an unsere Personalabteilung. | Başvurularınızı lütfen doğrudan insan kaynakları departmanımıza yöneltin.
-der Betriebsrat (die Betriebsräte) | işçi temsilciler kurulu | isim (e) | Der Betriebsrat muss bei Kündigungen vorher angehört werden. | İşten çıkarmalarda önceden işçi temsilciler kurulunun görüşü alınmalıdır.
+die Personalakte (die Personalakten) | personel dosyası | isim (d) | Die Abmahnung wurde nach zwei Jahren wieder aus der Personalakte entfernt. | İhtar iki yıl sonra personel dosyasından yeniden çıkarıldı.
+die Mitbestimmung | işçilerin yönetime katılımı | isim (d) | Die Mitbestimmung der Arbeitnehmer ist in Deutschland gesetzlich fest verankert. | Almanya'da çalışanların yönetime katılımı yasal olarak sağlam biçimde güvence altındadır.
 die Abfindung (die Abfindungen) | kıdem tazminatı | isim (d) | Nach zwanzig Jahren im Betrieb erhielt er eine großzügige Abfindung. | İşletmede yirmi yılın ardından cömert bir tazminat aldı.
 die Einarbeitung (die Einarbeitungen) | işe alıştırma, oryantasyon | isim (d) | Für die Einarbeitung neuer Kolleginnen sind in der Regel drei Wochen vorgesehen. | Yeni çalışanların işe alıştırılması için genellikle üç hafta öngörülüyor.
-das Arbeitszeugnis (die Arbeitszeugnisse) | iş referans belgesi | isim (o) | In Deutschland hat jeder Arbeitnehmer Anspruch auf ein qualifiziertes Arbeitszeugnis. | Almanya'da her çalışanın ayrıntılı bir iş referans belgesi alma hakkı vardır.
+die Arbeitnehmerüberlassung | geçici işçi temini | isim (d) | Die Arbeitnehmerüberlassung ist in Deutschland auf maximal achtzehn Monate begrenzt. | Almanya'da geçici işçi temini en fazla on sekiz ayla sınırlıdır.
 die Fluktuation | personel devir hızı | isim (d) | Die hohe Fluktuation im Callcenter verursacht enorme Einarbeitungskosten. | Çağrı merkezindeki yüksek personel devri muazzam eğitim maliyetlerine yol açıyor.
 der Tarifvertrag (die Tarifverträge) | toplu iş sözleşmesi | isim (e) | Laut Tarifvertrag steigen die Löhne im nächsten Jahr um drei Prozent. | Toplu iş sözleşmesine göre ücretler gelecek yıl yüzde üç artacak.
 die Personalentwicklung | personel geliştirme | isim (d) | Das Unternehmen investiert jährlich viel Geld in die Personalentwicklung seiner Mitarbeiter. | Şirket her yıl çalışanlarının gelişimine çok para yatırıyor.
 freistellen | işten muaf tutmak, görevden uzaklaştırmak | fiil | Bis zum Ende der Kündigungsfrist wurde er von der Arbeit freigestellt. | Fesih süresi bitene kadar işten muaf tutuldu.
-die Stellenbeschreibung (die Stellenbeschreibungen) | görev tanımı | isim (d) | Laut Stellenbeschreibung gehört auch die Budgetplanung zu ihren Aufgaben. | Görev tanımına göre bütçe planlaması da görevleri arasında.
+das Anforderungsprofil (die Anforderungsprofile) | aranan nitelikler | isim (o) | Ihre Erfahrung passt hervorragend zu dem Anforderungsprofil der ausgeschriebenen Stelle. | Deneyimi ilan edilen pozisyonun aranan niteliklerine mükemmel uyuyor.
 ## İş yazışmaları
-die Rückmeldung (die Rückmeldungen) | geri bildirim, yanıt | isim (d) | Für eine kurze Rückmeldung bis Freitag wären wir Ihnen sehr dankbar. | Cuma gününe kadar kısa bir yanıt verirseniz çok minnettar oluruz.
+die Eingangsbestätigung (die Eingangsbestätigungen) | alındı teyidi | isim (d) | Sie erhalten innerhalb von drei Tagen eine schriftliche Eingangsbestätigung Ihrer Bewerbung. | Başvurunuzun alındığına dair yazılı teyidi üç gün içinde alacaksınız.
 die Rücksprache | danışma, görüşme | isim (d) | Nach Rücksprache mit der Abteilungsleitung können wir Ihnen den Termin bestätigen. | Departman yönetimiyle görüştükten sonra randevuyu size teyit edebiliriz.
 in Kopie | bilgi için (CC) | ifade | Ich setze unseren Projektleiter bei dieser Mail in Kopie. | Bu e-postada proje yöneticimizi de bilgiye ekliyorum.
 zeitnah | en kısa sürede, zamanında | sıfat | Wir werden uns zeitnah mit einem konkreten Angebot bei Ihnen melden. | En kısa sürede somut bir teklifle size döneceğiz.
@@ -80,12 +80,12 @@ vorbehaltlich | kaydıyla, şartıyla | edat | Vorbehaltlich der Zustimmung des 
 die Kennzahl (die Kennzahlen) | gösterge, rasyo | isim (d) | Die wichtigsten Kennzahlen werden jeden Monat an die Geschäftsführung berichtet. | En önemli göstergeler her ay yönetime raporlanıyor.
 das Controlling | yönetim kontrolü, kontrolörlük | isim (o) | Das Controlling hat die Kostenüberschreitung im Projekt frühzeitig erkannt. | Kontrol birimi projedeki maliyet aşımını erkenden fark etti.
 die Schnittstelle (die Schnittstellen) | arayüz, kesişim noktası | isim (d) | Sie arbeitet an der Schnittstelle zwischen Vertrieb und Entwicklung. | Satış ile geliştirme arasındaki kesişim noktasında çalışıyor.
-der Ansprechpartner (die Ansprechpartner) | irtibat kişisi | isim (e) | Bei Fragen ist Herr Weber Ihr direkter Ansprechpartner im Haus. | Sorularınız için kurumdaki doğrudan irtibat kişiniz Bay Weber.
+der Entscheidungsträger (die Entscheidungsträger) | karar verici | isim (e) | Die Studie richtet sich vor allem an Entscheidungsträger in Politik und Wirtschaft. | Araştırma özellikle siyaset ve ekonomideki karar vericilere yönelik.
 das Tagesgeschäft | günlük işler, rutin operasyon | isim (o) | Im hektischen Tagesgeschäft bleibt für strategische Fragen oft keine Zeit. | Yoğun günlük işler arasında stratejik konulara çoğu zaman vakit kalmıyor.
 die Zuständigkeit (die Zuständigkeiten) | yetki alanı, sorumluluk | isim (d) | Die Bearbeitung von Reklamationen fällt nicht in meine Zuständigkeit. | Şikâyetlerin işlenmesi benim yetki alanıma girmiyor.
 die Effizienzsteigerung (die Effizienzsteigerungen) | verimlilik artışı | isim (d) | Durch die Digitalisierung erhofft man sich eine deutliche Effizienzsteigerung. | Dijitalleşmeyle belirgin bir verimlilik artışı umuluyor.
 der Mehrwert | katma değer | isim (e) | Das neue Produkt bietet unseren Kunden einen echten Mehrwert. | Yeni ürün müşterilerimize gerçek bir katma değer sunuyor.
-umsetzen | uygulamak, hayata geçirmek | fiil | Die beschlossenen Maßnahmen müssen bis Jahresende vollständig umgesetzt werden. | Alınan önlemler yıl sonuna kadar tamamen uygulanmalıdır.
+skalieren | ölçeklendirmek | fiil | Das Geschäftsmodell lässt sich ohne großen Aufwand auf andere Märkte skalieren. | İş modeli büyük çaba gerektirmeden başka pazarlara ölçeklendirilebilir.
 die Stellschraube (die Stellschrauben) | ayar vidası; kilit etken | isim (d) | Der Personalbestand ist die wichtigste Stellschraube bei den Kosten. | Personel sayısı maliyetlerdeki en önemli kilit etkendir.
 ## Kriz ve risk
 die Insolvenz (die Insolvenzen) | iflas, ödeme aczi | isim (d) | Der traditionsreiche Familienbetrieb musste im Frühjahr Insolvenz anmelden. | Köklü aile işletmesi ilkbaharda iflas başvurusunda bulunmak zorunda kaldı.
