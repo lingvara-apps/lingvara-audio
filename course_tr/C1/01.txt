@@ -1,0 +1,111 @@
+# UNIT: Academic discourse | Scientific writing, argumentation, academic phrasing
+## Building an argument
+önerme | proposition | isim | Bu çıkarımın ilk önermesi, ne yazık ki kanıtlanmış bir olguya dayanmıyor. | Unfortunately, the first proposition of this inference does not rest on a proven fact.
+sav | thesis; claim | isim | Yazarın temel savı, kentleşmenin aile yapısını köklü biçimde dönüştürdüğüdür. | The author's central claim is that urbanisation has radically transformed family structure.
+çıkarım | inference; deduction | isim | Eldeki sınırlı verilerden bu denli genel bir çıkarım yapmak doğru olmaz. | It would not be right to draw such a sweeping inference from the limited data at hand.
+öne sürmek | to put forward; to claim | fiil | Bazı tarihçiler, kentin MÖ üçüncü binyılda kurulduğunu öne sürmektedir. | Some historians claim that the city was founded in the third millennium BC.
+çürütmek | to refute; to disprove | fiil | Yeni kazı bulguları, uzun süre kabul gören bu görüşü büyük ölçüde çürüttü. | New excavation findings largely refuted this long-accepted view.
+karşı sav | counter-argument | isim | Makalede, olası karşı savlara da ayrı bir bölüm ayrılmış. | A separate section of the article is devoted to possible counter-arguments as well.
+gerekçelendirmek | to justify; to give grounds for | fiil | Araştırmacılar örneklem seçimini yöntem bölümünde ayrıntılı biçimde gerekçelendirmelidir. | Researchers should justify their choice of sample in detail in the methods section.
+tutarlı | consistent; coherent | sıfat | Savlarınız kendi içinde tutarlı olsa da kanıtlarınız yetersiz kalıyor. | Even though your arguments are internally coherent, your evidence falls short.
+çelişki | contradiction | isim | Raporun giriş ve sonuç bölümleri arasında açık bir çelişki göze çarpıyor. | There is a clear contradiction between the introduction and the conclusion of the report.
+temellendirmek | to substantiate; to ground | fiil | Her iddianın güvenilir kaynaklarla temellendirilmesi, akademik yazının temel kuralıdır. | Substantiating every claim with reliable sources is the basic rule of academic writing.
+## Methods and data
+nicel | quantitative | sıfat | Çalışmada nicel veriler anket yoluyla, nitel veriler ise görüşmelerle toplandı. | In the study, quantitative data were collected through surveys and qualitative data through interviews.
+nitel | qualitative | sıfat | Nitel araştırmalarda katılımcıların deneyimleri derinlemesine incelenir. | In qualitative research, participants' experiences are examined in depth.
+örneklem | sample (statistics) | isim | Örneklem yalnızca büyükşehirlerden seçildiği için sonuçlar genellenemez. | Since the sample was drawn only from large cities, the results cannot be generalised.
+değişken | variable | isim | Yaş ve gelir düzeyi, modele bağımsız değişken olarak eklendi. | Age and income level were added to the model as independent variables.
+nedensellik | causality | isim | İki olgu arasındaki ilişki, tek başına nedenselliği kanıtlamaya yetmez. | A relationship between two phenomena is not enough on its own to prove causality.
+anlamlı fark | significant difference | ifade | İki grup arasında istatistiksel olarak anlamlı bir fark bulunamamıştır. | No statistically significant difference was found between the two groups.
+ölçüt | criterion | isim | Hangi ölçütlere göre değerlendirme yapıldığı makalede açıkça belirtilmemiş. | The article does not clearly state which criteria the evaluation was based on.
+nesnel | objective | sıfat | Bilim insanının görevi, olguları olabildiğince nesnel bir bakışla yorumlamaktır. | A scientist's task is to interpret facts from as objective a perspective as possible.
+öznel | subjective | sıfat | Katılımcıların memnuniyet puanları kaçınılmaz olarak öznel değerlendirmeler içerir. | Participants' satisfaction scores inevitably involve subjective judgements.
+görgül | empirical | sıfat | Kuramın geçerliliği henüz görgül çalışmalarla sınanmamıştır. | The validity of the theory has not yet been tested by empirical studies.
+## Reasoning and logic
+tümevarım | induction | isim | Tümevarım, tek tek gözlemlerden genel bir yasaya ulaşmayı amaçlar. | Induction aims to arrive at a general law from individual observations.
+tümdengelim | deduction | isim | Tümdengelimde sonuç, öncüllerden zorunlu olarak çıkar. | In deduction, the conclusion follows necessarily from the premises.
+öncül | premise | isim | Öncüllerden biri yanlışsa, geçerli bir akıl yürütme bile yanlış bir sonuca götürebilir. | If one of the premises is false, even valid reasoning can lead to a false conclusion.
+genelleme | generalisation | isim | Birkaç örnekten yola çıkarak bütün bir toplum hakkında genelleme yapmak yanıltıcıdır. | Generalising about an entire society on the basis of a few examples is misleading.
+varsaymak | to assume; to posit | fiil | Model, tüketicilerin her zaman akılcı davrandığını varsayıyor. | The model assumes that consumers always behave rationally.
+akıl yürütmek | to reason | fiil | Yazar, tarihsel belgelerden hareketle akıl yürüterek şaşırtıcı bir sonuca varıyor. | Reasoning from historical documents, the author arrives at a surprising conclusion.
+döngüsel | circular | sıfat | Sonucu kanıt olarak kullanan döngüsel bir mantıkla karşı karşıyayız. | We are dealing with a circular logic that uses the conclusion as evidence.
+zorunlu koşul | necessary condition | ifade | Ekonomik büyüme refahın zorunlu koşulu olabilir, ama yeterli koşulu değildir. | Economic growth may be a necessary condition of prosperity, but it is not a sufficient one.
+ilinti | correlation; connection | isim | Uyku süresi ile sınav başarısı arasında güçlü bir ilinti saptandı. | A strong correlation was found between sleep duration and exam performance.
+olgu | fact; phenomenon | isim | Göç, yalnızca ekonomik değil aynı zamanda kültürel bir olgudur. | Migration is not only an economic but also a cultural phenomenon.
+## Writing a paper
+kaynakça | bibliography; references | isim | Kaynakçada yer alan bütün eserler metin içinde de anılmalıdır. | All works listed in the bibliography must also be cited in the text.
+dipnot | footnote | isim | Yazar, terimin kökenini sayfanın altındaki bir dipnotta açıklıyor. | The author explains the origin of the term in a footnote at the bottom of the page.
+atıfta bulunmak | to cite; to refer to | ifade | Makalede, alandaki öncü çalışmalara sıkça atıfta bulunuluyor. | The article frequently refers to pioneering studies in the field.
+alıntı | quotation | isim | Uzun alıntılar, metinden ayrı ve girintili bir paragraf olarak verilir. | Long quotations are given as a separate, indented paragraph.
+intihal | plagiarism | isim | Tezin bazı bölümlerinde intihal tespit edilince savunma ertelendi. | When plagiarism was detected in some sections of the thesis, the defence was postponed.
+hakemli dergi | peer-reviewed journal | isim | Çalışmanın sonuçları geçen ay hakemli bir dergide yayımlandı. | The results of the study were published last month in a peer-reviewed journal.
+alanyazın | (academic) literature | isim | Alanyazında bu konuya ilişkin yalnızca birkaç sınırlı çalışma bulunmaktadır. | There are only a few limited studies on this topic in the literature.
+kuramsal çerçeve | theoretical framework | isim | Tezin kuramsal çerçevesi, toplumsal sermaye kavramı üzerine kurulmuştur. | The theoretical framework of the thesis is built on the concept of social capital.
+sınırlılık | limitation | isim | Araştırmanın en önemli sınırlılığı, örneklemin küçük olmasıdır. | The most significant limitation of the research is the small size of the sample.
+özgün | original | sıfat | Danışmanı, konunun özgün bir yaklaşımla ele alındığını belirtti. | Her supervisor noted that the subject had been handled with an original approach.
+## Academic verbs
+ele almak | to deal with; to address | fiil | Bu bölümde, Osmanlı dönemindeki loncaların ekonomik işlevi ele alınacaktır. | This section will address the economic function of the guilds in the Ottoman period.
+irdelemek | to scrutinise; to examine closely | fiil | Yazar, dönemin resmî kayıtlarını satır satır irdeliyor. | The author scrutinises the official records of the period line by line.
+değinmek | to touch on; to mention | fiil | Konuşmacı, sunumunun sonunda etik sorunlara da kısaca değindi. | At the end of her presentation, the speaker also briefly touched on ethical issues.
+vurgulamak | to emphasise | fiil | Rapor, erken müdahalenin önemini özellikle vurgulamaktadır. | The report particularly emphasises the importance of early intervention.
+ortaya koymak | to reveal; to set out | fiil | Bulgular, iki değişken arasında güçlü bir ilişki olduğunu ortaya koyuyor. | The findings reveal a strong relationship between the two variables.
+saptamak | to establish; to determine | fiil | Araştırmacılar, kirliliğin asıl kaynağını saptamakta zorlandı. | The researchers had difficulty establishing the main source of the pollution.
+sınamak | to test (a hypothesis) | fiil | Bu varsayımı sınamak için iki ayrı deney tasarlandı. | Two separate experiments were designed to test this assumption.
+yorumlamak | to interpret | fiil | Aynı veriler, farklı kuramsal bakış açılarıyla birbirine zıt biçimlerde yorumlanabilir. | The same data can be interpreted in opposing ways from different theoretical perspectives.
+doğrulamak | to confirm; to verify | fiil | Son ölçümler, ekibin ilk tahminlerini büyük ölçüde doğruladı. | The latest measurements largely confirmed the team's initial estimates.
+tartışmaya açmak | to open to debate | ifade | Bu yeni yorum, alandaki pek çok yerleşik kabulü tartışmaya açıyor. | This new interpretation opens many established assumptions in the field to debate.
+## Hedging and stance
+görece | relatively | zarf | Bu yöntem görece yeni olduğundan uzun vadeli sonuçları henüz bilinmiyor. | Since this method is relatively new, its long-term results are not yet known.
+kuvvetle muhtemel | highly probable | ifade | Yangının bir elektrik arızasından çıkmış olması kuvvetle muhtemeldir. | It is highly probable that the fire started from an electrical fault.
+denebilir ki | one might say that | ifade | Denebilir ki romanın asıl kahramanı, olayların geçtiği şehrin kendisidir. | One might say that the novel's real protagonist is the city in which the events take place.
+kesinlik | certainty | isim | Mektubun kime yazıldığı konusunda henüz bir kesinlik yok. | There is still no certainty as to whom the letter was written to.
+belirli ölçüde | to a certain extent | ifade | Yazarın eleştirilerine belirli ölçüde katılmakla birlikte bazı noktalarda ayrılıyorum. | While I agree with the author's criticisms to a certain extent, I differ on some points.
+tartışmalı | controversial; debatable | sıfat | Kitabın tarihlendirilmesi, uzmanlar arasında hâlâ tartışmalı bir konudur. | The dating of the book is still a debated issue among experts.
+ihtiyatlı | cautious | sıfat | Bu sonuçların, küçük örneklem nedeniyle ihtiyatlı bir biçimde yorumlanması gerekir. | Because of the small sample, these results need to be interpreted cautiously.
+öyle görünüyor ki | it appears that | ifade | Öyle görünüyor ki, ilk yerleşimciler bölgeye kuzeyden gelmiştir. | It appears that the first settlers came to the region from the north.
+kanımca | in my view | zarf | Kanımca, bu sorunun çözümü yalnızca teknik önlemlerle sağlanamaz. | In my view, this problem cannot be solved by technical measures alone.
+yadsımak | to deny; to dismiss | fiil | Kimse bu reformun bazı olumlu sonuçlar doğurduğunu yadsıyamaz. | No one can deny that this reform produced some positive results.
+## University and scholarship
+tez savunması | thesis defence | isim | Doktora tez savunması, jüri üyelerinin sorularıyla birlikte üç saat sürdü. | Together with the jury members' questions, the doctoral thesis defence lasted three hours.
+tez danışmanı | thesis supervisor | isim | Tez danışmanım, ikinci bölümü baştan yazmamı önerdi. | My thesis supervisor suggested that I rewrite the second chapter from scratch.
+doçent | associate professor | isim | Ablası geçen yıl tarih bölümünde doçent oldu. | Her elder sister became an associate professor in the history department last year.
+bildiri | conference paper | isim | Uluslararası sempozyumda Anadolu dokumacılığı üzerine bir bildiri sundu. | She presented a paper on Anatolian weaving at the international symposium.
+sempozyum | symposium | isim | Sempozyum, üç gün boyunca farklı disiplinlerden araştırmacıları bir araya getirdi. | For three days, the symposium brought together researchers from different disciplines.
+disiplinlerarası | interdisciplinary | sıfat | Proje, tarihçilerle iklim bilimcilerin disiplinlerarası işbirliğine dayanıyor. | The project relies on interdisciplinary collaboration between historians and climate scientists.
+kürsü | chair (professorship); lectern | isim | Üniversitedeki ilk Türk dili kürsüsü yirminci yüzyılın başında kuruldu. | The university's first chair of Turkish language was founded at the beginning of the twentieth century.
+yayımlamak | to publish | fiil | Enstitü, araştırma sonuçlarını her yıl kapsamlı bir kitap olarak yayımlıyor. | Every year, the institute publishes its research results as a comprehensive book.
+araştırma görevlisi | research assistant | isim | Araştırma görevlisi olarak hem ders veriyor hem de doktorasını sürdürüyor. | As a research assistant, she both teaches and continues her doctorate.
+akademik unvan | academic title | isim | Profesörlük gibi akademik unvanlar, belirli yayın koşulları yerine getirilince alınır. | Academic titles such as professor are obtained once certain publication requirements are met.
+## Formal academic phrases
+bu bağlamda | in this context | ifade | Bu bağlamda, kırsal göçün kentler üzerindeki etkilerini de incelemek gerekir. | In this context, it is also necessary to examine the effects of rural migration on cities.
+söz konusu | the said; in question | ifade | Söz konusu belge, vakıf arşivinde yıllarca gözden kaçmış. | The document in question went unnoticed in the foundation's archive for years.
+adı geçen | aforementioned | ifade | Adı geçen eserde yazar, dönemin ticaret yollarını ayrıntılı biçimde anlatır. | In the aforementioned work, the author describes the trade routes of the period in detail.
+yukarıda belirtildiği gibi | as stated above | ifade | Yukarıda belirtildiği gibi, verilerin bir kısmı eksik kayıtlara dayanmaktadır. | As stated above, part of the data is based on incomplete records.
+ilişkin | concerning; relating to | edat | Göç olgusuna ilişkin güvenilir istatistikler oldukça sınırlıdır. | Reliable statistics concerning migration are quite limited.
+yönelik | aimed at; towards | edat | Program, kırsal kesimdeki kadınlara yönelik eğitim olanaklarını artırmayı hedefliyor. | The programme aims to increase educational opportunities for women in rural areas.
+itibarıyla | as of | edat | Haziran itibarıyla, projeye katılan üniversite sayısı yirmiye ulaştı. | As of June, the number of universities taking part in the project had reached twenty.
+açısından | in terms of | edat | Bu karar, çevre açısından olduğu kadar ekonomi açısından da önemlidir. | This decision is as important in economic terms as in environmental terms.
+-den hareketle | starting from; on the basis of | edat | Yazar, köy kayıtlarından hareketle dönemin nüfus yapısını yeniden kuruyor. | Starting from village records, the author reconstructs the population structure of the period.
+göz önünde bulundurmak | to take into account | ifade | Sonuçları değerlendirirken örneklemin yaş dağılımını göz önünde bulundurmak gerekir. | When evaluating the results, the age distribution of the sample must be taken into account.
+## Trends and figures
+artış göstermek | to show an increase | ifade | Son on yılda üniversite mezunu kadınların oranı belirgin bir artış göstermiştir. | Over the last decade, the proportion of female university graduates has shown a marked increase.
+binde | per thousand | ifade | Bebek ölüm hızı, otuz yılda binde kırktan binde ona düştü. | In thirty years, the infant mortality rate fell from forty per thousand to ten per thousand.
+gerilemek | to decline; to fall back | fiil | İhracat, ilk çeyrekte bir önceki yıla göre yüzde beş geriledi. | In the first quarter, exports fell by five percent compared with the previous year.
+dalgalanma | fluctuation | isim | Fiyatlardaki mevsimsel dalgalanmalar grafikte açıkça görülüyor. | Seasonal fluctuations in prices can be clearly seen in the graph.
+zirve yapmak | to peak | ifade | Ziyaretçi sayısı, ağustos ayında yaklaşık iki milyonla zirve yaptı. | The number of visitors peaked in August at around two million.
+dip noktası | lowest point; trough | isim | Üretim, kriz yılında son yirmi yılın dip noktasına indi. | In the year of the crisis, production fell to its lowest point in twenty years.
+istikrarlı | stable; steady | sıfat | Ülke ekonomisi, on yıl boyunca istikrarlı bir büyüme kaydetti. | The country's economy recorded steady growth for a decade.
+seyir | course; progression | isim | Hastalığın seyri, hastanın yaşına göre önemli farklılıklar gösteriyor. | The course of the disease varies considerably depending on the patient's age.
+iki katına çıkmak | to double | ifade | Kentin nüfusu yirmi yılda neredeyse iki katına çıktı. | The city's population nearly doubled in twenty years.
+çizelge | chart; table | isim | Çizelge 3, bölgelere göre işsizlik oranlarını göstermektedir. | Table 3 shows unemployment rates by region.
+## Critique and evaluation
+eleştirel | critical (analytical) | sıfat | Öğrencilerden kaynakları eleştirel bir gözle okumaları bekleniyor. | Students are expected to read their sources with a critical eye.
+eksiklik | shortcoming; deficiency | isim | Çalışmanın en büyük eksikliği, kadın katılımcıların sayısının azlığıdır. | The study's biggest shortcoming is the small number of female participants.
+altını çizmek | to underline; to stress | deyim | Hakemler, makalede güncel kaynakların kullanılmadığının altını çizdi. | The reviewers stressed that no recent sources were used in the article.
+geçerlilik | validity | isim | Ölçeğin geçerliliği ve güvenilirliği önceki araştırmalarda sınanmıştır. | The validity and reliability of the scale were tested in earlier research.
+güvenilirlik | reliability | isim | Kaynakların güvenilirliği, tarih yazımının en temel sorunlarından biridir. | The reliability of sources is one of the most fundamental problems of historiography.
+yanlılık | bias | isim | Anket sorularının kurgusu, sonuçlarda belirgin bir yanlılığa yol açmış olabilir. | The way the survey questions were framed may have led to a marked bias in the results.
+katkı sağlamak | to contribute | ifade | Bu çalışma, bölge tarihine ilişkin bilgilerimize önemli bir katkı sağlıyor. | This study makes an important contribution to our knowledge of the region's history.
+yetkin | competent; authoritative | sıfat | Kendisi, Osmanlı paleografyası alanının en yetkin uzmanlarından biri sayılıyor. | He is regarded as one of the most authoritative experts in Ottoman palaeography.
+tutarsızlık | inconsistency | isim | Tanıkların ifadeleri arasındaki tutarsızlıklar, tarihçileri şüpheye düşürdü. | The inconsistencies between the witnesses' accounts made historians suspicious.
+abartılı | exaggerated | sıfat | Kronikteki ordu sayılarının abartılı olduğu genel olarak kabul edilir. | It is generally accepted that the army figures in the chronicle are exaggerated.
