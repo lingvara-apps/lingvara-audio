@@ -1,0 +1,111 @@
+# UNIT: Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+## Şirket yönetimi
+取締役会 (torishimariyakukai) | yönetim kurulu | isim | 新しい工場の建設は来週の取締役会で正式に決定される。 | Yeni fabrikanın inşası gelecek haftaki yönetim kurulunda resmen karara bağlanacak.
+株主総会 (kabunushi sōkai) | hissedarlar genel kurulu | isim | 株主総会では経営陣の責任を問う質問が相次いだ。 | Genel kurulda yönetimin sorumluluğunu soran sorular art arda geldi.
+代表取締役 (daihyō torishimariyaku) | genel müdür, şirketi temsil eden yönetici | isim | 契約書には代表取締役の署名と社印が必要だ。 | Sözleşmede şirketi temsil eden yöneticinin imzası ve şirket mührü gerekir.
+監査役 (kansayaku) | denetçi (şirket içi) | isim | 監査役は取締役の職務執行を監督する立場にある。 | Denetçi, yöneticilerin görevlerini yerine getirişini denetleme konumundadır.
+社外取締役 (shagai torishimariyaku) | bağımsız yönetim kurulu üyesi | isim | 経営の透明性を高めるため、社外取締役を二名増やした。 | Yönetimin şeffaflığını artırmak için iki bağımsız üye daha atandı.
+執行役員 (shikkō yakuin) | icra yöneticisi | isim | 彼は四十代の若さで営業部門の執行役員に就任した。 | Kırklı yaşlarında satış bölümünün icra yöneticiliğine getirildi.
+経営陣 (keieijin) | üst yönetim | isim | 経営陣の刷新を求める声が社内で高まっている。 | Şirket içinde üst yönetimin yenilenmesi talebi artıyor.
+企業統治 (kigyō tōchi) | kurumsal yönetişim | isim | 不祥事を受けて、企業統治の在り方が改めて問われている。 | Skandalın ardından kurumsal yönetişimin nasıl olması gerektiği yeniden sorgulanıyor.
+内部統制 (naibu tōsei) | iç kontrol | isim | 内部統制が機能していれば、不正は早期に発見できたはずだ。 | İç kontrol işleseydi usulsüzlük erken fark edilebilirdi.
+持株会社 (mochikabu gaisha) | holding şirketi | isim | グループの再編に伴い、持株会社の体制に移行した。 | Grubun yeniden yapılanmasıyla holding yapısına geçildi.
+## Strateji ve yeniden yapılanma
+中期経営計画 (chūki keiei keikaku) | orta vadeli iş planı | isim | 新しい中期経営計画では海外売上比率五割を目標に掲げた。 | Yeni orta vadeli planda yurt dışı satış oranını yüzde elliye çıkarma hedefi kondu.
+事業再編 (jigyō saihen) | iş yeniden yapılandırması | isim | 不採算部門を中心に大規模な事業再編が進められている。 | Zarar eden bölümler başta olmak üzere büyük bir yeniden yapılanma sürüyor.
+経営統合 (keiei tōgō) | şirket birleşmesi (yönetim entegrasyonu) | isim | 地方銀行二行が来年四月に経営統合することで合意した。 | İki bölgesel banka gelecek nisanda birleşme konusunda anlaştı.
+選択と集中 (sentaku to shūchū) | seçip odaklanma (strateji) | ifade | 選択と集中を進め、得意分野に経営資源を投入する。 | Seçip odaklanma stratejisiyle kaynaklarımızı güçlü olduğumuz alana yönlendiriyoruz.
+撤退 (tettai) | çekilme (pazardan) | isim | 価格競争の激化により、家電事業からの撤退を決めた。 | Fiyat rekabeti kızışınca beyaz eşya işinden çekilmeye karar verdik.
+多角化 (takakuka) | çeşitlendirme | isim | 鉄道会社は不動産や小売りへの多角化で成長してきた。 | Demiryolu şirketi gayrimenkul ve perakendeye açılarak büyüdü.
+提携 (teikei) | ortaklık, işbirliği | isim | 海外の部品メーカーとの技術提携が発表された。 | Yurt dışındaki bir parça üreticisiyle teknik işbirliği açıklandı.
+競争優位 (kyōsō yūi) | rekabet üstünlüğü | isim | 独自の技術こそが当社の競争優位の源泉である。 | Kendine özgü teknolojimiz şirketimizin rekabet üstünlüğünün kaynağıdır.
+構造改革 (kōzō kaikaku) | yapısal reform | isim | 構造改革の一環として、本社機能を地方に移転した。 | Yapısal reformun bir parçası olarak merkez işlevleri taşraya taşındı.
+収益源 (shūekigen) | gelir kaynağı | isim | サブスクリプションが新たな収益源として期待されている。 | Abonelik modeli yeni bir gelir kaynağı olarak görülüyor.
+## Finansal raporlama
+決算 (kessan) | dönem sonu hesapları, bilanço kapanışı | isim | 三月決算の企業は五月に業績を発表する。 | Mali yılı martta kapanan şirketler sonuçlarını mayısta açıklar.
+有価証券報告書 (yūka shōken hōkokusho) | yıllık faaliyet ve finans raporu (resmî) | isim | 投資家は有価証券報告書で会社のリスク情報を確認できる。 | Yatırımcılar resmî yıllık raporda şirketin risk bilgilerine bakabilir.
+貸借対照表 (taishaku taishōhyō) | bilanço | isim | 貸借対照表を見れば、会社の財政状態が一目でわかる。 | Bilançoya bakınca şirketin mali durumu bir bakışta anlaşılır.
+損益計算書 (son'eki keisansho) | gelir tablosu | isim | 損益計算書によると、本業の利益は前年より減っている。 | Gelir tablosuna göre ana faaliyet kârı geçen yıla göre azalmış.
+売上高 (uriagedaka) | satış hasılatı, ciro | isim | 今期の売上高は初めて一兆円を突破した。 | Bu dönemin cirosu ilk kez bir trilyon yeni aştı.
+営業利益 (eigyō rieki) | faaliyet kârı | isim | 原材料費の高騰で、営業利益は大幅に落ち込んだ。 | Hammadde fiyatlarının fırlaması yüzünden faaliyet kârı ciddi biçimde düştü.
+経常利益 (keijō rieki) | olağan kâr | isim | 為替差益が加わり、経常利益は過去最高を記録した。 | Kur farkı kazancının eklenmesiyle olağan kâr rekor kırdı.
+純利益 (jun rieki) | net kâr | isim | 特別損失を計上したため、純利益は赤字に転落した。 | Olağanüstü zarar kaydedildiği için net kâr zarara döndü.
+減価償却 (genka shōkyaku) | amortisman | isim | 新工場の稼働に伴い、減価償却費が増加している。 | Yeni fabrikanın faaliyete geçmesiyle amortisman giderleri artıyor.
+四半期 (shihanki) | çeyrek (üç aylık dönem) | isim | 第三四半期の決算は市場予想を上回った。 | Üçüncü çeyrek sonuçları piyasa beklentisini aştı.
+## Bilanço kalemleri
+純資産 (jun shisan) | öz kaynak, net varlık | isim | 赤字が続き、純資産が年々目減りしている。 | Zararlar sürdükçe net varlıklar yıldan yıla eriyor.
+有利子負債 (yūrishi fusai) | faizli borç | isim | 資産の売却によって有利子負債を半分に減らした。 | Varlık satışlarıyla faizli borcu yarıya indirdik.
+自己資本比率 (jiko shihon hiritsu) | özkaynak oranı | isim | 自己資本比率が高い企業は不況に強いとされる。 | Özkaynak oranı yüksek şirketlerin krize dayanıklı olduğu kabul edilir.
+流動資産 (ryūdō shisan) | dönen varlıklar | isim | 現金や売掛金は流動資産に分類される。 | Nakit ve alacaklar dönen varlıklar arasında sınıflandırılır.
+固定資産 (kotei shisan) | duran varlıklar | isim | 土地や建物などの固定資産を担保に融資を受けた。 | Arsa ve bina gibi duran varlıkları teminat göstererek kredi aldık.
+引当金 (hikiatekin) | karşılık (muhasebe) | isim | 将来の訴訟に備えて、多額の引当金を計上した。 | Gelecekteki davalara karşı yüksek tutarda karşılık ayrıldı.
+売掛金 (urikakekin) | ticari alacak | isim | 取引先の倒産で、売掛金の回収が困難になった。 | Müşterinin iflası yüzünden alacakları tahsil etmek zorlaştı.
+買掛金 (kaikakekin) | ticari borç | isim | 買掛金の支払いは毎月末にまとめて行っている。 | Satıcılara olan borçları her ay sonunda toplu ödüyoruz.
+棚卸資産 (tanaoroshi shisan) | stoklar, envanter | isim | 売れ残りが増え、棚卸資産が膨らんでいる。 | Satılmayan mallar arttıkça stoklar şişiyor.
+剰余金 (jōyokin) | dağıtılmamış kâr, yedek akçe | isim | 剰余金の一部を配当として株主に還元する。 | Dağıtılmamış kârın bir kısmını temettü olarak hissedarlara veriyoruz.
+## Sözleşmenin unsurları
+締結 (teiketsu) | akdetme, imzalama (anlaşma) | isim | 両社は長期供給契約の締結に向けて交渉を続けている。 | İki şirket uzun vadeli tedarik sözleşmesi imzalamak için görüşmeleri sürdürüyor.
+条項 (jōkō) | madde, hüküm | isim | 契約の第五条項について、相手方から修正の要望があった。 | Karşı taraf sözleşmenin beşinci maddesinde değişiklik istedi.
+甲 (kō) | Taraf A (sözleşmede birinci taraf) | isim | 甲は乙に対し、本件業務を委託するものとする。 | A tarafı bu işi B tarafına devreder.
+乙 (otsu) | Taraf B (sözleşmede ikinci taraf) | isim | 乙は納品後三十日以内に請求書を発行する。 | B tarafı teslimattan sonra otuz gün içinde fatura keser.
+履行 (rikō) | ifa, yerine getirme | isim | 相手方が契約の履行を怠ったため、損害が生じた。 | Karşı taraf sözleşmeyi ifa etmeyi ihmal ettiği için zarar doğdu.
+解除 (kaijo) | fesih, iptal | isim | 重大な違反があった場合、甲は契約を解除できる。 | Ciddi bir ihlal olursa A tarafı sözleşmeyi feshedebilir.
+違約金 (iyakukin) | cezai şart bedeli | isim | 納期に遅れた場合は、所定の違約金を支払わなければならない。 | Teslim süresi geçirilirse belirlenen cezai şart ödenmelidir.
+秘密保持契約 (himitsu hoji keiyaku) | gizlilik sözleşmesi | isim | 共同開発の前に、まず秘密保持契約を結んだ。 | Ortak geliştirmeden önce bir gizlilik sözleşmesi imzaladık.
+但し書き (tadashigaki) | şerh, istisna kaydı | isim | 小さな但し書きに重要な条件が隠されていることがある。 | Bazen küçük bir istisna kaydında önemli koşullar saklı olabilir.
+覚書 (oboegaki) | mutabakat zaptı, ön protokol | isim | 正式契約の前に、基本的な条件を覚書にまとめた。 | Resmî sözleşmeden önce temel şartları bir mutabakat zaptında topladık.
+## Sözleşme dili
+遵守する (junshu suru) | uymak, riayet etmek | fiil | 両当事者は関係法令を遵守するものとする。 | Her iki taraf ilgili mevzuata uyacaktır.
+準拠する (junkyo suru) | ...e tabi olmak, uygun olmak | fiil | 本契約は日本法に準拠し、日本法に従って解釈される。 | Bu sözleşme Japon hukukuna tabidir ve ona göre yorumlanır.
+免責 (menseki) | sorumluluktan muafiyet | isim | 天災による損害については、売主は免責されるものとする。 | Doğal afetlerden doğan zararlarda satıcı sorumluluktan muaftır.
+不可抗力 (fukakōryoku) | mücbir sebep | isim | 戦争や地震などの不可抗力による遅延は、違反とはみなさない。 | Savaş, deprem gibi mücbir sebeplerden kaynaklanan gecikmeler ihlal sayılmaz.
+帰属する (kizoku suru) | ...e ait olmak (hak) | fiil | 本業務で生じた著作権はすべて甲に帰属する。 | Bu iş sırasında doğan tüm telif hakları A tarafına aittir.
+譲渡する (jōto suru) | devretmek | fiil | 乙は甲の書面による承諾なく、本契約上の権利を譲渡してはならない。 | B tarafı A'nın yazılı onayı olmadan sözleşmeden doğan haklarını devredemez.
+協議の上 (kyōgi no ue) | görüşülerek, istişare ile | ifade | 本契約に定めのない事項は、両者協議の上で決定する。 | Sözleşmede düzenlenmeyen konular taraflarca görüşülerek karara bağlanır.
+別途 (betto) | ayrıca, ayrı olarak | zarf | 交通費については別途精算いたします。 | Yol masrafları ayrıca ödenecektir.
+速やかに (sumiyaka ni) | derhâl, gecikmeksizin | zarf | 問題が発生した場合は、速やかに相手方に通知すること。 | Bir sorun çıkarsa karşı tarafa derhâl bildirilmelidir.
+書面 (shomen) | yazılı belge | isim | 契約内容の変更は、必ず書面で行わなければならない。 | Sözleşme değişiklikleri mutlaka yazılı olarak yapılmalıdır.
+## Bütçe ve maliyet
+予実管理 (yojitsu kanri) | bütçe-gerçekleşme takibi | isim | 毎月の予実管理で、経費の使い過ぎを早めに見つける。 | Aylık bütçe-gerçekleşme takibiyle aşırı harcamaları erkenden yakalıyoruz.
+経費削減 (keihi sakugen) | gider kısma | isim | 経費削減のため、出張はなるべくオンライン会議に切り替える。 | Giderleri kısmak için iş seyahatlerini olabildiğince çevrim içi toplantıya çeviriyoruz.
+固定費 (koteihi) | sabit gider | isim | 家賃や人件費などの固定費が経営を圧迫している。 | Kira ve personel gibi sabit giderler şirketi zorluyor.
+変動費 (hendōhi) | değişken gider | isim | 原材料費は生産量によって変わる変動費だ。 | Hammadde maliyeti üretim miktarına göre değişen bir giderdir.
+損益分岐点 (son'eki bunkiten) | başabaş noktası | isim | 月に五千個売れば損益分岐点を超える計算だ。 | Ayda beş bin adet satarsak başabaş noktasını geçiyoruz.
+原価 (genka) | maliyet (birim) | isim | 円安の影響で、製品の原価が一割以上上がった。 | Yenin değer kaybıyla ürünlerin maliyeti yüzde ondan fazla arttı.
+採算 (saisan) | kârlılık, kâr hesabı | isim | この路線は乗客が少なく、とても採算が合わない。 | Bu hatta yolcu az, hiç kâr getirmiyor.
+黒字化 (kurojika) | kâra geçme | isim | 新事業は三年目でようやく黒字化を達成した。 | Yeni iş ancak üçüncü yılında kâra geçebildi.
+設備投資 (setsubi tōshi) | yatırım harcaması (tesis ve makine) | isim | 自動化のための設備投資に五十億円を投じる。 | Otomasyon için tesis ve makineye beş milyar yen yatırılacak.
+費用対効果 (hiyō tai kōka) | maliyet-fayda oranı | isim | 広告の費用対効果を測るのは意外と難しい。 | Reklamın maliyet-fayda oranını ölçmek sanıldığından zordur.
+## Karar alma süreci
+稟議 (ringi) | onay dilekçesi dolaştırma (Japon şirketlerinde) | isim | 新しいパソコンを買うにも稟議を通さなければならない。 | Yeni bir bilgisayar almak için bile onay dilekçesini dolaştırmak gerekiyor.
+決裁 (kessai) | onay (yetkili makamca) | isim | この件は部長の決裁が下りるまで動けない。 | Bu iş müdürün onayı çıkana kadar ilerleyemez.
+根回し (nemawashi) | toplantı öncesi gayriresmî ikna, zemin hazırlama | isim | 会議の前に、関係部署への根回しを済ませておいた。 | Toplantıdan önce ilgili bölümlerle zemin hazırlığını bitirmiştim.
+議案 (gian) | gündem maddesi, önerge | isim | 総会に提出された議案はすべて原案どおり可決された。 | Genel kurula sunulan önergelerin hepsi olduğu gibi kabul edildi.
+決議 (ketsugi) | karar (kurul kararı) | isim | 取締役会の決議により、新社長の就任が決まった。 | Yönetim kurulu kararıyla yeni başkanın göreve gelmesi kesinleşti.
+諮る (hakaru) | danışmak, (kurula) sunmak | fiil | この問題は委員会に諮った上で結論を出したい。 | Bu konuda kurula danıştıktan sonra karar vermek istiyorum.
+一任する (ichinin suru) | tamamen bırakmak, yetki vermek | fiil | 細かい条件の交渉は担当者に一任することにした。 | Ayrıntılı şartların pazarlığını tamamen sorumluya bırakmaya karar verdik.
+上申 (jōshin) | üst makama arz, öneri sunma | isim | 現場の意見をまとめて本社に上申した。 | Sahadaki görüşleri toparlayıp merkeze arz ettik.
+起案 (kian) | taslak hazırlama (resmî yazı) | isim | 新制度の起案は若手社員が担当している。 | Yeni sistemin taslağını genç çalışanlar hazırlıyor.
+持ち回り (mochimawari) | sırayla üstlenme; elden dolaştırma | isim | 会議の司会は各部署の持ち回りで担当している。 | Toplantı başkanlığını bölümler sırayla üstleniyor.
+## İnsan kaynakları
+人事異動 (jinji idō) | görev değişikliği, tayin | isim | 四月の人事異動で、大阪支社への転勤が決まった。 | Nisan tayinlerinde Osaka şubesine gönderilmem kesinleşti.
+出向 (shukkō) | başka şirkete geçici görevlendirme | isim | 彼は二年間、取引先の会社に出向していた。 | İki yıl boyunca iş ortağı şirkette geçici olarak çalıştı.
+左遷 (sasen) | sürgün tayin, rütbe indirme | isim | 上司に意見しただけで左遷されたと噂されている。 | Sırf amirine itiraz ettiği için kızağa çekildiği konuşuluyor.
+昇格 (shōkaku) | terfi (kademe yükselme) | isim | 実績が認められ、課長職への昇格が決まった。 | Başarıları takdir edildi ve şef pozisyonuna terfi etti.
+懲戒 (chōkai) | disiplin cezası | isim | 情報を外部に漏らした社員は懲戒処分を受けた。 | Bilgileri dışarı sızdıran çalışan disiplin cezası aldı.
+早期退職 (sōki taishoku) | erken emeklilik | isim | 会社は五十歳以上の社員を対象に早期退職を募った。 | Şirket elli yaş üstü çalışanlara erken emeklilik teklif etti.
+終身雇用 (shūshin koyō) | ömür boyu istihdam | isim | 終身雇用の慣行は、かつて日本企業の特徴とされた。 | Ömür boyu istihdam uygulaması bir zamanlar Japon şirketlerinin özelliği sayılırdı.
+年功序列 (nenkō joretsu) | kıdeme göre yükselme sistemi | isim | 年功序列から成果主義への移行が進んでいる。 | Kıdeme dayalı sistemden performansa dayalı sisteme geçiş sürüyor.
+福利厚生 (fukuri kōsei) | sosyal haklar, yan haklar | isim | この会社は社員寮など福利厚生が充実している。 | Bu şirketin çalışan yurdu gibi yan hakları oldukça zengin.
+労使 (rōshi) | işçi ve işveren | isim | 賃上げをめぐる労使交渉は深夜まで続いた。 | Ücret artışı konusundaki işçi-işveren görüşmeleri gece yarısına kadar sürdü.
+## Sonuç açıklama dili
+増収増益 (zōshū zōeki) | hem ciro hem kâr artışı | isim | 好調な海外販売に支えられ、三期連続の増収増益となった。 | Güçlü yurt dışı satışlar sayesinde üst üste üçüncü dönem ciro ve kâr arttı.
+減収減益 (genshū gen'eki) | hem ciro hem kâr düşüşü | isim | 主力商品の不振で、今期は減収減益に終わった。 | Ana ürünün kötü satışı yüzünden bu dönem hem ciro hem kâr düştü.
+前年同期比 (zennen dōkihi) | geçen yılın aynı dönemine göre | isim | 売上高は前年同期比で一五パーセント増加した。 | Satışlar geçen yılın aynı dönemine göre yüzde on beş arttı.
+上方修正 (jōhō shūsei) | yukarı yönlü revizyon | isim | 円安効果を受けて、通期の利益予想を上方修正した。 | Kur etkisiyle yıllık kâr tahmini yukarı revize edildi.
+下方修正 (kahō shūsei) | aşağı yönlü revizyon | isim | 需要の低迷により、売上見通しの下方修正を余儀なくされた。 | Talebin durgunluğu yüzünden satış beklentisini aşağı çekmek zorunda kaldık.
+業績予想 (gyōseki yosō) | sonuç tahmini (şirket) | isim | 会社は業績予想の発表を延期すると明らかにした。 | Şirket sonuç tahminini açıklamayı ertelediğini duyurdu.
+配当 (haitō) | temettü, kâr payı | isim | 業績回復に伴い、一株当たりの配当を増やす方針だ。 | Sonuçlar düzeldikçe hisse başına temettüyü artırmayı planlıyorlar.
+株主還元 (kabunushi kangen) | hissedarlara getiri dağıtımı | isim | 自社株買いを含め、株主還元を一層強化する。 | Hisse geri alımı dahil hissedarlara getiri dağıtımını daha da artıracağız.
+説明責任 (setsumei sekinin) | hesap verebilirlik | isim | 経営陣には株主に対する説明責任がある。 | Yönetimin hissedarlara karşı hesap verme sorumluluğu vardır.
+開示 (kaiji) | kamuya açıklama, ifşa | isim | 上場企業には重要な情報を適時に開示する義務がある。 | Halka açık şirketler önemli bilgileri zamanında kamuya açıklamak zorundadır.
