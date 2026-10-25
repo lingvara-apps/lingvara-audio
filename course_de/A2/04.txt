@@ -1,0 +1,111 @@
+# UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
+## Havalimanında
+der Flug (die Flüge) | uçuş | isim (e) | Der Flug nach Istanbul dauert drei Stunden. | İstanbul uçuşu üç saat sürüyor.
+der Abflug (die Abflüge) | kalkış (uçak) | isim (e) | Der Abflug ist um 14.30 Uhr. | Kalkış saat 14.30'da.
+die Ankunft (die Ankünfte) | varış, geliş | isim (d) | Die Ankunft in Wien ist pünktlich. | Viyana'ya varış zamanında.
+die Bordkarte (die Bordkarten) | biniş kartı | isim (d) | Zeigen Sie bitte Ihre Bordkarte. | Lütfen biniş kartınızı gösterin.
+das Gepäck | bagaj, valiz | isim (o) | Wo kann ich mein Gepäck abholen? | Bagajımı nereden alabilirim?
+das Handgepäck | el bagajı | isim (o) | Flüssigkeiten im Handgepäck sind verboten. | El bagajında sıvı yasak.
+einchecken | check-in yapmak | fiil | Wir müssen zwei Stunden vorher einchecken. | İki saat önceden check-in yapmamız gerekiyor.
+der Schalter (die Schalter) | gişe, kontuar; düğme | isim (e) | Bitte gehen Sie zu Schalter zwölf. | Lütfen on iki numaralı kontuara gidin.
+landen | iniş yapmak | fiil | Das Flugzeug ist sicher gelandet. | Uçak güvenle indi.
+die Verspätung (die Verspätungen) | gecikme, rötar | isim (d) | Der Flug hat eine Stunde Verspätung. | Uçuş bir saat rötarlı.
+## Trende
+das Gleis (die Gleise) | peron (hat), ray | isim (o) | Der Zug fährt von Gleis drei ab. | Tren üçüncü perondan kalkıyor.
+der Bahnsteig (die Bahnsteige) | peron | isim (e) | Wir warten auf dem Bahnsteig. | Peronda bekliyoruz.
+der Wagen (die Wagen) | vagon; araba | isim (e) | Unser Platz ist in Wagen sieben. | Yerimiz yedinci vagonda.
+die Reservierung (die Reservierungen) | rezervasyon | isim (d) | Ich habe eine Reservierung für zwei Personen. | İki kişilik rezervasyonum var.
+der Anschluss (die Anschlüsse) | aktarma bağlantısı; bağlantı | isim (e) | Ich habe meinen Anschluss verpasst. | Aktarma trenimi kaçırdım.
+der Schaffner (die Schaffner) | kondüktör | isim (e) | Der Schaffner kontrolliert die Fahrkarten. | Kondüktör biletleri kontrol ediyor.
+die Durchsage (die Durchsagen) | anons | isim (d) | Hast du die Durchsage verstanden? | Anonsu anladın mı?
+hin und zurück | gidiş dönüş | ifade | Einmal nach Hamburg, hin und zurück, bitte. | Hamburg'a bir gidiş dönüş lütfen.
+verpassen | kaçırmak | fiil | Beeil dich, sonst verpassen wir den Zug! | Acele et, yoksa treni kaçıracağız!
+die Abfahrt (die Abfahrten) | kalkış, hareket | isim (d) | Die Abfahrt ist um 8.15 Uhr. | Hareket saati 8.15.
+## Otelde
+die Rezeption (die Rezeptionen) | resepsiyon | isim (d) | Der Schlüssel liegt an der Rezeption. | Anahtar resepsiyonda.
+das Einzelzimmer (die Einzelzimmer) | tek kişilik oda | isim (o) | Ein Einzelzimmer kostet achtzig Euro. | Tek kişilik oda seksen avro.
+das Doppelzimmer (die Doppelzimmer) | çift kişilik oda | isim (o) | Haben Sie noch ein Doppelzimmer frei? | Boş çift kişilik odanız var mı?
+die Übernachtung (die Übernachtungen) | geceleme, konaklama | isim (d) | Die Übernachtung mit Frühstück kostet hundert Euro. | Kahvaltı dahil geceleme yüz avro.
+die Halbpension | yarım pansiyon | isim (d) | Wir buchen das Hotel mit Halbpension. | Oteli yarım pansiyon ayırtıyoruz.
+buchen | rezervasyon yapmak, ayırtmak | fiil | Ich habe den Flug schon gebucht. | Uçuşu çoktan ayırttım.
+frei | boş, serbest; ücretsiz | sıfat | Ist der Platz hier frei? | Buradaki yer boş mu?
+die Unterkunft (die Unterkünfte) | konaklama yeri | isim (d) | Wir suchen eine günstige Unterkunft. | Uygun fiyatlı bir konaklama yeri arıyoruz.
+die Jugendherberge (die Jugendherbergen) | gençlik hosteli | isim (d) | Die Jugendherberge ist sehr günstig. | Gençlik hosteli çok ucuz.
+der Campingplatz (die Campingplätze) | kamp yeri | isim (e) | Der Campingplatz liegt direkt am See. | Kamp yeri tam göl kenarında.
+## Belgeler ve sınır
+der Ausweis (die Ausweise) | kimlik kartı | isim (e) | Darf ich Ihren Ausweis sehen? | Kimliğinizi görebilir miyim?
+das Visum (die Visa) | vize | isim (o) | Für die Reise brauche ich ein Visum. | Yolculuk için vizeye ihtiyacım var.
+die Grenze (die Grenzen) | sınır | isim (d) | Wir sind gleich an der Grenze. | Birazdan sınırdayız.
+der Zoll | gümrük | isim (e) | Am Zoll müssen wir den Koffer öffnen. | Gümrükte bavulu açmamız gerekiyor.
+gültig | geçerli | sıfat | Ihr Pass ist nicht mehr gültig. | Pasaportunuz artık geçerli değil.
+ablaufen (lief ab, abgelaufen) | süresi dolmak | fiil · düzensiz | Mein Visum läuft im März ab. | Vizemin süresi martta doluyor.
+verlängern | uzatmak | fiil | Ich muss meinen Pass verlängern. | Pasaportumu uzatmam lazım.
+die Botschaft (die Botschaften) | büyükelçilik; mesaj | isim (d) | Das Visum bekommst du bei der Botschaft. | Vizeyi büyükelçilikten alırsın.
+der Führerschein (die Führerscheine) | ehliyet | isim (e) | Ich habe meinen Führerschein mit achtzehn gemacht. | Ehliyetimi on sekiz yaşında aldım.
+die Reiseversicherung (die Reiseversicherungen) | seyahat sigortası | isim (d) | Hast du eine Reiseversicherung? | Seyahat sigortan var mı?
+## Gezip görmek
+die Sehenswürdigkeit (die Sehenswürdigkeiten) | görülmeye değer yer | isim (d) | Der Kölner Dom ist eine berühmte Sehenswürdigkeit. | Köln Katedrali ünlü bir turistik yerdir.
+besichtigen | gezip görmek | fiil | Heute besichtigen wir das Schloss Schönbrunn. | Bugün Schönbrunn Sarayı'nı geziyoruz.
+die Führung (die Führungen) | rehberli tur; yönetim | isim (d) | Die Führung beginnt um elf Uhr. | Rehberli tur saat on birde başlıyor.
+der Reiseführer (die Reiseführer) | rehber (kişi veya kitap) | isim (e) | Im Reiseführer steht viel über Luzern. | Rehber kitapta Luzern hakkında çok şey yazıyor.
+das Reisebüro (die Reisebüros) | seyahat acentesi | isim (o) | Wir buchen die Reise im Reisebüro. | Yolculuğu seyahat acentesinden ayırtıyoruz.
+die Stadtrundfahrt (die Stadtrundfahrten) | şehir turu (araçla) | isim (d) | Die Stadtrundfahrt dauert zwei Stunden. | Şehir turu iki saat sürüyor.
+der Eintritt | giriş (ücreti) | isim (e) | Der Eintritt ins Museum ist frei. | Müzeye giriş ücretsiz.
+das Souvenir (die Souvenirs) | hatıra eşya | isim (o) | Ich kaufe ein Souvenir für meine Mutter. | Annem için bir hatıra eşya alıyorum.
+die Aussicht (die Aussichten) | manzara; ihtimal | isim (d) | Vom Berg hat man eine tolle Aussicht. | Dağdan harika bir manzara var.
+berühmt | ünlü | sıfat | Salzburg ist für seine Musik berühmt. | Salzburg müziğiyle ünlüdür.
+## Araba ile yolculuk
+die Autobahn (die Autobahnen) | otoban, otoyol | isim (d) | Auf der Autobahn ist viel Verkehr. | Otobanda trafik yoğun.
+die Tankstelle (die Tankstellen) | benzin istasyonu | isim (d) | Wir halten an der nächsten Tankstelle. | Bir sonraki benzin istasyonunda duruyoruz.
+tanken | benzin almak, yakıt doldurmak | fiil | Ich muss noch tanken. | Daha benzin almam lazım.
+der Stau (die Staus) | trafik sıkışıklığı | isim (e) | Wir stehen seit einer Stunde im Stau. | Bir saattir trafikte bekliyoruz.
+der Mietwagen (die Mietwagen) | kiralık araba | isim (e) | Am Flughafen nehmen wir einen Mietwagen. | Havalimanında kiralık araba alıyoruz.
+parken | park etmek | fiil | Hier darf man nicht parken. | Buraya park edilmez.
+der Parkplatz (die Parkplätze) | otopark; park yeri | isim (e) | Ich finde keinen Parkplatz. | Park yeri bulamıyorum.
+die Panne (die Pannen) | arıza (araç) | isim (d) | Wir hatten eine Panne auf der Autobahn. | Otobanda arabamız arıza yaptı.
+die Vignette (die Vignetten) | otoyol pulu (Avusturya, İsviçre) | isim (d) | In Österreich braucht man eine Vignette. | Avusturya'da otoyol pulu gerekiyor.
+die Raststätte (die Raststätten) | dinlenme tesisi | isim (d) | An der Raststätte essen wir etwas. | Dinlenme tesisinde bir şeyler yiyoruz.
+## Bavul hazırlamak
+packen | toplamak, hazırlamak (bavul) | fiil | Hast du schon deinen Koffer gepackt? | Bavulunu hazırladın mı?
+auspacken | (bavulu) boşaltmak; paketi açmak | fiil | Im Hotel packe ich zuerst aus. | Otelde önce bavulumu boşaltırım.
+der Rucksack (die Rucksäcke) | sırt çantası | isim (e) | Für die Wanderung nehme ich einen Rucksack. | Yürüyüş için bir sırt çantası alıyorum.
+die Sonnencreme (die Sonnencremes) | güneş kremi | isim (d) | Vergiss die Sonnencreme nicht! | Güneş kremini unutma!
+die Sonnenbrille (die Sonnenbrillen) | güneş gözlüğü | isim (d) | Wo ist meine Sonnenbrille? | Güneş gözlüğüm nerede?
+der Regenschirm (die Regenschirme) | şemsiye | isim (e) | In Hamburg braucht man immer einen Regenschirm. | Hamburg'da hep şemsiye gerekir.
+der Badeanzug (die Badeanzüge) | mayo (kadın) | isim (e) | Ich packe meinen Badeanzug ein. | Mayomu bavula koyuyorum.
+die Badehose (die Badehosen) | mayo (erkek) | isim (d) | Seine Badehose ist noch nass. | Mayosu hâlâ ıslak.
+der Kulturbeutel (die Kulturbeutel) | tuvalet çantası | isim (e) | Die Zahnbürste ist im Kulturbeutel. | Diş fırçası tuvalet çantasında.
+die Packliste (die Packlisten) | bavul listesi | isim (d) | Ich schreibe mir immer eine Packliste. | Kendime hep bir bavul listesi yazarım.
+## Tatil yerleri
+das Ausland | yurt dışı | isim (o) | Wir fahren dieses Jahr ins Ausland. | Bu yıl yurt dışına gidiyoruz.
+die Ferien | tatil (okul, uzun) | isim (çoğul) | In den Ferien fahren wir zu Oma. | Tatilde nineme gidiyoruz.
+die Küste (die Küsten) | kıyı, sahil şeridi | isim (d) | Wir machen Urlaub an der Küste. | Kıyıda tatil yapıyoruz.
+das Gebirge (die Gebirge) | dağlık bölge, sıradağlar | isim (o) | Im Gebirge ist die Luft frisch. | Dağlarda hava temiz.
+die Nordsee | Kuzey Denizi | isim (d) | An der Nordsee ist es oft windig. | Kuzey Denizi'nde genelde rüzgâr olur.
+die Ostsee | Baltık Denizi | isim (d) | Wir haben ein Haus an der Ostsee gemietet. | Baltık Denizi kıyısında bir ev kiraladık.
+das Ferienhaus (die Ferienhäuser) | yazlık, tatil evi | isim (o) | Das Ferienhaus hat einen großen Garten. | Tatil evinin büyük bir bahçesi var.
+die Pension (die Pensionen) | pansiyon; emekli maaşı | isim (d) | Wir übernachten in einer kleinen Pension. | Küçük bir pansiyonda kalıyoruz.
+die Kreuzfahrt (die Kreuzfahrten) | gemi turu, cruise | isim (d) | Meine Eltern machen eine Kreuzfahrt. | Annemle babam gemi turuna çıkıyor.
+der Skiurlaub (die Skiurlaube) | kayak tatili | isim (e) | Im Februar machen wir Skiurlaub in Tirol. | Şubatta Tirol'de kayak tatili yapıyoruz.
+## Yolculuk fiilleri
+verreisen | seyahate çıkmak | fiil | Wir verreisen über Ostern. | Paskalyada seyahate çıkıyoruz.
+abreisen | (yolculuğa) ayrılmak | fiil | Wir reisen morgen früh ab. | Yarın sabah ayrılıyoruz.
+anreisen | (gideceği yere) gelmek, varmak | fiil | Die Gäste reisen am Freitag an. | Misafirler cuma günü geliyor.
+übernachten | gecelemek, kalmak | fiil | Wir übernachten bei Freunden. | Arkadaşlarda kalıyoruz.
+abfliegen (flog ab, abgeflogen) | (uçakla) kalkmak, uçmak | fiil · düzensiz | Wir fliegen um sechs Uhr ab. | Saat altıda uçuyoruz.
+zurückfliegen (flog zurück, zurückgeflogen) | uçakla dönmek | fiil · düzensiz | Am Sonntag fliegen wir zurück. | Pazar günü uçakla dönüyoruz.
+sich erkundigen | bilgi almak, sormak | fiil · dönüşlü | Ich erkundige mich nach den Abfahrtszeiten. | Kalkış saatlerini soruyorum.
+erleben | yaşamak, deneyimlemek | fiil | Im Urlaub haben wir viel erlebt. | Tatilde çok şey yaşadık.
+das Erlebnis (die Erlebnisse) | deneyim, yaşantı | isim (o) | Die Reise war ein tolles Erlebnis. | Yolculuk harika bir deneyimdi.
+die Rückreise (die Rückreisen) | dönüş yolculuğu | isim (d) | Auf der Rückreise haben wir in München übernachtet. | Dönüş yolunda Münih'te geceledik.
+## Yolculukta sorunlar
+verlieren (verlor, verloren) | kaybetmek | fiil · düzensiz | Ich habe meinen Ausweis verloren. | Kimliğimi kaybettim.
+stehlen (stahl, gestohlen) | çalmak (hırsızlık) | fiil · düzensiz | Man hat mir das Portemonnaie gestohlen. | Cüzdanımı çaldılar.
+das Fundbüro (die Fundbüros) | kayıp eşya bürosu | isim (o) | Frag doch mal im Fundbüro. | Bir de kayıp eşya bürosuna sor.
+kaputt | bozuk, kırık | sıfat | Die Klimaanlage im Zimmer ist kaputt. | Odadaki klima bozuk.
+sich beschweren | şikâyet etmek | fiil · dönüşlü | Wir beschweren uns an der Rezeption. | Resepsiyona şikâyet ediyoruz.
+ausfallen (fiel aus, ausgefallen) | iptal olmak; arızalanmak | fiil · düzensiz | Der Zug fällt heute aus. | Tren bugün iptal.
+der Streik (die Streiks) | grev | isim (e) | Wegen eines Streiks fahren keine Busse. | Grev yüzünden otobüs çalışmıyor.
+umbuchen | rezervasyonu değiştirmek | fiil | Kann ich meinen Flug umbuchen? | Uçuşumu değiştirebilir miyim?
+stornieren | iptal etmek (rezervasyon) | fiil | Ich möchte die Buchung stornieren. | Rezervasyonu iptal etmek istiyorum.
+die Gebühr (die Gebühren) | ücret, harç | isim (d) | Für das Umbuchen gibt es eine Gebühr. | Değişiklik için bir ücret var.
