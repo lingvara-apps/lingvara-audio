@@ -1,0 +1,111 @@
+# UNIT: Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa
+## Şehirde yerler
+مَدِينَة (madīna) | şehir, kent (çoğ. مُدُن) | isim (d) | الْقَاهِرَةُ مَدِينَةٌ كَبِيرَةٌ. (Al-Qāhiratu madīnatun kabīra.) | Kahire büyük bir şehir.
+شَارِع (shāriʿ) | cadde, sokak (çoğ. شَوَارِع) | isim (e) | أَسْكُنُ فِي شَارِعٍ هَادِئٍ. (ʾAskunu fī shāriʿin hādiʾ.) | Sakin bir sokakta oturuyorum.
+مَيْدَان (maydān) | meydan (çoğ. مَيَادِين) | isim (e) | نَلْتَقِي فِي الْمَيْدَانِ. (Naltaqī fī l-maydān.) | Meydanda buluşuyoruz.
+سُوق (sūq) | çarşı, pazar (çoğ. أَسْوَاق) | isim (e) | السُّوقُ الْقَدِيمُ جَمِيلٌ. (As-sūqu l-qadīmu jamīl.) | Eski çarşı güzel.
+مَسْجِد (masjid) | cami, mescit (çoğ. مَسَاجِد) | isim (e) | الْمَسْجِدُ فِي وَسَطِ الْمَدِينَةِ. (Al-masjidu fī wasaṭi l-madīna.) | Cami şehrin ortasında.
+كَنِيسَة (kanīsa) | kilise (çoğ. كَنَائِس) | isim (d) | هٰذِهِ كَنِيسَةٌ قَدِيمَةٌ. (Hādhihi kanīsatun qadīma.) | Bu eski bir kilise.
+مُسْتَشْفَى (mustashfā) | hastane (çoğ. مُسْتَشْفَيَات) | isim (e) | الْمُسْتَشْفَى بَعِيدٌ عَنْ هُنَا. (Al-mustashfā baʿīdun ʿan hunā.) | Hastane buraya uzak.
+فُنْدُق (funduq) | otel (çoğ. فَنَادِق) | isim (e) | الْفُنْدُقُ أَمَامَ الْبَحْرِ. (Al-funduqu ʾamāma l-baḥr.) | Otel denizin karşısında.
+مَتْحَف (matḥaf) | müze (çoğ. مَتَاحِف) | isim (e) | زُرْنَا الْمَتْحَفَ الْمِصْرِيَّ. (Zurnā l-matḥafa l-miṣriyy.) | Mısır Müzesi'ni gezdik.
+مَكْتَبَة (maktaba) | kütüphane; kitapçı | isim (d) | أَدْرُسُ فِي الْمَكْتَبَةِ. (ʾAdrusu fī l-maktaba.) | Kütüphanede ders çalışıyorum.
+## Daha fazla yer
+مَدْرَسَة (madrasa) | okul (çoğ. مَدَارِس) — dikkat: Türkçedeki "medrese" değil, her tür okul | isim (d) | أَذْهَبُ إِلَى الْمَدْرَسَةِ مَشْيًا. (ʾAdhhabu ʾilā l-madrasati mashyan.) | Okula yürüyerek giderim.
+جَامِعَة (jāmiʿa) | üniversite — dikkat: "cami" değil | isim (d) | أَدْرُسُ فِي جَامِعَةِ الْقَاهِرَةِ. (ʾAdrusu fī jāmiʿati l-Qāhira.) | Kahire Üniversitesi'nde okuyorum.
+مَلْعَب (malʿab) | stadyum; oyun alanı (çoğ. مَلَاعِب) | isim (e) | الْمَلْعَبُ مُمْتَلِئٌ. (Al-malʿabu mumtaliʾ.) | Stadyum dolu.
+سِينَمَا (sīnamā) | sinema | isim (d) | نَذْهَبُ إِلَى السِّينَمَا مَسَاءً. (Nadhhabu ʾilā s-sīnamā masāʾan.) | Akşam sinemaya gidiyoruz.
+مَكْتَبُ الْبَرِيد (maktabu l-barīd) | postane | isim (e) | مَكْتَبُ الْبَرِيدِ مُغْلَقٌ. (Maktabu l-barīdi mughlaq.) | Postane kapalı.
+مَرْكَز (markaz) | merkez (çoğ. مَرَاكِز) | isim (e) | أَعْمَلُ فِي مَرْكَزِ الْمَدِينَةِ. (ʾAʿmalu fī markazi l-madīna.) | Şehir merkezinde çalışıyorum.
+حَيّ (ḥayy) | mahalle, semt (çoğ. أَحْيَاء) | isim (e) | حَيُّنَا هَادِئٌ وَنَظِيفٌ. (Ḥayyunā hādiʾun wa-naẓīf.) | Mahallemiz sakin ve temiz.
+قَرْيَة (qarya) | köy (çoğ. قُرًى) | isim (d) | وُلِدَتْ جَدَّتِي فِي قَرْيَةٍ. (Wulidat jaddatī fī qarya.) | Ninem bir köyde doğdu.
+رِيف (rīf) | kırsal, taşra | isim (e) | الْحَيَاةُ فِي الرِّيفِ هَادِئَةٌ. (Al-ḥayātu fī r-rīfi hādiʾa.) | Kırsalda hayat sakin.
+عَاصِمَة (ʿāṣima) | başkent (çoğ. عَوَاصِم) | isim (d) | الرِّبَاطُ عَاصِمَةُ الْمَغْرِبِ. (Ar-Ribāṭu ʿāṣimatu l-Maghrib.) | Rabat Fas'ın başkenti.
+## Yön
+يَمِين (yamīn) | sağ | isim (e) | اُدْخُلْ عَلَى الْيَمِينِ. (Udkhul ʿalā l-yamīn.) | Sağdan gir.
+يَسَار (yasār) | sol | isim (e) | الْبَنْكُ عَلَى الْيَسَارِ. (Al-banku ʿalā l-yasār.) | Banka solda.
+مُبَاشَرَةً (mubāsharatan) | doğrudan, dosdoğru; hemen | zarf | اِمْشِ مُبَاشَرَةً ثُمَّ يَمِينًا. (Imshi mubāsharatan thumma yamīnan.) | Dümdüz yürü, sonra sağa dön.
+قَرِيب (qarīb) | yakın (çoğ. أَقْرِبَاء: akrabalar) | sıfat | الْمَحَطَّةُ قَرِيبَةٌ مِنْ هُنَا. (Al-maḥaṭṭatu qarībatun min hunā.) | İstasyon buraya yakın.
+بَعِيد (baʿīd) | uzak | sıfat | هَلِ الْمَطَارُ بَعِيدٌ؟ (Hali l-maṭāru baʿīd?) | Havalimanı uzak mı?
+شَمَال (shamāl) | kuzey | isim (e) | حَلَبُ فِي شَمَالِ سُورِيَا. (Ḥalabu fī shamāli Sūriyā.) | Halep Suriye'nin kuzeyinde.
+جَنُوب (janūb) | güney | isim (e) | أُسْوَانُ فِي جَنُوبِ مِصْرَ. (ʾAswānu fī janūbi Miṣr.) | Asvan Mısır'ın güneyinde.
+شَرْق (sharq) | doğu | isim (e) | تَطْلُعُ الشَّمْسُ مِنَ الشَّرْقِ. (Taṭluʿu sh-shamsu mina sh-sharq.) | Güneş doğudan doğar.
+غَرْب (gharb) | batı | isim (e) | الْمَغْرِبُ فِي غَرْبِ أَفْرِيقِيَا الشَّمَالِيَّةِ. (Al-Maghribu fī gharbi ʾAfrīqiyā sh-shamāliyya.) | Fas Kuzey Afrika'nın batısında.
+خَرِيطَة (kharīṭa) | harita (çoğ. خَرَائِط) | isim (d) | اُنْظُرْ إِلَى الْخَرِيطَةِ. (Unẓur ʾilā l-kharīṭa.) | Haritaya bak.
+## Hareket fiilleri
+ذَهَبَ (dhahaba) | gitmek (geniş z.: يَذْهَبُ) | fiil | ذَهَبْنَا إِلَى السُّوقِ. (Dhahabnā ʾilā s-sūq.) | Çarşıya gittik.
+جَاءَ (jāʾa) | gelmek (geniş z.: يَجِيءُ) | fiil · düzensiz | جَاءَ صَدِيقِي مِنْ بَيْرُوت. (Jāʾa ṣadīqī min Bayrūt.) | Arkadaşım Beyrut'tan geldi.
+رَجَعَ (rajaʿa) | dönmek, geri gelmek (geniş z.: يَرْجِعُ) | fiil | مَتَى تَرْجِعُ إِلَى الْبَيْتِ؟ (Matā tarjiʿu ʾilā l-bayt?) | Eve ne zaman dönüyorsun?
+دَخَلَ (dakhala) | girmek (geniş z.: يَدْخُلُ) | fiil | دَخَلْنَا الْمَتْحَفَ. (Dakhalnā l-matḥaf.) | Müzeye girdik.
+خَرَجَ (kharaja) | çıkmak (geniş z.: يَخْرُجُ) | fiil | خَرَجَتْ مِنَ الْبَيْتِ مُبَكِّرًا. (Kharajat mina l-bayti mubakkiran.) | Evden erken çıktı.
+مَشَى (mashā) | yürümek (geniş z.: يَمْشِي) | fiil · düzensiz | نَمْشِي عَلَى الشَّاطِئِ. (Namshī ʿalā sh-shāṭiʾ.) | Sahilde yürüyoruz.
+وَصَلَ (waṣala) | varmak, ulaşmak (geniş z.: يَصِلُ) | fiil · düzensiz | وَصَلَ الْقِطَارُ فِي الْمَوْعِدِ. (Waṣala l-qiṭāru fī l-mawʿid.) | Tren zamanında vardı.
+عَبَرَ (ʿabara) | (karşıya) geçmek (geniş z.: يَعْبُرُ) | fiil | اُعْبُرِ الشَّارِعَ بِحَذَرٍ. (Uʿburi sh-shāriʿa bi-ḥadhar.) | Caddeyi dikkatle geç.
+اِنْعَطَفَ (inʿaṭafa) | (bir yöne) sapmak, dönmek (geniş z.: يَنْعَطِفُ) | fiil | اِنْعَطِفْ يَسَارًا عِنْدَ الْإِشَارَةِ. (Inʿaṭif yasāran ʿinda l-ʾishāra.) | Işıktan sola dön.
+تَوَقَّفَ (tawaqqafa) | durmak (geniş z.: يَتَوَقَّفُ) | fiil | تَوَقَّفَ الْبَاصُ أَمَامَ الْفُنْدُقِ. (Tawaqqafa l-bāṣu ʾamāma l-funduq.) | Otobüs otelin önünde durdu.
+## Toplu taşıma
+سَيَّارَة (sayyāra) | araba, otomobil | isim (d) | سَيَّارَتِي بَيْضَاءُ. (Sayyāratī bayḍāʾ.) | Arabam beyaz.
+حَافِلَة (ḥāfila) | otobüs (günlük dilde: بَاص) | isim (d) | أَرْكَبُ الْحَافِلَةَ إِلَى الْعَمَلِ. (ʾArkabu l-ḥāfilata ʾilā l-ʿamal.) | İşe otobüsle gidiyorum.
+قِطَار (qiṭār) | tren (çoğ. قِطَارَات) | isim (e) | الْقِطَارُ سَرِيعٌ وَمُرِيحٌ. (Al-qiṭāru sarīʿun wa-murīḥ.) | Tren hızlı ve rahat.
+مِتْرُو (mitrū) | metro | isim (e) | الْمِتْرُو مُزْدَحِمٌ صَبَاحًا. (Al-mitrū muzdaḥimun ṣabāḥan.) | Metro sabahları kalabalık.
+تَاكْسِي (tāksī) | taksi (resmî: سَيَّارَةُ أُجْرَة) | isim (e) | خُذْ تَاكْسِي إِلَى الْمَطَارِ. (Khudh tāksī ʾilā l-maṭār.) | Havalimanına taksiyle git.
+طَائِرَة (ṭāʾira) | uçak | isim (d) | الطَّائِرَةُ فِي السَّمَاءِ. (Aṭ-ṭāʾiratu fī s-samāʾ.) | Uçak gökyüzünde.
+دَرَّاجَة (darrāja) | bisiklet | isim (d) | يَذْهَبُ إِلَى الْمَدْرَسَةِ بِالدَّرَّاجَةِ. (Yadhhabu ʾilā l-madrasati bi-d-darrāja.) | Okula bisikletle gidiyor.
+سَفِينَة (safīna) | gemi (çoğ. سُفُن) | isim (d) | السَّفِينَةُ فِي الْمِينَاءِ. (As-safīnatu fī l-mīnāʾ.) | Gemi limanda.
+مَوْقِف (mawqif) | durak; otopark (çoğ. مَوَاقِف) | isim (e) | أَيْنَ مَوْقِفُ الْحَافِلَاتِ؟ (ʾAyna mawqifu l-ḥāfilāt?) | Otobüs durağı nerede?
+تَذْكِرَة (tadhkira) | bilet (çoğ. تَذَاكِر) | isim (d) | تَذْكِرَةٌ إِلَى الْإِسْكَنْدَرِيَّةِ، مِنْ فَضْلِكَ. (Tadhkiratun ʾilā l-ʾIskandariyya, min faḍlik.) | İskenderiye'ye bir bilet lütfen.
+## Yolda
+سَافَرَ (sāfara) | yolculuk etmek, seyahat etmek (geniş z.: يُسَافِرُ) | fiil | سَافَرْنَا إِلَى الْأُرْدُنِّ بِالسَّيَّارَةِ. (Sāfarnā ʾilā l-ʾUrdunni bi-s-sayyāra.) | Ürdün'e arabayla gittik.
+رِحْلَة (riḥla) | gezi, yolculuk; uçuş | isim (d) | كَانَتِ الرِّحْلَةُ رَائِعَةً. (Kānati r-riḥlatu rāʾiʿa.) | Gezi harikaydı.
+سَائِح (sāʾiḥ) | turist (çoğ. سُيَّاح) | isim (e) | السُّيَّاحُ فِي الْأَهْرَامِ. (As-suyyāḥu fī l-ʾAhrām.) | Turistler piramitlerde.
+حَقِيبَة (ḥaqība) | çanta; bavul (çoğ. حَقَائِب) | isim (d) | حَقِيبَتِي ثَقِيلَةٌ جِدًّا. (Ḥaqībatī thaqīlatun jiddan.) | Bavulum çok ağır.
+رَكِبَ (rakiba) | binmek (geniş z.: يَرْكَبُ) | fiil | رَكِبْنَا الْجَمَلَ فِي الصَّحْرَاءِ. (Rakibnā l-jamala fī ṣ-ṣaḥrāʾ.) | Çölde deveye bindik.
+نَزَلَ (nazala) | inmek (geniş z.: يَنْزِلُ) | fiil | اِنْزِلْ فِي الْمَحَطَّةِ الْقَادِمَةِ. (Inzil fī l-maḥaṭṭati l-qādima.) | Bir sonraki durakta in.
+طَرِيق (ṭarīq) | yol (çoğ. طُرُق) | isim (e) | الطَّرِيقُ إِلَى الْبَحْرِ طَوِيلٌ. (Aṭ-ṭarīqu ʾilā l-baḥri ṭawīl.) | Denize giden yol uzun.
+جِسْر (jisr) | köprü (çoğ. جُسُور) | isim (e) | نَعْبُرُ الْجِسْرَ فَوْقَ النِّيلِ. (Naʿburu l-jisra fawqa n-Nīl.) | Nil'in üzerindeki köprüden geçiyoruz.
+إِشَارَةُ الْمُرُور (ʾishāratu l-murūr) | trafik ışığı | isim (d) | قِفْ عِنْدَ إِشَارَةِ الْمُرُورِ. (Qif ʿinda ʾishārati l-murūr.) | Trafik ışığında dur.
+زَحْمَة (zaḥma) | trafik sıkışıklığı, kalabalık | isim (d) | هُنَاكَ زَحْمَةٌ كَبِيرَةٌ الْيَوْمَ. (Hunāka zaḥmatun kabīratun al-yawm.) | Bugün büyük bir trafik var.
+## Doğa
+طَبِيعَة (ṭabīʿa) | doğa, tabiat | isim (d) | أُحِبُّ الطَّبِيعَةَ وَالْهُدُوءَ. (ʾUḥibbu ṭ-ṭabīʿata wa-l-hudūʾ.) | Doğayı ve sessizliği severim.
+جَبَل (jabal) | dağ (çoğ. جِبَال) | isim (e) | صَعِدْنَا الْجَبَلَ صَبَاحًا. (Ṣaʿidnā l-jabala ṣabāḥan.) | Sabah dağa tırmandık.
+نَهْر (nahr) | nehir, ırmak (çoğ. أَنْهَار) | isim (e) | النِّيلُ نَهْرٌ طَوِيلٌ. (An-Nīlu nahrun ṭawīl.) | Nil uzun bir nehir.
+بَحْر (baḥr) | deniz (çoğ. بِحَار) | isim (e) | الْبَحْرُ هَادِئٌ الْيَوْمَ. (Al-baḥru hādiʾun al-yawm.) | Deniz bugün sakin.
+بُحَيْرَة (buḥayra) | göl | isim (d) | نَسْبَحُ فِي الْبُحَيْرَةِ. (Nasbaḥu fī l-buḥayra.) | Gölde yüzüyoruz.
+صَحْرَاء (ṣaḥrāʾ) | çöl (çoğ. صَحَارَى) | isim (d) | الصَّحْرَاءُ جَمِيلَةٌ فِي اللَّيْلِ. (Aṣ-ṣaḥrāʾu jamīlatun fī l-layl.) | Çöl gece güzel.
+شَاطِئ (shāṭiʾ) | sahil, plaj (çoğ. شَوَاطِئ) | isim (e) | الشَّاطِئُ مُزْدَحِمٌ فِي الصَّيْفِ. (Ash-shāṭiʾu muzdaḥimun fī ṣ-ṣayf.) | Plaj yazın kalabalık.
+غَابَة (ghāba) | orman (çoğ. غَابَات) | isim (d) | فِي الْغَابَةِ أَشْجَارٌ كَثِيرَةٌ. (Fī l-ghābati ʾashjārun kathīra.) | Ormanda çok ağaç var.
+وَادٍ (wādī) | vadi (belirli: الْوَادِي; çoğ. وِدْيَان) | isim (e) | نَمْشِي فِي الْوَادِي. (Namshī fī l-wādī.) | Vadide yürüyoruz.
+جَزِيرَة (jazīra) | ada (çoğ. جُزُر) | isim (d) | زُرْنَا جَزِيرَةً صَغِيرَةً. (Zurnā jazīratan ṣaghīra.) | Küçük bir adayı ziyaret ettik.
+## Gökyüzü ve yeryüzü
+سَمَاء (samāʾ) | gök, gökyüzü | isim (d) | السَّمَاءُ زَرْقَاءُ الْيَوْمَ. (As-samāʾu zarqāʾu l-yawm.) | Bugün gökyüzü mavi.
+قَمَر (qamar) | ay (gökteki) | isim (e) | الْقَمَرُ جَمِيلٌ اللَّيْلَةَ. (Al-qamaru jamīlun al-layla.) | Ay bu gece güzel.
+نَجْم (najm) | yıldız (çoğ. نُجُوم) | isim (e) | نَرَى النُّجُومَ فِي الصَّحْرَاءِ. (Narā n-nujūma fī ṣ-ṣaḥrāʾ.) | Çölde yıldızları görürüz.
+شَجَرَة (shajara) | ağaç (çoğ. أَشْجَار) | isim (d) | نَجْلِسُ تَحْتَ الشَّجَرَةِ. (Najlisu taḥta sh-shajara.) | Ağacın altında oturuyoruz.
+زَهْرَة (zahra) | çiçek (çoğ. زُهُور) | isim (d) | هٰذِهِ الزَّهْرَةُ لَكِ. (Hādhihi z-zahratu laki.) | Bu çiçek senin için.
+نَخْلَة (nakhla) | hurma ağacı (çoğ. نَخِيل) | isim (d) | فِي الْوَاحَةِ نَخِيلٌ كَثِيرٌ. (Fī l-wāḥati nakhīlun kathīr.) | Vahada çok hurma ağacı var.
+رَمْل (raml) | kum (çoğ. رِمَال) | isim (e) | الرَّمْلُ حَارٌّ فِي الظُّهْرِ. (Ar-ramlu ḥārrun fī ẓ-ẓuhr.) | Öğlen kum sıcak.
+حَجَر (ḥajar) | taş (çoğ. أَحْجَار، حِجَارَة) | isim (e) | الْبَيْتُ مِنْ حَجَرٍ. (Al-baytu min ḥajar.) | Ev taştan.
+أَرْض (ʾarḍ) | yer, toprak; arazi; Dünya (çoğ. أَرَاضٍ) | isim (d) | سَقَطَ الْقَلَمُ عَلَى الْأَرْضِ. (Saqaṭa l-qalamu ʿalā l-ʾarḍ.) | Kalem yere düştü.
+هَوَاء (hawāʾ) | hava (soluduğumuz) | isim (e) | الْهَوَاءُ نَظِيفٌ فِي الْجَبَلِ. (Al-hawāʾu naẓīfun fī l-jabal.) | Dağda hava temiz.
+## Hava durumu
+طَقْس (ṭaqs) | hava durumu | isim (e) | كَيْفَ الطَّقْسُ الْيَوْمَ؟ (Kayfa ṭ-ṭaqsu l-yawm?) | Bugün hava nasıl?
+جَوّ (jaww) | hava; atmosfer, ortam | isim (e) | الْجَوُّ جَمِيلٌ فِي الرَّبِيعِ. (Al-jawwu jamīlun fī r-rabīʿ.) | İlkbaharda hava güzel.
+مَطَر (maṭar) | yağmur (çoğ. أَمْطَار) | isim (e) | الْمَطَرُ قَلِيلٌ فِي الصَّحْرَاءِ. (Al-maṭaru qalīlun fī ṣ-ṣaḥrāʾ.) | Çölde yağmur az.
+أَمْطَرَ (ʾamṭara) | yağmur yağmak (çoğu zaman dişil: أَمْطَرَتْ; geniş z.: تُمْطِرُ) | fiil | أَمْطَرَتْ كَثِيرًا أَمْسِ. (ʾAmṭarat kathīran ʾams.) | Dün çok yağmur yağdı.
+رِيح (rīḥ) | rüzgâr (çoğ. رِيَاح) | isim (d) | الرِّيحُ قَوِيَّةٌ الْيَوْمَ. (Ar-rīḥu qawiyyatun al-yawm.) | Bugün rüzgâr kuvvetli.
+سَحَاب (saḥāb) | bulut(lar) (tek bulut: سَحَابَة) | isim (e) | السَّحَابُ يُغَطِّي السَّمَاءَ. (As-saḥābu yughaṭṭī s-samāʾ.) | Bulutlar gökyüzünü kaplıyor.
+مُشْمِس (mushmis) | güneşli | sıfat | الْيَوْمُ مُشْمِسٌ وَدَافِئٌ. (Al-yawmu mushmisun wa-dāfiʾ.) | Bugün güneşli ve ılık.
+دَرَجَة (daraja) | derece; basamak (çoğ. دَرَجَات) | isim (d) | الْحَرَارَةُ أَرْبَعُونَ دَرَجَةً. (Al-ḥarāratu ʾarbaʿūna daraja.) | Sıcaklık kırk derece.
+حَرَارَة (ḥarāra) | sıcaklık; ateş (hastalık) | isim (d) | الْحَرَارَةُ عَالِيَةٌ فِي الصَّيْفِ. (Al-ḥarāratu ʿāliyatun fī ṣ-ṣayf.) | Yazın sıcaklık yüksek.
+مُعْتَدِل (muʿtadil) | ılıman, ılımlı | sıfat | الطَّقْسُ مُعْتَدِلٌ فِي الْخَرِيفِ. (Aṭ-ṭaqsu muʿtadilun fī l-kharīf.) | Sonbaharda hava ılıman.
+## Şehri gezmek
+وَقَعَ (waqaʿa) | bulunmak, yer almak; düşmek (geniş z.: يَقَعُ) | fiil · düzensiz | يَقَعُ الْفُنْدُقُ قُرْبَ الْبَحْرِ. (Yaqaʿu l-funduqu qurba l-baḥr.) | Otel denizin yakınında yer alıyor.
+ضَاعَ (ḍāʿa) | kaybolmak (geniş z.: يَضِيعُ) | fiil · düzensiz | ضِعْتُ فِي السُّوقِ الْقَدِيمِ. (Ḍiʿtu fī s-sūqi l-qadīm.) | Eski çarşıda kayboldum.
+سَأَلَ (saʾala) | sormak (geniş z.: يَسْأَلُ) | fiil | سَأَلْتُ الشُّرْطِيَّ عَنِ الطَّرِيقِ. (Saʾaltu sh-shurṭiyya ʿani ṭ-ṭarīq.) | Polise yolu sordum.
+مَسَافَة (masāfa) | mesafe, uzaklık | isim (d) | الْمَسَافَةُ قَصِيرَةٌ. (Al-masāfatu qaṣīra.) | Mesafe kısa.
+سَيْرًا عَلَى الْأَقْدَام (sayran ʿalā l-ʾaqdām) | yürüyerek, yaya olarak | ifade | ذَهَبْنَا سَيْرًا عَلَى الْأَقْدَامِ. (Dhahabnā sayran ʿalā l-ʾaqdām.) | Yürüyerek gittik.
+مَشْهُور (mashhūr) | ünlü, meşhur | sıfat | هٰذَا الْمَطْعَمُ مَشْهُورٌ. (Hādhā l-maṭʿamu mashhūr.) | Bu restoran ünlü.
+مُزْدَحِم (muzdaḥim) | kalabalık, sıkışık | sıfat | الشَّارِعُ مُزْدَحِمٌ الْآنَ. (Ash-shāriʿu muzdaḥimun al-ʾān.) | Cadde şimdi kalabalık.
+زِيَارَة (ziyāra) | ziyaret (çoğ. زِيَارَات) | isim (d) | هٰذِهِ زِيَارَتِي الْأُولَى لِمَرَّاكُش. (Hādhihi ziyāratī l-ʾūlā li-Marrākush.) | Bu Marakeş'e ilk ziyaretim.
+مَعْلَم (maʿlam) | simge yapı, görülecek yer (çoğ. مَعَالِم) | isim (e) | زُرْنَا أَهَمَّ مَعَالِمِ الْمَدِينَةِ. (Zurnā ʾahamma maʿālimi l-madīna.) | Şehrin en önemli yerlerini gezdik.
+بُرْج (burj) | kule (çoğ. أَبْرَاج) | isim (e) | الْبُرْجُ عَالٍ جِدًّا. (Al-burju ʿālin jiddan.) | Kule çok yüksek.
