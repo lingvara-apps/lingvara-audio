@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, siber güvenlik, yapay zekâ, uzay, donanım
+## Bilgisayar ve yazılım
+プログラム (puroguramu) | program | isim | このプログラムは、毎朝自動でデータを集める。 | Bu program her sabah otomatik olarak veri topluyor.
+プログラミング (puroguramingu) | programlama | isim | 小学校でもプログラミングの授業が始まった。 | İlkokullarda da programlama dersleri başladı.
+システム (shisutemu) | sistem | isim | 会社の新しいシステムに、まだ慣れていない。 | Şirketin yeni sistemine henüz alışamadım.
+開発 (kaihatsu) | geliştirme | isim | 彼はゲームの開発に十年かかわっている。 | On yıldır oyun geliştirme işinde çalışıyor.
+バージョン (bājon) | sürüm | isim | 古いバージョンのアプリは、来月から使えなくなる。 | Uygulamanın eski sürümü gelecek aydan itibaren kullanılamayacak.
+アップデート (appudēto) | güncelleme | isim | スマホのアップデートに一時間もかかった。 | Telefonun güncellemesi tam bir saat sürdü.
+インストール (insutōru) | yükleme, kurulum | isim | 新しいソフトのインストールが終わった。 | Yeni yazılımın kurulumu bitti.
+ファイル (fairu) | dosya | isim | 大事なファイルを間違えて消してしまった。 | Önemli bir dosyayı yanlışlıkla sildim.
+フォルダ (foruda) | klasör | isim | 写真を月ごとにフォルダに分けて保存している。 | Fotoğrafları aylara göre klasörlere ayırıp saklıyorum.
+バグ (bagu) | yazılım hatası | isim | アプリにバグが見つかって、急いで直した。 | Uygulamada bir hata bulununca aceleyle düzelttik.
+## Siber güvenlik
+不正アクセス (fusei akusesu) | yetkisiz erişim | isim | 会社のサーバーに不正アクセスがあった。 | Şirketin sunucusuna yetkisiz erişim oldu.
+乗っ取る (nottoru) | ele geçirmek | fiil | 友達のアカウントが乗っ取られて、変なメッセージが届いた。 | Arkadaşımın hesabı ele geçirilince tuhaf mesajlar geldi.
+漏洩 (rōei) | sızıntı (bilgi) | isim | 顧客情報の漏洩が大きなニュースになった。 | Müşteri bilgilerinin sızması büyük haber oldu.
+暗号 (angō) | şifre, kod | isim | このメールは暗号で守られているので安全だ。 | Bu e-posta şifrelemeyle korunduğu için güvenli.
+流出 (ryūshutsu) | dışarı sızma | isim | 写真がネットに流出して、大変なことになった。 | Fotoğraflar internete sızınca başı büyük derde girdi.
+ハッカー (hakkā) | bilgisayar korsanı | isim | ハッカーに狙われないように、ソフトを最新にしておこう。 | Korsanların hedefi olmamak için yazılımları güncel tutalım.
+偽物 (nisemono) | sahte | isim | 銀行からのメールに見えたが、偽物だった。 | Bankadan gelmiş gibi görünüyordu ama sahteydi.
+本人確認 (honnin kakunin) | kimlik doğrulama | isim | 口座を作るには、本人確認の書類が必要です。 | Hesap açmak için kimlik doğrulama belgesi gerekir.
+バックアップ (bakkuappu) | yedek | isim | 週に一回、パソコンのバックアップを取っている。 | Haftada bir bilgisayarımın yedeğini alıyorum.
+セキュリティ (sekyuriti) | güvenlik | isim | このビルはセキュリティが厳しくて、カードがないと入れない。 | Bu binanın güvenliği sıkı, kartsız girilemiyor.
+## Yapay zekâ
+自動化 (jidōka) | otomasyon | isim | 工場の作業の多くが自動化された。 | Fabrikadaki işlerin çoğu otomatikleştirildi.
+対話 (taiwa) | diyalog, karşılıklı konuşma | isim | このロボットは人と簡単な対話ができる。 | Bu robot insanlarla basit bir sohbet edebiliyor.
+判断 (handan) | yargı, karar verme | isim | 最後の判断は人間がするべきだ。 | Son kararı insan vermelidir.
+予測 (yosoku) | tahmin, öngörü | isim | コンピューターで、明日の売上を予測している。 | Bilgisayarla yarının satışlarını tahmin ediyoruz.
+認識 (ninshiki) | tanıma, algılama | isim | スマホの顔認識で、すぐに画面が開く。 | Telefonun yüz tanımasıyla ekran hemen açılıyor.
+音声 (onsei) | ses (kayıt, sistem) | isim | 音声で操作できる家電が増えている。 | Sesle kumanda edilebilen ev aletleri artıyor.
+翻訳 (hon'yaku) | çeviri | isim | 機械の翻訳は便利だけど、まだ間違いもある。 | Makine çevirisi kullanışlı ama hâlâ hatalar yapıyor.
+生成 (seisei) | üretme, oluşturma | isim | 文章を入力すると、絵を生成するサービスがある。 | Metin girildiğinde resim oluşturan bir hizmet var.
+精度 (seido) | doğruluk, hassasiyet | isim | 天気予報の精度は年々高くなっている。 | Hava tahminlerinin doğruluğu yıldan yıla artıyor.
+自動運転 (jidō unten) | otonom sürüş | isim | 自動運転の車が、町の中を走る実験をしている。 | Otonom araçların şehir içinde test sürüşleri yapılıyor.
+## Uzay
+惑星 (wakusei) | gezegen | isim | 太陽系には八つの惑星がある。 | Güneş sisteminde sekiz gezegen vardır.
+衛星 (eisei) | uydu | isim | 天気予報には、衛星からの写真が使われている。 | Hava tahminlerinde uydu fotoğrafları kullanılıyor.
+星座 (seiza) | takımyıldız; burç | isim | 冬の夜空には、オリオン座という星座が見える。 | Kış gecesi gökyüzünde Avcı takımyıldızı görünür.
+宇宙飛行士 (uchū hikōshi) | astronot | isim | 子どものころの夢は、宇宙飛行士になることだった。 | Çocukluk hayalim astronot olmaktı.
+ロケット (roketto) | roket | isim | 島からロケットが空へ上がっていくのを見た。 | Adadan bir roketin göğe yükseldiğini gördüm.
+宇宙船 (uchūsen) | uzay gemisi | isim | 宇宙船は三日かけて月に着いた。 | Uzay gemisi üç günde Ay'a ulaştı.
+探査 (tansa) | keşif, araştırma | isim | 火星の探査で、昔の水の跡が見つかった。 | Mars keşfinde geçmişe ait su izleri bulundu.
+望遠鏡 (bōenkyō) | teleskop | isim | 望遠鏡で月を見たら、クレーターがはっきり見えた。 | Teleskopla Ay'a bakınca kraterler net göründü.
+無重力 (mujūryoku) | yerçekimsiz ortam | isim | 無重力の中では、水が丸い玉になって浮かぶ。 | Yerçekimsiz ortamda su yuvarlak bir top olup havada süzülür.
+隕石 (inseki) | göktaşı | isim | 博物館で、本物の隕石に触ることができた。 | Müzede gerçek bir göktaşına dokunabildim.
+## Cihazlar ve donanım
+端末 (tanmatsu) | cihaz, terminal | isim | 会社の端末から、私用のメールを送ってはいけない。 | Şirket cihazından özel e-posta gönderilmemeli.
+部品 (buhin) | parça | isim | 古いパソコンは、もう部品が手に入らない。 | Eski bilgisayarın parçaları artık bulunmuyor.
+装置 (sōchi) | düzenek, cihaz | isim | この装置は、空気の汚れを自動で測る。 | Bu cihaz havadaki kirliliği otomatik ölçüyor.
+電子 (denshi) | elektronik | isim | 最近は紙ではなく、電子の書類で契約することが多い。 | Son zamanlarda kâğıt yerine elektronik belgelerle sözleşme yapılıyor.
+センサー (sensā) | sensör, algılayıcı | isim | 人が近づくと、センサーで電気がつく。 | İnsan yaklaşınca sensör sayesinde ışık yanıyor.
+性能 (seinō) | performans | isim | 新しいスマホはカメラの性能がとてもいい。 | Yeni telefonun kamera performansı çok iyi.
+容量 (yōryō) | kapasite, depolama alanı | isim | スマホの容量がいっぱいで、写真が撮れない。 | Telefonun hafızası doldu, fotoğraf çekemiyorum.
+本体 (hontai) | ana gövde, cihazın kendisi | isim | 本体の電源ボタンを長く押してください。 | Cihazın açma düğmesine uzun basın.
+周辺機器 (shūhen kiki) | çevre birimleri | isim | プリンターなどの周辺機器を、まとめて買い替えた。 | Yazıcı gibi çevre birimlerini topluca yeniledim.
+配線 (haisen) | kablolama | isim | 机の下の配線がごちゃごちゃしている。 | Masanın altındaki kablolar birbirine girmiş.
+## Ağ ve bağlantı
+回線 (kaisen) | hat, bağlantı hattı | isim | 夜になると、インターネットの回線が遅くなる。 | Akşam olunca internet hattı yavaşlıyor.
+ネットワーク (nettowāku) | ağ | isim | 会社のネットワークにつながらなくて、仕事ができない。 | Şirket ağına bağlanamadığım için çalışamıyorum.
+サーバー (sābā) | sunucu | isim | アクセスが集中して、サーバーが止まった。 | Erişim yoğunlaşınca sunucu çöktü.
+無線 (musen) | kablosuz | isim | このカフェでは無線のネットが無料で使える。 | Bu kafede kablosuz internet ücretsiz.
+電波 (denpa) | sinyal, radyo dalgası | isim | 地下に入ると、電波が弱くなる。 | Yeraltına inince sinyal zayıflıyor.
+クラウド (kuraudo) | bulut (bilişim) | isim | 写真は全部クラウドに保存している。 | Bütün fotoğrafları bulutta saklıyorum.
+アクセス (akusesu) | erişim; ulaşım | isim | このホテルは空港からのアクセスが便利だ。 | Bu otele havalimanından ulaşım kolay.
+復旧 (fukkyū) | eski hâline getirme, onarım | isim | 停電はまだ復旧していない。 | Elektrik kesintisi henüz giderilmedi.
+同期 (dōki) | senkronizasyon | isim | スマホとパソコンの予定を同期している。 | Telefonla bilgisayarın takvimini eşitliyorum.
+転送 (tensō) | aktarma, yönlendirme | isim | 会社のメールを自分のスマホに転送した。 | İş e-postalarını kendi telefonuma yönlendirdim.
+## Teknoloji ve toplum
+革新 (kakushin) | yenilik, inovasyon | isim | 技術の革新によって、生活が大きく変わった。 | Teknolojik yeniliklerle hayat büyük ölçüde değişti.
+進歩 (shinpo) | ilerleme | isim | 科学の進歩は、人々の生活を豊かにした。 | Bilimdeki ilerleme insanların hayatını zenginleştirdi.
+依存 (izon) | bağımlılık | isim | スマホへの依存が、若者の間で問題になっている。 | Akıllı telefon bağımlılığı gençler arasında sorun oldu.
+監視 (kanshi) | gözetim, izleme | isim | 駅には監視カメラがたくさんある。 | İstasyonlarda çok sayıda güvenlik kamerası var.
+プライバシー (puraibashī) | mahremiyet | isim | ネットに写真を載せるときは、プライバシーに注意しよう。 | İnternete fotoğraf koyarken mahremiyete dikkat edelim.
+規制 (kisei) | düzenleme, kısıtlama | isim | 新しい技術には、ある程度の規制が必要だ。 | Yeni teknolojilerin belli ölçüde düzenlenmesi gerekir.
+高度 (kōdo) | ileri düzeyde; yükseklik | sıfat | この手術には高度な技術が必要だ。 | Bu ameliyat ileri düzeyde teknik gerektiriyor.
+恩恵 (onkei) | nimet, fayda | isim | 私たちは毎日、インターネットの恩恵を受けている。 | Her gün internetin nimetlerinden yararlanıyoruz.
+時代遅れ (jidaiokure) | modası geçmiş | isim | ファックスはもう時代遅れだと言われている。 | Faksın artık modasının geçtiği söyleniyor.
+最先端 (saisentan) | en ileri, son teknoloji | isim | この病院には、最先端の医療機械がそろっている。 | Bu hastanede son teknoloji tıbbi cihazlar var.
+## Teknoloji fiilleri
+操作する (sōsa suru) | kullanmak, işletmek | fiil | 祖母はスマホを上手に操作できない。 | Büyükannem akıllı telefonu iyi kullanamıyor.
+起動する (kidō suru) | çalıştırmak, açmak | fiil | パソコンを起動するのに、五分もかかる。 | Bilgisayarı açmak tam beş dakika sürüyor.
+組み込む (kumikomu) | yerleştirmek, dahil etmek | fiil | 新しい機能をアプリに組み込んだ。 | Yeni özelliği uygulamaya ekledim.
+組み立てる (kumitateru) | monte etmek, kurmak | fiil | 説明書を見ながら、本棚を組み立てた。 | Kılavuza bakarak kitaplığı monte ettim.
+取り込む (torikomu) | içe aktarmak | fiil | カメラの写真をパソコンに取り込んだ。 | Fotoğraf makinesindeki resimleri bilgisayara aktardım.
+書き換える (kakikaeru) | yeniden yazmak | fiil | 古いプログラムを全部書き換えることになった。 | Eski programın tamamını yeniden yazmaya karar verildi.
+読み込む (yomikomu) | yüklemek, okumak (veri) | fiil | ページの読み込みに時間がかかっている。 | Sayfanın yüklenmesi uzun sürüyor.
+置き換える (okikaeru) | yerine koymak | fiil | 人の仕事が機械に置き換えられつつある。 | İnsanların işleri giderek makinelerle değiştiriliyor.
+使いこなす (tsukaikonasu) | ustaca kullanmak | fiil | 新しいソフトを使いこなすには、時間がかかる。 | Yeni yazılımı ustalıkla kullanmak zaman alır.
+打ち込む (uchikomu) | yazmak (klavyeyle); kendini vermek | fiil | 会議のメモをパソコンに打ち込んだ。 | Toplantı notlarını bilgisayara yazdım.
+## Elektronik
+バッテリー (batterī) | batarya | isim | このスマホはバッテリーが長持ちする。 | Bu telefonun bataryası uzun dayanıyor.
+消費電力 (shōhi denryoku) | enerji tüketimi | isim | 新しいエアコンは消費電力が少ない。 | Yeni klimanın enerji tüketimi düşük.
+回路 (kairo) | devre | isim | 授業で簡単な電気の回路を作った。 | Derste basit bir elektrik devresi kurduk.
+電圧 (den'atsu) | voltaj, gerilim | isim | 国によって、家庭の電気の電圧が違う。 | Evlerdeki elektriğin voltajı ülkeden ülkeye değişir.
+太陽電池 (taiyō denchi) | güneş pili | isim | この時計は太陽電池で動くので、電池交換がいらない。 | Bu saat güneş piliyle çalıştığı için pil değiştirmek gerekmiyor.
+電気自動車 (denki jidōsha) | elektrikli otomobil | isim | 電気自動車を充電できる場所が増えてきた。 | Elektrikli otomobillerin şarj edilebileceği yerler arttı.
+ドローン (dorōn) | drone, insansız hava aracı | isim | ドローンで上から撮った写真は迫力がある。 | Drone ile yukarıdan çekilen fotoğraflar etkileyici.
+機器 (kiki) | cihaz, alet | isim | 病院では、携帯電話が医療機器に影響することがある。 | Hastanede cep telefonları tıbbi cihazları etkileyebilir.
+精密 (seimitsu) | hassas | sıfat | 時計は精密な機械なので、落とさないでください。 | Saat hassas bir alettir, düşürmeyin lütfen.
+コンセント (konsento) | priz | isim | ベッドの近くにコンセントがなくて不便だ。 | Yatağın yakınında priz olmaması rahatsız edici.
+## Teknoloji dünyasında iş
+技術者 (gijutsusha) | teknisyen, mühendis | isim | 工場の機械が止まって、技術者が呼ばれた。 | Fabrikadaki makine durunca teknisyen çağrıldı.
+プログラマー (puroguramā) | programcı | isim | 弟はゲーム会社でプログラマーとして働いている。 | Kardeşim bir oyun şirketinde programcı olarak çalışıyor.
+研究所 (kenkyūjo) | araştırma enstitüsü | isim | 彼女は大学を出て、薬の研究所に入った。 | Üniversiteden sonra bir ilaç araştırma enstitüsüne girdi.
+試作 (shisaku) | prototip yapma | isim | 新しいロボットの試作に半年かかった。 | Yeni robotun prototipini yapmak altı ay sürdü.
+仕様 (shiyō) | teknik özellikler | isim | お客様の要望で、製品の仕様が変更された。 | Müşterinin isteği üzerine ürünün teknik özellikleri değiştirildi.
+設計 (sekkei) | tasarım, proje çizimi | isim | この橋の設計には、最新の技術が使われている。 | Bu köprünün tasarımında en son teknoloji kullanıldı.
+利便性 (ribensei) | kullanışlılık | isim | 新しいアプリで、予約の利便性が大きく上がった。 | Yeni uygulamayla rezervasyon yapmak çok kolaylaştı.
+応用 (ōyō) | uygulama, kullanım alanı | isim | この技術は医療にも応用されている。 | Bu teknoloji tıpta da uygulanıyor.
+工夫 (kufū) | çare bulma, akıllıca düzenleme | isim | 少し工夫すれば、もっと使いやすくなる。 | Biraz akıl yürütürsek daha kullanışlı hale gelir.
+改良 (kairyō) | iyileştirme, geliştirme | isim | 何度も改良を重ねて、製品が完成した。 | Defalarca geliştirmenin ardından ürün tamamlandı.
