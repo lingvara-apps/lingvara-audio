@@ -1,0 +1,111 @@
+# UNIT: Eğitim ve toplum | Okul, üniversite, resmî işler, şehir, bağlaçlar
+## Okul hayatı
+la classe | sınıf | isim (d) | In classe siamo venti studenti. | Sınıfta yirmi öğrenciyiz.
+la lezione | ders | isim (d) | La lezione di italiano è alle nove. | İtalyanca dersi dokuzda.
+l'esame (e) | sınav | isim (e) | Domani ho un esame di storia. | Yarın tarih sınavım var.
+il voto | not (sınav); oy | isim (e) | Ho preso un bel voto in matematica. | Matematikten iyi not aldım.
+la materia | ders (branş) | isim (d) | Qual è la tua materia preferita? | En sevdiğin ders hangisi?
+la lavagna | yazı tahtası | isim (d) | L'insegnante scrive alla lavagna. | Öğretmen tahtaya yazıyor.
+l'aula (d) | derslik | isim (d) | L'esame è nell'aula tre. | Sınav üç numaralı derslikte.
+la pagella | karne | isim (d) | A giugno arriva la pagella. | Haziranda karne geliyor.
+promosso | sınıfını geçmiş; sınavı geçmiş | sıfat | Sono promosso! Che gioia! | Sınıfı geçtim! Ne mutlu!
+bocciato | sınıfta kalmış; sınavdan kalmış | sıfat | Purtroppo è stato bocciato all'esame. | Ne yazık ki sınavdan kaldı.
+## Üniversite
+l'università (d) | üniversite | isim (d) | L'università di Bologna è antichissima. | Bologna Üniversitesi çok eskidir.
+la facoltà | fakülte | isim (d) | Studio alla facoltà di ingegneria. | Mühendislik fakültesinde okuyorum.
+il professore | profesör; öğretmen (lise) | isim (e) | Il professore spiega molto bene. | Hoca çok iyi anlatıyor.
+la matricola | birinci sınıf öğrencisi | isim (d) | Le matricole cercano le aule. | Birinci sınıflar derslikleri arıyor.
+il corso | kurs; ders (üniversite) | isim (e) | Frequento un corso di italiano. | Bir İtalyanca kursuna gidiyorum.
+laurearsi | üniversiteden mezun olmak | fiil · dönüşlü | Mi laureo a luglio. | Temmuzda mezun oluyorum.
+la tesi | tez | isim (d) | Scrivo la tesi su Dante. | Dante üzerine tez yazıyorum.
+la borsa di studio | burs | isim (d) | Ho vinto una borsa di studio. | Burs kazandım.
+la biblioteca (le biblioteche) | kütüphane | isim (d) | Studio in biblioteca fino a sera. | Akşama kadar kütüphanede çalışıyorum.
+il semestre | dönem, yarıyıl | isim (e) | Il secondo semestre comincia a febbraio. | İkinci dönem şubatta başlıyor.
+## Okul dersleri
+la matematica | matematik | isim (d) | La matematica è difficile per me. | Matematik benim için zor.
+la storia | tarih; hikâye | isim (d) | Amo la storia dell'arte. | Sanat tarihini çok severim.
+la geografia | coğrafya | isim (d) | Studiamo la geografia dell'Italia. | İtalya'nın coğrafyasını çalışıyoruz.
+la scienza | bilim, fen | isim (d) | La scienza spiega il mondo. | Bilim dünyayı açıklar.
+l'arte (d) | sanat | isim (d) | Firenze è la città dell'arte. | Floransa sanat şehridir.
+l'educazione fisica (d) | beden eğitimi | isim (d) | Oggi c'è educazione fisica in palestra. | Bugün spor salonunda beden eğitimi var.
+la letteratura | edebiyat | isim (d) | Studio letteratura italiana. | İtalyan edebiyatı okuyorum.
+la chimica | kimya | isim (d) | Il laboratorio di chimica è al primo piano. | Kimya laboratuvarı birinci katta.
+la fisica | fizik | isim (d) | Il compito di fisica è lungo. | Fizik ödevi uzun.
+la filosofia | felsefe | isim (d) | Al liceo studiamo filosofia. | Lisede felsefe okuyoruz.
+## Resmî daireler
+il comune | belediye | isim (e) | Vado in comune per un documento. | Bir belge için belediyeye gidiyorum.
+l'anagrafe (d) | nüfus müdürlüğü | isim (d) | All'anagrafe chiedo il certificato di residenza. | Nüfus müdürlüğünden ikametgâh belgesi istiyorum.
+la questura | emniyet müdürlüğü | isim (d) | Il permesso si ritira in questura. | İzin belgesi emniyet müdürlüğünden alınır.
+il permesso di soggiorno | oturma izni | isim (e) | Devo rinnovare il permesso di soggiorno. | Oturma iznimi yenilemem lazım.
+la residenza | ikamet, ikametgâh | isim (d) | Ho la residenza a Torino. | İkametgâhım Torino'da.
+il codice fiscale | vergi numarası (İtalya'da kimlik gibi kullanılır) | isim (e) | Per il contratto serve il codice fiscale. | Sözleşme için vergi numarası gerekiyor.
+la marca da bollo | damga pulu | isim (d) | Sulla domanda metti una marca da bollo. | Başvurunun üstüne damga pulu yapıştır.
+il certificato | belge, sertifika | isim (e) | Mi serve un certificato di nascita. | Doğum belgesine ihtiyacım var.
+l'ambasciata (d) | büyükelçilik | isim (d) | L'ambasciata turca è a Roma. | Türk Büyükelçiliği Roma'da.
+il consolato | konsolosluk | isim (e) | Il consolato è aperto la mattina. | Konsolosluk sabahları açık.
+## Resmî işlemler
+il modulo | form | isim (e) | Compili questo modulo, per favore. | Bu formu doldurun, lütfen.
+compilare | doldurmak (form) | fiil | Compilo il modulo online. | Formu internetten dolduruyorum.
+presentare | sunmak; teslim etmek; tanıştırmak | fiil | Presento i documenti allo sportello. | Belgeleri gişeye teslim ediyorum.
+la richiesta | talep, başvuru | isim (d) | La richiesta è stata accettata. | Başvuru kabul edildi.
+richiedere (richiesto) | talep etmek, başvurmak | fiil · düzensiz | Richiedo il passaporto nuovo. | Yeni pasaport için başvuruyorum.
+la fotocopia | fotokopi | isim (d) | Porti una fotocopia del passaporto. | Pasaportun bir fotokopisini getirin.
+il timbro | mühür, damga | isim (e) | Manca il timbro dell'ufficio. | Dairenin mührü eksik.
+la burocrazia | bürokrasi | isim (d) | La burocrazia è molto lenta. | Bürokrasi çok yavaş.
+valido | geçerli | sıfat | Il documento è valido cinque anni. | Belge beş yıl geçerli.
+obbligatorio | zorunlu | sıfat | La firma è obbligatoria. | İmza zorunlu.
+## Şehir ve kurumlar
+il sindaco (i sindaci) | belediye başkanı | isim (e) | Il sindaco inaugura il nuovo parco. | Belediye başkanı yeni parkı açıyor.
+il municipio | belediye binası | isim (e) | Il municipio è in piazza. | Belediye binası meydanda.
+la polizia | polis (teşkilat) | isim (d) | Chiamiamo la polizia! | Polisi arayalım!
+il carabiniere | jandarma (İtalya) | isim (e) | Il carabiniere controlla i documenti. | Jandarma belgeleri kontrol ediyor.
+il vigile urbano | zabıta, trafik polisi (belediye) | isim (e) | Il vigile urbano dirige il traffico. | Trafik polisi trafiği yönetiyor.
+il cittadino | vatandaş; şehirli | isim (e) | Ogni cittadino ha diritti e doveri. | Her vatandaşın hakları ve görevleri vardır.
+la cittadinanza | vatandaşlık | isim (d) | Ha chiesto la cittadinanza italiana. | İtalyan vatandaşlığına başvurdu.
+i mezzi pubblici | toplu taşıma araçları | isim (e) | A Milano uso i mezzi pubblici. | Milano'da toplu taşıma kullanıyorum.
+il tribunale | mahkeme | isim (e) | Il tribunale è vicino al municipio. | Mahkeme belediye binasının yakınında.
+la legge | kanun, yasa | isim (d) | La legge è uguale per tutti. | Kanun herkes için eşittir.
+## Toplum
+la società | toplum; şirket | isim (d) | La società cambia velocemente. | Toplum hızla değişiyor.
+la popolazione | nüfus | isim (d) | La popolazione di Roma è grande. | Roma'nın nüfusu büyük.
+la cultura | kültür | isim (d) | Mi interessa la cultura italiana. | İtalyan kültürü ilgimi çekiyor.
+l'abitante (e) | sakin, oturan | isim (e) | Il paese ha mille abitanti. | Kasabanın bin sakini var.
+la povertà | yoksulluk | isim (d) | Molte associazioni combattono la povertà. | Birçok dernek yoksullukla mücadele ediyor.
+il diritto | hak; hukuk | isim (e) | Studiare è un diritto. | Eğitim almak bir haktır.
+il dovere | görev, ödev (ahlaki) | isim (e) | Votare è un dovere civico. | Oy vermek bir vatandaşlık görevidir.
+la libertà | özgürlük | isim (d) | La libertà è preziosa. | Özgürlük değerlidir.
+il volontariato | gönüllülük | isim (e) | Faccio volontariato in un canile. | Bir köpek barınağında gönüllü çalışıyorum.
+la religione | din | isim (d) | Rispettiamo ogni religione. | Her dine saygı duyarız.
+## Kent altyapısı
+il marciapiede | kaldırım | isim (e) | Cammina sul marciapiede! | Kaldırımdan yürü!
+le strisce pedonali | yaya geçidi | isim (d) | Attraversa sulle strisce pedonali. | Yaya geçidinden karşıya geç.
+la pista ciclabile | bisiklet yolu | isim (d) | La città ha molte piste ciclabili. | Şehirde çok bisiklet yolu var.
+il lampione | sokak lambası | isim (e) | Il lampione è spento. | Sokak lambası sönük.
+il cantiere | şantiye | isim (e) | Davanti a casa c'è un cantiere. | Evin önünde bir şantiye var.
+i lavori in corso | yol çalışması, yapım çalışması | isim (e) | Rallenta, ci sono lavori in corso. | Yavaşla, yol çalışması var.
+la zona pedonale | yaya bölgesi | isim (d) | Il centro è zona pedonale. | Merkez yaya bölgesi.
+la periferia | şehrin dış semtleri, varoş | isim (d) | Abito in periferia. | Şehrin dışında oturuyorum.
+il grattacielo | gökdelen | isim (e) | Milano ha nuovi grattacieli. | Milano'nun yeni gökdelenleri var.
+il sottopassaggio | alt geçit | isim (e) | Prendi il sottopassaggio per il binario due. | İkinci perona alt geçitten geç.
+## Bağlaçlar ve bağlayıcılar
+anche se | -se bile, -diği hâlde | bağlaç | Esco anche se piove. | Yağmur yağsa bile çıkıyorum.
+siccome | -diği için, madem | bağlaç | Siccome è tardi, prendo un taxi. | Geç olduğu için taksiye biniyorum.
+perciò | bu nedenle | bağlaç | Sono stanco, perciò resto a casa. | Yorgunum, bu nedenle evde kalıyorum.
+dunque | demek ki, öyleyse | bağlaç | Dunque, cominciamo la lezione. | Öyleyse derse başlayalım.
+inoltre | ayrıca, üstelik | zarf | La casa è grande e inoltre economica. | Ev büyük, üstelik ucuz.
+tuttavia | bununla birlikte, yine de | bağlaç | È difficile, tuttavia ci provo. | Zor, yine de deniyorum.
+neanche | ... bile; ben de (olumsuz) | zarf | Non ho fame. — Neanch'io. | Aç değilim. — Ben de değilim.
+appena | -ir -irmez; henüz | bağlaç | Appena arrivo, ti chiamo. | Varır varmaz seni ararım.
+finché | -e kadar, -dikçe | bağlaç | Resto qui finché vuoi. | İstediğin kadar burada kalırım.
+sia... sia | hem... hem de | bağlaç | Parlo sia inglese sia italiano. | Hem İngilizce hem de İtalyanca konuşuyorum.
+## Üniversite yaşamı ve projeler
+la ricerca (le ricerche) | araştırma | isim (d) | Faccio una ricerca sull'ambiente. | Çevre üzerine bir araştırma yapıyorum.
+il seminario | seminer | isim (e) | Il seminario è aperto a tutti. | Seminer herkese açık.
+lo stage | staj | isim (e) | Faccio uno stage in un'azienda. | Bir şirkette staj yapıyorum.
+l'Erasmus (e) | Erasmus değişim programı | isim (e) | Sono in Erasmus a Padova. | Padova'da Erasmus'tayım.
+iscriversi (iscritto) | kaydolmak | fiil · dönüşlü | Mi iscrivo all'università. | Üniversiteye kaydoluyorum.
+l'iscrizione (d) | kayıt | isim (d) | L'iscrizione chiude a settembre. | Kayıtlar eylülde kapanıyor.
+le tasse universitarie | üniversite harcı | isim (d) | Le tasse universitarie non sono alte. | Üniversite harçları yüksek değil.
+il libretto | öğrenci not karnesi; küçük kitap | isim (e) | Il professore firma il libretto. | Hoca not karnesini imzalıyor.
+l'appunto (e) | ders notu | isim (e) | Mi presti gli appunti di ieri? | Dünkü ders notlarını ödünç verir misin?
+ripassare | tekrar etmek (ders) | fiil | Ripasso prima dell'esame. | Sınavdan önce tekrar yapıyorum.
