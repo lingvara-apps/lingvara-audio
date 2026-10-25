@@ -23,9 +23,14 @@ def terminate(text, lang):
 class Kokoro:
     def __init__(self, cfg):
         from kokoro_onnx import Kokoro as K
-        base = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/"
-        self.k = K(fetch(base + "kokoro-v1.0.onnx", f"{CACHE}/kokoro.onnx"),
-                   fetch(base + "voices-v1.0.bin", f"{CACHE}/voices.bin"))
+        if cfg.get("model") == "v1.1-zh":
+            base = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/"
+            self.k = K(fetch(base + "kokoro-v1.1-zh.onnx", f"{CACHE}/kokoro-v1.1-zh.onnx"),
+                       fetch(base + "voices-v1.1-zh.bin", f"{CACHE}/voices-v1.1-zh.bin"))
+        else:
+            base = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/"
+            self.k = K(fetch(base + "kokoro-v1.0.onnx", f"{CACHE}/kokoro.onnx"),
+                       fetch(base + "voices-v1.0.bin", f"{CACHE}/voices.bin"))
         self.lang = cfg.get("lang", "en-us")
         self.g2p = None
         g = cfg.get("g2p")
@@ -34,7 +39,7 @@ class Kokoro:
             self.g2p = ja.JAG2P()
         elif g == "misaki-zh":
             from misaki import zh
-            self.g2p = zh.ZHG2P()
+            self.g2p = zh.ZHG2P(version="1.1") if cfg.get("model") == "v1.1-zh" else zh.ZHG2P()
 
     def synth(self, text, voice, speed=1.0):
         text = terminate(text, self.lang)
@@ -88,7 +93,7 @@ class Supertonic:
     def __init__(self, cfg):
         from supertonic import TTS
         self.tts = TTS(auto_download=True)
-        self.lang = cfg.get("lang", "en")
+        self.lang = cfg.get("st_lang") or cfg.get("lang", "en").split("-")[0]
         self.styles = {}
         self.sr = getattr(self.tts, "sample_rate", None) or 44100
 
@@ -124,6 +129,27 @@ ENGINES = {"kokoro": Kokoro, "piper": Piper, "supertonic": Supertonic, "melo": M
 
 def load(cfg):
     return ENGINES[cfg["engine"]](cfg)
+
+
+class Router:
+    """Voice ids may name another engine: "supertonic:M1" (e.g. a French male voice while the course uses Kokoro).
+    Optional ids: "name@0.84" = pitch factor (applied in encode)."""
+
+    def __init__(self, cfg):
+        self.cfg, self.e = cfg, {}
+
+    def get(self, voice):
+        eng, _, v = voice.rpartition(":")
+        eng = eng or self.cfg["engine"]
+        if eng not in self.e:
+            self.e[eng] = ENGINES[eng](dict(self.cfg, engine=eng))
+        return self.e[eng], v
+
+    def synth(self, text, voice):
+        v, _, pitch = voice.partition("@")
+        e, name = self.get(v)
+        a, sr = e.synth(text, name)
+        return a, sr, float(pitch or 1)
 
 
 # Post-processing identical to the English pipeline (tts/gen_full.py)

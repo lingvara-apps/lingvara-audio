@@ -51,7 +51,7 @@ jobs:
       - uses: actions/download-artifact@v4
         with: {name: plan}
       - name: Install engine
-        run: bash tts/install.sh $(python3 -c "import json;c=json.load(open('tts/langs.json'))['$C'];print(c['engine'],c.get('g2p',''))") 2>&1 | tail -20
+        run: bash tts/install.sh $(python3 tts/needs.py $C) 2>&1 | tail -20
       - name: Generate
         run: python3 tts/gen_multi.py $C todo.json ${{ matrix.shard }} ${{ strategy.job-total }} out 2>&1 | grep -v -i warning | tail -80
       - uses: actions/upload-artifact@v4

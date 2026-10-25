@@ -147,11 +147,16 @@ def collect(c, cdir):
     except (FileNotFoundError, KeyError):
         pass
     vf, vm = cfg["voices"]["f"], cfg["voices"]["m"]
-    res = []
+    res, skipped = [], 0
     for p in sorted(packs):
         for pack, k, sp, male in sorted(packs[p].values(), key=lambda x: x[1]):
+            if c in READING_COURSES and not NATIVE.search(sp):
+                skipped += 1  # bare romanization (pinyin/rōmaji/…): TTS can't read it; app falls back to phone TTS
+                continue
             if sp:
                 res.append([pack, k, sp, vm if male else vf, 1.0 if is_word(sp, c) else 0.92])
+    if skipped:
+        print(f"skipped {skipped} romanization-only texts")
     return res, sorted(used_male), other
 
 

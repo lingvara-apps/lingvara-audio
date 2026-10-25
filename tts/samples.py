@@ -38,7 +38,8 @@ CANDIDATES = {
     "it": [("kokoro", v) for v in ["if_sara", "im_nicola"]] + [("supertonic", v) for v in ST],
     "pt": [("kokoro", v) for v in ["pf_dora", "pm_alex", "pm_santa"]] + [("supertonic", v) for v in ST],
     "ja": [("kokoro", v) for v in ["jf_alpha", "jf_nezumi", "jm_kumo"]] + [("supertonic", v) for v in ST],
-    "zh": [("kokoro", v) for v in ["zf_xiaobei", "zf_xiaoxiao", "zm_yunjian", "zm_yunxi"]],
+    "zh": [("kokoro", v) for v in ["zf_xiaobei", "zf_xiaoxiao", "zf_xiaoni", "zm_yunjian", "zm_yunxi"]]
+          + [("kokoro11", v) for v in ["zf_001", "zf_002", "zf_003", "zf_004", "zf_005", "zm_009", "zm_010", "zm_011"]],
     "de": [("piper", v) for v in ["de_DE-kerstin-low", "de_DE-ramona-low", "de_DE-eva_k-x_low",
                                   "de_DE-thorsten-high", "de_DE-thorsten-medium"]] + [("supertonic", v) for v in ST],
     "tr": [("piper", "auto:tr_TR")]
@@ -46,6 +47,7 @@ CANDIDATES = {
     "ar": [("piper", "auto:ar_")] + [("supertonic", v) for v in ST],
     "ko": [("supertonic", v) for v in ["F1", "F2", "F3", "F4", "F5", "M1", "M2", "M3", "M4", "M5"]],
 }
+NW = {"zh": 10}
 WLANG = {"pt": "pt", "zh": "zh"}
 
 
@@ -63,14 +65,15 @@ def course_texts(c, cdir):
         w = [x[2] for x in items if x[4] == 1.0 and len(x[2]) > (1 if c in ("ja", "zh") else 4) and not x[2][0].isupper()]
         s = [x[2] for x in items if x[4] != 1.0 and x[3] != vm and lo <= len(x[2]) <= hi and extract.END_OK(x[2])]
         m = [x[2] for x in items if x[3] == vm and CFG[c]["voices"]["f"] != vm and 15 <= len(x[2]) <= 90]
-        words = rnd.sample(w, min(2, len(w)))
+        words = rnd.sample(w, min(NW.get(c, 2), len(w)))
         sents = rnd.sample(s, min(2, len(s)))
         male = rnd.sample(m, min(2, len(m)))
     fw, fs, fm = WRITTEN.get(c, ([], [], []))
-    words = (words + fw)[:2]
+    words = (words + fw)[:max(2, len(words))]
     sents = (sents + fs)[:2]
     male = (male + fm)[:2]
-    return [("w1", words[0]), ("w2", words[1]), ("s1", sents[0]), ("s2", sents[1]), ("m1", male[0]), ("m2", male[1])]
+    return ([(f"w{n + 1}", x) for n, x in enumerate(words)]
+            + [("s1", sents[0]), ("s2", sents[1]), ("m1", male[0]), ("m2", male[1])])
 
 
 def normtxt(t, c):
@@ -110,10 +113,14 @@ def main():
         v, _, pitch = voice.partition("@")
         try:
             if eng not in loaded:
-                cfg = dict(CFG[c], engine=eng)
+                cfg = dict(CFG[c], engine=eng.replace("kokoro11", "kokoro"))
+                if eng == "kokoro11":
+                    cfg["model"] = "v1.1-zh"
                 if eng == "supertonic":
-                    cfg["lang"] = c
+                    cfg["st_lang"] = c
                 loaded[eng] = engines.load(cfg)
+                if hasattr(loaded[eng], "k"):
+                    log.append(f"{eng} voices: {sorted(loaded[eng].k.get_voices())}")
             e = loaded[eng]
             for tid, txt in texts:
                 t0 = time.time()
@@ -124,13 +131,16 @@ def main():
         except Exception as ex:  # noqa: BLE001
             log.append(f"FAIL {eng} {voice}: {ex!r}")
             traceback.print_exc()
-    # configured voices → top-level picks
-    cfg = CFG[c]
-    for tid, txt in texts:
-        v = cfg["voices"]["m" if tid.startswith("m") else "f"]
-        src = [m for m in made if m[0] == cfg["engine"] and m[1] == v and m[2] == tid]
-        if src:
-            os.system(f"cp '{src[0][4]}' '{out}/{tid}.mp3'")
+    # configured voices (langs.json) → top-level picks, made exactly like the real run
+    try:
+        r = engines.Router(CFG[c])
+        for tid, txt in texts:
+            v = CFG[c]["voices"]["m" if tid.startswith("m") else "f"]
+            sp = extract.spoken(txt, c)
+            a, sr, p = r.synth(sp, v)
+            engines.encode(a, sr, f"{out}/{tid}.mp3", 1.0 if extract.is_word(sp, c) else 0.92, p)
+    except Exception as ex:  # noqa: BLE001
+        log.append(f"FAIL picks: {ex!r}")
     # Whisper check
     try:
         from faster_whisper import WhisperModel

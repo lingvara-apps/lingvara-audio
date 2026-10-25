@@ -13,7 +13,7 @@ out = sys.argv[5] if len(sys.argv) > 5 else "out"
 cfg = json.load(open(f"{HERE}/langs.json"))[c]
 items = json.load(open(todo))[i::n]
 os.makedirs(out, exist_ok=True)
-eng = engines.load(cfg)
+eng = engines.Router(cfg)
 pool = ThreadPoolExecutor(3)
 errors = []
 
@@ -31,14 +31,13 @@ for k, (pack, key, text, voice, tempo) in enumerate(items):
     mp3 = f"{out}/{key}.mp3"
     if os.path.exists(mp3):
         continue
-    v, _, p = voice.partition("@")
     try:
-        a, sr = eng.synth(text, v)
+        a, sr, p = eng.synth(text, voice)
     except Exception as e:  # noqa: BLE001
         errors.append(key)
         print("ERR", key, text, repr(e)[:200], flush=True)
         continue
-    pool.submit(enc, a, sr, mp3, tempo, float(p or 1))
+    pool.submit(enc, a, sr, mp3, tempo, p)
     if k % 250 == 0:
         print(k, len(items), round(time.time() - t0), flush=True)
 pool.shutdown(wait=True)
