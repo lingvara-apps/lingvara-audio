@@ -1,0 +1,111 @@
+# UNIT: Sokak dili | Gündelik kaba ama yaygın ifadeler, ünlemler (küfür yok)
+## Sert ünlemler
+ちくしょう (chikushō) | hay aksi, kahretsin (hafif) | ünlem | ちくしょう、また電車に乗り遅れた。 | Hay aksi, yine treni kaçırdım.
+うるせえ (urusē) | sus be, kes sesini (kaba) | ünlem | 「早く起きろ」「うるせえな、今起きるよ」 | "Çabuk kalk." "Tamam be, kalkıyorum işte."
+なんだよ (nanda yo) | ne var ya, ne oluyor (sinirli) | ünlem | なんだよ、急に大声を出して。 | Ne oluyor ya, birden bağırıyorsun.
+ふざけんな (fuzakenna) | dalga mı geçiyorsun, şaka mısın (öfkeli) | ünlem | 人の金を勝手に使って、ふざけんな。 | Başkasının parasını izinsiz harcamışsın, dalga mı geçiyorsun?
+冗談じゃない (jōdan ja nai) | hiç de şakası yok, olacak iş değil | ifade | 給料を半分にするなんて、冗談じゃない。 | Maaşı yarıya indirmek mi? Olacak iş değil.
+いい加減にしろ (iikagen ni shiro) | yeter artık, kes şunu | ifade | 毎日遅刻して、いい加減にしろ。 | Her gün geç kalıyorsun, artık yeter.
+ざまあみろ (zamaa miro) | oh olsun, müstahak | ünlem | いじわるな先輩が転んで、心の中でざまあみろと思った。 | Huysuz kıdemli düşünce içimden oh olsun dedim.
+やべえ (yabē) | eyvah; müthiş (yabai'nin kaba hâli) | ünlem | やべえ、もうこんな時間だ。 | Eyvah, saat bu kadar olmuş.
+だっせえ (dassē) | çok zevksiz, çok kötü (kaba) | sıfat | そのジャージ、だっせえな。 | O eşofman ne kadar zevksiz be.
+知るかよ (shiru ka yo) | bana ne, nereden bileyim (kaba) | ifade | 「財布どこ？」「知るかよ、自分で探せ」 | "Cüzdan nerede?" "Nereden bileyim, kendin bul."
+## Hitap ve zamirler
+おめえ (omē) | sen (kaba erkek dili) | zamir | おめえ、昨日どこ行ってたんだよ。 | Sen dün nereye gittin be?
+あんた (anta) | sen (laubali, bazen sert) | zamir | あんた、いつまで寝てるの。 | Sen ne zamana kadar uyuyacaksın?
+俺ら (orera) | biz (kaba erkek dili) | zamir | 俺らの町には、何もないけど海がある。 | Bizim kasabada hiçbir şey yok ama deniz var.
+ガキ (gaki) | velet (kaba) | isim | 近所のガキが、また窓ガラスを割った。 | Mahallenin veledi yine cam kırdı.
+おっさん (ossan) | amca, orta yaşlı adam (laubali) | isim | 公園で、知らないおっさんに道を聞かれた。 | Parkta tanımadığım bir amca bana yol sordu.
+おばちゃん (obachan) | teyze (samimi) | isim | 駄菓子屋のおばちゃんは、いつもおまけをくれた。 | Şekerci teyze hep fazladan bir şey verirdi.
+兄ちゃん (niichan) | delikanlı, abi (yabancı gence laubali hitap) | isim | 「兄ちゃん、これ安くしとくよ」と八百屋が言った。 | Manav "Delikanlı, bunu sana ucuza veririm" dedi.
+姉ちゃん (neechan) | abla (genç kadına laubali hitap) | isim | 「姉ちゃん、これおまけね」と魚屋が笑った。 | Balıkçı "Abla, bu da hediye" diyerek güldü.
+大将 (taishō) | usta, patron (lokanta sahibine hitap) | isim | 「大将、いつものやつ頼むよ」と常連客が言った。 | Müdavim "Usta, her zamankinden" dedi.
+旦那 (danna) | koca; efendi (müşteriye hitap) | isim | うちの旦那は、休みの日は一日中寝ている。 | Bizim adam tatil günleri bütün gün uyuyor.
+## Kaba fiiller
+食う (kuu) | yemek (kaba erkek dili) | fiil | 腹が減ったから、何か食いに行こうぜ。 | Karnım acıktı, bir şeyler yemeye gidelim.
+ずらかる (zurakaru) | sıvışmak, tüymek | fiil | 警察が来る前に、男たちはずらかった。 | Polis gelmeden adamlar sıvıştı.
+パクる (pakuru) | aşırmak; taklit etmek | fiil | 他人のアイデアをパクるなんて、最低だ。 | Başkasının fikrini aşırmak en aşağılık iş.
+ぶっ飛ばす (buttobasu) | pataklamak; son hızla sürmek | fiil | 高速道路を、夜中にぶっ飛ばして帰った。 | Gece yarısı otoyolda son hızla sürüp eve döndüm.
+ばっくれる (bakkureru) | sıvışmak, (işi) asmak | fiil | 彼はバイトを無断でばっくれて、連絡もつかない。 | Haber vermeden işi asıp ortadan kayboldu.
+ちょろまかす (choromakasu) | araklamak, cebe indirmek | fiil | 店のお金をちょろまかしていた店員が捕まった。 | Dükkânın parasını cebe indiren çalışan yakalandı.
+ほざく (hozaku) | saçmalamak, atıp tutmak (kaba) | fiil | できもしないことを、何をほざいているんだ。 | Yapamayacağın şeyler hakkında ne atıp tutuyorsun?
+くたばる (kutabaru) | geberesice yorulmak, ölüp gitmek (kaba) | fiil | 一日中歩き回って、もうくたばりそうだ。 | Bütün gün yürümekten ölmek üzereyim.
+吹っかける (fukkakeru) | kazık atmak; (kavga) çıkarmak | fiil | 観光客だと思って、店主が値段を吹っかけてきた。 | Turist sanıp dükkân sahibi kazık fiyat söyledi.
+ガンを飛ばす (gan o tobasu) | tehditkâr bakmak, gözdağı vermek | deyim | 不良に駅でガンを飛ばされて、怖かった。 | İstasyonda bir serseri bana tehditkâr bakınca korktum.
+## Sokak sıfatları
+しけた (shiketa) | kasvetli, sönük, cimri | sıfat | こんなしけた店で飲むのはもう嫌だ。 | Böyle sönük bir yerde içmekten bıktım.
+せこい (sekoi) | pinti, ucuz numara yapan | sıfat | 割り勘で一円まで計算するなんて、せこいなあ。 | Hesabı bölüşürken yen yen hesaplamak ne pintilik.
+えぐい (egui) | sert, acımasız; müthiş | sıfat | その映画、暴力シーンがえぐかった。 | O filmin şiddet sahneleri çok sertti.
+ちょろい (choroi) | çocuk oyuncağı, kolay | sıfat | こんな問題、ちょろいもんだ。 | Böyle bir soru çocuk oyuncağı.
+ぼろい (boroi) | köhne, döküntü | sıfat | ぼろいアパートだが、家賃は安い。 | Köhne bir apartman ama kirası ucuz.
+ガラが悪い (gara ga warui) | kaba saba, görgüsüz (ortam, kişi) | deyim | この辺りは、夜になるとガラが悪くなる。 | Bu civar akşam olunca serserilerle dolar.
+かったるい (kattarui) | üşendirici, halsizlik veren | sıfat | 雨の日の通勤は、何ともかったるい。 | Yağmurlu günde işe gitmek insanı çok üşendiriyor.
+半端ない (hanpanai) | inanılmaz, müthiş | sıfat | 今日の暑さは半端ない。 | Bugünkü sıcak inanılmaz.
+鬱陶しい (uttōshii) | bunaltıcı, bıktırıcı | sıfat | 梅雨の毎日は、じめじめして鬱陶しい。 | Yağmur mevsiminin her günü nemli ve bunaltıcı.
+みみっちい (mimicchii) | küçük hesaplı, cimri | sıfat | 百円のことで文句を言うなんて、みみっちい。 | Yüz yen için itiraz etmek ne küçük hesap.
+## Para ve sokak işleri
+ぼろ儲け (boromōke) | köşeyi dönme, vurgun | isim | 転売でぼろ儲けしようとする人が後を絶たない。 | Karaborsa satışla vurgun yapmaya çalışanların ardı arkası kesilmiyor.
+一攫千金 (ikkaku senkin) | bir anda zengin olma | deyim | 一攫千金を夢見て、宝くじを買い続けている。 | Bir gecede zengin olmayı hayal edip piyango almaya devam ediyor.
+タダ (tada) | bedava | isim | タダほど高いものはない、と祖母はよく言った。 | Büyükannem "bedava şeyden pahalısı yok" derdi.
+ネコババ (nekobaba) | bulduğunu cebe atma | isim | 拾った財布をネコババするのは犯罪だ。 | Bulunan cüzdanı cebe atmak suçtur.
+借金まみれ (shakkin mamire) | borç batağında | isim | ギャンブルのせいで、彼は借金まみれになった。 | Kumar yüzünden borç batağına saplandı.
+カツアゲ (katsuage) | haraç (zorla para alma) | isim | 中学生が、駅の裏でカツアゲにあった。 | Bir ortaokul öğrencisinden istasyonun arkasında zorla para alındı.
+ゆすり (yusuri) | şantajla para koparma | isim | 写真をネタに、男はゆすりを働いていた。 | Adam fotoğrafları koz edip şantajla para koparıyordu.
+闇バイト (yami baito) | yasa dışı iş teklifi (internetten) | isim | 高収入をうたう闇バイトに、若者が巻き込まれている。 | Yüksek kazanç vaat eden yasa dışı işlere gençler çekiliyor.
+博打 (bakuchi) | kumar | isim | 祖父は若い頃、博打で全財産を失ったそうだ。 | Dedemin gençken kumarda tüm servetini kaybettiği söylenir.
+すっからかん (sukkarakan) | tamtakır, beş parasız | sıfat | 旅行で使いすぎて、財布がすっからかんだ。 | Seyahatte fazla harcayınca cüzdan tamtakır kaldı.
+## Kavga ve meydan okuma
+喧嘩を売る (kenka o uru) | kavga çıkarmak | deyim | 酔っ払いが、通りすがりの人に喧嘩を売っていた。 | Sarhoş geçen birine sataşıp kavga çıkarıyordu.
+喧嘩を買う (kenka o kau) | kavgaya karşılık vermek | deyim | 安い挑発に乗って、喧嘩を買うな。 | Ucuz kışkırtmalara kapılıp kavgaya girme.
+タイマン (taiman) | teke tek kavga | isim | 漫画の中で、二人の番長がタイマンで勝負した。 | Mangada iki çete lideri teke tek dövüştü.
+ボコボコ (bokoboko) | pestilini çıkarma (dayak) | isim | 試合で、相手チームにボコボコにされた。 | Maçta rakip takım bizim pestilimizi çıkardı.
+因縁をつける (innen o tsukeru) | bahane bulup sataşmak | deyim | 肩がぶつかっただけで、因縁をつけられた。 | Sadece omzumuz çarpıştı diye bana sataştı.
+落とし前 (otoshimae) | hesabını verme, bedeli ödeme | isim | この失敗の落とし前は、どうつけるつもりだ。 | Bu hatanın hesabını nasıl vereceksin?
+覚えてろ (oboetero) | görürsün sen, bunu unutmayacağım (tehdit) | ifade | 「覚えてろよ」と叫んで、男は逃げていった。 | "Görürsün sen!" diye bağırıp kaçtı.
+上等だ (jōtō da) | iyi ya, gel bakalım (meydan okuma) | ifade | 勝負したいって？上等だ、受けて立つよ。 | Yarışmak mı istiyorsun? İyi ya, kabul ediyorum.
+なめんな (namenna) | beni hafife alma | ifade | 年下だからって、なめんなよ。 | Senden küçüğüm diye beni hafife alma.
+かかってこい (kakatte koi) | gel de göreyim | ifade | 誰でもいいから、かかってこい。 | Kim olursa olsun gelsin de göreyim.
+## Sokak tipleri
+ヤンキー (yankī) | serseri genç (gösterişli) | isim | 昔はヤンキーだった彼が、今は立派な教師だ。 | Eskiden serseri olan o şimdi saygın bir öğretmen.
+チンピラ (chinpira) | külhanbeyi, kabadayı bozuntusu | isim | 繁華街で、チンピラに絡まれた。 | Eğlence semtinde kabadayı bozuntularına takıldım.
+暴走族 (bōsōzoku) | motosiklet çetesi | isim | 昔は夜中に、暴走族のバイクの音がよく聞こえた。 | Eskiden gece yarısı motosiklet çetelerinin sesi sık duyulurdu.
+ごろつき (gorotsuki) | ayak takımı, haydut | isim | 港町の酒場には、ごろつきが集まっていた。 | Liman kasabasının meyhanesinde ayak takımı toplanırdı.
+与太者 (yotamono) | işe yaramaz serseri | isim | 若い頃の彼は、ただの与太者だった。 | Gençliğinde sıradan bir serseriydi.
+半グレ (hangure) | yarı organize suç grubu | isim | 半グレ集団による詐欺事件が増えている。 | Yarı organize suç gruplarının dolandırıcılıkları artıyor.
+番長 (banchō) | okul çetesinin lideri | isim | 昭和の漫画には、よく学校の番長が登場する。 | Shōwa dönemi mangalarında okul çetesi liderleri sık görülür.
+舎弟 (shatei) | (çetede) küçük kardeş, yandaş | isim | 彼は兄貴分の舎弟として、何でも言うことを聞いた。 | Abisinin yandaşı olarak her dediğini yaptı.
+兄貴 (aniki) | ağabey; abi (saygıyla bağlı olunan kişi) | isim | 職場の兄貴分が、いつも相談に乗ってくれる。 | İşyerindeki abim her zaman derdimi dinler.
+不良 (furyō) | yaramaz, serseri (genç) | isim | 不良だった兄も、今では二児の父だ。 | Serseri olan ağabeyim şimdi iki çocuk babası.
+## Kansai argosu
+なんでやねん (nande yanen) | neden ya!, olur mu öyle (Kansai) | ifade | 「明日は雪やって」「七月やで、なんでやねん」 | "Yarın kar yağacakmış." "Temmuzdayız, olur mu öyle!"
+あかん (akan) | olmaz, kötü (Kansai) | ifade | 今日はもうあかん、疲れて動かれへん。 | Bugün olmaz artık, yorgunluktan kıpırdayamıyorum.
+ほんま (honma) | gerçekten (Kansai) | zarf | この店のたこ焼き、ほんまにうまいで。 | Bu dükkânın takoyakisi gerçekten çok lezzetli.
+〜へん (hen) | ...ma, ...me (Kansai olumsuzu) | ifade | そんなこと、私は知らへんよ。 | Ben öyle bir şey bilmiyorum.
+おおきに (ōkini) | teşekkürler (Kansai) | ünlem | 「おおきに、また来てな」と店のおばちゃんが言った。 | Dükkândaki teyze "Teşekkürler, yine gel" dedi.
+ちゃう (chau) | değil, hayır (Kansai) | ifade | それ、ちゃうちゃう。私のかばんやないよ。 | Hayır hayır, o benim çantam değil.
+せや (seya) | evet, öyle (Kansai) | ünlem | 「明日、大阪行くん？」「せや、仕事でな」 | "Yarın Osaka'ya mı gidiyorsun?" "Evet, iş için."
+アホ (aho) | aptal (Kansai'de samimi) | isim | アホなこと言うてんと、はよ寝なさい。 | Saçmalamayı bırak da hemen yat.
+なんぼ (nanbo) | ne kadar, kaç para (Kansai) | zarf | このシャツ、なんぼですか。 | Bu gömlek ne kadar?
+ほな (hona) | o zaman, hadi (Kansai) | bağlaç | ほな、また明日な。 | Hadi o zaman, yarın görüşürüz.
+## Gündelik kaba konuşma
+腹減った (hara hetta) | karnım acıktı (erkek dili) | ifade | 腹減ったなあ、ラーメンでも食いに行こう。 | Karnım acıktı, gidip bir ramen yiyelim.
+飯 (meshi) | yemek (erkek dili) | isim | 今夜、一緒に飯でも行かない？ | Bu akşam birlikte yemeğe çıkalım mı?
+一杯やる (ippai yaru) | bir kadeh atmak | deyim | 仕事が終わったら、駅前で一杯やろう。 | İş bitince istasyon önünde bir kadeh atalım.
+寝落ち (neochi) | (bir şey yaparken) uyuyakalmak | isim | 電話の途中で寝落ちしてしまった。 | Telefonda konuşurken uyuyakaldım.
+二日酔い (futsukayoi) | akşamdan kalmalık | isim | 昨日飲みすぎて、今朝はひどい二日酔いだ。 | Dün fazla içtim, bu sabah fena akşamdan kalmayım.
+ぶっちぎり (bucchigiri) | açık ara (önde) | isim | 彼はマラソン大会で、ぶっちぎりの一位だった。 | Maratonda açık ara birinci oldu.
+ぶっ倒れる (buttaoreru) | yığılıp kalmak | fiil | 徹夜続きで、ついにぶっ倒れた。 | Üst üste uykusuz gecelerden sonra sonunda yığılıp kaldım.
+ヘロヘロ (herohero) | bitkin, sendeleyecek kadar yorgun | sıfat | 徹夜明けで、もうヘロヘロだ。 | Uykusuz bir gecenin ardından bitkin düştüm.
+ぼーっとする (bōtto suru) | dalıp gitmek, aval aval durmak | fiil | 疲れて、電車の中でぼーっとしていた。 | Yorgunluktan trende dalıp gitmişim.
+ダチ (dachi) | kanka (kaba) | isim | 昔のダチと、久しぶりに飲みに行った。 | Eski kankalarımla uzun zaman sonra içmeye gittim.
+## Kısa sokak tepkileri
+おいおい (oioi) | hey hey, dur bakalım | ünlem | おいおい、そんなに急いでどこ行くんだ。 | Hey hey, bu acele nereye?
+嘘だろ (uso daro) | yok artık, olamaz | ifade | 嘘だろ、宝くじが当たったのか。 | Yok artık, piyango mu çıktı?
+へっ (he') | hıh (küçümseme) | ünlem | へっ、そんなの簡単さ。 | Hıh, o çok kolay.
+ちぇっ (che') | tüh, cık (hayal kırıklığı) | ünlem | ちぇっ、また負けたよ。 | Tüh, yine kaybettim.
+げっ (ge') | eyvah, iğğ (tatsız sürpriz) | ünlem | げっ、テストの範囲、全然勉強してない。 | Eyvah, sınav konularını hiç çalışmadım.
+おっ (o') | oo, bak sen (hoş sürpriz) | ünlem | おっ、今日は早いね。 | Oo, bugün erkencisin.
+ったく (ttaku) | ya bu ne, hay Allah (sitem) | ünlem | ったく、何回言ったらわかるんだ。 | Ya bu ne, kaç kere söylemem gerek?
+あーあ (āa) | of ya (hayal kırıklığı, bıkkınlık) | ünlem | あーあ、明日からまた仕事か。 | Of ya, yarından itibaren yine iş.
+よっしゃ (yossha) | yaşasın, haydi bakalım | ünlem | よっしゃ、これで決勝進出だ。 | Yaşasın, finale çıktık.
+しめた (shimeta) | oh be, fırsat elime geçti | ünlem | しめた、まだ最終バスが残っている。 | Oh be, son otobüs daha kalkmamış.
