@@ -37,7 +37,7 @@ kromozom | chromosome | isim | İnsan hücrelerinde normalde kırk altı kromozo
 organizma | organism | isim | Bu göldeki küçük organizmalar suyun temiz kalmasına yardım ediyor. | The tiny organisms in this lake help keep the water clean.
 gen | gene | isim | Göz rengimizi annemizden ve babamızdan aldığımız genler belirler. | Our eye colour is determined by the genes we get from our mother and father.
 evrim | evolution | isim | Evrim kuramı canlıların milyonlarca yıl içinde nasıl değiştiğini açıklar. | The theory of evolution explains how living things have changed over millions of years.
-bakteri | bacterium; bacteria | isim | Yoğurt yapımında faydalı bakterilerden yararlanılır. | Beneficial bacteria are used in making yoghurt.
+bakteri | bacterium; bacteria | isim | Evde yoğurt yaparken sütün içindeki faydalı bakterilerden yararlanılır. | When making yoghurt at home, the beneficial bacteria in the milk are put to use.
 canlı | living thing; alive | isim | Okyanusların derinliklerinde henüz keşfedilmemiş binlerce canlı yaşıyor. | Thousands of as yet undiscovered living things live in the depths of the oceans.
 üreme | reproduction | isim | Bazı balıklar üreme dönemlerinde yüzlerce kilometre yol kat eder. | Some fish travel hundreds of kilometres during their breeding season.
 fotosentez | photosynthesis | isim | Bitkiler fotosentez sayesinde güneş ışığını besine dönüştürür. | Thanks to photosynthesis, plants turn sunlight into food.
@@ -78,7 +78,7 @@ ayrıntılı | detailed | sıfat | Hocamız ödev için ayrıntılı bir açıkl
 karşılaştırmalı | comparative | sıfat | İki ülkenin eğitim sistemleri üzerine karşılaştırmalı bir çalışma yapıyorum. | I'm doing a comparative study of the education systems of two countries.
 ## Discoveries and scientists
 Nobel Ödülü | the Nobel Prize | isim | Nobel Ödülü kazanmak, birçok genç bilim insanının en büyük hayalidir. | Winning the Nobel Prize is the greatest dream of many young scientists.
-keşfedilmek | to be discovered | fiil | Antibiyotikler 1928'de neredeyse tesadüfen keşfedildi. | Antibiotics were discovered almost by accident in 1928.
+keşfedilmek | to be discovered | fiil | İlk antibiyotik 1928'de bir laboratuvarda neredeyse tesadüfen keşfedildi. | The first antibiotic was discovered almost by accident in a laboratory in 1928.
 dahi | genius (person) | isim | Küçük yaşta karmaşık problemleri çözen çocuğa herkes dahi diyordu. | Everyone called the child who solved complex problems at an early age a genius.
 deha | genius (quality) | isim | Rönesans ustalarının dehası hem sanatta hem bilimde kendini gösterdi. | The genius of the Renaissance masters showed itself in both art and science.
 merak | curiosity | isim | Bilim insanlarını harekete geçiren en büyük güç meraktır. | The greatest force that drives scientists is curiosity.
