@@ -1,0 +1,111 @@
+# UNIT: Spor ve boş zaman | Spor dalları, müsabaka, antrenman, hobiler
+## Spor dalları
+육상 (yuksang) | atletizm | isim | 그는 고등학교 때 육상 선수로 활동했다. | Lisedeyken atletizm sporcusuydu.
+유도 (yudo) | judo | isim | 유도는 상대의 힘을 이용하는 운동이다. | Judo rakibin gücünü kullanan bir spordur.
+검도 (geomdo) | kendo | isim | 검도장에서 죽도를 휘두르는 소리가 들렸다. | Kendo salonundan bambu kılıç sesleri geliyordu.
+펜싱 (pensing) | eskrim | isim | 펜싱 경기는 순간의 판단이 승부를 가른다. | Eskrimde anlık karar sonucu belirler.
+양궁 (yanggung) | okçuluk | isim | 한국은 양궁 강국으로 알려져 있다. | Kore okçulukta güçlü bir ülke olarak bilinir.
+사격 (sagyeok) | atıcılık | isim | 사격은 집중력이 무엇보다 중요하다. | Atıcılıkta odaklanma her şeyden önemlidir.
+역도 (yeokdo) | halter | isim | 그 역도 선수는 자기 몸무게의 세 배를 들어 올렸다. | O halterci kendi ağırlığının üç katını kaldırdı.
+레슬링 (reseulling) | güreş (serbest/grekoromen) | isim | 튀르키예는 레슬링에서 좋은 성적을 많이 냈다. | Türkiye güreşte birçok başarılı sonuç elde etti.
+복싱 (boksing) | boks | isim | 스트레스를 풀려고 복싱을 배우기 시작했다. | Stres atmak için boks öğrenmeye başladım.
+승마 (seungma) | binicilik | isim | 제주도에서 승마 체험을 해 봤다. | Jeju'da binicilik deneyimi yaşadım.
+## Su ve kış sporları
+서핑 (seoping) | sörf | isim | 여름이면 양양 바다에 서핑하는 사람들이 많다. | Yazın Yangyang sahilinde sörf yapan çok kişi olur.
+다이빙 (daibing) | dalış | isim | 그는 다이빙 대회에서 완벽한 점수를 받았다. | Dalış yarışmasında kusursuz puan aldı.
+스노보드 (seunobodeu) | snowboard | isim | 친구들과 겨울마다 스노보드를 타러 간다. | Arkadaşlarla her kış snowboard yapmaya gideriz.
+컬링 (keolling) | curling | isim | 컬링은 얼음 위의 체스라고 불린다. | Curling'e buz üstündeki satranç denir.
+피겨 스케이팅 (pigyeo seukeiting) | artistik patinaj | isim | 피겨 스케이팅은 운동이면서 예술이다. | Artistik patinaj hem spor hem sanattır.
+래프팅 (raepeuting) | rafting | isim | 강원도 계곡에서 친구들과 래프팅을 즐겼다. | Gangwon vadisinde arkadaşlarla rafting yaptık.
+카누 (kanu) | kano | isim | 우리는 강에서 카누를 타며 여름을 보냈다. | Yazı nehirde kano yaparak geçirdik.
+수상 스키 (susang seuki) | su kayağı | isim | 수상 스키는 생각보다 균형 잡기가 어렵다. | Su kayağında dengede durmak sanıldığından zor.
+아이스하키 (aiseuhaki) | buz hokeyi | isim | 아이스하키는 몸싸움이 많아서 위험할 수 있다. | Buz hokeyinde çok temas olduğu için tehlikeli olabilir.
+스키장 (seukijang) | kayak merkezi | isim | 주말에 스키장은 사람들로 붐볐다. | Hafta sonu kayak merkezi insanlarla doluydu.
+## Müsabaka
+대회 (daehoe) | turnuva, yarışma | isim | 그는 전국 수영 대회에서 일등을 했다. | Ulusal yüzme yarışmasında birinci oldu.
+결승전 (gyeolseungjeon) | final maçı | isim | 결승전은 다음 주 토요일에 열린다. | Final maçı gelecek cumartesi oynanacak.
+준결승 (jungyeolseung) | yarı final | isim | 우리 팀은 준결승에서 아쉽게 졌다. | Takımımız yarı finalde ne yazık ki kaybetti.
+예선 (yeseon) | eleme turu | isim | 예선을 일 위로 통과했다. | Eleme turunu birinci olarak geçtik.
+본선 (bonseon) | ana turnuva (finaller) | isim | 예선을 통과한 열여섯 팀이 본선에 진출했다. | Elemeyi geçen on altı takım ana turnuvaya katıldı.
+리그 (rigeu) | lig | isim | 그 선수는 해외 리그에서 뛰고 있다. | O oyuncu yurt dışı liginde oynuyor.
+국가 대표 (gukga daepyo) | milli sporcu | isim | 그녀는 열여섯 살에 국가 대표로 뽑혔다. | On altı yaşında milli takıma seçildi.
+시상식 (sisangsik) | ödül töreni | isim | 시상식에서 선수들이 메달을 목에 걸었다. | Ödül töreninde sporcular madalyalarını boyunlarına taktı.
+금메달 (geummedal) | altın madalya | isim | 그는 마라톤에서 금메달을 땄다. | Maratonda altın madalya kazandı.
+개최하다 (gaechoehada) | ev sahipliği yapmak, düzenlemek | fiil | 이 도시는 이 년 뒤 세계 대회를 개최한다. | Bu şehir iki yıl sonra dünya şampiyonasına ev sahipliği yapacak.
+## Maç terimleri
+득점 (deukjeom) | sayı, gol (kazanılan) | isim | 그는 이번 시즌 최다 득점을 기록했다. | Bu sezon en çok gol atan oyuncu oldu.
+반칙 (banchik) | faul | isim | 상대 선수를 밀어서 반칙을 받았다. | Rakip oyuncuyu ittiği için faul aldı.
+심판 (simpan) | hakem | isim | 심판의 판정에 선수들이 항의했다. | Oyuncular hakemin kararına itiraz etti.
+퇴장 (toejang) | oyundan atılma | isim | 거친 태클로 그는 경기 도중 퇴장당했다. | Sert bir müdahale yüzünden maçın ortasında oyundan atıldı.
+연장전 (yeonjangjeon) | uzatma | isim | 동점이라서 연장전에 들어갔다. | Beraberlik olduğu için uzatmaya gidildi.
+승부차기 (seungbuchagi) | penaltı atışları | isim | 결국 승부차기로 우승팀이 결정되었다. | Sonunda şampiyon penaltı atışlarıyla belirlendi.
+역전승 (yeokjeonseung) | geriden gelip kazanma | isim | 마지막 일 분에 골을 넣어 극적인 역전승을 거두었다. | Son dakikada gol atıp dramatik bir şekilde geriden gelerek kazandı.
+무승부 (museungbu) | beraberlik | isim | 두 팀은 일 대 일 무승부로 경기를 마쳤다. | İki takım maçı bire bir berabere bitirdi.
+동점 (dongjeom) | eşit skor | isim | 후반전 막판에 동점 골이 터졌다. | İkinci yarının sonlarında beraberlik golü geldi.
+전반전 (jeonbanjeon) | ilk yarı | isim | 전반전이 끝났을 때 우리 팀이 이 대 영으로 앞서 있었다. | İlk yarı bittiğinde takımımız iki sıfır öndeydi.
+## Antrenman
+훈련 (hullyeon) | antrenman, eğitim | isim | 선수들은 하루에 여섯 시간씩 훈련한다. | Sporcular günde altı saat antrenman yapıyor.
+전지훈련 (jeonjihullyeon) | kamp (yurt dışı/uzak antrenman) | isim | 대표팀은 따뜻한 나라로 전지훈련을 떠났다. | Milli takım sıcak bir ülkeye kampa gitti.
+기량 (giryang) | beceri, performans | isim | 그는 부상에서 회복한 후 최고의 기량을 보여 주었다. | Sakatlıktan döndükten sonra en iyi performansını gösterdi.
+몸을 풀다 (momeul pulda) | ısınmak (spordan önce) | ifade | 경기 전에 충분히 몸을 풀어야 다치지 않는다. | Maçtan önce yeterince ısınırsan sakatlanmazsın.
+준비 운동 (junbi undong) | ısınma hareketleri | isim | 수영하기 전에 준비 운동을 꼭 하세요. | Yüzmeden önce mutlaka ısınma hareketleri yapın.
+근육통 (geunyuktong) | kas ağrısı | isim | 오랜만에 운동했더니 다음 날 근육통이 심했다. | Uzun aradan sonra spor yapınca ertesi gün kaslarım çok ağrıdı.
+지구력 (jiguryeok) | dayanıklılık | isim | 마라톤은 지구력이 필요한 운동이다. | Maraton dayanıklılık gerektiren bir spordur.
+순발력 (sunballyeok) | çeviklik, ani tepki gücü | isim | 골키퍼에게는 순발력이 가장 중요하다. | Kaleci için en önemlisi ani tepki gücüdür.
+체급 (chegeup) | sıklet | isim | 복싱은 체급에 따라 경기를 한다. | Boks sıkletlere göre yapılır.
+슬럼프 (seulleompeu) | performans düşüşü, durgunluk | isim | 그 선수는 오랜 슬럼프에서 벗어나 다시 우승했다. | O sporcu uzun süren performans düşüşünden kurtulup yeniden şampiyon oldu.
+## Sporcu ve kulüp
+주전 (jujeon) | ilk on bir / as oyuncu | isim | 그는 이번 시즌부터 주전 선수로 뛰고 있다. | Bu sezondan itibaren as oyuncu olarak oynuyor.
+후보 선수 (hubo seonsu) | yedek oyuncu | isim | 후보 선수들도 언제든 뛸 수 있도록 준비한다. | Yedek oyuncular da her an oynayabilmek için hazırlanır.
+코치 (kochi) | antrenör | isim | 코치는 선수들의 자세를 하나하나 고쳐 주었다. | Antrenör oyuncuların duruşlarını tek tek düzeltti.
+에이스 (eiseu) | as, en iyi oyuncu | isim | 팀의 에이스가 부상을 당해서 걱정이다. | Takımın en iyi oyuncusu sakatlandığı için endişeliyiz.
+신인 선수 (sinin seonsu) | çaylak oyuncu | isim | 올해 최고의 신인 선수로 그가 뽑혔다. | Bu yılın en iyi çaylak oyuncusu o seçildi.
+이적하다 (ijeokada) | transfer olmak | fiil | 그 선수는 유럽의 명문 팀으로 이적했다. | O oyuncu Avrupa'nın köklü bir takımına transfer oldu.
+응원단 (eungwondan) | taraftar grubu, tezahürat ekibi | isim | 응원단의 함성이 경기장을 가득 채웠다. | Taraftar grubunun tezahüratları stadı doldurdu.
+관중 (gwanjung) | seyirci (stadyumda) | isim | 오만 명의 관중이 경기장을 찾았다. | Elli bin seyirci stada geldi.
+구단 (gudan) | kulüp (profesyonel spor) | isim | 그 구단은 새 감독을 영입했다. | O kulüp yeni bir teknik direktörle anlaştı.
+전성기 (jeonseonggi) | altın çağ, zirve dönemi | isim | 그는 전성기에 세계 최고의 선수였다. | Zirve döneminde dünyanın en iyi oyuncusuydu.
+## Hobiler
+원예 (wonye) | bahçecilik | isim | 은퇴한 아버지는 요즘 원예에 푹 빠지셨다. | Emekli babam bu aralar bahçeciliğe iyice daldı.
+도예 (doye) | çömlekçilik | isim | 주말마다 공방에서 도예를 배운다. | Her hafta sonu atölyede çömlekçilik öğreniyorum.
+목공 (mokgong) | marangozluk (hobi) | isim | 목공을 배워서 작은 의자를 직접 만들었다. | Marangozluk öğrenip küçük bir sandalyeyi kendim yaptım.
+캘리그라피 (kaelligeurapi) | kaligrafi | isim | 캘리그라피로 친구 생일 카드를 써 주었다. | Arkadaşımın doğum günü kartını kaligrafiyle yazdım.
+베이킹 (beiking) | ev pastacılığı | isim | 그녀의 취미는 주말에 베이킹을 하는 것이다. | Hobisi hafta sonları pasta yapmak.
+필라테스 (pillateseu) | pilates | isim | 허리가 아파서 필라테스를 시작했다. | Belim ağrıdığı için pilatese başladım.
+클라이밍 (keullaiming) | tırmanış (spor) | isim | 실내 클라이밍은 팔 힘이 많이 필요하다. | Kapalı alanda tırmanış çok kol gücü gerektirir.
+홈트레이닝 (homteureining) | evde egzersiz | isim | 헬스장 대신 영상을 보며 홈트레이닝을 한다. | Spor salonu yerine video izleyerek evde egzersiz yapıyorum.
+반려 식물 (ballyeo singmul) | ev bitkisi (yoldaş bitki) | isim | 혼자 사는 사람들 사이에서 반려 식물을 키우는 게 유행이다. | Yalnız yaşayanlar arasında ev bitkisi yetiştirmek moda.
+출사 (chulsa) | fotoğraf gezisi | isim | 사진 동호회 회원들과 바다로 출사를 나갔다. | Fotoğraf kulübü üyeleriyle denize fotoğraf gezisine çıktık.
+## Boş zaman tarzları
+나들이 (nadeuri) | gezinti, kısa gezi | isim | 날씨가 좋아서 가족과 한강으로 나들이를 갔다. | Hava güzel olduğu için aileyle Han Nehri'ne gezintiye gittik.
+드라이브 (deuraibeu) | arabayla gezinti | isim | 바닷가 길을 따라 드라이브를 했다. | Sahil yolu boyunca arabayla gezdik.
+맛집 탐방 (matjip tambang) | lezzet durağı gezisi | isim | 이번 여행의 목적은 부산 맛집 탐방이다. | Bu gezinin amacı Busan'ın lezzet duraklarını gezmek.
+글램핑 (geullaemping) | lüks kamp | isim | 텐트를 칠 필요가 없어서 글램핑이 인기다. | Çadır kurmaya gerek olmadığı için lüks kamp popüler.
+차박 (chabak) | arabada kamp | isim | 요즘 차에서 자는 차박을 즐기는 사람이 많다. | Bu aralar arabada uyuyarak kamp yapan çok kişi var.
+호캉스 (hokangseu) | otelde tatil | isim | 여름휴가는 멀리 가지 않고 호캉스로 보냈다. | Yaz tatilini uzağa gitmeden otelde geçirdim.
+집콕 (jipkok) | evde kalma (keyifle) | isim | 이번 주말은 집콕하면서 영화만 볼 거예요. | Bu hafta sonu evde kalıp sadece film izleyeceğim.
+정주행 (jeongjuhaeng) | diziyi baştan sona izleme | isim | 주말 동안 드라마 한 시즌을 정주행했다. | Hafta sonu boyunca bir dizinin bütün sezonunu baştan sona izledim.
+덕질 (deokjil) | hayranlıkla bir şeye dalma (argo) | isim | 그녀의 취미는 좋아하는 가수 덕질이다. | Hobisi sevdiği şarkıcıyı hayranlıkla takip etmek.
+취미 생활 (chwimi saenghwal) | hobi hayatı | isim | 바빠도 취미 생활은 꼭 하려고 한다. | Meşgul olsam da hobilerime mutlaka vakit ayırmaya çalışıyorum.
+## Fitness
+운동복 (undongbok) | spor kıyafeti | isim | 운동복을 입고 공원으로 달리러 나갔다. | Spor kıyafetimi giyip koşmak için parka çıktım.
+아령 (aryeong) | dambıl | isim | 집에서 아령으로 팔 운동을 한다. | Evde dambılla kol egzersizi yapıyorum.
+러닝머신 (reoningmeosin) | koşu bandı | isim | 비가 오는 날은 러닝머신 위에서 뛴다. | Yağmurlu günlerde koşu bandında koşuyorum.
+스쿼트 (seukwoteu) | squat (çömelme egzersizi) | isim | 하루에 스쿼트를 백 개씩 한다. | Günde yüz squat yapıyorum.
+팔굽혀펴기 (palgupyeopyeogi) | şınav | isim | 군대에서 팔굽혀펴기를 매일 했다. | Askerde her gün şınav çektim.
+윗몸 일으키기 (winmom ireukigi) | mekik | isim | 윗몸 일으키기를 하면 복근이 생긴다. | Mekik çekersen karın kasların gelişir.
+체지방 (chejibang) | vücut yağı | isim | 꾸준히 운동해서 체지방을 줄였다. | Düzenli spor yaparak vücut yağımı azalttım.
+근육량 (geunyungnyang) | kas kütlesi | isim | 나이가 들면 근육량이 자연스럽게 줄어든다. | Yaş ilerledikçe kas kütlesi doğal olarak azalır.
+식단 관리 (sikdan gwalli) | beslenme düzeni takibi | isim | 운동만큼 식단 관리도 중요하다. | Egzersiz kadar beslenme düzeni de önemlidir.
+개인 트레이너 (gaein teureineo) | kişisel antrenör | isim | 개인 트레이너에게 올바른 자세를 배웠다. | Kişisel antrenörden doğru duruşu öğrendim.
+## Spor fiilleri
+출전하다 (chuljeonhada) | (yarışmaya) katılmak, sahaya çıkmak | fiil | 그는 부상에도 불구하고 결승전에 출전했다. | Sakatlığına rağmen finalde sahaya çıktı.
+겨루다 (gyeoruda) | yarışmak, kozlarını paylaşmak | fiil | 세계 각국의 선수들이 실력을 겨루었다. | Dünyanın dört bir yanından sporcular hünerlerini yarıştırdı.
+던지다 (deonjida) | atmak, fırlatmak | fiil | 투수가 빠른 공을 던졌다. | Atıcı hızlı bir top attı.
+꺾다 (kkeokda) | yenmek; kırmak, koparmak | fiil | 우리 팀이 우승 후보를 꺾고 결승에 올랐다. | Takımımız şampiyonluk adayını yenip finale yükseldi.
+제치다 (jechida) | geçmek, solda sıfır bırakmak | fiil | 그는 수비수 두 명을 제치고 골을 넣었다. | İki savunmacıyı geçip gol attı.
+따라잡다 (ttarajapda) | yetişmek, arayı kapatmak | fiil | 마지막 바퀴에서 앞선 선수를 따라잡았다. | Son turda öndeki sporcuya yetişti.
+기록을 세우다 (girogeul seuda) | rekor kırmak | ifade | 그녀는 백 미터 달리기에서 새 기록을 세웠다. | Yüz metre koşusunda yeni bir rekor kırdı.
+메달을 따다 (medareul ttada) | madalya kazanmak | ifade | 우리나라는 이번 대회에서 메달을 열 개나 땄다. | Ülkemiz bu turnuvada tam on madalya kazandı.
+맞붙다 (matbutda) | karşı karşıya gelmek (maçta) | fiil | 두 팀은 결승에서 다시 맞붙게 되었다. | İki takım finalde yeniden karşı karşıya gelecek.
+발휘하다 (balhwihada) | ortaya koymak (yetenek, güç) | fiil | 그는 큰 경기에서 실력을 제대로 발휘했다. | Büyük maçta yeteneğini tam olarak ortaya koydu.
