@@ -1,0 +1,111 @@
+# UNIT: Ev ve eşyalar | Odalar, mobilya, mutfak, ev işleri
+## Ev ve daire
+die Wohnung (die Wohnungen) | daire, ev | isim (d) | Unsere Wohnung hat drei Zimmer. | Dairemiz üç odalı.
+das Zimmer (die Zimmer) | oda | isim (o) | Mein Zimmer ist klein, aber hell. | Odam küçük ama aydınlık.
+der Stock (die Stockwerke) | kat | isim (e) | Ich wohne im dritten Stock. | Üçüncü katta oturuyorum.
+die Treppe (die Treppen) | merdiven | isim (d) | Die Treppe ist sehr steil. | Merdiven çok dik.
+der Aufzug (die Aufzüge) | asansör | isim (e) | Der Aufzug ist leider kaputt. | Asansör maalesef bozuk.
+der Keller (die Keller) | bodrum, kiler | isim (e) | Die Fahrräder stehen im Keller. | Bisikletler bodrumda.
+der Balkon (die Balkone) | balkon | isim (e) | Im Sommer frühstücken wir auf dem Balkon. | Yazın balkonda kahvaltı ederiz.
+der Garten (die Gärten) | bahçe | isim (e) | Die Kinder spielen im Garten. | Çocuklar bahçede oynuyor.
+das Dach (die Dächer) | çatı | isim (o) | Auf dem Dach liegt Schnee. | Çatıda kar var.
+die Wand (die Wände) | duvar | isim (d) | An der Wand hängt ein Foto. | Duvarda bir fotoğraf asılı.
+## Odalar
+das Wohnzimmer (die Wohnzimmer) | oturma odası | isim (o) | Wir sitzen im Wohnzimmer. | Oturma odasında oturuyoruz.
+das Schlafzimmer (die Schlafzimmer) | yatak odası | isim (o) | Das Schlafzimmer ist ruhig. | Yatak odası sessiz.
+die Küche (die Küchen) | mutfak | isim (d) | Mama ist in der Küche. | Annem mutfakta.
+das Bad (die Bäder) | banyo | isim (o) | Das Bad ist neben der Küche. | Banyo mutfağın yanında.
+die Toilette (die Toiletten) | tuvalet | isim (d) | Die Toilette ist im Flur links. | Tuvalet koridorda solda.
+der Flur (die Flure) | koridor, antre | isim (e) | Die Schuhe stehen im Flur. | Ayakkabılar koridorda.
+das Kinderzimmer (die Kinderzimmer) | çocuk odası | isim (o) | Das Kinderzimmer ist bunt. | Çocuk odası rengârenk.
+das Arbeitszimmer (die Arbeitszimmer) | çalışma odası | isim (o) | Papa ist im Arbeitszimmer. | Babam çalışma odasında.
+der Eingang (die Eingänge) | giriş | isim (e) | Der Eingang ist hinten. | Giriş arkada.
+die Garage (die Garagen) | garaj | isim (d) | Das Auto steht in der Garage. | Araba garajda.
+## Mobilya
+das Bett (die Betten) | yatak | isim (o) | Das Bett ist sehr bequem. | Yatak çok rahat.
+der Schrank (die Schränke) | dolap | isim (e) | Die Kleider sind im Schrank. | Elbiseler dolapta.
+das Sofa (die Sofas) | kanepe | isim (o) | Wir haben ein neues Sofa. | Yeni bir kanepemiz var.
+das Regal (die Regale) | raf | isim (o) | Die Bücher stehen im Regal. | Kitaplar rafta duruyor.
+der Sessel (die Sessel) | koltuk | isim (e) | Opa sitzt im Sessel und liest. | Dedem koltukta oturup okuyor.
+der Teppich (die Teppiche) | halı | isim (e) | Der Teppich kommt aus der Türkei. | Halı Türkiye'den.
+die Lampe (die Lampen) | lamba | isim (d) | Die Lampe über dem Tisch ist neu. | Masanın üstündeki lamba yeni.
+der Spiegel (die Spiegel) | ayna | isim (e) | Im Flur hängt ein großer Spiegel. | Koridorda büyük bir ayna asılı.
+der Vorhang (die Vorhänge) | perde | isim (e) | Mach bitte den Vorhang zu. | Lütfen perdeyi kapat.
+das Bild (die Bilder) | resim, tablo | isim (o) | Das Bild ist von meiner Tochter. | Resmi kızım yaptı.
+## Mutfakta
+der Kühlschrank (die Kühlschränke) | buzdolabı | isim (e) | Die Milch ist im Kühlschrank. | Süt buzdolabında.
+der Herd (die Herde) | ocak | isim (e) | Die Suppe steht auf dem Herd. | Çorba ocakta.
+der Backofen (die Backöfen) | fırın (mutfak) | isim (e) | Der Kuchen ist im Backofen. | Kek fırında.
+die Spülmaschine (die Spülmaschinen) | bulaşık makinesi | isim (d) | Die Spülmaschine ist voll. | Bulaşık makinesi dolu.
+die Mikrowelle (die Mikrowellen) | mikrodalga fırın | isim (d) | Ich wärme das Essen in der Mikrowelle. | Yemeği mikrodalgada ısıtıyorum.
+die Kaffeemaschine (die Kaffeemaschinen) | kahve makinesi | isim (d) | Die Kaffeemaschine macht Geräusche. | Kahve makinesi ses çıkarıyor.
+der Topf (die Töpfe) | tencere | isim (e) | Ich koche Nudeln im großen Topf. | Makarnayı büyük tencerede pişiriyorum.
+die Pfanne (die Pfannen) | tava | isim (d) | Die Eier sind in der Pfanne. | Yumurtalar tavada.
+der Wasserkocher (die Wasserkocher) | su ısıtıcısı, kettle | isim (e) | Der Wasserkocher ist schnell. | Su ısıtıcısı hızlı.
+der Mülleimer (die Mülleimer) | çöp kovası | isim (e) | Der Mülleimer steht unter der Spüle. | Çöp kovası eviyenin altında.
+## Sofra
+der Teller (die Teller) | tabak | isim (e) | Stell bitte die Teller auf den Tisch. | Lütfen tabakları masaya koy.
+die Tasse (die Tassen) | fincan | isim (d) | Möchtest du eine Tasse Tee? | Bir fincan çay ister misin?
+das Glas (die Gläser) | bardak; cam | isim (o) | Ein Glas Wasser, bitte. | Bir bardak su lütfen.
+die Gabel (die Gabeln) | çatal | isim (d) | Die Gabel liegt links vom Teller. | Çatal tabağın solunda.
+das Messer (die Messer) | bıçak | isim (o) | Das Messer ist sehr scharf. | Bıçak çok keskin.
+der Löffel (die Löffel) | kaşık | isim (e) | Ich brauche einen Löffel für die Suppe. | Çorba için bir kaşığa ihtiyacım var.
+die Schüssel (die Schüsseln) | kâse, kase | isim (d) | Der Salat ist in der Schüssel. | Salata kasede.
+die Flasche (die Flaschen) | şişe | isim (d) | Wir kaufen zwei Flaschen Wasser. | İki şişe su alıyoruz.
+die Serviette (die Servietten) | peçete | isim (d) | Hier ist eine Serviette für dich. | İşte sana bir peçete.
+die Kanne (die Kannen) | demlik, sürahi | isim (d) | Die Kanne Tee ist noch warm. | Demlikteki çay hâlâ sıcak.
+## Banyoda
+die Dusche (die Duschen) | duş | isim (d) | Ich bin unter der Dusche! | Duştayım!
+die Badewanne (die Badewannen) | küvet | isim (d) | Das Kind sitzt in der Badewanne. | Çocuk küvette oturuyor.
+das Waschbecken (die Waschbecken) | lavabo | isim (o) | Das Waschbecken ist sauber. | Lavabo temiz.
+die Seife (die Seifen) | sabun | isim (d) | Wasch dir die Hände mit Seife. | Ellerini sabunla yıka.
+das Handtuch (die Handtücher) | havlu | isim (o) | Das Handtuch ist noch nass. | Havlu hâlâ ıslak.
+die Zahnbürste (die Zahnbürsten) | diş fırçası | isim (d) | Ich brauche eine neue Zahnbürste. | Yeni bir diş fırçasına ihtiyacım var.
+die Zahnpasta (die Zahnpasten) | diş macunu | isim (d) | Die Zahnpasta ist leer. | Diş macunu bitti.
+das Shampoo (die Shampoos) | şampuan | isim (o) | Das Shampoo riecht nach Apfel. | Şampuan elma kokuyor.
+das Toilettenpapier | tuvalet kâğıdı | isim (o) | Wir haben kein Toilettenpapier mehr. | Tuvalet kâğıdımız kalmadı.
+der Föhn (die Föhne) | saç kurutma makinesi, fön | isim (e) | Der Föhn ist im Schrank. | Saç kurutma makinesi dolapta.
+## Ev işleri
+putzen | temizlemek | fiil | Am Samstag putzen wir die Wohnung. | Cumartesi evi temizliyoruz.
+waschen (wusch, gewaschen) | yıkamak | fiil · düzensiz | Ich wasche heute die Wäsche. | Bugün çamaşırları yıkıyorum.
+kochen | yemek pişirmek; kaynatmak | fiil | Wer kocht heute? | Bugün kim yemek yapıyor?
+spülen | bulaşık yıkamak; durulamak | fiil | Ich koche, und du spülst. | Ben yemek yaparım, sen bulaşıkları yıkarsın.
+aufräumen | toplamak, düzenlemek | fiil | Räum bitte dein Zimmer auf! | Lütfen odanı topla!
+staubsaugen | elektrik süpürgesi çekmek | fiil | Ich sauge im Wohnzimmer Staub. | Oturma odasını süpürüyorum.
+bügeln | ütülemek | fiil | Er bügelt sein Hemd. | Gömleğini ütülüyor.
+das Geschirr | bulaşık; tabak çanak | isim (o) | Das Geschirr ist noch schmutzig. | Bulaşıklar hâlâ kirli.
+die Wäsche | çamaşır | isim (d) | Die Wäsche hängt auf dem Balkon. | Çamaşırlar balkonda asılı.
+der Müll | çöp | isim (e) | Bringst du bitte den Müll raus? | Çöpü dışarı çıkarır mısın lütfen?
+## Evdeki aletler
+der Fernseher (die Fernseher) | televizyon (cihaz) | isim (e) | Der Fernseher ist zu laut. | Televizyonun sesi çok yüksek.
+das Radio (die Radios) | radyo | isim (o) | Morgens höre ich Radio. | Sabahları radyo dinlerim.
+die Heizung (die Heizungen) | kalorifer, ısıtma | isim (d) | Die Heizung ist kalt. | Kalorifer soğuk.
+das Licht (die Lichter) | ışık | isim (o) | Mach bitte das Licht an. | Lütfen ışığı aç.
+die Steckdose (die Steckdosen) | priz | isim (d) | Wo ist hier eine Steckdose? | Burada priz nerede?
+die Klingel (die Klingeln) | zil, kapı zili | isim (d) | Die Klingel funktioniert nicht. | Zil çalışmıyor.
+der Briefkasten (die Briefkästen) | posta kutusu | isim (e) | Im Briefkasten ist ein Brief für dich. | Posta kutusunda sana bir mektup var.
+die Waschmaschine (die Waschmaschinen) | çamaşır makinesi | isim (d) | Die Waschmaschine steht im Bad. | Çamaşır makinesi banyoda.
+der Staubsauger (die Staubsauger) | elektrik süpürgesi | isim (e) | Der Staubsauger ist sehr laut. | Elektrik süpürgesi çok gürültülü.
+die Kerze (die Kerzen) | mum | isim (d) | Auf dem Tisch brennt eine Kerze. | Masada bir mum yanıyor.
+## Evi anlatmak
+hell | aydınlık; açık (renk) | sıfat | Die Küche ist schön hell. | Mutfak güzel aydınlık.
+dunkel | karanlık; koyu | sıfat | Im Winter ist es früh dunkel. | Kışın erken karanlık olur.
+gemütlich | rahat, sıcacık, keyifli | sıfat | Euer Wohnzimmer ist sehr gemütlich. | Oturma odanız çok sıcacık.
+modern | modern | sıfat | Die Küche ist ganz modern. | Mutfak çok modern.
+neu | yeni | sıfat | Wir haben eine neue Wohnung. | Yeni bir dairemiz var.
+sauber | temiz | sıfat | Das Bad ist jetzt sauber. | Banyo şimdi temiz.
+schmutzig | kirli | sıfat | Deine Schuhe sind schmutzig. | Ayakkabıların kirli.
+bequem | rahat (eşya) | sıfat | Das Sofa ist bequem. | Kanepe rahat.
+laut | gürültülü; yüksek sesle | sıfat | Die Straße ist sehr laut. | Cadde çok gürültülü.
+praktisch | pratik, kullanışlı | sıfat | Der Schrank ist klein, aber praktisch. | Dolap küçük ama kullanışlı.
+## Eşyaları yerleştirmek
+liegen (lag, gelegen) | yatmak; (yatay) durmak | fiil · düzensiz | Das Handy liegt auf dem Tisch. | Telefon masanın üstünde.
+stehen (stand, gestanden) | (dik) durmak; ayakta durmak | fiil · düzensiz | Die Vase steht auf dem Regal. | Vazo rafta duruyor.
+hängen | asılı olmak; asmak | fiil | Die Jacke hängt an der Tür. | Ceket kapıda asılı.
+stellen | (dik) koymak, yerleştirmek | fiil | Ich stelle die Flasche in den Kühlschrank. | Şişeyi buzdolabına koyuyorum.
+legen | (yatay) koymak, bırakmak | fiil | Leg das Buch auf den Tisch. | Kitabı masaya koy.
+öffnen | açmak | fiil | Kannst du das Fenster öffnen? | Pencereyi açabilir misin?
+schließen (schloss, geschlossen) | kapatmak; kilitlemek | fiil · düzensiz | Bitte schließ die Tür. | Lütfen kapıyı kapat.
+auf | üstünde, üstüne | edat | Die Katze schläft auf dem Sofa. | Kedi kanepenin üstünde uyuyor.
+unter | altında, altına | edat | Der Ball ist unter dem Bett. | Top yatağın altında.
+neben | yanında, yanına | edat | Das Bad ist neben dem Schlafzimmer. | Banyo yatak odasının yanında.
