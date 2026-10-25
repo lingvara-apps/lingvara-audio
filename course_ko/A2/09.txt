@@ -1,0 +1,111 @@
+# UNIT: Hizmetler ve alışveriş | Banka, ödeme, kargo, kuaför, giyim, internetten alışveriş
+## Bankada
+계좌 (gyejwa) | banka hesabı | isim | 은행에서 계좌를 만들었어요. (Eunhaengeseo gyejwareul mandeureosseoyo.) | Bankada hesap açtım.
+통장 (tongjang) | banka cüzdanı, hesap defteri | isim | 통장에 월급이 들어왔어요. (Tongjange wolgeubi deureowasseoyo.) | Maaş hesaba yattı.
+입금하다 (ipgeumhada) | para yatırmak | fiil | 현금을 통장에 입금했어요. (Hyeongeumeul tongjange ipgeumhaesseoyo.) | Nakit parayı hesaba yatırdım.
+출금하다 (chulgeumhada) | para çekmek | fiil | 십만 원을 출금했어요. (Simman woneul chulgeumhaesseoyo.) | Yüz bin won çektim.
+송금하다 (songgeumhada) | para göndermek (havale) | fiil | 부모님께 돈을 송금했어요. (Bumonimkke doneul songgeumhaesseoyo.) | Anne babama para gönderdim.
+이체하다 (ichehada) | hesaba havale etmek | fiil | 월세를 집주인 계좌로 이체했어요. (Wolsereul jipjuin gyejwaro ichehaesseoyo.) | Kirayı ev sahibinin hesabına havale ettim.
+비밀번호 (bimilbeonho) | şifre | isim | 비밀번호를 잊어버렸어요. (Bimilbeonhoreul ijeobeoryeosseoyo.) | Şifremi unuttum.
+현금인출기 (hyeongeuminchulgi) | ATM, bankamatik | isim | 근처에 현금인출기가 있어요? (Geuncheoe hyeongeuminchulgiga isseoyo?) | Yakınlarda bankamatik var mı?
+대출 (daechul) | kredi, borç (banka) | isim | 집을 사려고 대출을 받았어요. (Jibeul saryeogo daechureul badasseoyo.) | Ev almak için kredi çektim.
+이자 (ija) | faiz | isim | 이 통장은 이자가 높아요. (I tongjangeun ijaga nopayo.) | Bu hesabın faizi yüksek.
+## Ödeme
+잔액 (janaek) | bakiye | isim | 교통카드 잔액이 부족해요. (Gyotongkadeu janaegi bujokaeyo.) | Ulaşım kartının bakiyesi yetersiz.
+금액 (geumaek) | tutar, meblağ | isim | 결제 금액을 확인해 주세요. (Gyeolje geumaegeul hwaginhae juseyo.) | Ödeme tutarını kontrol edin.
+지불하다 (jiburhada) | ödemek | fiil | 숙박비는 현금으로 지불했어요. (Sukbakbineun hyeongeumeuro jiburhaesseoyo.) | Konaklama ücretini nakit ödedim.
+결제하다 (gyeoljehada) | ödeme yapmak (kartla, online) | fiil | 휴대폰으로 결제할 수 있어요. (Hyudaeponeuro gyeoljehal su isseoyo.) | Cep telefonuyla ödeme yapabilirsiniz.
+할부 (halbu) | taksit | isim | 삼 개월 할부로 해 주세요. (Sam gaewol halburo hae juseyo.) | Üç taksit yapın lütfen.
+일시불 (ilsibul) | tek çekim | isim | 일시불로 결제할게요. (Ilsibullo gyeoljehalgeyo.) | Tek çekim ödeyeceğim.
+신용카드 (sinyongkadeu) | kredi kartı | isim | 신용카드를 너무 많이 써요. (Sinyongkadeureul neomu mani sseoyo.) | Kredi kartını çok fazla kullanıyorum.
+체크카드 (chekeukadeu) | banka kartı | isim | 저는 체크카드만 써요. (Jeoneun chekeukadeuman sseoyo.) | Ben sadece banka kartı kullanırım.
+포인트 (pointeu) | puan (sadakat) | isim | 포인트로 커피를 샀어요. (Pointeuro keopireul sasseoyo.) | Puanlarla kahve aldım.
+적립하다 (jeongnipada) | puan biriktirmek | fiil | 포인트 적립해 드릴까요? (Pointeu jeongnipae deurilkkayo?) | Puan biriktirelim mi?
+## Posta ve kargo
+소포 (sopo) | koli, paket (posta) | isim | 친구에게 소포를 보냈어요. (Chinguege soporeul bonaesseoyo.) | Arkadaşıma koli gönderdim.
+편지 (pyeonji) | mektup | isim | 할머니께 편지를 썼어요. (Halmeonikke pyeonjireul sseosseoyo.) | Büyükanneme mektup yazdım.
+우표 (upyo) | posta pulu | isim | 편지 봉투에 우표를 붙였어요. (Pyeonji bongtue upyoreul buchyeosseoyo.) | Mektup zarfına pul yapıştırdım.
+엽서 (yeopseo) | kartpostal | isim | 여행지에서 엽서를 보냈어요. (Yeohaengjieseo yeopseoreul bonaesseoyo.) | Gezdiğim yerden kartpostal gönderdim.
+배송 (baesong) | teslimat, gönderim | isim | 배송은 이삼 일 걸려요. (Baesongeun isam il geollyeoyo.) | Teslimat iki üç gün sürer.
+무게 (muge) | ağırlık | isim | 소포 무게가 얼마예요? (Sopo mugega eolmayeyo?) | Kolinin ağırlığı ne kadar?
+등기 (deunggi) | taahhütlü posta | isim | 중요한 서류라서 등기로 보냈어요. (Jungyohan seoryuraseo deunggiro bonaesseoyo.) | Önemli belge olduğu için taahhütlü gönderdim.
+우편번호 (upyeonbeonho) | posta kodu | isim | 우편번호를 정확히 쓰세요. (Upyeonbeonhoreul jeonghwaki sseuseyo.) | Posta kodunu doğru yazın.
+주문 (jumun) | sipariş | isim | 주문하신 물건이 도착했습니다. (Jumunhasin mulgeoni dochakaetseumnida.) | Sipariş ettiğiniz ürün geldi.
+반품 (banpum) | ürün iadesi | isim | 사이즈가 안 맞아서 반품했어요. (Saijeuga an majaseo banpumhaesseoyo.) | Beden uymadığı için iade ettim.
+## Kuaförde
+미용실 (miyongsil) | kuaför salonu | isim | 미용실에 예약했어요. (Miyongsire yeyakaesseoyo.) | Kuaföre randevu aldım.
+미용사 (miyongsa) | kuaför (kişi) | isim | 미용사가 머리를 예쁘게 잘라 줬어요. (Miyongsaga meorireul yeppeuge jalla jwosseoyo.) | Kuaför saçımı güzel kesti.
+자르다 (jareuda) | kesmek (잘라요) | fiil · düzensiz | 머리를 짧게 잘랐어요. (Meorireul jjalge jallasseoyo.) | Saçımı kısa kestirdim.
+파마 (pama) | perma | isim | 이번에 파마를 해 보고 싶어요. (Ibeone pamareul hae bogo sipeoyo.) | Bu sefer perma yaptırmak istiyorum.
+염색하다 (yeomsaekada) | saç boyatmak | fiil | 머리를 갈색으로 염색했어요. (Meorireul galsaegeuro yeomsaekaesseoyo.) | Saçımı kahverengiye boyattım.
+앞머리 (ammeori) | kâkül, perçem | isim | 앞머리만 조금 잘라 주세요. (Ammeoriman jogeum jalla juseyo.) | Sadece kâkülümü biraz kesin.
+커트 (keoteu) | saç kesimi | isim | 커트는 얼마예요? (Keoteuneun eolmayeyo?) | Saç kesimi ne kadar?
+다듬다 (dadeumda) | düzeltmek, uçlarını almak | fiil | 끝만 살짝 다듬어 주세요. (Kkeunman saljjak dadeumeo juseyo.) | Sadece uçlarını hafifçe alın.
+스타일 (seutail) | tarz, model | isim | 이 스타일로 해 주세요. (I seutaillo hae juseyo.) | Bu modelde yapın lütfen.
+이발소 (ibalso) | berber | isim | 할아버지는 동네 이발소에 다니세요. (Harabeojineun dongne ibalsoe daniseyo.) | Dedem mahalledeki berbere gider.
+## Bakım ve kozmetik
+화장품 (hwajangpum) | kozmetik ürün | isim | 한국 화장품은 인기가 많아요. (Hanguk hwajangpumeun ingiga manayo.) | Kore kozmetikleri çok popüler.
+화장하다 (hwajanghada) | makyaj yapmak | fiil | 아침에 화장하는 데 십 분 걸려요. (Achime hwajanghaneun de sip bun geollyeoyo.) | Sabah makyaj yapmak on dakika sürüyor.
+립스틱 (ripseutik) | ruj | isim | 빨간 립스틱이 잘 어울려요. (Ppalgan ripseutigi jal eoullyeoyo.) | Kırmızı ruj sana çok yakışıyor.
+로션 (rosyeon) | losyon | isim | 세수하고 로션을 발라요. (Sesuhago rosyeoneul ballayo.) | Yüzümü yıkayıp losyon sürüyorum.
+선크림 (seonkeurim) | güneş kremi | isim | 밖에 나가기 전에 선크림을 바르세요. (Bakke nagagi jeone seonkeurimeul bareuseyo.) | Dışarı çıkmadan önce güneş kremi sürün.
+향수 (hyangsu) | parfüm | isim | 이 향수 냄새가 좋아요. (I hyangsu naemsaega joayo.) | Bu parfümün kokusu güzel.
+손톱 (sontop) | tırnak (el) | isim | 손톱을 짧게 깎았어요. (Sontobeul jjalge kkakkasseoyo.) | Tırnaklarımı kısa kestim.
+면도하다 (myeondohada) | tıraş olmak | fiil | 아빠는 매일 아침 면도해요. (Appaneun maeil achim myeondohaeyo.) | Babam her sabah tıraş olur.
+마사지 (masaji) | masaj | isim | 어깨 마사지를 받았어요. (Eokkae masajireul badasseoyo.) | Omuz masajı yaptırdım.
+렌즈 (renjeu) | kontakt lens | isim | 안경 대신 렌즈를 껴요. (Angyeong daesin renjeureul kkyeoyo.) | Gözlük yerine lens takıyorum.
+## Mahalledeki dükkânlar
+세탁소 (setakso) | kuru temizleme | isim | 정장을 세탁소에 맡겼어요. (Jeongjangeul setaksoe matgyeosseoyo.) | Takım elbiseyi kuru temizlemeye verdim.
+수선하다 (suseonhada) | (giysi) tamir etmek, tadilat yapmak | fiil | 바지 길이를 수선했어요. (Baji girireul suseonhaesseoyo.) | Pantolonun boyunu kısalttırdım.
+사진관 (sajingwan) | fotoğrafçı (stüdyo) | isim | 사진관에서 여권 사진을 찍었어요. (Sajingwaneseo yeogwon sajineul jjigeosseoyo.) | Fotoğrafçıda vesikalık çektirdim.
+주유소 (juyuso) | benzin istasyonu | isim | 주유소에서 기름을 넣었어요. (Juyusoeseo gireumeul neoeosseoyo.) | Benzinlikte depoyu doldurdum.
+세차 (secha) | araba yıkama | isim | 주말에 세차를 했어요. (Jumare sechareul haesseoyo.) | Hafta sonu arabayı yıkattım.
+정비소 (jeongbiso) | oto tamirhanesi | isim | 차가 고장 나서 정비소에 갔어요. (Chaga gojang naseo jeongbisoe gasseoyo.) | Araba bozulunca tamirhaneye gittim.
+안경점 (angyeongjeom) | gözlükçü | isim | 안경점에서 새 안경을 맞췄어요. (Angyeongjeomeseo sae angyeongeul matchwosseoyo.) | Gözlükçüde yeni gözlük yaptırdım.
+꽃집 (kkotjip) | çiçekçi | isim | 꽃집에서 장미 한 다발을 샀어요. (Kkotjibeseo jangmi han darareul sasseoyo.) | Çiçekçiden bir demet gül aldım.
+빵집 (ppangjip) | fırın, pastane | isim | 아침마다 빵집 앞에서 좋은 냄새가 나요. (Achimmada ppangjip apeseo joeun naemsaega nayo.) | Her sabah fırının önünde güzel koku olur.
+철물점 (cheolmuljeom) | nalbur | isim | 철물점에서 못을 샀어요. (Cheolmuljeomeseo moseul sasseoyo.) | Nalburdan çivi aldım.
+## Giysiler
+청바지 (cheongbaji) | kot pantolon | isim | 저는 청바지를 자주 입어요. (Jeoneun cheongbajireul jaju ibeoyo.) | Sık sık kot giyerim.
+정장 (jeongjang) | takım elbise | isim | 면접 때 정장을 입었어요. (Myeonjeop ttae jeongjangeul ibeosseoyo.) | Mülakatta takım elbise giydim.
+블라우스 (beullauseu) | bluz | isim | 하얀 블라우스가 깔끔해 보여요. (Hayan beullauseuga kkalkkeumhae boyeoyo.) | Beyaz bluz derli toplu görünüyor.
+조끼 (jokki) | yelek | isim | 추우면 조끼를 입으세요. (Chuumyeon jokkireul ibeuseyo.) | Üşürseniz yelek giyin.
+반바지 (banbaji) | şort | isim | 여름에는 반바지를 입어요. (Yeoreumeneun banbajireul ibeoyo.) | Yazın şort giyerim.
+잠옷 (jamot) | pijama | isim | 잠옷으로 갈아입었어요. (Jamoseuro garaibeosseoyo.) | Pijamalarımı giydim.
+수영복 (suyeongbok) | mayo | isim | 수영복을 챙겼어요? (Suyeongbogeul chaenggyeosseoyo?) | Mayonu aldın mı?
+패딩 (paeding) | şişme mont | isim | 한국 겨울에는 긴 패딩이 필요해요. (Hanguk gyeoureneun gin paedingi piryohaeyo.) | Kore kışında uzun şişme mont gerekli.
+후드티 (hudeuti) | kapüşonlu sweatshirt | isim | 편한 후드티를 입고 나갔어요. (Pyeonhan hudeutireul ipgo nagasseoyo.) | Rahat bir kapüşonlu giyip çıktım.
+카디건 (kadigeon) | hırka | isim | 저녁에는 쌀쌀해서 카디건을 챙겨요. (Jeonyeogeneun ssalssalhaeseo kadigeoneul chaenggyeoyo.) | Akşamları serin olduğu için hırka alıyorum.
+## Giysi ayrıntıları
+소매 (somae) | kol (giysi) | isim | 소매를 조금 줄여 주세요. (Somaereul jogeum juryeo juseyo.) | Kolları biraz kısaltın.
+주머니 (jumeoni) | cep | isim | 열쇠를 주머니에 넣었어요. (Yeolsoereul jumeonie neoeosseoyo.) | Anahtarı cebime koydum.
+단추 (danchu) | düğme | isim | 셔츠 단추가 떨어졌어요. (Syeocheu danchuga tteoreojyeosseoyo.) | Gömleğin düğmesi koptu.
+지퍼 (jipeo) | fermuar | isim | 가방 지퍼가 고장 났어요. (Gabang jipeoga gojang nasseoyo.) | Çantanın fermuarı bozuldu.
+옷걸이 (otgeori) | askı (elbise) | isim | 코트를 옷걸이에 걸어 주세요. (Koteureul otgeorie georeo juseyo.) | Paltoyu askıya asın.
+면 (myeon) | pamuk (kumaş) | isim | 이 티셔츠는 면 백 퍼센트예요. (I tisyeocheuneun myeon baek peosenteuyeyo.) | Bu tişört yüzde yüz pamuk.
+가죽 (gajuk) | deri | isim | 가죽 재킷이 멋있어요. (Gajuk jaekisi meosisseoyo.) | Deri ceket çok havalı.
+줄무늬 (julmunui) | çizgili desen | isim | 줄무늬 셔츠를 샀어요. (Julmunui syeocheureul sasseoyo.) | Çizgili bir gömlek aldım.
+벨트 (belteu) | kemer | isim | 바지가 커서 벨트를 했어요. (Bajiga keoseo belteureul haesseoyo.) | Pantolon bol olduğu için kemer taktım.
+넥타이 (nektai) | kravat | isim | 아버지 생신 선물로 넥타이를 샀어요. (Abeoji saengsin seonmullo nektaireul sasseoyo.) | Babamın doğum gününe hediye olarak kravat aldım.
+## İnternetten alışveriş
+쇼핑몰 (syopingmol) | alışveriş sitesi; AVM | isim | 인터넷 쇼핑몰에서 옷을 샀어요. (Inteonet syopingmoreseo oseul sasseoyo.) | İnternetteki bir alışveriş sitesinden giysi aldım.
+장바구니 (jangbaguni) | alışveriş sepeti; file | isim | 장바구니에 신발을 담았어요. (Jangbagunie sinbareul damasseoyo.) | Ayakkabıyı sepete ekledim.
+배송비 (baesongbi) | kargo ücreti | isim | 삼만 원 이상 사면 배송비가 무료예요. (Samman won isang samyeon baesongbiga muryoyeyo.) | Otuz bin won üstü alışverişte kargo ücretsiz.
+후기 (hugi) | kullanıcı yorumu | isim | 사기 전에 후기를 꼭 읽어요. (Sagi jeone hugireul kkok ilgeoyo.) | Almadan önce mutlaka yorumları okurum.
+쿠폰 (kupon) | kupon | isim | 할인 쿠폰을 사용했어요. (Harin kuponeul sayonghaesseoyo.) | İndirim kuponu kullandım.
+새벽 배송 (saebyeok baesong) | sabah erken teslimat | isim | 새벽 배송으로 우유를 시켰어요. (Saebyeok baesongeuro uyureul sikyeosseoyo.) | Sabah erken teslimatla süt sipariş ettim.
+직구 (jikgu) | yurt dışından doğrudan alışveriş | isim | 해외 직구로 운동화를 샀어요. (Haeoe jikguro undonghwareul sasseoyo.) | Spor ayakkabıyı yurt dışından doğrudan aldım.
+정품 (jeongpum) | orijinal ürün | isim | 이 가방은 정품이에요? (I gabangeun jeongpumieyo?) | Bu çanta orijinal mi?
+중고 (junggo) | ikinci el | isim | 중고 자전거를 싸게 샀어요. (Junggo jajeongeoreul ssage sasseoyo.) | İkinci el bisikleti ucuza aldım.
+사은품 (saeunpum) | promosyon hediyesi | isim | 화장품을 사서 사은품을 받았어요. (Hwajangpumeul saseo saeunpumeul badasseoyo.) | Kozmetik alınca yanında hediye verdiler.
+## Hizmet almak
+맡기다 (matgida) | emanet etmek, bırakmak | fiil | 짐을 호텔에 맡겼어요. (Jimeul hotere matgyeosseoyo.) | Bavulu otele emanet ettim.
+찾아가다 (chajagada) | gidip almak; ziyarete gitmek | fiil | 세탁물은 내일 찾아가세요. (Setakmureun naeil chajagaseyo.) | Çamaşırlarınızı yarın gelip alın.
+번호표 (beonhopyo) | sıra numarası fişi | isim | 은행에서 번호표를 뽑았어요. (Eunhaengeseo beonhopyoreul ppobasseoyo.) | Bankada sıra numarası aldım.
+차례 (charye) | sıra | isim | 이제 제 차례예요. (Ije je charyeyeyo.) | Şimdi sıra bende.
+줄을 서다 (jureul seoda) | sıraya girmek | ifade | 맛집 앞에서 한 시간 줄을 섰어요. (Matjip apeseo han sigan jureul seosseoyo.) | Ünlü lokantanın önünde bir saat sıra bekledik.
+서비스 (seobiseu) | hizmet; ikram (bedava) | isim | 이 음료수는 서비스예요. (I eumnyosuneun seobiseuyeyo.) | Bu içecek bizden ikram.
+직접 (jikjeop) | bizzat, doğrudan | zarf | 직접 가서 신청해야 해요. (Jikjeop gaseo sincheonghaeya haeyo.) | Bizzat gidip başvurmanız gerekiyor.
+고객센터 (gogaeksenteo) | müşteri hizmetleri | isim | 고객센터에 전화해서 물어봤어요. (Gogaeksenteoe jeonhwahaeseo mureobwasseoyo.) | Müşteri hizmetlerini arayıp sordum.
+문의하다 (munuihada) | soruşturmak, bilgi almak | fiil | 자세한 사항은 이메일로 문의하세요. (Jasehan sahangeun imeillo munuihaseyo.) | Ayrıntılar için e-postayla bilgi alın.
+불만 (bulman) | memnuniyetsizlik, şikâyet | isim | 서비스에 불만이 있어요. (Seobiseue bulmani isseoyo.) | Hizmetten memnun değilim.
