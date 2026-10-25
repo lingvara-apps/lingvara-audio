@@ -12,44 +12,44 @@
 ? Hangi cümle passé simple içerir? | Elle chanta toute la nuit. | Elle chantait toute la nuit. | Elle a chanté toute la nuit.
 ? Il ___ (faire) froid quand ils arrivèrent au village. (arka plan) | faisait | fit | fut
 
-# TOPIC: Subjonctif Passé ve Zaman Uyumu | je suis content qu'il soit venu
-> Subjonctif passé, avoir/être'nin subjonctif présent'i + geçmiş ortaçla kurulur: que j'aie fini, qu'elle soit partie. Ana cümledeki eylemden ÖNCE tamamlanmış bir eylemi anlatır.
-> Ana cümledeki eylemle aynı anda ya da sonra olan eylem için subjonctif présent kullanılır: Je doute qu'il vienne (gelecek mi). Önce olmuşsa subjonctif passé: Je doute qu'il soit venu (geldi mi).
-= Je suis ravie que tu aies réussi ton examen. | Sınavını geçmene çok sevindim.
-= Il est possible qu'elle soit déjà partie. | Çoktan gitmiş olması mümkün.
-= Bien qu'il ait beaucoup travaillé, il a échoué. | Çok çalışmış olmasına rağmen başarısız oldu.
-= Je ne crois pas qu'il ait bien compris la question. | Soruyu iyi anladığını sanmıyorum.
-? Je regrette que vous ___ (ne pas pouvoir) venir hier. | n'ayez pas pu | ne pouvez pas | ne pourriez pas
-? Subjonctif passé nasıl kurulur? | avoir/être subjonctif présent + geçmiş ortaç | avoir/être imparfait + mastar | avoir/être futur + geçmiş ortaç
-? Elle est triste que son ami ___ (partir) la semaine dernière. | soit parti | parte | est parti
-? "Bitirmiş olmanı bekliyorum" hangisidir? | J'attends que tu aies fini. | J'attends que tu finisses demain. | J'attends que tu as fini.
-? Il faut que ce rapport ___ (être terminé) avant lundi. | soit terminé | est terminé | serait terminé
+# TOPIC: Subjonctif mi, Indicatif mi? İnce Farklar | je crois qu'il vient / je ne crois pas qu'il vienne
+> Görüş fiilleri (croire, penser, trouver) olumluyken indicatif, olumsuz ya da soru biçimindeyken çoğunlukla subjonctif alır: Je pense qu'il a raison / Je ne pense pas qu'il ait raison. Espérer indicatif alır, souhaiter subjonctif.
+> Il semble que + subjonctif (kuşku), il me semble que + indicatif (kanaat). Le seul, le premier, l'unique, le meilleur sonrasında ilgi cümlesi öznel bir değerlendirmeyse subjonctif: C'est le seul qui puisse m'aider.
+= J'espère que tu viendras demain. | Yarın geleceğini umuyorum.
+= Je souhaite que tu viennes demain. | Yarın gelmeni dilerim.
+= Il me semble qu'il a beaucoup changé. | Bana çok değişmiş gibi geliyor.
+= Il semble qu'il ait beaucoup changé. | Görünüşe göre çok değişmiş.
+? J'espère qu'elle ___ (aller) mieux. | va | aille | alle
+? Je ne crois pas qu'il ___ (savoir) la vérité. | sache | sait | savait
+? Il me semble que vous ___ (avoir) raison. | avez | ayez | eussiez
+? C'est le seul livre qui ___ (pouvoir) l'intéresser. | puisse | peut être | pouvait-il
+? Penses-tu qu'il ___ (être) sincère ? (resmî soru) | soit | est-il | serait-ce
 
-# TOPIC: Dolaylı Anlatımda Zaman Uyumu | il a dit qu'il viendrait, elle a demandé si j'avais fini
-> Ana fiil geçmişteyse (il a dit, elle a expliqué), aktarılan cümlenin zamanı kayar: présent → imparfait, passé composé → plus-que-parfait, futur → conditionnel présent, futur antérieur → conditionnel passé.
-> Zaman ve yer belirteçleri de değişir: aujourd'hui → ce jour-là, demain → le lendemain, hier → la veille, ici → là. Soru aktarımında est-ce que → si, qu'est-ce que → ce que.
-= « Je suis fatigué. » → Il a dit qu'il était fatigué. | « Yorgunum. » → Yorgun olduğunu söyledi.
-= « J'ai perdu mes clés. » → Elle a expliqué qu'elle avait perdu ses clés. | « Anahtarlarımı kaybettim. » → Anahtarlarını kaybettiğini açıkladı.
-= « Je partirai demain. » → Il a annoncé qu'il partirait le lendemain. | « Yarın gideceğim. » → Ertesi gün gideceğini duyurdu.
-= « Qu'est-ce que tu veux ? » → Elle m'a demandé ce que je voulais. | « Ne istiyorsun? » → Bana ne istediğimi sordu.
-? « Je viendrai. » → Il a promis qu'il ___. | viendrait | viendra | venait
-? « Nous avons fini. » → Ils ont dit qu'ils ___ fini. | avaient | ont | auraient
-? « Demain » dolaylı anlatımda (geçmiş) neye dönüşür? | le lendemain | la veille | ce jour-là
-? « Est-ce que tu as faim ? » → Il m'a demandé ___ j'avais faim. | si | que | ce que
-? « Quand j'aurai terminé, je t'appellerai. » → Elle a dit qu'elle m'appellerait quand elle ___ terminé. | aurait | aura | avait eu
+# TOPIC: Varsayım ve Aktarılan Bilgi Kipi | il aura oublié, le suspect aurait fui
+> Futur antérieur geçmişe ilişkin bir tahmin de bildirebilir: Il n'est pas là ? Il aura oublié le rendez-vous (herhalde unutmuştur). Aynı biçimde futur simple şimdiye dair tahmin bildirir: On sonne, ce sera le facteur.
+> Gazete dilinde conditionnel, doğrulanmamış bilgiyi aktarır (« conditionnel journalistique »): Le suspect aurait fui à l'étranger (yurt dışına kaçtığı ileri sürülüyor). Geçmiş için conditionnel passé, şimdi için conditionnel présent kullanılır.
+= Elle n'a pas répondu ; elle aura laissé son téléphone au bureau. | Cevap vermedi; telefonunu ofiste unutmuş olmalı.
+= Selon la police, l'incendie serait d'origine criminelle. | Polise göre yangın kundaklama sonucu çıkmış olabilir.
+= Le ministre aurait démissionné hier soir, selon plusieurs sources. | Birçok kaynağa göre bakan dün akşam istifa etmiş.
+= On frappe à la porte : ce sera sans doute ta sœur. | Kapı çalınıyor: herhalde kız kardeşindir.
+? « Il aura raté son train » ne anlama gelir? | Herhalde trenini kaçırmıştır. | Trenini kaçıracak. | Trenini kaçırmalıydı.
+? Gazete dilinde « Le joueur serait blessé » ne bildirir? | Doğrulanmamış bir bilgi | Kesin bir olgu | Bir emir
+? Selon des témoins, le voleur ___ (s'enfuir) par la fenêtre. | se serait enfui | s'est enfuirait | s'enfuira été
+? On sonne à neuf heures ; ce ___ (être) le plombier. (tahmin) | sera | soit | était été
+? Hangisi conditionnel passé'dir? | aurait fui | aura fui | avait fui
 
-# TOPIC: Participe Présent, Gérondif ve Fiilden Sıfat | en marchant, convainquant / convaincant
-> Participe présent (-ant) değişmezdir ve yazılı dilde ilgi cümlesinin yerini tutar: les étudiants parlant français = qui parlent français. Gérondif (en + -ant) aynı özneye ait eşzamanlılık, yöntem ya da koşul bildirir: Il chante en travaillant.
-> Fiilden türeyen sıfat (adjectif verbal) uyum gösterir ve bazen farklı yazılır: convainquant / convaincant, fatiguant / fatigant, négligeant / négligent, précédant / précédent.
-= En lisant chaque soir, elle a beaucoup enrichi son vocabulaire. | Her akşam okuyarak kelime dağarcığını çok zenginleştirdi.
-= Les candidats possédant un permis de conduire seront prioritaires. | Ehliyeti olan adaylara öncelik verilecek.
-= Le trajet était fatigant, mais les paysages étaient magnifiques. | Yolculuk yorucuydu ama manzaralar muhteşemdi.
-= Ayant terminé son discours, le ministre quitta la salle. | Konuşmasını bitirmiş olan bakan salondan ayrıldı.
-? Il s'est cassé la jambe ___ du ski. | en faisant | en fait | faisant de
-? Doğru yazım hangisidir? « Ses arguments sont très ___. » | convaincants | convainquants | convaincant
-? Gérondif hangi durumda kullanılabilir? | İki eylemin öznesi aynı olduğunda | İki eylemin öznesi farklı olduğunda | Yalnızca geçmiş zamanda
-? « Les enfants qui jouent dans la cour » yazılı dilde nasıl kısaltılır? | les enfants jouant dans la cour | les enfants en jouant dans la cour | les enfants jouants dans la cour
-? « Önceki gün » anlamında doğru yazım hangisidir? | le jour précédent | le jour précédant | le jour précèdent
+# TOPIC: Geçmiş Ortacın Uyumu: İleri Durumlar | les lettres qu'il a écrites, elle s'est lavé les mains
+> Avoir ile çekimde ortaç, kendinden ÖNCE gelen düz tümleçle uyuşur: les fleurs que j'ai achetées; ces photos, je les ai vues. Tümleç sonra gelirse uyum olmaz: j'ai acheté des fleurs. En zamiriyle uyum yapılmaz: des pommes, j'en ai mangé.
+> Dönüşlü fiillerde dönüşlü zamir düz tümleç ise uyum olur (elle s'est lavée), ama arkadan bir düz tümleç gelirse olmaz (elle s'est lavé les mains). Fait + mastar daima değişmezdir: la maison qu'il a fait construire.
+= Voici les lettres qu'elle m'a envoyées de Dakar. | İşte Dakar'dan bana gönderdiği mektuplar.
+= Elles se sont parlé pendant des heures. | Saatlerce konuştular.
+= La robe qu'elle s'est fait faire est magnifique. | Diktirdiği elbise muhteşem.
+= Des erreurs, il en a commis beaucoup. | Hata mı, çok yaptı.
+? Les chansons que nous avons ___ (chanter) étaient anciennes. | chantées | chanté | chantés
+? Elle s'est ___ (couper) le doigt. | coupé | coupée | coupés
+? La voiture qu'il a ___ (faire) réparer coûte cher. | fait | faite | faits
+? Ils se sont ___ (téléphoner) hier soir. | téléphoné | téléphonés | téléphonées
+? Ces films, je les ai tous ___ (voir). | vus | vu | vues
 
 # TOPIC: Vurgulama ve Öge Öne Alma | c'est lui qui…, ce que j'aime, c'est…, moi, je…
 > Fransızcada bir ögeyi öne çıkarmak için c'est … qui (özne) ve c'est … que (diğer ögeler) yapıları kullanılır: C'est Anna qui a gagné. C'est à Lyon que je l'ai rencontré.
