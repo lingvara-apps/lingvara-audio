@@ -16,7 +16,7 @@ sel | flood | isim | Şiddetli yağmurdan sonra dere taştı ve köyü sel bast�
 orman yangını | forest fire | isim | Yaz aylarında Akdeniz kıyısında sık sık orman yangınları çıkıyor. | Forest fires often break out on the Mediterranean coast in summer.
 heyelan | landslide | isim | Karadeniz'de yağmurlardan sonra bir heyelan yolu tamamen kapattı. | After the rains in the Black Sea region, a landslide completely blocked the road.
 çığ | avalanche | isim | Dağcılara bölgede çığ tehlikesi olduğu konusunda uyarı yapıldı. | The climbers were warned that there was a risk of avalanches in the area.
-kasırga | hurricane | isim | Kasırga, adadaki evlerin çatılarını uçurdu. | The hurricane blew the roofs off the houses on the island.
+kasırga | hurricane | isim | Dün geceki kasırga, adadaki evlerin neredeyse hepsinin çatısını uçurdu. | Last night's hurricane blew the roofs off almost all the houses on the island.
 hortum | tornado; waterspout; hose | isim | Denizde oluşan hortum sahile ulaşınca birkaç ağacı devirdi. | When the waterspout that formed at sea reached the shore, it knocked down several trees.
 tsunami | tsunami | isim | Büyük depremden sonra kıyı kasabalarına tsunami uyarısı yapıldı. | After the big earthquake a tsunami warning was issued for the coastal towns.
 artçı sarsıntı | aftershock | isim | Depremden sonraki gece onlarca artçı sarsıntı hissedildi. | Dozens of aftershocks were felt on the night after the earthquake.
@@ -89,7 +89,7 @@ budamak | to prune | fiil | Dedem her kış bahçedeki zeytin ağaçlarını bud
 doğal denge | balance of nature | isim | Bir türün yok olması bütün doğal dengeyi bozabilir. | The disappearance of one species can upset the whole balance of nature.
 ## Extreme weather
 sağanak | downpour | isim | Öğleden sonra bastıran sağanak yüzünden sokaklar göle döndü. | The streets turned into lakes because of the afternoon downpour.
-kırağı | hoarfrost | isim | Sabah arabanın camlarını kırağı kaplamıştı. | In the morning the car windows were covered in frost.
+kırağı | hoarfrost | isim | Gece hava çok soğuduğu için sabah arabanın camlarını kırağı kaplamıştı. | Because it got very cold overnight, the car windows were covered in frost in the morning.
 zirai don | agricultural frost | isim | Nisandaki zirai don kayısı ağaçlarına büyük zarar verdi. | The April frost did great damage to the apricot trees.
 sıcaklık | temperature | isim | Yarın sıcaklığın otuz beş dereceye çıkması bekleniyor. | Tomorrow the temperature is expected to rise to thirty-five degrees.
 sıfırın altında | below zero | ifade | Erzurum'da gece sıcaklık sıfırın altında yirmi dereceye düştü. | In Erzurum the temperature dropped to twenty degrees below zero at night.

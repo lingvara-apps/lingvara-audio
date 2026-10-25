@@ -3,7 +3,7 @@
 sürüm | version | isim | Uygulamanın yeni sürümünde birçok hata düzeltilmiş. | Many bugs have been fixed in the new version of the app.
 kısayol | shortcut | isim | Bu programı sık kullandığım için masaüstüne bir kısayol ekledim. | I use this program often, so I added a shortcut to the desktop.
 kaldırmak | to uninstall; to remove; to lift | fiil | Telefonda yer açmak için kullanmadığım oyunları kaldırdım. | I uninstalled the games I don't use to free up space on my phone.
-depolama alanı | storage space | isim | Telefonumun depolama alanı fotoğraflarla doldu. | My phone's storage space has filled up with photos.
+depolama alanı | storage space | isim | Tatilde o kadar çok çektim ki telefonumun depolama alanı fotoğraflarla doldu. | I took so many on holiday that my phone's storage space filled up with photos.
 ücretsiz deneme | free trial | isim | Bu programı otuz günlük ücretsiz deneme ile kullanabilirsiniz. | You can use this program with a thirty-day free trial.
 sekme | tab (browser) | isim | Bilgisayarımda aynı anda yirmi sekme açık olunca çok yavaşlıyor. | My computer slows down a lot when twenty tabs are open at once.
 tarayıcı | browser; scanner | isim | Bu site eski tarayıcılarda düzgün açılmıyor. | This site doesn't open properly in old browsers.
@@ -28,7 +28,7 @@ dolandırıcılık | fraud; scam | isim | Bankanızdan geliyormuş gibi görüne
 şüpheli | suspicious; suspect | sıfat | Tanımadığın kişilerden gelen şüpheli bağlantılara asla tıklama. | Never click suspicious links from people you don't know.
 ele geçirmek | to take over; to seize | fiil | Biri sosyal medya hesabımı ele geçirip arkadaşlarımdan para istemiş. | Someone took over my social media account and asked my friends for money.
 kimlik hırsızlığı | identity theft | isim | Kimlik hırsızlığına karşı kişisel bilgilerinizi kimseyle paylaşmayın. | To protect against identity theft, don't share your personal details with anyone.
-parmak izi | fingerprint | isim | Telefonumun kilidini parmak izimle açıyorum. | I unlock my phone with my fingerprint.
+parmak izi | fingerprint | isim | Şifre hatırlamakla uğraşmamak için telefonumun kilidini parmak izimle açıyorum. | To avoid remembering passwords, I unlock my phone with my fingerprint.
 yüz tanıma | facial recognition | isim | Havalimanında pasaport kontrolü artık yüz tanıma sistemiyle yapılıyor. | At the airport passport control is now done with a facial recognition system.
 oturumu kapatmak | to log out | fiil | Ortak bilgisayarları kullandıktan sonra mutlaka oturumu kapatın. | Always log out after using shared computers.
 kilit ekranı | lock screen | isim | Kilit ekranımda kızımın bir fotoğrafı var. | There's a photo of my daughter on my lock screen.
@@ -89,7 +89,7 @@ modası geçmiş | outdated; old-fashioned | sıfat | Faks makinesi artık çoğ
 yenilikçi | innovative | sıfat | Genç ekip, çiftçiler için yenilikçi bir sulama uygulaması geliştirdi. | The young team developed an innovative irrigation app for farmers.
 ## How machines work
 makine | machine | isim | Bu makine bir saatte bin ekmek pişirebiliyor. | This machine can bake a thousand loaves an hour.
-motor | engine; motor | isim | Arabanın motoru soğukta zor çalışıyor. | The car's engine is hard to start in the cold.
+motor | engine; motor | isim | Kışın sabahları arabanın motoru soğukta çok zor çalışıyor. | On winter mornings the car's engine is very hard to start in the cold.
 mekanizma | mechanism | isim | Eski saatin içindeki küçük mekanizmayı ustaca tamir etti. | He skilfully repaired the tiny mechanism inside the old clock.
 devre | circuit | isim | Fizik dersinde pil ve ampulle basit bir elektrik devresi kurduk. | In physics class we built a simple electric circuit with a battery and a bulb.
 sensör | sensor | isim | Koridordaki ışık, sensör sayesinde biri geçince otomatik yanıyor. | Thanks to a sensor, the corridor light comes on automatically when someone passes.

@@ -9,7 +9,7 @@ kural koymak | to set a rule | fiil | Evde ekran süresiyle ilgili çocuklara ba
 ihlal etmek | to violate; to infringe | fiil | Şirket, çalışanların haklarını ihlal ettiği için ceza aldı. | The company was fined for violating its employees' rights.
 suç | crime; offence | isim | Başkasının şifresini izinsiz kullanmak da bir suçtur. | Using someone else's password without permission is also a crime.
 cezalandırmak | to punish | fiil | Okul, kavgaya karışan öğrencileri bir hafta uzaklaştırmayla cezalandırdı. | The school punished the students involved in the fight with a week's suspension.
-izinsiz | without permission; unauthorised | sıfat | Müzede izinsiz fotoğraf çekmek yasak. | Taking photos in the museum without permission is forbidden.
+izinsiz | without permission; unauthorised | sıfat | Bu müzede izinsiz fotoğraf çekmek ve video kaydetmek yasak. | In this museum, taking photos and recording video without permission is forbidden.
 ## Crime
 suçlu | criminal; guilty | isim | Polis, suçluyu kaçtıktan iki gün sonra yakaladı. | The police caught the criminal two days after he escaped.
 dolandırmak | to swindle; to con | fiil | Sahte ev ilanıyla birçok öğrenciyi dolandırmışlar. | They conned many students with a fake flat advert.
@@ -26,9 +26,9 @@ soruşturma | investigation | isim | Savcılık, fabrikadaki yangınla ilgili bi
 suç duyurusu | criminal complaint | isim | Dolandırıldığını anlayınca hemen suç duyurusunda bulundu. | When she realised she'd been conned, she immediately filed a criminal complaint.
 kimlik kontrolü | ID check | isim | Konser girişinde polis kimlik kontrolü yapıyordu. | The police were doing ID checks at the concert entrance.
 trafik polisi | traffic police officer | isim | Trafik polisi hız sınırını aştığım için beni durdurdu. | The traffic police officer stopped me for exceeding the speed limit.
-jandarma | gendarmerie | isim | Köylerde güvenliği genellikle jandarma sağlıyor. | In villages, security is usually provided by the gendarmerie.
+jandarma | gendarmerie | isim | Türkiye'de şehir dışındaki köylerde güvenliği genellikle jandarma sağlıyor. | In Turkey, security in villages outside cities is usually provided by the gendarmerie.
 el koymak | to confiscate; to seize | fiil | Polis, kaçak yollarla getirilen mallara el koydu. | The police seized the smuggled goods.
-kelepçe | handcuffs | isim | Şüpheliyi kelepçeleyip polis aracına bindirdiler. | They handcuffed the suspect and put him in the police car.
+kelepçe | handcuffs | isim | Polisler şüpheliyi kelepçe takarak hemen polis aracına bindirdi. | The police handcuffed the suspect and immediately put him in the police car.
 sorgulamak | to question; to interrogate | fiil | Dedektif, olay gecesi evde bulunan herkesi tek tek sorguladı. | The detective questioned everyone who had been in the house on the night one by one.
 iz sürmek | to track; to trail | fiil | Polis köpekleri kayıp çocuğun izini sürerek ormana girdi. | The police dogs followed the missing child's trail into the forest.
 ipucu | clue | isim | Olay yerinde bulunan bir eldiven önemli bir ipucu oldu. | A glove found at the scene turned out to be an important clue.
@@ -83,7 +83,7 @@ vekâlet | power of attorney | isim | Yurt dışında olduğum için evin satı�
 yetki | authority; power | isim | Bu konuda karar verme yetkisi sadece müdürde. | Only the manager has the authority to decide on this matter.
 itiraz etmek | to object; to appeal | fiil | Trafik cezasına haksız olduğunu düşündüğüm için itiraz ettim. | I appealed the traffic fine because I thought it was unfair.
 hukuki | legal (relating to law) | sıfat | Şirket kurmadan önce hukuki konularda bir avukattan destek aldık. | Before setting up the company, we got support from a lawyer on legal matters.
-geçersiz | invalid | sıfat | İmzasız sözleşme hukuken geçersiz sayılıyor. | An unsigned contract is considered legally invalid.
+geçersiz | invalid | sıfat | Tarafların imzası olmayan bir sözleşme hukuken geçersiz sayılıyor. | A contract without the parties' signatures is considered legally invalid.
 cayma hakkı | right of withdrawal | isim | İnternetten aldığınız ürünü on dört gün içinde cayma hakkınızı kullanarak iade edebilirsiniz. | You can return a product bought online within fourteen days by using your right of withdrawal.
 hukuk bürosu | law firm | isim | Ablam stajını İstanbul'da büyük bir hukuk bürosunda yapıyor. | My sister is doing her internship at a big law firm in Istanbul.
 taahhüt | commitment; undertaking | isim | Bu internet paketi iki yıllık taahhüt istiyor. | This internet package requires a two-year commitment.
@@ -102,7 +102,7 @@ cezasız kalmak | to go unpunished | fiil | Bu kadar büyük bir hatanın cezas�
 bürokrasi | bureaucracy | isim | Bürokrasi yüzünden basit bir belge almak bile haftalar sürebiliyor. | Because of bureaucracy, even getting a simple document can take weeks.
 kırtasiyecilik | red tape | isim | E-devlet sayesinde eski kırtasiyecilik büyük ölçüde azaldı. | Thanks to e-government, the old red tape has been greatly reduced.
 işlem | procedure; transaction | isim | Pasaport işlemlerim yaklaşık bir saat sürdü. | My passport procedures took about an hour.
-onaylatmak | to get something approved | fiil | Tercümeyi notere onaylatmayı unutmayın. | Don't forget to get the translation approved by a notary.
+onaylatmak | to get something approved | fiil | Başvurudan önce diplomanızın tercümesini notere onaylatmayı unutmayın. | Before applying, don't forget to get the translation of your diploma approved by a notary.
 sıra numarası | queue ticket number | isim | Bankada sıra numarası aldım, önümde yirmi kişi var. | I took a queue number at the bank; there are twenty people ahead of me.
 torpil | string-pulling; connections | isim | Bazı insanlar işi torpille aldığını düşünüyor ama o çok çalıştı. | Some people think he got the job through connections, but he worked very hard.
 mühür | official stamp; seal | isim | Belgenin geçerli olması için okulun mührü ve müdürün imzası gerekiyor. | For the document to be valid, it needs the school's stamp and the head's signature.

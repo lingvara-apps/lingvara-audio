@@ -18,7 +18,7 @@ temsilci | representative | isim | Müşteri temsilcisi sorunumu beş dakikada �
 koordinatör | coordinator | isim | Proje koordinatörü herkesin görevini tek tek açıkladı. | The project coordinator explained everyone's tasks one by one.
 yetkili | person in charge; authorised | isim | Bu konuda karar vermeye yetkili kişi müdür bey. | The person authorised to decide on this matter is the manager.
 amir | superior; boss | isim | İzin almak için önce amirinizden onay almanız gerekiyor. | To take leave you first need approval from your superior.
-meslektaş | colleague (same profession) | isim | Konferansta başka ülkelerden meslektaşlarımla tanıştım. | At the conference I met colleagues from other countries.
+meslektaş | colleague (same profession) | isim | Geçen ay Viyana'daki konferansta başka ülkelerden birçok meslektaşımla tanıştım. | At the conference in Vienna last month, I met many colleagues from other countries.
 çırak | apprentice | isim | Usta, çırağına yıllarca sabırla mesleğin inceliklerini öğretti. | The master patiently taught his apprentice the finer points of the trade for years.
 serbest çalışan | freelancer | isim | Serbest çalışan biri olarak çalışma saatlerimi kendim belirliyorum. | As a freelancer, I set my own working hours.
 ## Career path
@@ -42,7 +42,7 @@ değerlendirmek | to evaluate; to consider | fiil | Önerinizi ekiple birlikte d
 gündeme getirmek | to bring up; to raise | fiil | Maaş konusunu bir sonraki toplantıda gündeme getireceğim. | I'll bring up the salary issue at the next meeting.
 görüş | view; opinion | isim | Bu konudaki görüşünüzü almak istiyoruz, ne düşünüyorsunuz? | We'd like your view on this matter; what do you think?
 sonuca varmak | to reach a conclusion | fiil | Üç saat konuştuk ama hiçbir sonuca varamadık. | We talked for three hours but couldn't reach any conclusion.
-bilgilendirmek | to inform; to brief | fiil | Gelişmelerden sizi düzenli olarak bilgilendireceğiz. | We'll keep you regularly informed of developments.
+bilgilendirmek | to inform; to brief | fiil | Proje süresince bütün gelişmelerden sizi düzenli olarak bilgilendireceğiz. | Throughout the project we'll keep you regularly informed of all developments.
 ## Negotiation
 müzakere | negotiation | isim | Sendika ile işveren arasındaki müzakereler hâlâ sürüyor. | Negotiations between the union and the employer are still going on.
 anlaşma | agreement; deal | isim | İki şirket sonunda beş yıllık bir anlaşma imzaladı. | The two companies finally signed a five-year agreement.
@@ -56,8 +56,8 @@ pazarlık payı | room for negotiation | isim | Satıcı fiyatta biraz pazarlık
 ortak payda | common ground | isim | Uzun görüşmelerden sonra iki taraf ortak bir paydada buluştu. | After long talks, the two sides found common ground.
 ## Business correspondence
 yazışma | correspondence | isim | Müşteriyle yapılan bütün yazışmaları bu klasörde saklıyoruz. | We keep all correspondence with the client in this folder.
-ek | attachment; appendix | isim | Sözleşmeyi e-postanın ekinde bulabilirsiniz. | You can find the contract in the attachment to the email.
-iletmek | to forward; to pass on | fiil | Mesajınızı ilgili departmana hemen ileteceğim. | I'll forward your message to the relevant department right away.
+ek | attachment; appendix | isim | İmzalamanız gereken sözleşmeyi bu e-postanın ekinde bulabilirsiniz. | You can find the contract you need to sign in the attachment to this email.
+iletmek | to forward; to pass on | fiil | Merak etmeyin, mesajınızı bugün ilgili departmana hemen ileteceğim. | Don't worry, I'll forward your message to the relevant department today.
 yanıtlamak | to reply to; to answer | fiil | Sorularınızı en kısa sürede yanıtlamaya çalışacağız. | We'll try to answer your questions as soon as possible.
 geri dönüş | feedback; reply | isim | Başvurunuzla ilgili bir hafta içinde size geri dönüş yapacağız. | We'll get back to you about your application within a week.
 saygılarımla | yours sincerely; kind regards | ifade | E-postasını her zaman "saygılarımla" diyerek resmî bir şekilde bitirir. | He always ends his emails formally with "kind regards".

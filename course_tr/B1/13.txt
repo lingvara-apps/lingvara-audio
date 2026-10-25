@@ -6,8 +6,8 @@ bana kalırsa | if you ask me | ifade | Bana kalırsa bu toplantıya hiç gerek 
 açıkçası | frankly; to be honest | zarf | Açıkçası yeni ofisi hiç beğenmedim, çok karanlık. | Frankly, I didn't like the new office at all; it's very dark.
 dürüst olmak gerekirse | to be honest | ifade | Dürüst olmak gerekirse, bu işi bitirebileceğimizi sanmıyorum. | To be honest, I don't think we can finish this job.
 kendi adıma | speaking for myself | ifade | Kendi adıma konuşayım, ben bu plana katılıyorum. | Speaking for myself, I agree with this plan.
-şahsen | personally | zarf | Şahsen kalabalık düğünlerden pek hoşlanmam. | Personally, I'm not very fond of big weddings.
-bildiğim kadarıyla | as far as I know | ifade | Bildiğim kadarıyla müze pazartesileri kapalı. | As far as I know, the museum is closed on Mondays.
+şahsen | personally | zarf | Şahsen kalabalık düğünlerden pek hoşlanmam, küçük bir yemek bana yeter. | Personally, I'm not very fond of big weddings; a small dinner is enough for me.
+bildiğim kadarıyla | as far as I know | ifade | Bildiğim kadarıyla müze pazartesileri kapalı, salı günü gidelim. | As far as I know, the museum is closed on Mondays, so let's go on Tuesday.
 gördüğüm kadarıyla | from what I can see | ifade | Gördüğüm kadarıyla herkes yeni öğretmenden memnun. | From what I can see, everyone is happy with the new teacher.
 kanaat | conviction; opinion | isim | Uzun bir tartışmadan sonra bu işin yanlış olduğu kanaatine vardım. | After a long discussion I came to the conclusion that this was wrong.
 ## Agreeing
@@ -34,8 +34,8 @@ katiyen | absolutely not; by no means | zarf | Böyle bir şeyi katiyen kabul ed
 öyle bir şey yok | that's not true; no such thing | ifade | Öyle bir şey yok, ben kimseye senin hakkında bir şey söylemedim. | That's not true; I didn't say anything about you to anyone.
 ## Persuading
 ikna olmak | to be convinced | fiil | Uzun uzun anlattıktan sonra babam sonunda ikna oldu. | After a long explanation my father was finally convinced.
-inandırmak | to convince; to make believe | fiil | Hasta olduğuna öğretmeni inandırmayı başardı. | He managed to convince the teacher that he was ill.
-gerekçe | reason; justification | isim | Kararınızın gerekçesini bize açıklar mısınız? | Could you explain the reasoning behind your decision to us?
+inandırmak | to convince; to make believe | fiil | Sınavdan kaçmak için hasta olduğuna öğretmeni inandırmayı başardı. | To get out of the exam, he managed to convince the teacher that he was ill.
+gerekçe | reason; justification | isim | Başvurumu neden reddettiğinizi, kararınızın gerekçesini bana açıklar mısınız? | Could you explain to me the reasoning behind your decision to reject my application?
 fikrini değiştirmek | to change one's mind | fiil | Son anda fikrini değiştirip bizimle tatile gelmeye karar verdi. | At the last moment she changed her mind and decided to come on holiday with us.
 razı etmek | to persuade; to talk round | fiil | Annemi köpek almaya razı etmek bir yılımı aldı. | It took me a year to talk my mother into getting a dog.
 dil dökmek | to sweet-talk; to plead | deyim | Kapıdaki görevliye yarım saat dil döktük ama içeri almadı. | We pleaded with the doorman for half an hour, but he wouldn't let us in.
@@ -47,11 +47,11 @@ makul | reasonable | sıfat | Ev sahibinin istediği kira artışı bence makul.
 vay | wow | ünlem | Vay, ne kadar büyümüşsün, seni tanıyamadım! | Wow, how much you've grown; I didn't recognise you!
 hadi ya | no way; you're kidding | ünlem | Hadi ya, gerçekten piyangodan para mı çıktı? | No way, did you really win money in the lottery?
 ciddi misin | are you serious? | ifade | Ciddi misin, gerçekten işinden istifa mı ettin? | Are you serious? Did you really quit your job?
-olamaz | it can't be; no way | ünlem | Olamaz, anahtarlarımı yine evde unuttum! | Oh no, I've left my keys at home again!
+olamaz | it can't be; no way | ünlem | Olamaz, kapıyı çektim ve anahtarlarımı yine içeride unuttum! | Oh no, I pulled the door shut and left my keys inside again!
 yok artık | you've got to be kidding | ünlem | Yok artık, bir kahveye yüz elli lira mı? | You've got to be kidding, a hundred and fifty lira for a coffee?
 aferin | well done | ünlem | Aferin sana, bütün sorulara doğru cevap vermişsin. | Well done, you've answered all the questions correctly.
 helal olsun | good for you; respect | ünlem | Helal olsun, bu yaşta maraton koşmak kolay değil. | Good for you; running a marathon at this age isn't easy.
-tüh | oh no; what a pity | ünlem | Tüh, otobüsü bir dakikayla kaçırdık! | Oh no, we missed the bus by a minute!
+tüh | oh no; what a pity | ünlem | Tüh, otobüsü bir dakikayla kaçırdık, şimdi yarım saat bekleyeceğiz! | Oh no, we missed the bus by a minute; now we'll wait half an hour!
 ne diyorsun | what are you saying?; really? | ifade | Ne diyorsun, Ali ile Ayşe ayrıldılar mı? | What are you saying, have Ali and Ayşe broken up?
 inanılmaz | incredible | sıfat | Gün batımındaki manzara inanılmazdı, fotoğrafı bile anlatamaz. | The view at sunset was incredible; not even a photo can capture it.
 ## Doubt and uncertainty
@@ -91,18 +91,18 @@ fikir vermek | to give an idea | fiil | Bu kitap bana yeni bir proje için fikir
 yeter | enough | ünlem | Yeter artık, bütün gün aynı şeyi konuşuyoruz! | Enough now; we've been talking about the same thing all day!
 bıkmak | to be fed up | fiil | Her sabah aynı trafikte beklemekten bıktım. | I'm fed up with waiting in the same traffic every morning.
 katlanmak | to put up with; to fold | fiil | Komşunun gece yarısı müzik dinlemesine artık katlanamıyorum. | I can't put up with my neighbour playing music at midnight any more.
-tahammül etmek | to tolerate; to bear | fiil | Haksızlığa hiç tahammül edemeyen biridir. | He's someone who can't bear injustice at all.
+tahammül etmek | to tolerate; to bear | fiil | Annem haksızlığa hiç tahammül edemeyen, hemen sesini yükselten biridir. | My mother is someone who can't bear injustice at all and speaks up at once.
 sabrı taşmak | to lose one's patience | deyim | Üç saat bekleyince sonunda sabrım taştı ve müdürü istedim. | After waiting for three hours, I finally lost my patience and asked for the manager.
 canına tak etmek | to have had enough | deyim | Sürekli geç gelen otobüsler artık canıma tak etti. | I've had enough of the buses that are always late.
 isyan etmek | to rebel; to protest | fiil | Çocuklar her akşam ödev yapmaya isyan ediyor. | Every evening the children rebel against doing their homework.
 söylenmek | to grumble | fiil | Dedem bütün gün televizyondaki haberlere söyleniyor. | My grandfather grumbles at the news on TV all day.
-şikâyetçi | complaining; dissatisfied | sıfat | Müşteriler yeni menüden oldukça şikâyetçi. | Customers are quite unhappy with the new menu.
+şikâyetçi | complaining; dissatisfied | sıfat | Müşteriler porsiyonlar küçüldüğü için yeni menüden oldukça şikâyetçi. | Customers are quite unhappy with the new menu because the portions have got smaller.
 yakınmak | to complain; to moan | fiil | Hayatından yakınmak yerine bir şeyleri değiştirmeye çalış. | Instead of moaning about your life, try to change something.
 ## Everyday reactions
 neyse ki | fortunately | zarf | Yağmur bastırdı ama neyse ki şemsiyem yanımdaydı. | It started pouring, but fortunately I had my umbrella with me.
 ne yazık ki | unfortunately | zarf | Ne yazık ki konsere bilet kalmamış. | Unfortunately, there are no tickets left for the concert.
 çok şükür | thank goodness | ünlem | Ameliyat iyi geçti, çok şükür artık evde dinleniyor. | The operation went well; thank goodness, he's now resting at home.
-hayırdır | what's up?; is everything all right? | ünlem | Hayırdır, bu saatte neden aradın? | Is everything all right? Why are you calling at this hour?
+hayırdır | what's up?; is everything all right? | ünlem | Hayırdır, gece yarısı bu saatte neden aradın, bir şey mi oldu? | Is everything all right? Why are you calling at midnight; has something happened?
 inşallah | hopefully; God willing | ünlem | İnşallah yarın hava güzel olur da pikniğe gideriz. | Hopefully the weather will be nice tomorrow and we'll go on a picnic.
 maşallah | how wonderful (praise, warding off envy) | ünlem | Maşallah, çocuklar ne kadar da büyümüş! | How wonderful, the children have grown so much!
 Allah Allah | goodness me; how strange | ünlem | Allah Allah, anahtarları buraya koymuştum, nereye gitti? | Goodness me, I put the keys here; where have they gone?

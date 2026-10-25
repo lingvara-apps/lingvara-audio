@@ -4,7 +4,7 @@ dolayısıyla | consequently; therefore | bağlaç | Yol kapalıydı, dolayısı
 bu nedenle | for this reason | bağlaç | Hava çok kötü, bu nedenle bütün uçuşlar iptal edildi. | The weather is very bad; for this reason, all flights have been cancelled.
 bu sebeple | for this reason | bağlaç | Mağazamız tadilatta, bu sebeple bir hafta kapalı olacağız. | Our shop is being renovated; for this reason, we'll be closed for a week.
 yüzünden | because of (negative) | edat | Kar yüzünden okullar iki gün tatil edildi. | Schools were closed for two days because of the snow.
-sayesinde | thanks to | edat | Komşumuz sayesinde kaybolan kedimizi bulduk. | Thanks to our neighbour, we found our lost cat.
+sayesinde | thanks to | edat | Karşı apartmandaki komşumuz sayesinde iki gündür kayıp olan kedimizi bulduk. | Thanks to our neighbour across the road, we found our cat, which had been missing for two days.
 nedeniyle | due to | edat | Bakım çalışması nedeniyle yarın sabah su kesilecek. | Due to maintenance work, the water will be cut off tomorrow morning.
 o hâlde | in that case; then | bağlaç | Yorgunsan o hâlde bu akşam evde kalalım. | If you're tired, then let's stay home tonight.
 ötürü | on account of | edat | Gösterdiği cesaretten ötürü itfaiyeciye ödül verildi. | The firefighter was given an award on account of the courage he showed.
@@ -49,8 +49,8 @@ yeter ki | as long as; provided that | bağlaç | İstediğin saatte gel, yeter 
 aksi takdirde | otherwise | bağlaç | Formu bugün doldurun, aksi takdirde başvurunuz geçersiz olur. | Fill in the form today; otherwise your application will be invalid.
 koşuluyla | on condition that | edat | Arabamı dikkatli kullanman koşuluyla sana ödünç verebilirim. | I can lend you my car on condition that you drive carefully.
 amacıyla | with the aim of | edat | Belediye, trafiği azaltmak amacıyla yeni bisiklet yolları yaptı. | The municipality built new cycle lanes with the aim of reducing traffic.
-diye | so that; saying that | bağlaç | Bebek uyanmasın diye sessizce konuştuk. | We spoke quietly so that the baby wouldn't wake up.
-ki | so that; that | bağlaç | Erken çıkalım ki trafiğe takılmayalım. | Let's leave early so that we don't get stuck in traffic.
+diye | so that; saying that | bağlaç | Bebek uyanmasın diye bütün akşam salonda fısıltıyla konuştuk. | We whispered in the living room all evening so that the baby wouldn't wake up.
+ki | so that; that | bağlaç | Sabah erken çıkalım ki köprüde trafiğe takılmayalım. | Let's leave early in the morning so that we don't get stuck in traffic on the bridge.
 ne olursa olsun | no matter what | ifade | Ne olursa olsun, ben her zaman senin yanındayım. | No matter what happens, I'm always by your side.
 olur da | if by any chance | ifade | Olur da yolda kalırsan hemen beni ara. | If by any chance you break down on the way, call me at once.
 olmadı | if that doesn't work | ifade | Önce taksi bulmaya çalışalım, olmadı otobüsle gideriz. | Let's try to find a taxi first; if that doesn't work, we'll take the bus.
@@ -93,11 +93,11 @@ kanı donmak | to have one's blood run cold | deyim | Gece yarısı kapının ç
 yüreği ağzına gelmek | to have one's heart in one's mouth | deyim | Araba birden önümüze çıkınca yüreğim ağzıma geldi. | My heart was in my mouth when the car suddenly pulled out in front of us.
 içi içini yemek | to be eaten up with worry | deyim | Sonuçlar açıklanana kadar içim içimi yedi. | I was eaten up with worry until the results were announced.
 canı sıkılmak | to be bored; to be annoyed | deyim | Yağmurlu günlerde evde canım çok sıkılıyor. | I get really bored at home on rainy days.
-küplere binmek | to hit the roof | deyim | Arabasının çizildiğini görünce küplere bindi. | When he saw his car had been scratched, he hit the roof.
+küplere binmek | to hit the roof | deyim | Yeni arabasının kapısının çizildiğini görünce küplere bindi. | When he saw that the door of his new car had been scratched, he hit the roof.
 tepesi atmak | to lose one's temper | deyim | Çocuklar duvarı boyayınca annemin tepesi attı. | My mother lost her temper when the children painted the wall.
 burnunda tütmek | to miss terribly | deyim | Yurt dışında annemin yemekleri burnumda tütüyor. | Abroad, I terribly miss my mother's cooking.
 içine kurt düşmek | to start to suspect | deyim | Telefonlarına cevap vermeyince içime kurt düştü. | When she didn't answer her phone, I began to worry something was wrong.
-gözleri dolmak | to have tears well up | deyim | Kızının düğününde babanın gözleri doldu. | Tears welled up in the father's eyes at his daughter's wedding.
+gözleri dolmak | to have tears well up | deyim | Kızının düğününde konuşma yaparken babanın gözleri doldu. | Tears welled up in the father's eyes as he gave a speech at his daughter's wedding.
 ## Common proverbs
 geç olsun güç olmasın | better late than never | atasözü | Yemeğe biraz geciktik ama geç olsun güç olmasın. | We're a bit late for dinner, but better late than never.
 ağaç yaşken eğilir | you must start young | atasözü | Çocuklara kitap sevgisini erken aşılayın, ağaç yaşken eğilir. | Instil a love of books in children early; you have to start young.
