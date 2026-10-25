@@ -13,14 +13,14 @@ o best-seller | çok satan kitap | isim (e) | O livro de estreia dele virou best
 ## Müzik
 o músico | müzisyen | isim (e) | Os músicos tocaram até de madrugada na festa. | Müzisyenler partide sabaha kadar çaldı.
 o compositor | besteci | isim (e) | O compositor escreveu a canção pensando na filha. | Besteci şarkıyı kızını düşünerek yazdı.
-a melodia | melodi, ezgi | isim (d) | Não lembro a letra, mas a melodia não sai da minha cabeça. | Sözlerini hatırlamıyorum ama ezgisi aklımdan çıkmıyor.
-o ritmo | ritim | isim (e) | O ritmo do samba é difícil para quem está começando. | Samba ritmi yeni başlayanlar için zor.
+a gravadora | plak şirketi | isim (d) | A banda assinou contrato com uma gravadora de São Paulo. | Grup São Paulo'lu bir plak şirketiyle sözleşme imzaladı.
+a turnê | turne | isim (d) | A cantora vai fazer uma turnê por dez capitais. | Şarkıcı on büyük şehirde turneye çıkacak.
 o refrão | nakarat | isim (e) | O estádio inteiro cantou o refrão junto com a banda. | Bütün stadyum nakaratı grupla birlikte söyledi.
 o álbum | albüm | isim (e) | A cantora lançou um álbum só com músicas antigas. | Şarkıcı sadece eski şarkılardan oluşan bir albüm çıkardı.
 o instrumento | çalgı, enstrüman | isim (e) | Meu filho quer aprender um instrumento, talvez bateria. | Oğlum bir enstrüman öğrenmek istiyor, belki davul.
 a orquestra | orkestra | isim (d) | A orquestra da cidade faz concertos grátis no parque. | Şehrin orkestrası parkta ücretsiz konserler veriyor.
-o maestro | orkestra şefi | isim (e) | O maestro agradeceu o público depois do concerto. | Orkestra şefi konserden sonra seyircilere teşekkür etti.
-o coral | koro | isim (e) | Minha mãe canta no coral da igreja do bairro. | Annem mahalle kilisesinin korosunda şarkı söylüyor.
+o regente | orkestra şefi, koro şefi | isim (e) | O regente pediu silêncio antes do primeiro movimento. | Şef ilk bölümden önce sessizlik istedi.
+o fã-clube | hayran kulübü | isim (e) | O fã-clube esperou a banda no aeroporto com cartazes. | Hayran kulübü grubu havalimanında pankartlarla bekledi.
 ## Brezilya müziği
 a bossa nova | bossa nova | isim (d) | A bossa nova nasceu nos apartamentos de Copacabana. | Bossa nova Copacabana'daki dairelerde doğdu.
 o sertanejo | sertanejo (Brezilya kır müziği) | isim (e) | No interior de Goiás, todo mundo ouve sertanejo. | Goiás'ın iç kesimlerinde herkes sertanejo dinler.
@@ -28,19 +28,19 @@ o pagode | pagode (samba türü) | isim (e) | Sexta à noite tem pagode no quint
 o choro | choro (enstrümantal halk müziği) | isim (e) | O choro é uma música instrumental alegre e rápida. | Choro neşeli ve hızlı bir enstrümantal müzik türüdür.
 o axé | axé (Bahia karnaval müziği) | isim (e) | No carnaval de Salvador, o axé toca o dia inteiro. | Salvador karnavalında bütün gün axé çalar.
 o baião | baião (Kuzeydoğu ritmi) | isim (e) | O baião usa sanfona, zabumba e triângulo. | Baião'da akordeon, büyük davul ve üçgen kullanılır.
-o cavaquinho | cavaquinho (küçük gitar) | isim (e) | Ele toca cavaquinho numa roda de samba aos domingos. | Pazar günleri bir samba çemberinde cavaquinho çalıyor.
-a sanfona | akordeon | isim (d) | Meu avô tocava sanfona em todas as festas juninas. | Dedem bütün Haziran şenliklerinde akordeon çalardı.
-o berimbau | berimbau (tek telli yay çalgı) | isim (e) | O som do berimbau comanda a roda de capoeira. | Capoeira çemberini berimbau'nun sesi yönetir.
+o agogô | agogô (çift çan) | isim (e) | O agogô marca o ritmo no samba e na capoeira. | Agogô sambada ve capoeirada tempoyu tutar.
+a zabumba | zabumba (büyük davul) | isim (d) | No trio de forró, a zabumba faz a batida mais grave. | Forró üçlüsünde en pes vuruşu zabumba yapar.
+a cuíca | cuíca (sürtmeli davul) | isim (d) | A cuíca faz aquele som engraçado que parece uma risada. | Cuíca, kahkahaya benzeyen o komik sesi çıkarır.
 o tamborim | tamborim (küçük tef) | isim (e) | Na escola de samba, ela toca tamborim na bateria. | Samba okulunda vurmalılar grubunda tamborim çalıyor.
 ## Sinema
 o cineasta | sinemacı, film yönetmeni | isim (e) | O cineasta pernambucano ganhou um prêmio em Cannes. | Pernambuco'lu sinemacı Cannes'da bir ödül kazandı.
-o roteirista | senarist | isim (e) | A roteirista escreveu a série inspirada na própria família. | Senarist diziyi kendi ailesinden esinlenerek yazdı.
-o elenco | oyuncu kadrosu | isim (e) | O elenco da novela tem atores de todas as regiões. | Dizinin oyuncu kadrosunda her bölgeden oyuncu var.
-a estreia | gala, ilk gösterim | isim (d) | Fomos à estreia do filme e vimos o diretor de perto. | Filmin galasına gittik ve yönetmeni yakından gördük.
+o dublador | seslendirme sanatçısı | isim (e) | O dublador da série faz a voz de três personagens. | Dizinin seslendirme sanatçısı üç karakteri seslendiriyor.
+o figurante | figüran | isim (e) | Meu primo trabalhou como figurante numa novela das nove. | Kuzenim akşam dokuz dizisinde figüran olarak çalıştı.
+a sala de cinema | sinema salonu | isim (d) | A sala de cinema estava vazia na sessão da tarde. | Öğleden sonraki seansta sinema salonu boştu.
 a bilheteria | gişe | isim (d) | A comédia foi a maior bilheteria do ano no Brasil. | Komedi, Brezilya'da yılın en çok hasılat yapan filmi oldu.
-o longa-metragem | uzun metrajlı film | isim (e) | Depois de três curtas, ele vai filmar o primeiro longa-metragem. | Üç kısa filmden sonra ilk uzun metrajlı filmini çekecek.
-o curta-metragem | kısa film | isim (e) | O festival exibe curtas-metragens de jovens diretores. | Festival genç yönetmenlerin kısa filmlerini gösteriyor.
-a trilha sonora | film müziği | isim (d) | A trilha sonora do filme tem muitas músicas de forró. | Filmin müziğinde çok sayıda forró şarkısı var.
+o filme nacional | yerli film | isim (e) | Este ano, o filme nacional mais visto foi uma comédia. | Bu yıl en çok izlenen yerli film bir komediydi.
+a continuação | devam filmi | isim (d) | A continuação do filme vai estrear no próximo verão. | Filmin devamı gelecek yaz vizyona girecek.
+o spoiler | sürprizbozan | isim (e) | Não conta o final, eu odeio receber spoiler! | Sonunu anlatma, sürprizbozandan nefret ederim!
 os efeitos especiais | özel efektler | isim (çoğul) | Os efeitos especiais são bons, mas a história é fraca. | Özel efektler iyi ama hikâye zayıf.
 o trailer | fragman | isim (e) | Só pelo trailer, já sei que vou chorar no filme. | Fragmandan bile filmde ağlayacağımı biliyorum.
 ## Film türleri
@@ -60,19 +60,19 @@ a peça | oyun (tiyatro) | isim (d) | A peça fica em cartaz no centro até deze
 o palco | sahne | isim (e) | Ela ficou nervosa ao subir no palco pela primeira vez. | İlk kez sahneye çıkarken heyecanlandı.
 a plateia | seyirci; salon | isim (d) | A plateia riu do começo ao fim do espetáculo. | Seyirciler gösterinin başından sonuna kadar güldü.
 o espetáculo | gösteri | isim (e) | O espetáculo de dança mistura frevo e balé. | Dans gösterisi frevo ile baleyi harmanlıyor.
-o figurino | kostüm (sahne) | isim (e) | O figurino da peça foi feito com tecidos reciclados. | Oyunun kostümleri geri dönüştürülmüş kumaşlardan yapıldı.
-o cenário | dekor; senaryo (durum) | isim (e) | O cenário imitava uma rua antiga de Salvador. | Dekor Salvador'un eski bir sokağını taklit ediyordu.
+o intervalo | ara (gösteride) | isim (e) | No intervalo da peça, tomamos um café no saguão. | Oyunun arasında fuayede bir kahve içtik.
+o balé | bale | isim (e) | Minha filha faz aulas de balé duas vezes por semana. | Kızım haftada iki kez bale dersi alıyor.
 o camarim | kulis (oyuncu odası) | isim (e) | Depois do show, os fãs esperaram na porta do camarim. | Gösteriden sonra hayranlar kulis kapısında bekledi.
 aplaudir | alkışlamak | fiil | O público aplaudiu de pé por cinco minutos. | Seyirciler beş dakika ayakta alkışladı.
 o aplauso | alkış | isim (e) | Os atores agradeceram os aplausos no fim da peça. | Oyuncular oyunun sonunda alkışlar için teşekkür etti.
 ## Görsel sanatlar
-a escultura | heykel | isim (d) | A escultura de bronze fica no meio da praça. | Bronz heykel meydanın ortasında duruyor.
+o desenhista | çizer, ressam | isim (e) | O desenhista fez um retrato meu em cinco minutos na praça. | Çizer meydanda beş dakikada benim portremi yaptı.
 o escultor | heykeltıraş | isim (e) | O escultor trabalha com madeira encontrada na praia. | Heykeltıraş sahilde bulunan tahtalarla çalışıyor.
 a galeria | galeri | isim (d) | A galeria abriu uma exposição de artistas indígenas. | Galeri yerli sanatçıların sergisini açtı.
 o retrato | portre | isim (e) | Na sala tem um retrato antigo da minha bisavó. | Salonda büyük büyükannemin eski bir portresi var.
 a paisagem | manzara (resmi) | isim (d) | O pintor gostava de pintar paisagens do litoral paulista. | Ressam São Paulo kıyılarının manzaralarını çizmeyi severdi.
 o mural | duvar resmi | isim (e) | Um mural enorme cobre a lateral do prédio. | Kocaman bir duvar resmi binanın yan cephesini kaplıyor.
-o grafite | grafiti | isim (e) | O beco ficou famoso por causa dos grafites coloridos. | Ara sokak renkli grafitileri sayesinde ünlendi.
+a história em quadrinhos | çizgi roman | isim (d) | Meu irmão coleciona histórias em quadrinhos desde criança. | Kardeşim çocukluğundan beri çizgi roman biriktiriyor.
 o pincel | fırça (resim) | isim (e) | Comprei pincéis novos para a aula de pintura. | Resim dersi için yeni fırçalar aldım.
 a tinta | boya; mürekkep | isim (d) | As crianças sujaram a roupa de tinta azul. | Çocuklar kıyafetlerini mavi boyayla kirletti.
 a moldura | çerçeve | isim (d) | Coloquei a foto do casamento numa moldura dourada. | Düğün fotoğrafını yaldızlı bir çerçeveye koydum.
@@ -104,7 +104,7 @@ o prêmio | ödül | isim (e) | O livro dela ganhou o prêmio mais importante do
 o ingresso | bilet (etkinlik) | isim (e) | Os ingressos para o show esgotaram em uma hora. | Konserin biletleri bir saatte tükendi.
 o sarau | şiir ve müzik gecesi | isim (e) | Toda quinta tem sarau de poesia na biblioteca. | Her perşembe kütüphanede şiir gecesi var.
 o folclore | folklor, halk kültürü | isim (e) | O saci é um personagem famoso do folclore brasileiro. | Saci, Brezilya halk kültürünün ünlü bir karakteridir.
-o artesanato | el sanatları | isim (e) | Na feira de Caruaru, compramos artesanato de barro. | Caruaru pazarında topraktan el sanatları aldık.
+a oficina | atölye (kurs) | isim (d) | Fiz uma oficina de cerâmica no centro cultural. | Kültür merkezinde bir seramik atölyesine katıldım.
 estar em cartaz | gösterimde olmak | ifade | O filme brasileiro ainda está em cartaz no cinema do shopping. | Brezilya filmi hâlâ AVM'deki sinemada gösterimde.
 fazer sucesso | başarı kazanmak, tutulmak | ifade | A música fez sucesso no Brasil inteiro no verão passado. | Şarkı geçen yaz bütün Brezilya'da çok tuttu.
 roubar a cena | herkesin ilgisini çalmak | deyim | O cachorro do vizinho roubou a cena na foto do casamento. | Komşunun köpeği düğün fotoğrafında herkesin ilgisini çaldı.
