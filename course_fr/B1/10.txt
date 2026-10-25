@@ -1,0 +1,111 @@
+# UNIT: Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+## Yazılım
+le développeur | yazılımcı, geliştirici | isim (e) | Mon frère travaille comme développeur dans une start-up à Nantes. | Ağabeyim Nantes'ta bir girişimde yazılımcı olarak çalışıyor.
+programmer | programlamak; planlamak | fiil | Elle a appris à programmer des jeux vidéo toute seule. | Video oyunu programlamayı kendi kendine öğrendi.
+la programmation | programlama | isim (d) | Les enfants découvrent la programmation dès l'école primaire. | Çocuklar programlamayla ilkokuldan itibaren tanışıyor.
+le code | kod | isim (e) | Il y a une erreur dans le code, l'application ne démarre plus. | Kodda bir hata var, uygulama artık açılmıyor.
+la version | sürüm; versiyon | isim (d) | La nouvelle version du logiciel est beaucoup plus rapide. | Yazılımın yeni sürümü çok daha hızlı.
+l'interface (f) | arayüz | isim (d) | L'interface de cette application est simple et très claire. | Bu uygulamanın arayüzü basit ve çok net.
+le système d'exploitation | işletim sistemi | isim (e) | Mon vieil ordinateur ne supporte plus le nouveau système d'exploitation. | Eski bilgisayarım yeni işletim sistemini artık desteklemiyor.
+l'icône (f) | simge, ikon | isim (d) | Cliquez sur l'icône en forme d'engrenage pour ouvrir les réglages. | Ayarları açmak için dişli çark şeklindeki simgeye tıklayın.
+la fonctionnalité | özellik, işlev | isim (d) | Cette mise à jour ajoute plusieurs fonctionnalités très utiles. | Bu güncelleme birkaç çok yararlı özellik ekliyor.
+intuitif | kolay anlaşılır, sezgisel | sıfat | Même ma grand-mère utilise ce téléphone, il est très intuitif. | Büyükannem bile bu telefonu kullanıyor, çok kolay anlaşılır.
+## İnternet
+le haut débit | geniş bant (internet) | isim (e) | Dans ce village de montagne, il n'y a pas encore le haut débit. | Bu dağ köyünde henüz geniş bant internet yok.
+la fibre | fiber internet; lif | isim (d) | Depuis qu'on a la fibre, les films ne coupent plus. | Fiber internet geldiğinden beri filmler artık kesilmiyor.
+la box | modem (internet kutusu) | isim (d) | Si internet ne marche pas, éteins la box et rallume-la. | İnternet çalışmazsa modemi kapatıp yeniden aç.
+le cloud | bulut (depolama) | isim (e) | Toutes mes photos de vacances sont sauvegardées dans le cloud. | Bütün tatil fotoğraflarım bulutta yedekli.
+le stockage | depolama | isim (e) | Mon téléphone n'a plus d'espace de stockage pour les vidéos. | Telefonumda videolar için depolama alanı kalmadı.
+l'onglet (m) | sekme | isim (e) | J'ai toujours vingt onglets ouverts sur mon navigateur. | Tarayıcımda hep yirmi sekme açık olur.
+l'historique de navigation (m) | tarama geçmişi | isim (e) | Pense à effacer ton historique de navigation sur l'ordinateur de la bibliothèque. | Kütüphane bilgisayarındaki tarama geçmişini silmeyi unutma.
+le cookie | çerez | isim (e) | Chaque site me demande si j'accepte les cookies. | Her site çerezleri kabul edip etmediğimi soruyor.
+le favori | yer imi; favori | isim (e) | J'ai ajouté le site de recettes dans mes favoris. | Tarif sitesini yer imlerime ekledim.
+le débit | hız (internet); akış | isim (e) | Le débit est très faible le soir quand tout le monde regarde des séries. | Akşam herkes dizi izlediğinde internet hızı çok düşük oluyor.
+## Güvenlik
+l'antivirus (m) | antivirüs | isim (e) | Installe un bon antivirus avant de télécharger des fichiers. | Dosya indirmeden önce iyi bir antivirüs kur.
+le pare-feu | güvenlik duvarı | isim (e) | Le pare-feu de l'entreprise bloque certains sites de jeux. | Şirketin güvenlik duvarı bazı oyun sitelerini engelliyor.
+le piratage | korsanlık, hackleme | isim (e) | Après le piratage de son compte, il a changé tous ses mots de passe. | Hesabı hacklendikten sonra bütün şifrelerini değiştirdi.
+la confidentialité | gizlilik | isim (d) | Lisez bien les règles de confidentialité avant de vous inscrire. | Kaydolmadan önce gizlilik kurallarını iyice okuyun.
+la double authentification | iki adımlı doğrulama | isim (d) | Activez la double authentification pour protéger votre compte bancaire. | Banka hesabınızı korumak için iki adımlı doğrulamayı etkinleştirin.
+le code de vérification | doğrulama kodu | isim (e) | Vous allez recevoir un code de vérification par SMS. | SMS ile bir doğrulama kodu alacaksınız.
+se déconnecter | oturumu kapatmak, çevrim dışı olmak | fiil · dönüşlü | N'oublie pas de te déconnecter sur un ordinateur public. | Ortak bir bilgisayarda oturumu kapatmayı unutma.
+verrouiller | kilitlemek | fiil | Verrouille ton écran quand tu quittes ton bureau. | Masandan kalkarken ekranını kilitle.
+l'usurpation d'identité (f) | kimlik hırsızlığı | isim (d) | Elle a porté plainte pour usurpation d'identité sur internet. | İnternette kimlik hırsızlığı nedeniyle şikâyetçi oldu.
+l'escroquerie (f) | dolandırıcılık | isim (d) | Ce faux message de la banque est une escroquerie classique. | Bankadan gelmiş gibi görünen bu sahte mesaj klasik bir dolandırıcılık.
+## Yapay zekâ
+l'algorithme (m) | algoritma | isim (e) | L'algorithme choisit les vidéos que tu vois sur ton téléphone. | Telefonunda gördüğün videoları algoritma seçiyor.
+l'assistant vocal (m) | sesli asistan | isim (e) | Je demande la météo à mon assistant vocal chaque matin. | Her sabah hava durumunu sesli asistanıma soruyorum.
+automatique | otomatik | sıfat | La traduction automatique fait encore des erreurs amusantes. | Otomatik çeviri hâlâ komik hatalar yapıyor.
+l'automatisation (f) | otomasyon | isim (d) | L'automatisation a supprimé beaucoup d'emplois dans les usines. | Otomasyon fabrikalarda birçok işi ortadan kaldırdı.
+la reconnaissance vocale | ses tanıma | isim (d) | La reconnaissance vocale comprend mal mon accent du sud. | Ses tanıma güneyli aksanımı pek anlamıyor.
+le robot conversationnel | sohbet robotu | isim (e) | Sur le site de la banque, un robot conversationnel répond aux questions. | Bankanın sitesinde bir sohbet robotu soruları yanıtlıyor.
+générer | üretmek, oluşturmak | fiil | Ce programme peut générer une image à partir d'une phrase. | Bu program bir cümleden görsel oluşturabiliyor.
+prédire (prédit) | öngörmek, tahmin etmek | fiil · düzensiz | Les ordinateurs aident à prédire la météo plus précisément. | Bilgisayarlar hava durumunu daha kesin tahmin etmeye yardım ediyor.
+la traduction automatique | makine çevirisi | isim (d) | Je vérifie toujours la traduction automatique avec un dictionnaire. | Makine çevirisini hep sözlükle kontrol ederim.
+remplacer l'humain | insanın yerini almak | ifade | Beaucoup de gens craignent que les machines remplacent l'humain. | Birçok insan makinelerin insanın yerini almasından korkuyor.
+## Uzay
+l'espace (m) | uzay; alan, yer | isim (e) | Depuis tout petit, mon fils rêve d'aller dans l'espace. | Oğlum küçüklüğünden beri uzaya gitmeyi hayal ediyor.
+l'astronaute (m) | astronot | isim (e) | L'astronaute a passé six mois dans la station spatiale. | Astronot uzay istasyonunda altı ay geçirdi.
+la fusée | roket | isim (d) | La fusée a décollé de Kourou, en Guyane, ce matin. | Roket bu sabah Guyana'daki Kourou'dan fırlatıldı.
+le satellite | uydu | isim (e) | Ce satellite envoie des images des océans tous les jours. | Bu uydu her gün okyanusların görüntülerini gönderiyor.
+la station spatiale | uzay istasyonu | isim (d) | On peut voir la station spatiale passer dans le ciel la nuit. | Geceleri uzay istasyonunun gökyüzünden geçtiği görülebilir.
+l'orbite (f) | yörünge | isim (d) | Le satellite a été placé en orbite autour de la Terre. | Uydu Dünya çevresinde yörüngeye yerleştirildi.
+la galaxie | galaksi | isim (d) | Notre galaxie contient des milliards et des milliards d'étoiles. | Galaksimiz milyarlarca yıldız içeriyor.
+le système solaire | güneş sistemi | isim (e) | Jupiter est la plus grande planète du système solaire. | Jüpiter güneş sisteminin en büyük gezegenidir.
+le télescope | teleskop | isim (e) | Avec ce télescope, on voit très bien les anneaux de Saturne. | Bu teleskopla Satürn'ün halkaları çok iyi görünüyor.
+la mission spatiale | uzay görevi | isim (d) | La prochaine mission spatiale doit partir vers la Lune. | Bir sonraki uzay görevi Ay'a doğru yola çıkacak.
+## Donanım
+le matériel | donanım; malzeme, ekipman | isim (e) | Le matériel informatique de l'école est trop vieux. | Okulun bilgisayar donanımı çok eski.
+l'appareil (m) | cihaz, alet | isim (e) | Éteignez tous vos appareils électroniques pendant le décollage. | Kalkış sırasında tüm elektronik cihazlarınızı kapatın.
+la clé USB | USB bellek | isim (d) | J'ai mis la présentation sur une clé USB au cas où. | Ne olur ne olmaz diye sunumu bir USB belleğe koydum.
+le disque dur | sabit disk | isim (e) | Je sauvegarde mes photos sur un disque dur externe. | Fotoğraflarımı harici bir sabit diske yedekliyorum.
+le processeur | işlemci | isim (e) | Ce nouveau processeur consomme moins d'énergie que l'ancien. | Bu yeni işlemci eskisinden daha az enerji tüketiyor.
+la mémoire vive | RAM, çalışma belleği | isim (d) | Pour les jeux vidéo, il faut beaucoup de mémoire vive. | Video oyunları için çok RAM gerekir.
+l'écran tactile (m) | dokunmatik ekran | isim (e) | L'écran tactile ne répond plus quand il fait très froid. | Hava çok soğuk olunca dokunmatik ekran tepki vermiyor.
+la montre connectée | akıllı saat | isim (d) | Ma montre connectée compte mes pas et mesure mon sommeil. | Akıllı saatim adımlarımı sayıyor ve uykumu ölçüyor.
+l'objet connecté (m) | akıllı cihaz | isim (e) | Les objets connectés envahissent nos maisons, du frigo à l'ampoule. | Akıllı cihazlar buzdolabından ampule kadar evlerimizi istila ediyor.
+le câble | kablo | isim (e) | Tu as un câble pour brancher mon ordinateur à la télé ? | Bilgisayarımı televizyona bağlamak için kablon var mı?
+## Teknoloji ve günlük hayat
+le temps d'écran | ekran süresi | isim (e) | Nous limitons le temps d'écran des enfants à une heure par jour. | Çocukların ekran süresini günde bir saatle sınırlıyoruz.
+la déconnexion | bağlantı kesilmesi; dijital detoks | isim (d) | Pendant les vacances, je pratique la déconnexion totale. | Tatilde tamamen dijital detoks yapıyorum.
+le tutoriel | eğitim videosu, kılavuz | isim (e) | J'ai réparé la machine à laver grâce à un tutoriel en ligne. | Çamaşır makinesini internetteki bir eğitim videosu sayesinde tamir ettim.
+le mode d'emploi | kullanım kılavuzu | isim (e) | Lis d'abord le mode d'emploi avant d'appeler le service client. | Müşteri hizmetlerini aramadan önce kullanım kılavuzunu oku.
+l'assistance technique (f) | teknik destek | isim (d) | J'ai appelé l'assistance technique trois fois pour ce problème. | Bu sorun için teknik desteği üç kez aradım.
+accro | bağımlı, tutkun | sıfat | Mon fils est accro aux jeux vidéo, il y joue tous les soirs. | Oğlum video oyunlarına bağımlı, her akşam oynuyor.
+le geek | teknoloji meraklısı | isim (e) | Mon cousin est un vrai geek, il construit ses propres ordinateurs. | Kuzenim gerçek bir teknoloji meraklısı, kendi bilgisayarlarını yapıyor.
+la batterie externe | taşınabilir şarj cihazı | isim (d) | En voyage, j'ai toujours une batterie externe dans mon sac. | Seyahatte çantamda hep bir taşınabilir şarj cihazı olur.
+la messagerie instantanée | anlık mesajlaşma | isim (d) | Nous utilisons une messagerie instantanée pour organiser le travail d'équipe. | Ekip işini düzenlemek için bir anlık mesajlaşma uygulaması kullanıyoruz.
+la mise en ligne | yayına alma, internete yükleme | isim (d) | La mise en ligne du nouveau site est prévue pour lundi. | Yeni sitenin yayına alınması pazartesiye planlandı.
+## Bilgisayar işlemleri
+configurer | yapılandırmak, ayarlamak | fiil | Le technicien est venu configurer la nouvelle imprimante. | Teknisyen yeni yazıcıyı ayarlamaya geldi.
+glisser | kaydırmak, sürüklemek; kaymak | fiil | Glissez le fichier dans ce dossier pour l'envoyer. | Göndermek için dosyayı bu klasöre sürükleyin.
+sélectionner | seçmek | fiil | Sélectionnez la langue de votre choix dans le menu. | Menüden istediğiniz dili seçin.
+convertir (converti) | dönüştürmek | fiil | Il faut convertir le document en PDF avant de l'envoyer. | Belgeyi göndermeden önce PDF'ye dönüştürmek gerekiyor.
+synchroniser | eşitlemek, senkronize etmek | fiil | Mon agenda se synchronise entre mon téléphone et mon ordinateur. | Ajandam telefonumla bilgisayarım arasında eşitleniyor.
+actualiser | yenilemek (sayfa), güncellemek | fiil | Actualise la page pour voir les nouveaux résultats. | Yeni sonuçları görmek için sayfayı yenile.
+la capture d'écran | ekran görüntüsü | isim (d) | Envoie-moi une capture d'écran du message d'erreur. | Bana hata mesajının ekran görüntüsünü gönder.
+compresser | sıkıştırmak | fiil | Compresse les photos, le fichier est trop lourd pour l'e-mail. | Fotoğrafları sıkıştır, dosya e-posta için çok büyük.
+la sauvegarde | yedek, yedekleme | isim (d) | Fais une sauvegarde de tes fichiers avant la mise à jour. | Güncellemeden önce dosyalarının yedeğini al.
+le raccourci | kısayol; kestirme | isim (e) | Ce raccourci clavier permet de copier plus vite. | Bu klavye kısayolu daha hızlı kopyalamayı sağlıyor.
+## Yenilikler
+la start-up | girişim şirketi, start-up | isim (d) | Elle a quitté son emploi pour lancer sa propre start-up. | Kendi girişimini kurmak için işinden ayrıldı.
+de pointe | en ileri, son teknoloji | ifade | Cet hôpital utilise des équipements de pointe pour les opérations. | Bu hastane ameliyatlar için son teknoloji ekipman kullanıyor.
+révolutionnaire | devrim niteliğinde | sıfat | Ce nouveau matériau est vraiment révolutionnaire pour le bâtiment. | Bu yeni malzeme inşaat için gerçekten devrim niteliğinde.
+l'impression 3D (f) | üç boyutlu baskı | isim (d) | Grâce à l'impression 3D, on peut fabriquer des pièces chez soi. | Üç boyutlu baskı sayesinde evde parça üretilebiliyor.
+la voiture autonome | sürücüsüz araba | isim (d) | Les voitures autonomes sont testées dans certaines villes. | Sürücüsüz arabalar bazı şehirlerde test ediliyor.
+le drone | dron, insansız hava aracı | isim (e) | Les images du festival ont été filmées avec un drone. | Festivalin görüntüleri bir dronla çekildi.
+la réalité virtuelle | sanal gerçeklik | isim (d) | Avec ce casque de réalité virtuelle, on visite le musée depuis chez soi. | Bu sanal gerçeklik başlığıyla müze evden gezilebiliyor.
+la domotique | akıllı ev sistemi | isim (d) | Grâce à la domotique, je ferme les volets avec mon téléphone. | Akıllı ev sistemi sayesinde panjurları telefonumla kapatıyorum.
+le capteur | sensör, algılayıcı | isim (e) | Un capteur allume la lumière quand quelqu'un entre. | Biri girdiğinde bir sensör ışığı yakıyor.
+connecté | bağlı, internete bağlı | sıfat | Aujourd'hui, même les réfrigérateurs sont connectés à internet. | Bugün buzdolapları bile internete bağlı.
+## Teknoloji ve toplum
+la cybercriminalité | siber suç | isim (d) | La police crée une unité spéciale contre la cybercriminalité. | Polis siber suçlara karşı özel bir birim kuruyor.
+la caméra de surveillance | güvenlik kamerası | isim (d) | Le voleur a été filmé par une caméra de surveillance. | Hırsız bir güvenlik kamerası tarafından görüntülendi.
+l'éthique (f) | etik, ahlak | isim (d) | L'intelligence artificielle pose de nouvelles questions d'éthique. | Yapay zekâ yeni etik sorular ortaya çıkarıyor.
+les déchets électroniques | elektronik atıklar | isim (çoğul) | Les déchets électroniques doivent être déposés dans un point de collecte. | Elektronik atıklar bir toplama noktasına bırakılmalı.
+dépassé | modası geçmiş, eskimiş; bunalmış | sıfat | Mon téléphone a seulement quatre ans, mais il est déjà dépassé. | Telefonum sadece dört yaşında ama şimdiden eskimiş.
+l'addiction (f) | bağımlılık (madde, ekran) | isim (d) | Les médecins parlent d'une vraie addiction aux jeux en ligne. | Doktorlar çevrim içi oyunlara gerçek bir bağımlılıktan söz ediyor.
+l'internaute (m) | internet kullanıcısı | isim (e) | Des milliers d'internautes ont commenté cette photo étonnante. | Binlerce internet kullanıcısı bu şaşırtıcı fotoğrafa yorum yaptı.
+la panne de courant | elektrik kesintisi | isim (d) | Pendant la panne de courant, tout le quartier était dans le noir. | Elektrik kesintisi sırasında bütün mahalle karanlıktaydı.
+le lanceur d'alerte | ihbarcı, usulsüzlüğü ifşa eden kişi | isim (e) | Un lanceur d'alerte a révélé que l'entreprise vendait nos informations. | Bir ihbarcı şirketin bilgilerimizi sattığını ortaya çıkardı.
+le réglage | ayar | isim (e) | J'ai changé les réglages de mon téléphone pour économiser la batterie. | Pili korumak için telefonumun ayarlarını değiştirdim.
