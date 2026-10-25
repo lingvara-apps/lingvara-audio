@@ -1,0 +1,102 @@
+
+- A1/01.txt — Tanışma ve temel ifadeler | Selamlaşma, zamirler, soru kelimeleri
+- A1/02.txt — Aile ve insanlar | Akrabalar, meslekler, karakter
+- A1/03.txt — Sayılar ve zaman | Rakamlar, saat, günler, aylar
+- A1/04.txt — Ev ve eşyalar | Odalar, mobilya, mutfak, ev işleri
+- A1/05.txt — Yemek ve içecek | Kahvaltı, market, restoran, tatlar
+- A1/06.txt — Şehir ve ulaşım | Yerler, yön, toplu taşıma, seyahat, doğa
+- A1/07.txt — Alışveriş ve giyim | Para, renkler, kıyafetler, vücut, sağlık
+- A1/08.txt — Temel fiiller ve günlük hayat | En sık fiiller, günlük rutin, bağlaçlar
+- A2/01.txt — Günlük hayat | Alışkanlıklar, ev işleri, para, karakter
+- A2/02.txt — İş hayatı | Ofis, toplantı, meslekler, kariyer
+- A2/03.txt — Sağlık | Doktor, belirtiler, eczane, acil durum
+- A2/04.txt — Seyahat | Uçak, tren, otel, gezi, belgeler
+- A2/05.txt — Doğa ve hayvanlar | Hayvanlar, bitkiler, hava, çevre
+- A2/06.txt — Ev hayatı | Kiralama, tamir, mobilya, komşular
+- A2/07.txt — Duygular ve ilişkiler | His, arkadaşlık, aşk, aile olayları
+- A2/08.txt — Boş zaman | Hobiler, spor, müzik, sinema, eğlence
+- A2/09.txt — Hizmetler ve alışveriş | Banka, kargo, kuaför, giyim
+- A2/10.txt — Teknoloji | Cihazlar, internet, sosyal medya, sorunlar
+- A2/11.txt — Mutfakta | Yemek pişirme, Türk mutfağı, meyve-sebze, beslenme
+- A2/12.txt — Eğitim ve toplum | Okul, üniversite, resmî işler, şehir, bağlaçlar
+- B1/01.txt — İnsan ve ilişkiler | Kişilik, aile, davranış, duygular
+- B1/02.txt — İş dünyası | Şirket, kariyer, toplantı, müzakere
+- B1/03.txt — Eğitim ve bilim | Üniversite, araştırma, bilimsel dil
+- B1/04.txt — Medya ve haberler | Basın, TV, sosyal medya, bilgi
+- B1/05.txt — Sağlık ve psikoloji | Hastalık, tedavi, ruh sağlığı
+- B1/06.txt — Çevre ve iklim | Ekoloji, doğal afetler, sürdürülebilirlik
+- B1/07.txt — Seyahat ve kültür | Yolculuk, turizm, kültür farkları
+- B1/08.txt — Ekonomi ve para | Finans, banka, piyasa, kişisel bütçe
+- B1/09.txt — Kent hayatı ve konut | Ev bulmak, mahalle, şehir sorunları
+- B1/10.txt — Teknoloji | Yazılım, güvenlik, yapay zekâ, uzay
+- B1/11.txt — Sanat ve kültür | Edebiyat, müzik, sinema, tiyatro, resim
+- B1/12.txt — Hukuk ve toplum | Kanunlar, mahkeme, devlet, haklar
+- B1/13.txt — Fikir bildirme | Görüş, katılma, itiraz, ikna, tepkiler
+- B1/14.txt — Fiil kalıpları | ir a, acabar de, volver a, dejar de, ponerse a…
+- B1/15.txt — Bağlaçlar ve deyimler | Karmaşık cümleler, bağlayıcılar, günlük deyimler
+- B2/01.txt — Karakter nüansları | İnce kişilik özellikleri ve davranışlar
+- B2/02.txt — Kariyer ve girişimcilik | İş kurmak, yönetim, profesyonel dil
+- B2/03.txt — Siyaset ve uluslararası ilişkiler | Diplomasi, çatışma, uluslararası kurumlar
+- B2/04.txt — Tarih | Dönemler, olaylar, dünya ve Türkiye ve Anadolu tarihi (tarafsız)
+- B2/05.txt — Bilim ve araştırma | Bilimsel yöntem, akademik dil, keşifler
+- B2/06.txt — Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+- B2/07.txt — Psikoloji ve zihin | Bilinç, kişilik, duygular, terapi
+- B2/08.txt — Ekonomi ve finans | Makroekonomi, borsa, bankacılık, ticaret
+- B2/09.txt — Retorik ve tartışma | Münazara, ikna dili, medya analizi
+- B2/10.txt — Spor ve boş zaman | Spor dalları, müsabaka, antrenman, hobiler
+- B2/11.txt — Din, felsefe ve değerler | İnanç, ahlak, felsefi kavramlar
+- B2/12.txt — Dil ve dilbilim | Dil bilgisi, çeviri, dil öğrenme
+- B2/13.txt — Toplumsal sorunlar | Eşitsizlik, demografi, haklar, sosyal yardım
+- B2/14.txt — Sanayi ve tarım | Üretim, madencilik, inşaat, çiftçilik
+- B2/15.txt — Aile ve ilişkiler | Evlilik, akrabalık, ebeveynlik, kuşaklar
+- B2/16.txt — Moda ve görünüş | Giyim tarzı, kumaşlar, aksesuarlar, dış görünüş
+- B2/17.txt — Ulaşım ve trafik | Yol, sürüş, araç, toplu taşıma
+- B2/18.txt — Soyut kavramlar | Süreç, neden, nicelik, nitelik, ilişki
+- B2/19.txt — Fiil + edat kalıpları | pensar en, soñar con, depender de…
+- B2/20.txt — Deyimler ve konuşma dili | Günlük deyimler, argo, atasözleri
+- C1/01.txt — Akademik söylem | Bilimsel yazı, argüman, akademik kalıplar
+- C1/02.txt — Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+- C1/03.txt — Hukuk dili | Yargılama, ceza ve medeni hukuk, hukuki kalıplar
+- C1/04.txt — Siyaset bilimi | İdeolojiler, iktidar, seçim sistemleri, güvenlik
+- C1/05.txt — Bilim ve teknoloji söylemi | Yapay zekâ, biyoteknoloji, enerji, dijital toplum
+- C1/06.txt — Ruh hâlleri ve davranış | İnce duygu ve tutum nüansları
+- C1/07.txt — Edebiyat eleştirisi | Türler, yapı, söz sanatları, akımlar
+- C1/08.txt — Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+- C1/09.txt — Sosyoloji | Toplumsal yapı, kimlik, kültür, araştırma yöntemleri
+- C1/10.txt — Coğrafya ve jeoloji | Yer şekilleri, sular, iklim kuşakları, harita
+- C1/11.txt — Anatomi ve fizyoloji | İskelet, organlar, dolaşım, duyular
+- C1/12.txt — Sanat ve estetik | Resim, müzik, sahne, sinema terimleri
+- C1/13.txt — Felsefe ve etik | Felsefe dalları, ahlak kuramları, etik tartışmalar
+- C1/14.txt — Eğitim ve pedagoji | Öğretim yöntemleri, okul yönetimi, değerlendirme
+- C1/15.txt — Din ve mitoloji | Mitler, din kurumları, kutsal metinler, kavramlar
+- C1/16.txt — Konuşma dili | Parçacıklar, ünlemler, gündelik argo
+- C1/17.txt — Ser / estar ve anlam farkları | ser listo / estar listo…
+- C1/18.txt — Resmî üslup | Bürokratik dil, resmî yazışma, kalıplar
+- C1/19.txt — Söylem bağlayıcıları | İleri bağlaçlar, açıklama, yapı ve görüş belirteçleri
+- C1/20.txt — Deyimler I | Çalışma, başarı, karakter, ilişkiler
+- C1/21.txt — Deyimler II | Göz, dil, kalp, davranış ve durum deyimleri
+- C1/22.txt — Atasözleri ve kanatlı sözler | Halk bilgeliği ve edebiyattan alıntılar
+- C2/01.txt — Eski ve edebî sözcükler | Şiir ve klasik edebiyatın arkaik dili
+- C2/02.txt — Eşanlamlı fiil nüansları | Bakmak, konuşmak, yürümek, gülmek... ince farklar
+- C2/03.txt — Sıfat nüansları | Büyüklük, güzellik, zekâ, hız, ses, karakter
+- C2/04.txt — Gençlik ve internet argosu | Sosyal medya, oyun, okul, arkadaşlar
+- C2/05.txt — Ofis ve IT jargonu | Kurumsal argo, yazılım dili, para argosu
+- C2/06.txt — Türk kültürü | Gelenekler, bayramlar, yemekler, gündelik hayat
+- C2/07.txt — Medya dili ve klişeler | Haber kalıpları, gazetecilik terimleri, medya eleştirisi
+- C2/08.txt — Sokak dili | Gündelik kaba ama yaygın ifadeler, ünlemler (küfür yok)
+- C2/09.txt — Mizah ve ironi | Şaka türleri, alay, kelime oyunları, internet mizahı
+- C2/10.txt — Mecazlı fiiller | dar, echar, llevar, quedar ile kalıplar
+- C2/11.txt — Subjuntivo tetikleyen ifadeler | ojalá, es posible que, aunque…
+- C2/12.txt — Deyimler III: beden | Kulak, göz, yürek, dil, el, ayak, baş ile deyimler
+- C2/13.txt — Deyimler IV: hayvan, doğa, yemek | Hayvanlar, doğa olayları ve mutfakla ilgili deyimler
+- C2/14.txt — Atasözleri II | Emek, temkin, dostluk, kader, akıl, para ve sevgi üzerine atasözleri
+- C2/15.txt — Kanatlı sözler II | Edebiyat, sinema, antik çağ ve tarihten yerleşmiş sözler
+- C2/16.txt — Diyalog formülleri | Kibar ve eski üslup, selam-veda, teselli, sert çıkışlar, kabul
+- C2/17.txt — Duygu nüansları III | Korku, kaygı, öfke, hüzün, utanç, kibir, sükûnet, coşku
+- C2/18.txt — Hukuk ve tıp jargonu | Mahkeme, suç, diplomasi; teşhis, tedavi, tıbbi araçlar
+- C2/19.txt — Tarihî ve kurumsal sözcükler | Türkiye ve Anadolu tarihinden gündelik dile geçen sözcükler
+- C2/20.txt — Retorik ve hitabet | Hitabet sanatı, söz sanatları, tartışma, safsatalar, sunum dili
+- C2/21.txt — Hareket, jest ve ses betimlemesi | Edebî anlatımda yürüyüş, düşme, mimik ve ses fiilleri
+- C2/22.txt — Duyusal betimleme | Ses, ışık, renk, doku, tat ve koku nüansları
+- C2/23.txt — Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
+

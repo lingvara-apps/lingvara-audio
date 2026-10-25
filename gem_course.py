@@ -6,9 +6,14 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gem_common import call, out_of_time  # noqa: E402
 
 C = sys.argv[1]
-NAME = {"es": "Spanish (İspanyolca)", "de": "German (Almanca)", "fr": "French (Fransızca)", "it": "Italian (İtalyanca)"}[C]
+NAME = {"es": "Spanish (İspanyolca)", "de": "German (Almanca)", "fr": "French (Fransızca)", "it": "Italian (İtalyanca)", "pt": "Brazilian Portuguese (Portekizce)", "ja": "Japanese (Japonca)",
+        "ko": "Korean (Korece)", "zh": "Mandarin Chinese, simplified (Çince)", "tr": "Turkish (Türkçe)", "ar": "Modern Standard Arabic (Arapça)"}[C]
 D = f"course_{C}"
 BRIEF = open("brief.md", encoding="utf-8").read()
+# Türkçe kursu dünyaya Türkçe öğretir: anlamlar, çeviriler ve başlıklar İngilizce.
+ML = "English" if C == "tr" else "Turkish"
+WHO = ("learners worldwide (ALL meanings, translations, unit/lesson titles and explanations in ENGLISH)" if C == "tr"
+       else "Turkish-speaking learners")
 POS = {"isim", "isim (e)", "isim (d)", "isim (o)", "isim (çoğul)", "fiil", "fiil · düzensiz", "fiil · dönüşlü", "sıfat", "zarf",
        "zamir", "edat", "bağlaç", "ünlem", "ifade", "deyim", "atasözü", "sayı", "phrasal verb", "harf · sesli", "harf · ünsüz", "ses"}
 
@@ -30,7 +35,7 @@ def used_words(skip=None):
     return s
 
 
-def check_words(text, used):
+def check_words(text, used, want=10):
     errs, lessons, n, seen = [], 0, 0, set()
     lines = [l for l in text.splitlines() if l.strip()]
     if not lines or not lines[0].startswith("# UNIT:"):
@@ -56,24 +61,24 @@ def check_words(text, used):
         if f[2] not in POS:
             errs.append(f"line {i}: part of speech '{f[2]}' not allowed (allowed: {', '.join(sorted(POS))})")
         k = key(f[0])
-        if k in used or k in seen:
+        if want == 10 and (k in used or k in seen):
             errs.append(f"line {i}: '{f[0]}' already used elsewhere in the course — choose another word")
         seen.add(k)
     if lessons and cur != 10:
         errs.append(f"last lesson has {cur} lines, must be exactly 10")
-    if lessons != 10:
-        errs.append(f"file has {lessons} lessons, must be exactly 10")
+    if lessons != want:
+        errs.append(f"file has {lessons} lessons, must be exactly {want}")
     return errs
 
 
-def write_words(path, title):
+def write_words(path, title, want=10):
     used = used_words(skip=path)
-    sp = f"{D}/A1/01.txt" if os.path.exists(f"{D}/A1/01.txt") else "course_es/A1/01.txt"
+    sp = "course_es/A0/01.txt" if want == 12 else (f"{D}/A1/01.txt" if os.path.exists(f"{D}/A1/01.txt") else "course_es/A1/01.txt")
     sample = open(sp, encoding="utf-8").read()[:2500] if os.path.exists(sp) else ""
     lv = path.split("/")[-2]
-    base = (f"{BRIEF}\n\nYou write the {NAME} course for Turkish-speaking learners. Write ONE word file now.\n"
+    base = (f"{BRIEF}\n\nYou write the {NAME} course for {WHO}. Write ONE word file now.\n"
             f"File: {lv}/{os.path.basename(path)} — unit: {title}\nLevel: {lv}.\n"
-            f"Exactly 10 lessons (## title) × 10 word lines. Words must NOT be any of these already used headwords:\n"
+            f"Exactly {want} lessons (## title) × 10 word lines. Words must NOT be any of these already used headwords:\n"
             f"{', '.join(sorted(used))}\n\nFormat example (other unit):\n{sample}\n\n"
             "Output ONLY the file text. No code fences.")
     text, errs = None, None
@@ -83,7 +88,7 @@ def write_words(path, title):
         if out is None:
             return False
         text = re.sub(r"^```\w*\n|```\s*$", "", out.strip()).strip() + "\n"
-        errs = check_words(text, used)
+        errs = check_words(text, used, want)
         if not errs:
             break
         print(f"{path}: deneme {attempt+1}, {len(errs)} hata", flush=True)
@@ -105,13 +110,13 @@ def write_other(kind, lv):
     vp = sorted(os.listdir(f"{D}/{lv}")) if os.path.isdir(f"{D}/{lv}") else []
     for f in vp[:3]:
         vocab += open(f"{D}/{lv}/{f}", encoding="utf-8").read()[:1500]
-    want = ("dialog file: '# DIALOG: Turkish title | Turkish subtitle | Speaker1 | Speaker2', then exactly 4 parts "
-            "('## Turkish part title'), each part exactly 10 lines 'A | target-language sentence | Turkish translation' (A/B alternate)."
+    want = (f"dialog file: '# DIALOG: {ML} title | {ML} subtitle | Speaker1 | Speaker2', then exactly 4 parts "
+            f"('## {ML} part title'), each part exactly 10 lines 'A | target-language sentence | {ML} translation' (A/B alternate)."
             if kind == "dialog" else
-            f"grammar file: exactly {4 if lv == 'A0' else 6} topics, each: '# TOPIC: Turkish title | short target-language examples', "
-            "1–3 explanation lines starting with '>', at least 3 example lines '= target-language example | Turkish translation', "
-            "exactly 5 question lines '? Turkish question or gapped sentence | CORRECT | wrong | wrong' (first option correct, all different).")
-    prompt = (f"{BRIEF}\n\nYou write the {NAME} course for Turkish-speaking learners. Write the {lv} {want}\n"
+            f"grammar file: exactly {4 if lv == 'A0' else 6} topics, each: '# TOPIC: {ML} title | short target-language examples', "
+            f"1–3 explanation lines starting with '>', at least 3 example lines '= target-language example | {ML} translation', "
+            f"exactly 5 question lines '? {ML} question or gapped sentence | CORRECT | wrong | wrong' (first option correct, all different).")
+    prompt = (f"{BRIEF}\n\nYou write the {NAME} course for {WHO}. Write the {lv} {want}\n"
               f"Level {lv}. Vocabulary of this level for reference:\n{vocab}\n\nOutput ONLY the file text. No code fences.")
     out = call(prompt)
     if out:
@@ -122,6 +127,10 @@ def write_other(kind, lv):
 
 
 def main():
+    a0 = f"{D}/A0/01.txt"
+    if not os.path.exists(a0) and not out_of_time():
+        # A0: 3 ünite (alfabe/yazı, zor sesler, ilk kelimeler) = 12 ders; ayrıntı kılavuzun A0 bölümünde.
+        write_words(a0, "A0 — alphabet/script, difficult sounds, first words (follow the A0 section of the guide; 3 '# UNIT:' blocks)", 12)
     for line in open(f"syllabus_{C}.txt", encoding="utf-8"):
         m = re.match(r"- ([A-C][0-2])/(\d\d)\.txt — (.+)", line.strip())
         if not m:

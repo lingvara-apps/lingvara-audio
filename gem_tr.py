@@ -7,7 +7,8 @@ from gem_common import call, out_of_time  # noqa: E402
 
 C = sys.argv[1]
 SRC, OUT = ("src", "out") if C == "en" else (f"course_{C}", f"out_{C}")
-CNAME = {"en": "English", "es": "Spanish", "de": "German", "fr": "French"}[C]
+CNAME = {"en": "English", "es": "Spanish", "de": "German", "fr": "French", "it": "Italian", "pt": "Brazilian Portuguese",
+         "ja": "Japanese", "ko": "Korean", "zh": "Chinese", "ar": "Arabic", "tr": "Turkish"}[C]
 ORDER = [l for l in ["en", "de", "es", "fr", "pt", "ru", "zh", "id", "az", "ar", "hi", "uz", "kk", "ky"] if l != C]
 _sh, _n = (int(x) for x in os.environ.get("SHARD", "0/1").split("/"))
 ORDER = ORDER[_sh::_n]

@@ -17,7 +17,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        task: ["tr en 0/7", "tr en 1/7", "tr en 2/7", "tr en 3/7", "tr en 4/7", "tr en 5/7", "tr en 6/7", "course es", "course de", "course fr", "course it", "tr es 0/3", "tr es 1/3", "tr es 2/3"]
+        task: ["tr en 0/1", "course es", "course de", "course fr", "course it", "course pt", "course ja", "course ko", "course zh", "course tr", "course ar", "tr es 0/3", "tr es 1/3", "tr es 2/3", "tr de 0/1", "tr fr 0/1", "tr it 0/1", "tr pt 0/1", "tr ja 0/1", "tr ko 0/1"]
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,5 +38,5 @@ jobs:
         if: always()
         run: |
           git config user.name ci && git config user.email ci@x
-          git add -A out out_es course_es course_de course_fr course_it logs 2>/dev/null; git commit -qm "Gemini: ${{ matrix.task }}" || exit 0
+          git add -A out out_* course_* logs 2>/dev/null; git commit -qm "Gemini: ${{ matrix.task }}" || exit 0
           for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase origin tr-gemini && git push -q origin HEAD:tr-gemini && break; sleep $((RANDOM % 20 + 5)); done
