@@ -1,0 +1,111 @@
+# UNIT: Tıp | Uzmanlar, ciddi hastalıklar, tedavi, halk sağlığı
+## Uzmanlık alanları
+专科 (zhuānkē) | uzmanlık dalı | isim | 这家医院的心脏专科在全国很有名。 | Bu hastanenin kardiyoloji bölümü ülke genelinde çok ünlü.
+眼科 (yǎnkē) | göz hastalıkları | isim | 我的眼睛有点儿红，得去眼科看看。 | Gözlerim biraz kızardı, göz doktoruna gitmem lazım.
+皮肤科 (pífūkē) | dermatoloji | isim | 她脸上长了很多痘痘，去皮肤科开了药。 | Yüzünde çok sivilce çıktı, dermatolojiye gidip ilaç yazdırdı.
+妇产科 (fùchǎnkē) | kadın doğum | isim | 她怀孕以后每个月都去妇产科检查。 | Hamile kaldıktan sonra her ay kadın doğum kontrolüne gidiyor.
+骨科 (gǔkē) | ortopedi | isim | 他踢球时摔伤了腿，被送到了骨科。 | Futbol oynarken bacağını yaraladı ve ortopediye götürüldü.
+神经科 (shénjīngkē) | nöroloji | isim | 头疼了好几个月，医生建议他去神经科检查。 | Aylardır baş ağrısı çekiyor, doktor ona nörolojiye görünmesini önerdi.
+耳鼻喉科 (ěrbíhóukē) | kulak burun boğaz | isim | 嗓子一直疼的话，最好去耳鼻喉科看一下。 | Boğazın sürekli ağrıyorsa en iyisi kulak burun boğaza görün.
+精神科 (jīngshénkē) | psikiyatri | isim | 精神科医生耐心地听病人说话。 | Psikiyatrist hastayı sabırla dinledi.
+主治医生 (zhǔzhì yīshēng) | sorumlu hekim | isim | 我的主治医生每天早上都来查房。 | Sorumlu doktorum her sabah viziteye geliyor.
+专家号 (zhuānjiāhào) | uzman randevusu | isim | 这位医生的专家号很难挂。 | Bu doktordan uzman randevusu almak çok zor.
+## Ağır hastalıklar
+肿瘤 (zhǒngliú) | tümör | isim | 幸运的是，医生说这个肿瘤是良性的。 | Neyse ki doktor bu tümörün iyi huylu olduğunu söyledi.
+中风 (zhòngfēng) | felç, inme | isim | 爷爷中风以后，说话不太清楚了。 | Dedem inme geçirdikten sonra konuşması pek net değil.
+心梗 (xīngěng) | kalp krizi | isim | 他因为突发心梗被送进了医院。 | Ani bir kalp krizi geçirdiği için hastaneye kaldırıldı.
+艾滋病 (àizībìng) | AIDS | isim | 我们应该正确了解艾滋病，不要歧视病人。 | AIDS'i doğru anlamalı, hastalara ayrımcılık yapmamalıyız.
+肝炎 (gānyán) | hepatit | isim | 打疫苗可以预防乙型肝炎。 | Aşı olmak hepatit B'yi önleyebilir.
+结核 (jiéhé) | tüberküloz, verem | isim | 结核是一种可以治好的传染病。 | Tüberküloz tedavi edilebilen bulaşıcı bir hastalıktır.
+白血病 (báixuèbìng) | lösemi | isim | 这个孩子得了白血病，需要骨髓移植。 | Bu çocuk lösemiye yakalandı, kemik iliği nakli gerekiyor.
+痴呆 (chīdāi) | bunama | isim | 奶奶年纪大了，有点儿老年痴呆。 | Babaannem yaşlandı, biraz bunama belirtileri var.
+抑郁症 (yìyùzhèng) | depresyon (hastalık) | isim | 抑郁症是一种需要认真治疗的疾病。 | Depresyon ciddi şekilde tedavi edilmesi gereken bir hastalıktır.
+骨质疏松 (gǔzhì shūsōng) | kemik erimesi | isim | 多晒太阳、多喝牛奶可以预防骨质疏松。 | Bol güneş almak ve süt içmek kemik erimesini önleyebilir.
+## Teşhis
+心电图 (xīndiàntú) | EKG | isim | 医生让我先去做一个心电图。 | Doktor önce bir EKG çektirmemi istedi.
+验血 (yànxuè) | kan tahlili yaptırmak | fiil | 明天早上去医院验血，不能吃早饭。 | Yarın sabah hastanede kan tahlili için kahvaltı yapmamalısın.
+核磁共振 (hécí gòngzhèn) | MR (manyetik rezonans) | isim | 为了查清楚腰疼的原因，他做了核磁共振。 | Bel ağrısının nedenini netleştirmek için MR çektirdi.
+病因 (bìngyīn) | hastalığın nedeni | isim | 医生还没有找到他发烧的病因。 | Doktorlar ateşinin nedenini henüz bulamadı.
+确诊 (quèzhěn) | kesin teşhis koymak | fiil | 经过检查，他被确诊为肺炎。 | Muayeneden sonra kendisine zatürre teşhisi kondu.
+误诊 (wùzhěn) | yanlış teşhis | fiil | 这种病早期症状不明显，很容易误诊。 | Bu hastalığın erken belirtileri belirgin değil, kolayca yanlış teşhis edilebilir.
+早期 (zǎoqī) | erken evre | isim | 癌症如果在早期发现，治愈的可能性很大。 | Kanser erken evrede fark edilirse iyileşme olasılığı yüksektir.
+晚期 (wǎnqī) | ileri evre | isim | 很遗憾，他的病已经到了晚期。 | Ne yazık ki hastalığı ileri evreye ulaşmış.
+良性 (liángxìng) | iyi huylu | sıfat | 检查结果显示是良性的，你不用担心。 | Tahlil sonucu iyi huylu çıktı, endişelenmene gerek yok.
+恶性 (èxìng) | kötü huylu | sıfat | 恶性肿瘤需要尽快手术。 | Kötü huylu tümörlerin bir an önce ameliyat edilmesi gerekir.
+## Tedavi yöntemleri
+化疗 (huàliáo) | kemoterapi | isim | 化疗以后，她的头发都掉了。 | Kemoterapiden sonra saçlarının hepsi döküldü.
+放疗 (fàngliáo) | radyoterapi | isim | 他每周要去医院做三次放疗。 | Haftada üç kez radyoterapi için hastaneye gitmesi gerekiyor.
+移植 (yízhí) | nakil | fiil | 他做了肾移植手术，恢复得很好。 | Böbrek nakli ameliyatı oldu, çok iyi iyileşiyor.
+麻醉 (mázuì) | anestezi | isim | 手术前，医生给病人做了全身麻醉。 | Ameliyattan önce doktor hastaya genel anestezi verdi.
+急救 (jíjiù) | ilk yardım | isim | 每个人都应该学一些基本的急救知识。 | Herkes temel ilk yardım bilgilerini öğrenmeli.
+疗程 (liáochéng) | tedavi kürü | isim | 这种药一个疗程是十四天。 | Bu ilacın bir tedavi kürü on dört gün.
+理疗 (lǐliáo) | fizik tedavi | isim | 腿受伤以后，他做了两个月的理疗。 | Bacağı yaralandıktan sonra iki ay fizik tedavi gördü.
+保守治疗 (bǎoshǒu zhìliáo) | ameliyatsız tedavi | isim | 医生建议先进行保守治疗，不要马上手术。 | Doktor hemen ameliyat yerine önce ameliyatsız tedavi denenmesini önerdi.
+缝合 (fénghé) | dikiş atmak | fiil | 伤口比较深，需要缝合几针。 | Yara oldukça derin, birkaç dikiş atılması gerekiyor.
+抢救 (qiǎngjiù) | hayatını kurtarmak (acil müdahale) | fiil | 经过医生的全力抢救，病人终于脱离了危险。 | Doktorların tüm çabasıyla hasta sonunda tehlikeyi atlattı.
+## İlaçlar
+抗生素 (kàngshēngsù) | antibiyotik | isim | 感冒一般不需要吃抗生素。 | Soğuk algınlığında genelde antibiyotik almak gerekmez.
+止痛药 (zhǐtòngyào) | ağrı kesici | isim | 牙疼得厉害，我吃了一片止痛药。 | Dişim çok ağrıyordu, bir ağrı kesici aldım.
+安眠药 (ānmiányào) | uyku ilacı | isim | 长期吃安眠药对身体不好。 | Uzun süre uyku ilacı kullanmak vücuda zararlıdır.
+剂量 (jìliàng) | doz | isim | 孩子吃药的剂量要比大人少。 | Çocukların ilaç dozu yetişkinlerinkinden az olmalı.
+胶囊 (jiāonáng) | kapsül | isim | 这种胶囊每天吃两次，每次一粒。 | Bu kapsül günde iki kez, her seferinde bir tane alınır.
+药膏 (yàogāo) | merhem | isim | 被蚊子咬了以后，可以涂一点儿药膏。 | Sivrisinek ısırdıktan sonra biraz merhem sürebilirsin.
+口服 (kǒufú) | ağızdan almak | fiil | 这种药只能口服，不能注射。 | Bu ilaç yalnızca ağızdan alınabilir, enjekte edilemez.
+服用 (fúyòng) | (ilaç) almak, kullanmak | fiil | 请按照医生的要求服用药物。 | Lütfen ilaçları doktorun talimatlarına göre kullanın.
+过量 (guòliàng) | aşırı doz, aşırı miktar | sıfat | 过量饮酒会伤害肝脏。 | Aşırı alkol tüketimi karaciğere zarar verir.
+药效 (yàoxiào) | ilacın etkisi | isim | 这种药的药效能持续八个小时。 | Bu ilacın etkisi sekiz saat sürebiliyor.
+## Halk sağlığı
+公共卫生 (gōnggòng wèishēng) | halk sağlığı | isim | 公共卫生关系到每个人的健康。 | Halk sağlığı herkesin sağlığını doğrudan ilgilendirir.
+流行病 (liúxíngbìng) | salgın hastalık | isim | 流行病学家正在研究这种病毒的传播方式。 | Salgın uzmanları bu virüsün yayılma biçimini araştırıyor.
+隔离 (gélí) | karantinaya almak, izole etmek | fiil | 感染的病人需要隔离治疗。 | Enfekte olan hastaların izole edilerek tedavi edilmesi gerekiyor.
+防疫 (fángyì) | salgınla mücadele | isim | 学校做好了各项防疫工作。 | Okul salgına karşı tüm önlemleri aldı.
+口罩 (kǒuzhào) | maske (yüz) | isim | 感冒的时候出门最好戴口罩。 | Grip olduğunda dışarı maskeyle çıkmak en iyisi.
+接种 (jiēzhòng) | aşılamak | fiil | 很多老人已经接种了流感疫苗。 | Pek çok yaşlı grip aşısı oldu.
+爆发 (bàofā) | patlak vermek | fiil | 这个地区去年爆发了一场传染病。 | Bu bölgede geçen yıl bir bulaşıcı hastalık salgını patlak verdi.
+蔓延 (mànyán) | yayılmak (hızla) | fiil | 疫情在短时间内迅速蔓延。 | Salgın kısa sürede hızla yayıldı.
+病例 (bìnglì) | vaka | isim | 本市今天新增了五个病例。 | Şehrimizde bugün beş yeni vaka görüldü.
+传播途径 (chuánbō tújìng) | bulaşma yolu | isim | 了解疾病的传播途径，才能更好地预防。 | Hastalığın bulaşma yollarını bilirsen ancak o zaman daha iyi korunabilirsin.
+## Hastane ortamı
+医护人员 (yīhù rényuán) | sağlık personeli | isim | 医护人员日夜照顾病人，非常辛苦。 | Sağlık personeli gece gündüz hastalarla ilgileniyor, çok yoruluyorlar.
+院长 (yuànzhǎng) | başhekim, müdür (hastane) | isim | 医院院长亲自看望了受伤的工人。 | Başhekim yaralı işçileri bizzat ziyaret etti.
+实习医生 (shíxí yīshēng) | stajyer doktor | isim | 实习医生跟着主任学习做手术。 | Stajyer doktor şeften ameliyat yapmayı öğreniyor.
+护工 (hùgōng) | hasta bakıcı | isim | 他们请了一个护工照顾住院的父亲。 | Hastanede yatan babalarına bakması için bir hasta bakıcı tuttular.
+手术室 (shǒushùshì) | ameliyathane | isim | 家属在手术室外面焦急地等待。 | Hasta yakınları ameliyathanenin önünde endişeyle bekliyor.
+重症监护室 (zhòngzhèng jiānhùshì) | yoğun bakım ünitesi | isim | 病人手术后被送进了重症监护室。 | Hasta ameliyattan sonra yoğun bakıma alındı.
+候诊室 (hòuzhěnshì) | bekleme salonu (muayene) | isim | 候诊室里坐满了等着看病的人。 | Bekleme salonu doktora görünmeyi bekleyen insanlarla dolu.
+药房 (yàofáng) | eczane (hastane içi) | isim | 拿着处方去一楼药房取药。 | Reçeteyle birinci kattaki eczaneden ilacını al.
+担架 (dānjià) | sedye | isim | 受伤的人被抬上担架送进了救护车。 | Yaralı sedyeye konup ambulansa taşındı.
+轮椅 (lúnyǐ) | tekerlekli sandalye | isim | 手术后，爷爷暂时要坐轮椅。 | Ameliyattan sonra dedemin bir süre tekerlekli sandalye kullanması gerekiyor.
+## Ağır belirtiler
+炎症 (yánzhèng) | iltihap | isim | 伤口有炎症，要每天换药。 | Yarada iltihap var, her gün pansuman yapılmalı.
+并发症 (bìngfāzhèng) | komplikasyon | isim | 糖尿病如果不控制好，会引起很多并发症。 | Diyabet iyi kontrol edilmezse pek çok komplikasyona yol açar.
+昏迷 (hūnmí) | koma; bilinci kapalı | fiil | 车祸以后，他昏迷了三天。 | Trafik kazasından sonra üç gün komada kaldı.
+休克 (xiūkè) | şok (tıbbi) | fiil | 病人因为失血过多休克了。 | Hasta çok kan kaybettiği için şoka girdi.
+抽搐 (chōuchù) | kasılma, nöbet | fiil | 孩子发高烧，手脚开始抽搐。 | Çocuğun ateşi yükseldi, elleri ve ayakları kasılmaya başladı.
+麻木 (mámù) | uyuşmuş; duyarsız | sıfat | 坐得太久，我的腿都麻木了。 | Çok uzun oturdum, bacaklarım uyuştu.
+瘫痪 (tānhuàn) | felç olmak | fiil | 他在一次事故中下半身瘫痪了。 | Bir kazada belden aşağısı felç oldu.
+失明 (shīmíng) | kör olmak | fiil | 这种病如果不治疗，可能会导致失明。 | Bu hastalık tedavi edilmezse körlüğe yol açabilir.
+耳聋 (ěrlóng) | sağırlık | isim | 长期听很大声的音乐可能会导致耳聋。 | Uzun süre çok yüksek sesle müzik dinlemek sağırlığa yol açabilir.
+脱水 (tuōshuǐ) | susuz kalmak (vücut) | fiil | 天气太热，又不喝水，很容易脱水。 | Hava çok sıcakken su da içmezsen kolayca susuz kalırsın.
+## Sağlık sistemi
+医患关系 (yīhuàn guānxì) | doktor-hasta ilişkisi | isim | 良好的沟通能改善医患关系。 | İyi iletişim doktor-hasta ilişkisini iyileştirebilir.
+医疗保险 (yīliáo bǎoxiǎn) | sağlık sigortası | isim | 有了医疗保险，看病的负担小多了。 | Sağlık sigortası sayesinde tedavi masrafları çok azaldı.
+挂号费 (guàhàofèi) | muayene ücreti | isim | 专家门诊的挂号费比普通门诊贵。 | Uzman polikliniğin muayene ücreti normal poliklinikten pahalı.
+医药费 (yīyàofèi) | tedavi ve ilaç masrafı | isim | 这次住院的医药费一共花了两万块。 | Bu hastane yatışının tedavi masrafı toplam yirmi bin yuan tuttu.
+看病难 (kànbìng nán) | doktora ulaşmanın zorluğu | ifade | 在一些农村地区，看病难的问题还没有解决。 | Bazı kırsal bölgelerde doktora ulaşma sorunu hâlâ çözülmedi.
+分诊 (fēnzhěn) | triyaj, hastaları yönlendirme | fiil | 护士根据病情给病人分诊。 | Hemşire hastaları durumlarına göre ilgili birimlere yönlendiriyor.
+转院 (zhuǎnyuàn) | başka hastaneye sevk edilmek | fiil | 病情太严重，他被转院到了省城的大医院。 | Durumu çok ağır olduğu için il merkezindeki büyük hastaneye sevk edildi.
+会诊 (huìzhěn) | konsültasyon | fiil | 几位专家一起为这个病人会诊。 | Birkaç uzman bu hasta için birlikte konsültasyon yaptı.
+医德 (yīdé) | hekimlik ahlakı | isim | 这位医生医术高明，医德也很好。 | Bu doktor hem çok usta hem de hekimlik ahlakı çok iyi.
+医术 (yīshù) | hekimlik becerisi | isim | 他的医术在当地很有名。 | Hekimlik becerisi yörede çok ünlü.
+## Doğum ve ölüm
+生育 (shēngyù) | doğurmak, çocuk sahibi olmak | fiil | 现在很多年轻夫妻推迟了生育的时间。 | Artık pek çok genç çift çocuk sahibi olmayı erteliyor.
+分娩 (fēnmiǎn) | doğum yapmak | fiil | 她在医院顺利分娩了一个女婴。 | Hastanede sorunsuz bir doğumla bir kız bebek dünyaya getirdi.
+早产 (zǎochǎn) | erken doğum | fiil | 宝宝早产了一个月，需要住在保温箱里。 | Bebek bir ay erken doğdu, kuvözde kalması gerekiyor.
+新生儿 (xīnshēng'ér) | yenidoğan | isim | 新生儿每天需要睡十几个小时。 | Yenidoğanlar her gün on küsur saat uyumaya ihtiyaç duyar.
+死亡 (sǐwáng) | ölüm | isim | 这次车祸造成了两人死亡。 | Bu trafik kazasında iki kişi öldü.
+临终 (línzhōng) | ölüm döşeğinde, son anlarında | fiil | 老人临终前把孩子们都叫到了身边。 | Yaşlı adam son anlarında bütün çocuklarını yanına çağırdı.
+器官捐献 (qìguān juānxiàn) | organ bağışı | isim | 他生前签了器官捐献同意书。 | Hayattayken organ bağışı onay formunu imzalamıştı.
+献血 (xiànxuè) | kan bağışlamak | fiil | 他每年都会去献血。 | Her yıl bir kez kan bağışlamaya gider.
+植物人 (zhíwùrén) | bitkisel hayattaki kişi | isim | 他车祸以后成了植物人。 | Trafik kazasından sonra bitkisel hayata girdi.
+绝症 (juézhèng) | tedavisi olmayan hastalık | isim | 以前很多绝症现在已经可以治疗了。 | Eskiden tedavisi olmayan pek çok hastalık artık tedavi edilebiliyor.
