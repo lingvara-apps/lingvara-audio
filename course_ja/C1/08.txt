@@ -1,0 +1,111 @@
+# UNIT: Mimari ve inşaat | Proje, taşıyıcı sistem, şantiye, tesisat
+## Proje ve tasarım
+設計図 (sekkeizu) | proje çizimi, plan | isim | 設計図に基づいて、職人たちが作業を進めている。 | Ustalar proje çizimine göre işi ilerletiyor.
+意匠 (ishō) | mimari tasarım (estetik) | isim | 外観の意匠には、伝統的な格子のデザインが取り入れられた。 | Dış cephe tasarımına geleneksel kafes motifi eklendi.
+平面図 (heimenzu) | kat planı | isim | 平面図を見ると、台所と居間がつながっているのがわかる。 | Kat planına bakınca mutfakla oturma odasının birleşik olduğu anlaşılıyor.
+立面図 (ritsumenzu) | görünüş (cephe çizimi) | isim | 南側の立面図で、窓の配置を確認してください。 | Pencere yerleşimini güney görünüşünden kontrol edin.
+断面図 (danmenzu) | kesit | isim | 断面図には、各階の天井高さが記されている。 | Kesitte her katın tavan yüksekliği yazıyor.
+施主 (seshu) | yapı sahibi, işveren | isim | 施主の要望を受けて、浴室の位置を変更した。 | Yapı sahibinin isteği üzerine banyonun yerini değiştirdik.
+設計事務所 (sekkei jimusho) | mimarlık bürosu | isim | 彼は大学卒業後、小さな設計事務所で経験を積んだ。 | Üniversiteden sonra küçük bir mimarlık bürosunda tecrübe kazandı.
+建築確認 (kenchiku kakunin) | yapı ruhsatı onayı | isim | 建築確認が下りるまで、工事を始めることはできない。 | Yapı ruhsatı onayı çıkmadan inşaata başlanamaz.
+容積率 (yōsekiritsu) | emsal (kat alanı katsayısı) | isim | この地域は容積率の制限が厳しく、高い建物は建てられない。 | Bu bölgede emsal sınırı sıkı olduğundan yüksek bina yapılamıyor.
+建ぺい率 (kenpeiritsu) | taban alanı katsayısı (TAKS) | isim | 建ぺい率が六割なので、敷地の四割は空地として残す必要がある。 | TAKS yüzde altmış olduğu için arsanın yüzde kırkı boş bırakılmalı.
+## Taşıyıcı sistem
+構造計算 (kōzō keisan) | statik hesap | isim | 構造計算の偽装が発覚し、大きな社会問題となった。 | Statik hesapların sahte olduğu ortaya çıkınca büyük bir toplumsal sorun oldu.
+梁 (hari) | kiriş | isim | 天井の梁がむき出しになった古民家風の内装が人気だ。 | Tavan kirişlerinin açıkta olduğu eski köy evi tarzı iç mekânlar rağbette.
+基礎 (kiso) | temel (yapı) | isim | 地盤が弱いため、基礎を通常より深くする必要がある。 | Zemin zayıf olduğundan temeli normalden derin yapmak gerekiyor.
+杭 (kui) | kazık | isim | 支持層に届いていない杭があることが判明した。 | Taşıyıcı tabakaya ulaşmayan kazıklar olduğu anlaşıldı.
+耐力壁 (tairyokuheki) | taşıyıcı duvar, perde duvar | isim | 耐力壁を取り除くと、建物の強度が大幅に下がる。 | Taşıyıcı duvarı kaldırırsanız binanın dayanımı ciddi biçimde düşer.
+スラブ (surabu) | döşeme (betonarme) | isim | 三階のスラブのコンクリートを明日打設する予定だ。 | Üçüncü kat döşemesinin betonunu yarın dökeceğiz.
+鉄筋 (tekkin) | inşaat demiri, donatı | isim | 鉄筋の太さと間隔が図面どおりか、検査員が確認した。 | Denetçi donatının çapını ve aralığını projeye uygun mu diye kontrol etti.
+鉄骨 (tekkotsu) | çelik karkas | isim | 倉庫は鉄骨造なので、短い工期で建てられた。 | Depo çelik karkas olduğu için kısa sürede yapıldı.
+荷重 (kajū) | yük (statik) | isim | 屋上に設備を置く場合は、その荷重も考慮しなければならない。 | Çatıya ekipman koyulacaksa onun yükü de hesaba katılmalıdır.
+鉄筋コンクリート (tekkin konkurīto) | betonarme | isim | 日本のマンションの多くは鉄筋コンクリート造である。 | Japonya'daki apartmanların çoğu betonarmedir.
+## Deprem ve yapı güvenliği
+耐震 (taishin) | depreme dayanıklılık | isim | 古い校舎の耐震性能が基準を満たしていなかった。 | Eski okul binasının deprem dayanımı yönetmeliği karşılamıyordu.
+免震 (menshin) | sismik izolasyon | isim | 病院の建物には、揺れを大きく減らす免震装置が入っている。 | Hastane binasında sarsıntıyı büyük ölçüde azaltan sismik izolatörler var.
+制震 (seishin) | titreşim sönümleme | isim | 高層ビルには、揺れを吸収する制震ダンパーが設置されている。 | Gökdelenlere sarsıntıyı emen sönümleyiciler yerleştirilmiş.
+耐震補強 (taishin hokyō) | deprem güçlendirmesi | isim | 築五十年の庁舎で、耐震補強の工事が始まった。 | Elli yıllık hükümet binasında deprem güçlendirme çalışması başladı.
+液状化 (ekijōka) | zemin sıvılaşması | isim | 埋め立て地では、地震の際に液状化の被害が多く発生した。 | Dolgu alanlarında depremde çok sayıda sıvılaşma hasarı oluştu.
+不同沈下 (fudō chinka) | farklı oturma | isim | 不同沈下によって建物が傾き、ドアが閉まらなくなった。 | Farklı oturma yüzünden bina eğildi ve kapılar kapanmaz oldu.
+耐火 (taika) | yangına dayanıklılık | isim | 都市の中心部では、耐火構造の建物が義務づけられている。 | Şehir merkezlerinde yangına dayanıklı yapı zorunlu.
+避難経路 (hinan keiro) | tahliye yolu | isim | 各階に避難経路を示す案内図を掲示してください。 | Her kata tahliye yolunu gösteren bir kroki asın.
+地盤調査 (jiban chōsa) | zemin etüdü | isim | 家を建てる前に、必ず地盤調査を行うべきだ。 | Ev yapmadan önce mutlaka zemin etüdü yaptırılmalı.
+躯体 (kutai) | kaba yapı, taşıyıcı iskelet | isim | 躯体工事が終わり、来週から内装工事に入る。 | Kaba inşaat bitti, gelecek hafta ince işlere geçiyoruz.
+## Şantiye
+現場監督 (genba kantoku) | şantiye şefi | isim | 現場監督は毎朝、作業員と安全確認の打ち合わせをする。 | Şantiye şefi her sabah işçilerle güvenlik toplantısı yapar.
+施工 (sekō) | uygulama, yapım | isim | この橋の施工は、地元の建設会社が担当した。 | Bu köprünün yapımını yerel bir inşaat şirketi üstlendi.
+工期 (kōki) | inşaat süresi | isim | 資材の遅れで、工期が二か月延びることになった。 | Malzeme gecikmesi yüzünden inşaat süresi iki ay uzayacak.
+着工 (chakkō) | inşaata başlama | isim | 新しい市庁舎は来年春に着工する予定だ。 | Yeni belediye binasının inşaatına gelecek bahar başlanacak.
+竣工 (shunkō) | inşaatın tamamlanması | isim | 竣工式には、施主と工事関係者が出席した。 | Tamamlama törenine yapı sahibi ve inşaatta emeği geçenler katıldı.
+上棟 (jōtō) | çatı iskeletinin kurulması (tören) | isim | 木造住宅では、上棟の日に餅をまく風習が残る地域もある。 | Ahşap evlerde çatı iskeleti kurulduğu gün mochi atma geleneği bazı yörelerde sürüyor.
+足場 (ashiba) | iskele (inşaat) | isim | 強風の予報が出たため、足場の点検を念入りに行った。 | Kuvvetli rüzgâr uyarısı olduğundan iskeleyi titizlikle kontrol ettik.
+重機 (jūki) | iş makinesi | isim | 狭い路地には重機が入れず、手作業で解体した。 | Dar sokağa iş makinesi giremediği için yıkımı elle yaptık.
+元請け (motouke) | ana yüklenici | isim | 元請けの会社が全体の工程と品質を管理している。 | Ana yüklenici şirket tüm iş programını ve kaliteyi yönetiyor.
+下請け (shitauke) | taşeron | isim | 現場では、十社以上の下請け業者が作業している。 | Şantiyede ondan fazla taşeron firma çalışıyor.
+## Şantiye işleri
+掘削 (kussaku) | kazı | isim | 地下三階までの掘削に、およそ半年かかった。 | Yer altı üçüncü kata kadar kazı yaklaşık altı ay sürdü.
+型枠 (katawaku) | kalıp (beton) | isim | 型枠を外すと、きれいなコンクリートの壁が現れた。 | Kalıp sökülünce düzgün bir beton duvar ortaya çıktı.
+打設 (dasetsu) | beton dökümü | isim | 雨の日のコンクリート打設は、品質に影響するので避ける。 | Yağmurlu günde beton dökmek kaliteyi etkilediği için kaçınılır.
+養生 (yōjō) | kür (beton); koruma örtüsü | isim | 冬場はコンクリートが凍らないよう、十分な養生が必要だ。 | Kışın betonun donmaması için yeterli kür gerekir.
+配筋 (haikin) | donatı yerleşimi | isim | 打設の前に、配筋検査を受けなければならない。 | Betonu dökmeden önce donatı kontrolünden geçmek gerekir.
+溶接 (yōsetsu) | kaynak | isim | 鉄骨の溶接部分を、超音波で検査した。 | Çelik karkasın kaynak yerlerini ultrasonla kontrol ettik.
+墨出し (sumidashi) | aplikasyon, işaretleme (zemin/duvara) | isim | 正確な墨出しがなければ、壁がまっすぐに立たない。 | Doğru aplikasyon yapılmazsa duvarlar düz çıkmaz.
+埋め戻し (umemodoshi) | geri dolgu | isim | 配管を設置した後、埋め戻しを行って地面を平らにした。 | Boruları yerleştirdikten sonra geri dolgu yapıp zemini düzledik.
+解体 (kaitai) | yıkım | isim | 古いビルの解体には、アスベスト対策が欠かせない。 | Eski binaların yıkımında asbest önlemleri şarttır.
+盛土 (morido) | dolgu (toprak) | isim | 違法な盛土が崩れて、大規模な土石流が起きた。 | Kaçak toprak dolgusu çökünce büyük bir moloz akıntısı oldu.
+## Yapı malzemeleri
+生コン (namakon) | hazır beton | isim | 生コンを積んだミキサー車が、朝から次々と到着した。 | Hazır beton yüklü mikserler sabahtan beri art arda geldi.
+骨材 (kotsuzai) | agrega | isim | コンクリートの強度は、骨材の質にも左右される。 | Betonun dayanımı agreganın kalitesine de bağlıdır.
+合板 (gōhan) | kontrplak | isim | 床の下地には厚さ十二ミリの合板を使った。 | Döşeme altına on iki milimetrelik kontrplak kullandık.
+断熱材 (dannetsuzai) | ısı yalıtım malzemesi | isim | 壁に断熱材を入れたら、冬の暖房費がかなり減った。 | Duvara yalıtım koyunca kışın ısınma masrafı epey azaldı.
+石膏ボード (sekkō bōdo) | alçıpan | isim | 間仕切り壁は、軽量鉄骨に石膏ボードを張って作る。 | Bölme duvarlar hafif çelik profile alçıpan kaplanarak yapılır.
+集成材 (shūseizai) | lamine ahşap | isim | 集成材を使えば、木造でも大きな空間をつくることができる。 | Lamine ahşapla ahşap yapılarda da geniş açıklıklar elde edilebilir.
+瓦 (kawara) | kiremit | isim | 台風で屋根の瓦が何枚も飛ばされた。 | Tayfunda çatıdaki kiremitlerden birçoğu uçtu.
+漆喰 (shikkui) | kireç sıva | isim | 城の白い壁は、漆喰で丁寧に塗られている。 | Şatonun beyaz duvarları kireç sıvayla özenle sıvanmış.
+防水 (bōsui) | su yalıtımı | isim | 屋上の防水が劣化して、最上階で雨漏りが起きた。 | Çatının su yalıtımı yıprandığı için en üst katta su sızdı.
+鋼材 (kōzai) | çelik malzeme | isim | 鋼材の価格が上がり、建設費が当初の見積もりを超えた。 | Çelik fiyatları artınca inşaat maliyeti ilk tahmini aştı.
+## Tesisat
+配管 (haikan) | boru tesisatı | isim | 古いマンションでは、配管の老朽化による漏水が多い。 | Eski apartmanlarda tesisatın eskimesinden kaynaklanan su kaçakları sık görülür.
+給水 (kyūsui) | su temini, temiz su tesisatı | isim | 断水に備えて、給水タンクの容量を増やした。 | Su kesintisine karşı su deposunun kapasitesini artırdık.
+排水 (haisui) | atık su, drenaj | isim | 台所の排水が詰まって、業者を呼んだ。 | Mutfak gideri tıkanınca ustayı çağırdık.
+空調 (kūchō) | iklimlendirme | isim | 会議室の空調が効きすぎて、少し寒い。 | Toplantı odasının kliması fazla çalışıyor, biraz soğuk.
+換気 (kanki) | havalandırma | isim | 新築の住宅には、二十四時間換気の設備が義務づけられている。 | Yeni evlerde yirmi dört saat çalışan havalandırma sistemi zorunlu.
+分電盤 (bundenban) | elektrik dağıtım panosu, sigorta kutusu | isim | ブレーカーが落ちたので、分電盤を確認しに行った。 | Sigorta atınca dağıtım panosuna bakmaya gittim.
+給湯器 (kyūtōki) | şofben, sıcak su cihazı | isim | 冬に給湯器が壊れて、一週間お湯が使えなかった。 | Kışın şofben bozulunca bir hafta sıcak su kullanamadık.
+スプリンクラー (supurinkurā) | yangın sprinkleri | isim | 一定規模以上の建物には、スプリンクラーの設置が必要だ。 | Belli büyüklüğü aşan binalarda yangın sprinkleri kurulmalıdır.
+浄化槽 (jōkasō) | arıtma tankı (fosseptik) | isim | 下水道のない地域では、各家庭に浄化槽が設けられている。 | Kanalizasyon olmayan bölgelerde her evde arıtma tankı bulunur.
+昇降機 (shōkōki) | asansör (resmî terim) | isim | 昇降機の定期検査は法律で義務づけられている。 | Asansörlerin periyodik muayenesi kanunen zorunludur.
+## Geleneksel Japon mimarisi
+木造 (mokuzō) | ahşap yapı | isim | 法隆寺は現存する世界最古の木造建築群とされる。 | Hōryūji, günümüze ulaşan dünyanın en eski ahşap yapı topluluğu kabul edilir.
+寺社建築 (jisha kenchiku) | tapınak ve türbe mimarisi | isim | 宮大工は寺社建築を専門とする職人である。 | Miyadaiku, tapınak mimarisinde uzmanlaşmış ustalardır.
+書院造 (shoinzukuri) | shoin üslubu (samuray konutu mimarisi) | isim | 現代の和室の原型は、室町時代の書院造にある。 | Bugünkü Japon odasının kökeni Muromachi dönemi shoin üslubuna dayanır.
+数寄屋造 (sukiyazukuri) | sukiya üslubu (çay evi esinli zarif mimari) | isim | 数寄屋造の建物は、自然素材を生かした簡素な美しさを持つ。 | Sukiya üslubu yapılar doğal malzemeyi öne çıkaran sade bir güzelliğe sahiptir.
+町家 (machiya) | geleneksel tüccar evi (şehir evi) | isim | 京都の古い町家を改装したカフェが増えている。 | Kyoto'daki eski tüccar evlerinden dönüştürülen kafeler artıyor.
+合掌造り (gasshōzukuri) | gasshō tarzı (dik sazdam çatılı köy evi) | isim | 白川郷の合掌造りの集落は、世界遺産に登録されている。 | Shirakawa-gō'daki gasshō tarzı evlerden oluşan köy Dünya Mirası listesinde.
+吹き抜け (fukinuke) | galeri boşluğu (çift yükseklikli mekân) | isim | 吹き抜けのある居間は明るいが、冬は暖房が効きにくい。 | Galeri boşluklu salon aydınlık ama kışın zor ısınıyor.
+縁側 (engawa) | ahşap dış sundurma, veranda | isim | 夏の夕方、祖父は縁側に座って庭を眺めていた。 | Yaz akşamları dedem verandada oturup bahçeyi seyrederdi.
+欄間 (ranma) | ranma (kapı üstü oymalı ahşap pano) | isim | 欄間の繊細な彫刻から、柔らかな光が差し込んでいる。 | Kapı üstündeki oymalı panonun ince işçiliğinden yumuşak bir ışık süzülüyor.
+軒 (noki) | saçak | isim | 深い軒が、夏の強い日差しと雨から家を守っている。 | Derin saçaklar evi yazın güçlü güneşinden ve yağmurdan koruyor.
+## Proje yönetimi
+入札 (nyūsatsu) | ihale | isim | 公共工事の入札で、談合の疑いが持たれている。 | Kamu ihalesinde muvazaa şüphesi var.
+発注者 (hacchūsha) | iş sahibi, ihale makamı | isim | 発注者との協議で、仕上げ材の仕様が変更された。 | İş sahibiyle yapılan görüşmede kaplama malzemesinin şartnamesi değişti.
+工程表 (kōteihyō) | iş programı | isim | 週ごとの工程表を作り、作業の遅れを管理している。 | Haftalık iş programı hazırlayıp gecikmeleri takip ediyoruz.
+出来高 (dekidaka) | hakediş, iş ilerleme miktarı | isim | 毎月の出来高に応じて、工事代金が支払われる。 | İnşaat bedeli her ayki hakedişe göre ödenir.
+追加工事 (tsuika kōji) | ek iş | isim | 追加工事の費用について、施主と書面で合意した。 | Ek işlerin bedeli konusunda yapı sahibiyle yazılı olarak anlaştık.
+設計変更 (sekkei henkō) | proje değişikliği | isim | 地中から遺跡が見つかり、大幅な設計変更が必要になった。 | Toprağın altından kalıntı çıkınca projede büyük değişiklik gerekti.
+竣工検査 (shunkō kensa) | kabul muayenesi | isim | 竣工検査で指摘された不具合を、引き渡しまでに直した。 | Kabul muayenesinde belirtilen kusurları teslimden önce giderdik.
+瑕疵 (kashi) | kusur, ayıp (hukuki) | isim | 引き渡し後に雨漏りが見つかり、施工業者の瑕疵責任が問われた。 | Teslimden sonra su sızıntısı bulununca yüklenicinin ayıp sorumluluğu gündeme geldi.
+施工管理 (sekō kanri) | yapım yönetimi, saha yönetimi | isim | 施工管理の仕事は、品質・工程・原価・安全の四つを管理することだ。 | Saha yönetimi işi kalite, süre, maliyet ve güvenliği yönetmektir.
+安全管理 (anzen kanri) | iş güvenliği yönetimi | isim | 高所作業では、特に厳しい安全管理が求められる。 | Yüksekte çalışmada özellikle sıkı bir iş güvenliği yönetimi gerekir.
+## Şehircilik ve altyapı
+都市計画 (toshi keikaku) | şehir planlaması | isim | 戦後の都市計画によって、駅前の道路が大きく拡張された。 | Savaş sonrası şehir planlamasıyla istasyon önündeki yollar genişletildi.
+用途地域 (yōto chiiki) | imar bölgesi (kullanım türü) | isim | 用途地域によって、建てられる建物の種類が決まっている。 | Hangi binanın yapılabileceği imar bölgesine göre belirlenir.
+景観条例 (keikan jōrei) | kent siluetini koruma yönetmeliği | isim | 京都では景観条例により、建物の高さや色が厳しく制限されている。 | Kyoto'da siluet yönetmeliği nedeniyle binaların yüksekliği ve rengi sıkı biçimde sınırlanıyor.
+区画整理 (kukaku seiri) | arazi düzenlemesi (parselasyon) | isim | 区画整理によって、入り組んだ道がまっすぐに整えられた。 | Arazi düzenlemesiyle karmakarışık yollar düzeltildi.
+土木 (doboku) | inşaat mühendisliği (altyapı) | isim | 彼は大学で土木を学び、ダムの建設に携わってきた。 | Üniversitede inşaat mühendisliği okudu ve baraj yapımlarında çalıştı.
+橋梁 (kyōryō) | köprü (teknik) | isim | 全国の橋梁の多くが、建設から五十年を超えようとしている。 | Ülkedeki köprülerin çoğu yapımlarının ellinci yılını geçmek üzere.
+上下水道 (jōgesuidō) | su ve kanalizasyon şebekesi | isim | 上下水道の整備は、公衆衛生の向上に大きく貢献した。 | Su ve kanalizasyon şebekesinin kurulması halk sağlığına büyük katkı sağladı.
+擁壁 (yōheki) | istinat duvarı | isim | 大雨で擁壁が崩れ、道路が通行止めになった。 | Şiddetli yağmurda istinat duvarı çöktü ve yol kapandı.
+老朽化 (rōkyūka) | eskime, yıpranma (yapı) | isim | 老朽化した水道管の更新が、各地で課題となっている。 | Eskiyen su borularının yenilenmesi birçok yerde sorun oluyor.
+トンネル (tonneru) | tünel | isim | 新しいトンネルの開通で、峠越えの時間が半分になった。 | Yeni tünelin açılmasıyla dağ geçidini aşma süresi yarıya indi.
