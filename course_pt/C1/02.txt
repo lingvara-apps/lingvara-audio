@@ -1,0 +1,111 @@
+# UNIT: Kurumsal dil | Yönetim, finansal raporlama, sözleşmeler
+## Şirket yapısı
+o conselho de administração | yönetim kurulu | isim (e) | O conselho de administração aprovou a fusão por unanimidade. | Yönetim kurulu birleşmeyi oybirliğiyle onayladı.
+a diretoria executiva | icra kurulu, üst yönetim | isim (d) | A diretoria executiva vai apresentar o plano estratégico amanhã. | Üst yönetim stratejik planı yarın sunacak.
+o acionista majoritário | çoğunluk hissedarı | isim (e) | O acionista majoritário decidiu vender parte de suas ações. | Çoğunluk hissedarı hisselerinin bir kısmını satmaya karar verdi.
+a subsidiária | yan kuruluş, bağlı şirket | isim (d) | A subsidiária portuguesa cuida das vendas para a Europa. | Portekiz'deki bağlı şirket Avrupa satışlarıyla ilgileniyor.
+a holding | holding | isim (d) | A holding controla empresas de energia, logística e varejo. | Holding enerji, lojistik ve perakende şirketlerini kontrol ediyor.
+a matriz | ana merkez, ana şirket | isim (d) | A matriz fica em São Paulo, mas a fábrica está em Manaus. | Ana merkez São Paulo'da ama fabrika Manaus'ta.
+a razão social | ticari unvan | isim (d) | A razão social precisa constar em todas as notas fiscais emitidas. | Ticari unvan düzenlenen bütün faturalarda yer almalıdır.
+o organograma | organizasyon şeması | isim (e) | Segundo o novo organograma, o setor jurídico responde à presidência. | Yeni organizasyon şemasına göre hukuk birimi genel müdürlüğe bağlı.
+o quadro de funcionários | personel kadrosu | isim (e) | O quadro de funcionários cresceu trinta por cento neste ano. | Personel kadrosu bu yıl yüzde otuz büyüdü.
+a governança corporativa | kurumsal yönetişim | isim (d) | Boas práticas de governança corporativa atraem investidores estrangeiros. | İyi kurumsal yönetişim uygulamaları yabancı yatırımcıları çeker.
+## Yönetim ve strateji
+a gestão | yönetim, idare | isim (d) | A nova gestão priorizou a redução de custos e a inovação. | Yeni yönetim maliyetlerin düşürülmesine ve yeniliğe öncelik verdi.
+o planejamento estratégico | stratejik planlama | isim (e) | O planejamento estratégico define as metas dos próximos cinco anos. | Stratejik planlama önümüzdeki beş yılın hedeflerini belirler.
+o objetivo estratégico | stratejik hedef | isim (e) | O objetivo estratégico é dobrar as exportações até o fim da década. | Stratejik hedef on yılın sonuna kadar ihracatı iki katına çıkarmak.
+o indicador de desempenho | performans göstergesi | isim (e) | Cada gerente acompanha três indicadores de desempenho por semana. | Her müdür haftalık üç performans göstergesini takip ediyor.
+a reestruturação | yeniden yapılanma | isim (d) | A reestruturação eliminou dois níveis hierárquicos da empresa. | Yeniden yapılanma şirketteki iki hiyerarşik kademeyi kaldırdı.
+a terceirização | dış kaynak kullanımı | isim (d) | A terceirização da limpeza reduziu os custos fixos do hospital. | Temizliğin dışarıya verilmesi hastanenin sabit giderlerini azalttı.
+a sinergia | sinerji | isim (d) | A fusão prometia sinergia entre as áreas de pesquisa das duas empresas. | Birleşme iki şirketin araştırma alanları arasında sinerji vaat ediyordu.
+alavancar | güçlendirmek, kaldıraç olarak kullanmak | fiil | A empresa quer alavancar as vendas com o comércio eletrônico. | Şirket satışlarını e-ticaretle güçlendirmek istiyor.
+delegar | yetki devretmek | fiil | Um bom líder sabe delegar tarefas sem perder o controle. | İyi bir lider kontrolü kaybetmeden görev devretmeyi bilir.
+a tomada de decisão | karar alma | isim (d) | A tomada de decisão ficou mais rápida depois da reforma interna. | İç reformdan sonra karar alma süreci hızlandı.
+## Finansal raporlama
+o balanço patrimonial | bilanço | isim (e) | O balanço patrimonial mostra os ativos e passivos da companhia. | Bilanço şirketin varlıklarını ve yükümlülüklerini gösterir.
+a demonstração de resultados | gelir tablosu | isim (d) | A demonstração de resultados revelou um lucro acima do esperado. | Gelir tablosu beklenenin üzerinde bir kâr ortaya koydu.
+o fluxo de caixa | nakit akışı | isim (e) | Apesar das vendas altas, o fluxo de caixa continua apertado. | Satışlar yüksek olmasına rağmen nakit akışı sıkışık kalıyor.
+o ativo | varlık, aktif | isim (e) | Os imóveis são o principal ativo da empresa familiar. | Gayrimenkuller aile şirketinin başlıca varlığıdır.
+o passivo | yükümlülük, pasif | isim (e) | O passivo trabalhista assustou os possíveis compradores da fábrica. | İşçilik yükümlülükleri fabrikanın olası alıcılarını korkuttu.
+o patrimônio líquido | özkaynak | isim (e) | O patrimônio líquido do banco aumentou após a capitalização. | Sermaye artırımından sonra bankanın özkaynağı yükseldi.
+a receita bruta | brüt gelir | isim (d) | A receita bruta superou um bilhão de reais pela primeira vez. | Brüt gelir ilk kez bir milyar reali aştı.
+o lucro líquido | net kâr | isim (e) | O lucro líquido caiu por causa das despesas financeiras. | Net kâr finansman giderleri yüzünden düştü.
+a auditoria | denetim | isim (d) | A auditoria externa não encontrou irregularidades nas contas. | Dış denetim hesaplarda usulsüzlük bulmadı.
+o exercício fiscal | mali yıl | isim (e) | O relatório se refere ao exercício fiscal encerrado em dezembro. | Rapor aralıkta kapanan mali yıla ilişkin.
+## Bütçe ve maliyet
+o orçamento anual | yıllık bütçe | isim (e) | O orçamento anual de marketing foi cortado pela metade. | Yıllık pazarlama bütçesi yarıya indirildi.
+o custo fixo | sabit gider | isim (e) | O aluguel do galpão é o maior custo fixo da empresa. | Depo kirası şirketin en büyük sabit gideri.
+a despesa operacional | işletme gideri | isim (d) | A automação ajudou a reduzir a despesa operacional da fábrica. | Otomasyon fabrikanın işletme giderini azaltmaya yardımcı oldu.
+a margem de lucro | kâr marjı | isim (d) | A margem de lucro do setor de alimentos costuma ser pequena. | Gıda sektöründe kâr marjı genellikle düşüktür.
+o rateio | paylaştırma (maliyet) | isim (e) | O rateio das despesas entre os departamentos gerou discussão. | Giderlerin birimler arasında paylaştırılması tartışmaya yol açtı.
+a contenção de despesas | harcama kısıtlaması | isim (d) | Por causa da crise, a diretoria anunciou contenção de despesas. | Kriz nedeniyle yönetim harcama kısıtlaması açıkladı.
+o retorno sobre o investimento | yatırım getirisi | isim (e) | O retorno sobre o investimento do projeto foi de dezoito por cento. | Projenin yatırım getirisi yüzde on sekiz oldu.
+a projeção | öngörü, tahmin (mali) | isim (d) | A projeção para o próximo ano é de crescimento moderado. | Gelecek yıl için öngörü ılımlı bir büyüme yönünde.
+o prejuízo | zarar | isim (e) | A loja fechou o semestre com prejuízo pela primeira vez. | Mağaza ilk kez yarıyılı zararla kapattı.
+enxugar | küçültmek, sadeleştirmek (gider, kadro) | fiil | A empresa precisa enxugar a estrutura para sobreviver à crise. | Şirketin krizden çıkmak için yapısını küçültmesi gerekiyor.
+## Sözleşmeler
+o contrato social | şirket ana sözleşmesi | isim (e) | O contrato social define a participação de cada sócio. | Ana sözleşme her ortağın payını belirler.
+a cláusula | madde (sözleşme) | isim (d) | A cláusula de confidencialidade vale por cinco anos. | Gizlilik maddesi beş yıl geçerlidir.
+o aditivo contratual | sözleşme eki | isim (e) | Assinamos um aditivo contratual para prorrogar o prazo de entrega. | Teslim süresini uzatmak için bir sözleşme eki imzaladık.
+a rescisão | fesih | isim (d) | A rescisão do contrato antes do prazo gera multa. | Sözleşmenin süresinden önce feshi ceza doğurur.
+a multa contratual | cezai şart | isim (d) | A multa contratual equivale a dez por cento do valor total. | Cezai şart toplam bedelin yüzde onuna eşittir.
+a vigência | yürürlük süresi | isim (d) | Durante a vigência do contrato, o preço não pode ser alterado. | Sözleşmenin yürürlük süresi boyunca fiyat değiştirilemez.
+as partes contratantes | sözleşme tarafları | isim (çoğul) | As partes contratantes elegem o foro da cidade de Porto Alegre. | Sözleşme tarafları Porto Alegre mahkemelerini yetkili kabul eder.
+o distrato | karşılıklı fesih | isim (e) | Depois de longa negociação, as empresas assinaram um distrato amigável. | Uzun bir pazarlıktan sonra şirketler dostane bir karşılıklı fesih imzaladı.
+a carta de intenções | niyet mektubu | isim (d) | As duas companhias assinaram uma carta de intenções para a fusão. | İki şirket birleşme için bir niyet mektubu imzaladı.
+prorrogar | uzatmak (süre) | fiil | O cliente pediu para prorrogar o contrato por mais doze meses. | Müşteri sözleşmeyi on iki ay daha uzatmak istedi.
+## İnsan kaynakları
+o recrutamento | işe alım | isim (e) | O processo de recrutamento inclui entrevistas e uma prova prática. | İşe alım süreci mülakatları ve uygulamalı bir sınavı içeriyor.
+a admissão | işe giriş | isim (d) | Na admissão, o funcionário precisa entregar a carteira de trabalho. | İşe girişte çalışanın çalışma karnesini teslim etmesi gerekir.
+o desligamento | işten ayrılma, çıkarılma | isim (e) | O desligamento de dez funcionários foi comunicado ontem. | On çalışanın işten çıkarılması dün bildirildi.
+a remuneração | ücret, maaş (toplam) | isim (d) | A remuneração inclui salário fixo e participação nos lucros. | Ücret sabit maaşı ve kâr payını içeriyor.
+o plano de carreira | kariyer planı | isim (e) | A empresa oferece um plano de carreira claro para os engenheiros. | Şirket mühendislere açık bir kariyer planı sunuyor.
+a rotatividade | personel devir hızı | isim (d) | A alta rotatividade na central de atendimento preocupa a gerência. | Çağrı merkezindeki yüksek personel devir hızı yönetimi kaygılandırıyor.
+o desempenho | performans, başarım | isim (e) | O desempenho da equipe será avaliado no fim do semestre. | Ekibin performansı yarıyıl sonunda değerlendirilecek.
+a justa causa | haklı neden (işten çıkarma) | isim (d) | Ele foi demitido por justa causa depois de faltar um mês inteiro. | Bütün bir ay işe gelmeyince haklı nedenle işten çıkarıldı.
+o vale-refeição | yemek kartı | isim (e) | O vale-refeição é o benefício mais valorizado pelos funcionários. | Yemek kartı çalışanların en çok önem verdiği yan haktır.
+o banco de horas | çalışma saati hesabı (fazla mesai biriktirme) | isim (e) | As horas trabalhadas no fim de semana vão para o banco de horas. | Hafta sonu çalışılan saatler fazla mesai hesabına yazılıyor.
+## Toplantı ve iletişim
+a pauta | gündem | isim (d) | O primeiro item da pauta é a aprovação do orçamento. | Gündemin ilk maddesi bütçenin onaylanması.
+a ata | tutanak | isim (d) | A secretária redigiu a ata da reunião e enviou a todos. | Sekreter toplantı tutanağını yazıp herkese gönderdi.
+o comunicado interno | iç duyuru | isim (e) | Um comunicado interno informou a mudança de horário. | Bir iç duyuru saat değişikliğini bildirdi.
+o alinhamento | uyum sağlama, mutabakat | isim (e) | Precisamos de uma reunião de alinhamento antes de falar com o cliente. | Müşteriyle konuşmadan önce bir uyum toplantısına ihtiyacımız var.
+o parecer jurídico | hukuki mütalaa | isim (e) | O departamento jurídico emitiu um parecer jurídico contrário à proposta. | Hukuk birimi teklife karşı bir hukuki mütalaa verdi.
+a deliberação | karar, müzakere | isim (d) | A deliberação final ficou para a próxima assembleia. | Nihai karar bir sonraki genel kurula kaldı.
+a apresentação de resultados | sonuç sunumu | isim (d) | A apresentação de resultados será transmitida para os investidores. | Sonuç sunumu yatırımcılara canlı yayınlanacak.
+deliberar | müzakere edip karar vermek | fiil | Os sócios vão deliberar sobre a abertura de uma nova filial. | Ortaklar yeni bir şube açılması konusunda karar verecek.
+o relatório gerencial | yönetim raporu | isim (e) | O relatório gerencial chega à diretoria toda segunda-feira. | Yönetim raporu her pazartesi üst yönetime ulaşıyor.
+o quórum | yeter sayı | isim (e) | A votação foi adiada porque não havia quórum suficiente. | Yeterli yeter sayı olmadığı için oylama ertelendi.
+## Piyasa ve rekabet
+a participação de mercado | pazar payı | isim (d) | A marca nacional ganhou participação de mercado no Nordeste. | Yerli marka Kuzeydoğu'da pazar payı kazandı.
+o concorrente | rakip | isim (e) | O principal concorrente lançou um produto mais barato. | Ana rakip daha ucuz bir ürün piyasaya sürdü.
+a vantagem competitiva | rekabet avantajı | isim (d) | A logística eficiente é nossa maior vantagem competitiva. | Verimli lojistik en büyük rekabet avantajımız.
+o nicho | niş, pazar dilimi | isim (e) | A startup encontrou um nicho em cosméticos com ingredientes amazônicos. | Girişim Amazon bileşenli kozmetiklerde bir niş buldu.
+a fusão | birleşme | isim (d) | A fusão criou a maior rede de farmácias da região. | Birleşme bölgenin en büyük eczane zincirini yarattı.
+a aquisição | satın alma, devralma | isim (d) | A aquisição da concorrente custou mais do que o previsto. | Rakibin satın alınması öngörülenden pahalıya mal oldu.
+o monopólio | tekel | isim (e) | A lei proíbe o monopólio em serviços essenciais. | Yasa temel hizmetlerde tekeli yasaklıyor.
+o cartel | kartel | isim (e) | As construtoras foram multadas por formar um cartel. | İnşaat firmaları kartel oluşturdukları için cezalandırıldı.
+a cadeia de suprimentos | tedarik zinciri | isim (d) | A greve dos caminhoneiros afetou toda a cadeia de suprimentos. | Kamyoncuların grevi bütün tedarik zincirini etkiledi.
+o posicionamento | konumlandırma | isim (e) | O novo posicionamento da marca mira o público jovem. | Markanın yeni konumlandırması genç kitleyi hedefliyor.
+## Kurumsal sorumluluk ve uyum
+a conformidade | uyum (mevzuata) | isim (d) | O setor de conformidade revisa todos os contratos com fornecedores. | Uyum birimi tedarikçilerle yapılan bütün sözleşmeleri inceliyor.
+a transparência | şeffaflık | isim (d) | A transparência nas contas aumentou a confiança dos acionistas. | Hesaplardaki şeffaflık hissedarların güvenini artırdı.
+a prestação de contas | hesap verme | isim (d) | A prestação de contas aos sócios acontece a cada trimestre. | Ortaklara hesap verme her çeyrekte yapılır.
+o código de conduta | davranış kuralları | isim (e) | Todos os funcionários assinam o código de conduta ao entrar. | Bütün çalışanlar işe girerken davranış kurallarını imzalar.
+o conflito de interesses | çıkar çatışması | isim (e) | O diretor se afastou da votação para evitar conflito de interesses. | Müdür çıkar çatışmasını önlemek için oylamadan çekildi.
+a sustentabilidade | sürdürülebilirlik | isim (d) | O relatório de sustentabilidade detalha o uso de água nas fábricas. | Sürdürülebilirlik raporu fabrikalardaki su kullanımını ayrıntılıyor.
+a responsabilidade social | sosyal sorumluluk | isim (d) | O projeto de responsabilidade social financia escolas no interior. | Sosyal sorumluluk projesi taşradaki okulları finanse ediyor.
+a fiscalização | denetim, teftiş | isim (d) | A fiscalização encontrou falhas no armazenamento de produtos químicos. | Teftiş kimyasalların depolanmasında kusurlar buldu.
+a denúncia anônima | isimsiz ihbar | isim (d) | Uma denúncia anônima revelou fraude no setor de compras. | İsimsiz bir ihbar satın alma birimindeki dolandırıcılığı ortaya çıkardı.
+a idoneidade | dürüstlük, güvenilirlik (kurumsal) | isim (d) | A idoneidade do fornecedor foi verificada antes da assinatura. | Tedarikçinin güvenilirliği imzadan önce doğrulandı.
+## Kurumsal fiiller ve kalıplar
+otimizar | optimize etmek | fiil | O novo sistema vai otimizar o controle de estoque. | Yeni sistem stok kontrolünü optimize edecek.
+viabilizar | mümkün kılmak | fiil | O empréstimo vai viabilizar a construção da nova fábrica. | Kredi yeni fabrikanın inşasını mümkün kılacak.
+implementar | uygulamaya koymak | fiil | A empresa implementou o trabalho híbrido em todos os setores. | Şirket hibrit çalışmayı bütün birimlerde uygulamaya koydu.
+mensurar | ölçmek (sayısal) | fiil | É difícil mensurar o impacto da campanha nas vendas. | Kampanyanın satışlara etkisini ölçmek zor.
+captar | toplamak (kaynak, müşteri) | fiil | A startup conseguiu captar dez milhões em investimentos. | Girişim on milyonluk yatırım toplamayı başardı.
+homologar | onaylamak (resmî) | fiil | A agência precisa homologar o equipamento antes da venda. | Kurumun cihazı satıştan önce onaylaması gerekiyor.
+repassar | aktarmak, yansıtmak (fiyat) | fiil | A indústria vai repassar o aumento de custos ao consumidor. | Sanayi maliyet artışını tüketiciye yansıtacak.
+em caráter de urgência | acil olarak | ifade | A reunião foi convocada em caráter de urgência pelo presidente. | Toplantı genel müdür tarafından acil olarak toplandı.
+para fins de | ... amacıyla | ifade | Os dados são guardados apenas para fins de auditoria interna. | Veriler yalnızca iç denetim amacıyla saklanıyor.
+mediante aprovação | onaya bağlı olarak | ifade | O reembolso será feito mediante aprovação do gestor imediato. | Geri ödeme doğrudan yöneticinin onayına bağlı olarak yapılacak.
