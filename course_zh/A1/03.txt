@@ -1,0 +1,111 @@
+# UNIT: Sayılar ve zaman | Rakamlar, saat, günler, aylar
+## Büyük sayılar
+零 (líng) | sıfır | sayı | 我的号码是零九八。(Wǒ de hàomǎ shì líng jiǔ bā.) | Numaram sıfır dokuz sekiz.
+百 (bǎi) | yüz (100) | sayı | 这本书一百块。(Zhè běn shū yìbǎi kuài.) | Bu kitap yüz yuan.
+千 (qiān) | bin | sayı | 长城有两千多年了。(Chángchéng yǒu liǎngqiān duō nián le.) | Çin Seddi iki bin yılı aşkın bir geçmişe sahip.
+万 (wàn) | on bin | sayı | 这个城市有五十万人。(Zhège chéngshì yǒu wǔshí wàn rén.) | Bu şehirde beş yüz bin kişi yaşıyor.
+两 (liǎng) | iki (sayma sözcüğüyle) | sayı | 我有两个妹妹。(Wǒ yǒu liǎng ge mèimei.) | İki kız kardeşim var.
+半 (bàn) | yarım, buçuk | sayı | 我等了半个小时。(Wǒ děng le bàn ge xiǎoshí.) | Yarım saat bekledim.
+第 (dì) | -inci (sıra sayısı öneki) | edat | 这是我第一次来中国。(Zhè shì wǒ dì yī cì lái Zhōngguó.) | Çin'e ilk gelişim bu.
+号 (hào) | ayın günü; numara | isim | 今天几号？(Jīntiān jǐ hào?) | Bugün ayın kaçı?
+数字 (shùzì) | rakam, sayı | isim | 中国人觉得四不是好数字。(Zhōngguó rén juéde sì bú shì hǎo shùzì.) | Çinliler dördün iyi bir sayı olmadığını düşünür.
+一共 (yígòng) | toplam, hepsi | zarf | 一共多少钱？(Yígòng duōshao qián?) | Toplam ne kadar?
+## Sayma sözcükleri
+个 (gè) | genel sayma sözcüğü (tane) | isim | 我想买三个苹果。(Wǒ xiǎng mǎi sān ge píngguǒ.) | Üç elma almak istiyorum.
+本 (běn) | kitap, defter için sayma sözcüğü | isim | 我买了两本书。(Wǒ mǎi le liǎng běn shū.) | İki kitap aldım.
+张 (zhāng) | düz şeyler için (kâğıt, masa, bilet) | isim | 请给我一张票。(Qǐng gěi wǒ yì zhāng piào.) | Bana bir bilet verin lütfen.
+杯 (bēi) | bardak, fincan | isim | 我要一杯咖啡。(Wǒ yào yì bēi kāfēi.) | Bir fincan kahve istiyorum.
+件 (jiàn) | giysi ve işler için sayma sözcüğü | isim | 这件衣服很好看。(Zhè jiàn yīfu hěn hǎokàn.) | Bu kıyafet çok güzel.
+只 (zhī) | hayvanlar için sayma sözcüğü | isim | 我家有两只猫。(Wǒ jiā yǒu liǎng zhī māo.) | Evimizde iki kedi var.
+位 (wèi) | kişi için saygılı sayma sözcüğü | isim | 请问，几位？(Qǐngwèn, jǐ wèi?) | Kaç kişisiniz efendim?
+条 (tiáo) | uzun şeyler için (yol, nehir, pantolon) | isim | 这条路很长。(Zhè tiáo lù hěn cháng.) | Bu yol çok uzun.
+次 (cì) | kez, defa | isim | 我去过两次上海。(Wǒ qù guo liǎng cì Shànghǎi.) | Şanghay'a iki kez gittim.
+种 (zhǒng) | tür, çeşit | isim | 这种茶很好喝。(Zhè zhǒng chá hěn hǎohē.) | Bu tür çay çok lezzetli.
+## Saat
+点 (diǎn) | saat (saat başı) | isim | 现在三点。(Xiànzài sān diǎn.) | Şimdi saat üç.
+分 (fēn) | dakika (saat söylerken) | isim | 现在八点十分。(Xiànzài bā diǎn shí fēn.) | Saat sekizi on geçiyor.
+刻 (kè) | çeyrek (saat) | isim | 我们七点一刻见。(Wǒmen qī diǎn yí kè jiàn.) | Yediyi çeyrek geçe görüşelim.
+现在 (xiànzài) | şimdi | isim | 现在几点？(Xiànzài jǐ diǎn?) | Saat kaç?
+时间 (shíjiān) | zaman, vakit | isim | 你明天有时间吗？(Nǐ míngtiān yǒu shíjiān ma?) | Yarın vaktin var mı?
+小时 (xiǎoshí) | saat (süre) | isim | 我每天工作八个小时。(Wǒ měitiān gōngzuò bā ge xiǎoshí.) | Her gün sekiz saat çalışıyorum.
+分钟 (fēnzhōng) | dakika (süre) | isim | 请等我五分钟。(Qǐng děng wǒ wǔ fēnzhōng.) | Lütfen beni beş dakika bekle.
+秒 (miǎo) | saniye | isim | 他跑一百米用了十二秒。(Tā pǎo yìbǎi mǐ yòng le shí'èr miǎo.) | Yüz metreyi on iki saniyede koştu.
+差 (chà) | kala (saat); eksik | fiil | 现在差五分九点。(Xiànzài chà wǔ fēn jiǔ diǎn.) | Şimdi saat dokuza beş var.
+准时 (zhǔnshí) | dakik, tam vaktinde | sıfat | 火车准时到了。(Huǒchē zhǔnshí dào le.) | Tren tam vaktinde geldi.
+## Günün bölümleri
+早上 (zǎoshang) | sabah | isim | 我早上六点起床。(Wǒ zǎoshang liù diǎn qǐchuáng.) | Sabah altıda kalkarım.
+上午 (shàngwǔ) | öğleden önce | isim | 上午我有课。(Shàngwǔ wǒ yǒu kè.) | Öğleden önce dersim var.
+中午 (zhōngwǔ) | öğle | isim | 中午我们一起吃饭吧。(Zhōngwǔ wǒmen yìqǐ chīfàn ba.) | Öğlen birlikte yemek yiyelim.
+下午 (xiàwǔ) | öğleden sonra | isim | 下午我去图书馆。(Xiàwǔ wǒ qù túshūguǎn.) | Öğleden sonra kütüphaneye gidiyorum.
+晚上 (wǎnshang) | akşam | isim | 晚上你想做什么？(Wǎnshang nǐ xiǎng zuò shénme?) | Akşam ne yapmak istiyorsun?
+夜里 (yèli) | gece | isim | 夜里外面很安静。(Yèli wàimiàn hěn ānjìng.) | Gece dışarısı çok sessiz.
+白天 (báitiān) | gündüz | isim | 白天我工作，晚上学习。(Báitiān wǒ gōngzuò, wǎnshang xuéxí.) | Gündüz çalışıyorum, akşam ders çalışıyorum.
+早 (zǎo) | erken | sıfat | 你今天来得很早。(Nǐ jīntiān lái de hěn zǎo.) | Bugün çok erken geldin.
+晚 (wǎn) | geç | sıfat | 太晚了，我们回家吧。(Tài wǎn le, wǒmen huí jiā ba.) | Çok geç oldu, eve dönelim.
+每天 (měitiān) | her gün | zarf | 我每天学习汉语。(Wǒ měitiān xuéxí Hànyǔ.) | Her gün Çince çalışıyorum.
+## Dün, bugün, yarın
+今天 (jīntiān) | bugün | isim | 今天是我的生日。(Jīntiān shì wǒ de shēngrì.) | Bugün benim doğum günüm.
+明天 (míngtiān) | yarın | isim | 明天我们去爬山。(Míngtiān wǒmen qù pá shān.) | Yarın dağa tırmanmaya gidiyoruz.
+昨天 (zuótiān) | dün | isim | 昨天下雨了。(Zuótiān xià yǔ le.) | Dün yağmur yağdı.
+后天 (hòutiān) | öbür gün | isim | 后天是星期六。(Hòutiān shì xīngqīliù.) | Öbür gün cumartesi.
+前天 (qiántiān) | evvelsi gün | isim | 我前天见到了索菲亚。(Wǒ qiántiān jiàn dào le Suǒfēiyà.) | Evvelsi gün Sofia'yı gördüm.
+周末 (zhōumò) | hafta sonu | isim | 周末你做什么？(Zhōumò nǐ zuò shénme?) | Hafta sonu ne yapıyorsun?
+日子 (rìzi) | gün; hayat, geçim | isim | 今天是一个好日子。(Jīntiān shì yí ge hǎo rìzi.) | Bugün güzel bir gün.
+以前 (yǐqián) | önce, eskiden | isim | 我以前住在北京。(Wǒ yǐqián zhù zài Běijīng.) | Eskiden Pekin'de yaşıyordum.
+以后 (yǐhòu) | sonra; ileride | isim | 以后我想当老师。(Yǐhòu wǒ xiǎng dāng lǎoshī.) | İleride öğretmen olmak istiyorum.
+刚才 (gāngcái) | az önce | isim | 刚才谁给我打电话了？(Gāngcái shéi gěi wǒ dǎ diànhuà le?) | Az önce beni kim aradı?
+## Haftanın günleri
+星期 (xīngqī) | hafta | isim | 今天星期几？(Jīntiān xīngqī jǐ?) | Bugün haftanın hangi günü?
+星期一 (xīngqīyī) | pazartesi | isim | 星期一我很忙。(Xīngqīyī wǒ hěn máng.) | Pazartesi çok meşgulüm.
+星期二 (xīngqī'èr) | salı | isim | 星期二有汉语课。(Xīngqī'èr yǒu Hànyǔ kè.) | Salı günü Çince dersi var.
+星期三 (xīngqīsān) | çarşamba | isim | 我们星期三见。(Wǒmen xīngqīsān jiàn.) | Çarşamba görüşürüz.
+星期四 (xīngqīsì) | perşembe | isim | 星期四晚上我去游泳。(Xīngqīsì wǎnshang wǒ qù yóuyǒng.) | Perşembe akşamı yüzmeye gidiyorum.
+星期五 (xīngqīwǔ) | cuma | isim | 星期五下午不上班。(Xīngqīwǔ xiàwǔ bú shàngbān.) | Cuma öğleden sonra çalışmıyoruz.
+星期六 (xīngqīliù) | cumartesi | isim | 星期六我去看爷爷。(Xīngqīliù wǒ qù kàn yéye.) | Cumartesi dedemi ziyarete gidiyorum.
+星期天 (xīngqītiān) | pazar | isim | 星期天商店人很多。(Xīngqītiān shāngdiàn rén hěn duō.) | Pazar günü dükkânlar çok kalabalık.
+周 (zhōu) | hafta (kısa biçim) | isim | 我每周上三次课。(Wǒ měi zhōu shàng sān cì kè.) | Haftada üç kez derse giriyorum.
+下周 (xiàzhōu) | gelecek hafta | isim | 下周我去旅游。(Xiàzhōu wǒ qù lǚyóu.) | Gelecek hafta seyahate çıkıyorum.
+## Aylar ve yıllar
+年 (nián) | yıl | isim | 我学了一年汉语。(Wǒ xué le yì nián Hànyǔ.) | Bir yıl Çince öğrendim.
+去年 (qùnián) | geçen yıl | isim | 去年我去了西安。(Qùnián wǒ qù le Xī'ān.) | Geçen yıl Xi'an'a gittim.
+明年 (míngnián) | gelecek yıl | isim | 明年我要去中国留学。(Míngnián wǒ yào qù Zhōngguó liúxué.) | Gelecek yıl Çin'e okumaya gideceğim.
+每年 (měinián) | her yıl | zarf | 我们每年夏天去海边。(Wǒmen měinián xiàtiān qù hǎibiān.) | Her yaz deniz kenarına gideriz.
+一月 (yīyuè) | ocak | isim | 一月是一年的第一个月。(Yīyuè shì yì nián de dì yī ge yuè.) | Ocak yılın ilk ayıdır.
+六月 (liùyuè) | haziran | isim | 我六月毕业。(Wǒ liùyuè bìyè.) | Haziranda mezun oluyorum.
+十二月 (shí'èryuè) | aralık | isim | 十二月很冷。(Shí'èryuè hěn lěng.) | Aralık çok soğuk.
+日期 (rìqī) | tarih (gün) | isim | 请写上今天的日期。(Qǐng xiě shang jīntiān de rìqī.) | Lütfen bugünün tarihini yazın.
+上个月 (shàng ge yuè) | geçen ay | isim | 上个月我很忙。(Shàng ge yuè wǒ hěn máng.) | Geçen ay çok meşguldüm.
+下个月 (xià ge yuè) | gelecek ay | isim | 下个月我们搬家。(Xià ge yuè wǒmen bānjiā.) | Gelecek ay taşınıyoruz.
+## Mevsimler
+季节 (jìjié) | mevsim | isim | 你最喜欢哪个季节？(Nǐ zuì xǐhuan nǎge jìjié?) | En çok hangi mevsimi seversin?
+春天 (chūntiān) | ilkbahar | isim | 春天花都开了。(Chūntiān huā dōu kāi le.) | İlkbaharda bütün çiçekler açtı.
+夏天 (xiàtiān) | yaz | isim | 夏天我喜欢吃西瓜。(Xiàtiān wǒ xǐhuan chī xīguā.) | Yazın karpuz yemeyi severim.
+秋天 (qiūtiān) | sonbahar | isim | 北京的秋天很美。(Běijīng de qiūtiān hěn měi.) | Pekin'in sonbaharı çok güzel.
+冬天 (dōngtiān) | kış | isim | 冬天要多穿衣服。(Dōngtiān yào duō chuān yīfu.) | Kışın kalın giyinmek gerekir.
+冷 (lěng) | soğuk | sıfat | 今天外面很冷。(Jīntiān wàimiàn hěn lěng.) | Bugün dışarısı çok soğuk.
+热 (rè) | sıcak | sıfat | 广州的夏天特别热。(Guǎngzhōu de xiàtiān tèbié rè.) | Guangzhou'nun yazı çok sıcaktır.
+暖和 (nuǎnhuo) | ılık, sıcacık | sıfat | 房间里很暖和。(Fángjiān li hěn nuǎnhuo.) | Oda sıcacık.
+凉快 (liángkuai) | serin | sıfat | 晚上比较凉快。(Wǎnshang bǐjiào liángkuai.) | Akşamları oldukça serin.
+天气 (tiānqì) | hava (durumu) | isim | 今天天气怎么样？(Jīntiān tiānqì zěnmeyàng?) | Bugün hava nasıl?
+## Bayramlar
+节日 (jiérì) | bayram, tatil günü | isim | 你最喜欢什么节日？(Nǐ zuì xǐhuan shénme jiérì?) | En çok hangi bayramı seversin?
+春节 (Chūnjié) | Bahar Bayramı (Çin yeni yılı) | isim | 春节是中国最大的节日。(Chūnjié shì Zhōngguó zuì dà de jiérì.) | Bahar Bayramı Çin'in en büyük bayramıdır.
+新年 (xīnnián) | yeni yıl | isim | 新年快乐！(Xīnnián kuàilè!) | Mutlu yıllar!
+过年 (guònián) | yeni yılı kutlamak | fiil | 我们回老家过年。(Wǒmen huí lǎojiā guònián.) | Yeni yılı kutlamak için memleketimize dönüyoruz.
+红包 (hóngbāo) | kırmızı zarf (içinde bayram parası) | isim | 孩子们过年收红包。(Háizimen guònián shōu hóngbāo.) | Çocuklar yeni yılda kırmızı zarf alır.
+中秋节 (Zhōngqiūjié) | Ay Bayramı (Sonbahar Ortası Bayramı) | isim | 中秋节的月亮最圆。(Zhōngqiūjié de yuèliang zuì yuán.) | Ay Bayramı'nda ay en yuvarlak hâlindedir.
+月饼 (yuèbing) | ay çöreği | isim | 中秋节我们吃月饼。(Zhōngqiūjié wǒmen chī yuèbing.) | Ay Bayramı'nda ay çöreği yeriz.
+端午节 (Duānwǔjié) | Ejderha Teknesi Bayramı | isim | 端午节有龙舟比赛。(Duānwǔjié yǒu lóngzhōu bǐsài.) | Ejderha Teknesi Bayramı'nda tekne yarışları olur.
+生肖 (shēngxiào) | Çin burcu (12 hayvan) | isim | 你的生肖是什么？(Nǐ de shēngxiào shì shénme?) | Çin burcun ne?
+放假 (fàngjià) | tatile girmek | fiil | 我们下个星期放假。(Wǒmen xià ge xīngqī fàngjià.) | Gelecek hafta tatile giriyoruz.
+## Ne sıklıkla, ne zaman?
+常常 (chángcháng) | sık sık | zarf | 我常常去那个饭馆。(Wǒ chángcháng qù nàge fànguǎn.) | O lokantaya sık sık giderim.
+有时候 (yǒu shíhou) | bazen | zarf | 有时候我坐地铁上班。(Yǒu shíhou wǒ zuò dìtiě shàngbān.) | Bazen işe metroyla giderim.
+总是 (zǒngshì) | her zaman, hep | zarf | 他总是迟到。(Tā zǒngshì chídào.) | O hep geç kalır.
+已经 (yǐjīng) | zaten, artık, çoktan | zarf | 我已经吃饭了。(Wǒ yǐjīng chīfàn le.) | Ben zaten yemek yedim.
+马上 (mǎshàng) | hemen | zarf | 等一下，我马上来。(Děng yíxià, wǒ mǎshàng lái.) | Bir dakika bekle, hemen geliyorum.
+先 (xiān) | önce, ilk olarak | zarf | 你先走吧。(Nǐ xiān zǒu ba.) | Sen önden git.
+然后 (ránhòu) | sonra, ardından | bağlaç | 我先洗澡，然后吃饭。(Wǒ xiān xǐzǎo, ránhòu chīfàn.) | Önce duş alıyorum, sonra yemek yiyorum.
+最后 (zuìhòu) | en sonunda, son | zarf | 最后我们决定去上海。(Zuìhòu wǒmen juédìng qù Shànghǎi.) | Sonunda Şanghay'a gitmeye karar verdik.
+一直 (yìzhí) | sürekli; dümdüz | zarf | 雨一直下。(Yǔ yìzhí xià.) | Yağmur durmadan yağıyor.
+正在 (zhèngzài) | şu anda ...-mekte | zarf | 我正在吃早饭。(Wǒ zhèngzài chī zǎofàn.) | Şu anda kahvaltı yapıyorum.
