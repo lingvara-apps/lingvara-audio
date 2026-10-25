@@ -1,0 +1,111 @@
+# UNIT: Felsefe ve etik | Felsefe dalları, ahlak kuramları, etik tartışmalar
+## Felsefe dalları
+la metafisica | metafizik | isim (d) | La metafisica si interroga sulle cause prime e sulla natura dell'essere. | Metafizik ilk nedenleri ve varlığın doğasını sorgular.
+l'ontologia (d) | ontoloji, varlıkbilim | isim (d) | L'ontologia studia che cosa esiste e in quali modi esiste. | Ontoloji neyin var olduğunu ve hangi biçimlerde var olduğunu inceler.
+l'epistemologia (d) | epistemoloji, bilim felsefesi | isim (d) | L'epistemologia analizza i metodi e i limiti della conoscenza scientifica. | Epistemoloji bilimsel bilginin yöntemlerini ve sınırlarını inceler.
+la gnoseologia | bilgi kuramı | isim (d) | La gnoseologia si chiede come sia possibile conoscere il mondo esterno. | Bilgi kuramı dış dünyayı bilmenin nasıl mümkün olduğunu sorar.
+la logica formale | biçimsel mantık | isim (d) | La logica formale usa simboli per rappresentare la struttura dei ragionamenti. | Biçimsel mantık akıl yürütmelerin yapısını göstermek için semboller kullanır.
+la fenomenologia | fenomenoloji, görüngübilim | isim (d) | La fenomenologia descrive le cose così come appaiono alla coscienza. | Fenomenoloji şeyleri bilince göründükleri gibi betimler.
+la filosofia della mente | zihin felsefesi | isim (d) | La filosofia della mente discute il rapporto tra cervello e coscienza. | Zihin felsefesi beyinle bilinç arasındaki ilişkiyi tartışır.
+la filosofia politica | siyaset felsefesi | isim (d) | La filosofia politica si interroga sulla giustizia e sulla legittimità del potere. | Siyaset felsefesi adaleti ve iktidarın meşruiyetini sorgular.
+la teodicea | teodise (kötülük sorunu) | isim (d) | La teodicea cerca di conciliare l'esistenza del male con la bontà divina. | Teodise kötülüğün varlığını tanrısal iyilikle bağdaştırmaya çalışır.
+la filosofia del linguaggio | dil felsefesi | isim (d) | La filosofia del linguaggio studia il rapporto tra parole, significati e realtà. | Dil felsefesi sözcükler, anlamlar ve gerçeklik arasındaki ilişkiyi inceler.
+## Temel kavramlar
+l'essenza (d) | öz | isim (d) | Per alcuni filosofi l'essenza di una cosa precede la sua esistenza. | Bazı filozoflara göre bir şeyin özü varoluşundan önce gelir.
+la sostanza | töz | isim (d) | Spinoza sosteneva che esiste una sola sostanza infinita. | Spinoza tek bir sonsuz töz olduğunu savunuyordu.
+l'accidente (e) | ilinek | isim (e) | Il colore di un tavolo è un accidente, non la sua essenza. | Bir masanın rengi onun özü değil, ilineğidir.
+il divenire | oluş | isim (e) | Eraclito vedeva nel divenire continuo la legge fondamentale del mondo. | Herakleitos sürekli oluşta dünyanın temel yasasını görüyordu.
+l'ente (e) | varlık, var olan | isim (e) | Ogni ente, secondo la scolastica, partecipa in qualche modo dell'essere. | Skolastiğe göre her var olan bir biçimde varlığa katılır.
+a priori | önsel, a priori | zarf | Kant distingue le conoscenze a priori da quelle derivate dall'esperienza. | Kant önsel bilgileri deneyimden türeyenlerden ayırır.
+a posteriori | sonsal, a posteriori | zarf | Questa verità si può stabilire soltanto a posteriori, dopo l'osservazione. | Bu doğru ancak sonsal olarak, gözlemden sonra saptanabilir.
+la trascendenza | aşkınlık | isim (d) | Molte religioni affermano la trascendenza di Dio rispetto al mondo. | Pek çok din Tanrı'nın dünyaya göre aşkınlığını ileri sürer.
+l'immanenza (d) | içkinlik | isim (d) | Per Spinoza Dio non è separato dal mondo: è pura immanenza. | Spinoza'ya göre Tanrı dünyadan ayrı değildir, saf içkinliktir.
+la coscienza | bilinç; vicdan | isim (d) | Il problema della coscienza resta uno dei misteri più profondi della filosofia. | Bilinç sorunu felsefenin en derin gizemlerinden biri olmaya devam ediyor.
+## Bilgi kuramı
+l'empirismo (e) | deneycilik, empirizm | isim (e) | L'empirismo inglese sostiene che ogni conoscenza deriva dall'esperienza. | İngiliz deneyciliği her bilginin deneyimden türediğini savunur.
+l'innatismo (e) | doğuştancılık | isim (e) | Secondo l'innatismo alcune idee sono presenti nella mente fin dalla nascita. | Doğuştancılığa göre bazı fikirler doğuştan zihinde bulunur.
+lo scetticismo | şüphecilik | isim (e) | Lo scetticismo antico invitava a sospendere il giudizio su ogni questione. | Antik şüphecilik her konuda yargıyı askıya almaya çağırıyordu.
+il dubbio metodico | yöntemsel kuşku | isim (e) | Con il dubbio metodico Cartesio mette in discussione ogni certezza ricevuta. | Descartes yöntemsel kuşkuyla devraldığı her kesinliği sorgular.
+l'induzione (d) | tümevarım | isim (d) | L'induzione passa dai casi particolari a una legge generale. | Tümevarım tikel durumlardan genel bir yasaya geçer.
+la deduzione | tümdengelim | isim (d) | La deduzione ricava conclusioni necessarie da premesse generali. | Tümdengelim genel öncüllerden zorunlu sonuçlar çıkarır.
+il solipsismo | tekbencilik | isim (e) | Il solipsismo afferma che solo la propria mente è certa di esistere. | Tekbencilik yalnızca kişinin kendi zihninin varlığından emin olunabileceğini ileri sürer.
+il criterio di verità | doğruluk ölçütü | isim (e) | Ogni scuola filosofica ha proposto un diverso criterio di verità. | Her felsefe okulu farklı bir doğruluk ölçütü önerdi.
+la conoscenza sensibile | duyusal bilgi | isim (d) | Platone considerava la conoscenza sensibile inferiore a quella razionale. | Platon duyusal bilgiyi akli bilgiden aşağı görüyordu.
+il soggettivismo | öznelcilik | isim (e) | Il soggettivismo riduce la verità al punto di vista dell'individuo. | Öznelcilik doğruyu bireyin bakış açısına indirger.
+## Ahlak kuramları
+l'utilitarismo (e) | faydacılık | isim (e) | L'utilitarismo giudica giusta l'azione che produce la maggiore felicità complessiva. | Faydacılık en büyük toplam mutluluğu üreten eylemi doğru sayar.
+l'etica deontologica (d) | ödev etiği | isim (d) | L'etica deontologica valuta le azioni in base al dovere, non alle conseguenze. | Ödev etiği eylemleri sonuçlarına göre değil ödeve göre değerlendirir.
+l'etica delle virtù (d) | erdem etiği | isim (d) | L'etica delle virtù si chiede quale tipo di persona dovremmo diventare. | Erdem etiği nasıl bir insan olmamız gerektiğini sorar.
+il consequenzialismo | sonuççuluk | isim (e) | Per il consequenzialismo contano soltanto gli effetti delle nostre scelte. | Sonuççuluğa göre yalnızca seçimlerimizin etkileri önemlidir.
+l'imperativo categorico (e) | koşulsuz buyruk | isim (e) | L'imperativo categorico di Kant comanda di agire secondo una legge universale. | Kant'ın koşulsuz buyruğu evrensel bir yasaya göre davranmayı emreder.
+il relativismo morale | ahlaki görecilik | isim (e) | Il relativismo morale nega l'esistenza di valori validi per tutti. | Ahlaki görecilik herkes için geçerli değerlerin varlığını reddeder.
+l'edonismo (e) | hazcılık | isim (e) | L'edonismo identifica il bene con il piacere e l'assenza di dolore. | Hazcılık iyiyi hazla ve acının yokluğuyla özdeşleştirir.
+lo stoicismo | Stoacılık | isim (e) | Lo stoicismo insegna ad accettare con serenità ciò che non dipende da noi. | Stoacılık bize bağlı olmayanı dinginlikle kabul etmeyi öğretir.
+l'epicureismo (e) | Epikürcülük | isim (e) | L'epicureismo cerca una felicità semplice, lontana dalle passioni violente. | Epikürcülük şiddetli tutkulardan uzak, sade bir mutluluk arar.
+il contrattualismo | toplum sözleşmesi kuramı | isim (e) | Il contrattualismo fonda lo Stato su un accordo tra individui liberi. | Toplum sözleşmesi kuramı devleti özgür bireyler arasındaki bir anlaşmaya dayandırır.
+## Etik tartışmalar
+l'eutanasia (d) | ötanazi | isim (d) | Il dibattito sull'eutanasia divide medici, giuristi e filosofi. | Ötanazi tartışması doktorları, hukukçuları ve filozofları bölüyor.
+il libero arbitrio | özgür irade | isim (e) | Le neuroscienze hanno riaperto la questione del libero arbitrio. | Sinirbilimler özgür irade sorununu yeniden gündeme getirdi.
+il determinismo | belirlenimcilik | isim (e) | Il determinismo sostiene che ogni evento è causato da eventi precedenti. | Belirlenimcilik her olayın önceki olaylarca belirlendiğini savunur.
+la dignità umana | insan onuru | isim (d) | La dignità umana è il fondamento di ogni diritto fondamentale. | İnsan onuru her temel hakkın dayanağıdır.
+il dilemma morale | ahlaki ikilem | isim (e) | Il medico si trovò davanti a un dilemma morale senza soluzioni facili. | Doktor kolay çözümü olmayan bir ahlaki ikilemle karşılaştı.
+il bene comune | ortak iyi, kamu yararı | isim (e) | Ogni decisione politica dovrebbe essere orientata al bene comune. | Her siyasi karar ortak iyiye yönelik olmalıdır.
+la responsabilità morale | ahlaki sorumluluk | isim (d) | Chi progetta un'arma ha una responsabilità morale sul suo uso? | Bir silahı tasarlayan kişinin onun kullanımında ahlaki sorumluluğu var mıdır?
+il consenso informato | aydınlatılmış onam | isim (e) | Nessun intervento si può fare senza il consenso informato del paziente. | Hastanın aydınlatılmış onamı olmadan hiçbir müdahale yapılamaz.
+la sacralità della vita | yaşamın kutsallığı | isim (d) | Il principio della sacralità della vita è centrale in molte tradizioni religiose. | Yaşamın kutsallığı ilkesi pek çok dinî gelenekte merkezîdir.
+il benessere animale | hayvan refahı | isim (e) | Il filosofo sostiene che il benessere animale abbia un valore morale. | Filozof hayvan refahının ahlaki bir değeri olduğunu savunuyor.
+## Felsefe akımları
+l'idealismo (e) | idealizm | isim (e) | L'idealismo tedesco considera la realtà come manifestazione dello spirito. | Alman idealizmi gerçekliği tinin bir görünümü olarak görür.
+il materialismo | maddecilik | isim (e) | Il materialismo afferma che tutto ciò che esiste è materia in movimento. | Maddecilik var olan her şeyin hareket hâlindeki madde olduğunu ileri sürer.
+l'esistenzialismo (e) | varoluşçuluk | isim (e) | L'esistenzialismo pone al centro la libertà e l'angoscia dell'individuo. | Varoluşçuluk bireyin özgürlüğünü ve kaygısını merkeze koyar.
+il positivismo | pozitivizm, olguculuk | isim (e) | Il positivismo ottocentesco aveva una fiducia illimitata nella scienza. | On dokuzuncu yüzyıl pozitivizminin bilime sınırsız bir güveni vardı.
+il nichilismo | nihilizm, hiççilik | isim (e) | Nietzsche descrisse il nichilismo come la perdita di tutti i valori supremi. | Nietzsche nihilizmi bütün yüce değerlerin yitirilişi olarak tanımladı.
+il pragmatismo | pragmatizm | isim (e) | Per il pragmatismo un'idea è vera se funziona nella pratica. | Pragmatizme göre bir fikir pratikte işe yarıyorsa doğrudur.
+lo strutturalismo | yapısalcılık | isim (e) | Lo strutturalismo cerca le regole nascoste che organizzano linguaggio e cultura. | Yapısalcılık dili ve kültürü düzenleyen gizli kuralları arar.
+il postmodernismo | postmodernizm | isim (e) | Il postmodernismo diffida delle grandi narrazioni che spiegano tutta la storia. | Postmodernizm bütün tarihi açıklayan büyük anlatılara kuşkuyla bakar.
+la scolastica | skolastik felsefe | isim (d) | La scolastica medievale cercò di conciliare la fede con la ragione aristotelica. | Orta Çağ skolastiği inancı Aristotelesçi akılla bağdaştırmaya çalıştı.
+il neoplatonismo | Yeni Platonculuk | isim (e) | Il neoplatonismo ebbe grande influenza sugli umanisti fiorentini del Quattrocento. | Yeni Platonculuk on beşinci yüzyıl Floransalı hümanistleri üzerinde büyük etki yaptı.
+## Mantık ve akıl yürütme
+il paradosso | paradoks | isim (e) | Il paradosso di Zenone sembra dimostrare che il movimento è impossibile. | Zenon paradoksu hareketin imkânsız olduğunu kanıtlıyor gibi görünür.
+la tautologia | totoloji, eşsöz | isim (d) | Dire che il domani verrà domani è una semplice tautologia. | Yarın yarın gelecek demek basit bir totolojidir.
+la contraddizione | çelişki | isim (d) | Il suo ragionamento contiene una contraddizione evidente tra la prima e l'ultima tesi. | Akıl yürütmesi ilk ve son tez arasında apaçık bir çelişki içeriyor.
+il principio di non contraddizione | çelişmezlik ilkesi | isim (e) | Il principio di non contraddizione vieta di affermare e negare la stessa cosa insieme. | Çelişmezlik ilkesi aynı şeyi aynı anda hem onaylamayı hem reddetmeyi yasaklar.
+la dimostrazione per assurdo | olmayana ergi yöntemi | isim (d) | Con una dimostrazione per assurdo il matematico ha provato il teorema. | Matematikçi teoremi olmayana ergi yöntemiyle kanıtladı.
+la petizione di principio | kanıtlanacak olanı varsayma | isim (d) | Il suo argomento è una petizione di principio: presuppone ciò che vuole dimostrare. | Argümanı kanıtlanacak olanı varsayıyor, kanıtlamak istediğini baştan kabul ediyor.
+il circolo vizioso | kısır döngü | isim (e) | Definire il bene come ciò che è buono è un circolo vizioso. | İyiyi iyi olan şey diye tanımlamak bir kısır döngüdür.
+l'aporia (d) | apori, çıkmaz | isim (d) | Il dialogo platonico si chiude spesso con un'aporia irrisolta. | Platon diyalogları çoğu zaman çözümsüz bir aporiyle biter.
+la dialettica | diyalektik | isim (d) | Per Hegel la dialettica è il movimento stesso della realtà. | Hegel'e göre diyalektik gerçekliğin kendi hareketidir.
+il ragionamento induttivo | tümevarımsal akıl yürütme | isim (e) | Il ragionamento induttivo non garantisce mai una certezza assoluta. | Tümevarımsal akıl yürütme hiçbir zaman mutlak bir kesinlik sağlamaz.
+## Felsefi fiiller
+speculare | kuramsal düşünmek, spekülasyon yapmak | fiil | I filosofi greci speculavano sull'origine e sulla struttura del cosmo. | Yunan filozofları evrenin kökeni ve yapısı üzerine kuramsal düşünürdü.
+argomentare | gerekçelendirmek, kanıt getirmek | fiil | Lo studente deve argomentare la propria tesi con esempi concreti. | Öğrenci tezini somut örneklerle gerekçelendirmelidir.
+dedurre (dedotto) | çıkarsamak, tümdengelimle varmak | fiil · düzensiz | Dalle premesse si può dedurre una sola conclusione valida. | Öncüllerden tek bir geçerli sonuç çıkarsanabilir.
+inferire (inferto) | çıkarım yapmak | fiil · düzensiz | Dal suo silenzio possiamo inferire che non era d'accordo. | Sessizliğinden aynı fikirde olmadığı çıkarımını yapabiliriz.
+astrarre (astratto) | soyutlamak | fiil · düzensiz | La mente sa astrarre il concetto di cerchio da molti oggetti rotondi. | Zihin daire kavramını pek çok yuvarlak nesneden soyutlayabilir.
+trascendere (trasceso) | aşmak, ötesine geçmek | fiil · düzensiz | Per molti mistici l'esperienza religiosa trascende ogni linguaggio umano. | Pek çok mistiğe göre dinî deneyim her türlü insan dilini aşar.
+concettualizzare | kavramsallaştırmak | fiil | Il filosofo ha cercato di concettualizzare l'esperienza del tempo vissuto. | Filozof yaşanan zaman deneyimini kavramsallaştırmaya çalıştı.
+teorizzare | kuramlaştırmak | fiil | Nel Principe Machiavelli teorizzò per primo l'autonomia della politica dalla morale. | Machiavelli Hükümdar'da siyasetin ahlaktan bağımsızlığını ilk kez kuramlaştırdı.
+relativizzare | göreceleştirmek | fiil | Conoscere altre culture aiuta a relativizzare le proprie certezze. | Başka kültürleri tanımak kendi kesinliklerini göreceleştirmeye yardım eder.
+postulare l'esistenza | varlığını varsaymak | ifade | Kant ritiene necessario postulare l'esistenza di Dio per la morale. | Kant ahlak için Tanrı'nın varlığını varsaymayı zorunlu görür.
+## Felsefi sıfatlar
+ontologico | ontolojik, varlıksal | sıfat | L'argomento ontologico cerca di provare l'esistenza di Dio dal suo concetto. | Ontolojik kanıt Tanrı'nın varlığını onun kavramından kanıtlamaya çalışır.
+trascendentale | aşkınsal | sıfat | Kant chiama trascendentale lo studio delle condizioni della conoscenza. | Kant bilginin koşullarının incelenmesine aşkınsal der.
+empirico | deneysel, deneyime dayalı | sıfat | Ogni affermazione empirica deve poter essere controllata con l'osservazione. | Her deneysel önerme gözlemle denetlenebilmelidir.
+teleologico | erekbilimsel | sıfat | Aristotele offre una spiegazione teleologica della natura e dei suoi fini. | Aristoteles doğaya ve amaçlarına erekbilimsel bir açıklama getirir.
+dogmatico | dogmatik, sorgusuz | sıfat | In qualunque discussione un atteggiamento dogmatico impedisce un dialogo davvero autentico. | Herhangi bir tartışmada dogmatik bir tutum gerçekten sahici bir diyaloğu engeller.
+sofistico | safsatalı, aldatıcı | sıfat | Il suo ragionamento brillante è in realtà sofistico e ingannevole. | Parlak akıl yürütmesi aslında safsatalı ve yanıltıcı.
+utopico | ütopik | sıfat | Il progetto di una società senza conflitti appare a molti utopico. | Çatışmasız bir toplum projesi birçoklarına ütopik görünüyor.
+assiomatico | aksiyomatik, apaçık | sıfat | Il sistema di Euclide ha una struttura assiomatica rigorosa. | Öklid'in sisteminin titiz bir aksiyomatik yapısı var.
+esistenziale | varoluşsal | sıfat | Dopo la malattia ha attraversato una profonda crisi esistenziale. | Hastalıktan sonra derin bir varoluşsal kriz geçirdi.
+normativo | normatif, kural koyucu | sıfat | L'etica è una disciplina normativa: dice come dovremmo agire. | Etik normatif bir disiplindir; nasıl davranmamız gerektiğini söyler.
+## Antik felsefe mirası
+la maieutica | doğurtma yöntemi (Sokratik) | isim (d) | Con la maieutica Socrate aiutava gli allievi a trovare da soli la verità. | Sokrates doğurtma yöntemiyle öğrencilerinin doğruyu kendi başlarına bulmalarına yardım ederdi.
+la catarsi | arınma, katarsis | isim (d) | Secondo Aristotele la tragedia produce negli spettatori una catarsi delle passioni. | Aristoteles'e göre trajedi seyircilerde tutkuların arınmasını sağlar.
+l'atarassia (d) | ruh dinginliği, ataraksiya | isim (d) | Gli epicurei cercavano l'atarassia, cioè l'assenza di turbamento nell'anima. | Epikürcüler ataraksiyayı, yani ruhta huzursuzluğun yokluğunu arıyordu.
+il logos | logos, akıl ilkesi | isim (e) | Per Eraclito il logos è la legge razionale che governa il cosmo. | Herakleitos'a göre logos evreni yöneten akılsal yasadır.
+l'arché (d) | arkhe, ilk ilke | isim (d) | Talete individuò nell'acqua l'arché di tutte le cose. | Thales her şeyin ilk ilkesini suda buldu.
+la virtù cardinale | ana erdem | isim (d) | Prudenza, giustizia, fortezza e temperanza sono le quattro virtù cardinali. | Sağduyu, adalet, cesaret ve ölçülülük dört ana erdemdir.
+l'utopia (d) | ütopya | isim (d) | La città del Sole di Campanella è una celebre utopia del Seicento. | Campanella'nın Güneş Ülkesi on yedinci yüzyılın ünlü bir ütopyasıdır.
+la sofistica | sofistlik | isim (d) | La sofistica insegnava a vincere i dibattiti più che a cercare la verità. | Sofistlik doğruyu aramaktan çok tartışmaları kazanmayı öğretirdi.
+il mondo delle idee | idealar dünyası | isim (e) | Per Platone il mondo delle idee è più reale di quello sensibile. | Platon'a göre idealar dünyası duyulur dünyadan daha gerçektir.
+la saggezza pratica | pratik bilgelik | isim (d) | Aristotele chiama saggezza pratica la capacità di agire bene nelle situazioni concrete. | Aristoteles somut durumlarda doğru davranma yetisine pratik bilgelik der.
