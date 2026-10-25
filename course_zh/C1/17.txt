@@ -1,4 +1,4 @@
-# UNIT: Yakın anlamlılar ve anlam farkları | 近义词辨析: fark etmek, yardım, sadelik, ciddiyet, sonuç, durum
+# UNIT: Yakın anlamlılar ve anlam farkları | 近义词辨析 ve 多音字: yakın anlamlı sözcükler, çok okunuşlu karakterler
 ## Fark etmek ve kavramak
 发现 (fāxiàn) | keşfetmek, bulmak (nesnel olarak) | fiil | 考古学家在这里发现了一座汉代古墓。 | Arkeologlar burada Han döneminden kalma bir mezar keşfetti.
 发觉 (fājué) | (sonradan) farkına varmak | fiil | 走到半路，我才发觉钱包丢了。 | Yolu yarılayınca cüzdanımı kaybettiğimin ancak farkına vardım.
@@ -76,17 +76,17 @@
 宠爱 (chǒng'ài) | şımartarak sevmek | fiil | 她是家里的小女儿，从小受尽宠爱。 | Evin küçük kızı olduğu için küçüklüğünden beri el üstünde tutuldu.
 溺爱 (nì'ài) | aşırı şımartmak | fiil | 溺爱孩子只会害了孩子。 | Çocuğu aşırı şımartmak ona yalnızca zarar verir.
 怜惜 (liánxī) | acıyarak şefkat göstermek | fiil | 看着这个瘦弱的孩子，她心里充满了怜惜。 | Bu cılız çocuğa bakarken içi acıma dolu bir şefkatle doldu.
-## Belirleme ve duyurma
-颁布 (bānbù) | (yasa, yönetmelik) yürürlüğe koymak | fiil | 国家颁布了新的环境保护法。 | Devlet yeni çevre koruma kanununu yürürlüğe koydu.
-制定 (zhìdìng) | (yasa, politika) belirlemek, oluşturmak | fiil | 政府正在制定新的住房政策。 | Hükümet yeni bir konut politikası oluşturuyor.
-制订 (zhìdìng) | (plan, program) hazırlamak | fiil | 我们需要制订一份详细的学习计划。 | Ayrıntılı bir çalışma planı hazırlamamız gerekiyor.
-订立 (dìnglì) | (anlaşma) akdetmek, yapmak | fiil | 双方在平等自愿的基础上订立了协议。 | Taraflar eşitlik ve gönüllülük esasında bir anlaşma yaptı.
-公告 (gōnggào) | resmî duyuru, ilan | isim | 公司在官网上发布了一则人事变动公告。 | Şirket resmî sitesinde bir personel değişikliği duyurusu yayımladı.
-通告 (tōnggào) | genelge, bildirim | isim | 学校发出通告，明天停课一天。 | Okul yarın bir günlük tatil olacağına dair bir bildirim yayımladı.
-公示 (gōngshì) | kamuoyuna askıya çıkarmak (itiraz için) | fiil | 获奖名单将在网上公示七天。 | Ödül alanların listesi yedi gün boyunca internette askıda kalacak.
-宣告 (xuāngào) | ilan etmek (resmî, büyük olay) | fiil | 法院宣告这家公司破产。 | Mahkeme bu şirketin iflasını ilan etti.
-布告 (bùgào) | ilan tahtası duyurusu | isim | 村口的墙上贴着一张布告。 | Köy girişindeki duvara bir ilan asılmış.
-拟定 (nǐdìng) | taslağını hazırlamak | fiil | 秘书已经拟定了会议的日程安排。 | Sekreter toplantı programının taslağını hazırladı.
+## Çok okunuşlu karakterler (多音字)
+着落 (zhuóluò) | sonuç, çıkar yol (着 burada zhuó) | isim | 找了半个月，工作还是没有着落。 | Yarım aydır arıyorum, iş konusunda hâlâ bir sonuç yok.
+参差 (cēncī) | düzensiz, inişli çıkışlı (参 burada cēn) | sıfat | 班上学生的水平参差不齐。 | Sınıftaki öğrencilerin düzeyleri inişli çıkışlı.
+曲折 (qūzhé) | dolambaçlı, iniş çıkışlı (曲 burada qū) | sıfat | 这部小说的情节曲折动人。 | Bu romanın olay örgüsü iniş çıkışlı ve dokunaklı.
+供给 (gōngjǐ) | tedarik etmek, sağlamak (给 burada jǐ) | fiil | 这座水库为全城供给饮用水。 | Bu baraj bütün şehre içme suyu sağlıyor.
+给予 (jǐyǔ) | vermek, sunmak (resmî; 给 burada jǐ) | fiil | 学校给予他通报表扬。 | Okul ona resmî bir takdir verdi.
+落枕 (làozhěn) | boyun tutulması (落 burada lào) | fiil | 昨晚落枕了，脖子一动就疼。 | Dün gece boynum tutuldu, kıpırdatınca ağrıyor.
+薄荷 (bòhe) | nane (薄 burada bò) | isim | 夏天喝一杯薄荷茶，特别清凉。 | Yazın bir bardak nane çayı içmek insanı çok serinletir.
+削弱 (xuēruò) | zayıflatmak (削 burada xuē) | fiil | 这次失败大大削弱了他的信心。 | Bu başarısızlık özgüvenini büyük ölçüde zayıflattı.
+屏息 (bǐngxī) | nefesini tutmak (屏 burada bǐng) | fiil | 观众屏息凝视着走钢丝的演员。 | Seyirciler nefeslerini tutup ip cambazına baktı.
+角逐 (juézhú) | yarışmak, çekişmek (角 burada jué) | fiil | 八支球队将角逐冠军。 | Sekiz takım şampiyonluk için yarışacak.
 ## Durum ve koşullar
 局面 (júmiàn) | genel tablo, durum (bir alanda) | isim | 两支球队形成了势均力敌的局面。 | İki takım arasında başa baş bir durum oluştu.
 局势 (júshì) | (siyasi, askerî) gidişat | isim | 该地区的局势正在趋于稳定。 | Bölgedeki gidişat istikrara doğru ilerliyor.
