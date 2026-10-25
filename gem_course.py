@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gem_common import call, out_of_time  # noqa: E402
 
 C = sys.argv[1]
-NAME = {"es": "Spanish (İspanyolca)", "de": "German (Almanca)", "fr": "French (Fransızca)"}[C]
+NAME = {"es": "Spanish (İspanyolca)", "de": "German (Almanca)", "fr": "French (Fransızca)", "it": "Italian (İtalyanca)"}[C]
 D = f"course_{C}"
 BRIEF = open("brief.md", encoding="utf-8").read()
 POS = {"isim", "isim (e)", "isim (d)", "isim (o)", "isim (çoğul)", "fiil", "fiil · düzensiz", "fiil · dönüşlü", "sıfat", "zarf",
@@ -68,7 +68,8 @@ def check_words(text, used):
 
 def write_words(path, title):
     used = used_words(skip=path)
-    sample = open(f"{D}/A1/01.txt", encoding="utf-8").read()[:2500] if os.path.exists(f"{D}/A1/01.txt") else ""
+    sp = f"{D}/A1/01.txt" if os.path.exists(f"{D}/A1/01.txt") else "course_es/A1/01.txt"
+    sample = open(sp, encoding="utf-8").read()[:2500] if os.path.exists(sp) else ""
     lv = path.split("/")[-2]
     base = (f"{BRIEF}\n\nYou write the {NAME} course for Turkish-speaking learners. Write ONE word file now.\n"
             f"File: {lv}/{os.path.basename(path)} — unit: {title}\nLevel: {lv}.\n"
