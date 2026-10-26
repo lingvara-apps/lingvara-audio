@@ -66,7 +66,7 @@ la amilasa | amilaz | isim (d) | La amilasa inicia la digestión de carbohidrato
 la flora intestinal | bağırsak florası | isim (d) | La flora intestinal ayuda a procesar ciertos nutrientes. | Bağırsak florası bazı besinleri işlemeye yardım eder.
 el conducto biliar | safra kanalı | isim (e) | El conducto biliar vierte bilis al duodeno. | Safra kanalı duodenumun içine safra döker.
 ## Boşaltım sistemi
-el uréter | üreter | isim (e) | El uréter transporta la orina hacia la vejiga. | Üreter idrarı mesafeye taşır.
+el uréter | üreter | isim (e) | El uréter transporta la orina hacia la vejiga. | Üreter idrarı mesaneye taşır.
 el glomérulo | glomerül | isim (e) | El glomérulo filtra los residuos sanguíneos iniciales. | Glomerül ilk kan atıklarını filtreler.
 el túbulo | tübül | isim (e) | El túbulo reabsorbe agua y sales minerales útiles. | Tübül su ve yararlı mineral tuzları geri emer.
 la diuresis | idrar çıkışı, diürez | isim (d) | La diuresis aumenta al beber mucha agua. | Çok su içince idrar çıkışı artar.
@@ -103,7 +103,7 @@ el ganglio linfático | lenf düğümü | isim (e) | El ganglio filtra patógeno
 el vaso linfático | lenf damarı | isim (e) | El vaso linfático transporta líquido intersticial. | Lenf damarı dokular arası sıvıyı taşır.
 la célula fagocítica | fagositer hücre | isim (d) | La célula fagocítica engulle bacterias invasoras. | Fagositer hücre istilacı bakterileri yutar.
 la inmunoglobulina | immünoglobulin | isim (d) | Las inmunoglobulinas son un tipo de anticuerpo. | İmmünoglobulinler bir tür antikordur.
-el linfocito T | T lenfosit | isim (e) | El linfocito T destruye células infectadas internas. | T lenfosit içarıda enfekte olmuş hücreleri yok eder.
+el linfocito T | T lenfosit | isim (e) | El linfocito T destruye células infectadas internas. | T lenfosit içeride enfekte olmuş hücreleri yok eder.
 el linfocito B | B lenfosit | isim (e) | El linfocito B produce anticuerpos específicos circulantes. | B lenfosit dolaşan özel antikorlar üretir.
 la médula ósea | kemik iliği | isim (d) | La médula ósea fabrica todas las células sanguíneas. | Kemik iliği tüm kan hücrelerini üretir.
 la respuesta inmunitaria | bağışıklık yanıtı | isim (d) | La respuesta inmunitaria combate infecciones eficazmente. | Bağışıklık yanıtı enfeksiyonlarla etkili şekilde savaşır.
