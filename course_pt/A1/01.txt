@@ -99,7 +99,7 @@ entender | anlamak | fiil | Não entendo a pergunta. | Soruyu anlamıyorum.
 repetir | tekrar etmek | fiil | Pode repetir, por favor? | Tekrar eder misiniz, lütfen?
 saber | bilmek | fiil · düzensiz | Eu não sei a resposta. | Cevabı bilmiyorum.
 ## Konuşma kalıpları
-como se diz...? | ... nasıl denir? | ifade | Como se diz "kedi" em português? | Portekizce "kedi" nasıl denir?
+como se diz...? | ... nasıl denir? | ifade | Como se diz "obrigado" em inglês? | İngilizcede "obrigado" nasıl denir?
 o que significa...? | ... ne demek? | ifade | O que significa "saudade"? | "Saudade" ne demek?
 mais devagar | daha yavaş | ifade | Fale mais devagar, por favor. | Daha yavaş konuş, lütfen.
 de novo | yeniden, tekrar | ifade | Pode falar de novo? | Tekrar söyler misin?
