@@ -329,11 +329,11 @@
   "st_lang": "tr"
  },
  "ar": {
-  "engine": "supertonic",
+  "engine": "piper",
   "reading_parens": true,
   "voices": {
-   "f": "F3",
-   "m": "M2"
+   "f": "ar_JO-kareem-low",
+   "m": "ar_JO-kareem-low"
   },
   "male_names": [
    "Omar",
