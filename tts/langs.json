@@ -1,11 +1,11 @@
 {
  "_doc": "Per-course TTS settings. engine: kokoro | piper | supertonic | melo. voices.f = general (female) voice, voices.m = male dialog voice. male_names: dialog speaker names (from '# DIALOG' headers) that get the male voice. reading_parens: strip '(romanization)' before hashing/speaking (non-Latin scripts). A voice id may name another engine ('supertonic:M1') and/or a pitch factor ('ff_siwis@0.84'). model: 'v1.1-zh' selects Kokoro v1.1-zh. st_lang: Supertonic language code.",
  "es": {
-  "engine": "kokoro",
+  "engine": "supertonic",
   "lang": "es",
   "voices": {
-   "f": "ef_dora",
-   "m": "em_alex"
+   "f": "F3",
+   "m": "M2"
   },
   "male_names": [
    "Diego",
@@ -44,7 +44,8 @@
    "Nicolás",
    "Pepe",
    "Paco"
-  ]
+  ],
+  "st_lang": "es"
  },
  "fr": {
   "engine": "kokoro",
@@ -122,42 +123,50 @@
   ]
  },
  "pt": {
-  "engine": "kokoro",
+  "engine": "supertonic",
   "lang": "pt-br",
   "voices": {
-   "f": "pf_dora",
-   "m": "pm_santa"
+   "f": "M1",
+   "m": "kokoro:pf_dora"
   },
   "male_names": [
-   "João",
-   "Pedro",
-   "Lucas",
-   "Gabriel",
-   "Rafael",
-   "Thiago",
-   "Tiago",
-   "Bruno",
-   "Felipe",
-   "Mateus",
-   "Gustavo",
-   "Carlos",
-   "Paulo",
-   "André",
-   "Rodrigo",
-   "Diego",
-   "Omar",
-   "Emre",
-   "Ali",
-   "Lukas",
-   "Kenji",
-   "Marcelo",
-   "Ricardo",
-   "Fernando",
-   "Eduardo",
-   "Leonardo",
-   "Miguel",
-   "Caio"
-  ]
+   "Yuki",
+   "Sofia",
+   "Larissa",
+   "Fernanda",
+   "Camille",
+   "Camila",
+   "Beatriz",
+   "Ana",
+   "Maria",
+   "Juliana",
+   "Mariana",
+   "Luana",
+   "Carolina",
+   "Isabela",
+   "Isabel",
+   "Letícia",
+   "Clara",
+   "Helena",
+   "Alice",
+   "Laura",
+   "Bia",
+   "Marisol",
+   "Vitória",
+   "Iara",
+   "Gabriela",
+   "Patrícia",
+   "Amanda",
+   "Bruna",
+   "Rafaela",
+   "Aiko",
+   "Fatma",
+   "Elif",
+   "Anna",
+   "Lena"
+  ],
+  "st_lang": "pt",
+  "_note": "pt: genel ses ERKEK (Supertonic M1). Diyaloglarda yalnızca kadın karakterler Kokoro pf_dora: mekanizma gereği kadın adları 'male_names' listesinde (uygulama bu konuşmacılar için 'm|' anahtarını çalar)."
  },
  "ja": {
   "engine": "kokoro",
