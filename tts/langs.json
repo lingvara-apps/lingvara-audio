@@ -91,7 +91,7 @@
   "lang": "it",
   "voices": {
    "f": "if_sara",
-   "m": "im_nicola"
+   "m": "supertonic:M1"
   },
   "male_names": [
    "Marco",
@@ -120,7 +120,8 @@
    "Federico",
    "Leonardo",
    "Tommaso"
-  ]
+  ],
+  "st_lang": "it"
  },
  "pt": {
   "engine": "supertonic",
@@ -175,7 +176,7 @@
   "reading_parens": true,
   "voices": {
    "f": "jf_alpha",
-   "m": "jm_kumo"
+   "m": "supertonic:M1"
   },
   "male_names": [
    "Kenji",
@@ -207,7 +208,8 @@
    "大輝",
    "ケンジ",
    "タロウ"
-  ]
+  ],
+  "st_lang": "ja"
  },
  "zh": {
   "engine": "kokoro",
@@ -216,7 +218,7 @@
   "reading_parens": true,
   "voices": {
    "f": "zf_001",
-   "m": "zm_011"
+   "m": "zm_009"
   },
   "male_names": [
    "Wang Wei",
@@ -297,7 +299,7 @@
   "engine": "supertonic",
   "voices": {
    "f": "F1",
-   "m": "M2"
+   "m": "M3"
   },
   "male_names": [
    "Emre",
@@ -376,8 +378,8 @@
   "engine": "supertonic",
   "reading_parens": true,
   "voices": {
-   "f": "F4",
-   "m": "M3"
+   "f": "F1",
+   "m": "M1"
   },
   "male_names": [
    "Minho",
