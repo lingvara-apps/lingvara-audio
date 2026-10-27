@@ -254,8 +254,8 @@
  "de": {
   "engine": "supertonic",
   "voices": {
-   "f": "F1",
-   "m": "M2"
+   "f": "piper:de_DE-eva_k-x_low",
+   "m": "M1"
   },
   "male_names": [
    "Lukas",
