@@ -7,8 +7,8 @@ il padrone di casa | ev sahibi | isim (e) | Il padrone di casa abita al piano di
 l'agenzia immobiliare (d) | emlak ofisi | isim (d) | Cerco casa tramite un'agenzia immobiliare. | Bir emlak ofisi aracılığıyla ev arıyorum.
 la caparra | depozito, kapora | isim (d) | La caparra è di due mensilità. | Depozito iki aylık kira.
 arredato | eşyalı, mobilyalı | sıfat | Cerco un appartamento arredato. | Eşyalı bir daire arıyorum.
-il monolocale | stüdyo daire (1+0) | isim (e) | Lo studente vive in un monolocale. | Öğrenci stüdyo bir dairede yaşıyor.
-il bilocale | 1+1 daire | isim (e) | Il bilocale ha un balcone. | 1+1 dairenin bir balkonu var.
+il monolocale | tek odalı daire, stüdyo daire | isim (e) | Lo studente vive in un monolocale. | Öğrenci stüdyo bir dairede yaşıyor.
+il bilocale | iki odalı daire | isim (e) | Il bilocale ha un balcone. | İki odalı dairenin bir balkonu var.
 il metro quadro | metrekare | isim (e) | La casa è di settanta metri quadri. | Ev yetmiş metrekare.
 ## Evin diğer bölümleri
 la cantina | bodrum, mahzen | isim (d) | Il vino è in cantina. | Şarap mahzende.
@@ -36,7 +36,7 @@ arredare | döşemek (evi) | fiil | Arrediamo la casa nuova. | Yeni evi döşüy
 il congelatore | dondurucu | isim (e) | Il gelato è nel congelatore. | Dondurma dondurucuda.
 il bollitore | su ısıtıcısı, kettle | isim (e) | Accendo il bollitore per il tè. | Çay için su ısıtıcısını açıyorum.
 il tostapane | ekmek kızartma makinesi | isim (e) | Il tostapane è rotto. | Ekmek kızartma makinesi bozuk.
-il frullatore | blender, mikser | isim (e) | Faccio un frullato con il frullatore. | Blenderla bir meyve kokteyli yapıyorum.
+il frullatore | blender, mikser | isim (e) | Faccio un frullato con il frullatore. | Blenderla bir smoothie yapıyorum.
 la cappa | davlumbaz | isim (d) | Accendi la cappa quando cucini. | Yemek yaparken davlumbazı aç.
 il water | klozet | isim (e) | Il water non scarica bene. | Klozetin sifonu iyi çekmiyor.
 il bidè | bide | isim (e) | In Italia ogni bagno ha il bidè. | İtalya'da her banyoda bide vardır.

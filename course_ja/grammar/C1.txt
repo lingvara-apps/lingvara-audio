@@ -6,8 +6,8 @@
 = 上司の命令なので、納得できなくても従わざるを得ない。 | Amirimin emri olduğu için ikna olmasam da uymak zorundayım.
 = 予算が足りず、計画を縮小せざるを得なかった。 | Bütçe yetmediği için planı küçültmek zorunda kaldık.
 = 不況が多くの中小企業に廃業を余儀なくさせた。 | Durgunluk birçok küçük işletmeyi kepenk kapatmak zorunda bıraktı.
-? 「する」の正しい形はどれですか: 延期___を得ない。 | せざる | しざる | すざる
-? 「行く」の正しい形はどれですか: 明日は会社に___を得ない。 | 行かざる | 行きざる | 行くざる
+? 「する」 fiilinin doğru biçimi hangisidir? 延期___を得ない。 | せざる | しざる | すざる
+? 「行く」 fiilinin doğru biçimi hangisidir? 明日は会社に___を得ない。 | 行かざる | 行きざる | 行くざる
 ? "Fabrika kapatılmak zorunda kaldı." → 工場は閉鎖を___。 | 余儀なくされた | 余儀なくした | 余儀なかった
 ? "Hatamı kabul etmek zorundayım." → 自分の誤りを___。 | 認めざるを得ない | 認めないを得ない | 認めずを得ない
 ? 〜を余儀なくされる hangi sözcük türüyle kullanılır? | isim | sıfat | zarf
@@ -45,10 +45,10 @@
 = 遠いところ、お越しいただきありがとうございます。 | Uzak yoldan teşrif ettiğiniz için teşekkür ederiz.
 = こちらの資料をご覧になってください。 | Lütfen bu belgelere göz atın.
 = 部長は会議でそうおっしゃいました。 | Müdür bey toplantıda öyle söyledi.
-? 「食べる」の尊敬語はどれですか。 | 召し上がる | いただく | 参る
-? 「見る」の尊敬語はどれですか。 | ご覧になる | 拝見する | お見えする
-? 「お客様が来ました」の尊敬表現はどれですか。 | お客様がお見えになりました | お客様が参りました | お客様が伺いました
-? 「する」の尊敬語はどれですか。 | なさる | いたす | 申す
+? 「食べる」 fiilinin saygı dili (尊敬語) biçimi hangisidir? | 召し上がる | いただく | 参る
+? 「見る」 fiilinin saygı dili (尊敬語) biçimi hangisidir? | ご覧になる | 拝見する | お見えする
+? 「お客様が来ました」 cümlesinin saygı dili biçimi hangisidir? | お客様がお見えになりました | お客様が参りました | お客様が伺いました
+? 「する」 fiilinin saygı dili (尊敬語) biçimi hangisidir? | なさる | いたす | 申す
 ? Hangisi "çift saygı" hatası içerir? | おっしゃられました | おっしゃいました | 言われました
 # TOPIC: Alçakgönüllü dil (謙譲語) ve kibar biçim (丁重語) | 伺う、拝見する、申し上げる、参る
 > Alçakgönüllü dil, konuşanın kendi eylemini alçaltarak karşıdakini yüceltir. Özel fiiller: 行く・聞く・訪ねる → 伺う, 見る → 拝見する, 言う → 申し上げる (kişiye) / 申す, 会う → お目にかかる, 知る → 存じ上げる, もらう → いただく, あげる → 差し上げる. Genel kalıp: お＋ます-kökü＋する/いたす (お持ちします), ご＋isim＋する (ご案内します).
@@ -58,11 +58,11 @@
 = 先生のご著書は、以前から存じ上げております。 | Hocamın kitaplarını uzun zamandır biliyorum.
 = お荷物をお持ちしましょうか。 | Eşyalarınızı taşıyayım mı?
 = 私は田中と申します。営業部におります。 | Adım Tanaka. Satış bölümündeyim.
-? 「会う」の謙譲語はどれですか。 | お目にかかる | お会いになる | ご覧になる
-? 「知っている」の謙譲語はどれですか。 | 存じております | ご存じです | 知っていらっしゃいます
-? 「先生の家に行きます」の謙譲表現はどれですか。 | 先生のお宅に伺います | 先生のお宅にいらっしゃいます | 先生のお宅においでになります
-? 「部長にそう言いました」の謙譲表現はどれですか。 | 部長にそう申し上げました | 部長にそうおっしゃいました | 部長にそう言われました
-? 「私がご案内___。」に入る最も適切な語はどれですか。 | いたします | なさいます | くださいます
+? 「会う」 fiilinin alçakgönüllü dil (謙譲語) biçimi hangisidir? | お目にかかる | お会いになる | ご覧になる
+? 「知っている」 ifadesinin alçakgönüllü dil (謙譲語) biçimi hangisidir? | 存じております | ご存じです | 知っていらっしゃいます
+? 「先生の家に行きます」 cümlesinin alçakgönüllü biçimi hangisidir? | 先生のお宅に伺います | 先生のお宅にいらっしゃいます | 先生のお宅においでになります
+? 「部長にそう言いました」 cümlesinin alçakgönüllü biçimi hangisidir? | 部長にそう申し上げました | 部長にそうおっしゃいました | 部長にそう言われました
+? 「私がご案内___。」 boşluğuna en uygun sözcük hangisidir? | いたします | なさいます | くださいます
 # TOPIC: Taviz ve karşıtlık: 〜ものの, 〜とはいえ, 〜ながらも, 〜にもかかわらず | 買ったものの、使っていない
 > 〜ものの "...dı ama (beklenen sonuç gelmedi)" anlamında yazılı bir taviz bağlacıdır: 免許は取ったものの、運転していない. 〜とはいえ "öyle olsa da, her ne kadar ...se de" demektir ve isim, sıfat, cümleyle kullanılır.
 > 〜ながらも "...olmasına rağmen" (aynı öznenin iki karşıt durumu): 狭いながらも快適な部屋. 〜にもかかわらず "...e rağmen" en resmî olanıdır ve haber dilinde yaygındır.

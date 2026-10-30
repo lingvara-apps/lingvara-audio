@@ -1,6 +1,6 @@
 # UNIT: Mutfakta | Yemek pişirme, mutfak aletleri, Japon mutfağı, meyve-sebze, beslenme
 ## Pişirme yöntemleri
-煮る (niru) | haşlamak, kaynatarak pişirmek | fiil | 野菜を醤油で煮ます。(Yasai o shōyu de nimasu.) | Sebzeleri soya sosunda pişiriyorum.
+煮る (niru) | kaynatarak pişirmek, (sosta) pişirmek | fiil | 野菜を醤油で煮ます。(Yasai o shōyu de nimasu.) | Sebzeleri soya sosunda pişiriyorum.
 炊く (taku) | (pirinç) pişirmek | fiil | 毎朝ご飯を炊きます。(Maiasa gohan o takimasu.) | Her sabah pilav pişiririm.
 揚げる (ageru) | kızartmak (bol yağda) | fiil | 鶏肉を油で揚げます。(Toriniku o abura de agemasu.) | Tavuğu yağda kızartıyorum.
 炒める (itameru) | sotelemek | fiil | 玉ねぎを炒めてください。(Tamanegi o itamete kudasai.) | Soğanları soteleyin.
@@ -9,7 +9,7 @@
 混ぜる (mazeru) | karıştırmak | fiil | 卵と砂糖をよく混ぜます。(Tamago to satō o yoku mazemasu.) | Yumurtayla şekeri iyice karıştırıyorum.
 剥く (muku) | soymak | fiil | りんごの皮を剥きます。(Ringo no kawa o mukimasu.) | Elmanın kabuğunu soyuyorum.
 温める (atatameru) | ısıtmak | fiil | スープを温めてください。(Sūpu o atatamete kudasai.) | Çorbayı ısıtır mısın?
-冷やす (hiyasu) | soğutmak | fiil | ビールを冷やしておきます。(Bīru o hiyashite okimasu.) | Biraları soğutuyorum.
+冷やす (hiyasu) | soğutmak | fiil | すいかを冷やしておきます。(Suika o hiyashite okimasu.) | Karpuzu soğutuyorum.
 ## Mutfak aletleri
 包丁 (hōchō) | mutfak bıçağı | isim | この包丁はよく切れます。(Kono hōchō wa yoku kiremasu.) | Bu bıçak çok iyi keser.
 まな板 (manaita) | kesme tahtası | isim | まな板の上で野菜を切ります。(Manaita no ue de yasai o kirimasu.) | Kesme tahtasında sebze doğruyorum.
@@ -20,7 +20,7 @@
 おたま (otama) | kepçe | isim | おたまで味噌汁をよそいます。(Otama de misoshiru o yosoimasu.) | Kepçeyle miso çorbası koyuyorum.
 オーブン (ōbun) | fırın (mutfak) | isim | オーブンでパンを焼きます。(Ōbun de pan o yakimasu.) | Fırında ekmek pişiriyorum.
 お椀 (owan) | çorba kâsesi (ahşap) | isim | 味噌汁をお椀に入れます。(Misoshiru o owan ni iremasu.) | Miso çorbasını kâseye koyuyorum.
-湯のみ (yunomi) | çay bardağı (kulpsuz) | isim | 湯のみでお茶を飲みます。(Yunomi de o-cha o nomimasu.) | Çayı kulpsuz fincanda içerim.
+湯のみ (yunomi) | çay bardağı (kulpsuz) | isim | 湯のみでお茶を飲みます。(Yunomi de ocha o nomimasu.) | Çayı kulpsuz fincanda içerim.
 ## Japon mutfağı
 和食 (washoku) | Japon yemeği | isim | 和食は体にいいと言われています。(Washoku wa karada ni ii to iwarete imasu.) | Japon yemeklerinin sağlıklı olduğu söylenir.
 だし (dashi) | dashi (balık-yosun suyu) | isim | 味噌汁はだしが大切です。(Misoshiru wa dashi ga taisetsu desu.) | Miso çorbasında dashi önemlidir.

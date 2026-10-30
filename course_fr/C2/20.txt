@@ -1,6 +1,6 @@
 # UNIT: Retorik ve hitabet | Hitabet sanatı, söz sanatları, tartışma, safsatalar, sunum dili
 ## Hitabet sanatı
-l'art oratoire (m) | hitabet sanatı | isim (e) | Jaurès était un maître incontesté de l'art oratoire. | Jaurès hitabet sanatının tartışmasız ustasıydı.
+l'art oratoire (m) | hitabet sanatı | isim (e) | Ce vieil avocat était un maître incontesté de l'art oratoire. | Bu yaşlı avukat hitabet sanatının tartışmasız ustasıydı.
 le tribun | halk hatibi | isim (e) | Ce jeune tribun enflamme les foules à chaque meeting. | Bu genç halk hatibi her mitingde kalabalıkları coşturuyor.
 l'exorde (m) | (konuşmanın) giriş bölümü | isim (e) | Son exorde, plein d'humour, a immédiatement conquis l'auditoire. | Mizah dolu girişi dinleyicileri hemen fethetti.
 la péroraison | (konuşmanın) son bölümü, sonuç | isim (d) | Dans sa péroraison, l'avocat a appelé les jurés à la clémence. | Avukat konuşmasının son bölümünde jüri üyelerini merhamete çağırdı.
@@ -11,13 +11,13 @@ la faconde | laf ebeliği, kolay konuşma | isim (d) | Grâce à sa faconde mér
 l'éloquence muette (f) | sessiz belagat (bakış, jest) | isim (d) | Son regard avait une éloquence muette plus forte que tous les discours. | Bakışında bütün konuşmalardan daha güçlü bir sessiz belagat vardı.
 le don de la parole | konuşma yeteneği | isim (e) | Elle a le don de la parole et captive toujours ses élèves. | Konuşma yeteneği var ve öğrencilerini her zaman büyülüyor.
 ## Söz sanatları III
-l'hypallage (f) | sıfat aktarması | isim (d) | « Ce marchand accoudé sur son comptoir avide » est une célèbre hypallage. | « Açgözlü tezgâhına dirseklenmiş tüccar » ünlü bir sıfat aktarmasıdır.
-l'asyndète (f) | bağlaçsız sıralama | isim (d) | « Je suis venu, j'ai vu, j'ai vaincu » est un exemple d'asyndète. | « Geldim, gördüm, yendim » bağlaçsız sıralamaya bir örnektir.
+l'hypallage (f) | sıfat aktarması | isim (d) | « Un silence pensif » est une hypallage : c'est la personne qui pense, pas le silence. | « Düşünceli bir sessizlik » bir sıfat aktarmasıdır: düşünen sessizlik değil, kişidir.
+l'asyndète (f) | bağlaçsız sıralama | isim (d) | « Il entra, s'assit, se tut » est un exemple d'asyndète. | « Girdi, oturdu, sustu » bağlaçsız sıralamaya bir örnektir.
 la polysyndète | bağlaç yinelemesi | isim (d) | « Et la pluie, et le vent, et le froid » illustre la polysyndète. | « Ve yağmur, ve rüzgâr, ve soğuk » bağlaç yinelemesini örnekler.
 la prosopopée | ölüleri ya da nesneleri konuşturma | isim (d) | Dans cette prosopopée, la patrie elle-même s'adresse aux citoyens. | Bu söz sanatında yurt bizzat yurttaşlara seslenir.
 la question rhétorique | cevap beklenmeyen soru | isim (d) | « Qui ne rêve pas d'être heureux ? » est une question rhétorique. | « Kim mutlu olmayı düşlemez ki? » cevap beklenmeyen bir sorudur.
 l'épiphore (f) | dize sonu yinelemesi | isim (d) | L'épiphore répète le même mot à la fin de chaque phrase. | Dize sonu yinelemesi aynı sözcüğü her cümlenin sonunda tekrarlar.
-l'hyperbate (f) | cümle sonuna öge ekleme | isim (d) | « Albe le veut, et Rome » est une hyperbate classique de Corneille. | « Alba istiyor, Roma da » Corneille'in klasik bir sona ekleme örneğidir.
+l'hyperbate (f) | cümle sonuna öge ekleme | isim (d) | « Ce village est calme, et charmant » illustre bien l'hyperbate. | « Bu köy sakin, bir de şirin » sona eklemeyi iyi örnekler.
 la catachrèse | ölü mecaz (kanıksanmış eğretileme) | isim (d) | « Les pieds de la table » est une catachrèse que l'on ne remarque plus. | « Masanın ayakları » artık fark edilmeyen ölü bir mecazdır.
 l'énumération (f) | sayıp dökme | isim (d) | Une longue énumération de défauts rend le portrait comique. | Kusurların uzun uzun sayılması portreyi komik kılıyor.
 l'accumulation (f) | yığma, biriktirme (söz sanatı) | isim (d) | Dans ce paragraphe, l'accumulation d'adjectifs traduit l'enthousiasme du narrateur. | Bu paragrafta sıfatların yığılması anlatıcının coşkusunu yansıtıyor.
@@ -67,7 +67,7 @@ incisif | keskin, iğneleyici | sıfat | Les questions incisives de la journalis
 verbeux | laf kalabalığı yapan | sıfat | Ce professeur verbeux ne va jamais droit au but. | Bu laf kalabalığı yapan öğretmen asla sadede gelmiyor.
 ## Konuşma türleri
 le panégyrique | methiye, övgü | isim (e) | Son discours tournait au panégyrique du fondateur de l'entreprise. | Konuşması şirketin kurucusuna bir methiyeye dönüştü.
-l'oraison funèbre (f) | cenaze söylevi | isim (d) | Bossuet est resté célèbre pour ses magnifiques oraisons funèbres. | Bossuet muhteşem cenaze söylevleriyle ünlü kaldı.
+l'oraison funèbre (f) | cenaze söylevi | isim (d) | Ce vieux prêtre était célèbre pour ses magnifiques oraisons funèbres. | Bu yaşlı rahip muhteşem cenaze söylevleriyle ünlüydü.
 la diatribe | sert eleştiri, yergi | isim (d) | Il s'est lancé dans une longue diatribe contre la société moderne. | Modern topluma karşı uzun bir yergiye girişti.
 la philippique | ağır saldırı söylevi | isim (d) | Le député a prononcé une véritable philippique contre le gouvernement. | Milletvekili hükümete karşı gerçek bir saldırı söylevi verdi.
 la harangue | (kalabalığa) nutuk | isim (d) | Le capitaine adressa une courte harangue à ses soldats. | Yüzbaşı askerlerine kısa bir nutuk attı.
@@ -83,9 +83,9 @@ le logos | logos, akla seslenme | isim (e) | Le logos s'appuie sur des arguments
 la doxa | yaygın kanı | isim (d) | Ce philosophe s'attaque à la doxa de son époque. | Bu filozof çağının yaygın kanılarına saldırıyor.
 le kairos | doğru an, uygun fırsat | isim (e) | Un bon orateur sait saisir le kairos pour placer son argument. | İyi bir hatip argümanını yerleştirmek için doğru anı yakalamayı bilir.
 le lieu commun | basmakalıp söz, klişe | isim (e) | Son discours n'était qu'une suite de lieux communs. | Konuşması basmakalıp sözlerin art arda sıralanmasından ibaretti.
-la maïeutique | doğurtma yöntemi (Sokrates) | isim (d) | Par la maïeutique, Socrate aide son interlocuteur à trouver la vérité. | Sokrates doğurtma yöntemiyle muhatabının gerçeği bulmasına yardım eder.
+la maïeutique | doğurtma yöntemi (soru sorarak buldurma) | isim (d) | Par la maïeutique, le professeur aide ses élèves à trouver eux-mêmes la réponse. | Öğretmen doğurtma yöntemiyle öğrencilerinin yanıtı kendilerinin bulmasına yardım eder.
 l'éristique (f) | eristik, kazanmak için tartışma sanatı | isim (d) | L'éristique cherche à gagner le débat plutôt qu'à trouver la vérité. | Eristik gerçeği bulmaktan çok tartışmayı kazanmaya çalışır.
-la sophistique | sofistlik | isim (d) | Platon reprochait à la sophistique de mépriser la vérité. | Platon sofistliği hakikati küçümsemekle suçlardı.
+la sophistique | sofistlik | isim (d) | Les philosophes antiques reprochaient à la sophistique de mépriser la vérité. | Antik filozoflar sofistliği hakikati küçümsemekle suçlardı.
 la disputatio | skolastik münazara | isim (d) | La disputatio médiévale opposait deux maîtres devant les étudiants. | Ortaçağ münazarası iki hocayı öğrencilerin önünde karşı karşıya getirirdi.
 ## Tartışma kalıpları
 j'en veux pour preuve | kanıt olarak … gösterebilirim | ifade | Ce quartier change ; j'en veux pour preuve l'ouverture de dix nouveaux cafés. | Bu semt değişiyor; kanıt olarak on yeni kafenin açılmasını gösterebilirim.

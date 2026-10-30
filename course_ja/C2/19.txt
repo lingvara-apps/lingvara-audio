@@ -13,7 +13,7 @@
 ## Edo ticaret dünyasından
 大盤振る舞い (ōban burumai) | cömertçe ikram, para saçma | isim | 社長は、ボーナスで大盤振る舞いをした。 | Patron ikramiyelerde cömertçe para dağıttı.
 番頭 (bantō) | kâhya, dükkânın baş yöneticisi | isim | 彼は社長の番頭役として、会社を支えてきた。 | Patronun sağ kolu olarak şirketi ayakta tuttu.
-丁稚 (decchi) | çırak (tüccar yanında) | isim | 祖父は、十二歳で呉服屋に丁稚奉公に出た。 | Dedem on iki yaşında bir kumaşçının yanına çırak olarak verildi.
+丁稚 (detchi) | çırak (tüccar yanında) | isim | 祖父は、十二歳で呉服屋に丁稚奉公に出た。 | Dedem on iki yaşında bir kumaşçının yanına çırak olarak verildi.
 看板娘 (kanban musume) | dükkânın sevilen genç kızı (müşteri çeken) | isim | その団子屋の看板娘は、町の人気者だ。 | O mochi dükkânının sevimli kızı kasabanın gözdesi.
 老舗 (shinise) | köklü dükkân | isim | 創業三百年の老舗の和菓子屋を訪ねた。 | Üç yüz yıllık köklü bir Japon tatlıcısını ziyaret ettik.
 御用達 (goyōtashi) | (saraya, kuruma) resmî tedarikçi | isim | この店は、かつて宮内庁御用達だった。 | Bu dükkân bir zamanlar sarayın resmî tedarikçisiydi.
@@ -27,7 +27,7 @@
 大名行列 (daimyō gyōretsu) | derebeyi alayı; (patronun) kalabalık maiyeti | isim | 院長の回診は、医師がぞろぞろ続く大名行列のようだ。 | Başhekimin vizitesi arkasından sürü sürü doktorun takıldığı bir maiyet alayı gibi.
 藩 (han) | beylik (Edo dönemi) | isim | 江戸時代、日本には三百近い藩があった。 | Edo döneminde Japonya'da üç yüze yakın beylik vardı.
 参勤交代 (sankin kōtai) | derebeylerinin dönüşümlü Edo'da bulunma zorunluluğu | isim | 参勤交代は、大名に多大な出費を強いた。 | Dönüşümlü Edo'da bulunma zorunluluğu derebeylerine büyük masraf yükledi.
-出島 (Dejima) | Dejima (Nagazaki'deki dış ticaret adacığı) | isim | 鎖国の時代、出島はヨーロッパとの唯一の窓口だった。 | Kapalı ülke döneminde Dejima Avrupa'ya açılan tek kapıydı.
+出島 (Dejima) | Dejima (Nagasaki'deki dış ticaret adacığı) | isim | 鎖国の時代、出島はヨーロッパとの唯一の窓口だった。 | Kapalı ülke döneminde Dejima Avrupa'ya açılan tek kapıydı.
 関所 (sekisho) | geçiş noktası (kontrol kapısı); aşılması gereken engel | isim | この試験は、医者になるための最大の関所だ。 | Bu sınav doktor olmanın önündeki en büyük engeldir.
 奉行 (bugyō) | Edo dönemi yöneticisi (vali, yargıç) | isim | 時代劇では、町奉行が悪人を裁く場面が人気だ。 | Tarihî dizilerde şehir yargıcının kötüleri yargıladığı sahneler çok sevilir.
 年貢 (nengu) | (Edo dönemi) haraç vergisi | isim | 年貢の納め時だ、と刑事は犯人に言った。 | Dedektif faile "Hesap verme zamanı geldi" dedi.
@@ -38,8 +38,8 @@
 和魂洋才 (wakon yōsai) | Japon ruhu, Batı tekniği | deyim | 和魂洋才の考え方は、明治の近代化を支えた。 | Japon ruhu ve Batı tekniği anlayışı Meiji modernleşmesini destekledi.
 富国強兵 (fukoku kyōhei) | zengin ülke, güçlü ordu | isim | 明治政府は、富国強兵をスローガンに掲げた。 | Meiji hükümeti "zengin ülke, güçlü ordu" sloganını benimsedi.
 殖産興業 (shokusan kōgyō) | sanayiyi teşvik politikası | isim | 殖産興業の政策で、各地に工場が建てられた。 | Sanayiyi teşvik politikasıyla dört bir yanda fabrikalar kuruldu.
-廃藩置県 (haihan chiken) | beyliklerin kaldırılıp illerin kurulması | isim | 一八七一年の廃藩置県で、藩は県に置き換えられた。 | 1871'deki düzenlemeyle beylikler kaldırılıp yerlerine iller kuruldu.
-大政奉還 (taisei hōkan) | yönetimin imparatora iadesi (1867) | isim | 徳川慶喜は、大政奉還によって政権を朝廷に返した。 | Tokugawa Yoshinobu yönetimi imparatorluk sarayına iade etti.
+廃藩置県 (haihan chiken) | beyliklerin kaldırılıp illerin kurulması | isim | 千八百七十一年の廃藩置県で、藩は県に置き換えられた。 | 1871'deki düzenlemeyle beylikler kaldırılıp yerlerine iller kuruldu.
+大政奉還 (taisei hōkan) | yönetimin imparatora iadesi (1867) | isim | 大政奉還によって、将軍は政権を朝廷に返した。 | Yönetimin iadesiyle şogun iktidarı imparatorluk sarayına geri verdi.
 脱亜入欧 (datsua nyūō) | Asya'dan çıkıp Avrupa'ya katılma | deyim | 脱亜入欧の思想は、当時の知識人に大きな影響を与えた。 | Asya'dan çıkıp Avrupa'ya katılma düşüncesi dönemin aydınlarını derinden etkiledi.
 御雇い外国人 (oyatoi gaikokujin) | Meiji hükümetince istihdam edilen yabancı uzmanlar | isim | 御雇い外国人の技術者が、日本の鉄道建設を指導した。 | İstihdam edilen yabancı mühendisler Japonya'da demiryolu yapımına öncülük etti.
 鹿鳴館 (Rokumeikan) | Rokumeikan (Batı tarzı balolar verilen bina) | isim | 鹿鳴館では、毎晩のように西洋風の舞踏会が開かれた。 | Rokumeikan'da neredeyse her gece Batı tarzı balolar düzenlendi.
@@ -74,7 +74,7 @@
 家督 (katoku) | aile reisliği ve mirası | isim | 長男が家督を継ぐのが、昔の習わしだった。 | Aile reisliğini en büyük oğlun devralması eski bir gelenekti.
 世継ぎ (yotsugi) | veliaht, mirasçı | isim | 老舗の旅館では、世継ぎがいないことが悩みだ。 | Köklü handa veliaht olmaması büyük bir dert.
 敵討ち (katakiuchi) | öç alma, rövanş | isim | 昨年負けた相手に、今年は敵討ちを果たした。 | Geçen yıl yenildiği rakipten bu yıl rövanşı aldı.
-太閤 (taikō) | taikō (Toyotomi Hideyoshi'nin unvanı) | isim | 大阪の人は、今も「太閤さん」として秀吉を親しんでいる。 | Osakalılar Hideyoshi'yi hâlâ "Taikō" diye sevgiyle anar.
+太閤 (taikō) | taikō (görevi bırakmış kanpakuya verilen unvan) | isim | 「太閤」は、もともと関白を退いた人を指す称号だった。 | "Taikō" aslında kanpaku görevinden çekilen kişiye verilen bir unvandı.
 元禄 (Genroku) | Genroku dönemi (refah ve kültür çağı) | isim | 元禄時代には、町人の文化が大きく花開いた。 | Genroku döneminde kentli kültürü büyük bir canlılık yaşadı.
 ## Budizmden gündelik dile geçenler
 億劫 (okkū) | üşendirici, zahmetli gelen | sıfat | 寒い朝は、布団から出るのが億劫だ。 | Soğuk sabahlarda yataktan çıkmak çok üşendirici.

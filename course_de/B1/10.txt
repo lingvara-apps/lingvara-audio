@@ -42,7 +42,7 @@ die Phishing-Mail (die Phishing-Mails) | oltalama e-postası | isim (d) | Klicke
 der Betrug | dolandırıcılık | isim (e) | Online-Betrug ist ein immer größeres Problem für ältere Menschen. | İnternet dolandırıcılığı yaşlılar için giderek büyüyen bir sorun.
 das Antivirenprogramm (die Antivirenprogramme) | antivirüs programı | isim (o) | Auf jedem Computer sollte ein aktuelles Antivirenprogramm laufen. | Her bilgisayarda güncel bir antivirüs programı çalışmalı.
 die Sicherungskopie (die Sicherungskopien) | yedek kopya | isim (d) | Von wichtigen Dateien sollte man immer eine Sicherungskopie machen. | Önemli dosyaların her zaman yedek kopyası alınmalı.
-sicher surfen | güvenli internet kullanımı | ifade | Im Kurs lernen Kinder, wie man im Internet sicher surft. | Kursta çocuklar internette nasıl güvenli gezinileceğini öğreniyor.
+sicher surfen | internette güvenli gezinmek | ifade | Im Kurs lernen Kinder, wie man im Internet sicher surft. | Kursta çocuklar internette nasıl güvenli gezinileceğini öğreniyor.
 ## Yapay zekâ
 die KI | yapay zekâ (kısaltma) | isim (d) | Die KI schreibt schon heute Texte und übersetzt Briefe. | Yapay zekâ şimdiden metin yazıyor ve mektup çeviriyor.
 der Chatbot (die Chatbots) | sohbet robotu | isim (e) | Bei vielen Firmen beantwortet zuerst ein Chatbot die Fragen. | Birçok şirkette soruları önce bir sohbet robotu yanıtlıyor.
@@ -64,7 +64,7 @@ das Weltall | evren, uzay boşluğu | isim (o) | Im Weltall gibt es Milliarden v
 die Raumstation (die Raumstationen) | uzay istasyonu | isim (d) | Von der Raumstation aus sieht man jeden Tag viele Sonnenaufgänge. | Uzay istasyonundan her gün birçok gün doğumu görülüyor.
 die Umlaufbahn (die Umlaufbahnen) | yörünge | isim (d) | Der Satellit kreist in einer Umlaufbahn um die Erde. | Uydu dünyanın etrafında bir yörüngede dönüyor.
 das Sonnensystem | güneş sistemi | isim (o) | Jupiter ist der größte Planet in unserem Sonnensystem. | Jüpiter güneş sistemimizdeki en büyük gezegendir.
-die Raumfahrt | uzay yolculuğu, havacılık-uzay | isim (d) | Die Raumfahrt ist in den letzten Jahren auch für Firmen interessant geworden. | Uzay yolculuğu son yıllarda şirketler için de ilgi çekici hâle geldi.
+die Raumfahrt | uzay araştırmaları, uzay yolculuğu | isim (d) | Die Raumfahrt ist in den letzten Jahren auch für Firmen interessant geworden. | Uzay araştırmaları son yıllarda şirketler için de ilgi çekici hâle geldi.
 ## Dijitalleşme
 online beantragen | internetten başvurmak | ifade | Den neuen Personalausweis kann man inzwischen auch online beantragen. | Yeni kimlik kartına artık internetten de başvurulabiliyor.
 digitalisieren | dijitalleştirmek | fiil | Die Bibliothek digitalisiert alte Bücher und Zeitungen. | Kütüphane eski kitapları ve gazeteleri dijitalleştiriyor.
@@ -78,8 +78,8 @@ fortschrittlich | ileri, çağdaş | sıfat | Die Schweiz gilt bei der Bahntechn
 das Tool (die Tools) | araç (yazılım) | isim (o) | Für die Planung im Team nutzen wir ein praktisches Online-Tool. | Ekipte planlama için pratik bir çevrimiçi araç kullanıyoruz.
 ## Akıllı cihazlar
 das Smart Home | akıllı ev | ifade | Im Smart Home steuert man Licht und Heizung mit dem Handy. | Akıllı evde ışık ve kalorifer telefonla kontrol edilir.
-steuern | kontrol etmek, yönetmek | fiil | Die Drohne kann man ganz einfach mit einer App steuern. | Drone çok kolay bir şekilde bir uygulamayla kontrol edilebilir.
-die Drohne (die Drohnen) | drone, insansız hava aracı | isim (d) | Mit der Drohne haben wir tolle Bilder von den Bergen gemacht. | Drone ile dağların harika görüntülerini çektik.
+steuern | kontrol etmek, yönetmek | fiil | Die Drohne kann man ganz einfach mit einer App steuern. | Dron bir uygulamayla çok kolay kontrol edilebilir.
+die Drohne (die Drohnen) | dron, insansız hava aracı | isim (d) | Mit der Drohne haben wir tolle Bilder von den Bergen gemacht. | Dronla dağların harika görüntülerini çektik.
 der Sensor (die Sensoren) | sensör, algılayıcı | isim (e) | Ein Sensor schaltet das Licht im Flur automatisch ein. | Bir sensör koridordaki ışığı otomatik olarak açıyor.
 die Smartwatch (die Smartwatches) | akıllı saat | isim (d) | Meine Smartwatch zählt jeden Tag meine Schritte. | Akıllı saatim her gün adımlarımı sayıyor.
 der Sprachassistent (die Sprachassistenten) | sesli asistan | isim (e) | Der Sprachassistent spielt Musik, wenn ich ihn darum bitte. | Sesli asistan ondan istediğimde müzik çalıyor.
@@ -89,7 +89,7 @@ die Bedienungsanleitung (die Bedienungsanleitungen) | kullanım kılavuzu | isim
 bedienen | kullanmak (cihaz) | fiil | Die neue Kaffeemaschine ist leider schwer zu bedienen. | Yeni kahve makinesini kullanmak maalesef zor.
 ## İcatlar ve mühendislik
 erfinden (erfand, erfunden) | icat etmek | fiil · düzensiz | Wer hat eigentlich das erste Telefon erfunden? | İlk telefonu aslında kim icat etti?
-der Erfinder (die Erfinder) | mucit | isim (e) | Der Erfinder des Buchdrucks lebte in Mainz. | Matbaanın mucidi Mainz'da yaşadı.
+der Erfinder (die Erfinder) | mucit | isim (e) | Der junge Erfinder hat schon drei eigene Patente angemeldet. | Genç mucit şimdiden üç patent başvurusu yaptı.
 die Technologie (die Technologien) | teknoloji | isim (d) | Neue Technologien machen Autos sicherer und sparsamer. | Yeni teknolojiler arabaları daha güvenli ve tasarruflu yapıyor.
 technisch | teknik | sıfat | Wegen eines technischen Problems fällt der Zug heute aus. | Teknik bir sorun nedeniyle tren bugün iptal.
 entwickeln | geliştirmek | fiil | Das Team entwickelt eine App für Menschen mit Sehproblemen. | Ekip görme sorunu olan insanlar için bir uygulama geliştiriyor.

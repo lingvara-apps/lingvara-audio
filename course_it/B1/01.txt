@@ -8,11 +8,11 @@ spiritoso | esprili, şakacı | sıfat | Il nuovo collega è spiritoso e ci fa r
 determinato | kararlı | sıfat | Omar è determinato a finire la maratona quest'anno. | Omar bu yıl maratonu bitirmeye kararlı.
 riservato | çekingen, ketum | sıfat | Marco è riservato e parla poco della sua vita. | Marco ketumdur, hayatından pek bahsetmez.
 umile | alçakgönüllü | sıfat | Nonostante il successo, è rimasta una persona umile. | Başarısına rağmen alçakgönüllü biri olarak kaldı.
-leale | sadık, dürüst | sıfat | Un amico leale non ti tradisce mai. | Sadık bir arkadaş seni asla aldatmaz.
+leale | sadık, vefalı | sıfat | Un amico leale non ti tradisce mai. | Sadık bir arkadaş sana asla ihanet etmez.
 tollerante | hoşgörülü | sıfat | Mio padre è tollerante con le idee degli altri. | Babam başkalarının fikirlerine karşı hoşgörülüdür.
 ## Olumsuz kişilik özellikleri
 arrogante | kibirli | sıfat | Non mi piace il suo modo di fare arrogante. | Onun kibirli tavrını sevmiyorum.
-invidioso | kıskanç (haset) | sıfat | È invidioso del successo di suo fratello. | Ağabeyinin başarısını kıskanıyor.
+invidioso | kıskanç (haset) | sıfat | È invidioso del successo di suo fratello. | Kardeşinin başarısını kıskanıyor.
 ipocrita | ikiyüzlü | sıfat | Dice una cosa e ne fa un'altra, è ipocrita. | Bir şey söyleyip başka bir şey yapıyor, ikiyüzlü.
 superficiale | yüzeysel, sığ | sıfat | Giudicare le persone dall'aspetto è molto superficiale. | İnsanları görünüşüne göre yargılamak çok yüzeysel.
 irascibile | çabuk sinirlenen | sıfat | Quando ha fame diventa irascibile e nervoso. | Acıkınca çabuk sinirlenen, gergin biri oluyor.
@@ -35,14 +35,14 @@ il gemello | ikiz | isim (e) | I due gemelli sono identici, non li distinguo mai
 ## İlişkiler
 la relazione | ilişki | isim (d) | Hanno una relazione da tre anni ormai. | Artık üç yıldır bir ilişkileri var.
 il legame | bağ | isim (e) | Tra le due sorelle c'è un legame fortissimo. | İki kız kardeş arasında çok güçlü bir bağ var.
-il rapporto | münasebet, ilişki biçimi | isim (e) | Ho un buon rapporto con i miei colleghi. | İş arkadaşlarımla iyi bir ilişkim var.
+il rapporto | ilişki; rapor | isim (e) | Ho un buon rapporto con i miei colleghi. | İş arkadaşlarımla iyi bir ilişkim var.
 andare d'accordo | iyi anlaşmak | ifade | Vado molto d'accordo con il mio coinquilino. | Ev arkadaşımla çok iyi anlaşıyorum.
 frequentarsi | görüşmek, birlikte vakit geçirmek | fiil · dönüşlü | Emre e Sara si frequentano da qualche mese. | Emre ile Sara birkaç aydır görüşüyorlar.
 lasciarsi | ayrılmak (çift) | fiil · dönüşlü | Si sono lasciati dopo cinque anni di fidanzamento. | Beş yıllık nişanlılıktan sonra ayrıldılar.
 tradire | aldatmak; ihanet etmek | fiil | Non potrei mai tradire la fiducia di un amico. | Bir arkadaşın güvenine asla ihanet edemem.
 la fedeltà | sadakat | isim (d) | Per lei la fedeltà è la base della coppia. | Onun için sadakat, çiftin temelidir.
 convivere (convissuto) | birlikte yaşamak | fiil · düzensiz | Prima di sposarsi hanno convissuto per due anni. | Evlenmeden önce iki yıl birlikte yaşadılar.
-separarsi | ayrı yaşamaya başlamak (evlilikte) | fiil · dönüşlü | I genitori di Diego si sono separati l'anno scorso. | Diego'nun annesiyle babası geçen yıl ayrıldı.
+separarsi | ayrılmak (evlilikte) | fiil · dönüşlü | I genitori di Diego si sono separati l'anno scorso. | Diego'nun annesiyle babası geçen yıl ayrıldı.
 ## Davranış ve tavır
 l'atteggiamento (e) | tavır, tutum | isim (e) | Il suo atteggiamento positivo aiuta tutta la squadra. | Onun olumlu tavrı bütün takıma yardımcı oluyor.
 il gesto | jest, hareket | isim (e) | Portarle i fiori è stato un gesto molto carino. | Ona çiçek götürmek çok hoş bir jestti.
@@ -62,7 +62,7 @@ l'orgoglio (e) | gurur | isim (e) | I genitori guardano la figlia con orgoglio a
 il sollievo | rahatlama, ferahlama | isim (e) | Che sollievo sapere che sei arrivato sano e salvo! | Sağ salim vardığını bilmek ne büyük rahatlama!
 la tenerezza | şefkat, sevecenlik | isim (d) | La nonna accarezza il bambino con tenerezza. | Büyükanne bebeği şefkatle okşuyor.
 l'affetto (e) | sevgi, bağlılık | isim (e) | Provo molto affetto per i miei vecchi compagni. | Eski arkadaşlarıma karşı büyük bir sevgi besliyorum.
-la commozione | duygulanma, hüzünlü sevinç | isim (d) | Al matrimonio la commozione era sul viso di tutti. | Düğünde herkesin yüzünde duygulanma vardı.
+la commozione | duygulanma, heyecan | isim (d) | Al matrimonio la commozione si leggeva sul viso di tutti. | Düğünde herkesin yüzünden duygulandığı okunuyordu.
 l'ammirazione (d) | hayranlık | isim (d) | Provo una grande ammirazione per il suo coraggio. | Onun cesaretine büyük bir hayranlık duyuyorum.
 l'allegria (d) | neşe | isim (d) | Con la sua allegria rende ogni festa speciale. | Neşesiyle her partiyi özel kılıyor.
 ## Olumsuz duygular
@@ -71,7 +71,7 @@ l'invidia (d) | haset, kıskançlık | isim (d) | L'invidia può rovinare anche 
 il rancore | kin | isim (e) | Non porto rancore, ho già dimenticato tutto. | Kin tutmam, her şeyi çoktan unuttum.
 il rimorso | vicdan azabı, pişmanlık | isim (e) | Ha il rimorso di non aver chiamato il nonno. | Dedesini aramamış olmanın vicdan azabını çekiyor.
 il senso di colpa | suçluluk duygusu | isim (e) | Dopo la lite è rimasto con un forte senso di colpa. | Kavgadan sonra güçlü bir suçluluk duygusuyla kaldı.
-la frustrazione | hayal kırıklığı, engellenmişlik | isim (d) | Lavorare tanto senza risultati crea molta frustrazione. | Sonuç almadan çok çalışmak büyük bir bıkkınlık yaratır.
+la frustrazione | hayal kırıklığı, bıkkınlık | isim (d) | Lavorare tanto senza risultati crea molta frustrazione. | Sonuç almadan çok çalışmak büyük bir hayal kırıklığı yaratır.
 l'imbarazzo (e) | mahcubiyet, utanç | isim (e) | Ho sentito un grande imbarazzo davanti a tutti. | Herkesin önünde büyük bir utanç hissettim.
 la solitudine | yalnızlık | isim (d) | Dopo il trasloco ha sofferto un po' di solitudine. | Taşındıktan sonra biraz yalnızlık çekti.
 l'angoscia (d) | ıstırap, derin kaygı | isim (d) | Aspettare per ore notizie dall'ospedale è stata un'angoscia. | Hastaneden saatlerce haber beklemek tam bir ıstıraptı.

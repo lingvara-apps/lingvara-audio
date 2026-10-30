@@ -6,7 +6,7 @@ dreizehn | on üç | sayı | Mein Sohn ist dreizehn. | Oğlum on üç yaşında.
 vierzehn | on dört | sayı | Der Kurs hat vierzehn Teilnehmer. | Kursun on dört katılımcısı var.
 fünfzehn | on beş | sayı | Ich warte fünfzehn Minuten. | On beş dakika bekliyorum.
 sechzehn | on altı | sayı | Wir wohnen in Zimmer sechzehn. | On altı numaralı odada kalıyoruz.
-siebzehn | on yedi | sayı | Das Museum öffnet um siebzehn Uhr. | Müze saat on yedide açılıyor.
+siebzehn | on yedi | sayı | Das Museum schließt um siebzehn Uhr. | Müze saat on yedide kapanıyor.
 achtzehn | on sekiz | sayı | Mit achtzehn darf man Auto fahren. | On sekiz yaşında araba kullanılabilir.
 neunzehn | on dokuz | sayı | Das kostet neunzehn Euro. | Bu on dokuz avro.
 zwanzig | yirmi | sayı | Die Party beginnt um zwanzig Uhr. | Parti saat yirmide başlıyor.
@@ -52,7 +52,7 @@ der Abend (die Abende) | akşam | isim (e) | Am Abend sehe ich fern. | Akşamlar
 die Nacht (die Nächte) | gece | isim (d) | In der Nacht ist es hier ruhig. | Gece burası sessiz.
 früh | erken | sıfat | Ich stehe früh auf. | Erken kalkarım.
 heute | bugün | zarf | Heute ist Freitag. | Bugün cuma.
-morgen | yarın | zarf | Morgen habe ich frei. | Yarın izinliyim.
+morgen früh | yarın sabah | ifade | Morgen früh habe ich frei. | Yarın sabah boşum.
 gestern | dün | zarf | Gestern war ich im Kino. | Dün sinemadaydım.
 ## Haftanın günleri
 der Montag (die Montage) | pazartesi | isim (e) | Am Montag beginnt der Kurs. | Kurs pazartesi başlıyor.
@@ -76,7 +76,7 @@ der Monat (die Monate) | ay (takvim) | isim (e) | Ich bleibe einen Monat in Berl
 das Jahr (die Jahre) | yıl | isim (o) | Ich lerne seit zwei Jahren Deutsch. | İki yıldır Almanca öğreniyorum.
 das Datum (die Daten) | tarih (gün) | isim (o) | Welches Datum ist heute? | Bugün ayın kaçı?
 der Kalender (die Kalender) | takvim | isim (e) | Ich schreibe den Termin in den Kalender. | Randevuyu takvime yazıyorum.
-## Yaz ayları ve mevsimler
+## Temmuz–aralık ve mevsimler
 der Juli | temmuz | isim (e) | Im Juli fahren wir ans Meer. | Temmuzda denize gidiyoruz.
 der August | ağustos | isim (e) | Im August ist es sehr heiß. | Ağustosta hava çok sıcak.
 der September | eylül | isim (e) | Im September beginnt die Schule. | Eylülde okul başlıyor.
@@ -90,13 +90,13 @@ der Winter (die Winter) | kış | isim (e) | Im Winter fahren wir Ski. | Kışı
 ## Ne sıklıkla, ne zaman
 immer | her zaman | zarf | Sie kommt immer pünktlich. | Her zaman zamanında gelir.
 oft | sık sık | zarf | Wir gehen oft ins Café. | Sık sık kafeye gideriz.
-manchmal | bazen | zarf | Manchmal koche ich türkisch. | Bazen Türk yemeği pişiririm.
+manchmal | bazen | zarf | Manchmal koche ich italienisch. | Bazen İtalyan yemeği pişiririm.
 nie | asla, hiç | zarf | Ich trinke nie Alkohol. | Hiç alkol içmem.
 selten | nadiren | zarf | Wir sehen uns leider selten. | Maalesef nadiren görüşüyoruz.
 jetzt | şimdi | zarf | Ich habe jetzt keine Zeit. | Şimdi vaktim yok.
 bald | yakında | zarf | Der Bus kommt bald. | Otobüs birazdan gelir.
 später | daha sonra | zarf | Ich rufe dich später an. | Seni sonra ararım.
-schon | zaten, çoktan; bile | zarf | Bist du schon fertig? | Bitirdin mi bile?
+schon | zaten, çoktan; bile | zarf | Bist du schon fertig? | Şimdiden bitirdin mi?
 noch | hâlâ; daha | zarf | Ich bin noch im Büro. | Hâlâ ofisteyim.
 ## Zaman ifadeleri
 die Zeit (die Zeiten) | zaman, vakit | isim (d) | Hast du heute Zeit? | Bugün vaktin var mı?
@@ -105,7 +105,7 @@ dauern | sürmek (zaman) | fiil | Die Fahrt dauert zwei Stunden. | Yolculuk iki 
 beginnen (begann, begonnen) | başlamak | fiil · düzensiz | Der Unterricht beginnt um neun. | Ders dokuzda başlıyor.
 aufhören | bitmek; bırakmak | fiil | Der Regen hört gleich auf. | Yağmur birazdan diner.
 letzte | son; geçen | sıfat | Letzte Woche war ich in Salzburg. | Geçen hafta Salzburg'daydım.
-nächste | gelecek, bir sonraki | sıfat | Nächstes Jahr fliegen wir nach Izmir. | Seneye İzmir'e uçuyoruz.
+nächste | gelecek, bir sonraki | sıfat | Nächstes Jahr fliegen wir nach Kanada. | Seneye Kanada'ya uçuyoruz.
 seit | …'den beri | edat | Ich wohne seit drei Jahren hier. | Üç yıldır burada oturuyorum.
 bis | …'e kadar | edat | Der Laden ist bis acht Uhr offen. | Dükkân saat sekize kadar açık.
 übermorgen | öbür gün | zarf | Übermorgen fliegen wir nach Hause. | Öbür gün eve uçuyoruz.

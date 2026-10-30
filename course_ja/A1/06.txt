@@ -12,7 +12,7 @@
 ホテル (hoteru) | otel | isim | ホテルを予約しました。(Hoteru o yoyaku shimashita.) | Otel rezervasyonu yaptım.
 ## Daha fazla yer
 神社 (jinja) | Şinto tapınağı | isim | お正月に神社へ行きます。(Oshōgatsu ni jinja e ikimasu.) | Yeni yılda tapınağa gideriz.
-お寺 (o-tera) | Budist tapınağı | isim | 京都にはお寺が多いです。(Kyōto ni wa o-tera ga ōi desu.) | Kyoto'da çok tapınak var.
+お寺 (otera) | Budist tapınağı | isim | 京都にはお寺が多いです。(Kyōto ni wa otera ga ōi desu.) | Kyoto'da çok tapınak var.
 美術館 (bijutsukan) | sanat müzesi | isim | 美術館で絵を見ます。(Bijutsukan de e o mimasu.) | Sanat müzesinde resimlere bakıyorum.
 映画館 (eigakan) | sinema salonu | isim | 映画館は駅の前です。(Eigakan wa eki no mae desu.) | Sinema istasyonun önünde.
 交番 (kōban) | polis kulübesi | isim | 交番で道を聞きます。(Kōban de michi o kikimasu.) | Polis kulübesinde yolu soruyorum.
@@ -25,7 +25,7 @@
 右 (migi) | sağ | isim | 右に曲がってください。(Migi ni magatte kudasai.) | Sağa dönün lütfen.
 左 (hidari) | sol | isim | 銀行は左にあります。(Ginkō wa hidari ni arimasu.) | Banka solda.
 まっすぐ (massugu) | dümdüz, doğru | zarf | まっすぐ行ってください。(Massugu itte kudasai.) | Dümdüz gidin lütfen.
-角 (kado) | köşe | isim | 次の角を右です。(Tsugi no kado o migi desu.) | Bir sonraki köşeden sağa.
+角 (kado) | köşe | isim | 角に銀行があります。(Kado ni ginkō ga arimasu.) | Köşede bir banka var.
 信号 (shingō) | trafik ışığı | isim | 信号を渡ってください。(Shingō o watatte kudasai.) | Trafik ışığından karşıya geçin.
 道 (michi) | yol | isim | 道がわかりません。(Michi ga wakarimasen.) | Yolu bilmiyorum.
 交差点 (kōsaten) | kavşak | isim | 交差点に交番があります。(Kōsaten ni kōban ga arimasu.) | Kavşakta polis kulübesi var.
@@ -48,7 +48,7 @@
 地下鉄 (chikatetsu) | metro | isim | 地下鉄は便利です。(Chikatetsu wa benri desu.) | Metro kullanışlı.
 バス (basu) | otobüs | isim | バスを待っています。(Basu o matte imasu.) | Otobüs bekliyorum.
 タクシー (takushī) | taksi | isim | タクシーを呼びましょう。(Takushī o yobimashō.) | Taksi çağıralım.
-新幹線 (shinkansen) | hızlı tren | isim | 新幹線は速いです。(Shinkansen wa hayai desu.) | Hızlı tren çok hızlı.
+新幹線 (shinkansen) | hızlı tren | isim | 新幹線は速いです。(Shinkansen wa hayai desu.) | Shinkansen çok hızlı.
 切符 (kippu) | bilet | isim | 切符を買いました。(Kippu o kaimashita.) | Bilet aldım.
 乗る (noru) | binmek | fiil | バスに乗ります。(Basu ni norimasu.) | Otobüse biniyorum.
 降りる (oriru) | inmek (araçtan) | fiil | 次の駅で降ります。(Tsugi no eki de orimasu.) | Bir sonraki istasyonda iniyorum.
@@ -80,11 +80,11 @@
 旅行 (ryokō) | seyahat, gezi | isim | 夏に旅行します。(Natsu ni ryokō shimasu.) | Yazın seyahat ediyorum.
 観光 (kankō) | turistik gezi | isim | 京都で観光しました。(Kyōto de kankō shimashita.) | Kyoto'yu gezdim.
 荷物 (nimotsu) | bagaj, eşya, paket | isim | 荷物が重いです。(Nimotsu ga omoi desu.) | Bagaj ağır.
-写真 (shashin) | fotoğraf | isim | 写真を撮ってもいいですか。(Shashin o tottemo ii desu ka.) | Fotoğraf çekebilir miyim?
+写真 (shashin) | fotoğraf | isim | 写真を撮ってもいいですか。(Shashin o totte mo ii desu ka.) | Fotoğraf çekebilir miyim?
 お土産 (omiyage) | hediyelik eşya (seyahat dönüşü) | isim | 家族にお土産を買います。(Kazoku ni omiyage o kaimasu.) | Aileme hediyelik eşya alıyorum.
 温泉 (onsen) | kaplıca | isim | 温泉に入りたいです。(Onsen ni hairitai desu.) | Kaplıcaya girmek istiyorum.
 旅館 (ryokan) | geleneksel Japon oteli | isim | 旅館に泊まります。(Ryokan ni tomarimasu.) | Ryokan'da kalıyoruz.
-外国 (gaikoku) | yabancı ülke | isim | 外国へ行ったことがありますか。(Gaikoku e itta koto ga arimasu ka.) | Yurt dışına gittin mi hiç?
+外国 (gaikoku) | yabancı ülke | isim | 外国へ行ったことがありますか。(Gaikoku e itta koto ga arimasu ka.) | Hiç yurt dışına gittin mi?
 予定 (yotei) | plan, program | isim | 明日の予定は何ですか。(Ashita no yotei wa nan desu ka.) | Yarınki planın ne?
 案内 (annai) | rehberlik, yol gösterme | isim | 町を案内します。(Machi o annai shimasu.) | Size şehri gezdireyim.
 ## Doğa

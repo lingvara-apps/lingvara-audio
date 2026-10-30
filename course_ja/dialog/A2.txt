@@ -9,7 +9,7 @@ B | はい、何部必要ですか。(Hai, nanbu hitsuyō desu ka.) | Tabii, ka�
 A | 十部お願いします。午後の打ち合わせで使います。(Jūbu onegaishimasu. Gogo no uchiawase de tsukaimasu.) | On kopya lütfen. Öğleden sonraki görüşmede kullanacağız.
 B | 承知しました。すぐやります。(Shōchi shimashita. Sugu yarimasu.) | Anlaşıldı. Hemen yapıyorum.
 A | 助かります。終わったら、メールで連絡してください。(Tasukarimasu. Owattara, mēru de renraku shite kudasai.) | Çok iyi olur. Bitince bana e-postayla haber ver.
-B | わかりました。お昼は一緒に食べませんか。(Wakarimashita. O-hiru wa issho ni tabemasen ka.) | Tamam. Öğle yemeğini birlikte yiyelim mi?
+B | わかりました。お昼は一緒に食べませんか。(Wakarimashita. Ohiru wa issho ni tabemasen ka.) | Tamam. Öğle yemeğini birlikte yiyelim mi?
 ## Hastayım, gelemiyorum
 B | もしもし、愛子さん。オマルです。(Moshimoshi, Aiko-san. Omaru desu.) | Alo Aiko, ben Omar.
 A | あ、オマルさん。声が変ですね。どうしたんですか。(A, Omaru-san. Koe ga hen desu ne. Dō shita n desu ka.) | Ah Omar. Sesin tuhaf. Ne oldu?
@@ -27,8 +27,8 @@ B | 特にないよ。どこか行きたいね。(Toku ni nai yo. Dokoka ikitai 
 A | 京都はどう？紅葉がきれいな季節だよ。(Kyōto wa dō? Kōyō ga kirei na kisetsu da yo.) | Kyoto nasıl? Sonbahar yapraklarının en güzel olduğu mevsim.
 B | いいね！でも、連休だからホテルは混んでいるかな。(Ii ne! Demo, renkyū dakara hoteru wa konde iru kana.) | Harika! Ama uzun tatil olduğu için oteller dolu olabilir mi acaba?
 A | 早めに予約すれば大丈夫だと思う。旅館に泊まってみたいな。(Hayame ni yoyaku sureba daijōbu da to omou. Ryokan ni tomatte mitai na.) | Erkenden rezervasyon yaparsak sorun olmaz bence. Bir ryokan'da kalmak istiyorum.
-B | 賛成！新幹線のチケットは僕が調べるよ。(Sansei! Shinkansen no chiketto wa boku ga shiraberu yo.) | Katılıyorum! Hızlı tren biletlerine ben bakarım.
-A | ありがとう。じゃあ、私は行きたいお寺のリストを作るね。(Arigatō. Jā, watashi wa ikitai o-tera no risuto o tsukuru ne.) | Teşekkürler. O zaman ben de gitmek istediğimiz tapınakların listesini yaparım.
+B | 賛成！新幹線のチケットは僕が調べるよ。(Sansei! Shinkansen no chiketto wa boku ga shiraberu yo.) | Katılıyorum! Shinkansen biletlerine ben bakarım.
+A | ありがとう。じゃあ、私は行きたいお寺のリストを作るね。(Arigatō. Jā, watashi wa ikitai otera no risuto o tsukuru ne.) | Teşekkürler. O zaman ben de gitmek istediğimiz tapınakların listesini yaparım.
 B | 着物を着て写真を撮るのはどう？(Kimono o kite shashin o toru no wa dō?) | Kimono giyip fotoğraf çekmeye ne dersin?
 A | 楽しそう！絶対やろう。(Tanoshisō! Zettai yarō.) | Çok eğlenceli olur! Kesinlikle yapalım.
 B | よし、決まりだね。楽しみだな。(Yoshi, kimari da ne. Tanoshimi da na.) | Tamam, karar verdik. Sabırsızlanıyorum.
@@ -39,7 +39,7 @@ B | 窓から庭が見えるね。静かで居心地がいい。(Mado kara niwa 
 A | 晩ご飯は七時からだって。その前に温泉に入ろうか。(Bangohan wa shichiji kara datte. Sono mae ni onsen ni hairō ka.) | Akşam yemeği yedideymiş. Ondan önce kaplıcaya girelim mi?
 B | いいね。浴衣はどこにあるのかな。(Ii ne. Yukata wa doko ni aru no kana.) | Olur. Yukatalar nerede acaba?
 A | 押し入れの中にあったよ。サイズもちょうどいい。(Oshiire no naka ni atta yo. Saizu mo chōdo ii.) | Dolabın içindeymiş. Bedeni de tam.
-B | 明日は朝早く起きて、お寺に行こう。(Ashita wa asa hayaku okite, o-tera ni ikō.) | Yarın sabah erkenden kalkıp tapınağa gidelim.
+B | 明日は朝早く起きて、お寺に行こう。(Ashita wa asa hayaku okite, otera ni ikō.) | Yarın sabah erkenden kalkıp tapınağa gidelim.
 A | うん。混む前に行ったほうがいいね。(Un. Komu mae ni itta hō ga ii ne.) | Evet. Kalabalık olmadan gitsek iyi olur.
 B | 本当にいい旅館だね。誘ってくれてありがとう。(Hontō ni ii ryokan da ne. Sasotte kurete arigatō.) | Gerçekten çok güzel bir ryokan. Beni çağırdığın için teşekkürler.
 A | どういたしまして。いい思い出になりそうだね。(Dōitashimashite. Ii omoide ni narisō da ne.) | Rica ederim. Güzel bir anı olacak gibi.

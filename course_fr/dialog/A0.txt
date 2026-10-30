@@ -6,9 +6,9 @@ A | Ça va bien, merci. Et toi ? | İyiyim, teşekkürler. Ya sen?
 B | Très bien. Je m'appelle Emre. | Çok iyi. Benim adım Emre.
 A | Enchantée. Moi, c'est Camille. | Memnun oldum. Ben de Camille.
 B | Enchanté, Camille. | Memnun oldum Camille.
-A | Tu es turc ? | Türk müsün?
-B | Oui, je suis turc. Et toi ? | Evet, Türküm. Ya sen?
-A | Moi, je suis française. | Ben Fransızım.
+A | Tu es étudiant ? | Öğrenci misin?
+B | Oui, je suis étudiant. Et toi ? | Evet, öğrenciyim. Ya sen?
+A | Moi, je suis professeur. | Ben öğretmenim.
 B | Super ! | Harika!
 ## Kafede
 A | Tu veux un café ? | Kahve ister misin?

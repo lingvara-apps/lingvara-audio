@@ -12,7 +12,7 @@ la politica estera | dış politika | isim (d) | La politica estera è stata il 
 le relazioni internazionali | uluslararası ilişkiler | isim (d) | Mia sorella studia relazioni internazionali a Gorizia. | Kız kardeşim Gorizia'da uluslararası ilişkiler okuyor.
 ## Uluslararası kurumlar
 l'Unione Europea (d) | Avrupa Birliği | isim (d) | L'Italia è tra i paesi fondatori dell'Unione Europea. | İtalya Avrupa Birliği'nin kurucu ülkeleri arasında.
-le Nazioni Unite | Birleşmiş Milletler | isim (d) | Le Nazioni Unite sono nate nel 1945 dopo la guerra. | Birleşmiş Milletler 1945'te savaştan sonra kuruldu.
+le Nazioni Unite | Birleşmiş Milletler | isim (d) | Le Nazioni Unite sono nate nel millenovecentoquarantacinque dopo la guerra. | Birleşmiş Milletler bin dokuz yüz kırk beşte savaştan sonra kuruldu.
 l'organizzazione internazionale (d) | uluslararası kuruluş | isim (d) | Lavora per un'organizzazione internazionale che si occupa di alimentazione. | Beslenmeyle ilgilenen uluslararası bir kuruluşta çalışıyor.
 l'ONG (d) | sivil toplum kuruluşu | isim (d) | Una ONG italiana costruisce scuole in Africa occidentale. | İtalyan bir sivil toplum kuruluşu Batı Afrika'da okullar inşa ediyor.
 lo stato membro | üye devlet | isim (e) | Ogni stato membro ha un rappresentante nel consiglio. | Her üye devletin kurulda bir temsilcisi var.
@@ -36,7 +36,7 @@ il bombardamento | bombardıman | isim (e) | Durante i bombardamenti la gente si
 la pace | barış | isim (d) | Dopo anni di guerra, la gente vuole solo vivere in pace. | Yıllarca süren savaştan sonra insanlar sadece barış içinde yaşamak istiyor.
 la tregua | geçici ateşkes, mola | isim (d) | Le due parti hanno accettato una tregua di tre giorni. | İki taraf üç günlük bir ateşkesi kabul etti.
 il cessate il fuoco | ateşkes | isim (e) | Il cessate il fuoco è entrato in vigore a mezzanotte. | Ateşkes gece yarısı yürürlüğe girdi.
-l'armistizio (e) | mütareke | isim (e) | L'armistizio fu annunciato alla radio l'8 settembre. | Mütareke 8 Eylül'de radyodan duyuruldu.
+l'armistizio (e) | mütareke | isim (e) | L'armistizio fu annunciato alla radio l'otto settembre. | Mütareke sekiz eylülde radyodan duyuruldu.
 il disarmo | silahsızlanma | isim (e) | Il disarmo nucleare è uno degli obiettivi dell'accordo. | Nükleer silahsızlanma anlaşmanın hedeflerinden biri.
 l'alleanza (d) | ittifak | isim (d) | I due partiti hanno formato un'alleanza per le elezioni. | İki parti seçimler için bir ittifak kurdu.
 l'alleato (e) | müttefik | isim (e) | In quella guerra i due paesi erano alleati. | O savaşta iki ülke müttefikti.
@@ -62,8 +62,8 @@ il territorio | toprak, bölge | isim (e) | Il parco occupa un territorio di mil
 la patria | vatan | isim (d) | Dopo trent'anni all'estero è tornato in patria. | Yurt dışında otuz yıl geçirdikten sonra vatanına döndü.
 la bandiera | bayrak | isim (d) | La bandiera italiana è verde, bianca e rossa. | İtalyan bayrağı yeşil, beyaz ve kırmızıdır.
 l'inno nazionale (e) | milli marş | isim (e) | Prima della partita i giocatori cantano l'inno nazionale. | Maçtan önce oyuncular milli marşı söylüyor.
-la repubblica | cumhuriyet | isim (d) | Il 2 giugno si festeggia la nascita della Repubblica Italiana. | 2 Haziran'da İtalyan Cumhuriyeti'nin kuruluşu kutlanır.
-la monarchia | monarşi | isim (d) | In Italia la monarchia è finita con il referendum del 1946. | İtalya'da monarşi 1946 referandumuyla sona erdi.
+la repubblica | cumhuriyet | isim (d) | Il due giugno si festeggia la nascita della Repubblica Italiana. | İki haziranda İtalyan Cumhuriyeti'nin kuruluşu kutlanır.
+la monarchia | monarşi | isim (d) | In Italia la monarchia è finita con il referendum del millenovecentoquarantasei. | İtalya'da monarşi bin dokuz yüz kırk altı referandumuyla sona erdi.
 il sovrano | hükümdar | isim (e) | Il palazzo era la residenza estiva dei sovrani. | Saray hükümdarların yazlık konutuydu.
 ## İnsani yardım
 gli aiuti umanitari | insani yardım | isim (e) | Gli aiuti umanitari sono arrivati con tre giorni di ritardo. | İnsani yardım üç gün gecikmeyle ulaştı.
@@ -102,8 +102,8 @@ il dissenso | muhalefet, görüş ayrılığı | isim (e) | Nel regime ogni form
 il premier | başbakan | isim (e) | Il premier ha incontrato i sindacati a Palazzo Chigi. | Başbakan sendikalarla Palazzo Chigi'de görüştü.
 il presidente del consiglio | Bakanlar Kurulu başkanı (İtalya'da başbakan) | isim (e) | In Italia il capo del governo si chiama presidente del consiglio. | İtalya'da hükümet başkanına Bakanlar Kurulu başkanı denir.
 il capo di stato | devlet başkanı | isim (e) | Il capo di stato ha ricevuto i campioni olimpici. | Devlet başkanı olimpiyat şampiyonlarını kabul etti.
-la sinistra | sol (siyaset); sol taraf | isim (d) | I partiti di sinistra hanno presentato una proposta comune. | Sol partiler ortak bir öneri sundu.
-la destra | sağ (siyaset); sağ taraf | isim (d) | Anche i partiti di destra hanno votato a favore della legge. | Sağ partiler de yasanın lehine oy verdi.
+liberale | liberal, özgürlükçü | sıfat | Il partito liberale chiede meno tasse per le piccole imprese. | Liberal parti küçük işletmeler için daha az vergi istiyor.
+radicale | radikal, köklü | sıfat | Il nuovo movimento chiede cambiamenti radicali nel sistema elettorale. | Yeni hareket seçim sisteminde köklü değişiklikler istiyor.
 conservatore | muhafazakâr | sıfat | La zona rurale vota tradizionalmente per i partiti conservatori. | Kırsal bölge geleneksel olarak muhafazakâr partilere oy veriyor.
 progressista | ilerici | sıfat | Il programma progressista punta su scuola e ambiente. | İlerici program okula ve çevreye odaklanıyor.
 moderato | ılımlı | sıfat | Il candidato moderato cerca i voti del centro. | Ilımlı aday ortadaki seçmenlerin oyunu arıyor.

@@ -26,7 +26,7 @@
 他 (tā) | o (erkek) | zamir | 他是我哥哥。(Tā shì wǒ gēge.) | O benim ağabeyim.
 她 (tā) | o (kadın) | zamir | 她叫玛丽亚。(Tā jiào Mǎlìyà.) | Onun adı Maria.
 它 (tā) | o (hayvan, eşya) | zamir | 这是我的猫，它很小。(Zhè shì wǒ de māo, tā hěn xiǎo.) | Bu benim kedim, o çok küçük.
-我们 (wǒmen) | biz | zamir | 我们是同学。(Wǒmen shì tóngxué.) | Biz sınıf arkadaşıyız.
+我们 (wǒmen) | biz (genel) | zamir | 我们是同学。(Wǒmen shì tóngxué.) | Biz sınıf arkadaşıyız.
 你们 (nǐmen) | siz (çoğul) | zamir | 你们好！(Nǐmen hǎo!) | Merhaba hepinize!
 他们 (tāmen) | onlar | zamir | 他们都是医生。(Tāmen dōu shì yīshēng.) | Onların hepsi doktor.
 她们 (tāmen) | onlar (kadınlar) | zamir | 她们是姐妹。(Tāmen shì jiěmèi.) | Onlar kız kardeş.
@@ -51,7 +51,7 @@
 德国 (Déguó) | Almanya | isim | 卢卡斯是德国人。(Lúkǎsī shì Déguó rén.) | Lukas Alman.
 俄罗斯 (Éluósī) | Rusya | isim | 俄罗斯冬天很冷。(Éluósī dōngtiān hěn lěng.) | Rusya'da kışın hava çok soğuk.
 日本 (Rìběn) | Japonya | isim | 由纪的家在日本。(Yóujì de jiā zài Rìběn.) | Yuki'nin evi Japonya'da.
-汉语 (Hànyǔ) | Çince | isim | 我在学汉语。(Wǒ zài xué Hànyǔ.) | Çince öğreniyorum.
+汉语 (Hànyǔ) | Çince (dil, özellikle konuşma) | isim | 我在学汉语。(Wǒ zài xué Hànyǔ.) | Çince öğreniyorum.
 中文 (Zhōngwén) | Çince (dil ve yazı) | isim | 你会说中文吗？(Nǐ huì shuō Zhōngwén ma?) | Çince konuşabiliyor musun?
 英语 (Yīngyǔ) | İngilizce | isim | 她的英语很好。(Tā de Yīngyǔ hěn hǎo.) | Onun İngilizcesi çok iyi.
 ## Soru kelimeleri

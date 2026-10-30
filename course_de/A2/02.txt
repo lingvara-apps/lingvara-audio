@@ -12,7 +12,7 @@ der Kugelschreiber (die Kugelschreiber) | tükenmez kalem | isim (e) | Hast du e
 die Notiz (die Notizen) | not | isim (d) | Ich mache mir eine Notiz. | Kendime bir not alıyorum.
 ## Toplantı
 die Besprechung (die Besprechungen) | toplantı, görüşme | isim (d) | Die Besprechung beginnt um zehn. | Toplantı onda başlıyor.
-teilnehmen (nahm teil, teilgenommen) | katılmak | fiil · düzensiz | Nehmen Sie an der Sitzung teil? | Oturuma katılıyor musunuz?
+teilnehmen (nahm teil, teilgenommen) | katılmak | fiil · düzensiz | Nehmen Sie an der Sitzung teil? | Toplantıya katılıyor musunuz?
 die Tagesordnung (die Tagesordnungen) | gündem | isim (d) | Was steht heute auf der Tagesordnung? | Bugün gündemde ne var?
 das Protokoll (die Protokolle) | tutanak | isim (o) | Wer schreibt heute das Protokoll? | Bugün tutanağı kim yazıyor?
 der Vorschlag (die Vorschläge) | öneri | isim (e) | Ich habe einen Vorschlag. | Bir önerim var.
@@ -22,7 +22,7 @@ das Ergebnis (die Ergebnisse) | sonuç | isim (o) | Das Ergebnis ist sehr gut. |
 das Thema (die Themen) | konu | isim (o) | Das nächste Thema ist der Urlaubsplan. | Sıradaki konu izin planı.
 die Meinung (die Meinungen) | fikir, görüş | isim (d) | Was ist Ihre Meinung dazu? | Bu konudaki görüşünüz nedir?
 ## Meslekler
-der Angestellte (die Angestellten) | çalışan, memur (özel sektör) | isim (e) | Die Firma hat fünfzig Angestellte. | Şirketin elli çalışanı var.
+der Angestellte (die Angestellten) | çalışan, maaşlı personel | isim (e) | Die Firma hat fünfzig Angestellte. | Şirketin elli çalışanı var.
 der Beamte (die Beamten) | devlet memuru | isim (e) | Der Beamte prüft meinen Pass. | Memur pasaportumu kontrol ediyor.
 der Rechtsanwalt (die Rechtsanwälte) | avukat | isim (e) | Ich brauche einen Rechtsanwalt. | Bir avukata ihtiyacım var.
 die Journalistin (die Journalistinnen) | gazeteci (kadın) | isim (d) | Die Journalistin schreibt über Umwelt. | Gazeteci çevre üzerine yazıyor.
@@ -79,7 +79,7 @@ der Betreff (die Betreffe) | konu (e-posta) | isim (e) | Schreib bitte einen kla
 ## Görevler ve projeler
 die Aufgabe (die Aufgaben) | görev; ödev | isim (d) | Das ist eine schwierige Aufgabe. | Bu zor bir görev.
 das Projekt (die Projekte) | proje | isim (o) | Das Projekt endet im Dezember. | Proje aralıkta bitiyor.
-organisieren | organize etmek, düzenlemek | fiil | Wer organisiert die Weihnachtsfeier? | Yılbaşı partisini kim organize ediyor?
+organisieren | organize etmek, düzenlemek | fiil | Wer organisiert die Weihnachtsfeier? | Noel partisini kim organize ediyor?
 vorbereiten | hazırlamak | fiil | Ich bereite die Präsentation vor. | Sunumu hazırlıyorum.
 kontrollieren | kontrol etmek | fiil | Bitte kontrollieren Sie die Zahlen. | Lütfen rakamları kontrol edin.
 leiten | yönetmek | fiil | Frau Öztürk leitet das Team. | Takımı Öztürk Hanım yönetiyor.

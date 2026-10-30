@@ -9,7 +9,7 @@ la preposizione | edat, ilgeç | isim (d) | Non so mai quale preposizione usare 
 la congiunzione | bağlaç | isim (d) | Nella frase, "però" e "tuttavia" sono congiunzioni avversative. | Cümlede "però" ve "tuttavia" karşıtlık bağlaçlarıdır.
 il soggetto | özne; konu | isim (e) | In italiano spesso il soggetto non si esprime. | İtalyancada özne çoğu zaman belirtilmez.
 il complemento oggetto | nesne | isim (e) | Nella frase "leggo un libro" il complemento oggetto è "un libro". | "Leggo un libro" cümlesinde nesne "un libro"dur.
-il genere grammaticale | dilbilgisel cinsiyet | isim (e) | Il turco non ha il genere grammaticale, l'italiano sì. | Türkçede dilbilgisel cinsiyet yok, İtalyancada var.
+il genere grammaticale | dilbilgisel cinsiyet | isim (e) | Il finlandese non ha il genere grammaticale, l'italiano sì. | Fincede dilbilgisel cinsiyet yok, İtalyancada var.
 ## Fiil dilbilgisi
 il tempo verbale | fiil zamanı | isim (e) | Il passato remoto è un tempo verbale usato nei romanzi. | Passato remoto romanlarda kullanılan bir fiil zamanıdır.
 il modo | kip; biçim | isim (e) | Il congiuntivo è un modo che esprime dubbio o desiderio. | Congiuntivo şüphe ya da istek bildiren bir kiptir.
@@ -44,7 +44,7 @@ l'etimologia (d) | köken bilimi, etimoloji | isim (d) | L'etimologia della paro
 il neologismo | yeni sözcük | isim (e) | Il verbo "chattare" è un neologismo nato con internet. | "Chattare" fiili internetle doğan yeni bir sözcük.
 l'anglicismo (e) | İngilizceden geçme sözcük | isim (e) | Nel linguaggio del lavoro ci sono troppi anglicismi. | İş dilinde çok fazla İngilizceden geçme sözcük var.
 ## Çeviri
-tradurre (tradotto) | çevirmek | fiil · düzensiz | Ho tradotto la lettera dall'italiano al turco. | Mektubu İtalyancadan Türkçeye çevirdim.
+tradurre (tradotto) | çevirmek | fiil · düzensiz | Ho tradotto la lettera dall'italiano all'inglese. | Mektubu İtalyancadan İngilizceye çevirdim.
 la traduzione | çeviri | isim (d) | La traduzione del romanzo è molto fedele all'originale. | Romanın çevirisi aslına çok sadık.
 l'interprete (e) | tercüman (sözlü) | isim (e) | Alla conferenza un interprete traduceva in tempo reale. | Konferansta bir tercüman anında çeviri yapıyordu.
 l'interpretariato (e) | sözlü çevirmenlik | isim (e) | Ha studiato interpretariato e traduzione a Trieste. | Trieste'de sözlü çevirmenlik ve çeviri okudu.
@@ -55,11 +55,11 @@ la lingua di partenza | kaynak dil | isim (d) | Il traduttore deve conoscere ben
 intraducibile | çevrilemez | sıfat | Alcune espressioni dialettali sono quasi intraducibili in altre lingue. | Bazı yöresel ifadeler başka dillere neredeyse çevrilemez.
 il sottotitolatore | altyazı çevirmeni | isim (e) | Il sottotitolatore deve riassumere i dialoghi in poche parole. | Altyazı çevirmeni diyalogları birkaç kelimeyle özetlemelidir.
 ## Dil öğrenme
-la lingua madre | ana dil | isim (d) | La mia lingua madre è il turco, ma parlo anche italiano. | Ana dilim Türkçe ama İtalyanca da konuşuyorum.
+la lingua madre | ana dil | isim (d) | La lingua madre di Yuki è il giapponese, ma parla anche italiano. | Yuki'nin ana dili Japonca ama İtalyanca da konuşuyor.
 madrelingua | ana dili … olan | sıfat | Per il corso serale cerchiamo un insegnante madrelingua inglese. | Akşam kursu için ana dili İngilizce olan bir öğretmen arıyoruz.
 bilingue | iki dilli | sıfat | I bambini di coppie miste spesso crescono bilingui. | Karma çiftlerin çocukları çoğu zaman iki dilli büyür.
 la lingua straniera | yabancı dil | isim (d) | A scuola si studiano almeno due lingue straniere. | Okulda en az iki yabancı dil öğreniliyor.
-il livello | seviye | isim (e) | Il mio livello di italiano è B2. | İtalyanca seviyem B2.
+il livello | seviye | isim (e) | Il mio livello di italiano è ancora intermedio. | İtalyanca seviyem hâlâ orta düzeyde.
 il principiante | yeni başlayan | isim (e) | Questo corso è adatto ai principianti assoluti. | Bu kurs hiç bilmeyen yeni başlayanlar için uygun.
 padroneggiare | iyice hâkim olmak | fiil | Per lavorare qui devi padroneggiare almeno due lingue. | Burada çalışmak için en az iki dile iyice hâkim olmalısın.
 la padronanza | hâkimiyet | isim (d) | Ha una buona padronanza della lingua scritta. | Yazı diline iyi hâkim.
@@ -70,7 +70,7 @@ il dialetto | lehçe, ağız | isim (e) | I nonni parlano ancora il dialetto tra
 la lingua standard | standart dil | isim (d) | In televisione si usa soprattutto la lingua standard. | Televizyonda daha çok standart dil kullanılır.
 regionale | bölgesel | sıfat | Ogni città ha le sue espressioni regionali. | Her şehrin kendi bölgesel ifadeleri var.
 il gergo | argo; jargon | isim (e) | I medici usano un gergo difficile da capire. | Doktorlar anlaşılması zor bir jargon kullanır.
-lo slang | gençlik dili | isim (e) | Non capisco lo slang dei ragazzi di oggi. | Bugünün gençlerinin argosunu anlamıyorum.
+lo slang | argo, gençlik dili | isim (e) | Non capisco lo slang dei ragazzi di oggi. | Bugünün gençlerinin argosunu anlamıyorum.
 formale | resmî | sıfat | In una mail di lavoro usa un tono formale. | İş e-postasında resmî bir ton kullan.
 informale | gayriresmî | sıfat | Con gli amici usiamo un linguaggio informale. | Arkadaşlarla gayriresmî bir dil kullanırız.
 colloquiale | konuşma diline ait | sıfat | "Un sacco" è un'espressione colloquiale per dire "molto". | "Un sacco", "çok" demek için konuşma diline ait bir ifade.

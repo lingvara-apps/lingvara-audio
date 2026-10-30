@@ -1,7 +1,7 @@
 # UNIT: Kariyer ve girişimcilik | İş kurmak, yönetim, profesyonel dil
 ## İş kurmak
 avviare | başlatmak (iş) | fiil | Con due amici ha avviato un'attività di consegne in bicicletta. | İki arkadaşıyla bisikletle teslimat yapan bir iş kurdu.
-fondare | tesis etmek, kurmak (kurum) | fiil | L'azienda è stata fondata dal nonno nel 1950. | Şirket 1950'de dedesi tarafından kuruldu.
+fondare | tesis etmek, kurmak (kurum) | fiil | L'azienda è stata fondata dal nonno nel millenovecentocinquanta. | Şirket bin dokuz yüz ellide dedesi tarafından kuruldu.
 il fondatore | kurucu | isim (e) | Il fondatore della cooperativa lavora ancora ogni giorno nei campi. | Kooperatifin kurucusu hâlâ her gün tarlalarda çalışıyor.
 la startup | yeni girişim şirketi | isim (d) | La sua startup sviluppa app per le persone anziane. | Girişimi yaşlı insanlar için uygulamalar geliştiriyor.
 il business plan | iş planı | isim (e) | Senza un business plan la banca non ti darà il prestito. | İş planı olmadan banka sana kredi vermez.
@@ -28,7 +28,7 @@ la leadership | liderlik | isim (d) | Il corso insegna le basi della leadership 
 dirigere (diretto) | yönetmek | fiil · düzensiz | Dirige un'azienda di cinquanta dipendenti da sola. | Elli çalışanlı bir şirketi tek başına yönetiyor.
 supervisionare | denetlemek, gözetmek | fiil | Il capocantiere supervisiona i lavori ogni mattina. | Şantiye şefi her sabah işleri denetliyor.
 la pianificazione | planlama | isim (d) | Una buona pianificazione evita molti problemi dopo. | İyi bir planlama sonradan birçok sorunu önler.
-la programmazione | takvimlendirme | isim (d) | La programmazione delle ferie si fa a febbraio. | İzinlerin planlaması şubatta yapılıyor.
+la programmazione | planlama, programlama | isim (d) | La programmazione delle ferie si fa a febbraio. | İzinlerin planlaması şubatta yapılıyor.
 il coordinatore | koordinatör | isim (e) | Il coordinatore del progetto organizza una riunione ogni lunedì. | Proje koordinatörü her pazartesi bir toplantı düzenliyor.
 motivare | motive etmek | fiil | Un buon capo sa motivare la squadra nei momenti difficili. | İyi bir yönetici zor anlarda ekibi motive etmeyi bilir.
 assegnare | vermek, atamak (görev) | fiil | Il direttore mi ha assegnato un nuovo cliente importante. | Müdür bana önemli yeni bir müşteri verdi.
@@ -37,7 +37,7 @@ la produttività | verimlilik | isim (d) | Il lavoro da casa ha aumentato la pro
 produttivo | verimli, üretken | sıfat | La mattina sono molto più produttivo che il pomeriggio. | Sabahları öğleden sonraya göre çok daha üretkenim.
 la performance | performans | isim (d) | La performance della squadra è migliorata negli ultimi mesi. | Ekibin performansı son aylarda iyileşti.
 snellire | basitleştirmek, hızlandırmak | fiil | Il nuovo software serve a snellire le procedure interne. | Yeni yazılım iç prosedürleri basitleştirmeye yarıyor.
-l'efficienza (d) | etkinlik | isim (d) | Il comune vuole migliorare l'efficienza degli uffici pubblici. | Belediye kamu dairelerinin verimliliğini artırmak istiyor.
+l'efficienza (d) | verimlilik, etkinlik | isim (d) | Il comune vuole migliorare l'efficienza degli uffici pubblici. | Belediye kamu dairelerinin verimliliğini artırmak istiyor.
 il controllo qualità | kalite kontrol | isim (e) | Ogni bottiglia passa il controllo qualità prima della vendita. | Her şişe satıştan önce kalite kontrolden geçiyor.
 il miglioramento | iyileşme, gelişme | isim (e) | Si nota un netto miglioramento nei risultati di vendita. | Satış sonuçlarında belirgin bir iyileşme göze çarpıyor.
 raggiungere (raggiunto) | ulaşmak | fiil · düzensiz | Quest'anno abbiamo raggiunto tutti gli obiettivi fissati. | Bu yıl belirlenen bütün hedeflere ulaştık.
@@ -103,7 +103,7 @@ farsi le ossa | tecrübe kazanmak, pişmek | deyim | Si è fatto le ossa in una 
 avere le mani in pasta | bir işin içinde olmak, bağlantıları olmak | deyim | Ha le mani in pasta in tutti i progetti della città. | Şehrin bütün projelerinde parmağı var.
 essere sulla cresta dell'onda | zirvede olmak | deyim | Dopo il premio, la giovane stilista è sulla cresta dell'onda. | Ödülden sonra genç modacı şu an zirvede.
 partire col piede giusto | işe doğru başlamak | deyim | Con il primo cliente soddisfatto siamo partiti col piede giusto. | İlk memnun müşteriyle işe doğru başladık.
-fare il passo più lungo della gamba | ayağını yorganına göre uzatmamak | deyim | Aprire tre negozi insieme? Non fare il passo più lungo della gamba! | Aynı anda üç dükkân mı? Ayağını yorganına göre uzat!
+fare il passo più lungo della gamba | boyundan büyük işe kalkışmak | deyim | Aprire tre negozi insieme? Non fare il passo più lungo della gamba! | Aynı anda üç dükkân mı? Ayağını yorganına göre uzat!
 mettersi in gioco | kendini ortaya koymak, risk almak | deyim | A cinquant'anni ha deciso di mettersi in gioco e cambiare lavoro. | Elli yaşında kendini ortaya koyup iş değiştirmeye karar verdi.
 rimboccarsi le maniche | kolları sıvamak | deyim | La situazione è difficile, dobbiamo rimboccarci le maniche. | Durum zor, kolları sıvamamız gerekiyor.
 tirare avanti | idare edip gitmek | deyim | Con questo stipendio tiriamo avanti, ma senza lussi. | Bu maaşla idare edip gidiyoruz ama lükse yer yok.

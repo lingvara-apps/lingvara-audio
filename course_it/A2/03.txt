@@ -1,7 +1,7 @@
 # UNIT: Sağlık | Doktor, belirtiler, eczane, acil durum
 ## Hastane ve randevu
 la visita | muayene; ziyaret | isim (d) | Ho una visita alle nove. | Saat dokuzda muayenem var.
-il paziente | hasta (doktorun hastası) | isim (e) | Il paziente aspetta il medico. | Hasta doktoru bekliyor.
+l'orario di visita (e) | ziyaret saatleri (hastane) | isim (e) | L'orario di visita è dalle tre alle cinque. | Ziyaret saatleri üçten beşe kadar.
 l'ambulatorio (e) | muayenehane, poliklinik | isim (e) | L'ambulatorio apre alle otto. | Poliklinik sekizde açılıyor.
 la sala d'attesa | bekleme salonu | isim (d) | La sala d'attesa è piena. | Bekleme salonu dolu.
 il medico di base | aile hekimi | isim (e) | Prima vai dal medico di base. | Önce aile hekimine git.

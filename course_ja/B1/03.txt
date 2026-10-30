@@ -37,7 +37,7 @@
 実験 (jikken) | deney | isim | 理科の授業で、水を使った実験をした。 | Fen dersinde suyla bir deney yaptık.
 分析 (bunseki) | analiz | isim | 集めたデータを分析するのに一か月かかった。 | Topladığımız verileri analiz etmek bir ay sürdü.
 仮説 (kasetsu) | hipotez | isim | 実験の結果、私たちの仮説は正しいことが分かった。 | Deneyin sonucunda hipotezimizin doğru olduğu anlaşıldı.
-観察 (kansatsu) | gözlem | isim | 夏休みにアサガオの観察日記をつけた。 | Yaz tatilinde sabah sefası çiçeğini gözlem günlüğü tuttum.
+観察 (kansatsu) | gözlem | isim | 夏休みにアサガオの観察日記をつけた。 | Yaz tatilinde sabah sefası çiçeği için bir gözlem günlüğü tuttum.
 証明 (shōmei) | kanıtlama, ispat | isim | その理論はまだ証明されていない。 | O teori henüz kanıtlanmadı.
 発見 (hakken) | keşif | isim | この発見は医学の歴史を大きく変えた。 | Bu keşif tıp tarihini büyük ölçüde değiştirdi.
 記録 (kiroku) | kayıt; rekor | isim | 実験の結果は毎回ノートに記録している。 | Deney sonuçlarını her seferinde deftere kaydediyorum.
@@ -53,7 +53,7 @@
 天文学 (tenmongaku) | astronomi | isim | 星が好きで、将来は天文学を研究したい。 | Yıldızları sevdiğim için ileride astronomi alanında araştırma yapmak istiyorum.
 文学 (bungaku) | edebiyat | isim | 日本文学の中では、特に古い物語が好きだ。 | Japon edebiyatında özellikle eski öyküleri severim.
 社会学 (shakaigaku) | sosyoloji | isim | 社会学では、家族や地域の変化を研究する。 | Sosyolojide aile ve yerel toplulukların değişimi incelenir.
-言語学 (gengogaku) | dilbilim | isim | 言語学を学んで、日本語とトルコ語の似ている点に気づいた。 | Dilbilim okuyunca Japonca ile Türkçenin benzer yönlerini fark ettim.
+言語学 (gengogaku) | dilbilim | isim | 言語学を学んで、日本語と韓国語の似ている点に気づいた。 | Dilbilim okuyunca Japonca ile Korecenin benzer yönlerini fark ettim.
 ## Bilimsel kavramlar
 現象 (genshō) | olay, fenomen | isim | 虹は光が水の粒で曲がって起こる現象だ。 | Gökkuşağı ışığın su damlalarında kırılmasıyla oluşan bir olaydır.
 原因 (gen'in) | neden, sebep | isim | 事故の原因はまだ分かっていない。 | Kazanın nedeni henüz bilinmiyor.
@@ -71,7 +71,7 @@
 数値 (sūchi) | sayısal değer | isim | 検査の数値は正常だった。 | Tahlil değerleri normaldi.
 長さ (nagasa) | uzunluk | isim | この橋の長さは約二キロです。 | Bu köprünün uzunluğu yaklaşık iki kilometredir.
 重さ (omosa) | ağırlık | isim | 荷物の重さは二十キロまでです。 | Bagaj ağırlığı en fazla yirmi kilodur.
-面積 (menseki) | alan, yüzölçümü | isim | 日本の面積はトルコの半分ぐらいだ。 | Japonya'nın yüzölçümü Türkiye'nin yarısı kadardır.
+面積 (menseki) | alan, yüzölçümü | isim | 日本の面積はドイツより少し広い。 | Japonya'nın yüzölçümü Almanya'nınkinden biraz büyüktür.
 体積 (taiseki) | hacim | isim | 箱の体積を求める問題が出た。 | Bir kutunun hacmini bulma sorusu çıktı.
 温度 (ondo) | sıcaklık | isim | 部屋の温度を二十五度に設定した。 | Odanın sıcaklığını yirmi beş dereceye ayarladım.
 速度 (sokudo) | hız | isim | この道路では速度を落としてください。 | Bu yolda hızınızı düşürün lütfen.

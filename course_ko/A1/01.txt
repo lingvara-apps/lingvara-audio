@@ -26,7 +26,7 @@
 나 (na) | ben (samimi) | zamir | 나는 학생이야. (Naneun haksaengiya.) | Ben öğrenciyim.
 제 (je) | benim (kibar) | zamir | 제 이름은 소피아예요. (Je ireumeun Sopiayeyo.) | Benim adım Sofia.
 내 (nae) | benim (samimi) | zamir | 이건 내 가방이야. (Igeon nae gabangiya.) | Bu benim çantam.
-우리 (uri) | biz; bizim | zamir | 우리 엄마는 요리사예요. (Uri eommaneun yorisayeyo.) | Annem aşçıdır.
+우리 (uri) | biz; bizim (genel) | zamir | 우리 엄마는 요리사예요. (Uri eommaneun yorisayeyo.) | Annem aşçıdır.
 저희 (jeohui) | biz; bizim (alçakgönüllü) | zamir | 저희 회사에 오세요. (Jeohui hoesae oseyo.) | Şirketimize buyurun.
 너 (neo) | sen (samimi) | zamir | 너는 어디에 살아? (Neoneun eodie sara?) | Sen nerede yaşıyorsun?
 당신 (dangsin) | siz; sen (eşler arasında; günlükte az kullanılır) | zamir | 당신을 사랑해요. (Dangsineul saranghaeyo.) | Seni seviyorum.
@@ -55,7 +55,7 @@
 어느 (eoneu) | hangi (seçenekler arasından) | zamir | 어느 나라 사람이에요? (Eoneu nara saramieyo?) | Hangi ülkedensin?
 무슨 (museun) | ne, ne tür | zamir | 무슨 음식을 좋아해요? (Museun eumsigeul joahaeyo?) | Ne tür yemekleri seversin?
 ## Kendini tanıtma
-이름 (ireum) | isim, ad | isim | 이름이 뭐예요? (Ireumi mwoyeyo?) | Adın ne?
+이름 (ireum) | isim, ad (genel) | isim | 이름이 뭐예요? (Ireumi mwoyeyo?) | Adın ne?
 성함 (seongham) | isim, ad (saygılı) | isim | 성함이 어떻게 되세요? (Seonghami eotteoke doeseyo?) | Adınız nedir efendim?
 나이 (nai) | yaş | isim | 나이가 어떻게 되세요? (Naiga eotteoke doeseyo?) | Kaç yaşındasınız?
 사람 (saram) | insan, kişi | isim | 저는 튀르키예 사람이에요. (Jeoneun Twireukiye saramieyo.) | Ben Türkiyeliyim.

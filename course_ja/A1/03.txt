@@ -25,7 +25,7 @@
 一人 (hitori) | bir kişi | sayı | 一人で来ました。(Hitori de kimashita.) | Tek başıma geldim.
 二人 (futari) | iki kişi | sayı | 二人で映画を見ました。(Futari de eiga o mimashita.) | İkimiz film izledik.
 〜枚 (-mai) | yassı şeyler için sayaç (kâğıt, bilet) | isim | 切符を二枚ください。(Kippu o nimai kudasai.) | İki bilet lütfen.
-〜本 (-hon) | uzun şeyler için sayaç (şişe, kalem) | isim | ビールを三本買いました。(Bīru o sanbon kaimashita.) | Üç şişe bira aldım.
+〜本 (-hon) | uzun şeyler için sayaç (şişe, kalem) | isim | 鉛筆を三本買いました。(Enpitsu o sanbon kaimashita.) | Üç kurşun kalem aldım.
 〜冊 (-satsu) | kitap, defter sayacı | isim | 本を五冊読みました。(Hon o gosatsu yomimashita.) | Beş kitap okudum.
 〜匹 (-hiki) | küçük hayvan sayacı | isim | 猫が二匹います。(Neko ga nihiki imasu.) | İki kedi var.
 〜個 (-ko) | küçük nesne sayacı | isim | あめを三個もらいました。(Ame o sanko moraimashita.) | Üç şeker aldım.
@@ -48,7 +48,7 @@
 昼 (hiru) | öğle; gündüz | isim | 昼は暑いです。(Hiru wa atsui desu.) | Öğlen sıcak.
 夕方 (yūgata) | akşamüstü | isim | 夕方、公園を歩きます。(Yūgata, kōen o arukimasu.) | Akşamüstü parkta yürürüm.
 夜 (yoru) | gece | isim | 夜は静かです。(Yoru wa shizuka desu.) | Gece sessiz.
-晩 (ban) | akşam | isim | 晩に電話します。(Ban ni denwa shimasu.) | Akşam ararım.
+晩 (ban) | akşam | isim | 土曜日の晩は家にいます。(Doyōbi no ban wa ie ni imasu.) | Cumartesi akşamı evdeyim.
 毎日 (mainichi) | her gün | zarf | 毎日日本語を勉強します。(Mainichi Nihongo o benkyō shimasu.) | Her gün Japonca çalışırım.
 毎朝 (maiasa) | her sabah | zarf | 毎朝六時に起きます。(Maiasa rokuji ni okimasu.) | Her sabah altıda kalkarım.
 毎晩 (maiban) | her akşam | zarf | 毎晩本を読みます。(Maiban hon o yomimasu.) | Her akşam kitap okurum.
@@ -95,7 +95,7 @@
 季節 (kisetsu) | mevsim | isim | どの季節が好きですか。(Dono kisetsu ga suki desu ka.) | Hangi mevsimi seversin?
 日付 (hizuke) | tarih (gün) | isim | 日付を書いてください。(Hizuke o kaite kudasai.) | Tarihi yazın lütfen.
 〜日 (-nichi, -ka) | ayın ... günü; gün | isim | 十五日に会いましょう。(Jūgonichi ni aimashō.) | On beşinde buluşalım.
-一日 (tsuitachi) | ayın biri | isim | 一月一日はお正月です。(Ichigatsu tsuitachi wa oshōgatsu desu.) | Bir ocak yılbaşıdır.
+一日 (tsuitachi) | ayın biri | isim | 一月一日はお正月です。(Ichigatsu tsuitachi wa oshōgatsu desu.) | Bir Ocak yılbaşıdır.
 二十日 (hatsuka) | ayın yirmisi | isim | 二十日に給料が出ます。(Hatsuka ni kyūryō ga demasu.) | Maaş ayın yirmisinde çıkar.
 カレンダー (karendā) | takvim | isim | カレンダーに予定を書きます。(Karendā ni yotei o kakimasu.) | Planlarımı takvime yazarım.
 ## Ne sıklıkla?
@@ -103,7 +103,7 @@
 時々 (tokidoki) | bazen | zarf | 時々映画を見ます。(Tokidoki eiga o mimasu.) | Bazen film izlerim.
 よく (yoku) | sık sık; iyi | zarf | よく公園に行きます。(Yoku kōen ni ikimasu.) | Sık sık parka giderim.
 あまり (amari) | pek (olumsuzla) | zarf | あまりテレビを見ません。(Amari terebi o mimasen.) | Pek televizyon izlemem.
-全然 (zenzen) | hiç (olumsuzla) | zarf | お酒は全然飲みません。(O-sake wa zenzen nomimasen.) | Hiç alkol içmem.
+全然 (zenzen) | hiç (olumsuzla) | zarf | お酒は全然飲みません。(Osake wa zenzen nomimasen.) | Hiç alkol içmem.
 もう (mō) | artık; çoktan | zarf | もう昼ご飯を食べました。(Mō hirugohan o tabemashita.) | Öğle yemeğini çoktan yedim.
 まだ (mada) | hâlâ; henüz | zarf | まだ宿題をしていません。(Mada shukudai o shite imasen.) | Ödevimi henüz yapmadım.
 すぐ (sugu) | hemen | zarf | すぐ行きます。(Sugu ikimasu.) | Hemen geliyorum.

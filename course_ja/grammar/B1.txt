@@ -6,10 +6,10 @@
 = 後ろの人にも聞こえるように、大きい声で話してください。 | Arkadakiler de duyabilsin diye yüksek sesle konuşun lütfen.
 = 遅刻しないように、目覚まし時計を二つかけた。 | Geç kalmamak için iki çalar saat kurdum.
 ? "Ev almak için para biriktiriyorum." → 家を買う ... お金を貯めています。 | ために | ように | のに
-? "Unutmamak için not aldım." → 忘れない ... メモしました。 | ように | ために | ので
+? "Unutmamak için not aldım." → 忘れない ... メモしました。 | ように | のに | ので
 ? "Herkes görebilsin diye büyük yazdım." → みんなが見える ... 大きく書いた。 | ように | ために | から
 ? "Ailem için çalışıyorum." → 家族 ... 働いています。 | のために | ように | ために
-? "Hastalanmamak için iyi uyuyorum." → 病気にならない ... よく寝ています。 | ように | ために | のは
+? "Hastalanmamak için iyi uyuyorum." → 病気にならない ... よく寝ています。 | ように | のは | ことに
 
 # TOPIC: Edilgen (受身): 〜られる | 先生に褒められた、足を踏まれた
 > Edilgen yapı: る-fiiller 食べる → 食べられる; う-fiiller -a + れる: 書く → 書かれる, 言う → 言われる; する → される, 来る → 来られる. Eylemi yapan に ile gösterilir: 先生に褒められた.
@@ -22,7 +22,7 @@
 ? "Öğretmen tarafından övüldüm." → 先生に ... | 褒められた | 褒めた | 褒めさせた
 ? する fiilinin edilgen biçimi hangisidir? | される | させる | できる
 ? "Cüzdanım çalındı." → 財布を ... | 盗まれた | 盗んだ | 盗ませた
-? "Bu tapınak 300 yıl önce yapıldı." → この寺は三百年前に ... | 建てられた | 建てた | 建てさせた
+? "Bu tapınak üç yüz yıl önce yapıldı." → この寺は三百年前に ... | 建てられた | 建てた | 建てさせた
 
 # TOPIC: Ettirgen (使役): 〜させる ve 〜させられる | 子どもに野菜を食べさせる、歌わされた
 > Ettirgen yapı birine bir şey yaptırmayı ya da izin vermeyi anlatır: る-fiiller 食べる → 食べさせる; う-fiiller -a + せる: 行く → 行かせる; する → させる, 来る → 来させる. Yaptırılan kişi に (bazen を) alır.
@@ -70,7 +70,7 @@
 = 少々お待ちください。 | Lütfen biraz bekleyin.
 = お荷物、お持ちします。 | Eşyalarınızı ben taşıyayım.
 = 明日の午後、御社に伺います。 | Yarın öğleden sonra şirketinize geleceğim.
-? "Ne yemek istersiniz?" (saygı) → 何を ... か。 | 召し上がります | いただきます | 食べられます
+? "Ne yemek istersiniz?" (saygı) → 何を ... か。 | 召し上がります | いただきます | 食べさせます
 ? "Ben bakayım (belgelere)." (alçakgönüllü) → 資料を ... | 拝見します | ご覧になります | 見られます
 ? "Müdür nerede?" (saygı) → 部長はどちらに ... か。 | いらっしゃいます | 参ります | おります
 ? "Size yolu göstereyim." (alçakgönüllü) → 私がご案内 ... | します | になります | ください

@@ -12,7 +12,7 @@ ATM (ētīemu) | ATM, bankamatik | isim | コンビニにもATMがあります�
 残高 (zandaka) | bakiye | isim | 残高を確認します。(Zandaka o kakunin shimasu.) | Bakiyemi kontrol ediyorum.
 ## Posta ve kargo
 郵便 (yūbin) | posta | isim | 今日は郵便が来ませんでした。(Kyō wa yūbin ga kimasen deshita.) | Bugün posta gelmedi.
-切手 (kitte) | pul | isim | 八十四円の切手をください。(Hachijūyon en no kitte o kudasai.) | Seksen dört yenlik pul lütfen.
+切手 (kitte) | pul | isim | 百十円の切手をください。(Hyakujū en no kitte o kudasai.) | Yüz on yenlik pul lütfen.
 封筒 (fūtō) | zarf | isim | 封筒に住所を書きます。(Fūtō ni jūsho o kakimasu.) | Zarfın üstüne adresi yazıyorum.
 はがき (hagaki) | kartpostal | isim | 旅行先からはがきを送りました。(Ryokōsaki kara hagaki o okurimashita.) | Seyahat ettiğim yerden kartpostal gönderdim.
 小包 (kozutsumi) | koli, paket (posta) | isim | 母から小包が届きました。(Haha kara kozutsumi ga todokimashita.) | Annemden bir koli geldi.
@@ -67,7 +67,7 @@ ATM (ētīemu) | ATM, bankamatik | isim | コンビニにもATMがあります�
 文房具屋 (bunbōguya) | kırtasiye | isim | 文房具屋でノートを買います。(Bunbōguya de nōto o kaimasu.) | Kırtasiyeden defter alıyorum.
 ## Mağazada kibar dil
 いかがですか (ikaga desu ka) | nasıl olur?, ister misiniz? (kibar) | ifade | コーヒーはいかがですか。(Kōhī wa ikaga desu ka.) | Kahve ister misiniz?
-恐れ入ります (osoreirimasu) | rica ederim; zahmet oldu (çok kibar) | ifade | 恐れ入りますが、少々お待ちください。(Osoreirimasu ga, shōshō omachi kudasai.) | Zahmet olacak ama biraz bekler misiniz?
+恐れ入ります (osoreirimasu) | affedersiniz; çok teşekkürler (çok kibar) | ifade | 恐れ入りますが、少々お待ちください。(Osoreirimasu ga, shōshō omachi kudasai.) | Zahmet olacak ama biraz bekler misiniz?
 よろしいですか (yoroshii desu ka) | uygun mu?, olur mu? (kibar) | ifade | カードでよろしいですか。(Kādo de yoroshii desu ka.) | Kartla olur mu?
 お手洗い (otearai) | tuvalet (kibar) | isim | お手洗いはどちらですか。(Otearai wa dochira desu ka.) | Tuvalet ne tarafta?
 順番 (junban) | sıra | isim | 順番にお呼びします。(Junban ni oyobi shimasu.) | Sırayla çağıracağız.

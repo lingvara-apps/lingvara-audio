@@ -1,7 +1,7 @@
 # UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
 ## Havalimanında
-der Flug (die Flüge) | uçuş | isim (e) | Der Flug nach Istanbul dauert drei Stunden. | İstanbul uçuşu üç saat sürüyor.
-der Abflug (die Abflüge) | kalkış (uçak) | isim (e) | Der Abflug ist um 14.30 Uhr. | Kalkış saat 14.30'da.
+der Flug (die Flüge) | uçuş | isim (e) | Der Flug nach Lissabon dauert drei Stunden. | Lizbon uçuşu üç saat sürüyor.
+der Abflug (die Abflüge) | kalkış (uçak) | isim (e) | Der Abflug ist um vierzehn Uhr dreißig. | Kalkış saat on dört otuzda.
 die Ankunft (die Ankünfte) | varış, geliş | isim (d) | Die Ankunft in Wien ist pünktlich. | Viyana'ya varış zamanında.
 die Bordkarte (die Bordkarten) | biniş kartı | isim (d) | Zeigen Sie bitte Ihre Bordkarte. | Lütfen biniş kartınızı gösterin.
 das Gepäck | bagaj, valiz | isim (o) | Wo kann ich mein Gepäck abholen? | Bagajımı nereden alabilirim?
@@ -20,7 +20,7 @@ der Schaffner (die Schaffner) | kondüktör | isim (e) | Der Schaffner kontrolli
 die Durchsage (die Durchsagen) | anons | isim (d) | Hast du die Durchsage verstanden? | Anonsu anladın mı?
 hin und zurück | gidiş dönüş | ifade | Einmal nach Hamburg, hin und zurück, bitte. | Hamburg'a bir gidiş dönüş lütfen.
 verpassen | kaçırmak | fiil | Beeil dich, sonst verpassen wir den Zug! | Acele et, yoksa treni kaçıracağız!
-die Abfahrt (die Abfahrten) | kalkış, hareket | isim (d) | Die Abfahrt ist um 8.15 Uhr. | Hareket saati 8.15.
+die Abfahrt (die Abfahrten) | kalkış, hareket | isim (d) | Die Abfahrt ist um Viertel nach acht. | Hareket saati sekizi çeyrek geçe.
 ## Otelde
 die Rezeption (die Rezeptionen) | resepsiyon | isim (d) | Der Schlüssel liegt an der Rezeption. | Anahtar resepsiyonda.
 das Einzelzimmer (die Einzelzimmer) | tek kişilik oda | isim (o) | Ein Einzelzimmer kostet achtzig Euro. | Tek kişilik oda seksen avro.

@@ -34,7 +34,7 @@ la foresta | orman (büyük) | isim (d) | La foresta è grande e scura. | Orman 
 il legno | tahta, odun | isim (e) | Il tavolo è di legno. | Masa ahşap.
 ## Çiçekler ve bitkiler
 la pianta | bitki | isim (d) | Ho molte piante sul balcone. | Balkonda çok bitkim var.
-la rosa | gül | isim (d) | Ti regalo una rosa rossa. | Sana kırmızı bir gül hediye ediyorum.
+il giglio | zambak | isim (e) | Ti regalo un giglio bianco. | Sana beyaz bir zambak hediye ediyorum.
 il girasole | ayçiçeği | isim (e) | I girasoli guardano il sole. | Ayçiçekleri güneşe bakar.
 il tulipano | lale | isim (e) | I tulipani sono fiori di primavera. | Laleler ilkbahar çiçekleridir.
 la margherita | papatya | isim (d) | Il prato è pieno di margherite. | Çayır papatyalarla dolu.
@@ -53,7 +53,7 @@ l'arcobaleno (e) | gökkuşağı | isim (e) | Dopo la pioggia c'è l'arcobaleno.
 umido | nemli | sıfat | A Venezia l'aria è umida. | Venedik'te hava nemli.
 sereno | açık (gökyüzü); huzurlu | sıfat | Oggi il cielo è sereno. | Bugün gökyüzü açık.
 la previsione | tahmin; hava tahmini | isim (d) | Le previsioni dicono pioggia. | Hava tahmini yağmur diyor.
-l'afa (d) | bunaltıcı sıcak | isim (d) | Ad agosto c'è un'afa terribile. | Ağustosta korkunç bir bunaltıcı sıcak var.
+l'afa (d) | bunaltıcı sıcak | isim (d) | Ad agosto c'è un'afa terribile. | Ağustosta sıcak çok bunaltıcı.
 ## Çevre
 l'ambiente (e) | çevre, ortam | isim (e) | Dobbiamo proteggere l'ambiente. | Çevreyi korumalıyız.
 l'inquinamento (e) | kirlilik | isim (e) | In città c'è molto inquinamento. | Şehirde çok kirlilik var.

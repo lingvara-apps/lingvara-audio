@@ -9,7 +9,7 @@
 ? "Credo che Anna ___ (avere) ragione." | abbia | ha | avesse
 ? "Spero che voi ___ (venire) alla festa." | veniate | venite | venissi
 ? "È meglio che tu ___ (parlare) con il capo." | parli | parla | parlassi
-? Hangi cümle doğrudur? | Penso di arrivare tardi. | Penso che arrivo tardi. | Penso che io arrivi tardi.
+? Hangi cümle doğrudur? | Penso di arrivare tardi. | Penso che arrivo tardi. | Penso di arrivo tardi.
 ? "Bisogna che noi ___ (fare) la spesa oggi." | facciamo | faremo | fare
 
 # TOPIC: Condizionale presente ve passato (şart kipi) | vorrei, potresti, avrei fatto
@@ -33,10 +33,10 @@
 = Non avevo mai visto il mare prima di quel viaggio. | O yolculuktan önce hiç deniz görmemiştim.
 = Ha detto che aveva perso le chiavi. | Anahtarları kaybettiğini söyledi.
 = Eravamo stanchi perché avevamo camminato tutto il giorno. | Bütün gün yürüdüğümüz için yorgunduk.
-? "Quando l'ho chiamata, lei ___ (uscire) già." | era già uscita | è già uscita | aveva già uscito
+? "Quando l'ho chiamata, lei ___ (uscire)." | era già uscita | è già uscita | aveva già uscito
 ? "Non ___ (io, leggere) quel libro prima del corso." | avevo letto | ero letto | ho letto
 ? "Ci siamo accorti che ___ (noi, dimenticare) i biglietti." | avevamo dimenticato | eravamo dimenticati | dimenticavamo
-? Trapassato prossimo nasıl kurulur? | imperfetto (avere/essere) + ortaç | presente (avere/essere) + ortaç | futuro + ortaç
+? "Quando sei arrivato, ___ (noi, finire) di mangiare." | avevamo già finito | eravamo già finiti | abbiamo già finendo
 ? "I ragazzi ___ (arrivare) prima di noi." | erano arrivati | avevano arrivato | erano arrivato
 
 # TOPIC: Birleşik zamirler | te lo, glielo, me ne, ce la
@@ -51,7 +51,7 @@
 ? "Hai dato il regalo a Paolo?" "Sì, ___ ho dato." | gliel' | gli l' | lo gli
 ? "Ci porti i documenti?" "Sì, ___ porto subito." | ve li | vi li | ve le
 ? "Quanti caffè vuoi?" "___ prendo due." | Ne | Li | Lo
-? "Dammi le chiavi!" → zamirli hali hangisi? | Dammele! | Dammile! | Me le dai!
+? "Dammi le chiavi!" → zamirli hali hangisi? | Dammele! | Dammile! | Dammi le!
 
 # TOPIC: Si impersonale ve si passivante | si mangia bene, si vendono case
 > "Si" + üçüncü tekil fiil, özne belirtmeden genel durumu anlatır: In Italia si mangia bene (İtalya'da iyi yemek yenir). Türkçedeki edilgen/genel ifade "-ılır, -ilir" gibidir.
@@ -63,9 +63,9 @@
 = Non si sa ancora chi abbia vinto. | Kimin kazandığı henüz bilinmiyor.
 ? "In Italia ___ (bere) molto caffè." | si beve | si bevono | si bevi
 ? "Da qui ___ (vedere) le montagne." | si vedono | si vede | si vedano
-? "La domenica ___ (riposarsi) tutto il giorno." | ci si riposa | si si riposa | si riposa
+? "La domenica ___ (riposarsi) tutto il giorno." | ci si riposa | si si riposa | ci si riposano
 ? "Di questo argomento ___ (parlare) a lungo ieri." | si è parlato | si ha parlato | si parlava stato
-? "Si impersonale" cümlesi Türkçeye genelde nasıl çevrilir? | edilgen/genel ifadeyle (-ılır) | birinci tekil kişiyle | emir kipiyle
+? "In questo negozio ___ (accettare) le carte di credito." | si accettano | si accetta | si accettate
 
 # TOPIC: İlgi zamirleri | che, cui, il quale, chi
 > "Che" özne ve doğrudan nesne yerine kullanılır, değişmez: Il ragazzo che parla / Il libro che leggo. Edattan sonra "cui" kullanılır: la città in cui vivo, l'amico con cui esco, il motivo per cui parto.

@@ -40,7 +40,7 @@
 生活費 (seikatsuhi) | geçim masrafı | isim | 東京は生活費が高いです。(Tōkyō wa seikatsuhi ga takai desu.) | Tokyo'da geçim masrafı yüksek.
 足りる (tariru) | yetmek | fiil | このお金で足りますか。(Kono okane de tarimasu ka.) | Bu para yeter mi?
 貯める (tameru) | biriktirmek | fiil | 旅行のためにお金を貯めています。(Ryokō no tame ni okane o tamete imasu.) | Seyahat için para biriktiriyorum.
-借金 (shakkin) | borç | isim | 借金は全部返しました。(Shakkin wa zenbu kaeshimashita.) | Borcun hepsini ödedim.
+借金 (shakkin) | borç | isim | 借金は全部返しました。(Shakkin wa zenbu kaeshimashita.) | Borcumun hepsini ödedim.
 小銭 (kozeni) | bozuk para | isim | 小銭がありません。(Kozeni ga arimasen.) | Bozuk param yok.
 お小遣い (okozukai) | harçlık | isim | 子供にお小遣いをあげます。(Kodomo ni okozukai o agemasu.) | Çocuğa harçlık veriyorum.
 ## Karakter
@@ -60,7 +60,7 @@
 夕食 (yūshoku) | akşam yemeği (resmî) | isim | 夕食の準備ができました。(Yūshoku no junbi ga dekimashita.) | Akşam yemeği hazır.
 通勤 (tsūkin) | işe gidip gelme | isim | 通勤に一時間かかります。(Tsūkin ni ichijikan kakarimasu.) | İşe gidip gelmek bir saat sürüyor.
 帰宅 (kitaku) | eve dönüş | isim | 帰宅は毎日八時ごろです。(Kitaku wa mainichi hachiji goro desu.) | Her gün sekiz sularında eve dönüyorum.
-満員電車 (man'in densha) | tıklım tıklım tren | isim | 朝の満員電車は大変です。(Asa no man'in densha wa taihen desu.) | Sabahki dolu trenler çok zor.
+満員電車 (man'in densha) | tıklım tıklım tren | isim | 朝の満員電車は大変です。(Asa no man'in densha wa taihen desu.) | Sabahki tıklım tıklım trenler çok yorucu.
 寄る (yoru) | uğramak | fiil | 帰りにスーパーに寄ります。(Kaeri ni sūpā ni yorimasu.) | Dönüşte süpermarkete uğrarım.
 留守 (rusu) | evde olmama | isim | 母は今、留守です。(Haha wa ima, rusu desu.) | Annem şu an evde değil.
 ただいま (tadaima) | ben geldim (eve dönünce) | ifade | ただいま。お腹すいた。(Tadaima. Onaka suita.) | Ben geldim. Acıktım.
@@ -68,7 +68,7 @@
 ## Gündelik kalıplar
 いってきます (ittekimasu) | ben gidiyorum (evden çıkarken) | ifade | いってきます。夜には帰るね。(Ittekimasu. Yoru ni wa kaeru ne.) | Ben çıkıyorum. Akşama dönerim.
 いってらっしゃい (itterasshai) | güle güle (evden çıkana) | ifade | いってらっしゃい。気をつけてね。(Itterasshai. Ki o tsukete ne.) | Güle güle, dikkat et.
-おじゃまします (ojama shimasu) | rahatsız ediyorum (birinin evine girerken) | ifade | 失礼します。おじゃまします。(Shitsurei shimasu. Ojama shimasu.) | İzninizle, rahatsız ediyorum.
+おじゃまします (ojama shimasu) | rahatsız ediyorum (birinin evine girerken) | ifade | こんにちは。おじゃまします。(Konnichiwa. Ojama shimasu.) | Merhaba, rahatsız ediyorum.
 お先に (osaki ni) | önce (benden önce/sizden önce) | ifade | お先にどうぞ。(Osaki ni dōzo.) | Önce siz buyurun.
 お疲れ様 (otsukaresama) | kolay gelsin; emeğinize sağlık | ifade | 今日も一日お疲れ様でした。(Kyō mo ichinichi otsukaresama deshita.) | Bugün de emeğinize sağlık.
 おかげさまで (okagesama de) | sayenizde, çok şükür | ifade | おかげさまで元気です。(Okagesama de genki desu.) | Sayenizde iyiyim.

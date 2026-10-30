@@ -2,7 +2,7 @@
 ## Kızgınlık ünlemleri
 verflixt | hay aksi, lanet olsun (hafif) | ünlem | Verflixt, jetzt habe ich den Schlüssel schon wieder in der Wohnung vergessen! | Hay aksi, anahtarı yine evde unuttum!
 Donnerwetter! | vay canına!; seni gidi! | ifade | Donnerwetter, das hätte ich dir gar nicht zugetraut! | Vay canına, bunu senden hiç beklemezdim!
-Menschenskind! | aman Allahım!, hay Allah! | ifade | Menschenskind, wo warst du denn so lange, wir haben uns Sorgen gemacht! | Hay Allah, bu kadar zaman neredeydin, endişelendik!
+Menschenskind! | aman!, hay aksi! | ifade | Menschenskind, wo warst du denn so lange, wir haben uns Sorgen gemacht! | Aman, bu kadar zaman neredeydin, endişelendik!
 Mannomann! | of be!, vay be! | ifade | Mannomann, das war heute aber ein anstrengender Tag im Büro. | Of be, bugün ofiste ne yorucu bir gündü.
 Ach du Schande! | eyvah!, rezalet! | ifade | Ach du Schande, ich habe den Geburtstag meiner Mutter vergessen! | Eyvah, annemin doğum gününü unuttum!
 Ach du liebe Zeit! | aman Tanrım! | ifade | Ach du liebe Zeit, wie sieht denn die Küche aus? | Aman Tanrım, mutfak ne hâlde böyle?
@@ -14,13 +14,13 @@ Herrje! | eyvah!, aman! | ifade | Herrje, jetzt ist mir auch noch der Kaffee üb
 Hau ab! | defol!, git! | ifade | Hau ab und lass mich endlich in Ruhe mit deinen Fragen! | Defol git ve sorularınla beni artık rahat bırak!
 Halt die Klappe! | kapa çeneni! | ifade | Halt die Klappe, ich will den Film zu Ende sehen! | Kapa çeneni, filmin sonunu izlemek istiyorum!
 Mach dich vom Acker! | toz ol!, defol! | ifade | Mach dich vom Acker, bevor ich die Polizei rufe! | Polisi çağırmadan önce toz ol!
-Zieh Leine! | ortadan kaybol!, yallah! | ifade | Zieh Leine, wir wollen hier unter uns bleiben! | Kaybol, burada kendi aramızda kalmak istiyoruz!
+Zieh Leine! | ortadan kaybol!, defol! | ifade | Zieh Leine, wir wollen hier unter uns bleiben! | Kaybol, burada kendi aramızda kalmak istiyoruz!
 Mach mal halblang! | abartma!, ağır ol! | ifade | Mach mal halblang, so schlimm war das Essen nun auch wieder nicht! | Abartma, yemek o kadar da kötü değildi!
 Komm mal runter! | sakin ol!, yere in! | ifade | Komm mal runter, es ist doch nur ein kleiner Kratzer am Auto. | Sakin ol, arabada sadece küçük bir çizik var.
 Reg dich ab! | sakinleş!, kendine gel! | ifade | Reg dich ab, wir finden schon eine Lösung für das Problem. | Sakinleş, soruna nasılsa bir çözüm buluruz.
 Raus hier! | çık dışarı! | ifade | Raus hier, und zwar sofort, bevor ich wirklich wütend werde! | Çık dışarı, hem de hemen, gerçekten sinirlenmeden önce!
 Lass den Quatsch! | saçmalamayı bırak! | ifade | Lass den Quatsch und hilf mir lieber beim Aufräumen! | Saçmalamayı bırak da toplamama yardım et!
-Schnauze! | kes sesini! (çok kaba) | ifade | Schnauze, rief der Mann aus dem Fenster, es ist drei Uhr nachts! | Kes sesini, diye bağırdı adam pencereden, saat gecenin üçü!
+Lass mich in Ruhe! | beni rahat bırak! | ifade | Lass mich in Ruhe, rief der Mann aus dem Fenster, es ist drei Uhr nachts! | Beni rahat bırakın, diye bağırdı adam pencereden, saat gecenin üçü!
 ## Şaşkınlık ve inanmama
 Spinnst du? | aklını mı kaçırdın? | ifade | Spinnst du? Du kannst doch nicht bei Rot über die Kreuzung fahren! | Aklını mı kaçırdın? Kırmızıda kavşaktan geçemezsin!
 Du hast sie wohl nicht alle! | sen kafayı yemişsin! | ifade | Du hast sie wohl nicht alle, für so ein altes Auto zehntausend Euro zu zahlen! | Böyle eski bir arabaya on bin avro ödemek, sen kafayı yemişsin!
@@ -73,7 +73,7 @@ rackern | durmadan çalışmak | fiil | Die Bäuerin rackert von morgens bis abe
 die Maloche | ağır iş, angarya | isim (d) | Nach der Maloche trinken die Kumpel ein Bier an der Trinkhalle. | Ağır işten sonra madenciler büfede bir bira içiyor.
 der Knast | kodes, hapishane | isim (e) | Für den Überfall musste er fünf Jahre in den Knast. | Soygun için beş yıl kodese girmek zorunda kaldı.
 verknacken | mahkûm etmek (argo) | fiil | Der Typ wurde zu zwei Jahren auf Bewährung verknackt. | Herif iki yıl ertelenmiş hapse çarptırıldı.
-der Bulle (die Bullen) | aynasız, polis (kaba) | isim (e) | Als die Bullen kamen, rannten die Jugendlichen weg. | Aynasızlar gelince gençler kaçtı.
+der Ganove (die Ganoven) | düzenbaz, dolandırıcı (argo) | isim (e) | Die Polizei hat die beiden Ganoven nach einer wilden Verfolgungsjagd geschnappt. | Polis iki düzenbazı çılgın bir kovalamacanın ardından yakaladı.
 die Schlafmütze (die Schlafmützen) | uykucu, mıymıntı | isim (d) | Steh endlich auf, du alte Schlafmütze, es ist schon Mittag! | Kalk artık uykucu, öğlen oldu!
 die Kippe (die Kippen) | izmarit; sigara | isim (d) | Wirf deine Kippe bitte nicht einfach auf den Boden! | İzmaritini lütfen öylece yere atma!
 ## İçki ve yemek argosu
@@ -94,7 +94,7 @@ der Riecher | sezgi, koku alma (argo) | isim (e) | Für gute Geschäfte hat er e
 die Pfoten | eller, pençeler (argo) | isim (çoğul) | Nimm sofort deine Pfoten von meinem Teller mit den Pommes! | Pençelerini hemen patates kızartmalı tabağımdan çek!
 die Visage (die Visagen) | surat (kaba) | isim (d) | Seine grinsende Visage geht mir ziemlich auf die Nerven. | Sırıtan suratı epey sinirime dokunuyor.
 der Ranzen (die Ranzen) | göbek (kaba); okul çantası | isim (e) | Seit dem Urlaub hat er einen ganz schönen Ranzen bekommen. | Tatilden beri epey göbek bağladı.
-die Latschen | terlik, eski ayakkabı | isim (çoğul) | Zieh dir ordentliche Schuhe an, nicht diese alten Latschen! | Düzgün ayakkabı giy, bu eski terlikleri değil!
+die Quanten | kocaman ayaklar (argo) | isim (çoğul) | Mit deinen Quanten passt du nie in diese kleinen Schuhe! | O kocaman ayaklarınla bu küçük ayakkabılara asla sığmazsın!
 die Klappe (die Klappen) | çene, ağız (argo) | isim (d) | Er hat eine große Klappe, aber nichts dahinter. | Çenesi düşük ama arkası boş.
 die Glubschaugen | patlak gözler | isim (çoğul) | Mit seinen Glubschaugen starrte der Junge auf die Torte. | Çocuk patlak gözleriyle pastaya bakakaldı.
 die Plauze | göbek (Doğu Almanya argosu) | isim (d) | Vom vielen Bier hat er sich eine ordentliche Plauze angefuttert. | Çok bira içmekten epey bir göbek bağladı.

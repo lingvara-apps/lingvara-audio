@@ -6,7 +6,7 @@ l'agent immobilier (m) | emlakçı | isim (e) | L'agent immobilier nous a fait v
 le dossier de location | kiralama dosyası | isim (e) | Pour un dossier de location, il faut trois fiches de paie. | Kiralama dosyası için üç maaş bordrosu gerekiyor.
 le garant | kefil | isim (e) | Mes parents ont accepté d'être mes garants pour l'appartement. | Ailem daire için kefilim olmayı kabul etti.
 l'état des lieux (m) | giriş/çıkış tespit tutanağı | isim (e) | Nous faisons l'état des lieux avec le propriétaire lundi matin. | Pazartesi sabahı ev sahibiyle evin durum tespitini yapıyoruz.
-le deux-pièces | bir artı bir daire (iki odalı) | isim (e) | Nous cherchons un deux-pièces lumineux près du centre. | Merkeze yakın aydınlık bir iki odalı daire arıyoruz.
+le deux-pièces | iki odalı daire (salon ve bir yatak odası) | isim (e) | Nous cherchons un deux-pièces lumineux près du centre. | Merkeze yakın aydınlık bir iki odalı daire arıyoruz.
 le pavillon | müstakil ev (banliyöde) | isim (e) | Ils ont acheté un pavillon avec jardin en banlieue de Lille. | Lille banliyösünde bahçeli müstakil bir ev aldılar.
 la maison individuelle | müstakil ev | isim (d) | Beaucoup de Français rêvent d'une maison individuelle avec un jardin. | Birçok Fransız bahçeli müstakil bir ev hayal ediyor.
 le colocataire | ev arkadaşı | isim (e) | Mon colocataire laisse toujours la vaisselle sale dans l'évier. | Ev arkadaşım bulaşığı hep lavaboda kirli bırakıyor.
@@ -38,7 +38,7 @@ les environs | çevre, civar | isim (çoğul) | Il y a de belles balades à fair
 populaire | halk tabakasına ait; sevilen | sıfat | Belleville est un quartier populaire et très vivant de Paris. | Belleville Paris'in emekçi ve çok canlı bir mahallesidir.
 chic | şık | sıfat | Ils habitent dans un quartier chic avec des boutiques de luxe. | Lüks butiklerin olduğu şık bir semtte oturuyorlar.
 résidentiel (résidentielle) | konut (bölgesi), yerleşim | sıfat | C'est un quartier résidentiel très calme le soir. | Akşamları çok sakin bir yerleşim bölgesi.
-la proche banlieue | yakın banliyö | isim (d) | Je vis en proche banlieue et je prends le RER tous les matins. | Yakın banliyöde yaşıyorum ve her sabah banliyö trenine biniyorum.
+la proche banlieue | yakın banliyö | isim (d) | Je vis en proche banlieue et je prends le train tous les matins. | Yakın banliyöde yaşıyorum ve her sabah banliyö trenine biniyorum.
 la périphérie | şehir çevresi | isim (d) | Les grands supermarchés sont installés à la périphérie de la ville. | Büyük süpermarketler şehrin çevresine kurulmuş.
 la ruelle | dar sokak | isim (d) | Les ruelles du vieux Nice sont pleines de petits restaurants. | Eski Nice'in dar sokakları küçük restoranlarla dolu.
 le boulevard | bulvar | isim (e) | Le boulevard est bloqué à cause d'un marathon ce matin. | Bulvar bu sabah bir maraton yüzünden kapalı.

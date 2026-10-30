@@ -59,7 +59,7 @@
 購入 (kōnyū) | satın alma | isim | チケットの購入はネットでお願いします。 | Biletleri internetten satın alın lütfen.
 価格 (kakaku) | fiyat | isim | 同じ商品でも、店によって価格が違う。 | Aynı ürünün fiyatı bile dükkândan dükkâna değişir.
 定価 (teika) | liste fiyatı | isim | この本は定価の半額で買えた。 | Bu kitabı liste fiyatının yarısına aldım.
-割高 (waridaka) | nispeten pahalı | sıfat | コンビニは便利だけど、スーパーより割高だ。 | Market zincirleri kullanışlı ama süpermarketten pahalı.
+割高 (waridaka) | nispeten pahalı | sıfat | コンビニは便利だけど、スーパーより割高だ。 | Konbini marketler kullanışlı ama süpermarketten daha pahalı.
 割安 (wariyasu) | nispeten ucuz | sıfat | 大きいサイズのほうが割安です。 | Büyük boy daha hesaplı.
 特売 (tokubai) | özel indirimli satış | isim | 土曜日はスーパーで卵の特売がある。 | Cumartesi süpermarkette yumurta indirimi var.
 衝動買い (shōdōgai) | anlık alışveriş | isim | セールで衝動買いをして、後悔した。 | İndirimde düşünmeden alışveriş yapıp pişman oldum.
@@ -77,12 +77,12 @@
 後払い (atobarai) | sonradan ödeme | isim | ネットで買った服を後払いで注文した。 | İnternetten aldığım kıyafeti sonradan ödemeli sipariş ettim.
 引き落とし (hikiotoshi) | otomatik ödeme (hesaptan çekim) | isim | 家賃は毎月二十七日に口座から引き落としされる。 | Kira her ayın yirmi yedisinde hesaptan otomatik çekiliyor.
 ## Ticaret
-貿易 (bōeki) | dış ticaret | isim | 日本とトルコの貿易は年々増えている。 | Japonya ile Türkiye arasındaki ticaret yıldan yıla artıyor.
+貿易 (bōeki) | dış ticaret | isim | 日本とアジアの国々の貿易は年々増えている。 | Japonya ile Asya ülkeleri arasındaki ticaret yıldan yıla artıyor.
 輸出 (yushutsu) | ihracat | isim | この会社は車の部品を海外に輸出している。 | Bu şirket yurt dışına araba parçası ihraç ediyor.
 輸入 (yunyū) | ithalat | isim | 日本は食べ物の多くを輸入に頼っている。 | Japonya yiyeceklerinin büyük kısmında ithalata bağımlı.
 関税 (kanzei) | gümrük vergisi | isim | 関税が上がって、輸入ワインが高くなった。 | Gümrük vergisi artınca ithal şaraplar pahalandı.
 流通 (ryūtsū) | dağıtım, piyasada dolaşım | isim | 新しい紙幣の流通が始まった。 | Yeni banknotlar tedavüle girdi.
-小売 (kouri) | perakende | isim | 姉は小売の会社で店長をしている。 | Ablam bir perakende şirketinde mağaza müdürü.
+小売 (kōri) | perakende | isim | 姉は小売の会社で店長をしている。 | Ablam bir perakende şirketinde mağaza müdürü.
 卸売 (oroshiuri) | toptan satış | isim | 卸売の市場は朝早くから開いている。 | Toptancı hali sabahın erken saatinden açık.
 物流 (butsuryū) | lojistik | isim | ネット通販が増えて、物流の仕事が忙しくなった。 | İnternet alışverişi artınca lojistik işleri yoğunlaştı.
 仕入れる (shiireru) | (satmak için) mal almak | fiil | 店長は毎朝、市場で魚を仕入れている。 | Dükkân sahibi her sabah balık halinden mal alıyor.
@@ -97,7 +97,7 @@
 使い果たす (tsukaihatasu) | tüketmek, hepsini harcamak | fiil | 旅行で貯金を使い果たしてしまった。 | Seyahatte bütün birikimimi harcadım.
 出し合う (dashiau) | ortaklaşa para koymak | fiil | みんなでお金を出し合って、先生にプレゼントを買った。 | Hep birlikte para toplayıp öğretmene hediye aldık.
 浮く (uku) | (para) artmak, cepte kalmak | fiil | 自転車で通勤したら、交通費が浮いた。 | Bisikletle işe gidince yol parası cebimde kaldı.
-もうける (mōkeru) | kâr etmek | fiil | 彼は古い車を売って、ずいぶんもうけたらしい。 | Eski arabaları satıp epey kâr etmiş galiba.
+もうける (mōkeru) | kâr etmek | fiil | 彼は古い車を売って、ずいぶんもうけたらしい。 | Eski arabasını satıp epey kâr etmiş galiba.
 ## Refah ve eşitsizlik
 貧困 (hinkon) | yoksulluk | isim | 世界には貧困に苦しむ子どもがまだたくさんいる。 | Dünyada hâlâ yoksullukla boğuşan pek çok çocuk var.
 格差 (kakusa) | uçurum, eşitsizlik | isim | 都会と地方の収入の格差が広がっている。 | Büyük şehirlerle taşra arasındaki gelir uçurumu büyüyor.

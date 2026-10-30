@@ -66,7 +66,7 @@ la cittadinanza digitale | dijital vatandaşlık | isim (d) | La scuola deve ins
 l'identità digitale (d) | dijital kimlik | isim (d) | Con l'identità digitale si accede a tutti i servizi della pubblica amministrazione. | Dijital kimlikle kamu yönetiminin tüm hizmetlerine erişiliyor.
 l'ecosistema digitale (e) | dijital ekosistem | isim (e) | Le piccole imprese faticano a entrare nell'ecosistema digitale dei grandi gruppi. | Küçük işletmeler büyük grupların dijital ekosistemine girmekte zorlanıyor.
 ## Siber güvenlik
-la sicurezza informatica aziendale | kurumsal siber güvenlik | isim (d) | Abbiamo raddoppiato il budget per la sicurezza informatica aziendale. | Kurumsal siber güvenlik bütçesini ikiye katladık.
+il malware | kötü amaçlı yazılım | isim (e) | Il malware si è diffuso attraverso un allegato apparentemente innocuo. | Kötü amaçlı yazılım zararsız görünen bir ek aracılığıyla yayıldı.
 l'attacco informatico (e) | siber saldırı | isim (e) | Un attacco informatico ha bloccato per giorni i servizi dell'ospedale. | Bir siber saldırı hastanenin hizmetlerini günlerce durdurdu.
 il ransomware | fidye yazılımı | isim (e) | Il ransomware ha cifrato tutti i file e i criminali chiedono un riscatto. | Fidye yazılımı bütün dosyaları şifreledi ve suçlular fidye istiyor.
 il phishing | oltalama | isim (e) | Il phishing sfrutta email apparentemente ufficiali per rubare le credenziali. | Oltalama, kimlik bilgilerini çalmak için resmî görünen e-postalardan yararlanır.
@@ -83,7 +83,7 @@ l'orbita (d) | yörünge | isim (d) | La stazione spaziale compie un'orbita comp
 l'acceleratore di particelle (e) | parçacık hızlandırıcı | isim (e) | Il più grande acceleratore di particelle del mondo si trova vicino a Ginevra. | Dünyanın en büyük parçacık hızlandırıcısı Cenevre yakınında bulunuyor.
 la meccanica quantistica | kuantum mekaniği | isim (d) | La meccanica quantistica descrive il comportamento delle particelle subatomiche. | Kuantum mekaniği atom altı parçacıkların davranışını betimler.
 la relatività | görelilik | isim (d) | La teoria della relatività ha cambiato la nostra idea di spazio e tempo. | Görelilik kuramı uzay ve zaman fikrimizi değiştirdi.
-il buco nero | kara delik | isim (e) | La prima immagine di un buco nero è stata pubblicata nel 2019. | Bir kara deliğin ilk görüntüsü 2019'da yayımlandı.
+il buco nero | kara delik | isim (e) | La prima immagine di un buco nero è stata pubblicata nel duemiladiciannove. | Bir kara deliğin ilk görüntüsü iki bin on dokuzda yayımlandı.
 la microgravità | mikro yerçekimi | isim (d) | In condizioni di microgravità le ossa degli astronauti perdono densità. | Mikro yerçekimi koşullarında astronotların kemikleri yoğunluk kaybeder.
 il telescopio spaziale | uzay teleskobu | isim (e) | Il telescopio spaziale ha fotografato galassie lontanissime e antichissime. | Uzay teleskobu çok uzak ve çok eski galaksilerin fotoğrafını çekti.
 il computer quantistico | kuantum bilgisayar | isim (e) | Un computer quantistico potrebbe risolvere problemi oggi impossibili. | Bir kuantum bilgisayar bugün imkânsız olan sorunları çözebilir.
@@ -97,7 +97,7 @@ la divulgazione scientifica | bilimi halka anlatma | isim (d) | La divulgazione 
 il negazionismo scientifico | bilim inkârcılığı | isim (e) | Il negazionismo scientifico si diffonde spesso attraverso le reti sociali. | Bilim inkârcılığı sık sık sosyal ağlar aracılığıyla yayılıyor.
 l'obsolescenza programmata (d) | planlı eskitme | isim (d) | L'obsolescenza programmata rende i dispositivi inutilizzabili dopo pochi anni. | Planlı eskitme cihazları birkaç yıl sonra kullanılamaz hâle getiriyor.
 la tecnofobia | teknoloji korkusu | isim (d) | La tecnofobia di alcuni anziani nasce spesso dalla paura di sbagliare. | Bazı yaşlıların teknoloji korkusu çoğu zaman hata yapma korkusundan doğuyor.
-pionieristico | öncü, çığır açan | sıfat | Negli anni Sessanta l'Olivetti realizzò un calcolatore davvero pionieristico. | Altmışlı yıllarda Olivetti gerçekten öncü bir hesap makinesi üretti.
+pionieristico | öncü, çığır açan | sıfat | Negli anni Sessanta una piccola azienda piemontese realizzò un calcolatore davvero pionieristico. | Altmışlı yıllarda küçük bir Piemonte şirketi gerçekten öncü bir hesap makinesi üretti.
 ## Teknoloji fiilleri
 digitalizzare | dijitalleştirmek | fiil | La biblioteca sta digitalizzando migliaia di manoscritti medievali. | Kütüphane binlerce Orta Çağ elyazmasını dijitalleştiriyor.
 brevettare | patentini almak | fiil | Il giovane ingegnere ha brevettato un sistema per filtrare l'acqua piovana. | Genç mühendis yağmur suyunu süzen bir sistemin patentini aldı.

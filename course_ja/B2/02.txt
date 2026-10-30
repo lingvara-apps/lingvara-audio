@@ -23,7 +23,7 @@
 権限 (kengen) | yetki | isim | 私には値段を決める権限がありません。 | Fiyat belirleme yetkim yok.
 ## Strateji
 戦略 (senryaku) | strateji | isim | 海外の市場で勝つための戦略を考えている。 | Yurt dışı pazarında kazanmak için bir strateji düşünüyoruz.
-展開 (tenkai) | yayılma, gelişme | isim | この店は全国にチェーン展開している。 | Bu dükkân ülke geneline zincir olarak yayılıyor.
+展開 (tenkai) | yayılma, gelişme | isim | この店は全国にチェーン展開している。 | Bu dükkânın ülke genelinde zincir şubeleri var.
 拡大 (kakudai) | genişleme | isim | 売上の拡大を目指して、新しい店を出した。 | Satışları artırmak hedefiyle yeni bir şube açtık.
 縮小 (shukushō) | küçültme | isim | 不況のため、工場の規模を縮小した。 | Kriz nedeniyle fabrikanın ölçeğini küçülttük.
 分野 (bun'ya) | alan | isim | 彼は医療の分野で、新しい会社を作った。 | Sağlık alanında yeni bir şirket kurdu.
@@ -61,7 +61,7 @@
 ご多忙 (gotabō) | yoğunluğunuz (saygı) | isim | ご多忙のところ、お時間をいただきありがとうございます。 | Yoğunluğunuza rağmen zaman ayırdığınız için teşekkür ederim.
 幸いです (saiwai desu) | memnun olurum | ifade | お返事をいただけましたら幸いです。 | Cevap verirseniz memnun olurum.
 ご了承 (goryōshō) | anlayışınız, onayınız | isim | 予告なく変更する場合がありますので、ご了承ください。 | Önceden haber verilmeden değişiklik yapılabileceğini lütfen göz önünde bulundurun.
-お手数 (otesū) | zahmet | isim | お手数ですが、こちらにご記入ください。 | Zahmet olacak ama lütfen buraya doldurun.
+お手数 (otesū) | zahmet | isim | お手数ですが、こちらにご記入ください。 | Zahmet olacak ama lütfen burayı doldurun.
 差し支えない (sashitsukaenai) | sakıncası olmamak | ifade | 差し支えなければ、お名前を教えていただけますか。 | Sakıncası yoksa adınızı öğrenebilir miyim?
 ご査収 (gosashū) | inceleyip teslim alma (saygı) | isim | 請求書を添付いたしましたので、ご査収ください。 | Faturayı ekte gönderdim, lütfen inceleyiniz.
 お力添え (ochikarazoe) | yardımınız, desteğiniz | isim | 皆様のお力添えのおかげで、無事に終わりました。 | Hepinizin desteği sayesinde sorunsuz tamamlandı.

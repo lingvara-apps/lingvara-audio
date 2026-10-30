@@ -8,7 +8,7 @@ el centro de salud | sağlık ocağı | isim (e) | El centro de salud está abie
 urgencias | acil servis | isim (çoğul) | Llevaron al herido a urgencias rápidamente. | Yaralıyı hızlıca acil servise götürdüler.
 la ambulancia | ambulans | isim (d) | La sirena de la ambulancia suena en la avenida. | Caddede ambulansın siren sesi çalıyor.
 el enfermero | hemşire (erkek) | isim (e) | El enfermero me toma la tensión. | Hemşire tansiyonumu ölçüyor.
-la enfermera | hemşire | isim (d) | La enfermera limpia la herida con cuidado. | Hemşire yarayı dikkatle temizliyor.
+la enfermera | hemşire (kadın) | isim (d) | La enfermera limpia la herida con cuidado. | Hemşire yarayı dikkatle temizliyor.
 el paciente | hasta, hasta kişi | isim (e) | El paciente descansa en la habitación número diez. | Hasta on numaralı odada dinleniyor.
 ## Vücut ve ağrılar
 la garganta | boğaz | isim (d) | Me duele mucho la garganta al tragar agua. | Su yutarken boğazım çok ağrıyor.

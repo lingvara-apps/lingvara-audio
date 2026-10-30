@@ -1,4 +1,4 @@
-# UNIT: Anlam farkları ve karıştırılan sözcükler | geistig/geistlich, scheinbar/anscheinend, der See/die See, sein ve haben kalıpları
+# UNIT: Anlam farkları ve karıştırılan sözcükler | geistig/geistlich, scheinbar/anscheinend, der Kiefer/die Kiefer, sein ve haben kalıpları
 ## Ek farkı: -ig, -lich, -isch
 geistig | zihinsel, düşünsel | sıfat | Schach ist eine geistig anspruchsvolle Beschäftigung für Jung und Alt. | Satranç genç yaşlı herkes için zihinsel olarak zorlayıcı bir uğraştır.
 geistlich | dinî, ruhani | sıfat | Der Chor singt vor allem geistliche Musik aus dem Barock. | Koro özellikle Barok döneminden dinî müzik söylüyor.
@@ -22,16 +22,16 @@ ideell | manevi, maddi olmayan | sıfat | Das alte Foto hat für mich vor allem 
 rationell | rasyonel, ekonomik (iş süreci) | sıfat | Durch rationellere Abläufe konnte die Fabrik viel Geld sparen. | Fabrika daha ekonomik süreçler sayesinde çok para tasarruf etti.
 reell | gerçekçi, adil (fiyat, şans) | sıfat | Mit seiner Erfahrung hat er eine reelle Chance auf die Stelle. | Deneyimiyle bu iş için gerçekçi bir şansı var.
 ## Artikeli anlamı değiştiren isimler
-die Erbschaft (die Erbschaften) | miras (kalıt) | isim (d) | Nach dem Tod der Tante traten die drei Geschwister die Erbschaft gemeinsam an. | Teyzelerinin ölümünden sonra üç kardeş mirası birlikte devraldı.
-die See | deniz | isim (d) | Bei Sturm ist die See vor der Küste gefährlich rau. | Fırtınada kıyı açıklarında deniz tehlikeli derecede dalgalı olur.
-der Leiter (die Leiter) | yönetici, şef; iletken | isim (e) | Der Leiter der Abteilung stellte die neuen Kollegen vor. | Bölüm şefi yeni meslektaşları tanıttı.
-der Erbe (die Erben) | mirasçı | isim (e) | Als einziger Erbe bekam der Neffe das ganze Haus am See. | Tek mirasçı olarak yeğen göl kenarındaki bütün evi aldı.
-das Steuer (die Steuer) | direksiyon, dümen | isim (o) | Nach drei Stunden übernahm seine Frau das Steuer. | Üç saat sonra direksiyona karısı geçti.
-der Gehalt (die Gehalte) | içerik, oran | isim (e) | Der Gehalt an Zucker in diesem Saft ist erstaunlich hoch. | Bu meyve suyundaki şeker oranı şaşırtıcı derecede yüksek.
-der Kiefer (die Kiefer) | çene kemiği | isim (e) | Nach dem Sturz vom Fahrrad hatte er sich den Kiefer gebrochen. | Bisikletten düşünce çene kemiğini kırmıştı.
-der Band (die Bände) | cilt (kitap) | isim (e) | Die alte Enzyklopädie meines Großvaters umfasst insgesamt zwölf dicke Bände. | Dedemin eski ansiklopedisi toplamda on iki kalın ciltten oluşuyor.
-der Verdienst (die Verdienste) | kazanç | isim (e) | Der Verdienst als Kellner reicht kaum für die Miete. | Garsonluktan kazanç kirayı ancak karşılıyor.
-das Verdienst (die Verdienste) | hizmet, emek, katkı | isim (o) | Es ist ihr Verdienst, dass das Projekt doch noch gelungen ist. | Projenin yine de başarılı olması onun emeğidir.
+der Tau | çiy (das Tau: halat) | isim (e) | Am frühen Morgen glitzerte der Tau auf den Wiesen rund um das Dorf. | Sabahın erken saatlerinde köyün çevresindeki çayırlarda çiy parlıyordu.
+das Schild (die Schilder) | levha, tabela (der Schild: kalkan) | isim (o) | Das Schild am Eingang weist darauf hin, dass Hunde draußen bleiben müssen. | Girişteki tabela köpeklerin dışarıda kalması gerektiğini belirtiyor.
+das Laster (die Laster) | kötü alışkanlık, ahlaki zaaf (der Laster: kamyon) | isim (o) | Rauchen war jahrelang sein einziges Laster, bis er endlich aufhörte. | Sigara içmek, sonunda bırakana kadar yıllarca onun tek kötü alışkanlığıydı.
+das Mark | ilik, öz (die Mark: eski Alman parası) | isim (o) | Der schrille Schrei ging allen Anwesenden durch Mark und Bein. | Tiz çığlık oradaki herkesin iliklerine işledi.
+der Bund (die Bünde) | birlik; bel (pantolon) (das Bund: demet) | isim (e) | Nach dem Urlaub ist mir der Bund der Hose etwas zu eng geworden. | Tatilden sonra pantolonun beli bana biraz dar geldi.
+der Golf (die Golfe) | körfez (das Golf: golf sporu) | isim (e) | Das kleine Fischerdorf liegt an einem ruhigen Golf mit klarem Wasser. | Küçük balıkçı köyü berrak sulu, sakin bir körfezin kıyısında.
+der Kiefer (die Kiefer) | çene kemiği (die Kiefer: çam ağacı) | isim (e) | Nach dem Sturz vom Fahrrad hatte er sich den Kiefer gebrochen. | Bisikletten düşünce çene kemiğini kırmıştı.
+das Moment (die Momente) | etken, unsur (der Moment: an) | isim (o) | Das entscheidende Moment für den Erfolg war die gute Zusammenarbeit im Team. | Başarıda belirleyici etken ekip içindeki iyi iş birliğiydi.
+der Verdienst (die Verdienste) | kazanç (das Verdienst: hizmet, emek) | isim (e) | Der Verdienst als Kellner reicht kaum für die Miete. | Garsonluktan elde edilen kazanç kirayı ancak karşılıyor.
+das Wehr (die Wehre) | bent, regülatör (die Wehr: savunma) | isim (o) | Unterhalb des alten Wehrs ist das Baden im Fluss streng verboten. | Eski bendin aşağısında nehirde yüzmek kesinlikle yasak.
 ## Ayrılabilen ve ayrılamayan fiiller
 umfahren | çarpıp devirmek (ayrılabilir) | fiil | Der betrunkene Fahrer hat in der Nacht ein Verkehrsschild umgefahren. | Sarhoş sürücü gece bir trafik levhasını çarpıp devirdi.
 unterstellen | (birine bir şey) yakıştırmak, iftira etmek | fiil | Unterstellen Sie mir bitte nicht, dass ich gelogen habe! | Lütfen bana yalan söylediğimi yakıştırmayın!
@@ -55,7 +55,7 @@ die Leere | boşluk | isim (d) | Nach dem Auszug der Kinder spürte sie eine gro
 wider | karşı, aykırı (resmî) | edat | Wider alle Erwartungen gewann der Außenseiter das Turnier. | Tüm beklentilere karşın sürpriz aday turnuvayı kazandı.
 das Lid (die Lider) | göz kapağı | isim (o) | Nach der langen Nachtschicht wurden ihm vor Müdigkeit die Lider schwer. | Uzun gece vardiyasından sonra yorgunluktan göz kapakları ağırlaştı.
 ## Yanıltıcı yabancı sözcükler
-eventuell | belki, muhtemelen (sonunda değil) | sıfat | Eventuell komme ich am Abend noch kurz vorbei, ich sage dir Bescheid. | Belki akşam kısa bir uğrarım, sana haber veririm.
+eventuell | belki, muhtemelen (sonunda değil) | zarf | Eventuell komme ich am Abend noch kurz vorbei, ich sage dir Bescheid. | Belki akşam kısa bir uğrarım, sana haber veririm.
 die Akte (die Akten) | dosya (resmî) | isim (d) | Die Akte zu diesem Fall liegt seit Monaten unbearbeitet beim Gericht. | Bu davanın dosyası aylardır mahkemede işlem görmeden bekliyor.
 konsequent | tutarlı, kararlı | sıfat | Bei der Erziehung muss man konsequent bleiben, auch wenn es schwerfällt. | Çocuk yetiştirmede zor gelse de tutarlı kalmak gerekir.
 das Gift (die Gifte) | zehir | isim (o) | Der Pilz enthält ein starkes Gift, das tödlich sein kann. | Mantar öldürücü olabilecek güçlü bir zehir içeriyor.
@@ -84,7 +84,7 @@ derzeit | şu sıralar, hâlihazırda | zarf | Derzeit sind alle Mitarbeiter im 
 neulich | geçenlerde | zarf | Neulich habe ich deinen Bruder zufällig im Supermarkt getroffen. | Geçenlerde ağabeyine tesadüfen süpermarkette rastladım.
 kürzlich | yakınlarda, kısa süre önce | zarf | Die Ausstellung wurde erst kürzlich um einen neuen Saal erweitert. | Sergi kısa süre önce yeni bir salonla genişletildi.
 demnächst | yakında, pek yakında | zarf | Der Film kommt demnächst auch in die österreichischen Kinos. | Film yakında Avusturya sinemalarına da geliyor.
-künftig | gelecekte, bundan böyle | sıfat | Künftig müssen alle Anträge auf Fördermittel ausschließlich online gestellt werden. | Bundan böyle tüm destek başvuruları yalnızca çevrim içi yapılmalı.
+künftig | gelecekte, bundan böyle | zarf | Künftig müssen alle Anträge auf Fördermittel ausschließlich online gestellt werden. | Bundan böyle tüm destek başvuruları yalnızca çevrim içi yapılmalı.
 einst | bir zamanlar | zarf | Wo einst eine Fabrik stand, ist heute ein schöner Park. | Bir zamanlar fabrika olan yerde bugün güzel bir park var.
 nachher | sonra, birazdan | zarf | Wir sprechen nachher in Ruhe darüber, jetzt habe ich keine Zeit. | Bunu sonra sakin sakin konuşuruz, şimdi vaktim yok.
 ## sein ve haben kalıpları

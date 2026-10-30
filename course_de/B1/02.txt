@@ -7,7 +7,7 @@ die Geschäftsleitung (die Geschäftsleitungen) | yönetim, üst yönetim | isim
 der Vorgesetzte (die Vorgesetzten) | amir, üst | isim (e) | Mit meinem Vorgesetzten habe ich ein sehr gutes Verhältnis. | Amirimle çok iyi bir ilişkim var.
 die Personalabteilung (die Personalabteilungen) | insan kaynakları bölümü | isim (d) | Bitte schicken Sie die Krankmeldung an die Personalabteilung. | Lütfen hastalık raporunu insan kaynaklarına gönderin.
 die Buchhaltung | muhasebe | isim (d) | Die Buchhaltung prüft gerade alle Rechnungen vom letzten Monat. | Muhasebe şu anda geçen ayın tüm faturalarını kontrol ediyor.
-der Vertrieb | satış, pazarlama dağıtımı | isim (e) | Im Vertrieb ist man viel unterwegs und hat ständig Kundenkontakt. | Satış bölümünde insan çok seyahat eder ve sürekli müşteriyle temas hâlindedir.
+der Vertrieb | satış (bölümü) | isim (e) | Im Vertrieb ist man viel unterwegs und hat ständig Kundenkontakt. | Satış bölümünde insan çok seyahat eder ve sürekli müşteriyle temas hâlindedir.
 der Betriebsrat (die Betriebsräte) | işçi temsilciliği | isim (e) | Der Betriebsrat vertritt die Interessen der Beschäftigten. | İşçi temsilciliği çalışanların çıkarlarını temsil eder.
 der Beschäftigte (die Beschäftigten) | çalışan, istihdam edilen kişi | isim (e) | Die Firma hat über tausend Beschäftigte in drei Ländern. | Şirketin üç ülkede binden fazla çalışanı var.
 ## Kariyer
@@ -34,7 +34,7 @@ das Arbeitszeugnis (die Arbeitszeugnisse) | bonservis, çalışma belgesi | isim
 die Gehaltsvorstellung (die Gehaltsvorstellungen) | maaş beklentisi | isim (d) | Bitte nennen Sie in der Bewerbung auch Ihre Gehaltsvorstellung. | Lütfen başvuruda maaş beklentinizi de belirtin.
 ## Toplantı
 die Sitzung (die Sitzungen) | oturum, toplantı | isim (d) | Die Sitzung wurde wegen Krankheit auf Freitag verschoben. | Oturum hastalık nedeniyle cumaya ertelendi.
-das Meeting (die Meetings) | toplantı (iş dilinde) | isim (o) | Das Meeting mit dem Kunden dauert bestimmt zwei Stunden. | Müşteriyle toplantı kesin iki saat sürer.
+das Meeting (die Meetings) | toplantı (iş dilinde) | isim (o) | Das Meeting mit dem Kunden dauert bestimmt zwei Stunden. | Müşteriyle toplantı herhalde iki saat sürer.
 der Tagesordnungspunkt (die Tagesordnungspunkte) | gündem maddesi | isim (e) | Gut, dann kommen wir jetzt zum nächsten Tagesordnungspunkt. | Güzel, o zaman şimdi bir sonraki gündem maddesine geçelim.
 zusammenfassen | özetlemek | fiil | Darf ich kurz zusammenfassen, was wir besprochen haben? | Konuştuklarımızı kısaca özetleyebilir miyim?
 der Beschluss (die Beschlüsse) | karar | isim (e) | Am Ende der Sitzung wurde ein klarer Beschluss gefasst. | Toplantının sonunda net bir karar alındı.
@@ -71,7 +71,7 @@ zusammenarbeiten | birlikte çalışmak | fiil | Wir arbeiten eng mit einer Agen
 das Betriebsklima | iş yeri havası | isim (o) | Das Betriebsklima in unserer Abteilung ist sehr angenehm. | Bölümümüzdeki çalışma ortamı çok hoş.
 die Teamfähigkeit | takım çalışmasına yatkınlık | isim (d) | Teamfähigkeit ist in fast jeder Stellenanzeige gefragt. | Takım çalışmasına yatkınlık neredeyse her iş ilanında aranır.
 die Anerkennung | takdir, tanınma | isim (d) | Die Mitarbeiter wünschen sich mehr Anerkennung für ihre Arbeit. | Çalışanlar emeklerinin daha çok takdir edilmesini istiyor.
-loben | övmek | fiil | Die Chefin hat unser Team für das Projekt gelobt. | Patron kadın proje için ekibimizi övdü.
+loben | övmek | fiil | Die Chefin hat unser Team für das Projekt gelobt. | Şefimiz proje için ekibimizi övdü.
 das Mobbing | iş yerinde psikolojik taciz | isim (o) | Gegen Mobbing am Arbeitsplatz sollte man sofort etwas tun. | İş yerinde psikolojik tacize karşı hemen bir şey yapılmalı.
 duzen | "sen" diye hitap etmek | fiil | In unserer Firma duzen sich alle, sogar mit dem Chef. | Şirketimizde herkes birbirine "sen" diye hitap ediyor, patronla bile.
 siezen | "siz" diye hitap etmek | fiil | Bei Kunden siezen wir uns natürlich immer. | Müşterilerle tabii ki her zaman "siz" diye konuşuruz.
@@ -79,7 +79,7 @@ der Ansprechpartner (die Ansprechpartner) | irtibat kişisi | isim (e) | Bei Fra
 ## Çalışma koşulları
 die Arbeitsbedingungen | çalışma koşulları | isim (çoğul) | Die Arbeitsbedingungen in der neuen Firma sind deutlich besser. | Yeni şirketteki çalışma koşulları belirgin şekilde daha iyi.
 der Urlaubsanspruch (die Urlaubsansprüche) | izin hakkı | isim (e) | In Deutschland liegt der Urlaubsanspruch meist bei dreißig Tagen. | Almanya'da izin hakkı genellikle otuz gündür.
-die Kündigungsfrist (die Kündigungsfristen) | ihbar süresi | isim (d) | Meine Kündigungsfrist beträgt drei Monate zum Monatsende. | İhbar sürem ay sonuna kadar üç aydır.
+die Kündigungsfrist (die Kündigungsfristen) | ihbar süresi | isim (d) | Meine Kündigungsfrist beträgt drei Monate zum Monatsende. | İhbar sürem ay sonu itibarıyla üç aydır.
 unbefristet | süresiz | sıfat | Nach der Probezeit bekam sie einen unbefristeten Vertrag. | Deneme süresinden sonra süresiz bir sözleşme aldı.
 die Gewerkschaft (die Gewerkschaften) | sendika | isim (d) | Die Gewerkschaft fordert mehr Lohn für alle Pflegekräfte. | Sendika tüm bakım personeli için daha fazla ücret talep ediyor.
 der Arbeitgeber (die Arbeitgeber) | işveren | isim (e) | Der Arbeitgeber zahlt einen Teil der Fahrtkosten. | İşveren yol masraflarının bir kısmını ödüyor.

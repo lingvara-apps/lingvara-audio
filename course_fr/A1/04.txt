@@ -14,7 +14,7 @@ le jardin | bahçe | isim (e) | Les enfants jouent dans le jardin. | Çocuklar b
 la porte | kapı | isim (d) | Ferme la porte, s'il te plaît. | Kapıyı kapat lütfen.
 la fenêtre | pencere | isim (d) | J'ouvre la fenêtre. | Pencereyi açıyorum.
 le mur | duvar | isim (e) | Le mur est blanc. | Duvar beyaz.
-le sol | yer, zemin | isim (e) | Le livre est par terre, sur le sol. | Kitap yerde.
+le sol | yer, zemin | isim (e) | Le sol est froid. | Zemin soğuk.
 le plafond | tavan | isim (e) | Le plafond est très haut. | Tavan çok yüksek.
 l'escalier (m) | merdiven | isim (e) | Je prends l'escalier. | Merdivenden çıkıyorum.
 l'étage (m) | kat | isim (e) | J'habite au troisième étage. | Üçüncü katta oturuyorum.
@@ -31,7 +31,7 @@ l'armoire (f) | gardırop, dolap | isim (d) | Mes vêtements sont dans l'armoire
 le bureau | çalışma masası; ofis | isim (e) | Mon ordinateur est sur le bureau. | Bilgisayarım masanın üstünde.
 l'étagère (f) | raf; kitaplık | isim (d) | Les livres sont sur l'étagère. | Kitaplar rafta.
 la lampe | lamba | isim (d) | Allume la lampe, il fait sombre. | Lambayı yak, karanlık.
-le tapis | halı | isim (e) | C'est un tapis turc. | Bu bir Türk halısı.
+le tapis | halı | isim (e) | Le tapis est très doux. | Halı çok yumuşak.
 ## Mutfak
 le frigo | buzdolabı (gündelik) | isim (e) | Le lait est dans le frigo. | Süt buzdolabında.
 le four | fırın | isim (e) | Le gâteau est au four. | Pasta fırında.
@@ -42,7 +42,7 @@ la poubelle | çöp kutusu | isim (d) | La poubelle est pleine. | Çöp kutusu d
 le lave-vaisselle | bulaşık makinesi | isim (e) | Mets les verres dans le lave-vaisselle. | Bardakları bulaşık makinesine koy.
 la machine à laver | çamaşır makinesi | isim (d) | La machine à laver est en panne. | Çamaşır makinesi bozuk.
 le robinet | musluk | isim (e) | Ferme le robinet ! | Musluğu kapat!
-la cafetière | kahve makinesi; cezve | isim (d) | La cafetière est prête. | Kahve makinesi hazır.
+la cafetière | kahve makinesi; kahve demliği | isim (d) | La cafetière est prête. | Kahve makinesi hazır.
 ## Sofra takımı
 l'assiette (f) | tabak | isim (d) | Pose l'assiette sur la table. | Tabağı masaya koy.
 le verre | bardak; cam | isim (e) | Un verre d'eau, s'il te plaît. | Bir bardak su lütfen.

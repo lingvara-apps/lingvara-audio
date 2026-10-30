@@ -39,7 +39,7 @@ la basilica | bazilika | isim (d) | Abbiamo visitato la basilica di San Marco a 
 il belvedere | seyir terası | isim (e) | Dal belvedere si vede tutto il golfo di Napoli. | Seyir terasından bütün Napoli Körfezi görülüyor.
 il borgo | tarihî köy, kasaba | isim (e) | In Umbria ci sono tanti piccoli borghi medievali. | Umbria'da birçok küçük Orta Çağ kasabası var.
 le terme | kaplıca | isim (d) | Dopo la camminata ci siamo rilassati alle terme. | Yürüyüşten sonra kaplıcada dinlendik.
-il santuario | türbe, hac yeri, kutsal mekân | isim (e) | Ogni anno molti pellegrini salgono al santuario sulla montagna. | Her yıl birçok hacı dağdaki kutsal mekâna çıkıyor.
+il santuario | hac yeri, kutsal mekân | isim (e) | Ogni anno molti pellegrini salgono al santuario sulla montagna. | Her yıl birçok hacı dağdaki kutsal mekâna çıkıyor.
 la reggia | saray (kraliyet) | isim (d) | La Reggia di Caserta ha un giardino enorme. | Caserta Sarayı'nın devasa bir bahçesi var.
 il faro | deniz feneri; far | isim (e) | Al tramonto siamo andati a piedi fino al faro. | Gün batımında deniz fenerine kadar yürüdük.
 il lungomare | sahil yolu, kordon | isim (e) | La sera tutti passeggiano sul lungomare con un gelato. | Akşamları herkes elinde dondurmayla sahil yolunda yürüyor.
@@ -59,7 +59,7 @@ l'usanza (d) | âdet, gelenek | isim (d) | In Italia è usanza portare un dolce 
 il costume | töre; kostüm | isim (e) | Ogni regione ha i suoi usi e costumi. | Her bölgenin kendi örf ve âdetleri var.
 la mentalità | zihniyet | isim (d) | Vivere all'estero mi ha aperto la mentalità. | Yurt dışında yaşamak zihniyetimi açtı.
 lo stereotipo | kalıp yargı, klişe | isim (e) | Non tutti gli italiani mangiano pasta ogni giorno, è uno stereotipo. | Her İtalyan her gün makarna yemez, bu bir klişe.
-il luogo comune | basmakalıp düşünce | isim (e) | È un luogo comune che al Nord nessuno sia simpatico. | Kuzeyde kimsenin sevimli olmadığı basmakalıp bir düşünce.
+il luogo comune | basmakalıp düşünce, klişe | isim (e) | Che i gatti siano meno affettuosi dei cani è solo un luogo comune. | Kedilerin köpeklerden daha az sevecen olduğu sadece basmakalıp bir düşünce.
 adattarsi | uyum sağlamak | fiil · dönüşlü | All'inizio è stato difficile adattarsi agli orari dei pasti. | Başta yemek saatlerine uyum sağlamak zordu.
 lo shock culturale | kültür şoku | isim (e) | Il primo mese in Giappone ho avuto un vero shock culturale. | Japonya'daki ilk ayımda gerçek bir kültür şoku yaşadım.
 la diversità | çeşitlilik; farklılık | isim (d) | La diversità delle cucine regionali è una ricchezza italiana. | Bölgesel mutfakların çeşitliliği İtalya'nın bir zenginliği.
@@ -67,7 +67,7 @@ il galateo | görgü kuralları | isim (e) | Secondo il galateo non si mette il 
 integrarsi | kaynaşmak, entegre olmak | fiil · dönüşlü | Omar si è integrato bene nella nuova città grazie allo sport. | Omar spor sayesinde yeni şehre iyi kaynaştı.
 ## İtalyan gelenekleri
 la festa patronale | koruyucu aziz şenliği | isim (d) | Per la festa patronale il paese si riempie di luci. | Koruyucu aziz şenliğinde kasaba ışıklarla doluyor.
-il presepe | Noel'de İsa'nın doğumunu canlandıran maket | isim (e) | A Napoli ci sono botteghe che fanno presepi tutto l'anno. | Napoli'de bütün yıl doğum sahnesi maketi yapan dükkânlar var.
+il presepe | Noel doğum sahnesi (maket) | isim (e) | A Napoli ci sono botteghe che fanno presepi tutto l'anno. | Napoli'de bütün yıl doğum sahnesi maketi yapan dükkânlar var.
 la processione | dinî tören alayı | isim (d) | La processione passa per le strade del centro la domenica. | Tören alayı pazar günü merkezin sokaklarından geçiyor.
 il palio | palio (tarihî at yarışı) | isim (e) | Il Palio di Siena si corre due volte all'anno in piazza. | Siena'daki Palio yarışı yılda iki kez meydanda koşulur.
 la vendemmia | bağ bozumu | isim (d) | A settembre aiutiamo i nonni con la vendemmia. | Eylülde bağ bozumunda dedemlere yardım ediyoruz.
@@ -99,7 +99,7 @@ il risarcimento | tazminat | isim (e) | Per il ritardo di sei ore abbiamo chiest
 il mal di mare | deniz tutması | isim (e) | Sul traghetto ho sofferto di mal di mare tutto il viaggio. | Feribotta yolculuk boyunca beni deniz tuttu.
 l'overbooking (e) | fazla rezervasyon (overbooking) | isim (e) | Per colpa dell'overbooking siamo partiti con il volo successivo. | Fazla rezervasyon yüzünden bir sonraki uçuşla gittik.
 ## Yerleri betimlemek
-il viaggiatore | yolcu, gezgin | isim (e) | È una viaggiatrice esperta, ha visitato cinquanta paesi. | Deneyimli bir gezgin, elli ülke gezdi.
+il viaggiatore | yolcu, gezgin | isim (e) | È un viaggiatore esperto, ha visitato cinquanta paesi. | Deneyimli bir gezgin, elli ülke gezdi.
 mozzafiato | nefes kesici | sıfat | Dalla cima c'è un panorama mozzafiato sul lago. | Zirveden göle nefes kesici bir manzara var.
 suggestivo | etkileyici, büyüleyici | sıfat | Il castello illuminato di notte è molto suggestivo. | Geceleri ışıklandırılan kale çok etkileyici.
 pittoresco | pitoresk, resim gibi | sıfat | Le Cinque Terre sono villaggi pittoreschi sul mare. | Cinque Terre denize bakan resim gibi köylerdir.

@@ -39,7 +39,7 @@ die Morgenröte | şafak kızıllığı | isim (d) | Die Morgenröte färbte die
 der Lenz (die Lenze) | bahar (edebî); yaş | isim (e) | Der Lenz ist da, die Vögel singen wieder in den Bäumen. | Bahar geldi, kuşlar yine ağaçlarda şakıyor.
 die Woge (die Wogen) | büyük dalga | isim (d) | Die Wogen schlugen hoch gegen die steile Felsküste. | Büyük dalgalar dik kayalık kıyıya yükseklerden çarpıyordu.
 der Quell (die Quelle) | pınar, kaynak (edebî) | isim (e) | Der Brunnen galt im Dorf als Quell ewiger Jugend. | Çeşme köyde sonsuz gençlik pınarı sayılırdı.
-die Flur (die Fluren) | kır, tarla (edebî) | isim (d) | Über Wald und Flur zog der Duft von frisch gemähtem Heu. | Ormanın ve kırların üzerinde yeni biçilmiş ot kokusu dolaşıyordu.
+der Anger (die Anger) | köy çayırı, mera (edebî) | isim (e) | Auf dem Anger vor dem Dorf weideten im Sommer die Gänse. | Yazın köyün önündeki çayırda kazlar otlardı.
 das Gefilde (die Gefilde) | diyar, ova | isim (o) | Nach dem Tod gelangen die Helden in die seligen Gefilde. | Ölümden sonra kahramanlar mutlu diyarlara ulaşır.
 das Abendrot | gün batımı kızıllığı | isim (o) | Im Abendrot spiegelte sich der stille See wie flüssiges Gold. | Gün batımı kızıllığında durgun göl sıvı altın gibi parlıyordu.
 das Gestirn (die Gestirne) | gök cismi, yıldız | isim (o) | Die Seefahrer orientierten sich früher an den Gestirnen. | Denizciler eskiden yönlerini gök cisimlerine göre bulurdu.
@@ -55,7 +55,7 @@ das Labsal | ferahlık, merhem (ruha) | isim (o) | Nach dem langen Marsch war da
 das Weh | acı, dert (edebî) | isim (o) | Mit Weh im Herzen nahm sie Abschied von der Heimat. | Kalbinde bir acıyla yurduna veda etti.
 die Zier | süs, ziynet | isim (d) | Die alte Linde ist die schönste Zier des ganzen Dorfplatzes. | Yaşlı ıhlamur bütün köy meydanının en güzel süsüdür.
 ## Kişiler ve unvanlar
-der Gevatter (die Gevattern) | vaftiz babası; kaba dost (eski) | isim (e) | In der Sage tritt der Tod als Gevatter an das Bett des Kranken. | Efsanede ölüm, hastanın yatağının başına vaftiz babası olarak gelir.
+der Gevatter (die Gevattern) | vaftiz babası; ahbap (eski) | isim (e) | In der Sage tritt der Tod als Gevatter an das Bett des Kranken. | Efsanede ölüm, hastanın yatağının başına vaftiz babası olarak gelir.
 die Muhme (die Muhmen) | teyze, hala (eski) | isim (d) | Die alte Muhme erzählte den Kindern abends Geschichten am Ofen. | Yaşlı teyze akşamları sobanın başında çocuklara hikâyeler anlatırdı.
 der Oheim (die Oheime) | amca, dayı (eski) | isim (e) | Nach dem Tod des Vaters wuchs der Prinz bei seinem Oheim auf. | Babasının ölümünden sonra prens amcasının yanında büyüdü.
 der Knappe (die Knappen) | silahtar (şövalye yardımcısı); madenci | isim (e) | Der junge Knappe trug dem Ritter Schild und Lanze hinterher. | Genç silahtar şövalyenin kalkanını ve mızrağını arkasından taşıdı.
@@ -67,7 +67,7 @@ der Edelmann (die Edelleute) | soylu, asilzade | isim (e) | Der verarmte Edelman
 der Spielmann (die Spielleute) | gezgin ozan | isim (e) | Ein fahrender Spielmann sang auf der Burg von fernen Abenteuern. | Gezgin bir ozan kalede uzak maceralardan şarkılar söyledi.
 ## Eski gündelik hayat
 die Herberge (die Herbergen) | han, konaklama yeri | isim (d) | Die müden Pilger fanden in einer einfachen Herberge Unterkunft. | Yorgun hacılar basit bir handa barınacak yer buldu.
-die Kutsche (die Kutschen) | fayton, araba | isim (d) | Früher reiste man mit der Postkutsche tagelang von Stadt zu Stadt. | Eskiden insanlar posta arabasıyla günlerce şehirden şehre yolculuk ederdi.
+die Kutsche (die Kutschen) | fayton, araba | isim (d) | Früher reiste man mit der Kutsche oft tagelang von Stadt zu Stadt. | Eskiden insanlar faytonla çoğu zaman günlerce şehirden şehre yolculuk ederdi.
 der Taler (die Taler) | taler (eski gümüş para) | isim (e) | Für einen Taler bekam man damals ein ganzes Schwein. | O zamanlar bir talere koca bir domuz alınabilirdi.
 der Gulden (die Gulden) | gulden (eski altın para) | isim (e) | Der Kaufmann zahlte für das Haus zweihundert Gulden. | Tüccar ev için iki yüz gulden ödedi.
 die Elle (die Ellen) | arşın; dirsek kemiği | isim (d) | Der Schneider maß den Stoff noch mit der Elle ab. | Terzi kumaşı hâlâ arşınla ölçüyordu.
@@ -75,7 +75,7 @@ das Wams (die Wämser) | yelek, ceket (eski) | isim (o) | Der Bauer trug ein gro
 die Stube (die Stuben) | oturma odası (eski) | isim (d) | In der warmen Stube saß die ganze Familie um den Ofen. | Sıcak odada bütün aile sobanın etrafında oturuyordu.
 der Postillion (die Postillione) | posta arabacısı | isim (e) | Der Postillion blies in sein Horn, wenn die Kutsche ein Dorf erreichte. | Posta arabacısı araba bir köye vardığında borusunu öttürürdü.
 das Gesinde | hizmetkârlar (çiftlik) | isim (o) | Das gesamte Gesinde aß gemeinsam mit dem Bauern am langen Tisch. | Bütün hizmetkârlar çiftçiyle birlikte uzun masada yemek yerdi.
-der Groschen (die Groschen) | kuruş (eski para) | isim (e) | Bei mir ist der Groschen endlich gefallen, ich verstehe es jetzt. | Nihayet jeton düştü, şimdi anlıyorum.
+der Groschen (die Groschen) | kuruş (eski para) | isim (e) | Früher kostete ein Brötchen beim Bäcker nur ein paar Groschen. | Eskiden fırında bir küçük ekmek yalnızca birkaç kuruştu.
 ## Kader ve inanç sözcükleri
 die Fügung (die Fügungen) | takdir-i ilahi, kader | isim (d) | Dass wir uns nach zwanzig Jahren wiedertrafen, war eine glückliche Fügung. | Yirmi yıl sonra yeniden karşılaşmamız mutlu bir kader cilvesiydi.
 das Geschick (die Geschicke) | yazgı; beceri | isim (o) | Das Geschick des ganzen Landes lag nun in den Händen weniger Männer. | Bütün ülkenin yazgısı artık birkaç adamın elindeydi.
@@ -88,7 +88,7 @@ dereinst | bir gün, gelecekte; bir zamanlar | zarf | Dereinst wird man sich an 
 die Vorsehung | takdir, ilahi irade | isim (d) | Er glaubte fest an eine göttliche Vorsehung, die alles lenkt. | Her şeyi yöneten ilahi bir takdire sıkıca inanıyordu.
 weiland | eskiden, merhum (çok eski) | zarf | Hier wohnte weiland der berühmte Dichter mit seiner Familie. | Burada eskiden ünlü şair ailesiyle yaşardı.
 ## Edebî kalıplar
-es begab sich | vaktiyle oldu ki | ifade | Es begab sich aber zu der Zeit, dass ein Gebot ausging vom Kaiser. | O zamanlar imparatordan bir buyruk çıktığı vaki oldu.
+es begab sich | vaktiyle oldu ki | ifade | Es begab sich vor langer Zeit, dass ein armer Müller im Wald einen Schatz fand. | Vaktiyle, uzun zaman önce, yoksul bir değirmenci ormanda bir hazine buldu.
 mit Fug und Recht | haklı olarak, gayet yerinde | ifade | Man kann mit Fug und Recht behaupten, dass sie die beste Spielerin ist. | Onun en iyi oyuncu olduğu gayet haklı olarak iddia edilebilir.
 von dannen ziehen | oradan uzaklaşmak, çekip gitmek | deyim | Nach dem Fest zogen die Gaukler fröhlich singend von dannen. | Şenlikten sonra cambazlar neşeyle şarkı söyleyerek çekip gitti.
 gen Himmel | göğe doğru | ifade | Der Rauch des Opferfeuers stieg langsam gen Himmel. | Kurban ateşinin dumanı yavaşça göğe doğru yükseldi.

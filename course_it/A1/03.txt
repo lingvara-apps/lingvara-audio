@@ -7,7 +7,7 @@ quattordici | on dört | sayı | Mio figlio ha quattordici anni. | Oğlum on dö
 quindici | on beş | sayı | Il treno parte fra quindici minuti. | Tren on beş dakika sonra kalkıyor.
 sedici | on altı | sayı | Siamo in sedici in classe. | Sınıfta on altı kişiyiz.
 diciassette | on yedi | sayı | Costa diciassette euro. | On yedi avro tutuyor.
-diciotto | on sekiz | sayı | A diciotto anni guido. | On sekiz yaşında araba kullanıyorum.
+diciotto | on sekiz | sayı | Marta ha diciotto anni. | Marta on sekiz yaşında.
 diciannove | on dokuz | sayı | Ci sono diciannove gradi. | Hava on dokuz derece.
 venti | yirmi | sayı | Aspetto da venti minuti. | Yirmi dakikadır bekliyorum.
 ## Onluklar ve büyük sayılar
@@ -49,9 +49,9 @@ agosto | ağustos | isim | Ad agosto molti negozi chiudono. | Ağustosta birçok
 settembre | eylül | isim | A settembre ricomincia la scuola. | Eylülde okul yeniden başlar.
 ottobre | ekim | isim | A ottobre raccogliamo le olive. | Ekimde zeytin toplarız.
 novembre | kasım | isim | Novembre è un mese piovoso. | Kasım yağmurlu bir aydır.
-dicembre | aralık | isim | A dicembre torno in Turchia. | Aralıkta Türkiye'ye dönüyorum.
+dicembre | aralık | isim | A dicembre torno a casa. | Aralıkta eve dönüyorum.
 il calendario | takvim | isim (e) | Guardo il calendario. | Takvime bakıyorum.
-il Ferragosto | 15 Ağustos tatili | isim (e) | A Ferragosto tutti vanno al mare. | 15 Ağustos'ta herkes denize gider.
+il Ferragosto | 15 Ağustos tatili | isim (e) | A Ferragosto tutti vanno al mare. | Ferragosto'da herkes denize gider.
 la festa | bayram, tatil günü; parti | isim (d) | Domani è festa. | Yarın tatil.
 il Natale | Noel | isim (e) | A Natale mangiamo il panettone. | Noel'de panettone yeriz.
 ## Mevsimler
@@ -71,7 +71,7 @@ il minuto | dakika | isim (e) | Aspetta un minuto! | Bir dakika bekle!
 il secondo | saniye | isim (e) | Torno tra un secondo. | Bir saniyeye dönüyorum.
 mezzo | yarım, buçuk | sıfat | Sono le due e mezzo. | Saat iki buçuk.
 il quarto | çeyrek | isim (e) | Sono le tre e un quarto. | Saat üçü çeyrek geçiyor.
-il mezzogiorno | öğle vakti, saat on iki | isim (e) | Pranziamo a mezzogiorno. | Öğle on ikide yemek yeriz.
+il mezzogiorno | öğle vakti, saat on iki | isim (e) | Pranziamo a mezzogiorno. | Öğle yemeğini saat on ikide yeriz.
 la mezzanotte | gece yarısı | isim (d) | Torno a casa a mezzanotte. | Gece yarısı eve dönüyorum.
 che ore sono? | saat kaç? | ifade | Scusa, che ore sono? | Pardon, saat kaç?
 in punto | tam (saat) | ifade | Arrivo alle sei in punto. | Tam altıda geliyorum.
@@ -95,11 +95,11 @@ qualche volta | bazen | ifade | Qualche volta cucino io. | Bazen yemeği ben yap
 di solito | genellikle | ifade | Di solito mi alzo alle sette. | Genellikle yedide kalkarım.
 ogni | her | sıfat | Ogni giorno prendo l'autobus. | Her gün otobüse binerim.
 ancora | hâlâ; daha; yine | zarf | Sei ancora a casa? | Hâlâ evde misin?
-già | çoktan, zaten | zarf | Ho già mangiato. | Zaten yemek yedim.
+già | çoktan, zaten | zarf | Ho già mangiato. | Ben çoktan yedim.
 poi | sonra, ardından | zarf | Prima studio, poi esco. | Önce ders çalışırım, sonra çıkarım.
 prima | önce; ilk önce | zarf | Prima mangiamo! | Önce yemek yiyelim!
 ## Zaman ifadeleri
-primo | birinci, ilk | sayı | È la prima volta a Roma. | Roma'da ilk kez bulunuyorum.
+primo | birinci, ilk | sayı | È la mia prima volta a Roma. | Roma'ya ilk gelişim.
 terzo | üçüncü | sayı | Abito al terzo piano. | Üçüncü katta oturuyorum.
 ultimo | son, sonuncu | sıfat | È l'ultimo treno. | Bu son tren.
 prossimo | gelecek, önümüzdeki | sıfat | Ci vediamo la settimana prossima. | Gelecek hafta görüşürüz.

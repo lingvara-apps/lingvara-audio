@@ -38,7 +38,7 @@ die Klausel (die Klauseln) | madde, hüküm (sözleşme) | isim (d) | Diese Klau
 die Vertragsstrafe (die Vertragsstrafen) | cezai şart | isim (d) | Bei verspäteter Lieferung wird eine Vertragsstrafe von zehntausend Euro fällig. | Geç teslimatta on bin avroluk bir cezai şart doğar.
 die Vertragsdauer | sözleşme süresi | isim (d) | Die Vertragsdauer verlängert sich automatisch um ein Jahr, wenn niemand kündigt. | Kimse feshetmezse sözleşme süresi otomatik olarak bir yıl uzar.
 die Schriftform | yazılı şekil şartı | isim (d) | Änderungen dieses Vertrags bedürfen zu ihrer Wirksamkeit ausdrücklich der Schriftform. | Bu sözleşmedeki değişikliklerin geçerli olması için açıkça yazılı şekil şartı aranır.
-die Allgemeinen Geschäftsbedingungen | genel işlem koşulları | ifade | Lesen Sie vor der Unterschrift unbedingt auch die Allgemeinen Geschäftsbedingungen. | İmzalamadan önce mutlaka genel işlem koşullarını da okuyun.
+die Allgemeinen Geschäftsbedingungen | genel işlem koşulları | isim (çoğul) | Lesen Sie vor der Unterschrift unbedingt auch die Allgemeinen Geschäftsbedingungen. | İmzalamadan önce mutlaka genel işlem koşullarını da okuyun.
 die Gewährleistung (die Gewährleistungen) | ayıba karşı tekeffül, garanti yükümlülüğü | isim (d) | Die gesetzliche Gewährleistung beträgt in Deutschland zwei Jahre. | Almanya'da yasal ayıp sorumluluğu iki yıldır.
 die Haftung (die Haftungen) | sorumluluk, mesuliyet | isim (d) | Für Schäden durch unsachgemäße Nutzung übernimmt der Hersteller keine Haftung. | Üretici, uygunsuz kullanımdan doğan zararlar için sorumluluk kabul etmez.
 rechtsverbindlich | hukuken bağlayıcı | sıfat | Erst mit beiden Unterschriften wird die Vereinbarung rechtsverbindlich. | Anlaşma ancak iki imzayla hukuken bağlayıcı hâle gelir.
@@ -50,7 +50,7 @@ die Absichtserklärung (die Absichtserklärungen) | niyet mektubu, mutabakat | i
 der Vertragsabschluss (die Vertragsabschlüsse) | sözleşmenin imzalanması | isim (e) | Nach monatelangen Gesprächen steht der Vertragsabschluss nun unmittelbar bevor. | Aylar süren görüşmelerin ardından sözleşmenin imzalanması artık çok yakın.
 nachverhandeln | yeniden müzakere etmek | fiil | Der Lieferant möchte die Preise wegen gestiegener Rohstoffkosten nachverhandeln. | Tedarikçi artan hammadde maliyetleri yüzünden fiyatları yeniden müzakere etmek istiyor.
 die Konditionen | koşullar, şartlar | isim (çoğul) | Die Bank bot uns für den Kredit sehr günstige Konditionen an. | Banka bize kredi için çok uygun koşullar sundu.
-das Entgegenkommen | anlayış gösterme, karşı tarafa yaklaşma | isim (o) | Wir danken Ihnen für Ihr Entgegenkommen in dieser schwierigen Angelegenheit. | Bu zor konuda gösterdiğiniz anlayış için teşekkür ederiz.
+der Verhandlungsspielraum (die Verhandlungsspielräume) | pazarlık payı, müzakere esnekliği | isim (e) | Beim Preis haben wir leider kaum noch Verhandlungsspielraum. | Fiyatta ne yazık ki neredeyse hiç pazarlık payımız kalmadı.
 handelseinig werden | anlaşmaya varmak (ticari) | ifade | Nach zähen Verhandlungen wurden die beiden Firmen endlich handelseinig. | Çetin müzakerelerin ardından iki firma nihayet anlaşmaya vardı.
 die Rahmenvereinbarung (die Rahmenvereinbarungen) | çerçeve anlaşma | isim (d) | Die Rahmenvereinbarung regelt die Zusammenarbeit für die nächsten drei Jahre. | Çerçeve anlaşma önümüzdeki üç yıl için iş birliğini düzenliyor.
 der Interessenkonflikt (die Interessenkonflikte) | çıkar çatışması | isim (e) | Wegen eines Interessenkonflikts nahm sie an der Abstimmung nicht teil. | Çıkar çatışması nedeniyle oylamaya katılmadı.
@@ -89,7 +89,7 @@ skalieren | ölçeklendirmek | fiil | Das Geschäftsmodell lässt sich ohne gro�
 die Stellschraube (die Stellschrauben) | ayar vidası; kilit etken | isim (d) | Der Personalbestand ist die wichtigste Stellschraube bei den Kosten. | Personel sayısı maliyetlerdeki en önemli kilit etkendir.
 ## Kriz ve risk
 die Insolvenz (die Insolvenzen) | iflas, ödeme aczi | isim (d) | Der traditionsreiche Familienbetrieb musste im Frühjahr Insolvenz anmelden. | Köklü aile işletmesi ilkbaharda iflas başvurusunda bulunmak zorunda kaldı.
-die Restrukturierung (die Restrukturierungen) | borç yeniden yapılandırması, kurtarma | isim (d) | Ein externer Berater soll die finanzielle Restrukturierung des Unternehmens leiten. | Şirketin mali yeniden yapılandırmasını dışarıdan bir danışman yönetecek.
+die Restrukturierung (die Restrukturierungen) | yeniden yapılandırma (özellikle mali) | isim (d) | Ein externer Berater soll die finanzielle Restrukturierung des Unternehmens leiten. | Şirketin mali yeniden yapılandırmasını dışarıdan bir danışman yönetecek.
 das Risikomanagement | risk yönetimi | isim (o) | Ein wirksames Risikomanagement hätte den Verlust verhindern können. | Etkili bir risk yönetimi bu zararı önleyebilirdi.
 die Compliance | uyum (mevzuat ve kurallara) | isim (d) | Die Abteilung für Compliance überwacht die Einhaltung aller Gesetze und Regeln. | Uyum departmanı tüm yasa ve kurallara uyulmasını denetliyor.
 die Kurzarbeit | kısa çalışma (ödenekli) | isim (d) | Während der Krise wurde in vielen Betrieben Kurzarbeit angemeldet. | Kriz sırasında birçok işletmede kısa çalışma başvurusu yapıldı.
@@ -106,6 +106,6 @@ die Transparenz | şeffaflık | isim (d) | Investoren fordern mehr Transparenz b
 der Verhaltenskodex (die Verhaltenskodizes) | davranış kuralları, etik kod | isim (e) | Jeder neue Mitarbeiter muss den Verhaltenskodex des Unternehmens unterschreiben. | Her yeni çalışan şirketin davranış kurallarını imzalamak zorunda.
 die Gemeinwohlorientierung | kamu yararına yönelme | isim (d) | Genossenschaften zeichnen sich traditionell durch ihre Gemeinwohlorientierung aus. | Kooperatifler geleneksel olarak kamu yararına yönelimleriyle öne çıkar.
 die Vergütung (die Vergütungen) | ücret, ödeme | isim (d) | Die Vergütung des Vorstands ist an langfristige Ziele gekoppelt. | Yönetim kurulunun ücreti uzun vadeli hedeflere bağlı.
-die Stiftung (die Stiftungen) | vakıf | isim (d) | Ein Teil des Gewinns fließt in eine gemeinnützige Stiftung für Bildung. | Kârın bir kısmı eğitim alanında çalışan yararlı bir vakfa aktarılıyor.
+die Stiftung (die Stiftungen) | vakıf | isim (d) | Ein Teil des Gewinns fließt in eine gemeinnützige Stiftung für Bildung. | Kârın bir kısmı eğitim alanında çalışan kâr amacı gütmeyen bir vakfa aktarılıyor.
 das Gütesiegel (die Gütesiegel) | kalite damgası, sertifika | isim (o) | Das Gütesiegel garantiert faire Arbeitsbedingungen in der Produktion. | Bu kalite damgası üretimde adil çalışma koşullarını garanti ediyor.
 der Interessenausgleich | çıkarların dengelenmesi | isim (e) | Betriebsrat und Leitung einigten sich auf einen fairen Interessenausgleich. | İşçi temsilcileri ile yönetim çıkarların adil biçimde dengelenmesi üzerinde anlaştı.

@@ -80,7 +80,7 @@
 母集団 (boshūdan) | evren, ana kütle (istatistik) | isim | 標本が母集団を正しく代表しているかを確認する必要がある。 | Örneklemin evreni doğru temsil edip etmediğini kontrol etmek gerekir.
 平均値 (heikinchi) | ortalama değer | isim | 一部の極端な数値が平均値を大きく押し上げている。 | Bazı uç değerler ortalamayı epey yukarı çekiyor.
 中央値 (chūōchi) | medyan, ortanca | isim | 所得の分析では、平均値より中央値のほうが実態に近い。 | Gelir analizinde ortanca, ortalamadan daha gerçekçidir.
-標準偏差 (hyōjun hensa) | standart sapma | isim | 標準偏差が大きいほど、データのばらつきが大きいことを示す。 | Standart sapma büyüdükçe verilerin dağınıklığı da büyüktür.
+標準偏差 (hyōjun hensa) | standart sapma | isim | 標準偏差が大きいほど、データのばらつきが大きいことを示す。 | Standart sapma ne kadar büyükse verilerin dağılımı da o kadar geniştir.
 外れ値 (hazurechi) | aykırı değer | isim | 外れ値を除外した上で、もう一度計算し直した。 | Aykırı değerleri çıkardıktan sonra hesabı yeniden yaptık.
 推移 (suii) | seyir, değişim (zaman içinde) | isim | 過去二十年間の出生数の推移をグラフで示す。 | Son yirmi yılda doğum sayısının seyrini grafikle gösteriyoruz.
 分布 (bunpu) | dağılım | isim | この植物の分布は本州の山岳地帯に限られている。 | Bu bitkinin dağılımı Honşu'nun dağlık bölgeleriyle sınırlı.
@@ -90,7 +90,7 @@
 ## Akademik dünya
 学会 (gakkai) | bilimsel kurultay; bilim derneği | isim | 来月、京都で開かれる学会で研究成果を発表する。 | Gelecek ay Kyoto'daki kongrede araştırma sonuçlarımı sunacağım.
 紀要 (kiyō) | (üniversite) bülten, yıllık dergi | isim | 修士論文の一部を大学の紀要に投稿した。 | Yüksek lisans tezimin bir kısmını üniversitenin bültenine gönderdim.
-助教 (jokyō) | araştırma görevlisi (doktoralı) | isim | 彼女は博士号を取得した後、母校の助教に採用された。 | Doktorasını aldıktan sonra mezun olduğu üniversitede göreve alındı.
+助教 (jokyō) | araştırma görevlisi (doktoralı) | isim | 彼女は博士号を取得した後、母校の助教に採用された。 | Doktorasını aldıktan sonra mezun olduğu üniversitede araştırma görevlisi olarak işe alındı.
 学位論文 (gakui ronbun) | tez (diploma tezi) | isim | 学位論文の提出期限まで、あと二か月しかない。 | Tez teslim tarihine yalnızca iki ay kaldı.
 博士課程 (hakase katei) | doktora programı | isim | 博士課程に進むかどうか、まだ迷っている。 | Doktoraya devam edip etmeyeceğime hâlâ karar veremedim.
 共同研究 (kyōdō kenkyū) | ortak araştırma | isim | 海外の大学との共同研究が今年から始まった。 | Yurt dışındaki bir üniversiteyle ortak araştırma bu yıl başladı.

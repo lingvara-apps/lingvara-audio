@@ -8,7 +8,7 @@ die Marmelade (die Marmeladen) | reçel | isim (d) | Oma macht die Marmelade sel
 der Honig | bal | isim (e) | Ich esse Brot mit Honig. | Bal ile ekmek yiyorum.
 das Ei (die Eier) | yumurta | isim (o) | Möchtest du ein gekochtes Ei? | Haşlanmış yumurta ister misin?
 der Käse | peynir | isim (e) | Der Käse kommt aus der Schweiz. | Peynir İsviçre'den.
-die Wurst (die Würste) | sucuk, sosis; şarküteri | isim (d) | Ich esse keine Wurst. | Ben sosis yemem.
+die Wurst (die Würste) | sosis, salam (et ürünü) | isim (d) | Ich esse keine Wurst. | Ben sosis yemem.
 das Müsli (die Müslis) | müsli | isim (o) | Ich esse Müsli mit Joghurt. | Yoğurtlu müsli yiyorum.
 ## İçecekler
 der Kaffee (die Kaffees) | kahve | isim (e) | Trinkst du deinen Kaffee mit Milch? | Kahveni sütlü mü içiyorsun?
@@ -25,22 +25,22 @@ trinken (trank, getrunken) | içmek | fiil · düzensiz | Was möchtest du trink
 das Obst | meyve (genel) | isim (o) | Obst ist gesund. | Meyve sağlıklıdır.
 der Apfel (die Äpfel) | elma | isim (e) | Ich esse jeden Tag einen Apfel. | Her gün bir elma yerim.
 die Banane (die Bananen) | muz | isim (d) | Die Bananen sind noch grün. | Muzlar daha yeşil.
-die Orange (die Orangen) | portakal | isim (d) | Die Orangen kommen aus Spanien. | Portakallar İspanya'dan.
+die Kiwi (die Kiwis) | kivi | isim (d) | Die Kiwi ist grün und süß. | Kivi yeşil ve tatlı.
 die Birne (die Birnen) | armut; ampul | isim (d) | Die Birne ist süß und weich. | Armut tatlı ve yumuşak.
 die Erdbeere (die Erdbeeren) | çilek | isim (d) | Im Juni gibt es Erdbeeren. | Haziranda çilek olur.
 die Traube (die Trauben) | üzüm | isim (d) | Ich kaufe ein Kilo Trauben. | Bir kilo üzüm alıyorum.
 die Kirsche (die Kirschen) | kiraz | isim (d) | Die Kirschen sind sehr lecker. | Kirazlar çok lezzetli.
 die Zitrone (die Zitronen) | limon | isim (d) | Tee mit Zitrone, bitte. | Limonlu çay lütfen.
-die Melone (die Melonen) | kavun; karpuz | isim (d) | Im Sommer essen wir Melone. | Yazın karpuz yeriz.
+die Melone (die Melonen) | kavun; karpuz | isim (d) | Im Sommer essen wir Melone. | Yazın kavun yeriz.
 ## Sebzeler
 das Gemüse | sebze | isim (o) | Ich kaufe Gemüse auf dem Markt. | Pazardan sebze alıyorum.
 die Kartoffel (die Kartoffeln) | patates | isim (d) | Heute gibt es Kartoffeln mit Quark. | Bugün lor peynirli patates var.
 die Tomate (die Tomaten) | domates | isim (d) | Die Tomaten sind schön rot. | Domatesler kıpkırmızı.
 die Gurke (die Gurken) | salatalık; turşu | isim (d) | Ich schneide eine Gurke für den Salat. | Salata için bir salatalık doğruyorum.
-die Zwiebel (die Zwiebeln) | soğan | isim (d) | Die Zwiebel macht Tränen. | Soğan göz yaşartıyor.
+die Zwiebel (die Zwiebeln) | soğan | isim (d) | Ich brauche eine Zwiebel für die Suppe. | Çorba için bir soğana ihtiyacım var.
 die Karotte (die Karotten) | havuç | isim (d) | Hasen essen gern Karotten. | Tavşanlar havucu sever.
-der Salat (die Salate) | salata; marul | isim (e) | Als Vorspeise nehme ich einen Salat. | Başlangıç olarak bir salata alıyorum.
-der Paprika (die Paprikas) | biber | isim (e) | Der Paprika ist gelb und süß. | Biber sarı ve tatlı.
+der Salat (die Salate) | salata; marul | isim (e) | Ich mache einen Salat mit Tomaten. | Domatesli bir salata yapıyorum.
+die Paprika (die Paprikas) | biber | isim (d) | Die Paprika ist gelb und süß. | Biber sarı ve tatlı.
 die Bohne (die Bohnen) | fasulye | isim (d) | Ich mag grüne Bohnen. | Taze fasulyeyi severim.
 der Knoblauch | sarımsak | isim (e) | Das Essen hat zu viel Knoblauch. | Yemekte çok fazla sarımsak var.
 ## Et ve ana yemekler
@@ -74,7 +74,7 @@ das Trinkgeld (die Trinkgelder) | bahşiş | isim (o) | In Deutschland gibt man 
 der Kellner (die Kellner) | garson (erkek) | isim (e) | Der Kellner bringt die Getränke. | Garson içecekleri getiriyor.
 reservieren | rezervasyon yapmak, ayırtmak | fiil | Ich möchte einen Tisch reservieren. | Bir masa ayırtmak istiyorum.
 zahlen | ödemek | fiil | Wir möchten bitte zahlen. | Ödemek istiyoruz lütfen.
-die Vorspeise (die Vorspeisen) | başlangıç, ara sıcak | isim (d) | Als Vorspeise nehme ich die Suppe. | Başlangıç olarak çorbayı alıyorum.
+die Vorspeise (die Vorspeisen) | başlangıç yemeği | isim (d) | Als Vorspeise nehme ich die Suppe. | Başlangıç olarak çorbayı alıyorum.
 der Nachtisch (die Nachtische) | tatlı (yemek sonrası) | isim (e) | Zum Nachtisch gibt es Eis. | Tatlı olarak dondurma var.
 ## Tatlar
 süß | tatlı | sıfat | Der Kuchen ist sehr süß. | Kek çok tatlı.
@@ -89,7 +89,7 @@ kalt | soğuk | sıfat | Das Bier ist schön kalt. | Bira buz gibi.
 warm | ılık, sıcak | sıfat | Das Essen ist noch warm. | Yemek hâlâ sıcak.
 ## Öğünler
 essen (aß, gegessen) | yemek yemek | fiil · düzensiz | Was isst du gern? | Ne yemeyi seversin?
-das Essen (die Essen) | yemek | isim (o) | Das Essen ist fertig! | Yemek hazır!
+der Appetit | iştah | isim (e) | Ich habe heute keinen Appetit. | Bugün hiç iştahım yok.
 das Mittagessen (die Mittagessen) | öğle yemeği | isim (o) | Zum Mittagessen gibt es Fisch. | Öğle yemeğinde balık var.
 das Abendessen (die Abendessen) | akşam yemeği | isim (o) | Das Abendessen ist um sieben. | Akşam yemeği yedide.
 der Hunger | açlık | isim (e) | Ich habe großen Hunger. | Çok açım.
@@ -108,4 +108,4 @@ das Salz | tuz | isim (o) | Kannst du mir das Salz geben? | Tuzu verebilir misin
 der Pfeffer | karabiber | isim (e) | Ein bisschen Pfeffer, bitte. | Biraz karabiber lütfen.
 das Öl (die Öle) | yağ | isim (o) | Ich brate die Zwiebeln in Öl. | Soğanları yağda kavuruyorum.
 die Brezel (die Brezeln) | bretzel, Alman simidi | isim (d) | In Bayern isst man gern Brezeln. | Bavyera'da bretzel çok sevilir.
-der Apfelstrudel (die Apfelstrudel) | elmalı strudel | isim (e) | Der Apfelstrudel kommt aus Wien. | Elmalı strudel Viyana'dan gelir.
+der Apfelstrudel (die Apfelstrudel) | elmalı strudel | isim (e) | In Wien isst man gern Apfelstrudel. | Viyana'da elmalı strudel çok sevilir.

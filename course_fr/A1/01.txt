@@ -9,7 +9,7 @@ au revoir | hoşça kal; güle güle | ifade | Au revoir et merci ! | Hoşça ka
 ça va ? | nasılsın?; iyi misin? | ifade | Salut, Emre, ça va ? | Selam Emre, nasılsın?
 enchanté | memnun oldum (kadın: enchantée) | sıfat | Je suis Omar. Enchanté ! | Ben Omar. Memnun oldum!
 bienvenue | hoş geldin; hoş geldiniz | ünlem | Bienvenue à Lyon, Yuki ! | Lyon'a hoş geldin Yuki!
-madame | hanımefendi; ... Hanım | isim | Merci, madame. | Teşekkürler hanımefendi.
+madame | hanımefendi; ... Hanım | isim (d) | Merci, madame. | Teşekkürler hanımefendi.
 ## Nezaket
 merci | teşekkürler | ünlem | Merci beaucoup, Léa ! | Çok teşekkürler Léa!
 s'il vous plaît | lütfen (resmî ya da çoğul) | ifade | Un café, s'il vous plaît. | Bir kahve lütfen.
@@ -18,7 +18,7 @@ de rien | rica ederim; bir şey değil | ifade | Merci ! — De rien. | Teşekk�
 pardon | pardon; efendim? | ünlem | Pardon, je ne comprends pas. | Pardon, anlamıyorum.
 excusez-moi | affedersiniz | ifade | Excusez-moi, où est la gare ? | Affedersiniz, istasyon nerede?
 désolé | üzgünüm; kusura bakma | sıfat | Désolé, je suis en retard. | Kusura bakma, geç kaldım.
-oui | evet | zarf | Oui, je suis turc. | Evet, Türk'üm.
+oui | evet | zarf | Oui, je suis étudiant. | Evet, öğrenciyim.
 non | hayır | zarf | Non, merci. | Hayır, teşekkürler.
 d'accord | tamam; anlaştık | ifade | À huit heures ? — D'accord. | Saat sekizde mi? — Tamam.
 ## Kişi zamirleri
@@ -36,16 +36,16 @@ moi | ben (vurgulu) | zamir | Et moi, je suis Ali. | Ben de Ali'yim.
 toi | sen (vurgulu) | zamir | Et toi, ça va ? | Ya sen, iyi misin?
 lui | o (vurgulu, eril); ona | zamir | C'est lui, mon frère. | İşte o, benim erkek kardeşim.
 eux | onlar (vurgulu) | zamir | Je vais chez eux. | Onlara gidiyorum.
-mon (ma, mes) | benim | zamir | C'est mon ami Karim. | Bu arkadaşım Karim.
-ton (ta, tes) | senin | zamir | C'est ta clé ? | Bu senin anahtarın mı?
-son (sa, ses) | onun | zamir | Sa maison est jolie. | Onun evi güzel.
-notre (nos) | bizim | zamir | Voici notre fille. | İşte kızımız.
-votre (vos) | sizin | zamir | Votre nom, s'il vous plaît ? | Adınız lütfen?
+mon (ma, mes) | benim | sıfat | C'est mon ami Karim. | Bu arkadaşım Karim.
+ton (ta, tes) | senin | sıfat | C'est ta clé ? | Bu senin anahtarın mı?
+son (sa, ses) | onun | sıfat | Sa maison est jolie. | Onun evi güzel.
+notre (nos) | bizim | sıfat | Voici notre fille. | İşte kızımız.
+votre (vos) | sizin | sıfat | Votre nom, s'il vous plaît ? | Adınız lütfen?
 leur (leurs) | onların; onlara | zamir | Leurs enfants sont petits. | Onların çocukları küçük.
 à moi | benim; bana ait | ifade | Ce stylo est à moi. | Bu kalem benim.
 ## Soru kelimeleri
 qui | kim | zamir | Qui est-ce ? | Bu kim?
-qu'est-ce que | ne | ifade | Qu'est-ce que tu fais ? | Ne yapıyorsun?
+qu'est-ce que | ne (soru başında: Qu'est-ce que tu fais ?) | ifade | Qu'est-ce que tu fais ? | Ne yapıyorsun?
 quoi | ne (gündelik, vurgulu) | zamir | Tu fais quoi ce soir ? | Bu akşam ne yapıyorsun?
 où | nerede; nereye | zarf | Où est Mehdi ? | Mehdi nerede?
 quand | ne zaman | zarf | Tu pars quand ? | Ne zaman gidiyorsun?
@@ -57,23 +57,23 @@ est-ce que | ... mı? (soru başı) | ifade | Est-ce que tu parles anglais ? | �
 ## Tanışma
 s'appeler | adı ... olmak | fiil · dönüşlü | Je m'appelle Inès. | Adım Inès.
 le nom | ad; soyadı | isim (e) | Quel est ton nom ? | Adın ne?
-le prénom | ön ad, isim | isim (e) | Mon prénom est Théo. | İlk adım Théo.
-l'âge (m) | yaş | isim (e) | Quel est ton âge ? | Yaşın kaç?
+le prénom | ön ad, isim | isim (e) | Mon prénom est Théo. | Adım Théo.
+l'âge (m) | yaş | isim (e) | Tu as quel âge ? | Kaç yaşındasın?
 habiter | oturmak, ikamet etmek | fiil | J'habite à Marseille. | Marsilya'da oturuyorum.
-venir (venu) | gelmek | fiil · düzensiz | Je viens de Turquie. | Türkiye'den geliyorum.
+venir (venu) | gelmek | fiil · düzensiz | Je viens du Japon. | Japonya'dan geliyorum.
 être (été) | olmak; -dir | fiil · düzensiz | Nous sommes étudiants. | Biz öğrenciyiz.
 avoir (eu) | sahip olmak; -si olmak | fiil · düzensiz | J'ai vingt ans. | Yirmi yaşındayım.
 présenter | tanıştırmak; sunmak | fiil | Je te présente Manon. | Seni Manon'la tanıştırayım.
-monsieur | beyefendi; ... Bey | isim | Bonjour, monsieur ! | Merhaba beyefendi!
+monsieur | beyefendi; ... Bey | isim (e) | Bonjour, monsieur ! | Merhaba beyefendi!
 ## Ülkeler ve milliyetler
 la France | Fransa | isim (d) | J'adore la France. | Fransa'ya bayılıyorum.
-la Turquie | Türkiye | isim (d) | La Turquie est grande. | Türkiye büyük.
+l'Allemagne (f) | Almanya | isim (d) | L'Allemagne est grande. | Almanya büyük.
 la Belgique | Belçika | isim (d) | Bruxelles est en Belgique. | Brüksel Belçika'da.
 la Suisse | İsviçre | isim (d) | Il habite en Suisse. | İsviçre'de oturuyor.
 le Canada | Kanada | isim (e) | On parle français au Canada. | Kanada'da Fransızca konuşulur.
 le Sénégal | Senegal | isim (e) | Fatou vient du Sénégal. | Fatou Senegal'den geliyor.
 français | Fransız; Fransızca | sıfat | Elle est française. | O Fransız.
-turc (turque) | Türk; Türkçe | sıfat | Mon ami est turc. | Arkadaşım Türk.
+allemand (allemande) | Alman; Almanca | sıfat | Mon ami est allemand. | Arkadaşım Alman.
 anglais | İngiliz; İngilizce | sıfat | Tu parles anglais ? | İngilizce konuşuyor musun?
 étranger (étrangère) | yabancı | sıfat | Je suis étranger ici. | Ben burada yabancıyım.
 ## Dil ve iletişim
@@ -81,7 +81,7 @@ la langue | dil; lisan | isim (d) | Tu parles quelles langues ? | Hangi dilleri 
 parler | konuşmak | fiil | Je parle un peu français. | Biraz Fransızca konuşuyorum.
 comprendre (compris) | anlamak | fiil · düzensiz | Tu comprends ? | Anlıyor musun?
 répéter | tekrar etmek | fiil | Répétez, s'il vous plaît. | Tekrar eder misiniz lütfen?
-épeler | harflerle söylemek, kodlamak | fiil | Tu peux épeler ton nom ? | Adını kodlayabilir misin?
+épeler | harf harf söylemek, hecelemek | fiil | Tu peux épeler ton nom ? | Adını harf harf söyleyebilir misin?
 le mot | kelime, sözcük | isim (e) | Je ne connais pas ce mot. | Bu kelimeyi bilmiyorum.
 la phrase | cümle | isim (d) | Lis la phrase, Diego. | Cümleyi oku Diego.
 apprendre (appris) | öğrenmek | fiil · düzensiz | J'apprends le français. | Fransızca öğreniyorum.

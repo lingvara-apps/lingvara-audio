@@ -11,16 +11,16 @@
 科学哲学 (kagaku tetsugaku) | bilim felsefesi | isim | 科学哲学は「科学とは何か」という根本的な問いを扱う。 | Bilim felsefesi "bilim nedir" temel sorusunu ele alır.
 現象学 (genshōgaku) | fenomenoloji | isim | 現象学は、意識に現れる経験そのものを記述しようとする。 | Fenomenoloji bilince görünen deneyimin kendisini betimlemeye çalışır.
 ## Temel kavramlar
-存在 (sonzai) | varlık | isim | 神の存在をめぐる議論は、古代から続いている。 | Tanrının varlığı üzerine tartışma antik çağdan beri sürüyor.
+存在 (sonzai) | varlık | isim | 神の存在をめぐる議論は、古代から続いている。 | Tanrı'nın varlığı üzerine tartışma antik çağdan beri sürüyor.
 本質 (honshitsu) | öz | isim | 問題の本質を見極めなければ、根本的な解決はできない。 | Sorunun özünü kavramadan köklü bir çözüm bulunamaz.
-実在 (jitsuzai) | gerçeklik, gerçekten var olan | isim | プラトンは、イデアこそが真の実在であると考えた。 | Platon asıl gerçekliğin idealar olduğunu düşündü.
+実在 (jitsuzai) | gerçeklik, gerçekten var olan | isim | 古代ギリシャのある哲学者は、イデアこそが真の実在であると考えた。 | Antik Yunan'da bir filozof asıl gerçekliğin idealar olduğunu düşünmüştü.
 意識 (ishiki) | bilinç | isim | 機械が意識を持つことはありうるのだろうか。 | Bir makinenin bilinç sahibi olması mümkün mü acaba?
 理性 (risei) | akıl, us | isim | 啓蒙思想家たちは、人間の理性に大きな信頼を寄せた。 | Aydınlanma düşünürleri insan aklına büyük güven duydu.
-悟性 (gosei) | anlama yetisi (Kant'ta) | isim | カントは、感性と悟性が協力して認識が成立すると考えた。 | Kant bilginin duyarlık ile anlama yetisinin işbirliğiyle oluştuğunu düşündü.
+悟性 (gosei) | anlama yetisi (felsefe) | isim | 認識は、感性と悟性の協力によって成立すると考えられている。 | Bilginin duyarlık ile anlama yetisinin işbirliğiyle oluştuğu düşünülür.
 主体 (shutai) | özne | isim | 近代哲学は、考える主体としての「私」から出発した。 | Modern felsefe düşünen özne olarak "ben"den yola çıktı.
 客体 (kyakutai) | nesne (felsefi) | isim | 主体と客体の区別そのものを疑う哲学者もいる。 | Özne ile nesne ayrımının kendisinden şüphe eden filozoflar da var.
 観念 (kannen) | fikir, kavram (zihinsel) | isim | 時間という観念は、文化によって異なる形をとる。 | Zaman kavramı kültüre göre farklı biçimler alır.
-真理 (shinri) | hakikat | isim | ソクラテスは、対話を通して真理を探究した。 | Sokrates diyalog yoluyla hakikati araştırdı.
+真理 (shinri) | hakikat | isim | 古代の哲学者たちは、対話を通して真理を探究した。 | Antik filozoflar diyalog yoluyla hakikati araştırdı.
 ## Felsefi akımlar
 合理主義 (gōri shugi) | rasyonalizm, akılcılık | isim | 合理主義は、知識の源泉を理性に求める立場だ。 | Rasyonalizm bilginin kaynağını akılda arayan bir görüştür.
 経験論 (keikenron) | deneycilik, empirizm | isim | 経験論によれば、人間の心は生まれたときは白紙である。 | Deneyciliğe göre insan zihni doğduğunda boş bir sayfadır.
@@ -30,17 +30,17 @@
 懐疑論 (kaigiron) | şüphecilik | isim | 懐疑論者は、確実な知識など存在しないと主張した。 | Şüpheciler kesin bilgi diye bir şey olmadığını ileri sürdü.
 相対主義 (sōtai shugi) | görecilik | isim | 道徳の相対主義は、善悪の基準は文化によって異なると考える。 | Ahlaki görecilik, iyi ve kötünün ölçütünün kültüre göre değiştiğini düşünür.
 決定論 (ketteiron) | determinizm, belirlenimcilik | isim | 決定論が正しいなら、人間に自由な選択はあるのだろうか。 | Determinizm doğruysa insanın özgür seçimi var mı?
-二元論 (nigenron) | düalizm, ikicilik | isim | デカルトの二元論は、心と身体を別の実体と考えた。 | Descartes'ın düalizmi zihin ile bedeni ayrı tözler olarak gördü.
+二元論 (nigenron) | düalizm, ikicilik | isim | 心と身体を別の実体と考える二元論は、近代哲学に大きな影響を与えた。 | Zihin ile bedeni ayrı tözler sayan düalizm modern felsefeyi derinden etkiledi.
 虚無主義 (kyomu shugi) | nihilizm | isim | 虚無主義は、あらゆる価値や意味を否定する思想だ。 | Nihilizm her türlü değeri ve anlamı reddeden bir düşüncedir.
 ## Ahlak kuramları
-義務論 (gimuron) | ödev etiği, deontoloji | isim | カントの義務論によれば、嘘は結果にかかわらず許されない。 | Kant'ın ödev etiğine göre yalan sonucu ne olursa olsun kabul edilemez.
+義務論 (gimuron) | ödev etiği, deontoloji | isim | 義務論によれば、嘘は結果にかかわらず許されない。 | Ödev etiğine göre yalan, sonucu ne olursa olsun kabul edilemez.
 徳倫理 (toku rinri) | erdem etiği | isim | 徳倫理は「どう行動すべきか」より「どんな人間であるべきか」を問う。 | Erdem etiği "nasıl davranmalı"dan çok "nasıl bir insan olmalı" sorusunu sorar.
 善悪 (zen'aku) | iyi ve kötü | isim | 幼い子どもに善悪の区別を教えるのは親の務めだ。 | Küçük çocuğa iyiyle kötüyü ayırmayı öğretmek anne babanın görevidir.
 良心 (ryōshin) | vicdan | isim | 彼は良心に従って、会社の不正を告発した。 | Vicdanının sesini dinleyerek şirketin usulsüzlüğünü ihbar etti.
 美徳 (bitoku) | erdem | isim | 昔から、謙虚さは日本人の美徳とされてきた。 | Eskiden beri alçakgönüllülük Japonların erdemlerinden sayılır.
 悪徳 (akutoku) | kötülük, ahlaksızlık | isim | 悪徳商法の被害に遭わないよう注意が必要だ。 | Ahlaksız ticari yöntemlerin kurbanı olmamaya dikkat etmek gerek.
 正義論 (seigiron) | adalet kuramı | isim | 現代の正義論は、富の公平な分配のあり方を問う。 | Günümüz adalet kuramı servetin adil dağılımının nasıl olması gerektiğini sorgular.
-自律 (jiritsu) | özerklik (ahlaki) | isim | カントは、自らの理性に従う自律こそが自由だと説いた。 | Kant, kişinin kendi aklına uymasından ibaret özerkliğin asıl özgürlük olduğunu anlattı.
+自律 (jiritsu) | özerklik (ahlaki) | isim | 自らの理性に従う自律こそが真の自由だと考える哲学者もいる。 | Kişinin kendi aklına uymasından doğan özerkliğin asıl özgürlük olduğunu düşünen filozoflar da var.
 利他主義 (ritashugi) | özgecilik | isim | 利他主義的な行動が、なぜ進化の過程で生まれたのかは謎だ。 | Özgeci davranışların evrim sürecinde neden ortaya çıktığı bir bilmece.
 利己主義 (rikoshugi) | bencillik, egoizm | isim | 利己主義だけでは、社会は成り立たない。 | Yalnızca bencillikle toplum ayakta kalamaz.
 ## Etik tartışmalar
@@ -57,7 +57,7 @@
 ## Mantık ve akıl yürütme
 演繹 (en'eki) | tümdengelim | isim | 一般的な原理から個別の結論を導くのが演繹である。 | Genel ilkelerden tek tek sonuçlar çıkarmaya tümdengelim denir.
 帰納 (kinō) | tümevarım | isim | 多くの観察例から法則を導き出す方法を帰納という。 | Çok sayıda gözlemden yasa çıkarma yöntemine tümevarım denir.
-三段論法 (sandan ronpō) | tasım (üç önermeli çıkarım) | isim | 「人は死ぬ。ソクラテスは人だ。ゆえに死ぬ」は三段論法の典型だ。 | "İnsanlar ölümlüdür, Sokrates insandır, öyleyse ölümlüdür" tipik bir tasımdır.
+三段論法 (sandan ronpō) | tasım (üç önermeli çıkarım) | isim | 「鳥には羽がある。ペンギンは鳥だ。ゆえにペンギンには羽がある」は三段論法の典型だ。 | "Kuşların tüyü vardır, penguen bir kuştur, öyleyse penguenin tüyü vardır" tipik bir tasımdır.
 矛盾律 (mujunritsu) | çelişmezlik ilkesi | isim | 矛盾律によれば、ある命題とその否定が同時に真であることはない。 | Çelişmezlik ilkesine göre bir önerme ile değillemesi aynı anda doğru olamaz.
 二律背反 (niritsu haihan) | antinomi, çatışan iki ilke | isim | 自由と平等は、時に二律背反の関係になる。 | Özgürlük ile eşitlik bazen birbiriyle çatışan iki ilke hâline gelir.
 逆説 (gyakusetsu) | paradoks | isim | 「急がば回れ」は、一種の逆説的な教えである。 | "Acele işe şeytan karışır" bir tür paradoksal öğüttür.
@@ -68,11 +68,11 @@
 ## Doğu düşüncesi
 儒教 (jukyō) | Konfüçyüsçülük | isim | 江戸時代の武士の教育には、儒教が大きな影響を与えた。 | Edo dönemi samuray eğitiminde Konfüçyüsçülük büyük etki yaptı.
 道教 (dōkyō) | Taoculuk | isim | 道教は自然と調和して生きることを理想とする。 | Taoculuk doğayla uyum içinde yaşamayı ideal edinir.
-無為自然 (mui shizen) | doğallığa bırakma, zorlamadan yaşama (Taocu ilke) | deyim | 老子は、作為を捨てて無為自然に生きることを説いた。 | Laozi yapaylığı bırakıp her şeyi doğallığına bırakarak yaşamayı öğütledi.
-仁 (jin) | insanseverlik (Konfüçyüsçü erdem) | isim | 孔子は、人を思いやる「仁」を最高の徳とした。 | Konfüçyüs, başkasını gözeten insanseverliği en yüce erdem saydı.
+無為自然 (mui shizen) | doğallığa bırakma, zorlamadan yaşama (Taocu ilke) | deyim | 道家の思想家たちは、作為を捨てて無為自然に生きることを説いた。 | Taocu düşünürler yapaylığı bırakıp her şeyi doğallığına bırakarak yaşamayı öğütledi.
+仁 (jin) | insanseverlik (Konfüçyüsçü erdem) | isim | 儒教では、人を思いやる「仁」が最高の徳とされる。 | Konfüçyüsçülükte başkasını gözeten insanseverlik en yüce erdem sayılır.
 中庸 (chūyō) | itidal, orta yol | isim | 何事も極端に走らず、中庸を保つことが大切だ。 | Hiçbir şeyde aşırılığa kaçmadan orta yolu korumak önemlidir.
-性善説 (seizensetsu) | insanın özünde iyi olduğu görüşü | isim | 孟子の性善説によれば、人は生まれつき善である。 | Mencius'un görüşüne göre insan doğuştan iyidir.
-性悪説 (seiakusetsu) | insanın özünde kötü olduğu görüşü | isim | 荀子は性悪説を唱え、礼による教育の必要を説いた。 | Xunzi insanın özünde kötü olduğunu savunup terbiye yoluyla eğitimin gerekliliğini anlattı.
+性善説 (seizensetsu) | insanın özünde iyi olduğu görüşü | isim | 性善説に立てば、罰よりも教育で人を導くべきだということになる。 | İnsanın özünde iyi olduğu görüşünden yola çıkılırsa insanları cezayla değil eğitimle yönlendirmek gerekir.
+性悪説 (seiakusetsu) | insanın özünde kötü olduğu görüşü | isim | 性悪説を唱えた思想家は、礼による教育の必要を説いた。 | İnsanın özünde kötü olduğunu savunan düşünür terbiye yoluyla eğitimin gerekliliğini anlattı.
 知行合一 (chikō gōitsu) | bilgi ile eylemin birliği | deyim | 知行合一とは、知ることと行うことは一つだという教えだ。 | Bilgi ile eylemin birliği, bilmek ile yapmanın tek bir şey olduğu öğretisidir.
 陰陽 (in'yō) | yin-yang | isim | 陰陽の考え方では、相反するものが互いを補い合う。 | Yin-yang anlayışında karşıt şeyler birbirini tamamlar.
 温故知新 (onko chishin) | eskiyi öğrenerek yeniyi kavramak | deyim | 温故知新の精神で、伝統の中から新しい発想を探りたい。 | Eskiyi bilerek yeniyi kavrama anlayışıyla geleneğin içinde yeni fikirler aramak istiyorum.
@@ -85,27 +85,27 @@
 帰する (kisuru) | ...e bağlamak, ...e varmak (sonuç) | fiil | 失敗の原因を、すべて個人の責任に帰するのは誤りだ。 | Başarısızlığın nedenini tamamen bireysel sorumluluğa bağlamak yanlıştır.
 還元する (kangen suru) | indirgemek; geri kazandırmak | fiil | 心の働きを、脳の化学反応だけに還元できるだろうか。 | Zihnin işleyişini yalnızca beyindeki kimyasal tepkimelere indirgeyebilir miyiz?
 規定する (kitei suru) | belirlemek, tanımlamak | fiil | 言語は、私たちの考え方をある程度規定している。 | Dil düşünme biçimimizi bir ölçüde belirler.
-措定する (sotei suru) | önermek, ortaya koymak (felsefi) | fiil | ヘーゲルは、自己が他者を措定する過程を論じた。 | Hegel benliğin ötekini ortaya koyma sürecini tartıştı.
+措定する (sotei suru) | önermek, ortaya koymak (felsefi) | fiil | 議論の出発点として、まず一つの仮説を措定する。 | Tartışmanın çıkış noktası olarak önce bir varsayım ortaya koyuyoruz.
 包含する (hōgan suru) | kapsamak, içermek | fiil | 「文化」という語は、非常に幅広い意味を包含している。 | "Kültür" sözcüğü son derece geniş bir anlam yelpazesini kapsar.
 ## Varoluş ve insan
 自由意志 (jiyū ishi) | özgür irade | isim | 人間に本当に自由意志があるのかは、古くからの難問だ。 | İnsanın gerçekten özgür iradesi olup olmadığı eski bir çetin sorudur.
 宿命 (shukumei) | yazgı, kader (kaçınılmaz) | isim | 彼は家業を継ぐことを、自分の宿命として受け入れた。 | Aile işini devralmayı kendi yazgısı olarak kabullendi.
-実存 (jitsuzon) | varoluş | isim | サルトルは「実存は本質に先立つ」と述べた。 | Sartre "varoluş özden önce gelir" dedi.
-不条理 (fujōri) | saçmalık, absürd | isim | カミュは、人生の不条理と向き合うことを説いた。 | Camus hayatın absürdlüğüyle yüzleşmeyi öğütledi.
+実存 (jitsuzon) | varoluş | isim | 実存の不安と向き合うことが、この哲学の出発点である。 | Varoluş kaygısıyla yüzleşmek bu felsefenin çıkış noktasıdır.
+不条理 (fujōri) | saçmalık, absürd | isim | 人生の不条理と向き合いながらも、彼は希望を捨てなかった。 | Hayatın absürtlüğüyle yüzleşse de umudunu yitirmedi.
 人生観 (jinseikan) | hayat görüşü | isim | 大病を経験して、彼の人生観は大きく変わった。 | Ağır bir hastalık geçirince hayat görüşü büyük ölçüde değişti.
 死生観 (shiseikan) | ölüm ve yaşam anlayışı | isim | 日本人の死生観には、仏教の影響が色濃く表れている。 | Japonların ölüm ve yaşam anlayışında Budizmin etkisi belirgindir.
 生きがい (ikigai) | yaşama sevinci, yaşam amacı | isim | 定年後は、地域のボランティアが父の生きがいになっている。 | Emeklilikten sonra yerel gönüllülük babamın yaşama sevinci oldu.
 世界観 (sekaikan) | dünya görüşü | isim | その小説は、独特の世界観で多くの読者を魅了した。 | O roman kendine özgü dünya görüşüyle birçok okuru büyüledi.
 有限性 (yūgensei) | sonluluk | isim | 人間は自らの有限性を自覚することで、時間を大切にする。 | İnsan kendi sonluluğunun farkına vararak zamana değer verir.
 刹那 (setsuna) | an (çok kısa süre) | isim | 花火は刹那の輝きだからこそ美しい。 | Havai fişekler yalnızca bir anlık parıltı olduğu için güzeldir.
-## Ünlü felsefi sözler
-我思う、ゆえに我あり (ware omou, yue ni ware ari) | düşünüyorum, öyleyse varım | ifade | 「我思う、ゆえに我あり」は近代哲学の出発点とされる。 | "Düşünüyorum, öyleyse varım" modern felsefenin başlangıç noktası sayılır.
-汝自身を知れ (nanji jishin o shire) | kendini bil | ifade | 「汝自身を知れ」という言葉は、古代ギリシャの神殿に刻まれていた。 | "Kendini bil" sözü antik Yunan tapınağına kazınmıştı.
-無知の知 (muchi no chi) | bilmediğini bilmek | ifade | ソクラテスの「無知の知」は、謙虚に学ぶ姿勢の大切さを教える。 | Sokrates'in "bilmediğini bilmek" anlayışı alçakgönüllülükle öğrenmenin önemini öğretir.
-万物は流転する (banbutsu wa ruten suru) | her şey akar | ifade | ヘラクレイトスは「万物は流転する」と考えた。 | Herakleitos "her şey akar" diye düşündü.
-人間は考える葦である (ningen wa kangaeru ashi de aru) | insan düşünen bir kamıştır | ifade | パスカルは「人間は考える葦である」と書き、思考の尊さを説いた。 | Pascal "insan düşünen bir kamıştır" diye yazıp düşüncenin değerini anlattı.
-善く生きる (yoku ikiru) | iyi yaşamak (erdemli) | ifade | ソクラテスは、ただ生きるのではなく善く生きることが大切だと言った。 | Sokrates yalnızca yaşamanın değil, iyi yaşamanın önemli olduğunu söyledi.
+## Felsefi kavramlar ve ifadeler
+不可知論 (fukachiron) | agnostisizm, bilinemezcilik | isim | 不可知論は、神が存在するかどうかは人間には知りえないと考える。 | Bilinemezcilik, Tanrı'nın var olup olmadığının insan tarafından bilinemeyeceğini düşünür.
+汎神論 (hanshinron) | panteizm, tümtanrıcılık | isim | 汎神論では、自然そのものが神であると考えられる。 | Panteizmde doğanın kendisi Tanrı olarak görülür.
+無知の知 (muchi no chi) | bilmediğini bilmek | ifade | 自分が知らないことを自覚する「無知の知」は、学びの出発点だ。 | Kişinin bilmediğini bilmesi öğrenmenin çıkış noktasıdır.
+目的論 (mokutekiron) | teleoloji, erekbilim | isim | 目的論は、あらゆるものには目指す目的があると考える。 | Teleoloji her şeyin yöneldiği bir amacı olduğunu düşünür.
+自己同一性 (jiko dōitsusei) | özdeşlik, kişisel kimlik | isim | 記憶を失っても、人の自己同一性は保たれるのだろうか。 | İnsan belleğini yitirse de kişisel kimliği korunur mu acaba?
+善く生きる (yoku ikiru) | iyi yaşamak (erdemli) | ifade | ただ生きるのではなく、善く生きることが大切だ。 | Yalnızca yaşamak değil, iyi yaşamak önemlidir.
 価値判断 (kachi handan) | değer yargısı | isim | 科学は事実を扱い、価値判断はしないと言われる。 | Bilimin olgularla uğraştığı, değer yargısında bulunmadığı söylenir.
-先験的 (senkenteki) | a priori, deneyimden önce gelen | sıfat | カントは、時間と空間を先験的な形式だと考えた。 | Kant zaman ve mekânı deneyimden önce gelen biçimler olarak düşündü.
-弁証法 (benshōhō) | diyalektik | isim | ヘーゲルの弁証法は、正・反・合の三段階で説明される。 | Hegel'in diyalektiği tez, antitez ve sentez olmak üzere üç aşamada açıklanır.
+先験的 (senkenteki) | a priori, deneyimden önce gelen | sıfat | 時間と空間を先験的な形式とみなす哲学者もいる。 | Zaman ve mekânı deneyimden önce gelen biçimler olarak gören filozoflar da var.
+弁証法 (benshōhō) | diyalektik | isim | 弁証法は、正・反・合の三段階で説明されることが多い。 | Diyalektik çoğu zaman tez, antitez ve sentez olmak üzere üç aşamada açıklanır.
 思考実験 (shikō jikken) | düşünce deneyi | isim | 哲学では、現実には不可能な状況を想定した思考実験がよく使われる。 | Felsefede gerçekte imkânsız durumları varsayan düşünce deneylerine sıkça başvurulur.

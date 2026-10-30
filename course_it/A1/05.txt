@@ -13,7 +13,7 @@ l'uovo (e) (le uova) | yumurta | isim (e) | Mangio due uova. | İki yumurta yiyo
 ## İçecekler
 l'acqua (d) | su | isim (d) | Vorrei un bicchiere d'acqua. | Bir bardak su istiyorum.
 il caffè | kahve; kafe | isim (e) | Prendiamo un caffè al bar? | Barda bir kahve içelim mi?
-il tè | çay | isim (e) | Ali beve il tè turco. | Ali Türk çayı içiyor.
+il tè | çay | isim (e) | Ali beve il tè verde. | Ali yeşil çay içiyor.
 il succo di frutta | meyve suyu | isim (e) | Un succo di frutta, per favore. | Bir meyve suyu, lütfen.
 il vino | şarap | isim (e) | Il vino toscano è famoso. | Toskana şarabı ünlüdür.
 la birra | bira | isim (d) | Una birra fresca, grazie. | Soğuk bir bira, teşekkürler.
@@ -44,7 +44,7 @@ la zucchina | kabak | isim (d) | Compro due zucchine. | İki kabak alıyorum.
 il peperone | biber (dolmalık) | isim (e) | Il peperone rosso è dolce. | Kırmızı biber tatlı.
 la melanzana | patlıcan | isim (d) | La parmigiana si fa con le melanzane. | Parmigiana patlıcanla yapılır.
 ## Et, peynir ve temel gıdalar
-la carne | et | isim (d) | Non mangio la carne. | Et yemem.
+la carne | et | isim (d) | Non mangio carne. | Et yemem.
 il pollo | tavuk (yemek) | isim (e) | Il pollo è nel forno. | Tavuk fırında.
 il prosciutto | jambon | isim (e) | Un panino con il prosciutto. | Jambonlu bir sandviç.
 il formaggio | peynir | isim (e) | L'Italia ha tanti formaggi. | İtalya'nın çok çeşit peyniri var.
@@ -61,7 +61,7 @@ fare la spesa | alışveriş yapmak (gıda) | ifade | Oggi faccio la spesa. | Bu
 il chilo | kilo | isim (e) | Un chilo di pomodori, per favore. | Bir kilo domates, lütfen.
 l'etto (e) | yüz gram | isim (e) | Due etti di prosciutto, grazie. | İki yüz gram jambon, teşekkürler.
 il sacchetto | poşet | isim (e) | Vuole un sacchetto? | Poşet ister misiniz?
-il carrello | alışveriş arabası | isim (e) | Il carrello è pieno. | Araba dolu.
+il carrello | alışveriş arabası | isim (e) | Il carrello è pieno. | Alışveriş arabası dolu.
 la cassa | kasa | isim (d) | Pago alla cassa. | Kasada ödüyorum.
 fresco (freschi) | taze; serin | sıfat | Il pesce è fresco? | Balık taze mi?
 la bottiglia | şişe | isim (d) | Una bottiglia di vino rosso. | Bir şişe kırmızı şarap.
@@ -81,7 +81,7 @@ la pizza | pizza | isim (d) | La pizza napoletana è la migliore. | Napoli pizza
 gli spaghetti | spagetti | isim (e) | Mangio gli spaghetti al pomodoro. | Domatesli spagetti yiyorum.
 la lasagna | lazanya | isim (d) | La domenica la mamma fa la lasagna. | Pazar günleri annem lazanya yapar.
 il risotto | risotto (İtalyan pirinç yemeği) | isim (e) | Il risotto alla milanese è giallo. | Milano usulü risotto sarıdır.
-il gelato | dondurma | isim (e) | Un gelato al pistacchio, per favore. | Antep fıstıklı bir dondurma, lütfen.
+il gelato | dondurma | isim (e) | Un gelato al pistacchio, per favore. | Fıstıklı bir dondurma, lütfen.
 il tiramisù | tiramisu | isim (e) | Il tiramisù è il mio dolce preferito. | Tiramisu en sevdiğim tatlı.
 la mozzarella | mozzarella peyniri | isim (d) | Pomodoro e mozzarella, che buono! | Domates ve mozzarella, ne güzel!
 il parmigiano | parmesan peyniri | isim (e) | Metti il parmigiano sulla pasta. | Makarnanın üstüne parmesan koy.

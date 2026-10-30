@@ -71,11 +71,11 @@
 緯度 (ido) | enlem | isim | 東京とアテネは、ほぼ同じ緯度に位置している。 | Tokyo ile Atina neredeyse aynı enlemdedir.
 経度 (keido) | boylam | isim | 経度が十五度違うと、時差は一時間になる。 | Boylam on beş derece farklı olunca saat farkı bir saat olur.
 赤道 (sekidō) | ekvator | isim | 赤道付近では、昼と夜の長さがほぼ等しい。 | Ekvator yakınında gece ile gündüz neredeyse eşittir.
-標高 (hyōkō) | rakım | isim | 富士山の標高は三七七六メートルである。 | Fuji Dağı'nın rakımı üç bin yedi yüz yetmiş altı metredir.
+標高 (hyōkō) | rakım | isim | 富士山の標高は三千七百七十六メートルである。 | Fuji Dağı'nın rakımı üç bin yedi yüz yetmiş altı metredir.
 方位 (hōi) | yön (pusula yönü) | isim | 地図を読むときは、まず方位を確かめることが大切だ。 | Harita okurken önce yönleri kontrol etmek önemlidir.
 地形図 (chikeizu) | topoğrafik harita | isim | 登山の前に、地形図でルートを確認しておこう。 | Tırmanıştan önce rotayı topoğrafik haritada kontrol edelim.
 子午線 (shigosen) | meridyen | isim | 日本の標準時は、明石市を通る子午線を基準にしている。 | Japonya'nın standart saati Akashi şehrinden geçen meridyene dayanır.
-測量 (sokuryō) | ölçme, haritacılık ölçümü | isim | 伊能忠敬は十七年かけて日本全国を測量した。 | Inō Tadataka on yedi yıl harcayarak bütün Japonya'yı ölçtü.
+測量 (sokuryō) | ölçme, haritacılık ölçümü | isim | 江戸時代のある測量家は、十七年かけて日本全国を測量した。 | Edo döneminde bir haritacı on yedi yıl harcayarak bütün Japonya'yı ölçtü.
 ## Beşerî coğrafya
 人口密度 (jinkō mitsudo) | nüfus yoğunluğu | isim | 東京都の人口密度は全国で最も高い。 | Tokyo'nun nüfus yoğunluğu ülkedeki en yüksek değerdir.
 集落 (shūraku) | yerleşim yeri, köy | isim | 山あいの集落には、今も数十人が暮らしている。 | Dağlar arasındaki yerleşimde hâlâ birkaç on kişi yaşıyor.

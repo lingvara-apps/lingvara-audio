@@ -67,7 +67,7 @@ la scolastica | skolastik felsefe | isim (d) | La scolastica medievale cercò di
 il neoplatonismo | Yeni Platonculuk | isim (e) | Il neoplatonismo ebbe grande influenza sugli umanisti fiorentini del Quattrocento. | Yeni Platonculuk on beşinci yüzyıl Floransalı hümanistleri üzerinde büyük etki yaptı.
 ## Mantık ve akıl yürütme
 il paradosso | paradoks | isim (e) | Il paradosso di Zenone sembra dimostrare che il movimento è impossibile. | Zenon paradoksu hareketin imkânsız olduğunu kanıtlıyor gibi görünür.
-la tautologia | totoloji, eşsöz | isim (d) | Dire che il domani verrà domani è una semplice tautologia. | Yarın yarın gelecek demek basit bir totolojidir.
+la tautologia | totoloji, eşsöz | isim (d) | Dire che le regole sono regole è una semplice tautologia. | "Kurallar kuraldır" demek basit bir totolojidir.
 la contraddizione | çelişki | isim (d) | Il suo ragionamento contiene una contraddizione evidente tra la prima e l'ultima tesi. | Akıl yürütmesi ilk ve son tez arasında apaçık bir çelişki içeriyor.
 il principio di non contraddizione | çelişmezlik ilkesi | isim (e) | Il principio di non contraddizione vieta di affermare e negare la stessa cosa insieme. | Çelişmezlik ilkesi aynı şeyi aynı anda hem onaylamayı hem reddetmeyi yasaklar.
 la dimostrazione per assurdo | olmayana ergi yöntemi | isim (d) | Con una dimostrazione per assurdo il matematico ha provato il teorema. | Matematikçi teoremi olmayana ergi yöntemiyle kanıtladı.
@@ -80,13 +80,13 @@ il ragionamento induttivo | tümevarımsal akıl yürütme | isim (e) | Il ragio
 speculare | kuramsal düşünmek, spekülasyon yapmak | fiil | I filosofi greci speculavano sull'origine e sulla struttura del cosmo. | Yunan filozofları evrenin kökeni ve yapısı üzerine kuramsal düşünürdü.
 argomentare | gerekçelendirmek, kanıt getirmek | fiil | Lo studente deve argomentare la propria tesi con esempi concreti. | Öğrenci tezini somut örneklerle gerekçelendirmelidir.
 dedurre (dedotto) | çıkarsamak, tümdengelimle varmak | fiil · düzensiz | Dalle premesse si può dedurre una sola conclusione valida. | Öncüllerden tek bir geçerli sonuç çıkarsanabilir.
-inferire (inferto) | çıkarım yapmak | fiil · düzensiz | Dal suo silenzio possiamo inferire che non era d'accordo. | Sessizliğinden aynı fikirde olmadığı çıkarımını yapabiliriz.
+inferire | çıkarım yapmak | fiil | Dal suo silenzio possiamo inferire che non era d'accordo. | Sessizliğinden aynı fikirde olmadığı çıkarımını yapabiliriz.
 astrarre (astratto) | soyutlamak | fiil · düzensiz | La mente sa astrarre il concetto di cerchio da molti oggetti rotondi. | Zihin daire kavramını pek çok yuvarlak nesneden soyutlayabilir.
 trascendere (trasceso) | aşmak, ötesine geçmek | fiil · düzensiz | Per molti mistici l'esperienza religiosa trascende ogni linguaggio umano. | Pek çok mistiğe göre dinî deneyim her türlü insan dilini aşar.
 concettualizzare | kavramsallaştırmak | fiil | Il filosofo ha cercato di concettualizzare l'esperienza del tempo vissuto. | Filozof yaşanan zaman deneyimini kavramsallaştırmaya çalıştı.
 teorizzare | kuramlaştırmak | fiil | Nel Principe Machiavelli teorizzò per primo l'autonomia della politica dalla morale. | Machiavelli Hükümdar'da siyasetin ahlaktan bağımsızlığını ilk kez kuramlaştırdı.
 relativizzare | göreceleştirmek | fiil | Conoscere altre culture aiuta a relativizzare le proprie certezze. | Başka kültürleri tanımak kendi kesinliklerini göreceleştirmeye yardım eder.
-postulare l'esistenza | varlığını varsaymak | ifade | Kant ritiene necessario postulare l'esistenza di Dio per la morale. | Kant ahlak için Tanrı'nın varlığını varsaymayı zorunlu görür.
+sussumere (sussunto) | kapsamak, bir kavramın altına almak | fiil · düzensiz | Secondo Kant l'intelletto sussume i dati dei sensi sotto concetti generali. | Kant'a göre anlık duyu verilerini genel kavramların altına toplar.
 ## Felsefi sıfatlar
 ontologico | ontolojik, varlıksal | sıfat | L'argomento ontologico cerca di provare l'esistenza di Dio dal suo concetto. | Ontolojik kanıt Tanrı'nın varlığını onun kavramından kanıtlamaya çalışır.
 trascendentale | aşkınsal | sıfat | Kant chiama trascendentale lo studio delle condizioni della conoscenza. | Kant bilginin koşullarının incelenmesine aşkınsal der.

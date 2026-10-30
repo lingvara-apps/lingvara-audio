@@ -4,7 +4,7 @@
 = Das ist der Mann, der neben uns wohnt. | Bu, yanımızda oturan adam.
 = Die Frau, die ich gestern getroffen habe, ist Ärztin. | Dün tanıştığım kadın doktor.
 = Das Buch, das du mir geschenkt hast, ist spannend. | Bana hediye ettiğin kitap sürükleyici.
-= Die Kollegin, mit der ich arbeite, kommt aus Graz. | Birlikte çalıştığım meslektaş Graz'lı.
+= Die Kollegin, mit der ich arbeite, kommt aus Graz. | Birlikte çalıştığım meslektaş Grazlı.
 ? Der Film, ___ wir gestern gesehen haben, war toll. | den | der | dem
 ? Die Freundin, ___ ich das Buch geliehen habe, ist umgezogen. | der | die | dem
 ? Das Haus, in ___ ich aufgewachsen bin, steht noch. | dem | das | der
@@ -26,7 +26,7 @@
 > Passiv'de işi yapan değil, iş önemlidir. "werden + Partizip II" ile kurulur: Präsens "wird gebaut", Präteritum "wurde gebaut", Perfekt "ist gebaut worden".
 > İşi yapan belirtilecekse "von + Dativ" kullanılır. Modal fiille: "muss repariert werden".
 = Die Briefe werden jeden Morgen verteilt. | Mektuplar her sabah dağıtılıyor.
-= Die Brücke wurde 1950 gebaut. | Köprü 1950'de inşa edildi.
+= Die Brücke wurde neunzehnhundertfünfzig gebaut. | Köprü bin dokuz yüz elli yılında inşa edildi.
 = Der Dieb ist von der Polizei festgenommen worden. | Hırsız polis tarafından yakalandı.
 = Das Auto muss dringend repariert werden. | Arabanın acilen tamir edilmesi gerekiyor.
 ? Die Rechnungen ___ jeden Monat bezahlt. | werden | wird | worden

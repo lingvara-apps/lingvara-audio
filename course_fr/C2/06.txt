@@ -19,7 +19,7 @@ le santon | Provence Noel figürü | isim (e) | Chaque année, elle ajoute un no
 la crèche provençale | Provence Noel beşik sahnesi | isim (d) | La crèche provençale de l'église représente tout un village en miniature. | Kilisedeki Provence beşik sahnesi minyatür bir köyü bütünüyle tasvir ediyor.
 les treize desserts | on üç tatlı (Provence Noel geleneği) | isim (çoğul) | En Provence, les treize desserts sont servis après la messe de minuit. | Provence'ta on üç tatlı gece yarısı ayininden sonra servis edilir.
 le calendrier de l'Avent | Advent takvimi | isim (e) | Chaque matin de décembre, les enfants ouvrent une case du calendrier de l'Avent. | Aralığın her sabahı çocuklar Advent takviminin bir gözünü açar.
-le gui | ökseotu | isim (e) | Selon la tradition, on s'embrasse sous le gui à minuit le 31 décembre. | Geleneğe göre 31 Aralık gece yarısı ökseotunun altında öpüşülür.
+le gui | ökseotu | isim (e) | Selon la tradition, on s'embrasse sous le gui à minuit le trente et un décembre. | Geleneğe göre otuz bir aralık gece yarısı ökseotunun altında öpüşülür.
 la couronne de l'Avent | Advent çelengi | isim (d) | Une bougie de la couronne de l'Avent est allumée chaque dimanche. | Advent çelengindeki mumlardan biri her pazar yakılır.
 ## Frankofon gelenekler
 la cabane à sucre | akçaağaç şurubu kulübesi (Quebec) | isim (d) | Au printemps, les Québécois vont manger à la cabane à sucre en famille. | Baharda Quebecliler aileyle akçaağaç şurubu kulübesine yemeğe gider.
@@ -80,8 +80,8 @@ la pause déjeuner | öğle arası | isim (d) | En France, la pause déjeuner du
 le buste de Marianne | Marianne büstü (Cumhuriyet simgesi) | isim (e) | Le buste de Marianne trône dans la salle des mariages de chaque mairie. | Marianne büstü her belediyenin nikâh salonunda başköşede durur.
 le coq gaulois | Gal horozu | isim (e) | Le coq gaulois figure sur le maillot de nombreuses équipes nationales. | Gal horozu pek çok ulusal takımın formasında yer alır.
 le drapeau tricolore | üç renkli bayrak | isim (e) | Le drapeau tricolore flotte sur tous les bâtiments publics. | Üç renkli bayrak bütün kamu binalarında dalgalanır.
-la Marseillaise | Marseillaise (Fransa ulusal marşı) | isim (d) | La Marseillaise a été composée en 1792 par Rouget de Lisle. | Marseillaise 1792'de Rouget de Lisle tarafından bestelendi.
-l'Académie française (f) | Fransız Akademisi | isim (d) | L'Académie française veille sur la langue depuis 1635. | Fransız Akademisi 1635'ten beri dili gözetiyor.
+la Marseillaise | Marseillaise (Fransa ulusal marşı) | isim (d) | La Marseillaise a été composée à la fin du XVIIIe siècle, pendant la Révolution. | Marseillaise XVIII. yüzyılın sonunda, Devrim sırasında bestelendi.
+l'Académie française (f) | Fransız Akademisi | isim (d) | L'Académie française veille sur la langue depuis près de quatre siècles. | Fransız Akademisi yaklaşık dört yüzyıldır dili gözetiyor.
 le 11 Novembre | 11 Kasım (Ateşkes Günü) | isim (e) | Le 11 Novembre, des cérémonies ont lieu devant chaque monument aux morts. | 11 Kasım'da her şehitler anıtının önünde törenler yapılır.
 l'Hexagone (m) | Altıgen (Fransa anakarası) | isim (e) | Ce chanteur québécois est encore peu connu dans l'Hexagone. | Bu Quebecli şarkıcı Fransa'da henüz pek tanınmıyor.
 l'outre-mer (m) | denizaşırı Fransız toprakları | isim (e) | La Guadeloupe et la Réunion font partie de l'outre-mer français. | Guadeloupe ve Réunion Fransa'nın denizaşırı topraklarındandır.
@@ -107,5 +107,5 @@ le café-concert | kafe konser | isim (e) | Au XIXe siècle, le café-concert é
 le guignol | kukla tiyatrosu (Lyon) | isim (e) | Les enfants crient pour prévenir le guignol que le gendarme arrive. | Çocuklar jandarmanın geldiğini kuklaya haber vermek için bağırıyor.
 les bouquinistes | Sen kıyısı ikinci el kitapçıları | isim (çoğul) | Les bouquinistes des quais de Seine vendent de vieux livres et des gravures. | Sen rıhtımlarının ikinci el kitapçıları eski kitaplar ve gravürler satıyor.
 le french cancan | French cancan dansı | isim (e) | Le french cancan a fait la renommée des cabarets parisiens. | French cancan Paris kabarelerinin ününü yaptı.
-le café littéraire | edebiyat kafesi | isim (e) | Sartre et Beauvoir écrivaient dans un café littéraire de Saint-Germain. | Sartre ve Beauvoir Saint-Germain'deki bir edebiyat kafesinde yazardı.
-la chanson à texte | sözleri ön planda olan şarkı | isim (d) | Brassens reste le maître incontesté de la chanson à texte. | Brassens sözleri ön planda olan şarkının tartışmasız ustası olmayı sürdürüyor.
+le café littéraire | edebiyat kafesi | isim (e) | Autrefois, de nombreux écrivains venaient travailler dans ce café littéraire de Saint-Germain. | Eskiden pek çok yazar Saint-Germain'deki bu edebiyat kafesine çalışmaya gelirdi.
+la chanson à texte | sözleri ön planda olan şarkı | isim (d) | Dans la chanson à texte, les paroles comptent davantage que la mélodie. | Sözleri ön planda olan şarkıda sözler ezgiden daha önemlidir.

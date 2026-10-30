@@ -28,7 +28,7 @@ der Kartoffelsalat (die Kartoffelsalate) | patates salatası | isim (e) | Omas K
 die Spätzle | şpetzle (Güney Almanya erişte makarnası) | isim (çoğul) | In Schwaben isst man gern Käsespätzle. | Şvabya'da peynirli şpetzle çok sevilir.
 die Weißwurst (die Weißwürste) | beyaz sosis (Bavyera) | isim (d) | Weißwurst isst man in Bayern zum Frühstück. | Bavyera'da beyaz sosis kahvaltıda yenir.
 der Sauerbraten (die Sauerbraten) | sirkeli dana rosto | isim (e) | Am Sonntag kocht Mama Sauerbraten. | Pazar günü annem sirkeli rosto pişiriyor.
-der Leberkäse | Leberkäse (fırında köfte ekmeği) | isim (e) | Ein Leberkäse im Brötchen, bitte. | Ekmek arası bir Leberkäse lütfen.
+der Leberkäse | Leberkäse (fırında pişmiş köfte somunu) | isim (e) | Ein Leberkäse im Brötchen, bitte. | Ekmek arası bir Leberkäse lütfen.
 die Schwarzwälder Kirschtorte (die Schwarzwälder Kirschtorten) | Kara Orman pastası | isim (d) | Zum Geburtstag gibt es Schwarzwälder Kirschtorte. | Doğum gününde Kara Orman pastası var.
 der Döner (die Döner) | döner | isim (e) | In Deutschland ist der Döner sehr beliebt. | Almanya'da döner çok sevilir.
 der Eintopf (die Eintöpfe) | sulu yemek, türlü | isim (e) | Im Winter kochen wir oft Eintopf. | Kışın sık sık sulu yemek pişiririz.
@@ -53,14 +53,14 @@ die Ananas (die Ananas) | ananas | isim (d) | Die Ananas kommt aus Costa Rica. |
 die Mango (die Mangos) | mango | isim (d) | Die Mango ist noch nicht reif. | Mango daha olgun değil.
 die Nuss (die Nüsse) | ceviz, fındık, kuruyemiş | isim (d) | Im Kuchen sind Nüsse. | Kekin içinde ceviz var.
 die Mandarine (die Mandarinen) | mandalina | isim (d) | Im Winter esse ich viele Mandarinen. | Kışın çok mandalina yerim.
-die Feige (die Feigen) | incir | isim (d) | Die Feigen kommen aus der Türkei. | İncirler Türkiye'den.
+die Feige (die Feigen) | incir | isim (d) | Frische Feigen sind sehr süß. | Taze incirler çok tatlı.
 ## Sebzeler
 der Spinat | ıspanak | isim (e) | Die Kinder mögen keinen Spinat. | Çocuklar ıspanağı sevmiyor.
 der Kohl | lahana | isim (e) | Kohl ist im Winter billig. | Lahana kışın ucuz.
 der Brokkoli (die Brokkolis) | brokoli | isim (e) | Ich dünste den Brokkoli fünf Minuten. | Brokoliyi beş dakika buharda pişiriyorum.
 die Erbse (die Erbsen) | bezelye | isim (d) | Zum Reis gibt es Erbsen. | Pilavın yanında bezelye var.
 der Kürbis (die Kürbisse) | balkabağı | isim (e) | Im Herbst koche ich Kürbissuppe. | Sonbaharda balkabağı çorbası pişiririm.
-die Aubergine (die Auberginen) | patlıcan | isim (d) | Meine Mutter macht gefüllte Auberginen. | Annem karnıyarık yapıyor.
+die Aubergine (die Auberginen) | patlıcan | isim (d) | Meine Mutter macht gefüllte Auberginen. | Annem patlıcan dolması yapıyor.
 die Zucchini (die Zucchini) | kabak | isim (d) | Die Zucchini schneide ich in Scheiben. | Kabakları dilimliyorum.
 der Spargel (die Spargel) | kuşkonmaz | isim (e) | Im Mai essen die Deutschen viel Spargel. | Mayısta Almanlar çok kuşkonmaz yer.
 der Mais | mısır | isim (e) | Im Sommer grillen wir Mais. | Yazın mısır közleriz.
@@ -95,7 +95,7 @@ hart | sert; zor | sıfat | Das Brot von gestern ist hart. | Dünkü ekmek sertl
 knusprig | çıtır | sıfat | Die Brötchen sind schön knusprig. | Küçük ekmekler çıtır çıtır.
 saftig | sulu | sıfat | Der Braten ist sehr saftig. | Rosto çok sulu.
 fettig | yağlı | sıfat | Die Pommes sind mir zu fettig. | Patates kızartması bana çok yağlı geliyor.
-zart | yumuşacık, körpe | sıfat | Das Fleisch ist ganz zart. | Et lokum gibi.
+zart | yumuşacık, körpe | sıfat | Das Fleisch ist ganz zart. | Et yumuşacık.
 angebrannt | dibi tutmuş, yanmış | sıfat | Oh nein, der Reis ist angebrannt! | Eyvah, pilavın dibi tuttu!
 fertig | hazır; bitmiş | sıfat | Ist das Essen bald fertig? | Yemek birazdan hazır olur mu?
 ## Sofrada
@@ -107,5 +107,5 @@ die Beilage (die Beilagen) | garnitür, yan yemek | isim (d) | Als Beilage gibt 
 das Hauptgericht (die Hauptgerichte) | ana yemek | isim (o) | Als Hauptgericht nehme ich den Fisch. | Ana yemek olarak balığı alıyorum.
 das Buffet (die Buffets) | açık büfe | isim (o) | Das Frühstück im Hotel ist ein Buffet. | Oteldeki kahvaltı açık büfe.
 die Brotzeit (die Brotzeiten) | ara öğün (Bavyera) | isim (d) | Um zehn machen wir Brotzeit. | Saat onda ara öğün yapıyoruz.
-die Jause (die Jausen) | ara öğün (Avusturya) | isim (d) | Zur Jause gibt es Brot mit Speck. | Ara öğünde pastırmalı ekmek var.
+die Jause (die Jausen) | ara öğün (Avusturya) | isim (d) | Zur Jause gibt es Brot mit Käse. | Ara öğünde peynirli ekmek var.
 das Znüni (die Znüni) | sabah ara öğünü (İsviçre) | isim (o) | Die Kinder nehmen ein Znüni in die Schule mit. | Çocuklar okula sabah atıştırmalığı götürüyor.

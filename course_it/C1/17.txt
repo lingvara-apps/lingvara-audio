@@ -1,6 +1,6 @@
 # UNIT: Anlam farkları | Stare kalıpları, sıfat konumu, çift çoğullar, yanıltıcı sözcükler
 ## Stare ile anlam kalıpları
-stare fresco | yandı gülüm keten helva, boşuna beklemek | ifade | Se aspetti che ti chiami lui per primo, stai fresco! | Önce onun seni aramasını bekliyorsan, boşuna beklersin!
+stare fresco | boşuna beklemek, eli boş kalmak | ifade | Se aspetti che ti chiami lui per primo, stai fresco! | Önce onun seni aramasını bekliyorsan, boşuna beklersin!
 stare a cuore | çok önemsemek, kalbinde yer etmek | ifade | La salute dei suoi pazienti gli sta molto a cuore. | Hastalarının sağlığını çok önemsiyor.
 stare sulle sue | mesafeli durmak, içine kapanık olmak | ifade | Il nuovo collega sta sempre sulle sue e non parla con nessuno. | Yeni iş arkadaşı hep mesafeli duruyor ve kimseyle konuşmuyor.
 starsene | (kendi hâlinde) kalmak, oturmak | fiil · dönüşlü | Preferisce starsene a casa tranquillo piuttosto che andare alla festa. | Partiye gitmektense evde kendi hâlinde oturmayı tercih ediyor.
@@ -11,7 +11,7 @@ stare a guardare | seyirci kalmak | ifade | Non possiamo stare a guardare mentre
 stare all'erta | tetikte olmak | ifade | Con tutti questi furti in zona bisogna stare all'erta anche di giorno. | Bölgedeki bunca hırsızlıkla gündüz bile tetikte olmak gerekiyor.
 stare alla larga | uzak durmak | ifade | Ti consiglio di stare alla larga da quel tipo, non è affidabile. | O adamdan uzak durmanı tavsiye ederim, güvenilir değil.
 ## Sıfat konumu I
-un grand'uomo | büyük (önemli) bir adam | ifade | Garibaldi è ricordato come un grand'uomo della storia italiana. | Garibaldi İtalyan tarihinin büyük bir adamı olarak anılır.
+un grand'uomo | büyük (önemli) bir adam | ifade | Il vecchio medico del paese è ricordato da tutti come un grand'uomo. | Kasabanın yaşlı doktoru herkes tarafından büyük bir adam olarak anılır.
 un uomo grande | iri yarı bir adam | ifade | Alla porta c'era un uomo grande e grosso con una giacca nera. | Kapıda siyah ceketli iri yarı bir adam vardı.
 un pover'uomo | zavallı bir adam | ifade | Quel pover'uomo ha perso la moglie e il lavoro nello stesso anno. | O zavallı adam aynı yıl hem karısını hem işini kaybetti.
 un uomo povero | yoksul bir adam | ifade | Era un uomo povero, ma ha fatto studiare tutti i suoi figli. | Yoksul bir adamdı ama bütün çocuklarını okuttu.
@@ -47,12 +47,12 @@ le lenzuola | çarşaflar (takım) | isim (çoğul) | Ogni domenica la nonna ste
 il fine – la fine | amaç – son | ifade | Il fine del progetto è chiaro, ma la fine dei lavori è ancora lontana. | Projenin amacı net ama işlerin sonu hâlâ uzak.
 il capitale – la capitale | sermaye – başkent | ifade | Per aprire una sede nella capitale serve molto capitale. | Başkentte şube açmak için çok sermaye gerekir.
 il fronte – la fronte | cephe – alın | ifade | Il soldato tornò dal fronte con una cicatrice sulla fronte. | Asker cepheden alnında bir yara iziyle döndü.
-il radio – la radio | radyum – radyo | ifade | Alla radio parlavano della scoperta del radio da parte dei Curie. | Radyoda Curie'lerin radyumu keşfinden söz ediyorlardı.
+il radio – la radio | radyum – radyo | ifade | Alla radio parlavano della scoperta del radio e dei suoi usi in medicina. | Radyoda radyumun keşfinden ve tıptaki kullanımlarından söz ediyorlardı.
 il boa – la boa | boa yılanı – şamandıra | ifade | Il boa dello zoo è lungo quanto la distanza dalla riva alla boa. | Hayvanat bahçesindeki boa yılanı kıyıdan şamandıraya olan mesafe kadar uzun.
 il manico – la manica | sap – kol (giysi) | ifade | Ho preso la padella per il manico e mi sono sporcato la manica. | Tavayı sapından tuttum ve kolumu kirlettim.
 il velo – la vela | tül, duvak – yelken | ifade | La sposa con il velo bianco salì sulla barca a vela. | Beyaz duvaklı gelin yelkenli tekneye bindi.
 il gambo – la gamba | sap (bitki) – bacak | ifade | Il bambino si è graffiato la gamba con il gambo spinoso della rosa. | Çocuk gülün dikenli sapıyla bacağını çizdi.
-il palmo – la palma | avuç içi – palmiye | ifade | Sotto la palma la zingara gli lesse il palmo della mano. | Palmiyenin altında falcı kadın onun avucunu okudu.
+il palmo – la palma | avuç içi – palmiye | ifade | Sotto la palma l'indovina gli lesse il palmo della mano. | Palmiyenin altında falcı kadın onun avucunu okudu.
 il mento – la menta | çene – nane | ifade | Dopo il gelato alla menta aveva il mento tutto sporco. | Naneli dondurmadan sonra çenesi her yerinden kirlenmişti.
 ## Yanıltıcı benzer sözcükler
 eminente | seçkin, ünlü | sıfat | Al convegno ha parlato un eminente studioso di storia medievale. | Kongrede seçkin bir Orta Çağ tarihi uzmanı konuştu.
@@ -76,20 +76,20 @@ morbido | yumuşak (morbid değil) | sıfat | Questo cuscino di piume è morbidi
 la confidenza | samimiyet, teklifsizlik (confidence değil) | isim (d) | Non darle troppa confidenza, perché in fondo la conosci appena. | Ona fazla yüz verme, çünkü aslında onu daha yeni tanıyorsun.
 il magistrato | yargıç ya da savcı (yargı mensubu) | isim (e) | Il magistrato ha interrogato i testimoni per tutta la mattinata. | Yargı mensubu bütün sabah tanıkları sorguladı.
 assistere a (assistito) | hazır bulunmak, izlemek (assist değil) | fiil · düzensiz | Ieri sera abbiamo assistito a un concerto bellissimo all'aperto. | Dün akşam açık havada çok güzel bir konser izledik.
-## Türkçeye geçmiş sözcükler
-la fortuna | şans, talih (Tr. fırtına ile karıştırma) | isim (d) | Che fortuna trovare parcheggio proprio davanti al teatro! | Tiyatronun tam önünde park yeri bulmak ne şans!
+## Başka dillere geçmiş sözcükler
+la fortuna | şans, talih | isim (d) | Che fortuna trovare parcheggio proprio davanti al teatro! | Tiyatronun tam önünde park yeri bulmak ne şans!
 il fiasco | hasır kaplı şişe; fiyasko | isim (e) | Sul tavolo dell'osteria c'era un fiasco di vino rosso. | Meyhanenin masasında hasır kaplı bir şişe kırmızı şarap vardı.
 la marina | donanma; sahil şeridi | isim (d) | Mio nonno ha fatto il servizio militare nella marina a Taranto. | Dedem askerliğini Taranto'da donanmada yaptı.
-il vapore | buhar (Tr. vapur buradan) | isim (e) | Le verdure cotte al vapore conservano meglio le vitamine. | Buharda pişen sebzeler vitaminleri daha iyi korur.
+il vapore | buhar | isim (e) | Le verdure cotte al vapore conservano meglio le vitamine. | Buharda pişen sebzeler vitaminleri daha iyi korur.
 il bando | ilan, duyuru; yasak | isim (e) | Il comune ha pubblicato un bando per assegnare le case popolari. | Belediye sosyal konutları dağıtmak için bir ilan yayımladı.
 il fanale | fener (araç, gemi) | isim (e) | Il fanale posteriore della bicicletta non funziona più. | Bisikletin arka feneri artık çalışmıyor.
-la tavola | sofra, masa; levha | isim (d) | A tavola, la domenica, la famiglia si riunisce per ore. | Pazar günleri aile saatlerce sofrada toplanır.
+la poppa | kıç (gemi) | isim (d) | Il capitano osservava il mare in tempesta dalla poppa della nave. | Kaptan fırtınalı denizi geminin kıçından izliyordu.
 la lira | eski İtalyan parası; lir (çalgı) | isim (d) | Prima dell'euro un caffè costava circa mille lire. | Avrodan önce bir kahve yaklaşık bin lirete mal oluyordu.
 la bussola | pusula | isim (d) | Senza la bussola i navigatori medievali non avrebbero attraversato i mari. | Pusula olmasaydı Orta Çağ denizcileri denizleri aşamazdı.
 la scialuppa | filika | isim (d) | I passeggeri furono messi in salvo con le scialuppe di salvataggio. | Yolcular cankurtaran filikalarıyla kurtarıldı.
 ## Üslup farkı taşıyan eşanlamlılar
 decedere (deceduto) | vefat etmek (resmî) | fiil · düzensiz | Il paziente è deceduto in ospedale nella notte tra sabato e domenica. | Hasta cumartesiyi pazara bağlayan gece hastanede vefat etti.
-crepare | geberme, nalları dikmek (kaba) | fiil | Fa un caldo da crepare, accendi subito il ventilatore! | Geberecek kadar sıcak, vantilatörü hemen aç!
+crepare | gebermek, nalları dikmek (kaba) | fiil | Fa un caldo da crepare, accendi subito il ventilatore! | Geberecek kadar sıcak, vantilatörü hemen aç!
 cibarsi | beslenmek (resmî) | fiil · dönüşlü | Questi uccelli si cibano soprattutto di insetti e semi. | Bu kuşlar özellikle böcekler ve tohumlarla beslenir.
 abbuffarsi | tıka basa yemek | fiil · dönüşlü | A Natale ci siamo abbuffati di panettone e tortellini. | Noel'de panettone ve tortellini ile tıka basa doyduk.
 la dimora | konut, mesken (edebî) | isim (d) | La villa fu per secoli la dimora estiva dei conti. | Villa yüzyıllarca kontların yazlık meskeni oldu.

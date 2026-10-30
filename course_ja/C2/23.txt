@@ -1,6 +1,6 @@
 # UNIT: Finans ve entelektüel dil | Borsa, vergi, kredi; soyut fiiller, sıfatlar, kavramlar ve tipler
 ## Borsa
-日経平均 (Nikkei heikin) | Nikkei ortalaması (Tokyo borsa endeksi) | isim | 日経平均は、三日連続で値上がりした。 | Nikkei ortalaması üç gün üst üste yükseldi.
+株価指数 (kabuka shisū) | borsa endeksi | isim | 主要な株価指数は、三日連続で値上がりした。 | Başlıca borsa endeksleri üç gün üst üste yükseldi.
 地合い (jiai) | piyasanın genel havası | isim | 今日は地合いが悪く、ほとんどの銘柄が下がった。 | Bugün piyasanın havası kötüydü, hisselerin çoğu düştü.
 高値 (takane) | yüksek fiyat, zirve fiyat | isim | 金の価格が、史上最高値を更新した。 | Altın fiyatı tarihî zirvesini yeniledi.
 安値 (yasune) | düşük fiyat, dip | isim | 株価が年初来の安値をつけた。 | Hisse fiyatı yılbaşından bu yana en düşük seviyesini gördü.
@@ -57,7 +57,7 @@
 ## Soyut fiiller
 内包する (naihō suru) | içinde barındırmak | fiil | その制度は、多くの矛盾を内包している。 | O sistem pek çok çelişkiyi içinde barındırıyor.
 捨象する (shashō suru) | soyutlarken dışarıda bırakmak | fiil | モデルは、細かな違いを捨象して全体の傾向を示す。 | Model küçük farkları dışarıda bırakıp genel eğilimi gösterir.
-止揚する (shiyō suru) | aufheben, sentezde aşmak (diyalektik) | fiil | 対立する二つの考えを止揚して、新しい理論が生まれた。 | Çatışan iki düşünce sentezde aşılarak yeni bir kuram doğdu.
+止揚する (shiyō suru) | diyalektikte çelişkiyi aşarak üst düzeyde birleştirmek | fiil | 対立する二つの考えを止揚して、新しい理論が生まれた。 | Çatışan iki düşünce sentezde aşılarak yeni bir kuram doğdu.
 収斂する (shūren suru) | bir noktada birleşmek | fiil | 議論は、最終的に一つの結論へと収斂した。 | Tartışma sonunda tek bir sonuçta birleşti.
 乖離する (kairi suru) | birbirinden kopmak, uzaklaşmak | fiil | 政治家の発言と国民の感覚が、大きく乖離している。 | Politikacıların söyledikleriyle halkın hissettikleri birbirinden çok uzak.
 拮抗する (kikkō suru) | denk güçte çekişmek | fiil | 両候補の支持率は、ほぼ拮抗している。 | İki adayın desteği neredeyse başa baş.
@@ -104,7 +104,7 @@
 表裏一体 (hyōri ittai) | madalyonun iki yüzü (ayrılmaz) | deyim | 自由と責任は、表裏一体の関係にある。 | Özgürlük ile sorumluluk madalyonun iki yüzü gibidir.
 本末転倒 (honmatsu tentō) | önemliyle önemsizi karıştırmak | deyim | 健康のための運動で体を壊すのは、本末転倒だ。 | Sağlık için spor yapıp sağlığını bozmak işi tersinden almaktır.
 自家撞着 (jika dōchaku) | kendi kendiyle çelişme | deyim | 彼の主張は、自家撞着に陥っている。 | İddiası kendi kendisiyle çelişiyor.
-不易流行 (fueki ryūkō) | değişmeyen öz ile değişen yenilik | deyim | 芭蕉の「不易流行」は、伝統と革新の調和を説く。 | Bashō'nun "değişmeyen öz ve değişen yenilik" ilkesi gelenek ile yeniliğin uyumunu anlatır.
+不易流行 (fueki ryūkō) | değişmeyen öz ile değişen yenilik | deyim | 「不易流行」とは、伝統と革新の調和を説く俳諧の理念だ。 | "Değişmeyen öz ve değişen yenilik", gelenek ile yeniliğin uyumunu anlatan bir haiku ilkesidir.
 玉石混交 (gyokuseki konkō) | iyiyle kötünün karışık olması | deyim | ネット上の情報は、玉石混交だ。 | İnternetteki bilgiler iyisiyle kötüsüyle karışık.
 是非を問う (zehi o tou) | doğru olup olmadığını sorgulamak | deyim | 住民投票で、原発再稼働の是非を問うことになった。 | Yerel referandumla nükleer santralin yeniden çalıştırılmasının doğruluğu sorulacak.
 一刀両断 (ittō ryōdan) | tek darbede kesip atmak (kararlı çözüm) | deyim | 社長は、長年の懸案を一刀両断に解決した。 | Patron yıllardır süren sorunu tek hamlede çözdü.

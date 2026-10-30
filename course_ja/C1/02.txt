@@ -46,7 +46,7 @@
 ## Sözleşmenin unsurları
 締結 (teiketsu) | akdetme, imzalama (anlaşma) | isim | 両社は長期供給契約の締結に向けて交渉を続けている。 | İki şirket uzun vadeli tedarik sözleşmesi imzalamak için görüşmeleri sürdürüyor.
 条項 (jōkō) | madde, hüküm | isim | 契約の第五条項について、相手方から修正の要望があった。 | Karşı taraf sözleşmenin beşinci maddesinde değişiklik istedi.
-甲 (kō) | Taraf A (sözleşmede birinci taraf) | isim | 甲は乙に対し、本件業務を委託するものとする。 | A tarafı bu işi B tarafına devreder.
+甲 (kō) | Taraf A (sözleşmede birinci taraf) | isim | 甲は乙に対し、本件業務を委託するものとする。 | A tarafı bu işin yürütülmesini B tarafına bırakır.
 乙 (otsu) | Taraf B (sözleşmede ikinci taraf) | isim | 乙は納品後三十日以内に請求書を発行する。 | B tarafı teslimattan sonra otuz gün içinde fatura keser.
 履行 (rikō) | ifa, yerine getirme | isim | 相手方が契約の履行を怠ったため、損害が生じた。 | Karşı taraf sözleşmeyi ifa etmeyi ihmal ettiği için zarar doğdu.
 解除 (kaijo) | fesih, iptal | isim | 重大な違反があった場合、甲は契約を解除できる。 | Ciddi bir ihlal olursa A tarafı sözleşmeyi feshedebilir.
@@ -101,7 +101,7 @@
 ## Sonuç açıklama dili
 増収増益 (zōshū zōeki) | hem ciro hem kâr artışı | isim | 好調な海外販売に支えられ、三期連続の増収増益となった。 | Güçlü yurt dışı satışlar sayesinde üst üste üçüncü dönem ciro ve kâr arttı.
 減収減益 (genshū gen'eki) | hem ciro hem kâr düşüşü | isim | 主力商品の不振で、今期は減収減益に終わった。 | Ana ürünün kötü satışı yüzünden bu dönem hem ciro hem kâr düştü.
-前年同期比 (zennen dōkihi) | geçen yılın aynı dönemine göre | isim | 売上高は前年同期比で一五パーセント増加した。 | Satışlar geçen yılın aynı dönemine göre yüzde on beş arttı.
+前年同期比 (zennen dōkihi) | geçen yılın aynı dönemine göre | isim | 売上高は前年同期比で十五パーセント増加した。 | Satışlar geçen yılın aynı dönemine göre yüzde on beş arttı.
 上方修正 (jōhō shūsei) | yukarı yönlü revizyon | isim | 円安効果を受けて、通期の利益予想を上方修正した。 | Kur etkisiyle yıllık kâr tahmini yukarı revize edildi.
 下方修正 (kahō shūsei) | aşağı yönlü revizyon | isim | 需要の低迷により、売上見通しの下方修正を余儀なくされた。 | Talebin durgunluğu yüzünden satış beklentisini aşağı çekmek zorunda kaldık.
 業績予想 (gyōseki yosō) | sonuç tahmini (şirket) | isim | 会社は業績予想の発表を延期すると明らかにした。 | Şirket sonuç tahminini açıklamayı ertelediğini duyurdu.

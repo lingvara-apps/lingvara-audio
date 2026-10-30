@@ -9,9 +9,9 @@
 述語 (jutsugo) | yüklem | isim | 文の述語を見つけてから、主語を探そう。 | Önce cümlenin yüklemini bulalım, sonra özneyi arayalım.
 目的語 (mokutekigo) | nesne | isim | 目的語には、ふつう「を」がつく。 | Nesneye genellikle "o" eklenir.
 活用 (katsuyō) | çekim | isim | 動詞の活用を覚えるのに苦労した。 | Fiil çekimlerini ezberlemekte zorlandım.
-語順 (gojun) | sözcük sırası | isim | トルコ語と日本語は、語順がよく似ている。 | Türkçe ile Japoncanın sözcük sırası çok benzer.
+語順 (gojun) | sözcük sırası | isim | 韓国語と日本語は、語順がよく似ている。 | Korece ile Japoncanın sözcük sırası çok benzer.
 ## Ses ve yazı
-発音 (hatsuon) | telaffuz | isim | 日本語の発音は、トルコ人には比較的やさしい。 | Japonca telaffuzu Türkler için görece kolaydır.
+発音 (hatsuon) | telaffuz | isim | 日本語の発音は、比較的やさしいと言われる。 | Japonca telaffuzunun görece kolay olduğu söylenir.
 アクセント (akusento) | vurgu | isim | 「箸」と「橋」は、アクセントで区別する。 | "Hashi" (çubuk) ve "hashi" (köprü) vurguyla ayırt edilir.
 母音 (boin) | ünlü | isim | 日本語の母音は、五つしかない。 | Japoncada yalnızca beş ünlü vardır.
 子音 (shiin) | ünsüz | isim | 日本語では、子音だけで終わる言葉はほとんどない。 | Japoncada ünsüzle biten sözcük neredeyse yoktur.
@@ -31,20 +31,20 @@
 略語 (ryakugo) | kısaltma | isim | 若い人は、よく略語を使って話す。 | Gençler konuşurken sık sık kısaltma kullanır.
 造語 (zōgo) | yeni türetilmiş sözcük | isim | ネットから、毎年新しい造語が生まれている。 | İnternetten her yıl yeni sözcükler türüyor.
 慣用句 (kan'yōku) | deyim | isim | 「顔が広い」は、体を使った慣用句だ。 | "Kao ga hiroi" vücut organıyla kurulmuş bir deyimdir.
-ことわざ (kotowaza) | atasözü | isim | 似た意味のことわざが、トルコ語にもある。 | Türkçede de benzer anlamlı bir atasözü var.
+ことわざ (kotowaza) | atasözü | isim | 似た意味のことわざが、多くの言語にある。 | Pek çok dilde benzer anlamlı bir atasözü var.
 ## Çeviri
 訳す (yakusu) | çevirmek | fiil | この手紙を日本語に訳してもらえますか。 | Bu mektubu Japoncaya çevirebilir misiniz?
 直訳 (chokuyaku) | kelimesi kelimesine çeviri | isim | 直訳すると、意味が不自然になることがある。 | Kelimesi kelimesine çevirince anlam tuhaflaşabilir.
 意訳 (iyaku) | serbest çeviri | isim | 詩の翻訳には、意訳が必要な場合が多い。 | Şiir çevirisinde çoğu zaman serbest çeviri gerekir.
-翻訳家 (hon'yakuka) | çevirmen (yazılı) | isim | 彼女は日本の小説をトルコ語に訳す翻訳家だ。 | Japon romanlarını Türkçeye çeviren bir çevirmen.
+翻訳家 (hon'yakuka) | çevirmen (yazılı) | isim | 彼女は日本の小説を外国語に訳す翻訳家だ。 | Japon romanlarını yabancı dillere çeviren bir çevirmen.
 原文 (genbun) | asıl metin | isim | 翻訳より、原文で読んだほうが面白い。 | Çeviriden çok asıl metinden okumak daha zevkli.
 訳文 (yakubun) | çeviri metin | isim | 訳文を原文と比べて、間違いを直した。 | Çeviriyi asıl metinle karşılaştırıp hataları düzelttim.
 同時通訳 (dōji tsūyaku) | simültane çeviri | isim | 国際会議では、同時通訳が用意されている。 | Uluslararası toplantılarda simültane çeviri hazır bulunur.
 ニュアンス (nyuansu) | nüans, ince anlam farkı | isim | この言葉の微妙なニュアンスを訳すのは難しい。 | Bu sözcüğün ince nüansını çevirmek zordur.
 誤訳 (goyaku) | hatalı çeviri | isim | 説明書の誤訳のせいで、使い方を間違えた。 | Kılavuzdaki hatalı çeviri yüzünden yanlış kullandım.
-訳語 (yakugo) | karşılık (çeviride) | isim | この日本語に合う訳語が、トルコ語にはない。 | Bu Japonca sözcüğün Türkçede tam karşılığı yok.
+訳語 (yakugo) | karşılık (çeviride) | isim | この日本語にぴったり合う訳語が見つからない。 | Bu Japonca sözcüğe tam uyan bir karşılık bulamıyorum.
 ## Dil öğrenmek
-母語 (bogo) | anadil | isim | 私の母語はトルコ語ですが、日本語で考えることもある。 | Anadilim Türkçe ama bazen Japonca düşünüyorum.
+母語 (bogo) | anadil | isim | 彼の母語は日本語ではないが、日本語で夢を見ることもあるそうだ。 | Anadili Japonca olmasa da bazen Japonca rüya gördüğünü söylüyor.
 第二言語 (daini gengo) | ikinci dil | isim | 第二言語を学ぶと、母語のことも深く分かる。 | İkinci bir dil öğrenince anadilini de daha iyi anlarsın.
 学習者 (gakushūsha) | öğrenen | isim | 日本語の学習者は、世界中で増えている。 | Japonca öğrenenler bütün dünyada artıyor.
 上達 (jōtatsu) | ilerleme (beceride) | isim | 毎日話す練習をしたら、会話が上達した。 | Her gün konuşma pratiği yapınca konuşmam ilerledi.
@@ -102,7 +102,7 @@
 共通語 (kyōtsūgo) | ortak dil | isim | 会議では、英語が共通語として使われた。 | Toplantıda ortak dil olarak İngilizce kullanıldı.
 公用語 (kōyōgo) | resmî dil | isim | スイスには、四つの公用語がある。 | İsviçre'nin dört resmî dili var.
 多言語 (tagengo) | çok dilli | isim | 駅の案内は、多言語で表示されている。 | İstasyondaki yönlendirmeler birçok dilde gösteriliyor.
-バイリンガル (bairingaru) | iki dilli | isim | 彼の子どもたちは、日本語とトルコ語のバイリンガルだ。 | Çocukları Japonca ve Türkçe iki dillidir.
+バイリンガル (bairingaru) | iki dilli | isim | 彼の子どもたちは、日本語と英語のバイリンガルだ。 | Çocukları Japonca ve İngilizce iki dillidir.
 国際語 (kokusaigo) | uluslararası dil | isim | 英語は国際語として、世界中で学ばれている。 | İngilizce uluslararası dil olarak bütün dünyada öğreniliyor.
 少数言語 (shōsū gengo) | azınlık dili | isim | 少数言語を守るための活動が行われている。 | Azınlık dillerini korumak için çalışmalar yapılıyor.
 消滅 (shōmetsu) | yok olma | isim | 世界では、多くの言語が消滅の危機にある。 | Dünyada pek çok dil yok olma tehlikesiyle karşı karşıya.

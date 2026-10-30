@@ -1,12 +1,12 @@
-# DIALOG: Yeni Şehirde Bir Hafta | Almanca A1 günlük konuşmalar | Ayşe | Jonas
+# DIALOG: Yeni Şehirde Bir Hafta | Almanca A1 günlük konuşmalar | Sofia | Jonas
 ## Kafede tanışma
 A | Entschuldigung, ist der Platz hier frei? | Affedersin, buradaki yer boş mu?
 B | Ja, klar. Setz dich! | Evet, tabii. Otur!
-A | Danke. Ich bin Ayşe. Und du? | Teşekkürler. Ben Ayşe. Ya sen?
+A | Danke. Ich bin Sofia. Und du? | Teşekkürler. Ben Sofia. Ya sen?
 B | Ich heiße Jonas. Bist du neu in Hamburg? | Benim adım Jonas. Hamburg'da yeni misin?
 A | Ja, ich wohne erst seit einer Woche hier. | Evet, daha bir haftadır burada oturuyorum.
 B | Woher kommst du denn? | Peki nerelisin?
-A | Ich komme aus Ankara. Ich studiere hier Informatik. | Ankaralıyım. Burada bilgisayar bilimi okuyorum.
+A | Ich komme aus Madrid. Ich studiere hier Informatik. | Madridliyim. Burada bilgisayar bilimi okuyorum.
 B | Toll! Dein Deutsch ist schon sehr gut. | Harika! Almancan şimdiden çok iyi.
 A | Danke, aber ich lerne noch jeden Tag. | Teşekkürler, ama hâlâ her gün öğreniyorum.
 B | Möchtest du noch einen Kaffee? Ich lade dich ein. | Bir kahve daha ister misin? Benden.
@@ -29,7 +29,7 @@ B | Geh hier geradeaus und dann links. | Buradan dümdüz git, sonra sola dön.
 A | Ist es weit? | Uzak mı?
 B | Nein, nur fünf Minuten zu Fuß. | Hayır, yürüyerek sadece beş dakika.
 A | Und welche Linie muss ich nehmen? | Hangi hatta binmem lazım?
-B | Die U1. Du steigst am Hauptbahnhof um. | U1'e. Merkez istasyonda aktarma yaparsın.
+B | Die Linie drei. Du steigst am Hauptbahnhof um. | Üç numaralı hatta. Merkez istasyonda aktarma yaparsın.
 A | Danke, das ist sehr nett von dir. | Teşekkürler, çok naziksin.
 B | Gern geschehen. Schreib mir, wenn du Fragen hast! | Rica ederim. Sorun olursa bana yaz!
 ## Hafta sonu planı
@@ -41,5 +41,5 @@ A | Ja, gern! Um wie viel Uhr? | Evet, memnuniyetle! Saat kaçta?
 B | Um zwei Uhr. Wir grillen und spielen Fußball. | Saat ikide. Mangal yapıp futbol oynayacağız.
 A | Soll ich etwas mitbringen? | Bir şey getireyim mi?
 B | Vielleicht einen Salat oder etwas zu trinken. | Belki bir salata ya da içecek bir şey.
-A | Okay, ich mache einen türkischen Salat. | Tamam, bir Türk salatası yaparım.
-B | Super! Dann bis Samstag, Ayşe! | Süper! O zaman cumartesiye kadar, Ayşe!
+A | Okay, ich mache einen Kartoffelsalat. | Tamam, bir patates salatası yaparım.
+B | Super! Dann bis Samstag, Sofia! | Süper! O zaman cumartesiye kadar, Sofia!

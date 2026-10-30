@@ -21,7 +21,7 @@
 = "Chiudi la porta!" → Mi disse di chiudere la porta. | "Kapıyı kapat!" → Bana kapıyı kapatmamı söyledi.
 = "Dove abiti?" → Mi chiese dove abitassi. | "Nerede oturuyorsun?" → Bana nerede oturduğumu sordu.
 ? "Lavoro qui da dieci anni." → Disse che ___ lì da dieci anni. | lavorava | lavora | lavorerà
-? "Partirò domani." → Disse che ___ il giorno dopo. | sarebbe partito | partirà | partirebbe stato
+? "Tornerò presto." → Promise che ___ presto. | sarebbe tornato | tornerà | tornerebbe stato
 ? "Hai visto Marco?" → Mi chiese se ___ Marco. | avessi visto | ho visto | vedrò
 ? "Aspettami!" → Mi disse ___. | di aspettarlo | che aspettami | aspettarmi lui
 ? Dolaylı anlatımda "ieri" hangisine dönüşür? | il giorno prima | il giorno dopo | quel domani

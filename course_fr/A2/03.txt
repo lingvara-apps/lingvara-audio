@@ -44,7 +44,7 @@ le vaccin | aşı | isim (e) | Le vaccin est obligatoire pour ce pays. | Bu ülk
 la gélule | kapsül | isim (d) | Avalez la gélule avec de l'eau. | Kapsülü suyla yutun.
 sans ordonnance | reçetesiz | ifade | Ce médicament est vendu sans ordonnance. | Bu ilaç reçetesiz satılıyor.
 ## Acil durum
-l'urgence (f) | acil durum; acil servis | isim (d) | C'est une urgence, appelez le 15 ! | Acil durum, 15'i arayın!
+l'urgence (f) | acil durum; acil servis | isim (d) | C'est une urgence, appelez un médecin ! | Acil durum, bir doktor çağırın!
 l'ambulance (f) | ambulans | isim (d) | L'ambulance arrive dans cinq minutes. | Ambulans beş dakikaya geliyor.
 au secours | imdat | ünlem | Au secours ! Aidez-moi ! | İmdat! Yardım edin!
 l'accident (m) | kaza | isim (e) | Il y a eu un accident sur l'autoroute. | Otoyolda kaza oldu.

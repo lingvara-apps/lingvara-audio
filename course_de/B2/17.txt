@@ -24,7 +24,7 @@ der Fahrer (die Fahrer) | sürücü | isim (e) | Der Fahrer des Lastwagens hat d
 ## Araç parçaları
 das Lenkrad (die Lenkräder) | direksiyon | isim (o) | Beim Fahren sollte man beide Hände am Lenkrad haben. | Araba kullanırken iki el de direksiyonda olmalı.
 die Bremse (die Bremsen) | fren | isim (d) | Die Bremsen müssen in der Werkstatt dringend geprüft werden. | Frenlerin acilen tamirhanede kontrol edilmesi gerekiyor.
-der Reifen (die Reifen) | lastik | isim (e) | Ein Reifen ist platt, wir müssen ihn sofort wechseln. | Bir lastik patlak, hemen değiştirmemiz gerekiyor.
+der Rückspiegel (die Rückspiegel) | dikiz aynası | isim (e) | Vor dem Losfahren stelle ich immer den Rückspiegel richtig ein. | Yola çıkmadan önce her zaman dikiz aynasını doğru ayarlarım.
 der Motor (die Motoren) | motor | isim (e) | Der Motor macht seit gestern ein komisches Geräusch. | Motor dünden beri garip bir ses çıkarıyor.
 der Kofferraum (die Kofferräume) | bagaj | isim (e) | Die Koffer passen leider nicht alle in den Kofferraum. | Bavulların hepsi maalesef bagaja sığmıyor.
 die Windschutzscheibe (die Windschutzscheiben) | ön cam | isim (d) | Ein kleiner Stein hat die Windschutzscheibe beschädigt. | Küçük bir taş ön cama zarar verdi.
@@ -36,7 +36,7 @@ das Kennzeichen (die Kennzeichen) | plaka | isim (o) | Am Kennzeichen sieht man,
 die Straßenverkehrsordnung | karayolları trafik yönetmeliği | isim (d) | Die Straßenverkehrsordnung gilt natürlich auch für alle Radfahrer. | Trafik yönetmeliği tabii ki bütün bisikletliler için de geçerlidir.
 das Tempolimit (die Tempolimits) | hız sınırı | isim (o) | Auf vielen deutschen Autobahnen gibt es kein festes Tempolimit. | Birçok Alman otoyolunda sabit bir hız sınırı yok.
 der Blitzer (die Blitzer) | hız radarı | isim (e) | Vor dem Blitzer bremsen alle plötzlich stark ab. | Hız radarının önünde herkes birden sert fren yapıyor.
-die Promillegrenze | yasal alkol sınırı | isim (d) | In Deutschland liegt die Promillegrenze für Autofahrer bei 0,5. | Almanya'da sürücüler için yasal alkol sınırı 0,5 promil.
+die Promillegrenze | yasal alkol sınırı | isim (d) | In Deutschland liegt die Promillegrenze für Autofahrer bei null Komma fünf. | Almanya'da sürücüler için yasal alkol sınırı 0,5 promil.
 betrunken | sarhoş | sıfat | Wer betrunken Auto fährt, verliert schnell den Führerschein. | Sarhoş araba kullanan ehliyetini çabucak kaybeder.
 das Verkehrszeichen (die Verkehrszeichen) | trafik işareti | isim (o) | Dieses Verkehrszeichen bedeutet, dass hier Parken verboten ist. | Bu trafik işareti burada park etmenin yasak olduğu anlamına gelir.
 die Verkehrskontrolle (die Verkehrskontrollen) | trafik kontrolü | isim (d) | Bei der Verkehrskontrolle wollte die Polizei meinen Führerschein sehen. | Trafik kontrolünde polis ehliyetimi görmek istedi.
@@ -68,7 +68,7 @@ die Rolltreppe (die Rolltreppen) | yürüyen merdiven | isim (d) | Die Rolltrepp
 ## Demiryolu
 der Fernverkehr | uzun mesafe ulaşım | isim (e) | Im Fernverkehr fallen heute wegen des Sturms viele Züge aus. | Uzun mesafe ulaşımda bugün fırtına yüzünden birçok tren iptal.
 der Regionalzug (die Regionalzüge) | bölgesel tren | isim (e) | Der Regionalzug hält in jedem kleinen Dorf. | Bölgesel tren her küçük köyde duruyor.
-die Bahncard (die Bahncards) | indirim kartı (tren) | isim (d) | Mit der Bahncard fahre ich viel günstiger nach Berlin. | İndirim kartıyla Berlin'e çok daha ucuza gidiyorum.
+der Zugbegleiter (die Zugbegleiter) | tren görevlisi, kondüktör | isim (e) | Der Zugbegleiter kontrolliert die Fahrkarten und hilft den Reisenden. | Tren görevlisi biletleri kontrol ediyor ve yolculara yardım ediyor.
 der Speisewagen (die Speisewagen) | yemekli vagon | isim (e) | Im Speisewagen haben wir eine warme Suppe gegessen. | Yemekli vagonda sıcak bir çorba içtik.
 der Fahrkartenautomat (die Fahrkartenautomaten) | bilet otomatı | isim (e) | Der Fahrkartenautomat am Bahnsteig nimmt leider keine Scheine. | Perondaki bilet otomatı maalesef banknot kabul etmiyor.
 die Zugverbindung (die Zugverbindungen) | tren bağlantısı | isim (d) | Zwischen Zürich und Mailand gibt es eine schnelle Zugverbindung. | Zürih ile Milano arasında hızlı bir tren bağlantısı var.

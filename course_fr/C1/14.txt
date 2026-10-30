@@ -13,7 +13,7 @@ le support pédagogique | ders materyali | isim (e) | Chaque enseignant prépare
 ## Öğrenme süreçleri
 la mémorisation | ezberleme, belleğe yerleştirme | isim (d) | La mémorisation est plus efficace lorsqu'on répartit les révisions dans le temps. | Tekrarlar zamana yayıldığında belleğe yerleştirme daha etkili olur.
 la métacognition | üstbiliş | isim (d) | La métacognition aide les élèves à réfléchir sur leur manière d'apprendre. | Üstbiliş öğrencilerin öğrenme biçimleri üzerine düşünmesine yardımcı olur.
-la zone proximale de développement | yakınsal gelişim alanı | isim (d) | Vygotski a défini la zone proximale de développement de l'enfant. | Vygotski çocuğun yakınsal gelişim alanını tanımladı.
+la zone proximale de développement | yakınsal gelişim alanı | isim (d) | L'enseignant doit proposer des tâches situées dans la zone proximale de développement de l'enfant. | Öğretmen çocuğun yakınsal gelişim alanında yer alan görevler önermelidir.
 les acquis | kazanımlar | isim (çoğul) | Le test de rentrée vérifie les acquis de l'année précédente. | Dönem başı sınavı önceki yılın kazanımlarını kontrol ediyor.
 la motivation intrinsèque | içsel motivasyon | isim (d) | Les récompenses excessives peuvent affaiblir la motivation intrinsèque. | Aşırı ödüller içsel motivasyonu zayıflatabilir.
 le savoir-faire | beceri, uygulama bilgisi | isim (e) | L'apprentissage transmet un savoir-faire qu'aucun livre ne remplace. | Çıraklık hiçbir kitabın yerini tutamayacağı bir uygulama bilgisi aktarır.
@@ -89,7 +89,7 @@ la formation en alternance | iş-okul dönüşümlü eğitim | isim (d) | La for
 le maître de conférences | doçent (Fransa) | isim (e) | Elle a été recrutée comme maître de conférences en linguistique à Rennes. | Rennes'de dilbilim doçenti olarak işe alındı.
 ## Eğitim politikası
 la gratuité | ücretsizlik, parasızlık | isim (d) | La gratuité de l'enseignement public est garantie par la Constitution française. | Devlet eğitiminin parasız olması Fransız Anayasası'yla güvence altındadır.
-l'école publique (f) | devlet okulu | isim (d) | L'école publique, gratuite et laïque, a été instaurée par Jules Ferry. | Parasız ve laik devlet okulu Jules Ferry tarafından kuruldu.
+l'école publique (f) | devlet okulu | isim (d) | L'école publique, gratuite et laïque, accueille tous les enfants sans distinction. | Parasız ve laik devlet okulu bütün çocukları ayrım gözetmeksizin kabul eder.
 l'enseignement privé sous contrat (m) | devletle sözleşmeli özel okul | isim (e) | Près d'un élève sur cinq fréquente l'enseignement privé sous contrat. | Yaklaşık her beş öğrenciden biri devletle sözleşmeli özel okula gidiyor.
 l'instruction obligatoire (f) | zorunlu eğitim | isim (d) | L'instruction obligatoire commence désormais à trois ans en France. | Fransa'da zorunlu eğitim artık üç yaşında başlıyor.
 l'école à la maison (f) | evde eğitim | isim (d) | L'école à la maison est désormais soumise à une autorisation préalable. | Evde eğitim artık önceden izin alınmasına bağlı.
@@ -103,7 +103,7 @@ inculquer | aşılamak (değer, bilgi) | fiil | Ses parents lui ont inculqué tr
 scolariser | okula kaydetmek, okutmak | fiil | Dans ce village, tous les enfants sont scolarisés dès l'âge de trois ans. | Bu köyde bütün çocuklar üç yaşından itibaren okula gidiyor.
 alphabétiser | okuma yazma öğretmek | fiil | L'association alphabétise des adultes arrivés récemment en France. | Dernek Fransa'ya yeni gelmiş yetişkinlere okuma yazma öğretiyor.
 bachoter | sınava ezberleyerek hazırlanmak | fiil | Elle a bachoté tout le mois de juin sans vraiment comprendre ses cours. | Haziran boyunca derslerini gerçekten anlamadan sınava ezber yaptı.
-potasser | (bir konuyu) hafiften iyice çalışmak | fiil | Il potasse ses fiches de révision dans le train chaque matin. | Her sabah trende tekrar kartlarını iyice çalışıyor.
+potasser | (bir konuyu) sıkı çalışmak, inek gibi çalışmak | fiil | Il potasse ses fiches de révision dans le train chaque matin. | Her sabah trende tekrar kartlarını sıkı sıkı çalışıyor.
 recaler | (sınavda) bırakmak, çaktırmak | fiil | Il a été recalé au permis de conduire pour un stop mal marqué. | İyi yapılmamış bir dur işareti yüzünden ehliyet sınavında bırakıldı.
 réprimander | azarlamak | fiil | Le surveillant a réprimandé les élèves qui couraient dans les couloirs. | Gözetmen koridorlarda koşan öğrencileri azarladı.
 plancher sur | (bir konu) üzerinde çalışmak, kafa yormak | fiil | Les élèves de terminale planchent sur un sujet de philosophie pendant quatre heures. | Son sınıf öğrencileri dört saat boyunca bir felsefe konusu üzerinde kafa yoruyor.

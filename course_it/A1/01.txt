@@ -6,8 +6,8 @@ buonasera | iyi akşamlar (öğleden sonradan itibaren) | ünlem | Buonasera a t
 buonanotte | iyi geceler | ünlem | Buonanotte, a domani. | İyi geceler, yarın görüşürüz.
 salve | merhaba (nötr, yarı resmî) | ünlem | Salve, posso entrare? | Merhaba, girebilir miyim?
 arrivederci | hoşça kalın, görüşmek üzere | ünlem | Arrivederci e buona giornata! | Hoşça kalın, iyi günler!
-a presto | yakında görüşürüz | ifade | Ciao Giulia, a presto! | Hoşça kal Giulia, yakında görüşürüz!
-a domani | yarın görüşürüz | ifade | Vado a casa. A domani! | Eve gidiyorum. Yarın görüşürüz!
+alla prossima | bir dahaki sefere görüşürüz | ifade | Ciao Giulia, alla prossima! | Hoşça kal Giulia, bir dahaki sefere görüşürüz!
+buona serata | iyi akşamlar (vedalaşırken) | ifade | Vado a casa. Buona serata! | Eve gidiyorum. İyi akşamlar!
 ci vediamo | görüşürüz | ifade | Ci vediamo stasera al bar. | Bu akşam barda görüşürüz.
 benvenuto | hoş geldin | sıfat | Benvenuto a Roma, Emre! | Roma'ya hoş geldin Emre!
 ## Nezaket
@@ -22,7 +22,7 @@ mi dispiace | üzgünüm, kusura bakma | ifade | Mi dispiace, non posso venire. 
 piacere di conoscerti | tanıştığımıza memnun oldum | ifade | Sono Luca, piacere di conoscerti. | Ben Luca, tanıştığımıza memnun oldum.
 di niente | bir şey değil | ifade | Grazie, Anna! — Di niente. | Teşekkürler Anna! — Bir şey değil.
 ## Kişi zamirleri
-io | ben | zamir | Io sono turco. | Ben Türk'üm.
+io | ben | zamir | Io sono Anna. | Ben Anna'yım.
 tu | sen | zamir | Tu sei italiana? | Sen İtalyan mısın?
 lui | o (erkek) | zamir | Lui è mio fratello. | O benim erkek kardeşim.
 lei | o (kadın); Lei: siz (resmî) | zamir | Lei è Chiara. | O Chiara.
@@ -45,15 +45,15 @@ come ti chiami? | adın ne? | ifade | Ciao! Come ti chiami? | Merhaba! Adın ne?
 sposato | evli | sıfat | Paolo è sposato. | Paolo evli.
 ## Ülkeler ve diller
 l'Italia (d) | İtalya | isim (d) | L'Italia è bellissima. | İtalya çok güzel.
-la Turchia | Türkiye | isim (d) | Vengo dalla Turchia. | Türkiye'den geliyorum.
+la Francia | Fransa | isim (d) | Vengo dalla Francia. | Fransa'dan geliyorum.
 italiano | İtalyan; İtalyanca | sıfat | Studio la lingua italiana. | İtalyanca öğreniyorum.
-turco | Türk; Türkçe | sıfat | Ayşe parla turco e italiano. | Ayşe Türkçe ve İtalyanca konuşuyor.
+spagnolo | İspanyol; İspanyolca | sıfat | Diego parla spagnolo e italiano. | Diego İspanyolca ve İtalyanca konuşuyor.
 inglese | İngiliz; İngilizce | sıfat | Parli inglese? | İngilizce konuşuyor musun?
 tedesco | Alman; Almanca | sıfat | Lukas è tedesco. | Lukas Alman.
 il paese | ülke; köy, kasaba | isim (e) | Di che paese sei? | Hangi ülkedensin?
 la lingua | dil, lisan | isim (d) | Parlo tre lingue. | Üç dil konuşuyorum.
 straniero | yabancı | sıfat | Ho molti amici stranieri. | Birçok yabancı arkadaşım var.
-venire (venuto) | gelmek | fiil · düzensiz | Vengo da Istanbul. | İstanbul'dan geliyorum.
+venire (venuto) | gelmek | fiil · düzensiz | Vengo da Londra. | Londra'dan geliyorum.
 ## Soru kelimeleri
 chi | kim | zamir | Chi è quel ragazzo? | Şu çocuk kim?
 che cosa | ne | zamir | Che cosa fai stasera? | Bu akşam ne yapıyorsun?
@@ -63,7 +63,7 @@ come | nasıl; gibi | zarf | Come si scrive? | Nasıl yazılıyor?
 perché | neden; çünkü | zarf | Perché studi italiano? | Neden İtalyanca öğreniyorsun?
 quanto | ne kadar; kaç | zarf | Quanto costa? | Ne kadar?
 quale | hangi; hangisi | zamir | Quale preferisci? | Hangisini tercih edersin?
-di dove | nereli | ifade | Di dove sei? — Sono di Ankara. | Nerelisin? — Ankaralıyım.
+di dove | nereli | ifade | Di dove sei? — Sono di Firenze. | Nerelisin? — Floransalıyım.
 a che ora | saat kaçta | ifade | A che ora comincia? | Saat kaçta başlıyor?
 ## Küçük ama önemli kelimeler
 sì | evet | zarf | Sì, certo! | Evet, tabii!
@@ -96,8 +96,8 @@ dire (detto) | söylemek, demek | fiil · düzensiz | Che cosa dici? | Ne diyors
 la parola | kelime, sözcük | isim (d) | Questa parola è difficile. | Bu kelime zor.
 la domanda | soru | isim (d) | Ho una domanda. | Bir sorum var.
 la risposta | cevap | isim (d) | La risposta è giusta. | Cevap doğru.
-piano | yavaş; alçak sesle | zarf | Parla piano, per favore. | Yavaş konuş, lütfen.
-come si dice? | nasıl denir? | ifade | Come si dice "kitap" in italiano? | İtalyancada "kitap" nasıl denir?
+significare | anlamına gelmek | fiil | Che cosa significa questa parola? | Bu kelime ne anlama geliyor?
+come si dice? | nasıl denir? | ifade | Come si dice questo in italiano? | Bu İtalyancada nasıl denir?
 ## Hitap ve günlük kalıplar
 il signore | bey, beyefendi | isim (e) | Il signore è al telefono. | Beyefendi telefonda.
 la signora | hanım, hanımefendi | isim (d) | Buongiorno, signora! | Günaydın hanımefendi!

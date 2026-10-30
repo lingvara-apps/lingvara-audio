@@ -88,7 +88,7 @@ o prato do dia | günün yemeği | isim (e) | Qual é o prato do dia? | Günün 
 a porção | porsiyon | isim (d) | Uma porção de batata frita. | Bir porsiyon patates kızartması.
 a lanchonete | büfe, kafeterya | isim (d) | A lanchonete vende pastel. | Büfe pastel satıyor.
 ## Tatlar
-gostoso | lezzetli, tatlı (konuşma dili) | sıfat | Que bolo gostoso! | Ne lezzetli bir kek!
+gostoso | lezzetli (konuşma dili) | sıfat | Que bolo gostoso! | Ne lezzetli bir kek!
 delicioso | çok lezzetli, nefis | sıfat | A moqueca está deliciosa. | Moqueca nefis olmuş.
 doce | tatlı | sıfat | O brigadeiro é muito doce. | Brigadeiro çok tatlı.
 salgado | tuzlu | sıfat | A sopa está salgada. | Çorba tuzlu.

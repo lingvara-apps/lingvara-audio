@@ -1,6 +1,6 @@
-# UNIT: Atasözleri ve kanatlı sözler | Halk bilgeliği ve edebiyattan alıntılar
+# UNIT: Atasözleri ve kanatlı sözler | Halk bilgeliği, kalıplaşmış sözler
 ## Sabır ve azim
-石の上にも三年 (ishi no ue ni mo sannen) | sabreden derviş muradına ermiş | atasözü | 石の上にも三年と言うし、もう少しこの仕事を続けてみよう。 | Sabreden derviş muradına ermiş derler, bu işe biraz daha devam edeyim.
+石の上にも三年 (ishi no ue ni mo sannen) | üç yıl taşın üstünde (sabırla her şey yoluna girer) | atasözü | 石の上にも三年と言うし、もう少しこの仕事を続けてみよう。 | Taşın üstünde bile üç yıl oturan onu ısıtır derler, bu işe biraz daha devam edeyim.
 継続は力なり (keizoku wa chikara nari) | süreklilik güçtür | atasözü | 一日十分でも、継続は力なりで、一年後には大きな差になる。 | Günde on dakika bile olsa süreklilik güçtür, bir yıl sonra büyük fark yaratır.
 七転び八起き (nanakorobi yaoki) | yedi kez düşüp sekiz kez kalkmak | atasözü | 人生は七転び八起きだ。失敗を恐れずに挑戦しよう。 | Hayat yedi kez düşüp sekiz kez kalkmaktır, başarısızlıktan korkmadan deneyelim.
 塵も積もれば山となる (chiri mo tsumoreba yama to naru) | damlaya damlaya göl olur | atasözü | 毎日の小銭貯金も、塵も積もれば山となるで、旅行代になった。 | Her gün biriktirdiğim bozuk paralar damlaya damlaya göl oldu, seyahat parası çıktı.
@@ -29,9 +29,9 @@
 言うは易く行うは難し (iu wa yasuku okonau wa katashi) | söylemesi kolay, yapması zor | atasözü | 毎日運動すると決めたが、言うは易く行うは難しだ。 | Her gün spor yapmaya karar verdim ama söylemesi kolay, yapması zor.
 論より証拠 (ron yori shōko) | söz değil kanıt konuşur | atasözü | 論より証拠、実際に食べてみればおいしさがわかるよ。 | Söz değil kanıt konuşur, bir tadına bak, lezzetini anlarsın.
 百聞は一見に如かず (hyakubun wa ikken ni shikazu) | yüz kere duymak bir kere görmeye denk değildir | atasözü | 百聞は一見に如かず。一度、現地に行ってみるべきだ。 | Yüz kere duymak bir kere görmek gibi olmaz, bir kez yerinde görmelisin.
-噂をすれば影 (uwasa o sureba kage) | iti an çomağı hazırla | atasözü | 噂をすれば影、ちょうど彼が部屋に入ってきた。 | İti an çomağı hazırla, tam o sırada odaya girdi.
+噂をすれば影 (uwasa o sureba kage) | lafı geçen kişi hemen çıkagelir | atasözü | 噂をすれば影、ちょうど彼が部屋に入ってきた。 | Lafını ederken tam o sırada odaya girdi.
 良薬は口に苦し (ryōyaku wa kuchi ni nigashi) | doğru söz acıdır | atasözü | 先輩の厳しい意見も、良薬は口に苦しと思って受け止めた。 | Kıdemlimin sert görüşlerini de doğru söz acıdır diye kabul ettim.
-人の口に戸は立てられぬ (hito no kuchi ni to wa taterarenu) | elâlemin ağzı torba değil ki büzesin | atasözü | 人の口に戸は立てられぬから、噂はすぐに広まった。 | Elâlemin ağzı torba değil ki büzesin, dedikodu hemen yayıldı.
+人の口に戸は立てられぬ (hito no kuchi ni to wa taterarenu) | insanların ağzına kapı vurulamaz (dedikodu önlenemez) | atasözü | 人の口に戸は立てられぬから、噂はすぐに広まった。 | İnsanların ağzına kapı vurulamaz; dedikodu hemen yayıldı.
 ## Zaman ve fırsat
 時は金なり (toki wa kane nari) | vakit nakittir | atasözü | 時は金なりだ。無駄な会議は減らそう。 | Vakit nakittir. Gereksiz toplantıları azaltalım.
 光陰矢の如し (kōin ya no gotoshi) | zaman ok gibi geçer | atasözü | 光陰矢の如し、卒業してもう十年が経った。 | Zaman ok gibi geçiyor, mezun olalı on yıl olmuş.
@@ -69,7 +69,7 @@
 人は見かけによらぬもの (hito wa mikake ni yoranu mono) | insan göründüğü gibi değildir | atasözü | あの優しそうな人が犯人とは、人は見かけによらぬものだ。 | O nazik görünen kişinin suçlu olması, insanlar göründüğü gibi değilmiş.
 馬子にも衣装 (mago ni mo ishō) | giyim kuşam insanı adam eder | atasözü | スーツを着ると立派に見える。馬子にも衣装だね。 | Takım elbise giyince ne kadar şık olmuş, giyim kuşam insanı adam ediyor.
 灯台下暗し (tōdai moto kurashi) | kandil dibine ışık vermez | atasözü | 探していた鍵がポケットにあったとは、灯台下暗しだ。 | Aradığım anahtar cebimdeymiş, kandil dibine ışık vermez.
-隣の芝生は青い (tonari no shibafu wa aoi) | komşunun tavuğu komşuya kaz görünür | atasözü | 他人の仕事がよく見えるのは、隣の芝生は青いからだ。 | Başkalarının işi iyi görünüyor, komşunun tavuğu komşuya kaz görünür.
+隣の芝生は青い (tonari no shibafu wa aoi) | komşunun çimi hep daha yeşildir | atasözü | 他人の仕事がよく見えるのは、隣の芝生は青いからだ。 | Başkalarının işi hep daha iyi görünür; komşunun çimi hep daha yeşildir.
 名は体を表す (na wa tai o arawasu) | isim cismin aynasıdır | atasözü | 「元気」という名前の彼は、名は体を表すでいつも明るい。 | Adı "Genki" olan o, isim cismin aynası misali hep neşeli.
 見ると聞くとは大違い (miru to kiku to wa ōchigai) | duymakla görmek arasında büyük fark var | atasözü | 有名な観光地も、見ると聞くとは大違いでがっかりした。 | Ünlü turistik yeri duyduğumla gördüğüm çok farklıydı, hayal kırıklığına uğradım.
 光るもの必ずしも金ならず (hikaru mono kanarazushimo kin narazu) | her parlayan altın değildir | atasözü | 光るもの必ずしも金ならず。うまい話には気をつけよう。 | Her parlayan altın değildir. Fazla iyi tekliflere dikkat edelim.
@@ -78,14 +78,14 @@
 看板倒れ (kanban daore) | göründüğü gibi çıkmayan, tabelası güzel içi boş | deyim | 有名店だと聞いたが、看板倒れでがっかりした。 | Ünlü bir dükkân diye duymuştum ama tabelası güzel içi boş çıktı.
 ## Alçakgönüllülük ve kibir
 実るほど頭を垂れる稲穂かな (minoru hodo kōbe o tareru inaho kana) | başak doldukça başını eğer | atasözü | 実るほど頭を垂れる稲穂かなで、偉い人ほど謙虚だ。 | Başak doldukça başını eğer; büyük insanlar daha alçakgönüllüdür.
-上には上がある (ue ni wa ue ga aru) | her yiğidin bir yoğurt yiyişi var / üstün üstü vardır | atasözü | 全国大会に出て、上には上があることを知った。 | Ulusal turnuvaya katılınca daha iyilerinin de olduğunu öğrendim.
+上には上がある (ue ni wa ue ga aru) | üstün üstü vardır (her zaman daha iyisi bulunur) | atasözü | 全国大会に出て、上には上があることを知った。 | Ulusal turnuvaya katılınca daha iyilerinin de olduğunu öğrendim.
 驕る平家は久しからず (ogoru Heike wa hisashikarazu) | kibirli olanın saltanatı uzun sürmez | atasözü | 驕る平家は久しからずで、傲慢な経営者の会社はすぐに傾いた。 | Kibirlinin saltanatı uzun sürmez; küstah yöneticinin şirketi kısa sürede sarsıldı.
 過ぎたるは猶及ばざるが如し (sugitaru wa nao oyobazaru ga gotoshi) | azı karar, çoğu zarar | atasözü | 過ぎたるは猶及ばざるが如しで、運動のしすぎも体に悪い。 | Azı karar çoğu zarar; aşırı spor da sağlığa zararlı.
 勝って兜の緒を締めよ (katte kabuto no o o shimeyo) | kazandığında bile miğferini sıkı bağla | atasözü | 勝って兜の緒を締めよ。次の試合も油断するな。 | Kazandığında bile miğferini sıkı bağla. Bir sonraki maçta da gevşeme.
 自慢高慢馬鹿のうち (jiman kōman baka no uchi) | böbürlenmek ahmaklıktır | atasözü | 自慢高慢馬鹿のうちと言うから、手柄話はほどほどにしよう。 | Böbürlenmek ahmaklıktır derler, başarı hikâyelerini abartmayalım.
 空き樽は音が高い (akidaru wa oto ga takai) | boş teneke çok ses çıkarır | atasözü | 空き樽は音が高いで、実力のない人ほどよくしゃべる。 | Boş teneke çok ses çıkarır; yeteneği olmayan daha çok konuşur.
 上手の手から水が漏る (jōzu no te kara mizu ga moru) | ustanın da hata yaptığı olur | atasözü | 上手の手から水が漏るで、名人も時には失敗する。 | Ustanın elinden de su sızar; ustalar bile bazen hata yapar.
-天は自ら助くる者を助く (ten wa mizukara tasukuru mono o tasuku) | Allah kendine yardım edene yardım eder | atasözü | 天は自ら助くる者を助く。まずは自分で動いてみよう。 | Tanrı kendine yardım edene yardım eder. Önce kendimiz harekete geçelim.
+天は自ら助くる者を助く (ten wa mizukara tasukuru mono o tasuku) | gök kendine yardım edene yardım eder | atasözü | 天は自ら助くる者を助く。まずは自分で動いてみよう。 | Gök kendine yardım edene yardım eder. Önce kendimiz harekete geçelim.
 雄弁は銀 (yūben wa gin) | söz gümüşse (sükût altındır) | atasözü | 雄弁は銀というが、時にははっきり話すことも必要だ。 | Söz gümüştür derler ama bazen açıkça konuşmak da gerekir.
 ## Aile ve kuşaklar
 親の心子知らず (oya no kokoro ko shirazu) | çocuk anne babasının kaygısını bilmez | atasözü | 夜遅くまで遊ぶ娘に、親の心子知らずだとため息が出る。 | Gece geç saatlere kadar gezen kızım için çocuk anne babanın derdini bilmez diye iç çekiyorum.
@@ -98,14 +98,14 @@
 老いては子に従え (oite wa ko ni shitagae) | yaşlanınca çocuklarına uy | atasözü | 老いては子に従えで、父は息子の意見を聞くようになった。 | Yaşlanınca çocuklarına uy derler; babam oğlunun görüşüne kulak verir oldu.
 寝る子は育つ (neru ko wa sodatsu) | iyi uyuyan çocuk iyi büyür | atasözü | 寝る子は育つと言うから、夜更かしはやめなさい。 | İyi uyuyan çocuk iyi büyür derler, geç yatmayı bırak.
 血は争えない (chi wa arasoenai) | kan çeker, soy belli eder | atasözü | 父と同じく絵がうまいなんて、血は争えないね。 | Babası gibi resmi iyi; kan çekiyor demek.
-## Japon klasiklerinden sözler
-祇園精舎の鐘の声 (Gion shōja no kane no koe) | Gion manastırının çan sesi (Heike Monogatari'nin açılışı) | ifade | 「祇園精舎の鐘の声、諸行無常の響きあり」は『平家物語』の冒頭だ。 | "Gion manastırının çan sesinde her şeyin geçiciliğinin yankısı var" Heike Monogatari'nin açılışıdır.
-ゆく河の流れは絶えずして (yuku kawa no nagare wa taezu shite) | akan nehrin akışı hiç durmaz (Hōjōki'nin açılışı) | ifade | 「ゆく河の流れは絶えずして、しかももとの水にあらず」と鴨長明は書いた。 | Kamo no Chōmei "Akan nehrin akışı hiç durmaz ve su asla aynı su değildir" diye yazdı.
-春はあけぼの (haru wa akebono) | baharın en güzeli şafaktır (Makura no Sōshi'nin açılışı) | ifade | 「春はあけぼの」という一文で、『枕草子』は始まる。 | "Yastık Kitabı" "baharın en güzeli şafaktır" cümlesiyle başlar.
-和を以て貴しとなす (wa o motte tōtoshi to nasu) | uyum her şeyden değerlidir | ifade | 「和を以て貴しとなす」は、十七条憲法の第一条の言葉だ。 | "Uyum her şeyden değerlidir" On Yedi Maddelik Anayasa'nın ilk maddesidir.
-夏草や兵どもが夢の跡 (natsukusa ya tsuwamonodomo ga yume no ato) | yaz otları, savaşçıların düşlerinden kalan (Bashō) | ifade | 芭蕉は平泉で「夏草や兵どもが夢の跡」と詠んだ。 | Bashō, Hiraizumi'de "Yaz otları; savaşçıların düşlerinden kalan" haikusunu yazdı.
-月日は百代の過客にして (tsukihi wa hakutai no kakaku ni shite) | günler ve aylar ebedî yolculardır (Bashō) | ifade | 『おくのほそ道』は「月日は百代の過客にして」と始まる。 | "Oku no Hosomichi" "Günler ve aylar ebedî yolculardır" diye başlar.
-国破れて山河あり (kuni yaburete sanga ari) | devlet yıkılsa da dağlar ve nehirler kalır | ifade | 戦後の焼け野原で、人々は「国破れて山河あり」と口にした。 | Savaştan sonra yanıp kül olmuş topraklarda insanlar "devlet yıkılsa da dağlar ve nehirler kalır" dedi.
-天は人の上に人を造らず (ten wa hito no ue ni hito o tsukurazu) | Tanrı insanı insanın üstünde yaratmadı | ifade | 福沢諭吉は「天は人の上に人を造らず」と平等を説いた。 | Fukuzawa Yukichi "Tanrı insanı insanın üstünde yaratmadı" diyerek eşitliği savundu.
-少年よ大志を抱け (shōnen yo taishi o idake) | gençler, büyük hayaller kurun | ifade | 「少年よ大志を抱け」は、札幌の学校で語られた別れの言葉だ。 | "Gençler, büyük hayaller kurun" Sapporo'daki bir okulda söylenen veda sözüdür.
-人間五十年 (ningen gojūnen) | insan ömrü elli yıldır (Atsumori'den) | ifade | 「人間五十年」と舞った武将の話は、今も語り継がれている。 | "İnsan ömrü elli yıl" diye dans eden komutanın hikâyesi hâlâ anlatılır.
+## Hayatın iniş çıkışları
+柳の下にいつも泥鰌はいない (yanagi no shita ni itsumo dojō wa inai) | şans her zaman aynı yerden gelmez | atasözü | 一度うまくいったからといって、柳の下にいつも泥鰌はいないよ。 | Bir kez işe yaradı diye şans hep aynı yerden gelmez.
+人間到る所青山あり (ningen itaru tokoro seizan ari) | dünya geniştir, her yerde fırsat vardır | atasözü | 人間到る所青山ありと信じて、彼は故郷を離れて海外へ渡った。 | Her yerde fırsat olduğuna inanarak memleketinden ayrılıp yurt dışına gitti.
+怪我の功名 (kega no kōmyō) | hatadan doğan beklenmedik kazanç | atasözü | 道に迷ったおかげで素敵な店を見つけた。怪我の功名だ。 | Yolumu kaybettiğim için harika bir dükkân buldum; hatadan doğan bir kazanç.
+月に叢雲花に風 (tsuki ni murakumo hana ni kaze) | güzel şeylerin önüne hep bir engel çıkar | atasözü | 花見の日に限って雨とは、月に叢雲花に風だ。 | Tam da çiçek seyri günü yağmur yağması; güzel şeylerin önüne hep bir engel çıkar.
+盛者必衰 (jōsha hissui) | her yükselenin bir düşüşü vardır | deyim | 盛者必衰というように、かつての大企業も今は見る影もない。 | Her yükselenin bir düşüşü vardır; bir zamanların dev şirketinden bugün eser yok.
+栄枯盛衰 (eiko seisui) | yükseliş ve çöküş, iniş çıkış | deyim | この町の栄枯盛衰を、古い商店街が静かに物語っている。 | Bu kasabanın yükselişini ve çöküşünü eski çarşı sessizce anlatıyor.
+柳に雪折れなし (yanagi ni yukiore nashi) | esnek olan kırılmaz (söğüt dalı karla kırılmaz) | atasözü | 柳に雪折れなしで、柔軟な人ほど困難に強い。 | Söğüt dalı karla kırılmaz; esnek insanlar zorluklara daha dayanıklıdır.
+山高きが故に貴からず (yama takaki ga yue ni tattokarazu) | görünüş değil öz önemlidir (dağ yüksek diye değerli olmaz) | atasözü | 山高きが故に貴からず。肩書きより中身が大切だ。 | Dağ yüksek diye değerli olmaz. Unvandan çok içerik önemlidir.
+水清ければ魚棲まず (mizu kiyokereba uo sumazu) | aşırı katılık insanları uzaklaştırır (su çok berraksa balık yaşamaz) | atasözü | 水清ければ魚棲まずで、厳しすぎる上司には部下がついてこない。 | Su çok berraksa balık yaşamaz; aşırı katı bir amirin peşinden kimse gitmez.
+好事魔多し (kōji ma ōshi) | iyi giden işe engel çok çıkar | atasözü | 好事魔多しというから、順調なときほど気をつけよう。 | İyi giden işe engel çok çıkar derler; işler yolundayken daha da dikkatli olalım.

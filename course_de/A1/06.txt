@@ -18,7 +18,7 @@ die Schule (die Schulen) | okul | isim (d) | Die Kinder gehen zu Fuß zur Schule
 das Hotel (die Hotels) | otel | isim (o) | Unser Hotel hat einen Pool. | Otelimizin havuzu var.
 das Kino (die Kinos) | sinema | isim (o) | Gehen wir heute ins Kino? | Bugün sinemaya gidelim mi?
 das Geschäft (die Geschäfte) | dükkân, mağaza; iş | isim (o) | Das Geschäft ist sonntags zu. | Dükkân pazarları kapalı.
-die Bäckerei (die Bäckereien) | fırın, ekmek dükkânı | isim (d) | Die Bäckerei öffnet schon um sechs. | Fırın daha saat altıda açılıyor.
+die Bäckerei (die Bäckereien) | fırın, ekmek dükkânı | isim (d) | Die Bäckerei öffnet schon um sechs. | Fırın sabah altıda açılıyor bile.
 der Markt (die Märkte) | pazar | isim (e) | Samstags gehen wir auf den Markt. | Cumartesileri pazara gideriz.
 die Bibliothek (die Bibliotheken) | kütüphane | isim (d) | Ich lerne in der Bibliothek. | Kütüphanede ders çalışıyorum.
 ## Yön tarifi
@@ -41,7 +41,7 @@ der Zug (die Züge) | tren | isim (e) | Der Zug nach Basel hat Verspätung. | Ba
 die Haltestelle (die Haltestellen) | durak | isim (d) | Wo ist die nächste Haltestelle? | En yakın durak nerede?
 der Bahnhof (die Bahnhöfe) | tren istasyonu, gar | isim (e) | Wir treffen uns am Bahnhof. | İstasyonda buluşuyoruz.
 die Fahrkarte (die Fahrkarten) | bilet (toplu taşıma) | isim (d) | Ich kaufe eine Fahrkarte am Automaten. | Otomattan bilet alıyorum.
-der Fahrplan (die Fahrpläne) | sefer tarifesi | isim (e) | Schau mal auf den Fahrplan. | Bir tarifeye bak.
+der Fahrplan (die Fahrpläne) | sefer tarifesi | isim (e) | Schau mal auf den Fahrplan. | Tarifeye bir bak.
 umsteigen (stieg um, umgestiegen) | aktarma yapmak | fiil · düzensiz | In Frankfurt müssen wir umsteigen. | Frankfurt'ta aktarma yapmamız lazım.
 ## Araçlar ve gitmek
 das Auto (die Autos) | araba | isim (o) | Unser Auto ist rot. | Arabamız kırmızı.
@@ -52,7 +52,7 @@ das Schiff (die Schiffe) | gemi | isim (o) | Das Schiff fährt über den Bodense
 das Motorrad (die Motorräder) | motosiklet | isim (o) | Mein Bruder hat ein Motorrad. | Ağabeyimin bir motosikleti var.
 zu Fuß | yürüyerek, yayan | ifade | Ich gehe zu Fuß nach Hause. | Eve yürüyerek gidiyorum.
 fahren (fuhr, gefahren) | (araçla) gitmek; sürmek | fiil · düzensiz | Wir fahren mit dem Zug nach Wien. | Viyana'ya trenle gidiyoruz.
-fliegen (flog, geflogen) | uçmak; uçakla gitmek | fiil · düzensiz | Im Sommer fliegen wir nach Antalya. | Yazın Antalya'ya uçuyoruz.
+fliegen (flog, geflogen) | uçmak; uçakla gitmek | fiil · düzensiz | Im Sommer fliegen wir nach Portugal. | Yazın Portekiz'e uçuyoruz.
 gehen (ging, gegangen) | gitmek; yürümek | fiil · düzensiz | Ich gehe jetzt nach Hause. | Şimdi eve gidiyorum.
 ## Seyahat
 die Reise (die Reisen) | yolculuk, seyahat | isim (d) | Die Reise war sehr schön. | Yolculuk çok güzeldi.

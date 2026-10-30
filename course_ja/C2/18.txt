@@ -64,7 +64,7 @@
 病理検査 (byōri kensa) | patoloji incelemesi | isim | 摘出した組織は、病理検査で良性と判明した。 | Çıkarılan dokunun patoloji incelemesinde iyi huylu olduğu anlaşıldı.
 人間ドック (ningen dokku) | kapsamlı sağlık taraması (check-up) | isim | 四十歳を過ぎてから、毎年人間ドックを受けている。 | Kırkımı geçtiğimden beri her yıl kapsamlı sağlık taraması yaptırıyorum.
 検体 (kentai) | numune (tıbbi) | isim | 採取した検体を、検査センターに送った。 | Alınan numuneyi tahlil merkezine gönderdik.
-血中濃度 (kecchū nōdo) | kandaki yoğunluk | isim | 薬の血中濃度を測って、量を調整する。 | İlacın kandaki yoğunluğu ölçülüp doz ayarlanır.
+血中濃度 (ketchū nōdo) | kandaki yoğunluk | isim | 薬の血中濃度を測って、量を調整する。 | İlacın kandaki yoğunluğu ölçülüp doz ayarlanır.
 ## Tedavi
 服薬指導 (fukuyaku shidō) | ilaç kullanım danışmanlığı | isim | 薬局で、薬剤師から服薬指導を受けた。 | Eczanede eczacıdan ilaç kullanımı hakkında bilgi aldım.
 対症療法 (taishō ryōhō) | belirtilere yönelik tedavi | isim | 風邪には特効薬がなく、対症療法が中心になる。 | Nezlenin kesin ilacı olmadığı için tedavi belirtilere yöneliktir.
@@ -94,7 +94,7 @@
 担当医 (tantōi) | sorumlu doktor | isim | 手術の日程について、担当医から説明があった。 | Ameliyat tarihi hakkında sorumlu doktor bilgi verdi.
 看護師長 (kangoshichō) | başhemşire | isim | 看護師長が、病棟の看護師たちをまとめている。 | Başhemşire servisteki hemşireleri yönetiyor.
 カルテ (karute) | hasta dosyası | isim | 医師は、カルテに診察の内容を記録した。 | Doktor muayene bilgilerini hasta dosyasına kaydetti.
-診療科 (shinryōka) | poliklinik bölümü | isim | どの診療科を受診すればいいか、受付で尋ねた。 | Hangi bölüme muayene olmam gerektiğini danışmaya sordum.
+診療科 (shinryōka) | poliklinik bölümü | isim | どの診療科を受診すればいいか、受付で尋ねた。 | Hangi bölüme muayene olmam gerektiğini danışmadan sordum.
 院内感染 (innai kansen) | hastane enfeksiyonu | isim | 院内感染を防ぐため、面会が制限されている。 | Hastane enfeksiyonunu önlemek için ziyaretler kısıtlanıyor.
 面会謝絶 (menkai shazetsu) | ziyaretçi kabul edilmez | isim | 父は手術直後で、しばらく面会謝絶だった。 | Babam ameliyattan yeni çıktığı için bir süre ziyaretçi kabul edilmedi.
 医療過誤 (iryō kago) | tıbbi hata | isim | 医療過誤をめぐって、病院が訴えられた。 | Tıbbi hata nedeniyle hastaneye dava açıldı.

@@ -9,7 +9,7 @@ die Lernstation (die Lernstationen) | öğrenme istasyonu | isim (d) | Im Klasse
 die Veranschaulichung (die Veranschaulichungen) | somutlaştırma, görselleştirme | isim (d) | Zur Veranschaulichung des Bruchrechnens nutzt die Lehrerin eine echte Pizza. | Öğretmen kesirleri somutlaştırmak için gerçek bir pizza kullanıyor.
 die Binnendifferenzierung | sınıf içi farklılaştırma | isim (d) | Durch Binnendifferenzierung erhalten starke und schwache Schüler passende Aufgaben. | Sınıf içi farklılaştırmayla güçlü ve zayıf öğrenciler uygun görevler alıyor.
 das Unterrichtsgespräch (die Unterrichtsgespräche) | ders içi tartışma | isim (o) | Ein lebendiges Unterrichtsgespräch bezieht möglichst viele Schüler aktiv ein. | Canlı bir ders içi tartışma mümkün olduğunca çok öğrenciyi etkin biçimde katar.
-die Montessori-Pädagogik | Montessori eğitimi | isim (d) | Die Montessori-Pädagogik setzt auf Selbstständigkeit und eigenes Tempo des Kindes. | Montessori eğitimi çocuğun bağımsızlığına ve kendi hızına dayanır.
+die Reformpädagogik | reform pedagojisi | isim (d) | Die Reformpädagogik setzt auf Selbstständigkeit und das eigene Tempo des Kindes. | Reform pedagojisi çocuğun bağımsızlığına ve kendi hızına dayanır.
 ## Öğrenme psikolojisi
 der Lernprozess (die Lernprozesse) | öğrenme süreci | isim (e) | Fehler sind ein natürlicher und wichtiger Teil jedes Lernprozesses. | Hatalar her öğrenme sürecinin doğal ve önemli bir parçasıdır.
 die Lernbereitschaft | öğrenmeye isteklilik | isim (d) | Die Lernbereitschaft sinkt deutlich, wenn Schüler unter Angst leiden. | Öğrenciler korku yaşadığında öğrenmeye isteklilik belirgin biçimde düşer.
@@ -47,9 +47,9 @@ die Lernkontrolle (die Lernkontrollen) | kısa yoklama, öğrenme kontrolü | is
 die Schulleitung (die Schulleitungen) | okul yönetimi | isim (d) | Die Schulleitung hat ein striktes Handyverbot im Unterricht beschlossen. | Okul yönetimi derste kesin bir cep telefonu yasağı kararı aldı.
 das Kollegium (die Kollegien) | öğretmenler kurulu | isim (o) | Das gesamte Kollegium hat sich für eine Vier-Tage-Woche ausgesprochen. | Öğretmenler kurulunun tamamı dört günlük haftadan yana tavır koydu.
 die Schulkonferenz (die Schulkonferenzen) | okul konferansı (karar organı) | isim (d) | In der Schulkonferenz entscheiden Lehrer, Eltern und Schüler gemeinsam. | Okul konferansında öğretmenler, veliler ve öğrenciler birlikte karar verir.
-der Elternbeirat (die Elternbeiräte) | okul aile birliği | isim (e) | Der Elternbeirat organisiert jedes Jahr ein großes Sommerfest. | Okul aile birliği her yıl büyük bir yaz şenliği düzenliyor.
+der Elternbeirat (die Elternbeiräte) | veli kurulu | isim (e) | Der Elternbeirat organisiert jedes Jahr ein großes Sommerfest. | Veli kurulu her yıl büyük bir yaz şenliği düzenliyor.
 die Schulaufsicht | okul denetimi (makam) | isim (d) | Die Schulaufsicht prüft, ob die Schule die Vorgaben des Landes einhält. | Okul denetimi okulun eyaletin kurallarına uyup uymadığını kontrol ediyor.
-das Schulamt (die Schulämter) | ilçe milli eğitim müdürlüğü | isim (o) | Das Schulamt teilt den Schulen ihre Lehrerstellen zu. | Eğitim müdürlüğü okullara öğretmen kadrolarını tahsis ediyor.
+das Schulamt (die Schulämter) | eğitim müdürlüğü (okul idaresi dairesi) | isim (o) | Das Schulamt teilt den Schulen ihre Lehrerstellen zu. | Eğitim müdürlüğü okullara öğretmen kadrolarını tahsis ediyor.
 der Schulträger (die Schulträger) | okulun bağlı olduğu kurum | isim (e) | Die Stadt als Schulträger ist für das Gebäude und die Ausstattung zuständig. | Okulun bağlı olduğu kurum olarak belediye bina ve donanımdan sorumludur.
 die Klassenstärke (die Klassenstärken) | sınıf mevcudu | isim (d) | Eine Klassenstärke von über dreißig Kindern erschwert individuelle Förderung. | Otuzun üzerinde sınıf mevcudu bireysel desteği zorlaştırıyor.
 der Lehrermangel | öğretmen açığı | isim (e) | Wegen des Lehrermangels fallen an vielen Schulen regelmäßig Stunden aus. | Öğretmen açığı nedeniyle birçok okulda düzenli olarak dersler boş geçiyor.
@@ -83,7 +83,7 @@ die Ausgrenzung (die Ausgrenzungen) | dışlama | isim (d) | Die Schule hat ein 
 der Verweis (die Verweise) | uyarı cezası; gönderme | isim (e) | Nach der Prügelei auf dem Schulhof erhielt er einen schriftlichen Verweis. | Okul bahçesindeki kavgadan sonra yazılı uyarı cezası aldı.
 das Nachsitzen | okuldan sonra cezaya kalma | isim (o) | Wegen vergessener Hausaufgaben musste er am Freitag zum Nachsitzen bleiben. | Unuttuğu ödevler yüzünden cuma günü cezaya kalmak zorunda kaldı.
 die Klassenregel (die Klassenregeln) | sınıf kuralı | isim (d) | Zu Beginn des Schuljahres formulieren die Kinder gemeinsam ihre Klassenregeln. | Okul yılının başında çocuklar sınıf kurallarını birlikte belirliyor.
-die Streitschlichtung | arabuluculuk (okulda) | isim (d) | Ältere Schüler werden als Streitschlichter für Konflikte auf dem Pausenhof ausgebildet. | Büyük öğrenciler teneffüs bahçesindeki çatışmalar için arabulucu olarak yetiştiriliyor.
+die Streitschlichtung | arabuluculuk (okulda) | isim (d) | Bei der Streitschlichtung helfen ältere Schüler, Konflikte auf dem Pausenhof friedlich zu lösen. | Okuldaki arabuluculukta büyük öğrenciler teneffüs bahçesindeki çatışmaları barışçıl biçimde çözmeye yardım ediyor.
 der Schulverweis (die Schulverweise) | okuldan uzaklaştırma | isim (e) | Wegen wiederholter Gewalt droht dem Schüler ein Schulverweis. | Tekrarlanan şiddet nedeniyle öğrenciyi okuldan uzaklaştırma tehdit ediyor.
 die Schulsozialarbeit | okul sosyal hizmeti | isim (d) | Die Schulsozialarbeit hilft Kindern bei Problemen in der Familie. | Okul sosyal hizmeti çocuklara ailedeki sorunlarda yardım ediyor.
 das Elterngespräch (die Elterngespräche) | veli görüşmesi | isim (o) | Im Elterngespräch suchten Lehrerin und Eltern gemeinsam nach Lösungen. | Veli görüşmesinde öğretmen ve veliler birlikte çözüm aradı.

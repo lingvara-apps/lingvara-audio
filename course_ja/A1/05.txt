@@ -12,14 +12,14 @@
 料理 (ryōri) | yemek; mutfak (yemek kültürü) | isim | 日本料理はおいしいです。(Nihon ryōri wa oishii desu.) | Japon mutfağı çok lezzetli.
 ## İçecekler
 水 (mizu) | su | isim | 水を一杯ください。(Mizu o ippai kudasai.) | Bir bardak su lütfen.
-お茶 (o-cha) | çay (genelde Japon yeşil çayı) | isim | お茶をどうぞ。(O-cha o dōzo.) | Buyurun çay.
+お茶 (ocha) | çay (genelde Japon yeşil çayı) | isim | お茶をどうぞ。(Ocha o dōzo.) | Buyurun çay.
 緑茶 (ryokucha) | yeşil çay | isim | 緑茶は体にいいです。(Ryokucha wa karada ni ii desu.) | Yeşil çay sağlığa iyidir.
 紅茶 (kōcha) | siyah çay | isim | 紅茶にミルクを入れます。(Kōcha ni miruku o iremasu.) | Siyah çaya süt koyarım.
 コーヒー (kōhī) | kahve | isim | 毎朝コーヒーを飲みます。(Maiasa kōhī o nomimasu.) | Her sabah kahve içerim.
-牛乳 (gyūnyū) | süt | isim | 子供は牛乳が好きです。(Kodomo wa gyūnyū ga suki desu.) | Çocuk sütü sever.
+牛乳 (gyūnyū) | süt | isim | 子供は牛乳が好きです。(Kodomo wa gyūnyū ga suki desu.) | Çocuklar sütü sever.
 ジュース (jūsu) | meyve suyu; gazlı içecek | isim | オレンジジュースをください。(Orenji jūsu o kudasai.) | Portakal suyu lütfen.
 ビール (bīru) | bira | isim | 冷たいビールを飲みます。(Tsumetai bīru o nomimasu.) | Soğuk bira içiyorum.
-お酒 (o-sake) | alkollü içki; sake | isim | お酒は飲みません。(O-sake wa nomimasen.) | Alkol içmem.
+お酒 (osake) | alkollü içki; sake | isim | お酒は飲みません。(Osake wa nomimasen.) | Alkol içmem.
 飲み物 (nomimono) | içecek | isim | 飲み物は何がいいですか。(Nomimono wa nani ga ii desu ka.) | İçecek olarak ne istersin?
 ## Kahvaltı ve öğünler
 朝ご飯 (asagohan) | kahvaltı | isim | 朝ご飯を食べましたか。(Asagohan o tabemashita ka.) | Kahvaltı yaptın mı?
@@ -40,7 +40,7 @@
 天ぷら (tenpura) | tempura (hamura bulanmış kızartma) | isim | えびの天ぷらをください。(Ebi no tenpura o kudasai.) | Karides tempura lütfen.
 おにぎり (onigiri) | pirinç topu | isim | コンビニでおにぎりを買います。(Konbini de onigiri o kaimasu.) | Marketten onigiri alırım.
 弁当 (bentō) | yemek kutusu, bento | isim | 母が弁当を作ります。(Haha ga bentō o tsukurimasu.) | Annem bento hazırlar.
-焼き鳥 (yakitori) | tavuk şiş | isim | 焼き鳥とビールをください。(Yakitori to bīru o kudasai.) | Tavuk şiş ve bira lütfen.
+焼き鳥 (yakitori) | tavuk şiş | isim | 焼き鳥を二本ください。(Yakitori o nihon kudasai.) | İki şiş yakitori lütfen.
 カレー (karē) | Japon köri | isim | 今晩はカレーです。(Konban wa karē desu.) | Bu akşam köri var.
 刺身 (sashimi) | çiğ balık dilimleri | isim | 刺身は新鮮です。(Sashimi wa shinsen desu.) | Saşimi taze.
 ## Meyve ve sebze
@@ -72,7 +72,7 @@
 メニュー (menyū) | menü | isim | メニューを見せてください。(Menyū o misete kudasai.) | Menüyü görebilir miyim?
 注文する (chūmon suru) | sipariş vermek | fiil · düzensiz | ラーメンを注文しました。(Rāmen o chūmon shimashita.) | Ramen sipariş ettim.
 席 (seki) | yer, koltuk | isim | 窓の近くの席がいいです。(Mado no chikaku no seki ga ii desu.) | Pencere kenarında bir yer olsun.
-お会計 (o-kaikei) | hesap | isim | すみません、お会計お願いします。(Sumimasen, o-kaikei onegaishimasu.) | Affedersiniz, hesap lütfen.
+お会計 (okaikei) | hesap | isim | すみません、お会計お願いします。(Sumimasen, okaikei onegaishimasu.) | Affedersiniz, hesap lütfen.
 いらっしゃいませ (irasshaimase) | hoş geldiniz (dükkânda) | ifade | いらっしゃいませ。何名様ですか。(Irasshaimase. Nanmei-sama desu ka.) | Hoş geldiniz. Kaç kişisiniz?
 おすすめ (osusume) | tavsiye, önerilen | isim | おすすめは何ですか。(Osusume wa nan desu ka.) | Ne tavsiye edersiniz?
 〜をください (o kudasai) | ... lütfen, ... verir misiniz | ifade | コーヒーをください。(Kōhī o kudasai.) | Kahve lütfen.
@@ -84,12 +84,12 @@
 しょっぱい (shoppai) | tuzlu | sıfat | スープがしょっぱいです。(Sūpu ga shoppai desu.) | Çorba tuzlu.
 酸っぱい (suppai) | ekşi | sıfat | レモンは酸っぱいです。(Remon wa suppai desu.) | Limon ekşi.
 苦い (nigai) | acı (kahve gibi) | sıfat | この薬は苦いです。(Kono kusuri wa nigai desu.) | Bu ilaç acı.
-熱い (atsui) | sıcak (dokunulan şey) | sıfat | お茶が熱いです。(O-cha ga atsui desu.) | Çay sıcak.
+熱い (atsui) | sıcak (dokunulan şey) | sıfat | お茶が熱いです。(Ocha ga atsui desu.) | Çay sıcak.
 冷たい (tsumetai) | soğuk (dokunulan şey) | sıfat | 冷たい水をください。(Tsumetai mizu o kudasai.) | Soğuk su lütfen.
 味 (aji) | tat | isim | このスープは味が薄いです。(Kono sūpu wa aji ga usui desu.) | Bu çorbanın tadı hafif.
 ## Yemek yemek
 食べる (taberu) | yemek (fiil) | fiil | 朝ご飯を食べます。(Asagohan o tabemasu.) | Kahvaltı yaparım.
-飲む (nomu) | içmek | fiil | お茶を飲みます。(O-cha o nomimasu.) | Çay içiyorum.
+飲む (nomu) | içmek | fiil | お茶を飲みます。(Ocha o nomimasu.) | Çay içiyorum.
 作る (tsukuru) | yapmak, hazırlamak | fiil | 母がカレーを作ります。(Haha ga karē o tsukurimasu.) | Annem köri yapıyor.
 焼く (yaku) | pişirmek (ızgara, fırın) | fiil | 魚を焼きます。(Sakana o yakimasu.) | Balık ızgara yapıyorum.
 好き (suki) | sevilen, hoşa giden | sıfat | 私はすしが好きです。(Watashi wa sushi ga suki desu.) | Suşiyi severim.
@@ -103,7 +103,7 @@
 ケーキ (kēki) | pasta, kek | isim | 誕生日にケーキを食べます。(Tanjōbi ni kēki o tabemasu.) | Doğum gününde pasta yeriz.
 アイスクリーム (aisukurīmu) | dondurma | isim | 夏はアイスクリームがいいです。(Natsu wa aisukurīmu ga ii desu.) | Yazın dondurma iyi gider.
 チョコレート (chokorēto) | çikolata | isim | チョコレートを一つどうぞ。(Chokorēto o hitotsu dōzo.) | Bir çikolata buyur.
-和菓子 (wagashi) | geleneksel Japon tatlısı | isim | 和菓子とお茶は合います。(Wagashi to o-cha wa aimasu.) | Japon tatlısı çayla iyi gider.
+和菓子 (wagashi) | geleneksel Japon tatlısı | isim | 和菓子とお茶は合います。(Wagashi to ocha wa aimasu.) | Japon tatlısı çayla iyi gider.
 だんご (dango) | pirinç unu köftesi (tatlı) | isim | 花見でだんごを食べます。(Hanami de dango o tabemasu.) | Çiçek seyrinde dango yeriz.
 もち (mochi) | pirinç keki | isim | お正月にもちを食べます。(Oshōgatsu ni mochi o tabemasu.) | Yeni yılda mochi yeriz.
 せんべい (senbei) | pirinç krakeri | isim | せんべいは硬いです。(Senbei wa katai desu.) | Pirinç krakeri serttir.

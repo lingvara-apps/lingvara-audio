@@ -1,6 +1,6 @@
 # UNIT: Seyahat | Uçak, tren, otel, gezi, belgeler
 ## Uçak ve havalimanı
-il volo | uçuş | isim (e) | Il volo per Istanbul è alle otto. | İstanbul uçuşu saat sekizde.
+il volo | uçuş | isim (e) | Il volo per Parigi è alle otto. | Paris uçuşu saat sekizde.
 il check-in | check-in, uçuş kaydı | isim (e) | Faccio il check-in online. | Check-in'i internetten yapıyorum.
 la carta d'imbarco | biniş kartı | isim (d) | Ecco la mia carta d'imbarco. | İşte biniş kartım.
 il bagaglio | bagaj | isim (e) | Il mio bagaglio pesa venti chili. | Bagajım yirmi kilo.
@@ -25,7 +25,7 @@ il controllore | kondüktör, biletçi | isim (e) | Il controllore chiede i bigl
 la camera singola | tek kişilik oda | isim (d) | Vorrei una camera singola. | Tek kişilik bir oda istiyorum.
 la camera doppia | iki kişilik oda | isim (d) | La camera doppia costa ottanta euro. | İki kişilik oda seksen avro.
 la reception | resepsiyon | isim (d) | Lascio la chiave alla reception. | Anahtarı resepsiyona bırakıyorum.
-la prenotazione | rezervasyon | isim (d) | Ho una prenotazione a nome Demir. | Demir adına rezervasyonum var.
+la prenotazione | rezervasyon | isim (d) | Ho una prenotazione a nome Rossi. | Rossi adına rezervasyonum var.
 incluso | dahil | sıfat | La colazione è inclusa? | Kahvaltı dahil mi?
 la mezza pensione | yarım pansiyon | isim (d) | Prendiamo la mezza pensione. | Yarım pansiyon alıyoruz.
 l'ostello (e) | hostel, gençlik yurdu | isim (e) | Dormo in un ostello economico. | Ucuz bir hostelde kalıyorum.
@@ -79,7 +79,7 @@ il navigatore | navigasyon cihazı | isim (e) | Il navigatore dice di girare a d
 ## Yön bulma
 la direzione | yön | isim (d) | Siamo nella direzione giusta? | Doğru yönde miyiz?
 l'indicazione (d) | işaret, tarif | isim (d) | Seguiamo le indicazioni per il centro. | Merkez tabelalarını takip edelim.
-il cartello | tabela, levha | isim (e) | Il cartello dice "Firenze 20 km". | Tabelada "Floransa 20 km" yazıyor.
+il cartello | tabela, levha | isim (e) | Il cartello dice "Firenze, venti chilometri". | Tabelada "Floransa, yirmi kilometre" yazıyor.
 seguire | takip etmek, izlemek | fiil | Segui quella macchina! | O arabayı takip et!
 proseguire | devam etmek (yola) | fiil | Prosegua dritto per due chilometri. | İki kilometre düz devam edin.
 tornare indietro | geri dönmek | ifade | Abbiamo sbagliato strada, torniamo indietro. | Yolu şaşırdık, geri dönelim.

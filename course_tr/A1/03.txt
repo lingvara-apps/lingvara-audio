@@ -38,7 +38,7 @@ sabah | morning | isim | Sabah kahvaltı yapıyorum. | I have breakfast in the m
 öğleden sonra | afternoon | isim | Öğleden sonra müzeye gidiyoruz. | We're going to the museum in the afternoon.
 akşam | evening | isim | Akşam ne yapıyorsun? | What are you doing this evening?
 gece | night | isim | Gece geç yattım. | I went to bed late at night.
-gün | day | isim | Bugün güzel bir gün. | Today is a beautiful day.
+gün | day | isim | Güzel bir gün geçirdik. | We had a lovely day.
 bugün | today | zarf | Bugün hava çok sıcak. | It's very hot today.
 yarın | tomorrow | zarf | Yarın sinemaya gidelim mi? | Shall we go to the cinema tomorrow?
 dün | yesterday | zarf | Dün akşam evdeydim. | I was at home yesterday evening.

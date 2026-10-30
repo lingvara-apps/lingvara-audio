@@ -6,7 +6,7 @@
 リビング (ribingu) | oturma odası, salon | isim | リビングでテレビを見ます。(Ribingu de terebi o mimasu.) | Salonda televizyon izleriz.
 寝室 (shinshitsu) | yatak odası | isim | 寝室は二階です。(Shinshitsu wa nikai desu.) | Yatak odası üst katta.
 トイレ (toire) | tuvalet | isim | トイレはどこですか。(Toire wa doko desu ka.) | Tuvalet nerede?
-お風呂 (o-furo) | banyo, küvet | isim | 毎晩お風呂に入ります。(Maiban o-furo ni hairimasu.) | Her akşam banyo yaparım.
+お風呂 (ofuro) | banyo, küvet | isim | 毎晩お風呂に入ります。(Maiban ofuro ni hairimasu.) | Her akşam banyo yaparım.
 玄関 (genkan) | antre, giriş (ayakkabı çıkarılan yer) | isim | 玄関で靴を脱ぎます。(Genkan de kutsu o nugimasu.) | Girişte ayakkabıları çıkarırız.
 庭 (niwa) | bahçe | isim | 庭に桜の木があります。(Niwa ni sakura no ki ga arimasu.) | Bahçede bir kiraz ağacı var.
 階段 (kaidan) | merdiven | isim | 階段で上がります。(Kaidan de agarimasu.) | Merdivenden çıkıyorum.
@@ -48,7 +48,7 @@
 電話 (denwa) | telefon | isim | 電話が鳴っています。(Denwa ga natte imasu.) | Telefon çalıyor.
 パソコン (pasokon) | bilgisayar | isim | パソコンで仕事をします。(Pasokon de shigoto o shimasu.) | Bilgisayarda çalışırım.
 洗濯機 (sentakuki) | çamaşır makinesi | isim | 洗濯機は外にあります。(Sentakuki wa soto ni arimasu.) | Çamaşır makinesi dışarıda.
-掃除機 (sōjiki) | elektrikli süpürge | isim | 掃除機をかけます。(Sōjiki o kakemasu.) | Elektrik süpürgesi çekiyorum.
+掃除機 (sōjiki) | elektrikli süpürge | isim | 掃除機をかけます。(Sōjiki o kakemasu.) | Elektrikli süpürgeyle süpürüyorum.
 鏡 (kagami) | ayna | isim | 鏡を見ます。(Kagami o mimasu.) | Aynaya bakıyorum.
 カーテン (kāten) | perde | isim | カーテンを閉めます。(Kāten o shimemasu.) | Perdeyi kapatıyorum.
 物 (mono) | şey, eşya | isim | この部屋は物が多いです。(Kono heya wa mono ga ōi desu.) | Bu odada çok eşya var.
@@ -64,7 +64,7 @@
 洗面所 (senmenjo) | lavabo bölümü | isim | 洗面所で顔を洗います。(Senmenjo de kao o araimasu.) | Lavaboda yüzümü yıkıyorum.
 トイレットペーパー (toiretto pēpā) | tuvalet kâğıdı | isim | トイレットペーパーを買いました。(Toiretto pēpā o kaimashita.) | Tuvalet kâğıdı aldım.
 ドライヤー (doraiyā) | saç kurutma makinesi | isim | ドライヤーで髪を乾かします。(Doraiyā de kami o kawakashimasu.) | Saçımı fönle kurutuyorum.
-浴びる (abiru) | (duş) almak; ıslanmak | fiil | 夜シャワーを浴びます。(Yoru shawā o abimasu.) | Akşam duş alırım.
+浴びる (abiru) | (duş) almak; (güneş, su) üstüne almak | fiil | 公園で日光を浴びます。(Kōen de nikkō o abimasu.) | Parkta güneşleniyorum.
 ## Ev işleri
 家事 (kaji) | ev işi | isim | 夫も家事をします。(Otto mo kaji o shimasu.) | Kocam da ev işi yapar.
 掃除する (sōji suru) | temizlik yapmak | fiil · düzensiz | 週末に部屋を掃除します。(Shūmatsu ni heya o sōji shimasu.) | Hafta sonu odamı temizlerim.
@@ -82,7 +82,7 @@
 中 (naka) | iç, içinde | isim | かばんの中に財布があります。(Kaban no naka ni saifu ga arimasu.) | Çantanın içinde cüzdan var.
 外 (soto) | dış, dışarı | isim | 外は寒いです。(Soto wa samui desu.) | Dışarısı soğuk.
 前 (mae) | ön, önünde | isim | 家の前に車があります。(Ie no mae ni kuruma ga arimasu.) | Evin önünde araba var.
-後ろ (ushiro) | arka, arkasında | isim | ドアの後ろにいます。(Doa no ushiro ni imasu.) | Kapının arkasında.
+後ろ (ushiro) | arka, arkasında | isim | 猫はドアの後ろにいます。(Neko wa doa no ushiro ni imasu.) | Kedi kapının arkasında.
 横 (yoko) | yan, yanında | isim | テレビの横に時計があります。(Terebi no yoko ni tokei ga arimasu.) | Televizyonun yanında saat var.
 隣 (tonari) | yan (komşu), bitişik | isim | 隣の部屋は静かです。(Tonari no heya wa shizuka desu.) | Yan oda sessiz.
 間 (aida) | ara, arasında | isim | 本と本の間にペンがあります。(Hon to hon no aida ni pen ga arimasu.) | Kitapların arasında kalem var.
@@ -103,7 +103,7 @@
 マンション (manshon) | apartman dairesi (betonarme, büyük bina) | isim | 新しいマンションです。(Atarashii manshon desu.) | Yeni bir apartman.
 一戸建て (ikkodate) | müstakil ev | isim | 両親は一戸建てに住んでいます。(Ryōshin wa ikkodate ni sunde imasu.) | Annemle babam müstakil evde oturuyor.
 和室 (washitsu) | Japon tarzı oda | isim | 和室で寝ます。(Washitsu de nemasu.) | Japon odasında uyuyorum.
-押し入れ (oshiire) | gömme dolap (futon dolabı) | isim | 布団を押し入れに入れます。(Futon o oshiire ni iremasu.) | Yatağı dolaba kaldırıyorum.
+押し入れ (oshiire) | gömme dolap (futon dolabı) | isim | 布団を押し入れに入れます。(Futon o oshiire ni iremasu.) | Futonu dolaba kaldırıyorum.
 障子 (shōji) | kâğıt sürgü kapı | isim | 障子を開けます。(Shōji o akemasu.) | Kâğıt kapıyı açıyorum.
 こたつ (kotatsu) | ısıtıcılı alçak masa | isim | 冬はこたつが一番です。(Fuyu wa kotatsu ga ichiban desu.) | Kışın en iyisi kotatsu.
 座布団 (zabuton) | minder | isim | 座布団にどうぞ。(Zabuton ni dōzo.) | Mindere buyurun.

@@ -1,6 +1,6 @@
 # UNIT: İnsan ve ilişkiler | Kişilik, aile, davranış, duygular
 ## Olumlu kişilik özellikleri
-selbstbewusst | kendine güvenen | sıfat | Seit ihrem neuen Job wirkt Anna viel selbstbewusster. | Yeni işinden beri Anna kendine çok daha güvenli görünüyor.
+selbstbewusst | kendine güvenen | sıfat | Seit ihrem neuen Job wirkt Anna viel selbstbewusster. | Yeni işinden beri Anna kendinden çok daha emin görünüyor.
 rücksichtsvoll | düşünceli, saygılı | sıfat | Unsere Nachbarn sind sehr rücksichtsvoll und machen nachts keinen Lärm. | Komşularımız çok düşünceli, geceleri gürültü yapmıyorlar.
 ehrgeizig | hırslı | sıfat | Emre ist sehr ehrgeizig und will schnell Karriere machen. | Emre çok hırslı ve hızla kariyer yapmak istiyor.
 aufgeschlossen | açık fikirli, dışa dönük | sıfat | Meine Großmutter ist neuen Ideen gegenüber sehr aufgeschlossen. | Büyükannem yeni fikirlere karşı çok açık.
@@ -15,7 +15,7 @@ arrogant | kibirli | sıfat | Der neue Kollege wirkt leider ziemlich arrogant. |
 eingebildet | kendini beğenmiş | sıfat | Seit er berühmt ist, ist er total eingebildet. | Ünlü olduğundan beri tamamen kendini beğenmiş biri oldu.
 launisch | huysuz, ruh hâli değişken | sıfat | Morgens vor dem Kaffee ist meine Schwester oft launisch. | Kız kardeşim sabahları kahveden önce genelde huysuzdur.
 empfindlich | alıngan, hassas | sıfat | Sei vorsichtig mit Kritik, er ist sehr empfindlich. | Eleştiride dikkatli ol, o çok alıngandır.
-misstrauisch | güvensiz, kuşkucu | sıfat | Nach dem Betrug ist sie Fremden gegenüber misstrauisch. | Dolandırıldıktan sonra yabancılara karşı kuşkulu.
+misstrauisch | kuşkucu, şüpheci | sıfat | Nach dem Betrug ist sie Fremden gegenüber misstrauisch. | Dolandırıldıktan sonra yabancılara karşı kuşkulu.
 neidisch | kıskanç, haset | sıfat | Er war neidisch auf das neue Auto seines Bruders. | Kardeşinin yeni arabasını kıskanıyordu.
 unzuverlässig | güvenilmez | sıfat | Ein unzuverlässiger Mitarbeiter kommt oft zu spät oder gar nicht. | Güvenilmez bir çalışan sık sık geç gelir ya da hiç gelmez.
 rücksichtslos | düşüncesiz, saygısız | sıfat | Es ist rücksichtslos, im Zug so laut zu telefonieren. | Trende bu kadar yüksek sesle telefonla konuşmak saygısızlıktır.
@@ -37,9 +37,9 @@ die Zufriedenheit | memnuniyet | isim (d) | Die Zufriedenheit der Mitarbeiter is
 die Begeisterung | coşku, heves | isim (d) | Die Kinder haben mit großer Begeisterung den Schneemann gebaut. | Çocuklar kardan adamı büyük bir coşkuyla yaptılar.
 die Hoffnung (die Hoffnungen) | umut | isim (d) | Wir geben die Hoffnung nicht auf, dass alles gut wird. | Her şeyin yoluna gireceğine dair umudumuzu kaybetmiyoruz.
 die Dankbarkeit | minnettarlık | isim (d) | Ich möchte euch meine Dankbarkeit für eure Hilfe zeigen. | Yardımınız için size minnettarlığımı göstermek istiyorum.
-das Vertrauen | güven | isim (o) | Vertrauen ist die Basis jeder guten Beziehung. | Güven her iyi ilişkinin temelidir.
-sich verlassen können | güvenebilmek | ifade | Auf meine beste Freundin kann ich mich immer verlassen. | En yakın arkadaşıma her zaman güvenebilirim.
-der Stolz | gurur | isim (e) | Mit Stolz zeigte er uns sein erstes eigenes Gehalt. | Gururla bize ilk maaşını gösterdi.
+die Leidenschaft (die Leidenschaften) | tutku | isim (d) | Kochen ist für Diego mehr als ein Hobby, es ist seine Leidenschaft. | Yemek pişirmek Diego için bir hobiden fazlası, onun tutkusu.
+die Neugier | merak | isim (d) | Aus reiner Neugier habe ich das Paket sofort geöffnet. | Sırf meraktan paketi hemen açtım.
+die Sympathie (die Sympathien) | sempati, hoşlanma | isim (d) | Vom ersten Moment an hatten die beiden große Sympathie füreinander. | İkisi ilk andan itibaren birbirine büyük bir sempati duydu.
 die Sehnsucht (die Sehnsüchte) | özlem | isim (d) | Im Ausland hatte sie oft Sehnsucht nach ihrer Familie. | Yurt dışında sık sık ailesini özlerdi.
 bewundern | hayran olmak | fiil | Ich bewundere Menschen, die mehrere Sprachen fließend sprechen. | Birkaç dili akıcı konuşan insanlara hayranım.
 die Erleichterung | rahatlama | isim (d) | Zu meiner Erleichterung war der Test am Ende ganz einfach. | Rahatladım, çünkü test sonunda çok kolaydı.
@@ -72,10 +72,10 @@ sich anfreunden | arkadaş olmak | fiil · dönüşlü | Im Sprachkurs habe ich 
 die Unterstützung | destek | isim (d) | Danke für deine Unterstützung in dieser schweren Zeit. | Bu zor dönemde desteğin için teşekkürler.
 unterstützen | desteklemek | fiil | Meine Freunde haben mich beim Umzug sehr unterstützt. | Arkadaşlarım taşınırken bana çok destek oldular.
 Kontakt halten | iletişimi sürdürmek | ifade | Mit meinen alten Schulfreunden halte ich noch Kontakt. | Eski okul arkadaşlarımla hâlâ iletişimi sürdürüyorum.
-sich melden | haber vermek, ses vermek | fiil · dönüşlü | Melde dich bitte, wenn du gut angekommen bist. | Lütfen iyice vardığında haber ver.
+sich melden | haber vermek, ses vermek | fiil · dönüşlü | Melde dich bitte, wenn du gut angekommen bist. | Lütfen sağ salim vardığında haber ver.
 gemeinsame Interessen | ortak ilgi alanları | ifade | Wir haben viele gemeinsame Interessen, vor allem Musik und Reisen. | Pek çok ortak ilgi alanımız var, özellikle müzik ve seyahat.
 den Kontakt abbrechen | iletişimi kesmek | ifade | Nach dem Streit hat sie den Kontakt komplett abgebrochen. | Kavgadan sonra iletişimi tamamen kesti.
-sich aufeinander verlassen | birbirine güvenmek | ifade | Echte Freunde können sich immer aufeinander verlassen. | Gerçek arkadaşlar her zaman birbirine güvenebilir.
+füreinander da sein | birbirinin yanında olmak | ifade | Echte Freunde sind in schweren Zeiten füreinander da. | Gerçek dostlar zor zamanlarda birbirinin yanında olur.
 ## Tanışma ve aşk
 die Partnerschaft (die Partnerschaften) | birliktelik, ortaklık | isim (d) | Eine gute Partnerschaft braucht viel Respekt und Geduld. | İyi bir birliktelik çok saygı ve sabır gerektirir.
 der Respekt | saygı | isim (e) | In unserer Familie behandeln wir uns gegenseitig mit Respekt. | Ailemizde birbirimize saygıyla davranırız.

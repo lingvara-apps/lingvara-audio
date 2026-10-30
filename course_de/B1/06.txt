@@ -4,7 +4,7 @@ der Klimawandel | iklim değişikliği | isim (e) | Der Klimawandel ist eine der
 die Erderwärmung | küresel ısınma | isim (d) | Die Erderwärmung lässt die Gletscher in den Alpen schmelzen. | Küresel ısınma Alplerdeki buzulları eritiyor.
 der Treibhauseffekt | sera etkisi | isim (e) | Kohlendioxid verstärkt den Treibhauseffekt in der Atmosphäre. | Karbondioksit atmosferdeki sera etkisini güçlendirir.
 das Kohlendioxid | karbondioksit | isim (o) | Autos und Fabriken produzieren jedes Jahr Millionen Tonnen Kohlendioxid. | Arabalar ve fabrikalar her yıl milyonlarca ton karbondioksit üretiyor.
-die Emission (die Emissionen) | salım, emisyon | isim (d) | Die Regierung will die Emissionen bis 2040 stark reduzieren. | Hükümet emisyonları 2040'a kadar büyük ölçüde azaltmak istiyor.
+die Emission (die Emissionen) | salım, emisyon | isim (d) | Die Regierung will die Emissionen bis zweitausendvierzig stark reduzieren. | Hükümet emisyonları 2040 yılına kadar büyük ölçüde azaltmak istiyor.
 der Gletscher (die Gletscher) | buzul | isim (e) | Der Gletscher ist in den letzten fünfzig Jahren stark geschrumpft. | Buzul son elli yılda çok küçüldü.
 der Meeresspiegel | deniz seviyesi | isim (e) | Wenn der Meeresspiegel steigt, sind viele Inseln in Gefahr. | Deniz seviyesi yükselirse birçok ada tehlikeye girer.
 die Atmosphäre | atmosfer | isim (d) | Die Atmosphäre schützt die Erde vor gefährlicher Strahlung. | Atmosfer dünyayı tehlikeli ışınlardan korur.
@@ -74,7 +74,7 @@ das Unwetter (die Unwetter) | fırtınalı hava, kötü hava | isim (o) | Wegen 
 die Feuchtigkeit | nem | isim (d) | Die hohe Feuchtigkeit macht die Hitze noch unangenehmer. | Yüksek nem sıcağı daha da rahatsız edici yapıyor.
 der Sonnenschein | güneş ışığı | isim (e) | Nach Tagen voller Regen genießen wir endlich den Sonnenschein. | Günlerce süren yağmurdan sonra nihayet güneşin tadını çıkarıyoruz.
 die Durchschnittstemperatur (die Durchschnittstemperaturen) | ortalama sıcaklık | isim (d) | Die Durchschnittstemperatur ist im letzten Jahrhundert deutlich gestiegen. | Ortalama sıcaklık geçen yüzyılda belirgin şekilde arttı.
-der Klimaschutz | iklimin korunması | isim (e) | Für den Klimaschutz gehen viele Schüler freitags auf die Straße. | İklimi korumak için birçok öğrenci cuma günleri sokağa çıkıyor.
+der Klimaschutz | iklimin korunması | isim (e) | Zum Klimaschutz kann jeder etwas beitragen, zum Beispiel weniger Auto fahren. | İklimin korunmasına herkes katkıda bulunabilir, örneğin daha az araba kullanarak.
 extrem | aşırı, uç | sıfat | Extreme Wetterereignisse werden in Zukunft immer häufiger. | Aşırı hava olayları gelecekte giderek sıklaşacak.
 ## Tarım ve gıda
 die Landwirtschaft | tarım | isim (d) | Die Landwirtschaft leidet stark unter dem trockenen Sommer. | Tarım kurak yazdan çok etkileniyor.
@@ -83,7 +83,7 @@ das Pestizid (die Pestizide) | tarım ilacı | isim (o) | Pestizide schaden den 
 die Ernte (die Ernten) | hasat, ürün | isim (d) | Die Apfelernte war dieses Jahr wegen des Frosts sehr klein. | Elma hasadı bu yıl don yüzünden çok azdı.
 der Anbau | yetiştirme, ekim | isim (e) | Der Anbau von Wein hat am Bodensee eine lange Tradition. | Bodensee'de bağcılığın uzun bir geleneği var.
 die Massentierhaltung | endüstriyel hayvancılık | isim (d) | Viele Menschen essen kein Fleisch mehr wegen der Massentierhaltung. | Birçok insan endüstriyel hayvancılık yüzünden artık et yemiyor.
-die Lebensmittelverschwendung | gıda israfı | isim (d) | Gegen Lebensmittelverschwendung gibt es in vielen Städten Foodsharing. | Gıda israfına karşı birçok şehirde yemek paylaşımı var.
+die Lebensmittelverschwendung | gıda israfı | isim (d) | Gegen Lebensmittelverschwendung hilft es, nur so viel zu kaufen, wie man braucht. | Gıda israfına karşı yalnızca ihtiyaç kadar satın almak işe yarar.
 saisonal | mevsimlik | sıfat | Saisonales Gemüse ist günstiger und schmeckt meistens besser. | Mevsim sebzesi daha ucuzdur ve genellikle daha lezzetlidir.
 der Kompost | kompost, gübre | isim (e) | Unsere Gemüsereste kommen alle auf den Kompost im Garten. | Sebze artıklarımızın hepsi bahçedeki komposta gidiyor.
 der Bauer (die Bauern) | çiftçi | isim (e) | Der Bauer verkauft seine Milch direkt an die Leute im Dorf. | Çiftçi sütünü doğrudan köydeki insanlara satıyor.
@@ -96,7 +96,7 @@ der Freiwillige (die Freiwilligen) | gönüllü | isim (e) | Am Samstag sammeln 
 reduzieren | azaltmak | fiil | Wir wollen unseren Plastikmüll um die Hälfte reduzieren. | Plastik çöpümüzü yarı yarıya azaltmak istiyoruz.
 vermeiden (vermied, vermieden) | kaçınmak, önlemek | fiil · düzensiz | Ich versuche, Plastiktüten beim Einkaufen zu vermeiden. | Alışverişte plastik poşetten kaçınmaya çalışıyorum.
 das Fahrverbot (die Fahrverbote) | araç trafiği yasağı | isim (o) | In der Innenstadt gilt ein Fahrverbot für alte Dieselautos. | Şehir merkezinde eski dizel arabalara trafik yasağı uygulanıyor.
-der Ausstieg | (bir şeyden) çıkış, vazgeçiş | isim (e) | Der Ausstieg aus der Kohle soll bis 2038 passieren. | Kömürden çıkış 2038'e kadar gerçekleşmeli.
+der Ausstieg | (bir şeyden) çıkış, vazgeçiş | isim (e) | Der Ausstieg aus der Kohle soll bis zweitausendachtunddreißig passieren. | Kömürden çıkış 2038'e kadar gerçekleşmeli.
 fordern | talep etmek | fiil | Die Demonstranten fordern mehr Schutz für den Wald. | Göstericiler orman için daha fazla koruma talep ediyor.
 ## Su ve atık yönetimi
 das Trinkwasser | içme suyu | isim (o) | In der Schweiz kann man das Trinkwasser direkt aus dem Hahn trinken. | İsviçre'de içme suyu doğrudan musluktan içilebilir.

@@ -37,7 +37,7 @@
 ? "Bir öğrenci dışında herkes başardı": نَجَحَ الطُّلَّابُ إِلَّا ___ | طَالِبًا | طَالِبٌ | طَالِبٍ
 ? "Yalnızca Ali geldi": مَا حَضَرَ إِلَّا ___ | عَلِيٌّ | عَلِيًّا | عَلِيٍّ
 ? غَيْر'den sonra gelen isim nasıl okunur? | mecrur | mansub | merfu
-? "Semir dışında herkes geldi": حَضَرَ الْجَمِيعُ عَدَا ___ | سَمِيرًا | سَمِيرٌ | سَمِيرٍ
+? "Semir dışında herkes geldi": حَضَرَ الْجَمِيعُ مَا عَدَا ___ | سَمِيرًا | سَمِيرٌ | سَمِيرٍ
 ? Hangisi istisna edatı değildir? | لٰكِنْ | سِوَى | خَلَا
 
 # TOPIC: Harekeyle ayırt edilen eş yazımlı kelimeler | عِلْم / عَلَم / عَلِمَ، قَدَم / قِدَم، مَلِك / مُلْك

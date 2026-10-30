@@ -99,7 +99,7 @@ il cancelliere | zabıt kâtibi | isim (e) | Il cancelliere ha letto ad alta voc
 la memoria difensiva | savunma dilekçesi | isim (d) | La memoria difensiva deve essere depositata dieci giorni prima dell'udienza. | Savunma dilekçesi duruşmadan on gün önce verilmelidir.
 la gazzetta ufficiale | resmî gazete | isim (d) | La nuova legge entra in vigore dopo la pubblicazione sulla gazzetta ufficiale. | Yeni yasa resmî gazetede yayımlandıktan sonra yürürlüğe girer.
 ## Mevzuat
-il codice civile | medeni kanun | isim (e) | Il codice civile italiano risale al 1942 ma è stato più volte modificato. | İtalyan medeni kanunu 1942'ye dayanıyor ama birçok kez değiştirildi.
+il codice civile | medeni kanun | isim (e) | Il codice civile italiano risale al millenovecentoquarantadue ma è stato più volte modificato. | İtalyan medeni kanunu bin dokuz yüz kırk ikiye dayanıyor ama birçok kez değiştirildi.
 il codice penale | ceza kanunu | isim (e) | Il furto aggravato è disciplinato da un articolo specifico del codice penale. | Nitelikli hırsızlık ceza kanununun özel bir maddesinde düzenlenir.
 il decreto legge | kanun hükmünde kararname | isim (e) | Il governo ha approvato un decreto legge urgente dopo l'alluvione. | Hükümet selin ardından acil bir kanun hükmünde kararname çıkardı.
 il comma | fıkra | isim (e) | Il secondo comma dell'articolo prevede alcune eccezioni per i minori. | Maddenin ikinci fıkrası küçükler için bazı istisnalar öngörüyor.
@@ -108,4 +108,4 @@ il testo unico | derleme kanun, tek metin | isim (e) | Il testo unico raccoglie 
 la norma transitoria | geçici madde | isim (d) | Una norma transitoria permette di completare le pratiche già avviate. | Geçici bir madde başlatılmış işlemlerin tamamlanmasına izin veriyor.
 la circolare | genelge | isim (d) | Il ministero ha diramato una circolare per chiarire l'applicazione della legge. | Bakanlık yasanın uygulanmasını açıklığa kavuşturmak için bir genelge yayımladı.
 l'entrata in vigore (d) | yürürlüğe giriş | isim (d) | L'entrata in vigore del regolamento è prevista per il primo gennaio. | Yönetmeliğin yürürlüğe girişi bir ocak olarak öngörülüyor.
-la disposizione | hüküm (yasal) | isim (d) | Questa disposizione si applica soltanto ai contratti firmati dopo il 2020. | Bu hüküm yalnızca 2020'den sonra imzalanan sözleşmelere uygulanır.
+la disposizione | hüküm (yasal) | isim (d) | Questa disposizione si applica soltanto ai contratti firmati dopo il duemilaventi. | Bu hüküm yalnızca iki bin yirmiden sonra imzalanan sözleşmelere uygulanır.

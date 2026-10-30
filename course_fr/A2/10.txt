@@ -11,7 +11,7 @@ la batterie | batarya, pil; davul seti | isim (d) | Ma batterie est presque vide
 les écouteurs | kulaklık | isim (çoğul) | J'écoute de la musique avec mes écouteurs. | Kulaklıkla müzik dinliyorum.
 l'appareil photo (m) | fotoğraf makinesi | isim (e) | J'ai pris mon appareil photo pour le voyage. | Yolculuğa fotoğraf makinemi aldım.
 ## İnternet
-Internet | internet | isim | Je cherche l'information sur Internet. | Bilgiyi internette arıyorum.
+Internet | internet | isim (e) | Je cherche l'information sur Internet. | Bilgiyi internette arıyorum.
 le site | web sitesi; alan | isim (e) | Le site de la mairie est très pratique. | Belediyenin sitesi çok kullanışlı.
 la page | sayfa | isim (d) | Ouvre la page d'accueil. | Ana sayfayı aç.
 le lien | bağlantı, link; bağ | isim (e) | Je t'envoie le lien par message. | Bağlantıyı sana mesajla gönderiyorum.
@@ -71,7 +71,7 @@ raccrocher | telefonu kapatmak | fiil | Ne raccroche pas ! | Kapatma!
 décrocher | telefonu açmak | fiil | Il ne décroche jamais. | Telefonu hiç açmıyor.
 la sonnerie | zil sesi | isim (d) | J'aime ta sonnerie. | Zil sesini beğendim.
 le forfait | tarife, paket (telefon) | isim (e) | Mon forfait a cinquante gigas. | Tarifemde elli gigabayt var.
-la messagerie vocale | sesli mesaj | isim (d) | Laisse-moi un message sur la messagerie vocale. | Sesli mesajıma bir mesaj bırak.
+la messagerie vocale | sesli mesaj | isim (d) | Laisse-moi un message sur la messagerie vocale. | Telesekreterime bir mesaj bırak.
 le haut-parleur | hoparlör | isim (e) | Mets le téléphone sur haut-parleur. | Telefonu hoparlöre al.
 la carte SIM | SIM kart | isim (d) | J'achète une carte SIM française. | Fransız SIM kartı alıyorum.
 le mode avion | uçak modu | isim (e) | Mets ton téléphone en mode avion. | Telefonunu uçak moduna al.

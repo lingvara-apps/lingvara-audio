@@ -12,13 +12,13 @@ A | Danke schön, Emre. | Çok teşekkürler Emre.
 B | Bitte schön. | Rica ederim.
 ## Nerelisin?
 A | Woher kommst du? | Nerelisin?
-B | Ich komme aus der Türkei. | Türkiye'den geliyorum.
-A | Aus Istanbul? | İstanbul'dan mı?
-B | Nein, aus Izmir. Und du? | Hayır, İzmir'den. Ya sen?
+B | Ich komme aus Kanada. | Kanada'dan geliyorum.
+A | Aus Toronto? | Toronto'dan mı?
+B | Nein, aus Vancouver. Und du? | Hayır, Vancouver'dan. Ya sen?
 A | Ich komme aus Österreich. | Avusturya'dan geliyorum.
 B | Aus Wien? | Viyana'dan mı?
 A | Ja, genau. | Evet, aynen.
-B | Sprichst du Türkisch? | Türkçe konuşuyor musun?
+B | Sprichst du Englisch? | İngilizce konuşuyor musun?
 A | Nein, nur ein bisschen. | Hayır, sadece biraz.
 B | Kein Problem. Ich lerne Deutsch. | Sorun değil. Ben Almanca öğreniyorum.
 ## Sayılar ve renkler

@@ -8,7 +8,7 @@
 = Non sapevo che avessi già finito l'università. | Üniversiteyi çoktan bitirdiğini bilmiyordum.
 ? "Credevo che Sara ___ (essere) italiana." | fosse | sia | era
 ? "Mi piacerebbe che voi ___ (restare) a cena." | restaste | restiate | restavate
-? "Speravo che tu ___ (capire) già tutto." | avessi già capito | abbia già capito | avevi già capito
+? "Speravo che tu ___ (capire) già tutto." | avessi capito | abbia capito | avevi capito
 ? "Il professore voleva che noi ___ (fare) gli esercizi." | facessimo | facciamo | fossimo fatto
 ? "Era necessario che lui ___ (dire) la verità." | dicesse | dica | diceva
 
@@ -33,11 +33,11 @@
 = Il nuovo museo è stato inaugurato dal sindaco. | Yeni müze belediye başkanı tarafından açıldı.
 = I biglietti vengono venduti anche online. | Biletler internetten de satılıyor.
 = Questi documenti vanno consegnati entro venerdì. | Bu belgeler cumaya kadar teslim edilmeli.
-= La lettera fu scritta nel 1860. | Mektup 1860'ta yazıldı.
+= La lettera fu scritta nell'Ottocento. | Mektup on dokuzuncu yüzyılda yazıldı.
 ? "Il libro ___ (scrivere) da una giovane autrice." | è stato scritto | ha stato scritto | è stata scritta
 ? "Le finestre ___ (chiudere) ogni sera dal portiere." | vengono chiuse | vengono chiusi | venono chiuse
 ? "La medicina ___ (prendere) a stomaco vuoto." | va presa | va preso | va prendere
-? Edilgen çümlede eylemi yapan hangi edatla belirtilir? | da | di | per
+? Edilgen cümlede eylemi yapan hangi edatla belirtilir? | da | di | per
 ? "Le case ___ (distruggere) dal terremoto." | sono state distrutte | sono stati distrutti | hanno state distrutte
 
 # TOPIC: Dolaylı anlatım | ha detto che, mi ha chiesto se
@@ -63,10 +63,10 @@
 = C'era una volta un re che ebbe tre figlie. | Bir zamanlar üç kızı olan bir kral varmış.
 = Quando la vide, capì che era innamorato. | Onu gördüğünde âşık olduğunu anladı.
 ? "Il nonno di mio nonno ___ (essere) un grande pescatore." | fu | fù | era stato
-? "La nave ___ (partire) da Genova nel 1860." | partì | partette | parti
+? "La nave ___ (partire) da Genova all'alba." | partì | partette | parti
 ? "Fare" fiilinin üçüncü tekil passato remoto hali hangisidir? | fece | faccì | fò
 ? "Gli esploratori ___ (arrivare) in America." | arrivarono | arrivarno | arriverono
-? Passato remoto en çok nerede kullanılır? | tarih ve edebiyat metinlerinde | gelecek planlarında | kibar isteklerde
+? "I miei bisnonni ___ (vivere) in campagna." | vissero | vivettero | visserono
 
 # TOPIC: Ulaç ve ortaçlı kısaltmalar | studiando, finito il lavoro, dopo aver mangiato
 > Gerundio (-ando, -endo) zaman, neden, yöntem ve koşul bildirir: Camminando ho incontrato Anna (Yürürken Anna'ya rastladım). Geçmiş biçimi: avendo / essendo + ortaç → Avendo finito, sono uscito.
@@ -80,4 +80,4 @@
 ? "___ (finire) i compiti, i bambini sono usciti." | Finiti | Finito | Finendo stati
 ? "Dopo ___ (mangiare), bevo sempre un caffè." | aver mangiato | avendo mangiato | mangiato
 ? "___ (arrivare) a Roma, Giulia ha chiamato la madre." | Arrivata | Arrivato | Essendo arrivato
-? "Essendo stanco, sono andato a letto" cümlesinde gerundio neyi bildirir? | neden | koşul | amaç
+? "___ (essere) in ritardo, ho preso un taxi." | Essendo | Stato | Essente

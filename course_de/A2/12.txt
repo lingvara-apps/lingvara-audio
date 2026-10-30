@@ -50,10 +50,10 @@ auswendig lernen | ezberlemek | ifade | Ich muss das Gedicht auswendig lernen. |
 sich konzentrieren | konsantre olmak | fiil · dönüşlü | Bei dem Lärm kann ich mich nicht konzentrieren. | Bu gürültüde konsantre olamıyorum.
 nachschlagen (schlug nach, nachgeschlagen) | (sözlükte) bakmak | fiil · düzensiz | Ich schlage das Wort im Wörterbuch nach. | Kelimeye sözlükte bakıyorum.
 abschreiben (schrieb ab, abgeschrieben) | kopya çekmek; kopyalamak | fiil · düzensiz | In der Prüfung darf man nicht abschreiben. | Sınavda kopya çekilmez.
-korrigieren | düzeltmek | fiil | Die Lehrerin korrigiert die Tests. | Öğretmen sınav kâğıtlarını okuyor.
+korrigieren | düzeltmek | fiil | Die Lehrerin korrigiert die Tests. | Öğretmen sınav kâğıtlarını düzeltiyor.
 verbessern | iyileştirmek, geliştirmek | fiil | Ich möchte mein Deutsch verbessern. | Almancamı geliştirmek istiyorum.
 unterrichten | ders vermek, öğretmek | fiil | Sie unterrichtet Deutsch an einer Schule. | Bir okulda Almanca öğretiyor.
-das Wissen | bilgi, birikim | isim (o) | Wissen ist Macht. | Bilgi güçtür.
+die Übung (die Übungen) | alıştırma | isim (d) | Diese Übung ist ganz einfach. | Bu alıştırma çok kolay.
 ## Resmî işler
 das Amt (die Ämter) | daire, resmî kurum | isim (o) | Ich muss morgen aufs Amt. | Yarın resmî daireye gitmem lazım.
 die Behörde (die Behörden) | resmî makam, kurum | isim (d) | Die Behörde schickt uns einen Brief. | Kurum bize bir mektup gönderiyor.
@@ -89,7 +89,7 @@ der Wochenmarkt (die Wochenmärkte) | haftalık pazar | isim (e) | Am Donnerstag
 der Integrationskurs (die Integrationskurse) | uyum kursu | isim (e) | Im Integrationskurs lernen wir Deutsch und Landeskunde. | Uyum kursunda Almanca ve ülke bilgisi öğreniyoruz.
 ## Bağlaçlar
 obwohl | -e rağmen | bağlaç | Obwohl es regnet, gehen wir spazieren. | Yağmur yağmasına rağmen yürüyüşe çıkıyoruz.
-als | -dığında (geçmişte); -den (karşılaştırma) | bağlaç | Als ich klein war, wohnten wir in Izmir. | Ben küçükken İzmir'de oturuyorduk.
+als | -dığında (geçmişte); -den (karşılaştırma) | bağlaç | Als ich klein war, wohnten wir in Hamburg. | Ben küçükken Hamburg'da oturuyorduk.
 während | -erken; süresince | bağlaç | Während ich koche, deckst du den Tisch. | Ben yemek yaparken sen sofrayı kur.
 bevor | -meden önce | bağlaç | Bevor du gehst, ruf mich an. | Gitmeden önce beni ara.
 nachdem | -dikten sonra | bağlaç | Nachdem wir gegessen hatten, gingen wir ins Kino. | Yemek yedikten sonra sinemaya gittik.
@@ -100,7 +100,7 @@ trotzdem | yine de | zarf | Es war kalt, trotzdem sind wir geschwommen. | Hava s
 außerdem | ayrıca, bunun yanında | zarf | Die Wohnung ist groß, außerdem ist sie billig. | Daire büyük, ayrıca ucuz.
 ## Bağlayıcılar ve sıralama
 entweder … oder | ya … ya da | bağlaç | Wir fahren entweder mit dem Zug oder mit dem Bus. | Ya trenle ya da otobüsle gideceğiz.
-sowohl … als auch | hem … hem de | bağlaç | Sie spricht sowohl Deutsch als auch Türkisch. | Hem Almanca hem de Türkçe konuşuyor.
+sowohl … als auch | hem … hem de | bağlaç | Sie spricht sowohl Deutsch als auch Spanisch. | Hem Almanca hem de İspanyolca konuşuyor.
 weder … noch | ne … ne de | bağlaç | Ich habe weder Zeit noch Geld. | Ne vaktim ne de param var.
 nicht nur … sondern auch | sadece … değil, … de | ifade | Er ist nicht nur nett, sondern auch klug. | Sadece nazik değil, aynı zamanda akıllı.
 zuerst | önce, ilk olarak | zarf | Zuerst machen wir die Hausaufgaben. | Önce ödevleri yapıyoruz.

@@ -63,7 +63,7 @@ costante | sabit, sürekli | sıfat | Il malato ha bisogno di un'assistenza cost
 temporaneo | geçici | sıfat | È solo un lavoro temporaneo per l'estate. | Bu sadece yaz için geçici bir iş.
 permanente | kalıcı | sıfat | Dopo il lungo soggiorno ha ottenuto la residenza permanente. | Uzun kalışın ardından kalıcı ikamet hakkı aldı.
 definitivo | kesin, nihai | sıfat | La decisione è definitiva, non cambio idea. | Karar kesin, fikrimi değiştirmiyorum.
-provvisorio | muvakkat (resmî belge) | sıfat | Questo è solo un documento provvisorio, l'originale arriva dopo. | Bu sadece geçici bir belge, aslı sonra geliyor.
+provvisorio | geçici (resmî), muvakkat | sıfat | Questo è solo un documento provvisorio, l'originale arriva dopo. | Bu sadece geçici bir belge, aslı sonra geliyor.
 la realtà | gerçeklik | isim (d) | La realtà è spesso diversa da quella che vediamo sui social. | Gerçeklik çoğu zaman sosyal medyada gördüğümüzden farklıdır.
 ## Olasılık ve gereklilik
 possibile | mümkün, olası | sıfat | È possibile prenotare il tavolo anche online. | Masayı internetten de ayırtmak mümkün.
@@ -90,7 +90,7 @@ il lasso di tempo | zaman aralığı | isim (e) | In un breve lasso di tempo è 
 ## Bütün ve parça
 il sistema | sistem | isim (e) | Il sistema dei trasporti in città è molto efficiente. | Şehirdeki ulaşım sistemi çok verimli.
 il complesso | kompleks, yapı topluluğu | isim (e) | Il complesso residenziale ha anche una piscina. | Konut kompleksinin bir de havuzu var.
-la parte | parça, kısım | isim (d) | La parte più bella del viaggio è stata la Sicilia. | Yolculuğun en güzel kısmı Sicilya'ydı.
+l'insieme (e) | bütün, tümü; küme | isim (e) | L'insieme dei risultati mostra un netto miglioramento. | Sonuçların bütünü belirgin bir iyileşme gösteriyor.
 intero | bütün, tam | sıfat | Ho passato l'intera giornata a studiare. | Bütün günü ders çalışarak geçirdim.
 la totalità | tamamı, bütünü | isim (d) | La totalità degli studenti ha superato l'esame. | Öğrencilerin tamamı sınavı geçti.
 parziale | kısmi | sıfat | Per ora abbiamo solo dei risultati parziali. | Şimdilik sadece kısmi sonuçlarımız var.

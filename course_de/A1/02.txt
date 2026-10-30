@@ -1,7 +1,7 @@
 # UNIT: Aile ve insanlar | Akrabalar, meslekler, karakter
 ## Çekirdek aile
 die Familie (die Familien) | aile | isim (d) | Meine Familie wohnt in Köln. | Ailem Köln'de oturuyor.
-die Eltern | anne baba, ebeveynler | isim (çoğul) | Meine Eltern kommen aus Izmir. | Annemle babam İzmirli.
+die Eltern | anne baba, ebeveynler | isim (çoğul) | Meine Eltern wohnen in Dresden. | Annemle babam Dresden'de oturuyor.
 der Vater (die Väter) | baba | isim (e) | Mein Vater ist Busfahrer. | Babam otobüs şoförü.
 die Mutter (die Mütter) | anne | isim (d) | Meine Mutter kocht sehr gut. | Annem çok güzel yemek yapar.
 der Bruder (die Brüder) | erkek kardeş; ağabey | isim (e) | Mein Bruder ist zwanzig. | Erkek kardeşim yirmi yaşında.
@@ -11,7 +11,7 @@ der Sohn (die Söhne) | oğul | isim (e) | Ihr Sohn heißt Felix. | Oğlunun ad�
 die Tochter (die Töchter) | kız evlat | isim (d) | Unsere Tochter geht in die Schule. | Kızımız okula gidiyor.
 das Kind (die Kinder) | çocuk | isim (o) | Sie haben zwei Kinder. | İki çocukları var.
 ## Geniş aile
-die Großeltern | büyükanne ve büyükbaba | isim (çoğul) | Am Sonntag besuchen wir die Großeltern. | Pazar günü büyükannemlerle büyükbabamları ziyaret ediyoruz.
+die Großeltern | büyükanne ve büyükbaba | isim (çoğul) | Am Sonntag besuchen wir die Großeltern. | Pazar günü büyükanne ve büyükbabamızı ziyaret ediyoruz.
 der Opa (die Opas) | dede | isim (e) | Mein Opa ist achtzig Jahre alt. | Dedem seksen yaşında.
 die Oma (die Omas) | nine, babaanne, anneanne | isim (d) | Oma backt einen Apfelkuchen. | Ninem elmalı kek yapıyor.
 der Onkel (die Onkel) | amca, dayı, enişte | isim (e) | Mein Onkel wohnt in Bern. | Amcam Bern'de oturuyor.
@@ -23,7 +23,7 @@ der Neffe (die Neffen) | erkek yeğen | isim (e) | Mein Neffe ist noch ein Baby.
 die Nichte (die Nichten) | kız yeğen | isim (d) | Meine Nichte lernt Klavier. | Yeğenim piyano öğreniyor.
 ## İnsanlar
 der Mann (die Männer) | adam, erkek; koca | isim (e) | Der Mann dort ist mein Nachbar. | Oradaki adam komşum.
-die Frau (die Frauen) | kadın; eş; Bayan (hitap) | isim (d) | Das ist meine Frau Selin. | Bu eşim Selin.
+die Frau (die Frauen) | kadın; eş; … Hanım (hitap) | isim (d) | Das ist meine Frau Selin. | Bu eşim Selin.
 das Baby (die Babys) | bebek | isim (o) | Das Baby lacht. | Bebek gülüyor.
 der Junge (die Jungen) | erkek çocuk, oğlan | isim (e) | Der Junge heißt Elias. | Oğlanın adı Elias.
 das Mädchen (die Mädchen) | kız çocuk | isim (o) | Das Mädchen liest ein Buch. | Kız bir kitap okuyor.
@@ -39,8 +39,8 @@ geschieden | boşanmış | sıfat | Meine Eltern sind geschieden. | Annemle baba
 heiraten | evlenmek | fiil | Mia und Deniz heiraten im Juni. | Mia ile Deniz haziranda evleniyor.
 die Hochzeit (die Hochzeiten) | düğün | isim (d) | Die Hochzeit ist in einem Schloss. | Düğün bir şatoda.
 der Geburtstag (die Geburtstage) | doğum günü | isim (e) | Wann hast du Geburtstag? | Doğum günün ne zaman?
-geboren | doğmuş, doğumlu | sıfat | Ich bin in Ankara geboren. | Ankara'da doğdum.
-das Paar (die Paare) | çift | isim (o) | Sie sind ein schönes Paar. | Güzel bir çiftler.
+geboren | doğmuş, doğumlu | sıfat | Ich bin in Wien geboren. | Viyana'da doğdum.
+das Paar (die Paare) | çift | isim (o) | Sie sind ein schönes Paar. | Onlar güzel bir çift.
 zusammen | birlikte | zarf | Wir essen zusammen. | Birlikte yemek yiyoruz.
 allein | yalnız, tek başına | zarf | Mein Opa wohnt allein. | Dedem yalnız yaşıyor.
 ## Meslekler
@@ -62,13 +62,13 @@ der Kollege (die Kollegen) | iş arkadaşı | isim (e) | Mein Kollege kommt aus 
 die Firma (die Firmen) | şirket, firma | isim (d) | Die Firma ist in Hamburg. | Şirket Hamburg'da.
 der Chef (die Chefs) | patron, şef | isim (e) | Mein Chef ist heute nicht da. | Patronum bugün yok.
 der Bäcker (die Bäcker) | fırıncı | isim (e) | Der Bäcker beginnt um vier Uhr. | Fırıncı saat dörtte işe başlıyor.
-der Mechaniker (die Mechaniker) | tamirci, makinist | isim (e) | Der Mechaniker repariert das Auto. | Tamirci arabayı tamir ediyor.
+der Mechaniker (die Mechaniker) | tamirci, teknisyen | isim (e) | Der Mechaniker repariert das Auto. | Tamirci arabayı tamir ediyor.
 der Taxifahrer (die Taxifahrer) | taksi şoförü | isim (e) | Der Taxifahrer kennt die Stadt gut. | Taksi şoförü şehri iyi tanıyor.
 die Architektin (die Architektinnen) | mimar (kadın) | isim (d) | Die Architektin zeichnet ein Haus. | Mimar bir ev çiziyor.
 ## Görünüş
 groß | büyük; uzun boylu | sıfat | Mein Bruder ist sehr groß. | Ağabeyim çok uzun boylu.
 klein | küçük; kısa boylu | sıfat | Unsere Wohnung ist klein. | Dairemiz küçük.
-jung | genç | sıfat | Die Lehrerin ist noch jung. | Öğretmen daha genç.
+jung | genç | sıfat | Die Lehrerin ist noch jung. | Öğretmen henüz genç.
 alt | yaşlı; eski | sıfat | Wie alt bist du? | Kaç yaşındasın?
 schlank | zayıf, ince | sıfat | Sie ist groß und schlank. | Uzun boylu ve ince.
 dick | şişman; kalın | sıfat | Unser Kater ist ein bisschen dick. | Erkek kedimiz biraz şişman.
@@ -90,14 +90,14 @@ höflich | nazik, terbiyeli | sıfat | Die Kinder sind sehr höflich. | Çocukla
 ## Kişisel bilgiler
 das Formular (die Formulare) | form | isim (o) | Bitte füllen Sie das Formular aus. | Lütfen formu doldurun.
 ausfüllen | doldurmak (form) | fiil | Ich fülle den Antrag aus. | Başvuruyu dolduruyorum.
-der Geburtsort (die Geburtsorte) | doğum yeri | isim (e) | Mein Geburtsort ist Trabzon. | Doğum yerim Trabzon.
+der Geburtsort (die Geburtsorte) | doğum yeri | isim (e) | Mein Geburtsort ist Köln. | Doğum yerim Köln.
 die Telefonnummer (die Telefonnummern) | telefon numarası | isim (d) | Wie ist deine Telefonnummer? | Telefon numaran ne?
 die E-Mail (die E-Mails) | e-posta | isim (d) | Ich schreibe dir eine E-Mail. | Sana bir e-posta yazıyorum.
 männlich | erkek, eril | sıfat | Kreuzen Sie an: männlich oder weiblich. | İşaretleyin: erkek mi kadın mı.
 weiblich | kadın, dişil | sıfat | Das Wort „Katze“ ist weiblich. | "Katze" kelimesi dişildir.
 der Familienstand | medeni hâl | isim (e) | Familienstand: verheiratet. | Medeni hâl: evli.
 unterschreiben (unterschrieb, unterschrieben) | imzalamak | fiil · düzensiz | Bitte unterschreiben Sie hier. | Lütfen buraya imza atın.
-die Staatsangehörigkeit (die Staatsangehörigkeiten) | vatandaşlık, uyruk | isim (d) | Meine Staatsangehörigkeit ist türkisch. | Uyruğum Türk.
+die Staatsangehörigkeit (die Staatsangehörigkeiten) | vatandaşlık, uyruk | isim (d) | Meine Staatsangehörigkeit ist deutsch. | Uyruğum Alman.
 ## Aile içinde
 lieben | sevmek (aşkla) | fiil | Ich liebe meine Familie. | Ailemi seviyorum.
 kennen (kannte, gekannt) | tanımak, bilmek | fiil · düzensiz | Kennst du meinen Bruder? | Ağabeyimi tanıyor musun?

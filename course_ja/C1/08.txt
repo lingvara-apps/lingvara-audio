@@ -88,8 +88,8 @@
 欄間 (ranma) | ranma (kapı üstü oymalı ahşap pano) | isim | 欄間の繊細な彫刻から、柔らかな光が差し込んでいる。 | Kapı üstündeki oymalı panonun ince işçiliğinden yumuşak bir ışık süzülüyor.
 軒 (noki) | saçak | isim | 深い軒が、夏の強い日差しと雨から家を守っている。 | Derin saçaklar evi yazın güçlü güneşinden ve yağmurdan koruyor.
 ## Proje yönetimi
-入札 (nyūsatsu) | ihale | isim | 公共工事の入札で、談合の疑いが持たれている。 | Kamu ihalesinde muvazaa şüphesi var.
-発注者 (hacchūsha) | iş sahibi, ihale makamı | isim | 発注者との協議で、仕上げ材の仕様が変更された。 | İş sahibiyle yapılan görüşmede kaplama malzemesinin şartnamesi değişti.
+入札 (nyūsatsu) | ihale | isim | 公共工事の入札で、談合の疑いが持たれている。 | Kamu ihalesinde ihaleye fesat karıştırma şüphesi var.
+発注者 (hatchūsha) | iş sahibi, ihale makamı | isim | 発注者との協議で、仕上げ材の仕様が変更された。 | İş sahibiyle yapılan görüşmede kaplama malzemesinin şartnamesi değişti.
 工程表 (kōteihyō) | iş programı | isim | 週ごとの工程表を作り、作業の遅れを管理している。 | Haftalık iş programı hazırlayıp gecikmeleri takip ediyoruz.
 出来高 (dekidaka) | hakediş, iş ilerleme miktarı | isim | 毎月の出来高に応じて、工事代金が支払われる。 | İnşaat bedeli her ayki hakedişe göre ödenir.
 追加工事 (tsuika kōji) | ek iş | isim | 追加工事の費用について、施主と書面で合意した。 | Ek işlerin bedeli konusunda yapı sahibiyle yazılı olarak anlaştık.

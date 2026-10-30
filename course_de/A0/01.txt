@@ -34,7 +34,7 @@ Z z | her zaman ts, "tsunami"deki gibi; harfin adı "tset" | harf · ünsüz | Z
 ß | keskin, sert s; uzun ünlü ve çift ünlüden sonra yazılır; adı "es-tset" | harf · ünsüz | Fuß | ayak
 # UNIT: Zor sesler | Çift ünlüler, ch ve sch, z ve v, uzun-kısa ünlüler, r
 ## Çift ünlüler
-ei | "ay" okunur, "e-i" değil | ses | Wein | şarap
+ei, ey | "ay" okunur, "e-i" değil (ey: Meyer) | ses | Wein | şarap
 ie | uzun "ii" okunur, "i-e" değil | ses | Liebe | sevgi; aşk
 eu | "oy" okunur | ses | heute | bugün
 äu | eu gibi "oy" okunur | ses | Häuser | evler
@@ -45,8 +45,8 @@ ah, eh, oh, uh | ünlüden sonraki h okunmaz, ünlüyü uzatır | ses | Zahn | d
 -er | kelime sonunda kısa, açık "a"ya yakın okunur | ses | Vater | baba
 -e | kelime sonunda belirsiz, yarı yutulan kısa e; ama mutlaka okunur | ses | bitte | lütfen
 ## ch, sch ve ng
-ch (a, o, u, au sonrası) | gırtlaktan hırıltılı h, Türkçe "ah"tan daha sert | ses | Buch | kitap
-ch (e, i, ü, ö, ä, ei, eu sonrası) | dilin ortasından ince bir "hş", Türkçe "hiç"teki h'ye yakın | ses | ich | ben
+ach-Laut (ch nach a, o, u, au) | gırtlaktan hırıltılı h, Türkçe "ah"tan daha sert | ses | Buch | kitap
+ich-Laut (ch nach e, i, ü, ö, ä, ei, eu) | dilin ortasından ince bir "hş", Türkçe "hiç"teki h'ye yakın | ses | ich | ben
 -ig | kelime sonunda "iç" gibi ince ch ile okunur | ses | zwanzig | yirmi
 chs | "ks" okunur | ses | sechs | altı
 sch | Türkçe ş | ses | Schule | okul
@@ -70,10 +70,10 @@ j | Türkçe y | ses | ja | evet
 r | gırtlaktan, hafif hırıltılı r; dili titretmeye gerek yok | ses | rot | kırmızı
 -r | ünlüden sonra sonda "a"ya yakın erir | ses | hier | burada
 -b, -d, -g | kelime sonunda sertleşir: p, t, k okunur | ses | Hund | köpek
-eh, ih | sessiz h önceki ünlüyü uzatır | ses | sehen | görmek
+-en | kelime sonunda e çok kısa, neredeyse yutulur | ses | schlafen | uyumak
 ö | Türkçe ö; uzun okunduğunda dudaklar yuvarlak kalır | ses | schön | güzel
 ü | Türkçe ü; uzun ve kısa olabilir | ses | müde | yorgun
-ünlü + çift ünsüz | çift ünsüzden önceki ünlü kısa ve keskin okunur | ses | Mutter | anne
+Vokal + Doppelkonsonant | çift ünsüzden önceki ünlü kısa ve keskin okunur | ses | Mutter | anne
 ck | k okunur; önündeki ünlü kısadır | ses | Zucker | şeker
 ph | f okunur | ses | Physik | fizik
 th | t okunur, İngilizcedeki gibi değil | ses | Theater | tiyatro
@@ -110,10 +110,10 @@ die Kuh (die Kühe) | inek | isim (d) | Die Kuh gibt Milch. | İnek süt verir.
 die Maus (die Mäuse) | fare | isim (d) | Die Maus ist klein. | Fare küçük.
 das Schwein (die Schweine) | domuz | isim (o) | Das Schwein ist rosa. | Domuz pembe.
 der Bär (die Bären) | ayı | isim (e) | Der Bär lebt im Wald. | Ayı ormanda yaşar.
-das Huhn (die Hühner) | tavuk | isim (o) | Das Huhn legt ein Ei. | Tavuk bir yumurta yumurtluyor.
+das Huhn (die Hühner) | tavuk | isim (o) | Das Huhn legt ein Ei. | Tavuk yumurtluyor.
 ## Nesneler
 das Buch (die Bücher) | kitap | isim (o) | Das Buch ist interessant. | Kitap ilginç.
-der Tisch (die Tische) | masa | isim (e) | Der Tisch ist aus Holz. | Masa ahşaptan.
+der Tisch (die Tische) | masa | isim (e) | Der Tisch ist aus Holz. | Masa ahşap.
 der Stuhl (die Stühle) | sandalye | isim (e) | Der Stuhl ist bequem. | Sandalye rahat.
 das Haus (die Häuser) | ev | isim (o) | Das Haus ist alt. | Ev eski.
 die Tür (die Türen) | kapı | isim (d) | Die Tür ist offen. | Kapı açık.

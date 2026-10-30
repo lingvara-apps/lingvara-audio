@@ -67,7 +67,7 @@ deri | leather; skin | isim | Deri ceket çok pahalı. | The leather jacket is v
 yün | wool | isim | Yün çoraplar çok sıcak tutar. | Woollen socks keep you very warm.
 ## The body (1)
 vücut | body | isim | Spor vücut için çok iyi. | Exercise is very good for the body.
-baş | head | isim | Başım çok ağrıyor. | I have a bad headache.
+baş | head (neutral word) | isim | Başım çok ağrıyor. | I have a bad headache.
 kafa | head (informal); mind | isim | Kafamı kapıya çarptım. | I hit my head on the door.
 boyun | neck | isim | Boynum tutuldu. | I've got a stiff neck.
 göz | eye | isim | Gözlerin çok güzel. | Your eyes are very beautiful.
@@ -85,7 +85,7 @@ parmak | finger; toe | isim | Parmağımı bıçakla kestim. | I cut my finger w
 omuz | shoulder | isim | Omzum çok ağrıyor. | My shoulder really hurts.
 sırt | back (body) | isim | Sırtım ağrıyor, çok oturdum. | My back hurts, I've been sitting too long.
 karın | belly; stomach (outside) | isim | Bebeğin karnı tok. | The baby's tummy is full.
-mide | stomach | isim | Midem boş, bir şey yiyelim. | My stomach is empty, let's eat something.
+mide | stomach (the organ) | isim | Midem boş, bir şey yiyelim. | My stomach is empty, let's eat something.
 kalp | heart | isim | Kalbim hızlı atıyor. | My heart is beating fast.
 ## Health
 hasta | ill; sick; patient | sıfat | Bugün hastayım, işe gitmiyorum. | I'm ill today, I'm not going to work.

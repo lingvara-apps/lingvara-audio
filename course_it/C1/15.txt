@@ -28,7 +28,7 @@ la parrocchia | mahalle kilisesi, cemaat | isim (d) | La parrocchia organizza og
 il vescovo | piskopos | isim (e) | Il vescovo ha celebrato la messa per l'anniversario della cattedrale. | Piskopos katedralin yıl dönümü için ayin yönetti.
 l'ordine religioso (e) | dinî tarikat | isim (e) | San Francesco fondò un ordine religioso basato sulla povertà. | Aziz Francesco yoksulluğa dayalı bir dinî tarikat kurdu.
 la confraternita | dinî kardeşlik derneği | isim (d) | La confraternita organizza la processione del Venerdì santo. | Dinî kardeşlik derneği Kutsal Cuma alayını düzenliyor.
-il concilio | konsil (ruhani meclis) | isim (e) | Il concilio di Trento si svolse tra il 1545 e il 1563. | Trento Konsili 1545 ile 1563 arasında toplandı.
+il concilio | konsil (ruhani meclis) | isim (e) | Il concilio di Trento si svolse tra il millecinquecentoquarantacinque e il millecinquecentosessantatré. | Trento Konsili bin beş yüz kırk beş ile bin beş yüz altmış üç arasında toplandı.
 il sacerdote | rahip | isim (e) | Il sacerdote del paese conosceva personalmente tutte le famiglie. | Köyün rahibi bütün aileleri şahsen tanırdı.
 il rabbino | haham | isim (e) | Il rabbino ha spiegato agli studenti il significato del sabato ebraico. | Haham öğrencilere Yahudi Şabatının anlamını açıkladı.
 l'imam (e) | imam | isim (e) | L'imam ha guidato la preghiera del venerdì nella moschea di Roma. | İmam Roma Camii'nde cuma namazını kıldırdı.
@@ -88,7 +88,7 @@ il chiostro | manastır avlusu, revaklı avlu | isim (e) | Il chiostro del conve
 l'ex voto (e) | adak eşyası | isim (e) | Le pareti del santuario sono coperte di ex voto dipinti dai marinai. | Ziyaretgâhın duvarları denizcilerin boyadığı adak eşyalarıyla kaplı.
 il cero | büyük mum | isim (e) | Ogni anno un grande cero viene acceso davanti all'immagine della Madonna. | Her yıl Meryem Ana tasvirinin önünde büyük bir mum yakılıyor.
 ## Din tarihi
-lo scisma | bölünme (dinî), şizma | isim (e) | Lo scisma del 1054 separò la Chiesa d'Oriente da quella d'Occidente. | 1054 bölünmesi Doğu Kilisesi'ni Batı Kilisesi'nden ayırdı.
+lo scisma | bölünme (dinî), şizma | isim (e) | Lo scisma del millecinquantaquattro separò la Chiesa d'Oriente da quella d'Occidente. | Bin elli dört yılındaki bölünme Doğu Kilisesi'ni Batı Kilisesi'nden ayırdı.
 l'eresia (d) | sapkınlık | isim (d) | Nel Medioevo l'accusa di eresia poteva portare alla condanna a morte. | Orta Çağ'da sapkınlık suçlaması ölüm cezasına yol açabilirdi.
 la riforma protestante | Protestan Reformu | isim (d) | La riforma protestante cambiò profondamente la storia religiosa d'Europa. | Protestan Reformu Avrupa'nın din tarihini derinden değiştirdi.
 la controriforma | Karşı Reform | isim (d) | La controriforma promosse nuove forme di arte sacra e di predicazione. | Karşı Reform kutsal sanatın ve vaazın yeni biçimlerini teşvik etti.
@@ -96,8 +96,8 @@ la crociata | Haçlı Seferi | isim (d) | La prima crociata partì dall'Europa a
 il martirio | şehitlik, din uğruna ölüm | isim (e) | Gli affreschi raccontano il martirio dei primi cristiani di Roma. | Freskler Roma'nın ilk Hristiyanlarının din uğruna ölümünü anlatıyor.
 l'evangelizzazione (d) | Hristiyanlığı yayma | isim (d) | L'evangelizzazione delle campagne richiese secoli di lavoro missionario. | Kırsalın Hristiyanlaştırılması yüzyıllarca misyonerlik çalışması gerektirdi.
 il monachesimo | keşişlik | isim (e) | Nei secoli bui il monachesimo benedettino conservò e copiò molti testi classici. | Karanlık yüzyıllarda Benediktin keşişliği pek çok klasik metni korudu ve kopyaladı.
-la scomunica | aforoz | isim (d) | Durante la lunga lotta per le investiture il papa minacciò di scomunica l'imperatore. | Uzun yatırım mücadelesi sırasında papa imparatoru aforozla tehdit etti.
-la tolleranza religiosa | dinî hoşgörü | isim (d) | L'editto di Milano del 313 introdusse una forma di tolleranza religiosa. | 313 Milano Fermanı bir tür dinî hoşgörü getirdi.
+la scomunica | aforoz | isim (d) | Durante la lunga lotta per le investiture il papa minacciò di scomunica l'imperatore. | Uzun Atama Kavgası sırasında papa imparatoru aforozla tehdit etti.
+la tolleranza religiosa | dinî hoşgörü | isim (d) | L'editto di Milano del trecentotredici introdusse una forma di tolleranza religiosa. | Üç yüz on üç yılındaki Milano Fermanı bir tür dinî hoşgörü getirdi.
 ## Dinî fiiller ve sıfatlar
 venerare | tapınırcasına saygı göstermek | fiil | In molti paesi del sud si venera un santo patrono diverso. | Güneydeki pek çok kasabada farklı bir koruyucu azize saygı gösterilir.
 invocare | yakarmak, seslenmek | fiil | I marinai invocavano la protezione della Madonna durante le tempeste. | Denizciler fırtınalarda Meryem Ana'nın korumasına yakarırdı.

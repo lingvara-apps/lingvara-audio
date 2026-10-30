@@ -39,7 +39,7 @@ der Hausmeister (die Hausmeister) | kapıcı, apartman görevlisi | isim (e) | R
 der Schaden (die Schäden) | hasar | isim (e) | Der Sturm hat großen Schaden gemacht. | Fırtına büyük hasar verdi.
 der Wasserhahn (die Wasserhähne) | musluk | isim (e) | Der Wasserhahn in der Küche tropft. | Mutfaktaki musluk damlatıyor.
 das Rohr (die Rohre) | boru | isim (o) | Ein Rohr im Bad ist kaputt. | Banyodaki bir boru bozuk.
-tropfen | damlamak | fiil | Das Wasser tropft von der Decke. | Su tavandan damlıyor.
+der Riss (die Risse) | çatlak | isim (e) | In der Wand ist ein langer Riss. | Duvarda uzun bir çatlak var.
 undicht | sızdıran | sıfat | Das Fenster ist undicht. | Pencere hava alıyor.
 verstopft | tıkanmış | sıfat | Die Toilette ist verstopft. | Tuvalet tıkanmış.
 wechseln | değiştirmek | fiil | Ich muss die Glühbirne wechseln. | Ampulü değiştirmem lazım.
@@ -58,7 +58,7 @@ streichen (strich, gestrichen) | boyamak (duvar); sürmek | fiil · düzensiz | 
 die Kommode (die Kommoden) | şifonyer | isim (d) | Die Socken sind in der Kommode. | Çoraplar şifonyerde.
 der Nachttisch (die Nachttische) | komodin | isim (e) | Das Handy liegt auf dem Nachttisch. | Telefon komodinin üstünde.
 die Schublade (die Schubladen) | çekmece | isim (d) | Die Schere ist in der Schublade. | Makas çekmecede.
-die Matratze (die Matratzen) | yatak şiltesi | isim (d) | Die Matratze ist zu hart. | Yatak çok sert.
+die Matratze (die Matratzen) | yatak şiltesi | isim (d) | Die Matratze ist zu hart. | Şilte çok sert.
 das Kissen (die Kissen) | yastık | isim (o) | Ich schlafe mit zwei Kissen. | İki yastıkla uyurum.
 die Decke (die Decken) | battaniye, yorgan; tavan | isim (d) | Mir ist kalt, gib mir bitte die Decke. | Üşüyorum, battaniyeyi verir misin?
 die Bettwäsche | nevresim takımı | isim (d) | Ich wechsle jede Woche die Bettwäsche. | Nevresimleri her hafta değiştiririm.
@@ -85,7 +85,7 @@ die Abrechnung (die Abrechnungen) | hesap dökümü | isim (d) | Die Abrechnung 
 die Müllabfuhr | çöp toplama hizmeti | isim (d) | Die Müllabfuhr kommt am Dienstag. | Çöp kamyonu salı günü geliyor.
 die Versicherung (die Versicherungen) | sigorta | isim (d) | Die Versicherung zahlt den Schaden. | Hasarı sigorta ödüyor.
 monatlich | aylık | sıfat | Die monatlichen Kosten sind hoch. | Aylık giderler yüksek.
-jährlich | yıllık | sıfat | Die Versicherung zahlt man jährlich. | Sigorta yıllık ödenir.
+jährlich | yıllık | sıfat | Die Versicherung bezahlen wir jährlich. | Sigortayı yıllık ödüyoruz.
 sparsam | tutumlu; ekonomik | sıfat | Die neue Waschmaschine ist sehr sparsam. | Yeni çamaşır makinesi çok ekonomik.
 ## Ev tipleri
 das Einfamilienhaus (die Einfamilienhäuser) | müstakil ev | isim (o) | Sie wohnen in einem Einfamilienhaus mit Garten. | Bahçeli müstakil bir evde yaşıyorlar.

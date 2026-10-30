@@ -22,7 +22,7 @@
 保険 (hoken) | sigorta | isim | 旅行の保険に入りました。(Ryokō no hoken ni hairimashita.) | Seyahat sigortası yaptırdım.
 手続き (tetsuzuki) | işlem, prosedür | isim | 手続きに時間がかかります。(Tetsuzuki ni jikan ga kakarimasu.) | İşlemler zaman alıyor.
 ## Trenle seyahat
-指定席 (shiteiseki) | numaralı koltuk | isim | 新幹線の指定席を取りました。(Shinkansen no shiteiseki o torimashita.) | Hızlı trende numaralı koltuk aldım.
+指定席 (shiteiseki) | numaralı koltuk | isim | 新幹線の指定席を取りました。(Shinkansen no shiteiseki o torimashita.) | Shinkansende numaralı koltuk aldım.
 自由席 (jiyūseki) | numarasız koltuk | isim | 自由席は三号車です。(Jiyūseki wa sangōsha desu.) | Numarasız koltuklar üç numaralı vagonda.
 改札 (kaisatsu) | bilet gişesi, turnike | isim | 改札の前で待っています。(Kaisatsu no mae de matte imasu.) | Turnikelerin önünde bekliyorum.
 ホーム (hōmu) | peron | isim | 三番ホームから出ます。(Sanban hōmu kara demasu.) | Üç numaralı perondan kalkıyor.
@@ -56,15 +56,15 @@
 記念 (kinen) | hatıra, anma | isim | 記念に写真を撮りましょう。(Kinen ni shashin o torimashō.) | Hatıra olarak fotoğraf çekelim.
 ## Japonya'da yerler
 東京 (Tōkyō) | Tokyo | isim | 東京は日本の首都です。(Tōkyō wa Nihon no shuto desu.) | Tokyo Japonya'nın başkentidir.
-京都 (Kyōto) | Kyoto | isim | 京都で古いお寺を見ました。(Kyōto de furui o-tera o mimashita.) | Kyoto'da eski tapınakları gördüm.
+京都 (Kyōto) | Kyoto | isim | 京都で古いお寺を見ました。(Kyōto de furui otera o mimashita.) | Kyoto'da eski tapınakları gördüm.
 大阪 (Ōsaka) | Osaka | isim | 大阪の食べ物はおいしいです。(Ōsaka no tabemono wa oishii desu.) | Osaka'nın yemekleri çok lezzetli.
 北海道 (Hokkaidō) | Hokkaido | isim | 冬の北海道でスキーをしました。(Fuyu no Hokkaidō de sukī o shimashita.) | Kışın Hokkaido'da kayak yaptım.
 沖縄 (Okinawa) | Okinawa | isim | 沖縄の海はとてもきれいです。(Okinawa no umi wa totemo kirei desu.) | Okinawa'nın denizi çok güzel.
-富士山 (Fujisan) | Fuji Dağı | isim | 新幹線から富士山が見えました。(Shinkansen kara Fujisan ga miemashita.) | Hızlı trenden Fuji Dağı göründü.
+富士山 (Fujisan) | Fuji Dağı | isim | 新幹線から富士山が見えました。(Shinkansen kara Fujisan ga miemashita.) | Shinkansenden Fuji Dağı göründü.
 奈良 (Nara) | Nara | isim | 奈良の公園には鹿がいます。(Nara no kōen ni wa shika ga imasu.) | Nara'nın parkında geyikler var.
 広島 (Hiroshima) | Hiroşima | isim | 広島でお好み焼きを食べました。(Hiroshima de okonomiyaki o tabemashita.) | Hiroşima'da okonomiyaki yedim.
 九州 (Kyūshū) | Kyuşu (ada) | isim | 九州は温泉が多いです。(Kyūshū wa onsen ga ōi desu.) | Kyuşu'da çok kaplıca var.
-首都 (shuto) | başkent | isim | トルコの首都はアンカラです。(Toruko no shuto wa Ankara desu.) | Türkiye'nin başkenti Ankara'dır.
+首都 (shuto) | başkent | isim | フランスの首都はパリです。(Furansu no shuto wa Pari desu.) | Fransa'nın başkenti Paris'tir.
 ## Yolculuk fiilleri
 迷う (mayou) | yolunu kaybetmek; kararsız kalmak | fiil | 駅で道に迷いました。(Eki de michi ni mayoimashita.) | İstasyonda yolumu kaybettim.
 乗り遅れる (noriokureru) | (aracı) kaçırmak | fiil | バスに乗り遅れました。(Basu ni noriokuremashita.) | Otobüsü kaçırdım.
@@ -97,7 +97,7 @@
 夜行バス (yakō basu) | gece otobüsü | isim | 夜行バスは安いです。(Yakō basu wa yasui desu.) | Gece otobüsü ucuz.
 混む (komu) | kalabalık olmak | fiil | 週末の電車は混んでいます。(Shūmatsu no densha wa konde imasu.) | Hafta sonu trenler kalabalık.
 空く (aku) | boşalmak, boş olmak | fiil | この席は空いていますか。(Kono seki wa aite imasu ka.) | Bu koltuk boş mu?
-時差 (jisa) | saat farkı | isim | トルコと日本の時差は六時間です。(Toruko to Nihon no jisa wa rokujikan desu.) | Türkiye ile Japonya arasında altı saat fark var.
+時差 (jisa) | saat farkı | isim | 日本とフランスの時差は何時間ですか。(Nihon to Furansu no jisa wa nanjikan desu ka.) | Japonya ile Fransa arasında kaç saat fark var?
 ## Yurt dışında
 海外 (kaigai) | yurt dışı | isim | 初めて海外旅行に行きます。(Hajimete kaigai ryokō ni ikimasu.) | İlk kez yurt dışına seyahat ediyorum.
 国内 (kokunai) | yurt içi | isim | 今年は国内を旅行します。(Kotoshi wa kokunai o ryokō shimasu.) | Bu yıl yurt içinde geziyorum.
@@ -105,7 +105,7 @@
 言語 (gengo) | dil, lisan | isim | 世界には言語がたくさんあります。(Sekai ni wa gengo ga takusan arimasu.) | Dünyada çok sayıda dil var.
 現地 (genchi) | yerel, o yer | isim | 現地の料理を食べてみたいです。(Genchi no ryōri o tabete mitai desu.) | Yerel yemekleri denemek istiyorum.
 旅行者 (ryokōsha) | gezgin, turist | isim | 京都は旅行者が多いです。(Kyōto wa ryokōsha ga ōi desu.) | Kyoto'da çok turist var.
-大使館 (taishikan) | büyükelçilik | isim | トルコ大使館はどこですか。(Toruko taishikan wa doko desu ka.) | Türkiye Büyükelçiliği nerede?
+大使館 (taishikan) | büyükelçilik | isim | スペイン大使館はどこですか。(Supein taishikan wa doko desu ka.) | İspanya Büyükelçiliği nerede?
 体験 (taiken) | deneyim (yaşanan) | isim | 着物を着る体験をしました。(Kimono o kiru taiken o shimashita.) | Kimono giyme deneyimi yaşadım.
 思い出 (omoide) | anı, hatıra | isim | 日本の旅行はいい思い出です。(Nihon no ryokō wa ii omoide desu.) | Japonya gezisi güzel bir anı.
 通じる (tsūjiru) | anlaşılmak; ulaşmak (telefon) | fiil | 私の日本語が通じました。(Watashi no Nihongo ga tsūjimashita.) | Japoncamla anlaşabildim.

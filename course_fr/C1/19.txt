@@ -2,7 +2,7 @@
 ## Ekleme
 de surcroît | üstelik, buna ek olarak | ifade | Le projet est coûteux et, de surcroît, techniquement très risqué. | Proje pahalı ve üstelik teknik açıdan çok riskli.
 qui plus est | dahası, üstelik | ifade | Elle parle quatre langues et, qui plus est, elle les écrit parfaitement. | Dört dil konuşuyor, dahası hepsini kusursuz yazıyor.
-au demeurant | zaten, bununla birlikte | ifade | Cette proposition, au demeurant fort intéressante, arrive trop tard. | Zaten oldukça ilginç olan bu öneri çok geç geliyor.
+au demeurant | zaten, bununla birlikte | ifade | Cette proposition, au demeurant fort intéressante, arrive trop tard. | Aslında oldukça ilginç olan bu öneri çok geç geliyor.
 en sus | ayrıca, fazladan | ifade | Les frais de livraison sont facturés en sus du prix indiqué. | Teslimat ücreti belirtilen fiyata ek olarak faturalandırılıyor.
 voire | hatta | zarf | Cette réforme prendra des mois, voire des années, avant de porter ses fruits. | Bu reform meyvesini vermeden önce aylar, hatta yıllar sürecek.
 sans compter que | üstelik, bir de … olduğunu hesaba katmazsak | ifade | Le trajet est long, sans compter que les trains sont souvent en retard. | Yolculuk uzun, üstelik trenler de sık sık rötar yapıyor.
@@ -63,7 +63,7 @@ soit | yani, başka bir deyişle | bağlaç | Le voyage coûte mille euros, soit
 à titre d'exemple | örnek olarak | ifade | À titre d'exemple, la ville a planté dix mille arbres en un an. | Örnek olarak, şehir bir yılda on bin ağaç dikti.
 pour le dire autrement | başka türlü söylemek gerekirse | ifade | Pour le dire autrement, le projet est abandonné jusqu'à nouvel ordre. | Başka türlü söylemek gerekirse, proje yeni bir karara kadar rafa kaldırıldı.
 c'est le cas de | … için de geçerlidir | ifade | Plusieurs espèces sont menacées ; c'est le cas de l'ours des Pyrénées. | Birkaç tür tehdit altında; Pirene ayısı için de durum böyle.
-notons que | belirtelim ki | ifade | Notons que cette méthode avait déjà été testée sans succès en 1990. | Belirtelim ki bu yöntem 1990'da da başarısız biçimde denenmişti.
+notons que | belirtelim ki | ifade | Notons que cette méthode avait déjà été testée sans succès en mille neuf cent quatre-vingt-dix. | Belirtelim ki bu yöntem bin dokuz yüz doksanda da başarısız biçimde denenmişti.
 à cet effet | bu amaçla | ifade | Un formulaire a été créé à cet effet sur le site de la mairie. | Belediyenin sitesinde bu amaçla bir form oluşturuldu.
 ## Metin yapısı
 d'une part | bir yandan | ifade | D'une part, il faut réduire les coûts ; d'autre part, il faut investir. | Bir yandan maliyetleri düşürmek, öte yandan yatırım yapmak gerekiyor.

@@ -2,16 +2,16 @@
 ## Benim ailem
 家族 (kazoku) | aile | isim | 私の家族は四人です。(Watashi no kazoku wa yonin desu.) | Ailem dört kişi.
 父 (chichi) | babam (kendi babası) | isim | 父は五十歳です。(Chichi wa gojussai desu.) | Babam elli yaşında.
-母 (haha) | annem (kendi annesi) | isim | 母は料理が上手です。(Haha wa ryōri ga jōzu desu.) | Annem yemekte çok iyidir.
+母 (haha) | annem (kendi annesi) | isim | 母は料理が上手です。(Haha wa ryōri ga jōzu desu.) | Annem yemek yapmakta çok iyidir.
 兄 (ani) | ağabeyim | isim | 兄は東京にいます。(Ani wa Tōkyō ni imasu.) | Ağabeyim Tokyo'da.
 姉 (ane) | ablam | isim | 姉は二十八歳です。(Ane wa nijūhassai desu.) | Ablam yirmi sekiz yaşında.
 弟 (otōto) | erkek kardeşim (küçük) | isim | 弟は高校生です。(Otōto wa kōkōsei desu.) | Küçük erkek kardeşim lise öğrencisi.
 妹 (imōto) | kız kardeşim (küçük) | isim | 妹はかわいいです。(Imōto wa kawaii desu.) | Kız kardeşim çok tatlı.
-両親 (ryōshin) | anne baba, ebeveyn | isim | 両親はトルコに住んでいます。(Ryōshin wa Toruko ni sunde imasu.) | Annemle babam Türkiye'de yaşıyor.
+両親 (ryōshin) | anne baba, ebeveyn | isim | 両親は北海道に住んでいます。(Ryōshin wa Hokkaidō ni sunde imasu.) | Annemle babam Hokkaido'da yaşıyor.
 兄弟 (kyōdai) | kardeşler | isim | 兄弟はいますか。(Kyōdai wa imasu ka.) | Kardeşin var mı?
 一人っ子 (hitorikko) | tek çocuk | isim | 私は一人っ子です。(Watashi wa hitorikko desu.) | Ben tek çocuğum.
 ## Başkasının ailesi
-お父さん (otōsan) | baba (başkasının babası; hitap) | isim | お父さんはお元気ですか。(Otōsan wa o-genki desu ka.) | Babanız nasıl?
+お父さん (otōsan) | baba (başkasının babası; hitap) | isim | お父さんはお元気ですか。(Otōsan wa ogenki desu ka.) | Babanız nasıl?
 お母さん (okāsan) | anne (başkasının annesi; hitap) | isim | お母さん、ただいま。(Okāsan, tadaima.) | Anne, ben geldim.
 お兄さん (onīsan) | ağabey (başkasının; hitap) | isim | ケンさんのお兄さんは背が高いです。(Ken-san no onīsan wa se ga takai desu.) | Ken'in ağabeyi uzun boylu.
 お姉さん (onēsan) | abla (başkasının; hitap) | isim | お姉さんは何歳ですか。(Onēsan wa nansai desu ka.) | Ablanız kaç yaşında?
@@ -53,12 +53,12 @@
 警察官 (keisatsukan) | polis memuru | isim | 警察官に道を聞きました。(Keisatsukan ni michi o kikimashita.) | Polise yolu sordum.
 店員 (ten'in) | tezgâhtar, mağaza çalışanı | isim | 店員さん、すみません。(Ten'in-san, sumimasen.) | Affedersiniz (tezgâhtara seslenirken).
 主婦 (shufu) | ev hanımı | isim | 母は主婦です。(Haha wa shufu desu.) | Annem ev hanımı.
-仕事 (shigoto) | iş, meslek | isim | お仕事は何ですか。(O-shigoto wa nan desu ka.) | Mesleğiniz ne?
+仕事 (shigoto) | iş, meslek | isim | お仕事は何ですか。(Oshigoto wa nan desu ka.) | Mesleğiniz ne?
 ## Meslekler II
 料理人 (ryōrinin) | aşçı | isim | 兄は料理人です。(Ani wa ryōrinin desu.) | Ağabeyim aşçı.
 運転手 (untenshu) | şoför | isim | おじさんはバスの運転手です。(Ojisan wa basu no untenshu desu.) | Amcam otobüs şoförü.
 弁護士 (bengoshi) | avukat | isim | 彼女は弁護士です。(Kanojo wa bengoshi desu.) | O bir avukat.
-歌手 (kashu) | şarkıcı | isim | 夢は歌手です。(Yume wa kashu desu.) | Hayalim şarkıcı olmak.
+歌手 (kashu) | şarkıcı | isim | 夢は歌手になることです。(Yume wa kashu ni naru koto desu.) | Hayalim şarkıcı olmak.
 作家 (sakka) | yazar | isim | 好きな作家は誰ですか。(Suki na sakka wa dare desu ka.) | Sevdiğin yazar kim?
 農家 (nōka) | çiftçi | isim | 祖父は農家です。(Sofu wa nōka desu.) | Dedem çiftçi.
 銀行員 (ginkōin) | bankacı | isim | 姉は銀行員です。(Ane wa ginkōin desu.) | Ablam bankacı.
@@ -78,7 +78,7 @@
 やせる (yaseru) | zayıflamak | fiil | 姉はやせています。(Ane wa yasete imasu.) | Ablam zayıf.
 ## Karakter ve yetenek
 優しい (yasashii) | nazik, şefkatli | sıfat | 母はとても優しいです。(Haha wa totemo yasashii desu.) | Annem çok şefkatli.
-親切 (shinsetsu) | yardımsever, nazik | sıfat | 日本人は親切です。(Nihonjin wa shinsetsu desu.) | Japonlar yardımseverdir.
+親切 (shinsetsu) | yardımsever, nazik | sıfat | 店員さんはとても親切です。(Ten'in-san wa totemo shinsetsu desu.) | Tezgâhtar çok yardımsever.
 明るい (akarui) | neşeli; aydınlık | sıfat | 妹は明るい性格です。(Imōto wa akarui seikaku desu.) | Kız kardeşim neşeli biridir.
 静か (shizuka) | sessiz, sakin | sıfat | 弟は静かな人です。(Otōto wa shizuka na hito desu.) | Erkek kardeşim sakin biridir.
 真面目 (majime) | ciddi, çalışkan | sıfat | 彼はとても真面目です。(Kare wa totemo majime desu.) | O çok çalışkan.
@@ -90,12 +90,12 @@
 ## Kişisel bilgiler
 住所 (jūsho) | adres | isim | ここに住所を書いてください。(Koko ni jūsho o kaite kudasai.) | Adresinizi buraya yazın lütfen.
 電話番号 (denwa bangō) | telefon numarası | isim | 電話番号を教えてください。(Denwa bangō o oshiete kudasai.) | Telefon numaranızı söyler misiniz?
-誕生日 (tanjōbi) | doğum günü | isim | 誕生日は五月三日です。(Tanjōbi wa gogatsu mikka desu.) | Doğum günüm üç mayıs.
+誕生日 (tanjōbi) | doğum günü | isim | 誕生日は五月三日です。(Tanjōbi wa gogatsu mikka desu.) | Doğum günüm üç Mayıs.
 趣味 (shumi) | hobi | isim | 趣味は何ですか。(Shumi wa nan desu ka.) | Hobin ne?
 年齢 (nenrei) | yaş (resmî) | isim | 年齢を書いてください。(Nenrei o kaite kudasai.) | Yaşınızı yazın lütfen.
 名字 (myōji) | soyadı | isim | 名字は鈴木です。(Myōji wa Suzuki desu.) | Soyadım Suzuki.
 住む (sumu) | oturmak, yaşamak (bir yerde) | fiil | 大阪に住んでいます。(Ōsaka ni sunde imasu.) | Osaka'da oturuyorum.
-生まれる (umareru) | doğmak | fiil | 私はアンカラで生まれました。(Watashi wa Ankara de umaremashita.) | Ankara'da doğdum.
+生まれる (umareru) | doğmak | fiil | 私はローマで生まれました。(Watashi wa Rōma de umaremashita.) | Roma'da doğdum.
 会う (au) | buluşmak, görüşmek | fiil | 明日友達に会います。(Ashita tomodachi ni aimasu.) | Yarın arkadaşımla buluşacağım.
 紹介する (shōkai suru) | tanıştırmak, tanıtmak | fiil · düzensiz | 友達を紹介します。(Tomodachi o shōkai shimasu.) | Arkadaşımı tanıştırayım.
 ## Birlikte ve yalnız
@@ -106,6 +106,6 @@
 同じ (onaji) | aynı | sıfat | 私たちは同じクラスです。(Watashitachi wa onaji kurasu desu.) | Biz aynı sınıftayız.
 違う (chigau) | farklı olmak; yanlış olmak | fiil | 兄と私は性格が違います。(Ani to watashi wa seikaku ga chigaimasu.) | Ağabeyimle karakterlerimiz farklı.
 先輩 (senpai) | kıdemli (okulda/işte üst dönem) | isim | 田中さんは大学の先輩です。(Tanaka-san wa daigaku no senpai desu.) | Tanaka üniversiteden üst dönemim.
-後輩 (kōhai) | alt dönem, daha yeni olan | isim | 彼は会社の後輩です。(Kare wa kaisha no kōhai desu.) | O şirketteki yeni arkadaşım.
+後輩 (kōhai) | alt dönem, daha yeni olan | isim | 彼は会社の後輩です。(Kare wa kaisha no kōhai desu.) | O, şirkette benden sonra işe girdi.
 クラスメート (kurasumēto) | sınıf arkadaşı | isim | クラスメートと勉強します。(Kurasumēto to benkyō shimasu.) | Sınıf arkadaşlarımla çalışıyorum.
 ペット (petto) | evcil hayvan | isim | ペットを飼っていますか。(Petto o katte imasu ka.) | Evcil hayvanın var mı?

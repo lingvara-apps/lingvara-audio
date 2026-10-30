@@ -16,14 +16,14 @@
 審理 (shinri) | yargılama, inceleme | isim | 審理は予想以上に長引き、判決は来年に持ち越された。 | Yargılama beklenenden uzun sürdü ve karar gelecek yıla kaldı.
 口頭弁論 (kōtō benron) | sözlü yargılama, duruşmada savunma | isim | 次回の口頭弁論は三月十日に開かれる予定だ。 | Bir sonraki sözlü duruşma 10 Mart'ta yapılacak.
 控訴 (kōso) | istinaf (birinci derece kararına itiraz) | isim | 判決を不服として、弁護側は直ちに控訴した。 | Karara itiraz eden savunma hemen istinafa başvurdu.
-上告 (jōkoku) | temyiz (yüksek mahkemeye) | isim | 高等裁判所の判決に対し、原告は上告する方針を示した。 | Davacı yüksek mahkeme kararına karşı temyize gideceğini belirtti.
+上告 (jōkoku) | temyiz (yüksek mahkemeye) | isim | 高等裁判所の判決に対し、原告は上告する方針を示した。 | Davacı istinaf mahkemesinin kararına karşı temyize gideceğini belirtti.
 差し戻し (sashimodoshi) | bozup geri gönderme (alt mahkemeye) | isim | 最高裁は審理が不十分だとして、事件を高裁に差し戻した。 | Yüksek Mahkeme yargılamayı yetersiz bulup dosyayı bölge mahkemesine geri gönderdi.
 結審 (kesshin) | duruşmanın tamamlanması | isim | 裁判は本日結審し、判決は来月言い渡される。 | Yargılama bugün tamamlandı, karar gelecek ay açıklanacak.
 判例 (hanrei) | içtihat, emsal karar | isim | 過去の判例に照らせば、今回の請求は認められにくい。 | Geçmiş içtihatlara bakılırsa bu talebin kabul edilmesi zor.
 確定判決 (kakutei hanketsu) | kesinleşmiş hüküm | isim | 確定判決が出た事件を再び裁くことはできない。 | Kesinleşmiş hükmü olan bir dava yeniden yargılanamaz.
 ## Ceza hukuku
 被疑者 (higisha) | şüpheli (soruşturma aşamasında) | isim | 警察は被疑者の自宅から多数の書類を持ち出した。 | Polis şüphelinin evinden çok sayıda belge çıkardı.
-送検 (sōken) | dosyanın savcılığa sevki | isim | 男は窃盗の疑いで書類送検された。 | Adam hırsızlık şüphesiyle dosyası savcılığa gönderildi.
+送検 (sōken) | dosyanın savcılığa sevki | isim | 男は窃盗の疑いで書類送検された。 | Adamın dosyası hırsızlık şüphesiyle savcılığa gönderildi.
 勾留 (kōryū) | tutukluluk | isim | 裁判所は証拠隠滅の恐れがあるとして勾留を認めた。 | Mahkeme delil karartma tehlikesi olduğundan tutukluluğa hükmetti.
 保釈 (hoshaku) | kefaletle salıverme | isim | 被告人は保釈金を納付し、昨夜保釈された。 | Sanık kefalet ücretini yatırıp dün gece serbest bırakıldı.
 執行猶予 (shikkō yūyo) | ertelenmiş ceza | isim | 被告人には懲役二年、執行猶予三年の判決が下った。 | Sanığa iki yıl hapis cezası verildi ve ceza üç yıl ertelendi.
@@ -85,7 +85,7 @@
 科す (kasu) | (ceza) vermek, uygulamak | fiil | 違反した業者には重い罰金が科された。 | Kurala uymayan işletmeye ağır para cezası verildi.
 執行する (shikkō suru) | infaz etmek, uygulamak | fiil | 判決が確定した後、刑が執行される。 | Karar kesinleştikten sonra ceza infaz edilir.
 差し押さえる (sashiosaeru) | haciz koymak | fiil | 税金を滞納したため、自宅が差し押さえられた。 | Vergi borcunu ödemediği için evine haciz konuldu.
-申し立てる (mōshitateru) | resmen başvurmak, itiraz etmek | fiil | 判決に不服があれば、二週間以内に異議を申し立てることができる。 | Karara itiraz edenler iki hafta içinde başvurabilir.
+申し立てる (mōshitateru) | resmen başvurmak, itiraz etmek | fiil | 判決に不服があれば、二週間以内に異議を申し立てることができる。 | Karardan memnun olmayanlar iki hafta içinde itiraz edebilir.
 免除する (menjo suru) | muaf tutmak | fiil | 収入の少ない学生は授業料の一部を免除される。 | Geliri düşük öğrenciler harcın bir kısmından muaf tutulur.
 ## Delil ve soruşturma
 供述 (kyōjutsu) | ifade (resmî beyan) | isim | 容疑者の供述には矛盾する点がいくつもあった。 | Şüphelinin ifadesinde birçok çelişkili nokta vardı.

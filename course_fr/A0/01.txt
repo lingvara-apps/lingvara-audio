@@ -52,8 +52,8 @@ un, um | geniz sesi; bugün çoğu kişi "in" gibi söyler | ses | lundi | pazar
 -ien | "yen" — sonu genizden | ses | bien | iyi
 -oin | "vin" — sonu genizden | ses | loin | uzak
 bon / bonne | n'den sonra ünlü gelirse geniz sesi kaybolur, n okunur | ses | bonne nuit | iyi geceler
-an / âne | çift n ya da n + ünlü: geniz sesi yok, Türkçedeki gibi "an" | ses | année | yıl
--ent fiil sonu | fiil sonundaki -ent hiç okunmaz | ses | ils parlent | konuşuyorlar
+an / âne | çift n ya da n + ünlü: geniz sesi yok, düz "an" okunur | ses | année | yıl
+-ent (verbe) | fiil sonundaki -ent hiç okunmaz | ses | ils parlent | konuşuyorlar
 -ent, -ment | isim ve zarflarda -ent geniz "a"sı okunur | ses | souvent | sık sık
 ## Ünsüzler
 r, rr | gırtlaktan, hafif hırıltılı; dil ucu titremez | ses | Paris | Paris
@@ -76,7 +76,7 @@ liaison | sessiz son ünsüz, ünlüyle başlayan kelimeye bağlanıp okunur | s
 élision | le, la, je, de gibi kelimeler ünlüden önce l', j', d' olur | ses | l'eau | su
 enchaînement | okunan son ünsüz sonraki ünlüye kayar | ses | elle arrive | o geliyor
 -et | sonda "e" okunur, t sessiz | ses | jouet | oyuncak
--er (isim) | çoğu kelimede "e"; bazı kısa kelimelerde r okunur | ses | hiver | kış
+-er (nom) | çoğu kelimede "e"; bazı kısa kelimelerde r okunur | ses | hiver | kış
 # UNIT: İlk kelimeler | Sayılar 1–10, renkler, hayvanlar, nesneler, doğa
 ## Sayılar 1–10
 un | bir | sayı | J'ai un frère. | Bir erkek kardeşim var.
@@ -92,7 +92,7 @@ dix | on | sayı | Je compte jusqu'à dix. | Ona kadar sayıyorum.
 ## Renkler
 rouge | kırmızı | sıfat | La pomme est rouge. | Elma kırmızı.
 bleu | mavi | sıfat | La mer est bleue. | Deniz mavi.
-vert | yeşil | sıfat | J'aime le vert. | Yeşili severim.
+vert | yeşil | sıfat | L'herbe est verte. | Çimen yeşil.
 jaune | sarı | sıfat | Le citron est jaune. | Limon sarı.
 blanc | beyaz | sıfat | J'ai un chat blanc. | Beyaz bir kedim var.
 noir | siyah | sıfat | Mon sac est noir. | Çantam siyah.
@@ -104,7 +104,7 @@ rose | pembe | sıfat | Léa porte une robe rose. | Léa pembe bir elbise giyiyo
 le chien | köpek | isim (e) | Le chien est grand. | Köpek büyük.
 le chat | kedi | isim (e) | Le chat dort beaucoup. | Kedi çok uyur.
 l'oiseau (m) | kuş | isim (e) | L'oiseau chante. | Kuş ötüyor.
-le poisson | balık | isim (e) | J'ai un poisson rouge. | Bir kırmızı balığım var.
+le poisson | balık | isim (e) | Le poisson nage. | Balık yüzüyor.
 le cheval | at | isim (e) | Le cheval court vite. | At hızlı koşuyor.
 la vache | inek | isim (d) | La vache mange de l'herbe. | İnek ot yiyor.
 la souris | fare | isim (d) | La souris est petite. | Fare küçük.

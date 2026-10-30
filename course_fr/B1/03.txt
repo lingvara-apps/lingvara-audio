@@ -3,7 +3,7 @@
 le campus | kampüs | isim (e) | Le campus de l'université se trouve à vingt minutes du centre. | Üniversitenin kampüsü merkeze yirmi dakika uzaklıkta.
 la rentrée | okulların açılışı, yeni dönem başı | isim (d) | À la rentrée, je commence ma deuxième année de droit. | Okullar açılınca hukukta ikinci yılıma başlıyorum.
 le semestre | dönem, yarıyıl | isim (e) | Ce semestre, j'ai trop de cours le vendredi après-midi. | Bu dönem cuma öğleden sonraları çok fazla dersim var.
-le partiel | dönem sınavı, ara sınav | isim (e) | Les partiels de janvier commencent juste après les fêtes. | Ocak sınavları bayram tatilinin hemen ardından başlıyor.
+le partiel | dönem sınavı, ara sınav | isim (e) | Les partiels de janvier commencent juste après les fêtes. | Ocak sınavları yılbaşı tatilinin hemen ardından başlıyor.
 la résidence universitaire | öğrenci yurdu | isim (d) | Ma chambre dans la résidence universitaire est petite mais pas chère. | Öğrenci yurdundaki odam küçük ama ucuz.
 les frais d'inscription | kayıt ücreti, harç | isim (çoğul) | Les frais d'inscription sont assez bas dans les universités publiques. | Devlet üniversitelerinde kayıt ücretleri oldukça düşük.
 le doctorat | doktora | isim (e) | Après son master, Yuki a commencé un doctorat en chimie. | Yuki yüksek lisanstan sonra kimyada doktoraya başladı.
@@ -63,13 +63,13 @@ la sociologie | sosyoloji | isim (d) | La sociologie étudie la vie des gens en 
 l'archéologie (f) | arkeoloji | isim (d) | Elle a choisi l'archéologie pour pouvoir travailler en Égypte. | Mısır'da çalışabilmek için arkeolojiyi seçti.
 la médecine | tıp | isim (d) | Les études de médecine durent au moins neuf ans en France. | Fransa'da tıp eğitimi en az dokuz yıl sürer.
 les lettres | edebiyat (bölümü), beşerî bilimler | isim (çoğul) | Après un bac littéraire, il s'est inscrit en lettres modernes. | Edebiyat bakaloryasından sonra modern edebiyata kaydoldu.
-la botanique | botanik, bitki bilimi | isim (d) | Le jardin de botanique de l'université est ouvert au public. | Üniversitenin botanik bahçesi halka açık.
+la botanique | botanik, bitki bilimi | isim (d) | Elle étudie la botanique et connaît le nom de toutes les plantes du parc. | Botanik okuyor ve parktaki bütün bitkilerin adını biliyor.
 les mathématiques appliquées | uygulamalı matematik | isim (çoğul) | Les mathématiques appliquées sont très utiles en économie. | Uygulamalı matematik ekonomide çok faydalıdır.
 ## Laboratuvarda
 le microscope | mikroskop | isim (e) | Au microscope, on peut voir les cellules d'une feuille. | Mikroskopta bir yaprağın hücrelerini görebiliriz.
 la substance | madde | isim (d) | Cette substance est dangereuse, ne la touchez pas sans gants. | Bu madde tehlikeli, eldivensiz dokunmayın.
 le mélange | karışım | isim (e) | Versez le mélange dans le tube et attendez deux minutes. | Karışımı tüpe dökün ve iki dakika bekleyin.
-l'atome (m) | atom | isim (e) | Une seule molécule d'eau contient trois atomes différents en tout. | Tek bir su molekülü toplam üç atom içerir.
+l'atome (m) | atom | isim (e) | Une molécule d'eau contient trois atomes : deux d'hydrogène et un d'oxygène. | Bir su molekülü üç atom içerir: iki hidrojen ve bir oksijen.
 la molécule | molekül | isim (d) | Les chercheurs ont découvert une molécule contre le paludisme. | Araştırmacılar sıtmaya karşı bir molekül keşfetti.
 la cellule | hücre | isim (d) | Le corps humain est composé de milliards de cellules. | İnsan vücudu milyarlarca hücreden oluşur.
 chimique | kimyasal | sıfat | Évitez les produits chimiques pour nettoyer votre jardin. | Bahçenizi temizlemek için kimyasal ürünlerden kaçının.

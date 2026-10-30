@@ -39,7 +39,7 @@ die Ebbe (die Ebben) | cezir, alçalma | isim (d) | Bei Ebbe kann man zu Fuß bi
 die Flut (die Fluten) | med, kabarma; sel | isim (d) | Wer bei Flut noch im Watt unterwegs ist, gerät schnell in Lebensgefahr. | Med sırasında hâlâ gelgit düzlüğünde olan kişi hızla hayati tehlikeye düşer.
 die Bucht (die Buchten) | koy, körfez | isim (d) | Das kleine Fischerdorf liegt geschützt in einer ruhigen Bucht. | Küçük balıkçı köyü sakin bir koyda korunaklı biçimde yer alıyor.
 die Steilküste (die Steilküsten) | falez, dik kıyı | isim (d) | Die weißen Kreidefelsen der Steilküste auf Rügen sind weltberühmt. | Rügen'deki dik kıyının beyaz tebeşir kayalıkları dünyaca ünlü.
-die Meerenge (die Meerengen) | boğaz (deniz) | isim (d) | Die Meerenge zwischen Europa und Asien ist eine der verkehrsreichsten der Welt. | Avrupa ile Asya arasındaki boğaz dünyanın en işlek boğazlarından biri.
+die Meerenge (die Meerengen) | boğaz (deniz) | isim (d) | Bei Sturm ist die schmale Meerenge zwischen den beiden Inseln für kleine Boote gefährlich. | Fırtınada iki ada arasındaki dar boğaz küçük tekneler için tehlikelidir.
 der Meeresspiegelanstieg | deniz seviyesinin yükselmesi | isim (e) | Der Meeresspiegelanstieg bedroht viele flache Inseln im Pazifik in ihrer Existenz. | Deniz seviyesinin yükselmesi Pasifik'teki birçok alçak adanın varlığını tehdit ediyor.
 die Brandung | kıyıya vuran dalgalar | isim (d) | Am Abend hörten wir vom Hotelzimmer aus das Rauschen der Brandung. | Akşam otel odasından kıyıya vuran dalgaların uğultusunu duyduk.
 der Deich (die Deiche) | set, bent | isim (e) | Die Deiche schützen das tief liegende Land vor den Sturmfluten der Nordsee. | Setler alçakta kalan araziyi Kuzey Denizi'nin fırtına kabarmalarından korur.
@@ -72,7 +72,7 @@ der Kalkstein | kireçtaşı | isim (e) | Die Schwäbische Alb besteht zu große
 der Schiefer | arduvaz, şist | isim (e) | Viele Häuser im Moseltal sind mit dunklem Schiefer gedeckt. | Moselle vadisindeki birçok evin çatısı koyu arduvazla kaplı.
 die Ablagerung (die Ablagerungen) | tortu, çökelti | isim (d) | Die Ablagerungen im Flussbett verraten viel über frühere Hochwasser. | Nehir yatağındaki tortular geçmişteki taşkınlar hakkında çok şey ele veriyor.
 die Erosion (die Erosionen) | erozyon, aşınım | isim (d) | Wind und Wasser haben die Felsen durch Erosion bizarr geformt. | Rüzgâr ve su kayaları aşındırarak tuhaf biçimlere sokmuş.
-das Fossil (die Fossilien) | fosil | isim (o) | Im Steinbruch fanden Schüler das Fossil eines urzeitlichen Fisches. | Öğrenciler taş ocağında tarih öncesi bir balığın fosilini buldu.
+die Versteinerung (die Versteinerungen) | taşlaşmış kalıntı, fosil | isim (d) | Im Steinbruch fanden Schüler die Versteinerung eines urzeitlichen Fisches. | Öğrenciler taş ocağında tarih öncesi bir balığın taşlaşmış kalıntısını buldu.
 die Tropfsteinhöhle (die Tropfsteinhöhlen) | sarkıtlı mağara | isim (d) | Die Tropfsteinhöhle ist in Millionen von Jahren langsam entstanden. | Sarkıtlı mağara milyonlarca yılda yavaş yavaş oluştu.
 das Erdzeitalter (die Erdzeitalter) | jeolojik zaman | isim (o) | Die Dinosaurier lebten im Erdzeitalter des Mesozoikums vor vielen Millionen Jahren. | Dinozorlar milyonlarca yıl önce Mezozoik jeolojik zamanında yaşadı.
 die Lagerstätte (die Lagerstätten) | maden yatağı | isim (d) | In der Region wurden reiche Lagerstätten von Kupfer und Eisenerz entdeckt. | Bölgede zengin bakır ve demir cevheri yatakları keşfedildi.
@@ -80,7 +80,7 @@ die Lagerstätte (die Lagerstätten) | maden yatağı | isim (d) | In der Region
 die Erdkruste | yer kabuğu | isim (d) | Die Erdkruste ist unter den Ozeanen deutlich dünner als unter den Kontinenten. | Yer kabuğu okyanusların altında kıtaların altına göre çok daha incedir.
 die Kontinentalplatte (die Kontinentalplatten) | kıta levhası | isim (d) | Die Alpen entstanden, als die afrikanische gegen die europäische Kontinentalplatte drückte. | Alpler Afrika kıta levhası Avrupa levhasına bastırdığında oluştu.
 die Seismologie | sismoloji | isim (d) | Die Seismologie untersucht, wie sich Erdbebenwellen im Erdinneren ausbreiten. | Sismoloji deprem dalgalarının yerin içinde nasıl yayıldığını inceler.
-das Epizentrum (die Epizentren) | dış merkez | isim (o) | Das Epizentrum des Bebens lag etwa zwanzig Kilometer unter dem Meeresboden. | Depremin merkez üssü deniz tabanının yaklaşık yirmi kilometre altındaydı.
+das Epizentrum (die Epizentren) | dış merkez, merkez üssü | isim (o) | Das Epizentrum des Bebens lag etwa zwanzig Kilometer unter dem Meeresboden. | Depremin merkez üssü deniz tabanının yaklaşık yirmi kilometre altındaydı.
 der Schichtvulkan (die Schichtvulkane) | tabakalı volkan | isim (e) | Der Ätna ist ein aktiver Schichtvulkan an der Ostküste Siziliens. | Etna, Sicilya'nın doğu kıyısındaki aktif bir tabakalı volkandır.
 der Ausbruch (die Ausbrüche) | patlama (yanardağ); salgın | isim (e) | Der Ausbruch des Vulkans legte den Flugverkehr in Europa tagelang lahm. | Yanardağın patlaması Avrupa'da hava trafiğini günlerce felç etti.
 die Lava | lav | isim (d) | Die glühende Lava floss langsam den Hang hinunter ins Tal. | Kızgın lav yavaşça yamaçtan vadiye aktı.

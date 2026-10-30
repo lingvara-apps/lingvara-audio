@@ -3,7 +3,7 @@
 onze | on bir | sayı | Mon fils a onze ans. | Oğlum on bir yaşında.
 douze | on iki | sayı | Il est midi, il est douze heures. | Saat öğlen, saat on iki.
 treize | on üç | sayı | J'habite au numéro treize. | On üç numarada oturuyorum.
-quatorze | on dört | sayı | Le quatorze juillet, c'est la fête nationale. | 14 Temmuz millî bayramdır.
+quatorze | on dört | sayı | Le quatorze juillet, c'est la fête nationale. | On dört temmuz ulusal bayramdır.
 quinze | on beş | sayı | Le film commence dans quinze minutes. | Film on beş dakika sonra başlıyor.
 seize | on altı | sayı | Ma sœur a seize ans. | Kız kardeşim on altı yaşında.
 dix-sept | on yedi | sayı | Nous sommes dix-sept dans la classe. | Sınıfta on yedi kişiyiz.
@@ -38,8 +38,8 @@ la minute | dakika | isim (d) | J'arrive dans cinq minutes. | Beş dakikaya geli
 la seconde | saniye | isim (d) | Attends une seconde ! | Bir saniye bekle!
 le quart | çeyrek | isim (e) | Il est trois heures et quart. | Saat üçü çeyrek geçiyor.
 et demie | buçuk | ifade | Il est huit heures et demie. | Saat sekiz buçuk.
-midi | öğle, saat on iki | isim | On mange à midi. | Öğlen yemek yiyoruz.
-minuit | gece yarısı | isim | Je dors à minuit. | Gece yarısı yatıyorum.
+midi | öğle, saat on iki | isim (e) | On mange à midi. | Öğlen yemek yiyoruz.
+minuit | gece yarısı | isim (e) | Je dors à minuit. | Gece yarısı yatıyorum.
 à l'heure | zamanında, vaktinde | ifade | Le train est à l'heure. | Tren zamanında.
 en retard | geç, gecikmiş | ifade | Tu es encore en retard ! | Yine geç kaldın!
 en avance | erken (vaktinden önce) | ifade | Je suis un peu en avance. | Biraz erken geldim.
@@ -55,30 +55,30 @@ hier | dün | zarf | Hier, j'étais malade. | Dün hastaydım.
 maintenant | şimdi | zarf | Je suis occupé maintenant. | Şu an meşgulüm.
 tard | geç | zarf | Il est tard, je rentre. | Geç oldu, eve dönüyorum.
 ## Haftanın günleri
-lundi | pazartesi | isim | Lundi, je commence à huit heures. | Pazartesi saat sekizde başlıyorum.
-mardi | salı | isim | On se voit mardi ? | Salı görüşelim mi?
-mercredi | çarşamba | isim | Le mercredi, les enfants n'ont pas école. | Çarşambaları çocukların okulu yok.
-jeudi | perşembe | isim | Jeudi, j'ai un examen. | Perşembe sınavım var.
-vendredi | cuma | isim | Vendredi soir, on sort ! | Cuma akşamı dışarı çıkıyoruz!
-samedi | cumartesi | isim | Samedi, je fais le marché. | Cumartesi pazara gidiyorum.
-dimanche | pazar | isim | Le dimanche, je me repose. | Pazar günleri dinlenirim.
+lundi | pazartesi | isim (e) | Lundi, je commence à huit heures. | Pazartesi saat sekizde başlıyorum.
+mardi | salı | isim (e) | On se voit mardi ? | Salı görüşelim mi?
+mercredi | çarşamba | isim (e) | Le mercredi, les enfants n'ont pas école. | Çarşambaları çocukların okulu yok.
+jeudi | perşembe | isim (e) | Jeudi, j'ai un examen. | Perşembe sınavım var.
+vendredi | cuma | isim (e) | Vendredi soir, on sort ! | Cuma akşamı dışarı çıkıyoruz!
+samedi | cumartesi | isim (e) | Samedi, je fais le marché. | Cumartesi pazara gidiyorum.
+dimanche | pazar | isim (e) | Le dimanche, je me repose. | Pazar günleri dinlenirim.
 la semaine | hafta | isim (d) | Je travaille cinq jours par semaine. | Haftada beş gün çalışıyorum.
 le week-end | hafta sonu | isim (e) | Bon week-end, Lukas ! | İyi hafta sonları Lukas!
 le jour | gün | isim (e) | Quel jour sommes-nous ? | Bugün günlerden ne?
 ## Aylar
-janvier | ocak | isim | En janvier, il fait froid. | Ocakta hava soğuk.
-février | şubat | isim | Février est un mois court. | Şubat kısa bir ay.
-mars | mart | isim | Mon anniversaire est en mars. | Doğum günüm martta.
-avril | nisan | isim | En avril, les fleurs arrivent. | Nisanda çiçekler açar.
-mai | mayıs | isim | Le 1er mai, on offre du muguet. | 1 Mayıs'ta inci çiçeği hediye edilir.
-juin | haziran | isim | En juin, l'école finit. | Haziranda okul biter.
-juillet | temmuz | isim | Nous partons en juillet. | Temmuzda yola çıkıyoruz.
-août | ağustos | isim | En août, Paris est calme. | Ağustosta Paris sakin.
-septembre | eylül | isim | La rentrée, c'est en septembre. | Okullar eylülde açılır.
-octobre | ekim | isim | Il pleut souvent en octobre. | Ekimde sık sık yağmur yağar.
+janvier | ocak | isim (e) | En janvier, il fait froid. | Ocakta hava soğuk.
+février | şubat | isim (e) | Février est un mois court. | Şubat kısa bir ay.
+mars | mart | isim (e) | Mon anniversaire est en mars. | Doğum günüm martta.
+avril | nisan | isim (e) | En avril, les arbres fleurissent. | Nisanda ağaçlar çiçek açar.
+mai | mayıs | isim (e) | Le premier mai, on offre du muguet. | 1 Mayıs'ta inci çiçeği hediye edilir.
+juin | haziran | isim (e) | En juin, l'école finit. | Haziranda okul biter.
+juillet | temmuz | isim (e) | Nous partons en juillet. | Temmuzda yola çıkıyoruz.
+août | ağustos | isim (e) | En août, Paris est calme. | Ağustosta Paris sakin.
+septembre | eylül | isim (e) | La rentrée, c'est en septembre. | Okullar eylülde açılır.
+octobre | ekim | isim (e) | Il pleut souvent en octobre. | Ekimde sık sık yağmur yağar.
 ## Aylar ve mevsimler
-novembre | kasım | isim | En novembre, les jours sont courts. | Kasımda günler kısa.
-décembre | aralık | isim | Noël, c'est le 25 décembre. | Noel 25 Aralık'ta.
+novembre | kasım | isim (e) | En novembre, les jours sont courts. | Kasımda günler kısa.
+décembre | aralık | isim (e) | Noël, c'est le vingt-cinq décembre. | Noel yirmi beş aralıkta.
 le mois | ay (takvim) | isim (e) | Je pars un mois en Bretagne. | Bir aylığına Bretanya'ya gidiyorum.
 l'année (f) | yıl, sene | isim (d) | Bonne année ! | Mutlu yıllar!
 le printemps | ilkbahar | isim (e) | J'aime le printemps à Paris. | Paris'te ilkbaharı severim.
@@ -92,7 +92,7 @@ toujours | her zaman; hâlâ | zarf | Il est toujours en retard. | Her zaman ge�
 souvent | sık sık | zarf | Je vais souvent au cinéma. | Sık sık sinemaya giderim.
 parfois | bazen | zarf | Parfois, je cuisine. | Bazen yemek yaparım.
 ne... jamais | asla, hiç | zarf | Je ne bois jamais de café. | Hiç kahve içmem.
-déjà | zaten; daha şimdiden; hiç (soruda) | zarf | Tu as déjà mangé ? | Yemek yedin mi bile?
+déjà | zaten; daha şimdiden; hiç (soruda) | zarf | Tu as déjà fini ? | Şimdiden bitirdin mi?
 bientôt | yakında | zarf | Les vacances arrivent bientôt. | Tatil yakında geliyor.
 longtemps | uzun süre | zarf | J'attends depuis longtemps. | Uzun süredir bekliyorum.
 d'abord | önce, ilk olarak | zarf | D'abord, je prends un café. | Önce bir kahve içiyorum.

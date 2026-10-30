@@ -19,12 +19,12 @@ die Leseprobe (die Leseproben) | okuma örneği | isim (d) | Auf der Website gib
 der Buchclub (die Buchclubs) | kitap kulübü | isim (e) | In unserem Buchclub lesen wir jeden Monat ein neues Buch. | Kitap kulübümüzde her ay yeni bir kitap okuyoruz.
 ausleihen (lieh aus, ausgeliehen) | ödünç almak | fiil · düzensiz | Ich habe mir in der Bibliothek drei Romane ausgeliehen. | Kütüphaneden üç roman ödünç aldım.
 der Lieblingsautor (die Lieblingsautoren) | en sevdiği yazar | isim (e) | Mein Lieblingsautor schreibt vor allem Krimis aus der Schweiz. | En sevdiğim yazar özellikle İsviçre'de geçen polisiyeler yazıyor.
-die Lektüre (die Lektüren) | okuma metni, okunan kitap | isim (d) | Als Lektüre für den Urlaub habe ich drei Krimis eingepackt. | Tatilde okumak için üç polisiye roman koydum.
+die Lektüre (die Lektüren) | okuma metni, okunan kitap | isim (d) | Als Lektüre für den Urlaub habe ich drei Krimis eingepackt. | Tatilde okumak için bavuluma üç polisiye koydum.
 fesselnd | sürükleyici | sıfat | Der Thriller war so fesselnd, dass ich ihn in einer Nacht gelesen habe. | Gerilim romanı o kadar sürükleyiciydi ki bir gecede okudum.
 ## Müzik
 der Komponist (die Komponisten) | besteci | isim (e) | Der Komponist hat diese Sinfonie in Salzburg geschrieben. | Besteci bu senfoniyi Salzburg'da yazdı.
 komponieren | beste yapmak | fiil | Sie komponiert die Musik für Filme und Werbespots. | Filmler ve reklamlar için müzik besteliyor.
-das Orchester (die Orchester) | orkestra | isim (o) | Das Orchester spielt heute Abend Werke von Mozart. | Orkestra bu akşam Mozart'ın eserlerini çalıyor.
+das Orchester (die Orchester) | orkestra | isim (o) | Das Orchester spielt heute Abend eine Sinfonie aus dem neunzehnten Jahrhundert. | Orkestra bu akşam on dokuzuncu yüzyıldan bir senfoni çalıyor.
 der Dirigent (die Dirigenten) | orkestra şefi | isim (e) | Der Dirigent verbeugt sich nach dem Konzert vor dem Publikum. | Orkestra şefi konserden sonra seyirciyi selamlıyor.
 die Melodie (die Melodien) | melodi | isim (d) | Diese Melodie geht mir seit Tagen nicht mehr aus dem Kopf. | Bu melodi günlerdir aklımdan çıkmıyor.
 der Rhythmus (die Rhythmen) | ritim | isim (e) | Bei diesem Rhythmus kann man gar nicht still sitzen. | Bu ritimde yerinde oturmak imkânsız.
@@ -83,13 +83,13 @@ das Exponat (die Exponate) | sergilenen eser | isim (o) | Das wertvollste Expona
 der Audioguide (die Audioguides) | sesli rehber | isim (e) | Mit dem Audioguide erfährt man viel über die Bilder. | Sesli rehberle resimler hakkında çok şey öğreniliyor.
 die Vernissage (die Vernissagen) | sergi açılışı | isim (d) | Zur Vernissage waren viele Künstler und Journalisten eingeladen. | Sergi açılışına birçok sanatçı ve gazeteci davet edilmişti.
 ausstellen | sergilemek | fiil | Die junge Malerin stellt zum ersten Mal ihre Bilder aus. | Genç ressam resimlerini ilk kez sergiliyor.
-die Sonderausstellung (die Sonderausstellungen) | özel sergi | isim (d) | Die Sonderausstellung über Klimt ist nur noch bis Ende Mai zu sehen. | Klimt hakkındaki özel sergi sadece mayıs sonuna kadar görülebilir.
+die Sonderausstellung (die Sonderausstellungen) | özel sergi | isim (d) | Die Sonderausstellung über alte Landkarten ist nur noch bis Ende Mai zu sehen. | Eski haritalar hakkındaki özel sergi sadece mayıs sonuna kadar görülebilir.
 das Original (die Originale) | orijinal, asıl eser | isim (o) | Das hier ist nur eine Kopie, das Original ist in Paris. | Bu sadece bir kopya, orijinali Paris'te.
 die Lange Nacht der Museen | müzeler gecesi | ifade | Bei der Langen Nacht der Museen sind alle Häuser bis zwei Uhr offen. | Uzun Müzeler Gecesi'nde bütün müzeler saat ikiye kadar açık.
 Eintritt frei | giriş ücretsiz | ifade | Am ersten Sonntag im Monat ist der Eintritt frei. | Ayın ilk pazarı giriş ücretsiz.
 ## Sanat üzerine konuşmak
 der Geschmack (die Geschmäcker) | zevk, beğeni | isim (e) | Über Geschmack kann man bekanntlich nicht streiten. | Bilindiği gibi zevkler tartışılmaz.
-beeindruckend | etkileyici | sıfat | Die Aussicht von der Bühne auf den See war beeindruckend. | Sahneden göle bakan manzara etkileyiciydi.
+beeindruckend | etkileyici | sıfat | Die Stimme der jungen Sängerin war wirklich beeindruckend. | Genç şarkıcının sesi gerçekten etkileyiciydi.
 gelungen | başarılı, iyi olmuş | sıfat | Die Inszenierung war meiner Meinung nach sehr gelungen. | Bence sahneleme çok başarılıydı.
 berühren | dokunmak, duygulandırmak | fiil | Die Geschichte des Films hat mich tief berührt. | Filmin hikâyesi beni derinden etkiledi.
 ausdrucksstark | anlatım gücü yüksek | sıfat | Die junge Tänzerin hat gestern Abend sehr ausdrucksstark getanzt. | Genç dansçı dün akşam çok etkileyici bir anlatımla dans etti.

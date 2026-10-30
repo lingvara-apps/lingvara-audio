@@ -1,7 +1,7 @@
 # DIALOG: Bologna'da Yeni Bir Hayat | Ev, iş, sağlık ve çevre üzerine sohbetler | Elena | Ali
 ## Ev arayışı
 A | Allora Ali, hai trovato finalmente un appartamento in centro? | Eee Ali, sonunda merkezde bir daire bulabildin mi?
-B | Non ancora. Ho visto tre bilocali, ma gli affitti sono altissimi. | Henüz değil. Üç tane bir artı bir gördüm ama kiralar çok yüksek.
+B | Non ancora. Ho visto tre bilocali, ma gli affitti sono altissimi. | Henüz değil. Üç tane iki odalı daire gördüm ama kiralar çok yüksek.
 A | Lo so, a Bologna c'è una vera emergenza abitativa per gli studenti. | Biliyorum, Bologna'da öğrenciler için gerçek bir konut krizi var.
 B | L'ultimo era carino, però l'agenzia chiedeva una provvigione enorme. | Sonuncusu hoştu ama emlak ajansı çok yüksek bir komisyon istiyordu.
 A | Hai pensato di cercare un coinquilino? Dividendo le spese risparmieresti molto. | Bir ev arkadaşı aramayı düşündün mü? Masrafları bölerek çok tasarruf edersin.
@@ -41,5 +41,5 @@ A | Molto, invece! Ridurre gli sprechi, usare meno la macchina, fare la raccolta
 B | Io cerco di comprare prodotti a chilometro zero al mercato. | Ben pazardan yerel ürünler almaya çalışıyorum.
 A | Bravo! E il comune dovrebbe investire di più nel trasporto pubblico. | Aferin! Belediye de toplu taşımaya daha çok yatırım yapmalı.
 B | Infatti. Se ci fossero più piste ciclabili, andrei sempre in bici. | Aynen. Daha çok bisiklet yolu olsa hep bisikletle giderdim.
-A | Sabato c'è una manifestazione per il clima in piazza Maggiore. Vieni? | Cumartesi Piazza Maggiore'de iklim için bir gösteri var. Geliyor musun?
+A | Sabato in piazza Maggiore c'è una giornata ecologica con i volontari. Vieni? | Cumartesi Piazza Maggiore'de gönüllülerle bir çevre günü var. Geliyor musun?
 B | Certo, ci vediamo lì. Porto anche qualche amico dell'università. | Tabii, orada görüşürüz. Üniversiteden birkaç arkadaşı da getiririm.

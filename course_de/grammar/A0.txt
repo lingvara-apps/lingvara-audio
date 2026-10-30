@@ -9,7 +9,7 @@
 ? "Hund" (köpek) kelimesinin artikeli hangisidir? | der | die | das
 ? "Katze" (kedi) kelimesinin artikeli hangisidir? | die | der | das
 ? "Buch" (kitap) kelimesinin artikeli hangisidir? | das | der | die
-? Almancada isimler nasıl yazılır? | büyük harfle | küçük harfle | hepsi büyük harfle
+? Hangisi doğru yazılmıştır? | der Tisch | der tisch | DER TISCH
 ? "Lampe" dişil bir isimdir. "Bir lamba" nasıl denir? | eine Lampe | ein Lampe | einen Lampe
 
 # TOPIC: Kişi zamirleri ve "sein" fiili | ich bin, du bist, er ist
@@ -17,7 +17,7 @@
 > "du" arkadaşlar ve aile arasında, büyük harfle yazılan "Sie" ise resmî durumlarda "siz" anlamında kullanılır.
 = Ich bin Emre. | Ben Emre'yim.
 = Du bist sehr nett. | Sen çok naziksin.
-= Wir sind aus der Türkei. | Biz Türkiyeliyiz.
+= Wir sind Freunde. | Biz arkadaşız.
 = Sind Sie Frau Weber? | Siz Weber Hanım mısınız?
 ? Ich ___ müde. | bin | bist | ist
 ? Du ___ mein Freund. | bist | bin | sind
@@ -34,7 +34,7 @@
 = Bist du Studentin? | Üniversite öğrencisi misin?
 ? "Nerelisin?" Almanca nasıl sorulur? | Woher kommst du? | Wo kommst du? | Wohin kommst du?
 ? "Adın ne?" sorusunun doğru hâli hangisidir? | Wie heißt du? | Was heißt du? | Wer heißt du?
-? Evet/hayır sorusunda fiil nereye gelir? | cümlenin başına | cümlenin sonuna | ikinci sıraya
+? Hangisi doğru bir evet/hayır sorusudur? | Wohnst du in Berlin? | Du in Berlin wohnst? | In Berlin du wohnst?
 ? ___ ist das? — Das ist Lukas. | Wer | Was | Wo
 ? ___ wohnst du? — In Wien. | Wo | Wann | Wer
 

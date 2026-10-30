@@ -73,7 +73,7 @@ la reazione | tepki | isim (d) | La sua reazione alla notizia mi ha sorpreso. | 
 reagire | tepki vermek | fiil | Non sapevo come reagire alle sue parole. | Sözlerine nasıl tepki vereceğimi bilmiyordum.
 affrontare | yüzleşmek, üstesinden gelmeye çalışmak | fiil | Bisogna affrontare i problemi invece di scappare. | Kaçmak yerine sorunlarla yüzleşmek gerekir.
 sopportare | katlanmak, tahammül etmek | fiil | Non sopporto più il rumore dei vicini di notte. | Komşuların gece gürültüsüne artık tahammül edemiyorum.
-elaborare | işlemek; hazırlamak | fiil | Ci vuole tempo per elaborare un lutto. | Bir yası işlemek zaman alır.
+elaborare | (duyguyu) işlemek, atlatmak; hazırlamak | fiil | Ci vuole tempo per elaborare un lutto. | Bir kaybın yasını atlatmak zaman alır.
 la consapevolezza | farkındalık | isim (d) | La meditazione aumenta la consapevolezza di sé. | Meditasyon öz farkındalığı artırır.
 il benessere | iyi oluş, refah | isim (e) | Camminare ogni giorno è importante per il benessere psicologico. | Her gün yürümek psikolojik iyi oluş için önemli.
 ## Sağlıklı yaşam
@@ -93,7 +93,7 @@ il ticket | katkı payı (sağlık) | isim (e) | Per la visita specialistica ho 
 la guardia medica | nöbetçi doktor | isim (d) | Di notte puoi chiamare la guardia medica. | Gece nöbetçi doktoru arayabilirsin.
 la lista d'attesa | bekleme listesi | isim (d) | Per la risonanza c'è una lista d'attesa di due mesi. | MR için iki aylık bir bekleme listesi var.
 l'impegnativa (d) | sevk kâğıdı | isim (d) | Il medico di base mi ha fatto l'impegnativa per il cardiologo. | Aile hekimim kardiyoloğa sevk kâğıdımı yazdı.
-la mutua | sağlık sigortası (halk dilinde) | isim (d) | Questo farmaco non è passato dalla mutua, costa tanto. | Bu ilaç sigorta kapsamında değil, çok pahalı.
+la mutua | sağlık sigortası (halk dilinde) | isim (d) | Questo farmaco non lo passa la mutua, costa tanto. | Bu ilacı sigorta karşılamıyor, çok pahalı.
 la sanità | sağlık (sektörü) | isim (d) | Il governo ha promesso più soldi per la sanità pubblica. | Hükümet kamu sağlığına daha fazla para sözü verdi.
 la farmacia di turno | nöbetçi eczane | isim (d) | Di domenica cerco sempre la farmacia di turno su internet. | Pazar günleri nöbetçi eczaneyi hep internette ararım.
 il bugiardino | prospektüs (ilaç) | isim (e) | Prima di prendere la medicina leggi bene il bugiardino. | İlacı almadan önce prospektüsü iyice oku.

@@ -12,7 +12,7 @@ der Außenminister (die Außenminister) | dışişleri bakanı | isim (e) | Die 
 die Beziehungen | ilişkiler | isim (çoğul) | Die Beziehungen zwischen den beiden Nachbarländern sind sehr gut. | İki komşu ülke arasındaki ilişkiler çok iyi.
 ## Uluslararası kuruluşlar
 die Vereinten Nationen | Birleşmiş Milletler | ifade | Die Vereinten Nationen haben ihren europäischen Sitz in Genf. | Birleşmiş Milletler'in Avrupa merkezi Cenevre'dedir.
-die Europäische Union | Avrupa Birliği | ifade | Österreich ist seit 1995 Mitglied der Europäischen Union. | Avusturya 1995'ten beri Avrupa Birliği üyesi.
+die Europäische Union | Avrupa Birliği | ifade | Österreich ist seit neunzehnhundertfünfundneunzig Mitglied der Europäischen Union. | Avusturya 1995'ten beri Avrupa Birliği üyesi.
 der Mitgliedstaat (die Mitgliedstaaten) | üye devlet | isim (e) | Alle Mitgliedstaaten müssen dem neuen Vertrag zustimmen. | Bütün üye devletlerin yeni antlaşmayı onaylaması gerekiyor.
 die Organisation (die Organisationen) | kuruluş, örgüt | isim (d) | Die Organisation hilft seit vielen Jahren Kindern in Krisengebieten. | Kuruluş uzun yıllardır kriz bölgelerindeki çocuklara yardım ediyor.
 die Hilfsorganisation (die Hilfsorganisationen) | yardım kuruluşu | isim (d) | Mehrere Hilfsorganisationen schickten Ärzte in das Erdbebengebiet. | Birçok yardım kuruluşu deprem bölgesine doktor gönderdi.
@@ -47,7 +47,7 @@ die Deeskalation | gerginliği azaltma | isim (d) | Alle Seiten rufen jetzt zur 
 die Migration | göç | isim (d) | Migration hat die Gesellschaft in Deutschland stark geprägt. | Göç Almanya'daki toplumu büyük ölçüde şekillendirdi.
 die Flucht | kaçış, firar | isim (d) | Auf der Flucht hat die Familie alles verloren. | Kaçış sırasında aile her şeyini kaybetti.
 fliehen (floh, geflohen) | kaçmak | fiil · düzensiz | Viele Menschen sind vor dem Krieg ins Nachbarland geflohen. | Birçok insan savaştan komşu ülkeye kaçtı.
-humanitär | insani | sıfat | Das Rote Kreuz leistet humanitäre Hilfe in vielen Ländern. | Kızılhaç birçok ülkede insani yardım yapıyor.
+humanitär | insani | sıfat | Viele Organisationen leisten humanitäre Hilfe in Krisengebieten. | Birçok kuruluş kriz bölgelerinde insani yardım yapıyor.
 das Flüchtlingslager (die Flüchtlingslager) | mülteci kampı | isim (o) | Im Flüchtlingslager an der Grenze leben über zwanzigtausend Menschen. | Sınırdaki mülteci kampında yirmi binden fazla insan yaşıyor.
 die Hungersnot (die Hungersnöte) | kıtlık, açlık | isim (d) | Nach der Dürre droht in der Region eine Hungersnot. | Kuraklıktan sonra bölgede açlık tehlikesi var.
 die Armut | yoksulluk | isim (d) | Der Kampf gegen die Armut ist ein wichtiges Ziel der Organisation. | Yoksullukla mücadele kuruluşun önemli bir hedefi.
@@ -60,7 +60,7 @@ unabhängig | bağımsız | sıfat | Das Land ist seit über fünfzig Jahren una
 die Unabhängigkeit | bağımsızlık | isim (d) | Am Nationalfeiertag feiert man die Unabhängigkeit des Landes. | Ulusal bayramda ülkenin bağımsızlığı kutlanır.
 die Kolonie (die Kolonien) | sömürge | isim (d) | Viele afrikanische Länder waren früher Kolonien europäischer Staaten. | Birçok Afrika ülkesi eskiden Avrupa devletlerinin sömürgesiydi.
 die Großmacht (die Großmächte) | büyük güç | isim (d) | Im neunzehnten Jahrhundert war Österreich eine europäische Großmacht. | On dokuzuncu yüzyılda Avusturya bir Avrupa büyük gücüydü.
-das Nachbarland (die Nachbarländer) | komşu ülke | isim (o) | Deutschland hat insgesamt neun Nachbarländer, mehr als jedes andere Land Europas. | Almanya'nın Avrupa'daki diğer tüm ülkelerden fazla, toplam dokuz komşu ülkesi var.
+das Nachbarland (die Nachbarländer) | komşu ülke | isim (o) | Deutschland grenzt an neun Nachbarländer, darunter Polen und Frankreich. | Almanya, aralarında Polonya ve Fransa'nın da bulunduğu dokuz komşu ülkeyle sınır komşusu.
 die Bevölkerung | nüfus, halk | isim (d) | Die Bevölkerung der Stadt ist in zehn Jahren stark gewachsen. | Şehrin nüfusu on yılda çok arttı.
 das Volk (die Völker) | halk, millet | isim (o) | Das Volk hat in einer Abstimmung über die Frage entschieden. | Halk bir oylamada soru hakkında karar verdi.
 die Nation (die Nationen) | ulus | isim (d) | Bei den Olympischen Spielen treten über zweihundert Nationen an. | Olimpiyat Oyunları'nda iki yüzden fazla ulus yarışıyor.
@@ -82,10 +82,10 @@ das Handelsabkommen (die Handelsabkommen) | ticaret anlaşması | isim (o) | Das
 der Freihandel | serbest ticaret | isim (e) | Die Schweiz hat mit vielen Ländern Freihandel vereinbart. | İsviçre birçok ülkeyle serbest ticaret anlaşması yaptı.
 das Embargo (die Embargos) | ambargo | isim (o) | Wegen des Embargos dürfen keine Waffen geliefert werden. | Ambargo yüzünden silah teslim edilemiyor.
 der Binnenmarkt | iç pazar | isim (e) | Im europäischen Binnenmarkt können Waren frei transportiert werden. | Avrupa iç pazarında mallar serbestçe taşınabilir.
-die Wirtschaftsmacht (die Wirtschaftsmächte) | ekonomik güç | isim (d) | Die EU ist als Wirtschaftsmacht stärker als als politische Macht. | AB ekonomik güç olarak siyasi güç olduğundan daha güçlü.
+die Wirtschaftsmacht (die Wirtschaftsmächte) | ekonomik güç | isim (d) | Nach dem Krieg wurde das kleine Land zu einer echten Wirtschaftsmacht. | Savaştan sonra küçük ülke gerçek bir ekonomik güç hâline geldi.
 die Abhängigkeit (die Abhängigkeiten) | bağımlılık | isim (d) | Europa will die Abhängigkeit von importierter Energie verringern. | Avrupa ithal enerjiye bağımlılığı azaltmak istiyor.
 der Zollsatz (die Zollsätze) | gümrük oranı | isim (e) | Für Autos aus Asien gilt ein höherer Zollsatz. | Asya'dan gelen arabalara daha yüksek bir gümrük oranı uygulanıyor.
-die Währungsunion | para birliği | isim (d) | Zur europäischen Währungsunion gehören heute zwanzig Länder. | Avrupa para birliğine bugün yirmi ülke dahil.
+die Währungsunion | para birliği | isim (d) | Zur europäischen Währungsunion gehören viele, aber nicht alle EU-Länder. | Avrupa para birliğine AB ülkelerinin çoğu dahil, ama hepsi değil.
 der Rohstoffhandel | ham madde ticareti | isim (e) | Die Stadt Zug ist ein wichtiges Zentrum für den Rohstoffhandel. | Zug şehri ham madde ticareti için önemli bir merkez.
 ## Siyaset haberlerinin dili
 die Erklärung (die Erklärungen) | açıklama, bildiri | isim (d) | In einer gemeinsamen Erklärung fordern beide Länder mehr Klimaschutz. | Ortak bir bildiride iki ülke daha fazla iklim koruması talep ediyor.

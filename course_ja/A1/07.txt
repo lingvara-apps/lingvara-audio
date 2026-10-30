@@ -27,7 +27,7 @@
 重い (omoi) | ağır | sıfat | このかばんは重いです。(Kono kaban wa omoi desu.) | Bu çanta ağır.
 軽い (karui) | hafif | sıfat | このコートは軽くて暖かいです。(Kono kōto wa karukute atatakai desu.) | Bu palto hafif ve sıcak.
 強い (tsuyoi) | güçlü, sert | sıfat | 今日は風が強いですね。(Kyō wa kaze ga tsuyoi desu ne.) | Bugün rüzgâr sert, değil mi?
-弱い (yowai) | zayıf, güçsüz | sıfat | 私はお酒に弱いです。(Watashi wa o-sake ni yowai desu.) | Alkole dayanıksızımdır.
+弱い (yowai) | zayıf, güçsüz | sıfat | この子は体が弱いです。(Kono ko wa karada ga yowai desu.) | Bu çocuğun bünyesi zayıf.
 濃い (koi) | koyu; yoğun | sıfat | 濃い青が好きです。(Koi ao ga suki desu.) | Koyu maviyi severim.
 薄い (usui) | açık (renk); ince | sıfat | 薄いピンクのセーターです。(Usui pinku no sētā desu.) | Açık pembe bir kazak.
 有名 (yūmei) | ünlü | sıfat | この店のケーキは有名です。(Kono mise no kēki wa yūmei desu.) | Bu dükkânın pastası ünlüdür.
@@ -81,7 +81,7 @@ Tシャツ (tīshatsu) | tişört | isim | 夏はTシャツを着ます。(Natsu
 腕 (ude) | kol | isim | 腕が疲れました。(Ude ga tsukaremashita.) | Kolum yoruldu.
 指 (yubi) | parmak | isim | 指を切りました。(Yubi o kirimashita.) | Parmağımı kestim.
 足 (ashi) | ayak; bacak | isim | 足が痛いです。(Ashi ga itai desu.) | Ayağım ağrıyor.
-肩 (kata) | omuz | isim | 肩が重いです。(Kata ga omoi desu.) | Omuzlarım ağır.
+肩 (kata) | omuz | isim | 肩が重いです。(Kata ga omoi desu.) | Omuzlarım tutuldu.
 背中 (senaka) | sırt | isim | 背中がかゆいです。(Senaka ga kayui desu.) | Sırtım kaşınıyor.
 お腹 (onaka) | karın | isim | お腹が痛いです。(Onaka ga itai desu.) | Karnım ağrıyor.
 胸 (mune) | göğüs | isim | 胸が苦しいです。(Mune ga kurushii desu.) | Göğsüm sıkışıyor.
@@ -94,7 +94,7 @@ Tシャツ (tīshatsu) | tişört | isim | 夏はTシャツを着ます。(Natsu
 痛い (itai) | ağrıyan, acıyan | sıfat | 歯が痛いです。(Ha ga itai desu.) | Dişim ağrıyor.
 薬 (kusuri) | ilaç | isim | 薬を飲んでください。(Kusuri o nonde kudasai.) | İlacınızı için lütfen.
 疲れる (tsukareru) | yorulmak | fiil | 今日はとても疲れました。(Kyō wa totemo tsukaremashita.) | Bugün çok yoruldum.
-休む (yasumu) | dinlenmek; izin almak | fiil | 今日は会社を休みます。(Kyō wa kaisha o yasumimasu.) | Bugün işe gitmiyorum.
+休む (yasumu) | dinlenmek; izin almak | fiil | 今日は会社を休みます。(Kyō wa kaisha o yasumimasu.) | Bugün işten izin alıyorum.
 気分 (kibun) | keyif, kendini hissetme | isim | 気分が悪いです。(Kibun ga warui desu.) | Kendimi kötü hissediyorum.
 咳 (seki) | öksürük | isim | 咳が出ます。(Seki ga demasu.) | Öksürüyorum.
 けが (kega) | yara, sakatlık | isim | けがをしました。(Kega o shimashita.) | Yaralandım.

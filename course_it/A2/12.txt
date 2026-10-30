@@ -1,10 +1,10 @@
 # UNIT: Eğitim ve toplum | Okul, üniversite, resmî işler, şehir, bağlaçlar
 ## Okul hayatı
 la classe | sınıf | isim (d) | In classe siamo venti studenti. | Sınıfta yirmi öğrenciyiz.
-la lezione | ders | isim (d) | La lezione di italiano è alle nove. | İtalyanca dersi dokuzda.
+la lezione | ders (tek bir ders saati) | isim (d) | La lezione di italiano è alle nove. | İtalyanca dersi dokuzda.
 l'esame (e) | sınav | isim (e) | Domani ho un esame di storia. | Yarın tarih sınavım var.
 il voto | not (sınav); oy | isim (e) | Ho preso un bel voto in matematica. | Matematikten iyi not aldım.
-la materia | ders (branş) | isim (d) | Qual è la tua materia preferita? | En sevdiğin ders hangisi?
+la materia | ders (branş, okul dersi: matematik vb.) | isim (d) | Qual è la tua materia preferita? | En sevdiğin ders hangisi?
 la lavagna | yazı tahtası | isim (d) | L'insegnante scrive alla lavagna. | Öğretmen tahtaya yazıyor.
 l'aula (d) | derslik | isim (d) | L'esame è nell'aula tre. | Sınav üç numaralı derslikte.
 la pagella | karne | isim (d) | A giugno arriva la pagella. | Haziranda karne geliyor.
@@ -17,7 +17,7 @@ il professore | profesör; öğretmen (lise) | isim (e) | Il professore spiega m
 la matricola | birinci sınıf öğrencisi | isim (d) | Le matricole cercano le aule. | Birinci sınıflar derslikleri arıyor.
 il corso | kurs; ders (üniversite) | isim (e) | Frequento un corso di italiano. | Bir İtalyanca kursuna gidiyorum.
 laurearsi | üniversiteden mezun olmak | fiil · dönüşlü | Mi laureo a luglio. | Temmuzda mezun oluyorum.
-la tesi | tez | isim (d) | Scrivo la tesi su Dante. | Dante üzerine tez yazıyorum.
+la tesi | tez | isim (d) | Scrivo la tesi sulla poesia italiana. | İtalyan şiiri üzerine tez yazıyorum.
 la borsa di studio | burs | isim (d) | Ho vinto una borsa di studio. | Burs kazandım.
 la biblioteca (le biblioteche) | kütüphane | isim (d) | Studio in biblioteca fino a sera. | Akşama kadar kütüphanede çalışıyorum.
 il semestre | dönem, yarıyıl | isim (e) | Il secondo semestre comincia a febbraio. | İkinci dönem şubatta başlıyor.
@@ -41,7 +41,7 @@ la residenza | ikamet, ikametgâh | isim (d) | Ho la residenza a Torino. | İkam
 il codice fiscale | vergi numarası (İtalya'da kimlik gibi kullanılır) | isim (e) | Per il contratto serve il codice fiscale. | Sözleşme için vergi numarası gerekiyor.
 la marca da bollo | damga pulu | isim (d) | Sulla domanda metti una marca da bollo. | Başvurunun üstüne damga pulu yapıştır.
 il certificato | belge, sertifika | isim (e) | Mi serve un certificato di nascita. | Doğum belgesine ihtiyacım var.
-l'ambasciata (d) | büyükelçilik | isim (d) | L'ambasciata turca è a Roma. | Türk Büyükelçiliği Roma'da.
+l'ambasciata (d) | büyükelçilik | isim (d) | Vado all'ambasciata per il visto. | Vize için büyükelçiliğe gidiyorum.
 il consolato | konsolosluk | isim (e) | Il consolato è aperto la mattina. | Konsolosluk sabahları açık.
 ## Resmî işlemler
 il modulo | form | isim (e) | Compili questo modulo, per favore. | Bu formu doldurun, lütfen.
@@ -72,7 +72,7 @@ la cultura | kültür | isim (d) | Mi interessa la cultura italiana. | İtalyan 
 l'abitante (e) | sakin, oturan | isim (e) | Il paese ha mille abitanti. | Kasabanın bin sakini var.
 la povertà | yoksulluk | isim (d) | Molte associazioni combattono la povertà. | Birçok dernek yoksullukla mücadele ediyor.
 il diritto | hak; hukuk | isim (e) | Studiare è un diritto. | Eğitim almak bir haktır.
-il dovere | görev, ödev (ahlaki) | isim (e) | Votare è un dovere civico. | Oy vermek bir vatandaşlık görevidir.
+la tolleranza | hoşgörü | isim (d) | La tolleranza rende la società migliore. | Hoşgörü toplumu daha iyi yapar.
 la libertà | özgürlük | isim (d) | La libertà è preziosa. | Özgürlük değerlidir.
 il volontariato | gönüllülük | isim (e) | Faccio volontariato in un canile. | Bir köpek barınağında gönüllü çalışıyorum.
 la religione | din | isim (d) | Rispettiamo ogni religione. | Her dine saygı duyarız.

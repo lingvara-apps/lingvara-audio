@@ -15,7 +15,7 @@ il verso | dize | isim (e) | Il primo verso della Commedia è conosciuto da quas
 la strofa | kıta (şiir) | isim (d) | La poesia è composta da quattro strofe di lunghezza diversa. | Şiir farklı uzunlukta dört kıtadan oluşuyor.
 la rima | uyak, kafiye | isim (d) | Nei versi liberi del Novecento la rima diventa sempre più rara. | Yirminci yüzyılın serbest dizelerinde uyak giderek seyrekleşir.
 l'endecasillabo (e) | on bir heceli dize | isim (e) | L'endecasillabo è il verso più importante della tradizione poetica italiana. | On bir heceli dize İtalyan şiir geleneğinin en önemli ölçüsüdür.
-la terzina | üçlük (dörtlük gibi üç dizelik kıta) | isim (d) | Dante compose la Commedia in terzine di endecasillabi a rima incatenata. | Dante İlahi Komedya'yı zincirleme uyaklı on bir heceli üçlüklerle yazdı.
+la terzina | üçlük (üç dizelik kıta) | isim (d) | Dante compose la Commedia in terzine di endecasillabi a rima incatenata. | Dante İlahi Komedya'yı zincirleme uyaklı on bir heceli üçlüklerle yazdı.
 il sonetto | sone | isim (e) | Il sonetto è formato da due quartine e due terzine. | Sone iki dörtlük ve iki üçlükten oluşur.
 la metrica | ölçü bilgisi, vezin | isim (d) | Lo studio della metrica aiuta a capire il ritmo dei versi antichi. | Ölçü bilgisini incelemek eski dizelerin ritmini anlamaya yardım eder.
 l'enjambement (e) | dize aşımı | isim (e) | L'enjambement spezza la frase tra due versi e crea un effetto di sospensione. | Dize aşımı cümleyi iki dize arasında böler ve bir askıda kalma etkisi yaratır.
@@ -34,8 +34,8 @@ l'analessi (d) | geriye dönüş (anlatı) | isim (d) | Con una lunga analessi l
 la narrazione a cornice | çerçeve anlatı | isim (d) | La narrazione a cornice del Decameron è la fuga di dieci giovani dalla peste. | Decameron'un çerçeve öyküsü on gencin vebadan kaçışıdır.
 ## Söz sanatları I
 la metafora | eğretileme, metafor | isim (d) | Definire la vita un viaggio è una metafora antichissima. | Hayatı bir yolculuk diye tanımlamak çok eski bir metafordur.
-la similitudine | benzetme | isim (d) | Nella similitudine il paragone è introdotto da parole come o simile a. | Benzetmede karşılaştırma "gibi" ya da "benzer" gibi sözcüklerle yapılır.
-la metonimia | düz değişmece | isim (d) | Dire bere un bicchiere invece di bere il vino è una metonimia. | Şarap içmek yerine bir bardak içmek demek bir düz değişmecedir.
+la similitudine | benzetme | isim (d) | Nella similitudine il paragone è introdotto da parole come «come» o «simile a». | Benzetmede karşılaştırma "gibi" ya da "benzer" gibi sözcüklerle yapılır.
+la metonimia | düz değişmece | isim (d) | Dire «bere un bicchiere» invece di «bere il vino» è una metonimia. | "Şarap içmek" yerine "bir bardak içmek" demek bir düz değişmecedir.
 la sineddoche | parça-bütün ilişkisi (mecaz) | isim (d) | Usare vele per indicare le navi è un esempio classico di sineddoche. | Gemileri belirtmek için yelkenler demek klasik bir parça-bütün mecazıdır.
 l'ossimoro (e) | oksimoron, çelişik ikileme | isim (e) | Ghiaccio bollente è un ossimoro frequente nella poesia amorosa. | Kaynar buz aşk şiirinde sık görülen bir çelişik ikilemedir.
 l'iperbole (d) | abartma, mübalağa | isim (d) | Dire te l'ho detto mille volte è un'iperbole molto comune. | Sana bin kere söyledim demek çok yaygın bir abartmadır.
@@ -45,7 +45,7 @@ la sinestesia | duyular arası aktarma | isim (d) | Un silenzio verde è una sin
 la personificazione | kişileştirme | isim (d) | Nella favola la personificazione dà voce agli animali e agli oggetti. | Masalda kişileştirme hayvanlara ve nesnelere ses verir.
 ## Söz sanatları II
 l'allegoria (d) | alegori | isim (d) | La selva oscura di Dante è un'allegoria del peccato e dello smarrimento morale. | Dante'nin karanlık ormanı günahın ve ahlaki yitikliğin bir alegorisidir.
-la litote | az söyleyip çok anlatma | isim (d) | Dire non è un genio per dire che è poco intelligente è una litote. | Pek akıllı olmadığını söylemek için dahi değil demek bir az söyleyip çok anlatmadır.
+la litote | az söyleyip çok anlatma | isim (d) | Dire «non è un genio» per dire che è poco intelligente è una litote. | Pek akıllı olmadığını söylemek için "dahi değil" demek bir az söyleyip çok anlatmadır.
 la reticenza | yarım bırakma (söz sanatı) | isim (d) | Con la reticenza il personaggio interrompe la frase e lascia intuire il resto. | Karakter yarım bırakma sanatıyla cümleyi kesip gerisini sezdiriyor.
 l'apostrofe (d) | seslenme (söz sanatı) | isim (d) | Il poeta usa l'apostrofe rivolgendosi direttamente all'Italia sofferente. | Şair doğrudan acı çeken İtalya'ya seslenerek seslenme sanatını kullanıyor.
 il chiasmo | çaprazlama (söz sanatı) | isim (e) | Il chiasmo dispone le parole in ordine incrociato per creare simmetria. | Çaprazlama simetri yaratmak için sözcükleri çapraz bir sırayla dizer.

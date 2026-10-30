@@ -12,7 +12,7 @@ wie geht's? | nasılsın?, ne var ne yok? | ifade | Hallo Lukas, wie geht's? | M
 wie geht es Ihnen? | nasılsınız? (resmî) | ifade | Guten Tag, Herr Kaya, wie geht es Ihnen? | İyi günler Kaya Bey, nasılsınız?
 ## Nezaket
 danke | teşekkürler, sağ ol | ünlem | Danke, das ist sehr nett. | Teşekkürler, bu çok nazik.
-bitte | lütfen; buyurun; rica ederim | zarf | Einen Tee, bitte. | Bir çay lütfen.
+bitte | lütfen; buyurun; bir şey değil | zarf | Einen Tee, bitte. | Bir çay lütfen.
 gern geschehen | rica ederim, bir şey değil | ifade | Danke! — Gern geschehen. | Teşekkürler! — Rica ederim.
 die Entschuldigung (die Entschuldigungen) | özür; affedersiniz | isim (d) | Entschuldigung, wo ist hier die Toilette? | Affedersiniz, burada tuvalet nerede?
 es tut mir leid | üzgünüm, kusura bakma | ifade | Es tut mir leid, ich bin zu spät. | Kusura bakma, geç kaldım.
@@ -48,7 +48,7 @@ heißen (hieß, geheißen) | adı … olmak | fiil · düzensiz | Ich heiße Mar
 der Name (die Namen) | ad, isim | isim (e) | Wie ist Ihr Name? | Adınız nedir?
 der Vorname (die Vornamen) | ön ad, isim | isim (e) | Mein Vorname ist Yuki. | Adım Yuki.
 der Nachname (die Nachnamen) | soyadı | isim (e) | Wie ist Ihr Nachname? | Soyadınız nedir?
-kommen (kam, gekommen) | gelmek | fiil · düzensiz | Ich komme aus der Türkei. | Türkiye'den geliyorum.
+kommen (kam, gekommen) | gelmek | fiil · düzensiz | Ich komme aus Brasilien. | Brezilya'dan geliyorum.
 wohnen | oturmak, ikamet etmek | fiil | Wir wohnen in Zürich. | Zürih'te oturuyoruz.
 die Adresse (die Adressen) | adres | isim (d) | Wie ist deine Adresse? | Adresin ne?
 freut mich | memnun oldum | ifade | Ich bin Paul. — Freut mich! | Ben Paul. — Memnun oldum!
@@ -58,11 +58,11 @@ das Alter | yaş | isim (o) | Name, Alter und Adresse, bitte. | Ad, yaş ve adre
 Deutschland | Almanya | isim | Berlin liegt in Deutschland. | Berlin Almanya'dadır.
 Österreich | Avusturya | isim | Ich mache Urlaub in Österreich. | Avusturya'da tatil yapıyorum.
 die Schweiz | İsviçre | isim (d) | Elif arbeitet in der Schweiz. | Elif İsviçre'de çalışıyor.
-die Türkei | Türkiye | isim (d) | Ich komme aus der Türkei. | Türkiyeliyim.
+Frankreich | Fransa | isim | Paris liegt in Frankreich. | Paris Fransa'dadır.
 das Land (die Länder) | ülke; kır | isim (o) | Aus welchem Land kommst du? | Hangi ülkedensin?
 die Sprache (die Sprachen) | dil (lisan) | isim (d) | Deutsch ist eine schöne Sprache. | Almanca güzel bir dil.
 Deutsch | Almanca | isim | Ich lerne seit einem Jahr Deutsch. | Bir yıldır Almanca öğreniyorum.
-Türkisch | Türkçe | isim | Meine Eltern sprechen Türkisch. | Annemle babam Türkçe konuşuyor.
+Französisch | Fransızca | isim | Meine Eltern sprechen Französisch. | Annemle babam Fransızca konuşuyor.
 Englisch | İngilizce | isim | Sprichst du Englisch? | İngilizce konuşuyor musun?
 sprechen (sprach, gesprochen) | konuşmak | fiil · düzensiz | Wir sprechen ein bisschen Deutsch. | Biraz Almanca konuşuyoruz.
 ## Bu, şu, burada
@@ -74,7 +74,7 @@ dieser | bu (sıfat gibi) | zamir | Dieser Kaffee ist sehr gut. | Bu kahve çok 
 alle | herkes; hepsi | zamir | Alle sind schon da. | Herkes çoktan geldi.
 nichts | hiçbir şey | zamir | Ich verstehe nichts. | Hiçbir şey anlamıyorum.
 etwas | bir şey; biraz | zamir | Möchtest du etwas trinken? | Bir şey içmek ister misin?
-jemand | biri, birisi | zamir | Ist hier jemand? | Burada kimse var mı?
+jemand | biri, birisi | zamir | Ist hier jemand? | Burada biri var mı?
 niemand | hiç kimse | zamir | Niemand ist zu Hause. | Evde kimse yok.
 ## Kısa cevaplar
 gut | iyi | sıfat | Mir geht es gut, danke. | İyiyim, teşekkürler.
@@ -84,9 +84,9 @@ schade | yazık, ne yazık | ünlem | Du kannst nicht kommen? Schade! | Gelemiyo
 natürlich | elbette, tabii ki | zarf | Natürlich helfe ich dir. | Elbette sana yardım ederim.
 vielleicht | belki | zarf | Vielleicht komme ich morgen. | Belki yarın gelirim.
 leider | maalesef | zarf | Ich habe leider keine Zeit. | Maalesef vaktim yok.
-doch | hayır, öyle (olumsuz soruya olumlu cevap) | zarf | Kommst du nicht? — Doch! | Gelmiyor musun? — Geliyorum tabii!
+doch | aksine, evet (olumsuz soruya olumlu cevap); yine de | zarf | Kommst du nicht? — Doch! | Gelmiyor musun? — Geliyorum tabii!
 gern | seve seve, memnuniyetle | zarf | Kaffee? — Ja, gern! | Kahve? — Evet, memnuniyetle!
-wirklich | gerçekten | zarf | Das ist wirklich nett von dir. | Bu gerçekten çok naziksin.
+wirklich | gerçekten | zarf | Das ist wirklich nett von dir. | Gerçekten çok naziksin.
 ## Sınıfta iletişim
 verstehen (verstand, verstanden) | anlamak | fiil · düzensiz | Ich verstehe das nicht. | Bunu anlamıyorum.
 wiederholen | tekrarlamak | fiil | Können Sie das bitte wiederholen? | Bunu lütfen tekrarlayabilir misiniz?
@@ -98,7 +98,7 @@ das Wort (die Wörter) | kelime, sözcük | isim (o) | Was bedeutet dieses Wort?
 bedeuten | anlamına gelmek | fiil | Was bedeutet „Heimat“? | "Heimat" ne demek?
 noch einmal | bir kez daha | ifade | Sag das bitte noch einmal. | Bunu lütfen bir kez daha söyle.
 wie bitte? | efendim?, pardon, ne dediniz? | ifade | Wie bitte? Ich habe Sie nicht verstanden. | Efendim? Sizi anlamadım.
-## Avusturya ve İsviçre selamları
+## Bölgesel selamlar ve iyi dilekler
 grüß Gott | merhaba (Güney Almanya ve Avusturya) | ifade | Grüß Gott, Frau Huber! | Merhaba Huber Hanım!
 servus | selam; hoşça kal (Avusturya, Bavyera) | ünlem | Servus, Tobias, wie geht's? | Selam Tobias, nasılsın?
 grüezi | merhaba (İsviçre) | ünlem | Grüezi, was darf es sein? | Merhaba, ne arzu edersiniz?

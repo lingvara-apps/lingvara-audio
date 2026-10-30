@@ -14,7 +14,7 @@ il codice | kod, şifre | isim (e) | Inserisca il codice segreto. | Gizli şifre
 il pacco (i pacchi) | paket, koli | isim (e) | È arrivato un pacco per te. | Sana bir paket geldi.
 la lettera | mektup; harf | isim (d) | Scrivo una lettera alla nonna. | Nineme mektup yazıyorum.
 la busta | zarf; poşet | isim (d) | Metto la lettera nella busta. | Mektubu zarfa koyuyorum.
-spedire | göndermek (posta, kargo) | fiil | Spedisco il pacco in Turchia. | Paketi Türkiye'ye gönderiyorum.
+spedire | göndermek (posta, kargo) | fiil | Spedisco il pacco in Spagna. | Paketi İspanya'ya gönderiyorum.
 il corriere | kurye, kargo şirketi | isim (e) | Il corriere arriva in mattinata. | Kurye sabah geliyor.
 la consegna | teslimat | isim (d) | La consegna è gratuita. | Teslimat ücretsiz.
 consegnare | teslim etmek | fiil | Consegniamo in tre giorni. | Üç günde teslim ediyoruz.
@@ -56,7 +56,7 @@ la suola | taban (ayakkabı) | isim (d) | Cambio la suola agli stivali. | Botlar
 strappato | yırtık | sıfat | I jeans sono strappati. | Kot pantolon yırtık.
 ## Temizlik hizmetleri
 la tintoria | kuru temizleme | isim (d) | Porto il cappotto in tintoria. | Paltoyu kuru temizlemeye götürüyorum.
-lavare a secco | kuru temizleme yapmak | ifade | Questa giacca si lava a secco. | Bu ceket kuru temizlemeye verilir.
+lavare a secco | kuru temizleme yapmak | ifade | Questa giacca si lava a secco. | Bu ceket kuru temizlenir.
 fare le pulizie | temizlik yapmak | ifade | Il sabato facciamo le pulizie. | Cumartesi temizlik yaparız.
 smacchiare | leke çıkarmak | fiil | Possono smacchiare il vestito? | Elbisedeki lekeyi çıkarabilirler mi?
 ritirare | teslim almak; geri çekmek | fiil | Ritiro la camicia domani. | Gömleği yarın teslim alıyorum.

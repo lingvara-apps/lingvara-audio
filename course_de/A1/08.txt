@@ -10,12 +10,12 @@ wissen (wusste, gewusst) | bilmek (bilgi) | fiil · düzensiz | Ich weiß es nic
 sehen (sah, gesehen) | görmek | fiil · düzensiz | Siehst du das Schiff dort? | Oradaki gemiyi görüyor musun?
 hören | duymak; dinlemek | fiil | Ich höre gern Musik. | Müzik dinlemeyi severim.
 denken (dachte, gedacht) | düşünmek | fiil · düzensiz | Ich denke oft an dich. | Seni sık sık düşünüyorum.
-## Modal fiiller
-können (konnte, gekonnt) | -ebilmek | fiil · düzensiz | Kannst du schwimmen? | Yüzebilir misin?
-müssen (musste, gemusst) | zorunda olmak, -meli | fiil · düzensiz | Ich muss jetzt gehen. | Şimdi gitmem lazım.
-wollen (wollte, gewollt) | istemek | fiil · düzensiz | Wir wollen ein Haus kaufen. | Bir ev almak istiyoruz.
-dürfen (durfte, gedurft) | izinli olmak, -ebilmek | fiil · düzensiz | Darf ich hier rauchen? | Burada sigara içebilir miyim?
-sollen | -meli, -mesi gerekmek | fiil | Du sollst mehr Wasser trinken. | Daha çok su içmelisin.
+## Modal fiiller ve sık fiiller
+können (konnte, gekonnt) | -ebilmek (yetenek, olanak) | fiil · düzensiz | Kannst du schwimmen? | Yüzebilir misin?
+müssen (musste, gemusst) | zorunda olmak, -mek zorunda | fiil · düzensiz | Ich muss jetzt gehen. | Şimdi gitmem lazım.
+wollen (wollte, gewollt) | istemek (kesin istek, niyet) | fiil · düzensiz | Wir wollen ein Haus kaufen. | Bir ev almak istiyoruz.
+dürfen (durfte, gedurft) | izni olmak, -ebilmek (izin) | fiil · düzensiz | Darf ich hier rauchen? | Burada sigara içebilir miyim?
+sollen | -meli (başkasının isteği, tavsiye) | fiil | Du sollst mehr Wasser trinken. | Daha çok su içmelisin.
 möchten | istemek (kibar) | fiil | Ich möchte einen Kaffee. | Bir kahve istiyorum.
 mögen (mochte, gemocht) | sevmek, hoşlanmak | fiil · düzensiz | Ich mag Katzen. | Kedileri severim.
 lassen (ließ, gelassen) | bırakmak; yaptırmak | fiil · düzensiz | Lass mich in Ruhe! | Beni rahat bırak!
@@ -58,7 +58,7 @@ meinen | demek istemek; düşünmek | fiil | Was meinst du damit? | Bununla ne d
 spielen | oynamak; çalmak (enstrüman) | fiil | Die Kinder spielen Fußball. | Çocuklar futbol oynuyor.
 tanzen | dans etmek | fiil | Tanzt du gern? | Dans etmeyi sever misin?
 singen (sang, gesungen) | şarkı söylemek | fiil · düzensiz | Sie singt in einem Chor. | Bir koroda şarkı söylüyor.
-schwimmen (schwamm, geschwommen) | yüzmek | fiil · düzensiz | Im Sommer schwimmen wir im See. | Yazın gölde yüzüyoruz.
+schwimmen (schwamm, geschwommen) | yüzmek | fiil · düzensiz | Ich schwimme zweimal pro Woche. | Haftada iki kez yüzüyorum.
 fernsehen (sah fern, ferngesehen) | televizyon izlemek | fiil · düzensiz | Abends sehen wir fern. | Akşamları televizyon izliyoruz.
 spazieren gehen | yürüyüşe çıkmak, gezmek | ifade | Wir gehen am Fluss spazieren. | Nehir kenarında yürüyüşe çıkıyoruz.
 wandern | doğa yürüyüşü yapmak | fiil | In den Bergen wandern wir gern. | Dağlarda yürüyüş yapmayı severiz.

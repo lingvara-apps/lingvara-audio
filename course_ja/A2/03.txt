@@ -40,12 +40,12 @@
 助けて (tasukete) | imdat!, yardım edin! | ifade | 誰か助けて！(Dareka tasukete!) | Biri yardım etsin!
 危ない (abunai) | tehlikeli; dikkat et! | sıfat | 危ない！車が来るよ。(Abunai! Kuruma ga kuru yo.) | Dikkat! Araba geliyor.
 警察 (keisatsu) | polis (teşkilatı) | isim | 警察に電話しました。(Keisatsu ni denwa shimashita.) | Polisi aradım.
-避難 (hinan) | tahliye, sığınma | isim | 地震のときは公園に避難します。(Jishin no toki wa kōen ni hinan shimasu.) | Depremde parka tahliye oluruz.
+避難 (hinan) | tahliye, sığınma | isim | 地震のときは公園に避難します。(Jishin no toki wa kōen ni hinan shimasu.) | Deprem olunca parka sığınırız.
 緊急 (kinkyū) | acil | isim | 緊急のときは百十九番です。(Kinkyū no toki wa hyakujūkyū-ban desu.) | Acil durumda 119 aranır.
 倒れる (taoreru) | düşmek, yığılmak | fiil | 駅で人が倒れました。(Eki de hito ga taoremashita.) | İstasyonda biri yığıldı.
 ## Yaralanmalar
 骨折 (kossetsu) | kemik kırığı | isim | スキーで足を骨折しました。(Sukī de ashi o kossetsu shimashita.) | Kayakta bacağımı kırdım.
-やけど (yakedo) | yanık | isim | 熱いお茶でやけどしました。(Atsui o-cha de yakedo shimashita.) | Sıcak çay yüzünden yandım.
+やけど (yakedo) | yanık | isim | 熱いお茶でやけどしました。(Atsui ocha de yakedo shimashita.) | Sıcak çay yüzünden yandım.
 血 (chi) | kan | isim | 指から血が出ています。(Yubi kara chi ga dete imasu.) | Parmağımdan kan akıyor.
 傷 (kizu) | yara, çizik | isim | 傷はもう治りました。(Kizu wa mō naorimashita.) | Yara artık iyileşti.
 腫れる (hareru) | şişmek | fiil | 足首が腫れています。(Ashikubi ga harete imasu.) | Ayak bileğim şişmiş.
@@ -63,7 +63,7 @@
 皮膚 (hifu) | cilt, deri | isim | 皮膚が乾燥しています。(Hifu ga kansō shite imasu.) | Cildim kuru.
 腰 (koshi) | bel | isim | 重い荷物で腰が痛くなりました。(Omoi nimotsu de koshi ga itaku narimashita.) | Ağır yük yüzünden belim ağrıdı.
 脳 (nō) | beyin | isim | 寝ないと脳が疲れます。(Nenai to nō ga tsukaremasu.) | Uyumazsan beynin yorulur.
-肝臓 (kanzō) | karaciğer | isim | お酒は肝臓に悪いです。(O-sake wa kanzō ni warui desu.) | Alkol karaciğere zararlı.
+肝臓 (kanzō) | karaciğer | isim | お酒は肝臓に悪いです。(Osake wa kanzō ni warui desu.) | Alkol karaciğere zararlı.
 関節 (kansetsu) | eklem | isim | 寒いと関節が痛みます。(Samui to kansetsu ga itamimasu.) | Soğukta eklemlerim ağrır.
 ## Hastalıklar
 インフルエンザ (infuruenza) | grip | isim | インフルエンザで一週間休みました。(Infuruenza de isshūkan yasumimashita.) | Grip yüzünden bir hafta işe gitmedim.
@@ -71,7 +71,7 @@
 花粉症 (kafunshō) | saman nezlesi, polen alerjisi | isim | 春は花粉症で大変です。(Haru wa kafunshō de taihen desu.) | İlkbaharda polen alerjisi yüzünden zorlanıyorum.
 熱中症 (netchūshō) | sıcak çarpması | isim | 夏は熱中症に気をつけて。(Natsu wa netchūshō ni ki o tsukete.) | Yazın sıcak çarpmasına dikkat et.
 虫歯 (mushiba) | diş çürüğü | isim | 虫歯が一本あります。(Mushiba ga ippon arimasu.) | Bir çürük dişim var.
-喘息 (zensoku) | astım | isim | 弟は喘息があります。(Otōto wa zensoku ga arimasu.) | Kardeşimde astım var.
+喘息 (zensoku) | astım | isim | 弟は喘息があります。(Otōto wa zensoku ga arimasu.) | Erkek kardeşimde astım var.
 食中毒 (shokuchūdoku) | gıda zehirlenmesi | isim | 夏は食中毒が多いです。(Natsu wa shokuchūdoku ga ōi desu.) | Yazın gıda zehirlenmesi sık görülür.
 便秘 (benpi) | kabızlık | isim | 野菜を食べないと便秘になります。(Yasai o tabenai to benpi ni narimasu.) | Sebze yemezsen kabız olursun.
 ストレス (sutoresu) | stres | isim | 仕事のストレスがたまっています。(Shigoto no sutoresu ga tamatte imasu.) | İş stresi birikti.

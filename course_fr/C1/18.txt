@@ -1,9 +1,9 @@
 # UNIT: Resmî üslup | Bürokratik dil, resmî yazışma, kalıplar
 ## Mektup açılışları
 Madame, Monsieur | Sayın ilgili, Sayın yetkili | ifade | Madame, Monsieur, je vous écris au sujet de ma demande de logement social. | Sayın yetkili, sosyal konut başvurum hakkında size yazıyorum.
-comme suite à | -e istinaden (çok resmî) | edat | Comme suite à votre demande du 12 avril, nous vous adressons le devis détaillé. | 12 Nisan tarihli talebinize istinaden ayrıntılı teklifi size gönderiyoruz.
+comme suite à | -e istinaden (çok resmî) | edat | Comme suite à votre demande du douze avril, nous vous adressons le devis détaillé. | On iki nisan tarihli talebinize istinaden ayrıntılı teklifi size gönderiyoruz.
 j'ai l'honneur de | -mekten onur duyarım (resmî giriş) | ifade | J'ai l'honneur de solliciter un congé de formation pour l'année prochaine. | Gelecek yıl için eğitim izni talep etmekten onur duyarım.
-en réponse à | -e yanıt olarak | ifade | En réponse à votre courrier du 3 mars, je vous confirme mon accord. | 3 Mart tarihli yazınıza yanıt olarak onayımı teyit ederim.
+en réponse à | -e yanıt olarak | ifade | En réponse à votre courrier du trois mars, je vous confirme mon accord. | Üç mart tarihli yazınıza yanıt olarak onayımı teyit ederim.
 je fais suite à | -in devamı olarak yazıyorum | ifade | Je fais suite à votre annonce parue dans le journal de samedi dernier. | Geçen cumartesi gazetede yayımlanan ilanınıza istinaden yazıyorum.
 par la présente | işbu yazıyla | ifade | Par la présente, je vous informe de ma décision de résilier mon abonnement. | İşbu yazıyla aboneliğimi feshetme kararımı size bildiririm.
 je me permets de | -me cüretinde bulunuyorum, izninizle | ifade | Je me permets de vous relancer concernant ma demande restée sans réponse. | Yanıtsız kalan talebime ilişkin izninizle size yeniden hatırlatma yapıyorum.
@@ -42,7 +42,7 @@ la régularisation | durumun düzeltilmesi, yasallaştırma | isim (d) | La rég
 le dépôt de dossier | dosya teslimi | isim (e) | Le dépôt de dossier se fait uniquement en ligne, sur rendez-vous. | Dosya teslimi yalnızca çevrim içi ve randevuyla yapılıyor.
 l'instruction du dossier (f) | dosyanın incelenmesi | isim (d) | L'instruction du dossier peut prendre jusqu'à quatre mois. | Dosyanın incelenmesi dört aya kadar sürebilir.
 la prise en charge | (masrafların) karşılanması; üstlenme | isim (d) | La prise en charge des frais de transport est assurée par l'employeur. | Ulaşım masraflarının karşılanması işveren tarafından sağlanıyor.
-le silence vaut acceptation | yanıtsızlık onay sayılır | atasözü | En droit administratif, le silence vaut acceptation au bout de deux mois. | İdare hukukunda iki ay sonunda yanıtsızlık onay sayılır.
+le silence vaut acceptation | yanıtsızlık onay sayılır | ifade | En droit administratif, le silence vaut acceptation au bout de deux mois. | İdare hukukunda iki ay sonunda yanıtsızlık onay sayılır.
 ## Bürokratik fiiller
 accuser réception de | alındığını bildirmek | ifade | Nous accusons réception de votre dossier et vous en remercions. | Dosyanızın alındığını bildirir, teşekkür ederiz.
 solliciter | talep etmek, rica etmek | fiil | Je sollicite un rendez-vous afin de vous présenter mon projet. | Projemi size sunmak amacıyla bir randevu talep ediyorum.
@@ -51,8 +51,8 @@ stipuler | şart koşmak, öngörmek | fiil | Le contrat stipule que le loyer es
 viser | onaylamak, parafe etmek; hedeflemek | fiil | Le document doit être visé par le chef de service avant envoi. | Belge gönderilmeden önce birim amiri tarafından onaylanmalı.
 parapher | paraf atmak | fiil | Merci de parapher chaque page du contrat et de signer la dernière. | Lütfen sözleşmenin her sayfasına paraf atıp son sayfayı imzalayın.
 habiliter | yetkilendirmek | fiil | Seul un agent habilité peut consulter ces données confidentielles. | Bu gizli verilere yalnızca yetkili bir memur bakabilir.
-proroger | uzatmak (süre) | fiil | Le délai de dépôt des candidatures a été prorogé jusqu'au 15 mai. | Başvuruların teslim süresi 15 Mayıs'a kadar uzatıldı.
-s'acquitter de | (borç, görev) yerine getirmek, ödemek | fiil · dönüşlü | Le contribuable doit s'acquitter de cet impôt avant le 15 septembre. | Mükellef bu vergiyi 15 Eylül'den önce ödemelidir.
+proroger | uzatmak (süre) | fiil | Le délai de dépôt des candidatures a été prorogé jusqu'au quinze mai. | Başvuruların teslim süresi on beş mayısa kadar uzatıldı.
+s'acquitter de | (borç, görev) yerine getirmek, ödemek | fiil · dönüşlü | Le contribuable doit s'acquitter de cet impôt avant le quinze septembre. | Mükellef bu vergiyi on beş eylülden önce ödemelidir.
 déroger à | -den ayrılmak, istisna tutmak | fiil | Aucun service ne peut déroger à cette règle sans autorisation écrite. | Hiçbir birim yazılı izin olmadan bu kuralın dışına çıkamaz.
 ## Kurum ve kişiler
 l'administré (m) | yönetilen vatandaş | isim (e) | Le maire tient une permanence pour recevoir les administrés le samedi. | Belediye başkanı cumartesi günleri vatandaşları kabul etmek için makamında bulunuyor.
@@ -69,12 +69,12 @@ le Journal officiel | Resmî Gazete (Fransa) | isim (e) | Le décret a été pub
 ci-inclus | ekte, içeride | zarf | Vous trouverez ci-inclus le règlement intérieur de la résidence étudiante. | Öğrenci yurdunun iç yönetmeliğini ekte bulabilirsiniz.
 ci-dessus | yukarıda (belirtilen) | zarf | Merci de renvoyer le formulaire à l'adresse indiquée ci-dessus. | Lütfen formu yukarıda belirtilen adrese geri gönderin.
 ci-après | aşağıda, bundan sonra | zarf | La société Lambert, ci-après dénommée le prestataire, s'engage à livrer les biens. | Bundan sonra hizmet sağlayıcı olarak anılacak Lambert şirketi malları teslim etmeyi taahhüt eder.
-susmentionné | yukarıda adı geçen | sıfat | Les personnes susmentionnées sont convoquées à la réunion du 12 juin. | Yukarıda adı geçen kişiler 12 Haziran toplantısına çağrılmıştır.
+susmentionné | yukarıda adı geçen | sıfat | Les personnes susmentionnées sont convoquées à la réunion du douze juin. | Yukarıda adı geçen kişiler on iki haziran toplantısına çağrılmıştır.
 ledit | söz konusu, adı geçen | sıfat | Le locataire s'engage à entretenir ledit logement en bon état. | Kiracı söz konusu konutu iyi durumda tutmayı taahhüt eder.
 nonobstant | -e rağmen, -e bakılmaksızın | edat | Nonobstant toute disposition contraire, cette clause reste applicable. | Aksi yöndeki her hükme rağmen bu madde uygulanabilir kalır.
 attendu que | -diği göz önüne alınarak | bağlaç | Attendu que le requérant n'a pas comparu, la demande est rejetée. | Başvuru sahibinin hazır bulunmadığı göz önüne alınarak talep reddedilmiştir.
 à compter de | -den itibaren | edat | Le nouveau tarif s'appliquera à compter du premier janvier. | Yeni tarife bir ocaktan itibaren uygulanacak.
-au plus tard | en geç | ifade | Le dossier complet doit nous parvenir au plus tard le 30 juin. | Eksiksiz dosyanın en geç 30 Haziran'da elimize ulaşması gerekiyor.
+au plus tard | en geç | ifade | Le dossier complet doit nous parvenir au plus tard le trente juin. | Eksiksiz dosyanın en geç otuz haziranda elimize ulaşması gerekiyor.
 sous huitaine | sekiz gün içinde | ifade | Le dossier complété devra être retourné sous huitaine au secrétariat de la mairie. | Tamamlanan dosya sekiz gün içinde belediye sekreterliğine geri gönderilmelidir.
 ## Resmî kalıplar
 veuillez trouver ci-joint | ekte bulabilirsiniz | ifade | Veuillez trouver ci-joint mon curriculum vitae ainsi qu'une lettre de recommandation. | Özgeçmişimi ve bir tavsiye mektubunu ekte bulabilirsiniz.

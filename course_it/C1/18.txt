@@ -2,7 +2,7 @@
 ## Bürokratik isimler
 l'istanza (d) | dilekçe, başvuru | isim (d) | L'istanza deve essere presentata in carta semplice all'ufficio competente. | Dilekçe yetkili daireye düz kâğıtla verilmelidir.
 la modulistica | resmî formlar | isim (d) | Tutta la modulistica è scaricabile dal sito del comune. | Bütün resmî formlar belediyenin sitesinden indirilebilir.
-il protocollo | evrak kayıt numarası; protokol | isim (e) | La sua domanda è stata registrata con il numero di protocollo 4521. | Başvurunuz 4521 evrak kayıt numarasıyla kaydedildi.
+il protocollo | evrak kayıt numarası; protokol | isim (e) | La sua domanda è stata registrata con il numero di protocollo quattromilacinquecentoventuno. | Başvurunuz dört bin beş yüz yirmi bir evrak kayıt numarasıyla kaydedildi.
 il bollettino postale | posta ödeme formu | isim (e) | La tassa si paga con un bollettino postale intestato al ministero. | Harç bakanlık adına düzenlenmiş bir posta ödeme formuyla ödenir.
 l'autocertificazione (d) | beyanname (kişinin kendi beyanı) | isim (d) | Al posto del certificato può presentare un'autocertificazione firmata. | Belge yerine imzalı bir kişisel beyan sunabilirsiniz.
 il nulla osta | sakıncası yoktur belgesi, izin | isim (e) | Senza il nulla osta della Soprintendenza non si può modificare la facciata. | Koruma kurulunun izni olmadan cephe değiştirilemez.
@@ -22,9 +22,9 @@ rilasciare | vermek, düzenlemek (belge) | fiil | Il passaporto viene rilasciato
 dare corso a | işleme koymak, yürütmek | ifade | L'ufficio non può dare corso alla domanda senza la firma del richiedente. | Daire başvurucunun imzası olmadan başvuruyu işleme koyamaz.
 pervenire (pervenuto) | ulaşmak (resmî) | fiil · düzensiz | Le domande dovranno pervenire entro il trenta settembre. | Başvuruların otuz eylüle kadar ulaşması gerekir.
 ## Mektup açılış ve kapanışları
-Pregiatissimo | Çok değerli (resmî hitap) | sıfat | Pregiatissimo professore, la ringrazio per la sua cortese disponibilità. | Çok değerli hocam, nazik ilginiz için size teşekkür ederim.
-Egregio | Sayın (erkeğe, resmî) | sıfat | Egregio avvocato, le invio in allegato i documenti richiesti. | Sayın avukat, istenen belgeleri ekte gönderiyorum.
-Spettabile | Sayın (kurumlara) | sıfat | Spettabile ditta, vi chiediamo un preventivo per la fornitura di carta. | Sayın firma, kâğıt tedariki için bir fiyat teklifi rica ediyoruz.
+pregiatissimo | Çok değerli (resmî hitap) | sıfat | Pregiatissimo professore, la ringrazio per la sua cortese disponibilità. | Çok değerli hocam, nazik ilginiz için size teşekkür ederim.
+egregio | Sayın (erkeğe, resmî) | sıfat | Egregio avvocato, le invio in allegato i documenti richiesti. | Sayın avukat, istenen belgeleri ekte gönderiyorum.
+spettabile | Sayın (kurumlara) | sıfat | Spettabile ditta, vi chiediamo un preventivo per la fornitura di carta. | Sayın firma, kâğıt tedariki için bir fiyat teklifi rica ediyoruz.
 alla cortese attenzione di | ... dikkatine | ifade | La lettera è indirizzata alla cortese attenzione del responsabile acquisti. | Mektup satın alma sorumlusunun dikkatine yazılmıştır.
 distinti saluti | saygılarımla | ifade | Restando in attesa di una vostra risposta, porgo distinti saluti. | Yanıtınızı beklerken saygılarımı sunarım.
 voglia gradire i migliori saluti | en iyi dileklerimi kabul buyurun | ifade | Ringraziandola per l'attenzione, voglia gradire i migliori saluti. | İlginiz için teşekkür eder, en iyi dileklerimi kabul buyurmanızı rica ederim.
@@ -45,11 +45,11 @@ in data odierna | bugün itibarıyla | ifade | In data odierna è stata trasmess
 a stretto giro | çok kısa sürede | ifade | Vi daremo una risposta definitiva a stretto giro di posta. | Size çok kısa sürede kesin bir yanıt vereceğiz.
 ## Bürokrasi dili (burocratese)
 il burocratese | bürokrasi dili, kırtasiye dili | isim (e) | Il burocratese rende incomprensibili anche le comunicazioni più semplici. | Bürokrasi dili en basit duyuruları bile anlaşılmaz hâle getiriyor.
-suddetto | adı geçen, yukarıda belirtilen | sıfat | Il suddetto immobile risulta di proprietà del comune dal 1980. | Adı geçen taşınmaz 1980'den beri belediyenin mülkü görünüyor.
+suddetto | adı geçen, yukarıda belirtilen | sıfat | Il suddetto immobile risulta di proprietà del comune dal millenovecentottanta. | Adı geçen taşınmaz bin dokuz yüz seksenden beri belediyenin mülkü görünüyor.
 summenzionato | yukarıda anılan | sıfat | La summenzionata società non ha presentato la documentazione richiesta. | Yukarıda anılan şirket istenen belgeleri sunmadı.
 codesto | sizin (o) (resmî yazışmada) | sıfat | Si chiede a codesto ufficio di trasmettere copia del verbale. | Sizin dairenizden tutanağın bir kopyasının iletilmesi istenir.
 all'uopo | bu amaçla | ifade | È stata costituita all'uopo una commissione di tre esperti. | Bu amaçla üç uzmandan oluşan bir komisyon kuruldu.
-il medesimo | aynı, söz konusu | sıfat | Il richiedente e il medesimo dichiarano di accettare le condizioni. | Başvurucu ve söz konusu kişi koşulları kabul ettiklerini beyan eder.
+il medesimo | aynı, söz konusu | sıfat | Il ricorso è stato respinto e il medesimo non potrà essere ripresentato. | Başvuru reddedildi ve söz konusu başvuru yeniden sunulamayacak.
 ove | ... olduğu takdirde; nerede (resmî) | bağlaç | Ove necessario, l'ufficio richiederà al cittadino ulteriore documentazione integrativa. | Gerekli olduğu takdirde daire vatandaştan ek tamamlayıcı belgeler isteyecektir.
 ivi | orada (resmî) | zarf | Il defunto nacque a Lecce e ivi visse per tutta la vita. | Merhum Lecce'de doğdu ve bütün hayatı boyunca orada yaşadı.
 testé | az önce (edebî, resmî) | zarf | Come testé ricordato dal presidente, la seduta è pubblica. | Başkanın az önce hatırlattığı gibi oturum açıktır.
@@ -58,7 +58,7 @@ il sottoscritto richiedente | aşağıda imzası olan başvurucu | ifade | Il so
 l'ufficio di stato civile (e) | nüfus ve evlendirme dairesi | isim (e) | All'ufficio di stato civile si registrano nascite, matrimoni e decessi. | Nüfus ve evlendirme dairesinde doğumlar, evlilikler ve ölümler kaydedilir.
 l'ufficio relazioni con il pubblico (e) | halkla ilişkiler bürosu (kamu) | isim (e) | Per informazioni sugli orari rivolgetevi all'ufficio relazioni con il pubblico. | Çalışma saatleri hakkında bilgi için halkla ilişkiler bürosuna başvurun.
 il catasto | tapu kadastro | isim (e) | Al catasto risulta che la casa ha sei vani e un garage. | Kadastroda evin altı odası ve bir garajı olduğu görünüyor.
-l'agenzia delle entrate (d) | vergi dairesi (gelir idaresi) | isim (d) | L'agenzia delle entrate ha inviato un avviso di pagamento per il 2022. | Gelir idaresi 2022 için bir ödeme ihbarnamesi gönderdi.
+l'agenzia delle entrate (d) | vergi dairesi (gelir idaresi) | isim (d) | L'agenzia delle entrate ha inviato un avviso di pagamento per il duemilaventidue. | Gelir idaresi iki bin yirmi iki için bir ödeme ihbarnamesi gönderdi.
 la camera di commercio | ticaret odası | isim (d) | Per avviare l'attività devi iscriverti alla camera di commercio. | Faaliyete başlamak için ticaret odasına kaydolman gerekiyor.
 la motorizzazione | trafik tescil dairesi | isim (d) | L'esame di guida si sostiene presso la motorizzazione civile. | Sürücü sınavı trafik tescil dairesinde yapılır.
 il patronato | sosyal hak danışma bürosu | isim (e) | Il patronato aiuta gratuitamente i lavoratori con le pratiche della pensione. | Sosyal hak danışma bürosu çalışanlara emeklilik işlemlerinde ücretsiz yardım ediyor.

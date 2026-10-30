@@ -15,11 +15,11 @@ le déjeuner | öğle yemeği | isim (e) | Le déjeuner est à midi. | Öğle ye
 le dîner | akşam yemeği | isim (e) | On prépare le dîner ensemble. | Akşam yemeğini birlikte hazırlıyoruz.
 le repas | yemek, öğün | isim (e) | Le repas du dimanche est long. | Pazar yemeği uzun sürer.
 le goûter | ikindi kahvaltısı (çocuklar için) | isim (e) | Pour le goûter, une tartine. | İkindi için bir dilim ekmek.
-manger | yemek | fiil | On mange à quelle heure ? | Saat kaçta yiyoruz?
+manger | yemek yemek | fiil | On mange à quelle heure ? | Saat kaçta yiyoruz?
 boire (bu) | içmek | fiil · düzensiz | Tu bois quelque chose ? | Bir şey içer misin?
 avoir faim | acıkmak, aç olmak | ifade | J'ai très faim ! | Çok acıktım!
 avoir soif | susamak | ifade | Tu as soif ? | Susadın mı?
-le plat | yemek (tabak); servis tabağı | isim (e) | C'est un plat sénégalais. | Bu bir Senegal yemeği.
+le plat | yemek (tabaktaki), tabak yemeği; servis tabağı | isim (e) | C'est un plat sénégalais. | Bu bir Senegal yemeği.
 la cantine | yemekhane | isim (d) | Les enfants mangent à la cantine. | Çocuklar yemekhanede yiyor.
 ## Market
 le fromage | peynir | isim (e) | La France a beaucoup de fromages. | Fransa'da çok çeşit peynir var.
@@ -41,7 +41,7 @@ le raisin | üzüm | isim (e) | J'aime le raisin noir. | Siyah üzümü severim.
 la cerise | kiraz | isim (d) | Les cerises sont rouges. | Kirazlar kırmızı.
 le citron | limon | isim (e) | Un thé au citron ? | Limonlu çay mı?
 la pêche | şeftali | isim (d) | Cette pêche est sucrée. | Bu şeftali tatlı.
-l'abricot (m) | kayısı | isim (e) | Les abricots de Malatya sont célèbres. | Malatya kayısısı ünlüdür.
+l'abricot (m) | kayısı | isim (e) | Les abricots sont mûrs en juillet. | Kayısılar temmuzda olgunlaşır.
 le fruit | meyve | isim (e) | Je mange un fruit par jour. | Günde bir meyve yerim.
 ## Sebzeler
 le légume | sebze | isim (e) | Mange tes légumes, Théo ! | Sebzelerini ye Théo!

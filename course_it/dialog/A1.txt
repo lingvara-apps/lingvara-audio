@@ -3,7 +3,7 @@
 A | Ciao! Sei nuovo qui? | Selam! Burada yeni misin?
 B | Sì, sono arrivato ieri. Mi chiamo Emre. | Evet, dün geldim. Adım Emre.
 A | Piacere, io sono Elena. Di dove sei? | Memnun oldum, ben Elena. Nerelisin?
-B | Sono turco, di Istanbul. | Türk'üm, İstanbulluyum.
+B | Vengo da Londra, ma studio qui. | Londra'dan geliyorum ama burada okuyorum.
 A | Che bello! Perché sei a Roma? | Ne güzel! Neden Roma'dasın?
 B | Studio italiano all'università. | Üniversitede İtalyanca okuyorum.
 A | Parli già molto bene! | Şimdiden çok iyi konuşuyorsun!
@@ -18,8 +18,8 @@ B | Alla crema. Quanto costa tutto? | Kremalı. Hepsi ne kadar?
 A | Due euro e cinquanta. | İki avro elli.
 B | Ecco. Gli italiani bevono sempre il cappuccino? | Buyur. İtalyanlar hep kapuçino mu içer?
 A | Solo la mattina! Dopo pranzo prendiamo l'espresso. | Sadece sabahları! Öğle yemeğinden sonra espresso içeriz.
-B | Interessante! In Turchia beviamo molto tè. | İlginç! Türkiye'de çok çay içeriz.
-A | Lo so, il tè turco è famoso. | Biliyorum, Türk çayı ünlüdür.
+B | Interessante! Nel mio paese beviamo molto tè. | İlginç! Benim ülkemde çok çay içeriz.
+A | Lo so, ma io preferisco il caffè! | Biliyorum ama ben kahveyi tercih ederim!
 B | Un giorno ti porto un po' di tè. | Bir gün sana biraz çay getiririm.
 ## Şehirde yol sormak
 A | Scusa, sai dov'è la fermata dell'autobus? | Pardon, otobüs durağı nerede biliyor musun?

@@ -27,7 +27,7 @@ der Schrank (die Schränke) | dolap | isim (e) | Die Kleider sind im Schrank. | 
 das Sofa (die Sofas) | kanepe | isim (o) | Wir haben ein neues Sofa. | Yeni bir kanepemiz var.
 das Regal (die Regale) | raf | isim (o) | Die Bücher stehen im Regal. | Kitaplar rafta duruyor.
 der Sessel (die Sessel) | koltuk | isim (e) | Opa sitzt im Sessel und liest. | Dedem koltukta oturup okuyor.
-der Teppich (die Teppiche) | halı | isim (e) | Der Teppich kommt aus der Türkei. | Halı Türkiye'den.
+der Teppich (die Teppiche) | halı | isim (e) | Der Teppich ist weich und warm. | Halı yumuşak ve sıcak.
 die Lampe (die Lampen) | lamba | isim (d) | Die Lampe über dem Tisch ist neu. | Masanın üstündeki lamba yeni.
 der Spiegel (die Spiegel) | ayna | isim (e) | Im Flur hängt ein großer Spiegel. | Koridorda büyük bir ayna asılı.
 der Vorhang (die Vorhänge) | perde | isim (e) | Mach bitte den Vorhang zu. | Lütfen perdeyi kapat.
@@ -53,7 +53,7 @@ der Löffel (die Löffel) | kaşık | isim (e) | Ich brauche einen Löffel für 
 die Schüssel (die Schüsseln) | kâse, kase | isim (d) | Der Salat ist in der Schüssel. | Salata kasede.
 die Flasche (die Flaschen) | şişe | isim (d) | Wir kaufen zwei Flaschen Wasser. | İki şişe su alıyoruz.
 die Serviette (die Servietten) | peçete | isim (d) | Hier ist eine Serviette für dich. | İşte sana bir peçete.
-die Kanne (die Kannen) | demlik, sürahi | isim (d) | Die Kanne Tee ist noch warm. | Demlikteki çay hâlâ sıcak.
+die Kanne (die Kannen) | demlik, sürahi | isim (d) | Der Tee in der Kanne ist noch warm. | Demlikteki çay hâlâ sıcak.
 ## Banyoda
 die Dusche (die Duschen) | duş | isim (d) | Ich bin unter der Dusche! | Duştayım!
 die Badewanne (die Badewannen) | küvet | isim (d) | Das Kind sitzt in der Badewanne. | Çocuk küvette oturuyor.

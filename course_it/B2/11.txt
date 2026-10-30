@@ -11,13 +11,13 @@ pregare | dua etmek | fiil | Ogni sera la nonna prega per tutta la famiglia. | B
 la preghiera | dua | isim (d) | Nella chiesa vuota si sentiva solo una preghiera sussurrata. | Boş kilisede sadece fısıltıyla edilen bir dua duyuluyordu.
 il miracolo | mucize | isim (e) | È un miracolo che nessuno si sia fatto male nell'incidente. | Kazada kimsenin yaralanmaması bir mucize.
 ## Dinî kavramlar
-Dio | Tanrı | isim | Molte persone credono in Dio, altre no. | Birçok insan Tanrı'ya inanır, bazıları inanmaz.
+Dio | Tanrı | isim (e) | Molte persone credono in Dio, altre no. | Birçok insan Tanrı'ya inanır, bazıları inanmaz.
 l'anima (d) | ruh | isim (d) | Secondo molte religioni l'anima vive dopo la morte. | Birçok dine göre ruh ölümden sonra da yaşar.
 il paradiso | cennet | isim (e) | Questa spiaggia deserta è un vero paradiso. | Bu ıssız plaj gerçek bir cennet.
 l'inferno (e) | cehennem | isim (e) | Con questo traffico la città è un inferno. | Bu trafikle şehir tam bir cehennem.
 il peccato | günah | isim (e) | Per molte religioni mentire è un peccato grave. | Birçok dine göre yalan söylemek büyük bir günahtır.
 il perdono | af, bağışlama | isim (e) | Ha chiesto perdono alla sorella dopo anni di silenzio. | Yıllar süren sessizlikten sonra kız kardeşinden af diledi.
-santo | aziz; mübarek | sıfat | Per i cattolici Roma è una città santa. | Katolikler için Roma kutsal bir şehirdir.
+santo | kutsal; aziz | sıfat | Per i cattolici Roma è una città santa. | Katolikler için Roma kutsal bir şehirdir.
 sacro | kutsal, mukaddes | sıfat | Per lui la domenica in famiglia è sacra. | Onun için ailece geçirilen pazar günü kutsaldır.
 il profeta | peygamber | isim (e) | Nessuno è profeta in patria, dice un vecchio proverbio. | Eski bir atasözü, kimse kendi memleketinde peygamber olmaz der.
 la Bibbia | Kitab-ı Mukaddes, İncil | isim (d) | La Bibbia è stata tradotta in centinaia di lingue. | Kitab-ı Mukaddes yüzlerce dile çevrildi.
@@ -26,10 +26,10 @@ cattolico | Katolik | sıfat | La maggior parte degli italiani è di tradizione 
 ortodosso | Ortodoks | sıfat | Nella città c'è una piccola chiesa ortodossa greca. | Şehirde küçük bir Rum Ortodoks kilisesi var.
 protestante | Protestan | sıfat | Nelle valli del Piemonte vivono comunità protestanti antiche. | Piemonte vadilerinde eski Protestan toplulukları yaşıyor.
 musulmano | Müslüman | sıfat | Durante il Ramadan i colleghi musulmani non mangiano di giorno. | Ramazan'da Müslüman iş arkadaşları gündüz yemek yemiyor.
-ebreo | Yahudi | sıfat | Il quartiere ebraico di Venezia si chiama Ghetto. | Venedik'in Yahudi mahallesinin adı Getto.
+ebreo | Yahudi | sıfat | La comunità ebrea di Roma è una delle più antiche d'Europa. | Roma'daki Yahudi topluluğu Avrupa'nın en eskilerinden biridir.
 buddista | Budist | sıfat | Ha visitato un monastero buddista in Giappone. | Japonya'da bir Budist manastırını ziyaret etti.
 il fedele | mümin, inanan, cemaat üyesi | isim (e) | La piazza era piena di fedeli per la festa del patrono. | Meydan koruyucu aziz bayramı için inananlarla doluydu.
-il prete | papaz | isim (e) | Il prete del paese conosce tutte le famiglie. | Köyün papazı bütün aileleri tanıyor.
+il prete | rahip, papaz | isim (e) | Il prete del paese conosce tutte le famiglie. | Köyün rahibi bütün aileleri tanıyor.
 la suora | rahibe | isim (d) | Le suore gestiscono una scuola materna nel quartiere. | Rahibeler mahallede bir anaokulu işletiyor.
 la cattedrale | katedral | isim (d) | La cattedrale di Milano ha impiegato secoli per essere completata. | Milano katedralinin tamamlanması yüzyıllar aldı.
 ## Dinî uygulamalar
@@ -105,7 +105,7 @@ la scaramanzia | uğursuzluğu kovma çabası | isim (d) | Per scaramanzia non p
 il malocchio | nazar | isim (e) | Al Sud alcuni anziani credono ancora nel malocchio. | Güneyde bazı yaşlılar hâlâ nazara inanıyor.
 l'amuleto (e) | muska, tılsım | isim (e) | Porta sempre al collo un piccolo amuleto d'argento. | Boynunda hep küçük gümüş bir tılsım taşıyor.
 il portafortuna | uğur getiren şey | isim (e) | Questa vecchia moneta è il mio portafortuna. | Bu eski bozuk para benim uğurum.
-il corno | boynuz; uğur boynuzu (Napoli) | isim (e) | A Napoli si regala un cornetto rosso come portafortuna. | Napoli'de uğur getirsin diye kırmızı bir boynuz hediye edilir.
+il corno | boynuz; uğur boynuzu (Napoli) | isim (e) | A Napoli si regala un corno rosso come portafortuna. | Napoli'de uğur getirsin diye kırmızı bir boynuz hediye edilir.
 lo iettatore | uğursuzluk getiren kişi | isim (e) | Nel vecchio film tutti scappano dallo iettatore del paese. | Eski filmde herkes köyün uğursuz adamından kaçıyor.
 la sfortuna | şanssızlık, uğursuzluk | isim (d) | Che sfortuna, è cominciato a piovere appena siamo arrivati! | Ne şanssızlık, biz varır varmaz yağmur başladı!
 il gatto nero | kara kedi | isim (e) | Molti italiani si fermano se un gatto nero attraversa la strada. | Birçok İtalyan kara kedi yolu kesince durur.

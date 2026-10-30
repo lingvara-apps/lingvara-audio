@@ -26,11 +26,11 @@ die Aussprache | telaffuz | isim (d) | Ihre Aussprache ist so gut, dass man sie 
 aussprechen (sprach aus, ausgesprochen) | telaffuz etmek | fiil · düzensiz | Wie spricht man dieses Wort richtig aus? | Bu kelime doğru nasıl telaffuz edilir?
 der Akzent (die Akzente) | aksan | isim (e) | Er spricht perfekt Deutsch, aber mit einem leichten Akzent. | Mükemmel Almanca konuşuyor ama hafif bir aksanla.
 die Betonung (die Betonungen) | vurgu | isim (d) | Bei diesem Wort liegt die Betonung auf der zweiten Silbe. | Bu kelimede vurgu ikinci hecede.
-der Laut (die Laute) | ses | isim (e) | Den Laut „ch“ gibt es im Türkischen nicht. | "Ch" sesi Türkçede yoktur.
+die Lautschrift | fonetik alfabe | isim (d) | Im Wörterbuch steht die Aussprache jedes Wortes in Lautschrift. | Sözlükte her kelimenin telaffuzu fonetik alfabeyle yazılır.
 die Silbe (die Silben) | hece | isim (d) | Das lange Wort „Kartoffelsalat“ hat insgesamt fünf Silben. | Uzun "Kartoffelsalat" kelimesinin toplam beş hecesi var.
 der Vokal (die Vokale) | ünlü | isim (e) | Lange und kurze Vokale ändern oft die Bedeutung eines Wortes. | Uzun ve kısa ünlüler çoğu zaman bir kelimenin anlamını değiştirir.
 der Konsonant (die Konsonanten) | ünsüz | isim (e) | Am Wortende klingt der Konsonant „d“ wie ein „t“. | Kelime sonunda "d" ünsüzü "t" gibi okunur.
-der Umlaut (die Umlaute) | umlaut (ä, ö, ü) | isim (e) | Die Umlaute ö und ü kennen Türken schon aus ihrer Sprache. | Türkler ö ve ü umlautlarını kendi dillerinden zaten tanır.
+der Umlaut (die Umlaute) | umlaut (ä, ö, ü) | isim (e) | Die Umlaute ä, ö und ü gibt es auch in einigen anderen Sprachen. | Ä, ö ve ü umlautları başka bazı dillerde de var.
 undeutlich | anlaşılmaz, net olmayan | sıfat | Am Telefon sprach er so undeutlich, dass ich nichts verstand. | Telefonda o kadar anlaşılmaz konuştu ki hiçbir şey anlamadım.
 ## Kelime bilgisi
 der Wortschatz | kelime hazinesi | isim (e) | Durch das Lesen von Romanen wird der Wortschatz größer. | Roman okuyarak kelime hazinesi genişler.
@@ -44,7 +44,7 @@ der Begriff (die Begriffe) | kavram, terim | isim (e) | Diesen Begriff habe ich 
 das Wörterbuch (die Wörterbücher) | sözlük | isim (o) | Im Wörterbuch stehen bei jedem Nomen Artikel und Plural. | Sözlükte her ismin yanında artikel ve çoğul yazılıdır.
 die Abkürzung (die Abkürzungen) | kısaltma | isim (d) | „Usw.“ ist die Abkürzung für „und so weiter“. | "Usw." "ve benzeri"nin kısaltmasıdır.
 ## Çeviri
-übersetzen | çevirmek | fiil | Kannst du mir diesen Brief vom Amt ins Türkische übersetzen? | Resmî daireden gelen bu mektubu bana Türkçeye çevirebilir misin?
+übersetzen | çevirmek | fiil | Kannst du mir diesen Brief vom Amt ins Englische übersetzen? | Resmî daireden gelen bu mektubu bana İngilizceye çevirebilir misin?
 der Übersetzer (die Übersetzer) | çevirmen | isim (e) | Die Übersetzerin hat schon über dreißig Romane übersetzt. | Çevirmen şimdiden otuzdan fazla roman çevirdi.
 der Dolmetscher (die Dolmetscher) | tercüman (sözlü) | isim (e) | Beim Gericht hilft ein Dolmetscher dem Angeklagten. | Mahkemede sanığa bir tercüman yardım ediyor.
 dolmetschen | sözlü tercüme yapmak | fiil | Auf der Konferenz dolmetscht sie zwischen Deutsch und Arabisch. | Konferansta Almanca ile Arapça arasında sözlü tercüme yapıyor.
@@ -55,13 +55,13 @@ die Fachübersetzung (die Fachübersetzungen) | teknik çeviri | isim (d) | Für
 beglaubigte Übersetzung | yeminli çeviri | ifade | Für das Amt brauche ich eine beglaubigte Übersetzung meines Diploms. | Resmî daire için diplomamın yeminli çevirisine ihtiyacım var.
 unübersetzbar | çevrilemez | sıfat | Manche Wörter wie „Gemütlichkeit“ gelten als fast unübersetzbar. | "Gemütlichkeit" gibi bazı kelimeler neredeyse çevrilemez sayılır.
 ## Dil öğrenme
-die Muttersprache (die Muttersprachen) | ana dil | isim (d) | Meine Muttersprache ist Türkisch, aber ich träume oft auf Deutsch. | Ana dilim Türkçe ama sık sık Almanca rüya görüyorum.
+die Muttersprache (die Muttersprachen) | ana dil | isim (d) | Meine Muttersprache ist Spanisch, aber ich träume oft auf Deutsch. | Ana dilim İspanyolca ama sık sık Almanca rüya görüyorum.
 die Zweitsprache (die Zweitsprachen) | ikinci dil | isim (d) | Für viele Kinder in Berlin ist Deutsch die Zweitsprache. | Berlin'deki birçok çocuk için Almanca ikinci dildir.
 fließend | akıcı | sıfat | Nach drei Jahren in Wien spricht sie fließend Deutsch. | Viyana'da üç yıldan sonra akıcı Almanca konuşuyor.
 der Muttersprachler (die Muttersprachler) | ana dili konuşan | isim (e) | Am besten übt man mit einem Muttersprachler. | En iyisi ana dili konuşan biriyle pratik yapmaktır.
 der Sprachkurs (die Sprachkurse) | dil kursu | isim (e) | Im Sprachkurs sind Leute aus zwölf verschiedenen Ländern. | Dil kursunda on iki farklı ülkeden insanlar var.
 die Sprachkenntnisse | dil bilgisi (beceri) | isim (çoğul) | Für die Stelle sind gute Sprachkenntnisse in Englisch nötig. | Pozisyon için iyi düzeyde İngilizce bilgisi gerekli.
-das Sprachtandem (die Sprachtandems) | dil değişim partnerliği | isim (o) | Im Sprachtandem lerne ich Deutsch und sie lernt Türkisch. | Dil değişiminde ben Almanca öğreniyorum, o da Türkçe öğreniyor.
+das Sprachtandem (die Sprachtandems) | dil değişim partnerliği | isim (o) | Im Sprachtandem lerne ich Deutsch und sie lernt Italienisch. | Dil değişiminde ben Almanca öğreniyorum, o da İtalyanca öğreniyor.
 die Sprachbarriere (die Sprachbarrieren) | dil engeli | isim (d) | Am Anfang war die Sprachbarriere das größte Problem. | Başlangıçta dil engeli en büyük sorundu.
 der Lernerfolg (die Lernerfolge) | öğrenme başarısı | isim (e) | Kleine Lernerfolge motivieren mich jeden Tag, weiterzumachen. | Küçük öğrenme başarıları beni her gün devam etmeye motive ediyor.
 mehrsprachig | çok dilli | sıfat | Unsere Kinder wachsen mehrsprachig mit drei Sprachen auf. | Çocuklarımız üç dille çok dilli büyüyor.
@@ -81,7 +81,7 @@ die Rechtschreibung | yazım, imla | isim (d) | In der Prüfung zählt auch die 
 der Buchstabe (die Buchstaben) | harf | isim (e) | Das deutsche Alphabet hat sechsundzwanzig Buchstaben und dazu noch ß. | Alman alfabesinde yirmi altı harf ve ayrıca ß var.
 die Großschreibung | büyük harfle yazım | isim (d) | Die Großschreibung von Nomen ist typisch für Deutsch. | İsimlerin büyük harfle yazılması Almancaya özgüdür.
 der Rechtschreibfehler (die Rechtschreibfehler) | yazım hatası | isim (e) | In deinem Brief sind nur zwei kleine Rechtschreibfehler. | Mektubunda sadece iki küçük yazım hatası var.
-das Alphabet (die Alphabete) | alfabe | isim (o) | Das türkische Alphabet hat insgesamt neunundzwanzig verschiedene Buchstaben. | Türk alfabesinde toplam yirmi dokuz farklı harf var.
+das Alphabet (die Alphabete) | alfabe | isim (o) | Viele Kinder lernen das Alphabet mit einem kleinen Lied. | Birçok çocuk alfabeyi küçük bir şarkıyla öğrenir.
 leserlich | okunaklı | sıfat | Bitte schreiben Sie Ihren Namen leserlich in Druckbuchstaben. | Lütfen adınızı okunaklı şekilde büyük harflerle yazın.
 die Silbentrennung | heceleme (satır sonu) | isim (d) | Die Silbentrennung am Zeilenende macht das Programm automatisch. | Satır sonundaki heceye bölmeyi program otomatik yapıyor.
 das Diktat (die Diktate) | dikte | isim (o) | Morgen schreiben die Schüler ein Diktat über den Herbst. | Öğrenciler yarın sonbahar hakkında bir dikte yazacak.

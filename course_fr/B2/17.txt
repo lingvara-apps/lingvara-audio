@@ -50,12 +50,12 @@ le constat amiable | kaza tespit tutanağı | isim (e) | Après l'accrochage, no
 l'accrochage (m) | hafif çarpışma, sürtme | isim (e) | Ce n'est qu'un petit accrochage, personne n'est blessé. | Sadece küçük bir sürtme, kimse yaralanmadı.
 la dépanneuse | çekici | isim (d) | La dépanneuse a emmené ma voiture au garage. | Çekici arabamı garaja götürdü.
 la crevaison | lastik patlaması | isim (d) | Nous avons eu une crevaison au milieu de la nuit. | Gecenin ortasında lastiğimiz patladı.
-crever | patlamak (lastik); geberme (argo) | fiil | Mon pneu a crevé à cause d'un clou. | Lastiğim bir çivi yüzünden patladı.
+crever | patlamak (lastik); gebermek (argo) | fiil | Mon pneu a crevé à cause d'un clou. | Lastiğim bir çivi yüzünden patladı.
 le garagiste | oto tamircisi | isim (e) | Le garagiste m'a fait un devis pour réparer la portière. | Tamirci kapıyı onarmak için bana fiyat teklifi verdi.
 le contrôle technique | araç muayenesi | isim (e) | Ma voiture doit passer le contrôle technique avant juin. | Arabam hazirandan önce muayeneye girmeli.
 la vidange | yağ değişimi; boşaltma | isim (d) | Il faut faire la vidange tous les quinze mille kilomètres. | Her on beş bin kilometrede bir yağ değişimi yapmak gerekiyor.
 ## Toplu taşıma
-le RER | banliyö treni (Paris) | isim (e) | Je prends le RER B pour aller à l'aéroport. | Havalimanına gitmek için RER B'ye biniyorum.
+le train de banlieue | banliyö treni | isim (e) | Je prends le train de banlieue pour aller à l'aéroport. | Havalimanına gitmek için banliyö trenine biniyorum.
 la fréquence | sıklık; frekans | isim (d) | La fréquence des bus est très faible le dimanche. | Pazar günleri otobüslerin sıklığı çok düşük.
 le terminus | son durak | isim (e) | Tous les passagers descendent, nous sommes au terminus. | Bütün yolcular inin, son duraktayız.
 la navette | servis aracı, ring | isim (d) | Une navette gratuite relie la gare à l'hôtel. | Ücretsiz bir servis garı otele bağlıyor.
@@ -77,12 +77,12 @@ le véhicule utilitaire | hafif ticari araç | isim (e) | Il a loué un véhicul
 le deux-roues | iki tekerlekli araç | isim (e) | Les deux-roues doivent rouler sur la piste cyclable. | İki tekerlekli araçlar bisiklet yolunda gitmeli.
 la voiture de location | kiralık araba | isim (d) | Nous avons pris une voiture de location à l'aéroport. | Havalimanında kiralık bir araba aldık.
 ## Yolculukta
-la gare routière | otogar | isim (d) | La gare routière se trouve juste à côté de la gare SNCF. | Otogar tren garının hemen yanında.
+la gare routière | otogar | isim (d) | La gare routière se trouve juste à côté de la gare ferroviaire. | Otogar tren garının hemen yanında.
 l'aire de repos (f) | dinlenme tesisi | isim (d) | Arrêtons-nous à la prochaine aire de repos pour manger. | Yemek için bir sonraki dinlenme tesisinde duralım.
 l'auto-stop (m) | otostop | isim (e) | Quand j'étais étudiant, je voyageais en auto-stop. | Öğrenciyken otostopla seyahat ederdim.
 le GPS | GPS, navigasyon | isim (e) | Le GPS nous a fait passer par de toutes petites routes. | GPS bizi minicik yollardan geçirdi.
 la carte routière | karayolu haritası | isim (d) | Mon père préfère toujours la vieille carte routière au GPS. | Babam hâlâ eski karayolu haritasını GPS'e tercih ediyor.
-le TGV | hızlı tren | isim (e) | En TGV, on va de Paris à Bordeaux en deux heures. | Hızlı trenle Paris'ten Bordeaux'ya iki saatte gidiliyor.
+le train à grande vitesse | hızlı tren | isim (e) | En train à grande vitesse, on va de Paris à Bordeaux en un peu plus de deux heures. | Hızlı trenle Paris'ten Bordeaux'ya iki saatten biraz fazla sürede gidiliyor.
 le kilométrage | kilometre (araç) | isim (e) | Cette voiture d'occasion a un faible kilométrage. | Bu ikinci el arabanın kilometresi düşük.
 la station de recharge | şarj istasyonu | isim (d) | Il y a de plus en plus de stations de recharge sur l'autoroute. | Otoyolda giderek daha fazla şarj istasyonu var.
 le tunnel | tünel | isim (e) | Le tunnel du Mont-Blanc relie la France à l'Italie. | Mont-Blanc tüneli Fransa'yı İtalya'ya bağlıyor.

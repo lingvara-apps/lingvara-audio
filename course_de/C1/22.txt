@@ -1,4 +1,4 @@
-# UNIT: Atasözleri ve kanatlı sözler | Halk bilgeliği ve edebiyattan alıntılar
+# UNIT: Atasözleri ve kanatlı sözler | Halk bilgeliği, edebiyat ve eski metinlerden gelen deyimler
 ## Emek ve çalışma
 Ohne Fleiß kein Preis | Emek olmadan yemek olmaz | atasözü | Sie lernt jeden Abend Vokabeln, denn ohne Fleiß kein Preis. | Her akşam kelime çalışıyor, çünkü emek olmadan yemek olmaz.
 Übung macht den Meister | İşleye işleye demir ışıldar | atasözü | Am Anfang klingt die Geige schrecklich, aber Übung macht den Meister. | Başta keman korkunç ses çıkarıyor ama işleye işleye demir ışıldar.
@@ -24,7 +24,7 @@ Aller Anfang ist schwer | Her başlangıç zordur | atasözü | In der ersten Wo
 ## Para ve tutumluluk
 Spare in der Zeit, so hast du in der Not | Ak akçe kara gün içindir | atasözü | Meine Oma sagte immer, spare in der Zeit, so hast du in der Not. | Büyükannem hep ak akçe kara gün içindir derdi.
 Geld allein macht nicht glücklich | Para tek başına mutlu etmez | atasözü | Er ist reich, aber einsam, Geld allein macht eben nicht glücklich. | Zengin ama yalnız, para tek başına mutlu etmiyor işte.
-Wer den Pfennig nicht ehrt, ist des Talers nicht wert | Kuruşa değer vermeyen lirayı hak etmez | atasözü | Heb die Münze auf, wer den Pfennig nicht ehrt, ist des Talers nicht wert. | Bozuk parayı yerden al, kuruşa değer vermeyen lirayı hak etmez.
+Wer den Pfennig nicht ehrt, ist des Talers nicht wert | Küçük paraya değer vermeyen büyüğünü hak etmez | atasözü | Heb die Münze auf, wer den Pfennig nicht ehrt, ist des Talers nicht wert. | Bozuk parayı yerden al, küçük paraya değer vermeyen büyüğünü hak etmez.
 Geld stinkt nicht | Paranın kokusu olmaz | atasözü | Er verdient sein Geld mit Müllentsorgung und sagt immer, Geld stinkt nicht. | Parasını çöp toplamaktan kazanıyor ve hep paranın kokusu olmaz diyor.
 Bei Geld hört die Freundschaft auf | Hesap ayrı, dostluk ayrı | atasözü | Leih ihm lieber kein Geld, bei Geld hört die Freundschaft auf. | Ona borç vermesen iyi olur, hesap ayrı, dostluk ayrı.
 Wer billig kauft, kauft teuer | Ucuz etin yahnisi yavan olur | atasözü | Die billigen Schuhe waren nach einem Monat kaputt, wer billig kauft, kauft teuer. | Ucuz ayakkabılar bir ayda bozuldu, ucuz etin yahnisi yavan olur.
@@ -49,7 +49,7 @@ Der Klügere gibt nach | Akıllı olan geri adım atar | atasözü | Hör auf zu
 Hochmut kommt vor dem Fall | Kibir düşüşten önce gelir | atasözü | Er hielt sich für unschlagbar und verlor dann klar, Hochmut kommt vor dem Fall. | Kendini yenilmez sanıyordu ve sonra açıkça kaybetti, kibir düşüşten önce gelir.
 Man soll den Tag nicht vor dem Abend loben | Dereyi görmeden paçaları sıvama | atasözü | Wir führen zwar, aber man soll den Tag nicht vor dem Abend loben. | Öndeyiz ama dereyi görmeden paçaları sıvamamak lazım.
 Wer zuletzt lacht, lacht am besten | Son gülen iyi güler | atasözü | Sie haben über ihn gelacht, aber wer zuletzt lacht, lacht am besten. | Ona güldüler ama son gülen iyi güler.
-Doppelt hält besser | Sağlam kazık kök salar, iki kere kontrol iyidir | atasözü | Ich habe die Tür zweimal abgeschlossen, doppelt hält besser. | Kapıyı iki kere kilitledim, sağlama almak iyidir.
+Doppelt hält besser | Sağlama almak iyidir | atasözü | Ich habe die Tür zweimal abgeschlossen, doppelt hält besser. | Kapıyı iki kere kilitledim, sağlama almak iyidir.
 Aus Schaden wird man klug | İnsan zararla akıllanır | atasözü | Nach dem Betrug prüft sie jedes Angebot genau, aus Schaden wird man klug. | Dolandırıldıktan sonra her teklifi dikkatle inceliyor, insan zararla akıllanır.
 Probieren geht über Studieren | Denemek okumaktan iyidir | atasözü | Lies nicht ewig die Anleitung, probieren geht über Studieren. | Kılavuzu bitmek bilmeden okuma, denemek okumaktan iyidir.
 Wo Rauch ist, ist auch Feuer | Ateş olmayan yerden duman çıkmaz | atasözü | Über die Firma gibt es viele Gerüchte, und wo Rauch ist, ist auch Feuer. | Firma hakkında çok söylenti var ve ateş olmayan yerden duman çıkmaz.
@@ -65,39 +65,39 @@ Morgen, morgen, nur nicht heute, sagen alle faulen Leute | Tembel hep yarın der
 Stille Wasser sind tief | Durgun suların derini olur | atasözü | Sie redet wenig, hat aber kluge Gedanken, stille Wasser sind tief. | Az konuşuyor ama akıllıca düşünceleri var, durgun suların derini olur.
 Wer schreibt, der bleibt | Yazı kalır, söz uçar | atasözü | Halte die Vereinbarung lieber schriftlich fest, wer schreibt, der bleibt. | Anlaşmayı yazılı olarak kaydetsen iyi olur, söz uçar yazı kalır.
 Ausnahmen bestätigen die Regel | İstisnalar kuralı bozmaz | atasözü | Normalerweise ist er pünktlich, aber Ausnahmen bestätigen die Regel. | Normalde dakiktir ama istisnalar kuralı bozmaz.
-## Goethe'den kanatlı sözler
+## Edebiyat ve mitolojiden gelen deyimler
 Das also war des Pudels Kern | Demek işin aslı buymuş | ifade | Er wollte gar nicht helfen, sondern Geld verdienen, das also war des Pudels Kern. | Aslında yardım etmek değil para kazanmak istiyormuş, demek işin aslı buymuş.
-Zwei Seelen wohnen, ach, in meiner Brust | Göğsümde iki ruh yaşıyor | ifade | Bleiben oder gehen? Zwei Seelen wohnen, ach, in meiner Brust. | Kalmak mı gitmek mi? Göğsümde iki ruh yaşıyor.
+die Gretchenfrage (die Gretchenfragen) | can alıcı soru (kişinin tutumunu ortaya koyan) | isim (d) | Nun kommt die Gretchenfrage: Wer soll das alles eigentlich bezahlen? | Şimdi can alıcı soru geliyor: Bütün bunları aslında kim ödeyecek?
 Die Geister, die ich rief | Çağırdığım cinler (başa bela olan şey) | ifade | Die Touristenmassen sind die Geister, die ich rief, klagt der Bürgermeister. | Turist kalabalıkları kendi çağırdığım cinler, diye yakınıyor belediye başkanı.
-Grau, teurer Freund, ist alle Theorie | Bütün kuramlar gridir, sevgili dostum | ifade | Grau, teurer Freund, ist alle Theorie, jetzt müssen wir es praktisch versuchen. | Bütün kuramlar gridir sevgili dostum, şimdi pratikte denemeliyiz.
-Mehr Licht | Daha çok ışık | ifade | Mehr Licht sollen angeblich die letzten Worte Goethes gewesen sein. | Daha çok ışık sözünün rivayete göre Goethe'nin son sözleri olduğu söylenir.
-Edel sei der Mensch, hilfreich und gut | İnsan soylu, yardımsever ve iyi olsun | ifade | Edel sei der Mensch, hilfreich und gut, schrieb Goethe in einem Gedicht. | Goethe bir şiirinde insan soylu, yardımsever ve iyi olsun diye yazdı.
-Wer immer strebend sich bemüht | Hep çabalayan kişi (kurtuluşu hak eder) | ifade | Wer immer strebend sich bemüht, den können wir erlösen, heißt es im Faust. | Faust'ta hep çabalayanı kurtarabiliriz denir.
-Da steh ich nun, ich armer Tor | İşte buradayım, ben zavallı budala | ifade | Nach all den Kursen weiß ich nichts, da steh ich nun, ich armer Tor. | Bütün kurslardan sonra hiçbir şey bilmiyorum, işte buradayım, ben zavallı budala.
-Verweile doch, du bist so schön | Dur biraz, öyle güzelsin ki | ifade | Beim Sonnenuntergang am See dachte ich nur, verweile doch, du bist so schön. | Gölde gün batımında sadece dur biraz, öyle güzelsin ki diye düşündüm.
+Grau ist alle Theorie | Teori kuru kalır, asıl olan uygulamadır | atasözü | Grau ist alle Theorie, jetzt müssen wir es endlich praktisch ausprobieren. | Teori kuru kalır, şimdi artık pratikte denememiz lazım.
+sich auf seinen Lorbeeren ausruhen | başarısıyla yetinip gevşemek | deyim | Nach dem Sieg dürfen wir uns nicht auf unseren Lorbeeren ausruhen. | Zaferden sonra başarımızla yetinip gevşememeliyiz.
+das Danaergeschenk (die Danaergeschenke) | başa bela hediye, zararlı armağan | isim (o) | Das billige Grundstück erwies sich als Danaergeschenk, denn der Boden war verseucht. | Ucuz arsa başa bela bir hediye çıktı, çünkü toprak kirlenmişti.
+der Zankapfel (die Zankäpfel) | nifak tohumu, anlaşmazlık konusu | isim (e) | Das Erbe der Großmutter wurde zum Zankapfel zwischen den Geschwistern. | Büyükannenin mirası kardeşler arasında nifak tohumuna dönüştü.
+der Kassandraruf (die Kassandrarufe) | kimsenin dinlemediği uyarı | isim (e) | Ihre Warnungen vor der Krise galten lange als Kassandrarufe, bis alles eintraf. | Kriz konusundaki uyarıları her şey gerçekleşene kadar uzun süre kimsenin dinlemediği uyarılar sayıldı.
+der Schildbürgerstreich (die Schildbürgerstreiche) | ahmakça iş, saçma sapan uygulama | isim (e) | Eine neue Brücke ganz ohne Zufahrtsstraße ist ein echter Schildbürgerstreich. | Hiç bağlantı yolu olmayan yeni bir köprü tam bir ahmakça iştir.
 Name ist Schall und Rauch | İsim ses ve dumandan ibarettir | ifade | Wie das Produkt heißt, ist egal, Name ist Schall und Rauch. | Ürünün adının ne olduğu fark etmez, isim ses ve dumandan ibarettir.
-## Schiller ve diğer yazarlar
-Die Axt im Haus erspart den Zimmermann | Evde balta olan marangoza muhtaç olmaz | ifade | Ich repariere das selbst, die Axt im Haus erspart den Zimmermann. | Bunu kendim tamir ederim, evde balta olan marangoza muhtaç olmaz.
+## Hayat ve insanlar üzerine atasözleri
+Die Axt im Haus erspart den Zimmermann | Evde balta olan marangoza muhtaç olmaz | atasözü | Ich repariere das selbst, die Axt im Haus erspart den Zimmermann. | Bunu kendim tamir ederim, evde balta olan marangoza muhtaç olmaz.
 Drum prüfe, wer sich ewig bindet | Ömür boyu bağlanan iyice düşünsün | ifade | Sie kennen sich erst seit einem Monat, drum prüfe, wer sich ewig bindet. | Daha bir aydır tanışıyorlar, ömür boyu bağlanan iyice düşünsün.
-Der Starke ist am mächtigsten allein | Güçlü olan en çok yalnızken güçlüdür (Schiller) | ifade | Er will keine Hilfe und sagt, der Starke ist am mächtigsten allein. | Yardım istemiyor ve güçlü olan en çok yalnızken güçlüdür diyor.
-Durch diese hohle Gasse muss er kommen | Bu dar sokaktan geçmek zorunda | ifade | Durch diese hohle Gasse muss er kommen, sagte sie und wartete am einzigen Ausgang. | Bu dar sokaktan geçmek zorunda, dedi ve tek çıkışta bekledi.
+Der Teufel steckt im Detail | İşin püf noktası ayrıntılardadır | atasözü | Der Umbau klang ganz einfach, aber wie immer steckte der Teufel im Detail. | Tadilat çok basit görünüyordu ama her zamanki gibi işin püf noktası ayrıntılardaydı.
+Schuster, bleib bei deinem Leisten | Herkes kendi işini yapsın | atasözü | Als der Koch die Elektrik reparieren wollte, dachte ich nur: Schuster, bleib bei deinem Leisten. | Aşçı elektriği tamir etmeye kalkınca sadece herkes kendi işini yapsın diye düşündüm.
 Spät kommt ihr, doch ihr kommt | Geç geldiniz ama geldiniz | ifade | Spät kommt ihr, doch ihr kommt, begrüßte der Gastgeber die letzten Gäste. | Ev sahibi son konukları geç geldiniz ama geldiniz diye karşıladı.
-Denk ich an Deutschland in der Nacht | Gece Almanya'yı düşündüğümde (Heine) | ifade | Denk ich an Deutschland in der Nacht, so beginnt ein berühmtes Gedicht von Heine. | Heine'nin ünlü bir şiiri gece Almanya'yı düşündüğümde diye başlar.
-Erst kommt das Fressen, dann kommt die Moral | Önce karın doyar, sonra ahlak gelir (Brecht) | ifade | Erst kommt das Fressen, dann kommt die Moral, heißt es in Brechts Dreigroschenoper. | Brecht'in Üç Kuruşluk Opera'sında önce karın doyar, sonra ahlak gelir denir.
-Dies war der erste Streich | Bu ilk muzipliğiydi (Wilhelm Busch) | ifade | Dies war der erste Streich, doch der zweite folgt sogleich, lachte der Junge. | Bu ilk muzipliğimdi, ikincisi hemen geliyor, diye güldü çocuk.
-Nathan der Weise | Bilge Nathan (hoşgörü sembolü) | ifade | Lessings Drama Nathan der Weise gilt als Plädoyer für Toleranz zwischen den Religionen. | Lessing'in Bilge Nathan oyunu dinler arası hoşgörü için bir savunu sayılır.
-Wo man singt, da lass dich ruhig nieder | Şarkı söylenen yere çekinmeden otur | ifade | Wo man singt, da lass dich ruhig nieder, böse Menschen haben keine Lieder. | Şarkı söylenen yere çekinmeden otur, kötü insanların şarkıları olmaz.
-## Kitab-ı Mukaddes ve Luther kökenli sözler
+Einmal ist keinmal | Bir kereden bir şey olmaz | atasözü | Komm, iss noch ein Stück Kuchen, einmal ist keinmal! | Hadi, bir dilim pasta daha ye, bir kereden bir şey olmaz!
+Not kennt kein Gebot | Zaruret kural tanımaz | atasözü | Wir mussten über den Zaun klettern, um Hilfe zu holen, Not kennt kein Gebot. | Yardım çağırmak için çitin üstünden atlamak zorunda kaldık, zaruret kural tanımaz.
+Mit Speck fängt man Mäuse | Yemle kuş tutulur | atasözü | Mit Gratiskaffee lockt das Geschäft neue Kunden an, mit Speck fängt man Mäuse. | Dükkân bedava kahveyle yeni müşteri çekiyor, yemle kuş tutulur.
+Man muss die Feste feiern, wie sie fallen | Kutlanacak bir şey varsa zamanında kutlamalı | atasözü | Heute ist zwar Dienstag, aber man muss die Feste feiern, wie sie fallen. | Bugün salı ama kutlanacak bir şey varsa zamanında kutlamak lazım.
+Wer schön sein will, muss leiden | Güzel olmak isteyen acıya katlanır | atasözü | Die neuen Schuhe drücken, aber wer schön sein will, muss leiden. | Yeni ayakkabılar sıkıyor ama güzel olmak isteyen acıya katlanır.
+## Kutsal metinlerden gelen deyimler
 Wer andern eine Grube gräbt, fällt selbst hinein | Başkasına kuyu kazan kendisi düşer | atasözü | Er wollte den Kollegen bloßstellen und wurde selbst entlassen, wer andern eine Grube gräbt, fällt selbst hinein. | Meslektaşını rezil etmek istedi ve kendisi kovuldu, başkasına kuyu kazan kendisi düşer.
 Der Mensch lebt nicht vom Brot allein | İnsan yalnızca ekmekle yaşamaz | ifade | Der Mensch lebt nicht vom Brot allein, er braucht auch Musik und Freunde. | İnsan yalnızca ekmekle yaşamaz, müziğe ve dostlara da ihtiyacı vardır.
-Hier stehe ich, ich kann nicht anders | İşte buradayım, başka türlü yapamam | ifade | Hier stehe ich, ich kann nicht anders, soll Luther in Worms gesagt haben. | Luther'in Worms'ta işte buradayım, başka türlü yapamam dediği rivayet edilir.
+seine Hände in Unschuld waschen | sorumluluğu üstünden atmak, elini yıkamak | deyim | Der Direktor wäscht seine Hände in Unschuld, obwohl er von allem wusste. | Müdür her şeyi bilmesine rağmen sorumluluğu üstünden atıyor.
 Perlen vor die Säue werfen | Kıymet bilmeyene değerli şey vermek | deyim | Ihm teuren Wein zu schenken heißt Perlen vor die Säue werfen. | Ona pahalı şarap hediye etmek kıymet bilmeyene inci vermek demek.
 sein Licht unter den Scheffel stellen | yeteneğini saklamak, alçakgönüllü davranmak | deyim | Du kannst so gut singen, stell dein Licht nicht unter den Scheffel! | Çok güzel şarkı söylüyorsun, yeteneğini saklama!
 ein Buch mit sieben Siegeln | yedi mühürlü kitap, anlaşılmaz şey | ifade | Die neue Steuerreform ist für mich ein Buch mit sieben Siegeln. | Yeni vergi reformu benim için anlaşılmaz bir şey.
 die Spreu vom Weizen trennen | iyiyi kötüden ayırmak | deyim | Das Auswahlverfahren soll die Spreu vom Weizen trennen. | Seçme süreci iyiyi kötüden ayırmayı amaçlıyor.
 ein Wolf im Schafspelz | koyun postuna bürünmüş kurt | ifade | Hinter seiner freundlichen Fassade verbirgt sich ein Wolf im Schafspelz. | Nazik görünümünün ardında koyun postuna bürünmüş bir kurt saklanıyor.
 der Stein des Anstoßes | anlaşmazlığın kaynağı | ifade | Der geplante Parkplatz ist der Stein des Anstoßes in der Gemeinde. | Planlanan otopark belediyedeki anlaşmazlığın kaynağı.
-dem Volk aufs Maul schauen | halkın konuştuğu dili dinlemek (Luther) | deyim | Luther wollte bei seiner Übersetzung dem Volk aufs Maul schauen. | Luther çevirisinde halkın konuştuğu dili dinlemek istedi.
+das A und O | işin özü, en önemli şey | ifade | Gute Vorbereitung ist das A und O jeder erfolgreichen Prüfung. | İyi hazırlık her başarılı sınavın en önemli unsurudur.
 ## Gündelik bilgelik
 Morgen ist auch noch ein Tag | Yarın da bir gün | atasözü | Lass die Arbeit jetzt liegen, morgen ist auch noch ein Tag. | İşi şimdi bırak, yarın da bir gün.
 Lieber den Spatz in der Hand als die Taube auf dem Dach | Bugünün tavuğu yarının kazından iyidir | atasözü | Nimm das sichere Angebot, lieber den Spatz in der Hand als die Taube auf dem Dach. | Garantili teklifi kabul et, bugünün tavuğu yarının kazından iyidir.

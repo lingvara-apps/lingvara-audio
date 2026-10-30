@@ -13,7 +13,7 @@
 ## Ünlemler
 えっ (e') | ha?, ne? (şaşkınlık) | ünlem | えっ、もう終わっちゃったの？ | Ha? Bitti mi bile?
 まじか (majika) | ciddi mi ya, yok artık (argo) | ünlem | まじか、今日の授業休みだったの？ | Yok artık, bugünkü ders iptal miymiş?
-やれやれ (yareyare) | of be, hay Allah (bıkkınlık, rahatlama) | ünlem | やれやれ、やっと仕事が片付いた。 | Oh be, nihayet iş bitti.
+やれやれ (yareyare) | of be, hay aksi (bıkkınlık, rahatlama) | ünlem | やれやれ、やっと仕事が片付いた。 | Oh be, nihayet iş bitti.
 しまった (shimatta) | eyvah, hay aksi | ünlem | しまった、傘を電車に忘れた。 | Eyvah, şemsiyeyi trende unuttum.
 あれっ (are') | aa?, hani? (beklenmedik durum) | ünlem | あれっ、鍵がない。どこに置いたっけ。 | Aa, anahtar yok. Nereye koymuştum?
 おっと (otto) | hoppala, dur (son anda fark etme) | ünlem | おっと、危ない。段差に気をつけて。 | Hoppala, dikkat et! Basamağa dikkat.
@@ -27,7 +27,7 @@
 なんていうか (nante iu ka) | nasıl desem | ifade | なんていうか、彼の絵は不思議な魅力があるんだよね。 | Nasıl desem, onun resimlerinde garip bir çekicilik var.
 なんか (nanka) | sanki, falan (belirsizlik) | zarf | なんか、今日は元気ないね。 | Bugün sanki biraz keyifsizsin.
 ていうか (te iu ka) | yani, daha doğrusu, aslında | bağlaç | ていうか、それって先に言ってよ。 | Yani bunu baştan söyleseydin ya.
-やっぱ (yappa) | tahmin ettiğim gibi, yine de (yahari'nin konuşma biçimi) | zarf | やっぱ、夏はかき氷が一番だね。 | Her şey bir yana, yazın en iyisi buzlu tatlı.
+やっぱ (yappa) | tahmin ettiğim gibi, yine de (yahari'nin konuşma biçimi) | zarf | やっぱ、夏はかき氷が一番だね。 | Ne de olsa yazın en iyisi rendelenmiş buz tatlısı.
 とりあえず (toriaezu) | şimdilik, ilk etapta | zarf | とりあえず、ビールを二つお願いします。 | İlk etapta iki bira lütfen.
 一応 (ichiō) | her ihtimale karşı, şöyle böyle | zarf | 一応、傘を持っていったほうがいいよ。 | Her ihtimale karşı şemsiye alsan iyi olur.
 ぶっちゃけ (butchake) | açıkçası, lafı dolandırmadan | zarf | ぶっちゃけ、あの映画はつまらなかった。 | Açıkçası o film sıkıcıydı.
@@ -84,7 +84,7 @@
 ブチギレる (buchigireru) | zıvanadan çıkmak, çok fena kızmak | fiil | 何度も約束を破られて、さすがにブチギレた。 | Sözünü defalarca bozunca ben de zıvanadan çıktım.
 テンパる (tenparu) | panik olmak, kafası karışmak | fiil | 急に質問されて、完全にテンパってしまった。 | Birden soru sorulunca tamamen panikledim.
 凝る (koru) | merak sarmak, kafayı takmak (hobiye) | fiil | 最近、父はパン作りに凝っている。 | Son zamanlarda babam ekmek yapmaya merak sardı.
-ビビる (biviru) | korkmak, ürkmek (argo) | fiil | 急に大きな音がして、ビビった。 | Birden büyük bir ses gelince korktum.
+ビビる (bibiru) | korkmak, ürkmek (argo) | fiil | 急に大きな音がして、ビビった。 | Birden büyük bir ses gelince korktum.
 浮かれる (ukareru) | havalara uçmak, sevinçten kendini kaptırmak | fiil | 合格したからといって、浮かれてばかりはいられない。 | Kazandım diye sürekli havalara uçamam.
 ムッとする (mutto suru) | bozulmak, alınmak | fiil | 年齢を聞かれて、彼女は少しムッとした。 | Yaşı sorulunca biraz bozuldu.
 ## Kişilerden söz ederken

@@ -25,7 +25,7 @@ lo scippo | kapkaç | isim (e) | Alla fermata del tram c'è stato uno scippo. | 
 l'indagine (d) | soruşturma | isim (d) | La polizia ha aperto un'indagine sull'incendio. | Polis yangınla ilgili bir soruşturma başlattı.
 indagare | soruşturmak | fiil | I carabinieri indagano sulla scomparsa del ragazzo. | Jandarma çocuğun kaybolmasını soruşturuyor.
 il sospettato | şüpheli | isim (e) | Il sospettato non ha un alibi per quella notte. | Şüphelinin o gece için bir mazereti yok.
-il movente | suç işleme nedeni, saik | isim (e) | Gli investigatori cercano ancora il movente del delitto. | Müfettişler hâlâ suçun nedenini arıyor.
+il movente | suç işleme nedeni, saik | isim (e) | Gli investigatori cercano ancora il movente del delitto. | Soruşturmacılar hâlâ suçun nedenini arıyor.
 il complice | suç ortağı | isim (e) | Il ladro aveva un complice che lo aspettava in macchina. | Hırsızın arabada onu bekleyen bir suç ortağı vardı.
 l'interrogatorio (e) | sorgu | isim (e) | L'interrogatorio del sospettato è durato tutta la notte. | Şüphelinin sorgusu bütün gece sürdü.
 confessare | itiraf etmek | fiil | Dopo ore di domande ha confessato tutto. | Saatlerce süren sorulardan sonra her şeyi itiraf etti.
@@ -52,7 +52,7 @@ il detenuto | tutuklu, hükümlü | isim (e) | In carcere i detenuti possono stu
 l'ergastolo (e) | müebbet hapis | isim (e) | Per l'omicidio è stato condannato all'ergastolo. | Cinayet nedeniyle müebbet hapse mahkûm edildi.
 la cauzione | kefalet | isim (d) | È uscito di prigione dopo aver pagato la cauzione. | Kefaleti ödedikten sonra hapisten çıktı.
 evadere (evaso) | (hapisten) kaçmak | fiil · düzensiz | Due detenuti sono evasi durante la notte. | İki mahkûm gece cezaevinden kaçtı.
-la prigione | zindan, hapishane | isim (d) | Il vecchio castello è stato una prigione per due secoli. | Eski kale iki yüzyıl boyunca hapishane olarak kullanıldı.
+la prigione | hapishane | isim (d) | Il vecchio castello è stato una prigione per due secoli. | Eski kale iki yüzyıl boyunca hapishane olarak kullanıldı.
 scontare | çekmek (ceza) | fiil | Ha scontato la sua pena e ora lavora in un ristorante. | Cezasını çekti, şimdi bir restoranda çalışıyor.
 ## Güvenlik güçleri
 il commissariato | karakol | isim (e) | Per denunciare il furto sono andato al commissariato. | Hırsızlığı bildirmek için karakola gittim.
@@ -70,7 +70,7 @@ il governo | hükümet | isim (e) | Il governo ha presentato la nuova legge sul 
 il parlamento | meclis, parlamento | isim (e) | Il parlamento discute la riforma della scuola. | Meclis okul reformunu tartışıyor.
 il ministro | bakan | isim (e) | Il ministro della salute ha visitato il nuovo ospedale. | Sağlık bakanı yeni hastaneyi ziyaret etti.
 il presidente | cumhurbaşkanı; başkan | isim (e) | Il presidente del club ha annunciato il nuovo allenatore. | Kulüp başkanı yeni antrenörü açıkladı.
-la costituzione | anayasa | isim (d) | La costituzione italiana è entrata in vigore nel 1948. | İtalyan anayasası 1948'de yürürlüğe girdi.
+la costituzione | anayasa | isim (d) | La costituzione italiana è entrata in vigore nel millenovecentoquarantotto. | İtalyan anayasası bin dokuz yüz kırk sekizde yürürlüğe girdi.
 la democrazia | demokrasi | isim (d) | In una democrazia i cittadini scelgono chi li governa. | Demokraside vatandaşlar kendilerini kimin yöneteceğini seçer.
 il partito | parti | isim (e) | Ogni partito presenta il suo programma prima del voto. | Her parti seçimden önce programını sunar.
 l'amministrazione (d) | yönetim, idare | isim (d) | L'amministrazione comunale ha promesso nuove piste ciclabili. | Belediye yönetimi yeni bisiklet yolları sözü verdi.
@@ -79,7 +79,7 @@ il deputato | milletvekili | isim (e) | Il deputato ha incontrato i cittadini de
 ## Seçimler
 le elezioni | seçimler | isim (d) | Le elezioni comunali si terranno a giugno. | Yerel seçimler haziranda yapılacak.
 votare | oy vermek | fiil | Per votare devi portare la tessera elettorale. | Oy vermek için seçmen kartını getirmen gerekiyor.
-il referendum | referandum | isim (e) | Nel 1946 gli italiani hanno scelto la repubblica con un referendum. | 1946'da İtalyanlar bir referandumla cumhuriyeti seçti.
+il referendum | referandum | isim (e) | Nel millenovecentoquarantasei gli italiani hanno scelto la repubblica con un referendum. | Bin dokuz yüz kırk altıda İtalyanlar bir referandumla cumhuriyeti seçti.
 la campagna elettorale | seçim kampanyası | isim (d) | Durante la campagna elettorale la città è piena di manifesti. | Seçim kampanyası boyunca şehir afişlerle dolu.
 l'elettore (e) | seçmen | isim (e) | Molti elettori giovani non vanno a votare. | Pek çok genç seçmen oy vermeye gitmiyor.
 l'urna (d) | sandık (seçim) | isim (d) | Domenica prossima gli italiani tornano alle urne per il sindaco. | Gelecek pazar İtalyanlar belediye başkanı için yeniden sandık başına gidiyor.

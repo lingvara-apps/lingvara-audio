@@ -53,7 +53,7 @@
 各国 (kakkoku) | her ülke | isim | 各国の代表が、自分の国の立場を説明した。 | Her ülkenin temsilcisi kendi ülkesinin tutumunu açıkladı.
 島国 (shimaguni) | ada ülkesi | isim | 日本は島国なので、海の幸が豊かだ。 | Japonya bir ada ülkesi olduğu için deniz ürünleri bol.
 内陸 (nairiku) | iç bölge, karayla çevrili | isim | 内陸の国は、海のある国と貿易の条件が違う。 | Denize kıyısı olmayan ülkelerin ticaret koşulları farklıdır.
-海峡 (kaikyō) | boğaz | isim | イスタンブールは、海峡をはさんで二つの大陸にまたがっている。 | İstanbul boğazın iki yakasıyla iki kıtaya yayılıyor.
+海峡 (kaikyō) | boğaz | isim | 船で海峡を渡って、向こうの島へ行った。 | Gemiyle boğazı geçip karşıdaki adaya gittik.
 ## Seçimler ve iktidar
 候補者 (kōhosha) | aday | isim | 選挙の前に、候補者の意見をよく調べた。 | Seçimden önce adayların görüşlerini iyice araştırdım.
 当選 (tōsen) | seçilme, kazanma | isim | 彼は三回目の選挙で、初めて当選した。 | Üçüncü seçiminde ilk kez kazandı.
@@ -106,6 +106,6 @@
 分断 (bundan) | bölünme | isim | 意見の対立が、社会の分断を生んでいる。 | Görüş ayrılıkları toplumsal bölünmeye yol açıyor.
 連邦 (renpō) | federasyon | isim | その国は、いくつかの州からなる連邦国家だ。 | O ülke birkaç eyaletten oluşan bir federal devlettir.
 王国 (ōkoku) | krallık | isim | 昔この島には、小さな王国があった。 | Eskiden bu adada küçük bir krallık vardı.
-共和国 (kyōwakoku) | cumhuriyet | isim | トルコは一九二三年に共和国になった。 | Türkiye 1923'te cumhuriyet oldu.
+共和国 (kyōwakoku) | cumhuriyet | isim | その国は、百年前に王国から共和国に変わった。 | O ülke yüz yıl önce krallıktan cumhuriyete geçti.
 国旗 (kokki) | ulusal bayrak | isim | オリンピックの会場に、各国の国旗が並んでいる。 | Olimpiyat alanında ülkelerin bayrakları sıralanmış.
 君主 (kunshu) | hükümdar | isim | 昔の君主は、大きな城に住んでいた。 | Eski hükümdarlar büyük kalelerde yaşardı.

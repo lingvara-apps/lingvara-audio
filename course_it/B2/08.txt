@@ -91,7 +91,7 @@ il sinistro | hasar olayı (sigorta), kaza | isim (e) | Dopo il sinistro l'assic
 la bancarotta | iflas (ağır) | isim (d) | La società è stata dichiarata in bancarotta. | Şirketin iflası ilan edildi.
 insolvente | borcunu ödeyemeyen | sıfat | Il cliente è insolvente e non paga da mesi. | Müşteri ödeme güçlüğünde, aylardır ödeme yapmıyor.
 il default | temerrüt, borcunu ödeyememe | isim (e) | Il paese ha evitato il default grazie a un prestito. | Ülke bir kredi sayesinde borcunu ödeyememe durumundan kurtuldu.
-la crisi finanziaria | finansal kriz | isim (d) | La crisi finanziaria del 2008 ha colpito tutto il mondo. | 2008 finansal krizi bütün dünyayı vurdu.
+la crisi finanziaria | finansal kriz | isim (d) | La crisi finanziaria del duemilaotto ha colpito tutto il mondo. | İki bin sekiz finansal krizi bütün dünyayı vurdu.
 il panico | panik | isim (e) | La notizia ha creato il panico tra i risparmiatori. | Haber tasarruf sahipleri arasında panik yarattı.
 il crac | çöküş (finansal) | isim (e) | Dopo il crac della banca molti hanno perso i risparmi. | Bankanın çöküşünden sonra birçok kişi birikimini kaybetti.
 il tracollo | büyük düşüş | isim (e) | Il tracollo delle vendite ha messo in crisi il settore. | Satışlardaki büyük düşüş sektörü krize soktu.
@@ -107,5 +107,5 @@ raddoppiare | iki katına çıkmak | fiil | In cinque anni l'affitto è quasi ra
 dimezzare | yarıya indirmek | fiil | L'azienda ha dimezzato i costi di produzione. | Şirket üretim maliyetlerini yarıya indirdi.
 triplicare | üç katına çıkarmak | fiil | Con il turismo il paese ha triplicato gli abitanti d'estate. | Turizmle köyün yazın nüfusu üç katına çıktı.
 precipitare | çakılmak, hızla düşmek | fiil | Le azioni sono precipitate dopo la notizia. | Haberden sonra hisseler hızla düştü.
-stagnare | durgunlaşmak | fiil | Dopo le feste i consumi stagnano da diversi mesi. | Bayramlardan sonra tüketim birkaç aydır durgun.
+stagnare | durgunlaşmak | fiil | Da diversi mesi i consumi delle famiglie stagnano. | Birkaç aydır hane tüketimi durgun.
 ammontare a | tutmak, varmak (miktar) | ifade | Il danno ammonta a circa due milioni di euro. | Zarar yaklaşık iki milyon euroyu buluyor.
